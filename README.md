@@ -5,6 +5,8 @@ This project belongs to my code when I was participating Big-Data Hackathon Kudo
 
 It is a simple TF-IDF search engine with a query expansion using bi-gram.
 
+![Proses](https://github.com/fajri91/document/blob/master/search2.jpg)
+
 ## Dependency
 
 - This code is implemented in Python
@@ -20,4 +22,4 @@ It is a simple TF-IDF search engine with a query expansion using bi-gram.
 
 ## Output
 
-![MMR Output](https://github.com/fajri91/document/blob/master/search.jpg)
+![SE Output](https://github.com/fajri91/document/blob/master/search.jpg)
