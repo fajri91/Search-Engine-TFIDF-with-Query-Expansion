@@ -1,0 +1,96 @@
+Templat:SHINee
+{{Navbox musical artist
+| name       = SHINee
+| title      = [[SHINee]]
+| bodyclass  = hlist
+| background = group_or_band
+| basestyle  = background:aqua;
+| above ={{nowrap begin}} [[Onew]] {{w}} [[Kim Jonghyun|Jonghyun]] {{w}} [[Key (penyanyi)|Key]] {{w}} [[Choi Minho|Minho]] {{w}} [[Lee Taemin|Taemin]]{{nowrap end}}<!-- Never bold.-->
+
+| group1 = Album Studio
+| list1  =
+  {{navbox subgroup
+
+| group1       = Korea
+| list1        = * ''[[The Shinee World|The Shinee World / Amigo]]'' 
+* ''[[Lucifer (album)|Lucifer / Hello]]''
+* ''[[Chapter 1. Dream Girl  The Misconceptions of You]]''
+* ''[[Chapter 2. Why So Serious?  The Misconceptions of Me]]''
+| group2       = Jepang
+| list2        = * ''[[The First (album)|The First]]''
+ 
+}}
+
+| group2 = Album mini
+| list2  = 
+* ''[[Replay (album mini)|Replay]]''
+* ''[[Romeo (EP)|Romeo]]''
+* ''[[2009, Year of Us]]''
+* ''[[Sherlock (EP)|Sherlock]]''
+
+| group3 = Singel
+| list3  =
+  {{navbox subgroup
+
+| group1       = Korea
+| list1        = * "[[Replay (lagu)#Versi Korea|Replay - Noona Is So Pretty]]"
+* "[[Sanso Gateun Neo (Love Like Oxygen)|Love Like Oxygen]]"
+* "[[The Shinee World#Singel|Amigo]]"
+* "[[Juliette (lagu)|Juliette]]"
+* "[[2009,_Year_of_Us#Ring_Ding_Dong|Ring Ding Dong]]"
+* "[[2009, Year of Us#Jo Jo|Jo Jo]]"
+* "[[Lucifer (lagu)#Versi Korea|Lucifer]]"
+* "[[Hello (lagu)|Hello]]"
+* "[[Sherlock (lagu)#Korean version|Sherlock (Clue + Note)]]"
+* "[[Dream Girl (lagu Shinee)|Dream Girl]]"
+* "[[Why So Serious? (lagu Shinee)|Why So Serious?]]"
+| group2        = Jepang
+| list2         = * "[[Replay (lagu)#Versi Jepang|Replay - You Are My Everything]]"
+* "[[Juliette (lagu)#Versi Jepang|Juliette]]"
+* "[[Lucifer (lagu)#Versi Jepang|Lucifer]]"
+* "[[Sherlock (lagu)#Versi Jepang|Sherlock]]"
+* "[[Dazzling Girl]]"
+* "[[1000-nen, Zutto Soba ni Ite...]]"
+* "[[Fire (lagu Shinee)|FIRE]]"
+}}
+
+| group4 = Tur Konser
+| list4  = 
+* [[Shinee World (konser)|1st Concert: SHINee WORLD]] ([[Shinee World (album live)|album]]
+* [[Shinee World (live dvd)|DVD]])
+* [[Japan Debut Premium Reception Tour]]
+* [[Shinee World 2012 (arena tour)|1st Japan Arena Tour: SHINee World 2012]]
+* [[Shinee World II|2nd Concert: SHINee WORLD II]]
+
+| group5 = Partisipasi dalam Tur
+| list5  = 
+* [[SMTown Live '08]]
+* [[SMTown Live '10 World Tour]]
+* [[SMTown Live World Tour III]]
+
+| group6 = Acara Realitas
+| list6  = 
+* ''[[Shinee's Yunhanam]]''
+* ''[[Shinee's Hello Baby]]''
+* ''[[World Date with Shinee]]''
+* ''[[Shinee's Wonderful Day]]''
+
+| group7 = Topik Terkait
+| list7  = 
+* [[Diskografi SHINee|Diskografi]]
+* [[SM Entertainment]]
+* [[SM Town]]
+* [[Lee Soo Man]]
+* [[Yoo Young-jin]]
+* [[Kenzie (penulis lagu)|Kenzie]]
+* [[Rino Nakasone Razalan]]
+* [[EMI|EMI Music Japan]]
+
+| below = 
+* [[:Category:Shinee|Category]]
+* Website ([http://shinee.smtown.com/ Korea], [http://www.shinee.jp/ Japan])
+
+}}<noinclude>
+[[Kategori:Shinee]]
+[[Kategori:Templat boyband Korea Selatan]]
+[[Kategori:Templat S.M. Entertainment]]

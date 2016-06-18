@@ -1,0 +1,91 @@
+Templat:Roma
+{{#switch:{{PAGENAME}}|Roma 1|Roma 2|Roma 3|Roma 4|Roma 5|Roma 6|Roma 7|Roma 8|Roma 9|Roma 10|Roma 11|Roma 12|Roma 13|Roma 14|Roma 15|Roma 16=<nowiki />
+* {{id}} [http://alkitab.sabda.org/passage.php?version=tb&passage={{urlencode:{{PAGENAME}}}}&tab=text Teks {{PAGENAME}} dari Alkitab SABDA]
+* {{id}} [http://alkitab.sabda.org/bible.php?version=tb&book=45&chapter={{remove first word|{{PAGENAME}}}}&tab=audio Audio {{PAGENAME}}]
+* {{id}} [http://alkitab.sabda.org/bible.php?version=tb&book=45&chapter={{remove first word|{{PAGENAME}}}}&tab=xref Referensi silang {{PAGENAME}}]
+* {{id}} [http://alkitab.sabda.org/commentary.php?version=tb&passage=Roma+{{remove first word|{{PAGENAME}}}} Komentari bahasa Indonesia untuk {{PAGENAME}}]
+* {{en}} [http://alkitab.sabda.org/commentary.php?version=net&passage=Roma+{{remove first word|{{PAGENAME}}}} Komentari bahasa Inggris untuk {{PAGENAME}}]
+}}
+{{Navbox
+| name  = Roma
+| listclass = hlist
+| title =[[Surat Paulus kepada Jemaat di Roma]]  '''  ''' <small>(''Epistole pros Romaious'')</small>
+| image = {{Portal|Kristen}}
+| group1 = [[Alkitab]]
+| state = {{{state|<noinclude>uncollapsed</noinclude>}}}
+| list1 = [[Roma 1]]  [[Roma 2|2]]  [[Roma 3|3]]  [[Roma 4|4]]  [[Roma 5|5]]  [[Roma 6|6]]  [[Roma 7|7]]  [[Roma 8|8]]  [[Roma 9|9]]  [[Roma 10|10]]  [[Roma 11|11]]  [[Roma 12|12]]  [[Roma 13|13]]  [[Roma 14|14]]  [[Roma 15|15]]  [[Roma 16|16]]
+
+| group2 = Nama tempat/Istilah
+| list2 = 
+* [[Akhaya]] 
+* [[Ilirikum]] 
+* [[Kengkrea]]
+* [[Makedonia]]
+* [[Roma]] 
+* [[Sion]]
+* [[Spanyol]]
+* [[Taurat]]
+* [[Yerusalem]]
+
+| group3 = Nama orang
+| list3 = 
+* [[Abraham ]]
+* [[Akwila]]
+* [[Ampliatus]]
+* [[Andronikus]]
+* [[Apeles]]
+* [[Aristobulus]]
+* [[Asinkritus]]
+* [[Daud]]
+* [[Elia]]
+* [[Epenetus]]
+* [[Erastus]]
+* [[Esau]]
+* [[Febe]]
+* [[Filologus]]
+* [[Firaun]]
+* [[Flegon]] 
+* [[Gayus]]
+* [[Hermas]]
+* [[Hermes dari Roma|Hermes]]
+* [[Herodion]]
+* [[Hosea (nabi)|Hosea]]
+* [[Isai]]
+* [[Ishak]] 
+* [[Israel]] 
+* [[Kwartus]]
+* [[Lukius dari Kirene|Lukius]]
+* [[Maria dari Roma]]
+* [[Mesias]]
+* [[Musa]]
+* [[Narkisus]]
+* [[Nereus]]
+* [[Olimpas]]
+* [[Patrobas]]
+* [[Paulus dari Tarsus|Paulus]]
+* [[Persis]]
+* [[Priskila]]
+* [[Ribka]]
+* [[Rufus]]
+* [[Sara]]
+* [[Sopater|Sosipater]]
+* [[Stakhis]]
+* [[Tertius]]
+* [[Santo Timotius|Timotius]]
+* [[Trifena]]
+* [[Trifosa]]
+* [[Urbanus]]
+* [[Yakub]]
+* [[Yason]]
+* [[Yesaya]]
+* [[Yesus]] [[Kristus]]
+* [[Yulia]]
+* [[Yunias]]
+
+| group4 = Sumber
+| list4 = [[wikisource:el: |Teks Yunani]]  [[wikisource:la:Biblia Sacra Vulgata (Stuttgartensia)/ad Romanos|Latin Vulgata]]  [http://alkitab.sabda.org/bible.php?version=tb&book=45&chapter=1 Versi Terjemahan Baru]  [[wikisource:Bible (Wycliffe)/Romaynes|Versi Wycliffe]]  [[wikisource:Bible (King James)/Romans|Versi King James]]  [[wikisource:Bible (American Standard)/Romans|Versi American Standard]]   [[wikisource:Bible (World English)/Romans|Versi World English]]
+
+| below = [[Kisah Para Rasul]] ([[Kisah Para Rasul 28|pasal 28]])    [[Surat 1 Korintus]] ([[1 Korintus 1|pasal 1]])
+}}<noinclude>
+[[Kategori:Templat navigasi Kristen]]
+</noinclude>

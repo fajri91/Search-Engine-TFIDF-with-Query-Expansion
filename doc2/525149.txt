@@ -1,0 +1,4 @@
+Templat:OMIM5
+<span class=plainlinks>[[Mendelian Inheritance in Man|OMIM]]:&nbsp;[http://omim.org/entry/{{{1}}} {{{1}}}]</span><noinclude>
+{{documentation}}
+</noinclude>

@@ -1,0 +1,22 @@
+Templat:Jepang-bio-stub/doc
+{{Documentation subpage}}
+<!-- TAMBAHKAN KATEGORI DAN INTERWIKI DI BAGIAN PALING BAWAH HALAMAN INI -->
+<!-- SUNTING DOKUMENTASI TEMPLAT DI BAWAH INI -->
+
+=== Pemakaian ===
+Ketikkan: {{tl|Jepang-bio-stub}} pada akhir artikel sebelum kategori.
+
+=== Lihat pula ===
+
+<includeonly>
+<!-- KATEGORI DAN INTERWIKI DITARUH DI SINI -->
+[[Kategori:Templat bio-stub menurut negara|Jepang]]
+[[ar::  ]]
+[[en:Template:Japan-bio-stub]]
+[[fr:Modle:bauche/paramtres personnalit japonaise]]
+[[ko::// ]]
+[[ro:Format:Ciot-bio-Japonia]]
+[[ru::Japan-bio-stub]]
+[[zh:Template:Japan-bio-stub]]
+[[zh-yue:Template:]]
+</includeonly>

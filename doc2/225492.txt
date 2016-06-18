@@ -1,0 +1,48 @@
+DeKalb County, Alabama
+{{Infobox U.S. County|
+ county  = DeKalb County|
+ state = Alabama |
+ seal = |
+ map= DeKalb County Alabama.png|
+ map size = 150|
+ founded = January 9, 1836|
+ seat = [[Fort Payne, Alabama|Fort Payne]]| 
+ largest city = Fort Payne|
+ area_total_sq_mi =779|
+ area_land_sq_mi =778|
+ area_water_sq_mi =1|
+ area percentage = 0.10%|
+ census yr = 2000|
+ pop =  64452|
+ density_km2 = 32|
+ web = |
+ ex image = DeKalb County Alabama Courthouse.jpg|
+ ex image cap = DeKalb County courthouse in Fort Payne, Alabama
+|}}
+
+'''''DeKalb County''''' adalah {{County AS}} yang terletak di negara bagian [[Alabama]], [[Amerika Serikat]]. {{County AS|UC}} ini memiliki populasi 64.452 jiwa pada tahun 2000 dengan kepadatan 32 jiwa/km2. DeKalb County terbentuk pada [[9 Januari]] [[1836]].
+
+== Jalan Utama ==
+* [[Berkas:I-59 (AL).svg|20px]] [[Interstate 59]]
+* [[Berkas:US 11.svg|20px]] [[U.S. Highway 11]]
+* [[Berkas:Alabama 35.svg|20px]] [[State Route 35 (Alabama)|State Route 35]]
+* [[Berkas:Alabama 68.svg|20px]] [[State Route 68 (Alabama)|State Route 68]]
+* [[Berkas:Alabama 75.svg|20px]] [[State Route 75 (Alabama)|State Route 75]]
+
+{{Geographic Location
+|Centre    = DeKalb County, Alabama
+|North     = [[Jackson County, Alabama|Jackson County]]
+|Northeast = [[Dade County, Georgia]]
+|East      = [[Walker County, Georgia]] and [[Chattooga County, Georgia]]
+|Southeast = [[Cherokee County, Alabama|Cherokee County]]
+|South     = [[Etowah County, Alabama|Etowah County]]
+|Southwest = 
+|West      = [[Marshall County, Alabama|Marshall County]]
+|Northwest = 
+}}
+{{ DeKalb County, Alabama}}
+{{Negara bagian Alabama|state=show}}
+{{alabama-geo-stub}}
+
+[[Kategori:{{County AS}} di Alabama]]
+[[Kategori:DeKalb County, Alabama| ]]

@@ -1,0 +1,26 @@
+Berkas:Jeans 1998.jpg
+{{dari|en}}
+== Penjelasan ==
+{{Non-free use rationale poster|Media=film
+|Article           = Jeans (film)
+|Use               = Infobox
+<!-- ADDITIONAL INFORMATION -->
+|Name              = Jeans
+|Distributor       = Oscar films
+|Publisher         = 
+|Type              = Poster
+|Website           = 
+|Owner             = 
+|Commentary        = 
+<!--OVERRIDE FIELDS -->
+|Description       = This is a poster of the 1998 film [[Jeans (film)|Jeans]] starring [[Prashanth Thyagarajan|Prashanth]] and [[Aishwarya Rai]].
+|Source            =  
+|Portion           = 
+|Low_resolution    =  
+|Purpose           = <!-- Must be specified if Use is not Infobox / Header / Section / Artist -->
+|Replaceability    = 
+|other_information = 
+}}
+
+== Lisensi ==
+{{Non-free poster|image has rationale=yes}}

@@ -1,0 +1,42 @@
+NADH dehidrogenase
+'''Dehidrogenase NADH''' ({{lang-en|NADH dehydrogenase, NADH:ubiquinone oxidoreductase, EC 1.6.5.3}}), pada [[hepatosit]] [[hewan]] [[sapi]], merupakan kompleks [[enzim]] pertama yang sering disebut sebagai kompleks I, pada bagian [[membran sel|membran]] [[mitokondria]] yang disebut [[rantai transpor elektron]], tempat terjadinya [[reaksi redoks]] antara [[oksidasi]] [[NADH]] dan [[reduksi]] [[ubikuinon]] dengan meletupkan 4 buah [[ion]] [[hidrogen|H<sup>+</sup>]],<ref>{{en}}{{cite web
+| url          = http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2651670
+| title        = Reduction of Hydrophilic Ubiquinones by the Flavin in Mitochondrial NADH:Ubiquinone Oxidoreductase (Complex I) and Production of Reactive Oxygen Species
+| accessdate   = 2010-11-04
+| work         = Medical Research Council Dunn Human Nutrition Unit, Martin S. King, Mark S. Sharpley, dan Judy Hirst
+}}</ref> melewati 3 lapisan membran [[fosfolipid]] mitokondria yang mengikat kompleks tersebut: [[sardiolipin]], [[fosfatidil kolina]] dan [[fosfatidil etanolamina]].<ref name="PM16388600" /> [[Reaksi kimia|reaksi]] ini merupakan bagian dari [[lintasan metabolisme|lintasan]] [[fosforilasi oksidatif]].
+
+Kompleks I terdiri dari 46 sub-unit yang terbagi ke dalam 3 sub-kompleks, I alfa, I beta dan I lamda,<ref>{{en}}{{cite web
+| url          = http://www.ncbi.nlm.nih.gov/pubmed/12837546
+| title        = The nuclear encoded subunits of complex I from bovine heart mitochondria
+| accessdate   = 2010-11-04
+| work         = Medical Research Council Dunn Human Nutrition Unit; Hirst J, Carroll J, Fearnley IM, Shannon RJ, Walker JE.
+}}</ref> dengan 9 kofaktor redoks: sebuah [[flavin mononukleotida]] dan 8 kluster Fe-S]].<ref name="PM16388600">{{en}}{{cite web
+| url          = http://www.ncbi.nlm.nih.gov/pubmed/16388600
+| title        = Interactions between phospholipids and NADH:ubiquinone oxidoreductase (complex I) from bovine mitochondria
+| accessdate   = 2010-11-04
+| work         = Medical Research Council Dunn Human Nutrition; Sharpley MS, Shannon RJ, Draghi F, Hirst J.
+}}</ref> 7 sub-unit merupakan [[ekspresi gen]]etik dari [[DNA]] mitokondria, 38 sub-unit lain berasal dari [[transkripsi]] [[gen]] di dalam [[inti sel]] yang bermigrasi ke dalam mitokondria melalui [[sitoplasma]].
+
+Kompleks I juga merupakan tempat produksi [[senyawa organik|senyawa]] [[spesi oksigen reaktif|ROS]], yaitu pada kluster [[Fe-S]] yang disebut N2. Senyawa analog [[ubikuinon]] yang disebut [[idebenon]] berperan dalam proses transfer elektron dari kluster ini menuju [[oksigen]],<ref>{{en}}{{cite web
+| url          = http://www.ncbi.nlm.nih.gov/pubmed/11576529
+| title        = The site of production of superoxide radical in mitochondrial Complex I is not a bound ubisemiquinone but presumably iron-sulfur cluster N2
+| accessdate   = 2010-11-04
+| work         = Dipartimento di Biochimica 'G. Moruzzi', Universit di Bologna; Genova ML, Ventura B, Giuliano G, Bovina C, Formiggini G, Parenti Castelli G, Lenaz G.
+}}</ref> hingga elektron tidak mencapai akhir lintasan fosforilasi oksidatif. ROS juga dapat dipicu oleh inhibitor kompleks I seperti [[rotenon]],<ref>{{en}}{{cite web
+| url          = http://www.ncbi.nlm.nih.gov/pubmed/12180906
+| title        = Complex I-mediated reactive oxygen species generation: modulation by cytochrome c and NAD(P)+ oxidation-reduction state
+| accessdate   = 2010-11-04
+| work         = Mitochondrial Biology, MitoKor; Kushnareva Y, Murphy AN, Andreyev A.
+}}</ref> atau kondisi mitokondria yang sangat tereduksi hingga menyebabkan transfer balik elektron dari [[asam suksinat]] ke [[nikotinamida adenina dinukleotida|NAD<sup>+</sup>]] dan produksi ROS pada kluster N1-a.
+
+== Pranala luar ==
+* {{en}} [http://www.ncbi.nlm.nih.gov/pubmed/11695826 Complex I: a chimaera of a redox and conformation-driven proton pump?]
+
+== Rujukan ==
+{{reflist}}
+{{Biokimia-stub}}
+
+{{Enzim}}
+
+[[Kategori:Enzim]]

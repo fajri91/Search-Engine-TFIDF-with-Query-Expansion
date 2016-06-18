@@ -1,0 +1,9 @@
+Templat:Fb L/doc
+{{Subhalaman dokumentasi}}
+<!-- TAMBAHKAN KATEGORI DAN PRANALA ANTARBAHASA DI BAGIAN PALING BAWAH HALAMAN INI -->
+<!-- END OF TEMPLATE DOCUMENTATION -->
+<includeonly>
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+[[Kategori:Templat sepak bola|{{PAGENAME}}]]
+<!-- ADD INTERWIKIS BELOW THIS LINE -->
+</includeonly>

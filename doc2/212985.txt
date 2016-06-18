@@ -1,0 +1,11 @@
+Templat:Country data Rheinland-Pfalz
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Rheinland-Pfalz
+| flag alias = Flag of Rhineland-Palatinate.svg
+| size = {{{size|}}}
+| name = {{{name|}}}
+| kat = Jerman
+<noinclude>
+| redir1 = Rhineland-Palatinate
+</noinclude>
+}}<noinclude>[[en:Template:Country data Rhineland-Palatinate]]</noinclude>

@@ -1,0 +1,14 @@
+Berkas:Yusof bin Ishak Uang.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    = (deskripsi)
+ Sumber hasil scan sendiri
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Uang}}

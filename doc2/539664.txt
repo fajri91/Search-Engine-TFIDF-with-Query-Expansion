@@ -1,0 +1,14 @@
+Berkas:Trouble Chocolate.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+sampul DVD. dari http://www.otakucastle.com/product_info.php?cPath=93_89_12&products_id=1316&osCsid=721fd10cc3ee2453742652156c6633a6
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{SampulVideo}}

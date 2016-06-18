@@ -1,0 +1,1 @@
+templatlocation map mesir switch1 name mesir top 32 1 bottom 21 3 left 24 2 right 37 3 image egypt location map svg noincludelocation mapinfo the above switchstatement branches by text in parameter 1 returning the associated value after each equals sign documentation kategoritemplat peta navigasi negaramesir noinclude 

@@ -1,0 +1,14 @@
+Templat:Location map India
+{{#switch:{{{1}}}|
+|name=India
+|top=38.4
+|bottom=6.6
+|left=67.3
+|right=97.1
+|mark=Locator_Dot.svg
+|image=India-locator-map-blank.svg
+}}<noinclude>{{Location map/Info|India}}
+[[Kategori:Templat peta navigasi menurut negara|India]]
+[[Kategori:Templat India]]
+
+</noinclude>

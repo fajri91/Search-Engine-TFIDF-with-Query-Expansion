@@ -1,0 +1,104 @@
+Daftar Menteri Komunikasi dan Informatika Indonesia
+{{tentang|Menteri Komunikasi dan Informatika Indonesia|Menteri Penerangan (1945-1999)|Daftar Menteri Penerangan Indonesia}}
+{{Infobox Jabatan Politik
+|jabatan         	= Menteri Komunikasi dan Informatika Republik Indonesia
+|lembaga         	= 
+|insignia           	= Logo-kemkominfo-id.svg
+|ukuraninsignia    	= 100px
+|keteranganinsignia	= 
+|departemen       	= 
+|namaasli	     	= 
+|image                  = Rudiantara.jpg
+|imagesize              = 155px
+|alt             	= 
+|incumbent      	= [[Rudiantara]]
+|incumbentsince         = 27 Oktober 2014
+|gelar          	= 
+|kediaman       	= 
+|tempo		      	= 
+|dibentuk	      	= 9 Agustus 2001
+|pertama	       	= [[Syamsul Mu'arif|H. Syamsul Mu'arif, B.A.]]
+|website         	= [http://www.kominfo.go.id www.kominfo.go.id]
+}}
+
+Berikut adalah daftar orang yang pernah menjabat sebagai '''Menteri Komunikasi, dan Informatika''' (2001-sekarang).
+{| class="wikitable"
+|- style="background-color:#0000ff; color:#ffffff"
+! style="background-color:#0000ff; color:#ffffff"| No
+! style="background-color:#0000ff; color:#ffffff" |Foto
+! style="background-color:#0000ff; color:#ffffff" width="180" colspan=2|Nama
+! style="background-color:#0000ff; color:#ffffff"|Kabinet
+! style="background-color:#0000ff; color:#ffffff"|Dari
+! style="background-color:#0000ff; color:#ffffff"|Sampai
+! style="background-color:#0000ff; color:#ffffff"|Keterangan
+|- 
+| align="center"|1 
+| [[Berkas:Syamsul-mu'arif 2.jpg|100px]]
+| bgcolor=#ffff00|
+| [[Syamsul Mu'arif]] 
+| <center>[[Kabinet Gotong Royong|Gotong Royong]]
+| <center>9 Agustus 2001
+| <center>20 Oktober 2004
+| <small>Bernama '''Menteri Negara Komunikasi, dan Informasi'''</small>
+|- 
+| align="center"|2 
+| [[Berkas:kabinet_sofyan.jpg|100px]]
+| bgcolor=#d3d3d3|
+| [[Sofyan Djalil|Sofyan A. Djalil]] 
+| rowspan="2"|<center> [[Kabinet Indonesia Bersatu|Indonesia Bersatu]] 
+| <center>21 Oktober 2004
+| <center>9 Mei 2007
+| rowspan="2"| <small>Sejak 31 Januari 2005 berganti nama menjadi '''Menteri Komunikasi, dan Informatika'''</small>
+|- 
+| align="center"|3 
+| [[Berkas:Mohammad Nuh.jpg|100px]]
+| bgcolor=#d3d3d3|
+| [[Mohammad Nuh]] 
+| <center>9 Mei 2007
+| <center>20 Oktober 2009
+|- 
+|align="center"|4 
+| [[Berkas:Tifatul-sembiring.jpg|100px]]
+| bgcolor=#000000|
+| [[Tifatul Sembiring]] 
+| rowspan="2"|<center> [[Kabinet Indonesia Bersatu II|Indonesia Bersatu II]] 
+| <center>22 Oktober 2009
+| <center>30 September 2014
+| <small> Mengundurkan diri karena dilantik menjadi Anggota DPR RI 2014-2019 pada 1 Oktober 2014
+|- 
+|-
+| align="center" |
+| [[Berkas:Djoko soeyanto.jpg|100px]]
+| bgcolor=#d3d3d3|
+| [[Djoko Suyanto]]<br/><small>(Pelaksana Tugas)</small> 
+| <center>1 Oktober 2014 
+| <center>20 Oktober 2014
+| 
+|- 
+| align="center"|5 
+| [[Berkas:Rudiantara.jpg|100px]]
+| bgcolor=#d3d3d3|
+| [[Rudiantara]] 
+| <center>[[Kabinet Kerja|Kerja]] 
+| <center>27 Oktober 2014
+| <center>''Petahana'' 
+|
+|}
+
+<div style="-moz-column-count:2; -webkit-column-count:2; column-count:2; text-align:left; padding:0.2em;">
+{{legend|#d3d3d3|Non-partisan|border=1px solid #AAAAAA}}
+{{legend|#ffff00|[[Partai Golongan Karya]] (Golkar)|border=1px solid #AAAAAA}}
+{{legend|#000000|[[Partai Keadilan Sejahtera]] (PKS)|border=1px solid #AAAAAA}}
+</div>
+== Lihat pula ==
+* [[Daftar kabinet Indonesia]]
+* [[Kementerian Komunikasi dan Informatika Indonesia]]
+* [[Daftar Menteri Penerangan Indonesia]]
+* [https://www.facebook.com/pages/Rudiantara/390403644442503 Rudiantara] Menkominfo 2014 di [[Facebook]]
+
+{{Menteri Indonesia}}
+
+{{indo-stub}}
+
+[[Kategori:Daftar menteri Indonesia|Komunikasi dan Informatika]]
+[[Kategori:Menteri informasi|Indonesia]]

@@ -1,0 +1,62 @@
+Stasiun Pondok Cina
+{{infobox stasiun
+|image=515 110709 01.jpg
+|caption=Para calon penumpang sedang naik [[KA Commuter Jabodetabek]] di Stasiun Pondok Cina.
+|name=Pondok Cina
+|prov=Jawa Barat
+|kota=Depok
+|kecamatan kota=Beji
+|kelurahan kota=Pondok Cina
+|kode=POC
+|tinggi=+74 m
+|line= [[KA Commuter Jabodetabek]]
+|services={{s-rail|title=KRL Jabodetabek}}
+{{s-line|system=KRL Jabodetabek|line=Depok-Jatinegara|rows1=2|previous=Depok Baru|next=Universitas Indonesia}}
+{{s-line|system=KRL Jabodetabek|line=Depok-Jakarta Kota|hide1=yes|previous=Depok Baru|next=Universitas Indonesia}}
+{{s-line|system=KRL Jabodetabek|line=Bogor-Jatinegara|rows1=2|previous=Depok Baru|next=Universitas Indonesia}}
+{{s-line|system=KRL Jabodetabek|line=Bogor-Jakarta Kota|hide1=yes|previous=Depok Baru|next=Universitas Indonesia}}
+{{s-line|system=KRL Jabodetabek|line=Duri-Nambo|previous=Universitas Indonesia|next=Depok Baru}}
+|operator=[[Daerah Operasi I Jakarta]]
+}}
+
+'''Stasiun Pondok Cina''' ('''POC''') merupakan [[stasiun kereta api]] yang terletak di [[Pondok Cina, Beji, Depok]]. Stasiun yang terletak pada ketinggian +74 m ini berada di [[Daerah Operasi I Jakarta]]. Stasiun Pondok Cina merupakan salah satu stasiun yang dekat dengan [[Universitas Indonesia]], dan biasa digunakan oleh [[mahasiswa]] [[UI]] dan [[Universitas Gunadarma]] untuk naik-turun [[KRL Jabotabek]]. Dan di sini rencananya akan terdapat lahan penitipan parkir untuk mobil dan 2 tempat penitipan untuk motor di stasiun ini. Stasiun Pondok Cina terletak di belakang [[Depok Town Square]], [[Margo City]], dan [[Code Margonda]].
+
+== Kereta api ==
+* [[KRL Jabotabek|Red Line]] Jakarta Kota-Bogor
+* [[KRL Jabotabek|Yellow Line]] Jatinegara-Bogor
+* [[KRL Jabotabek|Red Line (Depok Branch)]] Jakarta Kota-Depok
+* [[KRL Jabotabek|Yellow Line (Depok Branch)]] Jatinegara-Depok
+* [[KRL Jabotabek|Yellow Line (Nambo Branch)]] Duri-Nambo
+* [[KRL Jabotabek|Yellow Line (Kampung Bandan Branch)]] Kampung Bandan-Depok/Bogor
+* [[KRL Jabotabek|Yellow Line (Duri Branch)]] Duri-Depok/Bogor
+
+== Angkutan umum ==
+* [[Angkot|Angkot Kota Depok]] D11 Depok-Palsigunung
+* [[Angkot|Angkot Kota Depok]] D112 Depok-Kampung Rambutan
+* [[Angkot|Miniarta]] M03 Pasar Minggu-Depok
+* [[Angkot|Miniarta]] M04 Pasar Minggu-Depok Timur
+* KWK S19 Pinang Ranti-Depok
+* [[Kopaja]] S63 Blok M-Depok
+* [[Mayasari Bakti]] AC81 Kalideres-Depok
+* [[Mayasari Bakti]] AC82 Tanjung Priok-Depok
+* [[Mayasari Bakti]] AC84 Pulo Gadung-Depok
+* [[PPD]] P54 Grogol-Depok
+* Deborah Kalideres-Depok
+* Deborah Lebak Bulus-Depok
+
+<center>
+<table border="1" cellspacing="0" cellpadding="4" style="font-size:90%;">
+<tr>
+<td width="30%" align="center">'''Stasiun sebelumnya:'''{{br}}
+[[Stasiun Universitas Indonesia]]</td>
+<td rowspan=1 width="40%" align="center">[[Jalur kereta api Manggarai-Padalarang]]</td>
+<td width="30%" align="center">'''Stasiun berikutnya''':{{br}}
+[[Stasiun Depok Baru]]</td>
+</tr>
+</table>
+</center>
+{{stasiun-stub}}
+{{coord|-6.369702|106.831795|display=title}}
+
+[[Kategori:Stasiun kereta api di Jawa Barat|Pondok Cina]]
+[[Kategori:Beji, Depok]]

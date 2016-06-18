@@ -1,0 +1,20 @@
+Berkas:Peanuts gang.png
+== {{int:filedesc}} ==
+{{Information
+| description    =
+{{dari|en}}
+Gambar asli dari situs resmi Peanuts di http://www.snoopy.com/comics/peanuts/meet_the_gang/index.html karya Charles Schulz. Gambar serupa juga dipakai sebagai sampul buku ''Peanuts Anniversary Treasury''. Hak cipta  2005, United Feature Syndicate, Inc. 
+
+=== Alasan penggunaan adil ===
+a). Gambar merupakan ilustrasi dari semua tokoh stripkomik Peanuts yang dibicarakan dalam artikel.
+
+b). Digunakan sebagai ilustrasi tokoh komikstrip Peanuts dan tidak ada gambar pengganti.
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Fairuse}}

@@ -1,0 +1,32 @@
+Templat:Kepala daerah di Bali
+{{Navbox
+|name = Kepala daerah di Bali
+|title = Kepala daerah [[petahana]] di [[Bali]]
+|state = autocollapse
+|listclass = hlist
+|image = [[Berkas:Coat_of_arms_of_Bali.svg|50px]]
+|imagestyle = padding-left:1.0em;
+
+|above = '''[[Gubernur Bali|Gubernur]]''': [[Made Mangku Pastika]]
+
+|group1= '''[[Bupati]]'''
+|list1 = 
+*'''{{smallcaps|[[Daftar Bupati Badung|Badung]]}}''': {{nowrap|[[I Nyoman Giri Prasta]]}}
+*'''{{smallcaps|[[Daftar Bupati Bangli|Bangli]]}}''': {{nowrap|[[I Made Gianyar]]}}
+*'''{{smallcaps|[[Daftar Bupati Buleleng|Buleleng]]}}''': {{nowrap|[[Putu Agus Suradnyana]]}}
+*'''{{smallcaps|[[Daftar Bupati Gianyar|Gianyar]]}}''': {{nowrap|[[Anak Agung Gde Agung Bharata]]}}
+*'''{{smallcaps|[[Daftar Bupati Jembrana|Jembrana]]}}''': {{nowrap|[[I Putu Artha]]}}
+*'''{{smallcaps|[[Daftar Bupati Karangasem|Karangasem]]}}''': {{nowrap|[[I Gusti Ayu Mas Sumantri]]}}
+*'''{{smallcaps|[[Daftar Bupati Klungkung|Klungkung]]}}''': {{nowrap|[[I Nyoman Suwirta]]}}
+*'''{{smallcaps|[[Daftar Bupati Tabanan|Tabanan]]}}''': {{nowrap|[[Ni Putu Eka Wiryastuti]]}}
+
+|group2= '''[[Wali Kota]]'''
+|list2 = 
+*'''{{smallcaps|[[Daftar Wali Kota Denpasar|Denpasar]]}}''': {{nowrap|[[Ida Bagus Rai Dharmawijaya Mantra]]}}
+
+|below=Terakhir diperbarui : [[20 November]] [[2015]]
+}}<noinclude>
+{{collapsible option}}
+[[Category:Templat navigasi tokoh Indonesia]]
+[[Category:Templat navigasi Bali]]
+</noinclude>

@@ -1,0 +1,37 @@
+Hiu kantung
+{{Taxobox
+| name = Hiu kantung
+| image =
+| image_caption =
+| status = DD | status_system = IUCN3.1
+| trend =
+| regnum = [[Animalia]]
+| phylum = [[Chordate|Chordata]]
+| classis = [[Chondrichthyes]]
+| subclassis = [[Elasmobranchii]]
+| ordo = [[Squaliformes]]
+| familia = [[Dalatiidae]]
+| genus = '''''Mollisquama'''''
+| genus_authority = [[Vladimir Nikolaevich Dolganov|Dolganov]], 1984
+| species = '''''M. parini'''''
+| range_map = Mollisquama parini distmap.png
+| range_map_width = 200px
+| range_map_caption = Range of pocket shark (in blue)
+| binomial = ''Mollisquama parini''
+| binomial_authority = [[Vladimir Nikolaevich Dolganov|Dolganov]], 1984
+}}
+
+{{Portal|Sharks}}
+'''Hiu kantung''', ''Mollisquama parini'', adalah salah satu spesies [[hiu penidur]] dari [[famili (biologi)|famili]] [[Dalatiidae]], [[monotypic|satu-satunya]] anggota dari [[genus]] '''''Mollisquama''''', ditemukan hidup di laut dalam [[Chile]] tepatnya di tenggara [[Samudra Pasifik]].
+
+Hiu kantung adalah salah satu jenis hiu laut dalam yang belum dikenal secara mendalam. Spesimen yang pernah didapat adalah seekor betina dewasa (dengan panjang total 40&nbsp;cm), yang diambil dari kedalaman 330 m dari permukaan laut. Belum ada informasi yang diketahui tentang kondisi dan penyebaran spesies ini di wilayah tersebut.
+
+==Referensi==
+* {{FishBase_species |genus = Mollisquama | species = parini | month = May | year = 2006}}
+
+==Pranala luar==
+* [http://www.iucnredlist.org/search/details.php/44515/all IUCN]
+
+[[Kategori:Dalatiidae]]
+[[Kategori:Monotypic fish genera]]
+[[Kategori:Animals described in 1984]]

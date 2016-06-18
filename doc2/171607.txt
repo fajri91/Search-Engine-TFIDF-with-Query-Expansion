@@ -1,0 +1,34 @@
+Borgchat
+{{Orphan|date=April 2012}}
+{{rapikan|topik=teknologi informasi}}<!-- Menghapus tag secara sembarangan tanpa merapikan akan diblok-->
+
+'''Borgchat''' adalah [[perangkat lunak]] pengirim pesan dalam [[LAN]]. Perangkat lunak ini telah meraih popularitas dan dikenal sebagai aplikasi LAN chat yang baik. Borgchat juga dapat digunakan untuk [[voice chat]], [[video conference]], pusat kontrol, dan administrasi. Aplikasi tambahan berupa ''"Borgvoice"'' (Borgsuara) menambah kemampuan suara dalam perbincangan interaktif Borgchat, aplikasi tambahan ini masih berada dalam tahap ''Alpha''.
+
+== Sejarah ==
+Borgchat pertama kali dikembangkan oleh Ionut Cioflan (Ion) pada tahun 2002. Nama tersebut diambil dari balapan [[Borg]] yang ada pada [[Star Trek]]. Borg adalah komunitas besar dari ''cybernetic automatons'' yang berasimilasi dengan ribuan spesies. Borg berkembang dengan menggunakan [[teknologi]], dalam hal ini penciptanya berharap fungsi Borgchat untuk dapat "berasimilasi".
+
+== Fitur ==
+Perangkat lunak ini mendukung beberapa fitur seperti:
+
+* Ruangan chat publik dan pribadi ''(channels)'', menyediakan ruangan chat pengguna sendiri
+* [[Avatars]] dengan informasi pengguna dan online alerts
+* Mengirimkan pesan pribadi
+* Mengirim data dan gambar dengan [[bandwidth manajemen]]
+* Animasi [[emoticons]] dan efek suara (beep)
+* Melihat komputer dan [[network shares]]
+* [[Logs]] diskusi dalam LAN
+* Filter pesan, mengabaikan pesan dari pengguna lain
+* Papan pesan dengan [[Bulletin Board Code]] (bold,italic,underline)
+* Multiple chat status: Available/Busy/Away dengan pesan yang customizable
+* Mendukung multi bahasa( dengan kemungkinan untuk menambah bahasa): Inggris, Rumania, Swedia, Spanyol, Polandia, Slovakia, Italia, Bulgaria, Jerman, Turki, Ukraina, Slovenia, Ceko, Denmark, Prancis, Latvia, Portugis, Urdu, Belanda, Hungaria, Serbia.
+
+== Referensi ==
+# [http://www.softpedia.com/get/Internet/Chat/LAN-Messaging-Clients/BORGChat.shtml Softpedia award]
+# [http://www.brothersoft.com/borgchat-21367.html pilihan editor Brothersoft]
+# [http://borgchat.softnews.ro/download.php LAN TwW use BORGVoice extension]
+# [http://borgchat.softnews.ro/features.php Fitur BORGChat]
+
+== Pranala luar ==
+[http://borgchat.softnews.ro/ Official BORGChat website]
+
+[[Kategori:Komunikasi berperantara komputer]]

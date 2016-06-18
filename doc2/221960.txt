@@ -1,0 +1,13 @@
+Kategori:Artikel yang perlu diperbaiki bertopik sekolah
+{{Kategori-kosong}}
+{{Kategori pemeliharaan
+ | toc     = none
+ | type    = artikel yang perlu diperbaiki bertopik sekolah
+ | year    = 
+ | monthno = 
+ | cat     = Artikel yang perlu diperbaiki
+ | hidden  = y
+ | message = 
+}}
+[[Kategori:Artikel yang perlu diperbaiki|Sekolah]]
+[[Kategori:Sekolah| {{PAGENAME}}]]

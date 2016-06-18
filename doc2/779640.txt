@@ -1,0 +1,56 @@
+Templat:Topik dimensi
+{{Navbox 
+| name = Topik dimensi
+| state = {{{state|{{{1|<includeonly>uncollapsed</includeonly>}}}}}}
+| title = [[Dimension]]
+| image = [[Berkas:Tesseract.gif|75px|Animasi tesseract]]
+| listclass = hlist
+
+| group1 = Ruang dimensi
+| list1 =
+*[[Dimensi (ruang vektor)|Ruang vektor]]
+*[[Ruang euklides]]
+*[[Ruang affine]]
+*[[Ruang proyektif]]
+*[[Manifold]]
+*[[Dimension varietas aljabar|Varietas aljabar]]
+*[[Ruang waktu]]
+
+| group2 = Dimensi lain
+| list2 =
+*[[Dimensi Krull|Krull]]
+*[[Dimensi Homological|Homological]]
+*[[Dimensi topological|Topological]]
+*[[Dimensi induktif|Induktif]]
+*[[Dimensi Hausdorff|Hausdorff]]
+*[[Dimensi Minkowski-Bouligand|Minkowski-Bouligand]]
+*[[Dimensi fraktal|Fraktal]]
+*[[Derajat bebas]]
+
+| group3 = [[Polytope]] dan bentuk
+| list3 =
+* [[Hyperplane]] 
+* [[Hypersurface]]
+* [[Hypercube]]
+* [[Hypersphere]] 
+* [[Hyperrectangle]]
+* [[Demihypercube]]
+* [[Cross-polytope]]
+* [[Simplex]]
+
+| group4 = Dimensi berdasarkan angka
+| list4 =
+* [[0 dimensi|Nol]]
+* [[1 dimensi|Satu]]
+* [[2 dimensi|Dua]]
+* [[3 dimensi|Tiga]]
+* [[4 dimensi|Empat]]
+* [[5 dimensi|Lima]]
+* [[6 dimensi|Enam]]
+* [[7 dimensi|Tujuh]]
+* [[8 dimensi|Delapan]]
+* [[Dimension|''n''-dimensi]]
+
+| below = '''{{c|Dimensi|Kategori}}'''
+
+}}

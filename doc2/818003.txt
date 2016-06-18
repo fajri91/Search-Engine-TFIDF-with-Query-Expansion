@@ -1,0 +1,25 @@
+Berkas:Stutterer film poster.png
+== Ringkasan ==
+{{Non-free use rationale poster|Media=film
+|Article           = Stutterer (film)
+|Use               = Infobox<!--Choose: Infobox / Header / Section / Other --> 
+<!-- ADDITIONAL INFORMATION -->
+|Name              = Stutterer (film)
+|Distributor       = Bare Golly Films
+|Publisher         = 
+|Type              = 
+|Website           = 
+|Owner             = 
+|Commentary        = 
+<!--OVERRIDE FIELDS -->
+|Description       = 
+|Source            = http://www.stuttererfilm.com/uploads/2/4/8/0/24806413/6288374_orig.jpg
+|Portion           = 
+|Low_resolution    = 
+|Purpose           = <!-- Must be specified if Use is not Infobox / Header / Section -->
+|Replaceability    = 
+|other_information = 
+}}
+
+== Jenis lisensi ==
+{{Poster}}

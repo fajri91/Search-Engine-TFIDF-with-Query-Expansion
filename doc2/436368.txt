@@ -1,0 +1,73 @@
+Templat:Sri Lanka infobox
+{{Infobox_Country
+|conventional_long_name = Republik Sosialis Demokratik Sri Lanka
+|native_name =     {{br}} ''Shr Lak Prajtntrika Samjavd Janarajaya'' {{small|([[Bahasa Sinhala|Sinhala]])}}{{br}}   {{br}} ''Ilakai Jaanyaka Camkavuamaivtak Kuiyaracu'' {{small|([[Bahasa Tamil|Tamil]])}}
+|common_name = Sri Lanka 
+|image_flag = Flag of Sri Lanka.svg 
+|image_coat = Emblem of Sri Lanka.svg
+|image_map = Sri Lanka (orthographic projection).svg 
+|image_map2 = Sri Lanka - Location Map (2011) - LKA - UNOCHA.svg
+|national_motto = 
+|national_anthem = {{br}}   {{br}}''[[Sri Lanka Matha]]'' 
+|official_languages = [[Bahasa Sinhala|Sinhala]] dan [[Bahasa Tamil|Tamil]] 
+|capital = [[Sri Jayawardenapura Kotte]]<sup>1</sup> 
+|latd=6 |latm=54 |lats=39 |latNS=N |longd=79 |longm=53 |longs=16.21 |longEW=E
+|largest_city = [[Kolombo]]<br />{{small|{{coord|6|56|04|N|79|50|34|E|display=inline}}}}
+|government_type = [[Republik]] [[Sistem semi-presidensial|semi-presidensial]]
+|leader_title1 = [[Presiden Sri Lanka|Presiden]] 
+|leader_title2 = [[Perdana Menteri Sri Lanka|Perdana Menteri]] 
+|leader_name1 = [[Maithripala Sirisena]] 
+|leader_name2 = [[Ranil Wickremesinghe]]
+|legislature = {{br}}''[[Parlemen Sri Lanka|Prlimntuva]]''
+|sovereignty_type = [[Kemerdekaan]]
+|sovereignty_note = dari [[Britania Raya]]
+|established_event2 = [[Dominion Ceylon|Dominion]]
+|established_date2 = 4 Februari 1948
+|established_event3 = Republik
+|established_date3 = 22 Mei 1972 
+|area_rank = 122
+|area_magnitude = 1 E10 
+|area = 65,610 
+|percent_water = 4,4 
+|population_estimate = 20.675.000<ref name="popsl">{{cite web |url=http://www.statistics.gov.lk/PopHouSat/CPH2011/Pages/sm/CPH%202011_R1.pdf | archiveurl=https://web.archive.org/web/20131206021926/http://www.statistics.gov.lk/PopHouSat/CPH2011/Pages/sm/CPH%202011_R1.pdf| format=PDF |title=Census of Population and Housing 2011 Enumeration Stage February  March 2012 |work=Department of Census and Statistics  Sri Lanka |accessdate=15 Juli 2014|archivedate=5 Februari 2015}}</ref>
+|population_estimate_year = 2014 
+|population_estimate_rank = 58 
+|population_census_year = 
+|population_census =
+|population_density = 309 
+|population_density_rank = 43 
+|GDP_PPP_year = 2015
+|GDP_PPP = $233.637 miliar<ref name="imf2">{{cite web |url=http://www.imf.org/external/pubs/ft/weo/2015/01/weodata/weorept.aspx?pr.x=48&pr.y=18&sy=2014&ey=2019&scsm=1&ssd=1&sort=country&ds=.&br=1&c=524&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC&grp=0&a= |title=Sri Lanka |work=International Monetary Fund |accessdate=15 Juli 2014}}</ref>
+|GDP_PPP_rank = 61
+|GDP_PPP_per_capita = $11.069
+|GDP_PPP_per_capita_rank = 103
+|GDP_nominal = $80.591 miliar<ref name=imf2/>
+|GDP_nominal_rank = 66
+|GDP_nominal_year = 2015
+|GDP_nominal_per_capita = $3.818<ref name=imf2/>
+|GDP_nominal_per_capita_rank = 116
+|Gini_year = 2010
+|Gini_change = <!--increase/decrease/steady-->
+|Gini = 36,4 (<span style="color:orange">sedang</span>) <!--number only-->
+|Gini_ref = <ref name="wb-gini">{{cite web |url=http://data.worldbank.org/indicator/SI.POV.GINI/ |title=Gini Index |publisher = World Bank |accessdate=2 Maret 2011}}</ref>
+|Gini_rank = 
+|HDI_year = 2013 <!--Please use the year to which the HDI [[Human Development Index]] data refers, not the publication year-->
+|HDI_change = <!--increase/decrease/steady-->
+|HDI = {{increase}} 0,750 <!--number only-->
+|HDI_ref = <ref name="UN">{{cite web |url=http://hdr.undp.org/sites/default/files/hdr14-summary-en.pdf|title=Human Development Report 2014 Summary|publisher=The United Nations |accessdate=24 Juli 2014}}</ref>
+|HDI_category = <span style="color:#090;">tinggi</span>
+|HDI_rank = 73 
+|currency = [[Rupee Sri Lanka]] ()
+|currency_code = LKR 
+|time_zone = [[Waktu Standar Sri Lanka]] (SLST)
+|utc_offset = +5:30 
+|time_zone_DST =
+|utc_offset_DST =
+|drives_on = kiri
+|iso3166code = LK 
+|cctld = {{vunblist|[[.lk]]|[[.]]|[[.]]}}
+|calling_code = [[+94]]
+|footnote1 = [[Sri Jayawardenapura Kotte]] adalah ibukota pemerintahan ''yang sebenarnya'' serta tempat kedudukan lembaga legislatif. Sementara itu, [[Kolombo]] adalah ibukota perdagangan serta sebagai tempat kedudukan lembaga eksekutif dan yudikatif.
+|footnotes = {{Tnavbar|Sri Lanka infobox|plain=1}}
+}}<noinclude>[[Kategori:Templat kotak info negara|{{PAGENAME}}]]
+[[Kategori:Templat Sri Lanka|{{PAGENAME}}]]

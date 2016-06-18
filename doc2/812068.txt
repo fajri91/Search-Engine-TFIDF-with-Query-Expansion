@@ -1,0 +1,31 @@
+Roket tahap atas
+[[Berkas:Upper Stages RK2013 1200x700.jpg|300px|jmpl|Rocket upper stages]]
+'''Roket tahap atas''' atau '''Tahap atas''' saja adalah roket tahapan atas yang mendorong muatan pada lintasan antar, atau ke orbit yang lebih tinggi dari orbit sebenarnya yang dapat dicapai dengan menggunakan roket pendorong.
+
+Seringkali, mesin tahap atas dapat direstart kembali beberapa kali di ruang angkasa.
+
+Beberapa tahapan atas tetap melekat dengan payload mereka dan memberikan layanan panjang setelah mencapai orbit awal mereka. Banyak pesawat ruang angkasa intelijen awal Amerika, misalnya, tahap atas Agena tetap melekat sepanjang hidup operasional mereka. Agena akan memberikan pesawat ruang angkasa dengan kekuatan, komunikasi, dan kontrol sikap, serta memberikan manuver orbital yang diperlukan.
+
+Beberapa tahap atas telah memberikan layanan di lebih dari satu boster. Misalnya, Agena digunakan pada berbagai roket Thor, Atlas dan Titan. Centaur dan IUS juga bertugas di beberapa keluarga dari peluncur. Meskipun upgrade berkala, keluarga tahap atas cenderung tetap bekerja selama jangka waktu yang lama. Agena, pertama diterbangkan pada tahun 1959, akan terbang di atas 360 misi sebelum pensiun pada 1987. Centaur, 50 tahun setelah penerbangan pertama pada tahun 1963, masih melihat sering digunakan pada boster Atlas 5.
+
+Tahap atas dirancang untuk beroperasi pada ketinggian tinggi, dengan sedikit atau tanpa tekanan atmosfer. Hal ini memungkinkan penggunaan ruang pembakaran tekanan rendah dan nozel mesin dengan rasio ekspansi vakum optimal. Beberapa tahap atas, terutama yang menggunakan propelan hypergolic seperti Delta-K atau tahap kedua Ariane 5 ES, adalah pemberian tekanan dengan menghilangkan kebutuhan pada turbomachinery yang kompleks. Tahap atas lainnya, seperti Centaur atau DCS, menggunakan mesin siklus hidrogen expander cair, atau mesin siklus generator gas seperti Ariane 5 ECA HM7B atau J2 S-IVB. Tahap ini biasanya bertugas menyelesaikan injeksi orbital dan mempercepat muatan ke orbit energi yang lebih tinggi seperti GTO atau ke kecepatan lepas, escape velocity. Tahap atas seperti Fregat digunakan terutama untuk membawa muatan dari orbit Bumi rendah ke GTO atau di luar kadang-kadang disebut sebagai kapal tunda ruang angkasa, space tugs.<ref>{{Cite web|url = http://www.russianspaceweb.com/fregat.html|title = Fregat|date = |accessdate = July 2014|website = RussianSpaceWeb.com|publisher = |last = |first = }}</ref>
+
+==Lihat pula==
+*[[Satelit]]
+*[[Roket]]
+*[[Kendaraan peluncur luar angkasa]]
+*[[Orbit]]
+*[[Orbit geosinkron]]
+*[[Orbit geostasioner]]
+
+== Referensi ==
+{{Reflist}}
+* [http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19750069069_1975069069.pdf Gemini 6/Agena target vehicle 5002 systems test evaluation (PDF) December 1965]
+* [http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=GEM6T Gemini 6 Agena Target vehicle]
+* [http://www.maniacworld.com/Gemini-VIII-Docks.htm Gemini 8 Docks with Agena] Video
+* [http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19780012208_1978012208.pdf On the Shoulders of Titans, Project Gemini]
+*Gunter's Space Page&nbsp;&mdash; information on [http://space.skyrocket.de/doc_stage/centaur.htm Centaur versions and launch list]
+*[http://www.history.nasa.gov/SP-4230.pdf Taming Liquid Hydrogen: The Centaur Upper Stage Rocket, 1958-2002]  NASA History Publication.
+
+[[Kategori:Mesin roket]]
+[[Kategori:Roket tahap atas]]

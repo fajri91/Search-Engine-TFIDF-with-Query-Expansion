@@ -1,0 +1,15 @@
+Templat:Pengguna musik reggae
+{{userbox
+|logo            = [[Berkas:Bob Marley Grona Lund 1977.jpg|50px|Bob Marley]]
+|info            = Pengguna ini penggemar musik '''[[reggae]]'''
+|border-color    = red
+|logo-background = green
+|info-background = yellow
+|category        = Pengguna penggemar musik reggae
+|logo-size       = 8
+|info-color      = red
+|nocat           = {{{nocat|}}}
+}}<noinclude>
+{{userboxes|Pengguna penggemar musik reggae}}
+[[Kategori:Templat userbox minat|Reggae]]
+</noinclude>

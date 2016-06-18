@@ -1,0 +1,11 @@
+Templat:User nl-4
+{{Babel-box
+| level         = 4
+| id            = [[Bahasa Belanda|nl]]
+| info          = Deze gebruiker spreekt het '''[[:Kategori:User nl|Nederlands]]''' op '''[[:Kategori:User nl-4|moedertaalniveau]]'''.
+| userkategori  = User nl
+| userkategori2 = User nl-4
+}}<noinclude>
+{{Babel-bar|nl}}
+[[Kategori:Templat Babel|nl-4]]
+</noinclude>

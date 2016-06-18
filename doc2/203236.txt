@@ -1,0 +1,37 @@
+Zeta Capricorni
+'''Zeta Capricorni, ( Cap /  Capricorni)''', adalah bintang bermagnitudo tigkat keempat yang berada di [[rasi bintang]] [[Capricornus]].  Capricorni adalah [[bintang ganda]], dengan komponen primer ''' Capricorni A''' yang tergolong bintang superraksasa kuning tipe G (''yellow G-type supergiant'') dengan [[magnitudo]] 3.77. Ini menunjukkan bahwa bintnang merupakan bintang contoh dari bintang Barium (''Barium star''), yang memiliki kelebihan molekul karbon (seperti molekul C2) Komponen kedua, ''' Capricorni B''' adalah [[bintang katai]] putih . Sistem bintang ini berada pada jarak 398 [[tahun cahaya]] dari [[Bumi]].
+
+== Etimologi ==
+
+Bintang ini kadang-kadang disebut dengan nama tradisionalnya yaitu '''Marakk''', yang berasal dari [[bahasa Arab]] yang berarti "pinggang (sang kambing)". Nama lain yang diberikan oleh para astronom terdahulu untuk bintang ini adalah:
+
+{| class="wikitable"
+|-
+! nama lain
+! asal bahasa
+! arti
+|-
+|  / Yan|| [[China]] || (satu bintang di daerah) ''Yan''<ref>salah satu daerah kuno di China yang direpresentasikan pada rasi [[Daftar asterisme di Gadis#Duabelas Provinsi|Duabelas Provinsi]], salah satu rasi bintang bangsa Cina</ref>
+|}
+Selain [[rasi]] [[Capricornus]], bintang ini juga merupakan anggota dari berbagai rasi atau asterisma berikut :
+
+{| class="wikitable"
+|-
+! nama rasi / asterisma
+! asal 
+! arti
+! anggota lainnya
+|-
+| Diaper<ref>http://www.amastro2.org/at/as/asf.html</ref> ||   || popok bayi||[[Delta Capricorni| Cap]], [[Beta Capricorni| Cap]], [[Alpha2 Capricorni|<sup>2</sup> Cap]], [[Gamma Capricorni| Cap]]
+|-
+|  / Shrgu|| [[China]]  || [[Daftar asterisme di Gadis#Duabelas Provinsi|Duabelas Provinsi]]||[[Phi Capricorni| Cap]], [[Iota Capricorni| Cap]], [[37 Capricorni|37 Cap]], [[35 Capricorni|35 Cap]], [[36 Capricorni|36 Cap]], [[Chi Capricorni| Cap]], [[Theta Capricorni| Cap]], [[30 Capricorni|30 Cap]], [[33 Capricorni|33 Cap]], [[19 Capricorni|19 Cap]], [[27 Capricorni|27 Cap]], [[20 Capricorni|20 Cap]], [[Eta Capricorni| Cap]]
+|}
+
+== Referensi ==
+{{reflist}}
+* {{cite web | title=HD 204075 -- Star in double system | work=SIMBAD Astronomical Database  | url=http://simbad.u-strasbg.fr/sim-id.pl?protocol=html&Ident=zeta+capricorni&NbIdent=1&Radius=10&Radius.unit=arcmin&CooFrame=FK5&CooEpoch=2000&CooEqui=2000&output.max=all&o.catall=on&output.mesdisp=N&Bibyear1=1983&Bibyear2=2005&Frame1=FK5&Frame2=FK4&Frame3=G&Equi1=2000.0&Equi2=1950.0&Equi3=2000.0&Epoch1=2000.0&Epoch2=1950.0&Epoch3=2000.0  | accessdate=2007-04-01}}
+* [http://www.astro.uiuc.edu/~kaler/sow/zetacap.html Jim Kaler: Zeta Capricorni]
+
+{{astronomi-stub}}
+
+[[Kategori:Rasi bintang Capricornus]]

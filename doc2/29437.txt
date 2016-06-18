@@ -1,0 +1,63 @@
+Daftar distrik di Timor Leste
+'''[[Timor Leste]]''' terbagi atas 13 '''distrik''' administratif, umumnya didaftarkan dari timur ke barat:
+[[Berkas:East Timor district numbers.png|right|thumb|300px|Peta distrik-distrik di Timor Leste, urutan geografis]]
+{| class="wikitable sortable" style="text-align: right; font-size: 95%;"
+|-
+! width="30"| !! width="110" | Distrik !! Ibukota
+! Luas (km<sup>2</sup>) !! Households !! Populasi (Sensus 2004) !! Populasi (Perkiraan 2008) !! Kepadatan penduduk (2004)<br/>(/km<sup>2</sup>)
+|-
+| align="center" | 1 || align="left" | [[Lautm]] || [[Lospalos]]
+| {{commas|1702}} || {{commas|12998}} || {{commas|55921}} || {{commas|65349}} || 32.9
+|-
+| align="center" | 2 || align="left" | [[Baucau (district)|Baucau]] || [[Baucau]]
+| {{commas|1494}} || {{commas|22659}} || {{commas|100326}} || {{commas|113748}} || 67.2
+|-
+| align="center" | 3 || align="left" | [[Viqueque (district)|Viqueque]] || [[Viqueque]]
+| {{commas|1781}} || {{commas|15115}} || {{commas|65245}} || {{commas|72950}} || 36.6
+|-
+| align="center" | 4 || align="left" | [[Manatuto (district)|Manatuto]] || [[Manatuto]]
+| {{commas|1706}} || {{commas|8338}} || {{commas|36719}} || {{commas|41217}} || 21.5
+|-
+| align="center" | 5 || align="left" | [[Dili (district)|Dili]] || [[Dili]]
+| {{commas|372}} || {{commas|31575}} || {{commas|173541}} || {{commas|212469}} || 466.5
+|-
+| align="center" | 6 || align="left" | [[Aileu (district)|Aileu]] || [[Aileu]]
+| {{commas|729}} || {{commas|7745}} || {{commas|37926}} || {{commas|45724}} || 52.0
+|-
+| align="center" | 7 || align="left" | [[Manufahi]] || [[Same]]
+| {{commas|1325}} || {{commas|8901}} || {{commas|44950}} || {{commas|53995}} || 33.9
+|-
+| align="center" | 8 || align="left" | [[Liqui (district)|Liqui]] || [[Liqui]]
+| {{commas|543}} || {{commas|11063}} || {{commas|54834}} || {{commas|69925}} || 101.0
+|-
+| align="center" | 9 || align="left" | [[Ermera District|Ermera]] || [[Gleno]]
+| {{commas|746}} || {{commas|21165}} || {{commas|103199}} || {{commas|118671}} || 138.3
+|-
+| align="center" | 10 || align="left" | [[Ainaro (district)|Ainaro]] || [[Ainaro]]
+| {{commas|797}} || {{commas|11527}} || {{commas|52476}} || {{commas|62407}} || 65.8
+|-
+| align="center" | 11 || align="left" | [[Bobonaro District|Bobonaro]] || [[Maliana]]
+| {{commas|1368}} || {{commas|18397}} || {{commas|83034}} || {{commas|93787}} || 60.7
+|-
+| align="center" | 12 || align="left" | [[Cova Lima]] || [[Suai]]
+| {{commas|1226}} || {{commas|11820}} || {{commas|52818}} || {{commas|62764}} || 43.1
+|-
+| align="center" | 13 || align="left" | [[Oecusse District|Oecusse]] || [[Pante Macassar]]
+| {{commas|815}} || {{commas|13659}} || {{commas|57469}} || {{commas|67736}} || 70.5
+|}
+
+== Lihat pula ==
+* [[Daftar distrik Timor Leste menurut luas wilayah]]
+* [[Daftar distrik Timor Leste menurut rumah tangga]]
+* [[Daftar distrik Timor Leste menurut jumlah penduduk]]
+* [[Daftar distrik Timor Leste menurut kepadatan penduduk]]
+
+== Pranala luar ==
+{{commonscat|Districts of East Timor}}
+
+{{Timor Leste}}
+{{Pembagian administratif I|state=collapsed}}
+
+[[Kategori:Distrik di Timor Leste| ]]
+[[Kategori:Daftar distrik|Timor Leste]]
+[[Kategori:Daftar bertopik Timor Leste]]

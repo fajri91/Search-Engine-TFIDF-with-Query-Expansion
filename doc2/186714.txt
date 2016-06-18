@@ -1,0 +1,22 @@
+Asteraceae
+{{Taxobox
+| name = Asteraceae
+| color = lightgreen
+| image = Asteracea poster 3.jpg
+| image_width = 200px
+| image_caption = 
+| regnum = [[Plantae]]
+| divisio = [[Flowering plant|Magnoliophyta]]
+| classis = [[Dicotyledon|Magnoliopsida]]
+| ordo = [[Asterales]]
+| familia = '''Asteraceae'''
+| familia_authority = 
+| subdivision_ranks = [[Genus|Genera]]
+| subdivision = 
+lihat teks
+}}
+'''Asteraceae''' (suku [[kenikir]]-kenikiran) adalah salah satu [[familia|suku]] anggota [[tumbuhan berbunga]]. Menurut [[Sistem klasifikasi APG II]] suku ini termasuk dalam [[Ordo (biologi)|bangsa]] [[Asterales]]. Dalam [[Sistem klasifikasi Cronquist|Sistem Cronquist]] suku adalah satu-satunya anggota Asterales. Anggota suku ini ber[[bunga majemuk]]
+{{botani-stub}}
+
+[[Kategori:Asteraceae| ]]
+[[Kategori:Asterales]]

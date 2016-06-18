@@ -1,0 +1,14 @@
+Berkas:Monumen Tanjung Puri Tabalong Kalsel.JPG
+== {{int:filedesc}} ==
+{{Information
+| description    =
+Monumen Tanjung Puri di [[Kota Tanjung]] kabuaten [[Tabalong]] [[Kalsel]].
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{GFDL-self}}

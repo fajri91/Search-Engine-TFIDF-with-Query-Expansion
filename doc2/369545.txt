@@ -1,0 +1,40 @@
+80 (angka)
+{| class="infobox" style="width: 20em"
+|-
+| colspan="2" align="center" style="font: 72pt gill sans MT"| 80
+|-
+| colspan="2"| {{numbers (digits)}}
+|-
+| [[Angka Kardinal|Kardinal]] || 80<br />delapan puluh
+|-
+| [[Angka Ordinal (linguistik)|Ordinal]] || ke-80 (80<sup>th</sup>)<br />kedelapan puluh
+|-
+| [[Faktorisasi]] || <math>2^4 \cdot 5</math>
+|-
+| [[Divisor]] || 1, 2, 4, 5, 8, 10, 16, 20, 40, dan 80
+|-
+| [[Angka Romawi]] || LXXX
+|-
+| [[Angka Jepang]] || 
+|-
+| [[Biner]] || 1010000
+|-
+| [[Oktal]] || 120
+|-
+| [[Duodesimal]] || 68
+|-
+| [[Heksadesimal]] || 50
+|-
+| [[Bahasa Arab]] ||
+|}
+'''80''' ('''delapan puluh''') adalah sebuah [[angka]], [[sistem bilangan]], dan nama dari [[glyph]] yang mewakili angka tersebut. Angka ini merupakan [[bilangan asli]] setelah [[79 (angka)|79]] dan sebelum [[81 (angka)|81]].
+
+== Penggunaan ==
+* Kode [[ASCII]]: [[P]].
+* [[Nomor atom]] [[Raksa]].
+
+{{angka-stub}}
+{{DEFAULTSORT:80}}
+
+[[Kategori:Angka]]
+[[Kategori:Bilangan bulat]]

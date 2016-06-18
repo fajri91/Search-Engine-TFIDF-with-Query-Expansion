@@ -1,0 +1,15 @@
+Berkas:Sutomo.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+Dari websitenya [[Perguruan Sutomo]] (gambar berasal dari [http://sutomo-mdn.sch.id/images/stories/sutomo.jpg sini])
+
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Logo}}

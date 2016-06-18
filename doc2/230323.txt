@@ -1,0 +1,39 @@
+Eugne Ionesco
+{{Infobox Writer <!-- for more information see [[:Template:Infobox Writer/doc]] -->
+|name = Eugne Ionesco
+|image =
+|imagesize = 300px
+|caption = 
+|birthdate = {{birthdate|1909|11|26|df=y}}
+|birthplace = [[Slatina, Rumania|Slatina]], [[Rumania]]
+|deathdate = {{dda|1994|3|28|1909|11|26|df=y}}
+|deathplace = [[Paris]], [[Perancis]]
+|occupation = penulis drama
+|nationality = [[Rumania]], [[Perancis]]
+|period = (19311994)
+|genre = [[Teater]]
+|movement = [[Avant-garde]], [[Theatre of the Absurd]]
+|influences =
+}}
+
+'''Eugne Ionesco''' (lahir sebagai '''Eugen Ionescu''', {{IPA-ro|e.uden i.onesku}}; 26 November 1909<!--not 1912, see below-->  28 Maret 1994) adalah penulis drama [[Rumania]] dan [[Perancis]].
+
+Ionesco lahir di [[Slatina, Rumania|Slatina]], [[Provinsi Olt]], [[Rumania]].
+
+== Pranala luar ==
+ 
+* {{findagrave|1640}} 
+* [http://www.untitledtheater.com/Productionlist.html The Ionesco Festival]
+* [http://www.ionesco.org/ The Eugne Ionesco Homepage]
+* [http://www.untitledtheater.com/Ionescobio.htm Eugne Ionesco: Man of the Theatre/Theatrical Man]
+* [http://linguaromana.byu.edu/contents3.html special double issue of Lingua Romana on Ionesco]
+* {{fr icon}} [http://www.academie-francaise.fr/immortels/index.html L'Acadmie franaise]
+* {{fr icon}} [http://www.theatre-huchette.com/ Official site of Thtre de La Huchette]
+* [http://www.youtube.com/watch?v=FGOFBLHiVXU An Interview with Eugene Ionesco]
+
+{{lifetime|1909|1994|}}
+
+{{DEFAULTSORT:Ionesco, Eugene}}
+
+
+{{bio-stub}}

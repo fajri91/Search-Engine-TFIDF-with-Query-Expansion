@@ -1,0 +1,39 @@
+Templat:Skuat Mlaga CF
+{{football squad
+|teamname=Mlaga CF
+|bgcolor=skyblue
+|textcolor=white
+|bordercolor=yellow
+|name=Skuat Mlaga CF
+|list=<div>
+{{fsp2|no=1|name=[[Idriss Carlos Kameni|Kameni]]}}
+{{fsp2|no=2|name=[[Ral Albentosa|Albentosa]]}}
+{{fsp2|no=3|name=[[Weligton Oliveira|Weligton]]}}
+{{fsp2|no=4|name=[[Flvio Ferreira|Ferreira]]}}
+{{fsp2|no=6|name=[[Ignacio Camacho|Camacho]]}}
+{{fsp2|no=7|name=[[Juan Carlos|J. Carlos]]}}
+{{fsp2|no=8|name=[[Fbio Espinho|Espinho]]}}
+{{fsp2|no=9|name=[[Charles Dias de Oliveira|Charles]]}}
+{{fsp2|no=10|name=[[Ricardo Horta|Horta]]}}
+{{fsp2|no=12|name=[[Fernando Tissone|Tissone]]}}
+{{fsp2|no=13|name=[[Guillermo Ochoa|Ochoa]]}}
+{{fsp2|no=14|name=[[Jos Luis Garca del Pozo|Recio]]}}
+{{fsp2|no=15|name=[[Marcos Angeleri|Angeleri]]}}
+{{fsp2|no=16|name=[[Hachim Mastour|Mastour]]}}
+{{fsp2|no=17|name=[[Srgio Paulo Barbosa Valente|Duda]]}} {{kapten}}
+{{fsp2|no=18|name=[[Roberto Rosales|Rosales]]}}
+{{fsp2|no=19|name=[[Arthur Boka|Boka]]}}
+{{fsp2|no=20|name=[[Duje op|op]]}}
+{{fsp2|no=21|name=[[Egor Filipenko|Filipenko]]}}
+{{fsp2|no=22|name=[[Adnane Tighadouini|Tighadouini]]}}
+{{fsp2|no=23|name=[[Miguel Torres Gmez|M. Torres]]}}
+{{fsp2|no=24|name=[[Roque Santa Cruz|Santa Cruz]]}}
+{{fsp2|no=28|name=[[Juan Pablo Aor Acosta|Juanpi]]}}
+{{fsp2|no=31|name=[[Pablo Fornals|Fornals]]}}
+{{fsp2|no=39|name=[[Javier Ontiveros|Ontiveros]]}}
+{{fsp2|no=|name=[[Chory Castro|Castro]]}}
+{{fsm|name=[[Javi Gracia|Gracia]]}}
+</div>}}<noinclude>
+{{Squad maintenance|update source= }}
+[[Kategori:Templat skuat klub La Liga|Malaga]]
+</noinclude>

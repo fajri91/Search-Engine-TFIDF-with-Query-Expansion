@@ -1,0 +1,17 @@
+Robot jaringan
+'''Robot jaringan''' adalah pendekatan baru untuk melakukan kontrol robot menggunakan jaringan [[internet]] dengan protokol TCP/IP. Perkembangan [[robot]] jaringan dipicu oleh kemajuan jaringan dan internet yang pesat. Dengan koneksi jaringan, proses kontrol dan monitoring, termasuk akuisisi data bila ada, seluruhnya dilakukan melalui jaringan. Keuntungan lain, koneksi ini bisa dilakukan secara [[nirkabel]]. pengendalian dari robot jaringan ini bisa langsung dengan internet yang saling berhubungan antara robot dan perangkat keras yang terhubung dengan media internet
+== Prototipe ==
+
+Di Indonesia, pengembang robot jaringan belum banyak, meski pengembang dan komunitas robot secara umum sudah banyak. Hal ini disebabkan tuntutan teknis yang jauh lebih kompleks. Salah satu robot jaringan yang sudah berhasil dikembangkan adalah LIPI Wireless Robot (LWR)<ref>[http://robot.teori.fisika.lipi.go.id LIPI Wireless Robot]</ref> yang dikembangkan oleh Grup Fisika Teoritik dan Komputasi - [[GFTK]] [[LIPI]].
+
+Seperti ditunjukkan di LWR, seluruh proses kontrol dan monitoring bisa dilakukan melalui perambah internet. Lebih jauh, seluruh sistem dan protokol yang dikembangkan untuk LWR ini telah dibuka sebagai '''[[open-source]]''' dengan lisensi GNU ''Public License'' ([[GPL]]) di SourceForge dengan nama [[openNR]]<ref>[http://sourceforge.net/projects/opennr/ openNR : ''wireless and modular networked robot'']</ref>.
+
+== Referensi ==
+
+{{reflist}}
+
+== Pranala luar ==
+
+* [http://teori.fisika.lipi.go.id Grup Fisika Teoritik dan Komputasi LIPI]
+
+[[Kategori:Robot]]

@@ -1,0 +1,82 @@
+Stasiun Rogojampi
+{{infobox stasiun
+|image=Rogojampi (semboyan35.com).jpg
+|caption=
+|name=Rogojampi
+|prov=Jawa Timur
+|kabupaten=Banyuwangi
+|kecamatan kabupaten=Rogojampi
+|desa=Karangbendo
+|kodepos=68462
+|kode=RGP
+|tinggi=+89 m
+|letak=km 72+197 lintas [[Stasiun Kalisat|Kalisat]]-''[[Stasiun Kabat|Kabat]]''-''[[Stasiun Banyuwangi|Banyuwangi Lama]]''
+|nomor=5518
+|line=[[Kereta api Mutiara Timur|Mutiara Timur]], [[Kereta api Sri Tanjung|Sri Tanjung]], [[Kereta api Tawang Alun|Tawang Alun]], [[Kereta api Probowangi|Probowangi]], dan [[Kereta api Pandanwangi|Pandanwangi]]
+|operator=[[Daerah Operasi IX Jember]]
+|class=I
+|ticketting=Sistem tiket ''online'', melayani pemesanan langsung di loket.}}
+
+'''Stasiun Rogojampi (RGP)''' merupakan [[stasiun kereta api]] kelas I yang terletak di [[Karangbendo, Rogojampi, Banyuwangi]]. Stasiun yang terletak pada ketinggian 89 m dpl ini berada di [[Daerah Operasi IX Jember]]. Stasiun ini memiliki tiga jalur dengan jalur 2 sebagai sepur lurus. Dahulu dari jalur 1 ke arah selatan, terdapat jalur cabang menuju [[Benculuk]]. Saat ini semua kereta milik [[Daerah Operasi IX Jember]] berhenti untuk menaikturunkan penumpang ketika berangkat dari dan ke [[Stasiun Banyuwangi Baru]]. 
+
+==Layanan kereta api==
+=== Kelas campuran (eksekutif-bisnis) ===
+* [[Kereta api Mutiara Timur|Mutiara Timur]], tujuan[[Stasiun Surabaya Gubeng|Surabaya]]dan tujuan [[Stasiun Banyuwangi Baru|Banyuwangi]](khusus untuk jadwal malam bisa bersambung dari dan ke[[Kota Denpasar|Denpasar]],[[Bali]], menggunakan armada bus kerjasama antara Damri-PT KAI).
+
+=== Kelas ekonomi AC ===
+* [[Kereta api Sri Tanjung|Sri Tanjung]], tujuan [[Stasiun Surabaya Gubeng|Surabaya]] bersambung [[Stasiun Lempuyangan|Yogyakarta]] dan tujuan [[Stasiun Banyuwangi Baru|Banyuwangi]]
+* [[Kereta api Tawang Alun|Tawang Alun]], tujuan [[Stasiun Bangil|Bangil]] bersambung [[Stasiun Malang Kotalama|Malang]] dan tujuan [[Stasiun Banyuwangi Baru|Banyuwangi]] 
+* [[Kereta api Probowangi|Probowangi]], tujuan [[Stasiun Surabaya Kota|Surabaya]] dan tujuan [[Stasiun Banyuwangi Baru|Banyuwangi]]
+* [[Kereta api Pandanwangi|Pandanwangi]], tujuan [[Stasiun Jember|Jember]] dan tujuan [[Stasiun Banyuwangi Baru|Banyuwangi]]
+
+== Jadwal kereta api ==
+Berikut ini adalah jadwal kereta api di Stasiun Rogojampi '''per 1 April 2015 (berdasarkan Gapeka 2015).'''
+                                                                                                 
+{| class="wikitable sortable"
+|-
+! No. KA !! KA !! Tujuan !! Kelas !! Tiba !! Berangkat
+|-
+| 89 || [[Kereta api Mutiara Timur|Mutiara Timur Malam]] || [[Stasiun Banyuwangi Baru|Banyuwangi Baru (BW)]] bersambung [[Kota Denpasar|Denpasar (DEN)]] || Eksekutif & Bisnis || 03.55 || 03.57
+|-
+| 208/209 || [[Kereta api Tawang Alun|Tawang Alun]] || [[Stasiun Bangil|Bangil (BG)]] bersambung [[Stasiun Malang Kotalama|Malang Kotalama (MLK)]] || rowspan=3|Ekonomi AC || 05.27 || 05.29
+|-
+| 481 || [[Kereta api Pandanwangi|Pandanwangi]] || [[Stasiun Banyuwangi Baru|Banyuwangi Baru (BW)]] || 06.50 || 06.59
+|-
+| 196/193 || [[Kereta api Sri Tanjung|Sri Tanjung]] || [[Stasiun Surabaya Gubeng|Surabaya Gubeng (SGU)]] bersambung [[Stasiun Lempuyangan|Yogyakarta Lempuyangan (LPN)]] || 06.57 || 07.01
+|-
+| 88 || [[Kereta api Mutiara Timur|Mutiara Timur Siang]] || [[Stasiun Surabaya Gubeng|Surabaya Gubeng (SGU)]] || Eksekutif & Bisnis || 09.27 || 09.29
+|-
+| 482 || [[Kereta api Pandanwangi|Pandanwangi]] || [[Stasiun Jember|Jember (JR)]] || rowspan=3|Ekonomi AC || 10.16 || 10.18
+|-
+| 219 || rowspan=2|[[Kereta api Probowangi|Probowangi]] || [[Stasiun Banyuwangi Baru|Banyuwangi Baru (BW)]] || 11.16 || 11.18
+|-
+| 220 || [[Stasiun Surabaya Kota|Surabaya Kota (SB)]] || 13.58 || 14.00
+|-
+| 87 || [[Kereta api Mutiara Timur|Mutiara Timur Siang]] || rowspan=2|[[Stasiun Banyuwangi Baru|Banyuwangi Baru (BW)]] || Eksekutif & Bisnis || 14.59 || 15.01
+|-
+| 483 || rowspan=2|[[Kereta api Pandanwangi|Pandanwangi]] || rowspan=3|Ekonomi AC || 17.57 || 17.59
+|-
+| 484 || [[Stasiun Jember|Jember (JR)]] || 20.33 || 20.44
+|-
+| 194/195 || [[Kereta api Sri Tanjung|Sri Tanjung]] || [[Stasiun Banyuwangi Baru|Banyuwangi Baru (BW)]] || 20.42 || 20.46
+|-
+| 90 || [[Kereta api Mutiara Timur|Mutiara Timur Malam]] || [[Stasiun Surabaya Gubeng|Surabaya Gubeng (SGU)]] || Eksekutif & Bisnis || 22.27 || 22.29
+|-
+| 210/207 || [[Kereta api Tawang Alun|Tawang Alun]] || [[Stasiun Banyuwangi Baru|Banyuwangi Baru (BW)]] || Ekonomi AC || 22.58 || 23.00
+|}
+
+== Galeri ==
+<gallery>
+Berkas:86 big.jpg|Stasiun Rogojampi.
+</gallery>
+
+== Pranala luar ==
+* {{id}} [https://tiket.kereta-api.co.id/media/document/ebook_infoka_2015.pdf] & [https://tiket.kereta-api.co.id/] Jadwal Kereta Api Tahun 2015
+* {{id}} [http://www.kaskus.co.id/show_post/55278feb98e31be3408b457c/3762/- Jadwal KA Probowangi dan Pandanwangi 2015]
+
+{{stasiun|Stasiun Singojuruh|Jalur kereta api Kalisat-Banyuwangi Baru|Stasiun Kabat}}
+{{stasiun|-|Jalur kereta api Rogojampi-Benculuk|Stasiun Kalidalem}}
+{{stasiun-stub}}
+
+[[Kategori:Stasiun kereta api di Jawa Timur|Rogojampi]]
+[[Kategori:Rogojampi, Banyuwangi]]

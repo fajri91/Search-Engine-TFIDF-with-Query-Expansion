@@ -1,0 +1,59 @@
+Babi berjenggot
+{{Taxobox
+| name = Babi Berjenggot
+| status = vu
+| status_system = iucn
+| status_ref = <ref name=iucn>{{IUCN2008|assessors=Kawanishi, K., Gumal, M. & Oliver, W.|year=2008|id=41772|title=Sus barbatus|downloaded=25 Jan 2015}} Database entry includes a brief justification of why this species is of vulnerable.</ref>
+| image = Bearded Pigs2.jpg
+| image_caption = Di [[Kebun Binatang San Diego]]
+| image2 = Sus barb 120323-24478 sndai.JPG
+| image2_caption = Hasil perburuan orang Dayak di [[Demit, Sandai, Ketapang|Demit]], [[Sandai, Ketapang|Sandai]], [[Ketapang]]
+| regnum = [[Animal]]ia
+| phylum = [[Chordate|Chordata]]
+| classis = [[Mammal]]ia
+| ordo = [[Artiodactyla]]
+| familia = [[Suidae]]
+| genus = ''[[Sus]]''
+| species = '''''S. barbatus'''''
+| binomial = ''Sus barbatus''
+| binomial_authority = [[Salomon Mller|Mller]], 1838<ref>{{aut|[[Salomon Mller|Mller, S.]]}}  1838.  Over eenige nieuwe zoogdieren van Borneo.  [http://www.biodiversitylibrary.org/page/13474918#page/177/mode/1up ''Tijdschrift voor Natuurlijke Geschiedenis en Physiologie'' '''5''': 149.]</ref>
+| subdivision_ranks = Subspesies
+| subdivision =
+*''Sus barbatus barbatus''
+*''Sus barbatus oi'' {{small|Miller, 1902}}
+}}
+
+'''Babi berjenggot'''<ref name=mam/> ('''''Sus barbatus''''') atau '''babi janggut''', adalah sejenis babi liar ([[babi hutan]]) yang menyebar di [[Semenanjung Malaya]], [[Sumatera]], [[Kalimantan]], dan [[Kepulauan Sulu]].  [[Babi palawan]] (''S. ahaenobarbus'') sebelumnya dimasukkan sebagai [[subspesies|anak jenis]] babi berjenggot, tetapi kini dianggap sebagai [[spesies]] tersendiri.
+
+==Pengenalan==
+[[File:Beardedpigskull.jpg|thumb|left|180px|Lukisan [[tengkorak]] menurut [[Lydekker]], lk.1901 ]]
+[[File:Sus barb 101011-7347 mp.JPG|thumb|left|180px|Kepala di atas talam.  [[Beringin Rayo, Tumbang Titi, Ketapang|Beringin Rayo]], [[Tumbang Titi, Ketapang|Tumbang Titi]] ]]
+Babi yang berukuran cukup besar;  hewan jantan mencapai panjang tubuh 1520 [[milimeter|mm]], yang betina sedikit lebih kecil;  tinggi bahunya hingga 90 [[sentimeter|cm]] dan beratnya mencapai 120 [[kilogram|kg]], meskipun kebanyakan antara 57-83 kg.<ref name=mam>{{aut|[[Junaidi Payne|Payne, J.]], C.M. Francis, K. Phillipps, S.N. Kartikasari}}.  2000.  ''Panduan Lapangan Mamalia di Kalimantan, Sabah, Sarawak & Brunei Darussalam'': 333-4.  Bogor:  WCS-IP, The Sabah Society & WWF Malaysia.</ref>
+
+Babi muda berwarna kehitaman;  sedangkan yang dewasa lebih pucat, dari abu-abu kuning hingga putih bungalan.  Kepala panjang dengan rambut keras serupa [[jenggot]] di sepanjang rahang bawah, dan dua pasang tonjolan daging serupa [[kutil]] di atas kedua sisi mulut ditumbuhi rambut-rambut panjang, kaku, keputih-putihan.<ref name=mam/>
+
+==Kebiasaan==
+Babi berjenggot biasanya aktif di malam hari ([[nokturnal]]), namun di siang hari yang sejuk pun kadang-kadang binatang ini mau berkeliaran.  Makanannya berupa [[buah|buah-buahan]] yang jatuh dari pohon dan [[biji|biji-bijian]], [[akar|akar-akaran]], [[terna]], serta berbagai bagian tumbuhan lainnya;  hewan-hewan kecil seperti [[cacing tanah]], [[serangga]] dan sebangsanya.<ref name=mam/>
+
+Babi betina membuat sarang dari daun-daunan dan semak-semak yang dicabik-cabik dan dilonggokkan untuk tempat melahirkan anak-anaknya.  Biasanya betina melahirkan 3-11 ekor setiap kali beranak.<ref name=mam/>
+
+==Anak jenis dan agihan==
+''Sus barbatus'' memiliki dua [[subspesies|anak jenis]], yakni:<ref name=iucn/><ref name=msw3>{{MSW3 Grubb| id = 14200038}}</ref>
+*''S.b. barbatus'', menyebar di [[Pulau Kalimantan]] serta di P. Sibutu di barat [[Kepulauan Sulu]].
+*''S.b. oi'', di [[Semenanjung Malaya]], [[Sumatera]], [[Bangka]], dan Palang Bintang di [[Kepulauan Riau]].
+
+==Referensi==
+{{reflist|2}}
+
+==Pranala luar==
+{{commonscat|Sus barbatus}}
+*ADW:  [http://animaldiversity.org/accounts/Sus_barbatus/ ''Sus barbatus''].  Diakses 25/I/2015.
+*Arkive:  [http://www.arkive.org/bearded-pig/sus-barbatus/ ''Sus barbatus''].  Diakses 25/I/2015.
+*EcologyAsia:  [http://www.ecologyasia.com/verts/mammals/bearded_pig.htm ''Sus barbatus''].  Diakses 25/I/2015.
+*ScienceBlogs:  [http://scienceblogs.com/tetrapodzoology/2011/06/19/the-bearded-pigs/ ''Sus barbatus''].  Diakses 25/I/2015.
+
+
+
+
+[[Kategori:Sus]]
+[[Kategori:Mamalia Indonesia]]

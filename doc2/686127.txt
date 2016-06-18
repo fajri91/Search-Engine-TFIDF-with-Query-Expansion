@@ -1,0 +1,36 @@
+Templat:Skuat Piala Afrika 2006 Maroko
+{{National squad
+ | name      = Skuat Piala Afrika 2006 Maroko
+ | bg        = green
+ | fg        = white
+ | bordercolor=red
+ | country   = Maroko
+ | comp link = Piala Afrika 2006
+ | comp      = Piala Afrika 2006
+ | p1        = [[Tarik El Jarmouni|Jarmouni]] 
+ | p2        = [[Hoalid Regragui|Regragui]]
+ | p3        = [[Noureddine Kacemi|Kacemi]]
+ | p4        = [[Abdeslam Ouaddou|Ouaddou]]
+ | p5        = [[Talal El Karkouri|El Karkouri]]
+ | p6        = [[Noureddine Naybet|Naybet]]
+ | p7        = [[Jaouad Zairi|Zairi]]
+ | p8        = [[El Houssaine Ouchla|Ouchla]]
+ | p9        = [[Ali Boussaboun|Boussaboun]]
+ | p10       = [[Mohamed Madihi|Madihi]]
+ | p11       = [[Mohamed El Yaagoubi|Moha]]
+ | p12       = [[Mustapha Chadili|Chadili]]
+ | p13       = [[Houssine Kharja|Kharja]]
+ | p14       = [[Hafid Abdessadek|Abdessadek]]
+ | p15       = [[Youssef Safri|Safri]]
+ | p16       = [[Amin Erbati|Erbati]]
+ | p17       = [[Marouane Chamakh|Chamakh]]
+ | p18       = [[Youssef Chippo|Chippo]]
+ | p19       = [[Hicham Aboucherouane|Aboucherouane]]
+ | p20       = [[Youssouf Hadji|Hadji]]
+ | p21       = [[Badr El Kaddouri|El Kaddouri]]
+ | p22       = [[Nadir Lamyaghri|Lamyaghri]]
+ | p23       = [[Mohamed Armoumen|Armoumen]]
+ | coach     = [[Mohamed Fakhir|Fakhir]]
+}}<noinclude>[[Kategori:Templat skuat Piala Afrika 2006|Maroko]]
+[[Kategori:Templat skuat tim nasional sepak bola Maroko|2006]]
+</noinclude>

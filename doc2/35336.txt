@@ -1,0 +1,9 @@
+Templat:Pengguna Libra
+{{userbox|pink|#E0B0FF|[[Berkas:Libra.svg|33px]]
+|Pengguna ini [[zodiak|berzodiak]] '''[[Libra]]'''
+|category        = Pengguna Libra
+|nocat           = {{{nocat|}}}
+}}<noinclude>
+{{userboxes|Pengguna Libra}}
+[[Kategori:Templat userbox zodiak|Libra]]
+</noinclude>

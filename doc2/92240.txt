@@ -1,0 +1,58 @@
+Bandar Udara Fukushima
+{{Infobox airport
+| name = Bandar Udara Fukushima{{br}}
+| nativename-a = 
+| nativename-r = Fukushima Kk
+| image = Fukushimaairport.jpg
+| caption = Terminal penumpang Bandar Udara Fukushima (2006)
+| IATA = FKS
+| ICAO = RJSF
+| type = Publik
+| owner =
+| operator = Pemerintah Prefektur Fukushima
+| city-served = [[Sukagawa, Fukushima|Sukagawa]], [[Prefektur Fukushima|Fukushima]], [[Jepang]]
+| location =
+| latd = 37 | latm = 13 | lats = 39 | latNS = N
+| longd= 140 | longm= 25 | longs= 41 | longEW= E
+| coordinates_region = JP
+| pushpin_map = Japan
+| pushpin_label = RJSF
+| pushpin_map_caption = Lokasi di Jepang
+| elevation-f = 1220
+| website = [http://www.fks-ab.co.jp/ fks-ab.co.jp]
+| metric-rwy = y
+| r1-number = 01/19
+| r1-length-m = 2500
+| r1-length-f = 8202
+| r1-surface = [[Aspal]] [[beton]]
+| operating time = 7.00  20.00 [[WSJ]]
+}}
+
+{{nihongo|'''Bandar Udara Fukushima'''||Fukushima Kk}} {{Airport codes|FKS|RJSF}}<ref name="World Airport Codes">{{cite web | title=Fukushima  Japan | language=bahasa Inggris | website=World Airport Codes | url=https://www.world-airport-codes.com/japan/fukushima-2442.html | accessdate=17 Januari 2016}}</ref> merupakan [[bandar udara]] kelas tiga yang terletak di [[Fukushima]], [[Jepang]], yang dikelola oleh Pemerintah Prefektur Fukushima.<ref name="">{{cite web | title=Airport Profiles | website= | url=http://www.mlit.go.jp/english/civil_aviation/kuko03.html | language=bahasa Inggris | accessdate=17 Januari 2016}}</ref>
+
+== Fasilitas ==
+Bandar Udara Fukushima memili [[terminal bandar udara|terminal penumpang]] berlantai tiga. Lantai pertama digunakan untuk pendaftaran dan pembelian tiket (''check in''), dan pengambilan bagasi penumpang kedatangan.<ref name=" 1">{{cite web | title=(1F) | website= | url=http://www.fks-ab.co.jp/floor_map/ | language=bahasa Jepang | accessdate=17 Januari 2016}}</ref> Lantai kedua merupakan ruang tunggu bagi penumpang yang akan berangkat.<ref name=" 2">{{cite web | title=(2F) | website= | url=http://www.fks-ab.co.jp/floor_map/floor_2.html | language=bahasa Jepang | accessdate=17 Januari 2016}}</ref> Sedangkan lantai ketiga dapat digunakan sebagai dek observasi, tempat istirahat, dan tempat bermain anak-anak.<ref name=" 3">{{cite web | title=(3F) | website= | url=http://www.fks-ab.co.jp/floor_map/floor_3.html | language=bahasa Jepang | accessdate=17 Januari 2016}}</ref>
+
+Fasilitas lainnya, yaitu [[landas pacu]] yang memiliki dimensi 2.500  45 [[meter]] dengan arah 010 dan 190.<ref name="Fukushima Airport | SkyVector">{{cite web |url=https://skyvector.com/airport/RJSF/Fukushima-Airport |title=RJSF  Fukushima Airport |trans-title= |author= |date= |website=skyvector.com |publisher=SkyVector |accessdate={{date|January 17, 2016}} |language=bahasa Inggris |quote= |archivedate= |archiveurl= |dead-url=no}}</ref> Permukaan landas pacu ini dibuat dari [[aspal]] [[beton]] agar dapat menahan beban pesawat jet yang berat.<ref name="Fukushima Airport | SkyVector" /> Ketinggian lokasi bandar udara ini 372 [[meter]] (1.220 kaki) dari permukaan laut.<ref name="Fukushima Airport | SkyVector" />
+
+== Maskapai ==
+{{Airport-dest-list
+| [[All Nippon Airways]], dikelola oleh [[Ibex Airlines]] | [[Bandar Udara Internasional Osaka|Osaka-Itami]]<ref name=" 2015">{{cite web | title=  -    -   | website= | url=http://www.fks-ab.co.jp/flight/flight.php?international=0&airport=2 | language=bahasa Jepang | accessdate=17 Januari 2016}}</ref>
+| [[All Nippon Airways]] | [[Bandar Udara New Chitose|Sapporo-Chitose]]<ref name="">{{cite web |url=http://www.fks-ab.co.jp/flight/flight.php?international=0 |title= |trans-title= |author= |date= |website=fks-ab.co.jp |publisher= |accessdate={{date|January 17, 2016}} |language=bahasa Jepang |quote= |archivedate= |archiveurl= |dead-url=no}}</ref>
+| [[Hokkaido International Airlines]] | [[Bandar Udara New Chitose|Sapporo-Chitose]]<ref name="451.pdf">{{cite web |url=http://www.fks-ab.co.jp/travel_plan/pdf/451.pdf |title=451.pdf |trans-title= |author= |date= |website=fks-ab.co.jp |publisher= |accessdate={{date|January 17, 2016}} |language=bahasa Jepang |quote= |archivedate= |archiveurl= |dead-url=no}}</ref>
+}}
+
+== Referensi ==
+{{reflist}}
+
+== Pranala luar ==
+{{portal|penerbangan}}
+{{Commons category|Fukushima Airport}}
+* {{ja icon}} [http://www.fks-ab.co.jp/ Situs resmi Bandar Udara Fukushima]
+* {{NWS-current|RJSF}}
+* {{ASN|FKS}}
+
+{{Bandar udara di Jepang}}
+
+{{DEFAULTSORT:Fukushima, Bandar Udara}}
+[[Kategori:Bandar udara di Jepang]]

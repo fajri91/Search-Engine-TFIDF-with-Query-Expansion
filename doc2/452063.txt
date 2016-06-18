@@ -1,0 +1,74 @@
+Glan, Sarangani
+{{tambah infobox|geo-Filipina}}
+[[Image:Ph_locator_sarangani_glan.png|right|thumb|Peta menunjukkan lokasi Glan]]
+{{Philippine Census
+| title= Data sensus penduduk di Glan
+| 1990= 
+| 1995= 
+| 2000= 83051 
+| 2007= 102676 
+| estimate=
+| estyear=
+| estref=
+}}
+
+'''Glan''' adalah [[munisipalitas]] yang terletak di provinsi [[Sarangani]], [[Filipina]].
+
+Pada tahun [[2010]], munisipalitas ini memiliki populasi sebesar 102.676 jiwa dan 22.503 rumah tangga.
+
+== Pembagian wilayah ==
+
+Secara administratif Glan terbagi menjadi 31 [[barangay]], yaitu:
+
+{{col|4}}
+* Baliton
+* Batotuling
+* Batulaki
+* Big Margus
+* Burias
+* Cablalan
+* Calabanit
+* Calpidong
+* Congan
+* Cross
+* Datalbukay
+* E. Alegado
+* Glan Padidu
+* Gumasa
+* Ilaya
+* Kaltuad
+* Kapatan
+* Lago
+* Laguimit
+* Mudan
+* New Aklan
+* Pangyan
+* Poblacion
+* Rio Del Pilar
+* San Jose
+* San Vicente
+* Small Margus
+* Sufatubo
+* Taluya
+* Tango
+* Tapon
+{{EndDiv}}
+
+== Pranala luar ==
+
+* [http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [http://www.census.gov.ph/data/sectordata/pop0.html 1995 Philippine Census Information]
+* [http://www.census.gov.ph/census2000/index.html 2000 Philippine Census Information]
+* [http://www.census.gov.ph/data/census2007/index.html 2007 Philippine Census Information (1)]
+* [http://www.census.gov.ph/data/pressrelease/2008/pr0830tx.html 2007 Philippine Census Information (2)]
+* [http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23&frmIdDcfCode=7&fLguType=CM&frmIdRegion=15&frmIdProvince=80&frmIdLgu=1520 Local Governance Performance Management System]
+
+{{coord|5|49|N|125|12|E|type:city_source:GNS-enwiki|display=title}}
+{{Sarangani}}
+
+[[Kategori:Sarangani]]
+[[Kategori:Munisipalitas di Sarangani]]
+[[Kategori:Munisipalitas di Filipina]]
+
+
+{{Filipina-geo-stub}}

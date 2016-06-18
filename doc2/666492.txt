@@ -1,0 +1,3 @@
+Verilog
+Verilog [[HDL]] merupakan salah satu bahasa [[HDL]] yang digunakan untuk mendeskripsikan tiap-tiap entitas dalam arsitektur suatu rangkaian logika. Bahasa Verilog distandarisasi sebagai '''IEEE 1364'''. Bahasa [[HDL]] lainnya adalah [[VHDL]] yang mendeskripsikan seluruh entitas kedalam satu kode pemrograman yang panjang.
+{{stub}}

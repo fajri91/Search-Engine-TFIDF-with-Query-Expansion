@@ -1,0 +1,64 @@
+Frana
+{{Infobox football biography
+|playername={{PAGENAME}}
+|image=
+|fullname={{PAGENAME}}
+|dateofbirth={{birth date and age|1976|3|2}}
+|cityofbirth=[[Cod]]
+|countryofbirth=[[Brasil]]
+|height=
+|currentclub=
+|clubnumber=
+|position=[[Penyerang (sepak bola)|Penyerang]]
+|years1=1993
+|clubs1=[[Nacional FC|Nacional]]
+|caps1=
+|goals1=
+|years2=1994-1995
+|clubs2=[[EC XV de Novembro|XV Novembro-Ja]]
+|caps2=
+|goals2=
+|years3=1996-2002
+|clubs3=[[So Paulo FC|So Paulo]]
+|caps3=
+|goals3=
+|years4=2002-2005
+|clubs4=[[Bayer Leverkusen]]
+|caps4=
+|goals4=
+|years5=2005-2010
+|clubs5=[[Kashiwa Reysol]]
+|caps5=
+|goals5=
+|years6=2011
+|clubs6=[[Yokohama FC]]
+|caps6=
+|goals6=
+|nationalyears1=2000-2002
+|nationalteam1={{timnas|Brasil}}
+|nationalcaps1=8
+|nationalgoals1=1
+}}
+'''{{PAGENAME}}''' ({{lahirmati||2|3|1976}}) adalah pemain [[sepak bola]] asal [[Brasil]].
+
+==Statistik==
+{|class="wikitable" style="text-align:center;"
+|-
+!colspan="3"|[[Tim nasional sepak bola Brasil|Brasil]]
+|-
+!Tahun||Tampil||Gol
+|-
+|2000||6||1
+|-
+|2001||0||0
+|-
+|2002||2||0
+|-
+!Total||8||1
+|}
+
+== Pranala luar ==
+
+*[http://www.national-football-teams.com/v2/player.php?id=10966 National Football Teams]
+
+[[Kategori:Pemain sepak bola Brasil]]

@@ -1,0 +1,33 @@
+Dorohoi
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox settlement-->
+|subdivision_type = [[Negara]]
+|subdivision_name       = {{ROU}}
+|timezone=[[Eastern European Time|EET]]
+|utc_offset=+2
+|timezone_DST=[[Eastern European Summer Time|EEST]]
+|utc_offset_DST=+3
+|map_caption = Letak Dorohoi|
+|
+|image_shield=ROU BT Dorohoi CoA.gif|
+|subdivision_type1=[[Provinsi]]|
+subdivision_name1=Botoani|
+|subdivision_type2=[[Status]]|
+subdivision_name2={{Autolink|Munisipalitas}}
+|settlement_type=Munisipalitas||
+|leader_title=[[Walikota]]|
+leader_name=Dorin Alexandrescu|
+area_total_km2=60.39|
+population_as_of=2002|
+population_total=31073|latd=47|latm=57|lats=35|latNS=N|longd=26|longm=23|longs=59|longEW=E||
+website=http://www.primariadorohoi.ro|
+}}
+'''Dorohoi''' adalah kota yang terletak di [[provinsi Botoani]], [[Rumania]].
+
+Pada tahun 2002, Dorohoi memiliki jumlah penduduk sebesar 31.073 jiwa. Dorohoi memiliki luas sebesar 60.39&nbsp;km. Di kota ini terdapat gereja yang dibangun oleh [[tefan cel Mare]].
+
+== Pranala luar ==
+* [http://www.primariadorohoi.ro Dorohoi]
+* [http://www.jewishvirtuallibrary.org/jsource/judaica/ejud_0002_0005_0_05350.html Jewish Dorohoi]
+
+
+{{romania-geo-stub}}

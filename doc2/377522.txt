@@ -1,0 +1,94 @@
+Stasiun MRT Hougang
+{{Infobox Station
+ | name={{SMRT code|NE|14}}<br />Stasiun MRT Hougang<br /><br />
+ | type=[[Angkutan cepat]]
+ | image=Ne14hougang.jpg
+ | image_size=300
+ | image_caption=Peron mengarah HarbourFront di Stasiun MRT Hougang
+ | address=80 Hougang Central<br />Singapore 538758
+ | coordinates= {{coord|1.371292|103.892161|type:railwaystation_region:SG|format=dms}}
+ | line=
+{{rail color box|system=SMRT|line=Timur Laut}}
+ | other=Bus, Taksi
+ | structure=Bawah tanah
+ | platform=Pulau
+ | depth=
+ | levels=2
+ | tracks=2
+ | parking=
+ | bicycle=
+ | baggage_check=
+ | passengers=
+ | pass_year=
+ | pass_percent=
+ | pass_system=
+ | opened=20 Juni 2003
+ | closed=
+ | rebuilt=
+ | electrified=
+ | ADA=Yes
+ | code=NE14
+ | owned=
+ | zone=
+ | former=
+ | services={{s-rail|title=SMRT}}
+{{s-line|system=SMRT|line=Timur Laut|previous=Kovan|next=Buangkok}}
+ | mpassengers=
+ | map_locator={{MRT locator map|Hougang|px=300}}
+}}
+'''Stasiun MRT Hougang''' (Kode '''NE14''') adalah stasun bawah tanah di [[Jalur Timur Laut (MRT Singapura)]]. Berlokasi di tengah Hougang New Town dan terhubung ke terminal bus dan dikelilingi apartemen HDB dan pusat-pusat belanja.
+
+Di stasiun ini terdapat karya seni berjudul ''Hands Up for Hougang'' karya Seck Yok Ying, menampilkan cetakan tangan dari 3000 orang, dari bayi ke nenek, dari pekerja asing ke kepala daerah.
+
+Sebelum stasiun dibuka ''Singapore Civil Defence Force'' mengadakan ''Shelter Open House'' yang kedua pada 1516 Februari 2003, bersama-sama dengan [[Stasiun MRT Chinatown]], [[Stasiun MRT Farrer Park|Farrer Park]] dan [[Stasiun MRT Serangoon|Serangoon]].
+
+== Jadwal layanan ==
+{| style="text-align:centre; font-size:95%; border:1px solid black"
+|-
+! Tujuan !! colspan="3" | Kereta Pertama !! !! Kereta Terakhir
+|-
+| || <small>Sen - Sab</small> || || style="text-align:center" | <small>Minggu &<br>Hari Libur</small> || || style="text-align:center" | <small>Harian</small>
+|-
+! colspan="7" style="background-color:purple;color:white; height:25px" | Jalur Timur Laut
+|-
+| ke NE1 HarbourFront || style="text-align:center" | 05.49 || || style="text-align:center" | 06.09 || || style="text-align:center" | 23.34
+|-
+| ke NE17 Punggol || style="text-align:center" | 06.25 || || style="text-align:center" | 06.45 || || style="text-align:center" | 00.20
+|}
+
+== Denah stasiun ==
+{|table border=0 cellspacing=0 cellpadding=3
+|style="border-top:solid 1px gray;border-bottom:solid 1px gray;" width=50 valign=top|'''L1'''
+|style="border-top:solid 1px gray;border-bottom:solid 1px gray;" width=100 valign=top|Jalan
+|style="border-top:solid 1px gray;border-bottom:solid 1px gray;" width=400 valign=top|Terminal Bus Hougang Central, Hougang Mall
+|-
+|style="border-bottom:solid 1px gray;" width=50 valign=top|'''B1'''
+|style="border-bottom:solid 1px gray;" width=100 valign=top|Gerbang
+|style="border-bottom:solid 1px gray;" width=400 valign=top|Pintu Tiket, Mesin Tiket, Pusat Layanan Penumpang
+|-
+|style="border-bottom:solid 1px gray;" rowspan=3 valign=top|'''B2'''
+|Peron A
+|{{SMRT lines|Timur Laut}} menuju [[Stasiun MRT HarbourFront|{{SMRT code|NE|1}}{{SMRT code|CC|29}} HarbourFront]] ()
+|-
+|style="border-top:solid 2px black;border-right:solid 2px black;border-left:solid 2px black;border-bottom:solid 2px black;" colspan=2|<center><small>Peron pulau, pintu terbuka di kanan</small></center>
+|-
+|style="border-bottom:solid 1px gray;"|Peron B
+|style="border-bottom:solid 1px gray;"|{{SMRT lines|Timur Laut}} menuju [[Stasiun MRT/LRT Punggol|{{SMRT code|NE|17}} Punggol]] ()
+|}
+
+== Bom Tipuan ==
+Liu Tze Yuen, 42 tahun, pria tionghoa yang berada dibalik bom tipuan yang mengganggu perjalanan kereta berjam-jam pada 12 Agustus 2005. Dia juga dituduh meletakkan kota di bus pada 7 Juli dan 12 Agustus, pada hari yang sama ketika dia dituduh membuat tipuan bom di stasiun ini.
+
+Pada 7 Juli, dia dikatakan menaruh paket putih di bus di mana dia melakukan perjalanan. Dia melakukannya siang hari di rute 151 ketika berjalan di sepanjang Hougang Avenue 3. Tanda di paket tersebut tertulis: 'Jika Anda melihat ini, jangan sentuh dan tinggalkan bus ini.'
+
+Lebih sebulan kemudian pada 12 Agustus dia dituduh meninggalkan paket lain yang dibungkus kuat dengan selotip di rute bus 143 ketika perjalanan sepanjang Eu Tong Sen Street di Chinatown. Dia melakukannya sekitar 13:30, sejam kemudian dia meninggalkan paket sejenis di Stasiun MRT Hougang. Paket ditemukan dan hanya berisi kaleng makanan kosong dan kemasan mi instan.
+
+Liu kemudian dihukum penjara 3 tahun karena melakukan tipuan bom tersebut.<ref>[http://www.channelnewsasia.com/stories/singaporelocalnews/view/174106/1/.html Jobless man jailed for masterminding a series of bomb hoaxes]</ref>
+
+== Referensi ==
+{{Reflist}}
+
+{{DEFAULTSORT:Hougang}}
+{{Stasiun MRT di Singapura}}
+
+[[Kategori:Stasiun angkutan cepat di Singapura]]

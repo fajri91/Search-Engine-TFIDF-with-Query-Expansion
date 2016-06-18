@@ -1,0 +1,14 @@
+Berkas:Takometer.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+Takometer Nissan Terrano th. 2005
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{GFDL-self}}

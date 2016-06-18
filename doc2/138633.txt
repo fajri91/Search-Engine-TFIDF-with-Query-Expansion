@@ -1,0 +1,52 @@
+Chivasso
+{{Infobox Italian comune
+| name                = Chivasso
+| official_name       = Citt di Chivasso
+| native_name         = 
+| image_skyline       = Chivasso Duomo 01.jpg
+| imagesize           = 
+| image_alt           = 
+| image_caption       = Chivasso Cathedral
+| image_shield        = 
+| shield_alt          = 
+| image_map           = 
+| map_alt             = 
+| map_caption         = 
+| pushpin_label_position = 
+| pushpin_map_alt     = 
+| latd  = 45 |latm  = 11 |lats  =  |latNS  = N
+| longd = 7 |longm = 53 |longs =   |longEW = E 
+| coordinates_type    = type:city(23,675)_region:IT
+| coordinates_display = title
+| coordinates_footnotes = 
+| region              = [[Piedmont]]
+| province            = [[Provinsi Turin]] (TO)
+| frazioni            = Montegiove, Betlemme, Torassi, Castelrosso, Pogliani, Borghetto, Mosche, Mandria, Boschetto, Pratoregio
+| mayor_party         = [[Democratic Party (Italy)|PD]]
+| mayor               = Lino Ciuffreda
+| area_footnotes      = 
+| area_total_km2      = 51.31
+| population_footnotes = 
+| population_total    = 25629
+| population_as_of    = 30 April 2009
+| pop_density_footnotes = 
+| population_demonym  = Chivassesi
+| elevation_footnotes = 
+| elevation_m         = 183
+| twin1               = 
+| twin1_country       = 
+| saint               = Beato [[Angelo Carletti di Chivasso]]
+| day                 = 
+| postal_code         = 10034
+| area_code           = 011
+| website             = {{official|http://www.comune.chivasso.to.it}}
+| footnotes           = 
+}}
+'''Chivasso''' adalah komune yang terletak di distrik [[Provinsi Torino]], [[Italia]]. 
+
+Kota Chivasso memiliki luas sebesar 51.3 km.
+
+Chivasso pada tahun 2004, memiliki penduduk sebesar 23.675 jiwa.
+
+{{Provinsi Torino}}
+{{Turin-geo-stub}}

@@ -1,0 +1,14 @@
+Berkas:Mentari Spirit.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+sampul album Spirit band "Mentari", Dewa Budjana 1992. Lisensi ditanggung artis yang berkepentingan.
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{SampulAlbum}}

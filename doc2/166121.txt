@@ -1,0 +1,63 @@
+Surveyor Indonesia
+{{Infobox company
+| name                = PT Surveyor Indonesia (Persero)
+| logo                = 
+| logo_size           = 150px
+| logo_alt            = 
+| logo_caption        = Logo 
+| logo_padding        = 
+| image               = 
+| image_size          = 200px
+| image_alt           = 
+| image_caption       = 
+| type                = [[Badan Usaha Milik Negara|BUMN]] / Perseroan Terbatas
+| traded_as           = <!-- {{IDX|BBNI}} -->
+| industry            = Jasa [[survei]], [[inspeksi]], dan [[konsultasi]]
+| genre               = <!-- Only used with media and publishing companies -->
+| fate                = 
+| predecessor         = 
+| successor           = 
+| foundation          = [[1991]]<!-- if known: {{start date|YYYY|MM|DD}} di [[city]], [[Indonesia]] -->
+| founder             = 
+| defunct             = <!-- {{end date|YYYY|MM|DD}} -->
+| locations           = 
+| location_city       = [[Jakarta]], [[Jakarta]]
+| location_country    = Indonesia
+| coordinates         = 
+| area_served         = 
+| key_people          = 
+| products            = 
+| brands              = 
+| production          = 
+| services            = 
+| revenue             = 
+| operating_income    = 
+| net_income          = 
+| aum                 = <!-- Only for financial-service companies -->
+| assets              = 
+| equity              = 
+| owner               = [[Pemerintah Indonesia]]
+| members             = 
+| num_employees       = 
+| parent              = 
+| divisions           = 
+| subsid              = 
+| slogan              = 
+| module              = <!-- Used to embed other templates -->
+| website             = {{URL|www.ptsi.co.id}}
+| footnotes           = 
+}}
+
+'''PT Surveyor Indonesia''' adalah [[Badan Usaha Milik Negara]] [[Indonesia]] yang bergerak di bidang [[survei]], [[inspeksi]], dan [[konsultasi]].
+
+== Pranala luar ==
+* [http://www.ptsi.co.id Situs resmi]
+* [http://portal.bumn.go.id/ptsi Profil di portal BUMN RI]
+
+{{BUMN}}
+
+[[Kategori:BUMN]]
+[[Kategori:Perusahaan yang didirikan tahun 1991]]
+
+
+{{perusahaan-indo-stub}}

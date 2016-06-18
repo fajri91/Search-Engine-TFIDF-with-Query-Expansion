@@ -1,0 +1,32 @@
+Aksi 26 Juli 1806
+{{Infobox military conflict
+|conflict=Aksi 26 Juli 1806
+|partof=[[Peperangan era Napoleon]]
+|image=<div style="position: relative">[[Berkas:Sulawesi blank map.png|250px]]{{Image label|x=0.375|y=1.085|scale=250|text=[[Berkas:Red pog.svg|8px|Aksi]]}}</div>
+|caption=Peta Sulawesi, dengan lokasi aksi tersebut yang ditandai.
+|date=26 Juli 1806
+|place=Pesisir selatan [[Sulawesi]]
+|result=Kemenangan Inggris
+|combatant1= {{flagicon|Britania Raya}} [[Britania Raya dan Irlandia|Britania Raya]]
+|combatant2=[[Berkas:Flag of the Netherlands.svg|22px|link=]] [[Kerajaan Belanda]]
+|commander1=Kapten Edward Elphinstone
+|commander2=Kapten N. S. Aalbers {{KIA}}
+|strength1=[[Frigate]] {{HMS|Greyhound|1783|6}} dan [[brig|brig-sloop]] {{HMS|Harrier|1804|6}}
+|strength2=[[Frigate]] {{Ship|Dutch frigate|Pallas||2}}, [[corvette]] ''William'' dan [[East Indiamen]] Belanda ''Victoria'' dan ''Batavier''.
+|casualties1=Satu tewas, 11 luka-luka
+|casualties2=12 tewas, 39 luka-luka. ''Pallas'', ''Victoria'' dan ''Batavier'' ditaklukan
+}}{{coord|5|40|S|120|10|E|display=title|type:event}}{{Kotak kampanye Jawa 1806-1807}}
+
+'''Aksi 26 Juli 1806''' adalah sebuah pertempuran angkatan laut kecil dalam [[Peperangan era Napoleon]] yang terjadi di lepas pesisir selatan pulau [[Sulawesi]], [[Hindia Belanda]]. Pada saat pertempuran tersebut, sebuah skuadron Inggris kecil menyerang dan mengalahkan pasukan Belanda
+
+Pada November 1806, Laksamana Pellew memimpin badan skuadron utamanya dalam serangan ke ibukota Hindia Belanda di [[Batavia, Hindia Belanda|Batavia]] dan setahun kemudian mengeliminasi kapal-kapal skuadron Hindia Belanda terakhir di [[Gresik]].
+
+== Referensi ==
+* {{cite book|last = Clowes|first = William Laird|authorlink = William Laird Clowes|year = 1997|origyear=1900|chapter =|title = The Royal Navy, A History from the Earliest Times to 1900, Volume V|publisher = Chatham Publishing|location =|isbn = 1-86176-014-0 }}
+* {{cite book|author = Gardiner, Robert, ed<!-- work around since {{cite book}} seems to have a bug with respect to editor/origyear combos|editor =Gardiner, Robert -->|authorlink =|year = 2001|origyear=1998|chapter =|title = The Victory of Seapower|publisher = Caxton Editions|location =|isbn = 1-84067-359-1 }}
+* {{cite book|last = James|first = William|authorlink = William James (naval historian)|year = 2002|origyear=1827|chapter =|title = The Naval History of Great Britain, Volume 4, 1805&ndash;1807|publisher = Conway Maritime Press|location =|isbn = 0-85177-908-5 }}
+
+[[Kategori:Pertempuran angkatan laut yang melibatkan Belanda]]
+[[Kategori:Pertempuran angkatan laut yang melibatkan Britania Raya]]
+[[Kategori:Pertempuran angkatan laut pada Peperangan era Napoleon]]
+[[Kategori:Konflik tahun 1806]]

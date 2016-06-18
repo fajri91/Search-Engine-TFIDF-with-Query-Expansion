@@ -1,0 +1,23 @@
+Batales
+{{Taxobox
+| color = lightgreen
+| name = Batales
+| image = Batis maritima male.jpg
+| image_caption = ''Batis maritima''
+| regnum = [[Plantae]]
+| divisio = [[Flowering plant|Magnoliophyta]]
+| classis = [[Magnoliopsida]]
+| ordo = '''Batales'''
+| ordo_authority = 
+| subdivision_ranks = [[familia|Suku]]
+| subdivision = 
+lihat teks.
+}}
+'''Batales''' adalah salah satu [[Ordo (biologi)|bangsa]]/ordo anggota [[tumbuhan berbunga]] yang termasuk dalam anak kelas [[Dilleniidae]], [[kelas (biologi)|kelas]] [[Magnoliopsida]], menurut [[Sistem klasifikasi Cronquist]] (1981). Ada dua [[familia|suku]] yang termasuk di dalamnya: [[Gyrostemonaceae]] dan [[Bataceae]].
+
+Dalam [[sistem klasifikasi APG II]] (2003) dan modifikasi lanjutannya, yang berdasarkan [[filogeni]] dan sekarang mulai luas digunakan, kelompok ini tidak digunakan lagi.
+
+{{botani-stub}}
+
+[[Kategori:Magnoliopsida]]
+[[Kategori:Batales]]

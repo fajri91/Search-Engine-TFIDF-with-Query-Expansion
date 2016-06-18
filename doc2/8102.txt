@@ -1,0 +1,42 @@
+Waktu Greenwich
+[[Berkas:Zona_waktu_Eropa.png|thumb|300px|Zona waktu Eropa, Biru [[UTC]] [[WET]] GMT, Merah [[CET|CET/MET]], Hijau [[EET]], Khaki [[MSK]] ]]
+
+'''Waktu Greenwich''' (baca: {{Audio|En-uk-Greenwich.ogg|pengucapan}}; {{IPAEng|rnt}} ''GREN-itch,'' {{IPA|/rnd/}} ''GREN-idge,'' {{IPA|/rnd/}} ''GRIN-idge'') atau ''Greenwich Mean Time'' atau '''GMT''' adalah [[rata-rata waktu surya]] seperti yang dilihat dari [[Royal Greenwich Observatory]] (Observatorium Kerajaan di Greenwich), yang terletak di [[Greenwich]], [[London]], [[Inggris]], yang melalui konvensi dikenal terletak di 0 derajat [[garis bujur]]. Secara teori, tengah hari GMT adalah saat di mana [[matahari]] melewati [[Meridian Greenwich]] (dan mencapai titik tertinggi di langit di Greenwich). Karena [[bumi]] memiliki kecepatan yang tidak teratur dalam [[orbit]] lonjongnya, kejadian ini (tengah hari di Greenwich) bisa 16 menit berbeda dari [[waktu Matahari nyata]] (''apparent solar time'') (perbedaan ini dikenal sebagai [[persamaan waktu]]). Namun tengah hari Greenwich ini diambil rata-ratanya sepanjang [[tahun]], dengan menggunakan [[waktu Matahari]].
+
+Dengan berkembangnya [[Britania Raya]] sebagai negara maritim, para pelaut mencocokkan jam mereka ke waktu GMT, untuk mengukur jauhnya lokasi bujur mereka dari "meridian Greenwich". Ini tidak memengaruhi jam di atas kapal sendiri, yang mana menggunakan [[waktu Matahari]]. Fenomena ini, digabungkan dengan pelaut-pelaut dari negara lain yang menggunakan metode [[Nevil Maskelyne]] untuk mengukur [[jarak bulan]] berdasarkan pengamatan di Greenwich, akhirnya menuju penggunaan GMT sebagai referensi waktu di seluruh dunia. Walau tidak memengaruhi waktu di tempat, hampir semua [[zona waktu]] berdasarkan referensi ini dihitung sebagai beberapa jam (atau setengah jam) lebih cepat atau lebih lambat dari GMT.
+
+== Lihat pula ==
+* [[UTC]] (Waktu Universal Terkoordinasi)
+* [[Nautical mile]]
+* [[Waktu sidereal]]
+* [[Waktu Matahari]]
+* [[BPM (time service)|BPM]]
+* [[CHU]]
+* [[VNG]]
+* [[WWV]]
+
+== Referensi ==
+*Dumortier, J, Hannelore, D, & Loncke, M. (n.d.). [http://www.e-timing.net/legal%20report%20E-timing%20ICRI%20TS.pdf "Legal Aspects of Trusted Time services in Europe"]. [http://www.e-timing.net AMANO]. Retrieved 8 July 2009.{{dead link|date=January 2013}}
+* Howse, D. (1997). ''Greenwich time and the longitude''. London: Philip Wilson.
+*[http://www.canlii.org/en/ca/laws/stat/rsc-1985-c-i-21/latest/rsc-1985-c-i-21.html Interpretation Act], R.S.C. 1985, c. I-21. (2005). [[CanLII]]. (Canadian statute)
+*[http://www.statutelaw.gov.uk/LegResults.aspx?LegType=All+Primary&PageNumber=1&NavFrom=2&activeTextDocId=1838152 Interpretation Act 1978]. UK Law Statute Database. (UK statute)
+*[http://www.bailii.org/ie/legis/num_act/2005/0023.html#partiv-sec18 Interpretation Act 2005]. [[British and Irish Legal Information Institute]]. (Irish statute)
+*Myers, J. (2007). [http://www.srcf.ucam.org/~jsm28/british-time/ ''History of legal time in Britain.''] Retrieved 4 January 2008.
+*Seago, J.H., & Seidelmann, P. K. (c. 2001). [http://www.ucolick.org/~sla/leapsecs/seago.pdf ''National Legal Requirements for Coordinating with Universal Time'']. Steve Allen of [[University of California]] Observatories. Retrieved 8 July 2009.
+*[http://news.bbc.co.uk/2/hi/science/nature/271319.stm "Six pip salute"]. [[BBC News]]. Retrieved 9 July 2009.
+*[http://www.irishstatutebook.ie/1968/en/act/pub/0023/sec0001.html Standard Time Act, 1968]. ''[[Irish Statute Book]]''. Office of the Attorney General. (Irish statute)
+*[http://www.bailii.org/ie/legis/num_act/1971/0017.html#zza17y1971s1 Standard Time (Amendment) Act, 1971]. [[British and Irish Legal Information Institute]]. (Irish statute)
+
+== Pranala luar ==
+* [http://wwp.greenwichmeantime.com Greenwich Mean Time]
+* [http://www.worldtimezone.com World Time Zone Map with current time]
+* [http://physics.nist.gov/GenInt/Time/world.html NIST&nbsp; World Time Scales]
+* [http://hpiers.obspm.fr/ International Earth Rotation and Reference Systems Service]
+* [http://www.nmm.ac.uk/places/royal-observatory/ Royal Observatory, Greenwich]
+* [http://www.ominous-valve.com/sounds/bbc0.mp3 The original BBC World Service GMT time signal in mp3 format]
+* {{Cite news|url=http://news.bbc.co.uk/1/hi/magazine/8266883.stm|title=At the centre of time|last=Rodgers|first=Lucy|date=20 October 2009|publisher=[[BBC News]]|accessdate=20 October 2009}}
+
+[[Kategori:Skala waktu]]
+
+
+{{geografi-stub}}

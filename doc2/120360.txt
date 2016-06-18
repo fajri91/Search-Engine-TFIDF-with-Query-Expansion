@@ -1,0 +1,57 @@
+
+{| align="right" cellpadding="4" style="border: 1px solid #aaaaaa; margin: 0 0 10px 10px; padding: 10px; font-size: 42pt; line-height: 42pt; text-align: center;"
+| 
+| 
+|}
+{{Unicode|'''''', ''''''}} ([[i]]-[[aksen tirus|tirus]]) adalah huruf yang terdapat dalam [[bahasa Hongaria]], [[bahasa Islandia|Islandia]], [[bahasa Kashubia|Kashubia]], [[bahasa Ceko|Ceko]], [[bahasa Slowakia|Slowakia]], dan [[bahasa Uyghur|Uyghur]]. Huruf ini juga muncul dalam [[bahasa Katalan]], [[bahasa Perancis|Perancis]], [[bahasa Irlandia|Irlandia]], [[bahasa Italia|Italia]], [[bahasa Occitan|Occitan]], [[bahasa Portugis|Portugis]], [[bahasa Spanyol|Spanyol]],  [[bahasa Vietnam|Vietnam]], dan [[Indonesia]] sebagai ragam huruf e.
+
+== Penggunaan ==
+=== Bahasa Islandia ===
+ adalah huruf ke-7 [[alfabet Islandia]] dan mewaili {{IPA|/j/}}.
+
+=== Bahasa Hongaria ===
+ adalah huruf ke-10 dalam [[alfabet Hongaria]] dan mewakili {{IPA|/e/}}.
+
+=== Bahasa Ceko dan Slowakia ===
+ adalah abjad ke-12 [[alfabet Ceko]] dan [[alfabet Slowakia|Slowakia]], dan mewakili {{IPA|//}}.
+
+=== Bahasa Kashubia ===
+ adalah huruf ke-8 [[alfabet Kashubia]] dan mewakili {{IPA|//}}. Huruf ini juga diucapkan {{IPA|[ej]}} di beberapa dialek, dan mewakili {{IPA|[i]/[]}} di daerah antara [[Puck]] dan [[Kartuzy]].
+
+===Bahasa Tionghoa dan Vietnam===
+Dalam [[pinyin]] bahasa Tionghoa, "" adalah nada ''yngpng'' (, nada naik, nada kedua) dari e. Sementara dalam [[alfabet Vietnam]], "e" adalah nada ''sc'' (nada naik) dari e.
+
+=== Bahasa Uyghur ===
+Dalam alfabet Latin Uyghur (Uyghur Latin Yziqi, ULY),  mewakili {{IPA|/e/}}.
+
+=== '''Bahasa Indonesia''' ===
+Dalam Bahasa Indonesia,  kadang digunakan untuk membedakan antara [[pepet]] // dengan E biasa. Contoh: seorang Prsidn
+== Karakter ==
+{| class="wikitable"
+!Charset!![[Unicode]]!!style="font-size:smaller;text-align:center;"|[[ISO 8859]]-[[ISO 8859-1|1]], [[ISO 8859-2|2]], [[ISO 8859-3|3]], [[ISO 8859-4|4]], [[ISO 8859-9|9]], [[ISO 8859-10|10]], [[ISO 8859-13|13]], [[ISO 8859-14|14]], [[ISO 8859-15|15]], [[ISO 8859-16|16]]
+|-
+|[[Huruf besar]] {{Unicode|}}||style="text-align:center;"|U+00C9||style="text-align:center;"|C9
+|-
+|[[Hueuf kecil]] {{Unicode|}}||style="text-align:center;"|U+00E9||style="text-align:center;"|E9
+|}
+Pengguna Windows dapat mengetikkan "" dengan menekan kunci "alt" dan mengetikkan 130 atau 0233 (di bagian numerik papan komputer): alt + 130; alt + 0233.
+
+Di [[Microsoft Word]], seorang pengguna dapat menekan Ctrl + ' ([[apostrof]]), lalu E untuk "".
+
+== Lihat pula ==
+* [[Aksen akut]]
+* [[Daftar rujukan entitas karakter XML dan HTML]]
+
+== Pranala luar ==
+* [http://www.omniglot.com/ Omniglot - writing systems & languages of the world]
+** [http://www.omniglot.com/writing/hungarian.htm Hungarian language]
+** [http://www.omniglot.com/writing/icelandic.htm Icelandic language]
+** [http://www.omniglot.com/writing/kashubian.htm Kashubian language]
+** [http://www.omniglot.com/writing/czech.htm Czech language]
+** [http://www.omniglot.com/writing/slovak.htm Slovak language]
+** [http://www.omniglot.com/writing/uyghur.htm Uyghur language]
+
+{{huruf-stub}}
+{{Latin alphabet|e|show diacritic=acute}}
+
+[[Kategori:Huruf Latin yang tidak umum]]

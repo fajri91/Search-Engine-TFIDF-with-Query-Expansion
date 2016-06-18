@@ -1,0 +1,204 @@
+Daftar planet minor/6030160400
+<noinclude>{{Daftar planet minor/header1}}</noinclude>
+|-
+| 60301 - || {{mp|1999 XL|178}} || 10 Desember 1999 || [[Socorro, NM|Socorro]] || [[Lincoln Near-Earth Asteroid Research|LINEAR]]
+|-
+| 60302 - || {{mp|1999 XM|180}} || 10 Desember 1999 || Socorro || LINEAR
+|-
+| 60303 - || {{mp|1999 XW|184}} || 12 Desember 1999 || Socorro || LINEAR
+|-
+| 60304 - || {{mp|1999 XT|189}} || 12 Desember 1999 || Socorro || LINEAR
+|-
+| 60305 - || {{mp|1999 XU|190}} || 12 Desember 1999 || Socorro || LINEAR
+|-
+| 60306 - || {{mp|1999 XW|190}} || 12 Desember 1999 || Socorro || LINEAR
+|-
+| 60307 - || {{mp|1999 XR|193}} || 12 Desember 1999 || Socorro || LINEAR
+|-
+| 60308 - || {{mp|1999 XH|204}} || 12 Desember 1999 || Socorro || LINEAR
+|-
+| 60309 - || {{mp|1999 XZ|206}} || 12 Desember 1999 || Socorro || LINEAR
+|-
+| 60310 - || {{mp|1999 XD|215}} || 14 Desember 1999 || Socorro || LINEAR
+|-
+| 60311 - || {{mp|1999 XS|216}} || 13 Desember 1999 || [[Observatorium Nasional Kitt Peak|Kitt Peak]] || [[Spacewatch]]
+|-
+| 60312 - || {{mp|1999 XM|218}} || 13 Desember 1999 || Kitt Peak || Spacewatch
+|-
+| 60313 - || {{mp|1999 XW|218}} || 15 Desember 1999 || Kitt Peak || Spacewatch
+|-
+| 60314 - || {{mp|1999 XU|226}} || 14 Desember 1999 || Kitt Peak || Spacewatch
+|-
+| 60315 - || {{mp|1999 XF|227}} || 15 Desember 1999 || Kitt Peak || Spacewatch
+|-
+| 60316 - || {{mp|1999 XU|228}} || 14 Desember 1999 || Kitt Peak || Spacewatch
+|-
+| 60317 - || {{mp|1999 XD|234}} || 4 Desember 1999 || [[Lowell Observatory, Anderson Mesa Station|Anderson Mesa]] || [[Lowell Observatory Near-Earth-Object Search|LONEOS]]
+|-
+| 60318 - || {{mp|1999 XB|235}} || 3 Desember 1999 || Anderson Mesa || LONEOS
+|-
+| 60319 - || {{mp|1999 XL|242}} || 12 Desember 1999 || [[Socorro, NM|Socorro]] || [[Lincoln Near-Earth Asteroid Research|LINEAR]]
+|-
+| 60320 - || {{mp|1999 XG|253}} || 12 Desember 1999 || [[Observatorium Nasional Kitt Peak|Kitt Peak]] || [[Spacewatch]]
+|-
+| 60321 - || {{mp|1999 XK|254}} || 12 Desember 1999 || Kitt Peak || Spacewatch
+|-
+| 60322 - || {{mp|1999 XB|257}} || 7 Desember 1999 || [[Socorro, NM|Socorro]] || [[Lincoln Near-Earth Asteroid Research|LINEAR]]
+|-
+| 60323 - || {{mp|1999 YC|8}} || 27 Desember 1999 || [[Observatorium Nasional Kitt Peak|Kitt Peak]] || [[Spacewatch]]
+|-
+| 60324 - || {{mp|1999 YX|10}} || 27 Desember 1999 || Kitt Peak || Spacewatch
+|-
+| 60325 - || {{mp|1999 YQ|12}} || 27 Desember 1999 || Kitt Peak || Spacewatch
+|-
+| 60326 - || {{mp|1999 YB|23}} || 30 Desember 1999 || [[Lowell Observatory, Anderson Mesa Station|Anderson Mesa]] || [[Lowell Observatory Near-Earth-Object Search|LONEOS]]
+|-
+| 60327 - || {{mp|2000 AW|5}} || 4 Januari 2000 || [[Observatorium Nasional Kitt Peak|Kitt Peak]] || [[Spacewatch]]
+|-
+| 60328 - || {{mp|2000 AH|7}} || 1 Januari 2000 || [[Socorro, NM|Socorro]] || [[Lincoln Near-Earth Asteroid Research|LINEAR]]
+|-
+| 60329 - || {{mp|2000 AL|11}} || 3 Januari 2000 || Socorro || LINEAR
+|-
+| 60330 - || {{mp|2000 AG|17}} || 3 Januari 2000 || Socorro || LINEAR
+|-
+| 60331 - || {{mp|2000 AS|29}} || 3 Januari 2000 || Socorro || LINEAR
+|-
+| 60332 - || {{mp|2000 AJ|35}} || 3 Januari 2000 || Socorro || LINEAR
+|-
+| 60333 - || {{mp|2000 AY|40}} || 3 Januari 2000 || Socorro || LINEAR
+|-
+| 60334 - || {{mp|2000 AN|42}} || 3 Januari 2000 || Socorro || LINEAR
+|-
+| 60335 - || {{mp|2000 AR|42}} || 4 Januari 2000 || Socorro || LINEAR
+|-
+| 60336 - || {{mp|2000 AK|46}} || 3 Januari 2000 || Socorro || LINEAR
+|-
+| 60337 - || {{mp|2000 AF|51}} || 3 Januari 2000 || Socorro || LINEAR
+|-
+| 60338 - || {{mp|2000 AW|56}} || 4 Januari 2000 || Socorro || LINEAR
+|-
+| 60339 - || {{mp|2000 AP|62}} || 4 Januari 2000 || Socorro || LINEAR
+|-
+| 60340 - || {{mp|2000 AF|63}} || 4 Januari 2000 || Socorro || LINEAR
+|-
+| 60341 - || {{mp|2000 AQ|64}} || 4 Januari 2000 || Socorro || LINEAR
+|-
+| 60342 - || {{mp|2000 AH|68}} || 5 Januari 2000 || Socorro || LINEAR
+|-
+| 60343 - || {{mp|2000 AY|72}} || 5 Januari 2000 || Socorro || LINEAR
+|-
+| 60344 - || {{mp|2000 AS|73}} || 5 Januari 2000 || Socorro || LINEAR
+|-
+| 60345 - || {{mp|2000 AD|76}} || 5 Januari 2000 || Socorro || LINEAR
+|-
+| 60346 - || {{mp|2000 AB|77}} || 5 Januari 2000 || Socorro || LINEAR
+|-
+| 60347 - || {{mp|2000 AD|78}} || 5 Januari 2000 || Socorro || LINEAR
+|-
+| 60348 - || {{mp|2000 AT|81}} || 5 Januari 2000 || Socorro || LINEAR
+|-
+| 60349 - || {{mp|2000 AS|83}} || 5 Januari 2000 || Socorro || LINEAR
+|-
+| 60350 - || {{mp|2000 AC|86}} || 5 Januari 2000 || Socorro || LINEAR
+|-
+| 60351 - || {{mp|2000 AG|87}} || 5 Januari 2000 || Socorro || LINEAR
+|-
+| 60352 - || {{mp|2000 AC|88}} || 5 Januari 2000 || Socorro || LINEAR
+|-
+| 60353 - || {{mp|2000 AN|88}} || 5 Januari 2000 || Socorro || LINEAR
+|-
+| 60354 - || {{mp|2000 AP|88}} || 5 Januari 2000 || Socorro || LINEAR
+|-
+| 60355 - || {{mp|2000 AE|91}} || 5 Januari 2000 || Socorro || LINEAR
+|-
+| 60356 - || {{mp|2000 AC|93}} || 3 Januari 2000 || Socorro || LINEAR
+|-
+| 60357 - || {{mp|2000 AG|96}} || 4 Januari 2000 || Socorro || LINEAR
+|-
+| 60358 - || {{mp|2000 AR|98}} || 5 Januari 2000 || Socorro || LINEAR
+|-
+| 60359 - || {{mp|2000 AJ|100}} || 5 Januari 2000 || Socorro || LINEAR
+|-
+| 60360 - || {{mp|2000 AN|100}} || 5 Januari 2000 || Socorro || LINEAR
+|-
+| 60361 - || {{mp|2000 AT|100}} || 5 Januari 2000 || Socorro || LINEAR
+|-
+| 60362 - || {{mp|2000 AU|103}} || 5 Januari 2000 || Socorro || LINEAR
+|-
+| 60363 - || {{mp|2000 AT|105}} || 5 Januari 2000 || Socorro || LINEAR
+|-
+| 60364 - || {{mp|2000 AE|108}} || 5 Januari 2000 || Socorro || LINEAR
+|-
+| 60365 - || {{mp|2000 AT|109}} || 5 Januari 2000 || Socorro || LINEAR
+|-
+| 60366 - || {{mp|2000 AX|114}} || 5 Januari 2000 || Socorro || LINEAR
+|-
+| 60367 - || {{mp|2000 AN|115}} || 5 Januari 2000 || Socorro || LINEAR
+|-
+| 60368 - || {{mp|2000 AQ|119}} || 5 Januari 2000 || Socorro || LINEAR
+|-
+| 60369 - || {{mp|2000 AJ|120}} || 5 Januari 2000 || Socorro || LINEAR
+|-
+| 60370 - || {{mp|2000 AG|126}} || 5 Januari 2000 || Socorro || LINEAR
+|-
+| 60371 - || {{mp|2000 AN|139}} || 5 Januari 2000 || Socorro || LINEAR
+|-
+| 60372 - || {{mp|2000 AG|141}} || 5 Januari 2000 || Socorro || LINEAR
+|-
+| 60373 - || {{mp|2000 AC|144}} || 5 Januari 2000 || Socorro || LINEAR
+|-
+| 60374 - || {{mp|2000 AY|144}} || 5 Januari 2000 || Socorro || LINEAR
+|-
+| 60375 - || {{mp|2000 AY|146}} || 8 Januari 2000 || Socorro || LINEAR
+|-
+| 60376 - || {{mp|2000 AH|150}} || 7 Januari 2000 || Socorro || LINEAR
+|-
+| 60377 - || {{mp|2000 AC|165}} || 8 Januari 2000 || Socorro || LINEAR
+|-
+| 60378 - || {{mp|2000 AL|165}} || 8 Januari 2000 || Socorro || LINEAR
+|-
+| 60379 - || {{mp|2000 AL|167}} || 8 Januari 2000 || Socorro || LINEAR
+|-
+| 60380 - || {{mp|2000 AY|168}} || 7 Januari 2000 || Socorro || LINEAR
+|-
+| 60381 - || {{mp|2000 AX|180}} || 7 Januari 2000 || Socorro || LINEAR
+|-
+| 60382 - || {{mp|2000 AR|182}} || 7 Januari 2000 || Socorro || LINEAR
+|-
+| 60383 - || {{mp|2000 AR|184}} || 7 Januari 2000 || Socorro || LINEAR
+|-
+| 60384 - || {{mp|2000 AU|185}} || 8 Januari 2000 || Socorro || LINEAR
+|-
+| 60385 - || {{mp|2000 AC|195}} || 8 Januari 2000 || Socorro || LINEAR
+|-
+| 60386 - || {{mp|2000 AV|202}} || 10 Januari 2000 || Socorro || LINEAR
+|-
+| 60387 - || {{mp|2000 AM|207}} || 3 Januari 2000 || [[Observatorium Nasional Kitt Peak|Kitt Peak]] || [[Spacewatch]]
+|-
+| 60388 - || {{mp|2000 AY|217}} || 8 Januari 2000 || Kitt Peak || Spacewatch
+|-
+| 60389 - || {{mp|2000 AO|220}} || 8 Januari 2000 || Kitt Peak || Spacewatch
+|-
+| 60390 - || {{mp|2000 AD|223}} || 9 Januari 2000 || Kitt Peak || Spacewatch
+|-
+| 60391 - || {{mp|2000 AQ|224}} || 11 Januari 2000 || Kitt Peak || Spacewatch
+|-
+| 60392 - || {{mp|2000 AK|227}} || 10 Januari 2000 || Kitt Peak || Spacewatch
+|-
+| 60393 - || {{mp|2000 AX|232}} || 4 Januari 2000 || [[Socorro, NM|Socorro]] || [[Lincoln Near-Earth Asteroid Research|LINEAR]]
+|-
+| 60394 - || {{mp|2000 AY|234}} || 5 Januari 2000 || Socorro || LINEAR
+|-
+| 60395 - || {{mp|2000 AJ|237}} || 5 Januari 2000 || Socorro || LINEAR
+|-
+| 60396 - || {{mp|2000 AG|243}} || 7 Januari 2000 || [[Lowell Observatory, Anderson Mesa Station|Anderson Mesa]] || [[Lowell Observatory Near-Earth-Object Search|LONEOS]]
+|-
+| 60397 - || {{mp|2000 AH|243}} || 7 Januari 2000 || Anderson Mesa || LONEOS
+|-
+| 60398 - || {{mp|2000 AG|251}} || 4 Januari 2000 || [[Socorro, NM|Socorro]] || [[Lincoln Near-Earth Asteroid Research|LINEAR]]
+|-
+| 60399 - || {{mp|2000 AY|253}} || 7 Januari 2000 || [[Observatorium Nasional Kitt Peak|Kitt Peak]] || [[Spacewatch]]
+|-
+| 60400 - || {{mp|2000 BA|8}} || 29 Januari 2000 || [[Socorro, NM|Socorro]] || [[Lincoln Near-Earth Asteroid Research|LINEAR]]
+|-
+<noinclude>{{Daftar planet minor/Helper|603}}</noinclude>

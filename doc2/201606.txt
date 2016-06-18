@@ -1,0 +1,10 @@
+Templat:Nan Achnas
+{{Navbox
+|name = Nan Achnas
+| listclass = hlist
+| title = Karya [[Nan Achnas]] 
+|group1 = Sutradara
+|list1 = {{judulfilm|Kuldesak (film)|Kuldesak|1998}}{{w}} {{judulfilm|Pasir Berbisik||2001}}{{w}} {{judulfilm|Bendera (film)|Bendera|2003}}{{w}} {{judulfilm|The Photograph||2007}}
+|group2 = Produser
+|list2 = {{judulfilm|3 Doa 3 Cinta (film)|3 Doa 3 Cinta|2008}}
+}}<noinclude>[[Kategori:Templat navigasi sutradara Indonesia|{{PAGENAME}}]]</noinclude>

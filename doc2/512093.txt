@@ -1,0 +1,36 @@
+Stadion Moustoir
+{{Infobox stadium
+| stadium_name= Stadion Moustoir
+| nickname= Le Moustoir
+| fullname = Stade du Moustoir
+| former_names = Stade Yves Allainmat
+| image = [[Berkas:Stade du Moustoir 1.jpg|250px]] 
+| location = Rue Jean Le Coutaller <br/> 56104 [[Lorient]]<br>{{flag|Perancis}}
+| coordinates = {{Coord|47|44|55.49|N|3|22|09.72|W|type:landmark_scale:2000|display=title,inline}}
+| opened= Juli 1959 
+| renovation          = 1998
+| extension           = 1998, 2010
+| surface             = Rumput sintetik
+| tenants = [[FC Lorient]]
+| seating_capacity = {{formatnum:18500}}
+| record_attendance  = {{formatnum:16758}} <small>(27 Januari 2010, [[FC Lorient]]-[[Olympique lyonnais|Lyon]])</small>
+| dimensions          = 105 m x 70 m
+}}
+
+'''Stadion Moustoir''' adalah sebuah [[stadion]] serbaguna di [[Lorient]], [[Perancis]]. Saat ini sebagian besar digunakan untuk pertandingan [[sepak bola]] dan merupakan kandang bagi klub sepak bola [[FC Lorient]].
+
+Stadion ini dapat menampung hingga 18.500 orang (18.110 kursi) sejak tahun [[2010]] dengan tribun selatan yang baru.<ref>{{cite web|url=http://www.worldstadiums.com/europe/countries/france/bretagne.shtml
+|title=Stadiums in France Bretagne|publisher=Worldstadiums.com|accessdate=29 Oktober 2012}}</ref>
+
+== Referensi ==
+{{reflist}}
+
+== Pranala luar ==
+*{{fr}} [http://www.fclweb.fr/club/stade Profil stadion pada situs web resmi klub]
+*{{fr}} [http://www.lfp.fr/club/fc-lorient#bloc_stade Info stadion pada situs web resmi Ligue 1]
+
+{{Stadion Ligue 1}}
+{{Stadion-stub}}
+
+[[Kategori:Stadion sepak bola di Perancis|M]]
+[[Kategori:FC Lorient]]

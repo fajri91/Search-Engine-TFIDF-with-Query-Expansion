@@ -1,0 +1,35 @@
+Templat:Skuat Piala Afrika 2008 Benin
+{{National squad
+ | name      = Skuat Piala Afrika 2008 Benin
+ | bg        = #F9E04C
+ | fg        = #00B760
+ | bordercolor = #CE1126
+ | country   = Benin
+ | comp link = Piala Afrika 2008
+ | comp      = Piala Afrika 2008
+ | p1        = [[Rachad Chitou|Chitou]] 
+ | p2        = [[Djiman Koukou|Koukou]]
+ | p3        = [[Khaled Adnon|Adnon]]
+ | p4        = [[Bio Ai Traore|Traore]]
+ | p5        = [[Damien Chrysostome|Chrysostome]]
+ | p6        = [[Jonas Oktola|Oktola]]
+ | p7        = [[Romuald Boco|Boco]]
+ | p8        = [[Razak Omotoyossi|Omotoyossi]]
+ | p9        = [[Abou Maiga|Maiga]]
+ | p10       = [[Oumar Tchomogo|Tchomogo]]
+ | p11       = [[Oscar Olou|Olou]]
+ | p12       = [[Achille Rouga|Rouga]]
+ | p13       = [[Nol Ska|Ska]]
+ | p14       = [[Alain Gaspoz|Gaspoz]]
+ | p15       = [[Anicet Adjamossi|Adjamossi]]
+ | p16       = [[Yoann Djidonou|Djidonou]]
+ | p17       = [[Stphane Sessgnon|Sessgnon]]
+ | p18       = [[Sdath Tchomogo|Tchomogo]]
+ | p19       = [[Jocelyn Ahouya|Ahouya]]
+ | p20       = [[Wassiou Oladipupo|Oladipupo]]
+ | p21       = [[Sosthne Soglo|Soglo]]
+ | p22       = [[Valere Amoussou|Amoussou]]
+ | p23       = [[Abdoulaye Ouzrou|Ouzerou]]
+ | coach     = [[Reinhard Fabisch|Fabisch]]
+}}<noinclude>[[Kategori:Templat skuat Piala Afrika 2008|Benin]]
+[[Kategori:Templat skuat tim nasional sepak bola Benin|2008]]

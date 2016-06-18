@@ -1,0 +1,17 @@
+Templat:Cristian Mungiu
+{{Navbox
+| name = Cristian Mungiu
+| title = Film yang disutradarai oleh [[Cristian Mungiu]]
+| state = {{{state|autocollapse}}}
+|listclass = hlist
+| liststyle = font-style:italic;
+| list1 =
+* [[Occident (film)|Occident]]
+* [[4 Months, 3 Weeks and 2 Days]]
+* [[Tales from the Golden Age]]
+* [[Beyond the Hills]]
+}}<noinclude>
+{{collapsible option}}
+[[Kategori:Kotak navigasi sutradara film Rumania|Mungiu, Cristian]]
+
+</noinclude>

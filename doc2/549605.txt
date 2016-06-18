@@ -1,0 +1,33 @@
+Ilyushin Il-106
+'''Ilyushin Il-106''' adalah pesawat angkut militer berat Rusia yang diusulkan pada 1990. 
+
+Pesawat ini akan menjadi monoplane bermesin empat sayap tinggi kantilever dengan besar 34 m (111 ft 7 in) kabin.
+
+==Spesifikasi==
+
+===Karakteristik umum===
+*Panjang: 57,6 m (189 ft 0 in)
+*Lebar sayap: 58,5 m (191 ft 11 in)
+*Tinggi: 19.93 m (ft)
+*Area sayap: 370 m 2 (ft 2)
+*Berat kosong: 135.000 kg (lb)
+*Berat kotor: 258,000 kg (568.792 )
+*Angkat Berguna: 80.000 kg (lb)
+*Powerplant: 4  Kuznetsov NK-92 atau D-100 turbofan, 176,53 atau 186 kN (39.685 lbf atau) dorong masing-masing
+===Prestasi===
+*Kecepatan jelajah: 850 km / h (528 mph)
+*Rentang: 5000 km (3107 mil)
+*Layanan langit-langit: 14.000 m (ft)
+
+== Referensi ==
+{{Reflist}}
+{{refbegin}}
+*{{cite book|last=Taylor|first= Michael J. H.|authorlink=|coauthors=|title= Brassey's World Aircraft & Systems Directory|year=1996|publisher= Brassey's|location= London, England|isbn=1-85753-198-1|pages=}}
+{{refend}}
+
+==Pranala luar==
+*http://www.globalsecurity.org/military/world/russia/il-106.htm
+
+{{Ilyushin aircraft}}
+{{pesawat-stub}}
+[[Kategori:Pesawat terbang Ilyushin]]

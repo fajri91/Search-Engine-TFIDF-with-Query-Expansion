@@ -1,0 +1,72 @@
+Basis data
+'''Pangkalan data'''<ref name="pangkalan data">[http://pusatbahasa.kemdiknas.go.id/glosarium/index.php?gloss_asing=database&gloss_indonesia=&jenis=exact&Bidang=8&infocmd=Cari Badan Bahasa]</ref> atau '''basis data''' ([[bahasa Inggris]]: ''database''), atau sering pula dieja '''basisdata''', adalah kumpulan [[informasi]] yang disimpan di dalam [[komputer]] secara sistematik sehingga dapat diperiksa menggunakan suatu [[program komputer]] untuk memperoleh informasi dari basis data tersebut. [[Perangkat lunak]] yang digunakan untuk mengelola dan memanggil [[kueri]] (''query'') basis data disebut [[sistem manajemen basis data]] (''database management system'', DBMS). Sistem basis data dipelajari dalam [[ilmu informasi]].
+
+Istilah "basis data" berawal dari ilmu komputer. Meskipun kemudian artinya semakin luas, memasukkan hal-hal di luar bidang elektronika, artikel ini mengenai basis data komputer. Catatan yang mirip dengan basis data sebenarnya sudah ada sebelum revolusi industri yaitu dalam bentuk buku besar, kuitansi dan kumpulan data yang berhubungan dengan bisnis.
+
+Konsep dasar dari basis data adalah kumpulan dari catatan-catatan, atau potongan dari pengetahuan. Sebuah basis data memiliki penjelasan terstruktur dari jenis fakta yang tersimpan di dalamnya: penjelasan ini disebut [[skema]]. Skema menggambarkan objek yang diwakili suatu basis data, dan hubungan di antara objek tersebut. Ada banyak cara untuk mengorganisasi skema, atau memodelkan struktur basis data: ini dikenal sebagai [[model basis data]] atau model data. Model yang umum digunakan sekarang adalah [[model relasional]], yang menurut istilah layman mewakili semua informasi dalam bentuk tabel-tabel yang saling berhubungan di mana setiap tabel terdiri dari baris dan kolom (definisi yang sebenarnya menggunakan terminologi matematika). Dalam model ini, hubungan antar tabel diwakili denga menggunakan nilai yang sama antar tabel. Model yang lain seperti [[model hierarkis]] dan [[model jaringan]] menggunakan cara yang lebih eksplisit untuk mewakili hubungan antar tabel.
+
+Istilah ''basis data'' mengacu pada koleksi dari data-data yang saling berhubungan, dan perangkat lunaknya seharusnya mengacu sebagai ''sistem manajemen basis data'' (''database management system/DBMS''). Jika konteksnya sudah jelas, banyak administrator dan programer menggunakan istilah basis data untuk kedua arti tersebut.
+
+== Lingkungan basis data ==
+Lingkungan basis data adalah sebuah habitat di mana terdapat basis data untuk bisnis. Dalam lingkungan basis data, pengguna memiliki alat untuk mengakses data. Pengguna melakukan semua tipe pekerjaan dan keperluan mereka bervariasi seperti menggali data (''data mining''), memodifikasi data, atau berusaha membuat data baru. Masih dalam lingkungan basis data, pengguna tertentu tidak diperbolehkan mengakses data, baik secara fisik maupun logis. (Koh, 2005, dalam Janner Simarmata & Imam Paryudi 2006: 33).
+
+== Tahapan perancangan basis data ==
+Perancangan basis data merupakan upaya untuk membangun sebuah basis data dalam suatu lingkungan bisnis. Untuk membangun sebuah basis data terdapat tahapan-tahapan yang perlu kita lalui yaitu:{{fact}}
+
+# Perencanaan basis data
+# Mendefinisikan sistem
+# Analisis dan mengumpulkan kebutuhan
+# Perancangan basis data 
+# Perancangan aplikasi
+# Membuat prototipe
+# Implementasi
+# Konversi data
+# Pengujian
+# Pemeliharaan operasional
+
+== Bahasa pada basis data ==
+Terdapat dua jenis bahasa komputer yang digunakan saat kita ingin membangun dan memanipulasi sebuah basis data, yaitu:
+
+# Data Definition Language (DDL)
+# Data Manipulation Language (DML)
+
+== Perangkat lunak basis data ==
+Perangkat lunak basis data yang banyak digunakan dalam pemrograman dan merupakan perangkat basis data aras tinggi (''high level''):
+* [[Microsoft SQL Server]]
+* [[Oracle]]
+* [[Sybase]]
+* [[Interbase]]
+* [[XBase]]
+* [[Firebird]]
+* [[MySQL]]
+* [[PostgreSQL]]
+* [[Microsoft Access]]
+* [[dBase III]]
+* [[Paradox]]
+* [[FoxPro]]
+* [[Visual FoxPro]] 
+* [[Arago]]
+* [[Force]]
+* [[Recital]]
+* [[dbFast]]
+* [[dbXL]]
+* [[Quicksilver]]
+* [[Clipper]]
+* [[FlagShip]]
+* [[Harbour]]
+* [[Visual dBase]]
+* [[Lotus Smart Suite Approach]]
+* [[db2]]
+* [[MongoDB]]
+
+Selain perangkat lunak di atas, terdapat juga perangkat lunak pemrograman basis data aras rendah (''low level''), di antaranya:
+* [[Btrieve]]
+* [[Tsunami Record Manager]]
+
+== Rujukan ==
+<references />
+
+== Lihat pula ==
+* [[Daftar basis data terbesar di dunia]]
+
+[[Kategori:Basis data| ]]

@@ -1,0 +1,64 @@
+Meridian barat ke-131
+{{Location map-line|lon=-131}}
+{{kml}}
+'''Meridian barat 131 dari [[Meridian Utama|Greenwich]]''' adalah garis [[bujur]] yang membentang dari [[Kutub Utara]] melintasi [[Samudra Arktik]], [[Amerika Utara]], [[Samudra Pasifik]], [[Samudra Selatan]], dan [[Antarktika]] hingga [[Kutub Selatan]].
+
+Meridian barat ke-131 membentuk [[lingkaran besar]] bersama [[meridian timur ke-490]].
+
+==Dari ujung ke ujung==
+Berawal di [[Kutub Utara]] menuju selatan di [[Kutub Selatan]], meridian barat ke-131 melintasi:
+
+:{| class="wikitable plainrowheaders"
+! scope="col" width="120" | Koordinat
+! scope="col" | Negara, teritori, atau laut
+! scope="col" | Catatan
+|-
+| style="background:#b0e0e6;" | {{Coord|90|0|N|131|0|W|type:waterbody|name=Arctic Ocean}}
+! scope="row" style="background:#b0e0e6;" | [[Samudra Arktik]]
+| style="background:#b0e0e6;" |
+|-
+| style="background:#b0e0e6;" | {{Coord|75|8|N|131|0|W|type:waterbody|name=Beaufort Sea}}
+! scope="row" style="background:#b0e0e6;" | [[Laut Beaufort]]
+| style="background:#b0e0e6;" |
+|-valign="top"
+| {{Coord|70|3|N|131|0|W|type:country|name=Canada}}
+! scope="row" | {{CAN}}
+| [[Northwest Territories]]<br/> [[Yukon]]  dari {{Coord|64|16|N|131|0|W|type:adm1st|name=Yukon}}<br/> [[British Columbia]]  dari {{Coord|60|0|N|131|0|W|type:adm1st|name=British Columbia}}
+|-valign="top"
+| {{Coord|56|24|N|131|0|W|type:country|name=United States}}
+! scope="row" | {{USA}}
+| [[Alaska]]  [[Gagang Alaska]] (daratan utama), [[Pulau Revillagigedo]], dan [[Gagang Alaska]]
+|-valign="top"
+| style="background:#b0e0e6;" | {{Coord|55|0|N|131|0|W|type:waterbody|name=Dixon Entrance}}
+! scope="row" style="background:#b0e0e6;" | [[Dixon Entrance]]
+| style="background:#b0e0e6;" | Sebelah timur [[Pulau Zayas]], [[British Columbia]], {{CAN}} (di {{Coord|54|36|N|131|2|W|type:isle|name=Zayas Island}})<br/> Sebelah barat [[Pulau Dundas (British Columbia)|Pulau Dundas]], [[British Columbia]], {{CAN}} (di {{Coord|54|30|N|130|58|W|type:isle|name=Dundas Island}})<br/> Sebelah barat [[Pulau Stephens (British Columbia)|Pulau Stephens]], [[British Columbia]], {{CAN}} (di {{Coord|54|10|N|130|49|W|type:isle|name=Stephens Island}})
+|-
+| style="background:#b0e0e6;" | {{Coord|50|5|N|131|0|W|type:waterbody|name=Hecate Strait}}
+! scope="row" style="background:#b0e0e6;" | [[Selat Hecate]]
+| style="background:#b0e0e6;" |
+|-
+| {{Coord|52|13|N|131|0|W|type:country|name=Canada}}
+! scope="row" | {{CAN}}
+| [[British Columbia]]  [[Pulau Moresby]] dan [[Pulau Kunghit]]
+|-valign="top"
+| style="background:#b0e0e6;" | {{Coord|52|0|N|131|0|W|type:waterbody|name=Pacific Ocean}}
+! scope="row" style="background:#b0e0e6;" | [[Samudra Pasifik]]
+| style="background:#b0e0e6;" | Sebelah barat [[Pulau Oeno]], {{PCN}} (di {{Coord|23|55|S|130|45|W|type:isle|name=Oeno Island}})
+|-
+| style="background:#b0e0e6;" | {{Coord|60|0|S|131|0|W|type:waterbody|name=Southern Ocean}}
+! scope="row" style="background:#b0e0e6;" | [[Samudra Selatan]]
+| style="background:#b0e0e6;" |
+|-
+| {{Coord|74|21|S|131|0|W|type:country|name=Antarctica}}
+! scope="row" | [[Antarktika]]
+| [[Daftar klaim teritorial Antarktika|Teritori tanpa klaim]]
+|-
+|}
+
+==Lihat pula==
+*[[Meridian barat ke-130]]
+*[[Meridian barat ke-132]]
+{{-}}
+{{Koordinat geografis|state=collapsed}}
+
+[[Kategori:Garis bujur|b131]]

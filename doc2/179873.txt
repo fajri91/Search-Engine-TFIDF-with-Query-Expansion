@@ -1,0 +1,20 @@
+Templat:Ngoro, Jombang
+{{Navigasi ID Desa |provinsi=Jawa Timur |dati2=Kabupaten |nama dati2=Jombang
+|nama kecamatan=Ngoro
+|d1=Badang
+|d2=Banyuarang
+|d3=Gajah
+|d4=Genukwatu
+|d5=Jombok
+|d6=Kauman
+|d7=Kertorejo
+|d8=Kesamben
+|d9=Ngoro
+|d10=Pulorejo
+|d11=Rejoagung
+|d12=Sidowarek
+|d13=Sugihwaras
+}}<noinclude>
+[[Kategori:Templat desa/kelurahan di Jawa Timur|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Jombang |{{PAGENAME}}]]
+</noinclude>

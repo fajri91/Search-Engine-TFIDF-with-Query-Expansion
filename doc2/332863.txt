@@ -1,0 +1,6 @@
+Templat:Provinsi Crotone
+{{Navbox Province of Italy
+| nocat={{{nocat|}}}
+| province_code=KR
+| list={{WrapItemsAfterSeparator|[[Belvedere di Spinello]] | [[Caccuri]] | [[Carfizzi]] | [[Casabona]] | [[Castelsilano]] | [[Cerenzia]] | [[Cir, Calabria|Cir]] | [[Cir Marina]] | [[Cotronei]] | [[Crotone]] | [[Crucoli]] | [[Cutro]] | [[Isola di Capo Rizzuto]] | [[Melissa, Calabria|Melissa]] | [[Mesoraca]] | [[Pallagorio]] | [[Petilia Policastro]] | [[Rocca di Neto]] | [[Roccabernarda]] | [[San Mauro Marchesato]] | [[San Nicola dell'Alto]] | [[Santa Severina]] | [[Savelli, Calabria|Savelli]] | [[Scandale]] | [[Strongoli]] | [[Umbriatico]] | [[Verzino]]}}}}<includeonly>{{#if:{{{nocat|}}}||[[Kategori:Kota di Calabria]][[Kategori:Komune di provinsi Crotone]]}}</includeonly><noinclude>[[Kategori:Templat pembagian administratif Italia|Crotone]]
+</noinclude>

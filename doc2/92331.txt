@@ -1,0 +1,58 @@
+Token akses
+'''Token''' atau '''Access Token''', dalam arsitektur [[Windows NT]] adalah sebuah objek sistem operasi (yang diberi nama "'''''Token'''''") yang merepresentasikan subjek dalam beberapa operasi pengaturan akses (''access control''). Objek Token umumnya dibuat oleh layanan logon (''logon service'') untuk merepresentasikan informasi keamanan yang diketahui mengenai sebuah pengguna yang lolos proses autentikasi (''authenticated user''). Objek token digunakan oleh komponen sistem operasi Windows NT yang menangani masalah keamanan, yaitu '''[[Security Reference Monitor|Security Reference Monitor (SRM)]]'''.
+
+== Informasi Umum ==
+SRM menggunakan objek token untuk melakukan identifikasi konteks keamanan (''security context'') dari sebuah [[proses (komputer)|proses]] atau [[Thread (ilmu komputer)|thread]]. Sebuah konteks keamanan berisi informasi-informasi yang menjelaskan hak (privilege), akun, dan grup yang diasosiasikan dengan proses atau thread. Ketika proses logon, proses Winlogon.exe akan membuat sebuah token awal untuk merepresentasikan pengguna yang sedang melakukan logon dan kemudian menempelkan token tersebut ke proses shell logon milik pengguna yang bersangkutan. Semua program yang dijalankan oleh pengguna tersebut akan mewarisi salinan dari token awal yang dibuat oleh Winlogon tersebut. Win32 API juga menyediakan fungsi untuk membuat token, yakni fungsi LogonUser() yang selanjutnya dapat digunakan untuk membuat sebuah proses yang berjalan di dalam konteks keamanan dari pengguna yang sedang logon dengan menggunakan fungsi CreateProcessAsUser(). Ukuran token adalah bervariasi, karena akun pengguna yang berbeda akan memiliki hak dan group yang berbeda pula. Meskipun demikian, semua token mengandung informasi yang sama.
+
+{| class="wikitable"
+|-
+! Nama field
+! Keterangan
+|-
+| '''Token Source'''
+| Berisi deskripsi mengenai entitas yang membuat token yang bersangkutan. Program yang hendak mengetahui di mana sebuah token dibuat akan menggunakan field ini untuk membedakan sumber pembuat token.
+|-
+| '''Impersonation Type'''
+| <!--?-->
+|-
+| '''Token ID'''
+| Berisi informasi [[Locally Unique Identifier|Locally Unique Identifier (LUID)]] yang dibuat oleh Security Reference Monitor terhadap token ketika membuat token. Windows akan memelihara sebuah daftar LUID yang disebut dengan Executive LUID, yang merupakan sebuah nilai yang digunakan untuk memberikan sebuah angka yang unik terhadap setiap token.
+|-
+| '''Authentication ID'''
+| Berisi informasi LUID yang dibuat oleh pembuat token yang bersangkutan. Proses lsass.exe biasanya merupakan pembuat token di dalam sistem, dan lsass.exe mendapatkan LUID dari Executive LUID. Selanjutnya lsass.exe akan menyalin field ini untuk semua token yang berasal dari token awal yang dibuat pada saat logon. Sebuah program juga dapat memperoleh nilai field ini untuk melihat apakah token tersebut berasal dari sesi logon yang sama atau tidak.
+|-
+| '''Modified ID'''
+| Field ini akan diperbarui oleh Executive LUID saat karakteristik sebuah token diubah. Sebuah program dapat menguji apakah sebuah token berubah atau tidak dengan melihat field ini dan membandingkannya dengan nilai yang sebelumnya.
+|-
+| '''Expiration time'''
+| Menentukan kapan waktu sebuah token mengalami kedaluwarsa. Field ini sebenarnya telah ada dari Windows NT 3.1 tapi tidak pernah digunakan.
+|-
+| '''Default Primary Group'''
+| Atribut keamanan yang diaplikasikan terhadap objek-objek yang dibuat oleh proses atau thread ketika menggunakan token. Dengan memasukkan informasi keamanan dalam token, Windows dapat menjadikan sebuah proses atau thread untuk membuat objek dengan atribut keamanan karena proses atau thread tersebut tidak perlu lagi melakukan request terhadap informasi keamanan yang berbeda untuk setiap objek yang dibuatnya.
+|-
+| '''Default DACL'''
+| Atribut keamanan yang diaplikasikan terhadap objek-objek yang dibuat oleh proses atau thread ketika menggunakan token. Dengan memasukkan informasi keamanan dalam token, Windows dapat menjadikan sebuah proses atau thread untuk membuat objek dengan atribut keamanan karena proses atau thread tersebut tidak perlu lagi melakukan request terhadap informasi keamanan yang berbeda untuk setiap objek yang dibuatnya.
+|-
+| '''User Account SID'''
+| Berisi [[SID|Security Identifier]] (SID) yang dimiliki oleh pengguna.
+|-
+| '''Group 1 SID''' hingga '''Group ''n'' SID'''
+| Berisi daftar group di mana pengguna menjadi anggota yang direpresentasikan dalam bentuk SID.
+|-
+| '''Restricted SID 1''' hingga '''Restricted SID ''n'''''
+| Berisi daftar group SID yang dinonaktifkan. 
+|-
+| '''Privilege 1''' hingga '''Privilege ''n'''''
+| Berisi hak-hak yang dimiliki oleh sebuah token. Privilege tidak dapat dihapus tapi dapat dinonaktifkan. Kebanyakan privilege dinonaktifkan secara default untuk mencegah adanya kerusakan yang terjadi pada program yang didesain tanpa disertai dengan kesadaran akan masalah keamanan.
+|-
+|}
+Mekanisme keamanan dalam Windows 2000 menggunakan dua komponen token untuk menentukan apa yang dapat dilakukan oleh thread atau proses yang berjalan atas token tersebut. Satu komponen akan menangani field User Account SID dan Group SID di dalam Token. SRM kemudian menggunakan SID untuk menentukan apakah sebuah proses atau thread dapat memperoleh akses yang dimintanya terhadap objek yang dapat diamankan, seperti berkas dalam sistem berkas NTFS. Group SID dalam token dapat membedakan termasuk ke dalam group manakah akun pengguna yang bersangkutan. Sebuah aplikasi server dapat menonaktifkan group spesifik untuk membatasi token ketika aplikasi tersebut melakukan beberapa operasi yang diminta oleh klien. Menonaktifkan sebuah group dapat menyebabkan group tersebut seolah-olah tidak ada dalam token.
+
+Komponen kedua dari dua komponen token yang digunakan oleh Windows 2000 yang menentukan apa yang dapat dilakukan oleh thread atau proses yang berjalan atas token tersebut, adalah larik privilege (privilege array). Larik privilege merupakan sebuah daftar hak yang diasosiasikan dengan token. Sebagai contoh dari privilege adalah hak yang dimiliki oleh proses atau thread untuk melakukan shutdown terhadap komputer.
+
+Objek token terbagi menjadi dua jenis, yakni:
+* ''Primary Token'', yakni token yang mengidentifikasikan konteks keamanan dari sebuah proses
+* ''Impersonation Token'', yakni token yang mengadopsi sebuah konteks keamanan yang berbeda (umumnya pengguna lainnya) secara sementara.
+{}
+
+[[Kategori:Komponen Windows]]

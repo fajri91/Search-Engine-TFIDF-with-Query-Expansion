@@ -1,0 +1,26 @@
+Gempa bumi Halmahera 2014
+{{Earthquake
+| title      = Gempa bumi Halmahera 2014
+| date       = {{Start date|2014|11|15|11|31|50|Z}}
+| map        = 
+| magnitude  = 7.3 [[Skala kekuatan Moment|M<sub>w</sub>]]<ref>[http://news.liputan6.com/read/2134362/3-gempa-besar-hantam-maluku-utara-berpotensi-tsunami 3 Gempa Besar Hantam Maluku Utara, Berpotensi Tsunami], www.liputan6.com, diakses pada 15 November 2014.</ref>
+| depth      = {{convert|10|km|mi}}
+| location   = {{coord|1.94|N|126.50|E|display=inline,title}}
+| countries affected = [[Indonesia]]
+|intensity   = [[Modified Mercalli intensity|MM]] V
+| tsunami    = tidak terjadi
+| casualties = 
+}}
+'''Gempa bumi Halmahera 2014''' adalah [[gempa bumi]] yang terjadi pada [[15 November]] [[2014]] dengan kekuatan gempa 7,3 skala richter. Gempa dirasakan di wilayah [[Maluku]] dan [[Maluku Utara]] hingga [[Sulawesi Utara]].<ref>[http://www.republika.co.id/berita/nasional/daerah/14/11/15/nf2a1f-gempa-73-sr-guncang-ternate-berpotensi-tsunami Gempa 7,3 SR Guncang Ternate Berpotensi Tsunami], www.republika.co.id, diakses pada 15 November 2014.</ref> Pusat gempa bumi terjadi di laut dengan kedalaman 10 KM di kawasan laut wilayah Maluku Utara.<ref>[http://www.tempo.co/read/news/2014/11/15/173622112/Gempa-Maluku-Halmahera-dan-Talaud-Siaga-Tsunami Gempa Maluku, Halmahera dan Talaud Siaga Tsunami], www.tempo.co, diakses pada 15 November 2014.</ref> Setelah gempa utama, terjadi gempa susulan dengan kekuatan gempa yang terus menurun.<ref>[http://news.detik.com/read/2014/11/15/115025/2749200/10/gempa-susulan-51-sr-terjadi-halmahera-malut?nd771104bcj Gempa Susulan 5,1 SR Terjadi Halmahera Malut], www.detik.com, diakses pada 15 November 2014.</ref>
+
+==Referensi==
+{{reflist}}
+
+{{Bencana di Indonesia tahun 2014}}
+
+[[Kategori:Gempa bumi di Indonesia tahun 2014]]
+[[Kategori:Gempa bumi tahun 2014]]
+[[Kategori:Indonesia dalam tahun 2014]]
+
+
+{{bencana-stub}}

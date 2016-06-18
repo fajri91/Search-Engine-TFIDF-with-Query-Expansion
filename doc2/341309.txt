@@ -1,0 +1,13 @@
+CYCS
+'''CYCS''' adalah berkas [[gen]]etik pada [[kromosom 7 (manusia)|kromosom 7]] lokasi 7p15.3 dengan [[ekspresi gen|ekspresi]] berupa [[protein]] [[heme]] yang disebut [[sitokrom c]].<ref>{{en}}{{cite web
+| url          = http://www.ncbi.nlm.nih.gov/gene/54205
+| title        = CYCS cytochrome c, somatic [ Homo sapiens ]
+| accessdate   = 2010-11-14
+| work         = Entrez Gene
+}}</ref>
+
+== Rujukan ==
+{{reflist}}
+{{Biokimia-stub}}
+
+[[Kategori:Gen pada kromosom 7]]

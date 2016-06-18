@@ -1,0 +1,72 @@
+Burung-madu kelapa
+{{Taxobox
+| name = Burung-madu kelapa
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=106008234 |title=''Anthreptes malacensis'' |assessors=[[BirdLife International]] |version=2012.1 |year=2012 |accessdate=16 July 2012}}</ref>
+| image = Brown-throated Sunbird.jpg
+| image_caption = Pejantan ''A. m. malacensis'' di [[Singapura]]
+| image2 = Anthreptes malacensis celebensis (female)-2.JPG
+| image2_caption =  Betina ''A. m. celebensis'' di [[Manado]], [[Sulawesi Utara]]
+| image_width = 225px
+| regnum = [[Animalia]]
+| phylum = [[Chordata]]
+| classis = [[Burung|Aves]]
+| ordo =[[Passeriformes]]
+| familia = [[Nectariniidae]]
+| genus = [[Anthreptes]]
+| species = '''''A. malacensis'''''
+| binomial = ''Anthreptes malacensis''
+| binomial_authority = ([[Giovanni Antonio Scopoli|Scopoli]], 1786)
+| synonyms = 
+}}
+
+'''Burung-madu kelapa''' (''Anthreptes malacensis'') adalah [[spesies]] burung dari keluarga [[Nectariniidae]], dari [[genus]] [[Anthreptes]].
+Burung ini merupakan jenis burung pemakan nektar ''Loranthus'', ''Musa'', ''Hibiscus'', serangga, ulat, laba-laba, buah lembu dan memiliki habitat di pekarangan terbuka, kebun kelapa, semak pantai, hutan mangrove. tersebar sampai ketinggian 1.200 m dpl.
+
+== Ciri-ciri ==
+Burung-madu kelapa memiliki tubuh berukuran sedang (13 cm).
+
+Burung jantan: Mahkota dan punggung hijau bersinar. Tunggir, penutup sayap, ekor, setrip kumis ungu bersinar. Pipi, dagu, tenggorokan coklat tua buram. Tubuh bagian bawah kuning.
+
+Burung betina: Tubuh bagian atas hijau zaitun. Tubuh bagian bawah kuning muda. Iris merah, paruh hitam, kaki hitam abu-abu. Bersifat teritorial agresif, mengusir burung madu lain dari pohon sumber makanan yang disukai.
+Sarang berbentuk kantung menggantung, dari serat rumput, direkat dengan jaring laba-laba dan kapas rumput. Telur jumlah 2 butir. Berbiak sepanjang tahun.
+
+== Subspesies dan penyebaran ==
+Burung-madu kelapa tersebar di [[Asia Tenggara]] dengan subspesies sebagai berikut<ref name=clements>{{cite book|title= The eBird/Clements checklist of birds of the world: Version 6.8|author= Clements, J. F., T. S. Schulenberg, M. J. Iliff, B.L. Sullivan, C. L. Wood, and D. Roberson|year= 2013|publisher= The Cornell Lab of Ornithology|url=http://www.birds.cornell.edu/clementschecklist/download/}}</ref>:
+# '''''A. m. birgitae''''', tersebar di Filipina bagian selatan (Luzon, Mindoro dan Catanduanes)
+# '''''A. m. griseigularis''''', tersebar di Filipina (Samar, Leyte, Sakuyok, Camiguin Sur, Mindanao tenggara)
+# '''''A. m. malacensis''''', tersebar di Burma Selatan hingga Semenanjung Thailand, Indochina, Sumatera dan Borneo bagian selatan
+# '''''A. m. mjobergi''''', tersebar di Pulau Maratua
+# '''''A. m. borneensis''''', tersebar di Pulau Kalimantan bagian utara (Sabah, Brunei dan pulau-pulau di sekitarnya)
+# '''''A. m. chlorigaster''''', tersebar di Cebu, Masbate, Negros, Panay, Sibuyan, Tablas, Romblon, Ticao
+# '''''A. m. heliolusius''''', tersebar di Filipina bagian selatan (Basilan, bagian barat dan tengah Mindanao dan Talicod)
+# '''''A. m. cagayensis''''', tersebar di Pulau Cagayan Sulu (Laut Sulu)
+# '''''A. m. paraguae''''', tersebar di Filipina bagian selatan (Balabac, Culion, Palawan dan Calauit)
+# '''''A. m. wiglesworthi''''', tersebar di Kepulauan Sulu (Bongao, Jolo, Tawitawi dan Basbas)
+# '''''A. m. iris''''', tersebar di Filipina bagian selatan (Sibutu dan Sitanki)
+# '''''A. m. heliocalus''''', tersebar di Kepulauan Sangihe dan Siau
+# '''''A. m. celebensis''''', tersebar di Pulau Sulawesi dan pulau-pulau di sekitarnya
+# '''''A. m. extremus''''', tersebar di Kepulauan Sula dan Banggai
+# '''''A. m. convergens''''', tersebar di bagian barat Nusa Tenggara (Lombok hingga Pantar dan Alor)
+# '''''A. m. rubrigena''''', tersebar di Pulau Sumba
+# '''''A. m. anambae''''', tersebar di Kepulauan Anambas (Laut Cina Selatan)
+
+== Galeri ==
+<Gallery>
+Berkas:Anthreptes_malacensis_female_01.jpg
+Berkas:Anthreptes_malacensis_female_02.jpg
+Berkas:Anthreptes_malacensis_male_01.jpg
+Berkas:Anthreptes_malacensis_male_02.jpg
+Berkas:Anthreptes_malacensis_male_03.jpg
+</Gallery>
+
+== Referensi ==
+* http://bio.undip.ac.id/sbw/sp_daftar_indo.htm
+{{reflist}}
+
+{{burung-stub}}
+
+[[Kategori:Burung Indonesia]]
+[[Kategori:Anthreptes]]
+[[Kategori:Burung Thailand]]

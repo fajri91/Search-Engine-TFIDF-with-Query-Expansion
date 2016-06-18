@@ -1,0 +1,44 @@
+Wikipedia:Pengantar 3
+{{pp-semi-indef}}
+<div style="text-align:center;">__NOEDITSECTION__
+    <div style="float:left; width:33%; padding: .5ex 0;">1. [[Wikipedia:Pengantar|Pengantar]]</div>
+    <div style="float:left; width:33%; padding: .5ex 0;">2. [[Wikipedia:Pengantar 2|Belajar lebih lanjut mengenai penyuntingan]]</div>
+    <div style="float:left; width:33%; padding: .5ex 0; font-weight:bold; background-color:#ff9;  border:2px solid #fc0; border-bottom:0; font-size:130%">3. [[Wikipedia:Pengantar 3|Menjelajahi Wikipedia]]</div>
+</div>
+<div style="clear:both; width:100%; border:3px solid #fc0;">
+    <div style="padding:1ex; ">
+<div style="text-align:center;padding-bottom:1em"><div style="margin:1em auto;width:70%"><p style="font-size:125%;margin:0">Sebelum Anda melanjutkan, mungkin Anda tertarik untuk 
+'''[[Istimewa:Masuk log|membuat akun baru]]''' (''Sign in'') di Wikipedia.</p><p style="margin:0">Anda juga diperkenankan menyunting tanpa harus membuat akun baru, namun ada banyak [[Wikipedia:Keuntungan memiliki akun|keuntungan memiliki akun]] di Wikipedia. <br />''Untuk bantuan lebih lanjut, lihat [[Bantuan:Isi]] atau [[Wikipedia:Warung Kopi]]''</div></div>
+</div></div>
+----
+
+<div style="clear:both; width:100%; border:3px solid #fc0;">
+    <div style="padding:1ex; ">
+<div style="text-align:center;padding-bottom:1em"><div style="margin:1em auto;width:70%"><p style="font-size:125%;margin:0">Jika Anda sudah memiliki akun, silakan Anda memperkenalkan diri Anda lewat '''[[Wikipedia:Halaman perkenalan]]'''.</p><p style="margin:0">Selain itu Anda juga dapat menjelajahi halaman-halaman di bawah ini.</p></div></div>
+
+<div style="float: left; width: 50%; padding-bottom: 1em; border-right: 1px solid #c0c0c0;">
+<div style="float: right; padding-right: 8%;">
+<h3 style="font-size:100%;margin:0;">Mengeksplorasi Wikipedia...</h3>
+* '''[[Wikipedia:Pencarian|Cari]]''' sebuah topik dan tambah pengetahuan Anda
+* '''[[Wikipedia:Jelajahi|Jelajahi]]''' artikel-artikel di Wikipedia
+* Kunjungi isi pilihan per topik di '''[[Portal:Daftar portal|Halaman portal]]'''
+* Cobalah '''[[Wikipedia:Halaman sembarang|halaman sembarang]]'''
+</div>
+</div>
+<div style="float: left; width: 44%; margin-left: 4.5%;">
+<h3 style="font-size: 100%; margin: 0;">Menjadi bagian dari komunitas...</h3>
+* Belajar lebih lanjut mengenai '''[[Wikipedia:Siapa penulis Wikipedia|Siapa yang menulis di Wikipedia]]'''
+* Ikuti pengumuman proyek '''[[Wikipedia:Pengumuman|Papan pengumuman]]'''
+* Ikuti berita terbaru melalui '''[[Wikipedia:WartaWiki|WartaWiki]]'''
+* Atau coba '''[[Portal:Komunitas|Portal Komunitas]]''' kami untuk ide-ide lebih lanjut
+</div>
+<div style="text-align: center;">
+<div style="clear:both">
+
+<h3 style="font-size:100%;margin:0;">Temukan lebih lanjut...</h3>
+* '''[[Wikipedia:Tanya jawab|Pertanyaan yang Sering Diajukan (FAQ)]]'''
+* {{WP|Komunitas Wikipedia bahasa Indonesia}} di milis YahooGroups, Facebook, Twitter, IRC, dan temu darat (kopi darat)
+</div>
+<div style="border-top:1px solid #fc0;padding:.3em 0;text-align:center;background-color:#ff9;margin-top:.5em;font-size:140%">Lanjutkan ke [[Wikipedia:Tutorial|'''Tutorial Wikipedia''']] &gt;&gt;</div>
+<includeonly>
+</includeonly>

@@ -1,0 +1,104 @@
+Embarcadero Delphi
+{{Infobox software
+| name                   = Embarcadero Delphi
+| screenshot             = [[Berkas:Delphi XE2 IDE Screen shot.jpg|300px]]
+| caption                = Lingkungan pengembangan terpadu Delphi XE2
+| developer              = Embarcadero Technologies (2009sekarang)
+| author                 = [[Borland]] (19952008)
+| latest_release_version = Delphi XE7
+| latest_release_date    = {{Release date and age|2014|09|2}}
+| latest preview version =
+| latest preview date    =
+| operating system       = [[Microsoft Windows]]
+| language               = Inggris, Perancis, Jerman and Jepang
+| status                 = Aktif
+| genre                  = [[Lingkungan pengembangan terpadu]]
+| license                = [[Perangkat lunak komersil|Komersil]]
+| website                = {{URL|http://www.embarcadero.com/products/delphi}}
+}}
+'''Delphi''' adalah sebuah [[Lingkungan pengembangan terpadu]] (IDE) untuk mengembangkan aplikasi [[konsol]], [[desktop]], [[web]], ataupun perangkat [[mobile]]. Produk ini pada awalnya dikembangkan oleh [[CodeGear]] sebagai divisi pengembangan perangkat lunak milik [[Embarcadero]], divisi tersebut sebelumnya adalah milik [[Borland]]. Bahasa Delphi, atau dikenal pula sebagai ''object pascal'' ([[Pascal (bahasa pemrograman)|pascal]] dengan ekstensi [[pemrograman berorientasi objek]] (PBO/OOP)) pada mulanya ditujukan hanya untuk [[Microsoft Windows]], namun saat ini telah mampu digunakan untuk mengembangkan aplikasi untuk [[Mac OS X]], [[iOS]], [[Microsoft .NET]] framework (lihat di bawah).
+
+Pada tanggal [[8 Februari]] [[2006]], Borland mengumumkan akan melepas seluruh jajaran produk pengembangan aplikasi komputernya termasuk di antaranya Delphi, untuk itulah Borland membentuk perusahaan baru dengan nama CodeGear sehingga terpisah dari Borland [http://www.borland.com/us/company/news/press_releases/2006/02_08_06_borland_acquires_segue_software.html]. Saat ini Delphi menjadi bagian dari jajaran IDE milik Embarcadero Technologies setelah Embarcadero Technologies mengakuisisi CodeGear. Hal ini disebabkan karena kerugian yang terus menerus selama 2006 rugi bersih sebesar $53.1 juta, 2007 rugi bersih $61 juta. Sehingga pada tahun 2008 saat CodeGear menderita rugi bersih $22.3 maka CodeGear dijual ke Embarcadero seharga $23 juta untuk menutupi rugi bersih ini [http://blog.martinig.ch/news/borland-finally-sells-codegear-to-embarcadero/].
+
+== Lingkungan pengembangan ==
+Umumnya Delphi lebih banyak digunakan untuk pengembangan aplikasi [[desktop]] dan [[bisnis|enterprise]] berbasis [[database]], tapi sebagai perangkat pengembangan yang bersifat general-purpose ia juga mampu dan digunakan dalam berbagai jenis proyek pengembangan software. Ia juga yang dikenal sebagai salah satu yang membawa istilah ''RAD'' tool, kepanjangan dari [[Rapid Application Development]], saat dirilis tahun [[1995]] untuk windows 16-bit. Delphi 2, dirilis setahun kemudian, mendukung lingkungan windows 32-bit, dan versi [[C plus plus|c++]], [[C plus plus builder|C++Builder]], dirilis beberapa tahun kemudian. Pada tahun [[2001]] sebuah versi linux yang dikenal sebagai [[Kylix]] tersedia. Dengan satu rilis baru setiap tahunnya, pada tahun [[2002]] dukungan untuk Linux (melalui Kylix dan CLX component library) ditambahkan dan tahun [[2003]] .NET mulai didukung dengan munculnya Delphi.Net (Delphi 8).
+
+''Chief Architect'' yang membidani Delphi, dan pendahulunya [[Turbo Pascal]], adalah [[Anders Hejlsberg]] sampai kemudian ia pindah ke [[Microsoft]] tahun [[1996]] di mana ia sebagai chief designer [[Bahasa pemrograman C sharp|C#]] dan termasuk orang kunci dalam perancangan Microsoft .Net Framework. Dukungan penuh untuk .Net ditambahkan pada Delphi 8 (dirilis pada bulan [[Desember 2003]]) dengan penampilan user interface ([[look and feel]]) mirip dengan Microsoft Visual Studio .NET.
+
+Delphi 2005 (nama lain dari Delphi 9) mendukung ''code generation'' baik untuk win32 maupun .NET, dan seperti yang telah dikenal, fitur-fitur manipulasi data secara ''live'' dari database secara ''design-time''. Ia juga membawa banyak pembaruan pada IDE secara signifikan.
+
+Para penganjur delphi mengklaim dengan bahasa pemrograman Delphi, [[Integrated development environment|IDE]] dan component library ([[Visual component library|VCL]]/[[Component Library for Cross Platform|CLX]]) yang disediakan oleh vendor tunggal memungkinkan satu paket yang lebih konsisten dan mudah dikenali.
+
+Produk Delphi ini didistribusikan dalam beberapa rancangan: Personal, Professional, Enterprise (sebelumnya Client/Server) dan Architect.
+
+[[Berkas:Delphi2010.jpg|thumb|250px|right]]
+
+== Bahasa pemrograman ==
+Perbedaan fitur yang utama antara Delphi, Kylix dengan IDE-IDE yang lain adalah keberadaan bahasanya (Bahasa pemrograman delphi), VCL/CLX (Visual Component Library), Penekanan konektifitas database yang sangat baik, dan banyaknya komponen-komponen pihak ketiga yang mendukungnya.
+
+Aspek penting yang perlu dicatat tentang Bahasa pemrograman Delphi termasuk:
+* Penanganan object sebagai ''reference''/[[pointer]] secara transparan
+* Properti sebagai bagian dari bahasa tersebut; baik, sebagai getter dan setter (atau [[accessor]] and mutator), yang secara transparan [[information hiding|mengenkapsulasi]] akses pada field-field anggota dalam kelas tersebut.
+* Property index dan Default yang menyediakan akses pada data kolektif
+* Pendelegasian (''type safe method pointer'') yang digunakan untuk memproses event yang dipicu oleh [[software component|component]]
+* Pendelegasian implementasi [[interface (computer science)|interface]] pada Field ataupun property dari class.
+* Implementasi penanganan windows message dengan cara membuat method dalam class dengan nomer/nama dari windows message yang akan dihandle.
+* [[Component object model|COM]] bersifat sebagai interface yang independen dengan implementasi class sebagai [[reference counting|reference counted]] 
+* Kompilasi yang dapat menghasilkan kode yang berjalan secara ''native'' [[x86]] ataupun ''managed code'' pada arsitektur framework [[.NET Framework|.NET]].
+
+== Pro dan kontra ==
+Delphi mendukung pengembangan aplikasi berbasis [[Rapid application development]] yang membawa fitur berupa kerangka/framework aplikasi serta aplikasi pendisain visual yang memungkinkan proses pengembangan sebuah program menjadi lebih cepat. Disamping itu, delphi mendukung kompilasi antar platform, menghasilkan kode biner untuk Mac OS, Windows 32 bit, ataupun Windows 64 bit. Dengan menggunakan dialek object pascal, delphi memperkenalkan konsep VCL (Visual Component Library) sebagai basis kerangka kerja untuk modularisasi entitas-entitas baik yang bersifat visual ataupun non-visual dalam metodologi pemrograman berorientasi objek.
+
+=== Keuntungan ===
+Delphi menawarkan sejumlah keuntungan dalam pengembangan aplikasi, antara lain:
+* Komunitas pengguna yang besar pada [[Usenet]] maupun [[World Wide Web|web]] [http://info.borland.com/newsgroups/ng_delphi.html]
+* Dapat mengkompilasi menjadi ''single executable'' (aplikasi portable), memudahkan distribusi dan meminimalisir masalah yang terkait dengan ''versioning''
+* Banyaknya dukungan dari pihak ketiga terhadap VCL (biasanya tersedia berikut source codenya) ataupun tools pendukung lainnya (dokumentasi, ''tool debugging'')
+* Optimasi kompiler yang cukup cepat
+* Mendukung multiple platform dari source code yang sama
+<!-- baris di bawah ini keliru, delphi tidak mendukung sistem operasi Linux meski rencana atas itu ada, namun tidak untuk versi yang saat ini beredar.
+* Untuk yang dikelola oleh embarcadero, delphi dapat dijalankan pada multiflatform yaitu windows, linux, android, IOS. {{fact}}
+-->
+
+=== Kerugian ===
+* Partial single vendor lock-in (Borland dapat menetapkan standar bahasa, kompatibilitas yang harus mengikutinya)
+* Akses pada platform dan library pihak ketiga membutuhkan file-file header yang diterjemahkan ke dalam bahasa pascal
+* Dokumentasi atas platform dan teknik-teknik yang menyertainya sulit ditemukan dalam bahasa pascal (contoh akses COM dan Win32)
+
+== Klon dan alternatifnya ==
+Meskipun tidak bersifat subsitutif penuh terhadap keseluruhan paket delphi, ada beberapa usaha yang dilakukan untuk membuat kompatibilitas bahasa ini menjadi lebih baik atau bahkan lebih buruk dengan membuat kode delphi yang tidak bisa dicapai oleh delphi ataupun kylix sendiri.
+
+Produk-produk berikut bisa membuat kode delphi berjalan dalam alur yang tidak mungkin dilakukan oleh Delphi (seperti dukungan terhadap sistem operasi yang berbeda, distribusi yang gratis dan penggunaan untuk kebutuhan pendidikan, dan penyertaan kode dari kompilernya sendiri) yang menjadikan vendor bisa menjadi lebih ''independen''. Produk-produk berikut ini umumnya digunakan untuk kebutuhan edukasi dan mengusahakan agar sisi aplikasi delphi yang berjalan pada server bisa berjalan pada sistem operasi alternatif selain dari yang didukung oleh delphi/kylix, umumnya produk tersebut sudah mendukung [[linux]] sebelum [[kylix]] muncul.
+
+* [http://www.bloodshed.net/devpascal.html Bloodshed Dev-Pascal] Salah satu IDE Win32 yang mensupport GNU Pascal maupun Free Pascal
+* [[Free Pascal]] Kompiler berbasis commandline dengan dialek yang sangat dekat dengan Turbo Pascal dan Delphi. Fitur yang terdapat pada Delphi versi 4 ke atas hanya diimplementasikan pada seri versi 1.9.x (akan menjadi seri 2.0.x). Versi beta ini sudah bisa digunakan secara baik. Beroperasi umumnya pada sistem operasi berbasis x86. Mendukung [[Linux]], [[Mac OS]] dan [[Mac OS X]] (termasuk implementasi [[Xcode]]) pada [[PowerPC family|keluarga PowerPC]], dan [[Linux]] berbasis [[AMD64]]. [[SPARC]] and arsitektur [[ARM architecture|Mesin RISC Acorn]] (ARM) masih sedang dikerjakan dan belum siap di''deploy''.
+* [http://www.gnu-pascal.de GNU Pascal] secara terpisah didistribusikan sebagai bagian dari [[GNU Compiler Collection]] dan tidak mendukung dialek pascal yang diimplementasikan borland
+* [http://www.carlo-kok.com/ InnerFuse] merupakan interpreter bahasa Delphi yang dapat diintegrasikan dengan aplikasi Delphi
+* [http://lazarus.freepascal.org Lazarus] merupakan satu upaya untuk membangun sebuah RAD berbasis Free Pascal.
+* [http://sibyl.netlabs.org OpenSibyl] 
+* [[Virtual Pascal]] 
+* [http://michael.tippach.bei.t-online.de/wdosx/ WDOSX] 
+* [http://www.winsoft.sk/pstudio.htm Winsoft Pocket Studio]
+
+== Pranala luar ==
+* '''[http://www.dickysmart.com Belajar Delphi]'''
+* [http://delphi.about.com About Delphi Programming]
+* [http://www.codegear.com/products/delphi/win32 CodeGear Delphi]
+* [http://delphi.wikia.com/wiki/Main_Page Delphi Wiki]
+* [http://www.delphi3000.com/ delphi3000.com]
+* [http://www.delphibasics.co.uk Delphi Basics] 
+* [http://chuacw.ath.cx/blogs/chuacw/default.aspx Delphi Developers' Asia and Singapore]
+* [http://www.oreilly.com/catalog/delphi/chapter/ch02.html The Delphi Object Model]
+* [http://www.delphipages.com/ Delphi Pages]
+* [http://delphi.icm.edu.pl/ Delphi Super Page]
+* [http://www.Delphi-Central.com/tutorials/ Delphi Tutorials on Delphi Central]
+* [http://www.delphitricks.com/index.php Delphi Tricks] 
+* [http://www.dmoz.org/Computers/Programming/Languages/Delphi/ Delphi Open Directory Project]
+* [http://www.delphi-jedi.org/ Project JEDI]
+* [http://www.delphigamer.com/ Pascal Game Development]
+* [http://delphi-id.org Forum Delphi Indonesia (http://delphi-id.org)]
+* [http://pascal-id.krosser.com/ Forum Pascal-Delphi Indonesia]
+
+[[Kategori:Bahasa pemrograman]]
+[[Kategori:Bahasa pemrograman berorientasi objek]]
+[[Kategori:Perangkat lunak pemrograman]]

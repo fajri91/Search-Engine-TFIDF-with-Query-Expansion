@@ -1,0 +1,329 @@
+Grand Prix F1 Inggris 1990
+'''Grand Prix Inggris 1990''' merupakan balapan [[Formula 1]] yang digelar tanggal 15 Juli 1990 di [[Sirkuit Silverstone]], [[Inggris]]. Balapan ini menjadi balapan ke-200 bagi [[Riccardo Patrese]].
+
+== Hasil lomba ==
+{| class="wikitable" style="font-size: 95%;"
+|-
+! Pos !! No !! Pembalap !! Tim !! Lap !! Waktu/Tersingkir !! Grid !! Poin
+|-
+! 1
+| 1
+| {{flagicon|France}} '''[[Alain Prost]]'''
+| '''[[Scuderia Ferrari|Ferrari]]'''
+| 64
+| 1:18:30.999
+| 5
+| '''9'''
+|-
+! 2
+| 5
+| {{flagicon|Belgium}} '''[[Thierry Boutsen]]'''
+| '''[[WilliamsF1|Williams]]-[[Renault F1|Renault]]'''
+| 64
+| + 39.092
+| 4
+| '''6'''
+|-
+! 3
+| 27
+| {{flagicon|Brazil}} '''[[Ayrton Senna]]'''
+| '''[[Team McLaren|McLaren]]-[[Honda F1|Honda]]'''
+| 64
+| + 43.088
+| 2
+| '''4'''
+|-
+! 4
+| 29
+| {{flagicon|France}} '''[[ric Bernard]]'''
+| '''[[Larrousse]]-[[Lamborghini]]'''
+| 64
+| + 1:15.302
+| 8
+| '''3'''
+|-
+! 5
+| 20
+| {{flagicon|Brazil}} '''[[Nelson Piquet]]'''
+| '''[[Benetton Formula|Benetton]]-[[Ford Motor Company|Ford]]'''
+| 64
+| + 1:24.003
+| 11
+| '''2'''
+|-
+! 6
+| 30
+| {{flagicon|Japan}} '''[[Aguri Suzuki]]'''
+| '''[[Larrousse]]-[[Lamborghini]]'''
+| 63
+| + 1 Lap
+| 9
+| '''1'''
+|-
+! 7
+| 10
+| {{flagicon|Italy}} [[Alex Caffi]]
+| [[Arrows]]-[[Ford Motor Company|Ford]]
+| 63
+| + 1 Lap
+| 17
+| &nbsp;
+|-
+! 8
+| 4
+| {{flagicon|France}} [[Jean Alesi]]
+| [[Tyrrell Racing|Tyrrell]]-[[Ford Motor Company|Ford]]
+| 63
+| + 1 Lap
+| 6
+| &nbsp;
+|-
+! 9
+| 8
+| {{flagicon|Italy}} [[Stefano Modena]]
+| [[Brabham]]-[[Judd (engine)|Judd]]
+| 62
+| + 2 Lap
+| 20
+| &nbsp;
+|-
+! 10
+| 25
+| {{flagicon|Italy}} [[Nicola Larini]]
+| [[Equipe Ligier|Ligier]]-[[Ford Motor Company|Ford]]
+| 62
+| + 2 Lap
+| 21
+| &nbsp;
+|-
+! 11
+| 21
+| {{flagicon|Italy}} [[Emanuele Pirro]]
+| [[Dallara]]-[[Ford Motor Company|Ford]]
+| 62
+| + 2 Lap
+| 19
+| &nbsp;
+|-
+! 12
+| 24
+| {{flagicon|Italy}} [[Paolo Barilla]]
+| [[Minardi]]-[[Ford Motor Company|Ford]]
+| 62
+| + 2 Lap
+| 24
+| &nbsp;
+|-
+! 13
+| 26
+| {{flagicon|France}} [[Philippe Alliot]]
+| [[Equipe Ligier|Ligier]]-[[Ford Motor Company|Ford]]
+| 61
+| + 3 Lap
+| 22
+| &nbsp;
+|-
+! 14
+| 28
+| {{flagicon|Austria}} [[Gerhard Berger]]
+| [[Team McLaren|McLaren]]-[[Honda F1|Honda]]
+| 60
+| Gas
+| 3
+| &nbsp;
+|-
+! Ret
+| 2
+| {{flagicon|UK}} [[Nigel Mansell]]
+| [[Scuderia Ferrari|Ferrari]]
+| 55
+| Girboks
+| 1
+| &nbsp;
+|-
+! Ret
+| 16
+| {{flagicon|Italy}} [[Ivan Capelli]]
+| [[Leyton House]]-[[Judd (engine)|Judd]]
+| 48
+| Bocor bensin
+| 10
+| &nbsp;
+|-
+! Ret
+| 12
+| {{flagicon|UK}} [[Martin Donnelly (racing driver)|Martin Donnelly]]
+| [[Team Lotus|Lotus]]-[[Lamborghini]]
+| 48
+| Mesin
+| 14
+| &nbsp;
+|-
+! Ret
+| 11
+| {{flagicon|UK}} [[Derek Warwick]]
+| [[Team Lotus|Lotus]]-[[Lamborghini]]
+| 46
+| Mesin
+| 16
+| &nbsp;
+|-
+! Ret
+| 17
+| {{flagicon|Italy}} [[Gabriele Tarquini]]
+| [[Automobiles Gonfaronnaises Sportives|AGS]]-[[Ford Motor Company|Ford]]
+| 41
+| Mesin
+| 26
+| &nbsp;
+|-
+! Ret
+| 9
+| {{flagicon|Italy}} [[Michele Alboreto]]
+| [[Arrows]]-[[Ford Motor Company|Ford]]
+| 37
+| Mesin
+| 25
+| &nbsp;
+|-
+! Ret
+| 6
+| {{flagicon|Italy}} [[Riccardo Patrese]]
+| [[WilliamsF1|Williams]]-[[Renault F1|Renault]]
+| 26
+| Sasis
+| 7
+| &nbsp;
+|-
+! Ret
+| 3
+| {{flagicon|Japan}} [[Satoru Nakajima]]
+| [[Tyrrell Racing|Tyrrell]]-[[Ford Motor Company|Ford]]
+| 20
+| Elektrik
+| 12
+| &nbsp;
+|-
+! Ret
+| 19
+| {{flagicon|Italy}} [[Alessandro Nannini]]
+| [[Benetton Formula|Benetton]]-[[Ford Motor Company|Ford]]
+| 15
+| Kecelakaan
+| 13
+| &nbsp;
+|-
+! Ret
+| 22
+| {{flagicon|Italy}} [[Andrea de Cesaris]]
+| [[Dallara]]-[[Ford Motor Company|Ford]]
+| 12
+| Bocor bensin
+| 23
+| &nbsp;
+|-
+! Ret
+| 23
+| {{flagicon|Italy}} [[Pierluigi Martini]]
+| [[Minardi]]-[[Ford Motor Company|Ford]]
+| 3
+| Alternator
+| 18
+| &nbsp;
+|-
+! DNS
+| 15
+| {{flagicon|Brazil}} [[Maurcio Gugelmin]]
+| [[Leyton House]]-[[Judd (engine)|Judd]]
+| 0
+| Pompa BBM
+| 15
+| &nbsp;
+|-
+! DNQ
+| 14
+| {{flagicon|France}} [[Olivier Grouillard]]
+| [[Osella]]-[[Ford Motor Company|Ford]]
+| &nbsp;
+|
+|
+| &nbsp;
+|-
+! DNQ
+| 7
+| {{flagicon|Australia}} [[David Brabham]]
+| [[Brabham]]-[[Judd (engine)|Judd]]
+| &nbsp;
+|
+|
+| &nbsp;
+|-
+! DNQ
+| 36
+| {{flagicon|Finland}} [[Jyrki Jrvilehto]]
+| [[Onyx (racing team)|Onyx]]-[[Ford Motor Company|Ford]]
+| &nbsp;
+|
+|
+| &nbsp;
+|-
+! DNQ
+| 35
+| {{flagicon|Switzerland}} [[Gregor Foitek]]
+| [[Onyx (racing team)|Onyx]]-[[Ford Motor Company|Ford]]
+| &nbsp;
+|
+|
+| &nbsp;
+|-
+! DNPQ
+| 33
+| {{flagicon|Brazil}} [[Roberto Moreno]]
+| [[Euro Brun]]-[[Judd (engine)|Judd]]
+| &nbsp;
+|
+|
+| &nbsp;
+|-
+! DNPQ
+| 18
+| {{flagicon|France}} [[Yannick Dalmas]]
+| [[Automobiles Gonfaronnaises Sportives|AGS]]-[[Ford Motor Company|Ford]]
+| &nbsp;
+|
+|
+| &nbsp;
+|-
+! DNPQ
+| 34
+| {{flagicon|Italy}} [[Claudio Langes]]
+| [[Euro Brun]]-[[Judd (engine)|Judd]]
+| &nbsp;
+|
+|
+| &nbsp;
+|-
+! DNPQ
+| 31
+| {{flagicon|Belgium}} [[Bertrand Gachot]]
+| [[Enzo Coloni Racing Car Systems|Coloni]]-[[Subaru]]
+| &nbsp;
+|
+|
+| &nbsp;
+|-
+! DNPQ
+| 31
+| {{flagicon|Italy}} [[Bruno Giacomelli]]
+| [[Life (Racing Team)|Life]]
+| &nbsp;
+|
+|
+| &nbsp;
+|}
+
+== Pranala luar ==
+* {{cite web |title=The Official Formula 1 website |url=http://www.formula1.com/results/season/1990/222/ |accessdate=2007-08-05}}
+
+[[Kategori:Grand Prix Britania Raya|1990]]
+[[Kategori:Grand Prix F1 musim 1990|Inggris]]

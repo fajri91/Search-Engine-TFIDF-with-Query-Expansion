@@ -1,0 +1,13 @@
+Templat:Pengguna film musikal
+{{userbox
+| logo-background = black
+| info-background = #6fc
+| border-color = #06f
+| info-color   = 
+| logo = [[Berkas:Mcasulana.jpg|40px|link=]]
+| info = <center>Pengguna ini suka menonton '''[[film musikal]]'''</center>
+}}{{#if:{{{kat|}}}||<includeonly>[[Kategori:Pengguna penggemar film musikal|{{PAGENAME}}]]</includeonly>}}<noinclude>
+{{clear}}
+Kategori yang ditambahkan: {{kt|Pengguna penggemar film musikal}}
+[[Kategori:Templat userbox minat|film musikal]]
+</noinclude>

@@ -1,0 +1,107 @@
+Landquart, Swiss
+{{Infobox Swiss town
+ | subject_name		= Landquart
+ | image_photo          = Mastrils Ansicht.jpg
+ | image_caption        = Mastrils village in Landquart
+ | municipality_name	= Landquart
+ | municipality_type	= municipality
+ | imagepath_coa	= landquart-coat of arms.svg|pixel_coa=
+ | map			= 
+ | languages		= 
+ | canton		= Graubnden
+ | iso-code-region 	= CH-GR
+ | district		= [[Landquart (distrik)|Landquart]]
+ | lat_d=46|lat_m=58|lat_NS=N|long_d=9|long_m=32|long_EW=E
+ | postal_code		= 7303, 7206
+ | municipality_code	= 3955
+ | area			= 7.98
+ | elevation		= 550|elevation_description= 
+ | population		= {{Swiss populations NC|CH-GR|3955}} | populationof = {{Swiss populations YM|CH-GR}} |  popofyear = {{Swiss populations Y|CH-GR}} 
+ | website		= www.landquart.ch
+ | mayor		= Ernst Nigg|mayor_asof=March 2014|mayor_party=
+ | mayor_title	= Gemeindeprsident|list_of_mayors	=
+ | executive_name = Gemeindevorstand | executive_number_of_members = 7
+ | places		= [[Igis]], [[Mastrils]], Landquart
+ | demonym		= 
+ | neighboring_municipalities= [[Bad Ragaz]] (SG), [[Maienfeld]], [[Malans, Swiss|Malans]], [[Pffers]] (SG), [[Untervaz]], [[Valzeina]], [[Zizers]] 
+ | twintowns		= 
+|}}
+'''Landquart''' adalah sebuah [[munisipalitas]] di provinsi [[Landquart (distrik)|Landquart]], [[Graubnden]], [[Swiss]]. Munisipalitas ini dibentuk pada 1 Januari 2012 melalui penyatuan munisipalitas [[Igis]] dan [[Mastrils]]. <ref name=Fusion>[http://www.bfs.admin.ch/bfs/portal/de/index/infothek/nomenklaturen/blank/blank/gem_liste/03.html ''Amtliches Gemeindeverzeichnis der Schweiz''] diterbitkan oleh Badan Pusat Statistik Federasi Swiss {{de icon}} diakses pada 21 Desember 2011</ref>
+
+==Sejarah==
+Igis pertama kali dikenal sejak tahun 840 dengan nama ''Ovinae/Aviuns''. Pada 1149, namanya menjadi ''Auuine'', pada 1225 namanya ''Huiuns'' dan pada 1253 namanya menjadi ''Yges''.<ref name=HDS_Igis>{{HDS|1598|Igis}}</ref> Sedangkan Mastrils pertama kali dikenal sejak 1318 dengan nama ''Ponstrils''. Pada 1345, namanya menjadi ''Bastrils''.<ref name=HDS_Mastrils>{{HDS|1599|Mastrils}}</ref>
+
+==Wilayah==
+Lanquart memiliki wilayah seluas {{Swiss area|3955|mi=on}}.{{Swiss area data|3955|QUELLE}}
+
+==Penduduk==
+Landquart dihuni oleh 8.498 jiwa. Berikut adalah bagan perkembangan penduduknya.<ref>[http://www.pxweb.bfs.admin.ch/Database/German_40%20-%20Eidgen%C3%B6ssische%20Volksz%C3%A4hlung/40.4%20-%201850-2000/40.4%20-%201850-2000.asp?lang=1&prod=40&secprod=4&openChild=trueBadan Pusat Statistik Federasi Swiss STAT-TAB Bevlkerungsentwicklung nach Region, 1850-2000] {{de icon}} diakses pada 29 Januari 2011</ref>
+<timeline>
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.8)
+ImageSize  = width:1100 height:500
+PlotArea   = height:350 left:100 bottom:90 right:100
+Legend     = columns:3 left:220 top:70 columnwidth:160
+AlignBars  = justify
+DateFormat = x.y
+Period     = from:0 till:7800
+TimeAxis   = orientation:vertical
+AlignBars  = justify
+ScaleMajor = gridcolor:darkgrey increment:2000 start:0
+ScaleMinor = gridcolor:lightgrey increment:400 start:0
+Colors=
+ id:IG     value:yellowgreen      legend:Igis
+ id:MA     value:green          legend:Mastrils
+PlotData=
+  color:yellowgreen width:30   mark:(line,white) align:center
+  bar:1850 from: 0 till:637 text:"637" color:IG
+  bar:1860 from: 0 till:579 text:"579" color:IG
+  bar:1870 from: 0 till:723 text:"723" color:IG
+  bar:1880 from: 0 till:989 text:"989" color:IG
+  bar:1890 from: 0 till:1057 text:"1.057" color:IG
+  bar:1900 from: 0 till:1201 text:"1.201" color:IG
+  bar:1910 from: 0 till:1792 text:"1.792" color:IG
+  bar:1920 from: 0 till:2159 text:"2.159" color:IG
+  bar:1930 from: 0 till:2197 text:"2.197" color:IG
+  bar:1940 from: 0 till:2424 text:"2.424" color:IG
+  bar:1950 from: 0 till:2794 text:"2.794" color:IG
+  bar:1960 from: 0 till:3902 text:"3.902" color:IG
+  bar:1970 from: 0 till:5283 text:"5.283" color:IG
+  bar:1980 from: 0 till:5392 text:"5.392" color:IG
+  bar:1990 from: 0 till:6583 text:"6.583" color:IG
+  bar:2000 from: 0 till:7228 text:"7.228" color:IG
+  bar:1850 from: 637 till:1097 text:"460" color:MA
+  bar:1860 from: 579 till:1010 text:"431" color:MA
+  bar:1870 from: 723 till:1107 text:"384" color:MA
+  bar:1880 from: 989 till:1374 text:"385" color:MA
+  bar:1890 from: 1057 till:1436 text:"379" color:MA
+  bar:1900 from: 1201 till:1523 text:"322" color:MA
+  bar:1910 from: 1792 till:2221 text:"429" color:MA
+  bar:1920 from: 2159 till:2551 text:"392" color:MA
+  bar:1930 from: 2197 till:2628 text:"431" color:MA
+  bar:1940 from: 2424 till:2837 text:"413" color:MA
+  bar:1950 from: 2794 till:3227 text:"433" color:MA
+  bar:1960 from: 3902 till:4289 text:"387" color:MA
+  bar:1970 from: 5283 till:5747 text:"464" color:MA
+  bar:1980 from: 5392 till:5842 text:"450" color:MA
+  bar:1990 from: 6583 till:7168 text:"585" color:MA
+  bar:2000 from: 7228 till:7757 text:"529" color:MA
+</timeline>
+
+<gallery>
+File:Marschlins Allee.jpg|Jalan menuju Istana Marschlins
+File:Marschlins Ansicht Sdseite.jpg|Istana Marschlins dan lingkungan di sekitarnya
+File:Marschlins Front.jpg|Sisi depan Istana Marschlins
+File:Falkenstein Nordwand innen.jpg|Dinding utara Istana Falkenstein
+</gallery>
+
+==Referensi==
+{{reflist|colwidth=30em}}
+
+==Pranala luar==
+{{commons category|Landquart, Graubnden}}
+
+{{Munisipalitas di distrik Landquart}}
+
+{{DEFAULTSORT:Landquart, Graubunden}}

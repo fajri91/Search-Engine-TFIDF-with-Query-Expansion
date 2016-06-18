@@ -1,0 +1,145 @@
+Wikipedia:Wikizine/Arsip/2008-102
+<noinclude>{{Project:Wikizine/Kepala|judul='''Tahun 2008 Minggu 50 Nomor 42'''}} __NOTOC__ __NOEDITSECTION__</noinclude>
+{| style="border: 1px #aaa solid" width=90% align=center
+|- valign=top 
+| style="padding: 10px 20px 10px 10px; font-size: 95%" width="55%" |
+=== Berita teknis ===
+'''Perubahan nama Wiki'''
+:Huruf-huruf pertama dari URL di proyek-proyek Wikimedia menunjukkan kode bahasa dari proyek tersebut. Namun untuk beberapa kode bahasa akan berubah: Aromanian, Jerman Hilir, Moldova, dan Belarus. Domain lama dan interwiki akan dibuatkan pengalihannya.
+:* [http://thread.gmane.org/gmane.org.wikimedia.foundation/34563 "''Language codes to rename''"] di foundation-l
+
+'''WikimediaNotifier'''
+:Sebuah sistem notifikasi global telah dibuat untuk membuat pesan di Meta yang kemudian dikirim secara otomatis ke seluruh wiki. Tujuannya adalah untuk meningkatkan distribusi pesan-pesan penting internal ke komunitas. Pesan-pesan diposting di ruang nama bot [[meta:User:WikimediaNotifier|User:WikimediaNotifier]], tapi wiki-wiki dapat saja meminta untuk menaruh pesan-pesan ini di tempat lain seperti di Warung Kopi.
+:* [[meta:Global notifications|"''Global notifications''"]] di Meta-Wiki
+:* [[meta:Global notifications/how-to|Tanya-jawab "''Global notifications''"]] di Meta-Wiki
+
+'''Pengujian ekstensi MediaWiki'''
+:Banyak dari ekstensi yang ditulis untuk MediaWiki digunakan di luar Wikimedia Foundation. Instalasi tidak selalu mudah karena tidak ada jaminan bahwa ekstensi-ekstensi itu dapat bekerja. Situs web ExtensionTesting menyediakan sebuah lingkungan untuk menguji ekstensi-ekstensi itu sebelum menjadi rilis stabil bagi MediaWiki. Dengan cara ini, ekstensi-ekstensi dapat lebih mudah dan lebih dapat diprediksi ketika bekerja dengan perangkat lunak MediaWiki.
+:* [http://extensiontesting.wikiation.nl/Main_Page Situs web ExtensionTesting]
+
+'''Peta Interwiki'''
+:Peta interwiki telah diperbaharui. Artinya, banyak perubahan yang sekarang sudah aktif dalam peta ini. Sebagai contoh, sekarang kita dapat membuat pranala ke OTRS-ticket dengan interwiki <code>'''Ticket:'''</code>. Prefiks lama <code>'''OTRS:'''</code> telah rusak dan tidak ada dukungan untuk memperbaikinya.
+:* [[meta:Interwiki map|Daftar interwiki]] di Meta-Wiki
+
+'''MediaWiki Turnkey'''
+:Sebuah distro berbasis Ubuntu dibuat untuk satu tujuan: menjalankan MediaWiki. Ideal untuk menguji coba MediaWiki di komputer Anda sendiri.
+:* [[mw:TurnKey MediaWiki|TurnKey MediaWiki]] di situs web MediaWiki
+
+=== Permintaan bantuan ===
+'''Desainer web'''
+:Wikizine.org mencari bantuan sukarelawan yang dapat merealisasikan gagasan untuk membuat situs web yang berguna sekaligus dapat mendatangkan penghasilan untuk mendukung Wikizine.org.
+:* Hubungi [[meta:User:Walter]]
+
+=== Wikimedia Foundation ===
+'''Wikimedia Foundation'''
+:Stanton Foundation menyumbangkan US$ 890.000 bagi Wikimedia Foundation untuk mengembangkan cara yang lebih mudah dalam menulis dan mengubah artikel-artikel. Tujuannya adalah untuk meningkatkan kemampuan sehingga lebih banyak orang yang dapat menyunting artikel tanpa memerlukan pengetahuan teknis.
+:* [[wmf:Press releases/Wikipedia to become more user-friendly for new volunteer writers|Rilis pers WMF]]
+:* [[wmf:StantonGrantQA|Tanya jawab sumbangan Stanton]]
+
+'''Laporan keuangan audit WMF'''
+:Laporan keuangan audit WMF untuk periode 2007-2008 telah dipublikasikan. Anda dapat mengetahui angka-angka finansial resmi WMF dalam laporan ini.
+:* [http://thread.gmane.org/gmane.org.wikimedia.foundation/34390 "''Wikimedia Foundation's Audited Financial Statements on the Foundation Wiki''"] di foundation-l
+
+=== Legal ===
+'''Wikimedia Deutschland'''
+:Mitra lokal Wikimedia di Jerman, Wikimedia Deutschland e.V., meng-''host'' situs web [http://www.wikipedia.de www.wikipedia.de], yang menjadi semacam situs pencarian ke Wikipedia bahasa Jerman.
+
+:Pengadilan Jerman telah mengeluarkan perintah pengadilan untuk menonaktifkan sementara tautan dari situs web ini ke [[:de:Wikipedia bahasa Jerman|Wikipedia bahasa Jerman]]. Hal ini diakibatkan oleh perkara hukum antara Wikimedia Deutschland dan Lutz Heilmann, seorang anggota Parlemen Jerman (Bundestag), mengenai beberapa hal di artikel mengenai dirinya. Ia juga menuntut tiga pengguna Wikipedia yang menjadi kontributor artikel tersebut.
+
+:Perintah tersebut dicabut setelah 2,5 hari. Namun demikian, pemberitaan yang meluas mengenai kejadian ini malah meningkatkan donasi ke Wikimedia Deutschland secara signifikan.
+
+:* [[:de:Lutz Heilmann|Lutz Heilmann]] di Wikipedia bahasa Jerman
+:* [[:en:Lutz Heilmann|Lutz Heilmann]] di Wikipedia bahasa Inggris
+:* [[commons:Image:Wikimedia deutschland website 16 november 2008.gif|Tampilan layar www.wikipedia.de pada 16 November 2008]]
+
+'''Proposal Hak Cipta Komisi Eropa'''
+:Sebuah kelompok kerja gabungan mitra-mitra lokal Wikimedia di Eropa: Belanda, Jerman, Hongaria, dan Italia, telah menerbitkan reaksi atas proposal peraturan (''Green paper'') Komisi Eropa mengenai "Hak cipta dalam Ekonomi Pengetahuan''" ("''Copyright in the Knowledge Economy''").
+:* [http://nl.wikimedia.org/wiki/Groep_Groenboek/en Surat reaksi Wikimedia Belanda]
+:* [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=COM:2008:0466:FIN:EN:HTML Naskah proposal peraturan tersebut]
+
+'''Wikimedia Belanda'''
+:Sebuah permohonan peradilan pendahuluan diajukan oleh Bob Sijthoff melawan Wikimedia Belanda untuk mendapatkan identitas seorang pengguna dan penghapusan suatu artikel spesifik. Wikimedia Belanda tidak memiliki kapasitas legal maupun teknis untuk melakukan hal itu. Pengadilan dijadwalkan pada 10 Desember 2008.
+
+| style="padding: 10px 10px 10px 20px; border-left: 1px #aaa dotted; font-size: 95%" width="50%" |
+
+=== Agenda ===
+'''Konferensi WM Serbia'''
+:Konferensi Regional Wikimedia Serbia akan diadakan pada 19-21 Desember di ''Belgrade Youth Home'', Beograd.
+:* [http://thread.gmane.org/gmane.org.wikimedia.foundation/34612 "''Regional Conference of Wikimedia Serbia 2008''"] di foundation-l
+:* [http://rs.wikimedia.org/wiki/%D0%A2%D1%80%D0%B5%D1%9B%D0%B0_%D1%80%D0%B5%D0%B3%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D0%BD%D0%B0_%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D1%98%D0%B0 Konferensi Wikimedia Serbia]
+
+=== Komunitas ===
+'''Commons: Proyek Bundesarchiv'''
+:Arsip Federal Jerman telah memiliki 170.000 foto-foto digital sejak 2007. Penggunaan foto-foto ini tidak gratis. Setelah diskusi panjang dengan Wikimedia Jerman hampir 100.000 foto sekarang telah dilisensikan dengan lisensi cc-by-sa 3.0 DE. Foto-foto tersebut sekarang telah dimuatkan ke Commons.
+:* Perihal [[commons:Commons:Bundesarchiv|''Bundesarchiv'']] di Commons
+:* [[commons:Category:Images from the German Federal Archive|''Category:Images from the German Federal Archive'']] di Commons
+
+'''Logo baru Wikibooks'''
+:Proses pemilihan logo baru proyek Wikibooks telah mendekati akhir. Tinggal warna untuk logo baru yang harus diputuskan.
+:* [[meta:Wikibooks/Logo|Pemungutan suara logo Wikibooks]] di Meta-Wiki
+
+=== Media ===
+'''Sensor'''
+:Para penyedia jasa internet di Britania Raya telah memblokir artikel Wikipedia dan juga menyebabkan masalah untuk para pengguna di sana untuk menyunting Wikipedia. Artikel yang diblokir dianggap sebagai pornografi anak. Yang menarik adalah media Cina juga melaporkan pemblokiran Wikipedia di Britania Raya.
+:* [[wikinews:British ISPs restrict access to Wikipedia amid child pornography allegations|Artikel Wikinews mengenai masalah ini]]
+:* [[wmf:Press releases/Censorship of WP in the UK Dec 2008|Rilis pers WMF]]
+
+'''Winkler Prins'''
+:Winkler Prins adalah ensiklopedia dalam bahasa Belanda terakhir yang bertahan sejak didirikan pada tahun 1870. Winkler Prins mengumumkan bahwa edisi ke-10 tidak akan dipublikasikan lagi dalam bentuk kertas. Alasannya adalah karena kurangnya minat akan ensiklopedia dalam bentuk buku. Edisi ke-10 akan dipublikasikan secara daring (''online'') berdasarkan langganan.
+:* [http://www.deredactie.be/cm/de.redactie/cultuur%2Ben%2Bmedia/1.419229 "''Papieren Winkler Prins verdwijnt''"] di deredactie.be
+
+=== Statistik ===
+'''EN wp'''
+:Melihat sedikitnya statistik yang baik mengenai jumlah penyunting aktif di EN wp, pengguna Dragons flight telah membuat beberapa.
+:* [http://thread.gmane.org/gmane.science.linguistics.wikipedia.english/96575 "''EN Wikipedia Editing Statistics''"] di wikipedia-l
+:* Statistik [[:en:Wikipedia:Editing frequency|"''Editing frequency''"]] di enwiki
+
+'''NL Wikipedia'''
+:Wikipedia berbahasa Belanda telah menembus jumlah artikel 500.000
+
+'''Penggalangan dana'''
+:Beberapa statistik yang menunjukkan tingkat kesuksesan berbagai tampilan ''banners'' penggalangan dana.
+:* [http://thread.gmane.org/gmane.org.wikimedia.foundation/34559 "''Site Notices Phase 2 - Annual Fundraiser 2008''"] di foundation-l
+:* [http://blog.wikimedia.org/2008/11/25/wikimedias-fundraiser-which-banners-click/ "''Wikimedias fundraiser: Which banners click''"] di Wikimedia blog
+:* [http://blog.wikimedia.org/2008/11/14/2008-fundraiser-update/ "''2008 fundraiser update''"] di Wikimedia blog
+
+=== Berita lain ===
+'''Wikipedia Loves Art'''
+:''Wikipedia Loves Art'' adalah sebuah kontes fotografi isi bebas yang berkoordinasi dengan ''Brooklyn Museum'', ''Indiana Museum of Art'', ''Los Angeles County Museum'', ''Victoria and Albert Museum'', dan mungkin juga museum-museum lain di seluruh dunia, dengan tujuan untuk menggambarkan artikel-artikel Wikipedia. Acara ini rencananya akan diadakan sepanjang bulan Februari 2009, dan nama ini juga diambil dalam rangka Hari Valentine.
+:* [[:en:Wikipedia:Wikipedia Loves Art|"''Wikipedia Loves Art''"]] di Wikipedia bahasa Inggris
+:* [http://www.flickr.com/groups/wikipedia_loves_art/ "''Wikipedia Loves Art''"] di flickr
+
+'''WikiVoices'''
+:Siaran ''podcast'' "Not The Wikipedia Weekly" berubah nama menjadi WikiVoices.
+:* [[meta:WikiVoices|"''WikiVoices''"]] di Wikimedia Meta-Wiki
+
+=== Kutipan ===
+'''''"Fair use is not a right. [..] Fair use is only a... ...legal defensible position" ~ A Fair(y) Use Tale!'''''<br />
+<small>"Penggunaan secara wajar itu bukan hak. [..] Penggunaan wajar hanyalah sebuah... ...sikap hukum yang bisa dipertahankan." ~ Sebuah dongeng penggunaan wajar!</small>
+:* [http://dotsub.com/view/4918f3c8-8f04-4aa1-b300-39048dca6822 "''A Fair(y) Use Tale''"] di dotSUB
+
+|}
+{| width="90%" align="center" style="font-size:90%"
+|- valign="top"
+| style="padding: 10px 0 0 0" width="50%" |
+'''Wikizine bahasa Inggris'''
+* Editor: Walter, Anonymous
+* Terima kasih: Angela, Ellywa, GerardM
+* Terima kasih khusus: Sannse
+* Kontak: http://report.wikizine.org
+* Situs web: http://www.wikizine.org
+| style="padding: 10px 0 0 0" |
+'''Wikizine bahasa Indonesia'''
+* Editor: REX, Meursault2004
+* Pelanggan: 22 pelanggan surat-e terdaftar.
+* Sumber: Wikizine EN
+|-
+| style="padding: 10px 0 0 0" colspan="2" |
+----
+'''Wikizine''' tidak menjamin akurasi, validitas, dan khususnya tapi tidak terbatas kepada, tatabahasa dan ejaan. Kepuasan tidak dijamin. Wikizine dipublikasikan oleh [[meta:user:Walter]], dan bukan publikasi Wikimedia Foundation. '''Wikizine bahasa Indonesia bukan publikasi Wikimedia Indonesia.'''
+
+Wikizine adalah publikasi tidak regular sepanjang tersedia berita yang penting (dan waktu). Jika memungkinkan, Wikizine akan diterbitkan sebanyak dua kali dalam satu bulan. Konten tersedia di bawah [[:id:Wikipedia:Lisensi Dokumentasi Bebas GNU|Lisensi Dokumentasi Bebas GNU]]. http://www.gnu.org/copyleft/fdl.html
+----
+Terbitan Wikizine bahasa Indonesia edisi ini telah dikirimkan melalui milis [http://mail.wikizine.org/mailman/listinfo/id-l_wikizine.org id-l wikizine] sebelumnya pada 17 Desember 2008 ('''[[:id:Wikipedia:Wikizine/Berlangganan|mendaftar]]''').
+----
+|}

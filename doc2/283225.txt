@@ -1,0 +1,13 @@
+Templat:Pahandut, Palangka Raya
+{{Navigasi ID Desa |provinsi=Kalimantan Tengah|dati2=Kota |nama dati2=Palangka Raya
+|nama kecamatan=Pahandut
+|k1= Langkai
+|k2= Pahandut
+|k3= Pahandut Seberang
+|k4= Panarung
+|k5= Tanjung Pinang
+|k6= Tumbang Rungan
+}}<noinclude>
+[[Kategori:Templat desa/kelurahan di Kalimantan Tengah|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kota Palangka Raya|{{PAGENAME}}]]
+</noinclude>

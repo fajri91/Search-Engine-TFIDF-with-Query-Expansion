@@ -1,0 +1,17 @@
+Templat:Ngaliyan, Semarang
+{{Navigasi ID Desa |provinsi= Jawa Tengah |dati2= Kota |nama dati2= Semarang
+|nama kecamatan= Ngaliyan
+|k1= Bambankerep
+|k2= Bringin
+|k3= Gondoriyo
+|k4= Kalipancur
+|k5= Ngaliyan
+|k6= Podorejo
+|k7= Purwoyoso
+|k8= Tambakaji
+|k9= Wates
+|k10= Wonosari
+}}<noinclude>
+[[Kategori:Templat desa/kelurahan di Jawa Tengah|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kota Semarang|{{PAGENAME}}]]
+</noinclude>

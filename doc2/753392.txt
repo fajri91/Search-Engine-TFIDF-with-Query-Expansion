@@ -1,0 +1,14 @@
+Berkas:Puppykat.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+Sumber: http://rareandexoticfelinereg.homestead.com/files/ppk044.jpg
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Fairuse}}

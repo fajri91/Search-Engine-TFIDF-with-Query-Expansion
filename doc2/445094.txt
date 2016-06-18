@@ -1,0 +1,39 @@
+Aksara Manipuri
+{{Infobox Writing system
+|name=Aksara Manipuri
+|altname=Meetei Mayek
+|type=abugida
+|languages=[[bahasa Manipuri|Manipuri (Meetei)]]
+|region=[[Manipur]]
+|sample=Meithei manuscript, a Indian language.jpg
+|unicode=[http://www.unicode.org/charts/PDF/UABC0.pdf U+ABC0..U+ABFF]<br />[http://www.unicode.org/charts/PDF/UAAE0.pdf U+AAE0..U+AAFF]
+|iso15924=Mtei
+}}
+'''Aksara Manipuri''' (juga dikenal sebagai '''Meithei Mayek''', '''Meitei Mayek''') ([[bahasa Manipuri]]: ''Meetei Mayek'') adalah suatu [[abugida]] yang digunakan untuk menulis [[bahasa Manipuri|bahasa Manipuri (Meitei)]], salah satu [[bahasa resmi]] di [[Manipur]], negara bagian [[India]], sampai abad ke-18, dan digantikan oleh [[aksara Bengali]]. Hanya sedikit peninggalan arkeologis yang tersisa. Pada abad ke-20, aksara ini dibangkitkan kembali.
+
+Aksara Manipuri adalah anggota [[rumpun aksara Brahmi]] dengan sejarah yang tidak pasti. Karena [[bahasa Manipuri]] tidak mengandung [[konsonan]] [[suara (fonetik)|bersuara]], hanya ada lima belas [[huruf]] konsonan yang digunakan untuk menuliskan bahasa asli Manipur, ditambah tiga huruf untuk [[vokal]] murni. Sembilan konsonan tambahan lainnya diwarisi melalui kata serapan dari India. Ada tujuh diakritik bunyi vokal dan satu diakritik konsonan akhir untuk bunyi ({{IPA|//}}). Setiap huruf dinamai menurut bagian tubuh manusia.
+
+== Unicode ==
+Aksara Manipuri (Meitei Mayek) ditambahkan dalam standar [[Unicode]] pada Oktober 2009 dengan versi 5.2.
+
+== Referensi ==
+{{reflist}}
+* Chelliah, Shobhana L. (1997). ''A grammar of Meithei''. Berlin: Mouton de Gruyter. ISBN 0-19-564331-3.
+* Chelliah, Shobhana L. (2002). Early Meithei manuscripts. In C. I. Beckwith (Ed.), ''Medieval Tibeto-Burman languages: PIATS 2000: Tibetan studies: Proceedings of the ninth seminar of the International Association of Tibetan Studies, Leiden 2000'' (pp.&nbsp;5971). Leiden, Netherlands: Brill.
+* Chelliah, Shobhana L. (2002). A glossary of 39 basic words in archaic and modern Meithei. In C. I. Beckwith (Ed.), ''Medieval Tibeto-Burman languages: PIATS 2000: Tibetan studies: Proceedings of the ninth seminar of the International Association of Tibetan Studies, Leiden 2000'' (pp.&nbsp;189190). Leiden, Netherlands: Brill.
+
+== Pranala luar ==
+* [http://www.e-pao.net/channel.asp?what=MeiteiMayek Meitei Mayek Channel : E-Pao.Net]
+* [http://tabish.freeshell.org/eeyek/ Meetei Mayek]
+* [http://www.omniglot.com/writing/manipuri.htm Omniglot, a guide to written language]
+* [http://www.e-pao.net/epPageExtractor.asp?src=MeiteiMayek.meetei_mayek_Poems.html../ Contemporary Meetei Mayek based Poetry]
+
+{{jenis aksara|state=show|state2=show}}
+
+{{aksara-stub}}
+
+[[Kategori:Bahasa di India]]
+[[Kategori:Bahasa di Bangladesh]]
+[[Kategori:Bahasa di Myanmar]]
+[[Kategori:Bahasa Tibeto-Burma]]
+[[Kategori:Rumpun aksara Brahmi|Manipuri]]

@@ -1,0 +1,2075 @@
+Kyouiku kanji
+{{Penulisan bahasa Jepang}}
+{{terjemah-en}}
+{{nihongo|'''''Kyiku kanji'''''|||secara harfiah "pendidikan kanji"}}, juga dikenal sebagai {{nihongo|'''''Gakunenbetsu kanji haithy'''''|||secara harfiah "daftar kanji berdasarkan [[tahun ajaran]]"}} adalah sebuah daftar dari 1,006 [[kanji]] dan bacaan yang berkaitan dikembangkan dan dikelola oleh [[Departemen Pendidikan, Budaya, Olahraga, Sains dan Teknologi (Jepang) | Kementerian Pendidikan Jepang]] yang menentukan kanji yang mana, dan bacaan kanji yang mana, murid sekolah Jepang harus mempelajari pada setiap tahun Sekolah Dasar. Meskipun daftarnya didesain untuk anak-anak Jepang, itu juga dapat itu juga bisa digunakan sebagai urutan karakter belajar dengan non-penutur asli sebagai alat untuk berfokus pada yang paling umum dipakai kanji.
+
+Kyiku kanji adalah himpunan bagian dari [[Jy kanji]].
+
+==Versi dari daftar kyiku==
+[[File:2230 Basic Kanji.svg|right|300px|thumb|Sebuah daftar dari semua [[jy kanji]], dengan kyiku kanji dalam warna merah, menurut [[Kamus Pelajar Kodansha Kanji|sistem pengurutan KLD Halpern]].]]
+
+*1946 dibuat dengan 881 karakter
+*1977 diperluas menjadi 996 karakter
+*1982 diperluas menjadi 1,006 karakter
+
+==Daftar berdasarkan tingkatan==
+Catatan 1: Banyak kanji memiliki arti yang kompleks dan bernuansa, atau menyatakan konsep tidak ditemukan dalam bahasa Indonesia. Dalam kasus-kasus, makna bahasa Indonesia yang disebutkan di sini merupakan pendekatan yang terbaik. 
+
+Catatan 2: Di dalam [[Kanji#Kun'yomi (bacaan bahasa Jepang) |Kun]] bacaan, bacaan setelah - (tanda penghubung)  adalah [[Okurigana]].
+===Tingkat Pertama (80 kanji)===
+{| class="wikitable"
+ | '''Kanji''' ||  '''Arti''' || '''[[Kanji#On.27yomi_.28Bacaan_bahasa_Cina.29|On]]''' || '''[[Kanji#Kun.27yomi_.28Bacaan_bahasa_Jepang.29|Kun]]'''
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  satu  || ichi, itsu || hito-tsu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  dua  || ni, ji || futa-tsu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  tiga  || san|| mit-tsu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  empat  || shi || yot-tsu atau yon
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  lima  || go || itsu-tsu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  enam  || roku || mut-tsu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  tujuh  || shichi || nana-tsu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  delapan  || hachi || yat-tsu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  sembilan  || ku atau ky || kokono-tsu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  sepuluh  || j || t
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  ratusan  || hyaku || momo
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  ribuan  || sen || chi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  atas  || j || ue
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  bawah  || ka atau ge || shita
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kiri  || sa || hidari
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kanan  || u atau y || migi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  di dalam, tengah || ch  || naka
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  besar  || dai || -kii
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kecil  || sh || chii-sai
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  bulan  || gatsu atau getsu || tsuki
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  hari; matahari  || nichi || hi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  tahun  || nen || toshi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  awal  || s || haya-i
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  pohon  || moku; boku || ki
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  pepohonan  || rin || hayashi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  gunung  || san || yama
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  sungai  || sen || kawa
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  tanah  || do || tsuchi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  langit  || k || sora
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  sawah  || den || ta
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  surga; langit  || ten || ama
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  hidup  || sei atau sh || i-kiru atau u-mu atau nama
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  bunga  || ka || hana
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  rumput  || s || kusa
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  serangga  || ch || mushi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  anjing  || ken || inu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  orang  || jin atau nin || hito
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  nama   || mei atau my || na
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  wanita  || jo atau nyo || on'na
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  pria  || dan atau nan || otoko
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  anak  || shi atau su || ko
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  mata  || moku || me
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  telinga  || ji atau ni || mimi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  mulut  || k || kuchi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  tangan  || shu || te
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kaki || soku || ashi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  melihat  || ken || mi-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  suara  || on || ne atau oto
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kekuatan  || riki atau ryoku || chikara
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  jiwa; semangat || ki atau ke
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  lingkaran; yen || en || maru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  masuk  || ny || hai-ru atau i-ru 
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  keluar  || shutsu || de-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  berdiri  || ritsu || ta-tsu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  istirahat  || ky || yasu-mu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  sebelumnya  || sen || saki
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  malam  || seki  || y
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  buku  || hon || moto
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  penulisan  || bun atau mon || fumi 
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  karakter; huruf  || ji || azana 
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  belajar  || gaku || mana-bu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  sekolah  || k
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  desa  || son || mura
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kota  || ch || machi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  hutan  || shin || mori
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  benar   || sei || tada-shii
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  air  || sui || mizu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  api  || ka || hi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  batu permata  || gyoku || tama
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  raja  || 
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  batu  || seki || ishi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  bambu  || chiku || take
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  benang  || shi || ito
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kerang-kerangan || || kai
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kendaraan beroda  || sha || kuruma
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  emas  || kin || kane
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  hujan  || u || ame
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  merah  || seki || aka
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  biru  || sei || ao
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  putih  || haku || shiro
+|}
+
+===Tingkat kedua (160 kanji)===
+{| class="wikitable"
+ | '''Kanji''' ||'''Arti''' || '''[[Kanji#On.27yomi_.28Bacaan_bahasa_Cina.29|On]]''' || '''[[Kanji#Kun.27yomi_.28Bacaan_bahasa_Jepang.29|Kun]]'''
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||angka  || s || kazu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||banyak  || ta || -i
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||sedikit  || sh || suku-nai,suko-shi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||sepuluh ribu  || man || yorozu
+ |-
+ | {{lang|ja|[[wiktionary:|]]}} ||setengah  || han || naka-ba
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  bentuk  || kei atau gy || katachi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  gemuk  || ta || futo-i
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kurus  || sai || hoso-i
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  lebar; luas  || k || hiro-i
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  panjang  || ch || naga-i
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  titik; poin  || ten || bochi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  lingkaran  || gan || maru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  campur  || k || maji-waru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  cahaya  || k || hikari
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  sudut, pojok  || kaku || kado,tsuno,sumi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  pengukuran  || kei || haka-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  lurus, benar  || choku,jiki || tada-chi,nao-su
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  garis  || sen
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  panah  || shi || ya
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  lemah  || jaku || yowa-i
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kuat  || ky || tsuyo-i
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  tinggi  || k || taka-i
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  sama  || d || ona-ji
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  orang tua  || shin || oya
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  ibu  || bo || haha,kaa
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  ayah  || fu || chichi,tou
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kakak perempuan  || shi || ane
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kakak laki-laki  || kei || ani
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  adik laki-laki  || tei atau dai || otouto
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  adik perempuan  || mai || imto
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  diri sendiri  || ji atau shi || mizuka-ra
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  teman  || y || tomo
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  badan  || tai || karada
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  rambut  || m || ke
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kepala  || t || atama
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  wajah  || gan || kao
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  leher  || shu || kubi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  hati  || shin || kokoro
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  waktu  || ji || toki
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  hari dalam seminggu  || y
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  pagi  || ch || asa
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  siang  || ch || hiru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  malam  || ya || yoru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  menit; mengerti  || fun,bun || wa-karu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  minggu || sh
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  musim semi  || shun || haru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  musim panas  || ka || natsu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  musim gugur  || sh || aki
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  musim dingin  || t || fuyu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  sekarang  || kon || ima
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  baru  || shin || atara-shii
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  tua  || ko || furu-i
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  selang waktu  || kan,ken || ma,aida
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  arah  || h || kata
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  utara  || hoku || kita
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  selatan  || nan || minami
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  timur  || t || higashi,azuma
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  barat  || sei atau sai || nishi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  jauh || en || t-i
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  dekat  || kin || chika-i
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  di depan  || zen || mae
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  di belakang  || go,kou || nochi,ushi-ro,ato
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  di dalam  || nai || uchi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  di luar  || gai atau ge || soto,hoka,hazu-su
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  tempat  || j || ba
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  tanah (tempat)  || chi atau ji
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  negara  || koku || kuni
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  taman  || en || sono
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  lembah  || koku || tani
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  lapangan  || ya || no
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  lapangan, asal  || gen || hara
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  desa  || ri || sato
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kota  || shi || ichi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  ibukota  || ky atau kei || miyako
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  angin  || f || kaze
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  salju  || setsu || yuki
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  awan  || un || kumo
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  danau  || chi || ike
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  laut  || kai || umi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  batu  || gan || iwa
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  bintang  || sei || hoshi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  ruangan  || shitsu || muro
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  pintu  || ko || to atau be
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  rumah  || ka atau ke || ie
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kuil orang Buddha  || ji || tera
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  melalui  || ts || t-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  gerbang  || mon || kado
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  jalan  || d || michi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  berbicara  || wa || hanashi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  bicara  || gen,gon || i-u,koto
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  menjawab  || t || kota-eru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  suara  || sei || koe
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  mendengar  || bun atau mon || ki-ku
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  bahasa  || go || kata-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  membaca  || doku || yo-mu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  tulis  || sho || ka-ku
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  menuliskan  || ki || shiru-su
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kertas || shi || kami
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  gambar  || ga atau kaku
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  gambar  || kai || e
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  gambar  || zu || haka-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kerajinan  || k atau ku
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  mengajarkan  || ky || oshi-eru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  baik  || sei || hare
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  berpikir  || shi || omo-u
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  berfikir tentang  || k || kanga-eru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  mengetahui  || chi || shi-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kelebihan, kemampuan || sai,zai || wazukani,zae
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  tanggapan  || ri || kotowari
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  menghitung  || san
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  membuat  || saku || tsuku-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  yang asli  || gen atau gan || moto
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  makan, makanan  || shoku || ta-beru,ku-u
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  daging  || niku
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kuda  || ba || uma atau ma
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  sapi  || gy || ushi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  ikan  || gyo || uo atau sakana
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  burung  || ch || tori
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  bulu  || u || ha atau hane
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kicauan  || mei || na-ku
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  gandum  || baku || mugi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  beras  || bei atau mai || kome
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  teh  || cha atau sa
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  warna  || shoku || iro
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kuning  ||  || ki
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  hitam  || koku || kuro
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  datang  || rai || ku-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  pergi  || k atau gy || i-ku,yu-ku,okonau
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  pulang  || ki || kae-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  berjalan  || ho || aru-ku,ayu-mu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  berlari  || s || hashi-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  berhenti  || shi || to-maru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  aktif  || katsu || i-kiru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  toko  || ten || mise
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  beli  || bai || ka-u
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  jual  || bai || u-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  tengah hari || go || uma
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  uap  || ki
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  busur, panah  || ky || yumi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  (pada) zaman-, berputar  || kai
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  asosiasi  || kai atau e || a-u
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  asosiasi, kelompok  || so || kumi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kapal  || sen || fune
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  terang  || mei || aka-rui
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  perusahaan  || sha || yashiro
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  potong  || setsu || ki-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  listrik  || den
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  setiap  || mai
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  cukup, ukuran  || g || a-u
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  memukul  || t || a-taru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  dasar  || dai atau tai
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kesenangan  || raku || tano-shii
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  publik  || kou || yake
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  tarik  || in || hi-ku
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  bagian  || ka
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  lagu  || ka || uta
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  pedang  || t || katana
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  angka  || ban
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  pakai  || y || mochi-iru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  apa  || ka || nani atau nan
+|}
+
+===Tingkat tiga (200 kanji)===
+ 
+{| class="wikitable"
+ | '''Kanji''' ||  '''Arti''' || '''[[Kanji#On.27yomi_.28Bacaan_bahasa_Cina.29|On]]''' || '''[[Kanji#Kun.27yomi_.28Bacaan_bahasa_Jepang.29|Kun]]'''
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  pasangan  || ch
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  dunia  || sei atau se || yo
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  bersama  || ry
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  guru  || shu || nushi atau omo
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  naik, kendaraan  || j || no-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  di muka  || yo ||
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  hal abstrak  || ji || koto
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  melayani  || shi || tsuka-eru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  yang lainnya  || ta || hoka
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  pengganti  || dai atau tai || ka-waru atau yo
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  mendiami  || j || su-mu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  memakai  || shi || tsuka-u
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  penanggungjawab  || kei || kakari atau kaka-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  ganda  || bai
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  seluruh  || zen || matta-ku
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  alat  || gu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  salin  || sha || utsu-su
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  baris, daftar  || retsu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  bantu  || jo || tasu-keru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  ketekunan  || ben || tsuto-meru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  bergerak  || d || ugo-ku
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  menang  || sh || ka-tsu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  menyamar, -ifikasi  || ka || ba-keru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  bangsal  || ku
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  dokter  || i
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  meninggalkan  || kyo atau ko || sa-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  anti-  || han || so-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  mengambil  || shu || to-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  menerima  || ju || u-keru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  angka  || g
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  wajah(v.)  || k || mu-kau
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kamu  || kun || kimi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  rasa  || mi || aji atau aji-wau
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  hidup  || mei || inochi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  damai, jumlah  || wa
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  artikel  || hin || shina
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  anggota  || in
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  perdagangan  || sh
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  pertanyaan  || mon || to-u atau ton
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  lereng  || || saka
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  tengah  || 
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  memulai  || shi || haji-meru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  komite  || i || yuda-neru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  melindungi  || shu || mamo-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  murah  || an || yasu-i
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  memperbaiki  || tei atau j || sada-meru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  buah atau isi  || jitsu || mi atau mino-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  tamu  || kyaku
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  tempat suci Shinto atau pangeran (puteri)  || ky || miya
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  penginapan  || shuku || yado atau yado-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  dingin  || kan || samu-i
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kebalikan  || tai
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kantor  || kyoku
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  alasan  || oku || ya
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  pantai  || gan || kishi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  pulau  || t || shima
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  negara  || sh
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  buku rekening  || ch
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  datar  || hei atau by|| tai-ra atau hira
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kesenangan  || k || saiwa-i atau shiawa-se
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  derajat, kejadian  || do
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  gudang  || ko
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  taman  || tei || niwa
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  bentuk, model  || shiki
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  peran  || yaku
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  menunggu  || tai || ma-tsu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  cepat  || ky || iso-gu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  napas  || soku || iki
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  buruk  || aku || waru-i
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  sedih  || hi || kana-shii
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  fikir  || s
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  ide  || i
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  merasakan  || kan
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  tempat  || sho || tokoro
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  memukul  || da || u-tsu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  melempar  || t || na-geru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  mengambil  || || hiro-u
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  menahan  || ji || mo-tsu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  jari, tangan  || shi || yubi atau sa-su
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  melepaskan  || h || hana-su
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  mengurutkan  || sei || totono-eru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  perjalanan  || ryo || tabi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  suku  || zoku
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  zaman dahulu  || || mukashi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  bersih  || sh
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  panas  || sho || atsu-i
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  gelap  || an || kura-i
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  lembaran musik/bengkok || kyoku || ma-garu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  menjadi, milik  || y || a-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  pakaian  || fuku
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  waktu  || ki
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  papan  || han atau ban || ita
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  tiang  || ch || hashira
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  akar  || kon || ne
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  tumbuhan  || shoku || u-eru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  bisnis  || gy
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  penampilan dari Pak (Pak,Bu)  || y || sama
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  samping  ||  || yoko
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  jembatan  || ky || hashi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  selanjutnya  || ji || tsugi atau tsu-gu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  gigi  || shi || ha
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  mati  || shi || shi-nu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  es  || hy || kri
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  memutuskan; menentukan  || ketsu || ki-meru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  minyak  || yu || abura
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  gelombang  || ha || nami
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  tuang  || ch || soso-gu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  berenang  || ei || oyo-gu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  samudera, kebarat-baratan  || y
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  aliran  || ry || naga-reru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  memadamkan  || sh || ki-eru atau ke-su
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  dalam, kedalaman  || shin || fuka-i
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  hangat  || on || atata-kai
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  pelabuhan  || k || minato
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  danau  || ko || mizmi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  air panas  || t || yu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  Cina  || kan
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  arang  || tan || sumi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  hal  || butsu atau motsu || mono
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  bola  || ky || tama
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  alasan  || y atau yu|| yoshi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  mengatakan  || || m-su
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  dunia  || kai
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  lapangan pertanian  || || hata atau hatake
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  sakit, penyakit  || by || yamai
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  keberangkatan  || hatsu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  mendaki  || t atau to || nobo-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kulit  || hi || kawa
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  hidangan  || || sara
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  saling, bersama  || s || ai
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  Prefektur  || ken
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  benar  || shin || ma
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  mengenakan atau sampai  || chaku || ki-ru atau tsu-ku
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  pendek  || tan || mijika-i
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  meruncingkan  || ken || to-gu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  terima kasih  || rei
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  dewa  || shin atau jin || kami
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  festival  || sai || matsu-ri
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  keberuntungan  || fuku
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  detik  || by
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  penelitian  || ky
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  bab  || sh
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  remaja  || d
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  peluit  || teki || fue
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  urutan nomor awalan  || dai
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kuas untuk menulis  || hitsu || fude
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kelas  || t || hito-shii
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kotak  || || hako
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  pangkat, tingkat  || ky
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  akhir  || sh || o-waru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  hijau  || ryoku || midori
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  berlatih  || ren || ne-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  domba  || y || hitsuji
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kecantikan  || bi || utsuku-shii
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  mempelajari  || sh || nara-u
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  seseorang  || sha || mono
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  memelihara, mengasuh  || iku || soda-tsu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  menderita  || ku || kuru-shii atau niga-i
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  bagasi  || ka || ni
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  jatuh  || raku || o-chiru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  daun  || y || ha
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  obat  || yaku || kusuri
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  darah  || ketsu || chi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  daftar atau permukaan  || hy || omote atau arawa-su
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  sajak, syair  || shi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  investigasi  || ch || shira-beru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  membahas  || dan
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kacang  || t atau zu || mame
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kalah  || fu || ma-keru atau o-u
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  bangun  || ki || o-kiru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  jalan  || ro || ji
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  badan  || shin || mi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  berputar  || ten || koro-bu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  ringan  || kei || karu-i
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  pertanian  || n
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kembali  || hen || kae-su
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  mengikuti  || tsui || o-u
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  mengirim  || s || oku-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  cepat  || soku || haya-i
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kemajuan  || shin || susu-mu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  bermain  || y || aso-bu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  membawa  || un || hako-bu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  bagian  || bu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kota besar  || to atau tsu || miyako
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  mendistribusikan  || hai || kuba-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  sake  || shu || sake atau saka
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  berat  || j atau ch || omo-i atau kasa-neru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  besi  || tetsu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  perak  || gin
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  buka  || kai || hira-ku atau a-ku
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  lembaga  || in
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  sinar matahari  || y
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  lantai dari sebuah bangunan  || kai
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  mengumpulkan  || sh || atsu-maru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  wajah  || men|| omo-te atau tsura
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  topik  || dai
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  minum  || in || no-mu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  bangunan publik  || kan
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  stasiun  || eki
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  hidung  || bi || hana
+|}
+
+===Tingkat empat (200 kanji)===
+ 
+{| class="wikitable"
+ | '''Kanji''' ||  '''Arti''' || '''[[Kanji#On.27yomi_.28Bacaan_bahasa_Cina.29|On]]''' || '''[[Kanji#Kun.27yomi_.28Bacaan_bahasa_Jepang.29|Kun]]'''
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  bukan  || fu atau bu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  konflik  || s || araso-u
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  menyisipkan  || fu || tsu-ku
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  perintah  || rei
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  sejak  || i
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  pergi-antara  || ch || naka
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  mengirimkan  || den || tsuta-eru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  peringkat  || i || kurai
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  rendah  || tei || hiku-i
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  contoh  || rei || tato-eru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kenyamanan  || ben atau bin || tayo-ri
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  mempercayai  || shin
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  penyimpanan  || s || kura
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  iklim  || k
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  meminjam  || shaku || ka-riru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  menghentikan  || tei
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  sehat  || ken
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  sisi  || soku || kawa
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kerja  || d || hatara-ku
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  ratusan juta  || oku
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  pertanda atau triliun  || ch || kiza-shi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  anak  || ji atau ni
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  bersama  || ky || tomo
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  tentara  || hei atau hy || tsuwamono
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kode  || ten
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  dingin  || rei || tsume-tai atau hi-eru atau sa-meru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  pertama  || sho || hatsu atau haji-me
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  memisahkan  || betsu || waka-reru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  keuntungan  || ri
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  percetakan  || satsu || su-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  asisten-, sub-  || fuku
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  pencapaian  || k
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  tambahkan  || ka || kuwa-eru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kerja keras  || do || tsuto-meru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  tenaga kerja  || r || negira-u
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  keberanian  || y || isa-mu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  lipatan; bungkus  || h || tsutsu-mu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  lulusan  || sotsu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kerjasama  || ky
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  sederhana  || tan
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  Dr.  || haku
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  tanda  || in || shirushi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  partisipasi ||  san  || mai-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  sejarah  || shi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  direktor  || shi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  setiap  || kaku || ono-ono
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  mengatakan  || koku || tsu-geru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  keliling  || sh || mawa-ri
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  nyanyian  || sh || tona-eru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  sukacita  || ki || yoroko-bu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  wadah  || ki || utsuwa
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  mengelilingi  || i || kako-u
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  mengeraskan  || ko || kata-maru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  model  || kei || kata
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kamar publik  || d
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  garam  || en || shio
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  lelaki (gentleman)  || shi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  ubah  || hen || ka-waru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  suami  || fu fuu bu || otto
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kalah  || shitsu || ushina-u
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  suka  || k || su-ku atau kono-mu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  musim  || ki
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  cucu  || son || mago
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  sempurna  || kan
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kantor pemerintah  || kan
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  merugikan  || gai
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  tebak  || satsu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  sarang  || s || su
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kejelasan; perbedaan  || sa
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  harap  || ki || mare
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kursi; bangku  || seki
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  sabuk  || tai || obi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  paling bawah  || tei || soko
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  prefektur  || fu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  santai; kemudahan  || k
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  membangun  || ken || ta-teru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  diameter  || kei
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  junior  || to
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  terima  || toku || e-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  tanpa kegagalan  || hitsu || kanara-zu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  pikiran  || nen
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  cinta  || ai
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  menjadi  || sei || na-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  perang  || sen || ikusa atau tataka-u
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  lipat  || setsu || o-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  angkat  || kyo || a-geru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  reformasi  || kai || arata-meru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  tobat  || ky || suku-u
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kegagalan  || hai || yabu-reru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  sebar; pecah  || san || chi-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  biaya  || ry
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  bendera negara  || ki || hata
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  sebelumnya  || saku
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  pemandangan  || kei
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  paling; ter-  || sai || mo atau motto-mo
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  harapan  || b || nozo-mu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  tak di-  || mi || ima-da
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  akhir  || matsu || sue
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  tag  || satsu || fuda
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kayu  || zai
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  bundel  || soku || taba atau tsuka
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  pohon pinus  || sh || matsu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  buah  || ka || ha-tasu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kesejahteraan  || ei || saka-eru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  rencana  || an
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  aprikot || bai || ume
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kontrapsi  || kai
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  galah; tiang listrik  || kyoku || kiwa-meru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  tanda arah  || hy
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  mesin  || ki || hata
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kurang  || ketsu || ka-keru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kurikulum  || reki
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  sisa  || zan || noko-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  bunuh  || satsu || koro-su
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  racun  || doku
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  nama belakang  || shi || uji
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  rakyat  || min || tami
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  permintaan  || ky || moto-mu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  memerintah; mengutus  || chi atau ji || osa-meru atau nao-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  metode  || h
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  tangis  || ky || na-ku
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  dangkal  || sen || asa-i
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  mandi  || yoku || abi-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  suci  || sei atau sh || kiyo-raka
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  penuh  || man || mi-chiru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  memancing  || ry atau gy || asa-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  lampu  || t || hi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kosong  || mu atau bu || na-i
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  jadi; karena hal itu  || zen atau nen || shika-shi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  masak; kukus  || sh || ya-ku
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  terangi  || sh || te-rasu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  panas  || netsu || atsu-i
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  keturunan  || boku || maki
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  spesial  || toku
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  melahirkan  || san || u-mu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  sasaran  || teki || mato
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  menteri kepemerintahan  || sho atau sei || habu-ku
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  ramaikan  || shuku || iwa-u
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  balot, label  || hy
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  macam atau biji  || shu || tane
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  mengakumulasi  || seki || tsu-mu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  mengemulasikan  || ky || kiso-u
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  tawa  || sh || wara-u
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  pipa  || kan || kuda
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  nodus  || setsu || fushi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  tepung  || fun || ko atau kona
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  garis waktu  || ki
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  janji  || yaku
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  dasi  || ketsu || musu-bu atau yu-u
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  gaji  || ky || tama-u
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  melanjutkan  || zoku || tsudu-ku
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  letak  || chi || o-ku
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  pak tua  || r || o-iru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  perut  || i
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  pembuluh  || myaku
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  usus  || ch
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  pemertahan; retainer  || shin
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  berlayar  || k
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  baik; bagus  || ry || yo-i
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  seni  || gei
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  benih  || ga || me
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  Inggris  || ei
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  sayuran  || sai || na
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kota besar  || gai || machi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  pakaian  || i || koromo
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kebutuhan  || y || i-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  mengingat  || kaku || obo-eru atau sa-meru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  memerhatikan  || kan || mi-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  arahan; instruksi  || kun
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  uji; tes; coba  || shi || kokoromi-ru atau tame-su
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  teori  || setsu || to-ku
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  bagian; seksi  || ka
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kesengajaan  || gi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  gajah  || z atau sh || 
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kapal pengangkut  || ka
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  simpanan  || cho || ta-meru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  pengeluaran  || hi || tsui-yasu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  hadiah  || sh
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  tentara  || gun
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  roda  || rin || wa
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  resain  || ji || ya-meru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  lingkungan  || hen || ata-ri
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  membawa bersama  || ren || tsu-reru atau tsura-neru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  meraih (cita)  || || tachi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  pilih  || sen || era-bu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  daerah (wilayah; propinsi)  || gun
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kuantitas  || ry
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  rekor  || roku
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  cermin  || ky || kagami
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  berkaitan  || kan || seki
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  daratan  || riku
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kelompok  || tai
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  tenang; sunyi  || sei || shizu-ka
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  patuh  || jun
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  permintaan  || gan || nega-u
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  mengurutkan  || rui
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  terbang  || hi || to-bu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  makanan  || han || meshi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  membantu pengembangan  || y || yashina-u
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  uji; tes  || ken
+|}
+
+===Fifth grade (185 kanji)===
+
+ {| class="wikitable"
+ | '''Kanji''' ||  '''Meaning''' || '''[[Kanji#On.27yomi_.28Chinese_reading.29|On]]''' || '''[[Kanji#Kun.27yomi_.28Japanese_reading.29|Kun]]'''
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  waktu yang sangat lama  || ky || hisa
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  Budha  || hutsu atau butsu || hotoke
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  palsu; tipuan  || ka atau ke || kari
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  perkara  || ken
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  tanggungjawab  || nin || maka-seru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  menjadi  || ji || ni-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  terlalu banyak  || yo || ama-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  nilai  || ka || atai
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  mengawetkan  || ho || tamo-tsu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  disiplin  || sh || osa-meru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  karung jerami  || hy || tawara
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  individual  || ko
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  menyediakan  || bi || sona-eru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  patung  || z
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  lagi  || sai atau sa || futata-bi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  memublikasikan  || kan
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  menilai  || han || waka-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kontrol  || sei
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  tiket  || ken
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  atur  || soku || notto-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  efek  || k || ki-ku
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  tugas  || mu || tsuto-meru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kuasa  || sei || ikio-i
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  tebal  || k || atsu-i
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  frasa  || ku
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  mungkin  || ka
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  atur  || ei || itona-mu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  sebabkan  || in || yo-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  grup  || dan atau ton
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  tekanan  || atsu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  ada  || zai || a-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  tingkat  || kin
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  pondasi; dasar  || ki || moto-duku
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  laporan  || h || muku-iru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  batasan  || ky || sakai
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  makam  || bo || haka
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  tingkatkan  || z || ma-su atau fu-eru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  mimpi  || mu || yume
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  istri  || sai || tsuma
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  gadis  || fu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  berisi  || y
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  mendekati  || ki || yo-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kaya  || fu || tomi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  arahan  || d || michibi-ku
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  tinggal (dalam rumah)  || kyo || i-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  berasal  || zoku
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  linen  || fu || nuno
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  ahli  || shi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  normal  || j || tsune
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  batang pohon  || kan || miki
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  prakata  || jo
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  katup  || ben
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  melebar  || ch || ha-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  perjalanan  || 
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  mengulangi  || fuku
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kekuatan moral  || toku
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  tujuan  || shi || kokorozashi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  merespon  || 
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  ceria  || kai || kokoroyo-i
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  gender  || sei atau sh || saga
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  keindahan  || on
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  perasaan  || j || nasa-ke
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kondisi  || tai
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  suai  || kan || na-reru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  merelakan  || sh || uketamawa-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kemampuan  || gi || waza
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  mengisyaratkan  || sh || mane-ku
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  menginstruksikan  || ju || sazu-keru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  ambil  || sai || to-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kontak  || setsu || ses-suru atau tsu-gu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  ada  || tei || sa-geru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  rugi  || son || soko-neru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  cabang  || shi || sasa-eru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  politik  || sei || matsurigoto
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  sekeliling; keadaan  || ko || yue
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  lawan  || teki || kataki
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  potong; memutus  || dan || ta-tsu atau kotowa-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  saat lampau  || ky
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  mudah  || eki || yasa-shii
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  ledakan  || b || aba-ku
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  klausa  || j
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  dahan  || shi || eda
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  selidiki  || sa
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  status  || kaku
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  ceri (buah)  ||  || sakura
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  periksa  || ken
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  bangun; mengonstruksi  || k || kama-eru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  militer  || bu atau mu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  membandingkan  || hi || kura-beru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  abadi  || ei || naga-i
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  sungai  || ka || kawa
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  cairan  || eki
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  campur  || kon || ma-zaru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  berkurang  || gen || he-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  ukur; terka  || soku || haka-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  standar  || jun
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  melakukan; perform  || en
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  masih bersih  || ketsu || isagiyo-i
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  bencana  || sai || wazawa-i
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  bakar  || nen || mo-eru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  blok pencetakan  || han
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kriminal  || han || oka-su
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  bentuk  || j
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  sendiri  || doku || hito-ri
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  tingkat; ranking  || ritsu atau sotsu || hiki-iru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  nampak  || gen || arawa-reru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  membatasi; melarang  || ry ru || todo-maru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  singkatan  || ryaku
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  untung  || eki
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  bola mata  || gan || me
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  sobek  || ha || yabu-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  pasti; jelas  || kaku || tashi-ka
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  menunjukkan  || shi || shime-su
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  nenek moyang  || so
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  larangan  || kin
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  ubah  || i || utsu-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  batasan terjauh  || tei || hodo
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  pajak  || zei
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  merajut; membangun  || chiku || kizu-ku
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  terbaiki  || sei
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  dasar; elementer  || su atau so || moto
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  mengalami  || kei atau ky || he-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  menyatukan  || t || su-beru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  menghentikan  || zetsu || ta-tsu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  katun; kapuk  || men || wata
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  utuh  || s
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kompilasi; susunan  || hen || a-mu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  eksploitasi  || seki
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  rajut  || shiki || o-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  salah  || zai || tsumi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  gerombolan  || gun || mu-reru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kebenaran  || gi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  cangkul; gembur  || k || tagaya-su
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  perekrutan karyawan  || shoku
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  pupuk  || hi || ko-yasu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kemampuan  || n
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  hibur  || ky || oko-su
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  lidah  || zetsu || shita
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  pondok  || sha
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  seni  || jutsu || sube
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  pertahanan  || ei
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  membuat dengan tangan/mesin  || sei
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  duplikasi  || fuku
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  ukur (dengan penggaris)  || ki
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  membuka (tali); menguraikan  || ge atau kai || to-ku
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  membangun  || setsu || mouke-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  memperbolehkan  || kyo || yuru-su
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  bukti  || sh || akashi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  evaluasi  || hy
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kuliah, ceramah  || k
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  permohonan maaf  || sha || ayama-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  membedakan  || shiki
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  usaha perlindungan  || go || mamo-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  sangat kaya  || h || yuta-ka
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kekayaan  || zai
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  miskin  || hin || mazushi-i
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  tuduh; menyalahkan  || seki || se-meru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  pinjam  || tai || ka-su
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  dagang  || b
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  (ucapan) selamat  || ga
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  sumber daya  || shi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  dukung  || san
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kualitas  || shitsu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  transportasi  || yu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  sebut  || jutsu || no-beru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  menyeleweng  || mei || mayo-u
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  mundur (tentara)  || tai || shirizo-ku 
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  terbalik; anti-  || gyaku || sakara-u
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  membuat  || z || tsuku-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  melampaui  || ka || ayama-chi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  tepat; klop  || teki
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  asam  || san
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  mineral  || k
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  tembaga  || d
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  koin  || sen || zeni
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  menghalangi; mencegah  || b || fuse-gu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  batas  || gen || kagi-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  terjal  || ken || kewa-shii
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  keadaan; kejadian  || sai || kiwa
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  campuran  || zatsu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  negatif  || hi || ara-zu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  simpanan; deposito  || yo || azu-keru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  territori  || ry
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  jumlah  || gaku || hitai
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  menjinakkan (hewan)  || shi || ka-u
+|}
+
+===Sixth grade (181 kanji)===
+ 
+{| class="wikitable"
+ | '''Kanji''' ||  '''Meaning''' || '''[[Kanji#On.27yomi_.28Chinese_reading.29|On]]''' || '''[[Kanji#Kun.27yomi_.28Japanese_reading.29|Kun]]'''
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  barisan (ranking)  || hei || nami atau nara-bu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  bentrok  || ran || mida-reru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  susu  || ny || chichi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  meninggal  || b || na-kunaru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kebaikan  || jin
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  tawaran  || ky atau ku || tomo
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  aktor  || hai
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  nilai  || chi || atai
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  luka  || sh || kizu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  superior  || y || yasa-shii
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  partai politik  || t
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  hitungan untuk buku  || satsu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  mengurusi  || sho
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  pahat  || koku || kiza-mu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  membagi  || katsu || wa-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  menciptakan  || s || tsuku-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  drama  || geki
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kepandaian  || kin || tsuto-meru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  berbahaya  || ki || aya-ui
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  telur  || ran || tamago
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  larang  || gen || kibi-shii
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  membawa masuk  || sh || osa-meru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  ratu  || g || kisaki
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  memutarbalikkan  || hi || ina atau iya
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  hisap  || ky || su-u
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  panggil  || ko || yo-bu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kebaikan  || zen || yo-i
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  terusik  || kon || koma-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kulai  || sui || ta-reru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kastil  || j || shiro
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  range; daerah  || iki
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  memainkan musik  || s || kana-deru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  tercampur aduk  || hun || huru-u
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  bentuk  || shi || sugata
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  anggap  || son
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kesalehan anak  || k
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  rumah  || taku || ie
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  bagian atap  || u
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  agama  || sh || s
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  di udara  || ch
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  harta  || h || takara
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  menyatakan  || sen || notama-u
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kerahasiaan  || mitsu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  pengukuran  || sun
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  keistimewaan  || sen || moppa-ra
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  tembak  || sha || i-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  pemimpin  || sh
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  diagungkan  || son || touto-bu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  mengenai  || sh || tsu-ku
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  pengukuran panjang  || shaku
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kirim  || || todo-ku
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  memperluas  || ten
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  stratum; lapisan  || s
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  diri  || ko || onore
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  perkamen  || kan || ma-ku
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  korden  || maku atau baku
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kering  || kan || ho-su
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  masa kecil  || y || osana-i
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kantor pemerintah  || ch
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  duduk  || za || suwa-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  memperpanjang  || en || no-basu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  ritme  || ritsu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  tunduk  || j || shitaga-u
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  lupa  || b || wasu-reru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kesetiaan  || ch
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  konstitusi  || ken
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  ego  || ga || ware
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kecaman  || hi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  memikul  || tan || nina-u
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  sembah  || hai || oga-mu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  memperluas  || kaku || hiro-geru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  membuang  || sha || su-teru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  raba  || tan || saga-su
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  menduga  || sui
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  memerintah  || ki
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  manuver  || s || ayatsu-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  hormat  || kei || uyama-u
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  merefleksikan  || ei || utsu-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  senjakala  || ban
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kehangatan  || dan || atata-kai
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  mata pencaharian  || bo || ku-rasu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  merdu  || r || hoga-raka
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  bangku  || ki || tsukue
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  penghitung benda tipis atau lembaran  || mai
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  celupan  || sen || so-meru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  stok; penghitung tanaman  || kabu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  batang  || b
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  imitasi  || mo atau bo
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kebijakan  || ken
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  pepohonan  || ju || ki
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  menanti  || yoku || ho-shii
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  langkah-langkah  || dan
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  berlari  || en || so-u
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  air mancur  || sen || izumi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  cuci  || sen || ara-u
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  sekte  || ha
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  menyelesaikan  || sai || su-mu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  asal  || gen || minamoto
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  pasang  || ch || shio
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kasar  || geki || hage-shii
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  abu  || kai || hai
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  matang  || juku || u-reru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  bersisi satu  || hen || kata
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  grup  || han
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  tak biasa  || i || koto-naru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  ragu  || gi || utaga-u
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  sakit  || ts || ita-i
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kaisar  || k || 
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  sejahtera  || sei || mo-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  aliansi  || mei
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  mengawasi  || kan
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  pasir  || sa atau sha || suna
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  magnet  || ji
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  diriku  || shi || watakushi atau watashi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  rahasia  || hi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  serealia  || koku
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  lubang  || ketsu || ana
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  jendela  || s || mado
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  otot  || kin || suji
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  skema  || saku
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kesederhanaan  || kan
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  gula  || t
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  garis besar  || kei
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  merah tua  || k || beni atau kurenai
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  pemukiman  || n || osa-meru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  sejati  || jun
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  sutra  || ken || kinu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  vertikal  || ju || tate
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  menciut  || shuku || chidi-mu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kantor pemerintah  || sho
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  di bawah ini  || yoku
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  suci  || sei
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  paru  || hai
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  punggung  || hai || se
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  dada  || ky || mune
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  otak  || n
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  perut  || fuku || hara
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  jeroan  || z
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  menghadapi  || rin || nozo-mu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  klimaks  || shi || ita-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  muda  || jaku || waka-i
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  masyur  || cho || arawa-su atau ichijiru-shii
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  uap  || j || mu-su
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  gudang  || z || kura
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  ulat sutra  || san || kaiko
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  massa  || sh
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  putusan  || sai || saba-ku
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  pakaian  || s atau sh || yosoo-u
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  belakang  || ri || ura
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  suplemen  || ho || ogina-u
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  melihat ke  || shi || mi-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  pembacaan  || ran
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  serangan  || t || u-tsu
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kunjung  || h || otozu-reru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  terjemah  || yaku || wake
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  puisi; persajakan  || shi || kotoba
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  dokumen  || shi
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  mengenali  || nin || mito-meru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kelahiran  || tan
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kepastian  || sei || makoto
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kesalahan  || go || ayama-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  teori  || ron
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  segalanya  || sho || moro
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  pelindung dari; memperingatkan  || kei
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  berharga  || ki
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  biaya  || chin
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  mewariskan  || i
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  pos pemberhentian  || y
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kota asal  || ky || g
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  jarum  || shin || hari
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  baja  || k || hagane
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  tutup  || hei || shi-meru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  tinggi  || kaku
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  turun  || k || o-riru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kekaisaran  || hei
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  mengecualikan  || jo atau ji || nozo-ku
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  melukai  || sh || sawa-ru
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  sulit  || nan || muzuka-shii
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  kulit  || kaku || kawa
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  daerah sekitar kepala  || ch || itada-ku
+ |- 
+ | {{lang|ja|[[wiktionary:|]]}} ||  tulang  || kotsu || hone
+|}
+
+==See also==
+* [[Kanji#Kanji education|Learning kanji]]
+* [[MEXT]]
+
+==External links==
+* {{ja icon}} [http://www.mext.go.jp/b_menu/shuppan/sonota/990301b.htm Elementary School Curriculum Guidelines], [http://www.mext.go.jp/b_menu/shuppan/sonota/990301b/990301d.htm Part 2 Section 1: Japanese]  Official list of kyiku kanji by grade
+
+{{DEFAULTSORT:Kyoiku Kanji}}
+[[Kategori:Kanji]]
+[[Kategori:Kebijakan Bahasa]]
+[[Kategori:Pendidikan di Jepang]]

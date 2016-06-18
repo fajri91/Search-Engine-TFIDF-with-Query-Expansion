@@ -1,0 +1,2 @@
+Templat:Chart/celljt
+<td colspan="2" style="border-bottom: 1px solid black;"><div style="width: 2em; height: 1em;"></div></td><noinclude>[[Kategori:Templat silsilah]]</noinclude>

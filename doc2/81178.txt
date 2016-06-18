@@ -1,0 +1,49 @@
+Bandar Udara Nantes-Atlantique
+{{Infobox Airport
+| name         = Nantes Atlantique Airport
+| nativename   = Aroport Nantes Atlantique
+| image        = Nantes atlantique.jpg
+| image-width  = 200
+| IATA         = NTE
+| ICAO         = LFRS
+<center>{{Location map|France Pays de la Loire|width=200|float=center
+|caption=|mark=Airplane_silhouette.svg|marksize=10
+|label=NTE|position=right
+|lat_deg=47|lat_min=09|lat_sec=25|lat_dir=N
+|lon_deg=01|lon_min=36|lon_sec=28|lon_dir=W
+}}<small>Location of airport in Pays de la Loire</small></center>
+| type         = Public
+| owner        = 
+| operator     = [[Chambre de Commerce et d'Industrie de Nantes|CCI de Nantes]]
+| city-served  = [[Nantes]], [[France]]
+| location     = [[Bouguenais]], [[France]]
+| elevation-f  = 90
+| elevation-m  = 27
+| coordinates  = {{coord|47|09|25|N|001|36|28|W|type:airport_region:FR}}
+| website      = [http://www.nantes.aeroport.fr/ANA-English/Page/Default.aspx www.nantes.aeroport.fr]
+| metric-rwy   = y
+| r1-number    = 03/21
+| r1-length-f  = 9,514
+| r1-length-m  = 2,900
+| r1-surface   = [[Macadam]]
+| footnotes    = Source: French AIP<ref name="AIP1">{{AIP_FR|LFRS|name='''NANTES''' ATLANTIQUE}}</ref><br>French [[Aeronautical Information Publication|AIP]] at [[European Organisation for the Safety of Air Navigation|EUROCONTROL]]<ref name="AIP2">[http://www.ead.eurocontrol.int/publicuser/protect/pu/main.jsp EAD Basic]</ref>
+}}
+'''Nantes Atlantique Airport''' {{Airport codes|NTE|LFRS}} ({{lang-fr|Aroport Nantes Atlantique}}, merupakan bandara yang terletak di [[Nantes]], [[Perancis]] dengan kode [[IATA]] '''NTE'''.
+
+== Maskapai ==
+* [[Air France]]
+* [[Air Malta]]
+* [[Air Transat]]
+* [[Atlas Blue]]
+* [[Atlantic AirLift]]
+* [[British Airways]]
+* [[Corsair]]
+* [[Iberia Airlines|Iberia]]
+* [[Royal Air Maroc]]
+* [[Ryanair]]
+* [[Tunisair]]
+
+[[Kategori:Bandar udara di Perancis|Nantes Atlantique]]
+
+
+{{bandara-stub}}

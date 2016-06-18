@@ -1,0 +1,67 @@
+Papirus 94
+{{Infobox naskah
+| form   = Papirus
+| number = '''94'''
+| image  = 
+| isize  = 
+| caption= 
+| name   = P. Cair. 10730
+| sign   = <math>\mathfrak{P}</math><sup>94</sup>
+| text   = [[Surat Roma]] [[Roma 6|6]] 
+| script = [[bahasa Yunani]]
+| date   = abad ke-5/ke-6
+| found  = 
+| now at = [[Museum Mesir]], [[Kairo]], [[Mesir]]
+| cite   = J. Bingen, ''Miscellnia Papirologica Ramon Roca-Puig'' (1987), pp. 75-78
+| size   = 
+| type   = [[Teks Alexandria]]
+| cat    = 
+| hand   = 
+| note   = 
+}}
+
+'''Papirus 94''' ({{lang-en|Papyrus 94}}; dalam [[naskah Alkitab#Gregory-Aland|penomoran Gregory-Aland]] diberi kode '''<math>\mathfrak{P}</math><sup>94</sup>''') adalah sebuah [[naskah Alkitab|naskah]] [[papirus]] kuno berisi bagian [[Perjanjian Baru]] dari [[Alkitab]] [[Kristen]] dalam [[bahasa Yunani]]. Memuat potongan [[Surat Roma]], yang terlestarikan hanya [[Roma 6|6:10-13, 19-22]].<ref name = Aland/>
+
+Berdasarkan [[Paleografi]] diperkirakan naskah ini dibuat pada abad ke-5 (atau abad ke-6).<ref name = Aland/>
+
+== Teks ==
+
+Naskah Yunani ini tergolong jenis [[Teks Alexandria]]. Belum ditempatkan ke dalam dalam [[Kategori Naskah Perjanjian Baru]] yang disusun oleh [[Kurt Aland]].<ref name = Aland>{{Cite book
+|last=Aland
+|first=Kurt
+|authorlink=Kurt Aland
+|last2 = Aland
+|first2 = Barbara
+|authorlink2 = Barbara Aland
+|others = Erroll F. Rhodes (trans.)
+|title=The Text of the New Testament: An Introduction to the Critical Editions and to the Theory and Practice of Modern Textual Criticism
+|publisher=[[William B. Eerdmans Publishing Company]]
+|year=1995
+|location=Grand Rapids
+|page=102
+|url=http://books.google.com/books?id=2pYDsAhUOxAC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false
+|isbn=978-0-8028-4098-1}}</ref>
+
+== Lokasi ==
+Saat ini disimpan pada [[Museum Mesir]] (P. Cair. 10730) di [[Kairo]], [[Mesir]].<ref name = Aland/><ref name = INTF>[[INTF]], [http://intf.uni-muenster.de/vmr/NTVMR/ListeHandschriften.php Handschriftliste]</ref><ref name = INTF2>{{Cite web|url=http://intf.uni-muenster.de/vmr/NTVMR/ListeHandschriften.php?ObjID=10094|title= Liste Handschriften|publisher=Institute for New Testament Textual Research|accessdate=27 August 2011|location=Mnster}}</ref>
+
+== Lihat pula == 
+* [[Daftar Papirus Perjanjian Baru]]
+* [[Surat Roma]]: [[Roma 6]]
+
+== Referensi ==
+
+{{Reflist}}
+
+== Pustaka tambahan ==
+
+* Jean Bingen, ''P<sup>94</sup>: ptre aux Romains 6, 10-13, 19-22 (P. Cair 10730)'' ''Miscellnia Papirologica Ramon Roca-Puig'', ed. S. Janeras (Barcelona: 1987), pp.&nbsp;7578.
+
+== Foto ==
+
+* [http://www.csntm.org/manuscript/View/GA_P94 Fragmen Papirus 94], pada [[Center for the Study of New Testament Manuscripts]]
+{{Naskah Papirus Perjanjian Baru}}
+{{DEFAULTSORT:Papirus 0094}}
+
+[[Kategori:Karya abad ke-5]]
+[[Kategori:Surat Roma]]

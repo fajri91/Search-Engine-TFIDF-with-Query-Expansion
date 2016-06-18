@@ -1,0 +1,128 @@
+Tan Lian Hoe
+{{Chinese name|[[Chen (nama)|Tan]]}}
+{{Infobox politician
+|honorific-prefix   = [[gelar Melayu|Yang Berhormat Dato']]
+|name = Tan Lian Hoe
+|honorific-suffix = [[Parlemen Malaysia|MP]]
+|native_name = {{nobold|{{lang|zh-hans|}}}}
+|native_name_lang = 
+|image = 
+|caption = 
+|constituency_MP = [[Gerik]], Perak
+|parliament = Malaysia
+|term_start       = 8 Maret 2008
+|term_end         = 5 Mei 2013
+|majority         = 
+|predecessor      = Wan Hashim Wan Teh ([[UMNO]]&ndash;[[Barisan Nasional|BN]])
+|successor        = [[Hasbullah Osman]] ([[UMNO]]&ndash;[[Barisan Nasional|BN]])
+|constituency_MP2 = [[Bukit Gantang]], Perak
+|parliament2 = Malaysia
+|term_start2 = 21 Maret 2004
+|term_end2 = 8 Maret 2008
+|predecessor2 =
+|successor2 = [[Roslan Shaharum]] ([[Parti Islam Se-Malaysia|PAS]]&ndash;[[Pakatan Rakyat|PR]])
+|office3 = 
+|term_start3 = 
+|term_end3 =
+|predecessor3 = 
+|successor3 =
+|constituency3 = 
+|birth_date = 
+|birth_place =
+|death_date =
+|death_place = 
+|residence = Sungai Siput
+|party = [[Parti Gerakan Rakyat Malaysia|Gerakan]]&ndash;[[Barisan Nasional|BN]]
+|religion = Buddhisme
+|occupation =
+|relations =
+|spouse = 
+|children = 
+|website = 
+|footnotes = 
+}}
+
+[[gelar Melayu|Dato Seri']] '''Tan Lian Hoe''' adalah seorang politikus Malaysia. Ia adalah anggota [[Parlemen Malaysia]] dari 2004 sampai 2013. Ia adalah anggota partai [[Parti Gerakan Rakyat Malaysia|Gerakan]] di koalisi pemerintahan [[Barisan Nasional]].
+
+Hoe mendapatkan kursi Gerik pada [[pemilihan umum Malaysia 2008|pemilihan 2008]], setelah sebelumnya menjabat dari 2004 sebagai anggota Parlemen untuk [[Bukit Gantang]].<ref>{{Cite web
+  |last = 
+  |first = 
+  |authorlink = 
+  |author2 = 
+  |title = Malaysia Decides 2008
+  |work = 
+  |publisher = [[The Star (Malaysia)]]
+  |date = 
+  |url = http://thestar.com.my/election/
+  |format = 
+  |doi = 
+  |accessdate = 20 December 2009}}</ref>
+
+
+Pada [[pemilihan umum Malaysia 2013|pemilihan 2013]], ia memperebutkan kursi [[Taiping, Perak|Taiping]],<ref>{{cite news|url=http://www.theborneopost.com/2012/10/01/gerakan-to-focus-on-four-seats-in-13th-general-elections-party-chief/|title=Gerakan to focus on four seats in 13th general elections  party chief|date=1 October 2012|work=Borneo Post|accessdate=20 September 2014}}</ref> namun dikalahkan oleh [[Ngeh Koo Ham]] dari [[Partai Aksi Demokratis]].
+
+==Hasil pemilihan==
+{|Class="wikitable" style="margin:0.5em ; font-size:95%"
+|+ '''[[Dewan Rakyat|Parlemen Malaysia]]'''<ref name="election results">{{cite web|url=http://semak.spr.gov.my/spr/laporan/5_KedudukanAkhir.php|title=Keputusan Pilihan Raya Umum Parlimen/Dewan Undangan Negeri|publisher=[[Election Commission of Malaysia]]|accessdate=14 June 2010}} Percentage figures based on total turnout.</ref>
+!|Tahun
+!|Konstituensi
+!
+!|Oposisi
+!|Suara
+!|Persen
+!
+!|Pemerintahan
+!|Suara
+!|Persen
+|-
+|[[pemilihan umum Malaysia 2004|2004]]
+|'''P59 [[Bukit Gantang]], Perak'''
+|
+|{{Party shading/Barisan Nasional}} |{{nowrap|'''Tan Lian Hoe'''}} ([[Parti Gerakan Rakyat Malaysia|Gerakan]])
+|{{Party shading/Barisan Nasional}} align="right" |16,846
+|{{Party shading/Barisan Nasional}} |61%
+|
+|{{Party shading/PAS}} |[[Lo' Lo' Mohamad Ghazali]] ([[Parti Islam Se-Malaysia|PAS]])
+|{{Party shading/PAS}} align="right" |10,144
+|{{Party shading/PAS}} |37%
+|-
+|[[pemilihan umum Malaysia 2008|2008]]
+|'''P54 [[Gerik]], Perak'''
+|
+|{{Party shading/Barisan Nasional}} |{{nowrap|'''Tan Lian Hoe'''}} ([[Parti Gerakan Rakyat Malaysia|Gerakan]])
+|{{Party shading/Barisan Nasional}} align="right" |12,526
+|{{Party shading/Barisan Nasional}} |61%
+|
+|{{Party shading/PAS}} |Mohd Noor Abdul Rahman ([[Parti Islam Se-Malaysia|PAS]])
+|{{Party shading/PAS}} align="right" |6,953
+|{{Party shading/PAS}} |34%
+|-
+|[[pemilihan umum Malaysia 2013|2013]]
+|'''P60 [[Taiping, Perak|Taiping]], Perak'''
+|
+|{{Party shading/Barisan Nasional}} |Tan Lian Hoe ([[Parti Gerakan Rakyat Malaysia|Gerakan]])
+|{{Party shading/Barisan Nasional}} align="right" |
+|{{Party shading/Barisan Nasional}} |
+|
+|{{Party shading/Partai Aksi Demokratis}} |{{nowrap|'''[[Ngeh Koo Ham]]'''}} ([[Partai Aksi Demokratis|PAD]])
+|{{Party shading/Partai Aksi Demokratis}} align="right" |
+|{{Party shading/Partai Aksi Demokratis}} |
+|}
+
+== Referensi ==
+
+{{reflist}}
+
+{{Persondata
+|NAME              = Tan, Lian Hoe
+|ALTERNATIVE NAMES =
+|SHORT DESCRIPTION = Anggota [[Parlemen Malaysia]]
+|DATE OF BIRTH     =
+|PLACE OF BIRTH    = Melaka
+|DATE OF DEATH     =
+|PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Tan, Lian Hoe}}
+[[Category:Politikus Malaysia]]
+[[Category:Orang hidup]]
+[[Kategori:Tionghoa-Malaysia]]

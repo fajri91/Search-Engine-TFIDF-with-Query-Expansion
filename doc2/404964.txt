@@ -1,0 +1,10 @@
+Templat:Perang Yunani-Persia
+{{Campaign|state=expanded
+|name=[[Perang Yunani-Persia]]
+|raw_name=Perang Yunani-Persia
+|battles=[[Pemberontakan Ionia]] &ndash; [[Invasi Persia pertama ke Yunani|Invasi Persia pertama]] &ndash; [[Invasi Persia kedua ke Yunani|Invasi Persia kedua]] &ndash; [[Perang Yunani-Persia#Serangan balik Yunani (479&ndash;478 SM)|Serangan balik Yunani]] &ndash; [[Peperangan Liga Delos|Perang Liga Delos]]
+}}<noinclude>
+
+[[Kategori:Templat Yunani kuno|{{PAGENAME}}]]
+
+</noinclude>

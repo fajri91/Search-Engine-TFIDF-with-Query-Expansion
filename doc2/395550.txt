@@ -1,0 +1,63 @@
+Templat:One source/doc
+{{Documentation subpage}}
+
+{{TOCright}}
+
+
+==Penggunaan==
+Templat ini memperingatkan pembaca bahwa artikel ensiklopedia yang dibaca sepertinya berasal dari satu sumber.  Satu sumber dianggap kurang ideal karena sumber tersebut bisa saja kurang akurat maupun bias.  Tanpa adanya sumber lain sebagai rujukan, [[WP:V|keakuratan]] maupun [[WP:NPOV|kenetralan sudut pandang]] dapat diragukan.  Dengan menambahkan beberapa sumber ''independen'', keakuratan ensiklopedia akan bertambah.
+
+==Parameter==
+===Sinopsis===
+<code><nowiki>{{One source|bagian|date=</nowiki>{{CURRENTMONTHNAME}} {{CURRENTYEAR}}<nowiki>}}</nowiki></code>
+
+<code><nowiki>{{One source|text=Alternatif kalimat pertama|date=</nowiki>{{CURRENTMONTHNAME}} {{CURRENTYEAR}}<nowiki>}}</nowiki></code>
+
+===Subyek===
+Parameter kosong pertama akan mengganti "Artikel ini sebagian" dengan "''PARAMETER'' ini sebagian".  
+
+Sebagai contoh, "<code><nowiki>{{One source|bagian}}</nowiki></code>" akan menghasilkan:
+
+{{One source|bagian}}
+
+===Kalimat Pertama===
+Anda dapat merubah seluruh kalimat pertama sengan mengisi parameter <code>text=</code>.  Ini dapat digunakan ketika frase standard kurang dapat dipakai pada suatu kasus, tetapi tetap berhubungan dengan tujuan umum templat ini.
+
+===Penanggalan===
+Parameter <code>date=</code> akan mengurutkan artikel ke subkategori [[:Kategori:Artikel dengan sedikit sumber]], membuat masalah terlama akan teridentifikasi terlebih dulu dan diprioritaskan untuk diurus.
+
+==Penggunaan Editorial==
+Templat ini sebaiknya hanya digunakan untuk artikel ensiklopedia dengan isi yang dapat diverifikasi dan rujukan terpercaya, tetapi hanya pada satu rujukan tersebut.
+
+Tolong pertimbangkan untuk memperbaiki artikel atau berasumsi baik untuk menemukan sendiri rujukan tambahan sebelum menambahkan templat ini.
+
+Adala hal yang baik ntuk menuliskan dasar pemikiran anda di "Ringkasan Suntingan" atau "halaman pembicaraan artikel".  Semakin spesifik penggambaran anda mengenai pendapat anda, akan semakin kecil kemungkinan kesalahpahaman pengguna lain.
+
+Jika anda pikir bahwa masalah yang ada lebih dari sumber itu sendiri, beritahu masalah tersebut dengan templat lain yang lebih tepat, daripada hanya mempertanyakan sumber tersebut.
+
+===Alternatif===
+*Sumber dan rujukan
+**{{Tl|Unreferenced}}  Tidak bersumber sama sekali
+**{{Tl|Primary sources}}  Berasal pada sumber primer
+**{{Tl|Unreliable sources}}  Berasal dari sumber yang kurang terpercaya
+**{{Tl|Refimprove}}  Memiliki '''sedikit''' rujukan dan sumber, dan masih memerlukan tambahan
+**{{Tl|Failed verification}}  Rujukan gagal mendukung pernyataan dalam artikel.
+**{{Tl|Partisan sources}}  Sumber hanya menggambarkan satu sudut pandang.
+*Isi artikel
+**{{Tl|POV}}  Sudut pandang netral
+**{{Tl|Disputed}}  Akurasi faktual
+
+==Administrivia==
+Jangan menambahkan [[Wikipedia:Substitution|subst:]] pada templat ini.
+
+
+==Lihat pula==
+
+
+<noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude><includeonly>
+<!-- TAMBAHKAN KATEGORI DIBAWAH GARIS INI -->
+[[Category:Citation and verifiability maintenance templates|{{PAGENAME}}]]
+
+<!-- TAMBAHKAN INTERWIKI DIBAWAH GARIS INI -->
+[[ja:Template:Onesource]]
+</includeonly>

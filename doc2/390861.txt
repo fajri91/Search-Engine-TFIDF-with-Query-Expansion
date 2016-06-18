@@ -1,0 +1,41 @@
+Templat:Seri Call of Duty
+{{Navbox
+| name  = Seri Call of Duty
+| listclass = hlist
+| title =[[Call of Duty|Seri Call of Duty]]
+
+| group1 = Seri Utama
+| list1  = {{Navbox subgroup|
+|group1 = ''World War II/Trilogi asli''
+| list1 = {{nowrap|''[[Call of Duty (Permainan)|Call of Duty]]'' (''[[Call of Duty: United Offensive|United Offensive]]''{{}}''[[Call of Duty: Finest Hour|Finest Hour]]'')}}{{}}''[[Call of Duty 2|2]]'' (''[[Call of Duty 2: Big Red One|Big Red One]]''){{}}''[[Call of Duty 3|3]]''{{}}(''[[Call of Duty: Roads to Victory|Roads to Victory]]'')
+
+| group2 = ''Modern Warfare''
+| list2 = ''[[Call of Duty 4: Modern Warfare]]'' ([[Call of Duty 4: Modern Warfare (Nintendo DS)|DS]]){{}}''[[Call of Duty: Modern Warfare 2|Modern Warfare 2]]'' (''[[Call of Duty: Modern Warfare: Mobilized|Mobilized]]''){{}}''[[Call of Duty: Modern Warfare 3|Modern Warfare 3]]'' (''[[Call of Duty: Modern Warfare 3: Defiance|Defiance]]'')
+
+| group3 = ''Black Ops''
+| list3 = ''[[Call of Duty: World at War|World at War]]'' (''[[Call of Duty: World at War  Final Fronts|Final Fronts]]''{{}}''[[Call of Duty: World at War (Nintendo DS)|DS]]''{{}}''[[Call of Duty: World at War  Zombies|Zombies]]''){{}}''[[Call of Duty: Black Ops|Black Ops]]'' (''[[Call of Duty: Black Ops: Zombies|Zombies]]''){{}}''[[Call of Duty: Black Ops II|Black Ops II]]'' (''[[Call of Duty: Black Ops: Declassified|Declassified]]''{{}}''[[Call of Duty: Strike Team|Strike Team]]''){{}}''[[Call of Duty: Black Ops III|Black Ops III]]''
+
+| group4 = ''Ghosts''
+| list4 = ''[[Call of Duty: Ghosts|Ghosts]]'' (''[[Call of Duty: Ghosts: Extinction|Extinction]]'')
+
+| group5 = ''Advanced Warfare''
+| list5 = ''[[Call of Duty: Advanced Warfare|Advanced Warfare]]''
+}}
+
+|group2 = Media
+|list2 = ''[[Modern Warfare 2: Ghost]]''{{}}''[[GKNOVA6|Black Ops: GKNOVA6]]''{{}}''[[Find Makarov: Operation Kingfish]]''{{}}''[[Soap's Journal|Modern Warfare 3: Soap's Journal]]''{{}}''[[Rightful King|Black Ops II: Rightful King]]''{{}}''[[Devil's Breath|Ghosts: Devil's Breath]]
+
+| group3 = Artikel Lain
+| list3 = [[Kontroversi seputar Call Of Duty: Modern Warfare 2|Kontroversi seputar Call of Duty: Modern Warfare 2]]''
+
+| group4 = Karakter
+| list4 = [[Captain Price|Captain Price]]''{{}}''[[John "Soap" MacTavish|John MacTavish]]''{{}}''[[Viktor Reznov|Viktor Reznov]]''{{}}''[[Karakter-karakter dan Faksi dalam seri Trilogi Pertama Call of Duty|Karakter-karakter dan Faksi dalam seri Perang Dunia Kedua/Trilogi Asli]]''{{}}''[[Karakter-karakter dan Faksi dalam seri Modern Warfare|Karakter-karakter dan Faksi dalam seri Modern Warfare]]''{{}}''[[Karakter-karakter dan Faksi dalam seri Black Ops|Karakter-karakter dan Faksi dalam seri Black Ops]]
+
+| group5 = Studio
+| list5 = [[Activision]]{{}} [[Infinity Ward]]{{}} [[Treyarch]]{{}} [[Sledgehammer Games]]{{}} [[Raven Software]]
+
+| below  = '''{{Icon|Book}} [[Buku:Seri Call of Duty]]{{}} {{Icon|Category}} [[:Kategori:Seri Call of Duty]]{{}} {{Icon|Portal}} [[Portal:Permainan video]]'''
+}}<noinclude>
+[[Category:Video game templates by series|{{PAGENAME}}]]
+[[Category:Seri Call of Duty]]
+</noinclude>

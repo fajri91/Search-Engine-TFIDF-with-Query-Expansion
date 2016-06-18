@@ -1,0 +1,15 @@
+Templat:Country data Kerajaan Inggris
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Kerajaan Inggris
+| shortname alias = Inggris
+| flag alias = Flag of England.svg
+| flag alias-naval = English Red Ensign 1620.svg
+| link alias-naval = Angkatan Laut Kerajaan
+| size = {{{size|}}}
+| name = {{{name|}}}
+| variant = {{{variant|}}}
+| kategori = Britania Raya
+<noinclude>
+| related1 = Inggris
+</noinclude>
+}}

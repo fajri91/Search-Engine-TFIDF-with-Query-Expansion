@@ -1,0 +1,28 @@
+Templat:Ibu kota di Asia/doc
+{{Documentation subpage}}
+<!-- TAMBAHKAN KATEGORI DAN INTERWIKI DI BAGIAN PALING BAWAH HALAMAN INI -->
+<!-- SUNTING DOKUMENTASI TEMPLAT DI BAWAH INI -->
+
+=== Pemakaian ===
+
+=== Lihat pula ===
+
+<includeonly>
+<!-- KATEGORI DAN INTERWIKI DITARUH DI SINI -->
+
+[[Kategori:Templat Asia|Ibu kota]]
+[[Kategori:Templat pembagian negara Asia|Ibu kota]]
+
+[[bg::  ]]
+[[fa:: ]]
+[[os::  ]]
+[[en:Template:List of Asian capitals by region]]
+[[is:Sni:Hfuborgir  Asu]]
+[[ka:: ]]
+[[lv:Veidne:zijas galvaspilstas]]
+[[pt:Predefinio:Lista de capitais da sia por regio]]
+[[ru:: ]]
+[[th::]]
+[[tr:ablon:Asya bakentleri]]
+[[vi:Tiu bn:Th  chu ]]
+</includeonly>

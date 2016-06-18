@@ -1,0 +1,11 @@
+Templat:Succession box two and one by one and two
+|-
+|width="30%" align="center" rowspan="2"|Didahului oleh:<br>'''{{{before1}}}'''
+|width="40%" align="center"|'''{{{title1}}}'''<br>{{{years1}}}
+|width="30%" align="center"|Diikuti oleh:<br>'''{{{after1}}}'''
+|-
+|width="40%" align="center"|'''{{{title2}}}'''<br>{{{years2}}}
+|width="30%" align="center" rowspan="2"|Diikuti oleh:<br>'''{{{after2}}}'''
+|-
+|width="30%" align="center"|Didahului oleh:<br>'''{{{before2}}}'''
+|width="40%" align="center"|'''{{{title3}}}'''<br>{{{years3}}}<noinclude>|}<noinclude>[[Kategori:Templat kotak suksesi]]</noinclude>

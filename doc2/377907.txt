@@ -1,0 +1,14 @@
+Berkas:TN Bantimurung Bulusaraung alam.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+Keindahan alam Taman Nasional Bantimurung Bulusaraung di perjalanan menuju gua-gua di tempat wisata
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{GFDL-self}}

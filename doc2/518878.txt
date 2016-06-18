@@ -1,0 +1,14 @@
+Templat:Pengguna pekerja serabutan
+{{userbox
+|logo            = [[Berkas:Usuario anonimo.PNG|40px|]]
+|info            = <center>Pengguna ini adalah seorang '''[[karyawan|<font color="yellow">pekerja</font>]] [[wikt:serabutan|<font color="yellow">serabutan</font>]]'''</center>
+|border-color    = dimgray
+|info-background = cadetblue
+|logo-background = skyblue
+|info-color      = white
+|category        = Pengguna karyawan serabutan
+|nocat           = {{{nocat|}}}
+}}<noinclude>
+{{userboxes|Pengguna karyawan serabutan}}
+[[Kategori:Templat kotak pengguna profesi|karyawan serabutan]]
+</noinclude>

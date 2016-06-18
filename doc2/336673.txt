@@ -1,0 +1,1602 @@
+Google Play
+{{Infobox software
+|name                    = Google Play
+|logo                    = [[Berkas:Google Play logo 2015.PNG|250px]]
+|screenshot              = 
+|caption                 = 
+|collapsible             = 
+|author                  = 
+|developer               = [[Google]]
+|released                = {{Start date|2008|10|22}}
+|discontinued            = 
+|latest release version  = 
+|latest release date     = <!-- {{Start date and age|YYYY|MM|DD}} -->
+|latest preview version  = 
+|latest preview date     = <!-- {{Start date and age|YYYY|MM|DD}} -->
+|frequently updated      = 
+|programming language    = 
+|operating system        = [[Android (sistem operasi)|Android]]
+|platform                = 
+|ukuran                  = 1,3 juta aplikasi (sejak Agustus 2014)
+|language                = 
+|status                  = 
+|genre                   = Toko aplikasi
+|license                 = 
+|website                 = http://play.google.com/
+}}
+'''Google Play''' adalah layanan konten digital milik [[Google]] yang melingkupi toko [[daring]] untuk produk-produk seperti musik/lagu, buku, aplikasi, permainan, ataupun [[pemutar media]] berbasis [[komputasi awan|awan]]. Layanan ini dapat diakses baik melalui web, aplikasi [[android]] ('''Play Store'''), dan Google TV.<ref>[http://www.google.com/tv/features.html Features - Google TV]</ref> Konten yang telah dibeli tersedia pada seluruh platform-platform di atas<ref>{{cite web|url=http://support.google.com/googleplay/bin/answer.py?hl=en&p=play_faq&answer=2490014 |title=Tentang Google Play - Google Play Help |publisher=Support.google.com |date= |accessdate=2012-03-07}}</ref> Google Play mulai dikenalkan pada bulan Maret 2012 sebagai pengganti dari '''Android Market''' dan Layanan Musik Google.<ref>http://googleblog.blogspot.com/2012/03/introducing-google-play-all-your.html</ref>
+
+__TOC__
+
+== Sejarah dan perkembangan ==
+
+Sistem operasi Android yang bersifat terbuka (''open source'') memungkinkan pihak ketiga terlibat dalam mengembangkan aplikasi untuk perangkat Android. Pertama kali dibuka pada 22 Oktober 2008, saat ini, diperkirakan telah ada lebih dari 450.000 aplikasi di Android Market <ref name="a">[http://www.puremobile.com/insiderblog/so-many-application-for-android-2]''So Many Applications for Android.''</ref>, dan pertumbuhan jumlah aplikasi ini terbilang sangat cepat. Pada November 2009, jumlah aplikasi di Android Market hanya sekitar 2.300 aplikasi. Maret 2010, Android Market telah memiliki 30.000 aplikasi. Sementara pada Agustus 2010, telah terdapat lebih dari 80.000 aplikasi di Android Market. Diprediksikan, pada akhir 2010 aplikasi di Android Market akan berjumlah 150.000 aplikasi <ref name="b">[http://moconews.net/article/419-googles-android-market-on-track-to-hit-150000-apps-by-next-year/]''Google's Android Market on track to hit 150.000 apps by next year.''</ref>.
+
+Dari puluhan ribu aplikasi tersebut, lebih dari setengahnya tidak berbayar. Menurut data yang dikeluarkan '''''Distimo''''', sebuah firma ''app store analytic'', pada Juni 2010, 57% aplikasi di Android Market adalah aplikasi tak berbayar <ref name="c">[http://www.distimo.com/uploads/reports/Distimo%20Report%20-%20June%202010.pdf/] ''Distimo report  June 2010.''</ref>. Tak heran bila dalam waktu kurang dari dua tahun sejak dibukanya Android Market, telah ada lebih dari 1 juta kali unduhan <ref name="d">[http://www.fiercemobilecontent.com/story/android-market-application-downloads-surpass-1-billion/2010-07-15/] Android Market application downloads surpass 1 billion/2010-07-15.''</ref>. Meski banyak aplikasi gratis, tidak berarti Android Market tidak mendatangkan keuntungan bagi para pengembang. Keuntungan tersebut datang dari pengiklan yang dapat menyisipkan iklannya dalam aplikasi. Bila pengguna aplikasi mengklik iklan tersebut, pengembang bisa mendapat keuntungan sekitar 0,01  0,05 USD <ref name="e">[http://www.detikinet.com/read/2010/10/17/170646/1467174/317/orang-indonesia-demen-aplikasi-gratisan/]Orang Indonesia demen aplikasi gratisan.</ref> Untuk aplikasi berbayar, Google menerapkan kebijakan pembagian keuntungan sebesar 70% untuk pengembang dan 30% untuk Google Market.
+
+<!-- == Mengunduh aplikasi dari Google Play ==
+
+Google Play dapat diakses dari perangkat Android versi 2.1 ke atas. Berikut ini adalah beberapa langkah dalam menginstal aplikasi dari Google Play.
+
+1.	Mencari aplikasi yang diinginkan. Kita dapat mencari aplikasi berdasarkan klasifikasi, ataupun langsung menggunakan fasilitas ''search.''
+
+2.	Bila kita menguah aplikasi, akan muncul deskripsi tentang deskripsi tersebut, ''rating'' yang diberikan para penggunanya, dan ''review'' atau komentar dari para penggunanya.
+
+3.	Bila kita mengklik ''install'', maka aplikasi akan segera diunduh dan proses unduhan akan berlangsung sebagai ''background process'', sehingga pengguna dapat kembali berselancar di Google Play.
+
+4.	Aplikasi yang telah diunduh dari Google Play akan tampil dalam menu ''downloads''. Pengguna dapat menghapus aplikasi dari menu ini.
+
+
+Format aplikasi yang digunakan oleh ponsel Android adalah '''''Android Package Files''''' (APK). Aplikasi yang diunduh dari Google Play tidak secara otomatis terinstal manakala telah selesai diunduh. Diperlukan layanan ''file manager'' untuk menginstal aplikasi-aplikasi tersebut. Pada Android versi 2.1 kebawah, aplikasi akan terinstal di memori internal perangkat. Namun, pada Android versi 2.2, aplikasi dapat diinstal di memori eksternal, sehingga memori internal perangkat dapat lebih leluasa.
+-->
+== Beberapa isu seputar Google Play ==
+
+=== Pasar bebas ===
+
+Google Play memiliki filosofi [[pasar bebas]], dimana tidak ada sensor atau kontrol yang berarti bagi aplikasi-aplikasi yang beredar. Penggunalah yang memberikan penilaian, dengan memberi ''rate'' (bintang 1-5) dan memberikan ''review'' atau komentar tentang aplikasi tersebut. Para pengguna tentu akan memilih aplikasi dengan bintang tertinggi, dan dengan mempertimbangkan pengalaman para pengguna lain yang memberikan komentar tentang aplikasi tersebut. Sistem ini membuat para pengembang aplikasi menjadi lebih responsif terhadap keinginan pengguna. Namun, sistem ini juga memungkinkan Google Play disusupi [[virus]] atau ''[[malware]]'' yang mengganggu dan merugikan pengguna.
+
+=== Kerentanan perangkat Android ===
+
+Perangkat Android dapat menjalankan aplikasi dari pengembang pihak ketiga. Ketika proses instalasi, perangkat akan menanyakan apakah pengguna mengizinkan aplikasi tersebut untuk melakukan akses dan modifikasi terhadap perangkat, seperti mengakses internet, melakukan panggilan, mengirimkan SMS, membaca dan menulis data di kartu memori, mengakses daftar kontak, mengirimkan data pengguna, atau yang lainnya. Inilah yang membuat perangkat Android rentan terhadap serangan virus atau ''malware''. Namun, sejauh ini laporan serangan virus atau ''malware'' terbilang masih sangat sedikit.
+
+=== Pembajakan ===
+
+Sejauh ini, hanya 32 negara yang dapat melakukan pembelian aplikasi berbayar di Google Play, dan hanya 29 negara yang dapat melakukan penjualan aplikasi. Keterbatasan penjualan ini dapat mendorong pembajakan aplikasi berbayar, terutama dari negara-negara yang belum didukung Google Play.
+
+==Ketersediaan==
+Pengguna di luar negara / wilayah yang tercantum di bawah ini hanya memiliki akses ke aplikasi gratis dan permainan melalui Google Play.
+
+{| class="wikitable sortable"
+|-
+! rowspan = "2" |Negara/Wilayah
+! colspan = "2" |Aplikasi dan permainan berbayar
+! rowspan = "2" |Perangkat
+! rowspan = "2" |Majalah
+! rowspan = "2" |Buku
+! colspan = "2" |Film & TV
+! colspan = "2" |Musik
+|-
+! Pembeli dapat membeli<ref>{{cite web|url=https://support.google.com/googleplay/answer/143779|title=Paid App Availability|publisher=Google Play Help}}</ref>
+! Pengembang dapat menjual<ref>{{cite web|url=http://support.google.com/googleplay/android-developer/answer/150324?hl=en-GB|title=Supported locations for merchants|publisher=Google Play Help}}</ref>
+! Film
+! Acara TV
+! Standar
+! Semua akses
+|-
+| {{flag|Albania}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{ALG}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{ANG}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{ATG}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{ARG}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{ARM}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{ARU}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{AUS}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+|-
+| {{AUT}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+|-
+| {{AZE}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{BHS}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{BHR}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{BGD}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{BLR}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+|-
+| {{BEL}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+|-
+| {{BLZ}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{BEN}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{BOL}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+|-
+| {{BIH}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+|-
+| {{BWA}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{BRA}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+|-
+| {{BGR}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+|-
+| {{BFA}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{KHM}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{CMR}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{CAN}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+|-
+| {{CPV}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{CHL}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+|-
+| {{CHN}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{COL}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+|-
+| {{CRI}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+|-
+| {{HRV}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+|-
+| {{CYP}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{CZE}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+|-
+| {{DNK}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+|-
+| {{DOM}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+|-
+| {{ECU}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+|-
+| {{EGY}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{SLV}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+|-
+| {{EST}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+|-
+| {{FJI}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{FIN}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+|-
+| {{FRA}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+|-
+| {{GAB}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{GER}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+|-
+| {{GHA}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{GRC}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+|-
+| {{GTM}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+|-
+| {{GNB}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{HTI}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{HND}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+|-
+| {{HKG}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{HUN}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+|-
+| {{ISL}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+|-
+| {{IND}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{IDN}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{IRL}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+|-
+| {{ISR}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{ITA}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+|-
+| {{CIV}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{JAM}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{JPN}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{JOR}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{KAZ}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{KEN}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{KWT}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{KGZ}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{LAO}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{LVA}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+|-
+| {{LBN}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{LIE}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+|-
+| {{LTU}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+|-
+| {{LUX}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+|-
+| {{MKD}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+|-
+| {{MAS}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{MLI}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{MLT}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+|-
+| {{MUS}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{MEX}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+|-
+| {{MDA}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{MAR}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{MOZ}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{NAM}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{NPL}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{NLD}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+|-
+| {{Flag|Netherlands Antilles}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{NZL}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+|-
+| {{NIC}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+|-
+| {{NER}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{NGA}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{NOR}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+|-
+| {{OMN}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{PAK}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{PAN}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+|-
+| {{PNG}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{PRY}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+|-
+| {{PER}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+|-
+| {{PHL}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{No|No}}
+|-
+| {{POL}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+|-
+| {{PRT}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+|-
+| {{QAT}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{ROM}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+|-
+| {{RUS}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+|-
+| {{RWA}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{KSA}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{SEN}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{SRB}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+|-
+| {{SGP}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{SVK}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+|-
+| {{SVN}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+|-
+| {{ZAF}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{KOR}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{ESP}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+|-
+| {{LKA}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{SWE}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+|-
+| {{CHE}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+|-
+| {{TWN}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{TJK}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{TZA}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{THA}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{TGO}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{TTO}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{TUN}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{TUR}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{TKM}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{UGA}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{UKR}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+|-
+| {{UAE}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{UK}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+|-
+| {{USA}}{{efn|termasuk [[Puerto Rico]], [[American Samoa]], [[Guam]], [[Pulau Marshall]], [[Pulau Mariana Utara]], [[Palau]], dan [[United States Virgin Islands|Pulau Virgin]] Untuk Aplikasi berbayar saja}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+|-
+| {{URY}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+|-
+| {{UZB}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{VEN}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+|-
+| {{VNM}}
+| {{Yes|Yes}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{YEM}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{ZMB}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|-
+| {{ZWE}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+| {{Yes|Yes}}
+| {{No|No}}
+| {{No|No}}
+| {{No|No}}
+|}
+
+== Referensi ==
+{{Reflist}}
+
+== Pranala Luar ==
+* [https://play.google.com/store Google Play Official Website]
+* {{Google+|106886664866983861036|name=Google Play }}
+
+{{Google Inc.}}
+{{Platform distribusi digital}}[[Kategori:Google]] [[Kategori:Google]]

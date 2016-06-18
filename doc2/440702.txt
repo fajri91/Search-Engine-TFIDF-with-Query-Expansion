@@ -1,0 +1,40 @@
+Templat:Pemerintahan London Raya
+{{Navbox
+| name  = Pemerintahan London Raya
+| title = Pemerintahan [[London Raya]]
+| state = collapsed
+| bodyclass = hlist
+
+| above = [[City of London]] {{}} [[London]]
+
+| group1 = Regional
+| list1  = [[Otoritas London Raya]] {{}} [[Majelis London]] {{}} [[Walikota London]] {{}} [[London Development Agency]] {{}} [[Transport for London]] {{}} [[Mayor's Office for Policing and Crime]] {{}} [[Otoritas Perencanaan Darurat dan Pemadam Kebakaran]] {{}} [[Dewan London]]
+
+| group2 = [[Borough London|Borough]]
+| list2  = [[Barking dan Dagenham (borough London)|Barking&nbsp;dan Dagenham]] {{}} [[Barnet (borough London)|Barnet]] {{}} [[Bexley (borough London)|Bexley]] {{}} [[Brent (borough London)|Brent]] {{}} [[Bromley (borough London)|Bromley]] {{}} [[Camden (borough London)|Camden]] {{}} [[Croydon (borough London)|Croydon]] {{}} [[Ealing (borough London)|Ealing]] {{}} [[Enfield (borough London)|Enfield]] {{}} [[Greenwich (borough kerajaan)|Greenwich]] {{}} [[Hackney (borough London)|Hackney]] {{}} [[Hammersmith dan Fulham (borough London)|Hammersmith&nbsp;dan Fulham]] {{}} [[Haringey (borough London)|Haringey]] {{}} [[Harrow (borough London)|Harrow]] {{}} [[Havering (borough London)|Havering]] {{}} [[Hillingdon (borough London)|Hillingdon]] {{}} [[Hounslow (borough London)|Hounslow]] {{}} [[Islington (borough London)|Islington]] {{}} [[Kensington dan Chelsea (borough kerajaan)|Kensington&nbsp;dan Chelsea]] {{}} [[Kingston upon Thames (borough kerajaan)|Kingston upon Thames]] {{}} [[Lambeth (borough London)|Lambeth]] {{}} [[Lewisham (borough London)|Lewisham]] {{}} [[Merton (borough London)|Merton]] {{}} [[Newham (borough London)|Newham]] {{}} [[Redbridge (borough London)|Redbridge]] {{}} [[Richmond upon Thames (borough London)|Richmond upon Thames]] {{}} [[Southwark (borough London)|Southwark]] {{}} [[Sutton (borough London)|Sutton]] {{}} [[Tower Hamlets (borough London)|Tower&nbsp;Hamlets]] {{}} [[Waltham Forest (borough London)|Waltham&nbsp;Forest]] {{}} [[Wandsworth (borough London)|Wandsworth]] {{}} [[City of Westminster|Westminster]]
+
+| group3 = Seremonial
+| list3  = [[Walikota Tertinggi London|Walikota Tertinggi City of London]] {{}} [[Letnan Tertinggi London Raya]]
+
+| group4 = [[Sejarah pemerintahan daerah di London|Sejarah]]
+| list4  = [[Metropolitan Board of Works]]&nbsp;<small>(MBW)&nbsp;18551889</small> {{}} [[Dewan London County]]&nbsp;<small>(LCC)&nbsp;18891965</small> {{}} [[Dewan London Raya]]&nbsp;<small>(GLC)&nbsp;19651986</small> {{}} [[Daftar kepala pemerintahan London|Pimpinan]]
+}}<noinclude>
+
+[[Kategori:Templat politik]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</noinclude>

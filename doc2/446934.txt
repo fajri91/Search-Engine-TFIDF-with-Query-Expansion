@@ -1,0 +1,18 @@
+Metro (bahasa desain)
+[[Berkas:metro on WP.jpg|thumb|Desain metro pada [[Windows Phone]]]]
+[[Berkas:Windows 8 Start Screen.png|thumb|Desain metro pada [[Windows 8]]]]
+[[Berkas:metromicrosoft.png|thumb|Deskripsi singkat metro oleh Microsoft]]
+'''Metro''' adalah nama kode internal untuk bahasa desain oleh [[Microsoft]], pada awalnya desain ini digunakan pada [[Windows Phone]], kemudian desain ini juga digunakan pada produk Microsoft lainnya, antara lain [[Microsoft Encarta]] 95, [[MSN]] 2.0, [[Windows Live]], Windows Media Center, [[Zune]], [[Windows Phone]], [[Xbox 360]], dan yang terbaru [[Windows 8]]. Sebagian besar model Huruf yang digunakan di desain ini adalah font keluarga Segoe Microsoft. [[Microsoft]] telah menyebarkan memo kepada karyawannya tentang berubahnya METRO UI menjadi Windows 8 UI
+
+== Pranala luar ==
+{{Commons category|Zune}}
+* [http://www.microsoft.com/design/toolbox/tutorials/windows-phone-7/metro/ Metro Design Language of Windows Phone 7], Microsoft
+* [http://msdn.microsoft.com/en-us/library/hh202915%28v=VS.92%29.aspx User Experience Design Guidelines for Windows Phone], Microsoft
+* [http://www.elevatelocal.co.uk/blog/what-is-metro-design-what-are-its-principles-07036316 What is metro design & what are its principles], Elevatelocal
+{{DEFAULTSORT:Metro Ui}}
+{{Keluarga Microsoft Windows}}
+{{Microsoft}}
+{{komputer-stub}}
+
+[[Kategori:Antarmuka pengguna grafis]]
+[[Kategori:Windows Phone]]

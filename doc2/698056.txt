@@ -1,0 +1,166 @@
+Istilah nuklir
+{{paragraf_pembuka|date=2014}}
+
+===A===
+
+*Accelerator :akselerator : Alat yang dapat mempercepat laju suatu partikel bermuatan atau ion hingga mencapai kecepatan yang sangat tinggi mendekati kecepatan cahaya.
+*Actinides : aktinida : unsur-unsur yang memiliki jumlah proton 89 atau lebih dan memiliki sifar kimia yang mirip dengan unsur actinium. Semua unsur aktinida adalah radioaktif dan umumnya memiliki waktu paruh panjang dan pemancar alpha
+*Activity : aktivitas : jumlah peluruhan per satuan waktu pada suatu unsur radioaktif. Satuan aktivitas dinyatakan dalam Becquerel (Bq) yaitu satu peluruhan per detik.
+*Alpha (particle) : partikel alpha : partikel bermuatan positif yang dipancarkan pada saat terjadinya peluruhan radioaktif. Partikel alpha terdiri dari 2 proton dan 2 neutron (inti atom helium-4 (He-4)). Meskipun umumnya berenergi tinggi, namun partikel alpah memiliki daya tembus yang lemah. Jangkauannya diudara hanya mencapai beberapa sentimeter dan dapat dihentikan dengan mudah oleh selembar kertas maupun lapisan terluar kulit.
+*Atom : atom : partikel penyusun unsur yang tidak dapat diuraikan lagi. Atom memiliki sebuah inti atom yang terdiri atas proton bermuatan positif dan neutron yang tidak bermuatan dan mempunyai massa yang sama. Atom netral memiliki jumlah proton dan elektron yang sama.
+*Atomic mass unit (amu) : satuan massa atom (amu) : satuan massa sebesar 1/12 dari massa atom karbon-12 (C-12). Kira-kira setara dengan massa proton atau neutron tunggal. 1 satuan massa atom = 1,6605 x 1027&nbsp;kg; massa elektron = 0,00055 amu; massa proton = 1,00727 amu; massa neutron = 1,00866 amu.
+*Atomic number (Z) : nomor atom (Z) : jumlah proton dalam inti atom, juga menunjukkan posisi unsur dalam tabel periodik.
+
+===B===
+*Background radiation : radiasi latar : radiasi (pengion) yang ada di lingkungan. Sumber radiasi latar antara lain berasal dari angkasa luar (radiasi kosmik) seperti dari matahari, radiasi dari bebatuan, tanah yang kita pijak, bangunan yang kita tempati, udara yang kita hirup, makanan yang kita makan dan bahkan dari tubuh kita sendiri.
+*Becquerel (Bq) : Becquerel : satuan aktivitas rradiasi yang sebanding degan satu peluruhan (disintegrasi) per detik, menggantikan satuan yang lama, yaitu Curie (Ci). 1 Ci sama dengan 3,7 x 1010 Bq.
+*Beta particle : partikel beta : partikel bermuatan yang dipancarkan pada saat peluruhan inti radiaktif. Partikel beta merupakan elektron baik itu yang bermuatan negatif maupun positif. Beta berenergi tinggi dapat menembus udara hingga beberapa meter dan mampu menembus beberapa milimeter ke dalam tubuh manusia. Sedangkan beta berenergi rendah tidak mampu menembus kulit. Kebanyakan partikel beta dapat dihentikan oleh bahan ringan yang tipis seperti aluminium atau plastik.
+*Burnup : derajat bakar : ukuran konsumsi bahan bakar reaktor yang dapat dinyatakan sebagai : a) presentase banyaknya atom yang mengalami fisi atau b) banyaknya energi yang dihasilkan per satuan berat bahan bakar dalam reaktor. Terkadang dinyatakan dalam satuan Megawatt days (Mwd) per ton bahan bakar.
+
+===C===
+*Carbon-14 : karbon-14 : isotop radioaktif yang terjadi secara alami, memiliki waktu paruh 5730 tahun.
+*Radiasi yang dipancarkan bila partikel bermuatan menembus materi dengan kecepatan yang lebih tinggi daripada kecepatan cahaya dalam materi tersebut. (Lihat radiation.)
+*Cerencov, radiation : radiasi cerenkov : emisi cahaya (radiasi) yang dipancarkan bila suatu partikel bermuatan menembus cairan transparan non konduktif atau bahan padat dengan kecepatan melebihi kecepatan cahaya dalam materi tersebut. Partikel beta berenergi tinggi yang berasal dari bahan bakar bekas yang disimpan di dalam air akan menghasilkan radiasi cerenkov berwarna biru.
+*Chain reaction : reaksi berantai : sebuah proses dimana satu reaksi nuklir sebuah atom akan memicu reaksi nuklir atom-atom lain yang ada didekatnya. Sebagai contoh, reaksi fisi di dalam atom uranium akan melepaskan beberapa neutron yang kemudian akan memicu terjadinya reaksi fisi pada atom uranium lainnya.
+*Containment, reactor : pengungkung reaktor : pencegahan pelepasan materi radioaktif, bahkan dalam kondisi kecelakaan sekalipun, dengan melakukan pengawasan terhadap jumlah bahan radioaktif yang diizinkan keluar daerah pengawasan, termasuk sistem pengungkungan itu sendiri.
+*Contamination : kontaminasi : keberadaan zat radioaktif pada tempat atau daerah yang tidak seharusnya.
+*Control rods : Batang kendali : batang, pelat atau tabung yang mengandung materi penyerap neutron (seperti boron dan cadmium), yang digunakan untuk mengendalikan laju reaksi nuklir di dalam reaktor nuklir.
+*Coolant : pendingin : bahan yang dialirkan ke dalam teras reaktor nuklir untuk memindahkan maupun mentransfer panas yang dihasilkan elemen bakar. Bahan yang biasa digunakan sebagai pendingin adalah air, udara, karbon dioksida, natrium cair dan paduan natrium-kalium.
+*Core, reactor : inti reaktor : bagian utama dari reaktor nuklir yang berisi elemen bakar yang merupakan tempat terjadinya reaksi fisi berantai.
+*Criticality : kritikalitas : suatu reaktor nuklir dikatakan kritis ketika laju produksi neutron sebanding dengan laju hilangnya neutron sehingga reaksi berantai dapat terus berlangsung.
+*Critical mass : massa kritis : jumlah minimum bahan fisil yang diperlukan agar reaksi berantai dapat terjadi (kondisi kritis)
+*Cross-section : tampang lintang : suatu ukuran probabilitas terjadinya reaksi nuklir. Probabilitas tersebut digambarkan sebagai suatu area dimana target berada. Dinyatakan dalam Barn ( 1 Barn = 10-28 m2)
+*Curie (Ci) : curie : suatu ukuran radioaktivitas yang lama, satuan yang baru adalah Becquerel. Dimana 1 Ci = 3,7 x 1010disintegrasi per detik (Bq).
+*Cyclotron : siklotron : peralatan yang digunakan untuk mempercepat partikel bermuatan, secara elektromagnetik, dalam lintasan yang berbentuk spiral. Partikel bernergi tinggi yang dihasilkan dapat digunakan untuk mengiradiasi sasaran untuk memperoleh radioisotop.
+
+===D===
+*Decay, radioactive : peluruhan radioaktif : peluruhan spontan inti atom radioaktif berupa pelepasan energi dalam bentuk partikel (seperti alpha dan beta) maupun radiasi gamma, atau kombinasi dari keduanya.
+*Decommissioning : dekomisioning : berhubungan dengan penutupan, pembongkaran ataupun pemindahan suatu fasillitas/instalasi nuklir.
+*Deuterium : deuterium : dikenal pula sebagai hidrogen berat, merupakan isotop hidrogen non radioaktif yang memiliki satu proton dan satu neutron di dalam inti atomnya (massa atomik : 2 amu). Terdapat di alam dengan perbandingan 1:6500 (hidrogen normal hanya memiliki satu proton dan tidak memiliki neutron).
+*Dose, absorbed : dosis terserap : ukuran banyaknya energi radiasi pengion yang diserap oleh materi. Dinyatakan sebagai joule per kilogram atau Gray (Gy)
+*Dose, equivalent : dosis ekuivalen : manyatakan besarnya tingkat kerusakan (efek biologis radiasi) pada jaringan tubuh atau organ, bergantung pada jenis radiasi. Satuan yang digunakan adalah sievert (Sv), namun biasanya besarnya dosis diukur dalam milisievert (mSv) atau mikrosievert (Sv).
+*Dose, effective : dosis efektif : menyatakan besarnya tingkat kerusakan (efek biologis radiasi) di seluruh tubuh. Dosis efektif bergantung pada dosis ekuivalen dan perbedaan radiosensitivitas jaringan tubuh. Satuan yang digunakan adalah sievert (Sv), namun biasanya besarnya dosis diukur dalam milisievert (mSv) atau mikrosievert (Sv).
+*Dosimeter (or Dosemeter) : Dosimeter (atau dosemeter) : alat yang digunakan untuk mengukur dosis radiasi yang diterima seseorang dalam kurun waktu tertentu.
+*Dose limits : Batas dosis : dosis radiasi maksimum (tidak termasuk radiasi latar dan paparan medis) yang diterima seseorang selama kurun waktu yang ditetapkan. Batas dosis yang direkomendasikan secara internasional bagi para pekerja radiasi adalah tidak boleh menerima dosis lebih dari 20 mSv per tahun (selama 5 tahun, dimana pertahunnya tidak boleh lebih dari 50 mSv). Sedangkan bagi masyarakat umum tidak boleh menerima lebih dari 1 mSv pertahun.
+
+===E===
+*Electron : elektron : partikel penyusun atom, mempunyai massa 9,107 x 10-28g dan muatan listrik 4,8025 x 10-10satuan elektrostatik, bisa bermuatan negatif (elektron) atau positif (positron). Elektron mengelilingi inti atom yang bermuatan positif dan menentukan sifat kimia dari atom unsur.
+*Element : unsur : unsur kimia yang tidak dapat dibagi lagi menjadi unsur yang lebih sederhana secara kimia. Unsur memiliki nomor atom yang karakteristik, misal hidrogen, timah, uranium.
+*Enrichment, isotope : pengkayaan isotop : proses peningkatan konsentrasi isotop tertentu pada suatu materi, contohnya adalah uranium yang diperkaya dengan isotop uranium-235 agar dapat digunakan sebagai bahan bakar. Kadar isotop uranium-235 yang terdapat dari uranium alam hanya sekitar 0,7%. Kadar tersebut harus ditingkatkan menjadi sebesar 3% agar reaksi fisi berantai dapat terjadi. Uranium yang diperkaya hingga 20% atau lebih disebut High Enriched Uranium (HEU); dibawah 20% disebut Low Enriched Uranium (LEU). Proses pengayaan isotop uranium dilakukan dengan metode sentrifugasi gas dan difusi gas.
+
+===F===
+*Fertile material : bahan fertil : bahan yang tidak bersifat fisil, tetapi dapat berubah menjadi bahan fisil melalui proses penangkapan neutron dalam reaktor nuklir, contohnya adalah uranium-238 dan thorium-232. Ketika mengankap neutron, unsur tersebut berubah menjadi plutonium-239 dan uranium-233.
+*Fissile material : bahan fisil : bahan yang dapat mengalami fisi ketika menyerap neutron termal (atau lambat), contohnya uranium-235 dan plutonium-239.
+*Fission : fisi : pembelahan inti atom berat diikuti pemancaran neutron, radiasi gamma dan pembebasan sejumlah besar energi. Produk fisi yang dihasilkan umumnya memiliki massa yang tidak jauh berbeda dan bersifat radioaktif.
+*Fission fragments : fragmen fisi : nuklida yang dihasilkan dari proses fisi suatu atom berat seperti uranium-235 atau plutonium-239. Fragmen fisi yang dihasilkan katakan dari uranium-235, tidak selalu berupa atom yang sama, ada beberapa kemungkinan pasangan atom yang dapat terbentuk. Awalnya fragmen fisi yang terbentuk radioaktif dan memancarkan partikel beta dan radiasi gamma sebelum pada akhirnya meluruh menjadi atom-atom lainnya.
+*Fission products : produk fisi : Nuklida stabil atau radioaktif yang dihasilkan oleh reaksi fisi inti uranium, plutonium atau inti atom berat lain.
+*Flux, neutron : flux neutron : ukuran intensitas radiasi neutron, yaitu jumlah neutron yang melalui luasan satu sentimeter persegi per detik.
+*Fuel cycle, nuclear : daur bahan bakar nuklir : serangkaian proses mulai dari pengadaan bahan bakar nuklir hingga pengelolaan limbah nuklir. Termasuk di dalamnya penambangan bahan bakar nuklir, pemurnian, pengayaan uranium, fabrikasi bahan bakar, pengginaannya di reaktor untuk pembangkitan energi, proses olah ulang bahan fisil yang tersisa di dalam bahan bakar bekas pakai, kemungkinan pengkayaan ulang (re-enrichment) bahan bakar nuklir, fabrikasi ulang, pengolahan dan penyimpanan limbah jangka panjang.
+*Fuel rod : batang bahan bakar : elemen bahan bakar berisi bahan fisil berbentuk batang atau pin. Beberapa batang bahan bakar dapat dirakit menjadi elemen bahan bakar.
+*Fusion : fusi : pembentukan inti berat dari dua inti ringan (contohnya atom hidrogen) yang disertai dengan pelepasan energi (seperti pada reaktor fusi atau matahari)
+
+===G===
+*Gamma radiation : radiasi gamma : radiasi elektromagnetik yang memiliki rentang panjang gelombang pendek. Radiasi gamma memiliki daya tembus yang tinggi, dan memerlukan lapisan beton atau timbal yang tebal (tergantung pada seberapa besar energinya) untuk menahannya. Radiasi gamma dapat menyebabkan ionisasi pada jaringan yang dilewatinya, sehingga berpotensi menyebabkan kerusakan biologis. Umumnya radiasi gamma dimanfaatkan dalam sterilisasi produk medis atau makanan.
+*Graphite, nuclear grade : grafit : bentuk karbon paling murni yang dapat digunakan sebagai moderator dan reflektor pada reaktor.
+*Gray (Gy) : gray : satuan dalam sistem SI untuk dosis terserap radiasi pengion, setara dengan satu joule energi terserap per kilogram materi yang diiradiasi; menggantikan satuan rad, dimana 1 Gy = 100 rad (=1 J/Kg)
+
+===H===
+*Half-life, radioactive : umur (waktu) paro radioaktif : waktu yang dibutuhkan bahan radioaktif untuk meluruh menjadi separuh jumlah awalnya. Waktu paro nilainya bermacam-macam, bergantung pada jenis isotop radioaktifnya, mulai dari hitungan 1 per juta detik sampai lebih dari milyaran tahun.
+*Half-life, biological : umur (waktu) paro biologis : waktu yang dibutuhkan suatu zat dalam sistem biologi untuk berkurang hingga tinggal setengah dari jumlah awalnya karena proses biologi.
+*Half-life, effective : umur (waktu) paro efektif : waktu yang diperlukan radionuklida dalam suatu sistem biologi untuk berkurang menjadi separuh dari jumlah awal sebagai hasil kombinasi antara peluruhan radioaktif dan eliminasi biologis.
+*Heavy water : air berat, D2O : air yang mengandung lebih banyak atom hidrogen berat dibandingkan atom hidrogen biasa, dengan perbandingan 1 : 6500. Air berat biasa digunakan sebagai moderator dalam reaktor nuklir yang berfungsi memperlambat laju neutron secara efektif.
+*Hot cell : sel panas : suatu ruangan dengan pengukung berlapis yang dirancang untuk penanganan jarak jauh bahan radioaktifitas tinggi dengan bahaya minimal.
+
+===I===
+*Ion : ion : atom yang telah kehilangan atau mendapatkan satu atau lebih elektron sehingga menjadi bermuatan listrik. Negatif karena penambahan elektron dan positif karena kehilangan elektron.
+*Ionising radioation : radiasi pengion : radiasi yang mampu menimbulkan ionisasi (menghasilkan ion-ion) pada materi yang dilewatinya. Radiasi pengion dapat merusak jaringan biologis.
+*Ionisation : ionisasi : proses perubahan atom atau molekul netral menjadi bermuatan listrik karena pengurangan atau penambahan elektron.
+*Irradiation : iradiasi : pemaparan dari semua jenis radiasi terhadap suatu materi atau makhluk hidup.
+*Isotopes : isotop : nuklida yang memiliki nomor atom sama tetapi mempunya nomor massa yang berbeda. Isotop-isotop yang berbeda dari unsur yang sama memiliki sifat kimia yang sama, akan tetapi memiliki sifat fisika yang berbeda.
+
+===L===
+*Light Water Reactor (LWR) : reaktor air ringan : reaktor nuklir dengan bahan moderator dan pendingin berupa air ringan (H2O) atau air biasa. Pressurised water reactor (PWR  reaktor air bertekanan) dan boiling water reactor (BWR  reaktor air didih) termasuk dalam jenis reaktor ini.
+
+===M===
+*Mass defect (mass deficiency) : defek masa (defisiensi massa) : selisih antara massa partikel penyusun inti atom (proton dan neutron) dengan massa inti atom.
+*Mass sectrometer : spektrometer massa : perangkat yang digunakan untuk mendeteksi dan menganalisis berbagai macam isotop di dalam suatu sampel dengan memanfaatkan medan listik, medan magnet atau kombinasi keduanya.
+*Microsievert (Sv) : mikrosievert : satu seperjuta sievert (= 10-6 sievert).
+*Millisievert (mSv) : milisievert : satu seperibu sievert (=10-3 sievert).
+*Moderator : Moderator : bahan yang digunakan dalam reaktor untuk memperlambat neutron cepat, sehingga meningkatkan probabilitas terjadinya proses fisi lebih lanjut. Contoh bahan yang sering digunakan sebagai moderator adalah air biasa, air berat, berilium dan grafit.
+*Monitoring, radiation : monitoring radiasi : pengamatan berkala dosis paparan radiasi atau aktivitas radionuklida untuk pengawasan dan evaluasi keselamatan.
+*Megawatt (MW) : megawatt : satuan daya, sebanding dengan 1 juta watt. Mwth menyatakan hasil panas termal.
+
+===N===
+*Neutron : neutron : partikel elementer tidak bermuatan, memiliki massa yang sedikit lebih besar dari proton, terdapat di dalam inti atom semua unsur kecuali atom hidrogen (H-2). Neutron merupakan mata rantai dari reaksi berantai di dalam reaktor nuklir.
+*Neutron activation analysis : analisis aktivasi neutron : suatu metode analisis yang berdasarkan pada identifikasi dan pengukuran radiasi karakteristik yang dihasilkan radionuklida dari suatu sampel yang diiradiasi dengan neutron.
+*Neutron scattering : hamburan neutron : suatu teknik yang digunakan untuk melihat detail struktur dari suatu unsur. Teknik ini dilakukan dengan menembakkan neutron kepada sampel target, kemudian mengamati hamburannya. Ada dua kemungkinan, neutron akan lewat di antara atom-atom atau neutron akan bertumbukan dengan inti atom. Jika bertumbukan dengan inti, neutron tidak terpental secara acak, melainkan dibelokkan dengan pola/jalur yang spesifik tergantung pada struktur bahan.
+*Neutron, delayed : neutron kasip : neutron yang dipancarkan oleh produk fisi radioaktif dalam reaktor yang berlangsung beberapa waktu (detik atau menit) setelah terjadi fisi. Neutron-neutron ini berperan penting dalam kontrol reaktor nuklir.
+*Neutron, fast : neutron cepat : neutrin yang dihasilkan dari reaksi fisi; lebih cepat ribuan kali dari neutron lambat; berguna untuk mempertahankan reaksi fisi dalam reaktor cepat (fast reactor).
+*Neutron, thermal or slow : neutron termal atau lambat : neutron yang bergerak dengan energi yang sebanding dengan atom-atom pada temperatur kamar; digunakan untuk mempertahankan reaksi berantai di dalam reaktor termal.
+*Nuclear reactor : reaktor nuklir : tempat dimana reaksi fisi berantai dapat dimulai, dipertahankan dan dikendalikan. Komponen utamanya terdiri dari bahan bakar, pendingin, moderator, reflektor, dan pengendali. Umumnya dikelilingi oleh struktur beton (perisai biologi) yang berfungsi untuk menyerap neutron dan emisi gamma.
+*Nucleus : nukleus : bagian terkecil atau inti atom yang bermuatan positif. Diameter inti atom sekitar 1/10000 dari diameter atom, bermassa hampir sama dengan massa atom. Inti atom terdiri atas proton dan neutron, kecuali inti atom hidrogen normal (nomor massa atom satu) yang hanya terdiri dari proton.
+*Nuclide : nuklida : istilah umum untuk semua atom unsur, yang dibedakan menurut nomor atom (proton), nomor massa (proton dan neutron) dan tingkat energi nya.
+
+===P===
+*Particle detector, bubble chamber : partikel detektor, kamar gelembung : piranti yang digunakan untuk mendeteksi dan mempelajari partikel elementer dan reaksi inti. Pergerakan dan tumbukan antar partikel terionisasi dianalisa dengan mengamati jejak gelembung gas yang membentuk lintasan partikel ketika melewati cairan yang sangat panas.
+*Particle detector, cloud chamber : partikel detektor, kamar kabut : ruangan berisi uap superjenuh yang digunakan untuk menunjukkan lintasan-lintasan partikel subatomik bermuatan (radiasi pengion) di udara. Ketika partikel-partikel ini melewati udara, mereka bertumbukan dengan molekul-molekul udara dan mengakibatkan terjadinya ionisasi, meninggalkan jejak ion positif dan negatif dan Jika tekanan udara di dalam kamar dikurangi, partikel-partikel uap superjenuh akan mengembun pada ion-ion, sehingga jejak tetes-tetes uap sepanjang lintasan ion-ion dapat terlihat.
+*Plutonium : plutonium : unsur logam berat radioaktif buatan. Isotopnya yang paling penting adalah plutonium-239 yang fisil. Isotop ini dihasilkan dari iradiasi uranium-238 dengan neutron. Plutonium-239 dapat digunakan sebagai bahan bakar reaktor nuklir maupun sebagai bahan peledak senjata nuklir.
+*Progeny : progeni : nuklida yang terbentuk dari peluruhan suatu radionuklida (yang disebut induk atau parent)
+*Proton : proton : partikel subatomik yang bermuatan positif (+1), memiliki massa 1837 kali lebih berat dari massa elektron dan sedikit lebih ringan dibandingkan neutron. Proton merupakan partikel penyusun inti atom dan terdapat disemua atom.
+
+===Q===
+*Quark : quark : partikel elementer pembentuk materi. Quark memiliki memiliki muatan listrik yang besarnya 1/3 atau 2/3 dari elektron; merupakan penyusun hadron (termasuk neutron dan proton). Masing-masing quark dibedakan berdasarkan 'flavour (rasa). Ada enam macam quark yaitu : Atas (Up), Bawah (Down), Menarik (Charm), Aneh (Strange), Puncak (Top), dan Dasar (Bottom).
+
+===R===
+*Rad : rad : radiation absorbed dose (dosis radiasi terserap), yaitu satuan dosis dasar radiasi pengion terserap, setara dengan serapan radiasi sebesar 100 erg dalam satu gram materi penyerap. 1 rad = 10-2Gy = 10-2J/kg.
+*Radiation (nuclear) : radiasi (nuklir) : radiasi yang berasal dari inti atom, dapat berupa gelombang elektromagnetik (sinar gamma), partikel cepat bermuatan (elektron, proton, meson, dll) dan neutron (semua kecepatan).
+*Radioactive material : bahan radioaktif : unsur (buatan atau alami) pemancar radioaktif, bisa berbentuk padat atau cair, gas atau uap. Untuk tujuan pengawasan, yang disebut sebagai bahan radioaktif adalah bahan yang memiliki aktivitas sebesar 100 becquerel per gram atau lebih.
+*Radioactive waste : limbah radioaktif : benda yang mengandung dan atau terkontaminasi radionuklida pada konsentrasi atau tingkat radioaktivitas yang melampui ambang batas keselamatan yang ditetapkan oleh lembaga yang berwenang.
+*Radioactive waste, low level : limbah radioaktif tingkat rendah : limbah yang mengandung kadar atau jumlah radioaktif pada tingkat yang melampaui batas ambang aman yang ditetapkan dan proses penanganannya memerlukan standar proteksi personel minimum.
+*Radioactive waste, intermediate : limbah yang mengandung kadar atau jumlah radioaktif pada tingkat yang melampau batas ambang aman, dengan daya termal dibawah 2 kilowatt per m3; proses penanganannya memerlukan pelindung radiasi.
+*Radioactive waste, high level : limbah radioaktof tingkat tinggi : limbah yang mengandung materi radioaktif dengan konsentrasi tinggi, baik itu radionuklida yang berumur panjang maupun pendek, limbah ini menghasilkan panas lebih dari 2 kilowatt/m3; dalam penanganannya memerlukan perisai (pelindung) radiasi dan pendingin.
+*Radioactivity : radioaktivitas : kemampuan beberapa nuklida (isotop tidak stabil) untuk memancarkan partikel-partikel, sinar gamma atau sinar-x, selama proses peluruhan spontan menjadi nuklida lain yang spontan.
+*Radioisotope : radioisotop : isotop yang radioaktif. Kebanyakan isotop alami lebih ringan dari bismuth dan tidak radioaktif. Ada 3 isotop alam yang radioaktif, yaitu radon-222, carbon-14 dan potassium-40.
+*Radionuklida : radionuklida : inti atom (nucleus) dari radioisotop.
+*Radiopharmaceutical : radiofarmaka : radionuklida atau senyawa bertanda yang mengandung radioisotop perunut. Setelah memasuki tubuh, senyawa yang telah dilabeli dengan unsur radioaktif tersebut akan terakumulasi di dalam organ spesifik atau tumor dan secara spontan akan memancarkan radiasi dalam jumlah yang aman untuk diagnosis atau mengobati penyakit tertentu.
+*Radon : radon : unsur gas radioaktif alam (unsur gas terberat dari semua unsur gas lainnya), dengan nomor atom 86 dan nomor massa 222. Radon merupakan progeni (hasil luruhan) dari deret peluruhan uranium. Radon memberikan kontribusi radiasi latar terbesar; gas radon dipancarkan dari dari tanah, bebatuan dan beton.
+*Rem : rem (singkatan dari roentgen equivalent man) : ukuran dari dosis radiasi pengion yang dapat menimbulkan efek biologis radiasi. Satuan ini sudah diganti dengan satuan Sievert (Sv), dimana 1 Sievert = 100 rem.
+*Reprocessing : olah ulang : rekoveri sisa bahan fisil (uranium dan plutonium) dan bahan fertil dari bahan bakar bekas pakai, untuk diproses dan digunakan kembali sebagai bahan bakar.
+
+===S===
+*Sievert : sievert : satuan dosis ekuivalen dan dosis efektif; menggantikan satuan rem : 1 Sv = 100 rem.
+*Spent fuel : bahan bakar bekas pakai : elemen bahan bakar dimana prosentasi bahan fisil tidak lagi cukup untuk menghasilkan reaksi fisi berantai; sebagian besar terdiri dari produk hasil fisi. Disebut juga sebagai bahan bakar teriradiasi.
+*Stable isotope : isotop stabil : isotop yang tidak radioaktif
+*Synchrotron : sinkroton : akselerator yang partikelnya bergerak menurut lintasan melingkar akibat medan listrik berfrekuensi; kuat medan magnet dan frekuensi dari tegangan akselerasi sebanding dengan energi partikel untuk mempertahankan lintasan orbitalnya.
+*Synroc : synroc : materi buatan manusia, berupa batuan mirip keramik yang dapat digunakan secara permanen untuk mengungkung atom-atom radioaktif untuk penyimpanan jangka panjang.
+
+===T===
+*Thermal reactor : reaktor termal : reaktor yang reaksi fisi berantainya lebih dominan disebabkan oleh neutron termal.
+*Thorium : torium : unsur radioaktif alam dengan nomor atom 90 dan nomor massa 232. Isotop fertil torium-232 sangat banyak di alam dan ketika menyerap neutron bertransmutasi menjadi Th-233 yang kemudian menghasilkan isotop U-233 yang bersifat fisil.
+*TLD : TLD (singkatan dari Thermo Luminescent Dosimeter) : dosimeter uang menggunakan sifat termo-luminescent dari suatu materi untuk mengukur dosis radiasi yang diterima selama periode waktu tertentu.
+*Tracer, radioisotope : perunut radioisotop : radioisotop yang diinjeksikan kedalam suatu sistem dan berfungsi sebagai sinyal perunut; pergerakannya dapat dilacak untuk mempelajari pergerakan dari bagian-bagian dari sistem tersebut.
+*Transuranics : transuranik : unsur-unsur dengan nomor atom lebih besar dari 92. Semua unsur transuranik adalah unsur buatan (misalnya dengan menembaki uranium dengan neutron) dan bersifat radioaktif. Beberapa di antaranya terdapat pada bahan bakar bekas.
+*Tritium : tritium : isotop radioaktif hidrogen dengan dua neutron dan satu proton dalam inti (massa atom 3, dilambangkan dengan H-3). Sangat jarang ditemukan di alam, bersifat radioaktif alami. Dapat dibuat dengan berbagai cara, antara lain dengan neutron absorbsi unsur Lithium, Deuterium atau air berat.
+
+===U===
+*Uranium : uranium : unsur radioaktif dengan nomor atom 92 dan nomor massa 238. Terdiri atas dua jenis isotop fisil (uranium-235 dan uranium-233) dan dua isotop fertil (uranium-238 dan uranium-234). Uranium adalah bahan dasar energi nuklir.
+*Uranium, depleted : uranium susut kadar : uranium yang memiliki kadar uranium-235 lebih kecil dari prosentase awal (alami) atau lebih kecil dari 0,7% kadar uranium alam. Melalui proses pengkayaan dalam daur bahan bakar, kadarnya dapat ditingkatkan menjadi 0,20-0,25% uranium-235, sedangkan sisanya berupa uranium-238.
+*Uranium, enriched : uranium diperkaya : uranium yang kandungan isotop fisil uranium-235 nya telah ditingkatkan menjadi lebih dari 0,71% (alam). Agar dapat digunakan sebagai bahan bakar reaktor, biasanya kandungan uranium-235 harus ditingkatkan hingga 20-40%. Sedangkan untuk reaktor pembiak cepat (fast breeding reactor) diperlukan bahan bakar berupa high enriched uranium yang mengandung lebih dari 90% uranium-235. Pengkayaan hingga 90% juga berpotensi untuk digunakan sebagai senjata nuklir.
+*Uranium hexafloride (UF6) : uranium hexaflorida, UF6 : senyawa uranium dan fluor yang berwujud gas pada suhu diatas 56oC dan merupakann bentuk yang sesuai untuk proses pengkayaan uranium.
+
+===V===
+*Vitrification : vitrivikasi : proses penggabungan limbah radioaktifit level menengah maupun tinggi ke dalam matriks gelas untuk penyimpanan jangka panjang.
+
+===W===
+*Whole body monitor : monitoring seluruh tubuh : alat yang digunakan untuk mengukur radiasi pada tubuh, biasanya dilengkapi dengan perisai logam sehingga radiasi latar tidak ikut tercacah.
+
+===X===
+*X-ray : sinar-X : radiasi forton (elektromagnetik) dengan panjang gelombang lebih pendek dari panjang gelombang cahaya tampak, tetapi umumnya lebih panjang bila dibandingkan dengan sinar gamma; memiliki daya tembus tinggi. Sinar- X dihasilkan ketika elektron bernenergi tinggi menumbuk suatu target logam.
+
+===Y===
+*Yellow cake : keik kuning : konsentrat uranium-oksida yang dihasilkan dari pemekatan bijih uranium hasil tambang, biasanya dinotasikan sebagai U3O8. Bila dikeringkan pada suhu rendah akan berwarna kuning, dan pada suhu yang lebih tinggi akan berwarna coklat terang.
+
+== Referensi ==
+{{Reflist}}
+
+[[Kategori:Istilah nuklir]]

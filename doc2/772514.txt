@@ -1,0 +1,44 @@
+Stasiun Tanjungrambang
+{{infobox stasiun
+|image=Stasiun Tanjungrambang 08-2015.jpg
+|caption=Stasiun Tanjungrambang
+|name=Tanjungrambang
+|prov=Sumatera Selatan
+|kota=Prabumulih
+|kecamatan kota=Rambang Kapak Tengah
+|kelurahan kota=Tanjung Rambang
+|kodepos=31131
+|open=
+|close=
+|kode=TJR
+|tinggi=+20 m
+|letak=km 309+260
+|line=<i>Melayani persilangan KA</i>
+|operator=[[Divisi Regional III Sumatera Selatan dan Lampung]]
+}}
+'''Stasiun Tanjungrambang''' ('''TJR''') adalah stasiun kereta api yang berada di [[Tanjung Rambang, Rambang Kapak Tengah, Prabumulih|Tanjung Rambang]], [[Rambang Kapak Tengah, Prabumulih|Rambang Kapak Tengah]], [[Kota Prabumulih|Prabumulih]]. Stasiun ini merupakan stasiun paling utara di Sub-Divre III.2 Tanjungkarang.
+
+<center>
+{|class=wikitable style=text-align:center
+|-
+!Stasiun sebelumnya:
+|rowspan=2|[[Jalur kereta api Panjang-Prabumulih]]
+!Stasiun berikutnya:
+|-
+|[[Stasiun Sukamerindu]]
+|[[Stasiun Prabumulih]]
+|-
+!Stasiun sebelumnya:
+|rowspan=2|[[Jalur kereta api Prabumulih-Lubuk Linggau]]
+!Stasiun berikutnya:
+|-
+|<nowiki>---</nowiki>
+|[[Stasiun Prabumulihbaru]]
+|}
+</center>
+
+{{stasiun-stub}}
+{{coord|-3.544066|104.261842|display=title}}
+[[Kategori:Stasiun kereta api di Sumatera Selatan|Tanjungrambang]]
+[[Kategori:Kota Prabumulih]]
+[[Kategori:Rambang Kapak Tengah, Prabumulih]]

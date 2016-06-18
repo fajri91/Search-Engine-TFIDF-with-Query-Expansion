@@ -1,0 +1,74 @@
+Bandar Udara Kirundo
+{{Infobox Airport
+| name         = Bandar Udara Kirundo
+| nativename   =
+| nativename-a =
+| nativename-r =
+| image        =
+| image-width  = <!-- if less than 200 -->
+| caption      =
+| image2       =
+| image2-width = <!-- if less than 200 -->
+| caption2     =
+| IATA         = KRE
+| ICAO         = HBBO
+| FAA          =
+| TC           =
+| LID          =
+| GPS          =
+| WMO          =
+| type         =
+| owner-oper   =
+| owner        =
+| operator     =
+| city-served  = [[Kirundo]], [[Burundi]]
+| location     =
+| hub          =
+| built        = <!-- military airports -->
+| used         = <!-- military airports -->
+| commander    = <!-- military airports -->
+| occupants    = <!-- military airports -->
+| metric-elev  =
+| elevation-f  =
+| elevation-m  = 
+| coordinates  =
+| latd =  02 | latm = 32 | lats = 50 | latNS = S
+| longd= 030 | longm= 05 | longs= 39 | longEW= E
+| coordinates_type       = airport
+| coordinates_region     = BI
+| coordinates_notitle    =
+| website                =
+| image_map              =
+| image_mapsize          =
+| image_map_alt          =
+| image_map_caption      =
+| pushpin_map            = Burundi
+| pushpin_label_position = 
+| pushpin_label          = KRE
+| pushpin_map_alt        =
+| pushpin_mapsize        =
+| pushpin_image          =
+| pushpin_map_caption    = Lokasi bandar udara di Burundi
+| r1-number    =
+| r1-length-f  =
+| r1-length-m  =
+| r1-surface   = <!-- up to r8 -->
+| metric-rwy   =
+| h1-number    =
+| h1-length-f  =
+| h1-length-m  =
+| h1-surface   = <!-- up to h12 -->
+| stat1-header =
+| stat1-data   = <!-- up to stat4 -->
+| stat-year    =
+| footnotes    = Sumber: Great Circle Mapper<ref name="GCM">{{GCM|KRE}}</ref>
+}}
+'''Bandar Udara Kirundo''' {{airport codes|KRE|HBBO}} adalah [[bandar udara]] yang melayani kota [[Kirundo]], [[Burundi]]. 
+
+==Referensi==
+{{reflist}}
+
+{{DEFAULTSORT:Kirundo, bandar udara}}
+{{bandara-afrika-stub}}
+
+[[Kategori:Bandar udara di Burundi]]

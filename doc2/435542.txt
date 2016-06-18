@@ -1,0 +1,14 @@
+Wikipedia:Gambar pilihan/9 2012
+{{GP/2
+|gambar     = Low grade squamous intraepithelial lesion.jpg
+|vertikal   = n
+|deskripsi  = Mikrograf hasil ''[[Pap smear]]'' menunjukkan sel-sel abnormal yang mungkin berpotensi menjadi [[kanker leher rahim]].
+|oleh       = [[:commons:User:Nephron|Nephron]]
+|lisensi    = {{GP-CCGNU}}
+|ukuran     = 999 KB
+|dimensi    = 3.220  2.096
+|tahun      = 2012
+|seluler    = {{{seluler|no}}}
+|sblm       = Ferrari 054 V10 engine.jpg
+|des-sblm   = Mesin V10 Ferrari
+}}<noinclude>{{GPdoc|9 2012}}</noinclude>

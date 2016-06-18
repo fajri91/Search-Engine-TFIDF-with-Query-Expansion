@@ -1,0 +1,13 @@
+Berkas:Komunitas Salihara1.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    = (deskripsi}
+| source         = http://www.sosbud.kompasiana.com
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{fairuse}}

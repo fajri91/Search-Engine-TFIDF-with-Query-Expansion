@@ -1,0 +1,253 @@
+Asam sulfat
+{{chembox
+|   Name = Asam sulfat
+|   ImageFile = Sulfuric-acid-2D-dimensions.svg 
+|   ImageFile1 = Sulfuric-acid-3D-vdW.png 
+|   IUPACName = Asam sulfat
+|   OtherNames = Minyak vitriol
+| Section1 = {{Chembox Identifiers
+|   CASNo = 7664-93-9
+|    CASNo_Ref = {{cascite}}
+|   RTECS = WS5600000
+|   EINECS = 231-639-5
+|   UNNumber = 1830
+|   InChI = 1S/H2O4S/c1-5(2,3)4/h(H2,1,2,3,4)
+|   SMILES = OS(=O)(=O)O
+|   PubChem = 1118
+  }}
+| Section2 = {{Chembox Properties
+|   Formula = H<sub>2</sub>SO<sub>4</sub> 
+|   MolarMass = 98,08 g/mol
+|   Appearance = Cairan higroskopis, berminyak, tak berwarna, tak berbau<ref name=ICSC0362>{{cite|title=SULFURIC ACID, concentrated (> 51% and < 100%)|url=http://www.ilo.org/dyn/icsc/showcard.display?p_lang=en&p_card_id=0362|publisher=International Programme on Chemical Safety|accessdate=2016-02-29}}</ref>
+|   Density = 1,84 g/cm<sup>3</sup><ref name=NIOSH>{{cite|title=Sulfuric acid|url=http://www.cdc.gov/niosh/npg/npgd0577.html|web=NIOSH-PocketGuide|accessdate=2016-02-29}}</ref>
+|   Solubility = tercampur penuh
+|   MeltingPt = {{convert|10|C|K}}<ref name=ICSC0362 />
+|   BoilingPt = {{convert|337|C|K}}<ref name=ICSC0362 />
+|   Viscosity = 26,7 [[Poise|cP]] (20&nbsp;C)
+|   pKa = 1,98 pada 25C<ref>{{cite|author=Lide, D.R.|title=CRC Handbook of Chemistry and Physics|edition=88th|year=2007-2008|publisher=CRC Press, Taylor & Francis|location=Boca Raton, FL|year=2007|pages=8-41}}</ref>
+|   VaporPressure = <10 Pa pada 20C (diabaikan)<ref name=ICSC0362 />
+  }}
+| Section7 = {{Chembox Hazards
+|   ExternalMSDS = [http://www.ilo.org/public/english/protection/safework/cis/products/icsc/dtasht/_icsc03/icsc0362.htm ICSC 0362]
+|   EUIndex = 016-020-00-8
+|   FlashPt = tak ternyalakan
+|   EUClass = Korosif ('''C''')
+|   NFPA-H = 3
+|   NFPA-F = 0
+|   NFPA-R = 2
+|   NFPA-O = W
+|   RPhrases = {{R35}}
+|   SPhrases = {{S1/2}}, {{S26}}, {{S30}}, {{S45}}
+  }}
+| Section8 = {{Chembox Related
+|   Function = [[Asam kuat]] 
+|   OtherFunctn = [[Asam selenat]]{{br}}[[Asam klorida]]{{br}}[[Asam nitrat]] 
+|   OtherCpds = [[Asam sulfit]]{{br}}[[Asam peroksimonosulfat]]{{br}}[[Sulfur trioksida]]{{br}}[[Oleum]]
+  }}
+}}
+
+'''Asam sulfat''', [[hidrogen|H]]<sub>2</sub>[[belerang|S]][[oksigen|O]]<sub>4</sub>, merupakan [[asam mineral]] (anorganik) yang kuat. Zat ini larut dalam [[air]] pada semua perbandingan. Asam sulfat mempunyai banyak kegunaan dan merupakan salah satu produk utama [[industri kimia]]. Produksi dunia asam sulfat pada tahun 2001 adalah 165 juta ton, dengan nilai perdagangan seharga US$8 juta. Kegunaan utamanya termasuk pemrosesan bijih [[mineral]], sintesis kimia, pemrosesan air [[limbah]] dan pengilangan minyak.
+
+== Keberadaan ==
+Asam sulfat murni yang tidak diencerkan tidak dapat ditemukan secara alami di bumi oleh karena sifatnya yang [[higroskopis]]. Walaupun demikian, asam sulfat merupakan komponen utama [[hujan asam]], yang terjadi karena [[oksidasi]] [[sulfur dioksida]] di atmosfer dengan keberadaan [[air]] (oksidasi [[asam sulfit]]). Sulfur dioksida adalah produk sampingan utama dari pembakaran bahan bakar seperti batu bara dan minyak yang mengandung sulfur (belerang).
+
+Asam sulfat terbentuk secara alami melalui oksidasi mineral sulfida, misalnya besi sulfida. Air yang dihasilkan dari oksidasi ini sangat asam dan disebut sebagai [[air asam tambang]]. Air asam ini mampu melarutkan logam-logam yang ada dalam bijih sulfida, yang akan menghasilkan uap berwarna cerah yang beracun. Oksidasi besi sulfida [[pirit]] oleh oksigen molekuler menghasilkan besi(II), atau Fe<sup>2+</sup>:
+
+:2 FeS<sub>2</sub> + 7 O<sub>2</sub> + 2 H<sub>2</sub>O  2 Fe<sup>2+</sup> + 4 SO<sub>4</sub><sup>2</sup> + 4 H<sup>+</sup>
+
+Fe<sup>2+</sup> dapat kemudian dioksidasi lebih lanjut menjadi Fe<sup>3+</sup>:
+
+:4 Fe<sup>2+</sup> + O<sub>2</sub> + 4 H<sup>+</sup>  4 Fe<sup>3+</sup> + 2 H<sub>2</sub>O
+
+Fe<sup>3+</sup> yang dihasilkan dapat diendapkan sebagai [[hidroksida]]:
+
+:Fe<sup>3+</sup> + 3 H<sub>2</sub>O  Fe(OH)<sub>3</sub> + 3 H<sup>+</sup>
+
+Besi(III) atau ion feri juga dapat mengoksidasi pirit. Ketika oksidasi pirit besi(III) terjadi, proses ini akan berjalan dengan cepat. Nilai [[pH]] yang lebih rendah dari nol telah terukur pada air asam tambang yang dihasilkan oleh proses ini.
+
+=== Asam sulfat di luar angkasa ===
+==== Atmosfer Venus ====
+Asam sulfat diproduksi di atmosfer bagian atas [[Venus]] dari [[karbon dioksida]], [[sulfur dioksida]], dan uap air secara [[fotokimia]] oleh cahaya [[matahari]]. [[Foton]] [[ultraviolet]] dengan panjang gelombang kurang dari 169 [[nanometer|nm]] dapat mengakibatkan fotodisosiasi karbon dioksida menjadi [[karbon monoksida]] dan [[oksigen]] atomik.
+
+Oksigen atomik sangatlah reaktif. Ketika ia bereaksi dengan sulfur dioksida yang merupakan sekelumit bagian dari atmosfer Venus, [[sulfur trioksida]] dihasilkan, dan ketika bergabung dengan air, akan menghasilkan asam sulfat.
+
+:CO<sub>2</sub>  CO + O
+:SO<sub>2</sub> + O  SO<sub>3</sub>
+:SO<sub>3</sub> + H<sub>2</sub>O  H<sub>2</sub>SO<sub>4</sub>
+
+Di bagian atas atmosfer Venus yang lebih dingin, asam sulfat terdapat dalam keadaan cair, dan awan asam sulfat yang tebal menghalangi pandangan permukaan Venus ketika dipandang dari atas. Awan permanen Venus menghasilkan hujan asam yang pekat sama halnya atmosfer bumi menghasilkan air hujan.
+
+Atmosfer Venus menunjukkan adanya siklus asam sulfat. Setelah tetesan hujan asam sulfat jatuh ke lapisan atmosfer yang lebih panas, asam sulfat akan dipanaskan dan melepaskan uap air, sehingga asam sulfat tersebut menjadi lebih pekat. Ketika mencapai temperatur di atas 300&nbsp;C, asam sulfat mulai berdekomposisi menjadi sulfur trioksida dan air (dalam fase gas). Sulfur trioksida sangatlah reaktif dan berdisosiasi menjadi sulfur dioksida dan oksigen atomik, yang akan kemudian mengoksidasi karbon monoksida menjadi karbon dioksida.
+
+Sulfur dioksida dan uap air kemudian naik secara arus konveksi dari lapisan tengah atmosfer menuju lapisan atas, di mana keduanya akan diubah kembali lagi menjadi asam sulfat, dan siklus ini kemudian berulang.
+
+==== Pada permukaan es Europa ====
+Spektrum inframerah dari [[misi Galileo]] [[NASA]] menunjukkan adanya absorpsi khusus pada satelit [[Yupiter]] [[Europa]] yang mengindikasikan adanya satu atau lebih hidrat asam sulfat. Interpretasi spektrum ini kontroversial. Beberapa ilmuwan planet lebih condong menginterpretasikan spektrum ini sebagai ion sulfat, kemungkinan sebagai bagian dari mineral Europa.<ref>T.M. Orlando, T.B. McCord, G.A Grieves, Icarus 177 (2005) 528533
+</ref>
+
+== Pembuatan ==
+Asam sulfat diproduksi dari [[belerang]], [[oksigen]], dan [[air]] melalui [[proses kontak]].
+
+Pada langkah pertama, [[belerang]] dipanaskan untuk mendapatkan [[sulfur dioksida]]: 
+: S (s) + O<sub>2</sub> (g)  SO<sub>2</sub> (g)
+
+Sulfur dioksida kemudian dioksidasi menggunakan [[oksigen]] dengan keberadaan [[katalis]] [[vanadium(V) oksida]]: 
+: 2 SO<sub>2</sub> + O<sub>2</sub>(g)  2 SO<sub>3</sub> (g) &nbsp; (dengan keberadaan V<sub>2</sub>O<sub>5</sub>)
+
+[[Sulfur trioksida]] diserap ke dalam 97-98% H<sub>2</sub>SO<sub>4</sub> menjadi [[oleum]] (H<sub>2</sub>S<sub>2</sub>O<sub>7</sub>), juga dikenal sebagai [[asam sulfat berasap]]. Oleum kemudian diencerkan ke dalam air menjadi asam sulfat pekat.
+
+: H<sub>2</sub>SO<sub>4</sub> (l) + SO<sub>3</sub>  H<sub>2</sub>S<sub>2</sub>O<sub>7</sub> (l)
+
+: H<sub>2</sub>S<sub>2</sub>O<sub>7</sub> (l) + H<sub>2</sub>O (l)  2 H<sub>2</sub>SO<sub>4</sub> (l)
+
+Perhatikan bahwa pelarutan langsung SO<sub>3</sub> ke dalam air tidaklah praktis karena reaksi sulfur trioksida dengan air yang bersifat [[eksotermik]]. Reaksi ini akan membentuk aerosol korosif yang akan sulit dipisahkan.
+
+: SO<sub>3</sub>(g) + H<sub>2</sub>O (l)  H<sub>2</sub>SO<sub>4</sub>(l)
+
+Sebelum tahun 1900, kebanyakan asam sulfat diproduksi dengan [[proses bilik]].<ref>Edward M. Jones, "Chamber Process Manufacture of Sulfuric Acid," Industrial and Engineering Chemistry, Nov 1950, Vol 42, No. 11, pp 2208-10.</ref>
+
+== Sifat-sifat fisika ==
+=== Bentuk-bentuk asam sulfat ===
+Walaupun asam sulfat yang mendekati 100% dapat dibuat, ia akan melepaskan [[sulfur trioksida|SO<sub>3</sub>]] pada titik didihnya dan menghasilkan asam 98,3%. Asam sulfat 98% lebih stabil untuk disimpan, dan merupakan bentuk asam sulfat yang paling umum. Asam sulfat 98% umumnya disebut sebagai ''asam sulfat pekat''. Terdapat berbagai jenis [[konsentrasi]] asam sulfat yang digunakan untuk berbagai keperluan:
+* 10%, ''asam sulfat encer'' untuk kegunaan laboratorium,
+* 33,53%, ''asam baterai'',
+* 62,18%, ''asam bilik'' atau ''asam pupuk'',
+* 73,61%, ''asam menara'' atau ''asam glover'',
+* 97%, ''asam pekat''.
+
+Terdapat juga asam sulfat dalam berbagai kemurnian. Mutu teknis H<sub>2</sub>SO<sub>4</sub> tidaklah murni dan seringkali berwarna, namun cocok untuk digunakan untuk membuat pupuk. Mutu murni asam sulfat digunakan untuk membuat [[farmasi|obat-obatan]] dan zat warna.
+
+Apabila SO<sub>3''([[gas|g]])</sub>'' dalam konsentrasi tinggi ditambahkan ke dalam asam sulfat, H<sub>2</sub>S<sub>2</sub>O<sub>7</sub> akan terbentuk. Senyawa ini disebut sebagai ''[[asam pirosulfat]]'', ''asam sulfat berasap'', ataupun ''oleum''. Konsentrasi oleum diekspresikan sebagai %SO<sub>3</sub> (disebut %oleum) atau %H<sub>2</sub>SO<sub>4</sub> (jumlah asam sulfat yang dihasilkan apabila H<sub>2</sub>O ditambahkan); konsentrasi yang umum adalah 40% oleum (109% H<sub>2</sub>SO<sub>4</sub>) dan 65% oleum (114,6% H<sub>2</sub>SO<sub>4</sub>). H<sub>2</sub>S<sub>2</sub>O<sub>7</sub> murni terdapat dalam bentuk padat dengan titik leleh 36&nbsp;C.
+
+Asam sulfat murni berupa cairan bening seperti minyak, dan oleh karenanya pada zaman dahulu ia dinamakan 'minyak vitriol'.
+
+=== Polaritas dan konduktivitas ===
+H<sub>2</sub>SO<sub>4</sub> [[anhidrat]] adalah cairan yang sangat polar. Ia memiliki [[tetapan dielektrik]] sekitar 100. Konduktivitas listriknya juga tinggi. Hal ini diakibatkan oleh disosiasi yang disebabkan oleh swa-protonasi, disebut sebagai [[autopirolisis]].<ref name = greenwood>{{Greenwood&Earnshaw}}</ref> 
+: 2 H<sub>2</sub>SO<sub>4</sub>  H<sub>3</sub>SO<sub>4</sub><sup>+</sup> + HSO<sub>4</sub><sup></sup>
+[[Konstanta kesetimbangan]] autopirolisisnya adalah<ref name = greenwood/>
+:K<sub>ap</sub>(25&nbsp;C)= [H<sub>3</sub>SO<sub>4</sub><sup>+</sup>][HSO<sub>4</sub><sup></sup>] = 2,7  10<sup><nowiki></nowiki>4</sup>.
+
+Dibandingkan dengan konstanta keseimbangan air, K<sub>w</sub> = 10<sup><nowiki></nowiki>14</sup>, nilai konstanta kesetimbangan autopirolisis asam sulfat 10<sup>10</sup> (10 triliun) kali lebih kecil.
+
+Walaupun asam ini memiliki viskositas yang cukup tinggi, [[konduktivitas]] efektif ion H<sub>3</sub>SO<sub>4</sub><sup>+</sup> dan HSO<sub>4</sub><sup></sup> tinggi dikarenakan mekanisme ulang alik proton intra molekul, menjadikan asam sulfat sebagai konduktor yang baik. Ia juga merupakan pelarut yang baik untuk banyak reaksi.
+
+Kesetimbangan kimiawi asam sulfat sebenarnya lebih rumit daripada yang ditunjukkan di atas; 100% H<sub>2</sub>SO<sub>4</sub> mengandung beragam spesi dalam kesetimbangan (ditunjukkan dengan nilai milimol per kg pelarut), yaitu: HSO<sub>4</sub><sup></sup> (15,0), H<sub>3</sub>SO<sub>4</sub><sup>+</sup> (11,3), H<sub>3</sub>O<sup>+</sup> (8,0), HS<sub>2</sub>O<sub>7</sub><sup></sup> (4,4), [[Oleum|H<sub>2</sub>S<sub>2</sub>O<sub>7</sub>]] (3,6), H<sub>2</sub>O (0,1).<ref name = greenwood/>
+
+== Sifat-sifat kimia ==
+=== Reaksi dengan air ===
+[[Reaksi hidrasi]] asam sulfat sangatlah [[eksotermik]]. Selalu tambahkan asam ke dalam [[air]] daripada air ke dalam asam. Air memiliki [[massa jenis]] yang lebih rendah daripada asam sulfat dan cenderung mengapung di atasnya, sehingga apabila air ditambahkan ke dalam asam sulfat pekat, ia akan dapat mendidih dan bereaksi dengan keras. Reaksi yang terjadi adalah pembentukan ion [[hidronium]]:
+
+: H<sub>2</sub>SO<sub>4</sub> + H<sub>2</sub>O  H<sub>3</sub>O<sup>+</sup> + HSO<sub>4</sub><sup>-</sup>
+: HSO<sub>4</sub><sup>-</sup> + H<sub>2</sub>O  H<sub>3</sub>O<sup>+</sup> + SO<sub>4</sub><sup>2-</sup>
+
+Karena hidrasi asam sulfat secara [[termodinamika]] difavoritkan, asam sulfat adalah zat pendehidrasi yang sangat baik dan digunakan untuk mengeringkan buah-buahan. Afinitas asam sulfat terhadap [[air]] cukuplah kuat sedemikiannya ia akan memisahkan atom [[hidrogen]] dan [[oksigen]] dari suatu senyawa. Sebagai contoh, mencampurkan [[pati]] (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>)<sub>''n''</sub> dengan asam sulfat pekat akan menghasilkan [[karbon]] dan [[air]] yang terserap dalam asam sulfat (yang akan mengencerkan asam sulfat):
+
+:(C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>)<sub>''n''</sub>  6''n'' C + 6''n'' H<sub>2</sub>O
+
+Efek ini dapat dilihat ketika asam sulfat pekat diteteskan ke permukaan kertas. Selulosa bereaksi dengan asam sulfat dan menghasilkan karbon yang akan terlihat seperti efek pembakaran kertas. Reaksi yang lebih dramatis terjadi apabila asam sulfat ditambahkan ke dalam satu sendok teh [[gula]]. Seketika ditambahkan, gula tersebut akan menjadi karbon berpori-pori yang mengembang dan mengeluarkan aroma seperti [[karamel]].
+
+=== Reaksi lainnya ===
+Sebagai asam, asam sulfat bereaksi dengan kebanyakan [[basa]], menghasilkan garam [[sulfat]]. Sebagai contoh, garam tembaga [[tembaga(II) sulfat]] dibuat dari reaksi antara [[tembaga(II) oksida]] dengan asam sulfat:
+
+: CuO + H<sub>2</sub>SO<sub>4</sub>  CuSO<sub>4</sub> + H<sub>2</sub>O
+
+Asam sulfat juga dapat digunakan untuk mengasamkan garam dan menghasilkan asam yang lebih lemah. Reaksi antara [[natrium asetat]] dengan asam sulfat akan menghasilkan [[asam asetat]], CH<sub>3</sub>COOH, dan [[natrium bisulfat]]:
+
+:H<sub>2</sub>SO<sub>4</sub> + CH<sub>3</sub>COONa  NaHSO<sub>4</sub> + CH<sub>3</sub>COOH
+
+Hal yang sama juga berlaku apabila mereaksikan asam sulfat dengan [[kalium nitrat]]. Reaksi ini akan menghasilkan [[asam nitrat]] dan endapat [[kalium bisulfat]]. Ketika dikombinasikan dengan [[asam nitrat]], asam sulfat berperilaku sebagai asam sekaligus zat pendehidrasi, membentuk ion [[nitronium]] NO<sub>2</sub><sup>+</sup>, yang penting dalam reaksi [[nitrasi]] yang melibatkan [[substitusi aromatik elektrofilik]]. Reaksi jenis ini sangatlah penting dalam [[kimia organik]].
+
+Asam sulfat bereaksi dengan kebanyakan logam via reaksi penggantian tunggal, menghasilkan gas [[hidrogen]] dan logam sulfat. H<sub>2</sub>SO<sub>4</sub> encer menyerang [[besi]], [[aluminium]], [[seng]], [[mangan]], [[magnesium]] dan [[nikel]]. Namun reaksi dengan [[timah]] dan [[tembaga]] memerlukan asam sulfat yang panas dan pekat. [[Timbal]] dan [[tungsten]] tidak bereaksi dengan asam sulfat. Reaksi antara asam sulfat dengan logam biasanya akan menghasilkan hidrogen seperti yang ditunjukkan pada persamaan di bawah ini. Namun reaksi dengan timah akan menghasilkan [[sulfur dioksida]] daripada hidrogen.
+
+: Fe (s) + H<sub>2</sub>SO<sub>4</sub> (aq)  H<sub>2</sub> (g) + FeSO<sub>4</sub> (aq)
+
+: Sn (s) + 2 H<sub>2</sub>SO<sub>4</sub> (aq)  SnSO<sub>4</sub> (aq) + 2 H<sub>2</sub>O (l) + SO<sub>2</sub> (g)
+
+Hal ini dikarenakan asam pekat panas umumnya berperan sebagai oksidator, manakala asam encer berperan sebagai asam biasa. Sehingga ketika asam pekat panas bereaksi dengan seng, timah, dan tembaga, ia akan menghasilkan garam, air dan sulfur dioksida, manakahal asam encer yang beraksi dengan logam seperti seng akan menghasilkan garam dan hidrogen.
+
+Asam sulfat menjalani reaksi [[substitusi aromatik elektrofilik]] dengan [[senyawa aromatik|senyawa-senyawa aromatik]], menghasilkan [[asam sulfonat]] terkait:<ref>{{cite web | url = http://www.chem.ucalgary.ca/courses/351/Carey/Ch12/ch12-4.html| title = Reactions of Arenes. Electrophilic Aromatic Substitution | author = F. A. Carey | work = On-Line Learning Center for Organic Chemistry | publisher = [[University of Calgary]] | accessdate = 2008-01-27}}</ref>
+
+:[[Berkas:BenzeneSulfonation.png|250px]]
+
+== Kegunaan ==
+Asam sulfat merupakan komoditas kimia yang sangat penting, dan sebenarnya pula, produksi asam sulfat suatu negara merupakan indikator yang baik terhadap kekuatan industri negara tersebut.<ref>Chenier, Philip J. ''Survey of Industrial Chemistry'', pp 45-57. John Wiley & Sons, New York, 1987. ISBN.</ref> Kegunaan utama (60% dari total produksi di seluruh dunia) asam sulfat adalah dalam "metode basah" produksi [[asam fosfat]], yang digunakan untuk membuat [[pupuk]] [[fosfat]] dan juga [[trinatrium fosfat]] untuk deterjen. Pada metode ini, batuan fosfat digunakan dan diproses lebih dari 100 juta ton setiap tahunnya. Bahan-bahan baku yang ditunjukkan pada persamaan di bawah ini merupakan [[fluorapatit]], walaupun komposisinya dapat bervariasi. Bahan baku ini kemudian diberi 93% asam suflat untuk menghasilkan [[kalsium sulfat]], [[hidrogen fluorida]] (HF), dan [[asam fosfat]]. HF dipisahan sebagai [[asam fluorida]]. Proses keseluruhannya dapat ditulis:
+
+: Ca<sub>5</sub>F(PO<sub>4</sub>)<sub>3</sub> + 5 H<sub>2</sub>SO<sub>4</sub> + 10 H<sub>2</sub>O  5 CaSO<sub>4</sub>2 H<sub>2</sub>O + HF + 3 H<sub>3</sub>PO<sub>4</sub>
+
+Asam sulfat digunakan dalam jumlah yang besar oleh industri [[besi]] dan [[baja]] untuk menghilangkan oksidasi, karat, dan kerak air sebelum dijual ke industri [[otomobil]]. Asam yang telah digunakan sering kali didaur ulang dalam kilang regenerasi asam bekas (''Spent Acid Regeneration (SAR) plant''). Kilang ini membakar asam bekas dengan gas alam, gas kilang, bahan bakar minyak, ataupun sumber bahan bakar lainnya. Proses pembakaran ini akan menghasilkan gas sulfur dioksida (SO<sub>2</sub>) dan sulfur trioksida (SO<sub>3</sub>) yang kemudian digunakan untuk membuat asam sulfat yang "baru".
+
+[[Amonium sulfat]], yang merupakan pupuk nitrogen yang penting, umumnya diproduksi sebagai produk sampingan dari kilang pemroses kokas untuk produksi besi dan baja. Mereaksikan [[amonia]] yang dihasilkan pada dekomposisi termal [[batu bara]] dengan asam sulfat bekas mengizinkan amonia dikristalkan keluar sebagai [[garam]] (sering kali berwarna coklat karena kontaminasi besi) dan dijual kepada industri agrokimia.
+
+Kegunaan asam sulfat lainnya yang penting adalah untuk pembuatan [[aluminium sulfat]]. Alumunium sulfat dapat bereaksi dengan sejumlah kecil sabun pada serat [[pulp kertas]] untuk menghasilkan aluminium [[karboksilat]] yang membantu mengentalkan serat pulp menjadi permukaan kertas yang keras. Aluminium sulfat juga digunakan untuk membuat [[aluminium hidroksida]]. Aluminium sulfat dibuat dengan mereaksikan [[bauksit]] dengan asam sulfat:
+
+: Al<sub>2</sub>O<sub>3</sub> + 3 H<sub>2</sub>SO<sub>4</sub>  Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> + 3 H<sub>2</sub>O
+
+Asam sulfat juga memiliki berbagai kegunaan di industri kimia. Sebagai contoh, asam sulfat merupakan katalis asam yang umumnya digunakan untuk mengubah [[sikloheksanonoksim]] menjadi [[kaprolaktam]], yang digunakan untuk membuat [[nilon]]. Ia juga digunakan untuk membuat [[asam klorida]] dari [[garam]] melalui [[proses Mannheim]]. Banyak H<sub>2</sub>SO<sub>4</sub> digunakan dalam pengilangan minyak bumi, contohnya sebagai katalis untuk reaksi [[isobutana]] dengan [[isobutilena]] yang menghasilkan [[isooktana]].
+
+=== Siklus sulfur-iodin ===
+[[Siklus sulfur-iodin]] merupakan sederet proses termokimia yang digunakan untuk mendapatkan [[hidrogen]]. Ia terdiri dari tiga reaksi kimia yang keseluruhan reaktannya adalah air dan keseluruhan produknya adalah hidrogen dan [[oksigen]].
+:{|
+|-
+| 2 {{chem|H|2|SO|4}}  2 {{chem|SO|2}} + 2 {{chem|H|2|O}} + {{chem|O|2}} || &nbsp;&nbsp;&nbsp; || (830&nbsp;C)
+|-
+| {{chem|I|2}} + {{chem|SO|2}} + 2 {{chem|H|2|O}}  2 HI + {{chem|H|2|SO|4}} || &nbsp;&nbsp;&nbsp; || (120&nbsp;C)
+|-
+| 2 HI  {{chem|I|2}} + {{chem|H|2}} || &nbsp;&nbsp;&nbsp; || (320&nbsp;C)
+|}
+
+Senyawa sulfur dan [[iodin]] didaur dan digunakan ulang. Proses ini bersifat [[endotermik]] dan haruslah terjadi pada suhu yang tinggi.
+Siklus sulfur iodin sekarang ini sedang diteliti sebagai metode yang praktis untuk mendapatkan hidrogen. Namun karena penggunaan asam korosif yang pekat pada suhu yang tinggi, ia dapat menimbulkan risiko bahaya keselamatan yang besar apabila proses ini dibangun dalam skala besar.
+
+== Sejarah ==
+[[Berkas:Iron(II)-sulfate-heptahydrate-sample.jpg|right|thumb|200px|Besi(II) sulfat heptahidrat]]
+[[Berkas:Copper sulfate.jpg|Right|thumb|180px|Tembaga(II) sulfat pentahidrat]]
+Alkimiawan abad ke-8 [[Abu Musa Jabir bin Hayyan]] (Geber) dipercayai sebagai penemu asam sulfat. Asam ini kemudian dikaji oleh alkimiawan dan dokter Persia abad ke-9 [[Ar-Razi]] (Rhazes), yang mendapatkan zat ini dari [[distilasi kering]] mineral yang mengandung [[besi(II) sulfat]] heptahidrat, FeSO<sub>4</sub>  7H<sub>2</sub>O, dan [[tembaga(II) sulfat]] pentahidrat, CuSO<sub>4</sub>  5H<sub>2</sub>O. Ketika dipanaskan, senyawa-senyawa ini akan terurai menjadi [[besi(II) oksida]] dan [[tembaga(II) oksida]], melepaskan [[air]] beserta [[sulfur trioksida]] yang akan bergabung menjadi larutan asam sulfat. Metode ini dipopulerkan di Eropa melalui terjemahan-terjamahan buku-buku Arab dan Persia.
+
+Asam sulfat dikenal oleh alkimiawan Eropa abad pertengahan sebagai ''minyak vitriol''. Kata vitriol berasal dari bahasa Latin ''vitreus'' yang berarti 'gelas', merujuk pada penampilan garam sulfat yang seperti gelas, disebut sebagai garam vitriol. Garam-garam ini meliputi [[tembaga(II) sulfat]] (vitriol biru), [[seng sulfat]] (vitriol putih), [[besi(II) sulfat]] (vitriol hijau), [[besi(III) sulfat]] (vitriol Mars), dan [[kobalt(II) sulfat]] (vitriol merah).
+
+Garam-garam vitriol tersebut merupakan zat yang paling penting dalam alkimia, yang digunakan untuk menemukan [[batu filsuf]]. Vitriol yang sangat murni digunakan sebagai media reaksi zat-zat lainnya. Hal ini dikarenakan asam vitriol tidak bereaksi dengan [[emas]]. Pentingnya vitriol dalam alkimia terlihat pada moto alkimia '''''V'''isita '''I'''nteriora '''T'''errae '''R'''ectificando '''I'''nvenies '''O'''ccultum '''L'''apidem'' ('Kunjungi bagian dalam bumi dan murnikanlah, anda akan menemukan batu rahasia') yang ditemukan dalam ''[[L'Azoth des Philosophes]]'' karya alkimiawan abad ke-15 [[Basilius Valentinus]], .
+
+Pada abad ke-17, kimiawan Jerman Belanda [[Johann Glauber]] membuat asam sulfat dengan membakar [[sulfur]] bersamaan dengan [[kalium nitrat]], KNO<sub>3</sub>, dengan keberadaan uap. Kalium nitrat tersebut terurai dan mengoksidasi sulfur menjadi SO<sub>3</sub>, yang akan bergabung dengan air membentuk asam sulfat. Pada tahun 1736, Joshua Ward, ahli farmasi London, menggunakan metode ini untuk memulai produksi asam sulfat berskala besar.
+
+Pada tahun 1746 di [[Birmingham]], [[John Roebuck]] mengadaptasikan metode ini ke dalam suatu bilik, yang dapat menghasilkan asam sulfat lebih banyak. Proses ini disebut sebagai ''proses bilik'', yang mengijinkan produksi asam sulfat secara efektif. Setelah berbagai perbaikan, metode ini menjadi proses standar produksi asam sulfat selama hampir dua abad.
+
+Pada tahun 1831, saudagar [[asam cuka]] Britania Peregrine Phillips mematenkan [[proses kontak]], yang lebih ekonomis dalam memproduksi sulfur trioksida dan asam sulfat. Sekarang, hampir semua produksi asam sulfat dunia menggunakan proses ini.
+
+== Keselamatan ==
+=== Bahaya laboratorium ===
+[[Berkas:Sulfuric acid burning tissue paper.jpg|thumb|Tetesan 98% asam sulfat akan dengan segera membakar kertas tisu menjadi karbon]]
+Sifat-sifat asam sulfat yang korosif diperburuk oleh [[reaksi eksotermik]]nya dengan [[air]]. Luka bakar akibat asam sulfat berpotensi lebih buruk daripada luka bakar akibat asam kuat lainnya, hal ini dikarenakan adanya tambahan kerusakan jaringan dikarenakan dehidrasi dan kerusakan termal sekunder akibat pelepasan panas oleh reaksi asam sulfat dengan air.
+
+Bahaya akan semakin meningkat seiring dengan meningkatnya konsentrasi asam sulfat. Namun, bahkan asam sulfat encer (sekitar 1&nbsp;M, 10%) akan dapat mendehidrasi kertas apabila tetesan asam sulfat tersebut dibiarkan dalam waktu yang lama. Oleh karenanya, larutan asam sulfat yang sama atau lebih dari 1,5&nbsp;M diberi label "CORROSIVE" (korosif), manakala larutan lebih besar dari 0,5&nbsp;M dan lebih kecil dari 1,5&nbsp;M diberi label "IRRITANT" (iritan). Asam sulfat berasap (oleum) tidaklah dianjurkan untuk digunakan dalam sekolah oleh karena bahaya keselamatannya yang sangat tinggi.
+
+Perawatan pertama yang standar dalam menangani tumpahnya asam sulfat ke kulit adalah dengan membilas kulit tersebut dengan air sebanyak-banyaknya. Pembilasan dilanjutkan selama 10 sampai 15 menit untuk mendinginkan jaringan disekitar luka bakar asam dan untuk menghindari kerusakan sekunder. Pakaian yang terkontaminasi oleh asam sulfat harulah dilepaskan dengan segera dan segera bilas kulit yang berkontak dengan pakaian tersebut.
+
+Pembuatan asam sulfat encer juga berbahaya oleh karena pelepasan panas selama proses pengenceran. Asam sulfat pekat haruslah selalu ditambahkan ke air, dan bukannya sebaliknya. Penambahan air ke asam sulfat pekat dapat menyebabkan tersebarnya [[aerosol]] asam sulfat dan bahkan dapat menyebabkan ledakan. Pembuatan larutan lebih dari 6&nbsp;M (35%) adalah yang paling berbahaya, karena panas yang dihasilkan cukup panas untuk mendidihkan asam encer tersebut.
+
+=== Bahaya industri ===
+Walaupun asam sulfat tidak mudah terbakar, kontak dengan logam dalam kasus tumpahan asam dapat menyebabkan pelepasan gas [[hidrogen]]. Penyebaran aerosol asam dan gas [[sulfur dioksida]] menambah bahaya kebakaran yang melibatkan asam sulfat.
+
+Asam sulfat dianggap tidak beracun selain bahaya korosifnya. Resiko utama asam sulfat adalah kontak dengan kulit yang menyebabkan luka bakar dan penghirupan aerosol asap. Paparan dengan aerosol asam pada konsentrasi tinggi akan menyebabkan iritasi mata, saluran pernapasan, dan membran mukosa yang parah. Iritasi akan mereda dengan cepat setelah paparan, walaupun terdapat risiko [[edema paru]] apabila kerusakan jaringan lebih parah. Pada konsentrasi rendah, simtom-simtom akibat paparan kronis aerosol asam sulfat yang paling umumnya dilaporkan adalah pengikisan gigi. Indikasi kerusakan kronis [[saluran pernapasan]] masih belum jelas. Di [[Amerika Serikat]], batasan paparan yang diperbolehkan ditetapkan sebagai 1&nbsp;mg/m. Terdapat pula laporan bahwa penelanan asam sulfat menyebabkan [[defisiensi]] [[vitamin B12]] dengan degenarasi gabungan subakut.
+
+== Pembatasan hukum ==
+Perdagangan internasional asam sulfat dikontrol oleh [[Konvensi Perserikatan Bangsa-Bangsa Tentang Pemberantasan Peredaran Gelap Narkotika dan Psikotropika]] tahun 1988, yang meletakkan asam sulfat di Tabel II konvensi tersebut sebagai bahan kimia yang sering diguakan dalam produksi gelap narkotika ataupun psikotropika.<ref name=incb>[http://www.incb.org/pdf/e/list/red.pdf Annex to Form D ("Red List")], 11th Edition, January 2007 (pg. 4). [[International Narcotics Control Board]]. [[Vienna, Austria]]; 2007.</ref> Di Indonesia, konvensi ini disahkan oleh Undang-Undang Dasar Nomor 7 Tahun 1997.<ref>Situs [[Badan Pengawas Keuangan dan Pembangunan]]: [http://www.bpkp.go.id/unit/hukum/uu/1997/07-97.pdf Undang-Undang Negara Republik Indonesia Nomor 7 Tahun 1997 Tentang Pengesahan United Nations Conventions Against Illicit Traffic In Narcotic Drugs and Psychotropic Substances, 1988 (Konvensi Perserikatan Bangsa-Bangsa Tentang Pemberantasan Peredaran Gelap Narkotika dan Psikotropika, 1988)]</ref>
+
+== Referensi ==
+{{reflist}}
+{{refbegin}}
+* ''A New Certificate Chemistry'', Heinemann Educational Publishers, A Holderness and J Lambert, Heinemann, 1976. 
+* Institut National de Recherche et de Scurit. (1997). "Acide sulfurique". ''Fiche toxicologique n30'', Paris: INRS, 5 pp.
+* ''Handbook of Chemistry and Physics'', 71st edition, CRC Press, Ann Arbor, Michigan, 1990.
+* Agamanolis DP. Metabolic and toxic disorders. In: Prayson R, editor. Neuropathology: a volume in the foundations in diagnostic pathology series. Philadelphia: Elsevier/Churchill Livingstone, 2005; 413-315.
+{{refend}}
+
+== Pranala luar ==
+* [http://www.ilo.org/public/english/protection/safework/cis/products/icsc/dtasht/_icsc03/icsc0362.htm International Chemical Safety Card 0362]
+* [http://www.cdc.gov/niosh/npg/npgd0577.html NIOSH Pocket Guide to Chemical Hazards]
+* [http://ptcl.chem.ox.ac.uk/MSDS/SU/sulfuric_acid_concentrated.html External Material Safety Data Sheet]
+* [http://www2.iq.usp.br/docente/gutz/Curtipot_.html Sulfuric acid analysis - titration freeware]
+* [http://twt.mpei.ac.ru/MCS/Worksheets/Chem/Sulfuric-acid-density-pH.xmcd Sulfuric Acid density and pH-value at t=20&nbsp;C]
+
+[[Kategori:Sulfat]]
+[[Kategori:Senyawa anorganik]]
+[[Kategori:Asam]]

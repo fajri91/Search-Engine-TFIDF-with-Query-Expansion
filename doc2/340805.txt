@@ -1,0 +1,58 @@
+Destinasi maskapai Virgin America
+Virgin America melayani destinasi sebagai berikut (Juli 2010):
+
+{| class="wikitable"
+|-
+|style="background-color: #FFE6BD"|{{note label||Hub|Hub}} ||Hub
+|-
+|style="background-color: #D0E7FF"|{{note label||Kota Fokus|Kota fokus}} ||Kota fokus
+|-
+|style="background-color:#DDFFDD"|{{note label||Masa depan|Masa depan}} ||Masa depan
+|}
+
+{|class="wikitable sortable"
+! Kota
+! Negara bagian/provinsi
+! Negara
+! IATA
+! ICAO
+! Bandar Udara
+! Mulai
+! Selesai
+! class="unsortable" | Ref
+|-
+|[[Boston]] || [[Massachusetts]]|| {{flag|Amerika Serikat}} || BOS || KBOS || [[Bandar Udara Internasional Logan]] || {{sort|2009-02-12|12 Februari 2009}} || {{sort|9999-12-31|sekarang}} || align=center | <ref>{{cite press release | url=http://www.virginamerica.com/va/press/2008/Dec/Virgin_America_to_Launch_Service_to_Boston_Logan.html?title=Virgin%20America%20To%20Launch%20Service%20To%20Boston%20Logan | title=Virgin America To Launch Service To Boston Logan | accessdate=2010-03-19 | publisher=Virgin America | date=2008-12-08}}</ref>
+|-
+|[[Cancn]] || [[Quintana Roo]]|| {{flag|Meksiko}} || CUN || MMUN || [[Bandar Udara Internasional Cancn]] || style="background-color:#DDFFDD"|{{sort|2011-01-19|19 Januari 2011}}{{Ref label||Masa depan|Masa depan}} || {{sort|9999-12-31|-}} || align=center | 
+|-
+|[[Dallas]] || [[Texas]]|| {{flag|Amerika Serikat}} || DFW || KDFW || [[Bandar Udara Internasional Dallas/Fort Worth]] || style="background-color:#DDFFDD"|{{sort|2010-12-01|1 Desember 2010}}{{Ref label||Masa depan|Masa depan}} || {{sort|9999-12-31|-}} || align=center | <ref>{{cite press release | url=http://www.virginamerica.com/press-release/2010/virgin-america-does-dallas.html | title=Virgin America Launches New Service to Dallas-Fort Worth | publisher=Virgin America | date=August 10, 2010 | accessdate=August 10, 2010}}</ref>
+|-
+|[[Fort Lauderdale, Florida|Fort Lauderdale]] || [[Florida]]|| {{flag|Amerika Serikat}} || FLL || KFLL || [[Bandar Udara Internasional Fort Lauderdale  Hollywood]] || {{sort|2009-11-18|18 November 2009}} || {{sort|9999-12-31|sekarang}} || align=center | <ref>{{cite press release|title=Virgin America New Golden State to Gold Coast Service Takes Off | url=http://www.virginamerica.com/va/press/2009/Nov/Virgin_America_New_Golden_State_to_Gold_Coast_Service_Takes_Off.html?title=Virgin%20America%20New%20Golden%20State%20to%20Gold%20Coast%20Service%20Takes%20Off | publisher=Virgin America | date=2009-11-18 | accessdate=2010-03-19}}</ref>
+|-
+|[[Las Vegas, Nevada|Las Vegas]] || [[Nevada]] || {{flag|Amerika Serikat}} || LAS || KLAS || [[Bandar Udara Internasional McCarran]] || {{sort|2007-10-10|10 Oktober 2007}} || {{sort|9999-12-31|sekarang}} || align=center | <ref>{{cite press release | titleVirgin America & Vegas: Just Married | url=http://www.virginamerica.com/va/press/2007/Oct/Vegas-Release.html?title=Virgin%20America%20&%20Vegas:%20Just%20Married. | publisher=Virgin America | date=2007-10-10 |accessdate=2010-03-19}}</ref>
+|-
+|[[Los Angeles]] || [[Kalifornia]] || {{flag|Amerika Serikat}} || LAX || KLAX || style="background-color: #D0E7FF"|[[Bandar Udara Internasional Los Angeles]]{{Ref label||Kota fokus|Kota fokus}} || {{sort|2007-08-08|8 Agustus 2007}} || {{sort|9999-12-31|sekarang}} || align=center | <ref name="VXFirstFlight">{{cite press release | title= Virgin America Takes to the Skies  | url=http://www.virginamerica.com/va/press/2007/Aug/Takes-to-the-Skies.html?title=Virgin%20America%20Takes%20to%20the%20Skies. | publisher=Virgin America | date=2007-08-08 | accessdate=2010-03-19}}</ref>
+|-
+|[[Los Cabos Municipality|Los Cabos]] || [[Baja California Sur]]|| {{flag|Meksiko}} || SJD || MMSD || [[Bandar Udara Internasional Los Cabos]] || style="background-color:#DDFFDD"|{{sort|2010-12-16|16 Desember 2010}}{{Ref label||Masa depan|Masa depan}} || {{sort|9999-12-31|-}} || align=center | 
+|-
+|[[New York City|New York]] || [[New York]] || {{flag|Amerika Serikat}} || JFK || KJFK || [[Bandar Udara Internasional John F. Kennedy]] || {{sort|2007-08-08|8 Agustus 2007}} || {{sort|9999-12-31|sekarang}} || align=center | <ref name="VXFirstFlight"/>
+|-
+|[[Orange County, California|Orange County]] || [[Kalifornia]] || {{flag|Amerika Serikat}} || SNA || KSNA || [[Bandar Udara John Wayne]] || {{sort|2009-04-29|29 April 2009}} || {{sort|2010-05-26|26 Mei 2010}} || align=center|<ref>{{cite press release | title=Virgin America Launches New Service To Orange County | url=http://www.virginamerica.com/va/press/2009/Apr/Virgin_America_Launches_New_Service_to_Orange_County.html?title=Virgin%20America%20Launches%20New%20Service%20To%20Orange%20County | publisher=Virgin America | date=2009-04-29 | accessdate=2010-03-19}}</ref><ref name="vxmco">{{cite news|title=Virgin America announces big expansion that includes Orlando, Toronto|url=http://www.usatoday.com/travel/flights/item.aspx?type=blog&ak=83974.blog|work=[[USA Today]]|first=Ben|last=Mutzabaugh|date=2010-03-18|accessdate=2010-03-18}}</ref>
+|-
+|[[Orlando, Florida|Orlando]] || [[Florida]] || {{flag|Amerika Serikat}} || MCO || KMCO || [[Bandar Udara Internasional Orlando]] || {{sort|2010-10-06|6 Oktober 2010}} || {{sort|9999-12-31|sekarang}} || align=center|<ref>{{cite news|title=Virgin America to fly from SF, LA to Orlando|url=http://sanjose.bizjournals.com/sanjose/stories/2010/07/19/daily31.html|newspaper=[[San Jose Business Journal]]|date=2010-07-20|accessdate=2010-07-20}}</ref>
+|-
+|[[San Diego]] || [[Kalifornia]] || {{flag|Amerika Serikat}} || SAN || KSAN || [[Bandar Udara Internasional San Diego]] || {{sort|2008-02-12|12 Februari 2008}} || {{sort|9999-12-31|sekarang}} || align=center | <ref>{{cite press release | title=Virgin America Launches Service to San Diego | url=http://www.virginamerica.com/va/press/2008/Feb/Launches-Service-SFO-SAN.html?title=Virgin%20America%20Launches%20Service%20to%20San%20Diego. | publisher=Virgin America | date=2008-02-12 | accessdate=2010-03-19}}</ref>
+|- 
+|[[San Francisco]] || [[Kalifornia]] || {{flag|Amerika Serikat}} || SFO || KSFO || style="background-color: #FFE6BD"|[[Bandar Udara Internasional San Francisco]]{{Ref label||Hub|Hub}} || {{sort|2007-08-08|8 Agustus 2007}} || {{sort|9999-12-31|sekarang}} || align=center|<ref name="VXFirstFlight"/>
+|-
+|[[Seattle]] || [[Washington (Negara Bagian)|Washington]] || {{flag|Amerika Serikat}} || SEA || KSEA || [[Bandar Udara Internasional SeattleTacoma]] || {{sort|2008-03-18|18 Maret 2008}} || {{sort|9999-12-31|sekarang}} || align=center | <ref>{{cite press release | title=Virgin America launches Service From San Francisco To Seattle | url=http://www.virginamerica.com/va/press/2008/Mar/Launches-Service-SFO-SEA.html?title=Virgin%20America%20launches%20Service%20From%20San%20Francisco%20To%20Seattle. | publisher=Virgin America | date=2008-03-18 | accessdate=2010-03-19}}</ref>
+|-
+|[[Toronto]] || [[Ontario]] || {{flag|Kanada}} || YYZ || CYYZ || [[Bandar Udara Internasional Toronto Pearson]] || {{sort|2010-06-23|23 Juni 2010}} || sekarang || align=center|<ref>{{cite news|title=Virgin America announces big expansion that includes Orlando, Toronto|url=http://www.usatoday.com/travel/flights/item.aspx?type=blog&ak=83974.blog|work=[[USA Today]]|first=Ben|last=Mutzabaugh|date=2010-03-18|accessdate=2010-03-18}}</ref>
+|-
+|[[Washington, D.C.|Washington]] || [[Washington, D.C.|District of Columbia]] || {{flag|Amerika Serikat}} || IAD || KIAD || [[Bandar Udara Internasional Washington Dulles]] || {{sort|2007-09-26|26 September 2007}} || {{sort|9999-12-31|sekarang}} || align=center | <ref>{{cite press release | name=Virgin America Launches Service between Washington and San Francisco | url=http://www.virginamerica.com/va/press/2007/Sep/Launches-Service-IAD-SFO.html?title=Virgin%20America%20Launches%20Service%20between%20Washington%20and%20San%20Francisco. | publisher=Virgin America | date=2007-09-26 | accessdate=2010-03-19}}</ref>
+|}
+
+== Referensi ==
+{{reflist}}
+
+[[Kategori:Destinasi maskapai|Virgin America]]

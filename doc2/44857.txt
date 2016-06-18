@@ -1,0 +1,60 @@
+Sidney Govou
+{{Infobox football biography
+|playername          = Sidney Govou
+|image               = [[File:Sidney Govou.jpg|200px]]
+|fullname            = Sidney Rodrigue Noukpo Govou<ref name="List of Players">{{cite web
+|title = List of Players
+|url = http://www.fifa.com/mm/document/tournament/competition/01/22/85/78/fwc_2010_squadlists.pdf
+|publisher = FIFA
+|accessdate = 2010-06-16}}</ref>
+|dateofbirth         = {{birth date and age|1979|7|27|df=y}}
+|cityofbirth         = [[Le Puy-en-Velay]]
+|countryofbirth      = [[Perancis]]
+|height              = {{height|m=1.75}}
+|currentclub         = [[Olympique Lyonnais|Lyon]]
+|clubnumber          = 14
+|position            = [[Gelandang]]
+|youthyears1         = 19962000 |youthclubs1 = [[Olympique Lyonnais|Lyon]]
+|years1              = 20002010 |clubs1 =[[Olympique Lyonnais|Lyon]]                      |caps1 = 292 |goals1 = 49<!--LEAGUE GAMES ONLY-->
+|years2              = 20102011 |clubs2 = [[Panathinaikos F.C.|Panathinaikos]]            |caps2 = 18  |goals2 = 1
+|years3              = 2011     |clubs3 = [[Evian Thonon Gaillard F.C.|vian]]            |caps3 = 18  |goals3 = 1
+|nationalyears1      = 20022010     |nationalteam1 = {{timnas|Perancis}} |nationalcaps1 = 49 |nationalgoals1 = 10
+|pcupdate            = 30 Maret 2012
+|ntupdate            = 30 Januari 2012
+}}
+'''Sydney Govou''' ({{lahirmati|[[Le Puy-en-Velay]]|27|7|1979}}) adalah penyerang {{timnas|Prancis}} keturunan [[Benin]] yang bertinggi badan 175 cm. Ia bermain untuk [[Evian Thonon Gaillard F.C.|vian]].
+
+== Referensi ==
+
+{{reflist}}
+
+== Pranala luar ==
+
+* [http://uk.soccerway.com/players/sidney-govou/1594/ Sidney Govou statistics at uk.soccerway.com]
+* [http://soccernet.espn.go.com/player/_/id/12921/sidney-govou?cc=5739 ESPN Profile]
+* {{lfpfr2|id=govou-sydney|name=Sidney Govou}}
+* {{Nfteams|2481}}
+
+{{lifetime|1979||Govou, Sidney}}
+{{Navboxes berwarna
+|title = Skuat timnas Perancis
+|bg    = #0055A4
+|fg    = #FFFFFF
+|bordercolor = #EF4135
+|list1=
+{{Skuat Piala Eropa 2004 Perancis}}
+{{Skuat PD2006 Perancis}}
+{{Skuat PEropa 2008 Perancis}}
+{{Skuat PD2010 Perancis}}
+}}
+{{Skuat Evian FC}}
+
+[[Kategori:Pemain sepak bola Perancis]]
+[[Kategori:Pemain Piala Dunia FIFA 2006]]
+[[Kategori:Pemain Kejuaraan Sepak Bola Eropa UEFA 2008]]
+[[Kategori:Pemain Evian Thonon Gaillard F.C.]]
+[[Kategori:Pemain Olympique Lyonnais]]
+[[Kategori:Pemain Panathinaikos]]
+
+
+{{pemain-sb-stub}}

@@ -1,0 +1,19 @@
+Proteoglikan
+:''Bedakan dengan [[peptidoglikan]] pada bakteri.''
+
+'''Proteoglikan''' adalah [[protein]]<ref>[[Medical Subject Headings|MeSH]] ''[http://www.nlm.nih.gov/cgi/mesh/2011/MB_cgi?mode=&term=Proteoglycans Proteoglycans]''</ref> yang mengalami [[glikosilasi]] besar. Satuan proteoglikan dasar terdiri dari sebuah [[protein]] inti yang [[ikatan kovalen|secara kovalen]] melekat dengan satu atau lebih rantai [[glikosaminoglikan]] (GAG).<ref name="MeisenbergSimmons2006">{{cite book|author1=Gerhard Meisenberg|author2=William H. Simmons|title=Principles of medical biochemistry|url=http://books.google.com/books?id=y2A0h64iNlcC&pg=PA243|accessdate=6 February 2011|year=2006|publisher=Elsevier Health Sciences|isbn=978-0-323-02942-1|pages=243}}</ref> Suatu residu [[serin|Ser]] berfungsi sebagai titik pelekatan, tempat glikosaminoglikan tergabung melalui sebuah jembatan tetrasakarida (misalnya: [[kondroitin|kondroitin sulfat]]-GlcA-Gal-Gal-Xyl-PROTEIN). Residu Ser pada umumnya berupa rantai -Ser-Gly-X-Gly- (dengan X dapat berupa residu [[asam amino]] apa pun), meskipun tidak semua protein dengan untaian ini disertai oleh glikosaminoglikan. Rantai ini merupakan polimer karbohidrat linier panjang yang bermuatan negatif pada kondisi fisiologis karena adanya gugus [[sulfat]] dan [[asam uronat]]. Proteoglikan hadir di dalam [[jaringan ikat]].
+
+== Catatan kaki ==
+
+{{reflist}}
+
+== Bacaan lanjutan ==
+
+* {{citebook|author=Marks D.B., et al.|others=Pendit, B.U. (Penerj.)|year=1996|title=[http://books.google.co.id/books?id=gxhap2ZN9HQC&pg=PA449 Biokimia Kedokteran Dasar: Sebuah Pendekatan Klinis]|place=Jakarta|publisher=Penerbit EGC}}
+
+== Pranala luar ==
+
+* [http://www.nd.edu/~aseriann/proteogly.html Diagram di nd.edu]
+* [http://tonga.usip.edu/gmoyna/biochem341/lecture35.html Diagram di usip.edu]
+
+[[Kategori:Protein]]

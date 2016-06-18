@@ -1,0 +1,37 @@
+Omar (film)
+{{Infobox film
+|name           = Omar
+|image          = Omar film poster.jpg
+|caption        = Poster film
+|director       = [[Hany Abu-Assad]]
+|producer       = Hany Abu-Assad<br/>[[Waleed Zuaiter]]<br/>[[David Gerson]]
+|writer         = Hany Abu-Assad
+|starring       = [[Adam Bakri]]
+|music          = 
+|cinematography = Ehab Assal
+|editing        = Martin Brinkler<br>Eyas Salman
+|distributor    = 
+|released       = {{Film date|2013|5|21|Cannes|df=yes}}
+|runtime        = 96 menti
+|country        = Palestina
+|language       = Arab
+|budget         = 
+}}
+
+'''''Omar''''' ({{lang-ar|}}) adalah sebuah [[film drama]] Palestina 2013 yang disutradarai oleh [[Hany Abu-Assad]]. Film tersebut ditayangkan pada sesi [[Un Certain Regard]] di [[Festival Film Cannes 2013]]<ref name="Cannes2013">{{cite web|url=http://www.festival-cannes.fr/en/article/59652.html |title=2013 Official Selection|date=30 April 2013|accessdate=30 April 2013|work=Cannes}}</ref> dimana film tersebut memenangkan Jury Prize.<ref name="HWR-UCR">{{cite news|url=http://www.hollywoodreporter.com/news/cannes-missing-picture-wins-regard-558551|title=Cannes: 'The Missing Picture' Wins Un Certain Regard Prize|date=26 Mei 2013|accessdate=26 Mei 2013|work=Hollywood Reporter|first=Rhonda|last=Richford}}</ref> Film tersebut ditampilkan di [[Festival Film Internasional Toronto 2013]].<ref name="TIFF2013">{{cite news|url=http://www.guardian.co.uk/film/2013/jul/23/toronto-film-festival-lineup|title=Toronto film festival 2013: the full line-up|accessdate=2013-07-24|work=The Guardian|location=London|date=23 Juli 2013}}</ref> Film tersebut terpilih sebagai entri Palestina untuk [[Academy Award untuk Film Berbahasa Asing Terbaik|Film Berbahasa Asing Terbaik]] di [[Academy Awards ke-86]],<ref name="Palestine">{{cite web |url=http://www.deadline.com/2013/09/foreign-language-oscar-israel-submits-bethlehem-palestine-goes-with-omar/ |title= Foreign Language Oscar: Israel Submits Bethlehem; Palestine Goes With Omar |accessdate=2013-09-30 |work=Deadline.com}}</ref> dan menjadi salah satu dari lima finalis.<ref name="Oscar Nom">{{cite news|url=http://www.bbc.co.uk/news/entertainment-arts-25757345|title=Oscars: Main nominations 2014|accessdate=2014-01-16|work=BBC News}}</ref> Film tersebut juga memenangkan kategori Film Fitur Terbaik di [[Penghargaan Asian Pacific Screen]] 2013.<ref>{{cite web|title=Asia Pacific Screen Awards Announced in Australia|work=Australia Network News|url=http://www.abc.net.au/news/2013-12-12/an-aspa-winners/5153858|date=13 Desember 2013}}</ref> Film tersebut ditayangkan di [[Perserikatan Bangsa-Bangsa]] di [[New York]] pada 1 Mei 2014.<ref name="Omar-UN">{{cite web |url=http://unispal.un.org/databases/dprtest/ngoweb.nsf/fd4d9c895f860397852578690071506e/9a6dbd7254cea8f585257cc10069a939?OpenDocument |title=Screening of Oscar-nominated feature film "Omar"|date=1 Mei 2014|accessdate=8 April 2015|work=Perserikatan Bangsa-Bangsa}}</ref>
+
+==Referensi==
+{{reflist|2}}
+
+==Pranala luar==
+* {{official website|http://adoptfilms.net/omar}}
+* {{IMDb title|2852406|Omar}}
+* {{Rotten Tomatoes|omar|Omar}}
+
+{{Hany Abu-Assad}}
+
+{{DEFAULTSORT:Omar}}
+[[Kategori:film 2013]]
+[[Kategori:film drama 2010an]]
+[[Kategori:film Palestina]]
+[[Kategori:film berbahasa Arab]]

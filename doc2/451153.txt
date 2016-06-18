@@ -1,0 +1,20 @@
+Templat:Majas
+{{Navbox
+| name  = Majas
+| listclass = hlist
+| title =[[Majas]]
+
+ | group1 = [[Majas Perbandingan]]
+ | list1 = [[Alegori]]{{}} [[Alusio]]{{}} [[Antonomasia]]{{}} [[Antropomorfisme]]{{}} [[Aptronim]]{{}} [[Asosiasi]]{{}} [[Depersonifikasi]]{{}} [[Disfemisme]]{{}} [[Eponim]]{{}} [[Eufimisme]]{{}} [[Fabel]]{{}} [[Hiperbola]]{{}} [[Hipokorisme]]{{}} [[Litotes]]{{}} [[Metafora]]{{}} [[Metonimia]]{{}} [[Parabel]]{{}} [[Pars pro toto]]{{}} [[Perifrasa]]{{}} [[Personifikasi]]{{}} [[Simbolik]]{{}} [[Simile]]{{}} [[Sinestesia]]{{}} [[Totum pro parte]]
+
+ | group2 = [[Majas Sindiran]]
+ | list2 = [[Innuendo]]{{}} [[Ironi]]{{}} [[Sarkasme]]{{}} [[Satire]]{{}} [[Sinisme]]
+
+ | group3 = [[Majas Penegasan]]
+ | list3 = [[Apofasis]]{{}} [[Pleonasme]]{{}} [[Repetisi]]{{}} [[Pararima]]{{}} [[Aliterasi]]{{}} [[Paralelisme]]{{}} [[Tautologi]]{{}} [[Sigmatisme]]{{}} [[Antanaklasis]]{{}} [[Klimaks]]{{}} [[Antiklimaks]]{{}} [[Inversi]]{{}} [[Retoris]]{{}} [[Elipsis]]{{}} [[Koreksio]]{{}} [[Polisindenton]]{{}} [[Asindeton]]{{}} [[Interupsi]]{{}} [[Ekskalamasio]]{{}} [[Enumerasio]]{{}} [[Preterito]]{{}} [[Alonim]]{{}} [[Kolokasi]]{{}} [[Silepsis]]{{}} [[Zeugma]]
+
+ | group4 = [[Majas pertentangan]]
+ | list4 = [[Paradoks]]{{}} [[Oksimoron]]{{}} [[Antitesis]]{{}} [[Kontradiksi interminus]]{{}} [[Anakronisme]]
+}}<noinclude>
+[[Kategori:Templat navigasi bahasa]]
+</noinclude>

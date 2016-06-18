@@ -1,0 +1,28 @@
+Mode terproteksi
+'''Mode terproteksi''' atau lebih dikenal dalam [[bahasa Inggris]] sebagai '''protected mode''', atau '''protected virtual adress mode'''<ref name="'Protected virtual address mode' usage">{{ cite web | url = http://www.patentstorm.us/patents/5483646-claims.html | title = Memory access control method and system for realizing the same | work = US Patent 5483646 | accessdate = 2007-07-14 | date = May 23, 1995 | format = Patent | quote = The memory access control system according to claim 4, wherein said first address mode is a real address mode, and said second address mode is a protected virtual address mode. }}</ref> merupakan mode operasional yang terdapat pada [[prosesor]] [[X86]] atau kompatibel. Mode operasional ini mengizinkan sebuah [[program komputer]] memanfaatkan fitur-fitur seperti memori virtual, paging, ataupun [[multitasking]] secara aman. Modus ini didisain untuk meningkatkan fungsi kontrol dari sistem operasi terhadap program komputer yang berjalan di atasnya.<ref name="i386 additions">{{ cite book | title = Intel 64 and IA-32 Architectures Software Developer's Manual | publisher = [[Intel]] | chapter = 2.1.3 The Intel 386 Processor (1985) | month = May | year = 2007 | location = [[Denver, Colorado]] | page = 35 | url = http://www.intel.com/products/processor/manuals/index.htm }}</ref><ref name="Purpose of protected mode">{{ cite web | url = http://www.delorie.com/djgpp/doc/ug/basics/protected.html | title = Guide: What does protected mode mean? | accessdate = 2007-07-14 | last = | first = "root" | date = July 14, 2007 | format = Guide | publisher = Delorie software | quote = The purpose of protected mode is not to protect your program. The purpose is to protect everyone else (including the operating system) from your program. }}</ref>
+
+Saat sebuah prosesor yang mendukung mode terproteksi X86 dijalankan, prosesor tersebut akan mulai melakukan eksekusi kode dalam [[mode riil]] guna menjaga kompatibilitas dengan prosesor prosesor terdahulu.<ref name="Real mode on powered on">{{ cite book | title = Intel 65 and IA-32 Architectures Software Developer's Manual | publisher = [[Intel]] | chapter = 3.2 Modes of Operation | month = May | year = 2005 | location = [[Denver, Colorado]] | page = 59 | url = http://www.intel.com/products/processor/manuals/index.htm }}</ref> Mode terproteksi hanya akan dimulai setelah perangkat lunak sistem mengkonfigurasi serangkaian proses termasuk dalam hal ini membuat sejumlah tabel deskriptor dan mengaktifkan bit PE (Protection Enable) dalam register kontrol prosesor.<ref name="Entering protected mode">{{ cite web | url = ftp://ftp.utcluj.ro/pub/users/nedevschi/PMP/protected86/collinsprot.PDF | title = Protected Mode Basics | accessdate = 2009-07-31 | last = Collins | first = Robert | year = 2007 | format = PDF | publisher = ftp.utcluj.ro }}</ref>
+
+Mode terproteksi pertama kali ditambahkan pada prosesor berarsitektur X86 pada tahun [[1982]],<ref name="i286 release date">{{ cite book | title = Intel 64 and IA-32 Architectures Software Developer's Manual | publisher = [[Intel]] | chapter = 2.1.2 The Intel 286 Processor (1982) | month = May | year = 2007 | location = [[Denver, Colorado]] | page = 34 | url = http://www.intel.com/products/processor/manuals/index.htm }}</ref> dengan dirilisnya prosesor [[Intel 80286]] dan kemudian dikembangkan lebih lanjut pada prosesor [[Intel 80386]] pada tahun 1995.<ref name="i386 release date">{{ cite web | url = http://www.intel.com/intel/finance/gcr03/39-years_of_innovation.htm | title = Intel Global Citizenship Report 2003 | accessdate = 2007-07-14 | format = Timeline | quote = 1985 Intel launches Intel386 processor | archiveurl = http://web.archive.org/web/20080322075839/http://www.intel.com/intel/finance/gcr03/39-years_of_innovation.htm | archivedate = 2008-03-22 }}</ref> Disebabkan karena pembaruan-pembaruan yang ditambahkan, modus ini kemudian diadopsi secara luas dan menjadi fundamen dari pembaruan-pembaruan lebih lanjut terhadap prosesor [[X86]] tersebut.<ref name="Foundation">{{ cite book | title = Intel 64 and IA-32 Architectures Software Developer's Manual | publisher = [[Intel]] | chapter = 2.1 Brief History of the IA-32 Architecture | month = May | year = 2007 | location = [[Denver, Colorado]] | page = 31 | url = http://www.intel.com/products/processor/manuals/index.htm }}</ref>
+
+== Rujukan ==
+
+{{reflist}}
+
+== Pranala luar ==
+
+* [http://www.rcollins.org/articles/pmbasics/tspec_a1_doc.html Protected Mode Basics]
+* [http://www.internals.com/articles/protmode/introduction.htm Introduction to Protected-Mode]
+* [http://www.intel.com/design/intarch/papers/exc_ia.htm Overview of the Protected Mode Operations of the Intel Architecture]
+* [http://www.intel.com/products/processor/manuals/index.htm Intel 64 and IA-32 Architectures Software Developer's Manuals]
+* [http://www.turboirc.com/asm TurboIRC.COM tutorial to enter protected mode from DOS]
+* [http://www.viralpatel.net/taj/tutorial/protectedmode.php Protected Mode Overview and Tutorial]
+* [http://www.codeproject.com/KB/system/asm.aspx Code Project Protected Mode Tutorial]
+* [http://code.google.com/p/akernelloader/ Akernelloder switching from real mode to protected mode]
+
+[[Kategori:Arsitektur x86| ]]
+[[Kategori:Intel]]
+[[Kategori:Mikroprosesor]]
+
+
+{{komputer-stub}}

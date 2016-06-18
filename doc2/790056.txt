@@ -1,0 +1,15 @@
+Berkas:2016 Summer Paralympics logo.svg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+Logo resmi [[Paralimpiade Musim Panas 2016]].
+{{dari|en}}
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Logo}}

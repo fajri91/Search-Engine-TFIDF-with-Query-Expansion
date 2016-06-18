@@ -1,0 +1,71 @@
+Templat:Yeremia
+{{#switch:{{PAGENAME}}|Yeremia 1|Yeremia 2|Yeremia 3|Yeremia 4|Yeremia 5|Yeremia 6|Yeremia 7|Yeremia 8|Yeremia 9|Yeremia 10|Yeremia 11|Yeremia 12|Yeremia 13|Yeremia 14|Yeremia 15|Yeremia 16|Yeremia 17|Yeremia 18|Yeremia 19|Yeremia 20|Yeremia 21|Yeremia 22|Yeremia 23|Yeremia 24|Yeremia 25|Yeremia 26|Yeremia 27|Yeremia 28|Yeremia 29|Yeremia 30|Yeremia 31|Yeremia 32|Yeremia 33|Yeremia 34|Yeremia 35|Yeremia 36|Yeremia 37|Yeremia 38|Yeremia 39|Yeremia 40|Yeremia 41|Yeremia 42|Yeremia 43|Yeremia 44|Yeremia 45|Yeremia 46|Yeremia 47|Yeremia 48|Yeremia 49|Yeremia 50|Yeremia 51|Yeremia 52=<nowiki />
+* {{id}} [http://alkitab.sabda.org/passage.php?version=tb&passage={{urlencode:{{PAGENAME}}}}&tab=text Teks {{PAGENAME}} dari Alkitab SABDA]
+* {{id}} [http://alkitab.sabda.org/bible.php?version=tb&book=24&chapter={{remove first word|{{PAGENAME}}}}&tab=audio Audio {{PAGENAME}}]
+* {{id}} [http://alkitab.sabda.org/bible.php?version=tb&book=24&chapter={{remove first word|{{PAGENAME}}}}&tab=xref Referensi silang {{PAGENAME}}]
+* {{id}} [http://alkitab.sabda.org/commentary.php?version=tb&passage=Yeremia+{{remove first word|{{PAGENAME}}}} Komentari bahasa Indonesia untuk {{PAGENAME}}]
+* {{en}} [http://alkitab.sabda.org/commentary.php?version=net&passage=Yeremia+{{remove first word|{{PAGENAME}}}} Komentari bahasa Inggris untuk {{PAGENAME}}]
+}}
+{{Navbox
+| name  = Yeremia
+| listclass = hlist
+| title =[[Kitab Yeremia]]     <small>(''Sefer Yirmiyahu'')</small>
+| image = {{Portal|Kristen|Yahudi}}
+| group1 = [[Alkitab]]
+| state = {{{state|<noinclude>uncollapsed</noinclude>}}}
+| list1 = [[Yeremia 1]]  [[Yeremia 2|2]]  [[Yeremia 3|3]]  [[Yeremia 4|4]]  [[Yeremia 5|5]]  [[Yeremia 6|6]]  [[Yeremia 7|7]]  [[Yeremia 8|8]]  [[Yeremia 9|9]]  [[Yeremia 10|10]]  [[Yeremia 11|11]]  [[Yeremia 12|12]]  [[Yeremia 13|13]]  [[Yeremia 14|14]]  [[Yeremia 15|15]]  [[Yeremia 16|16]]  [[Yeremia 17|17]]  [[Yeremia 18|18]]  [[Yeremia 19|19]]  [[Yeremia 20|20]]  [[Yeremia 21|21]]  [[Yeremia 22|22]]  [[Yeremia 23|23]]  [[Yeremia 24|24]]  [[Yeremia 25|25]]  [[Yeremia 26|26]]  [[Yeremia 27|27]]  [[Yeremia 28|28]]  [[Yeremia 29|29]]   [[Yeremia 30|30]]  [[Yeremia 31|31]]  [[Yeremia 32|32]]  [[Yeremia 33|33]]  [[Yeremia 34|34]]  [[Yeremia 35|35]]  [[Yeremia 36|36]]   [[Yeremia 37|37]]  [[Yeremia 38|38]]  [[Yeremia 39|39]]  [[Yeremia 40|40]]  [[Yeremia 41|41]]  [[Yeremia 42|42]]  [[Yeremia 43|43]]  [[Yeremia 44|44]]  [[Yeremia 45|45]]  [[Yeremia 46|46]]  [[Yeremia 47|47]]  [[Yeremia 48|48]]  [[Yeremia 49|49]]  [[Yeremia 50|50]]  [[Yeremia 51|51]]  [[Yeremia 52|52]]
+
+| group2 = Tempat/Istilah
+| list2 = 
+* [[Anatot]]
+* [[Arab]]
+* [[Asdod]]
+* [[Askelon]]
+* [[Babel]]
+* [[Dedan]]
+* [[Edom]]
+* [[Ekron]]
+* [[Elam]]
+* [[Gaza]]
+* [[Karkhemish]]
+* [[Madai]]
+* [[Memphis, Mesir|Memfis]]
+* [[Moab]]
+* [[Moresyet]]
+* [[Ramataim-Zofim|Rama]]
+* [[Ratapan]]
+* [[Sesakh]]
+* [[Sidon]]
+* [[Tahpanhes]]
+* [[Tema]]
+* [[Tirus]]
+* [[Yerusalem]]
+
+| group3 = Tokoh
+| list3 =
+* [[Ahikam]]
+* [[Barukh]]
+* [[Ewil-Merodakh]]
+* [[Gedalya]]
+* [[Hofra]]
+* [[Konya]]
+* [[Nebukadnezar]]
+* [[Nekho II]]
+* [[Nergal-sarezer]]
+* [[Safan]]
+* [[Yeremia]]
+* [[Yoahas (raja Yehuda)|Salum]]
+* [[Yosia]]
+* [[Yoyakim]]
+* [[Yoyakhin]]
+* [[Yukhal]]
+* [[Zedekia]]
+
+| group9 = Sumber
+| list9 = [[4QJer|Naskah Laut Mati 4QJer]]  [[wikisource:he:  |Alkitab Ibrani]]  [[wikisource:el:|Septuaginta]]  [[wikisource:la:Biblia Sacra Vulgata (Stuttgartensia)/Ieremias|Latin Vulgata]]  [http://alkitab.sabda.org/bible.php?version=tb&book=24&chapter=1 Versi Terjemahan Baru]  [[wikisource:Bible (Wycliffe)/Jeremiah|Versi Wycliffe]]  [[wikisource:Bible, King James, Jeremiah|Versi King James]]  [[wikisource:Bible (American Standard)/Jeremiah|Versi American Standard]]   [[wikisource:Bible (World English)/Jeremiah|Versi World English]]
+
+| below = [[Kitab Yesaya]] ([[Yesaya 66|pasal 66]])    [[Kitab Ratapan]] ([[Ratapan 1|pasal 1]])
+}}<noinclude>
+[[Kategori:Templat navigasi Kristen]][[Kategori:Templat navigasi Yahudi]]
+[[Kategori:Kitab Yeremia]]
+</noinclude>

@@ -1,0 +1,29 @@
+Poliketida
+'''Poliketida''' adalah [[metabolit sekunder]] dari [[bakteri]], [[jamur]], [[tanaman]], dan [[hewan]]. Poliketida di[[biosintesis]]kan dengan [[polimerisasi]] subunit [[asetil]] dan [[propionil]] dalam proses yang mirip dengan [[metabolisme asam lemak|sintesis asam lemak]] ([[kondensasi Claisen]]). <ref name="Robinson">{{cite journal|author=Robinson JA|year= 1991|title=Polyketide synthase complexes: their structure and function in antibiotic biosynthesis|journal=Philos Trans R Soc Lond B Biol Sci.|volume=332|pages=107114|pmid=1678529|doi=10.1098/rstb.1991.0038}}</ref> Poliketida adalah blok pembangun (''building block'') untuk berbagai [[produk alami|produk-produk alami]].
+
+== Contoh poliketida ==
+* [[Makrolida]]
+** [[Pikromisin]], makrolida yang pertama kali diisolasi (1950)
+** [[Antibiotik]] [[Eritromisin|eritromisin A]], [[klaritromisin]], and [[azitromisin]]
+** [[Imunosupresan]] [[Takrolimus|takrolimus (FK506)]]
+* Antibiotik [[poliena]]
+** [[Amfoterisin]]
+* [[Tetrasiklina]]
+** keluarga antibiotik tetrasiklina
+* Lainnya
+** [[Diskodermolida]]
+** [[Aflatoksin]]
+
+== Biosintesis ==
+Poliketida disintesis menggunakan satu atau lebih enzi [[poliketida sintase]] (PKS) yang terspesialisasi dan sangat kompleks.<ref name="Robinson"/>
+
+== Referensi ==
+{{reflist}}
+
+== Lihat pula ==
+
+* [[Esterase]]
+* [[Peptida Nonribosom]]
+
+[[Kategori:Produk alami]]
+[[Kategori:Antibiotik poliketida]]

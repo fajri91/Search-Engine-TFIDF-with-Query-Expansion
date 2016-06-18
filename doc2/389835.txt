@@ -1,0 +1,90 @@
+Rangrvallassla
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name          = Rangrvallassla
+|other_name             =
+|native_name            = 
+|nickname               = 
+|settlement_type        =[[County di Islandia|County]]
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          =
+|imagesize              = 
+|image_caption          = 
+|image_flag             = 
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              = Sslur  slandi.png
+|mapsize                = 300px
+|map_caption            = County di Islandia
+|pushpin_map            =
+|pushpin_label_position = 
+|pushpin_map_caption    =
+|pushpin_mapsize        =
+<!-- Location ------------------>
+|subdivision_type       = Negara
+|subdivision_name       = {{flag|Islandia}}
+|subdivision_type1      = [[Region di Islandia|Region]]
+|subdivision_name1      = [[Suurland]]
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =
+|leader_name            =
+|leader_title1          =  <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           =
+|established_title      =  <!-- Settled -->
+|established_date       = 
+<!-- Area    --------------------->
+|area_magnitude         = 
+|unit_pref                = <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes           =
+|area_total_km2           = <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+|area_water_km2           =
+|area_total_sq_mi         =
+|area_land_sq_mi          =
+|area_water_sq_mi         =
+|area_water_percent       =
+<!-- Population   ----------------------->
+|population_as_of               =
+|population_footnotes           =
+|population_note                =
+|population_total               =
+|population_density_km2         =
+|population_density_sq_mi       =
+<!-- General information  --------------->
+|timezone               = [[Greenwich Mean Time|GMT]]
+|utc_offset             = +0
+|timezone_DST           = 
+|utc_offset_DST        = 
+|latd= |latm=|lats= |latNS=N
+|longd=|longm=|longs=|longEW=W
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 
+|elevation_ft           =
+<!-- Area/postal codes & others -------->
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              =
+|website                = 
+|footnotes              = 
+}} 
+'''Rangrvallassla''' adalah sebuah county di [[Islandia]]. County ini terletak di region [[Suurland]].
+
+{{County di Islandia}}
+
+{{coord|63|55|N|20|00|W|display=title|region:IS_type:adm1st_source:GNS-enwiki}}
+
+[[Kategori:County di Islandia]]
+
+
+{{Islandia-geo-stub}}

@@ -1,0 +1,150 @@
+Trem di Istanbul
+{{About|sistem trem bersejarah generasi pertama di Istanbul|jalur trem modern Istanbul|jalur trem modern Istanbul|jalur trem "warisan" modern Istanbul|jalur trem nostalgia Istanbul}}
+{{Infobox tram network
+| box_width                     =
+| color                         =
+| name                          = Trem di Istanbul
+| system                        =
+| logo                          =
+| logo_width                    =
+| logo_alt                      =
+| image                         = 
+| image_width                   = 
+| image_alt                     = 
+| caption                       = 
+<!-- Operation -->
+| locale                        = [[stanbul]], [[Turki]]
+| open                          = 
+| close                         =
+| status                        = Ditutup (generasi pertama)<br />Masih beroperasi (sistem modern)
+| lines                         = 
+| routes                        = 
+| owner                         = 
+| operator                      = 
+<!-- Infrastructure -->
+| gauge                         = 
+| minimum_radius_of_curvature   =
+| propulsion_system             =
+| el                            = 
+| depot                         = 
+| stock                         = 
+<!-- Statistics -->
+| single_track_length           =
+| double_track_length           =
+| total_track_length            =
+| route_length                  =
+| stops                         =
+| pass_year                     =
+| passengers                    =
+| pass_percent                  =
+| pass_system                   =
+| mpassengers                   =
+<!-- Overview -->
+| map                           = [[Berkas:Istanbul's tram map.png|300px]]
+| map_state                     = show
+| website                       =
+<!-- First era -->
+| era1_name                     = [[Gerbong kuda]]
+| era1_start_year               = {{Start date|1860}}
+| era1_end_year                 = {{End date|1912}}
+| era1_state                    = show
+| era1_system                   =
+| era1_status                   = Dialihkan ke listrik
+| era1_lines                    =
+| era1_routes                   =
+| era1_owner                    =
+| era1_operator                 =
+| era1_gauge                    = <!-- {{RailGauge|sg}} -->
+| era1_minimum_radius_of_curvature =
+| era1_propulsion_system        = Kuda
+| era1_el                       =
+| era1_depot                    =
+| era1_stock                    =
+| era1_single_track_length      =
+| era1_double_track_length      =
+| era1_total_track_length       =
+| era1_route_length             =
+| era1_stops                    =
+| era1_pass_year                =
+| era1_passengers               =
+| era1_pass_percent             =
+| era1_pass_system              =
+| era1_mpassengers              =
+| era1_map                      =
+| era1_website                  =
+<!-- Second era -->
+| era2_name                     = [[Trem listrik]]
+| era2_start_year               = {{Start date|1912}}
+| era2_end_year                 = {{End date|1966}}
+| era2_state                    = show
+| era2_system                   =
+| era2_status                   = Ditutup
+| era2_lines                    =
+| era2_routes                   =
+| era2_owner                    =
+| era2_operator                 =
+| era2_gauge                    = <!-- {{RailGauge|sg}} -->
+| era2_minimum_radius_of_curvature =
+| era2_propulsion_system        =
+| era2_el                       =
+| era2_depot                    =
+| era2_stock                    =
+| era2_single_track_length      =
+| era2_double_track_length      =
+| era2_total_track_length       =
+| era2_route_length             =
+| era2_stops                    =
+| era2_pass_year                =
+| era2_passengers               =
+| era2_pass_percent             =
+| era2_pass_system              =
+| era2_mpassengers              =
+| era2_map                      =
+| era2_website                  =
+<!-- Third era -->
+| era3_name                     = [[Trem|Trem Modern]] & [[Trem warisan]]
+| era3_start_year               = {{Start date|1992}} & {{Start date|1990}} 
+| era3_end_year                 =
+| era3_state                    =
+| era3_system                   =
+| era3_status                   = Sedang beroperasi
+| era3_lines                    = 2 (jalur trem modern) <br />2 (jalur trem warisan)
+| era3_routes                   = 
+| era3_owner                    = [[ETT]]
+| era3_operator                 = [[stanbul Ulam A..]]
+| era3_gauge                    = {{RailGauge|sg|allk=on}}
+| era3_minimum_radius_of_curvature =
+| era3_propulsion_system        = Elektrik
+| era3_el                       =
+| era3_depot                    = Taksim, Zeytinburnu, ehremini, Kadky
+| era3_stock                    = [[Flexity Swift]] LRVs <br>Stadbahn-B (eks-Koln) <br>Citadis X-04
+| era3_single_track_length      =
+| era3_double_track_length      =
+| era3_total_track_length       =
+| era3_route_length             =
+| era3_stops                    =
+| era3_pass_year                =
+| era3_passengers               =
+| era3_pass_percent             =
+| era3_pass_system              =
+| era3_mpassengers              =
+| era3_map                      = 
+| era3_website                  =
+}}
+
+Bekas ibukota [[Kekaisaran Utsmaniyah]] sesekali dilayanim baik di sisi Asia maupun di sisi Eropa-nya, oleh jaringan besar '''trem di Istanbul'''. Jaringan trem generasi pertamanya mula-mula beroperasi sebagai sebuah sistem [[trem kuda]], dan kemudian digantikan [[trem listrik]] pada awal abad keduapuluh. Jaringan trem aslinya akhirnya ditutup pada 1966. 
+
+Trem kembali pada 1990, dan pelayanan trem modern generasi kedua mulai melayani pada 1992. Pada masa modern, [[Istanbul]] dilayani oleh tiga sistem jalur trem terpisah. Sisi Asia-nya memiliki sebuah [[jalur trem nostalgia Istanbul|jalur trem warisan]], sementara sisi Eropa-nya memiliki jalur trem warisan dan sistem [[jalur trem modern Istanbul|trem modern]].
+
+==Pranala luar==
+
+*[http://www.iett.gov.tr/en/index.php Sejarah Resmi Trem Istanbul dengan foto-foto lama]
+*[http://www.dersaadettramvayi.com Sejarah jalur trem Istanbul yang lebih Mendetail dengan foto-foto bagus]
+
+{{Transportasi Publik di stanbul}}
+{{transportasi lokal di Turki}}
+
+{{DEFAULTSORT:Trem Di Istanbul}}
+[[Kategori:Transportasi trem di Turki|Istanbul]]
+[[Kategori:Transportasi di Istanbul]]
+[[Kategori:Transportasi rel di Kekaisaran Utsmaniyah]]

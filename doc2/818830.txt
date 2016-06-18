@@ -1,0 +1,76 @@
+Templat:National Board of Review Award for Best Supporting Actress
+{{Navbox
+| name       = National Board of Review Award for Best Supporting Actress
+| title      = [[National Board of Review Award for Best Supporting Actress]]
+| state = {{{state<includeonly>|autocollapse</includeonly>}}}
+| listclass = hlist
+
+|list1=
+* [[Nina Foch]] (1954)
+* [[Marjorie Rambeau]] (1955)
+* [[Debbie Reynolds]] (1956)
+* [[Sybil Thorndike]] (1957)
+* [[Kay Walsh]] (1958)
+* [[Edith Evans]] (1959)
+* [[Shirley Jones]] (1960)
+* [[Ruby Dee]] (1961)
+* [[Angela Lansbury]] (1962)
+* [[Margaret Rutherford]] (1963)
+* [[Edith Evans]] (1964)
+* [[Joan Blondell]] (1965)
+* [[Vivien Merchant]] (1966)
+* [[Marjorie Rhodes]] (1967)
+* [[Virginia Maskell]] (1968)
+* [[Pamela Franklin]] (1969)
+* [[Karen Black]] (1970)
+* [[Cloris Leachman]] (1971)
+* [[Marisa Berenson]] (1972)
+* [[Sylvia Sidney]] (1973)
+* [[Valerie Perrine]] (1974)
+* [[Ronee Blakley]] (1975)
+* [[Talia Shire]] (1976)
+* [[Diane Keaton]] (1977)
+* [[Angela Lansbury]] (1978)
+* [[Meryl Streep]] (1979)
+* [[Eva Le Gallienne]] (1980)
+* [[Mona Washbourne]] (1981)
+* [[Glenn Close]] (1982)
+* [[Linda Hunt]] (1983)
+* [[Sabine Azma]] (1984)
+* [[Anjelica Huston]] (1985)
+* [[Dianne Wiest]] (1986)
+* [[Olympia Dukakis]] (1987)
+* [[Frances McDormand]] (1988)
+* [[Mary Stuart Masterson]] (1989)
+* [[Winona Ryder]] (1990)
+* [[Kate Nelligan]] (1991)
+* [[Judy Davis]] (1992)
+* [[Winona Ryder]] (1993)
+* [[Rosemary Harris]] (1994)
+* [[Mira Sorvino]] (1995)
+* [[Juliette Binoche]] / [[Kristin Scott Thomas]] (1996)
+* [[Anne Heche]] (1997)
+* [[Christina Ricci]] (1998)
+* [[Julianne Moore]] (1999)
+* [[Lupe Ontiveros]] (2000)
+* [[Cate Blanchett]] (2001)
+* [[Kathy Bates]] (2002)
+* [[Patricia Clarkson]] (2003)
+* [[Laura Linney]] (2004)
+* [[Gong Li]] (2005)
+* [[Catherine O'Hara]] (2006)
+* [[Amy Ryan]] (2007)
+* [[Penlope Cruz]] (2008)
+* [[Anna Kendrick]] (2009)
+* [[Jacki Weaver]] (2010)
+* [[Shailene Woodley]] (2011)
+* [[Ann Dowd]] (2012)
+* [[Octavia Spencer]] (2013)
+* [[Jessica Chastain]] (2014)
+* [[Jennifer Jason Leigh]] (2015)
+
+}}<noinclude>
+{{collapsible option}}
+[[Category:National Board of Review Awards| Supporting Actress]]
+[[Category:Templat penghargaan film]]
+</noinclude>

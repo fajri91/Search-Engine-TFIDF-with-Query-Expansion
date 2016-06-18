@@ -1,0 +1,8 @@
+Templat:S-line/SMRT right/Pusat Kota
+{{#switch:{{{type}}}
+   | Bugis=Bugis
+   | Chinatown=Chinatown
+   | #default=Expo
+}}<noinclude>
+[[Kategori:Templat transportasi rel di Singapura]]
+</noinclude>

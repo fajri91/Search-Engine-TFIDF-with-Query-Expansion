@@ -1,0 +1,6 @@
+Templat:Subon
+[[Image:sub on.svg|10px|Masuk menggantikan {{#if: {{{1|}}} | pada menit ke-{{{1|}}}}}]]<!--
+-->{{#if: {{{1|<noinclude>-</noinclude>}}} |
+<span style="font-size: 10px; vertical-align: middle;"> {{{1}}}'</span>
+}}<noinclude>
+{{{{PAGENAME}}/doc}}</noinclude>

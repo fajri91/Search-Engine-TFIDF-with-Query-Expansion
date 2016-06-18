@@ -1,0 +1,45 @@
+Templat:Cities and towns in Aichach-Friedberg (district)
+{{Navbox
+|name=Cities and towns in Aichach-Friedberg (district)
+|image=[[Berkas:Wappen Landkreis Aichach-Friedberg.svg|right|30px|Coat of Arms of Aichach-Friedberg district]]
+| listclass = hlist
+| title =Kota dan kotamadya di [[Aichach-Friedberg]]
+|liststyle=hlist
+|list1=
+*[[Adelzhausen]]
+*[[Affing]]
+*[[Aichach]]
+*[[Aindling]]
+*[[Baar, Bayern|Baar]]
+*[[Dasing]]
+*[[Eurasburg, Aichach-Friedberg|Eurasburg]]
+*[[Friedberg, Bayern|Friedberg]]
+*[[Hollenbach]]
+*[[Inchenhofen]]
+*[[Kissing]]
+*[[Khbach]]
+*[[Merching]]
+*[[Mering]]
+*[[Obergriesbach]]
+*[[Petersdorf, Aichach-Friedberg|Petersdorf]]
+*[[Pttmes]]
+*[[Rehling]]
+*[[Ried, Aichach-Friedberg|Ried]]
+*[[Schiltberg]]
+*[[Schmiechen]]
+*[[Sielenbach]]
+*[[Steindorf]]
+*[[Todtenweis]]
+}}<noinclude>
+[[Kategori:Templat pembagian administratif Jerman|Aichach-Friedberg]]
+
+
+
+
+
+
+
+
+
+
+</noinclude>

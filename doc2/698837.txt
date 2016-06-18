@@ -1,0 +1,34 @@
+Paok bakau
+{{Taxobox
+| name = Paok bakau
+| image = Mangrove Pitta (Pitta megarhyncha), Singapore Botanic Gardens - 20140303.jpg
+| image_caption = Paok bakau di [[Singapura]]
+| status = NT
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22698691 |title=''Pitta megarhyncha'' | assessors=[[BirdLife International]] |version=2012.2 |year=2013.2 |accessdate=10 April 2014}}</ref>
+| regnum = [[Animalia]]
+| phylum = [[Chordata]]
+| classis = [[Aves]]
+| ordo = [[Passeriformes]]
+| familia = [[Pittidae]]
+| genus = ''[[Pitta (genus)|Pitta]]''
+| species = ''P. megarhyncha''
+| binomial = ''Pitta megarhyncha''
+| binomial_authority = [[Hermann Schlegel|Schlegel]], 1863
+| synonyms = }}
+
+'''Paok bakau''' (''Pitta megarhyncha'') adalah spesies burung paok dalam famili [[Pittidae]]. Burung ini tersebar di pesisir barat [[Malaysia]], dari [[Sunderbans]] sampai [[Singapura]]. Di [[Indonesia]], paok bakau pernah tercatat ke selatan melewati [[Kepulauan Riau]], dataran rendah [[Sumatera]] sebelah timur, dan [[Pulau Bangka]].<ref name=kutilang>{{cite web |url=http://www.kutilang.or.id/burung/konservasi/paok-bakau/ |title=Paok bakau |publisher= Kutilang Indonesia |accessdate=10 April 2014}}</ref>
+
+== Referensi ==
+{{reflist}}
+
+[[Kategori:Pitta]]
+[[Kategori:Burung Bangladesh]]
+
+[[Kategori:Burung India]]
+
+[[Kategori:Burung Indonesia]]
+
+[[Kategori:Burung Malaysia]]
+
+[[Kategori:Burung Thailand]]

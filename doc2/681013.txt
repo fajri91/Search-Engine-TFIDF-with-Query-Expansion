@@ -1,0 +1,15 @@
+Berkas:Shofwan Kariman Elha.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+[[Shofwan Karim Elha]], pengajar Indonesia. Sumber gambar/foto: Website PT Semen Padang. [http://www.semenpadang.co.id/?mod=manajemen&kat=&id=3]
+
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Fairuse}}

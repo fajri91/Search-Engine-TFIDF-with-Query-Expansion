@@ -1,0 +1,39 @@
+Templat:Category see also/doc
+{{Subhalaman dokumentasi}}
+<!-- TAMBAHKAN KATEGORI DAN PRANALA ANTARBAHASA DI BAGIAN PALING BAWAH HALAMAN INI -->
+
+=== Penggunaan ===
+;Pada halaman kategori
+: '''<code><nowiki>{{</nowiki>Category see also|List of category names (one or more)}}</code>'''
+
+'''Parameter:'''
+# Parameter dipisahkan dengan tanda pipa, hingga 40 halaman
+# Bila ditulis: LABEL=''Some other phrase''...   tampilan layar: ''"See also Category:" or "See also categories:"'' (prefix messages).
+# SISTER=interwiki untuk proyek lain, de:, fr:, es: en: dan proyek Wikimedia lainnya bila ada:
+## <code>SISTER=de:V:</code> untuk kategori terkait di [[Wikiversity]] [[bahasa Jerman]], atau 
+## <code>SISTER=fr:B:</code> untuk kategori terkait di [[Wikibooks]] [[bahasa Perancis]].
+
+;Contoh sederhana
+# <nowiki>{{</nowiki>Category see also|A}}  {{Category see also|A}}<br/><br/>
+# <nowiki>{{</nowiki>Category see also|A|B}}  {{Category see also|A|B}}<br/><br/>
+# <nowiki>{{</nowiki>Category see also|A|B|C}}  {{Category see also|A|B|C}}<br/>
+
+;Contoh pesan ke kategori lain:
+: <tt><nowiki>{{Category see also|aaa|bbb|ccc|ddd|eee|fff}}</nowiki></tt>
+
+;Tampilan:
+: <code>''Lihat pula kategori:'' aaa, bbb, ccc, ddd, and eee</code>
+
+<includeonly>
+<!-- KATEGORI DAN PRANALA ANTARBAHASA DILETAKKAN DI SINI -->
+[[Kategori:Tidak layak cetak]]
+[[Kategori:Templat ruang nama kategori]]
+[[Kategori:Templat pranala internal]]
+[[Kategori:Templat pranala antarwiki]]
+[[Kategori:Templat daftar]]<!-- 
+[[Kategori:Hatnote templates for category pages]] -->
+
+[[simple:Template:Cat see also]]
+[[zh:Template:]]
+
+</includeonly>

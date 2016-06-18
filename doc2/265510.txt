@@ -1,0 +1,146 @@
+Kereta api Sriwijaya
+{{peringatan jadwal KA}}
+{{hatnote|Peringatan: Dimohon agar tidak mengubah jadwal KA ini karena sesuai dengan Gapeka 2015.}}
+{{Kotak info jalur kereta api
+| box_width   = 
+| name        = Kereta api Sriwijaya
+| color       = 
+| logo        =KA SRIWIJAYA.png 
+| logo_width  =300
+| image       = C417Limex.jpeg
+| image_width = 310
+| caption     = Rangkaian KA Sriwijaya sedang melaju di perlintasan sebidang, bersama CC204 17, di dekat [[Universitas Lampung|Unila]].
+| type = Eksekutif dan Bisnis AC
+| system = Kereta api ekspres terbatas lintas malam
+| status = Beroperasi
+| locale = Divre 3 Sumatera Selatan dan Lampung
+| start = [[Stasiun Tanjungkarang]]
+| end = [[Stasiun Kertapati]]
+| stations = 10
+| routes = 1
+| ridership =
+| routenumber = S1-S2
+| linenumber =
+| open = 
+| close = 
+| reopen = 
+| owner = [[PT Kereta Api Indonesia]]
+| operator = [[Divisi Regional III Sumatera Selatan dan Lampung]]
+| character =
+| depot = Tanjungkarang (kereta),Kertapati (lokomotif)
+| stock = [[CC201]],[[CC202]], [[CC204]]
+| linelength = 389 [[kilometer]]
+| tracklength =  
+| notrack = 
+| gauge = 1067 [[milimeter|mm]]
+| el = -
+| speed = 55 s.d. 100 km/jam
+| map = {{KA Limex Sriwijaya}}
+}}
+'''Kereta api Sriwijaya Selatan''' merupakan kereta api [[Kereta api eksekutif|Eksekutif]]-[[Kereta api bisnis|Bisnis]] yang melayani koridor [[Stasiun Kertapati]]-[[Stasiun Tanjungkarang]]. Kereta ini diberangkatkan dari [[Stasiun Kertapati]] (untuk tujuan Tanjungkarang) pukul 21.00 WIB dan tiba di [[Stasiun Tanjungkarang]] pukul 09.05 WIB. Sedangkan perjalanan sebaliknya dari [[Stasiun Tanjungkarang]] (untuk tujuan Palembang) berangkat pukul 21.00 WIB dan tiba di Stasiun Kertapati pukul 08.28 WIB.
+
+Kereta api ini berkapasitas 534 penumpang dengan membawa 4-5 kereta eksekutif retrofit dengan interior (seperti) pesawat (Eks Kereta api [[Kereta api Sembrani|Sembrani]]/Dipo Kereta [[Stasiun Jakarta Kota|Jakarta Kota (JAKK)]]), 1 KMP2 (kereta makan pembangkit kelas bisnis),2-3 kereta bisnis dan 1 kereta "aling-aling" eks K2.
+
+Awalnya kereta api ini biasa ditarik lokomotif andalan jenis [[CC201]], [[CC202]], dan [[BB203]]. Tetapi dewasa ini, KA Sriwijaya lebih sering ditarik lokomotif jenis [[CC204]] atau [[CC201]] hasil mutasi dari Jawa, karena BB203 telah dimutasi ke Sumatera Utara. Sementara itu, CC201 asli Divre III yang kebanyakan modifikasi BB203 kini telah mengalami penurunan fungsi, karena peran menarik kereta penumpang ke Tanjungkarang telah digantikan oleh [[CC204]] dan [[CC201]] yang telah dimutasi. Setelah [[CC204]] dialihkan fungsinya menjadi pengangkut kereta api barang batu bara dan peti kemas, akhirnya kereta api ini mengandalkan lokomotif [[CC201]].
+
+== Rangkaian KA ==
+Berikut ini Rangkaian Kereta api Sriwijaya:
+* 1 Lokomotif CC201/CC202/CC204 Dipo Induk (KPT)
+* 2 Kereta Bisnis AC (K2)
+* 1 Kereta Makan Pembangkit (KMP2/MP2)
+* 4 Kereta Eksekutif (K1)
+* 1 Kereta aling-aling (K2)
+
+== Tarif dan penambahan kereta ==
+Pada saat mudik Lebaran atau hari libur nasional, kereta api ini dapat dilakukan penambahan 1 kereta pembangkit, 1 kereta Eksekutif, 1 kereta Bisnis,dan 2 kereta Ekonomi AC Split. Tarif kereta api ini jauh dekat untuk kelas eksekutif adalah Rp150.000,00 sedangkan bisnis Rp 90.000,00.
+
+== Stasiun yang disinggahi ==
+*Stasiun Kotabumi
+*Stasiun Blambangan Umpu
+*Stasiun Martapura
+*Stasiun Baturaja
+*Stasiun Prabumulih
+
+== Jadwal perjalanan (Gapeka 2015) ==
+{{hatnote|Peringatan: Mohon dengan sangat untuk tidak diperkenankan mengubah jadwal KA karena sudah sesuai GAPEKA 2015}}<ref>[http://dipoinduk-tnk.blogspot.co.id/p/daftar-dan-jadwal-ka-sub-divre-iii2-tnk.html Daftar dan Jadwal KA Lampung - Sub Divre III.2 TNK (GAPEKA 2015)]</ref> 
+{| class="wikitable"
+|-
+! Stasiun !! Datang !! Berangkat
+|-
+!colspan=3|'''KA S1 Limex Sriwijaya (Kertapati-Tanjung Karang)'''
+|-
+| [[Stasiun Kertapati|Kertapati]] || - || 21.00
+|-
+| [[Stasiun Lembak|Lembak]] || 22.03 || 21.32
+|-
+| [[Stasiun Prabumulih|Prabumulih]] || 22.29 || 23.00
+|-
+| [[Stasiun Tanjungrambang|Tanjungrambang]] || 23.16 || 23.46
+|-
+| [[Stasiun Talangbaru|Talang Baru]] || 00.25 || 00.41
+|-
+| [[Stasiun Belimbingairkaka|Belimbing Air Kaka]] || 01.15 || 01.30
+|-
+| [[Stasiun Lubukbatang|Lubuk Batang]] || 01.46 || 02.00
+|-
+| [[Stasiun Baturaja|Baturaja]] || 02.15 || 02.43
+|-
+| [[Stasiun Airtuba|Air Tuba]] || 03.03 || 03.28
+|-
+| [[Stasiun Martapura|Martapura]] || 03.49 || 03.51
+|-
+| [[Stasiun Giham|Giham]] || 04.19 || 04.35
+|-
+| [[Stasiun Blambanganumpu|Blambangan Umpu]] || 04.19 || 04.35
+|-
+| [[Stasiun Tulungbuyut|Tulung Buyut]] || 05.44 || 05.55
+|-
+| [[Stasiun Kotabumi|Kotabumi]] || 06.45 || 07.00
+|-
+| [[Stasiun Hajipemanggilan|Haji Pemanggilan]] || 07.36 || 07.54
+|-
+| [[Stasiun Bekri|Bekri]] || 08.04 || 08.07
+|-
+| [[Stasiun Gedungratu|Gedung Ratu]] || 08.39 || 08.50
+|-
+| [[Stasiun Tanjungkarang|Tanjung Karang]] || 09.05 || -
+|-
+!colspan=3|'''KA S2 Limex Sriwijaya (Tanjung Karang-Kertapati)'''
+|-
+| [[Stasiun Tanjungkarang|Tanjung Karang]] || - || 21.00
+|-
+| [[Stasiun Rejosari|Rejo Sari]] || 21.15 || 21.30
+|-
+| [[Stasiun Rengas|Rengas]] || 21.53 || 22.09
+|-
+| [[Stasiun Bekri|Bekri]] || 21.53 || 22.09
+|-
+| [[Stasiun Kotabumi|Kotabumi]] || 23.38 || 00.05
+|-
+| [[Stasiun Martapura|Martapura]] || 02.59 || 03.01
+|-
+| [[Stasiun Baturaja|Baturaja]] || 03.55 || 04.20
+|-
+| [[Stasiun Prabumulih|Prabumulih]] || 06.56 || 07.10
+|-
+| [[Stasiun Kertapati|Kertapati]] || 08.58 || -
+|-
+|}
+
+== Galeri ==
+<gallery>
+File:Limexsriwijaya.jpg |KA Limex Sriwijaya semasa masih ditarik BB203 tiba di [[Stasiun Kertapati]]
+File:Sriwijaya c4.JPG |Rangkaian KA Limex Sriwijaya sedang langsir di [[Stasiun Kertapati]]
+File:Limexlokmerah.jpeg | KA Limex Sriwijaya dengan lok CC201 114R (CC201 83 36) dan kereta bisnis ''livery'' "Kesepakatan" melintas [[Stasiun Labuanratu]]
+Berkas:20418Limex.jpeg|[[Lokomotif CC204|CC 204 18]] menarik Kereta api Limex Sriwijaya di Stasiun Labuan Ratu.
+</gallery>
+
+== Referensi ==
+{{reflist|1}}
+
+== Pranala luar ==
+* {{id}} [http://www.kereta-api.co.id/ Situs resmi PT Kereta api]
+{{DaftarKeretaApi}}
+{{kereta-stub}}
+
+[[Kategori:Kereta api di Indonesia|Limex Sriwijaya]]

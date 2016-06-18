@@ -1,0 +1,16 @@
+Berkas:Upacara Novero.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+Upacara Novero, Sulawesi Tengah.
+
+Sumber: http://www.indonesiawonder.com/id/tour/wisata-budaya/upacara-novero
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{DU-Pembuat}}

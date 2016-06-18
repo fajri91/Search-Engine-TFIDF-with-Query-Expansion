@@ -1,0 +1,55 @@
+Almost is Never Enough
+{{Infobox song
+| Name       = Almost is Never Enough
+| Cover      = 
+| Artist     = [[Ariana Grande]] dan [[Nathan Sykes]]
+| Album      = [[The Mortal Instruments: City of Bones (Music from the Motion Picture)]] dan [[Yours Truly (album Ariana Grande)|Yours Truly]]
+| Released   = {{startdate|2013|08|19}}
+| Type       = [[Promotional single]]
+| Genre      = {{flatlist|
+*[[Pop music|Pop]]
+*[[soul music|soul]] }}
+| Length     = {{duration|m=3|s=30}} <small>(Soundtrack version)</small> <br> {{duration|m=5|s=28}} <small>(Album version)</small>
+| Writer     = {{flatlist|
+*Ariana Grande
+*[[Harmony Samuels]]
+*[[Carmen Reece]]
+*Al Sherrod Lambert
+*Olaniyi-Akinpelu
+*Moses Samuels }}
+| Label      = {{flatlist|
+*[[Republic Records|Republic]]
+*[[Island Records|Island]]<ref name="UK chart">{{cite web|title=CHART LOG UK: NEW ENTRIES UPDATE (31/08/2013)|url=http://zobbel.de/cluk/130831cluk.txt|accessdate=4 December 2013}}</ref>  }}
+| Producer   = Moses Samuels
+| Misc         = {{Extra chronology
+| Artist       = [[Ariana Grande]] promotional singles
+| Type         = song
+| Last single = 
+| This single  = '''Almost is Never Enough'''<br/>(2013)
+| Next single = }}
+{{Extra chronology
+| Artist          = [[Nathan Sykes]] promotional singles
+| Type            = song
+| Last single  =
+| This single= '''Almost is Never Enough'''<br/>(2013)
+| Next single  = 
+}}
+}}
+'''"Almost is Never Enough"''' adalah lagu duet dari penyanyi Amerika Serikat [[Ariana Grande]] dan salah satu personil [[The Wanted]] Nathan Skykes. Lagu ini dirilis pada 19 Agustus 2013.
+
+==Chart==
+{|class="wikitable sortable"
+!align="left"|Chart (2013)
+!align="center"|Posisi<br>puncak
+|-
+{{singlechart| UKchartstats| 59| artist=Ariana Grande featuring Nathan Sykes| song=Almost is Never Enough}}
+|-
+{{singlechart| Billboardhot100| 82| artist=Ariana Grande| song=Almost is Never Enough}}
+|}
+
+==Referensi==
+{{reflist|2}}
+
+{{Ariana Grande}}
+
+[[Kategori:Singel tahun 2013]]

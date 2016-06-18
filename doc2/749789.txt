@@ -1,0 +1,9 @@
+Templat:Pengguna penyiar TV
+{{userbox|#e2f0ff|#e2f0ff|[[berkas:News reader.png|60px|link=]]|<center>Pengguna ini adalah seorang '''[[penyiaran|penyiar TV]]'''|border-color=darkblue}}
+{{#if:{{{kat|}}}||<includeonly>
+[[Kategori:Pengguna Broadcaster|{{PAGENAME}}]]</includeonly>}}<noinclude>{{clr}}
+* Templat ini menambahkan kategori: {{kat|Pengguna Broadcaster}}
+{{#if:{{{kat|}}}||<includeonly>
+</includeonly>}}<noinclude>__NOTOC__ __NOEDITSECTION__
+[[Kategori:Templat kotak pengguna profesi|Pengguna Broadcaster]]
+</noinclude>

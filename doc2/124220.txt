@@ -1,0 +1,62 @@
+Templat:BoA
+{{Navbox Musical artist
+|name = BoA
+| listclass = hlist
+| title =[[BoA]]
+|background = solo_singer
+
+|group1 = Korea 
+|group1 background = black
+|list1  = {{navbox subgroup 
+           |group1 = Album Studio
+           |list1  = 
+{{nowrap begin}}''[[ID; Peace B]]''{{w}} ''[[No.1]]''{{w}} ''[[Atlantis Princess]]''{{w}} ''[[My Name (album BoA)|My Name]]''{{w}} ''[[Girls on Top]]'' {{w}} ''[[Hurricane Venus]]'' {{w}} ''[[Only One (album BoA)|Only One]]'' {{nowrap end}}
+
+           |group2 = Album Mini
+           |list2  = 
+{{nowrap begin}}''[[Jumping into the World]]''{{w}} ''[[Miracle (album BoA)|Miracle]]''{{w}} ''[[Shine We Are!]]'' {{nowrap end}}
+    
+           |group3 = Singel
+           |list3  = 
+{{nowrap begin}}"[[The Lights of Seoul]]"{{w}} "[[Double (Double/Midnight Parade/Milky Way: Kimi no Uta)|Double]]"{{w}} "[[Rock With You (lagu)|Rock with You]]"{{w}} "[[Meri Kuri]]"{{w}} "[[Everlasting (lagu)|Everlasting]]"{{w}} "[[One Dream]]"{{nowrap end}}
+
+           |group4 = Singel digital
+           |list4  = 
+{{nowrap begin}}"[[Key of Heart / Dotch|Key of Heart]]"{{w}} "[[AnyBand (lagu)|AnyBand]]"{{nowrap end}}
+}}
+
+|group2 = Jepang
+|list2  = {{navbox subgroup
+           |group1 = Album Studio
+           |list1  = 
+{{nowrap begin}}''[[Listen to My Heart]]''{{w}} ''[[Valenti]]''{{w}} ''[[Love & Honesty]]''{{w}} ''[[Outgrow]]''{{w}} ''[[Made in Twenty (20)]]''{{w}} ''[[The Face (album)|The Face]]'' {{w}} ''[[Identity (album BoA)|Identity]]'' {{nowrap end}}
+
+           |group2 = Kompilasi {{br}}dan Remix
+           |list2  = {{nowrap begin}}''[[Peace B. Remixes]]''{{w}} ''[[Next World]]''{{w}} ''[[K-pop Selection]]''{{w}} ''[[Best of Soul]]''{{w}} ''[[Best & USA]]''{{nowrap end}}
+
+           |group3 = Singel
+           |list3  = 
+{{nowrap begin}}"[[ID; Peace B]]"{{w}} "[[Amazing Kiss]]"{{w}} "[[Kimochi wa Tsutawaru]]"{{w}} "[[The Meaning of Peace]]"{{w}} "[[Listen to My Heart (lagu)|Listen to My Heart]]"{{w}} "[[Every Heart: Minna no Kimochi]]"{{w}} "[[Don't Start Now]]"{{w}} "[[Valenti (singel)|Valenti]]"{{w}} "[[Kiseki / No.1]]"{{w}} "[[Jewel Song / Beside You: Boku o Yobu Koe]]"{{w}} "[[Shine We Are! / Earthsong]]"{{w}} "[[Double (Double/Midnight Parade/Milky Way: Kimi no Uta)|Double]]"{{w}} "[[Rock With You (lagu)|Rock with You]]"{{w}} "[[Be the One]]"{{w}} "[[Quincy / Kono Yo no Shirushi]]"{{w}} "[[Meri Kuri]]"{{w}} "[[Do the Motion]]"{{w}} "[[Make a Secret]]"{{w}} "[[Dakishimeru]]"{{w}} "[[Everlasting (lagu)|Everlasting]]"{{w}} "[[Nanairo no Ashita: Brand New Beat / Your Color]]"{{w}} "[[Key of Heart / Dotch]]"{{w}} "[[Winter Love]]"{{w}} "[[Sweet Impact]]"{{w}} "[[Love Letter (lagu BoA)|Love Letter]]"{{w}} "[[Lose Your Mind]]"{{w}} "[[Be with You.]]"{{w}} "[[Vivid: Kissing You, Sparkling, Joyful Smile]]"{{w}} "[[Eien/Universe/Believe in Love]]"{{w}} "[[Bump Bump!]]"{{w}} "[[Mamoritai: White Wishes]]"{{w}}"[[Woo Weekend]]"{{nowrap end}}
+
+           |group4 = Singel digital
+           |list4  = 
+{{nowrap begin}}"Holiday"{{w}} "[[The Love Bug (lagu)|The Love Bug]]"{{w}} "[[Everything Needs Love]]"{{w}} "Show Me What You Got"{{w}} "[[Merry Christmas from BoA]]"{{w}} "Hey Boy, Hey Girl"{{w}} "Winter Love" (versi akustik){{w}} "Shindax Presents BoA "Winter Love" X'mas Live"{{w}} "Sparkling i-dep's GAAP"{{w}}"Believe In Love"{{nowrap end}}
+}}
+
+|group5 = Inggris
+|list5  = {{navbox subgroup
+           |group1 = Album studio
+           |list1  = 
+{{nowrap begin}}''[[BoA (album)|BoA]]''{{nowrap end}}
+
+           |group6 = Singel
+           |list6  = 
+{{nowrap begin}}"[[Eat You Up]]"{{w}}"[[I Did It for Love]]"{{w}}"[[Energetic (lagu)|Energetic]]"{{nowrap end}}
+}}
+
+|group6 = Artikel terkait
+|list6 = {{nowrap begin}}[[Diskografi BoA]]{{nowrap end}}
+
+}}<noinclude>
+[[Kategori:Templat navigasi musik|{{PAGENAME}}]]
+</noinclude>

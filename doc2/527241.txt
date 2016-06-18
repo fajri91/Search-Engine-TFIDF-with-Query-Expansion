@@ -1,0 +1,36 @@
+Societ Sportiva Dilettantistica Calcio San Don
+{{Infobox football club |
+  clubname = S.S.D. Calcio San Don |
+  fullname = Societ Sportiva Dilettantistica Calcio San Don |
+  nickname =Biancocelesti  |
+  founded  = 1922 ''(as S.C. Ardita)''<br /> 1936 (refounded)<br /> 2001 (refounded)<br />2010 (refounded) <br />2013 (refounded) |
+  ground   = Stadio Verino Zanutto,<br/>[[San Don di Piave]], [[Italy]] |
+  capacity = 4,000 | 
+  chairman =  Daniele Dorigo|
+  manager  =  Giovanni Battista Berlese |
+  league   = Seconda Categoria |
+  season   = 2014-15 |
+  position = Terza Categoria, 1st |
+|pattern_b1=_lightbluestripes
+|body1=FFFFFF
+|pattern_la1=_whitelower
+|leftarm1=_lightbluestripes
+|pattern_ra1=_whitelower
+|rightarm1=_lightbluestripes
+|shorts1=000000
+|socks1=000000
+|pattern_b2=_blueshoulders
+|body2=940000
+|pattern_la2=_blueshoulders
+|leftarm2=940000
+|pattern_ra2=_blueshoulders
+|rightarm2=940000
+|shorts2=1E90FF
+|socks2=940000
+}}
+
+'''Societ Sportiva Dilettantistica Citt di San Don di Piave''' (biasa disebut San Don) merupakan klub sepak bola [[Italia]] yang berada di [[San Don di Piave]], Veneto. Saat ini mereka bermain di Seconda Categoria.
+
+{{italia-sb-stub}}
+
+[[Kategori:Tim sepak bola Italia|SandonJesolo]]

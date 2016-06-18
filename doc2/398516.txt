@@ -1,0 +1,65 @@
+Stasiun Kandangan
+{{infobox stasiun
+|image=IMG-20150228-01579.jpg
+|caption=Peron Stasiun Kandangan di sore hari.
+|name=Kandangan
+|prov=Jawa Timur
+|kota=Surabaya
+|kecamatan kota=Tandes
+|kelurahan kota=Banjarsugihan
+|kode=KDA
+|tinggi=+2 m
+|line=[[Kereta api Surabaya-Lamongan|Komuter Surabaya-Lamongan (SuLam)]] dan [[Kereta api lokal Bojonegoro|KRD Bojonegoro/Lokal Babat]]
+|operator=[[Daerah Operasi VIII Surabaya]]
+|class = III/kecil
+|nomor = 4422
+|letak = * km 220+940 lintas [[Stasiun Gundih|Gundih]]-[[Stasiun Gambringan|Gambringan]]-[[Stasiun Bojonegoro|Bojonegoro]]-[[Stasiun Surabaya Pasarturi|Surabaya Pasarturi]]
+* km 0+000 lintas '''Kandangan'''-''[[Stasiun Gresik|Gresik]]''}}
+'''Stasiun Kandangan (KDA)''' adalah [[stasiun kereta api]] kelas III/kecil yang terletak di [[Banjarsugihan, Tandes, Surabaya]]. Stasiun yang terletak pada ketinggian +2 m ini termasuk dalam [[Daerah Operasi VIII Surabaya]]. Stasiun ini memiliki lima jalur kereta api dengan jalur 2 dan 3 sebagai sepur lurus. Pada jalur 5 terdapat rangkaian [[gerbong barang]] yang sudah tidak dipakai lagi. Dari jalur 4 ke arah barat stasiun, terdapat percabangan jalur kereta api menuju [[Gresik]].
+
+Stasiun ini dulunya pernah melayani angkutan [[hewan ternak]] dengan gerbong khusus angkutan hewan ternak ('''VR''' atau '''VVW'''), namun sekarang pelayanan tersebut terhenti disebabkan oleh [[Krisis 1997]]. Terdapat jalur khusus hewan ternak menuju Karantina Hewan Banjarsugihan yang terletak tepat di sebelah selatan stasiun, namun sudah tidak digunakan lagi semenjak layanan angkutan hewan ternak di stasiun tersebut terhenti.
+
+== Layanan kereta api ==
+=== Kelas ekonomi AC ===
+* [[Kereta api lokal Bojonegoro|KRD Bojonegoro/Lokal Babat]], tujuan [[Stasiun Surabaya Pasarturi|Surabaya]] bersambung [[Stasiun Sidoarjo|Sidoarjo]] dan tujuan [[Stasiun Bojonegoro|Bojonegoro]]
+
+=== Komuter ekonomi ===
+* [[Kereta api Surabaya-Lamongan|Komuter Surabaya-Lamongan (SuLam)]], tujuan [[Stasiun Surabaya Pasarturi|Surabaya]] dan tujuan [[Stasiun Lamongan|Lamongan]]
+
+== Jadwal kereta api ==
+Berikut ini adalah jadwal kereta api di Stasiun Kandangan '''per 1 April 2015 (berdasarkan Gapeka 2015).'''
+{| class="wikitable sortable"
+|-
+! No. KA !! KA !! Tujuan !! Kelas !! Tiba !! Berangkat
+|-
+| 301 || rowspan=2|[[Kereta api Surabaya-Lamongan|Komuter Surabaya-Lamongan (SuLam]]) || [[Stasiun Lamongan|Lamongan (LMG)]] || rowspan=2|Ekonomi || 04.36 || 04.38
+|-
+| 302 || [[Stasiun Surabaya Pasarturi|Surabaya Pasarturi (SBI)]] || 07.01 || 07.03
+|-
+| 472/473 || rowspan=2|[[Kereta api lokal Bojonegoro|KRD Bojonegoro/Lokal Babat]] || [[Stasiun Bojonegoro|Bojonegoro (BJ)]] || rowspan=2|Ekonomi AC || 10.41 || 10.43
+|-
+| 474/475 || [[Stasiun Surabaya Pasarturi|Surabaya Pasarturi (SBI)]] bersambung [[Stasiun Sidoarjo|Sidoarjo (SDA)]] || 15.27 || 15.29
+|-
+| 303 || rowspan=2|[[Kereta api Surabaya-Lamongan|Komuter Surabaya-Lamongan (SuLam]]) || [[Stasiun Lamongan|Lamongan (LMG)]] || rowspan=2|Ekonomi || 17.16 || 17.18
+|-
+| 304 || [[Stasiun Surabaya Pasarturi|Surabaya Pasarturi (SBI)]] || 19.31 || 19.33
+|}
+
+== Pranala luar ==
+{{id}} [https://tiket.kereta-api.co.id/ Jadwal dan Tarif KA milik PT Kereta Api Indonesia]
+
+== Galeri ==
+<gallery>
+Berkas:Stasiun Kandangan 1101.JPG|Stasiun Kandangan.
+Berkas:Stasiun Kandangan 1102.JPG|Percabangan jalur kereta api di sebelah barat Stasiun Kandangan, jalur yang kiri menuju [[Semarang]], dan yang kanan menuju [[Gresik]].
+Berkas:Stasiun_Kandangan_1103.JPG|Jalur khusus hewan ternak dari yang menghubungkan Stasiun Kandangan dengan Karantina Hewan Banjarsugihan yang sudah tidak digunakan lagi.
+</gallery> 
+
+{{Stasiun|Stasiun Benowo|Jalur kereta api Gambringan-Kandangan|-}}
+{{Stasiun|-|Jalur kereta api Kandangan-Surabaya Pasarturi|Stasiun Tandes}}
+{{Stasiun|-|Jalur kereta api Kandangan-Gresik|Stasiun Indro}}
+{{stasiun-stub}}
+{{coord|-07.2511778|112.6582583|display=title}}
+
+[[Kategori:Stasiun kereta api di Jawa Timur|Kandangan]]
+[[Kategori:Tandes, Surabaya]]

@@ -1,0 +1,60 @@
+Spektrum tersebar
+'''Spektrum tersebar''' ([[Bahasa Inggris]]: ''spread spectrum'') adalah sebuah metode komunikasi dimana semua sinyal komunikasi disebar di seluruh spektrum [[frekuensi]] yang tersedia. Lebarnya pita frekuensi yang digunakan, tergantung kepada teknolgi yang digunakan.
+
+== Latar Belakang ==
+
+[[Berkas:GSM_TDMA.jpg|frame|'''Gambar 1:''' GSM menggunakan ''timeslot'' dan ''frequency slot'']]
+
+Metode spektrum tersebar pada awalnya digunakan untuk kepentingan militer yang sangat peduli dengan aspek keamanan. Dengan menggunakan metode ini, penggunaan frekuensi memang kurang efisien, namun menjadi sulit untuk dicuri-dengar (''sniff''). Hal ini berbeda dengan dua teknologi sebelumnya yaitu, GSM (''Global System for Mobile communication'') dan AMPS (''Analog Mobile Telephone System''), yang menggunakan ''timeslot'' dan/atau ''frequency slot'' ('''Gambar 1''').
+
+== Sekilas Teknologi Spektrum Tersebar ==
+
+[[Berkas:CDMA_Spread_Spectrum.jpg|frame|left|'''Gambar 2:''' GSM menggunakan ''timeslot'' dan ''frequency slot'']]
+
+Teknologi komunikasi [[3G|Generasi Ketiga (3G)]] dan [[4G|Generasi Keempat (4G)]] dan seterusnya, menggunakan metode spektrum tersebar. Pada saat ini ada dua cabang teknologi spektrum tersebar di dalam 3G, yaitu: Wideband CDMA ([[W-CDMA]]) dan [[CDMA]] 2000 1xEV-DO (CDMA: Code Division Multiple Access, EV-DO: EVolution Data Optimized). W-CDMA (atau dikenal juga dengan UMTS - Universal Mobile Telephony System) adalah pengembangan dari teknologi GSM yang dipelopori oleh 3G Partnership Project [http://www.3gpp.org] sedangkan CDMA2000 dipelopori oleh 3GPP2 [http://www.3gpp2.org].
+
+Dalam W-CDMA digunakan spektrum sebesar 5Mhz untuk satu kanal frekuensi pembawa (''frequency carrier''), sedangkan pada CDMA 2000 digunakan pita selebar 1,25 Mhz (Lihat '''Gambar 2'''). CDMA2000 1xRTT berarti teknologi tersebut menggunakan satu buah kanal selebar 1,25 Mhz dan CDMA2000 3xRTT berarti menggunakan tiga kanal dengan lebar masing-masing sebesar 1,25 Mhz. Sedangkan RTT adalah singkatan dari Radio Transmission Technology. Kedua teknologi (W-CDMA dan CDMA) tidak saling kompatibel, yang berarti pengguna W-CDMA tidak bisa mendapatkan layanan di CDMA. Bahkan dalam implementasi praktisnya, kedua teknologi ini sesungguhnya bersaing.
+
+== Keuntungan-keuntungan ==
+=== Faktor Keamanan ===
+Keuntungan pertama penggunaan spektrum tersebar, terutama dibandingkan dengan metode TDMA pada GSM adalah kemampuannya untuk kebal ''jamming'', sehingga sangat sulit untuk dicuri-dengar oleh orang lain. Dan bila pun pada tingkat frekuensi radio bisa dilakukan ''jamming'', komunikasi yang terjadi tetap tidak bisa diketahui karena sinyal sudah 'terenkripsi' pada saat terjadinya pengkodean. ''Jamming'' dapat dilakukan bila kita mengetahui ''timeslot'' dan/atau ''frequency slot'' pada saat terbentuknya sebuah komunikasi.
+
+[[Berkas:WC-PN.jpg|frame|'''Gambar 3:''' Hubungan antara ''forward'' Kode dari BTS dan ''reverse'' PN dari MS]]
+
+=== Efisiensi Manajemen Frekuensi ===
+
+Keuntungan kedua dari teknologi spektrum tersebar adalah penggunaan frekuensi yang sama. Dengan metode ini, dalam satu buah sel (yang biasanya terdiri atas 3 sektor) tidak perlu melakukan manajemen frekuensi dan dapat menggunakan frekuensi yang sama. Sebagai kebalikannya, pada teknologi GSM, setiap sektor di dalam sebuah sel harus menggunakan frekuensi yang berbeda. Sebuah BTS (Base Transciever Station) membentuk sebuah sel dimana di dalam sel tsb ada 3 (tiga) sektor yang dikenal sebagai sektor alpha (), sektor beta () dan sektor gamma (). Dalam setiap sektor tersedia ratusan ''communication resource'' yang disebut Kode. W-CDMA menggunakan Orthogonal Vector Spreading Factor (OVSF) sedangkan CDMA 2000 menggunakan [[Walsh]] Code sebagai metode pengkodean. 
+
+[[Berkas:PN_Offset.jpg|frame|left|'''Gambar 4:''' Sebuah ''mobile station'' dilayani oleh sektor PN=292]]
+
+Dalam metode spektrum tersebar, setiap sektor dibedakan dengan Pseudorandom Number (PN), biasa dikenal dengan PN Offset (Lihat '''Gambar 3'''). Sebuah ''mobile station'' (MS) yaitu terminal yang digunakan oleh pelanggan (dapat berupa perangkat genggam atau pun perangkat berbasis PCMCIA yang digunakan untuk ''notebook''), akan melakukan perhitungan matematis yang disebut [[konvolusi]] untuk bisa mencari MS dengan nilai terbaik. Secara teoritis, nilai konvolusi antara sebuah sektor dengan MS adalah 1 (satu). Namun tentu saja, secara praktikal tidak demikian. Dalam praktikalnya, dicari nilai konvolusi yang mendekati 1. Salah satu sifat dari spektrum tersebar adalah sikap 'diskriminatif'. BTS lebih memilih untuk melayani MS yang memiliki nilai konvolusi terbaik dan 'membiarkan' MS lain yang nilai konvolusinya lebih buruk.
+
+=== ''Throughput'' yang Lebih Besar ===
+Sebuah koneksi MS-BTS dalam sebuah sesi, minimal memiliki 1 (satu) buah Kode Fundamental; dan bila MS menginginkan ''throughput'' yang lebih tinggi maka dapat memintan Kode Tambahan melalui SCAM (''Supplemental Code Assignment Message'') ke BTS yang bersangkutan. Penambahan kode ini biasanya bersifat sementara dan sangat cepat waktu penggunannya (skalanya hanya beberapa detik). Pada '''Gambar 4''', terlihat sebuah MS sedang dilayani oleh sektor PN=292 dan mendapat 4 (empat) buah Walsh Code sebagai kanal komunikasi. CDMA2000 memberikan kecepatan akses sebesar 153 Kbps, sehingga dikategorikan teknologi 2,5G.
+
+Dalam sebuah sektor terdapat ratusan Kode sebagai sumber daya (''resource'') komunikasi yang bisa digunakan. Satu kode merepresentasikan satu kanal sebesar 9,6 Kbps, namun ''setting'' ini pun tergantung kepada operator. Bila pada suatu ketika, sebuah MS membutuhkan ''throughput'' yang lebih besar (misal, saat ''browsing''), maka MS akan meminta tambahan kode ke BTS dan ''throughput'' meningkat. Bila tidak dibutuhkan lagi, tambahan kode ini akan 'dilepas' dan dapat digunakan untuk pelanggan lain.
+
+== Masalah-masalah Dalam Spektrum Tersebar ==
+Masalah-masalah yang biasa timbul sebagai konsekuensi dari implementasi teknologi ini adalah:
+# Pengkerutan sel (''cell breathing'').
+# Polusi sinyal pilot (''pilot pollution'').
+Untuk mengatasi masalah ini, operator harus melakukan optimasi secara reguler.
+
+== Operator Berbasis Spektrum Tersebar (3G) di Indonesia ==
+Di [[Indonesia]] pada saat ini, operator yang menggunakan W-CDMA adalah:
+* [http://www.telkomsel.com/web/tsel_3g Telkomsel].
+* [http://www.xl.co.id/3gExcelcomindo Excelcomindo].
+* [http://www.indosat.com/pr_content.asp?id=492&mid=158 Indosat GSM].
+* Cyber Access Communication (Sudah beroperasi dengan nama PT. HCPT nama komersil 3).
+* Natrindo (operasional terbatas).
+
+Sedangkan operator berbasis CDMA 2000 adalah:
+* [http://www.telkomflexi.com TelkomFlexi].
+* [http://www.esia.co.id Esia].
+* [http://www.mobile-8.com Mobile8].
+* [http://www.mystarone.com Indosat StarOne].
+* Sampoerna Telekomunikasi (Ceria), dulu: Mandara Seluler.
+* Wireless Indonesia Network (merger dengan primasel).
+* Primasel (belum beroperasi).
+
+[[Kategori:Radio]]

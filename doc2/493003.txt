@@ -1,0 +1,19 @@
+Templat:TampilanVideo
+{{imbox
+| type       = license
+| class      = licensetpl
+| image      = [[Berkas:NotCommons-emblem-copyrighted.svg|50px|Berhak cipta]]
+| text       = <span class="licensetpl_long">''Gambar ini adalah gambar '''cuplikan video''', dan '''hak cipta''' cuplikan dipegang baik oleh '''studio video''' yang bersangkutan ataupun '''aktor''' yang tampil di cuplikan tersebut.</span> Penggunaan cuplikan dengan '''resolusi rendah''' ini diyakini
+*'''Untuk mengilustrasikan video yang bersangkutan'''
+*untuk dimuat di [[Wikipedia]] bahasa Indonesia, yang dilayani oleh server-server milik yayasan nirlaba [http://wikimediafoundation.org/wiki/Halaman_Utama Yayasan Wikimedia] yang berbasis di Amerika Serikat,
+cukup memenuhi [[Wikipedia:Penggunaan wajar|syarat penggunaan wajar]] di bawah Undang-Undang hak cipta Amerika Serikat.{{br}}
+'''Penggunaan lainnya oleh gambar ini, di Wikipedia atau tempat lain, dapat melanggar hak cipta.'''{{br}}
+'''Untuk pemuat berkas''': harap tambahkan detil informasi gambar seperti sumber dan informasi hak cipta.
+<span class="licensetpl_short" style="display: none">Fair use</span>
+<span class="licensetpl_link" style="display: none">{{fullurl:{{FULLPAGENAME}}}}</span>
+|below={{#ifeq:{{{image_has_rationale|{{{image has rationale}}}}}}|yes|}}
+}}{{#if:{{{kat|}}}||<includeonly>[[Kategori:Cuplikan video|{{PAGENAME}}]]</includeonly>}}<noinclude>
+
+*Kategori yang ditambahkan: {{kt|Cuplikan video}}
+[[Kategori:Templat lisensi fairuse|{{PAGENAME}}]]
+</noinclude>

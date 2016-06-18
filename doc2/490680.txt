@@ -1,0 +1,118 @@
+Templat:Pelatih West Bromwich Albion F.C.
+{{Football manager history
+| listclass = hlist
+| name =Pelatih West Bromwich Albion F.C.
+|teamname=West Bromwich Albion F.C.
+|bgcolor=#000080
+|textcolor=#ffffff
+|bordercolor=#ffffff
+|list =<div>
+{{Football manager list entry| listclass = hlist
+| name =[[Louis Ford|Ford]]|from=1890|to=92}}
+{{Football manager list entry| listclass = hlist
+| name =[[Henry Jackson (pelatih sepak bola)|Jackson]]|from=1892|to=94}}
+{{Football manager list entry| listclass = hlist
+| name =[[Edward Stephenson (pemain sepak bola)|Stephenson]]|from=1894|to=95}}
+{{Football manager list entry| listclass = hlist
+| name =[[Clement Keys|Keys]]|from=1895|to=96}}
+{{Football manager list entry| listclass = hlist
+| name =[[Frank Heaven|Heaven]]|from=1896|to=1902}}
+{{Football manager list entry| listclass = hlist
+| name =[[Fred Everiss|Everiss]]|from=1902|to=48}}
+{{Football manager list entry| listclass = hlist
+| name =[[Jack Smith (pemain sepak bola kelahiran 1911)|J.&nbsp;Smith]]|from=1948|to=52}}
+{{Football manager list entry| listclass = hlist
+| name =[[Jesse Carver|Carver]]|from=1952|to=53}}
+{{Football manager list entry| listclass = hlist
+| name =[[Vic Buckingham|Buckingham]]|from=1953|to=59}}
+{{Football manager list entry| listclass = hlist
+| name =[[Gordon Clark (pemain sepak bola)|Clark]]|from=1959|to=61}}
+{{Football manager list entry| listclass = hlist
+| name =[[Archie Macaulay|Macaulay]]|from=1961|to=63}}
+{{Football manager list entry| listclass = hlist
+| name =[[Jimmy Hagan|Hagan]]|from=1963|to=67}}
+{{Football manager list entry| listclass = hlist
+| name =[[Alan Ashman|Ashman]]|from=1967|to=71}}
+{{Football manager list entry| listclass = hlist
+| name =[[Don Howe|Howe]]|from=1971|to=75}}
+{{Football manager list entry| listclass = hlist
+| name =[[Brian Whitehouse|Whitehouse]]|from=1975|to=}}
+{{Football manager list entry| listclass = hlist
+| name =[[Johnny Giles|Giles]]|from=1975|to=77}}
+{{Football manager list entry| listclass = hlist
+| name =[[Ronnie Allen|Allen]]|from=1977|to=}}
+{{Football manager list entry| listclass = hlist
+| name =[[John Wile|Wile]]|from=1977|to=78}}
+{{Football manager list entry| listclass = hlist
+| name =[[Ron Atkinson|Atkinson]]|from=1978|to=81}}
+{{Football manager list entry| listclass = hlist
+| name =[[Ronnie Allen|Allen]]|from=1981|to=82}}
+{{Football manager list entry| listclass = hlist
+| name =[[Ron Wylie|Wylie]]|from=1982|to=84}}
+{{Football manager list entry| listclass = hlist
+| name =[[Johnny Giles|Giles]]|from=1984|to=85}}
+{{Football manager list entry| listclass = hlist
+| name =[[Nobby Stiles|Stiles]]|from=1985|to=86}}
+{{Football manager list entry| listclass = hlist
+| name =[[Ron Saunders|Saunders]]|from=1986|to=87}}
+{{Football manager list entry| listclass = hlist
+| name =[[Ron Atkinson|Atkinson]]|from=1987|to=88}}
+{{Football manager list entry| listclass = hlist
+| name =[[Brian Talbot|Talbot]]|from=1988|to=91}}
+{{Football manager list entry| listclass = hlist
+| name =[[Stuart Pearson|S.&nbsp;Pearson]]|from=1991|to=}}
+{{Football manager list entry| listclass = hlist
+| name =[[Bobby Gould|Gould]]|from=1991|to=92}}
+{{Football manager list entry| listclass = hlist
+| name =[[Osvaldo Ardiles|Ardiles]]|from=1992|to=93}}
+{{Football manager list entry| listclass = hlist
+| name =[[Keith Burkinshaw|Burkinshaw]]|from=1993|to=94}}
+{{Football manager list entry| listclass = hlist
+| name =[[Alan Buckley|Buckley]]|from=1994|to=97}}
+{{Football manager list entry| listclass = hlist
+| name =[[Arthur Mann|Mann]]|from=1997|to=}}
+{{Football manager list entry| listclass = hlist
+| name =[[Ray Harford|Harford]]|from=1997|to=}}
+{{Football manager list entry| listclass = hlist
+| name =[[Richie Barker (pemain sepak bola kelahiran 1939) |Barker]]|from=1997|to=}}
+{{Football manager list entry| listclass = hlist
+| name =[[John Trewick|Trewick]]|from=1997|to=}}
+{{Football manager list entry| listclass = hlist
+| name =[[Denis Smith|D.&nbsp;Smith]]|from=1997|to=99}}
+{{Football manager list entry| listclass = hlist
+| name =[[John Gorman (pemain sepak bola)|Gorman]] & [[Cyrille Regis|Regis]]|from=1999|to=}}
+{{Football manager list entry| listclass = hlist
+| name =[[Brian Little (pemain sepak bola)|Little]]|from=1999|to=2000}}
+{{Football manager list entry| listclass = hlist
+| name =[[Allan Evans (pemain sepak bola)|Evans]] & [[Cyrille Regis|Regis]]|from=2000|to=}}
+{{Football manager list entry| listclass = hlist
+| name =[[Gary Megson|Megson]]|from=2000|to=04}}
+{{Football manager list entry| listclass = hlist
+| name =[[Frank Burrows|Burrows]]|from=2004|to=}}
+{{Football manager list entry| listclass = hlist
+| name =[[Bryan Robson|Robson]]|from=2004|to=06}}
+{{Football manager list entry| listclass = hlist
+| name =[[Nigel Pearson|N.&nbsp;Pearson]]|from=2006|to=}}
+{{Football manager list entry| listclass = hlist
+| name =[[Craig Shakespeare|Shakespeare]]|from=2006|to=}}
+{{Football manager list entry| listclass = hlist
+| name =[[Tony Mowbray|Mowbray]]|from=2006|to=09}}
+{{Football manager list entry| listclass = hlist
+| name =[[Roberto Di Matteo|Di Matteo]]|from=2009|to=11}}
+{{Football manager list entry| listclass = hlist
+| name =[[Michael Appleton|Appleton]]|from=2011|to=}}
+{{Football manager list entry| listclass = hlist
+| name =[[Roy Hodgson|Hodgson]]|from=2011|to=12}}
+{{Football manager list entry| listclass = hlist
+| name =[[Steve Clarke|Clarke]]|from=2012|to=13}}
+{{Football manager list entry| listclass = hlist
+| name =[[Keith Downing|Downing]]|from=2013|to=14}}
+{{Football manager list entry| listclass = hlist
+| name =[[Pepe Mel|Mel]]|from=2014}}
+{{Football manager last| listclass = hlist
+| name =[[Alan Irvine|Irvine]]|from=2014|to=}}
+</div>
+}}
+<noinclude>
+[[Category:Templat West Bromwich Albion F.C.|Pelatih]]
+</noinclude>

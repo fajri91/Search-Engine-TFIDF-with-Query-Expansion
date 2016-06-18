@@ -1,0 +1,10 @@
+Cydia
+'''Cydia''' {{IPAc-en|s|||d|i|.|}} adalah perangkat lunak aplikasi [[iOS]] yang memungkinkan pengguna untuk menemukan dan menginstal paket perangkat lunak di perangkat iOS yang telah [[Jailbreaking di iOS|dijailbreak]] [[iOS]] seperti [[iPhone]], [[iPod Touch]], dan [[iPad]]. Hal ini juga mengacu pada platform [[distribusi digital]] untuk perangkat lunak pada iOS yang diakses melalui perangkat lunak Cydia<ref>{{cite web |url=http://gizmodo.com/5635633/largest-jailbreak-app-stores-become-one-after-cydia-acquires-rock |title= Largest iOS Jailbreak App Stores Become One After Cydia Acquires Rock |author= Jack Loftus |date= September 11, 2010 |work= |publisher= Gizmodo |accessdate=August 2, 2011}}</ref> Sebagian besar paket perangkat lunak yang tersedia melalui Cydia gratis, tetapi beberapa paket perangkat lunak memerlukan pembelian.
+
+==Referensi==
+{{reflist}}
+
+{{platform distribusi digital}}
+{{stub}}
+
+[[Kategori:IOS]]

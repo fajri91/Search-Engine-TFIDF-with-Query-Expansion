@@ -1,0 +1,39 @@
+Templat:Royal Brunei Airlines
+{{Navbox
+| name      = Royal Brunei Airlines
+| title     = [[Royal Brunei Airlines]]
+| state        = {{{state|autocollapse}}}
+| bodyclass = hlist
+| image     = [[Image:Royal Brunei Airlines A319-100 V8-RBP SIN 2011-2-12.png|100px|border|Royal Brunei A319-100]]
+
+| group1 = Tentang
+| list1  =
+{{Navbox|subgroup
+  | group1 = Perusahaan
+  | list1  =
+* [[Bandar Udara Internasional Brunei]]
+* [[Royal Brunei Plaza]]
+* [[Royal Brunei Recreation Club]]
+
+  | group2 = Rute
+  | list2  =
+* [[Daftar kota tujuan Royal Brunei Airlines|Kota tujuan]]
+
+  | group3 = [[Perusahaan anak Royal Brunei Airlines|Perusahaan anak]]
+  | list3  =
+* [[Borneo Airways]] (tidak beroperasi)
+* [[Mulaut Abattoir]]
+* [[Royal Brunei Catering]]
+}}
+
+| group2 = Kecelakaan
+| list2  =
+* [[Royal Brunei Airlines Penerbangan 238]]
+
+}}<noinclude>
+{{collapsible option}}
+
+[[Category:Templat maskapai penerbangan]]
+[[Category:Templat Brunei]]
+ [[Category:Royal Brunei Airlines|]]
+</noinclude>

@@ -1,0 +1,10 @@
+Portal:Anime dan Manga/box-header
+{{Portal-Box-header | title={{{1}}}
+|editpage={{{2}}}
+|border=#1E90FF        
+|titleforeground=white    
+|titlebackground=#1E90FF 
+|background=white    
+|foreground=black}}<noinclude>
+[[Kategori:Portal:Anime dan Manga]]
+</noinclude>

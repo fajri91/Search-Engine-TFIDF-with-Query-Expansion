@@ -1,0 +1,304 @@
+Templat:PaliCanon
+<table style="vertical-align:bottom; text-align:center; font-size:75%; margin:0px 0px 15px 15px; float:right" cellspacing="0" cellpadding="1">
+
+<!-- HEADER -->
+<tr>
+<td colspan=5 style="background:Goldenrod;border:2px solid Sienna">
+<font size=5>'''[[Kanon Pali|Kanon Pli]]'''
+
+<!-- VINAYA PITAKA -->
+<tr><!-- top shelf -->
+<td style="background:Ivory">&nbsp;
+<td style="background:Goldenrod; border-left:2px solid Sienna">&nbsp;
+<td style="background:Goldenrod; border-bottom:2px solid Sienna; text-align:left"><font size=3>[[Vinaya Pitaka]]</font>
+<td style="background:Goldenrod; border-right:2px solid Sienna">&nbsp;
+<td style="background:Ivory">&nbsp;
+
+<tr><!-- Vinaya bookshelf -->
+<td style="background:Ivory">&nbsp;
+<td style="background:Goldenrod; border-left:2px solid Sienna; border-right:2px solid Sienna">&nbsp;
+
+<!--VINAYA VOLUMES (embedded table)-->
+<td style="background:black"><table style="width:100%; vertical-align:bottom; text-align:center" cellspacing=0 cellpadding=0>
+
+<tr><!-- Vinaya book tops -->
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;&nbsp;&nbsp;&nbsp;
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;&nbsp;&nbsp;&nbsp;
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;&nbsp;&nbsp;&nbsp;
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;&nbsp;&nbsp;&nbsp;
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;&nbsp;&nbsp;&nbsp;
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;&nbsp;&nbsp;&nbsp;
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;&nbsp;&nbsp;&nbsp;
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;&nbsp;&nbsp;&nbsp;
+
+<tr><!-- Vinaya book labels -->
+<td colspan=3 style="background:Gold; border-left:1px solid black; border-right:1px solid black">[[Suttavibhanga|{{#if:{{{abbrev|}}}|SV.|Sutta-<br>vibhanga}}]]
+<td colspan=4 style="background:Gold; border-left:1px solid black; border-right:1px solid black">[[Khandhaka]]
+<td colspan=1 style="background:Gold; border-left:1px solid black; border-right:1px solid black">[[Parivara|{{#if:{{{abbrev|}}}|Vin V|Pari-<br>vara}}]]
+
+<tr><!-- Vinaya book bottoms -->
+<td colspan=1 style="background:MediumBlue; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;
+<td colspan=1 style="background:MediumBlue; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;
+<td colspan=1 style="background:MediumBlue; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;
+<td colspan=1 style="background:MediumBlue; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;
+<td colspan=1 style="background:MediumBlue; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;
+<td colspan=1 style="background:MediumBlue; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;
+<td colspan=1 style="background:MediumBlue; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;
+<td colspan=1 style="background:MediumBlue; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;
+
+</table><!--end VINAYA BOOKS (embedded table)--></td>
+
+<td style="background:Goldenrod; border-left:2px solid Sienna; border-right:2px solid Sienna">&nbsp;
+<td style="background:Ivory">&nbsp;
+
+<!-- SUTTA PITAKA -->
+<tr><!-- top shelf -->
+<td style="background:Ivory">&nbsp;
+<td style="background:Goldenrod; border-left:2px solid Sienna">&nbsp;
+<td style="background:Goldenrod; border-top:2px solid Sienna; border-bottom:2px solid Sienna; text-align:left"><font size=3>[[Sutta Pitaka]]</font>
+<td style="background:Goldenrod; border-right:2px solid Sienna">&nbsp;
+<td style="background:Ivory">&nbsp;
+
+<tr><!--first row of Suttapitaka books-->
+<td style="background:Ivory">&nbsp;
+<td style="background:Goldenrod; border-left:2px solid Sienna; border-right:2px solid Sienna">&nbsp;
+
+<!--SUTTAPITAKA VOLUMES: DN, MN & SN (embedded table)-->
+<td style="background:black"><table style="width:100%; vertical-align:bottom; text-align:center" cellspacing=0 cellpadding=0>
+
+<tr><!--first row of Suttapitaka book tops-->
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;{{#if:{{{abbrev|}}}||&nbsp;&nbsp;&nbsp;}}
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;{{#if:{{{abbrev|}}}||&nbsp;&nbsp;&nbsp;}}
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;{{#if:{{{abbrev|}}}||&nbsp;&nbsp;&nbsp;}}
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;{{#if:{{{abbrev|}}}||&nbsp;&nbsp;&nbsp;}}
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;{{#if:{{{abbrev|}}}||&nbsp;&nbsp;&nbsp;}}
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;{{#if:{{{abbrev|}}}||&nbsp;&nbsp;&nbsp;}}
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;{{#if:{{{abbrev|}}}||&nbsp;&nbsp;&nbsp;}}
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;{{#if:{{{abbrev|}}}||&nbsp;&nbsp;&nbsp;}}
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;{{#if:{{{abbrev|}}}||&nbsp;&nbsp;&nbsp;}}
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;{{#if:{{{abbrev|}}}||&nbsp;&nbsp;&nbsp;}}
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;{{#if:{{{abbrev|}}}||&nbsp;&nbsp;&nbsp;}}
+{{#if:{{{abbrev|}}}|
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;
+|</tr>}}
+
+<tr><!-- first row of Suttapitaka book labels -->
+<td colspan=3 style="background:Gold; border-left:1px solid black; border-right:1px solid black">[[Digha Nikaya|{{#if:{{{abbrev|}}}|DN|Digha<br>Nikaya}}]]
+<td colspan=3 style="background:Gold; border-left:1px solid black; border-right:1px solid black">[[Majjhima Nikaya|{{#if:{{{abbrev|}}}|MN|Majjhima<br>Nikaya}}]]
+<td colspan=5 style="background:Gold; border-left:1px solid black; border-right:1px solid black">[[Samyutta Nikaya|{{#if:{{{abbrev|}}}|SN|Samyutta<br>Nikaya}}]]
+{{#if:{{{abbrev|}}}| |
+<tr><!--first row of Suttapitaka book bottoms-->
+<td colspan=1 style="background:MediumBlue; border-left:1px solid black; border-right:1px solid black; border-bottom:3px solid Goldenrod">&nbsp;
+<td colspan=1 style="background:MediumBlue; border-left:1px solid black; border-right:1px solid black; border-bottom:3px solid Goldenrod">&nbsp;
+<td colspan=1 style="background:MediumBlue; border-left:1px solid black; border-right:1px solid black; border-bottom:3px solid Goldenrod">&nbsp;
+<td colspan=1 style="background:MediumBlue; border-left:1px solid black; border-right:1px solid black; border-bottom:3px solid Goldenrod">&nbsp;
+<td colspan=1 style="background:MediumBlue; border-left:1px solid black; border-right:1px solid black; border-bottom:3px solid Goldenrod">&nbsp;
+<td colspan=1 style="background:MediumBlue; border-left:1px solid black; border-right:1px solid black; border-bottom:3px solid Goldenrod">&nbsp;
+<td colspan=1 style="background:MediumBlue; border-left:1px solid black; border-right:1px solid black; border-bottom:3px solid Goldenrod">&nbsp;
+<td colspan=1 style="background:MediumBlue; border-left:1px solid black; border-right:1px solid black; border-bottom:3px solid Goldenrod">&nbsp;
+<td colspan=1 style="background:MediumBlue; border-left:1px solid black; border-right:1px solid black; border-bottom:3px solid Goldenrod">&nbsp;
+<td colspan=1 style="background:MediumBlue; border-left:1px solid black; border-right:1px solid black; border-bottom:3px solid Goldenrod">&nbsp;
+<td colspan=1 style="background:MediumBlue; border-left:1px solid black; border-right:1px solid black; border-bottom:3px solid Goldenrod">&nbsp;
+
+</table><!--end SUTTAPITAKA BOOKS: DN, MN & SN (embedded table)--></td>
+
+<td style="background:Goldenrod; border-left:2px solid Sienna; border-right:2px solid Sienna">&nbsp;
+<td style="background:Ivory">&nbsp;
+
+<tr><!--second row of Suttapitaka books' tops-->
+<td style="background:Ivory">&nbsp;
+<td style="background:Goldenrod; border-left:2px solid Sienna; border-right:2px solid Sienna">&nbsp;
+
+<!--SUTTAPITAKA VOLUMES: AN & KN (embedded table)-->
+<td style="background:black"><table style="width:100%; vertical-align:bottom; text-align:center" cellspacing=0 cellpadding=0>
+
+<tr><!-- second row of Suttapitaka book tops-->
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;&nbsp;&nbsp;&nbsp;
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;&nbsp;&nbsp;&nbsp;
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;&nbsp;&nbsp;&nbsp;
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;&nbsp;&nbsp;&nbsp;
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;&nbsp;&nbsp;&nbsp;
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;&nbsp;&nbsp;&nbsp;
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;&nbsp;&nbsp;&nbsp;
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;&nbsp;&nbsp;&nbsp;
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;&nbsp;&nbsp;&nbsp;
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;&nbsp;&nbsp;&nbsp;
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;&nbsp;&nbsp;&nbsp;
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;&nbsp;&nbsp;&nbsp;
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;&nbsp;&nbsp;&nbsp;
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;&nbsp;&nbsp;&nbsp;
+
+<tr><!--second row of Suttapitaka books: labels-->
+}}
+<td colspan=5 style="background:Gold; border-left:1px solid black; border-right:1px solid black">[[Anguttara Nikaya|{{#if:{{{abbrev|}}}|AN|Anguttara<br>Nikaya}}]]
+<td colspan=9 style="background:Gold; border-left:1px solid black; border-right:1px solid black">[[Khuddaka Nikaya|{{#if:{{{abbrev|}}}|KN|Khuddaka<br>Nikaya}}]]
+
+<tr><!-- second row of Suttapitaka book bottoms -->
+<td colspan=1 style="background:MediumBlue; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;
+<td colspan=1 style="background:MediumBlue; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;
+<td colspan=1 style="background:MediumBlue; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;
+<td colspan=1 style="background:MediumBlue; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;
+<td colspan=1 style="background:MediumBlue; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;
+<td colspan=1 style="background:MediumBlue; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;
+<td colspan=1 style="background:MediumBlue; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;
+<td colspan=1 style="background:MediumBlue; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;
+<td colspan=1 style="background:MediumBlue; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;
+<td colspan=1 style="background:MediumBlue; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;
+<td colspan=1 style="background:MediumBlue; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;
+<td colspan=1 style="background:MediumBlue; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;
+<td colspan=1 style="background:MediumBlue; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;
+<td colspan=1 style="background:MediumBlue; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;
+{{#if:{{{abbrev|}}}|
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;
+|</tr>}}
+
+</table><!--end SUTTAPITAKA BOOKS: AN & KN (embedded table)--></td>
+
+<td style="background:Goldenrod; border-left:2px solid Sienna; border-right:2px solid Sienna">&nbsp;
+<td style="background:Ivory">&nbsp;
+
+<!-- ABHIDHAMMA PITAKA -->
+<tr><!-- top Abhidhammapitaka shelf -->
+<td style="background:Ivory">&nbsp;
+<td style="background:Goldenrod; border-left:2px solid Sienna">&nbsp;
+<td style="background:Goldenrod; border-top:2px solid Sienna; border-bottom:2px solid Sienna; text-align:left"><font size=3>[[Abhidhamma Pitaka]]</font>
+<td style="background:Goldenrod; border-right:2px solid Sienna">&nbsp;
+<td style="background:Ivory">&nbsp;
+
+<tr><!--first row of Abhidhammapitaka books-->
+<td style="background:Ivory">&nbsp;
+<td style="background:Goldenrod; border-left:2px solid Sienna; border-right:2px solid Sienna">&nbsp;
+
+<!--ABHIDHAMMA VOLUMES (embedded table)-->
+<td style="background:black"><table style="width:100%; vertical-align:bottom; text-align:center" cellspacing=0 cellpadding=0>
+
+<tr><!--Abhidhammapitaka book tops-->
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;&nbsp;&nbsp;&nbsp;
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;&nbsp;&nbsp;&nbsp;
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;&nbsp;&nbsp;&nbsp;
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;&nbsp;&nbsp;&nbsp;
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;&nbsp;&nbsp;&nbsp;
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;&nbsp;&nbsp;&nbsp;
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;&nbsp;&nbsp;&nbsp;
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;&nbsp;&nbsp;&nbsp;
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;&nbsp;&nbsp;&nbsp;
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;&nbsp;&nbsp;&nbsp;
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;&nbsp;&nbsp;&nbsp;
+<td colspan=1 style="background:MediumBlue; border-top:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;&nbsp;&nbsp;&nbsp;
+
+<tr><!--Abhidhammapitaka books' labels-->
+<td colspan=1 style="background:Gold; border-left:1px solid black; border-right:1px solid black">[[Dhammasangani|Dhs.]]
+<td colspan=1 style="background:Gold; border-left:1px solid black; border-right:1px solid black">[[Vibhanga|Vbh.]]
+<td colspan=1 style="background:Gold; border-left:1px solid black; border-right:1px solid black">[[Dhatukatha|Dhk.]]<br>[[Puggalapannatti|Pug.]]
+<td colspan=1 style="background:Gold; border-left:1px solid black; border-right:1px solid black">[[Kathavatthu|Kvu.]]
+<td colspan=2 style="background:Gold; border-left:1px solid black; border-right:1px solid black">[[Yamaka|{{#if:{{{abbrev|}}}|Yam.|Yamaka}}]]
+<td colspan=6 style="background:Gold; border-left:1px solid black; border-right:1px solid black">[[Patthana]]
+
+<tr><!--Abhidhammapitaka book bottoms-->
+<td colspan=1 style="background:MediumBlue; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;
+<td colspan=1 style="background:MediumBlue; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;
+<td colspan=1 style="background:MediumBlue; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;
+<td colspan=1 style="background:MediumBlue; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;
+<td colspan=1 style="background:MediumBlue; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;
+<td colspan=1 style="background:MediumBlue; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;
+<td colspan=1 style="background:MediumBlue; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;
+<td colspan=1 style="background:MediumBlue; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;
+<td colspan=1 style="background:MediumBlue; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;
+<td colspan=1 style="background:MediumBlue; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;
+<td colspan=1 style="background:MediumBlue; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;
+<td colspan=1 style="background:MediumBlue; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black">&nbsp;
+
+</table><!--end ABHIDHAMMA BOOKS (embedded table)--></td>
+
+<td style="background:Goldenrod; border-left:2px solid Sienna; border-right:2px solid Sienna">&nbsp;
+<td style="background:Ivory">&nbsp;
+
+<!-- FOOTER -->
+{{#if:{{{abbrev|}}}||
+<tr>
+<td style="background:Ivory">&nbsp;
+<td style="background:Goldenrod; border-left:2px solid Sienna">&nbsp;
+<td style="background:Goldenrod; border-top:2px solid Sienna">&nbsp;
+<td style="background:Goldenrod; border-right:2px solid Sienna">&nbsp;
+<td style="background:Ivory">&nbsp;
+}}
+<tr>
+<td colspan=5 style="background:Goldenrod;border:2px solid Sienna">
+{{Tnavbar|PaliCanon|plain=1}}</tr>
+</table><noinclude>{{terjemah}}'''Template:PaliCanon''' lists the major texts of the [[Pali Canon]] in a sidebar.
+
+=== Penggunaan ===
+This template can be invoked as follows:
+:'''<nowiki>{{PaliCanon}}</nowiki>''' &mdash; ''transcludes the template as shown here.''
+:'''<nowiki>{{PaliCanon|abbrev=1}}</nowiki>''' &mdash; ''transcludes this template so that Sutta Pitaka collection titles are  abbreviated and are all on one shelf.''
+
+=== Representation, organization and color scheme ===
+The organization and color scheme of this template is meant to simplistically resemble a bookshelf such as represented in the photograph below to the left.
+[[Image:Tipitaka2.jpg|left|100px]]
+The blue and gold colors of the books are meant to simulate the binding of the Thai edition of the [[Tipitaka]].
+
+A number of Tipitaka collections have multiple volumes.  For instance, the Pali version of the Digha Nikaya is made up of three volumes in the Burmese, Sinhalese, Thai and [[Pali Text Society|PTS]] editions.  While there is a significant degree of overlap in terms of the number of volumes per collection across the various editions, for the sake of this template's concrete representation the number of volumes per collection as represented by the standard Thai edition was chosen. (For more information on the number of volumes that comprise the Thai edition of the Pali canon, see [http://www.mahidol.ac.th/budsir/appendix.htm www.budsir.com's "List of Tipitaka"], retrieved 2007-05-15).
+
+Standard abbreviations used for single-volume Abhidhamma-Pitaka collections are:
+* '''Dhs.''' = Dhammasangani
+* '''Vbh.''' = Vibhanga
+* '''Dhk. | Pug.''' = Dhatukatha & Puggalapannatti (two works, one volume)
+* '''Kvu.''' = Kathavatthu
+
+In addition, when the "abbrev" parameter is set on, then the following abbreviations are used:
+* '''SV.''' = Sutta-vibhanga (of the Vinaya)
+* '''Vin V''' = Parivara (refers to its traditionally being the Vinaya's fifth volume [Roman numeral V])
+* '''DN''' = Digha Nikaya
+* '''MN''' = Majjhima Nikaya
+* '''SN''' = Samyutta Nikaya
+* '''AN''' = Anguttara Nikaya
+* '''KN''' = Khuddaka Nikaya
+* '''Yam.''' = Yamaka
+
+'''Note on volume naming:''' For the sake of representational simplicity, this template designates multi-volume collections by just the name of the '''collection''' itself, such as "Majjhima Nikaya."  However, the actual name of an individual '''volume''' within a collection is traditionally represented in various ways.  Thus, for instance, in Pali-language editions of the Pali Canon, the first individual volume of the Majjhima Nikaya is known as the ''Majjhimanikaya Mulapannasaka'' and can thus be abbreviated as "Ma.Mu." or, in accordance with [[Pali Text Society]] notation, simply "M I" or "M i."  In addition, some volumes within a collection have a widely recognized name that does not reference the collection itself, such as the Khuddaka Nikaya's [[Dhammapada]].  Moreover, some volumes have different names and intra-collection ordering across different editions of the Pali Canon, such as the first book of the Vinaya which is the ''[[Parajika]]'' in the Burmese and Sinhalese editions and the ''Mahavibhanga 1'' in the Thai edition.
+
+=== Sources ===
+
+Wikipedia's [[WP:V#Burden_of_evidence|policy on verifiability]] states:
+:"The burden of evidence lies with the editor who adds or restores material. Material that is '''challenged or likely to be challenged''' needs a reliable source, which should be cited in the article."
+The main article and set of related citations for this template's content is [[Pali Canon]].  Questions about the reliability or accuracy of this template's concepts should be addressed on that article's [[Talk:Pali Canon|talk page]].  Questions about this template's organzation should be addressed on this template's [[Template_talk:PaliCanon|talk page]].  
+
+[[Kategori:Templat Buddhisme|Kanon]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</noinclude>

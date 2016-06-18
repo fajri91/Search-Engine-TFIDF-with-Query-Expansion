@@ -1,0 +1,58 @@
+Wikipedia:Permohonan pendapat/Format isi artikel kabupaten dan kota di Indonesia
+Artikel mengenai pembagian wilayah administrasi merupakan salah satu jenis artikel yang penting dalam sebuah ensiklopedia umum manapun. Bila kita pernah melihat artikel-artikel tentang negara-negara bagian di Encyclopedia Americana atau Encarta, tampak tertata rapi dan konsisten dalam hal isinya. Untuk memperbaiki kualitas/mutu artikel-artikel mengenai Kabupaten dan Kota pada id-Wiki, saya memiliki usulan sbb:
+
+== Infobox ==
+Untuk infobox dati2, bagaimana kalau dirubah:
+* Berisi Lambang Daerah (100px)
+* Berisi Peta 200px, (menunjukkan lokasi kabupaten/kota pada provinsi. Lebih baik diseragamkan pada masing-masing provinsi).
+* Provinsi
+* Ibukota
+* Luas wilayah. Sekaligus dibuat urutan kabupaten/kota terluas pada provinsi.
+* Penduduk (total, kepadatan). Sekaligus dibuat urutan kabupaten/kota dengan jumlah penduduk dan kepadatan tertinggi pada provinsi.
+* Jumlah Kecamatan
+* Jumlah Desa/Kelurahan
+* Bupati/Walikota
+* Kode Telepon
+
+Sedangkan untuk isian berikut sebaiknya dihilangkan:
+* Motto (hanya sebagian kecil kabupaten/kota yang punya motto, itu pun tidak resmi.). 
+* Koordinat ("Kebiasaan buruk" pemerintah kita adalah menyebutkan koordinat suatu wilayah, padahal wilayah tersebut sangat luas. Penyebutan koordinat Ini tidak lazim digunakan di luar negeri, kecuali untuk kota atau tempat yang relatif sempit)
+* Dasar hukum (kayaknya berbau birokratis banget deh). Ntar jadi mirip websitenya Pemda ;)
+* DAU. Karena DAU tidak mencerminkan total jumlah keuangan di daerah dalam APBD. Seharusnya yang dicantumkan adalah APBD.
+
+== Isi Artikel ==
+
+Dengan urutan sebagai berikut:
+
+# Sejarah. Termasuk peristiwa terbaru yang terjadi.
+# '''Pembagian Wilayah Administratif'''. Memuat daftar kecamatan serta peta pembagian wilayah.
+# '''Geografi'''. Memuat relief/bentang alam, sungai, danau/waduk, iklim, serta tata guna lahan
+# '''Penduduk'''. Memuat demografi (jumlah penduduk, kepadatan, struktur sebaran penduduk), etnis dan bahasa, serta agama.
+# Pendidikan. Memuat pula lembaga-lembaga pendidikan di daerah tersebut
+# Komunikasi dan Media Massa. Memuat segala sesuatu tentang telekomunikasi, serta media massa di daerah tersebut (terbitan surat kabar, TV/Radio lokal, dsb)
+# Perekonomian. Memuat sektor-sektor perekonomian dominan di daerah tersebut. Kalau memungkinkan, dibahas menurut sektor-sektor pada PDRB setempat: Pertanian, Perkebunan, Kehutanan, Peternakan dan Perikanan, Perdagangan, Industri Manufaktur, Pertambangan dan Penggalian
+# Transportasi. Memuat transportasi jalan raya, angkutan umum (bis, kereta api, pesawat, kapal, ferry), serta sarana/prasarana yang ada.
+# Pariwisata. Memuat 
+# Tokoh Terkenal
+
+Poin yang tercetak tebal menunjukkan keharusan (''must have'') pada masing-masing kabupaten/kota.
+
+Dengan adanya guideline pada poin-poin tersebut, diharap artikel mengenai kabupaten/kota di id-wiki sedikit lebih konsisten. Kalo bisa, ini bisa dijadikan WikiProject. Ada tanggapan/usulan?
+
+Ref:
+* [[:en:Wikipedia:WikiProject French rgions|French rgions]] 
+* [[:en:Wikipedia:WikiProject UK subdivisions|UK subdivisions]]
+* [[:en:Wikipedia:WikiProject German districts|German districts]]
+
+----
+'''Untuk template {{tl|dati2}}''':
+* Lambang100px dan Peta200px -> ini kan tergantung ukuran asli gambarnya, jadi resizenya juga tergantung nanti.
+* Mengenai "motto", bisa dijadikan hiddenstructure di templatnya jadi bisa optional seperti "ibukota".
+* Koordinat disini kan bukan 1 titik tapi, dari x sampai y LU/LS dan v sampai w BT/BB jadi seluas apapun pasti gak masalah kan?
+* Dasar hukum, bisa dibuatkan hiddenstructure juga jadi optional.
+* DAU. Mungkin nama DAU/APBD bisa dijadikan variabel tersendiri jadi bisa memilih DAU atau APBD, gak semua kabupaten/kota ada infonya kan?
+
+Mengenai isi artikel, ok-ok saja. [[Pengguna:Borgx|<font face="Copperplate Gothic Bold" color="#1F85FF">borgx</font>]] <sup>([[Pembicaraan Pengguna:Borgx|<font color="#003366">kirim pesan</font>]])</sup> 13:41, 21 Januari 2006 (UTC)
+
+:APBD apa perlu? itu kan setiap tahun berubah. [[Pengguna:Hariadhi|Hariadhi]] 11:11, 6 Maret 2006 (UTC)
+::Demikian juga yang lainnya seperti penduduk dan bupati/walikota tapi tetap dimasukkan karena itulah gunanya informasi. Kalau informasi gak diupdate kan sia-sia. [[Pengguna:Borgx|<font face="Copperplate Gothic Bold" color="#1F85FF">borgx</font>]]<sup>([[Pembicaraan Pengguna:Borgx|<font color="#003366">kirim pesan</font>]])</sup> 00:05, 7 Maret 2006 (UTC)

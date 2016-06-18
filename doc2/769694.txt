@@ -1,0 +1,5 @@
+Templat:Parameter names example
+<includeonly>{{#invoke:Parameter names example|main}}</includeonly><noinclude>
+{{hatnote|[[Template:Generic template demo]] and [[Template:Pnex]] redirect here.}}<!--(hatnote more noticeable here than within Documentation)-->
+{{Documentation}}
+</noinclude>

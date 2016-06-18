@@ -1,0 +1,71 @@
+Grimsby Town F.C.
+{{Kotak info klub sepak bola
+|clubname = Grimsby Town F.C
+|image = [[Berkas:Grimb Badge.png|150px]]
+|fullname = Grimsby Town Football Club
+|nickname = ''The Mariners'',<br/>''Mighty Mariners'',<br/>''Town''
+|founded = {{Start date and age|df=yes|1878}}<br>''(sebagai Grimsby Pelham)''
+|ground = [[Blundell Park]]<br /> [[Cleethorpes]], [[Inggris]]
+|capacity = 9.062 (semua berkursi)
+|chairman = ''Kosong''
+|mgrtitle = Manajer
+|manager = [[Paul Hurst]]
+|league = [[Liga Nasional (sepak bola Inggris)|Liga Nasional]]
+|season = [[Football Conference 201415|201415]]
+|position = Conference Premier, ke-3
+|website = http://www.grimsby-townfc.co.uk/
+|pattern_la1 = _blackborder|pattern_b1=_3whitestripes|pattern_ra1=_blackborder|pattern_sh1=_white stripes
+|leftarm1 = FFFFFF|body1 =000000|rightarm1=FFFFFF|shorts1=000000|socks1=FF0000
+|pattern_la2 =|pattern_b2=_thinmidnightbluesides|pattern_ra2= 
+|leftarm2 = 15317E|body2=15317E|rightarm2=15317E|shorts2=15317E|socks2=15317E
+|pattern_la3 =|pattern_b3=_whitecollar|pattern_ra3= 
+|leftarm3 = CC0000|body3=CC0000|rightarm3=CC0000|shorts3=CC0000|socks3=FFFFFF
+|current = Musim201415 Grimsby Town F.C.
+}}
+'''Grimsby Town Football Club''' adalah sebuah klub [[sepak bola]] [[Inggris]] yang berbasis di kota tepi laut Cleethorpes, di timur laut [[Lincolnshire]]. Saat ini klub berkompetisi dalam [[Liga Conference Nasional Inggris]].
+
+Mereka terbentuk pada tahun 1878 sebagai Grimsby Pelham dan kemudian menjadi Grimsby Town. Klub ini telah bermain di [[Blundell Park]] sejak tahun [[1898]].
+
+== Pemain ==
+{{updated|22 Juli 2015}}<ref name="First Team Profiles">{{cite web|title=First Team Profiles|url=http://www.grimsby-townfc.co.uk/team/player-profile/|publisher=Grimsby Town F.C|accessdate=29 Agustus 2012}}</ref>
+=== Tim utama ===
+{{Fs start}}
+{{Fs player|no=1|nat=Ireland|pos=GK|name=[[James McKeown]]}}
+{{Fs player|no=2|nat=Skotlandia|pos=DF|name=[[Richard Tait (pemain sepak bola)|Richard Tait]]}}
+{{Fs player|no=3|nat=Skotlandia|pos=DF|name=[[Gregor Robertson (pemain sepak bola)|Gregor Robertson]]}}
+{{Fs player|no=4|nat=Inggris|pos=MF|name=[[Scott Brown (pemain sepak bola kelahiran Mei 1985)|Scott Brown]]}}
+{{Fs player|no=5|nat=Inggris|pos=DF|name=[[Shaun Pearson]]}}
+{{Fs player|no=6|nat=Inggris|pos=DF|name=[[Josh Gowling]]}}
+{{Fs player|no=7|nat=Wales|pos=MF|name=Jack Mackreth}}
+{{Fs player|no=8|nat=Inggris|pos=MF|name=[[Craig Disley]] {{kapten}}}}
+{{Fs player|no=9|nat=Inggris|pos=FW|name=Omar Bogle}}
+{{Fs player|no=10|nat=IRL|pos=FW|name=[[Pdraig Amond]]}}
+{{Fs player|no=11|nat=Inggris|pos=MF|name=[[Andy Monkhouse]]}}
+{{Fs player|no=12|nat=Skotlandia|pos=DF|name=[[Chris Doig]]}} ''(pemain-asisten manajer)''
+{{Fs mid}}
+{{Fs player|no=13|nat=Inggris|pos=GK|name=Callum Bastock}}
+{{Fs player|no=14|nat=Inggris|pos=MF|name=[[Marcus Marshall (pemain sepak bola)|Marcus Marshall]]}}
+{{Fs player|no=15|nat=Inggris|pos=MF|name=Harry Clifton}}
+{{Fs player|no=16|nat=Inggris|pos=MF|name=[[Craig Clay]]}}
+{{Fs player|no=17|nat=Inggris|pos=MF|name=Josh Venney}}
+{{Fs player|no=18|nat=USA|pos=FW|name=[[Jon-Paul Pittman]]}}
+{{Fs player|no=20|nat=Inggris|pos=FW|name=[[Nathan Arnold]]}}
+{{Fs player|no=21|nat=Inggris|pos=DF|name=Josh Sunter}}
+{{Fs player|no=22|nat=Congo DR|pos=DF|name=[[Aristote Nsiala]]}}
+{{Fs player|no=23|nat=Inggris|pos=DF|name=[[Danny East]]}}
+{{Fs player|no=24|nat=Inggris|pos=GK|name=[[Andy Warrington]]}} ''(pemain-pelatih)''
+{{Fs player|no=37|nat=Skotlandia|pos=MF|name=Andrew Newman}}
+{{Fs end}}
+
+== Referensi ==
+{{Reflist}}
+
+== Pranala luar ==
+*{{en}} {{Official|www.grimsby-townfc.co.uk}}
+*{{en}} [http://www.bbc.co.uk/sport/football/teams/grimsby-town Entri] pada situs web BBC Sport
+*{{en}} [http://www.marinerstrust.co.uk   The Mariners Trust; Situs web organisasi pendukung Grimsby Town FC]
+
+{{Liga Conference Inggris}}
+{{Inggris-sb-stub}}
+
+[[Kategori:Tim sepak bola Inggris]]

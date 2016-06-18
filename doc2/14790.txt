@@ -1,0 +1,34 @@
+Pemrogram
+'''Pemrogram komputer''' atau '''pemrogram''' saja atau '''pengembang perangkat lunak''' adalah profesi yang menulis [[program komputer|program]] menggunakan [[bahasa pemrograman]] seperti [[Perl]], [[C++]], [[Python (bahasa pemrograman)|Python]], [[VB]], [[Visual_Basic_.NET]], [[PHP]], dan lain-lain.
+
+== Sistem dan aplikasi ==
+Pemrogram komputer umumnya dikelompokkan atas dua kelompok utama yaitu pemrogram aplikasi dan pemrogram sistem, juga bisa di bedakan melalui kategori pemrograman berbasis aplikasi dan pemrograman berbasis web. Pemrogram aplikasi menulis program untuk menangani sebuah tugas khusus seperti program untuk melacak persediaan barang dalam suatu organisasi. Pemrogram sistem menulis program yang berfungsi untuk memelihara dan mengendalikan perangkat lunak sistem komputer seperti [[sistem operasi]] dan [[sistem manajemen basis data]]. Pemrogram sistem membuat program yang menentukan bagaimana [[jaringan komputer]], [[komputer]] dan [[CPU]] bekerja.
+
+== Bahasa pemrograman ==
+Komputer adalah mesin yang dapat melaksanakan seperangkat perintah dasar (instruction set). Komputer hanya dapat diberi perintah yang terdiri dari perintah-perintah dasar tersebut. Perintah-perintah yang lebih rumit (misalnya mengurutkan suatu daftar sesuai abjad) harus diterjemahkan menjadi serangkaian perintah-perintah dasar yang dapat dimengerti komputer (perintah-perintah yang termasuk dalam instruction set komputer tersebut) yang pada akhirnya dapat mennyelesaikan tugas yang diinginkan, meskipun dijalankan dengan beberapa operasi dasar, bukan satu operasi rumit.
+
+Bahasa pemrograman adalah bahasa yang dapat diterjemahkan menjadi kumpulan perintah-perintah dasar tersebut. Penerjemahan dilakukan oleh program komputer yang disebut kompilator (compiler). Setiap bahasa pemrograman mempunyai kompilatornya sendiri. Contohnya, kompilator C++ tidak akan mengerti program yang ditulis dengan bahasa Java. Sintaks dari bahasa pemrograman lebih mudah dipahami oleh manusia daripada sintaks perintah dasar. Namun tentu saja komputer hanya dapat melaksanakan perintah dasar itu. Maka di sinilah peran penting kompilator sebagai perantara antara bahasa pemrograman dengan perintah dasar.
+
+Kegiatan membuat program komputer dengan menggunakan bahasa pemrograman disebut pemrograman komputer. Contoh bahasa pemrogaman adalah bahasa FORTRAN, COBOL, BASIC, JAVA, dan C++.
+
+=== Pemrogram terkenal ===
+Beberapa pemrogram yang terkenal antara lain:
+* [[John Backus]] - [[FORTRAN]], 
+* [[Brian Behlendorf]] - [[Apache HTTP Server]], 
+* [[Richard Brodie]] - pertama kali membuat [[Microsoft Word]], 
+* [[Vint Cerf]] - [[TCP/IP]], 
+* [[Alan Cooper]] - [[Visual Basic]], 
+* [[Bjarne Stroustrup]] - [[C++]] dsb. 
+* [[Linus Benedict Torvalds]] - [[Linux]],
+* [[Richard Matthew Stallman]] - <code>[[gcc]]</code>, <code>[[emacs]]</code> dan banyak aplikasi [[GNU]] lainnya.
+
+{{komputer-stub}}
+
+[[Kategori:Pemrogram komputer| ]]
+
+[[arz:]]
+[[de:Programmierer]]
+[[he:]]
+[[hi:]]
+[[ka:]]
+[[my: ]]

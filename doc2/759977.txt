@@ -1,0 +1,39 @@
+Epsilon kroncker
+{{rapikan}}
+Epsilon Kronecker yang memiliki simbol <math>{{\varepsilon }_{ijk}}</math> merupakan sebuah bentuk yang seringkali digunakan untuk mempermudah penulisan dari hasil perkalian silang vektor (''cross product''). Pada perkalian silang vektor akan menghasilkan,
+
+<math>\mathbf{A}\times \mathbf{B}=\left( {{A}_{x}}\mathbf{\hat{x}}+{{A}_{y}}\mathbf{\hat{y}}+{{A}_{z}}\mathbf{\hat{z}} \right)\times \left( {{B}_{x}}\mathbf{\hat{x}}+{{B}_{y}}\mathbf{\hat{y}}+{{B}_{z}}\mathbf{\hat{z}} \right)</math>
+
+sedangkan secara sederhana sebuah vektor dapat dituliskan sebagai,
+
+<math>\mathbf{A}=\sum\limits_{i=1}^{3}{{{A}_{i}}{{{\mathbf{\hat{n}}}}_{i}}}</math>
+
+dengan,
+
+<math>{{A}_{1}}={{A}_{x}};\ {{A}_{2}}={{A}_{y}};\ {{A}_{3}}={{A}_{z}}</math>
+
+dan vektor-vektor satuannya adalah,
+
+<math>{{\mathbf{\hat{n}}}_{1}}=\mathbf{\hat{x}};\ {{\mathbf{\hat{n}}}_{2}}=\mathbf{\hat{y}};\ {{\mathbf{\hat{n}}}_{3}}=\mathbf{\hat{z}}</math>
+
+Berdasarkan aturan penjumlahan Einstein penjumlahan (sumasi) tersebut dapat ditulis sederhana sebagai,
+
+<math>\mathbf{A}={{A}_{i}}{{\mathbf{\hat{n}}}_{i}}</math>
+
+Sehingga kita dapat menghubungkan perkalian silang dengan epsilon Kronecker sebagai,
+
+<math>\mathbf{A}\times \mathbf{B}=\left( {{A}_{i}}{{{\mathbf{\hat{n}}}}_{i}} \right)\times \left( {{B}_{j}}{{{\mathbf{\hat{n}}}}_{j}} \right)={{A}_{i}}{{B}_{j}}\ {{\mathbf{\hat{n}}}_{i}}\times {{\mathbf{\hat{n}}}_{j}}={{\varepsilon }_{ijk}}{{A}_{i}}{{B}_{j}}{{\mathbf{\hat{n}}}_{k}}</math>
+
+dimana nilai dari <math>{{\varepsilon }_{ijk}}</math> didefinisikan sebagai,
+
+<math>{{\varepsilon }_{ijk}}=\left\{ \begin{align}
+  & +1,\ \text{jika permutasi genap} \\ 
+ & \text{-1}\text{,}\ \text{jika permutasi ganjil} \\ 
+ & \text{0}\text{,}\ \text{jika selainnya} \\ 
+\end{align} \right.</math>
+
+Definisi tersebut juga menunjukkan bahwa <math>{{\varepsilon }_{ijk}}</math> hanya akan memiliki nilai jika tiap indeksi memiliki nilai yang berbeda.Sehingga <math>{{\varepsilon }_{ijk}}</math> yang tak lenyap dalam perkalian silang, serta nilai dari <math>{{\varepsilon }_{ijk}}</math> adalah,
+
+<math>{{\varepsilon }_{123}}={{\varepsilon }_{231}}={{\varepsilon }_{312}}=-{{\varepsilon }_{132}}=-{{\varepsilon }_{213}}=-{{\varepsilon }_{321}}=1</math>
+
+[[Kategori:Matematika]]

@@ -1,0 +1,13 @@
+Templat:Karangjambu, Purbalingga
+{{Navigasi ID Desa |provinsi=Jawa Tengah|dati2=Kabupaten |nama dati2=Purbalingga
+|nama kecamatan=Karangjambu
+|d1= Danasari
+|d2= Jingkang
+|d3= Karangjambu
+|d4= Purbasari
+|d5= Sanguwatang
+|d6= Sirandu
+}}<noinclude>
+[[Kategori:Templat desa/kelurahan di Jawa Tengah|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Purbalingga|{{PAGENAME}}]]
+</noinclude>

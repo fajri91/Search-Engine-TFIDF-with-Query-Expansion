@@ -1,0 +1,35 @@
+Bathippus pahang
+{{Taxobox
+|name = Bathippus pahang
+|status = 
+|image = 
+|image_caption = 
+|domain = 
+|regnum = [[Animalia]]
+|phylum = [[Arthropoda]]
+|classis = [[Arachnida]]
+|ordo = [[Araneae]]
+|familia = [[Salticidae]]
+|genus =Bathippus
+|species = Bathippus pahang
+|binomial = Bathippus pahang
+|binomial_authority =Zhang, Song & Li, 2003
+|range_map = 
+|range_map_caption = 
+|image2 = 
+|image2_caption = 
+|synonyms = 
+}}
+'''''Bathippus pahang''''' adalah spesies [[laba-laba]] yang tergolong [[familia]] [[Salticidae]]. Spesies ini juga merupakan bagian dari genus [[Bathippus]] dan ordo [[Araneae]]. Nama ilmiah dari spesies ini pertama kali diterbitkan pada tahun 2003 oleh Zhang, Song & Li.
+
+Laba-laba ini biasanya banyak ditemui di Malaysia.
+
+== Referensi ==
+
+* Platnick, Norman I. (2010): [http://research.amnh.org/entomology/spiders/catalog/Salticidae.html The world spider catalog], version 10.5. ''American Museum of Natural History''.
+
+{{DEFAULTSORT:Bathippus pahang}}
+
+[[Kategori:Salticidae]]
+
+{{labalaba-stub}}

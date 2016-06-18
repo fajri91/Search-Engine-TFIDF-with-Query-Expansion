@@ -1,0 +1,30 @@
+FADEC
+[[File:EEC-Piston-Eng.jpg|thumb|300px]]
+'''Full authority digital engine''' (or '''electronics''') '''control''' ('''FADEC''') adalah 
+adalah sebuah sistem yang terdiri dari komputer digital, disebut pengontrol mesin elektronik / electronic engine controller (EEC) atau unit kontrol mesin / engine control unit (ECU), dan instrumen terkait yang mengontrol semua aspek kinerja mesin pesawat. FADEC telah diproduksi untuk  mesin piston dan mesin jet.
+
+FADEC (Full Authority Digital Engine Control)  adalah juga sebuah system  yang  mengontrol  secara menyeluruh  operasional engine  dalam  merespon perintah (command inputs) dari pesawat (cockpit). Dan juga memberikan informasi   ke pesawat ( flight deck indication) termasuk  informasi  kondisi engine.
+
+===Fungsi  lain ;===
+*Dapat mengontrol bahan bakar , N1 dan N2. 
+*Mengontrol parameter engine selama proses  Starting  Engine dan mencegah engine dari Hi  EGT  yang melebihi batas (Limits) Maximum yang diperbolehkan .
+*Mengatur Thrust  berdasarkan  2 mode: manual dan autothrust. 
+*Mengoptimalkan operasional engine dengan mengontrol  aliran udara compressor dan turbine clearances.
+*Mengontrol  2  thrust lever interlock selenoids
+
+== Referensi ==
+{{Reflist}}
+*
+*
+*
+
+==Pranala luar==
+*[http://www.decwg.org/pages/history.html http://www.decwg.org/ HISTORY OF DISTRIBUTED ENGINE CONTROLS FOR PROPULSION SYSTEMS]
+* [http://www.flightglobal.com/pdfarchive/view/1982/1982%20-%200366.html ''Harrier flies with digitally controlled Pegasus''] - a 1982 article in ''[[Flight International]]'' magazine
+* [http://www.flightglobal.com/pdfarchive/view/1988/1988%20-%201795.html ''Active-control engines''] a 1988 ''Flight International'' article on FADEC engines
+*[http://www.sagem-ds.com/spip.php?rubrique16 http://www.sagem-ds.com/spip.php?rubrique16] [http://www.safran.ru/rubrique.php3?id_rubrique=123&lang=en http://www.safran.ru/rubrique.php3?id_rubrique=123&lang=en] [http://www.safran-group.com/site-safran-en/aerospace/aircraft-equipment/avionics/military-aircraft-298/all-models-625/?625 http://www.safran-group.com/site-safran-en/aerospace/aircraft-equipment/avionics/military-aircraft-298/all-models-625/?625]
+
+{{Komponen pesawat terbang}}
+{{Komponen mesin gas turbin pesawat terbang}}
+{{pesawat-stub}}
+[[Kategori:Avionik]]

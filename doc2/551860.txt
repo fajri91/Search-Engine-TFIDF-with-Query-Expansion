@@ -1,0 +1,70 @@
+Templat:ICarly
+{{Navbox
+|bodyclass = hlist
+|name   = iCarly
+|title  = '''''[[iCarly]]'''''
+|state = {{{state|autocollapse}}}|
+
+| above =
+*[[Image:Wikiquote-logo.svg|18x18px]] [[q:iCarly|Kutipan]]
+*[[Schneider's Bakery]]
+
+|group1= [[Daftar episode iCarly|Episode]]
+|list1= 
+*[[iCarly (musim 1)|Musim 1]]
+*[[iCarly (musim 2)|2]]
+*[[iCarly (musim 3)|3]]
+*[[iCarly (musim 4)|4]]
+*[[iCarly (musim 5)|5]]
+*[[iCarly (musim 6)|6]]
+*[[iCarly (musim 7)|7]]
+
+|group2= Episode multi-bagian
+|list2=
+*"[[iDate a Bad Boy]]" (2009)
+*"[[iFight Shelby Marx]]" (2009)
+*"iQuit iCarly" (2009)
+*"iPsycho" (2010)
+*"iStart a Fan War" (2010)
+*"iStill Psycho" (2011)     
+*"[[iShock America]]" (2012)
+*"[[iGoodbye]]" (2012)   
+
+|group3= Film televisi
+|list3=
+*"[[iGo to Japan]]" (2008)
+*"[[iParty with Victorious]]" (2011)
+
+|group4= Permainan video
+|list4=
+*[[iCarly (permainan video)|''iCarly'' (permainan video)]]
+*''[[iCarly 2: iJoin the Click]]''
+
+|group5 = Pemain
+|list5  =
+* [[Miranda Cosgrove]]
+* [[Jennette McCurdy]]
+* [[Nathan Kress]]
+* [[Jerry Trainor]]
+* [[Noah Munck]] (Musim 4)
+
+|group6= Musik
+|list6=
+*"[[Leave It All to Me]]"
+*"[[Stay My Baby#Versi Miranda Cosgrove|Stay My Baby]]"
+*[[ICarly (soundtrack)|''iCarly'' (soundtrack)]] 
+*''[[iSoundtrack II]]''
+|group7= Artikel terkait
+|list7=
+*[[Daftar karakter iCarly|Karakter]]
+*[[Dan Schneider]] (pembuat)
+*''[[Sam & Cat]]''
+
+}}<noinclude>
+{{collapsible option}}
+{{DEFAULTSORT:Icarly}}
+[[Category:Templat navigasi televisi]]
+[[Category:iCarly|Template]]
+[[Category:Templat navigasi Nickelodeon]]
+[[Category:Templat navigasi sitkom]]
+</noinclude>

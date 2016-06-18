@@ -1,0 +1,14 @@
+Templat:Pemegang gelar Miss Earth 2009
+{{Pemegang gelar Miss Earth
+|name=Pemegang gelar Miss Earth 2009
+|state = {{{state|autocollapse}}}
+|Year=[[Miss Earth 2009|2009]]
+|Miss Earth= {{Flagicon|BRA}} [[Larissa Ramos]]
+|Miss Earth-Air= {{Flagicon|PHL}} [[Sandra Seifert]]
+|Miss Earth-Water= {{Flagicon|VEN}} [[Jessica Barboza]]
+|Miss Earth-Fire = {{Flagicon|ESP}} [[Alejandra Echevarria]]
+|below = {{Pemegang gelar Miss Earth footer}}
+}}<noinclude>
+{{collapsible option}}
+[[Kategori:Templat Miss Earth|Earth]]
+</noinclude>

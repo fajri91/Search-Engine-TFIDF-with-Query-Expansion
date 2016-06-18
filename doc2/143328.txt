@@ -1,0 +1,25 @@
+Templat:Akita
+{{Navbox
+|name  = Akita
+| listclass = hlist
+| title = [[Prefektur Akita]] {{flagicon|Akita}}
+|titlestyle = 
+|groupstyle = 
+|liststyle  = 
+|state = {{{state|}}}
+|image = [[Berkas:Shadow picture of Akita prefecture.png|45px|Peta Prefektur Akita]]{{br}}[[Berkas:PrefSymbol-Akita.png|50px|Lambang Prefektur Akita]]
+|imageleft = 
+|above = 
+|below = [[Prefektur Akita#Kota kecil dan desa|Kota kecil dan desa berdasarkan distrik]]
+
+|group1 = Kota
+|list1 = <div>
+[[Akita, Akita|Akita]] (ibukota){{}} [[Daisen, Akita|Daisen]]{{}} [[Katagami, Akita|Katagami]]{{}} [[Kazuno, Akita|Kazuno]]{{}} [[Kitaakita, Akita|Kitaakita]]{{}} [[Nikaho, Akita|Nikaho]]{{}} [[Noshiro, Akita|Noshiro]]{{}} [[Oga, Akita|Oga]]{{}} [[date, Akita|date]]{{}} [[Semboku, Akita|Semboku]]{{}} [[Yokote, Akita|Yokote]]{{}} [[Yurihonjo-, Akita|Yurihonjo-]]{{}} [[Yuzawa, Akita|Yuzawa]]
+</div>
+|group2 = Distrik
+|list2 = <div>
+[[Distrik Kazuno, Akita|Kazuno]]{{}} [[Distrik Kitaakita, Akita|Kitaakita]]{{}} [[Distrik Minamiakita, Akita|Minamiakita]]{{}} [[Distrik Ogachi, Akita|Ogachi]]{{}} [[Distrik Senboku, Akita|Senboku]]{{}} [[Distrik Yamamoto, Akita|Yamamoto]]
+</div>
+}}<noinclude>
+[[Kategori:Templat pembagian administratif Jepang|{{PAGENAME}}]]
+</noinclude>

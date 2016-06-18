@@ -1,0 +1,19 @@
+Sistem koordinat geografi
+[[Berkas:WorldMapLongLat-eq-circles-tropics-non.png|thumb|450px|Peta [[Bumi]] yang menunjukkan garis-garis [[lintang]] (horizontal) dan [[bujur]] (vertikal)]]
+
+'''Sistem koordinat geografi''' digunakan untuk menunjukkan suatu titik di Bumi berdasarkan garis lintang dan garis bujur.
+
+[[Garis lintang]] yaitu garis vertikal yang mengukur sudut antara suatu titik dengan garis [[katulistiwa]]. Titik di utara garis katulistiwa dinamakan [[Lintang Utara]] sedangkan titik di selatan katulistiwa dinamakan [[Lintang Selatan]].
+
+[[Garis bujur]] yaitu horizontal yang mengukur sudut antara suatu titik dengan titik nol di Bumi yaitu [[Greenwich]] di [[London]] [[Britania Raya]] yang merupakan titik bujur 0 atau 360 yang diterima secara internasional. Titik di barat bujur 0 dinamakan [[Bujur Barat]] sedangkan titik di timur 0 dinamakan [[Bujur Timur]].
+
+Suatu titik di Bumi dapat dideskripsikan dengan menggabungkan kedua pengukuran tersebut. Contohnya
+
+== Pranala luar ==
+* {{en}} [http://www.paddles.com/users/wildcamp/coordexp.html GPS Coordinate Explanation]
+
+[[Kategori:Geografi]]
+[[Kategori:Sistem koordinat geografi]]
+
+
+{{geografi-stub}}

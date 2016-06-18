@@ -1,0 +1,19 @@
+Berkas:Suntingan.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+http://www.wikistatistics.net/wiki/id/edits/full
+
+perkembangan jumlah suntingan WBI, 29 April 2007-14 Februari 2012
+
+Puncak: 8 Maret 2011: 35049 suntingan
+
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{DU-Pembuat}}

@@ -1,0 +1,55 @@
+Johann Heinrich von Thnen
+{{Infobox economist
+|name             = Johann Heinrich von Thnen
+|school_tradition = Ekonomi klasik
+|color            = green
+|image_name       = Johann Heinrich von Thnen Duke.png 
+|image_size       = 150px
+|image_caption    = Johann Heinrich von Thnen
+|birth_date            = {{Birth date|1783|06|24|df=y}}
+|death_date            = {{Death date and age|1850|09|22|1783|06|24|df=y}}
+|nationality      = Jerman
+|institution      = 
+|field            = Teori ekonomi
+|alma_mater       = 
+|influences       = 
+|opposed          = 
+|influenced       = [[Joseph Schumpeter]]
+|contributions    = 
+|awards           = 
+|signature        = <!-- file name only -->
+}}
+[[Berkas:Thunen - Untersuchungen uber den Einfluss, den die Getrieidepreise, der Reichthum des Zodens und die Abgaben auf den Ackerbau ausuben, 1842 - 5805633.tif|thumb|''Untersuchungen uber den Einfluss, den die Getrieidepreise, der Reichthum des Zodens und die Abgaben auf den Ackerbau ausuben'', 1842]]
+'''Johann Heinrich von Thnen''' ({{lahirmati|[[Wangerland]]|24|6|1783||22|9|1850}}) adalah ekonom terkemuka abad ke-19. Von Thnen merupakan tuan tanah di [[Mecklenburg]] (Jerman Utara), di mana karyanya ''The Isolated State'' (1826), mengembangkan perlakukan serius yang pertama terhadap ekonomi spasial, yang menghubungkan hal tersebut dengan teori sewa tanah. Von Thnen mengembangkan teori dasar konsep marginal produktivitas secara matematis, dan menyusun rumus
+
+:''R'' = ''Y''(''p''  ''c'')  ''YFm'',
+
+di mana R=sewa tanah; Y=hasil per unit tanah; c=pengeluaran produksi per unit komoditas; p=harga pasar per unit komoditas; F=harga pengangkutan; m=jarak ke pasar.
+
+Model Von Thnen dari lahan pertanian diciptakan sebelum industrialisasi, dengan penyederhanaan asumsi:
+
+* Kota terletak terpusat di dalam keadaan terisolir
+* Keadaan terisolir dikelilingi oleh alam liar.
+* Lahan benar-benar datar dan tidak memiliki sungai atau pegunungan.
+* Kualitas tanah dan iklim yang konsisten.
+* Petani di keadaan terisolir mengangkut barang mereka sendiri ke pasar melalui gerobak melewati tanah langsung ke pusat kota. Tidak ada jalan.
+* Petani bersikap rasional untuk memaksimalkan keuntungan.
+
+== Pranala luar ==
+{{commons|Johann Heinrich von Thnen|Johann Heinrich von Thnen}}
+* [http://faculty.washington.edu/~krumme/450/thunen.html Online resources concerning von Thnen]
+* [http://cepa.newschool.edu/het/profiles/thunen.htm CEPA page on von Thnen]
+
+{{Persondata         <!-- Metadata: see [[Wikipedia:Persondata]] -->
+|NAME              =Thunen, Johann Heinrich von
+|ALTERNATIVE NAMES =
+|SHORT DESCRIPTION =
+|DATE OF BIRTH     =24 June 1783
+|PLACE OF BIRTH    =
+|DATE OF DEATH     =22 September 1850
+|PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Thunen, Johann Heinrich von}}
+
+[[Kategori:Ekonom]]
+[[Kategori:Ahli geografi]]

@@ -1,0 +1,25 @@
+Open Laszlo
+{{rapikan|topik=teknologi informasi}}
+'''Open Laszlo''' adalah platform [[perangkat lunak]] [[open source|sumber terbuka]] untuk mengembangkan dan menyajikan aplikasi internet kaya (RIA - Rich Internet Applications). Lisensi Open Laszlo adalah Initiative-certified Common Public License.
+
+=== Hello World dengan Open Laszlo ===
+ <canvas>
+   <text>Hello World</text>
+ </canvas>
+
+== Pesaing ==
+# [[jseamless]] (http://jseamless.org)
+# [[Echo (framework)]]
+# [[ZK framework]]
+# [[Adobe Flex]]
+# [[Adobe Integrated Runtime (a.k.a. Apollo)]]
+# [[Google Web Toolkit]]
+# [[WebOS AppsBuilder]] (http://www.morfik.com)
+
+== Pranala luar ==
+[http://www.openlaszlo.com Situs web resmi]
+
+{{bahasa-komputer-stub}}
+
+[[Kategori:Bahasa markah antarmuka pengguna]]
+[[Kategori:AJAX]]

@@ -1,0 +1,19 @@
+Templat:Teluk Meranti, Pelalawan
+{{Navigasi ID Desa
+|provinsi=Riau
+|dati2=Kabupaten
+|nama dati2=Pelalawan
+|nama kecamatan=Teluk Meranti
+|d1=Gambut Mutiara
+|d2=Kuala Panduk
+|d3=Labuhan Bilik
+|d4=Pangkalan Terap
+|d5=Petodaan
+|d6=Pulau Muda
+|d7=Teluk Binjai
+|d8=Teluk Meranti
+}}
+<noinclude>
+[[Kategori:Templat desa/kelurahan di Riau|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Pelalawan|{{PAGENAME}}]]
+</noinclude>

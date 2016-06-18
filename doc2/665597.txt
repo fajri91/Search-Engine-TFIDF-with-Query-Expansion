@@ -1,0 +1,55 @@
+Paok mopo
+{{Taxobox
+|name = Red-bellied Pitta
+|image = Red-bellied pitta iron08.jpg
+|status = LC|status_system = IUCN3.1
+|status_ref = <ref>{{IUCN|id=106004010|title=''Pitta erytrogaster'' (''Red-bellied Pitta'')|assessors=[[BirdLife International]]|version=2013.2|year=2012|accessdate= 2 November 2013}}</ref>
+|regnum = [[Animalia]]
+|phylum = [[Chordata]]
+|classis = [[Aves]]
+|ordo = [[Passeriformes]]
+|familia = [[Pittidae]]
+|genus = ''[[Pitta]]''
+|species = ''P. erythrogaster''
+|binomial = ''Pitta erythrogaster''<ref name=a>{{cite book|title= The eBird/Clements checklist of birds of the world: Version 6.8|author= Clements, J. F., T. S. Schulenberg, M. J. Iliff, B.L. Sullivan, C. L. Wood, and D. Roberson|year= 2013|publisher= The Cornell Lab of Ornithology|url=http://www.birds.cornell.edu/clementschecklist/download/}}</ref><ref>{{cite book|title= BirdLife International (2013) Species factsheet: Pitta erythrogaster|year= 2013|url=http://www.birdlife.org/datazone/speciesfactsheet.php?id=4010|accessdate= 2 November 2013}}</ref>
+|binomial_authority = [[Coenraad Jacob Temminck|Temminck]], 1823
+}}
+
+[[Berkas:Pitta erythrogaster.JPG|thumb|Individu remaja ''P. e. celebensis'']]
+
+'''Paok mopo''' (''Pitta erythrogaster'') adalah spesies burung dalam famili ''[[Pittidae]]''. Secara alami hidup di hutan tropis dan subtropis dataran rendah.
+
+== Persebaran ==
+'''Paok mopo''' tersebar di [[Filipina]], [[Indonesia]], [[Papua Nugini]], dan [[Australia]]. Terdapat 22 subspesies<ref name=a>{{cite book|title= The eBird/Clements checklist of birds of the world: Version 6.8|author= Clements, J. F., T. S. Schulenberg, M. J. Iliff, B.L. Sullivan, C. L. Wood, and D. Roberson|year= 2013|publisher= The Cornell Lab of Ornithology|url=http://www.birds.cornell.edu/clementschecklist/download/}}</ref>, yaitu :
+# ''P. e. erythrogaster'', tersebar di [[Filipina]] kecuali kelompok [[Pulau Palawan]].
+# ''P. e. propinqua'', tersebar di barat daya [[Filipina]] ([[Pulau Palawan]] dan [[Pulau Balabac]]).
+# ''P. e. inspeculata'' tersebar di [[Kabupaten Kepulauan Talaud|Kepulauan Talaud]] ([[Karakelong]], [[Salebabu]], dan [[Kaburuang]]).
+# ''P. e. caeruleitorques'', tersebar di [[Kabupaten Kepulauan Sangihe|Pulau Sangihe]].
+# ''P. e. palliceps'', tersebar di Pulau [[Siau]] dan [[Tagulandang]].
+# ''P. e. celebensis'', tersebar di [[Sulawesi|Pulau Sulawesi]], [[Mentarawu]], dan [[Kepulauan Togian]].
+# ''P. e. rufiventris'', tersebar di [[Morotai]], [[Halmahera]], [[Kasiruta]], [[Bacan]], [[Moti]], [[Pulau Damar|Damar]], dan [[Obi]].
+# ''P. e. cyanonota'', tersebar di [[Pulau Ternate]].
+# ''P. e. rubrinucha'', tersebar di [[Pulau Buru]].
+# ''P. e. piroensis'', tersebar di [[Pulau Seram]].
+# ''P. e. macklotti'', tersebar di [[Kepulauan Watubela]] ([[Tiur]] dan [[Kisiui]]), [[Kilsuin]], [[Kepulauan Tayandu]], [[Kepulauan Kai]], bagian barat [[Pulau Papua]], dan bagian utara dan Timur [[Tanjung Cape York]].
+# ''P. e. bernsteini'', tersebar di [[Pulau Gebe]].
+# ''P. e. habenichti'', tersebar di bagian utara [[Pulau Papua]] (dari [[Pegunungan Weyland]] hingga [[Teluk Astrolabe]]).
+# ''P. e. aruensis'', tersebar di [[Kepulauan Aru]].
+# ''P. e. oblita'', tersebar di [[Papua Nugini]] (dataran tinggi [[Sungai Aroa]]).
+# ''P. e. loriae'', tersebar di tenggara [[Pulau Papua]] (sebelah timur [[Sungai Kumusi]] dan [[Teluk Cloudy]].
+# ''P. e. extima'', tersebar di [[Pulau Lavongai]] ([[Kepulauan Bismarck]]).
+# ''P. e. novaehibernicae'', tersebar di [[Pulau Niu Ailan]] ([[Kepulauan Bismarck]]).
+# ''P. e. splendida'',tersebar di [[Pulau Tabar]].
+# ''P. e. gazellae'', tersebar di [[Pulau Niu Briten]] (selatan [[Kepulauan Bismarck]]).
+# ''P. e. finschii'', tersebar di [[Kepulauan D'Entrecasteaux]] ([[Pulau Fergusson]] dan [[Pulau Goodenough]]).
+# ''P. e. meeki'', tersebar di [[Pulau Rossel]] ([[Kepulauan Louisiade]])
+
+== Referensi ==
+{{reflist}}
+
+== Pranala luar ==
+* [http://www.birdlife.org/datazone/speciesfactsheet.php?id=4010 BirdLife Species Factsheet - Red-bellied Pitta (Pitta erythrogaster)]
+
+
+
+{{burung-stub}}

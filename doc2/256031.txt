@@ -1,0 +1,20 @@
+Templat:Nevada County Labelled Map
+{{Image label begin|image=Nevada Locator Map.PNG|width={{{width|300}}}|float={{{float|none}}}}}
+{{Image label small|x=19|y=206|scale={{{width|300}}}/348|text=[[Carson City, Nevada|Car]]}}
+{{Image label small|x=82|y=180|scale={{{width|300}}}/348|text=[[Churchill County, Nevada|Churchill]]}}
+{{Image label small|x=272|y=400|scale={{{width|300}}}/348|text=[[Clark County, Nevada|Clark]]}}
+{{Image label small|x=20|y=220|scale={{{width|300}}}/348|text=[[Douglas County, Nevada|Doug]]}}
+{{Image label small|x=272|y=73|scale={{{width|300}}}/348|text=[[Elko County, Nevada|Elko]]}}
+{{Image label small|x=112|y=299|scale={{{width|300}}}/348|text=[[Esmeralda County, Nevada|Esmeralda]]}}
+{{Image label small|x=208|y=163|scale={{{width|300}}}/348|text=[[Eureka County, Nevada|Eureka]]}}
+{{Image label small|x=90|y=49|scale={{{width|300}}}/348|text=[[Humboldt County, Nevada|Humboldt]]}}
+{{Image label small|x=162|y=148|scale={{{width|300}}}/348|text=[[Lander County, Nevada|Lander]]}}
+{{Image label small|x=280|y=327|scale={{{width|300}}}/348|text=[[Lincoln County, Nevada|Lincoln]]}}
+{{Image label small|x=44|y=206|scale={{{width|300}}}/348|text=[[Lyon County, Nevada|Lyon]]}}
+{{Image label small|x=84|y=253|scale={{{width|300}}}/348|text=[[Mineral County, Nevada|Mineral]]}}
+{{Image label small|x=197|y=280|scale={{{width|300}}}/348|text=[[Nye County, Nevada|Nye]]}}
+{{Image label small|x=82|y=121|scale={{{width|300}}}/348|text=[[Pershing County, Nevada|Pershing]]}}
+{{Image label small|x=30|y=187|scale={{{width|300}}}/348|text=[[Storey County, Nevada|Sto]]}}
+{{Image label small|x=17|y=98|scale={{{width|300}}}/348|text=[[Washoe County, Nevada|Wash]]}}
+{{Image label small|x=269|y=189|scale={{{width|300}}}/348|text=[[White Pine County, Nevada|White Pine]]}}
+{{Image label end}}<noinclude>{{Documentation, template|Template:Image label begin/doc}}</noinclude>

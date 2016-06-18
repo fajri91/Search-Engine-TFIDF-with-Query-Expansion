@@ -1,0 +1,7 @@
+Metanet
+'''Metanet''' adalah jaringan [[friend-to-friend]] yang terpisah, mirip dengan [[Freenet]] walaupun desainnya berbeda. Metanet bekerja untuk mempersulit pencarian identitas orang-orang dalam network dan memperbolehkan mereka secara anonim meng-host content dan servis-servis [[IPv4]].
+
+{{internet-stub}}
+
+
+[[Kategori:Peer-to-peer]]

@@ -1,0 +1,26 @@
+Templat:Garis waktu Ortodoks di Yunani
+{{Navbox
+ | name = Garis waktu Ortodoks di Yunani
+ | title = Garis waktu [[Ortodoks di Yunani]]
+ | state = {{{state<includeonly>|expanded</includeonly>}}}
+ | image = [[Berkas:Flag of the Greek Orthodox Church.svg|50px]]
+ | bodyclass = hlist
+
+ | list1 =
+* [[Garis waktu Ortodoks di Yunani (33717)|33717 Masehi]]
+* [[Garis waktu Ortodoks di Yunani (7171204)|7171204 Masehi]]
+* [[Garis waktu Ortodoks di Yunani (12041453)|12041453 Masehi]]
+* [[Garis waktu Ortodoks di Yunani (14531821)|14531821 Masehi]]
+* [[Garis waktu Ortodoks di Yunani (18211924)|18211924 Masehi]]
+* [[Garis waktu Ortodoks di Yunani (19241974)|19241974 Masehi]]
+* [[Garis waktu Ortodoks di Yunani (dari 1974)|Sejak 1974 Masehi]]
+
+ | below =
+* '''Topik terkait: [[Gereja Ortodoks Yunani]]'''
+
+}}<noinclude>
+{{collapsible option}}
+[[Kategori:Katolik navigasi sejarah Kristen]]
+[[Kategori:Templat Gereja Ortodoks Timur]]
+[[Kategori:Templat agama Yunani]]
+</noinclude>

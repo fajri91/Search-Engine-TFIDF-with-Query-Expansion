@@ -1,0 +1,44 @@
+Natrium klorida
+{{chembox new
+|ImageFile=Selpologne.jpg
+|ImageSize=150px
+|IUPACName= Natrium Klorida
+|OtherNames= Garam dapur; [[halit]]
+|Section1={{Chembox Identifiers
+|  CASNo=7647-14-5
+|  PubChem=
+|  SMILES=
+  }}
+|Section2={{Chembox Properties
+|  Formula= [[Natrium|Na]][[Klorida|Cl]]
+|  MolarMass= 58.44 g/mol
+|  Appearance= Tidak berwarna/berbentuk kristal putih
+|  Density= 2.16 g/cm<sup>3</sup>
+|  MeltingPt= 801&nbsp;C (1074 K)
+|  BoilingPt= 1465&nbsp;C (1738 K)
+|  Solubility= 35.9 g/100 mL (25&nbsp;C)
+  }}
+|Section3={{Chembox Hazards
+|  MainHazards=
+|  FlashPt=
+|  Autoignition=
+  }}
+}}
+
+'''Natrium klorida''', juga dikenal dengan [[garam dapur]], atau [[halit]], adalah [[senyawa kimia]] dengan [[rumus molekul]] NaCl. Senyawa ini adalah [[garam]] yang paling memengaruhi [[salinitas]] [[laut]] dan [[cairan ekstraselular]] pada banyak organisme [[multiselular]]. Sebagai komponen utama pada garam dapur, natrium klorida sering digunakan sebagai [[bumbu]] dan [[pengawet]] makanan.
+
+== Sodium chlorida sebagai inhibitor benih rekalsitran ==
+Sodium Chlorida atau Natrium Chlorida (NaCl) yang dikenal sebagai garam adalah zat yang memiliki tingkat osmotik yang tinggi. Zat ini pada proses perlakuan penyimpanan benih recalsitran berkedudukan sebagai medium inhibitor yang fungsinya menghambat proses metabolisme benih sehingga perkecambahan pada benih recalsitran dapat terhambat. Dengan kemampuan tingkat osmotik yang tinggi ini maka apabila NaCl terlarut di dalam air maka air tersebut akan mempunyai nilai atau tingkat konsentrasi yang tinggi yang dapat mengimbibisi kandungan air (konsentrasi rendah)/low concentrate yang terdapat di dalam tubuh benih sehingga akan diperoleh keseimbangan kadar air pada benih tersebut. Hal ini dapat terjadi karena H<sub>2</sub>O akan berpindah dari konsentrasi yang rendah ke tempat yang memiliki konsentrasi yang tinggi. Hal ini merupakan hal yang sangat menguntungkan bagi benih recalsitran, karena sebagaimana kita ketahui benih recalsitran yaitu benih yang memiliki tingkat kadar air yang tinggi dan sangat peka terhadap penurunan kadar air yang rendah. Kadar air yang tinggi menyebabkan benih recalsitran selalu mengalami perkecambahan dan berjamur selama masa penyimpanan atau pengiriman ketempat tujuan. Namun dengan perlakuan konsentrasi sodium chlorida (NaCl) maka hal ini dapat teratasi.
+
+== Pranala luar ==
+{{commonscat|Salt}}
+* {{en}} [http://minerals.usgs.gov/minerals/pubs/commodity/salt/ United States Geological Survey Statistics and Information on Salt] 
+* {{en}} [http://www.saltinstitute.org Salt Institute]
+* {{en}} [http://salt.org.il/news_arch.htm Salt Archive]
+
+[[Kategori:Garam]]
+[[Kategori:Senyawa natrium]]
+[[Kategori:Klorida]]
+
+
+{{kimia-stub}}

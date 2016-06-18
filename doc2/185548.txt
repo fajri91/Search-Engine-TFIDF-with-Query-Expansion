@@ -1,0 +1,37 @@
+LaTeX
+[[Berkas:LaTeX logo.svg|thumb|Logo LaTeX]]
+
+'''LaTeX''' adalah bahasa ''markup'' atau sistem penyiapan dokumen untuk peranti lunak [[TeX]]. Tex merupakan program komputer yang digunakan untuk membuat typesetting suatu dokumen, atau membuat formula matematika. LaTeX memungkinkan penulis/penggunanya untuk melakukan typesetting dan mencetak hasil kerjanya dalam bentuk tipografi yag terbaik. Oleh karenanya LaTeX paling banyak digunakan oleh para matematikawan, ilmuwan, insinyur, akademisi, dan profesional lainnya<ref>{{ cite web | url = http://www.ctan.org/what_is_tex.html | title = What are TeX, LaTeX and friends? }}</ref>. Pada awalnya LaTeX ditulis pada awal 1980-an oleh [[Leslie Lamport]] di [[SRI International]] <ref>{{cite web | url=http://research.microsoft.com/users/lamport/pubs/pubs.html#latex | title=The Writings of Leslie Lamport: LaTeX: A Document Preparation System | author=Leslie Lamport | date=April 23, 2007 | work=Leslie Lamport's Home Page | accessdate=2007-04-27}}</ref>. Versi paling mutakhir adalah LateX2e.
+
+Beberapa keuntungan menggunakan LaTeX ialah<ref name=":0">Oetiker Tobias, 2014. "The Not So Short Introduction to LATEX 2, Free Software Foundation" Inc., 675 Mass Ave, Cambridge, MA 02139, USA</ref> :
+# Memiliki format dokumen yang terstruktur sehingga membuat dokumen terlihat sangat profesional dan sempurna. 
+# Segala jenis formula matematis dapat dituliskan dengan mudah. 
+# List gambar, List tabel, Daftar Pustaka, footnote bahkan daftar isi dapat secara otomatis dibuat oleh program.
+# LaTeX melatih dan memaksa pengguna untuk membuat dokumen dengan struktur yang baik dan benar, sehingga tidak terjadi kerancuan dalam penulisan.
+Kerugian menggunakan LaTeX<ref name=":0" />:
+# Sangat sulit untuk menuliskan dokumen yang tidak terstruktur. 
+# Memerlukan kecerdasan manusia.
+
+== Catatan ==
+{{reflist}}
+
+== Pranala luar ==
+{{sisterlinks}}
+
+* {{en}}[http://www.latex-project.org/ LaTeX home page]
+* {{en}}[http://www.ctan.org CTAN  The Comprehensive TeX Archive Network]
+* {{en}}[http://www.tex.ac.uk/cgi-bin/texfaq2html The UK TeX FAQ]
+* {{en}}The [http://www.tug.org/ TeX Users Group]
+* {{en}}[http://en.wikibooks.org/wiki/LaTeX LaTeX Wikibook]
+* {{en}}[http://www.iopb.res.in/grad-course/latex/latex.pdf A Working Guide to LaTeX] (2002)
+* {{en}}[http://www.maths.tcd.ie/~dwilkins/LaTeXPrimer Getting Started with LaTeX (basic introduction to typesetting with TeX and LaTeX)] (1995)
+* {{en}}[http://thornahawk.unitedti.org/equationeditor/equationeditor.php Online LaTeX Equation Editor]
+* {{en}}[http://math.brown.edu/~jhs/ReferenceCards/LaTeXRefCard.v2.0.pdf LaTeX Reference Card] ([http://www.math.brown.edu/~jhs/ Other TeX reference cards and source code])
+* {{en}}[[:en:Comparison_of_TeX_editors|Comparison of TeX editors]]
+* {{id}}[http://groups.yahoo.com/group/id-LaTeX Milis LaTeX Indonesia] di yahoogroups.com
+
+{{Templat:Buku elektronik}}
+{{software-stub}}
+
+[[Kategori:Perangkat lunak]]
+[[Kategori:Artikel kelas awal bertopik teknologi informasi]]

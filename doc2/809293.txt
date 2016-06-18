@@ -1,0 +1,16 @@
+Templat:Kota Kanigoro
+{{Navbox 
+| name = Kota Kanigoro
+| listclass = hlist 
+| title =[[Kanigoro (kota)|Kota Kanigoro]], [[Jawa Timur]] 
+| image =
+| group1 = Kecamatan 
+| list1 = <div><!-- 
+-->[[Jatinom, Kanigoro|Jatinom]]{{}}<!-- 
+-->[[Satreyan, Kanigoro|Satreyan]]{{}}<!-- 
+-->[[Kanigoro, Kanigoro|Kanigoro]]{{}}<!-- 
+-->[[Kuningan, Kanigoro|Kuningan]]<!-- 
+--></div> 
+}}<noinclude> 
+[[Kategori:Templat kecamatan Indonesia|Kanigoro, Kota]] 
+</noinclude>

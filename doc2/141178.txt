@@ -1,0 +1,8 @@
+Portal:Box-header/38
+{{Portal:Box-header{{{watch|}}} | title={{{1}}} 
+|editpage={{{2}}} 
+|border=#BFA3B1           <!-- H330 S15 V75 the color of the borders around Box Sections -->
+|titleforeground=black    <!-- This is the color of the Box Section Title Bar text -->
+|titlebackground=#F2CEE0  <!-- H330 S15 V95 the color of the Box Section Title Bar -->
+|background=#FFF5FA       <!-- H330 S4 V100 the color of the Box Section background -->
+|foreground=black}} <!-- This is the color of the Box Section text -->

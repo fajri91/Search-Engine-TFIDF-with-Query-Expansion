@@ -1,0 +1,23 @@
+Stasiun Tandes/layout
+{|
+{{BS-table}}
+{{BS4|||CONTfa|CONTg||Ke [[Stasiun Kandangan|Kandangan]]||||}}
+{{BS4|||STR+c2|ABZg3|}}
+{{BS4|||ABZg+1|STR+c4|}}
+{{BS4||STRc2|ABZg3|STR|}}
+{{BS4||STR+1|STR+c4|STR|||||}}
+{{BS4||STR|STR|STR|||||}}
+{{BS4||STR+BSlr|STR+BSr|STR|||||}}
+{{BS4|BUILDING|STR+BSlr|STR+BSr|STR|||||}}
+{{BS4||STR+BSlr|STR+BSr|STR|||||}}
+{{BS4||STR|STR|STR|||||}}
+{{BS4||STR2|STR+c3|STR|||||}}
+{{BS4||STRc1|ABZg+4|STR|||||}}
+{{BS4|||STR|STR|||||}}
+{{BS4|||CONTf|CONTge||Ke [[Stasiun Pasar Turi|Surabaya Pasarturi]]|||||}} 
+|}
+|}
+
+<noinclude>
+[[Kategori:Layout stasiun|Tandes]]
+</noinclude>

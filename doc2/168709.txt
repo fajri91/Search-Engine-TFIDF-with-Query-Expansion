@@ -1,0 +1,63 @@
+Templat:Pokemon media
+{{Navbox
+|name=Pokemon media
+| listclass = hlist
+| title = Serial [[franchise|waralaba]] [[media]] [[Pokmon]] oleh [[Satoshi Tajiri]] dan [[Ken Sugimori]]
+|state   = collapsed
+| group1 = [[Pokmon (permainan video)|Permainan video]]
+|  list1 =
+{{Navbox subgroup
+|name=Pokemon media
+
+| group1 = Seri genggam
+|  list1 = [[Pokmon Red dan Blue|''Red'', ''Blue'', dan ''Yellow'']]{{}} [[Pokmon Gold dan Silver|''Gold'', ''Silver'', dan ''Crystal'']]{{}} [[Pokmon Emerald|''Ruby'', ''Sapphire'', dan ''Emerald'']]{{}} [[Pokmon FireRed dan LeafGreen|''FireRed'' dan ''LeafGreen'']]{{}} [[Pokmon Diamond dan Pearl|''Diamond'', ''Pearl'' dan ''Platinum'']]{{}} [[Pokmon HeartGold dan SoulSilver|''HeartGold'' dan ''SoulSilver'']]{{}} [[Pokmon Black dan White|''Black'' dan ''White'']]{{}} [[Pokmon X dan Y|''X'' dan ''Y'']]{{}}[[Pokmon Omega Ruby dan Alpha Sapphire|''Omega Ruby'' dan ''Alpha Sapphire'']]
+
+| group2 = Seri konsol
+|  list2 = ''[[Pokmon Stadium|Stadium]]{{}} [[Pokmon Stadium 2|Stadium 2]]{{}} [[Pokmon Colosseum|Colosseum]]{{}} [[Pokmon XD: Gale of Darkness|XD: Gale of Darkness]]{{}} [[Pokmon Battle Revolution|Battle Revolution]]{{}} [[Pokmon Mystery Dungeon: Gates to Infinity|Mystery Dungeon: Gates to Infinity]]{{}} [[Pokmon Conquest|Conquest]]{{}} [[PokPark 2: Wonders Beyond]]{{}} [[Pokmon Rumble Blast|Rumble Blast]]''
+}}
+
+| group2 = [[Daftar karakter manusia Pokemon|Karakter]]
+|  list2 = {{Navbox subgroup
+| group1 = Karakter utama | list1 =[[Ash Ketchum]] {{}} [[May (Pokmon)|May]] {{}} [[Brock]] {{}} [[Misty]] {{}} [[Dawn]] {{}} [[Tracey Sketchit]] {{}} [[Max (Pokmon)|Max]] {{}} [[Jessie (Pokmon)|Jessie]] {{}} [[James (Pokmon)|James]] {{}} [[Iris (Pokmon)|Iris]] {{}} [[Cilan]]
+| group2 = Karakter lain | list2 = [[Daftar karakter manusia Pokemon|Karakter anime]]  {{}} [[Sindikat kriminal Pokmon|Sindikat kriminal]] {{}} [[Elite Four]] {{}} [[Daftar Frontier Brains|Frontier Brains]]}}
+
+| group3 = [[Daftar Pokmon|Pokmon Starter]]
+| list3 ={{Navbox subgroup
+|  group1 = [[Region Pokmon#Kanto|Kanto]] | list1 =[[Bulbasaur]] {{}} [[Charmander]] {{}} [[Squirtle]] {{}} [[Pikachu]]
+|  group2 = [[Region Pokmon#Johto|Johto]] | list2 =[[Cyndaquil]] {{}} [[Totodile]] {{}} [[Chikorita]]
+|  group3 = [[Region Pokmon#Hoenn|Hoenn]] | list3 =[[Treecko]] {{}} [[Torchic]] {{}} [[Mudkip]]
+|  group4 = [[Region Pokmon#Sinnoh|Sinnoh]] | list4 =[[Chimchar]] {{}} [[Turtwig]] {{}} [[Piplup]]
+|  group5 = [[Region Pokmon#Unova|Unova]] | list5 =[[Snivy]] {{}} [[Tepig]] {{}} [[Oshawott]]
+|  group6 = [[Region Pokmon#Kalos|Kalos]] | list6 =[[Chespin]] {{}} [[Fennekin]] {{}} [[Froakie]]}}
+
+| group4 = [[Pokmon (anime)|Serial anime]]
+|  list4 ={{Navbox subgroup
+|name=Pokemon media
+
+| group1 = [[Pokmon (anime)|Serial original]]
+|  list1 = ''[[Pokmon: The Indigo League|Indigo League]] {{}} [[Pokmon: The Orange Island League|Orange Island League]] {{}} [[Pokmon: The Johto Journeys|Johto Journeys]] {{}} [[Pokmon: Johto League Champions|Johto League Champions]] {{}} [[Pokmon: Master Quest|Master Quest]]''
+
+| group2 = [[Pokmon (anime)#Nama serial|''Advanced Generation'']]
+|  list2 = ''[[Pokmon: Advanced|Advanced]] {{}} [[Pokmon: Advanced Challenge|Advanced Challenge]] {{}} [[Pokmon: Advanced Battle|Advanced Battle]] {{}} [[Pokmon: Battle Frontier|Battle Frontier]]''
+
+| group3 = [[Pokmon (anime)#Nama serial|''Diamond & Pearl'']]
+|  list3 = ''[[Pokmon: Diamond dan Pearl (anime)|Diamond and Pearl]]'' {{}} ''[[Daftar episode Pokmon: Diamond & Pearl|DP Battle Dimension]]''
+
+| group4 = [[Pokmon (anime)#Nama serial|''Best Wishes'']]
+|  list4 = ''[[Pokmon: Best Wishes|Best Wishes]]'' {{}} ''[[Daftar episode Pokmon: Best Wishes|BW Season 2]]''
+
+}}
+
+| group5 = Film
+|  list5 = ''[[Pokmon: The First Movie|The First Movie]] {{}} [[Pokmon: The Movie 2000|The Movie 2000]] {{}} [[Pokmon 3: The Movie|3: The Movie]] {{}} [[Pokmon: Mewtwo Returns|Mewtwo Returns]] {{}} [[Pokmon 4Ever|4Ever]] {{}} [[Pokmon Heroes|Heroes]] {{}} [[Pokmon: Jirachi Wish Maker|Jirachi Wishmaker]] {{}} [[Pokmon: Destiny Deoxys|Destiny Deoxys]] {{}} [[Pokmon: Lucario and the Mystery of Mew|Lucario and the Mystery of Mew]] {{}} [[Pokmon Ranger and the Temple of the Sea]] {{}} [[Pokmon: The Rise of Darkrai|The Rise of Darkrai]] {{}} [[Pokmon: Giratina and the Sky Warrior|Giratina and the Sky Warrior]] {{}} [[Pokmon: Arceus and the Jewel of Life|Arceus and the Jewel of Life]] {{}} [[Pokmon: Zoroark Master of illusion|Zoroark Master of Illusions]] {{}} [[Kyurem VS The Sword of Justice]] {{}} [[Meloetta's Sparkling Recital]] {{}} [[Extremespeed Genesect]]''
+
+| group6 = Konsep
+|  list6 = [[Pokmon (permainan video)#Konsep|Gameplay]] {{}} [[Pok Ball]] {{}} [[Pokdex]] {{}} [[Pokmon trainer]] {{}} [[Region Pokmon]]
+
+| belowclass = hlist
+| below =
+*'''[[Buku:Pokmon|Buku]]'''
+*'''[[:Kategori:Pokmon| Kategori]]'''
+*'''[[Portal:Pokmon|Portal]]'''
+
+}}<noinclude>{{doc}}[[Kategori:Templat navigasi karakter]]</noinclude>

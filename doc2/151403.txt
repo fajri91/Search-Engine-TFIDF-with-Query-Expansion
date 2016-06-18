@@ -1,0 +1,73 @@
+Microsoft Surface
+{{Infobox information appliance
+| name = Microsoft Surface
+| logo = [[Berkas:Microsoft Surface wordmark.svg|200px|center]]
+| image = [[Berkas:Microsoft Surface(tablet).jpeg|175px|center]]
+| developer = [[Microsoft]]
+| type = [[Komputer tablet]]
+| connectivity = 
+22 [[MIMO]] [[Wi-Fi]] ([[IEEE 802.11|802.11]] [[IEEE 802.11a-1999|a]]/[[IEEE 802.11b-1999|b]]/[[IEEE 802.11g-2003|g]]/[[IEEE 
+
+802.11n-2009|n]])<br />
+
+'''Surface'''<br />[[USB 2.0]], [[HDMI|micro HDMI]]<br />
+'''Surface Pro'''<br />[[USB 3.0]], [[Mini DisplayPort]]
+| input = 
+[[Multi-touch]] [[Touchscreen|screen]], Touch Cover, Type Cover<br />
+'''Surface Pro'''<br />Pen with palm block<br />
+|thickness = 
+9.3 mm (Surface)<br />13.5 mm (Surface Pro)<br />
+| weight=
+676 g (Surface)<br />903 g (Surface Pro)<br />
+| os = 
+[[Windows RT]] (Surface)<br />[[Windows 8]] (Surface Pro)<br />
+| cpu =
+[[Nvidia]] [[Tegra]] [[ARM]] (Surface)<ref name="rt-cpu"/><br />Quad-core [[Intel Core i5#Core i5 2|Intel Core i5]] (Surface 
+
+Pro)<br />
+| storage = 
+'''Surface'''<br />32 atau 64 [[Gigabyte|GB]] dan [[microSD]] slot<br />
+'''Surface Pro'''<br />64 atau 128 GB dan [[microSDXC]] slot<br />
+| display =
+'''Surface'''<br />10.6 dalam layar definisi tinggi dengan rasio aspek 16:9<br />
+'''Surface Pro'''<br />10.6 dalam layar definisi tinggi dengan rasio aspek 16:9<br />
+| power = 
+31.5 W-h (Surface)<br />42 W-h (Surface Pro)<br />
+| website = [http://www.microsoft.com/surface/en/us/default.aspx Situs resmi]
+}}
+
+'''Microsoft Surface''' adalah deretan [[komputer tablet]] yang didesain dan dipasarkan oleh [[Microsoft]]. Surface akan tersedia dalam dua versi, satu versi menjalankan sistem operasi [[Windows RT]] dan satu versi menjalankan [[Windows 8]].<ref>{{cite web|url=http://gizmodo.com/5919428/what-is-the-microsoft-surface|title=What is the Microsoft Surface Tablet?|publisher=[[Gizmodo]]|last=Biddle|first=Sam|date=June 18, 2012|accessdate=June 18, 2012}}</ref><ref>{{citeweb|url=http://live.theverge.com/microsoft-live-blog-tablet-announcement/|title=Live from Microsoft's 'major announcement' event|publisher=The Verge|date=June 18, 2012|accessdate=June 18, 2012}}</ref> Microsoft telah mengumumkan bahwa versi Surface yang berbeda akan tersedia dalam [[Arsitektur ARM]] dan [[Unit Pemroses Sentral|CPU]] [[Intel]] sedangkan tampilannya adalah 10.6", 16:9 definisi tinggi (Surface), atau Tampilan definisi tinggi penuh (Surface Pro).<ref>{{cite web|title=Surface specsheet|url=http://www.microsoft.com/global/surface/en/us/renderingassets/surfacespecsheet.pdf|publisher=Microsoft|accessdate=June 18, 2012}}</ref> Produk ini diumumkan oleh [[CEO]] Microsoft [[Steve Ballmer]] dalam sebuah pertemuan di [[Los Angeles]] pada 18 Juni 2012, bertempat di Milk Studios.<ref>{{cite web|last=Sullivan |first=Mark |url=http://www.pcworld.com/article/257840/microsoft_announces_new_surface_tablet_pc.html |title=Microsoft Announces New 'Surface' Tablet PC |publisher=PCWorld |date= |accessdate=June 19, 2012}}</ref> Sampai tanggal 19 Juni 2012, belum ada harga dan tanggal rilis yang tersedia.<ref>{{cite web|url=http://windows8consumer.in/blog/index.php/2012/06/19/everything-microsoft-surface-tablets-specifications-estimated-prices/|title=Everything about Microsoft Surface Tablets | Specifications and estimated prices.|publisher=Windows8Consumer.IN|date=June 19, 2012|accessdate=June 19, 2012}}</ref>
+
+== Perangkat keras ==
+Microsoft Surface menonjolkan VaporMg, casing yang terbentuk dari [[Magnesium]]<ref>{{cite web|title=Microsoft Live Blog Tablet Announcement|url=http://live.theverge.com/microsoft-live-blog-tablet-announcement/|publisher=The Verge|date=June 12, 2012|accessdate=June 18, 2012}}</ref> yang mencakup komponen Surface, dipasangkan dengan sebuah lapisan penutup pengendapan fisik uap, yang merupakan sebuah proses manufaktur yang menghasilkan sebuah lapisan penutup yang tahan lama.<ref>{{cite web||title=PVD Finish|url=http://houseofantiquehardware.com/s.nl/ctype.KB/it.I/id.3165/KB.70/.f? sc=18&category=2|publisher=House Of Antique Hardware|accessdate=June 18, 2012}}</ref> VaporMg memungkinan magnesium untuk dicairkan dan dibentuk serincinya untuk Surface and memungkinkan Surface mempunyai berat hanya 0.68 kilogram. Dalam kedua model Surface juga terdapat sebuah port [[USB]], sebuah slot [[micro-SD]], and sebuah lajur magnetis untuk melekatkan aksesori seperti 'Penutup sentuh' dan 'Penutup ketik'. Terdapat juga dua kamera yang menghadap ke belakang dan depan.<ref>{{cite web||title=Microsoft Live Blog Tablet Announcement|url=http://live.theverge.com/microsoft-live-blog-tablet-announcement/|publisher=The Verge|date=June 12, 2012|accessdate=June 18, 2012}}</ref> Kamera yang menghadap ke depan akan dimiringkan 22 derajat untuk penyesuaian pengguna saat dudukan digunakan. Dudukan Surface setebal 0.77 milimeter memungkinkan Surface untuk disangga di satu sudut berorientasi mendatar untuk sebuah pengalaman melihat nirtangan. Surface juga mempunyai ventilasi tepian yang memungkinkan udara untuk mengalir keluar dari sisi, dan membantu menghindari penyumbatan aliran udara oleh tangan pengguna yang memegang perangkat ini.
+
+Untuk CPU, Surface dengan [[Windows RT]] akan menggunakan sebuah CPU [[Nvidia]] [[Tegra]].<ref name="rt-cpu">{{cite web |publisher=moneycontrol.com |url=http://www.moneycontrol.com/news/technology/nvidia-confirms-tegra-underhoodmicrosoft-surface-win-rt-edition_719735.html |title=Nvidia confirms Tegra under the hood of Microsoft Surface Win RT edition |accessdate=June 19, 2012}}</ref>  Surface Pro dengan [[Windows 8]] akan menggunakan sebuah chip "Ivy Bridge" [[Core i5]] layaknya chip dalam Laptop Windows saat ini.<ref>{{cite web|last=Brown |first=Rich |url=http://reviews.cnet.com/tablets/microsoft-surface-rt/4505-3126_7-35332494.html?tag=TOCcarouselMain.0 |title=Microsoft Surface RT Overview & Specs - Tablets - CNET Reviews |publisher=Reviews.cnet.com |date= |accessdate=June 19, 2012}}</ref>
+
+Perangkat Surface yang didemonstrasikan dalam pertemuan Microsoft Surface memiliki port koneksi baru dengan 5 pin. Ini dikenal sebagai konektor pengisian magnet dalam presentasi Microsoft oleh Steve Sinofsky.<ref>{{cite web||title=Microsoft Surface Events Live Updates : Surface Tablets to have MagSafe-like connector.|url=http://windows8consumer.in/blog/index.php/2012/06/19/microsoft-surface-events-live-updates-surface-tablets-magsafe-like-connector/|publisher=Windows8Consumer.IN|date=June 19, 2012|accessdate=June 19, 2012}}</ref> 
+
+=== Tampilan ===
+Baik Surface maupun Surface Pro memiliki layar 10.6" dengan rasio aspek 16:9, menggunakan teknologi ClearType HD Display dari Microsoft. Tampilan ini mendukung sudut penglihatan ultra-lebar dan pengaturan otomatis intensitas layar. <ref>http://www.microsoft.com/surface/en/us/about.aspx</ref> Surface memiliki tampilan definisi tinggi dan Surface Pro memiliki tampilan definisi tinggi penuh. Dalam sebuah pengumuman Michael Angiulo mengatakan bahwa ketika melihat Surface Pro dari jarak 17", mata tidak akan bisa membedakan antara tiap-tiap titik. <ref>http://www.microsoft.com/en-us/news/presskits/windows/videogallery2b.aspx</ref>
+
+=== Perangkat tambahan ===
+Microsoft akan menawarkan dua tutup [[Papan ketik]] untuk Surface: Tutup sentuh (Touch Cover) dan Tutup ketik (Type Cover). Keduanya ketika dilipat akan menjadi tutup pelindung yang tersambung pada Surface melalui sebuah konektor magnetis. Ketika dibuka, tutup menjadi papan ketik. Tutup sentuh memiliki ketebalan 3 mm dan mempunyai papan ketik sentuh-sensitif dan trackpad multi-sentuh. Tutup ketik lebih tebal dan Papan ketiknya lebih tradisional. Keduanya juga memiliki sebuah touchpad multi-sentuh.<ref>{{cite web|url=http://www.usatoday.com/tech/news/story/2012-06-18/microsoft-surface-tablet/55676790/1|title=Microsoft unveils Surface tablets  |publisher=Usatoday.com |date=November 28, 2011 |accessdate=June 19, 2012}}</ref>
+
+== Ketersediaan ==
+Belum ada tanggal pengapalan/ketersediaan yang diumumkan.<ref>{{cite web|url=http://windows8consumer.in/blog/index.php/2012/06/19/everything-microsoft-surface-tablets-specifications-estimated-prices/ |title=Everything about Microsoft Surface Tablets | Specifications and estimated prices.|publisher=Windows8Consumer.IN |date=June 19, 2012 |accessdate=June 19, 2012}}</ref>Surface dengan Windows RT akan tersedia bersama tersedianya Windows 8 secara umum dan Surface Pro akan tersedia 3 bulan setelahnya.<ref>http://www.engadget.com/2012/06/19/watch-microsofts-surface-keynote-online/</ref> Menurut analis Sarah Rotman Epps dari [[Forrester Research]], Surface mulanya akan tersedia di toko Microsoft dan secara online.<ref>{{cite web |publisher=Forrester Research |last=Rotman Epps |first=Sarah |url=http://blogs.forrester.com/sarah_rotman_epps/12-06-18-microsofts_surface_tablets_why_windows_is_its_own_worst_enemy |title=Microsofts Surface Tablets: Why Windows Is Its Own Worst Enemy |date=June 18, 2012 |accessdate=June 19, 2012}}</ref>
+
+== Harga ==
+CEO Microsoft Steve Ballmer menyatakan dalam pertemuan di Los Angeles bahwa "harga retail akan diumumkan mendekati ketersediaan dan diharapkan kompetitif dengan perbandingannya sebuah tablet ARM atau Ultrabook Intel. OEM akan memiliki harga dan ciri sesuai dengan Windows 8 dan Windows RT."
+
+== Lihat pula ==
+* [[Microsoft]]
+* [[Windows 8]]
+
+== Referensi ==
+{{reflist}}
+
+== Pranala luar ==
+* [http://www.microsoft.com/surface/ Surface by Microsoft]
+
+{{Tablet Windows}}
+
+[[Kategori:Komputer tablet]]
+[[Kategori:Perangkat keras Microsoft]]

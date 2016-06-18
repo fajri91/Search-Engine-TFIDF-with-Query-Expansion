@@ -1,0 +1,53 @@
+BAE Systems
+{{Infobox company
+| name             = BAE Systems [[Public limited company|plc]]
+| logo             = [[Berkas:BAE SYSTEMS.svg|200px]] 
+| type             = [[Public company|Public]] ({{lse|BA.}})
+| predecessor      = [[British Aerospace]]
+| foundation       = 30 November 1999
+| location_city    = [[Farnborough, Hampshire|Farnborough]]
+| location_country = UK
+| area_served      = Worldwide
+| key_people       = [[Dick Olver]]<br /><small>([[Chair (official)|Chairman]])</small><br /></small>[[Ian King (BAE Systems)|Ian King]]<br /><small>([[Chief Executive Officer|CEO]])</small>
+| industry         = [[Aerospace engineering|Aerospace]]<br />[[Information security]]<br />[[Arms industry|Defence]] 
+| products         = Civil and military aerospace<br />Defence electronics<br />[[Naval ship|Naval vessels]]<br />[[Munition]]s<br />[[Armoured fighting vehicle|Land warfare systems]]
+| services         = Maintenance, consultancy, training etc.
+| revenue          =  [[Pound sterling|]]22.4&nbsp;billion (2009)
+| operating_income = 982&nbsp;million (2009)
+| net_income       = (48)&nbsp;million (2009)
+| assets           = 25.4&nbsp;billion (2009)
+| equity           = 4.7&nbsp;billion (2009)
+| num_employees    = 107,000 (2010)
+| divisions        = [[#Organisation|See below]]
+| subsid           = [[BAE Systems Inc.]]
+| homepage         = [http://www.baesystems.com/ www.baesystems.com]
+| intl             = yes
+}}
+
+'''BAE Systems plc''' {{lse|BA}} merupakan perusahaan yang bergerak dalam bidang [[penerbangan]] dan bermarkas di [[Farnborough]], [[Inggris]]. Perusahaan ini didirikan tahun [[1999]] dan mempekerjakan 100.100 pekerja pada tahun [[2005]].
+
+==Sejarah==
+
+===Asal Usul===
+[[File:Spitfire VII Langley USA.jpg|thumb|Pesawat tempur [[Supermarine Spitfire|Spitfire]] buatan [[Supermarine]], salah satu pendahulu BAE Systems]]
+
+BAE Systems dibentuk pada tanggal 30 November 1999 dari hasil penggabungan antara British Aerospace (BAe) dan Marconi Electronic Systems (MES), senilai 7.7&nbsp;milliar.<ref name="scotsman2000">{{Cite news|first=Andrew|last=Turpin|title= BAE Eyes US Targets After Profit Rockets|work=The Scotsman|location=UK|publisher=The Scotsman Publications|page=26|date= 4 March 2000}}</ref> Sebagai hasilnya, BAE Systems merupakan suksesor dari beberapa perusahaan terkemuka asal Inggris. Perusahaan pendahulu BAE pernah memproduksi [[de Havilland Comet|Comet]], pesawat jet komersial pertama di dunia, [[Hawker Siddeley Harrier|Harrier]], pesawat jet pertama di dunia yang dapat melakukan lepas landas ataupun mendarat secara vertikal,<ref>{{Cite news|first=James|last=Dow|title=Edinburgh's first line of defence|url=http://thescotsman.scotsman.com/business.cfm?id=840772004|archiveurl=http://web.archive.org/web/20040815131803/http://thescotsman.scotsman.com/business.cfm?id=840772004|archivedate=15 August 2004|work=The Scotsman|location=UK|date=23 July 2004|accessdate=26 September 2007}}</ref> radar Blue Vixen yang ada di dalam [[BAE Sea Harrier]] (yang menjadi dasar dari pengembangan radar [[Euroradar CAPTOR|CAPTOR]] di dalam pesawat Eurofighter), dan juga memproduksi pesawat supersonik [[Concorde]], bersama dengan [[Arospatiale]].
+
+British Aerospace (BAe) adalah produsen pesawat sipil maupun pesawat militer, dan juga produsen peralatan pertahanan darat. BAe dibentuk pada tanggal 29 April 1977 dari nasionalisasi dan penggabungan beberapa produsen pesawat yang telah ada sejak [[Perang Dunia II]], yakni [[British Aircraft Corporation]] (BAC), [[Hawker Siddeley|Hawker Siddeley Group]], dan [[Scottish Aviation]].<ref name="compcomm"/> Di mana BAC dan Hawker Siddeley awalnya juga dibentuk dari hasil penggabungan maupun akuisisi.<ref name="lineage">{{cite web |url=http://production.investis.com/heritage/storage/lineage/?t=lineage |title=The BAE Systems Lineage (click on Air tab) |accessdate=13 September 2007 |work=BAE Systems Heritage |publisher=BAE Systems plc}}</ref><!-- Citation based on "Air" section of this url, requires "Air" tab to be clicked, unfortunately no way of automating this in link -->
+
+Sedangkan Marconi Electronic Systems (MES) adalah divisi pertahanan milik General Electric Company (GEC), yang sebagian besar bisnisnya berurusan dengan sistem pertahanan laut maupun udara. MES berawal dari Wireless Telegraph & Signal Company yang didirikan oleh [[Guglielmo Marconi]] pada tahun 1897.<ref>{{cite web |url=http://production.investis.com/heritage/nonflash/timeline/1874_guglielmo_marconi/ |archiveurl=http://web.archive.org/web/20080421093519/http://production.investis.com/heritage/nonflash/timeline/1874_guglielmo_marconi/ |archivedate=21 April 2008 |title=1874 Guglielmo Marconi |accessdate=13 September 2007 |work=BAE Systems Heritage |publisher=BAE Systems plc}}</ref> GEC lalu membeli [[English Electric]] (yang juga termasuk Marconi) pada tahun 1968 dan selanjutnya menggunakan merek Marconi untuk bisnis pertahanannya sebagai GEC-Marconi, yang lalu berganti nama menjadi Marconi Electronic Systems. Sedangkan GEC berawal sejak [[Perang Dunia I]], dan berkontribusi terhadap upaya perang, seperti memproduksi radio dan lampu, dan yang paling fenomenal, penemuan teknologi [[magnetron]] untuk meningkatkan deteksi [[radar]].<ref>{{cite web |url=http://www.connected-earth.com/Galleries/Prideofownership/Economicfactors/Anewindustry/index.htm |title=A new industry |accessdate=12 September 2007 |work=connected-earth.com|quote=during the Second World War it developed the cavity magnetron for radar |archiveurl= http://web.archive.org/web/20070503152859/http://www.connected-earth.com/Galleries/Prideofownership/Economicfactors/Anewindustry/index.htm |archivedate= 3 May 2007}}</ref> Antara tahun 1945 dan 1999, GEC-Marconi menjadi salah satu [[kontraktor pertahanan]] paling penting di dunia. GEC juga mengakuisisi beberapa perusahaan sejenis, seperti [[Associated Electrical Industries]] pada tahun 1967,<ref name="cc">{{cite web |url=http://www.competition-commission.org.uk/rep_pub/reports/1989/fulltext/250c2.pdf |title=The companies involved, and the merger situations |accessdate=13 September 2007 |year=1989 |publisher=Competition Commission|format=PDF |archiveurl= http://web.archive.org/web/20070926044921/http://www.competition-commission.org.uk/rep_pub/reports/1989/fulltext/250c2.pdf |archivedate= 26 September 2007 |deadurl= no}}</ref> [[Yarrow Shipbuilders Limited|Yarrow Shipbuilders]] pada tahun 1985,<ref name="cc"/> [[Plessey]] pada tahun 1989,<ref name="plesseyferranti">{{Cite news|first=Chris|last=Leadbeater|title=A marriage of convenience 'GEC and Siemens propose to create a major new European partnership. The acquisition of Plessey ... will be the springboard for further substantial expansion together.'|work=Financial Times|date=3 July 1990}}</ref> divisi pertahanan dari [[Ferranti]] pada tahun 1990<ref name="plesseyferranti"/><ref>{{Cite news|first=Roger|last=Cowe|title=Weinstock's 1bn finale|work=The Guardian|location=UK|publisher=Guardian Newspapers|date=4 July 1999}}</ref>, dan [[Kvaerner Govan|Kvrner Govan]] pada tahun 1999.<ref>{{Cite news|title=Deal reached on shipyard future|url=http://news.bbc.co.uk/1/hi/scotland/563784.stm|publisher=BBC News|date=14 December 1999|accessdate=13 September 2007}}</ref> Pada bulan Juni 1998, MES mengakuisisi [[Tracor]], salah satu kontraktor pertahanan asal Amerika Serikat, seharga 830&nbsp;juta.<ref>{{Cite news|title = GEC Completes Tracor Acquisition|url = http://business.highbeam.com/436978/article-1G1-50118227/gec-completes-tracor-acquisition|work = Defense Week|publisher =|date = 29 June 1998|accessdate = 29 June 2015|via = [[HighBeam]]|subscription = yes}}</ref>
+
+== Pranala luar ==
+{{Commons category}}
+* [http://www.baesystems.com Situs resmi]
+* [http://www.youtube.com/user/BAEinfo BAE Systems YouTube channel]
+* [http://www.youtube.com/user/baesystemsnewsroom BAE Systems newsroom]
+* [http://www.guardian.co.uk/world/bae ''The Guardian'': The BAE files]
+* [http://www.corporatewatch.org.uk/?lid=182 BAE Systems profile on corporatewatch.org.uk]
+* [http://www.pbs.org/wgbh/pages/frontline/blackmoney/view/ Black Money] [[PBS Frontline]] documentary examining BAE's alleged use of [[political corruption]] internationally, to secure arms sales
+* [http://www.againstcorruption.org/corruptionnewssub.asp?Organisationid=7795 BAE Systems plc Information on againstcorruption.org]
+
+[[Kategori:Perusahaan Inggris]]
+
+
+{{perusahaan-stub}}

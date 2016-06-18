@@ -1,0 +1,26 @@
+Sifat-sifat spesies zat terlarut
+Sewaktu pelarutan, tarikan di antara partikel dalam fasa asalnya (tarikan pelarut-dengan-pelarut dan zat terlarut-dengan zat terlarut) terpecah dan tergantikan, sekurang-kurangnya sebagian, dengan tarikan baru pelarut-dengan-pelarut zat tertentu. Larutan memiliki komponen dalam proporsi tertentu dan tidak dapat dinyatakan dengan rumus kimia sehingga keadaan awal suatu zat terlarut dalam tanda kurung di ruas kiri persamaaan dan pernyataan pelaurt yang digunakan dalam tanda kurung diruas kanan. Misalnya, padatan (''s'') sukrosa dilarutkan dalam air menghasilkan larutan berair (''aqueous'', aq)
+
+C<sub>12</sub>H<sub>22</sub>O<sub>11</sub>(''s'')  C<sub>12</sub>H<sub>22</sub>O<sub>11</sub>(''aq'')
+
+Zat terlarut dan pelarut yang ada pada larutan dapat berupa kombinasi fase padatan, cairan, dan gas. Semua fase tersebut berkembang sesuai dengan larutan tersebut. akan tetapi air cair merupakan pelarut yang paling lazimdan sangat penting. Karena fungsi air sangat penting dalam larutan, air adalah segala sumber kehidupa yang ada di bumi ini.<ref name=":0">Oxtoby. David W. dkk. 1998. ''Prinsip-Prinsip Kimia Modren''</ref>
+
+=== Larutan Berair dari Spesies Molekul ===
+<gallery>
+Berkas:Bab5-konsep-larutan-10-638.jpg
+</gallery>Zat molekul yang memiliki molekul polar mudah dilarutkan dala air, contohnya gula, yang rumusnya C<sub>m</sub>(H<sub>2</sub>O).contoh khasnya ialah sukrosa C<sub>12</sub>H<sub>22</sub>O<sub>11 (gula pasir) fruktosa </sub>C<sub>6</sub>H<sub>12</sub>O<sub>6 (gula buah) dan ribosa </sub>C<sub>5</sub>H<sub>10</sub>O<sub>5, yaitu suatu subunit dalam biomolekul yang disebut asam ribonukleat. Gula memiliki gugus polar yang terikat pada atom karbon dan tidak mengandung molekul air. Oleh sebab itu yang tapak untuk interaksi dwikutub -dwikutub dengan molekul air. Hal itu menyababkan terjadinya tarikan yang menggantikan interaksi zat terlarut pada setiap molekul gula yang berair bergerak menuju larutan.</sub><ref name=":0" />
+
+=== Larutan Berair dari Spesies Ionik (Elektrolit) ===
+Kalium sulfat adalah padatan ionik yang larut dalam air menghasilkan sampai 120 g L<sup>-1 </sup>pada suhu 25C; yaitu masa maksimum yang dapat dilarutkan dalam 1 L pada 25C yang disebut juga kelarutan dalam air. Persamaan kimia untuk reaksi pelarutan dituliskan sebagai 
+
+K<sub>2</sub>SO<sub>4</sub>(''S'')  2 K<sup>+</sup>(''aq'') + SO<sub>4</sub><sup>2-</sup>
+
+Setiap ion dilarutkan dalam air dan kulit solvasi dari molekul-molekul air yang mengelilinginya merupakan kesatuan yang diperangi oleh gaya ion-dwikutub. Ion yang tersolvasi ini dapat bergerak sebagai kesatuan utuh bila medan listrik diberikan kepadanya. Medan listrik adalah efek yang timbul disebabkan oleh keberadaan muatan listrik, medan adalah suatu besaran yang memiliki harga pada tiap titik dalam ruang. Secara rinci dapat disimpulkan medan listrik itu adalah gaya persatuan muatan dan medan listrik merupakan besaran vektor. karena larutan hasilnya merupakan penghantar listrik yang baik disebut elektrolit kuat.<ref name=":0" />
+
+Reaksi pengendapan adalah salah jenis reaksi yangumumnya berlangsung dalam larutan berair. salah satu cirinya yaitu adanya endapan dan terbentuk produk taklarut. Endapan adalah padatan taklarut yang terpisah dari larutan, reaksi pengendapan ini melibatkan senyawa-senyawa ionik. misalnya dalam larutan timbal nitrat ditambahkan kedalam larutan natrium iodida akan terbentuk endapan kuning timbal iodida.
+
+Pb(NO<sub>3</sub>)<sub>2</sub>(''aq'') + 2NaI(''aq'')  PbI<sub>2</sub>(''s'') + 2NaNO<sub>3</sub>(''aq'')
+
+jadi natrium nitrat tertinggal dalam larutan.<ref>Chang, Raymond. 2004. Kimia Dasar</ref>
+
+[[Kategori:Kimia]]

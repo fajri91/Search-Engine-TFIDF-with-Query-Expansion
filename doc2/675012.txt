@@ -1,0 +1,9 @@
+Templat:Country data Ulster
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Ulster
+| flag alias = Flag of Ulster.svg
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+}}<noinclude>
+</noinclude>

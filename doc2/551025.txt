@@ -1,0 +1,55 @@
+Sukhoi Su-80
+[[File:S-80.jpg|thumb|300px]]
+'''Sukhoi Su-80''' (sebelumnya dikenal sebagai Sukhoi S-80) adalah pesawat angkut STOL sayap tinggi (high wing) Rusia [[turboprop|bermesin turboprop]] kembar, twin-boom.
+
+Pada Air Show di Le Bourget ke-38 tahun 1989, model pertama dari turboprop transporter Sukhoi S-80 ditunjukkan. Pesawat [[turboprop|bermesin turboprop]] ini sedang dikembangkan oleh Sukhoi OKB dan pabrik pesawat di Komsomolsk /Amur bawah Program "konversija". Pesawat itu antara lain untuk menggantikan An-24/26, An-28 dan Yak-40 dirancang dan bersaing dengan Antonov An-38. 
+
+==Spesifikasi (Su-80GP)==
+
+Data dari Sukhoi [2] dan KnAAPO [3]
+===Karakteristik umum===
+*Kru: 2
+*Kapasitas: 30
+*Panjang: 18,26 m ()
+*Lebar sayap : 23,18 m ()
+*Tinggi: 5.74 m ()
+*Area sayap: 44,36 m ()
+*Berguna beban: 3.300 kg (2.730 kg)
+*Max. berat lepas landas : 14.200 kg ()
+*Powerplant : 2  General Electric CT7-9B turboprop, 1.305 kW (1.750 hp) masing-masing
+===Prestasi===
+*Tidak pernah melebihi kecepatan : 470 km / jam
+*Kecepatan maksimum : 470 km / jam
+*Cruise speed : 430 km / jam
+*Rentang : 1.300 km dengan 30 penumpang ()
+*Layanan langit-langit : 8.000 m (25 000ft (7600m)) 
+*Lepas landas Run (max berat lepas landas, ISA, H = 0, landasan beton) 830 m dan mendarat (landing max berat, ISA, H = 0, landasan beton) 530 m 
+===Persenjataan=== 
+*Sayap pesawat dan cantelan untuk bom, roket, senapan mesin, dan meriam ringan.
+===Avionics ===
+*SSI-80 navigasi udara dan sistem indikasi
+*SBKV-P strapdown pos dan sistem ketinggian
+*SVS-80 sistem sinyal udara
+*ARK-M otomatis radio kompas
+*A-076 radio ketinggian-sensing dan kecepatan sistem-pengukuran
+*VIM-95C (VOR / ILS / SP / MRK) navigasi dan sistem pendaratan
+*VND-94s (DME) Radio range-finder
+*SO-94R (UVD) radar responden
+*4205 udara nasional identifikasi responden
+*RSBN-85C meteorologi sistem navigasi jarak pendek
+
+== Referensi ==
+{{Reflist}}
+*
+*
+*
+
+==Pranala luar==
+{{Commons|Sukhoi S-80}}
+*[http://www.sukhoi.org/eng/planes/civil/su-80/ Sukhoi official page]
+*[http://www.knaapo.ru/eng/products/civilian/su-80gp.wbp KNAAPO (the manufacturer's) page]
+{{Sukhoi}}
+{{pesawat-stub}}
+[[Kategori:Pesawat terbang Sukhoi]]
+[[Kategori:Pesawat terbang bermesin turboprop]]
+[[Kategori:Pesawat terbang sayap tinggi]]

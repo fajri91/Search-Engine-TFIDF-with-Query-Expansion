@@ -1,0 +1,36 @@
+Templat:Skuat PD1934 Belanda
+{{National squad no numbers
+ | name      = Skuat PD1934 Belanda
+ | bg        = #F1771D
+ | fg        = white
+ | bordercolor = blue
+ | country   = Belanda
+|comp link=Piala Dunia FIFA 1934
+|comp=Piala Dunia FIFA 1934
+ | pos1  = MF | p1  = [[Wim Anderiesen|Anderiesen]] 
+ | pos2  = FW | p2  = [[Beb Bakhuys|Bakhuys]] 
+ | pos3  = FW | p3  = [[Jan Graafland|Graafland]] 
+ | pos4  = GK | p4  = [[Leo Halle|Halle]] 
+ | pos5  = FW | p5  = [[Wim Lagendaal|Lagendaal]] 
+ | pos6  = FW | p6  = [[Kees Mijnders|Mijnders]] 
+ | pos7  = FW | p7  = [[Jaap Mol|Mol]] 
+ | pos8  = MF | p8  = [[Toon Oprinsen|Oprinsen]] 
+ | pos9  = MF | p9  = [[Bas Paauwe|Paauwe]] 
+ | pos10 = MF | p10 = [[Henk Pellikaan|Pellikaan]] 
+ | pos11 = FW | p11 = [[Arend Schoemaker|Schoemaker]] 
+ | pos12 = FW | p12 = [[Kick Smit|Smit]]
+ | pos13 = GK | p13 = [[Gejus van der Meulen|Van&nbsp;der&nbsp;Meulen]] 
+ | pos14 = DF | p14 = [[Jan van Diepenbeek|Van&nbsp;Diepenbeek]]
+ | pos15 = MF | p15 = [[Puck van Heel|Van&nbsp;Heel]]&nbsp;{{kapten}}
+ | pos16 = GK | p16 = [[Adri van Male|Van&nbsp;Male]] 
+ | pos17 = FW | p17 = [[Joop van Nellen|Van&nbsp;Nellen]] 
+ | pos18 = DF | p18 = [[Sjef van Run|Van&nbsp;Run]] 
+ | pos19 = FW | p19 = [[Leen Vente|Vente]] 
+ | pos20 = FW | p20 = [[Manus Vrauwdeunt|Vrauwdeunt]] 
+ | pos21 = DF | p21 = [[Mauk Weber|Weber]] 
+ | pos22 = FW | p22 = [[Frank Wels|Wels]] 
+ | coach            = [[Bob Glendenning|Glendenning]]
+}}<noinclude>
+[[Kategori:Templat skuat Piala Dunia FIFA 1934|Belanda]]
+[[Kategori:Templat skuat tim nasional Belanda|1934]]
+</noinclude>

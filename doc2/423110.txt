@@ -1,0 +1,27 @@
+Templat:Infobox criminal organization
+{{ infobox
+| title   = {{{name|<includeonly>{{PAGENAME}}</includeonly>}}}
+| image   = {{#if:{{{image|}}}|[[Image:{{{image}}}|{{#if:{{{image_size|}}}|{{{image_size}}}|200px}}]]}}
+| caption = {{{caption|}}}
+
+| label1  = Didirikan
+| data1   = {{{founded|}}}
+| label2  = Di
+| data2   = {{{founding location|{{{founding_location|}}}}}}
+| label3  = Pendiri
+| data3   = {{{founded by|{{{founded_by|}}}}}}
+| label4  = Tahun aktif
+| data4   = {{{years active|{{{years_active|}}}}}}
+| label5  = Teritori
+| data5   = {{{territory|}}}
+| label6  = Etnis
+| data6   = {{{ethnic makeup|{{{ethnicity|}}}}}}
+| label7  = Keanggotaan
+| data7   = {{{membership est|{{{membership|}}}}}}
+| label8  = Aktivitas kriminal
+| data8   = {{{criminal activities|{{{activities|}}}}}}
+| label9  = Sekutu
+| data9   = {{{allies|}}}
+| label10 = Musuh
+| data10  = {{{rivals|}}}
+}}<noinclude>{{doc}}<!-- Please add metadata to the <includeonly> section at the bottom of the /doc subpage, not here --></noinclude>

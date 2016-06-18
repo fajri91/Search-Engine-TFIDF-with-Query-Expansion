@@ -1,0 +1,2 @@
+Templat:Computus/p
+{{#expr:3+floor(({{Computus/g|{{{1|{{CURRENTYEAR}}}}}}}+40)/44)}}<noinclude>[[en:Template:Computus/p]]</noinclude>

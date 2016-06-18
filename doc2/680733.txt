@@ -1,0 +1,46 @@
+Arsitektur MIPS
+{{Infobox CPU architecture
+| name       = MIPS
+| designer   = [[MIPS Technologies|MIPS Technologies, Inc.]]
+| bits       = [[64-bit]] (3264)
+| introduced = 1981
+| version    = 
+| design     = [[Reduced instruction set computer|RISC]]
+| type       = Register-Register
+| encoding   = Campuran
+| branching  = Pendaftaran bersyarat
+| endianness = [[Bi-endian|Bi]]
+| extensions = [[MDMX]], [[MIPS-3D]]
+| open       = 
+| gpr = 31 (R0=0)
+| fpr = 32 (DP untuk 32-bit)
+}}
+'''MIPS''' ('''Microprocessor without Interlocked Pipeline Stages''') merupakan salah satu [[prosesor]] yang dibangun dengan arsitektur [[RISC]]. Desain prosesor MIPS saat ini banyak digunakan pada beberapa sistem embedded seperti the Series2 TiVo, perangkat [[Windows CE]], Cisco routers, [[Android]], dan konsol permainan seperti [[Nintendo]] 64
+dan Sony [[PlayStation]].
+
+Bahasa perakit merupakan [[bahasa pemrograman]] tingkat rendah yang digunakan untuk memberikan instruksi-
+instruksi kepada prosesor MIPS. Untuk mensimulasikan pemrograman pada MIPS dengan bahasa perakit, dapat
+menggunakan beberapa perkakas, misalnya [[ProcSym]], untuk meng-compile, menjalankan, dan melihat hasil dari kode-kode program. Arsitektur awal MIPS adalah 32-bit, dan 64-bit ditambahkan kemudian. Pembaruannya meliputi MIPS I, MIPS II, MIPS III, MIPS IV, MIPS V, MIPS32, dan MIPS64.<ref>{{cite web|url= http://www.imgtec.com/mips/mips32-architecture.asp|title= MIPS32 Architecture|publisher=[[Imagination Technologies]]|accessdate=4 Jan 2014}}</ref><ref>{{cite web|url= http://www.imgtec.com/mips/mips64-architecture.asp|title= MIPS64 Architecture|publisher=[[Imagination Technologies]]|accessdate=4 Jan 2014}}</ref> 
+
+==Referensi==
+{{reflist}}
+
+==Tautan luar==
+{{Wikibooks|MIPS Assembly}}
+* [http://imgtec.com Imagination Technologies]
+* [http://www.imgtec.com/mips/developers/ MIPS Developers] at [[Imagination Technologies]]
+* [http://www.imgtec.com/mips/mips-architectures.asp MIPS Architectures] at [[Imagination Technologies]]
+* [http://www.cs.wisc.edu/~larus/HP_AppA.pdf Patterson & Hennessy - Appendix A]
+* [http://logos.cs.uic.edu/366/notes/MIPS%20Quick%20Tutorial.htm Summary of MIPS assembly language]
+* [http://www.mrc.uidaho.edu/mrc/people/jff/digital/MIPSir.html MIPS Instruction reference]
+* [http://courses.missouristate.edu/KenVollmar/MARS/ MARS (MIPS Assembler and Runtime Simulator)]
+* [http://www.cpu-collection.de/?tn=1&l0=cl&l1=MIPS%20Rx000 MIPS processor images and descriptions at cpu-collection.de]
+* [http://chortle.ccsu.edu/AssemblyTutorial/index.html A programmed introduction to MIPS assembly]
+* [http://www.cs.umd.edu/class/spring2003/cmsc311/Notes/Mips/bitshift.html Mips bitshift operators]
+* [http://www.it.uu.se/edu/course/homepage/datsystDV/ht04/Project/tools/machinedata/4KcProgMan.pdf MIPS software user's manual]
+* [http://meld.org/library/education/mips-architectures MIPS Architecture history diagram]
+
+{{DEFAULTSORT:Mips Architecture}}
+[[Category:Arsitektur set instruksi]]
+[[Category:Teknologi MIPS]]
+[[Kategori:Bahasa perakit]]

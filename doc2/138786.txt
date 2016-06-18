@@ -1,0 +1,57 @@
+Rivalta di Torino
+{{Infobox Italian comune
+| name                = Rivalta di Torino
+| official_name       = Comune di Rivalta di Torino
+| native_name         = 
+| image_skyline       = 
+| imagesize           = 
+| image_alt           = 
+| image_caption       = 
+| image_shield        = 
+| shield_alt          = 
+| image_map           = 
+| map_alt             = 
+| map_caption         = 
+| pushpin_label_position = 
+| pushpin_map_alt     = 
+| latd  = 45 |latm  = 2 |lats  =  |latNS  = N
+| longd = 7 |longm = 31 |longs =   |longEW = E 
+| coordinates_type    = type:city(18,266)_region:IT
+| coordinates_display = title
+| coordinates_footnotes = 
+| region              = [[Piedmont]]
+| province            = [[Provinsi Turin]] (TO)
+| frazioni            = Gerbole, Pasta, Tetti Francesi
+| mayor_party         = 
+| mayor               = Amalia Neirotti
+| area_footnotes      = 
+| area_total_km2      = 25.3
+| population_footnotes = <ref name="istat">All demographics and other statistics: Italian statistical institute [[Istat]].</ref>
+| population_total    = 18800
+| population_as_of    = 30 Oktober 2007
+| pop_density_footnotes = 
+| population_demonym  = Rivaltesi
+| elevation_footnotes = 
+| elevation_m         = 295
+| twin1               = 
+| twin1_country       = 
+| saint               = 
+| day                 = 
+| postal_code         = 10040
+| area_code           = 011
+| website             = {{official|http://www.comune.rivalta.to.it/}}
+| footnotes           = 
+}}
+'''Rivalta di Torino''' adalah komune yang terletak di distrik [[Provinsi Torino]], [[Italia]].
+
+Kota Rivalta di Torino memiliki luas sebesar 25.3&nbsp;km.
+
+Rivalta di Torino pada tahun 2004, memiliki penduduk sebesar 18.266 jiwa.
+
+== Referensi ==
+{{reflist}}
+
+{{Provinsi Torino}}
+
+
+{{Turin-geo-stub}}

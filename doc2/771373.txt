@@ -1,0 +1,85 @@
+Konsonan letup rongga-gigi nirsuara
+{{Infobox IPA
+|ipa number=103
+|decimal=116
+|x-sampa=t
+|kirshenbaum=t
+|braille=t
+|imagefile=
+|imagesize=
+}}
+[[Berkas:Voiceless alveolar plosive.ogg|right]]
+
+'''Konsonan letup rongga-gigi nirsuara''' adalah jenis dari suara [[konsonan rongga-gigi]] yang digunakan dalam berbagai bahasa. Simbol [[Alfabet Fonetis Internasional|IPAnya]] adalah {{IPA|t}}. Dalam [[bahasa Indonesia]] huruf {{IPA|[t]}} terdapat dalam kata seperti ''tantang'' dan ''tepat''.
+
+== Ciri khas ==
+Ciri khas konsonan letup celah-suara:
+* [[Cara artikulasi]] adalah [[oklusif]], yang dihasilkan dengan menyumbat aliran udara sepenuhnya dalam [[sistem vokal]]. Sebagai [[konsonan oral]], aliran udara dihambat sepenuhnya, sehingga merupakan [[konsonan letup]].
+* [[Daerah artikulasi]] adalah [[konsonan rongga-gigi|rongga-gigi]], yang berarti diartikulasi dengan ujung dan daun lidah menyentuh batas gusi atas, masing-masing disebut [[konsonan apikal]] dan [[konsonan laminal]].
+* [[Artikulasi]] adalah [[konsonan nirsuara|nirsuara]], yang dihasilkan tanpa getaran [[pita suara]].
+* Merupakan [[konsonan oral]], yang dihasilkan dengan udara keluar hanya dari mulut.
+* Merupakan [[konsonan madya]], yang dihasilkan dengan mengalirkan udara di tengah lidah, dan bukan di sisi.
+* [[Mekanisme arus udara]] adalah [[egresif]], yang diucapkan dengan mendorong udara dari [[paru-paru]] dan [[diafragma]], seperti kebanyakan suara.
+
+== Kata-kata ==
+{| class="wikitable"
+|-
+! colspan=2 | Bahasa !! Kata !! [[Alfabet Fonetis Internasional|IPA]] !! Arti
+|-align=center
+| colspan=2 |[[Bahasa Adyghe|Adyghe]] || '''''' || {{IPA|[tf]}} || 'lima'
+|-align=center
+| [[Bahasa Arab|Arab]] || [[Bahasa Arab Modern|Baku]] ||  '''''t'''n'' || {{IPA|[tin]}} || 'tin'
+|-align=center
+| colspan=2 |[[Bahasa Belanda|Belanda]] || '''''t'''aal'' || {{IPA|[ta]}} || 'bahasa'
+|-align=center
+| rowspan="3" |[[Rumpun bahasa Tionghoa|Tionghoa]] || [[Kantonis (linguistik)|Kanton]] ||  '''''d'''aan6'' || {{IPA|[tan]}} || 'tapi'
+|-align=center
+| [[Bahasa Mandarin|Mandarin]] ||  '''''d''''' || {{IPA|[ta]]}} || 'besar'
+|-align=center
+| [[Bahasa Yi|Yi]] ||  '''''d'''a'' || {{IPA|[ta]}} || 'tempat'
+|-align=center
+| colspan=2 |[[Bahasa Ceska|Ceska]] || '''''t'''o'''t'''o'' || {{IPA|[toto]}} || 'ini'
+|-align=center
+| colspan=2 |[[Bahasa Finlandia|Finlandia]] || ''par'''t'''a'' || {{IPA|[prt]}} || 'jenggot'
+|-align=center
+| colspan=2 |[[Bahasa Frisia Barat|Frisia Barat]] || '''''t'''osk'' || {{IPA|[tosk]}} || 'gigi'
+|-align=center
+| colspan=2 |[[Bahasa Hongaria|Hongaria]] || '''''t'''u'''t'''aj'' || {{IPA|[tutj]}} || 'rakit'
+|-align=center
+| colspan=2 |[[Bahasa Ibrani|Ibrani]] || '''''' || {{IPA|[tmuna]}} || 'gambar'
+|-align=center
+| colspan=2 |[[Bahasa Inggris|Inggris]] || '''''t'''ick'' || {{IPA|[tk]}} || 'kutu'
+|-align=center
+| colspan=2 |[[Bahasa Jepang|Jepang]] ||  '''''t'''okubetsu'' || {{IPA|[tokbets]}} || 'istimewa'
+|-align=center
+| colspan=2 |[[Bahasa Jerman|Jerman]] || '''''T'''ochter'' || {{IPA|[txt]}} || 'anak perempuan'
+|-align=center
+| colspan=2 |[[Bahasa Kabardia|Kabardia]] || '''''' || {{IPA|[tx]}} || 'lima'
+|-align=center
+| colspan=2 |[[Bahasa Korea|Korea]] ||  '''''t'''eok'' || {{IPA|[tk]}} || 'rahang'
+|-align=center
+| colspan=2 |[[Bahasa Malta|Malta]] || '''''t'''assew'' || {{IPA|[tassew]}} || 'benar'
+|-align=center
+| colspan=2 |[[Bahasa Melayu|Melayu]] || '''''t'''ahun'' || {{IPA|[thon]}} || 'tahun'
+|-align=center
+| colspan=2 |[[Bahasa Neo-Aramaik Asiria|Neo-Aramaik Asiria]] || '''''t'''ma'' || {{IPA|[tma:]}} || 'sini'
+|-align=center
+| colspan=2 |[[Bahasa Norwegia|Norwegia]] || '''''t'''ann'' || {{IPA|[tn]}} || 'gigi'
+|-align=center
+| colspan=2 |[[Bahasa Nunggubuyu|Nunggubuyu]] || colspan=2| [taawa] || 'tamak'
+|-align=center
+| [[Bahasa Portugis|Portugis]] || Beberapa dialek || '''''t'''roo'' || {{IPA|[tsu]}} || 'benda'
+|-align=center
+| colspan=2 |[[Bahasa Slowakia|Slowakia]] || '''''t'''o'' || {{IPA|[to]}} || 'itu'
+|-align=center
+| colspan=2 |[[Bahasa Thai|Thai]] || '''''' '''''t'''a'' || {{IPA|[ta]}} || 'mata'
+|-align=center
+| colspan=2 |[[Bahasa Vietnam|Vietnam]] || '''''t'''i'' || {{IPA|[ti]}} || 'kecacatan'
+|-align=center
+| colspan=2 |[[Bahasa Yunani|Yunani]] || '''''' '''''t'''ria'' || {{IPA|[tria]}} || 'tiga'
+|-align=center
+|}
+
+{{Konsonan tekanan paru-paru}}
+
+[[Kategori:Konsonan]]

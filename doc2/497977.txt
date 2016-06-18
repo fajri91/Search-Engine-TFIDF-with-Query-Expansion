@@ -1,0 +1,37 @@
+Kereta api Fajar Utama Semarang
+{{Kotak info jalur kereta api
+| name        = Kereta api Fajar Utama Semarang
+| image       = Fajar Utama Semarang.jpg
+| image_width = 310
+| logo        = 
+| logo_width  = 310
+| caption     = Kereta api Fajar Utama Semarang
+| type        = Bisnis AC
+| system      = Kereta api ekspres
+| status      = Tidak beroperasi
+| locale      = Daop IV Semarang
+| start       = [[Stasiun Semarang Tawang|Stasiun Semarang Tawang]]
+| end         = [[Stasiun Pasar Senen|Stasiun Pasar Senen]]
+| open        = 19 Agustus 1980
+| close       = 19 Agustus 2014
+| operator = [[Daerah Operasi IV Semarang]]
+| owner = [[PT Kereta Api Indonesia]]
+| depot = Semarang Poncol (SMC), Jatinegara (JNG)
+| map = {{:Kereta api Fajar Utama Semarang/rute}}
+}}
+'''Kereta api Fajar Utama Semarang''' adalah [[kereta api bisnis|kereta kelas bisnis]] yang dioperasikan oleh [[PT Kereta Api Indonesia]] di [[Jawa]] yang melayani rute [[Semarang Tawang]]- [[Pasar Senen]]. Dinamakan Fajar Utama Semarang karena berangkat dari [[Stasiun Semarang Tawang|Semarang Tawang]] atau [[Stasiun Pasar Senen|Pasar Senen]] pada pagi hari. Kereta ini melewati beberapa stasiun besar antara lain, [[Stasiun Pekalongan]], [[Stasiun Cirebon]], dan [[Stasiun Jatibarang]]. 
+
+Mulai 19 Agustus 2014, KA ini bersama dengan [[Kereta api Senja Utama Semarang|KA Senja Utama Semarang]] resmi dihentikan operasionalnya dan tugasnya untuk melayani rute Semarang Tawang-Pasar Senen digantikan sepenuhnya dengan [[kereta api Menoreh]].
+
+== Lihat pula ==
+* [[Kereta Api (perusahaan)|PT Kereta Api (Persero)]]
+* [[Kereta api bisnis]]
+
+== Pranala luar ==
+* {{id}} [http://www.kereta-api.co.id Situs web resmi PT Kereta Api Indonesia]
+
+{{DaftarKeretaApi}}
+{{kereta-stub}}
+
+[[Kategori:Kereta api di Indonesia|Fajar Utama Semarang]]
+[[Kategori:Kereta api Bisnis|Fajar Utama Semarang]]

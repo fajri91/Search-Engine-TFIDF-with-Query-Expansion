@@ -1,0 +1,47 @@
+Quiers
+{{Infobox French commune|
+name=Quiers|
+image_map = France_jms.png|
+x = 150|
+y = 80|
+lat_long={{coord|48|36|29|N|2|58|15|E}}|
+insee=77381|
+postal_code=77720|
+region=[[le-de-France (region)|le-de-France]]|
+department=[[Seine-et-Marne]]|
+arrondissement=Melun|
+canton=[[Kanton Mormant|Mormant]]|
+mayor=Monique Potterie|
+term=2008-2014|
+intercomm=''tidak ada pada 2007''|
+elevation_min_m=108|
+elevation_max_m=126|
+area_km2=11.91|
+population=583|
+date-population=1999|
+density_km2=49|
+date-density=1999}}
+
+'''Quiers''' merupakan sebuah [[komune di Perancis|komune]] di [[departemen di Perancis|departemen]] [[Seine-et-Marne]] di [[region di Perancis|region]] [[le-de-France (region)|le-de-France]] di utara-tengah [[Perancis]].
+
+"Quiers" juga bahasa Perancis bagi kota "Chieri" di Piedmont; sementara Chieri dimasukkan dalam Kekaisaran Napoleon Perancis, nama Perancisnya digunakan sebelumnya (contohnya ada di peta Guillaume de l'Isle yang dibuat oleh l'Acadmie Royale des sciences pada tahun 1707).
+
+== Demografi ==
+Pada [[sensus]] 1999, penduduknya berjumlah 583 jiwa.
+
+Penduduknya disebut sebagai ''Quierois''.
+
+== Lihat pula ==
+* [[Komune di departemen Seine-et-Marne]]
+
+== Pranala luar ==
+* [http://www.iaurif.org/en/gis/fichescom/mos99/ficmos/mos77381.html 1999 Land Use, from IAURIF (Institute for Urban Planning and Development of the Paris-le-de-France rgion] {{en}}
+* [http://www.viamichelin.co.uk/viamichelin/gbr/dyn/controller/mapPerformPage?strAddress=&strCP=77720&strLocation=Quiers&strCountry=1424&image2.x=28&image2.y=7 Map of Quiers on Michelin] {{en}}
+
+{{Komune di Seine-et-Marne}}
+
+[[Kategori:Komune di Seine-et-Marne]]
+[[Kategori:Komune di Perancis]]
+
+
+{{SeineMarne-geo-stub}}

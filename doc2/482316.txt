@@ -1,0 +1,42 @@
+Daftar maskapai penerbangan Burkina Faso
+Ini adalah daftar maskapai penerbangan yang memiliki [[Sertifikat Operator Udara]] yang dikeluarkan oleh [[Otoritas Penerbangan Sipil]] [[Burkina Faso]].
+
+{|  class="wikitable sortable" style="border: 0; cellpadding: 2; cellspacing: 3;"
+|- valign="middle"
+! [[Maskapai penerbangan]]
+! [[Kode maskapai penerbangan IATA|IATA]]
+! [[Kode maskapai penerbangan ICAO|ICAO]]
+! [[Tanda panggil]]
+! Bandar Udara Penghubung
+! class="unsortable"|Catatan
+</noinclude>
+|-
+|[[Air Burkina]]
+|2J
+|VBW
+|BURKINA
+|[[Bandar Udara Ouagadougou]]
+|
+|-
+|[[Celestair]]
+|
+|
+|
+|[[Bandar Udara Ouagadougou]]
+|
+|-
+|[[Faso Airways]]
+|F3
+|FSW
+|FASO
+|[[Bandar Udara Ouagadougou]]
+|
+<noinclude>
+|}
+
+== Lihat pula ==
+* [[Daftar maskapai penerbangan]]
+
+{{maskapai-stub}}
+
+[[Kategori:Maskapai penerbangan Burkina Faso|*]]

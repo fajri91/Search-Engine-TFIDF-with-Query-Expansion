@@ -1,0 +1,85 @@
+Hyundai i40
+{{Infobox automobile
+| image = [[File:Hyundai i40cw 2.0 GDI Premium  Frontansicht, 25. Februar 2012, Dsseldorf.jpg|250px]]
+| name = Hyundai i40
+| manufacturer = [[Hyundai Motor Company]]
+| aka =
+| production = 2011-sekarang
+| model_years = 2012-sekarang
+| assembly = 
+| engine = 1.6&nbsp;L ''[[Mesin Gamma Hyundai|Gamma]]'' [[Gasoline direct injection|''GDI'']] [[4 segaris|I4]] 133 hp<br />2.0&nbsp;L ''[[Mesin Nu Hyundai|Nu]]'' [[4 segaris|I4]] 164 hp<br />2.0&nbsp;L ''[[Mesin Nu Hyundai|Nu]]'' [[Gasoline direct injection|''GDI'']] [[4 segaris|I4]] 174 hp<ref name="specs">{{cite web|url=http://www.hyundai.com.au/Vehicles/i40/Specification-Range |title=2012 i40 Specs |publisher=Hyundai |accessdate=2012-02-15}}</ref><br /> 1.7&nbsp;L ''[[Mesin Nu Hyundai|Nu]]'' [[CRDI]] [[4 segaris|I4]] [[mesin diesel|diesel]] 134hp
+| transmission = 6-speed [[automatic transmission|otomatis]]<br />6-speed [[manual transmission|manual]]
+| length = {{convert|4770|mm|in|1|abbr=on}}
+| width = {{convert|1815|mm|in|1|abbr=on}}
+| height = {{convert|1470|mm|in|1|abbr=on}}
+| weight = {{convert|1470|kg|lb|0|abbr=on}} - {{convert|1595|kg|lb|0|abbr=on}} <small>bensin)</small><br /> {{convert|1495|kg|lb|0|abbr=on}} - {{convert|1659|kg|lb|0|abbr=on}} <small>(Diesel)</small>
+| wheelbase = {{convert|2770|mm|in|1|abbr=on}}
+| class = [[mobil keluarga besar]]
+| body_style = [[Sedan]] 4 pintu<br /> Estate/[[station wagon]] 5 pintu
+| predecessor = [[Hyundai Sonata]] (hanya di Eropa, di pasar lain Sonata dijual bersama dengan i40)
+| layout = [[FF layout]]
+| related = [[Hyundai Sonata]]
+}}
+
+'''Hyundai i40''' adalah [[mobil keluarga besar]] yang didesain untuk pasar Eropa dan diproduksi oleh [[Hyundai Motor Company]]. Menggunakan ''platform'' yang sama dengan [[Hyundai Sonata]],<ref>{{cite web|url=http://www.autocar.co.uk/CarReviews/FirstDrives/Hyundai-i40-Development-drive/254509/ |title=Autocar 8 December 2010 |publisher=Autocar.co.uk |date= |accessdate=2011-03-03}}</ref> i40 diluncurkan setelah [[Geneva Motor Show]] 2011, dengan model awal [[Station wagon|estate]] dan [[Sedan]].
+
+===Mesin===
+{| class="wikitable sortable collapsible"
+|+Mesin bensin
+!Model!!Tahun!!Tipe/kode!!Tenaga @ rpm, Torsi @ rpm
+|-
+|Gamma 1.6 GDi||2011-||{{convert|1591|cc|abbr=on}} I4 (1.6 Gamma GDi)|| {{convert|135|PS|kW hp|0|abbr=on}}@6300, {{convert|16.8|kgm|0|abbr=on}}@4850
+|-
+|Nu 2.0 GDi (sedan)||?||{{convert|1999|cc|abbr=on}} I4 (2.0 NU GDi)|| {{convert|178|PS|kW hp|0|abbr=on}}@6500, {{convert|21.7|kgm|0|abbr=on}}@4700
+|-
+|Nu 2.0 GDi (Estate)||2011-||{{convert|1999|cc|abbr=on}} I4 (2.0 NU GDi)|| {{convert|177|PS|kW hp|0|abbr=on}}@6500, {{convert|21.7|kgm|0|abbr=on}}@4700
+|-
+|Nu 2.0 MPi (sedan)||?||{{convert|1999|cc|abbr=on}} I4 (2.0 NU GDi)|| {{convert|167|PS|kW hp|0|abbr=on}}@6500, {{convert|20.5|kgm|0|abbr=on}}@4800
+|-
+|Nu 2.0 MPi (Estate)||2011-||{{convert|1999|cc|abbr=on}} I4 (2.0 NU GDi)|| {{convert|166|PS|kW hp|0|abbr=on}}@6500, {{convert|20.4|kgm|0|abbr=on}}@4700
+|}
+
+{| class="wikitable sortable collapsible"
+|+Mesin diesel
+!Model!!Tahun!!Tipe/kode!!Tenaga @ rpm, Torsi @ rpm
+|-
+|UII 1.7 CRDi (Low)||2011-||{{convert|1685|cc|abbr=on}} I4 (1.7 U II CRDi)|| {{convert|115|PS|kW hp|0|abbr=on}}@4000, {{convert|26.5|kgm|0|abbr=on}}@1250-2750
+|-
+|UII 1.7 CRDi (High) 6 Speed Manual FWD||2011-||{{convert|1685|cc|abbr=on}} I4 (1.7 U II CRDi)|| {{convert|136|PS|kW hp|0|abbr=on}}@4000, {{convert|33.7|kgm|0|abbr=on}}@2000-2500
+|-
+|UII 1.7 CRDi (High) 6 Speed Automatic FWD||2011-||{{convert|1685|cc|abbr=on}} I4 (1.7 U II CRDi)|| {{convert|136|PS|kW hp|0|abbr=on}}@4000, {{convert|32.6|kgm|0|abbr=on}}@2000-2500
+|}
+
+====Transmisi====
+{| class="wikitable sortable collapsible"
+|+Mesin bensin
+!Model!!Tahun!!Tipe
+|-
+|Gamma 1.6 GDi||2011-||6-speed manual
+|-
+|Nu 2.0 GDi||2011-||6-speed manual, 6-speed otomatis
+|-
+|Nu 2.0 MPi||2011?-||6-speed manual, 6-speed otomatis
+|}
+
+{| class="wikitable sortable collapsible"
+|+Mesin diesel
+!Model!!Tahun!!Tipe
+|-
+|UII 1.7 CRDi (Low)||2011-||6-speed manual
+|-
+|UII 1.7 CRDi (High)||2011-||6-speed manual, 6-speed otomatis
+|}
+
+
+==Referensi==
+{{reflist}}
+
+==Pranala luar==
+*Hyundai pages: [http://worldwide.hyundai.com/WW/Showroom/Cars/i40/PIP/index.html world (wagon)], [http://worldwide.hyundai.com/WW/Showroom/Cars/i40/PIP/index.html world (sedan)], [http://www.hyundai-car.co.uk/newCars/i40/ UK], [http://i40.hyundai.com/ Korea]
+
+{{Hyundai Motor Company}}
+{{DEFAULTSORT:Hyundai I40}}
+[[Kategori:Kendaraan Hyundai|I40]]
+[[Kategori:Sedan]]
+[[Kategori:Station wagon]]

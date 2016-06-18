@@ -1,0 +1,198 @@
+Croatian Indoors 1997  Ganda
+{{Tennis events 2|1997|Croatian Indoors|
+ | defchamp = {{flagicon|NED}} [[Menno Oosting]] <br /> {{flagicon|BEL}} [[Libor Pimek]]
+ | champ  = {{flagicon|CRO}} [[Sasa Hirszon]] <br /> {{flagicon|CRO}} [[Goran Ivanievi]]
+ | runner = {{flagicon|RSA}} [[Brent Haygarth]] <br /> {{flagicon|USA}} [[Mark Keil]]
+ | score  = 64, 63
+}}
+[[Menno Oosting]] dan [[Libor Pimek]] merupakan juara bertahan tahun ini, akan tetapi mereka berkompetisi dengan pasangan yang berbeda. Jika Oosting berpasangan dengan [[David Adams (tenis)|David Adams]], maka Pimek berpasangan dengan [[Peter Nyborg]].
+
+Hasil yang mereka raih pun cukup sama. Pasangan Oosting dan Adams kalah di putaran pertama melawan [[Patrik Fredriksson]] dan [[Kenny Thorne]], dan pasangan Pimek dan Nyborg dikalahkan juara tahun ini, [[Sasa Hirszon]] dan [[Goran Ivanievi]].
+
+Kemudian, Hirszon dan Ivanievi menjadi juara setelah mengalahkan [[Brent Haygarth]] dan [[Mark Keil]] dengan skor yang cukup meyakinkan, yaitu 6-4, 6-3.
+
+== Unggulan ==
+#{{flagicon|RSA}} [[David Adams (tenis)|David Adams]] / {{flagicon|NED}} [[Menno Oosting]] ''(Putaran Pertama)
+#{{flagicon|SWE}} [[Peter Nyborg]] / {{flagicon|BEL}} [[Libor Pimek]] ''(Putaran Pertama)
+#{{flagicon|NED}} [[Sjeng Schalken]] / {{flagicon|NED}} [[Jan Siemerink]] ''(Semifinal)
+#{{flagicon|USA}} [[Donald Johnson]] / {{flagicon|USA}} [[Francisco Montana]] ''(Putaran Pertama)
+
+== Hasil pengundian ==
+{{Draw key}}
+{{16TeamBracket-Compact-Tennis3
+| RD1=Babak Penyisihan
+| RD2=Perempatfinal
+| RD3=Semifinal
+| RD4=Final
+
+| RD1-seed01=1
+| RD1-team01={{flagicon|RSA}} [[David Adams (tenis)|D Adams]]<br />&nbsp;{{flagicon|NED}} [[Menno Oosting|M Oosting]]
+| RD1-score01-1=2
+| RD1-score01-2=6
+| RD1-score01-3=&nbsp;
+| RD1-seed02=Q
+| RD1-team02={{flagicon|SWE}} '''[[Patrik Fredriksson|P Fredriksson]]'''<br />&nbsp;{{flagicon|USA}} '''[[Kenny Thorne|K Thorne]]'''
+| RD1-score02-1='''6
+| RD1-score02-2='''7
+| RD1-score02-3=&nbsp;
+
+| RD1-seed03=WC
+| RD1-team03={{flagicon|CRO}} [[Mario Ani|M Ani]]<br />&nbsp;{{flagicon|CRO}} [[Ivo Karlovi|I Karlovi]]
+| RD1-score03-1='''6
+| RD1-score03-2=2
+| RD1-score03-3=6
+| RD1-seed04=&nbsp;
+| RD1-team04={{flagicon|RSA}} '''[[Brent Haygarth|B Haygarth]]'''<br />&nbsp;{{flagicon|USA}} '''[[Mark Keil|M Keil]]'''
+| RD1-score04-1=2
+| RD1-score04-2='''6
+| RD1-score04-3='''7
+
+| RD1-seed05=3
+| RD1-team05={{flagicon|NED}} '''[[Sjeng Schalken|S Schalken]]'''<br />&nbsp;{{flagicon|NED}} '''[[Jan Siemerink|J Siemerink]]'''
+| RD1-score05-1='''6
+| RD1-score05-2='''6
+| RD1-score05-3=&nbsp;
+| RD1-seed06=&nbsp;
+| RD1-team06={{flagicon|NED}} [[Tom Kempers|T Kempers]]<br />&nbsp;{{flagicon|NED}} [[Tom Nijssen|T Nijssen]]
+| RD1-score06-1=4
+| RD1-score06-2=4
+| RD1-score06-3=&nbsp;
+
+| RD1-seed07=WC
+| RD1-team07={{flagicon|CRO}} '''[[Goran Oresic|G Oresic]]'''<br />&nbsp;{{flagicon|CRO}} '''[[Mario Tudor|M Tudor]]'''
+| RD1-score07-1='''6
+| RD1-score07-2='''6
+| RD1-score07-3=&nbsp;
+| RD1-seed08=WC
+| RD1-team08={{flagicon|CRO}} [[Josip Dumanic|J Dumanic]]<br />&nbsp;{{flagicon|CRO}} [[Igor Saric|I Saric]]
+| RD1-score08-1=2
+| RD1-score08-2=1
+| RD1-score08-3=&nbsp;
+
+| RD1-seed09=&nbsp;
+| RD1-team09={{flagicon|NED}} '''[[Stephen Noteboom|S Noteboom]]'''<br />&nbsp;{{flagicon|NED}} '''[[Fernon Wibier|F Wibier]]'''
+| RD1-score09-1='''7
+| RD1-score09-2='''6
+| RD1-score09-3=&nbsp;
+| RD1-seed10=&nbsp;
+| RD1-team10={{flagicon|ITA}} [[Cristian Brandi|C Brandi]]<br />&nbsp;{{flagicon|MKD}} [[Aleksandar Kitinov|A Kitinov]]
+| RD1-score10-1=6
+| RD1-score10-2=4
+| RD1-score10-3=&nbsp;
+
+| RD1-seed11=&nbsp;
+| RD1-team11={{flagicon|ESP}} '''[[Toms Carbonell|T Carbonell]]'''<br />&nbsp;{{flagicon|ARG}} '''[[Javier Frana|J Frana]]'''
+| RD1-score11-1='''6
+| RD1-score11-2='''6
+| RD1-score11-3=&nbsp;
+| RD1-seed12=4
+| RD1-team12={{flagicon|USA}} [[Donald Johnson|D Johnson]]<br />&nbsp;{{flagicon|USA}} [[Francisco Montana|F Montana]]
+| RD1-score12-1=3
+| RD1-score12-2=2
+| RD1-score12-3=&nbsp;
+
+| RD1-seed13=&nbsp;
+| RD1-team13={{flagicon|ESP}} [[Jose Antonio Conde (tenis)|J A Conde]]<br />&nbsp;{{flagicon|ESP}} [[Javier Snchez|J Snchez]]
+| RD1-score13-1=3
+| RD1-score13-2=5
+| RD1-score13-3=&nbsp;
+| RD1-seed14=&nbsp;
+| RD1-team14={{flagicon|RSA}} '''[[Marius Barnard (tenis)|M Barnard]]'''<br />&nbsp;{{flagicon|NED}} '''[[Hendrik Jan Davids|H J Davids]]'''
+| RD1-score14-1='''6
+| RD1-score14-2='''7
+| RD1-score14-3=&nbsp;
+
+| RD1-seed15=&nbsp;
+| RD1-team15={{flagicon|CRO}} '''[[Sasa Hirszon|S Hirszon]]'''<br />&nbsp;{{flagicon|CRO}} '''[[Goran Ivanievi|G Ivanievi]]
+| RD1-score15-1=6
+| RD1-score15-2='''7
+| RD1-score15-3='''6
+| RD1-seed16=2
+| RD1-team16={{flagicon|SWE}} [[Peter Nyborg|P Nyborg]]<br />&nbsp;{{flagicon|BEL}} [[Libor Pimek|L Pimek]]
+| RD1-score16-1='''7
+| RD1-score16-2=6
+| RD1-score16-3=4
+
+| RD2-seed01=Q
+| RD2-team01={{flagicon|SWE}} [[Patrik Fredriksson|P Fredriksson]]<br />&nbsp;{{flagicon|USA}} [[Kenny Thorne|K Thorne]]
+| RD2-score01-1=3
+| RD2-score01-2=4
+| RD2-score01-3=&nbsp;
+| RD2-seed02=&nbsp;
+| RD2-team02={{flagicon|RSA}} '''[[Brent Haygarth|B Haygarth]]'''<br />&nbsp;{{flagicon|USA}} '''[[Mark Keil|M Keil]]'''
+| RD2-score02-1='''6
+| RD2-score02-2='''6
+| RD2-score02-3=&nbsp;
+
+| RD2-seed03=3
+| RD2-team03={{flagicon|NED}} '''[[Sjeng Schalken|S Schalken]]'''<br />&nbsp;{{flagicon|NED}} '''[[Jan Siemerink|J Siemerink]]'''
+| RD2-score03-1='''6
+| RD2-score03-2='''7
+| RD2-score03-3=&nbsp;
+| RD2-seed04=WC
+| RD2-team04={{flagicon|CRO}} [[Goran Oresic|G Oresic]]<br />&nbsp;{{flagicon|CRO}} [[Mario Tudor|M Tudor]]
+| RD2-score04-1=2
+| RD2-score04-2=5
+| RD2-score04-3=&nbsp;
+
+| RD2-seed05=&nbsp;
+| RD2-team05={{flagicon|NED}} '''[[Stephen Noteboom|S Noteboom]]'''<br />&nbsp;{{flagicon|NED}} '''[[Fernon Wibier|F Wibier]]'''
+| RD2-score05-1='''7
+| RD2-score05-2=3
+| RD2-score05-3='''6
+| RD2-seed06=&nbsp;
+| RD2-team06={{flagicon|ESP}} [[Toms Carbonell|T Carbonell]]<br />&nbsp;{{flagicon|ARG}} [[Javier Frana|J Frana]]
+| RD2-score06-1=6
+| RD2-score06-2='''6
+| RD2-score06-3=3
+
+| RD2-seed07=&nbsp;
+| RD2-team07={{flagicon|RSA}} [[Marius Barnard (tenis)|M Barnard]]<br />&nbsp;{{flagicon|NED}} [[Hendrik Jan Davids|H J Davids]]
+| RD2-score07-1=4
+| RD2-score07-2=6
+| RD2-score07-3=&nbsp;
+| RD2-seed08=&nbsp;
+| RD2-team08={{flagicon|CRO}} '''[[Sasa Hirszon|S Hirszon]]'''<br />&nbsp;{{flagicon|CRO}} '''[[Goran Ivanievi|G Ivanievi]]'''
+| RD2-score08-1='''6
+| RD2-score08-2='''7
+| RD2-score08-3=&nbsp;
+
+| RD3-seed01=&nbsp;
+| RD3-team01={{flagicon|RSA}} '''[[Brent Haygarth|B Haygarth]]'''<br />&nbsp;{{flagicon|USA}} '''[[Mark Keil|M Keil]]'''
+| RD3-score01-1='''6
+| RD3-score01-2='''7
+| RD3-score01-3=&nbsp;
+| RD3-seed02=3
+| RD3-team02={{flagicon|NED}} [[Sjeng Schalken|S Schalken]]<br />&nbsp;{{flagicon|NED}} [[Jan Siemerink|J Siemerink]]
+| RD3-score02-1=3
+| RD3-score02-2=6
+| RD3-score02-3=&nbsp;
+
+| RD3-seed03=&nbsp;
+| RD3-team03={{flagicon|NED}} [[Stephen Noteboom|S Noteboom]]<br />&nbsp;{{flagicon|NED}} [[Fernon Wibier|F Wibier]]
+| RD3-score03-1=4
+| RD3-score03-2=4
+| RD3-score03-3=&nbsp;
+| RD3-seed04=&nbsp;
+| RD3-team04={{flagicon|CRO}} '''[[Sasa Hirszon|S Hirszon]]'''<br />&nbsp;{{flagicon|CRO}} '''[[Goran Ivanievi|G Ivanievi]]'''
+| RD3-score04-1='''6
+| RD3-score04-2='''6
+| RD3-score04-3=&nbsp;
+
+| RD4-seed01=&nbsp;
+| RD4-team01={{flagicon|RSA}} [[Brent Haygarth]]<br />&nbsp;{{flagicon|USA}} [[Mark Keil]]
+| RD4-score01-1=4
+| RD4-score01-2=3
+| RD4-score01-3=&nbsp;
+| RD4-seed02=&nbsp;
+| RD4-team02={{flagicon|CRO}} '''[[Sasa Hirszon]]'''<br />&nbsp;{{flagicon|CRO}} '''[[Goran Ivanievi]]'''
+| RD4-score02-1='''6
+| RD4-score02-2='''6
+| RD4-score02-3=&nbsp;
+}}
+
+== Referensi ==
+* [http://www.atpworldtour.com/Share/Event-Draws.aspx?e=322&y=1997&t=d Hasil Pengundian Croatian Indoors 1997]
+
+[[Kategori:PBZ Zagreb Indoors|Ganda]]
+[[Kategori:ATP Tour musim 1997|Ganda]]

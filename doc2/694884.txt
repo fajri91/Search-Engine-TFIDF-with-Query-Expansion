@@ -1,0 +1,17 @@
+CryoSat
+'''CryoSat''' adalah sebuah program ESA yang akan memantau variasi dalam luas dan ketebalan es di kutub melalui penggunaan satelit di orbit Bumi rendah. Informasi yang diberikan tentang perilaku gletser pesisir yang menguras lapisan es menipis akan menjadi kunci untuk prediksi yang lebih baik dari kenaikan permukaan laut pada masa depan. Pesawat ruang angkasa CryoSat-1 hilang dalam kegagalan peluncuran pada tahun 2005, namun program ini dilanjutkan dengan peluncuran sukses pengganti, CryoSat-2, diluncurkan pada tanggal 8 April 2010.
+
+CryoSat dioperasikan dari European Space Operations Centre (ESOC) di Darmstadt, Jerman.
+
+== Referensi ==
+{{Reflist}}
+* [http://news.bbc.co.uk/1/hi/sci/tech/4381840.stm  Cryosat rocket fault laid bare]
+* [http://www.esa.int/esaLP/ESAOMH1VMOC_LPcryosat_0.html CryoSat pages at ESA]
+* [http://www.esa.int/SPECIALS/Operations/SEM36Z8L6VE_0.html CryoSat-2 page at ESA Spacecraft Operations]
+* [http://news.bbc.co.uk/2/hi/science/nature/4704597.stm  "Ice mission almost set for launch"]  By Helen Briggs, BBC News, 22 July 2005
+* [http://abc.net.au/science/news/enviro/EnviroRepublish_1478409.htm Why did Cryosat crash?] Australian Broadcasting Company's The Lab Cryosat story
+* [http://www.exploration-space.com/19-apr-2007-esa-1.html Cryosat-2: Scientists and Polar Explorers Collect Vital Support Data.]
+* [http://www.nature.com/news/2007/071130/full/news.2007.315.html Nature] article ''The salt flat with curious curves'' says "the salt flat is also being used for [[Envisat]], a European satellite, and could be used to calibrate future orbiters such as Cryosat-2"
+
+[[Kategori:Radar angkasa]]
+[[Kategori:Badan Antariksa Eropa]]

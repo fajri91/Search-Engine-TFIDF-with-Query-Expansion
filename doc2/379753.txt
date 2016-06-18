@@ -1,0 +1,19 @@
+Templat:Serai Serumpun, Tebo
+{{Navigasi ID Desa
+|nama kecamatan=Serai Serumpun
+|dati2=Kabupaten 
+|nama dati2=Tebo
+|provinsi=Jambi
+|d1= Bukit Pemuatan
+|d2= Napal Putih
+|d3= Pagar Puding Lamo
+|d4= Pinang Belai
+|d5= Sako Makmur
+|d6= Sekutur Jaya
+|d7= Tanjung Aur Seberang
+|d8= Teluk Melintang
+}}
+<noinclude>
+[[Kategori:Templat desa/kelurahan di Jambi]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Tebo]]
+</noinclude>

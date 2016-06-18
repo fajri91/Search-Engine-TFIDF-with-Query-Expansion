@@ -1,0 +1,23 @@
+Bantuan:Berkas/tabel
+<noinclude>{| class="wikitable plainlinks" width="100%"</noinclude>
+|- valign="top"
+| style="font-size: 95%" |
+{{#if:{{{ex|}}}|{{{ex}}}|{{{frame|}}}}}
+| style="font-size: 95%" |
+ Menampilkan gambar pada artikel
+ Anda di Wikipedia itu mudah!
+ Ini adalah sebuah contoh 
+ penampilan gambar di Wikipedia,
+ <font color="green"><nowiki>[[</nowiki>{{ns:image}}:{{mediawiki:image_sample}}{{#if:{{{frame|}}}|{{!}}'''{{{frame}}}'''}}{{#if:{{{2|}}}|{{!}}'''{{{2}}}'''}}{{#if:{{{caption|}}}|{{#ifeq:{{{caption}}}|none| |{{!}}{{{caption}}}}}|{{!}}judul}}]]</font>
+ sesuai dengan format yang telah
+ ditentukan. Anda dapat
+ menggunakan gambar atau foto
+ buatan Anda sendiri, menggunakan
+ gambar yang telah ada, ataupun
+ menggunakan gambar dari gudang
+ Wikimedia Commons.
+| style="font-size: 95%" | 
+Menampilkan gambar pada artikel Anda di Wikipedia itu mudah! Ini adalah sebuah contoh penampilan gambar di Wikipedia,
+[[{{ns:image}}:{{mediawiki:image_sample}}|{{{frame|}}}|{{{2|}}}|{{#if:{{{caption|}}}|{{#ifeq:{{{caption}}}|none| |{{{caption}}}}}|judul}}]]
+sesuai dengan format yang telah ditentukan. Anda dapat menggunakan gambar atau foto buatan Anda sendiri, menggunakan gambar yang telah ada, ataupun menggunakan gambar dari gudang Wikimedia Commons.
+<noinclude>|}</noinclude>

@@ -1,0 +1,41 @@
+Templat:Manyak Payed, Aceh Tamiang
+{{Navigasi ID Desa
+|provinsi=Aceh
+|dati2=Kabupaten
+|nama dati2=Aceh Tamiang
+|nama kecamatan=Manyak Payed
+|g1=Alue Ie Puteh
+|g2=Alue Sentang
+|g3=Buket Panjang I
+|g4=Buket Panjang II
+|g5=Buket Paya
+|g6=Dagang Setia
+|g7=Gelanggang Merak
+|g8=Geudham
+|g9=Ie Bintah
+|g10=Kasih Sayang
+|g11=Krueng Sikajang
+|g12=Lhok Medang Ara
+|g13=Lueng Manyo
+|g14=Matang Ara Aceh
+|g15=Matang Ara Jawa
+|g16=Matang Cincin
+|g17=Mesjid
+|g18=Meunasah Paya
+|g19=Meurandeh
+|g20=Pahlawan
+|g21=Paya Ketenggar
+|g22=Raja Tuha
+|g23=Sampaimah
+|g24=Seuneubok Baru
+|g25=Seuneubok Cantek
+|g26=Seuneubok Pidie
+|g27=Seuneubok Punti
+|g28=Simpang Lhee
+|g29=Tanjung Neraca
+|g30=Ujong Tanjong
+|k1=Tualang Baru
+}}<noinclude>
+[[Kategori:Templat desa/kelurahan di Aceh|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Aceh Tamiang|{{PAGENAME}}]]
+</noinclude>

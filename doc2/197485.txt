@@ -1,0 +1,12 @@
+Penyimpanan magnetik
+[[Berkas:Hard disk head crash.jpg|thumb|Read-write head pada suatu penyimpan magnetik, hard disk]]
+
+'''Penyimpanan magnetik''' ({{lang-en|Magnetic disk}}) merupakan piranti penyimpanan sekunder yang paling banyak dijumpai pada sistem [[komputer]] modern. Pada saat disk digunakan, ''motor drive'' berputar dengan kecepatan yang sangat tinggi. Ada sebuah ''readwrite head'' yang ditempatkan di atas permukaan piringan tersebut. Permukaan disk terbagi atas beberapa ''track'' yang masih terbagi lagi menjadi beberapa sektor. Cakram ''fixedhead'' memiliki satu ''head'' untuk tiaptiap ''track'', sedangkan cakram ''movinghead'' (atau sering dikenal dengan nama [[cakram keras]] ) hanya memiliki satu ''head'' yang harus dipindahpindahkan untuk mengakses dari satu ''track'' ke ''track'' yang lainnya.
+
+{{komputer-stub}}
+
+[[Kategori:Istilah komputer]]
+[[Kategori:Media penyimpanan data komputer]]
+[[Kategori:Peralatan magnetik]]
+
+[[fr:Bande magntique]]

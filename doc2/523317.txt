@@ -1,0 +1,59 @@
+Franc Rwanda
+{{Infobox Currency
+|currency_name_in_local=franc rwandais <small>{{fr icon}}</small><br/>Ifaranga y'u Rwanda <small>{{rw icon}}</small>
+|image_1=Rwanda francs.jpg
+|image_title_1=Uang kertas Franc Rwanda
+|iso_code=RWF
+|using_countries={{RWA}}
+|inflation_rate=15,4%
+|inflation_source_date=''[https://www.cia.gov/library/publications/the-world-factbook/fields/2092.html The World Factbook]'', 2008 est.
+|subunit_ratio_1=1/100
+|subunit_name_1=[[centime]]
+|symbol=FRw, RF, R
+|used_coins=1, 2, 5, 10, 20, 50 and 100 <ref>Worldcoinnews.blogspot.com. "[http://worldcoinnews.blogspot.com/2008/08/rwanda-100-francs-2007_3807.html Rwandan francs]."</ref>franc
+|used_banknotes=500, 1000, 2000, 5000 franc
+|issuing_authority=[[Bank Nasional Rwanda]]
+|issuing_authority_website=www.bnr.rw
+}}
+'''[[Franc]] [[Rwanda]]'''<ref name="NBRlt"/> ([[currency sign|sign]]: '''FRw''',<ref name="NBRcc">National Bank of Rwanda. "[http://www.bnr.rw/currency/currencycharacteristics.aspx Currency characteristics]." Diakses 25 Februari 2011.</ref> atau RF<ref>University of British Columbia: Saunders School of Business. "[http://fx.sauder.ubc.ca/currency_table.html Currencies of the World]." Diakses 25 Februari 2011.</ref> atau R;<ref>Lonely Planet. "[http://www.lonelyplanet.com/rwanda Rwanda]." Diakses 25 Februari 2011.</ref> [[ISO 4217]]: '''RWF''') adalah [[mata uang]] [[Rwanda]]. Mata uang ini terbagi menjadi 100 centime.<ref name="NBRlt">National Bank of Rwanda. "[http://www.bnr.rw/currency/legaltender.aspx Legal tender]." Accessed 2011-02-25.</ref>
+
+== Sejarah ==
+Franc menjadi mata uang Rwanda semenjak tahun 1916, ketika Belgium menduduki Rwanda yang sebelumnya merupakan jajahan Jerman, sehingga [[Franc Kongo|Franc Kongo Belgia]] menggantikan [[Rupie Afrika Timur Jerman]]. Rwanda menggunakan mata uang Kongo Belgia hingga tahun 1960, ketika [[franc Rwanda dan Burundi]] diperkenalkan. Rwanda mulai menerbitkan francnya sendiri pada tahun 1964.
+
+Terdapat rencana untuk memperkenalkan [[shilling Afrika Timur]] di lima negara anggota [[Komunitas Afrika Timur]] pada akhir tahun 2012.<ref name=shilling>{{cite web|url=http://af.reuters.com/article/kenyaNews/idAFLDE65T2AJ20100701?sp=true|title=East African common market begins|first=Duncan|last=Miriri|date=2010-07-01|publisher=[[Reuters]]|location=[[Nairobi|Nairobi, Kenya]]|accessdate=2011-07-12|quote=The ultimate goal of the bloc is to have a common currency in 2012}}</ref>
+
+== Koin ==
+*1 franc - 98% Aluminium,  2% [[Magnesium]]
+*5 franc - Perunggu
+*10 franc - Perunggu
+*20 franc - [[Nikel]] berlapis [[besi]]
+*50 franc - [[Nikel]] berlapis [[besi]]
+*100 franc - Nikel berlapis cincin besi dan tembaga berlapis besi
+
+== Uang kertas ==
+* 100 franc
+* 500 franc
+* 1000 franc
+* 2000 franc
+* 5000 franc
+
+== Nilai tukar historis ==
+*262,20 (1995)
+*393,44 (2000)
+*574,62 (2004) 
+*610 (2005)
+*560 (2006)
+*553 (2007)
+*570 (2010)
+{{Exchange Rate|RWF}}
+
+== Referensi ==
+{{Reflist}}
+{{sourcesstart}}
+*{{numis cite SCWC|date=1991}}
+*{{numis cite SCWPM|date=1994}}
+{{sourcesend}}
+
+{{ekonomi-stub}}
+[[Kategori:Ekonomi Rwanda]]
+[[Kategori:Mata uang]]

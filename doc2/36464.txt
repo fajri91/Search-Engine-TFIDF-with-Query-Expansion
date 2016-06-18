@@ -1,0 +1,35 @@
+Tassili Airlines
+{{Infobox Airline
+| airline        = Tassili Airlines
+| logo           = Tassili Airlines logo.png
+| logo_size      = 200px
+| fleet_size     = 11
+| destinations   = 8 <small>(dijadwalkan)
+| IATA           = SF
+| ICAO           = DTH
+| callsign       = TASSILI AIR
+| parent         = [[Sonatrach|Sonatrach SpA]]
+| company_slogan = "to fly" (" voler")
+| founded        = 1997
+| headquarters   = [[Algiers]], [[Aljazair]]
+| key_people     = Hocine Chekired
+| bases          = [[Bandar Udara Houari Boumedienne]]
+| secondary_hubs = 
+| focus_cities   = 
+| frequent_flyer = 
+| lounge         = 
+| alliance       =
+| subsidiaries   = 
+| website        = [http://www.tassiliairlines.dz www.tassiliairlines.dz]
+}}
+'''Tassili Airlines''' ({{lang-ar| }}) adalah maskapai penerbangan [[Aljazair]] dengan kode [[IATA]] '''SF'''.
+
+== Pranala luar ==
+{{commonscat|Tassili Airlines}}
+*[http://www.tassiliairlines.dz/ Official website] {{fr icon}}
+*[http://web.archive.org/*/http://www.tassiliairlines.dz/index.php?lang=en Official website] (Archive)
+
+{{airline-stub}}
+
+[[Kategori:Maskapai penerbangan Aljazair]]
+[[Kategori:Maskapai penerbangan yang didirikan tahun 1997]]

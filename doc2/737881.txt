@@ -1,0 +1,21 @@
+Asidosis respiratorik
+[[Berkas:Symptoms of acidosis.png|thumb|Gejala Asidosis]]
+'''Asidosis respiratorik''' adalah keadaan turunnya [[pH]] darah yang disebabkan oleh proses abnormal pada [[paru-paru]].<ref name="respirologi">{{cite book|title=Respirologi|author=Dr. R. Darmanto Djojodibroto, Sp.P, FCCP|publisher=Penerbit Buku Kedokteran EGC|year=2009|location=Jakarta|isbn=978-979-448-980-2}}</ref> [[Ekskresi]] [[karbondioksida]] paru yang tidak adekuat pada keadaan produksi normal gas akan menimbulkan [[asidosis]].<ref name="kesa">{{cite book|title=Ilmu Kesehatan Anak|author=Behrman, Kliegman, Arvin|publisher=Penerbit Buku Kedokteran EGC|location=Jakarta|year=2000}}</ref> Penumpukan karbondioksida tersebut diakibatkan oleh fungsi pari-paru yang buruk atau pernapasan yang lambat.<ref name="web">{{cite web|url=https://sites.google.com/site/asidosis/Home/keseimbangan-asam-basa|title=Keseimbangan Asam Basa dalam Darah|accessdate=May 21 2014}}</ref> Kecepatan dan kedalaman pernapasan mengendalikan jumlah karbondioksida dalam darah.<ref name="web"/> Dalam keadaan normal, jika terkumpul karbondioksida, pH darah akan turun dan darah menjadi [[asam]].<ref name="web"/> Tingginya kadar karbondioksida dalam darah merangsang [[otak]] yang mengatur pernafasan, sehingga pernafasan menjadi lebih cepat dan lebih dalam.<ref name="web"/>
+
+Asidosis respiratorik ini dapat digolongkan menjadi asidosis respiratorik [[akut]] atau asidosis respiratorik [[kronik]].<ref name="respirologi"/> Asidosis respiratorik akut terjadi jika kejadiannya baru berlangsung beberapa jam dan belum terjadi kompensasi oleh [[ginjal]].<ref name="respirologi"/> Asidosis respiratorik kronik biasanya telah terjadi lebih dari 12 jam sampai 5 hari, dan upaya kompensasi oleh ginjal telah terjadi.<ref name="respirologi"/> Pada asidosis respiratorik akut, peningatan [[ion bikarbonat]] hanya sedikit, sedangkan pada yang kronik konsentrasi ion bikarbonatnya meningkat lebih banyak.<ref name="respirologi"/>
+
+Terdapat penyakit-penyakit yang memengaruhi paru-paru, sehingga erat kaitannya dengan asidosis respiratorik ini, yaitu
+# [[Emfisema]]
+# [[Bronkitis]] kronis
+# [[Pneumonia]] berat
+# [[Edema pulmoner]]
+# [[Asma]]<ref name="web"/>
+== Rujukan ==
+{{reflist}}
+{{kedokteran-stub
+| subject   = [[Asidosis Respiratorik]] 
+| qualifier = kelainan keseimbangan asam-basa tubuh
+| category  = Rintisan bertopik kedokteran
+}}
+
+[[Kategori:Darah]]

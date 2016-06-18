@@ -1,0 +1,31 @@
+Berkas:Robot-regularcover.jpeg
+{{Dari|en}}
+
+== Ringkasan ==
+{{album cover fur
+<!-- REQUIRED -->
+|Article= Robot (lagu CNBLUE)
+|Use=Infobox
+<!-- HIGHLY RECOMMENDED -->
+|Source= [https://itunes.apple.com/jp/album/robot-ep/id583719171 Robot on iTunes Japan]
+<!-- ADDITIONAL INFORMATION -->
+|Name= Robot
+|Artist= [[CN Blue]]
+|Label= [[Warner Music Group]]
+|Graphic Artist= 
+|Item= front cover
+|Type= single
+|Website= 
+|Owner= 
+|Commentary= 
+<!-- OVERRIDE FIELDS -->
+|Description= 
+|Portion= 
+|Low_resolution= 
+|Purpose=
+|Replaceability= 
+|other_information= 
+}}
+
+== Jenis lisensi ==
+{{SampulAlbum}}

@@ -1,0 +1,64 @@
+Daftar negara dengan bahasa Spanyol sebagai bahasa resmi
+Bahasa Spanyol secara umum dituturkan di wilayah negara asal ([[Spanyol]]) dan sebagian besar [[Amerika Selatan]].
+
+=== Bahasa Spanyol diakui sebagai bahasa resmi secara ''de jure'' ===
+{| class="wikitable"
+|+ 
+! width=030px | No.
+! width=200px | Negara
+! width=100px | Populasi
+|-
+|1||{{flag|Kolombia}} <ref>[http://bib.cervantesvirtual.com/servlet/SirveObras/01361686468917724422802/p0000001.htm#I_1_ Art. 10 de la Constitucin Poltica de la Repblica de Colombia de 1991]</ref>||align="right"|47.407.000
+|-
+|2||{{flag|Spanyol}}<ref>[http://bib.cervantesvirtual.com/servlet/SirveObras/56815171091469662665679/p0000001.htm#I_1_ Art. 3.1 de la Constitucin Espaola de 1978]</ref>||align="right"|47.265.321
+|-
+|3||{{flag|Venezuela}}<ref>[http://bib.cervantesvirtual.com/servlet/SirveObras/91373844432460617422202/p0000001.htm#I_1_ Art. 9 de la Constitucin de la Repblica Bolivariana de Venezuela de 1999]</ref>||align="right"|30.483.200
+|-
+|4||{{flag|Peru}}<ref>[http://bib.cervantesvirtual.com/servlet/SirveObras/01371418455614815210035/p0000001.htm#I_1_ Art. 48 de la Constitucin de la Repblica del Per de 1993]</ref>||align="right"|30.219.264
+|-
+|5||{{flag|Ekuador}}<ref>[http://www.asambleanacional.gov.ec/documentos/constitucion_de_bolsillo.pdf Art. 2 de la Constitucin de la Repblica del Ecuador de 2008]</ref>||align="right"|17.850.000
+|-
+|6||{{flag|Guatemala}}<ref>[http://bib.cervantesvirtual.com/servlet/SirveObras/08143063411969473087857/p0000001.htm#I_1_ Art. 143 de la Constitucin de la Repblica de Guatemala de 1985]</ref>||align="right"|16.800.000
+|-
+|7||{{flag|Kuba}}<ref>[http://bib.cervantesvirtual.com/servlet/SirveObras/01371529011274821870035/p0000001.htm#I_1_ Art. 2 de la Constitucin de la Repblica de Cuba de 1976]</ref>||align="right"|13.382.820
+|-
+|8||{{flag|Republik Dominika}}<ref>[http://bonoc.files.wordpress.com/2009/11/constitucion-politica-final-2010.pdf Art. 29 de la Constitucin Poltica de la Repblica Dominicana de 2010]</ref>||align="right"|9.183.984
+|-
+|9||{{flag|Honduras}}<ref>[http://bib.cervantesvirtual.com/servlet/SirveObras/02449476436133496754491/p0000001.htm#I_1_ Art. 6 de la Constitucin de la Repblica de Honduras de 1982]</ref>||align="right"|7.326.496
+|-
+|10||{{flag|Bolivia}}<ref>[http://bolivia.infoleyes.com/shownorm.php?id=469 Art. 5.I de la Constitucin Poltica del Estado de Bolivia de 2009]</ref>||align="right"|8.857.870
+|-
+|11||{{flag|El Salvador}}<ref>[http://bib.cervantesvirtual.com/servlet/SirveObras/01361686424573724088802/p0000001.htm#I_1_ Art. 62 de la Constitucin de la Repblica de El Salvador de 1983]</ref>||align="right"|6.948.073
+|-
+|12||{{flag|Nikaragua}}<ref>[http://bib.cervantesvirtual.com/servlet/SirveObras/80295066320571495200080/p0000001.htm#I_1_ Art. 11 de la Constitucin de la Repblica de Nicaragua de 1987]</ref>||align="right"|5.603.000
+|-
+|13||{{flag|Paraguay}}<ref>[http://bib.cervantesvirtual.com/servlet/SirveObras/01371418233494813090035/p0000001.htm#I_1_ Art. 140 de la Constitucin de la Repblica del Paraguay de 1992]</ref>||align="right"|6.158.000
+|-
+|14||{{flag|Kosta Rika}}<ref>[http://bib.cervantesvirtual.com/servlet/SirveObras/12838324248920495321435/p0000001.htm#I_1_ Art. 76 de la Constitucin Poltica de la Repblica de Costa Rica de 1949]</ref>||align="right"|4.328.000
+|-
+|15||{{flag|Panama}}<ref>[http://bib.cervantesvirtual.com/servlet/SirveObras/01361608613462726977802/p0000001.htm#I_1_ Art. 7 de la Constitucin de la Repblica de Panam de 1972]</ref>||align="right"|3.320.000
+|-
+|16||{{flag|Equatorial Guinea}}<ref>[http://www.wipo.int/wipolex/es/details.jsp?id=7988 Art. 4 de la Constitucin de la Repblica de Guinea Ecuatorial de 1991]</ref>||align="right"|1.722.000
+|}
+
+=== Bahasa Spanyol diakui sebagai bahasa resmi secara ''de facto'' ===
+{| class="wikitable"
+|+ 
+! width=030px | No.
+! width=200px | Negara
+! width=100px | Populasi
+|-
+|1||{{flag|Meksiko}} <ref>[http://www.cddhcu.gob.mx/comisiones/asunindi/iniling.pdf CDDHCU]</ref>||align="right"|108.700.891
+|-
+|2||{{flag|Argentina}} <ref name=nedc>Tidak ada pengakuan yang berdasar hukum tertulis, akan tetapi telah mendapat pengakuan dari dunia Internasional.</ref>||align="right"|40 921 833
+|-
+|3||{{flag|Chili}} <ref name=nedc/>||align="right"|16.598.074 
+|-
+|4||{{flag|Uruguay}} <ref name=nedc/>||align="right"|3.323.906
+|-
+|}
+
+==Referensi==
+{{reflist}}
+
+[[Kategori:Bahasa Spanyol]]

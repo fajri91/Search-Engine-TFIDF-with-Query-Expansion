@@ -1,0 +1,15 @@
+Berkas:Piretrum.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+Piretrum
+[http://www.kamusbesar.com/30470/piretrum]
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Fairuse}}

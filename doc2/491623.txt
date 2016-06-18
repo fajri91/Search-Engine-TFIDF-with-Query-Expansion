@@ -1,0 +1,47 @@
+Khalkogen
+{{terjemah|Melayu}}
+
+{{periodic table (group 16)}}
+
+'''Khalkogen''' adalah [[unsur kimia]] golongan 16 atau VIA dari [[tabel periodik]] . Golongan ini juga dikenal sebagai golongan [[oksigen]]. Golongan ini terdiri dari unsur [[oksigen]] (O), [[belerang]] (S), [[selenium]] (Se), [[telurium]] (Te), elemen [[radioaktif]] [[polonium]] (Po), dan unsur sintetis [[livermorium]] (Lv).
+
+Sebagai mana kumpulan unsur lain, unsur-unsur dalam kumpulan ini juga menunjukkan corak dalam [[konfigurasi elektron]]nya, terutamanya petala paling luar, dan seterusnya [[sifat kimia]] mereka.
+{| class="wikitable" border="1" cellpadding="3" cellspacing="0"
+|-
+![[Nombor atom|Z]] !! [[Unsur kimia|Unsur]]  !! [[Petala elektron|Bilangan elektron/petala]] 
+|-
+| 8 || oksigen || 2, 6
+|- 
+| 16 || sulfur || 2, 8, 6
+|- 
+| 34 || selenium || 2, 8, 18, 6
+|- 
+| 52 || telurium || 2, 8, 18, 18, 6
+|- 
+| 84 || polonium || 2, 8, 18, 32, 18, 6
+|- 
+| 116 || ununheksium || 2, 8, 18, 32, 32, 18, 6
+|}
+
+Sebatian kalkogen yang lebih berat (terutamanya [[sulfida]], [[selenida]], dan [[telurida]]) secara umumnya dikenali sebagai '''kalkogenida'''. [[Oksida]] tidak dikategorikan sebagai kalkogenida melainkan jika ia bersebati dengan kalkogen berat yang lain. .<ref>{{Ref patent|country=US |number=2007092648 |status= application |title=Chalcogenide solar cells  |pubdate=2007-04-26 |fdate=2005-11-29 |invent1= Jeroen K. J. Van Duren |assign1= Nanosolar, Inc.}}</ref> Nama kalkogen secara amnya berasal daripada [[bahasa Greek]] yang bermaksud pembentuk bijih (''chalcos'' bererti ''[[bijih]]'' dan ''-gen'' bererti ''pembentukan'').<ref>[http://jchemed.chem.wisc.edu/Journal/Issues/2001/Oct/abs1333_1.html A Second Note on the Term "Chalcogen"]</ref>
+
+Oksigen dan sulfur adalah unsur [[bukan logam]], manakala polonium, selenium dan telurium merupakan [[semikonduktor]] [[metaloid|separa logam]] (bermaksud sifat elektriknya di antara [[logam]] dan [[penebat elektrik|penebat]]). Namun, telurium dan selenium sering dianggap sebagai logam apabila dalam keadaan asas.
+
+Kalkogen biasanya merupakan mineral seperti [[pirit]] (FeS<sub>2</sub>) yang merupakan [[bijih besi]].
+
+[[Nombor pengoksidaan]] kalkogen secara umumnya -2 dalam kalkogenida tetapi nilai lain seperti -1 dalam [[pirit]] juga boleh diperolehi. [[Nombor pengoksidaan]] tertingginya pula ialah +6 (ditemui dalam [[sulfat]], [[selenat]] dan [[telurat]], seperti [[asid sulfurik]] atau [[natrium selenat]] (Na<sub>2</sub>SeO<sub>4</sub>)).
+
+== Lihat pula ==
+* [[Unsur kimia]]
+
+== Referensi ==
+{{reflist}}
+
+== Pranala luar ==
+* {{id}} [http://www.chem-is-try.org/materi_kimia/kimia-anorganik-universitas/kimia-unsur-non-logam/khalkogen-dan-khalkogenida/ Khalkogen dan khalkogenida] - Situs Kimia Indonesia
+
+[[Kategori:Unsur kimia]]
+[[Kategori:Tabel periodik]]
+
+
+{{kimia-stub}}

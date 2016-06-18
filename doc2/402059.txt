@@ -1,0 +1,18 @@
+Templat:Cipanas, Cianjur
+{{Navigasi ID Desa 
+|provinsi=Jawa Barat
+|dati2=Kabupaten 
+|nama dati2=Cianjur
+|nama kecamatan=Cipanas
+|d1=Batulawang
+|d2=Ciloto
+|d3=Cimacan
+|d4=Cipanas
+|d5=Palasari
+|d6=Sindangjaya
+|d7=Sindanglaya
+}}
+<noinclude>
+[[Kategori:Templat desa/kelurahan di Jawa Barat|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Cianjur|{{PAGENAME}}]]
+</noinclude>

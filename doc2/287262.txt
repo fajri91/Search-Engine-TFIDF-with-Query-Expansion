@@ -1,0 +1,2 @@
+Templat:Pengguna Bite you
+<noinclude>{{humor}}</noinclude>{{Userbox |border-c=brown |border-s=1 |id-c=white |id-s=15 |id=[[File:WikiVampires.JPG|50px]]| id-fc= #fff|info-c=red |info-s=10 |info-fc=#fff |info=Pengguna ini gemar [[WP:Please bite the newbies|<font color="yellow">menyakiti pengguna lain</font>]]; <span style="text-decoration: blink;">[[Special:MyPage|<font color="yellow">Anda</font>]]</span> mungkin adalah korban berikutnya.}}<noinclude>[[Category:kotak pengguna humor]]</noinclude>

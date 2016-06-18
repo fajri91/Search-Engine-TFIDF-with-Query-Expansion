@@ -1,0 +1,58 @@
+Friedrich II, Kaisar Romawi Suci
+{{Infobox Monarch |name=Frederik II
+|title= Raja Sisilia, Siprus, dan Yerusalem, <br />Raja bangsa Romawi, Jerman<br /> dan Kaisar bangsa Romawi
+|image=Frederick II and eagle.jpg
+|reign= [[9 Desember]] [[1212]]  [[13 Desember]] [[1250]]
+|date1= [[9 Desember]] [[1212]]
+|date2= [[26 Desember]] [[1208]]
+|coronation= [[3 September]] [[1198]]
+|queen= various
+|royal house= [[Hohenstaufen]]
+|father= [[Heinrich VI, Kaisar Romawi Suci|Heinrich VI]]
+|mother= [[Custanza dari Sisilia]] 
+|issue= [[Konrad IV dari Jerman]]
+|date of birth= {{birth date|1194|12|26|mf=y}}
+|place of birth= [[Jesi]], [[Marche]], [[Italia]]
+|date of death= {{death date and age|1250|12|13|1194|12|26|mf=y}}
+|place of death= [[Castel Fiorentino]], [[Puglia]], [[Italia]]
+|place of burial= [[Katedral Palermo]]<!--Please leave this entry, as the article will be done in the future-->
+}}
+'''Frederik II''' atau '''Federico II''' (lahir [[26 Desember]] [[1194]], wafat [[13 Desember]] [[1250]]), dari [[dinasti Hohenstaufen]], adalah seorang yang menganggap dirinya berhak atas gelar Raja Romawi dari tahun 1212 dan sebagai pemegang gelar itu tanpa tanding dari tahun [[1215]]. Karena itu, ia menjadi Raja Jerman, Raja Italia dan Raja [[Kerajaan Burgundia|Burgundia]]. Ia juga menjadi Raja [[Kerajaan Sisilia|Sisilia]] yang didapat dari warisan ibunya. Ia adalah [[Kaisar]] [[Kekaisaran Romawi Suci|Romawi Suci]] berdasarkan penobatan [[kepausan]] pada tahun [[1220]] hingga akhir hidupnya. Gelar aslinya adalah Raja Sisilia sehingga ia memperoleh nama Federico I dari tahun [[1198]] hingga wafatnya. Gelar-gelar kebangsawanan lainnya, yang dikumpulkan dari masa hidupnya yang singkat, adalah Raja Siprus dan Yerusalem yang didapat atas dasar pernikahan dan hubungannya dengan [[Perang Salib Keenam]].
+
+== Pranala luar ==
+
+* [http://www.newadvent.org/cathen/06255a.htm Catholic Encyclopedia: Frederick II]
+* [http://www.bartleby.com/65/fr/Fred2HRE.html Frederick II, Holy Roman emperor and German king. The Columbia Encyclopedia]
+* [http://www.britannica.com/eb/article-9035241 Frederick II  Encyclopdia Britannica]
+
+{{start}}
+{{succession box |
+ before=[[Custanza (Sisilia)|Custanza]]|
+ title=[[Daftar penguasa Napoli dan Sisilia|Raja Sisilia]]|
+ years=11981250|
+ after=[[Konrad IV dari Jerman|Konrad I]]
+}}
+{{succession box |
+ before=[[Jean dari Brienne]]|
+ title=[[Kerajaan Yerusalem|Raja Yerusalem]]<br />dengan pernikahan dengan [[Isabelle dari Yerusalem|Isabelle]]|
+ years=12251228|
+ after=[[Elisabeth dari Bayern]]
+}}
+{{succession box |
+  before=[[Philipp dari Swabia]]|
+  title=[[Adipati Swabia]]|
+  years=12121216|
+  after=[[Heinrich VII dari Jerman|Heinrich II]]
+}}
+{{end}}
+
+{{Kaisar Romawi Suci}}
+
+{{lifetime|1194|1250}}
+
+[[Kategori:Kaisar Romawi Suci]]
+[[Kategori:Raja Jerman]]
+[[Kategori:Raja Sisilia]]
+
+
+{{politikus-stub}}

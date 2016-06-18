@@ -1,0 +1,22 @@
+Pollock
+{{Taxobox
+| color = pink
+| name = Pollock
+| image = Pollachius pollachius(01).jpg
+| image_width = 250px
+| regnum = [[Animalia]]
+| phylum = [[Chordata]]
+| classis = [[Actinopterygii]]
+| ordo = [[Gadiformes]]
+| familia = [[Gadidae]]
+| genus = '''''Pollachius'''''
+| genus_authority = [[Sven Nilsson|Nilsson]], 1832
+| subdivision_ranks = Spesies
+| subdivision = 
+''Pollachius pollachius''{{br}}
+''Pollachius virens''
+}}
+'''Pollock''' (atau '''pollack''', dilafalkan sama dan didaftarkan pertama kali dalam kamus besar Britania Raya dan Amerika Serikat) adalah nama umum yang digunakan untuk dua [[spesies]] dari [[ikan]] [[samudra|laut]] dalam [[genus]] '''''Pollachius'''''. ''P. pollachius'' dan ''P. virens'' keduanya secara umum disebut sebagai pollock. Nama lain untuk ''P. pollachius'' seperti '''Pollock Atlantik''', '''Pollock Eropa''', '''lieu jaune''', dan '''pollock''', walau begitu ''P. virens'' kadang disebut sebagai Ikan blues Boston (terpisah dari bluefish), '''coalfish''' (atau '''coley''') atau '''saithe'''.
+
+
+{{hewan-stub}}

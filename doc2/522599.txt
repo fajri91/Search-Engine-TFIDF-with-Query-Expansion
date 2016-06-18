@@ -1,0 +1,28 @@
+Daftar maskapai penerbangan di Afganistan
+Ini adalah '''daftar [[maskapai penerbangan]]''' yang menerima [[Sertifikat Operator Udara]] dari '''[[Kementerian Transportasi dan Penerbangan Sipil Afganistan]]'''.
+
+{| border=0 cellpadding=2 cellspacing=3 class="wikitable sortable"
+|- valign="middle"
+! Maskapai penerbangan
+! Maskapai penerbangan (dalam [[Dari (Persian)|Dari]]
+! [[Kode maskapai penerbangan ICAO|ICAO]]
+! [[IATA]]
+! [[Tanda panggil]]
+! Mulai<BR>beroperasi
+|-
+| [[Ariana Afghan Airlines]] || || AFG || FG || ARIANA || 
+|-
+| [[Kam Air]] || || KMF || RQ || KAMGAR || 
+|-
+| [[Khyber Afghan Airlines]] || || || || || 
+|-
+| [[Safi Airways]] || || SFW || 4Q || SAFI AIRWAYS || 
+|}
+
+==Lihat pula==
+* [[Daftar maskapai penerbangan]]
+* [[Daftar bandar udara di Afganistan]]
+
+{{maskapai-stub}}
+
+[[Kategori:Maskapai penerbangan Afganistan]]

@@ -1,0 +1,7 @@
+Templat:Taxonomy/Ornithischia
+{{Don't edit this line {{{machine code|}}}|{{{1}}}
+|rank=ordo
+|parent=Dinosauria
+|link=Ornithischia
+|extinct=true
+}}

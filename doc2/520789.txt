@@ -1,0 +1,14 @@
+Berkas:The Sky at Night.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+{{dari|en|The Sky at Night.jpg}}
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{TampilanFilm}}

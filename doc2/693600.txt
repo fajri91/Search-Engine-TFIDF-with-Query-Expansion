@@ -1,0 +1,50 @@
+Templat:Koridor Raya Multimedia
+{{Navbox
+| name      = Koridor Raya Multimedia
+| image     = 
+| title     = [[Koridor Raya Multimedia]]
+| state        = {{{state|autocollapse}}}
+| bodyclass = hlist
+
+| group1 = Pusat
+| list1  =
+* [[Cyberjaya]]
+
+| group2 = Wilayah
+| list2  =
+* [[Lembah Klang]]
+
+| group3 = Markah tanah
+| list3  =
+* [[Menara Kembar Petronas]]
+* [[Menara Kuala Lumpur]]
+* [[Stasiun kereta api Kuala Lumpur Sentral|Kuala Lumpur Sentral]]
+* [[Taman Teknologi Malaysia]]
+* [[Putrajaya]]
+* [[Cyberjaya]]
+* [[Bandar Udara Internasional Kuala Lumpur]]
+* [[SUNTECH Tower]]
+
+| group4 = Infrastruktur
+| list4  =
+* [[Express Rail Link]]
+* [[Maju Expressway|Maju Expressway (MEX)]]
+** [[Maju Expressway|KL-KLIA Dedicated Expressway]]
+* [[Total Airport Management Systems]]
+
+| group5 = Aplikasi
+| list5  =
+* [[e-Government]]
+* [[MyKad]] 
+
+| group6 = Perusahaan
+| list6  =
+* [[Asia Media]]
+* [[Astro Holdings Sdn Bhd]]
+** [[Astro (televisi satelit Malaysian)|Astro]]
+
+}}<noinclude>
+{{collapsible option}}
+[[Category:Koridor Raya Multimedia| ]]
+[[Category:Templat Malaysia| {{PAGENAME}}]]
+</noinclude>

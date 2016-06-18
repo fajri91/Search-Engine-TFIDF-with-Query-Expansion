@@ -1,0 +1,69 @@
+2012 TS
+{{Infobox Planet 
+|minorplanet = yes 
+|width = 25em 
+|bgcolour = 
+|apsis = 
+|name = 2012 TS
+|symbol = 
+|image = 
+|caption = 
+|discovery = yes 
+|discovery_ref = 
+|discoverer =Catalina Sky Survey
+|discovery_site =703
+|discovered = 2012/10/04
+|designations = yes
+|mp_name = 
+|alt_names = 
+|mp_category = 
+|orbit_ref = 
+|epoch = 
+|aphelion =1.103
+|perihelion =0.879
+|semimajor =0.991
+|eccentricity =0.113
+|period = 
+|avg_speed = 
+|inclination =16.5
+|asc_node =190.9
+|mean_anomaly =182.5
+|arg_peri =21.0
+|satellites = 
+|physical_characteristics = yes 
+|dimensions = 
+|mass = 
+|density = 
+|surface_grav = 
+|escape_velocity = 
+|sidereal_day = 
+|axial_tilt = 
+|pole_ecliptic_lat = 
+|pole_ecliptic_lon = 
+|albedo = 
+|temperatures= 
+|temp_name1 = 
+|mean_temp_1 = 
+|max_temp_1 = 
+|temp_name2 = 
+|max_temp_2 = 
+|spectral_type = 
+|abs_magnitude =20.8
+}}
+'''2012 TS''' adalah sebuah [[asteroid]]. Asteroid ini merupakan bagian dari [[asteroid Aten]], yang terletak dekat dengan [[bumi]]. [[Eksentrisitas orbit]] asteroid ini tercatat sebesar 0.113, sementara [[magnitudo mutlak]]nya adalah 20.8.
+
+== Pembentukan ==
+
+Seperti asteroid pada umumnya, asteroid ini terbentuk dari [[nebula]] [[matahari]] primordial sebagai pecahan [[planetisimal]], sesuatu di nebula matahari muda yang tidak cukup besar untuk berubah menjadi [[planet]].<ref>{{cite web | title=What Are Asteroids And Comets? | url=http://neo.jpl.nasa.gov/faq/#ast | work=Near Earth Object Program FAQ | publisher=[[NASA]] | accessdate=13 September 2010 | archiveurl=http://web.archive.org/web/20100909210213/http://neo.jpl.nasa.gov/faq/ | archivedate=9 September 2010 | deadurl=no}}</ref>
+
+== Referensi ==
+
+{{Reflist}}
+
+== Pranala luar ==
+
+* [http://www.minorplanetcenter.net/iau/lists/t_atens.html Daftar asteroid Aten] - ''The International Astronomical Union Minor Planet Center.''
+
+[[Kategori:Asteroid Aten]]
+
+{{asteroid-stub}}

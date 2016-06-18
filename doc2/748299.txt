@@ -1,0 +1,46 @@
+SK Hynix
+{{Infobox company
+|name      =  SK Hynix Inc.
+|hangul_name       =   
+|logo      =  [[File:SK Hynix logo.png|150px]]
+|type      =  [[Perseroan terbatas|Publik]] 
+|traded_as  = {{kse|000660}}
+|foundation        =  1983
+|location          =  [[Icheon]], [[Korea Selatan]]
+|key_people        =  [[Sungwook Park]] ([[CEO]])
+|industry          =  [[Industri semikonduktor|Semikonduktor]]
+|products          =  DRAM, NAND Flash
+|revenue           = {{increase}} [[US$]] 13.3 miliar (2013)<ref>{{cite news|title= SK Hynix|url= http://www.forbes.com/companies/hynix-semiconductor|work=Forbes}}</ref>
+|operating_income  = 
+|net_income        = {{decrease}} [[US$]] 298.4 juta (2010)
+|num_employees     = 17130
+|homepage          = [http://www.skhynix.com www.skhynix.com]
+}}
+{{Infobox Korean name
+|hangul= 
+|rr=Eseukeihainikseu
+|mr=Eskeihainiks
+}}
+'''Hynix Semiconductor Inc.''' ({{kse|000660}} adalah sebuah perusahaan pemasok cip [[memori akses acak dinamis]] (DRAM) dan cip [[memori cepat]] [[semikonduktor]] [[Korea Selatan]]. Didirikan tahun 1983, Hynix adalah produsen cip memori terbesar kedua di dunia setelah [[Samsung Electronics]]. Sebelumnya bernama Hyundai Electronics, perusahaan ini memiliki pabrik perakitan di [[Amerika Serikat|AS]], [[Tiongkok]] <ref>[http://english.yonhapnews.co.kr/techscience/2010/06/17/0601000000AEN20100617004651320.HTML Hynix completes new chip plant in China]</ref> dan Taiwan. Saham perusahaan ini diperdagangkan di [[Bursa Saham Korea]], dan saham depositori globalnya diperdagangkan di [[Bursa Saham Luksemburg]]. Memori Hynix dipakai oleh [[Apple Inc.]] pada beberapa komputer [[MacBook]] dan [[Macbook Pro]]-nya. Memori Hynix adalah penyedia OEM untuk server [[IBM System x]], dan dipakai di desktop PC dan ASUS Eee PC. Pada tahun 2011, Hynix meluncurkan proyek memori pitch 84-nm untuk pembuatan memori perubahan fase 1-Gbit dan seterusnya. 
+
+==Rekor==
+* Perusahaan semikonduktor terbesar keenam di dunia <ref>[http://www.hwsw.hu/hirek/34596/amd_intel_processzor_legnagyobb_felvezetogyartok_chipgyartok_toshiba_samung_tsmc_hynix_ic-insights.html HWSW - Az Intel nyomsa ellenre trtnelmi mrfldkvet rt el az AMD<!-- Bot generated title -->]</ref>
+* Pembuat cip memori terbesar kedua di dunia <ref>http://www.digitimes.com/news/a20081014PD214.html</ref>
+* Pemegang pangsa pasar terbesar di Tiongkok{{Citation needed|date=March 2010}}
+* Pada bulan Januari 2010, Hynix Semiconductor dijual pada sebuah pelelangan dengan nilai mendekati $3 miliar.<ref>Source: [[Business Week]]</ref>
+
+==Lihat pula==
+* [[Daftar pabrik perakitan semikonduktor]]
+
+==Referensi==
+{{reflist}}
+
+==Pranala luar==
+{{Commons category|Hynix}}
+* {{official|http://www.hynix.com/en/ Hynix Semiconductor Inc.}}
+
+{{IT giants}}
+
+[[Kategori:Perusahaan semikonduktor]]
+[[Kategori:Perusahaan memori komputer]]
+[[Kategori:Perusahaan elektronik Korea Selatan]]

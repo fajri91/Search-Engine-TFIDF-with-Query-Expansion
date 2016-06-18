@@ -1,0 +1,11 @@
+Templat:Tidak dirapikan
+{{db-meta
+|bot={{{bot|}}}
+|criterion=NA
+|1=&#32;karena tidak dirapikan
+|2=Untuk kriteria penghapusan, lihat [[Wikipedia:Penghapusan cepat#A10|KPC]]. <br/><span style="font-size: 90%">Jika tidak dirapikan, artikel ini akan dihapus{{#if:{{{y|}}}{{{m|}}}{{{d|}}}{{{i|}}}|&nbsp;pada {{NHARIDARIYMD|{{{y}}}|{{{m}}}|{{{d}}}|{{{i}}}}}}}</span>
+|temp=nn-warn-reason
+|temp2={{!}}tidak dirapikan
+|summary={{#if:{{{1|}}}|db-{{{1}}}|}}.
+}}{{#if:{{{kat|}}}||<includeonly>[[Kategori:Artikel yang perlu dirapikan yang telah jatuh tempo penghapusan|{{PAGENAME}}]]</includeonly>}}{{#if:{{{kat|}}}|{{#ifexpr:({{YMD2MJD|{{{y}}}|{{{m}}}|{{{d}}}}}+{{{i}}})<{{MJD}}|<includeonly>[[Kategori:Artikel yang perlu dirapikan yang telah jatuh tempo penghapusan]][[Kategori:Halaman yang telah jatuh tempo penghapusan]]</includeonly>|<includeonly>[[Kategori:Artikel yang perlu dirapikan]]</includeonly>}}
+}}<noinclude>[[Kategori:Templat dasar]]</noinclude>

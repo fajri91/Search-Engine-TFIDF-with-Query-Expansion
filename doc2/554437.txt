@@ -1,0 +1,43 @@
+Blan
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+|coordinates_display = inline,title
+|coordinates_region = RO
+|subdivision_type = [[Negara]]
+|subdivision_name       = {{ROU}}
+|timezone=[[Eastern European Time|EET]]
+|utc_offset=+2
+|timezone_DST=[[Eastern European Summer Time|EEST]]
+|utc_offset_DST=+3
+|map_caption = Letak Blan|
+|
+|official_name=Blan
+|other_name=Balnbnya|
+|image_shield=ROU HR Balan CoA.png|
+|image_map=Balan jud Harghita.png|
+|subdivision_type1=[[County]]|
+|subdivision_name1=County Harghita |
+|subdivision_type2=[[Status]]|
+|subdivision_name2={{Autolink|Kota}}
+|settlement_type=Kota||
+|leader_title=[[Wali kota]]|
+|leader_name=Brezovszky Gyrgy|
+|
+|leader_party=Independen|
+|area_total_km2=|
+|population_as_of=2011|
+|population_total=5864|latd=46|latm=38|lats=59|latNS=N|longd=25|longm=48|longs=36|longEW=E||
+|website=http://www.orasulbalan.ro/|
+}}
+
+'''Blan''' ([[Bahasa Jerman|Jerman]]: ''Kupferbergwerk'', [[Bahasia Hongaria|Hongaria]]: ''Balnbnya'', {{IPA-hu|blanba|AUD|Balnbnya.ogg}}) adalah sebuah kota yang terletak di [[County Harghita]], [[Rumania]]. Secara historis kota ini merupakan pusat pertambangan tembaga yang penting, namun kini tambang-tambangnya sudah tidak dioperasikan.
+
+Kota ini terletak di [[Depresi Ciuc]]. Menurut sensus tahun 2011, kota ini memiliki jumlah penduduk sebesar 5.864 jiwa, dengan 3.625 (61,82%) di antaranya merupakan orang Rumania dan 2.124 (36,22%) orang Hongaria.<ref>[http://www.harghita.insse.ro/phpfiles/Comunicat_DATE_PROVIZORII_RPL_2011_JUD_HR.pdf Sensus Rumania 2011]</ref>
+
+== Referensi ==
+{{Reflist}}
+
+{{DEFAULTSORT:Balan}}
+[[Kategori:Kota di Rumania]]
+
+
+{{romania-geo-stub}}

@@ -1,0 +1,37 @@
+Virus komputer
+{{disambig info|Virus|Virus (disambiguasi)}}
+'''Virus komputer''' merupakan [[program komputer]] yang dapat menggandakan atau menyalin dirinya sendiri <ref name="vx.netlux.org">Dr. Solomon's Virus Encyclopedia, 1995, ISBN 1-897661-00-2, Abstract at http://vx.netlux.org/lib/aas10.html</ref> dan menyebar dengan cara menyisipkan salinan dirinya ke dalam program atau dokumen lain. Virus komputer dapat dianalogikan dengan [[Virus|virus biologis]] yang menyebar dengan cara menyisipkan dirinya sendiri ke [[sel (biologi)|sel makhluk hidup]]. Virus komputer dapat merusak (misalnya dengan merusak data pada dokumen), membuat pengguna komputer merasa terganggu, maupun tidak menimbulkan efek sama sekali.
+
+== Cara kerja ==
+
+Virus komputer umumnya dapat merusak [[perangkat lunak]] komputer dan tidak dapat secara langsung merusak [[perangkat keras]] komputer tetapi dapat mengakibatkan kerusakan dengan cara memuat program yang memaksa ''over process'' ke perangkat tertentu. Efek negatif virus komputer adalah memperbanyak dirinya sendiri, yang membuat sumber daya pada komputer (seperti penggunaan memori) menjadi berkurang secara signifikan. Hampir 95% virus komputer berbasis sistem operasi Windows. Sisanya menyerang Linux/GNU, [[Mac]], [[FreeBSD]], OS/2 [[IBM]], dan [[Sun Operating System]]. Virus yang ganas akan merusak perangkat keras.
+
+== Jenis ==
+Virus komputer adalah sebuah istilah umum untuk menggambarkan segala jenis serangan terhadap komputer. Dikategorikan dari cara kerjanya, virus komputer dapat dikelompokkan ke dalam kategori sebagai berikut:
+* [[Worm]] - Menduplikatkan dirinya sendiri pada [[harddisk]]. Ini membuat sumber daya komputer (Harddisk) menjadi penuh akan worm itu.
+* [[Trojan]] - Mengambil data pada komputer yang telah terinfeksi dan mengirimkannya pada pembuat trojan itu sendiri.
+<!-- Peretasan (Hacking) bukan virus komputer! -->
+* [[Backdoor]] - Hampir sama dengan trojan. Namun, Backdoor bisanya menyerupai file yang baik-baik saja. Misalnya game.
+* [[Spyware]] - Virus yang memantau komputer yang terinfeksi.
+* [[Rogue]] - merupakan program yang meniru program [[Perangkat lunak antivirus|antivirus]] dan menampilkan aktivitas layaknya antivirus normal, dan memberikan peringatan-peringatan palsu tentang adanya virus. Tujuannya adalah agar pengguna membeli dan mengaktivasi program antivirus palsu itu dan mendatangkan uang bagi pembuat virus rogue tersebut. Juga rogue dapat membuka celah keamanan dalam komputer guna mendatangkan virus lain.
+* [[Rootkit]] - Virus yang bekerja menyerupai kerja sistem komputer yang biasa saja.
+* [[Polymorphic virus]] - Virus yang gemar beubah-ubah agar tidak dapat terdeteksi.
+* [[Metamorphic virus]] - Virus yang mengubah pengkodeannya sendiri agar lebih sulit dideteksi.
+* [[Virus ponsel]] - Virus yang berjalan di telepon seluler, dan dapat menimbulkan berbagai macam efek, mulai dari merusak telepon seluler, mencuri data-data di dalam telepon seluler, sampai membuat panggilan-panggilan diam-diam dan menghabiskan pulsa pengguna telepon seluler.
+
+== Cara mengatasi ==
+Serangan virus dapat dicegah atau ditanggulangi dengan menggunakan [[Perangkat lunak antivirus|antivirus]]. Jenis perangkat lunak ini dapat juga mendeteksi dan menghapus virus komputer. Virus komputer ini dapat dihapus dengan basis data (''database''/ ''Signature-based detection''), heuristik, atau peringkat dari program itu sendiri (''Quantum'').
+
+== Referensi ==
+{{reflist}}
+
+== Pranala luar ==
+<!-- Dilarang beriklan! 
+Pranala luar haruslah artikel yang membahas virus komputer BUKAN pranala ke situs antivirus
+-->
+* {{dmoz|Computers/Security/Malicious_Software/Viruses|Virus komputer}}
+
+[[Kategori:Virus komputer| ]]
+
+
+{{computer-stub}}

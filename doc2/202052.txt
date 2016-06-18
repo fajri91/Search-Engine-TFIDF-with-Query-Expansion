@@ -1,0 +1,613 @@
+Kualifikasi Piala Dunia FIFA 2006  Grup 7 Zona Eropa
+'''Kualifikasi Piala Dunia FIFA 2006  Grup 7''' Zona Eropa merupakan sebuah grup kualifikasi pra [[Piala Dunia FIFA|Piala Dunia]] [[FIFA]] [[2006]], yang terdiri atas {{fb|Belgia}}, {{fb|Bosnia-Herzegovina}}, {{fb|Lituania}}, {{fb|San Marino}}, {{fb|Serbia dan Montenegro}}, {{fb|Spanyol}}.
+
+Pertandingan pertama dilaksanakan [[4 September]] [[2004]], sementara pertandingan terakhir dilaksanakan pada [[12 Oktober]] [[2005]]. '''{{fb|Serbia dan Montenegro}}''' memastikan diri ke putaran final sebagai juara grup ini pada pertandingan hari terakhir, [[12 Oktober]] [[2005]], setelah [[#Serbia dan Montengro v BosHez|menang]] atas {{timnas|Bosnia-Herzegovina}}. Sementara, juara kedua '''{{fb|Spanyol}}''', berhak melaju ke [[Kualifikasi Piala Dunia FIFA 2006Play-off Zona Eropa|babak ''play-off'']].
+
+== Hasil akhir ==
+{{col-begin}}
+{{col-2}}
+{|class="wikitable" style="text-align: center;"
+|-
+!width=175|Tim
+!width=30|Main
+!width=30|{{Tooltip|M|Menang}}
+!width=30|{{Tooltip|S|Seri}}
+!width=30|{{Tooltip|K|Kalah}}
+!width=30|{{Tooltip|GM|Gol Memasukkan}}
+!width=30|{{Tooltip|GK|Gol Kemasukkan}}
+!width=30|{{Tooltip|SG|Selisih Gol}}
+!width=30|Poin
+|- bgcolor=#ccffcc
+|align="left"|{{fb|Serbia dan Montenegro|name=Serbia dan Mont.}}
+|10||6||4||0||16||1||+15||'''22''' 
+|- bgcolor=#ffebad
+|align="left"|{{fb|Spanyol}}
+|10||5||5||0||19||3||+16||'''20'''
+|-
+|align="left"|{{fb|Bosnia Herzegovina|name=Bosnia-Herz.}}
+|10||4||4||2||12||9||+3||'''16'''
+|-
+|align="left"|{{fb|Belgia}}
+|10||3||3||4||16||11||+5||'''12'''
+|-
+|align="left"|{{fb|Lituania}}
+|10||2||4||4||8||9||1||'''10'''
+|-
+|align="left"|{{fb|San Marino}}
+|10||0||0||10||2||40||38||'''0'''
+|}
+{{col-2}}
+<center>
+{|class="wikitable" style="text-align:center;" 
+|-
+!&nbsp;
+!{{flagicon|Belgia}}!!{{flagicon|Bosnia Herzegovina}}
+!{{flagicon|Lituania}}!!{{flagicon|San Marino}}
+!{{flagicon|Serbia dan Montenegro}}!!{{flagicon|Spanyol}}
+|-
+!align="left"|{{flagicon|Belgia}} 
+|
+|[[#Belgia v BosHez|41]]
+|[[#Belgia v Lituania|11]]
+|[[#Belgia v San Marino|80]]
+|[[#Belgia v SerbMont|02]]
+|[[#Belgia v Spanyol|02]]
+|-
+!align="left"|{{flagicon|Bosnia Herzegovina}}
+|[[#BosHez v Belgia|10]]
+|
+|[[#BosHez v Lituania|11]]
+|[[#BosHez v San Marino|30]]
+|[[#BosHez v SerbMont|00]]
+|[[#BosHez v Spanyol|11]]
+|-
+!align="left"|{{flagicon|Lituania}} 
+|[[#Lituania v Belgia|11]]
+|[[#Lituania v BosHez|01]]
+|
+|[[#Lituania v San Marino|40]]
+|[[#Lituania v SerbMont|02]]
+|[[#Lituania v Spanyol|00]]
+|-
+!align="left"|{{flagicon|San Marino}} 
+|[[#San Marino v Belgia|12]]
+|[[#San Marino v BosHez|13]]
+|[[#San Marino v Lituania|01]]
+|
+|[[#San Marino v SerbMont|03]]
+|[[#San Marino v Spanyol|06]]
+|-
+!align="left"|{{flagicon|Serbia dan Montenegro}} 
+|[[#SerbMont v Belgia|00]]
+|[[#SerbMont v BosHez|10]]
+|[[#SerbMont v Lituania|20]]
+|[[#SerbMont v San Marino|50]]
+|
+|[[#SerbMont v Spanyol|00]]
+|-
+!align="left"|{{flagicon|Spanyol}} 
+|[[#Spanyol v Belgia|20]]
+|[[#Spanyol v BosHez|11]]
+|[[#Spanyol v Lituania|10]]
+|[[#Spanyol v San Marino|50]]
+|[[#Spanyol v SerbMont|11]]
+|
+|}
+</center>
+|}
+
+== Hasil pertandingan ==
+<div id = "Belgia v Lituania">{{footballbox
+|date = [[4 September]] [[2004]]
+|time = 20.15 [[UTC+2]]
+|tim1 = {{fb-rt|Belgia}}
+|skor = 11 {{br}} <small> (HT: 00) </small>
+|report = [http://www.fifa.com/worldcup/archive/germany2006/preliminaries/preliminary=8071/matches/match=36646/report.html (Laporan)]
+|tim2 = {{fb|Lituania}}
+|gol1 = [[Wesley Sonck]] {{goal|61}} {{br}} [[Bart Goor]] {{yel|69}}
+|gol2 = [[Marius Stankeviius|Marius Stankevicius]] {{yel|13}} {{br}} [[Nerijus Barasa]] {{yel|37}} {{br}} [[Donatas Venceviius|Donatas Vencevicius]] {{yel|51}} {{br}} [[Edgaras Jankauskas]] {{goal|73}} {{br}} [[Rolandas Diauktas|Rolandas Dziaukstas]] {{yel|84}}
+|stadion = [[Stadion du Pays de Charleroi]], [[Charleroi]]
+|penonton = 19.218 orang
+|wasit = [[Loizos Loizou]] ([[Asosiasi Sepak Bola Siprus|Siprus]])
+|aw1 = Michael Ioannou (Siprus)
+|aw2 = Vassos Argyrou (Siprus)
+|w4 = [[Costas Kapitanis]] (Siprus)
+}}
+----
+<div id = "San Marino v SerbMont">{{footballbox
+|date = [[4 September]] [[2004]]
+|time = 20.30 [[UTC+2]]
+|tim1 = {{fb-rt|San Marino}}
+|skor = 03 {{br}} <small> (HT: 02) </small>
+|report = [http://www.fifa.com/worldcup/archive/germany2006/preliminaries/preliminary=8071/matches/match=36645/report.html (Laporan)]
+|tim2 = {{fb|Serbia dan Montenegro}}
+|gol1 = [[Nicola Ciacci]] {{yel|73}}
+|gol2 = [[Zvonimir Vuki|Zvonimir Vukic]] {{goal|4}} {{br}} [[Nenad Jestrovi|Nenad Jestrovic]] {{goal|15}} {{goal|83}} {{br}} [[Nemanja Vidi|Nemanja Vidic]] {{yel|44}}
+|stadion = [[Stadion Olimpiade San Marino|Stadion Olimpiade]], [[Serravalle, San Marino|Serravalle]]
+|penonton = 1.137 orang
+|wasit = [[Akmalkhan Kholmatov]] <font style=font-size:88%>([[Federasi Sepak Bola Kazakhstan|Kazakhstan]])</font>
+|aw1 = Bolat Karlibayev (Kazakhstan)
+|aw2 = B. Kopzhassarov (Kazakhstan)
+|w4 = [[Sergey Kapanin]] <font style=font-size:88%>(Kazakhstan)</font>
+}}
+----
+<div id = "Lituania v San Marino">{{footballbox
+|date = [[8 September]] [[2004]]
+|time = 19.15 [[UTC+3]]
+|tim1 = {{fb-rt|Lituania}}
+|skor = 40 {{br}} <small> (HT: 10) </small>
+|report = [http://www.fifa.com/worldcup/archive/germany2006/preliminaries/preliminary=8071/matches/match=36648/report.html (Laporan)]
+|tim2 = {{fb|San Marino}}
+|gol1 = [[Edgaras Jankauskas]] {{goal|18}} {{goal|50}} {{br}} [[Tomas Danileviius|Tomas Danilevicius]] {{yel|33}} {{goal|65}} {{br}} [[Andrius Gedgaudas]] {{goal|92}}
+|gol2 = [[Carlo Valentini]] {{yel|40}} {{br}} [[Damiano Vannucci]] {{yel|70}} {{br}} [[Simone Bacchiocchi|Simone Bacciocchi]] {{yel|72}}
+|stadion = [[Stadion Steponas Darius dan Stasys Girnas|S Darius & S Girenas]], [[Kaunas]]
+|penonton = 4.000 orang
+|wasit = [[Sokol Jareci]] ([[Asosiasi Sepak Bola Albania|Albania]])
+|aw1 = Arben Pregja (Albania)
+|aw2 = Genc Maloku (Albania)
+|w4 = [[Albano Janku]] (Albania)
+}}
+----
+<div id = "BosHez v Spanyol">{{footballbox
+|date = [[8 September]] [[2004]]
+|time = 20.15 [[UTC+2]]
+|tim1 = {{fb-rt|Bosnia-Herzegovina}}
+|skor = 11 {{br}} <small> (HT: 00) </small>
+|report = [http://www.fifa.com/worldcup/archive/germany2006/preliminaries/preliminary=8071/matches/match=36647/report.html (Laporan)]
+|tim2 = {{fb|Spanyol}}
+|gol1 = [[Vladan Gruji|Vladan Grujic]] {{yel|21}} {{br}} [[Branimir Baji|Branimir Bajic]] {{yel|44}} {{br}} [[Hasan Salihamidi|Hasan Salihamidzic]] {{yel|55}} {{br}} [[Elvir Boli|Elvir Bolic]] {{goal|79}}
+|gol2 = [[David Albelda]] {{yel|37}} {{br}} [[Fernando Morientes]] {{yel|52}} {{br}} [[Vicente Rodrguez|Vicente]] {{goal|65}} {{br}} [[Enrique Romero]] {{yel|76}}
+|stadion = [[Bilino Polje]], [[Zenica]]
+|penonton = 14.380 orang
+|wasit = [[Massimo De Santis]] ([[Federasi Sepak Bola Italia|Italia]])
+|aw1 = Marco Ivaldi (Italia)
+|aw2 = Alessandro Griselli (Italia)
+|w4 = [[Paolo Bertini]] (Italia)
+}}
+----
+<div id = "BosHez v SerbMont">{{footballbox
+|date = [[9 Oktober]] [[2004]]
+|time = 20.15 [[UTC+2]]
+|tim1 = {{fb-rt|Bosnia-Herzegovina}}
+|skor = 00 {{br}} <small> (HT: 00) </small>
+|report = [http://www.fifa.com/worldcup/archive/germany2006/preliminaries/preliminary=8071/matches/match=36650/report.html (Laporan)]
+|tim2 = {{fb|Serbia dan Montenegro}}
+|gol1 = 
+|gol2 = [[Nenad orevi|Nenad Djordjevic]] {{yel|30}} {{br}} [[Zvonimir Vuki|Zvonimir Vukic]] {{yel|66}}
+|stadion = [[Stadion Asim Ferhatovi Hase|Kosevo]], [[Sarajevo]]
+|penonton = 22.440 orang
+|wasit = [[Gilles Veissire|Gilles Veissiere]] ([[Federasi Sepak Bola Perancis|Perancis]])
+|aw1 = Frederic Arnault (Perancis)
+|aw2 = Serge Vallin (Perancis)
+|w4 = [[Claude Colombo]] (Perancis)
+}}
+----
+<div id = "Spanyol v Belgia">{{footballbox
+|date = [[9 Oktober]] [[2004]]
+|time = 21.45 [[UTC+2]]
+|tim1 = {{fb-rt|Spanyol}}
+|skor = 20 {{br}} <small> (HT: 00) </small>
+|report = [http://www.fifa.com/worldcup/archive/germany2006/preliminaries/preliminary=8071/matches/match=36649/report.html (Laporan)]
+|tim2 = {{fb|Belgia}}
+|gol1 = [[Albert Luque]] {{goal|60}} {{br}} [[Ral Gonzlez|Raul]] {{goal|65}} {{br}} [[Xabi Alonso]] {{yel|82}}
+|gol2 = [[Vincent Kompany]] {{yel|11}} {{br}} [[Olivier Deschacht]] {{yel|16}} {{br}} [[Eric Deflandre]] {{sent off|2|28|29}} {{br}} [[Bart Goor]] {{sent off|2|44|68}} 
+|stadion = [[Stadion El Sardinero|El Sardinero]], [[Santander, Spanyol|Santander]]
+|penonton = 17.000 orang
+|wasit = [[Kim Milton Nielsen]] ([[Asosiasi Sepak Bola Denmark|Denmark]])
+|aw1 = Bo Blankholm Pedersen (Denmark)
+|aw2 = Torben Jensen (Denmark)
+|w4 = [[Knud Erik Fisker|Knud Fisker]] (Denmark)
+}}
+----
+<div id = "SerbMont v San Marino">{{footballbox
+|date = [[13 Oktober]] [[2004]]
+|time = 20.00 [[UTC+2]]
+|tim1 = {{fb-rt|Serbia dan Montenegro}}
+|skor = 50 {{br}} <small> (HT: 20) </small>
+|report = [http://www.fifa.com/worldcup/archive/germany2006/preliminaries/preliminary=8071/matches/match=36652/report.html (Laporan)]
+|tim2 = {{fb|San Marino}}
+|gol1 = [[Savo Miloevi|Savo Milosevic]] {{goal|35}} {{br}} [[Dejan Stankovi|Dejan Stankovic]] {{goal|46+}} {{goal|50}} {{br}} [[Ognjen Koroman]] {{goal|53}} {{yel|57}} {{br}} [[Nenad Brnovi|Nenad Brnovic]] {{yel|63}} {{br}} [[Zvonimir Vuki|Zvonimir Vukic]] {{goal|69}}
+|gol2 = [[Nicola Albani]] {{yel|87}}
+|stadion = [[Stadion Crvena Zvezda|Red Star]], [[Belgrade]]
+|penonton = 4.000 orang
+|wasit = [[Lassin Isaksen]] ([[Asosiasi Sepak Bola Kepulauan Faroe|Kepulauan Faroe]])
+|aw1 = <font style=font-size:88%>Jon Kari I Brekkuni (Kepulauan Faroe)</font>
+|aw2 = Jens Simonsen (Kepulauan Faroe)
+|w4 = [[Michael Svendsen]] ([[Asosiasi Sepak Bola Denmark|Denmark]])
+}}
+----
+<div id = "Lituania v Spanyol">{{footballbox
+|date = [[13 Oktober]] [[2004]]
+|time = 21.15 [[UTC+3]]
+|tim1 = {{fb-rt|Lituania}}
+|skor = 00 {{br}} <small> (HT: 00) </small>
+|report = [http://www.fifa.com/worldcup/archive/germany2006/preliminaries/preliminary=8071/matches/match=36651/report.html (Laporan)]
+|tim2 = {{fb|Spanyol}}
+|gol1 = [[Edgaras esnauskis|Edgaras Cesnauskis]] {{yel|45}} {{br}} [[Nerijus Barasa]] {{yel|65}}
+|gol2 = [[Mchel Salgado|Michel Salgado]] {{yel|79}} {{br}} [[David Albelda]] {{yel|88}} {{br}} [[Xavi|Xavi Hernandez]] {{yel|88}}
+|stadion = [[Stadion algiris|Zalgiris]], [[Vilnius]]
+|penonton = 9.114 orang
+|wasit = [[ric Poulat|Eric Poulat]] ([[Federasi Sepak Bola Perancis|Perancis]])
+|aw1 = Nelly Viennot (Perancis)
+|aw2 = Christian Thoison (Perancis)
+|w4 = [[Damien Ledentu]] (Perancis)
+}}
+----
+<div id = "Belgia v SerbMont">{{footballbox
+|date = [[17 November]] [[2004]]
+|time = 20.15 [[UTC+1]]
+|tim1 = {{fb-rt|Belgia}}
+|skor = 02 {{br}} <small> (HT: 01) </small>
+|report = [http://www.fifa.com/worldcup/archive/germany2006/preliminaries/preliminary=8071/matches/match=36654/report.html (Laporan)]
+|tim2 = {{fb|Serbia dan Montenegro}}
+|gol1 = [[Olivier Deschacht]] {{yel|16}} {{br}} [[Peter Van Der Heyden]] {{yel|90}}
+|gol2 = [[Zvonimir Vuki|Zvonimir Vukic]] {{goal|7}} {{yel|48}} {{br}} [[Predrag orevi|Predrag Djordjevic]] {{yel|34}} {{br}} [[Mateja Keman|Mateja Kezman]] {{goal|60}} {{br}} [[Igor Duljaj]] {{yel|85}}
+|stadion = [[Stadion Raja Baudouin|Raja Baudouin]], [[Brussels]]
+|penonton = 28.350 orang
+|wasit = [[Peter Frjdfeldt|Peter Frojdfeldt]] ([[Asosiasi Sepak Bola Swedia|Swedia]])
+|aw1 = Stefan Wittberg (Swedia)
+|aw2 = Ingemar Larsson (Swedia)
+|w4 = [[Martin Hansson]] (Swedia)
+}}
+----
+<div id = "San Marino v Lituania">{{footballbox
+|date = [[17 November]] [[2004]]
+|time = 20.30 [[UTC+1]]
+|tim1 = {{fb-rt|San Marino}}
+|skor = 01 {{br}} <small> (HT: 01) </small>
+|report = [http://www.fifa.com/worldcup/archive/germany2006/preliminaries/preliminary=8071/matches/match=36653/report.html (Laporan)]
+|tim2 = {{fb|Lituania}}
+|gol1 = [[Michele Marani]] {{yel|32}}
+|gol2 = [[Deividas esnauskis|Deividas Cesnauskis]] {{goal|41}} {{br}} [[Tomas virgdauskas|Tomas Zvirgzdauskas]] {{yel|60}} {{br}} [[Deividas emberas|Deividas Semberas]] {{yel|78}}
+|stadion = [[Stadion Olimpiade San Marino|Stadion Olimpiade]], [[Serravalle, San Marino|Serravalle]]
+|penonton = 1.457 orang
+|wasit = [[Karen Nalbandyan]] ([[Federasi Sepak Bola Armenia|Armenia]])
+|aw1 = Artur Igityan (Armenia)
+|aw2 = Arshak Knyazyan (Armenia)
+|w4 = [[Ararat Tshagharyan]] <font style=font-size:88%>(Armenia)</font>
+}}
+----
+<div id = "Spanyol v San Marino">{{footballbox
+|date = [[9 Februari]] [[2005]]
+|time = 21.45 [[UTC+1]]
+|tim1 = {{fb-rt|Spanyol}}
+|skor = 50 {{br}} <small> (HT: 30) </small>
+|report = [http://www.fifa.com/worldcup/archive/germany2006/preliminaries/preliminary=8071/matches/match=36655/report.html (Laporan)]
+|tim2 = {{fb|San Marino}}
+|gol1 = [[Joaqun Snchez Rodrguez|Joaquin]] {{goal|15}} {{br}} [[Fernando Torres]] {{goal|32}} {{br}} [[Ral Gonzlez|Raul]] {{goal|42}} {{br}} [[Jos Mara Gutirrez|Guti]] {{goal|61}} {{br}} [[Asier del Horno|Asier Del Horno]] {{goal|75}}
+|gol2 = 
+|stadion = [[Stadion de los Juegos Mediterrneos|Stadion Mediterraneo]], [[Almera|Almeria]]
+|penonton = 12.580 orang
+|wasit = [[Kenny Clark]] ([[Asosiasi Sepak Bola Skotlandia|Skotlandia]])
+|aw1 = Stuart Macaulay (Skotlandia)
+|aw2 = Gordon Middleton (Skotlandia)
+|w4 = [[Craig Thomson]] (Skotlandia)
+}}
+----
+<div id = "Belgia v BosHez">{{footballbox
+|date = [[26 Maret]] [[2005]]
+|time = 20.15 [[UTC+1]]
+|tim1 = {{fb-rt|Belgia}}
+|skor = 41 {{br}} <small> (HT: 21) </small>
+|report = [http://www.fifa.com/worldcup/archive/germany2006/preliminaries/preliminary=8071/matches/match=36656/report.html (Laporan)]
+|tim2 = {{fb|Bosnia Herzegovina}}
+|gol1 = [[mile Mpenza|Emile Mpenza]] {{goal|15}} {{goal|54}} {{br}} [[Thomas Buffel]] {{yel|31}} {{goal|77}} {{br}} [[Koen Daerden]] {{goal|44}}
+|gol2 = [[Elvir Boli|Elvir Bolic]] {{goal|1}} {{br}} [[Emir Spahi|Emir Spahic]] {{yel|17}} {{br}} [[Mirsad Belija|Mirsad Beslija]] {{yel|22}}
+|stadion = [[Stadion Raja Baudouin|Raja Baudouin]], [[Brussels]]
+|penonton = 36.700 orang
+|wasit = [[Vladimr Hrik|Vladimir Hrinak]] ([[Asosiasi Sepak Bola Slowakia|Slowakia]])
+|aw1 = Roman Csabay (Slowakia)
+|aw2 = Marian Ruzbarsky (Slowakia)
+|w4 = [[Richard Havrilla]] (Slowakia)
+}}
+----
+<div id = "BosHez v Lituania">{{footballbox
+|date = [[30 Maret]] [[2005]]
+|time = 20.00 [[UTC+2]]
+|tim1 = {{fb-rt|Bosnia-Herzegovina}}
+|skor = 11 {{br}} <small> (HT: 10) </small>
+|report = [http://www.fifa.com/worldcup/archive/germany2006/preliminaries/preliminary=8071/matches/match=36658/report.html (Laporan)]
+|tim2 = {{fb|Lituania}}
+|gol1 = [[Zvjezdan Misimovi|Zvjezdan Misimovic]] {{goal|21}} {{br}} [[Emir Spahi|Emir Spahic]] {{yel|59}} {{br}} [[Ninoslav Milenkovi|Ninoslav Milenkovic]] {{yel|72}} {{br}} [[Vladan Gruji|Vladan Grujic]] {{yel|74}} {{br}} [[Zlatan Bajramovi|Zlatan Bajramovic]] {{yel|88}}
+|gol2 = [[Deividas emberas|Deividas Semberas]] {{yel|56}} {{br}} [[Andrius Skerla]] {{yel|62}} {{br}} [[Deividas esnauskis|Deividas Cesnauskis]] {{yel|63}} {{br}} [[Marius Stankeviius|Marius Stankevicius]] {{goal|60}}{{sent off|0|65}} {{br}} [[Robertas Pokus|Robertas Poskus]] {{yel|71}}
+|stadion = [[Stadion Asim Ferhatovi Hase|Kosevo]], [[Sarajevo]]
+|penonton = 6.000 orang
+|wasit = [[Yuri Baskakov]] ([[Uni Sepak Bola Rusia|Rusia]])
+|aw1 = Vladimir Eniutin (Rusia)
+|aw2 = Evgueni Volnin (Rusia)
+|w4 = [[Stanislav Sukhina]] (Rusia)
+}}
+----
+<div id = "San Marino v Belgia">{{footballbox
+|date = [[30 Maret]] [[2005]]
+|time = 20.30 [[UTC+2]]
+|tim1 = {{fb-rt|San Marino}}
+|skor = 12 {{br}} <small> (HT: 11) </small>
+|report = [http://www.fifa.com/worldcup/archive/germany2006/preliminaries/preliminary=8071/matches/match=36659/report.html (Laporan)]
+|tim2 = {{fb|Belgia}}
+|gol1 = [[Alessandro Della Valle]] {{yel|32}} {{br}} [[Nicola Ciacci]] {{yel|38}} {{br}} [[Andy Selva]] {{goal|41}}
+|gol2 = [[Timmy Simons]] {{goal|18|pen.}} {{br}} [[Peter Van Der Heyden]] {{yel|26}} {{br}} [[Daniel Van Buyten]] {{goal|65}} {{br}} [[Vincent Kompany]] {{yel|73}}
+|stadion = [[Stadion Olimpiade San Marino|Stadion Olimpiade]], [[Serravalle, San Marino|Serravalle]]
+|penonton = 871 orang
+|wasit = [[Giorgos Kasnaferis]] ([[Federasi Sepak Bola Yunani|Yunani]])
+|aw1 = Konstantinos Dalas (Yunani)
+|aw2 = George Taprantzis (Yunani)
+|w4 = [[Georgios Douros]] (Yunani)
+}}
+----
+<div id = "SerbMont v Spanyol">{{footballbox
+|date = [[30 Maret]] [[2005]]
+|time = 21.00 [[UTC+2]]
+|tim1 = {{fb-rt|Serbia dan Montenegro}}
+|skor = 00 {{br}} <small> (HT: 00) </small>
+|report = [http://www.fifa.com/worldcup/archive/germany2006/preliminaries/preliminary=8071/matches/match=36657/report.html (Laporan)]
+|tim2 = {{fb|Spanyol}}
+|gol1 = [[Predrag orevi|Predrag Djordjevic]] {{yel|55}}
+|gol2 = [[Sergio Ramos]] {{yel|54}} {{br}} [[David Albelda]] {{yel|60}}
+|stadion = [[Stadion Crvena Zvezda|FK Crvena Zvezda]], [[Belgrade]]
+|penonton = 48.910 orang
+|wasit = [[Massimo Busacca]] ([[Asosiasi Sepak Bola Swiss|Swiss]])
+|aw1 = Francesco Buragina (Swiss)
+|aw2 = Matthias Arnet (Swiss)
+|w4 = [[Carlo Bertolini]] (Swiss)
+}}
+----
+<div id = "SerbMont v Belgia">{{footballbox
+|date = [[4 Juni]] [[2005]]
+|time = 20.15 [[UTC+2]]
+|tim1 = {{fb-rt|Serbia dan Montenegro}}
+|skor = 00 {{br}} <small> (HT: 00) </small>
+|report = [http://www.fifa.com/worldcup/archive/germany2006/preliminaries/preliminary=8071/matches/match=36660/report.html (Laporan)]
+|tim2 = {{fb|Belgia}}
+|gol1 = 
+|gol2 = [[Mbo Mpenza]] {{yel|83}}
+|stadion = [[Stadion Crvena Zvezda|FK Crvena Zvezda]], [[Belgrade]]
+|penonton = 16.662 orang
+|wasit = [[Valentin Ivanov]] ([[Uni Sepak Bola Rusia|Rusia]])
+|aw1 = Tikhon Kalugin (Rusia)
+|aw2 = Nikolay Golubev (Rusia)
+|w4 = [[Igor Zakharov]] (Rusia)
+}}
+----
+<div id = "San Marino v BosHez">{{footballbox
+|date = [[4 Juni]] [[2005]]
+|time = 20.30 [[UTC+2]]
+|tim1 = {{fb-rt|San Marino}}
+|skor = 13 {{br}} <small> (HT: 12) </small>
+|report = [http://www.fifa.com/worldcup/archive/germany2006/preliminaries/preliminary=8071/matches/match=36662/report.html (Laporan)]
+|tim2 = {{fb|Bosnia Herzegovina}}
+|gol1 = [[Damiano Vannucci]] {{yel|9}} {{br}} [[Andy Selva]] {{goal|39}} {{br}} [[Michele Marani]] {{yel|61}} {{br}} [[Federico Crescentini]] {{yel|89}}
+|gol2 = [[Hasan Salihamidi|Hasan Salihamidzic]] {{goal|17}} {{goal|38}} {{yel|50}} {{br}} [[Sergej Barbarez]] {{yel|70}} {{goal|75}} {{br}} [[Ivica Grli|Ivica Grlic]] {{yel|84}}
+|stadion = [[Stadion Olimpiade San Marino|Stadion Olimpiade]], [[Serravalle, San Marino|Serravalle]]
+|penonton = 750 orang
+|wasit = [[Blent Demirlek|Bulent Demirlek]] ([[Federasi Sepak Bola Turki|Turki]])
+|aw1 = Erhan Sonmez (Turki)
+|aw2 = Adil Sinem (Turki)
+|w4 = [[Metin Aydoan|Metin Aydogan]] (Turki)
+}}
+----
+<div id = "Spanyol v Lituania">{{footballbox
+|date = [[4 Juni]] [[2005]]
+|time = 21.30 [[UTC+2]]
+|tim1 = {{fb-rt|Spanyol}}
+|skor = 10 {{br}} <small> (HT: 00) </small>
+|report = [http://www.fifa.com/worldcup/archive/germany2006/preliminaries/preliminary=8071/matches/match=36661/report.html (Laporan)]
+|tim2 = {{fb|Lituania}}
+|gol1 = [[Joaqun Snchez Rodrguez|Joaquin]] {{yel|44}} {{br}} [[Carles Puyol]] {{yel|52}} {{br}} [[Albert Luque]] {{goal|68}}
+|gol2 = [[Tomas virgdauskas|Tomas Zvirgzdauskas]] {{yel|9}} {{br}} [[Robertas Pokus|Robertas Poskus]] {{yel|43}} {{br}} [[Tomas Danileviius|Tomas Danilevicius]] {{yel|44}} {{br}} [[Nerijus Barasa]] {{yel|90}}
+|stadion = [[Stadion Mestalla|Mestalla]], [[Valencia]]
+|penonton = 25.000 orang
+|wasit = [[Stefano Farina]] ([[Federasi Sepak Bola Italia|Italia]])
+|aw1 = Andrea Consolo (Italia)
+|aw2 = Alessandro Stagnoli (Italia)
+|w4 = [[Gianluca Paparesta]] (Italia)
+}}
+----
+<div id = "Spanyol v BosHez">{{footballbox
+|date = [[8 Juni]] [[2005]]
+|time = 22.00 [[UTC+2]]
+|tim1 = {{fb-rt|Spanyol}}
+|skor = 11 {{br}} <small> (HT: 01) </small>
+|report = [http://www.fifa.com/worldcup/archive/germany2006/preliminaries/preliminary=8071/matches/match=36663/report.html (Laporan)]
+|tim2 = {{fb|Bosnia Herzegovina}}
+|gol1 = [[David Albelda]] {{yel|86}} {{br}} [[Carlos Marchena]] {{goal|96}}
+|gol2 = [[Emir Spahi]] {{yel|30}} {{br}} [[Zvjezdan Misimovi]] {{goal|39}} {{br}} [[Vedin Musi]] {{yel|57}} {{br}} [[Dario Damjanovi]] {{yel|77}} {{br}} [[Ivica Grli]] {{yel|81}} {{br}} [[Branimir Baji]] {{yel|82}} {{br}} [[Nedim Halilovi]] {{sent off|2|85|87}} {{br}} [[Mirsad Belija]] {{sent off|2|89|95}} 
+|stadion = [[Stadion Mestalla]], [[Valencia]]
+|penonton = 38.041 orang
+|wasit = [[Steve Bennett]] ([[The Football Association|Inggris]])
+|aw1 = Robert Lewis (Inggris)
+|aw2 = Philip Sharp (Inggris)
+|w4 = [[David Malcolm]] ({{asb|Irlandia Utara}})
+}}
+----
+<div id = "BosHez v Belgia">{{footballbox
+|date = [[3 September]] [[2005]]
+|time = 20.15 [[UTC+2]]
+|tim1 = {{fb-rt|Bosnia-Herzegovina}}
+|skor = 10 {{br}} <small> (HT: 00) </small>
+|report = [http://www.fifa.com/worldcup/archive/germany2006/preliminaries/preliminary=8071/matches/match=36665/report.html (Laporan)]
+|tim2 = {{fb|Belgia}}
+|gol1 = [[Demal Berberovi]] {{yel|52}} {{br}} [[Sergej Barbarez]] {{goal|62}} {{br}} [[Emir Spahi]] {{yel|65}} 
+|gol2 = [[Vincent Kompany]] {{yel|61}} {{br}} [[Jelle Van Damme]] {{yel|65}} {{br}} [[Daniel Van Buyten]] {{yel|92}}
+|stadion = [[Bilino Polje]], [[Zenica]]
+|penonton = 12.000 orang
+|wasit = [[Olegrio Benquerena|Olegario Benquerenca]] ([[Federasi Sepak Bola Portugal|Portugal]])
+|aw1 = Bertino Miranda (Portugal)
+|aw2 = Joao Santos (Portugal)
+|w4 = [[Joaquim Paulo Gomes Ferreira Paraty Silva|J. Paulo Paraty Silva]] <font style=font-size:88%>(Portugal)
+}}
+----
+<div id = "SerbMont v Lituania">{{footballbox
+|date = [[3 September]] [[2005]]
+|time = 20.30 [[UTC+2]]
+|tim1 = {{fb-rt|Serbia dan Montenegro}}
+|skor = 20 {{br}} <small> (HT: 10) </small>
+|report = [http://www.fifa.com/worldcup/archive/germany2006/preliminaries/preliminary=8071/matches/match=36664/report.html (Laporan)]
+|tim2 = {{fb|Lituania}}
+|gol1 = [[Mateja Keman]] {{goal|18}} {{yel|44}} {{br}} [[Saa Ili]] {{goal|74}}
+|gol2 = [[Andrius Skerla]] {{yel|27}} {{br}} [[Deividas emberas]] {{yel|43}}
+|stadion = [[Stadion Crvena Zvezda|FK Crvena Zvezda]], [[Belgrade]]
+|penonton = 20.203 orang
+|wasit = [[Kim Milton Nielsen]] ([[Asosiasi Sepak Bola Denmark|Denmark]])
+|aw1 = Jorgen Jepsen (Denmark)
+|aw2 = Torben Jensen (Denmark)
+|w4 = [[Knud Erik Fisker|Knud Fisker]] (Denmark)
+}}
+----
+<div id = "Lituania v BosHez">{{footballbox
+|date = [[7 September]] [[2005]]
+|time = 20.00 [[UTC+3]]
+|tim1 = {{fb-rt|Lituania}}
+|skor = 01 {{br}} <small> (HT: 01) </small>
+|report = [http://www.fifa.com/worldcup/archive/germany2006/preliminaries/preliminary=8071/matches/match=36668/report.html (Laporan)]
+|tim2 = {{fb|Bosnia Herzegovina}}
+|gol1 = [[Deividas emberas]] {{yel|68}} {{br}} [[Tomas Danileviius]] {{yel|73}} {{br}} [[Edgaras esnauskis]] {{sent off|0|76}}
+|gol2 = [[Sergej Barbarez]] {{goal|28}} {{br}} [[Saa Papac]] {{yel|57}} {{br}} [[Mirsad Belija]] {{yel|69}} {{br}} [[Kenan Hasagi]] {{yel|80}} {{br}} [[Zlatan Bajramovi]] {{yel|85}}
+|stadion = [[Stadion algiris|Vilnius]], [[Vilnius]]
+|penonton = 4.000 orang
+|wasit = [[Viktor Kassai]] ([[Federasi Sepak Bola Hongaria|Hongaria]])
+|aw1 = Gabor Eros (Hongaria)
+|aw2 = Attila Kelemen (Hongaria)
+|w4 = [[Ferenc Bede]] (Hongaria)
+}}
+----
+<div id = "Belgia v San Marino">{{footballbox
+|date = [[7 September]] [[2005]]
+|time = 20.30 [[UTC+2]]
+|tim1 = {{fb-rt|Belgia}}
+|skor = 80 {{br}} <small> (HT: 30) </small>
+|report = [http://www.fifa.com/worldcup/archive/germany2006/preliminaries/preliminary=8071/matches/match=36667/report.html (Laporan)]
+|tim2 = {{fb|San Marino}}
+|gol1 = [[Yves Vanderhaeghe]] {{yel|24}} {{br}} [[Bart Goor]] {{yel|31}} {{br}} [[Timmy Simons]] {{goal|34|pen.}} {{br}} [[Koen Daerden]] {{goal|39}} {{goal|67}} {{br}} [[Thomas Buffel]] {{goal|44}} {{br}} [[Mbo Mpenza]] {{goal|52}} {{goal|71}} {{br}} [[Kevin Vandenbergh]] {{goal|53}} {{br}} [[Daniel Van Buyten]] {{goal|83}}
+|gol2 = [[Simone Bacchiocchi|Simone Bacciocchi]] {{yel|18}} {{br}} [[Andy Selva]] {{yel|33}} {{br}} [[Carlo Valentini]] {{yel|33}}
+|stadion = [[Stadion Olimpiade Antwerp|Kota Olimpiade]], [[Antwerp]]
+|penonton = 8.207 orang
+|wasit = [[Ian Stokes]] ([[Asosiasi Sepak Bola Republik Irlandia|Republik Irlandia]])
+|aw1 = Martin Moloney (Republik Irlandia)
+|aw2 = Ciaran Delaney (Republik Irlandia)
+|w4 = [[David McKeon]] (Rep. Irlandia)
+}}
+----
+<div id = "Spanyol v SerbMont">{{footballbox
+|date = [[7 September]] [[2005]]
+|time = 22.00 [[UTC+2]]
+|tim1 = {{fb-rt|Spanyol}}
+|skor = 11 {{br}} <small> (HT: 10) </small>
+|report = [http://www.fifa.com/worldcup/archive/germany2006/preliminaries/preliminary=8071/matches/match=36666/report.html (Laporan)]
+|tim2 = {{fb|Serbia dan Montenegro}}
+|gol1 = [[Ral Gonzlez|Raul]] {{goal|19}} {{br}} [[Xabi Alonso]] {{yel|56}} {{br}} [[Asier del Horno|Asier Del Horno]] {{yel|68}} {{br}} [[Carlos Marchena]] {{yel|77}}
+|gol2 = [[Mladen Krstaji|Mladen Krstajic]] {{yel|58}} {{br}} [[Ognjen Koroman]] {{yel|63}} {{br}} [[Mateja Keman|Mateja Kezman]] {{goal|68}} {{br}} [[Igor Duljaj]] {{sent off|2|74|90}} {{br}} [[Predrag orevi|Predrag Djordjevic]] {{yel|81}}
+|stadion = [[Stadion Vicente Caldern]], [[Madrid]]
+|penonton = 51.491 orang
+|wasit = [[Graham Poll]] ([[The Football Association|Inggris]])
+|aw1 = Glenn Turner (Inggris)
+|aw2 = Philip Sharp (Inggris)
+|w4 = [[Mike Dean|Michael Dean]] (Inggris)
+}}
+----
+<div id = "Lituania v SerbMont">{{footballbox
+|date = [[8 Oktober]] [[2005]]
+|time = 20.00 [[UTC+3]]
+|tim1 = {{fb-rt|Lituania}}
+|skor = 02 {{br}} <small> (HT: 01) </small>
+|report = [http://www.fifa.com/worldcup/archive/germany2006/preliminaries/preliminary=8071/matches/match=36669/report.html (Laporan)]
+|tim2 = {{fb|Serbia dan Montenegro}}
+|gol1 = [[Deividas esnauskis|Deividas Cesnauskis]] {{yel|63}}
+|gol2 = [[Mateja Keman|Mateja Kezman]] {{goal|44}} {{br}} [[Albert Na|Albert Nadj]] {{yel|46+}} {{br}} [[Dragan Mladenovi|Dragan Mladenovic]] {{yel|49}} {{br}} [[Zvonimir Vuki|Zvonimir Vukic]] {{goal|85}} {{br}} [[Danijel Ljuboja]] {{yel|89}}|stadion = [[Stadion algiris|Vilnius]], [[Vilnius]]
+|penonton = 1.500 orang
+|wasit = [[Jan Wegereef]] ([[Asosiasi Sepak Bola Kerajaan Belanda|Belanda]])
+|aw1 = Adriaan Inia (Belanda)
+|aw2 = Arie Brink (Belanda)
+|w4 = [[Pieter Vink]] (Belanda)
+}}
+----
+<div id = "BosHez v San Marino">{{footballbox
+|date = [[8 Oktober]] [[2005]]
+|time = 20.00 [[UTC+2]]
+|tim1 = {{fb-rt|Bosnia-Herzegovina}}
+|skor = 30 {{br}} <small> (HT: 00) </small>
+|report = [http://www.fifa.com/worldcup/archive/germany2006/preliminaries/preliminary=8071/matches/match=36670/report.html (Laporan)]
+|tim2 = {{fb|San Marino}}
+|gol1 = [[Hasan Salihamidi|Hasan Salihamidzic]] {{yel|25}} {{br}} [[Elvir Boli|Elvir Bolic]] {{goal|46}} {{goal|75}} {{goal|82}} {{br}} [[Ivica Grli|Ivica Grlic]] {{yel|81}}
+|gol2 = [[Andy Selva]] {{yel|27}} {{br}} [[Marco Domeniconi]] {{yel|37}} {{br}} [[Matteo Andreini]] {{yel|63}}
+|stadion = [[Bilino Polje]], [[Zenica]]
+|penonton = 8.500 orang
+|wasit = [[Alain Hamer]] ([[Federasi Sepak Bola Luksemburg|Luksemburg]])
+|aw1 = Bruno Faye ([[Federasi Sepak Bola Perancis|Perancis]])
+|aw2 = Francis Crelo (Luksemburg)
+|w4 = [[Luc Wilmes]] (Luksemburg)
+}}
+----
+<div id = "Belgia v Spanyol">{{footballbox
+|date = [[8 Oktober]] [[2005]]
+|time = 20.45 [[UTC+2]]
+|tim1 = {{fb-rt|Belgia}}
+|skor = 02 {{br}} <small> (HT: 00) </small>
+|report = [http://www.fifa.com/worldcup/archive/germany2006/preliminaries/preliminary=8071/matches/match=36671/report.html (Laporan)]
+|tim2 = {{fb|Spanyol}}
+|gol1 = [[Anthony Vanden Borre]] {{yel|22}} {{br}} [[Timmy Simons]] {{yel|45}} {{br}} [[Olivier Deschacht]] {{yel|68}} {{br}} [[Eric Deflandre]] {{yel|72}} 
+|gol2 = [[Mchel Salgado|Michel Salgado]] {{yel|25}} {{br}} [[David Albelda]] {{yel|39}} {{br}} [[Fernando Torres]] {{goal|56}} {{goal|66}} {{yel|67}} {{br}}[[David Villa]] {{yel|64}} {{br}} [[Xavi|Xavi Hernandez]] {{yel|82}}
+|stadion = [[Stadion Raja Baudouin|Raja Baudouin]], [[Brussels]]
+|penonton = 40.300 orang
+|wasit = [[ubo Miche|Lubos Michel]] ([[Asosiasi Sepak Bola Slowakia|Slowakia]])
+|aw1 = Roman Slysko (Slowakia)
+|aw2 = Martin Balko (Slowakia)
+|w4 = [[Vladimr Hrik|Vladimir Hrinak]] (Slowakia)
+}}
+----
+<div id = "San Marino v Spanyol">{{footballbox
+|date = [[12 Oktober]] [[2005]]
+|time = 20.30 [[UTC+2]]
+|tim1 = {{fb-rt|San Marino}}
+|skor = 06 {{br}} <small> (HT: 03) </small>
+|report = [http://www.fifa.com/worldcup/archive/germany2006/preliminaries/preliminary=8071/matches/match=36674/report.html (Laporan)]
+|tim2 = {{fb|Spanyol}}
+|gol1 = [[Alessandro Della Valle]] {{yel|27}} {{br}} [[Manuel Marani]] {{yel|37}} {{br}} [[Alex Gasperoni]] {{yel|41}}
+|gol2 = [[Antonio Lpez Guerrero|Antonio Lopez]] {{goal|1}} {{br}} [[Fernando Torres|F. Torres]] {{goal|11}} {{goal|78}} {{goal|89|pen.}} {{br}} [[Sergio Ramos]] {{goal|31}} {{goal|48}} {{br}} [[Jos Antonio Reyes|Jose Antonio Reyes]] {{yel|41}}
+|stadion = [[Stadion Olimpiade San Marino|Stadion Olimpiade]], [[Serravalle, San Marino|Serravalle]]
+|penonton = 3.426 orang
+|wasit = [[Florian Meyer]] ([[Asosiasi Sepak Bola Jerman|Jerman]])
+|aw1 = Carsten Kadach (Jerman)
+|aw2 = Harald Sather (Jerman)
+|w4 = [[Peter Sippel]] (Jerman)
+}}
+----
+<div id = "SerbMont v BosHez">{{footballbox
+|date = [[12 Oktober]] [[2005]]
+|time = 20.30 [[UTC+2]]
+|tim1 = {{fb-rt|Serbia dan Montenegro}}
+|skor = 10 {{br}} <small> (HT: 10) </small>
+|report = [http://www.fifa.com/worldcup/archive/germany2006/preliminaries/preliminary=8071/matches/match=36672/report.html (Laporan)]
+|tim2 = {{fb|Bosnia Herzegovina}}
+|gol1 = [[Mateja Keman|Mateja Kezman]] {{goal|7}} {{br}} [[Ognjen Koroman]] {{yel|23}} {{br}} [[Zvonimir Vuki|Zvonimir Vukic]] {{yel|60}} {{br}} [[Nemanja Vidi|Nemanja Vidic]] {{sent off|2|76|84}}
+|gol2 = [[Ninoslav Milenkovi|Ninoslav Milenkovic]] {{yel|35}} {{br}} [[Kenan Hasagi|Kenan Hasagic]] {{yel|76}}
+|stadion = [[Stadion Crvena Zvezda|FK Crvena Zvezda]], [[Belgrade]]
+|penonton = 46.305 orang
+|wasit = [[Kyros Vassaras]] ([[Federasi Sepak Bola Yunani|Yunani]])
+|aw1 = Simeon Tsolakidis (Yunani)
+|aw2 = Dimitrios Bozatzidis (Yunani)
+|w4 = [[George Kasnaferis]] (Yunani)
+}}
+----
+<div id = "Lituania v Belgia">{{footballbox
+|date = [[12 Oktober]] [[2005]]
+|time = 21.30 [[UTC+3]]
+|tim1 = {{fb-rt|Lituania}}
+|skor = 11 {{br}} <small> (HT: 11) </small>
+|report = [http://www.fifa.com/worldcup/archive/germany2006/preliminaries/preliminary=8071/matches/match=36673/report.html (Laporan)]
+|tim2 = {{fb|Belgia}}
+|gol1 = [[Rolandas Diauktas]] {{yel|28}} {{br}} [[Marius Stankeviius]] {{yel|74}} {{br}} [[Olivier Deschacht]] {{goal|82|o.g.}} {{br}} [[Deividas emberas]] {{sent off|0|83}} {{br}} [[Tomas Danileviius]] {{yel|88}}
+|gol2 = [[Jonathan Walasiak]] {{yel|15}} {{br}} [[Karel Geraerts]] {{goal|20}} {{br}} [[Olivier Deschacht]] {{yel|50}} {{br}} [[Birger Maertens]] {{yel|68}} 
+|stadion = [[Stadion algiris|Vilnius]], [[Vilnius]]
+|penonton = 1.500 orang
+|wasit = [[Mike Riley (wasit)|Mike Riley]] ([[The Football Association|Inggris]])
+|aw1 = Robert Lewis (Inggris)
+|aw2 = Philip Sharp (Inggris)
+|w4 = [[Matt Messias]] (Inggris)
+}}
+
+== Pranala luar ==
+{{Kualifikasi PD2006}}
+
+[[Kategori:Piala Dunia FIFA 2006|Kualifikasi Zona Eropa  Grup 7]]
+[[Kategori:Kualifikasi Piala Dunia FIFA 2006|Kualifikasi Zona Eropa Grup 7]]

@@ -1,0 +1,13 @@
+Berkas:Tipe huruf merek PO ANS.jpg
+== {{int:filedesc}} ==
+{{Information
+|description    = Tipe huruf merek [[PO ANS]].
+|source         = [http://www.bismania.com/home/showthread.php?t=4286&page=4 ''Bismania.com'']. Diakses 14-11-2015.
+|date           = 
+|location       = (tempat; opsional)
+|author         = 
+|permission     = 
+|other_versions = 
+}}
+== {{int:license-header}} ==
+{{Fairuse}}

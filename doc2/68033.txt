@@ -1,0 +1,8 @@
+Transkriptomika
+'''Transkriptomika''' ({{lang-en|transcriptomics}}) merupakan bagian dari [[biologi molekular]] yang mengkaji tentang produk [[transkripsi]] secara keseluruhan (''transkriptom''). Produk transkripsi hanyalah [[RNA]], sehingga transkriptomika bisa juga disebut sebagai ilmu tentang RNA dalam suatu organisme. Meskipun demikian, karena dinamika RNA dalam [[sel (biologi)|sel]] dipelajari pula, sejumlah [[protein]] (''vis a vis'' [[enzim]]) dan beberapa zat lain juga dipelajari dalam kaitan dengan modifikasi RNA.
+
+Dalam transkriptomika, peran [[PCR]] dan penggunaan [[cDNA]] sangat vital. RNA bersifat tidak stabil dan sangat mudah terpengaruh keadaan lingkungan sel. Pengubahan RNA hasil ekspresi menjadi cDNA menggunakan PCR membuat komposisi hasil [[ekspresi genetik|ekspresi]] [[gen]] dapat diamati dengan lebih baik.
+
+{{Genetika-stub}}
+
+[[Kategori:Genetika molekular]]

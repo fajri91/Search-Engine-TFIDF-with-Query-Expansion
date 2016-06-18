@@ -1,0 +1,100 @@
+Templat:Kualifikasi UEFA Euro 2016 Grup C
+{|
+|-
+|{{KepalaKlasemenTemplat|Kualifikasi UEFA Euro 2016 Group C|expanded={{{expanded|}}}}}
+|- bgcolor=#ccffcc
+|align="left"|{{fb|SVK}}
+|5 {{#if:{{{expanded|}}}|{{!!}} 5 {{!!}} 0 {{!!}} 0 {{!!}} 11 {{!!}} 2 {{!!}} +9 }}||'''15'''
+|- bgcolor=#ccccff
+|align="left"|{{fb|ESP}}
+|5 {{#if:{{{expanded|}}}|{{!!}} 4 {{!!}} 0 {{!!}} 1 {{!!}} 14 {{!!}} 3 {{!!}} +11 }}||'''12'''
+|-
+|align="left"|{{fb|UKR}}
+|5 {{#if:{{{expanded|}}}|{{!!}} 3 {{!!}} 0 {{!!}} 2 {{!!}} 6 {{!!}} 2 {{!!}} +4 }}||'''9'''
+|-
+|align="left"|{{fb|BLR}}
+|5 {{#if:{{{expanded|}}}|{{!!}} 1 {{!!}} 1 {{!!}} 3 {{!!}} 4 {{!!}} 10 {{!!}} &minus;6 }}||'''4'''
+|-
+|align="left"|{{fb|MKD}}
+|5 {{#if:{{{expanded|}}}|{{!!}} 1 {{!!}} 0 {{!!}} 4 {{!!}} 5 {{!!}} 12 {{!!}} &minus;7 }}||'''3'''
+|-
+|align="left"|{{fb|LUX}}
+|5 {{#if:{{{expanded|}}}|{{!!}} 0 {{!!}} 1 {{!!}} 4 {{!!}} 3 {{!!}} 14 {{!!}} &minus;11 }}||'''1'''
+|}
+|<!-- FIXTURES TABLE -->
+{{#if:{{{fixtures|}}}|
+{{{!}} class="wikitable" style="text-align:center; font-size:90%;"
+{{!}}-
+!width=165{{!}}&nbsp;
+!{{flagicon|ESP}}
+!{{flagicon|UKR}}
+!{{flagicon|SVK}}
+!{{flagicon|BLR}}
+!{{flagicon|MKD}}
+!{{flagicon|LUX}}
+{{!}}-
+{{!}} style="text-align:right;"{{!}}{{fb-rt|ESP}}
+{{!}} &mdash;
+{{!}} [[Grup C Kualifikasi Kejuaraan Sepak Bola Eropa UEFA 2016#Spanyol|10]]
+{{!}} [[Grup C Kualifikasi Kejuaraan Sepak Bola Eropa UEFA 2016#Spanyol|{{small|6 Sep}}]]
+{{!}} [[Grup C Kualifikasi Kejuaraan Sepak Bola Eropa UEFA 2016#Spanyol|30]]
+{{!}} [[Grup C Kualifikasi Kejuaraan Sepak Bola Eropa UEFA 2016#Spanyol|51]]
+{{!}} [[Grup C Kualifikasi Kejuaraan Sepak Bola Eropa UEFA 2016#Spanyol|{{small|10 Okt}}]]
+{{!}}-
+{{!}} style="text-align:right;"{{!}}{{fb-rt|UKR}}
+{{!}} [[Grup C Kualifikasi Kejuaraan Sepak Bola Eropa UEFA 2016#Ukraina|{{small|13 Okt}}]]
+{{!}} &mdash;
+{{!}} [[Grup C Kualifikasi Kejuaraan Sepak Bola Eropa UEFA 2016#Ukraina|01]]
+{{!}} [[Grup C Kualifikasi Kejuaraan Sepak Bola Eropa UEFA 2016#Ukraina|{{small|5 Sep}}]]
+{{!}} [[Grup C Kualifikasi Kejuaraan Sepak Bola Eropa UEFA 2016#Ukraina|10]]
+{{!}} [[Grup C Kualifikasi Kejuaraan Sepak Bola Eropa UEFA 2016#Ukraina|{{small|14 Jun}}]]
+{{!}}-
+{{!}} style="text-align:right;"{{!}}{{fb-rt|SVK}}
+{{!}} [[Grup C Kualifikasi Kejuaraan Sepak Bola Eropa UEFA 2016#Slovakia|21]]
+{{!}} [[Grup C Kualifikasi Kejuaraan Sepak Bola Eropa UEFA 2016#Slovakia|{{small|9 Sep}}]]
+{{!}} &mdash;
+{{!}} [[Grup C Kualifikasi Kejuaraan Sepak Bola Eropa UEFA 2016#Slovakia|{{small|10 Okt}}]]
+{{!}} [[Grup C Kualifikasi Kejuaraan Sepak Bola Eropa UEFA 2016#Slovakia|{{small|15 Jun}}]]
+{{!}} [[Grup C Kualifikasi Kejuaraan Sepak Bola Eropa UEFA 2016#Slovakia|30]]
+{{!}}-
+{{!}} style="text-align:right;"{{!}}{{fb-rt|BLR}}
+{{!}} [[Grup C Kualifikasi Kejuaraan Sepak Bola Eropa UEFA 2016#Belarus|{{small|15 Jun}}]]
+{{!}} [[Grup C Kualifikasi Kejuaraan Sepak Bola Eropa UEFA 2016#Belarus|02]]
+{{!}} [[Grup C Kualifikasi Kejuaraan Sepak Bola Eropa UEFA 2016#Belarus|13]]
+{{!}} &mdash;
+{{!}} [[Grup C Kualifikasi Kejuaraan Sepak Bola Eropa UEFA 2016#Belarus|{{small|13 Okt}}]]
+{{!}} [[Grup C Kualifikasi Kejuaraan Sepak Bola Eropa UEFA 2016#Belarus|{{small|9 Sep}}]]
+{{!}}-
+{{!}} style="text-align:right;"{{!}}{{fb-rt|MKD}}
+{{!}} [[Grup C Kualifikasi Kejuaraan Sepak Bola Eropa UEFA 2016#Makedonia|{{small|9 Sep}}]]
+{{!}} [[Grup C Kualifikasi Kejuaraan Sepak Bola Eropa UEFA 2016#Makedonia|{{small|10 Okt}}]]
+{{!}} [[Grup C Kualifikasi Kejuaraan Sepak Bola Eropa UEFA 2016#Makedonia|02]]
+{{!}} [[Grup C Kualifikasi Kejuaraan Sepak Bola Eropa UEFA 2016#Makedonia|12]]
+{{!}} &mdash;
+{{!}} [[Grup C Kualifikasi Kejuaraan Sepak Bola Eropa UEFA 2016#Makedonia|32]]
+{{!}}-
+{{!}} style="text-align:right;"{{!}}{{fb-rt|LUX}}
+{{!}} [[Grup C Kualifikasi Kejuaraan Sepak Bola Eropa UEFA 2016#Luksemburg|04]]
+{{!}} [[Grup C Kualifikasi Kejuaraan Sepak Bola Eropa UEFA 2016#Luksemburg|03]]
+{{!}} [[Grup C Kualifikasi Kejuaraan Sepak Bola Eropa UEFA 2016#Luksemburg|{{small|13 Okt}}]]
+{{!}} [[Grup C Kualifikasi Kejuaraan Sepak Bola Eropa UEFA 2016#Luksemburg|11]]
+{{!}} [[Grup C Kualifikasi Kejuaraan Sepak Bola Eropa UEFA 2016#Luksemburg|{{small|5 Sep}}]]
+{{!}} &mdash;
+{{!}}}
+}}
+|}
+{{#if:{{{tiebreakers|}}}|
+}}
+{{#if:{{{scenarios|}}}|
+}}<noinclude>
+
+[[Kategori:Templat Kualifikasi Kejuaraan Sepak Bola Eropa UEFA 2016|Grup C]]
+
+
+
+
+
+
+
+
+</noinclude>

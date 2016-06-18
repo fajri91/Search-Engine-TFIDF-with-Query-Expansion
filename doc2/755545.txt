@@ -1,0 +1,15 @@
+Berkas:Setya Novanto.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+[[Setya Novanto]], politisi Indonesia. Sumber: setyanovanto.info. [http://www.setyanovanto.info/]
+
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Fairuse}}

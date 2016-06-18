@@ -1,0 +1,14 @@
+Berkas:WKYC82.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+Logo ketiga [[WKYC-TV]] ([[1979]]-[[1984]])
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Logo}}

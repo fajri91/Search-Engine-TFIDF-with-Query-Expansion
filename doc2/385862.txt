@@ -1,0 +1,131 @@
+Civilization IV: Colonization
+{{Infobox VG
+| title =Sid Meier's Civilization IV: Colonization
+| image =
+| caption =
+| developer = [[Firaxis Games]]
+| publisher = [[2K Games]]
+| designer = H. Edward Piper
+| license =
+| series = [[Civilization (seri)|Civilization]]
+| engine = [[Civilization IV]] <small>(''derivation'' dari mesin [[Gamebryo]])</small>
+| version = 1.01f <small>(pada 11 Maret 2009)</small>
+| released = 22 September 2008
+| genre = [[Permainan strategi berbasis giliran]]
+| modes = [[Single-player]], [[Multiplayer]]
+| ratings = {{vgratings|ESRB=E10+<ref name="esrbrating" />}}{{vgratings|OFLCA=PG}}
+| platforms=[[Microsoft Windows]], [[Mac OS X]]<ref name="esrbrating">[[Entertainment Software Rating Board|ESRB]] listing</ref>
+| media=[[CD-ROM]], ''[[Steam (software)|Steam]] download''
+| requirements=[[Sistem operasi|SO]] '''''Microsoft Windows''''': [[Windows 2000]]/[[Windows XP|XP]]/[[Windows Vista|Vista]]<br />[[Random access memory|RAM]]: 512 [[Megabyte|MB]]<br />[[Central processing unit|CPU]]: 1.2 [[Hertz|GHz]] (1.8 GHz untuk penuh)<br />[[Disc drive optik|Disc drive]]:4x CD-ROM drive<br />[[Hard disk drive|HDD]]: 900 MB ruang bebas<br />[[Kartu grafis|Grafis]]: DirectX 9.0c-compatible 64 MB (128 MB untuk penuh) video card dengan Shader 1.1 support<br />[[Sound card|Sound]]: DirectX 9.0c compatible
+| input = [[Keyboard]] & [[tetikus]]
+}}
+
+'''''Sid Meier's Civilization IV: Colonization''''' adalah sebuah ''remake'' (sebuah konversi total<ref>Seperti tercatat di kemasannya.</ref> menggunakan mesin ''[[Civilization IV]]''-nya Sid Meier) dari [[permainan strategi berbasis giliran]] ''[[Sid Meier's Colonization]]'' (1994).<ref name="comingsoon">{{cite web | title = Firaxis Games Coming Soon | publisher = Firaxis Games, Inc. | url = http://www.firaxis.com/games/game_detail.php?gameid=21 | accessdate = 2008-06-17 }}</ref><!-- Source has vague wording. see talk page for more details --> Pemain mengendalikan para pemukim dari satu dari 4 bangsa Eropa, [[Kekaisaran Spanyol|Spanyol]], [[Kerajaan Inggris|Inggris]], [[Prancis Modern Awal|Prancis]], atau [[Uni Belanda|Belanda]], yang sedang mencoba untuk menguasai/menjajah [[Benua Amerika|Dunia Baru]] pada masa antara tahun 14921792. Tujuan akhir dari setiap pemain adalah untuk membangun koloni mereka dan sebuah ''standing army'', dan menyatakan [[kemerdekaan]] dari negara asalnya dan mengalahkan pasukan militer yang dikirim Sang Raja untuk menghancurkan pemberontakan.<ref name="comingsoon"/><ref name="originalPR">{{cite press release| title = 2K Games Announces Sid Meier's Civilization IV: Colonization for Games for Windows| publisher = [[2K Games]]| date = 2008-06-09| url = http://ir.take2games.com/ReleaseDetail.cfm?ReleaseID=315205| accessdate =2008-06-09 }}</ref><ref name="nextgenbiz1">{{cite web|url=http://www.next-gen.biz/index.php?option=com_content&task=view&id=10837&Itemid=2|title=2K Games Revives Sid Meiers Colonization|author=Joe Keiser|date=2008-06-09}}</ref><ref name="GS2">{{Cite web| last = Miller| first = Jon| author-link = http://www.gamespot.com/users/JonMilla/| title =Civilization IV: Colonization First Look| date = 2008-06-26| url = http://www.gamespot.com/pc/strategy/sidmeierscivilizationivcolonization/news.html?sid=6193071| accessdate = 2008-07-02}}</ref><ref>http://www.gamespot.com/pc/strategy/sidmeierscivilizationivcolonization/news.html?sid=6196184&mode=previews GameSpot: Civilization Colonization Updated Hands-On</ref><ref>Firaxis Games Coming Soon http://www.firaxis.com/games/game_detail.php?gameid=21 ''Updated 9-21-2008''</ref>
+
+Versi ''Windows''-nya dirilis pada 22 September 2008. Versi ''[[Mac OS X]]''-nya dirilis pada Januari 2010.<ref>http://www.insidemacgames.com/news/story.php?ID=18198</ref> ''Sid Meier's Civilization IV: Colonization'' tidak membutuhkan ''Sid Meier's [[Civilization IV]]'' untuk dimainkan.<ref>http://www.firaxis.com/games/game_detail.php?gameid=21</ref>
+
+== Permainan ==
+Untuk membangun dan membesarkan kota-kota mereka, pemain harus menyeimbangkan negosiasi dengan beberapa kelompok terpisah: para [[Masyarakat Pribumi Amerika|pribumi]] dari Amerika, kolonis dari negara asal sang pemain, dan kolonis lain dari [[old World|Dunia Lama]]. Pemain dapat juga merekrut ''founding fathers'' untuk bergabung dengan mereka&nbsp; masing-masing dengan bonus spesifik yang menolong mereka dalam permainan. Pemain mempengaruhi arah dari koloninya lewat pilihannya di diplomasi, perekrutan, dan pengaturan kota. Kolonis tambahan dari Eropa atau pribumi yang beralih dapat berdampak di peningkatan populasi setelah surplus makan melampaui sebuah batas yang telah ditetapkan.
+
+Ekonomi dan perdagangan datang ke permainan saat pemain membuat barang jadi dan menjualnya di Eropa, atau berdagang dengan pribumi untuk barang lain atau emas. Dengan memanen sumber daya alam, orang ahli dapat mengubah mereka ke barang jadi untuk jual atau dagang. Apalagi, perak dapat ditambang untuk perdagangan langsung, dan besi dapat ditambang untuk diubah menjadi peralatan dan diubah lagi menjadi senjata. Orang ahli memproduksi lebih banyak daripada pekerja biasa, dan bangunan spesialis dapat dibangun juga untuk meningkatkan produksi.
+
+{| class="wikitable"
+|+ '''''Civilization IV: Colonization&nbsp; Sumber Daya Alam dan Barang Jadi'''''
+| '''Barang'''
+| '''Sumber Daya'''
+| '''Pemanen'''
+| '''Pekerja'''
+| '''Bangunan'''
+| '''Jenis Lahan'''
+|-
+| [[Cerutu]]
+| [[Tembakau]]
+| Penanam Tembakau
+| ''Tembakau-wan''
+| Toko Tembakau
+| [[Padang Rumput]]
+|-
+| [[Kain]]
+| [[Kapas]]
+| Penanam Kapas
+| [[Penenun]]
+| Bengkel Penenun
+| ''[[Prairie]]''
+|-
+| [[Mantel]]
+| [[Bulu]]
+| Penjebak
+| [[Pedagang]]
+| Pos Perdagangan Bulu
+| [[Hutan|Hutan/Hutan Campuran]]
+|-
+| [[Rum]]
+| [[Gula]]
+| Penanam Gula
+| [[Penyulingan|Penyuling]]
+| Penyulingan Rum
+| [[Rawa-rawa]]
+|}
+
+Pemilihan dari kebangsaan pemain, dibuat pada saat permulaan permainan, mempengaruhi berdirinya koloni di Dunia: Inggris menerima sebuah bonus imigrasi, sementara Belanda menikmati bonus perdagangan. Tepi diplomasi Prancis mendorong hubungan yang lebih menguntungkan dengan suku-suku pribumi, sementara bonus ''[[Conquistador]]'' Spanyol menyokong pertarungan dengan para pribumi.<ref name="GS2"/>
+
+Di pertambahan ke ''campaigns single-player'', permainan yang baru memiliki sebuah komponen ''multiplayer''.<ref name="comingsoon"/><ref name="GS2"/>
+
+=== Perubahan dari ''Sid Meier's Colonization'' ===
+Di pertambahan ke mesin grafik yang terbarui dan sebuah segmen ''multiplayer'', ''Civilization IV: Colonization'' memiliki banyak mekanika permainan baru. Ketika memulai permainan, di pertambahan untuk memilih sebuah bangsa awal Eropa, seorang pemain memilih antara dua [[gubernur]], masing-masing dengan keuntungan berbeda.<ref name="igndutch">{{cite web | title = Sid Meier's Civilization IV: Colonization Dutch Faction Profile | publisher = [[IGN]] | date = 2008-08-21 | url = http://pc.ign.com/articles/901/901864p1.html | accessdate = 2008-08-23}}</ref> Di pertambahan, batas nasional adalah sebuah konsep permainan yang diambil dari ''Civilization IV''. Ini berarti bahwa rival tidak dapat melewati lahan milik yang lain kecuali mereka memiliki persetujuan buka perbatasan&nbsp; atau mereka telah menyatakan perang.
+
+Tidak seperti permainan aslinya, bangsa-bangsa tidak dapat merekrut ''founding fathers'' yang sama. Setiap ''founding father'' direkrut oleh satu dan hanya datu bangsa/pemain. Lebih lagi, ''founding fathers'' akan hanya bergabung dengan bangsa dengan kriteria tertentu, yaitu sebuah tingkatan poin tertentu yang diperoleh di bermacam kategori (politik, militer, penjelajahan, agama, dan perdagangan).<ref name="gamespy1">{{cite web| last = Kosak| first = Dave 'Fargo' | title = Sid Meier's Civilization IV: Colonization (PC)| publisher = GameSpy| date = 2008-07-18 | url =http://pc.gamespy.com/pc/civilization-game-untitled/891987p1.html| accessdate = 2008-08-23}}</ref>
+
+Setelah pemain menyatakan kemerdekaan, pemain merancang sebuah [[Konstitusi]] menentukan gaya pemerintahan dari bangsa merdeka mereka. Untuk contoh, jika sebuah bangsa memilih sistem [[monarki]], maka ia tetap dapat berdagang dengan Eropa selama perang untuk Kemerdekaan.<ref name="GameSpot3">{{cite web | last = Park | first = Andrew | title = E3 2008: Sid Meier's Civilization IV: Colonization Updated Impressions&nbsp; New Information and Details | publisher = GameSpot | date =2008-07-15 | url = http://www.gamespot.com/pc/strategy/sidmeierscivilizationivcolonization/news.html?sid=6194086&om_act=convert&om_clk=newsfeatures&tag=newsfeatures;title;2 | accessdate = 2008-08-23}}</ref>
+
+Juga, tidak ada lagi kemenangan Loyalis.
+
+== Mesin ==
+
+Permainan berjalan di sebuah versi mesin terbarui dari ''Civilization IV'' dengan pengubahan termasuk grafik, kode yang dipersingkat, dan penghubung yang didesain ulang. Dengan peningkatan ini, ''Colonization'' membutuhkan [[kartu grafis]] yang mendukung ''[[pixel shader]]'' 1.1.<ref name="comingsoon"/><ref name="GS1">{{Cite web| last = Thorsen | first = Tor | title = Q&A: Meier on revolutionizing Colonization| date = 2008-06-13| url = http://www.gamespot.com/news/6192569.html| accessdate = 2008-06-15}}</ref>
+
+== Resepsi Kritis ==
+{{VG Reviews
+|state=''collapsed''
+| 1UP = A<ref name="civ4crev-1UP">{{cite web| last = Chick| first = Tom| authorlink = http://www.gamerankings.com/itemrankings/launchreview.asp?reviewid=967615&popup=1| title = Sid Meier's Civilization IV: Colonization (PC)| publisher = [[1UP.com]]| date = September 25, 2008| url = http://www.gamerankings.com/itemrankings/launchreview.asp?reviewid=967615&popup=1| accessdate = 2008-09-27}}</ref>
+| CVG = 7.9/10<ref name="civ4crev-cvg">{{cite web|url=http://www.computerandvideogames.com/article.php?id=197607|title=Civilization IV: Colonization Review - Computer and Video Games|last=Meer|first=Alec |date=September 22, 2008|publisher=Computer and Video Games|accessdate=2008-09-23}}</ref>
+| EuroG = 8/10<ref name="civ4crev-eurog">{{cite web|url=http://www.eurogamer.net/article.php?article_id=242130&page=1|title=Civilization IV: Colonization Review - EuroGamer|last=Clare|first=Oliver |date=September 22, 2008|publisher=EuroGamer|pages=2|accessdate=2008-09-22}}</ref>
+| G4 = 4/5<ref name="civ4crev-Gspy">{{cite web| last = Tim | first = Tim | title = Sid Meier's Civilization IV: Colonization (PC)| publisher =[[GameSpy]]| url =http://www.g4tv.com/xplay/reviews/1838/Sid_Meiers_Civilization_IV_Colonization.html| accessdate = 2008-12-17}}</ref>
+| GI = 9/10<ref name="civ4crev-GI">{{cite web| url=http://gameinformer.com/NR/exeres/3C593958-1B71-444C-BD9F-930F9BCEFCA6.htm|title=Civilization IV: Colonization Review - Game Informer|last=Biessener|first=Adam|date=September 24, 2008|publisher=Game Informer|accessdate=2008-09-25}} {{Dead link|date=September 2010|bot=H3llBot}}</ref>
+| GSpy = 80<ref name="civ4crev-Gspy">{{cite web| last = KosakWatters| first = Dave 'Fargo'| title = Sid Meier's Civilization IV: Colonization (PC)| publisher =[[Gamespy]]| date =2008-10-02| url =http://pc.gamespy.com/pc/civilization-game-untitled/915896p1.html| accessdate = 2008-12-17}}</ref>
+| GSpot = 80<ref name="civ4crev-Gspot">{{cite web| last =Watters| first =Chris| authorink =http://www.gamespot.com/users/Chris_Watters/| title = Civ IV: Colonization Review| publisher =[[GameSpot]]| date =2008-10-03| url =http://www.gamespot.com/pc/strategy/sidmeierscivilizationivcolonization/review.html| accessdate = 2008-10-04}}</ref>
+| IGN = 8.7/10<ref name="civ4crev-IGN">{{cite web|url=http://pc.ign.com/articles/913/913968p1.html|title=Civilization IV: Colonization Review - IGN|last=Butts |first=Steve |date=September 26, 2008|publisher=IGN|pages=3|accessdate=2008-09-27}}</ref>
+| XPlay = 4/5<ref name="civ4crev-G4">{{cite web|url=http://www.g4tv.com/xplay/reviews/1838/Sid_Meiers_Civilization_IV_Colonization.html|title=G4 X-Play Review: Sid Meier's Civilization IV: Colonization|date=September 23, 2008|publisher=G4|accessdate=2008-10-15}}</ref>
+|-
+| kompilasi = Ya
+| GR = 80%<ref name="civ4crev-GR">{{cite web|url=http://www.gamerankings.com/htmlpages2/946846.asp?q=civilization|title=Civ IV: Colonization |publisher=GameRankings|accessdate=2008-12-17}}</ref>
+| MC = 83%<ref name="civ4crev-metac">{{cite web|url=http://www.metacritic.com/games/platforms/pc/sidmeierscivilization4colonization|title=Civilization IV: Colonization Review - MetaCritic|publisher=Metacritic|accessdate=2008-12-17}}</ref>
+}}
+
+Kondisi kemenangan tunggal&nbsp; menyatakan dan memenangi sebuah perang untuk kemerdekaan&nbsp; telah menjadi baik dikritik<ref name="gamespy1"/> dan diterima<ref name="Butts">{{cite web|quote=[this winning condition] should appeal to strategy gamers who are unhappy with the less structured victory paths in Civilization IV|url=http://pc.ign.com/articles/913/913968p1.html|title=Sid Meier's Civilization IV: Colonization Review|first=Steve|last=Butts|publisher=IGN}}</ref> oleh penilai. Kritik yang lain terhadap permainan adalah hanya terdapat 4 tenaga kolonial yang dapat dimainkan. Pengeluaran tenaga kolonial Eropa yang kurang mencolok telah disebut sebagai sebuah  faktor "pembatasan" di permainan.<ref name="GS2"/>
+
+<!-- DILARANG MENGHAPUS KRITIK OLEH BEN FRITZ INI.  MOHON BACA HALAMAN PEMBICARAAN DAN BERKOMENTAR DI SANA JIKA ANDA TIDAK SETUJU-->
+Reporter ''[[Variety (majalah)|Variety]]'' dan editor penilai, Ben Fritz, di blognya, mengkritik konsep dari permainan karena [[Dampak dan evaluasi dari kolonialisme dan penjajahan oleh Eropa Barat|ketidakadilan]] yang terjadi selama era kolonial.<ref name="racism">{{cite news|title = Civilization IV: Colonization... Wow that looks offensive|date =2008-06-25|url =http://weblogs.variety.com/the_cut_scene/2008/06/civilization-iv.html|accessdate =2008-09-10|work=Variety}}</ref><ref name="racism2">{{cite web | title = Civilization IV: Colonization Called 'Morally Disturbing' | publisher = The Escapist | date = 2008-06-27 | url =
+http://www.escapistmagazine.com/news/view/84721-Civilization-IV-Colonization-Called-Morally-Disturbing | accessdate = 2008-08-18}}</ref><ref name="racism3">{{cite web| title = Variety Troubled By Sid Meier's Next Game| url = http://kotaku.com/5019849/variety-troubled-by-sid-meiers-next-game| accessdate = 2008-08-18}}</ref> ''Firaxis'' telah merespon di entri blognya Firtz dengan pernyataan, "permainan tidak menyokong posisi atau strategi tertentu apapun - pemain dapat dan seharusnya membuat pendapat moral mereka sendiri."<ref name="response">{{cite news|title = Firaxis responds to my Colonization post|date =2008-06-27|url =http://weblogs.variety.com/the_cut_scene/2008/06/firaxis-respond.html|accessdate =2008-09-17|work=Variety}}</ref>
+{{-}}
+
+== Referensi ==
+{{reflist|2}}
+
+== Pranala Luar ==
+
+* [http://www.firaxis.com/games/game_detail.php?gameid=21 Situd Resmi (Firaxis)]
+* [http://www.2kgames.com/civ4/colonization/ Situs Resmi (2K Games)]
+* [http://www.firaxis.com Situr pengembang]
+
+{{civilization}}
+
+[[Kategori:Permainan video tahun 2008]]
+[[Kategori:Permainan video 4X]]
+[[Kategori:Civilization]]
+[[Kategori:Permainan Firaxis Games]]
+[[Kategori:Permainan Windows]]
+[[Kategori:Permainan Mac OS]]
+[[Kategori:Permainan Mac OS X]]
+[[Kategori:Sid Meier]]
+[[Kategori:Permainan strategi]]

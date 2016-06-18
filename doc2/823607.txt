@@ -1,0 +1,102 @@
+Ryu Jun-yeol
+{{Infobox person
+|name            = Ryu Jun-yeol
+|image           = 160225      .jpg
+|image_size      = 200px
+|caption         = 
+|background      =  
+|alias           = 
+|birth_date      = {{birth date and age|1986|9|25}}
+|birth_place     = [[Suwon]]
+|height          = 
+|alma_mater      = [[University of Suwon]]
+|occupation      = [[aktor]]
+|years_active    = 
+|agent           = 
+|associated_acts = 
+|website             = 
+}}
+{{Infobox Korean name
+|color  = khaki
+|title  = [[Nama Korea]]
+|hangul = 
+|hanja  = {{linktext|||}}
+|rr     = Ryu Jun-yeol
+|mr     = Ryu Chun-yl
+}}
+'''Ryu Jun-yeol''' ([[Hangul]]: ) ({{lahirmati||25|9|1986}}) adalah [[aktor]] asal [[Korea Selatan]]. Ia mulai dikenal karena perannya sebagai Kim Jung-hwan dalam [[serial televisi]] ''[[Reply 1988]]'', serial ketiga dari serial televisi [[TVN (Korea Selatan)|tvN]], ''[[Reply (serial TV)|Reply]]''.<ref>{{cite web|last1=Kim|first1=June|title=GLORY DAY Confirms Youth-led Cast|url=http://www.koreanfilm.or.kr/jsp/news/news.jsp?mode=VIEW&seq=3417|website=Korean Film Biz Zone|accessdate=2015-09-08|date=29 April 2015}}</ref><ref>{{cite web|title=''Reply 1988'' Confirms 8 Actors in Cast Including Girls Days Hyeri, Ko Kyung Pyo, Park Bo Gum and More|url=http://mwave.interest.me/enewsworld/en/article/92738/reply-1988-confirms-8-actors-in-cast-including-girls-days-hyeri-ko-kyung-pyo-park-bo-gum-and-more|website=enewsWorld|accessdate=2015-09-08|date=18 May 2015}}</ref><ref>{{cite web|first1=Sora|last1=Ghim|title=Ryu Jun Yeol Joins C-JeS Entertainment|url=http://bntnews.co.uk/app/news.php?nid=23573|website=BNTNews|accessdate=2015-09-08|date=8 July 2015}}</ref>
+
+== Filmografi ==
+=== Film ===
+{|class="wikitable"
+|- style="background:#B0C4DE;"
+! Tahun
+! Judul
+! Peran
+|-
+| 2012 || ''Nowhere'' ||  
+|-
+| 2013 || ''INGtoogi: The Battle of Internet Trolls'' || Gym man 
+|-
+| rowspan=5| 2014 || ''Midnight Sun'' || Yong-hoon 
+|-
+| ''One-minded'' ||  
+|-
+| ''People In a Hurry'' || Jae-hyun 
+|-
+| ''Economic Love'' || Ji-hoon 
+|-
+| ''Son Na-rae Rescue Operation'' || Hyun-woo 
+|- 
+| rowspan=2| 2015 || ''[[Socialphobia]]'' || Yang-ge
+|-
+| ''Draw'' || Sang-hoon 
+|- 
+| rowspan=3| 2016 || ''SORI: Voice from the Heart'' || Seedless Berries 
+|-
+| ''No Tomorrow'' || Ji-hoon 
+|-
+| ''[[One Way Trip]]'' || Ji-gong
+|-
+|}
+
+=== Drama televisi ===
+{|border="2" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
+|- bgcolor="#B0C4DE" align="center"
+! Tahun
+! Judul
+! Peran
+! Jaringan
+|-
+| rowspan=2|2015 || ''[[The Producers]]'' || Joo Jong-hyun || [[KBS2]] 
+|-
+| ''[[Reply 1988]]'' || Kim Jung-hwan || [[TVN (Korea Selatan)|tvN]] 
+|-
+|}
+
+== Referensi ==
+{{Reflist}}
+
+==Pranala luar==
+{{Commonscat|Ryu Jun-yeol}}
+* {{instagram|ryusdb|Ryu Jun-yeol}}
+* {{facebook|cjesjunyeol|Ryu Jun-yeol}}
+* [http://www.c-jes.com/ko/artist/about.asp?artist=39 Ryu Jun-yeol] at [[C-JeS Entertainment]] {{ko icon}}
+* {{Hancinema person|Ryu_Jun-yeol|Ryu Jun-yeol}}
+* {{IMDb name|6916719|Ryu Jun-yeol}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+|NAME              = Ryu, Jun-yeol
+|ALTERNATIVE NAMES =
+|SHORT DESCRIPTION = Actor
+|DATE OF BIRTH     = 25 September 1986
+|PLACE OF BIRTH    =
+|DATE OF DEATH     =
+|PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Ryu, Jun-yeol}}
+{{lifetime|1986||}}
+{{pemeran-stub}}
+{{Negara-bio-stub|Korea Selatan}}
+
+[[Kategori:Pemeran Korea Selatan]]

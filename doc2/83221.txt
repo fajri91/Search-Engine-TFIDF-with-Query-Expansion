@@ -1,0 +1,40 @@
+Templat:Rabu
+<noinclude>{|</noinclude>
+|-
+| colspan="3" |
+| [[1 {{{bulan|{{CURRENTMONTHNAME}}}}}|1]]
+| [[2 {{{bulan|{{CURRENTMONTHNAME}}}}}|2]]
+| [[3 {{{bulan|{{CURRENTMONTHNAME}}}}}|3]]
+| [[4 {{{bulan|{{CURRENTMONTHNAME}}}}}|4]]
+|-
+| [[5 {{{bulan|{{CURRENTMONTHNAME}}}}}|5]]
+| [[6 {{{bulan|{{CURRENTMONTHNAME}}}}}|6]]
+| [[7 {{{bulan|{{CURRENTMONTHNAME}}}}}|7]]
+| [[8 {{{bulan|{{CURRENTMONTHNAME}}}}}|8]]
+| [[9 {{{bulan|{{CURRENTMONTHNAME}}}}}|9]]
+| [[10 {{{bulan|{{CURRENTMONTHNAME}}}}}|10]]
+| [[11 {{{bulan|{{CURRENTMONTHNAME}}}}}|11]]
+|-
+| [[12 {{{bulan|{{CURRENTMONTHNAME}}}}}|12]]
+| [[13 {{{bulan|{{CURRENTMONTHNAME}}}}}|13]]
+| [[14 {{{bulan|{{CURRENTMONTHNAME}}}}}|14]]
+| [[15 {{{bulan|{{CURRENTMONTHNAME}}}}}|15]]
+| [[16 {{{bulan|{{CURRENTMONTHNAME}}}}}|16]]
+| [[17 {{{bulan|{{CURRENTMONTHNAME}}}}}|17]]
+| [[18 {{{bulan|{{CURRENTMONTHNAME}}}}}|18]]
+|-
+| [[19 {{{bulan|{{CURRENTMONTHNAME}}}}}|19]]
+| [[20 {{{bulan|{{CURRENTMONTHNAME}}}}}|20]]
+| [[21 {{{bulan|{{CURRENTMONTHNAME}}}}}|21]]
+| [[22 {{{bulan|{{CURRENTMONTHNAME}}}}}|22]]
+| [[23 {{{bulan|{{CURRENTMONTHNAME}}}}}|23]]
+| [[24 {{{bulan|{{CURRENTMONTHNAME}}}}}|24]]
+| [[25 {{{bulan|{{CURRENTMONTHNAME}}}}}|25]]
+|-
+| [[26 {{{bulan|{{CURRENTMONTHNAME}}}}}|26]]
+| [[27 {{{bulan|{{CURRENTMONTHNAME}}}}}|27]]
+| [[28 {{{bulan|{{CURRENTMONTHNAME}}}}}|28]]
+| {{#ifexpr: {{{hari|31}}}-29>=0 | [[29 {{{bulan|{{CURRENTMONTHNAME}}}}}|29]] | }}
+| {{#ifexpr: {{{hari|31}}}-30>=0 | [[30 {{{bulan|{{CURRENTMONTHNAME}}}}}|30]] | }}
+| {{#ifexpr: {{{hari|31}}}-31>=0 | [[31 {{{bulan|{{CURRENTMONTHNAME}}}}}|31]] | }}
+<noinclude>|}[[Kategori:Templat Peristiwa Terkini]]</noinclude>

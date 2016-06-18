@@ -1,0 +1,42 @@
+Kompleks piramida Giza
+{{Infobox World Heritage Site
+| WHS         = [[Memphis, Mesir|Memphis]] dan nekropolisnya - dari Giza ke [[Dahshur]]
+| Image       = [[Berkas:All Gizah Pyramids.jpg|300px]]
+| State Party = {{EGY}}
+| Type        = Budaya
+| Criteria    = i, iii, vi
+| ID          = 86
+| Region      = [[Mesir]]
+| Year        = 1979
+| Session     = 3rd
+| Link        = http://whc.unesco.org/en/list/86
+}}
+
+'''Kompleks piramida Giza''' adalah [[kompleks]] [[piramida]] yang berdiri di [[Giza]], di luar [[Kairo]], [[Mesir]]. [[Monumen]] kuno ini terletak sekitar delapan kilometer ke [[padang pasir]] dari kota tua [[Giza]] di [[Nil]], sekitar 25 kilometer sebelah barat laut pusat kota Kairo. Piramida ini adalah monumen yang tersisa dari [[Tujuh Keajaiban Dunia]].
+
+== Daftar pustaka ==
+* Lehner, Dr. Mark, "''The Complete Pyramids''", [[Thames & Hudson]], 1997. ISBN 0-500-05084-8.
+* Manley, Bill (Ed.), "''The Seventy Great Mysteries of Ancient Egypt''", Thames & Hudson. ISBN 0-500-05123-2.
+* "''Mysteries of Egypt''" National Geographic Society, 1999. ISBN 0-7922-9752-0. 
+* Rhys-Davies, John, "''Riddles of the monument builders: Who built the Sphinx''", Time-Life Video, 1995.
+
+== Pranala luar ==
+* [http://wikimapia.org/maps?ll=29.976132,31.128795&spn=0.010965,0.015836&t=k&hl=en Wiki Satellite view of Giza Plateau] at WikiMapia
+* [http://www.googleearthhacks.com/dlcat13p2/Individual-3D-Structures.htm 3D model of the pyramids] for use in [http://earth.google.com Google Earth]
+* [http://www.globalamity.net/index.php?section=article&articleid=15&pagenumber=1 Pyramid Photographs] on GlobalAmity.net
+* [http://egypt.ebeling.ee digital.egypt] - QTVR fullscreen panoramas on Giza Plateau
+* [http://egypt.travel-photo.org/cairo/pyramids-in-giza.html Pyramids in Giza] Pictures of Giza Pyramids published under Creative Commons License
+* [http://www.3ds.com/introduction/revealed/] 3D virtual tour explaining Houdin's theory (plug in needed)
+* [http://pano4d.ru/index.php?option=com_content&view=article&id=137:2014-03-16-06-32-54&catid=1:3d-tur&Itemid=107 Piramid Giza, lawatan maya]
+
+{{br}}
+
+{{coor title dms|29|58|34|N|31|07|58|E|region:EG_type:landmark}}
+
+[[Kategori:Situs Warisan Dunia UNESCO di Mesir]]
+[[Kategori:Dataran Giza]]
+[[Kategori:Piramida Mesir Kuno]]
+[[Kategori:Situs arkeologi di Mesir]]
+
+
+{{bangunan-stub}}

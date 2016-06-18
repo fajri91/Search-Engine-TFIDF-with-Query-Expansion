@@ -1,0 +1,55 @@
+Saeaga Airlines
+{{Infobox_Airline
+| airline        = Saeaga Airlines
+| logo           =
+| logo_size      = 150px
+| fleet_size     = 3
+| destinations   = 8
+| IATA           = SG
+| ICAO           = SGG
+| callsign       = SAEAGA
+| parent         = Ekran Berhad
+| founded        = 1995
+| ceased         = 1998
+| headquarters   = [[Kota Kinabalu]], [[Malaysia]]
+| key_people     = Ting Pek Khiing (CEO)
+| hubs           = [[Bandar Udara Internasional Kota Kinabalu]]
+| frequent_flyer =
+| lounge         =
+| alliance       =
+}}
+
+'''Saeaga Airlines''' adalah maskapai penerbangan regional yang beroperasi di [[Sabah]], [[Malaysia]]. Maskapai ini didirikan tahun 1995 dan ditutup tahun 1998. Maskapai ini dulunya mengoperasikan satu [[Canadair Regional Jet|Canadair Regional Jet CRJ100]] dan dua [[de Havilland Canada Dash 8]].
+
+Saeaga Airlines berencana menyewa 10 [[keluarga Airbus A320|A320]] untuk memperluas jaringannya pada September 1998 ke Malaysia Barat (Kuala Lumpur, Langkawi) dan 6 kota di Cina, 2 di Australia, Hong Kong, Taiwan, Filipina, dan Indonesia. Karena krisis keuangan Asia, maskapai ini ditutup bulan April 1998.
+
+== Armada ==
+Sebelum mengakhiri operasinya tahun 1998, armada Saeaga Airlines terdiri atas:
+
+{| class="wikitable" style="font-size: 85%" width="550"
+!Pesawat ||Jumlah kursi||Beroperasi
+|-
+| align=center|[[Canadair Regional Jet|Canadair Regional Jet CRJ100]]||align=center| 50||align=center|1
+|-
+| align=center|[[de Havilland Canada Dash 8]]||align=center|68||align=center|2
+|-
+|}
+
+== Kota tujuan ==
+* Bintulu ([[Bandar Udara Bintulu]])
+* Kota Kinabalu ([[Bandar Udara Internasional Kota Kinabalu]])
+* Kuching ([[Bandar Udara Internasional Kuching]])
+* Layang-Layang (Bandar Udara Layang-Layang)
+* Miri ([[Bandar Udara Miri]])
+* Mulu ([[Bandar Udara Mulu]])
+* Sibu ([[Bandar Udara Sibu]])
+
+==Referensi==
+* [http://www.rati.com/ALLANDING_1759.htm Air Transport Intelligence]
+* [http://www.airfleets.net/flottecie/Saeaga%20Airlines.htm Airfleets.net]
+
+{{Maskapai penerbangan Malaysia}}
+
+[[Kategori:Maskapai penerbangan Malaysia yang tidak beroperasi]]
+[[Kategori:Maskapai penerbangan yang didirikan tahun 1995]]
+[[Kategori:Maskapai penerbangan yang ditutup tahun 1998]]

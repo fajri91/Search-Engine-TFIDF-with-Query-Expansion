@@ -1,0 +1,21 @@
+Templat:Muntilan, Magelang
+{{Navigasi ID Desa |provinsi=Jawa Tengah|dati2=Kabupaten |nama dati2=Magelang
+|nama kecamatan=Muntilan
+|d1=Adikarto
+|d2=Congkrang
+|d3=Gondosuli
+|d4=Gunungpring
+|d5=Keji
+|d6=Menayu
+|d7=Ngawen
+|d8=Pucungrejo
+|d9=Sedayu
+|d10=Sokorini
+|d11=Sriwedari
+|d12=Tamanagung
+|d13=Tanjung
+|k1=Muntilan
+}}<noinclude>
+[[Kategori:Templat desa/kelurahan di Jawa Tengah|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Magelang|{{PAGENAME}}]]
+</noinclude>

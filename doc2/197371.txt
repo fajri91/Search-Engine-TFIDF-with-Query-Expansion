@@ -1,0 +1,11 @@
+Templat:Tandakehormatannegara
+<includeonly>[[Kategori:Tanda kehormatan menurut negara|{{{negara|{{{1}}}}}}]]
+[[Kategori:Budaya {{{negara|{{{1}}}}}}]]
+[[Kategori:Masyarakat {{{negara|{{{1}}}}}}]]
+[[Kategori:Pemerintahan {{{negara|{{{1}}}}}}]]
+{{#if:{{{benua|}}}|[[Kategori:Tanda kehormatan di {{{benua}}}|{{{negara}}}]]|}}
+{{#if:{{{parentkat|}}}|[[Kategori:Tanda kehormatan di {{{parentkat}}}| {{PAGENAME}}]]|}}
+</includeonly><noinclude>
+<!--not yet{{templat berisiko tinggi|small=yes}}-->{{Templat:Tokohkat/keterangan}}
+[[Kategori:Templat kategori menurut negara|Tanda kehormatan]]
+</noinclude>

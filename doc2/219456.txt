@@ -1,0 +1,14 @@
+Berkas:Perempuan Punya Cerita Poster.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+Poster film [[Perempuan Punya Cerita]], produksi [[Kalyana Shira Films]]
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Poster}}

@@ -1,0 +1,79 @@
+Kemiringan sumbu
+[[Image:Manoderecha.svg|thumb|right|250px|Untuk memahami kemiringan sumbu, anggaplah [[solenoid]] biru dalam [[aturan genggam tangan kanan]] ini sebagai sumbu rotasiBumi, arah medan magnet berlawanan arah jarum jam selaku 'bidang orbit' Bumi dan arah jempol mengarah ke kutub utara Bumi. Dalam figur ini, 'kemiringan sumbu' bernilai nol derajat karena sumbu rotasinya perpendikuler terhadap bidang orbit. Jika solenoid biru (sumbu rotasi) ini miring ketika bidang orbit masih tetap, maka peristiwa ini disebut kemiringan sumbu planet atau benda langit.]]
+Dalam [[astronomi]], '''kemiringan sumbu''' (juga disebut '''oblikuitas''') adalah sudut antara [[sumbu rotasi]] benda dan garis [[perpendikuler]] terhadap [[bidang orbit (astronomi)|bidang orbit]]nya. Kemiringan sumbu berbeda dengan [[inklinasi]].
+
+Untuk mengukur oblikuitas, gunakan [[aturan genggam tangan kanan]] untuk gerakan rotasi dan orbit, yang berarti garis dari [[verteks (geometri)|verteks]] di pusat benda sampai [[kutub benda astronomi|kutub utaranya]] (di atasnya benda tampak berotasi [[lawan arah jarum jam|berlawanan arah jarum jam]]); dan garis yang digambar dari verteks pada arah [[normal (geometri)|normal]] terhadap bidang orbitnya (di atasnya benda bergerak berlawanan arah jarum jam di orbitnya). Pada nol derajat, garis-garis ini mengarah ke arah yang sama.
+
+[[Planet]] [[Venus]] memiliki kemiringan sumbu 177,3 karena planet ini berotasi dengan arah menghulu, berlawanan dengan planet-planet lain seperti [[Bumi]]. Kutub utara Venus mengarah 'ke bawah' (selatan). Planet [[Uranus]] berotasi pada sisinya sehingga sumbu rotasi (sekaligus kutub utaranya) mengarah hampir sejajar dengan orbitnya mengitari [[Matahari]]. Karena itu kemiringan sumbu Uranus adalah 97.<ref>http://nssdc.gsfc.nasa.gov/planetary/factsheet/planetfact_notes.html</ref>
+
+Sepanjang lintasan orbit, ketika sudut kemiringan sumbu tidak berubah, orientasi kemiringan sumbu planet bergerak hingga 360 derajat (orbit penuh mengitari Matahari), relatif terhadap garis antara planet dan Matahari, sehingga mengakibatkan munculnya berbagai [[musim]] di Bumi.
+
+==Kemiringan sumbu beberapa benda tata surya==
+
+{|class="wikitable"
+! Benda !! Kemiringan sumbu () !! Kemiringan sumbu (radian)
+|-
+|[[Sun]] || 7,25 || 0,1265
+|-
+|[[Merkurius]] || 0,0352|| 0,000614
+|-
+|[[Venus]] || 177,4 || 3,096
+|-
+|[[Bumi]] || 23,44 || 0,4091
+|-
+|[[Bulan]] ||  6,688<sup></sup> || 0,1167
+|-
+|[[Mars]] ||  25,19 || 0,4396
+|-
+|[[1 Ceres|Ceres]] || ~4 || ~0,07
+|-
+|[[2 Pallas|Pallas]] || ~60 || ~1
+|-
+|[[Yupiter]] ||  3,13 || 0,0546
+|-
+|[[Saturnus]] ||  26,73 || 0,4665
+|-
+|[[Uranus]] ||  97,77 || 1,7064
+|-
+|[[Neptunus]] ||  28,32 || 0,4943
+|-
+|[[Pluto]] || 119,61 || 2,0876
+|}
+
+ Kemiringan terhadap orbitnya pada sistem Bumi-Bulan. Kemiringan Bulan adalah 1,5424 (0,02692 radian) terhadap ekliptika
+
+==Lihat pula==
+{{Col-begin}}
+{{Col-1-of-3}}
+* [[Khatulistiwa benda langit]]
+* [[Kutub benda langit]]
+* [[Ekliptika]]
+* [[Siklus Milankovitch]]
+* [[Nutasi]]
+{{Col-2-of-3}}
+* [[Bidang orbit (astronomi)|Bidang orbit]]
+* [[Gerakan kutub]]
+* [[Gerakan menghulu]]
+* [[Rotasi|Sumbu rotasi]]
+{{Col-3-of-3}}
+{{Col-end}}
+
+==Catatan kaki==
+{{Reflist}}
+
+==Pranala luar==
+{{No footnotes|date=April 2008}}
+* Explanatory supplement to "the Astronomical ephemeris" and the ''[[American Ephemeris and Nautical Almanac]]''
+* [http://www.tenspheres.com/researches/precession.htm A comparison of values predicted by different theories] at tenspheres.com
+* Berger, A. L. "Obliquity & precession for the last 5 million years". ''Astronomy & Astrophysics'' 51, 127 (1976)
+* Wittmann, A. "The obliquity of the ecliptic". ''Astronomy & Astrophysics'' 73, 129-131 (1979)
+* Ward, W. R. "Comments on the long-term stability of the Earth's obliquity". ''Icarus'' 1982, 50, 444
+* [http://nssdc.gsfc.nasa.gov/planetary/ National Space Science Data Center]
+* Bryant, Jeff. ''[http://demonstrations.wolfram.com/AxialTiltsOfPlanets/ Axial Tilts of Planets]'', [[Wolfram Demonstrations Project]]
+
+[[Kategori:Presesi]]
+[[Kategori:Ilmu keplanetan]]
+[[Kategori:Sudut]]
+
+[[als:Bahnneigung]]
+[[de:Bahnneigung]]

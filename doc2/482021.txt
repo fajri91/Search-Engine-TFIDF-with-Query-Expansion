@@ -1,0 +1,54 @@
+Daftar bandar udara di Ghana
+Ini adalah '''daftar bandar udara di Ghana''' diurutkan berdasarkan lokasi.
+
+__TOC__
+== Daftar ==
+
+{| class="wikitable sortable"
+|- valign=baseline
+! Lokasi !! [[Kode bandar udara ICAO|ICAO]] !! [[Kode bandar udara IATA|IATA]] !! NamaT&nbsp;bandar udara
+|- valign=top
+| [[Accra]] || DGAA || ACC || [[Bandar Udara Internasional Kotoka]]
+|- valign=top
+| [[Kumasi]] || DGSI || KMS || [[Bandar Udara Kumasi]]
+|- valign=top
+| [[Navrongo]] || DGLN || &nbsp; || [[Bandar Udara Navrongo]]
+|- valign=top
+| [[Sekondi-Takoradi]] || DGTK || TKD || [[Bandar Udara Takoradi]]
+|- valign=top
+| [[Sunyani]] || DGSN || NYI || [[Bandar Udara Sunyani]]
+|- valign=top
+| [[Tamale, Ghana|Tamale]] || DGLE || TML || [[Bandar Udara Tamale]]
+|- valign=top
+| [[Wa, Ghana|Wa]] || DGLW || &nbsp; || [[Bandar Udara Wa]]
+|- valign=top
+| [[Yendi]] || DGLY || &nbsp; || [[Bandar Udara Yendi]]
+|}
+
+== Referensi ==
+*{{cite web
+| url = http://www.icao.int/anb/aig/Taxonomy/R4CDLocationIndicatorsbystate.pdf
+| title = ICAO Location Indicators by State
+| publisher = [[International Civil Aviation Organization]]
+| date = 2006-01-12
+| format = [[PDF]]
+}}
+
+*{{cite web
+| url = http://www.unece.org/cefact/locode/gh.htm
+| title = UN Location Codes: Ghana includes IATA codes
+| work = [[UN/LOCODE]] 2006-2
+| publisher = [[United Nations Economic Commission for Europe|UNECE]]
+| date = 2007-04-30
+}}
+
+== Pranala luar ==
+* Daftar bandar udara di Ghana:
+** [http://gc.kls2.com/cgi-bin/gclookup?Q=country:GH Great Circle Mapper]
+** [http://www.aircraft-charter-world.com/airports/africa/ghana.htm Aircraft Charter World]
+** [http://worldaerodata.com/countries/Ghana.php World Aero Data]
+
+[[Kategori:Bandar udara di Ghana|*]]
+
+
+{{bandara-afrika-stub}}

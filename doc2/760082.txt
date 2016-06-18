@@ -1,0 +1,6 @@
+Templat:Lang-nv
+{{Language with name|nv|Navajo|{{{1}}}}}<noinclude>
+{{Documentation|Template:Lang-x/doc}}
+[[Kategori:Templat bahasa]]
+
+</noinclude>

@@ -1,0 +1,31 @@
+Templat:Infobox nature documentary
+{| class="infobox" style="width: 20em; font-size: 85%; text-align: left" cellspacing="2"
+| style="background: {{{bgcolour|}}}; font-size: 110%;" align="center" colspan="2" | '''''{{{show_name|For instructions on use, see [[Pembicaraan Templat:Infobox Television]]}}}'''''
+{{#if: {{{image|}}} | <tr> <td align="center" colspan="2">{{{image}}} {{#if: {{{caption|}}} | <br>{{{caption}}}}}</td> </tr>}}
+|- 
+{{#if: {{{picture_format|}}} | <tr> <th>Format gambar</th> <td>{{{picture_format}}}</td> </tr>}}<!--
+-->{{#if:{{{audio_format|}}}|<tr><th>Format audio</th><td>{{{audio_format}}}</td></tr>}}
+|- 
+! Lama episode
+| {{{runtime}}}
+{{#if: {{{creator|}}} | <tr> <th>Pembuat</th> <td>{{{creator}}}</td> </tr>}}<!--
+-->{{#if: {{{developer|}}} | <tr> <th>Perancang</th> <td>{{{developer}}}</td> </tr>}}<!--
+-->{{#if: {{{director|}}} | <tr> <th>Sutradara</th> <td>{{{director}}}</td> </tr>}}<!--
+-->{{#if: {{{producer|}}} | <tr> <th>Produser</th> <td>{{{producer}}}</td> </tr>}}<!--
+-->{{#if: {{{executive_producer|}}} | <tr> <th>Produser eksekutif</th> <td>{{{executive_producer}}}</td> </tr>}}
+|- 
+| {{#if: {{{presented|}}} | <tr> <th>Ide</th> <td>{{{presented}}}</td> </tr>}}<!--
+-->{{#if: {{{narrated|}}} | <tr> <th>Naskah</th> <td>{{{narrated}}}</td> </tr>}}<!--
+-->{{#if: {{{music|}}} | <tr> <th>Musik</th> <td>{{{music}}}</td> </tr>}}
+|-
+! Negara
+| {{{country}}}
+{{#if: {{{language|}}} | <tr> <th>Bahasa</th> <td>{{{language}}}</td> </tr>}}<!--
+-->{{#if: {{{network|}}} | <tr> <th>Saluran</th> <td>{{{network}}}</td> </tr>}}<!--
+-->{{#if: {{{first_run|}}} | <tr> <th>Penayangan pertama di</th> <td>{{{first_run}}}</td> </tr>}}<!--
+-->{{#if: {{{first_aired|}}} | <tr> <th>Lama penayangan</th> <td>{{{first_aired}}}&ndash;<br>{{{last_aired|}}}</td> </tr>}}<!--
+-->{{#if: {{{num_episodes|}}} | <tr> <th>Jumlah episode</th> <td>{{{num_episodes}}}</td> </tr>}}<!--
+-->{{#if: {{{website|}}} | <tr> <th style="font-size: 100%;" align="center" colspan="2">'''[{{{website}}} Situs Resmi]'''</th> </tr>}}<!--
+-->{{#if: {{{imdb_id|}}} | <tr> <th style="font-size: 100%;" align="center" colspan="2">'''[http://www.imdb.com/title/tt{{{imdb_id}}} IMDb profile]'''</th> </tr>}}<!--
+-->{{#if: {{{tv_com_id|}}} | <tr> <th style="font-size: 100%;" align="center" colspan="2">'''[http://www.tv.com/show/{{{tv_com_id}}}/summary.html TV.com summary]'''</th> </tr>}}
+|}<noinclude>[[Kategori:Templat kotak info]]</noinclude>

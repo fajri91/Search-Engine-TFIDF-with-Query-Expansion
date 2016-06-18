@@ -1,0 +1,35 @@
+Styloctetor logunovi
+{{Taxobox
+|name = Styloctetor logunovi
+|status = 
+|image = 
+|image_caption = 
+|domain = 
+|regnum = [[Animalia]]
+|phylum = [[Arthropoda]]
+|classis = [[Arachnida]]
+|ordo = [[Araneae]]
+|familia = [[Linyphiidae]]
+|genus =Styloctetor
+|species = Styloctetor logunovi
+|binomial = Styloctetor logunovi
+|binomial_authority =Eskov & Marusik, 1994
+|range_map = 
+|range_map_caption = 
+|image2 = 
+|image2_caption = 
+|synonyms = 
+}}
+'''''Styloctetor logunovi''''' adalah spesies [[laba-laba]] yang tergolong [[familia]] [[Linyphiidae]]. Spesies ini juga merupakan bagian dari ordo [[Araneae]]. Nama ilmiah dari spesies ini pertama kali diterbitkan pada tahun 1994 oleh Eskov & Marusik.
+
+Laba-laba ini biasanya banyak ditemui di Rusia, Mongolia.
+
+== Referensi ==
+
+* Platnick, Norman I. (2010): [http://research.amnh.org/entomology/spiders/catalog/LINYPHIIDAE.html The world spider catalog], version 10.5. ''American Museum of Natural History''.
+
+{{DEFAULTSORT:Styloctetor logunovi}}
+
+[[Kategori:Linyphiidae]]
+
+{{labalaba-stub}}

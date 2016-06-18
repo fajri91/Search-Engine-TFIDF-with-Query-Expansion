@@ -1,0 +1,47 @@
+Manajemen teknik
+'''Manajemen teknik''' adalah bentuk spesialisasi dari ilmu [[manajemen]] yang fokus pada aplikasi di bidang [[teknik]], yang pada umumnya untuk urusan bisnis. Manajemen teknik adalah karier yang menyatukan kaidah penyelesaian masalah teknologi dan kemampuan organisasi, administratif, dan perencanaan dari ilmu manajemen.<ref>http://www.allengineeringschools.com/engineering-degree/all-degrees/engineering-management/california</ref>
+
+Contoh bidang keteknikan yang melibatkan manajemen teknik adalah [[pengembangan produk]], [[manufaktur]], [[konstruksi]], [[teknik desain]], [[teknik industri]], dan bidang lain yang mempekerjakan banyak insinyur dari berbagai bidang.
+
+Manajer teknik yang terampil akan membutuhkan pelatihan dan pengalaman di bidang [[bisnis]] dan keteknikan. Manajer yang kurang pemahaman terhadap ilmu teknik akan kesulitan mendayagunakan dan memanfaatkan peran tim teknisnya, dan manajer yang kurang pengalaman di bidang bisnis akan kesulitan dalam mencocokkan kebutuhan [[pasar]] dan [[pemasaran|memasarkan]] [[produk]] dan jasa. Secara umum, manajer teknik mengatur para [[insinyur]] yang seringkali bergerak tanpa pemikiran ''entrepreneurship'', dan mendayagunakan kemampuan mereka untuk mencapai tujuan bisnis. Insinyur teknik seringkali berubah posisi, seringkali kenaikan jabatan, menjadi manajer teknik ketika sudah bekerja di dalam perusahaan selama beberapa waktu karena sudah mendalami unsur [[bisnis dan manajemen]] perusahaan.
+
+==History==
+[[Institut Teknolgi Stevens]] dipercaya memiliki departemen manajemen teknik tertua, dengan didirikannya Sekolah Teknik Bisnis (''School of Business Engineering'') pada tahun 1908. Program ini lalu diubah namanya menjadi program Sarjana Keteknikan di bidang Manajemen Teknik (''Bachelor of Engineering in Engineering Management'') dan dipindahkan ke Sekolah Sistem dan Perusahaan (''School of Systems and Enterprises''). Lalu program Manajemen Teknik Universitas Drexel didirikan tahun 1959.<ref>[http://www.drexel.edu/egmt/about/history/ History of Engineering Management]</ref> [[Universitas Sains dan Teknologi Missouri]] (sebelumnya bernama Universitas Missouri-Rolla) mendirikan departemen Manajemen Teknik pada tahun 1967.
+
+[[Jerman]] telah memfokuskan studi Manajemen Teknik sejak tahun 1927 di Berlin.<ref>http://www.vwi.org/hauptmenue/beruf-studium/wirtschaftsingenieurwesen/geschichte-und-bedeutung.html</ref> Di [[Turki]], [[Universitas Teknik Istanbul]] memiliki departemen Manajemen Teknik<ref>[http://www.isl.itu.edu.tr/isletmeMuhendisligiNedirEN.htm Management Engineering Department]</ref><ref>http://www.end.itu.edu.tr/tarihce.html</ref>  sejak tahun 1982.
+
+== Wilayah kerja ==
+
+=== Riset operasi dan manajemen rantai suplai ===
+[[Riset operasi]] berhubungan dengan model kuantitatif dari operasi kompleks dan menggunakan model tersebut untuk mendukung [[pengambilan keputusan]] dalam berbagai sektor industri dan jasa. [[Manajemen rantai suplai]] adalah proses perencanaan, implementasi, dan pengaturan aliran barang, jasa, dan informasi terkait dari satu tempat ke tempat lain.<ref name="UWMGTE">[http://www.mansci.uwaterloo.ca/mgte/index.php University of Waterloo], Management Engineering.</ref>
+
+=== Teknologi informasi ===
+[[Teknologi informasi]] memfokuskan pada bagaimana teknologi didesain dan diatur untuk mendukung pengambilan keputusan yang efektif. Topik yang berhubungan meliputi [[desain perangkat lunak|desain dan pengembangan perangkat lunak]], [[penggalian data]], dan [[telekomunikasi]].<ref name="UWMGTE"/>
+
+=== Teknik pengambilan keputusan ===
+[[Teknik pengambilan keputusan]] (''decision engineering'') merujuk pada penggunaan prinsip keteknikan dalam membuat keputusan. Dari sudut pandang ini, pembuatan keputusan meliputi persetujuan sasaran, pengembangan spesifikasi detail, dan pembuatan model keputusan, dengan menangkap elemen kunci sebab-akibat pada lingkungan keputusan dengan fokus pada keputusan tertentu. Model keputusan bisa menjadi subjek dari peninjauan [[penilaian kualitas]], dan senantiasa didokumentasikan untuk perbaikan proses.
+
+=== Manajemen teknologi ===
+manajemen teknologi membangun pondasi topik manajemen dalam [[akuntansi]], [[keuangan]], [[ekonomi]], [[perilaku organisasi]], dan desain organisasi; berurusan dengan operasinal dan permasalahan organisasi terkait pengaturan inovasi dan perubahan teknologi.<ref name="UWMGTE"/>
+
+== Lihat pula ==
+* [[Teknik industri]]
+
+== Referensi ==
+{{reflist}}
+
+== Bacaan terkait ==
+* Pan, Eric T-S.  ''Perpetual Business Machines: Principles of Success for Technical Professionals'' ISBN 0-9754480-0-5
+
+== Pranala luar ==
+*[http://www.ewh.ieee.org/soc/ems/emr/emronline.html Engineering Management Review - A Publication of the IEEE]
+*[http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?puNumber=2221 IEEE Transactions on Engineering Management Journal]
+*[http://www.csem-scgi.org/ Canadian Society for Engineering Management, CSEM]
+
+{{Teknologi}}
+
+{{DEFAULTSORT:Engineering Management}}
+[[Kategori:Disiplin teknik]]
+[[Kategori:Manajemen]]
+[[Kategori:Teknik]]
+[[Kategori:Teknologi industri]]

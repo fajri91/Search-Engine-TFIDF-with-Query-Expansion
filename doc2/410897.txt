@@ -1,0 +1,39 @@
+Templat:Spanish Royal Family
+{| class="infobox collapsible collapsed" style="background: #faf6ff; border: 1px solid #888888; width: 20em; text-align: left; font-size: 88%"
+|-
+! style="background: #f0eeff; color: #000000; font-size: 1.15em; padding: 0px 0px 4px 0px; text-align:center" valign="top" | '''[[Keluarga Kerajaan Spanyol]]'''
+|-
+| style="background: #f0eeff; padding: 0px 0px {{#if:{{{1|}}}|1|6}}px 0px; text-align:center" | [[Berkas:Coat of Arms of Spanish Monarch.svg|120px]]
+|-  
+| style="background: #faf6ff; border-top: 1px solid #888888; padding: 0px 10px 0px 5px"; |'''[[Felipe VI dari Spanyol|YM Raja]]'''<br/>[[Letizia dari Spanyol|YM Ratu]]
+*[[Leonor, Putri Asturias|YM Putri Asturias]]
+*[[Infanta Sofa dari Spanyol|YM Infanta Sofa]]
+----
+[[Juan Carlos I dari Spanyol|YM Raja Juan Carlos I]]<br/>[[Sofa dari Spanyol|YM Ratu Sofa]]
+*[[Elena dari Borbn dan Grecia|YM Adipati Wanita Lugo]]
+**[[Felipe Juan Froiln de Marichalar y Borbn|Don Felipe]]
+**[[Victoria Federica de Marichalar y Borbn|Doa Victoria]]
+*[[Infanta Cristina, Adipati Wanita Palma de Mallorca|YM Infanta Cristina]]<br/>[[Iaki Urdangarin]]
+**[[Juan Valentn Urdangarn y de Borbn|Don Juan]]
+**[[Pablo Nicols Urdangarn y de Borbn|Don Pablo]]
+**[[Miguel Urdangarn y de Borbn|Don Miguel]]
+**[[Irene Urdangarn y de Borbn|Doa Irene]]
+----
+[[Infanta Pilar, Adipati Wanita Badajoz|YM Adipati Wanita Badajoz]]
+*Doa Simoneta 
+*Viscount de la Torre 
+*Don Bruno 
+*Don Luis 
+*Don Fernando 
+----
+[[Infanta Margarita, Adipati Wanita Soria|YM Adipati Wanita Soria dan Hernani]]<br/>[[Carlos Zurita, Adipati Soria|YM Adipati Soria dan Hernani]]
+*Don Alfonso 
+*Doa Mara 
+----
+[[Infanta Alicia, Adipati Wanita Calabria|YM Janda Adipati Calabria]]
+[[Putri Anne, Adipati Wanita Calabria|YM Janda Adipati Calabria]]
+|-
+| style="text-align:center;"| {{navbar|Spanish Royal Family|mini=1}} 
+|}<noinclude>
+[[Kategori:Kerabat kerajaan Spanyol]]
+</noinclude>

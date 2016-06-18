@@ -1,0 +1,25 @@
+Penangkal petir
+[[Berkas:Pointed Lightning Rod.jpg|250px|thumb|right|Sebuah penangkal petir]]
+'''Penangkal petir''' adalah rangkaian jalur yang difungsikan sebagai jalan bagi [[petir]] menuju ke permukaan [[bumi]], tanpa merusak benda-benda yang dilewatinya. Ada 3 bagian utama pada penangkal petir:
+# Batang penangkal petir
+# Kabel konduktor 
+# Tempat pembumian
+
+== Batang penangkal petir ==
+Batang penangkal petir berupa batang [[tembaga]] yang ujungnya runcing. Dibuat runcing karena muatan [[listrik]] mempunyai sifat mudah berkumpul dan lepas pada ujung [[logam]] yang runcing. Dengan demikian dapat memperlancar proses tarik menarik dengan muatan listrik yang ada di awan. Batang runcing ini dipasang pada bagian puncak suatu [[bangunan]].
+
+== Kabel konduktor ==
+[[File:Statue auf dem Bayerischen Landtag 3427.JPG|right|200px]]
+Kabel konduktor terbuat dari jalinan [[kawat tembaga]]. Diameter jalinan [[kabel]] konduktor sekitar 1 [[cm]] hingga 2 cm . Kabel konduktor berfungsi meneruskan aliran muatan listrik dari batang muatan listrik ke [[tanah]]. Kabel konduktor tersebut dipasang pada dinding di bagian luar bangunan.
+
+== Tempat pembumian ==
+Tempat pembumian (''grounding'') berfungsi mengalirkan muatan listrik dari kabel konduktor ke batang pembumian (''ground rod'') yang tertanam di tanah. Batang pembumian terbuat dari bahan tembaga berlapis [[baja]], dengan diameter 1,5 cm dan panjang sekitar 1,8 - 3 m .
+
+== Cara kerja ==
+Saat muatan listrik negatif di bagian bawah awan sudah tercukupi, maka muatan listrik positif di tanah akan segera tertarik. Muatan listrik kemudian segera merambat naik melalui kabel konduktor , menuju ke ujung batang penangkal petir. Ketika muatan listrik negatif berada cukup dekat di atas atap, daya tarik menarik antara kedua muatan semakin kuat, muatan positif di ujung-ujung penangkal petir tertarik ke arah muatan negatif. Pertemuan kedua muatan menghasilkan aliran listrik. Aliran listrik itu akan mengalir ke dalam tanah, melalui kabel konduktor, dengan demikian sambaran petir tidak mengenai bangunan. Tetapi sambaran petir dapat merambat ke dalam bangunan melalui kawat jaringan listrik dan bahayanya dapat merusak alat-alat elektronik di bangunan yang terhubung ke jaringan listrik itu, selain itu juga dapat menyebabkan kebakaran atau ledakan. Untuk mencegah kerusakan akibat jaringan listrik tersambar petir, biasanya di dalam bangunan dipasangi alat yang disebut penstabil arus listrik (''surge arrestor'').
+
+== Lihat pula ==
+* [[Petir]]
+
+[[Kategori:Alat pengaman]]
+[[Kategori:Petir]]

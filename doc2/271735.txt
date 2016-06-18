@@ -1,0 +1,16 @@
+Berkas:Tun Sardon Jubir in Book.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+Sebuah buku yang memuat kisah Tun [[Sardon Haji Jubir]], "His life and times".
+
+Sumber : http://2.bp.blogspot.com/_8cK8G-0x6Xs/SBVL44PbZrI/AAAAAAAAACc/L-zgwZNPxHE/S254/TUNSARDON.jpg
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Fairuse}}

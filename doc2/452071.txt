@@ -1,0 +1,47 @@
+Komet GiacobiniZinner
+{{Infobox comet
+| name=21P/GiacobiniZinner
+| image=[[File:Comet 21P Giacobini-Zinner.jpg|250px]]
+| discoverer=[[Michel Giacobini]], [[Ernst Zinner]]
+| discovery_date=December 20, 1900
+| designations=1900 III; P/1900 Y1; 1913 V;<br/> P/1913 U1; 1926 VI; 1933 III;<br/> 1940 I; 1946 V; 1959 VIII;<br/> 1966 I; 1972 VI; 1979 III;<br/> 1985 XIII; 1992 IX
+| epoch=March 6, 2006
+| semimajor=3.526 [[Unit Astronomi|UA]]
+| perihelion=1.038 UA
+| aphelion=6.014 UA
+| eccentricity=0.7056
+| period=6.621 [[Tahun Julian|a]]
+| inclination= 31.8108
+| last_p=February 11, 2012<ref name=jpldata/><br>July 2, 2005
+| next_p=2018-Sep-10<ref name="NK2191">{{cite web
+  |title=21P/Giacobini-Zinner   (NK 2191)
+  |publisher=OAA Computing and Minor Planet Sections
+  |author=[[Syuichi Nakano]]
+  |url=http://www.oaa.gr.jp/~oaacs/nk/nk2191.htm
+  |accessdate=2012-02-18}}</ref>
+}}
+'''Komet GiacobiniZinner''' (nama resmi: '''21P/GiacobiniZinner''') adalah sebuah komet periodik di tata surya kita.
+
+Planet ini ditemukan oleh  [[Michel Giacobini]] dari ([[Nice]], [[Prancis]]) yang meng[[observasi]] komet ini dari [[konstelasi akuarius]] pada tanggal 20 Desember 1900. Komet ini ditemukan kembali oleh [[Ernst Zinner]] (dari [[Bamberg]], [[Jerman]]) saat meng[[observasi]]  [[bintang variabel]] di dekat [[Beta Scuti]] tanggal 23 Oktober 1913.
+
+Saat kemunculannya, Giacobini-Zinner dapat mencapai tingkat kecerahan 8  [[magnitudo]], tapi pada tahun 1946 hanya terlihat 5 magnitudo.
+
+GiacobiniZinner menjadi target [[wahana angkasa]] [[International Cometary Explorer]] yang mendekati ekornya pada 11 September 1985. 
+
+Komet ini memiliki [[diameter]] inti sekitar 2 [[km]].<ref name=jpldata>{{cite web
+  |title=JPL Small-Body Database Browser: 21P/GiacobiniZinner
+  |url=http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=21P
+  |publisher=Jet Propulsion Laboratory
+  |accessdate=2010-02-25}}</ref>
+
+== Referensi ==
+{{Reflist}}
+
+== Pranala luar ==
+* [http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=21P;orb=1 Orbital simulation] from JPL (Java) / [http://ssd.jpl.nasa.gov/horizons.cgi?find_body=1&body_group=sb&sstr=21P Horizons Ephemeris]
+* [http://www.aerith.net/comet/catalog/0021P/index.html 21P/Giacobini-Zinner]  Seiichi Yoshida @ aerith.net
+* [http://cometography.com/pcomets/021p.html 21P at Kronk's Cometography]
+
+
+[[Kategori:Komet]]
+[[Kategori:Komet periodik]]

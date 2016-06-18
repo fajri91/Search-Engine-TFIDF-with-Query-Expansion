@@ -1,0 +1,35 @@
+Euophrys bulbus
+{{Taxobox
+|name = Euophrys bulbus
+|status = 
+|image = 
+|image_caption = 
+|domain = 
+|regnum = [[Animalia]]
+|phylum = [[Arthropoda]]
+|classis = [[Arachnida]]
+|ordo = [[Araneae]]
+|familia = [[Salticidae]]
+|genus =Euophrys
+|species = Euophrys bulbus
+|binomial = Euophrys bulbus
+|binomial_authority =Bao & Peng, 2002
+|range_map = 
+|range_map_caption = 
+|image2 = 
+|image2_caption = 
+|synonyms = 
+}}
+'''''Euophrys bulbus''''' adalah spesies [[laba-laba]] yang tergolong [[familia]] [[Salticidae]]. Spesies ini juga merupakan bagian dari genus [[Euophrys]] dan ordo [[Araneae]]. Nama ilmiah dari spesies ini pertama kali diterbitkan pada tahun 2002 oleh Bao & Peng.
+
+Laba-laba ini biasanya banyak ditemui di Taiwan.
+
+== Referensi ==
+
+* Platnick, Norman I. (2010): [http://research.amnh.org/entomology/spiders/catalog/LINYPHIIDAE.html The world spider catalog], version 10.5. ''American Museum of Natural History''.
+
+{{DEFAULTSORT:Euophrys bulbus}}
+
+[[Kategori:Salticidae]]
+
+{{labalaba-stub}}

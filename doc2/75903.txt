@@ -1,0 +1,27 @@
+Bandar Udara Zama
+{{Kotakinfo bandara|nama=Bandara Zama
+|IATA=N/A
+|ICAO=CEX5
+|lokasi=[[Zama City]], [[Alberta]]
+|negara=[[Kanada]]
+|pengelola=Municipal District #23
+|tipe=Sipil
+|waktu=UTC-6
+|elevasi={{height|m=395}}
+|koordinat={{coor dms|59|09|07|N|118|42|25|W|type:airport|br=Y}}
+{{landaspacu|sudut=16/34|panjang_f=2,460|panjang_m=750|permukaan=Berminyak}}
+}}
+
+'''Bandar Udara Zama''', {{airport codes|N/A|CEX5}}, terletak dekat [[Zama City]], [[Alberta]], [[Kanada]].
+
+== Lihat pula ==
+* [[Bandara Zama Lake]]
+
+== Referensi ==
+* {{CFS}}
+{{Canadian Airports}}
+
+[[Kategori:Bandar udara di Alberta|Zama]]
+
+
+{{Bandara-stub}}

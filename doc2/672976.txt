@@ -1,0 +1,11 @@
+Templat:Pengguna The Chronicles of Narnia: The Lion, the Witch and the Wardrobe
+{{userbox
+|logo            = [[Berkas:Darica Lion 07174.jpg|40px]]
+|info            = Pengguna ini adalah penggemar film '''''[[The Chronicles of Narnia: The Lion, the Witch and the Wardrobe]]'''''.
+|border-color    = purple
+|logo-background = black
+|info-background = #96C8A2
+|nocat           = {{{nocat|}}}
+}}<noinclude>
+[[Kategori:Templat userbox minat|The Chronicles of Narnia: The Lion, the Witch and the Wardrobe]]
+</noinclude>

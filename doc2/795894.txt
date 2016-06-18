@@ -1,0 +1,41 @@
+State Street Corporation
+{{Infobox company
+| name = State Street Corporation
+| logo = [[Image:State Street Corporation logo.svg|270px]]
+| type = [[Perusahaan publik|Publik]]
+| traded_as = {{NYSE|STT}}<br />[[500|S&P 500 Component]]
+| foundation = 1792
+| location = [[One Lincoln Street|State Street Financial Center]]<br>[[Boston]], [[Massachusetts]], [[Amerika Serikat]]
+| key_people = Joseph Hooley ([[Presiden]], [[Chief Executive Officer|CEO]] dan [[Chairman]])
+| industry = [[Jasa keuangan]]
+| products = [[Manajemen investasi]]
+| revenue = {{increase}} USD 9,878 milyar (2013)<ref name="Income statement">Bloomberg Businessweek, 2014, [http://investing.businessweek.com/research/stocks/financials/financials.asp?ticker=STT&dataset=incomeStatement&period=A&currency=native ''State Street Corp income statement''], retrieved 22 June 2014</ref>
+| net_income = {{increase}} USD 2.136 milyar (2013)<ref name="Income statement"/>
+| aum = {{increase}} USD 2,345 triliun (2013)<ref name="Corporate overview">State Street, 2014, [http://www.statestreet.com/wps/portal/internet/corporate/home/aboutstatestreet/corporateoverview/factsheet/ ''Corporate Overview''], retrieved 22 June 2014</ref>
+| assets = {{increase}} USD 243,291 milyar (2013)<ref name="Balance sheet">Bloomberg Businessweek, 2014, [http://investing.businessweek.com/research/stocks/financials/financials.asp?ticker=STT&dataset=balanceSheet&period=A&currency=native ''State Street Corp balance sheet''], retrieved 22 June 2014</ref>
+| equity = {{increase}} USD 20,378 milyar (2013)<ref name="Balance sheet"/>
+| num_employees = 29.530 (Mar 2014)<ref name="State-Street-Mar-2014-10-Q">{{cite web|author1=State Street|title=Form 10-Q, Quarterly Report, For the Quarterly Period Ended March 31, 2014|url=http://www.sec.gov/Archives/edgar/data/93751/000009375114000086/stt-20140331_10q.htm|website=sec.gov|publisher=Securities and Exchange Commission|accessdate=2014-07-21}}</ref>
+| homepage = [http://www.statestreet.com/ StateStreet.com]
+}}
+
+'''State Street''' adalah sebuah perusahaan asal Amerika Serikat yang bergerak di sektor finansial.<ref name="forbes">http://www.forbes.com/companies/state-street/</ref> Fokus utama State Street adalah industri jasa investasi.<ref name="forbes" /> Pada tahun 2014, State Street mendapatkan penjualan sebesar AS$9,7 miliar dengan total keuntungan AS$2,1 miliar.<ref name="forbes" />
+
+Pada tahun yang sama, State Street menempati peringkat ke-307 dalam daftar [[Global 2000]], sebuah daftar perusahaan terbesar di dunia yang diperingkat oleh majalah bisnis [[Forbes]], dengan total nilai pasar (''market value'') AS$30 miliar dan total aset sebesar AS$243,3 miliar.<ref name="forbes" />
+
+== Referensi ==
+{{reflist}}
+
+== Lihat pula ==
+* [[Global 2000]]
+* [[New York Stock Exchange]]
+* [[Forbes]]
+
+== Pranala luar ==
+* [http://www.forbes.com/companies/state-street/ Profil State Street di situs Forbes]
+
+[[Kategori:Perusahaan Amerika Serikat]]
+[[Kategori:Global 2000]]
+[[Kategori:Perusahaan yang didirikan tahun 1792]]
+
+
+{{perusahaan-stub}}

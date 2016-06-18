@@ -1,0 +1,29 @@
+Templat:2 Raja-raja
+{{#switch:{{PAGENAME}}|2 Raja-raja 1|2 Raja-raja 2|2 Raja-raja 3|2 Raja-raja 4|2 Raja-raja 5|2 Raja-raja 6|2 Raja-raja 7|2 Raja-raja 8|2 Raja-raja 9|2 Raja-raja 10|2 Raja-raja 11|2 Raja-raja 12|2 Raja-raja 13|2 Raja-raja 14|2 Raja-raja 15|2 Raja-raja 16|2 Raja-raja 17|2 Raja-raja 18|2 Raja-raja 19|2 Raja-raja 20|2 Raja-raja 21|2 Raja-raja 22|2 Raja-raja 23|2 Raja-raja 24|2 Raja-raja 25=<nowiki />
+* {{id}} [http://alkitab.sabda.org/passage.php?version=tb&passage={{urlencode:{{PAGENAME}}}}&tab=text Teks {{PAGENAME}} dari Alkitab SABDA]
+* {{id}} [http://alkitab.sabda.org/bible.php?version=tb&book=12&chapter={{Str right|{{PAGENAME}}|12}}&tab=audio Audio {{PAGENAME}}]
+* {{id}} [http://alkitab.sabda.org/bible.php?version=tb&book=12&chapter={{Str right|{{PAGENAME}}|12}}&tab=xref Referensi silang {{PAGENAME}}]
+* {{id}} [http://alkitab.sabda.org/commentary.php?version=tb&passage={{urlencode:{{PAGENAME}}}} Komentari bahasa Indonesia untuk {{PAGENAME}}]
+* {{en}} [http://alkitab.sabda.org/commentary.php?version=net&passage={{urlencode:{{PAGENAME}}}} Komentari bahasa Inggris untuk {{PAGENAME}}]
+}}
+{{Navbox
+| name  = 2 Raja-raja
+| listclass = hlist
+| title =[[Kitab 2 Raja-raja]]      <small>(''Sepher M'lakhim'')</small>
+| image = {{Portal|Kristen|Yahudi}}
+| group1 = [[Alkitab]]
+| state = {{{state|<noinclude>uncollapsed</noinclude>}}}
+| list1 = [[2 Raja-raja 1]]  [[2 Raja-raja 2|2]]  [[2 Raja-raja 3|3]]  [[2 Raja-raja 4|4]]  [[2 Raja-raja 5|5]]  [[2 Raja-raja 6|6]]  [[2 Raja-raja 7|7]]  [[2 Raja-raja 8|8]]  [[2 Raja-raja 9|9]]  [[2 Raja-raja 10|10]]  [[2 Raja-raja 11|11]]  [[2 Raja-raja 12|12]]  [[2 Raja-raja 13|13]]  [[2 Raja-raja 14|14]]  [[2 Raja-raja 15|15]]  [[2 Raja-raja 16|16]]  [[2 Raja-raja 17|17]]  [[2 Raja-raja 18|18]]  [[2 Raja-raja 19|19]]  [[2 Raja-raja 20|20]]  [[2 Raja-raja 21|21]]  [[2 Raja-raja 22|22]]  [[2 Raja-raja 23|23]]  [[2 Raja-raja 24|24]]  [[2 Raja-raja 25|25]]
+| group2 = Tempat
+| list2 = [[Aram]]  <!--[[Baal-Zebub]] --> [[Betel]]  [[Ekron]]  [[Lakhis]]  [[Laut Mati|Laut Araba]]  [[Ramot-Gilead]]  [[Samaria]]  [[Yerusalem]]  [[Yizreel]]  [[sungai Yordan]]
+
+| group3 = [[Daftar nama tokoh dalam Alkitab|Tokoh]]
+| list3 =  [[Ahab]]  [[Ahazia (raja Yehuda)]]  [[Atalya]]  [[Elia]]  [[Elisa]]  [[Ewil-Merodakh]]  [[Hazael]]  [[Hizkia]]  [[Izebel]]  [[Nebukadnezar II|Nebukadnezar]]  [[Salmaneser V|Salmaneser]]   [[Sanherib]]  [[Yehu]]  [[Yeremia]]  [[Yesaya]]  [[Yoram (raja Israel)]]  [[Yosafat]]  [[Yosia]]  [[Yoyakhin]]  [[Yoyakim]]  [[Zedekia]]
+
+| group4 = Sumber
+| list4 = [[wikisource:he:  |Alkitab Ibrani]]  [[wikisource:el: '|Septuaginta]]  [[wikisource:la:Biblia Sacra Vulgata (Stuttgartensia)/Regum II|Latin Vulgata]]  [http://alkitab.sabda.org/bible.php?version=tb&book=12&chapter=1 Versi Terjemahan Baru]  [[wikisource:Bible (Wycliffe)/4 Kings|Versi Wycliffe]]  [[wikisource:Bible (King James)/2 Kings|Versi King James]]  [[wikisource:Bible (American Standard)/2 Kings|Versi American Standard]]   [[wikisource:Bible (World English)/2 Kings|Versi World English]]
+| below = [[Kitab 1 Samuel]], [[Kitab 2 Samuel]], [[Kitab 1 Raja-raja]] ([[1 Raja-raja 22|pasal 22]])      [[Kitab 1 Tawarikh]] ([[1 Tawarikh 1|pasal 1]])
+}}<noinclude>
+[[Kategori:Templat navigasi Kristen]]
+[[Kategori:Templat navigasi Yahudi]]
+</noinclude>

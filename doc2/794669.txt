@@ -1,0 +1,14 @@
+Pemrograman Prosedural
+{{rapikan}}
+{{referensi}}
+Pemrograman Prosedural adalah dilakukan dengan memberikan serangkaian perintah yang berurutan. Paradigma ini didasari oleh konsep mesin Von Newman (stored program concept) sekelompok tempat penyimpanan (memori), yang dibedakan menjadi memori instruksi dan memori data, masing-masing memori tersebut dapat diberi nama dan nilai, selanjutnya instruksi akan dieksekusi satu persatu secara sekuensial oleh sebuah proses tunggal.
+
+Program dalam paradigma ini berdasarkan pada struktur informasi di dalam memori dan manipulasi dari informasi yang disimpan tersebut. Kata kunci yang sering digunakan dalam paradigma ini adalah:
+
+'''Algoritma + Struktur Data = Program'''
+
+Contoh bahasa pemrogaman yang menggunakan paradigma prosedural atau imperatif adalah: Bahasa-bahasa tingkat tinggi seperti  Cobol, Basic, Pascal, Fortran,   dan C/C++ mendukung kegiatan pemrograman prosedural, karena itu mereka dinamakan juga bahasa prosedural.
+
+Pada pemrograman procedural, program dibedakan antara bagian data dengan bagian instruksi. Bagian instruksi terdiri atas runtutan (sequence) instruksi yang dilaksanakan satu per satu secara berurutan oleh pemroses. Alur pelaksanaan instruksi dapat berubah karena adanya pencabangan kondisional. Data yang disimpan di dalam memori dimanipulasi oleh instruksi secara beruntun atau procedural.
+
+[[Kategori:Pemrogram komputer]]

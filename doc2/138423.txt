@@ -1,0 +1,52 @@
+Avigliana
+{{Infobox Italian comune
+| name                = Avigliana
+| official_name       = Citt di Avigliana
+| native_name         = 
+| image_skyline       = Castello di Avigliana.jpg
+| imagesize           = 
+| image_alt           = 
+| image_caption       = 
+| image_shield        = avigliana-Stemma.gif
+| shield_alt          = 
+| image_map           = 
+| map_alt             = 
+| map_caption         = 
+| pushpin_label_position = 
+| pushpin_map_alt     = 
+| latd  = 45 |latm  = 5 |lats  =  |latNS  = N
+| longd = 7 |longm = 24 |longs =   |longEW = E 
+| coordinates_type    = type:city(11,791)_region:IT
+| coordinates_display = title
+| coordinates_footnotes = 
+| region              = {{flagicon|Piedmont}} [[Piedmont]]
+| province            = [[Provinsi Turin]] (TO)
+| frazioni            = Drubiaglio, Milanere, Mortera, Bertassi
+| mayor_party         = 
+| mayor               = Carla Mattioli
+| area_footnotes      = 
+| area_total_km2      = 23.3
+| population_footnotes = 
+| population_total    = 
+| population_as_of    = 
+| pop_density_footnotes = 
+| population_demonym  = Aviglianesi
+| elevation_footnotes = 
+| elevation_m         = 383
+| twin1               = 
+| twin1_country       = 
+| saint               = [[St. John the Baptist]]
+| day                 = June 24
+| postal_code         = 10051
+| area_code           = 011
+| website             = {{official website|http://www.comune.avigliana.to.it/}}
+| footnotes           = 
+}}
+'''Avigliana''' adalah komune yang terletak di distrik [[Provinsi Turin]], [[Italia]]. 
+
+Kota Avigliana memiliki luas sebesar 23.3 km.
+
+Avigliana pada tahun 2004, memiliki penduduk sebanyak 11.791 jiwa.
+
+{{Provinsi Torino}}
+{{Turin-geo-stub}}

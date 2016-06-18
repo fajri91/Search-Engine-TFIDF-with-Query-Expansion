@@ -1,0 +1,15 @@
+Templat:Perguruan tinggi di Oman
+{{Navbox
+| name  = Perguruan tinggi di Oman
+| title = [[Perguruan tinggi|<font style="color:black">Perguruan tinggi</font>]] di [[Oman|<font style="color:black">Oman</font>]]
+| state = {{{state|autocollapse}}}
+|listclass = hlist
+|image = [[Image:Flag of Oman.svg|100x60px|right|link=Oman]]
+| list1 = 
+* [[Universitas Sultan Qabus]]
+* [[Universitas Sohar]]
+* [[Universitas Dhofar]]
+}}<noinclude>
+{{collapsible option}}
+[[Kategori:Templat universitas dan perguruan tinggi]]
+</noinclude>

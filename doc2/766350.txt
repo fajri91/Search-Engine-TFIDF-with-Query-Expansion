@@ -1,0 +1,31 @@
+Honda Acty
+{{Infobox automobile
+|image        = [[File:HondaActy4th.jpg|250px]]
+|name         = Honda Acty
+|manufacturer = [[Honda]]
+|production   = 1977&ndash;sekarang
+|layout       = [[Mesin tengah]], [[penggerak roda belakang]]/ [[4WD]].
+|class        = [[Microvan]]<br> [[truk kei]]
+|body_style   = 5-door [[Van]]<br>2-door [[truk pikap]]
+|predecessor  = {{ubl | [[Honda TN360#TN7|Honda TN7]] (truk) | [[Honda Life]] (van) }}
+|related = [[Honda Vamos]]
+}}
+'''Honda Acty''' adalah [[microvan]] dan [[truk kei]] yang diproduksi oleh [[Honda]] yang didesain untuk [[pasar domestik Jepang]]. Acty bersaing dengan [[Subaru Sambar]], [[Suzuki Carry]], [[Daihatsu Hijet]], dan [[Mitsubishi Minicab]].
+
+==Referensi==
+{{reflist|2}}
+
+== Pranala luar ==
+{{commons category}}
+*[http://www.honda.co.jp/ACTY/truck/ Honda Acty Truck webpage]
+*[http://www.honda.co.jp/ACTY/van/ Honda Acty Van webpage]
+*[http://www.kei-cars.com/index_files/acty_info.htm Honda Acty Street and Truck Specifications via Kei Cars Canada]
+*[http://thisoldhonda.org/generations_detail.php?ID=42 ThisOldHonda.org Acty]
+*[http://www.minitrucktalk.com/forumdisplay.php?f=7 Honda Acty Talk and Information]
+
+{{Honda}}
+
+{{iw-ref|ja|}}
+
+[[Category:Kendaraan Honda|Acty]]
+[[Category:Microvan]]

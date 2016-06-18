@@ -1,0 +1,4 @@
+Templat:Chembox SolubilityProduct
+| [[Hasil kali kelarutan]], ''K''<sub>sp</sub> {{#if:{{{label|}}}|pada {{{label}}}}}
+| {{{value|}}}
+|-<noinclude>[[Kategori:Templat kimia|{{PAGENAME}}]]</noinclude>

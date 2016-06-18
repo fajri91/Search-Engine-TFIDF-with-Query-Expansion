@@ -1,0 +1,55 @@
+Templat:Paroki di Keuskupan Agung Samarinda
+{{Navbox
+| name = Paroki di Keuskupan Agung Samarinda
+| listclass = hlist
+| title =[[Daftar paroki di Keuskupan Agung Samarinda|Daftar paroki]] di [[Keuskupan Agung Samarinda]]
+| image = 
+| group1 = Kevikepan Mahakam Pantai
+| list1 =
+* [[Paroki Katedral Samarinda]]
+* [[Paroki Hati Kudus Yesus, Mangkupalas]]
+* [[Paroki Santo Lukas Temindung]]
+* [[Paroki Dahor Balikpapan|Paroki Santo Petrus dan Paulus, Dahor]]
+* [[Paroki Santa Theresia Prapatan Balikpapan]]
+* [[Paroki Santo Klemens I, Sepinggan]]
+* [[Paroki Santa Maria dari Fatima, Penajam]]
+* [[Paroki Alleluya, Tanah Grogot]]
+* [[Paroki Santo Yosef, Bontang]]
+* [[Paroki Santa Theresia, Sangatta]]
+
+| group2 = Kevikepan Mahakam Tengah
+| list2 =
+* [[Paroki Gembala Baik, Ritan Baru]]
+* [[Paroki Santo Pius X, Tenggarong]]
+* [[Paroki Santo Arnoldus Yanssen, Tanjung Isuy]]
+* [[Paroki Santo Paulus, Long Bentuk]]
+* [[Paroki Santa Maria Ratu Damai, Nehas Liah Bing]]
+
+| group3 = Kevikepan Mahakam Hulu
+| list3 =
+* [[Paroki Hati Kudus Yesus, Laham]]
+* [[Paroki Santa Maria, Long Hubung]]
+* [[Paroki Santo Yosep, Long Pahangai]]
+* [[Paroki Santo Paulus, Tiong Ohang]]
+* [[Paroki Santo Petrus, Ujoh Bilang]]
+* [[Paroki Santo Paulus, Lambing]]
+* [[Paroki Kristus Raja, Barong Tongkok]]
+* [[Paroki Santo Markus, Melak]]
+* [[Paroki Santo Yohanes Penginjil, Melapeh]]
+* [[Paroki Keluarga Suci, Tering]]
+<!--
+| group4 = Paroki-paroki Administratif
+| list4 =
+* [[Engkuni Pasek, Barong Tongkok, Kutai Barat]] (St. Yakobus)
+* Mamahak Besar, [[Kutai Barat]] (St. Antonius)
+* [[Long Lunuk, Long Pahangai, Kutai Barat]] (St. Yohanes Pemandi)
+* [[Long Isun, Long Pahangai, Kutai Barat]] (Datah Suling) (St. Maria Magdalena)
+* [[Long Pakaq, Long Pahangai, Kutai Barat]] (Long Kuling) (Hati Yesus Maha Kudus)
+* [[Long Apari, Kutai Barat]] (St. Mikhael)
+-->
+|below=Lihat pula [[Daftar paroki di Indonesia]]
+}}
+[[Kategori:Keuskupan Agung Samarinda]]
+<noinclude>
+[[Kategori:Templat Katolik]]
+</noinclude>

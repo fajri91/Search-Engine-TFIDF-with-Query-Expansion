@@ -1,0 +1,1 @@
+templatutf83 ifexpr 10 16 padlefthexadecimalexpr10224no20 padlefthexadecimalexpr10mod64128no20 angka 16 digit sequence 3 byte tambahkan 0xe0 byte sequence 4 byte menambah 6 least significant bits 0x80 

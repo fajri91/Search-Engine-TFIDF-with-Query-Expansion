@@ -1,0 +1,26 @@
+Templat:Country data India
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = India
+| flag alias = Flag of India.svg
+| flag alias-British = British Raj Red Ensign.svg
+| flag alias-1931 = 1931 Flag of India.svg
+| flag alias-naval = Naval Ensign of India.svg
+| link alias-naval = Angkatan Laut India
+| flag alias-air force = Ensign of the Indian Air Force.svg
+| link alias-air force = Angkatan Udara India
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = British
+| var2 = 1931
+| redir1 = IND
+| redir2 = British India
+</noinclude>
+}}<noinclude>
+[[new:Template:Country data India]]
+[[pam:Template:Country data IND]]
+[[tl:Suleras:Country data India]]
+[[war:Batakan:Country data India]]
+</noinclude>

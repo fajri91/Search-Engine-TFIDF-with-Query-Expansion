@@ -1,0 +1,15 @@
+Berkas:Logonu.png
+== {{int:filedesc}} ==
+== {{int:filedesc}} ==
+{{Information
+| description    = 
+(deskripsi)
+| source         = {{dari|en}}(sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Logo}}

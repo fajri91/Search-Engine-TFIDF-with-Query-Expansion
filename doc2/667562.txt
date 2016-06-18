@@ -1,0 +1,14 @@
+Berkas:Terban.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+peta kelurahan terban, kecamatan gondokusuman diolah dari http://www.jogjakota.go.id/app/modules/extra/images/1221066000_Administrasi_F.pdf
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Fairuse}}

@@ -1,0 +1,73 @@
+Templat:G8
+{{Navbox
+|name = G8
+|state = {{{state|autocollapse}}}
+| listclass = hlist
+| title = Negara anggota [[G8|Kelompok 8]] (G8) dan [[G8+5|Kelompok 8+5]] (G8+5)
+|group1 = Anggota G8
+|list1 = {{flag|Amerika Serikat}}  {{flag|Britania Raya}}  {{flag|Italia}}  {{flag|Jepang}}  {{flag|Jerman}}  {{flag|Kanada}}  {{flag|Perancis}}  {{flag|Rusia}}
+|group2 = Perwakilan tambahan
+|list2 = {{flag|Uni Eropa}}
+|group3 = [[G8+5]]
+|list3  = 
+* [[{{cd|Brazil}}]]
+* [[{{cd|Tiongkok}}]]
+* [[{{cd|India}}]]
+* [[{{cd|Mexico}}]]
+* [[{{cd|South Africa}}]]
+
+| group4 = Lihat pula
+| list4 =
+* [[G6]]
+* [[G7]]
+* [[G8#Sejarah|G7+1]]
+}}<noinclude>
+[[Kategori:Templat navigasi organisasi|G8]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</noinclude>

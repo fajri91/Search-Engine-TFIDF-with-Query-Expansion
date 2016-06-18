@@ -1,0 +1,21 @@
+Berkas:Logo kabelvision.gif
+{{Information
+|description    = == {{int:filedesc}} ==
+{{Information
+|description    = 
+|source         = (sumber)
+|date           = (tanggal)
+|location       = (tempat; opsional)
+|author         = (pembuat)
+|permission     = 
+|other_versions = 
+}}
+== {{int:license-header}} ==
+{{Logo}}
+|source         = 
+|date           = 
+|location       = 
+|author         = 
+|permission     = 
+|other_versions = 
+}}

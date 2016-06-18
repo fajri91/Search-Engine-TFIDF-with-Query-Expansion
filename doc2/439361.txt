@@ -1,0 +1,17 @@
+Templat:Soromandi, Bima
+{{Navigasi ID Desa
+|provinsi=Nusa Tenggara Barat
+|dati2=Kabupaten
+|nama dati2=Bima
+|nama kecamatan=Soromandi
+|d1=Bajo
+|d2=Kananta
+|d3=Punti
+|d4=Sai
+|d5=Sampungu
+|d6=Wadukopa
+}}
+<noinclude>
+[[Kategori:Templat desa/kelurahan di Nusa Tenggara Barat|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Bima|{{PAGENAME}}]]
+</noinclude>

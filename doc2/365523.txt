@@ -1,0 +1,381 @@
+Croatian Indoors 1997  Tunggal
+{{Tennis events 2|1997|Croatian Indoors|
+ | defchamp = {{flagicon|CRO}} [[Goran Ivanievi]]
+ | champ  = {{flagicon|CRO}} [[Goran Ivanievi]]
+ | runner = {{flagicon|GBR}} [[Greg Rusedski]]
+ | score  = 76 (74), 46, 76 (86)
+}}
+[[Goran Ivanievi]] merupakan juara bertahan turnamen ini, tetapi ia kembali memenangkan turnamen setelah mengalahkan petenis asal [[Britania Raya]], [[Greg Rusedski]], dengan skor 7-6 (4), 4-6, 7-6 (6).
+
+== Unggulan ==
+{{col-begin}}
+{{col-2}}
+# {{flagicon|CRO}} '''[[Goran Ivanievi]] (Juara)
+# {{flagicon|SWE}} [[Thomas Enqvist]] ''(Semifinal)
+# {{flagicon|NED}} [[Jan Siemerink]] ''(Putaran Kedua)
+# {{flagicon|SUI}} [[Marc Rosset]] ''(Putaran Kedua)
+{{col-2}}
+<ol start="5">
+<li>{{flagicon|ESP}} [[Javier Snchez]] ''(Semifinal)
+<li>{{flagicon|ITA}} [[Renzo Furlan]] ''(Putaran Kedua)
+<li>{{flagicon|GER}} [[David Prinosil]] ''(Putaran Kedua)
+<li>{{flagicon|GER}} [[Hendrik Dreekmann]] ''(Putaran Pertama)
+</ol>
+{{col-end}}
+
+== Hasil pengundian ==
+{{Draw key}}
+{{32TeamBracket-Tennis3
+| RD1=Putaran Pertama
+| RD2=Putaran Kedua
+| RD3=Perempatfinal
+| RD4=Semifinal
+| RD5=Final
+
+| RD1-seed01=1
+| RD1-team01={{flagicon|CRO}} '''[[Goran Ivanievi|G Ivanievi]]
+| RD1-score01-1='''7<sup>7</sup>
+| RD1-score01-2=6<sup>4</sup>
+| RD1-score01-3='''7
+| RD1-seed02=&nbsp;
+| RD1-team02={{flagicon|SWE}} [[Magnus Norman|M Norman]]
+| RD1-score02-1=6<sup>5</sup>
+| RD1-score02-2='''7<sup>7</sup>
+| RD1-score02-3=5
+
+| RD1-seed03=&nbsp;
+| RD1-team03={{flagicon|GER}} [[Marc-Kevin Goellner|M-K Goellner]]
+| RD1-score03-1=5
+| RD1-score03-2=2
+| RD1-score03-3=&nbsp;
+| RD1-seed04=&nbsp;
+| RD1-team04={{flagicon|SWE}} '''[[Thomas Johansson|T Johansson]]
+| RD1-score04-1='''7
+| RD1-score04-2='''6
+| RD1-score04-3=&nbsp;
+
+| RD1-seed05=&nbsp;
+| RD1-team05={{flagicon|ROM}} '''[[Adrian Voinea|A Voinea]]
+| RD1-score05-1='''7<sup>7</sup>
+| RD1-score05-2='''6
+| RD1-score05-3=&nbsp;
+| RD1-seed06=&nbsp;
+| RD1-team06={{flagicon|ESP}} [[Marcos Aurelio Gorriz|M A Gorriz]]
+| RD1-score06-1=6<sup>2</sup>
+| RD1-score06-2=3
+| RD1-score06-3=&nbsp;
+
+| RD1-seed07=&nbsp;
+| RD1-team07={{flagicon|GER}} '''[[Alex Rdulescu|A Rdulescu]]
+| RD1-score07-1='''7<sup>9</sup>
+| RD1-score07-2='''6
+| RD1-score07-3=&nbsp;
+| RD1-seed08=8
+| RD1-team08={{flagicon|GER}} [[Hendrik Dreekmann|H Dreekmann]]
+| RD1-score08-1=6<sup>7</sup>
+| RD1-score08-2=2
+| RD1-score08-3=&nbsp;
+
+| RD1-seed09=4
+| RD1-team09={{flagicon|SUI}} '''[[Marc Rosset|M Rosset]]
+| RD1-score09-1=2
+| RD1-score09-2='''7<sup>7</sup>
+| RD1-score09-3='''6
+| RD1-seed10=Q
+| RD1-team10={{flagicon|HUN}} [[Jozsef Krocsko|J Krocsko]]
+| RD1-score10-1='''6
+| RD1-score10-2=6<sup>4</sup>
+| RD1-score10-3=2
+
+| RD1-seed11=WC
+| RD1-team11={{flagicon|CRO}} [[Saa Hirzon|S Hirzon]]
+| RD1-score11-1=5
+| RD1-score11-2=6<sup>9</sup>
+| RD1-score11-3=&nbsp;
+| RD1-seed12=Q
+| RD1-team12={{flagicon|ARG}} '''[[Gastn Etlis|G Etlis]]
+| RD1-score12-1='''7
+| RD1-score12-2='''7<sup>11</sup>
+| RD1-score12-3=&nbsp;
+
+| RD1-seed13=&nbsp;
+| RD1-team13={{flagicon|SVK}} [[Dominik Hrbat|D Hrbat]]
+| RD1-score13-1=1
+| RD1-score13-2=3
+| RD1-score13-3=&nbsp;
+| RD1-seed14=&nbsp;
+| RD1-team14={{flagicon|AUT}} '''[[Gilbert Schaller|G Schaller]]
+| RD1-score14-1='''6
+| RD1-score14-2='''6
+| RD1-score14-3=&nbsp;
+
+| RD1-seed15=&nbsp;
+| RD1-team15={{flagicon|ESP}} [[Juan Albert Viloca|J A Viloca]]
+| RD1-score15-1=6<sup>6</sup>
+| RD1-score15-2=6<sup>5</sup>
+| RD1-score15-3=&nbsp;
+| RD1-seed16=5
+| RD1-team16={{flagicon|ESP}} '''[[Javier Snchez|J Snchez]]
+| RD1-score16-1='''7<sup>8</sup>
+| RD1-score16-2='''7<sup>7</sup>
+| RD1-score16-3=&nbsp;
+
+| RD1-seed17=6
+| RD1-team17={{flagicon|ITA}} '''[[Renzo Furlan|R Furlan]]
+| RD1-score17-1=3
+| RD1-score17-2='''7<sup>7</sup>
+| RD1-score17-3='''6
+| RD1-seed18=&nbsp;
+| RD1-team18={{flagicon|ARG}} [[Javier Frana|J Frana]]
+| RD1-score18-1='''6
+| RD1-score18-2=6<sup>4</sup>
+| RD1-score18-3=4
+
+| RD1-seed19=&nbsp;
+| RD1-team19={{flagicon|DEN}} [[Kenneth Carlsen|K Carlsen]]
+| RD1-score19-1='''7<sup>8</sup>
+| RD1-score19-2=6<sup>7</sup>
+| RD1-score19-3=6<sup>3</sup>
+| RD1-seed20=&nbsp;
+| RD1-team20={{flagicon|CZE}} '''[[Martin Damm|M Damm]]
+| RD1-score20-1=6<sup>6</sup>
+| RD1-score20-2='''7<sup>9</sup>
+| RD1-score20-3='''7<sup>7</sup>
+
+| RD1-seed21=Q
+| RD1-team21={{flagicon|USA}} [[Francisco Montana|F Montana]]
+| RD1-score21-1=3
+| RD1-score21-2=4
+| RD1-score21-3=&nbsp;
+| RD1-seed22=&nbsp;
+| RD1-team22={{flagicon|GBR}} '''[[Greg Rusedski|G Rusedski]]
+| RD1-score22-1='''6
+| RD1-score22-2='''6
+| RD1-score22-3=&nbsp;
+
+| RD1-seed23=Q
+| RD1-team23={{flagicon|CZE}} [[Radomr Vaek|R Vaek]]
+| RD1-score23-1=3
+| RD1-score23-2='''7
+| RD1-score23-3=4
+| RD1-seed24=WC/3
+| RD1-team24={{flagicon|NED}} '''[[Jan Siemerink|J Siemerink]]
+| RD1-score24-1='''6
+| RD1-score24-2=5
+| RD1-score24-3='''6
+
+| RD1-seed25=7
+| RD1-team25={{flagicon|GER}} '''[[David Prinosil|D Prinosil]]
+| RD1-score25-1=6<sup>5</sup>
+| RD1-score25-2='''6
+| RD1-score25-3='''6
+| RD1-seed26=WC
+| RD1-team26={{flagicon|CRO}} [[Ivan Ljubii|I Ljubii]]
+| RD1-score26-1='''7<sup>7</sup>
+| RD1-score26-2=3
+| RD1-score26-3=0
+
+| RD1-seed27=&nbsp;
+| RD1-team27={{flagicon|MAR}} '''[[Hicham Arazi|H Arazi]]
+| RD1-score27-1=2
+| RD1-score27-2='''6
+| RD1-score27-3='''6
+| RD1-seed28=&nbsp;
+| RD1-team28={{flagicon|ESP}} [[Toms Carbonell|T Carbonell]]
+| RD1-score28-1='''6
+| RD1-score28-2=1
+| RD1-score28-3=4
+
+| RD1-seed29=&nbsp;
+| RD1-team29={{flagicon|MAR}} '''[[Karim Alami|K Alami]]
+| RD1-score29-1='''7<sup>8</sup>
+| RD1-score29-2=1
+| RD1-score29-3='''6
+| RD1-seed30=&nbsp;
+| RD1-team30={{flagicon|RUS}} [[Andrei Chesnokov|A Chesnokov]]
+| RD1-score30-1=6<sup>6</sup>
+| RD1-score30-2='''6
+| RD1-score30-3=1
+
+| RD1-seed31=&nbsp;
+| RD1-team31={{flagicon|SWE}} [[Patrik Fredriksson|P Fredriksson]]
+| RD1-score31-1='''7<sup>7</sup>
+| RD1-score31-2=3
+| RD1-score31-3=3
+| RD1-seed32=2
+| RD1-team32={{flagicon|SWE}} '''[[Thomas Enqvist|T Enqvist]]
+| RD1-score32-1=6<sup>1</sup>
+| RD1-score32-2='''6
+| RD1-score32-3='''6
+
+| RD2-seed01=1
+| RD2-team01={{flagicon|CRO}} '''[[Goran Ivanievi|G Ivanievi]]
+| RD2-score01-1='''7<sup>7</sup>
+| RD2-score01-2='''6
+| RD2-score01-3=&nbsp;
+| RD2-seed02=&nbsp;
+| RD2-team02={{flagicon|SWE}} [[Thomas Johansson|T Johansson]]
+| RD2-score02-1=6<sup>4</sup>
+| RD2-score02-2=4
+| RD2-score02-3=&nbsp;
+
+| RD2-seed03=&nbsp;
+| RD2-team03={{flagicon|ROM}} [[Adrian Voinea|A Voinea]]
+| RD2-score03-1=6<sup>7</sup>
+| RD2-score03-2=6<sup>5</sup>
+| RD2-score03-3=&nbsp;
+| RD2-seed04=&nbsp;
+| RD2-team04={{flagicon|GER}} '''[[Alex Rdulescu|A Rdulescu]]
+| RD2-score04-1='''7<sup>9</sup>
+| RD2-score04-2='''7<sup>7</sup>
+| RD2-score04-3=&nbsp;
+
+| RD2-seed05=4
+| RD2-team05={{flagicon|SUI}} [[Marc Rosset|M Rosset]]
+| RD2-score05-1=3
+| RD2-score05-2=6<sup>1</sup>
+| RD2-score05-3=&nbsp;
+| RD2-seed06=Q
+| RD2-team06={{flagicon|ARG}} '''[[Gastn Etlis|G Etlis]]
+| RD2-score06-1='''6
+| RD2-score06-2='''7<sup>7</sup>
+| RD2-score06-3=&nbsp;
+
+| RD2-seed07=&nbsp;
+| RD2-team07={{flagicon|AUT}} [[Gilbert Schaller|G Schaller]]
+| RD2-score07-1=3
+| RD2-score07-2=5
+| RD2-score07-3=&nbsp;
+| RD2-seed08=5
+| RD2-team08={{flagicon|ESP}} '''[[Javier Snchez|J Snchez]]
+| RD2-score08-1='''6
+| RD2-score08-2='''7
+| RD2-score08-3=&nbsp;
+
+| RD2-seed09=6
+| RD2-team09={{flagicon|ITA}} [[Renzo Furlan|R Furlan]]
+| RD2-score09-1=3
+| RD2-score09-2=5
+| RD2-score09-3=&nbsp;
+| RD2-seed10=&nbsp;
+| RD2-team10={{flagicon|CZE}} '''[[Martin Damm|M Damm]]
+| RD2-score10-1='''6
+| RD2-score10-2='''7
+| RD2-score10-3=&nbsp;
+
+| RD2-seed11=&nbsp;
+| RD2-team11={{flagicon|GBR}} '''[[Greg Rusedski|G Rusedski]]
+| RD2-score11-1=4
+| RD2-score11-2='''6
+| RD2-score11-3='''6
+| RD2-seed12=WC/3
+| RD2-team12={{flagicon|NED}} [[Jan Siemerink|J Siemerink]]
+| RD2-score12-1='''6
+| RD2-score12-2=3
+| RD2-score12-3=2
+
+| RD2-seed13=7
+| RD2-team13={{flagicon|GER}} [[David Prinosil|D Prinosil]]
+| RD2-score13-1=6<sup>5</sup>
+| RD2-score13-2=3
+| RD2-score13-3=&nbsp;
+| RD2-seed14=&nbsp;
+| RD2-team14={{flagicon|MAR}} '''[[Hicham Arazi|H Arazi]]
+| RD2-score14-1='''7<sup>7</sup>
+| RD2-score14-2='''6
+| RD2-score14-3=&nbsp;
+
+| RD2-seed15=&nbsp;
+| RD2-team15={{flagicon|MAR}} [[Karim Alami|K Alami]]
+| RD2-score15-1=3
+| RD2-score15-2=0
+| RD2-score15-3=&nbsp;
+| RD2-seed16=2
+| RD2-team16={{flagicon|SWE}} '''[[Thomas Enqvist|T Enqvist]]
+| RD2-score16-1='''6
+| RD2-score16-2='''6
+| RD2-score16-3=&nbsp;
+
+| RD3-seed01=1
+| RD3-team01={{flagicon|CRO}} '''[[Goran Ivanievi|G Ivanievi]]
+| RD3-score01-1='''6
+| RD3-score01-2='''1
+| RD3-score01-3=&nbsp;
+| RD3-seed02=&nbsp;
+| RD3-team02={{flagicon|GER}} [[Alex Rdulescu|A Rdulescu]]
+| RD3-score02-1=0
+| RD3-score02-2=1
+| RD3-score02-3=r
+
+| RD3-seed03=Q
+| RD3-team03={{flagicon|ARG}} [[Gastn Etlis|G Etlis]]
+| RD3-score03-1=0
+| RD3-score03-2=6<sup>5</sup>
+| RD3-score03-3=&nbsp;
+| RD3-seed04=5
+| RD3-team04={{flagicon|ESP}} '''[[Javier Snchez|J Snchez]]
+| RD3-score04-1='''6
+| RD3-score04-2='''7<sup>7</sup>
+| RD3-score04-3=&nbsp;
+
+| RD3-seed05=&nbsp;
+| RD3-team05={{flagicon|CZE}} [[Martin Damm|M Damm]]
+| RD3-score05-1=5
+| RD3-score05-2=3
+| RD3-score05-3=&nbsp;
+| RD3-seed06=&nbsp;
+| RD3-team06={{flagicon|GBR}} '''[[Greg Rusedski|G Rusedski]]
+| RD3-score06-1='''7
+| RD3-score06-2='''6
+| RD3-score06-3=&nbsp;
+
+| RD3-seed07=&nbsp;
+| RD3-team07={{flagicon|MAR}} [[Hicham Arazi|H Arazi]]
+| RD3-score07-1=2
+| RD3-score07-2=3
+| RD3-score07-3=&nbsp;
+| RD3-seed08=2
+| RD3-team08={{flagicon|SWE}} '''[[Thomas Enqvist|T Enqvist]]
+| RD3-score08-1='''6
+| RD3-score08-2='''6
+| RD3-score08-3=&nbsp;
+
+| RD4-seed01=1
+| RD4-team01={{flagicon|CRO}} '''[[Goran Ivanievi|G Ivanievi]]
+| RD4-score01-1='''6
+| RD4-score01-2='''6
+| RD4-score01-3=&nbsp;
+| RD4-seed02=5
+| RD4-team02={{flagicon|ESP}} [[Javier Snchez|J Snchez]]
+| RD4-score02-1=2
+| RD4-score02-2=4
+| RD4-score02-3=&nbsp;
+
+| RD4-seed03=&nbsp;
+| RD4-team03={{flagicon|GBR}} '''[[Greg Rusedski|G Rusedski]]
+| RD4-score03-1='''6
+| RD4-score03-2='''6
+| RD4-score03-3=&nbsp;
+| RD4-seed04=2
+| RD4-team04={{flagicon|SWE}} [[Thomas Enqvist|T Enqvist]]
+| RD4-score04-1=4
+| RD4-score04-2=4
+| RD4-score04-3=&nbsp;
+
+| RD5-seed01=1
+| RD5-team01={{flagicon|CRO}} '''[[Goran Ivanievi]]
+| RD5-score01-1='''7<sup>7</sup>
+| RD5-score01-2=4
+| RD5-score01-3='''7<sup>8</sup>
+| RD5-seed02=&nbsp;
+| RD5-team02={{flagicon|GBR}} [[Greg Rusedski]]
+| RD5-score02-1=6<sup>4</sup>
+| RD5-score02-2='''6
+| RD5-score02-3=6<sup>6</sup>
+}}
+
+== Referensi ==
+* [http://www.atpworldtour.com/Share/Event-Draws.aspx?e=322&y=1997 Hasil Pengundian Croatian Indoors 1997]
+
+[[Kategori:PBZ Zagreb Indoors|Tunggal]]
+[[Kategori:ATP Tour musim 1997|Tunggal]]

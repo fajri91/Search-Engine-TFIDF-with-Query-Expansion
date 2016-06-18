@@ -1,0 +1,46 @@
+Kolom Winogradsky
+[[Berkas:Winogradski1.JPG|frame|200px|Kolom Winogradsky awalnya]]
+[[Berkas:Winogradski2.JPG|frame|200px|Kolom Winogradsky setelah beberapa minggu]]
+'''Kolom Winogradsky''' adalah suatu miniatur [[ekosistem]] buatan untuk membiakkan [[mikroba]] yang menyerupai kondisi [[ekologi]]s sebenarnya dengan menyediakan sumber [[bakteri]] jangka panjang untuk pengkayaan [[kultur]]<ref name="c">Madigan MT, ''et.al''. 2009. ''Brock Biology of Microorganisms'' 12 Ed. San Fransisco: Pearson Education, Inc.Page.697-698.</ref>. Kolom Winogradsky adalah salah satu cara sederhana untuk mempelajari hubungan silang antara dua komponen suatu lingkungan alami di [[laboratorium]].<ref name="c"/>
+
+== Penemuan ==
+Kolom Winogradsky merupakan ide seorang ilmuwan [[Rusia]] bernama [[Sergei Winogradsky]] (1856-1953) dibantu oleh [[Martinus Beijerinck]].<ref name="h"/> Keduanya adalah ilmuwan yang pertama kali mempelajari [[mikrobiologi lingkungan]], di mana saat itu penelitian mengenai [[mikrobiologi]] hanya berkisar pada [[bakteri patogen]], dan penelitiannya memberi banyak kontribusi pada pemahaman mikrobiologi lingkungan dan [[siklus nutrisi]], seperti [[sulfur]] dan [[nitrogen]]. <ref name="h">{{en}} [http://www.microbiologytext.com/index.php?module= Book&func=displayarticle&art_id=32 Paustian T. 2008. Through the Microscope: A Look are All Things Small] <small> Diakses pada: 4 Apr 2010 </small></ref>.
+
+Kolom ini pertama kali digunakan pada tahun [[1880]] untuk mengamati mikroorganisme yang hidup di [[tanah]].<ref name="a">{{en}} Anderson DC, Hairston RV. 1999. The winogradsky column & biofilms : models for teaching nutrient cycling & succession in an ecosystem. ''American Biol Teach'' 61(6) : 453-9.</ref> dengan cara mengamati siklus [[sulfur]], [[nitrogen]], [[fosfor]], ataupun [[nutrien]] lain yang umumnya terjadi di antara segmen permukaan yang sifatnya membutuhkan [[oksigen]] ([[aerob]]) dan di segmen bawah yang bersifat tidak membutuhkan [[oksigen]] ([[anaerob]]).<ref name="b">{{en}} [http://www.mbio.ncsu.edu/MB451/lab/Winogradsky_columns/wc.html North Carolina University: Brown JW. 2009. ''Winogradsky columns''].<small>Diakses pada 4 Apr 2010</small>.</ref>	
+
+Kolom ini juga digunakan sebagai model untuk mempelajari interaksi populasi bakteri pada berbagai komunitas perairan dan [[sedimen perairan]].<ref name="d">{{en}} [http://helios.bto.ed.ac.uk/bto/microbes/.htm. Deacon J. 2005. The Microbial World: Winogradsky column: perpetual life in a tube]<small>Diakses pada 4 Apr 2010</small>.</ref>. Kolom Winogradsky menggambarkan bagaimana mikroorganisme yang berbeda membentuk hubungan interdependen, dimana aktivitas suatu [[organisme]] mampu memengaruhi organisme lain untuk tumbuh atau sebaliknya.<ref name="d"/>	
+
+Tujuan lain pembuatan kolom Winogradski adalah mengamati perbedaan [[metabolisme]] tiap organisme, seperti organisme yang membutuhkan cahaya ([[fototrof]]), kimia ([[kemotrof]]), dan membuat makanannya sendiri ([[autotrof]]), atau mengambil makanan dari organisme lain ([[heterotrof]]).<ref name="e">{{en}} [http://www.biology.ed.ac.uk/research/groups/jdeacon/microbes/winograd.htm. Deacon J. 2003. ''Winogradsky Column'']<small>Diakses pada 4 Apr 2010</small>.</ref> Selain itu juga mengamati bagaimana [[mikroorganisme]] menggunakan kebutuhan [[karbon]] dan [[mineral]] berdasarkan toleransi lingkungan, dan perannya dalam [[siklus materi]].<ref name="e"/>
+
+Pada kolom Winogradsky juga dapat diamati [[mekanisme sintropi]], [[siklus energi]] dan materi pada suatu ekosistem, yang sifatnya seimbang.<ref name="i">{{en}} Ogunseitan. 2005. ''Microbial Diversity''. Blackwell Science.
+</ref> Pada mekanisme sintropi, hasil metabolisme mikroorganisme A akan dipakai oleh mikroorganisme B, hasil metabolisme mikroorganisme B akan dipakai oleh mikroorganisme C, dan hasil metabolisme mikroorganisme C akan dipakai oleh mikroorganisme A sehingga tercipta kondisi yang seimbang.<ref name="i"/>
+
+== Pembuatan ==
+Secara umum, pembuatan kolom Winogradsky dilakukan dengan memadatkan [[lumpur]] yang diperoleh dari [[lingkungan]] dan kemudian ditambahkan air yang diambil dari lingkungan yang sama.<ref name="z">Madigan, ''et al''. 2008. ''Brock Biology of Microorganism'' Ed.11. San Fransisco: Pearson Education, Inc.Page 695.</ref> Pengkayaan (''enrichment'') dilakukan dengan penambahan:
+* sumber [[mineral]] yaitu [[kalsium karbonat]] (CaCO<sub>3</sub>), [[kalsium sulfat]] (CaSO<sub>4</sub>), dan [[kalium monofosfat]] (KH<sub>2</sub>PO<sub>4</sub>), 
+* sumber [[asam amino]] yaitu [[kuning telur]] yang sudah direbus, dan 
+* sumber [[karbon]] yaitu kertas koran yang dipotong-potong kecil (sumber [[selulosa]]).<ref name="g">[http://coreg.tmginteractive.com/CoReg.aspx?CoRegId=994512. Sitaresmi. 2005. Mikrobiologi Lingkungan 1]<small>Diakses pada 4 Apr 2010</small>.</ref>
+
+Penyusunan dalam bentuk [[kolom]] memungkinkan terbentuknya kondisi kaya [[oksigen]] (''aerob'') di permukaan kolom dan kondisi miskin oksigen ([[mikroaerofil]]) atau tanpa oksigen ([[anoksik]]) di bagian bawah.<ref name="g"/> Bagian permukaan kolom terekspos dengan oksigen, dan semakin ke bagian bawah kolom semakin kekurangan oksigen sampai ke bagian dasar merupakan zona [[anaerob]].<ref name="g"/> Bagian permukaan dan tepi kolom terekspos dengan [[cahaya]] sehingga dapat menggambarkan [[spektrum]] pertumbuhan organisme dari yang memutuhkan oksigen dan cahaya sampai organisme yang membutuhkan cahaya tetapi tidak membutuhkan oksigen.<ref name="g"/>.
+
+Lumpur dan sedimen yang digunakan mengandung [[substrat]] [[senyawa]] [[organik]] [[karbon]], [[sulfida]], dan [[sulfat]].<ref name="z"/> Hal ini yang mengakibatkan perkembangan sejumlah bakteri [[heterotrof]] dan [[fotoautotrof]], termasuk bakteri sulfur fotosintetik [[anaerob]].<ref name="z"/> Kolom ini dapat diisi dengan [[tanah]], [[lumpur]], dan [[air]] dari berbagai macam [[lingkungan]] dan dapat dimodifikasi dengan kultur pengkayaan.<ref name="z"/>
+
+== Aktivitas ==
+Dalam beberapa minggu akan terdapat pertumbuhan mikroorganisme yang dapat hidup secara anaerob di dalam tanah, seperti [[metanogen]] yang menghasilkan gas [[metana]] (CH<sub>4</sub>) dan bakteri pereduksi sulfat yang menghasilkan gas [[hidrogen sulfida]] (H<sub>2</sub>S).<ref name="z"/> Beberapa bakteri metanogen yang ada antara lain ''Methanobacterium'', ''Methanocaldococcus'', dan ''[[Methanosarcina]]'' sedangkan bakteri pereduksi sulfat yang ada antara lain: ''[[Desulfovibrio]]'', ''[[Desulfobacter]]'', dan ''[[Desulfuromonas]]''.<ref name="z"/>
+
+[[Mikroorganisme]] berkembang biak dan membentuk zona-zona berbeda.<ref name="z"/> Mikroorganisme aerobik akan berkumpul di permukaan, biasanya [[alga]], [[cyanobacteria]], dan bakteri pengoksidasi sulfur karena adanya oksigen, sedangkan organisme yang butuh kadar oksigen rendah atau tidak butuh sama sekali akan menempati lapisan bawahnya, seperti contohnya [[bakteri sulfur ungu]] dan bakteri non-sulfur ungu.<ref name="f">{{en}} [http://steel.ced.berkeley.edu/research/hidden_ecologies/?p=31. Benton C. 2005. Winogradsky Column]<small>Diakses pada 4 Apr 2010</small>.</ref> 
+
+Air yang ada pada bagian kolom yang terkena cahaya [[matahari]] terlihat lebih keruh karena adanya pertumbuhan bakteri [[fotoautotrof]] yang tumbuh secara aerob seperti ''[[Cyanobacter]] sp.'' dan ''[[Chlorobium]]'' dan bakteri pengoksidasi sulfat seperti ''[[Thiobacillus]] sp.''<ref name="f"/> Warna hitam di permukaan tanah dapat terjadi karena hidrogen sulfida (H<sub>2</sub>S) yang bereaksi dengan zat [[besi]] (Fe) membentuk endapan.<ref name="z"/>
+
+Adanya pertumbuhan bakteri secara aerob dan anaerob dapat terjadi di dalam kolom Winogradsky karena adanya mekanisme sintropi.<ref name="z"/> Dalam hal ini, hasil metabolisme dari bakteri pereduksi sulfat yang menghasilkan gas H<sub>2</sub>S, digunakan oleh bakteri pengoksidasi sulfat untuk mengoksidasi sulfat.<ref name="z"/> Selain itu, bakteri metanogen yang menghasilkan gas CH<sub>4</sub> dapat digunakan untuk pertumbuhan bakteri [[metanotrof]] yang menggunakan CH<sub>4</sub> sebagai sumber karbon untuk menghasilkan gas CO<sub>2</sub>.<ref name="z"/> Secara tidak langsung dapat diketahui bahwa telah terjadi [[aliran energi]] dan [[siklus materi]] yang seimbang pada kolom Winogradsky sehingga dapat terjadi pertumbuhan yang baik pada bakteri kondisi aerob dan anaerob.<ref name="i"/>
+
+Gas-gas yang terbentuk akan membuat terbentuknya [[rongga udara]] pada kolom yang semakin lama akan semakin membesar dan akan mengangkat tanah diatasnya semakin tinggi.<ref name="f"/> Kebalikan dengan oksigen yang semakin ke bawah semakin berkurang, [[hidrogen sulfida]] makin bertambah.<ref name="f"/>
+
+Saat kolom tersebut dibuka, akan tercium bau [[belerang]] yang disebabkan oleh gas H<sub>2</sub>S dari bakteri-bakteri pereduksi sulfat, contohnya ''Desulfovibrio sp.''<ref name="z"/> Selain itu juga terbentuk warna kehitam-hitaman di lumpur bagian atas yang disebabkan oleh kegiatan bakteri-bakteri aerob yang menghasilkan ion sulfat (S0<sub>4</sub><sup>2-</sup>) seperti contohnya ''Thiobacillus sp.'' dan ''Beggiatoa sp.''<ref name="z"/>
+
+== Referensi ==
+{{reflist}}
+
+{{commonscat|Winogradsky columns}}
+
+[[Kategori:Mikrobiologi]]

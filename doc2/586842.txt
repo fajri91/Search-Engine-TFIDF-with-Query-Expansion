@@ -1,0 +1,35 @@
+Tallusia vindobonensis
+{{Taxobox
+|name = Tallusia vindobonensis
+|status = 
+|image = 
+|image_caption = 
+|domain = 
+|regnum = [[Animalia]]
+|phylum = [[Arthropoda]]
+|classis = [[Arachnida]]
+|ordo = [[Araneae]]
+|familia = [[Linyphiidae]]
+|genus =Tallusia
+|species = Tallusia vindobonensis
+|binomial = Tallusia vindobonensis
+|binomial_authority =Kulczynski, 1898
+|range_map = 
+|range_map_caption = 
+|image2 = 
+|image2_caption = 
+|synonyms = 
+}}
+'''''Tallusia vindobonensis''''' adalah spesies [[laba-laba]] yang tergolong [[familia]] [[Linyphiidae]]. Spesies ini juga merupakan bagian dari ordo [[Araneae]]. Nama ilmiah dari spesies ini pertama kali diterbitkan pada tahun 1898 oleh Kulczynski.
+
+Laba-laba ini biasanya banyak ditemui di Eropa Tengah, Timur.
+
+== Referensi ==
+
+* Platnick, Norman I. (2010): [http://research.amnh.org/entomology/spiders/catalog/LINYPHIIDAE.html The world spider catalog], version 10.5. ''American Museum of Natural History''.
+
+{{DEFAULTSORT:Tallusia vindobonensis}}
+
+[[Kategori:Linyphiidae]]
+
+{{labalaba-stub}}

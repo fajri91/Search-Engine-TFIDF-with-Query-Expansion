@@ -1,0 +1,2 @@
+Templat:AdvancedSiteNotices/core
+<ul class="sitents">{{{1|}}}</ul><span class="nts_revision" style="display:none;">{{REVISIONID}}</span><noinclude>{{doc}}</noinclude>

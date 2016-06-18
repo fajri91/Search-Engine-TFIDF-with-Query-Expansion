@@ -1,0 +1,17 @@
+Templat:Bojongmanik, Lebak
+{{Navigasi ID Desa 
+|provinsi=Banten
+|dati2=Kabupaten
+|nama dati2=Lebak
+|nama kecamatan=Bojongmanik
+|d1= Cimayang
+|d2= Harjawana
+|d3= Kadurahayu
+|d4= Keboncau
+|d5= Mekarmanik
+|d6= Parakanbeusi
+}}
+<noinclude>
+[[Kategori:Templat desa/kelurahan di Banten|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Lebak|{{PAGENAME}}]]
+</noinclude>

@@ -1,0 +1,10 @@
+PTEN
+'''PTEN''' ({{lang-en|phosphatase and tensin homolog, PTEN}}) adalah berkas [[gen]]etik pada [[kromosom 10 (manusia)|kromosom 10]] lokus 10q23.3 dengan [[ekspresi gen|ekspresietik]] berupa [[protein]] yang berfungsi sebagai [[enzim]] dengan nama [[Fosfatidil inositol 3-fosfatase|PI3P]]. [[Mutasi]] genetik PTEN sering ditemukan pada banyak kasus [[kanker]], sehingga gen ini sering disebut sebagai salah satu ''tumor suppressor''.<ref>{{en}} {{cite web|url=http://www.ncbi.nlm.nih.gov/gene/5728|title=PTEN phosphatase and tensin homolog [ Homo sapiens ]|accessdate=2011-07-10|work=Entrez Gene}}</ref>
+
+Tidak seperti umumnya protein [[fosfatase tirosina]], protein ekspresi PTEN lebih banyak mengkatalitik [[reaksi kimiawi|reaksi]] [[defosforilasi]] pada [[substrat]] [[fosfoinositida]] dan melakukan fungsinya sebagai penghambat tumor dengan menekan [[lintasan metabolisme|lintasan]] [[AKT]]/[[Kinase PB|PKB]].
+
+== Rujukan ==
+{{reflist}}
+{{Biokimia-stub}}
+
+[[Kategori:Gen pada kromosom 10]]

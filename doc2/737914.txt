@@ -1,0 +1,35 @@
+Bidang invariabel
+<div style="float:right; margin:2px;">
+{| class=wikitable style="text-align:center"
+|+ Inklinasi ke bidang invariabel pada [[raksasa gas]]:
+!Tahun!!Yupiter!!Saturnus!!Uranus!!Neptunus
+|-
+|2009<ref name=meanplane/>||0.32||0.93||1.02||0.72
+|-
+|142400<ref name=mean142k4>{{cite web
+  |date=2009-04-08
+  |title=MeanPlane (invariable plane) for 142400/01/01
+  |url=http://home.surewest.net/kheider/astro/Mean142k4.gif
+  |accessdate=2009-04-10}} (produced with Solex 10)</ref>||0.48||0.79||1.04||0.55
+|-
+|168000<ref name=mean168k>{{cite web
+  |date=2009-04-06
+  |title=MeanPlane (invariable plane) for 168000/01/01
+  |url=http://home.surewest.net/kheider/astro/Mean168k.gif
+  |accessdate=2009-04-10}} (produced with Solex 10)</ref>||0.23||1.01||1.12||0.55
+|}</div>
+
+'''Bidang invariabel''' [[sistem keplanetan]], juga disebut '''bidang invariabel Laplace''', adalah bidang yang melewati [[barisentrum]] (pusat massa), tegak lurus dengan [[vektor (geometri)|vektor]] [[momentum sudut]] suatu [[planet]]. Di [[Tata Surya]], sekitar 98% bidang invariabel dihasilkan oleh momentum sudut orbit dari empat [[planet jovian]] ([[Yupiter]], [[Saturnus]], [[Uranus]], dan [[Neptunus]]). Bidang invariabel berjarak sekitar 0,5 dari [[bidang orbit (astronomi)|bidang orbit]] Yupiter,<ref name=meanplane>{{cite web
+  |date=2009-04-03
+  |title=MeanPlane (invariable plane) for 2009/04/03<!-- J2000.0 (2000/01/01.5) is needed -->
+  |url=http://home.surewest.net/kheider/astro/MeanPlane.gif
+  |accessdate=2009-04-03}} (produced with [http://chemistry.unina.it/~alvitagl/solex/ Solex 10])</ref> dan dianggap sebagai rata-rata tertimbang dari semua bidang orbit dan bidang rotasi [[planet]].
+
+Bidang ini terkadang disebut dengan "Laplacian" atau "bidang invariabel Laplace", meskipun sebenarnya bidang invariabel ini tidak sama dengan [[bidang Laplace]], yang merupakan tempat bidang orbit planet mengalami [[Presesi ekliptika|presesi]].<ref>S. Tremaine, J. Touma, and F. Namouni (2009). [http://adsabs.harvard.edu/abs/2009AJ....137.3706T Satellite dynamics on the Laplace surface], ''[[The Astronomical Journal]]'' '''137''', 37063717.</ref> Kedua bidang tersebut dinamakan menurut astronom [[Perancis]] [[Pierre Simon Laplace]].<ref>La Place, Marquis de (Pierre Simon Laplace). ''[http://books.google.com/books?id=k-cRAAAAYAAJ&printsec=titlepage#PPA121,M1 Mcanique Cleste]'', translated by Nathaniel Bowditch. Boston: 1829, in four volumes (18291839). See volume I, chapter V, especially page 121. Originally published as ''Traite de mcanique cleste'' (''Treatise on Celestial Mechanics'') in five volumes, 17991825.</ref> Bidang invariabel dihitung menurut jumlah [[momentum sudut]] di keseluruhan sistem keplanetan, sedangkan bidang Laplace dihitung menurut jumlah objek berbeda yang mengorbit di dalam sistem keplanetan. Laplace menyebut bidang invariabel dengan "bidang area maksimum"; area tersebut dihasilkan oleh jari-jari dan perbedaan waktu diferensial dR/dt, atau dengan cara mengalikan kecepatan dengan massa.
+
+==Referensi==
+{{reflist}}
+
+{{astronomi-stub}}
+{{DEFAULTSORT:Invariable Plane}}
+[[Category:Tata Surya]]

@@ -1,0 +1,7 @@
+Templat:GrandSlam
+{{Navbox
+|name=GrandSlam
+| listclass = hlist
+| title =Turnamen ''[[Pertandingan Akbar|Grand Slam]]''
+|list1=[[Australia Terbuka]] ([[Daftar juara Australia Terbuka|Juara]]){{w}}[[Wimbledon (turnamen tenis)|Wimbledon]] ([[Daftar juara Wimbledon|Juara]]){{w}}[[AS Terbuka (tenis)|AS Terbuka]] ([[Daftar juara AS Terbuka (tenis)|Juara]]){{w}}[[Perancis Terbuka]] ([[Daftar juara Perancis Terbuka|Juara]])
+}}<noinclude>[[Kategori:Templat navigasi tenis|{{PAGENAME}}]]</noinclude>

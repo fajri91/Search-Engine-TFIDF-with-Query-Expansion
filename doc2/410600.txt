@@ -1,0 +1,10 @@
+Wikipedia:Warung Kopi (Teknis)/Arsip/September 2011
+== TOLONGIN SAYA DONG ==
+
+Saya coba untuk memuat gambar di unggah berkas tapi selalu dapat pesan seperti ini : "Ekstensi berkas tidak cocok dengan tipe MIME." Saya sudah coba pindah tipe file gambarnya (misalnya dari jpg ke png atau dari jpg ke tif), tetap tidak sukses. Mohon bantuannya kalau ada yang tahu masalahnya. Terima kasih. [[Pengguna:Adesio2010|adesio2010]] ([[Pembicaraan Pengguna:Adesio2010|bicara]]) 00:00, 1 September 2011 (UTC)
+
+: Bagaimana dengan ukurannya? Apakah > 1 MB? Oh ya bagaimana dengan lebar pita koneksi Internet Anda? [[Pengguna:Zakiakhmad|za]] ([[Pembicaraan Pengguna:Zakiakhmad|bicara]]) 10:04, 13 September 2011 (UTC)
+
+::Jika Anda mengunggah gambar baru, pastikan ekstensinya sesuai dengan ekstensi yang diizinkan (png, gif, jpg, jpeg, xcf, pdf, mid, ogg, ogv, svg, djvu, tiff, tif, oga.), namun jika Anda mengunggah file yang sudah ada/memutakhirkan file yang sudah ada, maka ekstensi file lama harus sama dengan file yang baru, misal file lama: "FILE.JPG" maka file baru harus berekstnsi JPG juga. <span style="text-decoration: blink"> [[File:heiwa.png|40px|link=User:Aris riyanto]][[User:Aris riyanto|<b>Ariyanto</b>]] [[File:Gartoon-Evolution.png|20px|link=user_talk:Aris riyanto]] </span> 11:04, 13 September 2011 (UTC)
+
+Terima kasih atas balasan pesan saya, saya mengunggah filenya dengan ekstensi yang sama yang diizinkan dan saya juga sudah mencoba di wikimedia dan berhasil. Hanya di wiki indo saja yang pengunggahan berkasnya tidak dapat saya pergunakan. [[Pengguna:Adesio2010|adesio2010]] ([[Pembicaraan Pengguna:Adesio2010|bicara]])

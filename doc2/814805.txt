@@ -1,0 +1,45 @@
+Templat:Kotak Kampanye Perang Paraguay
+{{Campaignbox
+| name = Kotak Kampanye Perang Paraguay
+| title = [[Perang Paraguay]]
+| listclass = hlist
+| battles =
+* [[Kampanye Mato Grosso|Mato Grosso]]
+* [[Pertempuran Corrientes|Corrientes]]
+* [[Pertempuran Riachuelo|Riachuelo]]
+* [[Pertempuran Paso de Mercedes|Mercedes]]
+* [[Pertempuran Paso de Cuevas|Paso de Cuevas]]
+* [[Pertempuran Yatay|Yatay]]
+* [[Pengepungan Uruguaiana|Uruguaiana]]
+* [[Pertempuran Pehuaj|Corrales]]
+* [[Pertempuran Estero Bellaco|Estero Bellaco]]
+* [[Pertempuran Yatayt Cor|Yatayt Cor]]
+* [[Pertempuran Tuyut|Tuyut ke-1]]
+* [[Pertempuran Boquern (1866)|Boquern]]
+* [[Pertempuran Sauce (1866)|Sauce]]
+* [[Pertempuran Curuz|Curuz]]
+* [[Pertempuran Curupayty|Curupayty]]
+* [[Pertempuran Potrero Obella|Potrero Obella]]
+* [[Penarikan diri Laguna|Laguna]]
+* [[Pertempuran Tatayib|Tatayib]]
+* [[Pengepungan Humait|Humait]]
+** [[Passage of Humait|Passage]]
+* [[Pertempuran Tuyut ke-2|Tuyut ke-2]]
+* [[Pertempuran Acayuaz|Acayuaz]]
+* [[Manuver Pikysyry|Pikysyry]]
+* [[Pertempuran Ytoror|Ytoror]]
+* [[Pertempuran Avay|Avay]]
+* [[Pertempuran Lomas Valentinas|Lomas Valentinas]]
+* [[Pertempuran Angostura (1868)|Angostura]]
+* [[Perampokan Asuncin|Asuncin]]
+* [[Kampanye Perbukitan|''Cordilleras'']]
+** [[Pertempuran Piribebuy|Piribebuy]]
+** [[Pertempuran Acosta u|Acosta u]]
+** [[Pertempuran Cerro Cor|Cerro Cor]]
+
+}}<noinclude>
+[[Kategori:Templat militer Argentina|Perang Paraguay]]
+[[Kategori:Templat militer Brasil|Perang Paraguay]]
+[[Kategori:Templat militer Paraguay|Perang Paraguay]]
+[[Kategori:Templat Uruguay|Perang Paraguay]]
+</noinclude>

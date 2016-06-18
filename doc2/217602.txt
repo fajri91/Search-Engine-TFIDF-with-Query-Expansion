@@ -1,0 +1,28 @@
+STATISTICA
+{{bukan|Statistik}}
+{{Infobox_Software |
+  name = STATISTICA |
+  screenshot =  |
+  caption =  |
+  developer = StatSoft |
+  latest_release_version = 9.0 (32-/64-bit)|
+  latest_release_date = 2009 |
+  operating_system = [[Microsoft Windows|Windows]] |
+  genre = [[Analisis numerik]] |
+  license = [[Proprietary software]] |
+  website = [http://www.statsoft.com/ www.statsoft.com] |
+}}
+
+'''STATISTICA''' adalah [[program komputer]] untuk analisis [[statistika]] yang dikembangkan oleh perusahaan StatSoft.
+Perangkat lunak ini dirancang untuk keperluan berbagai bidang dengan kategori:
+* Enterprise
+* Multiuser berbasis web
+* Desktop Single users.
+
+== Pranala luar ==
+* [http://www.statsoft.com Situs web Statistica]
+
+ 
+{{software-stub}}
+
+[[Kategori:Perangkat lunak statistika]]

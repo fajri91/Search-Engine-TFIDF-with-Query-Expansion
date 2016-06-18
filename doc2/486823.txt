@@ -1,0 +1,429 @@
+ISO 3166-2:BD
+{{main|ISO 3166-2}}
+
+'''ISO 3166-2:BD''' adalah sebuah standar [[ISO]] yang mendefinisikan kode internasional: kode ini merupakan bagian dari [[ISO 3166-2]] yang ditujukan kepada negara [[Bangladesh]].
+
+Saat ini untuk Bangladesh, kode ISO 3166-2 yang ditetapkan untuk dua tingkat sub-bagian:
+* 7 [[Divisi (pembagian administratif)|divisi]]
+* 64 [[distrik]]
+
+Setiap kode terdiri dari dua bagian, dipisahkan dengan tanda hubung. Bagian pertama adalah <tt>BD</tt>, kode [[ISO 3166-1 alpha-2]] untuk Bangladesh. Bagian kedua terdiri dari:
+* satu huruf (A-G): divisi
+* dua angka (01-64): distrik
+
+== Kode saat ini ==
+Nama sub-bagian tercantum dalam standar ISO 3166-2 yang diterbitkan oleh ISO 3166 Maintenance Agency (ISO 3166/MA).
+
+=== Divisi ===
+{| class="wikitable sortable"
+|-
+! Kode
+! Nama sub-bagian
+! Terdapat dalam divisi
+|-
+| <tt>BD-05</tt>
+| [[Distrik Bagerhat|Bagerhat]]
+| [[Khulna|<tt>D</tt>]]
+|-
+| <tt>BD-01</tt>
+| [[Distrik Bandarban|Bandarban]]
+| [[Chittagong|<tt>B</tt>]]
+|-
+| <tt>BD-02</tt>
+| [[Distrik Barguna|Barguna]]
+| [[Barisal|<tt>A</tt>]]
+|-
+| <tt>BD-06</tt>
+| [[Distrik Barisal|Barisal]]
+| [[Barisal|<tt>A</tt>]]
+|-
+| <tt>BD-07</tt>
+| [[Distrik Bhola|Bhola]]
+| [[Barisal|<tt>A</tt>]]
+|-
+| <tt>BD-03</tt>
+| [[Distrik Bogra|Bogra]]
+| [[Rajshahi|<tt>E</tt>]]
+|-
+| <tt>BD-04</tt>
+| [[Distrik Brahmanbaria|Brahmanbaria]]
+| [[Chittagong|<tt>B</tt>]]
+|-
+| <tt>BD-09</tt>
+| [[Distrik Chandpur|Chandpur]]
+| [[Chittagong|<tt>B</tt>]]
+|-
+| <tt>BD-10</tt>
+| [[Distrik Chittagong|Chittagong]]
+| [[Chittagong|<tt>B</tt>]]
+|-
+| <tt>BD-12</tt>
+| [[Distrik Chuadanga|Chuadanga]]
+| [[Khulna|<tt>D</tt>]]
+|-
+| <tt>BD-08</tt>
+| [[Distrik Comilla|Comilla]]
+| [[Chittagong|<tt>B</tt>]]
+|-
+| <tt>BD-11</tt>
+| [[Distrik Cox's Bazar|Cox's Bazar]]
+| [[Chittagong|<tt>B</tt>]]
+|-
+| <tt>BD-13</tt>
+| [[Distrik Dhaka|Dhaka]]
+| [[Dhaka|<tt>C</tt>]]
+|-
+| <tt>BD-14</tt>
+| [[Distrik Dinajpur|Dinajpur]]
+| [[Rangpur, Bangladesh|<tt>F</tt>]]
+|-
+| <tt>BD-15</tt>
+| [[Distrik Faridpur|Faridpur]]
+| [[Dhaka|<tt>C</tt>]]
+|-
+| <tt>BD-16</tt>
+| [[Distrik Feni|Feni]]
+| [[Chittagong|<tt>B</tt>]]
+|-
+| <tt>BD-19</tt>
+| [[Distrik Gaibandha|Gaibandha]]
+| [[Rangpur, Bangladesh|<tt>F</tt>]]
+|-
+| <tt>BD-18</tt>
+| [[Distrik Gazipur|Gazipur]]
+| [[Dhaka|<tt>C</tt>]]
+|-
+| <tt>BD-17</tt>
+| [[Distrik Gopalganj |Gopalganj]]
+| [[Dhaka|<tt>C</tt>]]
+|-
+| <tt>BD-20</tt>
+| [[Distrik Habiganj|Habiganj]]
+| [[Sylhet|<tt>G</tt>]]
+|-
+| <tt>BD-24</tt>
+| [[Distrik Jaipurhat|Jaipurhat]]
+| [[Rajshahi|<tt>E</tt>]]
+|-
+| <tt>BD-21</tt>
+| [[Distrik Jamalpur|Jamalpur]]
+| [[Dhaka|<tt>C</tt>]]
+|-
+| <tt>BD-22</tt>
+| [[Distrik Jessore|Jessore]]
+| [[Khulna|<tt>D</tt>]]
+|-
+| <tt>BD-25</tt>
+| [[Distrik Jhalakati|Jhalakati]]
+| [[Barisal|<tt>A</tt>]]
+|-
+| <tt>BD-23</tt>
+| [[Distrik Jhenaidah|Jhenaidah]]
+| [[Khulna|<tt>D</tt>]]
+|-
+| <tt>BD-29</tt>
+| [[Distrik Khagrachari|Khagrachari]]
+| [[Chittagong|<tt>B</tt>]]
+|-
+| <tt>BD-27</tt>
+| [[Distrik Khulna|Khulna]]
+| [[Khulna|<tt>D</tt>]]
+|-
+| <tt>BD-26</tt>
+| [[Distrik Kishoreganj|Kishoreganj]]
+| [[Dhaka|<tt>C</tt>]]
+|-
+| <tt>BD-28</tt>
+| [[Distrik Kurigram|Kurigram]]
+| [[Rangpur, Bangladesh|<tt>F</tt>]]
+|-
+| <tt>BD-30</tt>
+| [[Distrik Kushtia|Kushtia]]
+| [[Khulna|<tt>D</tt>]]
+|-
+| <tt>BD-31</tt>
+| [[Distrik Lakshmipur|Lakshmipur]]
+| [[Chittagong|<tt>B</tt>]]
+|-
+| <tt>BD-32</tt>
+| [[Distrik Lalmonirhat|Lalmonirhat]]
+| [[Rangpur, Bangladesh|<tt>F</tt>]]
+|-
+| <tt>BD-36</tt>
+| [[Distrik Madaripur|Madaripur]]
+| [[Dhaka|<tt>C</tt>]]
+|-
+| <tt>BD-37</tt>
+| [[Distrik Magura|Magura]]
+| [[Khulna|<tt>D</tt>]]
+|-
+| <tt>BD-33</tt>
+| [[Distrik Manikganj|Manikganj]]
+| [[Dhaka|<tt>C</tt>]]
+|-
+| <tt>BD-39</tt>
+| [[Distrik Meherpur|Meherpur]]
+| [[Khulna|<tt>D</tt>]]
+|-
+| <tt>BD-38</tt>
+| [[Distrik Moulvibazar|Moulvibazar]]
+| [[Sylhet|<tt>G</tt>]]
+|-
+| <tt>BD-35</tt>
+| [[Distrik Munshiganj|Munshiganj]]
+| [[Dhaka|<tt>C</tt>]]
+|-
+| <tt>BD-34</tt>
+| [[Distrik Mymensingh|Mymensingh]]
+| [[Dhaka|<tt>C</tt>]]
+|-
+| <tt>BD-48</tt>
+| [[Distrik Naogaon|Naogaon]]
+| [[Rajshahi|<tt>E</tt>]]
+|-
+| <tt>BD-43</tt>
+| [[Distrik Narail|Narail]]
+| [[Khulna|<tt>D</tt>]]
+|-
+| <tt>BD-40</tt>
+| [[Distrik Narayanganj|Narayanganj]]
+| [[Dhaka|<tt>C</tt>]]
+|-
+| <tt>BD-42</tt>
+| [[Distrik Narsingdi|Narsingdi]]
+| [[Dhaka|<tt>C</tt>]]
+|-
+| <tt>BD-44</tt>
+| [[Distrik Natore|Natore]]
+| [[Rajshahi|<tt>E</tt>]]
+|-
+| <tt>BD-45</tt>
+| [[Distrik Nawabganj|Nawabganj]]
+| [[Rajshahi|<tt>E</tt>]]
+|-
+| <tt>BD-41</tt>
+| [[Distrik Netrakona|Netrakona]]
+| [[Dhaka|<tt>C</tt>]]
+|-
+| <tt>BD-46</tt>
+| [[Distrik Nilphamari|Nilphamari]]
+| [[Rangpur, Bangladesh|<tt>F</tt>]]
+|-
+| <tt>BD-47</tt>
+| [[Distrik Noakhali|Noakhali]]
+| [[Chittagong|<tt>B</tt>]]
+|-
+| <tt>BD-49</tt>
+| [[Distrik Pabna|Pabna]]
+| [[Rajshahi|<tt>E</tt>]]
+|-
+| <tt>BD-52</tt>
+| [[Distrik Panchagarh|Panchagarh]]
+| [[Rangpur, Bangladesh|<tt>F</tt>]]
+|-
+| <tt>BD-51</tt>
+| [[Distrik Patuakhali|Patuakhali]]
+| [[Barisal|<tt>A</tt>]]
+|-
+| <tt>BD-50</tt>
+| [[Distrik Pirojpur|Pirojpur]]
+| [[Barisal|<tt>A</tt>]]
+|-
+| <tt>BD-53</tt>
+| [[Distrik Rajbari|Rajbari]]
+| [[Dhaka|<tt>C</tt>]]
+|-
+| <tt>BD-54</tt>
+| [[Distrik Rajshahi|Rajshahi]]
+| [[Rajshahi|<tt>E</tt>]]
+|-
+| <tt>BD-56</tt>
+| [[Distrik Rangamati|Rangamati]]
+| [[Chittagong|<tt>B</tt>]]
+|-
+| <tt>BD-55</tt>
+| [[Distrik Rangpur|Rangpur]]
+| [[Rangpur, Bangladesh|<tt>F</tt>]]
+|-
+| <tt>BD-58</tt>
+| [[Distrik Satkhira|Satkhira]]
+| [[Khulna|<tt>D</tt>]]
+|-
+| <tt>BD-62</tt>
+| [[Distrik Shariatpur|Shariatpur]]
+| [[Dhaka|<tt>C</tt>]]
+|-
+| <tt>BD-57</tt>
+| [[Distrik Sherpur|Sherpur]]
+| [[Dhaka|<tt>C</tt>]]
+|-
+| <tt>BD-59</tt>
+| [[Distrik Sirajganj|Sirajganj]]
+| [[Rajshahi|<tt>E</tt>]]
+|-
+| <tt>BD-61</tt>
+| [[Distrik Sunamganj|Sunamganj]]
+| [[Sylhet|<tt>G</tt>]]
+|-
+| <tt>BD-60</tt>
+| [[Distrik Sylhet|Sylhet]]
+| [[Sylhet|<tt>G</tt>]]
+|-
+| <tt>BD-63</tt>
+| [[Distrik Tangail|Tangail]]
+| [[Dhaka|<tt>C</tt>]]
+|-
+| <tt>BD-64</tt>
+| [[Distrik Thakurgaon|Thakurgaon]]
+| [[Rangpur, Bangladesh|<tt>F</tt>]]
+|}
+
+== Perubahan ==
+Perubahan-perubahan berikut telah diumumkan dalam laporan berkala (''newsletter'') oleh ISO 3166/MA setelah publikasi ISO 3166-2 pertama kali pada 1998:
+
+{| class="wikitable"
+|-
+! ''Newsletter''
+! Tanggal diterbitkan
+! Deskripsi perubahan dalam ''newsletter''
+! Perubahan kode/wilayah
+|-
+| id="I-2" | [http://www.iso.org/iso/iso_3166-2_newsletter_i-2_en.pdf {{nowrap|Newsletter I-2}}]
+| {{nowrap|2002-05-21}}
+| Sumber daftar baru. Satu divisi ditambahkan. 21 [[region]] dihapus. Alokasi distrik untuk divisi bukan region. Perbaikan satu kesalahan pengejaan
+| style=white-space:nowrap | '''Wilayah yang ditambahkan:'''<br /> <tt>BD-6</tt> [[Sylhet|Sylhet bibhag]]<br /> '''Wilayah yang dihapus:'''<br /> 21 region ''(lihat dibawah)''
+|-
+| id="II-3" | [http://www.iso.org/iso/iso_3166-2_newsletter_ii-3_2011-12-13.pdf {{nowrap|Newsletter II-3}}]
+| {{nowrap|2011-12-13}}<br /> ''(diperbaiki<br /> {{nowrap|2011-12-15}})''
+| Penyesuaian nama romanisasi negara, penambahan awalan tingkat pertama, penghapusan istilah generik, penambahan divisi administratif dan memperbarui sumber daftar
+| style=white-space:nowrap | '''Wilayah yang ditambahkan:'''<br /> <tt>BD-F</tt> [[Rangpur, Bangladesh|Rangpur]] (divisi)<br /> '''Kode:'''<br /> [[Barisal|Barisal]] (divisi) : <tt>BD-1</tt>  <tt>BD-A</tt><br /> [[Chittagong|Chittagong]] (divisi) : <tt>BD-2</tt>  <tt>BD-B</tt><br /> [[Dhaka|Dhaka]] (divisi) : <tt>BD-3</tt>  <tt>BD-C</tt><br /> [[Khulna|Khulna]] (divisi) : <tt>BD-4</tt>  <tt>BD-D</tt><br /> [[Rajshahi|Rajshahi]] (divisi) : <tt>BD-5</tt>  <tt>BD-E</tt><br /> [[Sylhet|Sylhet]] (divisi) : <tt>BD-6</tt>  <tt>BD-G</tt>
+|}
+
+=== Wilayah yang dihapus dalam Newsletter I-2 ===
+
+{| class="wikitable sortable"
+|-
+! Kode
+! Nama sub-bagian
+! Termasuk dalam divisi
+! class="unsortable" | Distrik di region
+|-
+| <tt>BD-2A</tt>
+| Bandarban anchal
+| [[Divisi Chittagong|<tt>2</tt>]]
+| [[Distrik Bandarban|<tt>01</tt>]]
+|-
+| <tt>BD-1B</tt>
+| Barisal anchal
+| [[Divisi Barisal|<tt>1</tt>]]
+| [[Distrik Barisal|<tt>06</tt>]], [[Distrik Bhola|<tt>07</tt>]], [[Distrik Jhalakati|<tt>25</tt>]], [[Distrik Pirojpur|<tt>50</tt>]]
+|-
+| <tt>BD-5C</tt>
+| Bogra anchal
+| [[Divisi Rajshahi|<tt>5</tt>]]
+| [[Distrik Bogra|<tt>03</tt>]], [[Distrik Jaipurhat|<tt>24</tt>]]
+|-
+| <tt>BD-2D</tt>
+| Chittagong anchal
+| [[Divisi Chittagong|<tt>2</tt>]]
+| [[Distrik Chittagong|<tt>10</tt>]], [[Distrik Cox's Bazar|<tt>11</tt>]]
+|-
+| <tt>BD-2E</tt>
+| [[Chittagong Hill Tracts]]
+| [[Divisi Chittagong|<tt>2</tt>]]
+| [[Distrik Khagrachari|<tt>29</tt>]], [[Distrik Rangamati|<tt>56</tt>]]
+|-
+| <tt>BD-2F</tt>
+| Comilla anchal
+| [[Divisi Chittagong|<tt>2</tt>]]
+| [[Distrik Brahmanbaria|<tt>04</tt>]], [[Distrik Chandpur|<tt>09</tt>]], [[Distrik Comilla|<tt>08</tt>]]
+|-
+| <tt>BD-3G</tt>
+| Dhaka anchal
+| [[Divisi Dhaka|<tt>3</tt>]]
+| [[Distrik Dhaka|<tt>13</tt>]], [[Distrik Gazipur|<tt>18</tt>]], [[Distrik Manikganj|<tt>33</tt>]], [[Distrik Munshiganj|<tt>35</tt>]], [[Distrik Narayanganj|<tt>40</tt>]], [[Distrik Narsingdi|<tt>42</tt>]]
+|-
+| <tt>BD-5H</tt>
+| Dinajpur anchal
+| [[Divisi Rajshahi|<tt>5</tt>]]
+| [[Distrik Dinajpur|<tt>14</tt>]], [[Distrik Panchagarh|<tt>52</tt>]], [[Distrik Thakurgaon|<tt>64</tt>]]
+|-
+| <tt>BD-3I</tt>
+| Faridpur anchal
+| [[Divisi Dhaka|<tt>3</tt>]]
+| [[Distrik Faridpur|<tt>15</tt>]], [[Distrik Gopalganj|<tt>17</tt>]], [[Distrik Madaripur|<tt>36</tt>]], [[Distrik Rajbari|<tt>53</tt>]], [[Distrik Shariatpur|<tt>62</tt>]]
+|-
+| <tt>BD-3J</tt>
+| Jamalpur anchal
+| [[Divisi Dhaka|<tt>3</tt>]]
+| [[Distrik Jamalpur|<tt>21</tt>]], [[Distrik Sherpur|<tt>57</tt>]]
+|-
+| <tt>BD-4K</tt>
+| Jessore anchal
+| [[Divisi Khulna|<tt>4</tt>]]
+| [[Distrik Jessore|<tt>22</tt>]], [[Distrik Jhenaidah|<tt>23</tt>]], [[Distrik Magura|<tt>37</tt>]], [[Distrik Narail|<tt>43</tt>]]
+|-
+| <tt>BD-4L</tt>
+| Khulna anchal
+| [[Divisi Khulna|<tt>4</tt>]]
+| [[Distrik Bagerhat|<tt>05</tt>]], [[Distrik Khulna|<tt>27</tt>]], [[Distrik Satkhira|<tt>58</tt>]]
+|-
+| <tt>BD-4M</tt>
+| Khustia anchal
+| [[Divisi Khulna|<tt>4</tt>]]
+| [[Distrik Chuadanga|<tt>12</tt>]], [[Distrik Kushtia|<tt>30</tt>]], [[Distrik Meherpur|<tt>39</tt>]]
+|-
+| <tt>BD-3N</tt>
+| Mymensingh anchal
+| [[Divisi Dhaka|<tt>3</tt>]]
+| [[Distrik Kishoreganj|<tt>26</tt>]], [[Distrik Mymensingh|<tt>34</tt>]], [[Distrik Netrakona|<tt>41</tt>]]
+|-
+| <tt>BD-2O</tt>
+| Noakhali anchal
+| [[Divisi Chittagong|<tt>2</tt>]]
+| [[Distrik Feni|<tt>16</tt>]], [[Distrik Lakshmipur|<tt>31</tt>]], [[Distrik Noakhali|<tt>47</tt>]]
+|-
+| <tt>BD-5P</tt>
+| Pabna anchal
+| [[Divisi Rajshahi|<tt>5</tt>]]
+| [[Distrik Pabna|<tt>49</tt>]], [[Distrik Sirajganj|<tt>59</tt>]]
+|-
+| <tt>BD-1Q</tt>
+| Patuakhali anchal
+| [[Divisi Barisal|<tt>1</tt>]]
+| [[Distrik Barguna|<tt>02</tt>]], [[Distrik Patuakhali|<tt>51</tt>]]
+|-
+| <tt>BD-5R</tt>
+| Rajshahi anchal
+| [[Divisi Rajshahi|<tt>5</tt>]]
+| [[Distrik Naogaon|<tt>48</tt>]], [[Distrik Natore|<tt>44</tt>]], [[Distrik Nawabganj|<tt>45</tt>]], [[Distrik Rajshahi|<tt>54</tt>]]
+|-
+| <tt>BD-5S</tt>
+| Rangpur anchal
+| [[Divisi Rajshahi|<tt>5</tt>]]
+| [[Distrik Gaibandha|<tt>19</tt>]], [[Distrik Kurigram|<tt>28</tt>]], [[Distrik Lalmonirhat|<tt>32</tt>]], [[Distrik Nilphamari|<tt>46</tt>]], [[Distrik Rangpur|<tt>55</tt>]]
+|-
+| <tt>BD-2T</tt>
+| Sylhet anchal
+| [[Divisi Chittagong|<tt>2</tt>]]
+| [[Distrik Habiganj|<tt>20</tt>]], [[Distrik Moulvibazar|<tt>38</tt>]], [[Distrik Sunamganj|<tt>61</tt>]], [[Distrik Sylhet|<tt>60</tt>]]
+|-
+| <tt>BD-3U</tt>
+| Tangail anchal
+| [[Divisi Dhaka|<tt>3</tt>]]
+| [[Distrik Tangail|<tt>63</tt>]]
+|}
+
+== Lihat pula ==
+* [[ISO 3166-2]], tabel kode daerah untuk semua negara.
+* [[ISO 3166-1]], tabel kode domain [[internet]] untuk semua negara.
+* [[Divisi di Bangladesh]]
+* [[Distrik di Bangladesh]]
+
+== Pranala luar ==
+* [http://www.statoids.com/ubd.html Divisions of Bangladesh], Statoids.com
+* [http://www.statoids.com/ybd.html Districts of Bangladesh], Statoids.com
+
+{{ISO 3166}}
+
+[[Kategori:ISO 3166|2:BD]]

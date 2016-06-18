@@ -1,0 +1,58 @@
+Peretas topi hitam
+'''Topi hitam''' atau '''Peretas topi hitam''' ({{lang-en|Black hat}}) adalah istilah [[teknologi informasi]] dalam yang mengacu kepada para [[peretas]] yang menerobos keamanan sistem komputer tanpa izin, umumnya dengan maksud untuk mengakses komputer-komputer yang terkoneksi ke jaringan tersebut. Istilah perengkah (''cracker'') diajukan oleh [[Richard Stallman]] untuk mengacu kepada [[peretas]] dalam arti ini.
+
+== Pengertian dasar ==
+Dalam penggunaan umum, peretas adalah seseorang yang menerobos masuk ke dalam komputer, biasanya dengan memperoleh akses ke kontrol administratif. Beberapa berpendapat bahwa hacker,digambarkan sebagai orang yang menerobos masuk ke dalam komputer dengan cara menerobos sistem keamanannya.di dunia ada komunitas hacker.komunitas hacker ini adalah komunitas orang yang memiliki minat besar dalam pemrograman komputer, sering menciptakan perangkat lunak open source. Orang-orang ini sekarang mengacu pada cyber-kriminal hacker sebagai "cracker".
+
+== Cara melakukan peretasan ==
+<ol>
+<li> '''Hacktivist''' ; hacktivis adalah hacker yang menggunakan teknologi untuk mengumumkan pandangan sosial, ideologi, agama, atau pesan politik.Dalam kasus yang lebih ekstrem, ''hacktivism'' digunakan sebagai alat untuk ''cyberterrorism''.
+
+<li> '''Meretas komputer''' ; meretas komputer merupakan Sebuah contoh umum dari eksploitasi keamanan dengan cara injeksi SQL,melalui lubang keamanan yang mungkin disebabkan dari praktik pemrograman bawah standar. Eksploitasi lain akan dapat digunakan melalui FTP, HTTP, PHP, SSH, Telnet dan beberapa halaman web.
+
+<li> '''Vulnerability scanner''' ; Sebuah Vulnerability scanner adalah alat yang digunakan untuk dengan cepat mengecek komputer pada jaringan untuk diketahui kelemahan.Hacker juga biasanya menggunakan port scanner.port scanner ini adalah alat untuk melihat port pada komputer tertentu untuk mengakses komputer, dan kadang-kadang akan mendeteksi program nomor versinya.firewall melindungi komputer dari penyusup dengan membatasi akses ke port
+
+<li> '''Password cracking''' ; Password cracking adalah sebuah aplikasi yang menangkap paket data, yang dapat digunakan untuk mencuri password dan data lain dalam transit melalui beberapa jaringan.
+
+<li> '''Bot Spread''' ; adalah suatu cara dengan menyebarkan suatu aplikasi/program dalam suatu jaringan yang mana komputer yang terinfeksi akan menjadi suatu zombie yang dapat membombardir sehingga website tersebud menjadi down.
+
+<li> '''Trojan horse''' ; Trojan horse adalah program yang tampaknya akan melakukan satu hal, tetapi sebenarnya melakukan hal lain.Sebuah Trojan horse dapat digunakan untuk mendirikan sebuah pintu belakang dalam sebuah sistem komputer sedemikian rupa sehingga penyusup dapat memperoleh akses upa seckemudian. (Nama trojan horse merujuk pada kuda dari Perang Troya, dengan fungsi secara konseptual menipu para prajurit untuk membawa seorang penyusup masuk.)
+
+<li> '''Virus''' ; Virus adalah sebuah program replikasi diri yang menyebar dengan menyisipkan salinan dirinya ke dalam kode executable lain atau dokumen.Dengan demikian, virus komputer berperilaku mirip dengan virus biologis yang menyebar dengan memasukkan dirinya ke dalam sel-sel hidup.
+
+<li> '''Worm''' ; Seperti virus, worm juga merupakan program replikasi diri.Sebuah worm berbeda dari virus itu menyebar melalui jaringan komputer tanpa campur tangan pengguna.Banyak orang bingung membedakan istilah "virus" dan "worm".
+
+<li> '''Spy Net''' ; Adalah program yang secara otomatis memata matai komputer korban, tetapi hanya jaringan internetnya saja bukan aktivitas komputernya. Biasanya masuk melalui message/ e-mail dari orang yang tak dikenal melalui video chat dan lain lain.
+
+<li> '''Keylogger''' Adalah sebuah program yang dibuat khusus untuk memata-matai komputer tertentu dalam bentuk suara, gambar atau pun tulisan. Biasanya hanya di-''inject'' melalui ''flashdisk'' ataupun USB (Universal Serial Bus).
+</li></ol>
+
+== Tokoh peretas topi hitam ==
+<ol>
+<li> [[Kevin Mitnick]]
+:Kevin Mitnick adalah konsultan keamanan komputer dan penulis, sebelumnya sempat menjadi kriminal yang paling dicari dalam sejarah Amerika Serikat.
+
+<li> [[Eric Gorden Corley]]
+:Eric Corley (juga dikenal sebagai Emmanuel Goldstein)Ia merupakan pendiri komunitas hacker.Dia telah menjadi bagian dari komunitas hacker sejak akhir tahun 70-an.
+
+<li> [[Gordon Lyon]]
+:Dikenal dengan sebutan Fyodor, menulis tentang Security Scanner dan juga banyak buku-buku keamanan jaringan dan situs web. Dia adalah anggota pendiri Honeynet Project dan Vice President of Computer Professionals for Social Responsibility.
+
+<li> [[Solar Designer]]
+:Solar adalah nama pendiri Proyek Openwall.
+
+<li> [[Michal Zalewski]]
+:Micha Zalewski adalah peneliti keamanan terkemuka.
+
+<li> [[Gary McKinnon]]
+:Gary McKinnon adalah hacker Inggris menghadapi ekstradisi ke Amerika Serikat untuk menghadapi tuduhan perpetrating apa yang telah digambarkan sebagai "hack komputer militer terbesar sepanjang masa."
+
+Banyak dari mereka ditangkap dan dihukum dalam waktu yang cukup lama.Banyak para mantan black hacker yang dipekerjakan dalam bidang keamanan komputer.lawan dari black hat hacker adalah white hat hacker.Grey hacker merupakan sebutan orang yang di satu sisi membantu dan di sisi lain merusak.Salah satu white hacker yang membantu (white hacker)ber nickname
+</li>
+</ol>
+
+== Lihat pula ==
+* [[Peretas]]
+* ''[[White hat hacker]]''
+
+[[Kategori:Retas komputer]]

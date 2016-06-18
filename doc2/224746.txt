@@ -1,0 +1,16 @@
+Berkas:RTM TV1 2009.png
+== {{int:filedesc}} ==
+{{Information
+| description    =
+Logo masa kini [[RTM1|TV1]] sejak [[2009]].
+
+{{dari|en}}
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{LogoTV}}

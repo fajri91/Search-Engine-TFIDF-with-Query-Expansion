@@ -1,0 +1,36 @@
+Templat:Banjar
+<includeonly>{{Infobox settlement
+
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+|official_name          = {{{nama}}}
+|settlement_type        = [[Banjar]]
+|image                  = {{#if:{{{foto|}}}|{{{foto}}}{{#if:{{{keterangan foto|}}}|<br /><small>{{{keterangan foto}}}|}}|}}
+|image_map              = {{#if:{{{peta|}}}|{{{peta}}}<br /><small>Peta lokasi Dusun {{{nama}}}</small>|}}
+|subdivision_type       = [[Daftar negara berdaulat|Negara]]
+|subdivision_name       = {{flag|Indonesia}}
+|subdivision_type1      = {{#if:{{{provinsi|}}}|[[Provinsi|Provinsi]]}}
+|subdivision_name1      = [[{{{provinsi}}}|{{{provinsi}}}]]
+|subdivision_type2      = {{#if:{{{nama dati2|}}}|[[Daftar kabupaten dan kota Indonesia|{{{dati2}}}]]|}}
+|subdivision_name2      = [[{{{dati2}}} {{{nama dati2}}}|{{{nama dati2}}}]]
+|subdivision_type3      = {{#if:{{{kecamatan|}}}|[[Kecamatan]]|}}
+|subdivision_name3      = [[{{{kecamatan}}}, {{{nama dati2}}}|{{{kecamatan}}}]] 
+|subdivision_type4      = {{#if:{{{desa|}}}|[[Desa|Desa]]|}}
+|subdivision_name4      = [[{{{desa}}}, {{{kecamatan}}}, {{{nama dati2}}}|{{{desa}}}]] 
+|subdivision_type5      = {{#if:{{{kelurahan|}}}|[[Kelurahan|Kelurahan]]|}}
+|subdivision_name5      = [[{{{kelurahan}}}, {{{kecamatan}}}, {{{nama dati2}}}|{{{kelurahan}}}]] 
+|postal_code_type       = {{#if:{{{kode pos|}}}|[[Kodepos]]|}}
+|postal_code            = {{{kode pos|}}}
+|blank_name_sec1        = {{#if:{{{luas|}}}|Luas|}}
+|blank_info_sec1        = {{{luas|}}}
+|blank1_name_sec1       = {{#if:{{{penduduk|}}}|Jumlah penduduk|}}
+|blank1_info_sec1       = {{{penduduk|}}}
+|blank2_name_sec1       = {{#if:{{{kepadatan|}}}|Kepadatan|}}
+|blank2_info_sec1       = {{{kepadatan|}}}
+}}
+<!--[[Kategori:Banjar di Indonesia]]
+[[Kategori:Banjar di {{{provinsi}}}]]-->
+[[Kategori:Banjar di {{{dati2}}} {{{nama dati2}}}]]
+[[Kategori:{{{kecamatan}}}, {{{nama dati2}}}]]</includeonly><noinclude>
+{{dokumentasi}}
+</noinclude>

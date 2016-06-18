@@ -1,0 +1,60 @@
+Gunung Disappointment (Australia)
+{{Infobox mountain
+| name = Gunung Disappointment
+| elevation_m = 800
+| prominence = 
+| location = [[Victoria (Australia)|Victoria]], [[Australia]]
+| map               = Australia Victoria
+| map_relief        = yes
+| lat_d             = 37
+| lat_m             = 25
+| lat_s             = 37
+| lat_NS            = S
+| long_d            = 145
+| long_m            = 8
+| long_s            = 11
+| long_EW           = E
+| region = AU-VIC
+| range = Hume Range, [[Great Dividing Range]]
+| first_ascent = 1824 oleh penjelajah [[Ekspedisi Hume dan Hovell|Hume dan Hovell]]
+}}
+
+'''Gunung Disappointment''' adalah gunung setinggi {{convert|800|m|ft|adj=on}} yang terletak di ujung selatan [[Great Dividing Range]], {{convert|60|km|mi}} di sebelah utara [[Melbourne]], ibu kota negara bagian [[Victoria (Australia)|Victoria]], [[Australia]]. Namanya diberikan oleh [[Hamilton Hume]] dan [[William Hovell]] pada tahun 1824.<ref name="FNMDSF"/><ref name=HH/> Saat ini Gunung Disappointment merupakan tempat pendakian yang populer.
+
+==Sejarah==
+Setelah mendaki dengan susah payah, penjelajah Australia [[Hume dan Hovell]] ingin melihat [[Teluk Port Phillip]] dari gunung ini. Sayangnya, gunung tersebut dipenuhi pohon yang menghalangi pemandangan. Perasaan mereka diabadikan sebagai nama gunung ini.<ref name="FNMDSF">{{cite paper | first = Ted | last = Wearne | title = Forest Notes  Mount Disappointment State Forest | publisher = Department of Sustainability and Environment, The State of Victoria | issn = 1440-2262 | date = March 2004 | url = http://www.dse.vic.gov.au/CA256F310024B628/0/5C2E55446973395FCA25745C001DBBCE/$File/Mt.Disappointment+State+Forest.pdf | format = [[PDF]] | accessdate = 10 February 2009 }}</ref><ref name=HH/>
+
+Sebelum dihuni pendatang, suku Aborigin Australia diketahui sudah menetap duluan di kawasan Gunung Disappointment. Belati batu ditemukan di dekat persimpangan Sungai Drag Hill dan Sunday.
+
+Tahun 1870, pemukim Australia mulai menambang emas di Gunung Disappointment. Tahun 1880, Australian Seasoned Timber Company merintis industri perkayuan di sana. Seiring banyaknya pekerja pendatang, beberapa kota dibangun di Clonbinane, Reedy Creek, dan Strath Creek. Perusahaan ini mengoperasikan dua pabrik, Comet Mill dan Planet Mill, yang terletak di pedalaman hutan. Jaringan rel kereta menjadi sarana transportasi kayu ke pabrik pemotongan. Di bentangan rel ini terdapat rute bernama "The Bump", tanjakan curam yang menghambat transportasi kayu sehingga harus memanfaatkan katrol. Pada 1890-an, Comet Mill memproses 800 kayu [[Eucalyptus regnans|Mountain Ash]] per bulan.
+
+Tahun 1883&ndash;1885, sungai di timur Gunung Disappointment ditampung di [[Waduk Toorourrong]] dan akuaduk lainnya. Sungai-sungai ini dilindungi dan menjadi bagian dari [[Taman Nasional Kinglake]].<ref name=PV/>
+
+Proses akhir operasi kayu Australian Seasoned Timber Company dilaksanakan di kota [[Wandong, Victoria|Wandong]], sebelah utara Melbourne di pinggir hutan Gunung Disappointment. Pabrik Wandong mengeringkan kayu messmate yang biasa dipakai untuk mebel. Pabrik Wandong didirikan oleh perusahaan yang berbeda pada tahun 1889 dan merupakan salah satu upaya pengeringan kayu keras pertama di Australia.
+
+Pada masa kejayaannya, industri perkayuan di Gunung Disappointment mempekerjakan 420 orang, lalu bubar dengan sendirinya pada tahun 1939. Namun demikian, hutan Gunung Disappointment masih dimanfaatkan sampai sekarang dengan sistem pengelolaan yang menjamin keberlangsungan industri perkayuan dalam jangka panjang.
+
+Pada tanggal 5 Agustus 1942, sebuah pesawat [[Bristol Beaufighter]] IC jatuh di gunung ini, tiga ratus yard dari utara puncakcrashed into the mountain, three hundred yards north of the peak, killing two men from 30 Squadron [[RAAF]].
+<ref name=dunn>{{cite web|author=Dunn, Peter|title=Crash of a Beaufighter at Mount Disappointment, North of Whittlsea, Victoria|work=Australians at War|url=http://home.st.net.au/~dunn/vic18.htm|accessdate=2009-02-21}}</ref>
+
+==Flora dan fauna==
+Stately Mountain Ash mendominasi gunung ini dan tumbuh di tanah granit yang curah hujannya tinggi. [[Mountain Grey Gum]] tumbuh di daerah yang lebih kering. [[Red Stringybark]], [[Narrow-leafed Peppermint]], [[Long-leaved box]], dan [[Candlebark]] dapat dijumpai di pinggir sungai tertentu.
+
+Di gunung ini terdapat berbagai macam burung dan menjadi habitat bagi [[wombat]] rusa dan [[walabi]].
+
+==Mount Disappointment State Forest==
+Gunung Disappointment merupakan salah satu kawasan hutan yang paling mudah dijangkau di Melbourne. Di sini terdapat banyak aktivitas rekreasi, termasuk Mount Disappointment Forest Drive sejauh {{convert|40|km|mi|abbr=on}}, trek pendakian, kawasan piknik, dan lahan perkemahan. Hutannya dikelola oleh Departemen Keberlangsungan dan Lingkungan Victoria.<ref name="FNMDSF"/>
+
+==Lihat pula==
+{{stack|{{portal|Victoria|Gunung}}}}
+*[[Daftar gunung di Australia#Victoria|Daftar gunung di Victoria]]
+
+==Referensi==
+<references>
+<ref name=HH>{{Citation  | first = William | last = Bland | author-link = William Bland  | first2 = William Hilton| last2 = Hovell | author2-link = William Hovell  | first3 = Hamilton | last3 = Hume | author3-link = Hamilton Hume  | title = Journey of discovery to Port Phillip, New South Wales by Messrs. W.H. Hovell, and Hamilton Hume in 1824 and 1825  | place = Sydney | publisher = | year = 1831  | pages =   | url = http://gutenberg.net.au/ebooks04/0400371.txt  | isbn = }}</ref>
+<ref name=PV>{{Citation  | title =Wallaby Creek designated water supply catchment area, Kinglake National Park, Management Plan  | url = http://www.parkweb.vic.gov.au/resources07/07_0190.pdf  | publisher = [[Parks Victoria]]  | date = August 1998  | accessdate = 2011-02-21  | isbn = 0-7311-3191-6  }}</ref>
+</references>
+
+{{Gunung di Victoria|state=autocollapse}}
+
+[[Kategori:Gunung di Victoria (Australia)|Disappointment]]

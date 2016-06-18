@@ -1,0 +1,14 @@
+Berkas:Smelting.png
+== {{int:filedesc}} ==
+{{Information
+| description    =
+from http://aluminium.org.au/flowchart/aluminium-smelting.html
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Fairuse}}

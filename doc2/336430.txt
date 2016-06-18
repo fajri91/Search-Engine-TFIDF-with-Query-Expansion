@@ -1,0 +1,98 @@
+Templat:Location map Mesir
+{{#switch:{{{1}}}
+| name   = Mesir
+| top    = 32.1
+| bottom = 21.3
+| left   = 24.2
+| right  = 37.3
+| image  = Egypt location map.svg
+}}<noinclude>{{Location map/Info}}
+<!--
+--
+-- The above switch-statement branches by text in parameter #1,
+-- returning the associated value after each equals sign ("=").
+-->
+{{documentation}}
+
+[[Kategori:Templat peta navigasi menurut negara|Mesir]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</noinclude>

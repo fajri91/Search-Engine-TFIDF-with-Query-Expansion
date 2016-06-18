@@ -1,0 +1,31 @@
+Pergeseran merah
+'''Pergeseran Merah''' adalah gejala bahwa frekuensi [[cahaya]] kalau diamati, di bawah situasi tertentu, bisa lebih rendah daripada frekuensi cahaya ketika terpancar di sumber. Ini biasanya terjadi kalau sumber menjauh dari pengamat, seperti pada [[efek Doppler]]. Secara khusus, istilah pergeseran merah dipakai untuk menjelaskan pengamatan bahwa spektrum cahaya yang terpancar oleh [[galaksi]] jauh bergeser ke frekuensi yang lebih rendah (terhadap akhir merah spektrum, dan begitu pula namanya) kalau dibandingkan dengan spektrum bintang yang lebih dekat. Ini diambil sebagai bukti bahwa galaksi menjauh dari satu sama lain, bahwa alam semesta berkembang dan dimulai sejak [[Ledakan Dahsyat]].
+
+Secara umum, pergeseran merah (dan pergeseran biru, pengamatan cahaya frekuensi yang lebih tinggi) diukur dengan
+:''z'' = (frekuensi terpancar - frekuensi teramati) / frekuensi teramati = (panjang gelombang teramati - panjang gelombang terpancar) / panjang gelombang terpancar.
+
+Pergeseran merah bisa disebabkan oleh tiga sebab:
+
+'''1. Gerak-gerik sumber.''' Jika sumber cahaya menjauh dari pengamat, maka pergeseran merah (''z'' > 0) terjadi; jika sumber mendekati pengamat, maka pergeseran biru (''z'' < 0) terjadi. 
+Hal ini berlaku untuk semua gelombang dan diterangkan oleh [[efek Doppler]].
+Jika sumber bergerak menjauh dari pengamat dengan [[kecepatan]] ''v'' dan kecepatan ini jauh lebih kecil daripada [[kecepatan cahaya]] ''c'', maka pergeseran merah dapat diperkirakan dengan
+:''z''  ''v''/''c''
+
+'''2. Perluasan ruang.''' Model yang sekarang dipakai oleh [[kosmologi]] menganggap benar perluasan ruang. Cahaya akan mengalami pergeseran merah jika ruang meluas. Dalam arti, memperluas angkasa dan perpindahan sumber adalah perspektif berbeda atas gejala itu juga: daripada sebuah sumber bergerak, seseorang dapat secara alternatif dan sepadan mengambil sebuah sumber diam dan ruang di antara sumber dan pengamat yang memuai.
+
+'''3. Efek gravitasi.''' 
+Teori [[relativitas umum]] memuat bahwa perpindahan cahaya itu lewat bidang gravitasi yang kuat akan mengalami pergeseran merah atau biru. '
+Ini diketahui sebagai [[Pergeseran Einstein]].
+
+Efek ini sangat kecil tetapi dapat diukur di Bumi menggunakan [[efek Mossbauer]]. 
+Namun efek ini cukup berarti di dekat [[lubang hitam]] dan sewaktu benda mendekat ke [[cakrawala]], perubahan merah menjadi tak terhingga. 
+Pergeseran Merah Gravitasi ditawarkan sebagai keterangan pergeseran merah dari [[quasars]] di [[1960]]-an, walaupun ini secara luas tidak disetujui sekarang.
+
+Pergeseran merah yang dilihat di astronomi bisa diukur karena spektrum [[emisi]] dan [[absorbsi]] untuk [[atom]] adalah khas dan diketahui dengan baik.
+
+[[Kategori:Astrofisika]]
+[[Kategori:Kosmologi]]
+[[Kategori:Jarak astronomis]]
+
+
+{{satuan-stub}}

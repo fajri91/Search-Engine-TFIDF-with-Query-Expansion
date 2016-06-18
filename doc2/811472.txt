@@ -1,0 +1,95 @@
+Bandar Udara Pune
+{{Infobox airport
+| name         = Bandar Udara Pune
+| nativename-a =   
+| image        = Departure_Lounge_Pune_Airport_India.jpg
+| image-width  = 250
+| IATA         = PNQ
+| ICAO         = VAPO
+| pushpin_map  = India airport
+| pushpin_label= PNQ
+| pushpin_caption = Lokasi bandara di India
+| type         = Militer/Publik
+| owner        = [[Angkatan Udara India]]
+| operator     = [[Airports Authority of India]]
+| city-served  =
+| location     = [[Pune]], [[Maharashtra]] <br />{{flag|India}}
+| elevation-f  = 1,942
+| elevation-m  = 592
+| coordinates  = {{coord|18|34|56|N|073|55|11|E|type:airport}}
+| website      =
+| metric-rwy   = y
+| r1-number    = 10/28
+| r1-length-m  = 2,539
+| r1-length-f  = 8,329
+| r1-surface   = [[Aspal]]
+| r2-number    = 14/32
+| r2-length-m  = 1,796
+| r2-length-f  = 5,893
+| r2-surface   = Aspal
+|stat-year= 2014-15
+|stat1-header= Penumpang
+|stat1-data= 4,190,509({{increase}}16.5%)
+|stat2-header= Pengoperasian pesawat udara
+|stat2-data= 33,760({{increase}}10.6%)
+|stat3-header= Metrik ton kargo
+|stat3-data= 27,390({{increase}}29.5%)
+|| footnotes = Sumber: [[Airport Authority of India|AAI]]<ref>{{cite web|url=http://www.aai.aero/traffic_news/traffic_news_2015.jsp|format=jsp|title=TRAFFIC STATISTICS - DOMESTIC & INTERNATIONAL PASSENGERS|publisher=Aai.aero|accessdate=31 Desember 2014}}</ref>
+}}
+
+'''Bandar Udara Pune''' {{Airport codes|PNQ|VAPO}} adalah [[bandara]] yang terletak {{convert|10|km|mi|abbr=on}} timur laut dari [[Pune]] di negara bagian [[Maharashtra]], India. Bandara ini adalah [[kantong sipil]] dioperasikan oleh [[Airports Authority of India]] di sisi timur Stasiun Angkatan Udara Lohegaon dari [[Angkatan Udara India]]. Bandara ini menangani penerbangan domestik dan internasional.
+
+==Maskapai dan tujuan==
+{{Airport-dest-list
+|[[AirAsia India]]| [[Bandar Udara Internasional Kempegowda|Bengaluru]], [[Bandar Udara Jaipur|Jaipur]]
+<!-- -->
+|[[Air India]]| [[Bandar Udara Internasional Kempegowda|Bengaluru]], [[Bandar Udara Internasional Indira Gandhi|Delhi]], [[Bandar Udara Dabolim|Goa]], [[Bandar Udara Internasional Rajiv Gandhi|Hyderabad]]
+<!-- -->
+|[[Air India Express]]| [[Bandar Udara Internasional Dubai|Dubai-Internasional]]
+<!-- -->
+|[[GoAir]]| [[Bandar Udara Internasional Kempegowda|Bengaluru]], [[Bandar Udara Internasional Chennai|Chennai]], [[Bandar Udara Internasional Indira Gandhi|Delhi]], [[Bandar Udara Internasional Dr. Babasaheb Ambedkar|Nagpur]]
+<!-- -->
+|[[IndiGo]]| [[Bandar Udara Internasional Sardar Vallabhbhai Patel|Ahmedabad]], [[Bandar Udara Internasional Kempegowda|Bengaluru]], [[Bandar Udara Internasional Chennai|Chennai]], [[Bandar Udara Internasional Indira Gandhi|Delhi]], [[Bandar Udara Internasional Rajiv Gandhi|Hyderabad]], [[Bandar Udara Internasional Netaji Subhash Chandra Bose|Kolkata]], [[Bandar Udara Internasional Dr. Babasaheb Ambedkar|Nagpur]]
+<!-- -->
+|[[Jagson Airlines]]| [[Bandar Udara Shirdi|Shirdi]]
+<!-- -->
+|[[Jet Airways]]| [[Bandar Udara Internasional Abu Dhabi|Abu Dhabi]],<ref name="TOI">{{citation |title=TOI|url=http://epaperbeta.timesofindia.com/Gallery.aspx?id=23_03_2015_003_005&type=A&eid=31814 |date= 23 Maret 2015|accessdate=23 Maret 2015}}</ref> [[Bandar Udara Internasional Sardar Vallabhbhai Patel|Ahmedabad]], [[Bandar Udara Internasional Kempegowda|Bengaluru]], [[Bandar Udara Internasional Chennai|Chennai]], [[Bandar Udara Internasional Indira Gandhi|Delhi]], [[Bandar Udara Internasional Rajiv Gandhi|Hyderabad]], [[Bandar Udara Internasional Devi Ahilyabai Holkar|Indore]], [[Bandar Udara Internasional Cochin|Kochi]], [[Bandar Udara Internasional Netaji Subhash Chandra Bose|Kolkata]], [[Bandar Udara Internasional Chaudhary Charan Singh|Lucknow]], [[Bandar Udara Internasional Chhatrapati Shivaji|Mumbai]]
+<!-- -->
+|Jet Airways<br>{{nowrap|dioperasikan oleh [[JetKonnect]]}}| [[Bandar Udara Internasional Sardar Vallabhbhai Patel|Ahmedabad]], [[Bandar Udara Internasional Indira Gandhi|Delhi]]
+<!-- -->
+|[[Lufthansa]]<br>{{nowrap|dioperasikan oleh [[PrivatAir]]}}| [[Bandar Udara Frankfurt|Frankfurt]]<ref>{{cite web|url=https://twitter.com/airlineroute/status/619517827603693568|title=airlineroute|work=Twitter|accessdate=14 Agustus 2015}}</ref>
+<!-- -->
+|[[SpiceJet]]| [[Bandar Udara Internasional Sardar Vallabhbhai Patel|Ahmedabad]], [[Bandar Udara Internasional Kempegowda|Bengaluru]], [[Bandar Udara Internasional Chennai|Chennai]], [[Bandar Udara Internasional Indira Gandhi|Delhi]], [[Bandar Udara Internasional Dubai|Dubai-Internasional]],<ref>{{cite web|url=http://timesofindia.indiatimes.com/city/pune/SpiceJet-set-to-replace-Sharjah-service-with-Dubai-flight/articleshow/46708433.cms|title=SpiceJet set to replace Sharjah service with Dubai flight}}</ref> [[Bandar Udara Dabolim|Goa]], [[Bandar Udara Internasional Rajiv Gandhi|Hyderabad]], [[Cochin International Airport|Kochi]], [[Bandar Udara Internasional Netaji Subhash Chandra Bose|Kolkata]], [[Bandar Udara Srinagar|Srinagar]]
+<!-- -->
+|[[Vistara]]|[[Bandar Udara Internasional Indira Gandhi|Delhi]]<ref>{{cite web|url=http://www.business-standard.com/article/pti-stories/vistara-to-launch-daily-delhi-pune-flight-from-april-115031300990_1.html|title=Vistara to launch daily Delhi-Pune flight from April|publisher=''[[Business Standard]]''|date=13 Maret 2015|accessdate=13 Maret 2015}}</ref>
+<!-- -->
+}}
+
+==Lihat pula==
+* [[Daftar bandar udara di India]]
+* [[Daftar bandar udara tersibuk di India]]
+
+==Referensi==
+;Kutipan
+{{reflist}}
+
+;Bibliografi
+* [http://airportsindia.org.in/allAirports/pune_generalinfo.jsp Bandar Udara Pune (Lohegaon)] di [[Airports Authority of India]]
+* [http://www.discoverpune.com/Pune_Travel_Airways.aspx Rincian Pune Airways]
+
+==Pranala Luar==
+{{Commonscat-inline|Pune Airport}}
+* [http://www.discoverpune.com/ Discover Pune]
+* [http://www.madcindia.org/ Maharashtra Airport Development Company (MADC)]
+* [http://cities.expressindia.com/fullstory.php?newsid=205201 Proposal untuk Bandara Internasional Pune]
+* [http://daily.bhaskar.com/article/MAH-PUN-new-airport-site-under-wraps-2186934.html New airport site under wraps]
+* {{WAD|VAPO|source=[[DAFIF]]}}
+* {{GCM|VAPO|source=DAFIF}}
+* {{ASN|PNQ|PNQ: Pune-Lohegaon Airport}}
+
+{{Bandar udara di India}}
+{{bandara-india-stub}}
+
+[[Kategori:Bandar udara di Maharashtra|Pune]]
+[[Kategori:Bangunan dan struktur di Pune]]
+[[Kategori:Transportasi di Pune]]

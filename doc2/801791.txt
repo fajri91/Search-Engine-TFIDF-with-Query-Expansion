@@ -1,0 +1,29 @@
+Cyrillic Supplement
+{{Infobox Unicode block
+|rangestart = 0500
+|rangeend = 052F
+|script1 = [[Aksara Sirilik|Sirilik]]
+|alphabets = Abkhaz<br />Komi<br />Mordvin<br />Aleut
+|3_2 = 16
+|5_0 = 4
+|5_1 = 16
+|5_2 = 2
+|6_0 = 2
+|7_0 = 8
+|note = <ref>{{cite web|url=http://www.unicode.org|title=Unicode character database|work=The Unicode Standard|accessdate=22 March 2013}}</ref>
+}}
+
+'''Cyrillic Supplement''' adalah [[blok Unicode]] yang mengandung huruf-huruf [[aksara Sirilik|Sirilik]] untuk penulisan beberapa bahasa minoritas, termasuk [[bahasa Abkhaz|Abkhaz]], [[bahasa Kurdi|Kurdi]], [[bahasa Komi|Komi]], [[bahasa Mordvin|Mordvin]], [[bahasa Aleut|Aleut]], [[bahasa Azerbaijan|Azerbaijan]], dan ortografi [[bahasa Chuvash|Chuvash]] Jakovlev.
+
+{{Tabel Unicode Cyrillic Supplement}}
+
+== Lihat pula ==
+*[[Aksara Sirilik dalam Unicode]]
+
+== Referensi ==
+{{reflist}}
+
+[[Kategori:Blok Unicode]]
+
+
+{{sistemtulisan-stub}}

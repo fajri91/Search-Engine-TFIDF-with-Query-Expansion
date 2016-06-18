@@ -1,0 +1,65 @@
+Albakora
+{{Taxobox
+| name = Albakora
+| status = NT| status_system = IUCN3.1
+| status_ref = <ref name=IUCN>{{IUCN2011.2 |assessors=Collette B and 34 others |year=2011 |id=21856 |title=Thunnus alalunga |downloaded=13 January 2012}}</ref>
+| trend = 
+| image = Thunnus alalunga.png
+| image_width = 250px
+| regnum = [[Animalia]]
+| phylum = [[Chordate|Chordata]]
+| classis = [[Actinopterygii]]
+| ordo = [[Perciformes]]
+| familia = [[Skombride]]
+| subfamilia = [[Scombrinae]]
+| tribe = [[Thunnini]]
+| genus = ''[[Thunnus]]''
+| subgenus = ''[[Thunnus]]''
+| species = '' [[Thunnus alalunga]]''
+| taxon = Thunnus alalunga
+| trinomial_authority = [[Pierre Joseph Bonnaterre|Bonnaterre]], 1788
+| range_map = 
+| range_map_caption=
+| synonyms=
+* ''Thunnus germo'' <small>(Lacepde, 1801)</small>
+* ''Scomber alalunga'' <small>Bonnaterre, 1788</small>
+| synonyms_ref = <ref>{{ITIS|taxon=''Thunnus alalunga''|id=172419|accessdate=9 December 2012}}</ref>
+}}
+
+'''Albakora''' (''Thunnus alalunga''), adalah spesies ikan [[tuna]] yang termasuk anggota [[familia]] [[Skombride]]. Spesies ini juga disebut '''tuna albakora''', '''albakor''', '''tuna jabrig''', '''madidiang albakoro''', '''suree''', '''aji-aji''', '''trakulu''', '''kwandang''', '''cucut jenggot''', '''albi''', '''tombo ahi''', '''binnaga''', '''albakora pasifik''', '''bonito jerman''', '''sirip panjang''', '''tuna sirip panjang''', atau bahkan hanya '''tuna'''. Ikan ini adalah satu-satunya spesies tuna yang dipasarkan sebagai "tuna (daging) putih" di Amerika Serikat. Ikan ini ditemukan di semua bagian samudra tropis dan iklim sedang, serta ditemukan juga di [[Laut Tengah]]. Daerah penyebaran terutama di [[Samudera Hindia]] dan [[Samudera Pasifik]] Tengah.<ref name="Perikanan">{{cite web|title=Albakora|url=http://www.pipp.kkp.go.id/species.html?idkat=1&idsp=3|publisher=Pusat Informasi Pelabuhan Perikanan, Kementerian Kelautan dan Perikanan Republik Indonesia|accessdate=5 Februari 2014}}</ref>
+
+Albakora adalah ikan bernilai komersil, dan industri perikanan albakora penting secara ekonomi. Metode penangkapan ikan ini termasuk pemancingan, [[rawai]], trol, dan [[pukat]]. Ikan ini juga populer sebagai target [[penangkapan ikan rekreasi]]. 
+
+==Deskripsi anatomi==
+Ordo Percomorphi (Sub ordo Scombroidea), Famili Skombride, Genus Thunnus. Badan memanjang seperti torpedo. Mata agak besar. Tergolong tuna besar. Tapisan insang 25-31 pada bujur insang pertama. Sirip dada memanjang seperti pedang dapat mencapai jari-jari lepas kedua dari sirip punggungnya. Lunas kuat pada batang ekor diapit oleh dua lunas kecil pada ujungnya. Terdapat dua cuping di antara sirip perut. Sisik-sisik kecil, halus; Pada korselet tumbuh sisik besar tetapi tidak nyata. Sirip punggung pertama berjari-jari keras 13-14, dan 14 jari-jari lemah pada sirip punggung kedua, diikuti 7-8 jari-jari sirip lepas. Termasuk ikan buas, karnivora, predator. Jenis-jenis yang kecil hidup bergerombol. Hidup diperairan lepas pantai lautan terbuka. Warna bagian atas hitam kebiruan, mengkilat, putih perak bagian bawah. Sirip punggung pertama sedikit keabuan dengan warna kuning yang terpendam, pinggiran atas kegelapan. Sirip punggung kedua, dan dubur gelap kekuningan. Batas belakang sirip ekor keputihan. Ukuran d apat mencapai panjang 137 cm, umumnya 40-100 cm.<ref name="Perikanan"/>
+
+==Referensi==
+{{reflist|33em}}
+
+==Bacaan lebih lanjut==
+* [http://www.fishwatch.gov/seafood_profiles/species/tuna/species_pages/atl_albacore_tuna.htm Tuna albakora Atlantik Utara] ''NOAA FishWatch''. Retrieved 5 November 2012.
+* [http://www.fishwatch.gov/seafood_profiles/species/tuna/species_pages/pacific_albacore_tuna.htm Tuna albakora Pasifik] ''NOAA FishWatch''. Retrieved 5 November 2012.
+
+==Pranala luar==
+{{wiktionary|albacore}}
+{{wikispecies|Thunnus alalunga}}
+{{commons category|Thunnus alalunga}}
+* [http://www.MSC.org Marine Stewardship Council (international independent certification of sustainable fisheries)]
+* [http://www.AmericanAlbacore.com American Albacore Fishing Association (MSC certified Pacific U.S. "pole & troll" albacore)]
+* [http://PacificAlbacore.com Albakora Pasifik liar]
+* [http://www.nmfs.noaa.gov/fishwatch NOAA Fishwatch]
+* [http://afrf.org American Fishermens Research Foundation]
+* [http://wfoa-tuna.com Western Fishboat Owners Association]
+* [http://albatuna.com albatuna.com]
+* [http://www.time.com/time/health/article/0,8599,1706623,00.html?imw=Y TIME MAGAZINE: The Danger of Not Eating Tuna]
+* [http://www.balashon.com/2006/11/albacore.html Etymology of "albacore"]
+* [http://www.fishbase.org/Summary/SpeciesSummary.cfm?genusname=Thunnus&speciesname=alalunga FishBase info for albacore]
+* [http://www.oceana.org/mercury Communicating FDA advice on consumption of albacore tuna.]
+* [http://seafood.ucdavis.edu/pubs/albacorefishery.htm ''Albacore''] by R. Michael Laurs and Ronald C. Dotson, 1992, retrieved January 19, 2006.
+
+{{sumberdaya perikanan}}
+
+[[Kategori:Ikan komersial]]
+[[Kategori:Thunnus]]
+[[Kategori:Daftar merah boga bahari]]
+[[Kategori:Hewan dideskripsikan pada 1788]]

@@ -1,0 +1,14 @@
+Berkas:Rebecca-kata-hati.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+http://anggunesia.takeforum.com/2007/05/03/rebecca-the-next-anggun/
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{SampulAlbum}}

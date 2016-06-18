@@ -1,0 +1,30 @@
+Dara-laut biasa
+{{Taxobox
+| name = Dara-laut Biasa
+| status= LC
+| status_system = IUCN3.1
+| status_ref = <ref name = BirdLife>{{cite web | title = BirdLife International Species factsheet: ''Sterna hirundo'' | publisher = BirdLife International | url = http://www.birdlife.org/datazone/speciesfactsheet.php?id=3270 | accessdate = 23 January 2012 }}</ref>
+| image = Common tern with fish.jpg
+| regnum = [[Animalia]]
+| phylum = [[Chordata]]
+| classis = [[Bird|Aves]]
+| ordo = [[Charadriiformes]]
+| familia = [[Tern|Sternidae]]
+| genus = '' [[Sterna]] ''
+| species = '''''S. hirundo'''''
+| binomial = ''Sterna hirundo''
+| binomial_authority = [[Carl Linnaeus|Linnaeus]], 1758
+| range_map = CommonTernmap.png
+| range_map_alt =Map showing the breeding range of ''Sterna hirundo'' (most of temperate northern hemisphere), and wintering areas (coasts in tropics and southern hemisphere).
+| range_map_width =
+| range_map_caption = <div style="text-align:left; "><big>{{Legend2|#FFFF00| Breeding summer visitor|border=1px solid #aaa}}<br/>
+{{Legend2|#0080FF| Winter visitor|border=1px solid #aaa}}</big></div>(ranges are approximate)
+| synonyms = ''Sterna fluviatilis'' <small>Naumann, 1839</small>
+}}
+'''Dara-laut Biasa'''<ref name = gill>{{cite web| author = Gill, F; Donsker D (eds)| title= IOC World Bird Names (v 2.11)|work= |url=http://www.worldbirdnames.org/n-shorebirds.html | publisher= International Ornithologists' Union}} Retrieved 28 February 2012</ref> (''Sterna hirundo'') adalah burung laut dari [[keluarga (biologi)|keluarga]] [[Dara laut]] Sternidae.
+
+==Referensi==
+{{reflist}}
+
+[[Kategori:Fauna]]
+[[Kategori:Burung]]

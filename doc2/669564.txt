@@ -1,0 +1,4 @@
+Templat:TV.com show
+[http://www.tv.com/{{#ifeq:{{{type|}}}|web|web|shows}}/{{#if:1|{{{id|{{{1}}}}}}}}/ ''{{#if:1|{{{name|{{{title|{{{2|{{PAGENAME}}}}}}}}}}}}}''] di [[TV.com]] {{#iferror:{{#expr: 0 + {{{id|{{{1}}}}}} }} ||[[Category:tv.com template using numeric id]]}} {{#if:{{#titleparts:{{{id|{{{1|}}}}}}|1|2}} |[[Category:tv.com template with unexpected input]]}}<noinclude>
+{{documentation}}
+</noinclude>

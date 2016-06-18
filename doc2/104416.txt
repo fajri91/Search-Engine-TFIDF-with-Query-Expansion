@@ -1,0 +1,2 @@
+Templat:Enwiki
+{{otherwiki|en|{{{1}}}|{{{2|{{{1}}}}}}}}<noinclude>[[Kategori:Templat pautan|{{PAGENAME}}]]</noinclude>

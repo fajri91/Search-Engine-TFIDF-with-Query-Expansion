@@ -1,0 +1,22 @@
+Templat:Pinang, Tangerang
+{{Navigasi ID Desa
+|provinsi=Banten
+|dati2=Kota
+|nama dati2=Tangerang
+|nama kecamatan=Pinang
+|k1=Cipete
+|k2=Kunciran
+|k3=Kunciran Indah
+|k4=Kunciran Jaya
+|k5=Nerogtog
+|k6=Pakojan
+|k7=Panunggangan
+|k8=Panunggangan Timur
+|k9=Panunggangan Utara
+|k10=Pinang
+|k11=Sudimara Pinang
+}}
+<noinclude>
+[[Kategori:Templat desa/kelurahan di Banten|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kota Tangerang|{{PAGENAME}}]]
+</noinclude>

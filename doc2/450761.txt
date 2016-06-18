@@ -1,0 +1,14 @@
+Berkas:Taksi rano.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+Sumber: [http://danieldokter.files.wordpress.com/2011/01/taksi.jpg http://danieldokter.files.wordpress.com/2011/01/taksi.jpg]
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{TampilanFilm}}

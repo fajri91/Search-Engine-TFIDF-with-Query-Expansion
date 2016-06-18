@@ -1,0 +1,29 @@
+Templat:Pekon
+<includeonly>{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+|official_name          = {{{nama}}}
+|settlement_type        = [[Pekon]]
+|image                  = {{#if:{{{peta|}}}|{{{peta}}}<br /><small>Peta lokasi Pekon {{{nama}}}</small>|}}
+|subdivision_type       = [[Daftar negara berdaulat|Negara]]
+|subdivision_name       = {{flag|Indonesia}}
+|subdivision_type1      = [[Daftar provinsi Indonesia|Provinsi]]
+|subdivision_name1      = [[Lampung]]
+|subdivision_type2      = {{#if:{{{nama dati2|}}}|[[Daftar kabupaten dan kota Indonesia|Kabupaten]]|}}
+|subdivision_name2      = [[Kabupaten {{{nama dati2}}}|{{{nama dati2}}}]]
+|subdivision_type3      = {{#if:{{{kecamatan|}}}|[[Kecamatan]]|}}
+|subdivision_name3      = [[{{{kecamatan}}}, {{{nama dati2}}}|{{{kecamatan}}}]]
+|postal_code_type       = {{#if:{{{kode pos|}}}|[[Kodepos]]|}}
+|postal_code            = {{{kode pos|}}}
+|blank_name_sec1        = {{#if:{{{luas|}}}|Luas|}}
+|blank_info_sec1        = {{{luas|}}}
+|blank1_name_sec1       = {{#if:{{{penduduk|}}}|Jumlah penduduk|}}
+|blank1_info_sec1       = {{{penduduk|}}}
+|blank2_name_sec1       = {{#if:{{{kepadatan|}}}|Kepadatan|}}
+|blank2_info_sec1       = {{{kepadatan|}}}
+}}
+[[Kategori:Semua daerah tingkat IV di Indonesia]]
+[[Kategori:Semua pekon di Indonesia]]
+[[Kategori:{{{kecamatan}}}, {{{nama dati2}}}]]</includeonly><noinclude>
+{{dokumentasi}}
+</noinclude>

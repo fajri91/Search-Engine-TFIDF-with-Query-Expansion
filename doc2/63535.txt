@@ -1,0 +1,231 @@
+Mononatrium glutamat
+{{chembox
+| Name = Mononatrium glutamat<br>''Monosodium glutamate''
+| Watchedfields = changed
+| verifiedrevid = 306200797
+| ImageFile1 = Monosodium glutamate crystals.jpg
+| ImageSize1 = 240px
+| ImageName1 = Kristal mononatrium glutamat
+| IUPACName=Sodium 2-Aminopentanedioate
+| OtherNames=
+|Section1= {{Chembox Identifiers
+| CASNo_Ref = {{cascite}}
+| CASNo=142-47-2
+| EC-number = 205-538-1
+| ChemSpiderID = 76943
+| PubChem=85314
+| SMILES=C(CC(=O)O)C(C(=O)[O-])N.[Na+]
+ }}
+|Section2= {{Chembox Properties
+| Formula=C<sub>5</sub>H<sub>8</sub>NNaO<sub>4</sub>
+| MolarMass=169.111 g/mol
+| Appearance=sebuk kristal putih
+| Density=
+| MeltingPtC=232
+| BoilingPt=
+| Solubility=74g/100mL
+ }}
+|Section3= {{Chembox Hazards
+| MainHazards=
+| LD50 = 16600 mg/kg (oral, rat)
+| FlashPt=
+| Autoignition=
+ }}
+}}
+
+'''Monosodium glutamat''', juga dikenal sebagai '''sodium glutamat''' atau '''MSG''', merupakan [[Garam dapur|garam natrium]] dari [[Asam glutamat|asam glutamat]] yang merupakan salah satu [[asam amino|asam amino non-esensial]] paling berlimpah yang terbentuk secara alami.<ref name="natural occurrence">{{cite journal |author=Ninomiya K |title=Natural occurrence |journal=Food Reviews International |volume=14 |issue=2 & 3 |pages=177211 |year=1998 |doi=10.1080/87559129809541157}}</ref>
+[[Badan Pengawas Obat dan Makanan Amerika Serikat|Food and Drug Administration]] A.S. mengklasifikasikan MSG sebagai [[:en:Generally Recognized as Safe|''Generally Recognized as Safe'']] (GRAS/Secara Umum Diakui Aman) dan Uni Eropa sebagai [[Aditif makanan|zat tambahan makanan]]. MSG memiliki [[Harmonized Commodity Description and Coding System|Kode HS]] 29224220 dan [[Nomor EC]] E621.<ref>{{citation|url=http://www.food.gov.uk/safereating/chemsafe/additivesbranch/enumberlist |title=Current EU approved additives and their E Numbers |publisher=Food.gov.uk |date=2010-11-26 |accessdate=2012-01-30}}</ref>
+Glutamat dalam MSG memberi rasa umami yang sama seperti glutamat dari makanan lain. Keduanya secara kimia identik.<ref name="Ikeda">{{cite journal |author=Ikeda K |title=New seasonings |journal=Chem Senses |volume=27 |issue=9 |pages=847849 |year=2002 |month=November |pmid= 12438213 |doi=10.1093/chemse/27.9.847}}</ref>
+Produsen makanan industri memasarkan dan menggunakan MSG sebagai penguat cita rasa karena zat ini mampu menyeimbangkan, menyatukan, dan menyempurnakan persepsi total rasa lainnya.<ref name="Loliger">{{cite journal |author=Loliger J |title=Function and importance of Glutamate for Savory Foods |journal=[[Journal of Nutrition]] |volume=130 |issue=4s Suppl |pages=915s920s |year=2000 |month=April |pmid=10736352}}</ref><ref name="Yamaguchi91">{{cite journal |author=Yamaguchi S |title=Basic properties of umami and effects on humans |journal=[[Physiology & Behavior]] |volume=49 |issue=5 |pages=833841 |year=1991 |month=May |pmid=1679557|doi=10.1016/0031-9384(91)90192-Q}}</ref>
+Nama dagang untuk monosodium glutamat termasuk  diantaranya AJI-NO-MOTO, ''Vetsin'', dan ''Ac'cent''.
+
+== Asal mula ==
+Profesor [[Kikunae Ikeda|Kikunae Ikeda]] mengisolasi asam glutamat sebagai bahan rasa baru pada tahun 1908 dari ganggang laut [[:en:Laminaria japonica|''Laminaria japonica'']], [[Kombu|kombu]], dengan ekstraksi air dan kristalisasi, dan menamai rasa ini [[Gurih|umami]]. <ref>Lindemann B, Ogiwara Y, Ninomiya Y (November 2002). "The discovery of umami". ''Chem Senses'' 27 (9): 843844. doi:10.1093/chemse/27.9.843.PMID 12438211.</ref> Dia memperhatikan bahwa kaldu Jepang [[Katsuobushi|katsuobushi]] dan [[Kombu|kombu]] mempunyai rasa tidak biasa yang pada waktu itu belum secara ilmiah dideskripsikan dan berbeda dari rasa manis, asin, asam, dan pahit.<ref name="Ikeda">{{cite journal |author=Ikeda K |title=New seasonings |journal=Chem Senses |volume=27 |issue=9 |pages=847849 |year=2002 |month=November |pmid= 12438213 |doi=10.1093/chemse/27.9.847}}</ref>Untuk memverifikasi bahwa glutamat yang diionisasi adalah penyebab rasa umami, profesor Ikeda mempelajari berbagai sifat rasa garam glutamat seperti kalsium, kalium, dan magnesium glutamat. Semua garam menghasilkan rasa umami selain ada juga rasa logam tertentu akibat adanya mineral lain dalam garam tersebut. Di antara garam-garam itu, sodium glutamat adalah yang paling mudah larut dan sedap, dan mudah dikristalkan. Profesor Ikeda menamai produk ini monosodium glutamat dan mengajukan paten untuk membuat MSG. <ref>Ikeda K (1908). "A production method of seasoning mainly consists of salt of L-glutamic acid". ''Japanese Patent'' 14804.</ref><ref name="Ikeda">{{cite journal |author=Ikeda K |title=New seasonings |journal=Chem Senses |volume=27 |issue=9 |pages=847849 |year=2002 |month=November |pmid= 12438213 |doi=10.1093/chemse/27.9.847}}</ref> Suzuki bersaudara memulai produksi MSG komersial pada tahun 1909 sebagai AJI-NO-MOTO, yang dalam bahasa Jepang berarti intisari rasa, dan ini merupakan kali pertama monosodium glutamat diproduksi di dunia. <ref name="Yamaguchi98">{{cite journal |author=Yamaguchi S, Ninomiya K |title=What is umami?|journal=Food Reviews International |volume=14|issue=2 & 3 |pages=123?138 |year=1998 |doi=10.1080/87559129809541155}}</ref><ref name="Kurihara09">{{cite journal |author=Kurihara K|title=Glutamate: from discovery as a food flavor to role as a basic taste (umami)?|journal=[[The American Journal of Clinical Nutrition]]|volume=90 |issue=3 |pages=719S?722S|year=2009|month=September |pmid=19640953 |doi=10.3945/ajcn.2009.27462D }}</ref><ref name="Sano09">{{cite journal |author=Chiaki Sano |title=History of glutamate production|journal=The American Journal of Clinical Nutrition|volume=90 |issue=3 |pages=728S732S|year=2009|month=September |pmid=19640955 |doi=10.3945/ajcn.2009.27462F }}</ref>
+
+== Produksi dan sifat-sifat kimia ==
+Sejak pertama kalinya diluncurkan ke pasar, MSG telah diproduksi dengan tiga metode: (1) hidrolisis protein nabati dengan asam hidroklorida untuk memutuskan ikatan peptida (1909 -1962), (2) sintesis kimia langsung dengan akrilonitril (1962  1973), dan (3) fermentasi bakteri; metode yang digunakan saat ini. <ref name="Sano09">{{cite journal |author=Chiaki Sano |title=History of glutamate production|journal=The American Journal of Clinical Nutrition|volume=90 |issue=3 |pages=728S732S|year=2009|month=September |pmid=19640955 |doi=10.3945/ajcn.2009.27462F }}</ref> Pada awalnya, untuk hidrolisis digunakan gluten gandum karena mengandung lebih dari 30 g glutamat dan glutamin dalam 100 g protein. Tetapi seiring dengan meningkatnya produksi untuk memenuhi permintaan MSG yang terus bertambah, dipelajarilah proses-proses produksi baru: sintesis kimia dan fermentasi. Industri fiber [[poliakrilik]] dimulai di Jepang pada pertengahan 1950-an dan [[akrilonitril]] kemudian diadopsi sebagai bahan awal untuk menyintesis MSG. <ref name="Yoshida70">{{cite journal |author=Yoshida T|title=Industrial manufacture of optically active glutamic acid through total synthesis|journal=Chem Ing Tech|volume=42 |pages=641?644 |year=1970}}</ref> Saat ini, sebagian besar produksi MSG dunia dilakukan dengan fermentasi bakteri dalam proses yang mirip dengan produksi anggur, cuka, yoghurt, dan bahkan cokelat. Natrium (sodium) ditambahkan pada tahap netralisasi. Selama fermentasi, bakteri terpilih (coryneform bacteria) yang dikultur dengan amonia dan karbohidrat dari bit gula, tebu gula, tapioka, atau molase, mengeluarkan asam amino ke dalam kultur kaldu, yang daripadanya L-glutamat kemudian diisolasi. Kyowa Hakko Kogyo Co Ltd mengembangkan fermentasi industri yang pertama untuk memproduksi L-glutamat. <ref name="Kinoshita57">{{cite journal |author=Kinoshita S, Udaka S, Shimamoto M|title=Studies on amino acid fermentation. Part I. Production of L-glutamic acid by various microorganisms |journal=J Gen Appl Microbiol |volume=3 |pages=193?205|year=1957}}</ref> Dewasa ini, tingkat hasil konversi dan tingkat produksi dari gula menjadi glutamat terus meningkat dalam industri MSG, hal ini memampukan industri untuk terus memenuhi permintaan MSG. <ref name="Sano09">{{cite journal |author=Chiaki Sano |title=History of glutamate production|journal=The American Journal of Clinical Nutrition|volume=90 |issue=3 |pages=728S732S|year=2009|month=September |pmid=19640955 |doi=10.3945/ajcn.2009.27462F }}</ref>Produk akhir setelah filtrasi, konsentrasi, pengasaman, dan kristalisasi adalah glutamat murni, natrium, dan air. Wujudnya adalah serbuk kristal berwarna putih dan tidak berbau yang dalam larutan terdisosiasi menjadi glutamat dan natrium. Bahan ini sangat mudah larut dalam air, tetapi tidak bersifat higroskopis dan praktis tidak larut dalam pelarut organik umum seperti eter. <ref name="Biochemistry">{{cite book|title=Principles of Biochemistry|editor=Win. C.|publisher=Brown Pub Co.|location=Boston, MA|year=1995}}</ref> Secara umum, MSG stabil dalam kondisi pemrosesan makanan biasa. Selama pemasakan, MSG tidak terurai, tetapi seperti asam amino lainnya, perubahan menjadi kecokelatan atau [[reaksi Maillard]] akan terjadi bila ada gula pada suhu yang sangat tinggi. <ref name="Yamaguchi98">{{cite journal |author=Yamaguchi S, Ninomiya K |title=What is umami?|journal=Food Reviews International |volume=14|issue=2 & 3 |pages=123?138 |year=1998 |doi=10.1080/87559129809541155}}</ref>
+
+== Pemakaian ==
+MSG murni sendiri tidak mempunyai rasa yang enak jika tidak dikombinasikan dengan bau gurih yang sesuai. <ref name="Rolls09">{{cite journal|author=Rolls ET|title=Funtional neuroimaging of umami taste: what makes umami pleasant? |journal=[[The American Journal of Clinical Nutrition|The American Journal of Clinical Nutrition]]|volume=90 |issue=3 |pages=804S?813S|year=2009|month=September |pmid=19571217 |doi=10.3945/ajcn.2009.27462R }}</ref> Sebagai pemberi cita rasa dan dalam jumlah yang tepat, MSG memiliki kemampuan untuk memperkuat senyawa aktif rasa lainnya, menyeimbangkan, dan menyempurnakan rasa keseluruhan pada masakan tertentu. MSG tercampur dengan baik dengan daging, ikan, daging unggas, berbagai sayuran, saus, sup, dan marinade, serta meningkatkan kesukaan umum akan makanan tertentu seperti beef consomm (kaldu sapi khas Perancis). <ref name="Loliger">{{cite journal |author=Loliger J |title=Function and importance of Glutamate for Savory Foods |journal=[[Journal of Nutrition]] |volume=130 |issue=4s Suppl |pages=915s920s |year=2000 |month=April |pmid=10736352}}</ref> Namun seperti perasa dasar lain kecuali sukrosa, MSG menambah kesedapan hanya dalam kadar yang tepat. MSG yang berlebihan akan dengan cepat merusak rasa masakan. Meskipun kadar ini bervariasi pada berbagai jenis makanan, dalam sup bening, nilai kesedapan dengan cepat turun pada kadar lebih dari 1 g MSG per 100 ml. <ref name="Umami ">{{cite book|title=Umami: a basic taste|editor=Kawamura Y, Kare MR|publisher=Marcel Dekker Inc.|location=New York, NY|year=1987}}</ref> Apalagi, ada interaksi antara MSG dengan [[Garam dapur|garam]] (natrium klorida) dan bahan umami lain seperti nukleotida. Semuanya harus berada dalam kadar yang optimum untuk menghasilkan kelezatan maksimum. Dengan sifat-sifat ini, MSG dapat digunakan untuk mengurangi asupan garam ([[Natrium|sodium]]), yang ikut menyebabkan timbulnya hipertensi, penyakit jantung, dan stroke. Rasa makanan rendah-garam akan menjadi lebih baik dengan penambahan MSG, bahkan dengan pengurangan garam hingga 30%. Kandungan sodium (dalam [[persen massa]]) dalam MSG adalah sekitar 3 kali lebih rendah (12%) daripada dalam natrium klorida (39%). <ref name="Yamaguchi06">{{cite journal |author=Yamaguchi S, Takahashi C|title=Interactions of monosodium glutamate and sodium chloride on saltiness and palatability of a clear soup |journal=[[Journal of Food Science]]|volume=49 |issue=1 |pages=82?85|year=1984|month=January|doi=10.1111/j.1365-2621.1984.tb13675.x  }}</ref> Garam glutamat lain telah digunakan dalam sup rendah-garam, tetapi dengan tingkat kelezatan lebih rendah daripada MSG. <ref name="Ball02">{{cite journal |author=Ball P, Woodward D, Beard T, Shoobridge A, Ferrier M|title=Calcium diglutamate improves taste characteristics of lower-salt soup|journal= Eur J Clin Nutr|volume=56 |issue=6 |pages=519?523|year=2002|month=June |pmid=12032651|doi=10.1038/sj.ejcn.1601343 }}</ref>
+
+== Penguat cita rasa ==
+MSG telah digunakan secara aman selama lebih dari 100 tahun untuk membumbui makanan. Selama jangka waktu ini, banyak penelitian telah dilakukan untuk memperjelas peranan, manfaat, dan keamanan MSG. Pada saat ini, badan-badan internasional dan nasional untuk keamanan zat tambahan makanan menganggap MSG aman untuk dikonsumsi manusia sebagai penguat cita rasa. <ref name="Walker00">{{cite journal |author=Walker R, Lupien JR|title=The safety evaluation of monosodium glutamate|journal=Journal of Nutrition|volume=130 |issue=4S Suppl |pages=1049S?1052S|year=2000|month=April |pmid=10736380 }}</ref> Sindrom Kompleks MSG pada mulanya dinamai "[[Sindroma Restoran Cina]]" saat Robert Ho Man Kwok secara anekdotal melaporkan gejala yang dia rasakan setelah menyantap makanan Cina-Amerika. Kwok mengemukakan berbagai alasan di balik gejala tersebut, termasuk alkohol dari pemasakan dengan anggur, kandungan natrium, atau bumbu MSG. Tetapi hanya MSG yang menjadi pusat perhatian dan sejak saat itu gejala-gejala tersebut mulai dikaitkan dengan MSG. Efek anggur atau kandungan garam tidak pernah dipelajari. <ref name = "freeman">
+{{cite journal
+| author = Freeman, M
+| title = Reconsidering the effects of monosodium glutamate: A literature review
+| journal = Journal of the American Academy of Nurse Practicioners
+| volume = 18
+| pages = 482?486
+| year = 2006
+| doi = 10.1111/j.1745-7599.2006.00160.x
+| pmid=16999713
+| issue = 10}}</ref> Dalam tahun-tahun berikutnya, daftar gejala non-spesifik terus bertambah atas dasar [[anekdot]]. Dalam kondisi normal, kita mempunyai kemampuan untuk memetabolis glutamat yang mempunyai toksisitas akut sangat rendah. Dosis letal oral untuk 50% subjek (LD50) adalah antara 15 sampai 18 g/kg berat badan pada tikus dan mencit, 5 kali lebih besar daripada [[LD50]] Garam (3 g/kg pada tikus). Karena itu, asupan MSG sebagai zat tambahan makanan dan tingkat alami asam glutamat pada makanan bukan merupakan persoalan toksikologis pada manusia. <ref name="Walker00">{{cite journal |author=Walker R, Lupien JR|title=The safety evaluation of monosodium glutamate|journal=Journal of Nutrition|volume=130 |issue=4S Suppl |pages=1049S?1052S|year=2000|month=April |pmid=10736380 }}</ref> Sebuah laporan dari [[Federation of American Societies for Experimental Biology]] (FASEB) yang disusun pada tahun 1995 atas nama [[Badan Pengawas Obat dan Makanan Amerika Serikat|United States Food and Drug Administration]] (FDA) menyimpulkan bahwa MSG aman bila "dikonsumsi pada tingkat yang sesuai" dan meskipun tampaknya ada subkelompok orang yang terlihat sehat yang mengalami reaksi berupa sindrom kompleks MSG saat diberi 3 g MSG tanpa makanan, sebab akibat oleh MSG belum ditetapkan karena daftar sindrom kompleks MSG didasarkan pada laporan testimoni. <ref name = "FASEB">
+{{cite journal
+| author = Raiten DJ, Talbot JM, Fisher KD
+| title = Executive Summary from the Report: Analysis of Adverse Reactions to Monosodium Glutamate (MSG)
+| journal = Journal of Nutrition
+| volume = 126
+| issue= 6
+| pages = 1743?1745
+| year = 1996
+| pmid=7472671}}</ref> Laporan ini juga menyatakan bahwa tidak ada data yang mendukung peranan glutamat dalam penyakit kronis dan penyakit yang melemahkan. Percobaan klinis multicenter buta-ganda terkontrol tidak berhasil memperlihatkan hubungan antara sindrom kompleks MSG dengan konsumsi MSG pada individu yang diyakini bereaksi negatif terhadap MSG. Tidak ada [[kaitan statistik]] yang telah terlihat, hanya ada sedikit respons dan sifatnya tidak konsisten. Gejala-gejala tidak teramati ketika MSG diberikan bersama makanan. <ref name="geha">
+{{cite journal
+| author = Geha RS
+| title = Review of alleged reaction to monosodium glutamate and outcome of a multicenter double-blind placebo-controlled study
+| journal = J. Nutr.
+| volume = 130
+| issue = 4S Suppl
+| pages = 1058S?62S
+| year = 2000
+| month = April
+| pmid = 10736382
+| doi =
+| url = http://jn.nutrition.org/content/130/4/1058.long
+| author-separator = ,
+| author2 = Beiser A
+| author3 = Ren C
+| display-authors = 3
+| last4 = Patterson
+| first4 = R
+| last5 = Greenberger
+| first5 = PA
+| last6 = Grammer
+| first6 = LC
+| last7 = Ditto
+| first7 = AM
+| last8 = Harris
+| first8 = KE
+| last9 = Shaughnessy
+| first9 = MA}}</ref><ref name="Tarasoff">
+{{cite journal
+| author = Tarasoff L., Kelly M.F.
+| title = Monosodium L-glutamate: a double-blind study and review
+| journal = Food Chem. Toxicol.
+| volume = 31
+| issue = 12
+| pages = 1019?1035
+| year = 1993
+| pmid = 8282275
+| doi = 10.1016/0278-6915(93)90012-N
+}}
+</ref><ref>
+{{cite journal
+| author = Freeman M.
+| title = Reconsidering the effects of monosodium glutamate: a literature review
+| journal = J Am Acad Nurse Pract
+| volume = 18
+| issue = 10
+| pages = 482?6
+| year = 2006
+| month = October
+| pmid = 16999713
+| doi = 10.1111/j.1745-7599.2006.00160.x
+| url =
+}}
+</ref><ref>{{cite journal
+| author = Walker R
+| title = The significance of excursions above the ADI. Case study: monosodium glutamate
+| journal = Regul. Toxicol. Pharmacol.
+| volume = 30
+| issue = 2 Pt 2
+| pages = S119?S121
+| year = 1999
+| month = October
+| pmid = 10597625
+| doi = 10.1006/rtph.1999.1337
+| url = }}</ref>
+
+Kontrol yang memadai diperlukan untuk mencegah bias eksperimen termasuk [[Uji acak terkendali|double-blind placebo-controlled experimental design]] (DBPC/eksperimen terkontrol-plasebo buta-ganda) dan aplikasi dalam kapsul karena sisa rasa glutamat kuat dan unik.<ref name="Tarasoff">
+{{cite journal
+| author = Tarasoff L., Kelly M.F.
+| title = Monosodium L-glutamate: a double-blind study and review
+| journal = Food Chem. Toxicol.
+| volume = 31
+| issue = 12
+| pages = 1019?1035
+| year = 1993
+| pmid = 8282275
+| doi = 10.1016/0278-6915(93)90012-N
+}}
+</ref> Dalam studi yang dilakukan oleh Tarasoff dan Kelly (1993) 71 peserta yang berpuasa diberi 5 g MSG dan kemudian diberi sarapan standar. Terdapat hanya satu reaksi, dan itu adalah terhadap plasebo pada individu yang mengaku sensitif terhadap MSG.<ref name = "freeman">
+{{cite journal
+| author = Freeman, M
+| title = Reconsidering the effects of monosodium glutamate: A literature review
+| journal = Journal of the American Academy of Nurse Practicioners
+| volume = 18
+| pages = 482?486
+| year = 2006
+| doi = 10.1111/j.1745-7599.2006.00160.x
+| pmid=16999713
+| issue = 10}}</ref> Dalam studi lain yang dilakukan oleh Geha dkk. (2000), mereka menguji reaksi dari 130 subjek yang melaporkan diri sensitif terhadap MSG. Berbagai percobaan DBPC dilakukan dan hanya subjek dengan sedikitnya dua gejala yang dilanjutkan. Hanya 2 orang dari keseluruhan studi yang memberkan respons pada keempat percobaan yang dilakukan. Karena prevalensi yang rendah ini, peneliti menyimpulkan bahwa respons terhadap MSG tidak dapat direproduksi.<ref>
+{{cite journal
+| author = Willams, A. N., and Woessner, K.M.
+| title = Monosodium glutamate 'allergy': menace or myth?
+| journal = Clinical & Experimental Allergy
+| volume = 39
+| pages = 640?646
+| year = 2009
+| doi = 10.1111/j.1365-2222.2009.03221.x
+| issue = 5 }}</ref>
+
+Penelitian tambahan yang mempelajari apakah MSG menyebabkan obesitas memberikan hasil beragam.<ref>{{cite journal|pmid=20370941|year=2010|last1=Shi|first1=Z|last2=Luscombe-Marsh|first2=ND|last3=Wittert|first3=GA|last4=Yuan|first4=B|last5=Dai|first5=Y|last6=Pan|first6=X|last7=Taylor|first7=AW|title=Monosodium glutamate is not associated with obesity or a greater prevalence of weight gain over 5 years: Findings from the Jiangsu Nutrition Study of Chinese adults|volume=104|issue=3|pages=457?63|doi=10.1017/S0007114510000760|journal=The British journal of nutrition}}</ref><ref name=twsNovK5>{{cite news
+|author= Nicholas bakalar
+|title= Nutrition: MSG Use Is Linked to Obesity
+|publisher= ''The New York Times''
+|quote= Consumption of monosodium glutamate, or MSG, the widely used food additive, may increase the likelihood of being overweight, a new study says.
+|date= August 25, 2008
+|url= http://www.nytimes.com/2008/08/26/health/nutrition/26nutr.html
+|accessdate= 2010-11-10
+}}</ref> Ada beberapa penelitian yang menyelidiki kaitan anekdotal antara MSG dengan [[Asma|asma]]; bukti saat ini tidak mendukung kaitan sebab akibat apa pun.<ref>
+{{cite journal
+| author = Stevenson, D. D.
+| title = Monosodium glutamate and asthma
+| journal = J. Nutr.
+| volume = 130
+| pages = 1067S?1073S
+| year = 2000
+| pmid = 10736384
+| issue = 4S Suppl
+}}</ref>
+
+Karena [[Asam glutamat|glutamat]] merupakan [[Neurotransmiter|neurotransmiter]] penting dalam otak manusia, yang memainkan elemen kunci dalam pembelajaran dan ingatan, sebuah penelitian sedang dilakukan oleh [[Neurologi|neurolog]] tentang kemungkinan efek samping MSG dalam makanan tetapi tidak ada penelitian final yang menggambarkan hubungan apa pun.<ref name=twsNovK8d>{{cite news
+|author= Nicholas J. Maragakis, MD; Jeffrey D. Rothstein, MD, PhD
+|title= Glutamate Transporters in Neurologic Disease
+|publisher= ''Neurology''
+|quote= Glutamate is the primary excitatory amino acid neurotransmitter in the human brain. It is important in synaptic plasticity, learning, and development. Its activity at the synaptic cleft is carefully balanced by receptor inactivation and glutamate reuptake. When this balance is upset, excess glutamate can itself become neurotoxic. ... This overactivation leads to an enzymatic cascade of events ultimately resulting in cell death.
+|date=  2001;58:365-370.
+|url= http://archneur.ama-assn.org/cgi/content/extract/58/3/365?maxtoshow=&hits=10&RESULTFORMAT=&fulltext=monosodium+glutamate&searchid=1&FIRSTINDEX=0&resourcetype=HWCIT
+|accessdate= 2010-11-10
+}}</ref>
+
+=== Australia dan Selandia Baru ===
+Food Standards Australia New Zealand<ref>{{cite web|url=http://www.foodstandards.gov.au/scienceandeducation/factsheets/factsheets2008/msginfood.cfm|archiveurl=http://web.archive.org/web/20100328191446/http://www.foodstandards.gov.au/scienceandeducation/factsheets/factsheets2008/msginfood.cfm|archivedate=2010-03-28 |title=MSG In Food |work=Food Standards Code|publisher=Food Standards Australia New Zealand |accessdate=May 17, 2010}}</ref> (FSANZ) mengutip "bukti yang sangat berlimpah dari sejumlah besar penelitian ilmiah" untuk menolak secara tersurat segala kaitan antara MSG dengan reaksi negatif serius atau "efek jangka panjang", dan menyatakan MSG "aman untuk masyarakat umum ". Namun badan ini menguraikan bahwa pada kurang dari 1% penduduk, individu yang peka dapat mengalami efek samping sementara seperti "sakit kepala, mati rasa/perasaan geli, kemerahan, kekakuan otot, dan kelemahan umum" terhadap sejumlah besar MSG yang diasup dalam satu hidangan tunggal. Orang-orang yang menganggap dirinya sensitif terhadap MSG dianjurkan untuk memastikan hal ini melalui penilaian klinis yang benar.
+
+Peraturan no. 1.2.4 dalam Australia and [[Selandia Baru|New Zealand]] Food Standards mewajibkan pelabelan mengenai adanya MSG sebagai zat tambahan makanan pada makanan kemasan. Label tersebut harus menampilkan nama kelas zat tambahan makanan (mis. penguat cita rasa), diikuti dengan nama zat tambahan makanan, MSG, atau nomor [[Sistem Penomoran Internasional]]-nya (INS/International Numbering System), ''621''.<ref>{{cite web|url=http://www.foodstandards.gov.au/foodstandards/foodstandardscode/standard124labelling4231.cfm|archiveurl=http://web.archive.org/web/20100821130741/http://www.foodstandards.gov.au/foodstandards/foodstandardscode/standard124labelling4231.cfm|archivedate=2010-08-21 |title=Standard 1.2.4 Labelling of Ingredients |work=Food Standards Code |publisher=Food Standards Australia New Zealand |accessdate=May 15, 2010}}</ref>
+
+=== Amerika Serikat ===
+Monosodium glutamat (MSG) adalah salah satu dari beberapa bentuk asam glutamat yang ditemukan dalam makanan, sebagian besarnya karena asam glutamat, yang merupakan asam amino, memiliki sifat mudah meresap. Asam glutamat dan garam-garamnya juga dapat ada dalam beraneka ragam zat tambahan lain, termasuk [[protein nabati terhidrolisis]], [[ragi autolisis]], [[ragi terhidrolisis]], [[ekstrak ragi]], ekstrak [[Kedelai|kedelai]], dan isolat protein, yang harus dilabeli dengan nama-nama umum dan biasa ini. Sejak tahun 1998, MSG tidak dapat dimasukkan ke dalam istilah bumbu dan pemberi cita rasa. Zat tambahan makanan [[dinatrium inosinat]] and [[dinatrium guanilat]], yang merupakan [[ribonukleotida]], biasanya digunakan secara sinergis dengan bahan-bahan yang mengandung monosodium glutamat. Namun, istilah cita rasa alami sekarang digunakan oleh industri makanan ketika menggunakan asam glutamat (MSG tanpa tempelan garam natrium). Karena masih kurangnya peraturan FDA, tidaklah mungkin untuk menentukan berapa persen dari cita rasa alami ini yang benar-benar asam glutamat.
+
+FDA menganggap label seperti Tanpa MSG" atau Tanpa Tambahan MSG sebagai menyesatkan jika makanan mengandung bahan yang merupakan sumber glutamat bebas, seperti protein terhidrolisis. Pada tahun 1993, FDA mengusulkan penambahan frase (mengandung glutamat) pada nama umum atau biasa dari hidrolisat protein tertentu yang mengandung sejumlah besar glutamat.
+
+Dalam bukunya yang berjudul ''[[On Food and Cooking]]'' versi tahun 2004, penggemar makanan dan pengarang [[Harold McGee]] menyatakan bahwa "[setelah banyak penelitian], toksikolog telah menyimpulkan bahwa MSG merupakan bahan yang tidak berbahaya bagi sebagian besar orang, dalam jumlah besar sekali pun."<ref>[http://www.curiouscook.com/site/on-food-and-cooking.html curiouscook.com] McGee, Harold, ''On Food and Cooking, the Science and Lore of the Kitchen'', 2004</ref>
+
+== Lihat pula ==
+* [[Disodium glutamate]]
+* ''[[Excitotoxicity]]''
+* [[Daftar bumbu tambahan makanan]]
+* [[Monopotassium glutamat]]
+* [[Gurih|Umami]]
+
+== Referensi ==
+{{Reflist|colwidth=30em}}
+
+== Pranala luar ==
+{{commons category|Monosodium glutamate}}
+* [http://www.mayoclinic.com/health/monosodium-glutamate/AN01251 Monosodium glutamate: Is it harmful?] (Mayo Clinic)
+* [http://www.eufic.org/article/en/artid/monosodium-glutamate/  The Facts on Monosodium Glutamate (EUFIC)]
+
+[[Kategori:Kimia]]
+[[Kategori:Bumbu]]
+[[Kategori:Senyawa natrium]]
+[[Kategori:Bahan tambahan makanan]]

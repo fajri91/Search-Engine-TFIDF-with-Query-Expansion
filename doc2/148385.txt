@@ -1,0 +1,49 @@
+Gorzegno
+{{Infobox Italian comune
+| name                = Gorzegno
+| official_name       = Comune di Gorzegno
+| native_name         = 
+| image_skyline       = Gorzegno panorama.jpg
+| imagesize           = 
+| image_alt           = 
+| image_caption       = 
+| image_shield        = 
+| shield_alt          = 
+| image_map           = 
+| map_alt             = 
+| map_caption         = 
+| pushpin_label_position = 
+| pushpin_map_alt     = 
+| latd  = 44 |latm  = 31 |lats  =  |latNS  = N
+| longd = 8 |longm = 8 |longs =   |longEW = E 
+| coordinates_type    = type:city(362)_region:IT
+| coordinates_display = title
+| coordinates_footnotes = 
+| region              = [[Piedmont]]
+| province            = [[Province of Cuneo]] (CN)
+| frazioni            = 
+| mayor_party         = 
+| mayor               = 
+| area_footnotes      = 
+| area_total_km2      = 13.8
+| population_footnotes = 
+| population_total    = 362
+| population_as_of    = Dec. 2004
+| pop_density_footnotes = 
+| population_demonym  = 
+| elevation_footnotes = 
+| elevation_m         = 
+| twin1               = 
+| twin1_country       = 
+| saint               = 
+| day                 = 
+| postal_code         = 12070
+| area_code           = 0173
+| website             = 
+| footnotes           = 
+}}
+
+'''Gorzegno''' adalah komune yang terletak di distrik [[Provinsi Cuneo]], [[Italia]]. Kota Gorzegno memiliki luas sebesar 13.8 km. Pada tahun 2004, Gorzegno memiliki penduduk sebesar 362 jiwa.
+
+{{Province of Cuneo}}
+{{Cuneo-geo-stub}}

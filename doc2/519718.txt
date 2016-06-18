@@ -1,0 +1,13 @@
+Templat:Pengguna kriminologi
+{{userbox
+| logo-background = lightgray
+| info-background = dimgray
+| border-color = black
+| info-color   = white
+| logo = [[Berkas:Crime.svg|50px]]
+| info = <center>Pengguna ini adalah peminat '''[[kriminologi|<font color="white">kriminologi</font>]]'''</center>
+}}{{#if:{{{kat|}}}||<includeonly>[[Kategori:Pengguna peminat kriminologi|{{PAGENAME}}]]</includeonly>}}<noinclude>
+{{clear}}
+Kategori yang ditambahkan: {{kt|Pengguna peminat kriminologi}}
+[[Kategori:Templat userbox minat|kriminologi]]
+</noinclude>

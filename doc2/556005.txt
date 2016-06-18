@@ -1,0 +1,14 @@
+Berkas:Duck Duck Go.png
+{{Information
+|description    = == Ringkasan ==
+Logo [[DuckDuckGo]].</br>
+Sumber : [http://duckduckgo.com/ Situs Mesin Pencari DuckDuckGo].
+== Jenis lisensi ==
+{{TampilanSitus}}
+|source         = 
+|date           = 
+|location       = 
+|author         = 
+|permission     = 
+|other_versions = 
+}}

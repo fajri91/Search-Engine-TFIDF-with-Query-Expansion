@@ -1,0 +1,6 @@
+Templat:Karyadekade
+Karya yang dipublikasikan/dibuat pada tahun '''[[{{{1}}}{{{2}}}0-an]]'''.
+<includeonly>
+[[Kategori:{{{1}}}{{{2}}}0-an]]
+[[Kategori:Karya menurut tahun|{{{1}}}{{{2}}}0-an]]</includeonly><noinclude>
+[[Kategori:Templat kategori menurut dasawarsa|{{PAGENAME}}]]</noinclude>

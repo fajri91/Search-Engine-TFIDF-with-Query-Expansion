@@ -1,0 +1,30 @@
+Templat:Geographic Location
+{| class="navbox" style="text-align: center; {{#ifeq:{{{width|}}}|auto|width:auto; clear:none|width:80%}}; font-size:95%; margin:{{#ifeq:{{{width|}}}|auto||0.5em}} auto"
+|+ {{{title|}}}
+{{#if:{{{noicon|}}}||
+{{!}} style="width:0%; padding-right:5px" rowspan=5 {{!}} [[berkas:Compass rose pale.svg|50px|center|link=|alt=]]
+}}
+| style="width:33%" | {{{Northwest|{{{NW|}}}}}}
+| style="width:33%" | {{{North|{{{N|<br/>}}}}}}
+| style="width:33%" | {{{Northeast|{{{NE|}}}}}}
+{{#if:{{{noicon|}}}||
+{{!}} style="width:0%; padding-left:5px" rowspan=5 {{!}} [[berkas:Compass rose pale.svg|50px|link=|alt=]]
+}}
+|- 
+| style="width:33%" rowspan=3 | {{{West|{{{W|}}}}}}
+| style="width:33%" | [[file:North.svg|North|link=|alt=]]
+| style="width:33%" rowspan=3 | {{{East|{{{E|}}}}}}
+|-
+| style="width:33%" | 
+{| style="width:100%"
+| style="width:50%; text-align:right" | [[berkas:West.svg|right|West|link=|alt=]]
+| style="width:0%; text-align: center" nowrap="nowrap" |&nbsp; '''{{{Centre|{{{Center|(masukkan lokasi)}}}}}}'''<!-- ENGVAR --> &nbsp;
+| style="width:50%; text-align:left"  | [[berkas:East.svg|left|East|link=|alt=]]
+|}
+|-
+| style="width:33%" | [[berkas:South.svg|South|link=|alt=]]
+|-
+| style="width:33%" | {{{Southwest|{{{SW|}}}}}}
+| style="width:33%" | {{{South|{{{S|<br/>}}}}}}
+| style="width:33%" | {{{Southeast|{{{SE|}}}}}}
+|}{{#if:{{{1|}}}{{{2|}}}{{{3|}}}{{{4|}}}{{{5|}}}{{{6|}}}{{{7|}}}{{{8|}}}{{{9|}}}|[[Kategori:Templat lokasi geografis menggunakan parameter yang tidak terdokumentasi]]}}<noinclude>{{dokumentasi}}<!---PLEASE ADD METADATA TO THE <includeonly> SECTION AT THE BOTTOM OF THE /doc SUBPAGE--></noinclude>

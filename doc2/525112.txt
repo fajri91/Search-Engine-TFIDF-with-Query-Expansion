@@ -1,0 +1,8 @@
+Templat:Taxonomy/Angiosperms
+{{Don't edit this line {{{machine code|}}}|{{{1}}}
+|rank=Klad
+|always_display=true
+|parent=Plantae
+|link=Tumbuhan berbunga|Angiosperma
+}}<noinclude>{{pp-template}}
+</noinclude>

@@ -1,0 +1,50 @@
+Aaptos
+{{Italic title}}
+{{Taxobox
+| name = ''Aaptos''
+| regnum = [[Animal]]ia
+| phylum = [[Porifera]]
+| classis = [[Demospongiae]]
+| ordo = [[Hadromerida]]
+| familia = [[Suberitidae]]
+| genus = '''''Aaptos'''''
+| genus_authority = Gray, 1867 <ref name="WoRMS">[http://www.marinespecies.org/aphia.php?p=taxdetails&id=132064 World Register of Marine Species] Retrieved August 25, 2012</ref>
+}}
+'''''Aaptos''''' adalah salah satu genus [[genus]] [[Porifera]]. Spesies dalam genus ini merupakan [[spons]] [[laut]] di dalam [[familia]] '''[[Suberitidae]]'''.<ref name="WoRMS" />
+
+== Spesies ==
+
+Sejauh ini spesies yang merupakan bagian dari genus ini meliputi:<ref name="WoRMS" /><ref>[http://animaldiversity.ummz.umich.edu/site/accounts/classification/Aaptos.html Animal Diversity] Diakses 25 Agustus 2012</ref>
+
+{{div col|colwidth=20em}}
+* ''[[Aaptos aaptos]]'' <small>(Schmidt, 1864)</small>
+* ''[[Aaptos alphiensis]]'' <small>Samaai & Gibbons, 2005</small>
+* ''[[Aaptos bergmanni]]'' <small>de Laubenfels, 1950</small>
+* ''[[Aaptos ciliata]]'' <small>(Wilson, 1925)</small>
+* ''[[Aaptos confertus]]'' <small>Kelly-Borges & Bergquist, 1994</small>
+* ''[[Aaptos duchassaingi]]'' <small>(Topsent, 1889)</small>
+* ''[[Aaptos durissima]]'' <small>(Carter, 1882)</small>
+* ''[[Aaptos globosum]]'' <small>Kelly-Borges & Bergquist, 1994</small>
+* ''[[Aaptos glutinans]]'' <small>Moraes, 2011</small>
+* ''[[Aaptos horrida]]'' <small>(Carter, 1886)</small>
+* ''[[Aaptos kanuux]]'' <small>Lehnert, Hocevar & Stone, 2008</small>
+* ''[[Aaptos laxosuberites]]'' <small>(Sollas, 1902)</small>
+* ''[[Aaptos niger]]'' <small>Hoshino, 1981</small>
+* ''[[Aaptos nuda]]'' <small>(Kirkpatrick, 1903)</small>
+* ''[[Aaptos papillata]]'' <small>(Keller, 1880)</small>
+* ''[[Aaptos pernucleata]]'' <small>(Carter, 1870)</small>
+* ''[[Aaptos robustus]]'' <small>Plotkin & Janussen, 2008</small>
+* ''[[Aaptos rosacea]]'' <small>Kelly-Borges & Bergquist, 1994</small>
+* ''[[Aaptos suberitoides]]'' <small>(Brndsted, 1934)</small>
+* ''[[Aaptos tentum]]'' <small>Kelly-Borges & Bergquist, 1994</small>
+* ''[[Aaptos vannamei]]'' <small>de Laubenfels, 1935</small>
+{{div col end}}
+
+== Referensi ==
+
+{{reflist}}
+
+[[Kategori:Aaptos| ]]
+
+
+{{hewan-stub}}

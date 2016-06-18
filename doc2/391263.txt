@@ -1,0 +1,24 @@
+RPG Maker XP
+{{tanpa_referensi|date=2011}}
+'''Ruby Game Scripting System''' (atau '''RPG Maker XP''') adalah turunan dari bahasa pemrograman Ruby yang dikhususkan penggunaannya untuk membuat game-game PC. Game Hasil buatan RPG Maker XP ini memiliki resolusi standar 640*480 yang dapat diubah melalui pengubahan script RGSS.<ref name="RMXP">{{cite web|url=http://www.rpgmakerweb.com/product/rpg-maker-xp |title=RPG game creator - Create Your Own RPG - RPG Maker Tools | RPG Maker XP |accessdate=2011-06-04 |format= |work=}}</ref>
+
+== Akar bahasa pemrograman ==
+RPG Maker XP mengintegrasikan bahasa pemrograman Ruby, memberikan fleksibilitas pengembangan yang lebih tinggi daripada bahasa pemrograman Ruby yang sebenarnya. Karena bahasa pemrograman Ruby tidak mendukung grafis dan audio, RGSS dikembangkan untuk mnyediakan antarmuka dan struktur data dasar yang dapat digunakan oleh editor<ref name="Ruby">{{cite web|url=http://www.fajarnugrohorpl.co.cc/2011/06/ruby-game-scripting-system-rgss.html |title=Fajar Nugroho: Ruby Game Scripting System (RGSS) |accessdate=2011-06-04 |format= |work=}}</ref>.
+
+== Sistem antarmuka ==
+RPG Maker XP menggunakan gambar untuk title screen, game over screen, character set, tileset, efek transisi, animasi pertarungan, icon pertarungan, icon item, latar belakang, dan windowskin. Gambar-gambar baru dapat dibuat melalui software pengolah gambar. RGSS dapat menerima semua ekstensi gambar secara teknis seperti PNG, BMP, dan JPG. Tetapi, dalam penggunaan animasi GIF, sebuah script harus diinputkan kedalam database agar animasi dapat ditampilkan, jika tiddak, maka yang tampil hanyalah sebuah gambar biasa.
+
+=== Sistem pertarungan ===
+Sistem pertarungan yang disediakan secara default adalah first-person dan bergiliran. Programmer dapt membuat animasi serangan baru dan mengimpor gambar untuk digunakan dalam latar belakang pertarungan. Sistem pertarungan dapat diedit oleh programmer dengan betasan tertentu, karena pda databasenya menggunakan script RGSS dan Ruby itu sendiri.
+
+=== Tampilan karakter ===
+Karakter dtampilkan dalam set-set (dinamakan "Character Set" atau "Charset"). Setiap animasi ditampilkan dalam segi 4x4 "pose" untuk setiap Charset. Desain animasi terebut memberikan sebuah ilusi yang mengesankan bahwa karakter tersebut benar-benar berjalan.
+
+== Fitur pemrograman ==
+RPG Maker XP menyediakan class dan module default yang terdapat dalam Script Editor, tetapi beberapa dari mereka disembunyikan, yaitu: RPG, Audio, Grafis, Input, Tilemap, Table, Window, Sprite, Bitmap, Viewport, dan Plane. Beberapa dari class tersembunyi ini dapat ditemukan dalam help file yang terdapat dalam program itu sendiri, tetapi tdak ada cara untuk mengaksesnya kecuali program tersebut diubah.
+
+== Catatan kaki ==
+{{Reflist}}
+
+== Pranala luar ==
+* {{id}} [http://www.fajarnugrohorpl.co.cc/2011/06/ruby-game-scripting-system-rgss.html Ruby Game Scripting System (RGSS)]

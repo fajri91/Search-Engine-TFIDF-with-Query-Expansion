@@ -1,0 +1,35 @@
+Peradaban Zapotek
+[[Berkas:Zapotecos.png|thumb|350px|right|Wilayah Peradaban Zapotek]] 
+
+'''Peradaban Zapotek''' adalah peradaban [[pra-Colombus]] yang berkembang di [[Lembah Oaxaca]], benua [[Amerika]]. Bukti arkeologis menunjukan bahwa peradaban mereka dapat ditilik kembali ke 2500 tahun yang lalu. Mereka meninggalkan bukti arkeologis di kota kuno [[Monte Albn]].
+
+Bahasa yang dituturkan oleh peradaban ini adalah [[bahasa Zapotek]].
+
+== Referensi ==
+{{commons cat|Zapotec}}
+{{refbegin|indent=yes}}<!--BEGIN biblio format. If indent param. is used,  Pls use a colon (:) instead of asterisk (*) for bullet markers in the references list --> 
+: {{cite book|author={{aut|Marcus, Joyce}}|authorlink=Joyce Marcus|coauthors=and {{aut|[[Kent V. Flannery|Flannery, Kent V.]]}}|year=1996|title=Zapotec Civilization: How Urban Society Evolved in Mexico's Oaxaca Valley|series=New aspects of antiquity series|location=New York|publisher=[[Thames & Hudson]]|isbn=0-500-05078-3|oclc=34409496}}
+: {{cite book|author={{aut|Marcus, Joyce}}|authorlink=Joyce Marcus|coauthors=and {{aut|[[Kent V. Flannery|Flannery, Kent V.]]}}|year=2000|chapter=Cultural Evolution in Oaxaca: The Origins of the Zapotec and Mixtec Civilizations|editor=Richard E.W. Adams and Murdo J. Macleod (eds.)|title=The Cambridge History of the Native Peoples of the Americas, {{nowrap|Vol. II}}: Mesoamerica, {{nowrap|part 1}}|location=Cambridge, UK|publisher=[[Cambridge University Press]]|pages=358406|isbn=0-521-35165-0|oclc=33359444}}
+:{{cite journal|title=Review: Two Perspectives on the Rise of Civilization in Mesoamerica's Oaxaca Valley. Review of: Ancient Oaxaca: The Monte Albn State by Richard E. Blanton ; Gary M. Feinman ; Stephen A. Kowalewski ; Linda M. Nicholas|author={{aut|Smith, Michael E.}}|journal=Latin American Antiquity|volume=11|issue=1|year=2000|pages=8789|url=http://www.jstor.org/stable/1571672}}
+: {{cite book|author={{aut|Whitecotton, Joseph W.}}|authorlink=Joseph Whitecotton|year=1990|title=Zapotec Elite Ethnohistory: Pictorial Genealogies from Eastern Oaxaca|series=Vanderbilt University publications in anthropology, {{nowrap|no. 39}}|location=Nashville, TN|publisher=[[Vanderbilt University]]|isbn=0-935462-30-9|oclc=23095346}} 
+: {{cite book|author={{aut|Whitecotton, Joseph W.}}|authorlink=Joseph Whitecotton|year=1977|title=The Zapotecs: Princes, Priests and Peasants|location=Norman|publisher=[[University of Oklahoma Press]]}}
+{{refend}}<!-- END biblio format style --> 
+ 
+{{sejarah-stub}}
+
+[[Kategori:Zapotek|*]]
+[[Kategori:Sejarah Amerika Utara]]
+
+[[ca:Zapoteca]]
+[[cs:Zapotkov]]
+[[da:Zapoteker]]
+[[de:Zapoteken]]
+[[fa:]]
+[[fi:Sapoteekit]]
+[[fr:Zapotques]]
+[[hr:Zapotec]]
+[[it:Zapotechi]]
+[[nl:Zapoteken]]
+[[no:Zapotek]]
+[[pl:Zapotekowie]]
+[[pt:Zapotecas]]

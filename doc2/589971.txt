@@ -1,0 +1,35 @@
+Meioneta prosectoides
+{{Taxobox
+|name = Meioneta prosectoides
+|status = 
+|image = 
+|image_caption = 
+|domain = 
+|regnum = [[Animalia]]
+|phylum = [[Arthropoda]]
+|classis = [[Arachnida]]
+|ordo = [[Araneae]]
+|familia = [[Linyphiidae]]
+|genus =Meioneta
+|species = Meioneta prosectoides
+|binomial = Meioneta prosectoides
+|binomial_authority =Locket & Russell-Smith, 1980
+|range_map = 
+|range_map_caption = 
+|image2 = 
+|image2_caption = 
+|synonyms = 
+}}
+'''''Meioneta prosectoides''''' adalah spesies [[laba-laba]] yang tergolong [[familia]] [[Linyphiidae]]. Spesies ini juga merupakan bagian dari ordo [[Araneae]]. Nama ilmiah dari spesies ini pertama kali diterbitkan pada tahun 1980 oleh Locket & Russell-Smith.
+
+Laba-laba ini biasanya banyak ditemui di Kamerun, Nigeria.
+
+== Referensi ==
+
+* Platnick, Norman I. (2010): [http://research.amnh.org/entomology/spiders/catalog/LINYPHIIDAE.html The world spider catalog], version 10.5. ''American Museum of Natural History''.
+
+{{DEFAULTSORT:Meioneta prosectoides}}
+
+[[Kategori:Linyphiidae]]
+
+{{labalaba-stub}}

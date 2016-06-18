@@ -1,0 +1,23 @@
+Templat:Simpang Kiri, Subulussalam
+{{Navigasi ID Desa
+|nama kecamatan=Simpang Kiri
+|dati2=Kota
+|nama dati2=Subulussalam
+|provinsi=Aceh
+|desa/kelurahan=Kampong
+|d1=Buluh Dori 
+|d2=Kuta Cepu 
+|d3=Lae Oram 
+|d4=Makmur Jaya 
+|d5=Mukti Makmur 
+|d6=Pasar Panjang 
+|d7=Pegayo
+|d8=Sikelondang 
+|d9=Subulussalam
+|d10=Subulussalam Barat
+|d11=Subulussalam Selatan
+|d12=Subulussalam Utara 
+|d3=Suka Makmur 
+|d14=Tangga Besi
+}}<noinclude>[[Kategori:Templat desa/kelurahan di Aceh|Subulussalam]]
+[[Kategori:Templat desa/kelurahan di Kota Subulussalam]]</noinclude>

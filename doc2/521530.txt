@@ -1,0 +1,28 @@
+Templat:Location map KwaZulu-Natal
+{{#switch:{{{1}}}
+|name=KwaZulu-Natal
+|top=-26.75
+|bottom=-31.25
+|left= 28.75
+|right= 33.25
+|image=Blank map of KwaZulu-Natal.svg
+}}<noinclude>
+{{Location map/Info}}
+
+[[Kategori:Templat peta lokasi Afrika Selatan|KwaZulu-Natal]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</noinclude>

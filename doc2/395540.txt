@@ -1,0 +1,40 @@
+Templat:Jalur Utama Sanin (Area Yonago)
+{{Japan Railway Line
+| name  = Jalur Utama Sanin (Area Yonago)
+| listclass = hlist
+| title =Stasiun di [[Jalur Utama San'in|Jalur Utama Sanin]] (Tottori - Yonago)
+| Line_color = #0072bc
+| body  =
+{{ja-stalink|Tottori}} -
+{{ja-stalink|Koyama}} -
+{{ja-stalink|Tottoridaigakumae}} -
+{{ja-stalink|Suetsune}} -
+{{ja-stalink|Hogi}} -
+{{ja-stalink|Hamamura}} -
+{{ja-stalink|Aoya}} -
+{{ja-stalink|Tomari||Tottori}} -
+{{ja-stalink|Matsuzaki||Tottori}} -
+{{ja-stalink|Kurayoshi}} -
+{{ja-stalink|Shimohojo}} -
+{{ja-stalink|Yura}} -
+{{ja-stalink|Urayasu||Tottori}} -
+{{ja-stalink|Yabase}} -
+{{ja-stalink|Akasaki||Tottori}} -
+{{ja-stalink|Nakayamaguchi}} -
+{{ja-stalink|Shimoichi}} -
+{{ja-stalink|Mikuriya||Tottori}} -
+{{ja-stalink|Nawa||Tottori}} -
+{{ja-stalink|Daisenguchi}} -
+{{ja-stalink|Yodoe}} -
+{{ja-stalink|Hoki-Daisen}} -
+{{ja-stalink|Higashiyamaken||Tottori}} -
+{{ja-stalink|Yonago}}
+}}<noinclude>
+[[Kategori:Templat Rel Jepang Barat|Sanin Main Line]]
+[[en:Template:Sanin Main Line (Yonago area)]]
+[[ja:Template: ()]]
+[[zh:Template: ()]]
+</noinclude>
+<includeonly>
+[[Kategori:Stasiun di Jalur Utama Sanin]]
+</includeonly>

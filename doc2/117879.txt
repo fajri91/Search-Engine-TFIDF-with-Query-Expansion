@@ -1,0 +1,8 @@
+Templat:Campaignbox Iraq War
+{{Campaign
+|raw_name=Campaignbox Iraq War
+|name=[[Perang Irak]]
+|battles = [[Invasi Irak 2003|Invasi]]  [[Paska-invasi Irak, 2003-sekarang|Paska-invasi]] ([[Pemberontakan Irak|Pemberontakan]]  [[Perang saudara di Irak|Perang saudara]]) [[Daftar operasi militer koalisi pada Perang Irak|Pertempuran&nbsp;&amp;&nbsp;operasi]]&nbsp; [[Serangan teroris pada Perang Irak|Serangan teroris]]
+}}<noinclude>
+[[Kategori:Templat navigasi militer|{{PAGENAME}}]]
+</noinclude>

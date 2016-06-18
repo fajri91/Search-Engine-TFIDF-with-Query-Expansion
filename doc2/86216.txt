@@ -1,0 +1,30 @@
+Corynebacterium diphtheriae
+{{Taxobox
+| image = Corynebacterium diphtheriae Gram stain.jpg
+| image_width = 200px
+| image_caption = kultur ''Corynebacterium diphtheriae''
+| regnum = [[Bacteria]]
+| phylum = [[Actinobacteria]]
+| ordo = [[Actinomycetales]]
+| familia = [[Corynebacteriaceae]]
+| genus = ''[[Corynebacterium]]''
+| species = '''''C. diphtheriae'''''
+| binomial = ''Corynebacterium diphtheriae''
+| binomial_authority = Kruse, 1886
+}}
+'''''Corynebacterium diphtheriae''''' adalah [[bakteri]] patogen yang menyebabkan [[difteri]]. Bakteri ini dikenal juga sebagai '''basillus Klebs-Lffler''' karena ditemukan pada [[1884]] oleh bakteriolog [[Jerman]], [[Edwin Klebs]] (1834-1912) dan [[Friedrich Lffler]] (1852-1915).
+
+''C. diphtheriae'' adalah makhluk [[anaerobik]] fakultatif dan [[Gram positif]], ditandai dengan tidak berkapsul, tidak berspora, tak bergerak, dan berbentuk batang 1 hingga 8 m dan lebar 0,3 hingga 0,8 m. Pada kultur, kelompok bakteri ini akan berhubungan satu sama lain dan membentuk seperti huruf Tionghoa.
+
+Banyak strain ''C. diphtheriae'' yang memproduksi [[racun difteri]], sebuah eksotoksin protein, dengan berat molekul 62 [[Dalton (satuan)|kilodalton]]. Ketidakaktifan racun dengan serum antiracun merupakan dasar dalam [[vaksinasi]] antidifteri. Tdiak semua strain berbahaya. Produksi racun akan terjadi bila bakteri dinfeksi oleh sebuah [[bakteriofaga]].
+
+Terdapat tiga subspesies yang dikenal yakni: ''C. diphtheriae mitis'', ''C. diphtheriae intermedius'', dan ''C. diphtheriae gravis''. Ketiganya berbeda pada kemampuan untuk mengolah zat gizi tertentu. Semuanya dapat menjadi berbahaya yang menyebabkan difteri atau tidak berbahaya sama sekali pada manusia.
+
+Bakteri ini peka pada sebagian besar [[antibiotika]], seperti [[penisilin]], [[ampisilin]], [[sefalosporin]], [[kuinolon]], [[kloramfenikol]], [[tetrasiklin]], [[sefuroksim]] dan [[trimetrofim]].
+
+== Pranala luar ==
+* [https://www.cebitec.uni-bielefeld.de/groups/gi/software/coryneregnet/ CoryneRegNet] - Basis data Faktor-faktor Transkripsi Corynebacterium dan Jaringan-jaringan Regulator''
+
+{{bakteri-stub}}
+
+[[Kategori:Bakteri]]

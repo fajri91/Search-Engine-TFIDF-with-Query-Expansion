@@ -1,0 +1,14 @@
+Portal:Pertanian/Tab2
+<!--<noinclude>{|</noinclude>
+| style="padding:0 .3em; background-color:{{{1|red}}}; border:solid 1px #AAAAAA; border-bottom:solid 0px #AAAAAA; text-align:center" width="31.5%" | [[Portal:Pertanian/Hasil|<span style="color: {{{2|white}}};">'''Hasil Pertanian'''</span>]]<noinclude>
+|}</noinclude>--><noinclude>
+<br clear="all">
+== Usage ==
+To create a set of tabs, use these five elements. Keep the page tabs in the same order. 
+* "Current" page paramenters: #F9F9FF #000000 
+* "Other" page paramenters: #003399 #FFCC00 (default)
+{{[[Portal:Pertanian/TabsTop]]}}<br />
+{{[[Portal:Pertanian/Tab1]]|background|text color}}<br />
+{{[[Portal:Pertanian/Tab2]]|background|text color}}<br />
+{{[[Portal:Pertanian/TabsBottom]]}}
+</noinclude>

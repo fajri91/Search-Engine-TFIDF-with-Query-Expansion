@@ -1,0 +1,91 @@
+Templat:TV di Republik Rakyat Tiongkok
+{{Navbox
+ | name = TV di Republik Rakyat Tiongkok
+ | listclass = hlist
+| title ={{flagicon|Tiongkok}} [[Televisi di Republik Rakyat Tiongkok]] 
+ | image = 
+ | above = 
+ | group1 = [[Republik Rakyat Tiongkok]]
+ | list1 = 
+{{Navbox subgroup
+ | group1 = [[Nasional]]
+ | list1 = <div>
+{{nowrap begin}}
+[[CCTV|China Central Television (CCTV)]]{{w}}
+[[China Education Television|China Education Television (CETV)]]{{w}} [[China Xinhua News Network Corporation|China Xinhua News Network Corporation (CNC)]]
+{{nowrap end}}
+</div>
+ | group2 = [[Daftar provinsi Republik Rakyat Tiongkok|Provinsi]]
+ | list2 = <div>
+{{nowrap begin}}
+[[Fujian Television|Fujian Television (FJTV)]]{{w}}
+[[Guangdong TV|Guangdong TV (GDTV)]]{{w}}
+[[Southern Television Guangdong|Southern Television Guangdong (TVS)]]{{w}}
+[[Hebei Television|Hebei Television (HEBTV)]]{{w}}
+[[Heilongjiang Television Station|Heilongjiang Television Station (HLJTV)]]{{w}}
+[[Hunan Satellite Television|Hunan Satellite Television (HTV)]]{{w}}
+[[Xinjiang Television Station|Xinjiang Television Station (XJTV)]]
+{{nowrap end}}
+</div>
+ | group3 = [[Kota]]
+ | list3 = <div>
+{{nowrap begin}}
+[[Beijing Television|Beijing Television (BTV)]]{{w}}
+[[Chongqing Broadcasting Group|Chongqing Broadcasting Group (CBG)]]{{w}}
+[[Shanghai Media Group|Shanghai Media Group (SMG)]]{{w}}
+[[Tianjin Television|Tianjin Television (TJTV)]]
+{{nowrap end}}
+</div>
+ | group4 = Sub-provinsi
+ | list4 = <div>
+{{nowrap begin}}
+[[Guangzhou Television|Guangzhou Television (GZTV)]]{{w}}
+[[Shenzhen Media Group|Shenzhen Media Group (SZMG)]]{{w}}
+[[Nanjing Broadcasting Network|Nanjing Broadcasting Network (NBN)]]{{w}}
+[[Xiamen Media Group|Xiamen Media Group (XMG)]]
+{{nowrap end}}
+</div>
+}}
+ | group2 = [[Daerah Administratif Khusus]]
+ | list2 = 
+{{Navbox subgroup
+ | group1 =  [[Televisi di Hong Kong|Hong Kong]]
+ | list1 = <div>
+{{nowrap begin}}
+[[Asia Television Limited|Asia Television Limited (ATV)]] ([[ATV Home]]{{w}}
+[[ATV World]]){{w}}
+[[Television Broadcasts Limited|Television Broadcasts Limited (TVB)]] ([[TVB Jade]]{{w}}
+[[TVB Pearl]]){{w}}
+[[Cable TV Hong Kong]]{{w}}
+[[Channel V]]{{w}}
+[[Hong Kong Broadband Network|Hong Kong Broadband Network (HKBN)]]{{w}}
+[[Now TV (saluran TV Hong Kong)|Now tv]]{{w}}
+[[now Business News Channel]]{{w}}
+[[Phoenix Television]]{{w}}
+[[Radio Television Hong Kong|Radio Television Hong Kong (RTHK)]]{{w}}
+[[Xing Kong]]
+{{nowrap end}}
+</div>
+ | group2 = [[Televisi di Makau|Makau]]
+ | list2 = <div>
+{{nowrap begin}}
+[[Teledifuso de Macau|Teledifuso de Macau (TDM)]]: [[Canal Macau]]{{w}}
+[[Macau TV]]{{w}}
+[[TDM HD]]{{w}}
+[[TDM-Macau Satellite]]
+{{nowrap end}}
+</div>
+}}
+ | group4 = Tionghoa Terbesar
+ | list4 = <div>
+{{nowrap begin}}
+[[MTV Mandarin]]{{w}}
+[[Phoenix Television]]{{w}}
+[[STAR TV]]{{w}}
+[[China Entertainment Television]]
+{{nowrap end}}
+</div>
+|below = lihat lain: {{flagicon|Hong Kong}} [[Televisi di Hong Kong]] {{w}} {{flagicon|Makau}} [[Televisi di Makau]]
+}}<noinclude>[[Kategori:Templat navigasi televisi|{{PAGENAME}}]]
+[[Kategori:Templat Tiongkok|{{PAGENAME}}]]
+</noinclude>

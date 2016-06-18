@@ -1,0 +1,12 @@
+Templat:Country data Ehime
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Prefektur Ehime
+| shortname alias = Ehime
+| flag alias = Flag of Ehime Prefecture.svg
+| size = {{{size|}}}
+| name = {{{name|}}}
+| kategori = Jepang
+<noinclude>
+| redir1 = Ehime Prefecture
+</noinclude>
+}}

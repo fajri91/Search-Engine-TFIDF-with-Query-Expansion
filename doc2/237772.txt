@@ -1,0 +1,11 @@
+Templat:Pengguna golkar
+{{ userbox
+|border-c=black
+|id-c=white
+|id-s=12
+|id-fc=#000
+|info-s=8
+|id=[[Image:Logo_GOLKAR.jpg|40px]]
+|info=Pengguna ini mendukung <br>'''[[Partai Golongan Karya]]''' <br>di [[Indonesia]].
+}}<noinclude>
+[[Kategori:Templat userbox politik|Partai Golkar]]</noinclude>

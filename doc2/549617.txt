@@ -1,0 +1,38 @@
+Ilyushin Il-46
+[[File:Ilyushin Il-46 top-view silhouette.png|thumb|300px]]
+'''Ilyushin Il-46''' adalah pesawat pembom bermesin jet diproduksi di Uni Soviet selama 1951-2, sebagai hasil dari arahan untuk merancang ulang proyek Il-42 (setengah gambar sudah selesai). 
+
+Revisi Spesifikasi itu untuk pesawat dengan dua kali jangkauan dan satu setengah kali beban bom, dengan prototipe siap untuk diserahkan untuk uji penerimaan negara pada bulan Juli 1952. Biro desain Ilyushin mulai merancang dua versi dari pesawat yang sama, bersayap lurus (Il-46) dan bersayap menyapu (Il-46s). Untuk memenuhi jadwal penerimaan Negara uji, Ilyushin hanya membangun versi bersayap lurus, takut bahwa desain, manufaktur dan karakteristik terbang dari pesawat bersayap menyapu mungkin menyebabkan penundaan.
+
+==Spesifikasi (Il-46)==
+
+===Karakteristik umum===
+*Kru: 3
+*Panjang: 25,325 m (83 ft 1 in)
+*Lebar sayap: 29 m (95 ft 1 in)
+*Area sayap: 105 m 2 (1,130.3 ft 2)
+*Berat kosong: 26.300 kg ( 57.991)
+*Berat kotor: 52.425 kg (115.597 )
+*Powerplant: 2  Lyul'ka AL-5 , 49,05 kN (11.025 lbf) dorong masing-masing masing-masing
+===Prestasi===
+*Kecepatan maksimum: 928 km / h (527 mph)
+*Rentang: 4.845 km (3.011 mil)
+*Layanan langit-langit: 12.700 m (ft)
+*Tingkat panjat: 12,25 m / s (2,412.4 ft / min)
+===Persenjataan ===
+*3.000 kg bom (beban normal)
+*6.000 kg bom (kelebihan)
+*2 x 23 mm Nudelman-Rikhter NR-23 meriam tetap di bawah badan pesawat pelabuhan
+*2 x 23 mm Nudelman-Rikhter NR-23 meriam di Il-K6 menara di bagian belakang badan pesawat.
+
+== Referensi ==
+{{Reflist}}
+{{commonscat|Ilyushin Il-46}}
+* {{cite book|last= Gordon|first= Yefim|title=OKB Ilyushin|year=2004|publisher=Ian Allan|location=London|pages=}}
+* {{cite web |title=Il-46/Il-46S, S.V.Ilyushin |work=Russian Aviation Museum |url=http://www.ctrl-c.liu.se/misc/ram/il-46.html|accessdate=2008-11-04}}
+<!-- ==External links== -->
+
+{{Ilyushin aircraft}}
+{{pesawat-stub}}
+
+[[Kategori:Pesawat terbang Ilyushin]]

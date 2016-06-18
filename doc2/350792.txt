@@ -1,0 +1,52 @@
+Windows 7 Tweaker
+{{Infobox software
+| name                   = Windows 7 Tweaker
+| screenshot             = [[Berkas:Interface_Windows_7_Tweaker_Versi_2.2.jpg| thumb| center| 250 px]]
+| caption                = Tampilan Windows 7 Tweaker versi 2.2 pada Windows 7
+| developer              = Suresoftwares Inc.
+| latest release version = 2.2
+| latest release date    = 2010
+| operating system       = [[Windows Vista]], [[Windows 7]]
+| genre                  = Utility
+| license                = Freeware
+| website                = [https://sites.google.com/site/suresoftwares suresoftwares]
+}}
+
+'''Windows 7 Tweaker''' adalah aplikasi perkakas yang dapat mengoptimalkan kinerja [[Windows 7]] dengan beberapa ''setting'' yang bisa diubah secara otomatis. [[Perangkat lunak]] ini telah mendukung antar muka [[sistem operasi]] 32-bit dan 64-bit. Meskipun ditujukan untuk pemakai Windows 7, program ini juga dapat berjalan dengan baik pada sistem operasi [[Windows Vista]]. 
+
+== Fitur dan menu utama ==
+
+Kumpulan perkakas berupa papan tombol (''icon'') diletakkan pada bagian kiri halaman utama yang berisi:
+
+* ''Tweaks''
+** ''Explorer''
+** ''Start Menu & Task Bar''
+** ''System''
+** ''Logon''
+** ''Right-click Menu''
+** ''Windows Features''
+** ''Special Tasks''
+
+Sedangkan pada bagian atas halaman utama terdapat 5 buah ''tab'', yaitu:
+
+* ''Restrictions''
+* ''Power Button''
+* ''Finder''
+* ''Notification Area''
+* ''Flashing Taskbar Buttons''
+
+== Lihat pula ==
+
+* [[Glary Utilities]]
+* [[Super Utilities]]
+* [[TweakNow PowerPack 2010]]
+
+== Pranala luar ==
+
+* {{en}} [https://sites.google.com/site/suresoftwares suresoftwares]
+
+{{software-stub}}
+
+[[Kategori:Perangkat lunak]]
+[[Kategori:Perangkat lunak Windows]]
+[[Kategori:Freeware]]

@@ -1,0 +1,26 @@
+Wikipedia:Mengembalikan ke revisi sebelumnya
+{{pintas|[[WP:REVERT]]}}
+Artikel-artikel [[Wikipedia]] dapat disunting siapa saja, sehingga tidak menutup kemungkinan di antara suntingan-suntingan tersebut adalah suntingan-suntingan merusak, seperti merusak isi artikel, menghapus isi, menambahkan isi yang ngawur dan lain sebagainya (lihat [[Wikipedia:Vandalisme]]). Setiap pengguna dapat membantu dengan memperbaiki isi artikel-artikel tersebut. Cara yang termudah adalah dengan "mengembalikan" artikel tersebut ke revisi sebelumnya yang dianggap relatif dapat diterima (baik).
+
+Ada dua cara mengembalikan suatu artikel bagi kedua pihak:
+* Pengurus
+* Pengguna bukan pengurus
+
+== Pengurus ==
+Pada halaman [[Wikipedia:sumbangan pengguna|sumbangan pengguna]], seorang [[Wikipedia:Pengurus|pengurus]] mempunyai tambahan pranala "kembalikan" pada baris-baris di mana pengguna tersebut adalah yang terakhir melakukan penyuntingan ke artikel yang bersangkutan. Pranala "kembalikan" juga muncul di [[Wikipedia:halaman perbedaan|halaman perbedaan]] ketika melihat perbedaan antara revisi terakhir dengan revisi sebelumnya pada suatu artikel.
+
+Dengan mengklik "kembalikan", maka artikel yang bersangkutan akan dikembalikan ke revisi terakhir di mana penyuntingnya bukanlah pengguna yang menyunting revisi terakhir dengan menambahkan secara otomatis ringkasan suntingan "Suntingan xxx dikembalikan ke revisi terakhir oleh yyy" dimana xxx adalah penyunting revisi terakhir dan yyy adalah penyunting dari revisi lama sebelum mulai disunting oleh xxx.
+
+== Pengguna bukan pengurus ==
+* Klik "versi terdahulu" di atas halaman, kemudian klik pada jam dan tanggal dari revisi terdahulu yang akan dipakai.
+* Ketika halaman revisi tersebut muncul, akan muncul kalimat seperti "(Revisi menurut 22:04, 25 Desember 2005)" di bawah judul "Dari Wikipedia Indonesia, ensiklopedia bebas berbahasa Indonesia".
+* Periksa bahwa Anda telah memilih revisi yang benar, kemudian klik "sunting". '''Penting:''' dalam kasus vandal, periksa bahwa revisi yang Anda pilih adalah revisi terakhir sebelum aksi vandal tersebut. Aksi vandal mungkin terdiri dari beberapa revisi.
+* Anda akan melihat peringatan di atas halaman seperti "Anda menyunting halaman revisi lama. Jika anda menyimpannya, semua perubahan yang dibuat sejak revisi ini akan hilang".
+* Jangan lupa menambahkan ringkasan seperti "Kembalikan ke suntingan terakhir oleh xxx" (secara otomatis:"Membatalkan revisi 1234567 oleh xxx") di mana xxx adalah nama pengguna atau alamat IP penyunting revisi dimaksud. Simpan halaman tersebut.
+* Klik lagi "versi terdahulu". Akan muncul baris baru sebagai hasil suntingan Anda tadi. Klik akhir di baris tersebut, maka Anda dapat melihat perbedaan dibandingkan revisi sebelumnya bahwa Anda telah membuang semua aksi vandal.
+
+== Lihat pula ==
+* [[Wikipedia:Tiga kali pengembalian]]
+* [[Wikipedia:Pengembali revisi]]
+
+[[Kategori:Bantuan|Mengembalikan ke revisi sebelumnya]]

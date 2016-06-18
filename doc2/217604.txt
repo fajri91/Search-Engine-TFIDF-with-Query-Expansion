@@ -1,0 +1,32 @@
+Gretl
+{{lowercase}}{{Infobox software
+| gretl
+| name = gretl
+| logo = [[Berkas:Gretl logo.png]]
+| screenshot = [[Berkas:Gretl screenshot.png|300px|Screenshot dari gretl]]
+| caption = Screenshot of gretl
+| developer = [http://sourceforge.net/project/memberlist.php?group_id=36234 Tim gretl]
+| programming language = [[C (bahasa pemrograman)|C]]
+| released = 31 Januari, [[2000]]
+| latest_release_version = 1.8.5
+| latest_release_date = {{release date and age|2009|10|10}}
+| latest_preview_version = Melalui [[Concurrent Versions System|CVS]]
+| latest_preview_date = 
+| operating_system = [[Cross-platform]]
+| language = [[Multilingual]] (10)
+| status = Aktif
+| genre = Analisa [[statistika]]
+| license = [[GNU General Public License|GPL]]
+| source_model = [[Free and open source software]]
+| website = [http://gretl.sourceforge.net/ gretl.sourceforge.net]
+}}
+
+'''gretl''' adalah [[program komputer]] yang dipakai untuk analisis [[statistika]] berbasis [[perangkat lunak bebas]], [[GNU]] dan lebih berorientasi untuk aplikasi [[ekonometri]].
+
+== Pranala luar ==
+* [http://gretl.sourceforge.net/ Situs web Gretl]
+* [http://sourceforge.net/projects/gretl/ Proyek Gretl]
+
+{{software-stub}}
+
+[[Kategori:Perangkat lunak statistika]]

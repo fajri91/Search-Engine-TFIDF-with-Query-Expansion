@@ -1,0 +1,34 @@
+Wereng coklat
+{{Taxobox
+| name = ''Nilaparvata lugens''
+| image = Nilaparvata lugens - Brown planthopper - UGA5190055.jpg
+| image_width = 220px
+| image_caption = 
+| regnum = [[Animalia]]
+| phylum = [[Arthropod]]a
+| subphylum = [[Hexapoda]]
+| classis = [[Insect]]a
+| ordo = [[Hemiptera]]
+| familia = [[Delphacidae]]
+| genus = [[Nilaparvata]]
+| species = '''''N. lugens'''''
+| binomial = ''Nilaparvata lugens''
+| binomial_authority = (Stl, )
+| synonyms =
+}}
+'''Wereng coklat''' (''Nilaparvata lugens'') adalah salah satu [[hama]] [[padi]] yang paling berbahaya dan merugikan, terutama di [[Asia Tenggara]] dan [[Asia Timur]]. Serangga kecil ini menghisap cairan tumbuhan dan sekaligus juga menyebarkan beberapa [[virus]] (terutama [[reovirus]]) yang menyebabkan penyakit [[tungro]]).<ref>Noda H, K Ishikawa, H Hibino, T Ornura 1991. [http://vir.sgmjournals.org/cgi/reprint/72/10/2425.pdf A reovirus in the brown planthopper, ''Nilaparvata lugens'']. J Gen Virol 72: 2425-2430.</ref> Kumbang lembing memakan wereng dan anaknya sedangkan sejumlah lebah berperan sebagai pemangsa telurnya. Pemangsa alami ini dapat mengendalikan populasi wereng di bawah batas ambang populasi wereng terutama musim tanam dengan jumlah hama sedikit sehingga mencegah berjangkitnya virus utama.
+
+== Catatan kaki ==
+
+{{reflist}}
+
+== Pranala luar ==
+* [http://www.ento.csiro.au/aicn/name_s/b_2799.htm Gambar di laman csiro]
+
+
+{{serangga-stub}}
+
+<!--[[Wereng coklat]]-->
+
+[[Kategori:Hemiptera]]
+[[Kategori:Hama tanaman]]

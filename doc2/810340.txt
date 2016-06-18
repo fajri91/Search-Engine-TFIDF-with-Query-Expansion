@@ -1,0 +1,59 @@
+Kromatografi afinitas
+'''Kromatografi afinitas''' adalah metode pemisahan campuran [[biokimia]] berdasarkan interaksi spesifiknya, misalnya antara [[antigen]] dan [[antibodi]], [[enzim]] dan [[substrat]], atau [[reseptor]] dan [[ligan]].
+
+== Penggunaan ==
+Kromatografi afinitas dapat digunakan untuk
+* Memurnikan dan memekatkan suatu bahan dari campurannya ke dalam larutan penyangga
+* Mengurangi jumlah bahan dalam suatu campuran
+* Mengamati senyawa biologi yang terikat pada suatu bahan
+* Memurnikan dan memekatkan larutan enzim.
+
+== Prinsip ==
+Fasa diam biasanya adalah suatu matriks gel, banyak digunakan adalah agarosa; suatu molekul gula linier yang diturunkan dari alga. Umumnya, titik awalnya adalah larutan gugus molekul heterogen yang tidak diketahui, seperti sel lisat, medium pertumbuhan atau [[Plasma darah|serum]] darah. Molekul yang dikehendaki memiliki sifat yang sudah diketahui dan didefinisikan, dan dapat dieksploitasi selama proses afinitas pemurnian. Proses itu sendiri dapat digambarkan sebagai penjeratan, dengan target molekul yang akan dijerat pada fasa diam. Molekul lainnya dalam fasa gerak tidak akan terjerat karena tidak memiliki sifat ini. Fasa diam kemudian dipisahkan dari campuran, dicuci dan molekul sasaran dibebaskan dari jeratan melalui proses elusi. Kromatografi afinitas paling banyak digunakan untuk pemurnian [[protein rekombinan]].
+
+== Pengaturan kolom dan tumpak ==
+[[Berkas:Affinity-column.png|right|thumb|323x323px|[[Kromatografi kolom]]]]
+[[Berkas:Batch.jpg|right|thumb|375x375px|Kromatografi tumpak]]
+Pengikatan pada fasa padat dapat diperoleh melalui kromatografi kolom yang mana medium padat dikemas dalam suatu kolom. Campuran awal dialirkan melalui kolom, kemudian larutan pencuci (biasanya larutan penyangga) dialirkan melalui kolom sehingga terjadi elusi. Eluat (hasil elusi) yang keluar dari kolom kemudian dikumpulkan. Alternatif lain, pengikatan dapat dicapai menggunakan perlakuan tumpak (''batch''), dengan penambahan campuran awal ke fasa padat dalam bejana, mencampurnya, kemudian memisahkan fasa padat dan fasa cairnya, dicuci, disentrifuga, ditambahkan penyangga untuk elusi, disentrifuga ulang, dan eluat dipisahkan.
+
+Terkadang dilakukan metode hibrida seperti pengikatan dilakukan dengan metode tumpak, tetapi fasa padat dengan target molekul yang akan diikat dikemas ke dalam kolom dan dicuci kemudian dielusi dalam kolom.
+
+Metode ketiga, adsorpsi lapisan terekspansi, merupakan kombinasi kelebihan kedua metode di atas, juga telah dikembangkan. Partikel fasa padat diletakkan di dalam kolom, sementara fasa cair dipompa ke dalam kolom dari bagian bawah dan keluar di bagian atas. Gaya gravitasi partikel memastikan bahwa fasa padat tidak keluar dari kolom bersama-sama dengan fasa cair.
+
+Kolom afinitas dapat dielusi dengan mengubah konsentrasi garam, pH, pl, kekuatan muatan dan ion secara langsung maupun bertahap untuk memisahkan partikel yang diinginkan.
+
+== Penggunaan khusus ==
+Kromatografi afinitas dapat digunakan untuk sejumlah aplikasi, termasuk pemurnian asam nukleat, pemurnian protein dari ekstrak bebas sel, dan pemurnian dari darah.
+
+=== Imunoafinitas ===
+Kegunaan lain prosedur ini adalah pemurnian afinitas antibodi dari serum darah. Jika serum diketahui mengandung antibodi terhadap antigen tertentu (misalnya jika serum dari organisme yang imun terhadap antigen yang akan dianalisis), maka serum tersebut dapat digunakan untuk pemurnian afinitas dari antigen tersebut. Ini dikenal juga sebagai Kromatografi Imunoafinitas. Sebagai contoh, jika suatu organisme imun terhadap protein GST-fusi, maka ia akan memproduksi antibodi yang melawan protein-fusi, dan kemungkinan antibodi tersebut melawan pula GST yang terlabel pada protein-fusi. Protein dapat berikatan secara kovalen pada penyangga padat seperti agarosa dan digunakan sebagai ligan afinitas dalam pemurnian antibodi dari serum imunitas.
+
+Protein GST dan protein fusi-GST dapat dipisahkan secara sempurna. Serum pertama kali diikatkan dengan matriks afinitas GST. Ini akan menghilangkan antibodi yang melawan bagian GST dari protein fusi. Serum kemudian dipisahkan dari penyangga padat dan dibiarkan berikatan dengan matriks protein fusi-GST. Ini menyebabkan semua antibodi yang mengenali antigen untuk tertangkap pada penyangga padat. Elusi antibodi yang diinginkan biasanya dapat dilakukan menggunakan larutan dapar ber-pH rendah seperti glisin pH 2,8. Eluat dikumpulkan ke dalam larutan dapar tris atau fosfat untuk menetralkan eluen dapar ber pH rendah, dan menahan degradasi aktivitas antibodi. Ini merupakan contoh baik penggunakan pemurnian afinitas untuk memurnikan protein fusi-GST, untuk menghilangkan antibodi anti-GST dari dalam serum, dan memurnikan antibodi yang diinginkan.
+
+Strategi yang lebih sederhana seringkali dilakukan untuk memurnikan antibodi yang terbentuk akibat perlawanan [[antigen]] peptida. Ketika antigen peptida diproduksi secara sintetis, residu [[sistein]] terminal ditambahkan di terminal N- atau C- dari peptida tersebut. Residu sistein mengandung gugus fungsi [[sulfhidril]] yang memungkinkan peptida dengan mudah berkonjugasi dengan suatu protein pembawa (misal: ''Keyhole Limpet Hemocyanin (KLH)''). Peptida dengan kandungan sistein yang sama juga diimobilisasi pada resin agarosa melalui residu sistein dan kemudian digunakan untuk memurnikan antibodi.
+
+Kebanyakan [[antibodi monoklon]] telah dimurnikan menggunakan kromatografi afinitas di atas fasa diam [[imunoglobulin]]-spesifik [[Protein A]] atau [[Protein G]], yang diturunkan dari bakteri.<ref name="pmid18474040">Uhln M (2008).[http://www.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&tool=sumsearch.org/cite&retmode=ref&cmd=prlinks&id=18474040 "Affinity as a tool in life science."].''Biotechniques'''''44'''(5): 64954.[[Pengenal objek digital|doi]]:[[doi:10.2144/000112803|10.2144/000112803]].[[PubMed|PMID]][https://www.ncbi.nlm.nih.gov/pubmed/18474040 18474040].</ref>
+
+=== Kromatografi afinitas ion logam imobilisasi ===
+Kromatografi afinitas ion logam imobilisasi (En: ''Immobilized metal ion affinity chromatography, IMAC'') berdasarkan pada ikatan kovalen koordinasi spesifik dari asam amino, terutama histidin, terhadap logam. Cara kerja teknik ini adalah membiarkan protein berafinitas dengan ion logam yang akan diretensi dalam kolom yang mengandung ion logam imobilisasi, seperti kobal, nikel, tembaga, untuk memurnikan protein atau peptida yang mengandung histidin, besi, seng atau galium untuk pemurnian protein atau peptida terfosforilasi. Sebagian besar protein alami tidak mempunyai afinitas dengan ion logam, oleh karenanya [[teknologi DNA rekombinan]] dapat digunakan untuk mengintrodusir label protein semacam ini ke dalam gen yang sesuai. Metode yang digunakan untuk mengelusi protein yang diinginkan meliputi perubahan pH, atau penambahan molekul kompetitor, misalnya [[imidazola]].
+[[Berkas:Nickel_resin.jpg|thumb|267x267px|Kromatografi kolom berisi manik-manik nikel-agarosa yang digunakan untuk pemurnian protein dengan penanda histidin]]
+
+=== Protein rekombinan ===
+Penggunaan paling umum kromatografi afinitas saat ini adalah pemurnian protein rekombinan. Protein dengan afinitas yang diketahui [[Protein tag|ditandai]], untuk membantu pemurniannya. Protein mungkin sudah mengalami modifikasi genetik untuk memungkinkan memiliki ikatan afinitas. Ini disebut dengan protein fusi. Penanda meliputi [[glutathion]]-S-transferase (GST), heksahistidin ([[Histidina|His]]), dan [[maltosa]] terikat protein (En: ''maltose binding protein'', MBP). Penanda histidin mempunyai afinitas terhadap ion [[nikel]] atau [[kobalt]] yang telah diimobilisasi dengan pembentukan ikatan kovalen koordinasi dengan zat pengkhelat pada fasa diam. Untuk elusi, digunakan pelarut yang mampu membentuk senyawa dengan ligan logam, misalnya [[imidazola]], dengan volume berlebih. GST memiliki afinitas terhadap glutation yang secara komersial tersedia sebagai glutation agarosa. Selama elusi, kelebihan glutation digunakan untuk menggantikan protein yang diberi tanda.
+
+=== Lektin ===
+Kromatografi afinitas [[lektin]] adalah salah satu bentuk kromatografi afinitas di mana [[lektin]] digunakan untuk memisahkan komponen dalam sampel. Lektin, seperti [[Konkanavalin A]]<ref>[http://www.bio-world.com/site/accounts/masterfiles/MSDS/MS-22070010.pdf bioWORLD, Concanavalin A - Specifically binds to mannosyl and glucosyl residues of polysaccharides and glycoproteins. See MSDS]</ref> adalah protein yang dapat mengikat molekul [[karbohidrat]] (gula) secara spesifik. Aplikasi paling umum adalah untuk memisahkan [[glikoprotein]] dari protein non-glikoslasi, atau satu [[glikoform]] dengan glikoform lainnya.<ref>[http://www.gelifesciences.com/aptrix/upp01077.nsf/Content/protein_purification~affinity~immobilized_lectin GE Healthcare Life Sciences, Immobilized lectin]</ref>
+
+== Lihat juga ==
+* [[Kromatografi afinitas lemah]]
+
+== Referensi ==
+{{Reflist}}
+
+== Pranala luar ==
+* [http://www.gelifesciences.com/handbooks Affinity Chromatography Handbook by GE Healthcare Life Sciences]
+
+{{portalkimia}}
+{{Kromatografi}}
+
+[[Kategori:Kromatografi]]

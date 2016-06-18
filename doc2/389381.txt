@@ -1,0 +1,26 @@
+Templat:Kabat, Banyuwangi
+{{Navigasi ID Desa
+|provinsi=Jawa Timur
+|dati2=Kabupaten
+|nama dati2=Banyuwangi
+|nama kecamatan=Kabat
+|d1=Badean
+|d2=Bareng
+|d3=Benelan Lor
+|d4=Bunder
+|d5=Dadapan
+|d6=Gombolirang
+|d7=Kabat
+|d8=Kalirejo
+|d9=Kedayunan
+|d10=Labanasem
+|d11=Macanputih
+|d12=Pakistaji
+|d13=Pendarungan
+|d14=Pondoknongko
+|d15=Sukojati
+|d16=Tambong
+}}<noinclude>
+[[Kategori:Templat desa/kelurahan di Jawa Timur|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Banyuwangi|{{PAGENAME}}]]
+</noinclude>

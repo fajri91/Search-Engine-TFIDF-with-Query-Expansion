@@ -1,0 +1,2 @@
+Wikipedia:MediaWiki
+#REDIRECT [[MediaWiki]]

@@ -1,0 +1,94 @@
+Hannover 96
+{{Football club infobox |
+  clubname = Hannover 96 |
+  image    = [[Berkas:Hannover 96.png|Center|200px]] |
+  fullname = Hannoverscher Sportverein von 1896  |
+  nickname = Die Roten (Si Merah) |
+  founded  = {{Start date and age|1896|4|12}} |
+  ground   = [[AWD-Arena]]
+| capacity = 49,000
+| chrtitle = Presiden
+| chairman = Martin Kind
+| manager  = [[Tohmas Schaaf]]
+| league   = [[Fuball-Bundesliga|Bundesliga]]
+|season = [[Bundesliga 201314|201314]]
+|position = ke-10, Bundesliga
+|season1 = [[Bundesliga 201213|201213]]
+|position1 = ke-9, Bundesliga
+|season2 = [[Bundesliga 201112|201112]]
+|position2 = ke-7, Bundesliga
+| current  = Fuball-Bundesliga 201415
+| website  = http://www.hannover96.de/CDA/index.php?id=7767
+| pattern_la1=_hannover1213h
+| pattern_b1=_hannover1213h
+| pattern_ra1=_hannover1213h
+| pattern_sh1=_white_stripes
+| pattern_so1=_hannover1213h
+| leftarm1=8F0000
+| body1=8F0000
+| rightarm1=8F0000
+| shorts1=000000
+| socks1=FFFFFF
+}}
+
+'''Hannover 96''' adalah klub sepak bola Jerman yang berbasis di kota [[Hannover]]. Prestasi yang dimiliki klub cukup baik dengan mendapatkan dua gelar juara selama berkompetisi di liga profesional Jerman.
+
+== Prestasi ==
+* 2 Juara Jerman : 1938, 1954 
+* 1 Piala Jerman : 1992 
+
+== Daftar pemain ==
+
+=== Skuat utama ===
+{{updated|20 Juli 2014}}<ref>http://www.hannover96.com/CDA/index.php?id=profis0</ref>
+
+{{Fs start}}
+{{Fs player|no= 1 |nat=GER |pos=GK |name=[[Ron-Robert Zieler]]}}
+{{Fs player|no= 2 |nat=DEN |pos=DF |name=[[Leon Andreasen]]}}
+{{Fs player|no= 3 |nat=CHI |pos=DF |name=[[Miiko Albornoz]]}}
+{{fs player|no= 4 |nat=JPN |pos=DF |name=[[Hiroki Sakai]]}}
+{{Fs player|no= 5 |nat=SEN |pos=DF |name=[[Salif San]]}}
+{{Fs player|no= 6 |nat=TUR |pos=MF |name=[[Ceyhun Glselam]]}}
+{{Fs player|no= 7 |nat=GER |pos=MF |name=[[Edgar Prib]]}}
+{{Fs player|no= 8 |nat=GER |pos=MF |name=[[Manuel Schmiedebach]]}}
+{{Fs player|no= 9 |nat=POL |pos=FW |name=[[Artur Sobiech]]}}
+{{Fs player|no=10 |nat=GER |pos=MF |name=[[Lars Stindl]]}}
+{{Fs player|no=11 |nat=ESP |pos=FW |name=[[Joselu]]}}
+{{Fs player|no=13 |nat=GER |pos=FW |name=[[Jan Schlaudraff]]}}
+{{Fs player|no=14 |nat=GER |pos=GK |name=[[Markus Miller]]}}    
+{{Fs player|no=15 |nat=GER |pos=MF |name=[[Andre Hoffmann]]}}
+{{Fs player|no=17 |nat=GER |pos=DF |name=[[Stefan Thesker]]}}
+{{Fs player|no=19 |nat=GER |pos=DF |name=[[Christian Schulz]]}}
+{{fs mid}}
+{{fs player|no=20 |nat=BRA |pos=DF |name=[[Felipe Trevizan Martins|Felipe]]}}
+{{Fs player|no=21 |nat=GER |pos=GK |name=Konstantin Fuhry}}
+{{Fs player|no=23 |nat=AUT |pos=GK |name=[[Samuel Radlinger]]}}
+{{Fs player|no=24 |nat=GER |pos=DF |name=[[Christian Pander]]}}
+{{Fs player|no=25 |nat=BRA |pos=DF |name=[[Marcelo Antnio Guedes Filho|Marcelo]]}}
+{{Fs player|no=26 |nat=TUR |pos=FW |name=[[Kenan Karaman]]}}
+{{Fs player|no=27 |nat=GER |pos=DF |name=Vladimir Rankovic}}
+{{Fs player|no=28 |nat=JPN |pos=MF |name=[[Hiroshi Kiyotake]]}}
+{{fs player|no=30 |nat=GER |pos=DF |name=[[Florian Ballas]]}}
+{{Fs player|no=32 |nat=GER |pos=MF |name=[[Leonardo Bittencourt]]}}
+{{Fs player|no=33 |nat=GER |pos=DF |name=Yannik Schulze}}
+{{fs player|no=34 |nat=GER |pos=MF |name=[[Tim Dieren]]}}
+{{Fs player|no=36 |nat=GER |pos=MF |name=Sebastian Ernst}}
+{{Fs player|no=37 |nat=GER |pos=MF |name=Niklas Teichgrber}}
+{{fs player|no=38 |nat=GER |pos=FW |name=[[Valmir Sulejmani]]}}
+{{Fs player|no=40 |nat=GER |pos=FW |name=Timo Knigsman}}
+{{fs player|no=-  |nat=AUT |pos=GK |name=[[Robert Almer]]}}
+{{Fs end}}
+
+== Referensi ==
+{{reflist}}
+
+== Pranala luar ==
+{{Commonscat|Hannover 96}}
+* [http://www.hannover96.com/ Official English website]
+* [http://www.awd-arena.de/relaunch/awd_arena/de/index.html AWD Arena]
+
+{{Bundesliga}}
+{{klub-sb-stub}}
+
+[[Kategori:Tim sepak bola Jerman|Hannover 96]]
+[[Kategori:Hannover 96]]

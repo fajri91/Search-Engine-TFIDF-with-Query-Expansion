@@ -1,0 +1,11 @@
+Templat:Country data Wilayah Persekutuan
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Wilayah Persekutuan
+| flag alias = Flag of the Federal Territory - Malaysia.png
+| size = {{{size|}}}
+| name = {{{name|}}}
+| kategori = Malaysia
+<noinclude>
+| redir1 = Federal Territory (Malaysia)
+</noinclude>
+}}<noinclude>{{Country data Malaysia/doc}}</noinclude>

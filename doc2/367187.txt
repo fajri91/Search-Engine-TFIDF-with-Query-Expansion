@@ -1,0 +1,17 @@
+Templat:Tondong Tallasa, Pangkajene dan Kepulauan
+{{Navigasi ID Desa 
+|provinsi= Sulawesi Selatan
+|dati2= Kabupaten
+|nama dati2= Pangkajene dan Kepulauan
+|nama kecamatan= Tondong Tallasa
+|d1= Bantimurung
+|d2= Bonto Birao
+|d3= Bulu Tellue
+|d4= Lanne
+|d5= Malaka
+|d6= Tondongkura
+}}
+<noinclude>
+[[Kategori:Templat desa/kelurahan di Sulawesi Selatan|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Pangkajene dan Kepulauan|{{PAGENAME}}]]
+</noinclude>

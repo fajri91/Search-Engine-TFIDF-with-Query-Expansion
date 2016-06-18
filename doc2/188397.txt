@@ -1,0 +1,25 @@
+Sabiaceae
+{{Taxobox
+| name =Sabiaceae
+| color = lightgreen
+| image = Meliosma veitchorum2.jpg
+| image_width = 200px
+| image_caption = ''Meliosma veitchorum''
+| regnum = [[Plantae]]
+| divisio = [[Magnoliophyta]]
+| unranked_classis = [[Eudikotil]]
+| unranked_ordo = 
+| ordo = [[Sabiales]]
+| familia = '''Sabiaceae''' 
+| familia_authority = 
+| subdivision_ranks = [[Genus|Genera]]
+| subdivision = 
+lihat teks.
+}}
+'''Sabiaceae''' adalah salah satu [[familia|suku]] anggota [[tumbuhan berbunga]]. Menurut [[sistem klasifikasi APG II]] suku ini termasuk ke dalam [[klad]] '''[[Eudikotil]]''' namun belum diurutkan di bawah [[ordo (biologi)|bangsa]] apa pun. Penelitian lebih lanjut kemudian memastikan bahwa suku ini layak berada di bawah [[Sabiales]].
+
+{{commons|Sabiaceae}}
+{{botani-stub}}
+
+[[Kategori:Sabiaceae| ]]
+[[Kategori:Sabiales]]

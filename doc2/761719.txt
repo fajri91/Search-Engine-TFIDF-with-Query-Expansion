@@ -1,0 +1,136 @@
+Entrepreneur internet
+'''[[wirausahawan|Entrepreneur]] [[Internet]]''' (atau [[wirausahawan]] internet) adalah [[wirausahawan]], pemilik, pendiri atau manajer dari bisnis berbasis [[Internet]] yang menghasilkan keuntungan dengan berani mengambil [[risiko]] ataupun inisiatif.  <ref>{{cite news|title=On Being an Internet Entrepreneur|url=http://radoff.com/blog/2009/11/28/on-being-an-internet-entrepreneur/|accessdate=2009-11-30}}</ref>  Mereka termasuk pendiri perusahaan internet dan orang-orang yang bergabung ke perusahaan karena kemampuan wirausahanya, bukan hanya karena ketajaman kemampuan bisnis atau akuntansi, seperti yang sering terjadi dimana seorang wirausaha diminta perusahaan untuk menjadi CEO. 
+
+==Daftar Entrepreneur Internet==
+{{dynamic list}}
+
+{| class="wikitable sortable" border="1"
+|-
+! Nama !! Perusahaan
+|-
+| {{sortname |last= Adler |first= Trip}} || [[Scribd]]
+|-
+| {{sortname |last= Allen |first= Paul}} || [[Microsoft]]
+|-
+| {{sortname |last= Anderson |first= Tom |link=Tom Anderson (MySpace)}} || [[Myspace]]
+|-
+| {{sortname |last= Andreessen |first= Marc}} || [[Netscape]]
+|-
+| {{sortname |last= Arrington |first= Michael}} || [[TechCrunch]]
+|-
+| {{sortname |last= Bezos |first= Jeff}} || [[Amazon.com]]
+|-
+| {{sortname |last= Brin |first=Sergey}} || [[Google]]
+|-
+| {{sortname |last= Butterfield |first= Stewart}} || [[Flickr]]
+|-
+| {{sortname |last= Camp |first= Garrett}} || [[Uber (company)|Uber]]
+|-
+| {{sortname |last= Chen |first= Steve |dab= YouTube}} || [[YouTube]]
+|-
+| {{sortname |last= Clark |first= James H.}} || [[Netscape]]
+|-
+| {{sortname |last= Cuban |first= Mark}} || [[Broadcast.com]]
+|-
+| {{sortname |last= Dayton |first= Sky}} || [[EarthLink]]
+|-
+| {{sortname |last= De Santis |first= Nicolas}} || [[Opodo]]
+|-
+| {{sortname |last= DeWolfe |first= Chris}} || [[Myspace]]
+|-
+| {{sortname |last= Donahoe |first= John}} || [[eBay]]
+|-
+| {{sortname |last= Dorsey |first= Jack}} || [[Twitter]]
+|-
+| {{sortname |last= Fake |first= Caterina}} || [[Flickr]]
+|-
+| {{sortname |last= Fallesen |first= Steffan Sondermark}} || [[Servage Hosting]]
+|-
+| {{sortname |last= Fanning |first= Shawn}} || [[Napster]]
+|-
+| {{sortname |last= Filo |first= David}} || [[Yahoo]]
+|-
+| {{sortname |last= Flint |first= Pete}} || [[Trulia]]
+|-
+| {{sortname |last= Gates |first= Bill}} || [[Microsoft]]
+|-
+| {{sortname |last= Gruener |first= Garrett}} || [[Ask.com]]
+|-
+| {{sortname |last= Hastings |first= Reed}} || [[Netflix]]
+|-
+| {{sortname |last= Hughes |first= Chris}} || [[Facebook]]
+|-
+| {{sortname |last= Hurley |first= Chad}} || [[YouTube]]
+|-
+| {{sortname |last= Karim |first= Jawed}} || [[YouTube]]
+|-
+| {{sortname |last= Klein |first= Zach}} || [[Vimeo]]
+|-
+| {{sortname |last= Levchin |first= Max}} || [[Paypal]]
+|-
+| {{sortname |last= Levitt |first= Jeremy}} || [[Service Seeking]], PodProperty
+|-
+| {{sortname |last= Moskovitz |first= Dustin}} || [[Facebook]]
+|-
+| {{sortname |last= Musk |first= Elon}} || [[Paypal]]
+|-
+| {{sortname |last= Navin |first= Ashwin}} || [[BitTorrent (company)|BitTorrent]]
+|-
+| {{sortname |last= Newmark |first= Craig}} || [[Craigslist]]
+|-
+| {{sortname |last= Nosek |first= Luke}} || [[Paypal]]
+|-
+| {{sortname |last= Omidyar |first= Pierre}} || [[eBay]]
+|-
+| {{sortname |last= Page |first= Larry}} || [[Google]]
+|-
+| {{sortname |last= Parker |first= Sean}} || [[Spotify]]
+|-
+| {{sortname |last= Parsons |first= Bob}} || [[Go Daddy]]
+|-
+| {{sortname |last= Pirillo |first= Chris}} || LockerGnome, Inc.
+|-
+| {{sortname |last= Poole |first= Christopher}} || [[4chan.org]]
+|-
+| {{sortname |last= Raichur |first= Arvind |link= Arvind A. Raichur}} || AllLaw.com, Inc.
+|-
+| {{sortname |last= Rose |first= Kevin}} || [[Digg]]
+|-
+| {{sortname |last= Saverin |first= Eduardo}} || [[Facebook]]
+|-
+| {{sortname |last= Schachter |first= Joshua}} || [[Delicious (website)|Delicious]]
+|-
+| {{sortname |last= Thiel |first= Peter}} || [[Paypal]]
+|-
+| {{sortname |last= Wagner |first= Todd}} || [[Broadcast.com]]
+|-
+| {{sortname |last= Wales |first= Jimmy}} || [[Wikipedia]]
+|-
+| {{sortname |last= Warthen |first= David}} || [[Ask.com]]
+|-
+| {{sortname |last= Williams |first=Evan |link= Evan Williams (Internet entrepreneur)}} || [[Blogger (service)|Blogger]], [[Twitter]]
+|-
+| {{sortname |last= Williams |first= Matt |link= Matt Williams (Internet entrepreneur)}} || Pro.com
+|-
+| {{sortname |last= Yang |first= Jerry |link= Jerry Yang (entrepreneur)}} || [[Yahoo]]
+|-
+| {{sortname |last= Zuckerberg |first= Mark}} || [[Facebook]]
+|}
+
+== Kunjungi juga ==
+* [[Daftar Wirausahawan]]
+* [[Perusahaan Startup]]
+* [[Inkubator Bisnis]]
+* [[Proyek Skunkworks]]
+* [[Teori Keputusan ]]
+
+==Referensi==
+{{Reflist}}
+
+== Bacaan lebih lanjut ==
+* Livingston, Jessica, [http://books.google.com/books?id=oFTYD9IHX5YC&printsec=frontcover Founders at work: stories of startups' early days], Berkeley, CA : Apress ; New York : Distributed to the book trade worldwide by Springer-Verlag New York, 2007. ISBN 978-1-59059-714-9
+
+[[Category:Entrepreneur]
+[[Category:Internet-related lists|entrepreneurs]]
+[[Category:Lists of businesspeople]]
+[[Category:Technology company founders]]

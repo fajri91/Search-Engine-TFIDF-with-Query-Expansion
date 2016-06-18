@@ -1,0 +1,38 @@
+Templat:Yellowcard
+{{Navbox Musical artist
+| name  = Yellowcard
+| listclass = hlist
+| title =[[Yellowcard]]
+| navbar = plain
+| background = group_or_band
+
+| above = '''[[Ryan Key]]  [[Sean Mackin (Musician)|Sean Mackin]]  Ryan Mendez  Sean O'Donnell  [[Longineu W. Parsons III]]'''<br>Ben Dobson  Todd Clarry  Warren Cooke  [[Alex Lewis (musician)|Alex Lewis]]  [[Ben Harper (musician)|Ben Harper]]  [[Peter Mosely]]
+
+| group1 = Album studio
+| list1  = ''[[Midget Tossing]]''  ''[[Where We Stand]]''  ''[[One for the Kids]]''  ''[[Ocean Avenue (album)|Ocean Avenue]]''  ''[[Lights and Sounds]]''  ''[[Paper Walls]]''  ''[[When You're Through Thinking, Say Yes]]''
+
+| group2 = EP
+| list2  = ''[[Still Standing EP|Still Standing]]''  ''[[The Underdog EP]]''  ''[[Deep Cuts (album Yellowcard)|Deep Cuts]]''
+
+| group3 = Album live
+| list3  = ''[[Live from Las Vegas at the Palms]]''
+
+| group4 = DVD
+| list4  = ''[[Beyond Ocean Avenue: Live at the Electric Factory]]''
+
+| group5 = Singel
+| list5  = "[[Way Away]]"  "[[Ocean Avenue (lagu)|Ocean Avenue]]"   "[[Only One (lagu Yellowcard)|Only One]]"  "[[Lights and Sounds (lagu)|Lights and Sounds]]"  "[[Rough Landing, Holly]]"  "[[Light Up the Sky]]"  "[[For You, and Your Denial]]"  "[[Hang You Up]]"  "Sing For Me"
+
+| group6 = Lagu lain
+| list6  = "[[Believe (lagu Yellowcard)|Believe]]"  "[[Spider-Man 2 (soundtrack)|Gifts and Curses]]"
+
+| group7 = Label
+| list7  = [[EMI]]  [[Capitol Records|Capitol]]  [[Takeover]]  [[Lobster Records|Lobster]]  [[Fueled by Ramen]]  [[Hopeless Records]]
+
+| group8 = Artikel terkait
+| list8  = [[Diskografi Yellowcard|Diskografi]]
+}}
+<noinclude>
+[[Kategori:Templat band]]
+
+</noinclude>

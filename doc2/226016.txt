@@ -1,0 +1,39 @@
+Curtea de Arge
+{{Infobox Settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+|subdivision_type = [[Negara]]
+|subdivision_name       = {{ROU}}
+|timezone=[[Eastern European Time|EET]]
+|utc_offset=+2
+|timezone_DST=[[Eastern European Summer Time|EEST]]
+|utc_offset_DST=+3
+|map_caption = Lokasi Curtea de Arge
+|official_name=Curtea de Arge
+|subdivision_type1=[[Counties of Romania|County]]
+|subdivision_name1=County Arge|
+|subdivision_type2=[[Status]]
+|subdivision_name2={{Autolink|Municipalitas}}
+|settlement_type=Municipalitas
+|leader_title=[[Wali kota]]
+|leader_name=Nicolae Diaconu
+|leader_party=[[Partidul Social Democrat]]
+|area_total_km2=
+|population_as_of=2004
+|population_total=32500
+|latd=45|latm=08|lats=21|latNS=N|longd=24|longm=40|longs=45|longEW=E
+|website=
+}}
+'''Curtea de Arge''' adalah kota yang terletak di [[Rumania]], terletak di tepi timur [[Sungai Arge]]. Kota ini merupakan bagian dari [[County Arge]].
+
+== Populasi ==
+* 1900: 4.210 
+* 2000: 32.628
+* 2004: 32.500
+
+== References ==
+{{Reflist}}
+
+{{DEFAULTSORT:Curtea de Arges}}
+[[Kategori:Kota di Rumania]]
+
+
+{{Rumania-geo-stub}}

@@ -1,0 +1,68 @@
+Nelson Piquet
+{{Infobox F1 driver|
+  Name = Nelson Piquet |
+  Image =  Piquet 1991.jpg|
+  Caption = Piquet di GP AS 1991 |
+  Nationality = {{negaranama|Brasil}}|
+  Date of birth = {{Tanggal lahir dan umur|1952|8|17|df=y}} |
+  Years = {{F1|1978}} - {{F1|1991}} |
+  Team(s) =  [[Ensign]], non-works [[Team McLaren|McLaren]], [[Brabham]], [[WilliamsF1|Williams]], [[Team Lotus|Lotus]], [[Benetton Formula|Benetton]] |
+  Races = 207 (204 start) |
+  Championships = 3  ({{f1|1981}}, {{f1|1983}}, {{f1|1987}}) |
+  Wins = 23 |
+  Podiums = 60 |
+  Points = 481.5 (485.5)<ref name="droppedpoints"/> |
+  Poles = 24 |
+  Fastest laps = 23 |
+  First race = [[Grand Prix F1 Jerman 1978|Grand Prix Jerman 1978]] |
+  First win = [[Grand Prix F1 Amerika Serikat Barat 1980|Grand Prix AS Barat 1980]] |
+  Last win = [[Grand Prix F1 Kanada 1991|Grand Prix Kanada 1991]] |
+  Last race = [[Grand Prix F1 Australia 1991|Grand Prix Australia 1991]] |
+}}
+'''Nelson Piquet''' ({{lahirmati||17|8|1952}}) merupakan mantan pembalap [[F1]] yang sudah 3 kali merebut gelar juara dunia. Piquet merebut juara dunia pada tahun 1981, 1983, dan 1987.
+
+Ia juga menjadi mentor bagi [[Michael Schumacher]], ketika Schumi memulai karier F1-nya pada tahun 1991, saat Schumi baru saja bergabung bersama tim Benetton. Anak Piquet, [[Nelson Angelo Piquet]], saat ini juga turun sebagai pembalap F1 di tim [[Renault F1]].
+
+== Referensi ==
+
+{{reflist}}
+{{Navboxes
+|list1 =
+<span>
+{{S-start}}
+{{s-sports}}
+{{succession box
+|before=[[Alan Jones]] <br /> {{F1|1980}}
+|after=[[Keke Rosberg]] <br /> {{F1|1982}}
+|title=[[Daftar Juara Dunia Pembalap Formula Satu|Juara dunia pembalap]] [[Formula Satu]]
+|years=<small>{{F1|1981}}</small>
+}}
+{{succession box
+|before=[[Keke Rosberg]] <br /> {{F1|1982}}
+|after=[[Niki Lauda]] <br /> {{F1|1984}}
+|title=[[Daftar Juara Dunia Pembalap Formula Satu|Juara dunia pembalap]] [[Formula Satu]]
+|years=<small>{{F1|1983}}</small>
+}}
+{{succession box|
+before=[[Alain Prost]] <br /> {{F1|1985}}-{{F1|1986}}|
+after=[[Ayrton Senna]] <br /> {{F1|1988}}|
+title=[[Daftar Juara Dunia Pembalap Formula Satu|Juara dunia pembalap]] [[Formula Satu]]|
+years=<small>{{F1|1987}}</small>|
+}}
+{{end box}}
+{{Juara dunia F1}}
+{{Autosport International Racing Driver Award}}
+}}
+{{lifetime|1952||Piquet, Nelson}}
+
+[[Kategori:Pembalap F1 Brasil]]
+[[Kategori:Pembalap F1 tim Williams]]
+[[Kategori:Pembalap F1 tim Benetton]]
+[[Kategori:Pembalap F1 tim Brabham]]
+[[Kategori:Pembalap F1 tim Lotus]]
+[[Kategori:Pembalap F1 tim McLaren]]
+[[Kategori:Juara dunia pembalap Formula Satu]]
+[[Kategori:Pembalap 24 Hours of Le Mans]]
+
+
+{{F1-bio-stub}}

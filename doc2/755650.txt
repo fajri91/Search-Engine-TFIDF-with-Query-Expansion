@@ -1,0 +1,14 @@
+Berkas:Logo CFSI.jpg
+=={{int:filedesc}}==
+{{Information
+| description    =
+Sumber: http://www.freewebs.com/cfsi/logo_CFSI%20copy.jpg
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Logo}}

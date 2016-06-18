@@ -1,0 +1,197 @@
+Nomor Identifikasi Komunitas
+{{unreferenced|date=February 2013}}
+'''Nomor Identifikasi Komunitas''' adalah sebuah sistem rangkaian angka yang digunakan untuk mengenali suatu [[munisipalitas]] atau [[wilayah lepas]] di negara tertentu. Sistem lainnya yang lazim digunakan untuk tujuan yang sama antara lain sistem [[kode pos]] (digunakan di [[Indonesia]]), [[NUTS|kode NUTS]] atau [[Federal Information Processing Standard|kode FIPS]].
+{{TOC limit}}
+
+==Austria==
+===Susunan===
+Di [[Austria]], nomor identifikasi munisipalitas dirangkai dalam 5 susunan angka, dengan susunan {{color|red|'''angka pertama'''}} mengacu pada nomor [[negara bagian di Austria|negara bagian]], {{color|blue|'''angka kedua dan ketiga'''}} mengacu pada nomor distrik, serta {{color|green|'''angka keempat dan kelima'''}} menunjukkan munisipalitas.
+
+==== Contoh ====
+{{color|red|'''3'''}} {{color|blue|'''25'''}} {{color|green|'''21'''}}: [[Rappottenstein]]
+
+* {{color|red|'''3'''}}: [[Austria Hilir]]
+* {{color|blue|'''25'''}}: distrik Zwettl
+* {{color|green|'''21'''}}: Munisipalitas Rappottenstein
+
+{{color|red|'''9'''}} {{color|blue|'''07'''}} {{color|green|'''01'''}}: [[Wina]] - [[Neubau]]
+
+* {{color|red|'''9'''}}: [[Wina]]
+* {{color|blue|'''07'''}}: [[Neubau]] (distrik ketujuh)
+* {{color|green|'''01'''}}: Distrik Neubau
+
+=== Negara bagian ===
+*1 [[Burgenland]]
+*2 [[Carinthia]]
+*3 [[Austria Hilir]]
+*4 [[Austria Hulu]]
+*5 [[Salzburg]]
+*6 [[Styria]]
+*7 [[Tyrol|Tyrol]]
+*8 [[Vorarlberg]]
+*9 [[Wina]]
+
+=== Pranala luar ===
+* [http://webapp.statistik.gv.at/blickgem/index.jsp Daftar kode munisipalitas]
+
+==Filipina==
+===Susunan===
+Biasanya dikenal dengan kode munisipal atau kode PSGC yang disusun rrppmmbbb, where rr = kode rayon, pp = kode provinsi, {{nowrap|1=mm = kode kota/munisipalitas}}, bbb = kode barangay.
+
+Contohnya, munisipalitas [[Ubay, Bohol]] memiliki kode wilayah 071246000 dengan perincian: 07 (Visayas Tengah), provinsi 12 (Bohol), munipalitas 46 (Ubay) dengan kode barangay yang dituliskan nol dengan makna "tidak setingkat"; karena [[Bongbong]], salah satu barangay yang lebih rendah, memiliki kode wilayah 071246007.
+
+Perlu diperhatikan bahwa kode wilayah provinsi adalah kode yang sama sekali berbeda dengan kode rayon, begitu pula dengan kode PSGC.
+
+== Jerman ==
+Di [[Jerman]], ''Kode Resmi Munisipalitas'' digunakan untuk tujuan [[statistik]] dan diterbitkan oleh masing-masing [[Daftar negara bagian di Jerman|negara bagian]].
+
+=== Susunan ===
+Kode munisipalitas dirangkai dalam delapan susunan angka, dengan susunan {{color|red|'''dua angka pertama'''}} mengacu pada nomor negara bagian. {{color|blue|'''Angka ketiga'''}} mengacu pada nomor distrik (di wilayah tanpa pemerintahan distrik biasanya digunakan angka nol). {{color|green|'''angka keempat dan kelima'''}} mengacu pada nomor kota (pada wilayah kota tanpa pemerintahan distrik) atau nomor distrik (pada wilayah kota yang terdapat pemerintahan distrik). {{color|purple|'''Angka keenam, ketujuh dan kedelapan'''}} mengacu pada nomor munisipalitas atau nomor wilayah lepas.
+
+==== Contoh ====
+{{color|red|'''08'''}} {{color|blue|'''1'''}} {{color|green|'''11'''}} {{color|purple|'''000'''}}: [[Stuttgart]]
+
+* {{color|red|'''08'''}}: [[Baden-Wrttemberg]]
+* {{color|blue|'''1'''}}: Pemerintahan distrik Stuttgart
+* {{color|green|'''11'''}}: Wilayah perkotaan Stuttgart
+* {{color|purple|'''000'''}}: Tidak ada munisipalitas karena Stuttgart merupakan wilayah perkotaan
+
+{{color|red|'''15'''}} {{color|blue|'''3'''}} {{color|green|'''52'''}} {{color|purple|'''002'''}}: [[Aschersleben]]
+
+* {{color|red|'''15'''}}: [[Saxony-Anhalt]]
+* {{color|blue|'''3'''}}: Pemerintahan distrik [[Magdeburg]]
+* {{color|green|'''52'''}}: Distrik Aschersleben Stafurt
+* {{color|purple|'''002'''}}: Kota Aschersleben
+
+=== Daftar negara bagian ===
+* 01: [[Schleswig-Holstein]]
+* 02: [[Hamburg]]
+* 03: [[Lower Saxony]]
+* 04: [[Bremen]]
+* 05: [[North Rhine-Westphalia]]
+* 06: [[Hesse]]
+*07: [[Rhineland-Palatinate]]
+*08: [[Baden-Wrttemberg]]
+*09: [[Bavaria]]
+*10: [[Saarland]]
+*11: [[Berlin]]
+*12: [[Brandenburg]]
+*13: [[Mecklenburg-Vorpommern]]
+*14: [[Saxony]]
+*15: [[Saxony-Anhalt]]
+*16: [[Thuringia]]
+
+=== Pranala luar ===
+* [http://www.destatis.de/gv/suche_gv2000.htm Daftar kode munisipalitas]
+
+== Perancis ==
+Lihat [[Code officiel gographique]].
+
+== Swedia ==
+'''Kommunkod''' (kode munisipal) adalah serangkaian angka yang diterapkan oleh bagian perpajakan pada pemerintahan [[Swedia]] terhadap [[munisipalitas|munisipalitas-munisipalitas]] yang ada di negara itu. Kode tersebut tersusun dari empat rangkaian angka. Dua angka pertama mengacu pada angka ''[[county]]'' dan dua angka terakhir mengacu pada munisipalitas tersebut.
+
+
+== Swiss ==<!-- This section is linked from [[Data codes for Switzerland]] -->
+=== Susunan ===
+[[Badan Pusat Statistik Federasi Swiss]] mengeluarkan kode wilayah yang tersusun dari 4 rangkaian angka, dengan persetujuan dari pemerintah [[Kanton di Swiss|kanton]], [[Provinsi di Swiss|provinsi]], dan [[munisipalitas]] yang ada di negara itu.
+
+=== Kanton ===
+{| class="wikitable"
+|-
+! [[Kanton di Swiss|Kanton]]
+! Range
+|-
+| [[Kanton Zurich]]
+| 0001-0261
+|-
+| [[Kanton Bern]]
+| 0301-0996
+|-
+| [[Kanton Lucerne]]
+| 1001-1150
+|-
+| [[Kanton Uri]]
+| 1201-1220
+|-
+| [[Kanton Schwyz]]
+| 1301-1375
+|-
+| [[Kanton Obwalden]]
+| 1401-1407
+|-
+| [[Kanton Nidwalden]]
+| 1501-1511
+|-
+| [[Kanton Glarus]]
+| 1601-1629
+|-
+| [[Kanton Zug]]
+| 1701-1711
+|-
+| [[Kanton Fribourg]]
+| 2001-2336
+|-
+| [[Kanton Solothurn]]
+| 2401-2622
+|-
+| [[Kanton Basel-Stadt]]
+| 2701-2703
+|-
+| [[Kanton Basel-Landschaft]]
+| 2761-2895
+|-
+| [[Kanton Schaffhausen]]
+| 2901-2974
+|-
+| [[Kanton Appenzell Ausserrhoden]]
+| 3001-3038
+|-
+| [[Kanton Appenzell Innerrhoden]]
+| 3101-3111
+|-
+| [[Kanton St. Gallen]]
+| 3201-3444
+|-
+| [[Kanton Graubnden]]
+| 3501-3987
+|-
+| [[Kanton Aargau]]
+| 4001-4323
+|-
+| [[Kanton Thurgau]]
+| 4401-4951
+|-
+| [[Kanton Ticino]]
+| 5001-5322
+|-
+| [[Kanton Vaud]]
+| 5401-5939
+|-
+| [[Kanton Valais]]
+| 6001-6300
+|-
+| [[Kanton Neuchtel]]
+| 6401-6511
+|-
+| [[Kanton Jenewa]]
+| 6601-6645
+|-
+| [[Kanton Jura]]
+| 6701-6806
+|}
+
+== Lihat pula ==
+* [[Kode pos]]
+* [[Munisipalitas]]
+* [[Distrik]]
+* [[Provinsi]]
+* [[Kanton]]
+* [[Indonesia]]
+
+[[Kategori:Kode]]
+[[Kategori:Wilayah]]
+[[Kategori:Statistika]]
+[[Kategori:Pemerintahan]]
+[[Category:Hukum]]
+
+[[fr:Code officiel gographique]]

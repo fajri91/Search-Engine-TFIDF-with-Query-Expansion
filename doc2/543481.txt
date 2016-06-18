@@ -1,0 +1,138 @@
+Bahasa Khakas
+
+{{Infobox language
+|name=Khakas
+|nativename= 
+|ethnicity=[[Suku Khakas]]
+|states=[[Rusia]]
+|region=[[Khakassia]]
+|speakers=20.000
+|date=2007
+|script=[[Aksara Sirilik|Sirilik]]
+|familycolor=Altaik
+|fam1=[[Bahasa Turkik|Turkik]]
+|fam2=[[Bahasa Turkik Siberia|Siberia]]
+|fam3=Siberia Selatan
+|fam4=Turkik Yenisei
+|nation={{flag|Khakassia}} ([[Rusia]])
+|dia1=[[Dialek Fuy Grgs|Fuy Grgs]]
+|iso3=kjh}}
+
+'''Khakas''' (Khakas: ''  Khakas tl'') adalah [[bahasa Turkik]] yang dituturkan oleh [[suku Khakas]] yang kebanyakan tinggal di Republik Khakas Siberia selatan, atau [[Khakassia]], di [[Rusia]]. Suku Khakas berjumlah 75.000, dan 20.000 di antaranya menuturkan bahasa Khakas, yang sebagian besar juga dapat menuturkan [[bahasa Rusia]].<ref>{{ru icon}} {{cite web|url=http://www.perepis2002.ru/ct/doc/TOM_04_02.xls|accessdate=2011-02-16|title=      |format=[[Microsoft Excel]]|publisher=   }}</ref> 
+
+Secara tradisional, bahasa Khakas dibagi menjadi beberapa dialek yang terkait erat: Sagay, [[Kacha]], [[Koybal]], [[Beltir]], dan [[Kyzyl]].  Shor, yang nantinya diakui sebagai dialek Khakas, dituturkan oleh kelompok yang awalnya berasal dari [[Gornaya Shoria]].
+
+Pencatatan pertama bahasa Khakas dimulai sejak abad ke-19. Ahli bahasa berkebangsaan Finlandia, [[Matthias Castrn]], yang menjelajahi Asia utara dan tengah antara tahun 1845 hingga 1849, telah menulis risalah mengenai dialek Koybal, dan dicatat sebagai epos. [[Wilhelm Radloff]] menjelajahi wilayah selatan [[Siberia]] antara tahun 1859 hingga 1870. Hasil penelitiannya diterbitkan dalam 4 jilid kamusny dan dalam sepuluh volume serial teks [[bahasa Turkik]]. Jilid keduanya mengandung bahan-bahan bahasa Khakas, yang diterjemahkan ke [[bahasa Jerman]]. Pada jilid ke-9, ada terjemahan ke [[bahasa Rusia]] yang disediakan oleh siswa Radloff, yaitu Katanov, yang juga merupakan orang Sagay, dan memiliki lebih banyak lagi bahan-bahan bahasa Khakas.
+
+Bahasa sastra Khakas, yang dikembangkan hanya setelah [[Revolusi Rusia 1917]], didasarkan pada dialek Sagay dan Kacha; dialek Beltir telah diasimilasi oleh dialek Sagay, dan dialek Koybal juga diasimilasi oleh Kacha. Pada tahun tahun 1924, [[alfabet Sirilik]] mulai digunakan, dan diganti menjadi [[huruf Latin]] pada tahun 1929, yang kemudian digantikan kembali oleh aksara Sirilik baru pada tahun 1939.
+
+== Ortografi ==
+
+Huruf Latin:
+
+{| style="font-family:Arial Unicode MS; font-size:1.4em; border-color:#000000; border-width:1px; border-style:solid; border-collapse:collapse; background-color:#F8F8EF"
+| style="width:3em; text-align:center; padding: 3px;" | A a
+| style="width:3em; text-align:center; padding: 3px;" | B b
+| style="width:3em; text-align:center; padding: 3px;" | C c
+| style="width:3em; text-align:center; padding: 3px;" |  
+| style="width:3em; text-align:center; padding: 3px;" | D d
+| style="width:3em; text-align:center; padding: 3px;" |  
+| style="width:3em; text-align:center; padding: 3px;" | F f
+| style="width:3em; text-align:center; padding: 3px;" | G g
+|-
+| style="width:3em; text-align:center; padding: 3px;" | {{unicode| }}
+| style="width:3em; text-align:center; padding: 3px;" | I i
+| style="width:3em; text-align:center; padding: 3px;" |  
+| style="width:3em; text-align:center; padding: 3px;" | J j
+| style="width:3em; text-align:center; padding: 3px;" | K k
+| style="width:3em; text-align:center; padding: 3px;" | L l
+| style="width:3em; text-align:center; padding: 3px;" | M m
+| style="width:3em; text-align:center; padding: 3px;" | N n
+|-
+| style="width:3em; text-align:center; padding: 3px;" | {{unicode|N n}}
+| style="width:3em; text-align:center; padding: 3px;" | O o
+| style="width:3em; text-align:center; padding: 3px;" |  
+| style="width:3em; text-align:center; padding: 3px;" | P p
+| style="width:3em; text-align:center; padding: 3px;" | R r
+| style="width:3em; text-align:center; padding: 3px;" | S s
+| style="width:3em; text-align:center; padding: 3px;" |  
+| style="width:3em; text-align:center; padding: 3px;" | T t
+|-
+| style="width:3em; text-align:center; padding: 3px;" | U u
+| style="width:3em; text-align:center; padding: 3px;" | V v
+| style="width:3em; text-align:center; padding: 3px;" | X x
+| style="width:3em; text-align:center; padding: 3px;" | Y y
+| style="width:3em; text-align:center; padding: 3px;" | Z z
+| style="width:3em; text-align:center; padding: 3px;" | {{unicode| }}
+| style="width:3em; text-align:center; padding: 3px;" |  
+|}
+
+Huruf Sirilik:
+
+{| style="font-family:Arial Unicode MS; font-size:1.4em; border-color:#000000; border-width:1px; border-style:solid; border-collapse:collapse; background-color:#F8F8EF"
+| style="width:3em; text-align:center; padding: 3px;" |  
+| style="width:3em; text-align:center; padding: 3px;" |  
+| style="width:3em; text-align:center; padding: 3px;" |  
+| style="width:3em; text-align:center; padding: 3px;" |  
+| style="width:3em; text-align:center; padding: 3px;" |  
+| style="width:3em; text-align:center; padding: 3px;" |  
+| style="width:3em; text-align:center; padding: 3px;" |  
+| style="width:3em; text-align:center; padding: 3px;" |  
+|-
+| style="width:3em; text-align:center; padding: 3px;" |  
+| style="width:3em; text-align:center; padding: 3px;" |  
+| style="width:3em; text-align:center; padding: 3px;" |  
+| style="width:3em; text-align:center; padding: 3px;" |  
+| style="width:3em; text-align:center; padding: 3px;" | I i
+| style="width:3em; text-align:center; padding: 3px;" |  
+| style="width:3em; text-align:center; padding: 3px;" |  
+| style="width:3em; text-align:center; padding: 3px;" |  
+|-
+| style="width:3em; text-align:center; padding: 3px;" |  
+| style="width:3em; text-align:center; padding: 3px;" |  
+| style="width:3em; text-align:center; padding: 3px;" |  
+| style="width:3em; text-align:center; padding: 3px;" |  
+| style="width:3em; text-align:center; padding: 3px;" |  
+| style="width:3em; text-align:center; padding: 3px;" |  
+| style="width:3em; text-align:center; padding: 3px;" |  
+| style="width:3em; text-align:center; padding: 3px;" |  
+|-
+| style="width:3em; text-align:center; padding: 3px;" |  
+| style="width:3em; text-align:center; padding: 3px;" | {{unicode| }}
+| style="width:3em; text-align:center; padding: 3px;" |  
+| style="width:3em; text-align:center; padding: 3px;" |  
+| style="width:3em; text-align:center; padding: 3px;" |  
+| style="width:3em; text-align:center; padding: 3px;" |  
+| style="width:3em; text-align:center; padding: 3px;" | {{unicode| }}
+| style="width:3em; text-align:center; padding: 3px;" |  
+|-
+| style="width:3em; text-align:center; padding: 3px;" |  
+| style="width:3em; text-align:center; padding: 3px;" |  
+| style="width:3em; text-align:center; padding: 3px;" |  
+| style="width:3em; text-align:center; padding: 3px;" |   
+| style="width:3em; text-align:center; padding: 3px;" |  
+| style="width:3em; text-align:center; padding: 3px;" |  
+| style="width:3em; text-align:center; padding: 3px;" |  
+|}
+
+== Bacaan lanjut ==
+* {{cite book|author=Castrn, M. A.|title=Versuch einer koibalischen und karagassischen Sprachlehre nebst Wrterverzeichnissen aus den tatarischen mundarten des minussinschen Kreises|publisher=St. Petersburg|year=1857}}
+
+* {{cite book|author=Radloff, W.|title=Versuch eines Wrterbuches der Trk-Dialecte I-IV|publisher=St. Petersburg|year=1893-1911}}
+
+* {{cite book|author=Radloff, W.|title=Proben der Volkslitteratur der trkischen Stmme Sd-Sibiriens. II. Theil: die Abakan-Dialecte (der Sagaische, Koibalische, Katschinzische), der Kysyl-Dialect und der Tscholym-Dialect (Kerik)|publisher=St. Petersburg|year=1867}}
+
+* {{cite book|author=Katanov, N. F.|title=Proben der Volkslitteratur der trkischen Stmme. IX. Theil: Mundarten der Urianchaier (Sojonen), Abakan-Tataren und Karagassen|publisher=St. Petersburg|year=1907}}
+
+* {{cite book|author=Anderson, G. D.|title=Xakas. Languages of the world: Materials: 251|publisher=Mnchen|year=1998}}
+
+== Pranala luar ==
+*[http://www.ethnologue.com/show_language.asp?code=kjh Ethnologue entry for Khakas]
+*[http://www.ozturkler.com/data_english/0007/0007_18.htm/ Hakas People and Hakasia]
+*[http://www.tarbagan.net/fotj/KhakasLang.htm Khakasian Alphabet]
+*[http://www.sostik.info/word.php Khakas-Russian On-Line Dictionary]
+*[http://www.endangeredlanguages.com/lang/2434 Endangered languages project - Khakas]
+*[http://www.language-archives.org/language/kjh OLAC resources in and about the Khakas language]
+
+{{bahasa-stub}}
+[[Kategori:Bahasa Turkik]]

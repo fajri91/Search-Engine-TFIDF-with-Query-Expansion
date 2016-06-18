@@ -1,0 +1,21 @@
+Templat:Pengguna Persipura
+{{Userbox
+| float = left
+| border-width = 1
+| border-color = white
+| logo = [[Berkas:Logo Persipura Jayapura.png|50px]]
+| logo-size = 3
+| logo-color = black
+| logo-background = white
+| info = <center>Pengguna ini adalah pendukung '''[[Persipura]]'''</center>
+| info-color = black
+| info-logo = 1
+| info-background = #808080
+| info-class = userboxdark
+| category = Pengguna pendukung Persipura
+| nocat = {{{nocat|}}}
+}}<noinclude>
+{{userboxes|Pengguna pendukung Persipura}}
+[[Kategori:Templat kotak pengguna]]
+[[Kategori:Templat userbox minat|Persipura]]
+</noinclude>

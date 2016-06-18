@@ -1,0 +1,10 @@
+MediaWiki:Sitestatstext
+<big>Wikipedia bahasa Indonesia saat ini memiliki '''$2''' [[Wikipedia:Apa yang dinamakan artikel|artikel]].</big>
+
+Jumlah ini tidak termasuk [[Wikipedia:Pengalihan|halaman pengalihan]], [[Wikipedia:Halaman pembicaraan|pembicaraan]], [[Wikipedia:Berkas|halaman penjelasan gambar]], [[Wikipedia:Halaman pengguna|halaman profil pengguna]], [[Wikipedia:Templat|templat]], [[Bantuan:Isi|halaman-halaman bantuan]], [[Wikipedia:Portal|portal-portal]], halaman-halaman tanpa pranala balik, dan halaman-halaman administrasi Wikipedia. Jika termasuk semua halaman ini, terdapat total '''$1''' halaman.
+
+Sejak Mei 2003, para pengguna Wikipedia bahasa Indonesia, baik [[Wikipedia:Pengguna terdaftar|terdaftar]] maupun [[Wikipedia:Pengguna anonim|anonim]], telah melakukan '''$4''' suntingan atau dengan rata-rata '''$5''' suntingan per halaman.
+
+Sebagai tambahan, Wikipedia bahasa Indonesia telah memiliki '''$8''' berkas media (tidak termasuk berkas-berkas dari [[commons:Halaman Utama|Wikimedia Commons]]).
+
+Panjang [[mw:Manual:Job queue|antrian pekerjaan]] saat ini adalah '''$7'''.

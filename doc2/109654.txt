@@ -1,0 +1,14 @@
+Berkas:Pembesar Kerajaan Banjar Museum Lambung Mangkurat.JPG
+== {{int:filedesc}} ==
+{{Information
+| description    =
+Hasil pemotretan dari lukisan keadaan pembesar [[Kerajaan Banjar]] tahun 1850 koleksi [[Museum Lambung Mangkurat]]
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{GFDL-self}}

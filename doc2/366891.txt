@@ -1,0 +1,21 @@
+Templat:Mario Riawa, Soppeng
+{{Navigasi ID Desa 
+|provinsi=Sulawesi Selatan
+|dati2=Kabupaten
+|nama dati2=Soppeng
+|nama kecamatan=Marioriawa
+|k1=Attang Salo
+|k2=Batu-batu
+|d1=Bulue
+|k3=Kaca
+|d2=Laringgi
+|k4=Limpomajang
+|k5=Manorang Salo
+|d3=Panincong
+|d4=Patampanua
+|d5=Tellulimpoe
+}}
+<noinclude>
+[[Kategori:Templat desa/kelurahan di Sulawesi Selatan|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Soppeng|{{PAGENAME}}]]
+</noinclude>

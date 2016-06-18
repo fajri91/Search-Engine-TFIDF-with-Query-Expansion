@@ -1,0 +1,6 @@
+Templat:Infobox Bahasa/pronunciation
+&nbsp;
+|-
+| style="padding-left: 0.5em;" | Pengucapan:
+| colspan="2" style="padding-left: 0.5em;" |[[International Phonetic Alphabet|IPA]]: <span title="Pronunciation in IPA" class="IPA">{{{1|''will be added''}}}</span><noinclude>[[Kategori:Templat_kotak_info_bahasa]]
+</noinclude>

@@ -1,0 +1,41 @@
+Bangkok Airways Penerbangan 266
+{{Orphan|date=April 2012}}
+{{Crash infobox
+|name             = Bangkok Airways Flight 266
+|occurrence_type  = Keluar landasan
+|image            = Bangkok Airways ATR72.jpg
+|image_size       = 250px
+|alt              = 
+|caption          = An ATR 72 of Bangkok Airways
+|date             = 
+|type             = Keluar landasan
+|site             = 
+|coordinates      = 
+|aircraft_type    = [[ATR 72|ATR 72-212A]]
+|aircraft_name    = ''Pha Ngan''
+|operator         = [[Bangkok Airways]]
+|tail_number      = HS-PGL
+|origin           = [[Bandar Udara Krabi]], [[Thailand]]
+|destination      = [[Bandar Udara Samui]], Thailand
+|passengers       = 68
+|crew             = 4
+|injuries         = 41
+|fatalities       = 1 (pilot)
+|survivors        = 71
+}}
+'''Bangkok Airways Penerbangan 266''' adalah adalah layanan penerbangan domestik berjadwal dari [[Bandar Udara Samui]], [[Thailand]], yang keluar landasan pacu saat mendarat dan menabrak sebuah menara kontrol tua dan tak berawak pada tanggal [[4 Agustus]] [[2009]].
+
+== Pranala luar ==
+{{external media | align = right
+| image1 = [http://www.airliners.net/search/photo.search?regsearch=HS-PGL&distinct_entry=true airliners.net's Photo gallery]
+| image2 = [http://www.myaviation.net/search/search.php?view=&regnr=HS-PGL myaviation.net's Photo gallery]
+| image3 = [http://www.planespotters.net/Aviation_Photos/photo.show?id=059626 Rolling on runway] | image4 = [http://img.skitch.com/20090804-dp7uiy4gkrtr5khcdye3jmmcuf.jpg Photo of the accident]}}
+*{{ASN accident|id=20090804-0}}
+*[http://www.bangkokair.com/announcement/accident-usm.php Accident in Samui on Tuesday 4 August 2009 Press Release] - ''[[Bangkok Airways]]''
+
+{{coord|09|32|52|N|100|03|44|E|source:cawiki_region:TH_type:airport|display=title}}
+
+[[Kategori:Kecelakaan dan insiden Bangkok Airways]]
+[[Kategori:Kecelakaan dan insiden penerbangan di Thailand]]
+[[Kategori:Kecelakaan dan insiden penerbangan tahun 2009]]
+[[Kategori:Thailand dalam tahun 2009]]

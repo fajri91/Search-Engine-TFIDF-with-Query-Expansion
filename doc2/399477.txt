@@ -1,0 +1,139 @@
+Induktansi
+{{Elektromagnetisme|cTopic=Rangkaian}}
+'''Induktansi''' adalah sifat dari [[rangkaian elektronika]] yang menyebabkan timbulnya [[Tegangan listrik|potensial listrik]] secara proporsional terhadap [[arus listrik|arus]] yang mengalir pada rangkaian tersebut, sifat ini disebut sebagai '''induktansi sendiri,''' sedangkan apabila potensial listrik dalam suatu rangkaian ditimbulkan oleh perubahan arus dari rangkaian lain disebut sebagai '''induktansi bersama'''.
+
+Definisi kuantitatif dari '''induktansi sendiri''' (simbol: ''L'') adalah :<math>\displaystyle v= L\frac{di}{dt}</math> di mana ''v'' adalah [[Gaya Gerak Listrik|GGL]] yang ditimbulkan dalam volt dan ''i'' adalah arus listrik dalam ampere. Bentuk paling sederhana dari rumus tersebut terjadi ketika arus konstan sehingga tidak ada GGL yang dihasilkan atau ketika arus berubah secara konstan (linier) sehingga GGL yang dihasilkan konstan (tidak berubah-ubah).
+
+Istilah 'induktansi' sendiri pertama kali digunakan oleh [[Oliver Heavside]] pada Februari 1886.<ref>Heaviside, O. Electrician. Feb. 12, 1886, p. 271. See [http://books.google.com/books?id=bywPAAAAIAAJ&printsec=frontcover&dq=elecrrical+papers+heavyside reprint]</ref> Sedang penggunaan simbol ''L'' kemungkinan ditujukan sebagai penghormatan kepada [[Heinrich Lenz]], seorang fisikawan ternama.<ref>{{cite web
+| author = Glenn Elert
+| title = The Physics Hypertextbook: Inductance
+| url = http://hypertextbook.com/physics/electricity/inductance/
+| year = 1998-2008}}</ref><ref>{{cite web
+| author = Michael W. Davidson
+| title = Molecular Expressions: Electricity and Magnetism Introduction: Inductance
+| url = http://micro.magnet.fsu.edu/electromag/electricity/inductance.html
+| year = 1995-2008}}</ref>
+Satuan induktansi dalam [[Satuan Internasional]] adalah [[weber]] per [[ampere]] atau dikenal pula sebagai '''[[henry (satuan)|henry]]''' (H), untuk menghormati [[Joseph Henry]] seorang peneliti yang berkontribusi besar terhadap ilmu tentang magnetisme. 1&nbsp;H = 1&nbsp;[[weber (unit)|Wb]]/[[ampere|A]].
+
+Induktansi muncul karena adanya medan magnet yang ditimbulkan oleh arus listrik (dijelaskan oleh [[Hukum Ampere]]). Supaya suatu rangkaian elektronika mempunyai nilai induktansi, sebuah komponen bernama [[induktor]] digunakan di dalam rangkaian tersebut, induktor umumnya berupa kumparan kabel/tembaga untuk memusatkan medan magnet dan memanfaatkan GGL yang dihasilkannya.
+
+Bentuk umum dari ''K'' buah rangkaian dengan arus ''i<sub>m</sub>'' dan tegangan ''v<sub>m</sub>'' adalah
+:<math>\displaystyle v_{m}=\sum\limits_{n=1}^{K}L_{m,n}\frac{di_{n}}{dt}.</math>
+
+Koefisien L yang digunakan pada rumus di atas merupakan matriks simetris, rumus tersebut berlaku selama tidak menggunakan bahan yang bisa menjadi magnet, jika tidak maka besaran L merupakan fungsi dari besaran arus ([[induktansi non-linier]]).
+
+== Penerapan Persamaan Maxwell untuk induktansi ==
+Rumus umum di atas merupakan penerapan dari [[Persamaan Maxwell]] jika rangkaian tersebut menggunakan kabel tipis.
+
+Misal suatu rangkaian yang terdiri dari ''K'' buah kumparan kabel, masing-masing terdiri dari satu atau beberapa lilitan. [[Fluks magnetik]] yang timbul akan terangkai sebesar
+:<math>\displaystyle N_{m}\Phi _{m}=\sum\limits_{n=1}^{K}L_{m,n}i_{n}.</math>
+Di mana ''N<sub>m</sub>'' merupakan jumlah lilitan dalam kumparan ''m'', ''<sub>m</sub>'' adalah [[fluks magnetik]] yang melalui kumparan, dan ''L<sub>m,n</sub>'' adalah konstanta. Persamaan ini diturunkan dari [[Hukum Ampere]]medan magnet dan fluks magnetik merupakan fungsi linier dari arus listrik. Dengan menggunakan [[Hukum Faraday]] dapat diperoleh 
+:<math>\displaystyle v_{m}=N_{m}\frac{d\Phi _{m}}{dt}=\sum\limits_{n=1}^{K}L_{m,n}\frac{di_{n}}{dt},</math>
+di mana ''v<sub>m</sub>'' merupakan GGL yang terinduksi dalam rangkaian ''m''. Rumus tersebut sesuai dengan definisi di atas bahwa koefisien ''L<sub>m,n</sub>'' dapat diidentifikasi sebagai koefisien induktansi. Karena seluruh arus ''N<sub>n</sub>i<sub>n</sub>'' berperan menimbulkan fluks ''<sub>m</sub>'', dapat pula dimengerti bahwa ''L<sub>m,n</sub>'' sebanding dengan perkalian jumlah lilitan ''N<sub>m</sub>N<sub>n</sub>''.
+
+== Induktansi dan Energi Medan Magnet ==
+
+Dengan mengalikan persamaan ''v<sub>m</sub>'' di atas dengan ''i<sub>m</sub>dt'' dan menjumlahkan untuk semua ''m'' maka kita dapatkan energi yang di transfer sistem ini dalam satu satuan waktu ''dt'',
+:<math>\displaystyle
+\sum\limits_{m}^{K}i_{m}v_{m}dt=\sum\limits_{m,n=1}^{K}i_{m}L_{m,n}di_{n}
+\overset{!}{=}\sum\limits_{n=1}^{K}\frac{\partial W\left( i\right) }{\partial i_{n}}di_{n}.</math>
+
+Hal ini harus tetap sesuai dengan perubahan energi medan magnet ''W'' yang ditimbulkan oleh arus listrik.<ref>The kinetic energy of the drifting electrons is many orders of magnitude smaller than W, except for nanowires.</ref> Integritas 
+:<math>\displaystyle\partial ^{2}W/\partial i_{m}\partial i_{n}=\partial ^{2}W/\partial i_{n}\partial i_{m}</math>
+mengharuskan ''L<sub>m,n</sub>=L<sub>n,m</sub>''. Sehingga ''L<sub>m,n</sub>'' harus merupakan matriks simetris.
+
+Integral dari energi yang ditransfer adalah energi medan magnet sebagai fungsi dari arus,
+:<math>\displaystyle W\left( i\right) =\tfrac{1}{2}\sum \limits_{m,n=1}^{K}i_{m}L_{m,n}i_{n}.</math>
+Persamaan ini juga merupakan konsekuensi dari linearitas Persamaan Maxwell. Supaya mudah mengingat perlu diperhatikan bahwa perubahan arus listrik berhubungan langsung dengan perubahan energi medan magnet. Energi ini memerlukan sumber tegangan (jika negatif, energi diambil) atau menghasilkan tegangan (jika energi positif, disalurkan). Analoginya dalam energi mekanis untuk ''K'' = 1 dengan energi medan magnetik (1/2)''Li''<sup>2</sup> adalah sebuah benda dengan masa ''M'', dengan laju ''u'' dan energi kinetiknya (1/2)''Mu''<sup>2</sup>. Energi dari perubahan laju (dalam hal elektronika, arus listrik) dikalikan masa benda (induktansi) diperoleh dari gaya (jika energi kinetik bertambah) atau menghasilkan gaya (jika energi kinetik berkurang).
+
+== Induktor yang Berpasangan (Kopling Induktor) ==
+[[Berkas:Mutually inducting inductors.PNG|thumb|300px|Diagram rangkaian yang menggambarkan dua buah induktor di pasangkan.]]
+
+Dua garis vertikal di antara induktor menunjukkan ''inti padat'' yang mana pada inti ini kawat lilitan induktor dililitkan. "n:m" menunjukkan perbandingan jumlah lilitan antara induktor sebelah kiri dengan yang sebelah kanan. Gambar ini juga menunjukkan [[konvensi titik]].]]
+
+Induktansi bersama muncul ketika perubahan arus dalam satu induktor menginduksi (mempengaruhi) timbulnya GGL di induktor lain yang ada di dekatnya. Mekanisme ini merupakan dasar yang sangat penting dalam cara kerja [[transformer]], namun kadang kala induksi bersama yang bisa terjadi antara konduktor yang berdekatan malah menjadi hal yang harus dihindari dalam suatu rangkaian.
+
+Induktansi bersama, ''M'', juga merupakan ukuran saling induksi antara dua buah induktor. Induktansi bersama oleh rangkaian ''i'' kepada rangkaian ''j'' dihitung menggunakan integral ganda ''Rumus Neumann''.
+
+Induktansi bersama memiliki hubungan persamaan:
+:<math>M_{21} = N_1 N_2 P_{21} \!</math>
+di mana
+:<math>M_{21}</math> adalah nilai induktansi bersama, dan tanda 21 menunjukkan keterkaitan GGL yang terinduksi dalam kumparan 2 disebabkan oleh perubahan arus dalam kumparan 1.
+:''N''<sub>1</sub> adalah jumlah lilitan pada kumparan 1,
+:''N''<sub>2</sub> adalah jumlah lilitan pada kumparan 2,
+:''P''<sub>21</sub> adalah [[permeansi]] ruang di mana fluks magnetik berada.
+
+Induktansi bersama juga memiliki keterkaitan dengan [[koefisien kopling]]. Koefisien kopling bernilai antara 1 dan 0, koefisien kopling digunakan sebagai indikator keterkaitan antara induktor yang dipasangkan (dikopling).
+:<math>M = k \sqrt{L_1 L_2} \! </math>
+di mana
+:''k'' adalah ''koefisien kopling'' dan 0&nbsp;&nbsp;''k''&nbsp;&nbsp;1,
+:''L''<sub>1</sub> adalah nilai induktansi kumparan pertama, dan
+:''L''<sub>2</sub> adalah nilai induktansi kumparan kedua.
+
+Jika nilai induktansi bersama, ''M'', sudah diketahui, maka nilai ini dapat digunakan untuk memprediksi sifat dari suatu rangkaian:
+:<math> V_1 = L_1 \frac{dI_1}{dt} - M \frac{dI_2}{dt} </math>
+di mana
+:''V''<sub>1</sub> adalah tegangan dalam induktor yang dihitung,
+:''L''<sub>1</sub> adalah induktansi dalam induktor yang dihitung,
+:d''I''<sub>1</sub>/d''t'' adalah arus (diturunkan atas waktu) yang mengalir dalam induktor yang dihitung,
+:d''I''<sub>2</sub>/d''t'' adalah arus (diturunkan atas waktu) yang mengalir dalam induktor yang dikopling (diinduksi oleh induktor pertama), dan
+:''M'' adalah nilai induktansi bersama.
+
+Tanda minus muncul karena menurut konvensi titik, kedua arus yang mengalir pada masing-masing induktor saling berlawanan arah.<ref>{{cite book|author=Mahmood Nahvi, Joseph Edminister|url=http://books.google.com/?id=nrxT9Qjguk8C&pg=PA338|title= Schaum's outline of theory and problems of electric circuits|page=338|publisher=McGraw-Hill Professional|year=2002|isbn=0071393072}}</ref>
+
+Jika suatu induktor dipasangkan secara berdekatan dengan induktor lain dengan menggunakan prinsip induktansi bersama, seperti dalam [[transformer]], maka tegangan, arus, dan jumlah lilitan dapat dihubungkan sebagai berikut:
+
+:<math>V_\text{s} = \frac{N_\text{s}}{N_\text{p}} V_\text{p} </math>
+di mana
+:''V''<sub>s</sub> adalah tegangan pada induktor sekunder,
+:''V''<sub>p</sub> adalah tegangan pada induktor primer (yaitu yang terhubung dengan sumber listrik),
+:''N''<sub>s</sub> adalah jumlah lilitan pada induktor sekunder, dan
+:''N''<sub>p</sub> adalah jumlah lilitan pada induktor primer.
+
+Begitu pula untuk arus:
+
+:<math>I_\text{s} = \frac{N_\text{p}}{N_\text{s}} I_\text{p} </math>
+di mana
+:''I''<sub>s</sub> adalah arus yang mengalir dalam induktor sekunder,
+:''I''<sub>p</sub> adalah arus yang mengalir dalam induktor sekunder (yaitu yang terhubung dengan sumber listrik),
+:''N''<sub>s</sub> adalah jumlah lilitan pada induktor sekunder, dan
+:''N''<sub>p</sub> adalah jumlah lilitan pada induktor primer.
+
+Perlu diperhatikan bahwa daya dari kedua induktor tersebut adalah sama. Juga persamaan di atas tidak berlaku jika kedua induktor memiliki sumber energi sendiri-sendiri (keduanya induktor primer).
+
+Jika kedua sisi transformer merupakan [[rangkaian LC]] yang mana frekuensi tegangan menjadi penting, nilai induktansi bersama antara dua lilitan ini menentukan bentuk dari kurva renspon frekuensi. Walaupun batas-batas nilai indutansi bersama ini tidak didefinisikan, namun sering disebut sebagai ''loose-coupling'', ''critical-coupling'', dan ''over-coupling''. Jika rangkaian tersebut melalui transformer yang ''loose-coupling'', ''bandwidth''-nya akan sempit. Ketika nilai induktansi bersama ditingkatkan, ''bandwidth''-nya ikut naik pula. Ketika nilai induktansi bersama telah melampaui titik kritis, respon ''bandwidth'' akan mulai menurun, frekuensi-frekuensi tengah akan teratuentasi lebih dibanding frekuensi-frekuensi samping. Kondisi ini disebut ''over-coupling''.
+
+== Rumus Perhitungan ==
+Umumnya, induktansi dapat dihitung menggunakan persamaan Maxwell. Pada banyak skenario perhitungan dapat disederhanakan dari persamaan Maxwell. Jika menginginkan induksi dengan arus berfrekuensi tinggi, dengan [[efek kulit]], arus listrik dan medan magnet pada permukaan konduktor dapat dihitung dengan menggunakan persamaan Laplace. Walaupun konduktor yang digunakan adalah kawat tipis, induktansi sendiri masih bergantung pada jari-jari penampang kawat dan distribusi arus dalam kawat tersebut. Distribusi arus ini rata-rata konstan (pada permukaan atau badan kawat) untuk kawat tipis.
+
+=== Induktansi bersama ===
+Induktansi bersama dalam rangkaian kumparan ''i'' kepada rangkaian ''j'' dinyatakan dalam integral ganda ''Rumus Neumann''
+:<math> M_{ij} = \frac{\mu_0}{4\pi} \oint_{C_i}\oint_{C_j} \frac{\mathbf{dx}_i\cdot\mathbf{dx}_j}{|\mathbf{x}_{i}-\mathbf{x}_{j}|} </math>
+Simbol <sub>0</sub> menunjukkan[[konstanta magnetik]] (410<sup>7</sup> H/m), 'C''<sub>i</sub> dan ''C''<sub>j</sub> adalah panjang kawat, |'''''x'''''<sub>i</sub>-'''''x'''''<sub>j</sub>| adalah jarak antara dua induktor.
+
+=== Induktansi sendiri ===
+Pada dasarnya induktansi sendiri dari kumparan kawat dapat dinyatakan pula dengan persamaan di atas dengan menganggap ''i''=''j''. Masalahnya, ''1''/|'''''x'''''-'''''x''''''| menjadi tidak terdefinisi, sehingga perlu menyatakan penampang ''a'' sebagai penampang kawat dan memperhatikan pula distribusi arus pada kawat tersebut. Sehingga ada integral untuk semua titik di mana |'''''x'''''-'''''x''''''|  ''a''/2,
+:<math> M_{ii} = L \approx \left (\frac{\mu_0}{4\pi} \oint_{C}\oint_{C'} \frac{\mathbf{dx}\cdot\mathbf{dx}'}{|\mathbf{x}-\mathbf{x'}|}\right )_{|\mathbf{x}-\mathbf{x'}| \ge a/2}
++ \frac{\mu_0}{4\pi}lY</math>
+
+Disini ''a'' dan ''l'' menunjukkan jari-jari penampang kawat dan panjang kawat, dan ''Y'' adalah konstanta yang tergantung pada distribusi arus dalam kawat: ''Y'' = ''0'' ketika arus mengalir pada permukaan kawat ([[efek kulit]]), ''Y'' = ''1/2'' ketika arus tersebar rata dalam kawat. Nilai-nilai ini hanya perkiraan namun cukup akurat jika kawat yang dipergunakan tipis dan panjang.
+
+=== Hubungan induktansi dan kapasitansi ===
+Induktansi per satuan panjang L' dan [[kapasitansi]] per satuan panjang C' saling berhubungan dalam beberapa kasus [[jalur transmisi]] yang terdiri dari dua konduktor sempurna yang saling sejajar,<ref name="class_electro75">{{cite book|last=Jackson|first=J. D.|title=Classical Electrodynamics|year=1975|publisher=Wiley|page=262}}</ref>
+:<math>\displaystyle L'C'={\varepsilon \mu}.</math>
+
+Disini  dan  mewakili konstanta dielektik dan konstanta permeabilitas magnetik milik konduktor yang digunakan. Dalam hal ini tidak ada arus listrik dan medan magnet di dalam konduktor ([[efek kulit]] murni, frekuensi tinggi). Arus mengalir dari satu jalur menuju jalur yang lain. Kecepatan propagasi sinyal sejalan dengan kecepatan propagasi gelombang elektromagnetik.
+
+==Lihat pula==
+* [[Arus bolak-balik]]
+* [[Induksi elektromagnetik]]
+* [[Induktor]]
+* [[Transformator]]
+
+== Referensi ==
+{{reflist}}
+
+== Pranala luar ==
+# http://putrajagad-physics.blogspot.com/2009/12/induktansi.html
+
+[[Kategori:Besaran fisika]]

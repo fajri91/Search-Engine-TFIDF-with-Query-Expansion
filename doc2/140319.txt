@@ -1,0 +1,14 @@
+Berkas:Tielman0031.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+Dari situs [http://indorock.pmouse.nl/tielmanbrothers1.htm http://indorock.pmouse.nl/tielmanbrothers1.htm].
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{GFDL}}

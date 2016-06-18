@@ -1,0 +1,123 @@
+Kereta api Senja Utama Yogya
+{{Peringatan jadwal KA}}
+{{bukan|kereta api Senja Utama Solo}}
+{{Kotak info jalur kereta api
+| box_width   = 
+| logo_width  = 308
+| logo        = Plat nama KA Senja Utama YK.png
+| name        = Kereta api Senja Utama Yogya
+| image_width = 310
+| image       = Senja Utama Yogyakarta.jpg
+| caption = Kereta api Senja Utama Yogyakarta di Cirebon
+| type = Bisnis AC
+| system = Kereta api ekspres
+| status = Beroperasi
+| locale = Daop 6 Jogja
+| start = [[Stasiun Yogyakarta|Yogyakarta]]
+| end = [[Stasiun Pasar Senen|Pasar Senen]]
+| routes = 1
+| routenumber = 137-138
+| linenumber = 
+| owner = [[PT Kereta Api Indonesia]]
+| operator = [[Daerah Operasi VI Yogyakarta]]
+| character =
+| depot = Yogyakarta (YK)
+| stock = [[CC201]], [[CC203]], [[CC204]], [[CC206]]
+| speed = 60 s.d. 100 km/jam
+| map   = {{Templat:Ka Fajar Utama/Senja Utama YK}}
+}}
+'''Kereta api Senja Utama YK''' ([[Hanacaraka]]: {{jav|}}, ''Sepur Senja Utama Ngayogyakarta'') merupakan [[kereta api bisnis|kereta kelas bisnis]] yang dioperasikan oleh [[PT Kereta Api Indonesia]] di [[Jawa]] dengan relasi [[Stasiun Yogyakarta|Yogyakarta]]-[[Stasiun Pasar Senen|Pasar Senen]], pp. Dinamakan Senja Utama Yogya karena kereta ini berangkat meninggalkan [[Pasar Senen]] ataupun [[Yogyakarta]] pada malam hari.
+
+Kereta ini berhenti beberapa stasiun besar, antara lain, [[Stasiun Wates|Wates]], [[Stasiun Gombong|Gombong]], [[Stasiun Purwokerto|Purwokerto]], [[Stasiun Cirebon|Cirebon]], dan [[Stasiun Jatinegara|Jatinegara]].
+
+Susunan normal rangkaian kereta api ini adalah sebuah lokomotif, tujuh gerbong bisnis (K2), satu gerbong makan dan pembangkit (KMP2/MP3), dan satu gerbong bagasi (B).
+
+== Jadwal perjalanan ==
+'''Jadwal sesuai Gapeka 2015'''
+
+{| class="wikitable"
+|-
+!colspan=3|'''KA 123 Senja Utama Yogya '''
+|-
+!colspan=3|'''(Lempuyangan - Pasar Senen)'''
+|-
+! Stasiun !! Kedatangan !! Keberangkatan
+|-
+| [[Stasiun Lempuyangan|Lempuyangan]] || - || 17.45
+|-
+| [[Stasiun Yogyakarta|Yogyakarta]] || 17.49 || 17.53
+|-
+| [[Stasiun Wates|Wates]] || 18.20 || 18.23
+|-
+| [[Stasiun Kutoarjo|Kutoarjo]] || 18.52 || 18.56
+|-
+| [[Stasiun Kebumen|Kebumen]] || 19.32 || 19.34
+|-
+| [[Stasiun Gombong|Gombong]] || 20.01 || 20.03
+|-
+| [[Stasiun Kroya|Kroya]] || 20.29 || 20.33
+|-
+| [[Stasiun Purwokerto|Purwokerto]] || 21.01 || 21.20
+|-
+| [[Stasiun Bumiayu|Bumiayu]] || 22.01 || 22.03
+|-
+| [[Stasiun Cirebon|Cirebon]] || 23.20 || 23.30
+|-
+| [[Stasiun Bekasi|Bekasi]] || 01.59 || 02.01
+|-
+| [[Stasiun Jatinegara|Jatinegara]] || 02.18 || 02.20
+|-
+| [[Stasiun Pasar Senen|Pasar Senen]] || 02.29 || -
+|-
+|}
+
+{| class="wikitable"
+|-
+!colspan=3|'''KA 124 Senja Utama Yogya '''
+|- 
+!colspan=3|'''(Pasar Senen - Lempuyangan)'''
+|- 
+! Stasiun !! Kedatangan !! Keberangkatan
+|-
+| [[Stasiun Pasar Senen|Pasar Senen]] || - || 22.30
+|-
+| [[Stasiun Cirebon|Cirebon]] || 01.21 || 01.37
+|-
+| [[Stasiun Bumiayu|Bumiayu]] || 02.55 || 02.57
+|-
+| [[Stasiun Purwokerto|Purwokerto]] || 03.39 || 03.47
+|-
+| [[Stasiun Kroya|Kroya]] || 04.15 || 04.23
+|-
+| [[Stasiun Gombong|Gombong]] || 04.49 || 04.51
+|-
+| [[Stasiun Kebumen|Kebumen]] || 05.10 || 05.12
+|-
+| [[Stasiun Kutoarjo|Kutoarjo]] || 05.38 || 05.42
+|-
+| [[Stasiun Jenar|Jenar]] || 05.55 || 05.57
+|-
+| [[Stasiun Wates|Wates]] || 06.15 || 06.17
+|-
+| [[Stasiun Yogyakarta|Yogyakarta]] || 06.44 || 06.48
+|-
+| [[Stasiun Lempuyangan|Lempuyangan]] || 06.52 || -
+|}
+
+== Insiden ==
+* Pada tanggal [[13 November]] [[2015]], terjadi kecelakaan yang melibatkan kereta api Senja Utama Yogya dengan truk air minum yang menyeberang perlintasan sebidang di km 29,5 antara [[stasiun Bekasi|Bekasi]]-[[stasiun Tambun|Tambun]]. Akibatnya, lokomotif CC201 83 26 rusak dan tidak bisa bergerak. Tiada korban jiwa.<ref>[http://news.metrotvnews.com/read/2015/11/14/190689/ka-senja-utama-yogyakarta-dan-truk-terlibat-kecelakaan- MetroTV: KA Senja Utama Yogyakarta dan Truk Terlibat Kecelakaan]</ref>
+
+== Lihat pula ==
+* [[Kereta api Senja Utama Solo|Senja Utama Solo]]
+* [[Kereta api Fajar Utama Yogya|Fajar Utama Yogya]]
+
+== Referensi ==
+{{reflist}}
+
+== Pranala luar ==
+* {{id}} [http://www.kereta-api.co.id Situs web resmi PT Kereta Api Indonesia]
+
+{{DaftarKeretaApi}}
+{{Topik Yogyakarta}}
+
+[[Kategori:Kereta api di Indonesia|Senja Utama Yogya]]

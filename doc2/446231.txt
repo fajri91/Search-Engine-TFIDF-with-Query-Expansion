@@ -1,0 +1,2 @@
+Templat:Inflation/UK
+<includeonly>* {{#expr:{{Inflation/UK/dataset|{{{2}}}}}/{{Inflation/UK/dataset|{{{1}}}}}}}</includeonly><noinclude>{{documentation|Template:Inflation/doc/table}}</noinclude>

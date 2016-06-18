@@ -1,0 +1,37 @@
+Bandar Udara Ojika
+{{Infobox airport
+| name = Bandar Udara Ojika
+| nativename =
+| nativename-a = 
+| nativename-r =
+| image =
+| IATA =
+| ICAO = RJDO
+| type = Publik
+| operator = [[Perfektur Nagasaki]]
+| city-served =
+| location = [[Ojika, Nagasaki|Ojika]], Jepang
+| elevation-f = 25
+| latd = 33 | latm = 11 | lats = 27 | latNS = N
+| longd= 129 | longm= 05 | longs= 25 | longEW= E
+| coordinates_region = JP
+| pushpin_map = Japan
+| pushpin_label = RJDO
+| pushpin_map_caption = Lokasi di Jepang
+| website =
+| metric-rwy = yes
+| r1-number = 03/21
+| r1-length-m = 800
+| r1-surface = [[Aspal konsentrat]]
+| footnotes = Sumber: Japanese [[Aeronautical Information Publication|AIP]] at [[Aeronautical Information Service|AIS Japan]]<ref name="AIP">[https://aisjapan.mlit.go.jp/ AIS Japan]</ref>
+}}
+
+'''Bandar Udara Ojika''' {{airport codes||RJDO}} adalah [[lapangan terbang]] umum yang berlokasi kira-kira {{convert|3.0|km|abbr=on}} ditenggara<ref name="AIP"/> kantor kota [[Ojika, Nagasaki|Ojika]], [[Perfektur Nagasaki]], [[Jepang]].
+
+==Referensi==
+{{reflist}}
+
+{{Bandar udara di Jepang}}
+
+{{DEFAULTSORT:Ojika, Bandar udara}}
+[[Kategori:Bandar udara di Jepang]]

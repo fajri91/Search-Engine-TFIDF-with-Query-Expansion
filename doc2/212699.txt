@@ -1,0 +1,14 @@
+Templat:Upau, Tabalong
+{{Navigasi ID Desa
+|nama kecamatan=Upau
+|dati2=Kabupaten 
+|nama dati2=Tabalong
+|provinsi=Kalimantan Selatan
+|d1= Bilas 
+|d2= Kaong
+|d3= Kinarum
+|d4= Masingai I
+|d5= Masingai II
+|d6= Pangelak
+}}<noinclude>[[Kategori:Templat desa/kelurahan di Kalimantan Selatan|Tabalong]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Tabalong]]</noinclude>

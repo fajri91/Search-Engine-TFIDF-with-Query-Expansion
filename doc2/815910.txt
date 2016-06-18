@@ -1,0 +1,27 @@
+Loris
+{{other uses}}
+{{Original research|date=Juli 2014}}
+{{Automatic taxobox
+| name = Loris
+| fossil_range = [[Miosen]] - saat ini
+| taxon = Lorinae
+| authority = [[John Edward Gray|Gray]], 1821<ref name=msw3/>
+| image = Smit.Faces of Lorises.jpg
+| image_caption = [[Joseph Smit]]'s ''Faces of Lorises'' (1904)
+| subdivision_ranks = [[Genus|Genera]]
+| subdivision = {{plainlist|
+*''[[Loris (genus)|Loris]]''
+*''[[kukang|Nycticebus]]''}}
+| synonyms =
+* Lorisinae
+}}
+'''Loris''' adalah nama umum untuk [[primata]] [[Strepsirrhini]] dari subfamili '''Lorinae'''<ref name=msw3>{{MSW3 Groves|pages=122-123}}</ref> (kadang-kadang dieja '''Lorisinae'''<ref name=Brandon-Jones_et_al>{{cite journal | last1 = Brandon-Jones | first1 = D. | last2 = Eudey | first2 = A. A. | last3 = Geissmann | first3 = T. | last4 = Groves | first4 = C. P. | last5 = Melnick | first5 = D. J. | last6 = Morales | first6 = J. C. | last7 = Shekelle | first7 = M. | last8 = Stewart | first8 = C.-B. | title = Asian Primate Classification | page = 100 | journal = International Journal of Primatology | volume = 25 | issue = 1 | year = 2004 | url = http://www.gibbons.de/main/papers/pdf_files/2004asianprimates.pdf | format = PDF | doi = 10.1023/b:ijop.0000014647.18720.32 }}</ref>) dalam famili [[Lorisidae]]. ''Loris'' adalah salah satu genus dalam subfamili ini dan termasuk [[loris ramping]], sedangkan ''Nycticebus'' adalah genus yang berisi [[kukang]].
+
+==Referensi==
+
+{{Wikispecies|Lorinae|Loris}}
+{{reflist}}
+
+{{Lorisidae nav}}
+
+[[Category:Loris dan galago]]

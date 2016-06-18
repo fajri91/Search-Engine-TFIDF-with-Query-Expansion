@@ -1,0 +1,2 @@
+Templat:SudahDitampilkanDiHalamanUtama
+<span class="featured_article_metadata has_been_on_main_page">{{{1}}}</span><noinclude>[[Kategori:Templat bantuan gambar|{{PAGENAME}}]]</noinclude>

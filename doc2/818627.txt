@@ -1,0 +1,76 @@
+Templat:British Academy Television Award for Best Actor
+{{Navbox 
+| name       = British Academy Television Award for Best Actor
+| title      = [[British Academy Television Award for Best Actor|BAFTA TV Award for Best Actor]]
+| basestyle  = background: #BDB76B
+| state      = {{{state|autocollapse}}}
+| bodyclass  = hlist
+
+
+| list1  = 
+* [[Paul Rogers (aktor)|Paul Rogers]] (1955)
+* [[Peter Cushing]] (1956)
+* [[Michael Gough]] (1957)
+* [[Michael Hordern]] (1958)
+* [[Donald Pleasence]] (1959)
+* [[Patrick McGoohan]] (1960)
+* [[Lee Montague]] (1961)
+* [[Rupert Davies]] (1962)
+* [[Harry H. Corbett]] (1963)
+* [[Alan Badel]] (1964)
+* [[Patrick Wymark]] (1965)
+* [[Alan Badel]] (1966)
+* [[Warren Mitchell]] (1967)
+* [[Eric Porter]] (1968)
+* [[Roy Dotrice]] (1969)
+* [[Edward Woodward]] (1970)
+* [[Keith Michell]] (1971)
+* [[John Le Mesurier]] (1972)
+* [[Anthony Hopkins]] (1973)
+* [[Frank Finlay]] (1974)
+* [[Peter Barkworth]] (1975)
+* [[John Hurt]] (1976)
+* [[Derek Jacobi]] (1977)
+* [[Peter Barkworth]] (1978)
+* [[Edward Fox (aktor)|Edward Fox]] (1979)
+* [[Alec Guinness]] (1980)
+* [[Denholm Elliott]] (1981)
+* [[Anthony Andrews]] (1982)
+* [[Alec Guinness]] (1983)
+* [[Alan Bates]] (1984)
+* [[Tim Pigott-Smith]] (1985)
+* [[Bob Peck]] (1986)
+* [[Michael Gambon]] (1987)
+* [[David Jason]] (1988)
+* [[Ray McAnally]] (1989)
+* [[John Thaw]] (1990)
+* [[Ian Richardson]] (1991)
+* [[Robert Lindsay (aktor)|Robert Lindsay]] (1992)
+* [[John Thaw]] (1993)
+* [[Robbie Coltrane]] (1994)
+* [[Robbie Coltrane]] (1995)
+* [[Robbie Coltrane]] (1996)
+* [[Nigel Hawthorne]] (1997)
+* [[Simon Russell Beale]] (1998)
+* [[Tom Courtenay]] (1999)
+* [[Michael Gambon]] (2000)
+* [[Michael Gambon]] (2001)
+* [[Michael Gambon]] (2002)
+* [[Albert Finney]] (2003)
+* [[Bill Nighy]] (2004)
+* [[Rhys Ifans]] (2005)
+* [[Mark Rylance]] (2006)
+* [[Jim Broadbent]] (2007)
+* [[Andrew Garfield]] (2008)
+* [[Stephen Dillane]] (2009)
+* [[Kenneth Branagh]] (2010)
+* [[Daniel Rigby]] (2011)
+* [[Dominic West]] (2012)
+* [[Ben Whishaw]] (2013)
+* [[Sean Harris]] (2014)
+* [[Jason Watkins (aktor)|Jason Watkins]] (2015)
+}}<noinclude>
+{{collapsible option}}
+
+[[Category:Kotak navigasi British Academy Television Awards]]
+</noinclude>

@@ -1,0 +1,13 @@
+Templat:Ladanggas-stub
+{{Asbox
+| image     = Lufkin Mark II Oelpumpe im Oelfeld Hiersdorf in Oberoesterreich.jpg
+| pix       = 23
+| subject   = 
+| qualifier = [[ladang gas alam]]
+| category  = Rintisan bertopik ladang gas alam
+| tempsort  =  
+| name      = Templat:Ladanggas-stub
+}}<noinclude>
+
+[[Category:Templat energi|]]
+</noinclude>

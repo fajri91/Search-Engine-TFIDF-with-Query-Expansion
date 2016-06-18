@@ -1,0 +1,45 @@
+Serangan Gran Sasso
+{{operational plan
+| name        = Operasi Oak
+| partof      = [[Perang Dunia II]]
+| image       = [[Berkas:Bundesarchiv Bild 101I-567-1503A-07, Gran Sasso, Mussolini mit deutschen Fallschirmjgern.jpg|250px]]
+| caption     = Mussolini diselamatkan oleh para komandan Jerman dari penjaranya di ''[[Campo Imperatore]]'' pada 12 September 1943.
+| scope       = Operasional
+| type        = Penyerbuan
+| location    = [[Campo Imperatore]], [[Italia]]
+| coordinates = {{coord|42|25|34|N|13|31|42|E|type:event_region:IT_scale:50000|display=inline,title}}
+| map_type    = 
+| latitude    = 
+| longitude   = 
+| map_size    = 
+| map_caption = 
+| map_label   = 
+| planned     = [[Kurt Student]]
+| planned_by  = [[Harald Mors]]
+| objective   = Penyelamatan Benito Mussolini
+| target      = [[Campo Imperatore]]
+| date        = {{Start date|df=yes|1943|09|12}}
+| time        = 
+| time-begin  = 
+| time-end    = 
+| timezone    = 
+| executed_by = Fallschirmjger-Lehr-Bataillon [[Divisi Parasut ke-2 (Jerman)|2. Fallschirmjgerdivision]], 1/FJR 7; [[Batalion SS Jger ke-502|SS-Sonderverband z.b.V. Friedenthal]]
+| outcome     = Penyelamatan Benito Mussolini
+| casualties  = None
+| fatalities  = 
+| injuries    = 10
+}}
+
+'''Serangan Gran Sasso''' merujuk kepada '''Operasi ''Eiche''''' ([[bahasa Jerman]] untuk "Oak"), penyelamatan diktator Italia [[Benito Mussolini]] oleh [[Fallschirmjger|pasukan khusus]] [[Jerman Nazi|Jerman]] yang dipimpin oleh Mayor [[Harald Mors|Otto-Harald Mors]] dan komandan-komandan ''[[Waffen-SS]]'' pada September 1943, saat [[Perang Dunia II]]. Operasi udata tersebut secara pribadi diperintahkan oleh [[Adolf Hitler]], direncanakan oleh Harald Mors, dan disepakati oleh Jenderal [[Kurt Student]].
+
+== Bacaan tambahan ==
+* {{cite book|title = Fallschirmjager at the Gran Sasso: The Liberation of Mussolini by the German Parachutist on the 12th September 1943|first= Oscar|last=Gonzalez Lopez }}
+* {{cite book|title = Liberate il Duce|first= Marco|last=Patricelli|year = 2001|editor = Mondadori|series = Le Scie|language = Italian|isbn=88-04-48860-3}}
+* Forczyk, Robert (2010); ''Rescuing Mussolini  Gran Sasso 1943'', Osprey Raid Series #9; Osprey Publishing; ISBN 978-1-84603-462-6
+* Antonio Munoz: ''Forgotten Legions: Obscure Combat Formations of the Waffen-SS'', Axis Europa Inc (1991), ISBN 978-0-7394-0817-9
+
+== Pranala luar ==
+{{Commons category}}
+* [http://www.3squadron.org.au/subpages/sasso.htm 3squadron.org.au: Unique photos uncovered  Mussolini's Rescue from Gran Sasso in September 1943]
+
+[[Kategori:Benito Mussolini]]

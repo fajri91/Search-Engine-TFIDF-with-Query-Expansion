@@ -1,0 +1,49 @@
+RS Tarakan (Transjakarta)
+{{Kotakinfo halte Transjakarta
+| name              = RS Tarakan
+| corridor          = 8
+| station           = 20
+| isfuture          = no
+| image             = 
+| image_caption     = 
+| city              = Jakarta Pusat
+| neighborhood      = Cideng, Gambir
+| zipcode           = 10150
+| address           = Jalan Kyai Caringin
+| latitude          = -6.171147
+| longitude         = 106.810083
+| levelcount        = 
+| level1name        = Struktur
+| level1description = {{Station level|transitmode=BRT|elevation=freeway|platformlayout=center|platformcount=1}}
+| level2name        = 
+| level2description = 
+| level3name        = 
+| level3description = 
+| entrances         = Jembatan penyeberangan di sudut Jalan Kyai Caringin
+| faregates         = Ya
+| ADA               = 
+| parking           = 
+| bicycle           = 
+| other             = 
+| ownedby           = PT. Primajasa Perdayana Utama<br/>[[Perum DAMRI]]
+| othernames        = 
+| formernames       = 
+| status            = Beroperasi
+| opened            = [[21 Februari]] [[2009]]
+| closed            = 
+| rebuilt           = 
+| renovated         = 
+| services          = 
+{{s-rail|title=Transjakarta}}
+{{s-line|system=Transjakarta|line=8|notemid=Koridor 8A|previous=Tomang Mandala|next=Petojo|note2=rute pendek}}
+}}
+'''RS Tarakan''' adalah sebuah halte [[Transjakarta]] yang terletak di Jalan Kyai Caringin, [[Cideng, Gambir, Jakarta Pusat|Cideng]], [[Gambir, Jakarta Pusat|Gambir]], [[Jakarta Pusat]]. Halte ini berada di [[Transjakarta Koridor 8|Koridor 8]] yang membentang dari utara ke selatan. Nama halte ini berasal dari nama rumah sakit yang berada di dekatnya, yaitu RSUD Tarakan.
+
+== Pranala luar ==
+*[http://www.transjakarta.co.id/ Situs web Transjakarta]
+*[http://www.petabusway.com/ Peta Koridor & Rute Transjakarta]
+
+{{transjakarta-stub}}
+
+[[Kategori:Koridor 8 Transjakarta]]
+[[Kategori:Halte Transjakarta di Jakarta Pusat]]

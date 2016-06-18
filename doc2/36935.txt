@@ -1,0 +1,39 @@
+Beri-beri
+{{Penyangkalan-medis}}
+{{kembangkan}}
+{{Infobox_Disease |
+  Name           = Beriberi |
+  Image          = Beriberi_USNLM.jpg  |
+  Caption        = A sufferer  turn of the 20th century in [[southeast Asia]] |
+  DiseasesDB     = 14107 |
+  ICD10          = {{ICD10|E|51|1|e|50}} |
+  ICD9           = {{ICD9|265.0}} |
+  ICDO           = |
+  OMIM           = |
+  MedlinePlus    = |
+  eMedicineSubj  = ped |
+  eMedicineTopic = 229 |
+  eMedicine_mult = {{eMedicine2|med|221}} | 
+  MeshID         = D001602 |
+}}
+
+[[Berkas:COLLECTIE TROPENMUSEUM Beri-beri patient waterzucht TMnr 10006753.jpg|thumb|200px|Kaki penderita beriberi di Indonesia.]]
+'''Beri-beri''' adalah suatu [[penyakit]] yang disebabkan kekurangan [[vitamin B]], akibat yang ditimbulkan biasanya berupa bengkak-bengkak dan pembesaran pada [[betis]].  Beri-beri ada 3 jenis, yaitu: 
+
+# Beri-beri kering: Beri-beri kering memiliki gejala kaki terasa tebal dan kesemutan pada anggota badan. Otot lelah dan kekuatannya berkurang. Tahap akhir, anggota badan layuh dan penderita berjalan seperti ayam. Sering sesak napas dan jantung berdebar-debar bila sedikit berkegiatan. Beri-beri merupakan penyakit yang mengerikan karenanya penderita penyakit ini bisa meninggal dunia.  
+# Beri-beri basah: Beri-beri basah memiliki ciri adanya pembengkakan dari kaki, tungkai bawah, lalu muka, dan bagian tubuh lain. Bila betis yang bengkak ditekan, terbentuk cekungan yang tak segera hilang dan terasa sakit.  
+# Beri-beri jantung: Sedangkan, beri-beri jantung ditandai rasa tekanan di ulu hati, sesak napas, dan berdebar-debar dalam menjalankan kegiatannya. Kelamaan, gejala ini muncul tanpa ada kegiatan, mendadak, dan langsung berat dan penderita bisa meninggal dalam waktu singkat. 
+
+Menurut [[Jacobus Bontius]] (Jacob de Bondt; 15911631), dokter Belanda yang menjumpai penyakit ini ketika sedang bertugas di [[Jawa]] pada zaman [[J.P. Coen]], kata ini berasal dari kata [[wikt:biri-biri|biri-biri]]. Dalam bukunya ia mendeskripsikan penyakit ini: "Sebuah penyakit yang sangat mengganggu, yang disebut oleh penduduk setempat sebagai beri-beri (artinya domba). Saya percaya orang yang diserang penyakit ini, dengan lutut mereka gemetar dan kaki terangkat, mereka berjalan seperti domba. Penyakit ini semacam kelumpuhan, atau penyakit tremor: karena penyakit ini mengganggu gerakan dan sensasi tangan dan kaki, bahkan terkadang seluruh tubuh."<ref>{{cite book|first1=Jeremy M|last1=Berg|authorlink1=Jeremy M. Berg|first2=John L|last2=Tymoczko|first3=Lubert|last3=Stryer|authorlink3=Lubert Stryer|year=2002|chapter=The Disruption of Pyruvate Metabolism Is the Cause of Beriberi and Poisoning by Mercury and Arsenic|chapterurl=http://www.ncbi.nlm.nih.gov/books/NBK22340/#A2418|title=Biochemistry|edition=5th|isbn=978-0-7167-3051-4}}</ref>
+
+== Referensi ==
+{{reflist}}
+
+== Pranala luar ==
+* [http://www.wrongdiagnosis.com/b/beriberi/symptoms.htm www.wrongdiagnosis.com : beri-beri]
+* [http://0-www.nlm.nih.gov.catalog.llu.edu/medlineplus/ency/article/000339.htm Ensiklopedi Medis], [[Medline]], [[Institut Kesehatan National]].
+* [http://www.emedicine.com/ped/topic229.htm L Arturo Batres, MD. Beri-beri.EMedicine.com]
+
+{{penyakit-stub}}
+
+[[Kategori:Penyakit kekurangan zat gizi]]

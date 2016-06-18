@@ -1,0 +1,70 @@
+Algirdas emeta
+{{Infobox Officeholder
+|name         = Algirdas emeta
+|image        = Algirdas emeta.jpg
+|office       = [[Komisioner Eropa untuk Perpajakan dan Serikat Pabean, Audit dan Anti-Penipuan]]
+|president    = [[Jos Manuel Barroso]]
+|term_start   = 9 Februari 2010
+|term_end     = 1 November 2014
+|predecessor  = [[Lszl Kovcs (politikus)|Lszl Kovcs]] {{small|(Perpajakan dan Serikat Pabean)}}<br />[[Siim Kallas]] {{small|(Urusan Administratif, Audit dan Anti-Penipuan)}}
+|successor    = [[Pierre Moscovici]] {{small|( [[Komisioner Eropa untuk Ekonomi dan Urusan Keuangan dan Euro|Ekonomi dan Urusan Keuangan]], Perpajakan dan Pabean)}}
+|office1      = [[Komisioner Eropa untuk Pemprograman Keuangan dan Biaya]]
+|president1   = [[Jos Manuel Barroso]]
+|term_start1  = 1 Juli 2009
+|term_end1    = 9 Februari 2010
+|predecessor1 = [[Dalia Grybauskait]]
+|successor1   = [[Janusz Lewandowski]]
+|birth_date   = {{birth date and age|1962|4|23|df=y}}
+|birth_place  = [[Vilnius]], [[Uni Soviet]]<br />{{small|(sekarang [[Lithuania]])}}
+|death_date   = 
+|death_place  = 
+|party        = [[Serikat Tanah Air]]
+|alma_mater   = [[Universitas Vilnius]]
+}}
+'''Algirdas Gediminas emeta''' (kelahiran 23 April 1962) adalah seorang ekonom [[Lithuania]] dan [[Komisioner Eropa untuk Perpajakan dan Serikat Pabean, Audit dan Anti-Penipuan]].<ref>[http://ec.europa.eu/commission_barroso/semeta/index_en.htm Algirdas emeta introductory material at the European Commission website]</ref> Ia memegang jabatan tersebut sejak Juli 2009.
+
+Berasal dari [[Vilnius]], Algirdas emeta lulus pada 1985 dari Fakultas Cybernetik Ekonomi dan Keuangan [[Universitas Vilnius]] dengan gelar sebagai ekonom-matematikawan.<ref>[http://ec.europa.eu/commission_barroso/semeta/about/cv/index_en.htm Algirdas emeta ''curriculum vitae'' at the European Commission website]</ref> Sebelumnya ia menjabat sebagai Menteri Keuangan Lithuania, yang ia jabat dari Desember 2008 sampai Juni 2009, setelah sebelumnya menjabat dalam jabatan tersebut, dari Februari 1997 sampai Juni 1999. emeta memiliki pengalaman bisnis minimal dalam sektor swasta, karirnya dikonsentrasikan dalam ranah publik sebagai pelayan sipil.<ref>[http://www.europarl.europa.eu/hearings/static/commissioners/cv/SEMETA_CV_EN.pdf Algirdas Gediminas EMETA ''Curriculum Vitae'' on the European Union Website]</ref>
+
+Setelah pemilihannya pada Komisi oleh Perdana Menteri tengah-kanan [[Andrius Kubilius]], emeta mwngafiliasikan dirinya sendiri dengan [[Partai Rakyat Eropa]] (PRE).<ref>[http://news.bbc.co.uk/2/hi/europe/8378401.stm "Barroso gets new EU Commission team"], BBC News, 25 November 2009; accessed 28 November 2009</ref><ref>[http://www.epp.eu/newsdetail.php?hoofdmenuID=4&newsID=572&submenuID=49&subsubmenuID=147 "Barroso II: 13 EPP Commissioners receive key portfolios"], European People's Party, 27 November 2009; accessed 28 November 2009</ref>
+
+== Referensi ==
+
+{{reflist}}
+
+{{s-start}}
+{{s-off}}
+{{s-bef|rows=2|before=[[Dalia Grybauskait]]}}
+{{s-ttl|title=[[daftar Komisioner Eropa menurut kewarganegaraan#Lithuania|Komisioner Eropa Lithuania]]|years=20092014}}
+{{s-aft|after=[[Vytenis Andriukaitis]]}}
+|-
+{{s-ttl|title=[[Komisioner Eropa untuk Pemprograman Keuangan dan Biaya]]|years=20092010}}
+{{s-aft|after=[[Janusz Lewandowski]]}}
+|-
+{{s-bef|before=[[Lszl Kovcs (politikus)|Lszl Kovcs]]|as= Komisioner Eropa untuk Perpajakan dan Serikat Pabean}}
+{{s-ttl|rows=2|title=[[Komisioner Eropa untuk Perpajakan dan Serikat Pabean, Audit dan Anti-Penipuan]]|years=20102014}}
+{{s-aft|rows=2|after=[[Pierre Moscovici]]|as=Komisioner Eropa untuk [[Komisioner Eropa untuk Ekonomi dan Urusan Keuangan dan Euro|Ekonomi dan Urusan Keuangan]], Perpajakan dan Pabean}}
+|-
+{{s-bef|before=[[Siim Kallas]]|as=Komisioner Eropa untuk Urusan Administratif, Audit dan Anti-Penipuan}}
+{{s-end}}
+
+{{Komisi Barroso Pertama}}
+{{Komisi Barroso Kedua}}
+{{Partai Rakyat Eropa}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+|NAME =Semeta, Algirdas
+|ALTERNATIVE NAMES =
+|SHORT DESCRIPTION = politikus Lithuania
+|DATE OF BIRTH =23 April 1962
+|PLACE OF BIRTH =[[Vilnius]], [[Uni Soviet]] <small>(sekarang [[Lithuania]])</small>
+|DATE OF DEATH =
+|PLACE OF DEATH =
+}}
+{{DEFAULTSORT:Semeta, Algirdas}}
+[[Kategori:Kelahiran 1962]]
+[[Kategori:Politikus Serikat Tanah Air]]
+[[Kategori:Komisioner Eropa Lithuania]]
+[[Kategori:Orang hidup]]
+[[Kategori:Menteri Keuangan Lithuania]]
+[[Kategori:Tokoh dari Vilnius]]
+[[Kategori:Alumni Universitas Vilnius]]

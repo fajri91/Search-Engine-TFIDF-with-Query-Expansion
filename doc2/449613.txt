@@ -1,0 +1,70 @@
+Aturan Western Electric
+'''{{PAGENAME}}''' adalah sebuah aturan yang digunakan untuk mendeteksi kondisi di luar kontrol atau kondisi yang tidak acak dalam sebuah [[diagram kontrol]]. Aturan ini disusun oleh [[komite]] khusus dari divisi [[manufakturing]] perusahaan [[Western Electric Company]] yang dituangkan dalam buku [[Statistical Quality Control]] tahun 1956.<ref>{{Citation
+ | last = [[Western Electric Company]]
+ | publication-date = 1956
+ | title = [[Statistical Quality Control]] handbook.
+ | edition = 1
+ | publication-place = [[Indianapolis, Indiana]]
+ | publisher = Western Electric Co.
+ | oclc = 33858387
+ | page = v
+}}</ref>  Tujuannya adalah untuk memastikan semua pekerja dan teknisi mengintepretasikan [[diagram kontrol]] dengan cara yang seragam.<ref>{{Citation
+ | last = [[Western Electric Company]]
+ | publication-date = 1956
+ | title = [[Statistical Quality Control]] handbook.
+ | edition = 1
+ | publication-place = [[Indianapolis, Indiana]]
+ | publisher = Western Electric Co.
+ | oclc = 33858387
+ | page = 25
+}}</ref>
+
+== Pembagian Zona ==
+
+Aturan ini membagi [[diagram kontrol]] menjadi 4 zona yang diukur dalam satuan [[simpangan baku]] () antara garis tengah dengan [[batas kontrol]] sebagai berikut:
+
+{| class="wikitable" align=center
+! Zona !! wilayah
+|-
+| Zona A || Di antara 2 dari garis tengah dan batas kontrol (3)
+|-
+| Zona B || Di antara 1 dan 2 garis tengah
+|-
+| Zona C || Di antara 1 dari garis tengah
+|}
+
+== Aturan Zona ==
+
+Hal yang paling penting dari aturan Western Electric adalah aturan zona, yang dibuat untuk mendeteksi ketidakstabilan proses dan adanya penyebab khusus. <ref>{{Citation
+ | last = [[Western Electric Company]]
+ | publication-date = 1956
+ | title = [[Statistical Quality Control]] handbook.
+ | edition = 1
+ | publication-place = [[Indianapolis, Indiana]]
+ | publisher = Western Electric Co.
+ | oclc = 33858387
+ | page = 2528
+}}</ref>
+Ada empat aturan dasar yakni:
+
+{| class="wikitable" align=center
+! Aturan!! Penjelasan!! Contoh
+|-
+|width="75pt"| <center>Aturan 1</center> ||width="300pt"| Ada poin yang jatuh di luar batas 3 dari garis tengah ||[[Berkas:Rule 1 - Western electric control chart.svg]]
+|-
+| <center>Aturan 2</center>||Dua dari tiga poin secara berturut-turut jatuh di luar batas 2 (di zona A atau lebih), di sisi yang sama dari garis tengah.||[[Berkas:Rule 2 - Western electric control chart.svg]]
+|-
+| <center>Aturan 3</center> || Empat dari lima poin secara berturut-turut jatuh di luar batas 1 (di zona B atau lebih), di sisi yang sama dari garis tengah.||[[Berkas:Rule 3 - Western electric control chart.svg]]
+|-
+| <center>Aturan 4</center> || Sembilan poin secara berturut-turut jatuh di sisi yang sama dari garis tengah (di zona C atau lebih) ||[[Berkas:Rule 4 - Western electric control chart.svg]]
+|}
+
+== Rujukan ==
+
+{{reflist|2}}
+
+== Lihat pula ==
+* [[Aturan Nelson]]
+
+[[Kategori:Six Sigma]]
+[[Kategori:Pengendalian mutu| ]]

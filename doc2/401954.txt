@@ -1,0 +1,5 @@
+Templat:NYCS Sixth
+{{#ifeq:{{{exclude}}}|B||{{NYCS time 2|B|icon=weekdaysonly|text=hari kerja sampai 21:30|time={{{time|}}}}} {{NYCS br|time={{{time|}}}}}}} {{#ifeq:{{{exclude}}}|D||{{NYCS time 2|D|icon=alltimes|text=sepanjang waktu|time={{{time|}}}}} {{NYCS br|time={{{time|}}}}}}} {{#ifeq:{{{exclude}}}|F||{{NYCS time 2|F|icon=alltimes|text=sepanjang waktu|time={{{time|}}}}} {{NYCS br|time={{{time|}}}}}}} {{#ifeq:{{{exclude}}}|M||{{NYCS time 2|M|icon=weekdaysonly|text=hari kerja sampai 23:00|time={{{time|}}}}}}}<noinclude>
+{{esoteric}}
+[[Kategori:Templat divisi IND New York City Subway|6th]]
+</noinclude>

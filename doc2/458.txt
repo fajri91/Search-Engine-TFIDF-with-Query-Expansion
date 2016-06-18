@@ -1,0 +1,253 @@
+TvOne
+{{lowercase}}
+{{tentang|stasiun televisi di Indonesia|stasiun televisi di Selandia baru|TV One (Selandia Baru)}}
+{{Infobox TV channel
+| Name = tvOne
+| Other name = PT Lativi Media Karya
+| logofile = LOGO-tvOne-New-2012.jpeg
+| logosize = 250px
+| launch = [[30 Juli]] [[2002]]<br />(sebagai Lativi)<br />[[14 Februari]] [[2008]]<br />(sebagai tvOne)
+| key people = [[Abdul Latief (pengusaha)|Abdul Latief]] <br /> [[Anindya Bakrie]] <br /> [[Erick Thohir]] <br /> [[Ardiansyah Bakrie]]
+| owner = [[ALatief Corporation]] (2002-2006)<br/>[[Visi Media Asia]] (2006-sekarang)
+| headquarters = Jl. Rawa Terate II No. 2, Kawasan Industri Pulo Gadung, [[Pulo Gadung]], [[Daerah Khusus Ibukota Jakarta]] Kode Pos 13260
+| slogan = '''Sebagai Lativi'''<br/>"Saluran Penuh Nilai Dan Makna"<br /><small>([[17 Januari]] [[2002]]-[[7 Agustus]] [[2004]])</small><br />"Pasti"<br /><small>([[7 Agustus]] [[2004]]-[[31 Desember]] [[2006]])</small><br />"Berani Beda"<br /><small>([[1 Januari]] [[2007]]-[[31 Desember]] [[2007]])</small><br />"Memang Beda"<br /><small>([[1 Januari]] [[2008]]-[[14 Februari]] [[2008]])</small><br />
+'''Sebagai tvOne'''<br />"Memang Beda"<br /><small>([[14 Februari]] [[2008]]-[[14 Februari]] [[2010]], [[2 Maret]] [[2012]]-sekarang)</small><br />"Terdepan Mengabarkan"<br /><small>([[14 Februari]] [[2010]]-[[2 Maret]] [[2012]])</small><br />"Menuju Satu Dunia"<br /><small>([[24 Februari]] [[2011]]-[[2 Maret]] [[2012]])</small>
+| motto = ''Memang Beda''
+| country = {{IDN}}
+| former names = '''Lativi'''<br /><small>([[30 Juli]] [[2002]]-[[14 Februari]] [[2008]])</small>
+| Sister channel = [[antv]]<br/><small>([[30 April]] [[2006]]-sekarang)</small>
+| availability note = Nasional
+  |terr serv 1      = [[Banda Aceh]]  |terr chan 1      = 44 UHF
+  |terr serv 2      = [[Bandung]]     |terr chan 2      = 48 UHF
+  |terr serv 3      = [[Banjarmasin]] |terr chan 3      = 26 UHF
+  |terr serv 4      = [[Batam]]       |terr chan 4      = 27 UHF
+  |terr serv 5      = [[Cirebon]]     |terr chan 5      = 52 UHF
+  |terr serv 6      = [[Denpasar]]    |terr chan 6      = 41 UHF
+  |terr serv 7      = [[Garut]]       |terr chan 7      = 32 UHF
+  |terr serv 8      = [[Jakarta]]     |terr chan 8      = 53 UHF
+  |terr serv 9      = [[Kota Jambi|Jambi]]    |terr chan 9      = 39 UHF
+  |terr serv 10     = [[Jayapura]]    |terr chan 10      = 53 UHF
+  |terr serv 11     = [[Kediri]]      |terr chan 11      = 47 UHF
+  |terr serv 12     = [[Kolaka]]      |terr chan 12     = 23 UHF
+  |terr serv 13     = [[Lampung]]     |terr chan 13     =55 UHF
+  |terr serv 14     = [[Makassar]]    |terr chan 14     = 47 UHF
+  |terr serv 15     = [[Malang]]      |terr chan 15     = 54 UHF
+  |terr serv 16     = [[Medan]]       |terr chan 16     = 37 UHF
+  |terr serv 17     = [[Padang]]      |terr chan 17     = 27 UHF
+  |terr serv 18     = [[Palangkaraya]]   |terr chan 18  = 23 UHF
+  |terr serv 19     = [[Palembang]]   |terr chan 19     = 40 UHF
+  |terr serv 20     = [[Purwokerto]]  |terr chan 20     = 51 UHF
+  |terr serv 21     = [[Samarinda]]   |terr chan 21     = 39 UHF
+  |terr serv 22     = [[Semarang]]    |terr chan 22     = 39 UHF
+  |terr serv 23     = [[Surabaya]]    |terr chan 23     = 52 UHF
+  |terr serv 24     = [[Surakarta]]   |terr chan 24     = 38 UHF
+  |terr serv 25     = [[Tanjungbalai]]   |terr chan 25  = 38 UHF 
+  |terr serv 26     = [[Tarakan]]     |terr chan 26     = 53 UHF
+  |terr serv 27     = [[Tegal]]       |terr chan 27     = 49 UHF
+  |terr serv 28     = [[Yogyakarta]]  |terr chan 28     = 38 UHF
+  |sat serv 1       = [[Indovision]]  |sat chan 1       = 97
+  |sat serv 2       = [[Top TV (TV berlangganan)|TopTV]]  |sat chan 2       = 97
+  |sat serv 3       = [[OkeVision]]   |sat chan 3       = 112
+  |sat serv 4       = [[OrangeTV]]    |sat chan 4       = 103
+  |sat serv 6       = [[Skynindo]]    |sat chan 6       = 206
+  |sat serv 7       = [[TransVision]] |sat chan 7       = 139
+  |cable serv 1     = [[First Media]] |cable chan 1     = 5
+  |cable serv 2     = [[Max3]]        |cable chan 2     = 150 
+  |online serv 1    = [[UseeTV]] |online chan 1    = {{URL|http://www.useetv.com/livetv/tvone|tvOne}}
+  |online serv 2    = [[VIVA.co.id]]    |online chan 2    = {{URL|http://news.viva.co.id/streaming/tvone|www.news.viva.co.id}}
+  |iptv serv 1      = [[Groovia TV]]  |iptv chan 1      = 103
+| Availability = Nasional
+| web = {{URL|http://www.tvonenews.tv/tentangkami/}}
+}}
+'''tvOne''' (sebelumnya bernama '''Lativi''') adalah sebuah [[stasiun televisi]] [[swasta]] [[Televisi terestrial|terestrial]] [[nasional]] di [[Indonesia]]. Berawal dari penggunaan nama Lativi, stasiun televisi ini didirikan pada tanggal [[30 Juli]] [[2002]] oleh [[Abdul Latief (pengusaha)|Abdul Latief]] dan dimiliki oleh [[ALatief Corporation]]. Pada saat itu, [[konsep]] penyusunan acaranya adalah banyak menonjolkan masalah yang berbau [[klenik]], [[erotisme]], berita [[kriminalitas]] dan beberapa hiburan ringan lainnya. Sejak tahun [[2006]], sebagian sahamnya juga dimiliki oleh [[Bakrie & Brothers|Grup Bakrie]] yang juga memiliki stasiun televisi [[antv]].
+
+Pada tanggal [[14 Februari]] [[2008]], Lativi secara resmi berganti nama menjadi tvOne, dengan komposisi 70 persen berita, sisanya gabungan program olahraga dan hiburan. Abdul Latief tidak lagi berada dalam kepemilikan saham tvOne. Komposisi kepemilikan saham tvOne terdiri dari [[Visi Media Asia|PT Visi Media Asia Tbk]] sebesar 49%, [[Redal Semesta|PT Redal Semesta]] 31%, Good Response Ltd 10%, dan [[Promise Result]] Ltd 10%. Direktur Utama tvOne saat ini adalah [[Ardiansyah Bakrie]].<ref>[http://www.gudangalamat.com/2014/06/alamat-tvone-jakarta-stasiun-televisi.html Alamat stasiun tvOne di Jakarta] diterbitkan oleh bayu kusuma wijaya selaku direksi tvone.</ref>
+
+== Sejarah ==
+=== Lativi ===
+==== Izin siaran ====
+Pada awal siaran, tvOne dahulu bernama '''Lativi'''. Lativi sendiri berdiri berdasarkan izin dari [[Kementerian Komunikasi dan Informatika Indonesia|Depkominfo]] Kanwil. [[Kota Administrasi Jakarta Timur|Jakarta Timur]] dengan '''No. 809/BH.09.05/III/[[1999]]''' yang sebagian besar sahamnya dimiliki oleh [[ALatief Corporation]]
+(perusahaan yang dimiliki oleh [[Abdul Latief (pengusaha)|Abdul Latief]]). Pada bulan [[Januari]] [[1999]], keberadaan Lativi diumumkan dalam Berita Negara No. 8687 sebagai '''PT Lativi Media Karya'''.
+
+Lativi sendiri mulai disiarkan sejak tahun [[1999]] sebagai izin siaran dan awal tahun [[2001]] sebagai siaran percobaan. Meskipun siaran percobaan, Lativi telah membangun [[Stasiun Relai TV|stasiun relai televisi]] di [[Daerah Khusus Ibukota Jakarta|Kota Jakarta]].
+
+=== tvOne ===
+Mulai Kamis, [[14 Februari]] [[2008]] pukul 19:30 [[Waktu Indonesia Barat|WIB]], Lativi secara resmi berganti nama menjadi '''tvOne'''. Kepastian peresmian nama baru ini disampaikan [[Chief executive officer|Direktur utama]] dari tvOne, [[Erick Thohir]], dalam jumpa pers Rabu, [[13 Februari]] [[2008]]. Perubahan nama ini adalah upaya strategi manajemen untuk memberikan sesuatu yang berbeda di industri pertelevisian [[Indonesia]]. Peresmian tvOne akan dilaksanakan di Plenary Hall, [[Jakarta Convention Center|Gedungan Jakarta Convention Center]], dan ditayangkan secara langsung di tvOne mulai pukul 19:30 WIB. Peresmian tvOne juga dilakukan oleh [[Presiden Republik Indonesia]], [[Susilo Bambang Yudhoyono]].
+
+Pada tahun [[2014]], tvOne juga memiliki hak siar dalam ajang sepakbola bergengsi di dunia [[Piala Dunia FIFA 2014]] bersama [[antv]].
+
+== Galeri logo ==
+{{Logo saluran televisi}}
+
+=== Lativi ===
+<gallery>
+Berkas:TvOne Logo (formerly Lativi) 2002.svg|Logo pertama Lativi berwarna merah, kuning dan jingga, dipakai saat siaran percobaan dan pertama kali diluncurkan (17 Januari 1999-30 Juli 2002)
+Berkas:TvOne Logo (formerly Lativi) 2002-2006.svg|Logo kedua Lativi berwarna kuning keemasan, dipakai sesudah resmi diluncurkan sebagai siaran 18 jam (30 Juli 2002-31 Agustus 2007)
+Berkas:Logo Lativi 2005-2007.jpg|Logo ketiga Lativi berwarna kuning keemasan, dengan tulisan saja (1 September-19 November 2007)
+Berkas:TvOne Logo (formely Lativi) 2006-2008.svg|Logo terakhir Lativi berwarna abu-abu, dengan tulisan saja (20 November 2007-12 Februari 2008)
+</gallery>
+
+=== tvOne ===
+<gallery>
+Berkas:TvOne logo (2010).png|Logo pertama tvOne berwarna merah, dengan angka 1 di dalam lingkaran berwarna merah (14 Februari 2008-25 Februari 2011)
+Berkas:TvOne Logo(2011).svg|Logo kedua tvOne berwarna merah, dengan konsep dunia dan angka 1 di dalam lingkaran berwarna merah (25 Februari 2011-2 Maret 2012)
+Berkas:LOGO-tvOne-New-2012.jpeg|Logo ketiga tvOne berwarna putih, dengan konsep dunia dan angka 1 di dalam lingkaran berwarna merah (2 Maret 2012-sekarang)
+Berkas:TvOne Logo(2012).svg|Logo tvOne sebagai logo ''on-air'' (2 Maret 2012-sekarang)
+</gallery>
+
+== Program ==
+{{utama|Daftar acara TvOne}}
+
+== Penyiar ==
+{{col-css3-begin|4}}
+* [[Abraham Silaban]]
+* [[Alfito Deannova]]
+* [[Andromeda Mercury]]
+* [[Arief Fadhil]]
+* [[Aryo Widiardi]]
+* [[Atika Sunarya]]
+* [[Bagus Priambodo]]
+* [[Bayu Andrianto]]
+* [[Brigita Manohara]]
+* [[Chacha Annisa]]
+* [[Dewi Budianti]]
+* [[Dina Faisal]]
+* [[Dita Faisal]]
+* [[Divi Lukmansyah]]
+* [[Dwi Anggia]]
+* [[Elvira Khairunnisa]]
+* [[Fanni Imaniar]]
+* [[Farah Dilla]]
+* [[Fauzan Zaman]]
+* [[Fenny Anastasia]]
+* [[Harya Digdaya]]
+* [[Indiarto Priadi]]
+* [[Indy Rahmawati]]
+* [[Ike Suharjo]]
+* [[Karni Ilyas]]
+* [[Kevin Egan]]
+* [[Lady Malino]]
+* [[Maya Rahma]]
+* [[Muhammad Rizky (penyiar)|Muhammad Rizky]]
+* [[Nane Nindya]]
+* [[Paramitha Soemantri]]
+* [[Putri Viola]]
+* [[Sheila Purnama]]
+* [[Shinta Puspitasari]]
+* [[Stewart Henry]]
+* [[Tysa Noveni]]
+* [[Winny Charita]]
+* [[Ventin Oktavi]]
+* [[Yaumi Fitri]]
+* [[Yenny Yusra]]
+* [[Yunita Prima]]
+* [[Winda Irawan]]
+{{col-css3-end}}
+
+== Mantan penyiar ==
+* [[Andrie Djarot]]
+* [[Bonardo Aritonang]]
+* [[Choky Sitohang]]
+* [[Cindy Sistyarani]]
+* [[Grace Natalie]]
+* [[Jemmy Darusman]]
+* [[Panji Himawan]]
+* [[Pramita Andini]]
+* [[Mascarana]]
+* [[Suli Kusumo]]
+* [[Sutra Karmelia]]
+* [[Tina Talisa]]
+
+== Biro ==
+=== Domestik ===
+* [[Medan Polonia, Medan|Polonia]], [[Kota Medan|Medan]]
+* [[Rappocini, Makassar|Rappocini]], [[Kota Makassar|Makassar]]
+* [[Jemur Wonosari, Wonocolo, Surabaya|Jemur Wonosari]], [[Kota Surabaya|Surabaya]]
+
+=== Internasional ===
+* [[Kuala Lumpur]], [[Malaysia]]
+* [[Moskow]], [[Rusia]]
+* [[Dubai]], [[UAE]]
+* [[Berlin]], [[Jerman]]
+* [[Sydney]], [[Australia]]
+* [[New York]], [[Amerika Serikat]]
+* [[Kiev]], [[Ukraina]]
+* [[Riyadh]], [[Arab Saudi]]
+* [[Gaza]], [[Palestina]]
+* [[Jerusalem]], [[West Bank]]
+
+== Daftar direktur utama ==
+{| class="wikitable"
+|-
+! No.
+! Nama
+! Awal jabatan
+! Akhir jabatan
+|-
+| 1
+| [[Usman Ja'far]] 
+| 2002
+| 2003
+|-
+| 2
+| [[Hasyim Sumiana]] 
+| 2003
+| 2006
+|-
+| 3
+| [[Meidiana Latief]]
+| 2006
+| 2007
+|-
+| 4
+| [[Erick Thohir]]
+| 2007
+| 2010
+|-
+| 5
+| [[Ardiansyah Bakrie]]
+| 2010
+| sekarang
+|}
+
+== Kontroversi ==
+=== Era Lativi ===
+Lativi sempat memperoleh kecaman publik saat menayangkan program gulat SmackDown pada jam tayang yang dapat ditonton anak-anak, saat seorang anak berusia 9 tahun tewas setelah menirukan adegan dari program gulat tersebut. Lativi sempat mengubah jam tayang program namun memutuskan untuk menghentikan penayangan setelah memperoleh peringatan.
+
+=== Era tvOne ===
+==== Bias ====
+Secara umum, banyak pihak yang berpendapat bahwa tvOne seringkali menyajikan pemberitaan yang cenderung tidak berimbang. [[Joko Widodo]] dan [[Basuki Tjahaja Purnama]] yang pada 2013 menjabat sebagai pasangan Gubernur dan Wakil Gubernur DKI Jakarta sempat secara terbuka marah saat diwawancarai tvOne. Joko Widodo marah karena merasa dibohongi dan kemudian disudutkan saat diwawancarai mengenai 100 hari kinerja Gubernur DKI Jakarta<ref>http://forum.detik.com/akibat-ingkar-janji-jokowi-marah-kepada-tv-one-t613415.html</ref>, sementara Basuki marah karena merasa difitnah dengan pemberitaan yang tidak logis<ref>http://www.merdeka.com/jakarta/cerita-jokowi-ahok-marahi-wartawan-tvone.html</ref>.
+
+Pada pemilihan umum Presiden 2014, tvOne memperoleh kritikan tajam karena memberikan porsi berita lebih banyak kepada pasangan Prabowo Subianto - Hatta Rajasa beserta Koalisi Merah Putih ketimbang pasangan Joko Widodo - Jusuf Kalla.<ref>http://www.kpi.go.id/index.php/lihat-sanksi/32095-peringatan-tentang-pemberitaan-pasangan-calon-presiden-dan-wakil-presiden-tv-one</ref> Kritikan yang sama juga dilontarkan kepada 4 stasiun televisi lainnya.<ref>http://www.kpi.go.id/index.php/lihat-terkini/38-dalam-negeri/32097-pernyataan-bersama-dewan-pers-dan-komisi-penyiaran-indonesia-tentang-independensi-media-penyiaran</ref> KPI secara pribadi juga menyorot [[Metro TV]] dan tvOne karena dianggap tidak berimbang dalam pemberitaan seputar Pilpres 2014<ref>http://www.kpi.go.id/index.php/lihat-terkini/38-dalam-negeri/32130-kpi-imbau-pengelola-tv-jaga-independensi-pemberitaan</ref>.
+
+==== Pelanggaran iklan ====
+tvOne mendapatkan teguran karena menyelipkan iklan niaga dalam siaran azan maghrib pada 2011<ref>http://www.merdeka.com/peristiwa/kontroversi-tayangan-azan-di-tv.html</ref>. tvOne juga merupakan salah satu dari 8 stasiun televisi yang diberi sanksi oleh KPI karena melanggar aturan iklan kampanye Pilpres 2014<ref>http://www.kpi.go.id/index.php/lihat-terkini/38-dalam-negeri/31988-siaran-pers-tentang-pelanggaran-iklan-kampanye-di-lembaga-penyiaran</ref>.
+
+==== Konten tidak layak siar ====
+Pada waktu pencarian korban dan puing-puing [[Indonesia AirAsia Penerbangan 8501|setelah jatuhnya pesawat AirAsia]], tvOne sempat dikecam karena menampilkan gambar jasad mengapung yang diduga korban AirAsia<ref>http://news.detik.com/read/2014/12/30/151504/2790180/10/airasia-marah-tvone-tayangkan-gambar-jasad-korban-mengapung</ref>.
+
+==== Eksploitasi korban dalam wawancara ====
+tvOne mendapat kecaman keras dari berbagai pihak setelah tayangan Indonesia Lawyers Club pada 13 Oktober 2013 yang mengundang salah satu anak-anak yang dekat dengan pelaku kekerasan seksual. Dalam acara tersebut, korban diwawancara dan diminta untuk menceritakan kehidupan sehari-harinya dan kedekatannya dengan pelaku dalam siaran langsung. Remotivi berpendapat bahwa wawancara tersebut sebagai "eksploitasi anak" karena dapat berdampak traumatik kepada anak serta melanggar pedoman Komisi Penyiaran Indonesia.<ref>"[http://www.remotivi.or.id/meja-redaksi/224/Eksploitasi-Anak-di-Televisi Eksploitasi Anak di Televisi]", Remotivi.co.id. Diakses 17 Oktober 2015.</ref>
+
+== Lihat pula ==
+* [[Daftar stasiun televisi Indonesia]]
+* [[Televisi]]
+
+== Referensi ==
+<references />
+
+== Pranala luar ==
+* {{id}} [http://www.tvonenews.tv/tentangkami/ Situs web resmi tvOne]
+
+{{Kelompok templat
+|list = {{clr}}
+{{acara tvOne}}
+{{Penyiar Tvone}}
+{{Saluran berita internasional}}
+{{TelevisiIndonesia}}
+{{Situs Web Indonesia}}
+}}
+
+[[Kategori:Stasiun televisi Indonesia]]
+[[Kategori:Saluran berita internasional]]
+[[Kategori:Stasiun televisi yang berdiri pada tahun 2002]]

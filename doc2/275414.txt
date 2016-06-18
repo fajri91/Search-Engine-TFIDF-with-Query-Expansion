@@ -1,0 +1,16 @@
+Templat:Timpah, Kapuas
+{{Navigasi ID Desa |provinsi=Kalimantan Tengah|dati2=Kabupaten|nama dati2=Kapuas
+|nama kecamatan=Timpah
+|d1= Aruk 
+|d2= Batapah 
+|d3= Danau Pantau 
+|d4= Lawang Kajang 
+|d5= Lawang Kamah 
+|d6= Lungkuh Layang 
+|d7= Petak Puti 
+|d8= Timpah 
+|d9= Tumbang Randang
+}}<noinclude>
+[[Kategori:Templat desa/kelurahan di Kalimantan Tengah|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Kapuas|{{PAGENAME}}]]
+</noinclude>

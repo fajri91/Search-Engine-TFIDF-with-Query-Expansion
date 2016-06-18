@@ -1,0 +1,168 @@
+Templat:BUMN
+{{Navbox with collapsible groups
+|name  = BUMN
+|title = {{flagicon|Indonesia}} [[Badan Usaha Milik Negara|Badan usaha milik negara]] [[Indonesia]] ([[Daftar badan usaha milik negara Indonesia|daftar]])
+|state = autocollapse
+|bodyclass=hlist
+|group1 = Akomodasi dan penyediaan makanan dan minuman
+|list1 =
+* [[Inna Group Hotel]]
+
+|group2 = Industri pengolahan
+|list2 =
+* [[Balai Pustaka]]
+* [[Barata Indonesia]]
+* [[PT Batan Teknologi|Batan Teknologi]]
+* [[Boma Bisma Indra]]
+* [[Bio Farma]]
+* [[Dahana]]
+* [[Dok dan Perkapalan Surabaya]]
+* [[Garam (perusahaan)|Garam]]
+* [[Industri Gelas]]
+* [[Industri Kapal Indonesia]]
+* [[Indofarma]]
+* [[Industri Kereta Api]]
+* [[Industri Telekomunikasi Indonesia]]
+* [[Industri Sandang Nusantara]]
+* [[Kertas Leces]]
+* [[Kertas Padalarang]]
+* [[Kimia Farma]]
+* [[Kertas Kraft Aceh]]
+* [[Dok dan Perkapalan Kodja Bahari]]
+* [[Krakatau Steel]]
+* [[LEN Industri]]
+* [[PAL Indonesia]]
+* [[Percetakan Uang Republik Indonesia]]
+* [[Pindad]]
+* [[Percetakan Negara Republik Indonesia]]
+* [[Primissima]]
+* [[Dirgantara Indonesia]]
+* [[Pupuk Indonesia Holding Company|Pupuk Indonesia]]
+* [[Semen Baturaja]]
+* [[Semen Indonesia]]
+* [[Semen Kupang]]
+
+|group3 = Informasi dan telekomunikasi
+|list3 =
+* [[Lembaga Kantor Berita Nasional Antara]]
+* [[Produksi Film Negara]]
+* [[Telkom Indonesia]]
+
+|group4 = Jasa keuangan dan asuransi
+|list4 =
+* [[Asabri]]
+* [[Asuransi Ekspor Indonesia]]
+* [[Asuransi Kredit Indonesia]]
+* [[Bahana PUI]]
+* [[Bank Negara Indonesia]]
+* [[Bank Rakyat Indonesia]]
+* [[Bank Tabungan Negara]]
+* [[Danareksa]]
+* [[Jaminan Kredit Indonesia]]
+* [[Jasa Raharja]]
+* [[Asuransi Jasa Indonesia]]
+* [[Asuransi Jiwasraya]]
+* [[Kliring Berjangka Indonesia]]
+* [[Bank Mandiri]]
+* [[PANN Multi Finance]]
+* [[Pegadaian (perusahaan)|Pegadaian]]
+* [[Permodalan Nasional Madani]]
+* [[Perusahaan Pengelola Aset]]
+* [[Reasuransi Umum Indonesia]]
+* [[Taspen]]
+
+|group5 = Jasa profesional, ilmiah dan teknis
+|list5 =
+* [[Bina Karya]]
+* [[Biro Klasifikasi Indonesia]]
+* [[Energy Management Indonesia]]
+* [[Indah Karya]]
+* [[Indra Karya]]
+* [[Sucofindo]]
+* [[Survai Udara Penas]]
+* [[Surveyor Indonesia]]
+* [[Virama Karya]]
+* [[Yodya Karya]]
+
+|group6 = Konstruksi
+|list6 = 
+* [[Adhi Karya]]
+* [[Amarta Karya]]
+* [[Brantas Abipraya]]
+* [[Hutama Karya]]
+* [[Istaka Karya]]
+* [[Pembangunan Perumahan Nasional]]
+* [[Pembangunan Perumahan]]
+* [[Waskita Karya]]
+* [[Wijaya Karya]]
+* [[Nindya Karya]]
+
+|group7 = Pengadaan air, pengelolaan sampah, dan daur ulang
+|list7 = 
+* Jasa Tirta ([[Jasa Tirta I|I]] & [[Jasa Tirta II|II]])
+
+|group8 = Pengadaan gas, uap dan udara dingin 
+|list8 = 
+* [[Perusahaan Gas Negara]]
+* [[Perusahaan Listrik Negara]]
+
+|group9 = Perdagangan besar dan eceran 
+|list9 = 
+* [[PP Berdikari]]
+* [[Badan Urusan Logistik]]
+* [[Perusahaan Perdagangan Indonesia]]
+* [[Sarinah]]
+
+|group10 = Pertambangan dan penggalian 
+|list10 = 
+* [[Aneka Tambang]]
+* [[Bukit Asam]]
+* [[Inalum]]
+* [[Pertamina]]
+* [[Timah (perusahaan)|Timah]]
+
+|group11 = Pertanian, kehutanan, dan perikanan
+|list11 = 
+* [[Perhutani]]
+* [[Perikanan Indonesia]]
+* [[Perikanan Nusantara]]
+* [[Pertani]]
+* [[Perkebunan Nusantara III]]
+* [[Rajawali Nusantara Indonesia]]
+* [[Sang Hyang Seri]]
+
+|group12 = Real estate
+|list12 = 
+* [[TWC Borobudur, Prambanan dan Ratu Boko]]
+* [[Bali Tourism & Development Corporation]]
+
+|group13 = Transportasi dan pergudangan
+|list13 = 
+* [[Lembaga Penyelenggara Pelayanan Navigasi Penerbangan Indonesia]]
+* Angkasa Pura ([[Angkasa Pura I|I]] & [[Angkasa Pura II|II]])
+* [[ASDP Indonesia Ferry]]
+* [[Bhanda Ghara Reksa]]
+* [[DAMRI]]
+* [[Djakarta Lloyd]]
+* [[Garuda Indonesia]]
+* [[Jasa Marga]]
+* [[Kawasan Berikat Nusantara]]
+* [[Kereta Api Indonesia]]
+* [[Kawasan Industri Medan]]
+* [[Kawasan Industri Makasar]]
+* [[Kawasan Industri Wijayakusuma]]
+* [[Merpati Nusantara Airlines]]
+* [[Pengembangan Daerah Industri Pulau Batam]]
+* Pelabuhan Indonesia ([[Pelabuhan Indonesia I|I]], [[Pelabuhan Indonesia II|II]], [[Pelabuhan Indonesia III|III]], [[Pelabuhan Indonesia IV|IV]])
+* [[Pelayaran Nasional Indonesia]]
+* [[Pos Indonesia]]
+* [[Pengangkutan Penumpang Djakarta]]
+* [[Varuna Tirta Prakasya]]
+
+|group14 = Patungan minoritas
+|list14 = 
+* [[Freeport Indonesia]]
+* [[Jakarta Industrial Estate Pulogadung]]
+* [[Surabaya Industrial Estate Rungkut]]
+
+}}<noinclude>[[Kategori:Templat navigasi perusahaan]]</noinclude>

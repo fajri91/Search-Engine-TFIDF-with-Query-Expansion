@@ -1,0 +1,22 @@
+Windows Forms
+'''Windows Forms''' adalah sebuah nama yang diberikan untuk elemen [[graphical user interface|antarmuka dengan pengguna berbasis grafik]] yang dimasukkan ke dalam [[Microsoft .NET Framework]], yang mengizinkan akses terhadap elemen-elemen antarmuka grafik sistem operasi Windows dengan memasukkan [[Windows API]] yang telah ada ke dalam ''[[managed code]]''. 
+
+Berikut ini adalah contoh [[program komputer|program]] berbasis [[C sharp|C#]] dengan menggunakan <code>Windows.Forms</code>:
+
+<source lang="csharp">
+using System.Windows.Forms;
+using System;
+ 
+public class HelloWorld
+{
+   [STAThread]
+   public static void Main() {
+      MessageBox.Show("Hello world!");
+   }
+}
+</source>
+{{.NET}}
+{{bahasa-komputer-stub}}
+
+[[Kategori:.NET framework]]
+[[Kategori:API Microsoft]]

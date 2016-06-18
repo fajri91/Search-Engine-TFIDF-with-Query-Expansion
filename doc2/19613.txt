@@ -1,0 +1,60 @@
+Daftar kabupaten dan kota di Kalimantan Selatan
+Berikut daftar '''[[kabupaten]] dan/atau [[kota]] di [[provinsi]] [[Kalimantan Selatan]]'''
+<onlyinclude>
+{| class="wikitable sortable"
+! No.
+! Kabupaten/Kota
+! Pusat pemerintahan
+! Bupati/Wali Kota
+! Kecamatan<!-- teks dapat diganti dengan jumlah -->
+! Kelurahan/desa<!-- teks dapat diganti dengan jumlah -->
+! Logo [[Berkas:Lambang Provinsi Kalimantan Selatan.gif|right|30px]]
+! Lokasi
+|-
+|1||[[Kabupaten Balangan]]||[[Paringin, Balangan|Paringin]]||[[Ansharuddin]]||align="center" |[[Daftar kecamatan dan kelurahan di Kabupaten Balangan|8]]||align="center" |[[Daftar kecamatan dan kelurahan di Kabupaten Balangan|3/149]]||[[Berkas:Lambang Kabupaten Balangan.png|center|50px]]
+| [[Berkas:Lokasi Kalimantan Selatan Kabupaten Balangan.svg|80px]]
+|-
+|2||[[Kabupaten Banjar]]||[[Martapura, Banjar|Martapura]]||[[Khalilurahman]]||align="center" |[[Daftar kecamatan dan kelurahan di Kabupaten Banjar|19]]||align="center" |[[Daftar kecamatan dan kelurahan di Kabupaten Banjar|13/277]]||[[Berkas:Lambangkabbanjar.jpg|center|50px]]
+| [[Berkas:Lokasi Kalimantan Selatan Kabupaten Banjar.svg|80px]]
+|-
+|3||[[Kabupaten Barito Kuala]]||[[Marabahan, Barito Kuala|Marabahan]]||[[Hasanuddin Murad]]||align="center" |[[Daftar kecamatan dan kelurahan di Kabupaten Barito Kuala|17]]||align="center" |[[Daftar kecamatan dan kelurahan di Kabupaten Barito Kuala|6/194]]||[[Berkas:Lambang Kabupaten Barito Kuala.png|center|50px]]
+| [[Berkas:Lokasi Kalimantan Selatan Kabupaten Barito Kuala.svg|80px]]
+|-
+|4||[[Kabupaten Hulu Sungai Selatan]]||[[Kandangan, Hulu Sungai Selatan|Kandangan]]||[[Achmad Fikry]]||align="center" |[[Daftar kecamatan dan kelurahan di Kabupaten Hulu Sungai Selatan|11]]||align="center" |[[Daftar kecamatan dan kelurahan di Kabupaten Hulu Sungai Selatan|4/144]]||[[Berkas:Lambang Kabupaten Hulu Sungai Selatan.png|center|50px]]
+| [[Berkas:Lokasi Kalimantan Selatan Kabupaten Hulu Sungai Selatan.svg|80px]]
+|-
+|5||[[Kabupaten Hulu Sungai Tengah]]||[[Barabai, Hulu Sungai Tengah|Barabai]]||[[Abdul Latif (bupati)|Abdul Latif]]||align="center" |[[Daftar kecamatan dan kelurahan di Kabupaten Hulu Sungai Tengah|11]]||align="center" |[[Daftar kecamatan dan kelurahan di Kabupaten Hulu Sungai Tengah|8/161]]||[[Berkas:Lambang Kabupaten Hulu Sungai Tengah.png|center|50px]]
+| [[Berkas:Lokasi Kalimantan Selatan Kabupaten Hulu Sungai Tengah.svg|80px]]
+|-
+|6||[[Kabupaten Hulu Sungai Utara]]||[[Amuntai, Hulu Sungai Utara|Amuntai]]||[[Abdul Wahid]]||align="center" |[[Daftar kecamatan dan kelurahan di Kabupaten Hulu Sungai Utara|10]]||align="center" |[[Daftar kecamatan dan kelurahan di Kabupaten Hulu Sungai Utara|5/214]]||[[Berkas:Lambang Kabupaten Hulu Sungai Utara.png|center|50px]]
+| [[Berkas:Lokasi Kalimantan Selatan Kabupaten Hulu Sungai Utara.svg|80px]]
+|-
+|7||[[Kabupaten Kotabaru]]||[[ Kotabaru (kota)|Kotabaru]] ||[[Sayed Jafar Alaydrus]]||align="center" |[[Daftar kecamatan dan kelurahan di Kabupaten Kotabaru|20]]||align="center" |[[Daftar kecamatan dan kelurahan di Kabupaten Kotabaru|20/195]]||[[Berkas:Lambang Kabupaten Kotabaru.png|center|50px]]
+| [[Berkas:Lokasi Kalimantan Selatan Kabupaten Kotabaru.svg|80px]]
+|-
+|8||[[Kabupaten Tabalong]]||[[Tanjung, Tabalong|Tanjung]]||[[Anang Syakhfiani]]||align="center" |[[Daftar kecamatan dan kelurahan di Kabupaten Tabalong|12]]||align="center" |[[Daftar kecamatan dan kelurahan di Kabupaten Tabalong|9/122]]||[[Berkas:Lambang Kabupaten Tabalong.jpeg|center|50px]]
+| [[Berkas:Lokasi Kalimantan Selatan Kabupaten Tabalong.svg|80px]]
+|-
+|9||[[Kabupaten Tanah Bumbu]]||[[Batulicin, Tanah Bumbu|Batulicin]]||[[Mardani H. Maming]]||align="center" |[[Daftar kecamatan dan kelurahan di Kabupaten Tanah Bumbu|10]]||align="center" |[[Daftar kecamatan dan kelurahan di Kabupaten Tanah Bumbu|6/129]]||[[Berkas:Lambang Kabupaten Tanah Bumbu2.gif|center|50px]]
+| [[Berkas:Lokasi Kalimantan Selatan Kabupaten Tanah Bumbu.svg|80px]]
+|-
+|10||[[Kabupaten Tanah Laut]]||[[Pelaihari, Tanah Laut|Pelaihari]]||[[Bambang Alamsyah]]||align="center" |[[Daftar kecamatan dan kelurahan di Kabupaten Tanah Laut|11]]||align="center" |[[Daftar kecamatan dan kelurahan di Kabupaten Tanah Laut|5/130]]||[[Berkas:Lambang Kabupaten Tanah Laut.jpg|center|50px]]
+| [[Berkas:Lokasi Kalimantan Selatan Kabupaten Tanah Laut.svg|80px]]
+|-
+|11||[[Kabupaten Tapin]]||[[Rantau, Tapin|Rantau]]||[[Arifin Arpan]]||align="center" |[[Daftar kecamatan dan kelurahan di Kabupaten Tapin|12]]||align="center" |[[Daftar kecamatan dan kelurahan di Kabupaten Tapin|8/125]]||[[Berkas:Lambang Kabupaten Tapin.png|center|50px]]
+| [[Berkas:Lokasi Kalimantan Selatan Kabupaten Tapin.svg|80px]]
+|-
+|12||[[Kota Banjarbaru]]||-||[[Ruzaidin Noor]]||align="center" |[[Daftar kecamatan dan kelurahan di Kota Banjarbaru|5]]||align="center" |[[Daftar kecamatan dan kelurahan di Kota Banjarbaru|20/-]]||[[Berkas:Lambang Kota Banjarbaru.png|center|50px]]
+| [[Berkas:Lokasi Kalimantan Selatan Kota Banjarbaru.svg|80px]]
+|-
+|13||[[Kota Banjarmasin]]||-||[[Ibnu Sina (wali kota Banjarmasin)|Ibnu Sina]]||align="center" |[[Daftar kecamatan dan kelurahan di Kota Banjarmasin|5]]||align="center" |[[Daftar kecamatan dan kelurahan di Kota Banjarmasin|52/-]]||[[Berkas:Lambang Kota Banjarmasin.gif|center|50px]]
+| [[Berkas:Lokasi Kalimantan Selatan Kota Banjarmasin.svg|80px]]
+|}
+</onlyinclude>
+{{Daftar Dati II}}
+{{Kalimantan Selatan}}
+
+[[Kategori:Kalimantan Selatan| ]]
+[[Kategori:Kabupaten di Kalimantan Selatan| ]]
+[[Kategori:Kota di Kalimantan Selatan| ]]
+[[Kategori:Daftar pembagian administratif Indonesia]]

@@ -1,0 +1,14 @@
+Peluruhan orbit
+[[Berkas:Satellite decay in low Earth orbit.jpg|300px|jmpl|Peluruhan orbit satelit di [[orbit bumi rendah]].]]
+'''Peluruhan orbit''' ''(orbital decay)'' adalah proses yang mengarah pada penyusutan secara bertahap jarak antara dua benda yang mengorbit pada titik terdekat (periapsis) dari sekian periode orbit.
+
+Bila peluruhan orbit terus berlangsung, akan timbul kekacauan orbit di mana objek yang lebih kecil dapat bertabrakan dengan objek yang lebih besar.
+
+Peluruhan orbital dapat disebabkan oleh banyak efek mekanik, gravitasi, dan elektromagnetik. Untuk dalam orbit Bumi rendah, efek yang paling signifikan adalah tarik atmosfer.
+
+== Referensi ==
+{{Reflist}}
+*[http://www.ips.gov.au/Category/Educational/Space%20Weather/Space%20Weather%20Effects/SatelliteOrbitalDecayCalculations.pdf Orbital decay calculations, with discussion and examples]
+* http://www.lizard-tail.com/isana/lab/orbital_decay/ SATELLITE ORBITAL DECAY. Calculating decay rates and orbital lifetimes of satellites in essentially circular orbits below 500 km altitude.
+[[Kategori:Gravitasi]]
+[[Kategori:Orbit]]

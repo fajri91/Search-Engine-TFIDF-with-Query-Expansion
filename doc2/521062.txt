@@ -1,0 +1,35 @@
+Alap-alap australia
+{{Taxobox
+| name = {{PAGENAME}}
+| image = Australian Hobby Pikedale Jul02.JPG
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=106003613 |title=''Falco longipennis'' |assessors=[[BirdLife International]] |version=2012.1 |year=2012 |accessdate=16 July 2012}}</ref>
+| regnum = [[Animalia]]
+| phylum = [[Chordata]]
+| classis = [[Burung|Aves]]
+| ordo = [[Falconiformes]]
+| familia = [[Falconidae]]
+| genus = ''[[Falcon|Falco]]''
+| species = '''''F. longipennis'''''
+| binomial = ''Falco longipennis''
+| binomial_authority = [[William John Swainson|Swainson]], 1837
+}}
+
+[[Berkas:Aus hobby samcem aug08.jpg|thumb|250px|left|Samsonvale Cemetery, SE Queensland]]
+'''{{PAGENAME}}''' (''Falco longipennis'') adalah burung [[falkon]] yang ditemukan khususnya di [[Australia]]. Burung ini juga bermigrasi pada musim dingin ke [[Indonesia]] dan [[Selandia Baru]]. Burung ini merupakan [[burung pemangsa]] terkecil di Australia, dengan panjang sekitar 30 - 36 cm. Burung ini sangat menyerupai [[alap-alap kawah]], hanya berukuran lebih kecil dan memiliki bulu yang lebih gelap.
+
+Burung ini mendiami hutan terbuka dan dapat melakukan manuver dengan cepat melalui dedaunan saat mengejar burung lain. Mereka juga dapat beradaptasi dan akan mengunjungi taman kota, kebun, dan semak semak. Mereka akan berburu burung kecil, hingga hampir seukuran mereka sendiri, dan sering terlihat saat senja berburu kelelawar dan serangga besar.
+
+Saat berkembang biak, mereka mengambil alih sarang burung lain. Burung betina akan mengerami telur sementara burung jantan berburu.
+
+
+{{commons category|Falco longipennis}}
+{{wikispecies|Falco longipennis}}
+
+== Referensi ==
+{{Reflist}}
+{{burung-stub}}
+
+[[Kategori:Burung Indonesia]]
+[[Kategori:Falco]]

@@ -1,0 +1,70 @@
+CAD
+{{disambig info|CAD}}
+[[Berkas:cad crank.jpg|right|thumb|Oblique view dari crankshaft piston 4 silinder .]]
+'''Computer Aided Design''' adalah suatu program komputer untuk menggambar suatu produk atau bagian dari suatu produk. Produk yang ingin digambarkan bisa diwakili oleh garis-garis maupun simbol-simbol yang memiliki makna tertentu. CAD bisa berupa gambar 2 dimensi dan gambar 3 dimensi.
+
+Berawal dari menggantikan fungsi meja gambar kini perangkat lunak CAD telah berevolusi dan terintegrasi dengan perangkat lunak [[CAE]] (Computer Aided Engineering) dan [[CAM]] (Computer Aided Manufacturing. Integrasi itu dimungkinkan karena perangkat lunak CAD saat ini kebanyakan merupakan aplikasi gambar 3 dimensi atau biasa disebut solid modelling. Solid model memungkinkan kita untuk memvisualisasikan komponen dan rakitan yang kita buat secara realistik. Selain itu model mempunyai properti seperti [[massa]], [[volume]], [[pusat gravitasi]] , luas permukaan dll.
+
+== Perangkat lunak CAD yang populer ==
+* [[Pro/ENGINEER]]
+* [[AutoCAD]]
+* [[Solid Works]]
+* [[Catia]]
+* [[Unigraphics]]
+* [[ProgeCAD]] perangkat lunak CAD gratis
+* [[ZWCAD]]
+
+== Referensi ==
+* {{cite web
+  | title = Sejarah CAD/CAM
+  | publisher = CADAZZ
+  | year = 2004
+  | url = http://www.cadazz.com/cad-software-history.htm
+}}
+* {{cite web
+  | last = Pillers
+  | first = Michelle
+  | title = MCAD Renaissance of the 90's
+  | publisher = Cadence Magazine
+  | year = 1998.03
+  | url = http://www.edeinc.com/Cadence/98Mar/Article98Mar.html
+}}
+* {{cite web
+  | last = Bozdoc
+  | first = Martian
+  | title = The History of CAD
+  | publisher = iMB
+  | url = http://mbinfo.mbdesign.net/CAD-History.htm
+}}
+* {{cite web
+  | last = Joneja
+  | first = Ajay
+  | title = Some Important Events in the Development of Computer-Aided Design and Manufacturing
+  | publisher = IELM
+  | url = http://www.ielm.ust.hk/dfaculty/ajay/courses/ieem317/lecs/3dcad/timeline.html
+}}
+* {{cite web
+  | last = Carlson
+  | first = Wayne 
+  | title = A Critical History of Computer Graphics and Animation
+  | publisher = Ohio State University
+  | year = 2003
+  | url = http://accad.osu.edu/~waynec/history/lesson10.html
+}}
+
+== Pranala luar ==
+{{commonscat|CAD}}
+* [http://arriscad.com Architectural CAD & BIM]
+* [http://builderscad.com CAD / BIM and Builders System]
+* {{dmoz|Computers/CAD_and_CAM/|Computer-aided design}}
+* [http://www.inspirtech.com SolidWorks Lessons that can be used in highschools]
+* [http://www.visionhouse-software.co.uk/articles/interior-design-software.asp CAD for Interior Design]
+* [http://www.catia.friko.pl CAD System Gallery]
+* [http://www.solidworks.co.il 3D CAD In Israel]
+* [http://www.cadcambasics.com/ CAD/CAM Basics]
+* [http://www.cncrouter.info/cncrouter_support.html Specialist CAD/CAM software for CNC Routers ]
+
+{{software-stub}}
+
+[[Kategori:CAD]]
+[[Kategori:Perangkat lunak]]

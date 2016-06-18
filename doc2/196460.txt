@@ -1,0 +1,21 @@
+Lampu uap raksa
+[[Berkas:MercuryVaporLamp.jpg|thumb|250px|right|Sebuah lampu jalan uap-raksa 175[[Watt|W]] 15 detik setelah dihidupkan]]
+[[Berkas:MV Lamp 175 W.JPG|thumb|250px|right|Foto lampu uap raksa 175[[Watt|W]]]]
+'''Lampu uap-raksa''' adalah sebuah [[lampu lucutan gas]] yang menggunakan [[raksa]] dalam keadaan terusik untuk menghasilkan cahaya. Busur lucutan biasanya dikungkung di dalam tabung busur [[kuarsa leburan]] yang dipasang pada bola lampu [[borosilikat]] yang lebih besar. Bola lampu bagian luar mungkin jernih atau dilapisi dengan [[fosfor]], dalam kedua keadaan, gelas bagian luar memberikan isolasi [[termal]], perlindungan radiasi [[ultraviolet]], dan tempat pemasangan tabung busur kuarsa leburan.<ref>{{cite book|first=John|last=Waymouth|year=1971|title=Electric Discharge Lamps|publisher=The M.I.T. Press|location=Cambridge, MA|isbn=0262230488}}</ref>
+
+Lampu uap raksa biasanya digunakan karena efisiensi yang relatif tinggi. Bola lampu terlapisi fosfor memberikan warna cahaya yang lebih baik daripada [[lampu uap natrium]]. Lampu uap raksa juga memberikan umur yang lebih panjang, selain itu juga memberikan penyinaran yang kuat dan terpusat.
+
+== Teori ==
+
+Lampu uap raksa adalah peranti [[resistansi negatif]] dan memerlukan komponen pembantu (misalnya [[pengimbang elektronik]]) untuk mencegahnya mengambil [[arus listrik|arus]] berlebihan. Komponen pembantu yang digunakan pada dasarnya pada dengan yang digunakan pada [[lampu pendar]].
+
+Seperti lampu pendar, lampu uap raksa biasanya juga memerlukan starter yang biasanya dicantumkan di dalam lampu itu sendiri. Sebuah [[elektrode]] ketiga ditempatkan didekat salah satu elektrode utama dan dihubungkan dengan elektrode utama lainnya melalui sebuah [[resistor]]. Ketika tegangan dikenakan, ada cukup tegangan untuk memulai busur di antara elektrode ketiga dan elektrode utama didekatnya. Pelucutan busur ini akhirnya memberikan cukup raksa ter[[ionisasi]] untuk memulai busur di antara elektrode utama. Kadang-kadang [[sakelar termal]] juga dipasang untuk mematikan elektrode ketiga untuk mematikan busur pemicu setelah busur utama terjadi.
+
+== Lihat pula ==
+{{commons|Mercury-vapor lamp}}
+== Referensi ==
+{{reflist}}
+* [http://www.lamptech.co.uk/ Museum Teknologi Lampu Elektrik]
+{{Lampu listrik}}
+
+[[Kategori:Lampu|Uap raksa]]

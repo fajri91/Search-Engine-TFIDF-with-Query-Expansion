@@ -1,0 +1,6 @@
+Templat:Grup A Habibie Cup 2015
+{{KepalaKlasemen|Grup A PD2014|expanded={{{expanded|}}}}}
+{{Fb cl2 team |t=[[Berkas:LOGO KOTA PAREPARE.png|20xpx]] [[Persipare Parepare]] |w=2 |d=0 |l=0 |gf=4 |ga=0|bc=#ccffcc}}
+{{Fb cl2 team |t=[[Berkas:Enrekang club.jpg|20xpx]] [[Gasma Enrekang]] |w=1 |d=0 |l=1 |gf=3 |ga=1|bc=#ccffcc}}
+{{Fb cl2 team |t=[[Berkas:Logo Perssin Sinjai.jpg|20xpx]] [[Perssin Sinjai]]|w=0 |d=0 |l=2 |gf=0 |ga=6}}
+|}

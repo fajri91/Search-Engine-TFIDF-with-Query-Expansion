@@ -1,0 +1,44 @@
+Acanthodoxus
+{{Taxobox
+|name = Acanthodoxus
+|status = 
+|image = 
+|image_caption = 
+|domain = 
+|regnum = [[Animalia]]
+|phylum = [[Arthropoda]]
+|classis = [[Insecta]]
+|ordo = [[Coleoptera]]
+|familia = [[Cerambycidae]]
+|subfamilia = [[Lamiinae]]
+|tribus = [[Acanthocinini]]
+|genus = Acanthodoxus
+|range_map = 
+|range_map_caption = 
+|image2 = 
+|image2_caption = 
+}}
+'''''Acanthodoxus''''' adalah genus [[kumbang tanduk panjang]] yang berasal dari famili [[Cerambycidae]]. Genus ini juga merupakan bagian dari ordo [[Coleoptera]], kelas [[Insecta]], filum [[Arthropoda]], dan kingdom [[Animalia]].
+
+[[Larva]] [[kumbang]] dalam genus ini biasanya mengebor ke dalam [[kayu]] dan dapat menyebabkan kerusakan pada [[batang]] kayu hidup atau kayu yang telah ditebang.
+
+== Spesies ==
+Genus ini meliputi spesies berikut:<ref>Bezark, Larry G. [http://plant.cdfa.ca.gov/byciddb/bycidview.asp A Photographic Catalog of the Cerambycidae of the World]. Retrieved on 22 May 2012.</ref>
+
+* ''[[Acanthodoxus delta]]'' <small>Martins & Monn, 1974</small>
+* ''[[Acanthodoxus machacalis]]'' <small>Martins & Monn, 1974</small>
+
+== Referensi ==
+
+{{reflist}}
+
+== Pustaka ==
+
+* ''TITAN: Cerambycidae database''. Tavakilian G., 25 Mei 2009
+
+{{Acanthocinini}}
+
+{{DEFAULTSORT:Acanthodoxus}}
+
+[[Kategori:Acanthocinini]]
+[[Kategori:Acanthodoxus| ]]

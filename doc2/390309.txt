@@ -1,0 +1,3 @@
+Templat:Infobox road/NH/abbrev Turnpike
+{{#switch:{{{num}}}
+|{{{num}}} Tpke.}}<noinclude>[[Kategori:Templat kotakinfo jalan bebas hambatan di New Hampshire|{{PAGENAME}}]]</noinclude>

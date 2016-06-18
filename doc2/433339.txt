@@ -1,0 +1,27 @@
+Templat:Narmada, Lombok Barat
+{{Navigasi ID Desa 
+|provinsi=Nusa Tenggara Barat
+|dati2=Kabupaten
+|nama dati2=Lombok Barat
+|nama kecamatan=Narmada
+|d1=Badrain
+|d2=Batu Kuta
+|d3=Dasan Tereng
+|d4=Gerimak Indah
+|d5=Krama Jaya
+|d6=Lebah Sempaga
+|d7=Lembuak
+|d8=Nyur Lembang
+|d9=Peresak
+|d10=Peru
+|d11=Sedau
+|d12=Selat
+|d13=Sembung
+|d14=Sesaot
+|d15=Suranadi
+|d16=Tanak Beak
+}}
+<noinclude>
+[[Kategori:Templat desa/kelurahan di Nusa Tenggara Barat|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Lombok Barat|{{PAGENAME}}]]
+</noinclude>

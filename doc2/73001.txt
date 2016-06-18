@@ -1,0 +1,40 @@
+County Jrva
+{{Infobox settlement
+| name                    = Jrva County
+| settlement_type         = [[County di Estonia]]
+| image_flag              = Flag_of_et-Jrva_maakond.svg
+| flag_size               = 125px
+| image_shield            = Et-Jrva maakond-coa.svg
+| shield_size             = 75px
+| image_map               = Jarvamaa.png
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = [[Estonia]]
+| seat_type               = Capital
+| seat                    = [[Paide]]
+| leader_title            = Governor
+| leader_name             = Tiina Oraste
+| area_total_km2          = 2623
+| population_total        = 36130
+| population_as_of        = Jan 2009<ref name="County_population">{{cite web|url=http://pub.stat.ee/px-web.2001/Dialog/varval.asp?ma=PO0222&path=../I_Databas/Population/01Population_indicators_and_composition/04Population_figure_and_composition/&lang=1|title=Population by sex, ethnic nationality and County, 1 January|date=1 January 2009|work=stat.ee|publisher=Statistics Estonia|accessdate=2009-10-18}}</ref>
+| population_density_km2  = auto
+| iso_code                = EE-51
+| website                 = 
+| footnotes               = 
+}}
+'''County Jrva''' ({{lang-et|Jrva maakond}}), atau '''''Jrvamaa''''' ({{lang-de|Jerwen}}, {{lang-la|Jervia}}), merupakan sebuah daerah di [[Estonia]] yang memiliki luas wilayah 2.623&nbsp;km dan populasi 36.130 jiwa ([[2009]]).<ref name="County_population"/> Ibu kotanya ialah [[Paide]].
+
+<gallery>
+Seidla misa tuuleveski1.jpg|
+Esna allikajrv.jpg|
+Albu misa sild 2012.jpg|
+Roosna-Alliku misa peahoone.jpg|
+</gallery>
+
+== Referensi ==
+{{reflist}}
+
+{{DEFAULTSORT:Jarva, County}}
+[[Kategori:County di Estonia]]
+
+
+{{Estonia-geo-stub}}

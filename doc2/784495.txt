@@ -1,0 +1,71 @@
+Templat:R. K. Narayan
+{{navbox
+| name = R. K. Narayan
+| title = [[R. K. Narayan]]
+| state = {{{state|autocollapse}}}
+| listclass = hlist
+
+| group1 = [[:Kategori:R. K. Narayan|Artikel utama]]
+|  list1 =
+* [[R. K. Narayan]]
+* [[Malgudi]]
+* [[Indian Thought Publications]]
+
+| group2 = [[:Kategori:Novel karya R. K. Narayan|Novel]]
+|  list2 =
+* ''[[Swami and Friends]]''
+* ''[[The Bachelor of Arts]]''
+* ''[[The Dark Room (novel Narayan)|The Dark Room]]''
+* ''[[The English Teacher]]''
+* ''[[Mr. Sampath - The Printer of Malgudi]]''
+* ''[[The Financial Expert]]''
+* ''[[Waiting for the Mahatma]]''
+* ''[[The Guide]]''
+* ''[[The Man-Eater of Malgudi]]''
+* ''[[The Vendor of Sweets]]''
+* ''[[The Painter of Signs]]''
+* ''[[A Tiger for Malgudi]]''
+* ''[[Talkative Man]]''
+* ''[[The World of Nagaraj]]''
+* ''[[Grandmother's Tale]]''
+
+| group3 = [[:Kategori:Kumpulan cerita pendek karya R. K. Narayan|Kumpulan]]
+|  list3 =
+* ''[[Malgudi Days (buku)|Malgudi Days]]''
+* ''[[An Astrologer's Day and Other Short Stories]]''
+* ''[[Lawley Road and Other Stories]]''
+* ''[[A Horse and Two Goats and Other Stories]]''
+* ''[[Under the Banyan Tree and Other Stories]]''
+* ''[[The Grandmother's Tale and Selected Stories]]''
+
+| group4 = [[:Kategori:Buku karya R. K. Narayan|Non-fiksi]]
+|  list4 =
+* ''[[Next Sunday]]''
+* ''[[My Dateless Diary]]''
+* ''[[My Days]]''
+* ''[[Reluctant Guru]]''
+* ''[[The Emerald Route]]''
+* ''[[A Writer's Nightmare]]''
+* ''[[Mysore (buku Narayan)|Mysore]]''
+
+; Mitologi
+: ''[[Gods, Demons and Others]]''
+: ''[[The Ramayana (buku Narayan)|The Ramayana]]''
+: ''[[The Mahabharata (buku Narayan)|The Mahabharata]]''
+
+| group5 = [[:Kategori:R. K. Narayan|Adaptasi layar]]
+|  list5 =
+* ''[[Guide (film)|Guide]]''
+* ''[[Malgudi Days (serial TV)|Malgudi Days]]''
+* ''[[Banker Margayya]]''
+* ''[[Miss Malini]]''
+
+}}<noinclude>
+{{collapsible option}}
+{{DEFAULTSORT:Narayan, R. K.}}
+[[Kategori:Kotak navigasi penulis Inggris]]
+[[Kategori:Kotak navigasi penulis India]]
+[[Kategori:Kotak navigasi novelis]]
+[[Kategori:Kotak navigasi penulis cerita pendek]]
+[[Kategori:Karya penulis]]
+</noinclude>

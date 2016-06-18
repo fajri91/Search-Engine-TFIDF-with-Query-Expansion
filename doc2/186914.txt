@@ -1,0 +1,23 @@
+Loganiaceae
+{{Taxobox
+| name = Loganiaceae
+| color = lightgreen
+| image = Spigelia genuflexa flowers.jpg
+| image_caption = ''[[Spigelia genuflexa]]''
+| image_width = 200px
+| regnum = [[Plantae]]
+| divisio = [[Flowering plant|Magnoliophyta]]
+| classis = [[Dicotyledon|Magnoliopsida]]
+| ordo = [[Gentianales]]
+| familia = '''Loganiaceae''' 
+| familia_authority = 
+| subdivision_ranks = [[Genus|Genera]]
+| subdivision = 
+lihat teks.
+}}
+'''Loganiaceae''' adalah salah satu [[familia|suku]] anggota [[tumbuhan berbunga]]. Menurut [[Sistem klasifikasi APG II]] suku ini termasuk dalam [[Ordo (biologi)|bangsa]] [[Gentianales]].
+
+{{commons|Loganiaceae}}
+{{botani-stub}}
+
+[[Kategori:Loganiaceae| ]]

@@ -1,0 +1,25 @@
+Templat:Post-nominals
+<span style="font-size:{{{size|85%}}};"><!--
+ -->{{#if:{{{unlinked|{{{list|{{{post-noms|}}}}}}}}} |{{{unlinked|{{{list|{{{post-noms|}}}}}}}}}
+     |   {{#if:{{{1|}}}  |{{post-nominals/{{{country|CAN}}}|{{{1}}}}}}}<!--
+      -->{{#if:{{{2|}}}  |{{#if:{{{sep|}}}{{{commas|}}}|,}}&nbsp;{{post-nominals/{{{country|CAN}}}|{{{2}}}}}}}<!--
+      -->{{#if:{{{3|}}}  |{{#if:{{{sep|}}}{{{commas|}}}|,}}&nbsp;{{post-nominals/{{{country|CAN}}}|{{{3}}}}}}}<!--
+      -->{{#if:{{{4|}}}  |{{#if:{{{sep|}}}{{{commas|}}}|,}}&nbsp;{{post-nominals/{{{country|CAN}}}|{{{4}}}}}}}<!--
+      -->{{#if:{{{5|}}}  |{{#if:{{{sep|}}}{{{commas|}}}|,}}&nbsp;{{post-nominals/{{{country|CAN}}}|{{{5}}}}}}}<!--
+      -->{{#if:{{{6|}}}  |{{#if:{{{sep|}}}{{{commas|}}}|,}}&nbsp;{{post-nominals/{{{country|CAN}}}|{{{6}}}}}}}<!--
+      -->{{#if:{{{7|}}}  |{{#if:{{{sep|}}}{{{commas|}}}|,}}&nbsp;{{post-nominals/{{{country|CAN}}}|{{{7}}}}}}}<!--
+      -->{{#if:{{{8|}}}  |{{#if:{{{sep|}}}{{{commas|}}}|,}}&nbsp;{{post-nominals/{{{country|CAN}}}|{{{8}}}}}}}<!--
+      -->{{#if:{{{9|}}}  |{{#if:{{{sep|}}}{{{commas|}}}|,}}&nbsp;{{post-nominals/{{{country|CAN}}}|{{{9}}}}}}}<!--
+      -->{{#if:{{{10|}}} |{{#if:{{{sep|}}}{{{commas|}}}|,}}&nbsp;{{post-nominals/{{{country|CAN}}}|{{{10}}}}}}}<!--
+      -->{{#if:{{{11|}}} |{{#if:{{{sep|}}}{{{commas|}}}|,}}&nbsp;{{post-nominals/{{{country|CAN}}}|{{{11}}}}}}}<!--
+      -->{{#if:{{{12|}}} |{{#if:{{{sep|}}}{{{commas|}}}|,}}&nbsp;{{post-nominals/{{{country|CAN}}}|{{{12}}}}}}}<!--
+      -->{{#if:{{{13|}}} |{{#if:{{{sep|}}}{{{commas|}}}|,}}&nbsp;{{post-nominals/{{{country|CAN}}}|{{{13}}}}}}}<!--
+      -->{{#if:{{{14|}}} |{{#if:{{{sep|}}}{{{commas|}}}|,}}&nbsp;{{post-nominals/{{{country|CAN}}}|{{{14}}}}}}}<!--
+      -->{{#if:{{{15|}}} |{{#if:{{{sep|}}}{{{commas|}}}|,}}&nbsp;{{post-nominals/{{{country|CAN}}}|{{{15}}}}}}}<!--
+      -->{{#if:{{{16|}}} |{{#if:{{{sep|}}}{{{commas|}}}|,}}&nbsp;{{post-nominals/{{{country|CAN}}}|{{{16}}}}}}}<!--
+      -->{{#if:{{{17|}}} |{{#if:{{{sep|}}}{{{commas|}}}|,}}&nbsp;{{post-nominals/{{{country|CAN}}}|{{{17}}}}}}}<!--
+      -->{{#if:{{{18|}}} |{{#if:{{{sep|}}}{{{commas|}}}|,}}&nbsp;{{post-nominals/{{{country|CAN}}}|{{{18}}}}}}}<!--
+      -->{{#if:{{{19|}}} |{{#if:{{{sep|}}}{{{commas|}}}|,}}&nbsp;{{post-nominals/{{{country|CAN}}}|{{{19}}}}}}}<!--
+      -->{{#if:{{{20|}}} |{{#if:{{{sep|}}}{{{commas|}}}|,}}&nbsp;{{post-nominals/{{{country|CAN}}}|{{{20}}}}}}}<!--
+ -->}}<!--
+--></span><noinclude>{{Documentation}}</noinclude>

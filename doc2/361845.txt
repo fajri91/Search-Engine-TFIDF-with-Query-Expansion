@@ -1,0 +1,41 @@
+Templat:High School Musical
+{{Navbox
+| name = High School Musical
+| listclass = hlist
+| title = ''[[High School Musical]]''
+
+| group1= Film
+| list1 = ''[[High School Musical]]'' (2006){{}} ''[[High School Musical 2]]'' (2007){{}} ''[[High School Musical 3: Senior Year]]'' (2008){{}} ''[[Sharpay's Fabulous Adventure]]'' (2011)
+
+| group2= Album jalur suara
+| list2= ''[[High School Musical (soundtrack)|High School Musical]]''{{}} ''[[High School Musical 2 (soundtrack)|High School Musical 2]]''{{}} ''[[High School Musical 3: Senior Year (soundtrack)|High School Musical 3: Senior Year]]''{{}} ''[[Sharpay's Fabulous Adventure (soundtrack)|Sharpay's Fabulous Adventure]]''
+
+|group3= Album lainnya
+|list3= ''[[High School Musical Hits Remixed|Hits Remixed]]''{{}}''[[High School Musical 2: Non-Stop Dance Party|Non-Stop Dance Party]]''
+
+| group4= Single
+| list4= "[[Breaking Free]]"{{}}  "[[What Time Is It?]]"{{}} "[[You Are the Music in Me]]"{{}} "[[I Don't Dance]]"{{}} "[[Now or Never]]"{{}} "[[I Want It All]]"{{}} "[[A Night to Remember]]"{{}} "[[Right Here, Right Now]]"
+
+| group5= Video game
+| list5= ''[[High School Musical: Makin' the Cut!|Makin' the Cut!]]''{{}} ''[[High School Musical 2: Work This Out!|Work This Out!]]''{{}} ''[[High School Musical: Sing It!|Sing It!]]''{{}} ''[[Disney Sing It!  High School Musical 3: Senior Year|Sing It! 3]]''{{}} ''[[High School Musical: Livin' the Dream|Livin' the Dream]]''{{}} ''[[High School Musical 3: Senior Year Dance|Senior Year Dance]]''{{}} ''[[High School Musical 3: Senior Year (video game)|Senior Year DS]]''{{}} ''[[Disney Sing It]]''{{}} ''[[Disney Sing It: Pop Hits]]''{{}} ''[[Disney Sing It: Party Hits]]''{{}} ''[[Disney Sing It: Family Hits]]''
+
+| group6= Produksi lainnya
+| list6 = ''[[High School Musical: The Concert|The Concert]]{{}} [[High School Musical on Stage!|On Stage!]]{{}} ''[[High School Musical: The Music in You|The Music in You]]''{{}} ''[[High School Musical: Get in the Picture|Get in the Picture]]''{{}} ''[[High School Musical 2: On Stage!|2: On Stage!]]''{{}} ''[[High School Musical: El Desafio|El Desafo]]''{{}} ''[[High School Musical: A Seleo|A Seleo]]''{{}}''[[High School Musical: O Desafio|O Desafio]]''
+
+| group7= Berhubungan
+| list7= [[Diskografi High School Musical|Diskografi]]{{}} [[Seri buku High School Musical|Seri buku]]{{}} [[Daftar Karakter di High School Musical|Daftar Karakter]]
+
+| group8= Karakter
+| list8=[[Sharpay Evans]]{{}} [[Troy Bolton]]{{}} [[Gabriella Montez]]
+}}
+<noinclude>
+{{collapsible option}}
+
+
+
+
+
+
+
+
+</noinclude>

@@ -1,0 +1,40 @@
+Templat:Tim terbaik Piala Dunia 1998
+{{Navbox
+|name  = Tim terbaik Piala Dunia 1998
+|title = Tim terbaik pada [[Piala Dunia FIFA 1998]]
+|listclass = hlist
+|titlestyle = background:gold;
+|groupstyle = background:91A3B0;
+
+|group1 = [[Penjaga gawang]]
+|list1  = 
+* [[Fabien Barthez]]
+* [[Jos Luis Chilavert]]
+
+|group2 = [[Bek]]
+|list2  = 
+* [[Roberto Carlos (footballer)|Roberto Carlos]]
+* [[Marcel Desailly]]
+* [[Lilian Thuram]]
+* [[Frank de Boer]]
+* [[Carlos Gamarra]]
+
+|group3 = [[Gelandang]]
+|list3  = 
+* [[Dunga]]
+* [[Rivaldo]]
+* [[Michael Laudrup]]
+* [[Zinedine Zidane]]
+* [[Edgar Davids]]
+
+|group4 = [[Penyerang]]
+|list4  = 
+* [[Ronaldo]]
+* [[Davor uker]]
+* [[Brian Laudrup]]
+* [[Dennis Bergkamp]]
+
+}}<noinclude>
+{{Tim terbaik Piala Dunia}}
+[[Kategori:Templat Piala Dunia FIFA]]
+</noinclude>

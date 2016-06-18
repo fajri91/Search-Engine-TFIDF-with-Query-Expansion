@@ -1,0 +1,13 @@
+Portal:Bahasa/Artikel1
+<div style="height:700px; overflow:auto; padding: 6px; border:1px solid white; font-size:85%;">
+{{col-begin}}
+{{col-2}}
+<categorytree>
+Bahasa
+</categorytree>
+{{col-2}}
+<categorytree>
+Linguistik
+</categorytree>
+{{col-end}}
+</div>

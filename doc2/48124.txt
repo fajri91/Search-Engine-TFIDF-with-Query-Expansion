@@ -1,0 +1,2265 @@
+Wikipedia:Catatan Commons/4
+{{Wikipedia:Catatan Commons/Navigasi}}{{TOCright}}
+== 31 Juli <!-- timestamp: 20060731214500 --> ==
+
+* {{TickerEntry
+|status=
+|page=Berkas:East_Timor-Oecussi.png
+|image=East_Timor-Oecussi.png
+|user=J. Patrick Fischer
+|type=replaced
+|action=replaced
+|action2=
+|comment=<nowiki>== Beschreibung == {{Information |Description=District of Oecussi-Ambeno/East Timor. Map after reformation of the district borders 2003. |Source= information from http://www.turismotimorleste.com/dl/Timor-Leste.jpg |Date=30.07.2006 |Author=drawn by J. Pat</nowiki>
+|usage='''[[Pante Makasar]]''', '''[[Passabe]]'''
+}}<!-- ticker-id: 71624 --> <!-- timestamp: 20060731214500 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:East_Timor-Manatuto.png
+|image=East_Timor-Manatuto.png
+|user=J. Patrick Fischer
+|type=replaced
+|action=replaced
+|action2=
+|comment=<nowiki>== Beschreibung == {{Information |Description=District of Manatuto/East Timor. Map after reformation of the district borders 2003. |Source= information from http://www.turismotimorleste.com/dl/Timor-Leste.jpg |Date=30.07.2006 |Author=drawn by J. Patrick F</nowiki>
+|usage='''[[Manatuto (distrik)]]'''
+}}<!-- ticker-id: 71620 --> <!-- timestamp: 20060731213638 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:East_Timor-Liquica.png
+|image=East_Timor-Liquica.png
+|user=J. Patrick Fischer
+|type=replaced
+|action=replaced
+|action2=
+|comment=<nowiki>== Beschreibung == {{Information |Description=District of Liqui/East Timor. Map after reformation of the district borders 2003. |Source= information from http://www.turismotimorleste.com/dl/Timor-Leste.jpg |Date=30.07.2006 |Author=drawn by J. Patrick</nowiki>
+|usage='''[[Liqui (distrik)]]'''
+}}<!-- ticker-id: 71617 --> <!-- timestamp: 20060731212524 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:East_Timor-Ermera.png
+|image=East_Timor-Ermera.png
+|user=J. Patrick Fischer
+|type=replaced
+|action=replaced
+|action2=
+|comment=<nowiki>== Beschreibung == {{Information |Description=District of Ermera/East Timor. Map after reformation of the district borders 2003. |Source= information from http://www.turismotimorleste.com/dl/Timor-Leste.jpg |Date=30.07.2006 |Author=drawn by J. Patrick Fis</nowiki>
+|usage='''[[Ermera]]'''
+}}<!-- ticker-id: 71612 --> <!-- timestamp: 20060731211454 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:East_Timor-Dili.png
+|image=East_Timor-Dili.png
+|user=J. Patrick Fischer
+|type=replaced
+|action=replaced
+|action2=
+|comment=<nowiki>== Beschreibung == {{Information |Description=District of Dil/East Timor. Map after reformation of the district borders 2003. |Source= information from http://www.turismotimorleste.com/dl/Timor-Leste.jpg |Date=30.07.2006 |Author=drawn by J. Patrick Fisc</nowiki>
+|usage='''[[Dili]]'''
+}}<!-- ticker-id: 71610 --> <!-- timestamp: 20060731210925 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:East_Timor-Bobonaro.png
+|image=East_Timor-Bobonaro.png
+|user=J. Patrick Fischer
+|type=replaced
+|action=replaced
+|action2=
+|comment=<nowiki>== Beschreibung == {{Information |Description=District of Bobonaro/East Timor. Map after reformation of the district borders 2003. |Source= information from http://www.turismotimorleste.com/dl/Timor-Leste.jpg |Date=30.07.2006 |Author=drawn by J. Patrick F</nowiki>
+|usage='''[[Bobonaro]]'''
+}}<!-- ticker-id: 71608 --> <!-- timestamp: 20060731210445 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:East_Timor-Baucau.png
+|image=East_Timor-Baucau.png
+|user=J. Patrick Fischer
+|type=replaced
+|action=replaced
+|action2=
+|comment=<nowiki>== Beschreibung == {{Information |Description=District of Baucau/East Timor. Map after reformation of the district borders 2003. |Source= information from http://www.turismotimorleste.com/dl/Timor-Leste.jpg |Date=30.07.2006 |Author=drawn by J. Patrick Fis</nowiki>
+|usage='''[[Baucau]]''', '''[[Baucau (distrik)]]'''
+}}<!-- ticker-id: 71606 --> <!-- timestamp: 20060731210038 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:East_Timor-Ainaro.png
+|image=East_Timor-Ainaro.png
+|user=J. Patrick Fischer
+|type=replaced
+|action=replaced
+|action2=
+|comment=<nowiki>== Beschreibung == {{Information |Description=District of Ainaro/East Timor. Map after reformation of the district borders 2003. |Source=http://www.turismotimorleste.com/dl/Timor-Leste.jpg |Date=30.07.2006 |Author=drawn by J. Patrick Fischer, design by Go</nowiki>
+|usage='''[[Ainaro]]'''
+}}<!-- ticker-id: 71605 --> <!-- timestamp: 20060731205348 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:East_Timor-Aileu.png
+|image=East_Timor-Aileu.png
+|user=J. Patrick Fischer
+|type=replaced
+|action=replaced
+|action2=
+|comment=<nowiki>== Beschreibung == {{Information |Description=District of Aileu/East Timor. Map after reformation of the district borders 2003. |Source=http://www.turismotimorleste.com/dl/Timor-Leste.jpg |Date=30.07.2006 |Author=drawn by J. Patrick Fischer, design by Gol</nowiki>
+|usage='''[[Aileu (distrik)]]'''
+}}<!-- ticker-id: 71601 --> <!-- timestamp: 20060731204657 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Handshake_white_and_black.jpg
+|image=Handshake_white_and_black.jpg
+|user=Kotepho
+|type=tagged
+|action=addedBad|subject=[[commons:Template:No source since|No source since]]
+|action2=
+|diff=title=Berkas:Handshake_white_and_black.jpg&diff=2568884&oldid=1167762
+|comment=<nowiki>nsd</nowiki>
+|usage='''[[Ikatan Sarjana Farmasi Indonesia]]''', '''[[Indonesian Heritage Society]]''', [[Templat:Org-stub]]
+}}<!-- ticker-id: 71521 --> <!-- timestamp: 20060731200250 --> 
+<!-- max ticker-id: 71624 --> <!-- max timestamp: 20060731214500 -->
+
+* {{TickerEntry
+|status=
+|page=Berkas:AbortionLawsMap.png
+|image=AbortionLawsMap.png
+|user=Kyd
+|type=replaced
+|action=replacedOwn
+|action2=
+|comment=<nowiki>Alter color scheme.</nowiki>
+|minor=1
+|usage='''[[Gugur kandungan]]'''
+}}<!-- ticker-id: 71484 --> <!-- timestamp: 20060731175643 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Lage_Frankfurt_(Oder).png
+|image=Lage_Frankfurt_(Oder).png
+|user=Conscious
+|type=replaced
+|action=replaced
+|action2=
+|comment=<nowiki>version from en:</nowiki>
+|usage='''[[Frankfurt an der Oder]]'''
+}}<!-- ticker-id: 71274 --> <!-- timestamp: 20060731144748 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:European_flag.svg
+|image=European_flag.svg
+|user=-xfi-
+|type=replaced
+|action=replaced
+|action2=
+|comment=<nowiki>exact stars in a perfect circle; tag <desc>Flag of the European Union</desc>; less bytes; natural size; same licensing, same colors</nowiki>
+|usage='''[[Austria]]''', '''[[Belanda]]''', '''[[Belgia]]''', '''[[Britania Raya]]''', '''[[Ceko]]''', '''[[Crisis Core: Final Fantasy VII]]''', '''[[Denmark]]''', '''[[Dirge of Cerberus: Final Fantasy VII]]''', '''[[Estonia]]''', '''[[Final Fantasy VII: Advent Children]]''', '''[[Finlandia]]''', '''[[G8]]''', '''[[Hongaria]]''', '''[[Italia]]''', '''[[Jerman]]''', '''[[Latvia]]''', '''[[Lituania]]''', '''[[Luxemburg]]''', '''[[Malta]]''', '''[[Perancis]]''', '''[[Polandia]]''', '''[[Portugal]]''', '''[[Republik Irlandia]]''', '''[[Siprus]]''', '''[[Slowakia]]''', '''[[Spanyol]]''', '''[[Swedia]]''', '''[[Uni Eropa]]''', '''[[Yunani]]''', [[Templat:Negara uni eropa]] and more. 
+}}<!-- ticker-id: 71252 --> <!-- timestamp: 20060731140610 --> 
+<!-- max ticker-id: 71484 --> <!-- max timestamp: 20060731175643 -->
+
+* {{TickerEntry
+|status=
+|page=Berkas:Flag_of_Italy.svg
+|image=Flag_of_Italy.svg
+|user=Paulatz
+|type=replaced
+|action=replaced
+|action2=
+|comment=<nowiki>version using "#ffffff" for the central band, for the Pantone ("#fafeff") versione see [[:Berkas:Printabel_Flag_of_Italy.svg]]</nowiki>
+|usage='''[[A1 Grand Prix]]''', '''[[ACF Fiorentina]]''', '''[[AC Milan]]''', '''[[Burger King]]''', '''[[Daftar bendera negara di dunia]]''', '''[[Daftar juara dunia pembalap Formula Satu]]''', '''[[Data pertandingan babak kedua hingga final Piala Dunia FIFA 2006]]''', '''[[G8]]''', '''[[Grand Prix F1 Amerika Serikat 2001]]''', '''[[Grand Prix F1 Amerika Serikat 2002]]''', '''[[Grand Prix F1 Amerika Serikat 2006]]''', '''[[Grand Prix F1 Australia 1995]]''', '''[[Grand Prix F1 Australia 2003]]''', '''[[Grand Prix F1 Australia 2004]]''', '''[[Grand Prix F1 Australia 2006]]''', '''[[Grand Prix F1 Austria 2002]]''', '''[[Grand Prix F1 Austria 2003]]''', '''[[Grand Prix F1 Bahrain 2006]]''', '''[[Grand Prix F1 Belgia 2001]]''', '''[[Grand Prix F1 Belgia 2002]]''', '''[[Grand Prix F1 Belgia 2004]]''', '''[[Grand Prix F1 Brasil 2002]]''', '''[[Grand Prix F1 Brasil 2003]]''', '''[[Grand Prix F1 Eropa 2001]]''', '''[[Grand Prix F1 Eropa 2002]]''', '''[[Grand Prix F1 Eropa 2003]]''', '''[[Grand Prix F1 Eropa 2006]]''', '''[[Grand Prix F1 Hongaria 2001]]''', '''[[Grand Prix F1 Hongaria 2002]]''', '''[[Grand Prix F1 Hongaria 2003]]''' and more. 
+}}<!-- ticker-id: 70998 --> <!-- timestamp: 20060731095851 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Flag_of_Italy.svg
+|image=Flag_of_Italy.svg
+|user=Zscout370
+|type=replaced
+|action=replacedOwn
+|action2=
+|comment=<nowiki>Reisio, I think they are right on this one. The Government is very quiet, so for right now, I am going to FFFFFF. We got bigger fish to try right now, so let's come back to this later.</nowiki>
+|minor=1
+|usage='''[[A1 Grand Prix]]''', '''[[ACF Fiorentina]]''', '''[[AC Milan]]''', '''[[Burger King]]''', '''[[Daftar bendera negara di dunia]]''', '''[[Daftar juara dunia pembalap Formula Satu]]''', '''[[Data pertandingan babak kedua hingga final Piala Dunia FIFA 2006]]''', '''[[G8]]''', '''[[Grand Prix F1 Amerika Serikat 2001]]''', '''[[Grand Prix F1 Amerika Serikat 2002]]''', '''[[Grand Prix F1 Amerika Serikat 2006]]''', '''[[Grand Prix F1 Australia 1995]]''', '''[[Grand Prix F1 Australia 2003]]''', '''[[Grand Prix F1 Australia 2004]]''', '''[[Grand Prix F1 Australia 2006]]''', '''[[Grand Prix F1 Austria 2002]]''', '''[[Grand Prix F1 Austria 2003]]''', '''[[Grand Prix F1 Bahrain 2006]]''', '''[[Grand Prix F1 Belgia 2001]]''', '''[[Grand Prix F1 Belgia 2002]]''', '''[[Grand Prix F1 Belgia 2004]]''', '''[[Grand Prix F1 Brasil 2002]]''', '''[[Grand Prix F1 Brasil 2003]]''', '''[[Grand Prix F1 Eropa 2001]]''', '''[[Grand Prix F1 Eropa 2002]]''', '''[[Grand Prix F1 Eropa 2003]]''', '''[[Grand Prix F1 Eropa 2006]]''', '''[[Grand Prix F1 Hongaria 2001]]''', '''[[Grand Prix F1 Hongaria 2002]]''', '''[[Grand Prix F1 Hongaria 2003]]''' and more. 
+}}<!-- ticker-id: 70990 --> <!-- timestamp: 20060731090151 --> 
+<!-- max ticker-id: 70998 --> <!-- max timestamp: 20060731095851 -->
+
+* {{TickerEntry
+|status=
+|page=Berkas:Yes_check.svg
+|image=Yes_check.svg
+|user=Erin Silversmith
+|type=replaced
+|action=replacedOwn
+|action2=
+|comment=<nowiki>Reverted to earlier revision</nowiki>
+|minor=1
+|usage=[[Wikipedia:Hak cipta]], [[Wikipedia:Kebijakan penggunaan gambar]], [[Wikipedia:Mengenai Vanity]], [[Wikipedia:Nama pengguna]], [[Wikipedia:Pedoman pemberian nama artikel]], [[Wikipedia:Pedoman pemberian nama kategori]], [[Wikipedia:Peraturan]], [[Wikipedia:Proposal kebijakan dan pedoman]], [[Wikipedia:Templat Wikipedia/Pemeliharaan]], [[Templat:Kebijakan]]
+}}<!-- ticker-id: 70903 --> <!-- timestamp: 20060731050611 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:ICAO.JPG
+|image=ICAO.JPG
+|user=Shizhao
+|type=deleted
+|action=deleted
+|action2=
+|comment=<nowiki>logo</nowiki>
+|usage='''[[International Civil Aviation Organization]]'''
+}}<!-- ticker-id: 70885 --> <!-- timestamp: 20060731033850 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Cu-map-Guantanamo.png
+|image=Cu-map-Guantanamo.png
+|user=Shizhao
+|type=replaced
+|action=replaced
+|action2=
+|usage='''[[Teluk Guantanamo]]'''
+}}<!-- ticker-id: 70880 --> <!-- timestamp: 20060731031838 --> 
+<!-- max ticker-id: 70903 --> <!-- max timestamp: 20060731050611 -->
+
+* {{TickerEntry
+|status=
+|page=Berkas:AbortionLawsMap.png
+|image=AbortionLawsMap.png
+|user=Kyd
+|type=replaced
+|action=replaced
+|action2=
+|comment=<nowiki>Add new colour code to legend. Update Australia.</nowiki>
+|usage='''[[Gugur kandungan]]'''
+}}<!-- ticker-id: 70798 --> <!-- timestamp: 20060731015219 --> 
+<!-- max ticker-id: 70798 --> <!-- max timestamp: 20060731015219 -->
+
+== 30 Juli <!-- timestamp: 20060730202307 --> ==
+
+* {{TickerEntry
+|status=
+|page=Berkas:CC_SomeRightsReserved.png
+|image=CC_SomeRightsReserved.png
+|user=Hautala
+|type=replaced
+|action=replaced
+|action2=
+|comment=<nowiki>optimized with optipng</nowiki>
+|usage=[[:Berkas:Carlosbelo.jpg]], [[Templat:Cc-dengan-sa-2.0]]
+}}<!-- ticker-id: 70729 --> <!-- timestamp: 20060730202307 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Loudspeaker.png
+|image=Loudspeaker.png
+|user=Hautala
+|type=replaced
+|action=replaced
+|action2=
+|comment=<nowiki>optimized with advpng</nowiki>
+|usage='''[[Abdelaziz Bouteflika]]''', '''[[Aleksandr Pushkin]]''', '''[[Bahasa Jepang]]''', '''[[Bahasa Mandarin]]''', '''[[Betlehem]]''', '''[[Bhumibol Adulyadej]]''', '''[[Canton-canton di Swiss]]''', '''[[Canton Basel (kota)]]''', '''[[Ceko]]''', '''[[Champs-lyses]]''', '''[[Chang'an]]''', '''[[Dag Hammarskjld]]''', '''[[Deng Xiaoping]]''', '''[[Dominique de Villepin]]''', '''[[Elbe]]''', '''[[Ferenc Gyurcsny]]''', '''[[Fyodor Dostoyevsky]]''', '''[[George W. Bush]]''', '''[[Gestapo]]''', '''[[Gran Persson]]''', '''[[Hans Blix]]''', '''[[Heinrich Himmler]]''', '''[[Horst Khler]]''', '''[[Ingmar Bergman]]''', '''[[Ingvar Kamprad]]''', '''[[Islam]]''', '''[[Jan Peter Balkenende]]''', '''[[Jarosaw Kaczyski]]''', '''[[Jean-Pierre Raffarin]]''', '''[[Jepang]]''' and more. 
+}}<!-- ticker-id: 70728 --> <!-- timestamp: 20060730201942 --> 
+<!-- max ticker-id: 70729 --> <!-- max timestamp: 20060730202307 -->
+
+* {{TickerEntry
+|status=
+|page=Berkas:Yes_check.svg
+|image=Yes_check.svg
+|user=Erin Silversmith
+|type=replaced
+|action=replaced
+|action2=
+|comment=<nowiki>Redone by hand. All unnecessary code deleted. Gradient simplified. Strange flat bits made round.</nowiki>
+|usage=[[Wikipedia:Hak cipta]], [[Wikipedia:Kebijakan penggunaan gambar]], [[Wikipedia:Mengenai Vanity]], [[Wikipedia:Nama pengguna]], [[Wikipedia:Pedoman pemberian nama artikel]], [[Wikipedia:Pedoman pemberian nama kategori]], [[Wikipedia:Peraturan]], [[Wikipedia:Proposal kebijakan dan pedoman]], [[Wikipedia:Templat Wikipedia/Pemeliharaan]], [[Templat:Kebijakan]]
+}}<!-- ticker-id: 70341 --> <!-- timestamp: 20060730115859 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Anarchist_flag.svg
+|image=Anarchist_flag.svg
+|user=Conscious
+|type=replaced
+|action=replaced
+|action2=
+|comment=<nowiki>2:3 version by [[:en:User:Zscout370]] (released to PD by author)</nowiki>
+|usage=[[Pengguna:Hariadhi]], [[Wikipedia:Kotak pengguna/Politik]], [[Templat:Pengguna Anarko-sindikalis]]
+}}<!-- ticker-id: 70335 --> <!-- timestamp: 20060730112157 --> 
+* {{TickerEntry
+|status=
+|page=Template:Cc-by-sa-2.5
+|user=Edub
+|type=recat
+|action=addedGood|subject=[[commons:Category:CC-BY-SA-2.5|CC-BY-SA-2.5]]
+|action2=
+|comment=<nowiki>rv</nowiki>
+|template=1
+}}<!-- ticker-id: 70317 --> <!-- timestamp: 20060730112009 --> 
+** {{TickerEntry
+|page=Berkas:050819_036_Univ_Cincy.jpg
+|image=050819_036_Univ_Cincy.jpg
+|usage='''[[Universitas Cincinnati]]'''
+|sub=1
+}}
+** {{TickerEntry
+|page=Berkas:1117389955.jpg
+|image=1117389955.jpg
+|usage='''[[Bandara Zagreb]]'''
+|sub=1
+}}
+** {{TickerEntry
+|page=Berkas:20031125getty06pano.jpg
+|image=20031125getty06pano.jpg
+|usage='''[[Museum Getty]]'''
+|sub=1
+}}
+** {{TickerEntry
+|page=Berkas:20031215getty01pano.jpg
+|image=20031215getty01pano.jpg
+|usage='''[[Museum Getty]]'''
+|sub=1
+}}
+** {{TickerEntry
+|page=Berkas:20041216getty06pano.jpg
+|image=20041216getty06pano.jpg
+|usage='''[[Museum Getty]]'''
+|sub=1
+}}
+** {{TickerEntry
+|page=Berkas:2005-08_Marburg_-_SW03.jpg
+|image=2005-08_Marburg_-_SW03.jpg
+|usage='''[[Marburg]]'''
+|sub=1
+}}
+** {{TickerEntry
+|page=Berkas:2005-09_Ktrzyn_Rastenburg.jpg
+|image=2005-09_Ktrzyn_Rastenburg.jpg
+|usage='''[[Ktrzyn]]'''
+|sub=1
+}}
+** {{TickerEntry
+|page=Berkas:20050921CathChartresB.jpg
+|image=20050921CathChartresB.jpg
+|usage='''[[Katedral Chartres]]'''
+|sub=1
+}}
+** {{TickerEntry
+|page=Berkas:540007.jpg
+|image=540007.jpg
+|usage='''[[Corsair]]'''
+|sub=1
+}}
+** {{TickerEntry
+|page=Berkas:ASRock_K7VT4A_Pro_Mainboard.jpg
+|image=ASRock_K7VT4A_Pro_Mainboard.jpg
+|usage='''[[Papan induk]]'''
+|sub=1
+}}
+** {{TickerEntry
+|page=Berkas:AUI_Connectors.jpg
+|image=AUI_Connectors.jpg
+|usage='''[[AUI]]'''
+|sub=1
+}}
+** {{TickerEntry
+|page=Berkas:Adoptfirefox.jpg
+|image=Adoptfirefox.jpg
+|usage=[[Bicara Pengguna:Hayabusa future]]
+|sub=1
+}}
+** {{TickerEntry
+|page=Berkas:Aerial_tramway_La_Grave_France.jpg
+|image=Aerial_tramway_La_Grave_France.jpg
+|usage='''[[Kereta gantung]]'''
+|sub=1
+}}
+** {{TickerEntry
+|page=Berkas:AgostinhoNeto.jpg
+|image=AgostinhoNeto.jpg
+|usage='''[[Agostinho Neto]]'''
+|sub=1
+}}
+** {{TickerEntry
+|page=Berkas:Aichi_World_Expo_Entrance_2005.jpg
+|image=Aichi_World_Expo_Entrance_2005.jpg
+|usage='''[[Expo 2005]]'''
+|sub=1
+}}
+** {{TickerEntry
+|page=Berkas:Air_Greenland.jpg
+|image=Air_Greenland.jpg
+|usage='''[[Air Greenland]]'''
+|sub=1
+}}
+** {{TickerEntry
+|page=Berkas:Airports_New_York_City_Map_Julius_Schorzman.png
+|image=Airports_New_York_City_Map_Julius_Schorzman.png
+|usage='''[[Bandara Internasional John F. Kennedy]]''', '''[[Bandara Internasional Newark Liberty]]'''
+|sub=1
+}}
+** {{TickerEntry
+|page=Berkas:Alamanda.jpg
+|image=Alamanda.jpg
+|usage='''[[Bunga]]'''
+|sub=1
+}}
+** {{TickerEntry
+|page=Berkas:Armoiries_de_la_Rpublique_dmocratique_du_Congo_-_2006.png
+|image=Armoiries_de_la_Rpublique_dmocratique_du_Congo_-_2006.png
+|usage='''[[Republik Demokratik Kongo]]'''
+|sub=1
+}}
+** {{TickerEntry
+|page=Berkas:Bandeira_do_Estado_de_So_Paulo.svg
+|image=Bandeira_do_Estado_de_So_Paulo.svg
+|usage='''[[Tim nasional sepak bola Meksiko]]'''
+|sub=1
+}}
+** {{TickerEntry
+|page=Berkas:Bandera_de_Salamanca.svg
+|image=Bandera_de_Salamanca.svg
+|usage='''[[Salamanca]]'''
+|sub=1
+}}
+** {{TickerEntry
+|page=Berkas:Bardeen_plaque_uiuc.jpg
+|image=Bardeen_plaque_uiuc.jpg
+|usage='''[[John Bardeen]]'''
+|sub=1
+}}
+** {{TickerEntry
+|page=Berkas:BeirutAlOmari.jpg
+|image=BeirutAlOmari.jpg
+|usage='''[[Beirut]]'''
+|sub=1
+}}
+** {{TickerEntry
+|page=Berkas:Berkeley-downtown-Bay-bridge-SF-in-back-from-Lab.jpg
+|image=Berkeley-downtown-Bay-bridge-SF-in-back-from-Lab.jpg
+|usage='''[[Berkeley, California]]'''
+|sub=1
+}}
+** {{TickerEntry
+|page=Berkas:Berlin_Reichstag_2005.jpg
+|image=Berlin_Reichstag_2005.jpg
+|usage='''[[Gedung Reichstag]]'''
+|sub=1
+}}
+** {{TickerEntry
+|page=Berkas:Black_bloc.jpg
+|image=Black_bloc.jpg
+|usage='''[[Blok hitam]]'''
+|sub=1
+}}
+** {{TickerEntry
+|page=Berkas:Bombay-Stock-Exchange.jpg
+|image=Bombay-Stock-Exchange.jpg
+|usage='''[[India]]'''
+|sub=1
+}}
+** {{TickerEntry
+|page=Berkas:Bratislava_old_town_from_castle_hill.jpg
+|image=Bratislava_old_town_from_castle_hill.jpg
+|usage='''[[Bratislava]]'''
+|sub=1
+}}
+** {{TickerEntry
+|page=Berkas:Bucaramanga_colombia.jpg
+|image=Bucaramanga_colombia.jpg
+|usage='''[[Bucaramanga]]'''
+|sub=1
+}}
+** {{TickerEntry
+|page=Berkas:CachacaDivininha.jpg
+|image=CachacaDivininha.jpg
+|usage='''[[Minuman beralkohol]]'''
+|sub=1
+}}
+** [http://commons.wikimedia.org/w/index.php?title=Special:Whatlinkshere&target=Template:Cc-by-sa-2.5 and more].
+* {{TickerEntry
+|status=
+|page=Template:Cc-by-sa-2.5
+|user=Robertkostka
+|type=recat
+|action=removedGood|subject=[[commons:Category:CC-BY-SA-2.5|CC-BY-SA-2.5]]
+|action2=
+|diff=title=Template:Cc-by-sa-2.5&diff=2554121&oldid=2493887
+|template=1
+}}<!-- ticker-id: 70321 --> <!-- timestamp: 20060730110948 --> 
+** {{TickerEntry
+|page=Berkas:050819_036_Univ_Cincy.jpg
+|image=050819_036_Univ_Cincy.jpg
+|usage='''[[Universitas Cincinnati]]'''
+|sub=1
+}}
+** {{TickerEntry
+|page=Berkas:1117389955.jpg
+|image=1117389955.jpg
+|usage='''[[Bandara Zagreb]]'''
+|sub=1
+}}
+** {{TickerEntry
+|page=Berkas:20031125getty06pano.jpg
+|image=20031125getty06pano.jpg
+|usage='''[[Museum Getty]]'''
+|sub=1
+}}
+** {{TickerEntry
+|page=Berkas:20031215getty01pano.jpg
+|image=20031215getty01pano.jpg
+|usage='''[[Museum Getty]]'''
+|sub=1
+}}
+** {{TickerEntry
+|page=Berkas:20041216getty06pano.jpg
+|image=20041216getty06pano.jpg
+|usage='''[[Museum Getty]]'''
+|sub=1
+}}
+** {{TickerEntry
+|page=Berkas:2005-08_Marburg_-_SW03.jpg
+|image=2005-08_Marburg_-_SW03.jpg
+|usage='''[[Marburg]]'''
+|sub=1
+}}
+** {{TickerEntry
+|page=Berkas:2005-09_Ktrzyn_Rastenburg.jpg
+|image=2005-09_Ktrzyn_Rastenburg.jpg
+|usage='''[[Ktrzyn]]'''
+|sub=1
+}}
+** {{TickerEntry
+|page=Berkas:20050921CathChartresB.jpg
+|image=20050921CathChartresB.jpg
+|usage='''[[Katedral Chartres]]'''
+|sub=1
+}}
+** {{TickerEntry
+|page=Berkas:540007.jpg
+|image=540007.jpg
+|usage='''[[Corsair]]'''
+|sub=1
+}}
+** {{TickerEntry
+|page=Berkas:ASRock_K7VT4A_Pro_Mainboard.jpg
+|image=ASRock_K7VT4A_Pro_Mainboard.jpg
+|usage='''[[Papan induk]]'''
+|sub=1
+}}
+** {{TickerEntry
+|page=Berkas:AUI_Connectors.jpg
+|image=AUI_Connectors.jpg
+|usage='''[[AUI]]'''
+|sub=1
+}}
+** {{TickerEntry
+|page=Berkas:Adoptfirefox.jpg
+|image=Adoptfirefox.jpg
+|usage=[[Bicara Pengguna:Hayabusa future]]
+|sub=1
+}}
+** {{TickerEntry
+|page=Berkas:Aerial_tramway_La_Grave_France.jpg
+|image=Aerial_tramway_La_Grave_France.jpg
+|usage='''[[Kereta gantung]]'''
+|sub=1
+}}
+** {{TickerEntry
+|page=Berkas:AgostinhoNeto.jpg
+|image=AgostinhoNeto.jpg
+|usage='''[[Agostinho Neto]]'''
+|sub=1
+}}
+** {{TickerEntry
+|page=Berkas:Aichi_World_Expo_Entrance_2005.jpg
+|image=Aichi_World_Expo_Entrance_2005.jpg
+|usage='''[[Expo 2005]]'''
+|sub=1
+}}
+** {{TickerEntry
+|page=Berkas:Air_Greenland.jpg
+|image=Air_Greenland.jpg
+|usage='''[[Air Greenland]]'''
+|sub=1
+}}
+** {{TickerEntry
+|page=Berkas:Airports_New_York_City_Map_Julius_Schorzman.png
+|image=Airports_New_York_City_Map_Julius_Schorzman.png
+|usage='''[[Bandara Internasional John F. Kennedy]]''', '''[[Bandara Internasional Newark Liberty]]'''
+|sub=1
+}}
+** {{TickerEntry
+|page=Berkas:Alamanda.jpg
+|image=Alamanda.jpg
+|usage='''[[Bunga]]'''
+|sub=1
+}}
+** {{TickerEntry
+|page=Berkas:Armoiries_de_la_Rpublique_dmocratique_du_Congo_-_2006.png
+|image=Armoiries_de_la_Rpublique_dmocratique_du_Congo_-_2006.png
+|usage='''[[Republik Demokratik Kongo]]'''
+|sub=1
+}}
+** {{TickerEntry
+|page=Berkas:Bandeira_do_Estado_de_So_Paulo.svg
+|image=Bandeira_do_Estado_de_So_Paulo.svg
+|usage='''[[Tim nasional sepak bola Meksiko]]'''
+|sub=1
+}}
+** {{TickerEntry
+|page=Berkas:Bandera_de_Salamanca.svg
+|image=Bandera_de_Salamanca.svg
+|usage='''[[Salamanca]]'''
+|sub=1
+}}
+** {{TickerEntry
+|page=Berkas:Bardeen_plaque_uiuc.jpg
+|image=Bardeen_plaque_uiuc.jpg
+|usage='''[[John Bardeen]]'''
+|sub=1
+}}
+** {{TickerEntry
+|page=Berkas:BeirutAlOmari.jpg
+|image=BeirutAlOmari.jpg
+|usage='''[[Beirut]]'''
+|sub=1
+}}
+** {{TickerEntry
+|page=Berkas:Berkeley-downtown-Bay-bridge-SF-in-back-from-Lab.jpg
+|image=Berkeley-downtown-Bay-bridge-SF-in-back-from-Lab.jpg
+|usage='''[[Berkeley, California]]'''
+|sub=1
+}}
+** {{TickerEntry
+|page=Berkas:Berlin_Reichstag_2005.jpg
+|image=Berlin_Reichstag_2005.jpg
+|usage='''[[Gedung Reichstag]]'''
+|sub=1
+}}
+** {{TickerEntry
+|page=Berkas:Black_bloc.jpg
+|image=Black_bloc.jpg
+|usage='''[[Blok hitam]]'''
+|sub=1
+}}
+** {{TickerEntry
+|page=Berkas:Bombay-Stock-Exchange.jpg
+|image=Bombay-Stock-Exchange.jpg
+|usage='''[[India]]'''
+|sub=1
+}}
+** {{TickerEntry
+|page=Berkas:Bratislava_old_town_from_castle_hill.jpg
+|image=Bratislava_old_town_from_castle_hill.jpg
+|usage='''[[Bratislava]]'''
+|sub=1
+}}
+** {{TickerEntry
+|page=Berkas:Bucaramanga_colombia.jpg
+|image=Bucaramanga_colombia.jpg
+|usage='''[[Bucaramanga]]'''
+|sub=1
+}}
+** {{TickerEntry
+|page=Berkas:CachacaDivininha.jpg
+|image=CachacaDivininha.jpg
+|usage='''[[Minuman beralkohol]]'''
+|sub=1
+}}
+** [http://commons.wikimedia.org/w/index.php?title=Special:Whatlinkshere&target=Template:Cc-by-sa-2.5 and more].
+<!-- max ticker-id: 70341 --> <!-- max timestamp: 20060730115859 -->
+
+* {{TickerEntry
+|status=
+|page=Berkas:Fragoso.jpg
+|image=Fragoso.jpg
+|user=Essjay
+|type=restored
+|action=restored
+|action2=
+|comment=<nowiki>3 revisions and 1 file(s) restored: Restore for benefit of party with question</nowiki>
+|usage='''[[Presiden Brasil]]'''
+}}<!-- ticker-id: 70220 --> <!-- timestamp: 20060730073555 --> 
+<!-- max ticker-id: 70220 --> <!-- max timestamp: 20060730073555 -->
+
+* {{TickerEntry
+|status=
+|page=Berkas:Flag_of_Italy.svg
+|image=Flag_of_Italy.svg
+|user=Zscout370
+|type=deleted
+|action=deletedRev
+|action2=
+|comment=<nowiki>Deleted old revision 20060724222727!Flag_of_Italy.svg.</nowiki>
+|minor=1
+|usage='''[[A1 Grand Prix]]''', '''[[ACF Fiorentina]]''', '''[[AC Milan]]''', '''[[Burger King]]''', '''[[Daftar bendera negara di dunia]]''', '''[[Daftar juara dunia pembalap Formula Satu]]''', '''[[Data pertandingan babak kedua hingga final Piala Dunia FIFA 2006]]''', '''[[G8]]''', '''[[Grand Prix F1 Amerika Serikat 2001]]''', '''[[Grand Prix F1 Amerika Serikat 2002]]''', '''[[Grand Prix F1 Amerika Serikat 2006]]''', '''[[Grand Prix F1 Australia 1995]]''', '''[[Grand Prix F1 Australia 2003]]''', '''[[Grand Prix F1 Australia 2004]]''', '''[[Grand Prix F1 Australia 2006]]''', '''[[Grand Prix F1 Austria 2002]]''', '''[[Grand Prix F1 Austria 2003]]''', '''[[Grand Prix F1 Bahrain 2006]]''', '''[[Grand Prix F1 Belgia 2001]]''', '''[[Grand Prix F1 Belgia 2002]]''', '''[[Grand Prix F1 Belgia 2004]]''', '''[[Grand Prix F1 Brasil 2002]]''', '''[[Grand Prix F1 Brasil 2003]]''', '''[[Grand Prix F1 Eropa 2001]]''', '''[[Grand Prix F1 Eropa 2002]]''', '''[[Grand Prix F1 Eropa 2003]]''', '''[[Grand Prix F1 Eropa 2006]]''', '''[[Grand Prix F1 Hongaria 2001]]''', '''[[Grand Prix F1 Hongaria 2002]]''', '''[[Grand Prix F1 Hongaria 2003]]''' and more. 
+}}<!-- ticker-id: 70185 --> <!-- timestamp: 20060730053210 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Max_Weber.jpg
+|image=Max_Weber.jpg
+|user=Jkelly
+|type=tagged
+|action=addedBad|subject=[[commons:Template:No source since|No source since]]
+|action2=
+|diff=title=Berkas:Max_Weber.jpg&diff=2551801&oldid=2455593
+|comment=<nowiki>unsourced</nowiki>
+|usage='''[[Max Weber]]'''
+}}<!-- ticker-id: 70156 --> <!-- timestamp: 20060730043141 --> 
+<!-- max ticker-id: 70185 --> <!-- max timestamp: 20060730053210 -->
+
+* {{TickerEntry
+|status=
+|page=Berkas:ArmeniaNumbered.png
+|image=ArmeniaNumbered.png
+|user=Clevelander
+|type=replaced
+|action=replacedOwn
+|action2=
+|comment=<nowiki>Smaller numbers work better.</nowiki>
+|minor=1
+|usage='''[[Armenia]]'''
+}}<!-- ticker-id: 70153 --> <!-- timestamp: 20060730015733 --> 
+
+== 29 Juli <!-- timestamp: 20060729224155 --> ==
+* {{TickerEntry
+|status=
+|page=Berkas:Vlajka-Mosovce.jpg
+|image=Vlajka-Mosovce.jpg
+|user=Peterret
+|type=replaced
+|action=replacedOwn
+|action2=
+|minor=1
+|usage='''[[Moovce]]'''
+}}<!-- ticker-id: 70136 --> <!-- timestamp: 20060729224155 --> 
+<!-- max ticker-id: 70153 --> <!-- max timestamp: 20060730015733 -->
+
+* {{TickerEntry
+|status=
+|page=Berkas:European_flag.svg
+|image=European_flag.svg
+|user=Paddu
+|type=replaced
+|action=replaced
+|action2=
+|comment=<nowiki>Reverted to earlier revision</nowiki>
+|usage='''[[Austria]]''', '''[[Belanda]]''', '''[[Belgia]]''', '''[[Britania Raya]]''', '''[[Ceko]]''', '''[[Crisis Core: Final Fantasy VII]]''', '''[[Denmark]]''', '''[[Dirge of Cerberus: Final Fantasy VII]]''', '''[[Estonia]]''', '''[[Final Fantasy VII: Advent Children]]''', '''[[Finlandia]]''', '''[[G8]]''', '''[[Hongaria]]''', '''[[Italia]]''', '''[[Jerman]]''', '''[[Latvia]]''', '''[[Lituania]]''', '''[[Luxemburg]]''', '''[[Malta]]''', '''[[Perancis]]''', '''[[Polandia]]''', '''[[Portugal]]''', '''[[Republik Irlandia]]''', '''[[Siprus]]''', '''[[Slowakia]]''', '''[[Spanyol]]''', '''[[Swedia]]''', '''[[Uni Eropa]]''', '''[[Yunani]]''', [[Templat:Negara uni eropa]] and more. 
+}}<!-- ticker-id: 70110 --> <!-- timestamp: 20060729215829 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:ArmeniaShirak.png
+|image=ArmeniaShirak.png
+|user=Clevelander
+|type=replaced
+|action=replaced
+|action2=
+|usage='''[[Shirak]]'''
+}}<!-- ticker-id: 70094 --> <!-- timestamp: 20060729205733 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:ArmeniaArarat.png
+|image=ArmeniaArarat.png
+|user=Clevelander
+|type=replaced
+|action=replaced
+|action2=
+|usage='''[[Provinsi Ararat]]'''
+}}<!-- ticker-id: 70087 --> <!-- timestamp: 20060729205451 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:ArmeniaAragatsotn.png
+|image=ArmeniaAragatsotn.png
+|user=Clevelander
+|type=replaced
+|action=replaced
+|action2=
+|usage='''[[Aragatsotn]]'''
+}}<!-- ticker-id: 70085 --> <!-- timestamp: 20060729205425 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:ArmeniaNumbered.png
+|image=ArmeniaNumbered.png
+|user=Clevelander
+|type=replaced
+|action=replaced
+|action2=
+|comment=<nowiki>Better version.</nowiki>
+|usage='''[[Armenia]]'''
+}}<!-- ticker-id: 70082 --> <!-- timestamp: 20060729203713 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Midzyrzec_podlaski_zauek.jpg
+|image=Midzyrzec_podlaski_zauek.jpg
+|user=RenekW
+|type=replaced
+|action=replacedOwn
+|action2=
+|comment=<nowiki>{{Information |Description=Midzyrzec Podlaski |Source=own work |Date=2006 |Author=Ireneusz S. Wierzejski |Permission=GNU Free Documentation License |other_versions= }}</nowiki>
+|minor=1
+|usage='''[[Midzyrzec Podlaski]]'''
+}}<!-- ticker-id: 70058 --> <!-- timestamp: 20060729190827 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Midzyrzec_podlaski_wiea.jpg
+|image=Midzyrzec_podlaski_wiea.jpg
+|user=RenekW
+|type=replaced
+|action=replacedOwn
+|action2=
+|comment=<nowiki>{{Information |Description=Midzyrzec Podlaski |Source=own work |Date=2006 |Author=Ireneusz S. Wierzejski |Permission=GNU Free Documentation License |other_versions= }}</nowiki>
+|minor=1
+|usage='''[[Midzyrzec Podlaski]]'''
+}}<!-- ticker-id: 70057 --> <!-- timestamp: 20060729190755 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Midzyrzec_podlaski_ul_lubelska.jpg
+|image=Midzyrzec_podlaski_ul_lubelska.jpg
+|user=RenekW
+|type=replaced
+|action=replacedOwn
+|action2=
+|comment=<nowiki>{{Information |Description=Midzyrzec Podlaski |Source=own work |Date=2006 |Author=Ireneusz S. Wierzejski |Permission=GNU Free Documentation License |other_versions= }}</nowiki>
+|minor=1
+|usage='''[[Midzyrzec Podlaski]]'''
+}}<!-- ticker-id: 70053 --> <!-- timestamp: 20060729190724 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Midzyrzec_podlaski_szpital.jpg
+|image=Midzyrzec_podlaski_szpital.jpg
+|user=RenekW
+|type=replaced
+|action=replacedOwn
+|action2=
+|comment=<nowiki>{{Information |Description=Midzyrzec Podlaski |Source=own work |Date=2006 |Author=Ireneusz S. Wierzejski |Permission=GNU Free Documentation License |other_versions= }}</nowiki>
+|minor=1
+|usage='''[[Midzyrzec Podlaski]]'''
+}}<!-- ticker-id: 70052 --> <!-- timestamp: 20060729190648 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Midzyrzec_podlaski_szkoa_przykocielna.jpg
+|image=Midzyrzec_podlaski_szkoa_przykocielna.jpg
+|user=RenekW
+|type=replaced
+|action=replacedOwn
+|action2=
+|comment=<nowiki>{{Information |Description=Midzyrzec Podlaski |Source=own work |Date=2006 |Author=Ireneusz S. Wierzejski |Permission=GNU Free Documentation License |other_versions= }}</nowiki>
+|minor=1
+|usage='''[[Midzyrzec Podlaski]]'''
+}}<!-- ticker-id: 70051 --> <!-- timestamp: 20060729190621 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Midzyrzec_podlaski_rz_krzna.jpg
+|image=Midzyrzec_podlaski_rz_krzna.jpg
+|user=RenekW
+|type=replaced
+|action=replacedOwn
+|action2=
+|comment=<nowiki>{{Information |Description=Midzyrzec Podlaski |Source=own work |Date=2006 |Author=Ireneusz S. Wierzejski |Permission=GNU Free Documentation License |other_versions= }}</nowiki>
+|minor=1
+|usage='''[[Midzyrzec Podlaski]]'''
+}}<!-- ticker-id: 70050 --> <!-- timestamp: 20060729190551 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Midzyrzec_podlaski_pomnik_ofiar_pogromu_niemieckiego.jpg
+|image=Midzyrzec_podlaski_pomnik_ofiar_pogromu_niemieckiego.jpg
+|user=RenekW
+|type=replaced
+|action=replacedOwn
+|action2=
+|comment=<nowiki>{{Information |Description=Midzyrzec Podlaski |Source=own work |Date=2006 |Author=Ireneusz S. Wierzejski |Permission=GNU Free Documentation License |other_versions= }}</nowiki>
+|minor=1
+|usage='''[[Midzyrzec Podlaski]]'''
+}}<!-- ticker-id: 70049 --> <!-- timestamp: 20060729190523 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Midzyrzec_podlaski_poczta.jpg
+|image=Midzyrzec_podlaski_poczta.jpg
+|user=RenekW
+|type=replaced
+|action=replacedOwn
+|action2=
+|comment=<nowiki>{{Information |Description=Midzyrzec Podlaski |Source=own work |Date=2006 |Author=Ireneusz S. Wierzejski |Permission=GNU Free Documentation License |other_versions= }}</nowiki>
+|minor=1
+|usage='''[[Midzyrzec Podlaski]]'''
+}}<!-- ticker-id: 70047 --> <!-- timestamp: 20060729190452 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Midzyrzec_podlaski_plebania.jpg
+|image=Midzyrzec_podlaski_plebania.jpg
+|user=RenekW
+|type=replaced
+|action=replacedOwn
+|action2=
+|comment=<nowiki>{{Information |Description=Midzyrzec Podlaski |Source=own work |Date=2006 |Author=Ireneusz S. Wierzejski |Permission=GNU Free Documentation License |other_versions= }}</nowiki>
+|minor=1
+|usage='''[[Midzyrzec Podlaski]]'''
+}}<!-- ticker-id: 70046 --> <!-- timestamp: 20060729190423 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Midzyrzec_podlaski_park_angielski.jpg
+|image=Midzyrzec_podlaski_park_angielski.jpg
+|user=RenekW
+|type=replaced
+|action=replacedOwn
+|action2=
+|comment=<nowiki>{{Information |Description=Midzyrzec Podlaski |Source=own work |Date=2006 |Author=Ireneusz S. Wierzejski |Permission=GNU Free Documentation License |other_versions= }}</nowiki>
+|minor=1
+|usage='''[[Midzyrzec Podlaski]]'''
+}}<!-- ticker-id: 70045 --> <!-- timestamp: 20060729190350 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Midzyrzec_podlaski_paac_potockich.jpg
+|image=Midzyrzec_podlaski_paac_potockich.jpg
+|user=RenekW
+|type=replaced
+|action=replacedOwn
+|action2=
+|comment=<nowiki>{{Information |Description=Midzyrzec Podlaski |Source=own work |Date=2006 |Author=Ireneusz S. Wierzejski |Permission=GNU Free Documentation License |other_versions= }}</nowiki>
+|minor=1
+|usage='''[[Midzyrzec Podlaski]]'''
+}}<!-- ticker-id: 70044 --> <!-- timestamp: 20060729190315 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Midzyrzec_podlaski_orze.jpg
+|image=Midzyrzec_podlaski_orze.jpg
+|user=RenekW
+|type=replaced
+|action=replacedOwn
+|action2=
+|comment=<nowiki>{{Information |Description=Midzyrzec Podlaski |Source=own work |Date=2006 |Author=Ireneusz S. Wierzejski |Permission=GNU Free Documentation License |other_versions= }}</nowiki>
+|minor=1
+|usage='''[[Midzyrzec Podlaski]]'''
+}}<!-- ticker-id: 70043 --> <!-- timestamp: 20060729190241 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Midzyrzec_podlaski_koci_ww_piotra_i_pawa.jpg
+|image=Midzyrzec_podlaski_koci_ww_piotra_i_pawa.jpg
+|user=RenekW
+|type=replaced
+|action=replacedOwn
+|action2=
+|comment=<nowiki>{{Information |Description=Midzyrzec Podlaski |Source=own work |Date=2006 |Author=Ireneusz S. Wierzejski |Permission=GNU Free Documentation License |other_versions= }}</nowiki>
+|minor=1
+|usage='''[[Midzyrzec Podlaski]]'''
+}}<!-- ticker-id: 70041 --> <!-- timestamp: 20060729190207 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Midzyrzec_podlaski_koci_w_mikoaja_fasada.jpg
+|image=Midzyrzec_podlaski_koci_w_mikoaja_fasada.jpg
+|user=RenekW
+|type=replaced
+|action=replacedOwn
+|action2=
+|comment=<nowiki>{{Information |Description=Midzyrzec Podlaski |Source=own work |Date=2006 |Author=Ireneusz S. Wierzejski |Permission=GNU Free Documentation License |other_versions= }}</nowiki>
+|minor=1
+|usage='''[[Midzyrzec Podlaski]]'''
+}}<!-- ticker-id: 70040 --> <!-- timestamp: 20060729190137 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Midzyrzec_podlaski_koci_w_mikoaja_dzwonnica.jpg
+|image=Midzyrzec_podlaski_koci_w_mikoaja_dzwonnica.jpg
+|user=RenekW
+|type=replaced
+|action=replacedOwn
+|action2=
+|comment=<nowiki>{{Information |Description=Midzyrzec Podlaski |Source=own work |Date=2006 |Author=Ireneusz S. Wierzejski |Permission=GNU Free Documentation License |other_versions= }}</nowiki>
+|minor=1
+|usage='''[[Midzyrzec Podlaski]]'''
+}}<!-- ticker-id: 70039 --> <!-- timestamp: 20060729190108 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Midzyrzec_podlaski_koci_w_jzefa.jpg
+|image=Midzyrzec_podlaski_koci_w_jzefa.jpg
+|user=RenekW
+|type=replaced
+|action=replacedOwn
+|action2=
+|comment=<nowiki>{{Information |Description=Midzyrzec Podlaski |Source=own work |Date=2006 |Author=Ireneusz S. Wierzejski |Permission=GNU Free Documentation License |other_versions= }}</nowiki>
+|minor=1
+|usage='''[[Midzyrzec Podlaski]]'''
+}}<!-- ticker-id: 70038 --> <!-- timestamp: 20060729190036 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Midzyrzec_podlaski_kapliczka.jpg
+|image=Midzyrzec_podlaski_kapliczka.jpg
+|user=RenekW
+|type=replaced
+|action=replacedOwn
+|action2=
+|comment=<nowiki>{{Information |Description=Midzyrzec Podlaski |Source=own work |Date=2006 |Author=Ireneusz S. Wierzejski |Permission=GNU Free Documentation License |other_versions= }}</nowiki>
+|minor=1
+|usage='''[[Midzyrzec Podlaski]]'''
+}}<!-- ticker-id: 70037 --> <!-- timestamp: 20060729185949 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Midzyrzec_podlaski_kaplica.jpg
+|image=Midzyrzec_podlaski_kaplica.jpg
+|user=RenekW
+|type=replaced
+|action=replacedOwn
+|action2=
+|comment=<nowiki>{{Information |Description=Midzyrzec Podlaski |Source=own work |Date=2006 |Author=Ireneusz S. Wierzejski |Permission=GNU Free Documentation License |other_versions= }}</nowiki>
+|minor=1
+|usage='''[[Midzyrzec Podlaski]]'''
+}}<!-- ticker-id: 70035 --> <!-- timestamp: 20060729185851 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Midzyrzec_podlaski_kana_wieprz-krzna.jpg
+|image=Midzyrzec_podlaski_kana_wieprz-krzna.jpg
+|user=RenekW
+|type=replaced
+|action=replacedOwn
+|action2=
+|comment=<nowiki>{{Information |Description=Midzyrzec Podlaski |Source=own work |Date=2006 |Author=Ireneusz S. Wierzejski |Permission=GNU Free Documentation License |other_versions= }}</nowiki>
+|minor=1
+|usage='''[[Midzyrzec Podlaski]]'''
+}}<!-- ticker-id: 70034 --> <!-- timestamp: 20060729185806 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Midzyrzec_podlaski_gimnazjum.jpg
+|image=Midzyrzec_podlaski_gimnazjum.jpg
+|user=RenekW
+|type=replaced
+|action=replacedOwn
+|action2=
+|comment=<nowiki>{{Information |Description=Midzyrzec Podlaski |Source=own work |Date=2006 |Author=Ireneusz S. Wierzejski |Permission=GNU Free Documentation License |other_versions= }}</nowiki>
+|minor=1
+|usage='''[[Midzyrzec Podlaski]]'''
+}}<!-- ticker-id: 70033 --> <!-- timestamp: 20060729185736 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Midzyrzec_podlaski_frank_t_sibbett_grb.jpg
+|image=Midzyrzec_podlaski_frank_t_sibbett_grb.jpg
+|user=RenekW
+|type=replaced
+|action=replacedOwn
+|action2=
+|comment=<nowiki>{{Information |Description=Midzyrzec Podlaski |Source=own work |Date=2006 |Author=Ireneusz S. Wierzejski |Permission=GNU Free Documentation License |other_versions= }}</nowiki>
+|minor=1
+|usage='''[[Midzyrzec Podlaski]]'''
+}}<!-- ticker-id: 70032 --> <!-- timestamp: 20060729185705 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Midzyrzec_podlaski_dworzec_kolejowy.jpg
+|image=Midzyrzec_podlaski_dworzec_kolejowy.jpg
+|user=RenekW
+|type=replaced
+|action=replacedOwn
+|action2=
+|comment=<nowiki>{{Information |Description=Midzyrzec Podlaski |Source=own work |Date=2006 |Author=Ireneusz S. Wierzejski |Permission=GNU Free Documentation License |other_versions= }}</nowiki>
+|minor=1
+|usage='''[[Midzyrzec Podlaski]]'''
+}}<!-- ticker-id: 70030 --> <!-- timestamp: 20060729185616 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Midzyrzec_podlaski_drewniane_domy.jpg
+|image=Midzyrzec_podlaski_drewniane_domy.jpg
+|user=RenekW
+|type=replaced
+|action=replacedOwn
+|action2=
+|comment=<nowiki>{{Information |Description=Midzyrzec Podlaski |Source=own work |Date=2006 |Author=Ireneusz S. Wierzejski |Permission=GNU Free Documentation License |other_versions= }}</nowiki>
+|minor=1
+|usage='''[[Midzyrzec Podlaski]]'''
+}}<!-- ticker-id: 70029 --> <!-- timestamp: 20060729185546 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Midzyrzec_podlaski_cmentarz_katolicki.jpg
+|image=Midzyrzec_podlaski_cmentarz_katolicki.jpg
+|user=RenekW
+|type=replaced
+|action=replacedOwn
+|action2=
+|comment=<nowiki>{{Information |Description=Midzyrzec Podlaski |Source=own work |Date=2006 |Author=Ireneusz S. Wierzejski |Permission=GNU Free Documentation License |other_versions= }}</nowiki>
+|minor=1
+|usage='''[[Midzyrzec Podlaski]]'''
+}}<!-- ticker-id: 70028 --> <!-- timestamp: 20060729185457 --> 
+<!-- max ticker-id: 70110 --> <!-- max timestamp: 20060729215829 -->
+
+* {{TickerEntry
+|status=
+|page=Berkas:Pcr.png
+|image=Pcr.png
+|user=Sl
+|type=replaced
+|action=replaced
+|action2=
+|comment=<nowiki>A clearer image</nowiki>
+|usage='''[[Reaksi berantai polimerase]]'''
+}}<!-- ticker-id: 69892 --> <!-- timestamp: 20060729145920 --> 
+<!-- max ticker-id: 69892 --> <!-- max timestamp: 20060729145920 -->
+
+* {{TickerEntry
+|status=
+|page=Berkas:FIFA_WM_2006_Teams.png
+|image=FIFA_WM_2006_Teams.png
+|user=Conscious
+|type=replaced
+|action=replacedOwn
+|action2=
+|comment=<nowiki>Reverted to earlier revision</nowiki>
+|minor=1
+|usage='''[[Piala Dunia FIFA 2006]]'''
+}}<!-- ticker-id: 69741 --> <!-- timestamp: 20060729115931 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:FIFA_WM_2006_Teams.png
+|image=FIFA_WM_2006_Teams.png
+|user=Conscious
+|type=replaced
+|action=replaced
+|action2=
+|comment=<nowiki>version from en: by [[:en:User:London UK]] (9 June 2006)</nowiki>
+|usage='''[[Piala Dunia FIFA 2006]]'''
+}}<!-- ticker-id: 69739 --> <!-- timestamp: 20060729115844 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Summer_olympics_all_cities.PNG
+|image=Summer_olympics_all_cities.PNG
+|user=Astrokey44
+|type=replaced
+|action=replacedOwn
+|action2=
+|comment=<nowiki>colour some islands missed</nowiki>
+|minor=1
+|usage='''[[Olimpiade musim panas]]'''
+}}<!-- ticker-id: 69729 --> <!-- timestamp: 20060729112721 --> 
+<!-- max ticker-id: 69741 --> <!-- max timestamp: 20060729115931 -->
+
+* {{TickerEntry
+|status=
+|page=Berkas:Hilary_Duff_Face.jpg
+|image=Hilary_Duff_Face.jpg
+|user=Jaranda
+|type=tagged
+|action=removedBad|subject=[[commons:Template:No license|No license]]
+|action2=
+|diff=title=Berkas:Hilary_Duff_Face.jpg&diff=2542381&oldid=2437769
+|comment=<nowiki>rv to Zanimum it's PD, but some user vandalised the page with fan site links</nowiki>
+|usage='''[[Hilary Duff]]'''
+}}<!-- ticker-id: 69066 --> <!-- timestamp: 20060729020601 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Ano.jpg
+|image=Ano.jpg
+|user=Kjetil r
+|type=tagged
+|action=addedBad|subject=[[commons:Template:Delete|Delete]]
+|action2=
+|diff=title=Berkas:Ano.jpg&diff=2541952&oldid=2541304
+|comment=<nowiki>this iamge is discussed at COM:DEL, do not remove {{ifd}}</nowiki>
+|usage='''[[Anus]]'''
+}}<!-- ticker-id: 69086 --> <!-- timestamp: 20060729000127 --> 
+
+== 28 Juli <!-- timestamp: 20060728222836 --> ==
+* {{TickerEntry
+|status=
+|page=Berkas:Ano.jpg
+|image=Ano.jpg
+|user=Denniss
+|type=tagged
+|action=removedBad|subject=[[commons:Template:Delete|Delete]]
+|action2=
+|diff=title=Berkas:Ano.jpg&diff=2541304&oldid=2540594
+|comment=<nowiki>rev, used for vandalism is not our problem, it's a local en wiki problem</nowiki>
+|usage='''[[Anus]]'''
+}}<!-- ticker-id: 69095 --> <!-- timestamp: 20060728222836 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Goethe_Schiller_Weimar.jpg
+|image=Goethe_Schiller_Weimar.jpg
+|user=Merops
+|type=replaced
+|action=replacedOwn
+|action2=
+|minor=1
+|usage='''[[Weimar]]'''
+|latecomer=1
+}}<!-- ticker-id: 69103 --> <!-- timestamp: 20060728195626 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Goethe_Schiller_Weimar.jpg
+|image=Goethe_Schiller_Weimar.jpg
+|user=Merops
+|type=replaced
+|action=replacedOwn
+|action2=
+|minor=1
+|usage='''[[Weimar]]'''
+|latecomer=1
+}}<!-- ticker-id: 69101 --> <!-- timestamp: 20060728195301 --> 
+<!-- max ticker-id: 69103 --> <!-- max timestamp: 20060729020601 -->
+
+* {{TickerEntry
+|status=
+|page=Berkas:Ano.jpg
+|image=Ano.jpg
+|user=Ryulong
+|type=tagged
+|action=addedBad|subject=[[commons:Template:Delete|Delete]]
+|action2=
+|diff=title=Berkas:Ano.jpg&diff=2540594&oldid=2447489
+|usage='''[[Anus]]'''
+}}<!-- ticker-id: 68992 --> <!-- timestamp: 20060728205409 --> 
+<!-- max ticker-id: 68992 --> <!-- max timestamp: 20060728205409 -->
+
+* {{TickerEntry
+|status=
+|page=Berkas:Rammstein-flamethrowers.jpg
+|image=Rammstein-flamethrowers.jpg
+|user=Samulili
+|type=deleted
+|action=deleted
+|action2=
+|comment=<nowiki>In category [[:category:Images with unknown source as of 19 June 2006|Images with unknown source as of 19 June 2006]]; not edited for 9 days</nowiki>
+|usage='''[[Rammstein]]'''
+}}<!-- ticker-id: 68641 --> <!-- timestamp: 20060728095204 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Flag_of_Canada.svg
+|image=Flag_of_Canada.svg
+|user=Zscout370
+|type=deleted
+|action=deletedRev
+|action2=
+|comment=<nowiki>Deleted old revision 20060728033802!Flag_of_Canada.svg.</nowiki>
+|minor=1
+|usage='''[[A1 Grand Prix]]''', '''[[Alberta]]''', '''[[Amerika Utara]]''', '''[[British Columbia]]''', '''[[Burger King]]''', '''[[Daftar juara dunia pembalap Formula Satu]]''', '''[[G8]]''', '''[[Grand Prix F1 Amerika Serikat 2001]]''', '''[[Grand Prix F1 Amerika Serikat 2002]]''', '''[[Grand Prix F1 Amerika Serikat 2006]]''', '''[[Grand Prix F1 Australia 2003]]''', '''[[Grand Prix F1 Australia 2006]]''', '''[[Grand Prix F1 Austria 2002]]''', '''[[Grand Prix F1 Austria 2003]]''', '''[[Grand Prix F1 Bahrain 2006]]''', '''[[Grand Prix F1 Belgia 2001]]''', '''[[Grand Prix F1 Belgia 2002]]''', '''[[Grand Prix F1 Brasil 2002]]''', '''[[Grand Prix F1 Brasil 2003]]''', '''[[Grand Prix F1 Eropa 2001]]''', '''[[Grand Prix F1 Eropa 2002]]''', '''[[Grand Prix F1 Eropa 2003]]''', '''[[Grand Prix F1 Eropa 2006]]''', '''[[Grand Prix F1 Hongaria 2001]]''', '''[[Grand Prix F1 Hongaria 2002]]''', '''[[Grand Prix F1 Hongaria 2003]]''', '''[[Grand Prix F1 Inggris 2001]]''', '''[[Grand Prix F1 Inggris 2003]]''', '''[[Grand Prix F1 Inggris 2006]]''', '''[[Grand Prix F1 Italia 2001]]''' and more. 
+}}<!-- ticker-id: 68562 --> <!-- timestamp: 20060728081405 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Hassan_Nasrallah_Hezbollah.jpeg
+|image=Hassan_Nasrallah_Hezbollah.jpeg
+|user=Samulili
+|type=tagged
+|action=addedBad|subject=[[commons:Template:No source since|No source since]]
+|action2=
+|diff=title=Berkas:Hassan_Nasrallah_Hezbollah.jpeg&diff=2534938&oldid=2534714
+|comment=<nowiki>ffs</nowiki>
+|usage='''[[Konflik Israel-Lebanon 2006]]'''
+}}<!-- ticker-id: 68536 --> <!-- timestamp: 20060728075451 --> 
+<!-- max ticker-id: 68641 --> <!-- max timestamp: 20060728095204 -->
+
+* {{TickerEntry
+|status=
+|page=Berkas:Flag_of_Hezbollah.svg
+|image=Flag_of_Hezbollah.svg
+|user=Huhsunqu
+|type=replaced
+|action=replaced
+|action2=
+|comment=<nowiki>color fixing</nowiki>
+|usage='''[[Hizbullah]]''', '''[[Konflik Israel-Lebanon 2006]]'''
+}}<!-- ticker-id: 68495 --> <!-- timestamp: 20060728052617 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Soccerball.svg
+|image=Soccerball.svg
+|user=Booyabazooka
+|type=replaced
+|action=replaced
+|action2=
+|comment=<nowiki>redraw to make simpler</nowiki>
+|usage='''[[Abdul Aziz Al-Khathran]]''', '''[[Abdul Kader Keta]]''', '''[[Adel Chedli]]''', '''[[Adel Nefzi]]''', '''[[Adkambi Olufad]]''', '''[[Affo rassa]]''', '''[[Agustn Delgado]]''', '''[[Ahmad Al-Bahri]]''', '''[[Ahmed Al-Doukhi]]''', '''[[Alaeddine Yahia]]''', '''[[Alaixys Romao]]''', '''[[Albert Na]]''', '''[[Ali Boumnijel]]''', '''[[Ali Daei]]''', '''[[Alou Diarra]]''', '''[[Amir Hossein Sadeqi]]''', '''[[Anders Svensson]]''', '''[[Andranik Teymourian]]''', '''[[Andrea Barzagli]]''', '''[[Andreas Isaksson]]''', '''[[Andriy Husin]]''', '''[[Andriy Pyatov]]''', '''[[Andriy Rusol]]''', '''[[Andr Buengo]]''', '''[[Andr Ooijer]]''', '''[[Angelo Peruzzi]]''', '''[[Angelos Charisteas]]''', '''[[Anis Ayari]]''', '''[[Ante Covic]]''', '''[[Anthony eri]]''' and more. 
+}}<!-- ticker-id: 68484 --> <!-- timestamp: 20060728035337 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Flag_of_Canada.svg
+|image=Flag_of_Canada.svg
+|user=Zscout370
+|type=replaced
+|action=replacedOwn
+|action2=
+|comment=<nowiki>The file I last uploaded had problems with the maple leaf</nowiki>
+|minor=1
+|usage='''[[A1 Grand Prix]]''', '''[[Alberta]]''', '''[[Amerika Utara]]''', '''[[British Columbia]]''', '''[[Burger King]]''', '''[[Daftar juara dunia pembalap Formula Satu]]''', '''[[G8]]''', '''[[Grand Prix F1 Amerika Serikat 2001]]''', '''[[Grand Prix F1 Amerika Serikat 2002]]''', '''[[Grand Prix F1 Amerika Serikat 2006]]''', '''[[Grand Prix F1 Australia 2003]]''', '''[[Grand Prix F1 Australia 2006]]''', '''[[Grand Prix F1 Austria 2002]]''', '''[[Grand Prix F1 Austria 2003]]''', '''[[Grand Prix F1 Bahrain 2006]]''', '''[[Grand Prix F1 Belgia 2001]]''', '''[[Grand Prix F1 Belgia 2002]]''', '''[[Grand Prix F1 Brasil 2002]]''', '''[[Grand Prix F1 Brasil 2003]]''', '''[[Grand Prix F1 Eropa 2001]]''', '''[[Grand Prix F1 Eropa 2002]]''', '''[[Grand Prix F1 Eropa 2003]]''', '''[[Grand Prix F1 Eropa 2006]]''', '''[[Grand Prix F1 Hongaria 2001]]''', '''[[Grand Prix F1 Hongaria 2002]]''', '''[[Grand Prix F1 Hongaria 2003]]''', '''[[Grand Prix F1 Inggris 2001]]''', '''[[Grand Prix F1 Inggris 2003]]''', '''[[Grand Prix F1 Inggris 2006]]''', '''[[Grand Prix F1 Italia 2001]]''' and more. 
+}}<!-- ticker-id: 68479 --> <!-- timestamp: 20060728033802 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Flag_of_Canada.svg
+|image=Flag_of_Canada.svg
+|user=Zscout370
+|type=deleted
+|action=deletedRev
+|action2=
+|comment=<nowiki>Deleted old revision 20060728033430!Flag_of_Canada.svg.</nowiki>
+|minor=1
+|usage='''[[A1 Grand Prix]]''', '''[[Alberta]]''', '''[[Amerika Utara]]''', '''[[British Columbia]]''', '''[[Burger King]]''', '''[[Daftar juara dunia pembalap Formula Satu]]''', '''[[G8]]''', '''[[Grand Prix F1 Amerika Serikat 2001]]''', '''[[Grand Prix F1 Amerika Serikat 2002]]''', '''[[Grand Prix F1 Amerika Serikat 2006]]''', '''[[Grand Prix F1 Australia 2003]]''', '''[[Grand Prix F1 Australia 2006]]''', '''[[Grand Prix F1 Austria 2002]]''', '''[[Grand Prix F1 Austria 2003]]''', '''[[Grand Prix F1 Bahrain 2006]]''', '''[[Grand Prix F1 Belgia 2001]]''', '''[[Grand Prix F1 Belgia 2002]]''', '''[[Grand Prix F1 Brasil 2002]]''', '''[[Grand Prix F1 Brasil 2003]]''', '''[[Grand Prix F1 Eropa 2001]]''', '''[[Grand Prix F1 Eropa 2002]]''', '''[[Grand Prix F1 Eropa 2003]]''', '''[[Grand Prix F1 Eropa 2006]]''', '''[[Grand Prix F1 Hongaria 2001]]''', '''[[Grand Prix F1 Hongaria 2002]]''', '''[[Grand Prix F1 Hongaria 2003]]''', '''[[Grand Prix F1 Inggris 2001]]''', '''[[Grand Prix F1 Inggris 2003]]''', '''[[Grand Prix F1 Inggris 2006]]''', '''[[Grand Prix F1 Italia 2001]]''' and more. 
+}}<!-- ticker-id: 68475 --> <!-- timestamp: 20060728033445 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Flag_of_Canada.svg
+|image=Flag_of_Canada.svg
+|user=Zscout370
+|type=replaced
+|action=replaced
+|action2=
+|comment=<nowiki>Reverted to earlier revision</nowiki>
+|usage='''[[A1 Grand Prix]]''', '''[[Alberta]]''', '''[[Amerika Utara]]''', '''[[British Columbia]]''', '''[[Burger King]]''', '''[[Daftar juara dunia pembalap Formula Satu]]''', '''[[G8]]''', '''[[Grand Prix F1 Amerika Serikat 2001]]''', '''[[Grand Prix F1 Amerika Serikat 2002]]''', '''[[Grand Prix F1 Amerika Serikat 2006]]''', '''[[Grand Prix F1 Australia 2003]]''', '''[[Grand Prix F1 Australia 2006]]''', '''[[Grand Prix F1 Austria 2002]]''', '''[[Grand Prix F1 Austria 2003]]''', '''[[Grand Prix F1 Bahrain 2006]]''', '''[[Grand Prix F1 Belgia 2001]]''', '''[[Grand Prix F1 Belgia 2002]]''', '''[[Grand Prix F1 Brasil 2002]]''', '''[[Grand Prix F1 Brasil 2003]]''', '''[[Grand Prix F1 Eropa 2001]]''', '''[[Grand Prix F1 Eropa 2002]]''', '''[[Grand Prix F1 Eropa 2003]]''', '''[[Grand Prix F1 Eropa 2006]]''', '''[[Grand Prix F1 Hongaria 2001]]''', '''[[Grand Prix F1 Hongaria 2002]]''', '''[[Grand Prix F1 Hongaria 2003]]''', '''[[Grand Prix F1 Inggris 2001]]''', '''[[Grand Prix F1 Inggris 2003]]''', '''[[Grand Prix F1 Inggris 2006]]''', '''[[Grand Prix F1 Italia 2001]]''' and more. 
+}}<!-- ticker-id: 68474 --> <!-- timestamp: 20060728033431 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Flag_of_Canada.svg
+|image=Flag_of_Canada.svg
+|user=Zscout370
+|type=replaced
+|action=replaced
+|action2=
+|comment=<nowiki>Reduced the filesize (hopefully)</nowiki>
+|usage='''[[A1 Grand Prix]]''', '''[[Alberta]]''', '''[[Amerika Utara]]''', '''[[British Columbia]]''', '''[[Burger King]]''', '''[[Daftar juara dunia pembalap Formula Satu]]''', '''[[G8]]''', '''[[Grand Prix F1 Amerika Serikat 2001]]''', '''[[Grand Prix F1 Amerika Serikat 2002]]''', '''[[Grand Prix F1 Amerika Serikat 2006]]''', '''[[Grand Prix F1 Australia 2003]]''', '''[[Grand Prix F1 Australia 2006]]''', '''[[Grand Prix F1 Austria 2002]]''', '''[[Grand Prix F1 Austria 2003]]''', '''[[Grand Prix F1 Bahrain 2006]]''', '''[[Grand Prix F1 Belgia 2001]]''', '''[[Grand Prix F1 Belgia 2002]]''', '''[[Grand Prix F1 Brasil 2002]]''', '''[[Grand Prix F1 Brasil 2003]]''', '''[[Grand Prix F1 Eropa 2001]]''', '''[[Grand Prix F1 Eropa 2002]]''', '''[[Grand Prix F1 Eropa 2003]]''', '''[[Grand Prix F1 Eropa 2006]]''', '''[[Grand Prix F1 Hongaria 2001]]''', '''[[Grand Prix F1 Hongaria 2002]]''', '''[[Grand Prix F1 Hongaria 2003]]''', '''[[Grand Prix F1 Inggris 2001]]''', '''[[Grand Prix F1 Inggris 2003]]''', '''[[Grand Prix F1 Inggris 2006]]''', '''[[Grand Prix F1 Italia 2001]]''' and more. 
+}}<!-- ticker-id: 68473 --> <!-- timestamp: 20060728033356 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:ICAO.JPG
+|image=ICAO.JPG
+|user=Shizhao
+|type=tagged
+|action=addedBad|subject=[[commons:Template:Logo|Logo]]
+|action2=
+|diff=title=Berkas:ICAO.JPG&diff=2533782&oldid=643016
+|usage='''[[International Civil Aviation Organization]]'''
+}}<!-- ticker-id: 68457 --> <!-- timestamp: 20060728032918 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:JFKofficial.jpg
+|image=JFKofficial.jpg
+|user=Shizhao
+|type=deleted
+|action=deleted
+|action2=
+|comment=<nowiki>no source</nowiki>
+|usage='''[[John F. Kennedy]]'''
+}}<!-- ticker-id: 68463 --> <!-- timestamp: 20060728023252 --> 
+<!-- max ticker-id: 68495 --> <!-- max timestamp: 20060728052617 -->
+
+== 27 Juli <!-- timestamp: 20060727233757 --> ==
+
+* {{TickerEntry
+|status=
+|page=Berkas:John_XXIII.jpg
+|image=John_XXIII.jpg
+|user=Grillo
+|type=tagged
+|action=addedBad|subject=[[commons:Template:No license|No license]]
+|action2=
+|diff=title=Berkas:John_XXIII.jpg&diff=2533127&oldid=1292164
+|comment=<nowiki>why whould this be gfdl?</nowiki>
+|usage='''[[Konsili Vatikan II]]''', '''[[Paus Yohanes XXIII]]'''
+}}<!-- ticker-id: 68347 --> <!-- timestamp: 20060727233757 --> 
+<!-- max ticker-id: 68347 --> <!-- max timestamp: 20060727233757 -->
+
+* {{TickerEntry
+|status=
+|page=Berkas:Flag_of_Hong_Kong.svg
+|image=Flag_of_Hong_Kong.svg
+|user=Zscout370
+|type=deleted
+|action=deletedRev
+|action2=
+|comment=<nowiki>Deleted old revision 20060727201702!Flag_of_Hong_Kong.svg.</nowiki>
+|minor=1
+|usage='''[[Bendera Hong Kong]]''', '''[[Burger King]]''', '''[[Hong Kong]]''', '''[[ISO 3166-1]]''', '''[[Piala Winners Asia]]''', '''[[Reporters Without Borders]]''', [[Templat:Reporters Without Borders/Worldwide press freedom index]]
+}}<!-- ticker-id: 68306 --> <!-- timestamp: 20060727201711 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Flag_of_Hong_Kong.svg
+|image=Flag_of_Hong_Kong.svg
+|user=Zscout370
+|type=replaced
+|action=replaced
+|action2=
+|comment=<nowiki>Reverted to earlier revision</nowiki>
+|usage='''[[Bendera Hong Kong]]''', '''[[Burger King]]''', '''[[Hong Kong]]''', '''[[ISO 3166-1]]''', '''[[Piala Winners Asia]]''', '''[[Reporters Without Borders]]''', [[Templat:Reporters Without Borders/Worldwide press freedom index]]
+}}<!-- ticker-id: 68305 --> <!-- timestamp: 20060727201702 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:LocatieLeiden.png
+|image=LocatieLeiden.png
+|user=PPP
+|type=replaced
+|action=replaced
+|action2=
+|comment=<nowiki>Updated version with new city borders of [[Katwijk]] and community borders of [[Teylingen]].</nowiki>
+|usage='''[[Leiden]]'''
+}}<!-- ticker-id: 68274 --> <!-- timestamp: 20060727171435 --> 
+<!-- max ticker-id: 68306 --> <!-- max timestamp: 20060727201711 -->
+
+* {{TickerEntry
+|status=
+|page=Berkas:Pompeii_the_last_day_1.jpg
+|image=Pompeii_the_last_day_1.jpg
+|user=83.58.66.114
+|type=tagged
+|action=addedBad|subject=[[commons:Template:Delete|Delete]]
+|action2=
+|diff=title=Berkas:Pompeii_the_last_day_1.jpg&diff=2530362&oldid=2265031
+|comment=<nowiki>no source and dubtous licensing</nowiki>
+|usage='''[[Pompeii]]'''
+}}<!-- ticker-id: 68120 --> <!-- timestamp: 20060727163851 --> 
+<!-- max ticker-id: 68120 --> <!-- max timestamp: 20060727163851 -->
+
+* {{TickerEntry
+|status=
+|page=Berkas:Hassan_Nasrallah_Hezbollah.jpeg
+|image=Hassan_Nasrallah_Hezbollah.jpeg
+|user=Samulili
+|type=deleted
+|action=deleted
+|action2=
+|comment=<nowiki>copyvio: http://commons.wikimedia.org/wiki/Commons:Licensing#Material_under_the_fair_use_clause_is_not_allowed_on_the_Commons</nowiki>
+|usage='''[[Konflik Israel-Lebanon 2006]]'''
+}}<!-- ticker-id: 68095 --> <!-- timestamp: 20060727104943 --> 
+<!-- max ticker-id: 68095 --> <!-- max timestamp: 20060727104943 -->
+
+* {{TickerEntry
+|status=
+|page=Berkas:Hassan_Nasrallah_Hezbollah.jpeg
+|image=Hassan_Nasrallah_Hezbollah.jpeg
+|user=Samulili
+|type=tagged
+|action=addedBad|subject=[[commons:Template:No source since|No source since]]
+|action2=
+|diff=title=Berkas:Hassan_Nasrallah_Hezbollah.jpeg&diff=2527322&oldid=2521640
+|comment=<nowiki>rv; we have rules on this: <a href="/wiki/Commons:Derivative_works" title="Commons:Derivative works">Commons:Derivative works</a></nowiki>
+|usage='''[[Konflik Israel-Lebanon 2006]]'''
+}}<!-- ticker-id: 67788 --> <!-- timestamp: 20060727081651 --> 
+<!-- max ticker-id: 67788 --> <!-- max timestamp: 20060727081651 -->
+
+== 26 Juli <!-- timestamp: 20060726210400 --> ==
+
+* {{TickerEntry
+|status=
+|page=Berkas:Flag,_Salamanca.gif
+|image=Flag,_Salamanca.gif
+|user=Rapomon
+|type=tagged
+|action=addedBad|subject=[[commons:Template:Delete|Delete]]
+|action2=removedBad|subject2=[[commons:Template:No source since|No source since]]
+|diff=title=Berkas:Flag%2C_Salamanca.gif&diff=2524777&oldid=2493525
+|usage='''[[Salamanca]]'''
+}}<!-- ticker-id: 67382 --> <!-- timestamp: 20060726210400 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Vicente_Fox_flag.jpg
+|image=Vicente_Fox_flag.jpg
+|user=Zirland
+|type=deleted
+|action=deleted
+|action2=
+|comment=<nowiki>non-commercial</nowiki>
+|usage='''[[Vicente Fox]]'''
+}}<!-- ticker-id: 67469 --> <!-- timestamp: 20060726182530 --> 
+<!-- max ticker-id: 67469 --> <!-- max timestamp: 20060726210400 -->
+
+* {{TickerEntry
+|status=
+|page=Berkas:Felipe_Calderon.jpg
+|image=Felipe_Calderon.jpg
+|user=Zirland
+|type=deleted
+|action=deleted
+|action2=
+|comment=<nowiki>non-commercial</nowiki>
+|usage='''[[Felipe Caldern]]'''
+}}<!-- ticker-id: 67346 --> <!-- timestamp: 20060726180039 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Eduardo_Bours.jpg
+|image=Eduardo_Bours.jpg
+|user=Zirland
+|type=deleted
+|action=deleted
+|action2=
+|comment=<nowiki>non-commercial</nowiki>
+|usage='''[[Eduardo Bours]]'''
+}}<!-- ticker-id: 67334 --> <!-- timestamp: 20060726175758 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Fox_Lopez_Obrador_Montiel.jpg
+|image=Fox_Lopez_Obrador_Montiel.jpg
+|user=Zirland
+|type=deleted
+|action=deleted
+|action2=
+|comment=<nowiki>non-commercial</nowiki>
+|usage='''[[Andrs Manuel Lpez Obrador]]'''
+}}<!-- ticker-id: 67313 --> <!-- timestamp: 20060726172816 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Andres_Manuel_Lopez_Obrador_2.jpg
+|image=Andres_Manuel_Lopez_Obrador_2.jpg
+|user=Zirland
+|type=deleted
+|action=deleted
+|action2=
+|comment=<nowiki>non-commercial</nowiki>
+|usage='''[[Andrs Manuel Lpez Obrador]]'''
+}}<!-- ticker-id: 67309 --> <!-- timestamp: 20060726172637 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:AM_Lopez_Obrador.jpg
+|image=AM_Lopez_Obrador.jpg
+|user=Zirland
+|type=deleted
+|action=deleted
+|action2=
+|comment=<nowiki>non-commercial</nowiki>
+|usage='''[[Andrs Manuel Lpez Obrador]]'''
+}}<!-- ticker-id: 67297 --> <!-- timestamp: 20060726172106 --> 
+<!-- max ticker-id: 67346 --> <!-- max timestamp: 20060726180039 -->
+
+* {{TickerEntry
+|status=
+|page=Berkas:Map_Non-Aligned_Movement.png
+|image=Map_Non-Aligned_Movement.png
+|user=Satesclop
+|type=replaced
+|action=replaced
+|action2=
+|usage='''[[Gerakan Non-Blok]]'''
+}}<!-- ticker-id: 67104 --> <!-- timestamp: 20060726134554 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Hassan_Nasrallah_Hezbollah.jpeg
+|image=Hassan_Nasrallah_Hezbollah.jpeg
+|user=Bertilvidet
+|type=tagged
+|action=removedBad|subject=[[commons:Template:No source since|No source since]]
+|action2=
+|comment=<nowiki>rv - with that logic we couldtn have any photos, please dont use single photos to principal debates about copyright</nowiki>
+|usage='''[[Konflik Israel-Lebanon 2006]]'''
+}}<!-- ticker-id: 67014 --> <!-- timestamp: 20060726131058 --> 
+<!-- max ticker-id: 67104 --> <!-- max timestamp: 20060726134554 -->
+
+* {{TickerEntry
+|status=
+|page=Berkas:Herodot.jpg
+|image=Herodot.jpg
+|user=Wikipeder
+|type=tagged
+|action=addedBad|subject=[[commons:Template:No source since|No source since]]
+|action2=
+|diff=title=Berkas:Herodot.jpg&diff=2519859&oldid=1815338
+|comment=<nowiki>{{subst:nsd}}Photo not old enough to be PD. Licence of photographer missing.</nowiki>
+|usage='''[[Herodotus]]'''
+}}<!-- ticker-id: 66911 --> <!-- timestamp: 20060726092945 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Medicine_aryballos_Louvre_CA1989-2183.jpg
+|image=Medicine_aryballos_Louvre_CA1989-2183.jpg
+|user=Jastrow
+|type=replaced
+|action=replacedOwn
+|action2=
+|comment=<nowiki>reduced noise</nowiki>
+|minor=1
+|usage='''[[Kedokteran]]'''
+}}<!-- ticker-id: 66966 --> <!-- timestamp: 20060726074551 --> 
+<!-- max ticker-id: 66966 --> <!-- max timestamp: 20060726092945 -->
+
+* {{TickerEntry
+|status=
+|page=Berkas:Flag_of_Venezuela_(state).svg
+|image=Flag_of_Venezuela_(state).svg
+|user=B1mbo
+|type=replaced
+|action=replaced
+|action2=
+|usage='''[[Venezuela]]'''
+}}<!-- ticker-id: 66882 --> <!-- timestamp: 20060726025839 --> 
+<!-- max ticker-id: 66882 --> <!-- max timestamp: 20060726025839 -->
+
+* {{TickerEntry
+|status=
+|page=Berkas:Factory.svg
+|image=Factory.svg
+|user=Booyabazooka
+|type=replaced
+|action=replaced
+|action2=
+|comment=<nowiki>A little modification, get some gradient action in there</nowiki>
+|usage=[[Templat:Perusahaan-stub]]
+}}<!-- ticker-id: 66830 --> <!-- timestamp: 20060726011053 --> 
+<!-- max ticker-id: 66830 --> <!-- max timestamp: 20060726011053 -->
+
+== 25 Juli <!-- timestamp: 20060725210200 --> ==
+
+* {{TickerEntry
+|status=
+|page=Berkas:Escudo_nacional_del_Per.png
+|image=Escudo_nacional_del_Per.png
+|user=Huhsunqu
+|type=replaced
+|action=replaced
+|action2=
+|comment=<nowiki>Recuperar una revisin anterior</nowiki>
+|usage='''[[Peru]]'''
+}}<!-- ticker-id: 66741 --> <!-- timestamp: 20060725210200 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Map_of_NATO_countries.png
+|image=Map_of_NATO_countries.png
+|user=Kseferovic
+|type=replaced
+|action=replaced
+|action2=
+|comment=<nowiki>This is an updated version of the map. Montenegro and Serbia are divided.</nowiki>
+|usage='''[[NATO]]'''
+}}<!-- ticker-id: 66733 --> <!-- timestamp: 20060725203856 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:NATO_expansion.png
+|image=NATO_expansion.png
+|user=Satesclop
+|type=replaced
+|action=replaced
+|action2=
+|comment=<nowiki>+Ceuta and Melilla (in Spain)</nowiki>
+|usage='''[[NATO]]'''
+}}<!-- ticker-id: 66708 --> <!-- timestamp: 20060725193327 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Burger_king_world_locations.PNG
+|image=Burger_king_world_locations.PNG
+|user=Satesclop
+|type=replaced
+|action=replaced
+|action2=
+|usage='''[[Burger King]]'''
+}}<!-- ticker-id: 66684 --> <!-- timestamp: 20060725184429 --> 
+<!-- max ticker-id: 66741 --> <!-- max timestamp: 20060725210200 -->
+
+* {{TickerEntry
+|status=
+|page=Berkas:433px-AlexanderTheGreat_Bust.jpeg
+|image=433px-AlexanderTheGreat_Bust.jpeg
+|user=Wikipeder
+|type=tagged
+|action=addedBad|subject=[[commons:Template:Duplicate|Duplicate]]
+|action2=
+|comment=<nowiki>duplicate</nowiki>
+|usage='''[[Alexander Agung]]'''
+}}<!-- ticker-id: 66495 --> <!-- timestamp: 20060725171211 --> 
+<!-- max ticker-id: 66495 --> <!-- max timestamp: 20060725171211 -->
+
+* {{TickerEntry
+|status=
+|page=Berkas:Cu-map.png
+|image=Cu-map.png
+|user=Conscious
+|type=tagged
+|action=addedBad|subject=[[commons:Template:Duplicate|Duplicate]]
+|action2=
+|diff=title=Berkas:Cu-map.png&diff=2509421&oldid=405481
+|comment=<nowiki>dupe</nowiki>
+|usage='''[[Kuba]]'''
+}}<!-- ticker-id: 66146 --> <!-- timestamp: 20060725090738 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Cu-map-Guantanamo.png
+|image=Cu-map-Guantanamo.png
+|user=Conscious
+|type=tagged
+|action=addedBad|subject=[[commons:Template:Duplicate|Duplicate]]
+|action2=
+|diff=title=Berkas:Cu-map-Guantanamo.png&diff=2509410&oldid=1491808
+|comment=<nowiki>dupe</nowiki>
+|usage='''[[Teluk Guantanamo]]'''
+}}<!-- ticker-id: 66147 --> <!-- timestamp: 20060725090448 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Hassan_Nasrallah_Hezbollah.jpeg
+|image=Hassan_Nasrallah_Hezbollah.jpeg
+|user=Samulili
+|type=tagged
+|action=addedBad|subject=[[commons:Template:No source since|No source since]]
+|action2=
+|diff=title=Berkas:Hassan_Nasrallah_Hezbollah.jpeg&diff=2509147&oldid=2505999
+|comment=<nowiki>rv; "who owns the copyright on the billboard?"</nowiki>
+|usage='''[[Konflik Israel-Libanon 2006]]'''
+}}<!-- ticker-id: 66160 --> <!-- timestamp: 20060725080437 --> 
+<!-- max ticker-id: 66160 --> <!-- max timestamp: 20060725090738 -->
+
+* {{TickerEntry
+|status=
+|page=Berkas:Seurat-La_Parade_detail.jpg
+|image=Seurat-La_Parade_detail.jpg
+|user=ArmadniGeneral
+|type=replaced
+|action=replaced
+|action2=
+|usage='''[[Pointillisme]]'''
+}}<!-- ticker-id: 66113 --> <!-- timestamp: 20060725025157 --> 
+<!-- max ticker-id: 66113 --> <!-- max timestamp: 20060725025157 -->
+
+== 24 Juli <!-- timestamp: 20060724222727 --> ==
+
+* {{TickerEntry
+|status=
+|page=Berkas:Flag_of_Italy.svg
+|image=Flag_of_Italy.svg
+|user=Zscout370
+|type=replaced
+|action=replacedOwn
+|action2=
+|comment=<nowiki>Reverted to earlier revision</nowiki>
+|minor=1
+|usage='''[[A1 Grand Prix]]''', '''[[ACF Fiorentina]]''', '''[[AC Milan]]''', '''[[Burger King]]''', '''[[Daftar bendera negara di dunia]]''', '''[[Daftar juara dunia pembalap Formula Satu]]''', '''[[Data pertandingan babak kedua hingga final Piala Dunia FIFA 2006]]''', '''[[G8]]''', '''[[Grand Prix F1 Amerika Serikat 2001]]''', '''[[Grand Prix F1 Amerika Serikat 2002]]''', '''[[Grand Prix F1 Amerika Serikat 2006]]''', '''[[Grand Prix F1 Australia 1995]]''', '''[[Grand Prix F1 Australia 2003]]''', '''[[Grand Prix F1 Australia 2004]]''', '''[[Grand Prix F1 Australia 2006]]''', '''[[Grand Prix F1 Austria 2002]]''', '''[[Grand Prix F1 Austria 2003]]''', '''[[Grand Prix F1 Bahrain 2006]]''', '''[[Grand Prix F1 Belgia 2001]]''', '''[[Grand Prix F1 Belgia 2002]]''', '''[[Grand Prix F1 Belgia 2004]]''', '''[[Grand Prix F1 Brasil 2002]]''', '''[[Grand Prix F1 Brasil 2003]]''', '''[[Grand Prix F1 Eropa 2001]]''', '''[[Grand Prix F1 Eropa 2002]]''', '''[[Grand Prix F1 Eropa 2003]]''', '''[[Grand Prix F1 Eropa 2006]]''', '''[[Grand Prix F1 Hongaria 2001]]''', '''[[Grand Prix F1 Hongaria 2002]]''', '''[[Grand Prix F1 Hongaria 2003]]''' and more. 
+}}<!-- ticker-id: 66041 --> <!-- timestamp: 20060724222727 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Flag_of_Italy.svg
+|image=Flag_of_Italy.svg
+|user=Zscout370
+|type=replaced
+|action=replacedOwn
+|action2=
+|comment=<nowiki>New white, from http://www.pantone.com/products/products.asp?idSubArea=7&idArea=31&idProduct=332&idArticleType_Products=0</nowiki>
+|minor=1
+|usage='''[[A1 Grand Prix]]''', '''[[ACF Fiorentina]]''', '''[[AC Milan]]''', '''[[Burger King]]''', '''[[Daftar bendera negara di dunia]]''', '''[[Daftar juara dunia pembalap Formula Satu]]''', '''[[Data pertandingan babak kedua hingga final Piala Dunia FIFA 2006]]''', '''[[G8]]''', '''[[Grand Prix F1 Amerika Serikat 2001]]''', '''[[Grand Prix F1 Amerika Serikat 2002]]''', '''[[Grand Prix F1 Amerika Serikat 2006]]''', '''[[Grand Prix F1 Australia 1995]]''', '''[[Grand Prix F1 Australia 2003]]''', '''[[Grand Prix F1 Australia 2004]]''', '''[[Grand Prix F1 Australia 2006]]''', '''[[Grand Prix F1 Austria 2002]]''', '''[[Grand Prix F1 Austria 2003]]''', '''[[Grand Prix F1 Bahrain 2006]]''', '''[[Grand Prix F1 Belgia 2001]]''', '''[[Grand Prix F1 Belgia 2002]]''', '''[[Grand Prix F1 Belgia 2004]]''', '''[[Grand Prix F1 Brasil 2002]]''', '''[[Grand Prix F1 Brasil 2003]]''', '''[[Grand Prix F1 Eropa 2001]]''', '''[[Grand Prix F1 Eropa 2002]]''', '''[[Grand Prix F1 Eropa 2003]]''', '''[[Grand Prix F1 Eropa 2006]]''', '''[[Grand Prix F1 Hongaria 2001]]''', '''[[Grand Prix F1 Hongaria 2002]]''', '''[[Grand Prix F1 Hongaria 2003]]''' and more. 
+}}<!-- ticker-id: 66040 --> <!-- timestamp: 20060724222648 --> 
+<!-- max ticker-id: 66041 --> <!-- max timestamp: 20060724222727 -->
+
+* {{TickerEntry
+|status=
+|page=Berkas:Flag_of_Macau.svg
+|image=Flag_of_Macau.svg
+|user=Zscout370
+|type=deleted
+|action=deletedRev
+|action2=
+|comment=<nowiki>Deleted old revision 20060724210139!Flag_of_Macau.svg.</nowiki>
+|minor=1
+|usage='''[[ISO 3166-1]]'''
+}}<!-- ticker-id: 66022 --> <!-- timestamp: 20060724210146 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Flag_of_Macau.svg
+|image=Flag_of_Macau.svg
+|user=Zscout370
+|type=replaced
+|action=replaced
+|action2=
+|comment=<nowiki>Minor fixes, in response to my EN Wikipedia talk page</nowiki>
+|usage='''[[ISO 3166-1]]'''
+}}<!-- ticker-id: 66021 --> <!-- timestamp: 20060724210139 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Flag_of_Macau.svg
+|image=Flag_of_Macau.svg
+|user=Zscout370
+|type=replaced
+|action=replaced
+|action2=
+|comment=<nowiki>Minor fixes, in response to my EN Wikipedia talk page</nowiki>
+|usage='''[[ISO 3166-1]]'''
+}}<!-- ticker-id: 66019 --> <!-- timestamp: 20060724205851 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Flag_of_Hong_Kong.svg
+|image=Flag_of_Hong_Kong.svg
+|user=Zscout370
+|type=deleted
+|action=deletedRev
+|action2=
+|comment=<nowiki>Deleted old revision 20060724205343!Flag_of_Hong_Kong.svg.</nowiki>
+|minor=1
+|usage='''[[Bendera Hong Kong]]''', '''[[Burger King]]''', '''[[Hong Kong]]''', '''[[ISO 3166-1]]''', '''[[Piala Winners Asia]]''', '''[[Reporters Without Borders]]''', [[Templat:Reporters Without Borders/Worldwide press freedom index]]
+}}<!-- ticker-id: 66016 --> <!-- timestamp: 20060724205353 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Flag_of_Hong_Kong.svg
+|image=Flag_of_Hong_Kong.svg
+|user=Zscout370
+|type=replaced
+|action=replaced
+|action2=
+|comment=<nowiki>Uhh...why the hell I picked the Mexican flag</nowiki>
+|usage='''[[Bendera Hong Kong]]''', '''[[Burger King]]''', '''[[Hong Kong]]''', '''[[ISO 3166-1]]''', '''[[Piala Winners Asia]]''', '''[[Reporters Without Borders]]''', [[Templat:Reporters Without Borders/Worldwide press freedom index]]
+}}<!-- ticker-id: 66015 --> <!-- timestamp: 20060724205343 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Flag_of_Hong_Kong.svg
+|image=Flag_of_Hong_Kong.svg
+|user=Zscout370
+|type=replaced
+|action=replaced
+|action2=
+|comment=<nowiki>Minor fixes, in reply to my English talk page</nowiki>
+|usage='''[[Bendera Hong Kong]]''', '''[[Burger King]]''', '''[[Hong Kong]]''', '''[[ISO 3166-1]]''', '''[[Piala Winners Asia]]''', '''[[Reporters Without Borders]]''', [[Templat:Reporters Without Borders/Worldwide press freedom index]]
+}}<!-- ticker-id: 66014 --> <!-- timestamp: 20060724205317 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Flag_of_Hong_Kong.svg
+|image=Flag_of_Hong_Kong.svg
+|user=Zscout370
+|type=deleted
+|action=deletedRev
+|action2=
+|comment=<nowiki>Deleted old revision 20060618112358!Flag_of_Hong_Kong.svg.</nowiki>
+|minor=1
+|usage='''[[Bendera Hong Kong]]''', '''[[Burger King]]''', '''[[Hong Kong]]''', '''[[ISO 3166-1]]''', '''[[Piala Winners Asia]]''', '''[[Reporters Without Borders]]''', [[Templat:Reporters Without Borders/Worldwide press freedom index]]
+}}<!-- ticker-id: 66013 --> <!-- timestamp: 20060724204821 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Hassan_Nasrallah_Hezbollah.jpeg
+|image=Hassan_Nasrallah_Hezbollah.jpeg
+|user=Bertilvidet
+|type=tagged
+|action=removedBad|subject=[[commons:Template:No source since|No source since]]
+|action2=
+|diff=title=Berkas:Hassan_Nasrallah_Hezbollah.jpeg&diff=2505999&oldid=2498794
+|comment=<nowiki><span class="autocomment">Licensing -</span> tag removed - I am the photographer and have licensed the photo</nowiki>
+|usage='''[[Konflik Israel-Libanon 2006]]'''
+}}<!-- ticker-id: 65921 --> <!-- timestamp: 20060724193530 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:It-Suomen_lnin_vaakuna.svg
+|image=It-Suomen_lnin_vaakuna.svg
+|user=Tomia
+|type=replaced
+|action=replacedOwn
+|action2=
+|comment=<nowiki>Reverted to earlier revision</nowiki>
+|minor=1
+|usage='''[[Finlandia Timur]]'''
+}}<!-- ticker-id: 65938 --> <!-- timestamp: 20060724182654 --> 
+<!-- max ticker-id: 66022 --> <!-- max timestamp: 20060724210146 -->
+
+* {{TickerEntry
+|status=
+|page=Berkas:Trentino-Alto_Adige-Bandiera.png
+|image=Trentino-Alto_Adige-Bandiera.png
+|user=Sanbec
+|type=deleted
+|action=deleted
+|action2=
+|comment=<nowiki>In category [[:category:Against policy|Against policy]]; not edited for 68 days</nowiki>
+|usage='''[[Trentino-Alto Adige]]'''
+}}<!-- ticker-id: 65879 --> <!-- timestamp: 20060724181056 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:It-Suomen_lnin_vaakuna.svg
+|image=It-Suomen_lnin_vaakuna.svg
+|user=Tomia
+|type=replaced
+|action=replacedOwn
+|action2=
+|comment=<nowiki>switch sides to match description</nowiki>
+|minor=1
+|usage='''[[Finlandia Timur]]'''
+}}<!-- ticker-id: 65850 --> <!-- timestamp: 20060724161159 --> 
+<!-- max ticker-id: 65879 --> <!-- max timestamp: 20060724181056 -->
+
+* {{TickerEntry
+|status=
+|page=Berkas:WhiteRose.jpg
+|image=WhiteRose.jpg
+|user=88.134.45.6
+|type=tagged
+|action=addedBad|subject=[[commons:Template:Deletion request|Deletion request]]
+|action2=
+|comment=<nowiki>deletion request</nowiki>
+|usage='''[[Sophie Scholl]]'''
+}}<!-- ticker-id: 65604 --> <!-- timestamp: 20060724124940 --> 
+<!-- max ticker-id: 65604 --> <!-- max timestamp: 20060724124940 -->
+
+* {{TickerEntry
+|status=
+|page=Berkas:Ardea-alba-001.jpg
+|image=Ardea-alba-001.jpg
+|user=Dodo
+|type=tagged
+|action=addedBad|subject=[[commons:Template:No source since|No source since]]
+|action2=
+|diff=title=Berkas:Ardea-alba-001.jpg&diff=2501007&oldid=1064931
+|usage='''[[Kuntul]]'''
+}}<!-- ticker-id: 65534 --> <!-- timestamp: 20060724070602 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Flag_of_Venezuela_(state).svg
+|image=Flag_of_Venezuela_(state).svg
+|user=Oscar .
+|type=replaced
+|action=replacedOwn
+|action2=
+|comment=<nowiki>Recuperar una revisin anterior</nowiki>
+|minor=1
+|usage='''[[Venezuela]]'''
+}}<!-- ticker-id: 65547 --> <!-- timestamp: 20060724063454 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Flag_of_Venezuela_(state).svg
+|image=Flag_of_Venezuela_(state).svg
+|user=Oscar .
+|type=replaced
+|action=replaced
+|action2=
+|comment=<nowiki>==Sumario== {{es|Bandera Nacional de Venezuela, cuando es usada por el estado venezolano.}} {{en|State flag of [[w:Venezuela|Venezuela]].}} [[Category:Flags of Venezuela|*]] ==Licencia== {{Insignia2}} {{PD-Flag}} [[Category:SVG flags]].</nowiki>
+|usage='''[[Venezuela]]'''
+}}<!-- ticker-id: 65546 --> <!-- timestamp: 20060724063347 --> 
+<!-- max ticker-id: 65547 --> <!-- max timestamp: 20060724070602 -->
+
+== 23 Juli <!-- timestamp: 20060723214408 --> ==
+
+* {{TickerEntry
+|status=
+|page=Berkas:NIH-lancearm2.jpg
+|image=NIH-lancearm2.jpg
+|user=Mboverload
+|type=replaced
+|action=replaced
+|action2=
+|usage='''[[Lance Armstrong]]'''
+}}<!-- ticker-id: 65336 --> <!-- timestamp: 20060723214408 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Flloydlandis.jpg
+|image=Flloydlandis.jpg
+|user=Samulili
+|type=deleted
+|action=deleted
+|action2=
+|comment=<nowiki>{{cc-by-nc-nd-2.0}}</nowiki>
+|usage='''[[Floyd Landis]]'''
+}}<!-- ticker-id: 65318 --> <!-- timestamp: 20060723195156 --> 
+<!-- max ticker-id: 65336 --> <!-- max timestamp: 20060723214408 -->
+
+* {{TickerEntry
+|status=
+|page=Berkas:Flloydlandis.jpg
+|image=Flloydlandis.jpg
+|user=65.95.107.202
+|type=tagged
+|action=addedBad|subject=[[commons:Template:Cc-by-nc-nd-2.0|Cc-by-nc-nd-2.0]]
+|action2=
+|comment=<nowiki><span class="autocomment">Licensing -</span> proper licence from Flickr: {{cc-by-nc-nd-2.0}}</nowiki>
+|usage='''[[Floyd Landis]]'''
+}}<!-- ticker-id: 65120 --> <!-- timestamp: 20060723165323 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Cat_outside.jpg
+|image=Cat_outside.jpg
+|user=Starwiz
+|type=replaced
+|action=replacedOwn
+|action2=
+|comment=<nowiki>I didn't realize that the original image was a crop until I uploaded it. Here's a high-res crop.</nowiki>
+|minor=1
+|usage='''[[Halaman Utama]]''', [[Wikipedia:Artikel Pilihan]], [[Wikipedia:Artikel Pilihan/20 2006]]
+}}<!-- ticker-id: 65155 --> <!-- timestamp: 20060723154627 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Cat_outside.jpg
+|image=Cat_outside.jpg
+|user=Starwiz
+|type=replaced
+|action=replacedOwn
+|action2=
+|comment=<nowiki>Reverted to earlier revision</nowiki>
+|minor=1
+|usage='''[[Halaman Utama]]''', [[Wikipedia:Artikel Pilihan]], [[Wikipedia:Artikel Pilihan/20 2006]]
+}}<!-- ticker-id: 65154 --> <!-- timestamp: 20060723154343 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Cat_outside.jpg
+|image=Cat_outside.jpg
+|user=Starwiz
+|type=replaced
+|action=replaced
+|action2=
+|comment=<nowiki>Uploading higher resolution version.</nowiki>
+|usage='''[[Halaman Utama]]''', [[Wikipedia:Artikel Pilihan]], [[Wikipedia:Artikel Pilihan/20 2006]]
+}}<!-- ticker-id: 65153 --> <!-- timestamp: 20060723154233 --> 
+<!-- max ticker-id: 65155 --> <!-- max timestamp: 20060723165323 -->
+
+* {{TickerEntry
+|status=
+|page=Berkas:Ballteamgeist.jpg
+|image=Ballteamgeist.jpg
+|user=Samulili
+|type=deleted
+|action=deleted
+|action2=
+|comment=<nowiki>Deletion requests, 2006-07-07</nowiki>
+|usage='''[[Teamgeist]]'''
+}}<!-- ticker-id: 65055 --> <!-- timestamp: 20060723121624 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:China_11b.jpg
+|image=China_11b.jpg
+|user=Conscious
+|type=replaced
+|action=replaced
+|action2=
+|comment=<nowiki>another version from en:</nowiki>
+|usage='''[[Dinasti Jin (1115-1234)]]'''
+}}<!-- ticker-id: 65036 --> <!-- timestamp: 20060723102117 --> 
+<!-- max ticker-id: 65055 --> <!-- max timestamp: 20060723121624 -->
+
+* {{TickerEntry
+|status=
+|page=Berkas:Barcelona_-_Agbar_Tower_-_night.JPG
+|image=Barcelona_-_Agbar_Tower_-_night.JPG
+|user=Samulili
+|type=deleted
+|action=deleted
+|action2=
+|comment=<nowiki>In category [[:category:Images with unknown source as of 29 June 2006|Images with unknown source as of 29 June 2006]]; not edited for 24 days</nowiki>
+|usage='''[[Torre Agbar]]'''
+}}<!-- ticker-id: 64953 --> <!-- timestamp: 20060723094139 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:President_George_W._Bush_and_Laura_Bush_greet_Their_Majesties_King_Harald_and_Queen_Sonja_of_Norway_at_the_South_Portico_entrance_of_the_White_House_before_hosting_the_King_and_Queen_for_lunch_Monday,_March_7,_2005.jpg
+|image=President_George_W._Bush_and_Laura_Bush_greet_Their_Majesties_King_Harald_and_Queen_Sonja_of_Norway_at_the_South_Portico_entrance_of_the_White_House_before_hosting_the_King_and_Queen_for_lunch_Monday,_March_7,_2005.jpg
+|user=Arcimboldo
+|type=tagged
+|action=addedBad|subject=[[commons:Template:Duplicate|Duplicate]]
+|action2=
+|comment=<nowiki>duplicate</nowiki>
+|usage='''[[Harald V dari Norwegia]]'''
+}}<!-- ticker-id: 64726 --> <!-- timestamp: 20060723074133 --> 
+<!-- max ticker-id: 64953 --> <!-- max timestamp: 20060723094139 -->
+
+== 22 Juli <!-- timestamp: 20060722233126 --> ==
+
+* {{TickerEntry
+|status=
+|page=Berkas:Flag,_Salamanca.gif
+|image=Flag,_Salamanca.gif
+|user=Sanbec
+|type=tagged
+|action=addedBad|subject=[[commons:Template:No source since|No source since]]
+|action2=
+|diff=title=Berkas:Flag%2C_Salamanca.gif&diff=2491641&oldid=2473811
+|comment=<nowiki>No source</nowiki>
+|usage='''[[Salamanca]]'''
+}}<!-- ticker-id: 64482 --> <!-- timestamp: 20060722233126 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Escudo_salamanca.PNG
+|image=Escudo_salamanca.PNG
+|user=Sanbec
+|type=deleted
+|action=deleted
+|action2=
+|comment=<nowiki>In category [[:category:Images with unknown source as of 6 June 2006|Images with unknown source as of 6 June 2006]]; not edited for 46 days. Superseded by [[:Berkas:Escudo de Salamanca.svg]]</nowiki>
+|usage='''[[Salamanca]]'''
+}}<!-- ticker-id: 64567 --> <!-- timestamp: 20060722232912 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Jimi_Hendrix.jpg
+|image=Jimi_Hendrix.jpg
+|user=Barcex
+|type=deleted
+|action=deleted
+|action2=
+|comment=<nowiki>In category [[:category:Images with unknown source as of 3 July 2006|Images with unknown source as of 3 July 2006]]; not edited for 19 days</nowiki>
+|usage='''[[Jimi Hendrix]]'''
+}}<!-- ticker-id: 64554 --> <!-- timestamp: 20060722232328 --> 
+<!-- max ticker-id: 64567 --> <!-- max timestamp: 20060722233126 -->
+
+* {{TickerEntry
+|status=
+|page=Berkas:Hassan_Nasrallah_Hezbollah.jpeg
+|image=Hassan_Nasrallah_Hezbollah.jpeg
+|user=69.196.128.174
+|type=tagged
+|action=addedBad|subject=[[commons:Template:No source since|No source since]]
+|action2=
+|diff=title=Berkas:Hassan_Nasrallah_Hezbollah.jpeg&diff=2491010&oldid=2437877
+|usage='''[[Konflik Israel-Libanon 2006]]'''
+}}<!-- ticker-id: 64286 --> <!-- timestamp: 20060722215448 --> 
+* {{TickerEntry
+|status=
+|page=Template:PD-Mexico-NIP
+|user=Gildemax
+|type=tagged
+|action=addedBad|subject=[[commons:Template:Speedydb|Speedydb]]
+|action2=
+|diff=title=Template:PD-Mexico-NIP&diff=2489598&oldid=2093230
+|comment=<nowiki>The imagens from http://fuente.presidencia.gob.mx/&lt;br&gt; have a Creative Commons license</nowiki>
+|template=1
+}}<!-- ticker-id: 64323 --> <!-- timestamp: 20060722191234 --> 
+** {{TickerEntry
+|page=Berkas:AM_Lopez_Obrador.jpg
+|image=AM_Lopez_Obrador.jpg
+|usage='''[[Andrs Manuel Lpez Obrador]]'''
+|sub=1
+}}
+** {{TickerEntry
+|page=Berkas:Andres_Manuel_Lopez_Obrador_2.jpg
+|image=Andres_Manuel_Lopez_Obrador_2.jpg
+|usage='''[[Andrs Manuel Lpez Obrador]]'''
+|sub=1
+}}
+** {{TickerEntry
+|page=Berkas:Eduardo_Bours.jpg
+|image=Eduardo_Bours.jpg
+|usage='''[[Eduardo Bours]]'''
+|sub=1
+}}
+** {{TickerEntry
+|page=Berkas:Felipe_Calderon.jpg
+|image=Felipe_Calderon.jpg
+|usage='''[[Felipe Caldern]]'''
+|sub=1
+}}
+** {{TickerEntry
+|page=Berkas:Fox_Lopez_Obrador_Montiel.jpg
+|image=Fox_Lopez_Obrador_Montiel.jpg
+|usage='''[[Andrs Manuel Lpez Obrador]]'''
+|sub=1
+}}
+** {{TickerEntry
+|page=Berkas:Vicente_Fox_flag.jpg
+|image=Vicente_Fox_flag.jpg
+|usage='''[[Vicente Fox]]'''
+|sub=1
+}}
+<!-- max ticker-id: 64323 --> <!-- max timestamp: 20060722215448 -->
+
+* {{TickerEntry
+|status=
+|page=Berkas:Flag_of_Israel.svg
+|image=Flag_of_Israel.svg
+|user=Westermarck
+|type=replaced
+|action=replacedOwn
+|action2=
+|comment=<nowiki>Reverted to earlier revision</nowiki>
+|minor=1
+|usage='''[[Burger King]]''', '''[[Daftar bendera negara di dunia]]''', '''[[Distrik-distrik di Israel]]''', '''[[Distrik Haifa]]''', '''[[Distrik Selatan, Israel]]''', '''[[Distrik Tel Aviv]]''', '''[[Distrik Tengah, Israel]]''', '''[[Distrik Utara, Israel]]''', '''[[Distrik Yerusalem]]''', '''[[Fenerbahe]]''', '''[[ISO 3166-1]]''', '''[[Israel]]''', '''[[Kejuaraan Sepak Bola Eropa 2008]]''', '''[[Konflik Israel-Libanon 2006]]''', '''[[Kota Tainan]]''', '''[[Reporters Without Borders]]''', [[Templat:Distrik Israel]], [[Templat:ISRf]], [[Templat:Reporters Without Borders/Worldwide press freedom index]]
+}}<!-- ticker-id: 63879 --> <!-- timestamp: 20060722122921 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Flag_of_Israel.svg
+|image=Flag_of_Israel.svg
+|user=Westermarck
+|type=replaced
+|action=replaced
+|action2=
+|comment=<nowiki>Reverted to earlier revision</nowiki>
+|usage='''[[Burger King]]''', '''[[Daftar bendera negara di dunia]]''', '''[[Distrik-distrik di Israel]]''', '''[[Distrik Haifa]]''', '''[[Distrik Selatan, Israel]]''', '''[[Distrik Tel Aviv]]''', '''[[Distrik Tengah, Israel]]''', '''[[Distrik Utara, Israel]]''', '''[[Distrik Yerusalem]]''', '''[[Fenerbahe]]''', '''[[ISO 3166-1]]''', '''[[Israel]]''', '''[[Kejuaraan Sepak Bola Eropa 2008]]''', '''[[Konflik Israel-Libanon 2006]]''', '''[[Kota Tainan]]''', '''[[Reporters Without Borders]]''', [[Templat:Distrik Israel]], [[Templat:ISRf]], [[Templat:Reporters Without Borders/Worldwide press freedom index]]
+}}<!-- ticker-id: 63878 --> <!-- timestamp: 20060722122843 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Alexander_fleming.jpg
+|image=Alexander_fleming.jpg
+|user=Samulili
+|type=deleted
+|action=deleted
+|action2=
+|comment=<nowiki>In category [[:category:Images with unknown source as of 24 June 2006|Images with unknown source as of 24 June 2006]]; not edited for 28 days</nowiki>
+|usage='''[[Alexander Fleming]]'''
+}}<!-- ticker-id: 63714 --> <!-- timestamp: 20060722111351 --> 
+<!-- max ticker-id: 63879 --> <!-- max timestamp: 20060722122921 -->
+
+* {{TickerEntry
+|status=
+|page=Berkas:Flag_of_Italy.svg
+|image=Flag_of_Italy.svg
+|user=Zscout370
+|type=deleted
+|action=deletedRev
+|action2=
+|comment=<nowiki>Deleted old revision 20060519122252!Flag_of_Italy.svg.</nowiki>
+|minor=1
+|usage='''[[A1 Grand Prix]]''', '''[[ACF Fiorentina]]''', '''[[AC Milan]]''', '''[[Burger King]]''', '''[[Daftar bendera negara di dunia]]''', '''[[Daftar juara dunia pembalap Formula Satu]]''', '''[[Data pertandingan babak kedua hingga final Piala Dunia FIFA 2006]]''', '''[[Grand Prix F1 Amerika Serikat 2001]]''', '''[[Grand Prix F1 Amerika Serikat 2002]]''', '''[[Grand Prix F1 Amerika Serikat 2006]]''', '''[[Grand Prix F1 Australia 1995]]''', '''[[Grand Prix F1 Australia 2003]]''', '''[[Grand Prix F1 Australia 2004]]''', '''[[Grand Prix F1 Australia 2006]]''', '''[[Grand Prix F1 Austria 2002]]''', '''[[Grand Prix F1 Austria 2003]]''', '''[[Grand Prix F1 Bahrain 2006]]''', '''[[Grand Prix F1 Belgia 2001]]''', '''[[Grand Prix F1 Belgia 2002]]''', '''[[Grand Prix F1 Belgia 2004]]''', '''[[Grand Prix F1 Brasil 2002]]''', '''[[Grand Prix F1 Brasil 2003]]''', '''[[Grand Prix F1 Eropa 2001]]''', '''[[Grand Prix F1 Eropa 2002]]''', '''[[Grand Prix F1 Eropa 2003]]''', '''[[Grand Prix F1 Eropa 2006]]''', '''[[Grand Prix F1 Hongaria 2001]]''', '''[[Grand Prix F1 Hongaria 2002]]''', '''[[Grand Prix F1 Hongaria 2003]]''', '''[[Grand Prix F1 Hongaria 2004]]''' and more. 
+}}<!-- ticker-id: 63382 --> <!-- timestamp: 20060722055902 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Flag_of_Italy.svg
+|image=Flag_of_Italy.svg
+|user=Zscout370
+|type=deleted
+|action=deletedRev
+|action2=
+|comment=<nowiki>Deleted old revision 20060520082209!Flag_of_Italy.svg.</nowiki>
+|minor=1
+|usage='''[[A1 Grand Prix]]''', '''[[ACF Fiorentina]]''', '''[[AC Milan]]''', '''[[Burger King]]''', '''[[Daftar bendera negara di dunia]]''', '''[[Daftar juara dunia pembalap Formula Satu]]''', '''[[Data pertandingan babak kedua hingga final Piala Dunia FIFA 2006]]''', '''[[Grand Prix F1 Amerika Serikat 2001]]''', '''[[Grand Prix F1 Amerika Serikat 2002]]''', '''[[Grand Prix F1 Amerika Serikat 2006]]''', '''[[Grand Prix F1 Australia 1995]]''', '''[[Grand Prix F1 Australia 2003]]''', '''[[Grand Prix F1 Australia 2004]]''', '''[[Grand Prix F1 Australia 2006]]''', '''[[Grand Prix F1 Austria 2002]]''', '''[[Grand Prix F1 Austria 2003]]''', '''[[Grand Prix F1 Bahrain 2006]]''', '''[[Grand Prix F1 Belgia 2001]]''', '''[[Grand Prix F1 Belgia 2002]]''', '''[[Grand Prix F1 Belgia 2004]]''', '''[[Grand Prix F1 Brasil 2002]]''', '''[[Grand Prix F1 Brasil 2003]]''', '''[[Grand Prix F1 Eropa 2001]]''', '''[[Grand Prix F1 Eropa 2002]]''', '''[[Grand Prix F1 Eropa 2003]]''', '''[[Grand Prix F1 Eropa 2006]]''', '''[[Grand Prix F1 Hongaria 2001]]''', '''[[Grand Prix F1 Hongaria 2002]]''', '''[[Grand Prix F1 Hongaria 2003]]''', '''[[Grand Prix F1 Hongaria 2004]]''' and more. 
+}}<!-- ticker-id: 63381 --> <!-- timestamp: 20060722055859 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Flag_of_Italy.svg
+|image=Flag_of_Italy.svg
+|user=Zscout370
+|type=deleted
+|action=deletedRev
+|action2=
+|comment=<nowiki>Deleted old revision 20060606074314!Flag_of_Italy.svg.</nowiki>
+|minor=1
+|usage='''[[A1 Grand Prix]]''', '''[[ACF Fiorentina]]''', '''[[AC Milan]]''', '''[[Burger King]]''', '''[[Daftar bendera negara di dunia]]''', '''[[Daftar juara dunia pembalap Formula Satu]]''', '''[[Data pertandingan babak kedua hingga final Piala Dunia FIFA 2006]]''', '''[[Grand Prix F1 Amerika Serikat 2001]]''', '''[[Grand Prix F1 Amerika Serikat 2002]]''', '''[[Grand Prix F1 Amerika Serikat 2006]]''', '''[[Grand Prix F1 Australia 1995]]''', '''[[Grand Prix F1 Australia 2003]]''', '''[[Grand Prix F1 Australia 2004]]''', '''[[Grand Prix F1 Australia 2006]]''', '''[[Grand Prix F1 Austria 2002]]''', '''[[Grand Prix F1 Austria 2003]]''', '''[[Grand Prix F1 Bahrain 2006]]''', '''[[Grand Prix F1 Belgia 2001]]''', '''[[Grand Prix F1 Belgia 2002]]''', '''[[Grand Prix F1 Belgia 2004]]''', '''[[Grand Prix F1 Brasil 2002]]''', '''[[Grand Prix F1 Brasil 2003]]''', '''[[Grand Prix F1 Eropa 2001]]''', '''[[Grand Prix F1 Eropa 2002]]''', '''[[Grand Prix F1 Eropa 2003]]''', '''[[Grand Prix F1 Eropa 2006]]''', '''[[Grand Prix F1 Hongaria 2001]]''', '''[[Grand Prix F1 Hongaria 2002]]''', '''[[Grand Prix F1 Hongaria 2003]]''', '''[[Grand Prix F1 Hongaria 2004]]''' and more. 
+}}<!-- ticker-id: 63380 --> <!-- timestamp: 20060722055858 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Flag_of_Italy.svg
+|image=Flag_of_Italy.svg
+|user=Zscout370
+|type=deleted
+|action=deletedRev
+|action2=
+|comment=<nowiki>Deleted old revision 20060606085956!Flag_of_Italy.svg.</nowiki>
+|minor=1
+|usage='''[[A1 Grand Prix]]''', '''[[ACF Fiorentina]]''', '''[[AC Milan]]''', '''[[Burger King]]''', '''[[Daftar bendera negara di dunia]]''', '''[[Daftar juara dunia pembalap Formula Satu]]''', '''[[Data pertandingan babak kedua hingga final Piala Dunia FIFA 2006]]''', '''[[Grand Prix F1 Amerika Serikat 2001]]''', '''[[Grand Prix F1 Amerika Serikat 2002]]''', '''[[Grand Prix F1 Amerika Serikat 2006]]''', '''[[Grand Prix F1 Australia 1995]]''', '''[[Grand Prix F1 Australia 2003]]''', '''[[Grand Prix F1 Australia 2004]]''', '''[[Grand Prix F1 Australia 2006]]''', '''[[Grand Prix F1 Austria 2002]]''', '''[[Grand Prix F1 Austria 2003]]''', '''[[Grand Prix F1 Bahrain 2006]]''', '''[[Grand Prix F1 Belgia 2001]]''', '''[[Grand Prix F1 Belgia 2002]]''', '''[[Grand Prix F1 Belgia 2004]]''', '''[[Grand Prix F1 Brasil 2002]]''', '''[[Grand Prix F1 Brasil 2003]]''', '''[[Grand Prix F1 Eropa 2001]]''', '''[[Grand Prix F1 Eropa 2002]]''', '''[[Grand Prix F1 Eropa 2003]]''', '''[[Grand Prix F1 Eropa 2006]]''', '''[[Grand Prix F1 Hongaria 2001]]''', '''[[Grand Prix F1 Hongaria 2002]]''', '''[[Grand Prix F1 Hongaria 2003]]''', '''[[Grand Prix F1 Hongaria 2004]]''' and more. 
+}}<!-- ticker-id: 63379 --> <!-- timestamp: 20060722055854 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Flag_of_Italy.svg
+|image=Flag_of_Italy.svg
+|user=Zscout370
+|type=deleted
+|action=deletedRev
+|action2=
+|comment=<nowiki>Deleted old revision 20060701224058!Flag_of_Italy.svg.</nowiki>
+|minor=1
+|usage='''[[A1 Grand Prix]]''', '''[[ACF Fiorentina]]''', '''[[AC Milan]]''', '''[[Burger King]]''', '''[[Daftar bendera negara di dunia]]''', '''[[Daftar juara dunia pembalap Formula Satu]]''', '''[[Data pertandingan babak kedua hingga final Piala Dunia FIFA 2006]]''', '''[[Grand Prix F1 Amerika Serikat 2001]]''', '''[[Grand Prix F1 Amerika Serikat 2002]]''', '''[[Grand Prix F1 Amerika Serikat 2006]]''', '''[[Grand Prix F1 Australia 1995]]''', '''[[Grand Prix F1 Australia 2003]]''', '''[[Grand Prix F1 Australia 2004]]''', '''[[Grand Prix F1 Australia 2006]]''', '''[[Grand Prix F1 Austria 2002]]''', '''[[Grand Prix F1 Austria 2003]]''', '''[[Grand Prix F1 Bahrain 2006]]''', '''[[Grand Prix F1 Belgia 2001]]''', '''[[Grand Prix F1 Belgia 2002]]''', '''[[Grand Prix F1 Belgia 2004]]''', '''[[Grand Prix F1 Brasil 2002]]''', '''[[Grand Prix F1 Brasil 2003]]''', '''[[Grand Prix F1 Eropa 2001]]''', '''[[Grand Prix F1 Eropa 2002]]''', '''[[Grand Prix F1 Eropa 2003]]''', '''[[Grand Prix F1 Eropa 2006]]''', '''[[Grand Prix F1 Hongaria 2001]]''', '''[[Grand Prix F1 Hongaria 2002]]''', '''[[Grand Prix F1 Hongaria 2003]]''', '''[[Grand Prix F1 Hongaria 2004]]''' and more. 
+}}<!-- ticker-id: 63378 --> <!-- timestamp: 20060722055853 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Flag_of_Italy.svg
+|image=Flag_of_Italy.svg
+|user=Zscout370
+|type=deleted
+|action=deletedRev
+|action2=
+|comment=<nowiki>Deleted old revision 20060701231837!Flag_of_Italy.svg.</nowiki>
+|minor=1
+|usage='''[[A1 Grand Prix]]''', '''[[ACF Fiorentina]]''', '''[[AC Milan]]''', '''[[Burger King]]''', '''[[Daftar bendera negara di dunia]]''', '''[[Daftar juara dunia pembalap Formula Satu]]''', '''[[Data pertandingan babak kedua hingga final Piala Dunia FIFA 2006]]''', '''[[Grand Prix F1 Amerika Serikat 2001]]''', '''[[Grand Prix F1 Amerika Serikat 2002]]''', '''[[Grand Prix F1 Amerika Serikat 2006]]''', '''[[Grand Prix F1 Australia 1995]]''', '''[[Grand Prix F1 Australia 2003]]''', '''[[Grand Prix F1 Australia 2004]]''', '''[[Grand Prix F1 Australia 2006]]''', '''[[Grand Prix F1 Austria 2002]]''', '''[[Grand Prix F1 Austria 2003]]''', '''[[Grand Prix F1 Bahrain 2006]]''', '''[[Grand Prix F1 Belgia 2001]]''', '''[[Grand Prix F1 Belgia 2002]]''', '''[[Grand Prix F1 Belgia 2004]]''', '''[[Grand Prix F1 Brasil 2002]]''', '''[[Grand Prix F1 Brasil 2003]]''', '''[[Grand Prix F1 Eropa 2001]]''', '''[[Grand Prix F1 Eropa 2002]]''', '''[[Grand Prix F1 Eropa 2003]]''', '''[[Grand Prix F1 Eropa 2006]]''', '''[[Grand Prix F1 Hongaria 2001]]''', '''[[Grand Prix F1 Hongaria 2002]]''', '''[[Grand Prix F1 Hongaria 2003]]''', '''[[Grand Prix F1 Hongaria 2004]]''' and more. 
+}}<!-- ticker-id: 63377 --> <!-- timestamp: 20060722055848 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Flag_of_Italy.svg
+|image=Flag_of_Italy.svg
+|user=Zscout370
+|type=deleted
+|action=deletedRev
+|action2=
+|comment=<nowiki>Deleted old revision 20060707030405!Flag_of_Italy.svg.</nowiki>
+|minor=1
+|usage='''[[A1 Grand Prix]]''', '''[[ACF Fiorentina]]''', '''[[AC Milan]]''', '''[[Burger King]]''', '''[[Daftar bendera negara di dunia]]''', '''[[Daftar juara dunia pembalap Formula Satu]]''', '''[[Data pertandingan babak kedua hingga final Piala Dunia FIFA 2006]]''', '''[[Grand Prix F1 Amerika Serikat 2001]]''', '''[[Grand Prix F1 Amerika Serikat 2002]]''', '''[[Grand Prix F1 Amerika Serikat 2006]]''', '''[[Grand Prix F1 Australia 1995]]''', '''[[Grand Prix F1 Australia 2003]]''', '''[[Grand Prix F1 Australia 2004]]''', '''[[Grand Prix F1 Australia 2006]]''', '''[[Grand Prix F1 Austria 2002]]''', '''[[Grand Prix F1 Austria 2003]]''', '''[[Grand Prix F1 Bahrain 2006]]''', '''[[Grand Prix F1 Belgia 2001]]''', '''[[Grand Prix F1 Belgia 2002]]''', '''[[Grand Prix F1 Belgia 2004]]''', '''[[Grand Prix F1 Brasil 2002]]''', '''[[Grand Prix F1 Brasil 2003]]''', '''[[Grand Prix F1 Eropa 2001]]''', '''[[Grand Prix F1 Eropa 2002]]''', '''[[Grand Prix F1 Eropa 2003]]''', '''[[Grand Prix F1 Eropa 2006]]''', '''[[Grand Prix F1 Hongaria 2001]]''', '''[[Grand Prix F1 Hongaria 2002]]''', '''[[Grand Prix F1 Hongaria 2003]]''', '''[[Grand Prix F1 Hongaria 2004]]''' and more. 
+}}<!-- ticker-id: 63376 --> <!-- timestamp: 20060722055847 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Flag_of_Italy.svg
+|image=Flag_of_Italy.svg
+|user=Zscout370
+|type=deleted
+|action=deletedRev
+|action2=
+|comment=<nowiki>Deleted old revision 20060708005021!Flag_of_Italy.svg.</nowiki>
+|minor=1
+|usage='''[[A1 Grand Prix]]''', '''[[ACF Fiorentina]]''', '''[[AC Milan]]''', '''[[Burger King]]''', '''[[Daftar bendera negara di dunia]]''', '''[[Daftar juara dunia pembalap Formula Satu]]''', '''[[Data pertandingan babak kedua hingga final Piala Dunia FIFA 2006]]''', '''[[Grand Prix F1 Amerika Serikat 2001]]''', '''[[Grand Prix F1 Amerika Serikat 2002]]''', '''[[Grand Prix F1 Amerika Serikat 2006]]''', '''[[Grand Prix F1 Australia 1995]]''', '''[[Grand Prix F1 Australia 2003]]''', '''[[Grand Prix F1 Australia 2004]]''', '''[[Grand Prix F1 Australia 2006]]''', '''[[Grand Prix F1 Austria 2002]]''', '''[[Grand Prix F1 Austria 2003]]''', '''[[Grand Prix F1 Bahrain 2006]]''', '''[[Grand Prix F1 Belgia 2001]]''', '''[[Grand Prix F1 Belgia 2002]]''', '''[[Grand Prix F1 Belgia 2004]]''', '''[[Grand Prix F1 Brasil 2002]]''', '''[[Grand Prix F1 Brasil 2003]]''', '''[[Grand Prix F1 Eropa 2001]]''', '''[[Grand Prix F1 Eropa 2002]]''', '''[[Grand Prix F1 Eropa 2003]]''', '''[[Grand Prix F1 Eropa 2006]]''', '''[[Grand Prix F1 Hongaria 2001]]''', '''[[Grand Prix F1 Hongaria 2002]]''', '''[[Grand Prix F1 Hongaria 2003]]''', '''[[Grand Prix F1 Hongaria 2004]]''' and more. 
+}}<!-- ticker-id: 63375 --> <!-- timestamp: 20060722055845 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Flag_of_Italy.svg
+|image=Flag_of_Italy.svg
+|user=Zscout370
+|type=deleted
+|action=deletedRev
+|action2=
+|comment=<nowiki>Deleted old revision 20060722055830!Flag_of_Italy.svg.</nowiki>
+|minor=1
+|usage='''[[A1 Grand Prix]]''', '''[[ACF Fiorentina]]''', '''[[AC Milan]]''', '''[[Burger King]]''', '''[[Daftar bendera negara di dunia]]''', '''[[Daftar juara dunia pembalap Formula Satu]]''', '''[[Data pertandingan babak kedua hingga final Piala Dunia FIFA 2006]]''', '''[[Grand Prix F1 Amerika Serikat 2001]]''', '''[[Grand Prix F1 Amerika Serikat 2002]]''', '''[[Grand Prix F1 Amerika Serikat 2006]]''', '''[[Grand Prix F1 Australia 1995]]''', '''[[Grand Prix F1 Australia 2003]]''', '''[[Grand Prix F1 Australia 2004]]''', '''[[Grand Prix F1 Australia 2006]]''', '''[[Grand Prix F1 Austria 2002]]''', '''[[Grand Prix F1 Austria 2003]]''', '''[[Grand Prix F1 Bahrain 2006]]''', '''[[Grand Prix F1 Belgia 2001]]''', '''[[Grand Prix F1 Belgia 2002]]''', '''[[Grand Prix F1 Belgia 2004]]''', '''[[Grand Prix F1 Brasil 2002]]''', '''[[Grand Prix F1 Brasil 2003]]''', '''[[Grand Prix F1 Eropa 2001]]''', '''[[Grand Prix F1 Eropa 2002]]''', '''[[Grand Prix F1 Eropa 2003]]''', '''[[Grand Prix F1 Eropa 2006]]''', '''[[Grand Prix F1 Hongaria 2001]]''', '''[[Grand Prix F1 Hongaria 2002]]''', '''[[Grand Prix F1 Hongaria 2003]]''', '''[[Grand Prix F1 Hongaria 2004]]''' and more. 
+}}<!-- ticker-id: 63374 --> <!-- timestamp: 20060722055843 --> 
+* {{TickerEntry
+|status=
+|page=Berkas:Flag_of_Italy.svg
+|image=Flag_of_Italy.svg
+|user=Zscout370
+|type=replaced
+|action=replaced
+|action2=
+|comment=<nowiki>Reverted to earlier revision</nowiki>
+|usage='''[[A1 Grand Prix]]''', '''[[ACF Fiorentina]]''', '''[[AC Milan]]''', '''[[Burger King]]''', '''[[Daftar bendera negara di dunia]]''', '''[[Daftar juara dunia pembalap Formula Satu]]''', '''[[Data pertandingan babak kedua hingga final Piala Dunia FIFA 2006]]''', '''[[Grand Prix F1 Amerika Serikat 2001]]''', '''[[Grand Prix F1 Amerika Serikat 2002]]''', '''[[Grand Prix F1 Amerika Serikat 2006]]''', '''[[Grand Prix F1 Australia 1995]]''', '''[[Grand Prix F1 Australia 2003]]''', '''[[Grand Prix F1 Australia 2004]]''', '''[[Grand Prix F1 Australia 2006]]''', '''[[Grand Prix F1 Austria 2002]]''', '''[[Grand Prix F1 Austria 2003]]''', '''[[Grand Prix F1 Bahrain 2006]]''', '''[[Grand Prix F1 Belgia 2001]]''', '''[[Grand Prix F1 Belgia 2002]]''', '''[[Grand Prix F1 Belgia 2004]]''', '''[[Grand Prix F1 Brasil 2002]]''', '''[[Grand Prix F1 Brasil 2003]]''', '''[[Grand Prix F1 Eropa 2001]]''', '''[[Grand Prix F1 Eropa 2002]]''', '''[[Grand Prix F1 Eropa 2003]]''', '''[[Grand Prix F1 Eropa 2006]]''', '''[[Grand Prix F1 Hongaria 2001]]''', '''[[Grand Prix F1 Hongaria 2002]]''', '''[[Grand Prix F1 Hongaria 2003]]''', '''[[Grand Prix F1 Hongaria 2004]]''' and more. 
+}}<!-- ticker-id: 63373 --> <!-- timestamp: 20060722055831 --> 
+<!-- max ticker-id: 63382 --> <!-- max timestamp: 20060722055902 -->

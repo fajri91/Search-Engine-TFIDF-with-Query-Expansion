@@ -1,0 +1,6 @@
+Templat:NewYork-geo-stub
+{{base-stub
+|geografi [[New York]], [[Amerika Serikat]]
+|[[Berkas:Flag-map of New York.svg|30px]]
+|category_template=Templat rintisan geografi}}{{#if:{{{kat|}}}||<includeonly>
+[[Kategori:Rintisan bertopik New York|{{PAGENAME}}]]</includeonly>}}

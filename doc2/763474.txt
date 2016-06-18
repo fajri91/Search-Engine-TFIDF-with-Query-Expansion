@@ -1,0 +1,52 @@
+Templat:Film Natal Disney
+{{Navbox
+| name       = Film Natal Disney
+| title      = Film Natal Disney
+| listclass  = hlist
+| state      = {{{state<includeonly>|collapsed</includeonly>}}}
+
+| group1     = Film pendek
+| list1      = 
+*''[[Empty Socks]]'' (1927)
+*''[[Mickey's Orphans]]'' (1931)
+*''[[Santa's Workshop (film)|Santa's Workshop]]'' (1932)
+*''[[Mickey's Good Deed]]'' (1932)
+*''[[The Night Before Christmas (film 1933)|The Night Before Christmas]]'' (1933)
+*''[[Broken Toys]]'' (1935)
+*''[[Toy Tinkers]]'' (1949)
+*''[[Pluto's Christmas Tree]]'' (1952)
+*''[[The Small One]]'' (1978)
+*''[[Mickey's Christmas Carol]]'' (1983)
+*''[[The Little Matchgirl (film 2006)|The Little Matchgirl]]'' (2006)
+
+| group2     = Film fitur
+| list2      = 
+*''[[Babes in Toyland (film 1961)|Babes in Toyland]]'' (1961)
+*''[[One Magic Christmas]]'' (1985)
+*''[[The Muppet Christmas Carol]]'' (1992)
+*''[[The Nightmare Before Christmas]]'' (1993)
+*''[[The Santa Clause]]'' (1994)
+*''[[Beauty and the Beast: The Enchanted Christmas]]'' (1997)
+*''[[I'll Be Home for Christmas (film 1998)|I'll Be Home for Christmas]]'' (1998)
+*''[[Mickey's Once Upon a Christmas]]'' (1999)
+*''[[Mickey's Magical Christmas: Snowed in at the House of Mouse]]'' (2001)
+*''[[The Santa Clause 2]]'' (2002)
+*''[[A Very Merry Pooh Year]]'' (2002)
+*''[[Mickey's Twice Upon a Christmas]]'' (2004)
+*''[[The Santa Clause 3: The Escape Clause]]'' (2006)
+*''[[Super Sleuth Christmas Movie]]'' (2007)
+*''[[A Christmas Carol (film 2009)|Disney's A Christmas Carol]]'' (2009)
+*''[[Santa Buddies]]'' (2009)
+*''[[The Search for Santa Paws]]'' (2010)
+*''[[Santa Paws 2: The Santa Pups]]'' (2012)
+
+| group3      = Film TV
+| list3       = 
+*''[[Winnie the Pooh and Christmas Too]]'' (1991)
+*''[[The Ultimate Christmas Present]]'' (2000)
+*''[['Twas the Night]]'' (2001)
+*''[[Prep & Landing]]'' (2009)
+*''[[Prep & Landing: Operation: Secret Santa]]'' (2010)
+*''[[Good Luck Charlie, It's Christmas!]]'' (2011)
+*''[[Prep & Landing: Naughty vs. Nice]]'' (2011)
+}}

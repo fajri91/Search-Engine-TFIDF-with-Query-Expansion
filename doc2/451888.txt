@@ -1,0 +1,21 @@
+Proses (komputasi)
+Dalam komputasi, '''proses''' adalah [[Objek (ilmu komputer)|contoh]] dari [[program komputer]] yang sedang dieksekusi. Ini berisi kode program dan kegiatan saat ini. Tergantung pada [[sistem operasi]] (SO), proses ini dapat terdiri dari beberapa [[utas (ilmu komputer)|benang eksekusi]] yang mengeksekusi instruksi [[konkurensi (ilmu komputer)|bersamaan]].<ref name="OSC Chap4">{{cite book|title=Operating system concepts with Java|edition=Sixth Edition|chapter=Chapter 4 - Processes|last=SILBERSCHATZ|first=Abraham|authorlink=Abraham Silberschatz|coauthors=CAGNE, Greg, GALVIN, Peter Baer|isbn=0-471-48905-0|year=2004|publisher=[[John Wiley & Sons, Inc.]]}}</ref><ref name="Vah96">{{cite book|title=UNIX Internals - The New Frontiers|last=Vahalia|first=Uresh|year=1996|publisher=Prentice-Hall Inc.|ISBN=0-13-101908-2|chapter=2 - The Process and the Kernel}}</ref>
+
+Sebuah program komputer adalah kumpulan instruksi pasif; proses adalah pelaksanaan sebenarnya dari instruksi tersebut. Beberapa proses dapat dihubungkan dengan program yang sama, misalnya, membuka beberapa contoh program yang sama sering diartikan lebih dari satu proses sedang dieksekusi.
+
+== Catatan ==
+{{Reflist}}
+
+== Referensi ==
+*Gary D. Knott (1974) ''[http://doi.acm.org/10.1145/775280.775282 A proposal for certain process management and intercommunication primitives]'' ACM SIGOPS Operating Systems Review. Volume 8,  Issue 4  (October 1974). pp.&nbsp;7  44
+
+== Pranala luar ==
+* [http://whatisprocess.com/ What Is Process - Computer Process Information Database]
+
+{{Komputasi paralel}}
+{{Sistem operasi}}
+{{komputer-stub}}
+{{DEFAULTSORT:Proses}}
+[[Kategori:Teknologi sistem operasi]]
+[[Kategori:Komputasi serentak]]
+[[Kategori:Proses (komputasi)|*]]

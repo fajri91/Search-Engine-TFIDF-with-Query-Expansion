@@ -1,0 +1,30 @@
+Templat:Dashboard
+<div style="height:8px;border:1px solid #aaaaaa;-moz-border-radius-topright:0.5em;-moz-border-radius-topleft:0.5em;background-color:#C8D8FF;font-size:1px;"></div>
+<div style="margin-bottom:3ex;background-color:white; border:1px solid #8898BF;border-top:0 solid white;padding:5px 5px 0 5px;font-size:90%;">
+[[Berkas:Nuvola apps kchart.png|14px|Statistik|link=]] [[Istimewa:Statistics|Stat]]
+&nbsp;<span style="cursor:help;" title="Jumlah artikel">A: {{NUMBEROFARTICLES}}</span> |
+&nbsp;<span style="cursor:help;" title="Jumlah halaman">H: {{NUMBEROFPAGES}}</span> |
+&nbsp;<span style="cursor:help;" title="Jumlah suntingan">S: {{NUMBEROFEDITS}}</span> |
+&nbsp;<span style="cursor:help;" title="Depth">D: {{DEPTH}}</span> |
+&nbsp;<span style="cursor:help;" title="Jumlah pengguna terdaftar">[[Berkas:Crystal Clear app Login Manager.png|14px|link=]] {{NUMBEROFUSERS}}</span> |
+&nbsp;[[Berkas:Police man ganson.svg|14px|Pengurus|link=]]
+&nbsp;<span style="cursor:help;" title="Jumlah pengurus">[[Wikipedia:Pengurus|{{NUMBEROFADMINS}}]]</span> |
+&nbsp;<span style="cursor:help;" title="Jumlah berkas">[[Berkas:Crystal Clear device cdrom unmount.png|14px|link=]] {{NUMBEROFFILES}}</span> |
+&nbsp;[[Berkas:Symbol support vote.svg|14px|Pemungutan suara|link=]] Voting
+&nbsp;[[Wikipedia:Pengurus/Pemungutan suara|<span style="cursor:help;" title="Pemungutan suara yang berhubungan dengan kepengurusan">P</span>]] |
+&nbsp;[[Berkas:Nuvola apps agent.png|14px|Pengurus|link=]]
+[[Wikipedia:Pengurus|<span style="cursor:help;" title="Pengurus">P</span>]] |
+&nbsp;[[Berkas:Nuvola apps kopete.png|14px|Permohonan pendapat|link=]]
+[[Wikipedia:Permohonan pendapat|<span style="cursor:help;" title="Permohonan pendapat">PP</span>]] |
+&nbsp;[[Berkas:Nuvola apps kteatime.png|14px|Warung Kopi|link=]] [[Wikipedia:Warung Kopi (Semua)|<span style="cursor:help;" title="Warung Kopi (Semua)">WK</span>]] &bull;
+[[Wikipedia:Warung Kopi (Kebijakan)|<span style="cursor:help;" title="Warung Kopi (Kebijakan)">WKK</span>]] &bull;
+[[Wikipedia:Warung Kopi (Usulan)|<span style="cursor:help;" title="Warung Kopi (Usulan)">WKU</span>]] &bull;
+[[Wikipedia:Warung Kopi (Teknis)|<span style="cursor:help;" title="Warung Kopi (Teknis)">WKT</span>]] &bull;
+[[Wikipedia:Warung Kopi (Bahasa)|<span style="cursor:help;" title="Warung Kopi (Bahasa)">WKB</span>]] &bull;
+[[Wikipedia:Warung Kopi (Lain-lain)|<span style="cursor:help;" title="Warung Kopi (Lain-lain)">WKL</span>]] |
+[[Wikipedia:Daftar kebijakan|<span style="cursor:help;" title="Daftar kebijakan">DK</span>]] |
+[[Wikipedia:Tanya jawab|<span style="cursor:help;" title="Tanya jawab">FAQ</span>]] |
+[[Wikipedia:Wikipos|<span style="cursor:help;" title="Wikipos">Wikipos</span>]]
+[[Berkas:Straight Line Steady.svg|14px|stabil|link=]]
+</div><noinclude>[[Kategori:Templat Wikipedia]]
+</noinclude>

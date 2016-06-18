@@ -1,0 +1,18 @@
+Templat:Mayhem
+{{Navbox
+|name = Mayhem
+| listclass = hlist
+| title = [[Mayhem]]
+|list1 = '''[[Jrn Stubberud|Necrobutcher]]  [[Jan Axel Blomberg|Hellhammer]]  [[Attila Csihar]]  Blasphemer'''<br>[[ystein Aarseth|Euronymous]]  [[Per Yngve Ohlin|Dead]]  [[Kjetil Manheim|Manheim]]  [[Stian Johannsen|Occultus]]  [[Varg Vikernes|Count Grishnackh]]  [[Thorns|Blackthorn]]  Nordgaren  [[Sven Erik Kristiansen|Maniac]]
+|list2style = background:#ccccff;
+|list2 = '''Diskografi'''
+|group3 = Album
+|list3 = ''[[Deathcrush]], 1987''  ''[[De Mysteriis Dom Sathanas ]], 1994''  ''[[Wolf's Lair Abyss ]], 1997''  ''[[Grand Declaration of War]], 2000''  ''[[Chimera]], 2004''  ''Ordo ab Chao, 2006''
+|group4 = ''Live'' dan kompilasi
+|list4 = ''[[Live in Leipzig]], 1993''  ''[[Out From The Dark]], 1996''  ''Ancient Skin/Necrolust, 1987''  ''Necrolust/Total Warfare, 1999''  ''[[Mediolanum Capta Est]], 1999''  ''[[European Legions]], 2001''
+|group5 = Demo dan bootleg
+|list5 = ''[[Voice of a Tortured Skull]], 1986''  ''[[Pure Fucking Armageddon]], 1986''  ''Live Zeitz, 1990''  ''[[Dawn of the Black Hearts]], 1991''
+|list6style = background:#ccccff;
+|list6 = '''Artikel terkait'''
+|list7 = [[Season of Mist]]  [[Bathory]]  [[Burzum]]
+}}<includeonly>[[Kategori:Mayhem]]</includeonly><noinclude>[[Kategori:Templat navigasi musik]]</noinclude>

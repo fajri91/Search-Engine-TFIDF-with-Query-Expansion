@@ -1,0 +1,28 @@
+Templat:Kabupaten Blora
+{{Navbox
+| name = Kabupaten Blora
+| listclass = hlist
+| title =[[Kabupaten Blora]], [[Jawa Tengah]]
+| image = [[Berkas:Logo Kabupaten Blora.png|30px|Lambang Kabupaten Blora]]
+| group1 = Kecamatan
+| list1 = <div><!--
+-->[[Banjarejo, Blora|Banjarejo]]{{}}<!--
+-->[[Blora, Blora|Blora]]{{}}<!--
+-->[[Bogorejo, Blora|Bogorejo]]{{}}<!--
+-->[[Cepu, Blora|Cepu]]{{}}<!--
+-->[[Japah, Blora|Japah]]{{}}<!--
+-->[[Jati, Blora|Jati]]{{}}<!--
+-->[[Jepon, Blora|Jepon]]{{}}<!--
+-->[[Jiken, Blora|Jiken]]{{}}<!--
+-->[[Kedungtuban, Blora|Kedungtuban]]{{}}<!--
+-->[[Kradenan, Blora|Kradenan]]{{}}<!--
+-->[[Kunduran, Blora|Kunduran]]{{}}<!--
+-->[[Ngawen, Blora|Ngawen]]{{}}<!--
+-->[[Randublatung, Blora|Randublatung]]{{}}<!--
+-->[[Sambong, Blora|Sambong]]{{}}<!--
+-->[[Todanan, Blora|Todanan]]{{}}<!--
+-->[[Tunjungan, Blora|Tunjungan]]<!--
+--></div>
+}}<noinclude>
+[[Kategori:Templat kecamatan Indonesia|Blora]]
+</noinclude>

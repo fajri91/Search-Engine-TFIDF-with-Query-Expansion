@@ -1,0 +1,21 @@
+Laju
+'''Laju''' dalam [[fisika]] adalah nisbah perubahan jarak ''d'' per satuan waktu ''t''. Laju adalah [[besaran]] [[skalar]] dengan [[dimensi]] [[panjang]]/[[waktu]]. Besaran [[vektor]] yang ekivalen adalah [[kecepatan]]. Laju diukur dalam satuan fisika yang sama dengan kecepatan, namun tidak memiliki arah seperti kecepatan. Laju adalah magnitudo dari kecepatan.
+
+Dalam notasi matematis, rumusan laju adalah:
+
+:<math>v= |\frac{d}{t}|</math>
+
+Perlu diperhatikan ''v'' juga digunakan sebagai simbol untuk [[kecepatan]]
+
+== Lihat pula ==
+* [[Kecepatan]]
+
+[[Kategori:Fisika]]
+
+
+{{fisika-stub}}
+
+[[ca:Rapidesa]]
+[[cy:Buanedd]]
+[[fi:Vauhti]]
+[[ms:Laju]]

@@ -1,0 +1,49 @@
+Stasiun Sukomoro
+{{Infobox stasiun
+|image=- Stasiun Sukomoro -.jpg
+|name=Sukomoro
+|caption=Stasiun Sukomoro
+|prov=Jawa Timur
+|kabupaten=Nganjuk
+|kecamatan kabupaten=Sukomoro
+|alamat={{rute|15}} Jalan Raya Surabaya
+|desa=Sukomoro
+|kodepos=64481
+|operator=[[Daerah Operasi VII Madiun]]
+|kode=SKM
+|letak=km 114+445 lintas [[Stasiun Surabaya Kota|Surabaya Kota]]-[[Stasiun Kertosono|Kertosono]]-[[Stasiun Madiun|Madiun]]-[[Stasiun Solo Balapan|Solo Balapan]]
+|nomor=4027
+|line = ''Hanya untuk persilangan atau persusulan antarkereta api''
+|tinggi=+50 m
+|class=III/kecil
+}}
+'''Stasiun Sukomoro (SKM)''' merupakan [[stasiun kereta api]] yang terletak di [[Sukomoro, Sukomoro, Nganjuk]]. Stasiun yang terletak pada ketinggian +50 m ini termasuk dalam [[Daerah Operasi VII Madiun]]. Stasiun berperon sisi ini memiliki tiga jalur dengan jalur 2 sebagai sepur lurus. Sejak 1 April 2015, stasiun ini hanya melayani persilangan atau persusulan antarkereta api saja. Layanan langsir lokomotif [[kereta api Rapih Dhoho]] dari stasiun ini dan [[Stasiun Baron]] sudah dialihkan kembali ke [[Stasiun Kertosono]].
+
+Persilangan atau persusulan yang dilayani secara resmi berdasarkan Gapeka 1 April 2015 adalah:
+* Persilangan sesama [[Kereta api Malioboro Ekspres|KA Malioboro Ekspres Malam]] tujuan [[Stasiun Yogyakarta|Yogyakarta]] (KA 103) dan [[Stasiun Malang|Malang]] (KA 104)
+* [[Kereta api Arjuna Ekspres|KA Arjuna Ekspres]] tujuan [[Stasiun Surabaya Kota|Surabaya]] (KA 252) disusul [[Kereta api Gajayana|KA Gajayana]] tujuan [[Stasiun Malang|Malang]] (KA 42) yang melintas langsung
+* [[Kereta api Kahuripan|KA Kahuripan]] tujuan [[Stasiun Kediri|Kediri]] (KA 182) bersilang dengan [[Kereta api Krakatau Ekspres|KA Krakatau]] tujuan [[Stasiun Merak|Merak]] (KA 165) yang melintas langsung
+* [[Kereta api Pasundan|KA Pasundan]] tujuan [[Stasiun Surabaya Gubeng|Surabaya]] (KA 180) bersilang dengan [[Kereta api Malabar|KA Malabar]] tujuan [[Stasiun Bandung Hall|Bandung]] (KA 99) yang melintas langsung
+
+== Tragedi ==                                                                           
+# Sebuah [[tragedi]] pada tanggal 4 Mei 2002 pukul 17.30, KA Logawa tergelincir 200 [[meter]] di timur Stasiun Sukomoro akibat adanya [[bantalan rel]] yang aus. Peristiwa naas ini tidak menelan korban jiwa, namun berakibat kemacetan sekitar 9 jam di sepanjang jalur selatan.<ref>[http://www.tempo.co/read/news/2002/05/05/0589527/KA-Lohgawe-Anjlok-Jalur-Selatan-Macet-9-Jam KA Logawa Anjlok, Jalur Selatan Macet 9 Jam]</ref>
+
+== Galeri ==
+<gallery>
+Berkas:SKM 03.jpg| Stasiun Sukomoro sebelum direnovasi.
+Berkas:Sisi Ruang Peralatan - tampak sebuah menara peninggalan zaman kolonial di kejauhan.jpg|Sisi ruang mekanik, tampak sebuah menara peninggalan [[Hindia Belanda]] di kejauhan.
+Berkas:Jalur-jalur Kereta Api di Stasiun Sukomoro.jpg|Jalur kereta api di Stasiun Sukomoro.
+Berkas:Papan Jadwal Perjalanan Kereta Api di ruang tunggu penumpang Stasiun Sukomoro.jpg|Papan jadwal perjalanan kereta api di ruang tunggu penumpang Stasiun Sukomoro.
+Berkas:Kepala Stasiun Sukomoro, Daniel Yuniarta SE, di depan stasiun.jpg|Kepala Stasiun Sukomoro di depan stasiun.
+</gallery>
+
+== Referensi ==
+<references/>
+
+{{stasiun|Stasiun Nganjuk|Jalur kereta api Solo Balapan-Kertosono|Stasiun Baron}}
+
+{{stasiun-stub}}
+{{coord|-7.6025705|111.9425243|display=title}}
+
+[[Kategori:Stasiun kereta api di Jawa Timur|Sukomoro]]
+[[Kategori:Kabupaten Nganjuk]]

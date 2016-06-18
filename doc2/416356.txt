@@ -1,0 +1,11 @@
+Templat:Daftar gubernur DIY
+{{Navbox with columns
+|name=Mangkunegara
+|title=[[Daftar Gubernur Daerah Istimewa Yogyakarta]]
+|fullwidth = true
+|state={{{state|show}}}
+|colstyle= text-align: center
+|col1=[[Berkas:Sultan Hamengku Buwono IX blackwhite.png|x100px|Hamengkubuwana IX|link=Hamengkubuwana IX]]{{br}}[[Hamengkubuwana IX|Hamengkubuwana&nbsp;IX]]{{br}}(19451988)
+|col2=[[Berkas:COLLECTIE TROPENMUSEUM Studioportret van Pangeran Adipati Ario Praboe Soerjodilogo hoofd van het vorstenhuis Pakoe Alam in Jogjakarta TMnr 10018766.jpg|x100px|Paku Alam VIII|link=Paku Alam VIII]]{{br}}[[Paku Alam VIII|Paku Alam&nbsp;VIII]]{{br}}(19881998)
+|col3=[[Berkas:Sultan hamengkubuwono tenth.jpg|x100px|Hamengkubuwana X|link=Hamengkubuwana X]]{{br}}[[Hamengkubuwana X|Hamengkubuwana&nbsp;X]]{{br}}(1998sekarang)
+}}<noinclude>[[Kategori:Templat navigasi tokoh Indonesia|{{PAGENAME}}]]</noinclude>

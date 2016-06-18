@@ -1,0 +1,84 @@
+Bandar Udara Belo Horizonte/Pampulha  Carlos Drummond de Andrade
+{{Infobox airport
+| name         = Bandar Udara Belo Horizonte/PampulhaCarlos Drummond de Andrade
+| nativename   = ''Aeroporto de Belo Horizonte/PampulhaCarlos Drummond de Andrade''
+| nativename-a = 
+| nativename-r = 
+<!-- Commented out: | image        = Infraero.svg -->  
+| image-width  = 120
+| image2       = Pampulha aeroporto lagoa.JPG
+| image-width2 = 
+| caption2     = Bandar Udara Carlos Drummond de Andrade dan Danau Pampulha
+| IATA         = PLU
+| ICAO         = SBBH
+| LID          =
+| GPS          =
+| WMO          =
+| type         = Publik/Militer
+| owner-oper   =
+| owner        =
+| operator     = [[Infraero]]
+| city-served  = [[Belo Horizonte]]
+| location     = 
+| hub          =
+| metric-elev  = yes
+| elevation-f  = 2,589
+| elevation-m  = 789
+| website      = [http://www.infraero.com.br/index.php/br/aeroportos/minas-gerais/aeroporto-de-belo-horizonte.html Infraero PLU]
+| latd = 19 | latm = 51 | lats = 07 | latNS = S 
+| longd= 043 | longm= 57 | longs= 02 | longEW= W
+| coordinates_type       =
+| coordinates_region     = BR
+| coordinates_notitle    =
+| pushpin_map            = Brazil
+| pushpin_label_position = 
+| pushpin_label          = '''PLU'''
+| pushpin_map_alt        =
+| pushpin_mapsize        = 
+| pushpin_image          =
+| pushpin_map_caption    = Lokasi di Brasil
+| metric-rwy   = yes
+| r1-number    = 13/31
+| r1-length-m  = 2,538
+| r1-length-f  = 8,327
+| r1-surface   = [[Aspal]]
+| stat-year    = 2013
+| stat1-header = Penumpang
+| stat1-data   = 989,599
+| stat2-header = Pengoperasian Pesawat Udara
+| stat2-data   = 65,487
+| stat3-header = Metrik ton kargo
+| stat3-data   = 0
+| footnotes    = Statistik: Infraero<ref>{{cite web | url=http://www.infraero.gov.br/images/stories/Estatistica/2013/ret/dez.pdf | title=Movimento operacional da rede Infraero de janeiro a dezembro de 2013 | publisher=Infraero | language=Portugis | date=4 Februari 2014 | accessdate=28 November 2014}}</ref><br>Sumber: Situs Web Bandara,<ref>{{cite web | url=http://www.infraero.com.br/index.php/br/aeroportos/minas-gerais/aeroporto-de-belo-horizonte.html | title=Situs Web Resmi Bandara | publisher=Infraero | language=Portugis}}</ref> [[National Civil Aviation Agency of Brazil|ANAC]]<ref>{{cite web | url=http://www2.anac.gov.br/arquivos/pdf/aerodromos/AerodromosPublicos.xls | title=Lista de aerdromos pblicos | publisher=ANAC | language=Portugis}}</ref> 
+}}
+
+'''Bandar Udara Belo Horizonte/PampulhaCarlos Drummond de Andrade''' {{airport codes|PLU|SBBH}} adalah sebuah [[bandara]] yang melayani kota [[Belo Horizonte]], [[Brasil]], terletak di lingkungan [[Pampulha]]. Bandara ini dibuka pada tahun 1933, dan terletak {{convert|8|km|0|abbr=on}} dari pusat kota Belo Horizonte. Sejak 16 Desember 2004, bandara ini juga dinamai penyair dari [[Minas Gerais]] [[Carlos Drummond de Andrade]] (19021987).<ref>{{Cite web | url=http://www.leidireto.com.br/lei-11002.html | title=Lei n11.002, de 16 de dezembro de 2004 | publisher=Lei Direto | language=Portugis | date=17 Desember 2004 | accessdate=28 November 2014}}</ref>
+
+Bandara ini dioperasikan oleh [[Infraero]].
+
+==Maskapai dan tujuan==
+{{Airport-dest-list
+|[[Azul Brazilian Airlines]] | [[Bandar Udara Arax|Arax]], [[Bandar Udara Internasional Viracopos|Campinas]], [[Bandar Udara Santa Genoveva|Goinia]], [[Bandar Udara Governador Valadares|Governador Valadares]], [[Bandar Udara Usiminas|Ipatinga]], [[Bandar Udara Montes Claros|Montes Claros]], [[Bandar Udara Santos Dumont|Rio de Janeiro-Santos Dumont]], [[Bandar Udara Rio Verde|Rio Verde]], [[Bandar Udara Internasional Guarulhos|So Paulo-Guarulhos]], [[Bandar Udara Uberaba|Uberaba]], [[Bandar Udara Uberlndia|Uberlndia]], [[Bandar Udara Eurico de Aguiar Salles|Vitria]], [[Bandar Udara Vitria da Conquista|Vitria da Conquista]]<br>'''Musiman''': [[Bandar Udara Internasional Cabo Frio|Cabo Frio]]
+|[[Passaredo Linhas Areas]] | [[Bandar Udara Leite Lopes|Ribeiro Preto]], [[Bandar Udara So Jos do Rio Preto|So Jos do Rio Preto]]
+}}
+
+==Lihat pula==
+*[[Daftar bandar udara di Brasil]]
+
+==Referensi==
+{{reflist}}
+
+==Pranala luar==
+{{commons category|Belo Horizonte/Pampulha  Carlos Drummond de Andrade Airport}}
+*{{WAD|SBBH|source=[[DAFIF]]}}
+*{{GCM|SBBH|source=[[DAFIF]]}}
+*{{NWS-current|SBBH}}
+*{{ASN|PLU}}
+*[http://www.airliners.net/search/photo.search?aircraft_genericsearch=&airlinesearch=&countrysearch=&specialsearch=airport&keywords=pampulha&sort_order=photo_id+desc&page_limit=15&daterange=&range=&thumbnails=&engine_version=6.0 Arsip Foto Bandara Pampulha-Carlos Drummond de Andrade di airliners.net]
+
+{{Bandara-brasil-stub}}
+
+{{DEFAULTSORT:Bandar Udara Belo Horizonte/Pampulha  Carlos Drummond de Andrade}}
+[[Kategori:Bandar udara di Minas Gerais|Belo Horizonte Pampulha - Carlos Drummond de Andrade]]
+[[Kategori:Bandar udara yang didirikan tahun 1933|Belo Horizonte Pampulha - Carlos Drummond de Andrade]]
+[[Kategori:Transportasi di Belo Horizonte]]

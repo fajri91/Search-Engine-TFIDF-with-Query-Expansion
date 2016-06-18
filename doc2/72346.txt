@@ -1,0 +1,15 @@
+Templat:Subang, Kuningan
+
+{{Navigasi ID Desa |provinsi=Jawa Barat |dati2=Kabupaten |nama dati2=Kuningan
+|nama kecamatan=Subang
+|d1=Bangunjaya
+|d2=Gunungaci
+|d3=Jatisari
+|d4=Pamulihan
+|d5=Situgede
+|d6=Subang
+|d7=Tangkolo
+}}<noinclude>
+[[Kategori:Templat desa/kelurahan di Jawa Barat|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Kuningan|{{PAGENAME}}]]
+</noinclude>

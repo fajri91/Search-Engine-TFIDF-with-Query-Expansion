@@ -1,0 +1,50 @@
+Lake Mead
+{{Kotak info danau
+ | lake_name = Lake Mead
+ | image_lake = Lake_mead_pano.jpg
+ | caption_lake = 
+ | image_bathymetry = 
+ | caption_bathymetry = 
+ | location = [[Clark County, Nevada]] / [[Mohave County, Arizona]]
+ | coords = {{coord|36|03|35|N|114|46|35|W|region:US_type:waterbody|display=inline,title}}
+ | type = [[waduk]]
+ | inflow = [[Sungai Colorado (Amerika Serikat)|Sungai Colorado]]
+ | outflow = [[Sungai Colorado (Amerika Serikat)|Sungai Colorado]]
+ | catchment = 
+ | basin_countries = Amerika Serikat
+ | length = 110 mi (180 km)
+ | width = 
+ | area = {{convert|247|sqmi|abbr=on}}
+ | depth = 
+ | max-depth = 500 ft (165 m)
+ | volume = {{convert|35.2|km3|acre.ft|abbr=on}}<ref>[http://www.usbr.gov/lc/hooverdam/faqs/lakefaqs.html Bureau of Reclamation Lake Mead FAQ]</ref>
+ | residence_time = 
+ | shore = 550 mi (885 km)
+ | elevation = 
+ | islands = 
+ | cities = 
+ | frozen = 
+}}
+
+'''Lake Mead''' adalah [[waduk]] terbesar di [[Amerika Serikat]]. Terletak di [[Sungai Colorado (Amerika Serikat)|Sungai Colorado]] sekitar 30 mil (48&nbsp;km) di tenggara [[Las Vegas, Nevada|Las Vegas]], [[Nevada]], di negara bagian Nevada dan [[Arizona]]. Dibentuk oleh air yang ditampung oleh [[Bendungan Hoover]], danau ini memanjang 112 mil (180&nbsp;km) di belakang bendungan, menampung sekitar 28.5 juta [[kaki ekar]] (35&nbsp;km) air. Danau ini dinamai setelah [[Elwood Mead]], yang merupakan komisaris [[U.S. Bureau of Reclamation]] sejak 1924 hingga 1936 selama perencanaan dan pembangunan [[Boulder Canyon Project]] yang menghasilkan [[bendungan]] dan danau.
+
+== Lihat pula ==
+* [[Daftar waduk dan bendungan di Amerika Serikat]]
+
+== Catatan kaki ==
+{{reflist}}
+
+== Pranala luar ==
+{{commonscat|Lake Mead National Recreation Area}}
+* http://lakemead.water-data.com Lake Mead Water Database
+* [http://www.nps.gov/lame/ Lake Mead National Recreation Area] - National Park Service
+* [http://www.azgfd.gov/h_f/edits/lake_levels.shtml Arizona lakes water level report]
+* [http://www.lakesgraphz.info/lakes-graphz/ Lake Mead water levels graph] - Permukaan air dulu dan sekarang di Lake Mead
+
+[[Kategori:Markah tanah di Nevada]]
+[[Kategori:Sungai Colorado]]
+[[Kategori:Lake Mead| ]]
+[[Kategori:Geografi Clark County, Nevada]]
+
+
+{{geografi-stub}}

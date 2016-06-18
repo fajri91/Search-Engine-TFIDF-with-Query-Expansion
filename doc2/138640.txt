@@ -1,0 +1,58 @@
+Claviere
+{{for|the French politician|tienne Clavire}}
+{{Infobox Italian comune
+| name                = Claviere
+| official_name       = Comune di Claviere
+| native_name         = 
+| image_skyline       = 
+| imagesize           = 
+| image_alt           = 
+| image_caption       = 
+| image_shield        = 
+| shield_alt          = 
+| image_map           = 
+| map_alt             = 
+| map_caption         = 
+| pushpin_label_position = 
+| pushpin_map_alt     = 
+| latd  = 44 |latm  = 56 |lats  =  |latNS  = N
+| longd = 6 |longm = 45 |longs =   |longEW = E 
+| coordinates_type    = type:city(176)_region:IT
+| coordinates_display = title
+| coordinates_footnotes = 
+| region              = [[Piedmont]]
+| province            = [[Provinsi Turin]] (TO)
+| frazioni            = 
+| mayor_party         = 
+| mayor               = Franco Capra
+| area_footnotes      = 
+| area_total_km2      = 2.7
+| population_footnotes = <ref name="istat">All demographics and other statistics: Italian statistical institute [[Istat]].</ref>
+| population_total    = 176
+| population_as_of    = Desember 2004
+| pop_density_footnotes = 
+| population_demonym  = Clavieresi
+| elevation_footnotes = 
+| elevation_m         = 1760
+| twin1               = 
+| twin1_country       = 
+| saint               = 
+| day                 = 
+| postal_code         = 10050
+| area_code           = 0122
+| website             = {{official|http://www.comune.claviere.to.it/}}
+| footnotes           = 
+}}
+'''Claviere''' adalah komune yang terletak di distrik [[Provinsi Torino]], [[Italia]].
+
+Kota Claviere memiliki luas sebesar 2.7&nbsp;km.
+
+Claviere pada tahun 2004, memiliki penduduk sebesar 176 jiwa.
+
+== Referensi ==
+{{reflist}}
+
+{{Provinsi Torino}}
+
+
+{{Turin-geo-stub}}

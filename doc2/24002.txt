@@ -1,0 +1,206 @@
+Grand Prix F1 Perancis 2005
+'''Grand Prix F1 Perancis 2005''' merupakan balapan [[Formula 1]] pada [[3 Juli]] [[2005]] di [[Circuit de Nevers Magny-Cours]].
+
+__FORCETOC__
+
+== Lomba ==
+{| {{prettytable}}
+|-
+! Pos !! No !! Pembalap !! Tim !! Lap !! Waktu/Tersingkir !! Grid !! Poin
+|-
+! 1
+| 5
+| [[Berkas:Flag of Spain.svg|25px]] '''[[Fernando Alonso]]'''
+| '''[[Renault F1|Renault]]'''
+| 70
+| 1:31:22.232
+| 1
+| '''10'''
+|-
+! 2
+| 9
+| [[Berkas:Flag of Finland.svg|25px]] '''[[Kimi Raikkonen]]'''
+| '''[[Team McLaren|McLaren-Mercedes]]'''
+| 70
+| +11.8d
+| 13
+| '''8'''
+|-
+! 3
+| 1
+| [[Berkas:Flag of Germany.svg|25px]] '''[[Michael Schumacher]]'''
+| '''[[Scuderia Ferrari|Ferrari]]'''
+| 70
+| +81.9d
+| 3
+| '''6'''
+|-
+! 4
+| 3
+| [[Berkas:Flag of the United Kingdom.svg|25px]] '''[[Jenson Button]]'''
+| '''[[British American Racing|BAR-Honda]]'''
+| 69
+| +1 Lap
+| 7
+| '''5'''
+|-
+! 5
+| 16
+| [[Berkas:Flag of Italy.svg|25px]] '''[[Jarno Trulli]]'''
+| '''[[Toyota F1|Toyota]]'''
+| 69
+| +1 Lap
+| 2
+| '''4'''
+|-
+! 6
+| 6
+| [[Berkas:Flag of Italy.svg|25px]] '''[[Giancarlo Fisichella]]'''
+| '''[[Renault F1|Renault]]'''
+| 69
+| +1 Lap
+| 6
+| '''3'''
+|-
+! 7
+| 17
+| [[Berkas:Flag of Germany.svg|25px]] '''[[Ralf Schumacher]]'''
+| '''[[Toyota F1|Toyota]]'''
+| 69
+| +1 Lap
+| 11
+| '''2'''
+|-
+! 8
+| 11
+| [[Berkas:Flag of Canada.svg|25px]] '''[[Jacques Villeneuve]]'''
+| '''[[Sauber|Sauber-Petronas]]'''
+| 69
+| +1 Lap
+| 10
+| '''1'''
+|-
+! 9
+| 2
+| [[Berkas:Flag of Brazil.svg|25px]] [[Rubens Barrichello]]
+| [[Scuderia Ferrari|Ferrari]]
+| 69
+| +1 Lap
+| 5
+|
+|-
+! 10
+| 14
+| [[Berkas:Flag of the United Kingdom.svg|25px]] [[David Coulthard]]
+| [[Red Bull Racing|Red Bull-Cosworth]]
+| 69
+| +1 Lap
+| 15
+|
+|-
+! 11
+| 4
+| [[Berkas:Flag of Japan.svg|25px]] [[Takuma Sato]]
+| [[British American Racing|BAR-Honda]]
+| 69
+| +1 Lap
+| 4
+|
+|-
+! 12
+| 7
+| [[Berkas:Flag of Australia.svg|25px]] [[Mark Webber]]
+| [[WilliamsF1|Williams-BMW]]
+| 68
+| +2 Lap
+| 12
+|
+|-
+! 13
+| 18
+| [[Berkas:Flag of Portugal.svg|25px]] [[Tiago Monteiro]]
+| [[Jordan Grand Prix|Jordan-Toyota]]
+| 67
+| +3 Lap
+| 19
+|
+|-
+! 14
+| 8
+| [[Berkas:Flag of Germany.svg|25px]] [[Nick Heidfeld]]
+| [[WilliamsF1|Williams-BMW]]
+| 66
+| +4 Lap
+| 14
+|
+|-
+! 15
+| 19
+| [[Berkas:Flag of India.svg|25px]] [[Narain Karthikeyan]]
+| [[Jordan Grand Prix|Jordan-Toyota]]
+| 66
+| +4 Lap
+| 17
+| 
+|-
+! Ret
+| 10
+| [[Berkas:Flag of Colombia.svg|25px]] [[Juan Pablo Montoya]]
+| [[Team McLaren|McLaren-Mercedes]]
+| 46
+| Mesin
+| 8
+|
+|-
+! Ret
+| 21
+| [[Berkas:Flag of the Netherlands.svg|25px]] [[Christijan Albers]]
+| [[Minardi F1|Minardi-Cosworth]]
+| 37
+| Ban Pecah
+| 20
+|
+|-
+! Ret
+| 20
+| [[Berkas:Flag of Austria.svg|25px]] [[Patrick Friesacher]]
+| [[Minardi F1|Minardi-Cosworth]]
+| 33
+| Ban Pecah
+| 18
+|
+|-
+! Ret
+| 12
+| [[Berkas:Flag of Brazil.svg|25px]] [[Felipe Massa]]
+| [[Sauber|Sauber-Petronas]]
+| 30
+| Hidrolik
+| 9
+|
+|-
+! Ret
+| 15
+| [[Berkas:Flag of Austria.svg|25px]] [[Christian Klien]]
+| [[Red Bull Racing|Red Bull-Cosworth]]
+| 1
+| Tekanan Bensin
+| 16
+|
+|}
+
+== Catatan ==
+Pole Position:[[Fernando Alonso]] 1:14.412
+Lap Tercepat:[[Kimi Raikkonen]] 1:16.423
+
+{{F1 race report|
+  Name_of_race            = [[Grand Prix Perancis]] | 
+  Year_of_race            = 2005 |
+  Previous_race_in_season = [[Grand Prix F1 Amerika Serikat 2005]] |
+  Next_race_in_season     = [[Grand Prix F1 Inggris 2005]] |
+  Previous_year's_race    = [[Grand Prix F1 Perancis 2004]] |
+  Next_year's_race        = [[Grand Prix F1 Perancis 2006]]
+}}
+
+[[Kategori:Grand Prix Perancis|2005]]
+[[Kategori:Grand Prix F1 musim 2005|Perancis]]

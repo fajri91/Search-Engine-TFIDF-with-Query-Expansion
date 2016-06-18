@@ -1,0 +1,32 @@
+Templat:Wasit Final PD
+{{Navbox
+|name = Wasit Final PD
+|title = [[Wasit (sepak bola)|Wasit]] [[Daftar final Piala Dunia FIFA|Final Piala Dunia FIFA]]
+|state = {{{state|autocollapse}}}
+|listclass = hlist
+|group1=
+|list1= 
+*'''[[Final Piala Dunia FIFA 1930|1930]]:''' [[John Langenus]] ({{asb|Kerajaan Belgia|BEL}})
+*'''[[Final Piala Dunia FIFA 1934|1934]]:''' [[Ivan Eklind]] ({{asb|Swedia|SWE}})
+*'''[[Final Piala Dunia FIFA 1938|1938]]:''' [[Georges Capdeville]] ({{fsb|Perancis|FRA}})
+*'''[[Maracanazo|1950]]:''' [[George Reader]] ([[The Football Association|ENG]])
+*'''[[Final Piala Dunia FIFA 1954|1954]]:''' [[William Ling (wasit)|William Ling]] ([[The Football Association|ENG]])
+*'''[[Final Piala Dunia FIFA 1958|1958]]:''' [[Maurice Guigue]] ({{fsb|Perancis|FRA}})
+*'''[[Final Piala Dunia FIFA 1962|1962]]:''' [[Nikolay Latyshev]] ({{fsb|Uni Soviet|URS}})
+*'''[[Final Piala Dunia FIFA 1966|1966]]:''' [[Gottfried Dienst]] ({{asb|Swiss|SWI}})
+*'''[[Final Piala Dunia FIFA 1970|1970]]:''' [[Rudi Glckner]] ([[Jerman Timur|GDR]])
+*'''[[Final Piala Dunia FIFA 1974|1974]]:''' [[Jack Taylor (wasit)|Jack Taylor]] ([[The Football Association|ENG]])
+*'''[[Final Piala Dunia FIFA 1978|1978]]:''' [[Sergio Gonella]] ({{fsb|Italia|ITA}})
+*'''[[Final Piala Dunia FIFA 1982|1982]]:''' [[Arnaldo Czar Coelho]] ({{asb|Brasil|BRA|Konfederasi}})
+*'''[[Final Piala Dunia FIFA 1986|1986]]:''' [[Romualdo Arppi Filho]] ({{asb|Brasil|BRA|Konfederasi}})
+*'''[[Final Piala Dunia FIFA 1990|1990]]:''' [[Edgardo Codesal]] ({{fsb|Meksiko|MEX}})
+*'''[[Final Piala Dunia FIFA 1994|1994]]:''' [[Sndor Puhl]] ({{fsb|Hongaria|HUN}})
+*'''[[Final Piala Dunia FIFA 1998|1998]]:''' [[Said Belqola]] ({{fsb|Kerajaan Maroko|MAR}})
+*'''[[Final Piala Dunia FIFA 2002|2002]]:''' [[Pierluigi Collina]] ({{fsb|Italia|ITA}})
+*'''[[Final Piala Dunia FIFA 2006|2006]]:''' [[Horacio Elizondo]] ({{asb|Argentina|ARG}})
+*'''[[Final Piala Dunia FIFA 2010|2010]]:''' [[Howard Webb]] ([[The Football Association|ENG]])
+*'''[[Final Piala Dunia FIFA 2014|2014]]:''' [[Nicola Rizzoli]] ({{fsb|Italia|ITA}})
+}}<noinclude>
+{{collapsible option}}
+[[Kategori:Templat Piala Dunia FIFA]]
+</noinclude>

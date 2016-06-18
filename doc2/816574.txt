@@ -1,0 +1,19 @@
+Templat:Tompobulu, Gowa
+{{Navigasi ID Desa
+|provinsi=Sulawesi Selatan
+|dati2=Kabupaten
+|nama dati2=Gowa
+|nama kecamatan=Tompobulu
+|d1=Bontobuddung
+|k1=Cikoro
+|d2=Datara
+|d3=Garing
+|k2=Malakaji
+|d4=Rappoala
+|d5=Rappolemba
+|d6=Tanete
+}}
+<noinclude>
+[[Kategori:Templat desa/kelurahan di Sulawesi Selatan|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Gowa|{{PAGENAME}}]]
+</noinclude>

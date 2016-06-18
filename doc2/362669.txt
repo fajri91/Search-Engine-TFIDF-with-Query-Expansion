@@ -1,0 +1,37 @@
+We (kana)
+{{Infobox kana
+|Gambar Hiragana = Japanese Hiragana kyokashotai WE.png
+|Gambar Katakana = Japanese Katakana WE.png
+|Alih aksara = e
+|Hiragana Man'yogana = 
+|Katakana Man'yogana = 
+|Nama = we
+|Unicode Hiragana = U+3091
+|Unicode Katakana = U+30F1
+|IPA = e
+|Bunyi = Ja-We.oga
+|JIS X 0213 Hiragana = 1-4-81
+|JIS X 0213 Katakana = 1-5-81
+|JIS X 4063 = wye
+|Kunrei-shiki = e
+|Nihon-shiki = we
+|Ainu = WE
+|Posisi = 46
+|Iroha = 43
+}}
+'''''' dalam hiragana, atau '''''' dalam katakana, adalah salah satu huruf [[Jepang]] atau [[kana]].  memiliki 1 goresan yang rumit, sedangkan  memiliki 3 goresan sederhana, masing-masing keduanya adalah bentuk modifikasi yang berasal dari [[kanji]]  (''"kei, e"'') yang artinya adalah "rasa, keuntungan".
+
+Kedua huruf tersebut masing-masing melambangkan fonem {{IPA|[e]}}, namun penggunaannya hampir tidak ada sangat jarang terjadi, penggunaannya tidak direkomendasikan{{citation needed}} dan lebih dianjurkan menggunakan kombinasi [[kana]] {{nihongo|}} (''ue'') daripada  (''we''), contoh pada kata serapan ''west'', penulisannya lebih dianjurkan {{nihongo|}} (''uesuto'') daripada {{nihongo|}} (''wesuto'').
+
+== Cara penulisan ==
+[[Berkas:-bw.png|thumb|none|280x60px|Urutan goresan dalam penulisan ]]
+[[Berkas:-bw.png|thumb|none|280x60px|Urutan goresan dalam penulisan ]]
+
+{{Wiktionarypar||}}
+
+{{DEFAULTSORT:We (Kana)}}
+
+{{aksara kana}}
+{{aksara-stub}}
+
+[[Kategori:Huruf kana]]

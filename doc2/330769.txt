@@ -1,0 +1,54 @@
+Kualifikasi Piala Dunia ICC
+{{Infobox cricket tournament main
+| name = ICC World Cup Qualifier
+| image = ICCT Scd FC.jpg
+| imagesize = 250px
+| caption = Logo resmi 2009
+| administrator = [[International Cricket Council]]
+| cricket format = [[One Day International]]
+| tournament format = multiple 
+| first =  [[ICC Trophy 1979|1979]]
+| last =
+| participants = 12
+| champions = {{Cr|IRE}}
+| most successful = {{Cr|ZIM}} (3 titles)
+| most runs = {{Flagicon|Kenya}} [[Maurice Odumbe]] (1173)
+| most wickets = {{Flagicon|Netherlands}} [[Roland Lefebvre]] (71)
+}}
+'''Kualifikasi Piala Dunia ICC''' (sebelumnya bernama '''ICC Trophy''') adalah turnamen kriket internasional [[ODI]] yang dikelola oleh [[International Cricket Council]]. Semua anggota ICC boleh ikut serta dengan sistem kualifikasi regional. Namun anggota yang hanya memainkan [[Test cricket]] tidak ikut serta. [[Tim nasional kriket Zimbabwe|Zimbabwe]] paling banyak menjuarai turnamen ini dengan raihan tiga gelar. Ketiganya diraih secara berturut-turut dari tahun 1982 sampai 1990. 
+
+Tiga tim nasional dengan status Kriket Tes, yakni Zimbabwe, [[Tim nasioanal kriket Sri Lanka|Sri Lanka]], dan [[Tim nasional kriket Bangladesh|Bangladesh]], pernah memenangkan ICC Trophy, dan dengan demikian tidak bisa bermain lagi dalam kompetisi ini kecuali mereka melepas status Tes mereka. 
+
+[[ICC Trophy 2005]] bertempat di [[Irlandia]]. dan lima tim terbaik (dari 12 peserta) berhak memperoleh status [[ODI]] setelah saling bertanding sesama mereka dan bertanding melawan anggota penuh ICC dan [[Tim nasional kriket Kenya|Kenya]]. Status ini harus diperbaharui pada Turnamen ICC Trophy selanjutnya pada [[2009]] untuk semua (enam) anggota sejawat (termasuk Kenya). Lima terbaik juga berhak mengikuti [[Piala Dunia kriket]] 2007 di [[Hindia Barat]].
+
+== Pemenang ==
+{| class="wikitable"
+!Tim!!Juara pertama!!Juara kedua!!Catatan
+|-align="center"
+|align="left"|{{Cr|ZIM}}||3||0||Anggota penuh sejak1992
+|-align="center"
+|align="left"|{{Cr|NED}}||1||2||
+|-align="center"
+|align="left"|{{Cr|IRE}}||1||1||
+|-align="center"
+|align="left"|{{Cr|BAN}}||1||0||Anggota penuh sejak2000
+|-align="center"
+|align="left"|{{Cr|SRI}}||1||0||Anggota penuh sejak1981
+|-align="center"
+|align="left"|{{Cr|UAE}}||1||0||
+|-align="center"
+|align="left"|{{Cr|SCO}}||1||0||
+|-align="center"
+|align="left"|{{Cr|KEN}}||0||2||
+|-align="center"
+|align="left"|{{Cr|CAN}}||0||2||
+|-align="center"
+|align="left"|{{Cr|BER}}||0||1||
+|-align="center"
+|align="left"|{{Cr|NAM}}||0||1||
+|}
+
+{{DEFAULTSORT:Icc World Cup Qualifier}}
+
+[[Kategori:Turnamen olahraga internasional]]
+[[Kategori:Kriket]]

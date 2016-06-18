@@ -1,0 +1,79 @@
+Templat:Opus Dei
+{{Navbox
+| name = Opus Dei
+| basestyle = background-color:gold 
+| state = {{{state|autocollapse}}}
+| title = [[Opus Dei]]
+| bodyclass = hlist
+| image = [[File:Opus Dei cross.svg|75px|Opus Dei Cross]]
+
+| group1 = Umum
+| list1 =
+* [[Jenis keanggotaan Opus Dei|Jenis keanggotaan]]
+** [[Daftar anggota Opus Dei|daftar anggota]]
+* [[Perhimpunan Gembala Salib Suci]]
+* [[Numerari]]
+* [[Supernumerari]]
+* [[Ajaran Opus Dei|Ajaran]]
+* [[Garis waktu of Opus Dei|Garis waktu]]
+
+| group2 = {{Hlist|Gereja|Tempat ziarah}}
+| list2 =
+* [[Torreciudad]]
+* [[St Maria Bintang Laut, West Melbourne]]
+* [[Peterskirche, Wina]]
+
+| group3 = Tokoh kunci
+| list3 =
+* [[Josemara Escriv]]
+** [[Kanonisasi Josemara Escriv|kanonisasi]]
+* [[John Masso]]
+* [[Javier Echevarra Rodrguez]]
+* [[lvaro del Portillo]]
+* [[Joseph Muzquiz]]
+* [[Dora del Hoyo]]
+* [[Scott Hahn]]
+* [[Joaqun Navarro-Valls]]
+
+| group4 = Universitas
+| list4 =
+* [[Universitas Navarra]]
+* [[Universitas Kepausan Salib Suci]]
+* [[IPADE|Institut Manajemen Bisnis Pan-Amerika]]
+* [[Kolese Lexington]]
+* [[Universitas Strathmore]]
+
+| group5 = Sekolah
+| list5 =
+* [[Colgio Planalto]]
+* [[The Heights School (Maryland)|The Heights School]]
+* [[Northridge Preparatory School]]
+* [[Oakcrest School (McLean, Virginia)|Oakcrest School]]
+* [[PAREF Northfield School]]
+
+| group6 = Media
+| list6 =
+* [[Camino (film)|''Camino'' {{Smaller|(film)}}]]
+* ''[[The Da Vinci Code]]'' 
+** [[Kritik terhadap The Da Vinci Code|kritik]]
+* ''[[L'Opus Dei: enqute sur le "monstre"]]''
+* ''[[Opus Dei: An Objective Look Behind the Myths and Reality of the Most Controversial Force in the Catholic Church|<span style="white-space: normal">Opus Dei: An Objective Look Behind the Myths and Reality of the Most Controversial Force in the Catholic Church</span>]]''
+
+| group7 = Topik terkait
+| list7 =
+* [[Bibliografi Opus Dei|Bibliography]]
+* [[Kontroversi mengenai Opus Dei|Kontroversi]]
+* [[Kerja korporat]]
+* [[Opus Dei dan para pemimpin Gereja Katolik]]
+* [[Opus Dei dan politik]]
+* [[Opus Dei dalam masyarakat]]
+* [[Perempuan dalam Opus Dei]]
+
+| below =
+* {{portal-inline|Katolisisme|size=tiny}}
+
+}}<noinclude>
+<br />{{collapsible option}}
+[[Kategori:Kotak navigasi Katolik Roma]]
+[[Kategori:Opus Dei]]
+</noinclude>

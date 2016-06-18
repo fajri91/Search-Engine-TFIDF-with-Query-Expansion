@@ -1,0 +1,22 @@
+Templat:Sirimau, Ambon
+{{Navigasi ID Desa |provinsi=Maluku |dati2=Kota |nama dati2=Ambon
+|nama kecamatan=Sirimau
+|desa/kelurahan=Negeri
+|d1=Batu Merah
+|d2=Galala
+|d3=Hative Kecil
+|d4=Soya
+|k1=Ahusen
+|k2=Amantelu
+|k3=Batu Gajah
+|k4=Batu Meja
+|k5=Honipopu
+|k6=Karang Panjang
+|k7=Pandan Kasturi
+|k8=Rijali
+|k9=Uritetu
+|k10=Waihoka
+}}<noinclude>
+[[Kategori:Templat desa/kelurahan di Maluku|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kota Ambon|{{PAGENAME}}]]
+</noinclude>

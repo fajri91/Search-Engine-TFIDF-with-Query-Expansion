@@ -1,0 +1,14 @@
+Berkas:Suharto.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+Gambar dari akhbar Malaysia yang membuat litupan berita mengenai kemangkatan Soeharto.
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Fairuse}}

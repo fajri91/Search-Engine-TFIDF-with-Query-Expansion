@@ -1,0 +1,4 @@
+MediaWiki:Semiprotectedpagewarning
+<div style="border: solid 1px #8888aa; background-color:#f9f9f9;">
+&nbsp;[[Berkas:Padlock.svg|20px]]'''Catatan:''' Halaman ini [[{{ns:project}}:Semi-perlindungan|sedang dilindungi]], sehingga hanya [[Istimewa:userlogin|pengguna terdaftar]] yang bisa menyuntingnya.
+</div>

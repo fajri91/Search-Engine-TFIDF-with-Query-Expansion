@@ -1,0 +1,347 @@
+SCTV
+{{lindungidarianon|small=yes}}
+{{Infobox TV channel
+| Name = SCTV
+| Other name = PT Surya Citra Televisi
+| logofile = SCTV Logo.svg
+| logosize = 742 x 224
+| logo2 = 
+| Launch = [[24 Agustus]] [[1990]] di [[Surabaya]]<br />[[1 Januari]] [[1993]] di [[Jakarta]]
+| Owner = [[Bimantara Citra]] (1990-1996)<br />[[Indika Group]] (1996-1999)<br />[[Surya Citra Media]] (1999-sekarang)
+| key people = [[Bambang Trihatmodjo]]</br>[[Sudwikatmono]]</br>[[Henry Pribadi]]</br>[[Eddy Kusnadi Sariaatmadja|Eddy Sariaatmadja]]</br>[[Fofo Sariaatmadja]]
+| Headquarters = [[Surabaya]], [[Indonesia]] (1990-1993)<br />[[Jakarta]], [[Indonesia]] (1993-sekarang) <br/> SCTV Tower, [[Senayan City]], Jln. Asia Afrika Lot 19, [[Jakarta]]. Kode Pos 10270
+| Slogan = SCTV, Surabaya Televisi (1990-1991)<br />Ayo SCTV-Selangkah Lebih Maju (1991-1994)<br />Selalu Siap Menemani Anda (1994-1997)<br />SCTV NgeTop! (1997-2005)<br />Satu Untuk Semua (2005-sekarang)
+| Sister channel = [[RCTI]] (1990-1996)<br />[[Indosiar]] (2011-sekarang)<br />[[O Channel]] (2004-sekarang)<br />[[Elshinta TV]] (2011-2013)
+| Availability = Nasional
+  |terr serv 1      = [[Kota Ambon|Ambon]]   |terr chan 1      = 10 VHF
+  |terr serv 2      = [[Bandung]]            |terr chan 2      = 52 UHF
+  |terr serv 3      = [[Banjarmasin]]        |terr chan 3      = 34 UHF
+  |terr serv 4      = [[Batam]]              |terr chan 4      = 47 UHF
+  |terr serv 5      = [[Cirebon]]            |terr chan 5      = 36 UHF
+  |terr serv 6      = [[Denpasar]]           |terr chan 6      = 31 UHF
+  |terr serv 7      = [[Garut]]              |terr chan 7      = 30 UHF
+  |terr serv 8      = [[Jakarta]]            |terr chan 8      = 45 UHF
+  |terr serv 9      = [[Kediri]]             |terr chan 9      = 53 UHF
+  |terr serv 10     = [[Madiun]]             |terr chan 10     = 48 UHF
+  |terr serv 11     = [[Makassar]]           |terr chan 11     = 35 UHF
+  |terr serv 12     = [[Malang]]             |terr chan 12     = 46 UHF
+  |terr serv 13     = [[Medan]]              |terr chan 13     = 35 UHF
+  |terr serv 14     = [[Padang]]             |terr chan 14     = 47 UHF
+  |terr serv 15     = [[Palembang]]          |terr chan 15     = 32 UHF
+  |terr serv 16     = [[Purwokerto]]         |terr chan 16     = 40 UHF
+  |terr serv 17     = [[Samarinda]]          |terr chan 17     = 47 UHF
+  |terr serv 18     = [[Semarang]]           |terr chan 18     = 35 UHF
+  |terr serv 19     = [[Surabaya]]           |terr chan 19     = 34 UHF
+  |terr serv 21     = [[Kota Yogyakarta|Yogyakarta]] |terr chan 21     = 34 UHF
+| sat serv 1   = [[Indovision]]
+| sat chan 1   = 89
+| sat serv 2   = [[TransVision]]
+| sat chan 2   = 144
+| cable serv 1 = [[First Media]]
+| cable chan 1 = 10
+| sat serv 3 = [[Palapa D]] || sat chan 3 = [[MPEG-2]]<br/ >Freq : 3746 [[Mhz]]<br/ >Polaritas : Horizontal<br/ >Symbol Rate : 6240 Ksps<br/ >Video PID : 36<br/ >Audio PID : 32<br/ >PCR PID : 36
+
+[[MPEG-4]]<br/ >Freq : 3756 [[Mhz]]<br/ >Polaritas : Horizontal<br/ >Symbol Rate : 6250 Ksps<br/ >Video PID : 1001<br/ >Audio PID : 1002<br/ >PCR PID : 1001 |
+|
+|
+| sat serv 5 = [[BiG TV]]
+| sat chan 5 = 661
+| sat serv 6 = [[Aora]]
+| sat chan 6 = 911
+| online serv 1 = [[USeeTV]]
+| online chan 1 = {{URL|http://www.useetv.com/livetv/sctv|www.useetv.com}}
+| web = {{URL|http://www.sctv.co.id}}
+}}
+'''SCTV''' (singkatan dari '''Surya Citra Televisi''') adalah sebuah [[stasiun televisi]] [[swasta]] nasional di [[Indonesia]]. SCTV merupakan stasiun televisi swasta kedua (berdasarkan waktu mengudara) di Indonesia setelah [[RCTI]]. SCTV lahir pada tanggal [[24 Agustus]] [[1990]] sebagai stasiun televisi [[#Televisi lokal|lokal]] di [[Surabaya]] yang berpusat di Jl. Darmo Permai, Surabaya, [[Jawa Timur]]. Meski tanggal itu ditetapkan sebagai tanggal lahir SCTV, namun baru tanggal [[1 Januari]] [[1993]], SCTV mendapatkan izin sebagai stasiun televisi [[#Televisi nasional|nasional]] di [[Jakarta]]. Kantor operasional SCTV pun secara bertahap dipindahkan dari Surabaya ke Jakarta, namun studio SCTV tetap berada di Surabaya. Awalnya, mayoritas saham SCTV dimiliki oleh [[Bimantara Citra]] melalui anak usahanya, Sindo Citra Media (kini menjadi [[Surya Citra Media]]).
+
+Meski berkali-kali berpindah kantor, SCTV selalu mengudara setiap hari. Pada tahun [[1993]] misalnya, SCTV berpindah kantor ke Wisma AKR, [[Jakarta Barat]] yang letaknya berdekatan dengan kantor RCTI. Lalu pada tahun [[1996]], SCTV berpindah kantor lagi ke Wisma Indovision. Menginjak usia ke-11, pada tahun [[2001]], SCTV kemudian memusatkan kegiatan operasionalnya di Gedung Graha SCTV, Jalan Gatot Subroto, [[Jakarta Selatan]]. Dan pada tahun [[2007]], kegiatan operasional SCTV berpusat di [[Senayan City]]. Namun, stasiun pemancar dan studio tetap dipusatkan di Kebon Jeruk. 
+
+Sejak tahun [[1999]], mayoritas saham SCTV diakuisisi oleh [[Surya Citra Media|PT Surya Citra Media, Tbk]]. Pada awal [[Mei 2013]], SCTV dan [[Indosiar]] resmi bergabung. <ref>[http://www.beritasatu.com/pasar-modal/106117-indosiar-dan-sctv-resmi-merger.html "Indosiar" dan "SCTV" Resmi Merger]  - Diakses tanggal [[5 April]] [[2013]]</ref>
+
+== Sejarah ==	
+=== Televisi lokal ===
+[[Berkas:DSCN0634.JPG|200px|jmpl|ka|Kantor SCTV di [[Kota Surabaya|Surabaya]]. Sebelum mengudara secara nasional, SCTV berkantor di tempat ini. Dan kini telah difungsikan menjadi [[Stasiun relai televisi|Stasiun Pemancar]] SCTV wilayah Surabaya.]]
+Pada awalnya, SCTV adalah singkatan dari '''Surabaya Centra Televisi'''<ref>[http://naningisme.wordpress.com/2010/08/25/aku-dan-televisi-beriklan/ Nama Perusahaan SCTV saat mengudara perdana di Surabaya]</ref> yang melakukan siaran percobaan pada [[1 Juni]] [[1990]] di [[Surabaya]] dan diresmikan pada tanggal [[24 Agustus]] [[1990]] di [[Surabaya]], [[Jawa Timur]], dengan jangkauan wilayah Surabaya dan sekitarnya ([[Gresik]], [[Bangkalan]], [[Mojokerto]], [[Sidoarjo]], dan [[Lamongan]]) yang mengacu pada izin Departemen Penerangan No. 1415/RTF/K/IX/1989 dan SK No. 150/SP/DIR/TV/1990. Meski pada saat itu SCTV masih berstatus televisi lokal di Surabaya, beberapa merek sempat beriklan di SCTV, misalnya [[Baygon]] dan [[Citra (produk)|Citra]].<ref>[http://www.youtube.com/watch?v=-SHFA2FtnOo Iklan Baygon (1991) @ SCTV Surabaya]</ref><ref>[http://www.youtube.com/watch?v=AblvH1bVVhY Iklan Citra Body Lotion - Designer (1991-1992) @ SCTV Surabaya]</ref> SCTV didirikan untuk merelai RCTI di Surabaya karena saat itu siaran RCTI hanya dapat ditangkap di Jabodetabek dengan menggunakan dekoder. Saat itu pula, RCTI dan SCTV dikenal sebagai "Saudara Kembar" karena RCTI dan SCTV selalu bersama menayangkan acara-acara yang ditayangkan RCTI meskipun waktu tayang antara RCTI dan SCTV selalu berbeda. Pada tahun [[1991]], pancaran siaran SCTV meluas mencapai [[Kota Denpasar|Denpasar, Bali]] serta [[Kota Manado|Manado, Sulawesi Utara]] dan sekitarnya. Sejak itulah kepanjangan SCTV berubah menjadi '''Surya Citra Televisi'''.
+
+=== Televisi nasional ===
+Pada tanggal [[1 Januari]] [[1993]], berbekal SK [[Menteri Penerangan Republik Indonesia|Menteri Penerangan]] No. 111/1992, SCTV mendapatkan izin mengudara secara nasional. Namun, siarannya secara nasional dilakukan pada tanggal 24 Agustus 1993 pukul 21.00 WIB, tepat saat SCTV berulang tahun yang ke-3. Secara bertahap, mulai tahun [[1993]] sampai dengan [[1998]], SCTV memindahkan basis operasi media siaran nasionalnya dari Surabaya ke [[Jakarta]]. Saat ini, melalui 47 stasiun transmisi, SCTV mampu menjangkau 240 kota dan menggapai sekitar lebih dari 175 juta potensial pemirsa.
+
+Sejak Januari 2005, SCTV mengubah logo dan slogannya menjadi "Satu Untuk Semua". Pada tahun [[2006]], SCTV memiliki hak siar dalam ajang sepakbola bergengsi di dunia [[Piala Dunia FIFA 2006]].
+
+Saat ini kantor pusat SCTV terletak di SCTV Tower, [[Senayan City]], Jalan Asia Afrika Lot 19, Jakarta Selatan. Sebelum [[23 November]] [[2007]], kantor pusat SCTV berada di Jalan Gatot Subroto Kavling 21 Jakarta yang kini ditempati oleh perusahaan dibawah naungan [[Surya Citra Media]]. SCTV juga memiliki studio khusus di Jalan Raya Kebon Jeruk Nomor 66 [[Jakarta Barat]]
+
+Kepemilikan SCTV dikuasai oleh grup [[Elang Mahkota Teknologi]] melalui [[Surya Citra Media]] (SCM). Sejak pertengahan 1990-an, SCTV yang pada awalnya satu manajemen dengan RCTI akhirnya keduanya berpisah manajemen. Direktur Utama SCTV saat ini ialah [[Sutanto Hartono]].
+
+Pada 22 Desember 2011, SCTV berhasil memenangkan bidding hak siar [[UEFA Champions League]] dan [[UEFA Europa League]] untuk musim 2012/13 hingga musim 2014/15. Pertandingan [[UEFA Champions League]] mulai musim 2012/13 akan disiarkan bersama [[Indosiar]], sedangkan [[UEFA Europa League]] disiarkan sepenuhnya oleh SCTV.
+
+Pada pertengahan [[2013]], SCTV resmi menjadi pemegang hak siar [[Liga Utama Inggris]] musim 2013-2014 sampai 2015-2016 bersama [[Indosiar]] dan TV berbayar [[Nexmedia]]. <ref>[http://bola.kompas.com/read/2013/06/21/2039244/SCTV.Indosiar.dan.NexMedia.Tayangkan.Premier.League.di.Indonesia SCTV, Indosiar, dan Nexmedia Tayangkan Premier League di Indonesia]</ref>
+
+== Galeri logo ==
+{{Logo saluran televisi}}
+<gallery>
+Berkas:Sctv91.png|Logo pertama SCTV saat masih menjadi televisi lokal di [[Surabaya]] (24 Agustus 1990-23 Agustus 1993)<ref>[http://www.tabloidbintang.com/articles/extra/nostalgia/4016-setelah-membaca-edisi-pertama-bintang-indonesia Logo SCTV saat masih di Surabaya]</ref>
+Berkas:logo sctv 1.jpg|Logo kedua SCTV setelah pindah ke [[Jakarta]] (24 Agustus 1993-31 Juli 2003)
+Berkas:Logo sctv 2.jpg|Logo ketiga SCTV (1 Agustus 2003-29 Januari 2005)
+Berkas:SCTV Logo.svg|Logo keempat SCTV<br/>(29 Januari 2005-sekarang)
+Berkas:SCTV_Logo_Grey.png|Logo SCTV saat jeda komersial<br/>(2005-sekarang)
+Berkas:SCTV 24.png|Logo 24 tahun SCTV (2014)
+Berkas:SCTV 25.png|Logo 25 tahun SCTV (2015)
+</gallery>
+
+== Acara ==
+{{utama|Daftar acara SCTV}}
+
+== Penyiar ==
+*[[Anastasya Putri]]
+*[[Boy Bakamaro]]
+*[[Djati Darma]]
+*[[Duma Riris Silalahi]]
+*[[Gadis Parengkuan]]
+*[[Joy Astro]]
+*[[Juanita Wiratmaja]]
+*[[Mochamad Achir]]
+*[[Retno Pinasti]]
+*[[Sondang Sirait]]
+*[[Winny Arnold]]
+=== Mantan penyiar ===
+{{col-css3-begin|4}}
+*[[Agung Nugroho]]
+*[[Ajeng Kamaratih]]
+*[[Alfito Deannova]]
+*[[Ariana Herawati]]
+*[[Arief Suditomo]]
+*[[Ariyo Ardi]]
+*[[Bayu Sutiyono]]
+*[[Brigitta Priscilla]]
+*[[David Silahooij]]
+*[[Deti Soepandi]]
+*[[Dian Ardianti]]
+*[[Diana Deborah]]
+*[[Dwi Anggia]]
+*[[Eva Julianti|Eva Yunizar]]
+*[[Grace Natalie]]
+*[[Indiarto Priadi]]
+*[[Indriati Yuliastiani]]
+*[[Indy Rahmawati]]
+*[[Ira Koesno]]
+*[[Jeremy Teti]]
+*[[Kania Sutisnawinata]]
+*[[Louisa Kusnandar]]
+*[[Mira Permatasari]]
+*[[Nova Poerwadi]]
+*[[Nova Rini]]
+*[[Nunung Setiyani]]
+*[[Omar Muhammad]]
+*[[Ricardo Indra]]
+*[[Rike Amru]]
+*[[Riza Primadi]]
+*[[Rizal Mustary]]
+*[[Rosiana Silalahi]]
+*[[Roy Chuddin]]
+*[[Sella Wangkar]]
+*[[Senandung Nacita]]
+*[[Tascha Liudmila]]
+*[[Tjandra Wibowo]]
+*[[Tri Ambarwatie]]
+*[[Valerina Daniel]]
+*[[Zivanna Letisha Siregar|Zivanna Letisha]]
+{{col-css3-end}}
+
+== Direksi dan Komisaris ==
+=== Daftar direktur utama ===
+{| class="wikitable"
+|-
+! No.
+! Nama
+! Awal jabatan
+! Akhir jabatan
+|-
+| 1
+| [[Slamet Supoyo]] 
+| 1990
+| 1991
+|-
+| 2
+| [[Adi Satria]] 
+| 1991
+| 1993
+|-
+| 3
+| [[Henry Pribadi]] 
+| 1993
+| 1997
+|-
+| 4
+| [[Agus Mulyanto]] 
+| 1997
+| 2002
+|-
+| 5
+| [[Lanny Rahardja]]
+| 2002
+| 2003
+|-
+| 6
+| [[Wisnu Hadi]]
+| 2003
+| 2005
+|-
+| 7
+| [[Fofo Sariaatmadja]]
+| 2005
+| 2011
+|-
+| 8
+| [[Sutanto Hartono]]
+| 2011
+| 2013
+|-
+| 9
+| [[Grace Wiranata]]
+| 2013
+| 2015
+|-
+| 10
+| [[Sutanto Hartono]]
+| 2015
+| sekarang
+|}
+
+=== Direksi saat ini ===
+Struktur dewan direksi SCTV saat ini adalah sebagai berikut:
+{| class="wikitable"
+|-
+! No.
+! Nama
+! Jabatan
+|-
+| 1
+| [[Sutanto Hartono]] 
+| Direktur Utama
+|-
+| 2
+| [[Raden Alvin Sariaatmadja]]
+| Direktur
+|-
+| 3
+| [[Rusmiyati Djajaseputra]]
+| Direktur
+|}
+
+=== Komisaris saat ini ===
+Struktur dewan komisaris SCTV saat ini adalah sebagai berikut:
+{| class="wikitable"
+|-
+! No.
+! Nama
+! Jabatan
+|-
+| 1
+| [[R. Suyono]] 
+| Komisaris Utama
+|-
+| 2
+| [[Eddy Kusnadi Sariaatmadja]]
+| Komisaris
+|-
+| 3
+| [[Fofo Sariaatmadja]]
+| Komisaris
+|-
+| 4
+| [[Siti Hediati Hariyadi]]
+| Komisaris
+|-
+| 5
+| [[Budi Harianto]]
+| Komisaris
+|-
+| 6
+| [[Suryani Zaini]]
+| Komisaris 
+|}
+
+== Transmisi ==
+
+=== {{INA}} ===
+SCTV memiliki 41 stasiun transmisi yang mampu menjangkau lebih dari 133 juta penonton televisi di Indonesia.
+{{col|5}}
+* [[Jakarta]] 45 UHF
+* [[Kota Ambon|Ambon]] 10 VHF 
+* [[Balikpapan]] 32 UHF
+* [[Banda Aceh]] 46 UHF
+* [[Bandar Lampung]] 34 UHF 
+* [[Bandung]] 52 UHF
+* [[Banjarmasin]] 34 UHF
+* [[Banyuwangi]] 42 UHF
+* [[Batam]] 47 UHF
+* [[Bengkulu]] 26 UHF
+* [[Bontang]] 26 UHF
+* [[Bukittinggi]] 60 UHF
+* [[Cilegon]] 55 UHF
+* [[Cirebon]] 36 UHF
+* [[Denpasar]] 27 UHF
+* [[Garut]] 30 UHF
+* [[Jambi]] 35 UHF
+* [[Jayapura]] 30 UHF 
+* [[Jember]] 62 UHF
+* [[Kediri]] 53 UHF
+* [[Kebumen]] 51 UHF
+* [[Kendari]] 24 UHF
+* [[Madiun]] 48 UHF
+* [[Makassar]] 35 UHF
+* [[Malang]] 46 UHF
+* [[Manado]] 34 UHF
+* [[Kota Mataram|Mataram]] 32 UHF
+* [[Medan]] 35 UHF
+* [[Padang]] 47 UHF
+* [[Palangkaraya]] 35 UHF
+* [[Palembang]] 32 UHF
+* [[Kota Palu|Palu]] 31 UHF
+* [[Pekanbaru]] 26 UHF
+* [[Pontianak]] 31 UHF
+* [[Purwokerto]] 45 UHF
+* [[Samarinda]] 47 UHF
+* [[Semarang]] 35 UHF
+* [[Surabaya]] 34 UHF
+* [[Tegal]] 55 UHF
+* [[Kota Yogyakarta|Yogyakarta]] 34 UHF
+{{EndDiv}}
+
+== Penghargaan ==
+{| class="wikitable" width="100%" cellpadding="5"
+|-
+! width="5%"|Tahun
+! width="5%"|Award
+! width="5%"|Kategori
+! width="5%"|Hasil
+|-
+| [[2015]]
+| [[Panasonic Gobel Awards 2015]]
+| Program Spesial Events (Malam Puncak 24 Tahun Teristimewa)
+| {{nom}}
+|}
+
+== Lihat pula ==
+* [[Daftar stasiun televisi Indonesia]]
+
+== Referensi ==
+<references />
+
+== Pranala luar ==
+* {{id}} {{resmi|http://www.sctv.co.id/}}
+* {{id}} [http://www.liputan6.com/ Situs web resmi Liputan 6 SCTV]
+* {{id}} [http://bola.liputan6.com/ Situs web resmi SCTV atas Liputan 6 Bola]
+* {{en}} [http://www.scm.co.id/ Situs web resmi Surya Citra Media]
+
+{{Kelompok templat
+|list1 =
+{{EMTEK}}
+{{Cinta Fitri}}
+{{acara SCTV}}
+{{Penyiar SCTV}}
+{{TelevisiIndonesia}}
+}}
+
+[[Kategori:Stasiun televisi Indonesia]]
+[[Kategori:Stasiun televisi yang berdiri pada tahun 1990]]

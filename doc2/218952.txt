@@ -1,0 +1,25 @@
+Templat:Bagelen, Purworejo
+{{Navigasi ID Desa
+|nama kecamatan=Bagelen
+|dati2=Kabupaten 
+|nama dati2=Purworejo
+|provinsi=Jawa Tengah
+|d1= Bagelen
+|d2= Bapangsari
+|d3= Bugel
+|d4= Clapar
+|d5= Dadirejo
+|d6= Durensari
+|d7= Hargorojo
+|d8= Kalirejo
+|d9= Kemanukan
+|d10= Krendetan
+|d11= Piji
+|d12= Semagung
+|d13= Semono
+|d14= Soko
+|d15= Sokoagung
+|d16= Somorejo
+|d17= Tlogokotes
+}}<noinclude>[[Kategori:Templat desa/kelurahan di Jawa Tengah|Jawa Tengah]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Purworejo]]</noinclude>

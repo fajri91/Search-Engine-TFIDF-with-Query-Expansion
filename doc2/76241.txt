@@ -1,0 +1,56 @@
+Guarda, Portugal
+{{Infobox settlement
+| official_name   = Guarda
+| native_name     = 
+| settlement_type = [[Municipalities of Portugal|Municipality]]
+| image_flag      = Pt-grd1.png
+| flag_alt        = 
+| image_shield    = GRD.png
+| shield_alt      = 
+| motto           = 
+| image_skyline   = 
+| image_alt       =
+| image_caption   = 
+| pushpin_map     = <!-- Portugal -->
+| pushpin_label_position  =
+| pushpin_map_alt         = 
+| pushpin_mapsize         = 
+| pushpin_caption = Location in Portugal
+| latd  = 40 |latm  = 32 |latNS  = N
+| longd = 7 |longm = 20|longEW = W 
+| coordinates_type        = region:PT_type:adm3rd
+| coordinates_display     = yes
+| image_map       = LocalGuarda.svg
+| map_alt         =
+| map_caption     = Location in Portugal
+| subdivision_type        = Country
+| subdivision_name        = {{flag|Portugal}}
+| subdivision_type1       = Region
+| subdivision_name1       = [[Centro Region|Centro]]
+| subdivision_type2       = Subregion
+| subdivision_name2       = [[Beira Interior Norte]]
+| subdivision_type3       = District/A.R.
+| subdivision_name3       = [[Guarda (district)|Guarda]]
+| leader_party            = [[Socialist Party (Portugal)|PS]]
+| leader_title            = [[Mayor]]
+| leader_name             = Joaquim Valente
+| area_total_km2          = 712.1
+| population_total        = 44,149
+| population_density_km2  = 62
+| population_as_of        = 
+| blank_name_sec1         = [[freguesia|Parishes]]&nbsp;(no.)
+| blank_info_sec1         = [[#Parishes|55]]
+| blank1_name_sec1        = Municipal holiday
+| blank1_info_sec1        = <br />November 27
+| website                 = http://www.mun-guarda.pt
+}}
+
+'''Guarda''' ({{IPA-pt|wad}}) merupakan nama [[kota]] di [[Portugal]] dengan memiliki luas wilayah 712,1&nbsp;km dan populasi 44.149 jiwa ([[2005]]). Kota ini didirikan tahun [[1119]] oleh raja kedua [[Portugal]], [[Sancho I dari Portugal|Sancho I]]. Kota ini terdiri dari 55 parishes, dan terletak di [[Distrik Guarda]].
+
+== Pranala luar ==
+* [http://www.mun-guara.pt/ Situs resmi]
+
+[[Kategori:Kota di Portugal]]
+
+
+{{Portugal-geo-stub}}

@@ -1,0 +1,27 @@
+Wikipedia bahasa Vietnam
+{{Infobox Website
+| name = [[Berkas:Wikipedia-favicon.png|16px|Favicon of Wikipedia]] Wikipedia bahasa Vietnam
+| screenshot =[[File:VietnameseWikipediaMainpageScreenshot9thSeptember2012.png|264px]] 
+| logo = [[Berkas:Wikipedia-logo-v2-vi.png]]
+| caption = 
+| url = {{URL|http://vi.wikipedia.org/}}
+| commercial = Tidak
+| location = [[Miami, Florida]]
+| type = [[Proyek ensiklopedia internet]]
+| language = [[Bahasa Vietnam]]
+| registration = Opsional
+| owner = [[Yayasan Wikimedia]]
+| author = 
+}}
+'''Wikipedia bahasa Vietnam''' adalah [[Wikipedia]] versi [[bahasa Vietnam]] yang didirikan pada November 2002, namun tidak menerima kontribusi signifikan hingga direstorasi pada Oktober 2003. Pada tahun [[2014]], Wikipedia ini memiliki lebih dari 1.000.000 artikel sehingga merupakan Wikipedia dengan artkel terbanyak di [[Asia Tenggara]].
+
+== Pranala luar ==
+{{InterWiki|code=vi}}
+* {{vi}} [http://vi.wikipedia.org/wiki/ Wikipedia bahasa Vietnam]
+
+{{Wikipedia}}
+
+{{wikipedia-stub}}
+
+[[Kategori:Wikipedia menurut bahasa|Vietnam]]
+[[Kategori:Bahasa Vietnam]]

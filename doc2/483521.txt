@@ -1,0 +1,19 @@
+Templat:Liga Champions UEFA 201213
+{{Navbox
+|titlestyle = background:white; color:black; border: 1px solid black; titlecolor:black;
+|liststyle = background:white; color:black; titlecolor:black;
+|name = Liga Champions UEFA 201213
+|title = [[Liga Champions UEFA 201213|<span style="color:black;">Liga Champions UEFA 201213</span>]]
+|listclass = hlist
+|list1 = 
+* [[Babak pertama kualifikasi Liga Champions UEFA 201213|Babak pertama kualifikasi]]
+* [[Babak kedua kualifikasi Liga Champions UEFA 201213|Babak kedua kualifikasi]]
+* [[Babak ketiga kualifikasi Liga Champions UEFA 201213|Babak ketiga kualifikasi]]
+* [[Babak play off Liga Champions UEFA 201213|Babak play off]]
+* [[Babak grup Liga Champions UEFA 201213|Babak grup]]
+* [[Babak gugur Liga Champions UEFA 201213|Babak gugur]]
+* [[Final Liga Champions UEFA 2013|Final]]
+}}<noinclude>
+[[Kategori:Liga Champions UEFA 201213]]
+[[Kategori:Templat Liga Champions UEFA]]
+</noinclude>

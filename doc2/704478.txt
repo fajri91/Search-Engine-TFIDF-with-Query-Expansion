@@ -1,0 +1,11 @@
+Opencart
+'''Opencart''' adalah sebuah [[sistem manajemen konten]] berbasis [[Web]] yang berlisensi [[GPL]] versi 3. CMS ini dirancang untuk toko online lengkap dengan [[shopping cart]]. CMS ini juga kaya akan [[fitur]] dan salah satunya adalah pengaturan agar mudah dikenali oleh [[mesin pencari]]
+
+== Pengembang ==
+Pengembang dari Opencart adalah Daniel Kerr , Hongkong
+
+== Referensi ==
+
+{{software-stub}}
+
+[[Kategori:Sistem manajemen konten]]

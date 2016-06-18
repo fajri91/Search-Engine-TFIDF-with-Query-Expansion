@@ -1,0 +1,39 @@
+Lokomotif B51
+{{infobox Lokomotif
+|name=B51
+|image=B5112testrun.jpg
+|caption=Lokomotif B 51 12 tengah ''test run'' di [[Museum Kereta Api Ambarawa]]
+|powertype=Uap
+|builder=[[Hanomag]] dan [[Hartmann]], [[Jerman]]<br/>[[Werkspoor|Werkspoor N.V.]], [[Belanda]]
+|poweroutput=415 hp
+|fueltype=[[Pohon jati|Kayu jati]]
+|topspeed=75 km/jam
+|whytetype=4-4-0
+|aarwheels=2-B
+|uicclass=2B
+|weight=32 ton
+|railroad=[[Staatsspoorwegen]]
+|locale=[[Jawa]] dan [[Sumatera Selatan]]
+|firstrundate=1900-1910
+|totalproduction=44 unit
+|preservedunit=B 51 12
+|currentowner=[[PT Kereta Api Indonesia]]
+|gauge=1.067 mm
+}}
+[[Berkas:Ambarawa locomotief.jpg|thumb|B 51 12 sebelum dioperasikan untuk KA wisata.]]
+'''Lokomotif''' '''B 51''' adalah [[lokomotif uap]] buatan pabrik [[Hanomag]] dan [[Hartmann]] di [[Jerman]] serta [[Werkspoor|Werkspoor N.V.]], [[Belanda]]. Lokomotif dengan [[notasi Whyte]] 4-4-0 ini dioperasikan oleh [[Staatsspoorwegen]] di [[Jawa]] untuk angkutan penumpang. Saat ini tersisa lokomotif B 51 12 di [[Museum Kereta Api Ambarawa]].
+
+== Sejarah <ref>{{id}} [http://heritage.kereta-api.co.id/?p=3081 Indonesian Heritage Railway: Lokomotif B51]</ref>==
+Lokomotif B 51 adalah contoh lokomotif dengan dua [[silinder]] ''compound''. Silinder ini lebih efisien karena uap dari silinder tekanan tinggi disalurkan menuju silinder tekanan rendah, baru dikeluarkan ke cerobong. Meskipun demikian, perawatan pada lokomotif ini sangat rumit. Lokomotif ini tidak lagi diproduksi sejak ditemukannya ''superheater''. Lokomotif dua silinder ''compound'' dapat sanggup melaju hingga lebih dari 60 km/jam namun tetap memberikan kestabilan.
+
+Lokomotif B 51 ini diimpor dari pabrik [[Hanomag]] dan [[Hartmann]] di [[Jerman]] serta [[Werkspoor]], [[Belanda]]. Lokomotif ini berbahan bakar [[kayu jati]], berdaya 415 hp, massa 32 ton, dan sanggup melaju hingga 75 km/jam. Pengimporan dilakukan tahun 1900-1910. Lokomotif B 51 didinaskan untuk kereta lokal rute [[Stasiun Tanahabang|Tanah Abang]]-[[Stasiun Rangkasbitung|Rangkasbitung]][[Stasiun Merak|Merak]], rute [[Stasiun Kertosono|Kertosono]][[Stasiun Madiun|Madiun]][[Stasiun Blitar|Blitar]], dan rute [[Stasiun Babat|Babat]]-[[Stasiun Jombang|Jombang]].
+
+Lima unit lokomotif B 51 pernah dimutasi ke [[Sumatera Selatan]] untuk memenuhi kebutuhan angkutan penumpang di sana. [[Depresi Besar|Krisis ekonomi]] yang melanda tahun 19291934 mengakibatkan lokomotif [[Staatsspoorwegen]] terpaksa disimpan, namun selama disimpan, B 51 masih bertahan karena dirawat dengan baik. Satu unit B 51 lagi dimutasi dari [[Jawa]] ke [[Sumatera Barat]] untuk melayani [[jalur kereta api Muaro-Pekanbaru|rute Muaro-Pekanbaru]] untuk angkutan [[batu bara]] hingga ditutup September 1945.
+
+Saat ini tersisa B 51 12 yang beroperasi di [[Museum Kereta Api Ambarawa]] (buatan [[Hanomag]]) yang selama 30 tahun dipajang. Kemudian setelah 30 tahun tidak beroperasi, kini kembali beroperasi menarik kereta wisata di Ambarawa.
+
+== Referensi ==
+{{reflist}}
+
+{{Daftar lokomotif Indonesia}}
+[[Kategori:Lokomotif uap di Indonesia|B51]]

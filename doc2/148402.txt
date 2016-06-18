@@ -1,0 +1,49 @@
+Guarene
+{{Infobox Italian comune
+| name                = Guarene
+| official_name       = Comune di Guarene
+| native_name         = 
+| image_skyline       = I-CN-Guarene.JPG
+| imagesize           = 
+| image_alt           = 
+| image_caption       = 
+| image_shield        = Guarene-Stemma.png
+| shield_alt          = 
+| image_map           = 
+| map_alt             = 
+| map_caption         = 
+| pushpin_label_position = 
+| pushpin_map_alt     = 
+| latd  = 44 |latm  = 44 |lats  =  |latNS  = N
+| longd = 8 |longm = 2 |longs =   |longEW = E 
+| coordinates_type    = type:city(3,191)_region:IT
+| coordinates_display = title
+| coordinates_footnotes = 
+| region              = [[Piedmont]]
+| province            = [[Province of Cuneo|Cuneo]] (CN)
+| frazioni            = Bassi, Biano, Castelrotto, Montebello, Osteria, Racca, Vaccheria
+| mayor_party         = 
+| mayor               = Franco Artusio
+| area_footnotes      = 
+| area_total_km2      = 13.4
+| population_footnotes = 
+| population_total    = 3229
+| population_as_of    = 31 May 2007
+| pop_density_footnotes = 
+| population_demonym  = Guarenesi
+| elevation_footnotes = 
+| elevation_m         = 360
+| twin1               = 
+| twin1_country       = 
+| saint               = Saint James
+| day                 = 25 July
+| postal_code         = 12050
+| area_code           = 0173
+| website             = {{official|http://www.guarene.it}}
+| footnotes           = 
+}}
+
+'''Guarene''' adalah komune yang terletak di distrik [[Provinsi Cuneo]], [[Italia]]. Kota Guarene memiliki luas sebesar 13.4 km. Pada tahun 2004, Guarene memiliki penduduk sebesar 3.191 jiwa.
+
+{{Province of Cuneo}}
+{{Cuneo-geo-stub}}

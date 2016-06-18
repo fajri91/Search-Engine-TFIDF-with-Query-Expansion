@@ -1,0 +1,35 @@
+Cocalodes macellus
+{{Taxobox
+|name = Cocalodes macellus
+|status = 
+|image = 
+|image_caption = 
+|domain = 
+|regnum = [[Animalia]]
+|phylum = [[Arthropoda]]
+|classis = [[Arachnida]]
+|ordo = [[Araneae]]
+|familia = [[Salticidae]]
+|genus =Cocalodes
+|species = Cocalodes macellus
+|binomial = Cocalodes macellus
+|binomial_authority =Thorell, 1878
+|range_map = 
+|range_map_caption = 
+|image2 = 
+|image2_caption = 
+|synonyms = 
+}}
+'''''Cocalodes macellus''''' adalah spesies [[laba-laba]] yang tergolong [[familia]] [[Salticidae]]. Spesies ini juga merupakan bagian dari genus [[Cocalodes]] dan ordo [[Araneae]]. Nama ilmiah dari spesies ini pertama kali diterbitkan pada tahun 1878 oleh Thorell.
+
+Laba-laba ini biasanya banyak ditemui di Indonesia, Nugini.
+
+== Referensi ==
+
+* Platnick, Norman I. (2010): [http://research.amnh.org/entomology/spiders/catalog/Salticidae.html The world spider catalog], version 10.5. ''American Museum of Natural History''.
+
+{{DEFAULTSORT:Cocalodes macellus}}
+
+[[Kategori:Salticidae]]
+
+{{labalaba-stub}}

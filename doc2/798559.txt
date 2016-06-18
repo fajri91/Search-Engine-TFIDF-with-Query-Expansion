@@ -1,0 +1,123 @@
+Aksara Jawa Baru
+{{Infobox Writing system
+|name=Aksara Jawa Baru
+|type= Brahmi dan Abjad
+|time=sekitar abad ke-8 hingga sekarang
+|fam1=[[Abjad Proto-Sinaitik]]
+|fam2=[[Abjad Fenisia]]
+|fam3=[[Abjad Aramea]]
+|fam4=[[Aksara Brahmi]]
+|fam5=[[Aksara Pallawa]]
+|fam6=[[Aksara Kawi]]
+|fam7=[[Aksara Sukuh]]
+|sisters=[[Aksara Jawa|Jawa]]<br />[[Aksara Bali|Bali]]<br />[[Surat Batak|Batak]]<br />[[Baybayin]]<br />[[Aksara Buhid|Buhid]]<br />[[Aksara Hanun'o|Hanun'o]]<br />[[Aksara Lontara|Lontara]]<br />[[Aksara Sunda Kuno|Sunda Kuno]]<br />[[Aksara Rencong|Rencong]]<br />[[Aksara Rejang|Rejang]]<br />[[Aksara Tagbanwa|Tagbanwa]]<br />
+|languages=[[Bahasa Jawa|Jawa]], [[Bahasa Indonesia|Indonesia]]
+|sample=Nusantara-consonant.png
+|sample_desc= Huruf-huruf Aksara Wyanjana dalam Aksara Jawa Baru. Huruf Aksara Rekan tidak dimasukkan.
+}}
+
+''Aksara Jawa Baru'' merupakan hasil pembakuan [[Aksara Jawa Kuna]] dalam kurun waktu abad ke-8 sampai dengan abad ke-18 masehi dengan memilih dan memperkirakan bentuk baku dari Aksara Jawa Kuna, keragaman bentuk huruf dan sandangan Aksara Jawa Kuna dalam kurun tersebut dipilih berdasarkan huruf dan sandangan yang mudah ditulis, diingat dan mudah dibedakan antar sesamanya sedangkan sistem penulisan hasil penyesuaian sistem penulisan [[Aksara Sukuh]] sekitar abad ke 14 masehi yang tidak menggunakan huruf gantung. Aksara ini digunakan untuk menuliskan [[Bahasa Jawa]] kontemporer. Aksara Jawa Baru juga lazim disebut dengan istilah ''Aksara Nusantara''<ref>http://omniglot.com/conscripts/nusantara.htm</ref>'.
+
+== Latar Belakang dan Sejarah ==
+Kebutuhan akan aksara milik sendiri yang mudah digunakan, efektif dan efesien dalam penulisan modern mendorong untuk merekontruksi Aksara Jawa Kuna sebagai wujud kesinambungan kepemilikan aksara
+
+== Perbandingan antara Aksara Jawa Baru dan Aksara Jawa Kuna ==
+
+Aksara Jawa Baru merupakan hasil rekontruksi Aksara Jawa Kuna yang digunakan untuk menuliskan Bahasa Jawa kontemporer. Penyesuaian itu antara lain didasarkan atas pedoman sebagai berikut:
+* bentuknya mengacu pada Aksara Jawa Kuna dalam kurun abad ke-8 sampai abad ke-16 masehi sehingga keasliannya dapat terjaga,
+* bentuk huruf dipilih yang paling mudah diaplikasikan dan mudah dibedakan antar huruf,
+* sistem penulisan tidak menggunakan huruf gantung karena alasan penghematan ruang tulis,
+* sistem penulisannya berdasarkan pemisahan kata demi kata,
+* ejaannya mengacu pada Bahasa Jawa mutakhir agar mudah dibaca.
+Dalam pelaksanaannya, penyesuaian tersebut meliputi penambahan Aksara Rekan (misalnya huruf va dan fa), huruf re pepet dan le pepet sangat jarang digunakan, Aksara Swara selain a tidak digunakan dan penyesuain angka dalam basis horizontal.
+
+== Sistem penulisan Aksara Jawa Baru ==
+
+[[Berkas:Oldhandwriting2.jpg|thumb|Tulisan tangan Aksara Nusantara : Deklarasi Dunia akan Hak Azasi Manusia|285x285px]]
+
+Aksara Jawa Baru (Aksara Nusantara) terdiri dari 20 Aksara Wyanjana (huruf nglegena), 20 Aksara Rekan (huruf jarang digunakan), 20 Sandangan (diakritik), 10 Aksara Swara (huruf vokal), 7 Aksara Dirgaswara (huruf vokal panjang).
+
+Aksara Jawa Baru/Aksara Nusantara memperbolehkan tiga sistem penulisan yaitu :
+# Sistem Tulis Abjad dengan diakritik, di mana seluruh huruf dalam Aksara Jawa Baru/Aksara Nusantara adalah konsonan dan akan berbunyi saat diberikan sandangan : Tarung untuk bunyi a, Wulu untuk bunyi i, Suku untuk bunyi u, Taling Tarung untuk bunyi o, Pepet untuk bunyi  dan Taling untuk bunyi  dan sandangan lainnya.
+# Sistem Tulis Brahmi, di mana seluruh huruf Aksara Jawa Baru/Aksara Nusantara telah melekat bunyi vokal a dan menggunakan sandangan untuk mengubah bunyi seperti Wulu untuk bunyi i, Suku untuk bunyi u, Taling Tarung untuk bunyi o, Pepet untuk bunyi , Taling untuk bunyi , Tudhung untuk menghilangkan bunyi a pada huruf, dan sandangan lainnya.
+# Sistem Tulis Abjad tanpa diakritik, di mana seluruh huruf Aksara Jawa Baru/Aksara Nusantara telah melekat bunyi vokal a, dituliskan tanpa menggunakan sandangan di mana pembaca membedakan bunyi huruf dengan cara melihat kombinasi huruf.
+
+=== ''Aksara Swara'' ===
+Aksara Jawa Baru/Aksara Nusantara memperlakukan Aksara Swara (Huruf Vokal) layaknya sebagai huruf yang melekat bunyi a, sehingga untuk mengubah bunyi membutuhkan sandangan.
+
+[[Berkas:Nusantara-vocal.png|Aksara Swara|500px]]
+
+=== ''Aksara Wyanjana'' ===
+Aksara Wyanjana adalah aksara nglegena merupakan aksara asli dalam Bahasa Jawa, sehingga intensitas penggunaannya sangat tinggi.
+
+[[Berkas:Nusantara-consonant.png|Aksara Wyanjana|200x200px]]
+
+berikut huruf JA yang mendapatkan sandangan (diakritik) :
+
+[[Berkas:Nusantara-ja.png|Aksara Wyanjana|200x200px]]
+
+=== ''Aksara Rekan'' ===
+Aksara Rekan merupakan aksara yang sangat jarang digunakan dalam penulisan Bahasa Jawa, tetap digunakan dalam intensitas kecil.
+
+[[Berkas:Nusantara-rekan.png|Aksara Rekan|200x200px]]
+
+=== ''Sandangan'' ===
+Aksara Jawa Baru/Aksara Nusantara memiliki sandangan sebagai berikut :
+* Wulu
+* Suku
+* Pepet
+* Taling
+* Tarung
+* Taling Tarung
+* Dirgamure
+* Dirgamure Tarung
+* Cakra
+* Keret
+* Pengkal
+* Cecak
+* Layar
+* Wignyan
+* Cakrabindu
+
+=== Angka ===
+
+[[Berkas:Nusantara-Number.png|Angka Aksara Nusantara|250px]]
+
+=== Tanda baca ===
+
+[[Berkas:Nusantara-pada.png|Beberapa tanda baca Aksara Nusantara|300x300px]]
+
+Aksara Jawa Baru menggunakan simbol yang dikenal dalam hubungan internasional. Contohnya: tanda seru, tanda tanya, tanda kutip, tanda kurung, tanda kurung siku, dsb.
+
+=== Karya-Karya dalam Aksara Nusantara ===
+
+[[Berkas:Qurannusantara-book.jpg|thumb|Al-Quran Terjemahan Aksara Nusantara|300x300px]]
+
+# Al-Quran Terjemahan Aksara Nusantara, ditulis dengan Aksara Nusantara dan Bahasa Indonesia oleh Wahyu R. Soemitra Wijaya
+# Al-Quran Tafsir Al-Jalalain Aksara Nusantara, ditulis dengan Aksara Nusantara dan Bahasa Indonesia Oleh Wahyu R. Soemitra Wijaya
+# Surat Yasiin Aksara Nusantara, ingkang kajarweaken mawi bhasa jawi, ditulis dengan Aksara Nusantara dan Bahasa Jawa Oleh Wahyu R. Soemitra Wijaya
+
+== Lihat pula ==
+* [[Bahasa Jawa]] dan [[Aksara Jawa]]
+* [[Bahasa Rejang]] dan [[Aksara Kaganga]]
+* [[Bahasa Sunda]] dan [[Aksara Sunda Baku]]
+* [[Bahasa Bali]] dan [[Aksara Bali]]
+* [[Bahasa Makassar]], [[Bahasa Bugis]], [[Bahasa Mandar]] dan [[Aksara Lontara]]
+* [[Bahasa Batak]], [[Surat Batak]]
+* [[Bahasa Khmer]], [[Aksara Khmer]]
+* [[Bahasa Tagalog]], [[Aksara Baybayin]]
+* [[Bahasa Myanmar]], [[Aksara Burma]]
+* [[Bahasa Laos]], [[Aksara Lao]]
+
+== Sumber ==
+* BenerPost : ''Aksara Nusantara Bangkit Kembali.
+* Omniglot : "Aksara Nusantara"
+
+== Pranala luar ==
+* http://omniglot.com/conscripts/nusantara.htm
+* http://benerpost.blogspot.co.id/2014/12/aksara-nusantara-bangkit-kembali.html
+
+{{jenis aksara|state=show|state2=show}}
+
+[[Kategori:Bahasa Jawa]]
+[[Kategori:Aksara Nusantara|Jawa Baru]]

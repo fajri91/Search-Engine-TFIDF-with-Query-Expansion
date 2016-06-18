@@ -1,0 +1,33 @@
+Templat:Japanese episode list/sublist
+<includeonly>{{Japanese episode list
+  | TopColor={{
+    #ifeq: {{{MainList|{{{1|}}}}}} | {{PAGENAME}} | {{
+      #ifeq: {{{2|}}} | NeutralTopColor | F4F4F4 | {{
+        #ifeq: {{ #expr: {{{EpisodeNumber}}} mod 2 }} | 0 | {{
+          #ifeq: {{{EvenRowColor|}}} |  | E9E9E9 | {{{EvenRowColor|}}}
+        }} | {{
+          #ifeq: {{{OddRowColor|}}}  |  | <!--Nothing--> | {{{OddRowColor|}}}
+        }}
+      }}
+    }} | {{{TopColor|}}}
+  }}
+  | EpisodeNumber={{{EpisodeNumber|}}}
+  | EpisodeNumber2={{{EpisodeNumber2|}}}
+  | EnglishTitle={{{EnglishTitle|}}}
+  | RomajiTitle={{{RomajiTitle|}}}
+  | KanjiTitle={{{KanjiTitle|}}}
+  | RTitle={{{RTitle|}}}
+  | Aux1={{{Aux1|}}}
+  | DirectedBy={{{DirectedBy|}}}
+  | WrittenBy={{{WrittenBy|}}}
+  | Aux2={{{Aux2|}}}
+  | Aux3={{{Aux3|}}}
+  | OriginalAirDate={{{OriginalAirDate|}}}
+  | FirstEngAirDate={{{FirstEngAirDate|}}}
+  | ProdCode={{{ProdCode|}}}
+  | Aux4={{{Aux4|}}}
+  | LineColor={{{LineColor|}}}
+  | ShortSummary={{
+    #ifeq: {{{MainList|{{{1|}}}}}} | {{PAGENAME}} |  | {{{ShortSummary|}}}
+  }}
+}}</includeonly>

@@ -1,0 +1,34 @@
+Templat:Dewan ECB
+{{Navbox
+| name       = Dewan ECB
+| state      = <includeonly>collapsed</includeonly>
+| title      = [[Dewan Eksekutif Bank Sentral Eropa|Dewan Eksekutif]] [[Bank Sentral Eropa]]
+| listclass = hlist
+| image      = [[Image:Flag of Europe.svg|52px|European Union]]
+
+| list1  =
+* '''[[Mario Draghi]]''' (presiden) 
+* ''[[Vtor Constncio]]'' (wakil presiden)
+
+* [[Yves Mersch]]
+* [[Benot Cur]] 
+* [[Peter Praet]]
+* [[Sabine Lautenschlger]]
+
+;{{nobold|Mantan anggota}}
+: '''[[Wim Duisenberg]]''' (presiden ke-1) 
+: [[Sirkka Hmlinen]] 
+: [[Otmar Issing]] 
+: ''[[Christian Noyer]]'' 
+: [[Tommaso Padoa-Schioppa]] 
+: ''[[Lucas Papademos]]'' 
+: [[Jos Manuel Gonzlez Paramo]] 
+: [[Lorenzo Bini Smaghi]]
+: [[Eugenio Domingo Solans]] 
+: [[Jrgen Stark]]
+: '''[[Jean-Claude Trichet]]''' (presiden ke-2)
+: [[Gertrude Tumpel-Gugerell]] 
+: [[Jrg Asmussen]] 
+}}<noinclude>
+[[Category:Templat Uni Eropa]]
+</noinclude>

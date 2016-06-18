@@ -1,0 +1,43 @@
+Tetrodontium
+{{Taxobox
+| image =
+| image_caption = 
+| regnum = [[Plantae]]
+| divisio = [[Bryophyta]]
+| classis = [[Tetraphidopsida]]
+| ordo = [[Tetraphidales]]
+| familia = [[Tetraphidaceae]]
+| genus = '''''Tetrodontium'''''
+| genus_authority = Schwgr.
+| subdivision_ranks = Species
+| subdivision = 
+* ''[[Tetrodontium brownianum]]''
+* ''[[Tetrodontium repandum]]''
+}}
+
+'''''Tetrodontium''''' adalah [[genus]] dari dua [[spesies]] [[lumut daun]]. Namanya mengacu pada empat gigi [[peristoma]] nya yang besar.
+== Klasifikasi ==
+
+{| align="left" style="text-align:left; padding:2.5px; background:#eef"
+|-
+| style="background:#fff; padding:2.5px" |[[keluarga (biologi)|keluarga]] '''Tetraphidaceae'''
+: ''[[Tetraphis]]''
+:: ''[[Tetraphis geniculata]]''
+:: ''[[Tetraphis pellucida]]''
+: ''[[Tetrodontium]]''
+:: ''[[Tetrodontium brownianum]]''
+:: ''[[Tetrodontium repandum]]''
+
+|{{Moss phylogeny/tree|6='''Tetraphidaceae'''}}
+|-style="font-size:90%;"
+| colspan=2 | Tetrodontium merupakan [[genus]] dari [[keluarga (biologi)|keluarga]] ''Tetraphidaceae''. <ref name="Goffinet 2008">{{cite book 
+|last=Goffinet|first=B.|coauthors=W. R. Buck; & A. J. Shaw|year=2008
+|chapter=Morphology and Classification of the Bryophyta|pages=55138
+|editor=Bernard Goffinet & A. Jonathan Shaw (eds.)|title=Bryophyte Biology|edition=2nd
+|location= Cambridge|publisher=Cambridge University Press|isbn=978-0-521-87225-6 }}</ref>
+|}{{-}}
+
+== Referensi ==
+{{Reflist}}
+
+[[Kategori:Lumut]]

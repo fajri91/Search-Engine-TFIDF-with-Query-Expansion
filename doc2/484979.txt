@@ -1,0 +1,18 @@
+Templat:Location map Bosnia and Herzegovina
+{{#switch:{{{1}}}
+| name   = Bosnia and Herzegovina
+| top    = 45.4
+| bottom = 42.4
+| left   = 15.5
+| right  = 19.9
+| image  = Bosnia and Herzegovina location map.svg
+| image1 = Bosnia and Herzegovina relief location map.png
+}}<noinclude>{{Location map/Info}}
+<!--
+-- The above switch-statement branches by text in parameter #1,
+-- returning the associated value after each equals sign ("=").
+-->
+
+[[Kategori:Templat peta navigasi menurut negara|Bosnia]]
+
+</noinclude>

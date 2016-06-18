@@ -1,0 +1,34 @@
+Micrathena quadriserrata
+{{Taxobox
+|name = Micrathena quadriserrata
+|status = 
+|image = 
+|image_caption = 
+|domain = 
+|regnum = [[Animalia]]
+|phylum = [[Arthropoda]]
+|classis = [[Arachnida]]
+|ordo = [[Araneae]]
+|familia = [[Araneidae]]
+|species = Micrathena quadriserrata
+|binomial = Micrathena quadriserrata
+|binomial_authority =F O P-Cambridge, 1904
+|range_map = 
+|range_map_caption = 
+|image2 = 
+|image2_caption = 
+|synonyms = 
+}}
+'''''Micrathena quadriserrata''''' adalah spesies [[laba-laba]] yang tergolong [[familia]] [[Araneidae]]. Spesies ini juga merupakan bagian dari ordo [[Araneae]]. Nama ilmiah dari spesies ini pertama kali diterbitkan pada tahun 1904 oleh F O P-Cambridge.
+
+Laba-laba ini biasanya banyak ditemui di Meksiko hingga Venezuela.
+
+== Referensi ==
+
+* {{aut|Platnick, Norman I.}} (2010): [http://research.amnh.org/entomology/spiders/catalog/index.html ''The world spider catalog''], versi 10.5. ''[[American Museum of Natural History]]''.
+
+{{DEFAULTSORT:Micrathena quadriserrata}}
+
+[[Kategori:Araneidae]]
+
+{{labalaba-stub}}

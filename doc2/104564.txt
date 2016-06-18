@@ -1,0 +1,23 @@
+Bandar Udara Johnson Lake
+{{Kotakinfo bandara|nama=Bandar Udara Johnson Lake
+|IATA=N/A
+|ICAO=CFL9
+|lokasi=[[Johnson Lake]], [[Alberta]]
+|negara=[[Kanada]]
+|pengelola=Alberta Sustainable Resource Development, Forest Protection Division, Fort McMurray
+|tipe=Publik
+|waktu=UTC-7
+|elevasi=610 [[meter|m]] (2,000 [[feet|f]])
+|koordinat={{coor dms|57|34|00|N|110|19|00|W}}
+{{landaspacu|sudut=07/25|panjang_f=2,500|panjang_m=762|permukaan=Lapangan Rumput}}
+}}
+
+'''Bandar Udara Johnson Lake''' {{airport codes|N/A|CFL9}}, terletak dekat dengan kota [[Johnson Lake]], [[Alberta]], [[Kanada]].
+
+== Referensi ==
+* {{CFS}}
+
+{{Canadian Airports}}
+{{bandara-Alberta-stub}}
+
+[[Kategori:Bandar udara di Alberta]]

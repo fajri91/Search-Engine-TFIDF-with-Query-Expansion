@@ -1,0 +1,56 @@
+Bandar Udara Internasional Mandalay
+{{Kotakinfo bandara|nama=Bandar Udara Internasional Mandalay
+|IATA=MDL
+|ICAO=VYMD
+|lokasi=[[mandalay]]
+|negara=[[Myanmar]]
+|pengelola=Kementerian Transportasi
+|tipe=Publik
+|waktu=UTC+6.30
+|situs resmi=
+|elevasi=91 [[meter|m]] (300 [[feet|f]])
+|koordinat={{coor dms|21|42|08|N|095|58|41|E}}
+{{landaspacu|sudut=17/35|panjang_f=14,003|panjang_m=4,268|permukaan=Beton}}
+}}
+
+'''Bandar udara Internasional Mandalay''' ; {{Airport codes|MDL|VYMD}}), berlokasi 35 km di selatan [[Mandalay]] di Tada-U, adalah satu dari dua bandara internasional di [[Myanmar]]. Selesai tahun 1999, bandara ini adalah yang terbesar dan paling modern di negara tersebut, dilengkapi dengan landasan pacu sepanjang 4267 m dan kemampuan untuk menangani 3 juta penumpang per tahun. <ref name="AT">{{cite web|url=http://www.airport-technology.com/projects/mandalay/|title=Mandalay International Airport (MDL/VYMD)|publisher=Airport Technology|accessdate=2007-04-02}}</ref> Bandara ini sebagian besar menangani penerbangan domestik, kecuali penerbangan internasional menuju [[Kunming]], [[Cina]].
+
+== Sejarah ==
+Proyek Bandar udara Internasional Mandalay direncanakan pertama oleh Junta Militer Myanmar pada pertengahan 1990an untuk meningkatkan level turisme dan investasi asing di Myanmar. Dengan [[Yangon]] sebagai bandara internasional yang lain di negara tersebut, bandara Mandalay sangat penting untuk mencapai pertumbuhan penumpang tahunan hingga 10%. Harapan dibangun agar Mandalay menjadi hub untuk penerbangan menuju kota penting Asia lainnya seperti [[Beijing]], [[Hanoi]], [[Bangkok]], [[Kalkuta]] and [[Dhaka]].<ref name="AT"/>
+
+Pembangunan bandara dimulai tahun 1996, dan bandara secara resmi dibuka tahun 2000 dengan biaya US$150 juta. Proyek ini dibiayai dengan pinjaman jangka panjang dari Thai ExIm Bank.
+
+Bandara terbesar dan paling modern di Myanmar ini tidak pernah mencapai ekspektasi tingginya; selain menggambarkan penggunaan uang yang percuma dari junta militer untuk proyek Gajah Putih. Ekspektasi tingginya pertumbuhan penumpang tidak pernah tercapai karena boikot internasional atas Myanmar sebagai tujuan wisata terus berlangsung. hal ini berakibat negatif terhadap pergerakan penumpang internasional di bandara, dan secara langsung akan berakibat pada kemampuan bandara menangani penumpang dalam kapasitas maksimumnya. Pengembangan berikutnya dari bandara ini belum direncanakan karena perkembangan yang lambat.<ref name="AT"/>
+
+== Fasilitas bandara ==
+Dibuka pada 17 September 2000, bangunan terminal dapat menangani 100 kedatangan penumpang dan 1000 keberangkatan setiap jam. Kapasitas bandara sendiri mencapai 3 juta penumpang per tahun, dengan kemungkinan pengembangan hingga 15 juta penumpang per tahun.<ref name="Post">{{cite news|url=http://www.burmalibrary.org/reg.burma/archives/200009/msg00087.html|title=Quiet Debut for Mandalay Airport|publisher=Bangkok Post|date= September 21 2000|accessdate=2007-04-02}}</ref> Luas bandara mencapai 10,123 hektare dan berlokasi di tengah Myanmar sekitar 21 mil dari Mandalay dengan kota terdekat adalah Tada-U. Perjalanan dari Mandalay menuju bandara sekitar 1 jam dengan menggunakan mobil.<ref name="AT"/><ref name="WA">{{cite web|url=http://worldaerodata.com/wad.cgi?id=BM96826&sch=VYMD|title=MANDALAY INTL|publisher=World Aero Data|accessdate=2007-04-02}}</ref>
+
+Landasan pacu beton di bandara Mandalay mencapai 4267 m panjang dan lebar mencapai 61 m, cukup didarati semua jenis pesawat komersial. Parkir kendaraan dapat menampung 700 kendaraan.<ref name="AT"/><ref name="Post"/>
+
+Terminal dilengkapi dengan pendingin udara, pelindungan api, dan sisten generator listrik darurat. Juga dilengkapi dengan enam lift penumpang, satu lift barang, tiga eskalator, dan sistem penanganan bagasi. Tiga dari enam jembatan keberangkatan mampu menangani pesawat [[Boeing 747]]-400 modern. Terdapat tempat yang mampu menampung 10 pesawat sekaligus, dan dengan arus 8 menit tiap pergerakan pesawat. MAGS (Mandalay Airport Ground Services) menyediakan perawatan darat bagi pesawat kargo maupun penumpang.
+
+Sistem yang tergabung dalam bandara termasuk pemancar dan penerima VHF dan HF SSB, sebuah sistem kontrol komunikasi suara, dan automatic terminal information system (ATIS), juga sebuah jaringan telekomunikasi udara terpadu.
+
+Fasilitas penumpang: 36 meja check in, 8 gerbang, 6 jembatan udara, 3 sabuk bagasi, 11 tempat parkir jangka pendek, 6 tempat parkir jangka panjang
+
+== maskapai dan destinasi ==
+=== Domestik ===
+{{Airport-dest-list
+|[[Air Bagan]]|Heho, Myitkyina, Nyaung-U, Tachilek, Yangon
+|[[Air Mandalay]]|Heho, Nyaung-U, Yangon
+|[[Myanma Airways]]|Bhamo, Kalemyo, Kengtung, Khamti, Myitkyina, Pakokku, Tachilek, Yangon
+|[[Yangon Airways]]|Heho, Kengtung, Nyaung-U, Tachilek, Yangon
+}}
+
+=== Internasional ===
+{{Airport-dest-list
+|[[China Eastern Airlines]]|Kunming
+}}
+
+== Referensi ==
+{{reflist}}
+
+{{DEFAULTSORT:Mandalay, Bandar udara}}
+{{bandara-asia-stub}}
+
+[[Kategori:Bandar udara di Myanmar]]

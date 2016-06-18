@@ -1,0 +1,37 @@
+Pseudocephalus monstrosus
+{{Taxobox
+|name = Pseudocephalus monstrosus
+|status = 
+|image = Pseudocephalus monstrosus.PNG
+|image_caption = 
+|domain = 
+|regnum = [[Animalia]]
+|phylum = [[Arthropoda]]
+|subphylum = [[Hexapoda]]
+|classis = [[Insecta]]
+|subclassis = [[Pterygota]]
+|infraclassis = [[Neoptera]]
+|superordo = [[Endopterygota]]
+|ordo = [[Coleoptera]]
+|subordo = [[Polyphaga]]
+|infraordo = [[Cucujiformia]]
+|superfamilia = [[Chrysomeloidea]]
+|familia = [[Cerambycidae]]
+|subfamilia = [[Cerambycinae]]
+|tribus = [[Pseudocephalini]]
+|genus = ''[[Pseudocephalus]]''
+|species = '''''P. monstrosus'''''
+|binomial = ''Pseudocephalus monstrosus''
+|binomial_authority = (Blanchard, 1851)}}
+
+'''''Pseudocephalus monstrosus''''' Ini semacam cerambycidae suku [[Pseudocephalini]], dengan distribusi terbatas di [[Chili]].
+
+== Referensi ==
+
+* Zicha, Ondej. [http://www.biolib.cz/en/taxon/id291361/ BioLib - ''Pseudocephalus monstrosus'']. ''Biological Library''. 12 Desember 2015
+
+{{Cerambycidae}}
+
+{{DEFAULTSORT:Pseudocephalus monstrosus}}
+
+[[Kategori:Cerambycinae]]

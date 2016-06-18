@@ -1,0 +1,41 @@
+LASER Airlines
+{{Infobox Airline
+| airline        = Lnea Area de Servicio Ejecutivo Regional Airlines
+| logo =  
+| logo_size      = 
+| fleet_size     = 9
+| destinations   = 7
+| IATA           = QL
+| ICAO           = LER
+| callsign       = LASER
+| parent         = 
+| company_slogan =
+| founded        = 1993
+| headquarters   = [[Caracas]], [[Venezuela]]
+| hubs           = [[Bandar Udara Internasional Simn Bolvar (Venezuela)|Bandar Udara Internasional Simn Bolvar]]
+| focus_cities   = [[Bandar Udara Del Caribe International General Santiago Marino]]
+| frequent_flyer = 
+| lounge         = 
+| alliance       = 
+| website        = [http://www.laser.com.ve LASER Airlines]
+}}
+'''LASER''' ('''Lnea Area de Servicio Ejecutivo Regional''') adalah [[maskapai penerbangan]] yang berbasis di [[Caracas]], [[Venezuela]]. Maskapai penerbangan ini mengoperasikan penerbangan penumpang berjadwal dan bersewaan di Venezuela. Basis utamanya adalah di [[Bandar Udara Internasional Simn Bolvar (Venezuela)|Bandar Udara Internasional Simn Bolvar]], Caracas.<ref name="FI">{{cite news|title= Directory: World Airlines|work= [[Flight International]]|page= 105|date= 2007-04-03}}</ref>
+
+==Armada==
+Armada LASER Airlines termasuk beberapa pesawat (per Januari 2010) <ref name="FI09">{{cite journal | title= Directory: World Airlines Part 2 (C-L) | journal= [[Flight International]] | page= 3180| date= 2009-04-07}}</ref>:
+
+*4  [[Douglas DC-9|McDonnell Douglas DC-9-30]]
+*5  McDonnell Douglas MD-81
+
+==Referensi==
+{{Reflist}}
+
+==Pranala luar==
+*[http://www.laser.com.ve/ LASER Airlines]
+
+{{Maskapai penerbangan Venezuela}}
+
+[[Kategori:Maskapai penerbangan di Venezuela]]
+[[Kategori:Maskapai penerbangan yang didirikan tahun 1993]]
+
+{{maskapai-stub}}

@@ -1,0 +1,32 @@
+Gare de Calais-Frthun
+{{unreferenced|date=April 2008}}
+{{Eurostar}}
+
+'''Calais-Frthun''' ({{coor dms|50|55|22.77|N|1|48|35.15|E}}) merupakan sebuah stasiun utama dan internasional di pinggiran [[Calais]], [[Perancis]], satu dari dua stasiun kereta yang melayani kota (lainnya adalah [[Gare de Calais-Ville|Calais-Ville]]).
+
+== Eurostar ==
+Calais-Frthun merupakan titik pertama awal rute kontinental [[Eurostar]], penumpang dapat berhenti di sini untuk berpindah ke layanan SNCF atau TGV Nord. Sejak musim panas 2006 sangat mungkin menggunakan Eurostar untuk perjalanan domestik antara Paris Gare du Nord dan Calais Frethun, tapi penumpang harus melewati cek imigrasi yang sama bila menggunakan Eurostar untuk perjalanan internasional.
+
+== TGV ==
+TGV juga berhenti di sini untuk perjalanan nasional dan regional:
+
+Berikut rutenya:
+* Lille-Paris melalui Calais, Boulogne dan Amiens
+* Lille-Boulogne melalui Hazebrouck dan Calais
+* Lille-Calais-Boulogne TER Grande Vitesse (Berkecepatan Tinggi)
+
+{{start}}
+!Sebelumnya!!!!Jalur!!!!Berikutnya 
+{{rel|sebelum=[[Stasiun kereta api Internasional Ashford|Ashford{{br}} International]]{{br}}<small>melalui{{br}} [[Terowongan Channel]]</small>|berikut=[[Gare de Lille-Europe|Lille-Europe]]|rute=[[Eurostar]] {{br}}<small>(kembali ke selatan){{br}}(pergi ke Utara)</small>|col=483d8b}}
+{{rel|sebelum=[[Gare de Lille-Europe|Lille-Europe]]|berikut=[[Gare de Calais-Ville|Calais-Ville]]|rute=[[TER Nord-Pas-de-Calais|TER GV]]|col=1e90ff}}
+{{rel|sebelum=[[Gare de Calais-Ville|Calais-Ville]]|berikut=[[Pihen]]|rute=[[TER Nord-Pas-de-Calais]]{{br}}<small>Jalur 11</small>|col=800080}}
+{{rel|sebelum=[[Les Fontinettes]]|berikut=[[Pihen]]|rute=[[TER Nord-Pas-de-Calais]]{{br}}<small>Jalur 12</small>|col=800080}}
+{{end box}}
+
+{{DEFAULTSORT:Calais}}
+{{Fr-rail-stub}}
+
+[[Kategori:Nord]]
+[[Kategori:Stasiun kereta api di Perancis]]
+[[Kategori:Rgion Nord]]
+[[Kategori:Stasiun kereta api Eurostar]]

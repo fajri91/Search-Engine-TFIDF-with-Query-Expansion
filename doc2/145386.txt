@@ -1,0 +1,49 @@
+Bergolo
+{{Infobox Italian comune
+| name                = Bergolo
+| official_name       = Comune di Bergolo
+| native_name         = 
+| image_skyline       = Bergolo wide.jpg
+| imagesize           = 
+| image_alt           = 
+| image_caption       = 
+| image_shield        = 
+| shield_alt          = 
+| image_map           = 
+| map_alt             = 
+| map_caption         = 
+| pushpin_label_position = 
+| pushpin_map_alt     = 
+| latd  = 44 |latm  = 32 |lats  =  |latNS  = N
+| longd = 8 |longm = 11 |longs =   |longEW = E 
+| coordinates_type    = type:city(80)_region:IT
+| coordinates_display = title
+| coordinates_footnotes = 
+| region              = [[Piedmont]]
+| province            = [[Province of Cuneo]] (CN)
+| frazioni            = 
+| mayor_party         = 
+| mayor               = 
+| area_footnotes      = 
+| area_total_km2      = 3.0
+| population_footnotes = 
+| population_total    = 80
+| population_as_of    = Dec. 2004
+| pop_density_footnotes = 
+| population_demonym  = Bergolesi
+| elevation_footnotes = 
+| elevation_m         = 616
+| twin1               = 
+| twin1_country       = 
+| saint               = 
+| day                 = 
+| postal_code         = 12074
+| area_code           = 0173
+| website             = {{official|1=http://www.piemonteweb.it/Com/ComHome.asp?Com=666/}}
+| footnotes           = 
+}}
+
+'''Bergolo''' adalah komune yang terletak di distrik [[Provinsi Cuneo]], [[Italia]]. Kota Bergolo memiliki luas sebesar 3.0 km. Pada tahun 2004, Bergolo memiliki penduduk sebanyak 80 jiwa.
+
+{{Province of Cuneo}}
+{{Cuneo-geo-stub}}

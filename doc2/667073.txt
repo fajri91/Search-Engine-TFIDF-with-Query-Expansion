@@ -1,0 +1,30 @@
+Jalan Nasional Rute 16
+{{Infobox road
+|country=IDN
+|type=Jalan Nasional
+|route=16
+|length_mi=
+|length_km=61
+|direction_a= Utara
+|direction_b= Selatan
+|terminus_a='''[[Bawen, Semarang|Bawen]]'''
+|junction={{rute|14}} [[Jalan Nasional Rute 14]]<br>{{rute|15}} [[Jalan Nasional Rute 15]]
+|terminus_b='''[[Kartasura, Sukoharjo|Kartosuro]]'''
+|previous_type=Jalan Nasional
+|previous_route=15
+|next_type=Jalan Nasional
+|next_route=17
+}}
+'''Jalan Nasional Rute 16''' adalah jalan nasional di [[pulau Jawa]] yang menghubungkan [[Bawen, Semarang|Bawen]] di utara menuju [[Kartasura, Sukoharjo|Kartosuro]] di selatan. Jalan ini merupakan jalan penghubung utama [[Semarang]] - [[Solo]]. Jalan ini juga sejajar dengan rencana [[Jalan Tol Semarang-Solo]] seksi 3, 4 ,dan 5.
+
+==Rute==
+[[Bawen, Semarang|Bawen]]  [[Kota Salatiga|Salatiga]]  [[Boyolali, Boyolali|Boyolali]]  [[Kartasura, Sukoharjo|Kartosuro]]
+
+==Referensi==
+* http://hubdat.dephub.go.id/keputusan-dirjen/tahun-2007/561-keputusan-dirjen-no-sk-930aj/download
+* http://hubdat.dephub.go.id/keputusan-dirjen/tahun-2008/562-peraturan-dirjen-sk-1207aj/download
+
+{{Jalan nasional Indonesia}}
+
+
+[[Kategori:Transportasi di Indonesia]]

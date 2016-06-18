@@ -1,0 +1,80 @@
+Villasis, Pangasinan
+{{tambah infobox|geo-Filipina}}
+[[Image:Ph_locator_pangasinan_villasis.png|right|thumb|Peta menunjukkan lokasi Villasis]]
+{{Philippine Census
+| title= Data sensus penduduk di Villasis
+| 1903=
+| 1918=
+| 1939=
+| 1948=
+| 1960=
+| 1970=
+| 1975=
+| 1980=
+| 1990=
+| 1995= 49657
+| 2000= 54224
+| 2007= 56668
+| estimate=
+| estyear=
+| estref=
+}}
+
+'''Villasis''' adalah [[munisipalitas]] yang terletak di provinsi [[Pangasinan]], [[Filipina]].
+
+Pada tahun [[2010]], munisipalitas ini memiliki populasi sebesar 57.715 jiwa dan 11.001 rumah tangga.
+
+== Pembagian wilayah ==
+
+Secara administratif Villasis terbagi menjadi 21 [[barangay]], yaitu:
+
+{{col|4}}
+* Amamperez
+* Bacag
+* Barangobong
+* Barraca
+* Capulaan
+* Caramutan
+* La Paz
+* Labit
+* Lipay
+* Lomboy
+* Piaz ''(Plaza)''
+* Zone V ''(Pob.)''
+* Zone I ''(Pob.)''
+* Zone II ''(Pob.)''
+* Zone III ''(Pob.)''
+* Zone IV ''(Pob.)''
+* Puelay
+* San Blas
+* San Nicolas
+* Tombod
+* Unzad
+{{EndDiv}}
+
+== Galeri ==
+
+<gallery>
+Berkas:Villasis town hall.jpg|Gedung Balai Kota Villasis di Pangasinan
+</gallery>
+
+== Pranala luar ==
+
+* [http://www.villasis.org Villasinians of East Coast Official Website]
+* [http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [http://www.census.gov.ph/data/sectordata/pop0.html 1995 Philippine Census Information]
+* [http://www.census.gov.ph/census2000/index.html 2000 Philippine Census Information]
+* [http://www.census.gov.ph/data/census2007/index.html 2007 Philippine Census Information (1)]
+* [http://www.census.gov.ph/data/pressrelease/2008/pr0830tx.html 2007 Philippine Census Information (2)]
+* [http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23&frmIdDcfCode=7&fLguType=CM&frmIdRegion=2&frmIdProvince=21&frmIdLgu=324 Local Governance Performance Management System]
+* [http://www.gmanews.tv/video/17278/Kapuso-Mo-Jessica-Soho-Talong-Festival Kapuso Mo, Jessica Soho: Talong Festival - 26 January 2008]
+
+{{coord|15|54|N|120|35|E|type:city_source:GNS-enwiki|display=title}}
+{{Pangasinan}}
+
+[[Kategori:Pangasinan]]
+[[Kategori:Munisipalitas di Pangasinan]]
+[[Kategori:Munisipalitas di Filipina]]
+
+
+{{Filipina-geo-stub}}

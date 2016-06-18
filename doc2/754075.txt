@@ -1,0 +1,11 @@
+Templat:Pengguna origami
+{{userbox
+|logo            = [[Berkas:Origami - Crane.svg|60px]]
+|info            = <center>Pengguna ini adalah peminat '''[[origami]]'''.</center>
+|border-color    = #ccccff
+|logo-background = #F4A460
+|info-background = #F4A460
+}}{{#if:{{{kat|}}}||<includeonly>
+[[Kategori:Pengguna peminat origami|{{PAGENAME}}]]</includeonly>}}<noinclude>
+[[Kategori:Templat kotak pengguna Wikipedia|Origami]]
+</noinclude>

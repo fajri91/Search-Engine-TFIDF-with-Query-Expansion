@@ -1,0 +1,29 @@
+Templat:Kunjungi/doc
+{{Subhalaman dokumentasi}}
+<!-- TAMBAHKAN KATEGORI DAN PRANALA ANTARBAHASA DI BAGIAN PALING BAWAH HALAMAN INI -->
+Templat ini digunakan sebagai undangan pada pengguna lain untuk mengunjungi halaman diskusi artikel ataupun ''Warung Kopi'' ataupun suatu acara diskusi yang berkaitan dengan kegiatan di proyek-proyek [[Wikimedia]] yang ingin Anda diskusikan. Kunjungi juga [[Wikipedia:Penganvasan]] untuk keterangan lebih lanjut mengenai penggunaan templat ini.
+
+Gunakan selalu templat ini pada halaman pembicaraan pengguna.
+
+{{catatan}} Jangan lupa untuk membubuhkan tanda tangan setelah menaruh templat ini.
+
+=== Penggunaan ===
+Tambahkan acara/tujuan diskusi pada templat :
+<pre>{{kunjungi|Ruang pembicaraan artikel tujuan (atau Warkop tujuan)|Nama pengguna yang mengundang}}
+</pre>
+
+=== Lihat pula ===
+* {{tl|Talkback}}
+* {{tl|Tb2}}
+
+<includeonly>
+[[Kategori:Templat bicara pengguna]]
+
+[[ar::]]
+[[as::Pls]]
+[[en:Template:Please see]]
+[[fa::]]
+[[or::Please see]]
+[[si:: ]]
+[[zh:Template:Please see]]
+</includeonly>

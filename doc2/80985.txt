@@ -1,0 +1,12 @@
+Templat:Pengguna birokrat
+{{userbox|#878787|#DBDBDB|[[Berkas:Wikipedia bureaucrat.svg|40px]]|<center>Pengguna ini adalah '''[[Wikipedia:birokrat|birokrat]]''' di [[Wikipedia Indonesia]]. {{#if:{{{1|}}}|<span style="font-size:0.9em;" class="plainlinks">([{{fullurl:{{{lang_code|en}}}:Istimewa:Daftar_pengguna|limit=1&username={{urlencode:{{{username|{{BASEPAGENAME}}}}}}}}} <span style="color:#5871C6;">verifikasi{{#if:{{{lang_code|}}}|&nbsp;{{{lang_code}}}|}}</span>])</span>|<span style="font-size:0.9em;" class="plainlinks">([{{fullurl:Istimewa:Daftar_pengguna|limit=1&username={{urlencode:{{{username|{{BASEPAGENAME}}}}}}}}} <span style="color:#5871C6;">verifikasi</span>])</span>}}
+}}{{#if:{{{kat|}}}||<includeonly>
+[[Kategori:Birokrat Wikipedia|{{PAGENAME}}]]</includeonly>}}<noinclude>__NOTOC__ __NOEDITSECTION__
+[[Kategori:Templat userbox status|Birokrat Wikipedia]]
+[[Kategori:Templat kotak pengguna Wikipedia|Birokrat Wikipedia]]
+{{Interproyek|
+* [[wikt:{{FULLPAGENAME}}|Wiktionary]]
+* [[b:{{FULLPAGENAME}}|Wikibooks]]
+* [[q:{{FULLPAGENAME}}|Wikiquote]]
+* [[s:{{FULLPAGENAME}}|Wikisource]]
+}}</noinclude>

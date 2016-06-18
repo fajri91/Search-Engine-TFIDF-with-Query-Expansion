@@ -1,0 +1,14 @@
+Berkas:Rumpon1.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+http://1.bp.blogspot.com/-HsXh4Ejd7Cs/UGRAQg-FgJI/AAAAAAAAACw/e44EQiO6th0/s1600/rumpon1.jpg
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Fairuse}}

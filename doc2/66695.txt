@@ -1,0 +1,283 @@
+Shogi
+{{Infobox Game
+  | subject_name  = Shogi
+  | image_link    = [[Berkas:Shogi Ban Koma.jpg|3|none|250px|Papan dan buah shogi]]
+  | image_caption = Papan shogi (''shgi-ban'') tradisional dan susunan buah shogi (''koma'') sebelum permainan dimulai. Di wilayah yang berseberangan diperlihatkan buah shogi yang sudah naik pangkat.
+  | players       = 2
+  | ages          = 5+
+  | setup_time    = 
+  | playing_time  = 
+  | complexity    = sedang
+  | strategy      = sangat tinggi
+  | random_chance = tidak ada
+  | skills        = taktik, strategi
+}}
+{{nihongo|'''Shogi'''||shgi}} atau '''catur Jepang''' adalah [[permainan papan]] dari [[Jepang]] yang dimainkan oleh dua orang di atas papan 9 lajur dan 9 baris yang berwarna sama. Permainan ini diperkirakan berasal dari permainan [[India]] kuno yang disebut [[caturangga]], dan termasuk dalam permainan papan berstrategi yang sekelompok dengan [[catur]], [[janggi]] dari [[Korea]], dan [[xiangqi]] dari [[Cina]]. Di seluruh dunia, shogi diperkirakan menempati urutan ketiga dalam jumlah pemain setelah catur dan xiangqi.<ref>{{cite book
+|last = Okano
+|first = Shin
+|title = Sekai no omona shgi ()
+|publisher = Prin-Print
+|year = 1999
+|quote=Permainan catur yang paling populer menurut perkiraan jumlah pemain, [[catur|chess]] dan [[xiangqi]] masing-masing sekitar 500 juta orang, shogi sekitar 15 juta, [[janggi]] sekitar 7 juta, dan [[makruk]] dari Thailand sekitar 5 juta.}}</ref><ref>{{cite book
+|last = Tanaka
+|first = Torahiko
+|title = Shgikai no shins ()
+|publisher = Kawade Shobo Shinsha
+|year =
+|quote=Ditambah [[shatar]] dari Mongolia, ''chess'', xiangqi, shogi, dan makruk adalah "lima jenis permainan catur yang paling banyak dimainkan" di dunia.
+|isbn=4309267963}}</ref>
+
+Ciri khas shogi yang sangat membedakannya dari catur adalah sistem '''memainkan kembali''' buah lawan yang sudah ditangkap. Walaupun sudah naik pangkat, buah yang tertangkap akan kembali ke pangkat semula. Buah lawan yang tertangkap menjadi milik pihak yang menangkap, dan dapat diletakkan kembali di atas papan untuk memerangi mantan majikan.
+
+Kedua belah sisi yang bermain dibedakan menjadi {{nihongo|''sente''|}} dan {{nihongo|''gote''|}}. Pemain ''sente'' memainkan langkah pertama, diikuti pemain ''gote'', begitu seterusnya secara bergantian hingga selesai. Sama halnya dengan catur, permainan ini dimenangkan setelah mematikan raja lawan (mencapai posisi [[skak mat]]). Dalam istilah shogi, skak mat disebut {{nihongo|''tsumi''|}}. Dengan adanya sistem memainkan kembali buah lawan yang sudah ditangkap, kemungkinan [[remis (catur)|remis]] adalah sangat kecil.
+
+== Peralatan ==
+Papan permainan bergaris-garis 9 lajur dan 9 baris. Kotak permainan tidak dibedakan dengan tanda atau [[warna]]. Di sisi kanan masing-masing pemain pemain terdapat tempat buah shogi (''komadai'') untuk meletakkan buah lawan yang sudah ditangkap.
+
+Buah shogi berbentuk segi lima dengan ujung lancip di bagian depan yang dipakai untuk membedakan lawan atau kawan. Bagian depan yang berujung lancip diletakkan menghadap ke arah wilayah lawan. Buah pion sering dibuat lebih kecil. Buah shogi tidak dibedakan dengan warna, melainkan dengan [[pangkat]] yang ditulis dengan aksara [[kanji]] di atas permukaan buah permainan. Selain buah raja dan jenderal emas, setiap buah shogi memiliki dua pangkat yang berbeda di kedua belah sisi. Pangkat ditulis di permukaan buah permainan dengan memakai [[tinta]] [[hitam]]. Pemain amatir sering memainkan buah shogi yang salah satu permukaannya ditulis dengan tinta [[merah]] untuk menunjukkan kenaikan pangkat.
+
+Setiap pemain diberi satu set buah shogi yang berjumlah 20 buah. Sebagian dari pangkat setara dengan pangkat dalam catur ([[benteng (catur)|benteng]], [[kuda (catur)|kuda]], [[gajah (catur)|gajah]]. [[pion]]), namun shogi tidak memiliki [[ratu (catur)|ratu]] (''queen''). Berikut ini adalah delapan jenis buah shogi, dari urutan yang terkuat hingga terlemah:
+* 1 {{nihongo|raja||gyakush atau sh}}
+* 1 {{nihongo|benteng||hisha}}
+* 1 {{nihongo|menteri||kakugy}}
+* 2 {{nihongo|jenderal emas||kinsh}}
+* 2 {{nihongo|jenderal perak||ginsh}}
+* 2 {{nihongo|ksatria/kuda||keima}}
+* 2 {{nihongo|tombak||kysha}}
+* 9 {{nihongo|pion/prajurit||fuhy}}
+Semua nama di atas bukanlah terjemahan resmi, melainkan terjemahan harfiah dengan nama yang setara dengan nama buah catur internasional.
+
+Dalam [[perangkat lunak]] untuk bermain shogi, buah shogi milik ''sente'' berada di layar bagian bawah. Dalam [[notasi shogi]], langkah ''sente'' dilambangkan oleh [[Berkas:Shogi kifu sente.png|14px]] dan langkah gote dilambangkan oleh [[Berkas:Shogi kifu gote.png|14px]]. Bila [[sistem operasi]] tidak memiliki kedua lambang tersebut, maka dipakai  untuk melambangkan ''sente'' dan  untuk ''gote''.
+
+== Peraturan ==
+=== Peraturan dasar ===
+* Pemain meletakkan buah permainan di 3 baris wilayah sendiri:
+** Baris pertama:{{br}}<u>{{overline|<nowiki>|tombak|kuda|jenderal perak|jenderal emas|raja|jenderal emas|jenderal perak|kuda|tombak|</nowiki>}}</u>.
+** Baris kedua: menteri di lajur yang sama dengan kuda kiri, benteng di lajur yang sama dengan kuda kanan.
+** Baris ketiga: pion.
+* Dalam satu kotak hanya boleh ditempati satu buah permainan.
+* Buah permainan melangkah ke kotak yang boleh ditempati sesuai dengan ketentuan cara melangkah untuk masing-masing pangkat. 
+** Bila di kotak yang boleh ditempati sudah ada buah lawan, maka buah lawan diambil, dan menjadi milik pemain yang menangkap. Walaupun sudah naik pangkat, buah yang tertangkap kembali ke pangkat semula.
+** Bila di kotak yang boleh ditempati sudah ada buah permainan sendiri, maka kotak tersebut tidak bisa dimasuki.
+* Pemain hanya boleh melangkah sekali. Meletakkan kembali buah lawan yang sudah tertangkap disebut ''utsu'' ([[bahasa Inggris]]: ''drop''), dan dihitung sebagai satu langkah. Sewaktu melakukan ''utsu'', pion hanya bisa dipakai untuk [[skak]], tapi tidak dapat dipakai untuk [[skak mat]]. Selain pion, buah tawanan yang lain boleh dipakai untuk skak mat.
+** Ketika giliran tiba, pemain harus memilih untuk melangkah atau ''utsu'' di kotak kosong. Dilarang melangkah dua kali atau melewatkan giliran.
+** Pemain langsung dinyatakan kalah bila melangkahkan buah permainan sebanyak dua kali atau melewatkan giliran.
+* Buah lawan yang tertangkap dapat diletakkan di sembarang kotak kosong, kecuali:
+** Kuda tidak boleh diletakkan di baris pertama (baris paling belakang) atau baris kedua wilayah lawan. Pion dan tombak tidak boleh diletakkan kembali di baris pertama wilayah lawan. Pelarangan ini sesuai dengan peraturan untuk tidak meletakkan buah yang tidak bisa dijalankan. Pion juga tidak boleh diletakkan kembali di suatu lajur, bila di lajur tersebut telah ada pion milik sendiri (pion yang belum naik pangkat).
+* Kecuali [[raja (shogi)|raja]] dan jenderal emas, semua buah shogi naik pangkat (disebut ''naru'') bila sampai di salah satu kotak pada 3 baris paling belakang wilayah lawan.
+** Sewaktu naik pangkat, [[benteng (shogi)|benteng]] menjadi raja naga, [[menteri (shogi)|menteri]] menjadi kuda naga, jenderal perak menjadi jenderal perak berpangkat tinggi (''narigin''), [[kuda (shogi)|kuda]] menjadi kuda berpangkat tinggi (''narikei''), tombak menjadi tombak berpangkat tinggi (''nariky''), dan pion menjadi ''tokin''. Setelah menerima kenaikan pangkat, cara melangkah juga ikut berubah. 
+** Kenaikan pangkat ditandai dengan membalik buah shogi untuk menunjukkan pangkat baru.
+** Bila memainkan buah lawan yang sudah ditangkap, buah tersebut tidak langsung naik pangkat, walaupun diletakkan di dalam 3 baris wilayah lawan. Kenaikan pangkat harus menunggu giliran berikutnya.
+** Buah shogi yang sudah naik pangkat tidak bisa kembali ke cara melangkah yang lama.
+* Kenaikan pangkat bukan keharusan. Bergantung kepada langkah selanjutnya yang dapat diambil, pemain dapat memilih untuk tidak menaikkan pangkat untuk buah tersebut.
+** Bila buah shogi sudah diputuskan tidak naik pangkat, maka buah tersebut dapat naik pangkat pada kesempatan berikutnya memasuki wilayah lawan.
+** Kuda harus naik pangkat ketika sampai di baris pertama atau baris kedua wilayah lawan, sementara tombak dan prajurit harus naik pangkat ketika sampai di baris pertama wilayah lawan. Bila tidak naik pangkat, maka mereka kehilangan tempat untuk melangkah.
+
+=== Cara melangkah ===
+{| border="1" cellspacing="0" cellpadding="3"
+|-tr bgcolor="#dddddd"
+!Nama buah||colspan="2"|Gerakan||Kenaikan pangkat||colspan="2"|Gerakan
+|-
+|[[Raja (shogi)|Raja]] atau {{nihongo|||gyokush}}{{br}}{{nihongo|sh|}}{{br}}alias: {{nihongo|||gyoku}} atau {{nihongo|||}}{{br}}[[Berkas:Shogi king.jpg|90px]]||
+{|border="1" cellspacing="0" cellpadding="3"
+|-
+|align="center" width="16"|||align="center" width="16"|||align="center" width="16"|
+|-
+|align="center" width="16"|||''''''||align="center" width="16"|
+|-
+|align="center" width="16"|||align="center" width="16"|||align="center" width="16"|
+|-
+|}
+||Selangkah ke semua arah||align="center"|-||align="center"|-||align="center"|-
+|-
+|[[Benteng (shogi)|Benteng]] atau {{nihongo|||hisha}}{{br}}alias: {{nihongo|hi|}}{{br}}[[Berkas:Shogi rook.jpg|90px]]||
+{|border="1" cellspacing="0" cellpadding="3"
+|-
+|align="center" width="16"|&nbsp;||align="center" width="16"|||align="center" width="16"|&nbsp;
+|-
+|align="center" width="16"|||''''''||align="center" width="16"|
+|-
+|align="center" width="16"|&nbsp;||align="center" width="16"|||align="center" width="16"|&nbsp;
+|-
+|}
+||[[Vertikal]] dan [[horizontal]], maju atau mundur, jumlah kotak: bebas.{{br}}Tidak dapat melangkahi buah lain||{{nihongo|Raja naga||ry}}{{br}}{{nihongo|naga||ry}}{{br}}[[Berkas:Shogi rook p.jpg|90px]]||
+{|border="1" cellspacing="0" cellpadding="3"
+|-
+|align="center" width="16"|||align="center" width="16"|||align="center" width="16"|
+|-
+|align="center" width="16"|||''''''||align="center" width="16"|
+|-
+|align="center" width="16"|||align="center" width="16"|||align="center" width="16"|
+|-
+|}
+||Seperti benteng + jenderal perak
+|-
+|[[Menteri (shogi)|Menteri]] {{nihongo|||kakugy}}{{br}}{{nihongo|kaku|}}{{br}}[[Berkas:Shogi bishop.jpg|90px]]||
+{|border="1" cellspacing="0" cellpadding="3"
+|-
+|align="center" width="16"|||align="center" width="16"|&nbsp;||align="center" width="16"|
+|-
+|align="center" width="16"|&nbsp;||''''''||align="center" width="16"|&nbsp;
+|-
+|align="center" width="16"|||align="center" width="16"|&nbsp;||align="center" width="16"|
+|}
+||[[Diagonal]], jumlah kotak: bebas{{br}}Tidak dapat melangkahi buah lain||{{nihongo|Kuda naga||ryme atau ryma}}{{br}}alias: {{nihongo|kuda||uma}}{{br}}[[Berkas:Shogi bishop p.jpg|90px]]||
+{| border="1" cellspacing="0" cellpadding="3"
+|-
+|align="center" width="16"|||align="center" width="16"|||align="center" width="16"|
+|-
+|align="center" width="16"|||''''''||align="center" width="16"|
+|-
+|align="center" width="16"|||align="center" width="16"|||align="center" width="16"|
+|}
+||Seperti menteri + jenderal emas
+|-
+|[[Jenderal emas]] {{nihongo|||kinsh}}{{br}}alias: {{nihongo|kin|}}{{br}}[[Berkas:Shogi gold.jpg|90px]]||
+{| border="1" cellspacing="0" cellpadding="3"
+|-
+|align="center" width="16"|||align="center" width="16"|||align="center" width="16"|
+|-
+|align="center" width="16"|||''''''||align="center" width="16"|
+|-
+|align="center" width="16"|&nbsp;||align="center" width="16"|||align="center" width="16"|&nbsp;
+|}
+||Selangkah horizontal (kiri/kanan), atau selangkah vertikal (depan/belakang), atau selangkah diagonal hanya ke depan
+|align="center"|-||align="center"|-||align="center"|-
+|-
+|[[Jenderal perak]] {{nihongo||ginsh}}{{br}}alias {{nihongo|gin|}}{{br}}[[Berkas:Shogi silver.jpg|90px]]||
+{| border="1" cellspacing="0" cellpadding="3"
+|-
+|align="center" width="16"|||align="center" width="16"|||align="center" width="16"|
+|-
+|align="center" width="16"|&nbsp;||''''''||align="center" width="16"|&nbsp;
+|-
+|align="center" width="16"|||align="center" width="16"|&nbsp;||align="center" width="16"|
+|}
+||Selangkah ke depan, atau selangkah diagonal (ke depan atau ke belakang)||{{nihongo|Jenderal perak berpangkat||narigin}}{{br}}[[Berkas:Shogi silver p.jpg|90px]]||
+{| border="1" cellspacing="0" cellpadding="3"
+|-
+|align="center" width="16"|||align="center" width="16"|||align="center" width="16"|
+|-
+|align="center" width="16"|||''''''||align="center" width="16"|
+|-
+|align="center" width="16"|&nbsp;||align="center" width="16"|||align="center" width="16"|&nbsp;
+|}
+||Seperti jenderal emas
+|-
+|[[Kuda (shogi)|Kuda]] {{nihongo|||keima}}{{br}}alias: {{nihongo|kei|}}{{br}}[[Berkas:Shogi knight.jpg|90px]]||
+{| border="1" cellspacing="0" cellpadding="3"
+|-
+|align="center" width="16"|||align="center" width="16"|&nbsp;||align="center" width="16"|
+|-
+|align="center" width="16"|&nbsp;||align="center" width="16"|&nbsp;||align="center" width="16"|&nbsp;
+|-
+|align="center" width="16"|&nbsp;||''''''||align="center" width="16"|&nbsp;
+|}
+||Dua langkah vertikal ke depan dan 1 langkah horizontal ke kiri atau ke kanan. Tidak dapat mundur, namun dapat melangkahi buah lain.||{{nihongo|Kuda berpangkat||narikei}}{{br}}[[Berkas:Shogi knight p.jpg|90px]]||
+{| border="1" cellspacing="0" cellpadding="3"
+|-
+|align="center" width="16"|||align="center" width="16"|||align="center" width="16"|
+|-
+|align="center" width="16"|||''''''||align="center" width="16"|
+|-
+|align="center" width="16"|&nbsp;||align="center" width="16"|||align="center" width="16"|&nbsp;
+|}
+||Seperti jenderal emas
+|-
+|[[Tombak (shogi)|Tombak]] {{nihongo|||kysha}}{{br}}alias {{nihongo|ky|}}{{br}}[[Berkas:Shogi lance.jpg|90px]]||
+{| border="1" cellspacing="0" cellpadding="3"
+|-
+|align="center" width="16"|&nbsp;||align="center" width="16"|||align="center" width="16"|&nbsp;
+|-
+|align="center" width="16"|{{Color|white|}}||''''''||align="center" width="16"|{{Color|white|}}
+|-
+|align="center" width="16"|&nbsp;||align="center" width="16"|&nbsp;||align="center" width="16"|&nbsp;
+|}
+||Hanya melangkah ke depan, jumlah kotak: bebas{{br}}Tidak dapat melangkahi buah lain||{{nihongo|Tombak berpangkat||nariky}}{{br}}[[Berkas:Shogi lance p.jpg|90px]]||
+{| border="1" cellspacing="0" cellpadding="3"
+|-
+|align="center" width="16"|||align="center" width="16"|||align="center" width="16"|
+|-
+|align="center" width="16"|||''''''||align="center" width="16"|
+|-
+|align="center" width="16"|&nbsp;||align="center" width="16"|||align="center" width="16"|&nbsp;
+|}
+||Seperti jenderal emas
+|-
+|[[Pion (shogi)|Pion]] {{nihongo||Fuhy}}{{br}}alias: {{nihongo||fu}}{{br}}[[Berkas:Shogi pawn.jpg|90px]]||
+{| border="1" cellspacing="0" cellpadding="3"
+|-
+|align="center" width="16"|&nbsp;||align="center" width="16"|||align="center" width="16"|&nbsp;
+|-
+|align="center" width="16"|{{Color|white|}}||''''''||align="center" width="16"|{{Color|white|}}
+|-
+|align="center" width="16"|&nbsp;||align="center" width="16"|&nbsp;||align="center" width="16"|&nbsp;
+|}
+||Selangkah ke depan dan hanya memakan buah yang ada vertikal yang di depannya||{{nihongo|Tokin|}}{{br}}alias: {{nihongo||to}} [[Berkas:Shogi pawn p.jpg|90px]]||
+{| border="1" cellspacing="0" cellpadding="3"
+|-
+|align="center" width="16"|||align="center" width="16"|||align="center" width="16"|
+|-
+|align="center" width="16"|||align="center" width="16"|''''''||align="center" width="16"|
+|-
+|align="center" width="16"|&nbsp;||align="center" width="16"|||align="center" width="16"|&nbsp;
+|}
+||Seperti jenderal emas
+|}
+
+== Handikap ==
+Dalam pertandingan antarpemain dengan peringkat yang berbeda, [[handikap]] diberikan kepada pemain yang berperingkat lebih tinggi. Pemain yang pertama kali melangkah (''sente'') adalah pemain yang berperingkat lebih rendah.
+
+Pertandingan antarpemain berperingkat sama disebut {{nihongo|''hirate''|}}. Penentuan ''sente''/''gote'' dilakukan dengan ''furigoma'' (mengocok buah permainan). Salah seorang pemain mengambil 5 buah pion. Setelah diguncang-guncang di dalam kedua belah tangan, kelima pion dijatuhkan ke atas meja atau lantai. Bila sisi {{nihongo||fu}} adalah sisi yang terbanyak dari kelima pion, maka pemain yang mengguncang pion menjadi ''sente''. Sebaliknya, bila ''fu'' adalah sisi yang keluar paling sedikit atau sama sekali tidak ada, kesempatan melangkah pertama diberikan kepada lawan.
+
+Bila peringkat pemain sangat berbeda, maka handikap berupa pengurangan buah permainan dikenakan terhadap pemain yang berperingkat lebih tinggi. Dalam pertandingan seperti ini, pemain dengan handikap disebut {{nihongo|''uwate''|}} dan lawan yang lemah disebut {{nihongo|shitate|}}. Bergantung kepada peringkat pemain yang dikenakan handikap, buah permainan yang tidak diikutsertakan mulai dari 2 buah permainan (benteng dan menteri) hingga 10 buah permainan.
+
+== Varian ==
+{{utama|Varian shogi}}
+Selain di atas papan 9 lajur dan 9 baris, shogi memiliki berbagai variasi permainan dengan ukuran papan, jumlah buah shogi, dan pangkat yang berbeda.
+=== Papan kecil ===
+* [[Microshogi]] (45)
+* [[Minishogi]] (55)
+* [[Kyoto shogi]] (55)
+* [[Judkins shogi]] (66)
+* [[Whale shogi]] (66)
+* [[Tori shogi]] (77)
+* [[Yari shogi]] (79)
+* [[Heian shogi]] (88 atau 98)
+
+=== Papan standar ===
+* Shogi (9x9) (shogi standar)
+* [[Sho shogi]] (99)
+* [[Cannon shogi]] (99)
+* [[Hasami shogi]] (99)
+* [[Hand shogi]] (99)
+* [[Annan shogi]] (99)
+* [[Unashogi]] (99)
+
+=== Papan besar ===
+* [[Wa shogi]] (1111)
+* [[Chu shogi]] (1212)
+* [[Heian dai shogi]] (1313)
+* [[Dai shogi]] (1515)
+* [[Tenjiku shogi]] (1616)
+* [[Dai-dai shogi]] (1717)
+* [[Maka-dai-dai shogi]] (1919)
+* [[K shgi]] (1919)
+* [[Tai shogi]] (2525)
+* [[Taikyoku shogi]] (3636)
+
+=== 3 dan 4 orang ===
+* [[Sannin shogi]] (papan heksagonal 7x7x7 untuk 3 orang)
+* [[Yonin shogi]] (99) (shogi 4 orang)
+
+== Referensi ==
+{{reflist}}
+
+== Pranala luar ==
+* {{ja}} [http://www.shogi.or.jp/ Asosiasi Shogi Jepang]
+* {{ja}} [http://joshi-shogi.com/ Asosiasi Peshogi Putri Profesional Jepang]
+* {{en}} [http://www.crockford.com/chess/shogi.html Pengantar shogi untuk pemain catur]
+
+[[Kategori:Permainan papan]]
+[[Kategori:Catur]]
+[[Kategori:Kata dan frasa Jepang]]

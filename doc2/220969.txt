@@ -1,0 +1,30 @@
+Kosakata Sino-Jepang
+'''Kosakata Sino-Jepang''' atau {{nihongo|'''kango'''||kata bahasa Tionghoa}} adalah [[kosakata]] asal [[bahasa Tionghoa]] yang dijadikan [[kata serapan]] dalam [[bahasa Jepang]], atau kata-kata yang dibuat di [[Jepang]] dengan menggabungkan aksara [[kanji]] (''wasei kango''). Kata-kata dari bahasa Tionghoa semuanya dibaca menurut bacaan Kanji (''[[on'yomi]]'') untuk masing-masing karakter. Nama lain untuk ''kango'' adalah {{nihongo|'''kanjigo'''|}}. Selain dalam bahasa Jepang, kosakata dari bahasa Tionghoa juga dikenal dalam [[bahasa Korea]] dan [[bahasa Vietnam]] yang sama-sama dipengaruhi budaya kanji.
+
+Kosakata Sino-Jepang merupakan salah satu dari tiga kategori kosakata dalam bahasa Jepang modern selain [[kosakata asli Jepang]] (''wago'' atau ''yamato kotoba''), [[kosakata dari bahasa asing dalam bahasa Jepang|kosakata dari bahasa asing]] (''gairaigo''), dan [[kata hibrida]] (''konshugo''). Kata-kata asli Jepang misalnya: ''yama'' (), ''kawa'' (), ''sakura'' (), ''kotoba'' () yang semuanya adalah ''[[kanji|kun'yomi]]''. 
+Kosakata Sino-Jepang hampir semua terdiri dari [[kata benda]], misalnya: {{nihongo|''gengo''|||bahasa}}, {{nihongo|''kasen''|||sungai-sungai}}, {{nihongo|dbutsu|||hewan}}. 
+
+Selain itu, bahasa Jepang mengenal kosakata yang berasal dari penggabungan aksara kanji (''wasei kango''), misalnya: {{nihongo|''shizen''|||alam}},{{nihongo|''bungaku''|||sastra}}, {{nihongo|''enzetsu''|||pidato}}, {{nihongo|''tetsugaku''|||filsafat}}, dan {{nihongo|''koten''||klasik}}. Kata-kata asli Jepang seperti ''ohone'' (, lobak) dan ''hinokoto'' (, kebakaran) memiliki padanan dalam ''wasei kango'':  (daikon) dan  (''kaji'').
+
+== Sejarah ==
+Kata-kata bahasa Tionghoa diperkirakan pertama kali dikenal orang Jepang sekitar abad 1 Masehi, atau mungkin sejak lama sebelumnya. Dalam ''[[Nihon Shoki]]'' ([[720|720 M]]) dijelaskan bahwa introduksi bahasa Tionghoa secara sistematis berlangsung sekitar tahun [[400|400 M]] setelah buku-buku berbahasa Tionghoa dibawa cendekiawan Korea yang pergi ke Jepang.<ref name=shibatani>{{cite book|title=The Languages of Japan|last=Shibatani|first=Masayoshi|authorlink=|coauthors=|year=1990|publisher=Cambridge University Press|location=|isbn=0-5213-6918-5|page=142-145|pages=}}</ref> Aksara Tionghoa dalam bentuk [[kanbun]] dipakai untuk menulis dokumen resmi dan karya sastra, sehingga secara bertahap kosakata bahasa Tionghoa terserap ke dalam bahasa Jepang. Setelah [[Restorasi Meiji]], kebudayaan Barat mengalir masuk ke Jepang. Penerjemahan dilakukan secara besar-besaran untuk konsep abstrak dan benda-benda yang baru dikenal, misalnya: {{nihongo|''kagaku''|||ilmu}}, {{nihongo|''shakai''|||masyarakat}}, {{nihongo|''hikki''|||pesawat terbang}}, dan {{nihongo|''jidsha''|||mobil}}.
+
+Sekitar 60 persen dari entri [[kamus Jepang]] ''[[Genkai (kamus)|Genkai]]'' ([[1859]]) adalah kosakata dari bahasa Tionghoa.<ref name=shibatani /> [[Institut Nasional Bahasa Jepang]] mengadakan penelitian terhadap kosakata yang dipakai dalam majalah-majalah Jepang terbitan [[1956]]. Hasil penelitian menunjukkan jumlah kosakata dari bahasa Tionghoa jauh melebihi jumlah kosakata asli Jepang. Kosakata bahasa Jepang terdiri dari 36,7% kosakata asli Jepang, 47,5% kosakata dari bahasa Tionghoa, 9,8% kosakata asal bahasa asing, dan kosakata hibrida 6,0%.<ref>{{cite book|title=Gendai Zasshi Kyjusshu no Ygo Yji ()|last=|first=|authorlink=|coauthors=|year=|publisher=|location=|isbn= }}</ref>
+
+Hasil penelitian serupa oleh institut yang sama pada tahun [[1994]] menunjukkan pemakaian kosakata asli Jepang dan kosakata dari bahasa Tionghoa yang semakin menurun. Kosakata asli Jepang hanya sekitar 25,7%, kosakata dari bahasa Tionghoa 34,2%, kosakata asal bahasa asing 33,8%, dan kosakata hibrida 6,4%.<ref>{{cite web |title=''Gendai Zasshi 2.000.000-ji Gengo Chsa Goi-hy ()|url=http://www.kokken.go.jp/katsudo/seika/goityosa/index.html |date= |work= |publisher= |accessdate=2009-11-18}}</ref> 
+
+Kamus Jepang ''[[Shinsen Kokugo Jiten]]'' edisi 8 tahun 2002 berisi 73.181 entri yang terdiri dari kosakata asli Jepang: 24.708 entri (33,8%), kosakata dari bahasa Tionghoa: 35.928 entri (49,1%), kosakata asal bahasa asing: 6.415 entri (8,8%), dan kosakata hibrida: 6.130 entri (8,4%).<ref>{{cite book|title=Shinsen Kokugo Jiten ()|editor=Kysuke Kindaichi, et.al.|year=2002|publisher=Shogakukan|location=Tokyo|isbn=|page=|pages= }}</ref>
+
+== Referensi ==
+{{reflist}}
+
+== Lihat pula ==
+* [[Kosakata dari bahasa Belanda dalam bahasa Jepang]]
+* [[Kosakata dari bahasa Portugis dalam bahasa Jepang]]
+* [[Wasei-eigo]]
+
+{{DEFAULTSORT:Sino-Jepang, Kosakata}}
+
+[[Kategori:Bahasa Jepang]]
+
+[[zh:]]

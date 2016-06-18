@@ -1,0 +1,14 @@
+Berkas:SweetHeartDewiMarfa.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+Sumber:http://www.nagaswarafm.com/jejak-luka-dewi-marfa.php
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{SampulAlbum}}

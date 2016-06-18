@@ -1,0 +1,60 @@
+Kereta api Malang Ekspres
+{{Kotak info jalur kereta api
+| box_width   = 
+| name        = Kereta Api Malang Ekspres
+| color       = 
+| logo        = 
+| logo_width  =
+| image       = Malang Express.jpg
+| image_width = 310
+| caption     = <small>KA Malang Ekspres di [[Stasiun Malang]]</small>
+| type = Bisnis
+| system = Kereta api ekspres
+| status = Tidak beroperasi
+| locale = Daop 8 Surabaya
+| start = [[Stasiun Surabaya Kota]]
+| end = [[Stasiun Malang]]
+| stations = 9 (lihat peta rute)
+| routes = 1
+| ridership =
+| routenumber = 
+| linenumber =
+| open = September 2006
+| close = 1 Desember 2009
+| reopen = -
+| owner = [[PT Kereta Api Indonesia]]
+| operator = [[PT Kereta Api Indonesia]]
+| character =
+| depot = Malang (ML)
+| stock = [[CC201|CC 201]], [[CC203|CC 203]], [[CC204|CC 204]]
+| linelength = 164 Km
+| tracklength =  
+| notrack = 
+| gauge = 1067 mm
+| el = -
+| speed = 60 s/d 70 Km/jam
+| elevation = +493 m [[Stasiun Lawang]]
+| map = {{KA Malang Ekpsres}}
+}}
+'''Kereta api Malang Ekspres''' diluncurkan bulan September tahun 2006 sebagai alat transportasi alternatif tujuan [[Stasiun Surabaya Kota|Surabaya Kota]] -[[Stasiun Malang|Malang]] setelah adanya peristiwa [[semburan lumpur panas di Sidoarjo]]. Kereta ini melayani perjalanan dengan kelas bisnis dan dijalankan sekali sehari .
+
+Kereta api ini berhenti di [[Stasiun Wonokromo]], [[Stasiun Sidoarjo|Sidoarjo]], [[Stasiun Bangil|Bangil]], [[Stasiun Lawang|Lawang]], [[Stasiun Singosari|Singosari]], dan [[Stasiun Blimbing|Blimbing]].
+
+Sejak 1 Desember 2009, kereta api ini dihentikan pengoperasiannya karena okupansi penumpangnya di bawah rata-rata. Dan kini bekas rangkaiannya digunakan untuk rangkaian kereta api [[Kereta api Senja Kediri|Senja Kediri]] jurusan Malang-Pasarsenen lewat Semarang.
+Sisa rangkaianya diletakkan di Dipo Malang.
+
+Empat tahun setelah penghentian operasional kereta ini, PT KA Daop 8 Surabaya membuka lagi kereta ekspres rute Surabaya-Malang dengan nama Kereta Api [[Kereta api Penataran Ekspres|Penataran Ekspres]]. Kereta ini menggunakan rangkaian KA Penataran yang sudah diberi fasilitas pendingin udara (AC) dan hanya berhenti di stasiun-stasiun besar saja.
+
+== Pranala luar ==
+* {{id}} [http://www.kereta-api.com/ Situs resmi] PT Kereta Api (Persero)
+
+== Lihat pula ==
+* [[Kereta Api (perusahaan)|PT Kereta Api (Persero)]]
+* [[Kereta api Cantik Ekspres|Cantik Ekspres]]
+* [[Kereta api Madiun Ekspres|Madiun Ekspres]]
+
+{{DaftarKeretaApi}}
+
+{{kereta-stub}}
+
+[[Kategori:Kereta api di Indonesia|Malang Ekspres]]

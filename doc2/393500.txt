@@ -1,0 +1,24 @@
+Siafu (komputer)
+{{rapikan}}
+
+'''Siafu''' merupakan komputer pertama yang dirancang secara khusus untuk pengguna [[tuna netra]] yang dikembangkan oleh Jonathan Lucas. Asal kata Siafu sendiri berasal dari bahasa [[Afrika]] yang artinya semut buta. Perangkat ini mendukung penggunaan dalam beberapa modus sehingga memungkinkan pengguna melakukan banyak hal yang dibutuhkan terkait dengan pemanfaatan komputer secara umum melalui sentuhan secara langsung. Komputer ini mengatasi keterbatasan yang selama ini terdapat pada komputer umumnya meski beberapa sistem operasi tertentu (misal: [[Windows]]) telah dilengkapi dengan fasilitas bantuan untuk tunanetra seperti fasilitas ''Narrator'' namun fasilitas ini tetap memiliki cukup banyak keterbatasan.
+
+== Cara kerja ==
+Cara kerja perangkat komputer ini adalah dengan memanfaatkan bahan kusus yang disebut ''magneclay'' pada permukaannya. Magneclay merupakan bahan berdasar minyak dengan struktur molekul yang longgar, ketika dialiri oleh muatan listrik, bahan ini dapat mengubah berubah bentuk menjadi bentuk baru tanpa batas waktu selama muatan listrik masih ada. Permukaan bahan ini dapat berubah menjadi bentuk tertentu seperti menampilkan bentuk huruf braille sebagaimana buku yang digunakan para penyandang tuna netra pada umumnya. Pada komputer Siafu ini digunakan [[papan ketik]] braille sembilan-tuts dengan pembacaan braille, atau dapat digunakan seperti buku, serta menampilkan kata-kata dalam huruf braille.<ref>http://thefutureofthings.com/pod/1148/siafu-computer-for-the-blind.html SIAFU  Computer for the Blind</ref>
+
+Siafu juga dapat menampilkan bentuk relief 3 dimensi,sehingga penyandang tunanetra dapat merasakan tampilan grafis komputer untuk pertama kalinya. Fasilitas onscreen relief memungkinkan penggunanya menikmati dunia internet dan menjelajahi website dengan cara sentuhan, klik, drag elemen grafis, link, DNA tanda panah pada tampilan halaman web. Siafu juga dapat mengkonversi semua tampilan teks ke dalam huruf braille, sihingga pengguna dapat membaca apapun yang tampil di layar secara langsung.
+
+Selain itu, Siafu juga dapat mensintesis kata-kata di layar dan membacanya dengan keras. Dan jika pengguna memilih untuk tidak mengetik, mereka memiliki pilihan untuk berbicara ke dalam mikrofon komputer, di mana perangkat lunak pengenal suara menerjemahkan kata yang diucapkan mereka ke kata yang diketik.
+Bahkan saat ini, di Universitas Indonesia (UI, Depok) telah memiliki printer braille yang dapat digunakan mahasiswanya yang penyandang tunanetra mencetak hasil tulisannya di komputer. Dengan printer yang menghasilkan print out huruf braille itu, UI berharap calon mahasiswa yang memiliki keterbatasan fisik khususnya tunanetra tidak perlu minder atau takut untuk belajar di seperti mahasiswa pada umumnya. Sebelumnya, Universitas Indonesia juga telah memiliki komputer bicara dan scanner dengan software (perangkat lunak) open book yang mampu menghasilkan scanning file bagi tunanetra.
+
+Printer canggih ini semakin melengkapi peralatan Assistive Technology for Student With Visual Disability lain yang ada di UI yaitu komputer bicara yang menggunakan aplikasi software JAWS dan scanner berperangkat lunak open book yang mampu menghasilkan scanning file bagi tunanetra. Melalui printer tersebut, kaum tunanetra tidak memiliki hambatan untuk mengkonsumsi sekaligus memproduksi pengetahuan.
+Dengan adanya penemuan Siafu PC, printer braille, serta scanning file untuk para penyandang tuna netra, mereka pastinya tidak akan merasa tertinggal dalam hal teknologi. Mereka juga bisa menggunakan, berinteraksi, dan berkomunikasi seperti layaknya orang normal.
+
+==Rujukan==
+{{reflist}}
+
+==Pranala luar==
+* {{en}} [http://www.coroflot.com/public/individual_file.asp?sort_by=1&portfolio_id=974269&individual_id=190761 Jonathan lucas, Siafu]
+
+[[Kategori:I/O]]
+[[Kategori:Interaksi manusia komputer]]

@@ -1,0 +1,149 @@
+Protista
+{{Taxobox 
+| fossil_range = [[Neoproterozoikum]]  Saat ini
+| image = Protist collage.jpg
+| image_width = 250px
+| image_caption = 
+| domain='''[[Eukarya]]'''
+| regnum_authority = [[Ernst Haeckel|Haeckel]], 1866
+| subdivision_ranks = 
+| subdivision = 
+<div>
+----
+<center>'''Kelompok yang tidak termasuk'''</center>
+* [[Fungi]]
+* [[Plantae]]
+* [[Animalia]]
+----
+<center>'''Supergrup<ref name="Adl2012">{{cite journal | author = Adl Sina M. | year = 2012 | title = The revised classification of eukaryotes | url = http://www.paru.cas.cz/docs/documents/93-Adl-JEM-2012.pdf | format = PDF | journal = Journal of Eukaryotic Microbiology | volume = 59 | issue = 5| pages = 429514 | doi=10.1111/j.1550-7408.2012.00644.x|display-authors=etal | pmid=23020233 | pmc=3483872}}</ref> dan filum khas'''</center>
+* '''[[Archaeplastida]] (sebagian)'''
+** [[Alga merah|Rhodophyta]] (alga merah)
+** [[Glaucophyta]]
+* '''[[Supergrup SAR|SAR]]'''
+** '''[[Stramenopila]]''' (alga coklat, diatom, oomycetes, ...) 
+** '''[[Alveolata]]'''
+*** [[Apicomplexa]]
+*** [[Ciliophora]]
+*** [[Dinoflagellata]]
+** '''[[Rhizaria]]'''
+*** [[Cercozoa]]
+*** [[Foraminifera]]
+*** [[Radiolaria]] 
+* '''[[Excavata]]'''
+** [[Euglenozoa]]
+** [[Percolozoa]]
+** [[Metamonada]]
+* '''[[Amoebozoa]]'''
+* '''[[Opisthokonta]] (sebagian)'''
+** [[Choanozoa]]
+----
+<center>'''Masih banyak lagi;<br />Klasifikasi ada bermacam-macam'''</center></div>
+}}
+
+'''Protista''' adalah [[mikroorganisme]] [[eukariota]] yang bukan [[hewan]], [[tumbuhan]], atau [[fungus]]. Mereka pernah dikelompokkan ke dalam satu [[kerajaan (biologi)|kerajaan]] bernama Protista, namun sekarang tidak dipertahankan lagi.<ref name=Simonite2005>{{cite journal |author=Simonite T |title=Protists push animals aside in rule revamp |journal=Nature |volume=438 |issue=7064 |pages=89 |year=2005 |month=November |pmid=16267517 |doi=10.1038/438008b |url=}}</ref> Penggunaannya masih digunakan untuk kepentingan kajian [[ekologi]] dan morfologi bagi semua [[organisme]] [[eukariota|eukariotik]] bersel tunggal yang hidup secara mandiri atau, jika membentuk [[koloni]], bersama-sama namun tidak menunjukkan diferensiasi menjadi [[jaringan]] yang berbeda-beda.<ref name="Adl 05">{{cite journal |author=Adl SM, Simpson AG, Farmer MA, ''et al.'' |title=The new higher level classification of eukaryotes with emphasis on the taxonomy of protists |journal=J. Eukaryot. Microbiol. |volume=52 |issue=5 |pages=399451 |year=2005 |pmid=16248873 |doi=10.1111/j.1550-7408.2005.00053.x}}</ref>. Dari sudut pandang taksonomi, pengelompokan ini ditinggalkan karena bersifat [[kladistika|parafiletik]]. Organisme dalam Protista tidak memiliki kesamaan, kecuali pengelompokan yang mudah<ref name="urlSystematics of the Eukaryota">{{cite web |url=http://www.ucmp.berkeley.edu/alllife/eukaryotasy.html |title=Systematics of the Eukaryota |format= |work= |accessdate=2009-05-31}}</ref>baik yang [[bersel satu]] atau [[bersel banyak]] tanpa memiliki [[jaringan (biologi)|jaringan]]. Protista hidup di hampir semua lingkungan yang mengandung air. Banyak protista, seperti [[algae]], adalah [[fotosintesis|fotosintetik]] dan [[produsen primer]] vital dalam ekosistem, khususnya di laut sebagai bagian dari [[plankton]]. Protista lain, seperti [[Kinetoplastid]] dan [[Apicomplexa]], adalah penyakit berbahaya bagi manusia, seperti [[malaria]] dan [[tripanosomiasis]].
+
+== Sejarah klasifikasi protista ==
+
+# Tahun 1830an, Protista pertama kali diusulkan untuk dipisah dari makhluk hidup lain, oleh pakar biologi Jerman, Georg A. Goldfuss yang memperkenalkan istilah ''[[Protozoa]]'' yang meliputi [[Ciliata]] dan [[Coral]].<ref name=Scamardella1999>{{cite journal | author = Scamardella, J. M. |title = Not plants or animals: a brief history of the origin of Kingdoms Protozoa, Protista and Protoctista  | year = 1999 | journal = International Microbiology | volume = 2 | pages = 207221 | url = http://www.im.microbios.org/08december99/03%20Scamardella.pdf}}</ref>
+# Tahun 1845, penganut Goldfuss mengembangkannya agar meliputi semua hewan [[bersel satu]] seperti [[Foraminifera]] dan [[Amuba]].
+# Awal 1860an, istilah ''Protoctista'' sebagai kategori klasifikasi pertama kali diusulkan oleh [[John Hogg]], yang menganggap protista harus juga meliputi apa yang dia sebut dengan  hewan dan tumbuhan primitif [[bersel satu]]. Dia mendefinisikan Protoctista sebagai kingdom keempat setelah tumbuhan, hewan, dan mineral.<ref name=Scamardella1999/>
+# Kemudian kingdom mineral dibuang oleh [[Ernst Haeckel]], tersisa tumbuhan, hewan, dan protista.<ref name=Rothschild1989>{{cite journal |author=Rothschild LJ |title=Protozoa, Protista, Protoctista:  what's in a name? |journal=J Hist Biol |volume=22 |issue=2 |pages=277305 |year=1989 |pmid=11542176 |doi=10.1007/BF00139515 |url=http://www.springerlink.com/index/LW54T61737212643.pdf}}</ref>
+# Tahun 1938, [[Herbert Copeland]] menghidupkan lagi klasifikasi Hogg. Menurutnya, "Protoctista" secara harfiah berarti "makhluk hidup pertama". Dia menyanggah istilah Haeckel ''protista'' karena meliputi mikroba tak berinti sel seperti [[Bakteri]], sementara istilah ''protoctista'' tidak meliputinya. Sebaliknya, ''protoctista'' meliputi [[eukaryota]] [[inti sel|berinti sel]] seperti [[diatom]], [[alga hijau]] dan [[fungi]].<ref name=Copeland1938>{{cite journal | author = Copeland, H. F. | year = 1938 | title = The Kingdoms of Organisms | journal = Quarterly Review of Biology | volume = 13 | issue = 4 | pages = 383 | doi = 10.1086/394568 | url = http://links.jstor.org/sici?sici=0033-5770(193812)13%3A4%3C383%3ATKOO%3E2.0.CO%3B2-K}}</ref>
+# Perombakan besar oleh Copeland ini kemudian menjadi dasar dari klasifikasi Whittaker yang hanya membagi Protoctista menjadi Protista dan [[Fungi]].<ref name=Whittaker1959>{{cite journal | author = Whittaker, R. H. | year = 1959 | title = On the Broad Classification of Organisms | journal = Quarterly Review of Biology | volume = 34 | issue = 3 | pages = 210 | doi = 10.1086/402733 | url = http://links.jstor.org/sici?sici=0033-5770(195909)34%3A3%3C210%3AOTBCOO%3E2.0.CO%3B2-J}}</ref> Kingdom Protista ini kemudian berfungsi sebagai pembeda antara [[prokaryota]] yang dimasukkan kingdom [[Monera]], dan mikroorganisme eukaryotik yang dimasukkan Protista definisi Whittaker.<ref>{{cite journal |author=Whittaker RH |title=New concepts of kingdoms or organisms. Evolutionary relations are better represented by new classifications than by the traditional two kingdoms |journal=Science (journal) |volume=163 |issue=863 |pages=15060 |year=1969 |month=January |pmid=5762760 |doi=10.1126/science.163.3863.150}}</ref>
+# [[Kingdom|Sistem lima kingdom]] bertahan hingga ditemukannya [[filogenetik molekular]] di akhir abad ke-20, karena ternyata protista dan monera tidak ada hubungannya (bukan [[Clade|kelompok monofiletik]]).
+# Tahun 2004, [[Cavalier-Smith]] menetapkan [[Kingdom|Sistem enam kingdom]] berdasarkan molekuler, ultrastruktur, dan palaeontological.
+
+== Klasifikasi tradisional ==
+Protista pertama kali diusulkan oleh [[Ernst Haeckel]]. Secara tradisional, protista digolongkan menjadi beberapa kelompok berdasarkan kesamaannya dengan kerajaan yang lebih tinggi yaitu meliputi [[Protozoa]] yang menyerupai [[hewan]] [[bersel satu]], [[Protophyta]] yang menyerupai [[tumbuhan]] (mayoritas [[algae]] [[bersel satu]]), serta [[jamur lendir]] dan [[jamur air]] yang menyerupai [[jamur]].
+
+Dulu, [[bakteri]] juga dianggap sebagai protista dalam sistem tiga kerajaan (Animalia, Plantae termasuk jamur, dan Protista). Namun kemudian bakteri dipisah dari protista setelah diketahui bahwa ia adalah prokariotik.
+
+=== Protozoa, protista yang menyerupai hewan ===
+
+Protozoa hampir semuanya protista bersel satu, mampu bergerak yang makan dengan cara fagositosis, walaupun ada beberapa pengecualian. Mereka biasanya berukuran 0,01-0,5&nbsp;mm sehingga secara umum terlalu kecil untuk dapat dilihat tanpa bantuan mikroskop. Protoza dapat ditemukan di mana-mana, seperti lingkungan berair dan tanah, umumnya mampu bertahan pada periode kering sebagai kista (''cyst''?) atau spora, dan termasuk beberapa parasit penting. Berdasarkan pergerakannya, protozoa dikelompokkan menjadi:
+
+* [[Flagellata]] yang bergerak dengan [[flagellum|flagella]](rambut cambuk). Contoh: ''[[Trypanosoma]], [[Trichomonas]]''
+* Rhizopoda yang bergerak dengan [[pseudopodia]] (kaki semu/kaki akar) yaitu yang berarti setiap kali ia akan bergerak harus membentuk kaki semu sebelum dapat bergerak dan pembentukan kaki ini dinamakan fase gel. Contoh: ''[[Amoeba]]''
+* [[Cilliata]] yang bergerak dengan [[silia]] (rambut getar). Contoh: ''[[Paramaecium]]''
+* [[Sporozoa]] yang tidak memiliki alat; beberapa mampu membentuk [[spora]]. Contoh: ''[[Plasmodium sp]]''
+
+=== Algae, protista yang menyerupai tumbuhan ===
+
+Algae mencakup semua organisme bersel tunggal maupun banyak yang memiliki [[kloroplas]]. Termasuk di dalamnya adalah kelompok-kelompok berikut.
+
+* [[Alga hijau]], yang memiliki relasi dengan [[tumbuhan]] yang lebih tinggi ([[Embryophyta]]). Contoh: ''[[Ulva]]''
+* [[Alga merah]], mencakup banyak alga laut. Contoh: ''[[Porphyra]]''
+* [[Heterokontophyta]], meliputi ganggang coklat, diatom, dan lainnya. Contoh: ''[[Macrocystis]]''.
+* Alga keemasan
+
+Alga hijau dan merah, bersama dengan kelompok kecil yang disebut [[Glaucophyta]], sekarang diketahui memiliki hubungan evolusi yang dekat dengan tumbuhan darat berdasarkan bukti-bukti morfologi, fisiologi, dan [[biologi molekuler|molekuler]], sehingga lebih tepat masuk dalam kelompok [[Archaeplastida]], bersama-sama dengan [[tumbuhan]] biasa.
+
+=== Protista yang menyerupai jamur ===
+Beragam organisme dengan organisasi tingkat protista awalnya dianggap sama dengan jamur, sebab mereka memproduksi [[sporangium|sporangia]]. Ini meliputi ''[[Chytridiomycota|chytrid]]'', [[jamur lendir]], [[jamur air]], dan [[Labyrinthulomycetes]]. ''Chytrid'' sekarang diketahui memiliki hubungan dengan [[Fungi]] dan biasanya diklasifikasikan dengan mereka. Sementara yang lain sekarang ditempatkan bersama dengan heterokontofita lainnya (yang memiliki selulosa, bukan dinding ''chitin'') atau [[Amoebozoa]] (yang tidak memiliki dinding sel).
+
+Memiliki ciri-ciri sebagai berikut:
+* Memiliki sel berflagela pada suatu waktu dalam siklus hidupnya
+* Khusus pada jamur air, memiliki dinding sel yang tersusun oleh zat selulosa, sedangkan jamur tersususn oleh zat kitin
+** Membentuk spora diploid dan hasil meiosis berupa gamet. Pada jamur air mengasilkan sesuatu
+
+====== fagostik ======
+== Klasifikasi modern ==
+
+Saat ini istilah ''protist'' dipakai untuk mengacu pada eukariota [[bersel satu]] baik sel independen atau kalaupun berkoloni tidak menunjukkan diferensiasi dalam jaringan.<ref name="Adl 05"/> Istilah ''protozoa'' dipakai untuk spesies [[heterotrof]]ik dari protista yang tidak membentuk filamen. Istilah ini tidak dipakai lagi di klasifikasi modern. Klasifikasi modern berupaya menyajikan kelompok [[monofili]] berdasarkan [[ultrastruktur]], [[biokimia]], dan [[genetika]]. Karena protista adalah [[parafili]] sistem seperti itu seringkali memecah atau meninggalkan kingdom tersebut, ketimbang memperlakukan kelompok protista sebagai eukaryota. Beberapa kelompok utama dari protista, yang mungkin diklasifikasikan sebagai fila, disajikan di kotak sebelah kanan.<ref name="Cavalier Smith 03">{{cite journal |author=Cavalier-Smith T, Chao EE |title=Phylogeny and classification of phylum Cercozoa (Protozoa) |journal=Protist |volume=154 |issue=3-4 |pages=34158 |year=2003 |month=October |pmid=14658494 |doi=10.1078/143446103322454112 |url=}}</ref> Banyak yang menganggapnya sebagai monofili, meskipun masih belum meyakinkan. Misalnya, [[Excavata]] mungkin tidak monofili dan [[Chromalveolate]] mungkin monofili jika [[haptophyta]] dan [[cryptomonad]] dimasukkan.<ref>{{cite journal | pmc = 1713255 | title = Evaluating Support for the Current Classification of Eukaryotic Diversity | author = Laura Wegener Parfrey, Erika Barbero, Elyse Lasser, Micah Dunthorn, Debashish Bhattacharya, David J Patterson, and Laura A Katz | doi = 10.1371/journal.pgen.0020220 | journal = PLoS Genet. | date = 2006 December | volume = 2 | issue = 12  | pages = e220 | pmid = 17194223}}</ref>
+
+== Metabolisme, reproduksi, dan peranan protista ==
+
+Flagelata makan menggunakan penyaring, yaitu dengan melewatkan air melalui flagelanya. Protista lain bisa menelan bakteri dan mencernanya secara internal, dengan memanjangkan [[dinding sel]]nya di sekitar makanannya, untuk membentuk sebuah [[vakuola|vakuola makanan]]. Makanan ini lalu masuk ke dalam sel melalui [[endositosis]] (biasanya [[fagositosis]]; kadang-kadang [[pinositosis]]).
+
+Sebagian protista berkembang biak secara [[Reproduksi seksual|seksual]] (konjugasi), sementara lainnya secara [[Reproduksi aseksual|aseksual]] (fisi biner). ''[[Plasmodium falciparum]]'', memiliki [[siklus hidup biologis]] super kompleks yang meliputi berbagai macam makhluk hidup, sebagian bereproduksi seksual, sebagian lain aseksual.<ref>{{cite journal |author=Talman AM, Domarle O, McKenzie FE, Ariey F, Robert V |title=Gametocytogenesis: the puberty of Plasmodium falciparum |journal=Malar. J. |volume=3 |issue= |pages=24 |year=2004 |month=July |pmid=15253774 |pmc=497046 |doi=10.1186/1475-2875-3-24 |url=}}</ref> Namun, masih belum jelas seberapa seringnya reproduksi seksual menyebabkan pertukaran genetika antar strain yang berbeda dari ''Plasmodium'' dan sebagian besar protista parasit adalah '''clonal line''' yang jarang melakukan pertukaran gen dengan strain lain.<ref>{{cite journal |author=Tibayrenc M, Kjellberg F, Arnaud J, ''et al.'' |title=Are eukaryotic microorganisms clonal or sexual? A population genetics vantage |journal=Proc. Natl. Acad. Sci. U.S.A. |volume=88 |issue=12 |pages=512933 |year=1991 |month=June |pmid=1675793 |pmc=51825 |url=http://www.pnas.org/cgi/pmidlookup?view=long&pmid=1675793 |doi=10.1073/pnas.88.12.5129}}</ref>
+
+Beberapa protista adalah patogen terhadap [[hewan]] dan [[tumbuhan]]. ''[[Plasmodium falciparum]]'' menyebabkan [[malaria]] pada manusia dan ''[[Phytophthora infestans]]'' menyebabkan [[hawar daun]] pada kentang. Pemahaman lebih mendalam tentang protista akan membuat penyakit ini bisa diobati secara efisien.
+
+Peneliti dari '''Agricultural Research Service''' memanfaatkan protista sebagai patogen untuk mengendalikan populasi semut api merah (''Solenopsis invicta'') di Argentina.  Dengan bantuan protista penghasil spora seperti ''Kneallhazia solenopsae'' populasi semut api merah bisa berkurang 53-100%.<ref>{{cite web|url= http://www.ars.usda.gov/is/pr/2010/100128.htm
+|title= ARS Parasite Collections Assist Research and Diagnoses |publisher=USDA Agricultural Research Service|date=January 28, 2010}}</ref> Para peneliti berhasil menginjeksikan protista itu ke lalat sebagai perantara untuk membunuh semut api merah, tanpa membahayakan lalat itu.<ref>[http://www.ars.usda.gov/is/pr/2010/100128.htm]</ref>
+
+== Protistologi ==
+Protistologi adalah disiplin ilmiah yang mempelajari Protista. Juga, terdapat sebuah jurnal bernama ''Protistology''. protista dapat menyebabkan penyakit rabies
+Anjing Herder memiliki banyak protista di dalam tubuhnya.
+
+== Pemanfaatan ==
+{{sect-stub}}
+Jenis Protista yang menguntungkan adalah jenis [[ganggang]] ([[Alga merah]], [[Cyanobacteria|Cyanophyta]], dan lainnya) yang dapat dimanfaatkan untuk bahan kosmetik serta dapat dikonsumsi.
+
+Jenis Protista yang merugikan adalah jenis [[sporozoa]] (contoh: ''[[Plasmodium]]'') yang dapat menyebabkan penyakit, seperti [[malaria]].
+
+== Referensi ==
+{{reflist|35em}}
+
+==Bibliografi==
+
+===Umum===
+* Haeckel, E. ''[http://caliban.mpiz-koeln.mpg.de/haeckel/protistenreich/index.html Das Protistenreich]''. Leipzig, 1878.
+* Hausmann, K., N. Hulsmann, R. Radek. ''Protistology''. Schweizerbart'sche Verlagsbuchshandlung, Stuttgart, 2003.
+* Margulis, L., J.O. Corliss, M. Melkonian, D.J. Chapman. ''Handbook of Protoctista''. Jones and Bartlett Publishers, Boston, 1990.
+* Margulis, L., K.V. Schwartz. ''Five Kingdoms: An Illustrated Guide to the Phyla of Life on Earth'', 3rd ed. New York: W.H. Freeman, 1998.
+* Margulis, L., L. Olendzenski, H.I. McKhann. ''Illustrated Glossary of the Protoctista'', 1993.
+* Margulis, L., M.J. Chapman. ''Kingdoms and Domains: An Illustrated Guide to the Phyla of Life on Earth''. Amsterdam: Academic Press/Elsevier, 2009.
+* Schaechter, M. ''Eukaryotic microbes''. Amsterdam, Academic Press, 2012.
+
+===Fisiologi, ekologi dan paleontologi===
+* Foissner, W.; D.L. Hawksworth. ''Protist Diversity and Geographical Distribution''. Dordrecht: Springer, 2009
+* Fontaneto, D. ''Biogeography of Microscopic Organisms. Is Everything Small Everywhere?'' Cambridge University Press, Cambridge, 2011.
+* Levandowsky, M. ''Physiological Adaptations of Protists''. In: ''Cell physiology sourcebook : essentials of membrane biophysics''. Amsterdam; Boston: Elsevier/AP, 2012.
+* Moore, R. C., and other editors. ''[[Treatise on Invertebrate Paleontology]]''. Protista, part B ([http://129.237.145.244:591/FMPro?-db=treatise&-format=treatise%2fdetails1.html&-lay=table&-sortfield=sort%20number&part=Part%20A&-max=2147483647&-recid=32775&-findall= vol. 1], Charophyta, [http://129.237.145.244:591/FMPro?-db=treatise&-format=treatise%2fdetails1.html&-lay=table&-sortfield=sort%20number&part=Part%20A&-max=2147483647&-recid=32803&-findall= vol. 2], Chrysomonadida, Coccolithophorida, Charophyta, Diatomacea & Pyrrhophyta), [http://129.237.145.244:591/FMPro?-db=treatise&-format=treatise%2fdetails1.html&-lay=table&-sortfield=sort%20number&part=Part%20A&-max=2147483647&-recid=82&-findall= part C] (Sarcodina, Chiefly "Thecamoebians" and Foraminiferida) and [http://129.237.145.244:591/FMPro?-db=treatise&-format=treatise%2fdetails1.html&-lay=table&-sortfield=sort%20number&part=Part%20A&-max=2147483647&-recid=83&-findall= part D] (Chiefly Radiolaria and Tintinnina). Boulder, Colorado: Geological Society of America; & Lawrence, Kansas: University of Kansas Press.
+
+==Pranala luar==
+{{wikispecies|Protista}}
+{{wikispecies|Protoctista}}
+{{Commons category|Protista}}
+* [http://tolweb.org/Eukaryotes/3 Tree of Life: Eukaryotes]
+* [http://phylogenetics.bioapps.biozentrum.uni-wuerzburg.de/etv/ A java applet for exploring the new higher level classification of eukaryotes]
+* [http://www.planktonchronicles.org/en/episode/9 Plankton Chronicles  Protists  Cells in the Sea  video]
+* [http://protist.i.hosei.ac.jp/pdb/images/subjects/indexE.html Database of protist images]
+* Holt, Jack R. and Carlos A. Iudica. 2013. Diversity of Life. http://comenius.susqu.edu/biol/202/Taxa.htm. Last modified: 11/18/13.
+{{Eukariotik}}
+{{Protista}}
+
+{{Authority control}}
+
+[[Kategori:Protista| ]]

@@ -1,0 +1,29 @@
+Kompilator
+'''Kompilator''' ([[bahasa Inggris|Inggris]]: ''compiler'') adalah sebuah program komputer yang berguna untuk menerjemahkan program komputer yang ditulis dalam bahasa pemrograman tertentu menjadi program yang ditulis dalam bahasa pemrograman lain.
+
+Terlepas dari pengertiannya yang demikian relatif luas, istilah ''kompilator'' biasa digunakan untuk program komputer yang menerjemahkan program yang ditulis dalam [[bahasa pemrograman tingkat tinggi]] (semacam [[Pascal (bahasa pemrograman)|bahasa Pascal]], [[C plus plus|C++]], [[BASIC]], [[FORTRAN]], [[Visual Basic]], [[Visual-C-sharp|Visual C#]], [[Java]], [[xBase]], atau [[COBOL]]) menjadi bahasa mesin, biasanya dengan bahasa [[Assembly]] sebagai perantara.
+
+Arsitektur ''kompilator'' modern biasanya bukan lagi merupakan program tunggal namun merupakan rangkaian komunikasi antar program dengan tugas spesifik masing-masing. Program-program tersebut beserta tugasnya secara umum terdiri dari:
+* ''Kompilator'' itu sendiri, yang menerima kode sumber dan menghasilkan bahasa tingkat rendah (''assembly'')
+* ''Assembler'', yang menerima keluaran ''kompilator'' dan menghasilkan berkas objek dalam bahasa mesin
+* ''Linker'', yang menerima berkas objek keluaran ''assembler'' untuk kemudian digabungkan dengan pustaka-pustaka yang diperlukan dan menghasilkan program yang dapat dieksekusi (''executable'')
+''Kompilator'' yang menggunakan arsitektur ini misalnya [[GCC]], [[Clang]] dan [[FreeBASIC]].
+
+Beberapa ''kompilator'' tidak menggunakan arsitektur di atas secara gamblang, dikarenakan komunikasi antar program jauh lebih lambat dibandingkan jika komunikasi dilakukan secara internal di dalam satu program. Sehingga ''kompilator-kompilator'' tersebut mengintegrasikan ''assembler'' dan ''linker'' di dalam ''kompilator''. Namun, biasanya arsitektur yang digunakan pun tidak kaku dan mengizinkan penggunaan ''assembler'' maupun ''linker'' eksternal (berguna jika ''assembler'' dan ''linker'' internal bermasalah atau memiliki galat). Kompilator yang menggunakan arsitektur ini salah satunya adalah [[Free Pascal]].
+
+Profesor [[Niklaus Wirth]] dalam bukunya ''Compiler Construction'' <ref name="cbe">[http://web.archive.org/web/20110805035946/http://www.inf.ethz.ch/personal/wirth/books/CompilerConstruction/CBE.pdf Compiler Construction], (''update'' Juni 2011)</ref> menyatakan bahwa penggunaan ''assembler'' sebagai bahasa perantara seringkali tidak memberikan keuntungan yang signifikan, sehingga dia menyarankan agar kompilator langsung menghasilkan bahasa mesin. Kompilator dengan arsitektur seperti ini dapat berjalan dengan sangat cepat, seperti yang ditunjukkan pada kompilator orisinil [[Pascal]], [[Modula-2]] dan [[Oberon]] yang dibuat oleh sang profesor.
+
+''Kompilator'' melakukan proses kompilasi dengan cara menganalisis kode sumber secara keseluruhan, sehingga waktu yang dibutuhkan untuk melakukan kompilasi lebih lama, namun hasilnya lebih cepat dalam proses eksekusi daripada program yang dibuat dengan menggunakan teknik interpretasi dengan [[penerjemah (komputasi)|interpreter]].
+
+==Lihat pula==
+* [[Penerjemah (komputasi)|Interpreter]]
+* [[P-Code]]
+
+==Referensi==
+<references />
+
+[[Kategori:Kompilator| ]]
+[[Kategori:Komputer]]
+
+
+{{computer-stub}}

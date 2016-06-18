@@ -1,0 +1,35 @@
+Afroneta guttata
+{{Taxobox
+|name = Afroneta guttata
+|status = 
+|image = 
+|image_caption = 
+|domain = 
+|regnum = [[Animalia]]
+|phylum = [[Arthropoda]]
+|classis = [[Arachnida]]
+|ordo = [[Araneae]]
+|familia = [[Linyphiidae]]
+|genus =Afroneta
+|species = Afroneta guttata
+|binomial = Afroneta guttata
+|binomial_authority =Holm, 1968
+|range_map = 
+|range_map_caption = 
+|image2 = 
+|image2_caption = 
+|synonyms = 
+}}
+'''''Afroneta guttata''''' adalah spesies [[laba-laba]] yang tergolong [[familia]] [[Linyphiidae]]. Spesies ini juga merupakan bagian dari ordo [[Araneae]]. Nama ilmiah dari spesies ini pertama kali diterbitkan pada tahun 1968 oleh Holm.
+
+Laba-laba ini biasanya banyak ditemui di Kongo.
+
+== Referensi ==
+
+* Platnick, Norman I. (2010): [http://research.amnh.org/entomology/spiders/catalog/LINYPHIIDAE.html The world spider catalog], version 10.5. ''American Museum of Natural History''.
+
+{{DEFAULTSORT:Afroneta guttata}}
+
+[[Kategori:Linyphiidae]]
+
+{{labalaba-stub}}

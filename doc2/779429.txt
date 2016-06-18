@@ -1,0 +1,65 @@
+Tanjung Priok (Transjakarta)
+{{Kotakinfo halte Transjakarta
+| name              = Tanjung Priok
+| corridor          = 10
+| corridor2        = 12
+| station           = 01
+| station2           = 24
+| isfuture          = no
+| image             = 
+| image_caption     =
+| city              = Jakarta Utara
+| neighborhood      = Tanjung Priok, Tanjung Priok
+| zipcode           = 14310
+| address           = Jalan Enggano Raya
+| latitude          = -6.1094
+| longitude         = 106.8811
+| levelcount        = 
+| level1name        = Struktur
+| level1description = {{Station level|transitmode=BRT|elevation=freeway|platformlayout=side|platformcount=1}}
+| level2name        = 
+| level2description = 
+| level3name        = 
+| level3description = 
+| entrances         = Melalui Terminal Tanjung Priok
+| faregates         = Ya
+| ADA               = 
+| parking           = 
+| bicycle           = 
+| other             = 
+| ownedby           = PT. Bianglala Metropolitan<br>PT. Transportasi Jakarta
+| othernames        = 
+| formernames       = 
+| status            = Beroperasi
+| opened            = 31 Januari 2010 (Koridor 10)<br>14 Februari 2013 (Koridor 12)
+| closed            = 
+| rebuilt           = 
+| renovated         = 
+| services          = 
+{{s-rail|title=Transjakarta}}
+{{s-line|system=Transjakarta|line=10|next=Enggano}}
+{{s-line|system=Transjakarta|line=12|previous=Enggano}}
+{{s-note|text=Layanan penghubung}}
+{{s-rail|title=KRL Jabodetabek}}
+{{s-line|system=KRL Jabodetabek|line=Tanjung Priok-Jakarta Kota|notemid=|next=Kampung Bandan|transfer=Tanjung Priok}}
+}}
+
+'''Tanjung Priok''' adalah sebuah halte [[Transjakarta]] yang terletak di [[Terminal Tanjung Priok]], [[Tanjung Priok, Jakarta Utara|Tanjung Priok]], [[Jakarta Utara]]. Halte ini berada di [[Transjakarta Koridor 10|Koridor 10]] yang membentang dari utara ke selatan dan [[Transjakarta Koridor 12|Koridor 12]] yang membentang dari barat ke timur.
+
+== Tempat-tempat terdekat ==
+* [[Stasiun Tanjung Priok]]
+* [[Pelabuhan Tanjung Priok]]
+* [[Terminal Tanjung Priok]]
+* Kejaksaan Negeri Jakarta Utara
+
+== Pranala luar ==
+*[http://www.transjakarta.co.id/ Situs web Transjakarta]
+*[http://www.petabusway.com/ Peta Koridor & Rute Transjakarta]
+*[http://www.streetdirectory.co.id/indonesia/jakarta/travel/travel_id_192004/travel_site_142554/travel_no_/ Peta Halte Tanjung Priok]
+
+{{Transjakarta}}
+{{transjakarta-stub}}
+
+[[Kategori:Koridor 10 Transjakarta]]
+[[Kategori:Koridor 12 Transjakarta]]
+[[Kategori:Halte Transjakarta di Jakarta Utara]]

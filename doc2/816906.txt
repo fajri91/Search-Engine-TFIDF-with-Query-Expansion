@@ -1,0 +1,82 @@
+Pemilihan parlemen Sri Lanka 2000
+{{Infobox Election
+| election_name = Pemilihan parlemen Sri Lanka ke-11
+| country = Sri Lanka
+| type = parliamentary
+| ongoing = no
+| previous_election = Pemilihan parlemen Sri Lanka 1994
+| previous_year = 1994
+| previous_mps= 
+| next_election = Pemilihan parlemen Sri Lanka 2001
+| next_year = 2001
+| next_mps= 
+| seats_for_election = Seluruh 225 kursi pada [[Parlemen Sri Lanka]] <br> 113 kursi dibutuhkan untuk menjadi mayoritas
+| election_date = 10 Oktober 2000
+| turnout = 75.63%
+
+<!--      Aliansi Rakyat     -->
+| image1 = [[Berkas:Chandrika Kumaratunga.jpg|117px]]
+| leader1 = [[Chandrika Kumaratunga]]
+| leader_since1 = 1994
+| party1 =  Aliansi Rakyat (Sri Lanka)
+| leaders_seat1 = n/a
+| last_election1 = 105 Kursi, 48.94%
+| seats_needed1 = 
+| states_carried1 = 
+| seats1 = 107
+| seat_change1 = {{increase}} 2
+| popular_vote1 = 3,900,901 	
+| percentage1 = 45.11%
+| swing1 = 
+
+<!--      Partai Nasional Serikat     -->
+| image2 = [[Berkas:Ranil At UNP Office.jpg|100px]]
+| leader2 = [[Ranil Wickremesinghe]]
+| leader_since2 = 1994
+| party2 = Partai Nasional Serikat
+| leaders_seat2 = [[Distrik Elektoral Kolombo|Distrik Kolombo]]
+| last_election2 = 94 Kursi, 44.04%
+| seats_needed2 = 
+| states_carried2 = 
+| seats2 = 89
+| seat_change2 = {{decrease}} 5
+| popular_vote2 = 3,477,770 	 	
+| percentage2 = 40.22% 	
+| swing2 = 
+
+| map_image          = Sri Lankan Parliamentary Election 2000.png
+| map_size           = 250px
+| map_caption        = Pemenang divisi pemungutan suara. AP dalam <span style="color:blue;">warna biru</span> dan PNS dalam <span style="color:green;">warna hijau</span>.
+
+| title              = [[Perdana Menteri Sri Lanka|Prime Minister]]
+| posttitle          = [[Perdana Menteri Sri Lanka|Prime Minister]]-dirancang
+| before_election    = [[Ratnasiri Wickremanayake]]
+| after_election     = [[Ratnasiri Wickremanayake]]
+| before_party       = Aliansi Rakyat (Sri Lanka)
+| after_party        = Aliansi Rakyat (Sri Lanka)
+}}
+Pemilihan tersebut diadakan oleh Presiden [[Chandrika Kumaratunga]] pada 24 Oktober 2000.  
+
+Pemerintahan [[Aliansi Rakyat (Sri Lanka)|Aliansi Rakyat]] (AP) Kumaratunga yang memimpin selama enam tahun dihadapkan dengan kritikan pada dua front
+
+Pemilihan tersebut diwarnai oleh kekerasan. Tujuh puluh orang tewas pada saat kampanye, termasuk enam orang pada hari pemilihan itu sendiri.  [http://www.economist.com/displayStory.cfm?story_id=392758]. Partai [[Partai Nasional Serikat|PNS]] dan [[Kongres Muslim Sri Lanka|KMSL]] menuduh AP telah melakukan [[kecurangan pemungutan suara]] dan intimidasi.
+
+==Referensi==
+{{Reflist}}
+* {{cite web|url=http://www.slelections.gov.lk/composition2000.html|title= Parliamentary General Election 2000  All Island Result Composition of Parliament|publisher=Department of Elections, Sri Lanka}}
+* {{cite web|url=http://www.slelections.gov.lk/island2000.html|title= Parliamentary General Election 2000  All Island Result|publisher=Department of Elections, Sri Lanka}}
+* {{cite web|url=http://www.slelections.gov.lk/District2000/district2000.html|title= Parliamentary General Election 10.10.2000  Final District Results|publisher=Department of Elections, Sri Lanka}}
+* {{cite web|url=http://www.slelections.gov.lk/pdf/preference2000GE.PDF|title=General Election 2000 Preferences|publisher=Department of Elections, Sri Lanka}}
+* {{cite web|url=http://www.lankanewspapers.com/news/election/general_election2000.jsp|title=2000 General Election Results|publisher=LankaNewspapers.com}}
+* {{cite web|url=http://www.jpp.co.jp/lanka/gov/govd/govde/gov41e.htm|title=Table 41 Parliament Election (Electoral District) (2000)|date=10 February 2009|publisher=Sri Lanka Statistics}}
+* {{cite web|url=http://www.ipu.org/parline-e/reports/arc/2295_00.htm|title= Sri Lanka Parliamentary Chamber: Parliament Elections Held in 2000 |publisher=[[Inter-Parliamentary Union]]}}
+* {{cite web|url=http://www.manthree.com/elections/results/?id=1|title=2000 - Parliamentary General Election|publisher=Manthree.com}}
+* {{cite web|url=http://psephos.adam-carr.net/countries/s/srilanka/srilankalegis2000.txt|title=REPUBLIC OF SRI LANKA PARLIAMENTARY ELECTIONS OF 12 OCTOBER 2000|publisher=Psephos - Adam Carr's Election Archive}}
+* {{cite web|url=http://psephos.adam-carr.net/countries/s/srilanka/srilankalegis20002.txt|title=REPUBLIC OF SRI LANKA PARLIAMENTARY ELECTIONS OF 12 OCTOBER 2000|publisher=Psephos - Adam Carr's Election Archive}}
+
+{{Pemilihan Sri Lanka}}
+
+[[Kategori:Pemilihan di Sri Lanka]]
+[[Kategori:Pemilihan 2000 di Asia]]
+[[Kategori:Pemilihan parlemen Sri Lanka 2000| ]]
+[[Kategori:Sri Lanka dalam tahun 2000]]

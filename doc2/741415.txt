@@ -1,0 +1,46 @@
+Felix Andries Vening Meinesz
+{{Infobox scientist
+|name              = Felix Andries Vening Meinesz
+|image             =Vening meinesz.jpg
+|image_size       =150px
+|caption           =Vening Meinesz with his gravimeter
+|birth_date        = July 30, 1887
+|birth_place       = [[The Hague]]
+|death_date        =  August 10, 1966
+|death_place       = [[Amersfoort]]
+|residence         = 
+|citizenship       = 
+|nationality       = [[Netherlands|Dutch]]
+|ethnicity         = 
+|field             =  [[geophysics|geophysicist]]<br/>[[geodesy|geodesist]]
+|work_institutions = 
+|alma_mater        = 
+|doctoral_advisor  = 
+|doctoral_students = 
+|known_for         =  [[gravimeter]]
+|author_abbrev_bot = 
+|author_abbrev_zoo = 
+|influences        = 
+|influenced        = [[Harry Hammond Hess|H. H. Hess]]
+|prizes            = {{no wrap|[[Fellow of the Royal Society]]<ref name="frs">{{cite doi|10.1098/rsbm.1967.0015}}</ref><br>[[William Bowie Medal]] {{small|(1947)}}<br>[[Alexander Agassiz Medal]] {{small|(1947)}}<br> [[Vetlesen Prize]] {{small|(1962)}}<br>[[Wollaston Medal]] {{small|(1963)}}}}
+|religion          = 
+|footnotes         = 
+|signature         =
+}}
+{{terjemahan}}
+{{referensi}}
+'''Felix Andries Vening Mienesz''' (lahir di [[Hague]] 30 Juli 1887  meninggal di [[Amersfoort]] 10 Agustus 1966) adalah seorang geofisikawan dan pakaar geodesi berkebangsaan [[Belanda]].<ref name="a"> Shadily, Hassan.''Ensiklopedia Indonesia''. Jakarta:Ichtiar Baru Van Hoeve.</ref>
+Dia dikenal dengan penemuannya tentang metode untuk mengukur [[gaya gravitasi]].<ref name="a"/> Karena penemuannya ini, pengukuran gravitasi dapat dilakukan di laut, dan hal ini menuntun dia untuk menemukan [[anomali gravitasi]] di atas samudra.<ref name="a"/> Selanjutnya dia menamakan anomali ini dengan sebutan continental drift.<ref name=b>{{cite book|last=Vening-Meinesz|first=F.A.|title=Gravity expeditions at sea 1923-1930. Vol. I. The expeditions, the computations and the results|url=http://www.ncg.knaw.nl/eng/publications/Green/03VeningMeinesz.html|pages=109|place=Delft|publisher=Nederlandse Commissie voor Geodesie 3|isbn=978-90-6132-003-6|year=1932}}</ref>
+Beberapa benda yang dinamakan dengan namanya adalah:
+*	[[gravimeter, sebuah aparatus untuk mengukur gaya gravitasi
+*	fungsi matematika yang digunakan dalam ilmu geodesi
+*	sebuah medali dari European Geophysical Society / European Geosciences Union
+*	sekolah riset di Utrecht University
+*	Meteor bernama Vening Meinesz di bulan
+
+Ayah Vening, Sjoerd Anne Vening Meinesz, adalah seorang mayor di [[Rotterdam]], lalu kedua kalinya di Amsterdam, dia tumbuh di lingkungan terlindung.<ref name="a"/> Di tahun 1910 dia lulus dari jurusan teknik sipil di [[Delft]].<ref name=b/> Di tahu yang sama dia mulai bekerja di lembaga survey gravitasi Belanda.<ref name=b/> Di tahun 1915 dia menulis disertasi tentang kerusakan gravimeter yang digunakan pada saat itu.<ref name=b/>
+==Rujukan==
+<References />
+
+[[Category: Kelahiran 1887]]
+[[Category: Kematian 1966]]

@@ -1,0 +1,45 @@
+Iverny
+{{Infobox French commune|
+name=Iverny|
+image_map = France_jms.png|
+x = 147|
+y = 69|
+lat_long={{coord|49|0|4|N|2|47|21|E}}|
+insee=77233|
+postal_code=77165|
+region=[[le-de-France (region)|le-de-France]]|
+department=[[Seine-et-Marne]]|
+arrondissement=Meaux|
+canton=[[Canton of Mitry-Mory|Mitry-Mory]]|
+mayor=Martine Florenon|
+term=2008-2014|
+intercomm=''tidak ada pada 2007''|
+elevation_min_m=94|
+elevation_max_m=123|
+area_km2=1.76|
+population=488|
+date-population=1999|
+density_km2=277|
+date-density=1999}}
+
+'''Iverny''' merupakan sebuah [[komune di Perancis|komune]] di [[departemen di Perancis|departemen]] [[Seine-et-Marne]] di [[region di Perancis|region]] [[le-de-France (region)|le-de-France]] di utara-tengah [[Perancis]].
+
+== Demografi ==
+Pada [[sensus]] 1999, penduduknya berjumlah 488 jiwa.
+
+Penduduknya disebut sebagai ''Ivernais''.
+
+== Lihat pula ==
+* [[Komune di departemen Seine-et-Marne]]
+
+== Pranala luar ==
+* [http://www.iaurif.org/en/gis/fichescom/mos99/ficmos/mos77233.html 1999 Land Use, from IAURIF (Institute for Urban Planning and Development of the Paris-le-de-France rgion] {{en}}
+* [http://www.viamichelin.co.uk/viamichelin/gbr/dyn/controller/mapPerformPage?strAddress=&strCP=77165&strLocation=Iverny&strCountry=1424&image2.x=28&image2.y=7 Map of Iverny on Michelin] {{en}}
+
+{{Komune di Seine-et-Marne}}
+
+[[Kategori:Komune di Seine-et-Marne]]
+[[Kategori:Komune di Perancis]]
+
+
+{{SeineMarne-geo-stub}}

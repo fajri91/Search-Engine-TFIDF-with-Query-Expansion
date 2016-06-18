@@ -1,0 +1,11 @@
+Templat:User max-2
+{{Babel-box
+| level         = 2
+| id            = [[Bahasa Melayu Maluku Utara|max]]
+| info          = Orang ini cuma mangarti '''[[:Kategori:User max|bahasa pasar]]''' '''[[:Kategori:User max-2|stenga]]'''.
+| userkategori  = User max
+| userkategori2 = User max-2
+}}<noinclude>
+{{Babel-bar|max}}
+[[Kategori:Templat Babel|max-2]]
+</noinclude>

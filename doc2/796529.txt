@@ -1,0 +1,29 @@
+Kobra pohon
+{{Taxobox
+| name = Kobra pohon
+| image = 
+| image_caption = 
+| image_width = 
+| regnum = [[Animalia]]
+| phylum = [[Chordata]]
+| subphylum = [[Vertebrata]]
+| classis = [[Reptilia]]
+| ordo = [[Squamata]]
+| subordo = [[Serpentes]]
+| familia = [[Elapidae]]
+| subfamilia = [[Elapinae]]
+| genus = '''''Pseudohaje'''''
+| genus_authority = [[Albert Gnther|Gnther]], 1858
+}}
+'''Kobra pohon''' adalah kelompok kobra atau ular sendok genus '''''Pseudohaje''''' (''Pseudo''="palsu", dan ''haje''="jenis ular sendok"). Ular ini tersebar di [[Afrika]] bagian barat dan tengah. Terdapat 2 spesies.
+
+==Jenis-jenis==
+* ''[[Pseudohaje goldii]]'' (Boulenger, 1895)
+* ''[[Pseudohaje nigra]]'' Gnther, 1858
+
+==Referensi==
+* [http://reptile-database.reptarium.cz/advanced_search?submit=Search&exact%5B0%5D=genus&genus=Pseudohaje ''Pseudohaje sp.'' @ The Reptile Database]
+* [http://www.cbif.gc.ca/acp/fra/siti/regarder?tsn=700243 ITIS: ''Pseudohaje sp.'']
+
+[[Kategori:Elapidae]]
+[[Kategori:Reptil Afrika]]

@@ -1,0 +1,25 @@
+Ranai, Bunguran Timur, Natuna
+{{kelurahan
+|nama                    = Kota Ranai
+|peta                    = <!-- Tuliskan nama berkas saja, tanpa ruang nama "Berkas:". -->
+|provinsi                = Kepulauan Riau
+|nama dati2              = Natuna
+|dati2                   = Kabupaten
+| dati3                   = <!-- Diisi dengan jenis dati 3: "kecamatan" atau "distrik". Opsional, standar: "kecamatan". -->
+|kecamatan               = <!-- Diisi dengan nama dati 3. -->
+|luasref                 = <!-- Untuk referensi, gunakan tag. <ref> -->
+|luas                    = <!-- Tuliskan angka saja, tanpa satuan (km, dsb.) dan tanda titik sebagai pembatas ribuan. -->
+|luasdaratan             = <!-- Tuliskan angka saja, tanpa satuan (km, dsb.) dan tanda titik sebagai pembatas ribuan. -->
+|luasperairan            = <!-- Tuliskan angka saja, tanpa satuan (km, dsb.) dan tanda titik sebagai pembatas ribuan. -->
+| persenperairan          = <!-- Tuliskan angka saja, tanpa satuan (%). -->
+|luascat                 =
+|pendudukref             = <!-- Untuk referensi, gunakan tag <ref> -->
+|penduduk                = <!-- Tuliskan angka saja, tanpa satuan (jiwa) dan tanda titik sebagai pembatas ribuan. -->
+|penduduktahun           = <!-- Tuliskan tahun saja. -->
+| gallery                 = <!-- Tuliskan Nama Berkas Saja. -->
+}}
+Ranai adalah ibu kota [[Kabupaten Natuna]]. Di kota inilah terletak pusat pemerintahan dan bisnis di Kabupaten Natuna. Di kota ini terdapat sebuah rumah sakit umum daerah (RSUD), puskesmas, Masjid Agung Natuna dan [[Bandar Udara Ranai|Bandara Ranai]].
+
+{{Bunguran Timur, Natuna}}
+
+{{Kelurahan-stub}}

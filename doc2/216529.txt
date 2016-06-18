@@ -1,0 +1,52 @@
+Templat:Cities and towns in Rems-Murr-Kreis
+{{Navbox
+|name=Cities and towns in Rems-Murr-Kreis
+|image=[[Image:Wappen Rems-Murr-Kreis.svg|right|30px|Lambang]]
+| listclass = hlist
+| title =Kota dan kotamadya di [[Rems-Murr-Kreis]]
+|liststyle=font-size:95%;
+|list1= [[Alfdorf]]&nbsp;{{!}} <!--
+-->[[Allmersbach im Tal]]&nbsp;{{!}} <!--
+-->[[Althtte]]&nbsp;{{!}} <!--
+-->[[Aspach, Baden-Wrttemberg|Aspach]]&nbsp;{{!}} <!--
+-->[[Auenwald]]&nbsp;{{!}} <!--
+-->[[Backnang]]&nbsp;{{!}} <!--
+-->[[Berglen]]&nbsp;{{!}} <!--
+-->[[Burgstetten]]&nbsp;{{!}} <!--
+-->[[Fellbach]]&nbsp;{{!}} <!--
+-->[[Groerlach]]&nbsp;{{!}} <!--
+-->[[Kaisersbach]]&nbsp;{{!}} <!--
+-->[[Kernen im Remstal]]&nbsp;{{!}} <!--
+-->[[Kirchberg an der Murr]]&nbsp;{{!}} <!--
+-->[[Korb]]&nbsp;{{!}} <!--
+-->[[Leutenbach, Baden-Wrttemberg|Leutenbach]]&nbsp;{{!}} <!--
+-->[[Murrhardt]]&nbsp;{{!}} <!--
+-->[[Oppenweiler]]&nbsp;{{!}} <!--
+-->[[Plderhausen]]&nbsp;{{!}} <!--
+-->[[Remshalden]]&nbsp;{{!}} <!--
+-->[[Rudersberg]]&nbsp;{{!}} <!--
+-->[[Schorndorf]]&nbsp;{{!}} <!--
+-->[[Schwaikheim]]&nbsp;{{!}} <!--
+-->[[Spiegelberg]]&nbsp;{{!}} <!--
+-->[[Sulzbach an der Murr]]&nbsp;{{!}} <!--
+-->[[Urbach, Baden-Wrttemberg|Urbach]]&nbsp;{{!}} <!--
+-->[[Waiblingen]]&nbsp;{{!}} <!--
+-->[[Weinstadt]]&nbsp;{{!}} <!--
+-->[[Weissach im Tal]]&nbsp;{{!}} <!--
+-->[[Welzheim]]&nbsp;{{!}} <!--
+-->[[Winnenden]]&nbsp;{{!}} <!--
+-->[[Winterbach, Baden-Wrttemberg|Winterbach]]
+}}<noinclude>
+
+[[Category:Templat pembagian administratif Jerman|Rems-Murr-Kreis]]
+
+
+
+
+
+
+
+
+
+
+</noinclude>

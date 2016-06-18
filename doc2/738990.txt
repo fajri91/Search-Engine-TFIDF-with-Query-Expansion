@@ -1,0 +1,33 @@
+Katatonia
+{{Infobox disease
+|  Name        = Catatonia
+|  ICD10       = {{ICD10|F|06|1|f|06}}
+|  ICD9        = {{ICD9|293.89}}
+|  MeshID      = D002389
+}}
+'''Katatonia''' merupakan suatu keadaan yang mana seseorang menjadi bisu, atau telah beradaptasi dengan keanehan, posisi yang kaku.<ref name="a">{{en}} Peters M. ''A-Z Family Medical Encyclopedia''. British Medical Association.</ref> Mata masih membuka dan orang tersebut kelihatanya masih terbangun, tetapi tidak ada gerakan sadar sama sekali.<ref name="a"/> Keadaan ini merupakan bentuk yang jarang dari [[skizofrenia]] ataupun kerusakan otak.<ref name="a"/>
+Pertama kali dijelaskan pada tahun [[1874]] oleh [[Karl Ludwig Kahlbaum]] dalam ''[[Die Katatonie oder das Spannungsirresein]]'' (''[[Catatonia or Tension Insanity]]'').<ref>http://web.archive.org/web/20080209213229/http://www.entwicklung-der-psychiatrie.de/seiten/24.1_kahlbaum_die_katatonie.htm, Archived copy (Internet Archive)</ref> 
+
+==Diagnosis==
+[[File:MRI.png|thumb|MRI dapat dipakai untuk mendiagnosis katatonia]]
+Dalam pengujian laboratorium beberapa aspek yang sering dianalisis adalah:
+* Perhitungan kadar darah.<ref name="n">{{en}} Medscape. 2014. Catatonia [terhubung berkala]. http://emedicine.medscape.com/article/1154851-overview [29 Mei 2014].</ref>
+* Konsentrasi [[elektrolit]].<ref name="n"/>
+* Analisis kimia darah.<ref name="n"/>
+* [[Fibrin]] D-dimer.<ref name="n"/>
+* Kadar [[serum]] [[kreatin]] [[kinase]].<ref name="n"/>
+* Uji fungsi hati.<ref name="n"/>
+* Kadar serum [[seruloplasmin]].<ref name="n"/>
+Selain secara kimia, analisis juga dilakukan untuk pencitraan bagian otak dengan menggunakan:
+* ''[[Magnetic resonance imaging]]''.<ref name="n"/>
+* ''[[Computed tomography]]''.<ref name="n"/>
+* ''[[Single-photon emission computed tomography]]''.<ref name="n"/>
+* ''[[Positron emission tomography (PET)]]'' dengan ''[[fluorodeoxyglucose (FDG)]] [[Electroencephalography]] (EEG)''.<ref name="n"/>
+
+==Pengobatan==
+Pengobatan pertama diharapkan pengurangan gejala. Penggunaan obat-obatan seperti [[Benzodiazepines]], dan [[zolpidem]] dapat digunakan.<ref name="f">{{en}} Fink M, Taylor MA. 2003. ''CATATONIA: A Clinician's Guide to Diagnosis and Treatment''. Cambridge: U Press.</ref> Selain penggunaan obat-obatan terdapat terapi yaitu [[electroconvulsive therapy]] (ECT) dapat diaplikasikan.<ref name="f"/>
+
+==Referensi==
+{{reflist}}
+
+[[Kategori: Penyakit]]

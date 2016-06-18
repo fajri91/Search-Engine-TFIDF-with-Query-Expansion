@@ -1,0 +1,40 @@
+Templat:The Earth Institute
+{{Navbox
+|name = The Earth Institute
+|title = [[The Earth Institute]], [[Universitas Columbia]]
+|state = {{{state|autocollapse}}}
+|listclass = hlist
+|group1 = Direktur
+|list1=
+* [[Jeffrey Sachs]]
+|group2=Unit penelitian
+|list2=
+* [[Lamont-Doherty Earth Observatory|LDEO]]
+* [[Columbia Water Center|CWC]]
+* [[Center for Rivers and Estuaries]]
+* [[The Earth Institute|CCSR]]
+* [[Center for Environmental Research and Conservation|CERC]]
+* [[Earth Engineering Center|EEC]]
+* [[Lenfest Center for Sustainable Energy|LCSE]]
+* [[The Center for Global Health and Economic Development|CGHED]]
+* [[The Center for National Health Development in Ethiopia|CNHDE]]
+* [[The Center on Globalization and Sustainable Development|CGSD]]
+* [[The Center for the Study of Science and Religion|CSSR]]
+* [[The Center on Capitalism and Society]]
+* [[The Center for Sustainable Urban Development|CSUD]]
+* [[Center for International Earth Science Information Network|CIESIN]]
+* [[International Research Institute for Climate and Society|IRI]]
+* [[The Center for Hazards and Risk Research|CHRR]]
+|group3=Lembaga mitra
+|list3=
+* [[The Black Rock Forest Consortium]]
+* [[Center for Research on Environmental Decisions|CRED]]
+* [[Cooperative Institute for Climate Applications and Research|CICAR]]
+* [[Goddard Institute for Space Studies|GISS]]
+|group4=Proyek
+|list4=
+* [[Millennium Villages Project]] 
+* [[Millennium Cities Initiative]]
+}}<noinclude>
+{{collapsible option}}
+</noinclude>

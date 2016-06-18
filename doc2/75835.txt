@@ -1,0 +1,15 @@
+Berkas:M84 stun grenade.gif
+== {{int:filedesc}} ==
+{{Information
+| description    ={{dari|en}}
+
+Public domain: U.S. Army
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{DU}}

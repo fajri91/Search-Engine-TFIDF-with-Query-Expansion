@@ -1,0 +1,28 @@
+Templat:Konflik Aceh
+{{Navbox
+|name = Konflik Aceh
+| listclass = hlist
+| title = [[Konflik Aceh]] (1976-2005)
+|group1 = Latar Belakang
+|list1 = [[Perang Cumbok]]{{,}} [[Pemberontakan DI/TII di Aceh]]
+
+|group2 = Pihak Terlibat 
+|list2 = [[Gerakan Aceh Merdeka]]{{,}} [[Tentara Nasional Indonesia]]{{,}} [[Kepolisian Republik Indonesia]]
+
+|group3 = Operasi Militer
+|list3 = [[Operasi militer Indonesia di Aceh 1990-1998|Operasi Jaring Merah]]{{,}} [[Operasi militer Indonesia di Aceh 2003-2004|Operasi Terpadu]]
+
+|group4 = Pelanggaran HAM
+|list4 = [[Insiden Alue Nireh]]{{,}} [[Insiden Krueng Tuan]]{{,}} [[Insiden Lhok Nibong]]{{,}} [[Insiden Sama Dua]]{{,}} [[Tragedi Beutong Ateuh]]{{,}} [[Tragedi Gedung KNPI Aceh Utara]]{{,}} [[Tragedi Idi Cut]]{{,}} [[Tragedi Kandang]]{{,}} [[Tragedi Peudada]]{{,}} [[Tragedi Rumoh Geudong]]{{,}} [[Tragedi Simpang KKA]]{{,}} [[Tragedi Bumi Flora]]{{,}} [[Tragedi Relawan LSM RATA]]
+
+|group5 = Tokoh Aceh
+|list5 = [[Hasan di Tiro ]]{{,}} [[Sofyan Ibrahim Tiba]]{{,}} [[Irwandi Yusuf]]{{,}} [[Zaini Abdullah]]{{,}} [[Daud Beureueh]]{{,}} [[Dayan Dawood]]{{,}} [[Jafar Siddiq]]{{,}} [[Nasrudin Daud]]{{,}} [[Safwan Idris]]{{,}} [[Sufrin Sulaiman]]{{,}}[[Sukardi]]{{,}} [[Teuku Djohan]]{{,}} [[Daud Paneuk]]{{,}} [[Zubir]]{{,}} [[Mukhtar]]{{,}} [[Ishak Daud]]{{,}} [[Abdullah Syafi'ie]]{{,}} [[Said Adnan]]{{,}} [[Sofyan Dawood]]
+
+|group6 = Tokoh Non-Aceh
+|list6 = [[Martti Ahtisaari]]{{,}}[[Soeharto]]{{,}}[[Megawati Soekarnoputri]]{{,}}[[Susilo Bambang Yudhoyono]]{{,}}[[Jusuf Kalla]]{{,}}[[Hamid Awaluddin]]
+
+|group7 = Perdamaian
+|list7 = [[Gempa bumi Samudra Hindia 2004]]{{,}} [[Perundingan Damai Helsinki 2005]]{{,}} [[Aceh Monitoring Mission]]{{,}} [[Badan Reintegrasi Aceh]]
+}}<noinclude>
+
+[[Kategori:Templat sejarah Indonesia|{{PAGENAME}}]]</noinclude>

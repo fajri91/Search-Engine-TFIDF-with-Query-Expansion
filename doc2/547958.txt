@@ -1,0 +1,46 @@
+Stadion Lucas Oil
+{{Infobox stadium
+|stadium_name        = Lucas Oil Stadium
+|nickname            = 
+|image               = [[Berkas:LucasOilStadiumTheLuke.jpg|250px]]
+|caption             = 
+|location            = 500 South Capitol Avenue<br>[[Indianapolis|Indianapolis, Indiana]] 46225<br>{{flag|Amerika Serikat}}
+|coordinates         = {{Coord|39|45|36.2|N|86|9|49.7|W|type:landmark_scale:2000|display=inline,title}}
+|broke_ground        = 20 September 2005
+|opened              = 16 Agustus 2008
+|owner=Indiana Stadium and Convention Building Authority<br>(State of Indiana)<ref name="iscba">{{cite web|title=About ISCBA|url=http://www.in.gov/iscba/2362.htm|publisher=State of Indiana|accessdate=Januari 10, 2012}}</ref>
+|operator            = Capital Improvement Board of Managers of Marion County, Indiana
+|surface             = FieldTurf
+|construction_cost   = [[United States dollar|$]]720 juta<br>(${{formatprice|{{Inflation|US|720000000|2008}}}}  dollar{{inflation-fn|US}} tahun {{CURRENTYEAR}})
+|architect           = HKS, Inc.<br>A2so4 Architecture<ref name="a2">{{cite web|title=Lucas Oil Stadium|url=http://a2so4.com/architecture-3/lucas-oil-stadium/|publisher=A2SO4|accessdate=Januari 10, 2012}}</ref>
+|project_manager     = 
+|structural engineer = Walter P Moore/Fink Roberts & Petrie<ref name="emporis">{{cite web|title=Lucas Oil Stadium|url=http://www.emporis.com/application/?lng=3&nav=building&id=222480|publisher=Emporis|accessdate=Januari 10, 2012}}</ref>
+|services engineer   = Moore Engineers PC<ref>{{cite web|url=http://www.archdaily.com/205212/super-bowl-xlvi-lucas-oil-stadium/|title=Super Bowl XLVI/Lucas Oil Stadium|publisher=ArchDaily|accessdate=Oktober 19, 2012}}</ref><ref>{{cite web|url=http://www.kibi.org/news/indianapolis_international_airport_receives_the_2009_monumental_award|title=Indianapolis International Airport Receives the 2009 Monumental Award|publisher=Kibi.org|date=November 19, 2009|accessdate=Oktober 19, 2012}}</ref>
+|general_contractor  = Hunt/Smoot/Mezzetta
+|tenants             = [[Indianapolis Colts]] ([[National Football League|NFL]]) (2008sekarang)<br>[[Indiana High School Athletic Association|IHSAA]] (Football State Finals) (2008sekarang)<br>[[Indiana State School Music Association|ISSMA]] (Band State Finals) (2008sekarang)<br>[[NCAA Men's Division I Basketball Tournament|NCAA Men's Basketball Final Four]] (2010, 2015)<br>[[NCAA Women's Division I Basketball Tournament|NCAA Women's Basketball Final Four]] (2016)<br>[[Bands of America]] (2008sekarang)<br>[[Drum Corps International]] (20092018)<br>[[Super Bowl XLVI]] (2012)<br> [[Circle City Classic]] (2008Sekarang) <br> [[Big Ten Football Championship Game]] (20112015)<ref name="ten">{{cite web|title=BTN Dials Up Title Coverage Friday in Indianapolis|url=http://btn.com/2011/12/01/btn-dials-up-title-coverage-on-friday/|publisher=[[Big Ten Network]]|date=Desember 1, 2011|accessdate=Januari 10, 2012}}</ref>[[NCAA Men's Division I Basketball Tournament]] (Sweet 16 and Elite Eights) (2009, 2013, 2014)
+|seating_capacity    = [[Sepak bola Amerika]]: 62,421 (dapat diperluas hingga hingga 70,000)<ref>{{cite news|url=http://www.indystar.com/article/20120801/SPORTS03/120801034/Indianapolis-Colts-Team-will-turn-single-game-tickets-chase-sellouts|title=Indianapolis Colts: Team Will Turn to Single-Game Tickets in Chase for Sellouts|first=Mike|last=Chappel|newspaper=[[The Indianapolis Star]]|date=Agustus 1, 2012|accessdate=September 6, 2012}}</ref><br>[[Bola basket]]: 70,000 (kira-kira)<br> [[Super Bowl XLVI]]: 70,000 (kira-kira)
+}}
+
+'''Stadion Lucas Oil''' adalah sebuah stadion serbaguna yang terletak di [[Indianapolis]], [[Indiana]], [[Amerika Serikat]]. Stadion dibuka pada tanggal 24 Agustus 2008 setelah delapan hari sebelumnya dilakukan upacara pemotongan pita pada tanggal 16 Agustus 2008.<ref name="wishtv.com">{{cite press release| title=Iscba Announces Lucas Oil Stadium Grand Opening Events|url=http://www.in.gov/iscba/files/LOS_Grand_Opening_events_release(1).doc|date=Juni 23, 2008|publisher=ISCBA|accessdate=Januari 10, 2012}}</ref> Stadion ini menggantikan [[RCA Dome]] sebagai kandang dari klub [[sepak bola Amerika]]  [[Indianapolis Colts]] yang berlaga di [[National Football League]].
+
+Stadion ini mempunyai kapasitas 62.421, yang dapat diperluas hingga menjadi 70.000. Selain digunakan sebagai tempat olahraga [[sepak bola Amerika]], stadion ini juga bisa digunakan untuk olahraga [[bola basket]].
+
+==Referensi==
+{{Reflist}}
+
+==Pranala luar==
+{{Commons category|Lucas Oil Stadium}}
+*{{en}} {{Official|www.lucasoilstadium.com}}
+*{{en}} [http://football.ballparks.com/NFL/IndianapolisColts/newindex.htm Situs web Stadion Lucas Oil di Ballparks.com]
+*{{en}} [http://www.in.gov/iscba/ Indiana Stadium and Convention Building Authority]
+*{{en}} [http://www.oxblue.com/client/indianastadium/ ISCBA High-Quality Webcam]
+*{{en}} [http://www.emporis.com/en/wm/bu/?id=222480 Emporis Buildings Site Info]
+*{{en}} [http://www2.indystar.com/images/graphics/2006/04/0421_stadium_webcam/ IndyStar.com Webcam]
+*{{en}} [http://www.pacersdigest.com/apache2-default/showthread.php?t=36125/ Link to High Quality Pictures Inside Lucas Oil Stadium]
+*{{en}} [http://www.twaycompany.com/photogallery/photo00017570/real_p.htm Lucas Oil Stadium construction pictures]
+*{{en}} [http://www.uni-systems.com/en/projects/featured-projects/lucas-oil-stadium Retractable roof technical description and illustration]
+
+{{Stadion NFL}}
+{{Stadion-stub}}
+
+[[Kategori:Stadion National Football League]]

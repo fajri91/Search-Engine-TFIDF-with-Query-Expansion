@@ -1,0 +1,87 @@
+3-Metilheptana
+{{Chembox
+| verifiedrevid = 401852718
+| ImageFile = 3-Methylheptane.png
+| ImageFile_Ref = {{chemboximage|correct|??}}
+| ImageName = Skeletal formula of 3-methylheptane
+| ImageFile1 = Dl-3-methyl-heptane-spaceFill.png
+| ImageFile1_Ref = {{chemboximage|correct|??}}
+| ImageName1 = Spacefill model of 3-methylheptane (R and S)
+| IUPACName = 3-Metilheptana<ref>{{Cite web|title=3-METHYLHEPTANE - Compound Summary|url=http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=11519&loc=ec_rcs|work=PubChem Compound|publisher=National Center for Biotechnology Information|accessdate=8 March 2012|location=USA|date=26 March 2005|at=Identification and Related Records}}</ref>
+| OtherNames = 2-Ethylhexane{{Citation needed|date=March 2012}}
+| Section1 = {{Chembox Identifiers
+|  CASNo = 589-81-1
+|  CASNo_Ref = {{cascite|correct|CAS}}
+|  CASNo1 = 6131-25-5
+|  CASNo1_Ref = {{cascite|correct|??}}
+|  CASNo1_Comment = <small>''S''</small>
+|  PubChem = 11519
+|  PubChem_Ref = {{Pubchemcite|correct|Pubchem}}
+|  PubChem1 = 12263096
+|  PubChem1_Ref = {{Pubchemcite|correct|Pubchem}}
+|  PubChem1_Comment = <small>''R''</small>
+|  PubChem2 = 12263095
+|  PubChem2_Ref = {{Pubchemcite|correct|Pubchem}}
+|  PubChem2_Comment = <small>''S''</small>
+|  ChemSpiderID = 11035
+|  ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+|  EINECS = 209-660-6
+|  UNNumber = 1262
+|  Beilstein = 1730777
+|  SMILES = CCCCC(C)CC
+|  StdInChI = 1S/C8H18/c1-4-6-7-8(3)5-2/h8H,4-7H2,1-3H3
+|  StdInChI_Ref = {{stdinchicite|correct|chemspider}}-
+|  StdInChIKey = LAIUFBWHERIJIH-UHFFFAOYSA-N
+|  StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+}}
+| Section2 = {{Chembox Properties
+|  C = 8
+|  H = 18
+|  ExactMass = 114.140850576 g mol<sup>1</sup>
+|  Appearance = Tidak berwarna, cairan transparan
+|  Odor = Tidak berbau
+|  Density = 705 mg mL<sup>1</sup>
+|  MeltingPtKL = 151
+|  MeltingPtKH = 153
+|  BoilingPtKL = 391
+|  BoilingPtKH = 393
+|  VaporPressure = 5.0 kPa (at 37.7 C)
+|  HenryConstant = 2.7 nmol Pa<sup>1</sup> kg<sup>1</sup>
+|  RefractIndex = 1.3981.399
+}}
+| Section3 = {{Chembox Thermochemistry
+|  DeltaHf = 253.6251.4 kJ mol<sup>1</sup>
+|  DeltaHc = 5469.55466.9 kJ mol<sup>1</sup>
+|  Entropy = 362.6 J K<sup>1</sup> mol<sup>1</sup>
+|  HeatCapacity = 250.20 J K<sup>1</sup> mol<sup>1</sup>
+}}
+| Section4 = {{Chembox Hazards
+|  GHSPictograms = {{GHS flame}} {{GHS exclamation mark}} {{GHS health hazard}} {{GHS environment}}
+|  GHSSignalWord = '''BERBAHAYA'''
+|  HPhrases = {{H-phrases|225|304|315|336|410}}
+|  PPhrases = {{P-phrases|210|261|273|301+310|331}}
+|  EUIndex = 601-009-00-8
+|  EUClass = {{Hazchem F}} {{Hazchem Xn}} {{Hazchem N}}
+|  RPhrases = {{R11}}, {{R38}}, {{R50/53}}, {{R65}}, {{R67}}
+|  SPhrases = {{S2}}, {{S16}}, {{S29}}, {{S33}}
+|  FlashPt = 7.2 C
+|  ExploLimits = 0.98?%
+}}
+| Section5 = {{Chembox Related
+|  Function = alkana
+|  OtherFunctn = {{Unbulleted list|[[2-Metilheksana]]|[[3-Metilheksana]]|[[2-Metilheptana]]}}
+|  OtherCpds = {{Unbulleted list|[[Valnoktamida]]|[[2-Etilheksanol]]|[[Valpromida]]|[[Asam 2-Etilheksanoat]]|[[Propilheptil alkohol]]}}
+}}
+}}
+'''3-Metilheptana''' adalah [[alkana]] bercabang yang merupakan [[isomer]] dari [[oktana]]. Mempunyai [[rumus kimia]] CH<sub>3</sub>CH<sub>2</sub>CH(CH<sub>3</sub>)CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub>. 
+
+==Referensi==
+{{Reflist}}
+
+==Pranala luar==
+*[http://www.springerlink.com/content/qx16v65540365nx4/ Non-stereospecific oxidation of DL-3-methylheptane by aPseudomonas]
+*[http://www.cheric.org/kdb/kdb/hcprop/showprop.php?cmpid=48 Physical and chemical properties table]
+{{Alkana}}
+
+{{DEFAULTSORT:Methylheptane, 3-}}
+[[Category:Alkana]]

@@ -1,0 +1,31 @@
+Templat:Country data Republik Tiongkok
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Republik Tiongkok
+| shortname-alias = Taiwan
+| flag alias = Flag of the Republic of China.svg
+| alt attribute = Bendera Republik Tiongkok
+| flag alias-1912 = Flag of the Republic of China 1912-1928.svg
+| flag alias-army = Republic of China Army Flag.svg
+| link alias-football = Tim nasional sepak bola {{{mw|}}} Tionghoa Taipei
+| link alias-basketball = Tim nasional bola basket {{{mw|}}} Tionghoa Taipei
+| link alias-rugby union = Chinese Taipei {{{mw|}}} national rugby union team
+| link alias-tennis = China {{{mw}}} Cup team
+| name alias-tennis = China
+| size = {{{size|}}}
+| name = {{#ifeq:{{{name|}}}|Cina|Tiongkok|{{#ifeq:{{{name|}}}|Republik Tiongkok|Republik Tiongkok|{{#ifeq:{{{name|}}}|ROC|RT|{{{name|}}}}}}}}}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = 1912
+| redir1 = ROC
+| redir2 = TWN
+| redir3 = China, Republic of
+| redir4 = Republic of China
+| related1 = Taiwan
+| related2 = Tionghoa Taipei
+</noinclude>
+}}<noinclude>
+[[fr:Modle:Country data Tawan]]
+[[te::Country data Taiwan]]
+</noinclude>

@@ -1,0 +1,224 @@
+Grand Prix F1 Perancis 2006
+'''Grand Prix F1 Perancis 2006''' merupakan balapan [[Formula 1]] yang berlangsung pada [[16 Juli]] [[2006]] di [[Circuit de Nevers Magny Cours]].
+
+__FORCETOC__
+
+== Lomba ==
+{| {{prettytable}}
+|-
+! Pos !! No !! Pembalap !! Tim !! Lap !! Waktu/Tersingkir !! Grid !! Poin
+|-
+! 1
+| 5
+| [[Berkas:Flag of Germany.svg|25px]] '''[[Michael Schumacher]]'''
+| '''[[Scuderia Ferrari|Ferrari]]'''
+| 70
+| 1'32.07:803
+| 1
+| '''10'''
+|-
+! 2
+| 1
+| [[Berkas:Flag of Spain.svg|25px]] '''[[Fernando Alonso]]'''
+| '''[[Renault F1|Renault]]'''
+| 70
+| +10.1
+| 3
+| '''8'''
+|-
+! 3
+| 6
+| [[Berkas:Flag of Brazil.svg|25px]] '''[[Felipe Massa]]'''
+| '''[[Scuderia Ferrari|Ferrari]]'''
+| 70
+| +22.8
+| 2
+| '''6'''
+|-
+! 4
+| 7
+| [[Berkas:Flag of Germany.svg|25px]] '''[[Ralf Schumacher]]'''
+| '''[[Toyota F1|Toyota]]'''
+| 70
+| +27.2
+| 5
+| '''5'''
+|-
+! 5
+| 3
+| [[Berkas:Flag of Finland.svg|25px]] '''[[Kimi Raikkonen]]'''
+| '''[[Team McLaren|McLaren-Mercedes]]'''
+| 70
+| +33.0
+| 6
+| '''4'''
+|-
+! 6
+| 2
+| [[Berkas:Flag of Italy.svg|25px]] '''[[Giancarlo Fisichella]]'''
+| '''[[Renault F1|Renault]]'''
+| 70
+| +45.2
+| 7
+| '''3'''
+|-
+! 7
+| 4
+| [[Berkas:Flag of Spain.svg|25px]] '''[[Pedro de la Rosa]]'''
+| '''[[Team McLaren|McLaren-Mercedes]]'''
+| 70
+| +49.4
+| 8
+| '''2'''
+|-
+! 8
+| 16
+| [[Berkas:Flag of Germany.svg|25px]] '''[[Nick Heidfeld]]'''
+| '''[[BMW Sauber|Sauber-BMW]]'''
+| 69
+| +1 Lap
+| 11
+| '''1'''
+|-
+! 9
+| 14
+| [[Berkas:Flag of the United Kingdom.svg|25px]] [[David Coulthard]]
+| [[Red Bull Racing|Red Bull-Ferrari]]
+| 69
+| +1 Lap
+| 9
+|
+|-
+! 10
+| 21
+| [[Berkas:Flag of the United States.svg|25px]] [[Scott Speed]]
+| [[Scuderia Toro Rosso|STR-Cosworth]]
+| 69
+| +1 Lap
+| 14
+|
+|-
+! 11
+| 17
+| [[Berkas:Flag of Canada.svg|25px]] [[Jacques Villeneuve]]
+| [[BMW Sauber|Sauber-BMW]]
+| 69
+| +1 Lap
+| 16
+|
+|-
+! 12
+| 15
+| [[Berkas:Flag of Austria.svg|25px]] [[Christian Klien]]
+| [[Red Bull Racing|Red Bull-Ferrari]]
+| 69
+| +1 Lap
+| 12
+|
+|-
+! 13
+| 20
+| [[Berkas:Flag of Italy.svg|25px]] [[Vitantonio Liuzzi]]
+| [[Scuderia Toro Rosso|STR-Cosworth]]
+| 69
+| +1 Lap
+| 22
+|
+|-
+! 14
+| 10
+| [[Berkas:Flag of Germany.svg|25px]] [[Nico Rosberg]]
+| [[WilliamsF1|Williams-Cosworth]]
+| 68
+| +2 Lap
+| 18
+|
+|-
+! 15
+| 19
+| [[Berkas:Flag of the Netherlands.svg|25px]] [[Christijan Albers]]
+| [[MF1 Racing|MF1-Toyota]]
+| 68
+| +2 Lap
+| 15
+|
+|-
+! 16
+| 23
+| [[Berkas:Flag of France.svg|25px]] [[Franck Montagny]]
+| [[Super Aguri F1|Super Aguri-Honda]]
+| 67
+| +3 Lap
+| 20
+|
+|-
+! Ret
+| 12
+| [[Berkas:Flag of the United Kingdom.svg|25px]] [[Jenson Button]]
+| [[Honda F1|Honda]]
+| 61
+| Mesin
+| 17
+|
+|-
+! Ret
+| 9
+| [[Berkas:Flag of Australia.svg|25px]] [[Mark Webber]]
+| [[WilliamsF1|Williams-Cosworth]]
+| 55
+| Handling/Ban
+| 10
+|
+|-
+! Ret
+| 8
+| [[Berkas:Flag of Italy.svg|25px]] [[Jarno Trulli]]
+| [[Toyota F1|Toyota]]
+| 39
+| Mesin
+| 4
+|
+|-
+! Ret
+| 11
+| [[Berkas:Flag of Brazil.svg|25px]] [[Rubens Barrichello]]
+| [[Honda F1|Honda]]
+| 28
+| Mesin
+| 13
+|
+|-
+! Ret
+| 18
+| [[Berkas:Flag of Portugal.svg|25px]] [[Tiago Monteiro]]
+| [[MF1 Racing|MF1-Toyota]]
+| 11
+| Melintir
+| 19
+|
+|-
+! Ret
+| 22
+| [[Berkas:Flag of Japan.svg|25px]] [[Takuma Sato]]
+| [[Super Aguri F1|Super Aguri-Honda]]
+| 0
+| Transmisi
+| 21
+|
+|}
+
+== Catatan ==
+* Pole Position:[[Michael Schumacher]] 1:15.493
+* Lap Tercepat:[[Michael Schumacher]] 1:17.411
+
+{{F1 race report
+| Name_of_race            = [[Grand Prix Perancis]]
+| Year_of_race            = 2006
+| Previous_race_in_season = [[Grand Prix F1 Amerika Serikat 2006]]
+| Next_race_in_season     = [[Grand Prix F1 Jerman 2006]]
+| Previous_year's_race    = [[Grand Prix F1 Perancis 2005]]
+| Next_year's_race        = [[Grand Prix F1 Perancis 2007]]
+}}
+
+[[Kategori:Grand Prix Perancis|2006]]
+[[Kategori:Grand Prix F1 musim 2006|Perancis]]

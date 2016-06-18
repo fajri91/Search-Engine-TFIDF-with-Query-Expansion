@@ -1,0 +1,11 @@
+Templat:Location map Kepulauan Marshall
+{{#switch:{{{1}}}
+|name   = Kepulauan Marshall
+| top    = 15.5
+| bottom = 3.0
+| left   = 160.0
+| right  = 173.2
+| image  = Marshall Islands location map.svg
+}}<noinclude>{{Location map/Info|Kepulauan Marshall}}
+[[Category:Templat peta navigasi menurut negara|Kepulauan Marshall]]
+</noinclude>

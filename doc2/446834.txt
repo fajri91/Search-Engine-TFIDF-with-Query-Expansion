@@ -1,0 +1,72 @@
+Templat:EXO
+{{Navbox musical artist
+ | name = EXO
+ | title = [[EXO]]
+ | state = {{{state<includeonly>|autocollapse</includeonly>}}}
+ | bodyclass = hlist
+ | background = group_or_band
+ | above =
+
+{{col-begin}}
+{{col-2|align = center}}
+; EXO-K
+: <br />[[Suho]]
+: [[Baekhyun]]
+: [[Chanyeol]]
+: [[D.O.]]
+: [[Kai (penyanyi)|Kai]]
+: [[Oh Sehun|Sehun]]
+{{col-2|align = center}}
+; EXO-M
+: <br />[[Kris Wu|Kris]]
+: [[Xiumin]]
+: [[Lu Han|Luhan]]
+: [[Lay]]
+: [[Chen (penyanyi)|Chen]]
+: [[Tao (penyanyi)|Tao]]
+{{col-end}}
+
+ | group1 = Album studio
+ | list1 =
+* ''[[XOXO (album)|XOXO]]''
+* ''[[Exodus (album EXO)|EXODUS]]''
+
+ | group2 = Album ''repackage''
+ | list2 =
+* ''[[XOXO (album)#Growl (Repackaged Edition)|Growl]]''
+* ''[[Love Me Right (album EXO)|Love Me Right]]''
+
+ | group3 = Album mini
+ | list3 =
+* ''[[Mama (album mini)|Mama]]''
+* ''[[Miracles in December]]''
+* ''[[Overdose (album mini)|Overdose]]''
+
+ | group4 = Tur
+ | list4 =
+* [[SMTown Live World Tour III]]
+* EXO Planet #1 - The Lost Planet
+* [[Exo Planet 2 - The Exo'luxion]]
+
+ | group5 = Filmografi
+ | list5 =
+* ''EXO's Showtime!''
+* ''XOXO EXO!''
+* ''EXO Next Door''
+
+ | group6 = Topik terkait
+ | list6 =
+* [[S.M. Entertainment]]
+* [[SM Town]]
+* [[Lee Soo-man]]
+* [[Yoo Young-jin]]
+* [[Kenzie (penulis lagu)|Kenzie]]
+
+ | below =
+{{nowrap begin}}[[Daftar anggota EXO]]{{}} [[Diskografi EXO|Diskografi]]{{}} [[Videografi EXO|Videografi]]{{}} [[Daftar lagu EXO]]{{}} [[Daftar penghargaan dan nominasi yang diterima oleh Exo|Penghargaan dan nominasi]]{{nowrap end}}
+}}<noinclude>
+{{collapsible option}}
+[[Kategori:EXO]]
+[[Kategori:Templat musisi Korea Selatan]]
+[[Kategori:Templat navigasi musik]]
+</noinclude>

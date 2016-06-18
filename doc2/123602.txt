@@ -1,0 +1,80 @@
+Portal:Film/Artikel pilihan
+Halaman ini memuat artikel-artikel yang telah atau akan menjadi '''Artikel Pilihan Portal Film'''. Setiap pengguna bisa mengajukan artikel pilihannya di [[Pembicaraan Portal:Film/Artikel pilihan|halaman diskusi]]. Syarat-syaratnya ialah:
+# Artikel harus mengenai sesuatu yang ada hubungannya dengan [[film]].
+# Artikel harus netral.
+# Artikel harus ditulis dengan rapi dengan menggunakan gaya bahasa yang baik.
+# Artikel harus cukup panjang dan bukan merupakan artikel [[stub|rintisan]].
+<br style="clear:both;" />
+{|
+| colspan="2" style="border:1px solid #dfdfdf; padding:1em 1em 1em 1em; background-color:#FAF0E6" | 
+<div style="font-size:16pt; text-align:center">Artikel Pilihan saat ini</div>
+|-
+| colspan="2" style="border:1px solid #dfdfdf; padding:1em 1em 1em 1em; background-color:#FFFAF0" |
+{{Portal:Film/Artikel_pilihan/{{CURRENTMONTH1}}_{{CURRENTYEAR}}}}
+<br clear="all">
+----
+
+<div align="right" class="noprint">
+[http://id.wikipedia.org/w/index.php?title=Portal:Film/Artikel_pilihan/{{CURRENTMONTH1}}_{{CURRENTYEAR}}&action=edit sunting]
+|}
+__NOTOC__
+== Jadwal ==
+Berikut ini adalah jadwal artikel pilihan dari tahun 2007 hingga 2010:
+{| class=tabelcantikcyan
+|-
+|colspan=5|'''2007-2010'''
+|-
+||waktu||artikel||#||templat
+|-
+||[[November 2007]]||[[Pocong 2]]||1||[[Portal:Film/Artikel_pilihan/11 2007]]
+|-
+||[[Desember 2007]]||[[Final Destination]]||2||[[Portal:Film/Artikel_pilihan/12 2007]]
+|-
+||[[Februari 2008]]||||3||[[Portal:Film/Artikel_pilihan/2 2008]]
+|-
+||[[Maret 2008]]||||4||[[Portal:Film/Artikel_pilihan/3 2008]]
+|-
+||[[April 2008]]||||5||[[Portal:Film/Artikel_pilihan/4 2008]]
+|-
+||[[Desember 2009]]||[[Twilight]]||6||[[Portal:Film/Artikel pilihan/12 2009]]
+|-
+||[[Januari 2010]]||||7||[[Portal:Film/Artikel_pilihan/1 2010]]
+|-
+||[[Juli 2010]]||[[Rumah Dara]]||8||[[Portal:Film/Artikel_pilihan/7 2010]]
+|-
+||[[September 2010]]||[[Harry Potter and the Half-Blood Prince]]||9||[[Portal:Film/Artikel pilihan/9 2010]]
+|-
+||[[Juli 2010]]||||10||[[Portal:Film/Artikel_pilihan/10 2010]]
+|}
+
+==== Kandidat yang belum dijadwalkan ====
+
+== Artikel yang telah menjadi Artikel Pilihan ==
+==Horor==
+[[Pocong 2]]
+
+== Komedi ==
+
+== Roman ==
+[[Twilight (film 2008)]]
+
+== Thriller ==
+[[Rumah Dara]]
+
+== Sutradara ==
+
+== Fantasi ==
+[[Harry Potter and the Half-Blood Prince
+
+]]
+
+== Sci-fi ==
+
+== Lihat pula ==
+* [[Wikipedia:Artikel Pilihan|Artikel Pilihan di Wikipedia Indonesia]]
+
+{{DEFAULTSORT:{{PAGENAME}}}}
+
+[[Kategori:Isi pilihan Wikipedia]]
+
+[[en:Portal:Film/Featured article]]

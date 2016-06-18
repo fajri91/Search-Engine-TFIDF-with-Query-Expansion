@@ -1,0 +1,75 @@
+CC50
+{{noref}}
+{{Infobox Lokomotif
+|image           =Stoom locomotive CC50.JPG
+|caption         ='''CC50 / SS1600'''
+|powertype       =[[Uap]]
+|serialnumber    =[[CC50]] / SS1600
+|fueltype        =Batubara 
+|gauge           =1.067 mm
+|builder         =Werkspoor, [[Amsterdam]], [[Belanda]] dan SLM (Swiss Locomotive and Machineworks) [[Swiss]]
+|buildmodel      =Mallet
+|builddate       =1927-1928
+|totalproduction =30 unit
+|aarwheels       =1-C-C
+|uicclass        =(1C')C'
+|whytetype       =2-6-6-0
+|length          =19.902 mm
+|width           =2.450 mm
+|weight          =73,6 ton
+|empty weight    =65,7 ton
+|severe adhesion =66 ton
+|wheeldiameter   =1.106 mm
+|vapor pressure  =14 kg/cm
+|watercap        =25 m
+|cylindersize    =420/650 mm X 610 mm
+|poweroutput     =1200 hp
+|topspeed        =55 km/jam
+|depot           =[[Purwokerto]], [[Cibatu]], [[Ambarawa]], [[Madiun]], [[Sidotopo]]
+|railroad        =Pemilik asli: [[Java Staatsspoorwegen]]
+|notes           =
+}}
+
+'''Lokomotif''' '''CC 50''' adalah [[lokomotif uap]] jenis mallet yang pernah dimiliki oleh Java Staatsspoorwegen. Lokomotif ini diproduksi oleh Werkspoor, [[Belanda]] dan SLM, [[Swiss]]. Lokomotif ini memiliki susunan gandar (1C')C'.
+
+== Sejarah ==
+
+Tahun 1927, Java [[Staasspoorwegen]] (JSS) mulai mendatangkan lokomotif uap [[CC50|CC 50]]. Sebanyak 30 unit lokomotif langsung dipesan dari beberapa pabrik di [[Eropa]] seperti : Werkspoor [[Belanda]] dan Schweizerische Lokomotiv-und Maschinenfabrik [[Swiss]]. Jalur menanjak dan berbukit-bukit, seperti [[Cibatu, Garut|Cibatu]]-Cikajang-[[Garut]] dengan mudahnya dilalui oleh lokomotif [[CC50|CC 50]].  Lokomotif yang telah teruji bisa melewati kesulitan yang tidak dimiliki lokomotif lain. Antara lain mampu menarik rangkaian seberat 1.300 ton dengan kecepatan 55 km/jam juga mampu membelok di tikungan tajam.
+
+Dengan semua kelebihan yang dapat dipenuhi oleh [[CC50|CC 50]], maka dipergunakanlah lokomotif ini di jalur [[Purwakarta]], [[Cibatu]], [[Purwokerto]], [[Ambarawa]], dan [[Madiun]] Bahkan [[Cibatu]] merupakan salah satu pangkalan utama semua lokomotif Mallet.
+
+Namun lokomotif ini tak bisa menghindar tuntutan zaman. Kebijakan rasionalisasi lokomotif uap ke lokomotif diesel, membuat [[CC50|CC 50]] harus purna tugas pada tahun 1982. Keberadaannya tergusur dan tergantikan oleh [[CC200|CC 200]], lokomotif diesel pertama yang diimpor oleh DKA (Djawatan Kereta Api). Berdasarkan buku PNKA Power Parade, AE. Durrant, persebaran lokomotif [[CC50|CC 50]] pada tahun 1969-1971 terdapat di :
+* [[Cibatu]] 2 unit
+* Banjar 4 unit
+* [[Purwakarta]] 1 unit
+* [[Purwokerto]] 10 unit
+* [[Ambarawa]] 3 unit
+* [[Madiun]] 2 unit 
+* [[Sidotopo]] 3 unit
+
+CC 50 01 menjadi saksi bisu di Museum Transportasi [[TMII]]-[[Jakarta]]. CC 50 29 di [[Museum KA Ambarawa]] dan CC 50 30 yang tinggal potongan kepalanya saja di [[Dipo Lokomotif]] Cibatu. Sebenarnya ada satu lokomotif lagi yang dikirim ke [[Sumatera Selatan]] pada tahun 1970-an, namun nasibnya tidak diketahui rimbanaya.
+
+== Lihat pula ==
+* [[Dipo lokomotif]]
+* [[Diesel elektrik]]
+* [[Industri Kereta Api]] [[Madiun]]
+* [[Daftar kecelakaan kereta api di Indonesia]]
+* [[Kereta Api Indonesia]]
+* [[Kereta api ringan]]
+* [[Union Pacific Big Boy]]
+* [[Union Pacific 3985]]
+
+== Pranala luar ==
+* {{id}} [http://rel-keretaapi.blogspot.com/2008/07/data-teknik-lokomotif-bb-203.html Data teknik lokomotif BB 203]
+* {{id}} [http://www.semboyan35.com/showthread.php?tid=259 Daftar lokomotif BB 203 yang diubah menjadi CC 201]
+* {{id}} [http://www.gm-marka.web.id/f22/data-persebaran-lokomotif-diesel-elektrik-dan-diesel-hidraulik-336.html/ Alokasi Lokomotif PT. KAI di Indonesia Saat Ini]
+* {{id}} [http://www.kereta-api.co.id/ Situs web resmi PT Kereta Api Indonesia (Persero)]
+
+{{DaftarLokomotifIndonesia}}
+{{DaftarKeretaApi}}
+{{commonscat|PT Kereta Api}}
+
+{{lokomotif-stub}}
+
+[[Kategori:Lokomotif]]
+[[Kategori:Transportasi rel di Indonesia]]

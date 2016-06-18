@@ -1,0 +1,111 @@
+From the Inside Out
+{{Infobox album <!-- See Wikipedia:WikiProject_Albums -->
+| Name        = From the Inside Out
+| Type        = studio
+| Artist      = [[Stan Walker]]
+| Cover       = Stan Walker - From the Inside Out.jpg
+| Released    = {{flagicon|Australia}} Australia  [[20 Agustus]] [[2010]] <br /> {{flagicon|New Zealand}} Selandia Baru  [[23 Agustus]] 2010
+| Recorded    = 20092010
+| Genre       = [[Contemporary R&B|R&B]], [[Musik soul|soul]], [[pop rock]] [[Musik hip hop|hip hop]]
+| Length      =
+| Label       = [[Sony Music Australia|Sony Music]]
+| Producer    = [[Israel Cruz]], [[Audius Mtawarira]], Stuart Crichton, [[Ryan Tedder]], Leon Seenandan, Jade Seenandan, [[Phil Tan]], Frederick Tao, Spencer Nezey, Fridolin Nordsoe
+<!-- Reviews no longer go in infobox -->
+| Certification =
+| Last album  = ''[[Introducing... Stan Walker]]''<br />(2009)
+| This album  = '''''From the Inside Out'''''<br />(2010)
+| Next album  =
+||Misc =
+{{Singles
+  | Name           = From the Inside Out
+  | Type           = studio
+  | single 1      =  [[Unbroken (lagu Stan Walker)|Unbroken]]
+  | single 1 date  = 12 April 2010
+  | single 2       = [[Choose You]]
+  | single 2 date  = 20 Juli 2010
+  | single 3       =  
+  | single 3 date  = 
+}}
+}}
+
+'''''From the Inside Out''''' adalah [[album]] kedua [[penyanyi]] asal [[Australia]], [[Stan Walter]].<ref name="JB HI FI"/> Album ini dirilis pada tanggal [[20 Agustus]] [[2010]].
+
+== Daftar lagu ==
+<ref name="CD"/>
+{{Tracklist
+| total_length    = 
+| writing_credits = yes
+| extra_column    = Produser
+
+| title1        = Inside Out
+| writer1       = Stan Walker, [[Audius Mtawarira]], Leon Seenandan
+| extra1        = A. Mtawarira, L. Seenandan
+| length1       = 4:01
+| title2        = All I Need
+| writer2       = S. Walker, [[Israel (penyanyi)|Israel Cruz]]
+| extra2        = I. Cruz
+| length2       = 3:22
+| title3        = [[Unbroken (lagu Stan Walker)|Unbroken]]
+| length3       = 4:33
+| writer3       = [[Ryan Tedder]]
+| extra3        = R. Tedder
+| title4        = Homesick
+| writer4       = Frederick Nordsoe, Fridolin Nordsoe, Edwin Serrano, Latesha Marrow
+| extra4        = Stuart Critchon
+| length4       = 3:28
+| title5        = With Me
+| writer5       = S. Walker, A. Mtawarira, L. Seenandan, Jade Seenandan
+| extra5        = A. Mtawarira, L. Seenandan, J. Seenandan
+| length5       = 3:50
+| title6        = [[Choose You]]
+| writer6       = [[Cassie Davis]], S. Critchon, Carl Dimataga
+| extra6        = Stuart Critchon, C. Davis, Phil Tan
+| length6       = 3:37
+| title7        = One Thing
+| writer7       = S. Walker, I. Cruz
+| extra7        = I. Cruz
+| length7       = 3:40
+| title8        = Love Graffti
+| length8       = 3:22
+| writer8       = Greg Ogan, Spencer Nezey, Solomon Ridge
+| extra8        = G. Ogan, S. Nexey
+| title9        = Chandelier
+| length9       = 4:18
+| writer9       = Frederick Nordsoe, Fridolin Nordsoe, E. Serrano, L. Marrow
+| extra9        = A. Mtawarira, L. Seenandan
+| title10       = The One
+| note10        = featuring [[Pixie Lott]]
+| length10      = 3:20
+| writer10      = P. Lott, [[Karen Poole]], [[Tommy Lee James]], Stuart Crichton
+| extra10       = S. Crichton
+| title11       = Stand Up
+| length11      = 3:36
+| writer11      = Jens Koerkemeier, Pierre Eiras, Charlie Brown
+| extra11       = A. Mtawarira, L. Seenandan
+| title12       = [[Kissing You (Des'ree song)|Kissing You]]
+| length12      = 4:41
+| writer12      = [[Des'ree]], Timothy Atack
+| extra12       = A. Mtawarira, L. Seenandan
+| title13       = [[Stuck in a Box]]
+| note13        = with [[Young Sid]]
+| length13      = 3:41
+| writer13      = E. Haynie, [[Young Sid|Sidney Diamond]], T. Tautogia, S. Mullins
+| extra13       = Emile
+}}
+{{Tracklist
+| collapsed       = yes
+| headline        = [[iTunes Store]] only<ref name="iTunes"/>
+
+| title14        = Choose You
+| note14         = GuitarBoy Mix
+| length14       = 3:22
+}}
+
+== Referensi ==
+{{Reflist}}
+
+{{Stan Walker}}
+{{Album-stub}}
+
+[[Kategori:Album tahun 2010]]
+[[Kategori:Album Stan Walter]]

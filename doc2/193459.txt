@@ -1,0 +1,84 @@
+Teleskop luar angkasa Spitzer
+{{Infobox teleskop angkasa
+| name            = Teleskop Luar Angkasa Spitzer
+| image           =[[File:Spitzer space telescope.jpg|250px|Penggambaran Teleskop Luar Angkasa Spitzer]] 
+| caption         = Gambaran Teleskop luar angkasa Spitzer
+| organization    = [[NASA]]&nbsp;/ [[Jet Propulsion Laboratory|JPL]]&nbsp;/ [[Caltech]]
+| major_contractors = [[Lockheed Martin]]{{br}}[[Ball Aerospace & Technologies Corp.|Ball Aerospace]]
+| alt_names       = sebelumnya ''Space Infrared Telescope Facility'' (SIRTF) (Fasilitas Teleskop Inframerah Luar Angkasa)
+| nssdc_id        = [[nssdc.gsfc.nasa.gov/nmc/masterCatalog.do?sc=2003-038A|2003-038A]]
+| location        = Mengorbit [[Matahari]]
+| orbit_type      = [[Heliosentrisme|Heliosentrik]] <!--
+   --><ref name="spitfacts">{{cite web | author=Spitzer Space Telescope | title=About Spitzer: Fast Facts | publisher=NASA / JPL  | url=http://www.spitzer.caltech.edu/about/fastfacts.shtml | date=2008 |accessdate=2007-04-22}}</ref>
+| height          = 
+| period          = 1 [[tahun]]
+| velocity        = 
+| accel_gravity   = 
+| launch_date     = 25 Agustus 2003 <ref name="spitfacts"/>
+| launch_location = [[Cape Canaveral Air Force Station|Cape Canaveral]], [[Florida]] <ref name="spitfacts"/>
+| launch_vehicle  = [[Delta II]] 7920H ELV <ref name="spitfacts"/>
+| mission_length  = 2,5 sampai 5+ tahun <ref name="spitfacts"/>{{br}}(sudah berjalan {{Untuk tahun bulan hari|year=2003|month=08|day=25}})
+| deorbit_date    = 
+| wavelength      = 3 sampai 180 [[mikrometer]] <ref name="spitfacts"/>
+| mass            = 950 kg<ref name="spitfacts"/>
+| style           = [[Ritchey-Chrtien]]<!--
+   --> <ref name="spitscope">{{cite web | author=Spitzer Space Telescope | title=Spitzer Technology: Telescope | publisher=NASA / JPL | url=http://www.spitzer.caltech.edu/technology/telescope.shtml | accessdate=2007-04-22}}</ref>
+| diameter        = 0,85 [[Metre|m]]<ref name="spitfacts"/>
+| area            = 
+| focal_length    = 10,2 m
+| coolant         = Liquid helium <ref name="spitfacts"/>
+| instrument_1_name = IRAC
+| instrument_1_characteristics = Infrared Array Camera (Kamera [[Inframerah]])
+| instrument_2_name = IRS
+| instrument_2_characteristics = Infrared Spectrometer ([[Spektrometer]] [[Inframerah]])
+| instrument_3_name = MIPS 
+| instrument_3_characteristics = Multiband Imaging Photometer (Susunan Detektor Inframerah Jauh)
+| instrument_4_name = 
+| instrument_4_characteristics = 
+| website         = [http://www.spitzer.caltech.edu/ www.spitzer.caltech.edu]
+}}
+
+'''Teleskop luar angkasa Spitzer''' (sebelumnya disebut '''''Space Infrared Telescope Facility''''', '''''SIRTF''''' , Fasilitas Teleskop Inframerah Luar Angkasa) adalah sebuah [[observatorium angkasa]] [[inframerah]]. Ia merupakan [[Observatorium angkasa#Observatorium besar NASA|Observatorium Besar NASA]] yang ke-empat dan yang terakhir.
+
+Periode misi tersebut yang direncanakan adalah 2,5 tahun dengan perkiraan sebelum peluncuran bahwa misi tersebut dapat diperpanjang hingga lima tahun atau sedikit lebih lama hingga pasokan helium cair di dalamnya habis.  Menurut komentar yang dibuat pada siaran web Around the World in 80 Telescopes, [[helium]] nya diperkirakan habis pada waktu "kapan saja". Hal ini terjadi pada tahun 2009. Teleskop Spitzer memasuki mode siaga pada 03:11 PST (06:11 EST atau 22:11 UT), 15 Mei karena kehabisan helium pendingin cair. Operasi berkelanjutan dari detektor [[#Instrumen|IRAC]] (satu-satunya instrumen yang beroperasi dalam teleskop hangat) adalah mungkin, namun menghadapi pendanaan yang tidak menentu. 
+
+Untuk menjaga tradisi [[NASA]], teleskop itu diganti namanya setelah demonstrasi operasi yang berhasil, pada [[18 Desember]], [[2003]]. Tidak seperti kebanyakan [[teleskop]] yang diberi nama dari nama astronom yang wafat oleh satu komite ilmuwan, nama untuk SIRTF didapat dari kontes yang dibuka untuk umum. Hasilnya adalah ia diberi nama untuk menghormati [[Lyman Spitzer]], salah satu ilmuwan besar abad ke-20.<ref name="spitzer_bio">{{Cite web |url=http://www.nasa.gov/audience/foreducators/postsecondary/features/F_Lyman_Spitzer.html|title=Who was Lyman Spitzer?|accessdate=6 January 2009 |work=Nasa: For Educators |publisher=California Institute of Technology and the Jet Propulsion Laboratory |date=11 March 2004}}</ref> Dialah yang pertama kali mengusulkan penempatan satu teleskop besar di luar angkasa pada tahun 1946.<ref name="spitzer_bio" />
+
+Teleskop Spitzer yang bernilai [[Dolar Amerika|US$]]800&nbsp;juta ini diluncurkan dari [[Cape Canaveral|Cape Canaveral Air Force Station]], dengan roket [[Delta II]] 7920H ELV, pada Senin, [[25 Agustus]] [[2003]] jam 13:35:39 [[UTC-5]] ([[Waktu Timur|EDT]]).<ref>{{cite web | author=William Harwood | title=First images from Spitzer Space Telescope unveiled | url=http://www.spaceflightnow.com/news/n0312/17sstresults/ | work=Spaceflight Now | date= December 18, 2003| accessdate=2008-08-23}}</ref> Ia mengikuti orbit yang agak ganjil, [[Heliosentrisme|heliosentrik]] bukan orbit [[geosentrik]], bergerak mengikuti dan menjauh dari orbit Bumi kira-kira 0,1 [[satuan astronomi]] per tahun (ini yang disebut orbit "mengikuti bumi"). Orbit ini memungkinkan untuk mendinginkan Teleskop Spitzer, dan memungkinkan teleskop ini untuk beroperasi selama sekitar 5,5 tahun dengan menggunakan 360 liter helium cair. Sebagai perbandingan, pendahulu Teleskop Spitzer, Infrared Astronomical Satellite, menggunakan 520 liter cryogen hanya dalam 10 bulan. [[Cermin]] utamanya berdiameter 85&nbsp;cm, [[bilangan-f|''f''/12]] dan dibuat dari [[berilium]] serta didinginkan pada suhu 5,5 [[kelvin|K]]. [[Satelit]] itu terdiri dari tiga instrumen yang memungkinkannya melakukan [[pencitraan]] [[astronomi]] dan [[Fotometer|fotometri]] dari 3 sampai 180 [[mikrometer]], [[spektroskopi]] dari 5 sampai 40 [[mikrometer]], dan [[Spektrofotometer Inframerah Transformasi Fourier|spektrofotometri]] dari 5 sampai 100 mikrometer.
+
+== Instrumen ==
+Teleskop Spitzer mempunyai 3 instrumen utama:<ref>[http://www.spitzer.caltech.edu/mission/182-The-Multiple-Instrument-Chamber The Multiple Instrument Chamber]
+</ref>
+* '''IRAC '''('''I'''nfra'''r'''ed '''A'''rray '''C'''amera), adalah kamera [[inframerah]] untuk mendeteksi [[cahaya]] dengan [[panjang gelombang]] antara 3.6 sampai 8.0 m, digunakan oleh pengamat untuk berbagai penelitian astronomi. IRAC mempunyai empat panjang gelombang (3.6m, 4.5 m, 5.8 m, dan 8.0m), dan setiap panjang gelombang menggunakan 256 x 256 pixel detektor. Kedua panjang gelombang yang lebih pendek (3.6 m & 4,5 m) untuk instrumen ini tetap berjalan setelah penipisan helium cair pada musim semi tahun 2009. pada suhu teleskop keseimbangan sekitar 30 K, sehingga IRAC terus beroperasi sebagai "Spitzer Warm Mission".
+* '''IRS '''('''I'''nfra'''r'''ed '''S'''pectrograph), adalah [[Spektrometer]] [[Inframerah]] dengan panjang gelombang antara 5-40 m. IRS menjadikan cahaya inframerah yang datang menjadi spektrum. IRS mempunyai empat modul (5.3 - 14 m,14 - 40 m, 10 - 19.5 m, 19 - 37 m).
+* '''MIPS '''('''M'''ultiband '''I'''maging '''P'''hotometer for '''S'''pitzer), adalah kamera [[inframerah]] seperti IRAC, tetapi mendeteksi cahaya dalam inframerah-jauh pada [[panjang gelombang]] 24, 70, dan 160 m.
+
+<gallery widths="250px" heights="250px">
+File:False-Color Image of Double Helix Nebula.jpg|Artificial color image of the [[Double Helix Nebula]], thought to be generated at the galactic center by magnetic torsion 1000 times greater than the sun's.
+File:Serpens south.jpg|A cluster of new stars forming in the [[Serpens cloud|Serpens South cloud]]
+File:NASA Spitzer Image forsterite rain onto HOPS-68.jpg|An arrow points to the embryonic star, called HOPS-68. Middle panel: Jets shooting away from the protostar, transport the olivine crystals from near the star to the much colder, outer cloud. Final panel: the crystals are raining back down onto the disk of gas and dust circling the star.
+File:Forsterite formation around EX Lupi.tif|Silicate crystals, like those found in comets, can be created by an outburst of radiation from a growing star.
+</gallery>
+
+== Referensi ==
+{{Reflist|2}}
+
+== Pranala luar ==
+{{commons|:category:Spitzer space telescope|Teleskop luar angkasa Spitzer}}
+* [http://www.spitzer.caltech.edu/ Situs resmi Spitzer] 
+* [http://solarsystem.nasa.gov/missions/profile.cfm?MCode=SIRTF Spitzer Space Telescope Profile] by [http://solarsystem.nasa.gov NASA's Solar System Exploration]
+* Spitzer images: http://www.spitzer.caltech.edu/Media/mediaimages/index.shtml
+* Spitzer newsroom: http://www.spitzer.caltech.edu/Media/index.shtml
+* Spitzer podcasts: http://www.spitzer.caltech.edu/features/podcasts/index.shtml
+* Spitzer video podcasts: http://www.spitzer.caltech.edu/features/hiddenuniverse/index.shtml
+* [http://www.orbitsimulator.com/gravity/articles/spitzer.html Simulation of Spitzer's orbit]
+* [http://www.spitzer.caltech.edu/mission/182-The-Multiple-Instrument-Chamber Instrumen Spitzer]
+
+[[Kategori:Teleskop luar angkasa|Spitzer]]
+[[Kategori:NASA]]
+[[Kategori:Satelit buatan yang mengorbit Matahari]]
+[[Kategori:Teleskop infra merah]]
+[[Kategori:Space probe yang diluncurkan tahun 2003]]
+
+
+{{astronomi-stub}}

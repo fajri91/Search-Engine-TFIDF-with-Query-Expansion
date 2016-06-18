@@ -1,0 +1,439 @@
+Templat:Kotakinfo Konektor
+<includeonly>
+{| class="infobox" style="width: 315px; border-spacing: 2px; font-size: 95%; text-align: left;"
+|- 
+! colspan="3" style="background: lightsteelblue; text-align: center;" | {{{name|{{PAGENAME}}}}}
+|-
+{{#if:{{{logo|}}}{{{image|}}}|
+{{!}} colspan="3" style="text-align: center; font-size: 90%; border-bottom: 1px solid #aaa;" {{!}}
+{{#if:{{{logo|}}}| 
+{{#if:{{{image|}}}|
+{{{!}} 
+{{!}} {{{image|}}} 
+{{!}} {{{logo|}}} 
+{{!}}} 
+| 
+  {{{logo|}}} }}
+| 
+  {{{image}}} }}
+<br/>
+{{{caption|}}}
+}}
+|-
+! style="padding-right: 1em;" | Tipe
+| colspan="2" | {{{type|}}}
+|-
+{{#if:{{{designer|}}}{{{design_date|}}}{{{manufacturer|}}}{{{production_date|}}}|
+! colspan="3" style="background: lightsteelblue; text-align: center;" {{!}} Sejarah produksi
+}}
+|-
+{{#if:{{{designer|}}} |
+!  style="padding-right: 1em;" {{!}} Desainer
+{{!}} colspan="2" {{!}} {{{designer|}}}
+}}
+|-
+{{#if:{{{design_date|}}} |
+!  style="padding-right: 1em;" {{!}} Didesain
+{{!}} colspan="2" {{!}} {{{design_date|}}}
+}}
+|-
+{{#if:{{{manufacturer|}}} |
+!  style="padding-right: 1em;" {{!}} Pabrik
+{{!}} colspan="2" {{!}} {{{manufacturer|}}}
+}}
+|-
+{{#if:{{{production_date|}}} |
+! style="padding-right: 1em;" {{!}} Diproduksi
+{{!}} colspan="2" {{!}} {{{production_date|}}}
+}}
+|-
+{{#if:{{{superseded|}}} |
+! style="padding-right: 1em;" {{!}} Diganti
+{{!}} colspan="2" {{!}} {{{superseded|}}}
+}}
+|-
+{{#if:{{{superseded_by|}}} |
+! style="padding-right: 1em;" {{!}} Diganti&nbsp;dengan
+{{!}} colspan="2" {{!}} {{{superseded_by|}}} {{#if:{{{superseded_by_date|}}} | ({{{superseded_by_date|}}}) }} 
+}}
+|-
+{{#if:{{{weight|}}}{{{length|}}}{{{width|}}}{{{height|}}}{{{num_pins|}}}|
+! colspan="3" style="background: lightsteelblue; text-align: center;" {{!}} Spesifikasi
+}}
+|-
+{{#if:{{{weight|}}} |
+!  style="padding-right: 1em;" {{!}} Berat
+{{!}} colspan="2" {{!}} {{{weight|}}}
+}}
+|-
+{{#if:{{{length|}}} |
+! style="padding-right: 1em;" {{!}} Panjang
+{{!}} colspan="2" {{!}} {{{length|}}}
+}}
+|-
+{{#if:{{{diameter|}}} |
+!  style="padding-right: 1em;" {{!}} Diameter
+{{!}} colspan="2" {{!}} {{{diameter|}}}
+}}
+|-
+{{#if:{{{width|}}} |
+! style="padding-right: 1em;" {{!}} Lebar
+{{!}} colspan="2" {{!}} {{{width|}}}
+}}
+|-
+{{#if:{{{height|}}} |
+! style="padding-right: 1em;" {{!}} Tinggi
+{{!}} colspan="2" {{!}} {{{height|}}}
+}}
+|-
+{{#if:{{{hotplug|}}} |
+! style="padding-right: 1em;" {{!}} Kemampuan hot plug
+{{!}} colspan="2" {{!}} {{{hotplug|}}}
+}}
+|-
+{{#if:{{{external|}}} |
+! style="padding-right: 1em;" {{!}} Eksternal
+{{!}} colspan="2" {{!}} {{{external|}}}
+}}
+|-
+{{#if:{{{electrical|}}} |
+! style="padding-right: 1em;" {{!}} Listrik
+{{!}} colspan="2" {{!}} {{{electrical|}}}
+}}
+|-
+{{#if:{{{earth|}}} |
+!  style="padding-right: 1em;" {{!}} 
+!  style="padding-right: 1em;" {{!}} Bumi
+{{!}} {{{earth|}}}
+}}
+|-
+{{#if:{{{maximum_voltage|}}} |
+!  style="padding-right: 1em;" {{!}} 
+!  style="padding-right: 1em;" {{!}} Tegangan maks
+{{!}} {{{maximum_voltage|}}}
+}}
+|-
+{{#if:{{{maximum_current|}}} |
+!  style="padding-right: 1em;" {{!}} 
+!  style="padding-right: 1em;" {{!}} Arus maks
+{{!}} {{{maximum_current|}}}
+}}
+|-
+{{#if:{{{audio_signal|}}} |
+!  style="padding-right: 1em;" {{!}} Sinyal audio
+{{!}} colspan="2" {{!}} {{{audio_signal|}}}
+}}
+|-
+{{#if:{{{video_signal|}}} |
+!  style="padding-right: 1em;" {{!}} Sinyal video
+{{!}} colspan="2" {{!}} {{{video_signal|}}}
+}}
+|-
+{{#if:{{{data_signal|}}} |
+!  style="padding-right: 1em;" {{!}} Sinyal data
+{{!}} colspan="2" {{!}} {{{data_signal|}}}
+}}
+|-
+{{#if:{{{data_bit_width|}}} |
+!  style="padding-right: 1em;" {{!}} 
+!  style="padding-right: 1em;" {{!}} Lbar
+{{!}} {{{data_bit_width|}}}
+}}
+|-
+{{#if:{{{data_bandwidth|}}} |
+!  style="padding-right: 1em;" {{!}} 
+!  style="padding-right: 1em;" {{!}} Lebar pita
+{{!}} {{{data_bandwidth|}}}
+}}
+|-
+{{#if:{{{data_devices|}}} |
+!  style="padding-right: 1em;" {{!}} 
+!  style="padding-right: 1em;" {{!}} Perangkat maks
+{{!}} {{{data_devices|}}}
+}}
+|-
+|-
+{{#if:{{{data_style|}}} |
+!  style="padding-right: 1em;" {{!}} 
+!  style="padding-right: 1em;" {{!}} Protokol
+{{!}} {{{data_style|}}}
+}}
+|-
+{{#if:{{{cable|}}} |
+!  style="padding-right: 1em;" {{!}} Kabel
+{{!}} colspan="2" {{!}} {{{cable|}}}
+}}
+|-
+{{#if:{{{num_pins|}}} |
+!  style="padding-right: 1em;" {{!}} Kaki
+{{!}} colspan="2" {{!}} {{{num_pins|}}}
+}}
+|-
+{{#if:{{{physical_connector|}}} |
+!  style="padding-right: 1em;" {{!}} Konektor
+{{!}} colspan="2" {{!}} {{{physical_connector|}}}
+}}
+|-
+{{#if:{{{pinout_image}}}{{{pin1|}}}{{{pin1_name|}}}{{{shell|}}}{{{hooks|}}}{{{pin_custom1|}}}{{{pin_custom1_name|}}}|
+! colspan="3" style="background: lightsteelblue; text-align: center;" {{!}} Pin keluar
+}}
+|-
+{{#if:{{{pinout_image|}}} |
+{{!}} colspan="3" style="text-align: center; font-size: 90%; border-bottom: 1px solid #aaa;" {{!}} {{{pinout_image|}}}<br/>{{{pinout_caption|}}}
+}}
+|-
+{{#if:{{{pinout_col1_name|}}}{{{pinout_col2_name|}}} |
+! style="padding-right: 1em;" {{!}}
+{{!}} '''{{{pinout_col1_name|}}}'''
+{{!}} '''{{{pinout_col2_name|}}}'''
+}}
+|-
+{{#if:{{{pin1|}}}{{{pin1_name|}}} |
+! style="padding-right: 1em;" {{!}} Pin 1
+{{!}} {{{pin1_name|}}}
+{{!}} {{{pin1|}}}
+}}
+|-
+{{#if:{{{pin2|}}}{{{pin2_name|}}} |
+! style="padding-right: 1em;" {{!}} Pin 2
+{{!}} {{{pin2_name|}}}
+{{!}} {{{pin2|}}}
+}}
+|-
+{{#if:{{{pin3|}}}{{{pin3_name|}}} |
+! style="padding-right: 1em;" {{!}} Pin 3
+{{!}} {{{pin3_name|}}}
+{{!}} {{{pin3|}}}
+}}
+|-
+{{#if:{{{pin4|}}}{{{pin4_name|}}} |
+! style="padding-right: 1em;" {{!}} Pin 4
+{{!}} {{{pin4_name|}}}
+{{!}} {{{pin4|}}}
+}}
+|-
+{{#if:{{{pin5|}}}{{{pin5_name|}}} |
+! style="padding-right: 1em;" {{!}} Pin 5
+{{!}} {{{pin5_name|}}}
+{{!}} {{{pin5|}}}
+}}
+|-
+{{#if:{{{pin6|}}}{{{pin6_name|}}} |
+! style="padding-right: 1em;" {{!}} Pin 6
+{{!}} {{{pin6_name|}}}
+{{!}} {{{pin6|}}}
+}}
+|-
+{{#if:{{{pin7|}}}{{{pin7_name|}}} |
+! style="padding-right: 1em;" {{!}} Pin 7
+{{!}} {{{pin7_name|}}}
+{{!}} {{{pin7|}}}
+}}
+|-
+{{#if:{{{pin8|}}}{{{pin8_name|}}} |
+! style="padding-right: 1em;" {{!}} Pin 8
+{{!}} {{{pin8_name|}}}
+{{!}} {{{pin8|}}}
+}}
+|-
+{{#if:{{{pin9|}}}{{{pin9_name|}}} |
+! style="padding-right: 1em;" {{!}} Pin 9
+{{!}} {{{pin9_name|}}}
+{{!}} {{{pin9|}}}
+}}
+|-
+{{#if:{{{pin10|}}}{{{pin10_name|}}} |
+! style="padding-right: 1em;" {{!}} Pin 10
+{{!}} {{{pin10_name|}}}
+{{!}} {{{pin10|}}}
+}}
+|-
+{{#if:{{{pin11|}}}{{{pin11_name|}}} |
+! style="padding-right: 1em;" {{!}} Pin 11
+{{!}} {{{pin11_name|}}}
+{{!}} {{{pin11|}}}
+}}
+|-
+{{#if:{{{pin12|}}}{{{pin12_name|}}} |
+! style="padding-right: 1em;" {{!}} Pin 12
+{{!}} {{{pin12_name|}}}
+{{!}} {{{pin12|}}}
+}}
+|-
+{{#if:{{{pin13|}}}{{{pin13_name|}}} |
+! style="padding-right: 1em;" {{!}} Pin 13
+{{!}} {{{pin13_name|}}}
+{{!}} {{{pin13|}}}
+}}
+|-
+{{#if:{{{pin14|}}}{{{pin14_name|}}} |
+! style="padding-right: 1em;" {{!}} Pin 14
+{{!}} {{{pin14_name|}}}
+{{!}} {{{pin14|}}}
+}}
+|-
+{{#if:{{{pin15|}}}{{{pin15_name|}}} |
+! style="padding-right: 1em;" {{!}} Pin 15
+{{!}} {{{pin15_name|}}}
+{{!}} {{{pin15|}}}
+}}
+|-
+{{#if:{{{pin16|}}}{{{pin16_name|}}} |
+! style="padding-right: 1em;" {{!}} Pin 16
+{{!}} {{{pin16_name|}}}
+{{!}} {{{pin16|}}}
+}}
+|-
+{{#if:{{{pin17|}}}{{{pin17_name|}}} |
+! style="padding-right: 1em;" {{!}} Pin 17
+{{!}} {{{pin17_name|}}}
+{{!}} {{{pin17|}}}
+}}
+|-
+{{#if:{{{pin18|}}}{{{pin18_name|}}} |
+! style="padding-right: 1em;" {{!}} Pin 18
+{{!}} {{{pin18_name|}}}
+{{!}} {{{pin18|}}}
+}}
+|-
+{{#if:{{{pin19|}}}{{{pin19_name|}}} |
+! style="padding-right: 1em;" {{!}} Pin 19
+{{!}} {{{pin19_name|}}}
+{{!}} {{{pin19|}}}
+}}
+|-
+{{#if:{{{pin20|}}}{{{pin20_name|}}} |
+! style="padding-right: 1em;" {{!}} Pin 20
+{{!}} {{{pin20_name|}}}
+{{!}} {{{pin20|}}}
+}}
+|-
+{{#if:{{{pin21|}}}{{{pin21_name|}}} |
+! style="padding-right: 1em;" {{!}} Pin 21
+{{!}} {{{pin21_name|}}}
+{{!}} {{{pin21|}}}
+}}
+|-
+{{#if:{{{pin22|}}}{{{pin22_name|}}} |
+! style="padding-right: 1em;" {{!}} Pin 22
+{{!}} {{{pin22_name|}}}
+{{!}} {{{pin22|}}}
+}}
+|-
+{{#if:{{{pin23|}}}{{{pin23_name|}}} |
+! style="padding-right: 1em;" {{!}} Pin 23
+{{!}} {{{pin23_name|}}}
+{{!}} {{{pin23|}}}
+}}
+|-
+{{#if:{{{pin24|}}}{{{pin24_name|}}} |
+! style="padding-right: 1em;" {{!}} Pin 24
+{{!}} {{{pin24_name|}}}
+{{!}} {{{pin24|}}}
+}}
+|-
+{{#if:{{{pin25|}}}{{{pin25_name|}}} |
+! style="padding-right: 1em;" {{!}} Pin 25
+{{!}} {{{pin25_name|}}}
+{{!}} {{{pin25|}}}
+}}
+|-
+{{#if:{{{pin26|}}}{{{pin26_name|}}} |
+! style="padding-right: 1em;" {{!}} Pin 26
+{{!}} {{{pin26_name|}}}
+{{!}} {{{pin26|}}}
+}}
+|-
+{{#if:{{{pin27|}}}{{{pin27_name|}}} |
+! style="padding-right: 1em;" {{!}} Pin 27
+{{!}} {{{pin27_name|}}}
+{{!}} {{{pin27|}}}
+}}
+|-
+{{#if:{{{pin28|}}}{{{pin28_name|}}} |
+! style="padding-right: 1em;" {{!}} Pin 28
+{{!}} {{{pin28_name|}}}
+{{!}} {{{pin28|}}}
+}}
+|-
+{{#if:{{{pin29|}}}{{{pin29_name|}}} |
+! style="padding-right: 1em;" {{!}} Pin 29
+{{!}} {{{pin29_name|}}}
+{{!}} {{{pin29|}}}
+}}
+|-
+{{#if:{{{pin30|}}}{{{pin30_name|}}} |
+! style="padding-right: 1em;" {{!}} Pin 30
+{{!}} {{{pin30_name|}}}
+{{!}} {{{pin30|}}}
+}}
+|-
+{{#if:{{{pin31|}}}{{{pin31_name|}}} |
+! style="padding-right: 1em;" {{!}} Pin 31
+{{!}} {{{pin31_name|}}}
+{{!}} {{{pin31|}}}
+}}
+|-
+{{#if:{{{pin32|}}}{{{pin32_name|}}} |
+! style="padding-right: 1em;" {{!}} Pin 32
+{{!}} {{{pin32_name|}}}
+{{!}} {{{pin32|}}}
+}}
+|-
+{{#if:{{{pin_custom1|}}} |
+! style="padding-right: 1em;" {{!}} {{{pin_custom1_name|}}}
+{{!}} {{{pin_name_custom1|}}}
+{{!}} {{{pin_custom1|}}}
+}}
+|-
+{{#if:{{{pin_custom2|}}} |
+! style="padding-right: 1em;" {{!}} {{{pin_custom2_name|}}}
+{{!}} {{{pin_name_custom2|}}}
+{{!}} {{{pin_custom2|}}}
+}}
+|-
+{{#if:{{{pin_custom3|}}} |
+! style="padding-right: 1em;" {{!}} {{{pin_custom3_name|}}}
+{{!}} {{{pin_name_custom3|}}}
+{{!}} {{{pin_custom3|}}}
+}}
+|-
+{{#if:{{{pin_custom4|}}} |
+! style="padding-right: 1em;" {{!}} {{{pin_custom4_name|}}}
+{{!}} {{{pin_name_custom4|}}}
+{{!}} {{{pin_custom4|}}}
+}}
+|-
+{{#if:{{{pin_custom5|}}} |
+! style="padding-right: 1em;" {{!}} {{{pin_custom5_name|}}}
+{{!}} {{{pin_name_custom5|}}}
+{{!}} {{{pin_custom5|}}}
+}}
+|-
+{{#if:{{{pin_custom6|}}} |
+! style="padding-right: 1em;" {{!}} {{{pin_custom6_name|}}}
+{{!}} {{{pin_name_custom6|}}}
+{{!}} {{{pin_custom6|}}}
+}}
+|-
+{{#if:{{{pin_custom7|}}} |
+! style="padding-right: 1em;" {{!}} {{{pin_custom7_name|}}}
+{{!}} {{{pin_name_custom7|}}}
+{{!}} {{{pin_custom7|}}}
+}}
+|-
+{{#if:{{{pin_custom8|}}} |
+! style="padding-right: 1em;" {{!}} {{{pin_custom8_name|}}}
+{{!}} {{{pin_name_custom8|}}}
+{{!}} {{{pin_custom8|}}}
+}}
+|-
+{{#if:{{{pinout_notes|}}} |
+{{!}} colspan=3 style="padding-right: 1em; font-size: 90%; border-top: 1px solid #aaa;" {{!}} {{{pinout_notes|}}}
+}}
+|}</includeonly><noinclude>
+{{{{PAGENAME}}/Contoh}} 
+
+[[Kategori:Templat kotak info|Konektor]]
+
+</noinclude>

@@ -1,0 +1,35 @@
+Troglohyphantes wiehlei
+{{Taxobox
+|name = Troglohyphantes wiehlei
+|status = 
+|image = 
+|image_caption = 
+|domain = 
+|regnum = [[Animalia]]
+|phylum = [[Arthropoda]]
+|classis = [[Arachnida]]
+|ordo = [[Araneae]]
+|familia = [[Linyphiidae]]
+|genus =Troglohyphantes
+|species = Troglohyphantes wiehlei
+|binomial = Troglohyphantes wiehlei
+|binomial_authority =Miller & Polenec, 1975
+|range_map = 
+|range_map_caption = 
+|image2 = 
+|image2_caption = 
+|synonyms = 
+}}
+'''''Troglohyphantes wiehlei''''' adalah spesies [[laba-laba]] yang tergolong [[familia]] [[Linyphiidae]]. Spesies ini juga merupakan bagian dari ordo [[Araneae]]. Nama ilmiah dari spesies ini pertama kali diterbitkan pada tahun 1975 oleh Miller & Polenec.
+
+Laba-laba ini biasanya banyak ditemui di Austria, Eropa Timur.
+
+== Referensi ==
+
+* Platnick, Norman I. (2010): [http://research.amnh.org/entomology/spiders/catalog/LINYPHIIDAE.html The world spider catalog], version 10.5. ''American Museum of Natural History''.
+
+{{DEFAULTSORT:Troglohyphantes wiehlei}}
+
+[[Kategori:Linyphiidae]]
+
+{{labalaba-stub}}

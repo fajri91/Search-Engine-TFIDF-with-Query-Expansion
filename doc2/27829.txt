@@ -1,0 +1,50 @@
+Ascoli Piceno
+{{Infobox Italian comune
+| name                = Ascoli Piceno
+| official_name       = Citt di Ascoli Piceno
+| native_name         = 
+| image_skyline       = Ascoli Piceno.jpg
+| imagesize           = 
+| image_alt           = 
+| image_caption       = Piazza del Popolo
+| image_shield        = Ascoli Piceno-Stemma.png
+| shield_alt          = 
+| image_map           = 
+| map_alt             = 
+| map_caption         = 
+| pushpin_label_position = 
+| pushpin_map_alt     = 
+| latd  = 42 |latm  = 51 |lats  =  |latNS  = N
+| longd = 13 |longm = 35 |longs =   |longEW = E 
+| coordinates_type    = 
+| coordinates_display = 
+| coordinates_footnotes = 
+| region              = [[Marche]]
+| province            = [[Provinsi Ascoli Piceno|Ascoli Piceno]] (AP)
+| frazioni            = see [[Ascoli Piceno#Frazioni|list]]
+| mayor_party         = 
+| mayor               = Guido Castelli
+| area_footnotes      = 
+| area_total_km2      = 160
+| population_footnotes = 
+| population_total    = 51434
+| population_as_of    = 30 April 2009
+| pop_density_footnotes = 
+| population_demonym  = Ascolani
+| elevation_footnotes = 
+| elevation_m         = 154
+| twin1               = 
+| twin1_country       = 
+| saint               = [[Emygdius|Sant'Emidio]]
+| day                 = 5 Agustus
+| postal_code         = 63100
+| area_code           = 0736
+| website             = {{official|http://www.comune.ascoli-piceno.it}}
+| footnotes           = 
+}}
+'''Ascoli Piceno''' merupakan [[kota]] yang terletak di sebelah timur [[Italia]]. Penduduknya berjumlah 53.000 jiwa ([[2005]]).
+
+{{Provinsi Ascoli Piceno}}
+
+
+{{italia-geo-stub}}

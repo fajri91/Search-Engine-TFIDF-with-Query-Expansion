@@ -1,0 +1,31 @@
+Ilyushin I-21
+'''Ilyushin I-21''', (Istrebitel-21, pesawat tempur-21), adalah pesawat tempur kursi tunggal bermesin satu diproduksi di Uni Soviet pada 1936-7 sebagai tanggapan atas spesifikasi pemerintah.
+ 
+
+Pengembangan lebih lanjut dihentikan pada tahun 1939 dan penaman I-21 itu kembali digunakan untuk Pashinin I-21.
+
+==Spesifikasi==
+===Karakteristik umum===
+*Kru: 1
+*Panjang: 8,366 m (27 ft 5 in)
+*Lebar sayap: 10 m (32 ft 9 in)
+*Area sayap: 18.16 m 2 (195,5 ft 2)
+*Berat kotor: 2.125 kg ( 4685)
+*Powerplant: 1  Mikulin AM-34 FRN, 940 kW (1.260 hp)
+===Prestasi===
+*Kecepatan maksimum: 620 km / h (385 mph)
+*Rentang: 766 km (476 mil)
+*Layanan langit-langit: 12.000 m (39.360 kaki)
+*Tingkat panjat: 1.250 m / s (4.000 ft / min)
+===Persenjataan===
+*4 x 7.62 mm ShKAS senapan mesin (awal fit)
+*2 x 20 mm ShVAK meriam (kemudian fit)
+
+== Referensi ==
+{{Reflist}}
+* {{cite book|last= Gordon|first= Yefim.|title=OKB Ilyushin|year=2004|publisher=Ian Allan|location=London|pages=13 to 14 }}
+*{{cite book|last=Gunston|first=Bill|title=The Osprey Encyclopedia of Russian Aircraft 18751995|year=1995|publisher=Osprey|location=London|isbn=1-85532-405-9|authorlink=Bill Gunston}}
+
+{{Ilyushin aircraft}}
+{{pesawat-stub}}
+[[Kategori:Pesawat terbang Ilyushin]]

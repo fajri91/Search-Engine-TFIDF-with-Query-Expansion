@@ -1,0 +1,48 @@
+Ular ari Australia
+{{Taxobox
+| image = Denisonia maculata.jpg
+| image_caption = ''Denisonia maculata''
+| regnum = [[Animalia]]
+| phylum = [[Chordata]]
+| subphylum = [[Vertebrata]]
+| classis = [[Reptilia]]
+| ordo = [[Squamata]]
+| subordo = [[Serpentes]]
+| familia = [[Elapidae]]
+| subfamilia = [[Elapinae]]
+| tribus = '''Denisoniini'''
+| genus = '''''Denisonia'''''
+| genus_authority = [[Gerard Krefft|Krefft]], 1869
+}}
+'''Ular ari australia''' adalah marga ular senawan suku [[Elapidae]]. Ular ini terdapat di pedalaman [[Australia]]. Nama ilmiahnya, '''''Denisonia''''' diambil dari nama [[William Thomas Denison]], seorang pemerintah Australia pada pertengahan abad 19.<ref>Beolens B, Watkins M, Grayson M. 2011. ''The Eponym Dictionary of Reptiles''. Baltimore: Johns Hopkins University Press. xiii + 296 pp. ISBN 978-1-4214-0135-5. (Genus ''Denisonia'', p. 69; species ''Denisonia devisi'', p. 71).</ref>
+
+==Pengenalan==
+Ular bertubuh pendek dan silindris. Mata seperti mata ikan, berukuran besar dan terletak di atas kepala. Untuk jenis ''D. devisii'', warna tubuhnya belang-belang cokelat kelabu dan kuning pucat. Untuk jenis ''D. maculata'', tubuh berwarna hitam mengkilap dengan bintik-bintik kelabu.
+
+==Agihan==
+Ular ini tersebar di wilayah [[Australia]] bagian tengah dan barat.
+
+==Spesies==
+* ''Denisonia devisii'' Wait & Longman, 1920 - [[Ular belang De Vis]]
+* ''[[Denisonia maculata]]'' (Steindachner, 1867)
+
+==Reproduksi==
+Ular ari Australia berkembangbiak dengan melahirkan (ovovivipar).
+
+==Referensi==
+{{reflist}}
+
+==Informasi lebih lanjut==
+* [http://reptile-database.reptarium.cz/advanced_search?submit=Search&exact%5B0%5D=genus&genus=Denisonia ''Denisonia sp.'' @ The Reptile Database]
+
+* [[Gerard Krefft|Krefft G]]. 1869. ''The Snakes of Australia; An Illustrated and Descriptive Catalogue of All the Known Species.'' Sydney: Thomas Richards, Government Printer. xxv + 100 pp. + Plates I-XII. (''Denisonia'', new genus, pp. 82-83 + Plate XI, figure 4).
+
+* [[Edgar Ravenswood Waite|Waite ER]], [[Heber Albert Longman|Longman HA]]. 1920. Descriptions of Little-known Australian Snakes. ''Rec. South Australian Mus.'' '''1''' (3): 173-180 + Plate XXVII. (''Denisonia maculata'' var. ''devisi'', new name, pp. 178-179, Text figure 36 + Plate XXVII, figure 2).
+
+* Wilson, Steve. 2003. ''Reptiles of the Southern Brigalow Belt''. Australia: World Wildlife Fund. pp. 33-34.
+
+* [http://www.iucnredlist.org/apps/redlist/search/quick?x=0&y=0&species=true&subspecies=true&stocks=false&text=Denisonia IUCN: ''Denisonia sp.'']
+
+* [http://www.environment.gov.au/biodiversity/abrs/online-resources/fauna/afd/taxa/Denisonia Genus ''Denisonia'' Krefft, 1869]
+
+[[Kategori:Elapidae]]

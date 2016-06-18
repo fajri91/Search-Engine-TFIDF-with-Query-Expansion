@@ -1,0 +1,56 @@
+Entalpi
+{{Termodinamika|expanded=Potensial}}
+'''Entalpi''' adalah istilah dalam [[termodinamika]] yang menyatakan jumlah [[energi]] dari suatu [[sistem termodinamika]]. Entalpi terdiri dari [[energi dalam]] sistem, termasuk satu dari lima [[potensial termodinamika]] dan [[fungsi keadaan]], juga [[volume]] dan [[tekanan]]nya (merupakan besaran [[ekstensif]]. Satuan [[SI]] dari entalpi adalah [[joule]], namun digunakan juga satuan [[British thermal unit]] dan [[kalori]].
+
+Total entalpi ('''H''') tidak bisa diukur langsung. Sama seperti pada mekanika klasik, hanya perubahannya yang dapat dinilai. Entalpi merupakan potensial termodinamika, maka untuk mengukur entalpi suatu sistem, kita harus menentukan titik reference terlebih dahulu, baru kita dapat mengukur perubahan entalpi ''H. ''. Perubahan ''H'' bernilai positif untuk reaksi [[endoterm]] dan negatif untuk [[eksoterm]]. 
+
+Untuk proses dengan tekanan konstan, ''H'' sama dengan perubahan energi dalam sistem ditambah kerja yang dilakukan sistem pada lingkungannya.<ref>G.J. Van Wylen and R.E. Sonntag (1985), ''Fundamentals of Classical Thermodynamics'', Section 5.5 (3rd edition), John Wiley & Sons Inc. New York.  ISBN 0-471-82933-1</ref> Maka, perubahan entalpi pada kondisi ini adalah panas yang diserap atau dilepas melalui reaksi kimia atau perpindahan panas eksternal.
+
+Entalpi gas ideal, solid, dan liquid tidak tergantung pada tekanan. Benda nyata pada temperatur dan tekanan ruang biasanya kurang lebih mengikuti sifat ini, sehingga dapat menyederhanakan perhitungan entalpi.
+
+==Definisi formal==
+Entalpi dari suatu sistem homogen didefinisikan sebagai:<ref>E.A. Guggenheim, Thermodynamics, North-Holland Publisching Company, Amsterdam, 1959</ref><ref>{{Cite book|author=Zumdahl, Steven S.|chapter=Thermochemistry|title=Chemistry|publisher=Cengage Learning|year=2008|isbn=978-0-547-12532-9|page=243|url=http://books.google.com/books?id=LLWkH82PNbYC&pg=PA243}}</ref>
+:<math>H = U + p V\,</math>
+di mana:
+* ''H'' = entalpi sistem (joule)
+* ''U'' = [[energi dalam]] (joule)
+* ''P'' = [[tekanan]] dari sistem (Pa)
+* ''V'' = [[volume (termodinamika)|volume]] sistem (<math>m^3</math>)
+
+Entalpi adalah [[properti ekstensif]] yang berarti untuk sistem homogen, besarnya berbanding lurus dengan ukuran sistem. Terkadang digunakan juga entalpi spesifik ''h'' =''H/m'' dengan ''m'' adalah massa sistem, atau entalpi molar ''H''<sub>m</sub> = ''H/n'', dengan ''n'' adalah jumlah mol (''h'' dan ''H''<sub>m</sub> adalah [[properti intensif]]. Untuk sistem tak homogen, entalpi adalah jumlahan entalpi dari beberapa subsistem
+
+:<math>H = \Sigma_k H_k</math>
+
+dengan ''k'' merujuk pada beberapa subsistem. Pada kasus untuk nilai ''p'', ''T'', dan komposisi yang berbeda-beda maka jumlah menjadi integral:
+
+:<math>H = \int \rho h \mathrm{d}V,</math>
+
+dengan '''' adalah densitas.
+
+Entalpi ''H''(''S,p'') dari suatu sistem homogen dapat diturunkan sebagai fungsi karakteristik ''S'' dan tekanan ''p'' sebagai berikut: kita mulai dari [[hukum pertama termodinamika]] untuk sistem tertutup
+
+:<math>\mathrm{d} U = \delta Q -\delta W.</math>
+
+Disini, ''Q'' adalah sejumlah kecil panas yang ditambahkan dalam sistem dan ''W'' adalah sejumlah kerja yang dilakukan sistem. Untuk sistem homohen hanya proses reversibel yang dapat berlangsung sehingga [[hukum kedua termodinamika]] menyatakan ''Q'' = ''T''d''S'' dengan ''T'' adalah [[temperatur absolut]] sistem. Jika hanya kerja PV yang ada, ''W'' = ''p''d''V''. Sehingga
+
+:<math>\mathrm{d} U = T\mathrm{d}S-p\mathrm{d}V.</math>
+
+Menambahkan d(''pV'') di kedua sisi sehingga menjadi
+
+:<math>\mathrm{d}U+ \mathrm{d}(pV) = T\mathrm{d}S-p\mathrm{d}V+ \mathrm{d}(pV)</math>
+
+atau
+
+:<math>\mathrm{d} (U + pV) = T\mathrm{d}S+V\mathrm{d}p.</math>
+
+Maka
+
+:<math>\mathrm{d} H(S,p) = T\mathrm{d} S + V \mathrm{d} p.</math>
+
+
+
+==Referensi==
+{{reflist}}
+
+[[Kategori:Termodinamika]]
+[[Kategori:Besaran fisika]]

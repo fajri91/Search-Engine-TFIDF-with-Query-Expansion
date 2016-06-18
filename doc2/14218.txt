@@ -1,0 +1,143 @@
+Templat:Perjanjian Lama
+<includeonly>{{Sidebar with collapsible lists
+| name           = Perjanjian Lama
+| bodyclass      = plainlist
+| bodystyle      = {{#ifeq:{{{status|{{{1|}}}}}}|subtemplate |{{subsidebar bodystyle}};}}<!--width:{{{width|18.0}}}em;<!--(and see image sizing)-->line-height:1.4em;
+| title          = {{#ifeq:{{{status|{{{1|}}}}}}|subtemplate | |[[Perjanjian Lama]]}}
+| imagestyle     = padding-bottom:0.8em;<!--(remove if caption reinstated)-->
+| image          = {{#ifeq:{{{status|{{{1|}}}}}}|subtemplate | |[[File:Aleppo Codex Joshua 1 1.jpg|{{#expr:{{{width|18.0}}}*10}}px|Joshua 1:1 as recorded in the Aleppo Codex]]}}
+| captionstyle   = font-size:90%;padding-bottom:0.3em;
+| caption        = <!--[[Book of Joshua#God's commission to Joshua (chapter 1)|Joshua 1:1]] as recorded in the [[Aleppo Codex]]-->
+| listtitlestyle = {{#ifeq:{{{status|{{{1|}}}}}}|subtemplate |background:#ddf;padding-top:0.25em;padding-bottom:0.25em;<!--font-weight:normal;-->}}text-align:center;
+| liststyle      = {{#ifeq:{{{status|{{{1|}}}}}}|subtemplate | |border-top:1px solid #aaa;border-bottom:1px solid #aaa;}}
+| expanded       = {{{expanded|{{{selected|{{{2|{{{1|}}}}}}}}}}}}
+
+
+<!--------------------- Taurat ------------------------>
+| list1name = Taurat
+| list1title = {{larger|[[Taurat]]<!--(resized here rather than via listtitlestyle otherwise [show/hide] link also resized)-->}}
+| list1 = {{startflatlist}}
+* [[Kitab Kejadian|Kejadian]]  
+* [[Kitab Keluaran|Keluaran]]   
+* [[Kitab Imamat|Imamat]]       
+* [[Kitab Bilangan|Bilangan]]  
+* [[Kitab Ulangan|Ulangan]] 
+{{endflatlist}}
+
+
+<!--------------------- Kitab sejarah ------------------------>
+| list12name = Kitab sejarah
+| list12title = {{larger|[[Nevi%27im#Nabi-nabi_Awal|Kitab sejarah]]<!--(as above)-->}}
+| list12 = {{startflatlist}}
+* [[Kitab Yosua|Yosua]]
+* [[Kitab Hakim-hakim|Hakim-hakim]]
+* [[Kitab Rut|Rut]]
+* [[Kitab Samuel|1 dan 2 Samuel]] 
+* [[Kitab Raja-raja|1 dan 2 Raja-raja]]
+* [[Kitab Tawarikh|1 dan 2 Tawarikh]]
+* [[Kitab Ezra|Ezra]]
+* [[Kitab Nehemia|Nehemia]]
+* [[Kitab Ester|Ester]]
+{{endflatlist}}
+
+
+<!------------------- Hikmat / Puisi --------------------->
+| list13name = WP
+| list13title = {{larger|{{hlist|[[Kitab-kitab Hikmat|Hikmat]]|[[Puisi Perjanjian Lama|Puisi]]}}<!--(as above, etc)-->}}
+| list13 = {{startflatlist}}
+* [[Kitab Ayub|Ayub]]
+* [[Kitab Mazmur|Mazmur]]
+* [[Kitab Amsal|Amsal]]
+* [[Kitab Pengkhotbah|Pengkhotbah]]
+* [[Kitab Kidung Agung|Kidung Agung]]
+{{endflatlist}}
+
+
+<!---------------------- Nubuat ------------------------>
+| list14name = Nubuat
+| list14title = {{larger|[[Nubuat Alkitab|Nubuat]]}}
+| list14 =
+ {{Sidebar |navbar=off |bodystyle={{subsidebar bodystyle}}
+  |headingclass={{#ifeq:{{{status|{{{1|}}}}}}|subtemplate |navbox-subgroup}}
+  |headingstyle={{#ifeq:{{{status|{{{1|}}}}}}|subtemplate |background:#e6e6ff;}}text-align:center;
+  |contentclass=hlist
+
+  | heading1 = [[Nabi-nabi Besar]]
+  | content1 =
+* [[Kitab Yesaya|Yesaya]]    
+* [[Kitab Yeremia|Yeremia]]   
+* [[Kitab Ratapan|Ratapan]]
+* [[Kitab Yehezkiel|Yehezkiel]] 
+* [[Kitab Daniel|Daniel]]
+
+  | heading2 = [[Nabi-nabi Kecil]]
+  | content2 =
+* [[Kitab Hosea|Hosea]]
+* [[Kitab Yoel|Yoel|Joel]]
+* [[Kitab Amos|Amos]]
+* [[Kitab Obaja|Obaja]]
+* [[Kitab Yunus|Yunus]]
+* [[Kitab Mikha|Mikha]]
+* [[Kitab Nahum|Nahum]]
+* [[Kitab Habakuk|Habakuk]]
+* [[Kitab Zefanya|Zefanya]]
+* [[Kitab Hagai|Hagai]]
+* [[Kitab Zakharia|Zakharia]]
+* [[Kitab Maleakhi|Maleakhi]]
+ }}
+
+
+<!------------------- Deuterokanonika -------------------->
+| list15name = Deuterokanonika 
+| list15title = {{larger|[[Deuterokanonika]]}}
+| list15 =
+ {{Sidebar |navbar=off |bodystyle={{subsidebar bodystyle}}
+  |headingclass={{#ifeq:{{{status|{{{1|}}}}}}|subtemplate |navbox-subgroup}}
+  |headingstyle={{#ifeq:{{{status|{{{1|}}}}}}|subtemplate |background:#e6e6ff;}}text-align:center;
+  |contentclass=hlist
+
+  | content1 =
+* [[Kitab Tobit|Tobit]]
+* [[Kitab Yudit|Yudit]]
+* [[Kitab Ester#Tambahan-tambahan pada Kitab Ester|Tambahan Ester]]
+* [[Kitab 1 Makabe|1 Makabe]]
+* [[Kitab 2 Makabe|2 Makabe]]
+* [[Kitab Kebijaksanaan Salomo|Kebijaksanaan]]
+* [[Kitab Yesus bin Sirakh|Sirakh]]
+* [[Kitab Barukh|Barukh]]{{\}}[[Surat Nabi Yeremia|Surat Yeremia]]
+* [[Tambahan-tambahan pada Kitab Daniel|Tambahan Daniel]]
+
+  | heading2 = hanya Ortodoks
+  | content2 =
+* [[1 Esdras]]
+* [[2 Esdras]]
+* [[Doa Manasye]]
+* [[Mazmur 151]]
+* [[Kitab 3 Makabe|3 Makabe]]
+* [[Kitab 4 Makabe|4 Makabe]]
+* [[Kitab Syair Pujian|Syair Pujian]]
+
+  | heading3 = Tewahedo Ortodoks
+  | content3 =
+* [[Kitab Henokh|Henokh]]
+* [[Kitab Yobel|Yobel]]
+* [[Makabian|1, 2, dan 3 Makabian]]
+* [[Paralipomena Barukh]]
+* [[Kanon Alkitab Tewahedo Ortodoks|Kanon yang lebih luas]]
+}}
+
+
+| navbar = {{#ifeq:{{{status|{{{1|}}}}}}|subtemplate |off}}
+
+}}</includeonly><noinclude>
+{{Documentation
+ | content = {{Perjanjian Lama}}
+Templat ini ditransklusikan sebagai bagian dari {{tl|Tanakh OT}}, jadi silakan periksa apakah setiap perubahan yang dibuat di sini juga terimplementasi di sana.
+
+===Pilihan daftar yang dapat disembunyikan===
+{{Collapsible lists option |listnames=Pentateuch, historical, WP, prophetic, deutero}}
+}}
+
+[[Kategori:Templat navigasi Kristen]]
+[[Kategori:Tidak layak cetak]]
+</noinclude>

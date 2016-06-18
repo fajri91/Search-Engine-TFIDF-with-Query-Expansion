@@ -1,0 +1,68 @@
+Templat:Kabinet Yunani
+{{Navbox
+ | name = Kabinet Yunani
+ | Negara = {{{Negara<includeonly>|collapsed</includeonly>}}}
+ | title = [[Kabinet Alexis Tsipras|Kabinet]] [[Yunani]]
+ | image = [[File:Coat of Arms of Greece (Monochromatic).svg|right|80px]]
+
+ | titlestyle = background:#ccddcc;
+ | groupstyle = text-align:center; background:#ccddcc; 
+ | belowstyle = background:#ccddcc;
+ | listclass = plainlist
+
+ | group1 = [[Perdana Menteri Yunani|Perdana Menteri]]
+ | list1 =
+* [[Alexis Tsipras]]
+
+ | group2 = [[Wakil Perdana Menteri Yunani|Wakil Perdana Menteri]]
+ | list2 =
+* [[Yannis Dragasakis]]
+
+ | group3 = Menteri
+ | list3 =
+*'''[[Menteri Luar Negeri (Yunani)|Luar Negeri]]''': [[Nikos Kotzias]]
+*'''[[Kementerian Keuangan (Yunani)|Keuangan]]''': [[Euklides Tsakalotos]]
+*'''[[Menteri Pertahanan Nasional (Yunani)|Pertahanan Nasional]]''': [[Panos Kammenos]]
+*'''[[Kementerian Dalam Negeri dan Rekonstruksi Tata Negara|Dalam Negeri dan Rekonstruksi Tata Negara]]''': [[Nikos Voutsis]]
+*'''[[Kementerian Ekonomi, Infrastruktur, Perkapalan, dan Pariwisata|Ekonomi, Infrastruktur, Perkapalan, dan Pariwisata]]''': [[Giorgos Stathakis]]
+*'''[[Kementerian Kebudayaan, Pendidikan, dan Agama|Kebudayaan, Pendidikan, dan Agama]]''': [[Aristides Baltas]]
+*'''[[Kementerian Rekonstruksi Produktif, Lingkungan, dan Energi|Rekonstruksi Produktif, Lingkungan, dan Energi]]''': [[Panagiotis Lafazanis]]
+*'''[[Kementerian Kesehatan dan Jaminan Sosial (Yunani)|Kesehatan dan Jaminan Sosial]]''': [[Panagiotis Kouroumplis]]
+*'''[[Kementerian Tenaga Kerja dan Solidaritas Sosial (Yunani)|Tenaga Kerja dan Solidaritas Sosial]]''': [[Panos Skourletis]]
+*'''[[Kementerian Kehakiman (Yunani)|Kehakiman]]''': [[Nikos Paraskevopoulos]]
+*'''[[Menteri Negara (Yunani)|Negara]]''': [[Nikos Pappas (politikus)|Nikos Pappas]]; [[Panagiotis Nikoloudis]] <small>(Pemberantasan Korupsi)</small>; [[Alekos Flambouraris]] <small>(Koordinasi Pemerintah)</small>
+
+ | group4 = Menteri pembantu
+ | list4 = 
+*'''[[Kementerian Dalam Negeri dan Rekonstruksi Tata Negara|Reformasi Tata Negara]]''': [[Georgios Katrougalos]]
+*'''[[Kementerian Dalam Negeri dan Rekonstruksi Tata Negara|Ketertiban Umum dan Perlindungan Warga]]''': [[Giannis Panousis]]
+*'''[[Kementerian Dalam Negeri dan Rekonstruksi Tata Negara|Kebijakan Imigrasi]]''': [[Tasia Christodoulopoulou]]
+*'''[[Kementerian Ekonomi, Infrastruktur, Perkapalan, dan Pariwisata|Infrastruktur, Transportasi, dan Jaringan]]''': [[Christos Spirtzis]]
+*'''[[Kementerian Ekonomi, Infrastruktur, Perkapalan, dan Pariwisata|Perkapalan dan Laut Aegea]]''': [[Theodoros Dritsas]]
+*'''[[Kementerian Ekonomi, Infrastruktur, Perkapalan, dan Pariwisata|Pariwisata]]''': [[Elena Kountoura]]
+*'''[[Kementerian Rekonstruksi Produktif, Lingkungan, dan Energi|Lingkungan]]''': [[Giannis Tsironis]]
+*'''[[Kementerian Rekonstruksi Produktif, Lingkungan, dan Energi|Pengembangan Pertanian]]''': [[Evangelos Apostolou]]
+*'''[[Kementerian Keuangan (Yunani)|Keuangan]]''': [[Nadia Valavani]]; [[Dimitris Mardas]]
+*'''[[Kementerian Kebudayaan, Pendidikan, dan Agama|Kebudayaan]]''': [[Nikos Xydakis (wartawan)|Nikos Xydakis]]
+*'''[[Kementerian Kebudayaan, Pendidikan, dan Agama|Pendidikan]]''': [[Tasos Kourakis]]
+*'''[[Kementerian Kebudayaan, Pendidikan, dan Agama|Penelitian dan Inovasi]]''': [[Kostas Fotakis]]
+*'''[[Kementerian Kesehatan dan Jaminan Sosial (Yunani)|Kesehatan]]''': [[Andreas Xanthos]]
+*'''[[Kementerian Kesehatan dan Jaminan Sosial (Yunani)|Jaminan Sosial]]''': [[Dimitris Stratoulis]]
+*'''[[Kementerian Tenaga Kerja dan Solidaritas Sosial (Yunani)|Solidaritas Sosial]]''': [[Theano Fotiou]]
+*'''[[Kementerian Tenaga Kerja dan Solidaritas Sosial (Yunani)|Pemberantasan Pengangguran]]''': [[Rania Antonopoulos]]
+*'''[[Kementerian Luar Negeri (Yunani)|Eropa]]''': [[Nikos Hountis]]
+*'''[[Kementerian Luar Negeri (Yunani)|Hubungan Ekonomi Internasional]]''': [[Euklides Tsakalotos]]
+*'''[[Kementerian Pertahanan Nasional (Yunani)|Pertahanan Nasional]]''': [[Kostas Isyhos]]
+ | group5 = Wakil Menteri
+ | list5 = 
+*'''[[Perdana Menteri Yunani|Wakil Menteri untuk Perdana Menteri dan Juru Bicara Pemerintah]]''': [[Gabriel Sakellaridis]]
+*'''[[Kementerian Dalam Negeri dan Rekonstruksi Tata Negara|Makedonia dan Thracia]]''': [[Maria Kollia-Tsaroucha]]
+*'''[[Kementerian Rekonstruksi Produktif, Lingkungan, dan Energi|Pengembangan Pertanian]]''': [[Panagiotis Sgouridis]]
+*'''[[Kementerian Kebudayaan, Pendidikan, dan Agama|Olahraga]]''': [[Stavros Kontonis]]
+*'''[[Kementerian Pertahanan Nasional (Yunani)|Pertahanan Nasional]]''': [[Nikos Toskas]]
+*'''[[Kementerian Negara (Yunani)|Negara]]''': [[Terence Quick]] <small>(Koordinasi Pemerintah)</small>
+
+}}<noinclude>
+{{collapsible option}}
+[[Category:Templat politik dan pemerintahan Yunani|Kabinet]]
+</noinclude>

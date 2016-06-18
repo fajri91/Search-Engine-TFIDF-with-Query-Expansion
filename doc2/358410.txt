@@ -1,0 +1,17 @@
+Templat:Mendahara Ulu, Tanjung Jabung Timur
+{{Navigasi ID Desa
+|provinsi=Jambi
+|dati2=Kabupaten
+|nama dati2=Tanjung Jabung Timur
+|nama kecamatan=Mendahara Ulu
+|d1= Bukit Tempurung
+|d2= Mencolok
+|d3= Pematang Rahim
+|k1= Simpang Tuan
+|d4= Sinar Wajo
+|d5= Sungai Beras
+|d6= Sungai Toman
+}}<noinclude>
+[[Kategori:Templat desa/kelurahan di Jambi|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Tanjung Jabung Timur|{{PAGENAME}}]]
+</noinclude>

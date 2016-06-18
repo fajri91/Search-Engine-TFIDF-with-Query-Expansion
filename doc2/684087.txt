@@ -1,0 +1,2 @@
+Modul:Navbar/doc
+{{module rating|protected}}

@@ -1,0 +1,86 @@
+NGC 1300
+{{Infobox Galaxy
+| name = [[New General Catalogue|NGC]] 1300 
+| image = [[Image:Hubble2005-01-barred-spiral-galaxy-NGC1300.jpg|350px]]
+| caption = Gambar NGC 1300 melalui [[Teleskop Hubble]].<br/>Credit: HST/[[NASA]]/[[ESA]].
+| epoch = [[J2000]]
+| type = (R')SB(s)bc<ref name="ned">
+{{cite web
+  | title = NASA/IPAC Extragalactic Database
+  | work = Results for NGC 1300
+  | url = http://nedwww.ipac.caltech.edu/cgi-bin/nph-objsearch?search_type=Obj_id&objid=9121&objname=15
+  | accessdate = 2007-03-15
+}}</ref>
+| ra = {{RA|03|19|41.1}}<ref name="ned" />
+| dec = {{DEC|-19|24|41}}<ref name="ned" />
+| dist_ly = 61.3 [[tahun cahaya|Jtc]] (18.8 M[[Parsec|pc]])<ref name="atkinson05">
+{{cite journal 
+  | author  = Atkinson, J.W., et al.
+  | title   = Supermassive black hole mass measurements for NGC 1300 and NGC 2748 based on HST emission-line gas kinematics
+  | journal = Monthly Notices of the Royal Astronomical Society
+  | date    = May 2005
+  | volume  = 359
+  | issue   = 2
+  | pages   = 504520
+  | bibcode = 2005astro.ph..2573A
+  | doi     = 10.1111/j.1365-2966.2005.08904.x
+  | arxiv = astro-ph/0502573
+}}</ref>
+| z = 0.005260 (1577  4 [[Meter per detik|km/s]])<ref name="ned" />
+| appmag_v = 11.4<ref name="ned" />
+| size_v = 6&prime;.2 &times; 4&prime;.1<ref name="ned" />
+| constellation name = [[Eridanus]]
+| notes = Inti berbentuk batang besar dan dua lengan spiral.
+| names = MCG-03-09-018, ESO 547-31, PGC 12412, UGCA 66, <br>IRAS 03174-1935, 2MASX J03194107-1924408, <br>SGC 031725-1935.5, GC 689, h 2522, <br>HIPASS J0319-19, AGC 22472<ref name="ned" />
+}}
+
+'''NGC 1300''' adalah [[Galaksi#Spiral|galaksi spiral]] berbatang yang berjarak sekitar 61 juta [[tahun cahaya]] di [[rasi bintang]] [[Eridanus]]. Galaksi ini panjangnya sekitar 110.000 tahun cahaya, cukup sedikit lebih besar dari galaksi kita, [[Bima Sakti]]. Galaksi ini merupakan anggota dari [[Gugus Eridanus]], sebuah gugus yang terdiri dari 200 galaksi.<ref name="NGC1300">
+{{cite web
+| title = NGC 1300, a barred spiral galaxy in Eridanus
+| publisher = annesastronomynews.com
+| url = http://annesastronomynews.com/photo-gallery-ii/galaxies-clusters/ngc-1300/
+| accessdate = 2013-08-18
+}}</ref><ref name="atlas">
+{{cite web
+| title = The Fornax and Eridanus Clusters
+| publisher = An Atlas of The Universe
+| url = http://www.atlasoftheuniverse.com/galgrps/for.html
+| accessdate = 2010-05-03
+}}</ref>
+Galaksi ini ditemukan oleh [[William Herschel|John Frederick William Herschel]] pada tahun [[1835]].<ref name=Seligman>{{cite web|last1=Seligman|first1=Courtney|title=Celestial Atlas: NGC Objects: NGC 1300 - 1349|url=http://cseligman.com/text/atlas/ngc13.htm|website=cseligman.com|accessdate=25 July 2015|archiveurl=http://www.webcitation.org/6aHiSiflB|archivedate=25 July 2015}}</ref>
+
+== Gambar ==
+Gambar di sebelah kanan diambil dengan [[Teleskop luar angkasa Hubble]] pada September 2004. Gambar tersebut merupakan gambar komposit menggunakan empat filter: Biru (dengan panjang pusat gelombang 435&nbsp;nm), Visual (555&nbsp;nm), Inframerah (814&nbsp;nm) dan Hidrogen-alfa (658&nbsp;nm).<ref name="hst05">
+{{cite web
+  | title = Image of the Beautiful Barred Spiral Galaxy NGC 1300
+  | work = News Release: STScI-2005-01
+  | author = 
+  | publisher = NASA, ESO
+  | date = 10 Jan 2005
+  | url = http://hubblesite.org/newscenter/archive/releases/2005/01/image/a/
+  | accessdate = 12 Dec 2008
+}}</ref> Resolusi gambar tersebut, banyak sekali rincian halus, beberapa di antaranya belum pernah dilihat, terlihat seluruh [[Lengan spiral|lengan]], [[Cakram (galaksi)|cakram]], [[Tonjolan (astronomi)|tonjolan]], dan [[inti galaksi]]. Bintang biru dan merah [[Bintang superraksasa|super raksasa]], [[gugus bintang]], dan daerah pembentuk bintang yang diselesaikan dengan baik pada lengan spiral, dan jalur debu menelusuri struktur halus pada cakram dan bagian batang. Banyak galaksi yang lebih jauh terlihat di latar belakang, dan terlihat bahkan melalui daerah terpadat NGC 1300.
+
+Dalam inti struktur spiral yang lebih besar pada NGC 1300, inti menunjukkan struktur spiral yang luar biasa dan "desain utama" tak biasa dengan panjang sekitar 3.300 [[tahun cahaya]]. Hanya galaksi dengan batang skala besar tampaknya yang memiliki cakram bagian dalam desain utama ini  sebuah spiral dalam spiral. Model menunjukkan bahwa gas pada batang dapat disalurkan ke bagian dalam, dan kemudian spiral menuju pusat melalui cakram desain utama, di mana berpotensi bisa memicu [[lubang hitam]] pusat. NGC 1300 tidak diketahui memiliki inti aktif, menunjukkan bahwa lubang hitam pada pusat tidak mengalami akresi materi.
+
+== Lihat pula ==
+*[[NGC 1672]], galaksi spiral serupa
+*[[NGC 7479]], galaksi dengan struktur serupa
+
+== Referensi ==
+{{reflist}}
+
+== Pranala luar ==
+* {{Wikisky}}
+
+{{commons category|NGC 1300}}
+{{portal|astronomi}}
+
+{{Sky|03|19|41|10|-19|24|41|00}}
+
+[[Kategori:Galaksi|NGC 1300]]
+[[Kategori:Galaksi spiral|NGC 1300]]
+[[Kategori:Galaksi spiral berbatang|NGC 1300]]
+[[Kategori:Grup Eridanus]]
+[[Kategori:Objek NGC|1300]]
+[[Kategori:Objek PGC|12412]]

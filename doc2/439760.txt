@@ -1,0 +1,13 @@
+Templat:Arsip Warung Kopi/2012
+{{ #ifexist: Wikipedia:Warung Kopi ({{{1|Semua}}})/Arsip/Desember 2012 | =Arsip Desember 2012= {{Wikipedia:Warung Kopi ({{{1|Semua}}})/Arsip/Desember 2012}}}}
+{{ #ifexist: Wikipedia:Warung Kopi ({{{1|Semua}}})/Arsip/November 2012 | =Arsip November 2012= {{Wikipedia:Warung Kopi ({{{1|Semua}}})/Arsip/November 2012}}}}
+{{ #ifexist: Wikipedia:Warung Kopi ({{{1|Semua}}})/Arsip/Oktober 2012 | =Arsip Oktober 2012= {{Wikipedia:Warung Kopi ({{{1|Semua}}})/Arsip/Oktober 2012}}}}
+{{ #ifexist: Wikipedia:Warung Kopi ({{{1|Semua}}})/Arsip/September 2012 | =Arsip September 2012= {{Wikipedia:Warung Kopi ({{{1|Semua}}})/Arsip/September 2012}}}}
+{{ #ifexist: Wikipedia:Warung Kopi ({{{1|Semua}}})/Arsip/Agustus 2012 | =Arsip Agustus 2012= {{Wikipedia:Warung Kopi ({{{1|Semua}}})/Arsip/Agustus 2012}}}}
+{{ #ifexist: Wikipedia:Warung Kopi ({{{1|Semua}}})/Arsip/Juli 2012 | =Arsip Juli 2012= {{Wikipedia:Warung Kopi ({{{1|Semua}}})/Arsip/Juli 2012}}}}
+{{ #ifexist: Wikipedia:Warung Kopi ({{{1|Semua}}})/Arsip/Juni 2012 | =Arsip Juni 2012= {{Wikipedia:Warung Kopi ({{{1|Semua}}})/Arsip/Juni 2012}}}}
+{{ #ifexist: Wikipedia:Warung Kopi ({{{1|Semua}}})/Arsip/Mei 2012| =Arsip Mei 2012= {{Wikipedia:Warung Kopi ({{{1|Semua}}})/Arsip/Mei 2012}} }}
+{{ #ifexist: Wikipedia:Warung Kopi ({{{1|Semua}}})/Arsip/April 2012 | =Arsip April 2012= {{Wikipedia:Warung Kopi ({{{1|Semua}}})/Arsip/April 2012}} }}
+{{ #ifexist: Wikipedia:Warung Kopi ({{{1|Semua}}})/Arsip/Maret 2012 | =Arsip Maret 2012= {{Wikipedia:Warung Kopi ({{{1|Semua}}})/Arsip/Maret 2012}} }}
+{{ #ifexist: Wikipedia:Warung Kopi ({{{1|Semua}}})/Arsip/Februari 2012 | =Arsip Februari 2012= {{Wikipedia:Warung Kopi ({{{1|Semua}}})/Arsip/Februari 2012}} }}
+{{ #ifexist: Wikipedia:Warung Kopi ({{{1|Semua}}})/Arsip/Januari 2012 | =Arsip Januari 2012= {{Wikipedia:Warung Kopi ({{{1|Semua}}})/Arsip/Januari 2012}} }}<noinclude>[[Kategori:Templat Warung Kopi]]</noinclude>

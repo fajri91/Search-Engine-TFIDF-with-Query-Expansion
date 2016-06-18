@@ -1,0 +1,25 @@
+Daftar kecamatan dan kelurahan di Kota Tegal
+[[Berkas:Shield of the city of Tegal.svg|thumb|Kota Tegal]]
+Berikut ini adalah daftar [[kecamatan]] dan [[kelurahan]] di [[Kota Tegal]] beserta [[kode pos]] mereka. Kota Tegal memiliki 4 kecamatan dan 27 kelurahan: 
+<center>
+<onlyinclude>
+{| class="wikitable"
+! Kecamatan || Kelurahan
+|- valign="top"
+| [[Margadana]] || Cabawan (52147), Kaligangsa (52147), Kalinyamat Kulon (52146), Krandon (52144), Margadana (52143), Pesurungan Lor (52147), Sumurpanggang (52141)
+|- valign="top"
+| [[Tegal Barat]] ||Debong Lor (52115), Kemandungan (52114), Kraton (52112), Muarareja (52117), Pekauman (52125), Pesurungan Kidul (52117), Tegalsari (52111)
+|- valign="top"
+| [[Tegal Selatan]] ||Bandung (52137), Debong Kidul (52138), Debong Kulon (52133), Debong Tengah (52132), Kalinyamat Wetan (52136), Keturen (52134), Randugunting (52131), Tunon (52135)
+|- valign="top"
+| [[Tegal Timur]] ||Kejambon (52124), Mangkukusuman (52123), Mintaragen (52121), Panggung (52122), Slerok (52125)
+|}
+</onlyinclude>
+</center>
+{{Kota Tegal}}
+{{Jawa Tengah|Daftar kecamatan dan kelurahan}}
+
+[[Kategori:Kecamatan di Kota Tegal| ]]
+[[Kategori:Kelurahan di Kota Tegal| ]]
+[[Kategori:Daftar pembagian administratif di Jawa Tengah]]
+[[Kategori:Daftar bertopik Tegal]]

@@ -1,0 +1,19 @@
+Templat:Maulafa, Kupang
+{{Navigasi ID Desa 
+|provinsi=Nusa Tenggara Timur
+|dati2=Kota
+|nama dati2=Kupang
+|nama kecamatan=Maulafa
+|k1=Belo
+|k2=Fatukoa
+|k3=Kolhua
+|k4=Maulafa
+|k5=Naikolan
+|k6=Naimata
+|k7=Oepura
+|k8=Penfui
+|k9=Sikumana
+}}<noinclude>
+[[Kategori:Templat desa/kelurahan di Nusa Tenggara Timur|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kota Kupang|{{PAGENAME}}]]
+</noinclude>

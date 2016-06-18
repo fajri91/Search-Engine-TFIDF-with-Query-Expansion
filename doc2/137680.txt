@@ -1,0 +1,49 @@
+Galgagnano
+{{Infobox Italian comune
+| name                = Galgagnano
+| official_name       = Comune di Galgagnano
+| native_name         = 
+| image_skyline       = 
+| imagesize           = 
+| image_alt           = 
+| image_caption       = 
+| image_shield        = 
+| shield_alt          = 
+| image_map           = Map - IT - Lodi - Galgagnano.png
+| map_alt             = 
+| map_caption         = 
+| pushpin_label_position = 
+| pushpin_map_alt     = 
+| latd  = 45 |latm  = 10 |lats  =  |latNS  = N
+| longd = 9 |longm = 35 |longs =   |longEW = E 
+| coordinates_type    = type:city(784)_region:IT
+| coordinates_display = title
+| coordinates_footnotes = 
+| region              = [[Lombardy]]
+| province            = [[Province of Lodi]] (LO)
+| frazioni            = 
+| mayor_party         = 
+| mayor               = 
+| area_footnotes      = 
+| area_total_km2      = 6.0
+| population_footnotes = 
+| population_total    = 784
+| population_as_of    = Dec. 2004
+| pop_density_footnotes = 
+| population_demonym  = 
+| elevation_footnotes = 
+| elevation_m         = 
+| twin1               = 
+| twin1_country       = 
+| saint               = 
+| day                 = 
+| postal_code         = 26832
+| area_code           = 0371
+| website             = {{official|1=http://www.comune.galgagnano.lo.it/template.php?pag=1}}
+| footnotes           = 
+}}
+
+'''Galgagnano''' adalah komune yang terletak di distrik [[Provinsi Lodi]], [[Italia]]. Kota Galgagnano memiliki luas sebesar 6.0 km. Galgagnano pada tahun 2004, memiliki penduduk sebanyak 784 jiwa.
+
+{{Province of Lodi}}
+{{Lodi-geo-stub}}

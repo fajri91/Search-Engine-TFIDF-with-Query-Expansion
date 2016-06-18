@@ -1,0 +1,27 @@
+Templat:Kendal, Kendal
+{{Navigasi ID Desa |provinsi=Jawa Tengah|dati2=Kabupaten |nama dati2=Kendal
+|nama kecamatan=Kendal
+|k1=Balok
+|k2=Bandengan
+|k3=Banyutowo
+|k4=Bugangin
+|k5=Candiroto
+|k6=Jetis
+|k7=Jotang
+|k8=Kalibuntu Wetan
+|k9=Karang Sari
+|k10=Kebondalem
+|k11=Ketapang
+|k12=Langenharjo
+|k13=Ngilir
+|k14=Pakauman
+|k15=Patukangan
+|k16=Pegulon
+|k17=Sijeruk
+|k18=Sukodono
+|k19=Trompo
+|k20=Tunggulrejo
+}}<noinclude>
+[[Kategori:Templat desa/kelurahan di Jawa Tengah|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Kendal|{{PAGENAME}}]]
+</noinclude>

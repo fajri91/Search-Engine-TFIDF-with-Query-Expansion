@@ -1,0 +1,142 @@
+Messier 84
+{{Infobox galaxy
+| image =  [[Image:Messier 84 nucleus Hubble.jpg|250px|Messier 84 nucleus oleh [[Hubble Space Telescope|HST]]]] 
+| caption = ''M84''.  Credit:[[NOAO]].
+| name = [[Objek Messier|Messier]] 84
+| type = E1<ref name="ned">
+{{cite web
+  | title=NASA/IPAC Extragalactic Database
+  | work=Results for NGC 4374
+  | url=http://ned.ipac.caltech.edu/cgi-bin/objsearch?objname=m84&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES
+  | accessdate=2006-11-14
+}}</ref>
+| epoch = [[J2000]]
+| ra = {{RA|12|25|03.7}}<ref name="ned" />
+| dec = {{DEC|+12|53|13}}<ref name="ned" />
+| dist_ly = [[1 E23 m|60  3]] [[tahun cahaya|Mly]] (18.4  0.9 [[parsec|Mpc]])<ref name="tonryetal2001">
+{{cite journal
+  | author=J. L. Tonry, A. Dressler, J. P. Blakeslee, E. A. Ajhar, A. B. Fletcher, G. A. Luppino, M. R. Metzger, C. B. Moore
+  | year=2001
+  | title=The SBF Survey of Galaxy Distances. IV. SBF Magnitudes, Colors, and Distances
+  | journal=[[Astrophysical Journal]]
+  | volume=546  | issue=2  | pages=681693
+  | bibcode=2001ApJ...546..681T
+  | doi=10.1086/318301
+|arxiv = astro-ph/0011223 }}</ref>
+| z = 1060  6 km/[[second|s]]<ref name="ned" />
+| appmag_v = 10.1<ref name="ned" />
+| size_v = 6&prime;.5 &times; 5&prime;.6<ref name="ned" />
+| constellation name = [[Virgo (constellation)|Virgo]]
+| notes = 
+| names = [[New General Catalogue|NGC]] 4374,<ref name="ned" /> [[Uppsala General Catalogue|UGC]] 7494,<ref name="ned" /> [[Principal Galaxies Catalogue|PGC]] 40455,<ref name="ned" /> VCC 763<ref name="ned" />
+}}
+
+'''Messier 84''' (disebut juga '''M84''' atau '''NGC 4374''') merupakan [[galaksi eliptis]] atau [[galaksi lentikular]] yang berada di [[rasi bintang]] [[Virgo]]. M84 terletak di daerah inti yang padat pada [[Gugus Virgo|Gugus Galaksi Virgo]].<ref name="Finoguenovetal2002">
+{{cite journal
+ | author=Finoguenov, A.; Jones, C.
+ | year=2002
+ | title=Chandra Observation of Low-Mass X-Ray Binaries in the Elliptical Galaxy M84
+ | journal=[[Astrophysical Journal]]
+ | volume=574  | issue=2  | pages=754761
+ | bibcode=2002ApJ...574..754F
+ | doi=10.1086/340997
+|arxiv = astro-ph/0204046 }}</ref>
+
+Gambar-gambar observasi radio dan [[Hubble Space Telescope|teleskop Hubble]] telah mengungkap  adanya dua pancaran materi melesat keluar dari pusat galaksi serta adanya cakram gas yang berputar dengan cepat, yang menunjukkan adanya [[lubang hitam]] supermasif dengan massa 1.5 {{E|9}} [[massa matahari|M<sub></sub>]].<ref name="Bower et al. 1998">
+{{cite journal
+ | author=Bower, G.A.
+ | year=1998
+ | title=Kinematics of the Nuclear Ionized Gas in the Radio Galaxy M84 (NGC 4374)
+ | journal=[[Astrophysical Journal]]
+ | volume=492  | issue=1  | pages=111114
+ | bibcode=1998ApJ...492L.111B
+ | doi=10.1086/311109
+|arxiv = astro-ph/9710264
+ | display-authors=1
+ | last2=Green
+ | first2=R. F.
+ | last3=Danks
+ | first3=A.
+ | last4=Gull
+ | first4=T.
+ | last5=Heap
+ | first5=S.
+ | last6=Hutchings
+ | first6=J.
+ | last7=Joseph
+ | first7=C.
+ | last8=Kaiser
+ | first8=M. E.
+ | last9=Kimble
+ | first9=R. }}</ref> Objek ini juga memiliki beberapa bintang muda serta [[gugus bintang]], yang mengindikasikan adanya [[pembentukan bintang]] pada laju yang rendah.<ref name="ford2012">
+{{cite journal
+ | author=Ford, Alyson; Bregman, J. N.
+ | year=2012
+ | title=Detection of Ongoing, Low-Level Star Formation in Nearby Ellipticals
+ | journal=American Astronomical Society
+ | bibcode=2012AAS...21910203F
+}}</ref>
+
+==Sejarah==
+[[Charles Messier]] menemukan Messier 84 pada 18 Maret 1781, pada saat mencari objek yang samar pada tengah malam.<ref name="jonesbook1991">
+{{cite book
+|author=K. G. Jones
+|year=1991
+|title=Messier's Nebulae and Star Clusters
+|edition= 2nd
+|publisher=[[Cambridge University Press]]
+|location=Cambridge
+|isbn=0-521-37079-5
+}}</ref>  Objek ini merupakan objek ke 84 yang dimasukkan ke dalam [[Objek Messier|Katalog Messier]].
+
+==Supernova==
+Dua [[supernova]] telah di observasi di M84 yakni: [[SN 1957]]<ref name="Gtz1958">{{cite journal
+  | author=Gtz, W.
+  | year=1958
+  | title=Supernova in NGC 4374 (= M 84)
+  | journal=[[Astronomische Nachrichten]]
+  | volume=284
+  | issue=3  | pages=141
+  | bibcode=1958AN....284..141G
+  | doi=10.1002/asna.19572840308
+}}</ref>
+dan [[SN 1991bg]].<ref name="Kosaietal1991">
+{{cite journal
+  | author=Kosai, H.; Kushida, R.; Kato, T.; Filippenko, A.; Newberg, H.
+  | year=1958
+  | title=Supernova 1991bg in NGC 4374
+  | journal=IAU Circ.
+  | volume=5400  | pages=1
+  | bibcode=1991IAUC.5400....1K
+  | last2=Kushida
+  | last3=Kato
+  | last4=Filippenko
+  | last5=Newberg
+}}</ref>
+Kemungkinan supernova ketiga, [[SN 1980I]] merupakan bagian dari M84 atau alternatif lainnya, merupakan satu, dari galaksi tetangga, [[NGC 4387]] dan [[Messier 86|M86]].<ref name="Smith1981">
+{{cite journal
+ | author=Smith, H. A.
+ | year=1981
+ | title=The spectrum of the intergalactic supernova 1980I
+ | journal=[[Astronomical Journal]]
+ | volume=86  | pages=9981002
+ | bibcode=1981AJ.....86..998S
+ | doi=10.1086/112975
+}}</ref>
+
+==Referensi==
+{{reflist}}
+
+==Pranala luar==
+* [http://blackholes.stardate.org/directory/factsheet.php?p=M84 '''StarDate''': M84 Fact Sheet]
+* [http://www.seds.org/messier/m/m084.html SEDS Lenticular Galaxy M84]
+* {{WikiSky}}
+
+{{Sky|12|25|03.7|+|12|53|13|60300000}}
+
+{{Objek Messier}}
+
+[[Kategori:Objek Messier|084]]
+[[Kategori:Objek NGC]]
+[[Kategori:Objek UGC|07494]]
+[[Kategori:Objek PGC|40455]]

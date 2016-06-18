@@ -1,0 +1,22 @@
+Ranunculaceae
+{{Taxobox
+| name = Ranunculaceae
+| image = Ranunculus auricomis.jpg
+| image_caption = ''Ranunculus auricomis''
+|regnum = [[Plantae]]
+|divisio = [[Magnoliophyta]]
+|unranked_classis = [[Eudikotil]]
+|unranked_ordo = 
+|ordo = [[Ranunculales]]
+| familia = '''Ranunculaceae'''
+| familia_authority = 
+| subdivision_ranks = Genera
+| subdivision = Lihat teks
+}}
+'''Ranunculaceae''' adalah salah satu [[familia|suku]] anggota [[tumbuhan berbunga]]. Menurut [[Sistem klasifikasi APG II]] suku ini dimasukkan ke dalam bangsa [[Ranunculales]], [[klad]] '''dikotil sejati''' ('''[[Eudikotil]]''') namun tidak termasuk ke dalam dua kelompok besar, '''[[Rosidae]]''' dan '''[[asterids]]'''.
+ 
+{{commons|Ranunculaceae}}
+{{botani-stub}}
+
+[[Kategori:Ranunculaceae| ]]
+[[Kategori:Ranunculales]]

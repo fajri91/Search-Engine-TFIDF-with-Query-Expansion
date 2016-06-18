@@ -1,0 +1,25 @@
+Albatros hidung-kuning-atlantik
+{{Taxobox
+| image = Thalassarche chlororhynchos.png
+| name = Albatros hidung-kuning-atlantik
+| status = EN
+| status_system = IUCN3.1
+| status_ref = <ref name=IUCN2012>{{IUCN|id=106003965 |title=''Thalassarche chlororhynchos'' | assessors=[[BirdLife International]] |version=2012.1 |year=2012 |accessdate=16 July 2012}}</ref>
+| trend = menurun
+| regnum = [[Animalia]]
+| phylum = [[Chordata]]
+| classis = [[burung|Aves]]
+| ordo = [[Procellariiformes]]
+| familia = [[Diomedeidae]]
+| genus = '''''Thalassarche'''''
+| species = ''T. chlororhynchos''
+| binomial = ''Thalassarche chlororhynchos''
+| binomial_authority = [[Johann Friedrich Gmelin|Gmelin]] 1789<ref name="Brands">Brands, S. (2008)</ref>
+| synonyms = ''Thalassarche chlororhynchos chlororhynchos'' 
+}}
+'''Albatros hidung-kuning-atlantik''' (''Thalassarche chlororhynchos'') adalah [[spesies]] [[burung laut]] berukuran besar dari [[familia|keluarga]] [[Albatros]]. Pada awalnya spesies ini dianggap satu spesies dengan [[Albatros hidung-kuning-indian]] dan dikenal dengan '''Albatros hidung-kuning'''. Beberapa otoriti masih menganggap kedua spesies adalah sama, seperti Jeff Clements<ref>Clements, J. (2007)</ref> dan [[South American Classification Committee|SACC]].<ref>Remsen Jr., J. V. (2008)</ref>
+
+== Referensi ==
+{{reflist}}
+
+{{burung albatros}}

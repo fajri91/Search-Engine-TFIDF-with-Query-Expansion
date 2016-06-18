@@ -1,0 +1,8 @@
+Templat:Psikologi-stub
+{{base-stub
+|[[psikologi]]
+|[[Berkas:Psi2.svg|9999999999x30px|Rintisan psikologi]]
+}}{{#if:{{{kat|}}}||<includeonly>
+[[Kategori:Rintisan bertopik psikologi|{{PAGENAME}}]]</includeonly>}}<noinclude>
+[[Kategori:Templat rintisan|{{PAGENAME}}]]
+</noinclude>

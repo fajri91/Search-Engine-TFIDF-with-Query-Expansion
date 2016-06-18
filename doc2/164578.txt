@@ -1,0 +1,14 @@
+Berkas:Sergap.gif
+== {{int:filedesc}} ==
+{{Information
+| description    =
+Layar pembukaan Sergap (s/d [[Mei 2007]])
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Logo}}

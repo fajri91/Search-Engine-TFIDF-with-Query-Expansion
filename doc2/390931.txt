@@ -1,0 +1,2061 @@
+Formula Satu musim 2012
+'''Formula Satu musim 2012''' merupakan musim reguler [[Formula Satu]] yang ke-63. Musim 2012 sendiri akan ditandai dengan kembalinya [[Grand Prix Amerika Serikat]] ke dalam kalender F1 dengan tempat yang akan di gelar yaitu di [[Circuit of the Americas]], [[Texas]] dan [[Grand Prix Bahrain]] yang sempat dibatalkan dalam kalender musim {{F1|2011}}.
+
+== Skuat tim dan pembalap ==
+{| class="wikitable" border="1" style="font-size: 85%;"
+|-
+!Tim
+!Konstruktor
+!Sasis
+!Mesin
+!Ban
+!{{Tooltip|No.|Nomor mobil}}
+!Pembalap
+!Ronde
+!Pembalap tes/cadangan
+|-
+|rowspan=2| {{flagicon|AUT}} Red Bull Racing
+!rowspan=2| [[Red Bull Racing|Red Bull]]
+|rowspan=2| [[Red Bull RB8|RB8]]
+|rowspan=2| [[Renault Sport F1|Renault]] RS27-2012
+|rowspan=2 align="center"| {{Pirelli}}
+| align="center"| 1
+| {{flagicon|DEU}} [[Sebastian Vettel]]<ref>{{cite news|title=Horner pleased to end Vettel rumours|url=http://www.autosport.com/news/report.php/id/89914|first=Matt|last=Beer|work=[[Autosport]]|publisher=[[Haymarket Group|Haymarket Publications]]|date=14 March 2011|accessdate=14 March 2011}}</ref>
+| 14
+|rowspan=2| {{flagicon|CHE}} [[Sbastien Buemi]]<ref name="Buemi">{{cite news|title=Sebastien Buemi confirmed as Red Bull Racing's reserve and test driver|url=http://www.autosport.com/news/report.php/id/96889|first=Pablo|last=Elizalde|work=[[Autosport]]|publisher=[[Haymarket Group|Haymarket Publications]]|date=5 January 2012|accessdate=5 January 2012}}</ref>
+|-
+| align="center"| 2
+| {{flagicon|AUS}} [[Mark Webber]]<ref>{{cite news|url=http://www.redbull.com/cs/Satellite/en_INT/Article/Webber-Signs-With-Red-Bull-For-2012-021243074602362|title=Webber Signs With Red Bull For 2012|date=27 August 2011|work=Redbull.com|publisher=[[Red Bull Racing]]|accessdate=27 August 2011|archiveurl=http://www.webcitation.org/635oQoE27|archivedate=10 November 2011|deadurl=no}}</ref>
+| 14
+|-
+|rowspan=2| {{flagicon|GBR}} Vodafone McLaren Mercedes
+!rowspan=2| [[McLaren]]
+|rowspan=2| [[McLaren MP4-27|MP4-27]]
+|rowspan=2| [[Mercedes AMG High Performance Powertrains|Mercedes]] FO 108Z
+|rowspan=2 align="center"| {{Pirelli}}
+| align="center"| 3
+| {{flagicon|GBR}} [[Jenson Button]]<ref name="Button">{{cite news|url = http://www.autosport.com/news/report.php/id/95051|title=Button secures new multi-year contract at McLaren|first=Pablo|last=Elizalde|work=[[Autosport]]|publisher=[[Haymarket Group|Haymarket Publications]]|date=5 October 2011|accessdate=5 October 2011}}</ref>
+| 14
+|rowspan=2| {{flagicon|GBR}} [[Gary Paffett]]<ref name="Paffett">{{cite news|url=http://www.autosport.com/news/report.php/id/92861|title=Gary Paffett extends McLaren test and reserve contract|work=Autosport.com|publisher=Haymarket Publications|date=5 July 2011|accessdate=6 July 2011|first=Jonathan|last=Noble}}</ref><br />{{flagicon|GBR}} [[Oliver Turvey]]<ref>{{cite news|title=McLaren unveils its 2012 challenger|url=http://www.racedepartment.com/2012/02/mclaren-unveils-its-2012-challenger-2/|first=Nick|last=Rowland|work=Race Department|date=1 February 2012|accessdate=2 February 2012}}</ref>
+|-
+| align="center"| 4
+| {{flagicon|GBR}} [[Lewis Hamilton]]<ref name="Hamilton">{{cite news|url=http://www.manipef1.com/news/articles/5919/|title=Lewis extends McLaren stay until 2012|publisher=Manipe F1|date=18 January 2008|accessdate=19 May 2008}}</ref>
+| 14
+|-
+|rowspan=2| {{flagicon|ITA}} Scuderia Ferrari
+!rowspan=2| [[Scuderia Ferrari|Ferrari]]
+|rowspan=2| [[Ferrari F2012|F2012]]
+|rowspan=2| [[Scuderia Ferrari|Ferrari]] Type 056
+|rowspan=2 align="center"| {{Pirelli}}
+| align="center"| 5
+| {{flagicon|ESP}} [[Fernando Alonso]]<ref>{{Cite news|title=Fernando Alonso signs for Ferrari|url=http://www.ferrari.com/English/TS/News/Pages/090930_F1_News_1.aspx|work=[[Scuderia Ferrari]]|publisher=[[Ferrari]]|date=30 September 2009|accessdate=23 June 2011|archiveurl=http://www.webcitation.org/635pXOCzt|archivedate=10 November 2011|deadurl=no}}</ref>
+| 14
+|rowspan=2| {{flagicon|ITA}} [[Davide Rigon]]<ref name="Rigon">{{cite news|title=Rigon steps up at Ferrari after Force India Formula 1 team sign Bianchi|url=http://www.f1sa.com/index.php?option=com_content&view=article&id=32545:f1--rigon-steps-up-at-ferrari-after-force-india-formula-1-team-sign-bianchi&catid=1:f1&Itemid=157|work=F1SA.com|date=January 28, 2012|accessdate=January 28, 2012}}</ref>
+|-
+| align="center"| 6
+| {{flagicon|BRA}} [[Felipe Massa]]<ref>{{cite news|title=Massa extends Ferrari contract until '12
+|url=http://www.autosport.com/news/report.php/id/84244|first=Pablo|last=Elizalde|work=[[Autosport]]|publisher=[[Haymarket Group|Haymarket Publications]]|date=9 June 2010|accessdate=9 June 2010|archiveurl= http://web.archive.org/web/20100611122658/http://www.autosport.com/news/report.php/id/84244|archivedate= 11 June 2010 <!--DASHBot-->|deadurl= no}}</ref>
+| 14
+|-
+|rowspan=2| {{flagicon|DEU}} Mercedes AMG Petronas F1 Team
+!rowspan=2| [[Mercedes Grand Prix|Mercedes]]
+|rowspan=2| [[Mercedes F1 W03|F1 W03]]
+|rowspan=2| [[Mercedes AMG High Performance Powertrains|Mercedes]] FO 108Z
+|rowspan=2 align="center"| {{Pirelli}}
+| align="center"| 7
+| {{flagicon|DEU}} [[Michael Schumacher]]<ref name="Schumacher">{{cite news|url=http://en.espnf1.com/mercedes/motorsport/story/7532.html|title=Schumacher could stay in F1 after 2012|work=Espnf1.com|publisher=ESPN|date=27 January 2010|accessdate=25 July 2010}}</ref>
+| 14
+|rowspan=2| {{flagicon|GBR}} [[Sam Bird]]<ref>{{cite news|url=http://www.motorsport-magazin.com/motorsport/news-135709-bird-kommt-aus-der-gp2-vertrag-mit-isr-unterschrieben.html|title=WS by Renault  Bird kommt aus der GP2|language=German|trans_title=WS by Renault  Bird comes from GP2|work=Motorsport-Magazin.com|publisher=adrivo Sportpresse GmbH|first=Frederik|last=Hackbarth|date=24 February 2012|accessdate=17 March 2012}}</ref>
+|-
+| align="center"| 8
+| {{flagicon|DEU}} [[Nico Rosberg]]<ref>{{cite news|url=http://en.espnf1.com/mercedes/motorsport/story/63741.html|title=Rosberg extends Mercedes contract|date=10 November 2011|work=EspnF1.con|publisher=[[ESPN]]|accessdate=10 November 2011}}</ref>
+| 14
+|-
+|rowspan=2| {{flagicon|GBR}} Lotus F1 Team
+!rowspan=2| [[Lotus F1|Lotus]]
+|rowspan=2| [[Lotus E20|E20]]
+|rowspan=2| [[Renault Sport F1|Renault]] RS27-2012
+|rowspan=2 align="center"| {{Pirelli}}
+| align="center"| 9
+| {{flagicon|FIN}} [[Kimi Rikknen]]<ref name="Raikkonen back">{{cite news|url=http://www.lotusrenaultgp.com/8034-Kimi-Raikkonen-back-in-F1-with.html?lang=en|title=Kimi Rikknen back in F1 with LRGP in 2012|date=29 November 2011|publisher=[[Renault F1|Lotus Renault GP]]|accessdate=29 November 2011}}</ref>
+| 14
+|rowspan=2| {{flagicon|BEL}} [[Jrme d'Ambrosio]]<ref name="Jerome">{{cite news|url=http://www.autosport.com/news/report.php/id/97160|title=Jerome D'Ambrosio joins Lotus as third driver for 2012 F1 season|work=Autosport.com|publisher=Haymarket Publications|date=24 January 2012|accessdate=24 January 2012|first=Pablo|last=Elizalde}}</ref>
+|-
+| align="center"| 10
+| {{flagicon|FRA}} [[Romain Grosjean]]<ref name="Grosjean in">{{cite news|title=Romain Grosjean joins Kimi Raikkonen at Lotus Renault for 2012|url=http://www.autosport.com/news/report.php/id/96698|work=Autosport.com|publisher=[[Haymarket Group|Haymarket Publications]]|date=9 December 2011|accessdate=9 December 2011}}</ref>
+| 14
+|-
+|rowspan=2| {{flagicon|IND}} Sahara Force India F1 Team
+!rowspan=2| [[Force India]]
+|rowspan=2| [[Force India VJM05|VJM05]]
+|rowspan=2| [[Mercedes AMG High Performance Powertrains|Mercedes]] FO 108Z
+|rowspan=2 align="center"| {{Pirelli}}
+| align="center"| 11
+| {{flagicon|GBR}} [[Paul di Resta]]<ref name="FI2012">{{cite news|url=http://www.formula1.com/news/headlines/2011/12/12903.html|title=Hulkenberg joins Di Resta in Force India's 2012 line-up|date=16 December 2011|accessdate=16 December 2011|work=Formula1.com|publisher=[[Formula One Group|Formula One Administration]]}}</ref>
+| 14
+|rowspan=2| {{flagicon|FRA}} ''[[Jules Bianchi]]''<ref>{{cite news|url=http://www.forceindiaf1.com/article.html?ID=567|title=Jules Bianchi joins Sahara Force India as reserve driver for 2012|date=27 January 2012|work=ForceIndiaF1.com|publisher=[[Force India]]|accessdate=27 January 2012}}</ref><br />{{flagicon|GBR}} [[Gary Paffett]]<ref>{{cite news|url=http://www.forceindiaf1.com/article.html?ID=611|title=Gary Paffett steps in as Sahara Force Indias reserve driver this week|date=15 March 2012|work=ForceIndiaF1.com|publisher=[[Force India]]|accessdate=15 March 2012}}</ref>
+|-
+| align="center"| 12
+| {{flagicon|DEU}} [[Nico Hlkenberg]]<ref name="FI2012"/>
+| 14
+|-
+|rowspan=2| {{flagicon|CHE}} Sauber F1 Team
+!rowspan=2| [[Sauber]]
+|rowspan=2| [[Sauber C31|C31]]
+|rowspan=2| [[Scuderia Ferrari|Ferrari]] Type 056
+|rowspan=2 align="center"| {{Pirelli}}
+| align="center"| 14 <!-- Mohon jangan ganti ini ke "13" - Formula Satu tidak menggunakan mobil nomor 13 -->
+| {{flagicon|JPN}} [[Kamui Kobayashi]]<ref name="Sauber 2012">{{cite news|title=Kobayashi and Perez to stay at Sauber in 2012|url=http://www.formula1.com/news/headlines/2011/7/12364.html|work=Formula1.com|publisher=[[Formula One Group|Formula One World Championship]]|date=28 July 2011|accessdate=28 July 2011}}</ref>
+| 14
+|rowspan=2| {{flagicon|MEX}} [[Esteban Gutirrez]]<ref name="Sauber 2012"/>
+|-
+| align="center"| 15
+| {{flagicon|MEX}} [[Sergio Prez]]<ref name="Sauber 2012"/>
+| 14
+|-
+|rowspan=2| {{flagicon|ITA}} Scuderia Toro Rosso
+!rowspan=2| [[Scuderia Toro Rosso|Toro Rosso]]
+|rowspan=2| [[Toro Rosso STR7|STR7]]
+|rowspan=2| [[Scuderia Ferrari|Ferrari]] Type 056
+|rowspan=2 align="center"| {{Pirelli}}
+| align="center"| 16
+| {{flagicon|AUS}} [[Daniel Ricciardo]]<ref name="RicVer">{{cite news|url=http://www.theaustralian.com.au/news/sport/ricciardo-earns-toro-rosso-ride/story-e6frg7mf-1226222609044|title=Ricciardo earns Toro Rosso ride|agency=[[Agence France-Presse]]|work=[[The Australian]]|publisher=[[News Limited]]|date=15 December 2011|accessdate=15 December 2011}}</ref>
+| 14
+|rowspan=2| {{flagicon|CHE}} [[Sbastien Buemi]]<ref>{{cite news|title=Sb Stays in Touch|url=http://www.scuderiatororosso.com/cs/Satellite/en_INT/Article/Sb-Stays-in-Touch-021243144938545|work=Scuderia Toro Rosso|publisher=[[Red Bull]]|date=5 January 2012|accessdate=6 February 2012|quote=Although our sister team in Milton Keynes will be the Swiss driver's top priority, if for any reason, Scuderia Toro Rosso found itself short of a driver at a grand prix, then Sbastien would step into the cockpit for us.}}</ref>
+|-
+| align="center"| 17
+| {{flagicon|FRA}} [[Jean-ric Vergne]]<ref name="RicVer"/>
+| 14
+|-
+|rowspan=2| {{flagicon|GBR}} Williams F1 Team
+!rowspan=2| [[Williams F1|Williams]]
+|rowspan=2| [[Williams FW34|FW34]]
+|rowspan=2| [[Renault Sport F1|Renault]] RS27-2012
+|rowspan=2 align="center"| {{Pirelli}}
+| align="center"| 18
+| {{flagicon|VEN}} [[Pastor Maldonado]]<ref name="MAL & BOT">{{cite news|url=http://www.attwilliams.com/news/view/2028|title=Pastor Maldonado Confirmed for 2012 with Valtteri Bottas as Reserve Driver|work=Williams F1|date=1 December 2011|accessdate=1 December 2011}}</ref>
+| 14
+|rowspan=2| {{flagicon|FIN}} ''[[Valtteri Bottas]]''<ref name="MAL & BOT"/><br />{{flagicon|GBR}} [[Susie Wolff]]<ref>{{cite news|url=http://www.williamsf1.com/news/view/2105|title=Susie Wolff appointed Development Driver for the Williams F1 Team|date=11 April 2012|work=[[Williams F1]]|publisher=Williams Grand Prix Engineering Limited|accessdate=11 May 2012}}</ref>
+|-
+| align="center"| 19
+| {{flagicon|BRA}} [[Bruno Senna]]<ref name="Bruno Williams">{{cite news|url=http://www.autosport.com/news/report.php/id/97056|title=Williams confirms Bruno Senna will race for the team in F1 in 2012|work=[[Autosport]]|publisher=[[Haymarket Group|Haymarket Publications]]|last=Elizalde|first=Pablo|date=17 January 2012|accessdate=17 January 2012}}</ref>
+| 14
+|-
+|rowspan=2| {{flagicon|MYS}} Caterham F1 Team
+!rowspan=2| [[Caterham F1|Caterham]]
+|rowspan=2| [[Caterham CT01|CT01]]
+|rowspan=2| [[Renault Sport F1|Renault]] RS27-2012
+|rowspan=2 align="center"| {{Pirelli}}
+| align="center"| 20
+| {{flagicon|FIN}} [[Heikki Kovalainen]]<ref>{{cite journal|date=15 September 2011|title=Pit & Paddock: Third year for Trulli and Kovalainen|journal=[[Autosport]]|volume=205|issue=11|page=p. 12|publisher=[[Haymarket Group|Haymarket Publications]]|accessdate=15 September 2011|quote=Heikki Kovalainen and Jarno Trulli will continue to drive for Team Lotus next season. Trulli was, as expected, officially announced as a 2012 driver by the team last weekend, while team boss Tony Fernandes confirmed to Autosport that Kovalainen will also be staying on.}}</ref>
+| 14
+|rowspan=2| {{flagicon|NED}} ''[[Giedo van der Garde]]''<ref>{{cite news|url=http://www.autosport.com/news/report.php/id/97315|title=Caterham signs Giedo van der Garde as reserve driver|date=4 February 2012|work=[[Autosport]]|publisher=[[Haymarket Group|Haymarket Publications]]|accessdate=4 February 2012}}</ref><br />{{flagicon|USA}} ''[[Alexander Rossi]]''<ref>{{cite news|url=http://www.caterhamf1.com/news/2012/alexander-rossi-confirmed-as-test-driver|title=Alexander Rossi confirmed as Caterham F1 Team Test Driver|date=9 March 2012|publisher=[[Caterham F1]]|accessdate=9 March 2012}}</ref><br />{{flagicon|VEN}} [[Rodolfo Gonzlez]]<ref>{{cite news|url=http://www.autosport.com/news/report.php/id/99135|title=Rodolfo Gonzalez to drive for Caterham at Mugello F1 test|date=24 April 2012|work=[[Autosport]]|publisher=[[Haymarket Group|Haymarket Publications]]|accessdate=11 May 2012}}</ref>
+|-
+| align="center"| 21
+| {{flagicon|RUS}} [[Vitaly Petrov]]<ref>{{cite news|url=http://caterhamf1.com/news/2012/vitaly-petrov-joins-caterham-f1-team|title=Vitaly Petrov Joins Caterham F1 Team|date=17 February 2012|publisher=[[Caterham F1]]|accessdate=17 February 2012}}</ref>
+| 14
+|-
+|rowspan=2| {{flagicon|ESP}} HRT F1 Team
+!rowspan=2| [[HRT F1|HRT]]
+|rowspan=2| [[HRT F112|F112]]
+|rowspan=2| [[Cosworth]] CA2012
+|rowspan=2 align="center"| {{Pirelli}}
+| align="center"| 22
+| {{flagicon|ESP}} [[Pedro de la Rosa]]<ref name="PDLR">{{cite news|url=http://www.autosport.com/news/report.php/id/96383|first=Matt|last=Beer|title=Pedro de la Rosa signs for HRT from 2012
+|work=[[Autosport]]|publisher=[[Haymarket Group|Haymarket Publications]]|date=21 November 2011|accessdate=21 November 2011}}</ref><ref name="HRT Drivers">{{cite news|title=Drivers|url=http://www.hrtf1team.com/en/equipo/pilotos/|work=hrtf1team.com|publisher=[[HRT F1|HRT F1 Team]]}}</ref>
+| 14
+|rowspan=2| {{flagicon|ESP}} ''[[Dani Clos]]''<ref name="Clos">{{cite news|url=http://hrtf1team.com/en/noticias/dani-clos-se-incorpora-al-hrt-f1-team-como-piloto-de-pruebas.html|title=Dani Clos joins HRT F1 Team as its new test driver for 2012|date=13 February 2012|publisher=[[HRT F1]]|accessdate=13 February 2012}}</ref> <br />{{flagicon|ITA}} [[Vitantonio Liuzzi]]<ref name="Liuzzi reserve">{{cite web|title=Drivers: Vitantonio Liuzzi|url=http://www.hrtf1team.com/en/equipo/pilotos/vitantonio-liuzzi.html|work=HRTF1Team.com|publisher=[[HRT F1 Team]]|accessdate=6 March 2012}}</ref>
+|-
+| align="center"| 23
+| {{flagicon|IND}} [[Narain Karthikeyan]]<ref name="HRT Drivers" /><ref name="Karthikeyan">{{cite news|url=http://hispaniaracing.com/news.php?nid=622|title=Narain Karthikeyan completes HRTs lineup for 2012|date=3 February 2012|publisher=[[HRT F1]]|accessdate=3 February 2012}}</ref>
+| 14
+|-
+|rowspan=2| {{flagicon|RUS}} Marussia F1 Team
+!rowspan=2| [[Marussia F1|Marussia]]
+|rowspan=2| [[Marussia MR01|MR01]]
+|rowspan=2| [[Cosworth]] CA2012
+|rowspan=2 align="center"| {{Pirelli}}
+| align="center"| 24
+| {{flagicon|DEU}} [[Timo Glock]]<ref>{{cite news|title=Timo Glock has re-signed with Virgin on a new three-year deal|url=http://www.autosport.com/news/report.php/id/93317|first=Simon|last=Strang|work=[[Autosport]]|publisher=[[Haymarket Group|Haymarket Publications]]|date=24 July 2011|accessdate=24 July 2011}}</ref>
+| 14
+|rowspan=2| {{flagicon|ESP}} [[Mara de Villota]]<ref>{{cite news|url=http://www.gpupdate.net/en/f1-news/275479/maria-de-villota-becomes-marussia-test-driver/|title=Mara de Villota becomes Marussia test driver|date=7 March 2012|publisher=GPUpdate.net|accessdate=7 March 2012}}</ref>
+|-
+| align="center"| 25
+| {{flagicon|FRA}} [[Charles Pic]]<ref name="Pic">{{cite news|url=http://www.marussiavirginracing.com/news/514/charles-pic-ked|title=Marussia Virgin Racing Completes 2012 Race Driver Line-up|date=27 November 2011|publisher=[[Virgin Racing]]|accessdate=27 November 2011}}</ref>
+| 14
+|}
+'''Catatan:'''
+* Pembalap yang dicetak miring adalah pembalap tes yang mengikuti sesi latihan bebas Jumat di beberapa Grand Prix.
+
+== Jadwal lomba ==
+{| class="wikitable" border="1" style="font-size: 85%"
+|-
+!rowspan="2"| Ronde
+!rowspan="2"| Nama lomba
+!rowspan="2"| Grand Prix
+!rowspan="2"| [[Daftar sirkuit Formula Satu|Sirkuit]]
+!rowspan="2"| Tanggal
+!colspan="2"| Waktu<ref>{{cite news|url=http://www.fia.com/en-GB/mediacentre/pressreleases/f1releases/2012/Pages/f1-race-info.aspx|work=fia.com|publisher=[[Fdration Internationale de l'Automobile]]|date=15 Februari 2012|accessdate=19 Februari 2012|title=Race Information & Event Starting Times}}</ref>
+|-
+! [[Zona waktu|Lokal]]
+! [[Zona waktu Indonesia|WIB]]
+|-
+! 1
+| Qantas Australian Grand Prix<ref>{{cite news|url=http://www.grandprix.com.au/news/agpc-announces-qantas-continue-title-rights-sponsor-2012-formula-1%E2%84%A2-qantas-australian-grand-pri|work=grandprix.com.au|publisher=[[Australian Grand Prix]]|date=23 Februari 2012|accessdate=25 Februari 2012|title=AGPC announces Qantas to continue as title rights sponsor for 2012 Formula 1 Qantas Australian Grand Prix}}</ref>
+| [[Grand Prix Australia|GP Australia]]
+| {{flagicon|Australia}} [[Sirkuit Grand Prix Melbourne|Albert Park]], [[Melbourne]]
+| 18 Maret
+| 17:00
+| 13:00
+|-
+! 2
+| Petronas Malaysia Grand Prix
+| [[Grand Prix Malaysia|GP Malaysia]]
+| {{flagicon|Malaysia}} [[Sirkuit Internasional Sepang]], [[Kuala Lumpur]]
+| 25 Maret
+| 16:00
+| 15:00
+|-
+! 3
+| UBS Chinese Grand Prix
+| [[Grand Prix Cina|GP Cina]]
+| {{flagicon|Republik Rakyat Tiongkok}} [[Sirkuit Internasional Shanghai]], [[Shanghai]]
+| 8 April
+| 15:00
+| 14:00
+|-
+! 4
+| Gulf Air Bahrain Grand Prix
+| [[Grand Prix Bahrain|GP Bahrain]]
+| {{flagicon|Bahrain}} [[Sirkuit Internasional Bahrain]], [[Sakhir]]
+| 22 April
+| 15:00
+| 19:00
+|-
+! 5
+| Gran Premio de Espaa Santander
+| [[Grand Prix Spanyol|GP Spanyol]]
+| {{flagicon|Spanyol}} [[Sirkuit Catalunya]], [[Barcelona]]
+| 13 Mei
+| 14:00
+| 19:00
+|-
+! 6
+| Grand Prix de Monaco
+| [[Grand Prix Monako|GP Monako]]
+| {{flagicon|Monako}} [[Sirkuit Monako]], [[Monte Carlo]]
+| 27 Mei
+| 14:00
+| 19:00
+|-
+! 7
+| Grand Prix du Canada
+| [[Grand Prix Kanada|GP Kanada]]
+| {{flagicon|Kanada}} [[Sirkuit Gilles Villeneuve]], [[Montreal]]
+| 10 Juni
+| 14:00
+| 01:00
+|-
+! 8
+| Grand Prix of Europe
+| [[Grand Prix Eropa|GP Eropa]]
+| {{flagicon|Spanyol}} [[Sirkuit Jalan Raya Valencia]], [[Valencia, Spain|Valencia]]
+| 24 Juni
+| 14:00
+| 19:00
+|-
+! 9
+| Santander British Grand Prix
+| [[Grand Prix Britania|GP Britania]]
+| {{flagicon|Britania Raya}} [[Sirkuit Silverstone]], [[Silverstone]] 
+| 8 Juli
+| 13:00
+| 19:00
+|-
+! 10
+| Groer Preis Santander von Deutschland
+| [[Grand Prix Jerman|GP Jerman]]
+| {{flagicon|Jerman}} [[Hockenheimring]], [[Hockenheim]]
+| 22 Juli
+| 14:00
+| 19:00
+|-
+! 11
+| Eni Magyar Nagydj
+| [[Grand Prix Hongaria|GP Hongaria]]
+| {{flagicon|Hongaria}} [[Hungaroring]], [[Budapest]]
+| 29 Juli
+| 14:00
+| 19:00
+|-
+! 12
+| Shell Belgian Grand Prix
+| [[Grand Prix Belgia|GP Belgia]]
+| {{flagicon|Belgia}} [[Sirkuit Spa-Francorchamps]], [[Spa, Belgia|Spa]]
+| 2 September
+| 14:00
+| 19:00
+|-
+! 13
+| Gran Premio Santander d'Italia
+| [[Grand Prix Italia|GP Italia]]
+| {{flagicon|Italia}} [[Autodromo Nazionale Monza]], [[Monza]]
+| 9 September
+| 14:00
+| 19:00
+|-
+! 14
+| SingTel Singapore Grand Prix
+| [[Grand Prix Singapura|GP Singapura]]
+| {{flagicon|Singapura}} [[Sirkuit Jalan Raya Marina Bay]], [[Teluk Marina|Marina Bay]]
+| 23 September
+| 20:00
+| 19:00
+|-
+! 15
+| Japanese Grand Prix
+| [[Grand Prix Jepang|GP Jepang]]
+| {{flagicon|Jepang}} [[Sirkuit Internasional Suzuka|Sirkuit Suzuka]], [[Suzuka, Mie|Suzuka]]
+| 7 Oktober
+| 15:00
+| 13:00
+|-
+! 16
+| Korean Grand Prix
+| [[Grand Prix Korea|GP Korea]]
+| {{flagicon|Korea Selatan}} [[Sirkuit Internasional Korea]], [[Yeongam]]
+| 14 Oktober
+| 15:00
+| 13:00
+|-
+! 17
+| Airtel Indian Grand Prix
+| [[Grand Prix India|GP India]]
+| {{flagicon|India}} [[Sirkuit Internasional Buddh]], [[Greater Noida]]
+| 28 Oktober
+| 15:00
+| 16:30
+|-
+! 18
+| Etihad Airways Abu Dhabi Grand Prix
+| [[Grand Prix Abu Dhabi|GP Abu Dhabi]]
+| {{flagicon|Uni Emirat Arab}} [[Sirkuit Yas Marina]], [[Abu Dhabi]]
+| 4 November
+| 17:00
+| 20:00
+|-
+! 19
+| United States Grand Prix
+| [[Grand Prix Amerika Serikat|GP Amerika Serikat]]
+| {{flagicon|Amerika Serikat}} [[Circuit of the Americas]], [[Austin, Texas|Austin]]
+| 18 November
+| 13:00
+| 02:00
+|-
+! 20
+| Grande Prmio do Brasil
+| [[Grand Prix Brasil|GP Brasil]]
+| {{flagicon|Brasil}} [[Autdromo Jos Carlos Pace]], [[So Paulo]]
+| 25 November
+| 14:00
+| 23:00
+|}
+
+== Laporan singkat balapan ==
+=== Ronde 1: Australia ===
+{{main|Grand Prix F1 Australia 2012}}
+Balapan pertama di musim 2012 yang tergelar di [[Sirkuit Albert Park]], Melbourne, Australia berjalan cukup menarik sejak start. Start dari grid 2, Button membuat start bagus dengan menyodok rekan setimnya di McLaren Mercedes, [[Lewis Hamilton]], yang menempati pole position. Dari sini Button tak terkejar. Juara dunia F1 2009 ini bahkan sempat memimpin 12 detik pada lap 24. Mirisnya, Hamilton kini diburu jagoan Red Bull Racing (RBR) Sebastian Vettel di posisi ke-3. Kejar-kejaran Hamilton dan Vettel berefek terpangkasnya jarak dengan Button jadi tinggal 9,5 detik pada lap 27. Tapi, ini tak lepas dari getaran yang mulai dirasakan Button pada MP4-27 miliknya.
+
+Pada lap ke-36 akhirnya Vettel menyalip Hamilton, tepat 1 lap sebelum safety car masuk lintasan akibat insiden mobil Caterham milik Vitaly Petrov. Button pun mulai cemas yang disampaikannya kepada timnya lewat radio. Tapi, Button ditenangkan oleh timnya yang menyebut kecepatan Vettel dengannya. Safety car masuk pit di lap 42, Button langsung menggeber mobilnya dan memimpin 3,8 detik pada lap 45. Pertarungan sengit terjadi antara Vettel yang terus ditempel Hamilton 0,7 detik.
+
+Namun, ini cuma terjadi hingga lap 53. Tiba-tiba MP4-27 Hamilton tak secepat sebelumnya yang bikin ia tercecer 1,8 detik Vettel. Vettel pun bisa fokus memburu Button. Sebaliknya, Hamilton mulai merasakan tekanan Mark Webber yang menguntit 0,7 detik di belakangnya. Sayangnya, usaha Vettel mengejar Button kandas. Button memastikan kemenangan dengan melintasi garis finis di Albert Park sebagai yang pertama seusai lap 58. Vettel harus puas di posisi ke-2 dan disusul Hamilton.
+
+=== Ronde 2: Malaysia ===
+[[Berkas:Fernando Alonso and Sergio Perez 2012 Malaysia.jpg|thumb|Fernando Alonso dibuntuti Sergio Perez di Malaysia.]]
+{{main|Grand Prix F1 Malaysia 2012}}
+Hujan deras yang mengguyur semua bagian Sirkuit Sepang, Malaysia pada tanggal 25 Maret 2012 memaksa balapan Formula 1 harus dihentikan oleh direktur balap. Bendera pun di kibarkan pada lap ke-9, setelah sebelumnya safety car diturunkan di lap ketujuh.
+
+Akibat kondisi hujan dan jalan yang licin tersebut, banyak pembalap yang melebar saat mengambil tikungan. Pembalap kawakan, Michael Schumacher ikut terkena imbasnya saat ia memasuki tikungan keempat. Mobilnya bersenggolan dengan Grosjean dan ia pun melintir dan akhirnya melorot ke posisi belakang.
+
+Rintik hujan yang mengawali perhelatan Formula 1 Sepang, Malaysia akhirnya berimbas pada dihentikannya balapan pada lap ke-9. Setelah ditunda karena hujan deras sampai sekitar 30 menit, pembalap asal Spanyol, [[Fernando Alonso]] pun berhasil menyelesaikan balapan di trek basah. Alonso sendiri berhasil mencatatkan total waktu dua jam 44 menit 51.812 detik dari total 56 lap. Tempat kedua di balapan ini berhasil diraih oleh pembalap Sauber, [[Sergio Perez]].
+
+=== Ronde 3: Cina ===
+{{main|Grand Prix F1 Cina 2012}}
+[[Nico Rosberg]] keluar sebagai pemenang dalam seri ke-3 di GP China yang berlangsung di [[Shanghai International Circuit]], Minggu, 15 April 2012. Rosberg mampu mengatasi tekanan dari duet McLaren, Jenson Button dan Lewis Hamilton. Rosberg mencatatkan waktu 1 jam 36 menit, 26.929 detik diikuti pembalap McLaren, Jenson Button yang berdiri di podium mencatatkan waktu 1 jam 36, 20.626 detik. Sedangkan, podium terakhir ditempati rekan satu timnya, Lewis Hamilton dengan selisih waktu 26,012 detik dari Button.
+
+Pembalap Mercedes GP, Nico Rosberg mengawali start dengan sempurna dalam balapan di GP China, Minggu 15 April 2012. Michael Schumacher yang tepat berada di belakangnya sanggup menjaga posisi hingga melewati tikungan pertama. Sementara, pembalap McLaren, Jenson Button yang mengawali balapan di posisi lima berhasil menyodok hingga peringkat tiga saat lampu hijau menyala. Memasuki lap sepuluh, susunan pembalap mulai berubah saat sebagian tim memasuki pit-stop.
+
+Diapit dua McLaren, Rosberg tetap tenang melindungi posisinya. Bahkan, dia berusaha mendahului Button. Rosberg kembali mengamankan tempatnya semula. Dia mengoptimalkan lamanya waktu Button saat di pit-stop di lap 39.
+
+Sang juara bertahan Sebastian Vettel yang sebelumnya tercecer di posisi luar lima besar, berhasil menembus peringkat tiga pada lap 43. Sejak menembus posisi tiga, Vettel terus memberikan tekanan kepada Raikkonen yang berada di depannya. Upaya Vettel mendahului Raikkonen akhirnya tercapai di lap 48. Vettel sukses menyalip seniornya itu saat memasuki tikungan. Baku salip antara Vettel dan Button menjadi klimaks dalam balapan ini. Pada lap 51, secara tidak terduga Button berhasil menyalip Vettel untuk memperebutkan posisi dua di hairpin Turn 14.
+
+Ironis buat Vettel, posisinya terus melorot jelang finis. Dia tidak mampu menjaga posisinya. Vettel terpaksa menyerahkan podium dua kepada Button dan posisi tiga dihuni Lewis Hamilton.
+
+=== Ronde 4: Bahrain ===
+[[Berkas:Sebastian Vettel Bahrain.jpg|125px|thumb|Juara dunia bertahan Sebastian Vettel harus menunggu sampai GP Bahrain untuk bisa menang.]]
+{{main|Grand Prix F1 Bahrain 2012}}
+Pembalap [[Red Bull Racing]] [[Sebastian Vettel]] meraih kemenangan pertamanya musim ini setelah finis terdepan di GP Bahrain setelah bertarung ketat dengan pembalap Lotus Renault [[Kimi Raikkonen]] sepanjang balapan, pembalap asal Jerman ini mampu membuktikan dirinya masih patut diperhitungkan untuk mempertahankan gelar juara dunia miliknya. Dengan start dari posisi terdepan, Vettel mampu tampil konsisten saat balapan. Kematangan Vettel juga terlihat pada lomba kali ini, meski ditekan terus oleh Raikkonen, namun dirinya berhasil finis dengan menyisakan gap 3 detik dari driver berkebangsaan Finlandia itu.
+
+Sementara itu, Lewis Hamilton dari McLaren yang start dari urutan kedua malah tak mencapai hasil maksimal dan harus menerima finis di posisi kedelapan. Begitu juga dengan rekan setim Hamilton, Jenson Button, start dari posisi keempat, pembalap asal Inggris ini malah menyelesaikan balapan jauh di urutan ke-18.
+
+Penampilan duo Lotus Renault patut diapresiasi. Raikkonen yang start dari urutan kesebelas malah menyodok terus ke depan sehingga mampu menjadi runner up balapn. Sedangkan rekan setim The Ice Man, [[Romain Grosjean]] berhasil menemani Raikkonen dengan menempati podium ketiga GP Bahrain.
+
+=== Ronde 5: Spanyol ===
+{{main|Grand Prix F1 Spanyol 2012}}
+[[Pastor Maldonado]] meraih kemenangan pertamanya pada ajang Formula Satu, dan membawa Williams ke posisi pertama di podium sejak 2004. Fernando Alonso, finis di peringkat kedua, dan Kimi Raikkonen dari Finlandia di peringkat ketiga, ketika Maldonado bisa mengisi posisi start terdepat (pole) karena Lewis Hamilton harus start dari posisi paling belakang.
+
+Hamilton sendiri mampu finis di peringkat kedelapan dengan selisih waktu lebih dari satu menit di belakang Maldonado, di saat Maldonado memenangi duel ketat dengan mantan pebalap Ferrari yang telah dua kali menjadi juara dunia, Alonso.
+
+Kemenangan Maldonado membuat Williams telah meraih 114 kemenangan secara keseluruhan, namun kemenangan terakhir Williams dilakukan pada [[Grand Prix F1 Brasil 2004|Grand Prix Brazil 2004]] yang dicetak oleh sesama pebalap Amerika Selatan, [[Juan Pablo Montoya]]. Duet Williams Renault juga kembali bisa berjaya setelah terakhir kali mereka menang pada [[Grand Prix F1 Luksemburg 1997|GP Luksemburg 1997]] melalui [[Jacques Villeneuve]].
+
+=== Ronde 6: Monako ===
+{{main|Grand Prix F1 Monako 2012}}
+[[Mark Webber]] berhasil menjuarai [[Grand Prix Monako]] untuk kedua kalinya setelah terakhir kali ia meraihnya di [[Grand Prix F1 Monako 2010|tahun 2010]]. Pembalap Red Bull Racing itu membuktikan bahwa ia masih memiliki kapasitas untuk bertarung dengan para kompetitornya. Webber membukukan waktu 1 jam 46 menit 06,577 detik. Keberhasilan Webber menyentuh garis finis di urutan pertama semakin memantapkan dominasi Red Bull di lintasan berbasis jalan raya ini. Dalam tiga musim beruntun, Red Bull selalu keluar sebagai juara balapan di sirkuit legendaris ini.
+
+Menyusul finis kedua adalah [[Nico Rosberg]] dan tempat ketiga diduduki [[Fernando Alonso]]. Rekan setim Webber, [[Sebastian Vettel]] hanya mampu finis keempat setelah sempat memimpin dan sempat juga terhalang [[Kimi Raikkonen]] di awal lomba.
+
+=== Ronde 7: Kanada ===
+{{main|Grand Prix F1 Kanada 2012}}
+[[Lewis Hamilton]] memenangi GP Kanada yang digelar Minggu, 10 Juni 2012. Pembalap McLaren itu juga membuat balapan F1 musim 2012 berhasil dimenangi oleh tujuh pembalap berbeda dalam tujuh seri pertama ini.
+
+Hamilton tampil dominan sejak awal. Pria berusia 28 tahun itu mencatatkan waktu 1 jam 32 menit 29.586 detik dalam melahap 70 putaran mengelilingi sirkuit di kota Montreal itu dan berhasil mengungguli pembalap Lotus, [[Romain Grosjean]], juga pembalap Sauber yang tampil mengejutkan [[Sergio Perez]] ditempat kedua dan ketiga, berkat strategi dua stop yang sempurna.
+
+Juara bertahan, [[Sebastian Vettel]], hanya mampu finis diperingkat empat 7,2 detik lebih lambat dari Hamilton. [[Fernando Alonso]] yang sempat tampil bagus harus puas berada diperingkat lima karena kondisi bannya amat parah pada putaran-putaran akhir balap membuatnya dengan mudah dibalap Perez dan Vettel.
+
+Dengan hasil ini, Hamilton menjadi mengambil alih pimpinan klasemen F1 dengan 88 poin, atau unggul dua poin dari Alonso, sementara Vettel berada di peringkat ketiga dengan selisih satu poin saja dari peringkat dua.
+
+=== Ronde 8: Eropa ===
+{{main|Grand Prix F1 Eropa 2012}}
+
+=== Ronde 9: Inggris ===
+{{main|Grand Prix F1 Inggris 2012}}
+
+=== Ronde 10: Jerman ===
+{{main|Grand Prix F1 Jerman 2012}}
+
+=== Ronde 11: Hongaria ===
+{{main|Grand Prix F1 Hongaria 2012}}
+
+=== Ronde 12: Belgia ===
+{{main|Grand Prix F1 Belgia 2012}}
+
+=== Ronde 13: Italia ===
+{{main|Grand Prix F1 Italia 2012}}
+
+=== Ronde 14: Singapura ===
+{{main|Grand Prix F1 Singapura 2012}}
+
+=== Ronde 15: Jepang ===
+{{main|Grand Prix F1 Jepang 2012}}
+
+=== Ronde 16: Korea Selatan ===
+{{main|Grand Prix F1 Korea Selatan 2012}}
+
+=== Ronde 17: India ===
+{{main|Grand Prix F1 India 2012}}
+
+=== Ronde 18: Abu Dhabi ===
+{{main|Grand Prix F1 Abu Dhabi 2012}}
+
+=== Ronde 19: AS ===
+{{main|Grand Prix F1 Amerika Serikat 2012}}
+
+=== Ronde 20: Brasil ===
+{{main|Grand Prix F1 Brasil 2012}}
+
+== Hasil dan klasemen ==
+=== Hasil lomba ===
+{| class="wikitable sortable" style="font-size:95%"
+! {{Tooltip|Rd.|Ronde}}
+! Grand Prix
+! [[Pole position]]
+! [[Lap tercepat]]
+! Pembalap pemenang
+! Kosntruktor pemenang
+!class="unsortable"| Laporan
+|-
+! 1
+| {{flagicon|AUS}} [[Grand Prix Australia]]
+| {{flagicon|GBR}} [[Lewis Hamilton]]
+| {{flagicon|GBR}} [[Jenson Button]]
+| {{flagicon|GBR}} [[Jenson Button]]
+| {{flagicon|GBR}} [[McLaren]]-[[Mercedes AMG High Performance Powertrains|Mercedes]]
+| [[Grand Prix F1 Australia 2012|Laporan]]
+|-
+! 2
+| {{flagicon|MYS}} [[Grand Prix Malaysia]]
+| {{flagicon|GBR}} [[Lewis Hamilton]]
+| {{flagicon|FIN}} [[Kimi Rikknen]]    
+| {{flagicon|ESP}} [[Fernando Alonso]]   
+| {{flagicon|ITA}} [[Scuderia Ferrari|Ferrari]]
+| [[Grand Prix F1 Malaysia 2012|Laporan]]
+|-
+! 3
+| {{flagicon|CHN}} [[Grand Prix Cina]]
+| {{flagicon|DEU}} [[Nico Rosberg]]
+| {{flagicon|JPN}} [[Kamui Kobayashi]]
+| {{flagicon|DEU}} [[Nico Rosberg]]
+| {{flagicon|DEU}} [[Mercedes Grand Prix|Mercedes]]
+| [[Grand Prix F1 Cina 2012|Laporan]]
+|-
+! 4
+| {{flagicon|BHR}} [[Grand Prix Bahrain]]
+| {{flagicon|DEU}} [[Sebastian Vettel]]
+| {{flagicon|DEU}} [[Sebastian Vettel]]
+| {{flagicon|DEU}} [[Sebastian Vettel]]
+| {{flagicon|AUT}} [[Red Bull Racing|Red Bull]]-[[Renault Sport F1|Renault]]
+| [[Grand Prix F1 Bahrain 2012|Laporan]]
+|-
+! 5
+| {{flagicon|ESP}} [[Grand Prix Spanyol]]
+| {{flagicon|VEN}} [[Pastor Maldonado]]{{refn|name=Maldonado Barcelona pole|group=N|[[Lewis Hamilton]] was excluded from pole position at the [[2012 Spanish Grand Prix|Spanish Grand Prix]] for a technical infringement and moved to the back of the grid.<ref name="HAM ESP EX"/> [[Pastor Maldonado]] was recognised as the pole-sitter for the race.<ref>{{cite news|title=Hamilton penalty hands Maldonado first pole position|url=http://www.f1fanatic.co.uk/2012/05/12/hamilton-penalty-hands-maldonado-pole-postion/|first=Keith|last=Collantine|work=F1 Fanatic|publisher=Keith Collantine|date=12 May 2012|accessdate=13 May 2012}}</ref>}}
+| {{flagicon|FRA}} [[Romain Grosjean]]
+| {{flagicon|VEN}} [[Pastor Maldonado]]
+| {{flagicon|GBR}} [[Williams F1|Williams]]-[[Renault in Formula One|Renault]]
+| [[Grand Prix F1 Spanyol 2012|Laporan]]
+|-
+! 6
+| {{flagicon|MON}} [[Grand Prix Monako]]
+| {{flagicon|AUS}} [[Mark Webber]]{{refn|name=Webber Monaco pole|group=N|[[Michael Schumacher]] recorded the fastest time in qualifying for the [[2012 Monaco Grand Prix|Monaco Grand Prix]], but started sixth after a five-place grid penalty from the previous race was applied.<ref name="MSC Penalty MON"/> [[Mark Webber]] was recognised as the pole-sitter for the race.<ref>{{cite news|title=Schumacher quickest, Webber on pole for the Monaco Grand Prix|url=http://www.autosport.com/news/report.php/id/99883|first=Matt|last=Beer|work=Autosport|publisher=[[Haymarket Media Group|Haymarket Publications]]|date=26 May 2012|accessdate=26 May 2012}}</ref>}}
+| {{flagicon|MEX}} [[Sergio Prez]]
+| {{flagicon|AUS}} [[Mark Webber]]
+| {{flagicon|AUT}} [[Red Bull Racing|Red Bull]]-[[Renault in Formula One|Renault]]
+| [[Grand Prix F1 Monako 2012|Laporan]]
+|-
+! 7
+| {{flagicon|CAN}} [[Grand Prix Kanada]]
+| {{flagicon|DEU}} [[Sebastian Vettel]]
+| {{flagicon|DEU}} [[Sebastian Vettel]]
+| {{flagicon|GBR}} [[Lewis Hamilton]]
+| {{flagicon|GBR}} [[McLaren]]-[[Mercedes-Benz HighPerformanceEngines|Mercedes]]
+| [[Grand Prix F1 Kanada 2012|Laporan]]
+|-
+! 8
+| {{flagicon|ESP}} [[Grand Prix Eropa]]
+| {{flagicon|DEU}} [[Sebastian Vettel]]
+| {{flagicon|DEU}} [[Nico Rosberg]]
+| {{flagicon|ESP}} [[Fernando Alonso]]   
+| {{flagicon|ITA}} [[Scuderia Ferrari|Ferrari]]
+| [[Grand Prix F1 Eropa 2012|Laporan]]
+|-
+! 9
+| {{flagicon|GBR}} [[Grand Prix Britania]]
+| {{flagicon|ESP}} [[Fernando Alonso]]
+| {{flagicon|FIN}} [[Kimi Rikknen]]
+| {{flagicon|AUS}} [[Mark Webber]]
+| {{flagicon|AUT}} [[Red Bull Racing|Red Bull]]-[[Renault in Formula One|Renault]]
+| [[Grand Prix F1 Inggris 2012|Laporan]]
+|-
+! 10
+| {{flagicon|DEU}} [[Grand Prix Jerman]]
+| {{flagicon|ESP}} [[Fernando Alonso]]
+| {{flagicon|DEU}} [[Michael Schumacher]]
+| {{flagicon|ESP}} [[Fernando Alonso]]   
+| {{flagicon|ITA}} [[Scuderia Ferrari|Ferrari]]
+| [[Grand Prix F1 Jerman 2012|Laporan]]
+|-
+! 11
+| {{flagicon|HUN}} [[Grand Prix Hongaria]]
+| {{flagicon|GBR}} [[Lewis Hamilton]]
+| {{flagicon|DEU}} [[Sebastian Vettel]]
+| {{flagicon|GBR}} [[Lewis Hamilton]]
+| {{flagicon|GBR}} [[McLaren]]-[[Mercedes-Benz HighPerformanceEngines|Mercedes]]
+| [[Grand Prix F1 Hongaria 2012|Laporan]]
+|-
+! 12
+| {{flagicon|BEL}} [[Grand Prix Belgia]]
+| {{flagicon|GBR}} [[Jenson Button]]
+| {{flagicon|BRA}} [[Bruno Senna]]
+| {{flagicon|GBR}} [[Jenson Button]]
+| {{flagicon|GBR}} [[McLaren]]-[[Mercedes-Benz HighPerformanceEngines|Mercedes]]
+| [[Grand Prix F1 Belgia 2012|Laporan]]
+|-
+! 13
+| {{flagicon|ITA}} [[Grand Prix Italia]]
+| {{flagicon|GBR}} [[Lewis Hamilton]]
+| {{flagicon|DEU}} [[Nico Rosberg]]
+| {{flagicon|GBR}} [[Lewis Hamilton]]
+| {{flagicon|GBR}} [[McLaren]]-[[Mercedes-Benz HighPerformanceEngines|Mercedes]]
+| [[Grand Prix F1 Italia 2012|Laporan]]
+|-
+! 14
+| {{flagicon|SIN}} [[Grand Prix Singapura]]
+| {{flagicon|GBR}} [[Lewis Hamilton]]
+| {{flagicon|DEU}} [[Nico Hlkenberg]]
+| {{flagicon|DEU}} [[Sebastian Vettel]]
+| {{flagicon|AUT}} [[Red Bull Racing|Red Bull]]-[[Renault in Formula One|Renault]]
+| [[Grand Prix F1 Singapura 2012|Laporan]]
+|-
+! 15
+| {{flagicon|JPN}} [[Grand Prix Jepang]]
+| {{flagicon|DEU}} [[Sebastian Vettel]]
+| {{flagicon|DEU}} [[Sebastian Vettel]]
+| {{flagicon|DEU}} [[Sebastian Vettel]]
+| {{flagicon|AUT}} [[Red Bull Racing|Red Bull]]-[[Renault in Formula One|Renault]]
+| [[Grand Prix F1 Jepang 2012|Laporan]]
+|-
+! 16
+| {{flagicon|KOR}} [[Grand Prix Korea]]
+| {{flagicon|AUS}} [[Mark Webber]]
+| {{flagicon|AUS}} [[Mark Webber]]
+| {{flagicon|DEU}} [[Sebastian Vettel]]
+| {{flagicon|AUT}} [[Red Bull Racing|Red Bull]]-[[Renault in Formula One|Renault]]
+| [[Grand Prix F1 Korea Selatan 2012|Laporan]]
+|-
+! 17
+| {{flagicon|IND}} [[Grand Prix India]]
+| {{flagicon|DEU}} [[Sebastian Vettel]]
+| {{flagicon|GBR}} [[Jenson Button]]
+| {{flagicon|DEU}} [[Sebastian Vettel]]
+| {{flagicon|AUT}} [[Red Bull Racing|Red Bull]]-[[Renault in Formula One|Renault]]
+| [[Grand Prix F1 India 2012|Laporan]]
+|-
+! 18
+| {{flagicon|UAE}} [[Grand Prix Abu Dhabi]]
+| {{flagicon|GBR}} [[Lewis Hamilton]]
+| {{flagicon|GER}} [[Sebastian Vettel]]
+| {{flagicon|FIN}} [[Kimi Rikknen]]
+| {{flagicon|GBR}} [[Lotus F1|Lotus]]-[[Renault in Formula One|Renault]]
+| [[Grand Prix F1 Abu Dhabi 2012|Laporan]]
+|-
+! 19
+| {{flagicon|USA}} [[Grand Prix Amerika Serikat]]
+| {{flagicon|DEU}} [[Sebastian Vettel]]
+| {{flagicon|DEU}} [[Sebastian Vettel]]
+| {{flagicon|GBR}} [[Lewis Hamilton]]
+| {{flagicon|GBR}} [[McLaren]]-[[Mercedes-Benz HighPerformanceEngines|Mercedes]]
+| [[Grand Prix F1 Amerika Serikat 2012|Laporan]]
+|-
+! 20
+| {{flagicon|BRA}} [[Grand Prix Brasil]]
+| {{flagicon|GBR}} [[Lewis Hamilton]]
+| {{flagicon|GBR}} [[Lewis Hamilton]]
+| {{flagicon|GBR}} [[Jenson Button]]
+| {{flagicon|GBR}} [[McLaren]]-[[Mercedes-Benz HighPerformanceEngines|Mercedes]]
+| [[Grand Prix F1 Brasil 2012|Laporan]]
+|-
+|}
+
+=== Klasemen lomba ===
+==== Pembalap ====
+Poin diberikan kepada 10 pembalap terdepan.
+
+{|class="wikitable" style="font-size:85%; text-align:center"
+!Posisi (ke-)
+|bgcolor="#ffffbf"|&nbsp;'''1'''&nbsp;
+|bgcolor="#dfdfdf"|&nbsp;'''2'''&nbsp;
+|bgcolor="#ffdf9f"|&nbsp;'''3'''&nbsp;
+|bgcolor="#dfffdf"|&nbsp;'''4'''&nbsp;
+|bgcolor="#dfffdf"|&nbsp;'''5'''&nbsp;
+|bgcolor="#dfffdf"|&nbsp;'''6'''&nbsp;
+|bgcolor="#dfffdf"|&nbsp;'''7'''&nbsp;
+|bgcolor="#dfffdf"|&nbsp;'''8'''&nbsp;
+|bgcolor="#dfffdf"|&nbsp;'''9'''&nbsp;
+|bgcolor="#dfffdf"|&nbsp;'''10'''&nbsp;
+|-
+!Poin
+|bgcolor="#ffffbf"|25
+|bgcolor="#dfdfdf"|18
+|bgcolor="#ffdf9f"|15
+|bgcolor="#dfffdf"|12
+|bgcolor="#dfffdf"|10
+|bgcolor="#dfffdf"|8
+|bgcolor="#dfffdf"|6
+|bgcolor="#dfffdf"|4
+|bgcolor="#dfffdf"|2
+|bgcolor="#dfffdf"|1
+|}
+
+{|
+|valign="top"|
+{| class="wikitable" style="font-size:85%; text-align:center;"
+|- valign="top"
+!valign="middle"| {{Tooltip|Pos.|Posisi}}
+!valign="middle"| Pembalap
+! [[Grand Prix F1 Australia 2012|AUS]]<br />{{flagicon|AUS}}
+! [[Grand Prix F1 Malaysia 2012|MAL]]<br />{{flagicon|MYS}}
+! [[Grand Prix F1 Cina 2012|CHN]]<br />{{flagicon|CHN}}
+! [[Grand Prix F1 Bahrain 2012|BHR]]<br />{{flagicon|BHR}}
+! [[Grand Prix F1 Spanyol 2012|ESP]]<br />{{flagicon|ESP}}
+! [[Grand Prix F1 Monako 2012|MON]]<br />{{flagicon|MON}}
+! [[Grand Prix F1 Kanada 2012|CAN]]<br />{{flagicon|CAN}}
+! [[Grand Prix F1 Eropa 2012|EUR]]<br />{{flagicon|ESP}}
+! [[Grand Prix F1 Inggris 2012|GBR]]<br />{{flagicon|GBR}}
+! [[Grand Prix F1 Jerman 2012|GER]]<br />{{flagicon|DEU}}
+! [[Grand Prix F1 Hongaria 2012|HUN]]<br />{{flagicon|HUN}}
+! [[Grand Prix F1 Belgia 2012|BEL]]<br />{{flagicon|BEL}}
+! [[Grand Prix F1 Italia 2012|ITA]]<br />{{flagicon|ITA}}
+! [[Grand Prix F1 Singapura 2012|SIN]]<br />{{flagicon|SIN}}
+! [[Grand Prix F1 Jepang 2012|JPN]]<br />{{flagicon|JPN}}
+! [[Grand Prix F1 Korea 2012|KOR]]<br />{{flagicon|KOR}}
+! [[Grand Prix F1 India 2012|IND]]<br />{{flagicon|IND}}
+! [[Grand Prix F1 Abu Dhabi 2012|ABU]]<br />{{flagicon|UAE}}
+! [[Grand Prix F1 Amerika Serikat 2012|USA]]<br />{{flagicon|USA}}
+! [[Grand Prix F1 Brasil 2012|BRA]]<br />{{flagicon|BRA}}
+!valign="middle"| [[Daftar sistem poin Kejuaraan Dunia Formula Satu|Poin]]
+|-
+! 1
+|align="left"| {{flagicon|DEU}} [[Sebastian Vettel]]
+|bgcolor="#dfdfdf"| 2
+|bgcolor="#cfcfff"| 11
+|bgcolor="#dfffdf"| 5
+|bgcolor="#ffffbf"| '''''1'''''
+|bgcolor="#dfffdf"| 6
+|bgcolor="#dfffdf"| 4
+|bgcolor="#dfffdf"| '''''4'''''
+|bgcolor="#efcfff"| '''Ret'''
+|bgcolor="#ffdf9f"| 3
+|bgcolor="#dfffdf"| 5
+|bgcolor="#dfffdf"| ''4''
+|bgcolor="#dfdfdf"| 2
+|bgcolor="#cfcfff"| 22
+|bgcolor="#ffffbf"| 1
+|bgcolor="#ffffbf"| '''''1'''''
+|bgcolor="#ffffbf"| 1
+|bgcolor="#ffffbf"| '''1'''
+|bgcolor="#ffdf9f"| ''3''
+|bgcolor="#dfdfdf"| '''''2'''''
+|bgcolor="#dfffdf"| 6
+!align="right"| 281
+|-
+! 2
+|align="left"| {{flagicon|ESP}} [[Fernando Alonso]]
+|bgcolor="#dfffdf"| 5
+|bgcolor="#ffffbf"| 1
+|bgcolor="#dfffdf"| 9
+|bgcolor="#dfffdf"| 7
+|bgcolor="#dfdfdf"| 2
+|bgcolor="#ffdf9f"| 3
+|bgcolor="#dfffdf"| 5
+|bgcolor="#ffffbf"| 1
+|bgcolor="#dfdfdf"| '''2'''
+|bgcolor="#ffffbf"| '''1'''
+|bgcolor="#dfffdf"| 5
+|bgcolor="#efcfff"| Ret
+|bgcolor="#ffdf9f"| 3
+|bgcolor="#ffdf9f"| 3
+|bgcolor="#efcfff"| Ret
+|bgcolor="#ffdf9f"| 3
+|bgcolor="#dfdfdf"| 2
+|bgcolor="#dfdfdf"| 2
+|bgcolor="#ffdf9f"| 3
+|bgcolor="#dfdfdf"| 2
+!align="right"| 278
+|-
+! 3
+|align="left"| {{flagicon|FIN}} [[Kimi Rikknen]]
+|bgcolor="#dfffdf"| 7
+|bgcolor="#dfffdf"| ''5''
+|bgcolor="#cfcfff"| 14
+|bgcolor="#dfdfdf"| 2
+|bgcolor="#ffdf9f"| 3
+|bgcolor="#dfffdf"| 9
+|bgcolor="#dfffdf"| 8
+|bgcolor="#dfdfdf"| 2
+|bgcolor="#dfffdf"| ''5''
+|bgcolor="#ffdf9f"| 3
+|bgcolor="#dfdfdf"| 2
+|bgcolor="#ffdf9f"| 3
+|bgcolor="#dfffdf"| 5
+|bgcolor="#dfffdf"| 6
+|bgcolor="#dfffdf"| 6
+|bgcolor="#dfffdf"| 5
+|bgcolor="#dfffdf"| 7
+|bgcolor="#ffffbf"| 1
+|bgcolor="#dfffdf"| 6
+|bgcolor="#dfffdf"| 10
+!align="right"| 207
+|-
+! 4
+|align="left"| {{flagicon|GBR}} [[Lewis Hamilton]]
+|bgcolor="#ffdf9f"| '''3'''
+|bgcolor="#ffdf9f"| '''3'''
+|bgcolor="#ffdf9f"| 3
+|bgcolor="#dfffdf"| 8
+|bgcolor="#dfffdf"| 8
+|bgcolor="#dfffdf"| 5
+|bgcolor="#ffffbf"| 1
+|bgcolor="#cfcfff"| 19
+|bgcolor="#dfffdf"| 8
+|bgcolor="#efcfff"| Ret
+|bgcolor="#ffffbf"| '''1'''
+|bgcolor="#efcfff"| Ret
+|bgcolor="#ffffbf"| '''1'''
+|bgcolor="#efcfff"| '''Ret'''                
+|bgcolor="#dfffdf"| 5
+|bgcolor="#dfffdf"| 10
+|bgcolor="#dfffdf"| 4
+|bgcolor="#efcfff"| '''Ret'''
+|bgcolor="#ffffbf"| 1
+|bgcolor="#efcfff"| '''''Ret'''''
+!align="right"| 190
+|-
+! 5
+|align="left"| {{flagicon|GBR}} [[Jenson Button]]
+|bgcolor="#ffffbf"| ''1''
+|bgcolor="#cfcfff"| 14
+|bgcolor="#dfdfdf"| 2
+|bgcolor="#cfcfff"| 18
+|bgcolor="#dfffdf"| 9
+|bgcolor="#cfcfff"| 16
+|bgcolor="#cfcfff"| 16
+|bgcolor="#dfffdf"| 8
+|bgcolor="#dfffdf"| 10
+|bgcolor="#dfdfdf"| 2
+|bgcolor="#dfffdf"| 6
+|bgcolor="#ffffbf"| '''1'''
+|bgcolor="#efcfff"| Ret
+|bgcolor="#dfdfdf"| 2
+|bgcolor="#dfffdf"| 4
+|bgcolor="#efcfff"| Ret
+|bgcolor="#dfffdf"| ''5''
+|bgcolor="#dfffdf"| 4
+|bgcolor="#dfffdf"| 5
+|bgcolor="#ffffbf"| 1
+!align="right"| 188
+|-
+! 6
+|align="left"| {{flagicon|AUS}} [[Mark Webber]]
+|bgcolor="#dfffdf"| 4
+|bgcolor="#dfffdf"| 4
+|bgcolor="#dfffdf"| 4
+|bgcolor="#dfffdf"| 4
+|bgcolor="#cfcfff"| 11
+|bgcolor="#ffffbf"| '''1'''
+|bgcolor="#dfffdf"| 7
+|bgcolor="#dfffdf"| 4
+|bgcolor="#ffffbf"| 1
+|bgcolor="#dfffdf"| 8
+|bgcolor="#dfffdf"| 8
+|bgcolor="#dfffdf"| 6
+|bgcolor="#cfcfff"| 20
+|bgcolor="#cfcfff"| 11
+|bgcolor="#dfffdf"| 9
+|bgcolor="#dfdfdf"| '''''2'''''
+|bgcolor="#ffdf9f"| 3
+|bgcolor="#efcfff"| Ret
+|bgcolor="#efcfff"| Ret
+|bgcolor="#dfffdf"| 4
+!align="right"| 179
+|-
+! 7
+|align="left"| {{flagicon|BRA}} [[Felipe Massa]]
+|bgcolor="#efcfff"| Ret
+|bgcolor="#cfcfff"| 15
+|bgcolor="#cfcfff"| 13
+|bgcolor="#dfffdf"| 9
+|bgcolor="#cfcfff"| 15
+|bgcolor="#dfffdf"| 6
+|bgcolor="#dfffdf"| 10
+|bgcolor="#cfcfff"| 16
+|bgcolor="#dfffdf"| 4
+|bgcolor="#cfcfff"| 12
+|bgcolor="#dfffdf"| 9
+|bgcolor="#dfffdf"| 5
+|bgcolor="#dfffdf"| 4
+|bgcolor="#dfffdf"| 8
+|bgcolor="#dfdfdf"| 2
+|bgcolor="#dfffdf"| 4
+|bgcolor="#dfffdf"| 6
+|bgcolor="#dfffdf"| 7
+|bgcolor="#dfffdf"| 4
+|bgcolor="#ffdf9f"| 3
+!align="right"| 122
+|-
+! 8
+|align="left"| {{flagicon|FRA}} [[Romain Grosjean]]
+|bgcolor="#efcfff"| Ret
+|bgcolor="#efcfff"| Ret
+|bgcolor="#dfffdf"| 6
+|bgcolor="#ffdf9f"| 3
+|bgcolor="#dfffdf"| ''4''
+|bgcolor="#efcfff"| Ret
+|bgcolor="#dfdfdf"| 2
+|bgcolor="#efcfff"| Ret
+|bgcolor="#dfffdf"| 6
+|bgcolor="#cfcfff"| 18
+|bgcolor="#ffdf9f"| 3
+|bgcolor="#efcfff"| Ret
+|<!-- Please do not put "EX" here - Grosjean is *banned* from the 2012 Italian GP, not *excluded* (which means something different) - current WP:F1 consensus is to leave this cell empty - see [[Template talk:F1 driver results legend 2#Race Ban?]] -->
+|bgcolor="#dfffdf"| 7
+|bgcolor="#cfcfff"| 19
+|bgcolor="#dfffdf"| 7
+|bgcolor="#dfffdf"| 9
+|bgcolor="#efcfff"| Ret
+|bgcolor="#dfffdf"| 7
+|bgcolor="#efcfff"| Ret
+!align="right"| 96
+|-
+! 9
+|align="left"| {{flagicon|DEU}} [[Nico Rosberg]]
+|bgcolor="#cfcfff"| 12
+|bgcolor="#cfcfff"| 13
+|bgcolor="#ffffbf"| '''1'''
+|bgcolor="#dfffdf"| 5
+|bgcolor="#dfffdf"| 7
+|bgcolor="#dfdfdf"| 2
+|bgcolor="#dfffdf"| 6
+|bgcolor="#dfffdf"| ''6''
+|bgcolor="#cfcfff"| 15
+|bgcolor="#dfffdf"| 10
+|bgcolor="#dfffdf"| 10
+|bgcolor="#cfcfff"| 11
+|bgcolor="#dfffdf"| ''7''
+|bgcolor="#dfffdf"| 5
+|bgcolor="#efcfff"| Ret
+|bgcolor="#efcfff"| Ret
+|bgcolor="#cfcfff"| 11
+|bgcolor="#efcfff"| Ret
+|bgcolor="#cfcfff"| 13
+|bgcolor="#cfcfff"| 15
+!align="right"| 93
+|-
+! 10
+|align="left"| {{flagicon|MEX}} [[Sergio Prez]]
+|bgcolor="#dfffdf"| 8
+|bgcolor="#dfdfdf"| 2
+|bgcolor="#cfcfff"| 11
+|bgcolor="#cfcfff"| 11
+|bgcolor="#efcfff"| Ret
+|bgcolor="#cfcfff"| ''11''
+|bgcolor="#ffdf9f"| 3
+|bgcolor="#dfffdf"| 9
+|bgcolor="#efcfff"| Ret
+|bgcolor="#dfffdf"| 6
+|bgcolor="#cfcfff"| 14
+|bgcolor="#efcfff"| Ret
+|bgcolor="#dfdfdf"| 2
+|bgcolor="#dfffdf"| 10
+|bgcolor="#efcfff"| Ret
+|bgcolor="#cfcfff"| 11
+|bgcolor="#efcfff"| Ret
+|bgcolor="#cfcfff"| 15
+|bgcolor="#cfcfff"| 11
+|bgcolor="#efcfff"| Ret
+!align="right"| 66
+|-
+! 11
+|align="left"| {{flagicon|DEU}} [[Nico Hlkenberg]]
+|bgcolor="#efcfff"| Ret
+|bgcolor="#dfffdf"| 9
+|bgcolor="#cfcfff"| 15
+|bgcolor="#cfcfff"| 12
+|bgcolor="#dfffdf"| 10
+|bgcolor="#dfffdf"| 8
+|bgcolor="#cfcfff"| 12
+|bgcolor="#dfffdf"| 5
+|bgcolor="#cfcfff"| 12
+|bgcolor="#dfffdf"| 9
+|bgcolor="#cfcfff"| 11
+|bgcolor="#dfffdf"| 4
+|bgcolor="#cfcfff"| 21
+|bgcolor="#cfcfff"| ''14''
+|bgcolor="#dfffdf"| 7
+|bgcolor="#dfffdf"| 6
+|bgcolor="#dfffdf"| 8
+|bgcolor="#efcfff"| Ret
+|bgcolor="#dfffdf"| 8
+|bgcolor="#dfffdf"| 5
+!align="right"| 63
+|-
+! 12
+|align="left"| {{flagicon|JPN}} [[Kamui Kobayashi]]
+|bgcolor="#dfffdf"| 6
+|bgcolor="#efcfff"| Ret
+|bgcolor="#dfffdf"| ''10''
+|bgcolor="#cfcfff"| 13
+|bgcolor="#dfffdf"| 5
+|bgcolor="#efcfff"| Ret
+|bgcolor="#dfffdf"| 9
+|bgcolor="#efcfff"| Ret
+|bgcolor="#cfcfff"| 11
+|bgcolor="#dfffdf"| 4
+|bgcolor="#cfcfff"| 18
+|bgcolor="#cfcfff"| 13
+|bgcolor="#dfffdf"| 9
+|bgcolor="#cfcfff"| 13
+|bgcolor="#ffdf9f"| 3
+|bgcolor="#efcfff"| Ret
+|bgcolor="#cfcfff"| 14
+|bgcolor="#dfffdf"| 6
+|bgcolor="#cfcfff"| 14
+|bgcolor="#dfffdf"| 9
+!align="right"| 60
+|-
+! 13
+|align="left"| {{flagicon|DEU}} [[Michael Schumacher]]
+|bgcolor="#efcfff"| Ret
+|bgcolor="#dfffdf"| 10
+|bgcolor="#efcfff"| Ret
+|bgcolor="#dfffdf"| 10
+|bgcolor="#efcfff"| Ret
+|bgcolor="#efcfff"| Ret
+|bgcolor="#efcfff"| Ret
+|bgcolor="#ffdf9f"| 3
+|bgcolor="#dfffdf"| 7
+|bgcolor="#dfffdf"| ''7''
+|bgcolor="#efcfff"| Ret
+|bgcolor="#dfffdf"| 7
+|bgcolor="#dfffdf"| 6
+|bgcolor="#efcfff"| Ret
+|bgcolor="#cfcfff"| 11
+|bgcolor="#cfcfff"| 13
+|bgcolor="#cfcfff"| 22
+|bgcolor="#cfcfff"| 11
+|bgcolor="#cfcfff"| 16
+|bgcolor="#dfffdf"| 7
+!align="right"| 49
+|-
+! 14
+|align="left"| {{flagicon|GBR}} [[Paul di Resta]]
+|bgcolor="#dfffdf"| 10
+|bgcolor="#dfffdf"| 7
+|bgcolor="#cfcfff"| 12
+|bgcolor="#dfffdf"| 6
+|bgcolor="#cfcfff"| 14
+|bgcolor="#dfffdf"| 7
+|bgcolor="#cfcfff"| 11
+|bgcolor="#dfffdf"| 7
+|bgcolor="#efcfff"| Ret
+|bgcolor="#cfcfff"| 11
+|bgcolor="#cfcfff"| 12
+|bgcolor="#dfffdf"| 10
+|bgcolor="#dfffdf"| 8
+|bgcolor="#dfffdf"| 4
+|bgcolor="#cfcfff"| 12
+|bgcolor="#cfcfff"| 12
+|bgcolor="#cfcfff"| 12
+|bgcolor="#dfffdf"| 9
+|bgcolor="#cfcfff"| 15
+|bgcolor="#cfcfff"| 19
+!align="right"| 46
+|-
+! 15
+|align="left"| {{flagicon|VEN}} [[Pastor Maldonado]]
+|bgcolor="#cfcfff"| 13
+|bgcolor="#cfcfff"| 19
+|bgcolor="#dfffdf"| 8
+|bgcolor="#efcfff"| Ret
+|bgcolor="#ffffbf"| '''1'''
+|bgcolor="#efcfff"| Ret
+|bgcolor="#cfcfff"| 13
+|bgcolor="#cfcfff"| 12
+|bgcolor="#cfcfff"| 16
+|bgcolor="#cfcfff"| 15
+|bgcolor="#cfcfff"| 13
+|bgcolor="#efcfff"| Ret
+|bgcolor="#cfcfff"| 11
+|bgcolor="#efcfff"| Ret
+|bgcolor="#dfffdf"| 8
+|bgcolor="#cfcfff"| 14
+|bgcolor="#cfcfff"| 16
+|bgcolor="#dfffdf"| 5
+|bgcolor="#dfffdf"| 9
+|bgcolor="#efcfff"| Ret
+!align="right"| 45
+|-
+! 16
+|align="left"| {{flagicon|BRA}} [[Bruno Senna]]
+|bgcolor="#cfcfff"| 16
+|bgcolor="#dfffdf"| 6
+|bgcolor="#dfffdf"| 7
+|bgcolor="#cfcfff"| 22
+|bgcolor="#efcfff"| Ret
+|bgcolor="#dfffdf"| 10
+|bgcolor="#cfcfff"| 17
+|bgcolor="#dfffdf"| 10
+|bgcolor="#dfffdf"| 9
+|bgcolor="#cfcfff"| 17
+|bgcolor="#dfffdf"| 7
+|bgcolor="#cfcfff"| ''12''
+|bgcolor="#dfffdf"| 10
+|bgcolor="#cfcfff"| 18
+|bgcolor="#cfcfff"| 14
+|bgcolor="#cfcfff"| 15
+|bgcolor="#dfffdf"| 10
+|bgcolor="#dfffdf"| 8
+|bgcolor="#dfffdf"| 10
+|bgcolor="#efcfff"| Ret
+!align="right"| 31
+|-
+! 17
+|align="left"| {{flagicon|FRA}} [[Jean-ric Vergne]]
+|bgcolor="#cfcfff"| 11
+|bgcolor="#dfffdf"| 8
+|bgcolor="#cfcfff"| 16
+|bgcolor="#cfcfff"| 14
+|bgcolor="#cfcfff"| 12
+|bgcolor="#cfcfff"| 12
+|bgcolor="#cfcfff"| 15
+|bgcolor="#efcfff"| Ret
+|bgcolor="#cfcfff"| 14
+|bgcolor="#cfcfff"| 14
+|bgcolor="#cfcfff"| 16
+|bgcolor="#dfffdf"| 8
+|bgcolor="#efcfff"| Ret
+|bgcolor="#efcfff"| Ret
+|bgcolor="#cfcfff"| 13
+|bgcolor="#dfffdf"| 8
+|bgcolor="#cfcfff"| 15
+|bgcolor="#cfcfff"| 12
+|bgcolor="#efcfff"| Ret
+|bgcolor="#dfffdf"| 8
+!align="right"| 16
+|-
+! 18
+|align="left"| {{flagicon|AUS}} [[Daniel Ricciardo]]
+|bgcolor="#dfffdf"| 9
+|bgcolor="#cfcfff"| 12
+|bgcolor="#cfcfff"| 17
+|bgcolor="#cfcfff"| 15
+|bgcolor="#cfcfff"| 13
+|bgcolor="#efcfff"| Ret
+|bgcolor="#cfcfff"| 14
+|bgcolor="#cfcfff"| 11
+|bgcolor="#cfcfff"| 13
+|bgcolor="#cfcfff"| 13
+|bgcolor="#cfcfff"| 15
+|bgcolor="#dfffdf"| 9
+|bgcolor="#cfcfff"| 12
+|bgcolor="#dfffdf"| 9
+|bgcolor="#dfffdf"| 10
+|bgcolor="#dfffdf"| 9
+|bgcolor="#cfcfff"| 13
+|bgcolor="#dfffdf"| 10
+|bgcolor="#cfcfff"| 12
+|bgcolor="#cfcfff"| 13
+!align="right"| 10
+|-
+! 19
+|align="left"| {{flagicon|RUS}} [[Vitaly Petrov]]
+|bgcolor="#efcfff"| Ret
+|bgcolor="#cfcfff"| 16
+|bgcolor="#cfcfff"| 18
+|bgcolor="#cfcfff"| 16
+|bgcolor="#cfcfff"| 17
+|bgcolor="#efcfff"| Ret
+|bgcolor="#cfcfff"| 19
+|bgcolor="#cfcfff"| 13
+|bgcolor="#ffffff"| DNS
+|bgcolor="#cfcfff"| 16
+|bgcolor="#cfcfff"| 19
+|bgcolor="#cfcfff"| 14
+|bgcolor="#cfcfff"| 15
+|bgcolor="#cfcfff"| 19
+|bgcolor="#cfcfff"| 17
+|bgcolor="#cfcfff"| 16
+|bgcolor="#cfcfff"| 17
+|bgcolor="#cfcfff"| 16
+|bgcolor="#cfcfff"| 17
+|bgcolor="#cfcfff"| 11
+!align="right"| 0
+|-
+! 20
+|align="left"| {{flagicon|DEU}} [[Timo Glock]]
+|bgcolor="#cfcfff"| 14
+|bgcolor="#cfcfff"| 17
+|bgcolor="#cfcfff"| 19
+|bgcolor="#cfcfff"| 19
+|bgcolor="#cfcfff"| 18
+|bgcolor="#cfcfff"| 14
+|bgcolor="#efcfff"| Ret
+|bgcolor="#ffffff"| DNS
+|bgcolor="#cfcfff"| 18
+|bgcolor="#cfcfff"| 22
+|bgcolor="#cfcfff"| 21
+|bgcolor="#cfcfff"| 15
+|bgcolor="#cfcfff"| 17
+|bgcolor="#cfcfff"| 12
+|bgcolor="#cfcfff"| 16
+|bgcolor="#cfcfff"| 18
+|bgcolor="#cfcfff"| 20
+|bgcolor="#cfcfff"| 14
+|bgcolor="#cfcfff"| 19
+|bgcolor="#cfcfff"| 16
+!align="right"| 0
+|-
+! 21
+|align="left"| {{flagicon|FRA}} [[Charles Pic]]
+|bgcolor="#cfcfff"| 15
+|bgcolor="#cfcfff"| 20
+|bgcolor="#cfcfff"| 20
+|bgcolor="#efcfff"| Ret
+|bgcolor="#efcfff"| Ret
+|bgcolor="#efcfff"| Ret
+|bgcolor="#cfcfff"| 20
+|bgcolor="#cfcfff"| 15
+|bgcolor="#cfcfff"| 19
+|bgcolor="#cfcfff"| 20
+|bgcolor="#cfcfff"| 20
+|bgcolor="#cfcfff"| 16
+|bgcolor="#cfcfff"| 16
+|bgcolor="#cfcfff"| 16
+|bgcolor="#efcfff"| Ret
+|bgcolor="#cfcfff"| 19
+|bgcolor="#cfcfff"| 19
+|bgcolor="#efcfff"| Ret
+|bgcolor="#cfcfff"| 20
+|bgcolor="#cfcfff"| 12
+!align="right"| 0
+|-
+! 22
+|align="left"| {{flagicon|FIN}} [[Heikki Kovalainen]]
+|bgcolor="#efcfff"| Ret
+|bgcolor="#cfcfff"| 18
+|bgcolor="#cfcfff"| 23
+|bgcolor="#cfcfff"| 17
+|bgcolor="#cfcfff"| 16
+|bgcolor="#cfcfff"| 13
+|bgcolor="#cfcfff"| 18
+|bgcolor="#cfcfff"| 14
+|bgcolor="#cfcfff"| 17
+|bgcolor="#cfcfff"| 19
+|bgcolor="#cfcfff"| 17
+|bgcolor="#cfcfff"| 17
+|bgcolor="#cfcfff"| 14
+|bgcolor="#cfcfff"| 15
+|bgcolor="#cfcfff"| 15
+|bgcolor="#cfcfff"| 17
+|bgcolor="#cfcfff"| 18
+|bgcolor="#cfcfff"| 13
+|bgcolor="#cfcfff"| 18
+|bgcolor="#cfcfff"| 14
+!align="right"| 0
+|-
+! 23
+|align="left"| {{flagicon|BEL}} [[Jrme d'Ambrosio]]
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|bgcolor="#cfcfff"| 13
+|
+|
+|
+|
+|
+|
+|
+!align="right"| 0
+|-
+! 24
+|align="left"| {{flagicon|IND}} [[Narain Karthikeyan]]
+|bgcolor="#FFCFCF"| DNQ
+|bgcolor="#cfcfff"| 22
+|bgcolor="#cfcfff"| 22
+|bgcolor="#cfcfff"| 21
+|bgcolor="#efcfff"| Ret
+|bgcolor="#cfcfff"| 15
+|bgcolor="#efcfff"| Ret
+|bgcolor="#cfcfff"| 18
+|bgcolor="#cfcfff"| 21
+|bgcolor="#cfcfff"| 23
+|bgcolor="#efcfff"| Ret
+|bgcolor="#efcfff"| Ret
+|bgcolor="#cfcfff"| 19
+|bgcolor="#efcfff"| Ret
+|bgcolor="#efcfff"| Ret
+|bgcolor="#cfcfff"| 20
+|bgcolor="#cfcfff"| 21
+|bgcolor="#efcfff"| Ret
+|bgcolor="#cfcfff"| 22
+|bgcolor="#cfcfff"| 18
+!align="right"| 0
+|-
+! 25
+|align="left"| {{flagicon|ESP}} [[Pedro de la Rosa]]
+|bgcolor="#FFCFCF"| DNQ
+|bgcolor="#cfcfff"| 21
+|bgcolor="#cfcfff"| 21
+|bgcolor="#cfcfff"| 20
+|bgcolor="#cfcfff"| 19
+|bgcolor="#efcfff"| Ret
+|bgcolor="#efcfff"| Ret
+|bgcolor="#cfcfff"| 17
+|bgcolor="#cfcfff"| 20
+|bgcolor="#cfcfff"| 21
+|bgcolor="#cfcfff"| 22
+|bgcolor="#cfcfff"| 18
+|bgcolor="#cfcfff"| 18
+|bgcolor="#cfcfff"| 17
+|bgcolor="#cfcfff"| 18
+|bgcolor="#efcfff"| Ret
+|bgcolor="#efcfff"| Ret
+|bgcolor="#cfcfff"| 17
+|bgcolor="#cfcfff"| 21
+|bgcolor="#cfcfff"| 17
+!align="right"| 0
+|-
+|- valign="top"
+!valign="middle"| {{Tooltip|Pos.|Posisi}}
+!valign="middle"| Pembalap
+! [[Grand Prix F1 Australia 2012|AUS]]<br />{{flagicon|AUS}}
+! [[Grand Prix F1 Malaysia 2012|MAL]]<br />{{flagicon|MYS}}
+! [[Grand Prix F1 Cina 2012|CHN]]<br />{{flagicon|CHN}}
+! [[Grand Prix F1 Bahrain 2012|BHR]]<br />{{flagicon|BHR}}
+! [[Grand Prix F1 Spanyol 2012|ESP]]<br />{{flagicon|ESP}}
+! [[Grand Prix F1 Monako 2012|MON]]<br />{{flagicon|MON}}
+! [[Grand Prix F1 Kanada 2012|CAN]]<br />{{flagicon|CAN}}
+! [[Grand Prix F1 Eropa 2012|EUR]]<br />{{flagicon|ESP}}
+! [[Grand Prix F1 Inggris 2012|GBR]]<br />{{flagicon|GBR}}
+! [[Grand Prix F1 Jerman 2012|GER]]<br />{{flagicon|DEU}}
+! [[Grand Prix F1 Hongaria 2012|HUN]]<br />{{flagicon|HUN}}
+! [[Grand Prix F1 Belgia 2012|BEL]]<br />{{flagicon|BEL}}
+! [[Grand Prix F1 Italia 2012|ITA]]<br />{{flagicon|ITA}}
+! [[Grand Prix F1 Singapura 2012|SIN]]<br />{{flagicon|SIN}}
+! [[Grand Prix F1 Jepang 2012|JPN]]<br />{{flagicon|JPN}}
+! [[Grand Prix F1 Korea 2012|KOR]]<br />{{flagicon|KOR}}
+! [[Grand Prix F1 India 2012|IND]]<br />{{flagicon|IND}}
+! [[Grand Prix F1 Abu Dhabi 2012|ABU]]<br />{{flagicon|UAE}}
+! [[Grand Prix F1 Amerika Serikat 2012|USA]]<br />{{flagicon|USA}}
+! [[Grand Prix F1 Brasil 2012|BRA]]<br />{{flagicon|BRA}}
+!valign="middle"| [[Daftar sistem poin Kejuaraan Dunia Formula Satu|Poin]]
+|}
+|valign="top"|
+{| style="margin-right:0; font-size:85%" class="wikitable"
+|+ Kunci
+|-
+! Warna !! Hasil
+|- bgcolor="#FFFFBF"
+| Emas || Pemenang
+|- bgcolor="#DFDFDF"
+| Perak || Posisi ke-2
+|- bgcolor="#FFDF9F"
+| Perunggu || Posisi ke-3
+|- bgcolor="#DFFFDF"
+| Hijau || Finish dengan poin
+|- bgcolor="#CFCFFF"
+| rowspan="2"| Biru
+| Finish tanpa poin
+|- bgcolor="#CFCFFF"
+| Tidak terklasifikasi (NC)
+|- bgcolor="#EFCFFF"
+| Ungu || Tidak finish (Ret)
+|- bgcolor="#FFCFCF"
+| rowspan="2"|Merah
+| Tidak lolos kualifikasi (DNQ)
+|- bgcolor="#FFCFCF"
+| Tidak lolos pra-kualifikasi (DNPQ)
+|- bgcolor="#000000" style="color:white"
+| Hitam || Didiskualifikasi (DSQ)
+|- bgcolor="#FFFFFF"
+| rowspan="2"| Putih
+|Tidak start (DNS)
+|- bgcolor="#FFFFFF"
+| Lomba dibatalkan (C)
+|- bgcolor="#F1F8FF"
+| rowspan="2"| Biru terang
+| Hanya latihan (PO)
+|-bgcolor="#F1F8FF"
+| Pembalap tes Jumat (TD)
+|-
+| rowspan="4" | Kosong
+| Tidak latihan (DNP)
+|-
+| Dikecualikan (EX)
+|-
+| Tidak datang (DNA)
+|-
+| Mengundurkan diri (WD)
+|-
+|}
+<span style="font-size: 85%">'''Cetak tebal'''  ''Pole''<br />
+''Cetak miring''  Lap tercepat </span>
+|}
+'''Catatan:'''
+*   Tidak finish sebuah grand prix, tetapi telah menuntaskan 90% dari keseluruhan GP.
+
+==== Konstruktor ====
+{|
+|valign="top"|
+{| class="wikitable" style="font-size: 85%; text-align:center;"
+|- valign="top"
+!valign="middle"| {{Tooltip|Pos.|Posisi}}
+!valign="middle"| Konstrukor
+!valign="middle"| {{Tooltip|No.|Nomor mobil}}
+! [[Grand Prix F1 Australia 2012|AUS]]<br />{{flagicon|AUS}}
+! [[Grand Prix F1 Malaysia 2012|MAL]]<br />{{flagicon|MYS}}
+! [[Grand Prix F1 Cina 2012|CHN]]<br />{{flagicon|CHN}}
+! [[Grand Prix F1 Bahrain 2012|BHR]]<br />{{flagicon|BHR}}
+! [[Grand Prix F1 Spanyol 2012|ESP]]<br />{{flagicon|ESP}}
+! [[Grand Prix F1 Monako 2012|MON]]<br />{{flagicon|MON}}
+! [[Grand Prix F1 Kanada 2012|CAN]]<br />{{flagicon|CAN}}
+! [[Grand Prix F1 Eropa 2012|EUR]]<br />{{flagicon|ESP}}
+! [[Grand Prix F1 Inggris 2012|GBR]]<br />{{flagicon|GBR}}
+! [[Grand Prix F1 Jerman 2012|GER]]<br />{{flagicon|DEU}}
+! [[Grand Prix F1 Hongaria 2012|HUN]]<br />{{flagicon|HUN}}
+! [[Grand Prix F1 Belgia 2012|BEL]]<br />{{flagicon|BEL}}
+! [[Grand Prix F1 Italia 2012|ITA]]<br />{{flagicon|ITA}}
+! [[Grand Prix F1 Singapura 2012|SIN]]<br />{{flagicon|SIN}}
+! [[Grand Prix F1 Jepang 2012|JPN]]<br />{{flagicon|JPN}}
+! [[Grand Prix F1 Korea 2012|KOR]]<br />{{flagicon|KOR}}
+! [[Grand Prix F1 India 2012|IND]]<br />{{flagicon|IND}}
+! [[Grand Prix F1 Abu Dhabi 2012|ABU]]<br />{{flagicon|UAE}}
+! [[Grand Prix F1 Amerika Serikat 2012|USA]]<br />{{flagicon|USA}}
+! [[Grand Prix F1 Brasil 2012|BRA]]<br />{{flagicon|BRA}}
+!valign="middle"| [[Daftar sistem poin Kejuaraan Dunia Formula Satu|Poin]]
+|- style="border-top:2px solid #aaaaaa"
+!rowspan="2" align="left"| 1
+|rowspan="2" align="left"| {{flagicon|AUT}} [[Red Bull Racing|Red Bull]]-[[Renault Sport F1|Renault]]
+| 1
+|bgcolor="#dfdfdf"| 2
+|bgcolor="#cfcfff"| 11
+|bgcolor="#dfffdf"| 5
+|bgcolor="#ffffbf"|  '''''1'''''
+|bgcolor="#dfffdf"| 6
+|bgcolor="#dfffdf"| 4
+|bgcolor="#dfffdf"| '''''4'''''
+|bgcolor="#efcfff"| '''Ret'''
+|bgcolor="#ffdf9f"| 3
+|bgcolor="#dfffdf"| 5
+|bgcolor="#dfffdf"| ''4''
+|bgcolor="#dfdfdf"| 2
+|bgcolor="#cfcfff"| 22
+|bgcolor="#ffffbf"| 1
+|bgcolor="#ffffbf"| '''''1'''''
+|bgcolor="#ffffbf"| 1
+|bgcolor="#ffffbf"| '''1'''
+|bgcolor="#ffdf9f"| ''3''
+|bgcolor="#dfdfdf"| '''''2'''''
+|bgcolor="#dfffdf"| 6
+!rowspan="2" align="right"| 460
+|-
+| 2
+|bgcolor="#dfffdf"| 4
+|bgcolor="#dfffdf"| 4
+|bgcolor="#dfffdf"| 4
+|bgcolor="#dfffdf"| 4
+|bgcolor="#cfcfff"| 11
+|bgcolor="#ffffbf"| '''1'''
+|bgcolor="#dfffdf"| 7
+|bgcolor="#dfffdf"| 4
+|bgcolor="#ffffbf"| 1
+|bgcolor="#dfffdf"| 8
+|bgcolor="#dfffdf"| 8
+|bgcolor="#dfffdf"| 6
+|bgcolor="#cfcfff"| 20
+|bgcolor="#cfcfff"| 11
+|bgcolor="#dfffdf"| 9
+|bgcolor="#dfdfdf"| '''''2'''''
+|bgcolor="#ffdf9f"| 3
+|bgcolor="#efcfff"| Ret
+|bgcolor="#efcfff"| Ret
+|bgcolor="#dfffdf"| 4
+|- style="border-top:2px solid #aaaaaa"
+!rowspan="2" align="left"| 2
+|rowspan="2" align="left"| {{flagicon|ITA}} [[Scuderia Ferrari|Ferrari]]
+| 5
+|bgcolor="#dfffdf"| 5
+|bgcolor="#ffffbf"| 1
+|bgcolor="#dfffdf"| 9
+|bgcolor="#dfffdf"| 7
+|bgcolor="#dfdfdf"| 2
+|bgcolor="#ffdf9f"| 3
+|bgcolor="#dfffdf"| 5
+|bgcolor="#ffffbf"| 1
+|bgcolor="#dfdfdf"| '''2'''
+|bgcolor="#ffffbf"| '''1'''
+|bgcolor="#dfffdf"| 5
+|bgcolor="#efcfff"| Ret
+|bgcolor="#ffdf9f"| 3
+|bgcolor="#ffdf9f"| 3
+|bgcolor="#efcfff"| Ret
+|bgcolor="#ffdf9f"| 3
+|bgcolor="#dfdfdf"| 2
+|bgcolor="#dfdfdf"| 2
+|bgcolor="#ffdf9f"| 3
+|bgcolor="#dfdfdf"| 2
+!rowspan="2" align="right"| 400
+|-
+| 6
+|bgcolor="#efcfff"| Ret
+|bgcolor="#cfcfff"| 15
+|bgcolor="#cfcfff"| 13
+|bgcolor="#dfffdf"| 9
+|bgcolor="#cfcfff"| 15
+|bgcolor="#dfffdf"| 6
+|bgcolor="#dfffdf"| 10
+|bgcolor="#cfcfff"| 16
+|bgcolor="#dfffdf"| 4
+|bgcolor="#cfcfff"| 12
+|bgcolor="#dfffdf"| 9
+|bgcolor="#dfffdf"| 5
+|bgcolor="#dfffdf"| 4
+|bgcolor="#dfffdf"| 8
+|bgcolor="#dfdfdf"| 2
+|bgcolor="#dfffdf"| 4
+|bgcolor="#dfffdf"| 6
+|bgcolor="#dfffdf"| 7
+|bgcolor="#dfffdf"| 4
+|bgcolor="#ffdf9f"| 3
+|- style="border-top:2px solid #aaaaaa"
+!rowspan="2" align="left"| 3
+|rowspan="2" align="left"| {{flagicon|GBR}} [[McLaren]]-[[Mercedes-Benz HighPerformanceEngines|Mercedes]]
+| 3
+|bgcolor="#ffffbf"| ''1''
+|bgcolor="#cfcfff"| 14
+|bgcolor="#dfdfdf"| 2
+|bgcolor="#cfcfff"| 18
+|bgcolor="#dfffdf"| 9
+|bgcolor="#cfcfff"| 16
+|bgcolor="#cfcfff"| 16
+|bgcolor="#dfffdf"| 8
+|bgcolor="#dfffdf"| 10
+|bgcolor="#dfdfdf"| 2
+|bgcolor="#dfffdf"| 6
+|bgcolor="#ffffbf"| '''1'''
+|bgcolor="#efcfff"| Ret
+|bgcolor="#dfdfdf"| 2
+|bgcolor="#dfffdf"| 4
+|bgcolor="#efcfff"| Ret
+|bgcolor="#dfffdf"| ''5''
+|bgcolor="#dfffdf"| 4
+|bgcolor="#dfffdf"| 5
+|bgcolor="#ffffbf"| 1
+!rowspan="2" align="right"| 378
+|-
+| 4
+|bgcolor="#ffdf9f"| '''3'''
+|bgcolor="#ffdf9f"| '''3'''
+|bgcolor="#ffdf9f"| 3
+|bgcolor="#dfffdf"| 8
+|bgcolor="#dfffdf"| 8
+|bgcolor="#dfffdf"| 5
+|bgcolor="#ffffbf"| 1
+|bgcolor="#cfcfff"| 19
+|bgcolor="#dfffdf"| 8
+|bgcolor="#efcfff"| Ret
+|bgcolor="#ffffbf"| '''1'''
+|bgcolor="#efcfff"| Ret
+|bgcolor="#ffffbf"| '''1'''
+|bgcolor="#efcfff"| '''Ret'''
+|bgcolor="#dfffdf"| 5
+|bgcolor="#dfffdf"| 10
+|bgcolor="#dfffdf"| 4
+|bgcolor="#efcfff"| '''Ret'''
+|bgcolor="#ffffbf"| 1
+|bgcolor="#efcfff"| '''''Ret'''''
+|- style="border-top:2px solid #aaaaaa"
+!rowspan="2" align="left"| 4
+|rowspan="2" align="left"| {{flagicon|GBR}} [[Lotus F1|Lotus]]-[[Renault Sport F1|Renault]]
+| 9
+|bgcolor="#dfffdf"| 7
+|bgcolor="#dfffdf"| ''5''
+|bgcolor="#cfcfff"| 14
+|bgcolor="#dfdfdf"| 2
+|bgcolor="#ffdf9f"| 3
+|bgcolor="#dfffdf"| 9
+|bgcolor="#dfffdf"| 8
+|bgcolor="#dfdfdf"| 2
+|bgcolor="#dfffdf"| ''5''
+|bgcolor="#ffdf9f"| 3
+|bgcolor="#dfdfdf"| 2
+|bgcolor="#ffdf9f"| 3
+|bgcolor="#dfffdf"| 5
+|bgcolor="#dfffdf"| 6
+|bgcolor="#dfffdf"| 6
+|bgcolor="#dfffdf"| 5
+|bgcolor="#dfffdf"| 7
+|bgcolor="#ffffbf"| 1
+|bgcolor="#dfffdf"| 6
+|bgcolor="#dfffdf"| 10
+!rowspan="2" align="right"| 303
+|-
+| 10
+|bgcolor="#efcfff"| Ret
+|bgcolor="#efcfff"| Ret
+|bgcolor="#dfffdf"| 6
+|bgcolor="#ffdf9f"| 3
+|bgcolor="#dfffdf"| ''4''
+|bgcolor="#efcfff"| Ret
+|bgcolor="#dfdfdf"| 2
+|bgcolor="#efcfff"| Ret
+|bgcolor="#dfffdf"| 6
+|bgcolor="#cfcfff"| 18
+|bgcolor="#ffdf9f"| 3
+|bgcolor="#efcfff"| Ret
+|bgcolor="#cfcfff"| 13
+|bgcolor="#dfffdf"| 7
+|bgcolor="#cfcfff"| 19
+|bgcolor="#dfffdf"| 7
+|bgcolor="#dfffdf"| 9
+|bgcolor="#efcfff"| Ret
+|bgcolor="#dfffdf"| 7
+|bgcolor="#efcfff"| Ret
+|- style="border-top:2px solid #aaaaaa"
+!rowspan="2" align="left"| 5
+|rowspan="2" align="left"| {{flagicon|DEU}} [[Mercedes-Benz in Formula One#Mercedes Grand Prix (20102011) and Mercedes AMG (2012)|Mercedes]]
+| 7
+|bgcolor="#efcfff"| Ret
+|bgcolor="#dfffdf"| 10
+|bgcolor="#efcfff"| Ret
+|bgcolor="#dfffdf"| 10
+|bgcolor="#efcfff"| Ret
+|bgcolor="#efcfff"| Ret
+|bgcolor="#efcfff"| Ret
+|bgcolor="#ffdf9f"| 3
+|bgcolor="#dfffdf"| 7
+|bgcolor="#dfffdf"| ''7''
+|bgcolor="#efcfff"| Ret
+|bgcolor="#dfffdf"| 7
+|bgcolor="#dfffdf"| 6
+|bgcolor="#efcfff"| Ret
+|bgcolor="#cfcfff"| 11
+|bgcolor="#cfcfff"| 13
+|bgcolor="#cfcfff"| 22
+|bgcolor="#cfcfff"| 11
+|bgcolor="#cfcfff"| 16
+|bgcolor="#dfffdf"| 7
+!rowspan="2" align="right"| 142
+|-
+| 8
+|bgcolor="#cfcfff"| 12
+|bgcolor="#cfcfff"| 13
+|bgcolor="#ffffbf"| '''1'''
+|bgcolor="#dfffdf"| 5
+|bgcolor="#dfffdf"| 7
+|bgcolor="#dfdfdf"| 2
+|bgcolor="#dfffdf"| 6
+|bgcolor="#dfffdf"| ''6''
+|bgcolor="#cfcfff"| 15
+|bgcolor="#dfffdf"| 10
+|bgcolor="#dfffdf"| 10
+|bgcolor="#cfcfff"| 11
+|bgcolor="#dfffdf"| ''7''
+|bgcolor="#dfffdf"| 5
+|bgcolor="#efcfff"| Ret
+|bgcolor="#efcfff"| Ret
+|bgcolor="#cfcfff"| 11
+|bgcolor="#efcfff"| Ret
+|bgcolor="#cfcfff"| 13
+|bgcolor="#cfcfff"| 15
+|- style="border-top:2px solid #aaaaaa"
+!rowspan="2" align="left"| 6
+|rowspan="2" align="left"| {{flagicon|CHE}} [[Sauber]]-[[Scuderia Ferrari|Ferrari]]
+| 14
+|bgcolor="#dfffdf"| 6
+|bgcolor="#efcfff"| Ret
+|bgcolor="#dfffdf"| ''10''
+|bgcolor="#cfcfff"| 13
+|bgcolor="#dfffdf"| 5
+|bgcolor="#efcfff"| Ret
+|bgcolor="#dfffdf"| 9
+|bgcolor="#efcfff"| Ret
+|bgcolor="#cfcfff"| 11
+|bgcolor="#dfffdf"| 4
+|bgcolor="#cfcfff"| 18
+|bgcolor="#cfcfff"| 13
+|bgcolor="#dfffdf"| 9
+|bgcolor="#cfcfff"| 13
+|bgcolor="#ffdf9f"| 3
+|bgcolor="#efcfff"| Ret
+|bgcolor="#cfcfff"| 14
+|bgcolor="#dfffdf"| 6
+|bgcolor="#cfcfff"| 14
+|bgcolor="#dfffdf"| 9
+!rowspan="2" align="right"| 126
+|-
+| 15
+|bgcolor="#dfffdf"| 8
+|bgcolor="#dfdfdf"| 2
+|bgcolor="#cfcfff"| 11
+|bgcolor="#cfcfff"| 11
+|bgcolor="#efcfff"| Ret
+|bgcolor="#cfcfff"| ''11''
+|bgcolor="#ffdf9f"| 3
+|bgcolor="#dfffdf"| 9
+|bgcolor="#efcfff"| Ret
+|bgcolor="#dfffdf"| 6
+|bgcolor="#cfcfff"| 14
+|bgcolor="#efcfff"| Ret
+|bgcolor="#dfdfdf"| 2
+|bgcolor="#dfffdf"| 10
+|bgcolor="#efcfff"| Ret
+|bgcolor="#cfcfff"| 11
+|bgcolor="#efcfff"| Ret
+|bgcolor="#cfcfff"| 15
+|bgcolor="#cfcfff"| 11
+|bgcolor="#efcfff"| Ret
+|- style="border-top:2px solid #aaaaaa"
+!rowspan="2" align="left"| 7
+|rowspan="2" align="left"| {{flagicon|IND}} [[Force India]]-[[Mercedes-Benz HighPerformanceEngines|Mercedes]]
+| 11
+|bgcolor="#dfffdf"| 10
+|bgcolor="#dfffdf"| 7
+|bgcolor="#cfcfff"| 12
+|bgcolor="#dfffdf"| 6
+|bgcolor="#cfcfff"| 14
+|bgcolor="#dfffdf"| 7
+|bgcolor="#cfcfff"| 11
+|bgcolor="#dfffdf"| 7
+|bgcolor="#efcfff"| Ret
+|bgcolor="#cfcfff"| 11
+|bgcolor="#cfcfff"| 12
+|bgcolor="#dfffdf"| 10
+|bgcolor="#dfffdf"| 8
+|bgcolor="#dfffdf"| 4
+|bgcolor="#cfcfff"| 12
+|bgcolor="#cfcfff"| 12
+|bgcolor="#cfcfff"| 12
+|bgcolor="#dfffdf"| 9
+|bgcolor="#cfcfff"| 15
+|bgcolor="#cfcfff"| 19
+!rowspan="2" align="right"| 109
+|-
+| 12
+|bgcolor="#efcfff"| Ret
+|bgcolor="#dfffdf"| 9
+|bgcolor="#cfcfff"| 15
+|bgcolor="#cfcfff"| 12
+|bgcolor="#dfffdf"| 10
+|bgcolor="#dfffdf"| 8
+|bgcolor="#cfcfff"| 12
+|bgcolor="#dfffdf"| 5
+|bgcolor="#cfcfff"| 12
+|bgcolor="#dfffdf"| 9
+|bgcolor="#cfcfff"| 11
+|bgcolor="#dfffdf"| 4
+|bgcolor="#cfcfff"| 21
+|bgcolor="#cfcfff"| ''14''
+|bgcolor="#dfffdf"| 7
+|bgcolor="#dfffdf"| 6
+|bgcolor="#dfffdf"| 8
+|bgcolor="#efcfff"| Ret
+|bgcolor="#dfffdf"| 8
+|bgcolor="#dfffdf"| 5
+|- style="border-top:2px solid #aaaaaa"
+!rowspan="2" align="left"| 8
+|rowspan="2" align="left"| {{flagicon|GBR}} [[WilliamsF1|Williams]]-[[Renault Sport F1|Renault]]
+| 18
+|bgcolor="#cfcfff"| 13
+|bgcolor="#cfcfff"| 19
+|bgcolor="#dfffdf"| 8
+|bgcolor="#efcfff"| Ret
+|bgcolor="#ffffbf"| '''1'''
+|bgcolor="#efcfff"| Ret
+|bgcolor="#cfcfff"| 13
+|bgcolor="#cfcfff"| 12
+|bgcolor="#cfcfff"| 16
+|bgcolor="#cfcfff"| 15
+|bgcolor="#cfcfff"| 13
+|bgcolor="#efcfff"| Ret
+|bgcolor="#cfcfff"| 11
+|bgcolor="#efcfff"| Ret
+|bgcolor="#dfffdf"| 8
+|bgcolor="#cfcfff"| 14
+|bgcolor="#cfcfff"| 16
+|bgcolor="#dfffdf"| 5
+|bgcolor="#dfffdf"| 9
+|bgcolor="#efcfff"| Ret
+!rowspan="2" align="right"| 76
+|-
+| 19
+|bgcolor="#cfcfff"| 16
+|bgcolor="#dfffdf"| 6
+|bgcolor="#dfffdf"| 7
+|bgcolor="#cfcfff"| 22
+|bgcolor="#efcfff"| Ret
+|bgcolor="#dfffdf"| 10
+|bgcolor="#cfcfff"| 17
+|bgcolor="#dfffdf"| 10
+|bgcolor="#dfffdf"| 9
+|bgcolor="#cfcfff"| 17
+|bgcolor="#dfffdf"| 7
+|bgcolor="#cfcfff"| ''12''
+|bgcolor="#dfffdf"| 10
+|bgcolor="#cfcfff"| 18
+|bgcolor="#cfcfff"| 14
+|bgcolor="#cfcfff"| 15
+|bgcolor="#dfffdf"| 10
+|bgcolor="#dfffdf"| 8
+|bgcolor="#dfffdf"| 10
+|bgcolor="#efcfff"| Ret
+|- style="border-top:2px solid #aaaaaa"
+!rowspan="2" align="left"| 9
+|rowspan="2" align="left"| {{flagicon|ITA}} [[Scuderia Toro Rosso|Toro Rosso]]-[[Scuderia Ferrari|Ferrari]]
+| 16
+|bgcolor="#dfffdf"| 9
+|bgcolor="#cfcfff"| 12
+|bgcolor="#cfcfff"| 17
+|bgcolor="#cfcfff"| 15
+|bgcolor="#cfcfff"| 13
+|bgcolor="#efcfff"| Ret
+|bgcolor="#cfcfff"| 14
+|bgcolor="#cfcfff"| 11
+|bgcolor="#cfcfff"| 13
+|bgcolor="#cfcfff"| 13
+|bgcolor="#cfcfff"| 15
+|bgcolor="#dfffdf"| 9
+|bgcolor="#cfcfff"| 12
+|bgcolor="#dfffdf"| 9
+|bgcolor="#dfffdf"| 10
+|bgcolor="#dfffdf"| 9
+|bgcolor="#cfcfff"| 13
+|bgcolor="#dfffdf"| 10
+|bgcolor="#cfcfff"| 12
+|bgcolor="#cfcfff"| 13
+!rowspan="2" align="right"| 26
+|-
+| 17
+|bgcolor="#cfcfff"| 11
+|bgcolor="#dfffdf"| 8
+|bgcolor="#cfcfff"| 16
+|bgcolor="#cfcfff"| 14
+|bgcolor="#cfcfff"| 12
+|bgcolor="#cfcfff"| 12
+|bgcolor="#cfcfff"| 15
+|bgcolor="#efcfff"| Ret
+|bgcolor="#cfcfff"| 14
+|bgcolor="#cfcfff"| 14
+|bgcolor="#cfcfff"| 16
+|bgcolor="#dfffdf"| 8
+|bgcolor="#efcfff"| Ret
+|bgcolor="#efcfff"| Ret
+|bgcolor="#cfcfff"| 13
+|bgcolor="#dfffdf"| 8
+|bgcolor="#cfcfff"| 15
+|bgcolor="#cfcfff"| 12
+|bgcolor="#efcfff"| Ret
+|bgcolor="#dfffdf"| 8
+|- style="border-top:2px solid #aaaaaa"
+!rowspan="2" align="left"| 10
+|rowspan="2" align="left"| {{flagicon|MYS}} [[Caterham F1|Caterham]]-[[Renault Sport F1|Renault]]
+| 20
+|bgcolor="#efcfff"| Ret
+|bgcolor="#cfcfff"| 18
+|bgcolor="#cfcfff"| 23
+|bgcolor="#cfcfff"| 17
+|bgcolor="#cfcfff"| 16
+|bgcolor="#cfcfff"| 13
+|bgcolor="#cfcfff"| 18
+|bgcolor="#cfcfff"| 14
+|bgcolor="#cfcfff"| 17
+|bgcolor="#cfcfff"| 19
+|bgcolor="#cfcfff"| 17
+|bgcolor="#cfcfff"| 17
+|bgcolor="#cfcfff"| 14
+|bgcolor="#cfcfff"| 15
+|bgcolor="#cfcfff"| 15
+|bgcolor="#cfcfff"| 17
+|bgcolor="#cfcfff"| 18
+|bgcolor="#cfcfff"| 13
+|bgcolor="#cfcfff"| 18
+|bgcolor="#cfcfff"| 14
+!rowspan="2" align="right"| 0
+|-
+| 21
+|bgcolor="#efcfff"| Ret
+|bgcolor="#cfcfff"| 16
+|bgcolor="#cfcfff"| 18
+|bgcolor="#cfcfff"| 16
+|bgcolor="#cfcfff"| 17
+|bgcolor="#efcfff"| Ret
+|bgcolor="#cfcfff"| 19
+|bgcolor="#cfcfff"| 13
+|bgcolor="#ffffff"| DNS
+|bgcolor="#cfcfff"| 16
+|bgcolor="#cfcfff"| 19
+|bgcolor="#cfcfff"| 14
+|bgcolor="#cfcfff"| 15
+|bgcolor="#cfcfff"| 19
+|bgcolor="#cfcfff"| 17
+|bgcolor="#cfcfff"| 16
+|bgcolor="#cfcfff"| 17
+|bgcolor="#cfcfff"| 16
+|bgcolor="#cfcfff"| 17
+|bgcolor="#cfcfff"| 11
+|- style="border-top:2px solid #aaaaaa"
+!rowspan="2" align="left"| 11
+|rowspan="2" align="left"| {{flagicon|RUS}} [[Marussia F1|Marussia]]-[[Cosworth]]
+| 24
+|bgcolor="#cfcfff"| 14
+|bgcolor="#cfcfff"| 17
+|bgcolor="#cfcfff"| 19
+|bgcolor="#cfcfff"| 19
+|bgcolor="#cfcfff"| 18
+|bgcolor="#cfcfff"| 14
+|bgcolor="#efcfff"| Ret
+|bgcolor="#ffffff"| DNS
+|bgcolor="#cfcfff"| 18
+|bgcolor="#cfcfff"| 22
+|bgcolor="#cfcfff"| 21
+|bgcolor="#cfcfff"| 15
+|bgcolor="#cfcfff"| 17
+|bgcolor="#cfcfff"| 12
+|bgcolor="#cfcfff"| 16
+|bgcolor="#cfcfff"| 18
+|bgcolor="#cfcfff"| 20
+|bgcolor="#cfcfff"| 14
+|bgcolor="#cfcfff"| 19
+|bgcolor="#cfcfff"| 16
+!rowspan="2" align="right"| 0
+|-
+| 25
+|bgcolor="#cfcfff"| 15
+|bgcolor="#cfcfff"| 20
+|bgcolor="#cfcfff"| 20
+|bgcolor="#efcfff"| Ret
+|bgcolor="#efcfff"| Ret
+|bgcolor="#efcfff"| Ret
+|bgcolor="#cfcfff"| 20
+|bgcolor="#cfcfff"| 15
+|bgcolor="#cfcfff"| 19
+|bgcolor="#cfcfff"| 20
+|bgcolor="#cfcfff"| 20
+|bgcolor="#cfcfff"| 16
+|bgcolor="#cfcfff"| 16
+|bgcolor="#cfcfff"| 16
+|bgcolor="#efcfff"| Ret
+|bgcolor="#cfcfff"| 19
+|bgcolor="#cfcfff"| 19
+|bgcolor="#efcfff"| Ret
+|bgcolor="#cfcfff"| 20
+|bgcolor="#cfcfff"| 12
+|- style="border-top:2px solid #aaaaaa"
+!rowspan="2" align="left"| 12
+|rowspan="2" align="left"| {{flagicon|ESP}} [[HRT F1|HRT]]-[[Cosworth]]
+| 22
+|bgcolor="#FFCFCF"| DNQ
+|bgcolor="#cfcfff"| 21
+|bgcolor="#cfcfff"| 21
+|bgcolor="#cfcfff"| 20
+|bgcolor="#cfcfff"| 19
+|bgcolor="#efcfff"| Ret
+|bgcolor="#efcfff"| Ret
+|bgcolor="#cfcfff"| 17
+|bgcolor="#cfcfff"| 20
+|bgcolor="#cfcfff"| 21
+|bgcolor="#cfcfff"| 22
+|bgcolor="#cfcfff"| 18
+|bgcolor="#cfcfff"| 18
+|bgcolor="#cfcfff"| 17
+|bgcolor="#cfcfff"| 18
+|bgcolor="#efcfff"| Ret
+|bgcolor="#efcfff"| Ret
+|bgcolor="#cfcfff"| 17
+|bgcolor="#cfcfff"| 21
+|bgcolor="#cfcfff"| 17
+!rowspan="2" align="right"| 0
+|-
+| 23
+|bgcolor="#FFCFCF"| DNQ
+|bgcolor="#cfcfff"| 22
+|bgcolor="#cfcfff"| 22
+|bgcolor="#cfcfff"| 21
+|bgcolor="#efcfff"| Ret
+|bgcolor="#cfcfff"| 15
+|bgcolor="#efcfff"| Ret
+|bgcolor="#cfcfff"| 18
+|bgcolor="#cfcfff"| 21
+|bgcolor="#cfcfff"| 23
+|bgcolor="#efcfff"| Ret
+|bgcolor="#efcfff"| Ret
+|bgcolor="#cfcfff"| 19
+|bgcolor="#efcfff"| Ret
+|bgcolor="#efcfff"| Ret
+|bgcolor="#cfcfff"| 20
+|bgcolor="#cfcfff"| 21
+|bgcolor="#efcfff"| Ret
+|bgcolor="#cfcfff"| 22
+|bgcolor="#cfcfff"| 18
+|- style="border-top:2px solid #aaaaaa"
+|- valign="top"
+!valign="middle"| {{Tooltip|Pos.|Posisi}}
+!valign="middle"| Konstrukor
+!valign="middle"| {{Tooltip|No.|Nomor mobil}}
+! [[Grand Prix F1 Australia 2012|AUS]]<br />{{flagicon|AUS}}
+! [[Grand Prix F1 Malaysia 2012|MAL]]<br />{{flagicon|MYS}}
+! [[Grand Prix F1 Cina 2012|CHN]]<br />{{flagicon|CHN}}
+! [[Grand Prix F1 Bahrain 2012|BHR]]<br />{{flagicon|BHR}}
+! [[Grand Prix F1 Spanyol 2012|ESP]]<br />{{flagicon|ESP}}
+! [[Grand Prix F1 Monako 2012|MON]]<br />{{flagicon|MON}}
+! [[Grand Prix F1 Kanada 2012|CAN]]<br />{{flagicon|CAN}}
+! [[Grand Prix F1 Eropa 2012|EUR]]<br />{{flagicon|ESP}}
+! [[Grand Prix F1 Inggris 2012|GBR]]<br />{{flagicon|GBR}}
+! [[Grand Prix F1 Jerman 2012|GER]]<br />{{flagicon|DEU}}
+! [[Grand Prix F1 Hongaria 2012|HUN]]<br />{{flagicon|HUN}}
+! [[Grand Prix F1 Belgia 2012|BEL]]<br />{{flagicon|BEL}}
+! [[Grand Prix F1 Italia 2012|ITA]]<br />{{flagicon|ITA}}
+! [[Grand Prix F1 Singapura 2012|SIN]]<br />{{flagicon|SIN}}
+! [[Grand Prix F1 Jepang 2012|JPN]]<br />{{flagicon|JPN}}
+! [[Grand Prix F1 Korea 2012|KOR]]<br />{{flagicon|KOR}}
+! [[Grand Prix F1 India 2012|IND]]<br />{{flagicon|IND}}
+! [[Grand Prix F1 Abu Dhabi 2012|ABU]]<br />{{flagicon|UAE}}
+! [[Grand Prix F1 Amerika Serikat 2012|USA]]<br />{{flagicon|USA}}
+! [[Grand Prix F1 Brasil 2012|BRA]]<br />{{flagicon|BRA}}
+!valign="middle"| [[Daftar sistem poin Kejuaraan Dunia Formula Satu|Poin]]
+|}
+|valign="top"|
+{| style="margin-right:0; font-size:85%" class="wikitable"
+|+ Kunci
+|-
+! Warna !! Hasil
+|- bgcolor="#FFFFBF"
+| Emas || Pemenang
+|- bgcolor="#DFDFDF"
+| Perak || Posisi ke-2
+|- bgcolor="#FFDF9F"
+| Perunggu || Posisi ke-3
+|- bgcolor="#DFFFDF"
+| Hijau || Finish dengan poin
+|- bgcolor="#CFCFFF"
+| rowspan="2"| Biru
+| Finish tanpa poin
+|- bgcolor="#CFCFFF"
+| Tidak terklasifikasi (NC)
+|- bgcolor="#EFCFFF"
+| Ungu || Tidak finish (Ret)
+|- bgcolor="#FFCFCF"
+| rowspan="2"|Merah
+| Tidak lolos kualifikasi (DNQ)
+|- bgcolor="#FFCFCF"
+| Tidak lolos pra-kualifikasi (DNPQ)
+|- bgcolor="#000000" style="color:white"
+| Hitam || Didiskualifikasi (DSQ)
+|- bgcolor="#FFFFFF"
+| rowspan="2"| Putih
+|Tidak start (DNS)
+|- bgcolor="#FFFFFF"
+| Lomba dibatalkan (C)
+|- bgcolor="#F1F8FF"
+| rowspan="2"| Biru terang
+| Hanya latihan (PO)
+|-bgcolor="#F1F8FF"
+| Pembalap tes Jumat
+|-
+| rowspan="4" | Kosong
+| Tidak latihan (DNP)
+|-
+| Dikecualikan (EX)
+|-
+| Tidak datang (DNA)
+|-
+| Mengundurkan diri (WD)
+|-
+|}
+<span style="font-size: 85%">'''Cetak tebal'''  ''Pole''<br />
+''Cetak miring''  Lap tercepat </span>
+|}
+'''Catatan:'''
+*   Tidak finish sebuah grand prix, tetapi telah menuntaskan 90% dari keseluruhan GP.
+
+== Referensi ==
+{{reflist|2}}
+
+== Pranala luar ==
+* [http://www.formula1.com Situs resmi Formula 1]
+{{Kejuaraan Formula Satu}}
+
+[[Kategori:Grand Prix F1 musim 2012]]
+[[Kategori:Musim Formula Satu|2012]]
+
+
+{{F1-stub}}

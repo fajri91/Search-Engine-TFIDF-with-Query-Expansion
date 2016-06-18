@@ -1,0 +1,26 @@
+Templat:Baraka, Enrekang
+{{Navigasi ID Desa 
+|provinsi=Sulawesi Selatan
+|dati2=Kabupaten
+|nama dati2=Enrekang
+|nama kecamatan=Baraka
+|k1=Balla
+|d1=Banti
+|k2=Baraka
+|d2=Bone-Bone
+|d3=Bontongan
+|d4=Janggurara
+|d5=Kadingeh
+|d6=Kendenan
+|d7=Pandung Batu
+|d8=Parinding
+|d9=Perangian
+|d10=Pepandungan
+|d11=Salu Kanan
+|d12=Tirowali
+|k3=Tominawa
+}}
+<noinclude>
+[[Kategori:Templat desa/kelurahan di Sulawesi Selatan|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Enrekang|{{PAGENAME}}]]
+</noinclude>

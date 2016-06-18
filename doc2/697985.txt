@@ -1,0 +1,251 @@
+Messier 81
+{{Galaxybox begin
+| name = [[Objek Messier|Messier]] 81<ref name="jensenetal2003">
+{{cite journal
+ | last=Jensen |first=Joseph B. |last2=Tonry |first2=John L. |last3=Barris |first3=Brian J. |last4=Thompson |first4=Rodger I. |last5=Liu |first5=Michael C. |last6=Rieke |first6=Marcia J. |last7=Ajhar |first7=Edward A. |last8=Blakeslee |first8=John P.
+ | year=2003
+ | title=Measuring Distances and Probing the Unresolved Stellar Populations of Galaxies Using Infrared Surface Brightness Fluctuations
+ | journal=[[Astrophysical Journal]]
+ | volume=583 | issue=2 | pages=712726
+ | bibcode=2003ApJ...583..712J
+ | doi=10.1086/345430
+ |arxiv=astro-ph/0210129
+}}</ref><ref name="karachentsevetal2006">
+{{cite journal
+ | first=I. D. |last=Karachentsev |first2=O. G. |last2=Kashibadze
+ | year=2006
+ | title=Masses of the local group and of the M81 group estimated from distortions in the local velocity field
+ | journal=[[Astrophysics (journal)|Astrophysics]]
+ | volume=49 | issue=1 | pages=318
+ | bibcode=2006Ap.....49....3K
+ | doi=10.1007/s10511-006-0002-6
+}}</ref>
+}}
+{{Galaxybox image
+| image = [[Image:Messier 81 HST.jpg|250px]]
+| caption = A [[Hubble Space Telescope]] (HST) image <br>of Messier 81
+}}
+{{Galaxybox observe
+|epoch = [[J2000]]
+|constell = [[Ursa Major]]<ref name="sinnott1988">
+{{cite book
+|first=J. L. E.|last=Dreyer|editor-first=R. W.|editor-last=Sinnott
+|title=The Complete New General Catalogue and Index Catalogue of Nebulae and Star Clusters 
+|year=1988
+|publisher=[[Sky Publishing Corporation]] / [[Cambridge University Press]]
+|isbn=0-933346-51-4
+}}</ref>
+|ra = {{RA|09|55|33.2}}<ref name="ned">
+{{cite web
+|title=NASA/IPAC Extragalactic Database
+|work=Results for NGC 3031
+|url=http://ned.ipac.caltech.edu/cgi-bin/objsearch?objname=m81&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES
+|accessdate=2006-11-10
+}}</ref>
+|dec = {{DEC|+69|3|55}}<ref name="ned" />
+|appdim_v = 26.9  14.1 [[Minute of arc|moa]]<ref name="ned" />
+|appmag_v = 6.94<ref name="SIMBAD-M81">
+{{cite web
+|title=SIMBAD-M81
+|publisher=SIMBAD Astronomical Database
+|url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=M81
+|accessdate=2009-11-28
+}}</ref><ref name=GAXEL>
+{{cite journal
+|last=Armando|first=Gil de Paz|last2=Boissier|first2=Samuel|last3=Madore|first3=Barry F.|last4=Seibert|first4=Mark|last5=Joe|first5=Young H.|last6=Boselli|first6=Alessandro|last7=Wyder|first7=Ted K.|last8=Thilker|first8=David|last9=Bianchi|first9=Luciana|last10=Rey|first10=Soo-Chang|last11=Rich|first11=R. Michael|last12=Barlow|first12=Tom A.|last13=Conrow|first13=Tim|last14=Forster|first14=Karl|last15=Friedman|first15=Peter G.|last16=Martin|first16=D. Christopher|last17=Morrissey|first17=Patrick|last18=Neff|first18=Susan G.|last19=Schiminovich|first19=David|last20=Small|first20=Todd|last21=Donas|first21=Jos|last22=Heckman|first22=Timothy M.|last23=Lee|first23=Young-Wook|last24=Milliard|first24=Bruno|last25=Szalay|first25=Alex S.|last26=Yi|first26=Sukyoung
+|year=2007
+|title=The GALEX Ultraviolet Atlas of Nearby Galaxies
+|journal=[[Astrophysical Journal]]
+|volume=173
+|issue=2|pages=185255
+|arxiv=astro-ph/0606440
+|doi=10.1086/516636
+|bibcode=2007ApJS..173..185G
+}}</ref>
+}}
+{{Galaxybox character
+| g_type = SA(s)ab,<ref name="ned" /> [[LINER]]<ref name="ned" />
+}}
+{{Galaxybox astrometry
+ | h_radial_v = 34
+ | hrv_err = 4<ref name="ned" />
+ | z = 0.000113
+ | z_err = 0.000013<ref name="ned" />
+ | gal_v = 73
+ | gv_err = 6<ref name="ned" />
+ | g_dist = 11.8
+ | dist_err = 0.4
+}}
+{{Galaxybox catalog
+| names = [[New General Catalogue|NGC]] 3031,<ref name="ned" /> [[Uppsala General Catalogue|UGC]] 5318,<ref name="ned" /> [[Principal Galaxies Catalogue|PGC]] 28630,<ref name="ned" /> Bode's Galaxy<ref name="simbad">
+{{cite web
+ | title=SIMBAD Astronomical Database
+ | work=Results for NGC 3031
+ | url=http://simbad.u-strasbg.fr/Simbad
+ | accessdate=2006-11-10
+}}</ref>
+}}
+{{Galaxybox end}}
+
+'''Messier 81''' atau '''M81''' dikenal juga dengan '''NGC 3031''' atau '''Galaksi Bode''' merupakan [[galaksi|galaksi spiral]] yang berjarak sekitar 12 miliar [[tahun cahaya]] dari bumi, yang berada pada [[rasi bintang]] [[Ursa Mayor]]. Karena jaraknya yang relatif dekat dengan [[Bumi]], ukurannya yang besar, serta [[inti galaksi aktif]] (yang memiliki [[lubang hitam supermasif]] dengan massa 70 juta [[massa matahari|M<sub></sub>]])<ref name="devereuxetal2003">
+{{cite journal
+ | first=N. |last=Devereux |first2=H. |last2=Ford |first3=Z. |last3=Tsvetanov |first4=J. |last4=Jocoby
+ | year=2003
+ | title=STIS Spectroscopy of the Central 10 Parsecs of M81: Evidence for a Massive Black Hole
+ | journal=[[Astronomical Journal]]
+ | volume=125
+ | issue=3 | pages=12261235
+ | bibcode=2003AJ....125.1226D
+ | doi=10.1086/367595
+}}</ref>, Messier 81 telah dipelajari secara ekstensif oleh para astronom profesional, serta menjadi target yang populer bagi astronom amatir.<ref name="omeara1998">
+{{cite book
+|first=S. J.|last=O'Meara
+|year=1998
+|title=The Messier Objects
+|publisher=[[Cambridge University Press]]
+|isbn=0-521-55332-6
+}}</ref>
+
+==Penemuan==
+Messier 81 ditemukan pertama kali oleh [[Johann Elert Bode]] pada tahun 1774.<ref name="jones1991">
+{{cite book
+|first=K. G.|last=Jones
+|year=1991|edition=2nd
+|title=Messier's Nebulae and Star Clusters
+|publisher=[[Cambridge University Press]]
+|isbn=0-521-37079-5
+}}</ref>  Akibatnya galaksi ini kadang disebut "Galaksi Bode". Pada tahun 1779, [[Pierre Mchain]] dan [[Charles Messier]] kembali mengidentifikasikan objek tersebut dan memasukkannya dalam [[Objek Messier|katalog]].<ref name="jones1991" />
+
+==Emisi debu==
+[[Image:Messier81 highres.jpg|thumb|left|Gambar [[inframerah]] dari Messier 81 yang diambil oleh [[Teleskop luar angkasa Spitzer]]. Warna biru mewakili emisi bintang yang diamati pada 3,6 m.<ref name="willneretal2004">
+{{cite journal
+ | first=S. P. |last=Willner |first2=M. L. N. |last2=Ashby |first3=P. |last3=Barmby |first4=G. G. |last4=Fazio |first5=M. |last5=Pahre |first6=H. A. |last6=Smith |first7=R. C. |last7=Kennicutt Jr. |first8=D. |last8=Calzetti |first9=D. A. |last9=Dale |first10=B. T. |last10=Draine |first11=M. W. |last11=Regan |first12=S. |last12=Malhotra |first13=M. D. |last13=Thornley |first14=P. N. |last14=Appleton |first15=D. |last15=Frayer |first16=G. |last16=Helou |first17=S. |last17=Stolovy |first18=L. |last18=Storrie-Lombardi
+ | year=2004
+ | title=Infrared Array Camera (IRAC) Observations of M81
+ | journal=[[Astrophysical Journal Supplement Series]]
+ | volume=154
+ | issue=1 | pages=222228
+ | bibcode=2004ApJS..154..222W
+ | doi=10.1086/422913
+ | arxiv=astro-ph/0405626
+}}</ref>   Warna hijau mewakili emisi yang diamati pada 8 m yang berasal terutama dari [[hidrokarbon aromatik polisiklik]] dalam [[medium antarbintang]].<ref name="willneretal2004"/> Warna merah mewakili emisi yang diamati pada 24 m yang berasal dari debu panas di medium antarbintang.<ref name="gordonetal2004">
+{{cite journal
+ | first=K. D. |last=Gordon |first2=P. G. |last2=Prez-Gonzlez |first3=K. A. |last3=Misselt |first4=E. J. |last4=Murphy|first5=G. J. |last5=Bendo |first6=F. |last6=Walter |first7=M. D. |last7=Thornley |first8=R. C. |last8=Kennicutt Jr. |first9=G. H. |last9=Rieke |first10=C. W. |last10=Engelbracht |first11=J.-D. T. |last11=Smith |first12=A. |last12=Alonso-Herrero |first13=P. N. |last13=Appleton |first14=D. |last14=Calzetti |first15=D. A. |last15=Dale |first16=B. T. |last16=Draine |first17=D. T. |last17=Frayer |first18=G. |last18=Helou |first19=J. L. |last19=Hinz |first20=D. C. |last20=Hines |first21=D. M. |last21=Kelly |first22=J. E. |last22=Morrison |first23=J. |last23=Muzerolle |first24=M. W. |last24=Regan |first25=J. A. |last25=Stansberry |first26=S. R. |last26=Stolovy |first27=L. J. |last27=Storrie-Lombardi |first28=K. Y. L. |last28=Su |first29=E. T. |last29=Young
+ | year=2004
+ | title=Spatially Resolved Ultraviolet, H, Infrared, and Radio Star Formation in M81
+ | journal=[[Astrophysical Journal Supplement Series]]
+ | volume=154
+ | issue=1 | pages=215221
+ | bibcode=2004ApJS..154..215G
+ | doi=10.1086/422714
+ | arxiv=astro-ph/0406064
+}}</ref>]]
+
+Sebagian besar dari emisi pada panjang gelombang [[inframerah]] berasal dari [[debu kosmik]].<ref name="gordonetal2004"/><ref name="perezgonzalezetal2006">
+{{cite journal
+ | first=P. G. |last=Prez-Gonzlez |first2=R. C. |last2=Kennicutt Jr. |first3=K. D. |last3=Gordon |first4=K. A. |last4=Misselt |first5=A. |last5=Gil De Paz |first6=C. W. |last6=Engelbracht |first7=G. H. |last7=Rieke |first8=G. J. |last8=Bendo |first9=L. |last9=Bianchi |first10=S. |last10=Boissier |first11=D. |last11=Calzetti |first12=D. A. |last12=Dale |first13=B. T. |last13=Draine |first14=T. H. |last14=Jarrett |first15=D. |last15=Hollenbach |first16=M. K. M. |last16=Prescott
+ | year=2006
+ | title=Ultraviolet through Far-Infrared Spatially Resolved Analysis of the Recent Star Formation in M81 (NGC 3031)
+ | journal=[[Astrophysical Journal]]
+ | volume=648
+ | issue=2 | pages=9871006
+ | bibcode=2006ApJ...648..987P
+ | doi=10.1086/506196
+ | arxiv=astro-ph/0605605
+}}</ref>  Debu kosmik ini ditemukan terutama di dalam lengan spiral galaksi, dan telah terbukti berhubungan dengan daerah pembentukan bintang.<ref name="gordonetal2004"/><ref name="perezgonzalezetal2006"/> 
+
+==Supernova==
+Hanya satu [[supernova]] yang telah terdeteksi di Messier 81.<ref name="nedsn">
+{{cite web
+ | title=NASA/IPAC Extragalactic Database
+ | work=Results for extended name search on NGC 3031
+ | url=http://nedwww.ipac.caltech.edu/
+ | accessdate=2007-02-27
+}}</ref>  Supernova yang dinamai [[SN 1993J]], ditemukan pada 28 Maret 1993 oleh F. Garcia in Spain.<ref name="iauc5731">
+{{cite journal
+ | first=J. |last=Ripero |first2=F. |last2=Garcia |first3=D. |last3=Rodriguez |first4=P. |last4=Pujol |first5=A. V. |last5=Filippenko |first6=R. R. |last6=Treffers |first7=Y. |last7=Paik |first8=M. |last8=Davis |first9=D. |last9=Schlegel |first10=F. D. A. |last10=Hartwick |first11=D. D. |last11=Balam |first12=D. |last12=Zurek |first13=R. M. |last13=Robb |first14=P. |last14=Garnavich |first15=B. A. |last15=Hong
+ | year=1993
+ | title=Supernova 1993J in NGC 3031
+ | journal=[[IAU Circular]]
+ | volume=5731 | pages=1
+ | bibcode=1993IAUC.5731....1R
+}}</ref> Pada saat itu, supernova tersebut merupakan supernova paling terang kedua yang di temukan pada abad ke-20.<ref name="schmidtetal1993">
+{{cite journal
+ | last=Schmidt |first=B.P. |last2=Kirshner |first2=R.P. |last3=Eastman |first3=R.G. |last4=Grashuis |first4=R. |last5=Dell'Antonio |first5=I. |last6=Caldwell |first6=N. |last7=Foltz |first7=C. |last8=Huchra |first8= |last9=Milone |first9= |year=1993
+ | title=The unusual supernova SN1993J in the galaxy M81
+ | journal=[[Nature (journal)|Nature]]
+ | volume=364
+ | issue=6438 | pages=600602
+ | bibcode=1993Natur.364..600S
+ | doi=10.1038/364600a0
+}}</ref> Karakteristik [[spektrum]] supernova tersebut berubah dari waktu ke waktu. Pada awalnya menyerupai supernova tipe II (supernova yang terbentuk dari ledakan bintang raksasa) yang memiliki emisi [[garis spektrum]] [[hidrogen]] yang kuat, namun kemudian garis spektrum hidrogen memudar dan muncul garis spektrum [[helium]] yang kuat, membuat supernova tersebut menyerupai supernova tipe IB.<ref name="schmidtetal1993" /><ref name="filippenkoetal1993">
+{{cite journal
+ | first=A. V. |last=Filippenko |first2=T. |last2=Matheson |first3=L. C. |last3=Ho
+ | year=1993
+ | title=The "Type IIb" Supernova 1993J in M81: A Close Relative of Type Ib Supernovae
+ | journal=[[Astrophysical Journal Letters]]
+ | volume=415 | pages=L103L106
+ | bibcode=1993ApJ...415L.103F
+ | doi=10.1086/187043
+}}</ref> Selain itu, variasi dalam luminositas SN 1993J dari waktu ke waktu tidak seperti variasi yang diamati pada supernova tipe II lainnya<ref name="bensonetal1994">
+{{cite journal
+ | first=P. J. |last=Benson |first2=W. |last2=Herbst |first3=J. J. |last3=Salzer |first4=G. |last4=Vinton |first5=G. J. |last5=Hanson |first6=S. J. |last6=Ratcliff |first7=P. F. |last7=Winkler |first8=D. M. |last8=Elmegreen |first9=F. |last9=Chromey |first10=C. |last10=Strom |first11=T. J. |last11=Balonek |first12=B. G. |last12=Elmegreen
+ | year=1994
+ | title=Light curves of SN 1993J from the Keck Northeast Astronomy Consortium
+ | journal=[[Astronomical Journal]]
+ | volume=107 | pages=14531460
+ | bibcode=1994AJ....107.1453B
+ | doi=10.1086/116958
+}}</ref><ref name="wheeleretal1993">
+{{cite journal
+ | first=J. C. |last=Wheeler |first2=E. |last2=Barker |first3=R. |last3=Benjamin |first4=J. |last4=Boisseau |first5=A. |last5=Clocchiatti |first6=G. |last6=De Vaucouleurs |first7=N. |last7=Gaffney |first8=R. P. |last8=Harkness |first9=A. M. |last9=Khokhlov |first10=D. F. |last10=Lester |first11=B. J. |last11=Smith |first12=V. V. |last12=Smith |first13=J. |last13=Tomkin
+ | year=1993
+ | title=Early Observations of SN 1993J in M81 at McDonald Observatory
+ | journal=[[Astrophysical Journal]]
+ | volume=417 | pages=L71L74
+ | bibcode=1993ApJ...417L..71W
+ | doi=10.1086/187097
+}}</ref>  tapi lebih menyerupai variasi yang diamati pada jenis supernova Ib.<ref name="richmondetal1994">
+{{cite journal
+ | first=M. W. |last=Richmond |first2=R. R. |last2=Treffers first3=A. V. |last3=Filippenko |first4=Y. |last4=Palik |first5=B. |last5=Leibundgut |first6=E. |last6=Schulman |first7=C. V. |last7=Cox
+ | year=1994
+ | title=UBVRI photometry of SN 1993J in M81: The first 120 days
+ | journal=[[Astronomical Journal]]
+ | volume=107 | pages=10221040
+ | bibcode=1994AJ....107.1022R
+ | doi=10.1086/116915
+}}</ref>  Oleh karena itu, supernova ini telah diklasifikasikan sebagai tipe IIb, kelas peralihan antara tipe II dan tipe Ib.<ref name="filippenkoetal1993" />  Hasil ilmiah dari supernova ini menunjukkan bahwa supernova jenis Ib dan Ic sebenarnya terbentuk melalui ledakan bintang raksasa melalui proses yang sama dengan yang terjadi pada supernova tipe II.<ref name="filippenkoetal1993" /><ref name="filippenkoetal1994">
+{{cite journal
+ | first=A. V. |last=Filippenko |first2=T. |last2=Matheson |first3=A. J. |last3=Barth
+ | year=1994
+ | title=The peculiar type II supernova 1993J in M81: Transition to the nebular phase
+ | journal=[[Astronomical Journal]]
+ | volume=108 | pages=22202225
+ | bibcode=1994AJ....108.2220F
+ | doi=10.1086/117234
+}}</ref>
+{{clear}}
+==Referensi==
+{{Reflist|2}}
+
+==Pranala luar==
+{{commons category|Messier 81}}
+* [http://blackholes.stardate.org/directory/factsheet.php?p=M81 '''StarDate''': M81 Fact Sheet]
+* [http://www.seds.org/messier/m/m081.html M81, SEDS Messier pages]
+* [http://www.spitzer.caltech.edu/Media/releases/ssc2003-06/ssc2003-06d.shtml SST: Messier 81]
+* [http://antwrp.gsfc.nasa.gov/apod/ap020620.html APOD: Bright Galaxy M81 (6/20/02)]
+* [http://www.nightskyinfo.com/archive/m81_m82_galaxies NightSkyInfo.com - M81, Bode's Galaxy]
+* {{WikiSky}}
+* [http://www.spacetelescope.org/images/archive/freesearch/m81/viewall/1 ESA/Hubble images of M81]
+* [http://ryutao.main.jp/english/st2k_m81_l.html Galaxy Messier 81 (Bode's Galaxy)]
+* [http://gallery.spitzer.caltech.edu/Imagegallery/image.php?image_name=ssc2003-06d Spitzer Image Gallery]
+* [http://www.helkit.com/astro/galaxy/m81-82.shtml Helkit Observatory]
+* [http://www.starpointing.com/ccd/m81group.html Deep image of the M81 Area]
+
+{{Sky|09|55|33.2|+|69|03|55|11800000}}
+{{Objek Messier}}
+
+[[Kategori:Objek Messier|081]]
+[[Kategori:Objek NGC]]
+[[Kategori:Objek UGC|05318]]
+[[Kategori:Objek PGC|28630]]

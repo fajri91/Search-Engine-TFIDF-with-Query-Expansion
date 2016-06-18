@@ -1,0 +1,923 @@
+Plutonium
+{{Kotak info plutonium}}
+
+{{unsur|Plutonium|Pu|94}} Ia merupakan unsur [[radioaktif]] [[transuranium]] yang langka dan merupakan logam [[aktinida]] dengan penampilan berwarna putih keperakan. Ketika terpapar dengan udara, ia akan mengusam oleh karena pembentukan [[plutonium(IV) oksida]] yang menutupi permukaan logam. Unsur ini pada dasarnya memiliki enam [[alotrop]] dan empat [[keadaan oksidasi]]. Ia bereaksi dengan [[karbon]], [[halogen]], [[nitrogen]], dan [[silikon]]. Ketika terpapar dengan kelembaban udara, ia akan membentuk [[oksida]] dan [[hidrida]] dengan volume 70% lebih besar dan menjadi bubuk yang dapat menyala secara spontan. Ia juga merupakan [[keracunan radiasi|racun radiologis]] yang dapat berakumulasi dalam [[sumsum tulang]]. Oleh karena sifat-sifat seperti inilah, proses penanganan plutonium cukup berbahaya, walaupun tingkat toksisitas keseluruhan logam ini kadang-kadang terlalu dibesar-besarkan.
+
+Istotop terpenting '''plutonium''' adalah [[plutonium-239]] yang memiliki [[umur paruh]] 24.100&nbsp;tahun. Plutonium-239 merupakan [[fisil]], yakni ia dapat [[fisi nuklir|memecah]] ketika dibombardir oleh [[neutron]] termal, melepaskan energi, [[radiasi gamma]], dan [[radiasi neutron|neutron yang lebih banyak]]. Oleh karena itu, dia dapat mempertahankan [[reaksi rantai nuklir]] setelah mencapai [[massa kritis]]. Sifat-sifat inilah yang memungkinkan plutonium digunakan sebagai [[senjata nuklir]] dan digunakan pada beberapa [[reaktor nuklir]]. Isotop paling stabil plutonium adalah plutonium-244, dengan umur paruh sekitar 80&nbsp;juta tahun. Umur paruh ini cukup panjang untuk bisa ditemukan secara alami dalam jumlah kecil. Plutonium-238 memiliki umur paruh 88 tahun dan memancarkan [[partikel alfa]]. Ia adalah sumber panas pada [[generator termolistrik radioisotop]] (digunakan pada beberapa [[pesawat antariksa]]). Plutonium-240 memiliki laju [[fisi spontan]] yang tinggi sehingga akan meningkatkan tingkat neutron latar pada sampel. Keberadaan Pu-240 akan membatasi potensi daya dan senjata suatu sampel. Ia juga digunakan sebagai titik tolok penentuan tingkat (''grade'') plutonium: tingkat senjata (<&nbsp;7%), tingkat bahan bakar (719%), dan tingkat reaktor (>&nbsp;19%). Pu-238 dapat disintesis dengan membombardir [[uranium-238]] dengan [[deuteron]], sedangkan Pu-239 dengan disintesis dengan membombardir [[uranium-238]] dengan [[neutron]].
+
+Unsur 94 pertama kali disintesis oleh sekelompok ilmuwan yang dipimpin oleh [[Glenn T. Seaborg]] dan [[Edwin McMillan]] di [[Universitas California, Berkeley]] pada tahun 1940. McMillan kemudian menamai unsur baru tersebut plutonium (atas nama [[Pluto]]). Penemuan plutonium kemudian menjadi bagian penting dalam [[Proyek Manhattan]] untuk mengembangkan bom atom selama [[Perang Dunia II]]. [[Uji nuklir]] pertama, "[[Trinity]]" (Juli 1945), dan bom atom kedua ("[[Fat Man]]") yang digunakan untuk menghancurkan kota [[Nagasaki]] (Agustus 1945) memiliki inti Pu-239.
+
+== Karakteristik ==
+=== Fisik ===
+Sama seperti logam-logam lainnya, plutonium memiliki penampilan perak mengkilat. Namun ketika terpapar dengan udara bebas, [[plutonium(IV) oksida]] akan terbentuk dengan cepat dan membuat logam tersebut menjadi kusam kelabu. Selain itu warna kuning dan hijau zaitun juga pernah dilaporkan.<ref name = "WISER">
+{{cite web
+ | url = http://webwiser.nlm.nih.gov/getSubstanceData.do;jsessionid=89B673C34252C77B4C276F2B2D0E4260?substanceID=419&displaySubstanceName=Plutonium,%20Radioactive&UNNAID=&STCCID=&selectedDataMenuItemID=44
+ | author = NIH contributors
+ | publisher = U.S. National Library of Medicine, National Institutes of Health
+ | location = Bethesda (MD)
+ | title = Plutonium, Radioactive
+ | work = Wireless Information System for Emergency Responders (WISER)
+ | accessdate = 2008-11-23
+}} (public domain text)</ref><ref>
+{{cite journal
+ | title = Nitric acid processing
+ | url = http://arq.lanl.gov/source/orgs/nmt/nmtdo/AQarchive/3rdQuarter08/page3.shtml
+ | journal = Actinide Research Quarterly
+ | author = ARQ staff
+ | year = 2008
+ | issue = 3rd quarter
+ | publisher = Los Alamos National Laboratory
+ | location = Los Alamos (NM)
+ | quote =While plutonium dioxide is normally olive green, samples can be various colors. It is generally believed that the color is a function of chemical purity, stoichiometry, particle size, and method of preparation, although the color resulting from a given preparation method is not always reproducible.
+ | accessdate =2009-02-15}}</ref> Pada suhu kamar, plutonium berada dalam bentuk [[alotrop plutonium|alotop alfanya]]. Bentuk alotrop inilah yang merupakan bentuk yang paling umum dan memiliki tingkat kekerasan seperti [[besi cor]], terkecuali apabila ia dialoi dengan logam lainnya dan membuatnya menjadi lunak dan dapat dengan mudah diubah bentuk.<ref name = "WISER"/> Berbeda dengan kebanyakan jenis logam, plutonium bukanlah konduktor panas dan listrik yang baik.<ref name = "WISER"/> Ia memiliki [[titik leleh]] yang rendah (640&nbsp;C) dan [[titik didih]] yang sangat tinggi (3,327&nbsp;C).<ref name = "WISER"/>
+
+[[Peluruhan alfa|Emisi partikel alfa]] yang merupakan pelepasan inti [[helium]] berenergi tinggi adalah bentuk radiasi paling umum yang dipancarkan oleh plutonium.<ref name = "NNDC"/> Panas yang dilepaskan selama pelepasan dan deselerasi partikel-partikel alfa ini membuat plutonium dengan ukuran sebesar bola [[sofbol]] terasa hangat ketika disentuh, sedangkan untuk massa plutonium yang lebih besar, ia dapat mendidihkan satu [[liter]] air dalam waktu beberapa menit (bervariasi tergantung pada komposisi isotop).<ref name = "Heiserman1992"/><ref>
+{{cite book
+|last = Rhodes|first = Richard
+|year = 1986
+|title = The Making of the Atomic Bomb
+|isbn = 0-671-65719-4
+|pages = 659660
+|publisher = Simon & Schuster
+|location = New York
+}} Leona Marshall: "When you hold a lump of it in your hand, it feels warm, like a live rabbit"</ref>
+
+[[Resistivitas]] plutonium pada suhu kamar sangatlah tinggi jika dibandingkan dengan logam lain dan ia akan semakin tinggi ketika temperatur diturunkan.<ref name = "Miner1968p544"/> Tren peningkatan resistivitas ini akan diteruskan sampai dengan 100&nbsp;[[Kelvin|K]]. Di bawah temperatur ini, resistivitas akan menurun drastis.<ref name = "Miner1968p544"/> Ketika temperatur menurun sampai dengan 20 K, resistivitas meningkat kembali oleh karena kerusakan radiasi (laju peningkatan sesuai dengan komposisi isotop).<ref name = "Miner1968p544"/>
+
+Oleh karena swa-iradiasi (''self-irradiation'') plutonium, ia akan memperlihatkan kelelahan (''fatigue'') pada keseluruhan struktur kristalnya, yang berarti bahwa penataan atom pada kristal akan dikacaukan oleh radiasi tersebut dari waktu ke waktu.<ref name = "HeckerPlutonium" /> Namun, swa-iradiasi juga dapat mengakibatkan [[Pelunakan (metalurgi)|pelunakan]] yang dapat mengimbangi beberapa efek lelah ketika temperatur ditingkatkan di atas 100&nbsp;K.<ref>
+{{cite journal
+ | title = Aging of Plutonium and Its Alloys
+ | page = 242
+ | journal = Los Alamos Science
+ | year = 2000
+ | issue = 26
+ | url = http://library.lanl.gov/cgi-bin/getfile?00818029.pdf
+ | format = PDF
+ | last = Hecker
+ | first = Siegfried S.
+ | coauthors = Martz, Joseph C.
+ | location = Los Alamos, New Mexico
+ | publisher = Los Alamos National Laboratory
+ | accessdate = 2009-02-15
+ }}</ref>
+
+=== Alotrop ===
+{{main|Alotrop plutonium}}
+[[Berkas:Pu-phases.png|thumb|Plutonium memiliki enam alotrop pada tekanan biasa: '''alfa'''&nbsp;(), '''beta'''&nbsp;(), '''gamma'''&nbsp;(), '''delta'''&nbsp;(), '''delta&nbsp;prime'''&nbsp;(), & '''epsilon'''&nbsp;()<ref name = "Baker1983"/>]]</div>
+Plutonium umumnya mempunyai enam [[alotrop]]. Pada temperatur yang tinggi dan jangka tekanan tertentu, alotrop ketujuh (zeta, ) dapat terbentuk.<ref name = "Baker1983">
+{{cite journal
+ | url = http://library.lanl.gov/cgi-bin/getfile?07-16.pdf
+ | title = Plutonium: A Wartime Nightmare but a Metallurgist's Dream
+ | last = Baker
+ | first = Richard D.
+ | coauthors = Hecker, Siegfried S.; Harbur, Delbert R.
+ | journal = Los Alamos Science
+ | year = 1983
+ | publisher = Los Alamos National Laboratory
+ | pages = 148, 150151
+ | accessdate = 2009-02-15
+}}</ref> Alotrop-alotrop ini memiliki [[energi internal|tingkat energi]] yang hampir sama, namun [[densitas]] dan [[struktur kristal]] yang sangat berbeda. Hal ini membuat plutonium sangat sensitif terhadap perubahan temperatur, tekanan, dan lingkungan kimiawi. Selain itu, perubahan volume yang dramatis selama [[transisi fase]] dari satu alotrop ke alotrop lainnya juga memungkinkan.<ref name = "HeckerPlutonium">
+{{cite journal
+ | first = Siegfried S.
+ | last = Hecker
+ | title = Plutonium and its alloys: from atoms to microstructure
+ | journal = Los Alamos Science
+ | volume = 26
+ | year = 2000
+ | pages = 290335
+ | url = http://www.fas.org/sgp/othergov/doe/lanl/pubs/00818035.pdf
+ | format = PDF
+ | accessdate = 2009-02-15
+}}</ref> Tidak seperti bahan-bahan lainnya, densitas plutonium akan ''meningkat'' ketika ia meleleh (sebesar 2,5%). Namun cairan logam plutonium itu sendiri menunjukkan penurunan secara linear pada densitasnya seiring dengan meningkatnya temperatur.<ref name="Miner1968p544">{{harvnb|Miner|1968|p = 544}}</ref> Densitas berbagai alotrop plutonium berkisar dari 16,00&nbsp;g/cm<sup>3</sup> sampai dengan 19,86&nbsp;g/cm<sup>3</sup>.<ref name="CRC2006p4-27" />
+
+Keberadaan banyak alotrop ini membuat pemrosesan plutonium sangat sulit. Sebagai contohnya bentuk  plutonium terbentuk pada suhu kamar dan ia memiliki karakteristik yang mirip dengan [[besi cor]], namun akan berubah menjadi seperti plastik dan mudah diubah bentuk ketika ia berubah menjadi alotrop  (''beta'') pada temperatur yang sedikit lebih tinggi.<ref name = "Miner1968p542"/> Alasan mengapa plutonium memiliki diagram fase yang rumit belumlah sepenuhnya diketahui.
+
+Plutonium dalam bentuk  (''delta'') umumnya terbentuk pada kisaran suhu 310&nbsp;C sampai dengan 452&nbsp;C, namun ia stabil pada suhu kamar apabila dialoi dengan [[galium]], [[aluminium]], ataupun [[serium]] dalam persentase rendah.<ref name = "Miner1968p542"/> Bentuk delta plutonium memiliki sifat-sifat yang lebih mirip dengan sifat logam pada umumnya. Ia kira-kira sekuat dan selunak aluminium.<ref name = "Baker1983"/><!-- NEEDS CITE In fission weapons, the explosive [[shock wave]]s used to compress a plutonium core will also cause a transition from the usual delta phase plutonium to the denser alpha form, significantly helping to achieve [[supercriticality]]. /NEEDS CITE -->
+
+=== Fisi nuklir ===
+Plutonium merupakan logam [[aktinida]] radioaktif. Isotop [[plutonium-239]] (Pu-239) merupakan salah satu dari tiga isotop fisil utama<ref name = "Stwertka1998"/> (sisanya adalah [[uranium-233]] dan [[uranium-235]]).<ref>
+{{cite web
+ | url = http://www.epa.gov/rpdweb00/glossary/termdef.html#f
+ | title = Fissile Material
+ | work = Radiation Glossary
+ | publisher = United States Environmental Protection Agency
+ | year = 2008
+ | accessdate = 2008-11-23
+ | author = EPA contributors
+}}</ref> Agar dapat dianggap sebagai fisil, [[inti atom]] sebuah isotop haruslah dapat memecah (fisi) ketika ditembakkan dengan [[neutron]] dan melepaskan sejumlah neutron tambahan yang cukup untuk mempertahankan [[reaksi berantai nuklir]] dengan memecahkan inti selanjutnya.
+
+[[Berkas:Plutonium ring.jpg|left|100px|thumb|Plutonium tingkat senjata]]
+Pu-239 memiliki [[Rumus empat faktor|faktor penggandaan]] (k) yang positif. Hal ini berarti bahwa jika logam tersebut tersedia dalam jumlah massa yang mencukupi dan dalam bentuk geometri yang tepat, ia dapat membentuk [[massa kritis]].<ref>
+{{cite book
+|title = Understanding Physics
+|last = Asimov
+|first = Isaac
+|authorlink = Isaac Asimov
+|page = 905
+|chapter = Nuclear Reactors
+|year = 1988
+|isbn = 0880292512
+|publisher = Barnes & Noble Publishing
+ }}</ref> Selama fisi, sebagian [[energi ikat]] yang mengikat inti agar tetap bersama dilepaskan sebagai energi panas, energi kinetik, dan energi elektromagnetik dalam jumlah yang besar. Satu kilogram Pu-239 dapat menghasilkan ledakan yang setara dengan 20,000&nbsp;ton [[Trinitrotoluena|TNT]].<ref name = "Heiserman1992"/> Jumlah energi yang sangat besar ini membuat Pu-239 sangat berguna pada [[reaktor nuklir|reaktor]] dan [[senjata nuklir]].
+
+Keberadaan isotop [[plutonium-240]] (Pu-240) pada suatu sampel akan membatasi potensial bom nuklir plutonium. Hal ini dikarenakan Pu-240 memiliki laju [[fisi spontan]] yang tinggi (~440 fisi per detik per gram setiap 1.000 neutron per detik per gram<ref>Samuel Glasstone and Leslie M. Redman, ''[http://www.doeal.gov/opa/docs/RR00171.pdf An Introduction to Nuclear Weapons]'' (Atomic Energy Commission Division of Military Applications Report WASH-1038, June 1972), p. 12.</ref>), sehingga meningkatkan tingkat neutron latar, yang pada akhirnya akan meningkatkan risiko pradetonasi.<ref>
+{{cite book
+|title = The Manhattan Project: Making the Atomic Bomb
+|publisher = United States Department of Energy
+|id = DOE/MA-0001-01/99
+|location = Oak Ridge (TN)
+|last = Gosling
+|first = F.G.
+|page = 40
+|url = http://www.cfo.doe.gov/me70/manhattan/publications/DE99001330.pdf
+|year = 1999
+|accessdate = 2009-02-15
+}}</ref> Plutonium dapat dikategorikan ke dalam berbagai tingkatan, yaitu tingkat senjata, tingkat bahan bakar, dan tingkat reaktor, bergantung pada persentase Pu-240 pada suatu sampel. Plutonium tingkat senjata memiliki kadar Pu-240 kurang dari 7%, plutonium tingkat bahan bakar mengandung 7% - 19% Pu-240, dan plutonium tingkat reaktor mengandung lebih dari 19% Pu-240.<ref>
+{{cite book
+|title = Plutonium: The First 50 Years
+|publisher = U.S. Department of Energy
+|year = 1996
+|id = DOE/DP-1037
+|author = DOE contributors
+|url = http://www.doeal.gov/laso/SWEIS/DOEDocuments/004%20DOE-DP-0137%20Plutonium%2050%20Years.pdf
+}} (public domain text)</ref> Isotop [[plutonium-238]] (Pu-238) tidak dapat menjalani fisi nuklir dengan mudah, walaupun ia dapat mengalami [[peluruhan alfa]].<ref name = "Heiserman1992"/>
+
+=== Isotop dan sintesis ===
+{{main|Isotop plutonium}}
+Terdapat setidaknya dua puluh [[radioisotop|isotop radioaktif]] plutonium yang telah diidentifikasi.<ref name = "NNDC">
+{{cite web
+ | url = http://www.nndc.bnl.gov/chart/
+ | author = NNDC contributors
+ | editor = Alejandro A. Sonzogni (Database Manager)
+ | title = Chart of Nuclides
+ | publisher = National Nuclear Data Center, [[Brookhaven National Laboratory]]
+ | accessdate = 2008-09-13
+ | year = 2008
+ | location = Upton (NY)
+}}</ref> Isotop yang berumur paling panjang adalah Pu-244, dengan umur paruh 80,8 juta tahun. Diikuti oleh Pu-242 dengan umur paruh 373.300&nbsp;tahun, dan Pu-239 dengan umur paruh 24.110&nbsp;tahun.<ref name = "NNDC"/> Isotop radioaktif sisanya memiliki umur paruh kurang dari 7.000&nbsp;tahun.<ref name = "NNDC"/> Unsur ini juga memiliki delapan [[keadaan meta]]stabil, walaupun tidak ada satupun yang benar-benar stabil dan hanya memiliki umur paruh kurang dari satu detik.<ref name = "NNDC"/>
+
+Isotop plutonium memiliki [[bilangan massa]] yang berkisar dari 228 sampai dengan 247.<ref name = "NNDC"/> [[Peluruhan radioaktif|Modus peluruhan]] utama isotop dengan bilangan massa yang lebih rendah daripada isotop paling stabil Pu-244 adalah [[fisi spontan]] dan [[emisi alfa]]. Kebanyakan akan menjadi isotop uranium (92 [[proton]]) dan [[neptunium]] (93 proton) sebagai [[produk peluruhan]] (dengan mengabaikan anang inti (''daughter nuclei'') yang dihasilkan selama proses fisi).<ref name = "NNDC"/> Modus peluruhan utama isotop yang memiliki bilangan massa lebih tinggi daripada Pu-244 adalah [[emisi beta]], kebanyakan akan menjadi isotop [[amerisium]] (95 proton) sebagai produk peluruhan.<ref name = "NNDC"/> Pu-241 merupakan [[isotop induk]] [[deret peluruhan neptunium]], meluruh menjadi amerisium-241 via emisi beta maupun elektron.<ref name = "Heiserman1992"/>
+
+Pu-238 dan Pu-239 adalah isotop yang paling sering disintesis.<ref name = "Heiserman1992"/> Pu-239 disintesis via reaksi berikut yang menggunakan uranium (U) dan neutron (n) via peluruhan beta (<sup></sup>) dengan neptunium (Np) sebagai zat antara:<ref>{{cite journal | first=J. W. | last=Kennedy | coauthors=Seaborg, G. T.; Segr, E.; Wahl, A. C. | title=Properties of Element 94 | journal=Physical Review | year=1946 | issue=78 | pages=555556 | doi=10.1103/PhysRev.70.555 | volume=70 }}</ref>
+
+<math>\mathrm{^{238}_{\ 92}U\ +\ ^{1}_{0}n\ \longrightarrow \ ^{239}_{\ 92}U\ \xrightarrow[23,5 \ menit]{\beta^-} \ ^{239}_{\ 93}Np\ \xrightarrow[2,3565 \ hari]{\beta^-} \ ^{239}_{\ 94}Pu}</math>
+
+Dengan kata lain, neutron yang berasal dari fisi U-235 [[tangkapan neutron|ditangkap]] oleh inti U-238, menjadi U-239; [[peluruhan beta]] akan menambahkan sebuah proton, menjadi Np-239 (umur paruh 2.36&nbsp;hari), dan peluruhan beta lebih lanjut akan mengubahnya menjadi Pu-239.<ref name = "Greenwood1997p1259">{{harvnb|Greenwood|1997|p = 1259}}</ref>
+
+Pu-238 disintesis dengan membombardir U-238 dengan [[deuteron]] (D, inti [[hidrogen]] berat) menurut reaksi berikut:<ref>{{cite journal | first=Glenn T. | last=Seaborg | coauthors=McMillan, E.; Kennedy,  J. W.; Wahl, A. C. | title=Radioactive Element 94 from Deuterons on Uranium | journal=Physical Review | year=1946 | issue=78 | pages=366367 | doi=10.1103/PhysRev.69.367 | volume=69 }}</ref>
+
+<math>\mathrm{^{238}_{\ 92}U\ +\ ^{2}_{1}D\ \longrightarrow \ ^{238}_{\ 93}Np\ +\ 2\ ^{1}_{0}n \quad;\quad ^{238}_{\ 93}Np\ \xrightarrow[2,117 \ hari]{\beta^-} \ ^{238}_{\ 94}Pu}</math>
+
+Pada persamaan ini, deuteron menghantam U-238 dan menghasilkan dua neutron berserta Np-238. Np-238 secara spontan meluruh dengan memancarkan partikel beta negatif menjadi Pu-238.
+
+===Panas peluruhan dan properti fisi===
+Isotop plutonium mengalami peluruhan radioaktif dan menghasilkan [[panas peluruhan]]. Isotop yang berbeda menghasilkan panas per massa yang berbeda. Panas peluruhan biasanya dinyatakan dengan satuan watt/kilogram atau milliwatt/gram. Pada plutonium dengan jumlah besar dan pembuangan panas yang tidak cukup maka panas ini dapat berdampak signifikan. Semua isotop menghasilkan gamma lemah ketika meluruh.
+
+{| class="wikitable"
+|+ Panas peluruhan isotop plutonium<ref>{{cite web|url=http://www.cnfc.or.jp/e/proposal/reports/index.html|title=Can Reactor Grade Plutonium Produce Nuclear Fission Weapons?|date=May 2001|publisher=Council for Nuclear Fuel Cycle Institute for Energy Economics, Japan}}</ref>
+! Isotop !! [[Mode peluruhan]] !! [[Paruh waktu]] (tahun) !! [[Panas peluruhan]] (W/kg) !! Neutron [[fisi spontan]] (1/(gs)) !! Komentar
+|-
+! [[plutonium-238|<sup>238</sup>Pu]]
+| alfa menjadi [[uranium-234|<sup>234</sup>U]]
+| 87.74
+| 560
+| 2600
+| Panas peluruhan sangat tinggi. Dalam jumlah kecilpun berdampak signifikan. Digunakan pada [[generator termolistrik radioisotop]].
+|-
+! [[plutonium-239|<sup>239</sup>Pu]]
+| alfa menjadi [[uranium-235|<sup>235</sup>U]]
+| 24100
+| 1.9
+| 0.022
+| Isotop utama yang banyak digunakan.
+|-
+! [[plutonium-240|<sup>240</sup>Pu]]
+| alfa menjadi [[uranium-236|<sup>236</sup>U]], fisi spontan
+| 6560
+| 6.8
+| 910
+| ''Impurity'' utama pada sampel isotop <sup>239</sup>Pu. Plutonium-grade biasanya dinyatakan dalam persentase <sup>240</sup>Pu. Fisi spontan yang tinggi menghalangi penggunaan pada senjata nuklir.
+|-
+! [[plutonium-241|<sup>241</sup>Pu]]
+| beta-minus, menjadi [[Americium-241|<sup>241</sup>Am]]
+| 14.4
+| 4.2
+| 0.049
+| Meluruh menjadi americium-241; its buildup presents a radiation hazard in older samples.
+|-
+! [[plutonium-242|<sup>242</sup>Pu]]
+| alfa menjadi [[uranium-238|<sup>238</sup>U]]
+| 376000
+| 0.1
+| 1700
+|
+|}
+
+=== Sifat kimiawi dan senyawa plutonium ===
+[[Berkas:Plutonium in solution.jpg|thumb|right|300px|Berbagai keadaan oksidasi Pu dalam larutan]]
+Pada suhu kamar, plutonium murni berwarna perak dan ia akan mengusam ketika teroksidasi.<ref name = "Heiserman1992"/> Unsur ini menunjukkan empat [[keadaan oksidasi]] ionik dalam larutan:<ref name = "CRC2006p4-27"/>
+* Pu(III), as Pu<sup>3+</sup> (biru lavender)
+* Pu(IV), as Pu<sup>4+</sup> (kuning coklat)
+* Pu(V), as PuO<sub>2</sub><sup>+</sup> (merah jambu)<ref group = catatan>Ion PuO<sub>2</sub><sup>+</sup> tidak stabil dalam larutan dan akan berdisproporsionasi menjadi Pu<sup>4+</sup> dan PuO<sub>2</sub><sup>2+</sup>; Pu<sup>4+</sup> kemudian akan mengoksidasi PuO<sub>2</sub><sup>+</sup> sisanya menjadi PuO<sub>2</sub><sup>2+</sup>, dan ia sendiri akan tereduksi menjadi Pu<sup>3+</sup>. Oleh karena itu, larutan plutonium cenderung berubah menjadi campuran Pu<sup>3+</sup> dan PuO<sub>2</sub><sup>2+</sup>.
+:{{cite web
+ | title = Nuclear Criticality Safety Engineering Training Module 10  Criticality Safety in Material Processing Operations, Part 1
+ | url = http://ncsp.llnl.gov/ncset/Module10.pdf
+ | format = PDF
+ | accessdate = 2006-02-15
+ | year = 2002
+ | last = Crooks
+ | first = William J.
+}}</ref>
+* Pu(VI), as PuO<sub>2</sub><sup>2+</sup> (merah mudah oranye)
+* Pu(VII), as PuO<sub>5</sub><sup>3</sup> (hijau) ion heptavalen ini sangat jarang
+
+Warna larutan yang ditampilkan oleh larutan plutonium bergantung pada keadaan oksidasi dan sifat-sifat [[anion]] asam.<ref>
+{{cite book
+|last = Matlack
+|first = George
+|title = A Plutonium Primer: An Introduction to Plutonium Chemistry and its Radioactivity
+|publisher = Los Alamos National Laboratory
+|year = 2002
+|id = LA-UR-02-6594
+}}</ref> Anion asam akan memengaruhi derajat kompleksasi plutonium.
+
+Logam plutonium dihasilkan dengan mereaksikan plutonium(IV) fluorida dengan [[barium]], [[kalsium]] ataupun [[litium]] pada suhu 1200&nbsp;C.<ref>
+{{cite book
+|title = Concise Encyclopedia Chemistry
+|last = Eagleson
+|first = Mary
+|publisher = Walter de Gruyter
+|isbn = 9783110114515
+|page = 840
+|year = 1994
+}}</ref> Ia akan diserang oleh [[asam]], [[oksigen]], dan [[uap]], namun tidak oleh [[alkali]] dan akan larut dengan mudahnya ke dalam [[asam klorida]], [[asam iodat]], dan [[asam perklorat]] pekat.<ref name = "Miner1968p545">{{harvnb|Miner|1968|p = 545}}</ref> Lelehan logam plutonium harus disimpan dalam keadaan vakum ataupun pada atmosfer inert untuk menghindari terjadinya reaksi dengan udara.<ref name = "Miner1968p542">{{harvnb|Miner|1968|p = 542}}</ref> Pada suhu 135&nbsp;C, logam plutonium akan menyala dan meledak jika diletakkan dalam [[karbon tetraklorida]].<ref name = "Emsley2001"/>
+
+[[Berkas:Plutonium pyrophoricity.jpg|thumb|left|Sifat piroforik plutonium dapat menyebabkannya tampak seperti bara api yang menyala.]]
+Plutonium merupakan logam yang reaktif. Pada kelembaban udara ataupun [[argon]], logam ini akan teroksidasi dengan cepat, menghasilkan campuran [[oksida]] dan [[hidrida]].<ref name = "WISER">
+{{cite web
+ | url = http://webwiser.nlm.nih.gov/getSubstanceData.do;jsessionid=89B673C34252C77B4C276F2B2D0E4260?substanceID=419&displaySubstanceName=Plutonium,%20Radioactive&UNNAID=&STCCID=&selectedDataMenuItemID=44
+ | author = NIH contributors
+ | publisher = U.S. National Library of Medicine, National Institutes of Health
+ | location = Bethesda, (MD)
+ | title = Plutonium
+ | work = Wireless Information System for Emergency Responders (WISER)
+ | accessdate = 2008-11-23
+}} (public domain text)</ref> Jika logam tersebut terpapar cukup lama dengan sejumlah uap air, permukaan berbentuk bubuk [[Plutonium(IV) oksida|PuO<sub>2</sub>]] yang membungkus logam akan terbentuk.<ref name = "WISER"/> Selain itu, juga terbentuk [[plutonium hidrida]]. Apabila terpapar dengan uap air yang berlebihan, hanya akan terbentuk PuO<sub>2</sub>.<ref name = "Miner1968p545"/>
+
+Dengan adanya pembungkusan hidrida ini, logam plutonium bersifat [[piroforik]], yang berarti ia akan menyala secara spontan. Oleh karena itu, logam plutonium biasanya ditangani dalam atmosfer yang inert dan kering (misalnya argon dan nitrogen).<ref name = "WISER"/> Oksigen akan memperlambat efek-efek yang disebabkan oleh kelembaban dan berperan sebagai agen [[pemasifan]].<ref name = "WISER"/>
+
+Plutonium bereaksi dengan oksigen menjadi PuO dan PuO<sub>2</sub> beserta [[intermediat]] oksida lainnya;<ref name = "CRC2006p4-27"/> plutonium oksida memiliki volume 40% lebih besar daipada logam plutonium.<ref name = "Emsley2001"/> Ia bereaksi dengan [[halogen]] dan menghasilkan senyawa seperti PuX<sub>3</sub> (X dapat berupa [[Plutonium(III) fluorida|F]], [[Plutonium(III) klorida|Cl]], Br ataupun I); [[Plutonium tetrafluorida|PuF<sub>4</sub>]] dan oksihalida seperti PuOCl, PuOBr dan PuOI juga dilaporkan terbentuk.<ref name = "CRC2006p4-27"/> Selain itu, reaksi dengan karbon menjadi PuC, nitrogen menjadi PuN, dan [[silikon]] menjadi PuSi<sub>2</sub> juga dapat terjadi.<ref name = "CRC2006p4-27"/>
+
+[[Krus]] yang digunakan untuk menampung plutonium haruslah tahan terhadap lingkungan [[reduktor|reduksi]] yang kuat.<ref name = "Miner1968p542"/> [[Logam tahan api]] seperti [[tantalum]] dan [[tungsten]] berserta oksida stabil [[borida]], [[karbida]], [[nitrida]], dan [[silikida]] dapat menoleransi lingkungan seperti ini.<ref name = "Miner1968p542"/> Peleburan pada [[tungku busur elektrik]] dapat digunakan untuk menghasilkan batangan logam kecil tanpa memerlukan krus.<ref name = "Miner1968p542"/>
+
+Plutonium dapat membentuk [[aloi]] dengan kebanyakan logam. Pengecualian terdapat pada [[logam alkali]] seperti [[litium]], [[kalium]], dan [[natrium]], [[logam alkali tanah]] seperti [[barium]], [[kalsium]], dan [[stronsium]], dan [[logam tanah nadir]] seperti [[europium]] dan [[iterbium]].<ref name = "Miner1968p545"/> Pengecualian parsial terdapat pada logam tahan api seperti [[kromium]], [[molibdenum]], [[niobium]], tantalum, dan tungsten, yang dapat larut dalam plutonium cair, namun tidak dapat larut pada plutonium padat.<ref name = "Miner1968p545"/>
+
+===Aloi===
+Plutonium dapat membentuk aloi dan senyawa intermediet dengan kebanyakan logam lainnya. Perkecualian dengan litium, [[natrium]], [[kalium]], [[rubidium]] dan [[sesium]] dari [[logam alkali]]; dan [[magnesium]], kalsium, [[stronsium]], dan barium dari [[logam alkali tanah]]; dan [[europium]] dan [[ytterbium]] dari [[logam tanah jarang]].<ref name = "Miner1968p545"/> Perkecualian parsial diantaranya dengan [[kromium]], [[molybdenum]], [[niobium]], tantalum, dan tungsten, yang larut pada plutonium cair, namun tidak larut atau larut sedikit pada plutonium padat.<ref name = "Miner1968p545"/> Galium, aluminium, americium, [[skandium]] dan serium dapat menstabilkan fase- plutonium dalam suhu ruang. [[Silikon]], [[indium]], [[zinc]] dan [[zirkonium]] dapat membentuk fase metastabil  ketika didinginkan cepat. Sejumlah besar [[hafnium]], [[holmium]] dan [[talium]] juga dapat mempertahankan fase- pada suhu ruang. Neptunium adalah satu-satunya elemen yang dapat menstabilkan fase- pada suhu tinggi.<ref name = "HeckerPlutonium"/>
+
+* [[Aloi plutonium-galium|Plutoniumgalium]] digunakan untuk menstabilkan fase- plutonium. Digunakan pada [[pit (senjata nuklir)|pit]] [[desain senjata nuklir|senjata nuklir]].<ref>{{cite journal|url=https://books.google.com/?id=0o4DnYptWdgC&pg=PA71|page=71|journal=ECS transactions|publisher=Electrochemical Society |author=Kolman, D. G. |author2=Colletti, L. P. |last-author-amp=yes|title=The aqueous corrosion behavior of plutonium metal and plutoniumgallium alloys exposed to aqueous nitrate and chloride solutions|volume=16|date=2009|issue=52|isbn=978-1-56677-751-3}}</ref>
+* '''Plutoniumaluminium''' adalah alternatif aloi PuGa. Awalnya merupakan elemen yang digunakan untuk stabilisasi fase-, namun kecenderungannya untuk bereaksi dengan partikel alfa dan melepas neutron mengurangi penggunaannya pada pit senjata nuklir. Aloi Plutoniumaluminium juga dapat digunakan sebagai komponen [[bahan bakar nuklir]].<ref>{{harvnb|Hurst|Ward|1956}}</ref>
+* Aloi '''Plutoniumgalliumkobalt''' (PuCoGa<sub>5</sub>) adalah [[superkonduktor unconventional]], bersifat superkonduktif dibawah 18.5&nbsp;K.<ref name="physicsworld.com"/><ref>{{cite journal|url=http://www.lanl.gov/orgs/mpa/files/mrhighlights/LALP-06-072.pdf|author=Curro, N. J. |title=Unconventional superconductivity in PuCoGa5|date=Spring 2006|publisher=Los Alamos National Laboratory}}</ref>
+* Aloi '''Plutoniumzirkonium''' dapat digunakan sebagai [[bahan bakar nuklir]].<ref>McCuaig, Franklin D. "PuZr alloy for high-temperature foil-type fuel" {{US patent|4059439}}, Issued on November 22, 1977</ref>
+* Aloi'''Plutoniumserium''' dan '''plutoniumseriumkobalt''' digunakan sebagai bahan bakar nuklir.<ref>{{harvnb|Jha|2004|p=73}}</ref>
+* Aloi '''Plutoniumuranium''', sekitar 1530&nbsp;%mol plutonium, digunakan sebagai bahan bakar nuklir pada reaktor peranakan cepat. Penambahan titanium dan/atau zirkonium akan meningkatkan titik lebur aloi secara signifikan.<ref name="Pu1965">{{harvnb|Kay|1965|p=456}}</ref>
+* Aloi '''Plutoniumuraniumtitanium''' dan '''plutoniumuraniumzirkonium''' telah diteliti untuk digunakan sebagai bahan bakar nuklir. Penambahan elemen ketiga dapat meningkatkan resistensi korosi, mengurangi kemungkinan terbakar, meningkatkan keuletan, fabrikabilitas, kekuatan, dan ekspansi termal. '''Plutoniumuraniummolybdenum''' memiliki resistensi korosi terbaik, namun biasanya titanium dan zirkonium lebih dipilih.<ref name="Pu1965" />
+
+=== Keberadaan ===
+Sejumlah kecil isotop plutonium (Pu-239 dan Pu-244) dapat ditemukan di alam. Pu-244 dapat ditemukan dalam jumlah kecil karena ia merupakan produk minor peluruhan pada [[bijih uranium]] dan mempunyai umur paruh sekitar 80 juta tahun yang cukup panjang.<ref>
+{{cite journal
+ | first = D.C.
+ | last = Hoffman
+ | coauthors = Lawrence, F. O.; Mewheter, J. L.; and Rourke, F. M.
+ | title = Detection of Plutonium-244 in Nature
+ | journal = Nature
+ | id = Nr. 34,
+ | year = 1971
+ | pages = 132134
+ | doi = 10.1038/234132a0
+ | volume = 234
+}}</ref> Pu-239 dapat ditemukan dalam jumlah yang lebih kecil lagi (dalam satuan bagian per triliun) dan produk peluruhannya dapat secara alami ditemukan pada beberapa bijih uranium<ref name = "Miner1968p541"/><ref>
+{{cite web
+ | url = http://www.ocrwm.doe.gov/factsheets/doeymp0010.shtml
+ | title = Oklo: Natural Nuclear Reactors
+ | publisher = U.S. Department of Energy, Office of Civilian Radioactive Waste Management
+ | year = 2004
+ | id = DOE/YMP-0010
+ | author = DOE contributors
+ | accessdate = 2008-11-16
+}}</ref>
+
+Sejumlah kecil plutonium juga dapat ditemukan pada tubuh manusia oleh karena [[uji nuklir]] di atas daratan dan beberapa kecelakaan nuklir besar yang pernah terjadi.<ref name = "Emsley2001">{{harvnb|Emsley|2001}}</ref> Kebanyakan uji nuklir atsmosferik telah dihentikan sejak tahun 1963, namun Perancis masih terus melakukannya sampai dengan tahun 1980-an. Selain itu, beberapa negara juga masih terus melakukan uji nuklir tersebut setelah tahun 1963. Oleh karena Pu-239 merupakan hasil peluruhan radioaktif bijih uranium serta isotop plutonium yang paling banyak dibuat, ia merupakan isotop yang paling melimpah.<ref name = "Emsley2001"/>
+
+== Sejarah ==
+=== Penemuan ===
+Pada tahun 1934, [[Enrico Fermi]] dan sekelompok ilmuwan [[Universitas Roma La Sapienza]] melaporkan bahwa mereka telah menemukan unsur 94.<ref>{{cite web
+ | url = http://www.nndc.bnl.gov/content/evaluation.html
+ | title = A Short History of Nuclear Data and Its Evaluation
+ | last = Holden | first = Norman E.
+ | publisher = National Nuclear Data Center, Brookhaven National Laboratory
+ | location = Upton (NY)
+ | work = 51st Meeting of the USDOE Cross Section Evaluation Working Group
+ | year = 2001
+ | accessdate = 2009-01-03
+ }}</ref> Fermi menyebut unsur ini sebagai ''hesperium''.<ref>{{cite web
+ | url = http://www.nobel.se/physics/laureates/1938/fermi-lecture.pdf
+ | format = PDF
+ | last = Fermi | first = Enrico
+ | date = December 12, 1938
+ | title = Artifical radioactivity produced by neutron bombardment: Noble Lecture
+ | publisher = Royal Swedish Academy of Sciences
+ }}</ref> Namun, sampel yang diduga sebagai unsur 94 ini sebenarnya hanyalah campuran [[barium]], [[kripton]], dan unsur-unsur lainnya. Tetapi hal ini tidak diketahui pada saat itu karena [[fisi nuklir]] masih belum ditemukan.<ref>{{cite web
+ | url = http://www.philosophy.umd.edu/Faculty/LDarden/sciinq/
+ | title = The Nature of Scientific Inquiry
+ | last = Darden | first = Lindley
+ | chapter = Enrico Fermi: "Transuranium" Elements, Slow Neutrons
+ | publisher = Department of Philosophy, University of Maryland
+ | year = 1998
+ | accessdate = 2008-01-03
+ | location = College Park (MD)
+ }}</ref>
+
+[[Berkas:Glenn Seaborg - 1964.jpg|thumb|[[Glenn T. Seaborg]] dan kelompok ilmuwan Berkeley adalah yang pertama memproduksi plutonium.]]
+Plutonium (Pu-238) pertama kali diproduksi dan diisolasi pada tanggal 14 Desember 1940 oleh Dr. [[Glenn T. Seaborg]], [[Edwin McMillan|Edwin M. McMillan]], [[Joseph W. Kennedy|J. W. Kennedy]], [[Zachary M. Tatom|Z. M. Tatom]], dan [[Arthur Wahl|A. C. Wahl]] dengan menembakkan uranium dengan [[deuteron]]. Unsur ini kemudian berhasil diidentifikasi secara kimiawi pada 23 Februari 1941.<ref name = 'ACS'>
+{{cite web
+ | url = http://acs.lbl.gov/Seaborg.talks/65th-anniv/14.html
+ | title = Elements 93 and 94
+ | accessdate = 2008-09-17
+ | author = LBNL contributors
+ | publisher = Advanced Computing for Science Department, Lawrence Berkeley National Laboratory
+}}</ref> Pada percobaan tahun 1940, [[neptunium]]-238 berhasil dihasilkan secara langsung dengan penghantaman, tetapi ia kemudian meluruh dengan mamancarkan emisi beta dua hari kemudian. Hal ini mengindikasikan terbentuknya unsur 94.<ref name = "Emsley2001"/>
+
+Sebuah laporan ilmiah yang mendokumentasikan penemuan unsur plutonium kemudian dipersiapkan oleh para ilmuwan [[Universitas California, Berkeley]] tersebut dan dikirim ke jurnal ''[[Physical Review]]'' pada Maret 1941.<ref name = "Emsley2001"/> Tetapi laporan tersebut ditarik kembali sebelum publikasi, setelah ditemukan bahwa isotop unsur baru tersebut (Pu-239) dapat menjalani fisi nuklir yang dapat digunakan pada [[bom atom]]. Publikasi penemuan unsur tersebut kemudian ditunda setahun setelah akhir [[Perang Dunia II]] oleh karena kekhawatiran pada masalah keamanan dunia.<ref name = "Stwertka1998">{{harvnb|Stwertka|1998}}</ref>
+
+Edwin McMillan yang sebelumnya telah menamai unsur transuranium pertama dengan nama [[neptunium]] (berasal dari nama planet ''Neptunus'') mengajukan bahwa unsur 94, sebagai unsur transuranium kedua, dinamakan dari planet ''[[Pluto]]''.<ref name = "Heiserman1992">{{harvnb|Heiserman|1992}}</ref><ref group = "catatan">Edwin McMillan bukanlah yang pertama kali mengajukan bahwa sebuah unsur dinamakan sebagai "plutonium." Satu dekade setelah barium ditemukan, seorang Profesor Universitas Cambridge mengajukan bahwa unsur barium tersebut diganti namanya menjadi "plutonium". Ia beralasan bahwa unsur barium yang tidak termasuk unsur berat, memiliki akar kata dari [[Bahasa Yunani]] ''barys'' yang berarti "berat", dan oleh karena barium dihasilkan dari teknik [[elektrolisis]], ia haruslah memiliki nama yang mewakili unsur [[api]]. Ia kemudian mengajukan bahwa unsur Barium tersebut diganti namanya menjadi "plutonium" (dari nama dewa Romawi ''[[Pluto]]''). {{harv|Heiserman|1992}}</ref> Seaborg pada awalnya mempertimbangkan nama "plutium", namun kemudian merasa bahwa nama tersebut tidak sebagus "plutonium".<ref name="Clark57">
+{{cite journal
+ | last = Clark
+ | first = David L.
+ | coauthors = Hobart, David E.
+ | title = Reflections on the Legacy of a Legend: Glenn T. Seaborg, 19121999
+ | journal = Los Alamos Science
+ | volume = 26
+ | year = 2000
+ | pages = 5661, on 57
+ | url = http://www.fas.org/sgp/othergov/doe/lanl/pubs/00818011.pdf
+ | format = PDF
+ | accessdate = 2009-02-15
+}}</ref> Pemilihan simbol "Pu" oleh Seaborg pada awalnya hanyalah sebagai lelucon, namun ternyata simbol tersebut kemudian tanpa disadari telah terdaftar ke dalam tabel periodik.<ref group = "catatan">Pada sebuah artikel di mana Seaborg memberikan informasi:"The obvious choice for the symbol would have been Pl, but facetiously, Seaborg suggested Pu, like the words a child would exclaim, 'Pee-yoo!' when smelling something bad. Seaborg thought that he would receive a great deal of flak over that suggestion, but the naming committee accepted the symbol without a word."
+:{{cite journal
+ | first = David L.
+ | last = Clark
+ | coauthors = Hobart, David E.
+ | title = Reflections on the Legacy of a Legend: Glenn T. Seaborg, 19121999
+ | journal = Los Alamos Science
+ | volume = 26
+ | pages = 5661, on 57
+ | year = 2000
+ | url = http://www.fas.org/sgp/othergov/doe/lanl/pubs/00818011.pdf
+ | format = PDF
+ | accessdate = 2009-02-15
+}}</ref> Nama-nama alternatif lainnya yang pernah Seaborg dan ilmuwan lainnya pertimbangkan adalah "ultimum" ataupun "extremium" karena terdapat kepercayaan bahwa mereka telah menemukan [[unsur kimia|unsur]] terakhir pada [[tabel periodik]].<ref>
+{{cite web
+ | url = http://www.pbs.org/wgbh/pages/frontline/shows/reaction/interviews/seaborg.html
+ | title = Frontline interview with Seaborg
+ | publisher = Public Broadcasting Service
+ | author = PBS contributors
+ | work = Frontline
+ | year = 1997
+ | accessdate = 2008-12-07
+}}</ref>
+
+=== Penelitian awal ===
+Sifat-sifat kimiawi plutonium ditemukan mirip dengan uranium setelah dilakukan kajian awal selama beberapa bulan.<ref name = "Emsley2001"/> Penelitian kemudian dilanjutkan di laboratorium rahasia di [[Universitas Chicago]]. Pada 18 Agustus 1942, sejumlah kecil unsur ini diisolasi dan diukur untuk pertama kalinya. Sekitar 50 mikrogram plutonium-239 beserta uranium dan produk fisi diproduksi, namun hanya 1 mikrogram yang diisolasi.<ref name = "Miner1968p541">{{harvnb|Miner|1968|p = 541}}</ref> Prosedur ini mengizinkan para kimiawan menentukan massa atom unsur baru ini.<ref name = "uchicago">
+{{cite web
+ | title = Room 405, George Herbert Jones Laboratory
+ | publisher = National Park Service
+ | url = http://tps.cr.nps.gov/nhl/detail.cfm?ResourceId=735&ResourceType=Building
+ | accessdate = 2008-12-14
+ | author = NPS contributors
+}}</ref><ref group = "catatan">Kamar 405 [[Laboratorium George Herbert Jones]] yang merupakan tempat isolasi unsur plutonium yang pertama ini ditentukan sebagai ''National Historic Landmark'' oleh pemerintah AS pada Mei 1967.</ref>
+
+Pada November 1943, beberapa plutonium trifluorida berhasil direduksi dan menghasilkan sampel logam plutonium yang pertama.<ref name = "Miner1968p541"/> Plutonium yang dihasilkan cukup banyak dan membuat plutonium sebagai unsur pertama yang dihasilkan secara sintetik yang dapat dilihat dengan mata telanjang.<ref name = "Miner1968p540">{{harvnb|Miner|1968|p = 540}}</ref>
+
+Sifat-sifat nuklir plutonium-239 juga dikaji; para peneliti menemukan bahwa ketika ia ditembakkan dengan neutron, ia akan memecah (fisi) dan melepaskan lebih banyak neutron dan energi. Neutron-neutron ini kemudian dapat menghantam atom plutonium-239 lainnya, dan mengakibatkan reaksi berantai yang meningkat secara eksponensial. Reaksi berantai ini dapat mengakibatkan ledakan yang cukup besar untuk menghancurkan sebuah kota apabila isotop dalam jumlah yang cukup dikonsentrasikan dan mencapai massa kritis.<ref name = "Emsley2001"/>
+
+=== Produksi semasa Proyek Manhattan ===
+Semasa Perang Dunia II, pemerintah AS mencanangkan [[Proyek Manhattan]] yang ditugaskan untuk mengembangkan bom atom. Tiga tempat riset dan produksi utama proyek ini adalah fasilitas produksi plutonium [[Hanford Site]], fasilitas [[pengayaan uranium]] di [[Oak Ridge, Tennessee]], dan laboratorium riset dan desain senjata yang sekarang ini dikenal sebagai [[Laboratorium Nasional Los Alamos]].<ref>
+{{cite web
+ | url = http://www.lanl.gov/history/road/siteselection.shtml
+ | author = LANL contributors
+ | work = LANL History
+ | title = Site Selection
+ | publisher = Los Alamos National Laboratory
+ | location = Los Alamos, New Mexico
+ | accessdate = 2008-12-23
+ }}</ref>
+
+[[Berkas:Hanford B Reactor.jpg|left|thumb|Muka [[Reaktor B]] Handord yang sedang dalam konstruksi, ia merupakan reaktor produksi plutonium yang pertama]]
+
+Reaktor produksi pertama yang memproduksi plutonium-239 adalah [[Reactor Grafit X-10]]. Ia mulai bekerja pada tahun 1943 dan dibangun di sebuah fasilitas di Oak Ridge yang kemudian menjadi [[Laboratorium Nasional Oak Ridge]].<ref name = "Emsley2001"/><ref group = "catatan">Semasa Proyek Manhattan, plutonium sering dirujuk sebagai "49": nomor 4 adalah digit terakhir 94 (bilangan atom plutonium), dan 9 adalah digit terakhir dari Pu-249 (isotop yang digunakan dalam bom nuklir).
+:{{Cite journal
+ | last = Hammel
+ | first = E.F.
+ | year = 2000
+ | title = The taming of "49"&nbsp;  Big Science in little time. Recollections of Edward F. Hammel, pp. 2-9. In: Cooper N.G. Ed. (2000). Challenges in Plutonium Science
+ | journal = Los Alamos Science
+ | volume = 26
+ | issue = 1
+ | pages = 29
+ | url = http://www.fas.org/sgp/othergov/doe/lanl/pubs/00818010.pdf
+ | accessdate = 2009-02-15
+}}
+:{{Cite journal
+ | last = Hecker
+ | first = S.S.
+ | year = 2000
+ | title = Plutonium: an historical overview. In: Challenges in Plutonium Science
+ | journal = Los Alamos Science
+ | volume = 26
+ | issue = 1
+ | pages = 12
+ | url = http://www.fas.org/sgp/othergov/doe/lanl/pubs/number26.htm
+ | accessdate = 2009-02-15
+}}</ref>
+
+Pada 5 April 1944, [[Emilio Segr]] yang berada di Los Alamos menerima sampel pertama plutonium yang dihasilkan oleh reaktor di Oak Ridge.<ref name="AtomicTimeline">
+{{cite web
+ | url = http://www.atomicheritage.org/index.php?option=com_content&task=view&id=288&Itemid=202
+ | title = Atomic History Timeline 1942-1944
+ | publisher = Atomic Heritage Foundation
+ | last = Sublette
+ | first = Carey
+ | location = Washington (DC)
+ | accessdate = 2008-12-22
+ }}</ref> Dalam waktu sepuluh hari, ia menemukan bahwa plutonium yang dihasilkan itu memiliki konsentrasi isotop Pu-240 yang lebih tinggi daripada plutonium yang dihasilkan dari [[siklotron]]. Pu-240 memiliki laju [[fisi spontan]] yang tinggi dan akan meningkatkan tingkat neutron latar sampel plutonium. Desain senjata plutonium awal yang diberi kode nama "[[Bom nuklir Thin Man|Thin Man]]" terpaksa dibatalkan karena peningkatan jumlah neutron spontan akan meningkatkan probabilitas terjadinya pra-detonasi.
+
+Desain senjata plutonium yang dikerjakan di Los Alamos kemudian diubah menjadi bentuk implosi yang lebih rumit, diberi kode nama "[[Fat Man]]." Senjata implosi (''implosion'') ini memiliki desain plutonium berbentuk bola padat yang dikompres menjadi bertekanan tinggi dengan lensa yang mudah meledak.<ref name="AtomicTimeline"/>
+
+Konstruksi [[reaktor B]] Hanford, reaktor nuklir berskala industri yang pertama, diselesaikan pada Maret 1945.<ref name=100B>
+{{cite book
+|title = History of 100-B Area
+|publisher = Westinghouse Hanford Company
+|location = Richland, Washington
+|id = WHC-EP-0273
+|last = Wahlen
+|first = R.K.
+|year = 1989
+|pages = iv, 1
+|url = http://www.hanford.gov/doe/history/files/HistoryofBArea.pdf
+|format = PDF
+|accessdate = 2009-02-15
+}}</ref> Reaktor B memproduksi bahan fisil yang digunakan untuk senjata plutonium yang digunakan semasa Perang Dunia II.<ref group=catatan>The American Society of Mechanical Engineers (ASME) established B Reactor as a National Historic Mechanical Engineering Landmark in September 1976.
+:{{cite book
+|title = History of 100-B Area
+|publisher = Westinghouse Hanford Company
+|location = Richland, Washington
+|id = WHC-EP-0273
+|last = Wahlen
+|first = R.K.
+|year = 1989
+|page = 1
+|url = http://www.hanford.gov/doe/history/files/HistoryofBArea.pdf
+|format = PDF
+|accessdate = 2009-02-15
+}}</ref>
+
+=== Bom atom ''Trinity'' dan ''Fat Man'' ===
+[[Berkas:Fission bomb assembly methods.svg|right|thumb|Oleh karena keberadaan Pu-240 pada plutonium yang dihasilkan oleh reaktor, desain implosi dikembangkan pada senjata "[[Fat Man]]" dan ''[[Uji Trinity test|Trinity]]"]]
+
+Uji bom atom pertama, diberi kode nama [[Uji Trinity|"Trinity"]] dan didetonasi pada 16 Juli 1945 dekat [[Alamogordo, New Mexico]], menggunakan plutonium sebagai bahan fisilnya.<ref name = "Miner1968p541"/> Desain implosi senjata ini menggunakan lensa-lensa peledak yang digunakan untuk mengompres bola plutonium agar mencapai massa superkritis. Bola plutonium tersebut kemudian dihujani neutron yang dihasilkan oleh inisiator yang dibuat dari [[berilium]] dan [[polonium]].<ref name = "Emsley2001"/> Dengan demikian, ia akan menjamin terjadinya reaksi berantai dan ledakan. Keseluruhan senjata ini memiliki berat lebih dari 4 ton, walaupun plutonium yang digunakan pada inti senjata hanyalah seberat 6,2&nbsp;kg.<ref>{{cite web
+ | first = Carey
+ | last = Sublette
+ | work = Nuclear Weapons Frequently Asked Questions
+ | url = http://nuclearweaponarchive.org/Nwfaq/Nfaq8.html#nfaq8.1.1
+ | title = 8.1.1 The Design of Gadget, Fat Man, and "Joe 1" (RDS-1)
+ | accessdate = 200-01-04
+ | date = 2007-07-03
+ | edition = 2.18
+ | publisher = The Nuclear Weapon Archive
+ }}</ref>Sekitar 20% plutonium yang digunakan dalam senjata Trinity menjalani fisi, menghasilkan ledakan dengan energi setara dengan kira-kira 20.000 ton [[Trinitrotoluena|TNT]].<ref name="yield">{{cite book
+|first = John
+|last = Malik
+|url = http://www.fas.org/sgp/othergov/doe/lanl/docs1/00313791.pdf
+|title = The Yields of the Hiroshima and Nagasaki Explosions
+|publisher = Los Alamos
+|id = LA-8819
+|date = September 1985
+|page = Table VI
+|accessdate = 2009-02-15
+ }}</ref><ref group="catatan" name="efficiency">Perhitungan efisiensi ini didasarkan pada fakta bahwa fisi 1&nbsp;kg Pu-239 (ataupun U-235) menghasilkan pelepasan energi yang setara dengan 17 kiloton TNT,
+:{{cite web
+ | authorlink = Richard Garwin
+ | url = http://www.fas.org/rlg/PNWM_UMich.pdf
+ | title = Proliferation of Nuclear Weapons and Materials to State and Non-State Actors: What It Means for the Future of Nuclear Power
+ | work = University of Michigan Symposium
+ | date = 2002-10-04
+ | publisher = Federation of American Scientists
+ | accessdate = 2009-01-04
+ }}</ref>
+
+Desain identik yang digunakan pada bom atom "[[Fat Man]]" dijatuhkan ke [[Nagasaki, Nagasaki|Nagasaki, Jepang]] pada 9 Agustus 1945, menewaskan 70.000 orang dan mencederai 100.000 lainnya.<ref name = "Emsley2001"/> Bom "[[Little Boy]]" yang dijatuhkan ke [[Hiroshima]] tiga hari sebelumnya menggunakan [[uranium-235]], dan bukannya plutonium. Jepang menyerah tanpa syarat pada 15 Agustus, secara efektif mengakhiri perang. Hanya setelah pengumuman bom atom pertama inilah keberadaan unsur plutonium diberitakan kepada publik.
+
+=== Penggunaan pada Perang Dingin dan limbah nuklir ===
+Sejumlah besar timbunan plutonium tingkat senjata diproduksi oleh [[Uni Soviet]] dan [[Amerika Serikat]] selama [[Perang Dingin]]. Reaktor-reaktor milik Amerika Serikat di Hanford dan [[Savannah River Site]] di Carolina Selatan memproduksi 103&nbsp;ton plutonium,<ref>
+{{cite book
+|title = Historic American Engineering Record: B Reactor (105-B Building)
+|author = DOE contributors
+|publisher = U.S. Department of Energy
+|url = http://www.fas.org/sgp/othergov/doe/pu50yb.html#ZZ13
+|year = 2001
+|location = Richland (WA)
+|page = 110
+|id = DOE/RL-2001-16
+|accessdate = 2008-12-24
+}}</ref> dan diperkirakan 170 ton lainnya diproduksi di Rusia.<ref>
+{{cite conference
+ | title = Safeguarding nuclear weapons-usable materials in Russia
+ | url = http://docs.nrdc.org/nuclear/nuc_06129701a_185.pdf
+ | first = Thomas B.
+ | last = Cochran
+ | conference = International Forum on Illegal Nuclear Traffic
+ | publisher = Natural Resources Defense Council, Inc
+ | location = Washington (DC)
+ | year = 1997
+ | accessdate = 2008-12-21
+}}</ref><ref group = catatan>Kebanyakan plutonium ini digunakan untuk membuat inti senjata termonuklir [[desain Teller-Ulam|Teller-Ulam]]. Senjata yang disebut sebagai 'bom hidrogen' ini merupakan varian senjata nuklir yang menggunakan bom fisi untuk memicu [[fusi nuklir]] [[hidrogen]] berat. Kerusakan yang disebabkan oleh senjata ini umumnya setara dengan jutaan ton TNT, bandingkan dengan senjata nuklir yang hanya menggunakan fisi nuklir dan menghasilkan kerusakan setara dengan ribuan ton TNT.{{harv|Emsley|2001}}</ref> Setiap tahun, sekitar 20 ton unsur ini masih diproduksi sebagai produk samping industri [[tenaga nuklir]].<ref name = "CRC2006p4-27">{{harvnb|CRC|2006|p = 427}}</ref> Sebanyak 1000 ton plutonium masih dalam penyimpanan, dengan 200 ton di antaranya berada di dalam atau diekstraksi dari senjata nuklir.<ref name = "Emsley2001"/>
+
+[[Berkas:Yucca Mountain emplacement drifts.jpg|thumb|Desain terowongan penyimpan limbah nuklir yang diajukan untuk pusat penyimpanan limbah nuklir [[Gunung Yucca]].]]
+Sejak berakhirnya Perang Dunia, timbunan plutonium ini telah menjadi fokus utama [[proliferasi nuklir]]. Di Amerika Serikat, beberapa plutonium yang diekstraksi dari senjata nuklir yang telah dibongkar dilebur menjadi dalam bentuk gelondongan gelas plutonium oksida seberat dua ton.<ref name = "Emsley2001"/> Gelas ini dibuat dari [[borosilikat]] yang dicampur dengan [[kadmium]] dan [[gadolinium]].<ref group = catatan>[[Gadolinium zirkonium oksida]] ({{chem|Gd|2|Zr|2|O|7}}) juga telah dikaji karena ia dapat menampung plutonium selama 30 juta tahun.{{harv|Emsley|2001}}</ref> Gelondongan-gelodongan ini direncanakan ditutup dengan [[baja]] dan di simpan di lubang bawah tanah sejauh 4&nbsp;km yang ditopang oleh [[beton]].<ref name = "Emsley2001"/> Sampai dengan tahun 2008, hanya tempat penyimpanan limbah nuklir Gunung Yucca yang dijadwalkan untuk menyimpan plutonium dengan cara demikian.<ref>{{cite web
+ | url= http://www.whitehouse.gov/news/releases/2002/07/20020723-2.html
+ | archiveurl= http://web.archive.org/web/20080306193653/http://www.whitehouse.gov/news/releases/2002/07/20020723-2.html
+ | archivedate= 2008-03-06
+ | title= President Signs Yucca Mountain Bill
+ | publisher = The White House
+ | author = Press Secretary
+ | location = Washington (DC)
+ | date= July 23, 2002 |work= | publisher= Office of the Press Secretary, White House
+ | accessdate= 2009-01-04 }}</ref> Berbagai penentangan terhadap rencana ini telah menunda usaha penyimpanan limbah nuklir di Gunung Yucca ini.
+
+=== Percobaan medis ===
+Semasa dan setelah berakhirnya Perang Dunia II, para ilmuwan yang terlibat dalam Proyek Manhattan dan proyek-proyek riset senjata nuklir lainnya melakukan berbagai kajian pada efek plutonium terhadap hewan dan manusia.<ref name = "Injection"/> Pada kajian hewan, ditemukan bahwa beberapa miligram plutonium per kilogram jaringan tubuh merupakan dosis yang mematikan.<ref name="PuHealth"/>
+
+Sedangkan pada kasus percobaan pada manusia, disuntikkan larutan yang mengandung lima mikrogram plutonium ke tubuh pasien rumah sakit yang telah menderita sakit parah ataupun yang memiliki tingkat harapan hidup yang lebih kecil dari sepuluh tahun baik oleh karena usia maupun kondisi penyakit yang kronis.<ref name = "Injection"/> Kadar suntikan ini diturunkan menjadi satu mikrogram pada Juli 1945 setelah dari data percobaan hewan, ditemukan bahwa cara plutonium mendistribusikan dirinya pada tulang ternyata lebih berbahaya daripada [[radium]].<ref name="PuHealth">{{cite journal
+ | title = Plutonium and Health: How great is the risk?
+ | journal = Los Alamos Science
+ | year = 2000
+ | issue = 26
+ | pages = 7879
+ | last = Voelz
+ | first = George L.
+ | location = Los Alamos (NM)
+ | publisher = Los Alamos National Laboratory
+ }}</ref>
+
+Delapan belas subjek percobaan manusia disuntikkan plutonium tanpa sepengetahuan mereka.<ref name = "Injection"/> Percobaan ini dilakukan untuk mengembangkan alat diagnostik yang dapat menentukan kadar penyerapan plutonium dalam tubuh, sehingga dapat dikembangkan sebuah standar keamaan pekerjaan yang melibatkan plutonium.<ref name = "Injection">
+{{cite journal
+ | journal = Los Alamos Science
+ | title = The Human Plutonium Injection Experiments
+ | url = http://library.lanl.gov/cgi-bin/getfile?00326640.pdf
+ | accessdate = 2006-06-06
+ | year = 1995
+ | first = William
+ | last = Moss
+ | coauthors = Eckhardt, Roger
+ | volume = 23
+ | pages = 188, 205, 208, 214
+ | format = PDF
+ | publisher = Los Alamos National Laboratory
+}}</ref>
+
+Pada zaman sekarang, percobaan pada manusia ini dianggap sebagai pelanggaran kode etik kedokteran dan [[sumpah Hippokrates]] yang serius.
+
+== Penerapan ==
+=== Bahan peledak ===
+[[Berkas:Nagasakibomb.jpg|thumb|150px|[[Pengeboman atom Hiroshima dan Nagasaki|Bom atom yang dijatuhkan ke Nagasaki, Jepang]] pada tahun 1945 mempunyai inti plutonium.]]
+Oleh karena kemudahan isotop Pu-239 menjalani fisi dan ketersediaannya, ia merupakan komponen fisil utama dalam pembuatan [[senjata nuklir]]. Dengan membungkus bola plutonium padat dengan pemadat (lapisan tambahan yang dibuat dari bahan-bahan padat) akan menurunkan jumlah plutonium yang diperlukan untuk mencapai [[massa kritis]] dengan memantulkan kembali neutron yang lolos kembali ke inti plutonium. Hal ini akan menurunkan jumlah plutonium yang diperlukan dari 16&nbsp;kg menjadi 10&nbsp;kg, berupa bola berdiameter 10&nbsp;cm.<ref>
+{{cite book
+|title = Physics for Radiation Protection
+|last = Martin
+|first = James E.
+|year = 2000
+|publisher = Wiley-Interscience
+|isbn = 0471353736
+|edition = 1st
+|page = 532
+}}</ref> Massa kritis ini adalah sekitar sepertiga daripada massa kritis U-235.<ref name = "Heiserman1992"/>
+
+Bom plutonium jenis "[[Fat Man]]" yang diproduksi semasa [[Proyek Manhattan]] menggunakan kompresi eksplosif plutonium untuk mendapatkan tingkat densitas plutonium yang lebih besar daripada biasanya dan menggabungkannya dengan sumber neutron untuk memulai reaksi dan meningkatkan efisiensi. Sehingga, hanya diperlukan 6,2&nbsp;kg plutonium untuk mendapatkan [[Daya ledak senjata nuklir|daya ledak]] yang setara dengan 20 kiloton [[Trinitrotoluena|TNT]].<ref name="yield"/><ref name = "FASdesign">
+{{cite web
+ | url = http://www.fas.org/nuke/intro/nuke/design.htm
+ | title = Nuclear Weapon Design
+ | publisher = Federation of American Scientists
+ | year = 1998
+ | accessdate = 2008-12-07
+ | author = FAS contributors
+}}</ref> Secara teoritis, hanya diperlukan sejumlah kecil 4&nbsp;kg plutonium (atau bahkan lebih kecil dari itu) untuk membuat bom atom dengan desain perakitan yang canggih.<ref name = "FASdesign"/>
+
+=== Penggunaan limbah nuklir ===
+[[PUREX]] (''P''lutonium''UR''anium ''EX''traction) memroses ulang [[bahan bakar nuklir]] yang telah digunakan untuk mengekstraksi uranium dan plutonium dalam bentuk bahan bakar oksida campuran ([[Bahan bakar MOX|MOX]]) yang dapat digunakan kembali dalam reaktor nuklir. Plutonium tingkat senjata dapat kemudian ditambahkan ke campuran bahan bakar tersebut. Bahan bakar MOX digunakan pada [[reaktor air ringan]] dan terdiri dari 60&nbsp;kg plutonium per ton bahan bakar. Setelah empat tahun, tiga per empat plutonium tersebut akan telah habis digunakan (berubah menjadi unsur lain).<ref name = "Emsley2001"/> [[Reaktor pembiak]] secara spesifik dirancang untuk mendapatkan bahan fisil dengan laju yang lebih cepat daripada laju konsumsi bahan tersebut.
+
+Bahan bakar MOX telah digunakan sejak tahun 1980-an dan secara luas digunakan di Eropa.<ref>
+{{cite web
+ | author = WNA contributors
+ | url = http://213.198.118.156/info/inf29.htm
+ | title = Mixed Oxide Fuel (MOX)
+ | year = 2006
+ | location = London (UK)
+ | publisher = World Nuclear Association
+ | accessdate = 2008-12-14
+}}</ref> Pada bulan September 2000, Amerika Serikat dan [[Rusia]] menandatangani Perjanjian Pengelolaan dan Disposisi Plutonium (''Plutonium Management and Disposition Agreement'') yang mana masing-masing pihak setuju untuk membuang 34&nbsp;ton plutonium tingkat senjata.<ref name = USMOX>
+{{cite book
+|title = Plutonium Storage at the Department of Energy's Savannah River Site: First Annual Report to Congress
+|publisher = Defense Nuclear Facilities Safety Board
+|year = 2004
+|pages = A1
+|author = DNFSB staff
+|chaptertitle = Public Law 107-314, Subtitle E
+|url = http://www.dnfsb.gov/pub_docs/dnfsb/rc_200406.pdf
+|format = PDF
+|accessdate = 2009-02-15
+}} (public domain text)</ref> Departemen Energi AS berencana membuang 34 ton plutonium tingkat senjata sebelum akhir 2019 dengan mengubahnya menjadi bahan bakar MOX yang dapat digunakan pada reaktor nuklir komersial.<ref name = USMOX/>
+
+Efisiensi juga bisa didapatkan melalui pemrosesan ulang, yakni batangan bahan bakar diproses untuk menghilangkan produk limbah yang mencapai 3% berat total batangan tersebut setelah tiga tahun penggunaan.<ref name = "Emsley2001"/> Isotop uranium dan plutonoum apapun yang dihasilkan selama tiga tahun tersebut ditinggalkan dan batangan tersebut kembali digunakan.<ref group = catatan>Komposisi plutonium pada batangan bahan bakar nuklir bekas: Pu-239 (~58%), Pu-240 (24%), Pu-241 (11%), Pu-242 (5%), dan Pu-238 (2%). {{harv|Emsley|2001}}</ref> Namun, keberadaan 1% [[galium]] per massa plutonium tingkat senjata memiliki potensi membatasi operasi jangka panjang reaktor air ringan.<ref>
+{{cite journal
+ | title = Thermochemical Behavior of Gallium in Weapons-Material-Derived Mixed-Oxide Light Water Reactor (LWR) Fuel
+ | first = Theodore M.
+ | last = Besmann
+ | journal = Journal of the American Ceramic Society
+ | volume = 81
+ | issue = 12
+ | pages = 30713076
+ | year = 2005
+ | url =
+ | doi = 10.1111/j.1151-2916.1998.tb02740.x
+}}<!-- {{doi|10.1007/BF02881277}}--></ref>
+
+<sup>241</sup>Am baru-baru ini telah diajukan untuk digunakan sebagai agen detanurasi batangan bahan bakar reaktor dengan membuat bahan bakar tersebut tidak dapat digunakan kembali lagi untuk konversi [[senjata nuklir]].<ref>{{cite news|title = BGU combats nuclear proliferation|url = http://fr.jpost.com/servlet/Satellite?cid=1235898328437&pagename=JPost/JPArticle/ShowFull|accessdate = 2009-03-05}}</ref>
+
+=== Sumber tenaga dan panas ===
+[[Berkas:Plutonium pellet.jpg|thumb|150px|Pelet <sup>238</sup>PuO<sub>2</sub> yang berpijar]]
+Isotop [[plutonium-238]] (Pu-238) memiliki umur paruh 87,5&nbsp;tahun. Ia memancarkan sejumlah besar [[energi termal]] dengan tingkat pancaran [[sinar gama]] dan partikel [[fisi spontan|neutron spontan]] yang rendah.<ref name="pumper">{{cite journal
+ | url = http://arq.lanl.gov/source/orgs/nmt/nmtdo/AQarchive/05spring/heart.html
+ | journal = Actinide Research Quarterly
+ | title = From heat sources to heart sources: Los Alamos made material for plutonium-powered pumper
+ | author = ARQ contributors
+ | location = Los Alamos (NM)
+ | publisher = Los Alamos National Laboratory
+ | issue = 1
+ | year = 2005
+ | accessdate = 2009-02-15
+ }}</ref> Sebagai pemancar [[partikel alfa]], ia memancarkan radiasi berenergi tinggi dengan tingkat penetrasi yang rendah, sehingga hanya diperlukan pemerisaian yang minimal. Selembar kertas dapat digunakan untuk memerisai partikel alfa yang dipancarkan oleh Pu-238 manakala satu [[kilogram]] isotop ini dapat menghasilkan 22&nbsp;juta&nbsp;kilowat jam energi panas.<ref name = "Heiserman1992"/><ref name="pumper"/>
+
+Sifat-sifat ini membuat isotop Pu-238 sangat cocok digunakan sebagai sumber listrik peralatan yang harus berfungsi tanpa pemeliharaan secara langsung selama seumur hayat manusia. Oleh karenanya, ia digunakan dalam [[pembangkit termolistrik radioisotop]] dan [[unit pemanas radioisotop]] yang digunakan pada misi penjelajahan luar angkasa [[CassiniHuygens|Cassini]], [[Voyager]] dan [[New Horizons]].
+
+Plutonium-238 juga telah sukses digunakan untuk menenagai pemacu jantung buatan, sehingga mengurangi risiko pembedahan ulang.<ref>
+{{cite journal
+ | url = http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1502062
+ | title = Trends in Cardiac Pacemaker Batteries
+ | author = Venkateswara Sarma Mallela; V. Ilankumaran; and N.Srinivasa Rao
+ | journal = Indian Pacing Electrophysiol
+ | year = 2004
+ | accessdate = 2008-12-14
+ | pages = 201212
+ | issue = 4
+ | id = {{PMC|1502062}}
+ | pmid = 16943934
+ | volume = 4
+ | month = Jan
+ | day = 01
+}}</ref><ref>[http://www.orau.org/ptp/collection/Miscellaneous/pacemaker.htm Defunct pacemakers with Pu power source]</ref> Ia umumnya telah digantikan dengan sel primer berbasis [[litium]]. Namun, sampai dengan tahun 2003, masih terdapat sekitar 50 sampai dengan 100 pemacu jantung yang ditenagai plutonium yang masih ditanam dan berfungsi.<ref>
+{{cite web
+ | url = http://www.orau.org/PTP/collection/Miscellaneous/pacemaker.htm
+ | title = Plutonium Powered Pacemaker
+ | location = Oak Ridge (TN)
+ | publisher = Orau.org
+ | year = 1974
+ | author = ORAU contributors
+ | accessdate = 2008-09-12
+}}</ref> Plutonium-238 yang dicampur dengan berilium digunakan untuk menghasilkan neutron untuk tujuan riset.<ref name = "Emsley2001"/>
+
+== Wewanti ==
+=== Toksisitas ===
+Isotop dan senyawa plutonium sangat beracun oleh karena radioaktivitasnya.<ref name = "ATSDR">
+{{cite web
+ | author = ATSDR contributors
+ | publisher = U.S. Department of Health and Human Services, Agency for Toxic Substances and Disease Registry (ATSDR)
+ | url = http://www.atsdr.cdc.gov/toxprofiles/tp143.html
+ | title = Toxicological Profile for Plutonium, Draft for Public Comment
+ | year = 2007
+ | accessdate = 2008-05-22 
+}}</ref> Dari sudut pandang [[toksisitas]] kimiawi, [[arsen]] dan [[sianida]] lebih beracun daripada plutonium, dan plutonium sama beracunnya dengan [[kafeina]].<ref>Cohen, Bernard L. (1985). Karl Otto Ott and Bernard I. Spinrad, eds. ed. ''Nuclear Energy'' (New York (NY): Plenum Press): 355365.</ref><ref name = "world-nuclear">
+{{cite web
+|author = WNA contributors
+|url = http://www.world-nuclear.org/info/inf15.html
+|title = Plutonium
+|location = London (UK)
+|publisher = World Nuclear Association
+|year = 2008
+|accessdate = 2008-05-22
+}}</ref>
+
+Plutonium lebih berbahaya ketika terhirup daripada tertelan. Risiko [[kanker paru-paru]] meningkat seketika radiasi yang terhirup melebihi 400 [[sievert|mSv]].<ref name="Brown">{{cite journal | last=Brown | first=SC | coauthors=Schonbeck MF, McClure D et al. | title=Lung cancer and internal lung doses among plutonium workers at the Rocky Flats Plant: a case-control study | journal=American Journal of Epidemiology | volume=160 | issue=2 | pages=163172 | publisher=Oxford Journals | date=July 2004 | url=http://aje.oxfordjournals.org/cgi/content/full/160/2/163 | pmid=15234938 | accessdate=2009-02-15 | doi=10.1093/aje/kwh192 }}</ref> Ia tidak akan diserap ke dalam tubuh secara efisien apabila tertelan; hanya sekitar 0,04% plutonium oksida yang diserap setelah ditelan.<ref name = "Emsley2001"/> Ketika plutonium diserap ke dalam tubuh, ia akan diekskresikan dengan sangat lambat, dengan [[waktu paruh hayati]] selama 200 tahun.<ref>
+{{cite web
+ | author = DOE staff
+ | title = Radiological control technical training
+ | id = DOE-HDBK-1122-99
+ | publisher = U.S. Department of Energy
+ | url = http://hss.energy.gov/NuclearSafety/techstds/standard/hdbk1122-04/part9of9.pdf
+ | archiveurl = http://web.archive.org/web/20070630190114/http://hss.energy.gov/NuclearSafety/techstds/standard/hdbk1122-04/part9of9.pdf
+ | archivedate = 2007-06-30
+ | accessdate = 2008-12-14
+}}</ref> Plutonium mempunyai rasa seperti logam.<ref>
+{{cite book
+|last = Welsome
+|first = Eileen
+|authorlink =
+|coauthors =
+|title = The Plutonium Files: America's Secret Medical Experiments in the Cold War
+|publisher = Random House
+|year = 2000
+|location = New York (NY)
+|url =
+|doi =
+|isbn = 0-385-31954-1
+|page = 17
+}}</ref>
+
+Radiasi [[partikel alfa|alfa]] yang dipancarkan plutonium tidak dapat menembus kulit, namun dapat mengiradiasi organ-organ dalam ketika plutonium terhirup ataupun tertelan.<ref name = "Emsley2001"/> Orang tubuh yang paling berisiko terkena iradiasi adalah [[tulang]] (di mana ia paling berkemungkinan diserap ke permukaan tulang) dan [[hati]] (di mana ia dikumpulkan dan menjadi terkonsentrasi).<ref name = "Miner1968p545"/>
+
+Plutonium dalam jumlah yang sangat besar dapat menyebabkan [[keracunan radiasi]] yang akut dan kematian jika ditelan ataupun dihirup; namun, sampai sekarang tidak ada satupun manusia yang diketahui meninggal oleh karena menghirup ataupun menelan plutonium. Selain itu banyak orang mempunyai sejumlah kecil plutonium yang dapat dideteksi dalam tubuh mereka.<ref name = "world-nuclear"/>
+
+=== Massa kritis ===
+[[Berkas:Partially-reflected-plutonium-sphere.jpeg|thumb|Reka ulang percobaan yang dilakukan oleh Harry Daghlian dengan bola plutonium yang dikelilingi oleh [[wolfram karbida]] yang dapat memantulkan neutron]]
+Selain permasalahan pada toksisitas plutonium, akumulasi sejumlah plutonium yang mencapai [[massa kritis]] juga harus dihindari, terutama karena massa kritis plutonium hanyalah sepertiga daripada massa kritis uranium-235.<ref name = "Heiserman1992"/> Plutonium yang mencapai massa kritis akan memancarkan sejumlah [[neutron]] dan [[sinar gama]] dalam kadar yang mematikan.<ref name = "Miner1968p546">{{harvnb|Miner|1968|p = 546}}</ref> Plutonium dalam larutan lebih berkemungkinan membentuk massa kritis daripada plutonium dalam bentuk padatan.<ref name = "CRC2006p4-27"/>
+
+Dalam sejarahnya, telah terjadi beberapa kecelakaan yang melibatkan pembentukan massa kritis ini. Penanganan yang tidak hati-hati pada bata [[wolfram karbida]] yang diletakkan di sekitar 6,2&nbsp;kg bola plutonium menyebabkan radiasi dengan dosis fatal pada tanggal 21 Agustus 1945 di [[Los Alamos National Laboratory|Los Alamos]], yang mana ilmuwan [[Harry K. Daghlian, Jr.]] menerima dosis yang diperkirakan setara dengan 5,1&nbsp;[[Sievert]] dan meninggal 28 hari sesudahnya.<ref>
+{{cite book
+|url = http://www.lanl.gov/news/index.php/fuseaction/home.story/story_id/1054/view/print
+|title = Criticality accidents report issued
+|publisher = Los Alamos National Laboratory
+|location = Los Alamos (NM)
+|accessdate = 2008-11-16
+|year = 2000
+|last = Roark|first = Kevin N.
+}}</ref> Sembilan bulan kemudian, ilmuwan Los Alamos lainnya, [[Louis Slotin]], juga meninggal dalam kecelakaan yang melibatkan reflektor berilium dan inti plutonium yang sama, yang sebelumnya telah menyebabkan kematian Daghlian (bola plutonium ini kemudian diberi nama panggilan "demon core").<ref>
+{{cite web
+ | url = http://www.lanl.gov/history/people/R_Schreiber.shtml
+ | title = Raemer Schreiber
+ | work = Staff Biographies
+ | publisher = Los Alamos National Laboratory
+ | location = Los Alamos (NM)
+ | author = LANL contributors
+ | accessdate = 2008-11-16
+}}</ref> Insiden ini kemudian diangkat ke dalam film tahun 1989 ''[[Fat Man and Little Boy]]''.
+
+Pada bulan Desember 1958, selama proses pemurnian plutonium di Los Alamos, massa kritis terbentuk di dalam tabung pencampuran, menyebabkan kematian operator derek.<ref name = "CriticalityAccidents">
+{{cite journal
+ | title = A Review of Criticality Accidents
+ | id = LA-13638
+ | publisher = Los Alamos National Laboratory
+ | location = Los Alamos (NM)
+ | year = 2000
+ | page = 16
+ | last = McLaughlin
+ | first = Thomas P.
+ | coauthors = Monahan, Shean P.; Pruvost, Norman L.
+}}</ref> Selain itu, kecelakaan nuklir lainnya juga pernah terjadi di [[Uni Soviet]], [[Jepang]], dan negara-negara lainnya.<ref name = "CriticalityAccidents"/>
+
+=== Kemudahbakaran ===
+Logam plutonium juga merupakan bahan yang mudah terbakar. Ia akan bereaksi dengan oksigen dan air, yang akan menyebabkan akumulasi [[plutonium hidrida]]. Plutonium hidrida merupakan bahan piroforik dan akan menyala ketika terkena udara bebas pada suhu kamar. Plutonium akan mengembang melebihi 70% volume awal ketika ia teroksidasi, sehingga dapat merusak wadah penampung. Pasir magnesium oksida merupakan bahan yang paling efektif dalam memadamkan api plutonium. Ia mendinginkan bahan yang terbakar, dan bekerja sebagai [[sungap panas]] (''heat sink'') serta memblok oksigen. Untuk menghindari terjadinya kebakaran, penanganan yang khusus perlu diterapkan. Umumnya diperlukan penanganan dalam atomosfer inert.<ref>
+{{cite web
+ | url = http://www.hss.energy.gov/NuclearSafety/techstds/standard/hdbk1081/hbk1081d.html#ZZ281
+ | archiveurl = http://web.archive.org/web/20070428220410/http://www.hss.energy.gov/NuclearSafety/techstds/standard/hdbk1081/hbk1081d.html#ZZ281
+ | archivedate = 2007-04-28
+ | title = Primer on Spontaneous Heating and Pyrophoricity&nbsp;  Pyrophoric Metals&nbsp;  Plutonium
+ | author = DOE contributors
+ | publisher = U.S. Department of Energy, Office of Nuclear Safety, Quality Assurance and Environment
+ | id = DOE-HDBK-1081-94
+ | year = 1994
+ | location = Washington (DC)
+}}</ref>
+
+== Lihat pula ==
+* [[Depleted uranium]]
+* [[Teknik nuklir]]
+* [[Putaran bahan bakar nuklir]]
+* [[Fisika nuklir]]
+* [[Reaktor nuklir]]
+* [[Senjata nuklir]]
+
+== Catatan kaki ==
+{{reflist|group=catatan}}
+
+== Referensi ==
+{{reflist|3}}
+* [http://pearl1.lanl.gov/periodic/elements/94.html Los Alamos National Laboratory's Chemistry Division: Periodic Table - Plutonium]
+
+== Bibliografi ==
+<!-- Only list books (hence section title) used as references here -->
+* <!-- CRC -->{{cite book
+|author = CRC contributors
+|title = Handbook of Chemistry and Physics
+|editor = David R. Lide
+|edition = 87th
+|year = 2006
+|publisher = CRC Press, Taylor & Francis Group
+|location = Boca Raton (FL)
+|isbn = 0849304873
+|ref = CITEREFCRC2006}}
+* <!-- Em -->{{cite book
+|title = Nature's Building Blocks: An A-Z Guide to the Elements
+|last = Emsley
+|first = John
+|publisher = Oxford University Press
+|year = 2001
+|location = Oxford (UK)
+|isbn = 0198503407
+|chapter = Plutonium
+|pages = 324329
+|ref = CITEREFEmsley2001}}
+* <!-- Gr -->{{cite book
+|last = Greenwood
+|first = N. N.
+|coauthors = Earnshaw, A.
+|title = Chemistry of the Elements
+|edition = 2nd
+|publisher = Butterworth-Heinemann
+|location = Oxford (UK)
+|year = 1997
+|isbn = 0-7506-3365-4
+|page =
+|chapter =
+|ref = CITEREFGreenwood1997}}
+* <!-- He -->{{cite book
+|last = Heiserman
+|first = David L.
+|title = Exploring Chemical Elements and their Compounds
+|location = New York (NY)
+|year = 1992
+|publisher = TAB Books
+|isbn = 0-8306-3018-X
+|chapter = Element 94: Plutonium
+|pages = 337340
+|ref = CITEREFHeiserman1992
+}}
+* <!-- M -->{{cite book
+|title = The Encyclopedia of the Chemical Elements
+|publisher = Reinhold Book Corporation
+|location = New York (NY)
+|year = 1968
+|editor = Clifford A. Hampel (editor)
+|id = LCCN 68-29938
+|last = Miner
+|first = William N.
+|coauthors = Schonfeld, Fred W.
+|chapter = Plutonium
+|pages = 540546
+|ref = CITEREFMiner1968
+}}
+* <!-- Sw -->{{cite book
+|title = Guide to the Elements
+|edition = Revised
+|first = Albert
+|last = Stwertka
+|publisher = Oxford University Press
+|year = 1998
+|chapter = Plutonium
+|pages =
+|isbn = 0-19-508083-1
+|location = Oxford (UK)
+|ref = CITEREFStwertka1998
+}}
+
+== Pranala luar ==
+* [http://www.llnl.gov/csts/publications/sutcliffe/ "A Perspective on the Dangers of Plutonium" by Lawrence Livermore National Laboratory]
+* [http://www.ccnr.org/index_plute.html Collection of articles on plutonium at the Canadian Coalition for Nuclear Responsibility]
+* [http://russp.org/BLC-3.html The Myth of Plutonium Toxicity]
+* [http://www.lanl.gov/worldview/news/releases/archive/00-099.shtml Criticality Accidents Report Issued]
+* [http://www.globalsecurity.org/wmd/library/report/crs/97-564.htm Nuclear Weapons: Disposal Options for Surplus Weapons-Usable Plutonium]
+* [http://www-cms.llnl.gov/s-t/pu-phase_diagram.html Unraveling the Phase Diagram of Plutonium]
+* [http://www.ieer.org/fctsheet/pu-props.html Physical, Nuclear, and Chemical, Properties of Plutonium] from IEER
+* [http://periodic.lanl.gov/elements/94.html Los Alamos National Laboratory  Plutonium]
+* [http://education.jlab.org/itselemental/ele094.html It's Elemental  Plutonium]
+* [http://consolidationeis.doe.gov/PDFs/PlutoniumANLFactSheetOct2001.pdf DOE Plutonium fact sheet (PDF)]
+* ''[http://www.discover.com/issues/nov-05/features/end-of-plutonium/ End of the Plutonium Age]'', D. Samuels, Discover Magazine, vol. 26, no. 11 (November, 2005).
+* [http://www.webelements.com/webelements/elements/text/Pu/index.html WebElements.com  Plutonium]
+* [http://environmentalchemistry.com/yogi/periodic/Pu.html EnvironmentalChemistry.com  Plutonium] (JavaScript required)
+* [http://www.fas.org/nuke/intro/nuke/plutonium.htm Federation of American Scientists  Plutonium production]
+* [http://nuclearweaponarchive.org/Library/Plutonium/ nuclearweaponarchive.org  Plutonium Manufacture and Fabrication]
+* ''[http://www.edpsciences.org/journal/index.cfm?v_url=epl/full/2001/16/6673/6673.html Ambient pressure phase diagram of plutonium  A unified theory for -Pu and -Pu]'', P. Sderlind, Europhys. Lett., 55 (4), p.&nbsp;525 (2001).
+* [http://www.nuclearfiles.org/menu/key-issues/nuclear-energy/issues/world-plutonium-inventories-ong.htm Nuclear Files.org] Information regarding world plutonium inventories
+* [http://www.fas.org/sgp/othergov/doe/lanl/pubs/number26.htm "Challenges in Plutonium Science"]  Special issue of ''Los Alamos Science'' from 2000 dedicated to scientific work on plutonium.
+
+{{clr}}
+
+{{Tabel periodik unsur kimia}}
+
+[[Kategori:Unsur kimia]]
+[[Kategori:Aktinida]]
+[[Kategori:Bahan bakar]]
+[[Kategori:Plutonium| ]]
+[[Kategori:Unsur kimia sintetik]]
+[[Kategori:Karsinogen]]
+
+<!-- interwiki -->

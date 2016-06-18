@@ -1,0 +1,149 @@
+Capella
+{{Otheruses3|Capella}}
+{{Starbox 2
+| name = Capella Aa/Ab
+| component_a = Aa
+| component_b = Ab
+| image=[[Berkas:Auriga constellation map.png|250px]] 
+| caption=Capella merupakan bintang paling terang di [[Auriga]]
+| epoch = [[J2000.0]]
+| equinox = [[J2000.0]] ([[International Celestial Reference System|ICRS]])
+| constell = [[Auriga]]
+| ra_system = {{RA|05|16|41.3591}}<ref name=sb0>{{SIMBAD link|alf+aur|NAME CAPELLA -- Variable of RS CVn type}}, database entry, [[SIMBAD]].  Accessed on line December 23, 2008.</ref>
+| dec_system = {{DEC|+45|59|52.768}}<ref name=sb0 />
+| appmag_v_system = 0.08&nbsp;&nbsp;&nbsp;{{br}}(0.03&nbsp;to&nbsp;0.16)<ref name=sb0 /><ref name=nsv1>NSV 1897, database entry, [http://www.sai.msu.su/groups/cluster/gcvs/gcvs/nsv/nsv.dat New Catalogue of Suspected Variable Stars, the improved version], Sternberg Astronomical Institute, Moscow, Russia.  Accessed on line December 23, 2008.</ref>
+| appmag_v_a = 0.91<ref name=kaler>[http://www.astro.uiuc.edu/~kaler/sow/capella.html Capella], ''Stars'', Jim Kaler.  Accessed on line December 23, 2008.</ref>
+| appmag_v_b = 0.76<ref name=kaler />
+| class_a = G8III/K0III<ref name=hummel94>Very high precision orbit of Capella by long baseline interferometry, C. A. Hummel et al., ''The Astronomical Journal'' '''107''', #5 (May 1994), pp. 18591867, {{doi|10.1086/116995}}, {{bibcode|1994AJ....107.1859H}}.  See 1 for spectral types, Table 1 for orbit, Table 5 for stellar parameters, and 6.3 for the age of the system.</ref>
+| class_b = G1III<ref name=hummel94 />
+| variable_system=[[RS Canum Venaticorum variable|RS CVn]]<ref name=sb0 />
+| u-b_system = +0.44<ref name=bsc2>[http://webviz.u-strasbg.fr/viz-bin/VizieR-5?-out.add=.&-source=V/50/catalog&recno=1708 HR 1708], database entry, The Bright Star Catalogue,  5th Revised Ed. (Preliminary Version), D. Hoffleit and W. H. Warren, Jr., [[Centre de Donnes astronomiques de Strasbourg|CDS]] ID [http://vizier.u-strasbg.fr/viz-bin/Cat?V/50 V/50].  Accessed on line December 23, 2008.</ref>
+| b-v_system = +0.80<ref name=bsc2 />
+| v-r_system = 0.3<ref name=sb0 />
+| r-i_system = +0.44<ref name=bsc2 />
+| radial_v_system = 29.19&nbsp;&nbsp;0.074<ref>Resolved double-lined spectroscopic binaries: A neglected source of hypothesis-free parallaxes and stellar masses, D. Pourbaix, ''Astronomy and Astrophysics Supplement'' '''145''' (August 2000), pp. 215222, {{doi|10.1051/aas:2000237}}, {{bibcode|2000A&AS..145..215P}}; see Table 2.</ref>
+| prop_mo_ra_system = 75.52<ref name=sb0 />
+| prop_mo_dec_system = 427.11<ref name=sb0 />
+| parallax = 77.29
+| p_error = 0.89
+| parallax_footnote = <ref name=sb0 />
+| absmag_v_system = 0.48
+| absmag_v_a = 0.35
+| absmag_v_b = 0.20
+| orbit_footnote=<ref name=hummel94 />
+| period_unitless=104.022&nbsp;&nbsp;0.002&nbsp;[[day|d]]
+| axis_unitless=56.47&nbsp;&nbsp;0.05&nbsp;[[arcsecond|mas]]
+| periastron=2447528.45&nbsp;&nbsp;0.02&nbsp;[[Julian date|JD]]
+| inclination=137.18&nbsp;&nbsp;0.05
+| node=40.8&nbsp;&nbsp;0.1
+| eccentricity=0.0000&nbsp;&nbsp;0.0002
+| mass_a = 2.69&nbsp;&nbsp;0.06<ref name=hummel94 />
+| mass_b = 2.56&nbsp;&nbsp;0.04<ref name=hummel94 />
+| radius_a = 12.2&nbsp;&nbsp;0.2<ref name=hummel94 />
+| radius_b = 9.2&nbsp;&nbsp;0.4<ref name=hummel94 />
+| luminosity_bolometric_a = 78.5&nbsp;&nbsp;1.2<ref name=hummel94 />
+| luminosity_bolometric_b = 77.6&nbsp;&nbsp;2.6<ref name=hummel94 />
+| temperature_a = 4940&nbsp;&nbsp;50<ref name=hummel94 />
+| temperature_b = 5700&nbsp;&nbsp;100<ref name=hummel94 />
+| rotational_v_a = 3<ref name=mewe01>CHANDRA-LETGS X-ray observations of Capella. Temperature, density and abundance diagnostics, R. Mewe et al., ''Astronomy and Astrophysics'' '''368''' (March 2001), pp. 888900, {{bibcode|2001A&A...368..888M}}, {{doi|10.1051/0004-6361:20010026}}; see 1.</ref>
+| rotational_v_b = 36<ref name=mewe01 />
+| rotation_a = 106&nbsp;&nbsp;3&nbsp;[[day|d]] <ref name=rotn>On the rotation period of Capella, K. G. Strassmeier et al., ''Astronomische Nachrichten'' '''322''', #2 (March 2001), pp. 115124, {{doi|10.1002/1521-3994(200106)322:2}}, {{bibcode|2001AN....322..115S}}.</ref>
+| rotation_b = 8.64&nbsp;&nbsp;0.09&nbsp;[[day|d]] <ref name=rotn />
+| metal_system = 40% Sun
+| age_system = 5.2&nbsp;&nbsp;10<sup>8</sup>&nbsp;&nbsp;<ref name=hummel94 />
+| names=Alhajoth, Capella, Hokulei, [[Bayer designation|&nbsp;Aurigae]], &nbsp;Aur, Alpha&nbsp;Aurigae, Alpha&nbsp;Aur, [[Flamsteed designation|13&nbsp;Aurigae]], 13&nbsp;Aur, [[Aitken Double Star Catalogue|ADS]]&nbsp;3841&nbsp;AP, [[Durchmusterung|BD]]+451077, [[Catalog of Components of Double and Multiple Stars|CCDM]]&nbsp;J05168+4559AP, [[Fifth Fundamental Catalogue|FK5]]&nbsp;193, [[Boss General Catalogue|GC]]&nbsp;6427, [[Gliese-Jahreiss catalogue|GJ]]&nbsp;194, [[Henry Draper Catalogue|HD]]&nbsp;34029, [[Hipparcos Catalogue|HIP]]&nbsp;24608, [[Bright Star Catalogue|HR]]&nbsp;1708, [[Index Catalogue of Visual Double Stars|IDS]]&nbsp;05093+4554&nbsp;AP, [[Luyten Two-Tenths catalogue|LTT]]&nbsp;11619, [[New Luyten Two-Tenths catalogue|NLTT]]&nbsp;14766, [[PPM Star Catalogue|PPM]]&nbsp;47925, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;40186, [[Washington Double Star Catalog|WDS]]&nbsp;05167+4600Aa/Ab.<ref name=sb0 /><ref name=bsc2 /><ref name=siriusmatters>''Sirius Matters'', Noah Brosch, Springer: 2008, ISBN 1-4020-8318-1, p. 46.</ref>
+| simbad_system=alf+aur
+| simbad_a=alf+aur+A
+| simbad_b=alf+aur+B
+}}
+'''Capella ( Aurigae /  Aur / Alpha Aurigae / Alpha Aur)''' adalah [[bintang]] yang paling terang di [[rasi]] [[Auriga]], tercerah keenam di langit malam dan tercerah ketiga in di langit utara setelah [[Arcturus]] dan [[Vega]]. Meskipun terlihat sebagai satu bintang, sebenarnya [[bintang]] ini terdiri dari dua [[bintang ganda]].
+
+Pasangan pertama merupakan bintang raksasa tipe G (''type-G giant stars''), keduanya memiliki radius 10 kali dari [[Matahari]]. Kedua bintang ini mendekati tahapan pendinginan dan akan mendekati tahapan sebagai bintang raksasa merah.
+
+Pasangan kedua terpisah sekitar 10,000 AU dari pasangan pertama dan merupakan pasangan [[bintang katai]] merah<ref>Capella, in ''The Hundred Greatest Stars'', James B. Kaler, Springer, 2002, ISBN 0-387-95436-8 (see 18); also {{doi|10.1007/0-387-21625-1_19}}.</ref> [[Bintang]] ini berjarak cukup dekat dengan [[Bumi]], yaitu 42 [[tahun cahaya]].
+
+== Etimologi ==
+
+Nama ''Capella'' berasal dari [[bahasa Latin]] ''Capra'' yang berarti ''kambing betina kecil'' ([[English language|English]]: ''female goat'').<ref name=allenp86>[http://books.google.com/books?id=5xQuAAAAIAAJ ''Star-names and Their Meanings''], Richard Hinckley Allen, New York: G. E. Stechert, 1899; see p. 86.</ref> Capella berada pada posisi bahu kiri sang pengendara [[kereta perang]], atau merupakan kambing yang digendong oleh sang pengendara kereta perang. Pada [[mitologi]] Yunani, bintang ini merepresentasikan seekor kambing [[Amalthea]] yang digendong oleh [[Jupiter (dewa)|Jupiter]].<ref name=schaafp152>Schaaf 2008, p. 152.</ref>
+
+Nama tradisional dari Capella adalah '''Alhajoth''' (juga disebut ''Alhaior'', ''Althaiot'', ''Alhaiset'', ''Alhatod'', ''Alhojet'', ''Alanac'', ''Alanat'', ''Alioc''), dimana nama ini berasal dari [[bahasa Arab]] {{lang|ar|}}, ''al-<sup>c</sup>ayyq.''<ref name=allen85>Allen 1899, p. 85.</ref> ''<sup>c</sup>Ayyq'' dan mungkin merupakan Arabisasi dari kata bahsa [[Yunani]]  ''aiks'' "kambing", kemudian menjadi  ''Aiga,'' "feminisme sang kambing".<ref name=allen87 />. Nama lain dari para astronom terdahulu adalah :
+
+{| class="wikitable"
+|-
+! nama lain
+! asal bahasa
+! arti
+|-
+| Al-Rkib || [[Bahasa Arab|Arab]] || pengendara<ref name=allen87>Allen 1899, p. 87.</ref>
+|-
+| Colca || [[Quechua]] || sandaran<ref name=allen88 /> 
+|-
+| Hoku-lei || [[Hawaii]] || rangkaian bintang
+|-
+| Capella ''al-Ayyq a<u>th</u>-<u>Th</u>urayy'' || [[Badui]] || Capella dari [[Pleiades]]<ref>[http://www.jstor.org/stable/613801 Bedouin Star-Lore in Sinai and the Negev], Clinton Bailey, ''Bulletin of the School of Oriental and African Studies, University of London'' '''37''', #3 (1974), pp. 580596; see p. 595.</ref>
+|-
+| Brahma Ridaya|| (agama) [[Hindu]] || hati dewa [[Brahma]]<ref name=allen88>Allen 1899, p. 88.</ref>
+|-
+|  / W Chr || [[China]] || [[bintang]] kedua pada [[rasi]] [[Daftar asterisme di Jala#Lima Kereta Perang|Lima Kereta Perang]]<ref>salah satu [[rasi]] [[bintang]] menurut bangsa Cina</ref><ref>{{zh icon}} [http://aeea.nmns.edu.tw/2006/0607/ap060713.html AEEA ], Activities of Exhibition and Education in Astronomy, National Museum of Natural Science, Taiwan.  Accessed on line December 31, 2008.</ref><ref>Exploring Ancient Skies: An Encyclopedic Survey of Archaeoastronomy, David H. Kelley, E. F. Milone, and Anthony F. Aveni, Birkhuser, 2005, ISBN 0-387-95310-8; see p. 322.</ref>
+|-
+|  / W Chxbixng || [[China]] || [[bintang]] di barat laut [[rasi]] [[Daftar asterisme di Jala#Lima Kereta Perang|Lima Kereta Perang]]<ref name=sb1>http://www.chinese-tools.com/tools/sinograms.html</ref>
+|-
+|   / W Chdxng || [[China]] || [[bintang]] yang utama di [[rasi]] [[Daftar asterisme di Jala#Lima Kereta Perang|Lima Kereta Perang]]<ref name=sb1>http://www.chinese-tools.com/tools/sinograms.html</ref>
+|-
+|  / Wdchr || [[China]] || [[bintang]] kereta perang sang raja kedua<ref name=sb1>http://www.chinese-tools.com/tools/sinograms.html</ref>
+|-
+| Purra|| [[Aborigin]] || kangguru<ref>[http://web.archive.org/web/20110606010223/http://www.atnf.csiro.au/research/AboriginalAstronomy/literature/Stanbridge1857.pdf On the astronomy and mythology of the Aborigines of Victoria], W. E. Stanbridge, ''Proc. of the Philosophical Instituite of Victoria, Transactions'' '''2''' (1857), pp. 137140; see p. 140.</ref>
+|-
+| Jovis Nutrix || [[Bahasa Latin|Latin]] || pelayan dewa [[Jupiter]]<ref name=sb0>http://www.constellationsofwords.com/stars/Capella.html</ref>
+|-
+| Dil-gan I-ku|| [[Akkadia]] || pembawa pesan dari langit<ref name=sb0>http://www.constellationsofwords.com/stars/Capella.html</ref>
+|-
+| Dil-gan Babili|| [[Babilonia]] || bintang petunjuk di Babilonia<ref name=sb0>http://www.constellationsofwords.com/stars/Capella.html</ref>
+|-
+| I-ku|| [[Assiria]] || pemimpin<ref name=sb0>http://www.constellationsofwords.com/stars/Capella.html</ref>
+|-
+| Kozlrica  || [[Chakavia]]<ref>bahasa di sebuah kepulauan di laut Adriatik</ref> || nama Chakavia untuk bintang ini<ref>http://www.stellarium.org/wiki/index.php/Sky_cultures#Chakavian_sky</ref>
+|-
+| Jastreb || [[Makedonia]] || elang<ref>http://articles.adsabs.harvard.edu/full/2008POBeo..85...97C</ref>
+|-
+| Quae in humero sinistro et vocatur Capella (Almagest) || [[Bahasa Latin|Latin]] || yang berada di bahu kiri (sang kusir) dan bernama "Capella"<ref>http://www.ac-ilsestante.it/ASTRONOMIA/costellazioni/costellazioni_finestra_manuale/costellazione_auriga/stelle/D08_ALPHA_AURIGAE.html</ref>
+|}
+
+Selain [[rasi]] [[Auriga]], bintang ini juga merupakan anggota dari berbagai rasi atau asterisma berikut :
+
+{| class="wikitable"
+|-
+! nama rasi / asterisma
+! asal 
+! arti
+! anggota lainnya
+|-
+| Winter Circle||  || lingkaran musim dingin||[[Procyon| CMi]], [[Beta Geminorum| Gem]], [[Alpha Geminorum| Gem]], [[Sirius|CMa]], [[Aldebaran| Tau]], [[Rigel| Ori]], [[Betelgeuse| Ori]] 
+|-
+| Ke K o Makalii<ref>http://honolulu.hawaii.edu/hawaiian/voyaging/files/t07-navigation/t07-02_fsl.html#bailer</ref>|| [[Hawaii]] || dayung Makalii||[[Procyon| CMi]], [[Beta Geminorum| Gem]], [[Alpha Geminorum| Gem]], [[Sirius|CMa]]
+|-
+|  / W Ch<ref>asterisma ini juga dinamakan ''Pentagon'' (segilima)</ref> || [[China]] || [[Daftar asterisme di Jala#Lima Kereta Perang|Lima Kereta Perang]]||[[Iota Aurigae| Aur]],  [[Beta Aurigae| Aur]], [[Theta Aurigae| Aur]], [[Beta Tauri| Tau]]
+|-
+| Al Inz<ref>http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Auriga*.html</ref>|| [[Bahasa Arab|Arab]] || kambing||[[Eta Aurigae| Aur]], [[Zeta Aurigae| Aur]]
+|-
+| Quturjuuk<ref># ^ http://web.archive.org/web/20111108032231/http://www.starlab.com/PDFs/D.27.Inuit.pdf</ref> || [[Inuit]] ||tulang bahu||[[Beta Geminorum| Gem]], [[Alpha Geminorum| Aur]], [[Beta Aurigae| Aur]]
+|-
+| Heavenly G<ref>http://web.archive.org/web/19990202143049/http://seds.org/Maps/Const/asterism.html</ref>||  || huruf G di langit||[[Aldebaran| Tau]], [[Beta Geminorum| Gem]], [[Alpha Geminorum| Gem]], [[Sirius| CMa]], [[Procyon| CMi]], [[Rigel| Ori]], [[Betelgeuse| Ori]], [[Gamma Orionis| Ori]]
+|-
+| Sky Dragon<ref>http://www.amastro2.org/at/as/asas.html</ref>||  ||naga di langit||[[Altair| Aql]], [[Arcturus| Boo]], [[Sirius| CMa]], [[Procyon| CMi]], [[Alpha Cygni| Cyg]], [[Beta Geminorum| Gem]], [[Alpha Geminorum| Gem]], [[Regulus| Leo]], [[Vega| Lyr]], [[Rigel| Or]], [[Betelgeuse| Or]], [[Fomalhaut| PsA]], [[Antares| Sco]], [[Alpha Tauri| Tau]], [[Spica| Vir]]
+|}
+
+== Referensi ==
+{{reflist}}
+
+== Pranala luar ==
+* [http://webviz.u-strasbg.fr/viz-bin/VizieR-S?HR%201708 HR 1708], catalog entry, [[Bright Star Catalogue]].
+* [http://webviz.u-strasbg.fr/viz-bin/VizieR-S?GJ%20194 GJ 194], catalog entry, ''Preliminary Version of the Third Catalogue of Nearby Stars'', W. Gliese and H. Jahreiss, 1991, [[Centre de Donnes astronomiques de Strasbourg|CDS]] ID [http://cdsarc.u-strasbg.fr/viz-bin/Cat?V/70A V/70A].
+* [http://aladin.u-strasbg.fr/AladinPreview?-c=05+16+41.3591%2B45+59+52.768&ident=NAME+CAPELLA&submit=Aladin+previewer Capella], image at [[Aladin]].
+* Images of the bright binary pair from [ftp://ftp.mrao.cam.ac.uk/pub/coast/capella95sep13blacknwhite.gif 13 September 1995] and [ftp://ftp.mrao.cam.ac.uk/pub/coast/capella95sep28blacknwhite.gif 28 September 1995] (note fainter blobs are just noise)
+<!--{{Sky|05|16|41.3591||45|59|52.768|42}}-->
+
+[[Kategori:Rasi bintang Auriga]]
+
+
+{{astronomi-stub}}

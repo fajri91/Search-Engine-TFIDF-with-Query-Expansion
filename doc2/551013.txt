@@ -1,0 +1,45 @@
+Templat:Selena Gomez
+{{Navbox Musical artist 
+| bodyclass  = hlist
+| name = Selena Gomez
+| title = [[Selena Gomez]]
+| background = solo_singer
+| above =
+* [[Diskografi Selena Gomez|Diskografi]]
+
+| group1 = Album Studio
+| list1  = 
+* ''[[Stars Dance]]'' 
+
+| group2 = Single
+| list2  = 
+* "[[Come & Get It (lagu)|Come & Get It]]"
+* "[[Slow Down (lagu Selena Gomez)|Slow Down]]"
+
+| group3 = Single Promosi
+| list3  = 
+* "[[Tell Me Something I Don't Know (lagu Selena Gomez)|Tell Me Something I Don't Know]]"
+* "[[Magic (lagu)#Versi daur ulang|Magic]]"
+* "Whoa Oh! (Me vs. Everyone)"
+* "[[Send It On]]"
+* " Shake It Up"
+
+| group4 = Lagu Lain
+| list4  = 
+* "[[One and the Same]]"
+* "[[Love Will Remember (Selena Gomez Song)|Love Will Remember]]"
+
+| group5 = Konser Tur
+| list5  =
+* [[Stars Dance Tour]]
+
+| group6 = Artikel Terkait
+| list6  = 
+* [[Selena Gomez & the Scene]]
+* [[Hollywood Records]]
+* Disney's Friends for Change
+}}<noinclude>
+{{collapsible option}}
+[[Category:American pop singers templates|Gomez, Selena]]
+[[Category:Selena Gomez|]]
+</noinclude>

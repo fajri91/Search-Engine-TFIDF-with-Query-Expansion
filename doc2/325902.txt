@@ -1,0 +1,186 @@
+Templat:PZL aircraft
+{{Navbox
+|name = PZL aircraft
+| listclass = hlist
+| title = Pesawat [[PZL]]
+|image = [[File:Flag of Poland.svg|100px|]]
+|below = Website : [http://www.pzl.swidnik.pl/ Swidnik PZL branch home page]
+ [http://www.eads.net/web/lang/en/1024/content/OF00000000400004/6/25/555256.html/ Warsaw EADS PZL "Warszawa-Okcie" home page] dan [http://www.pzlmielec.pl/ PZL Mielec home page]
+
+|group1 = [[PZL]] - sampai 1939<br>(''Pastwowe Zakady Lotnicze'')
+|list1 = <div>
+'''PZL:'''
+[[PZL P.1|P.1]]{{,}}
+[[PZL .2|.2]]{{,}}
+[[PZL.3]]{{,}}
+[[PZL.4]]{{,}}
+[[PZL.5]]{{,}}
+[[PZL P.6|P.6]]{{,}}
+[[PZL P.7|P.7]]{{,}}
+[[PZL P.8|P.8]]{{,}}
+[[PZL P.11|P.11]]{{,}}
+[[PZL.12|PZL.12 (PZL-H)]]{{,}}
+[[PZL.16]]{{,}}
+[[PZL.19]]{{,}}
+[[PZL.23 Kara]]{{,}}
+[[PZL P.24|P.24]]{{,}}
+[[PZL.26]]{{,}}
+[[PZL.27]]{{,}}
+[[PZL.30 ubr]]{{,}}
+[[PZL.37 o]]{{,}} 
+[[PZL.38 Wilk]]{{,}}
+[[PZL.39]]{{,}}
+[[PZL.23 Kara|PZL.42]]{{,}}
+[[PZL.43]]{{,}}
+[[PZL.44 Wicher]]{{,}}
+[[PZL.45 Sok]]{{,}}
+[[PZL.46 Sum]]{{,}}
+[[PZL.48 Lampart]]{{,}}
+[[PZL.49 Mi]]{{,}}
+[[PZL.50 Jastrzb]]{{,}}
+[[PZL.53 Jastrzb II]]{{,}}
+[[PZL.54 Ry]]{{,}}
+[[PZL.55]]{{,}}
+[[PZL.56 Kania]]{{,}}
+</div>
+
+|group2 = CSS / WSK-Okcie <br>/ PZL Warszawa-Okcie
+|list2 = <div>
+'''PZL:'''
+[[PZL-101 Gawron]]{{,}}
+[[PZL-102 Kos]]{{,}}
+[[PZL-104 Wilga]]{{,}}
+[[PZL-105 Flaming]]{{,}}
+[[PZL-106 Kruk]]{{,}}
+[[Socata Rallye|PZL-110 Koliber]]{{,}}
+[[Socata Rallye|PZL-111 Koliber]]{{,}}
+[[PZL-126 Mrwka]]{{,}}
+[[PZL-130 Orlik]]{{,}}
+[[PZL-230 Skorpion]]
+
+'''Produk lain:'''
+[[LWD Junak|WSK Junak]]{{,}}
+[[CSS-10]]{{,}}
+[[CSS-11]]{{,}}
+[[CSS-12]]{{,}}
+[[Polikarpov Po-2|CSS-13]]{{,}}
+[[Yakovlev Yak-12|PZL Jak-12]]{{,}}
+[[PZL MD-12|MD-12]]
+</div>
+
+|group3 = [[PZL Mielec|WSK-Mielec / WSK PZL-Mielec <br>/ PZL Mielec]] (''Polskie Zakady Lotnicze'')
+|list3 = <div>
+'''PZL:'''
+[[PZL S-1|S-1]]{{,}}
+[[PZL S-4 Kania|S-4]]{{,}}
+[[PZL M-2|M-2]]{{,}}
+[[PZL M-3|M-3]]{{,}} <!--Pliszka-->
+[[PZL M-4 Tarpan|M-4]]{{,}}
+[[PZL M-15 Belphegor|M-15]]{{,}}
+[[PZL M-17|M-17]]{{,}}
+[[PZL M-18 Dromader|M-18]]{{,}}
+[[PZL M-20 Mewa|M-20]]{{,}}
+[[PZL M-18 Dromader|M-21]]{{,}}
+[[PZL M-24 Dromader Super|M-24]]{{,}}
+[[PZL M-18 Dromader|M-25]]{{,}}
+[[PZL M-26 Iskierka|M-26]]{{,}}
+[[PZL M28|M28]]{{,}}
+[[PZL I-22 Iryda|I-22]]
+
+'''Produk lain:'''
+[[LWD Szpak]]{{,}}
+[[Polikarpov Po-2|CSS-13]]{{,}}
+[[PZL TS-8 Bies|TS-8]]{{,}}
+[[PZL TS-11 Iskra|TS-11]]{{,}}
+[[Antonov An-2|An-2]]{{,}}
+[[MiG-15|Lim-1]]{{,}}
+[[MiG-15|Lim-2]]{{,}}
+[[MiG-17|Lim-5]]{{,}}
+[[Lim-6]]
+
+</div>
+|group4 = [[PZL-widnik|WSK-widnik / WSK PZL-widnik / PZL-widnik]]
+|list4 = <div>
+[[Mil Mi-1|SM-1]]{{,}}
+[[PZL SM-2|SM-2]]{{,}}
+[[PZL SM-4|SM-4]]{{,}}
+[[PZL Kania|Kania]]{{,}}
+[[PZL W-3|W-3]]{{,}}
+[[PZL SW-4|SW-4]]
+
+'''Produk lain:'''
+[[Mil Mi-2|Mi-2]]{{,}}
+[[PZL Bielsko SZD-30|SZD-30]]{{,}}
+[[Politechnika Warszawska PW-5|PW-5]]{{,}}
+[[Politechnika Warszawska PW-6|PW-6]]
+</div>
+
+</div>
+|group5 = WSK PZL-Krosno
+|list5 = <div>
+[[PZL KR-03|KR-03]] <!--Puchatek-->
+</div>
+
+</div>
+|group6 = Szybowcowy Zakad Dowiadczalny</br> / PZL Bielsko-Biaa / Allstar PZL Glider
+|list6 = <div>
+
+[[PZL Bielsko SZD-6|SZD-6]]{{,}}
+[[PZL Bielsko SZD-7|SZD-7]]{{,}}
+[[PZL Bielsko SZD-8|SZD-8]]{{,}}
+[[PZL Bielsko SZD-9|SZD-9]]{{,}}
+[[PZL Bielsko SZD-10|SZD-10]]{{,}}
+[[PZL Bielsko SZD-11|SZD-11]]{{,}}
+[[PZL Bielsko SZD-12|SZD-12]]{{,}}
+[[PZL Bielsko SZD-13|SZD-13]]{{,}}
+[[PZL Bielsko SZD-14|SZD-14]]{{,}}
+[[PZL Bielsko SZD-15|SZD-15]]{{,}}
+[[PZL Bielsko SZD-16|SZD-16]]{{,}}
+[[PZL Bielsko SZD-17|SZD-17]]{{,}}
+[[PZL Bielsko SZD-18|SZD-18]]{{,}}
+[[PZL Bielsko SZD-20|SZD-20]]{{,}}
+[[PZL Bielsko SZD-21|SZD-21]]{{,}}
+[[PZL Bielsko SZD-22|SZD-22]]{{,}}
+[[PZL Bielsko SZD-23|SZD-23]]{{,}}
+[[PZL Bielsko SZD-24|SZD-24]]{{,}}
+[[PZL Bielsko SZD-25|SZD-25]]{{,}}
+[[PZL Bielsko SZD-26|SZD-26]]{{,}}
+[[PZL Bielsko SZD-27|SZD-27]]{{,}}
+[[PZL Bielsko SZD-28|SZD-28]]{{,}}
+[[PZL Bielsko SZD-29|SZD-29]]{{,}}
+[[PZL Bielsko SZD-30|SZD-30]]{{,}}
+[[PZL Bielsko SZD-31|SZD-31]]{{,}}
+[[PZL Bielsko SZD-32|SZD-32]]{{,}}
+[[PZL Bielsko SZD-33|SZD-33]]{{,}}
+[[PZL Bielsko SZD-34|SZD-34]]{{,}}
+[[PZL Bielsko SZD-35|SZD-35]]{{,}}
+[[PZL Bielsko SZD-36|SZD-36]]{{,}}
+[[PZL Bielsko SZD-37|SZD-37]]{{,}}
+[[PZL Bielsko SZD-38|SZD-38]]{{,}}
+[[PZL Bielsko SZD-39|SZD-39]]{{,}}
+[[PZL Bielsko SZD-40|SZD-40]]{{,}}
+[[PZL Bielsko SZD-41|SZD-41]]{{,}}
+[[PZL Bielsko SZD-42|SZD-42]]{{,}}
+[[PZL Bielsko SZD-43|SZD-43]]{{,}}
+[[PZL Bielsko SZD-45|SZD-45]]{{,}}
+[[PZL Bielsko SZD-48|SZD-48]]{{,}}
+[[PZL Bielsko SZD-49|SZD-49]]{{,}}
+[[PZL Bielsko SZD-50|SZD-50]]{{,}}
+[[PZL Bielsko SZD-51|SZD-51]]{{,}}
+[[PZL Bielsko SZD-52|SZD-52]]{{,}}
+[[PZL Bielsko SZD-54|SZD-54]]{{,}}
+[[PZL Bielsko SZD-55|SZD-55]]{{,}}
+[[PZL Bielsko SZD-56|SZD-56]]{{,}}
+[[PZL Bielsko SZD-59|SZD-59]]
+</div>
+
+}}
+<noinclude>
+[[Kategori:Kotak navigasi berdasarkan produsen pesawat|{{PAGENAME}}]]
+
+
+
+
+
+
+</noinclude>

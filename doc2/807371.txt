@@ -1,0 +1,78 @@
+Templat:Infobox Hindu leader
+{{Infobox
+| abovestyle = background: #FF9933;
+| above   = {{{name<noinclude>|</noinclude>}}}
+
+| image   = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|size={{{image_size|{{{imagesize|}}}}}}|sizedefault=frameless|upright=1|alt={{{alt|}}}}}
+| caption = {{{caption|}}}
+
+| label1  = Lahir
+| data1   = {{br separated entries|{{{birth_name|}}}|{{{birth_date|}}}|{{{birth_place|}}}}}
+
+| label2  = Wafat
+| data2   = {{br separated entries|{{{death_date|}}}|{{{death_place|}}}}}
+
+| label3  = Kebangsaan
+| data3   = {{{nationality|}}} 
+
+| label4  = Pasangan
+| data4   = {{{spouse|}}}
+
+| label5  = Rekan
+| data5   = {{{partner|}}}
+
+| label6  = Anak
+| data6   = {{{children|}}}
+
+| label7  = Kerabat
+| data7   = {{{relatives|{{{relations|}}}}}}
+
+| label8  = Gelar
+| data8   = {{{honors|}}}
+
+| label9  = Pendiri
+| data9   = {{{founder|}}}
+
+| label10 = Aliran
+| data10  = {{{sect|}}}
+
+| label11 = Orde
+| data11  = {{{order|}}}
+
+| label12 = Guru
+| data12  = {{{guru|}}}
+
+| label13 = Falsafah
+| data13  = {{{philosophy|}}}
+
+| label14 = Karya tulis
+| data14  = {{{literary_works|{{{Literary works|}}}}}}
+
+| label15 = Pengikut terkenal
+| data15  = {{{disciple|{{{disciples|}}}}}}
+
+| label16    = Terkenal karena
+| data16     = {{{known for|{{{known_for|{{{known|}}}}}}}}}
+
+| label17 = {{{free_label|{{{other_title}}}}}}
+| data17  = {{#if:{{{free_label|{{{other_title|}}}}}}|{{{free_text|{{{other_name|}}}}}}}}
+
+| data18 = {{#if:{{{influenced|}}}|
+{{Collapsible list
+| title       = Influence on
+| frame_style = border: none; padding: 0;
+| list_style  = text-align: center;
+| 1 = {{{influenced}}}
+}}
+}}
+
+| label19 = Quotation
+| data19  = {{{quote|}}}
+
+| label20 = Signature
+| data20  = {{#if:{{{signature|}}}|[[File:{{{signature}}}|200px|alt={{{signature_alt|}}}]]}}
+
+| data21 = {{{misc|{{{module|}}}}}}
+
+| below = {{{footnotes|}}}
+}}<noinclude>{{documentation}}</noinclude>

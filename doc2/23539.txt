@@ -1,0 +1,52 @@
+Conakry
+{{Infobox settlement
+|official_name = Conakry
+|native_name = {{unicode|Knakiri}}
+|image_skyline = Conakry.jpg
+|image_caption = Conakry, Guinea
+|pushpin_map = Guinea
+|mapsize = 300
+|map_caption = Lokasi Conakry di Guinea
+|coordinates_region = GN
+|subdivision_type = [[Daftar negara di dunia|Negara]]
+|subdivision_name = {{flag|Guinea}}
+|subdivision_type1 = Region
+|subdivision_name1 = [[Conakry Region]]
+|leader_title =
+|leader_name =
+|area_magnitude =
+|area_total =
+|area_land =
+|area_water =
+|population_as_of = 2008
+|population_total = 1,931,184 [http://www.world-gazetteer.com/wg.php?x=&men=gpro&lng=en&des=wg&srt=npan&col=adhoq&msz=1500&geo=-1560]
+|timezone = [[Central European Time|CET]]
+|utc_offset = +1
+|timezone_DST = [[Central European Summer Time|CEST]]
+|utc_offset_DST = +1
+|latd=9|latm=31|lats=|latNS=N
+|longd=13|longm=42|longs=|longEW=W
+|website =
+|footnotes =
+}}
+[[Berkas:Conakry.jpg|thumb|200px|Pemandangan kota Conakry]]
+'''Conakry''' adalah [[ibu kota]] sekaligus [[kota]] terbesar [[Guinea]]. Penduduknya berjumlah 2.000.000 jiwa ([[2007]]). Kota ini merupakan pusat ekonomi terbesar di [[Guinea]]. Terletak di pelabuhan [[Samudra Atlantik]]. Kota ini diambil dengan nama "Cona", merupakan industri anggur dan keju oleh [[Penduduk Baga]], dan "nakiri", biasanya disebut ''selain di tepi sungai''.
+
+== Geografi ==
+=== Iklim ===
+{{Conakry weatherbox}}
+
+== Referensi ==
+{{Reflist}}
+
+== Pranala luar ==
+* [http://africartmodern.com/site19.06.02/conakry.htm une tude dtaille sur la ville]
+* [http://www.biasy.net/~pac/ Port Autonome de Conakry]
+
+{{Ibukota di Afrika}}
+
+[[Kategori:Kota di Guinea]]
+[[Kategori:Conakry| {{PAGENAME}}]]
+
+
+{{Guinea-geo-stub}}

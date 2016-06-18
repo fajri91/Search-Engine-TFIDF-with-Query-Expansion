@@ -1,0 +1,9 @@
+Templat:Pemimpinbekasnegara
+<includeonly>{{artikelutama|Daftar {{{jabatan}}} {{{negara}}}}}
+[[Kategori:{{ #switch:{{{jabatan}}}|Perdana Menteri=Perdana menteri|Wakil Presiden=Wakil presiden|Wakil Perdana Menteri=Wakil perdana menteri|Wakil Kanselir=Wakil kanselir|{{{jabatan}}}}} bekas negara|{{{negara}}}]]
+[[Kategori:Politikus {{{negara}}}|{{{jabatan}}}]]
+{{#ifexist:Kategori:Jabatan di pemerintahan {{{negara}}}|[[Kategori:Jabatan di pemerintahan {{{negara}}}|{{{jabatan}}}]]|{{#ifexist:Kategori:Pemerintahan {{{negara}}}|[[Kategori:Pemerintahan {{{negara}}}|{{{jabatan}}}]]}}}}
+{{#if:{{{kepalanegara|}}}|[[Kategori:Kepala negara bekas negara menurut negara|{{{negara}}}]]|}}
+{{#if:{{{kepalapemerintahan|}}}|[[Kategori:Kepala pemerintahan bekas negara menurut negara|{{{negara}}}]]|}}
+</includeonly><noinclude>{{Templat:Tokohkat/keterangan}}
+[[Kategori:Templat kategori menurut negara|Politikus]]</noinclude>

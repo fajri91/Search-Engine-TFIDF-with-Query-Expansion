@@ -1,0 +1,46 @@
+Komputasi
+'''Komputasi''' sebetulnya bisa diartikan sebagai cara untuk menemukan pemecahan masalah dari data [[input]] dengan menggunakan suatu [[algoritma]]. Hal ini ialah apa yang disebut dengan ''teori komputasi'', suatu sub-bidang dari [[ilmu komputer]] dan [[matematika]]. Selama ribuan tahun, perhitungan dan komputasi umumnya dilakukan dengan menggunakan [[pena]] dan [[kertas]], atau [[kapur]] dan batu tulis, atau dikerjakan secara mental, kadang-kadang dengan bantuan suatu tabel. Namun sekarang, kebanyakan '''komputasi''' telah dilakukan dengan menggunakan [[komputer]].
+
+Secara umum iIlmu komputasi adalah bidang ilmu yang mempunyai perhatian pada penyusunan model [[matematika]] dan [[teknik]] penyelesaian [[numerik]] serta penggunaan [[komputer]] untuk menganalisis dan memecahkan masalah-masalah [[ilmu]] (sains). Dalam penggunaan praktis, biasanya berupa penerapan simulasi komputer atau berbagai bentuk komputasi lainnya untuk menyelesaikan masalah-masalah dalam berbagai bidang keilmuan, tetapi dalam perkembangannya digunakan juga untuk menemukan prinsip-prinsip baru yang mendasar dalam ilmu.
+
+Bidang ini berbeda dengan ilmu komputer (''computer science''), yang mengkaji komputasi, komputer dan pemrosesan informasi. Bidang ini juga berbeda dengan teori dan percobaan sebagai bentuk tradisional dari ilmu dan kerja keilmuan. Dalam ilmu alam, pendekatan ilmu komputasi dapat memberikan berbagai pemahaman baru, melalui penerapan model-model matematika dalam program komputer berdasarkan landasan teori yang telah berkembang, untuk menyelesaikan masalah-masalah nyata dalam ilmu tersebut.
+
+== Kelahiran ==
+
+Ilmu atau sains berdasarkan objek kajiannya dibedakan antara Fisika, Kimia, Biologi dan Geologi. Ilmu dapat pula digolongkan berdasarkan metodologi dominan yang digunakannya, yaitu ilmu pengamatan/percobaan (''observational/experimental science''), ilmu teori (''theoretical science'') dan ilmu komputasi (''computational science''). Yang terakhir ini bisa dianggap bentuk yang paling baru yang muncul bersamaan dengan perkembangan kekuatan pemrosesan dalam komputer dan perkembangan teknik-teknik metode numerik dan metode komputasi lainnya.
+
+Dalam ilmu (sains) tradisional seperti Fisika, Kimia dan Biologi, penggolongan ilmu berdasarkan ''metodologi dominannya'' juga mewujud, yang ditunjukkan dengan munculnya bidang-bidang khusus berdasarkan penggolongan tsb. lengkap dengan jurnal-jurnal yang relevan untuk melaporkan hasil-hasil penelitiannya. Sebagai contoh dalam kimia, melengkapi kimia percobaan (''experimental chemistry'') dan kimia teori (''theoretical chemistry''), berkembang pula kimia komputasi (''computational chemistry''), seperti juga di bidang Biologi dikenal Biologi Teori (''theoretical biology'') serta Biologi Komputasi (''computational biology''), lengkap dengan jurnalnya seperti Journal of Computational Chemistry dan Journal of Computational Biology. Cara penggolongan yang digunakan berbeda dengan cara penggolongan lain berdasarkan objek kajian, seperti penggolongan kimia atas Kimia Organik, Kimia Anorganik, dan Biokimia.
+
+Walaupun dengan titik pandang yang berbeda, ilmu komputasi sebagai bentuk ketiga dari ilmu (sains) telah banyak disampaikan oleh berbagai pihak, antara lain [[:en:Stephen Wolfram|Stephen Wolfram]] dengan bukunya yang terkenal: ''[[:en:A New Kind of Science|A New Kind of Science]]'', dan [[:en:Jrgen Schmidhuber|Jrgen Schmidhuber]].
+
+== Komputasi sains ==
+
+[[Komputasi sains]] merupakan salah satu cabang ilmu komputasi. Secara umum komputasi sains mengkaji aspek-aspek komputasi untuk aplikasi / memecahkan masalah di bidang [[sains]] lain, seperti [[fisika]], [[kimia]], [[biologi]] dan lain-lain.
+
+Di [[Indonesia]] sudah banyak pertemuan atau kegiatan ilmiah terkait dengan komputasi, tetapi umumnya lebih terkait dengan aspek [[teknologi informasi]]. Sedangkan kajian di [[komputasi sains]] masih sangat kurang. Hal ini tidak mengherankan karena komputasi sains lebih condong sebagai kajian teori murni, sehingga komunitasnya masih sangat terbatas seperti halnya [[fisika teori]]. Hanya ada satu kegiatan ilmiah yang terkait langsung dan fokus pada kajian komputasi sains, yaitu ''[[Workshop on Computational Science]]'' yang diadakan rutin setiap tahun oleh konsorsium yang tergabung dalam [[Masyarakat Komputasi Indonesia]] - [[MKI]]<ref>[http://www.opi.lipi.go.id/situs/mki/ Masyarakat Komputasi Indonesia]</ref>.
+
+Selain itu, telah tersedia juga [[portal ilmiah]] untuk publik terkait dengan komputasi sains, yaitu [http://www.komputasi.lipi.go.id komput@si].
+
+Jurnal di Indonesia yang fokus pada topik komputasi adalah ''Journal of Theoretical and Computational Studies'' [http://www.jurnal.lipi.go.id/situs/jtcs/ JTCS]. Jurnal ini merupakan kolaborasi dari [[MKI]] dan [[GFTI]]<ref>[http://www.opi.lipi.go.id/situs/gfti/ Grup Fisikawan Teoritik Indonesia]</ref>.
+
+== Referensi ==
+
+{{reflist}}
+
+== Pranala luar ==
+
+* [http://www.komputasi.lipi.go.id komput@si : portal komputasi sains Indonesia]
+* [[GFTK]] - Grup Fisika Teoritik dan Komputasi LIPI
+
+[[Kategori:Ilmu komputasi| ]]
+[[Kategori:Istilah komputer]]
+
+[[ar: ()]]
+[[en:Computation]]
+[[fi:Komputaatio]]
+[[he: ( )]]
+[[hr:Raunanje]]
+[[mn:]]
+[[pt:Computao]]
+[[su:Komputasi]]
+[[tr:Berim]]

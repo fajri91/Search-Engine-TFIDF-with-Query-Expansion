@@ -1,0 +1,56 @@
+Antibakteri
+'''Antibakteri''' adalah zat yang dapat mengganggu pertumbuhan atau bahkan mematikan [[bakteri]] dengan cara mengganggu [[metabolisme]] [[mikroba]] yang merugikan.<ref name="Madigan">{{en}}Madigan M.2005. Brock Biology of Microorganisme. Hlmn :753. London: PrenticeHall.</ref> Mikroorganisme dapat menyebabkan bahaya karena kemampuan menginfeksi dan menimbulkan [[penyakit]] serta merusak bahan pangan. Antibakteri termasuk kedalam antimikroba yang digunakan untuk menghambat pertumbuhan [[bakteri]].<ref name="Senyawa Obat">Schunack W, Mayer K, Haake M. 1990. Senyawa Obat.Hlmn 27. Ed ke-2. Wattimenna JR, Subito, penerjemah. Yogyakarta: UGM Press.</ref>.
+
+== Kriteria ==
+Antibakteri hanya dapat digunakan jika mempunyai sifat [[tosik selektif]], artinya dapat membunuh bakteri yang menyebabkan penyakit tetapi tidak beracun bagi penderitanya.<ref name="Madigan"/>
+
+== Mekanisme Kerja ==
+Mekanisme kerja dari senyawa antibakteri diantaranya yaitu menghambat [[sintesis]] [[dinding sel]], menghambat keutuhan [[permeabilitas]] dinding sel bakteri, menghambat kerja [[enzim]], dan menghambat sintesis [[asam nukleat]] dan [[protein]].<ref name="Madigan"/><ref name="Jawetz">jawetz E, Melnick JL, Adelberg EA. 1996. Mikrobiologi Kedokteran. Ed ke-20. Hlmn 46-50. Nugroho E, Maulany RF, Penerjemah. Jakarta : Buku Kedokteran EGC.</ref>
+
+=== Penghambatan sintesis dinding sel bakteri ===
+Langkah pertama kerja obat berupa pengikatan [[obat]] pada [[reseptor (biokimia)|reseptor]] sel (beberapa diantaranya adalah [[enzim transpeptida]].<ref name="Jawetz"/> Kemudian dilanjutkan dengan reaksi transpeptidase dan sintesis peptidoglikan terhambat.<ref name="Jawetz"/> Mekanisme diakhiri dengan pembuangan atau penghentian aktivitas penghambat [[enzim autolisis]] pada dinding sel.<ref name="Jawetz"/> Pada lingkungan yang [[isotonis]] [[lisis]] terjadi pada lingkungan yang jelas [[hipertonik]], mikrob berubah menjadi [[protoplas]] atau [[sferoflas]] yang hanya tertutup oleh selaput sel yang rapuh.<ref name="Jawetz"/> Sebagai contoh antibakteri dengan mekanisme kerja di atas adalah [[penicilin]], [[sefalosporin]], [[vankomisin]], [[basitrasin]], [[sikloserin]], dan [[ampisilin]].<ref name="Jawetz"/>
+
+=== Penghambatan Keutuhan Permeabilitas Dinding Sel Bakteri ===
+Sitoplasma semua sel hidup dibatasi oleh selaput [[sitoplasma]] yang bekerja sebagai penghalang dengan permeabilitas selektif, melakukan fugsi pengangkutan aktif sehingga dapat mengendalikan susunan sel.{{fact}} Bila integritas fungsi selaput sitoplasma terganggu misalnya oleh zat bersifat [[surfaktan]] sehinga permeabilitas dinding sel berubah atau bahkan menjadi rusak, maka komponen penting, seperti protein, [[asam nukleat]], [[nukleotida]], dan lain-lain keluar dari sel dan sel berangsur-angsur mati.<ref name="Jawetz"/> [[Amfoterisin B]], [[kolistin]], [[poimiksin]], [[imidazol]], dan [[polien]] menunjukkan mekanisme karja tersebut.<ref name="Jawetz"/>
+
+=== Penghambatan sintesis Protein Sel Bakteri ===
+Umumnya senyawa penghambat ini akan menyebabkan ''Staphylococcus aureus'' salah membaca kode pada [[mRNA]] oleh [[tRNA]] (hambatan [[translasi]] dan [[transkripsi]] bahan genetik).<ref name="Jawetz"/> [[Kloramfenikol]], [[eritromisin]], [[linkomisin]], [[tetrasiklin]], dan [[aminoglikosida]] juga bersifat menghambat sintesis protein sel bakteri.<ref name="Jawetz"/>
+
+=== Penghambatan Sintesis Asam Nukleat Sel Bakteri ===
+Senyawa antibakteri yang bekerja dengan senyawa ini, diharapkan mempunyai [[selektifitas]] yang tinggi, sehingga hanya sintesis asam nukleat bakteri saja yang dihambat.<ref name="Jawetz"/> Umumya senyawa penghambat akan berikatan dengan [[enzim]] atau salah satu komponen yang berperan dalam tahapan sintesis, sehingga akhirnya reaksi akan terhenti karena tidak ada [[substrat]] yang direaksikan dan asam nukleat tidak dapat terbentuk.<ref name="Jawetz"/>
+
+== Faktor-faktor berpengaruh dalam aktivitas senyawa anti bakteri ==
+Aktivitas senyawa antibakteri dipengaruhi oleh [[pH]], [[suhu stabilitas]] senyawa tersebut, jumlah bakteri yang ada, lamanya [[inkubasi]], dan aktivitas [[metabolisme]] bakteri.<ref name="Madigan"/>
+
+== Jenis zat antibakteri berdasarkan aktivitasnya ==
+Berdasarkan aktivitasnya zat antibakteri dibedakan menjadi dua jenis, yaitu [[bakteriostatik]] dan [[bakteriosida]] <ref name="Madigan"/>
+
+=== Bakteriostatik ===
+Adalah zat antibakteri yang memiliki aktivitas menghambat pertumbuhan bakteri (menghambat perbanyakan populasi bakteri), namun tidak mematikan.<ref name="Madigan"/><ref name="Senyawa Obat"/>
+
+=== Bakterisida ===
+Adalah zat antibakteri yang memiliki aktivitas membunuh bakteri.<ref name="Madigan"/>
+Namun ada beberapa zat antibakteri yang bersifat bakteriostatik pada konsentrasi rendah dan bersifat bakterisida pada konsentrasi tinggi.<ref name="Senyawa Antimikrob">Fardiaz S, Suliantri, Dewanti R. 1987. Senyawa Antimikrob. Hlmn 2. Bogor: PAU.</ref>
+
+== Contoh ==
+[[Berkas:Fenol.png|thumb|Struktur fenol sebagai antibakteri.]]
+Contoh kelompok bahan antibakteri adalah [[fenol]], [[alkohol]], [[halogen]], [[logam berat]], [[detergen]], [[aldehida]], dan [[kemosterilisator gas]].<ref name="Madigan"/> Dari sekian banyak contoh di atas, senyawa fenol paling banyak digunakan karena senyawa tersebut tidak hanya terdapat pada antibiotik sintetik, namun pada senyawa alam yang dikenal sebagai polifenol.<ref name="Madigan"/> Apabila digunakan bekerja dengan merusak membran sitoplasma secara total dengan mengendapkan protein sel.<ref name="Madigan"/> Akan tetapi bila dalam konsentrasi rendah , fenol merusak membran sel yang menyebabkan kebocoran metabolit penting dan menginaktifkan bakteri.<ref name="Madigan"/>
+
+=== Antibiotik ===
+Salah satu zat antibakteri yang banyak dipergunakan akhir-akhir ini adalah [[antibiotik]].<ref name="Sis">Siswando, Soekardjo B. 1995. ''Kimia Medisinal''. Surabaya: Airlangga Univ Pr.</ref> Antibiotik adalah senyawa kimia khas yang dihasilkan atau diturunkan oleh organisme hidup termasuk struktur analognya yang dibuat secara sintetik, yang dalam kadar rendah mampu menghambat proses penting dalam kehidupan satu spesies atau lebih mikroorganisme.<ref name="Sis"/> Penggunaan antibiotik sebagai zat antibakteri juga mempunyai efek negatif seperti timbulnya [[resistensi]] bakteri terhadap aktivitas kerja obat.<ref name="Absor">Absor Ulil. 2006. Aktivitas antibakteri ranting patah tulang (''Euphorbia tirucalli''. Linn)[Skripsi] . Bogor : Program Sarjana Pada Studi Biokimia Institut Pertanian Bogor</ref>
+
+== Lihat pula ==
+* [[Antibiotika]]
+* [[bakteri]]
+* [[Bakteriofag]]
+* [[Bakteri gram positif]]
+* [[Bakteri gram negatif]]
+* [[Bakteri anaerobik]]
+* [[Bakteri kokus]]
+
+== Referensi ==
+{{Reflist}}
+
+[[Kategori:Antiseptik]]
+
+[[uk: ]]

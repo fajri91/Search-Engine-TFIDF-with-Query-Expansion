@@ -1,0 +1,21 @@
+Templat:Carita, Pandeglang
+{{Navigasi ID Desa
+|provinsi=Banten
+|dati2=Kabupaten
+|nama dati2=Pandeglang
+|nama kecamatan=Carita
+|d1= Banjarmasin
+|d2= Carita
+|d3= Cinoyong
+|d4= Kawoyang
+|d5= Pejamben
+|d6= Sindanglaut
+|d7= Sukajadi
+|d8= Sukanegara
+|d9= Sukarame
+|d10= Tembong
+}}<noinclude>
+[[Kategori:Templat desa/kelurahan di Banten|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Pandeglang|{{PAGENAME}}]]
+Referensi : http://databasis.bkkbn.go.id/bk/index.php/laporan/remaja/kecamatan/36.01.28
+</noinclude>

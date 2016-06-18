@@ -1,0 +1,71 @@
+Teknik hidrolika
+[[Berkas:Hydraulic Flood Retention Basin.jpg|thumb|250px|Kolam Penahan Banjir Hidrolika (''Hydraulic Flood Retention Basin'' (HFRB))]]
+[[Berkas:Riprap.jpg|thumb|250px|Bebatuan pelindung pinggir danau]]
+
+'''Teknik hidrolika''' adalah sub-disiplin bidang [[teknik sipil]] yang terkait dengan aliran [[fluida]], umumnya [[air]] dan [[limbah]]. Satu ciri khas dari sistem ini adalah analisa yang ekstensif dari [[gravitasi]] sebagai [[gaya]] penggerak yang menyebabkan pergerakan fluida. Bidang teknik sipil ini terkait dengan desain [[jembatan]], [[bendungan]], [[selat]], [[kanal]], dan [[tanggul]]. Teknik hidrolika juga diaplikasikan di bidang [[sanitasi]] dan [[teknik lingkungan]]. 
+
+Teknik hidrolika adalah aplikasi prinsip [[mekanika fluida]] terhadap masalah yang terkait dengan pengumpulan, penyimpanan, pengendalian, pemindahan, pengaturan, pengukuran, dan penggunaan air..<ref name="Prasuhn, Alan L. 1987">Prasuhn, Alan L. ''Fundamentals of Hydraulic Engineering''. Holt, Rinehart, and Winston: New York, 1987.</ref> Cassidy ''et al'' menjelaskan bahwa "Insinyur hidrolika mengembangkan desain konseptual untuk berbagai manfaat yang berkaitan degan air seperti saluran pelimpah dan saluran keluaran untuk bendungan, saluran air untuk [[jalan raya]], kanal dan struktur terkait untuk irigasi, serta fasilitas air pendingin untuk [[pembangkit listrik termal]]".<ref>Cassidy, John J., Chaudhry, M. Hanif, and Roberson, John A. "Hydraulic Engineering", John Wiley & Sons, 1998</ref>
+
+== Prinsip utama ==
+Prinsip utama dari teknik hidrolika mencakup [[mekanika fluida]], aliran fluida, sifat fluida, [[hidrologi]], jaringan perpipaan, hidrolika saluran terbuka, mekanika transportasi sedimen, permodelan, permesinan hidrolika, dan hidrolika drainase. 
+
+=== Mekanika fluida ===
+Hidrostatika adalah studi terhadap fluida dalam keadaan diam.<ref name="Prasuhn, Alan L. 1987"/> Pada fluida dalam keadaan diam terdapat gaya yang disebut dengan tekanan yang bekerja pada sekelilingnya. Tekanan ini diukur dalam satuan N/m<sup>2</sup>, dan tidak konstan pada seluruh badan air. Tekanan, p, meningkat dengan bertambahnya kedalaman. Sehingga gaya ke atas dapat didefinisikan dengan persamaan:
+
+:<math>p=\rho gy</math>
+
+di mana, 
+:''&rho;'' = massa jenis air
+:''g'' = berat jenis
+:''y'' = kedalaman
+
+Membalikkan persamaan akan memberikan [[tinggi tekanan]] (''pressure head'') ''p/&rho;g'' = ''y''. Empat alat dasar untuk [[pengukuran tekanan]] yaitu [[piezometer]], [[manometer]], manometer diferensial, manometer miring, dan ''[[Bourdon gauge]]''.<ref name="Prasuhn, Alan L. 1987"/>
+
+=== Sifat fluida real ===
+
+;Fluida ideal dan fluida real
+Perbedaan mendasar antara fluida ideal dan fluida real adalah ''p''<sub>1</sub> = ''p''<sub>2</sub> untuk aliran fluida ideal, dan ''p''<sub>1</sub> > ''p''<sub>2</sub> untuk aliran fluida real. Fluida ideal tidak bisa ditekan ('incompressible'') dan tidak memiliki viskositas. Fluida real memiliki [[viskositas]]. Fluida ideal hanyalah fluida imajiner karena semua fluida, termasuk udara, memiliki viskositas. 
+
+;Aliran berviskositas
+Fluida berviskositas akan terdeformasi secara kontinu di bawah gaya geser, di mana fluida ideal tidak terdeformasi.
+
+;Aliran laminar dan turbulen
+Gangguan pada aliran berviskositas akan menghasilkan aliran laminar (stabil), transisi, hingga turbulen (tidak stabil).
+
+;Persamaan Bernoulli
+Untuk fluida ideal, berlaku [[persamaan Bernoulli]]: 
+
+''p/&rho;g'' + ''u''/2''g'' = ''p''<sub>1</sub>/''&rho;g'' + ''u''<sub>1</sub>/2''g'' = ''p''<sub>2</sub>/''g'' + ''u''<sub>2</sub>/2''g''
+
+;Lapisan batas
+Asumsikan aliran dibatasi hanya pada satu sisi saja, dan aliran mendatar melewati bidang datar yang sejajar dengan aliran. Aliran yang berada tepat di atas bidang datar akan memiliki kecepatan yang seragam. Dan ketika aliran mengalami kontak dengan bidang, lapisan fluida akan bergesekan dengan permukaan bidang padat. Sehingga akan ada gaya geser antara lapisan fluida di atas permukaan bidang datar dan lapisan kedua dari fluida. Lapisan kedua akan memperlambat lapisan ketiga, meski tidak sampai membuatnya berhenti, dan menciptakan gaya geser terhadap lapisan ketiga. Dan seterusnya. Gaya [[kohesi]] intermolekuler pada fluida tidak cukup untuk menahan molekul fluida. Sehingga fluida akan terus mengalir selama masih ada jalan untuk mengalir.<ref name="Finnemore">E. John Finnemore, Joseph Franzini "Fluid Mechanics with Engineering Applications",McGraw-Hill,2002</ref> Aliran di dalam lapisan bisa berupa aliran laminar atau aliran turbulen, tergantung pada [[bilangan Reynolds]].<ref name="Prasuhn, Alan L. 1987"/>
+
+== Lihat pula ==
+*[[Teknik sipil]]
+*[[Eupalinos]]
+*[[HEC-RAS]], program komputer untuk permodelan hidrolika
+*[[Henri Pitot]]
+*[[Hidrologi]]
+*[[Hidrologi (pertanian)]]
+*[[Penambangan hidrolika]]
+*[[Struktur hidrolika]]
+*[[Irigasi]]
+
+== Referensi ==
+{{Reflist}}
+
+== Bahan bacaan terkait ==
+* Vincent J. Zipparro, Hans Hasen (Eds), ''Davis' Handbook of Applied Hydraulics'', [[Mcgraw-Hill]],  4th Edition (1992), ISBN 0070730024, [http://www.amazon.com/Davis-Handbook-Applied-Hydraulics-Zipparro/dp/0070730024 at Amazon.com]
+* Classification of Organics in Secondary Effluents. M. Rebhun, J. Manka. Environmental Science and Technology, 5, pp.&nbsp;606610, (1971). 25.
+
+== Pranala luar ==
+* [http://www.iahr.net/site/index.html International Association of Hydraulic Engineering and Research]
+* [http://www.worldhistoryblog.com/2006/10/hydraulic-engineering-in-prehistoric.html Hydraulic Engineering in Prehistoric Mexico]
+* [http://www.hec.usace.army.mil/ Hydrologic Engineering Center]
+* Chanson, H. (2007). [http://espace.library.uq.edu.au/view.php?pid=UQ:23708 Hydraulic Engineering in the 21st Century : Where to ?], Journal of Hydraulic Research, IAHR, Vol. 45, No. 3, pp.&nbsp;291301 (ISSN 0022-1686).
+
+{{Teknologi}}
+
+[[Kategori:Teknik hidrolika]]
+[[Kategori:Hidrolika]]
+[[Kategori:Manajemen sumber daya air]]

@@ -1,0 +1,70 @@
+La voix du bon Dieu
+{{italic title}}
+{{Infobox Album | <!-- See Wikipedia:WikiProject_Albums -->
+| Name        = La voix du bon Dieu
+| Type        = Studio album
+| Artist      = [[Celine Dion|Cline Dion]]
+| Cover       = La_Voix.jpg
+| Released    = {{Start date|1981|11|9}}
+| Recorded    = 1981
+| Genre       = [[Musik pop|Pop]]
+| Length      = 34:28
+| Label       = Super toiles, Saisons
+| Producer    = [[Ren Anglil]], Eddy Marnay, Rudy
+| This album  = '''''La voix du bon Dieu''''' <br />(1981)
+| Next album  = ''[[Cline Dion chante Nol]]'' <br />(1981)
+| Misc        = {{Singles
+  | Name           = La voix du bon Dieu
+  | Type           = Studio album
+  | Single 1       = [[Ce n'tait qu'un rve]]
+  | Single 1 date  = 19 Juni 1981
+  | Single 2       = [[La voix du bon Dieu (lagu)|La voix du bon Dieu]]
+  | Single 2 date  = November 1981
+  | Single 3       = [[L'amour viendra]]
+  | Single 3 date  = 1982
+  }}
+}}
+'''''La voix du bon Dieu''''' adalah [[album]] debut [[bahasa Perancis]] penyanyi asal [[Kanada]], [[Celine Dion|Cline Dion]]. Album ini dirilis di [[Quebec]], [[Kanada]] pada tanggal [[9 November]] [[1981]].
+
+== Daftar lagu ==
+#"[[La voix du bon Dieu (lagu)|La voix du bon Dieu]]" <small>(Eddy Marnay, Suzanne-Mia Dumont)</small>  3:22
+#"Au secours" <small>(Robert Leroux, Pierre Ltourneau)</small>  3:31
+#"[[L'amour viendra]]" <small>(Marnay, Amerigo Cassella, Dario Baldan Bembo)</small>  4:20
+#"Autour de moi" <small>(Thrse Dion, Pierre A. Tremblay)</small>  3:00
+#"Grand maman" <small>(T. Dion, [[Celine Dion|Cline Dion]], Jacques Dion)</small>  3:42
+#"[[Ce n'tait qu'un rve]]" <small>(T. Dion, C. Dion, J.Dion)</small>  3:52
+#"Seul un oiseau blanc" <small>(Marnay, Daniel Htu)</small>  4:17
+#"T'ire l'aiguille" <small>(Marnay, Emilie Stern, Eddie Barclay)</small>  2:24
+#"Les roses blanches" <small>(Charles Louis Pothier, Lon Rathier)</small>  5:56
+
+== Riwayat perilisan ==
+{|class="wikitable"
+! Wilayah
+! Tanggal
+! Label
+! Format
+! Katalog
+|-
+|rowspan="2"| Kanada
+|rowspan="2"| 9 November 1981
+|rowspan="2"| Super toiles
+| [[Gramophone record|Record]]
+| SPE 4101
+|-
+| [[Compact Cassette|Kaset]]
+| 16-SP 1900
+|-
+|rowspan="2"| Kanada
+|rowspan="2"| 1983
+|rowspan="2"| Saisons
+| Record
+| SNS 70000
+|-
+| Kaset
+| SNS 4-70000
+|}
+
+{{album-stub}}
+
+[[Kategori:Album tahun 1981]]
+[[Kategori:Album Celine Dion]]

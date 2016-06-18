@@ -1,0 +1,17 @@
+Templat:Teresa Villaverde
+{{Navbox
+|name = Teresa Villaverde
+|title = Film yang disutradarai oleh [[Teresa Villaverde]]
+|state = {{{state|autocollapse}}}
+|listclass = hlist
+|list1 = 
+* ''[[Trs Irmos]]'' <small>(1994)</small>
+* ''[[The Mutants (film)|The Mutants]]'' <small>(1998)</small>
+* ''[[Transe]]'' <small>(2006)</small>
+* ''[[Swan (film)|Swan]]'' <small>(2011)</small>
+* ''[[Bridges of Sarajevo]]'' <small>(2014)</small>
+}}<includeonly>
+</includeonly><noinclude>
+{{collapsible option}}
+[[Kategori:Kotak navigasi sutradara film Portugis|Villaverde, Teresa]]
+</noinclude>

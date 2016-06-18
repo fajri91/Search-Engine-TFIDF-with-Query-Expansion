@@ -1,0 +1,23 @@
+Barygenys atra
+{{Taxobox
+| name = Barygenys atra
+| image = Barygenys atra 1896.jpg
+| status = LC | status_system = IUCN3.1
+| regnum = [[Animalia]]
+| phylum = [[Chordata]]
+| classis = [[Amphibia]]
+| ordo = [[Anura]]
+| familia = [[Microhylidae]]
+| genus = ''[[Barygenys]]''
+| species = '''''B. atra'''''
+| binomial = ''Barygenys atra''
+| binomial_authority = ([[Albert C. L. G. Gnther|Gnther]], 1896)
+| synonyms = }}
+'''Barygenys atra''' adalah [[spesies]] katak dari [[familia|famili]] [[Microhylidae]]. Spesies ini ditemukan di [[Papua Nugini]]. Secara alami, spesies ini tinggal di daerah hutan subtropik atau tropik.
+
+== References ==
+* Richards, S. & Zweifel, R. 2004. [http://www.iucnredlist.org/search/details.php/57704/all Barygenys atra]. [http://www.iucnredlist.org 2006 IUCN Red List of Threatened Species. ] Downloaded on 23 July 2007.
+
+{{Microhylidae-stub}}
+
+[[Kategori:Barygenys]]

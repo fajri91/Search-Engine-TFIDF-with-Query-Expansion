@@ -1,0 +1,64 @@
+Asuransi Ekspor Indonesia
+{{Infobox company
+| name                = PT Asuransi Ekspor Indonesia (Persero)
+| logo                = 
+| logo_size           = 150px
+| logo_alt            = 
+| logo_caption        = Logo 
+| logo_padding        = 
+| image               = 
+| image_size          = 200px
+| image_alt           = 
+| image_caption       = 
+| type                = [[Badan Usaha Milik Negara|BUMN]] / Perseroan Terbatas
+| traded_as           = <!-- {{IDX|BBNI}} -->
+| industry            = [[Jasa keuangan]]
+| genre               = <!-- Only used with media and publishing companies -->
+| fate                = 
+| predecessor         = 
+| successor           = 
+| foundation          = [[1985]]<!-- if known: {{start date|YYYY|MM|DD}} di [[city]], [[country]] -->
+| founder             = 
+| defunct             = <!-- {{end date|YYYY|MM|DD}} -->
+| locations           = 
+| location_city       = [[Jakarta]], [[Jakarta]]
+| location_country    = Indonesia
+| coordinates         = 
+| area_served         = 
+| key_people          = 
+| products            = 
+| brands              = 
+| production          = 
+| services            = [[Asuransi]]
+| revenue             = 
+| operating_income    = 
+| net_income          = 
+| aum                 = <!-- Only for financial-service companies -->
+| assets              = 
+| equity              = 
+| owner               = [[Pemerintah Indonesia]]
+| members             = 
+| num_employees       = 
+| parent              = 
+| divisions           = 
+| subsid              = 
+| slogan              = 
+| module              = <!-- Used to embed other templates -->
+| website             = {{URL|www.asei.co.id}}
+| footnotes           = 
+}}
+
+'''PT Asuransi Ekspor Indonesia (Persero)''' atau disingkat '''Asuransi ASEI''' adalah [[Badan Usaha Milik Negara]] (BUMN) yang bergerak di bidang [[asuransi]].
+
+Pendirian perusahaan ini bermula dari upaya mendorong peningkatan [[ekspor]] non migas. Perusahaan ini didirikan pada tahun 1985 oleh Pemerintah [[Indonesia]] berdasarkan Peraturan Pemerintah No. 20 Tahun 1983.
+
+Asuransi ASEI bergerak di bidang asuransi dan jaminan untuk mendukung pengembangan ekspor non-migas nasional.
+
+Asuransi ASEI memiliki produk khusus untuk mengcover risiko yang ditanggung [[eksportir]] dan [[bank]] yaitu risiko kegagalan pelunasan pembayaran ekspor, baik pembayaran kembali kredit ekspor yang disalurkan bank kepada eksportir (Asuransi Kredit) maupun pembayaran transaksi ekspor dari importir luar negeri kepada eksportir (Asuransi Ekspor).
+
+== Halaman luar ==
+* [http://www.asei.co.id/ Situs web resmi]
+
+{{BUMN}}
+
+[[Kategori:BUMN]]

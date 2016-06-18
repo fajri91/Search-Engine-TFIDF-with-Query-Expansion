@@ -1,0 +1,107 @@
+Templat:Tekken
+{{Navbox
+| name  = Tekken
+| title = ''[[Tekken]]''
+| state = {{{state|autocollapse}}}
+| listclass = hlist
+
+| above = [[Daftar media Tekken|Daftar media]]
+
+| group1 = Serial utama
+| list1  = 
+* ''[[Tekken (permainan video)|Tekken]]''
+* ''[[Tekken 2|2]]''
+* ''[[Tekken 3|3]]''
+* ''[[Tekken 4|4]]''
+* ''[[Tekken 5|5]]''
+* ''[[Tekken 6|6]]''
+* ''[[Tekken 7|7]]''
+
+| group2 = Serial ''Tag Tournament''
+| list2 = 
+* ''[[Tekken Tag Tournament|Tag Tournament]]''
+* ''[[Tekken Tag Tournament 2|Tag Tournament 2]]''
+
+| group3 = Serial portabel
+| list3  = 
+* ''[[Tekken Card Challenge|Card Challenge]]''
+* ''[[Tekken Advance|Advance]]''
+* ''[[Tekken 5: Dark Resurrection|Dark Resurrection]]''
+* ''[[Tekken 3D: Prime Edition|3D: Prime Edition]]''
+
+| group4 = Spin-off
+| list4  = 
+* ''[[Death by Degrees]]''
+* ''[[Tekken Revolution|Revolution]]''
+
+| group5 = Crossover
+| list5 =
+* ''[[Street Fighter X Tekken]]''
+* ''[[Tekken X Street Fighter]]''
+
+| group6 = Film
+| list6 = 
+* ''[[Tekken: The Motion Picture|The Motion Picture]]''
+* ''[[Tekken (film 2009)|Tekken]]''
+* ''[[Tekken: Blood Vengeance|Blood Vengeance]]''
+* ''[[Tekken 2: Kazuya's Revenge|Kazuya's Revenge]]''
+
+| group7 = [[Daftar karakter Tekken|Karakter]]
+| list7 = 
+* [[Alisa Bosconovitch]]
+* [[Anna Williams (Tekken)|Anna Williams]]
+* [[Asuka Kazama]]
+* [[Bob (Tekken)|Bob]]
+* [[Bryan Fury]]
+* [[Christie Monteiro]]
+* [[Craig Marduk]]
+* [[Dr. Bosconovitch]]
+* [[Eddy Gordo]]
+* [[Ganryu (Tekken)|Ganryu]]
+* [[Heihachi Mishima]]
+* [[Hwoarang]]
+* [[Jack (Tekken)|Jack]]
+* [[Jin Kazama]]
+* [[Jinpachi Mishima]]
+* [[Julia Chang]]
+* [[Jun Kazama]]
+* [[Kazuya Mishima]]
+* [[King (Tekken)|King]]
+* [[Kuma (Tekken)|Kuma]]
+* [[Lars Alexandersson]]
+* [[Lee Chaolan]]
+* [[Lei Wulong]]
+* [[Lili (Tekken)|Lili]]
+* [[Ling Xiaoyu]]
+* [[Marshall Law (Tekken)|Marshall Law]]
+* [[Michelle Chang (Tekken)|Michelle Chang]]
+* [[Mokujin]]
+* [[Nina Williams]]
+* [[Ogre (Tekken)|Ogre]]
+* [[Paul Phoenix (Tekken)|Paul Phoenix]]
+* [[Raven (Tekken)|Raven]]
+* [[Steve Fox (Tekken)|Steve Fox]]
+* [[Yoshimitsu]]
+
+| group8 = Soundtrack
+| list8 = 
+* ''[[Tekken Original Sound Tracks]]''
+* ''[[Tekken 2 Original Sound Tracks]]''
+* ''[[Tekken 3 Original Sound Tracks]]''
+* ''[[Tekken 4 Original Sound Tracks]]''
+
+| group9 = Hal terkait
+| list9 = 
+* ''[[Soul (serial)|Soul]]''
+* ''[[Namco  Capcom]]''
+* ''[[Gon (permainan video)|Gon]]''
+* ''[[Urban Reign]]''
+* ''[[Project X Zone]]''
+* ''[[PlayStation All-Stars Battle Royale]]''
+* ''[[Tekken Comic]]''
+* ''[[Pokkn Tournament]]''
+}}<noinclude>
+{{collapsible option}}
+
+[[kategori:kotak navigasi permainan video menurut serial]]
+</noinclude>

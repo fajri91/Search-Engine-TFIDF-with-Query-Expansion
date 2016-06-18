@@ -1,0 +1,25 @@
+Cliona chilensis
+{{Taxobox |name = Cliona chilensis
+|regnum = [[Hewan|Animalia]]
+|subregnum = [[Parazoa]]
+|phylum = [[Porifera]]
+|classis = [[Demospongiae]]
+|ordo = [[Hadromerida]]
+|familia = [[Clionaidae]]
+|genus = [[Cliona]]
+|species = Cliona chilensis
+|binomial_authority =Thiele, 1905
+}}
+'''''Cliona chilensis''''' adalah [[spesies]] [[spons]] yang tergolong dalam kelas [[Demospongiae]]. Spesies ini juga merupakan bagian dari genus Cliona dan [[familia]] Clionaidae. Nama ilmiah spesies ini pertama kali diterbitkan pada tahun 1905 oleh Thiele.
+
+Seperti spons pada umumnya, spesies ini memiliki tubuh yang berpori dan permukaan yang keras seperti [[batu]]. Selain itu, Cliona chilensis juga dapat menyerap [[oksigen]] dari [[air]] melalui proses [[difusi]].
+
+== Referensi ==
+
+* ''WoRMS Porifera: World Porifera Database''. Soest R. van (ed), 22 Oktober 2008.
+
+{{DEFAULTSORT:Cliona chilensis}}
+
+[[Kategori:Demospongiae]]
+
+{{porifera-stub}}

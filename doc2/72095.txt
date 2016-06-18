@@ -1,0 +1,27 @@
+Departemen Artigas
+{{Infobox Uruguayan Department
+| department_name = Artigas
+| image_flag      = Flag of Artigas Department.png
+| image_coat      = Artigas Department Coa.png
+| department_map  = 
+| capital_name    = [[Artigas, Uruguay|Artigas]]
+| deg_S = 30 | min_S = 28
+| deg_W = 56 | min_W = 28
+| demonym         = Artiguense
+| intendant_name  = Patricia Ayala
+| ruling_party    = [[Broad Front (Uruguay)|Frente Amplio]]
+| area_km2        = 11,928
+| population      = 73,378
+| year_of_census  = 2011
+| ISO_3166-2      = UY-AR
+| website         = {{URL|http://www.artigas.gub.uy}}
+}}
+
+'''Departemen Artigas''' ({{lang-es|Departamento de Artigas}}) merupakan sebuah departemen di [[Uruguay]] yang memiliki luas wilayah 11.928&nbsp;km dan populasi 78.019 jiwa ([[2004]]). Ibu kotanya ialah [[Artigas]].
+
+{{Departemen di Uruguay}}
+
+[[Kategori:Departemen Uruguay]]
+
+
+{{uruguay-geo-stub}}

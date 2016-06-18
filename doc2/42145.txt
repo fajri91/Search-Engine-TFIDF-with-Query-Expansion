@@ -1,0 +1,33 @@
+Ornithorhynchidae
+{{tanpa_referensi|date=November 2009}}
+{{Taxobox
+| name = Ornithorhynchidae
+| image = Platypus.jpg
+| image_width = 250px
+| image_caption = [[Platipus]] adalah hewan yang tergolong [[familia]] Ornithorhynchidae.
+| regnum = [[Animalia]]
+| phylum = [[Chordate|Chordata]]
+| classis = [[Mammal]]ia
+| ordo = [[Monotreme|Monotremata]]
+| subordo = [[Platypoda]]
+| familia = '''Ornithorhynchidae'''
+| familia_authority = [[John Edward Gray|Gray]], 1825
+| subdivision_ranks = Genera
+| subdivision = 
+''[[Obdurodon]]''<br />
+''[[Ornithorhynchus]]''
+}}
+
+'''Ornithorhynchidae''' adalah satu dari dua famili dalam ordo [[Monotremata]] dan terdiri atas [[platipus]] dan saudaranya yang sudah punah. Famili lainnya adalah [[Echidna|Tachyglossidae]] atau [[echidna]]. Ornithorhynchidae terdiri atas dua [[genus|genera]] yaitu: ''[[Obdurodon]]'' dan ''[[Ornithorhynchus]]''.
+
+* Famili [[Ornithorhynchidae]]
+** Genus ''[[Obdurodon]]''
+*** Spesies ''[[Obdurodon dicksoni]]'' (punah)
+*** Spesies ''[[Obdurodon insignis]]'' (punah)
+*** Spesies ''[[Obdurodon sudamericanum|Obdurodon/Monotrematum sudamericanum]]'' (punah)
+** Genus ''[[Platipus|Ornithorhynchus]]''
+*** Spesies ''[[platipus|Ornithorhynchus anatinus]]'' (masih hidup: [[platipus]])
+
+Dua genera lainnya, ''[[Steropodon]]'' dan ''[[Teinolophos]]'' juga dapat termasuk dalam Ornithorhynchidae. Namun, keduanya sangat tua (''ancient?'') dan tulisan ilmiah kelihatannya menunjukkan bahwa keduanya berelasi dengan, tapi bukan bagian dari, Ornithorhynchidae.
+
+[[Kategori:Monotremata]]

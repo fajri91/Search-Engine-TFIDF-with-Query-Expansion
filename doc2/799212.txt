@@ -1,0 +1,34 @@
+If I Were for Real
+{{Infobox film
+|name           = If I Were for Real
+|image          = If i were for real video cover.jpg
+|caption        = Seni sampul video
+|director       = [[Wang Toon]]
+|producer       = 
+|based on       = permainan latar karya [[Nikolai Gogol]]
+|screenplay     = Chang Yung-hsiang ({{lang|zh-tw|}})
+|starring       = [[Kuan-Chen Hu]]<br />[[Alan Tam]]
+|music          = 
+|cinematography = Lin Hung-chung ({{lang|zh-tw|}})
+|editing        = 
+|distributor    = 
+|released       = {{Film date|1981|8|21|df=yes}}
+|runtime        = 99 menit
+|country        = Taiwan
+|language       = Mandarin
+|budget         = 
+}}
+
+'''''If I Were for Real''''' ({{zh|c=|p=jir w sh zhn de}}) adalah ssebuah [[film drama]] Taiwan 1981 yang disutradarai oleh [[Wang Toon]].<ref name="Trove">{{cite web |url=http://trove.nla.gov.au/work/32455820?q&versionId=39452566 |title=If I Were for Real |accessdate=2013-10-13 |work=Trove}}</ref> Film tersebut dipilih sebagai entri Taiwan untuk kategori [[Academy Award untuk Film Berbahasa Asing Terbaik|Film Berbahasa Asing Terbaik]] di [[Academy Awards ke-54]], namun tidak masuk nominasi.<ref>Margaret Herrick Library, Academy of Motion Picture Arts and Sciences</ref> Film tersebut memenangkan Golden Horse Awards pada 1981 untuk kategori berikut ini: [[Golden Horse Award untuk Film Fitur Terbaik|Film Ftiru Terbaik]],<ref name="sensesofcinema">{{cite web |url=http://sensesofcinema.com/2004/festival-reports/golden_horse/ |title=The People Are Missing: The 25th Taipei Golden Horse International Film Festival (and 40th Golden Horse Awards) |accessdate=2013-10-13 |work=Senses of Cinema}}</ref><ref name="golden horse"/> Aktor Terbaik ([[Alan Tam]]), dan Permainan Latar Adaptasi Terbaik (Chang Yung-hsiang; {{lang|zh-tw|}}).<ref name="golden horse">{{cite web |date=1981 |title=18th Annual Golden Horse Awards |accessdate=6 Agustus 2014 |url=http://www.goldenhorse.org.tw/ui/index.php?class=ghac&func=archive&search_regist_year=1981 }}</ref> Nominasi Golden Horse yang didapat adalah Sinematografi Terbaik (Lin Hung-chung; {{lang|zh-tw|}}) dan Penyutradaraan Seni Terbaik (Wang Tung; {{lang|zh|[[:zh:|]]}}).<ref name="golden horse"/>
+
+==Referensi==
+{{reflist}}
+
+==External links==
+* {{IMDb title|0289112|If I Were for Real}}
+
+{{FilmTerbaikGoldenHorseAward |state=collapsed}}
+{{Teresa Teng}}
+
+{{DEFAULTSORT:If I Were For Real}}
+[[kategori:film 1981]]

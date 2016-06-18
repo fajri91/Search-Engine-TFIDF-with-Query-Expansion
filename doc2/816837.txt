@@ -1,0 +1,25 @@
+Templat:Standar penomoran internasional
+{{navbox with columns
+| title  = Standar penomoran internasional
+| name   = Standar penomoran internasional
+| state  = {{{state|autocollapse}}}
+| listclass = plainlist
+| colwidth = 50%
+
+| above  = Standar
+| col1  = 
+*ISO 2108: [[International Standard Book Number]] (ISBN)
+*ISO 3297: [[International Standard Serial Number]] (ISSN)
+*ISO 3901: [[International Standard Recording Code]] (ISRC)
+*ISO 10957: [[International Standard Music Number]] (ISMN)
+*ISO 15511: [[International Standard Identifier for Libraries and Related Organizations|International Standard Identifier for Libraries...]] (ISIL)
+| col2  =
+*ISO 15706: [[International Standard Audiovisual Number]] (ISAN)
+*ISO 15707: [[International Standard Musical Work Code]] (ISWC)
+*ISO 21047: [[International Standard Text Code]] (ISTC)
+*ISO 26324: [[Digital object identifier|Digital Object Identifier]] System (DOI)
+*ISO 27729: [[International Standard Name Identifier]] (ISNI)
+
+}}<noinclude>
+{{documentation}}
+</noinclude>

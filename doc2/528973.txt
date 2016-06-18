@@ -1,0 +1,42 @@
+Templat:Skuat Piala Afrika 2010 Togo
+{{National squad
+ | name      = Skuat Piala Afrika 2010 Togo
+ | bg        = gold
+ | fg        = #006A4E
+ | country   = Togo
+|comp link=Piala Afrika 2010
+|comp=Piala Afrika 2010 (mengundurkan diri)
+ | p1        = [[Kodjovi Obilal|Obilal]] 
+ | p2        = [[Vincent Bossou|Bossou]] 
+ | p3        = [[Kwami Kacla Eninful|Eninful]] 
+ | p4        = [[Emmanuel Adebayor|Adebayor]] 
+ | p5        = [[Serge Akakpo|Akakpo]] 
+ | p6        = [[Abdoul-Gafar Mamah|Mamah]] 
+ | p7        = [[Moustapha Salifou|Salifou]] 
+ | p8        = [[Komlan Amewou|Amwou]] 
+ | p9        = [[Thomas Dossevi|Dossevi]] 
+ | p10       = [[Floyd Ayit|F. Ayit]] 
+ | p11       = [[Jonathan Ayit|J. Ayit]] 
+ | p12       = [[Eric Akoto|Akoto]]
+ | p13       = [[Richmond Forson|Forson]] 
+ | p14       = [[Akimsola Boussari|Boussari]]
+ | p15       = [[Alaixys Romao|Romao]] 
+ | p16       = [[Kossi Agassa|Agassa]] 
+ | p17       = [[Serge Gakp|Gakp]] 
+ | p18       = [[Yao Junior Snaya|Snaya]] 
+ | p19       = [[Sapol Mani|Mani]] 
+ | p20       = [[Guillaume Brenner|Brenner]] 
+ | p21       = [[Liyab Kpatoumbi|Kpatoumbi]] 
+ | p22       = [[Baba Tchagouni|Tchagouni]] 
+ | p23       = [[Assimiou Tour|Tour]]
+ | coach       = [[Hubert Velud|Velud]]
+}}<noinclude>[[Kategori:Templat skuat Piala Afrika 2010|Togo]]
+[[Kategori:Templat skuat tim nasional sepak bola Togo|2010]]
+
+
+
+
+
+
+
+</noinclude>

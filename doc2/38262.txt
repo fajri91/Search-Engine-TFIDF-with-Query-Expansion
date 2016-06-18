@@ -1,0 +1,120 @@
+Athlon
+{{rapikan|topik=teknologi informasi}}
+[[Berkas:Athlon_XP_kecil.png|140px|right|Logo Athlon XP]]
+'''Athlon''' (AMD Athlon) adalah sebuah seri [[mikroprosesor]] generasi ketujuh ([[K7]]) untuk [[PC]] yang dibuat [[AMD]]. Athlon memiliki beberapa kemampuan, seperti [[system bus]] berkecepatan 200Mhz, sembilan ''execution pipelines'' (tiga pipeline untuk [[kalkulasi]] alamat, tiga untuk kalkulasi [[integer]] dan tiga untuk kalkulasi ''floating point'' dan instruksi [[3DNow!]] dan [[MMX]]).
+
+Teknologi 3DNow! untuk menjalankan aplikasi 3D berkecepatan tinggi dan sistem [[cache]] ''on chip'' sebesar 384K ([[Cache L1]] sebesar 128K dan [[Cache L2]] sebesar 256K). Athlon harus dipasang pada [[papan induk]] (''motherboard'') yang memiliki slot A.
+
+== Pengembangan ==
+Seri Athlon merupakan pengganti dari [[mikroprosesor]] seri [[AMD K6|K6]] yang sebelumnya didesain oleh [[NexGen Corporation]]. Prosesor ini benar-benar baru dan didesain tidak menggunakan [[socket-7]] seperti [[AMD K6]] yang telah beredar sebelumnya dan menggunakan desain cartridge sama seperti [[Intel]] [[Pentium II]]/[[Pentium III|III]] [[Slot-1]] 242-pin, dengan penempatan posisi pin yang berbeda dengan prosesor Intel sehingga tidak ''pin-compatible'' dengan prosesor Intel tersebut. Akibat yang dibawa oleh desain ''cartridge'' ini adalah bahwa [[cache]] Level-2 yang berada dalam ''cartridge'' memiliki ''divider'' kecepatan sehingga tidak berjalan sama dengan kecepatan CPU. Cache minimal Level-2 yang dimiliki oleh prosesor AMD Athlon ini adalah 512 KB dan maksimal adalah 8192 KB (8MB). Karena desain arsitektural yang baru dari AMD Athlon, yaitu dengan menggunakan bus [[DEC EV6]], pin-pin dari slot-A dibedakan dari slot-1 milik Intel. Orang-orang yang agak skeptis akan menganggap bahwa AMD Athlon adalah DEC Alpha dengan tambahan instruksi [[x86]] dan [[MMX]].
+
+Prosesor ini merupakan aksi come-back AMD ke pasar industri mikroprosesor high-end dan AMD ingin menggeser Intel sebagai pemimpin pasar industri mikroprosesor. Secara arsitektural, prosesor ini memiliki arsitektur yang hampir mirip dengan DEC ([[Digital Equipment Corporation]]) [[DEC Alpha|Alpha]] 21164 dan 21264, dua buah prosesor [[RISC]] 64-bit. Beberapa desain yang diambil dari DEC EV-6 di antaranya adalah tiga [[integer]] pipeline 10-stage, dan tiga [[floating point]] pipeline 9-stage, ditambah tiga address generator (satu per ''integer pipeline'') yang beroperasi secara independen dengan unit eksekusi lainnya. Fitur tambahan yang berbeda dengan desain Alpha adalah tambahan dua unit instruksi untuk [[3DNow!]] dan dua instruksi untuk [[MMX]] yang berada di dalam pipeline floating point. Instruksi 3DNow! yang dimasukkan ke dalam prosesor AMD Athlon telah diperbaiki dan diperluas dengan menambahkan 24 instruksi tambahan untuk meningkatkan kalkulasi aritmetika integer. Jika dibandingkan dengan prosesor K6, kinerja yang dihasilkan oleh Athlon sangat jauh berbeda khususnya untuk kinerja floating point dan integer. Bahkan dapat mengungguli Intel [[Pentium III]] Katmai dan baru dapat didekati oleh [[Pentium III]] Coppermine.
+
+Desain L1 cache yang dimiliki Athlon juga mirip dengan prosesor DEC Alpha, yang juga sama-sama memiliki 128 KB. Hal ini mengakibatkan prosesor Athlon mendapatkan rekor baru: prosesor [[x86]] pertama yang memiliki L1 cache paling besar. Seperti halnya prosesor modern, L1 cache dibagi dua sama rata: 64 KB untuk [[data cache]] dan 64 KB untuk [[instruction cache]]. Walaupun begitu, untuk cache L2 yang dimilikinya tidak terlalu istimewa karena terletak dalam [[cartridge]], bukan dalam chip sehingga mengakibatkan kecepatannya akan semakin tinggi-ini sama dengan desain Pentium II dan Pentium III Katmai. Desain ''cartridge'' memang memiliki kelemahan pada divider L2 cache, sehingga kecepatan L2 cache tidaklah sama dengan kecepatan prosesor. Dengan menggunakan divider 1/3, 1/2, dan 2/5 dari clock speed, cache L2 prosesor akan mengalami cache-miss ratio yang semakin besar. Walaupun begitu, lebar bandwidth bus cache L2 ditingkatkan menjadi 64-bit. Sebagaimana prosesor DEC Alpha, yang mengeksklusifkan L1 cache, maka hal ini juga berlaku pada Athlon. Cache L1 yang bersifat eksklusif akan mengakibatkan pada informasi yang ada dalam L1 tidak akan disalin pada cache L2 seperti halnya pada [[Pentium Pro]] dan turunannya (Pentium III dan Pentium 4) dan untuk memfasilitasi transfer di antara keduanya, AMD mengimplementasikan satu buffer "korban".
+
+Fitur kunci lainnya yang dimiliki oleh Athlon adalah arsitektur system bus yang baru yang diberi nama [[S2K]], yang merupakan turunan langsung dari [[system bus]] prosesor DEC EV6. S2K normalnya berjalan pada kecepatan 100 MHz dan dapat ditingkatkan hingga kecepatan 400 MHz. Walaupun berjalan pada kecepatan 100 MHz, S2K dapat mentransfer data dua kali dalam satu clock pada saat kurva sedang tinggi dan rendah sehingga akan meningkatkan throughput hingga dua kali lipatnya. Teknologi semacam ini dikenal dengan nama DDR, atau Double Data Rate. Akan tetapi S2K hanya berlaku dalam system bus saja, karena address bus tidak terpengaruh dan akibatnya address bus hanya memiliki kecepatan yang sama dengan FSB.
+
+Selain fitur-fitur tersebut, prosesor AMD Athlon juga dapat dijadikan prosesor untuk sistem multi-prosesor, seperti halnya pada prosesor generasi keenam Intel, [[P6]]. Sebenarnya, arsitektur multi-prosesor ini sudah dimiliki oleh prosesor AMD K6, akan tetapi masih belum ada chipset yang mendukungnya. Maka, impian para penggemar AMD atau para teknisi yang haus akan kinerja komputasi dengan menggunakan arsitektur multi-prosesor yang dimiliki oleh prosesor AMD K6 tetaplah menjadi impian. Hal ini tidaklah terjadi pada prosesor AMD Athlon. Dengan menggunakan chipset AMD 750MP (Iron-gate) dan AMD 760MPX impian untuk menjadikan komputer yang memiliki dua prosesor AMD Athlon dapatlah terwujud. Untuk itulah, AMD membuat dua jenis prosesor: Single-processor, dengan nama AMD Athlon, dan Multi-processor, dengan nama AMD Athlon Professional. Keduanya sama-sama dibekali teknologi yang sama dengan perbedaan dukungan untuk multi-prosesor-walaupun banyak overclocker yang dapat menjalankan AMD Athlon biasa pada motherboard dengan dua prosesor dengan mengubah beberapa bridge pada core prosesor.
+
+AMD Athlon/Athlon Professional dibangun di atas wafer 250 nanometer dan 180 nanometer. Untuk itu, AMD menamai prosesor yang dibuat di atas wafer 250 nanometer dengan kode C, dan yang dibuat di atas wafer 180 nanometer dengan kode A.
+
+Kalau dibanding-bandingkan, prosesor ini adalah ditujukan untuk menyaingi prosesor Intel Pentium II Xeon/Pentium III Xeon, dengan semua keandalan yang dimilikinya. Athlon menang pada arsitektur system bus, sedangkan Xeon menang pada Cache Level-2 yang berjalan pada kecepatan penuh (full core speed) walaupun dia berada dalam cartridge. Pentium III dan apalagi Pentium II bukanlah lawan yang dapa[[Berkas:Slot-A_Athlon.jpg|thumb|right|250px|Slot-A Athlon]]t menandingi kekuatan prosesor Athlon. Hanya Pentium III Coppermine saja yang dapat mengunggulinya (walaupun selisihnya sedikit sekali).
+
+Kecepatan prosesor ini mentok pada kecepatan 1000 MHz. Walaupun begitu, AMD berhasil mencapai batas psikologis: menembus batasan 1000 MHz (1 GHz) tiga hari lebih cepat sebelum Intel meluncurkan prosesor Pentium III Coppermine 1 GHz. Ini mengakibatkan prosesor AMD layak mendapat predikat "Processor of the Year" pada tahun 2000, yang sejak tahun 1993 hingga tahun 1999 selalu dikuasai oleh prosesor Intel tanpa dapat didekati AMD.
+
+== Model ==
+=== Athlon ===
+==== Athlon Classic ====
+* -> '''K7''' "Argon" (250 nm)
+* -> '''K75''' "Pluto/Orion" (180 nm)
+* L1-Cache: 64 + 64 KiB (Data + Instructions)
+* L2-Cache: 512 KiB, external chips pada CPU modul dengan 50, 40 atau 33% of CPU-speed
+* [[MMX]], [[3DNow!]]
+* [[Slot A]] (EV6)
+* [[Front side bus]]: 200 MT/s (100 MHz double-pumped)
+* VCore: 1.6 V (K7), 1.6 - 1.8 V (K75)
+* Keluar pertama: 23 Juni 1999 (K7), 29 November 1999 (K75)
+* Clockrate: 500 - 700 MHz (K7), 550 - 1000 MHz (K75)
+
+==== Thunderbird (180 nm) ====
+* L1-Cache: 64 + 64 KiB (Data + Instruksi)
+* L2-Cache: 256 KiB, kecepatan penuh
+* [[MMX]], [[3DNow!]]
+* [[Slot A]] & [[Soket A]] (EV6)
+* [[Front side bus]]: 200 MT/s (Slot-A, B-models), 266 MT/s (C-models) (100, 133 MHz double-pumped)
+* VCore: 1.7 V - 1.75 V
+* Keluar pertama: 5 Juni 2000
+* Clockrate: 
+** [[Slot A]]: 650 - 1000 MHz
+** [[Soket A]], 200 MT/s FSB (B-models): 650 - 1400 MHz
+** [[Soket A]], 266 MT/s FSB (C-models): 1000 - 1400 MHz
+
+=== Athlon XP ===
+==== Palomino (180 nm) ====
+* L1-Cache: 64 + 64 KiB (Data + Instruksi)
+* L2-Cache: 256 KiB, kecepatan penuh
+* [[MMX]], [[3DNow!]], Streaming SIMD Extensions / [[SSE]]
+* [[Soket A]] (EV6)
+* [[Front side bus]]: 266 MT/s (133 MHz double-pumped)
+* VCore: 1.75 V
+* Keluar pertama: 9 Oktober 2001
+* Clockrate: 1333 - 1733 MHz (1500+ to 2100+)
+
+==== Thoroughbred A/B (130 nm) ====
+* L1-Cache: 64 + 64 KiB (Data + Instruksi)
+* L2-Cache: 256 KiB, kecepatan penuh
+* [[MMX]], [[3DNow!]], Streaming SIMD Extensions / [[SSE]]
+* [[Soket A]] (EV6)
+* [[Front side bus]]: 266/333 MT/s (133/166 MHz double-pumped)
+* VCore: 1.5 V - 1.65 V
+* Keluar pertama: 10 Juni 2002 (A), 21 Agustus 2002 (B)
+* Clockrate:
+** T-Bred "A": 1400 - 1800 MHz (1600+ to 2200+)
+** T-Bred "B": 1400 - 2250 MHz (1600+ to 2800+)
+** 266 MT/s FSB: 1400 - 2133 MHz (1600+ to 2600+)
+** 333 MT/s FSB: 2083 - 2250 MHz (2600+ to 2800+)
+
+==== Thorton (130 nm) ====
+* L1-Cache: 64 + 64 KiB (Data + Instruksi)
+* L2-Cache: 256 KiB, kecepatan penuh
+* [[MMX]], [[3DNow!]], Streaming SIMD Extensions / [[SSE]]
+* [[Soket A]] (EV6)
+* [[Front side bus]]: 266/333/400 MT/s (133/166/200 MHz double-pumped)
+* VCore: 1.6 V - 1.65 V
+* Keluar pertama: September 2003
+* Clockrate: 1667 - 2200 MHz (2000+ to 3100+)
+
+==== Barton (130 nm) ====
+* L1-Cache: 64 + 64 KiB (Data + Instruksi)
+* L2-Cache: 512 KiB, kecepatan penuh
+* [[MMX]], [[3DNow!]], Streaming SIMD Extensions / [[SSE]]
+* [[Soket A]] (EV6)
+* [[Front side bus]]: 333/400 MT/s (166/200 MHz double-pumped)
+* VCore: 1.65 V
+* Pertama keluar: 10 February 2003
+* Clockrate: 1833 - 2333 MHz (2500+ to 3300+)
+** 333 MT/s FSB: 1833 - 2333 MHz (2500+ to 3300+)
+** 400 MT/s FSB: 2100, 2200 MHz (3000+, 3200+)
+
+== Lihat pula ==
+* [[AMD]]
+* [[Athlon Classic]]
+* [[Athlon Thunderbird]] (T-Bird)
+* [[Athlon XP/MP]]
+* [[Daftar prosesor AMD Athlon]]
+* [[Daftar prosesor AMD Athlon XP]]
+* [[Daftar prosesor AMD Athlon 64]]
+
+== Pranala luar ==
+* {{en}}[http://www.amdboard.com/amdid.html amdboard.com] AMD Athlon/Duron/Sempron CPU identification and OPN breakdown
+* {{en}}[http://web.archive.org/web/20040608202747/http://www.amd.com/gb-uk/assets/content_type/DownloadableAssets/K7_Electrical_Specification_Rev_ENG.pdf AMD's Technical Specifications] for 7th generation CPUs (.pdf)
+* {{de}}[http://www.ocinside.de/html/workshop/amd_a64_product_id.html Easy identification with Interactive AMD product ID]
+* {{de}} [http://www.cpu-collection.de/?tn=0&l0=co&l1=AMD&l2=Athlon cpu-collection.de] AMD Athlon processor images and descriptions
+
+{{AMD processors}}
+
+[[Kategori:Mikroprosesor]]
+
+
+
+[[hu:Advanced Micro Devices#Athlon]]

@@ -1,0 +1,27 @@
+Templat:Flagteam/doc
+{{Subhalaman dokumentasi}}
+<!-- TAMBAHKAN KATEGORI DAN PRANALA ANTARBAHASA DI BAGIAN PALING BAWAH HALAMAN INI -->
+
+=== Penggunaan ===
+Memperlihatkan ikon bendera, nama negara, dan kode negara dalam kurung. Masukkan terlebih dahulu kode negara (Perhatian: Kode negara dalam hal ini harus kode negara tiga huruf, yang dua huruf dilarang), dan yang kedua adalah bendera tahun berapakah yang digunakan, jika diperlukan. Sangat membantu untuk tabel hasil olahraga, apalagi yang mengidentifikasikan tim nasional.
+
+==== Contoh ====
+*<tt><nowiki>{{flagteam|IRQ}}</nowiki></tt>  {{flagteam|IRQ}}
+*<tt><nowiki>{{flagteam|SCO}}</nowiki></tt>  {{flagteam|SCO}}
+*<tt><nowiki>{{flagteam|CAN|1921}}</nowiki></tt>  {{flagteam|CAN|1921}}
+*<tt><nowiki>{{flagteam|FR Yugoslavia|code=YUG}}</nowiki></tt>  {{flagteam|FR Yugoslavia|code=YUG}}
+
+=== Lihat pula ===
+* {{tl|Flagathlete}}, serupa dengan templat ini tetapi untuk atlet individu.
+* {{tl|Flag}} dan {{tl|Flagicon}}, untuk diskusi lebih lanjut tentang variasi bendera.
+* [[Daftar kode negara IOC]] dan [[Daftar kode negara FIFA]] untuk daftar kode negara, terutama yang tiga huruf.
+
+<includeonly>
+<!-- KATEGORI DAN PRANALA ANTARBAHASA DILETAKKAN DI SINI -->
+[[Kategori:Sistem templat bendera|Flagteam]]
+
+[[en:Template:Flagteam]]
+[[sv:Mall:Flagteam]]
+[[yo:dk:Flagteam]]
+
+</includeonly>

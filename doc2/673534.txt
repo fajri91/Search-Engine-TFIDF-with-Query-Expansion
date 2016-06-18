@@ -1,0 +1,78 @@
+Templat:Program MSNBC
+{{Navbox
+|name = MSNBC Programs
+|title = Program [[MSNBC]]
+|state = {{{state|autocollapse}}}
+|listclass = hlist
+|group1 = Saat ini
+|list1 = 
+{{Navbox subgroup
+|group1 = Hari kerja
+|list1 =
+* ''[[First Look (program MSNBC)|First Look]]''
+* ''[[Way Too Early]]''
+* ''[[Morning Joe]]''
+* ''[[The Daily Rundown]]''
+* ''[[Jansing and Company|Jansing & Co.]]''
+* ''[[MSNBC Live]]''
+* ''[[Now with Alex Wagner]]''
+* ''[[Andrea Mitchell Reports]]''
+* ''[[NewsNation with Tamron Hall]]''
+* ''[[The Cycle (program TV)|The Cycle]]''
+* ''[[The Ed Show]]''
+* ''[[PoliticsNation with Al Sharpton]]''
+* ''[[Hardball with Chris Matthews]]''
+* ''[[All In with Chris Hayes]]''
+* ''[[The Rachel Maddow Show]]''
+* ''[[The Last Word with Lawrence O'Donnell]]''
+|group2 = Akhir pekan
+|list2 =
+* ''[[Up (serial TV)|Up]]''
+* ''[[Melissa Harris-Perry (serial TV)|Melissa Harris-Perry]]''
+* ''[[Weekends with Alex Witt]]''
+* ''[[Your Business]]''
+* ''Caught on Camera''
+* ''[[Disrupt with Karen Finney]]''
+}}
+|group2 = Spesial
+|list2 = 
+* ''[[MSNBC Documentaries]]''
+|group3 = Mantan
+|list3 = 
+{{Navbox subgroup
+|group1 = Hari kerja
+|list1 =
+* ''[[The News with Brian Williams]]''
+* ''[[The Site]]''
+* ''[[Imus in the Morning]]''
+* ''[[The Abrams Report]]''
+* ''[[Alan Keyes Is Making Sense]]''
+* ''[[Buchanan & Press]]''
+* ''[[Donahue (serial TV 2002)|Donahue]]''
+* ''[[Michael Savage#MSNBC television show|The Savage Nation]]''
+* ''[[Scarborough Country]]''
+* ''[[Connected: Coast to Coast]]''
+* ''[[MSNBC at the Movies]]''
+* ''[[Rita Cosby: Live & Direct]]''
+* ''[[The Most with Alison Stewart]]''
+* ''[[Tucker (serial TV 2005)|Tucker]]''
+* ''[[Verdict with Dan Abrams]]''
+* ''[[1600 Pennsylvania Avenue (serial TV)|Race for the White House / 1600 Pennsylvania Avenue]]''
+* ''[[The Dylan Ratigan Show|Morning Meeting with Dylan Ratigan]]''
+* ''[[Dr. Nancy]]''
+* ''[[Countdown with Keith Olbermann]]''
+* ''[[The Dylan Ratigan Show]]'' 
+* ''[[Up Late with Alec Baldwin]]''
+* ''[[Martin Bashir (serial TV)|Martin Bashir]]''
+|group2 = Akhir pekan
+|list2 =
+* ''[[Jesse Ventura's America]]''
+* ''[[Weekends with Maury and Connie]]''
+}}
+
+}}<noinclude>
+{{collapsible option}}
+{{U. S. network show templates}}
+[[Category:Templat navigasi televisi]]
+[[Category:News television navigational boxes|MSNBC Programs]]
+</noinclude>

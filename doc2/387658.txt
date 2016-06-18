@@ -1,0 +1,34 @@
+Mesin pencari belanja
+'''Mesin pencari belanja''' dikenal juga sebagai layanan perbandingan harga ({{lang-en|shopping comparison atau price engine}}). Layanan ini adalah sebuah program komputer berbentuk situs web, yang memungkinkan pengguna untuk melakukan pencarian barang dan harga di Internet.
+
+== Sejarah dan perkembangan ==
+Mesin pencari belanja pertama kali diperkenalkan pada tahun 1998, berbagai perusahaan mulai mengembangkan teknologi yang dapat meyimpanan informasi produk dan harga dari situs-situs pedagang [[daring]] ke dalam [[basis data]].
+
+Dalam beberapa tahun terakhir, situs perbandingan harga telah menjadi semakin populer di kalangan para pemilik situs online dan pebelanja online. Perusahaan Internet besar di luar negeri seperti Google, Yahoo, MSN, CNET dan AOL telah menyediakan layanan perbandingan barang dan harga. Ada juga sejumlah perusahaan startup kecil yang mencoba membangun mesin belanja yang lebih baik untuk mengambil ceruk pasar yang sedang berkembang.
+Salah satu alasan mengapa situs pencari belanja dapat tumbuh begitu pesat, karena sulitnya mendapatkan informasi atas sebuah produk dan harga tertentu lewat sebuah [[mesin pencari]] pada umumnya. 
+
+== Metode dan teknologi ==
+Mesin pencari belanja bekerja dengan menyimpan banyak informasi dari situs-situs pedagang. Ketika seorang pengguna mengunjungi mesin pencari belanja dan memasukkan query atau kata kunci, mesin pencari belanja akan memberikan daftar produk yang paling sesuai dengan kriterianya, biasanya disertai ringkasan singkat mengenai sebuah produk, harga dan nama merchant yang menjual produk tersebut. 
+Hal ini dilakukan dengan teknik ekstrasi informasi, penggali data (data mining), klasifikasi, prediksi, juga melibatkan tenaga manusia.
+
+== Cara kerja mesin pencari belanja == 
+Cara kerja sebuh mesin pencari dalam memperoleh informasi produk dari situs pedagang dibagi menjadi dua: 
+* Menggunakan web crawler  [[penjelajah web]] otomatis yang mengikuti setiap pranala yang dilihatnya. Namun sulit untuk membangun sebuah mesin perbandingan belanja cara ini, karena informasi dan format situs pedagang sangat bervariasi. Deskripsi produk dan bahkan judul produk dapat bervariasi antara website pedagang, sehingga bisa sulit untuk mesin belanja untuk dapat membandingkan produk yang identik. Selain itu, setiap kali pedagang perubahan format situs web, crawler dapat berhenti bekerja dengan baik. Tentu saja, crawler perlu terus mengunjungi situs pedagang untuk menjamin informasi yang mutakhir.
+* Data ''feed'' dari situs web pedagang. Data feed adalah pada dasarnya khusus data berkas yang pedagang mempersiapkan dan membuat tersedia untuk mesin belanja. 
+Keuntungan menggunakan data feed adalah, semua informasi yang disediakan dalam format yang bagus yang mudah untuk mesin belanja untuk memahami dan menganalisa. Ini jauh lebih mudah, lebih cepat dan lebih handal untuk mesin belanja untuk mendapatkan informasi dari feed data daripada dengan mencoba menggunakan ''web crawler''.
+
+== Lihat pula ==
+* [[Sejarah Internet]]
+* [[Daftar mesin pencari]]
+* [[Data mining]]
+
+== Pranala luar ==
+* '''(Indonesia) [http://id.pricepedia.org Pricepedia]'''
+* {{id}} [http://www.pricebook.co.id Pricebook]
+* {{en}} [http://www.pricerunner.co.uk/ Price Runner]
+* {{en}} [http://www.pricegrabber.com/ Price Grabber]
+* {{en}} [http://www.kelkoo.co.uk/ Kelkoo]
+
+{{Internet-stub}}
+[[Kategori:Mesin pencari Internet]]
+[[Kategori:Perdagangan elektronik]]

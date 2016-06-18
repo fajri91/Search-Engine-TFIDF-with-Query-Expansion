@@ -1,0 +1,36 @@
+Templat:Cities and towns in Sonneberg (district)
+{{Navbox
+|name=Cities and towns in Sonneberg (district)
+|image= [[Image:Wappen Landkreis Sonneberg.png|right|30px|Coat of arms]]
+| listclass = hlist
+| title =Kota dan kotamadya di [[Sonneberg (distrik)|Sonneberg]]
+|liststyle=font-size:95%;
+|list1= [[Bachfeld]]{{}} <!--
+-->[[Effelder-Rauenstein]]{{}} <!--
+-->[[Fritz]]{{}} <!--
+-->[[Goldisthal]]{{}} <!--
+-->[[Judenbach]]{{}} <!--
+-->[[Lauscha]]{{}} <!--
+-->[[Mengersgereuth-Hmmern]]{{}} <!--
+-->[[Neuhaus am Rennweg]]{{}} <!--
+-->[[Neuhaus-Schierschnitz]]{{}} <!--
+-->[[Oberland am Rennsteig]]{{}} <!--
+-->[[Schalkau]]{{}} <!--
+-->[[Scheibe-Alsbach]]{{}} <!--
+-->[[Siegmundsburg]]{{}} <!--
+-->[[Sonneberg]]{{}} <!--
+-->[[Steinach, Thringen|Steinach]]{{}} <!--
+-->[[Steinheid]]
+}}<noinclude>
+
+[[Category:Templat pembagian administratif Jerman|Sonneberg]]
+
+
+
+
+
+
+
+
+
+</noinclude>

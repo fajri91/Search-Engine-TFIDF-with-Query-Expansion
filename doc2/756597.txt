@@ -1,0 +1,52 @@
+Templat:Presiden Suriah
+{{Navbox
+|name  = Presiden Suriah
+|title = [[Daftar Presiden Suriah|Presiden Suriah]]
+|state = {{{state|autocollapse}}}
+|image = 
+|listclass = hlist
+
+|group1= [[Mandat Perancis atas Suriah|Mandat Perancis]]
+|list1 = 
+* [[Subhi Barakat]]
+* [[Franois Pierre-Alype]]<sup>AP</sup>
+* [[Ahmad Nami]]
+* [[Taj al-Din al-Hasani]]<sup>AP</sup>
+* [[Lon Solomiac]]<sup>AP</sup>
+* [[Muhammad Ali al-Abid]]
+* [[Hashim al-Atassi]]
+* [[Bahij al-Khatib]]
+* [[Khalid al-Azm]]<sup>AP</sup>
+* [[Taj al-Din al-Hasani]]
+* [[Jamil al-Ulshi]]<sup>AP</sup>
+* [[Ata al-Ayyubi]]
+* [[Shukri al-Quwatli]]
+|group2= [[Republik Suriah (19301958)|Republik Suriah]]
+|list2 = 
+* [[Shukri al-Quwatli]]
+* [[Husni al-Za'im]]<sup></sup>
+* [[Sami al-Hinnawi]]<sup>AP</sup><sup></sup>
+* [[Hashim al-Atassi]]
+* [[Adib Shishakli]]<sup>AP</sup><sup></sup>
+* [[Fawzi Selu]]<sup></sup>
+* [[Adib Shishakli]]
+* [[Maamun al-Kuzbari]]<sup>AP</sup><sup></sup>
+* [[Hashim al-Atassi]]
+* [[Shukri al-Quwatli]]
+|group3= [[Republik Arab Bersatu]]
+|list3 = [[Gamal Abdel Nasser]]
+|group4= [[Suriah|Republik Arab Suriah]]
+|list4 = 
+* [[Maamun al-Kuzbari]]<sup>AP</sup>
+* [[Izzat al-Nuss]]<sup>AP</sup><sup></sup>
+* [[Nazim al-Kudsi]]
+* [[Lu'ay al-Atassi]]<sup></sup>
+* [[Amin al-Hafiz]]<sup></sup>
+* [[Nureddin al-Atassi]]<sup></sup>
+* [[Ahmad al-Khatib]]<sup>AP</sup>
+* [[Hafez al-Assad]]
+* [[Abdul Halim Khaddam]]<sup>AP</sup>
+* [[Bashar al-Assad]]
+
+|below = <sup>AP</sup>: Presiden sementara; <sup></sup>: Militer
+}}

@@ -1,0 +1,45 @@
+Templat:Voting
+{| class=wikitable style="background:#FFFFFF; {{{styletab|}}}" width={{{width|50%}}} align={{{align|left}}}
+|-
+!width="{{#if: {{{extra|}}} |33%|50%}}" align="center" style="background-color: #f6f9f6; padding: 5px;"| {{{1|Pilihan I}}}
+!width="{{#if: {{{extra|}}} |33%|50%}}" align="center" style="background-color: #f6f9f6; padding: 5px;"| {{{2|Pilihan II}}}
+{{#if: {{{extra|}}} | !width="33%" align="center" style="background-color: #f6f9f6; padding: 5px;"{{!}} {{{extra|Pilihan III}}} }}
+|- class="plainlinks"
+|align=center height=28px|<span style='font-size:25px; ' dir="LTR"><font color="green">[http://id.wikipedia.org/w/index.php?title={{{link1|Templat:Voting/1}}}&action=edit&editintro={{{intro|Templat:Voting/preview}}}{{{preload1|}}}{{#ifexist:
+ Templat:Voting/preview/{{SUBPAGENAME}} |
+ /{{SUBPAGENAME}}
+}} {{{3|BERIKAN SUARA ANDA <u>DI SINI</u>}}}]</font>
+|align=center height=28px|<span style='font-size:25px; ' dir="LTR"><font color="green">[http://id.wikipedia.org/w/index.php?title={{{link2|Templat:Voting/2}}}&action=edit&editintro={{{intro|Templat:Voting/preview}}}{{{preload2|}}}{{#ifexist:
+ Templat:Voting/preview/{{SUBPAGENAME}} |
+ /{{SUBPAGENAME}}
+}} {{{3|BERIKAN SUARA ANDA <u>DI SINI</u>}}}]</font>{{#if: {{{extra|}}} |
+{{!}}align=center height=28px{{!}}<span style='font-size:25px; ' dir="LTR"><font color="green">[http://id.wikipedia.org/w/index.php?title={{{link3|Templat:Voting/3}}}&action=edit&editintro={{{intro|Templat:Voting/preview}}}{{{preload3|}}}{{#ifexist:
+ Templat:Voting/preview/{{SUBPAGENAME}} {{!}}
+ /{{SUBPAGENAME}}
+}} {{{3|BERIKAN SUARA ANDA <u>DI SINI</u>}}}]</font>
+|}}
+{{#ifexist: {{{intro|}}} |
+{{!-}}class="plainlinks"
+{{!}}colspan="{{#if: {{{extra|}}} |3|2}}"{{!}}<div align="center"><small> [http://id.wikipedia.org/w/index.php?title={{{intro}}}&action=edit Sunting editintro]</small></div>
+|
+{{!-}}class="plainlinks"
+{{!}}colspan="{{#if: {{{extra|}}} |3|2}}"{{!}}<div align="center"><small> [http://id.wikipedia.org/w/index.php?title={{{intro}}}&action=edit{{{preloadintro|}}} Buat editintro]</small></div>
+}}
+|-class="plainlinks"
+|valign=top|
+<div style="height: {{{height|250px}}}; width:98%; overflow: auto; padding: 3px; border:1px solid black; {{{style1|}}}">
+{{#ifexist:{{{link1|}}}|{{:{{{link1|Templat:Voting/1}}}}}|<div align="center">[http://id.wikipedia.org/w/index.php?title={{{link1|Templat:Voting/1}}}&action=edit&editintro={{{intro|Templat:Voting/preview}}}{{{preload1|}}} {{{new1|{{{3|BERIKAN SUARA ANDA <u>DI SINI</u>}}}}}}]</div>}}
+</div>
+|valign=top|
+<div style="height: {{{height|250px}}}; width:98%; overflow: auto; padding: 3px; border:1px solid black; {{{style2|}}}">
+{{#ifexist:{{{link2|}}}|{{:{{{link2|Templat:Voting/2}}}}}|<div align="center">[http://id.wikipedia.org/w/index.php?title={{{link2|Templat:Voting/2}}}&action=edit&editintro={{{intro|Templat:Voting/preview}}}{{{preload2|}}} {{{new2|{{{3|BERIKAN SUARA ANDA <u>DI SINI</u>}}}}}}]</div>}}
+</div>
+{{#if: {{{extra|}}} |
+{{!}}valign=top{{!}}
+<div style="height: {{{height|250px}}}; width:98%; overflow: auto; padding: 3px; border:1px solid black; {{{style3|}}}">
+{{#ifexist:{{{link3|}}}|{{:{{{link3|Templat:Voting/3}}}}}|<div align="center">[http://id.wikipedia.org/w/index.php?title={{{link3|Templat:Voting/3}}}&action=edit&editintro={{{intro|Templat:Voting/preview}}}{{{preload3|}}} {{{new3|{{{3|BERIKAN SUARA ANDA <u>DI SINI</u>}}}}}}]</div>}}
+</div>
+|}}
+|}<noinclude>
+{{doc}}
+</noinclude>

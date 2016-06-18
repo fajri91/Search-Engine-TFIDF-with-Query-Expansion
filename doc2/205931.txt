@@ -1,0 +1,33 @@
+Portal:Tibet/Lokasi pilihan
+{{artikelutama|Portal:Tibet}}
+
+__TOC__
+==Instruksi==
+
+Rancangan berikut merupakan halaman tambahan untuk [[Portal:Tibet/Lokasi pilihan/Tampilan]].
+
+# Tambahkan tulisan mengenai Lokasi pilihan yang baru pada halaman tambahan selanjutnya.
+#* Hari raya tersebut harus yang bertemakan [[Tibet]]
+# Ringkasan dari Lokasi pilihan ini tidak boleh melebihi 10 alinea guna pembentukan pada halaman utama portal.
+# Perbarui "max=" pada jumlah total dari artikel {{tl|Random portal component}} pada halaman utama.
+
+== Selected articles list ==
+[[Portal:Tibet/Lokasi pilihan/1]] <br />
+{{Portal:Tibet/Lokasi pilihan/1}}
+----
+[[Portal:Tibet/Lokasi pilihan/2]] <br />
+{{Portal:Tibet/Lokasi pilihan/2}}
+----
+[[Portal:Tibet/Lokasi pilihan/3]] <br />
+{{Portal:Tibet/Lokasi pilihan/3}}
+----
+== Nominasi ==
+;Penambahan Lokasi pilihan
+* Dipersilahkan untuk menambahkan Hari raya dengan tema [[Tibet]] pada daftar di atas.
+----
+
+__NOTOC__
+
+<noinclude>
+[[Kategori:Portal:Tibet|{{SUBPAGENAME}}]]
+</noinclude>

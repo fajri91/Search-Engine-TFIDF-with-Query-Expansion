@@ -1,0 +1,27 @@
+Porfiria
+{{Penyangkalan-medis}}
+{{Infobox disease |
+  Name           = Porfiria |
+  Image          = |
+  Caption        = |
+  DiseasesDB     = |
+  ICD10          = {{ICD10|E|80|0|e|70}}-{{ICD10|E|80|2|e|70}} |
+  ICD9           = {{ICD9|277.1}} |
+  ICDO           = |
+  OMIM           = |
+  MedlinePlus    = 001208 |
+  eMedicineSubj  = |
+  eMedicineTopic = |
+  MeshName       = Porphyrias |
+  MeshNumber     = C17.800.849.617 |
+}}
+'''Porfiria''' berasal dari bahasa [[bahasa Yunani|Yunani]] , ''porphura'' yang berarti "warna ungu". Hal ini merujuk pada [[warna]] [[urin]] pasien ''porphyria'' yang mengandungi warna menyebabkan warnanya berubah menjadi merah hingga biru gelap. 
+
+Porphyria bukan merupakan penyakit menular tetapi merupakan penyakit genetika yang diwaris dari orang tua. 
+
+{{penyakit-stub}}
+
+[[Kategori:Penyakit genetik]]
+[[Kategori:Hematologi]]
+[[Kategori:Gastroenterologi]]
+[[Kategori:Dermatologi]]

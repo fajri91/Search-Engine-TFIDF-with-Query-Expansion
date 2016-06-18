@@ -1,0 +1,14 @@
+Berkas:Plum 02.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+sendirian
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{GFDL-self}}

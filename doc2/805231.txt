@@ -1,0 +1,49 @@
+Karl Mantzius
+{{Infobox person
+|name          = Karl Mantzius
+|image         = Karl Mantzius by Hansen & Weller.jpg
+|alt           = 
+|caption       = Foto potret Mantzius karya [[Hansen, Schou & Weller|Hansen & Weller]]
+|birth_name    = <!-- only use if different from name -->
+|birth_date    = {{Birth date|1860|02|20|df=yes}}
+|birth_place   = [[Copenhagen]], Denmark
+|death_date    = {{Death date and age|1921|05|17|1860|02|20|df=yes}}
+|death_place   = [[Frederiksberg]], Denmark
+|occupation    = {{Plainlist|
+*aktor
+*pemain panggung dan sutradara film
+*penyanyi opera
+}}
+}}
+'''Karl Mantzius''' (20 Februari 1860  17 Mei 1921) adalah seorang aktor, pemain panggung sekaligus sutradara film, ahli teater, dan bariton opera asal [[Denmark]].
+
+==Filmografi==
+[[File:Pavillnens hemmelighed (1916).webm|thumb|thumbtime=3|''Pavillnens hemmelighed'' (1916)]]
+Mantzius menjadi sutradara di [[Nordisk Film]] pada tahun 1914 dan mensutradarai tiga film untuk perusahaan tersebut, diantaranya:
+* ''Penge'' (1914)
+* ''Pavillonens hemmelighed'' (1916)
+* ''Addys gteskab'' (1916)
+Dia juga muncul sebagai aktor dalam film Swedia tahun 1919, ''[[His Lordship's Last Will|Hans nds testamente]]'' (''His Lordship's Last Will'') dalam peranannya sebagai yang Mulia.<ref name="Danske Film" />
+
+== Referensi ==
+
+{{Reflist}}
+
+== Pranala luar ==
+
+* {{IMDB name|id=0544209|name=Karl Mantzius}}
+
+{{Authority control}}
+{{Persondata
+|NAME              = Mantzius, Karl
+|ALTERNATIVE NAMES = 
+|SHORT DESCRIPTION = Actor
+|DATE OF BIRTH     = 20 February 1860
+|PLACE OF BIRTH    = Copenhagen, Denmark
+|DATE OF DEATH     = 17 May 1879
+|PLACE OF DEATH    = Frederiksberg, Denmark
+}}
+
+{{DEFAULTSORT:Mantzius, Karl}}
+[[Kategori:Kelahiran 1860]]
+[[Kategori:Kematian 1921]]

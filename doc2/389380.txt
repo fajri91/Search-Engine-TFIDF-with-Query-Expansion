@@ -1,0 +1,43 @@
+Audi A7
+{{Infobox Automobile
+| image          = [[Berkas:Audi A7 Sportback 3.0 TDI quattro  Frontansicht, 6. Mrz 2011, Mettmann.jpg|250px|Audi A7 2011 (Jerman)]]
+| name           = Audi A7 
+| manufacturer   = [[Audi|Audi AG]]
+| parent_company = [[Grup Volkswagen]]
+| aka            =
+| production     = 2010-sekarang
+| assembly       = [[Neckarsulm]], [[Jerman]]
+| predecessor    =
+| successor      =
+| class          = [[Mobil eksekutif]]
+| body_style     = 5-door [[fastback]]
+| layout         = [[Mesin depan]],<br />[[penggerak roda depan]] atau [[quattro (sistem penggerak 4 roda)|quattro]] [[4WD]]
+| platform       = [[Platform Grup Volkswagen MLB|Platform MLB]]
+| engine         = 2.8&nbsp;L [[Mesin V6|V6]]<br />3.0&nbsp;L TFSI<br />3.0&nbsp;L TDI V6 [[Mesin diesel|diesel]]
+| transmission   = [[dual clutch]] 7-speed [[S tronic]]<br />[[multitronik]] [[Continuously variable transmission|CVT]]<br />[[tiptronic]] 8-speed (untuk Amerika Utara)
+| wheelbase      = {{convert|2914|mm|in|1|abbr=on}}
+| length         = {{convert|4970|mm|in|1|abbr=on}}
+| width          = {{convert|1910|mm|in|1|abbr=on}}
+| height         = {{convert|1420|mm|in|1|abbr=on}}
+| weight         = {{convert|1695|kg|lb|1|abbr=on}}
+| fuel_capacity  =
+| electric_range =
+| related        = [[Audi Sportback Konsep]]<br />
+| designer       =
+}}
+
+'''Audi A7 Sportback''' (kode produksi '''''Typ 4G''''') adalah sebuah mobil koupe eksekutif 5 pintu yang diproduksi oleh [[Audi]]. Mobil ini menggunakan platform [[Platform Grup Volkswagen MLB|MLB]] seperti [[Audi A6]]. Mobil ini diumumkan di museum Pinakothek der Moderne di [[Munich]] tanggal 27 Juli 2010 dan memulai debutnya di [[Paris Motor Show 2010]]. Mobil ini sebelumnya sudah pernah tampil dalam bentuk mobil konsep [[Audi Sportback Konsep]] yang diperlihatkan tahun 2009 di [[Detroit Auto Show]].<ref name="car">{{cite web|url=http://www.carmagazine.co.uk/News/Search-Results/Motor-show--events/Detroit-Motor-Show-/2009/Audi-Sportback-unveiled-at-Detroit-auto-show-2009-110109/|title=Audi Sportback unveiled at Detroit auto show 2009|last=Pollard|first=Tim|date=2009-01-12|work=[[Car Magazine]]|accessdate=2009-01-19}}</ref> Mobil ini akhirnya diluncurkan di AS pada [[New York Auto Show]] bulan April 2011.<ref>[http://wot.motortrend.com/2011-new-york-audi-a7-available-2011-starts-59250-69633.html Motor Trend 19 April 2011]</ref>
+
+Empat buah mesin tersedia, 2 [[mesin bensin]] [[Mesin V6|V6]] tersedia saat dilucurkan: 2.8L (201 bhp (150 kW; 204 PS)) dan 3.0L (295 bhp (220 kW; 299 PS)) dan juga dua [[mesin diesel]]: 3.0L dengan dua pilihan tenaga: 201 bhp (150 kW; 204 PS) atau 241 bhp (180 kW; 244 PS).<ref name="autocar-20100726">{{cite web|title=Audi A7 revealed|url=http://www.autocar.co.uk/News/NewsArticle/AllCars/251571/|work=[[Autocar]]|accessdate=28 July 2010|date=26 July 2010}}</ref>
+
+Keberadaan A7 menandai kembalinya Audi ke pasar koupe eksekutif setelah sebelumnya mereka meluncurkan [[Audi 100]] Coup S pada tahun 1990-an. Mobil ini memiliki semua fitur pengendara dari [[Audi A8]], dengan penambahan [[Head-up display]] dan [[Sistem peringatan lajur lalu lintas|Active Lane Assist]].
+
+== Referensi ==
+{{reflist}}
+
+== Pranala luar ==
+* [http://www.audi.com/com/brand/en/company/news/models_and_services.detail.2010~07~elegance_on_a_grand.html Audi Press Release July 2010]
+
+{{Audi}}
+
+[[Kategori:Kendaraan Audi]]

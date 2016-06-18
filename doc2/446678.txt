@@ -1,0 +1,27 @@
+Templat:Penyiar DAAI TV
+{{Navbox
+|name = Penyiar DAAI TV
+|image = [[Berkas:DAAI TV Jakarta.png|180 px]]
+|title = Presenter/penyiar/pembaca berita [[DAAI TV]]
+|listclass = hlist
+|group1 = Saat ini
+|list1  = 
+* [[Astia Dika]]
+* [[Becky Tumewu]]
+* [[Clara Hutauruk]]
+* [[Maria Imakulata]]
+* [[Sumboko]]
+|group2 = Mantan
+|list2 =
+* [[Eka Wahyu Nugraha]]
+* [[Fitri Yuliani]]
+* [[Jennifer Lie]]
+* [[Melvi Kho]]
+* [[Ninok Hariyani]]
+* [[Saesarez Novandito]]
+* [[Santi Kurniasari Hanjoyo]]
+* [[Yulika Satria Daya]]
+}}<noinclude>
+{{Templat penyiar televisi Indonesia}}
+[[Kategori:Templat navigasi penyiar televisi Indonesia|{{PAGENAME}}]]
+</noinclude>

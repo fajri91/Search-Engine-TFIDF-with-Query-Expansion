@@ -1,0 +1,10 @@
+Templat:PesisirFallires-geo-stub
+{{asbox
+| image     = Ant-pen-map-Fallires.PNG
+| pix       = 35
+| subject   = tempat di [[Pesisir Fallires]]
+| qualifier = 
+| category  = Rintisan bertopik geografi Pesisir Fallires
+| tempsort  =  
+| name      = Templat:PesisirFallires-geo-stub
+}}

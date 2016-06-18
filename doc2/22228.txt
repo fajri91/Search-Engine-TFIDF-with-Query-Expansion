@@ -1,0 +1,12 @@
+Templat:User en-4
+{{Babel-box
+| level         = 4
+| id            = [[Bahasa Inggris|en]]
+| info          = This user speaks '''[[:Kategori:User en|English]]''' at a '''[[:Kategori:User en-4|near-native]]''' level.
+| userkategori  = User en
+| userkategori2 = User en-4
+}}<noinclude>
+{{Babel-bar|en}}
+[[Kategori:Templat Babel|en-4]]
+
+</noinclude>

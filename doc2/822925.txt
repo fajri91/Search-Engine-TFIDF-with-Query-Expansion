@@ -1,0 +1,6 @@
+Templat:Chembox Addiction liability
+| {{longitem|[[Adiksi|Liabilitas adiksi]]}}
+| {{{value}}}
+|-<noinclude>{{documentation}}
+[[Kategori:Templat kimia]]
+</noinclude>

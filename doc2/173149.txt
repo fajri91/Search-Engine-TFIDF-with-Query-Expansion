@@ -1,0 +1,27 @@
+Svalbard dan Jan Mayen
+:''Ini merupakan artikel untuk "Svalbard dan Jan Mayen" menurut definisi ISO. Untuk detail masing-masing wilayah, lihat [[Svalbard]] dan [[Jan Mayen]].''
+
+'''Svalbard dan Jan Mayen''' merupakan wilayah yang didefinisikan oleh [[ISO 3166-1]]<ref>[http://www.iso.org/iso/en/prods-services/iso3166ma/02iso-3166-code-lists/list-en1.html ISO 3166-1 alpha-2 code elements]</ref> dengan kode "SJ". Kedua wilayah ini terletak di [[Norwegia]] di [[Samudera Arktik]] di bawah yuridiksi yang berbeda: [[Svalbard]] dan [[Jan Mayen]]. Meskipun keduanya digabungkan untuk kepentingan standar internasional, namun keduanya sama sekali tidak berhubungan dalam hal administratif.
+
+Menurut [[ISO 3166-1 alpha-2]] entitas ini diberi kode "SJ", dan dialokasikan [[ccTLD]] dengan kode [[.sj]]. Namun penduduk Svalbard dan Jan Mayen menggunakan [[.no]], [[ccTLD]] Norwegia, sedangkan .sj tidak mereka gunakan.<ref>[http://www.norid.no/domenenavnbaser/bv-sj.html Statement on .sj]</ref>
+
+<!--
+While the Arctic archipelago of [[Svalbard]] is under the full [[sovereignty]] of Norway, it has a [[List of special entities recognized by international treaty or agreement|special status]] recognized by the [[Svalbard Treaty]],<ref>[http://www.austlii.edu.au/au/other/dfat/treaties/1925/10.html Treaty Concerning the Archipalego of Spitsbergen]</ref> resulting in certain obligations and some differences in administration and international agreements by the Norwegian government. For instance, Svalbard is not covered by the [[Schengen Agreement]], which applies to the rest of Norway (including Jan Mayen). Immigrants may also work and live in Svalbard without a visa.<ref>[http://english.aljazeera.net/English/archive/archive?ArchiveId=24223 Immigrants warmly welcomed, by Al Jazeera]</ref> Svalbard is administered by a governor reporting to the [[Minister of Justice and the Police (Norway)|Norwegian Minister of Justice]].
+
+The remote island of [[Jan Mayen]] is an integrated territory of Norway, and it has none of the special considerations applicable to Svalbard. From 1930 to 1994 it was administered by the governor of Svalbard, and since 1995 it has been administered from the mainland by the county governor of [[Nordland]].<ref>[http://www.worldstatesmen.org/Norway.htm Norway information]</ref> Therefore, Jan Mayen does not have any immediate geographic (with the two territories about 1,000 km apart) or otherwise administrative connection to Svalbard.
+
+There are indications that, given the creation of a separate ISO coding for Svalbard, it was the preference of the Norwegian Ministry of Foreign Affairs to include Jan Mayen.<ref>[http://www.unece.org/stats/documents/1998/03/migration/5.e.pdf "Country classifications in migration statistics"] - Statistics Norway working paper, 1998.</ref>
+
+The [[ISO]] designation is congruent with an equivalent [[United Nations Statistics Division]] category and users of these classification systems may in some cases report separately for "Svalbard and Jan Mayen" instead of rolling up this information into the "Norway" category.<ref>[http://www.un.org/Depts/Cartographic/english/geoinfo/geoname.pdf UN List of Territories]</ref><ref>[http://www.un.org/depts/dhl/maplib/countinfo.htm#Svalbard%20and%20Jan%20Mayen%20Islands United Nations Dag Hammarskjld Library]</ref><ref>[http://www.statoids.com/usj.html Statoids: Svalbard and Jan Mayen]</ref>-->
+
+== Referensi ==
+<div class="references-small">
+{{reflist}}
+</div>
+
+[[Kategori:Svalbard]]
+[[Kategori:Jan Mayen]]
+[[Kategori:Norwegia]]
+
+
+{{geo-stub}}

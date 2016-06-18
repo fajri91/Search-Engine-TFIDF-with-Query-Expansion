@@ -1,0 +1,39 @@
+Templat:Zotalemimon
+{{Navbox
+| name  = Zotalemimon
+| title = [[Genus]] ''[[Zotalemimon]]''
+| image=
+| state = collapsed
+| bodyclass = hlist
+| above =
+
+| list1 = 
+* ''[[Zotalemimon biapicata]]''
+* ''[[Zotalemimon biplagiata]]''
+* ''[[Zotalemimon borneotica]]''
+* ''[[Zotalemimon buthanensis]]''
+* ''[[Zotalemimon chapaensis]]''
+* ''[[Zotalemimon ciliata]]''
+* ''[[Zotalemimon costata]]''
+* ''[[Zotalemimon flavolineata]]''
+* ''[[Zotalemimon formosana]]''
+* ''[[Zotalemimon fossulata]]''
+* ''[[Zotalemimon lineatoides]]''
+* ''[[Zotalemimon luteonotata]]''
+* ''[[Zotalemimon malina]]''
+* ''[[Zotalemimon obscurior]]''
+* ''[[Zotalemimon posticata]]''
+* ''[[Zotalemimon procera]]''
+* ''[[Zotalemimon puncticollis]]''
+* ''[[Zotalemimon ropicoides]]''
+* ''[[Zotalemimon strandi]]''
+* ''[[Zotalemimon subglabrata]]''
+* ''[[Zotalemimon subpuncticollis]]''
+* ''[[Zotalemimon sybroides]]''
+* ''[[Zotalemimon vitalisi]]''
+
+| below =
+}}<noinclude>
+[[Kategori:Zotalemimon| ]]
+[[Kategori:Templat navigasi hewan]]
+</noinclude>

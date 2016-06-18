@@ -1,0 +1,1 @@
+templatlocation map france champagneardenne switch1 name champagneardenne top 50 25 bottom 47 5 left 3 25 right 6 0 image champagneardenne region location map svg image1 champagneardenne region relief location map jpg noincludelocation mapinfo kategoritemplat peta wilayak perancischampagneardenne noinclude 

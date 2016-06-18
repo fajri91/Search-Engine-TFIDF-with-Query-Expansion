@@ -1,0 +1,537 @@
+Virus
+{{disambig info|Virus|Virus (disambiguasi)}}
+
+{{Taxobox
+|color = #EE82EE
+|name = Virus
+|image = Rotavirus Reconstruction.jpg
+|image_caption = [[Rotavirus]]
+|virus_group = IVII
+|subdivision_ranks = Groups
+|subdivision =I: Virus dsDNA{{br}}
+II: Virus ssDNA{{br}}
+III: Virus dsRNA{{br}}
+IV: Virus (+)ssRNA{{br}}
+V: Virus ()ssRNA{{br}}
+VI: Virus ssRNA-RT{{br}}
+VII: Virus dsDNA-RT
+}}
+'''Virus''' adalah [[parasit]] mikroskopik yang [[penyakit infeksi|menginfeksi]] [[sel (biologi)|sel]] organisme biologis. Virus bersifat parasit obligat, hal tersebut disebabkan karena virus hanya dapat [[reproduksi|bereproduksi]] di dalam material hidup dengan menginvasi dan memanfaatkan sel makhluk hidup karena virus tidak memiliki perlengkapan seluler untuk bereproduksi sendiri. Biasanya virus mengandung sejumlah kecil [[asam nukleat]] ([[DNA]] atau [[RNA]], tetapi tidak kombinasi keduanya) yang diselubungi semacam bahan pelindung yang terdiri atas [[protein]], [[lipid]], [[glikoprotein]], atau kombinasi ketiganya. [[Genom]] virus akan diekspresikan menjadi baik protein yang digunakan untuk memuat bahan genetik maupun protein yang dibutuhkan dalam daur hidupnya.
+
+Istilah ''virus'' biasanya merujuk pada partikel-partikel yang menginfeksi sel-sel [[eukariota]] (organisme multisel dan banyak jenis organisme sel tunggal), sementara istilah ''bakteriofag'' atau ''[[fag]]'' digunakan untuk jenis yang menyerang jenis-jenis sel [[prokariota]] ([[bakteri]] dan organisme lain yang tidak ber[[inti sel]]).
+
+Virus sering diperdebatkan statusnya sebagai makhluk hidup karena ia tidak dapat menjalankan fungsi biologisnya secara bebas jika tidak berada dalam sel inang. Karena karakteristik khasnya ini virus selalu terasosiasi dengan penyakit tertentu, baik pada manusia (misalnya virus [[influenza]] dan [[HIV]]), hewan (misalnya virus [[flu burung]]), atau tanaman (misalnya [[virus mosaik tembakau]]/TMV).
+
+== Etimologi ==
+Kata virus berasal dari [[bahasa Latin]] ''[[virion]]'' yang berarti '[[racun]]', yang pertama kali digunakan di [[bahasa Inggris]] tahun 1392.<ref name="Etymology_Dictionary">{{vcite web
+|title=virus
+|work=The Online Etymology Dictionary
+|url=http://www.etymonline.com/index.php?term=virus
+|accessdate=12 September 2008}}</ref> Definisi "agen yang menyebabkan infeksi penyakit" pertama kali digunakan tahun 1728,<ref name="Etymology_Dictionary"/> sebelum ditemukannya virus sendiri oleh [[Dmitri Ivanovsky]] tahun 1892.
+
+== Sejarah penemuan ==
+[[Berkas:TobaccoMosaicVirus.jpg|thumb|150px|[[Virus mosaik tembakau]] merupakan virus yang pertama kali divisualisasikan dengan [[mikroskop elektron]].]]
+* Virus telah menginfeksi sejak zaman sebelum Masehi, hal tersebut terbukti dengan adanya beberapa penemuan-penemuan yaitu laporan mengenai infeksi virus dalam [[hieroglif]] di [[Memphis]], ibu kota Mesir kuno (1400 SM) yang menunjukkan adanya penyakit [[poliomyelitis]], selain itu, Raja Firaun [[Ramses V]] meninggal pada tahun 1196 SM dan dipercaya meninggal karena terserang virus ''[[smallpox]]''.
+* Pada zaman sebelum Masehi, virus endemik yang cukup terkenal adalah virus ''smallpox'' yang menyerang masyarakat Tiongkok pada tahun 1000. Akan tetapi pada pada tahun 1798, [[Edward Jenner]] menemukan bahwa beberapa pemerah susu memiliki kekebalan terhadap virus pox. Hal tersebut diduga karena virus ''pox'' yang terdapat pada sapi, melindungi manusia dari ''pox''. Penemuan tersebut yang dipahami kemudian merupakan pelopor penggunaan [[vaksin]].
+* Pada tahun 1880, [[Louis Pasteur]] dan [[Robert Koch]] mengemukakan suatu "germ theory" yaitu bahwa mikroorganisme merupakan penyebab penyakit. Pada saat itu juga terkenal [[Postulat Koch]] yang sangat terkenal hingga saat ini yaitu:
+*# Agen penyakit harus ada di dalam setiap kasus penyakit
+*# Agen harus bisa diisolasi dari inang dan bisa ditumbuhkan secara in vitro
+*# Ketika kultur agen muri diinokulasikan ke dalam sel inang sehat yang rentan maka dapat menimbulkan penyakit
+*# Agen yang sama dapat diambil dan diisolasi kembali dari inang yang terinfeksi tersebut
+* Penelitian mengenai virus dimulai dengan penelitian mengenai [[penyakit mosaik]] yang menghambat pertumbuhan tanaman [[tembakau]] dan membuat daun tanaman tersebut memiliki bercak-bercak. Pada tahun [[1883]], [[Adolf Mayer]], seorang ilmuwan Jerman, menemukan bahwa penyakit tersebut dapat menular ketika tanaman yang ia teliti menjadi sakit setelah disemprot dengan getah tanaman yang sakit. Karena tidak berhasil menemukan mikroba pada getah tanaman tersebut, Mayer menyimpulkan bahwa penyakit tersebut disebabkan oleh [[bakteri]] yang lebih kecil dari biasanya dan tidak dapat dilihat dengan [[Mikroskop cahaya|mikroskop]].
+* Pada tahun [[1892]], [[Dimitri Ivanowsky]] dari [[Rusia]] menemukan bahwa getah daun tembakau yang sudah disaring dengan penyaring bakteri masih dapat menimbulkan penyakit mosaik. Ivanowsky lalu menyimpulkan dua kemungkinan, yaitu bahwa bakteri penyebab penyakit tersebut berbentuk sangat kecil sehingga masih dapat melewati saringan, atau bakteri tersebut mengeluarkan toksin yang dapat menembus saringan.<ref name=Akin/> Kemungkinan kedua ini dibuang pada tahun [[1897]] setelah [[Martinus Beijerinck]] dari [[Belanda]] menemukan bahwa agen infeksi di dalam getah yang sudah disaring tersebut dapat bereproduksi karena kemampuannya menimbulkan penyakit tidak berkurang setelah beberapa kali ditransfer antartanaman.<ref name=Akin/> Patogen mosaik tembakau disimpulkan sebagai bukan bakteri, melainkan merupakan ''contagium vivum fluidum'', yaitu sejenis cairan hidup pembawa penyakit.<ref name=Akin>{{cite book|last=Akin|first=H.M.|title=Virologi Tumbuhan|url=http://books.google.co.id/books?id=UOhgOysHmuQC&pg=PA17|format=Didigitalisasi oleh Google Penelusuran Buku|year=2005|accessdate=2009-03-13|location=Yogyakarta|publisher= Kanisius|pages=hlm. 17|isbn=9792111808, 9789792111804}}</ref>
+* Setelah itu, pada tahun [[1898]], Loeffler dan Frosch melaporkan bahwa penyebab [[penyakit mulut dan kaki]] sapi dapat melewati filter yang tidak dapat dilewati bakteri. Namun, mereka menyimpulkan bahwa patogennya adalah bakteri yang sangat kecil.<ref name=Akin/>
+* Pendapat Beijerinck baru terbukti pada tahun [[1935]], setelah [[Wendell Meredith Stanley]] dari [[Amerika Serikat]] berhasil meng[[kristal]]kan partikel penyebab penyakit mosaik yang kini dikenal sebagai [[virus mosaik tembakau]].<ref name=Campbell341>Campbell ''et al.'' (2002), hlm. 341. Diakses pada 26 Maret 2009.</ref> Virus ini juga merupakan virus yang pertama kali divisualisasikan dengan [[mikroskop elektron]] pada tahun [[1939]] oleh ilmuwan Jerman G.A. Kausche, E. Pfankuch, dan H. Ruska.<ref name=Creager>{{cite book|last=Creager|first=A.N.H.|title=The life of a virus: tobacco mosaic virus as an experimental model, 1930-1965|url=http://books.google.co.id/books?id=-gAglsDBasAC&pg=PA119&vq=first+electron+micrographs+of+TMV|edition= Edisi ke-2|format=Didigitalisasi oleh Google Penelusuran Buku|year=2002|accessdate=2009-03-26|location=Chicago|publisher=University of Chicago Press|pages=hlm. 119|isbn=0226120260, 9780226120263}}</ref>
+* Pada tahun 1911, [[Peyton Rous]] menemukan jika ayam yang sehat diinduksi dengan sel tumor dari ayam yang sakit, maka pada ayam yang sehat tersebut juga akan terkena kanker.<ref name="Rous"/> Selain itu, Rous juga mencoba melisis sel [[tumor]] dari ayam yang sakit lalu menyaring sari-sarinya dengan pori-pori yang tidak dapat dilalui oleh [[bakteri]], lalu sari-sari tersebut di suntikkan dalam sel ayam yang sehat dan ternyata hal tersebut juga dapat menyebabkan kanker.<ref name="Rous"/> Rous menyimpulkan kanker disebabkan karena sel virus pada sel tumor ayam yang sakit yang menginfeksi sel ayam yang sehat.<ref name="Rous"/> Penemuan tersebut merupakan penemuan pertama [[virus onkogenik]], yaitu virus yang dapat menyebabkan tumor. Virus yang ditemukan oleh Rous dinamakan [[Rous Sarcoma Virus]](RSV).<ref name="Rous">{{cite journal|author = Rous P|year = 1911|month =|title = A sarcoma of the fowl transmissible by an agent separable from the tumor cells|journal= J Exp Med|volume = 13|issue =|pages = 397-399|doi=|id =|url =http://www.google.co.id/url?sa=t&source=web&cd=1&ved=0CBUQFjAA&url=http%3A%2F%2F159.149.74.38%2Fwebpage%2FBiologia%25202011%2FRous.pdf&ei=7a8CTq_8NszprQf_xsi_Cg&usg=AFQjCNFB8TZdjJ_-ZVlzbWZAsZn8WWnHzA&sig2=YSv1XT1Hd85vyOupp1mIlg|format = pdf|accessdate = }}</ref>
+* Pada tahun 1933, ''Shope papilloma virus'' atau ''cottontail rabbit papilloma virus'' (CRPV)yang ditemukan oleh [[Richard E Shope|Dr Richard E Shope]] merupakan model [[kanker]] pertama pada manusia yag disebabkan oleh virus.<ref name=Shope/> Dr Shope melakukan percobaan dengan mengambil filtrat dari tumor pada hewan lalu disuntikkan pada kelinci domestik yang sehat, dan ternyata timbul tumor pada kelinci tersebut.<ref name=Shope>{{cite journal|author = Shope RE|year = 1933|month =|title = Infectious papillomatosis of rabbits; with a note on the histopathology|journal= J Exp Med|volume = 58|issue =|pages = 607|doi =|id =|url =http://www.google.co.id/url?sa=t&source=web&cd=1&sqi=2&ved=0CBUQFjAA&url=http%3A%2F%2Fjem.rupress.org%2Fcontent%2F58%2F5%2F607.full.pdf&rct=j&q=filetype%3Apdf%20Infectious%20papillomatosis%20of%20rabbits%3B%20with%20a%20note%20on%20the%20histopathology&ei=broCTorTJ8jwrQe4wri0Cg&usg=AFQjCNHe578NdnUayaNLA4B5Dqo6EtYPIw&sig2=ipOK2zdFAwBE7xqxQtbX-g|format = pdf|accessdate = }}</ref>
+* [[Wendell Stanley]] merupakan orang pertama yang berhasil mengkristalkan virus pada tahun 1935.<ref name=Stanley/> Virus yang dikristalkan merupakan [[Tobacco Mozaic Virus]] (TMV).<ref name=Stanley/> Stanley mengemukakan bahwa virus akan dapat tetap aktif meskipun setelah kristalisasi.<ref name=Stanley>{{cite journal|author = Stanley WM|year = 1933|month =|title = Isolation of a crystalline protein possessing the properties of tobacco mosaic virus|journal= Science|volume = 81|issue =|pages = 644-645|doi =|id =|url = http://www.google.co.id/url?sa=t&source=web&cd=1&ved=0CBoQFjAA&url=http%3A%2F%2Fwww.asm.org%2FccLibraryFiles%2FFILENAME%2F0000000268%2F1935p160.pdf&rct=j&q=Isolation%20of%20a%20crystalline%20protein%20possessing%20the%20properties%20of%20tobacco%20mosaic%20virus&ei=Nr0CTsOMHsjjrAfnldjPCg&usg=AFQjCNHM2LkI3O2zUWWr47ldOtJRtLV1cA&sig2=6c89N-Zkp35Y5SfLdLx0CQ|format = pdf|accessdate = }}</ref>
+* [[Martha Chase]] dan [[Alfred Hershey]] pada tahun 1952 berhasil menemukan [[bakteriofag]].<ref name=Hershey/> [[Bakterofage]] merupakan virus yang memiliki inang bakteri sehingga hanya dapat bereplikasi di dalam sel bakteri.<ref name=Hershey>{{cite journal|author = Hershey AD, Chase M|year = 1952|month =|title = Independent Function of Viral Protein and Nucleic Acid in Growth of Bacteriophage|journal= Journal of General Physiology|volume = 36|issue =|pages = 39-56|doi =|id =|url = http://www.google.co.id/url?sa=t&source=web&cd=1&ved=0CBoQFjAA&url=http%3A%2F%2Fjgp.rupress.org%2Fcontent%2F36%2F1%2F39.full.pdf&rct=j&q=filetype%3Apdf%20Independent%20Function%20of%20Viral%20Protein%20and%20Nucleic%20Acid%20in%20Growth%20of%20Bacteriophage&ei=ZL8CTtbqDMjjrAfnldjPCg&usg=AFQjCNFgbTTRlqhXeCCTJMUGwjhH4zUS_w&sig2=TuIywuDzg7IjluOQoDLWqg&cad=rja|format = pdf|accessdate = }}</ref>
+
+== Struktur ==
+[[Berkas:Tobacco mosaic virus structure.png|250px|thumb|left|Model skematik virus berkapsid heliks (virus mosaik tembakau): 1. asam nukleat ([[RNA]]), 2. kapsomer, 3. kapsid.]]
+Virus adalah organisme subseluler yang karena ukurannya sangat kecil, hanya dapat dilihat dengan menggunakan [[mikroskop elektron]]. Ukurannya lebih kecil daripada [[bakteri]] sehingga virus tidak dapat disaring dengan penyaring bakteri. Virus terkecil berdiameter hanya 20&nbsp;nm (lebih kecil daripada [[ribosom]]), sedangkan virus terbesar sekalipun sukar dilihat dengan mikroskop cahaya.<ref name=Campbell342>Campbell ''et al.'' (2002), hlm. 342. Diakses pada 26 Maret 2009.</ref>
+
+Genom virus dapat berupa [[DNA]] ataupun [[RNA]].<ref name=Wagner/> Genom virus dapat terdiri dari DNA untai ganda, DNA untai tunggal, RNA untai ganda, atau RNA untai tunggal.<ref name=Wagner/> Selain itu, asam nukleat genom virus dapat berbentuk linear tunggal atau sirkuler.<ref name=Wagner/> Jumlah gen virus bervariasi dari empat untuk yang terkecil sampai dengan beberapa ratus untuk yang terbesar.<ref name=Campbell342/><ref name=Wagner/> Bahan genetik kebanyakan virus hewan dan manusia berupa DNA, dan pada virus tumbuhan kebanyakan adalah RNA yang beruntai tunggal.<ref name=Wagner>{{citation|title=Basic Virology|last1=Wagner|first2=EK.|publisher=Blackwell Publishing|location=Australia|year=2008|isbn=2007019839}} ({{google books with page|vYJBuebvgIcC|lihat|69|virus+structure+nucleic+acid}})</ref>
+
+Bahan genetik virus diselubungi oleh suatu lapisan pelindung.<ref name=Wagner/> [[Protein]] yang menjadi lapisan pelindung tersebut disebut ''kapsid''.<ref name=Wagner/> Bergantung pada tipe virusnya, kapsid bisa berbentuk bulat (sferik), heliks, polihedral, atau bentuk yang lebih kompleks dan terdiri atas protein yang disandikan oleh [[genom]] virus.<ref name=Wagner/> Kapsid terbentuk dari banyak subunit protein yang disebut ''kapsomer''.<ref name=Campbell342/><ref name=Wagner/>
+[[Berkas:Phage S-PM2.png|thumb|100px|[[Bakteriofag]] terdiri dari kepala polihedral berisi asam nukleat dan ekor untuk menginfeksi inang.]]
+
+Untuk virus berbentuk heliks, protein kapsid (biasanya disebut protein nukleokapsid) terikat langsung dengan genom virus.<ref name=Wagner2/> Misalnya, pada virus campak, setiap protein nukleokapsid terhubung dengan enam basa RNA membentuk heliks sepanjang sekitar 1,3 mikrometer.<ref name=Wagner2/> Komposisi kompleks protein dan asam nukleat ini disebut nukleokapsid.<ref name=Wagner2/> Pada virus [[campak]], nukleokapsid ini diselubungi oleh lapisan lipid yang didapatkan dari sel inang, dan glikoprotein yang disandikan oleh virus melekat pada selubung lipid tersebut.<ref name=Wagner2/> Bagian-bagian ini berfungsi dalam pengikatan pada dan pemasukan ke sel inang pada awal infeksi.<ref name=Wagner2>{{citation
+|title=Basic Virology
+|last1=Wagner
+|first2=EK.
+|publisher=Blackwell Publishing
+|location=Australia
+|year=2008
+|isbn=2007019839}} ({{google books with page|vYJBuebvgIcC|lihat|72|virus+structure+nucleic+acid}})
+</ref>
+
+[[Berkas:Varicella (Chickenpox) Virus PHIL 1878 lores.jpg|thumb|left|upright|Virus cacar air memiliki selubung virus.]]
+Kapsid virus sferik menyelubungi genom virus secara keseluruhan dan tidak terlalu berikatan dengan asam nukleat seperti virus heliks.<ref name=Mahy/> Struktur ini bisa bervariasi dari ukuran 20 nanometer hingga 400 nanometer dan terdiri atas protein virus yang tersusun dalam bentuk simetri [[ikosahedral]].<ref name=Mahy/> Jumlah protein yang dibutuhkan untuk membentuk kapsid virus sferik ditentukan dengan koefisien T, yaitu sekitar 60t protein.<ref name=Mahy/> Sebagai contoh, virus [[hepatitis B]] memiliki angka T=4, butuh 240 protein untuk membentuk kapsid.<ref name=Mahy/> Seperti virus bentuk heliks, kapsid sebagian jenis virus sferik dapat diselubungi lapisan lipid, namun biasanya protein kapsid sendiri langsung terlibat dalam penginfeksian sel.<ref name=Mahy>{{citation
+|title=Desk Encyclopedia of General Virology
+|last1=Mahy
+|first1=BWJ.
+|last2=van Regenmortel
+|first2=MHW.
+|publisher=Elsevier
+|location=San Diego
+|year=2010
+|isbn=978-0-12-375145-1}} ({{google books with page|ew1fR6ghsmgC|lihat|124|capsid+virus+icosahedral+spheric+T}})
+</ref>
+
+Beberapa jenis virus memiliki unsur tambahan yang membantunya menginfeksi inang.Virus pada hewan memiliki selubung virus, yaitu membran menyelubungi kapsid.<ref name=Mahy2/> Selubung ini mengandung [[fosfolipid]] dan protein dari sel inang, tetapi juga mengandung protein dan [[glikoprotein]] yang berasal dari virus.<ref name=Mahy2>{{citation
+|title=Desk Encyclopedia of General Virology
+|last1=Mahy
+|first1=BWJ.
+|last2=van Regenmortel
+|first2=MHW.
+|publisher=Elsevier
+|location=San Diego
+|year=2010
+|isbn=978-0-12-375145-1}} ({{google books with page|ew1fR6ghsmgC|lihat|160|capsid+virus+icosahedral+spheric+T}})
+</ref> Selain protein selubung dan protein kapsid, virus juga membawa beberapa molekul enzim di dalam kapsidnya. Ada pula beberapa jenis [[bakteriofag]] yang memiliki ekor protein yang melekat pada "kepala" kapsid. Serabut-serabut ekor tersebut digunakan oleh fag untuk menempel pada suatu bakteri.<ref name=Strauss/>
+Partikel lengkap virus disebut '''virion'''. Virion berfungsi sebagai alat transportasi gen, sedangkan komponen selubung dan kapsid bertanggung jawab dalam mekanisme penginfeksian sel inang.<ref name=Strauss>{{citation
+|title=Viruses and Human Disease
+|last1=Strauss
+|first1=JH.
+|last2=Strauss
+|first2=EG.
+|publisher=Elsevier
+|location=London
+|year=2008
+|isbn=978-0-12-375145-1}} ({{google books with page|-y5BZk7LQ_4C|lihat|45|virion}})
+</ref>
+
+== Patogenesis ==
+=== Macam-macam infeksi virus ===
+Virus dapat menginfeksi inangnya dan menyebabkan berbagai akibat bagi inangnya.<ref name=Evans/> ada yang berbahaya, namun juga ada yang dapat ditangani oleh [[sel imun]] dalam tubuh sehingga akibat yang dihasilkan tidak terlalu besar.<ref name=Evans/>
+# Infeksi akut merupakan [[infeksi]] yang berlangsung dalam jangka waktu cepat namun dapat juga berakibat fatal.<ref name=Evans/> Akibat dari infeksi akut adalah:
+#* sembuh tanpa kerusakan (sembuh total);<ref name=Evans/>
+#* sembuh dengan kerusakan/[[cacat]], misalnya [[polio]];<ref name=Evans/>
+#* berlanjut kepada infeksi kronis;<ref name=Evans/>
+#* [[kematian]].<ref name=Evans/>
+# Infeksi kronis merupakan infeksi virus yang berkepanjangan sehingga ada risiko gejala penyakit muncul kembali.<ref name=Evans/> Contoh dari infeksi kronis adalah:
+#* ''silent subclinical infection'' seumur hidup, contoh: ''[[Cytomegalovirus]]'' (CMV);<ref name=Evans/>
+#* periode diam yang cukup lama sebelum munculnya penyakit, contoh: [[HIV]] <ref name=Evans/>
+#* reaktivasi yang menyebabkan infeksi akut, contoh: [[shingles]];<ref name=Evans/>
+#* penyakit kronis yang berulang (kambuh), contoh: [[HBV]], [[HCV]];
+#* kanker, contoh: [[HTLV-1]], [[HPV]], [[HBV]], [[HCV]], [[HHV]].<ref name=Evans>{{citation|title= Viral Infections of Humans:epidemiology and Control|last1=Evans|first1=AS.|last2=Kaslow|first2=RA.|publisher=Plenum Publishing Corporation|location=New York|year=1997|isbn=0-306-44856-4}} ({{google books with page|L9p6PtCDgJs|lihat|16|viral+infection}})</ref>
+
+== Replikasi ==
+Replikasi virus terdiri atas beberapa tahapan-tahapan yaitu pelekatan virus, penetrasi, pelepasan mantel, replikasi genom dan ekspresi gen, perakitan, pematangan, dan pelepasan.
+
+=== Pelekatan virus ===
+
+Pelekatan virus (''adsorpsi'') merupakan proses interaksi awal antara partikel virus dengan molekul [[reseptor (biokimia)|reseptor]] pada permukaan sel inang.<ref name=Schneider/> Pada tahap ini, terjadi ikatan spesifik antara molekul reseptor seluler dengan [[antireseptor]] pada virus.<ref name=Schneider/> Beberapa jenis virus memerlukan molekul lainnya untuk proses pelekatan yaitu [[koreseptor]].<ref name=Schneider>{{cite journal
+|author = Schneider-Schaulies J
+|year = 2000
+|month = 
+|title = Cellular receptors for viruses: links to tropism and pathogenesis
+|journal= Journal of General Virology
+|volume = 81
+|issue = 
+|pages = 1413-1429
+|doi =
+|id = 
+|url = http://www.google.co.id/url?sa=t&source=web&cd=6&ved=0CEsQFjAF&url=http%3A%2F%2Fvir.sgmjournals.org%2Fcgi%2Freprint%2F81%2F6%2F1413.pdf&ei=7RwDTqrfBYXxrQen7NjfDQ&usg=AFQjCNHQKhiW__yd3y12_FA-3i06ms76Eg&sig2=SEUJaY8_IDMnlgg2-sMl3g
+|format = pdf
+|accessdate = }}</ref>
+
+Molekul reseptor yang target pada permukaan sel dapat berbentuk [[protein]] (biasanya glikoprotein) atau residu [[karbohidrat]] yang terdapat pada [[glikoprotein]] atau [[glikolipid]].<ref name=Schneider/>
+
+Beberapa virus kompleks seperti [[poxvirus]] dan [[herpesvirus]] memiliki lebih dari satu reseptor sehingga mempunyai beberapa rute untuk berikatan dengan sel.<ref name=Schneider/>
+
+Reseptor virus mempunyai beberapa kelas yang berbeda:
+* molekul ''immunoglobulin-like superfamily''
+* reseptor terkait membran
+* saluran dan transporter transmembran<ref name=Schneider/>
+
+Beberapa contoh virus beserta reseptor yang dimiliki:
+
+* ''Human rhinovirus'' (HRV)
+:''Human rhinovirus'' memiliki reseptor ICAM-1(''Intracelluler adhesion molecule-1'').<ref name=Olson/> Molekul tersebut merupakan molekul adhesi yang fungsi normalnya adalah untuk mengikatkan sel kepada [[substrat]]nya.<ref name=Olson/> struktur ICAM-1 mirip dengan molekul [[imunoglobulin]] dengan [[domain]] C dan V sehingga digolongkan sebagai protein ''supefamily immunoglobulin''<ref name=Olson/>
+
+:Struktur ICAM-1 memiliki lima Ig-like domain untuk berikatan dengan [[Lfa-1]] (''Leukocite function antigen-1''), [[Mac-1]] (''Macrofage antigen-1''), [[Rhinovirus]] (HRV), [[fibrinogen]], dan [[PFIE]] (''malaria infected erythocytes'').<ref name=Olson/>
+
+:Sepuluh [[serotipe]] dari HRV menggunakan ICAM-1 sebagai reseptor, sepuluh serotipe lainnya menggunakan protein yang beruhubungan dengan LDL reseptor.<ref name=Olson>{{cite journal
+|author = Olson NH
+|year = 1992
+|month = 
+|title = Structure of a human rhinovirus complexed with its receptormolecule
+|journal = Proc. Natl. Acad. Sci. USA
+|volume = 90
+|issue = 
+|pages = 507-511
+|doi =
+|id = 
+|url = http://www.google.co.id/url?sa=t&source=web&cd=3&ved=0CDIQFjAC&url=http%3A%2F%2Fwww.pnas.org%2Fcontent%2F90%2F2%2F507.full.pdf&ei=IyEDTor7JcbWrQeRyIzxDQ&usg=AFQjCNGVM4dbDHf-DMn35Sn4Z4oyCR8XgQ&sig2=6bo_6CD7U0pHBspYy3n4Bw
+|format = pdf
+|accessdate = 
+}}</ref>
+
+* ''Poliovirus''
+:''Poliovirus'' mempunyai reseptor virus berupa [[protein membran integral]] yang juga anggota dari molekul ''superfamily immunoglobulin''.<ref name=Yongning/> Reseptor ini memiliki tiga [[domain]] yaitu satu berupa variabel dan dua konstan.<ref name=Yongning>{{cite journal
+|author = Yongning H.
+|year = 2000
+|month = 
+|title= Interaction of the poliovirus receptor with poliovirus
+|journal= PNAS
+|volume = 97
+|issue = 
+|pages = 79-84
+|doi =
+|id = 
+|url = http://www.google.co.id/url?sa=t&source=web&cd=1&ved=0CBkQFjAA&url=http%3A%2F%2Fcryoem.ucsd.edu%2Fpublication-pdfs%2F2000-He-etal-PNAS.pdf&ei=xz0DToLjKoXJrAf53PXvDQ&usg=AFQjCNHg8wMLeyWIQ024-TBJs39WhMi1IA&sig2=GELxLNlTFGZPPIYSGw6fUg
+|format = pdf
+|accessdate = 
+}}</ref>
+
+* Virus influenza
+
+:Virus ini mempunyai dua tipe spike [[glikoprotein]] pada permukaan partikel virus yaitu [[hemagglutinin]] (HA) dan [[neuraminidase]].<ref name=Hidari/> HA akan berikatan dengan reseptor virus influenza yang berupa asam sialat (N-asetil neuraminic acid).<ref name=Hidari/> Virus ini berikatan dengan muatan negatif dari moieties [[asam sialat]] yang ada pada rantai [[oligosakarida]] yang secara kovalen berikatan dengan glikoprotein pada permukaan sel.<ref name=Hidari/> Adanya asam sialat pada hampir semua jenis sel menyebabkan virus [[influenza]] bisa berikatan dengan banyak tipe sel.<ref name=Hidari>{{cite journal|author = Hidari KIPJ|year = 2010|month =|title= Glycan Receptor for Influenza Virus|journal= The Open Antimicrobial Agents Journal|volume = 2|issue =|pages = 26-33|doi =|id =|url = http://www.google.co.id/url?sa=t&source=web&cd=3&sqi=2&ved=0CC0QFjAC&url=http%3A%2F%2Fwww.benthamscience.com%2Fopen%2Ftoantimj%2Farticles%2FV002%2FSI0008TOANTIMJ%2F26TOANTIMJ.pdf&rct=j&q=filetype%3Apdf%20influenza%20receptor%20sialic%20acid&ei=uykDTrW2CsbLrQe38MWQDg&usg=AFQjCNG-IqPkU0qQlkNAGKc5NHd2HbQL5A&sig2=77KIOHsRLE3z4RY0ajNE0w&cad=rja|format = pdf|accessdate =}}</ref>
+
+=== Penetrasi ===
+
+Penetrasi terjadi pada waktu yang sangat singkat setelah pelekatan virus pada reseptor di [[membran sel]].<ref name=Mahy3>{{citation
+|title=Desk Encyclopedia of General Virology
+|last1=Mahy
+|first1=BWJ.
+|last2=van Regenmortel
+|first2=MHW.
+|publisher=Elsevier
+|location=San Diego
+|year=2010
+|isbn=978-0-12-375145-1}} ({{google books with page|ew1fR6ghsmgC|lihat|267|capsid+virus+icosahedral+spheric+T}})
+</ref> Proses ini memerlukan energi
+Tiga mekanisme yang terlibat:
+* Translokasi partikel virus
+:Proses translokasi relatif jarang terjadi di antara virus dan mekanisme belum sepenuhnya dipahami benar, kemungkinan diperantarai oleh [[protein]] di dalam virus kapsid dan reseptor membran spesifik.<ref name=Cossart>{{citation
+|title=Cellular Microbiology
+|last1=Cossart
+|first1=P
+|publisher=American Society for Microbiology Press
+|location=Washington DC
+|year=2005
+|isbn=1-55581-302-X}} ({{google books with page|kJawacbld1sC|lihat|536|virus+translocation}})
+</ref>
+
+* Endositosis virus ke dalam vakuola intraseluler
+
+:Proses [[endositosis]] merupakan mekanisme yang sangat umum sebagai jalan masuk virus ke dalam sel.<ref name=Cheng/> Tidak diperlukan protein virus spesifik selain yang telah digunakan untuk pengikatan reseptor.<ref name=Cheng>{{citation
+|title=Cellular Microbiology
+|last1=Cheng 
+|first1=H.
+|last2=Hammar
+|first2=L.
+|publisher=World Scientifis Publishing Co. Pte. Ltd.
+|location=Singapore
+|year=2004
+|isbn=981-238-614-9}} ({{google books with page|lU2CswZAv7UC|lihat|78|virus+fusion}})
+</ref>
+
+* fusi dari sampul dengan membran sel (untuk virus yang bersampul)
+
+:Proses fusi virus bersampul dengan membran sel baik secara langsung maupun dengan permukaan sel maupun mengikuti endositosis dalam sitoplasma.<ref name=Cheng/> Diperlukan adanya [[protein fusi]] spesifik dalam sampul virus, misalnya: HA influenza dan [[glikoprotein]] [[transmembran]] (TM) Rhinovirus.<ref name=Cheng>{{citation
+|title=Conformational Preoteomics of Macromolecular Architecture: Approaching the Structure of Large Molecular Assemblies and Their Mechanisms of Action 
+|last1=Cheng 
+|first1=H.
+|last2=Hammar
+|first2=L.
+|publisher=World Scientifis Publishing Co. Pte. Ltd.
+|location=Singapore
+|year=2004
+|isbn=981-238-614-9}} ({{google books with page|lU2CswZAv7UC|lihat|78|virus+fusion}})
+</ref>
+
+=== Pelepasan mantel ===
+
+Tahap ini terjadi setelah proses penetrasi di mana kapsid virus baik seluruhnya maupun sebagian dipindahkan ke dalam sitoplasma sel inang.<ref name=Mahy3/> Pada tahap ini genom virus terekspos dalam bentuk kompleks nukleoprotein.<ref name=Mahy3/> Dalam beberapa kasus, tahap ini berlangsung cukup sederhana dan terjadi selama [[fusi]] pada membran virus dengan [[membran plasma]].<ref name=Mahy3/> untuk virus lainnya, tahap ini merupakan proses multistep yang melibatkan jalur [[endositosis]] dan membran [[nukleus]].<ref name=Mahy3/>
+
+=== Replikasi genom dan ekspresi gen ===
+[[File:Baltimore Classification table.png|250px|thumb|left|7 Klasifikasi Baltimore.<ref name=Carter>{{citation
+|title=Virology: Principles and Applications
+|last1=Carter 
+|first1=JB.
+|last2=Saunders
+|first2=VA.
+|publisher=John Wiley & Sons, Ltd.
+|location=England
+|year=2007
+|isbn=978-0-470-023860-0}} ({{google books with page|jQDb2TXWdTAC|lihat|85|carter+2007+virology}})
+</ref>
+]]
+
+Strategi replikasi dari beberapa virus tergantung pada material genetik alami dari virus tersebut.<ref name=Wagner3/> Dalam hal ini, virus dibagi dalam 7 kelompok seperti pengelompokan [[David Baltimore]].<ref name=Wagner3/> Proses ekspresi gen akan menentukan semua proses infeksi virus (akut, kronis, persisten, atau laten).<ref name=Wagner3/>
+
+* Kelas I: DNA utas ganda
+:Kelompok ini dibagi menjadi dua kelompok.
+:# Replikasi terjadi di inti dan relatif tergantung kepada faktor-faktor seluler (''Adenoviridae'', ''Polyomaviridae'', ''Herpesviridae'')<ref name=Wagner3/>
+:# Replikasi terjadi di sitoplasma (''Poxviridae''). virus ini melibatkan semua faktor-faktor yang penting untuk transkripsi dan replikasi dari genomnya, dan kebanyakan tidak tergantung pada perangkat replikasi dari inangnya<ref name=Wagner3/>.
+
+* Kelas II: DNA utas tunggal
+:Replikasi terjadi di dalam nukleus, melibatkan bentuk utas ganda intermediate sebagai cetakan untuk sintesis utas tunggal DNA turunannya (''Parvoviridae'')<ref name=Wagner3/>
+
+* Kelas III: RNA utas ganda
+:Virusnya memiliki genom yang tersegmentasi. masing-masing segmennya ditranskripsi secara terpisah untuk menghasilkan monosistronik mRNA individual. contoh: ''Reoviridae''<ref name=Wagner3/>
+
+* Kelas IV: RNA utas tunggal (+)
+:Virus dengan polisistronik mRNA di mana kelas ini genom RNA membentuk mRNA yang ditranslasikan untuk membentuk suatu polyprotein yang dipecah membentuk protein matang. Contoh: ''Picornaviridae''<ref name=Wagner3/>
+
+* Kelas V: RNA utas tunggal (-)
+:Genom pada kelas ini dibagi menjadi dua tipe:
+:# Genom tidak bersegmen (''Rhabdoviridae''), Tahap pertama dalam replikasi adalah transkripsi dari genom RNA utas (-) oleh virion RNA-''dependent'' RNA polimerase untuk menghasilkan monosistronik mRNA yang juga sebagai cetakan untuk replikasi genom.<ref name=Wagner3/>
+:# Genom bersegmen (''Orthomyxoviridae''), replikasi terjadi di dalam nukleus di mana monosistronik mRNA untuk masing-masing gen virus dihasilkan oleh transkriptase virus.<ref name=Wagner3/>
+
+* Kelas VI: RNA utas tunggal (+) dengan DNA Intermediat
+:Genom Retrovirus RNA utas tunggal (+) bersifat diploid dan tidak dipakai secara langsung sebagai mRNA tetapi sebagi template untuk reverse transkriptase menjadi DNA.<ref name=Wagner3/>
+
+* Kelas VII: DNA utas ganda dengan RNA Intermediat
+:Virus kelompok ini bergantung kepada reverse transkriptase, tetapi berbeda dengan retrovirus, prosesnya terjadi di dalam partikel virus selama maturasi (''Hepadnaviridae'').<ref name=Wagner3>{{citation
+|title=Basic Virology
+|last1=Wagner
+|first2=EK.
+|publisher=Blackwell Publishing
+|location=Australia
+|year=2008
+|isbn=2007019839}} ({{google books with page|vYJBuebvgIcC|lihat|76|virus+structure+nucleic+acid}})
+</ref>
+
+=== Perakitan ===
+Perakitan merupakan proses pengumpulan komponen-komponen virion pada bagian khusus di dalam sel.<ref name=Mahy3/> Selama proses ini, terjadi pembentukan struktur partikel virus.<ref name=Mahy3/> Proses ini tergantung kepada proses [[replikasi]] di dalam sel dan tempat di mana virus melepaskan diri dari sel.<ref name=Mahy3/> mekanisme perakitan bervariasi untuk virus yang berbeda-beda.
+Contoh : proses perakitan [[Picornavirus]], [[Poxvirus]], dan [[Reovirus]] terjadi di [[sitoplasma]], sementara itu proses perakitan [[Adenovirus]] , [[Poliovirus]], dan [[Parvovirus]] terjadi di nukleus.<ref name=Mahy3/>
+
+=== Pematangan ===
+Pematangan merupakan tahap dari siklus hidup virus dan bersifat [[infeksius]].<ref name=Mahy3/> Pada tahap ini terjadi perubahan struktur dalam partikel virus yang kemungkinan dihasilkan oleh pemecahan spesifik protein kapsid untuk menghasilkan produk yang matang.<ref name=Mahy3/> [[protease]] virus dan [[enzim]] seluler lainnya biasanya terlibat dalam proses ini.<ref name=Mahy3/>
+
+=== Pelepasan ===
+Semua virus kecuali virus tanaman melepaskan diri dari sel inang melalui dua mekanisme :
+* untuk [[virus litik]] (semua virus non-selubung), pelepasan merupakan proses yang sederhana, di mana sel yang terinfeksi terbuka dan virus keluar.<ref name=Mahy3/>
+* untuk [[virus berselubung]], diperlukan [[membran lipid]] ketika virus keluar dari sel melewati membran , proses ini dikenal sebagai [[budding]].<ref name=Mahy3/>
+Proses pelepasan partikel virus kemungkinan bisa merusak sel([[Paramyxovirus]], [[Rhabdovirus]], dan [[Togavirus]]) , dan kemungkinan sebagian lagi tidak merusak sel ([[Retrovirus]]).<ref name=Mahy3/>
+
+== Klasifikasi ==
+Virus dapat diklasifikasi menurut morfologi, tropisme dan cara penyebaran, dan genomik fungsional.<ref name=Carter3>{{citation
+|title= Virology: Principles and Application
+|last1= Carter
+|first1=JB.
+|last2= Saunders
+|first2=VA.
+|publisher=John Wiley & Sons Ltd.
+|location=England
+|year=2007
+|isbn=978-0-470-02386-0}} ({{google books with page|jQDb2TXWdTAC|lihat|16|viral+classification}})
+</ref>
+
+* Klasifikasi virus berdasarkan morfologi
+:Berdasarkan [[morfologi]], virus dibagi berdasarkan jenis [[asam nukleat]] dan juga [[protein membran]] terluarnya (sampul) menjadi 4 kelompok, yaitu:<ref name=Carter3/>
+# Virus [[DNA]]
+# Virus [[RNA]]
+# Virus berselubung
+# Virus tidak berselubung
+:Virus hanya mengandung satu jenis asam nukleat: DNA atau RNA.
+
+* Klasifikasi virus berdasarkan [[tropisme]] dan cara penyebaran
+:Berdasarkan tropisme dan cara penyebaran, virus dibagi menjadi:<ref name=Carter3/>
+# Virus [[Enterik]]
+# Virus [[Respirasi]]
+# Arbovirus
+# Virus [[onkogenik]]
+# [[Hepatitis]] virus
+
+* Klasifikasi virus berdasarkan genomik fungsional
+:Virus diklasifikan menjadi 7 kelompok berdasarkan alur fungsi [[genom]]nya. Klasifikasi ini disebut juga klasifikasi Baltimore yaitu:<ref name=Carter3/>
+# Virus tipe I: DNA utas ganda
+# Virus tipe II = DNA utas tunggal
+# Virus tipe III = RNA utas ganda
+# Virus tipe IV = RNA utas tunggal (+)
+# Virus tipe V = RNA utas tunggal (-)
+# Virus tipe VI = RNA utas tunggal (+) dengan DNA perantara (intermediat)
+# Virus tipe VII = DNA utas ganda dengan RNA perantara
+
+== Jenis ==
+=== Virus RNA ===
+Virus RNA merupakan virus yang memiliki [[materi genetik]] berupa [[RNA]], kelompok yang tergolong dalam kelompok ini adalah virus kelas III hingga VI. Beberapa contoh [[familia]] virus yang termasuk ke dalam kelompok ini adalah Retroviridae, Picornaviridae, Orthomixoviridae, dan Arbovirus.<ref name=Cheville/>
+
+===== ''Retroviridae'' =====
+Retroviridae merupakan virus berbentuk [[ikosahedral]]. Virus ini memiliki genom [[RNA]] berjumlah dua buah yang keduanya identik dan memiliki [[polaritas]] positif yang nantinya akan diekspresikan menjadi [[enzim polimerase]] yang unik yaitu [[reverse traskriptase]] yang berguna untuk mengubah RNA menjadi DNA.<ref name=Cheville/><ref name=Breeze>{{citation
+|title=Microbial Forensics
+|last1=Breeze
+|first1=R.
+|last2=Budowle
+|first2=B.
+|last3=Schutzer
+|first3=SE.
+|publisher=Elsevier Inc
+|location=London
+|year=2005
+|isbn=0-12-088483-6}} ({{google books with page|73YNZjMJfWQC|lihat|51|retroviridae}})
+</ref> DNA yang dihasilkan nantinya akan berintegrasi ke dalam DNA sel inang sebagai [[provirus]].<ref name=Cheville/>
+Virus ini termasuk ke dalam virus yang ganas, dapat menyebabkan penekanan [[sistem kekebalan tubuh]] dan juga [[tumor]].<ref name=Cheville/> Sifatnya yang ganas tersebut disebabkan salah satunya karena virus ini mudah mengalami [[mutasi]].<ref name=Cheville>{{citation
+|title=Ultrastructural Pathology : an Introduction to Interpretion
+|last1=Cheville
+|first1=NF.
+|publisher=Iowa State University Press
+|location=Iowa
+|year=1994
+|isbn=0-8138-2398-6}} ({{google books with page|goT81SrfK1MC|lihat|573|retroviridae}})
+</ref>
+
+Salah satu genus dari [[familia]] ini yang paling terkenal adalah genus [[Lentivirus]], yang contoh spesiesnya adalah [[HIV]] 1 dan 2.<ref name=Cheville/>
+
+===== ''Picornaviridae'' =====
+Picornaviridae berukuran kecil. Virus ini memiliki genom RNA dengan polaritas positif sehingga termasuk virus kelas IV dalam klasifikasi Baltimore.<ref name=Rapley/> Virus dalam famili ini mampu menyebabkan banyak penyakit pada manusia, di antaranya adalah penyakit polio yang disebabkan oleh Poliovirus dan flu ringan yang disebabkan oleh Rhinovirus.<ref name=Rapley>{{citation
+|title=Medical Biomedical Handbook
+|last1=Rapley 
+|first1=R.
+|publisher=Humana Press
+|location=New Jersey
+|year=2005
+|isbn=978-1-58829-288-9}} ({{google books with page|9eFd5kS_dlEC|lihat|300|picornaviridae}})
+</ref>
+
+===== ''Orthomyxoviridae'' =====
+Orthomoxoviridae merupakan virus yang memiliki selubung dengan materi genetik [[RNA]] bersegmen berpolaritas negatif sehingga virus ini termasuk dalam kelas V dalam klasifikasi Baltimore.<ref name=White/>
+Ciri khan dari virus ini adalah virus ini memiliki [[protein]] permukaan yang merupakan [[antigen]] utama yaitu [[Hemmaglutinin]] (HA) dan [[Neuraminidase]] (NA).<ref name=White/> Hemmaglutinin merupakan bagian virus yang menempel pada sel target oleh sebab itu [[antibodi]] terhadap hemmaglutinin dapat melindung dari infeksi virus.<ref name=White/> Neuraminidase berperan untuk melepaskan [[virion]] dari sel oleh sebab itu antibodi terhadap NA dapat menekan tingkat keparahan infeksi virus.<ref name=White/>
+
+Virus ini diklasifikasikan menjadi empat kelompok yaitu:
+# Influenza tipe A merupakan virus yang menginfeksi berbagai spesies baik manusia, burung (burung liar, ternak, domestik), babi, kuda, anjing, dan mamalia air(anjing laut dan paus).<ref name=White/> Virus influenza tipe A dapat mengalami ''antigenic drift'' dan ''antigenic shift''.<ref name=White/> Antigenic drift adalah terjadinya mutasi pada gen yang menyandikan protein Hemmaglutinin. Hal tersebut menyebabkan antibodi yang ada tidak dapat mengenalinya lagi. Kejadian tersebut menyebabkan terjadinya [[endemik]] musiman.<ref name=White/> Antigenic shift adalah munculnya subtipe barus virus influenza yang disebabkan karena penggabunggan genetik antara manusia dengan virus hewan atau dengan transmisi langsung dari hewan unggas ke manusia. karena tidak ada atau sedikitnya imunitas terhada virus baru, maka pandemik dapat terjadi.<ref name=White/>
+# Influenza tipe B
+# Influenza tipe C
+# Tick-Borne Influenza; virus ini merupakan virus yang berasal dari kutu.<ref name=White>{{citation
+|title=Medical virology
+|last1=White
+|first1=DO.
+|last2=Fenner 
+|first2=F.
+|publisher=Academic Press
+|location=California
+|year=1994
+|isbn=978-0-12-746642-2}} ({{google books with page|_EMHrP_jqC0C|lihat|489|orthomyxoviridae}})
+</ref>
+
+===== ''Arbovirus'' =====
+Arbovirus merupakan singkatan dari ''Arthropoda-Borne virus'' yaitu virus yang berasal dari kelompok [[Arthropoda]].<ref name=Oxford/> Arbovirus dibagi menjadi empat famili yaitu:
+# ''Togaviridae'', contoh virus yang termasuk dalam kelompok ini adalah [[Rubellavirus]].<ref name=Oxford/>
+# ''Flaviviridae'', contoh virus yang termasuk dalam kelompok ini adalah [[Hepatitis C]] virus dan [[Denguevirus]] yang penyebabkan penyakit [[demam berdarah dengue]].<ref name=Oxford/>
+# ''Bunyaviridae'', contoh virus yang termasuk dalam kelompok ini adalah California encephalitis virus (CE) yang menyebabkan penyakit [[encephalitis]] pada manusia.<ref name=Oxford/>
+# ''Reoviridae'', contoh virus yang termasuk dalam kelompok ini adalah [[reovirus]] yang menyebabkan Colorado tick fever dan [[Rotavirus]] yang menyebabkan [[diare]] epidemik pada anak-anak.<ref name=Oxford>{{citation
+|title=Conquest of viral diseases: a topical review of drugs and vaccines
+|last1=Oxford
+|first1=JS.
+|last2=Oberg 
+|first2=B.
+|publisher=Elsevier Science Publisher B.V
+|location=Netherlands
+|year=1985
+|isbn=0-444-80566-4}} ({{google books with page|n24Pju7kHIYC|lihat|187|arbovirus}})
+</ref>
+
+=== Virus DNA ===
+Virus DNA merupakan virus yang memiliki [[materi genetik]] berupa [[DNA]], kelompok yang tergolong dalam kelompok ini adalah virus kelas I, II, VII. Beberapa contoh [[familia]] virus yang termasuk ke dalam kelompok ini adalah Herpesviridae, Parvoviridae, dan Poxviridae.<ref name=Cheville2/>
+
+===== ''Herpesviridae'' =====
+Herpesviridae merupakan kelompok virus berukuran besar dengan materi genetik DNA utas ganda sehingga dikelompokkan ke dalam kelas 1 dalam klasifikasi baltimore. Virus dalam kelompok ini dapat menyebabkan penyakit ganas dan juga dapat menyebabkan kelainan pasca kelahiaran pada bayi.<ref name=Cheville2/>
+Herpesviridae terbagi ke dalam beberapa genus, yaitu :
+# Alpha Herpesvirus, virus yang termasuk dalam kelompok Alpha herpesvirus biasanya menyebabkan penyakit yang akut dengan gejala yang muncul saat itu juga.<ref name=Cheville2/> infeksi virus ini bersifat [[laten persisten]] disebabkan karena kemampuan genom virus ini untuk berintergrasi dengan sel inang.<ref name=Cheville2/> jika kondisi inang sedang lemah, maka ada kemungkinan penyakit dapat muncul kembali pada tempat yang sama.<ref name=Cheville2/> Contoh dari virus ini adalah [[Herpes simplex]] tipe 1 dan 2 dan [[Varicella zoster]](VZ) virus.<ref name=Cheville2/>
+# Beta Herpesvirus, virus yang termasuk dalam kelompok beta herpesvirus biasanya menyebabkan penyakit yang akut akan tetapi tidak ditemukan gejala pada [[carrier]].<ref name=Cheville2/> virus ini menyebabkan [[infeksi]] pada bayi dan perkembangan abnormal (penyakit kongenital).<ref name=Cheville2/> Contoh dari virus ini adalah [[Cytomegalovirus]].<ref name=Cheville2/>
+# Gamma Herpesvirus, virus yang termasuk dalam kelompok ini mampu menyebabkan penyakit [[limphopoliperatif]] jinak dan ganas.<ref name=Cheville2/> Contoh dari virus ini adalah [[Epstein-Barr virus]].<ref name=Cheville2>{{citation
+|title=Ultrastructural Pathology : an Introduction to Interpretion
+|last1=Cheville
+|first1=NF.
+|publisher=Iowa State University Press
+|location=Iowa
+|year=1994
+|isbn=0-8138-2398-6}} ({{google books with page|goT81SrfK1MC|lihat|502|retroviridae}})g
+</ref>
+
+===== ''Parvoviridae'' =====
+Parvoviridae merupakan virus dengan [[DNA]] utas tunggal polaritas positif atau negatif sehingga termasuk dalam kelas II dalam klasifikasi Baltimore.<ref name=Nermut/> Virus ini tidak memiliki [[selubung virus]] dan merupakan virus manusia yang berukuran paling kecil.<ref name=Nermut/> Virus merupakan virus yang tidak sempurna sehingga perlu berasosiasi dengan [[adenovirus]] sehingga sering disebut ''Adeno-Associated Virus''(AAV).<ref name=Nermut/> Salah satu contoh kelompok ini adalah [[virus B-19]] yang dapat menyebabkan cacat atau keguguran pada [[janin]].<ref name=Nermut>{{citation
+|title= Animal Virus Structure
+|last1=Nermut
+|first1=MV.
+|last2=Steven
+|first2=AC.
+|publisher=Elsevier Science Publishing Company
+|location=New York
+|year=1987
+|isbn=0-444-80879-5}} ({{google books with page|Hklf9QjHcvIC|lihat|325|parvoviridae}})
+</ref>
+
+===== ''Poxviridae'' =====
+Poxviridae merupakan virus dengan materi genetik [[DNA]] untai ganda sehingga virus ini di termasuk dalam kelas I dalam [[klasifikasi Baltimore]].<ref name=White2/> Ciri khas dari virus ini adalah virus ini memiliki morfologi besar dan kompleks.<ref name=White2/> Virus yang terkenal dalam kelompok ini adalah [[Smallpox]].<ref name=White2/> Smallpox cukup terkenal karena menimbulkan [[pandemik]] yang sangat besar diseluruh dunia.<ref name=White2/> sekarang virus Smallpox sudah dimusnahkan.<ref name=White2>{{citation
+|title=Medical virology
+|last1=White
+|first1=DO.
+|last2=Fenner 
+|first2=F.
+|publisher=Academic Press
+|location=California
+|year=1994
+|isbn=978-0-12-746642-2}} ({{google books with page|_EMHrP_jqC0C|lihat|348|orthomyxoviridae}})
+</ref>
+
+=== Virus Raksasa ===
+Ilmuwan menemukan virus raksasa yang dikenal dengan istilah ''[[Mimivirus]]'', ''[[Megavirus]]'', dan ''[[Pandoravirus]]''.
+
+[[Pandoravirus]] merupakan jenis virus berukuran sangat besar dengan genom yang jauh lebih besar dibanding virus-virus lain yang sudah lebih dulu dikenal. Pandoravirus disebut sebagai virus super raksasa, karena ukurannya mengalahkan virus berukuran raksasa lain seperti Mimivirus atau Megavirus.
+
+Meski berukuran raksasa, namun tetap tidak bisa dilihat dengan mata telanjang. Virus ini ditemukan peneliti dari Prancis [[Jean Michael Claverie]] dari Universitas Mediterrane.<ref>[http://www.portalkbr.com/teenvoice/sekitar-kita/2836824_6433.html Pandoravirus, Virus Super Raksasa] PortalKBR, 22 Juli 2013</ref>
+
+Pandoravirus berukuran seribu kali lebih besar dibanding virus influenza yang berukuran 100 nanometer. Pandoravirus memiliki 2.556 gen (200 kali lebih banyak dari virus influenza). Ukuran Pandoravirus lebih besar dua kali lipat dari Megavirus yang hanya memiliki 1.120 gen.
+
+== Dampak ==
+Beberapa virus ada yang dapat dimanfaatkan dalam rekombinasi genetika.<ref name=Evans/> Melalui terapi gen, gen jahat (penyebab infeksi) yang terdapat dalam virus diubah menjadi gen baik (penyembuh).<ref name=Evans/> Baru-baru ini David Sanders, seorang profesor biologi pada Purdue's School of Science telah menemukan cara pemanfaatan virus dalam dunia kesehatan.<ref name=Evans/> Dalam temuannva yang dipublikasikan dalam Jurnal Virology, Edisi 15 Desember 2002, David Sanders berhasil menjinakkan cangkang luar virus Ebola sehingga dapat dimanfaatkan sebagai pembawa gen kepada sel yang sakit (paru-paru).<ref name=Evans/> Meskipun demikian, kebanyakan virus bersifat merugikan terhadap kehidupan manusia, hewan, dan tumbuhan.<ref name=Evans/>
+
+Virus sangat dikenal sebagai penyebab penyakit infeksi pada manusia, hewan, dan tumbuhan.<ref name=Evans/> Sejauh ini tidak ada makhluk hidup yang tahan terhadap virus.<ref name=Evans/> Tiap virus secara khusus menyerang sel-sel tertentu dari inangnya. Virus yang menyebabkan selesma menyerang saluran pernapasan, virus campak menginfeksi kulit, virus hepatitis menginfeksi hati, dan virus rabies menyerang sel-sel saraf. Begitu juga yang terjadi pada penyakit AIDS (acquired immune deficiency syndrome), yaitu suatu penyakit yang mengakibatkan menurunnya daya tahan tubuh penderita penyakit tersebut disebabkan oleh virus HIV yang secara khusus menyerang sel darah putih.<ref name=Evans/> Tabel berikut ini memuat beberapa macam penyakit yang disebabkan oleh virus.<ref name=Evans/>
+
+Selain manusia, virus juga menyebabkan kesengsaraan bagi hewan dan tumbuhan.<ref name=Evans/> Tidak sedikit pula kerugian yang diderita peternak atau petani akibat ternaknya yang sakit atau hasil panennya yang berkurang.<ref name=Evans/>
+
+=== Penyakit hewan akibat virus ===
+Penyakit tetelo, yakni jenis penyakit yang menyerang bangsa unggas, terutama ayam. Penyebabnya adalah new castle disease virus (NCDV).<ref name=Evans/>
+Penyakit kuku dan mulut, yakni jenis penyakit yang menyerang ternak sapi dan kerbau.<ref name=Evans/>
+Penyakit kanker pada ayam oleh rous sarcoma virus (RSV).<ref name=Evans/>
+Penyakit rabies, yakni jenis penyakit yang menyerang anjing, kucing, dan monyet, disebabkan oleh virus rabies.<ref name=Evans/>
+
+=== Penyakit tumbuhan akibat virus ===
+Penyakit mosaik, yakni jenis penyakit yang menyerang tanaman tembakau.<ref name=Akin/> Penyebabnya adalah tobacco mosaic virus (TMV)
+Penyakit tungro, yakni jenis penyakit yang menyerang tanaman padi.<ref name=Akin/> Penyebabnya adalah virus Tungro.<ref name=Akin/>
+Penyakit degenerasi pembuluh tapis pada jeruk. Penyebabnya adalah virus citrus vein phloem degeneration (CVPD).<ref name=Akin/>
+
+=== Penyakit manusia akibat virus ===
+Contoh paling umum dari penyakit yang disebabkan oleh virus adalah [[pilek]] (yang bisa saja disebabkan oleh satu atau beberapa virus sekaligus), [[cacar]], [[AIDS]] (yang disebabkan virus [[HIV]]), dan demam [[herpes]] (yang disebabkan virus [[herpes simpleks]]).<ref name=crowley/> [[Kanker leher rahim]] juga diduga disebabkan sebagian oleh [[papilomavirus]] (yang menyebabkan papiloma, atau kutil), yang memperlihatkan contoh kasus pada manusia yang memperlihatkan hubungan antara kanker dan agen-agen infektan.<ref name=crowley/> Juga ada beberapa kontroversi mengenai apakah [[virus borna]], yang sebelumnya diduga sebagai penyebab penyakit [[saraf]] pada kuda, juga bertanggung jawab kepada penyakit [[psikiatris]] pada manusia.<ref name=crowley/>
+
+Potensi virus untuk menyebabkan [[wabah]] pada manusia menimbulkan kekhawatiran penggunaan virus sebagai [[senjata biologis]]. Kecurigaan meningkat seiring dengan ditemukannya cara penciptaan varian virus baru di laboratorium.<ref name=crowley/>
+
+Kekhawatiran juga terjadi terhadap penyebaran kembali virus sejenis cacar, yang telah menyebabkan wabah terbesar dalam sejarah manusia, dan mampu menyebabkan kepunahan suatu bangsa.<ref name=crowley/> Beberapa suku bangsa [[Indian]] telah punah akibat wabah, terutama penyakit cacar, yang dibawa oleh kolonis Eropa.<ref name=crowley/> Meskipun sebenarnya diragukan dalam jumlah pastinya, diyakini kematian telah terjadi dalam jumlah besar.<ref name=crowley/> Penyakit ini secara tidak langsung telah membantu dominasi bangsa Eropa di dunia baru Amerika.<ref name=crowley/>
+
+Salah satu virus yang dianggap paling berbahaya adalah [[filoviridae|filovirus]].<ref name=crowley/> Grup Filovirus terdiri atas [[Virus Marburg|Marburg]], pertama kali ditemukan tahun 1967 di [[Marburg]], [[Jerman]], dan [[ebola]].<ref name=crowley/> Filovirus adalah virus berbentuk panjang seperti cacing, yang dalam jumlah besar tampak seperti sepiring mi.<ref name=crowley/> Pada [[April 2005]], virus Marburg menarik perhatian pers dengan terjadinya penyebaran di [[Angola]]. Sejak Oktober [[2004]] hingga [[2005]], kejadian ini menjadi epidemi terburuk di dalam kehidupan manusia.<ref name=crowley>{{citation|title= An Introduction to Human Disease: Pathology and Pathophysiology
+|last1= Crowley|first1=LV.|publisher=Jones and Bartlett Publishers|location=Sudburry|year=2010|isbn=978-0-7637-6591-0}} ({{google books with page|gMxeK6sqsfwC|lihat|147|virus+human}})</ref>
+
+== Diagnosis di laboratorium ==
+Deteksi, isolasi, hingga analisis suatu virus biasanya melewati proses yang sulit dan mahal.<ref name=Zuckerman/> Karena itu, penelitian penyakit akibat virus membutuhkan fasilitas besar dan mahal, termasuk juga peralatan yang mahal dan tenaga ahli dari berbagai bidang, misalnya teknisi, ahli [[biologi molekular]], dan ahli virus.<ref name=Zuckerman/> Biasanya proses ini dilakukan oleh lembaga kenegaraan atau dilakukan secara kerjasama dengan bangsa lain melalui lembaga dunia seperti [[Organisasi Kesehatan Dunia|Organisasi Kesehatan Dunia (WHO)]].<ref name=Zuckerman>{{citation|title= Principles and Practice of Clinical Virology|last1= Zuckerman|first1=AJ.|last2=Banatvala|first2=JE.|last3= Griffiths|first3=P.|publisher=John Wiley & Sons Ltd.|location=England|year=2009|isbn=978-0-470-51799-4}} ({{google books with page|OgbcUWpUCXsC|lihat|105|viral+diagnosis}})</ref>
+
+== Pencegahan dan pengobatan ==
+Karena biasanya memanipulasi mekanisme sel induknya untuk bereproduksi, virus sangat sulit untuk dibunuh.<ref name=Singh/> Metode [[pengobatan]] sejauh ini yang dianggap paling efektif adalah [[vaksinasi]], untuk merangsang kekebalan alami tubuh terhadap proses infeksi, dan obat-obatan yang mengatasi gejala akibat infeksi virus.<ref name=Singh/>
+
+Penyembuhan penyakit akibat infeksi virus biasanya disalah-antisipasikan dengan penggunaan [[antibiotik]], yang sama sekali tidak mempunyai pengaruh terhadap kehidupan virus.<ref name=Singh/> Efek samping penggunaan antibiotik adalah resistansi bakteri terhadap antibiotik.<ref name=Singh/> Karena itulah diperlukan pemeriksaan lebih lanjut untuk memastikan apakah suatu penyakit disebabkan oleh bakteri atau virus.<ref name=Singh>{{citation|title= Vaccine Adjuvants and Delivery Systems|last1= Singh|first1=M.|publisher=John Wiley & Sons Ltd.|location=New Jersey|year=2007|isbn=978-0-471-73907-4}} ({{google books with page|7QKRrTPwuDYC|lihat|1|vaccine}})</ref>
+
+Infeksi virus atau bakteri pada umumnya menimbulkan demam, hanya saja infeksi bakteri akan meningkatkan kadar [[Sel darah putih]], sedangkan infeksi virus tidak, tetapi infeksi bakteri, virus bahkan jamur akan meningkatkan kadar [[Antibodi M]] (IgM), tetapi pemeriksaan IgM agak mahal. Pemeriksaan Sel darah putih ataupun IgM tidak dapat menentukan jenis penyakitnya, tetapi kedua pemeriksaan tersebut hanya mengindikasikan penyakit tersebut diakibatkan oleh apa. Jika biaya menjadi kendala, maka pemeriksaan Sel darah putih saja sudah cukup, karena infeksi virus tidak dapat diobati dengan anti-biotik dan pada umumnya infeksi virus akan sembuh dengan sendirinya (virus self limiting life) dengan istirahat (istirahat penuh di ranjang, jika perlu) dan gizi yang cukup, kecuali [[HIV]] di mana untuk diagnosis awal diperlukan pemeriksaan [[Sel T|CD4]] yang relatif murah.
+
+== Lihat pula ==
+* [[Mikrobiologi]]
+* [[Prion]]
+* [[Virologi]]
+
+== Referensi ==
+{{Reflist|colwidth=30em}}
+
+== Bacaan lanjutan ==
+* {{cite book|last= Aryulina|first= Diah|authorlink=|coauthors= Choirul Muslim, Syalfinaf Manaf, Endang Widi Winarni|title=Biologi 1 SMA dan MA Untuk Kelas X|year= 2007|publisher= Esis/Erlangga|location= Jakarta|id= ISBN 974-734-549-1 }} {{id icon}}
+
+== Pranala luar ==
+* {{en}} [http://media.med.sc.edu/microbiology2007/ Perpustakaan Online tentang virus]
+* {{en}} [http://virology-online.com Wong's Virology]
+* {{en}} [http://www.news-medical.net/health/What-is-a-Virus.aspx Apa itu virus?]
+
+[[Kategori:Virus|Virus]]
+[[Kategori:Penyakit]]

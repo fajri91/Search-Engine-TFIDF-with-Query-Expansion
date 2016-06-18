@@ -1,0 +1,46 @@
+Labidus
+{{italic title}}{{Taxobox
+|name = ''Labidus''
+|image = Labidus praedator casent0173515 profile 1.jpg
+|image_caption=''Labidus praedator''
+|regnum = [[Animal]]ia
+|phylum = [[Arthropod]]a
+|classis = [[Insect]]a
+|ordo = [[Hymenoptera]]
+|familia = [[Formicidae]]
+|subfamilia = [[Dorylinae]]
+|tribus = 
+|genus = '''''Labidus'''''
+|genus_authority =Jurine, 1807
+|type_species = ''[[Labidus coecus|Labidus latreillii]]''
+|type_species_authority = 
+|diversity_link = #Species
+|diversity = 7 spesies
+|diversity_ref = <ref name="AntCat">{{AntCat|429463|''Labidus''|2014|accessdate=4 July 2014}}</ref>
+|synonyms =
+''Nycteresia'' <small>Roger, 1861</small><br>
+''Pseudodichthadia'' <small>Andr, 1885</small>
+}}
+
+'''''Labidus''''' adalah [[genus]] [[semut tentara]] [[Dunia Baru]] dari [[subkeluarga]] [[Dorylinae]].<ref name="AWLabidus"/> Genus ini dikenal dari Amerika Serikat ke [[Argentina]].<ref name="Kempf_1972"/>
+
+==Spesies==
+*''[[Labidus auropubens]]'' <small>(Santschi, 1920)</small>
+*''[[Labidus coecus]]'' <small>(Latreille, 1802)</small>
+*''[[Labidus curvipes]]'' <small>(Emery, 1900)</small>
+*''[[Labidus mars]]'' <small>(Forel, 1912)</small>
+*''[[Labidus praedator]]'' <small>(Smith, 1858)</small>
+*''[[Labidus spininodis]]'' <small>(Emery, 1890)</small>
+*''[[Labidus truncatidens]]'' <small>(Santschi, 1920)</small>
+
+==Referensi==
+{{Reflist|refs=
+<ref name="AWLabidus">{{cite web |url=http://www.antweb.org/description.do?name=Labidus&rank=genus&project=allantwebants |title= Genus: ''Labidus'' |date= |website=antweb.org |publisher=[[AntWeb]] |accessdate=21 September 2013}}</ref>
+
+<ref name="Kempf_1972">{{cite journal |last=Kempf |first=W. W. |date=1972 |title=Catlogo abreviado das formigas da regio Neotropical |journal=Studia Entomologica |volume=15 |pages=3-344 |language=Portuguese}}</ref>
+}}
+
+==Pranala luar==
+*{{commonscat-inline|Labidus|''Labidus''}}
+
+[[Category:Dorylinae]]

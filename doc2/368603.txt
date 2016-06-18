@@ -1,0 +1,15 @@
+Templat:Pergetteng-getteng Sengkut, Pakpak Bharat
+{{Navigasi ID Desa
+|provinsi=Sumatera Utara
+|dati2=Kabupaten
+|nama dati2=Pakpak Bharat
+|nama kecamatan=Pergetteng-getteng Sengkut
+|d1=Aornakan I
+|d2=Aornakan II
+|d3=Kecupak I
+|d4=Kecupak II
+|d5=Simerpara
+}}<noinclude>
+[[Kategori:Templat desa/kelurahan di Sumatera Utara|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Pakpak Bharat|{{PAGENAME}}]]
+</noinclude>

@@ -1,0 +1,32 @@
+Bandar Udara Internasional Puerto Surez
+{{Kotakinfo bandara|nama=Bandar Udara Internasional Puerto Surez
+|IATA=PSZ
+|ICAO=SLPS
+|lokasi=[[Puerto Surez]]
+|negara=[[Bolivia]]
+|pengelola=[[Angkasa Pura II]]
+|tipe=Publik
+|waktu=UTC-4
+|situs resmi=
+|elevasi=134 [[meter|m]] (439 [[feet|f]])
+|koordinat={{coor dms|18|58|31|S|057|49|14|W}}
+{{landaspacu|sudut=04/22|panjang_f=6.562|panjang_m=2.000|permukaan=[[Aspal]]}}
+}}
+
+{{for|bandara yang melayani kota [[Corumb]], [[Brazil]]|Bandar Udara Internasional Corumb}}
+
+'''Bandar Udara Internasional Puerto Surez''' {{airport codes|PSZ|SLPS}} adalah sebuah bandar udara di [[Puerto Surez]], [[Bolivia]].
+
+== Maskapai dan destinasi ==
+{{airport-dest-list
+|[[Aerocon]] | Santa Cruz de la Sierra, Tarija
+|[[Aerosur]] | Cuiaba, Santa Cruz de la Sierra, So Paulo-Guarulhos
+|[[Amaszonas]] | Santa Cruz de la Sierra, Trinidad
+|[[TAM - Transporte Areo Militar]] | Santa Cruz, Cochabamba, La Paz
+}}
+
+== Pranala luar ==
+* {{WAD|SLPS}}
+{{bandara-amerikaselatan-stub}}
+
+[[Kategori:Bandar udara di Bolivia]]

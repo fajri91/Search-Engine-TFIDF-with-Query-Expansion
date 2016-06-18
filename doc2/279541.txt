@@ -1,0 +1,22 @@
+Wolbachia
+{{italic title}}
+{{Taxobox
+| color = lightgrey
+| image = Wolbachia.png
+| image_caption = Transmisi mikrograf elektron ''Wolbachia'' di dalam sel hewan.<br /><small>Credit:[[Public Library of Science]] / Scott O'Neill</small>
+| name = ''Wolbachia''
+| regnum = [[Bacteria]]
+| phylum = [[Proteobacteria]]
+| classis = [[Alphaproteobacteria]]
+| ordo = [[Rickettsiales]]
+| familia = [[Rickettsiaceae]]
+| genus = '''''Wolbachia'''''
+}}
+'''''Wolbachia''''' adalah salah satu [[genus]] [[bakteri]] yang hidup sebagai [[parasit]] pada hewan [[artropoda]].<ref name="a">{{en}} Madigan MT, Martinko JM, (2000). Brock Biology of Microorganisms. Prentice Hall. ISBN 978-0-13-081922-2.Page.358-359</ref> Infeksi ''Wolbachia'' pada hewan akan menyebabkan [[partenogenesis]] (perkembangan sel telur yang tidak dibuahi), kematian pada hewan jantan, dan [[feminisasi]] (perubahan serangga jantan menjadi betina).<ref name="a"/> Bakteri ini tergolong ke dalam [[gram negatif]], berbentuk batang, dan sulit ditumbuhkan di luar tubuh inangnya.<ref>{{en}} {{cite book|last= Marjorie A. Hoy|first=|authorlink=|coauthors=|title= Insect molecular genetics: an introduction to principles and applications|year= 2003|publisher= Academic Press|location=|id= ISBN 978-0-12-357031-4}}Page.302</ref> Berdasarkan studi [[filogenomik]], ''Wolbachia'' dikelompokkan menjadi 8 kelompok utama (A-H). Bakteri tersebut banyak terdapat di dalam [[jaringan]] dan [[organ]] [[reproduksi]] hewan serta pada jaringan [[somatik]]. Inang yang terinfeksi dapat mengalami [[inkompatibilitas]] (ketidakserasian) [[sitoplasma]], yaitu suatu fenomena penyebaran faktor sitoplasma yang umumnya dilakukan dengan membunuh [[progeni]] (keturunan) yang tidak membawa/mewarisi faktor tersebut.<ref>{{en}} {{cite book|last= Isaac Ishaaya, Rami A. Horowitz, A. Rami Horowitz|first=|authorlink=|coauthors=|title= Biorational Control of Arthropod Pests: Application and Resistance Management|year= 2009|publisher= Springer|location=|id= ISBN 978-90-481-2315-5}}Page.195-196</ref> 
+
+== Referensi ==
+{{reflist}}
+{{bakteri-stub}}
+
+[[Kategori:Bakteri]]
+[[Kategori:Bakteri gram-negatif]]

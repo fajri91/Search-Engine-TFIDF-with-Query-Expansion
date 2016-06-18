@@ -1,0 +1,12 @@
+Paket perangkat lunak
+'''Paket perangkat lunak''' atau '''paket aplikasi''' adalah kumpulan [[program komputer]], biasanya berupa [[aplikasi]] atau [[perangkat lunak pemrograman]], yang memiliki fungsi yang berhubungan. Perangkat lunak-perangkat lunak ini umumnya memiliki [[antar muka pengguna]] yang kurang lebih sama dan juga dapat saling bertukar data antar mereka. Paket ini biasanya dijual dengan harga yang lebih murah dibandingkan jumlah harga masing-masing komponennya.
+
+== Contoh ==
+
+* [[Paket aplikasi perkantoran]]
+* [[Paket aplikasi Internet]]
+* [[Paket aplikasi grafis]]
+
+{{software-stub}}
+
+[[Kategori:Paket perangkat lunak| ]]

@@ -1,0 +1,133 @@
+Halaman Utama
+<div id="atas">
+{| style="width:100%; margin-bottom:2px;"
+| class="logoWikipedia" style="background-repeat:no-repeat; background-position:-40px -15px; width:100%; border:1px solid #a7d7f9; vertical-align:top; {{border-radius|10px}}" |
+{|  style="width:100%; margin-bottom:2px; vertical-align:top; font-size:95%; background:transparent;"
+|-
+| style="height:3em; padding-left:155px;" |<div style="font-size:185%;">Selamat datang di [[Wikipedia]],</div>
+<div style="margin-left:8px"> Sebuah ensiklopedia bebas yang dibangun oleh komunitas.</div>
+|style="padding: 1em; text-align: right; line-height: 1.3;" |'''[[Istimewa:Statistik|{{NUMBEROFARTICLES}} artikel]]''' dalam '''[[bahasa Indonesia]]'''.
+<div class="hlist">
+* <span class="plainlinks">[//id.m.wikipedia.org Versi Wikipedia pada perangkat selular]</span>
+
+</div>
+|-
+| colspan="2" class="hlist" style="text-align: center;"|
+* [[Portal:Biografi|Biografi]]
+* [[Portal:Geografi|Geografi]]
+* [[Portal:Ilmu|Ilmu]] 
+* [[Portal:Sejarah|Sejarah]]
+* [[Portal:Kimia|Kimia]]
+* [[Portal:Teknologi|Teknologi]]
+* [[Portal:Komunitas|Komunitas]]
+* [[Portal:Seni|Seni]]
+* '''[[Portal:Daftar portal|Semua portal]]'''
+|}
+|}
+</div>
+<!-- ============== TABEL UTAMA MULAI ================ -->
+{| style="margin-top:10px; background:none;"
+<!-- ============== KOLOM KIRI MULAI ================ -->
+| style="width:60%; border:1px solid #a7d7f9; vertical-align:top; color:#000; padding: 0px 10px 10px 0px; {{border-radius|10px}}" |
+{| cellpadding="2" cellspacing="5" style="width:100%; vertical-align:top; background:transparent;"
+<!-- ============== ARTIKEL PILIHAN ================ -->
+!
+{{Halaman Utama/Box
+|titre   = Artikel pilihan
+|id      = mf-artikelpilihan
+|image   = HSutvald2.svg
+|contenu = {{Wikipedia:Artikel Pilihan/{{divfloor|{{orddate}}|10}} {{CURRENTYEAR}}}}
+|orange = oLumiereSur
+}}
+<!-- ================== PERISTIWA TERKINI =============== -->
+! {{Halaman Utama/Box
+|titre   = Peristiwa terkini
+|id      = mf-peristiwaterkini
+|image   = HSAktuell.svg
+|contenu = {{Peristiwa terkini}}</div> 
+}}
+<!-- ================== HARI INI DALAM SEJARAH =============== -->
+! {{Halaman Utama/Box
+|titre   = Hari ini dalam sejarah
+|id      = mf-hids
+|image   = HSDagensdatum.svg
+|contenu = {{Hari Ini Dalam Sejarah}}
+}}
+<!-- ============== TAHUKAH ANDA ================= -->
+! {{Halaman Utama/Box
+|titre   = Tahukah Anda
+|id      = mf-tahukahanda
+|image   = HSVissteduatt.svg
+|contenu = {{clr}}{{Wikipedia:Tahukah Anda/{{CURRENTDAY}} {{CURRENTMONTHNAME}}}}
+|lien    = {{clear}}{{nobr|[[Wikipedia:Tahukah Anda|Arsip]]{{,}} [[Wikipedia:Artikel pertama Anda|Memulai artikel baru]]}}
+}}
+<!-- =============  GAMBAR PILIHAN ================== -->
+! {{Halaman Utama/Box
+|id      = mf-gambarpilihan
+|titre   = Gambar pilihan
+|image   =  HSBild.svg
+|contenu = {{Wikipedia:Gambar pilihan/{{#expr:ceil (({{#time:z}} +1) div 4)}}_{{#time:Y}}}}
+|lien    = [[Wikipedia:Gambar pilihan|Lainnya]]
+}}
+<!-- ============= TABEL KIRI SELESAI ================= -->
+|}
+| style="border:5px solid transparent;" |
+<!-- ============== KOLOM KANAN MULAI ================ -->
+| style="width:40%; border:1px solid #a7d7f9; background:#f5faff; vertical-align:top; padding: 0px 10px 10px 0px; {{border-radius|10px}}"|
+<!--     =====================  TABEL DI KOLOM KANAN MULAI  ====================     -->
+{| id="mp-right" cellpadding="2" cellspacing="5" style="width:100%; vertical-align:top; background:#f5faff; background:transparent;"
+<!-- ========================= WIKIPEDIA DALAM BAHASA LAIN =============== -->
+! {{Halaman Utama/Box2
+| image   = W-circle.svg
+| titre   = Mari bergabung!
+| contenu = {{Halaman Utama/Sambutan}}
+}}
+<!-- ========================= PARTISIPASI =============== -->
+! {{Halaman Utama/Box2
+| image   = {{{img1|Text-x-generic with pencil-2.svg}}}
+| titre   = {{{jud1|Tantangan kolaborasi}}}
+| contenu = 
+{{Templat:Halaman Utama/Modul partisipasi}}
+}}
+<!-- ========================= Tambahan =============== --
+{{#if:{{{cont2|}}}|
+! {{Halaman Utama/Box2
+| image   = {{{img2|Text-x-generic with pencil-2.svg}}}
+| titre   = {{{jud2|Partisipasi}}}
+| contenu = {{{cont2|Mari berpartisipasi dalam membangun ensiklopedia bebas terlengkap berbahasa Indonesia!}}}
+}}|}}
+<!-- ========================= KOMUNITAS =============== -->
+! {{Halaman Utama/Box2
+| image   = HSSamarbete.svg
+| titre   = Komunitas
+| contenu = 
+{{Halaman Utama/Modul_komunitas}}
+}}
+<!-- ================== PROYEK WMF LAIN  =============== -->
+! {{Halaman Utama/Box2
+| image   = Wikimedia-logo-circle.svg
+| titre   = {{nobr|Proyek Wikimedia lain}}
+| contenu = {{clr}} {{Halaman Utama/ProyekWMF}}
+}}
+|}
+<!-- ========================= TABEL DI KOLOM KANAN SELESAI =============== -->
+<!-- ========================= KOLOM KANAN SELESAI =============== -->
+|}
+<!-- ========================= TABEL UTAMA SELESAI =============== -->
+<!-- ========================== PENYANGKALAN MULAI ========================== -->
+{| style="margin:0 0 0 0; background:none; width:100%; margin-top:12px; background:transparent;"
+| style="width:100%; border:1px solid #a7d7f9; vertical-align:top; color:#000; padding: 0px 0px 0px 0px; {{border-radius|10px}}" |
+{| width="100%" style=" padding:0px; margin-top:0px; margin-bottom:0px; background:transparent;"
+|-
+| align=center |[[Wikipedia:Penyangkalan umum|Wikipedia tidak menjamin keabsahan isi artikel]].<br><small>[[Wikimedia Foundation]] tidak bertanggung jawab atas isi Wikipedia. Setiap penulis bertanggung jawab atas suntingannya masing-masing.</small>
+|}
+|}
+{| style="margin: 0 auto;background-color:transparent"
+|[[Berkas:Crystal 128 mail.png|24px|link=Wikipedia:Hubungi kami|alt=Hubungi kami]]||''[[Wikipedia:Hubungi kami|Butuh bantuan? Hubungi kami!]]''
+|}
+<!-- ========================== PENYANGKALAN SELESAI ========================== -->
+__NOTOC__
+__NOEDITSECTION__
+[[Kategori:Halaman Utama| ]]
+[[ace:]][[bjn:]]<!--[[bug:]]-->[[map-bms:]][[jv:]][[ms:]][[min:]][[su:]] [[tet:]]
+[[ar:]][[bg:]][[ca:]][[cs:]][[da:]][[de:]][[en:]][[eo:]][[es:]][[et:]][[eu:]][[fa:]][[fi:]][[fr:]][[gl:]][[he:]][[hi:]][[hr:]][[ht:]][[hu:]][[it:]][[ja:]][[ko:]][[lt:]][[new:]][[nl:]][[nn:]][[no:]][[pl:]][[pt:]][[ro:]][[ru:]][[simple:]][[sk:]][[sl:]][[sr:]][[sv:]][[th:]][[tr:]][[uk:]][[vi:]][[vo:]][[zh:]] {{noexternallanglinks}}

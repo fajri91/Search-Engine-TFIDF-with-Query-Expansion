@@ -1,0 +1,48 @@
+Stasiun Soreang (Parepare)
+{{future building}}
+{{bukan|Stasiun Soreang (Bandung)}}
+{{infobox stasiun
+|name=Soreang
+|image=
+|caption=
+|prov=Sulawesi Selatan
+|kota=Parepare
+|kecamatan kota=Soreang
+|kelurahan kota=
+|alamat=
+|kodepos=?
+|oldname=
+|open=?
+|close=
+|kode=?
+|tinggi=?
+|letak=
+|nomor=
+|line= ?
+|operator=?
+}}
+'''Stasiun Soreang''' ('''???''') adalah stasiun kereta api yang akan dibangun di [[Kota Parepare]]. Pada tahap awal, stasiun ini akan terhubung dengan jalur kereta api menuju [[Kota Makassar]]. Namun, rencananya [[jalur kereta api Trans-Sulawesi|jalur kereta api]] juga akan dibangun menuju daerah lainnya seperti [[Kota Manado]]. Stasiun ini menjadi stasiun kereta api ke-23 di [[Sulawesi Selatan]].<ref name=stasiun>[http://www.sulselprov.go.id/berita-ekspose-penetapan-trase-jalur-kereta-api-makassarparepare.html Ekspose Penetapan Trase Jalur Kereta Api Makassar-Parepare] Diakses 21 Desember 2015</ref>
+
+<!--==Sejarah==-->
+
+==Referensi==
+{{reflist}}
+
+<center>
+{|class=wikitable style=text-align:center
+|-
+!Stasiun sebelumnya:
+|rowspan=2|[[Jalur kereta api Makassar-Parepare]]
+!Stasiun berikutnya:
+|-
+|[[Stasiun Lumpue]]
+|<i>Terminus</i>
+|}
+</center>
+
+{{Stasiun kereta api di Indonesia}}
+
+{{stasiun-stub}} 
+[[Kategori:Stasiun kereta api di Sulawesi Selatan]]
+[[Kategori:Kota Parepare]]
+[[Kategori:Soreang, Parepare]]

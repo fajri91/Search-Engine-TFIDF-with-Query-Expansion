@@ -1,0 +1,6 @@
+Templat:Taxonomy/Elephantoidea
+{{Don't edit this line {{{machine code|}}}|{{{1}}}
+|rank=superfamilia
+|link=Elephantoidea
+|parent=Elephantida
+}}

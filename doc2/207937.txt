@@ -1,0 +1,15 @@
+Arsitektur informasi
+'''Arsitektur informasi''' (sering disingkat IA, ''information architecture'') adalah seni menggambarkan suatu [[model]] atau [[konsep]] [[informasi]] yang digunakan dalam aktivitas-aktivitas yang membutuhkan detail eksplisit dari suatu sistem kompleks. Contoh aktivitas tersebut adalah sistem [[pustaka pemrograman]], [[sistem manajemen isi]], [[pengembangan web]], [[interaksi pengguna]], pengembangan [[basis data]], [[pemrograman]], [[penulisan teknis]], [[arsitektur perusahaan]], dan [[desain perangkat lunak]] sistem kritis. Istilah ini diperkenalkan pertama kali pada tahun [[1975]] oleh [[Richard Saul Wurman]] <ref>[http://www.llrx.com/columns/guide52.htm Guide on the Side - Richard Saul Wurman: Information Architect Pioneer]</ref>.
+
+== Pranala luar ==
+
+* {{en}} [http://www.digital-web.com/topics/information_architecture/ Information Architecture at Digital Web Magazine]
+* {{en}} [http://www.interaction-design.org/encyclopedia/information_architecture.html Encyclopedia entry on the history and key concepts of Information Architecture]
+
+== Catatan kaki ==
+
+{{reflist}}
+
+{{ti-stub}}
+
+[[Kategori:Teknologi informasi]]

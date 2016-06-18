@@ -1,0 +1,31 @@
+Gletser Carstensz
+{{Orphan|date=Januari 2016}}
+
+{{Infobox glacier 
+| name = Gletser Carstensz
+| photo = GrasbergMine ISS011-E-9620.jpg
+| photo_caption = Gletser Carstensz di kanan bawah. Depresi lingkaran di kiri adalah [[tambang Grasberg]], tambang emas terbesar di dunia. (2005)
+| type = Gletser pegunungan
+| location = [[Puncak Jaya]], [[Barisan Sudirman]], [[Papua]], [[Indonesia]]
+| coords = {{coord|04|04|59.32|S|137|10|44.77|E|type:glacier}}
+| area = {{convert|0.686|km2|abbr=on}} (2002)<ref name=kincaid>{{cite web|last=Kincaid|first=Joni L.|title=Retreat of the Irian Jaya Glaciers from 2000 to 2002|url=http://www.easternsnow.org/proceedings/2004/kincaid_and_klein.pdf#search='meren%20glacier'|work=61st Eastern Snow Conference|accessdate=2011-11-03|coauthors=Andrew G Klein|pages=147157|format=pdf|year=2004}}</ref>
+| length = {{convert|1.4|km|abbr=on}}
+| thickness = 
+| terminus = Bebatuan
+| status = Menyusut
+}}
+[[File:Puncak Jaya glaciers 1850-2003 evolution map-fr.gif|thumb|right|250px|Animasi peta luas gletser di Barisan Carstensz sejak 1850 sampai 2003]]
+'''Gletser Carstensz''' adalah badan es yang terletak di dekat [[Puncak Jaya]] (kadang disebut ''Puncak Carstensz'' atau ''Piramida Carstensz''), sebuah gunung di [[Barisan Sudirman]] di daratan tinggi barat tengah [[Papua]], [[Indonesia]]. Gletser ini berada di ketinggian {{convert|4600|m}} dan {{convert|1.5|km}} di sebelah timur Puncak Jaya. Gletser Carstensz memiliki panjang {{convert|1.4|km}} dan lebar {{convert|.60|km}}.
+
+Penelitian [[citra satelit]] [[IKONOS]] tahun 2004 di kawasan glasier Nugini menunjukkan bahwa dalam waktu dua tahun mulai 2000 sampai 2002, Gletser Carstensz telah kehilangan 6,8% permukaannya.<ref name=kincaid/> Ekspedisi di sisa gletser Puncak Jaya pada tahun 2010 menemukan bahwa es di gletser setebal {{convert|32|m}} dan menipis {{convert|7|m}} setiap tahunnya. Jika tingkat penipisan ini berlanjut, sisa gletser di kawasan dekat Puncak Jaya diperkirakan hilang pada tahun 2015.<ref>{{cite news|last=McDowell|first=Robin|title=Indonesias Last Glacier Will Melt Within Years|url=http://www.thejakartaglobe.com/home/indonesias-last-glacier-will-melt-within-years/383607|accessdate=2011-11-03|newspaper=Jakarta Globe|date=July 1, 2010}}</ref><ref>{{cite news|title=Papua Glaciers Secrets Dripping Away: Scientists|url=http://www.thejakartaglobe.com/news/papua-glaciers-secrets-dripping-away-scientists/383881|accessdate=2011-11-03|newspaper=Jakarta Globe|date=July 2, 2010}}</ref>
+
+Sisa gletser di Puncak Jaya adalah bagian dari daratan es yang terbentuk sekitar 5.000 tahun yang lalu. Sedikitnya satu daratan es pernah terbentuk di daerah ini antara 7.000 dan 15.000 tahun yang lalu. Diperkirakan daratan es tersebut sempat mencair dan hilang.<ref name=kincaid/>
+
+==Lihat pula==
+*[[Penyusutan gletser sejak 1850]]
+*[[Daftar gletser]]
+
+==Referensi==
+{{reflist}}
+
+[[Kategori:Gletser di Indonesia]]

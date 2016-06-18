@@ -1,0 +1,47 @@
+Sistem manajemen basis data relasional
+Sebuah '''sistem manajemen basis data relasional''' atau dalam [[bahasa Inggris]]nya dikenal sebagai ''relational database management system (RDBMS)'' adalah sebuah [[program komputer]] (atau secara lebih tipikal adalah seperangkat program komputer) yang dirancang untuk mengatur/memanajemen sebuah basis data sebagai sekumpulan data yang disimpan secara terstruktur, dan melakukan operasi-operasi atas data atas permintaan penggunanya. Contoh penggunaan DBMS ada banyak sekali dan dalam berbagai bidang kerja, misalnya [[akuntansi]], [[manajemen sumber daya manusia]], dan lain sebagainya. Meskipun pada awalnya DBMS hanya dimiliki oleh perusahaan-perusahaan berskala besar yang memiliki perangkat komputer yang sesuai dengan spesifikasi standar yang dibutuhkan (pada saat itu standar yang diminta dapat dikatakan sangat tinggi) untuk mendukung jumlah data yang besar, saat ini implementasinya sudah sangat banyak dan adaptatif dengan kebutuhan spesifikasi data yang rasional sehinggal dapat dimiliki dan diimplementasikan oleh segala kalangan sebagai bagian dari investasi perusahaan.
+
+== Sejarah atas istilah RDBMS ==
+[[Edgar F. Codd]] memperkenalkan istilah ini pada makalah seminarnya yang berjudul [http://www.acm.org/classics/nov95/toc.html "A Relational Model of Data for Large Shared Data Banks"]. Salah satu definisi yang cukup dikenal secara luas atas sebuah sistem basisdata relasional adalah [[12 hukum Codd]]. Namun, pada awal-awal implementasinya banyak model relasional yang tidak mengikuti seluruh elemen-elemen yang terdapat dalam hukum-hukum Codd tersebut yang menjadikan terminologinya berkembang untuk mendeskripsikan sebuah tipikal sistem basisdata yang lebih luas. Dalam cakupan yang minimum sistem tersebut memenuhi kriteria berikut:
+
+* menyajikan data pada pengguna dalam bentuk relasional (ditampilkan dalam bentuk tabular, sebagai koleksi dari tabel dimana setiap tabel beriisi sekumpulan baris dan kolom)
+* menyediakan operator relasional untuk memanipulasi data dalam bentuk tabular
+
+Sistem yang pertama kalinya yang secara relatif memenuhi implementasi atas sebuah model relasional adalah Pusat Studi Ilmiah IB, Inggris, di Peterlee; [[IS1]] (1970-1972) dan implementasi lain yang mengikutinya [[PRTV]] (1973-1979). Sistem yang pertama kalinya dijual secara komersil sebagai RDBMS adalah [[Multics Relational Data Srore]] pada tahun 1978. Yang lainnya adalah [[Berkeley Ingres QUEL]] dan [[IBM BS12]].
+
+== Pemanfaatan saat ini ==
+Ada beberapa ketidaksepahaman terhadap definisi atas "relasional" dari DBMS.
+
+Definisi yang paling populer dari sebuah RDBMS seringkali dianggap kurang tepat; beberapa kalangan berargumentasi bahwa penyajian data sebagai kumpulan baris dan kolom sudah cukup memenuhi syarat untuk dikatakan sebagai sebuah RDBMS. Tipikalnya, sebuah sistem basisdata dikatakan memenuhi kriteria sebagai RDBMS apabila memenuhi hukum-hukum yang ditetapkan dalam [[12 hukum Codd]], namun pada kenyataannya justru kebanyakan sistem basisdata tidak mendukung sepenuhnya implementasi hukum-hukum Codd tersebut.
+
+Kalangan lainnya beranggapan apabila sebuah sistem basisdata tidak mengimplementasikan keseluruhan hukum-hukum Codd tersebut, maka sistem tersebut tidak dapat disebut sebagai relasional. Pandangan seperti ini, yang banyak diterima oleh para teoritis dan kalangan-kalangan lainnya yang memegang teguh prinsip-prinsip Codd, tentunya akan mendiskualifikasikan banyak sistem basisdata yang ada saat ini "tidak murni relasional". Dalam kenyataannya, sistem basisdata yang menggunakan [[SQL]] (''Structured Query Language'') untuk mengakses dan memodifikasi data tidak bisa dikatakan sebagai RDBMS menurut definisi ini. Sementara itu, para pendukung atas sistem basisdata yang ada menyebutkan sebuah sistem basisdata yang menerapkan hanya beberapa dari hukum-hukum Codd tersebut disebut sebagai ''Sistem Manajemen Basisdata Semi-Relasional/Pseudo-Relational Database Management Systems'' (PRDBMS). Untuk sistem manajemen basis data yang sepenuhnya menerapkan hukum-hukum Codd tersebut selanjutnya disebut sebagai ''Sistem Manajemen Basisdata Murni-Relasional/Trully-Relational Database Management Systems'' (TRDBMS).
+
+Saat ini, hampir seluruh RDBMS yang ada menerapkan SQL sebagai bahasa query namun juga menyediakan dan mengimplementasi beberapa alternatif lainnya. Alpora [[Dataphor]] adalah RDBMS yang tersedia secara komersil yang mengikuti secara penuh ke dua belas hukum-hukum Codd tersebut, dan kedua kelompok mengenalnya sebagai RDBMS.
+
+== Variasi dinamis ==
+Keluhan yang muncul dan dikenal secara umum terhadap keberadaan RDBMS adalah kenyataan bahwa implementasi yang ada saat ini dipandang sebagai terlalu "statis". Spekulasipun bermunculan terhadap kemungkinan untuk membuat sebuah sistem basisdata generasi baru yang menggunakan model "relasional secara dinamis" dengan kolom yang bisa dibuat secara dinamis, ukuran yang berkembang secara dinamis, didefinisikan secara dinamis. Setiap baris dapat diimplementasikan sebagai map (kamus ataupun larik asosiatif) dan kolom-kolom yang tidak dikenal secara sederhana disajikan sebagai field kosong. Beberapa kalangan menganggap hal ini menyalahi model relasioal murni, namun kalangan lain menyanggah bahwa sebuah penggunaan map hanyalah sebagai detail implementasi saja. Sehingga dalam pandangan ini, sebuah "kolom yang tidak ditemukan/tidak ada" secara sederhana hanyalah dipandang sebagai perihal interpretasi dan dianggap sebagai pilihan cara penyajian saja
+
+== Lihat pula ==
+* {{id}} [[Daftar sistem manajemen database relasional]]
+* {{en}} [[:en:List of truly relational database management systems|List of truly relational database management systems]]
+* {{en}} [[:en:Comparison of SQL database management systems|Comparison of relational database management systems]]
+* {{en}} [[:en:Comparison of truly relational database management systems|Comparison of truly relational database management systems]]
+* {{en}} [[:en:Structured Query Language|Structured Query Language]] (SQL)
+* {{en}} [[:en:Life cycle of a relational database|Life cycle of a relational database]]
+
+== Pranala luar ==
+* {{en}} [http://www.dbdebunk.com Database Debunkings] - Critical point of view that argues that it is important that the predicate ''relational'' should be reserved for those database systems that are fully faithful to the relational model.
+
+* {{en}} [http://www.handels.gu.se/epc/archive/00002948/ Are SQL Server, DB2, and Oracle really relational?] - An article by Itoi Blomgren, Michiko. (2003)
+
+* {{en}} [http://www.mountainman.com.au/software/history/ A Brief History of IT Management and the RDBMS] - A brief history of modern RDBMS technology from the operational perspective of information technology management practice.
+
+[[Kategori:Sistem manajemen basis data]]
+
+[[de:RDBMS]]
+[[es:Sistema administrador de bases de datos relacionales]]
+[[hu:Relcis adatbzis-kezel]]
+[[it:RDBMS]]
+[[ja:]]
+[[lt:Reliacin duomen baz]]
+[[pl:RDBMS]]

@@ -1,0 +1,7 @@
+Templat:Kematian-stub
+{{base-stub
+|[[kematian]]
+|[[Berkas:The death.png|30px]]}}{{#if:{{{kat|}}}||<includeonly>
+[[Kategori:Rintisan bertopik kematian|{{PAGENAME}}]]</includeonly>}}<noinclude>
+[[Kategori:Templat rintisan|{{PAGENAME}}]]
+</noinclude>

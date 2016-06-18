@@ -1,0 +1,47 @@
+Hipotesis Nemesis
+[[Berkas:Nemesis.png|thumb|300px|Penggambaran Nemesis sebagai bintang katai merah dan Matahari di tengah.]]
+
+'''Nemesis''' adalah bintang [[katai merah]]<ref name=Leader>Leader-Post, [http://news.google.com/newspapers?id=yL9VAAAAIBAJ&sjid=SUANAAAAIBAJ&pg=3691,1342332&dq=nemesis+red+dwarf&hl=en "Scientists claim killer star exists"], 22 Feb 1984, Page B6, Associated Press</ref> atau [[katai coklat]]<ref name="mullen2010">{{cite web
+  |date=03/11/10
+  |title=Getting WISE About Nemesis
+  |publisher=Astrobiology Magazine (Cosmic Evolution)
+  |author=Leslie Mullen
+  |url=http://www.astrobio.net/exclusive/3427/getting-wise-about-nemesis
+  |accessdate=2010-05-15}}</ref> yang diusulkan keberadaannya pada tahun 1984. Bintang ini diusulkan mengelilingi [[Matahari]] pada jarak 95.000 [[Satuan Astronomi]] (1,5 tahun cahaya)<ref name="mullen2010"/> di luar [[awan Oort]] sebagai penyebab siklus kepunahan massal setiap 26 juta tahun sekali.<ref name=Raup1984>{{cite journal
+ |author = Raup, D.M.
+ |coauthors = Sepkoski, J.J.
+ |date = 1 February 1984
+ |title = Periodicity of Extinctions in the Geologic Past
+ |journal = Proceedings of the National Academy of Sciences
+ |volume = 81 |issue = 3 |pages = 801805
+ |doi = 10.1073/pnas.81.3.801
+ |url = http://www.pnas.org/cgi/reprint/81/3/801.pdf
+ |accessdate = 30 April 2007
+ |pmid = 6583680
+ |pmc = 344925
+ |bibcode = 1984PNAS...81..801R }}</ref><ref name="mullen2010"/> Sejauh ini, lebih dari 1300 katai coklat telah ditemukan dan tidak ada satupun yang berada di dalam [[Tata Surya]].<ref name="DwarfArchives"> {{cite web
+  |title=DwarfArchives.org: Photometry, spectroscopy, and astrometry of M, L, and T dwarfs
+  |publisher=caltech.edu
+  |author=Chris Gelino, [[J. Davy Kirkpatrick|Davy Kirkpatrick]], Adam Burgasser
+  |url=http://spider.ipac.caltech.edu/staff/davy/ARCHIVE/index.shtml
+  |accessdate=2011-10-23}} (M=536, L=602, T=207)</ref>
+
+== Catatan kaki ==
+{{reflist}}
+
+== Pranala luar ==
+* [http://www.astrobio.net/exclusive/3427/getting-wise-about-nemesis "Astrobiology Magazine", "Cosmic Evolution" Section, "Getting WISE about Nemesis"] 03/11/10, Author: Leslie Mullen, Article about Nemesis and Tyche theory, and how the WISE Sky Survey Mission may prove or disprove the theories.
+* Robert Roy Britt, ''[http://web.archive.org/web/20010502150135/http://www.space.com/scienceastronomy/solarsystem/nemesis_010320-1.html Nemesis: Does the Sun Have a 'Companion'?]'', Space.com, 3 April 2001.
+* R. Foot, Z. K. Silagadze, ''[http://uk.arxiv.org/abs/astro-ph/0104251 Do mirror planets exist in our solar system?]'' Acta Physica Polononica '''B32''' (2001) pp.&nbsp;22712278.
+* Richard A. Muller, ''[http://muller.lbl.gov/papers/Lunar_impacts_Nemesis.pdf Measurement of the lunar impact record for the past 3.5 billion years, and implications for the Nemesis theory]'', Geological Society of America Special Paper 356, pp 659665 (2002).I
+* Richard A. Muller, [http://muller.lbl.gov/pages/lbl-nem.htm Nemesis] ''(Weidenfeld and Nicholson, 1988, OP)''
+* Richard A. Muller, lecture where he describes [http://www.youtube.com/watch?v=ERy-MTfgulc Nemesis Theory]
+* Z.K. Silagadze, ''[http://uk.arxiv.org/abs/hep-ph/0002255 TeV scale gravity, mirror universe, and ... dinosaurs]'', [http://th-www.if.uj.edu.pl/acta/ Acta Physica Polonica] '''B32''' (2001) 99-128. ''(Provides a very entertaining and readable review of the Nemesis extinction hypothesis, including dozens of references to scientific articles on the topic.)''
+* SpaceDaily. [http://www.spacedaily.com/reports/Evidence_Mounts_For_Companion_Star_To_Our_Sun.html Evidence Mounts For Companion Star To Our Sun]. Apr 25, 2006
+* Lynn Yarris. "Does a Companion Star to the Sun Cause Earth's Periodic Mass Extinctions?" Science Beat. Spring 1987
+* [http://www.mpg.de/4372308/nemsis_myth?filter_order=L Nemesis is a myth] (Max Planck August 1, 2011)
+
+{{astronomi-stub}}
+[[Kategori:Bintang hipotetis]]
+[[Kategori:Hipotesis]]
+[[Kategori:Tata Surya]]

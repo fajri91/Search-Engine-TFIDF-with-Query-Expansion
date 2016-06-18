@@ -1,0 +1,79 @@
+Karachi
+{{Infobox settlement
+<!--| official_name           =  If different from name -->
+| name                    = Karachi, Sindh
+| native_name             = <span style="line-height:1.6">{{Nastaliq| &nbsp;&lrm;/&nbsp; }}</span>
+| native_name_lang        = sd<!-- ISO 639-2 code e.g. "fr" for French. If more than one, use {{lang}} instead -->
+|nickname=Gerbang Pakistan, Kota Seribu Cahaya, Mini Pakistan
+|settlement_type=[[Kota Metropolitan]]
+|image_skyline=Karachi Montage 02.PNG
+|image_size=
+|image_caption=Counterclockwise from top:
+[[:File:Karachi sky line.jpg|Karachi Skyline]], [[:File:Tomb Jinnah.jpg|M.A. Jinnah Tomb]], [[:File:Karachi - Pakistan-market.jpg|Karachi Sunday Textile Market]], [[:File:KPT HQ.jpg|KPT headquarters]], [[:File:Hyderabad High Court Sindh.jpg|Pengadilan Tinggi Sindh]], [[:File:Kemari Boat Basin @ Karachi.jpg|Kemari Boat Basin]] dan [[:File:Nagan Ch Karachi.jpg|Nagan Interchange]]
+|image_seal=Logo of Karachi Metropolitan Corporation.png
+|image_map=
+|mapsize=
+|map_caption=Lokasi Karachi di Sindh dan Pakistan.
+|pushpin_map=Sindh
+|pushpin_mapsize=
+|subdivision_type=Negara
+|subdivision_name=[[Pakistan]]
+|subdivision_type1=[[Pembagian administratif di Pakistan|Provinsi]]
+|subdivision_name1=[[Sindh]]
+|seat_type=Dewan Kota
+|seat=Kompleks Kota, [[Gulshan|Gulshan-e-Iqbal]]
+|parts_type=Distrik
+|parts_style=coll
+|parts=5
+|p1=[[Karachi Timur]]
+|p2=[[Karachi Barat]]
+|p3=[[Karachi Selatan]]
+|p4=[[Karachi Pusat]]
+|p5=[[Malir]]
+|government_footnotes=<ref name="govt">{{cite web|url=http://221.132.118.186/cdgk/Home/Government/tabid/99/Default.aspx|title=Government|publisher=City District Government of Karachi|accessdate=2010-08-22}}</ref>
+|government_type=Kota metropolitan
+|leader_title=Walikota
+|leader_name= Muhammad Hussain Syed<ref>{{cite web|url=http://kmc.gov.pk.sv2.premiumwebserver.com/Contents.aspx?id=21|title=Administrator Office|publisher=Karachi Metropolitan Corporation|accessdate=2012-02-28}}</ref>
+|leader_title1=Komisioner
+|leader_name1= Matanat Ali Khan<ref>{{cite web|url=http://kmc.gov.pk.sv2.premiumwebserver.com/Contents.aspx?id=54|title=Administrator Office|publisher=Karachi Metropolitan Corporation|accessdate=2012-02-28}}</ref>
+|established_title=Korporasi metropolitan
+|established_date=2011
+|latd=24|latm=51|lats=36|latNS=N
+|longd=67|longm=0|longs=36|longEW=E
+|coordinates_display=inline,title
+|area_magnitude=1 E+6
+|area_footnotes=<ref name=geography>{{cite web|url=http://221.132.118.186/cdgk/Home/AboutKarachi/GeographyDemography/tabid/270/Default.aspx|title=Geography & Demography|publisher=City District Government of Karachi|accessdate=2010-08-22}}</ref>
+|area_total_km2=3527
+|elevation_footnotes=
+|elevation_m=8
+|population_as_of=2013
+|population_note=
+|population_note=
+|population_total=23,500,000 (termasuk area metropolitan)<ref>{{cite web|url=http://www.newgeography.com/content/002940-pakistan-where-population-bomb-exploding |title=PAKISTAN: WHERE THE POPULATION BOMB IS EXPLODING |date=07/02/2012|accessdate=15-December2012}}</ref><br>13,000,000 (kota)<ref>{{cite web|url=http://www.geohive.com/earth/cy_notagg.aspx |title=Largest cities (without surrounding urban areas) |publisher=GeoHive |date= |accessdate=2013-04-21}}</ref>
+|population_density_km2= auto
+|population_demonym=[[Karachiite]]
+|national_languages=[[bahasa Urdu|Urdu]]{{Smallsup|2}}[[bahasa Pashto|Pashto]]{{Smallsup|2}}[[bahasa Persia|Persia]]{{Smallsup|2}}[[bahasa Inggris|Inggris]]{{Smallsup|2}}
+|timezone=[[Waktu Standar Pakistan|PST]]
+|utc_offset=+05:00
+|timezone_DST=
+|utc_offset_DST=
+|area_code=+9221-XXXX XXXX
+|area_code_type=Kode telepon
+|postal_code=74XXX  75XXX
+|postal_code_type=Kode pos
+|website=[http://www.karachicity.gov.pk KarachiCity.gov.pk]
+}}
+'''Karachi''' ({{lang-sd|''''''}}, {{lang-ur|{{Nastaliq|''''''}}}}, {{transl|ur|'''Kar'''}}, {{IPA-hns|krti|pron|Karachi_pronunciation.ogg}}) adalah kota terbesar di [[Pakistan]] dan juga ibu kota Provinsi [[Sindh]]. Karachi ialah ''hub'' finansial dan komersial Pakistan, Kota ini terletak di [[Laut Arabia]] utara-barat [[Sungai Indus]]. Dengan populasi sekitar 14 juta, Karachi merupakan salah satu kota terpadat di dunia. Karachi adalah kota [[pelabuhan]]. [[Walikota Karachi|Walikotanya]] saat ini dijabat oleh [[Syed Mustafa Kamal]].
+
+== Referensi ==
+{{Reflist}}
+
+== Pranala luar ==
+* [http://www.karachicity.gov.pk/ Situs pemerintah Karachi]
+
+{{Wilayah Metropolitan di Asia}}
+
+[[Kategori:Kota di Pakistan]]
+
+
+{{negara-geo-stub|Pakistan}}

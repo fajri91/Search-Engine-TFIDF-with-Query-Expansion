@@ -1,0 +1,21 @@
+Templat:The Italian Job
+{{Navbox
+|name       = The Italian Job
+|titlestyle = 
+|title      = ''[[The Italian Job]]''
+|listclass = hlist
+|state = {{{state|autocollapse}}}
+|bodystyle  = 
+|group1 = Film
+|list1  =
+* ''[[The Italian Job]]'' (1969)
+* ''[[The Italian Job (film 2003)|The Italian Job]]'' (2003)
+* ''[[Players (film)|Players]]
+|group2 = Permainan video
+|list2  =
+* ''[[The Italian Job (permainan video 2001)|The Italian Job]]'' (2001)
+* ''[[The Italian Job (permainan video 2003)|The Italian Job]]'' (2003)
+|group3 = Karakter
+|list3  =
+* [[Charlie Croker]]
+}}

@@ -1,0 +1,36 @@
+Turbomeca Arrius
+[[File:Turbomeca Arrius 1B.jpg|thumb|250px]]
+'''Turbomeca Arrius''' adalah salah satu dari keluarga mesin turboshaft untuk digunakan helikopter, pertama kali diproduksi pada tahun 1981. Pada 2012, sekitar 2.700 unit telah terjual. Daya berkisar antara 357 kW (479 shp) dan 530 kW (716 shp) untuk versi yang berbeda. 
+
+Sesuai tradisi Turbomeca, Arrius dinamai puncak Pyrenean (pic d'Arrius), yang terletak di lembah Ossau dekat Pau.
+
+Maximum power output: 520 shp (388 kW). Type: Twin-spool free-turbine turboshaft
+
+==Aplikasi==
+===Turboshafts===
+* [[Agusta A109|Agusta A109 Power]] (2 x Arrius 2K1/2K2)
+* [[Bell 505 Jet Ranger X]] (1 x Arrius 2R)
+* [[Eurocopter AS355|Eurocopter AS355 N Ecureuil 2]] (2 x Arrius 1A)
+* [[Eurocopter AS355|Eurocopter AS355 NP Ecureuil 2]] (2 x Arrius 1A1)
+* [[Eurocopter Fennec|Eurocopter AS555 Fennec]] (2 x Arrius 1M)
+* [[Eurocopter EC 135|Eurocopter EC135 T1]] (2 x Arrius 2B1/2B1A)
+* [[Eurocopter EC 135|Eurocopter EC135 T2]] (2 x Arrius 2B2)
+* [[Eurocopter EC 635|Eurocopter EC635 T1]] (2 x Arrius 2B1/2B1A)
+* [[Eurocopter EC 635|Eurocopter EC635 T2]] (2 x Arrius  2B2)
+* [[Eurocopter EC120 Colibri|Eurocopter EC120B Colibri]] (1 x Arrius 2F)
+* [[Kamov Ka-226]]T (2 x Arrius 2G1)
+* [[Mil Mi-34|Mil Mi-34S2]] (1 x Arrius 2F)
+
+===Gas generator===
+* [[SNCASO Farfadet]]<ref>Flight 1953</ref>
+
+== Referensi ==
+{{Reflist}}
+{{refbegin}}
+* {{cite journal |last= |first= |authorlink= |coauthors= |date=24 April 1953  |title= Aircraft Intelligence|journal= [[Flight International|Flight]]|volume=LXIII |issue=2309 |pages=p.513 |id= |url= http://www.flightglobal.com/pdfarchive/view/1953/1953%20-%200157.html |accessdate= |quote= }} 
+{{refend}}
+{{Commons category}}
+* [http://www.turbomeca.com/english/our-products/helicopter-engines/arrius-44/ Turbomeca website - Arrius]
+
+[[Kategori:Mesin pesawat turboshaft]]
+[[Kategori:Mesin pesawat terbang Turbomeca]]

@@ -1,0 +1,29 @@
+Kondrit karbon
+[[Berkas:Allende meteorite.jpg|thumb|right|200px|Kondrit karbon.]]
+
+'''Kondrit karbon''' atau '''kondrit C''' adalah kelas [[meteorit]] [[kondrit]] yang meliputi paling tidak 8 kelompok dan banyak meteorit yang belum dikelompokan. Kondrit karbon juga meliputi meteorit yang paling primitif. Proporsi karbon C di antara meteorit jatuh rendah, yaitu 4,6%.<ref>{{cite journal |last1=Bischoff |first1=A. |last2=Geiger |first2=T. |title=Meteorites for the Sahara: Find locations, shock classification, degree of weathering and pairing |journal=Meteoritics |issn=0026-1114 |volume=30 |issue=1 |pages=113122 |year=1995 |bibcode=1995Metic..30..113B}}</ref>
+
+Beberapa kondrit karbon yang terkenal adalah: [[meteorit Allende|Allende]], [[meteorit Murchison|Murchison]], [[Orgueil (meteorit)|Orgueil]], [[meteorit Ivuna|Ivuna]], [[meteorit Murray|Murray]], [[Tagish Lake (meteorit)|Tagish Lake]], dan [[meteorit Sutter's Mill|Sutter's Mill]].
+
+== Komposisi dan klasifikasi ==
+* Kelompok CI
+* Kelompok CV
+* Kelompok CM
+* Kelompok CR
+* Kelompok CH
+* Kelompok CB
+* Kelompok CK
+* Kelompok CO
+* C belum dikelompokan
+
+== Referensi ==
+{{Reflist}}
+*[http://www.daviddarling.info/encyclopedia/C/carbchon.html Carbonaceous chondrites at The Encyclopedia of Astrobiology, Astronomy, and Spaceflight]
+*{{cite book|title= Origins of earth and life|last=Gilmour|first=I.|authorlink=|coauthors=Wright, I.; Wright, J.|year=1997|publisher=The Open University|location=Bletchley|isbn=0-7492-8182-0|page=|pages=|url= }}
+
+== Pranala luar ==
+{{commons category|Carbonaceous chondrites}}
+*[http://www.meteorites.com.au/collection/CREchondrites.html Carbonaceous Chondrite Images] from Meteorites Australia - Meteorites.com.au
+
+{{kimia-stub}}
+[[Kategori:Meteorit]]

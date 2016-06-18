@@ -1,0 +1,50 @@
+Gerarda
+{{italic title}}
+{{Taxobox | name = ''Gerarda prevostiana'' 
+| status = LC
+| status_system = iucn3.1
+| regnum = [[Animal]]ia
+| phylum = [[Chordata]]
+| subphylum = [[Vertebrata]]
+| classis = [[Reptilia]]
+| ordo = [[Squamata]]
+| subordo = [[Serpentes]]
+| familia = [[Homalopsidae]]
+| genus = '''''Gerarda'''''
+| genus_authority = [[John Edward Gray|Gray]], 1849
+| binomial = ''Gerarda prevostiana''
+| binomial_authority = ([[Joseph Fortun Thodore Eydoux|Eydoux]] & [[Paul Gervais|Gervais]], 1822)<ref>[[Joseph Fortun Thodore Eydoux|Eydoux F]], [[Paul Gervais|Gervais P]]. 1822. "''Voyage de la Favourite. Reptiles'' ". ''Mag. Zool. Gurin, Paris'' '''111''': 1-10. (''Coluber prevostianus'', new species, p. 5).</ref>
+| synonyms = *''Coluber prevostianus'' <br>{{small|Eydoux & Gervais, 1822}}
+*''Gerarda bicolor'' {{small|[[John Edward Gray|Gray]], 1849}}
+*''Campylodon prevostianum'' <br>{{small| [[Andr Marie Constant Dumril|A.M.C. Dumril]] & [[Gabriel Bibron|Bibron]], 1854}}
+*''Heleophis flavescens'' <br>{{small|[[Fritz Mller (doctor)|F. Mller]], 1884}}
+*''Gerardia'' [sic] ''prevostiana'' <br>{{small| [[George Albert Boulenger|Boulenger]], 1890}}<ref>[[George Albert Boulenger|Boulenger GA]]. 1896. ''Catalogue of the Snakes in the British Museum (Natural History). Volume III., Containing the Colubrid (Opisthoglyph and Proteroglyph) ...'' London: Trustees of the British Museum (Natural History). (Taylor and Francis, printers). xiv + 727 pp. + Plates I-XXV. (Genus ''Gerardia'' [sic], p. 20; species ''G. prevostiana'', pp. 20-21).</ref>
+*''Gerarda prevostiana'' <br>{{small| [[Ulrich Manthey|Manthey]] & [[Wolfgang Grossmann|Grossmann]], 1997}}<ref>"''Gerarda prevostiana'' ". The Reptile Database.</ref>
+}}
+'''''Gerarda''''' adalah genus ular air suku [[Homalopsidae]] yang terdiri dari 1 spesies yakni '''''G. prevostiana'''''. Ular ini tersebar di [[Asia Selatan]] dan [[Asia Tenggara|tenggara]].
+
+==Deskripsi==
+Panjang tubuhnya 41 cm. Sisik frontal kecil, lebih kecil dari pariental. Sisik loreal lebih kecil dari sisik nasal. Sisik preokular dan postokular berturut-turut 1 dan 2. Sisik temporal 2. Sisik labial 8, empat diantaranya berada di dekat mata, sedangkan 4 sisik lainnya berhubungan dengan anterior dan ukurannya lebih besar dari sisik posterior. Sisik punggung (dorsal) 17 baris, ventral 146158, sisik subklaudal 3134.<ref name="Blgr1890"/> Punggung berwarna kelabu kecokelatandan perut berwarna pucat.<ref name="Blgr1890">Boulenger GA. 1890. ''The Fauna of British India, Including Ceylon and Burma. Reptilia and Batrachia.'' London: Secretary of State for India in Council. (Taylor & Francis, printers). xviii + 541 pp. (''Gerardia'' [sic] ''prevostiana'', p. 379).</ref>
+
+==Agihan==
+[[India]] bagian timur, [[Myanmar]], [[Thailand]], [[Kamboja]], [[Malaysia]], [[Singapura]],[[Indonesia]] ([[Kalimantan]]), dan [[Filipina]].
+
+==Referensi==
+{{reflist}}
+
+==Bacaan lanjut==
+*[[:fr:Indraneil Das|Das I]]. 2002. ''A Photographic Guide to the Snakes and Other Reptiles of India''. Sanibel Island, Florida: Ralph Curtis Books. 144 pp. ISBN 0-88359-056-5. (''Gerardia'' [sic] ''prevostiana'', p. 35).
+
+*[[John Edward Gray|Gray JE]]. 1849. ''Catalogue of the Specimens of Snakes in the British Museum''. London: Trustees of the British Museum. (Edward Newman, printer). xv + 125 pp. (''Gerarda'', new genus, p.77).
+
+*[[Malcolm Arthur Smith|Smith MA]]. 1943. ''The Fauna of British India, Ceylon and Burma, Including the Whole of the Indo-Chinese Sub-region. Reptilia and Amphibia, Vol. III.Serpentes.'' London: Secretary of State for India. (Taylor and Francis, printers). xii + 583 pp. (''Gerardia'' [sic] ''prevostiana'', pp. 394-396 + Figures 125-126).
+
+*[[Frank Wall|Wall F]]. 1921. ''Ophidia Taprobanica or the Snakes of Ceylon''. Colombo, Ceylon [=Sri Lanka]]: Colombo Museum. (H.R. Cottle, Government Printer). xxii + 581 pp. (''Gerardia'' [sic] ''prevostiana'', pp. 262-265, Figure 53).
+
+==Sumber lain==
+* [http://reptile-database.reptarium.cz/species?genus=Gerarda&species=prevostiana ''Gerarda prevostiana'' @ The Reptile Database]
+
+[[Kategori:Homalopsidae]]
+[[Kategori:Ular Indonesia]]
+[[Kategori:Reptil India]]
+[[Kategori:Reptil Asia]]

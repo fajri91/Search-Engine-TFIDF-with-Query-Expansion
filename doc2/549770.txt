@@ -1,0 +1,47 @@
+Penggunting-laut cory
+{{Taxobox
+| name = Penggunting-laut cory
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=106003926 |title=''Calonectris diomedea'' |assessors=[[BirdLife International]] |version=2012.1 |year=2012 |accessdate=16 July 2012}}</ref>
+| image =CorysShearwaterBottom.jpg 
+| image_caption = Penggunting-laut cory dari bawah
+| regnum = [[Animalia]]
+| phylum = [[Chordata]]
+| classis = [[burung|Aves]]
+| ordo = [[Procellariiformes]]
+| familia = [[Procellariidae]]
+| genus = ''[[Calonectris]]''
+| species = '''''C. diomedea'''''
+| binomial = ''Calonectris diomedea''
+| binomial_authority = ([[Giovanni Antonio Scopoli|Scopoli]], 1769)
+}}
+'''Penggunting-laut cory''' (''Calonectris diomedea'') adalah [[burung laut]] berukuran besar dalam [[familia|keluarga]] [[Procellariidae]].
+
+Spesies ini berbiak di pulau-pulau dan tebing di [[Laut Tengah|daerah mediterania]]. Sarangnya berupa tanah terbuka atau di antara karang atau kadang-kadang di dalam liang, dimana mereka meletakkan satu butir telur berwarna putih, dan akan dijaga saat malam hari untuk menjaga dari predator.
+
+== Galeri ==
+<gallery>
+Image:CorysShearwaterTop.jpg|Tampak atas
+Image:CorysShearwaterGroup.jpg|Sekelompok burung Penggunting-laut cory
+Image:Cagarra Selvagem Pequena.jpg|Sarang
+</gallery>
+
+== Referensi ==
+{{Reflist}}
+
+* Bull, John L.; Farrand, John Jr.; Rayfield, Susan & [[National Audubon Society]] (1977): ''The Audubon Society field guide to North American birds, Eastern Region''. Alfred A. Knopf, New York. <small>ISBN 0-394-41405-5</small><!-- 1984 is reprint -->
+
+* Harrison, Peter (1983): ''Seabirds: An Identification Guide''. Croom Helm, Beckenham. <small>ISBN 0-7099-1207-2</small><!-- 1991 is reprint or new edition -->
+
+* Heidrich, Petra; Amengual, Jos F. & Wink, Michael (1998): Phylogenetic relationships in Mediterranean and North Atlantic shearwaters (Aves: Procellariidae) based on nucleotide sequences of mtDNA. ''Biochemical Systematics and Ecology'' '''26'''(2): 145170. <small>{{DOI|10.1016/S0305-1978(97)00085-9}}</small> [http://www.uni-heidelberg.de/institute/fak14/ipmb/phazb/pubwink/1998/8.%201998.pdf PDF fulltext]
+
+* Snow, David W.; Perrins, Christopher M. & Gillmor, Robert (1998): ''The Birds of the Western Palearctic''. Oxford University Press. <small>ISBN 0-19-850187-0</small><!-- may be Vol.1 only -->
+
+== Pranala luar ==
+* [http://blx1.bto.org/birdfacts/results/bob360.htm BTO BirdFacts  Cory's Shearwater]
+
+{{burung-stub}}
+
+[[Kategori:Burung]]
+[[Kategori:Burung Turki]]

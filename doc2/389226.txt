@@ -1,0 +1,21 @@
+Templat:Kasiman, Bojonegoro
+{{Navigasi ID Desa
+|provinsi=Jawa Timur
+|dati2=Kabupaten
+|nama dati2=Bojonegoro
+|nama kecamatan=Kasiman
+|d1=Batokan
+|d2=Besah
+|d3=Betet
+|d4=Kasiman
+|d5=Ngaglik
+|d6=Sambeng
+|d7=Sekaran
+|d8=Sidomukti
+|d9=Tambakmerak
+|d10=Tembeling
+}}
+<noinclude>
+[[Kategori:Templat desa/kelurahan di Jawa Timur|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Bojonegoro|{{PAGENAME}}]]
+</noinclude>

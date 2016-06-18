@@ -1,0 +1,53 @@
+Sad Pastorale
+{{Infobox film
+|name           = Sad Pastorale
+|image          = 
+|image_size     = 
+|caption        = 
+|director       = [[Kim Ki-young]]<ref>Infobox data from {{cite web |url=http://www.kmdb.or.kr/eng/md_basic.asp?nation=K&p_dataid=00540|title=A Sad Pastorale (Seulpeun mogga) (1960)|accessdate=2008-05-01|publisher=[[Korean Movie Database]] (KMDb) |language=English}} ''and'' {{imdb title|0314644|Seulpeun mokga (1960)}}</ref>
+|producer       = Park Un-sam
+|writer         = Jeong Bi-seok<br>Lim Hee-Jae
+|narrator       = 
+|starring       = 
+|music          = Han Sang-ki
+|cinematography = Choe Gyeong-ok
+|editing        = Kim Ki-young
+|distributor    = Korean Distributor's Association
+|released       = {{Start date|1960|03|24|}}
+|runtime        = 
+|country        = [[Korea Selatan]]
+|language       = [[Bahasa Korea]]
+|budget         = 
+|gross          = 
+|admissions     = 
+|preceded_by    = 
+|followed_by    = 
+|hangul         =  
+|hanja          =  {{linktext|||}}
+|rr             = Seulpeun mokga
+|mr             = Slpn mokka
+|context        = 
+}}
+
+'''''Sad Pastorale''''' ([[hangul| ]] - ''Seulpeun mokka'') adalah [[film]] [[Korea Selatan]] tahun [[1960]] yang disutradarai oleh [[Kim Ki-young]].
+
+== Sinopsis ==
+Film ini adalah film melodrama tentang seorang pria yang mengundurkan diri sebagai tentara untuk menjadi petani.<ref>Sinopsis dari {{cite web |url=http://www.kmdb.or.kr/eng/md_basic.asp?nation=K&p_dataid=00540|title=A Sad Pastorale (Seulpeun mogga) (1960)|accessdate=2008-05-01|publisher=[[Korean Movie Database]] (KMDb) |language=English}}</ref>
+
+== Pemeran ==
+* Kim Seok-hun... Kang Byeong-cheol<ref>Daftar pemeran berdasarkan {{imdb title|0314644|Seulpeun mokga (1960)}} ''and'' {{cite web |url=http://www.kmdb.or.kr/eng/md_basic.asp?nation=K&p_dataid=00540|title=A Sad Pastorale (Seulpeun mogga) (1960)|accessdate=2008-05-01|publisher=[[Korean Movie Database]] (KMDb) |language=English}}</ref>
+* Kim Ui-hyang... Lee Shin-ok
+* Choi Eun-hee... Han Do-suk
+
+== Catatan ==
+{{reflist}}
+
+== Bibliografi ==
+* {{cite web |url=http://www.asianfilms.org/korea/kky/KKY/Cabinet/SadPastoral-f8.htm|title=A Sad Pastoral Song|accessdate=2008-05-01|last=Berry|first=Chris|publisher=[http://www.asianfilms.org/korea/kky/KKY/Site-Map/Site-Map.htm The House of Kim Ki-young]|language=English|archiveurl=http://web.archive.org/web/20040508142850/www.asianfilms.org/korea/kky/KKY/Cabinet/SadPastoral-f8.htm|archivedate=2004-05-08}}
+* {{cite web |url=http://www.kmdb.or.kr/eng/md_basic.asp?nation=K&p_dataid=00540|title=A Sad Pastorale (Seulpeun mogga) (1960)|accessdate=2008-05-01|publisher=[[Korean Movie Database]] (KMDb) |language=English}}
+* {{imdb title|0314644|Seulpeun mokga (1960)}}
+
+{{Kim Ki-young}}
+{{film-stub}}
+
+[[Kategori:Film Korea Selatan tahun 1960]]

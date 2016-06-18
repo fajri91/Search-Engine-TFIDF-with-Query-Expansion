@@ -1,0 +1,19 @@
+PGP
+[[Berkas: International Data Encryption Algorithm InfoBox Diagram.svg|thumb|Proses operasi dari PGP]]
+
+'''PGP''' adalah singkatan dari '''Pretty Good Privacy''', dan merupakan [[program komputer]] yang sering dipakai dalam proses [[kriptografi]] dan [[autentikasi]] pengiriman data komputer. PGP pertama diperkenalkan pada tahun 1991 oleh [[Philip Zimmermann]] untuk menyandikan data dalam pengiriman [[surat elektronik]]. Dalam proses penyandian data ini, PGP mengikuti standar RFC 4880.
+
+Dalam bidang kriptografi, selain PGP, terdapat metode penyandian [[enkripsi]] dan dekripsi yang lain seperti: [[DES]], [[AES]], [[RSA]], dan lain lainnya.
+
+== Perancangan ==
+[[Enkripsi]] PGP menggunakan kombinasi seri dari ''hash'', [[kompresi data]], [[kriptografi kunci-simetris]], dan [[kriptografi kunci-umum]]; setiap langkah menggunakan sebuah [[algoritma]]. Setiap kunci umum terikat dengan nama pengguna atau alamat [[surat elektronik]].
+
+== Lihat pula ==
+* [[FreeOTFE]]
+
+
+{{kriptografi-stub}}
+
+[[Kategori:Perangkat lunak kriptografi]]
+[[Kategori:Standar Internet]]
+[[Kategori:Standar terbuka]]

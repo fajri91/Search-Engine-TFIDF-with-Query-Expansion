@@ -1,0 +1,35 @@
+Belippo viettei
+{{Taxobox
+|name = Belippo viettei
+|status = 
+|image = 
+|image_caption = 
+|domain = 
+|regnum = [[Animalia]]
+|phylum = [[Arthropoda]]
+|classis = [[Arachnida]]
+|ordo = [[Araneae]]
+|familia = [[Salticidae]]
+|genus =Belippo
+|species = Belippo viettei
+|binomial = Belippo viettei
+|binomial_authority =Kraus, 1960
+|range_map = 
+|range_map_caption = 
+|image2 = 
+|image2_caption = 
+|synonyms = 
+}}
+'''''Belippo viettei''''' adalah spesies [[laba-laba]] yang tergolong [[familia]] [[Salticidae]]. Spesies ini juga merupakan bagian dari genus [[Belippo]] dan ordo [[Araneae]]. Nama ilmiah dari spesies ini pertama kali diterbitkan pada tahun 1960 oleh Kraus.
+
+Laba-laba ini biasanya banyak ditemui di So Tom.
+
+== Referensi ==
+
+* Platnick, Norman I. (2010): [http://research.amnh.org/entomology/spiders/catalog/Salticidae.html The world spider catalog], version 10.5. ''American Museum of Natural History''.
+
+{{DEFAULTSORT:Belippo viettei}}
+
+[[Kategori:Salticidae]]
+
+{{labalaba-stub}}

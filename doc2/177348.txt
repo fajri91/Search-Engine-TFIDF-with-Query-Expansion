@@ -1,0 +1,13 @@
+Templat:Country data Carolina Selatan
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Carolina Selatan
+| flag alias = Flag of South Carolina.svg
+| size = {{{size|}}}
+| name = {{{name|}}}
+| variant = {{{variant|}}}
+| kategori = negara bagian Amerika Serikat
+<noinclude>
+| redir1 = South Carolina
+| related1 = Carolina Utara
+</noinclude>
+}}<noinclude>[[en:Template:Country data South Carolina]]</noinclude>

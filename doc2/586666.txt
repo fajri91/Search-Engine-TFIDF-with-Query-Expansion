@@ -1,0 +1,69 @@
+2008 JW19
+{{Infobox Planet 
+|minorplanet = yes 
+|width = 25em 
+|bgcolour = 
+|apsis = 
+|name = 2008 JW19
+|symbol = 
+|image = 
+|caption = 
+|discovery = yes 
+|discovery_ref = 
+|discoverer =Spacewatch
+|discovery_site =691
+|discovered = 2008/05/08
+|designations = yes
+|mp_name = 
+|alt_names = 
+|mp_category = 
+|orbit_ref = 
+|epoch = 
+|aphelion =2.736
+|perihelion =0.623
+|semimajor =1.680
+|eccentricity =0.629
+|period = 
+|avg_speed = 
+|inclination =17.4
+|asc_node =56.6
+|mean_anomaly =147.0
+|arg_peri =289.4
+|satellites = 
+|physical_characteristics = yes 
+|dimensions = 
+|mass = 
+|density = 
+|surface_grav = 
+|escape_velocity = 
+|sidereal_day = 
+|axial_tilt = 
+|pole_ecliptic_lat = 
+|pole_ecliptic_lon = 
+|albedo = 
+|temperatures= 
+|temp_name1 = 
+|mean_temp_1 = 
+|max_temp_1 = 
+|temp_name2 = 
+|max_temp_2 = 
+|spectral_type = 
+|abs_magnitude =20.8
+}}
+'''2008 JW19''' adalah sebuah [[asteroid]]. Asteroid ini merupakan bagian dari [[asteroid Apollo]], yang terletak dekat dengan [[bumi]]. [[Eksentrisitas orbit]] asteroid ini tercatat sebesar 0.629, sementara [[magnitudo mutlak]]nya adalah 20.8.
+
+== Pembentukan ==
+
+Seperti asteroid pada umumnya, asteroid ini terbentuk dari [[nebula]] [[matahari]] primordial sebagai pecahan [[planetisimal]], sesuatu di nebula matahari muda yang tidak cukup besar untuk berubah menjadi planet.<ref>{{cite web | title=What Are Asteroids And Comets? | url=http://neo.jpl.nasa.gov/faq/#ast | work=Near Earth Object Program FAQ | publisher=[[NASA]] | accessdate=13 September 2010 | archiveurl=http://web.archive.org/web/20100909210213/http://neo.jpl.nasa.gov/faq/ | archivedate=9 September 2010 | deadurl=no}}</ref>
+
+== Referensi ==
+
+{{Reflist}}
+
+== Pranala luar ==
+
+* [http://www.minorplanetcenter.net/iau/lists/t_apollos.html Daftar asteroid Apollo] - ''The International Astronomical Union Minor Planet Center.''
+
+[[Kategori:Asteroid Apollo]]
+
+{{asteroid-stub}}

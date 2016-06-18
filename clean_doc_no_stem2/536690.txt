@@ -1,0 +1,1 @@
+templatbase 36 includeonlyinvoke baseconvert convert n1 base36 suffixsub36sub includeonlynoinclude documentation noinclude 

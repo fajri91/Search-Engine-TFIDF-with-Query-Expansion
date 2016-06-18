@@ -1,0 +1,7 @@
+Templat:Perangkat lunak akan datang
+{{ambox
+|image=[[Berkas:Current event marker.svg|50px]]
+|type=content
+|text='''Artikel atau sebagian dari artikel ini terkait dengan perangkat lunak yang akan diluncurkan.'''<br /><small>Informasi di halaman ini bisa berubah setiap saat seiring dengan semakin dekatnya peluncuran dan semakin banyaknya informasi yang tersedia mengenai perangkat lunak tersebut.</small> {{#if:{{{kat|}}}||<includeonly>[[Kategori:Perangkat lunak yang akan datang|{{PAGENAME}}]]</includeonly>}}
+}}<noinclude>
+[[Kategori:Templat info artikel|{{PAGENAME}}]]</noinclude>

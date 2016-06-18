@@ -1,0 +1,168 @@
+Watford
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name                   = Watford<!-- at least one of the first two fields must be filled in -->
+|official_name          = Borough of Watford
+|other_name             =
+|native_name            =  <!-- if different from the English name -->
+|nickname               = 
+|settlement_type        = Kota dan Borough
+|total_type             = Borough
+|motto                  = ''Audentior''<ref>{{cite book
+|author = [[Virgil]]|title = [[Aeneid]]|pages = VI, 95
+|quote = ''Tu ne cede malis, sed contra audentior ito.'' trans.: Yield thou not to adversity, but press on the more bravely.
+}}</ref>
+<!-- images and maps  ----------->
+|image_skyline          = WatfordSkyline.jpg
+|imagesize              = 
+|image_caption          = 
+|image_flag             = 
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_blank_emblem     = WatfordArms.gif
+|blank_emblem_type      = Lambang [[Watford Borough Council]]
+|blank_emblem_size      = 85px
+|image_map              = HertfordshireWatford.png
+|mapsize                = 200px
+|map_caption            = Letak Watford di [[Hertfordshire]]
+|image_map1             = 
+|mapsize1               = 
+|map_caption1           = 
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =|dot_y =
+|pushpin_map            = <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =
+|pushpin_mapsize        =
+<!-- Location ------------------>
+|coordinates_region     = GB
+|subdivision_type       = Negara
+|subdivision_name       = [[Britania Raya]]
+|subdivision_type1      = [[Negara konstituen]]
+|subdivision_name1      = [[Inggris]]
+|subdivision_type2      = [[Wilayah]]
+|subdivision_name2      = [[Inggris Timur]]
+|subdivision_type3      = [[County]]
+|subdivision_name3      = [[Hertfordshire]]
+|subdivision_type4      = [[Borough]]
+|subdivision_name4      = '''Watford'''
+<!-- Smaller parts (e.g. boroughs of a city) and seat of government -->
+|seat_type              = UK Parliament constituency
+|seat                   = [[Watford (UK Parliament constituency)|Watford]]
+|parts_type             =
+|parts_style            = <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+                               Default is list if up to 5 items, coll if more than 5-->
+|parts                  = <!-- parts text, or header for parts list -->
+|p1                     =
+|p2                     = <!-- etc. up to p50: for separate parts to be listed--> 
+<!-- Politics ----------------->
+|government_footnotes   = 
+|government_type        = Borough dengan Walikota & Kabinet
+|leader_title           = [[Walikota]]
+|leader_name            = [[Dorothy Thornhill]]
+|leader_party           = [[Demokrat Liberal]]
+|leader_title1          = [[Anggota Parlemen|MP]] <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           = [[Richard Harrington (politikus Britania)|Richard Harrington]] ([[Partai Konservatif (Britania Raya)|Konservatif]])
+|established_title      = <!-- Settled -->
+|established_date       = 
+<!-- Area    --------------------->
+|area_magnitude         = 
+|unit_pref              = <!--Enter: Imperial, to display imperial  before metric-->
+|area_footnotes         =
+|area_total_km2         = <!-- ALL fields with measurements are subject to automatic unit conversion-->
+|area_land_km2          = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+|area_water_km2         =
+|area_total_sq_mi       = 8.3
+|area_land_sq_mi        =
+|area_water_sq_mi       =
+|area_water_percent     =
+<!-- Elevation -------------------------->
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 71
+|elevation_ft           =
+|elevation_max_m        = 
+|elevation_max_ft       =
+|elevation_min_m        = 
+|elevation_min_ft       =
+<!-- Population   ----------------------->
+|population_as_of               =
+|population_footnotes           =
+|population_note                =
+|population_total               = 80000 
+|population_density_km2         = 
+|population_density_sq_mi       = auto
+|population_metro               = 
+|population_density_metro_km2   =
+|population_density_metro_sq_mi =
+|population_urban               = 121000
+|population_density_urban_km2   =
+|population_density_urban_sq_mi =
+|population_blank1_title        = Etnis<ref>[http://www.neighbourhood.statistics.gov.uk/dissemination/LeadTableView.do?a=3&b=276998&c=watford&d=13&e=13&g=456403&i=1001x1003x1004&o=254&m=0&r=1&s=1224975775258&enc=1&dsFamilyId=1809 Area: Watford (Local Authority), Resident Population Estimates by Ethnic Group, All Persons, 2006], People and Society: Population and Migration, [[Office for National Statistics]].</ref>
+|population_blank1              = 83.0% Kulit Putih<br/>9.2% Asia Selatan<br/>3.5% Hitam<br/>2.5% Campuran<br/>1.6% Tionghoa atau lainnya
+|population_density_blank1_km2  =   
+|population_density_blank1_sq_mi =
+
+<!-- General information  --------------->
+|timezone               = [[GMT]]
+|utc_offset             = 
+|timezone_DST           = [[British Summer Time|Waktu Musim Panas (Britania)]]
+|utc_offset_DST         = +1
+|coor_type              = <!-- can be used to specify what the coordinates refer to -->
+|coordinates_display    = title
+|latd=51|latm=39|lats=18|latNS=N
+|longd=0|longm=23|longs=44.5|longEW=W
+<!-- Area/postal codes & others -------->
+|postal_code_type       = Wilayah kode pos
+|postal_code            = [[Wilayah kode pos WD|WD]]
+|area_code              = 01923
+|twin1                  =
+|twin1_country          =
+|twin2                  =
+|twin2_country          =
+|twin3                  =
+|twin3_country          =
+|twin4                  =
+|twin4_country          =
+|twin5                  =
+|twin5_country          =
+|twin6                  =
+|twin6_country          =
+|twin7                  =
+|twin7_country          =
+|blank_name             = Kode ONS
+|blank_info             = 26UK
+|blank1_name            =
+|blank1_info            =
+|blank2_name            =
+|blank2_info            =
+|blank3_name            =
+|blank3_info            =
+|blank4_name            =
+|blank4_info            =
+|blank5_name            =
+|blank5_info            =
+|blank6_name            =
+|blank6_info            =
+|website                = [http://www.watford.gov.uk/ www.watford.gov.uk]
+|footnotes              = 
+}}
+'''Watford''' adalah kota yang terletak di [[Hertfordshire]], [[Inggris]]. Kota ini terletak sejauh {{convert|20|mi|km|0}} dari [[London]]. Menurut sensus tahun 2001, penduduknya berjumlah 79.726 jiwa.<ref>[http://www.hertsdirect.org/infobase/docs/pdfstore/keystatla01.pdf 2001 Census, Key Statistics for Local Authorities], Office for National Statistics, 2003.</ref>
+
+== Referensi ==
+{{reflist}}
+
+== Pranala luar ==
+*{{en}} [http://www.watford.gov.uk/ccm/portal/ Situs resmi]
+
+[[Kategori:Kota di Inggris]]
+[[Kategori:Distrik Britania Raya]]
+
+
+{{negara-geo-stub|Britania Raya}}

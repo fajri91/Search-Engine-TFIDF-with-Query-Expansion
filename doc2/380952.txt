@@ -1,0 +1,53 @@
+County Duval, Texas
+{{Infobox U.S. County|
+ county  = Duval County|
+ state = Texas |
+ seal = |
+ map = Map of Texas highlighting Duval County.svg|
+ map size = 250|
+ founded = 1858|
+ seat = [[San Diego, Texas|San Diego]] | 
+ area_total_sq_mi =1796 |
+ area_land_sq_mi =1793 |
+ area_water_sq_mi =3 |
+ area percentage = 0.17% |
+ census yr = 2000|
+ pop = 13120|
+ density_km2 =3|
+ ex image = Duval courthouse.jpg|
+ ex image size = 200|
+ ex image cap = The Duval County Courthouse in San Diego.|
+ web = |
+|}}
+'''Duval County''' adalah county yang terletak di negara bagian [[Texas]], [[Amerika Serikat]]. Jumlah penduduk pada tahun 2000 sebesar 13.120 jiwa.
+
+== Jalan utama ==
+*[[Berkas:US 59.svg|20px]] [[U.S. Highway 59 (Texas)|U.S. Highway 59]]
+*[[Berkas:Texas 16.svg|20px]] [[Texas State Highway 16|State Highway 16]]
+*[[Berkas:Texas 44.svg|20px]] [[Texas State Highway 44|State Highway 44]]
+*[[Berkas:Texas 339.svg|20px]] [[Texas State Highway 339|State Highway 339]]
+*[[Berkas:Texas 359.svg|20px]] [[Texas State Highway 359|State Highway 359]]
+
+== Pranala luar ==
+*{{Handbook of Texas|id=hcd11|name=Duval County}}
+
+{{Geographic Location
+|Centre    = Duval County, Texas
+|North     = [[McMullen County, Texas|McMullen County]]
+|Northeast = [[Live Oak County, Texas|Live Oak County]]
+|East      = [[Jim Wells County, Texas|Jim Wells County]]
+|Southeast = [[Brooks County, Texas|Brooks County]]
+|South     = 
+|Southwest = [[Jim Hogg County, Texas|Jim Hogg County]]
+|West      = [[Webb County, Texas|Webb County]]
+|Northwest = 
+}}
+
+{{ Duval County, Texas}}
+{{Negara bagian Texas}}
+
+[[Kategori:{{County AS}} di Texas]]
+[[Kategori:Duval County, Texas| ]]
+
+
+{{AS-geo-stub}}

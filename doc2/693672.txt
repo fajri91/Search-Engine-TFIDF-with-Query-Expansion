@@ -1,0 +1,16 @@
+Berkas:Yangshangkun.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+Sampul majalah Beijing Review Vol 33 No. 24 Juni 1990
+
+http://www.sinoperi.com/Files/English/1990/199024/LC0001.JPG
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Fairuse}}

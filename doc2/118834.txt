@@ -1,0 +1,14 @@
+Berkas:Philippe 4-1.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+yeyeye
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{FotoHistoris}}

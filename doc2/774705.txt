@@ -1,0 +1,43 @@
+Zafnat-Paaneah
+'''Zafnat-Paaneah''' ({{lang-en|Zaphnath-Paaneah}}; {{lang-he| }}) adalah nama yang disebutkan dalam [[Alkitab Ibrani]] ([[Perjanjian Lama]] di [[Alkitab]] [[Kristen]]) dalam [[Kitab Kejadian]] [[Kejadian 41#Ayat 45|pasal 41:45]] sebagai nama baru yang diberikan oleh [[Firaun]] [[Mesir kuno|Mesir]] kepada [[Yusuf bin Yakub|Yusuf]] ketika diangkat menjadi orang kedua di Mesir. Nama ini merupakan alih aksara dari nama dalam bahasa Mesir kuno ke dalam tulisan dan pelafalan [[bahasa Ibrani]].
+
+== Catatan Alkitab ==
+[[Kitab Kejadian]] [[Kejadian 41#Ayat 45|pasal 41:45]] mencatat:
+:''Lalu Firaun menamai Yusuf: Zafnat-Paaneah, serta memberikan Asnat, anak Potifera, imam di On, kepadanya menjadi isterinya. Demikianlah Yusuf muncul sebagai kuasa atas seluruh tanah Mesir.''<ref>{{Alkitab|Kejadian 41:45}}</ref>
+
+==Etimologi==
+[[:en:Targum Onkelos|Targum Onkelos]] memberi makna nama itu sebagai "orang yang kepadanya misteri diungkapkan"; pseudo-Jonathan, "orang yang mengungkapkan misteri"; [[Flavius Yosefus]] ("Antiquitates." ii. 6,  1), "penemu misteri-misteri." Alkitab bahasa Inggris [[Versi Raja James]] menuliskan pada marjin: "Yang dalam [[bahasa Koptik]] bermakna, 'Pengungkap rahasia-rahasia,' atau 'Orang yang kepadanya rahasia-rahasia diungkapkan', sementara [[:en:Geneva Bible|Geneva Bible]] memberikan makna 'The expounder of secrets.' ("Penelaah rahasia-rahasia")<ref>https://www.biblegateway.com/passage/?search=Genesis+41:45&version=GNV</ref> Namun, tidak ada etimologi Mesir yang mendukung dugaan-dugaan tersebut. [[Jerome]] mengklaim pendapatnya, "juruselamat dunia," berdasarkan penafsiran bahasa Mesir. Penafsiran ini juga diterima oleh [[:en:Jablonski|Jablonski]].
+
+Ahli Mesir (egyptolog) modern telah mencoba banyak etimologi untuk bagian "Zaf-nath," tetapi kebanyakan setuju "paaneah" berisi kata Mesir "p-n," yang berarti "hidup". Penjelasan [[:en:Steindorff|Steindorff]] agak berbeda,<ref>"Zeitschrift fr Aegyptische Sprache," xxvii. 42, modifying Krall's etymology in "Trans. 7th Orientalist. Congr." p.&nbsp;110</ref> yaitu dari kata Mesir "e(d)-p-nute(r)-ef-on" = "dewa berbicara, [dan] ia hidup." Ini telah menjadi populer dan secara filologi memungkinkan, tetapi tidak menggambarkan jabatan atau jasa Yusuf yang diharapkan dari penafsiran nama itu.
+
+[[Septuaginta]] memberi alihaksara "" versi Yunani sedangkan [[Hexapla]] "" yang sangat berbeda dengan bahasa Ibrani, terutama bagian pertama nama itu dan kemungkinan akibat keputusan penyalin zaman dulu yang juga tidak jelas bagaimana untuk mengalihaksarakan.
+
+=== Kenneth Kitchen ===
+Salah satu argumen yang meyakinkan diberikan oleh ahli Mesir terkemuka, Kenneth Kitchen, yang membahasnya pada tahun [[1993]].<ref name=kitchen>Kitchen, K.A. 1993. 'Genesis 12 to 50 in the Near Eastern World' dalam R.S. Hess et al. (eds): "''He Swore an Oath: Biblical Themes from Genesis 12 to 50''". Cambridge. halaman 80-84</ref> Pemecahannya adalah sebagai berikut:
+* (a) Bagian pertama "Zafenat" mengandung "metathesis" di mana huruf-huruf "t" dan "f" telah dibalik. Ini lazim terjadi (tanpa disengaja) ketika nama asing dialih aksarakan ke dalam bahasa lain. Penyalin Ibrani nampaknya menggunakan akar kata Semitik "zafan" ketika menulis "zafenat" untuk vokalisasi asing dari nama Mesir Yusuf itu. Kitchen berpendapat bahwa sesungguhnya pelafalan Mesir aslinya adalah "zatenaf" yang dalam ejaan Mesir adalah "''Djed(u)-en-ef''" yang berarti "ia yang dinamai", suatu frasa yang sangat dikenal oleh para egyptolog. Jadi dengan terjemahan itu maka ayat Alkitab itu dapat dibaca "''Firaun menamai Yusuf 'Ia yang dinamai Paaneah'.''"
+* (b) Bagian kedua nama Yusuf "Pa'aneah" lebih mudah ditafsirkan. Telah lama diketahui bahwa 'aneah' merupakan alih aksara untuk kata Mesir ''ankh'' (artinya "kehidupan") atau ''ankhu'' (artinya "hidup"). Kitchen berpendapat bahwa awalan "Pa" atau "Pi" berasal dari kata Mesir "Ipi" atau "Ipu". Jadi Yusuf itu diberi nama Mesir "Ia yang dinamai ''Ipiankh(u)''". Praktik pemberian nama Mesir untuk orang asing sangat lazim pada periode ini sebagaimana terlihat pada ''[[Papirus Brooklyn 35.1446]]'' yang memuat nama-nama budak asal Asia (termasuk budak Ibrani) yang nama-nama Mesirnya sering diawali dengan frasa "ia (laki-laki/perempuan) yang dinamai...".<ref name=kitchen/>
+Kitchen juga menekankan bahwa nama "Ipiankhu" atau varian-variannya lazim ditemukan pada zaman [[Kerajaan Pertengahan Mesir]] tetapi "tidak lagi sesudahnya", sehingga Yusuf dapat diperkirakan hidup pada zaman ini dan nama Mesirnya mengandung "Ankhu".<ref name=kitchen/>
+
+Selain itu nama "Asnat", istri Yusuf, menurut Kitchen adalah nama yang bagus dari zaman Kerajaan Pertengahan yang merupakan alih aksara dari frasa Mesir "''Ius-en-at''" artinya "ia (perempuan) adalah milikmu".<ref name=kitchen/>
+
+=== David Rohl ===
+David Rohl mendukung pendapat Kitchen dan lebih jauh lagi berpendapat bahwa Yusuf hidup pada zaman pemerintahan [[Amenemhat III]] dari [[Dinasti ke-12 Mesir]].<ref name=rohl>Rohl, David (1995). A Test of Time: The Bible - from Myth to History. London: Century. ISBN 0-7126-5913-7. Published in the US as Rohl, David (1995). Pharaohs and Kings: A Biblical Quest. New York: Crown Publishers. ISBN 0-517-70315-7.</ref> Rohl memperhatikan bahwa frasa penguasa Mesir selanjutnya "yang tidak mengenal Yusuf" dapat diartikan "tidak mengenal Yusuf, ketika ia masih hidup", bukannya tidak mengetahui reputasi Yusuf. Betapapun baiknya reputasi Yusuf, raja-raja selanjutnya itu lebih takut pada ancaman banyaknya orang Israel yang terus meningkat jumlahnya daripada jasa Yusuf pada masa silam.<ref name=rohl/> Raja-raja ini nampaknya dari [[Dinasti ke-13 Mesir]], antara lain [[Neferhotep I]] atau pendahulunya, [[Sobekhotep III]]. Di antara peninggalan dinasti ke-13 ini didapati adanya "Execration Texts" yaitu seri tulisan pemujaan pada patung tanah liat (antara lain sekarang disimpan di Berlin) yang memuat nama-nama Ibrani dalam tulisan Mesir termasuk "Yakkub" yang dapat diidentifikasi dengan "[[Yakub]]", maupun "Yusuf" yang ditulis sebagai "''Ishpi''" dan oleh para ahli dialihaksarakan menjadi "Yaseph" (Yasef/Yusuf).<ref>Dussaud R. 1927. 'Nouveaux renseignements sur la Palastine et la Syrie vers 2000 avant notre ere' dalam "Syria 8", hal. 231; Dussaud R. 1937. Review of A. Jirku - "Die aegyptischen Listen Palaestinensischer und Syrischen Ortsnamen". Leipzig. dalam "Syria 18" hal. 395.</ref> Dari sini dapat diusulkan kemungkinan bahwa "Pa'aneah" bukan dari "(I)piankhu" melainkan dari "(Ish)piankhu" yang berarti "Yusuf hidup".<ref name=rohl/>
+
+== Lihat pula ==
+* [[Yusuf bin Yakub]]
+* [[Kejadian 41]]
+
+==Pustaka==
+* Marquardt, Philologus, vii. 676;
+* Cheyne and Black, Encyc. Bibl. col. 5379 (where a disfigured Hebrew original is suspected);
+* Zeitschrift fr Aegyptische Sprache, 1883, p.&nbsp;59;
+* Proc. Soc. Bibl. Arch. xx. 208 (where the other theories have been collected).E. G.
+* Bahan sumber dari [[Jewish Encyclopedia]] ([http://www.jewishencyclopedia.com/view.jsp?artid=31&letter=Z#ixzz0Zf5CidHp])
+
+==Referensi==
+{{reflist}}
+{{Kejadian}}
+[[Kategori:Filologi]]
+[[Kategori:Etimologi]]
+[[Kategori:Keluarga Yusuf]]
+[[Kategori:Kitab Kejadian]]

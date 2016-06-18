@@ -1,0 +1,54 @@
+Sector 7 (film)
+{{Infobox film
+|name           = 7<br>Sector 7
+|image          = Sector 7 film poster.jpg
+|image size     = 200px
+|border         = 
+|alt            = 
+|caption        = 
+|director       = Kim Ji-Hun
+|producer       = 
+|writer         = 
+|screenplay     = 
+|story          = 
+|based on       = <!-- {{based on|title of the original work|writer of the original work}} -->
+|narrator       = 
+|starring       = [[Ha Ji-Won]]<br>[[Ahn Sung-Ki]]<br>[[Oh Ji-Ho]]
+|music          = 
+|cinematography = 
+|editing        = 
+|studio         = 
+|distributor    = 
+|released       = {{negara|Korea Selatan}} {{Film date|2011|8|4}} 
+|runtime        = 104 menit
+|country        = {{negara|Korea Selatan}} [[Korea Selatan]]
+|language       = [[Bahasa Korea|Korea]]
+|budget         = $10.000.000
+|gross          = 
+}}
+
+'''''Sector 7''''' ({{lang-ko|7}}) adalah sebuah [[film laga]] [[Korea Selatan]] berbentuk [[3D]] dirilis pada tahun 2011. Film yang disutradarai oleh [[Kim Ji-Hun]] ini pemainnya antara lain adalah [[Ha Ji-won]], [[Ahn Sung-ki]], dan [[Oh Ji-ho]].<ref>{{cite web |url= http://www.allcinema.net/prog/show_c.php?num_c=340723|title= (2011)|language=Jepang|accessdate= October 6, 2011|work=Allcinema.net|publisher=Stingray}}</ref><ref>{{cite web |url= http://www.kinejun.jp/cinema/id/42377 |title=|language=Jepang|accessdate= October 6, 2011|work=[[Kinema Junpo]]}}</ref>
+
+== Pemeran ==
+* [[Ha Ji-Won]] - Cha Hae-Joon
+* [[Ahn Sung-Ki]]
+* [[Oh Ji-Ho]]
+* [[Cha Ae-Ryeon]] - Ilmuwan Kim 
+* [[Lee Han-Wi]] - Medis
+* [[Park Cheol-Min]] - Awak pria 1 
+* [[Song Sae-Byeok]] - Awak pria 2 
+* [[Park Jeong-Hak]]
+
+== Referensi ==
+{{reflist}}
+
+== Pranala luar ==
+* {{ko icon}} {{Official website|http://www.2011sector7.co.kr/}}
+* {{Imdb title|1934381|Sector 7}}
+
+[[Kategori:Film Korea Selatan tahun 2011]]
+[[Kategori:Film 3D Korea Selatan]]
+[[Kategori:Film laga]]
+[[Kategori:Film berbahasa Korea]]
+
+{{film-stub}}

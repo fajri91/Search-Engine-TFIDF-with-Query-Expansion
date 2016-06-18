@@ -1,0 +1,11 @@
+Berkas:Logo Institut Teknologi Bandung.png
+=={{int:filedesc}}==
+{{Information
+| description    =[[Kategori:Logo perguruan tinggi di Indonesia]]
+| source         = http://itb.ac.id 
+| date           = 
+| location       = Bandung, Jawa Barat
+| author         = Institut Teknologi Bandung
+| permission     = {{DU-PemerintahIndonesia}}
+| other_versions = 
+}}

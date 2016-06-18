@@ -1,0 +1,69 @@
+Templat:Wikipedia IPA
+{| class="collapsible infobox" style="font-size: 95%;"
+! style="background: #ccf; text-align: center" | [[Bantuan:Pengucapan|Bantuan pengucapan dengan IPA]]&nbsp;&nbsp;
+|-
+| [[Wikipedia:IPA untuk bahasa Arab|IPA untuk bahasa Arab]]
+<!--
+|-
+| [[Wikipedia:IPA for Armenian]]
+|-
+| [[Wikipedia:IPA for Basque]]
+|-
+| [[Wikipedia:IPA for Bulgarian and Macedonian]]
+|-
+| [[Wikipedia:IPA for Catalan]]
+|-
+| [[Wikipedia:IPA for Czech and Slovak]]
+|-
+| [[Wikipedia:IPA for Danish]]
+|-
+| [[Wikipedia:IPA for Dutch and Afrikaans]]-->
+|-
+| [[Wikipedia:IPA untuk bahasa Ibrani|IPA untuk bahasa Ibrani]]
+|-
+| [[Wikipedia:IPA untuk bahasa Inggris|IPA untuk bahasa Inggris]]
+|-
+| [[Wikipedia:IPA untuk bahasa Jerman|IPA untuk bahasa Jerman]]
+|-
+| [[Wikipedia:IPA untuk bahasa Italia|IPA untuk bahasa Italia]]
+|-
+| [[Wikipedia:IPA untuk bahasa Jepang|IPA untuk bahasa Jepang]]
+|-
+| [[Wikipedia:IPA untuk bahasa Korea|IPA untuk bahasa Korea]]
+|-
+| [[Wikipedia:IPA untuk bahasa Latin|IPA untuk bahasa Latin]]
+|-
+| [[Wikipedia:IPA untuk bahasa Mandarin|IPA untuk bahasa Mandarin]]
+|-
+| [[Wikipedia:IPA untuk bahasa Perancis|IPA untuk bahasa Perancis]]
+<!--|-
+| [[Wikipedia:IPA for Nahuatl]]
+|-
+| [[Wikipedia:IPA for Persian]]
+|-
+| [[Wikipedia:IPA for Polish]]-->
+|-
+| [[Wikipedia:IPA untuk bahasa Portugis|IPA untuk bahasa Portugis]]
+|-
+<!--| [[Wikipedia:IPA for Romanian]]
+|-
+| [[Wikipedia:IPA for Russian]]
+|-
+| [[Wikipedia:IPA for Scottish Gaelic]]
+|-
+| [[Wikipedia:IPA for Serbo-Croatian]]-->
+|-
+| [[Wikipedia:IPA untuk bahasa Spanyol|IPA untuk bahasa Spanyol]]
+<!--|-
+| [[Wikipedia:IPA for Swedish and Norwegian]]
+|-
+| [[Wikipedia:IPA for Tagalog]]
+|-
+| [[Wikipedia:IPA for Turkish and Azerbaijani]]
+|-
+| [[Wikipedia:IPA for Vietnamese]]
+|-
+| [[Wikipedia:IPA for Welsh]]-->
+|-
+| [[Wikipedia:IPA untuk bahasa Yunani|IPA untuk bahasa Yunani]]
+|}

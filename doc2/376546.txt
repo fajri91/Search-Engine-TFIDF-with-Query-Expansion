@@ -1,0 +1,7 @@
+Templat:S-line/SMRT left/Timur Barat
+{{#switch:{{{branch}}}
+ | Changi=Tanah Merah
+ | #default=Pasir Ris
+}}<noinclude>
+[[Kategori:Templat transportasi rel di Singapura]]
+</noinclude>

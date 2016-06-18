@@ -1,0 +1,27 @@
+Templat:Alasa, Nias Utara
+{{Navigasi ID Desa
+|provinsi=Sumatera Utara
+|dati2=Kabupaten
+|nama dati2=Nias Utara
+|nama kecamatan=Alasa
+|d1=Anaoma
+|d2=Banua Sibohou I
+|d3=Banua Sibohou II
+|d4=Bitaya
+|d5=Dahana Alasa
+|d6=Dahana Tugalaoyo
+|d7=Fulolo
+|d8=Gunung Tua
+|d9=Harefa
+|d10=Hiligawoni
+|d11=Hilisebua Siwalubanua
+|d12=Lahemboho
+|d13=Loloana A
+|d14=Ombolata
+|d15=Ononamolo Alasa
+|d16=Ononamolo Tumula
+|d17=Siwawo
+}}<noinclude>
+[[Kategori:Templat desa/kelurahan di Sumatera Utara|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Nias Utara|{{PAGENAME}}]]
+</noinclude>

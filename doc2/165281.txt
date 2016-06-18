@@ -1,0 +1,115 @@
+Call center
+{{wikify}}{{judul asing}}{{italic title}}
+
+'''''Call centre''''' atau '''''call center''''' (dalam ejaan yang lain) merupakan suatu kantor informasi yang terpusat yang digunakan untuk tujuan menerima dan mengirimkan sejumlah besar permintaan melalui telepon. Call center dioperasikan oleh sebuah perusahaan sebagai pengadministrasi layanan yang mendukung produk incoming dan menyelidiki informasi tentang konsumen. Panggilan keluar call center digunakan untuk telemarketing, clientele, dan debt collection pun dapat dilakukan. Sebagai tambahan untuk call center, bahwa penanganan secara kolektif untuk surat, fax, dan email dalam sebuah lokasi lebih sering disebut dengan contact center.
+
+Call center dioperasikan sebagai sebuah ruang lingkup kerja yang terbuka secara luas yang dikerjakan oleh sejumlah agen call center, dilengkapi dengan sebuah work station berupa computer bagi setiap agen, sebuah telepon set/headset yang terhubungan ke jaringan telekomunikasi, dan sebuah atau lebih stasiun pengawas. Call center juga dapat secara bebas dioperasikan atau dihubungkan dengan center tambahan, sering dihubungkan dengan jaringan komputer korporat, termasuk mainframe-nya, microcomputer, dan LAN. Ditambah lagi, jaringan data dan voice yang kemudian dipusatkan melalui sebuah link dengan teknologi baru yang disebut Computer Telephony Integration (CTI).
+
+Banyak komponen bisnis yang menggunakan jasa call center untuk berinteraksi dengan pelanggan mereka. Contohnya termasuk untuk kebutuhan perusahaan, perusahaan katalog pesanan surat, dan layanan pendukung pelanggan untuk berbagai perangkat keras dan lunak komputer. Ada juga beberapa bisnis untuk fungsi layanan internal yang menggunakan call center, seperti layanan help desk dan sales support.
+
+== Teori matematik ==
+
+Call center dapat dilihat dari titik operasionalnya yang dipandang sebagai jaringan antrian. Call center yang sederhana, terdiri dari satu tipe pelanggan dan server statistic yang serupa, digunakan untuk memantau antrian tunggal. Teori antrian merupakan salah satu cabang matematika yang memodelkan sistem antrian untuk berbagai pengembangan. Model antrian ini sangat penting untuk membantu usaha perencanaan dan manajemen. Sebagai contoh, untuk membantu menjawab pertanyaan direksi perusahaan, memberikan level layanan (ditentukan oleh manajemen), dan untuk menentukan jumlah agen yang diperlukan untuk mencapai layanan yang diharapkan.
+
+Model antrian juga menyediakan wawasan yang kualitatif, sebagai contoh untuk mengidentifikasi keadaan yang tidak diinginkan pada skala ekonomi yang berlaku, yakni bahwa sebuah call center yang besar adalah lebih efektif untuk menjawab panggilan yang sama daripada harus didistribusi ke pengguna-pengguna yang kecil. Atau bisa juga terjadi untuk cross-selling yang lebih bermanfaat, atau call center yang sebaiknya menjadi pengedali kualitas atau pengendali efesiensi, atau lebih umum untuk keduanya disebut dengan Quality and Efficiency Driven (QED). Baru-baru ini, model antrian juga digunakan untuk perencanaan dan operasi skill-based-routing atas panggilan pada call center yang memerlukan analisis sistem untuk tipe pelanggan yang beragam dan kemampuan agen yang bervariasi.
+
+Operasi call center didukung juga oleh model matematika di luar antrian, dengan operasi penelitian, yang mempertimbangkan batasan ruang lingkup yang dikelola. Sebagai contoh, untuk meramalkan panggilan, untuk menjelaskan struktur pembagian panggilan, dan analisis kejadian atas ketidaksabaran pelanggan menunggu layanan dari agen.
+
+== Administrasi ==
+
+Pemusatan manajemen panggilan bertujuan untuk mengembangkan kinerja perusahaan dan mereduksi biaya, dengan menyediakan standarisasi, kelancaran, dan menyeragamkan layanan bagi pelanggan. Untuk mengakomodasi jumlah pelanggan yang besar, warehouse yang besar dapat dikonversi menjadi sebuah ruang kantor sebagai host call center yang beroperasi di salah satu lantai saja.
+
+Pegawai call center dapat memonitor kontrol kualitas, level kemampuan, dan layanan pelanggan dengan tekonologi komputer yang me-manage, mengukur, dan memonitor performansi dan aktivitas pekerja. Tipical operasi contact center memfokuskan pada area disiplin manajemen workforce,  anajemen antrian, pemantauan kualitas, dan pelaporan. Pelaporan dalam call center dapat menghasilkan data yang berbeda dengan pelaporan dalam keadaan real dan pelaporan historikalnya. Tipe informasi yang dikumpulkan untuk suatu kelompok agen call center bisa termasuk Log in para agen, agen siap menerima panggilan, agen dalam keadaan online, agen dalam mode wrap up, rata-rata durasi panggilan, rata-rata durasi panggilan termasuk waktu wrap-up, lama durasi waktu agent online, durasi panggilan dalam antrian, jumlah panggiilan dalam antrian, jumlah seluruh panggilan ditawarkan (offered), jumlah panggilan diputus, rata-rata kecepatan untuk menjawab, rata-rata kecepatan untuk memutus dan level layanan, dikalkulasikan dengan persentase panggilan yang terjawab dalam suatu rentang waktu tertentu.
+
+Banyak call center sekarang yang menggunakan perangkat lunak manajemen workforce, dimana software ini merupakan software yang menggunakan informasi yang historis yang dihubungkan dengan kebutuhan sistem untuk membangun jadwal yang otomatis untuk menemukan antisipasi kebutuhan level kepegawaian.
+
+== Teknologi ==
+
+Call center menggunakan variasi yang luas dari penggunaan teknologi yang berbeda untuk memudahkan mereka untuk me-manage volume kerja yang besar. Teknologi tersebut memfasilitasi proses antrian dan proses pemanggilan, pemeliharaan konsistensi aliran kerja bagi agen dan membentuk bisnis lain yang menghemat biaya. Beberapa teknologi yang digunakan antara lain adalah:
+{{col-css3-begin|3}}
+#ACW (After Call Work  biasa disebut wrap atau wrapup)
+#ACD (Automatic Call Distribution)
+#Analisis performansi agen
+#AHT (Average Handle Time)
+#ANI (Automatic Number Identification)
+#Pemantau otomatis
+#BTTC (Best Time To Call) / Outbound call optimization
+#Call Recording (perangkat lunak perekam panggilan)
+#CIM (Costumer Interaction Management) solution (lebih dikenal dengan unified solution)
+#Kolaborasi chat dan web
+#CTI (Computer Telephony Integration)
+#CRM (Costumer Relationship Management)
+#Desktop Scripting Solution
+#Sistem pendukung performansi elektronik
+#Manajemen email
+#Enterprise Campaign Management
+#Sistem issue tracking
+#IVR (Interactive Voice Response)
+#Knowledge Management System
+#Outbound Predictive Dialer
+#PDS (Predictive Dialing System)
+#Outsourcing
+#Monitoring kualitas (perangkat lunak perekam panggilan)
+#Analisis Kemampuan
+#Verifikasi Third Party
+#TTS (Text to speech)
+#Antrian Virtual
+#Analisis Voice
+#Voicemail
+#VoIP
+#Voice Recognition
+#WFM (Workforce Management)
+{{col-css3-end|3}}
+
+== Kemajuan teknologi ==
+
+Teknologi call center merupakan subjek untuk dilakukan perbaikkan dan inovasi. Beberapa teknologi ini termasuk perangkat lunak untuk speech recognition dan speech synthesis yang memampukan komputer untuk mengatasi level pertama dari costumer support, text mining, dan natural language processing yang memungkinkan penanganan pelanggan yang lebih baik, pelatihan bagi agen secara otomatis dengan best practice dari interaksi sebelumnya, dan banyak lagi teknologi lainnya untuk mengembangkan produktivitas agen dan kepuasan pelanggan.
+
+== Paten ==
+
+Ada sejumlah besar paten yang menaungi berbagai aspek dari operasi, automasi, dan teknologi call center. Salah satu dari sekian banyak investor yang masuk dalam objek ini adalah Ronald A. Katz yang memegang sekitar 50 paten yang berkaitan dengan gerbang free number, console otomatis, distribusi panggilan otomatis, unit respon otomatis, CTI, dan speech recognition.
+
+== Dinamika ==
+
+Jenis panggilan umumnya dibagi menjadi dua, yaitu inbound dan outbound. Panggilan inbound merupakan panggilan yang dilakukan oleh pelanggan untuk mendapatkan informasi, melaporkan kejanggalan, atau bertanya untuk minta bantuan. Sedangkan panggilan outbound merupakan panggilan yang dilakukan oleh agen untuk memberdayakan pelanggan untuk suatu usaha penjualan atau layanan secara individual. Adalah sangat mungkin untuk mengkombinasi antara inbound dan outbound menjadi sebuah layanan terintegrasi.
+
+Pegawai call center harus dapat dikoordinasikan menjadi suatu sistem yang mendukung multi-tier untuk menciptakan penanganan panggilan yang lebih efisien. Tingkat pertama yang terdiri dari operator, yang melakukan analisa secara langsung terhadap suatu bagian yang tepat dan menyediakan informasi direktori secara global. Bila pelaku panggilan meminta pertolongan, maka panggilan akan diteruskan ke tingkatan kedua, dimana sejumlah masalah dapat diselesaikan. Dalam beberapa kasus, terdapat tiga atau lebih tingkatan yang mendukung pegawai dalam hal ini agen. Bila pelaku panggilan ingin layanan pertolongan yang lebih lagi, maka panggilan akan diteruskan ke tingkatan ketiga yang dibentuk oleh para pengembang produk layanan atau pegawai dengan skil teknik yang tinggi atau produk layanan yang ditawarkan.
+
+== Variasi ==
+
+Beberapa variasi dari model call center dapat dilihat seperti di bawah ini:
+
+#Remote agent, merupakan alternatif untuk merumahkan semua agen dalam sebuah fasilitas central dengan menggunakan remote agent. Sehingga setiap agen dapat bekerja dari rumah dan menggunakan teknologi internet untuk berhubungan.
+#Temporary agent, agen temporal yang dipanggil bila terjadi peningkatan permintaan yang lebih cepat dari perencanaan.
+#Virtual call center, dibentuk dengan menggunakan sejumlah pusat-pusat yang lebih kecil yang tersebar di beberapa lokasi berbeda dan terhubung satu dengan lainnya. Ada dua metoda yang digunakan untuk merutekan trafik di sekitar call center, yaitu pre-delivery dan post-delivery. Pre-delivery melibatkan penggunaan sebuah switch eksternal untuk merutekan panggilan ke pusat yang tepat dan post-delivery memampukan call center untuk merutekan panggilan yang mereka terima ke call center lainnya.
+#Contact center, layanan tambahan media daripada telepon biasa termasuk email, web callback, dan chat dengan internet.
+
+== Kecaman dan performasi ==
+
+Kritikan secara umum untuk call center dapat dilihat dari dua sisi, yaitu dari sisi pelaku panggilan dan staf call center. Dari sisi pelaku panggilan, kritikan yang biasa muncul meliputi:
+
+{{col-css3-begin|2}}
+#Operator yang bekerja berdasarkan naskah
+#Tidak ada operator yang ahli
+#Tidak kompetennya operator dalam melakukan pemrosesan permintaan pelanggan dengan efektif
+#Terpisah secara lokasi, dengan masalah bahasa dan dialek
+#Sistem antrian yang diotomatiskan sehingga untuk beberapa kasus terjadi antrian yang cukup lama
+#Sering terjadi penipuan lokasi call center
+{{col-css3-end|3}}
+
+Kritikan yang muncul dari sisi staf call center adalah sebagai berikut:
+{{col-css3-begin|2}}
+#Keamanan yang tertutup oleh pihak manajemen (sering kalo terjadi monitoring panggilan acak)
+#Kompensasi yang rendah (pembayaran dan bonus)
+#Terbatasnya pelatihan bekerja
+#Tingkat stress yang tinggi 
+#Pengulangan penugasan suatu pekerjaan
+#Lingkungan kerja yang tidak memadai (seperti fasilitas yang kurang, pemeliharaan dan kebersihan yang kurang baik, interferensi dalam manajemen, rendahnya jaminan privasi dan lainnya)
+#Merusak visi dan hanya terus mendengar masalah
+{{col-css3-end|3}}
+== Catatan kaki ==
+{{reflist}}
+
+== Pranala luar ==
+
+[[Kategori:Pemasaran]]

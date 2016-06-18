@@ -1,0 +1,18 @@
+Templat:Gunungsari, Serang
+{{Navigasi ID Desa 
+| provinsi	= Banten
+| dati2		= Kabupaten
+| nama dati2	= Serang
+| nama kecamatan= Gunungsari
+|d1= Ciherang
+|d2= Curug Sulanjana
+|d3= Gunungsari
+|d4= Kadu Agung
+|d5= Luwuk
+|d6= Sukalaba
+|d7= Tamiang
+}}
+<noinclude>
+[[Kategori:Templat desa/kelurahan di Banten|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Serang|{{PAGENAME}}]]
+</noinclude>

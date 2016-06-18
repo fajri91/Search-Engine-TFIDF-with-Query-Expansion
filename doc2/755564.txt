@@ -1,0 +1,15 @@
+Berkas:Saurip Kadi.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+Dari [http://berita-lampung.blogspot.com/ situs web resmi berita-lampung.blogspot.com]
+
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Fairuse}}

@@ -1,0 +1,25 @@
+Axinella symbiotica
+{{Taxobox |name = Axinella symbiotica
+|regnum = [[Hewan|Animalia]]
+|subregnum = [[Parazoa]]
+|phylum = [[Porifera]]
+|classis = [[Demospongiae]]
+|ordo = [[Halichondrida]]
+|familia = [[Axinellidae]]
+|genus = [[Axinella]]
+|species = Axinella symbiotica
+|binomial_authority =Whitelegge, 1907
+}}
+'''''Axinella symbiotica''''' adalah [[spesies]] [[spons]] yang tergolong dalam kelas [[Demospongiae]]. Spesies ini juga merupakan bagian dari genus Axinella dan [[familia]] Axinellidae. Nama ilmiah spesies ini pertama kali diterbitkan pada tahun 1907 oleh Whitelegge.
+
+Seperti spons pada umumnya, spesies ini memiliki tubuh yang berpori dan permukaan yang keras seperti [[batu]]. Selain itu, Axinella symbiotica juga dapat menyerap [[oksigen]] dari [[air]] melalui proses [[difusi]].
+
+== Referensi ==
+
+* ''WoRMS Porifera: World Porifera Database''. Soest R. van (ed), 22 Oktober 2008.
+
+{{DEFAULTSORT:Axinella symbiotica}}
+
+[[Kategori:Demospongiae]]
+
+{{porifera-stub}}

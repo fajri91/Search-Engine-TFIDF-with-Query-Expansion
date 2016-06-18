@@ -1,0 +1,42 @@
+Astronomi inframerah
+{{terjemah|Inggris}}
+[[Berkas:800crab.png|200px|jmpl]]
+[[Berkas:Electromagnetic-Spectrum.svg|200px|jmpl]]
+'''Astronomi inframerah''' adalah cabang dari [[astronomi]] dan [[astrofisika]] yang mempelajari benda-benda astronomis teramati dalam radiasi inframerah (IR). Panjang gelombang cahaya inframerah berkisar 0,75-300 mikrometer. Inframerah jatuh antara radiasi terlihat, yang berkisar 380-750 nanometer, dan gelombang submillimeter.
+
+==Deskripsi==
+Astronomi inframerah dimulai pada tahun 1830-an, beberapa dekade setelah penemuan sinar inframerah oleh [[William Herschel]] pada tahun 1800. Kemajuan awal cukup terbatas, dan itu tidak sampai awal abad ke-20 bahwa deteksi konklusif dari obyek astronomi selain Matahari dan Bulan terdeteksi dalam cahaya inframerah. Setelah beberapa penemuan yang dibuat pada 1950-an dan 1960-an dalam astronomi radio, para astronom menyadari informasi yang tersedia di luar rentang panjang gelombang terlihat, dan astronomi inframerah modern yang didirikan.
+
+Inframerah dan optik astronomi sering berlatih menggunakan teleskop yang sama, sebagai cermin atau lensa yang sama biasanya efektif pada rentang panjang gelombang yang meliputi cahaya tampak dan inframerah baik. Kedua bidang juga menggunakan detektor solid state, meskipun jenis tertentu dari detektor solid state yang digunakan berbeda. Cahaya inframerah diserap di banyak panjang gelombang oleh uap air di atmosfer bumi, sehingga teleskop yang paling inframerah pada ketinggian tinggi di tempat-tempat kering, di atas sebanyak atmosfer mungkin. Ada juga observatorium inframerah di ruang angkasa, termasuk Spitzer Space Telescope dan Herschel Space Observatory.
+
+===Astronomi inframerah===
+<center><gallery perrow=3 widths="200px" heights="170px">
+File:Herschel Space Observatory at ESTEC.JPG
+
+File:Wide Field Camera 3.jpg
+File:NGC 6302 HST new.jpg
+File:Serpens south.jpg
+File:Ssc2003-06k 250.jpg
+File:Astro-f.jpg
+File:WISE artist concept (PIA17254, crop).jpg
+File:Wide-field Infrared Survey Explorer first-light image.jpg
+File:WISE full sky.jpg
+File:Afshin Darian - NASA Infrared Telescope Facility.jpg
+File:Thermal emission of Jupiter.jpg
+File:VISTAs infrared view of the Orion Nebula.jpg
+File:VISTA at Paranal Eso0704b.tif
+</gallery></center>
+
+== Lihat pula ==
+* [[Fotografi inframerah]].
+* [[Filter cut-off inframerah]].
+* [[Filter fotografik]].
+* [[Fillter polarisasi (fotografi)]].
+
+==Referensi==
+{{reflist}}
+* [http://coolcosmos.ipac.caltech.edu/cosmic_classroom/ir_tutorial/ Caltech IR tutorial]
+* [http://irsa.ipac.caltech.edu Infrared Science Archive]
+
+{{astronomi-stub}}
+[[Kategori:Pencitraan astronomi]]

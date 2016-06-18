@@ -1,0 +1,131 @@
+Indonesia, Go Open Source
+'''Indonesia, Go Open Source!''' disingkat '''IGOS''' adalah sebuah semangat gerakan untuk meningkatkan penggunaan dan pengembangan [[perangkat lunak sumber terbuka]] di [[Indonesia]]. IGOS dideklarasikan pada [[30 Juni]] [[2004]] oleh 5 kementerian yaitu [[Kementerian Negara Riset dan Teknologi Republik Indonesia|Kementerian Negara Riset dan Teknologi]], [[Departemen Komunikasi dan Informatika Republik Indonesia|Departemen Komunikasi dan Informatika]], [[Departemen Hukum dan Hak Asasi Manusia Republik Indonesia|Kementerian Hukum dan Hak Asasi Manusia]], [[Kementerian Negara Pendayagunaan Aparatur Negara Republik Indonesia|Kementerian Negara Pendayagunaan Aparatur Negara]] dan [[Departemen Pendidikan Nasional Republik Indonesia|Departemen Pendidikan Nasional]].
+
+Gerakan ini melibatkan seluruh stakeholder TI (akademisi, sektor bisnis, instansi pemerintah dan masyarakat) yang dimulai dengan program untuk menggunakan perangkat lunak sumber terbuka di lingkungan instansi pemerintah. Diharapkan dengan langkah ini dapat diikuti oleh semua lapisan masyarakat untuk menggunakan [[perangkat lunak]] [[legal]].
+
+Semangat gerakan ini memiliki sasaran sebagai berikut:
+* Memberikan lebih banyak alternatif [[perangkat lunak]] yang dapat digunakan oleh masyarakat secara legal dan terjangkau, sehingga jumlah pengguna [[komputer]] meningkat.
+* Peningkatan kemampuan riset dan pengembangan teknologi informasi nasional bidang perangkat lunak.
+* Menciptakan kompetisi pengembangan teknologi informasi untuk dapat bersaing di percaturan global
+
+
+== Deklarasi Bersama, Indonesia Go Open Source! IGOS) ==
+<!--[[Berkas:IGOS-01-sampul.jpeg|thumb|border|right]]-->
+[[Berkas:IGOS-02-tanda-tangan.jpeg|thumb|border|right]]
+
+# Mengingat pentingnya peran teknologi informasi dalam kehidupan masyarakat terkait dengan pertumbuhan perekonomian, maka perlu peningkatan kemandirian, daya saing, kreativitas serta inovasi bangsa sebagai kunci utama keberhasilan pembangunan Bangsa Indonesia. 
+# Pemerintah bersama masyarakat bersepakat untuk melakukan upaya yang sungguh-sungguh dalam menguasai, mendayagunakan dan memanfaatkan teknologi informasi. 
+# Dalam rangka mendukung keberhasilan upaya tersebut, pengembangan dan pemanfaaatn Open Source Software merupakan salah satu langkah strategis dalam mempercepat penguasaan teknologi informasi di Indonesia. 
+# Untuk mendapatkan manfaat yang sebesar-besarnya dari upaya tersebut, perlu dilakukan langkah-langkah aksi sebagai berikut: 
+## Menggunakan perangkat lunak legal di setiap instansi pemerintah. 
+## Menyebarluaskan pemanfaatan Open Source Software di Indonesia. 
+## Menyiapkan panduan ''(guideline)'' dalam pengembangan dan pemanfaatan Open Source Software di Indonesia. 
+## Mendorong terbentuknya pusat-pusat pelatihan, ''competency center'' dan pusat-pusat inkubator bisnis berbasis ''open source'' di Indonesia. 
+## Mendorong dan meningkatkan koordinasi, kemampuan, kreativitas, kemauan dan partisipasi di kalangan pemerintah dan masyarakat dalam pemanfaatan Open Source Software secara maksimal. 
+
+Jakarta, 30 Juni 2004 
+
+ttd
+* Menteri Riset dan Teknologi [[Hatta Rajasa]]
+* Menteri Kommunikasi dan Informasi H. Syamsul Mu'arif
+* Menteri Pendayagunaan Aparatur Negara H. M. Feisal Tamin
+* Menteri Kehakiman dan HAM [[Yusril Ihza Mahendra]]
+* Menteri Pendidikan Nasional [[Abdul Malik Fadjar]]
+
+== Beberapa Kegiatan Terkait ==
+=== Menyusun Direktori Open Source Indonesia ===
+
+Informasi ''open source'' di Indonesia yang bercecer berusaha dikumpulkan dan disusun secara sistematis dalam direktori ini.
+
+=== Menyusun Dokumen Panduan Penelitian ''Open Source Software'' ===
+Siapa saja bisa bebas-bebas saja mengembangkan ''open source''. Namun dengan sumber daya yang terbatas, diperlukan suatu panduan penelitian agar penelitian di bidang ''open source'' bisa sinergi. Untuk itu disusun dokumen panduan penelitian ''open source software''. Berikut ini adalah tautan ke dokumen panduan penelitian ''open source software.''
+* [http://budi.insan.co.id/docs.html Situs Budi Rahardjo] Budi Rahardjo aktif sebagai sebagai kolumnis pada majalah bulanan InfoLINUX. 
+* [http://students.ee.itb.ac.id/~za/ Situs Zaki Akhmad] di Kampus ITB
+* [http://125.160.17.22/dokumen/Panduan OSS v1.00.pdf Link dari Telkom]
+* [http://www.foss-id.web.id/dokumen/Panduan OSS v1.00.pdf Situs FOSS-ID]
+
+=== Mengembangkan Distro Lokal ===
+Dengan filosofi kode sumber yang bebas dan terbuka, telah banyak usaha yang dilakukan baik oleh pemerintah, komunitas, dan swasta dalam mengembangkan distro lokal. 
+
+==== [[BlankOn Linux]] ====
+
+==== [[DwiWarna]] ====
+==== [[IGOS Nusantara]] ====
+
+=== Membentuk Komunitas Bisnis ===
+IGOS Center adalah salah satu cara menciptakan komunitas bisnis ''Open Source Software''. Dengan sumber kode yang bebas dan terbuka, perlu dicari bentuk model bisnis OSS. Saat ini sudah cukup banyak IGOS Center yang beroperasi, diantaranya [http://www.igoscenter.org IGOS Center Bandung], [http://www.igoscenter.web.id IGOS Center Bekasi], dan lain-lain.
+
+=== Pelatihan Penggunaan Piranti Lunak OSS ===
+
+Salah satu kegiatan pelatihan Piranti Lunak OSS adalah yang di motori oleh Pemerintah dan di dukung oleh stakeholder maupun komunitas OSS seperti Ardelindo (http://www.ardelindo.com), Asosiasi Warnet Linux & Open Source Indonesia (http://www.warnet.linux.or.id), IGOS/POSS setempat, Helpdesk-helpdesk FOSS-ID dan sebagainya.
+
+Beberapa kegiatan sosialiasi OSS untuk Instansi pemerintah baik pusat maupun daerah dan juga untuk umum adalah : 
+
+1. Kegiatan pelatihan open source software di 14 kota Indonesia, oleh RISTEK periode 2008, 2. Kegiatan pelatihan open source software di 20 Kota Indonesia, oleh RISTEK periode 2009, 3. Kegiatan pelatihan OSS untuk level admin dan Blender dan Gimp untuk Peningkatan Konten Kreatif Digital, periode 2010 4. dan kegiatan lainnya
+
+Beberapa situs informasi yang memuat mengenai kegiatan pendayagunaan OSS adalah http://www.igos.web.id dan http://www.igoscenter.web.id
+URL
+
+=== Membangun Jaringan POSS (Pemberdayaan Open Source Software) di Perguruan Tinggi ===
+Sampai saat ini tercatat sudah ada POSS di beberapa POSS di perguruan tinggi berikut: 
+* {{id}} [http://www.poss.or.id Situs pusat POSS]
+* {{id}} [http://poss.itb.ac.id POSS ITB]
+* {{id}} [http://poss.ui.ac.id POSS UI]
+* {{id}} [http://poss.its.ac.id POSS ITS]
+* {{id}} [http://osc.ugm.ac.id Open Source Care UGM]
+* {{id}} [http://poss.president.ac.id POSS PU]
+* (Indonesia) [http://poss.unp.ac.id POSS UNP]
+
+=== Telkom-Ristek Award ===
+Sebagai salah satu upaya memacu meningkatkan kemampuan programmer Indonesia maka diadakan lomba yang diberi nama Telkom-Ristek Award, sebagai penghargaan terhadap programmer Open Source Indonesia. 
+
+=== 7 Seri Dokumen Panduan Pendayagunaan Open Source Software ===
+
+Sebagai salah satu program implementasi deklarasi IGOS, pihak Ristek bersama YPLI (Yayasan Penggerak Linux Indonesia) menyusun 7 seri dokumen Panduan Pendayagunaan Open Source Software. Berikut ini adalah 7 judul dokumen tersebut: 
+
+# Konfigurasi Server Linux
+# Bahasa Pemrograman Open Source 
+# Perangkat Lunak Bebas dan Open Source
+# CMS, CRM dan ERP ''(Content Management System, Customer Relationship Management, & Enterprise Resource Planning)''
+# Petunjuk Instalasi IGOS Nusantara
+# RDBMS: MySQL
+# Aplikasi Perkantoran OpenOffice.org
+# Aplikasi untuk Server
+
+Untuk alamat kontak dapat menghubungi Asisten Deputi Pengembangan dan Pemanfaatan Teknologi Informasi. Gedung II BPP Teknologi Lantai 6 Jl MH. Thamrin No 8 Jakarta 10340 Telepon: (021) 316 9181, 316 9166 Faksimili: (021) 310 1952
+
+== Pranala luar ==
+* {{id}} [http://www.igos.web.id/web/guest/home Situs resmi IGOS]
+** [http://www.igos-nusantara.or.id/ IGOS Nusantara]
+** [http://www.igos-desktop.com/ Sistem Desktop Nasional (SDN) IGOS]
+* {{id}} [http://www.igos.or.id/ Situs Memuat informasi kegiatan sosialiasi, pelatihan OSS dan dukungan teknis]
+<!-- 
+* Beberapa perangkat lunak yang telah dikembangkan oleh pengembang lokal di Indonesia:
+** [http://www.software-ri.or.id Software-RI WinBI]
+** [http://oss.inn.bppt.go.id/ Kantaya]
+** [http://depdiknux.depdiknas.org/ DEPDIKnux]
+** [http://www.blankonlinux.or.id/ BlankOn Linux]
+** [http://www.sidoharjo.com/id-komputer/software Software]
+** [http://igos.gunadarma.ac.id/ Aplikasi / Distro Waroeng IGOS]
+** [http://www.psn.co.id/igos IGOS Berdikari]
+** [http://www.psn.co.id/igos IGOS Kwartet]
+** [http://www.psn.co.id/igos IGOS Laba2]
+** [http://www.psn.co.id/igos IGOS Billing System]
+** [http://dwiwarna.web.id IGOS DwiWarna]
+** [http://kuliax.org/ Kuliax 6.0]
+** Distro Pinux
+** Distro Trustix Merdeka
+** [http://www.pclinux3d.com/ PCLinux]
+* {{id}} [http://www.ubuntu-id.org/ Situs Komunitas Ubuntu Indonesia]
+* {{id}} [http://foss-id.web.id Situs Pendukung Open Source Indonesia] --> 
+* {{id}} [http://igos-codecamp.org Situs IGOS Codecamp]
+* {{id}} [http://www.sidoharjo.com/id-komputer/software Software]
+* {{id}} [http://www.igos.or.id Situs IGOS Center]
+* {{id}} [http://www.igoscenter.web.id Situs IGOS Center Bekasi]
+* {{id}} [http://saung.igoscenter.org Situs IGOS Center Bandung]
+* {{id}} [http://riung.igoscenter.org Komunitas IGOS Center Bandung]
+* {{id}} [http://www.igosbanten.com Komunitas IGOS Center Banten]
+* {{id}} [http://www.depok.igoscenter.org Komunitas IGOS Center Depok]
+* {{id}}{{en}} http://www.nabilaos.com/id Bantuan untuk menggunakan software Open Source
+
+[[Kategori:Ilmu dan teknologi di Indonesia]]

@@ -1,0 +1,13 @@
+Templat:Kanigaran, Probolinggo
+{{Navigasi ID Desa |provinsi=Jawa Timur |dati2=Kota |nama dati2=Probolinggo
+|nama kecamatan=Kanigaran
+|k1=Curah Grinting
+|k2=Kanigaran
+|k3=Tisnonegaran
+|k4=Kebonsari Kulon
+|k5=Kebonsari Wetan
+|k6=Sukoharjo
+}}<noinclude>
+[[Kategori:Templat desa/kelurahan di Jawa Timur|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kota Probolinggo|{{PAGENAME}}]]
+</noinclude>

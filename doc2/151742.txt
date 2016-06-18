@@ -1,0 +1,73 @@
+Adobe Premiere Pro
+{{Infobox Software
+| name                   = Adobe Premiere Pro
+| logo                   = [[File:Adobe Premiere Pro CS6 Icon.png|64px]]
+| screenshot             = 
+| caption                = Adobe Premiere Pro CS6 berjalan di [[Windows 8]]
+| developer              = [[Adobe Systems]]
+| frequently updated = yes
+| programming language   = <!-- With citation, please -->
+| operating system       = [[Windows 8]], [[Windows 7]] atau [[Mac OS X Snow Leopard]] dan setelahnya <ref name=tech-spec>{{cite web|title=System requirements|url=http://www.adobe.com/products/premiere/tech-specs.html|work=Adobe Premiere Pro CS6 Tech specs|publisher=[[Adobe Systems]]|accessdate=25 July 2012}}</ref>
+| genre                  = [[Program penyunting video]]
+| license                = [[Perangkat lunak komersial]]
+| website                = {{URL|http://www.adobe.com/products/premiere.html}}
+}}
+'''Adobe Premiere Pro''' adalah  sebuah '''program penyunting [[Video]] berbasis non'''-linear editor (NLE) dari [[Adobe Systems]]. Itu adalah salah satu produk software dari [[Adobe Creative Suite]], tetapi juga bisa dibeli sendirian. Bahkan kalau dibeli sendirian, itu termasuk [[Adobe Encore]] dan [[Adobe OnLocation]]. Walaupun yang dua versi pertama hanya tersedia untuk [[Windows]], versi CS3 tersedia baik untuk Windows maupun [[Mac OS X]]. CS3 tersedia dalam Bahasa Inggris, Bahasa Perancis, Bahasa Jerman, Bahasa Jepang, Bahasa Italia, dan Bahasa Spanyol.
+
+Adobe Premiere Pro merupakan program pengolah video pilihan bagi kalangan profesional, terutama yang suka bereksperimen. Program ini banyak digunakan oleh perusahaan Pembuatan Film/Sinetron, Broadcasting, dan Pertelevisian. Salah satunya adalah [[BBC]]<ref>
+{{Citation
+  | title = Adobe Creative Suite 3 Production Premium Wins in Broadcasting
+  | newspaper = Adobe Systems Incorporated
+  | year = 2007
+  | date = [[16 April]] [[2007]]
+  | url = http://www.adobe.com/aboutadobe/pressroom/pressreleases/200704/041607BBC.html
+  | accessdate = 2008-05-02 }}
+</ref> dan [[The Tonight Show]].<ref>
+{{Citation
+  | title = Tonight Show Upgrades Graphics to HD with Apella HDS and Matrox Axio
+  | newspaper = TV Technology
+  | year = 2008
+  | date = [[11 April]] [[2008]]
+  | url = http://www.tvtechnology.com/pages/s.0017/t.12788.html
+  | accessdate = 2008-05-02 }}
+</ref> Itu sudah sering digunakan untuk film-film, seperti ''Dust to Glory'', ''Captain Abu Raed'',<ref>
+{{Citation
+  | last = Frazer
+  | first = Bryant
+  | title = 'Conforming a D-20 Feature in Adobe Premiere Pro'
+  | newspaper = studiodaily
+  | year = 2008
+  | date = [[31 Januari]] [[2008]]
+  | url = http://www.studiodaily.com/main/work/9021.html}}
+</ref> dan ''[[Superman Returns]]'',<ref>
+{{Citation
+  | last = Restuccio
+  | first = Daniel
+  | title = 'SUPERMAN RETURNS'
+  | newspaper = Post
+  | year = 2006
+  | date = [[1 Juni]] [[2006]]
+  | url = http://www.webcitation.org/5Q8pIX5a2}}
+</ref> dan untuk tempat lain seperti Confessions Tour oleh [[Madonna (penyanyi)|Madonna]].<ref>
+{{Citation
+  | title = Madonnas Confessions Tour Uses a Flexible, Fast HP Workstation
+  | newspaper = Digital Content Producer
+  | year = 2006
+  | date = [[2 Agustus]] [[2006]]
+  | url = http://www.webcitation.org/5Q8prZlzl
+  | accessdate = 2007-07-06 }}
+</ref>Adobe Premiere Pro memiliki sekitar 45 efek video dan 12 efek audio, yang bisa untuk mengubah pola tampilan dan menganimasikan klip video dan audio. Beberapa efek memerlukan kartu grafis yang berkualitas tinggi. Namun dari 45 efek itu, hanya 3 efek saja yang memerlukan kartu grafis kelas tinggi (misal. AMD atau NVIDIA) agar bisa diaplikasikan pada klip video. Anda juga bisa menambahkan produk efek dari pihak ketiga yang mendukung Adobe Premiere Pro. Disamping itu, Adobe Premiere Pro juga memiliki sekitar 30 macam transisi (perpindahan antar-klip) sehingga peralihan antara klip video satu ke klip video selanjutnya lebih dinamis. Sama seperti efek, beberapa tranisi juga memerlukan kartu grafis yang berkualitas tinggi seperti AMD atau NVIDIA. Ada 5 transisi yang memerlukan kartu grafis AMD atau NVIDIA agar bisa diaplikasikan.
+
+Adobe Premiere Pro memiliki fitur - fitur penting, antara lain Capture (perekam video) Monitor, Trim (alat pemotong klip) Monitor, dan Titler (Pembuat teks judul) Monitor. Pada efek-efek video Adobe Premiere Pro terdapat Keyframe seperti yang terdapat pada Adobe After Effects ( cara menganimasikannya juga hampir sama ). Pada Titler, anda bisa membuat teks judul/title dan mengubah properti dari teks itu seperti mengubah bentuk huruf, memberi dan mengubah warna, memberi kontur, garis luar (outline), membuat animasi pergerakan atau animasi teks berjalan (roll and/or crawl), bisa juga untuk memberi shapes/bangun datar agar tampilan judul/teks video terlihat lebih menarik. Tahap terakhir adalah export/output/menyimpan proyek dalam bentuk video dan didistribusikan ke berbagai media yang bisa menampilkan format video.
+
+== Lihat pula ==
+* [[Adobe Premiere Elements]]
+* [[Program penyunting video]]
+
+== Referensi ==
+{{reflist}}
+
+[[Kategori:Perangkat lunak Adobe|Premiere Pro]]
+[[Kategori:Perangkat lunak multimedia]]
+[[Kategori:Perangkat lunak Windows]]
+[[Kategori:Perangkat lunak Mac OS]]

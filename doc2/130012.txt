@@ -1,0 +1,12 @@
+Templat:Life in OIC
+{| class="toccolours" style="margin-left:1em; margin-bottom:.5em; float:right; clear:right; font-size: 90%"
+! style="background:#ccf; font-size:111%;" align=center colspan=2 | 
+[[Organisasi Konferensi Islam]]
+|- valign=top
+|
+* [[Ekonomi OKI|Ekonomi]]
+<div style="font-size: 80%">
+::[[Daftar negara-negara OKI menurut GDP (PPP)|GDP]], [[Daftar negara-negara OKI menurut GDP per kapita (PPP)|GDP/kapita]], [[Daftar negara-negara OKI menurut ekspor|Ekspor]], [[Daftar negara-negara OKI menurut impor|Impor]]
+</div>
+* [[Edukasi dalam OKI|Edukasi]]
+|}<noinclude>[[Kategori:Templat navigasi organisasi|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,59 @@
+FC Daugava
+{{Football club infobox |
+  clubname = FC Daugava |
+  image = [[Berkas:FK Daugava Daugavpils.svg|120px|Logo]]|
+  fullname = Football Club Daugava Daugavpils|
+  nickname =  |
+  founded  = 1944 |
+  ground   = Stadio Daugava <br /> [[Daugavpils]], [[Latvia]]|
+  capacity = 4,100 |
+  chairman = {{flagicon|Russia}} Igor Malishkov |
+  manager  = {{flagicon|Russia}} [[Ravil Sabitov]] |
+  league   = [[Virsliga]] |
+  season   = 2011 |
+  position = 3|
+|pattern_la1=_whiteshoulders|pattern_b1=_whitethinlines|pattern_ra1=_whiteshoulders
+|pattern_sh1=_white stripes|pattern_so1=_band_white
+|leftarm1=0000FF|body1=0000FF|rightarm1=0000FF|shorts1=0000FF|socks1=0000FF
+|pattern_la2=_blueshoulders|pattern_b2=_bluesleevelinesandsides|pattern_ra2=_blueshoulders
+|pattern_sh2=_blue stripes|pattern_so2=_band_white
+|leftarm2=FFFFFF|body2=FFFFFF|rightarm2=FFFFFF|shorts2=FFFFFF|socks2=FFFFFF
+current     =|
+website = http://www.fcdaugava.lv/index.php?language=3|
+}}
+'''FC Daugava''' merupakan sebuah tim [[sepak bola]] [[Latvia]] yang bermain di divisi utama [[Virsliga]]. Didirikan pada tahun [[1944]]. Berbasis di [[Daugavpils]]. Klub ini memainkan pertandingan kandangnya di [[Stadion Daugava]] yang berkapasitas 4.100 penonton. Seragam mereka berwarna biru.
+
+== Skuad ==
+{{Fs start}}
+{{Fs player|no= 1 |nat= LAT |pos=GK|name=Mris Eltermanis}}
+{{Fs player|no= 3 |nat= LAT |pos=MF|name=Rolands Jankovskis}}
+{{Fs player|no= 4 |nat= RUS |pos=DF|name=Yuriy Kotyukov}}
+{{Fs player|no= 6 |nat= LAT |pos=MF|name=[[Andrejs Kovaovs]]}}
+{{Fs player|no= 9 |nat= LAT |pos=MF|name=[[Mihails Zizievs]]}}
+{{Fs player|no= 11|nat= LAT |pos=MF|name=Jurijs Sokolovs|other=[[Captain (association football)|kapten]]}}
+{{Fs player|no= 12|nat= LAT |pos=GK|name=Jevgijs erugals}}
+{{Fs player|no= 13|nat= GEO |pos=DF|name=Bidzina Tsintsadze}}
+{{Fs player|no= 14|nat= LAT |pos=MF|name=Edgars Jermolajevs}}
+{{Fs mid}}
+{{Fs player|no= 16|nat= LAT |pos=FW|name=riks Kokins}}
+{{Fs player|no= 17|nat= RUS |pos=DF|name=[[Georgi Ulyanov]]}}
+{{Fs player|no= 18|nat= LAT |pos=MF|name=Riards Raevskis}}
+{{Fs player|no= 20|nat= LAT |pos=MF|name=Jans Radevis}}
+{{Fs player|no= 21|nat= BRA |pos=MF|name=Allanzinho}}
+{{Fs player|no= 22|nat= LAT |pos=DF|name=Jevgijs Simonovs}}
+{{Fs player|no= 25|nat= LAT |pos=FW|name=Vladimirs Volkovs}}
+{{Fs player|no= 26|nat= LAT |pos=DF|name=[[Vladimirs avoronkovs]]}}
+{{Fs player|no= 30|nat= LAT |pos=MF|name=[[Vadims Logins]]}}
+{{Fs player|no= 33|nat= GEO |pos=FW|name=[[Mamuka Ghonghadze]]}}
+{{Fs player|no= 35|nat= LAT |pos=GK|name=Georgijs iovs}}
+{{Fs player|no= -|nat= LAT |pos=DF|name=[[Artrs Silagailis]]}}
+{{Fs player|no= -|nat= RUS |pos=MF|name=[[Dmitri Kozlov]]}}
+{{Fs end}}
+
+== Pranala luar ==
+{{commonscat|FC Daugava}}
+* [http://www.fcdaugava.lv/ FC Daugava] (Situs Resmi)
+
+{{klub-sb-stub}}
+
+[[Kategori:Tim sepak bola Latvia]]

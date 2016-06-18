@@ -1,0 +1,52 @@
+Templat:Internet hosting
+{{sidebar
+| name         = Internet hosting
+| pretitle     = Bagian dari [[:Category:Internet hosting|keluarga]] dalam
+| title        = [[Internet hosting service]]
+| contentclass = hlist
+
+| heading1     = Hosting fitur penuh
+| content1     =
+*[[Virtual private server]]
+*[[Dedicated hosting service|Dedicated hosting]]
+*[[Colocation centre]]
+*[[Cloud hosting]]
+
+| heading2     = [[Layanan web hosting|Web hosting]]
+| content2     =
+*[[Free web hosting service|Free hosting]]
+*[[Shared web hosting service|Shared]]
+*[[Clustered hosting|Clustered]]
+*[[Reseller web hosting|Reseller]]
+
+| heading3     = Web hosting aplikasi
+| content3     =
+*[[Blog software|Blog]] ([[Blog comment hosting service|comments]])
+*[[Guild hosting]]
+*[[Image hosting service|Image]]
+*[[Video hosting service|Video]]
+*[[Wiki farm]]s
+*[[Application service provider|Application]]
+*[[Social network hosting service|Social network]]
+
+| heading4     = Dalam tipe atau format
+| content4     =
+*[[File hosting service|File]]
+*[[Image hosting service|Image]]
+*[[Video hosting service|Video]]
+*[[Online music service|Music]]
+
+| heading5     = Tipe lain
+| content5     =
+*[[Remote backup service|Remote backup]]
+*[[Game server]]
+*[[DNS hosting service|DNS]]
+*[[E-mail hosting service|E-mail]]
+
+}}<noinclude>{{documentation|content=
+
+[[Category:Computing templates|{{PAGENAME}}]]
+[[Category:"Part of a series on" templates|{{PAGENAME}}]]
+[[Category:Exclude in print]]
+
+}}</noinclude>

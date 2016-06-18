@@ -1,0 +1,7 @@
+Templat:Pekerjaan-stub
+{{base-stub
+|[[pekerjaan]] atau [[profesi]]
+|[[Image:Nuvola apps personal.png|9999999999x30px]]}}{{#if:{{{kat|}}}||<includeonly>
+[[Kategori:Rintisan bertopik pekerjaan|{{PAGENAME}}]]</includeonly>}}<noinclude>
+[[Kategori:Templat rintisan|{{PAGENAME}}]]
+</noinclude>

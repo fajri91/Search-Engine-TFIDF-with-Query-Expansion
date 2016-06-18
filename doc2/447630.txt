@@ -1,0 +1,2 @@
+Kategori:Kelahiran 1439
+{{lahir|{{#if:{{strfind short|nocategory=false|{{PAGENAME}}| |1}}|{{str sub|nocategory=false|{{PAGENAME}}|{{strfind short|nocategory=false|{{PAGENAME}}| |1}}|{{#expr:{{strlen_quick|nocategory=false|{{PAGENAME}}}}-{{strfind short|nocategory=false|{{PAGENAME}}| |1}} }}}}}}}}

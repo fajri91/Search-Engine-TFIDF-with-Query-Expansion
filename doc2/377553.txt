@@ -1,0 +1,14 @@
+Templat:S-line/SLRT left/Sengkang
+{{#switch:{{{type}}}
+   | Bakau=Bakau
+   | Thanggam=Thanggam
+   | Fernvale=Fernvale
+   | Cheng Lim=Cheng Lim
+   | Renjong=Renjong
+   | Compassvale=Compassvale
+   | Ranggung=Ranggung
+   | #default=Sengkang
+}}<noinclude>
+
+[[Category:Templat transportasi|{{PAGENAME}}]]
+</noinclude>

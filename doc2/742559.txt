@@ -1,0 +1,14 @@
+Berkas:Logo Kementerian Tenaga Kerja Arab Saudi.PNG
+=={{int:filedesc}}==
+{{Information
+| description    =
+www.mol.gov.sa
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Logo}}

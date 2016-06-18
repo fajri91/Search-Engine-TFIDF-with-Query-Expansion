@@ -1,0 +1,27 @@
+Templat:Makhluk Mitologis Indonesia
+{{Navbox
+| name  = Makhluk Mitologis Indonesia
+| listclass = hlist
+| title = Binatang Mitologi di Indonesia
+| group1 = [[Darat|Binatang Darat Mitologi]]
+| list1  = 
+*[[Warak ngendok]]
+*[[Barongan (mitologi)|Barong]]
+*[[Aul]]
+*[[Veo]]
+
+| group2 = [[Air|Binatang Air Mitologi]]
+| list2  = 
+*[[Naga Jawa]]
+
+| group3 = [[Udara|Binatang Udara Mitologi]]
+| list3  = 
+*[[Ahool]]
+*[[Lembuswana]]
+*[[Kuda Sembrani]]
+
+
+}}<noinclude>
+[[Kategori:Templat mitologi]]
+[[Kategori:Templat navigasi Indonesia|{{PAGENAME}}]]
+</noinclude>

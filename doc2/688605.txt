@@ -1,0 +1,130 @@
+Templat:Penguasa Maroko
+{{Navbox
+|name   = Penguasa Maroko
+|state  = {{{state<includeonly>|collapsed</includeonly>}}}
+|title  = [[Daftar penguasa Maroko|Penguasa Maroko]]
+|listclass = hlist
+
+| group1 = <center>[[Dinasti Idris]]<br/>(789-974)</center>
+| list1  = 
+*[[Idriss I|Idris ibn Abdallah]]
+*[[Idriss II|Idris ibn Idris]]
+*[[Muhammad ibn Idris]]
+*[[Ali ibn Idris]]
+*[[Yahya ibn Muhammad]]
+*[[Yahya ibn Yahya]]
+*[[Ali ibn Umar]]
+*[[Yahya ibn Al-Qassim]]
+*[[Yahya ibn Idris ibn Umar|Yahya ibn Idris]]
+*[[Hassan I al-Hajam|Al-Hasan ibn Muhammad]]
+*[[Al Qasim Guennoun|Al-Qasim ibn Ibrahim]]
+*[[Abu l-Aish Ahmad|Ahmad ibn al-Qasim]]
+*[[Al-Hasan ben Kannun|Al-Hasan ibn al-Qasim]]
+
+| group2 = <center>[[Dinasti Muwahhidun]]<br/>(1061-1147)</center>
+| list2  = 
+*[[Yusuf ibn Tashfin]]
+*[[Ali ibn Yusuf]]
+*[[Tashfin ibn Ali]]
+*[[Ibrahim ibn Tashfin]]
+*[[Ishaq ibn Ali]]
+
+|group3 = <center>[[Dinasti Murabitun]]<br/>(1147-1244)</center>
+|list3  = 
+*[[Abdul-Mu'min, Almohad Caliph|Abd al-Mu'min]]
+*[[Yusuf I, Almohad Caliph|Yusuf ibn Abd al-Mu'min]]
+*[[Abu Yusuf Yaqub al-Mansur|Yaqub al-Mansur]]
+*[[Muhammad, Almohad Caliph|Muhammad an-Nasir]]
+*[[Yusuf II, Almohad Caliph|Yusuf al-Mustansir]]
+*[[Abdul-Wahid I, Almohad Caliph|Abd al-Wahid al-Makhlu]]
+*[[Abdallah al-Adil|Abdallah al-Adil]]
+*[[Yahya, Almohad Caliph|Yahya al-Mutasim]]
+*[[Idris al-Ma'mun]]
+*[[Abdul-Wahid II, Almohad Caliph|Abd al-Wahid ar-Rashid]]
+*[[Abu al-Hasan as-Said al-Mutadid|Said al-Mutadid]]
+
+| group4 = <center>[[Dinasti Mariniyun]]<br/>(1244-1465)</center>
+| list4  =
+*[[Abu Yahya ibn Abd al-Haqq|Abubakr ibn Abd al-Haqq]]
+*[[Abu Yusuf Yaqub ibn Abd Al-Haqq|Yaqub ibn Abubakr]]
+*[[Abu Yaqub Yusuf an-Nasr|Yusuf ibn Yaqub]]
+*[[Abu Thabit Amir|Amir ibn Abdullah]]
+*[[Abu al-Rabi Sulayman|Sulayman ibn Abdullah]]
+*[[Abu Sa'id Uthman II|Uthman ibn Yaqub]]
+*[[Abu al-Hasan Ali ibn Othman|Ali ibn Uthman]]
+*[[Abu Inan Faris|Faris ibn Ali]]
+*[[Muhammad II ibn Faris dari Maroko|Muhammad ibn Faris]]
+*[[Abu Bakr ibn Faris|Abubakr ibn Faris]]
+*[[Ibrahim ibn Ali dari Maroko|Ibrahim ibn Ali]]
+*[[Tachufin ibn Ali|Tashfin ibn Ali]]
+*[[Abu Faris Abdul Aziz I dari Maroko|Abd al-Aziz ibn Ali]]
+*[[Muhammad III ibn Abd al-Aziz|Muhammad ibn Abd al-Aziz]]
+*[[Ahmad ibn Ibrahim, al-Mustansir|Ahmad ibn Ibrahim]]
+*[[Musa ibn Faris al-Mutawakkil|Musa ibn Faris]]
+*[[Muhammad ibn Ahmad al-Wathiq|Muhammad ibn Ahmad (al-Wathiq)]]
+*[[Ahmad ibn Ibrahim, al-Mustansir|Ahmad ibn Ibrahim (al-Mustansir)]]
+*[[Abd al-Aziz II ibn Ahmad II|Abd al-Aziz ibn Ahmad]]
+*[[Abdallah ibn Ahmad II|Abdallah ibn Ahmad]]
+*[[Abu Said Uthman III|Uthman ibn Ahmad]]
+*[[Abd al-Haqq II|Abd al-Haqq ibn Uthman]]
+
+| group5 = <center>Peralihan Idris<br/>(1465-1471)</center>
+| list5  =
+*[[Muhammad ibn Ali Amrani-Joutey]]
+
+| group6 = <center>[[Dinasti Wattasiyun]]<br/>(1471-1549, 1554)</center>
+| list6  =
+*[[Abu Abdallah Muhammad ibn Yahya ash-Sheikh al-Mahdi|Muhammad ibn Yahya]]
+*[[Abu Abdallah Muhammah ibn Muhammad al-Burtuqali|Muhammad ibn Muhammad]]
+*[[Abu al-Hasan Ali ibn Muhammad|Ali ibn Muhammad (Abu Hassun)]]
+*[[Abu al-Abbas Ahmad ibn Muhammad|Ahmad ibn Muhammad]]
+*[[Nasir ad-Din al-Qasri Muhammad ibn Ahmad|Muhammad ibn Ahmad]]
+
+| group7 = <center>[[Dinasti Saadi]]<br/>(1549-1659)</center>
+| list7  =
+*[[Mohammed ash-Sheikh|Muhammad ash-Sheikh]]
+*[[Abdallah al-Ghalib]]
+*[[Abu Abdallah Mohammed II Saadi|Muhammad al-Mutawakkil]]
+*[[Abu Marwan Abd al-Malik I Saadi|Abd al-Malik al-Ghazi]]
+*[[Ahmad al-Mansur]]
+*[[Abou Fares Abdallah|Abou Fares Abdallah]]
+*[[Zidan Abu Maali|Zidan an-Nasir]]
+*[[Abu Marwan Abd al-Malik II|Abd al-Malik ibn Zidan]]
+*[[Al Walid ibn Zidan|Al-Walid ibn Zidan]]
+*[[Mohammed esh Sheikh es Seghir|Muhammad ash-Sheikh as-Saghir]]
+*[[Ahmad al-Abbas]]
+
+| group8 = <center>Peralihan [[Zaouia dari Dila|Dila'i]]<br/>(1659-1663)</center>
+| list8  =
+*[[Mohammed al-Hajj ibn Abu Bakr al-Dila'i|Muhammad al-Haj ad-Dila'i]]
+
+| group9 = <center>[[Dinasti Alawi]]<br/>(1666-sekarang)</center>
+| list9  =
+*[[al-Rashid dari Maroko|Al-Rashid ibn Ali]]
+*[[Ismail Ibn Sharif|Ismail ibn Ali]]
+*[[Abu'l Abbas Ahmad II dari Maroko|Ahmad ibn Ismail]]
+*[[Abdalmalik dari Maroko|Abd al-Malik ibn Ismail]]
+*[[Abdallah dari Maroko|Abdallah ibn Ismail]]
+*[[Ali dari Maroko|Ali ibn Ismail]]
+*[[Muhammad II ben Arbia dari Maroko|Muhammad ibn Ismail]]
+*[[al-Mostadi dari Maroko|Al-Mustadi' ibn Ismail]]
+*[[Zin al-Abidin dari Maroko|Zin al-Abidin ibn Ismail]]
+*[[Mohammed ben Abdallah|Muhammad ibn Abdallah]]
+*[[Yazid dari Maroko|Al-Yazid ibn Muhammad]]
+*[[Hisham dari Maroko|Hisham ibn Muhammad]]
+*[[Slimane dari Maroko|Suleiman ibn Muhammad]]
+*[[Abderrahmane dari Maroko|Abd al-Rahman ibn Hisham]] 
+*[[Mohammed IV dari Maroko|Muhammad ibn Abd al-Rahman]]
+*[[Hassan I dari Maroko|Al-Hassan ibn Muhammad (Hassan I)]]
+*[[Abdelaziz dari Maroko|Abd al-Aziz ibn al-Hassan]]
+*[[Abdelhafid dari Maroko|Abd al-Hafid ibn al-Hassan]]
+*[[Yusef dari Maroko|Yusuf ibn al-Hassan]]
+*[[Mohammed Ben Aarafa|Muhammad ibn Arafa]]
+*[[Mohammed V dari Maroko|Muhammad ibn Yusuf]]
+*[[Hassan II dari Maroko|Hassan ibn Muhammad (Hassan II)]]
+*[[Mohammed VI dari Maroko|Muhammad ibn al-Hassan (Muhammad VI)]]
+}}<noinclude>
+{{collapsible option}}
+[[Kategori:Templat navigasi penguasa negara]]
+[[Category:Templat Maroko|{{PAGENAME}}]]
+</noinclude>

@@ -1,0 +1,42 @@
+Bagrami, Kabul
+{{Infobox settlement
+|name                        = Bagrami
+|native_name                 = 
+|settlement_type=[[Distrik di Afghanistan|Distrik]]
+|image_map                   = Afghanistan Kabul Province Bagrami District.png|thumb
+|image_size = 300px
+| image_caption = Peta menunjukan Distrik Bagrami
+|pushpin_map            = Afghanistan <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position =bottom
+|pushpin_mapsize        =300
+|pushpin_map_caption    =Lokasi di Afghanistan
+|latd= 34|latm= 29|lats= 49.74|latNS=N |longd= 69|longm= 19|longs= 51.12|longEW=E
+|subdivision_type       = [[Negara]]
+|subdivision_name       = {{flag|Afghanistan}}
+|subdivision_type1      = [[Provinsi di Afganistan|Provinsi]]
+|subdivision_name1      = [[Kabul, Afganistan|Provinsi Kabul]]
+|government_type             =
+|population_as_of               = 2005
+|population_footnotes           =<ref>{{en}} {{cite web|url=http://foodsecurityatlas.org/afg/country/provincial-Profile/Kabul|title=Kabul Province|publisher=[[Program Pangan Dunia]]|accessdate=2012-09-19}}</ref>
+|population_total               = 68,287
+| postal_code_type        = Kode Pos
+| postal_code             = 1053
+}}
+
+'''Bagrami, Kabul''' adalah [[distrik]] di [[Kabul, Afganistan|Provinsi Kabul]], [[Afghanistan]]. Jumlah penduduk di provinsi ini pada tahun [[2005]] yaitu 68.287 jiwa.
+
+== Batas Wilayah ==
+* Utara: [[Deh Sabz, Kabul|Deh Sabz]]
+* Timur: [[Surobi, Kabul|Surobi]]
+* Selatan : [[Khaki Jabbar, Kabul|Khaki Jabbar]], [[Mussahi, Kabul|Mussahi]], [[Char Asiab, Kabul|Char Asiab]]
+* Barat : [[Distrik Kabul, Afganistan|Kabul]]
+
+== Referensi ==
+{{reflist}}
+
+[[Kategori:Distrik di Provinsi Kabul]]
+
+
+{{Kabul-geo-stub}}
+
+[[ms:Daerah Bagrami]]

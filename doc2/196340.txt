@@ -1,0 +1,60 @@
+Templat:Latin alphabet/doc
+{{Documentation subpage}}
+<!-- PLEASE ADD CATEGORIES AND INTERWIKIS AT THE BOTTOM OF THIS PAGE. -->
+==Usage==
+
+===Basic examples===
+* Input parameter #1: , single letter: {{tlx|Latin alphabet|<nowiki></nowiki>}} 
+{{Latin alphabet|}}
+
+====Adding the block "Letter X with diacritics"====
+* When the parameter is "A" (or : with or without diacritics), the block is added "Letter A with diacritics"
+* {{tlx|Latin alphabet|<nowiki>A</nowiki>}}  {{Latin alphabet|A|show pairs=no}}
+
+====Adding the block "Letters with diacritic ^"====
+* When the parameter has a diacritic e.g. , the block "All letters with diacritic ^ (circumflex)" is shown.
+* When the parameter "show diacritic=" is set, that block will show: {{tlx|Latin alphabet|<nowiki>A|show diacritic=grave</nowiki>}}
+* {{tlx|Latin alphabet|<nowiki>A|show diacritic=circumflex</nowiki>}}  {{Latin alphabet|A|show diacritic=circumflex|show pairs=no}}
+
+====Adding the block "Pairs with Letter X"====
+* When the parameter is a straight letter A-Z, the block with letter pairs is shown.
+* When the parameter <code>show pairs=yes/no</code> is set, the pairs will show/hide accordingly:
+{{tlx|Latin alphabet|<nowiki>|show pairs=yes</nowiki>}}  {{Latin alphabet||show pairs=yes}}
+
+====More options====
+* When the parameter <code>show diacritic 2=</code> is used, a second block of diacritics will be shown:
+* {{tlx|Latin alphabet|<nowiki>A|show diacritic=grave|show diacritic 2=circumflex</nowiki>}}  {{Latin alphabet|A|show diacritic=grave|show diacritic 2=circumflex|show pairs=no}}
+
+===Parameter list===
+The full parameter list:
+
+<pre>
+{{Latin alphabet
+|
+| show diacritic =
+| show diacritic 2 =
+| show letter = 
+| show pairs = 
+}}
+</pre>
+Input options are:
+:'''''First, unnamed parameter''''': (default: the <small>PAGENAME</small>). The input where information is derived from: which basic A-Z letter, which diacritic is used?
+:'''''show diacritic''''': (default: derived from first parameter). Which diacritic is shown: acute, hook, ... Also: if set to <code>show diacritic=no</code> the diacritic blok will not be shown at all.
+:'''''show diacritic 2''''': Allows for the block of a second diacritic being shown. Currently ''automatically'' for "dot" (shows ''dot above'' and ''dot below'').
+:'''''show letter''''': (default: determined from input 1). Sets which block "Letter X with diacritics" is shown. Also: if set to <code>show letter=no</code> the diacritic blok will not be shown at all.
+:'''''show pairs''''': (default:yes if input 1 = A-Z). If set to "yes", all pairs with basic input 1-letter are shown.
+
+===Editing the template===
+;Technical background:
+* Technical: [[Special:PrefixIndex/Template:Latin alphabet|all /subpages]]
+
+== See also ==
+* {{lts|Latin alphabet}}
+* {{lts|Latin alphabet navbox}}
+
+
+<includeonly><!--
+++++ PLEASE ADD CATEGORIES AND INTERWIKIS BELOW THIS LINE, INSIDE INCLUDEONLY TAGS, THANK YOU. -->
+[[Category:Writing system templates|{{PAGENAME}}]]
+[[Category:Exclude in print]]
+</includeonly>

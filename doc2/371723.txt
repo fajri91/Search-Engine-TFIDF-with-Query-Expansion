@@ -1,0 +1,26 @@
+Karangwedoro, Turi, Lamongan
+{{desa
+|peta          =
+|nama          =Karangwedoro
+|provinsi      =Jawa Timur
+|dati2         =Kabupaten
+|nama dati2    =Lamongan
+|kecamatan     =Turi
+|kode pos      =62252
+|luas          =... km
+|penduduk      =3.336 jiwa
+|kepadatan     =... jiwa/km
+}}
+'''Karangwedoro''' adalah [[desa]] di [[kecamatan]] [[Turi, Lamongan|Turi]], [[Kabupaten Lamongan]], [[Jawa Timur]], [[Indonesia]].
+
+== Perbatasan ==
+{{batas USBT
+|utara=[[Putatkumpul, Turi, Lamongan|Desa Putatkumpul]]
+|selatan=[[Keben, Turi, Lamongan|Desa Keben]]
+|barat=[[Geger, Turi, Lamongan|Desa Geger]] dan [[Badurame, Turi, Lamongan|Badurame]]
+|timur=[[Kemlagigede, Turi, Lamongan|Desa Kemlagigede]]
+}}
+
+{{Turi, Lamongan}}
+
+{{kelurahan-stub}}

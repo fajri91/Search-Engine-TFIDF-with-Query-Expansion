@@ -1,0 +1,15 @@
+Wikipedia:Gambar pilihan/62 2014
+{{GP/2
+|gambar     = Il tempio di Hatshepsut.JPG
+|vertikal   = n
+|panorama   = n
+|deskripsi  = Kuil [[Hatshepsut]] di [[Luxor]], [[Mesir]].
+|oleh       = [[:commons:User:Piroddi.andrea|Andrea Piroddi]]
+|lisensi    = {{GP-CC|Atribusi-BerbagiSerupa 3.0 Tanpa Adaptasi}}
+|ukuran     = 969,91 KB
+|dimensi    = 2.505  1.863
+|tahun      = 2014
+|seluler    = {{{seluler|no}}}
+|sblm       = Luang Prabang Takuhatsu   DSCF6990.JPG
+|des-sblm   = ''Pindapata'' di Luang Prabang, Laos.
+}}<noinclude>{{GPdoc|62 2014}}</noinclude>

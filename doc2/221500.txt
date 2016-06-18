@@ -1,0 +1,33 @@
+Pinguin mata-kuning
+{{Taxobox
+| name = Pinguin mata-kuning
+| status = EN
+| status_system = iucn3.1
+| trend = down
+| image = Yellow-eyed Penguin MC.jpg
+| image_width = 200px
+| regnum = [[Animalia]]
+| phylum = [[Chordata]]
+| classis = [[Aves]]
+| ordo = [[pinguin|Sphenisciformes]]
+| familia = [[Spheniscidae]]
+| genus = '''''[[Megadyptes]]'''''
+| genus_authority = [[Alphonse Milne-Edwards|Milne-Edwards]], 1880
+| species = '''''M. antipodes'''''
+| binomial = ''Megadyptes antipodes''
+| binomial_authority = ([[Jacques Bernard Hombron|Hombron]] & [[Honor Jacquinot|Jacquinot]], 1841)
+}}'''Pinguin mata-kuning''' (''Megadyptes antipodes'') atau '''Hoiho''' adalah [[pinguin]] endemik Selandia Baru. Dahulu pinguin ini dianggap berkerabat dekat dengan [[Pinguin kecil]] (''Eudyptula minor'') karena riset molekular menunjukkan hewan ini lebih berkerabat dengan pinguin dari genus ''[[Eudyptes]]''. Seperti kebanyakan pinguin lainnya, pinguin ini merupakan [[piscivora]].
+
+Spesies ini berkembang biak di sekitar South Island di Selandia Baru, begitu juga pulau-pulau [[Pulau Stewart|Stewart]], [[Kepulauan Auckland|Auckland]], dan [[Kepulauan Campbell|Campbell]]. Koloni pinguin di [[Semenanjung Otago]] merupakan pusat perhatian wisatawan yang terkenal; pengunjung dapat mengamati pinguin lebih dekat dari tempat persembunyian, parit-parit, dan terowongan.
+
+== Referensi ==
+{{Reflist}}
+* {{IUCN2008|assessors=BirdLife International|year=2008|id=144808|title=Megadyptes antipodes|downloaded=25 November 2008}} Database entry includes a range map and justification for why this species is endangered.
+
+{{burung-stub}}
+
+[[Kategori:Spheniscinae]]
+[[Kategori:Genera burung]]
+[[Kategori:Burung Selandia Baru]]
+[[Kategori:Pinguin]]
+[[Kategori:Burung yang tidak dapat terbang]]

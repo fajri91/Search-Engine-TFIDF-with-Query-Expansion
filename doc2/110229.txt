@@ -1,0 +1,61 @@
+Bandar Udara Borg El Arab
+{{Kotakinfo bandara|nama=Bandar Udara Borg El Arab
+|IATA=HBE
+|ICAO=HEBA
+|lokasi=[[Iskandariyah]]
+|negara=[[Mesir]]
+|pengelola=Bandar Udara Internasional Borg al Arab
+|tipe=Publik
+|waktu=UTC+2
+|elevasi=54 [[meter|m]] (177 [[feet|f]])
+|koordinat={{coor dms|30|55|04|N|29|41|47|E}}
+{{landaspacu|sudut=14/32|panjang_f=1,347|panjang_m=3,400|permukaan=Aspal}}
+{{landaspacu|sudut=14R/32L|panjang_f=1,347|panjang_m=411|permukaan=Aspal}}
+{{landaspacu|sudut=14S/32S|panjang_f=1,347|panjang_m=411|permukaan=Aspal}}
+}}
+
+'''Bandar Udara Borg El Arab''' {{airport codes|HBE|HEBA}} merupakan sebuah [[bandar udara]] yang terletak sekitar 25 km baratdaya [[Iskandariyah]], [[Mesir]].
+
+Pada tahun [[2006]], bandar udara ini melayani 231,049 penumpang.
+
+== Terminal dan Fasilitas ==
+Terdapat sebuah bangunan terminal dengan 3 counter check-in, 2 counter imigrasi, 1 ruang tunggu, 1 gerbang keberangkatan, 1 cafe dan toko souvenir EgyptAir.
+
+Karena kapasitas bandar udara yang terbatas, sebuah penerbangan dapat mendarat atau terbang setiap 4 jam. Terdapat rencana untuk memperluas bandar udara pada masa depan.
+
+== Maskapai Penerbangan dan Destinasi ==
+{{Airport-dest-list
+|[[Afriqiyah Airways]]|Benghazi, Tripoli
+|[[Air Algerie]]|Algiers
+|[[Air Arabia]]|Sharjah
+|[[Bahrain Air]]|Bahrain, Dammam
+|[[EgyptAir]]|Cairo
+|[[EgyptAir Express]]| Cairo, Hurghada, Sharm el-Sheikh
+|[[Gulf Air]]|Bahrain
+|[[Kuwait Airways]]|Kuwait 
+|[[Libyan Airlines]]|Benghazi, Misrata, Tripoli
+|[[Nas Air (Saudi Arabia)|Nas Air]]|Jeddah, Riyadh
+|[[Nile Air]]|Jeddah
+|[[Royal Air Maroc]]|Dubai
+|[[Royal Jordanian]]|Amman-Queen Alia
+|[[Saudia]]|Jeddah, Riyadh
+|[[Tunis Air]]|Tunis
+|[[Turkish Airlines]]|Istanbul-Atatrk
+}}
+
+Pada [[Oktober]] [[2007]], BMI (pemilik BMED yang baru) akan mengambil alih rute ini dan menggantikan British Airways sebagai maskapai nasional [[Britania Raya]] yang beroperasi dari London-Heathrow menuju Iskandariyah. BMI merupakan anggota Star Alliance.
+
+== Lihat pula ==
+* [[Bandar Udara Iskandariyah]]
+
+==Referensi==
+<references />
+
+== Pranala luar ==
+* {{WAD|HEBA}}
+*{{NWS-current|HEBA}}
+*{{ASN|HBE}}
+
+{{bandara-afrika-stub}}
+
+[[Kategori:Bandar udara di Mesir|Borg El Arab]]

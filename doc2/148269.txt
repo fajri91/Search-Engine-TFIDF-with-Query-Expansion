@@ -1,0 +1,50 @@
+Dronero
+{{Infobox Italian comune
+| name                = Dronero
+| official_name       = Comune di Dronero
+| native_name         = 
+| image_skyline       = Dronero, provincia di Cuneo.jpg
+| imagesize           = 
+| image_alt           = 
+| image_caption       = A view of Dronero
+| image_shield        = 
+| shield_alt          = 
+| shield_size         = px
+| image_map           = 
+| map_alt             = 
+| map_caption         = 
+| pushpin_label_position = 
+| pushpin_map_alt     = 
+| latd  = 44 |latm  = 28 |lats  =  |latNS  = N
+| longd = 7 |longm = 22 |longs =   |longEW = E 
+| coordinates_type    = type:city(7,142)_region:IT
+| coordinates_display = title
+| coordinates_footnotes = 
+| region              = [[Piedmont]]
+| province            = [[Province of Cuneo|Cuneo]] (CN)
+| frazioni            = Archero, Borgata Lerda, Borgata Nuova, Borgetto, Fornace, Gangotta Sottana, Lerda, Madonna Addolorata, Monastero, Murassone Nasani, Perotti, Ponte di Bedale, Pratavecchia, Ripoli, Ru del Prato, San Maurizio, Santa Lucia, Sant'Anna di Piossasco, Tetti
+| mayor_party         = 
+| mayor               = Giuseppe Reineri
+| area_footnotes      = 
+| area_total_km2      = 58.9
+| population_footnotes = <ref name="istat">All demographics and other statistics: Italian statistical institute [[National Institute of Statistics (Italy)|Istat]].</ref>
+| population_total    = 7151
+| population_as_of    = 31 May 2007
+| pop_density_footnotes = 
+| population_demonym  = Droneresi
+| elevation_footnotes = 
+| elevation_m         = 622
+| twin1               = 
+| twin1_country       = 
+| saint               = Madonna di Ripoli
+| day                 = Second Sunday in September
+| postal_code         = 12025
+| area_code           = 0171
+| website             = {{official|http://www.comune.dronero.cn.it}}
+| footnotes           = 
+}}
+
+'''Dronero''' ({{lang-oc|Draonier}}) adalah komune yang terletak di distrik [[Provinsi Cuneo]], [[Italia]]. Kota Dronero memiliki luas sebesar 58.9 km. Pada tahun 2004, Dronero memiliki penduduk sebanyak 7.142 jiwa.
+
+{{Province of Cuneo}}
+{{Cuneo-geo-stub}}

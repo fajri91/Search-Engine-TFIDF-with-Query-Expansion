@@ -1,0 +1,1117 @@
+Objek Messier
+'''Objek Messier''' adalah sekumpulan [[benda astronomi]] yang didaftar oleh [[astronom]] [[Perancis]] [[Charles Messier]] pada tahun 1771<ref>
+{{cite web
+|date=15 Juni 2007
+|title=Charles Messier's Catalog of Nebulae and Star Clusters 
+|url=http://seds.org/messier/xtra/history/m-cat.html
+| publisher=[[Students for the Exploration and Development of Space|SEDS]]
+|accessdate=2010-05-08
+|archiveurl=http://web.archive.org/web/20001203150700/http://seds.org/messier/xtra/history/m-cat.html|archivedate=2000-12-03}}</ref> Messier adalah seorang pemburu [[komet]], suatu saat Ia frustasi karena menemukan banyak objek yang mirip komet, tapi bukan komet. Akhirnya Ia bersama assistennya [[Pierre Mchain]] membuat daftar objek-objek tersebut supaya kerjanya tidak sia-sia.<ref>
+{{cite web
+ | author=
+ | date=25 February 2008
+ | title=The Messier Catalog
+ | url=http://seds.org/messier/
+ | work=SEDS Messier Database
+ | publisher=[[Students for the Exploration and Development of Space|SEDS]]
+ | accessdate=2010-05-08
+}}</ref>
+== Daftar dan edisi ==
+Edisi pertama mencakup 45 objek bernomor M1 sampai M45. Daftar Total yang diterbitkan oleh Messier akhirnya terdapat 103 objek. Namun dalam perkembangannya daftar tersebut mendapat tambahan dari para astronom lain. Penambahan pertama datang dari Nicolas Camille Flammarion tahun 1921, yang menambahkan M104. M105 M107 ditambahkan oleh Helen Sawyer Hogg pada tahun 1947, M108 dan M109 oleh Owen Gingerich pada tahun 1960, dan M110 oleh Kenneth Glyn Jones pada tahun 1967.<ref>
+{{cite book
+|author=Patrick Moore
+|year=1979
+|title=The Guinness Book of Astronomy
+|publisher=[[Guinness Superlatives]]
+|isbn=09-00-42476-1
+}}</ref>
+
+Katalog terakhir Messier dicantumkan pada buku Connaissance des Temps for 1784 (diterbitkan pada tahun 1781)).<ref>
+{{cite book
+|author=Charles Messier
+|year=1781
+|chapter=Catalogue des Nbuleuses & des amas d'toiles
+|title=Connaissance des Temps for 1784
+|pages=227267
+}}</ref><ref>
+{{cite web
+ | title=Original Messier Catalog of 1781
+ | work=Original Messier Catalog of 1781
+ | url=http://seds.org/messier/xtra/Mcat/mcat1781.html#messier1781
+ | publisher=[[Students for the Exploration and Development of Space|SEDS]]
+ | accessdate=2010-05-08
+|archiveurl=https://archive.is/Ad5i|archivedate=2012-06-29}}</ref>  Obyek yang dicantumkan tetap dikenal berdasarkan nomor urut pada buku tersebut.
+
+<!--
+
+Because Messier lived and did his astronomical work in France in the [[northern hemisphere]], the list he compiled contains only objects from the north [[celestial pole]] to a celestial latitude of about 35.7. Many impressive Southern objects, such as the [[Large Magellanic Cloud|Large]] and [[Small Magellanic Cloud|Small]] [[Magellanic Clouds]] are excluded from the list.
+
+All of the Messier objects are visible with binoculars or small telescopes (under favorable conditions); therefore they are popular viewing objects for amateur astronomers. In early spring, astronomers sometimes gather for "[[Messier marathon]]s", when all of the objects can be viewed over a single night.<ref>
+{{cite web
+ |author=
+ |date=22 January 2010
+ |title=The Messier Marathon
+ |url=http://seds.org/messier/xtra/marathon/marathon.html
+ |publisher=[[Students for the Exploration and Development of Space|SEDS]]
+ |accessdate=2010-05-08
+}}</ref>
+
+A summary of the astrophysics of each Messier object can be found in the ''Concise Catalog of Deep-sky Objects.''<ref>
+{{cite book
+ |author=W.H. Finlay
+ |date=2003
+ |title=Concise Catalog of Deep-sky Objects: Astrophysical Information for 500 Galaxies
+ |publisher=[[Springer (publisher)|Springer]]
+ |isbn=1-85233-691-9
+}}</ref>
+
+-->
+== Daftar objek Messier ==
+{{legend2|#eeeeff|[[Gugus terbuka]]|border=1px solid #aaaaaa}}
+{{legend2|#ffe4b5|[[Gugus bola]]|border=1px solid #aaaaaa}}
+{{legend2|#ffcccc|[[Nebula]]|border=1px solid #aaaaaa}}
+{{legend2|#ccffee|[[Nebula planet]]|border=1px solid #aaaaaa}}
+{{legend2|#ffccee|[[Sisa-sisa supernova]]|border=1px solid #aaaaaa}}
+{{legend2|#ffffcc|[[Galaksi]]|border=1px solid #aaaaaa}}
+{{legend2|#ffffff|Lain-lain|border=1px solid #aaaaaa}}
+{{-}}
+{| class="wikitable sortable" style="width:100%"
+|-
+! Nomor Messier
+! [[NGC|Nomor NGC]]
+! Nama umum
+! class="unsortable" style="width:84px"|Citra
+! Jenis objek
+! Jarak ([[tahun cahaya|ktc]])
+! [[Rasi bintang]]
+! [[Magnitudo semu]]
+|- style="background:#fce;"
+| [[Nebula Kepiting|M1]]<ref>{{cite web|url=http://www.seds.org/messier/Mdes/dm001.html|title=Messier 1|accessdate=2009-02-06|last=Messier|first=Charles|authorlink=Charles Messier|year=1771}}</ref>
+| NGC 1952
+| ''Nebula Kepiting''
+| style="text-align:center;"| [[Berkas:Crab Nebula.jpg|60px]]
+| [[Sisa-sisa supernova]]
+| 6.3
+| [[Taurus]]
+| 9.0
+|- style="background:moccasin;"
+| [[Messier 2|M2]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm002.html |title=Messier 2 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 7089
+| &nbsp;
+| style="text-align:center;"| [[Berkas:Messier 2 Hubble WikiSky.jpg|60px]]
+| [[Gugus bola]]
+| 36
+| [[Aquarius]]
+| 7.5
+|- style="background:moccasin;"
+| [[Messier 3|M3]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm003.html |title=Messier 3 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 5272
+| &nbsp;
+| style="text-align:center;"| [[Berkas:M3LRGB 891x674.jpg|60px]]
+| Gugus bola
+| 31
+| [[Canes Venatici]]
+| 7.0
+|- style="background:moccasin;"
+| [[Messier 4|M4]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm004.html |title=Messier 4 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 6121
+| &nbsp;
+| style="text-align:center;"| [[Berkas:Messier 4 Hubble WikiSky.jpg|60px]]
+| [[Gugus bola]]
+| 7
+| [[Scorpius]]
+| 7.5
+|- style="background:moccasin;"
+| [[Messier 5|M5]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm005.html |title=Messier 5 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 5904
+| &nbsp;
+| style="text-align:center;"| [[Berkas:Messier 5 Hubble WikiSky.jpg|60px]]
+| [[Gugus bola]]
+| 23
+| [[Serpens]]
+| 7.0
+|- style="background:#eef;"
+| [[Gugus Kupu-kupu|M6]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm006.html |title=Messier 6 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 6405
+| ''Gugus Kupu-kupu''
+| style="text-align:center;"| [[Berkas:M6a.jpg|60px]]
+| [[Gugus terbuka]]
+| 2
+| [[Scorpius]]
+| 4.5
+|- style="background:#eef;"
+| [[Messier 7|M7]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm007.html |title=Messier 7 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 6475
+| ''Gugus Ptolemy''
+| style="text-align:center;"| [[Berkas:Open-cluster-Messier-7.jpeg|60px]]
+| [[Gugus terbuka]]
+| 1
+| [[Scorpius]]
+| 3.5
+|- style="background:#fcc;"
+| [[Nebula Laguna|M8]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm008.html |title=Messier 8 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 6523
+| ''Nebula Laguna''
+| style="text-align:center;"| [[Berkas:LagoonHunterWilson.jpg|60px]]
+| [[Gugus bintang|Gugus]] dengan [[nebula]]
+| 6.5
+| [[Sagittarius]]
+| 6.0
+|- style="background:moccasin;"
+| [[Messier 9|M9]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm009.html |title=Messier 9 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 6333
+| &nbsp;
+| style="text-align:center;"| [[Berkas:Messier object 009.jpg|60px]]
+| [[Gugus bola]]
+| 26
+| [[Ophiuchus]]
+| 9.0
+|- style="background:moccasin;"
+| [[Messier 10|M10]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm010.html |title=Messier 10 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 6254
+| &nbsp;
+| style="text-align:center;"| [[Berkas:Messier 10 Hubble WikiSky.jpg|60px]]
+| [[Gugus bola]]
+| 13
+| [[Ophiuchus]]
+| 7.5
+|- style="background:#eef;"
+| [[Gugus Bebek Liar|M11]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm011.html |title=Messier 11 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 6705
+| ''Gugus Bebek Liar''
+| style="text-align:center;"| [[Berkas:Messier11.jpg|60px]]
+| [[Gugus terbuka]]
+| 6
+| [[Scutum]]
+| 7.0
+|- style="background:moccasin;"
+| [[Messier 12|M12]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm012.html |title=Messier 12 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 6218
+| &nbsp;
+| style="text-align:center;"| [[Berkas:M12 Hubble.jpg|60px]]
+| [[Gugus bola]]
+| 18
+| [[Ophiuchus]]
+| 8.0
+|- style="background:moccasin;"
+| [[Messier 13|M13]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm013.html |title=Messier 13 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 6205
+| ''Gugus Bola Hercules''
+| style="text-align:center;"| [[Berkas:Messier 13 Hubble WikiSky.jpg|60px]]
+| [[Gugus bola]]
+| 22
+| [[Hercules (rasi bintang)|Hercules]]
+| 5.8
+|-class="sortbottom"
+|- style="background:moccasin;"
+| [[Messier 14|M14]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm014.html |title=Messier 14 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 6402
+| &nbsp;
+| style="text-align:center;"| [[Berkas:Messier object 014.jpg|60px]]
+| [[Gugus bola]]
+| 27
+| [[Ophiuchus]]
+| 9.5
+|- style="background:moccasin;"
+| [[Messier 15|M15]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm015.html |title=Messier 15 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 7078
+| 
+| style="text-align:center;"| [[Berkas:Messier 15 Hubble WikiSky.jpg|60px]]
+| [[Gugus bola]]
+| 33
+| [[Pegasus (rasi bintang)|Pegasus]]
+| 7.5
+|- style="background:#fcc;"
+| [[Nebula Elang|M16]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm016.html |title=Messier 16 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 6611
+| ''Nebula Elang''
+| style="text-align:center;"| [[Berkas:Stellar spire eagle nebula.jpg|30px]]
+| Gugus dengan [[daerah H II]]
+| 7
+| [[Serpens]]
+| 6.5
+|- style="background:#fcc;"
+| [[Nebula Omega|M17]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm017.html |title=Messier 17 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 6618
+| ''Nebula Omega, Angsa, Tapal Kuda, atau Lobster''
+| style="text-align:center;"| [[Berkas:Messier 17.jpg|60px]]
+| Gugus dengan daerah H II
+| 5
+| [[Sagittarius]]
+| 6.0
+|- style="background:#eef;"
+| [[Messier 18|M18]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm018.html |title=Messier 18 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 6613
+| &nbsp;
+| style="text-align:center;"| [[Berkas:Messier18.jpg|60px]]
+| [[Gugus terbuka]]
+| 6
+| [[Sagittarius]]
+| 8.0
+|- style="background:moccasin;"
+| [[Messier 19|M19]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm019.html |title=Messier 19 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 6273
+| &nbsp;
+| style="text-align:center;"| [[Berkas:Messier object 019.jpg|60px]]
+| [[Gugus bola]]
+| 27
+| [[Ophiuchus]]
+| 8.5
+|- style="background:#fcc;"
+| [[Nebula Trifid|M20]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm020.html |title=Messier 20 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 6514
+| ''Nebula Trifid''
+| style="text-align:center;"| [[Berkas:Trifid.nebula.arp.750pix.jpg|60px]]
+| Gugus dengan daerah H II
+| 5.2
+| [[Sagittarius]]
+| 6.3
+|- style="background:#eef;"
+| [[Messier 21|M21]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm021.html |title=Messier 21 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 6531
+| &nbsp;
+| style="text-align:center;"| [[Berkas:Messier object 021.jpg|60px]]
+| [[Gugus terbuka]]
+| 3
+| [[Sagittarius]]
+| 7.0
+|- style="background:moccasin;"
+| [[Messier 22|M22]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm022.html |title=Messier 22 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 6656
+| ''Gugus Sagittarius''
+| style="text-align:center;"| [[Berkas:Messier object 022.jpg|60px]]
+| [[Gugus bola]]
+| 10
+| [[Sagittarius]]
+| 5.1
+|- style="background:#eef;"
+| [[Messier 23|M23]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm023.html |title=Messier 23 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 6494
+| &nbsp;
+| style="text-align:center;"| [[Berkas:Messier object 023.jpg|60px]]
+| [[Gugus terbuka]]
+| 4.5
+| [[Sagittarius]]
+| 6.0
+|- style="background:#fff;"
+| [[Awan Sagitarius|M24]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm024.html |title=Messier 24 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| IC 4715
+| ''Awan Bintang Sagittarius''
+| style="text-align:center;"| [[Berkas:Messier 024 2MASS.jpg|60px]]
+| [[Awan bintang]] [[Bima Sakti]]
+| 10.0
+| [[Sagittarius]]
+| 4.6
+|- style="background:#eef;"
+| [[Messier 25|M25]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm025.html |title=Messier 25 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| IC 4725
+| &nbsp;
+| style="text-align:center;"| [[Berkas:Messier object 025.jpg|60px]]
+| [[Gugus terbuka]]
+| 2
+| [[Sagittarius]]
+| 4.9
+|- style="background:#eef;"
+| [[Messier 26|M26]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm026.html |title=Messier 26 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 6694
+| &nbsp;
+| style="text-align:center;"|[[Berkas:Messier object 026.jpg|60px]]
+| [[Gugus terbuka]]
+| 5
+| [[Scutum]]
+| 9.5
+|- style="background:#cfe;"
+| [[Nebula Dumbbell|M27]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm027.html |title=Messier 27 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 6853
+| ''Nebula Dumbbell''
+| style="text-align:center;"| [[Berkas:Messier27.jpg|60px]]
+| [[Nebula Planet]]
+| 1.25
+| [[Vulpecula]]
+| 7.5
+|- style="background:moccasin;"
+| [[Messier 28|M28]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm028.html |title=Messier 28 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 6626
+| &nbsp;
+| style="text-align:center;"| [[Berkas:Messier28.jpg|60px]]
+| [[Gugus bola]]
+| 18
+| [[Sagittarius]]
+| 8.5
+|- style="background:#eef;"
+| [[Messier 29|M29]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm029.html |title=Messier 29 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 6913
+| &nbsp;
+| style="text-align:center;"| [[Berkas:Messier object 029.jpg|60px]]
+| [[Gugus terbuka]]
+| 7.2
+| Cignus
+| 9.0
+|- style="background:moccasin;"
+| [[Messier 30|M30]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm030.html |title=Messier 30 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 7099
+| &nbsp;
+| style="text-align:center;"| [[Berkas:Messier object 030.jpg|60px]]
+| [[Gugus bola]]
+| 25
+| [[Capricornus]]
+| 8.5
+|- style="background:#ffc;"
+| [[Galaksi Andromeda|M31]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm031.html |title=Messier 31 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 224
+| Galaksi Andromeda
+| style="text-align:center;"| [[Berkas:M31bobo.jpg|60px]]
+| Galaksi
+| 2,500
+| [[Galaksi Andromeda]]
+| 3.4
+|- style="background:#ffc;"
+| [[Messier 32|M32]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm032.html |title=Messier 32 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 221
+| &nbsp;
+| style="text-align:center;"| [[Berkas:M32.jpg|60px]]
+| Galaksi
+| 2,900
+| [[Galaksi Andromeda]]
+| 10.0
+|- style="background:#ffc;"
+| [[Galaksi Triangulum|M33]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm033.html |title=Messier 33 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 598
+| Galaksi Triangulum
+| style="text-align:center;"|[[Berkas:M33.jpg|60px]]
+| Galaksi
+| 2,810
+| [[Triangulum]]
+| 5.7
+|- style="background:#eef;"
+| [[Messier 34|M34]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm034.html |title=Messier 34 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 1039
+| &nbsp;
+| style="text-align:center;"|[[Berkas:M34 2mass atlas.jpg|60px]]
+| [[Gugus terbuka]]
+| 1.4
+| Perseus
+| 6.0
+|- style="background:#eef;"
+| [[Messier 35|M35]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm035.html |title=Messier 35 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 2168
+| &nbsp;
+| style="text-align:center;"|[[Berkas:M35atlas.jpg|60px]]
+| [[Gugus terbuka]]
+| 2.8
+| [[Gemini]]
+| 5.5
+|- style="background:#eef;"
+| [[Messier 36|M36]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm036.html |title=Messier 36 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 1960
+| &nbsp;
+| style="text-align:center;"|[[Berkas:M36a.jpg|60px]]
+| [[Gugus terbuka]]
+| 4.1
+| [[Auriga]]
+| 6.5
+|- style="background:#eef;"
+| [[Messier 37|M37]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm037.html |title=Messier 37 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 2099
+| &nbsp;
+| style="text-align:center;"|[[Berkas:M37a.jpg|60px]]
+| [[Gugus terbuka]]
+| 4.6
+| [[Auriga]]
+| 6.0
+|- style="background:#eef;"
+| [[Messier 38|M38]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm038.html |title=Messier 38 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 1912
+| &nbsp;
+| style="text-align:center;"|[[Berkas:Messier object 038.jpg|60px]]
+| [[Gugus terbuka]]
+| 4.2
+| [[Auriga]]
+| 7.0
+|- style="background:#eef;"
+| [[Messier 39|M39]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm039.html |title=Messier 39 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 7092
+| &nbsp;
+| style="text-align:center;"|[[Berkas:Messier object 039.jpg|60px]]
+| [[Gugus terbuka]]
+| 0.8
+| [[Cygnus]]
+| 5.5
+|-
+| [[Winnecke 4|M40]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm040.html |title=Messier 40 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| &nbsp;
+| ''Winnecke 4''
+| style="text-align:center;"|[[Berkas:Messier object 40.jpg|60px]]
+| [[Bintang ganda]] WNC4
+| 0.5
+| [[Ursa Major]]
+| 9.0
+|- style="background:#eef;"
+| [[Messier 41|M41]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm041.html |title=Messier 41 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 2287
+| &nbsp;
+| style="text-align:center;"|[[Berkas:Messier 041 2MASS.jpg|60px]]
+| [[Gugus terbuka]]
+| 2.3
+| [[Canis Major]]
+| 4.5
+|- style="background:#fcc;"
+| [[Nebula Orion|M42]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm042.html |title=Messier 42 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 1976
+| ''Nebula Orion''
+| style="text-align:center;"|[[Berkas:Orion Nebula - Hubble 2006 mosaic 18000.jpg|60px]]
+| Nebula, [[daerah H II]]
+| 1.6
+| [[Orion]]
+| 4.0
+|- style="background:#fcc;"
+| [[Messier 43|M43]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm043.html |title=Messier 43 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 1982
+| ''Nebula De Mairan''
+| style="text-align:center;"|[[Berkas:Messier object 043.jpg|60px]]
+| Nebula, [[daerah H II]]
+| 1.6
+| [[Orion]]
+| 7.0
+|- style="background:#eef;"
+| [[Gugus Sarang Lebah|M44]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm044.html |title=Messier 44 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 2632
+| ''Gugus Sarang Lebah''
+| style="text-align:center;"|[[Berkas:Messier 044 2MASS.jpg|60px]]
+| [[Gugus terbuka]]
+| 0.6
+| [[Cancer]]
+| 3.7
+|- style="background:#eef;"
+| [[Pleiades (gugus bintang)|M45]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm045.html |title=Messier 45 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| &nbsp;
+| ''Pleiades''
+| style="text-align:center;"|[[Berkas:Bob Star - M45 Carranza Field (by).jpg|60px]]
+| [[Gugus terbuka]]
+| 0.4
+| [[Taurus]]
+| 1.6
+|- style="background:#eef;"
+| [[Messier 46|M46]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm046.html |title=Messier 46 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 2437
+| &nbsp;
+| style="text-align:center;"|[[Berkas:M46a.jpg|60px]]
+| [[Gugus terbuka]]
+| 5.4
+| [[Puppis]]
+| 6.5
+|- style="background:#eef;"
+| [[Messier 47|M47]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm047.html |title=Messier 47 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 2422
+| &nbsp;
+| style="text-align:center;"|[[Berkas:M47a.jpg|60px]]
+| [[Gugus terbuka]]
+| 1.6
+| [[Puppis]]
+| 4.5
+|- style="background:#eef;"
+| [[Messier 48|M48]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm048.html |title=Messier 48 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 2548
+| &nbsp;
+| style="text-align:center;"|[[Berkas:M48a.jpg|60px]]
+| [[Gugus terbuka]]
+| 1.5
+| [[Hydra]]
+| 5.5
+|- style="background:#ffc;"
+| [[Messier 49|M49]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm049.html |title=Messier 49 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 4472
+| &nbsp;
+| style="text-align:center;"|[[Berkas:Messier 49 Hubble WikiSky.jpg|60px]]
+| [[Galaksi]]
+| 60,000
+| [[Virgo]]
+| 10.0
+|- style="background:#eef;"
+| [[Messier 50|M50]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm050.html |title=Messier 50 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 2323
+| &nbsp;
+| style="text-align:center;"|[[Berkas:M50a.jpg|60px]]
+| [[Gugus terbuka]]
+| 3
+| [[Monoceros]]
+| 7.0
+|- style="background:#ffc;"
+| [[Galaksi Pusaran|M51]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm051.html |title=Messier 51 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 5194, [[NGC 5195]]
+| ''Galaksi Pusaran''
+| style="text-align:center;"|[[Berkas:Whirlpool (M51).jpg|60px]]
+| [[Galaksi#Spiral|Galaksi spiral]]
+| 37,000
+| [[Canes Venatici]]
+| 8.4
+|- style="background:#eef;"
+| [[Messier 52|M52]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm052.html |title=Messier 52 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 7654
+| &nbsp;
+| style="text-align:center;"|[[Berkas:M52atlas.jpg|60px]]
+| [[Gugus terbuka]]
+| 7
+| [[Cassiopeia]]
+| 8.0
+|- style="background:moccasin;"
+| [[Messier 53|M53]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm053.html |title=Messier 53 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 5024
+| &nbsp;
+| style="text-align:center;"| [[Berkas:Globular Cluster M53.jpg|60px]]
+| [[Gugus bola]]
+| 56
+| [[Coma Berenices]]
+| 8.5
+|- style="background:moccasin;"
+| [[Messier 54|M54]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm054.html |title=Messier 54 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 6715
+| &nbsp;
+| style="text-align:center;"|[[Berkas:Messier54.jpg|60px]]
+| [[Gugus bola]]
+| 83
+| [[Sagittarius]]
+| 8.5
+|- style="background:moccasin;"
+| [[Messier 55|M55]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm055.html |title=Messier 55 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 6809
+| &nbsp;
+| style="text-align:center;"|[[Berkas:Messier55.jpg|60px]]
+| [[Gugus bola]]
+| 17
+| [[Sagittarius]]
+| 7.0
+|- style="background:moccasin;"
+| [[Messier 56|M56]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm056.html |title=Messier 56 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 6779
+| &nbsp;
+| style="text-align:center;"| [[Berkas:M56-LRGB.jpg|60px]]
+| [[Gugus bola]]
+| 32
+| [[Lyra]]
+| 9.5
+|- style="background:#cfe;"
+| [[Nebula Cincin|M57]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm057.html |title=Messier 57 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 6720
+| ''Nebula Cincin''
+| style="text-align:center;"| [[Berkas:Ring Nebula.jpg|60px]]
+| [[Nebula planet]]
+| 2.3
+| [[Lyra]]
+| 8.8
+|- style="background:#ffc;"
+| [[Messier 58|M58]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm058.html |title=Messier 58 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 4579
+| &nbsp;
+| style="text-align:center;"|[[Berkas:M58s.jpg|60px]]
+| [[Galaksi]]
+| 60,000
+| [[Virgo]]
+| 11.0
+|- style="background:#ffc;"
+| [[Messier 59|M59]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm059.html |title=Messier 59 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 4621
+| &nbsp;
+| style="text-align:center;"|[[Berkas:Messier59.jpg|60px]]
+| [[Galaksi]]
+| 60,000
+| [[Virgo]]
+| 11.5
+|- style="background:#ffc;"
+| [[Messier 60|M60]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm060.html |title=Messier 60 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 4649
+| &nbsp;
+| style="text-align:center;"| [[Berkas:Messier object 060.jpg|60px]]
+| [[Galaksi]]
+| 60,000
+| [[Virgo]]
+| 10.5
+|- style="background:#ffc;"
+| [[Messier 61|M61]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm061.html |title=Messier 61 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 4303
+| &nbsp;
+| style="text-align:center;"| [[Berkas:Messier object 061.jpg|60px]]
+| [[Galaksi#Spiral|Galaksi spiral]]
+| 60,000
+| [[Virgo]]
+| 10.5
+|- style="background:moccasin;"
+| [[Messier 62|M62]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm062.html |title=Messier 62 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 6266
+| &nbsp;
+| style="text-align:center;"| [[Berkas:Messier object 062.jpg|60px]]
+| [[Gugus bola]]
+| 22
+| [[Ophiuchus]]
+| 8.0
+|- style="background:#ffc;"
+| [[Galaksi Bunga Matahari|M63]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm063.html |title=Messier 63 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 5055
+| ''Galaksi Bunga Matahari''
+| style="text-align:center;"| [[Berkas:Messier 63 GALEX WikiSky.jpg|60px]]
+| [[Galaksi#Spiral|Galaksi spiral]]
+| 37,000
+| [[Canes Venatici]]
+| 8.5
+|- style="background:#ffc;"
+| [[Galaksi Mata Hitam|M64]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm064.html |title=Messier 64 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 4826
+| ''Galaksi Mata Hitam''
+| style="text-align:center;"| [[Berkas:Blackeyegalaxy.jpg|60px]]
+| [[Galaksi#Spiral|Galaksi spiral]]
+| 12,000
+| [[Coma Berenices]]
+| 9.0
+|- style="background:#ffc;"
+| [[Messier 65|M65]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm065.html |title=Messier 65 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 3623
+| ''Leo Triplet''
+| style="text-align:center;"| [[Berkas:M65.jpg|60px]]
+| [[Galaksi]]
+| 35,000
+| [[Leo]]
+| 10.5
+|- style="background:#ffc;"
+| [[Messier 66|M66]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm066.html |title=Messier 66 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 3627
+| ''Leo Triplet''
+| style="text-align:center;"| [[Berkas:Sig05-016.jpg|60px]]
+| [[Galaksi]]
+| 35,000
+| [[Leo]]
+| 10.0
+|- style="background:#eef;"
+| [[Messier 67|M67]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm067.html |title=Messier 67 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 2682
+| &nbsp;
+| style="text-align:center;"| [[Berkas:Messier object 067.jpg|60px]]
+| [[Gugus terbuka]]
+| 2.25
+| [[Cancer]]
+| 7.5
+|- style="background:moccasin;"
+| [[Messier 68|M68]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm068.html |title=Messier 68 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 4590
+| &nbsp;
+| style="text-align:center;"|[[Berkas:Messier object 068.jpg|60px]]
+| [[Gugus bola]]
+| 32
+| [[Hydra]]
+| 9.0
+|- style="background:moccasin;"
+| [[Messier 69|M69]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm069.html |title=Messier 69 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 6637
+| &nbsp;
+| style="text-align:center;"| [[Berkas:Messier object 069.jpg|60px]]
+| [[Gugus bola]]
+| 25
+| [[Sagittarius]]
+| 9.0
+|- style="background:moccasin;"
+| [[Messier 70|M70]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm070.html |title=Messier 70 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 6681
+| &nbsp;
+| style="text-align:center;"| [[Berkas:Messier70.jpg|60px]]
+| [[Gugus bola]]
+| 28
+| [[Sagittarius]]
+| 9.0
+|- style="background:moccasin;"
+| [[Messier 71|M71]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm071.html |title=Messier 71 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 6838
+| &nbsp;
+| style="text-align:center;"|[[Berkas:Messier71.jpg|60px]]
+| [[Gugus bola]]
+| 12
+| [[Sagitta]]
+| 8.5
+|- style="background:moccasin;"
+| [[Messier 72|M72]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm072.html |title=Messier 72 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 6981
+| &nbsp;
+| style="text-align:center;"| [[Berkas:Messier72.jpg|60px]]
+| [[Gugus bola]]
+| 53
+| [[Aquarius]]
+| 10.0
+|-
+| [[Messier 73|M73]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm073.html |title=Messier 73 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 6994
+| &nbsp;
+| style="text-align:center;"| [[Berkas:Messier 073 2MASS.jpg|60px]]
+| [[Asterism]]
+| &nbsp;
+| [[Aquarius]]
+| 9.0
+|- style="background:#ffc;"
+| [[Messier 74|M74]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm074.html |title=Messier 74 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 628
+| &nbsp;
+| style="text-align:center;"| [[Berkas:Messier 74 by HST.jpg|60px]]
+| [[Galaksi#Spiral|Galaksi spiral]]
+| 35,000
+| [[Pisces]]
+| 10.5
+|- style="background:moccasin;"
+| [[Messier 75|M75]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm075.html |title=Messier 75 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 6864
+| &nbsp;
+| style="text-align:center;"| [[Berkas:Messier75.jpg|60px]]
+| [[Gugus bola]]
+| 58
+| [[Sagittarius]]
+| 9.5
+|- style="background:#cfe;"
+| [[Nebula Dumbbell Kecil|M76]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm076.html |title=Messier 76 |accessdate=2009-02-06 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 650, NGC 651
+| ''Nebula Dumbbell Kecil''
+| style="text-align:center;"| [[Berkas:M76-RL5-DDmin-Gamma-LRGB 883x628.jpg|60px]]
+| [[Nebula planet]]
+| 3.4
+| [[Perseus]]
+| 10.1
+|- style="background:#ffc;"
+| [[Messier 77|M77]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm077.html |title=Messier 77 |accessdate=2009-02-07 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 1068
+| ''Cetus A''
+| style="text-align:center;"| [[Berkas:NGC1068-hst-R658GB814.jpg|60px]]
+| [[Galaksi#Spiral|Galaksi spiral]]
+| 60,000
+| [[Cetus]]
+| 10.5
+|- style="background:#fcc;"
+| [[Messier 78|M78]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm078.html |title=Messier 78 |accessdate=2009-02-07 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 2068
+| &nbsp;
+| style="text-align:center;"| [[Berkas:Messier 78.jpg|60px]]
+| [[Nebula]]
+| 1.6
+| [[Orion]]
+| 8.0
+|- style="background:moccasin;"
+| [[Messier 79|M79]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm079.html |title=Messier 79 |accessdate=2009-02-07 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 1904
+| &nbsp;
+| style="text-align:center;"| [[Berkas:M79a.jpg|60px]]
+| [[Gugus bola]]
+| 40
+| [[Lepus]]
+| 8.5
+|- style="background:moccasin;"
+| [[Messier 80|M80]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm080.html |title=Messier 80 |accessdate=2009-02-07 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 6093
+| &nbsp;
+| style="text-align:center;"| [[Berkas:A Swarm of Ancient Stars - GPN-2000-000930.jpg|60px]]
+| [[Gugus bola]]
+| 27
+| [[Scorpius]]
+| 8.5
+|- style="background:#ffc;"
+| [[Messier 81|M81]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm081.html |title=Messier 81 |accessdate=2009-02-07 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 3031
+| ''Bode's Galaksi''
+| style="text-align:center;"| [[Berkas:Sig07-009.jpg|60px]]
+| [[Galaksi#Spiral|Galaksi spiral]]
+| 12,000
+| [[Ursa Major]]
+| 6.9
+|- style="background:#ffc;"
+| [[Messier 82|M82]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm082.html |title=Messier 82 |accessdate=2009-02-07 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 3034
+| ''Galaksi Cerutu''
+| style="text-align:center;"| [[Berkas:Messier82.jpg|60px]]
+| [[Galaksi]]
+| 11,000
+| [[Ursa Major]]
+| 9.5
+|- style="background:#ffc;"
+| [[Messier 83|M83]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm083.html |title=Messier 83 |accessdate=2009-02-07 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 5236
+| ''Galaksi Cacing Selatan''
+| style="text-align:center;"| [[Berkas:M83g.jpg|60px]]
+| [[Galaksi]]
+| 10,000
+| [[Hydra]]
+| 8.5
+|- style="background:#ffc;"
+| [[Messier 84|M84]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm084.html |title=Messier 84 |accessdate=2009-02-07 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 4374
+| &nbsp;
+| style="text-align:center;"| [[Berkas:Messier 84 nucleus Hubble.jpg|60px]]
+| [[Galaksi]]
+| 60,000
+| [[Virgo]]
+| 11.0
+|- style="background:#ffc;"
+| [[Messier 85|M85]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm085.html |title=Messier 85 |accessdate=2009-02-07 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 4382
+| &nbsp;
+| style="text-align:center;"| [[Berkas:Messier 85 Hubble WikiSky.jpg|60px]]
+| [[Galaksi]]
+| 60,000
+| [[Coma Berenices]]
+| 10.5
+|- style="background:#ffc;"
+| [[Messier 86|M86]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm086.html |title=Messier 86 |accessdate=2009-02-07 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 4406
+| &nbsp;
+| style="text-align:center;"| [[Berkas:Messier 86 Hubble WikiSky.jpg|60px]]
+| [[Galaksi]]
+| 60,000
+| [[Virgo]]
+| 11.0
+|- style="background:#ffc;"
+| [[Messier 87|M87]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm087.html |title=Messier 87 |accessdate=2009-02-07 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 4486
+| ''Virgo A''
+| style="text-align:center;"| [[Berkas:M87 jet.jpg|60px]]
+| [[Galaksi]]
+| 60,000
+| [[Virgo]]
+| 11.0
+|- style="background:#ffc;"
+| [[Messier 88|M88]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm088.html |title=Messier 88 |accessdate=2009-02-07 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 4501
+| &nbsp;
+| style="text-align:center;"| [[Berkas:Messier object 088.jpg|60px]]
+| [[Galaksi]]
+| 60,000
+| [[Coma Berenices]]
+| 11.0
+|- style="background:#ffc;"
+| [[Messier 89|M89]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm089.html |title=Messier 89 |accessdate=2009-02-07 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 4552
+| &nbsp;
+| style="text-align:center;"| [[Berkas:Messier object 089.jpg|60px]]
+| [[Galaksi]]
+| 60,000
+| [[Virgo]]
+| 11.5
+|- style="background:#ffc;"
+| [[Messier 90|M90]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm090.html |title=Messier 90 |accessdate=2009-02-07 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 4569
+| &nbsp;
+| style="text-align:center;"| [[Berkas:Messier object 090.jpg|60px]]
+| [[Galaksi]]
+| 60,000
+| [[Virgo]]
+| 11.0
+|- style="background:#ffc;"
+| [[Messier 91|M91]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm091.html |title=Messier 91 |accessdate=2009-02-07 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 4548
+| &nbsp;
+| style="text-align:center;"| [[Berkas:Messier91.jpg|60px]]
+| [[Galaksi]]
+| 60,000
+| [[Coma Berenices]]
+| 11.0
+|- style="background:moccasin;"
+| [[Messier 92|M92]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm092.html |title=Messier 92 |accessdate=2009-02-08 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 6341
+| &nbsp;
+| style="text-align:center;"| [[Berkas:Globular Cluster M92.JPG|60px]]
+| [[Gugus bola]]
+| 26
+| [[Hercules]]
+| 7.5
+|- style="background:#eef;"
+| [[Messier 93|M93]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm093.html |title=Messier 93 |accessdate=2009-02-08 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 2447
+| &nbsp;
+| style="text-align:center;"| [[Berkas:Messier object 093.jpg|60px]]
+| [[Gugus terbuka]]
+| 4.5
+| [[Puppis]]
+| 6.5
+|- style="background:#ffc;"
+| [[Messier 94|M94]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm094.html |title=Messier 94 |accessdate=2009-02-08 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 4736
+| &nbsp;
+| style="text-align:center;"| [[Berkas:Messier object 094.jpg|60px]]
+| [[Galaksi]]
+| 14,500
+| [[Canes Venatici]]
+| 9.5
+|- style="background:#ffc;"
+| [[Messier 95|M95]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm095.html |title=Messier 95 |accessdate=2009-02-08 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 3351
+| &nbsp;
+| style="text-align:center;"| [[Berkas:Messier95 spitzer.jpg|60px]]
+| [[Galaksi]]
+| 38,000
+| [[Leo]]
+| 11.0
+|- style="background:#ffc;"
+| [[Messier 96|M96]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm096.html |title=Messier 96 |accessdate=2009-02-08 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 3368
+| &nbsp;
+| style="text-align:center;"| [[Berkas:Messier object 096.jpg|60px]]
+| [[Galaksi]]
+| 38,000
+| [[Leo]]
+| 10.5
+|- style="background:#cfe;"
+| [[Nebula Burung Hantu|M97]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm097.html |title=Messier 97 |accessdate=2009-02-08 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 3587
+| ''Nebula Burung Hantu''
+| style="text-align:center;"| [[Berkas:M97 FTN.jpg|60px]]
+| [[Nebula planet]]
+| 2.6
+| [[Ursa Major]]
+| 9.9
+|- style="background:#ffc;"
+| [[Messier 98|M98]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm098.html |title=Messier 98 |accessdate=2009-02-08 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 4192
+| &nbsp;
+| style="text-align:center;"| [[Berkas:M-98.jpg|60px]]
+| [[Galaksi]]
+| 60,000
+| [[Coma Berenices]]
+| 11.0
+|- style="background:#ffc;"
+| [[Messier 99|M99]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm099.html |title=Messier 99 |accessdate=2009-02-08 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 4254
+| &nbsp;
+| style="text-align:center;"| [[Berkas:M99.jpg|60px]]
+| [[Galaksi]]
+| 60,000
+| [[Coma Berenices]]
+| 10.5
+|- style="background:#ffc;"
+| [[Messier 100|M100]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm100.html |title=Messier 100 |accessdate=2009-02-08 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 4321
+| &nbsp;
+| style="text-align:center;"| [[Berkas:Spiral Galaxy M100.jpg|60px]]
+| [[Galaksi]]
+| 60,000
+| [[Coma Berenices]]
+| 10.5
+|- style="background:#ffc;"
+| [[Galaksi Kincir Angin|M101]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm101.html |title=Messier 101 |accessdate=2009-02-08 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 5457
+| ''Galaksi Kincir Angin''
+| style="text-align:center;"| [[Berkas:M101 hires STScI-PRC2006-10a.jpg|60px]]
+| [[Galaksi#Spiral|Galaksi spiral]]
+| 27,000
+| [[Ursa Major]]
+| 7.9
+|- style="background:#fff;"
+| [[Messier 102|M102]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm102.html |title=Messier 102 |accessdate=2009-02-08 |last=Messier |first=Charles |year=1771}}</ref>
+| ''(Belum teridentifikasi sepenuhnya)''<ref>{{cite web |url=http://www.maa.clell.de/Messier/E/m102.html |title=Messier 102 |accessdate=2009-02-06 |last=Frommert |first=Hartmut |coauthors=Kronberg, Christine |year=1995-05 |publisher=Usenet}}</ref>
+| &nbsp;
+| style="text-align:center;"|
+| &nbsp;
+| &nbsp;
+| &nbsp;
+| &nbsp;
+|- style="background:#eef;"
+| [[Messier 103|M103]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm103.html |title=Messier 103 |accessdate=2009-02-08 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 581
+| &nbsp;
+| style="text-align:center;"| [[Berkas:Messier object 103.jpg|60px]]
+| [[Gugus terbuka]]
+| 8
+| [[Cassiopeia]]
+| 7.0
+|- style="background:#ffc;"
+| [[Galaksi Sombrero|M104]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm104.html |title=Messier 104 |accessdate=2009-02-08 |last=Messier |first=Charles |year=1771}}</ref>
+| NGC 4594
+| ''Galaksi Sombrero''
+| style="text-align:center;"| [[Berkas:M104 ngc4594 sombrero galaxy hi-res.jpg|60px]]
+| [[Galaksi]]
+| 50,000
+| [[Virgo]]
+| 9.5
+|- style="background:#ffc;"
+| [[Messier 105|M105]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm105.html |title=Messier 105 |accessdate=2009-02-08 |last=Messier |first=Charles |year=1783}}</ref>
+| NGC 3379
+| &nbsp;
+| style="text-align:center;"| [[Berkas:Messier object 105.jpg|60px]]
+| [[Galaksi]]
+| 38,000
+| [[Leo]]
+| 11.0
+|- style="background:#ffc;"
+| [[Messier 106|M106]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm106.html |title=Messier 106 |accessdate=2009-02-08 |last=Messier |first=Charles |year=1783}}</ref>
+| NGC 4258
+| &nbsp;
+| style="text-align:center;"| [[Berkas:Messier 106 by Spitzer.jpg|60px]]
+| [[Galaksi]]
+| 25,000
+| [[Canes Venatici]]
+| 9.5
+|- style="background:moccasin;"
+| [[Messier 107|M107]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm107.html |title=Messier 107 |accessdate=2009-02-08 |last=Messier |first=Charles |year=1783}}</ref>
+| NGC 6171
+| &nbsp;
+| style="text-align:center;"| [[Berkas:Messier object 107.jpg|60px]]
+| [[Gugus bola]]
+| 20
+| [[Ophiuchus]]
+| 10.0
+|- style="background:#ffc;"
+| [[Messier 108|M108]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm108.html |title=Messier 108 |accessdate=2009-02-08 |last=Messier |first=Charles |year=1783}}</ref>
+| NGC 3556
+| &nbsp;
+| style="text-align:center;"| [[Berkas:Messier 108 Hubble WikiSky.jpg|60px]]
+| [[Galaksi]]
+| 45,000
+| [[Ursa Major]]
+| 11.0
+|- style="background:#ffc;"
+| [[Messier 109|M109]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm109.html |title=Messier 109 |accessdate=2009-02-08 |last=Messier |first=Charles |year=1783}}</ref>
+| NGC 3992
+| &nbsp;
+| style="text-align:center;"| [[Berkas:Messier object 109.jpg|60px]]
+| [[Galaksi]]
+| 55,000
+| [[Ursa Major]]
+| 11.0
+|- style="background:#ffc;"
+| [[Messier 110|M110]]<ref>{{cite web |url=http://www.seds.org/messier/Mdes/dm110.html |title=Messier 110 |accessdate=2009-02-08 |last=Messier |first=Charles |year=1783}}</ref>
+| NGC 205
+| &nbsp;
+| style="text-align:center;"| [[Berkas:Messier object 110.jpg|60px]]
+| [[Galaksi]]
+| 2,200
+| [[Andromeda]]
+| 10.0
+|- class="sortbottom"
+! [[Obyek Messier|Nomor Messier]]
+! [[NGC|Nomor NGC]]
+! Nama umum
+! class="unsortable"|Citra
+! Jenis objek
+! Jarak ([[tahun cahaya|ktc]])
+! [[Rasi bintang]]
+! [[Magnitudo semu]]
+|}
+
+== Peta bintang Objek Messier ==
+[[Berkas:1000px-MessierStarChart svg.jpg|center|1000px|Peta bintang Objek Messier.]]
+== Lihat pula ==
+
+* [[Charles Messier]]
+* [[Daftar obyek Messier]]
+* [[New General Catalogue]]
+* [[Herschel 400 Catalogue]]
+* [[Katalog Caldwell]]
+
+== Referensi ==
+{{reflist}}
+
+== Pranala luar ==
+* [http://www.seds.org/messier/ SEDS Messier Database]
+:* [http://www.seds.org/messier/xtra/history/CMessier.html Charles Messier]
+:* [http://www.seds.org/messier/xtra/history/m-cat.html Charles Messier's Catalog of Nebulae and Star Clusters]
+* [http://web.archive.org/web/19990420195402/http://seds.org/messier/xtra/history/mcathist.html History of the Messier Catalog]
+* [http://zebu.uoregon.edu/messier.html CCD Images of Messier Objects]
+* [http://www.12dstring.me.uk/messiercatalogue.htm 12 Dimensional String]
+* [http://messier45.com/messier/index.html Messier Gallery]
+* [http://www.space-and-telescope.com/MessierObjects.aspx The Messier Catalogue]
+* [http://www.astronomycatalogues.com/index.php?pr=messier Flash Messier Catalogue]
+
+{{objek Messier}}
+
+[[Kategori:Objek Messier|*]]
+[[Kategori:Katalog astronomi]]

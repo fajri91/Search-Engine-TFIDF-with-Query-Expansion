@@ -1,0 +1,136 @@
+Taman Nasional Yorkshire Dales
+{{coord|54|16|N|2|05|W|region:GB_type:landmark_source:dewiki|display=title}}
+{{Geobox|Taman Nasional
+<!-- *** Name section *** -->
+| name                        = Yorkshire Dales
+| native_name                 = 
+| other_name                  = 
+| other_name1                 = 
+<!-- *** Category *** -->
+| category_local              = [[Taman nasional di Britania Raya]]
+| category_iucn               = II
+<!-- *** Image *** -->
+| image                       = YorkshireDalesSign.jpg
+| image_size                  =    
+| image_caption               = Tanda masuk taman, dekat [[Skipton]]
+<!-- *** Country etc. *** -->
+| country                     = Britania Raya
+| country_flag                = 1
+| state                       = Inggris
+| state_flag                  = 1
+| state_type                  = Part
+| region                      = North Yorkshire
+| region_type                 = Propinsi
+| region1                     = Cumbria
+| region2                     = 
+| region3                     = 
+| region4                     =  
+| region5                     = 
+| city                        = 
+| city1                       =
+| location                    =
+| lat_d              =         
+| lat_m              = 
+| lat_s              = 
+| lat_NS             = 
+| long_d             =         
+| long_m             = 
+| long_s             = 
+| long_EW            =
+| elevation          =  
+<!-- *** Nature *** -->
+| biome                       =
+| biome_share                 = 
+| biome1                      =
+| biome1_share                = 
+| geology                     = 
+| geology1                    = 
+| plant                       = 
+| plant1                      = 
+| animal                      =   
+| animal1                     =
+<!-- *** Geography *** -->
+| area                        = 1769
+| area1                       =
+| area1_type                  =   
+| length                      = 
+| length_orientation          = 
+| width                       = 
+| width_orientation           = 
+| highest                = 
+| highest_location            = [[Whernside]]
+| highest_lat_d               =         
+| highest_lat_m               = 
+| highest_lat_s               = 
+| highest_lat_NS              = 
+| highest_long_d              =         
+| highest_long_m              = 
+| highest_long_s              = 
+| highest_long_EW             =
+| highest_elevation           = 736
+| lowest                 = 
+| lowest_location             =
+| lowest_lat_d                =         
+| lowest_lat_m                = 
+| lowest_lat_s                = 
+| lowest_lat_NS               = 
+| lowest_long_d               =         
+| lowest_long_m               = 
+| lowest_long_s               = 
+| lowest_long_EW              =
+| lowest_elevation            =
+<!-- *** People *** -->
+| established_type            = Taman nasional
+| established                 = [[1954]]
+| established1_type           =
+| established1                = 
+| management_body             =
+| management_location         =
+| management_lat_d            =         
+| management_lat_m            = 
+| management_lat_s            = 
+| management_lat_NS           = 
+| management_long_d           =         
+| management_long_m           = 
+| management_long_s           = 
+| management_long_EW          =
+| management_elevation        =
+| visitation                  =
+| visitation_year             =
+<!-- *** Free fields *** -->
+| free_type                   =  
+| free                        =
+| free1_type                  =  
+| free1                       = 
+<!-- *** Map section *** -->
+| map                         = Yorkshire Dales National Park.png
+| map_locator_x               =
+| map_locator_y               =
+| map_size                    = 
+| map_caption                 = Taman Nasional Yorkshire Dales dalam wilayah [[North Yorkshire]]
+| map_first                   =
+<!-- *** Website *** -->
+| website                     =   
+}}
+'''Taman Nasional Yorkshire Dales''' adalah salah satu dari 15 [[taman nasional]] di [[Britania Raya]] yang ditetapkan pada tahun [[1954]]. Memiliki luas sekitar 1.770&nbsp;km persegi, sebagian besar dari wilayah taman nasional ini terletak di [[Yorkshire Utara]], [[Yorkshire Barat]], dan [[Cumbria]].
+
+[[Berkas:Dry stone wall 20.JPG|thumb|left|Jalan untuk pejalan kaki di barat Yorkshire Dales.]]
+
+Lebih dari 20.000 orang hidup dan bekerja di area taman nasional ini, yang meraup total pengunjung sekitar 8 juta orang per tahun.<ref>
+{{cite web
+|url=http://www.yorkshiredales.org.uk/index/enjoying/minimising_your_impact.htm
+|title=Yorkshire Dales National Park Authority - Be a green visitor
+|publisher=www.yorkshiredales.org.uk
+|accessdate=2009-05-04
+|last=
+|first=
+}}
+</ref> Taman nasional ini memiliki banyak hal untuk dinikmati pengunjungnya. Contohnya, banyak yang datang ke taman ini hanya untuk jalan santai atau berolahraga. Daerah ini dilewati oleh jalan-jalan utama Inggris, seperti [[Pennine Way]], [[Dales Way]], dan [[Pennine Bridleway]].<ref>[http://www.yorkshiredales.org.uk/index/enjoying/things_to_do_in_the_dales.htm Yorkshire Dales National Park Authority - Things to do<!-- Bot generated title -->]</ref> Bersepeda juga merupakan salah satu kegiatan favorit di sini dengan banyaknya jalan khusus [[sepeda]].<ref>[http://www.cyclethedales.org.uk/ Cycle the Dales<!-- Bot generated title -->]</ref>
+
+== Referensi ==
+{{Reflist}}
+
+[[Kategori:Taman nasional di Britania Raya]]
+
+
+{{Britania Raya-geo-stub}}

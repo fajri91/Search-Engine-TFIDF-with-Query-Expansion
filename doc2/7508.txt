@@ -1,0 +1,30 @@
+Fisika plasma
+{{referensi}}
+[[Berkas:Plasma-lamp.jpg|thumb|300px|right|[[Lampu plasma|Bola plasma]] ]]
+'''Fisika plasma''' adalah salah satu bidang dari [[fisika]] yang mempelajari gas terionisasi yang dikenal sebagai plasma.
+
+Dalam [[fisika]] dan [[kimia]], '''plasma''' (juga disebut '''gas terionisasi''' karena terbentuk dari benda bersifat gas yang terionisasi oleh panas) adalah [[keadaan benda]] fase-gas berenergi, yang sering disebut sebagai "keadaan benda keempat", yang beberapa atau semua [[elektron]] di [[orbit atom]] terluar telah terpisah dari [[atom]] atau [[molekul]]. Hasilnya adalah sebuah koleksi [[ion]] dan [[elektron]] yang tidak lagi terikat satu sama lain. Karena partikel-partikel ini terionisasi (bermuatan), gas ini bertingkah laku lain dari gas biasa, contohnya, kehadiran [[medan elektromagnetik]]. Keadaan benda ini pertama kali diidentifikasi oleh [[Sir William Crookes]] pada [[1879]], dan disebut "plasma" oleh [[Irving Langmuir]] pada [[1928]].
+
+Perlakuan "fluid" biasa datang dari kombinasi [[persamaan Navier Stokes]] [[dinamika fluid]] dan [[persamaan Maxwell]] [[Elektromagnetisme]]. Hasil dari himpunan persamaan ini, dengan perkiraan yang tepat, disebut [[Magnetohidrodinamika]] (atau MHD pendeknya).
+
+Fisika plasma sangat penting dalam [[astrofisika]]. Banyak objek-objek astronomi, termasuk [[bintang]], [[piringan accretion]], [[nebula]], dan [[interstellar medium]], terdiri dari plasma. Ia juga penting dalam ilmu [[aerodinamika]] seperti hipersonik, karena pada kecepatan hipersonik, interaksi dari [[gelombang kejut]] (''shockwave'') dan [[lapisan batasan]] menciptakan panas yang mengionisasi udara di sekitar badan pesawat tersebut. Ini terjadi, contohnya, pada saat [[pesawat ulang-alik]] [[masuk kembali]] ke [[atmosfer bumi]]. Fisika plasma juga digunakan dalam mempelajari [[fusi nuklir]] karena banyak reaksi fusi terjadi dalam plasma.Plasma dapat pula digunakan pada TV Plasma dan lampu neon
+
+== Lihat pula ==
+* [[gnerator MHD|Generator Magnetohidrodinamika]]
+
+== Pranala luar ==
+* [http://fusedweb.pppl.gov/CPEP/Chart_Pages/5.Plasma4StateMatter.html Plasmas: the Fourth State of Matter]
+* [http://www.plasmas.org/ Plasma Science and Technology]
+* [http://plasma-gate.weizmann.ac.il/PlasmaI.html Plasma on the Internet] comprehensive list of plasma related links.
+* [http://farside.ph.utexas.edu/teaching/plasma/lectures/lectures.html Introduction to Plasma Physics: a graduate level lecture course given by Richard Fitzpatrick]
+* [http://plasmas.org/ An overview of plasma links and applications]
+* [http://wwwppd.nrl.navy.mil/nrlformulary/index.html NRL Plasma Formulary online]
+* [http://www.plasmacoalition.org/ Plasma Coalition page]
+* [http://starfire.ne.uiuc.edu/ Plasma Material Interaction]
+
+<!--Categories-->
+<!--Interwiki-->
+
+[[Kategori:Fisika plasma| ]]
+[[Kategori:Kimia]]
+[[Kategori:Fisika]]

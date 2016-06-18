@@ -1,0 +1,32 @@
+Sel endotelial
+'''Sel endotelial''' ({{lang-en|endotheliocytes}}) adalah sejenis [[sel (biologi)|sel]] yang membentuk suatu [[jaringan]] yang disebut endotelium, yang memisahkan [[pembuluh darah]] dan [[sistem limfatik]] pada seluruh bagian [[tubuh]].<ref>{{en}}{{cite web
+| url          = http://www.lab.anhb.uwa.edu.au/mb140/moreabout/endothel.htm
+| title        = Blue Histology - Vascular System : more about Endothelial Cells 
+| accessdate   = 2010-10-14
+| work         = University of Western Australia, John McGeachie
+}}</ref> Sel endotelial merupakan diferensiasi dari [[angioblas]] dan [[hemangioblas]].<ref>{{en}}{{cite web
+| url          = http://www.copewithcytokines.de/cope.cgi?key=endothelial%20cells
+| title        = Endothelial cells
+| accessdate   = 2010-10-14
+| work         = H. Ibelgaufts
+}}</ref>
+
+Sel endotelial mempunyai permukaan yang sangat rata dengan sebuah [[inti sel]] dengan ketebalan sekitar 1-2 m dan diameter sekitar 10-20 m. [[Jaringan]] yang dibentuk oleh akumulasi sel endotelial membuat [[pola]] mirip [[mosaik]] lantai paving, yang membalut [[pembuluh darah]]. [[Substrat]] [[toksin]], misalnya [[nikotina]], akan membuka struktur mosaik ini sehingga memungkinkan [[molekul]] yang lebih besar melakukan infiltrasi melintasi lapisan endotelium yang dibentuk oleh ikatan jaringan antar sel endotelial. Molekul yang lebih besar inilah yang berpotensi untuk merusak pembuluh darah dan menyebabkan penyakit dan gangguan yang disebut [[vaskular]].
+
+== Hati ==
+Pada [[hati]] terdapat sejenis sel endotelial yang membentuk lapisan lumen dari lobus hati, yang disebut sel endotelial sinusoidal ({{lang-en|hepatic sinusoidal endothelial cells, LSEC, SEC, HSEC}}),<ref>{{en}}{{cite web
+| url          = http://www.copewithcytokines.de/cope.cgi?key=Liver%20sinusoidal%20endothelial%20cells
+| title        = Liver sinusoidal endothelial cells
+| accessdate   = 2010-10-14
+| work         = H. Ibelgaufts
+}}</ref> dan merupakan 50% sel non parenkimal pada hati. Lapisan lumen yang terbentuk, memisahkan [[hepatosit]] dari [[pembuluh darah]] dan berperan penting sebagai sirkulasi mikro intrahepatik, dengan berbagai ekspresi pencerap ''scavenger'' dan [[enzim]] [[lisosom]]al yang berguna dalam proses degradasi pada lintasan [[endositosis]].
+
+Oleh karena kapasitas endositosis yang dimiliki, SEC juga bertindak sebagai sel penampil antigen seperti [[sel dendritik]], walaupun SEC tidak bermigrasi. Meskipun demikian, aktivitas SEC menginduksi toleransi imunologis. [[Sel T]] yang teraktivasi oleh SEC akan terdiferensiasi menjadi sel T regulatori yang men[[sekresi]] [[interleukin-4|IL-4]] dan [[interleukin-10|IL-10]]. SEC juga diketahui meredam aktivitas sel yang mensekresi [[interferon|IFN-gamma]] dan menstimulasi perkembangan [[sel T pembantu|sel T<sub>H</sub>2]].
+
+== Rujukan ==
+{{reflist}}
+{{Biologi-stub}}
+
+{{Darah}}
+
+[[Kategori:Sel]]

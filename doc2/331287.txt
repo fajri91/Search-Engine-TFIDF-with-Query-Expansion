@@ -1,0 +1,18 @@
+Templat:Tangaran, Sambas
+{{Navigasi ID Desa 
+|provinsi=Kalimantan Barat
+|dati2=Kabupaten 
+|nama dati2=Sambas
+|nama kecamatan=Tangaran
+|d1=Simpang Empat
+|d2=Merpati
+|d3=Tangaran
+|d4=Semata
+|d5=Pancur
+|d6=Merabuan
+|d7=Arung Parak
+}}
+<noinclude>
+[[Kategori:Templat desa/kelurahan di Kalimantan Barat|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Sambas|{{PAGENAME}}]]
+</noinclude>

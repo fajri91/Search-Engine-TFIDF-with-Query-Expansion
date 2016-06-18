@@ -1,0 +1,60 @@
+Ladang gas Abadi
+{{Orphan|date=Maret 2016}}
+
+{{Infobox oil field
+| name        = Abadi
+| country     = [[Indonesia]]
+| region      = [[Laut Arafura]]
+| location    =
+| block       =
+| offonshore  = Lepas pantai
+| coordinates =
+| operator    = [[Inpex]]
+| operators   =
+| partners    =
+| contractors =
+| image       =
+| caption     =
+| discovery   = 2000
+| start_development = 2000
+| start_production = 2015
+| abandonment =
+| peak_year   =
+| peak_of_production_oil_bbl/d =
+| peak_of_production_oil_tpy =
+| peak_of_production_gas_mmcuft/d =
+| peak_of_production_gas_mmscm/d =
+| peak_of_production_gas_bcm/y =
+| oil_production_bbl/d =
+| oil_production_tpy =
+| production_year_oil =
+| production_gas_mmcuft/d =
+| production_gas_mmscm/d =
+| production_gas_bcm/y =
+| production_year_gas =
+| est_oil_bbl =
+| est_oil_t   =
+| recover_oil_bbl =
+| recover_oil_t   =
+| est_gas_bft = 10000
+| est_gas_bcm = 242
+| recover_gas_bft =
+| recover_gas_bcm =
+| formations  =
+}}
+
+'''Ladang gas Abadi''' adalah [[ladang gas alam]] yang terletak di [[Laut Arafura]]. Ladang gas ini ditemukan tahun 2000 dan dieksplorasi oleh [[Inpex]]. Produksi [[gas alam]] dan [[kondensat gas alam|kondensat]] dimulai tahun 2015. Total [[cadangan terbukti]] ladang gas Abadi mencapai kurang lebih 160 triliun kaki kubik (24210<sup>9</sup>m), dan produksinya diperkirakan mencapai 974 juta kaki kubik/hari (27,410<sup>5</sup>m) pada tahun 2015.<ref>{{cite web|url=http://www.offshore-technology.com/projects/abadi-field/|title=Abadi Gas Field, Indonesia|year=2012|publisher=offshore-technology.com|accessdate=2013-05-23}}</ref>
+
+== Lihat pula ==
+* [[Daftar ladang gas di Indonesia]]
+
+== Referensi ==
+{{reflist}}
+
+{{coord missing|Indonesia}}
+
+[[Kategori:Ladang gas alam di Indonesia|Abadi]]
+
+
+{{ladanggas-stub}}
+{{Indonesia-geo-stub}}

@@ -1,0 +1,89 @@
+Hasbi Habibollah
+{{Infobox politician
+|honorific-prefix   = [[gelar Melayu|Yang Berhormat]]
+|name = Hasbi Habibollah
+|image =
+|caption =
+|birth_date =
+|birth_place =
+|residence =
+|death_date =
+|death_place =
+|constituency_MP = [[Limbang]], Sarawak
+|parliament = Malaysia
+|term_start       = 2008
+|term_end         =
+|majority1         =
+|predecessor      = Kursi baru
+|successor        =
+|office2 =
+|term_start2 =
+|term_end2 =
+|constituency_AM2 =
+|assembly2 =
+|predecessor2 =
+|successor2 =
+|office3 =
+|term_start3 =
+|term_end3 =
+|predecessor3 =
+|successor3 =
+|constituency3 =
+|party = [[Parti Pesaka Bumiputera Bersatu|PBB]][[Barisan Nasional]]
+|religion =
+|profession = Insinyur
+|occupation = Politikus
+|majority =
+|relations =
+|spouse =
+|children =
+|website =
+|footnotes =
+}}
+
+'''Hasbi Habibollah''' adalah seorang politikus Malaysia. Ia adalah Anggota [[Parlemen Malaysia]] untuk konstituensi [[Limbang]] di [[Sarawak]], mewakili [[Parti Pesaka Bumiputera Bersatu]] (PBB) pada koalisi pemerintahan [[Barisan Nasional]].<ref>{{cite web|url=http://www.parlimen.gov.my/index.php?modload=ahlidewan&uweb=dr&action=details&id=416|title=Hasbi bin Habibollah, Y.B. Tuan Haji|publisher=[[Parlemen Malaysia]]|language=Melayu|accessdate=24 April 2010}}</ref>
+
+Hasbi terpilih dalam Parlemen pada [[pemilihan umum Malaysia 2008|pemilihan 2008]] untuk kursi Limbang. Ia sebelumnya adalah seorang insinyur.<ref>{{cite news|url=http://www.bernama.com.my/bernama/state_news/news.php?id=319734&cat=sre|title=BN Does Well in Northern Sarawak|last=Hamdan Ismail|date=10 March 2008|work=Berita Wilayah Sarawak|publisher=[[Bernama]]|accessdate=24 April 2010}}</ref>
+
+==Hasil pemilihan==
+{|class="wikitable" style="margin:0.5em ; font-size:95%"
+|+ '''[[Dewan Rakyat|Parlemen Malaysia]]''': [[Limbang]], Sarawak<ref name="election results">{{cite web|url=http://semak.spr.gov.my/spr/laporan/5_KedudukanAkhir.php|title=Keputusan Pilihan Raya Umum Parlimen/Dewan Undangan Negeri|publisher=[[Komisi Pemilihan Malaysia]]|accessdate=24 April 2010}} Percentage figures based on total turnout.</ref>
+!|Tahun
+!
+!|Barisan Nasional
+!|Suara
+!|Persen
+!
+!|Oposisi
+!|Suara
+!|Persen
+|-
+|[[pemilihan umum Malaysia 2008|2008]]
+|
+|{{Party shading/Barisan Nasional}} |{{nowrap|'''Hasbi Habibollah'''}} ([[Parti Pesaka Bumiputera Bersatu|PBB]])
+|{{Party shading/Barisan Nasional}} align="right" |6,427
+|{{Party shading/Barisan Nasional}} |52%
+|
+|{{Party shading/Keadilan}} |Lau Liak Koi ([[Parti Keadilan Rakyat|PKR]])
+|{{Party shading/Keadilan}} align="right" |5,751
+|{{Party shading/Keadilan}} |46%
+|}
+
+== Referensi ==
+
+{{reflist}}
+
+{{Sarawak-FedRep}}
+
+{{Persondata
+|NAME              = Habibollah, Hasbi
+|ALTERNATIVE NAMES = 
+|SHORT DESCRIPTION = politikus Malaysia
+|DATE OF BIRTH     = 
+|PLACE OF BIRTH    = 
+|DATE OF DEATH     = 
+|PLACE OF DEATH    = 
+}}
+{{DEFAULTSORT:Hasbi Habibollah}}
+[[Category:politikus Malaysia]]
+[[Category:orang hidup]]

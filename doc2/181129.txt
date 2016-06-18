@@ -1,0 +1,774 @@
+Komune di departemen Val-d'Oise
+Berikut merupakan daftar 185 '''[[komune di Perancis|komune]] di ''[[departemen di Perancis|dpartement]]'' [[Val-d'Oise]]''', di [[Perancis]].
+
+<small>
+(CAM) [[Communaut d'agglomration]] de la [[Montmorency, Val-d'Oise|Valle de Montmorency]], created in 2002.
+{{br}}(CAS) [[Communaut d'agglomration]] [[Sarcelles|Val de France]], created in 2002.
+{{br}}(CAF) [[Communaut d'agglomration]] [[Franconville, Val-d'Oise|Val et Fort]], created in 2004.
+{{br}}(CACP) [[Communaut d'agglomration]] de [[Cergy-Pontoise]], created in 2004.
+</small>
+
+{{clear}}
+{{col-begin}}
+{{col-2}}
+{| class="wikitable sortable"
+! [[Kode INSEE]]
+! [[Kode pos]]
+! Komune
+|-
+| 95002
+| 95450
+| [[Ableiges]]
+|- 
+| 95008
+| 95510
+| [[Aincourt]]
+|- 
+| 95011
+| 95710
+| [[Ambleville, Val-d'Oise|Ambleville]]
+|- 
+| 95012
+| 95510
+| [[Amenucourt]]
+|- 
+| 95014
+| 95580
+| [[Andilly, Val-d'Oise|Andilly]] <small><sup>(CAM)</sup></small>
+|- 
+| 95018
+| 95100
+| [[Argenteuil]]
+|- 
+| 95019
+| 95400
+| [[Arnouville-ls-Gonesse]] <small><sup>(CAS)</sup></small>
+|- 
+| 95023
+| 95810
+| [[Arronville]]
+|- 
+| 95024
+| 95420
+| [[Arthies]]
+|- 
+| 95026
+| 95270
+| [[Asnires-sur-Oise]]
+|- 
+| 95028
+| 95570
+| [[Attainville]]
+|- 
+| 95039
+| 95430
+| [[Auvers-sur-Oise]]
+|- 
+| 95040
+| 95450
+| [[Avernes]]
+|- 
+| 95042
+| 95560
+| [[Baillet-en-France]]
+|- 
+| 95046
+| 95420
+| [[Banthelu]]
+|- 
+| 95051
+| 95250
+| [[Beauchamp, Val-d'Oise|Beauchamp]]
+|- 
+| 95052
+| 95260
+| [[Beaumont-sur-Oise]]
+|- 
+| 95054
+| 95750
+| [[Le Bellay-en-Vexin]]
+|- 
+| 95055
+| 95270
+| [[Bellefontaine, Val-d'Oise|Bellefontaine]]
+|- 
+| 95056
+| 95270
+| [[Belloy-en-France]]
+|- 
+| 95058
+| 95340
+| [[Bernes-sur-Oise]]
+|- 
+| 95059
+| 95810
+| [[Berville, Val-d'Oise|Berville]]
+|- 
+| 95060
+| 95550
+| [[Bessancourt]]
+|- 
+| 95061
+| 95840
+| [[Bthemont-la-Fort]]
+|- 
+| 95063
+| 95870
+| [[Bezons]]
+|- 
+| 95074
+| 95000
+| [[Boisemont, Val-d'Oise|Boisemont]]
+|- 
+| 95078
+| 95650
+| [[Boissy-l'Aillerie]]
+|- 
+| 95088
+| 95500
+| [[Bonneuil-en-France]]
+|- 
+| 95091
+| 95570
+| [[Bouffmont]]
+|- 
+| 95094
+| 95720
+| [[Bouqueval]]
+|- 
+| 95101
+| 95710
+| [[Bray-et-L]]
+|- 
+| 95102
+| 95640
+| [[Branon]]
+|- 
+| 95110
+| 95640
+| [[Brignancourt]]
+|- 
+| 95116
+| 95820
+| [[Bruyres-sur-Oise]]
+|- 
+| 95119
+| 95770
+| [[Buhy]]
+|- 
+| 95120
+| 95430
+| [[Butry-sur-Oise]]
+|- 
+| 95127
+| 95000
+| [[Cergy]] <small><sup>(CACP)</sup></small>
+|- 
+| 95134
+| 95660
+| [[Champagne-sur-Oise]]
+|- 
+| 95139
+| 95420
+| [[La Chapelle-en-Vexin]]
+|- 
+| 95141
+| 95420
+| [[Charmont, Val-d'Oise|Charmont]]
+|- 
+| 95142
+| 95750
+| [[Chars]]
+|- 
+| 95144
+| 95190
+| [[Chtenay-en-France]]
+|- 
+| 95149
+| 95270
+| [[Chaumontel]]
+|- 
+| 95150
+| 95710
+| [[Chaussy, Val-d'Oise|Chaussy]]
+|- 
+| 95151
+| 95560
+| [[Chauvry]]
+|- 
+| 95154
+| 95380
+| [[Chennevires-ls-Louvres]]
+|- 
+| 95157
+| 95510
+| [[Chrence]]
+|- 
+| 95166
+| 95420
+| [[Clry-en-Vexin]]
+|- 
+| 95169
+| 95450
+| [[Commeny]]
+|- 
+| 95170
+| 95450
+| [[Condcourt]]
+|- 
+| 95176
+| 95240
+| [[Cormeilles-en-Parisis]]
+|- 
+| 95177
+| 95830
+| [[Cormeilles-en-Vexin]]
+|- 
+| 95181
+| 95650
+| [[Courcelles-sur-Viosne]]
+|- 
+| 95183
+| 95800
+| [[Courdimanche]] <small><sup>(CACP)</sup></small>
+|- 
+| 95197
+| 95170
+| [[Deuil-la-Barre]] <small><sup>(CAM)</sup></small>
+|- 
+| 95199
+| 95330
+| [[Domont]]
+|- 
+| 95203
+| 95600
+| [[Eaubonne]] <small><sup>(CAF)</sup></small>
+|- 
+| 95205
+| 95440
+| [[couen]]
+|- 
+| 95210
+| 95880
+| [[Enghien-les-Bains]]
+|- 
+| 95211
+| 95300
+| [[Ennery, Val-d'Oise|Ennery]]
+|- 
+| 95212
+| 95380
+| [[piais-ls-Louvres]]
+|- 
+| 95213
+| 95810
+| [[piais-Rhus]]
+|- 
+| 95214
+| 95270
+| [[pinay-Champltreux]]
+|- 
+| 95218
+| 95610
+| [[ragny, Val-d'Oise|ragny]] <small><sup>(CACP)</sup></small>
+|- 
+| 95219
+| 95120
+| [[Ermont]] <small><sup>(CAF)</sup></small>
+|- 
+| 95229
+| 95460
+| [[zanville]]
+|- 
+| 95241
+| 95190
+| [[Fontenay-en-Parisis]]
+|- 
+| 95250
+| 95470
+| [[Fosses]]
+|- 
+| 95252
+| 95130
+| [[Franconville, Val-d'Oise|Franconville]] <small><sup>(CAF)</sup></small>
+|- 
+| 95253
+| 95450
+| [[Frmainville]]
+|- 
+| 95254
+| 95830
+| [[Frmcourt]]
+|- 
+| 95256
+| 95740
+| [[Frpillon]]
+|- 
+| 95257
+| 95530
+| [[La Frette-sur-Seine]]
+|- 
+| 95258
+| 95690
+| [[Frouville]]
+|- 
+| 95259
+| 95450
+| [[Gadancourt]]
+|- 
+| 95268
+| 95140
+| [[Garges-ls-Gonesse]] <small><sup>(CAS)</sup></small>
+|- 
+| 95270
+| 95420
+| [[Genainville]]
+|- 
+| 95271
+| 95650
+| [[Gnicourt]]
+|- 
+| 95277
+| 95500
+| [[Gonesse]]
+|- 
+| 95280
+| 95190
+| [[Goussainville, Val-d'Oise|Goussainville]]
+|- 
+| 95282
+| 95450
+| [[Gouzangrez]]
+|- 
+| 95287
+| 95810
+| [[Grisy-les-Pltres]]
+|- 
+| 95288
+| 95410
+| [[Groslay]] <small><sup>(CAM)</sup></small>
+|- 
+| 95295
+| 95450
+| [[Guiry-en-Vexin]]
+|- 
+| 95298
+| 95640
+| [[Haravilliers]]
+|- 
+| 95301
+| 95780
+| [[Haute-Isle]]
+|- 
+| 95303
+| 95640
+| [[Le Heaulme]]
+|- 
+| 95304
+| 95690
+| [[Hdouville]]
+|- 
+| 95306
+| 95220
+| [[Herblay]]
+|- 
+| 95308
+| 95300
+| [[Hrouville]]
+|- 
+| 95309
+| 95420
+| [[Hodent]]
+|- 
+| 95313
+| 95290
+| [[L'Isle-Adam, Val-d'Oise|L'Isle-Adam]]
+|- 
+| 95316
+| 95850
+| [[Jagny-sous-Bois]]
+|- 
+|}
+
+{{col-2}}
+
+{| class="wikitable sortable"
+! [[Kode INSEE]]
+! [[Kode pos]]
+! Komune
+|-
+| 95323
+| 95280
+| [[Jouy-le-Moutier]] <small><sup>(CACP)</sup></small>
+|- 
+| 95328
+| 95690
+| [[Labbeville]]
+|- 
+| 95331
+| 95270
+| [[Lassy, Val-d'Oise|Lassy]]
+|- 
+| 95341
+| 95300
+| [[Livilliers]]
+|- 
+| 95348
+| 95450
+| [[Longuesse]]
+|- 
+| 95351
+| 95380
+| [[Louvres]]
+|- 
+| 95352
+| 95270
+| [[Luzarches]]
+|- 
+| 95353
+| 95560
+| [[Maffliers]]
+|- 
+| 95355
+| 95420
+| [[Magny-en-Vexin]]
+|- 
+| 95365
+| 95850
+| [[Mareil-en-France]]
+|- 
+| 95369
+| 95580
+| [[Margency]] <small><sup>(CAM)</sup></small>
+|- 
+| 95370
+| 95640
+| [[Marines, Val-d'Oise|Marines]]
+|- 
+| 95371
+| 95670
+| [[Marly-la-Ville]]
+|- 
+| 95379
+| 95420
+| [[Maudtour-en-Vexin]]
+|- 
+| 95387
+| 95810
+| [[Menouville]]
+|- 
+| 95388
+| 95180
+| [[Menucourt]] <small><sup>(CACP)</sup></small>
+|- 
+| 95392
+| 95630
+| [[Mriel]]
+|- 
+| 95394
+| 95540
+| [[Mry-sur-Oise]]
+|- 
+| 95395
+| 95720
+| [[Le Mesnil-Aubry]]
+|- 
+| 95409
+| 95570
+| [[Moisselles]]
+|- 
+| 95422
+| 95650
+| [[Montgeroult]]
+|- 
+| 95424
+| 95370
+| [[Montigny-ls-Cormeilles]]
+|- 
+| 95426
+| 95680
+| [[Montlignon]] <small><sup>(CAF)</sup></small>
+|- 
+| 95427
+| 95360
+| [[Montmagny, Val-d'Oise|Montmagny]] <small><sup>(CAM)</sup></small>
+|- 
+| 95428
+| 95160
+| [[Montmorency, Val-d'Oise|Montmorency]] <small><sup>(CAM)</sup></small>
+|- 
+| 95429
+| 95770
+| [[Montreuil-sur-Epte]]
+|- 
+| 95430
+| 95560
+| [[Montsoult]]
+|- 
+| 95436
+| 95260
+| [[Mours]]
+|- 
+| 95438
+| 95640
+| [[Moussy, Val-d'Oise|Moussy]]
+|- 
+| 95445
+| 95590
+| [[Nerville-la-Fort]]
+|- 
+| 95446
+| 95690
+| [[Nesles-la-Valle]]
+|- 
+| 95447
+| 95640
+| [[Neuilly-en-Vexin]]
+|- 
+| 95450
+| 95000
+| [[Neuville-sur-Oise]] <small><sup>(CACP)</sup></small>
+|- 
+| 95452
+| 95590
+| [[Nointel, Val-d'Oise|Nointel]]
+|- 
+| 95456
+| 95270
+| [[Noisy-sur-Oise]]
+|- 
+| 95459
+| 95420
+| [[Nucourt]]
+|- 
+| 95462
+| 95420
+| [[Omerville]]
+|- 
+| 95476
+| 95520
+| [[Osny]] <small><sup>(CACP)</sup></small>
+|- 
+| 95480
+| 95620
+| [[Parmain]]
+|- 
+| 95483
+| 95450
+| [[Le Perchay]]
+|- 
+| 95487
+| 95340
+| [[Persan]]
+|- 
+| 95488
+| 95480
+| [[Pierrelaye]]
+|- 
+| 95489
+| 95350
+| [[Piscop]]
+|- 
+| 95491
+| 95130
+| [[Le Plessis-Bouchard]] <small><sup>(CAF)</sup></small>
+|- 
+| 95492
+| 95720
+| [[Le Plessis-Gassot]]
+|- 
+| 95493
+| 95270
+| [[Le Plessis-Luzarches]]
+|- 
+| 95500
+| 95300
+| [[Pontoise]] <small><sup>(CACP)</sup></small>
+|- 
+| 95504
+| 95590
+| [[Presles, Val-d'Oise|Presles]]
+|- 
+| 95509
+| 95380
+| [[Puiseux-en-France]]
+|- 
+| 95510
+| 95650
+| [[Puiseux-Pontoise]] <small><sup>(CACP)</sup></small>
+|- 
+| 95523
+| 95780
+| [[La Roche-Guyon]]
+|- 
+| 95527
+| 95700
+| [[Roissy-en-France]]
+|- 
+| 95529
+| 95340
+| [[Ronquerolles]]
+|- 
+| 95535
+| 95450
+| [[Sagy, Val-d'Oise|Sagy]]
+|- 
+| 95539
+| 95350
+| [[Saint-Brice-sous-Fort]]
+|- 
+| 95541
+| 95770
+| [[Saint-Clair-sur-Epte]]
+|- 
+| 95543
+| 95510
+| [[Saint-Cyr-en-Arthies]]
+|- 
+| 95554
+| 95420
+| [[Saint-Gervais, Val-d'Oise|Saint-Gervais]]
+|- 
+| 95555
+| 95210
+| [[Saint-Gratien, Val-d'Oise|Saint-Gratien]] <small><sup>(CAM)</sup></small>
+|- 
+| 95563
+| 95320
+| [[Saint-Leu-la-Fort]]
+|- 
+| 95566
+| 95270
+| [[Saint-Martin-du-Tertre, Val-d'Oise|Saint-Martin-du-Tertre]]
+|- 
+| 95572
+| 95310
+| [[Saint-Ouen-l'Aumne]] <small><sup>(CACP)</sup></small>
+|- 
+| 95574
+| 95390
+| [[Saint-Prix, Val-d'Oise|Saint-Prix]] <small><sup>(CAF)</sup></small>
+|- 
+| 95580
+| 95470
+| [[Saint-Witz]]
+|- 
+| 95582
+| 95110
+| [[Sannois]]
+|- 
+| 95584
+| 95640
+| [[Santeuil, Val-d'Oise|Santeuil]]
+|- 
+| 95585
+| 95200
+| [[Sarcelles]] <small><sup>(CAS)</sup></small>
+|- 
+| 95592
+| 95450
+| [[Seraincourt, Val-d'Oise|Seraincourt]]
+|- 
+| 95594
+| 95270
+| [[Seugy]]
+|- 
+| 95598
+| 95230
+| [[Soisy-sous-Montmorency]] <small><sup>(CAM)</sup></small>
+|- 
+| 95604
+| 95470
+| [[Survilliers]]
+|- 
+| 95607
+| 95150
+| [[Taverny]]
+|- 
+| 95610
+| 95450
+| [[Thmricourt]]
+|- 
+| 95611
+| 95810
+| [[Theuville, Val-d'Oise|Theuville]]
+|- 
+| 95612
+| 95500
+| [[Le Thillay]]
+|- 
+| 95625
+| 95450
+| [[Us, Val-d'Oise|Us]]
+|- 
+| 95627
+| 95810
+| [[Vallangoujard]]
+|- 
+| 95628
+| 95760
+| [[Valmondois]]
+|- 
+| 95633
+| 95500
+| [[Vaudherland]]
+|- 
+| 95637
+| 95490
+| [[Vaural]] <small><sup>(CACP)</sup></small>
+|- 
+| 95641
+| 95470
+| [[Vmars]]
+|- 
+| 95651
+| 95510
+| [[Vtheuil]]
+|- 
+| 95652
+| 95270
+| [[Viarmes]]
+|- 
+| 95656
+| 95510
+| [[Vienne-en-Arthies]]
+|- 
+| 95658
+| 95450
+| [[Vigny, Val-d'Oise|Vigny]]
+|- 
+| 95660
+| 95570
+| [[Villaines-sous-Bois]]
+|- 
+| 95675
+| 95380
+| [[Villeron]]
+|- 
+| 95676
+| 95510
+| [[Villers-en-Arthies]]
+|- 
+| 95678
+| 95840
+| [[Villiers-Adam]]
+|- 
+| 95680
+| 95400
+| [[Villiers-le-Bel]] <small><sup>(CAS)</sup></small>
+|- 
+| 95682
+| 95720
+| [[Villiers-le-Sec, Val-d'Oise|Villiers-le-Sec]]
+|- 
+| 95690
+| 95420
+| [[Wy-dit-Joli-Village]]
+|}
+{{col-end}}
+
+{{Komune di Perancis}}
+
+[[Kategori:Daftar komune di Perancis|Val-d'Oise]]
+[[Kategori:Komune di Val-d'Oise|*]]
+[[Kategori:Komune di Perancis]]

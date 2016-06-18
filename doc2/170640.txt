@@ -1,0 +1,26 @@
+Makoto Kobayashi
+{{Infobox Scientist
+|name              =   <br />Makoto Kobayashi
+|image             = Makoto Kobayashi.jpg
+|birth_date        = {{birth date and age|1944|4|7}}<ref name="kek">{{cite press release|title=Makoto Kobayshi|publisher=[[KEK|High Energy Accelerator Research Organization]]|date=2007-07-06|url=http://www.kek.jp/intra-e/press/2007/EPSprize2_e.html|accessdate=2008-10-04}}</ref>
+|birth_place       = [[Nagoya]], [[Jepang]]<ref name="hoddeson">{{cite book|last=Hoddeson|first=Lillian|title=The Rise of the Standard Model|origyear=1977|url=http://books.google.de/books?id=klLUs2XUmOkC|accessdate=2008-10-04|publisher=[[Cambridge University Press]]|isbn=0521578167|pages=p. 137|chapter=Flavor Mixing and ''CP'' Violation|chapterurl=http://books.google.de/books?id=klLUs2XUmOkC&pg=PA137}}</ref>
+|citizenship       = [[Japan]]
+|fields            = [[high energy physics]] (theory)<ref name="hoddeson"/>
+|workplaces        = [[KEK|High Energy Accelerator Research Organization]]<ref name="kek"/><ref name="hoddeson"/>
+|alma_mater        = [[Universitas Nagoya]]<ref name="kek"/><ref name="hoddeson"/>
+|known_for         = karyanya: [[CP violation]]
+|awards            = [[Sakurai Prize]] (1985)<br />[[Japan Academy Prize (academics)|Japan Academy Prize]] (1985)<br />[[Asahi Prize]] (1995)<br /> [[Penghargaan Nobel dalam Fisika]] (2008)
+|signature         =  <!--(filename only)-->
+}}
+
+{{nihongo|'''Makoto Kobayashi'''| |Kobayashi Makoto|extra={{lahirmati|[[Nagoya]], [[Jepang]]|7|4|1944}}}} adalah fisikawan Jepang yang dikenal dengan karyanya [[CP-violation]]. Artikelnya yang berjudul "CP Violation in the Renormalizable Theory of Weak Interaction"<ref>[http://ptp.ipap.jp/link?PTP/49/652 CP Violation in the Renormalizable Theory of Weak Interaction]</ref> (1973) yang ditulis bersama [[Toshihide Maskawa]] menjadi artikel terbaik ketiga, sebagai ''paper'' fisika sepanjang [[2007]].<ref>[http://www.slac.stanford.edu/spires/topcites/2007/alltime.shtml Top Cited Articles of All Time (2007 edition)<!-- Bot generated title -->]</ref> [[Cabibbo-Kobayashi-Maskawa matrix|CKM Matrix]], yang mendefinisikan paramater pencampuran antara [[quark]] merupakan hasil kerjanya. Ia, bersama [[Toshihide Maskawa]] menerima hadiah Nobel 2008 bidang fisika, "bagi penemuannya yang memprediksi asal kerusakan simetris setidaknya tiga keluarga dari quark dialam."<ref>[http://nobelprize.org/nobel_prizes/physics/laureates/2008/ The Nobel Prize in Physics 2008]</ref><ref>[http://news.bbc.co.uk/2/hi/science/nature/7656538.stm news.bbc.co.uk, Particle physics celebrates Nobel]</ref><ref>[http://www.reuters.com/article/newsOne/idUSTRE4963JJ20081007 reuters.com, Two Japanese, one American win 2008 physics Nobel]</ref>
+
+== References ==
+{{reflist}}
+
+{{DEFAULTSORT:Kobayashi, Makoto}}
+{{Nobel Fisika}}
+
+[[Kategori:Fisikawan Jepang]]
+[[Kategori:Pemenang Hadiah Nobel dalam bidang fisika]]
+[[Kategori:Tokoh Jepang pemenang Hadiah Nobel]]

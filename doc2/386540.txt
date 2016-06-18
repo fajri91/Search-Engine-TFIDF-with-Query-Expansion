@@ -1,0 +1,21 @@
+Templat:Kekerasan
+{{Navbox
+|name = Kekerasan
+| listclass = hlist
+| title = [[Kekerasan]]
+
+|group1 = [[Kekerasan#Tipe dan konteks dari kekerasan|Tipe]]
+|list1 = <div>
+[[Kelakuan anti-sosial]]{{}}[[Kekerasan]]{{}}[[Kekerasan terhadap anak]]{{}}[[Pelecehan seksual terhadap anak]]{{}}[[Kekerasan domestik|Kekerasan domestik]]{{}}[[Elder abuse]]{{}}[[Harassment]]{{}}[[Humiliation]]{{}}[[Incivility]]{{}}[[Institutional abuse]]{{}}[[Intimidation]]{{}}[[Neglect]]{{}}[[Personal abuse]]{{}}[[Professional abuse]]{{}}[[Psychological abuse]]{{}}[[Physical abuse]]{{}}[[Sexual abuse]]{{}}[[Spiritual abuse]]{{}}[[Stalking]]{{}} [[Structural abuse]]{{}}[[Verbal abuse]]{{}}''[[Abuse#Types and contexts of abuse|more...]]''
+</div>
+
+|group2 = Topik terkait
+|list2 = <div>
+[[Complex post-traumatic stress disorder]]{{}}[[Dehumanization]]{{}}[[Denial]]{{}}[[Destabilisation]]{{}}[[Exaggeration]]{{}}[[Adult grooming]]{{}}[[Child grooming]]{{}}[[Lie|Lying]]{{}}[[Psychological manipulation|Manipulation]]{{}}[[Minimisation (psychology)|Minimisation]]{{}}[[Personality disorder]]s{{}}[[Psychological projection]]{{}}[[Psychological trauma]]{{}}[[Psychopathy]]{{}}[[Rationalization (making excuses)]]{{}}[[Victim blaming]]{{}}[[Victim playing]]{{}}[[Victimisation]]
+</div>
+}}<noinclude>
+
+{{documentation}}
+
+<!-- Add categories and interwikis to the /doc subpage, not here! -->
+</noinclude>

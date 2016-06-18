@@ -1,0 +1,144 @@
+Daftar Pemenang Mister International
+{{Infobox Organization
+|name         = Mister International
+|image        = Mister International logo.png
+|image_border =
+|size         = 200px
+|caption      = <small>Logo Mister International</small>
+|map          =
+|msize        =
+|mcaption     =
+|motto        = 
+|formation    = 2006
+|type         = [[Kontes kecantikan|Kontes pria]]
+|headquarters = [[Singapura]]
+|location     = 
+|membership   = 
+|language     = [[Bahasa Inggris|Inggris]]
+|leader_title = 
+|leader_name  =                                                                                                 
+|key_people   = [[Alan Sim]]
+|num_staff    =
+|budget       =
+|website      = [http://www.misterinternational.net Situs resmi]
+}}
+Berikut ini adalah daftar pemenang kontes pria [[Mister International]] yang di selenggarakan sejak tahun 2006.
+
+== Daftar pemenang ==
+{| class="wikitable"
+|-
+! Tahun
+! Tanggal
+! Pemenang
+! Negara Asal
+! Tempat Berlangsung
+! Jumlah peserta
+|-
+| [[Mister International 2006|2006]]
+| 7 Oktober
+| [[Berkas:Wissam Hanna.jpg|100px]]<br>[[Wissam Hanna]]
+| {{flag|Lebanon}}
+| {{flag|Singapura}}
+| 19
+|-
+| [[Mister International 2007|2007]]
+| 31 Desember
+| [[Berkas:Alan Martini.jpg|100px]]<br>[[Alan Bianco|Alan Bianco Martini Malgioglio]]
+| {{flag|Brasil}}
+| {{flag|Malaysia}}
+| 17
+|-
+| [[Mister International 2008|2008]]
+| 24 November
+| [[Berkas:Mister Int 2008.jpg|100px]]<br>[[Ng Tin on]]
+| {{flag|Vietnam}}
+| {{flag|Taiwan}}
+| 30
+|-
+| [[Mister International 2009|2009]]
+| 19 Desember
+| [[Berkas:Bruno Kettels.jpg|100px]]<br> [[Bruno Kettels|Juan Bruno Kettels Torrico]]
+| {{flag|Bolivia}}
+| {{flagicon|Taiwan}} Taiwan
+| 29
+|-
+| [[Mister International 2010|2010]]
+| 20 November
+| [[Berkas:Ryan Terry.jpg|100px]]<br>[[Ryan Terry]]
+| {{flag|Britania Raya}}
+| {{flag|Indonesia}}
+| 40
+|-
+| [[Mister International 2011|2011]]
+| 17 Desember
+| [[Berkas:Cesar Curti.jpg|100px]]<br>Csar Curti
+| {{flagicon|Brasil}} Brasil
+| rowspan="2"|{{flag|Thailand}}
+| 33 
+|-
+| [[Mister International 2012|2012]]
+| 24 November
+| [[Berkas:Ali Hammoud.jpg|100px]]<br>[[Ali Hammoud]]
+| {{flagicon|Lebanon}} Lebanon
+| 38
+|-
+| [[Mister International 2013|2013]]
+| 21 November
+| [[Berkas:Jose Anmer Paredes.jpg|100px]]<br>[[Jos Anmer Paredes|Jos Anmer Paredes Jaimes]]
+| {{flag|Venezuela}}
+| {{flagicon|Indonesia}} Indonesia
+| 38
+|-
+| [[Mister International 2014|2014]]
+| 14 Februari 2015
+| [[Berkas:Neil_Perez.jpg|100px]]<br>[[Neil Perez]]
+| {{flag|Filipina}}
+| {{flagicon|Korea Selatan}} [[Seoul]], [[Korea Selatan|Korea]]
+| 29
+|-
+| [[Mister International 2015|2015]]
+| 30 November
+| [[Berkas:Pedro Mendes.jpg|100px]]<br>[[Pedro Mendes]]
+| {{flag|Swiss}}
+| {{flagicon|Filipina}} [[Manila]], [[Filipina]]
+| 36
+|}
+
+=== Berdasarkan jumlah kemenangan ===
+{| class="sortable" border="5" cellpadding="3" cellspacing="0" style="margin: 1em 1em 1em 0; background: #FFFFFF; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
+|- bgcolor="#787878" colspan=10 align="center"
+|width="150"|<span style="color:#FFFFFF">'''Negara'''</span>||width="30"|<span style="color:#FFFFFF">'''Jumlah'''</span>||width="100"|<span style="color:#FFFFFF">'''Tahun'''</span>
+|-
+|{{flag|Brasil}}
+| align=center rowspan="2"|2
+|2007, 2011
+|-
+|{{flag|Lebanon}}
+|2006, 2012 
+|-
+|{{flag|Swiss}}
+| align=center rowspan="6"|1
+|2015
+|-
+|{{flag|Filipina}}
+|2014
+|-
+|{{flag|Venezuela}}
+|2013
+|-
+|{{flag|Britania Raya}}
+|2010
+|-
+|{{flag|Bolivia}}
+|2009
+|-
+|{{flag|Vietnam}}
+|2008
+|-
+|}
+
+== Pranala luar ==
+* [http://www.misterinternational.net Situs resmi]
+
+{{Mister International}}
+[[Category:Mister International|D]]

@@ -1,0 +1,140 @@
+Komputer
+{{periksaterjemahan|date=2012}}{{takakurat}}
+[[Berkas:Personal computer, exploded 4.svg|thumb|300px|Bagian-bagian Komputer Personal.<br />
+<small>1: [[Monitor]]<br />
+2: [[Papan induk]]<br />
+3: [[Unit Pemroses Sentral|Pemroses]]<br />
+4: Slot [[ATA]]<br />
+5: [[Memori akses acak|Memori Akses Acak]] (MAA)<br />
+6: [[PCI|Slot PCI]]<br />
+7: [[Pencatu daya]]<br />
+8: [[Penggerak cakram optis]]<br />
+9: [[Cakram keras]]<br />
+10: [[Papan ketik|Papan Tombol]]<br />
+11: [[Tetikus]]</small>]]
+
+'''Komputer''' adalah alat yang dipakai untuk mengolah [[data]] menurut [[prosedur]] yang telah dirumuskan. Kata ''computer'' pada awalnya dipergunakan untuk menggambarkan orang yang perkerjaannya melakukan perhitungan [[aritmatika]], dengan atau tanpa alat bantu, tetapi arti kata ini kemudian dipindahkan kepada mesin itu sendiri. Asal mulanya, pengolahan informasi hampir eksklusif berhubungan dengan masalah aritmetika, tetapi komputer modern dipakai untuk banyak tugas yang tidak berhubungan dengan [[matematika]].
+
+Dalam arti seperti itu terdapat alat seperti ''slide rule'', jenis [[kalkulator mekanik]] mulai dari [[abakus]] dan seterusnya, sampai semua komputer [[elektronik]] yang kontemporer. Istilah lebih baik yang cocok untuk arti luas seperti "komputer" adalah "yang mengolah [[informasi]]" atau "[[sistem]] pengolah [[informasi]]." Selama bertahun-tahun sudah ada beberapa arti yang berbeda dalam kata "komputer", dan beberapa kata yang berbeda tersebut sekarang disebut sebagai komputer.
+
+Kata ''computer'' secara umum pernah dipergunakan untuk mendefiniskan orang yang melakukan perhitungan aritmetika, dengan atau tanpa mesin pembantu. Menurut ''Barnhart Concise Dictionary of Etymology'', kata tersebut digunakan dalam bahasa Inggris pada tahun 1646 sebagai kata untuk "orang yang menghitung" kemudian menjelang 1897 juga digunakan sebagai "alat hitung mekanis". Selama Perang Dunia II kata tersebut menunjuk kepada para pekerja wanita [[Amerika Serikat]] dan [[Inggris]] yang pekerjaannya menghitung jalan artileri perang dengan mesin hitung.
+
+[[Charles Babbage]] mendesain salah satu mesin hitung pertama yang disebut mesin analitikal. <!-- , tetapi karena masalah teknologi tidak dibuat seumur hidupnya. --> Selain itu, berbagai alat mesin sederhana seperti ''slide rule'' juga sudah dapat dikatakan sebagai komputer. <!-- Di beberapa kasus mereka disebut sebagai "komputer analog", sewaktu mereka melambangkan nomor oleh continuous kuantitas-kuantitas fisik daripada di samping digit biner yang berlainan. Apa sekarang menyebut "komputer" saja secara umum pernah menyebut "komputer digital" untuk membedakan mereka dari alat lain ini (yang masih dipakai di bidang [[analog pengolahan tanda]], misalnya). Dalam bahasa lain kata yang dipilih selalu tidak mempunyai arti harfiah yang sama sebagai kata [[bahasa Inggris]]. Dalam [[bahasa Perancis]] misalnya, kata yang digunakan ialah "ordinateur", yang berarti kira-kira "organisator", atau "memisahkan mesin". Pada [[bahasa Spanyol]] digunakan juga kata "ordenador", dengan arti sama, walaupun di beberapa negara mereka menggunakan anglicism ''computadora''. Dalam [[bahasa Italia]], komputer ialah "calcolatore", kalkulator, menekankannya computational menggunakan di balik yang logis seperti penyortiran. Dalam [[bahasa Swedia]], komputer disebut "dator" dari "data". Atau pada tahun 1950-an, mereka disebut "matematikmaskin" (mesin matematika). Dalam bahasa Tionghoa, komputer disebut "dien nau" atau suatu "otak listrik". Dalam bahasa Inggris, kata lain dan frase sudah bekas, seperti "mesin pengolahan data". -->
+
+== Jenis ==
+
+[[Berkas:Global Digital Divide1.png|350px|right]]
+Sekalipun demikian, definisi di atas mencakup banyak alat khusus yang hanya bisa memperhitungkan satu atau beberapa fungsi. Ketika mempertimbangkan komputer modern, sifat yang paling membedakan mereka dari alat penghitung yang terdahulu ialah dengan [[pemrograman]] yang benar, semua komputer dapat [[emulator|mengemulasi]] sifat apa pun (meskipun barangkali dibatasi oleh kapasitas penyimpanan dan kecepatan yang berbeda), dan, memang dipercaya bahwa mesin sekarang bisa meniru alat perkomputeran yang akan diciptakan manusia pada masa depan (meskipun niscaya lebih lambat). Dalam suatu pengertian, batas kemampuan ini adalah tes yang berguna karena mengenali komputer "maksud umum" dari alat maksud istimewa yang lebih awal. Definisi dari "maksud umum" bisa diformulasikan ke dalam syarat bahwa suatu mesin harus dapat meniru [[Mesin Turing]] universal.
+Mesin yang mendapat definisi ini dikenal sebagai [[Turing-lengkap]], dan yang pertama kali muncul pada tahun 1940 di tengah kesibukan perkembangan di seluruh dunia. Lihat artikel [[sejarah perkomputeran]] untuk lebih banyak detail periode ini.
+
+=== Komputer benam ===
+Sekitar 20 tahun yang lalu, banyak alat rumah tangga, khususnya panel dari [[permainan video]] juga mencakup [[telepon]] genggam, [[perekam kaset video]], PDA dan banyak sekali dalam rumahtangga, industri, otomotif, dan alat elektronik lain, semua berisi sirkuit elektronik seperti komputer yang memenuhi syarat Turing-lengkap di atas (dengan catatan bahwa program dari alat ini seringkali dibuat secara langsung di dalam [[chip]] [[ROM]] yang akan perlu diganti untuk mengubah program mesin). Maksud khusus komputer yang lain secara umum dikenal sebagai "[[mikrokontroler]]" atau "[[komputer benam]]" (''embedded computer''). Oleh karena itu, banyak yang membatasi definisi komputer kepada alat yang maksud pokoknya adalah pengolahan informasi, daripada menjadi bagian dari sistem yang lebih besar seperti telepon, [[oven mikrowave]], atau [[pesawat terbang]], dan dapat diubah untuk berbagai maksud oleh pengguna tanpa modifikasi fisik. [[Komputer kerangka utama]], [[minikomputer]], dan [[komputer pribadi (PC)]] adalah '''macam utama komputer''' yang mendapat definisi ini.
+
+=== Komputer pribadi ===
+{{main|Komputer pribadi}}
+Komputer pribadi atau ''personal computer'' (''PC'') adalah istilah untuk komputer yang banyak diketahui orang pada umumnya sehingga banyak orang yang tak akrab dengan bentuk komputer selain komputer pribadi. Hanya orang-orang tertentu saja yang memakai istilah ini secara eksklusif untuk menunjukkan istilah yang lebih spesifik dan tepat.
+
+Komputer pribadi diperkenalkan pertama kali di Indonesia pada tahun 1980 oleh almarhum Eddy Liew, pendiri Dragon Computer & Communication melalui merek Sinclair yang berasal dari Inggris.
+
+== Bagaimana komputer bekerja ==
+Saat teknologi yang dipakai pada komputer [[digital]] sudah berganti secara dramatis sejak komputer pertama pada tahun [[1940]]-an (lihat [[Sejarah perangkat keras menghitung]] untuk lebih banyak detail), komputer kebanyakan masih menggunakan [[arsitektur Von Neumann]], yang diusulkan pada awal 1940-an oleh [[John von Neumann]].
+
+[[Arsitektur Von Neumann|Arsitektur]] Von Neumann menggambarkan komputer dengan empat bagian utama: [[ALU|Unit Aritmatika dan Logis]] (ALU), [[unit kontrol]], [[memori]], dan alat masukan dan hasil (secara kolektif dinamakan I/O). Bagian ini dihubungkan oleh berkas kawat, "[[bus komputer|bus]]"
+
+=== Memori ===
+[[Berkas:RAM n.jpg|thumb|200px|modul memori [[RAM]]]]
+Di sistem ini, [[komputer storage|memori]] adalah urutan [[byte]] yang dinomori (seperti "sel" atau "lubang burung dara"), masing-masing berisi sepotong kecil informasi. Informasi ini mungkin menjadi perintah untuk mengatakan pada komputer apa yang harus dilakukan. Sel mungkin berisi [[data]] yang diperlukan komputer untuk melakukan suatu perintah. Setiap slot mungkin berisi salah satu, dan apa yang sekarang menjadi data mungkin saja kemudian menjadi perintah.
+
+Memori menyimpan berbagai bentuk informasi sebagai angka biner. Informasi yang belum berbentuk biner akan dipecahkan (encoded) dengan sejumlah instruksi yang mengubahnya menjadi sebuah angka atau urutan angka-angka. Sebagai contoh: Huruf F disimpan sebagai angka desimal 70 (atau angka biner) menggunakan salah satu metode pemecahan. Instruksi yang lebih kompleks bisa digunakan untuk menyimpan gambar, suara, video, dan berbagai macam informasi. Informasi yang bisa disimpan dalam satu sell dinamakan sebuah byte.
+
+Secara umum, memori bisa ditulis kembali lebih jutaan kali - memori dapat diumpamakan sebagai papan tulis dan kapur yang dapat ditulis dan dihapus kembali, daripada buku tulis dengan pena yang tidak dapat dihapus.
+
+Ukuran masing-masing sel, dan jumlah sel, berubah secara hebat dari komputer ke komputer, dan teknologi dalam pembuatan memori sudah berubah secara hebat - dari relay elektromekanik, ke tabung yang diisi dengan air raksa (dan kemudian pegas) di mana pulsa akustik terbentuk, sampai matriks magnet permanen, ke setiap transistor, ke sirkuit terpadu dengan jutaan [[transistor]] di atas satu chip [[silikon]].
+
+=== Pemprosesan ===
+Unit Pengolah Pusat atau [[CPU]] (Central processing Unit) berperan untuk memproses perintah yang diberikan oleh pengguna komputer, mengelolanya bersama data-data yang ada di komputer. Unit atau peranti pemprosesan juga akan berkomunikasi dengan peranti input , output dan storage untuk melaksanakan instruksi yang saling terkait.
+
+<!--[[Berkas:CPU with pins.jpg|thumb|200px|Contoh sebuah [[central processing unit|CPU]] dalam kemasan Ball Grid Array (BGA) ditampilkan terbalik dengan menunjukkan kaki-kakinya.]]-->
+
+Dalam arsitektur von Neumann yang asli, ia menjelaskan sebuah Unit Aritmetika dan Logika, dan sebuah Unit Kontrol. Dalam komputer-komputer modern, kedua unit ini terletak dalam satu sirkuit terpadu (IC - Integrated Circuit), yang biasanya disebut CPU (Central Processing Unit).
+
+'''[[ALU|Unit Aritmatika dan Logika]]''', atau Arithmetic Logic Unit (ALU), adalah alat yang melakukan pelaksanaan dasar seperti pelaksanaan aritmetika (tambahan, pengurangan, dan semacamnya), pelaksanaan logis ([[gerbang logika|AND, OR, NOT]]), dan pelaksanaan perbandingan (misalnya, membandingkan isi sebanyak dua slot untuk kesetaraan). Pada unit inilah dilakukan "kerja" yang sebenarnya.
+
+'''[[Unit kontrol]]''' menyimpan perintah saat ini yang dilakukan oleh komputer, memerintahkan ALU untuk melaksanaan dan mendapatkan kembali informasi (dari memori) yang diperlukan untuk melaksanakan perintah itu, dan memindahkan kembali hasil ke lokasi memori yang sesuai. Unit ini berfungsi mengontrol pembacaan instruksi program komputer.
+
+=== Masukan dan hasil ===
+'''[[Input/output|I/O]]''' membolehkan komputer mendapatkan informasi dari dunia luar, dan menaruh hasil kerjanya di sana, dapat berbentuk fisik (hardcopy) atau non fisik (softcopy).
+Ada berbagai macam alat I/O, dari yang akrab [[Alphanumeric keyboard|keyboard]], [[monitor]] dan [[disk]] drive, ke yang lebih tidak biasa seperti [[webcam]] (kamera web, pencetak, pemindai, dan sebagainya.
+
+Yang dimiliki oleh semua alat masukan biasa ialah bahwa mereka meng-[[encode]] (mengubah) informasi dari suatu macam ke dalam [[data]] yang bisa diolah lebih lanjut oleh sistem komputer digital. Alat output, men-[[decode]] data ke dalam informasi yang bisa dimengerti oleh pemakai komputer. Dalam pengertian ini, sistem komputer digital adalah contoh [[sistem pengolah data]].
+
+=== Instruksi ===
+Perintah yang dibicarakan di atas bukan perintah seperti bahasa manusiawi. Komputer hanya mempunyai perintah sederhana dalam jumlah terbatas yang dirumuskan dengan baik. Perintah biasa yang dipahami kebanyakan komputer ialah "menyalin isi sel 123, dan tempat tiruan di sel 456", "menambahkan isi sel 666 ke sel 042, dan tempat akibat di sel 013", dan "jika isi sel 999 adalah 0, perintah berikutnya anda di sel 345".
+
+Instruksi diwakili dalam komputer sebagai nomor - kode untuk "menyalin" mungkin menjadi 001, misalnya. Suatu himpunan perintah khusus yang didukung oleh komputer tertentu diketahui sebagai [[bahasa mesin]] komputer. Dalam praktiknya, orang biasanya tidak menulis perintah untuk komputer secara langsung di bahasa mesin tetapi memakai [[bahasa pemrograman]] "tingkat tinggi" yang kemudian diterjemahkan ke dalam bahasa mesin secara otomatis oleh program komputer khusus (interpreter dan kompiler). Beberapa bahasa pemrograman berhubungan erat dengan bahasa mesin, seperti [[assembler]] (bahasa tingkat rendah); di sisi lain, bahasa seperti [[Prolog]] didasarkan pada prinsip abstrak yang jauh dari detail pelaksanaan sebenarnya oleh mesin (bahasa tingkat tinggi)
+
+=== Arsitektur ===
+Komputer kontemporer menaruh [[ALU]] dan [[unit kontrol]] ke dalam satu [[sirkuit terpadu]] yang dikenal sebagai [[UPS|Unit Pemroses Sentral]] atau ''CPU''. Biasanya, memori komputer ditempatkan di atas beberapa sirkuit terpadu yang kecil dekat UPS. Alat yang menempati sebagian besar ruangan dalam komputer adalah ancilliary sistem (misalnya, untuk menyediakan tenaga listrik) atau alat I/O.
+
+Beberapa komputer yang lebih besar berbeda dari model di atas di satu hal utama - mereka mempunyai beberapa UPS dan unit kontrol yang bekerja secara bersamaan. Terlebih lagi, beberapa komputer, yang dipakai sebagian besar untuk maksud penelitian dan perkomputeran ilmiah, sudah berbeda secara signifikan dari model di atas, tetapi mereka sudah menemukan sedikit penggunaan komersial.
+
+Fungsi dari komputer secara prinsip sebenarnya cukup sederhana. Komputer mencapai perintah dan data dari memorinya. Perintah dilakukan, hasil disimpan, dan perintah berikutnya dicapai. Prosedur ini berulang sampai komputer dimatikan.
+
+=== Program ===
+[[Program Komputer|Program komputer]] adalah daftar besar perintah untuk dilakukan oleh komputer, barangkali dengan data di dalam tabel. Banyak program komputer berisi jutaan perintah, dan banyak dari perintah itu dilakukan berulang kali. Sebuah komputer pribadi modern yang umum (pada tahun [[2003]]) bisa melakukan sekitar 2-3 [[miliar]] perintah dalam sedetik. Komputer tidak mendapat kemampuan luar biasa mereka lewat kemampuan untuk melakukan perintah kompleks. Tetapi, mereka melakukan jutaan perintah sederhana yang diatur oleh orang pandai, pemrogram."Programmer Baik memperkembangkan set-set perintah untuk melakukan tugas biasa (misalnya, menggambar titik di layar) dan lalu membuat set-set perintah itu tersedia kepada programmer lain". Sekarang ini, kebanyakan komputer dapat melakukan beberapa program sekaligus. Ini biasanya diserahkan ke sebagai multitasking. Pada kenyataannya, UPS melakukan perintah dari satu program, kemudian setelah beberapa saat, UPS beralih ke program kedua dan melakukan beberapa perintahnya. Jarak waktu yang kecil ini sering diserahkan ke sebagai irisan waktu (''time-slice''). Ini menimbulkan khayal program lipat ganda yang dilakukan secara bersamaan dengan memberikan waktu UPS di antara program. Ini mirip bagaimana film adalah rangkaian kilat saja masih membingkaikan. [[Sistem operasi]] adalah program yang biasanya menguasai kali ini membagikan
+
+==== Sistem operasi ====
+[[Sistem operasi]] adalah semacam gabungan dari potongan kode yang berguna. Ketika semacam kode komputer dapat dipakai secara bersama oleh beraneka-ragam program komputer, setelah bertahun-tahun, pemrogram (programmer) akhirnya memindahkannya ke dalam sistem operasi.
+
+Sistem operasi, menentukan program mana yang akan dijalankan, kapan, dan alat yang mana (seperti memori atau I/O) yang mereka gunakan. Sistem operasi juga memberikan layanan (service) kepada program lain, seperti kode yang membolehkan pemrogram untuk menulis program untuk suatu mesin tanpa perlu mengetahui detail dari semua alat elektronik yang terhubung pada komputer.
+
+== Penggunaan komputer ==
+
+[[Berkas:Computerkids.jpg|250px|thumb|Anak-anak sedang belajar menggunakan komputer bersama sang guru.]]
+Komputer digital pertama, memiliki ukuran yang besar dan membutuhkan biaya besar untuk pembuatannya. Komputer pada masa itu umumnya digunakan untuk mengerjakan perhitungan ilmiah. [[ENIAC]], komputer awal AS awalnya dibuat untuk memperhitungkan tabel ilmu balistik untuk persenjataan (artileri), menghitung kerapatan penampang neutron untuk melihat jika [[bom hidrogen]] akan bekerja dengan semestinya (perhitungan ini, yang dilakukan pada Desember 1945 sampai Januari 1946 dan melibatkan dala dalam lebih dari satu juta [[kartu punch]], memperlihatkan bentuk lalu di bawah pertimbangan akan gagal). [[CSIR Mk 1]]/[[CSIRAC]], komputer pertama Australia, mengevaluasi pola curah hujan untuk tempat penampungan dari [[Snowy Mountains]], suatu proyek pembangkit [[Hidroelektrik]] besar. Selain itu juga dipakai dalam [[kriptanalisis]], misalnya komputer elektronik [[digital]] yang pertama, [[Komputer Colossus|Colossus]], dibuat selama [[Perang Dunia II]]. Akan tetapi, visionaris awal juga menyangka bahwa pemrograman itu akan dapat memainkan catur, memindahkan gambar dan penggunaan lain.
+
+Orang-orang di pemerintah dan perusahaan besar juga memakai komputer untuk mengotomasikan banyak [[data]] dan mengerjakan tugas yang sebelumnya dikerjakan oleh manusia - misalnya, memelihara dan memperbarui rekening dan inventaris. Dalam bidang pendidikan, ilmuwan di berbagai bidang mulai memakai komputer untuk analisis mereka sendiri. Penurunan harga komputer membuat komputer dapat dipakai oleh organisasi yang lebih kecil. Bisnis, organisasi, dan pemerintah sering menggunakan banyak komputer kecil untuk menyelesaikan tugas yang sebelumnya dilakukan oleh komputer kerangka utama yang mahal dan besar. Kumpulan komputer yang lebih kecil di satu lokasi disebut sebagai [[server]].
+
+Dengan penemuan [[mikroprosesor]] di [[1970]]-an, menghasilkan komputer yang sangat murah menjadi mungkin.
+[[Komputer pribadi (PC)|PC]] menjadi populer untuk banyak tugas, termasuk menyimpan buku, menulis, dan mencetak dokumen. Perhitungan meramalkan dan lain berulang matematika dengan [[lembarang sebar]], berhubungan dengan [[e-pos]] dan, [[Internet]]. Namun, ketersediaan luas komputer dan mudah dikostumisasi komputer dapat digunakan untuk banyak pekerjaan lain.
+
+Sekaligus, komputer kecil, biasanya dengan mengatur program, ditemukan cara mengaplikasikan mereka ke dalam alat lain seperti peralatan rumah, mobil, pesawat terbang, dan perlengkapan industri.
+Prosesor [[sistem benam|benam]] menguasai kelakuan alat seperti itu yang lebih mudah, membolehkan kelakuan kontrol yang lebih kompleks (untuk kejadian, perkembangan [[sistem rem anti terkunci]] di mobil). Saat abad kedua puluh satu dimulai, kebanyakan alat listrik, bentuk angkutan bertenaga, dan batas produksi pabrik dikuasai di sisi komputer.
+Kebanyakan insinyur memprediksikan bahwa ini akan terus berkembang.
+
+== Bagian-bagian komputer ==
+Komputer terdiri atas 2 bagian besar yaitu perangkat lunak (''[[software]]'') dan perangkat keras (''[[hardware]]'').
+
+=== Perangkat keras ===
+* [[Unit Pemroses Sentral|Pemroses]] atau CPU sebagai unit pengolah data
+* [[Memori komputer|Memori]] RAM, tempat penyimpanan data sementara
+* ''[[Hard drive]]'', media penyimpanan data semi permanen
+* Perangkat masukan, media yang digunakan untuk memasukkan data untuk diproses oleh CPU, seperti ''[[mouse]]'', ''[[keyboard]]'', dan tablet
+* Perangkat keluaran, media yang digunakan untuk menampilkan hasil keluaran pemrosesan CPU, seperti ''[[monitor]]'', ''[[speaker]]'', ''[[headset]]'', ''[[plotter]]'', ''[[proyektor]]'', dan ''[[printer]]''
+
+=== Perangkat lunak ===
+* [[Sistem operasi]]{{br}}Program dasar pada komputer yang menghubungkan pengguna dengan ''hardware'' komputer. Sistem operasi yang biasa digunakan adalah [[Linux]], [[Windows]], dan [[Mac OS]]. Tugas sistem operasi termasuk (namun tidak hanya) mengatur eksekusi [[program komputer|program]] di atasnya, koordinasi ''[[I/O|input]]'', ''[[I/O|output]]'', pemrosesan, memori, serta instalasi ''software''.
+* [[Program komputer]]{{br}}Merupakan aplikasi tambahan yang dipasang sesuai dengan sistem operasinya
+
+=== Slot pada komputer ===
+* [[Bus ISA|ISA]]/[[bus PCI|PCI]], slot untuk masukan kartu tambahan non-grafis
+* [[AGP]]/[[PCI Express|PCIe]], slot untuk masukan kartu tambahan grafis
+* [[Integrated Drive Electronics|IDE]]/[[SCSI]]/[[Serial ATA|SATA]], slot untuk ''hard drive''/ODD
+* [[Bus USB|USB]], slot untuk masukan media ''plug-and-play'' (colok dan mainkan, artinya perangkat yang dapat dihubungkan ke komputer dan langsung dapat digunakan)
+
+== Jenis komputer ==
+* [[Komputer analog]]
+* [[Komputer pulsa]]
+* [[Mikrokomputer]]
+** [[Komputer rumah]] (''home computer'')
+** [[Komputer pribadi (PC)]]
+** [[Server]]
+* Minikomputer
+* ''Mainframe computer''
+* [[Superkomputer]]
+
+== Pranala luar ==
+* {{id}} [http://www.total.or.id Kamus istilah teknologi informasi]
+
+[[Kategori:Komputer| ]]
+[[Kategori:Artikel kelas-B bertopik teknologi informasi]]

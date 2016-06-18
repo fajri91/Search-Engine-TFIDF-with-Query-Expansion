@@ -1,0 +1,41 @@
+Cikalang christmas
+{{Taxobox
+| name = Cikalang christmas
+| image = Christmas Island Frigatebird.JPG
+| image_caption = Remaja cikalang natal di Teluk Jakarta, Indonesia
+| status = CR
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22697742 |title=''Fregata andrewsi'' |assessors=[[BirdLife International]] |version=2013.2 |year=2013 |accessdate=26 November 2013}}</ref>
+| regnum = [[Animalia]]
+| phylum = [[Chordata]]
+| classis = [[Aves]]
+| ordo = [[Suliformes]]
+| familia = [[Fregatidae]]
+| genus = ''[[Fregata]]''
+| species = '''''F. andrewsi'''''
+| binomial = ''Fregata andrewsi''
+| binomial_authority = [[Gregory Mathews|Mathews]], 1914
+}}
+
+'''Cikalang christmas''' (''Fregata andrewsi'') adalah [[spesies]] burung dari keluarga [[Fregatidae]], dari [[genus]] [[Fregata]]. Burung ini merupakan jenis burung pemakan ikan dan bagian tubuh binatang lain, hidup atau mati yang memiliki habitat di laut, pantai. Burung ini hidup endemis di [[Pulau Natal]], [[Samudra Hindia]].
+
+== Ciri-ciri ==
+Cikalang christmas memiliki tubuh berukuran besar (95 cm). Jantan: Hitam-hijau berkilap. Kantung paruh merah. Perut putih. Betina: Dada, perut putih, "taji" putih meluas sampai sayap bawah. Kerah putih. Lingkar mata merah jambu. Remaja: Lebih coklat. Kepala coklat karat pucat. Garis gelap lebar melintang dada. Iris coklat gelap, paruh hitam (jantan) atau merah jambu (betina), kaki abu-abu keunguan, telapak kaki kemerahjambuan. Hidup di laut, membumbung tinggi di atas permukaan mengikuti udara panas, mengikuti rombongan ikan. Menangkap mangsa di permukaan laut tanpa mendarat. Merampas makanan dari burung laut lain. Beristirahat dengan bertengger di pepohon di pulau-pulau kecil.
+  
+
+== Penyebaran ==
+* Berbiak: [[Pulau Natal]]
+* Indonesia, Malaysia.
+
+== Referensi ==
+{{reflist}}
+* http://bio.undip.ac.id/sbw/sp_daftar_indo.htm
+
+
+{{burung-stub}}
+
+[[Kategori:Fregata]]
+[[Kategori:Burung Indonesia]]
+[[Kategori:Burung Australia]]
+[[Kategori:Burung India]]
+[[Kategori:Burung Timor Leste]]

@@ -1,0 +1,135 @@
+Bandar Udara Internasional Los Cabos
+{{Infobox airport 
+| name         = Los Cabos International Airport
+| nativename   = 
+| nativename-a = 
+| nativename-r = 
+| image        = Los_Cabos_International_Airport.JPG
+| image-width  = 200
+| caption      = 
+| IATA         = SJD
+| ICAO         = MMSD
+<center>{{Location map|Mexico Baja California Sur|width=200|float=center
+|caption=|mark=Airplane_silhouette.svg|marksize=10
+|label=SJD|position=left
+|lat_deg=23|lat_min=09|lat_sec=06|lat_dir=N
+|lon_deg=109|lon_min=43|lon_sec=15|lon_dir=W
+}}<small>Location of airport in Baja California Sur</small></center>
+| type         = Public
+| owner        = 
+| operator     = [[Grupo Aeroportuario del Pacfico]]
+| city-served  = 
+| location     = San Jos del Cabo, Baja California Sur
+| elevation-f  = 374
+| elevation-m  = 114
+| coordinates  = {{Coord|23|09|06|N|109|43|15|W|type:airport}}
+| website      = 
+| metric-elev  = 
+| metric-rwy   = 
+| r1-number    = 16/34
+| r1-length-f  = 9,843
+| r1-length-m  = 3,000
+| r1-surface   = [[Aspal]]
+| stat-year    = 2011
+| stat1-header = Total Passengers
+| stat1-data   = 2,807,000
+| stat2-header = 
+| stat2-data   = 
+| footnotes    = Source: Grupo Aeroportuario del Pacfico
+}}
+
+'''Bandar Udara Internasional Los Cabos''' {{airport codes|SJD|MMSD}} adalah bandar udara terpenting ke-5 di [[Meksiko]] yang terletak di [[San Jos del Cabo]], [[Baja California Sur]], [[Meksiko]]. Bandar udara ini melayani area [[Los Cabos]]: [[San Jos del Cabo]] dan [[Cabo San Lucas]]. Bandar udara ini memiliki 3 terminal dengan 4 concourse.
+
+== Maskapai Penerbangan dan Terminal ==
+[[Image:Aeromexico Boeing 767-300ER at Los Cabos International Airport.jpg|right|thumb|[[Aeromxico]] [[Boeing 767-300]] at Terminal 1]]
+[[Image:San Jose del Cabo Airport Terminals.jpg|right|thumb|Terminal Layout (After T4 is completed)]]
+[[Image:Pista 16 SJD.jpg|thumb|Airport's Rumway.]]
+[[Image:Los Cabos International Airport tower.jpg|thumb|Airport's Control Tower.]]
+
+{{Airport-dest-list | 3rdcoltitle=Terminal
+| [[Aeromxico]]|[[Mexico City International Airport|Mexico City]] | 1
+| [[Aeromxico Connect]]|[[Mexico City International Airport|Mexico City]] | 1
+| [[Air Canada]]| '''Seasonal''': [[Calgary International Airport|Calgary]], [[Montral-Pierre Elliott Trudeau International Airport|Montreal-Trudeau]], [[Toronto Pearson International Airport|Toronto-Pearson]], [[Vancouver International Airport|Vancouver]] | 1
+| [[Air Transat]]| '''Seasonal''': [[Calgary International Airport|Calgary]], [[Montral-Pierre Elliott Trudeau International Airport|Montreal-Trudeau]], [[Vancouver International Airport|Vancouver]] | 1
+| [[AirTran Airways]] operated by <br>[[Southwest Airlines]] | [[John Wayne Airport|Orange County]] | 3
+| [[Alaska Airlines]]|[[Los Angeles International Airport|Los Angeles]], [[San Diego International Airport|San Diego]], [[San Francisco International Airport|San Francisco]], [[San Jose International Airport|San Jose (CA)]], [[Seattle-Tacoma International Airport|Seattle/Tacoma]] | 3
+| [[American Airlines]]|[[Dallas/Fort Worth International Airport|Dallas/Fort Worth]], [[Los Angeles International Airport|Los Angeles]] <br> '''Seasonal''': [[O'Hare International Airport|Chicago-O'Hare]] | 1
+| [[CanJet]]| '''Seasonal''': [[Calgary International Airport|Calgary]], [[Kelowna International Airport|Kelowna]], [[Toronto Pearson International Airport|Toronto-Pearson]], [[Vancouver International Airport|Vancouver]] |1
+| [[Delta Air Lines]]|[[Hartsfield-Jackson Atlanta International Airport|Atlanta]], [[Salt Lake City International Airport|Salt Lake City]] <br> '''Seasonal''': [[Detroit Metropolitan Wayne County Airport|Detroit]], [[Minneapolis-Saint Paul International Airport|Minneapolis/St. Paul]] | 3
+| [[Delta Connection]] operated by <br>[[SkyWest Airlines]]|[[Salt Lake City International Airport|Salt Lake City]] | 3
+| [[Enerjet]]|[[Vancouver International Airport|Vancouver]] | 1
+| [[Frontier Airlines]]| [[Denver International Airport|Denver]] <br> '''Seasonal:''' [[Kansas City International Airport|Kansas City]] | 3
+| [[Interjet]]|[[Miguel Hidalgo y Costilla International Airport|Guadalajara]], [[Mexico City International Airport|Mexico City]], [[Lic. Adolfo Lpez Mateos International Airport|Toluca]] | 1
+| [[Magnicharters]]|[[Mexico City International Airport|Mexico City]]| 1
+| [[Sun Country Airlines]]| '''Seasonal''': [[Minneapolis-Saint Paul International Airport|Minneapolis/St. Paul]]<ref>[http://www.suncountry.com/reservations/routemap.shtml]</ref> | 1
+| [[Sunwing Airlines]]| '''Seasonal''': [[Calgary International Airport|Calgary]], [[Edmonton International Airport|Edmonton]], [[Montral-Pierre Elliott Trudeau International Airport|Montral-Trudeau]], [[Ottawa Macdonald-Cartier International Airport|Ottawa]], [[Toronto Pearson International Airport|Toronto-Pearson]], [[Winnipeg James Armstrong Richardson International Airport|Winnipeg]], [[Vancouver International Airport|Vancouver]] |1
+| [[United Airlines]]|[[Denver International Airport|Denver]], [[George Bush Intercontinental Airport|Houston-Intercontinental]], [[Los Angeles International Airport|Los Angeles]], [[Newark Liberty International Airport|Newark]] <br> '''Seasonal''': [[O'Hare International Airport|Chicago-O'Hare]], [[San Francisco International Airport|San Francisco]]| 1,3
+| [[United Express]] operated by <br>[[ExpressJet Airlines]]|[[George Bush Intercontinental Airport|Houston-Intercontinental]] | 1
+| [[US Airways]]|[[Charlotte/Douglas International Airport|Charlotte]], [[Phoenix Sky Harbor International Airport|Phoenix]]| 1
+| [[Virgin America]]|[[San Francisco International Airport|San Francisco]] | 1
+| [[VivaAerobus]]|[[Federal de Bachigualato International Airport|Culiacn]], [[Miguel Hidalgo y Costilla International Airport|Guadalajara]], [[General Mariano Escobedo International Airport|Monterrey]] <br>'''Seasonal:''' [[Mexico City International Airport|Mexico City]] | 1
+| [[Volaris]]|[[Miguel Hidalgo y Costilla International Airport|Guadalajara]], [[Mexico City International Airport|Mexico City]], [[Tijuana International Airport|Tijuana]], [[Lic. Adolfo Lpez Mateos International Airport|Toluca]]  | 1
+| [[WestJet]]|[[Calgary International Airport|Calgary]], [[Vancouver International Airport|Vancouver]] <br> '''Seasonal''': [[Edmonton International Airport|Edmonton]], [[Kelowna International Airport|Kelowna]], [[Winnipeg James Armstrong Richardson International Airport|Winnipeg]] [begins December 21, 2012] | 3
+}}
+
+==Statistik==
+{| class="wikitable" style="font-size: 85%" width=align=
+|+ '''Top Ten Busiest International Routes Out of Los Cabos International Airport (2010)<ref>[http://www.sct.gob.mx/transporte-y-medicina-preventiva/aeronautica-civil/estadisticas/ Mexico Aviation Statistics]</ref>
+|-
+! Rank
+! City
+! Passengers
+|-
+| 1
+| {{flagicon|California}} [[Los Angeles International Airport|Los Angeles, California]]
+| 202,248
+|-
+| 2
+| {{flagicon|Arizona}} [[Phoenix Sky Harbor International Airport|Phoenix, Arizona]]
+| 161,303 
+|-
+| 3
+| {{flagicon|Texas}} [[Dallas/Fort Worth International Airport|Dallas, Texas]]
+| 113,758
+|-
+| 4
+| {{flagicon|Texas}} [[George Bush Intercontinental Airport|Houston, Texas]]
+| 87,996
+|-
+| 5
+| {{flagicon|California}} [[San Francisco International Airport|San Francisco, California]]
+| 72,366
+|-
+| 6
+| {{flagicon|California}} [[San Diego International Airport|San Diego, California]]
+| 53,929
+|-
+| 7
+| {{flagicon|Illinois}} [[O'Hare International Airport|Chicago, Illinois]]
+| 40,823
+|-
+| 8
+| {{flagicon|Colorado}} [[Denver International Airport|Denver, Colorado]]
+| 38,515
+|-
+| 9
+| {{flagicon|Georgia (U.S. state)}} [[HartsfieldJackson Atlanta International Airport|Atlanta, Georgia]]
+| 26,127
+|-
+| 10
+| {{flagicon|New Jersey}} [[Newark Liberty International Airport|Newark, New Jersey]]
+| 25,485
+|}
+
+==Referensi==
+<references/>
+
+== Pranala luar ==
+* [http://loscabos.aeropuertosgap.com.mx/index.php?lang=eng Website Resmi (Bahasa Inggris)]
+* {{WAD|MMSD}}
+* [http://SJDLosCabosAirport.com Information site about SJD Airport (English)]
+
+[[Kategori:Bandar udara di Meksiko|Los Cabos]]
+
+
+{{bandara-stub}}

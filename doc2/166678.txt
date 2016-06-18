@@ -1,0 +1,55 @@
+tiolles
+{{French commune
+|nomcommune=tiolles
+|image=
+|caption=
+|image_map=France_jms.png
+|x=142
+|y=80
+|lat_long={{coord|48|38|11|N|2|28|25|E|region:FR_type:city}}
+|insee=91225
+|cp=91450
+|rgion=[[le-de-France (region)|le-de-France]]
+|dpartement=[[Essonne]]
+|arrondissement=vry
+|canton=[[Kanton Saint-Germain-ls-Corbeil|Saint-Germain-ls-Corbeil]]
+|intercomm=[[Communaut d'agglomration Seine-Essonne|CA Seine-Essonne]]
+|maire=Philippe Brun
+|mandat=2008-2014
+|alt mini=32 m
+|alt maxi=86 m
+|km=11.65
+|sans=2,548
+|date-sans=1999
+|dens=219
+|date-dens=1999
+|}}
+
+'''tiolles''' merupakan sebuah kota dan [[komune di Perancis|komune]] di ''[[departemen di Perancis|dpartement]]'' [[Essonne]], di [[region di Perancis|region]] [[le-de-France (region)|le-de-France]] di [[Perancis]].
+
+== Demografi ==
+Menurut [[sensus]] 1999, penduduknya berjumlah {{formatnum:2548}} jiwa.
+
+Penduduk tiolles disebut sebagai ''''.
+
+== Lihat pula ==
+* [[Komune di departemen Essonne]]
+
+== Catatan ==
+* [http://www.ume.asso.fr Mayors of Essonne Association] {{fr icon}}
+* [http://www.insee.fr/en/home/home_page.asp INSEE] {{en icon}}
+* [http://www.ign.fr/rubrique.asp?rbr_id=1&lng_id=EN IGN] {{en icon}}
+
+== Pranala luar ==
+* [http://www.etiolles.fr Official website] {{fr icon}}
+* [http://www.culture.gouv.fr/public/mistral/merimee_fr?ACTION=CHERCHER&FIELD_98=INSEE&VALUE_98=91225 Mrime database - Cultural heritage] {{fr icon}}
+* [http://www.iaurif.org/en/gis/fichescom/mos99/ficmos/mos91225.html Land use (IAURIF)] {{en icon}}
+
+{{Komune di Essonne}}
+
+{{DEFAULTSORT:Etiolles}}
+[[Kategori:Komune di Essonne]]
+[[Kategori:Komune di Perancis]]
+
+
+{{Perancis-geo-stub}}

@@ -1,0 +1,15 @@
+Wikipedia:Gambar pilihan/76 2012
+{{GP/2
+|gambar     = Pripyat Panorama.JPG
+|vertikal   = n
+|panorama   = y
+|deskripsi  = Foto panorama kota [[Pripyat, Ukraina]]
+|oleh       = [[:commons:User:Bkv7601|Bkv7601]]
+|lisensi    = {{GP-CC|Atribusi-Berbagi Serupa 3.0}}
+|ukuran     = 7,06 MB
+|dimensi    = 8.000  1.386
+|tahun      = 2012
+|seluler    = {{{seluler|no}}}
+|sblm       = Eid ul-Fitr Family Istiqlal Mosque Jakarta.JPG
+|des-sblm   = Shalat Ied di Masjid Istiqlal, Jakarta
+}}<noinclude>{{GPdoc|76 2012}}</noinclude>

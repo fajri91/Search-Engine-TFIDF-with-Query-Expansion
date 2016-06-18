@@ -1,0 +1,21 @@
+Africa/Cairo
+{{Infobox IANA time zone}}
+'''Africa/Cairo''' adalah tanda pengenal [[zona waktu]] untuk berkas zona di [[basis data zona waktu IANA]]. Rincian datanya sebagai berikut:
+
+ {{tz/country code|Africa/Cairo}}
+ {{tz/coordinates|Africa/Cairo}}
+ Africa/Cairo
+ {{tz/comments|Africa/Cairo}}
+
+Titik referensinya terletak di [[Kairo]].
+
+==Wilayah==
+Wilayah yang dicakup adalah [[Mesir]].
+{{clear}}
+
+== Lihat pula ==
+* [[Waktu di Mesir]]
+
+{{DEFAULTSORT:Africa Cairo}}
+[[Kategori:Waktu di Mesir]]
+[[Kategori:Basis Data Zona Waktu]]

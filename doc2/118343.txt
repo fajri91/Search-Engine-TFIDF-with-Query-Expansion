@@ -1,0 +1,19 @@
+Boling
+[[Berkas:Bowlerbowling.JPG|thumb|300px|Seorang peboling menggelindingkan bola boling.]]
+
+'''Bowling''' adalah jenis [[olahraga]] atau [[permainan]] yang dimainkan dengan menggelindingkan bola khusus menggunakan [[tangan|satu tangan]]. Bola boling akan digelindingkan ke pin yang berjumlah sepuluh buah yang telah disusun menjadi bentuk [[segitiga]] jika dilihat dari atas.
+
+Jika semua pin dijatuhkan dalam sekali gelinding (lemparan) maka itu disebut ''strike''. Jika pin tidak dijatuhkan sekaligus maka diberikan satu kesempatan lagi untuk menjatuhkan pin yang tersisa. Bilamana pada ''lemparan'' kedua tidak ada lagi pin tersisa disebut ''spare''. Jika setelah dua kali masih ada pin yang tersisa maka disebut ''open frame'' (''missed'') yang kesemuanya itu akan menentukan perhitungan angka yang didapat dalam setiap game. Pin akan kembali disusun seperti semula untuk frame selanjutnya.
+
+Cara perhitungan angka untuk olahraga ini adalah: 
+* Setiap permainan mempunyai 10 ''frame'' 
+* Setiap ''frame'' mempunyai 2 kotak yang melambangkan dua kali kesempatan lemparan 
+* Khusus pada ''frame'' ke 10 ada 3 kotak yang artinya bisa mempunyai kesempatan 3 kali lemparan
+* Skor tertinggi dalam setiap permainannya adalah 300 yang disebut ''perfect game''
+* Setiap ''frame strike'' akan mendapatkan tambahan angka dari 2 lemparan selanjutnya, sedangkan untuk ''spare'' mendapat tambahan angka dari 1 lemparan selanjutnya.
+
+[[Kategori:Cabang olahraga]]
+[[Kategori:Boling]]
+
+
+{{olahraga-stub}}

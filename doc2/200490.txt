@@ -1,0 +1,68 @@
+Templat:National squad no numbers
+{{navbox
+|name       = {{{name}}}
+| listclass = hlist
+|titlestyle=background: {{{bg|transparent}}}; color:{{{fg|inherit}}}; border: 1px solid {{{bordercolor|#aaa}}};
+|image      = {{flagicon|{{{country}}}|{{{flagvar|}}}|size=50px}}
+|title      = [[Skuat {{{comp link}}}|<span style="color:{{{fg|inherit}}};">Skuat</span>]] [[{{{team link|Tim nasional sepak bola {{#switch:{{{gender|}}}|female=wanita}} {{{country}}}}}}|<span style="color: {{{fg|inherit}}};">{{{title|{{{country}}}}}}</span>]] <span style="color: {{{fg|inherit}}};"> pada </span> [[{{{comp link|{{{comp}}}}}}|<span style="color: {{{fg}}};">{{{comp}}}</span>]]
+|list1      = <small>{{{pos1}}}</small>&nbsp;{{{p1}}}&nbsp; <small>{{{pos2}}}</small>&nbsp;{{{p2}}}&nbsp; <small>{{{pos3}}}</small>&nbsp;{{{p3}}}&nbsp; <small>{{{pos4}}}</small>&nbsp;{{{p4}}}&nbsp; <small>{{{pos5}}}</small>&nbsp;{{{p5}}}&nbsp; <small>{{{pos6}}}</small>&nbsp;{{{p6}}}&nbsp; <small>{{{pos7}}}</small>&nbsp;{{{p7}}}&nbsp; <small>{{{pos8}}}</small>&nbsp;{{{p8}}}&nbsp; <small>{{{pos9}}}</small>&nbsp;{{{p9}}}&nbsp; <small>{{{pos10}}}</small>&nbsp;{{{p10}}}&nbsp; <small>{{{pos11}}}</small>&nbsp;{{{p11}}}{{#if: {{{p12|<noinclude>-</noinclude>}}} |&nbsp; <small>{{{pos12}}}</small>&nbsp;{{{p12}}}}}{{#if: {{{p13|<noinclude>-</noinclude>}}} |&nbsp; <small>{{{pos13}}}</small>&nbsp;{{{p13}}}}}{{#if: {{{p14|<noinclude>-</noinclude>}}} |&nbsp; <small>{{{pos14}}}</small>&nbsp;{{{p14}}}}}{{#if: {{{p15|<noinclude>-</noinclude>}}} |&nbsp; <small>{{{pos15}}}</small>&nbsp;{{{p15}}}}}{{#if: {{{p16|<noinclude>-</noinclude>}}} |&nbsp; <small>{{{pos16}}}</small>&nbsp;{{{p16}}}}}{{#if: {{{p17|<noinclude>-</noinclude>}}} |&nbsp; <small>{{{pos17}}}</small>&nbsp;{{{p17}}}}}{{#if: {{{p18|<noinclude>-</noinclude>}}} |&nbsp; <small>{{{pos18}}}</small>&nbsp;{{{p18}}}}}{{#if: {{{p19|<noinclude>-</noinclude>}}} |&nbsp; <small>{{{pos19}}}</small>&nbsp;{{{p19}}}}}{{#if: {{{p20|<noinclude>-</noinclude>}}} |&nbsp; <small>{{{pos20}}}</small>&nbsp;{{{p20}}}}}{{#if: {{{p21|<noinclude>-</noinclude>}}} |&nbsp; <small>{{{pos21}}}</small>&nbsp;{{{p21}}}}}{{#if: {{{p22|<noinclude>-</noinclude>}}} |&nbsp; <small>{{{pos22}}}</small>&nbsp;{{{p22}}}}}{{#if: {{{p23|<noinclude>-</noinclude>}}} |&nbsp; <small>{{{pos23}}}</small>&nbsp;{{{p23}}}}}{{#if: {{{p24|<noinclude>-</noinclude>}}} |&nbsp; <small>{{{pos24}}}</small>&nbsp;{{{p24}}}}}{{#if: {{{p25|<noinclude>-</noinclude>}}} |&nbsp; <small>{{{pos25}}}</small>&nbsp;{{{p25}}}}}{{#if: {{{p26|<noinclude>-</noinclude>}}} |&nbsp; <small>{{{pos26}}}</small>&nbsp;{{{p26}}}}}{{#if: {{{p27|<noinclude>-</noinclude>}}} |&nbsp; <small>{{{pos27}}}</small>&nbsp;{{{p27}}}}}{{#if: {{{p28|<noinclude>-</noinclude>}}} |&nbsp; <small>{{{pos28}}}</small>&nbsp;{{{p28}}}}}{{#if: {{{p29|<noinclude>-</noinclude>}}} |&nbsp; <small>{{{pos29}}}</small>&nbsp;{{{p29}}}}}{{#if: {{{p30|<noinclude>-</noinclude>}}} |&nbsp; <small>{{{pos30}}}</small>&nbsp;{{{p30}}}}}{{#if: {{{p31|<noinclude>-</noinclude>}}} |&nbsp; <small>{{{pos31}}}</small>&nbsp;{{{p31}}}}}{{#if: {{{p32|<noinclude>-</noinclude>}}} |&nbsp; <small>{{{pos32}}}</small>&nbsp;{{{p32}}}}}{{#if: {{{p33|<noinclude>-</noinclude>}}} |&nbsp; <small>{{{pos33}}}</small>&nbsp;{{{p33}}}}}{{#if: {{{p34|<noinclude>-</noinclude>}}} |&nbsp; <small>{{{pos34}}}</small>&nbsp;{{{p34}}}}}{{#if: {{{p35|<noinclude>-</noinclude>}}} |&nbsp; <small>{{{pos35}}}</small>&nbsp;{{{p35}}}}}{{#if: {{{p36|<noinclude>-</noinclude>}}} |&nbsp; <small>{{{pos36}}}</small>&nbsp;{{{p36}}}}}{{#if: {{{p37|<noinclude>-</noinclude>}}} |&nbsp; <small>{{{pos37}}}</small>&nbsp;{{{p37}}}}}{{#if: {{{p38|<noinclude>-</noinclude>}}} |&nbsp; <small>{{{pos38}}}</small>&nbsp;{{{p38}}}}}{{#if: {{{p39|<noinclude>-</noinclude>}}} |&nbsp; <small>{{{pos39}}}</small>&nbsp;{{{p39}}}}}{{#if: {{{p40|<noinclude>-</noinclude>}}} |&nbsp; <small>{{{pos40}}}</small>&nbsp;{{{p40}}}}}{{#if: {{{coach|<noinclude>-</noinclude>}}} |&nbsp; <small>Pelatih:</small>&nbsp;{{{coach}}}}} <br/><small>{{{note|}}}</small>
+}}<noinclude>
+<!-- ==Usage==
+{{seealso|Template:National squad}}
+
+This is for national squads where there are no set shirt numbers (e.g. FIFA World Cups 1930, 1934, 1938 and 1950) -->
+<pre>{{National squad no numbers
+  | name      = {{subst:PAGENAME}} (this allows the view/discuss/edit links to work)
+  | bg        = background colour (default = transparent)
+  | fg        = foreground colour (default = inherit)
+  | country   = country name used for flag template
+  | flagvar   = variable for flag variant (see [[:Template:Flagicon]])
+  | team link = link to team's article (default = "''country'' national football team")
+  | title     = main title (default = "''country'' squad")
+  | comp      = competition
+  | comp link = link to competition page (default = ''comp'')
+  | pos1      = posisi pemain 1  | p1        = pemain 1
+  | pos2      = posisi pemain 2  | p2        = pemain 2
+  | pos3      = posisi pemain 3  | p3        = pemain 3
+  | pos4      = posisi pemain 4  | p4        = pemain 4
+  | pos5      = posisi pemain 5  | p5        = pemain 5
+  | pos6      = posisi pemain 6  | p6        = pemain 6
+  | pos7      = posisi pemain 7  | p7        = pemain 7
+  | pos8      = posisi pemain 8  | p8        = pemain 8
+  | pos9      = posisi pemain 9  | p9        = pemain 9
+  | pos10     = posisi pemain 10 | p10       = pemain 10
+  | pos11     = posisi pemain 11 | p11       = pemain 11
+  | pos12     = posisi pemain 12 | p12       = pemain 12 (''tidak harus'')
+  | pos13     = posisi pemain 13 | p13       = pemain 13 (''tidak harus'')
+  | pos14     = posisi pemain 14 | p14       = pemain 14 (''tidak harus'')
+  | pos15     = posisi pemain 15 | p15       = pemain 15 (''tidak harus'')
+  | pos16     = posisi pemain 16 | p16       = pemain 16 (''tidak harus'')
+  | pos17     = posisi pemain 17 | p17       = pemain 17 (''tidak harus'')
+  | pos18     = posisi pemain 18 | p18       = pemain 18 (''tidak harus'')
+  | pos19     = posisi pemain 19 | p19       = pemain 19 (''tidak harus'')
+  | pos20     = posisi pemain 20 | p20       = pemain 20 (''tidak harus'')
+  | pos21     = posisi pemain 21 | p21       = pemain 21 (''tidak harus'')
+  | pos22     = posisi pemain 22 | p22       = pemain 22 (''tidak harus'')
+  | pos23     = posisi pemain 23 | p23       = pemain 23 (''tidak harus'')
+  | pos24     = posisi pemain 24 | p24       = pemain 24 (''tidak harus'')
+  | pos25     = posisi pemain 25 | p25       = pemain 25 (''tidak harus'')
+  | pos26     = posisi pemain 26 | p26       = pemain 26 (''tidak harus'')
+  | pos27     = posisi pemain 12 | p27       = pemain 27 (''tidak harus'')
+  | pos28     = posisi pemain 13 | p28       = pemain 28 (''tidak harus'')
+  | pos29     = posisi pemain 14 | p29       = pemain 29 (''tidak harus'')
+  | pos30     = posisi pemain 15 | p30       = pemain 30 (''tidak harus'')
+  | pos31     = posisi pemain 16 | p31       = pemain 31 (''tidak harus'')
+  | pos32     = posisi pemain 17 | p32       = pemain 32 (''tidak harus'')
+  | pos33     = posisi pemain 18 | p33       = pemain 33 (''tidak harus'')
+  | pos34     = posisi pemain 19 | p34       = pemain 34 (''tidak harus'')
+  | pos35     = posisi pemain 20 | p35       = pemain 35 (''tidak harus'')
+  | pos36     = posisi pemain 21 | p36       = pemain 36 (''tidak harus'')
+  | pos37     = posisi pemain 22 | p37       = pemain 37 (''tidak harus'')
+  | pos38     = posisi pemain 23 | p38       = pemain 38 (''tidak harus'')
+  | pos39     = posisi pemain 24 | p39       = pemain 39 (''tidak harus'')
+  | pos40     = posisi pemain 25 | p40       = pemain 40 (''tidak harus'')
+  | note      = a free-form note placed on a separate line after the rest of the content (''tidak harus'')
+  | coach     = coach (''tidak harus'')
+}}</pre>
+[[Kategori:Templat tim sepak bola| ]]
+</noinclude>

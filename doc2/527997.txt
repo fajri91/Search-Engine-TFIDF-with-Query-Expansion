@@ -1,0 +1,39 @@
+Ruslan Kambolov
+{{Infobox football biography
+|name= Ruslan Kambolov
+|image = [[File:Kambol.JPG|200px]]
+|fullname = Ruslan Aleksandrovich Kambolov 
+|birth_date = {{Birth date and age|1990|1|1|mf=yes}} 
+|birth_place =[[Rusia]], [[Uni Soviet]]
+|height = {{height|meters=1.80}}
+|currentclub  = [[FC Volgar-Gazprom Astrakhan]]
+|clubnumber = 44
+|position = [[Bek|Bek tengah]]/[[Gelandang|gelandang bertahan]]
+|youthyears1 = |youthclubs1 = 
+|years1 = 20072010 |clubs1 = [[FC Lokomotiv Moscow]] |caps1 = 14 |goals1 = 0
+|years2 = 2011 |clubs2 = [[FC Nizhny Novgorod]] |caps2 = 11 |goals2 = 0
+|years3 = 2011 |clubs3 = [[FC Volgar-Gazprom Astrakhan]] |caps3 = 6 |goals3 = 0
+|nationalyears1 = |nationalteam1 = [[Russia national under-21 football team|Russia U-21]] |nationalcaps1 = |nationalgoals1 = 
+|pcupdate = 14:18, 31 Mei 2012 (UTC)
+|ntupdate =
+}}
+'''Ruslan Aleksandrovich Kambolov''' ({{lang-ru|  }}; {{lahirmati||1|1|1990}}) adalah pemain [[sepak bola]] asal [[Rusia]]. Pada saat ini ia bermain untuk tim [[FC Volgar-Gazprom Astrakhan]].<ref>{{cite web|publisher=Sportbox.ru|title=  |url=http://stats.sportbox.ru/player.php?sp=fb&turnir=204&club=1107968843&player=1205952787&pitem=1|language=Russian|accessdate=2009-07-07}}</ref> Ia bermain sebagai [[bek]].
+
+== Referensi ==
+
+{{reflist}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+|NAME              = Kambolov, Ruslan
+|ALTERNATIVE NAMES =
+|SHORT DESCRIPTION = Russian footballer
+|DATE OF BIRTH     = 1 January 1990
+|PLACE OF BIRTH    = [[Russian SFSR]], [[Soviet Union]]
+|DATE OF DEATH     =
+|PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Kambolov, Ruslan}}
+{{lifetime|1990||}}
+{{pemain-sb-stub}}
+
+[[Kategori:Pemain sepak bola Rusia]]

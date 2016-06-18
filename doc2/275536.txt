@@ -1,0 +1,22 @@
+Templat:Kapuas Hulu, Kapuas
+{{Navigasi ID Desa 
+|provinsi=Kalimantan Tengah
+|dati2=Kabupaten
+|nama dati2=Kapuas
+|nama kecamatan=Kapuas Hulu
+|d1= Barunang II 
+|d2= Bulau Ngandung 
+|d3= Hurung Tabengan 
+|d4= Hurung Tampang 
+|d5= Jakatan Pari
+|d6= Katanjung 
+|d7= Rahung Bungai 
+|d8= Sei Hanyu 
+|d9= Supang 
+|d10= Tangirang 
+|d11= Tumbang Puroh 
+|d12= Tumbang Sirat
+}}<noinclude>
+[[Kategori:Templat desa/kelurahan di Kalimantan Tengah|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Kapuas|{{PAGENAME}}]]
+</noinclude>

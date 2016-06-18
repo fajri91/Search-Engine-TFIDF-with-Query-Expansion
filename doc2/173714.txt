@@ -1,0 +1,17 @@
+Templat:Bekas Yugoslavia
+{{Navbox
+|name  = Bekas Yugoslavia
+| listclass = hlist
+| title = Republik dan provinsi otonom pecahan dari [[Republik Federal Sosialis Yugoslavia]]
+|titlestyle = {{{titlestyle|}}}
+|list1 = <div><!--(reduces gap between lines if they wrap)-->
+{{nowrap begin}} [[Bosnia dan Herzegovina]]{{w}} [[Kroasia]]{{w}} [[Republik Makedonia|Makedonia]]{{w}} [[Montenegro]]{{w}} [[Serbia]] <small>([[Vojvodina]]{{w}} [[Kosovo]])</small>{{w}} [[Slovenia]] {{nowrap end}}
+</div>
+}}<noinclude>
+
+[[Kategori:Templat geografi|Yugoslavia]]
+
+[[en:Template:Republics and autonomous provinces of the former Yugoslavia]]
+[[io:Shablono:Yugoslavia]]
+[[tr:ablon:Yugoslavya'nn dalmas]]
+</noinclude>

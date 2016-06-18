@@ -1,0 +1,64 @@
+148780 Altjira
+{{Infobox Planet 
+|minorplanet = yes 
+|width = 25em 
+|bgcolour = 
+|apsis = 
+|name = 148780 Altjira
+|symbol = 
+|image = 
+|caption = 
+|discovery = yes 
+|discovery_ref = 
+|discoverer =Deep Ecliptic Survey
+|discovery_site =695
+|discovered = 2001/10/20
+|designations = yes
+|mp_name = 
+|alt_names = 
+|mp_category = 
+|orbit_ref = 
+|epoch = 
+|aphelion =47.025
+|perihelion =41.892
+|semimajor =44.458
+|eccentricity =0.058
+|period = 
+|avg_speed = 
+|inclination =5.2
+|asc_node =1.9
+|mean_anomaly =116.6
+|arg_peri =302.7
+|satellites = 
+|physical_characteristics = yes 
+|dimensions = 
+|mass = 
+|density = 
+|surface_grav = 
+|escape_velocity = 
+|sidereal_day = 
+|axial_tilt = 
+|pole_ecliptic_lat = 
+|pole_ecliptic_lon = 
+|albedo = 
+|temperatures= 
+|temp_name1 = 
+|mean_temp_1 = 
+|max_temp_1 = 
+|temp_name2 = 
+|max_temp_2 = 
+|spectral_type = 
+|abs_magnitude =5.7
+}}
+'''148780 Altjira''' (2001 UQ18) adalah sebuah [[objek trans-Neptunus]]. Seperti objek trans-Neptunus pada umumnya, benda ini mengorbit Matahari dari jarak yang lebih jauh dari planet [[Neptunus]].
+
+[[Eksentrisitas orbit]] objek ini tercatat sebesar 0.058, sementara [[magnitudo mutlak]]nya adalah 5.7.
+
+== Referensi ==
+
+* [http://www.minorplanetcenter.net/iau/lists/t_tnos.html Daftar Objek Transneptunus] - ''The International Astronomical Union Minor Planet Center.''
+*{{cite journal|last=Remo|first=John L.|title=Classifying Solid Planetary Bodies|year=2007|journal=AIP Conference Proceedings|volume=886|pages=284302|bibcode=2007AIPC..886..284R|doi=10.1063/1.2710063}}
+
+[[Kategori:Objek trans-Neptunus]]
+
+{{astronomi-stub}}

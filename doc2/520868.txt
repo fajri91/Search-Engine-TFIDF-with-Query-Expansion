@@ -1,0 +1,14 @@
+Berkas:Yance.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+diambil dari http://danielmsy.com/siapa-cawagub-yang-akan-mendampingi-kang-yance/
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{DU-Pembuat}}

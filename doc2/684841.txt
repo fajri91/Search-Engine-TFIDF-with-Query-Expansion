@@ -1,0 +1,46 @@
+Templat:Televisa 2008 telenovelas
+{{Navbox
+ | name = Televisa 2008 telenovelas
+ | title = [[Telenovela]] [[Televisa]] tahun 2008 (Mxico)
+ | state = {{{state|autocollapse}}}
+ | liststyle = text-align: center;
+ | listclass = hlist
+
+ | group1 = 4:00 pm
+ | list1 =
+* ''[[Al diablo con los guapos|Al Diablo con los Guapos]]''
+* ''[[Cuidado con el ngel|Cuidado con el ngel]]''
+
+ | group2 = 6:00 pm
+ | list2 =
+* ''[[Tormenta en el paraso|Tormenta en el Paraso]]''
+* ''[[Juro Que Te Amo]]''
+
+ | group3 = 7:00 pm
+ | list3 =
+* ''[[Palabra de Mujer (telenovela)|Palabra de Mujer]]''
+* ''[[Querida Enemiga]]''
+* ''[[En nombre del amor|En Nombre del Amor]]''
+
+ | group4 = 8:00 pm
+ | list4 =
+* ''[[Yo amo a Juan Querendn]]''
+* ''[[Las Tontas No Van al Cielo]]''
+* ''[[Un gancho al corazn|Un Gancho al Corazn]]''
+
+ | group5 = 9:00 pm
+ | list5 =
+* ''[[Pasin (telenovela)|Pasin]]''
+* ''[[Fuego en la sangre (telenovela)|Fuego en la Sangre]]''
+* ''[[Maana es para siempre|Maana es Para Siempre]]''
+
+ | group6 = 9:30 pm
+ | list6 =
+* ''[[Alma de Hierro]]''
+
+}}<noinclude>
+{{collapsible option}}
+[[Category:Kotak navigasi sinetron]]
+[[Category:Serial televisi kotak navigasi Meksiko]]
+[[Category:Templat navigasi televisi]]
+</noinclude>

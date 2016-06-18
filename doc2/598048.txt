@@ -1,0 +1,35 @@
+Carrhotus s-bulbosus
+{{Taxobox
+|name = Carrhotus s-bulbosus
+|status = 
+|image = 
+|image_caption = 
+|domain = 
+|regnum = [[Animalia]]
+|phylum = [[Arthropoda]]
+|classis = [[Arachnida]]
+|ordo = [[Araneae]]
+|familia = [[Salticidae]]
+|genus =Carrhotus
+|species = Carrhotus s-bulbosus
+|binomial = Carrhotus s-bulbosus
+|binomial_authority =Jastrzebski, 2009
+|range_map = 
+|range_map_caption = 
+|image2 = 
+|image2_caption = 
+|synonyms = 
+}}
+'''''Carrhotus s-bulbosus''''' adalah spesies [[laba-laba]] yang tergolong [[familia]] [[Salticidae]]. Spesies ini juga merupakan bagian dari genus [[Carrhotus]] dan ordo [[Araneae]]. Nama ilmiah dari spesies ini pertama kali diterbitkan pada tahun 2009 oleh Jastrzebski.
+
+Laba-laba ini biasanya banyak ditemui di Nepal.
+
+== Referensi ==
+
+* Platnick, Norman I. (2010): [http://research.amnh.org/entomology/spiders/catalog/Salticidae.html The world spider catalog], version 10.5. ''American Museum of Natural History''.
+
+{{DEFAULTSORT:Carrhotus s-bulbosus}}
+
+[[Kategori:Salticidae]]
+
+{{labalaba-stub}}

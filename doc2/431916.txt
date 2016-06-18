@@ -1,0 +1,7 @@
+Templat:Persatuan Tengah Liberal/meta/color
+<nowiki>#FFD126</nowiki><noinclude>
+
+Contoh:
+<span style="padding:1px 20px; background:#FFD126">&nbsp;</span>
+[[Kategori:Templat warna partai politik Lituania|Persatuan Tengah Liberal]]
+</noinclude>

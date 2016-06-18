@@ -1,0 +1,18 @@
+Templat:Kutambaru, Langkat
+{{Navigasi ID Desa
+|provinsi=Sumatera Utara
+|dati2=Kabupaten
+|nama dati2=Langkat
+|nama kecamatan=Kutambaru
+|d1=Kaperas
+|d2=Kutagajah
+|d3=Kutambaru
+|d4=Namoteras
+|d5=Perkebunan Marikie
+|d6=Perkebunan Namotongan
+|d7=Rampah
+|d8=Sulkam
+}}<noinclude>
+[[Kategori:Templat desa/kelurahan di Sumatera Utara|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Langkat|{{PAGENAME}}]]
+</noinclude>

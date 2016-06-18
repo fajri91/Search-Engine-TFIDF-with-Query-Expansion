@@ -1,0 +1,16 @@
+Berkas:The SpongeBob Movie Sponge Out of Water teaser poster.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+Poster ''The SpongeBob Movie: Sponge Out of Water'', sekuel ''The SpongeBob SquarePants Movie''
+
+{{dari|en}}
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Poster}}

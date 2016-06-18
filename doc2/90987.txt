@@ -1,0 +1,84 @@
+Pentium 4
+{{Kotakinfo prosesor
+| name        = Pentium 4
+| image       = Pentium41.jpg
+| caption     =
+| produced-start = 2000
+| produced-end = 2008
+| slowest     = 1,3  | slow-unit     = GHz
+| fastest     = 3,8  | fast-unit     = GHz
+| fsb-slowest = 400  | fsb-slow-unit = MT/s
+| fsb-fastest = 1.066  | fsb-fast-unit = MT/s
+| manuf1      = Intel
+| core1       = Willamette
+| core2       = Northwood
+| core3       = Prescott
+| core4       = Cedar Mill
+| size-from   = 180 nm
+| size-to     = 65 nm
+| arch = [[x86]] ([[i386]]), [[x86-64]], [[MMX]], [[SSE]], [[SSE2]], [[SSE3]]
+| microarch   = [[NetBurst]]
+| sock1       = [[Soket 423]]
+| sock2       = [[Soket 478]]
+| sock3       = [[LGA 775]]
+}}
+'''Pentium 4''' adalah [[mikroprosesor]] generasi ketujuh yang dibuat oleh [[Intel Corporation|Intel]] dan dirilis secara resmi pada tanggal [[20 November]] [[2000]], meneruskan prosesor [[Pentium III]]. Nama perkenalan generasi awalnya adalah Willamette, kemudian dikembangkan kembali dengan nama perkenalan Northwood, Prescott, dan Cedar-Mill.
+
+{| class="wikitable"
+|-
+| '''Nama{{br}}[[prosesor]]'''
+| [[Intel Corporation|Intel]] Pentium 4
+|-
+| '''[[Nama Kode Prosesor|Nama perkenalan]]'''
+| Willamette{{br}}Northwood{{br}}Prescott{{br}}Cedar-Mill
+|-
+| '''Luas{{br}}penampang'''
+| '''Willamette''': 217 mm<sup>2</sup>{{br}}'''Northwood''': 131 mm<sup>2</sup>{{br}}'''Prescott''': 112 mm<sup>2</sup>
+|-
+| '''Proses{{br}}produksi'''
+| '''Willamette''': 180 [[nanometer|nm]]{{br}}'''Northwood''': 130 [[nanometer|nm]]{{br}}'''Prescott''': 90 [[nanometer|nm]]{{br}}'''Cedar-Mill''': 65 [[nanometer|nm]]
+|-
+| '''Jangkauan{{br}}kecepatan'''
+| 1,3 GHz hingga 3,8 GHz
+|-
+| '''[[Transistor]]'''
+| '''Willamette''': 42.000.000{{br}}'''Northwood''': 55.000.000{{br}}'''Prescott''': 125.000.000
+|-
+| '''Instruksi{{br}}tambahan'''
+| [[x86]], [[MMX]], [[SSE]], [[SSE2]], [[SSE3]] (Prescott dan Cedar-Mill), [[EM64T]] (Prescott dan Cedar-Mill), [[Intel Corporation|Intel]] xD (''Execute Disable Bit'' untuk melindungi diri dari ancaman ''buffer overflow''), [[Intel Corporation|Intel]] [[Hyper-Threading]] (beberapa [[prosesor]] Northwood, Prescott, dan Cedar-Mill), dan teknologi virtualisasi [[Intel Corporation|Intel]] (Vanderpool)
+|-
+| '''Bus sisi{{br}}depan (FSB)'''
+| 400 MHz, 533 MHz, 800 MHz, atau 1.066 MHz (bersifat empat kali lipat atau ''quad'')
+|-
+| '''Pipeline'''
+| '''Willamette''' dan '''Northwood''': 20{{br}}'''Prescott''' dan '''Cedar Mill''': 31
+|-
+| '''[[Cache]] L1'''
+| '''[[Cache]] data''': 8 KB (Wilamette, Northwood); 16 KB (Prescott, Cedar-Mill){{br}}'''[[Cache]] instruksi''': 12 KB
+|-
+| '''[[Cache]] L2'''
+| 256 KB, 512 KB, atau 1.024 KB, dalam tubuh, kecepatan penuh (setara dengan kecepatan prosesor) dengan lebar lajur 256-bit
+|-
+| '''Jenis [[cache]] L2'''
+| Asosiatif delapan lajur, mendukung ECC
+|-
+| '''[[Cache]] [[Memori (komputer)|memori]]'''
+| 4 GB
+|-
+| '''Dudukan{{br}}[[prosesor]]'''
+| FC-PGA 423 (Flip-Chip Pin-Grid Array){{br}}FC-PGA Mikro 478 (Micro Flip-Chip Pin-Grid Array){{br}}LGA 775 (Land Grid Array)
+|-
+| '''Dukungan{{br}}multiprosesor'''
+| Tidak (hanya didukung oleh [[Intel Xeon]])
+|-
+| '''[[Memori (komputer)|Memori]] yang{{br}}didukung'''
+| '''[[SDRAM]]''': PC-133{{br}}'''[[DDR]]-[[SDRAM]]''': PC-2100, PC-2700, PC-3200 (satu atau dua kanal){{br}}'''DDR 2-[[SDRAM]]''': PC-4200, PC-5300, PC-6400, PC-8000{{br}}'''[[RDRAM]]''': PC-600, PC-700, PC-800, PC-1066. 
+|-
+|}
+
+{{Intel_processors}}
+{{hardware-stub}}
+
+[[Kategori:Intel]]
+[[Kategori:Mikroprosesor x86]]
+[[Kategori:Artikel kelas awal bertopik teknologi informasi]]

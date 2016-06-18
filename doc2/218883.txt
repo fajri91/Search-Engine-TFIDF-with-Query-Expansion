@@ -1,0 +1,27 @@
+Hukum radiasi termal Kirchhoff
+Dalam [[termodinamika]], '''Hukum Kirchhoff tentang radiasi termal''' adalah pernyataan umum dalam menghitung [[emisi]] dan [[absorpsi]] objek yang dipanaskan. Hukum ini diajukan oleh [[Gustav Kirchhoff]] pada tahun 1859, dibuat berdasarkan hukum [[keseimbangan termodinamika]].
+
+Suatu objek pada temperatur bukan nol [[Kelvin|mutlak]] meradiasikan [[energi elektromagnetik]]. Jika benda ini adalah [[benda hitam]] sempurna, benda itu akan memancarkan [[energi]] setara dengan energi yang diserapnya berdasarkan persamaan radiasi benda hitam. Secara umum, jika benda itu bukan benda hitam sempurna, maka akan meradiasikan sejumlah energi yang memiliki rasio berdasarkan benda hitam sempurna, yang disebut [[emisivitas]].
+
+Hukum Kirchhoff menyatakan bahwa pada [[keseimbangan termal]], tingkat emisi suatu benda atau permukaan setara dengan jumlah penyerapannya. Penyerapan ([[absorptivitas]]) yang dimaksud adalah fraksi cahaya (atau energi) yang diserap suatu benda atau permukaan. Dalam bentuk yang lebih umum, energi ini harus diintegralkan berdasarkan semua jenis [[panjang gelombang]] cahaya dan sudut datang cahaya. Dalam beberapa kasus, tingkat emisi dan penyerapan hanya dapat didefinisikan berdasarkan panjang gelombang dan sudut datang tertentu.
+
+Hukum Kirchhoff memiliki kesimpulan bahwa emisivitas tidak bisa melebihi jumlah energi yang diserap (berdasarkan [[hukum kekekalan energi]]), sehingga tidak mungkin suatu benda memancarkan energi radiasi yang lebih besar dibandingkan benda hitam sempurna pada kesetimbangan. Dalam [[luminesensi negatif]], sudut datang dan panjang gelombang penyerapan melebihi emisi material, namun sistem tersebut digerakkan oleh sumber eksternal sehingga dapat dikatakan bahwa sistem tersebut tidak dalam kesetimbangan termal.
+
+Energi yang diemisikan suatu benda berbeda dengan energi yang dipantulkan benda. Hukum Kirchhoff kadang-kadang dinyatakan sebagai, pemantul energi yang buruk adalah pemancar energi yang baik, namun pemantul energi yang baik merupakan pemancar energi yang buruk. Konsep ini digunakan dalam benda yang harus menyimpan energi termal agar temperatur tidak menurun, misalnya pada [[termos]]. Permukaan bagian dalam termos adalah pemantul energi yang baik sehingga panas tidak diserap badan termos dan diemisikan atau dipancarkan ke lingkungan.
+
+== Referensi ==
+* Evgeny Lifshitz and L. P. Pitaevskii, ''Statistical Physics: Part 2'', 3rd edition. Elsevier, 1980.
+* F. Reif, ''Fundamentals of Statistical and Thermal Physics''. McGraw-Hill: Boston, 1965.
+
+== Pranala luar ==
+* [http://scienceworld.wolfram.com/physics/KirchhoffsLaw.html Hukum Kirchhoff] dalam scienceworld.wolfram.com
+
+[[Kategori:Pengantar panas]]
+[[Kategori:Radiasi elektromagnetik]]
+
+
+{{Fisika-stub}}
+
+[[es:Ley de Kirchhoff (termodinmica)]]
+[[ja: ()]]
+[[pl:Prawo promieniowania temperaturowego]]

@@ -1,0 +1,52 @@
+Templat:Pemain Terbaik Tahunan versi PFA
+{{Navbox
+|name = Pemain Terbaik Tahunan versi PFA
+|title = [[Pemain Terbaik Tahunan versi PFA]]
+|state = {{{state|autocollapse}}}
+|listclass = hlist
+|titlestyle = background: gold;
+|list1 = 
+* 1974: [[Norman Hunter (pemain sepak bola)|Hunter]] 
+* 1975: [[Colin Todd|Todd]] 
+* 1976: [[Pat Jennings|Jennings]] 
+* 1977: [[Andy Gray (pemain sepak bola kelahiran 1955)|Gray]] 
+* 1978: [[Peter Shilton|Shilton]] 
+* 1979: [[Liam Brady|Brady]] 
+* 1980: [[Terry McDermott|McDermott]] 
+* 1981: [[John Wark|Wark]] 
+* 1982: [[Kevin Keegan|Keegan]] 
+* 1983: [[Kenny Dalglish|Dalglish]] 
+* 1984: [[Ian Rush|Rush]] 
+* 1985: [[Peter Reid|Reid]] 
+* 1986: [[Gary Lineker|Lineker]] 
+* 1987: [[Clive Allen|Allen]] 
+* 1988: [[John Barnes (pemain sepak bola)|Barnes]] 
+* 1989: [[Mark Hughes|Hughes]] 
+* 1990: [[David Platt (pemain sepak bola)|Platt]] 
+* 1991: [[Mark Hughes|Hughes]] 
+* 1992: [[Gary Pallister|Pallister]] 
+* 1993: [[Paul McGrath (pemain sepak bola)|McGrath]] 
+* 1994: [[Eric Cantona|Cantona]] 
+* 1995: [[Alan Shearer|Shearer]] 
+* 1996: [[Les Ferdinand|Ferdinand]] 
+* 1997: [[Alan Shearer|Shearer]] 
+* 1998: [[Dennis Bergkamp|Bergkamp]] 
+* 1999: [[David Ginola|Ginola]] 
+* 2000: [[Roy Keane|Keane]] 
+* 2001: [[Teddy Sheringham|Sheringham]] 
+* 2002: [[Ruud van Nistelrooy|Van Nistelrooy]] 
+* 2003: [[Thierry Henry|Henry]] 
+* 2004: [[Thierry Henry|Henry]]  
+* 2005: [[John Terry|Terry]] 
+* 2006: [[Steven Gerrard|Gerrard]] 
+* 2007: [[Cristiano Ronaldo|C. Ronaldo]] 
+* 2008: [[Cristiano Ronaldo|C. Ronaldo]] 
+* 2009: [[Ryan Giggs|Giggs]] 
+* 2010: [[Wayne Rooney|Rooney]] 
+* 2011: [[Gareth Bale|Bale]]
+* 2012: [[Robin van Persie|van Persie]]
+* 2013: [[Gareth Bale|Bale]]
+* 2014: [[Luis Surez|Surez]]
+}}<noinclude>
+[[Kategori:Templat Liga Inggris]]
+</noinclude>

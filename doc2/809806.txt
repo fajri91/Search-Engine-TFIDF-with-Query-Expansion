@@ -1,0 +1,12 @@
+Templat:Rembang, Blitar
+{{Navigasi ID Desa |provinsi=Jawa Timur |dati2=Kota |nama dati2=Blitar 
+|nama kecamatan=Rembang
+|k1=Karangsari
+|k2=Klampok
+|k3=Plosokerep
+|k4=Rembang
+|k5=Tlumpu
+}}<noinclude> 
+[[Kategori:Templat desa/kelurahan di Jawa Timur|{{PAGENAME}}]] 
+[[Kategori:Templat desa/kelurahan di Kota Blitar|{{PAGENAME}}]] 
+</noinclude>

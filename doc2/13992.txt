@@ -1,0 +1,430 @@
+Ottawa
+{{About|ibu kota negara Kanada}}
+{{Infobox settlement
+|name                   = Ottawa
+|official_name          = City of Ottawa<br>''Ville d'Ottawa''
+|other_name             =
+|native_name            =
+|settlement_type        = Kota
+|nickname               = [[Bytown]]
+|motto                  = "Advance-Ottawa-En Avant"<br>Written in the [[Bilingualism in Ottawa|two official languages]].<ref name="Montague">{{cite web|url=http://www.bookofeverything.com/website/docs/OttawaBOE_Essentials.pdf|title=Ottawa Book of Everything|author=Art Montague|publisher=MacIntyre Purcell Publishing|year=2008|accessdate=14 July 2011}}</ref>
+|image_skyline          = OttawaCollage.png
+|imagesize              =
+|image_caption          = [[Centre Block|Centre Block on Parliament Hill]], [[National War Memorial (Canada)|National War Memorial]] di [[downtown Ottawa]], [[National Gallery of Canada]], dan [[Kanal Rideau]] dan [[Chteau Laurier]].
+|image_map              = Rideau Canal.jpg
+|map_caption            = [[Rideau Canal]]
+|image_flag             = Flag of Ottawa, Ontario.svg
+|image_shield           = Ottawa coat of arms.png
+|image_map              = Map of Ontario OTTAWA.svg
+|mapsize                = 200px
+|map_caption            = Location of the City of Ottawa in the Province of Ontario, Canada
+|coordinates_region     = CA-ON
+|subdivision_type       = Country
+|subdivision_name       = {{CAN}}
+|subdivision_type1      = [[Provinsi Kanada|Province]]
+|subdivision_name1      = {{flag|Ontario}}
+|subdivision_type2 = [[Daftar region Kanada|Region]]
+|subdivision_name2 = [[Region Kapital Nasional (Kanada)|National Capital Region]]
+|leader_title           = Mayor
+|leader_title1          = [[Dewan Kota]]
+|leader_name1           = [[Dewan Kota Ottawa]]
+|leader_title2          = [[Anggota parlemen (Kanada)|MPs]]
+|leader_name2           = {{Collapsible list
+|title       = Daftar MPs
+|frame_style = border:none; padding: 0;
+|title_style =
+|list_style  = text-align:left;display:none;
+|1           =[[Mauril Blanger]]
+|2           =[[Paul Dewar]]
+|3           = [[John Baird (Politisi Kanada)|John Baird]]
+|4=[[Royal Galipeau]]
+|5=[[David McGuinty]]
+|6=[[Pierre Lemieux]]
+|7=[[Gordon O'Connor]]
+|8=[[Pierre Poilievre]]
+}}
+|leader_title3        = [[Anggota parlemen provinsi (Ontario)|MPPs]]
+|leader_name3         = {{Collapsible list
+|title       = Daftar MPPs
+|frame_style = border:none; padding: 0;
+|title_style =
+|list_style  = text-align:left;display:none;
+|1           =[[Lisa MacLeod]]
+|2           =[[Jean-Marc Lalonde]]
+|3           = [[Dalton McGuinty]]
+|4=[[Phil McNeely]]
+|5=[[Madeleine Meilleur]]
+|6=[[Yasir Naqvi]]
+|7=[[Norm Sterling]]
+|8=[[Bob Chiarelli]] 
+}}
+|leader_name            = [[Jim Watson (politisi Kanada)|Jim Watson]]
+|established_title      = Didirikan
+|established_date       = 1826 sebagai [[Bytown]]<ref name="EdwardsIvison2005">{{cite book|author1=Justin D. Edwards|author2=Douglas Ivison|title=Downtown Canada: writing Canadian cities|url=http://books.google.com/books?id=0bD75NCOS18C&pg=PA35|accessdate=14 July 2011|date=19 November 2005|publisher=University of Toronto Press|isbn=9780802086686|page=35}}</ref>
+|established_title2      = Inkorporasi
+|established_title2     = [[Kota korporasi|Incorporated]]
+|established_date2      = 1855 sebagai Kota Ottawa<ref name="EdwardsIvison2005"/>
+|established_title3     = [[Penggabungan (politik)|Amalgamated]]
+|established_date3      = 1 Januari 2001
+|area_footnotes         = <ref name=CityPop>{{cite web|title=Population and dwelling counts, for Canada and census subdivisions (municipalities), 2006 and 2011 censuses  100% data|url=http://www12.statcan.gc.ca/census-recensement/2011/dp-pd/hlt-fst/pd-pl/Table-Tableau.cfm?LANG=Eng&T=301&S=3&O=D|publisher=Statistics Canada|accessdate=2010-02-10}}</ref><ref name="CityPop"/><ref name="CityPop"/>
+|area_magnitude         =
+|area_total_km2         = 2778.13
+|area_total_sq_mi       = 1072.9
+|area_land_km2          =
+|area_land_sq_mi        =
+|area_water_km2         =
+|area_water_sq_mi       =
+|area_water_percent     =
+|area_urban_km2         = 512.29
+|area_urban_sq_mi       =
+|area_metro_km2         = 5,716.00
+|area_metro_sq_mi       =
+|population_as_of       = 2011
+|population_footnotes   = <ref name=CityPop/><ref name="CityPop"/>
+|population_note        =
+|population_total       = 883,391 ([[List of the 100 largest municipalities in Canada by population|4th]])
+|population_density_km2     = 316.6
+|population_density_sq_mi =
+|population_urban       =
+|population_density_urban_km2 =
+|population_density_urban_sq_mi =
+|population_metro       = 1,236,324 ([[List of the 100 largest metropolitan areas in Canada|4th]])
+|population_density_metro_km2 = 196.6
+|population_density_metro_sq_mi =
+|population_blank1_title= [[Demonym]]<ref>{{cite web|url=http://ottawa.ca/residents/public_consult/lansdowne_partnership/urban_park/proposed_designs/c_en.html|title=City of Ottawa - Design C|publisher=Ottawa.ca|date=2010-05-20|accessdate=2011-10-26}}</ref><ref>{{cite web|url=http://ottawa.ca/calendar/ottawa/citycouncil/occ/2011/08-25/fedco/01%20-%20ACS2011-OCM-CMR-0003%20-%202010%20Report%20on%20FLS%20ENG.htm|title=Rapport au / Report to:|publisher=Ottawa.ca|year=2011|accessdate=2011-10-26}}</ref>
+|population_blank1 = Ottawan
+|timezone               = Eastern (EST)
+|utc_offset             = 5
+|timezone_DST           = [[Eastern Time Zone (North America)|EDT]]
+|utc_offset_DST         =-4
+|latd=45|latm=25|lats=15|latNS=N
+|longd=75|longm=41|longs=24|longEW=W
+|elevation_m            = 70
+|elevation_ft           = 230
+|website                = [http://www.ottawa.ca/ ottawa.ca]
+|postal_code_type       = Postal code span
+|postal_code            = K0A, K1A-K4C<ref name="Montague"/>
+|area_code              = [[Area code 613|613]], [[Area code 343|343]], [[Area code 819|819]]
+|footnotes              =
+}}
+'''Ottawa''' adalah [[ibu kota]] [[Kanada]] dan merupakan kota terbesar keempat negara tersebut. Kota ini terletak di [[Lembah Ottawa]] di bagian timur [[Provinsi dan Teritori Kanada|provinsi]] [[Ontario]], di perbatasan utara [[Quebec City-Windsor Corridor]]. Populasi kota ini adalah 808.391, dan populasi [[National Capital Region (Kanada)|wilayah Ottawa]] adalah 1.146.790 ([[2004]]). Wali kotanya adalah [[Bob Chiarelli]].
+
+Sebagai ibukota, Ottawa memiliki banyak ''national landmark'' seperti [[Parliament Hill]], gedung pemerintahan sentral Kanada yang meniru [[Houses of Parliament]] di Inggris; [[National Gallery of Canada]], [[Royal Canadian Mint]] di mana uang Kanada dicetak (dan cabangnya yang lain di Winnipeg); [[Rideau Canal]], dan lainnya. Salah satu ''trademark'' Ottawa yang lain adalah [[Scotiabank Place]], stadion hoki es untuk tim [[NHL]] atau National Hockey League, [[Ottawa Senators]].
+
+== Geografi ==
+{{main|Geografi Ottawa}}
+[[File:Hot Air Balloon ride Ottawa II.jpg|left|thumb|Pemandangan dari kiri ke kanan: [[Gatineau]] [[Sungai Ottawa]] dan [[Downtown Ottawa]]]]
+Ottawa terletak di tepi selatan [[Sungai Ottawa]], dan berisi mulut para [[Sungai Rideau]] dan [[Rideau Canal]].<ref name="RipleyDana1875">{{cite book|author1=George Ripley|author2=Charles Anderson Dana|title=The American cyclopaedia: a popular dictionary of general knowledge|url=http://books.google.com/books?id=KshPAAAAMAAJ&pg=PA733|accessdate=27 May 2011|year=1875|publisher=Appleton|page=733}}</ref> Bagian tua kota (termasuk apa yang tersisa dari [[Bytown]]) dikenal sebagai ''[[Lower Town]]'', dan menempati area antara kanal dan sungai. Di seberang kanal ke barat terletak ''[[Centretown]]'' dan ''[[Downtown Ottawa]]'', yang merupakan pusat kota keuangan dan komersial. Pada tanggal 29 Juni 2007, Rideau Canal, yang membentang {{convert|202|km|mi|0|abbr=on}} ke Kingston, Fort Henry dan empat menara Martello di daerah Kingston diakui sebagai [[Situs Warisan Dunia UNESCO]].<ref>{{cite web|url=http://whc.unesco.org/en/list/1221 |title=Rideau Canal - UNESCO World Heritage Centre |publisher=Whc.unesco.org |date= |accessdate=2011-05-27}}</ref>
+
+=== Iklim ===
+Ottawa memiliki [[iklim lembap benua]] ([[Kppen climate classification|Kppen]] ''Dfb'') dengan empat musim yang berbeda.<ref name= "koppen">{{cite web|url = http://atlas.nrcan.gc.ca/site/english/maps/archives/3rdedition/environment/climate/030 |title = Climatic Regions [Kppen] |work = Atlas of Canada |publisher = Natural Resources Canada |date = June 2003|accessdate = December 25, 2012}}</ref> Suhu maksimum rata-rata Juli adalah {{convert|26|C|0|abbr=on}}. Suhu minimum rata-rata Januari adalah {{convert|&minus;15.3|C|1}}.
+
+Ottowa memiliki musim panas yang hangat dan lembap. Suhu siang hari {{convert|30|C|0|abbr=on}} atau lebih tinggi adalah biasa. Suhu rata-rata Ottawa menurut [[humidex]] (suhu gabungan & indeks kelembapan) antara {{convert|30|C|0}} dan {{convert|40|C|0}} setiap tahun.
+
+Salju dan es yang dominan selama musim dingin. Ottawa mendapat sekitar {{convert|235|cm|in|0}} curah salju setiap tahunnya. Hari di atas titik beku dan suhu malam hari di bawah {{convert|&minus;30|C|0}} dapat terjadi pada musim dingin.<ref name="ottawa1">{{cite web|url=http://ottawa.ca/residents/immigration/choose/weather_en.html#P54_430 |title=City of Ottawa - Weather |publisher=Ottawa.ca |date= |accessdate=2011-06-07}}</ref>
+
+Suhu musim semi dan musim gugur tidak tentu, rentan terhadap perubahan suhu yang ekstrem dan perubahan tak terduga. Hari panas di atas {{convert|30|C|0}} dapat terjadi paling cepat bulan Maret (seperti terjadi pada tahun 2012) atau paling lambat bulan Oktober. Meskipun demikian, peristiwa seperti ini tidak biasa dan berlangsung singkat.<ref name=CCN/>
+
+Rata-rata curah hujan tahunan sekitar {{convert|940|mm|0}}. Ottawa menerima rata-rata {{convert|915|mm|in|abbr=on}} dari total curah hujan setahun. Ada sekitar 2.060 jam sinar matahari rata-rata per tahun (47% dari total kemungkinan).<ref name="sunshine data"/>
+
+{{Weather box
+|collapsed = 1
+|location = Ottawa Macdonald-Cartier International Airport (19712000)
+|metric first = Y
+|single line = Y
+|Jan maximum humidex= 13.1
+|Feb maximum humidex= 14.6
+|Mar maximum humidex= 30
+|Apr maximum humidex= 35.1
+|May maximum humidex= 38.2
+|Jun maximum humidex= 44
+|Jul maximum humidex= 46
+|Aug maximum humidex= 45.7
+|Sep maximum humidex= 42.5
+|Oct maximum humidex= 33.7
+|Nov maximum humidex= 26.1
+|Dec maximum humidex= 18.4
+|year maximum humidex= 
+|Jan record high C = 12.0
+|Feb record high C = 14.2
+|Mar record high C = 27.2
+|Apr record high C = 31.1
+|May record high C = 32.8
+|Jun record high C = 36.1
+|Jul record high C = 36.7
+|Aug record high C = 37.8
+|Sep record high C = 35.0
+|Oct record high C = 27.8
+|Nov record high C = 23.9
+|Dec record high C = 16.3
+|year record high C = 37.8
+|Jan high C = &minus;6.1
+|Feb high C = &minus;4.1
+|Mar high C = 2.2
+|Apr high C = 10.8
+|May high C = 19.1
+|Jun high C = 23.8
+|Jul high C = 26.5
+|Aug high C = 24.9
+|Sep high C = 19.5
+|Oct high C = 12.5
+|Nov high C = 5.3
+|Dec high C = &minus;4.8
+|year high C = 10.9
+|Jan mean C= 10.8
+|Feb mean C= 8.7
+|Mar mean C= 2.5
+|Apr mean C= 5.7
+|May mean C= 13.4
+|Jun mean C= 18.3
+|Jul mean C= 20.9
+|Aug mean C= 19.5
+|Sep mean C= 14.3
+|Oct mean C= 7.8
+|Nov mean C= 1.25
+|Dec mean C= &minus;8.1
+|year mean C= 6
+|Jan low C = &minus;15.3
+|Feb low C = &minus;13.3
+|Mar low C = &minus;7.1
+|Apr low C = 0.6
+|May low C = 7.7
+|Jun low C = 12.7
+|Jul low C = 15.4
+|Aug low C = 14.1
+|Sep low C = 9.1
+|Oct low C = 3.0
+|Nov low C = &minus;2.8
+|Dec low C = &minus;11.3
+|year low C = 1.1
+|Jan record low C = &minus;35.6
+|Feb record low C = &minus;36.1
+|Mar record low C = &minus;30.6
+|Apr record low C = &minus;16.7
+|May record low C = &minus;5.6
+|Jun record low C = &minus;0.1
+|Jul record low C = 5
+|Aug record low C = 2.6
+|Sep record low C = &minus;3.0
+|Oct record low C = &minus;7.8
+|Nov record low C = &minus;21.7
+|Dec record low C = &minus;34.4
+|year record low C = &minus;36.1
+|Jan chill= 47.8
+|Feb chill= 47.6
+|Mar chill= 37.8
+|Apr chill= 26.3
+|May chill= 10.9
+|Jun chill= 1.6
+|Jul chill= 4.6
+|Aug chill= 1.1
+|Sep chill= 6.4
+|Oct chill= 13.3
+|Nov chill= 29.5
+|Dec chill= 44.6
+|year chill= 
+|precipitation colour=green
+|Jan precipitation mm = 70.2
+|Feb precipitation mm = 58.9
+|Mar precipitation mm = 73.9
+|Apr precipitation mm = 72.4
+|May precipitation mm = 79.0
+|Jun precipitation mm = 85.0
+|Jul precipitation mm = 90.6
+|Aug precipitation mm = 87.1
+|Sep precipitation mm = 85.3
+|Oct precipitation mm = 79.4
+|Nov precipitation mm = 80.1
+|Dec precipitation mm = 81.5
+|year precipitation mm = 943.5
+|rain colour = green
+|Jan rain mm = 25.2
+|Feb rain mm = 17.6
+|Mar rain mm = 36.3
+|Apr rain mm = 60.5
+|May rain mm = 78.4
+|Jun rain mm = 85.0
+|Jul rain mm = 90.6
+|Aug rain mm = 87.1
+|Sep rain mm = 85.3
+|Oct rain mm = 74.9
+|Nov rain mm = 59.8
+|Dec rain mm = 31.3
+|year rain mm = 732
+|Jan snow cm = 55.2
+|Feb snow cm = 46.0
+|Mar snow cm = 39.8
+|Apr snow cm = 11.0
+|May snow cm = 0.6
+|Jun snow cm = 0
+|Jul snow cm = 0
+|Aug snow cm = 0
+|Sep snow cm = 0
+|Oct snow cm = 4.1
+|Nov snow cm = 21.9
+|Dec snow cm = 57.2
+|year snow cm = 235.7
+|unit precipitation days = 0.2 mm
+|unit rain days = 0.2 mm
+|unit snow days = 0.2 cm
+|Jan precipitation days = 17
+|Feb precipitation days = 13.1
+|Mar precipitation days = 13.6
+|Apr precipitation days = 12.0
+|May precipitation days = 12.9
+|Jun precipitation days = 12.2
+|Jul precipitation days = 11.6
+|Aug precipitation days = 11.1
+|Sep precipitation days = 12.7
+|Oct precipitation days = 13.4
+|Nov precipitation days = 15.3
+|Dec precipitation days = 17.7
+|Jan rain days = 4.5
+|Feb rain days = 3.9
+|Mar rain days = 7.1
+|Apr rain days = 10.1
+|May rain days = 12.8
+|Jun rain days = 12.2
+|Jul rain days = 11.6
+|Aug rain days = 11.1
+|Sep rain days = 12.7
+|Oct rain days = 12.6
+|Nov rain days = 10.4
+|Dec rain days = 5.8
+|Jan snow days = 16
+|Feb snow days = 11.9
+|Mar snow days = 9.5
+|Apr snow days = 3.7
+|May snow days = 0.3
+|Jun snow days = 0
+|Jul snow days = 0
+|Aug snow days = 0
+|Sep snow days = 0
+|Oct snow days = 1.4
+|Nov snow days = 7.6
+|Dec snow days = 15.2
+|Jan humidity= 74
+|Feb humidity= 72.1
+|Mar humidity= 73
+|Apr humidity= 72.5
+|May humidity= 74.9
+|Jun humidity= 79.6
+|Jul humidity= 82.4
+|Aug humidity= 86.8
+|Sep humidity= 87.6
+|Oct humidity= 83.4
+|Nov humidity= 81.9
+|Dec humidity= 79.8
+|year humidity= 79
+|Jan sun = 101.2
+|Feb sun = 129.8
+|Mar sun = 159.8
+|Apr sun = 189.4
+|May sun = 230.3
+|Jun sun = 253.3
+|Jul sun = 276.8
+|Aug sun = 246.7
+|Sep sun = 171.5
+|Oct sun = 136.7
+|Nov sun = 83.6
+|Dec sun = 82
+|year sun = 2061.1
+|source 1 = Environment Canada<ref name=CCN>{{cite web
+  | url = http://climate.weatheroffice.gc.ca/climate_normals/results_e.html?stnID=4337&autofwd=1
+  | title = Ottawa macdonald-cartier int'l a
+  | work = Canadian Climate Normals 19712000
+  | publisher = Environment Canada
+  | language = English & French
+  | accessdate = 2011-01-11 }}</ref>
+|source 2= Environment Canada (sun only).<ref name="sunshine data">[http://www.climate.weatheroffice.gc.ca/climate_normals/results_e.html?stnID=4333&prov=&lang=e&dCode=1&dispBack=1&StationName=ottawa_cda&SearchType=Contains&province=ALL&provBut=&month1=0&month2=12 Climate Normals for Ottawa 1971-2000], accessed 24 March 2012.</ref> 
+|date=December 2010
+}}
+
+== Hubungan International==
+{{see|Daftar kedutaan besar dan komisi tinggi Ottawa}}
+Saat ini, Ottawa adalah tuan rumah dari 130 kedutaan.<ref name="international1">{{cite web|url=http://w01.international.gc.ca/Protocol-Protocole/Heads-Chefs.aspx?lang=eng |title=Heads of Missions |publisher=W01.international.gc.ca |date=2009-10-27 |accessdate=2010-11-03}}</ref> Sebuah lanjut 49 negara mengakreditasi kedutaan dan misi di Amerika Serikat untuk Kanada.<ref name="international1"/>
+
+;Kota kembar:
+* {{flagicon|CHN}} [[Beijing]], China.<ref>{{cite web|url=http://www.asiapacific.ca/fr/news/ottawa-and-beijing-sign-sister-cities-agreement |title=Ottawa and Beijing Sign Sister Cities Agreement &#124; Asia Pacific Foundation of Canada |publisher=Asiapacific.ca |date= |accessdate=2011-08-08}}</ref>
+* {{flagicon|ISR}} [[Tel Aviv]], Israel.
+
+== Referensi ==
+{{Reflist|30em}}
+
+;Bibliograpfi
+{{refbegin}}
+*{{Citation
+        |last = Brault
+        |first = Lucien
+        |title = Ottawa Old and New
+        |year = 1946
+        |publisher =  Ottawa historical information Institute
+        |publication-place = 
+        |oclc = 	2947504
+        }}
+*{{cite book|first=Joan|last=Finnigan|title=Giants of Canada's Ottawa Valley|url=http://books.google.com/books?id=GbvECdC60GAC&pg=PP1|year=1981|publisher=GeneralStore PublishingHouse|isbn=978-0-919431-00-3}}
+*{{citation|first=James |last=Hale|title=Frommer's Ottawa|url=http://books.google.com/books?id=D-xZXkWpWtIC&pg=PT1|year=2011|publisher=John Wiley and Sons|isbn=9780470681589}}
+*{{citation|first=Jeff |last=Keshen|coauthor=Nicole St-Onge|title=Ottawa--making a capital|url=http://books.google.com/books?id=_Q9Bb4EiAyoC&pg=PP1|year=2001|publisher=University of Ottawa Press|isbn=9780776605210}}
+*{{citation|first=David |last=Lee|title=Lumber kings & shantymen: logging and lumbering in the Ottawa Valley|url=http://books.google.com/books?id=3ZLSf-I0XgIC&pg=PA1|year=2006|publisher=James Lorimer & Company|isbn=9781550289220}}
+*{{Citation
+        |last = Legget
+	|first = Robert
+        |title = Rideau Waterway
+        |year = 1986
+        |publisher = University of Toronto Press
+        |publication-place = Toronto
+        |isbn =0802065910 
+        |url = http://books.google.com/books?id=CaA4OpW4Ao0C&pg=PA252
+        }}
+*{{Citation
+       |first=Carol 
+       |last=Martin
+       |title=Ottawa: a colourguide
+       |url=http://books.google.com/books?id=gjUoa_r4LOIC&pg=PA1
+       |year=1997
+       |publisher=Formac Publishing Company
+       |isbn=9780887803963
+        }}
+*{{Citation
+        |last = Mika
+	|first = Nick & Helma
+        |title = Bytown: The Early Days of Ottawa
+        |year = 1982
+        |publisher = Mika Publishing Company
+        |publication-place = Belleville, Ont
+        |isbn = 0919303609
+        }}
+*{{citation|first=Marion Van de |last=Wetering|title=An Ottawa album: glimpses of the way we were|url=http://books.google.com/books?id=jRkxGw291AcC&pg=PA1|year=1997|publisher=Dundurn Press Ltd.|isbn=9780888821959}}
+*{{Citation
+        |last = Woods
+        |first = Shirley E. Jr.
+        |title = Ottawa: The Capital of Canada
+        |year = 1980
+        |publisher = Doubleday Canada
+        |publication-place = Toronto
+        |isbn = 0385147228
+        }}
+{{refend}}
+
+== Pranala luar ==
+{{Commons category|Ottawa}}
+* [http://www.ottawa.ca/ City of Ottawa's website]
+* [http://www.ottawa.com/main_e.shtml City of Ottawa's info page]
+* [http://www.ottawatourism.ca/ Ottawa Tourism]
+*{{wikivoyage|Ottawa}}
+
+{{Geographic location
+|Centre    = Ottawa
+|North     = ''[[Ottawa River]]'' / [[Pontiac, Quebec|Pontiac]], bridges to [[Gatineau]]
+|Northeast = ''[[Ottawa River]]'' / [[Lochaber-Partie-Ouest, Quebec|Lochaber-Partie-Ouest]]
+|East      = [[Clarence-Rockland]]
+|Southeast = [[Russell, Ontario|Russell]], [[The Nation, Ontario|The Nation]]
+|South     = [[North Grenville, Ontario|North Grenville]], [[North Dundas, Ontario|North Dundas]]
+|Southwest = [[Merrickville-Wolford, Ontario|Merrickville-Wolford]]
+|West      = [[Mississippi Mills, Ontario|Mississippi Mills]]<br />[[Beckwith, Ontario|Beckwith]]<br />[[Montague, Ontario|Montague]]
+|Northwest = [[Arnprior, Ontario|Arnprior]]
+|image = Flag of Ontario.svg
+}}
+
+[[Kategori:Ibu kota negara]]
+[[Kategori:Ottawa|*]]

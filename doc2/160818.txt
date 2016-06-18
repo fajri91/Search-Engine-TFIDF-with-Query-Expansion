@@ -1,0 +1,12 @@
+Templat:Jatisampurna, Bekasi
+{{Navigasi ID Desa |provinsi=Jawa Barat |dati2=Kota |nama dati2=Bekasi
+|nama kecamatan=Jatisampurna
+|k1= Jatikarya
+|k2= Jatiraden
+|k3= Jatirangga
+|k4= Jatiranggon
+|k5= Jatisampurna
+}}<noinclude>
+[[Kategori:Templat desa/kelurahan di Jawa Barat|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kota Bekasi|{{PAGENAME}}]]
+</noinclude>

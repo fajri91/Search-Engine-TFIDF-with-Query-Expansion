@@ -1,0 +1,11 @@
+Templat:Bullpup Firearms
+{{Navbox
+|name = Bullpup Firearms
+| listclass = hlist
+| title = [[Bullpup|Senjata api tipe Bullpup]]
+|image = [[Image:AUG A1 508mm 04.jpg|100px]]
+|list1 = [[ADS amphibious rifle]]{{}}[[AGM-1 Carbine]]{{}}[[DSR-1|AMP Technical Services DSR-1]]{{}}[[Advanced Individual Combat Weapon]]{{}}[[Armtech C30R]]{{}}[[AWC G2]]{{}}[[Bakalov]]{{}}[[Barrett M90]]{{}}[[Barrett M95]]{{}}[[Barrett XM500]]{{}}[[Bushmaster M17S]]{{}}[[Daewoo XK8]]{{}}[[Daewoo K11]]{{}}[[Delacre machine pistol|Delacre Modele 1936]]{{}}[[Desert Tactical Arms Stealth Recon Scout]]{{}}[[Dragunov SVU]]{{}}[[EM-2 rifle]]{{}}[[EMERK]]{{}}[[ENARM Pentagun]]{{}}[[FAD assault rifle]]{{}}[[FAMAS]]{{}}[[FAVS Stradivari]]{{}}[[FN F2000]]{{}}[[FN P90]]{{}}[[Franchi mod .410]]{{}}[[Grad]]{{}}[[Heckler & Koch HK CAWS]]{{}}[[Heckler & Koch G11]]{{}}[[High Standard Model 10]]{{}}[[Kepplinger HV-71|HV-71]]{{}}[[IMI Tavor TAR-21]]{{}}[[Interdynamics MKR]]{{}}[[JS 9 mm]]{{}}[[K-3]]{{}}[[KAL1 General Purpose Infantry Rifle|KAL1 GPIR]]{{}}[[Kbk wz. 2002 BIN]]{{}}[[Kbk wz. 2005 Jantar]]{{}}[[Kel-Tec KSG]]{{}}[[Kel-Tec RFB]]{{}}[[Khaybar KH2002]]{{}}[[Kintrek Model KBP-1 .22 Caliber]]{{}}[[KSVK]]{{}}[[L64/65]]{{}}[[L98A1 Cadet GP Rifle|L98A1]] and [[L98A2 Cadet GP Rifle|L98A2 Cadet Rifle]]{{}}[[LAPA FA-03]]{{}}[[M89SR]]{{}}[[MAS-54 rifle series|MAS-54]]{{}}[[Magpul PDR]]{{}}[[Model 45A]]{{}}[[Neostead]]{{}}[[NIVA XM1970]]{{}}[[Norinco Type 86S]]{{}}[[OC-14-4A|OTs-14 Groza]]{{}}[[PAPOP]]{{}}[[Pancor Jackhammer]]{{}}[[QBB-95]]{{}}[[QBU-88]]{{}}[[QCW-05]]{{}}[[QBZ-95]]{{}}[[Rheinmetall RH-70]]{{}}[[SA80]]{{}}[[SAR 21]]{{}}[[Safir T-17]]{{}}[[Saritch 308]]{{}}[[Shkval]]{{}}[[Sieg rifle]]{{}}[[SLEM-1]]{{}}[[Special Purpose Individual Weapon]]{{}}[[Steinkamp SW1]]{{}}[[Steyr ACR]]{{}}[[Steyr AUG]]{{}}[[TKB-011 2M]]{{}}[[TKB-0146]]{{}}[[TKB-022PM]]{{}}[[TKB-059]]{{}}[[TKB-408]]{{}}[[Thorneycroft carbine]]{{}}[[TVGK]]{{}}[[VB Berapi LP06]]{{}}[[Vepr]]{{}}[[VHS assault rifle]]{{}}[[Valmet M82]]{{}}[[Vektor CR-21]]{{}}[[Walther G22]]{{}}[[Walther WA 2000]]{{}}[[XM25 Individual Airburst Weapon System]]{{}}[[XM29 OICW]]{{}}
+}}<noinclude>
+[[Kategori:Templat]]
+
+</noinclude>

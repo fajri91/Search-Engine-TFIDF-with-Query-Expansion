@@ -1,0 +1,10 @@
+Templat:Juni2013
+{{Bulan_30_hari_mulai_hari_Sabtu
+|bulan=Juni
+|bulan_sebelumnya=Mei
+|bulan_sesudahnya=Juli
+|Tahun=2013
+|LinkKeKalenderPeristiwa=[[Templat:HariIniDalamSejarah/Kalender|Kalender Setahun]]
+|color=#ccccff
+|color2=#ccccff
+}}<noinclude>[[Kategori:Templat hari sebulan|Juni 2013]]</noinclude>

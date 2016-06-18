@@ -1,0 +1,25 @@
+Berkas:Don't Forget Me (film) poster.jpeg
+{{Dari|en}}
+== Ringkasan ==
+{{Non-free use rationale poster
+|Media             = Film
+|Article           = Don't Forget Me (film)
+|Use               = Infobox
+<!-- ADDITIONAL INFORMATION -->
+|Name              = Don't Forget Me (film)
+|Distributor       = 
+|Publisher         = 
+|Type              =
+|Website           =
+|Commentary        =
+<!-- OVERRIDE FIELDS -->
+|Description       =
+|Source            = http://www.hancinema.net/korean_movie_Remember_You_-_Movie-picture_661652.html?sort=Most_Popular_Pictures
+|Portion           =
+|Low resolution    =
+|Purpose           = <!-- Must be specified if Use is not Infobox / Header / Section / Artist -->
+|Replaceability    =
+|Other information =
+}}
+== Jenis lisensi ==
+{{Poster}}

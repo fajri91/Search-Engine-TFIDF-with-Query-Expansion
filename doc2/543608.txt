@@ -1,0 +1,14 @@
+Berkas:Museum Siwa Lima.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+Sumber : [http://2.bp.blogspot.com/-K7XHaMoAY1s/T3ZZaMpNRhI/AAAAAAAAAIo/VWyly4fWbUY/s1600/533316_359076794137218_177461042298795_1088155_1014083162_n.jpg http://2.bp.blogspot.com/-K7XHaMoAY1s/T3ZZaMpNRhI/AAAAAAAAAIo/VWyly4fWbUY/s1600/533316_359076794137218_177461042298795_1088155_1014083162_n.jpg]
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Fairuse}}

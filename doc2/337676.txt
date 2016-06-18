@@ -1,0 +1,241 @@
+Bombardier CRJ700
+{{Infobox Aircraft
+ |name= CRJ700 / CRJ900 <br />CRJ1000 NextGen
+ |logo =
+ |image=File:Delta Bombardier 20071027.jpg
+ |caption=CRJ700 [[Delta Connection]]
+ |type=[[Pesawat penumpang regional]]
+ |national origin = [[Kanada]]
+ |manufacturer= [[Bombardier Aerospace]]
+ |designer=
+ |first flight = 1999
+ |introduction = 2001
+ |retired=
+ |status = Aktif
+ |primary user= [[SkyWest Airlines]]<ref name=Flight_Int_2010/>
+ |more users=[[Mesa Airlines]] <br />[[Atlantic Southeast Airlines]] <br />[[Mesaba Airlines]] <br />[[Nam Air]]
+ |produced =
+ |number built =537 pada April 2010<ref name="Report">[http://web.archive.org/web/20090706084613/http://www.bombardier.com/files/en/supporting_docs/BA-CRJ_Series_Program_Status.pdf Program Status Report - Bombardier CRJ Series]</ref>
+ |unit cost =US$24-39.7 juta pada tahun 2006
+ |developed from=[[Bombardier CRJ200]]
+ |variants with their own articles =
+}}
+
+'''Bombardier CRJ700''', '''CRJ900''', dan '''CRJ1000''' adalah [[pesawat penumpang regional]] yang berbasis dari pesawat [[Bombardier CRJ200]]. Perakitan akhir dari pesawat ini dilakukan di [[Bandar Udara Internasional Montral-Mirabel]] di [[Mirabel, Quebec]], di luar kota [[Montreal]], [[Kanada]].<ref>[http://www.aeroindianews.com/bombardier.htm Aero India 2007 Bombardier CRJ900]</ref>
+
+== Pengembangan ==
+Mengikuti suksesnya seri CRJ100/200, [[Bombardier Aerospace|Bombardier]] memproduksi varian yang lebih besar untuk bersaing dengan pesawat regional yang lebih besar seperti keluarga [[Embraer E-Jets]], seri [[Fokker F100|Fokker 70/100]] dan keluarga [[BAe 146|BAe 146/Avro RJ]].
+
+=== CRJ700 ===
+[[Berkas:CRJ700 (Horizon Air).jpg|thumb|left|[[Horizon Air]] CRJ700]]
+
+''CRJ700'' adalah perpanjangan 66-78 kursi yang diambil dari CRJ200, dengan 70 kursi sebagai konfigurasi yang paling umum. CRJ700 dilengkapi dengan sayap baru dengan sudut flap yang tinggi dan perpanjangan dan sedikit pelebaran lambung, dengan lantai yang lebih rendah. Pesawat ini dilengkapi dengan mesin [[GE Aircraft Engines|General Electric]] [[General Electric CF34|CF34-8C1]]. kecepatan maksimumnya adalah Mach 0.85 (556 mil per jam) pada ketinggian maksimum 41,000&nbsp;ft (12,500&nbsp;m). Bergantung terhadap muatan, CRJ700 dapat terbang hingga 2,250 mil (3,620&nbsp;km) dengan mesin awal, dan varian baru dengan mesin [[General Electric CF34|CF34-8C5]] dapat terbang sejauh 2,895 mil (4,660&nbsp;km).
+
+[[Berkas:D-ACPF 2006-07-05 3927.jpg|thumb|[[Lufthansa]] CRJ701 ER]]
+
+CRJ700 hadir dalam tiga versi: seri 700, seri 701, dan seri 702. Seri 700 dibatasi hingga 68 penumpang, seri 701 menampung 70 penumpang, dan seri 702 dapat menampung 78 penumpang. CRJ700 juga memiliki tiga pilihan kapasitas berat dan bahan bakar: standard, ER, and LR. Versi ER meningkatkan kapasitas bahan bakar dan berat maksimum, yang akhirnya meningkatkan jarak tempuh. Sedangkan versi LR meningkatkan hal tersebut jauh lebih besar.
+
+Penerbangan perdana dilakukan pada tahun 1999 dan masuk dalam layanan tahun 2001. Sertifikasi tipe pesawat dari FAA adalah '''CL-600-2C10'''.<ref>[http://www.airweb.faa.gov/Regulatory_and_Guidance_Library/rgMakeModel.nsf/0/8226a37b9426a80d862572ed005e7fa0/$FILE/A21EA.pdf FAA Type Certificate]</ref>  Maskapai pertama yang memakai CRJ700 adalah [[Brit Air]] tahun 2001.
+
+CRJ-700 bersaing secara langsung dengan [[Embraer 170]], yang memiliki kapasitas 70 penumpang. Namun, CRJ-700 10% lebih efektif dalam biaya operasi dibandingkan E-170.
+
+Tahun 2008, CRJ700 digantikan dengan CRJ700 NextGen, dilengkapi kabin yang lebih ekonomis dan baru yang sama dengan CRJ900 NextGen dan CRJ1000 NextGen.
+
+=== CRJ705 ===
+[[Berkas:AC Jazz CRJ705 YQR.jpg|right|thumb|Air Canada Jazz CRJ-705]]
+
+''Seri 705'' berbasis dari CRJ900, dengan satu kelas bisnis dan pengurangan kapasitas tempat duduk maksimum agar bisa dioperasikan oleh maskapai penerbangan regional. Kapasitas seri 705 adalah 75 penumpang. Beberapa maskapai regional memiliki kontrak dengan maskapai besar yang membatasi kapasitas penumpang maksimum dari pesawat yang dioperasikan.  [[Air Canada Jazz]] adalah pemakai pertama untuk pesawat ini tahun 2005 dengan 10 kelas bisnis dan 65 kelas ekonomi. Sertifikasi tipe dari FAA memberikan kode '''CL-600-2D15''' untuk pesawat ini. Air Canada Jazz mengoperasikan 16 pesawat seri 705.
+
+=== CRJ900 ===
+[[Berkas:lufthansa cityline crj900lr d-acke takeoff london heathrow arp.jpg|thumb|[[Lufthansa CityLine]] Bombardier CRJ900LR (2010)]]
+
+''CRJ900'' adalah versi perpanjangan berkapasitas 76-90 kursi dari CRJ700. Pesawat menggunakan mesin GE CF34-8C5, bertenaga {{convert|13360|lbf|abbr=on}} denagn APR, dan tambahan sayap pengendali. Berat maksimum kotor lepas landas adalah 84,500 pon. Pesawat diambil dari basis CRJ200 dengan sedikit pengembangan besar. Paket pengembangan sangat memperhatikan pemanfaatan lingkungan. Kabin memiliki kipas sirkulasi yang membantu pendinginan dan penghangatan. Mesin dikontrol oleh kontrol mesin digital [[FADEC]] daripada menggunakan kabel dan menggunakan unit kontrol bahan bakar. Lantai kabin diturunkan sebesar 2&nbsp;in dinama dapat menambah visibilitasdari jendela di kabinkarena jendela lebih dekat le ketinggian mata. APU menjadi unit dari General Electric yang menyediakan udara lebih banyak ke dalam paket AC dan memiliki batasan lebih tinggi untuk penyalaan dan penggunaan di ketinggian. Bentang sayap lebih lebar, ekor didesain ulang dengan bentang lebih lebar dan penyeimbang di bawah. Dalam penggunaan umum  CRJ900 dapat terbang lebih tinggi 8-10,000&nbsp;ft dengan konsumsi bahan bakar sedikit lebih besar dan kecepatan jelajah rata-rata sebesar 450-500 knot, pengembangan signifikan dari pendahulunya. Kode Sertifikasi Tipe FAA untuk pesawat ini adalah '''CL-600-2D24'''.
+
+[[Berkas:Crj900-sas.jpg|thumb|left|[[Scandinavian Airlines]] CRJ900]]
+
+Pesawat CRJ900 (C-FRJX) pertama merupakan modifikasi dari CRJ700 dengan memberi tambahan perpanjangan lambung di bagian depan dan belakan sayap; yang kemudian diubah di prototip CRJ1000 dengan menambahkan lambung yang lebih panjang.<ref>http://www.airliners.net/search/photo.search?regsearch=C-FRJX Photos of C-FRJX in its various incarnations as first prototypes of the CRJ-700, CRJ-900 and CRJ-1000</ref>  CRJ900 bersaing dengan [[Embraer E-Jets|Embraer 175]], dan lebih efisien per mil per kursi, menurut Bombardier.
+
+Tahun 2007, Bombardier meluncurkan CRJ900 NextGen untuk menggantikan versi awal. Model baru ini lebih ekonomis dan memiliki kabin baru seperti CRJ700 NextGen and CRJ1000 NextGen. [[Mesaba Aviation]], saat itu beroperasi sebagai Northwest Airlink (sekarang [[Delta Connection]]), adalah pemakai pertama, dan masih menjadi pemakai terbesar untuk CRJ900 NextGen. Armada Mesaba merupakan pesawat CRJ900 NextGen dengan konfigurasi dua kelas, dengan 12 kelas pertama dan 64 kelas ekonomi.
+
+[[Comair]], terbang sebagai [[Delta Connection]], telah memesan 14 CRJ900, dimana sedikitnya 6 telah masuk dalam armada pada Nov 2007.<ref>[http://www.comair.com/comair/cdc.portal?_nfpb=true&_pageLabel=cdc_pg_0021&newsNodeId=%2FComairDotComRepository%2Fcdc%2Fnews%2FCRJ900 Comair - Flying First Class with New Aircraft]. Comair.com. Accessed 26 November 2007.</ref> Mereka menggunakan konfigurasi dua kelas, dengan 12 kelas pertama dan 64 kelas ekonomi. Hal ini dilakukan karena pembatasan kontrak oleh Delta dengan para pilot yang membatasi penerbangan regional maksimum dengan pesawat 76 kursi.
+
+Pada Juli 2008 [[PLUNA]] menerima pesawat kelimanya (dari total 7 pesanan). [[Estonian Air]] memesan 3 pesawat baru CRJ900 NextGen 90 kursi.  Juga [[Scandinavian Airlines System|SAS]] memesan 13 pesawat pada Maret 2008.  [[Iraqi Airways]] telah memesan enam pesawat six Bombardier CRJ900 NextGen dan opsi untuk empat pesawat dalam jenis yang sama.<ref>http://www.flightglobal.com/articles/2008/03/13/222199/up-to-10-crj900-nextgen-aircraft-destined-for-iraq.html</ref>
+
+Pada Juni 2010 [[Lufthansa]] memesan delapan CRJ900 NextGen.<ref>{{cite news|url=http://www.cbc.ca/money/story/2010/07/02/bombardier-contract.html|work=CBC News|title=Bombardier gets $317M jet order|date=2 July 2010|archiveurl=http://web.archive.org/web/20100705104730/http://www.cbc.ca/money/story/2010/07/02/bombardier-contract.html|archivedate=5 July 2010}}</ref>
+
+=== CRJ1000 NextGen ===
+[[File:PK-GRC.jpg|thumb|Bombardier CRJ1000 milik [[Garuda Indonesia]]]]
+[[Berkas:C-FRJX CRJ 1000.jpg|thumb|CRJ 1000 di Paine Field]]
+
+Pada 19 Februari 2007, Bombardier meluncurkan ''CRJ1000'', sebelumnya didesain sebagai CRJ900X, perpanjangan dari CRJ900, dengan tempat duduk hingga 100 kursi.  Bombardier menyatakan bahwa pesawat ini meyediakan performa lebih tinggi dan keuntungan lebih besar tiap tempat duduk dibandingkan dengan pesaingnya [[Embraer E-Jets|Embraer E-190]].
+
+[[MyAir]] telah memesan 15 CRJ900X yang diganti menjadi CRJ1000, namun maskapai ini bangkrut pada 24 Jul 2009.<ref>[http://www.bombardier.com/index.jsp?id=0_0&lang=en&file=/en/0_0/0_0_1_7/0_0_1_7_4/0_0_1_7_4_2/crj1000_update.html Bombardier Aerospace Launches 100-Seat CRJ1000 Regional Jet]. Bombardier.com. Accessed 19 February 2007.</ref> [[Atlasjet]] juga menyatakan tertarik dengan jenis pesawat ini.<ref name="FI_06">[[Flight International]], 39 October 2006</ref>
+
+CRJ1000 sukses menyelesaikan penerbangan perdana tahun 2008. Namun, Bombardier menyatakan bahwa penerbangan komersial pertama ditunda hingga kuartal pertama 2010. tanggal 14 Juni 2009 Bombardier mengumumkan pesanan pasti untuk 15 pesawat CRJ1000 NextGen yang dilakukan oleh [[Air Nostrum]], untuk total 35 pesawat CRJ1000 NextGen. Sudah diperoleh 49 pesanan pasti dan 4 opsi untuk pesawat ini pada Agustus 2009.<ref>[http://www.flightglobal.com/articles/2009/08/11/330867/bombardier-terminates-myairs-15-strong-crj1000-order.html ]. Flight Global, 11 August 2009.</ref>
+
+''Airframe'' menyelesaikan penerbangan produksi pertama pada 28 Juli 2009 di Montreal; pada saat itu dijadwalkan pengiriman pertama pada kuartal pertama 2010.<ref>[http://www.flightglobal.com/articles/2009/07/28/330269/production-crj1000-successfully-completes-first-flight.html]</ref> Namun, satu bulan setelah penerbangan perdana, kesalahan pada penyeimbang bawah memaksa uji coba penerbangan dihentikan. Program tidak dilanjutkan hingga Februari 2010, dan pengiriman ditunda hingga pertengahan kedua 2011.<ref>{{cite web|url=http://www.flightglobal.com/articles/2010/03/17/339596/bombardier-resumes-crj1000-flight-tests.html|title=Bombardier resumes CRJ1000 flight tests|publisher=Flightglobal.com|date=17 March 2010|accessdate=17 March 2010}}</ref>
+
+== Operator ==
+{{see|Daftar operator Bombardier CRJ}}
+
+Pada Juli 2010, 316 pesawat CRJ700 (semua varian) dan 229 pesawat CRJ900 (semua varian) ada di dalam penerbangan.  Operator untuk pesawat tersebut adalah [[SkyWest Airlines]] (104), [[Mesa Airlines]] (58), [[Atlantic Southeast Airlines]] (49), [[Mesaba Airlines]] (41), [[Lufthansa CityLine]] (32), [[Comair]] (28), [[American Eagle Airlines]] (25), [[GoJet Airlines]] (25), dan operator lain dengan pesawat yang lebih sedikit.<ref name=Flight_Int_2010>[http://www.flightglobal.com/assets/getAsset.aspx?ItemID=35827 "World Airliner Census"]. ''[[Flight International]]'', p. 40.  August 2430, 2010.</ref>  <!-- Any updates or changes here require a newer reference. -->
+
+== Spesifikasi ==
+{| class=wikitable style="text-align: center;"
+|-
+! Varian
+! CRJ700
+! CRJ705
+! CRJ900
+! CRJ1000
+|- 
+! Kru kokpit
+| colspan="4" align="center" | Dua
+|-
+! Kapasitas kursi
+| 78 (1 kelas, maksimum)<br /> 70 (1 class, umum)<br />66 (2 kelas, umum)
+| 74 (1 kelas, umum)<br />75 (2 kelas, umum)
+| 86-90 (1 kelas, umum)
+| 100 (1 kelas, umum)
+|-
+! Panjang
+| 32.51 m (106&nbsp;ft 8 in)
+| colspan=2 | 36.40 m (119&nbsp;ft 4 in)
+| 39.13 m (128&nbsp;ft 4.7 in)
+|-
+! Bentang sayap
+| 23.24 m (76&nbsp;ft 3 in)
+| colspan=2 | 24.85 m (81&nbsp;ft 6 in)
+| 26.18 m (85&nbsp;ft 10.6 in)
+|-
+! Tinggi
+| 7.57 m (24&nbsp;ft 10 in)
+| colspan=2 | 7.51 m (24&nbsp;ft 7 in)
+| 7.50 m (24&nbsp;ft 6 in)
+|-
+! Luas sayap
+| colspan=3 | 70.61 m (760&nbsp;ft)
+| 77.4 m (833&nbsp;ft)
+|-
+! Diameter lambung
+| colspan=4 | 2.7 m (8&nbsp;ft 10 in)
+|-
+!Lebar kabin maksimum
+| colspan=4 | 2.57 m (8&nbsp;ft 5 in)
+|-
+!Tinggi kabin
+| colspan=4 | 1.89 m (6&nbsp;ft 2 in)
+|- 
+! Berat kosong operasi
+| {{convert|19731|kg|lb|abbr=on}}
+| colspan=2 | {{convert|21433|kg|lb|abbr=on}}
+| {{convert|23179|kg|lb|abbr=on}}
+|-
+! Berat tanpa bahan bakar maksimum (ZFW)
+| 28,259&nbsp;kg (62,300&nbsp;lb)<br /> LR: 28,801&nbsp;kg (63,495&nbsp;lb)
+| colspan=2 | 31,751&nbsp;kg (70,000&nbsp;lb)<br /> LR: 32,024&nbsp;kg (70,600&nbsp;lb)
+| 35,154&nbsp;kg (77,500&nbsp;lb)
+|-
+! Berat maksimum lepas landas (MTOW)
+| 32,999&nbsp;kg (72,750&nbsp;lb)<br /> ER: 34,019&nbsp;kg (75,000&nbsp;lb)<br /> LR: 34,926 &nbsp;kg (77,000&nbsp;lb)
+| colspan=2 | 36,504&nbsp;kg (80,500&nbsp;lb)<br /> ER: 37,421&nbsp;kg (82,500&nbsp;lb)<br /> LR: 38,330&nbsp;kg (84,500&nbsp;lb)
+| EuroLite: 38,995&nbsp;kg (85,968&nbsp;lb)<br /> 40,824&nbsp;kg (90,000&nbsp;lb)<br /> ER: 41,632&nbsp;kg (91,800&nbsp;lb)
+|-
+! Berat muatan maksimum 
+| 8,527&nbsp;kg (18,800&nbsp;lb)<br /> LR: 9,070&nbsp;kg (19,995&nbsp;lb)
+| colspan=2 | 10,319&nbsp;kg (22,750&nbsp;lb)<br /> LR: 10,591&nbsp;kg (23,350&nbsp;lb)
+| 12,156&nbsp;kg (26,800&nbsp;lb)
+|-
+! Kapasitas kargo
+| {{convert|15.5|m3|cuft|abbr=on}}
+| colspan=2 | {{convert|16.8|m3|cuft|abbr=on}}
+| {{convert|19.4|m3|cuft|abbr=on}}
+|- 
+! Panjang landasan saat MTOW ([[International standard atmosphere|ISA]])
+| {{convert|1564|m|ft|abbr=on}}<br /> ER: {{convert|1676|m|ft|abbr=on}}<br /> LR: {{convert|1851|m|ft|abbr=on}}
+| colspan=2 | {{convert|1778|m|ft|abbr=on}}<br /> ER: {{convert|1861|m|ft|abbr=on}}<br /> LR: {{convert|1944|m|ft|abbr=on}}
+| EuroLite: {{convert|1822|m|ft|abbr=on}}<br /> {{convert|1996|m|ft|abbr=on}}<br /> ER: {{convert|2079|m|ft|abbr=on}}
+|-
+! Ketinggian jelajah
+| colspan=4 | 12,500 m (41,000&nbsp;ft)
+|-
+! Kecepatan jelajah
+| Mach 0.78 (829&nbsp;km/h, 515&nbsp;mph)
+| Mach 0.78 (829&nbsp;km/h, 515&nbsp;mph)
+| Mach 0.80 (850&nbsp;km/h, 528&nbsp;mph)
+| Mach 0.78 (829&nbsp;km/h, 515&nbsp;mph)
+|-
+! Kecepatan maksimum
+| Mach 0.825 (876&nbsp;km/h, 544&nbsp;mph)
+| Mach 0.83 (885&nbsp;km/h, 559&nbsp;mph)
+| Mach 0.83 (881&nbsp;km/h, 547&nbsp;mph)
+| Mach 0.82 (870&nbsp;km/h, 541&nbsp;mph)
+|-
+! Jarak maksimum
+| {{convert|1434|nmi|abbr=on|lk=in}}<br /> ER: {{convert|1732|nmi|abbr=on}}<br /> LR: {{convert|2002|nmi|abbr=on}}
+| {{convert|1719|nmi|abbr=on|lk=in}}<br /> ER: {{convert|1963|nmi|abbr=on}}<br /> LR: {{convert|1999|nmi|abbr=on}}
+| {{convert|1350|nmi|abbr=on|lk=in}}<br /> ER: {{convert|1593|nmi|abbr=on}}<br /> LR: {{convert|1828|nmi|abbr=on}}
+| EuroLite: {{convert|1030|nmi|abbr=on|lk=in}}<br /> {{convert|1491|nmi|abbr=on}}<br /> ER: {{convert|1691|nmi|abbr=on}}
+|- 
+! Bahan bakar maksimum
+| colspan=4 | {{convert|8822|kg|abbr=on}} 
+|-
+! Mesin (2x)
+| [[General Electric CF34|GE CF34-8C5B1]]
+| [[General Electric CF34|GE CF34-8C5]]
+| GE CF34-8C5
+| [[General Electric CF34|GE CF34-8C5A1]]
+|-
+! Tenaga lepas landas (2x)
+| 56.4&nbsp;kN (12,670&nbsp;lbf)
+| 58.4&nbsp;kN (13,123&nbsp;lbf)
+| 59.4&nbsp;kN (13,360&nbsp;lbf)
+| 60.6&nbsp;kN (13,630&nbsp;lbf)
+|-
+! Tenaga APR (2x)
+| 61.3&nbsp;kN (13,790&nbsp;lbf)
+| 63.4&nbsp;kN (14,255&nbsp;lbf)
+| 64.5&nbsp;kN (14,510&nbsp;lbf)
+| 64.5&nbsp;kN (14,510&nbsp;lbf)
+|}
+Sumber: CRJ700,<ref>[http://www.crj700.com/CRJ/en/specifications.jsp?langId=en&crjId=700 CRJ700 Specifications]. Bombardier</ref><ref>[http://web.archive.org/web/20110708082703/http://www2.bombardier.com/en/3_0/3_6/pdf/Paris2009/CRJ_700_Factsheet.pdf CRJ700 NextGen Fact Sheet]. Bombardier, June 2009.</ref><ref>[http://www.crjnextgen.com/CRJ/en/NextGen/pdf/CRJ700_EN.pdf CRJ700 NextGen Fact Sheet] at crjnextgen.com</ref> CRJ705,<ref>[http://www.crj700.com/CRJ/en/specifications.jsp?langId=en&crjId=705 CRJ705 Specifications]. Bombardier</ref> CRJ900,<ref>[http://www.crj.bombardier.com/CRJ/en/specifications.jsp?langId=en&crjId=900 CRJ900 Specifications]. Bombardier</ref><ref>[http://web.archive.org/web/20110708082709/http://www2.bombardier.com/en/3_0/3_6/pdf/Paris2009/CRJ_900_Factsheet.pdf CRJ900 NextGen Fact Sheet]. Bombardier, June 2009.</ref><ref>[http://www.crjnextgen.com/CRJ/en/NextGen/pdf/CRJ900_EN.pdf CRJ900 NextGen Fact Sheet] at crjnextgen.com</ref> CRJ1000<ref>[http://web.archive.org/web/20091229112709/http://www2.bombardier.com/en/3_0/3_6/pdf/Paris2009/CRJ_1000_Factsheet.pdf CRJ1000 NextGen Fact Sheet]. Bombardier, June 2009.</ref><ref>[http://www.crjnextgen.com/CRJ/en/NextGen/pdf/CRJ1000_EN.pdf CRJ1000 NextGen Fact Sheet] at crjnextgen.com</ref><ref>[http://www.globalsecurity.org/military/world/canada/crj1000.htm Bombardier CRJ1000] at globalsecurity.org</ref><ref>[http://www.flightglobal.com/blogs/runway-girl/2008/07/meet-the-bombardier-crj1000-eu.html Meet the Bombardier CRJ1000 EuroLite] at flightglobal.com</ref> <br />
+Notes:
+* Delta Connection CRJ900 berkapasitas 76 penumpang dan empat kru dengan konfigurasi gabungan dua kelas.<ref>[http://www.delta.com/planning_reservations/plan_flight/aircraft_types_layout/crj_900/index.jsp Canadair Regional Jet 900 (CRJ)]</ref>
+* Informasi pada CRJ1000 dapat berubah.
+
+== Pesanan dan pengiriman ==
+{| style="text-align: center; font-size: 97%;" class="wikitable"
+|- bgcolor="#DDDD"
+!Seri model
+!Pesanan
+!Pengiriman
+!Belum dikirim
+|- bgcolor="#EEEEEE"
+|CRJ700|| 328 || 287 || 41
+|- bgcolor="#EEEEEE"
+|CRJ705|| 16 || 16 || -
+|- bgcolor="#EEEEEE"
+|CRJ900|| 248 || 234 || 14
+|- bgcolor="#EEEEEE"
+|CRJ1000|| 49 || 18 || 31
+|- bgcolor="#EEEEEE"
+| Total || 641 || 537 || 104
+|}
+
+Semua data diperoleh pada 30 April 2010.<ref name="Report"/>
+
+== Referensi ==
+{{reflist|2}}
+
+== Pranala luar ==
+{{Commons|Bombardier CRJ}}
+* [http://www.crj.bombardier.com/CRJ/en/home.jsp Bombardier CRJ page]
+* [http://www.crj.bombardier.com/CRJ/en/NextGen/index.html Bombardier CRJ NextGen page]
+
+{{Bombardier aircraft}}
+
+[[Kategori:Pesawat terbang Bombardier]]
+[[Kategori:Bombardier Aerospace]]
+
+
+{{pesawat-stub}}

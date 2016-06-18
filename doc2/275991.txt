@@ -1,0 +1,7 @@
+Templat:Romawi-stub
+{{asbox
+| image     = Roman SPQR banner.svg
+| subject   = [[Romawi]]
+| qualifier = 
+| category  = Rintisan bertopik Romawi
+}}

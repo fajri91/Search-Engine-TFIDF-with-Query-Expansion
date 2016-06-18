@@ -1,0 +1,29 @@
+Templat:Infobox Paris Network generic
+<noinclude>
+<!--
+  Do not add any whitespace before "< noinclude >" or after "< /noinclude >"
+ -->
+Templat yang digunakan untuk menunjukkan daftar jenis transportasi di Paris.
+
+== Preview ==
+
+
+
+
+
+
+
+
+
+
+
+</noinclude>{|class="infobox"
+|
+{|style="width:100%"
+!style="text-align:center;background:{{{WarnaNama}}};color:{{{WarnaTeks}}}"|{{{Nama}}}
+|-
+|<center>{{{Logo}}}</center>
+|}
+|-
+|{{Infobox Paris Network main content}}
+|}<noinclude>[[Kategori:Templat_kotak_info_kendaraan]]</noinclude>

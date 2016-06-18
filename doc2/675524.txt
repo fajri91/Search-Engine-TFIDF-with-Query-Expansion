@@ -1,0 +1,24 @@
+Stasiun Ngimbang
+{{infobox stasiun
+|name=Ngimbang
+|prov=Jawa Timur
+|kabupaten=Lamongan
+|kecamatan kabupaten=Ngimbang
+|desa=Ngimbang
+|alamat=
+|kodepos=
+|open=17 Mei 1900
+|close=1981
+|kode=NGB
+|operator=Daerah Operasi VII Madiun
+}}
+
+'''Stasiun Ngimbang'''('''NGB''') merupakan stasiun kereta api non-aktif yang berada di [[Ngimbang, Ngimbang, Lamongan]]. Jalur ini dibangun pada tahun 1899 dan diresmikan pada tahun 1900 oleh [[Babat-Djombang Stoomtram Mij]], perusahaan kereta api [[Hindia Belanda]]. Namun pada tahun 1916 perusahaan ini bangkrut dan jalur ini dijual kepada [[Staatsspoorwegen]], perusahaan kereta api yang lain di Hindia Belanda. Setelah [[kemerdekaan Indonesia]], jalur ini diambil oleh DKARI, yang  sekarang adalah [[PT Kereta Api]]. Namun karena kendaraan beroda semakin maju dan prasarna yang sudah sangat tua, jalur dan stasiun ini dututup pada tahun 1981. Kini bangunan stasiun ini masih ada, namun sudah disewakan menjadi rumah tempat tinggal warga miskin.
+
+<center>
+{{stasiun|Halte Tanjung|Jalur kereta api Jombang-Babat|Halte Wotan}}
+
+{{stasiun-stub}}
+{{coord|-8.217182|114.37572|display=title}}
+[[Kategori:Ngimbang, Lamongan]]
+[[Kategori:Bekas stasiun kereta api di Jawa Timur|Ngimbang]]

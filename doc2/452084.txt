@@ -1,0 +1,35 @@
+Bahasa Bislama
+{{about|the language|the food|sea cucumber (food)}}
+{{Infobox language
+|name=Bislama
+|region= Vanuatu
+|speakers=10,000
+|date=2011
+|ref=e18
+|speakers2=200,000 [[Second language|L2]] speakers{{citation needed|date=November 2011}}
+|familycolor=Creole
+|fam1=[[Kreol Inggris]]
+|fam2=Pacific
+|script=[[Huruf Latin]]
+|nation= [[Vanuatu]]
+|iso1=bi
+|iso2=bis
+|iso3=bis
+|glotto=bisl1239
+|glottorefname=Bislama
+|lingua=52-ABB-ce
+}}
+
+'''Bislama''' adalah [[bahasa kreol]] [[Melanesia]], salah satu dari bahasa resmi di [[Vanuatu]]. Ia adalah bahasa pertama dari kebanyakan "Urban ni-Vanuatu" (untuk yang tinggal di [[Port Vila]] dan [[Luganville]], dan bahasa kedua yang lain di negara tersebut.
+
+Bislama adalah campuran kata dari bahasa [[Bahasa Inggris|Inggris]], [[Bahasa Perancis|Perancis]], dan berbagai [[bahasa Utara dan Tengah Vanuatu|Utara, Tengah]], dan [[bahasa Vanuatu Selatan]], dengan syntaxnya paling menyerupai [[bahasa Vanuatu]].
+
+Bislama berhubungan dekat dengan [[Tok Pisin]] dari [[Papua New Guinea]], [[Pijin]] dari [[Kepulauan Solomon]], dan [[Selat Kreyol Torres]] dari utara [[Australia]].
+
+"[[Yumi, Yumi, Yumi]]", lagu kebangsaan Vanuatu, adalah dalam Bislama.
+
+{{bahasa-stub}}
+
+{{InterWiki|code=bi}}
+
+[[Kategori:Bahasa|Bislama]]

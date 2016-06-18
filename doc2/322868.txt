@@ -1,0 +1,32 @@
+Calophyllum inophyllum
+{{taxobox
+|image = Starr_010309-0546_Calophyllum_inophyllum.jpg
+|image_caption = ''Calophyllum inophyllum'' flower
+|status = LR/lc
+|status_system = IUCN2.3
+|regnum = [[Plantae]]
+|unranked_divisio = [[Angiospermae]]
+|unranked_classis = [[Eudikotil]]
+|unranked_ordo = [[Rosidae]]
+|ordo = [[Malpighiales]]
+|familia = [[Calophyllaceae]]
+|genus = ''[[Calophyllum]]''
+|species = '''''C. inophyllum'''''
+|binomial = ''Calophyllum inophyllum''
+|binomial_authority = [[Carolus Linnaeus|L.]]<ref name=grin>&nbsp;''Calophyllum inophyllum'' was first described and published in ''[[Species Plantarum]]'' 1:513. 1753. {{ cite web |url=http://www.ars-grin.gov/cgi-bin/npgs/html/taxon.pl?8631 |title=''Calophyllum inophyllum'' information from NPGS/GRIN |author=[[Germplasm Resources Information Network|GRIN]] |quote=--- |work=Taxonomy for Plants |publisher=[[United States Department of Agriculture|USDA]], [[Agricultural Research Service|ARS]], National Genetic Resources Program |location=National Germplasm Resources Laboratory, [[Beltsville, Maryland]] |date=March 8, 2012 |accessdate=April 26, 2012}}</ref>
+}}
+'''''Calophyllum inophyllum''''' L., atau '''Nyamplung''' termasuk dalam marga [[Calophyllum]] yang mempunyai sebaran cukup luas di dunia yaitu [[Madagaskar]], [[Afrika Timur]], [[Asia Selatan]] dan [[Asia tenggara|Tenggara]], [[Kepulauan Pasifik]], [[Hindia Barat]], dan [[Amerika Selatan]]. Di [[Indonesia]], nyamplung tersebar mulai dari [[Sumatera Barat]], [[Riau]], [[Jambi]], [[Sumatera Selatan]], [[Lampung]], [[Jawa]], [[Kalimantan Barat]], [[Kalimantan Tengah]], [[Sulawesi]], [[Maluku]], hingga [[Nusa Tenggara Timur]] dan [[Papua]]. Kelebihan nyamplung sebagai bahan baku [[biofuel]] adalah bijinya mempunyai rendemen yang tinggi, bisa mencapai 74%, dan dalam pemanfaatannya tidak berkompetisi dengan kepentingan pangan.
+
+Beberapa keunggulan nyamplung ditinjau prospek pengembangan dan pemanfaatan lain, antara lain adalah tanaman nyamplung tumbuh dan tersebar merata secara alami di Indonesia, regenerasi mudah dan berbuah sepanjang tahun menunjukkan daya ''survival'' yang tinggi terhadap lingkungan. Tanaman relatif mudah dibudidayakan baik tanaman sejenis (monokultur) atau [[hutan campuran]] (''mixed-forest''), cocok di daerah ber[[iklim kering]], permudaan alami banyak, dan berbuah sepanjang tahun. Hampir seluruh bagian tanaman nyamplung dapat dimanfaatkan dan menghasilkan bermacam produk yang memiliki nilai ekonomi. Tegakan hutan nyamplung berfungsi sebagai pemecah angin (''wind breaker'') untuk [[tanaman pertanian]] dan [[konservasi pantai]], dan pemanfaatan biofuel nyamplung dapat menekan laju penebangan pohon [[hutan]] sebagai [[kayu bakar]] karena produktivitas biji lebih tinggi diandingkan jenis lain ([[jarak pagar]] 5 ton/ha, [[kelapa sawit]] 6 ton/ha, nyamplung 20 ton/ha).
+
+Proses pengolahan biodiesel dari nyamplung hampir sama dengan pengolahan minyak sawit, [[kelapa]], dan jarak pagar. Tetapi karena biji nyamplung mengandung [[zat ekstraktif]] yang tinggi, maka waktu yang dibutuhkan pada proses pengukusan lebih lama dan proses [[pemisahan getah]] (''degumming'') berlangsung pada konsentrasi tinggi.
+
+== Referensi ==
+{{reflist}}
+
+== Pranala terkait ==
+* Biodiesel Nyamplung, Di antara Jenuhnya Jarak Pagar dan Tuntutan Kebutuhan Bioenergi, [http://web.archive.org/web/20100725015338/http://imatetani.webs.com/traksi.htm Majalah Online Traksi], [http://imatetani.webs.com Ikatan Mahasiswa Teknik Pertanian]
+{{tumbuhan-stub}}
+
+[[Kategori:Tumbuhan]]
+[[Kategori:Biodiesel]]

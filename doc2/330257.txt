@@ -1,0 +1,15 @@
+Berkas:Sultan Hamengku Buwono IX blackwhite.png
+== {{int:filedesc}} ==
+{{Information
+| description    =
+lukisan/fotograf sultan hb ix. gambar ini diedit oleh Den Mazze!. sumber gambar ini ada di keraton jogja
+
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{FotoHistoris}}

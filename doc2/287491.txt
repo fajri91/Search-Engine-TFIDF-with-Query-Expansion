@@ -1,0 +1,14 @@
+Berkas:Tonghak.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+Revolusi Tonghak di Korea, 1890-an. Diakses dari http://koreanhistory.info/Tonghak.htm
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Fairuse}}

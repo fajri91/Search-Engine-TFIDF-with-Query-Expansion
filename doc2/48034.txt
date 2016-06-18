@@ -1,0 +1,35 @@
+Intel 80486
+{{periksaterjemahan|en|Intel 80486}}
+[[Berkas:80486dx2-large.jpg|300px|thumb|''Die'' prosesor mikro Intel 80486DX2 yang terekspos.]]
+[[Berkas:80486DX2 arch.svg|300px|thumb|Arsitektur 486DX2.]]
+'''Intel i486''' (sering disebut '''486''' atau '''80486''') adalah serangkaian [[prosesor mikro]] [[Complex instruction set computer|CISC]] [[prosesor skalar|skalar]] [[32-bit]] [[Intel]] yang merupakan bagian dari keluarga prosesor [[x86]] Intel. i486 merupakan penerus prosesor [[Intel 80386]]. Prosesor mikro 486 pertama kali diperkenalkan pada tahun 1989. i486 sering disebut tanpa tambahan awalan 80, karena peraturan pengadilan melarang angka-angka dijadikan mereka dagang (seperti 80486). Penamaan prosesor yang berdasarkan nomor kemudian benar-benar dihapus bersamaan dengan dipasarkannya penerus i486, yaitu prosesor [[Pentium]].
+
+Dari sisi penilaian perangkat lunak, [[instruction set]] dari keluarga i486 sangatlah mirip dengan pendahulunya, [[Intel 80386]] dengan beberapa sedikit ''instructions'' tambahan.
+
+Dari sisi penilaian perangkat keras, arsitektur dari i486 merupakan kemajuan besar. Prosesor ini memiliki instruksi dan data [[CPU cache|cache]] yang tergabung dalam suatu chip, suatu ''[[floating-point unit]]'' (FPU) tambahan pada chip (khusus model DX), dan ''[[bus interface unit]]'' yang ditingkatkan kemampuannya. Sebagai tambahan, pada kondisi optimal, inti prosesor dapat menjaga kecepatan eksekusi dari satu instruksi per ''clock cycle''. Perbaikan ini secara kasar melipatgandakan kinerja dari Intel 80386 dalam ''clock rate'' yang sama. Meskipun demikian, beberapa model i486 ternyata lebih lambat daripada prosesor 386 tercepat, khususnya 'SX' i486.
+
+'''Perbedaan antara 80386 dan 80486'''
+* Data/Instruction [[Cache]] -pada 8192-byte (8 kB) SRAM tertanam pada inti processor,dibuat untuk menyimpan penggunaan instruksi biasa.386 mendukung ''off-chip cache'',tetapi ini sangatlah lambat.
+* [[Instruction pipeline|Pipelining]] - ini mengizinkan processor untuk melakukan LocateFetchExecute setiap putaran waktu (''clock cycle''). Pipeline merupakan penganti informasi pelaksanaan alur instruksi yang dibutuhkan dari dua putaran waktu sebelumnya.tempatnya haruslah diberikan pada fetch berikutnya,fetch haruslah diberikan pada pelaksanaan berikutnya.386 perlu melakukan instruksi secara terpisah. 
+* Peningkatan performance [[MMU]]
+* Terintegrasi [[floating point unit|FPU]]- (hanya model DX saja) penambahan fungsi matematika.
+
+486 mempunyai 32-bit [[data bus]] dan sebuah 32-bit [[address bus]].ini diperlukan bagi 30-pin [[SIMM]]s atau 72-pin SIMM. Pengalamatan bus 32-bit terbatas sampai 4 GB dari RAM.
+
+Pimpinan project untuk 80486 adalah [[Patrick Gelsinger]].
+
+pada Mei 2006 Intel mengumumkan bahwa produksi dari 80486 akan berhenti di ahir bulan September 2007.[http://www.reghardware.co.uk/2006/05/18/intel_cans_386_486_960_cpus/] walaupun chip ini telah lama menjadi sangat penting untuk perangkat [[personal computer|PC]], Intel akan melanjutkan produksi untuk digunakan dalam [[embedded systems]].
+
+== Referensi ==
+:''Artikel ini awalnya ditulis berdasarkan bahan-bahan dari ''Free On-line Dictionary of Computing'', yang berlisensikan GFDL.''
+
+== Pranala luar ==
+* {{en}} http://users.erols.com/chare/486.htm
+* {{en}} [http://www.cpu-collection.de/?l0=co&l1=Intel&l2=i486%20DX Intel 80486 images and descriptions at cpu-collection.de]
+* {{en}} [http://www.cpu-info.com/index2.php?mainid=html/cpu/486.php CPU-INFO: 80486, indepth processor history]
+
+{{Intel_processors}}
+
+[[Kategori:Mikroprosesor]]
+[[Kategori:Intel|80846]]
+[[Kategori:Mikroprosesor x86|Intel 486]]

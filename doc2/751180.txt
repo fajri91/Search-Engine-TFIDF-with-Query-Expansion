@@ -1,0 +1,40 @@
+Yasukazu Tanaka
+{{Infobox football biography
+|playername={{PAGENAME}}
+|image=
+|fullname={{PAGENAME}}
+|dateofbirth={{birth date and age|1933|6|15}}
+|cityofbirth=
+|countryofbirth=[[Jepang]]
+|height=
+|currentclub=
+|clubnumber=
+|position=[[Penyerang (sepak bola)|Penyerang]]
+|years1=
+|clubs1=
+|caps1=
+|goals1=
+|nationalyears1=1955
+|nationalteam1={{timnas|Jepang}}
+|nationalcaps1=4
+|nationalgoals1=0
+}}
+'''{{PAGENAME}}''' ({{lahirmati||15|6|1933}}) adalah pemain [[sepak bola]] asal [[Jepang]].
+
+==Statistik==
+{|Class="wikitable" style="text-align:center;"
+|-
+!colspan="3"|[[Tim nasional sepak bola Jepang|Jepang]]
+|-
+!Tahun||Tampil||Gol
+|-
+|1955||4||0
+|-
+!Total||4||0
+|}
+
+== Pranala luar ==
+
+*[http://www.japannationalfootballteam.com/en/players/tanaka_yasukazu.html Japan National Football Team Database]
+
+[[Kategori:Pemain sepak bola Jepang]]

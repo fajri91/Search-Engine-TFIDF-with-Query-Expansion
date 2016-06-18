@@ -1,0 +1,35 @@
+Gedea tibialis
+{{Taxobox
+|name = Gedea tibialis
+|status = 
+|image = 
+|image_caption = 
+|domain = 
+|regnum = [[Animalia]]
+|phylum = [[Arthropoda]]
+|classis = [[Arachnida]]
+|ordo = [[Araneae]]
+|familia = [[Salticidae]]
+|genus =Gedea
+|species = Gedea tibialis
+|binomial = Gedea tibialis
+|binomial_authority =Zabka, 1985
+|range_map = 
+|range_map_caption = 
+|image2 = 
+|image2_caption = 
+|synonyms = 
+}}
+'''''Gedea tibialis''''' adalah spesies [[laba-laba]] yang tergolong [[familia]] [[Salticidae]]. Spesies ini juga merupakan bagian dari genus [[Gedea]] dan ordo [[Araneae]]. Nama ilmiah dari spesies ini pertama kali diterbitkan pada tahun 1985 oleh Zabka.
+
+Laba-laba ini biasanya banyak ditemui di Vietnam.
+
+== Referensi ==
+
+* Platnick, Norman I. (2010): [http://research.amnh.org/entomology/spiders/catalog/LINYPHIIDAE.html The world spider catalog], version 10.5. ''American Museum of Natural History''.
+
+{{DEFAULTSORT:Gedea tibialis}}
+
+[[Kategori:Salticidae]]
+
+{{labalaba-stub}}

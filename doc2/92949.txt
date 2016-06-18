@@ -1,0 +1,14 @@
+Berkas:Templat utama.JPG
+== {{int:filedesc}} ==
+{{Information
+|description    =
+Penjelasan hasil dari templat:utama
+== Jenis lisensi ==
+{{DU-Seni}}
+|source         = 
+|date           = 
+|location       = 
+|author         = 
+|permission     = 
+|other_versions = 
+}}

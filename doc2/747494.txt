@@ -1,0 +1,53 @@
+Dacia Lodgy
+{{Infobox automobile
+| name         = Dacia Lodgy
+| image        = [[Berkas:Geneva MotorShow 2013 - Dacia Lodgy.jpg|250px]]
+| caption      = 
+| manufacturer = [[Automobile Dacia|Dacia]]
+| aka          = 
+| production   = 2012sekarang
+| model_years  = 
+| assembly     = [[Tangier]], [[Maroko]] ([[Renault]])
+| predecessor  = 
+| successor    = 
+| class        = [[MPV kompak]]
+| body_style   = 5-door [[Minivan|MPV]]
+| layout       = [[Mesin depan]], [[penggerak roda depan]]
+| platform     = [[Nissan B platform|Dacia M0 platform]]
+| engine       = 1.2 L [[Straight-4|I4]] TCe<br />1.6 L I4<br />1.5 L I4 [[Common rail|dCi]]
+| transmission = 5-speed [[Manual transmission|manual]]<br />6-speed [[Manual transmission|manual]]
+| wheelbase    = {{convert|2810|mm|in|1|abbr=on}}
+| length       = {{convert|4498|mm|in|1|abbr=on}}
+| width        = {{convert|1751|mm|in|1|abbr=on}}
+| height       = {{convert|1680|mm|in|1|abbr=on}}
+| weight       = {{convert|1165|-|1337|kg|lb|0|abbr=on}}
+| designer     = 
+| related      = [[Dacia Dokker]]
+}}
+
+'''Dacia Lodgy''' adalah [[MPV kompak]] yang dikembangkan oleh perusahaan mobil Romania [[Automobile Dacia|Dacia]]. Pertama kali diluncurkan tahun 2012 di [[Geneva Motor Show]].<ref>{{cite web|last=Pulman|first=Ben|title=Dacia Lodgy MPV (2012) first official pictures|url=http://www.carmagazine.co.uk/News/Search-Results/First-Official-Pictures/Dacia-Lodgy-MPV-2012-first-official-pictures/|publisher=Car Magazine|accessdate=6 January 2012|date=5 January 2012}}</ref>
+
+== Mesin ==
+{| class="wikitable" cellpadding="0" style="text-align:center; font-size:90%;"
+|-  style="text-align:center; background:#dcdcdc; vertical-align:middle;"
+! Code !! Kapacitas !! Tipe !! Tenaga !! Torsi !! Kec.maks !! Akselerasi  0100&nbsp;km/h !! Konsumsi rata-rata !! [[Standar emisi|emisi <sub>2</sub>]]
+|-
+| [[List of Renault engines#H|H5Ft]] 402 || 1.198 cc || [[DOHC]] 16v [[Turbocharger|Turbo]] || {{Convert|115|hp|kW PS|0|abbr=on}} at 4500&nbsp; rpm || 190 Nm (140 lbft) at 1500 rpm || {{Convert|179|km/h|mi/h|0|abbr=on}} || 10.6 s || {{convert|6|L/100 km|abbr=on}} || 140 [[gram|g]]/km
+|-
+| [[Renault K-Type engine|K7M]] 812 || 1.598 cc || SOHC 8v || {{Convert|85|hp|kW PS|0|abbr=on}} at 5000&nbsp; rpm || 134 Nm (99 lbft)  at 3000 rpm || {{Convert|160|km/h|mi/h|0|abbr=on}} || 14.5 s || {{convert|7.1|L/100 km|abbr=on}} || 165 g/km
+|-
+| [[Renault K-Type engine|K9K]] 612 || 1.461 cc || [[SOHC]] 8v Turbo [[Diesel engine|Diesel]] || {{Convert|90|hp|kW PS|0|abbr=on}} at 3750&nbsp; rpm || 200 Nm (150 lbft) at 1750 rpm || {{Convert|169|km/h|mi/h|0|abbr=on}} || 12.4 s || {{convert|4.2|L/100 km|abbr=on}} || 109 g/km
+|-
+| K9K 846 || 1.461 cc || SOHC 8v Turbo Diesel || {{Convert|110|hp|kW PS|0|abbr=on}} at 4000&nbsp; rpm || 240 Nm (180 lbft) at 1750 rpm || {{Convert|175|km/h|mi/h|0|abbr=on}} || 11.6 s || {{convert|4.4|L/100 km|abbr=on}} || 116 g/km
+|}
+
+== Referensi ==
+{{Reflist}}
+
+== Pranala luar ==
+{{Commons category|Dacia Lodgy}}
+* [http://www.renault.com/en/vehicules/dacia/pages/lodgy.aspx Official Dacia Lodgy website]
+
+{{Dacia}}
+
+[[Kategori:Kendaraan Dacia|Lodgy]]

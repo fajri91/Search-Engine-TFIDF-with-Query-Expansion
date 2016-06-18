@@ -1,0 +1,23 @@
+Stasiun Rejotangan/layout
+{|align=center
+{{BS-table}}
+{{BS|CONTg|Ke [[Stasiun Ngunut|Ngunut]]}}
+{{BS3||ABZg2|STRc3|}}
+{{BS3||STR+c1|STR+4|}}
+{{BS3||STR|STR|}}
+{{BS3||STR|STR|}}
+{{BS3||STR+BSlr|STR+BSr|}}
+{{BS3|BUILDING|STR+BSlr|STR+BSr|O2=num1r|O3=num2r}}
+{{BS3||STR+BSlr|STR+BSr|}}
+{{BS3||STR|STR|}}
+{{BS3||STR|STR|}}
+{{BS3||STR+c2|STR3|}}
+{{BS3||ABZg+1|STRc4|}}
+{{BS3|RP2q|SKRZ-G2BUE|RP2q|}}
+{{BS|CONTf|Ke [[Stasiun Blitar|Blitar]]}}
+|}
+|}
+
+<noinclude>
+[[Kategori:Layout stasiun|Rejotangan]]
+</noinclude>

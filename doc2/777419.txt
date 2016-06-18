@@ -1,0 +1,113 @@
+Templat:Acara Trans7
+{{navbox
+|name = Acara Trans7
+|title = [[Trans7]]
+|image = [[Berkas:Trans 7 2013.svg|150px]]
+|state = {{{state|autocollapse}}}
+|listclass = hlist
+|above= Direktur utama: [[Atiek Nur Wahyuni]]
+
+|list1 = {{Navbox|child
+|title = [[Daftar acara Trans 7|Daftar acara yang saat ini ditayangkan]] di [[Trans7]]
+|state = {{{state|show}}}
+|group1 = [[Acara berita|Berita]]
+|list1 =
+*''[[Redaksi (acara televisi)|Redaksi]]'' (sejak 2006)
+*''[[Redaksi Kontroversi]]'' (sejak 2006)
+*''[[Redaksiana]]'' (sejak 2012)
+*''[[Selamat Pagi (acara televisi)|Selamat Pagi]]'' (sejak 2006)
+
+|group2 = [[Infotainmen]]
+|list2 =
+*''[[Seleb Expose]]'' (sejak 2013)
+*''[[Selebrita]]'' (sejak 2010)
+
+|group3 = [[Gelar wicara]]
+|list3 =
+*''[[Hitam Putih (acara TV)|Hitam Putih]]'' (sejak 2011)
+
+|group4 = [[Hiburan]]
+|list4 =
+*''[[Asal (Asli Atau Palsu)]]'' (sejak 2014)
+*''[[Azis Berbagi]]'' (sejak 2015)
+*''[[CCTV (acara televisi)|CCTV]]'' (sejak 2015)
+*''[[Doeloe Sekarang]]'' (sejak 2015)
+*''[[Etalase (acara televisi)|Etalase]]'' (sejak 2013)
+*''[[Fatamorgana (acara televisi)|Fatamorgana]]'' (sejak 2015)
+*''[[Gen Z (acara televisi)|Gen Z]]'' (sejak 2015)
+*''[[LOL (acara televisi)|LOL]]'' (sejak 2015)
+*''[[(Masih) Dunia Lain]]'' (sejak 2010)
+*''[[Mister(i) Tukul]]'' (sejak 2009)
+*''[[Rumah Uya]]'' (sejak 2015)
+
+|group5 = [[Pengetahuan]] 
+|list5 =
+*''[[Eksis Abis]]'' (sejak 2015)
+*''[[On The Spot]]'' (sejak 2007)
+*''[[Ragam Dunia]]'' (sejak 2013)
+*''[[Ragam Indonesia]]'' (sejak 2012)
+*''[[Ragam Manfaat]]'' (sejak 2015)
+*''[[Spotlite]]'' (sejak 2011)
+*''[[Tau Gak Sih?]]'' (sejak 2013)
+*''[[Wow Indonesia]]'' (sejak 2015)
+
+|group6 = [[Komedi]] 
+|list6 =
+*''[[Indonesia Lawak Klub]]'' (sejak 2013)
+*''[[Opera Van Java]]'' (siaran ulang 2008)
+
+|group7 = [[Dokumenter]]
+|list7 =
+*''[[Indonesiaku]]'' (sejak 2010)
+*''[[Jejak Petualang]]'' (sejak 2006)
+*''[[Jejak Si Gundul]]'' (sejak 2006)
+*''[[Merajut Asa]]'' (sejak 2010)
+*''[[Orang Pinggiran (acara televisi)|Orang Pinggiran]]'' (sejak 2011)
+*''[[Tupperware She CAN!]]'' (sejak 2007)
+
+|group8 = [[Olahraga]]
+|list8 =
+*''[[Galeri Sepak Bola Indonesia]]'' (sejak 2004)
+*''[[Grand Prix Sepeda Motor musim 2016]]'' (sejak 2016)
+*''[[One Stop Football]]'' (sejak 2003)
+*''[[Sport7]]'' (sejak 2006)
+
+|group9 = [[Hobi]] dan [[gaya hidup]]
+|list9 =
+*''[[Detektif Rasa]]'' (sejak 2014)
+*''[[Mancing Mania]]'' (sejak 2006)
+*''[[Modern Moms]]'' (sejak 2014)
+*''[[Para Petualang Cantik]]'' (sejak 2014)
+*''[[Dua Hijab]]'' (sejak 2015)
+
+|group10 = [[Anak-anak]]
+|list10 =
+*''[[Dunia Binatang]]'' (sejak 2009)
+*''[[Laptop Si Unyil]]'' (sejak 2013)
+*''[[Si Bolang]]'' (sejak 2013)
+*''[[Si Unyil Keliling Dunia]]'' (sejak 2014)
+
+|group11=[[Sinetron]] dan [[film televisi|FTV]]
+|list11=
+*''[[Cermin Kehidupan]]'' (sejak 2014)
+*''[[Rahasia Tuhan]]'' (sejak 2014)
+
+|group12 = [[Agama|Keagamaan]]
+|list12 =
+*''[[Khalifah (acara televisi)|Khalifah]]'' (sejak 2013)
+*''[[Khazanah (acara televisi)|Khazanah]]'' (sejak 2011)
+*''[[Poros Surga]]'' (sejak 2015)
+
+|group13 = [[Serial drama]]
+|list13 =
+*''[[Empress Ki (serial TV)|Empress Ki]]'' (sejak 2015)
+}}
+|below = 
+* Artikel terkait: [[Trans TV]]
+* [[Trans Media]]
+}}<noinclude>
+{{collapsible option}}
+{{Templat acara televisi Indonesia}}
+[[Category:Templat navigasi televisi]]
+[[Category:Acara televisi Trans 7]]
+</noinclude>

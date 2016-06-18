@@ -1,0 +1,155 @@
+McDonnell Douglas MD-82
+{{Infobox Aircraft
+ |logo = Berkas:McDonnell_Douglas_Logo.png
+ |name = MD-80 series
+ |image = File:Makassar Lionair.jpg
+ |caption = Lion Air MD-80
+ |type = [[Pesawat jet]] [[pesawat berbadan sempit|berbadan sempit]]
+ |manufacturers = [[McDonnell Douglas]]<br> [[Boeing]]
+ |designer =
+ |first flight = 18 Oktober 1979<ref>{{cite web|url=http://www.boeing.com/boeing/history/mdc/md-80md-90.page |title=Boeing: History: MD-80 and MD-90 Commercial Transports | publisher=Boeing | accessdate= 06-03-2014}}</ref>
+ |introduction = 1980 pada maskapai penerbangan [[Swissair]] and [[Austrian Airlines]]
+ |retired = 
+ |status = 
+ |primary user = [[American Airlines]]
+ |more users = [[Delta Air Lines]] <br />[[Allegiant Air]] <br />[[Alitalia]]
+ |produced = 1979-1999 
+ |number built = 1.191 unit
+ |unit cost = US$41.5-48.5 juta
+ |developed from = [[McDonnell Douglas DC-9]]
+ |variants with their own articles = [[McDonnell Douglas MD-90]] <br />[[Boeing 717]]
+}}
+[[File:Bouraq Indonesia Airlines McDonnell Douglas MD-82 (DC-9-82) TTT.jpg|thumb|300px|left|McDonnell Douglas MD-82 milik [[Bouraq Indonesia]]]]
+[[Berkas:MD-83 flight deck.jpg|thumb|left|300px]]
+[[Berkas:MD-82 interior.jpg|thumb|left|300px]]
+'''McDonnell Douglas MD-80''' adalah [[pesawat penumpang sipil]] (airliner) produksi [[McDonnell Douglas]] (MD) [[Amerika Serikat]] yang memiliki spesifikasi pesawat jet bermesin ganda dengan daya jelajah maksimal 3.800 km dan kecepatan 811 km/jam.
+Daya angkut penumpang maksimum 172 orang, minimal 130 orang, tergantung varian dan konfigurasi kursi.
+Mesin yang digunakan adalah Pratt & Whitney JT8D-200 buatan Pratt & Whitney AS. Tepatnya JT8D-217A atau JT8D-217C berdaya dorong 20.000 pon (tergantung varian). 
+
+Di [[Amerika Serikat]] (AS), pesawat ini banyak dioperasikan oleh [[American Airlines]] dan [[Delta Air Lines]]. MD-80 memiliki tingkat kebisingan yang lebih rendah dibandingkan pendahulunya, DC-9. 
+
+Sebenarnya pesawat ini adalah DC-9-82. Meskipun demikian, pesawat ini tidak pernah disebut dengan nama demikian karena Douglas (pada waktu itu) telah bergabung dengan McDonnell menjadi McDonnell-Douglas, sehingga nama yang digunakan adalah McDonnell-Douglas MD-82. Adapun DC-9 yang paling besar, yang masih menyandang nama DC-9 adalah DC-9-50. Setelah perusahaan [[Boeing]] mengambil alih manajemen [[McDonnell Douglas]], pesawat jenis ini tidak diproduksi lagi. Sekarang, namanya adalah Boeing MD-82. Produksi pesawat jenis ini (MD-80) berakhir tahun 1999.
+
+Karena ditenagai oleh mesin JT8D yang mulai menua untuk standar modern, MD-82 kalah efisien dalam penggunaan BBM jika dibandingkan [[Boeing 737|Boeing 737 Next Generation]] atau [[Airbus A320]]. Sebagai contoh, MD-80 membakar 1.050 galon BBM per jam pada penerbangan normal, sedangkan Boeing 737-800 hanya membakar 850 galon BBM per jam (19% penghematan). Sehingga, beberapa operator besar seperti [[American Airlines]], [[Delta Air Lines]], [[Scandinavian Airlines]] (SAS), dan [[Alitalia]] berangsur-angsur memensiunkan MD-80 dan beberapa variannya dan menggantinya dengan [[Boeing 737]]NG atau [[Airbus A320]]. Di Indonesia, [[Lion Air]] memutuskan memensiunkan bertahap MD-80 dan menggantikannya dengan [[Boeing 737|Boeing 737-900ER]] mulai tahun 2007 lalu.
+
+Varian pesawat jenis ini adalah MD-81 (varian produksi awal), MD-82, MD-83, MD-87, dan MD-88. Perbedaan varian-varian tersebut adalah pada tenaga mesin, panjang, serta avionik yang lebih modern (pada varian MD-88).
+Saingan pesawat jenis ini, yaitu [[Fokker F28]], [[Fokker 70]] dan [[Fokker 100]] dari [[Belanda]], [[Boeing 737]] dari [[Amerika Serikat]], dan [[Airbus A320]] dari [[Uni Eropa]].
+
+==Spesifikasi==
+[[File:MD82v1.0.png|thumb|Perbandingan antara [[McDonnell Douglas DC-9]], [[Boeing 717]] dan MD-80 yang berbeda]]
+{| style="text-align:center; font-size:96%; border-collapse:collapse; background:#eee;" border="1"
+|- style="background:skyBlue;"
+!  !! MD-81 !! MD-82 /<br /> MD-88 !! MD-83 !! MD-87
+|-
+! Awak kokpit
+| colspan=4| Dua
+|-
+! Kapasitas kursi, <br>khusus
+| colspan=3| 172 (kelas 1) <br> 155 (kelas 2)
+| 139 (kelas 1) <br> 130 (kelas 2)
+|-
+! Panjang
+| colspan=3 | {{convert|147|ft|8|in|m|2|abbr=on}}
+| {{convert|130|ft|4|in|m|2|abbr=on}}
+|-
+! Rentang sayap
+| colspan=4 | {{convert|107|ft|8|in|m|2|abbr=on}}
+|-
+! Luas sayap
+| colspan=4| {{convert|1209|sqft|m2|1|abbr=on}}
+|-
+! Tinggi ekor
+| colspan=3 | {{convert|29|ft|7|in|m|2|abbr=on}}
+| {{convert|30|ft|4|in|m|2|abbr=on}}
+|-
+! Lebar badan pesawat
+| colspan=4| {{convert|11|ft|m|2|abbr=on}}
+|-
+! Kapasitas kargo
+| colspan=2| {{convert|1253|cuft|m3|1|abbr=on}}
+| {{convert|1103|cuft|m3|1|abbr=on}}
+| {{convert|937|cuft|m3|1|abbr=on}}
+|-
+! Berat kosong
+| {{convert|77900|lb|kg|-2|abbr=on}}
+| {{convert|78000|lb|kg|-2|abbr=on}}
+| {{convert|79700|lb|kg|-2|abbr=on}}
+| {{convert|73300|lb|kg|-2|abbr=on}}
+|-
+! [[Berat maksimum lepas landas]] <br />(''Maximum take-off weight''=MTOW)
+| {{convert|140000|lb|kg|-2|abbr=on}}
+| {{convert|149500|lb|kg|-2|abbr=on}}
+| {{convert|160000|lb|kg|-2|abbr=on}}
+| {{convert|140000|lb|kg|-2|abbr=on}}
+|-
+! Kecepatan jelajah
+| colspan=6 | [[Mach]] 0.76 (504&nbsp;mph, 811&nbsp;km/h)
+|-
+! Jangkauan maksimum, <br>terisi penuh
+| {{convert|1570|nmi|abbr=on|lk=in}}
+| {{convert|2050|nmi|abbr=on}}
+| {{convert|2500|nmi|abbr=on}}
+| {{convert|2370|nmi|abbr=on}}
+|-
+! Jarak lepas landas pada MTOW <br>(permukaan laut, [[Atmosfer Standar Internasional|ISA]])
+| {{convert|7,200|ft|m|abbr=on}}
+| {{convert|7,300|ft|m|abbr=on}}
+| {{convert|8,000|ft|m|abbr=on}}
+| {{convert|7,500|ft|m|abbr=on}}
+|-
+! Kapasitas bahan bakar
+| {{convert|5850|USgal|L|abbr=on}}
+| {{convert|5850|USgal|L|abbr=on}}
+| {{convert|7000|USgal|L|abbr=on}}
+| {{convert|5840|USgal|L|abbr=on}}
+|-
+! Mesin (2)
+| colspan=4| [[Pratt & Whitney JT8D|Pratt & Whitney seri JT8D-200]]
+|-
+! Dorongan (2)
+| colspan=4| 18,50021,000 lbf (8293 kN)
+|}
+
+Sumber: Spesifikasi MD-80 resmi<ref name=MD-80_specs>{{cite web |url=http://www.boeing.com/commercial/md-80/product.html |title=Boeing: Technical Characteristics - MD-80 Series |publisher=Boeing |accessdate=06-03-2014}}</ref> dan laporan untuk bandara<ref name=Airport_report>{{cite web |url=http://www.boeing.com/commercial/airports/m80.htm MD-80 
+|title=MD-80 Airplane Characteristics for Airport Planning |publisher=Boeing |accessdate=06-03-2014}}</ref>
+
+== Lihat pula ==
+{{aircontent
+|related=
+* [[McDonnell Douglas DC-9]]
+* [[McDonnell Douglas MD-90]]
+* [[Boeing 717]]
+* [[ACAC ARJ21]]
+|similar aircraft=
+* [[Airbus A320 family]]
+* [[Boeing 737 Classic]]
+* [[Bombardier CSeries]]
+|lists=
+* [[Daftar pesawat penumpang sipil]]
+|see also=
+* [[Airstair]]
+}}
+
+== Catatan ==
+{{reflist}}
+
+== Referensi ==
+* Becher, Thomas. ''Douglas Twinjets, DC-9, MD-80, MD-90 and Boeing 717''. The Crowood Press, 2002. ISBN 1-86126-446-1.
+
+== Pranala luar ==
+{{commons|McDonnell Douglas MD-80/MD-82/MD-90}}
+* {{en}} [http://www.boeing.com/commercial/md-80-90/index.html Pesawat MD-80 pada situs Boeing.com]
+* {{en}} [http://www.boeing.com/history/mdc/md-80md-90.htm Sejarah pesawat MD-80 dan MD-90 pada situs Boeing.com]
+* {{en}} [http://www.airliners.net/info/stats.main?id=109 MD-81/82/83/88] and [http://www.airliners.net/info/stats.main?id=278 Pesawat MD-87 pada situs Airliners.net]
+* {{en}} [http://www.flightglobal.com/landingpage/boeing%20md-82.aspx Boeing MD-82 pada situs Flightglobal.com]
+
+
+{{Pesawat McDonnell Douglas}}
+
+{{pesawat-stub}}
+
+[[Kategori:Pesawat terbang sipil]]
+[[Kategori:Pesawat terbang McDonnell Douglas|MD-82]]
+[[Kategori:Pesawat terbang]]
+[[Kategori:Pesawat penumpang sipil]]
+[[Kategori:Pesawat jet bermesin ganda (Twinjet)|McDonnell Douglas MD-82]]

@@ -1,0 +1,14 @@
+Berkas:Syamsul Arief Rivai.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+http://www.kemendagri.go.id/media/images/2010/02/02/s/y/syamsul_-bangda.jpg
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Fairuse}}

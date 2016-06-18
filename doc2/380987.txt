@@ -1,0 +1,58 @@
+County Gonzales, Texas
+{{Infobox U.S. County|
+ county  = Gonzales County|
+ state = Texas |
+ seal = |
+ map = Map of Texas highlighting Gonzales County.svg|
+ map size = 250|
+ founded = 1836|
+ seat = [[Gonzales, Texas|Gonzales]] | 
+ area_total_sq_mi =1070 |
+ area_land_sq_mi =1068 |
+ area_water_sq_mi =2 |
+ area percentage = 0.19% |
+ census yr = 2000|
+ pop = 18628|
+ density_km2 =7|
+ ex image = Gonzales courthouse 2005.jpg|
+ ex image size = 250|
+ ex image cap = The Gonzales County Courthouse. The [[Second Empire (architecture)|Second Empire]] style building was added to [[National Register of Historic Places]] in 1972.|
+ web = www.co.gonzales.tx.us|
+|}}
+
+'''Gonzales County''' adalah county yang terletak di negara bagian [[Texas]], [[Amerika Serikat]]. Jumlah penduduk pada tahun 2000 sebesar 18.628 jiwa.
+
+== Jalan utama ==
+*[[Berkas:I-10.svg|20px]] [[Interstate 10 (Texas)|Interstate 10]]
+*[[Berkas:US 90.svg|20px]] [[U.S. Highway 90 (Texas)|U.S. Highway 90]]
+*[[Berkas:US 87.svg|20px]] [[U.S. Highway 87 (Texas)|U.S. Highway 87]]
+*[[Berkas:US 90.svg|20px]] [[U.S. Highway 90 Alternate (Texas)|U.S. Highway 90 Alternate]]
+*[[Berkas:US 183.svg|23px]] [[U.S. Highway 183 (Texas)|U.S. Highway 183]]
+*[[Berkas:Texas 80.svg|20px]] [[Texas State Highway 80|State Highway 80]]
+*[[Berkas:Texas 97.svg|20px]] [[State Highway 97 (Texas)|State Highway 97]]
+*[[Berkas:Texas 304.svg|20px]][[State Highway 304 (Texas)|State Highway 304]]
+
+== Pranala luar ==
+*[http://www.co.gonzales.tx.us/ Gonzales County governments website]
+*{{Handbook of Texas|id=hcg07|name=Gonzales County}}
+
+{{Geographic Location
+|Centre    = Gonzales County, Texas
+|North     = 
+|Northeast = [[Fayette County, Texas|Fayette County]]
+|East      = [[Lavaca County, Texas|Lavaca County]]
+|Southeast = [[DeWitt County, Texas|DeWitt County]]
+|South     = 
+|Southwest = [[Wilson County, Texas|Wilson County]] and [[Karnes County, Texas|Karnes County]]
+|West      = [[Guadalupe County, Texas|Guadalupe County]]
+|Northwest = [[Caldwell County, Texas|Caldwell County]]
+}}
+
+{{ Gonzales County, Texas}}
+{{Negara bagian Texas}}
+
+[[Kategori:{{County AS}} di Texas]]
+[[Kategori:Gonzales County, Texas| ]]
+
+
+{{AS-geo-stub}}

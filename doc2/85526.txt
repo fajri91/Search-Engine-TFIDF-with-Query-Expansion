@@ -1,0 +1,89 @@
+Vaucluse
+{{kembangkan}}
+{{Infobox department
+<!-- See Template:Infobox department for additional fields and descriptions -->
+| name                    = Vaucluse
+| native_name             = 
+| native_name_lang        = fr<!-- ISO 639-2 code e.g. "fr" for French. If more than one, use {{lang}} instead -->
+| type                    = [[Departments of France|Department]]
+| image_skyline           = Avignon - Prfecture.jpg
+| image_alt               = 
+| image_caption           = [[Prefectures in France|Prefecture]] building of the Vaucluse department, in Avignon
+| image_flag              = 
+| flag_alt                = 
+| image_shield            = Blason dpartement fr Vaucluse.svg
+| shield_alt              = 
+| nickname                = 
+| motto                   = 
+| image_map               = Vaucluse-Position.svg
+| map_alt                 = 
+| map_caption             = Location of Vaucluse in France
+| pushpin_map             = 
+| pushpin_label_position  = 
+| pushpin_map_alt         = 
+| pushpin_map_caption     = 
+| latd  = 44|latm  = 00|lats  = |latNS  = N
+| longd = 05|longm = 10|longs = |longEW = E
+| coor_pinpoint           = 
+| coordinates_type        = region:FR_type:adm2nd
+| coordinates_display     = inline,title
+| coordinates_footnotes   = 
+| coordinates_region      = FR
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = [[France]]
+| subdivision_type1       = [[Regions of France|Region]]
+| subdivision_name1       = [[Provence-Alpes-Cte d'Azur]]
+| established_title       = 
+| established_date        = 
+| founder                 = 
+| seat_type               = [[Prefectures in France|Prefecture]]
+| seat                    = [[Avignon]]
+| parts_type              = [[Subprefectures in France|Subprefectures]]
+| parts_style             = para
+| p1                      = [[Apt, Vaucluse|Apt]]<br>[[Carpentras]]
+| government_footnotes    = 
+| leader_party            = 
+| leader_title            = [[President of the general council|President of the General Council]]
+| leader_name             = [[Claude Haut]]
+| unit_pref               = Metric<!-- or US or UK -->
+| area_magnitude          = 
+| area_footnotes          = {{ref|area|1}}
+| area_total_km2          = 3567
+| area_note               = 
+| elevation_footnotes     = 
+| elevation_m             = 
+| elevation_min_m         = 
+| elevation_max_m         = 
+| population_footnotes    = 
+| population_total        = 555240
+| population_as_of        = 2010
+| population_rank         = [[List of French departments by population|48th]]
+| population_density_km2  = auto
+| population_demonym      = 
+| population_note         = 
+| blank_name_sec1         = [[Departments of France|Department number]]
+| blank_info_sec1         = 84
+| blank_name_sec2         = [[Arrondissements of France|Arrondissements]]
+| blank_info_sec2         = [[arrondissements of the Vaucluse department|3]]
+| blank1_name_sec2        = [[Cantons in France|Cantons]]
+| blank1_info_sec2        = [[cantons of the Vaucluse department|24]]
+| blank2_name_sec2        = [[Communes in France|Communes]]
+| blank2_info_sec2        = [[communes of the Vaucluse department|151]]
+| timezone1               = [[Central European Time|CET]]
+| utc_offset1             = +1
+| timezone1_DST           = [[Central European Summer Time|CEST]]
+| utc_offset1_DST         = +2
+| postal_code_type        = 
+| postal_code             = 
+| area_code_type          = 
+| area_code               = 
+| iso_code                = 
+| website                 = 
+| footnotes               = {{note|area|1}} French Land Register data, which exclude [[estuary|estuaries]], and lakes, ponds, and glaciers larger than 1 km<sup>2</sup>
+}}
+'''Vaucluse''' ialah sebuah departemen Perancis yang terletak di kawasan [[Provence-Alpes-Cote d'Azur]].
+
+{{dpartement}}
+
+
+{{Negara-geo-stub|Perancis}}

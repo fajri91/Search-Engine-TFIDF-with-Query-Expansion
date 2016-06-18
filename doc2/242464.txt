@@ -1,0 +1,11 @@
+Templat:Pengguna Lions
+{{userbox
+|logo            = [[Gambar:Lions_Club_logo.PNG|50px]]
+|info            = <span style="color: blue;">Pengguna ini adalah seorang anggota dari </span><span style="font-size:8pt; color:blue; font-family:Times New Roman New, Times New Roman;">'''[[Lions Club]]'''</span>
+|border-color    = black
+|logo-background = white
+|info-background = white
+}}{{#if:{{{kat|}}}||<includeonly>
+</includeonly>}}<noinclude>__NOTOC__ __NOEDITSECTION__
+[[Kategori:Templat kotak pengguna Wikipedia|Lions Club]]
+</noinclude>

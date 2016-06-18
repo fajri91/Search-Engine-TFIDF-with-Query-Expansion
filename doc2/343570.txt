@@ -1,0 +1,46 @@
+A Mathematician's Apology
+[[Berkas:Dn13709-1 250.jpg|right|thumb|Sampul buku]]
+'''''A Mathematician's Apology''''' adalah esai yang ditulis pada tahun [[1940]] oleh matematikawan Britania [[G. H. Hardy]]. Esai ini membahas estetika matematika dan isi pribadi, dan memberikan wawasan kepada orang awam tentang pikiran seorang matematikawan aktif.
+
+== Ringkasan isi ==
+
+Pada judul buku ini, Hardy menggunakan kata "apology" (apologia atau pembelaan) dalam arti pembenaran formal atau pembelaan (seperti dalam karya Plato ''Apologia Sokrates''), bukan dalam arti meminta maaf.
+
+Hardy merasa perlu untuk memberi pembenaran untuk kerja seumur hidupnya dalam matematika terutama untuk dua alasan.
+
+'''Pertama, pada umur 62 tahun''', Hardy merasakan mendekatnya ajal (dia telah berhasil pulih dari serangan jantung pada tahun 1939) dan menurunnya kreativitas dan kecekatan matematikanya. Dengan memberikan waktu untuk menulis pembelaan ini, Hardy mengakui bahwa masanya sebagai matematikawan kreatif telah berakhir. Dalam pengantarnya pada edisi tahun 1967, [[C. P. Snow]] memerikan ''Apology'' sebagai "ratapan mengharukan bagi daya kreatif yang pernah ada dan tidak akan muncul lagi."
+
+Dalam kata-kata Hardy, "Eksposisi, kritik, apresiasi adalah kerja untuk otak kelas dua. [...] Adalah pengalaman melankolis untuk seorang matematikawan profesional yang menemukan dirinya menulis tentang matematika. Fungsi seorang matematikawan adalah untuk melakukan sesuatu, untuk membuktikan teorema baru, untuk memperkaya matematika, dan bukan untuk berbicara tentang apa yang dia atau matematikawan lain mesti lakukan."
+
+'''Kedua, pada awal [[Perang Dunia II]]''', Hardy, yang merupakan seorang [[pasifis]], ingin menjustifikasi kepercayaannya bahwa matematika haruslah ditekuni untuk matematika itu sendiri, bukan untuk penerapannya. Dia ingin menulis buku yang akan menerangkan filosofi matematikanya kepada generasi matematikawan berikutnya; yang akan membela matematika dengan dasar kepentingan dari dalam; dan yang akan mengilhami generasi matematikawan murni yang akan datang.
+
+Karena Hardy ateis, dia mengajukan pembenarannya bukan kepada [[Tuhan]] tetapi kepada sesama manusia. Salah satu tema buku ini adalah keindahan yang dimiliki matematika, yang dibandingkan Hardy dengan lukisan dan [[puisi]]. Bagi Hardy, matematika yang paling indah adalah matematika yang tidak memiliki penerapan di luar dunia [[matematika murni]], dan khususnya, bidang yang ditekuni Hardy sendiri, yaitu [[teori bilangan]]. Dia membenarkan pencarian matematika murni dengan argumen bahwa ketidakbergunaannya itulah yang menyebabkan matematika murni tidak dapat disalahgunakan buat menimbulkan kerusakan.
+
+Di sisi lain, Hardy melecehkan [[matematika terapan]], dengan memerikannya sebagai "buruk", "remeh" dan "menjemukan". Pencirian terhadap matematika terapan ini bukanlah karena disiplin itu merupakan ilmu terapan, namun karena kerap kali matematika yang paling "buruk", "remeh", dan "menjemukan" yang biasanya mendapat penerapan.
+
+Hardy menguraikan pendapatnya ini dengan mengomentari frasa yang diatribusikan kepada [[Carl Friedrich Gauss]] bahwa "Matematika adalah ratu ilmu pengetahuan, dan teori bilangan adalah ratu matematika." Sebagian orang percaya bahwa Gauss mengeluarkan ungkapan ini karena teori bilangan sangat tidak dapat diterapkan (ketika itu). Meskipun begitu, Hardy menunjukkan bahwa ini bukanlah alasannya. Apa yang dimaksud oleh Gauss, menurut Hardy, adalah konsep dasar yang membangun teori bilangan lebih mendalam dan lebih elegan dibandingkan cabang matematika lainnya.
+
+Tema lain yang dibahas adalah matematika adalah "permainan anak muda", sehingga siapa pun yang memiliki bakat matematika seharusnya mengembangkan dan menggunakan bakat itu selagi mereka muda, sebelum kemampuan untuk menciptakan matematika orisinil berkurang di usia pertengahan. Pandangan ini mencerminkan depresi yang semakin meningkat, yang dialami Hardy karena kemerosotan daya matematikanya sendiri. Untuk Hardy, matematika yang sebenarnya adalah kegiatan penciptaan, bukan penjelasan atau pendedahan.
+
+== Kritik ==
+Pendapat Hardy sangat dipengaruhi oleh budaya akademis universitas [[Cambridge]] dan [[Oxford]] pada masa di antara [[Perang Dunia I]] dan [[Perang Dunia II|II]].
+
+Sebagian contoh yang dikemukakan Hardy kemudian tampak tidak terlalu sesuai. Misalnya, dia menulis "Belum ada orang yang menemukan kegunaan teori bilangan ataupun [[Teori Relativitas|relativitas]], dan tampaknya tidak akan ada yang akan melakukannya dalam waktu lama." Sejak itu, penerapan relativitas adalah bagian dari pengembangan [[senjata nuklir]], sedangkan teori bilangan merupakan bagian penting dalam kriptografi kunci publik.<ref>[http://oldweb.cecm.sfu.ca/personal/jborwein/apaper.ps Komentar matematikawan eksperimental Jonathan Borwein's tentang buku A Mathematician's Appogy]</ref> Namun contoh-contoh lebih menonjol dari penemuan matematika elegan tanpa kegunaan (bukti ketidakhinggaan [[bilangan prima]] dan ketidakrasionalan akar dua) masih berlaku.
+
+Kemampuan suatu konsep matematika untuk diterapkan bukanlah alasan Hardy menganggap matematika terapan lebih rendah daripada matematika murni. Kesederhanaan dan sifat menjemukannya yang mengakibatkannya memerikan matematika terapan seperti itu.
+
+Sebagai contoh, dia menganggap [[teorema Rolle]], meskipun penting untuk [[kalkulus]], tidak dapat dibandingkan dengan keeleganan dan keunggulan matematika yang dihasilkan oleh [[Leonhard Euler]] atau [[variste Galois]] dan matematikawan murni lainnya.
+
+== Catatan ==
+{{reflist}}
+== Referensi ==
+* {{cite book|author = G. H. Hardy|title = A Mathematician's Apology|publisher = University Press|location = Cambridge|year = 1940|isbn = 978-0521427067 (2004 reissue)|url = http://www.cambridge.org/catalogue/catalogue.asp?isbn=9780521427067|pages = 153 }}
+
+== Pranala luar ==
+{{wikiquote|G. H. Hardy#A Mathematician's Apology (1941)|A Mathematician's Apology }}
+* Teks utuh ''[http://www.math.ualberta.ca/~mss/misc/A%20Mathematician's%20Apology.pdf A Mathematician's Apology]'', dalam  [[domain publik]] di [[Kanada]], atas jasa baik University of Alberta Mathematical Science Society.
+
+{{DEFAULTSORT:Mathematicians Apology, A}}
+[[Kategori:Halaman yang mengalami kesalahan ISBN]]
+[[Kategori:Matematika]]
+[[Kategori:Biografi]]

@@ -1,0 +1,145 @@
+Final Piala Champions Eropa 1963
+{{Infobox football match
+|              title = Final Piala Champions Eropa 1963
+| image              =  
+|              event = {{nowrap|[[Piala Champions Eropa 196263]]}}
+|                   team1 = [[A.C. Milan|Milan]]
+|        team1association = {{flagicon|ITA|size=30px}}
+|              team1score = 2
+|                   team2 = [[S.L. Benfica|Benfica]]
+|        team2association = {{flagicon|POR|size=30px}}
+|              team2score = 1
+|                 details = 
+|                    date = 22 Mei 1963
+|                 stadium = [[Wembley Stadium (1923)|Wembley Stadium]]
+|                    city = [[London]]
+| man_of_the_match1a = 
+|                 referee = [[Arthur Holland (referee)|Arthur Holland]] ({{asb|Inggris}})
+|              attendance = 45.700
+|            weather = 
+|previous            = [[Final Piala Champions Eropa 1962|1962]]
+|next                = [[Final Piala Champions Eropa 1964|1964]]
+}}
+'''Final Piala Champions Eropa 1963''' adalah final pertandingan [[sepak bola]] [[Piala Champions Eropa 196263]], yang diselenggarakan pada tanggal 22 Mei 19631, antara [[A.C. Milan|Milan]] melawan [[S.L. Benfica|Benfica]] di final ke-8 sepanjang sejarah. Pertandingan dimainkan di [[Wembley Stadium (1923)|Wembley Stadium]], [[London]], dan dimenangkan oleh Milandengan skor 21. 
+{{TOCleft}}
+{{clear}}
+
+==Pertandingan==
+
+{{footballbox
+|date = 22 Mei 1963
+|team1 = [[A.C. Milan|Milan]] {{flagicon|ITA}}
+|score = 21
+|report = [http://www.europeancuphistory.com/euro63.html (Laporan)]
+|team2 = {{flagicon|POR}} [[S.L. Benfica|Benfica]]
+|goals1 = [[Jos Joo Altafini|Altafini]] {{goal|58||66}}
+|goals2 = [[Eusbio da Silva Ferreira|Eusbio]] {{goal|18}}
+|stadium = [[Wembley Stadium (1923)|Wembley Stadium]], [[London]]
+|attendance = 45.700
+|referee = [[Arthur Holland (referee)|Arthur Holland]] ({{asb|Inggris}}) }}
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = 
+ | pattern_b  =
+ | pattern_ra = 
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Milan
+}}
+|{{Football kit
+ | pattern_la =  _whiteborder
+ | pattern_b  =  _collarwhite
+ | pattern_ra =  _whiteborder
+ | leftarm    = DD0000
+ | body       = DD0000
+ | rightarm   = DD0000
+ | shorts     = FFFFFF
+ | socks      = DD0000
+ | title      = Benfica
+}}
+|}
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ITA}} [[Giorgio Ghezzi]]
+|-
+|DF ||'''2''' ||{{flagicon|ITA}} [[Mario David]]
+|-
+|DF ||'''3''' ||{{flagicon|ITA}} [[Mario Trebbi]]
+|-
+|DF ||'''4''' ||{{flagicon|PER}} [[Vctor Bentez]]
+|-
+|DF ||'''5''' ||{{flagicon|ITA}} [[Cesare Maldini]] {{kapten}}
+|-
+|DF ||'''6''' ||{{flagicon|ITA}} [[Giovanni Trapattoni]]
+|-
+|MF ||'''8''' ||{{flagicon|BRA}} [[Dino Sani]]
+|-
+|MF ||'''10'''||{{flagicon|ITA}} [[Gianni Rivera]]
+|-
+|FW ||'''7''' ||{{flagicon|ITA}} [[Gino Pivatelli]] 
+|-
+|FW ||'''9''' ||{{flagicon|ITA}} {{flagicon|BRA}} [[Jos Altafini]]
+|-
+|FW ||'''11'''||{{flagicon|ITA}} [[Bruno Mora]]
+|-
+|colspan=3|'''Manajer:'''
+|-
+|colspan=4|{{flagicon|ITA}} [[Nereo Rocco]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|POR}} [[Costa Pereira]]
+|-
+|DF ||'''2''' ||{{flagicon|POR}} [[Domiciano Cavm]]
+|-
+|DF ||'''3''' ||{{flagicon|POR}} [[Ral Machado]]
+|-
+|DF ||'''4''' ||{{flagicon|POR}} [[Fernando Cruz]]
+|-
+|DF ||'''5''' ||{{flagicon|POR}} [[Humberto Fernandes]]
+|-
+|MF ||'''6''' ||{{flagicon|POR}} [[Mrio Coluna]] {{kapten}}
+|-
+|MF ||'''8''' ||{{flagicon|POR}} [[Joaquim Santana]]
+|-
+|MF ||'''10'''||{{flagicon|POR}} [[Eusbio da Silva Ferreira|Eusbio]]
+|-
+|FW ||'''7''' ||{{flagicon|POR}} [[Jos Augusto]] 
+|-
+|FW ||'''9''' ||{{flagicon|POR}} [[Jos Augusto Torres|Jos Torres]]
+|-
+|FW ||'''11'''||{{flagicon|POR}} [[Antnio Simes]] 
+|-
+|colspan=3|'''Manajer:'''
+|-
+|colspan=4|{{flagicon|CHI}} [[Fernando Riera]]
+|}
+|}
+
+==Pranala luar==
+*[http://www.uefa.com/competitions/UCL/history/Season=1962/intro.html 1962-63 season] UEFA.com
+*[http://www.europeancuphistory.com/euro63 1963] European Cup History
+
+{{Musim Liga Champions UEFA}}
+
+[[Kategori:Sepak bola dalam tahun 1963]]
+[[Kategori:Piala Champions Eropa 196263]]
+[[Kategori:Final Liga Champions UEFA]]
+[[Kategori:Sepak bola di Inggris]]
+[[Kategori:Inggris dalam tahun 1963]]
+[[Kategori:A.C. Milan]]
+[[Kategori:SL Benfica]]

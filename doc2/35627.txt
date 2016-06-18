@@ -1,0 +1,42 @@
+Hubei
+{{noref}}
+{{Infobox PRC province |
+  Header         = ''' {{br}} Hubei Shng'''
+| Name           = Hubei
+| Abbreviation   = 
+| AbbrevPinyin   = 
+| ISOAbbrev      = 42
+| Map            = China-Hubei.png
+| OriginOfName   =  hu - danau {{br}}  bei - utara {{br}}"utara [[Danau Dongting]]"
+| AdministrationType = [[Provinsi]]
+| Capital        = [[Wuhan]]
+| LargestCity    = [[Wuhan]]
+| Secretary      = [[Li Hongzhong]]
+| Governor       = [[Wang Guosheng]]
+| Area           = 185,900
+| AreaRank       = ke-14
+| PopYear        = 2004
+| Pop            = 60,160,000
+| PopRank        = ke-9
+| PopDensity     = 324
+| PopDensityRank = ke-12
+| GDPYear        = 2004
+| GDP            = 631.0 miliar
+| GDPRank        = ke-10
+| GDPperCapita   = 10,500
+| GDPperCapitaRank = ke-15
+| Nationalities  = [[Han]] - 95.6%{{br}}[[Tujia]] - 3.7%{{br}}[[Miao]] - 0.4% 
+| Prefectures    = 13
+| Counties       = 102
+| Townships      = 1235
+| Website        = [http://www.hubei.gov.cn http://www.hubei.gov.cn] {{br}} ([[Hanzi sederhana]])
+}}
+
+'''Hubei''' adalah sebuah [[provinsi]] di [[Republik Rakyat Cina|RRC]], terletak di sebelah utara Danau [[Dongting]] menyebabkan provinsi ini mendapat namanya.
+
+
+{{cina-stub}}
+
+{{Provinsi RRC}}
+
+[[Kategori:Hubei| {{PAGENAME}}]]

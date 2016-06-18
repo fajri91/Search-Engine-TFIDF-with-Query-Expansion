@@ -1,0 +1,6 @@
+Templat:Tempatwisatakota
+<includeonly>
+[[Kategori:{{{1|{{{kota}}}}}}]]
+[[Kategori:Tempat wisata menurut kota|{{{1|{{{kota}}}}}}]]
+[[Kategori:Tempat wisata di {{{2|{{{negara}}}}}}|{{{1|{{{kota}}}}}}]]
+[[Kategori:Pariwisata di {{{1|{{{kota}}}}}}]]</includeonly><noinclude>{{Tokohkat/keterangan}}[[Kategori:Templat kategori menurut kota]]</noinclude>

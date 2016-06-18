@@ -1,0 +1,12 @@
+Templat:Politik Eropa
+{{Topik Eropa
+|name   = Politik Eropa
+|state  = {{{state<includeonly>|autocollapse</includeonly>}}}
+|title  = [[Politik]] di [[Eropa]]
+|prefix = Politik 
+}}<noinclude>
+
+{{Templat menurut benua}}
+[[Kategori:Templat navigasi politik|{{PAGENAME}}]]
+[[Kategori:Templat Eropa|{{PAGENAME}}]]
+</noinclude>

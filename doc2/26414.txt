@@ -1,0 +1,12 @@
+Templat:User ta-1
+{{Babel-box
+| level         = 1
+| id            = [[Bahasa Tamil|ta]]
+| info          =   '''[[:Kategori:User ta|]] [[:Kategori:User ta-1|]]'''       .
+| userkategori  = User ta
+| userkategori2 = User ta-1
+}}<noinclude>
+{{Babel-bar|ta}}
+[[Kategori:Templat Babel|ta-1]]
+
+</noinclude>

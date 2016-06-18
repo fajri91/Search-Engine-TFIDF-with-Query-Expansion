@@ -1,0 +1,43 @@
+Bioremediasi
+'''Bioremediasi''' merupakan penggunaan [[mikroorganisme]] untuk mengurangi [[polutan]] di lingkungan. Saat bioremediasi terjadi, [[enzim]]-[[enzim]] yang diproduksi oleh [[mikroorganisme]] memodifikasi polutan beracun dengan mengubah struktur kimia polutan. Peristiwa ini disebut [[biotransformasi]]. Pada banyak kasus, biotransformasi berujung pada [[biodegradasi]], saat [[polutan]] beracun terdegradasi, strukturnya menjadi tidak kompleks, dan akhirnya menjadi [[metabolit]] yang tidak berbahaya dan tidak beracun.
+
+Sejak tahun 1900an, orang-orang sudah menggunakan [[mikroorganisme]] untuk mengolah air pada saluran air. Saat ini, bioremediasi telah berkembang pada perawatan limbah buangan yang berbahaya (senyawa-senyawa kimia yang sulit untuk didegradasi), yang biasanya dihubungkan dengan kegiatan industri. Yang termasuk dalam polutan-polutan ini antara lain logam-logam berat ([[merkuri]], [[stronsium]], [[kadmium]]), [[petroleum hidrokarbon]], dan senyawa-senyawa organik terhalogenasi seperti [[pestisida]], [[herbisida]], CFC, dan lain-lain. Banyak aplikasi-aplikasi baru menggunakan [[mikroorganisme]] untuk mengurangi polutan yang sedang diujicobakan. Bidang bioremediasi saat ini telah didukung oleh pengetahuan yang lebih baik mengenai bagaimana polutan dapat didegradasi oleh mikroorganisme, identifikasi jenis-jenis [[mikroba]] yang baru dan bermanfaat, dan kemampuan untuk meningkatkan bioremediasi melalui teknologi [[genetik]]. Teknologi [[genetika molekuler]] sangat penting untuk mengidentifikasi [[gen]]-[[gen]] yang mengkode [[enzim]] yang terkait pada bioremediasi. Karakterisasi dari gen-gen yang bersangkutan dapat meningkatkan pemahaman kita tentang bagaimana [[mikroba]]-mikroba memodifikasi [[polutan]] beracun menjadi tidak berbahaya.
+
+[[Strain]] atau jenis mikroba rekombinan yang diciptakan di laboratorium dapat lebih efisien dalam mengurangi polutan. Mikroorganisme rekombinan yang diciptakan dan pertama kali dipatenkan adalah [[bakteri]] "pemakan minyak". Bakteri ini dapat meng[[oksidasi]] senyawa [[hidrokarbon]] yang umumnya ditemukan pada minyak bumi. Bakteri tersebut tumbuh lebih cepat jika dibandingkan bakteri-bakteri jenis lain yang alami atau bukan yang diciptakan di laboratorium yang telah diujicobakan. Akan tetapi, penemuan tersebut belum berhasil dikomersialkan karena strain rekombinan ini hanya dapat mengurai komponen berbahaya dengan jumlah yang terbatas. Strain inipun belum mampu untuk mendegradasi komponen-komponen molekular yang lebih berat yang cenderung bertahan di lingkungan.
+
+== Jenis-jenis bioremediasi ==
+Jenis-jenis bioremediasi adalah sebagai berikut:
+
+* '''Biostimulasi'''
+: Nutrien dan oksigen, dalam bentuk cair atau gas, ditambahkan ke dalam air atau tanah yang tercemar untuk memperkuat pertumbuhan dan aktivitas [[bakteri]] remediasi yang telah ada di dalam air atau tanah tersebut.
+* '''Bioaugmentasi'''
+: Mikroorganisme yang dapat membantu membersihkan kontaminan tertentu ditambahkan ke dalam air atau tanah yang tercemar. Cara ini yang paling sering digunakan dalam menghilangkan kontaminasi di suatu tempat. Namun ada beberapa hambatan yang ditemui ketika cara ini digunakan. Sangat sulit untuk mengontrol kondisi situs yang tercemar agar [[mikroorganisme]] dapat berkembang dengan optimal. Para ilmuwan belum sepenuhnya mengerti seluruh mekanisme yang terkait dalam bioremediasi, dan mikroorganisme yang dilepaskan ke lingkungan yang asing kemungkinan sulit untuk beradaptasi.
+* '''Bioremediasi Intrinsik'''
+: Bioremediasi jenis ini terjadi secara alami di dalam air atau tanah yang tercemar.
+
+Pada masa yang akan datang, [[mikroorganisme]] rekombinan dapat menyediakan cara yang efektif untuk mengurangi senyawa-senyawa kimiawi yang berbahaya di lingkungan kita. Bagaimanapun, pendekatan itu membutuhkan penelitian yang hati-hati berkaitan dengan mikroorganisme rekombinan tersebut, apakah efektif dalam mengurangi polutan, dan apakah aman saat mikroorganisme itu dilepaskan ke lingkungan.
+
+==Faktor Lingkungan yang Berpengaruh==
+
+* pH. Pada tanah umumnya merupakan lingkungan asam, alkali sangat jarang namun ada yang melaporkan pada pH 11. Penyesuaian pH dr 4.5 menjadi 7.4 dengan penambahan kapur meningkatkan penguraian minyak menjadi dua kali. Penyesuaian pH dapat mengubah kelarutan, bioavailabilitas, bentuk senyawa kimia polutan, dan makro & mikro nutrien. Ketersediaan Ca, Mg, Na, K, NH4<sup>+</sup>, N dan P akan turun, sedangkan penurunan pH menurunkan ketersediaan NO3<sup>-</sup> dan Cl<sup>-</sup> . Cendawan yang lebih dikenal tahan terhadap asam akan lebih berperan dibandingkan bakteri asam.
+* Kadar H<sub>2</sub>O dan karakter geologi. Kadar air dan bentuk poros tanah berpengaruh pada bioremediasi. Nilai aktivitas air dibutuhkan utk pertumbuhan mikroba berkisar 0.9-1.0, umumnya kadar air 50-60%. Bioremediasi lebih berhasil pada tanah yang poros.
+* Keberadaan zat nutrisi. Baik pada [[in situ]] & [[ex situ]]. Bila tanah yang dipergunakan bekas pertanian mungkin tak perlu ditambah zat nutrisi. Untuk hidrokarbon ditambah nitrogen & fosfor, dapat pula dgn makro & mikro nutrisi yang lain.
+
+== Lihat pula ==
+* [[Biologi]]
+* [[Bioteknologi]]
+* [[Polusi]]
+* [[Mikroorganisme]]
+* [[Mikrobiologi]]
+
+== Referensi ==
+Brooker et al. (2008). ''Biology''. McGraw-Hill. ISBN 978-0-07-110200-1.
+
+== Pranala luar ==
+* [http://www.biobasics.gc.ca/english/View.asp?x=741 Bioremediation]
+* [http://greenbrooklyn.com/insane-in-the-membrane/2007/01/22/ Green Brooklyn]
+
+[[Kategori:Biologi|Biologi]]
+[[Kategori:Bioteknologi|Bioteknologi]]
+[[Kategori:Lingkungan]]
+[[Kategori:Pencemaran tanah]]

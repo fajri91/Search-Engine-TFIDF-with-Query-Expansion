@@ -1,0 +1,38 @@
+Great Wheel
+{{Infobox building
+|name               = Great Wheel
+|image              = Great Wheel.jpg
+|image_size         = 200px
+|location           = [[Earls Court]], London
+|latd               = 51.48835
+|longd              = -0.19889
+|iso_region         = GB
+|coordinates_display= title
+|status             = 
+|start_date         = 1894
+|opening            = 17 Juli 1895
+|demolition_date    = 1907
+|building_type      =
+|height             = {{Convert|94|m|ft|0|abbr=on}}
+|structural_engineer = Adam Gaddelin dan Gareth Watson
+|architect          = 
+|main_contractor    = [[Maudslay, Son and Field]]
+|developer          = 
+|owner              = 
+}}
+
+'''Great Wheel''' adalah [[kincir ria]] yang dibangun untuk Pameran Kemaharajaan India di [[Earls Court]], [[London]], [[Inggris]]. Konstruksi dimulai pada bulan Maret 1894 oleh [[Maudslay, Son and Field]] di [[Greenwich]],<ref>{{Citation |url=http://books.google.co.uk/books?id=HMJfV7Fhak8C&pg=PA237 |title=The story of Greenwich |author=Clive Aslet}}</ref><ref>[http://web.archive.org/web/20070814172740/http://www.photolondon.org.uk/whole_gallery/gnmr_wheel.htm The Great Wheel, Earl's Court Exhibition Ground]</ref> dan dibuka untuk umum pada 17 Juli 1895.<ref>[http://query.nytimes.com/gst/abstract.html?res=9C0DE6D9103DE433A25752C2A9619C94649ED7CF The Ferris Wheel's London Rival]</ref> Model kincir ria ini meniru model [[Ferris Wheel]] yang asli di Chicago, tingginya {{Convert|94|m|ft|0}}<ref>[http://www.standard.co.uk/news/london/spot-the-difference-london-landmarks-then-and-now-8375409.html Spot the difference: London landmarks, then and now]</ref> dan diameternya {{Convert|82,3|m|ft|0}}.<ref name=ferrisbook97>{{Cite book|page=97|title=Ferris Wheels:An illustrated history|author=Anderson Norman|isbn=087972532X}}</ref><ref>{{Cite book|page=109|title=Circles in the Sky: The Life and Times of George Ferris|author=Richard Weingardt|isbn=0784410100}}</ref><ref>{{Cite book|page=74|title=A Short History of Carson City|author=Richard Moreno|isbn=0874178363}}</ref> Kincir ria yang memiliki 40 kabin ini (setiap kabin berkapasitas 40 orang) beroperasi hingga tahun 1906. Hingga berhenti beroperasi, total penumpang yang sudah diangkutnya mencapai lebih dari 2,5&nbsp;juta orang. Kincir ria ini dihancurkan pada tahun 1907<ref>[http://www.skyscrapernews.com/buildings.php?id=4731 The Great Wheel, London]</ref> setelah digunakan terakhir kalinya untuk [[Imperial Austrian Exhibition]] 1906.<ref name=ferrisbook100>{{Cite book|page=100|title=Ferris Wheels:An illustrated history|author=Anderson Norman|isbn=087972532X}}</ref>
+
+==Referensi==
+{{Reflist}}
+
+{{S-start}}
+{{Succession box
+| title=[[Kincir ria]] tertinggi di dunia
+| before=[[Ferris Wheel]]
+| after=[[Grande Roue de Paris|Grande&nbsp;Roue&nbsp;de&nbsp;Paris]]
+| years=1895-1900
+}}
+{{S-end}}
+
+[[Kategori:Kincir ria]]

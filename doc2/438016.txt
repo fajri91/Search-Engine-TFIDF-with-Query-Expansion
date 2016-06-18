@@ -1,0 +1,15 @@
+Templat:Pramuka/Jambore
+{{Navbox
+|name = Pramuka/Jambore
+|title = [[Berkas:Pramuka, Tunas Kelapa gold.svg|10px]]&nbsp;&nbsp;[[Daftar Jambore Pramuka|{{color|gold|Jambore Pramuka}}]]
+|titlestyle = background:#402000; color:gold;
+|liststyle = padding:0.25em 0; line-height:1.4em;
+|listclass=hlist
+|list1=
+[[Jambore Nasional ke-1|1973]]{{}} [[Jambore Nasional ke-2|1977]]{{}} [[Jambore Nasional ke-3|1981]]{{}} [[Jambore Nasional ke-4|1986]]{{}} [[Jambore Nasional ke-5|1991]]{{}} [[Jambore Nasional ke-6|1996]]{{}} [[Jambore Nasional ke-7|2001]]{{}} [[Jambore Nasional ke-8|2006]]{{}} [[Jambore Nasional ke-9|2011]]
+
+|belowstyle = background:#402000; color:gold;
+|below = [[Portal:Pramuka|{{color|gold|'''Portal Pramuka'''}}]]
+}}<noinclude>
+[[Kategori:Templat navigasi pramuka]]
+</noinclude>

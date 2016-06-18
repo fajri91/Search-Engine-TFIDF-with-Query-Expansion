@@ -1,0 +1,12 @@
+Templat:Maguindanao
+{{Navbox
+|name  = Maguindanao
+| listclass = hlist
+| title = [[File:Vlag Fil Maguindanao.gif|23px]] Provinsi [[Maguindanao]]
+|group1 = [[Munisipalitas]]
+|list1 = [[Ampatuan, Maguindanao|Ampatuan]]&nbsp; [[Barira, Maguindanao|Barira]]&nbsp; [[Buldon, Maguindanao|Buldon]]&nbsp; [[Buluan, Maguindanao|Buluan]]&nbsp; [[Datu Abdullah Sangki, Maguindanao|Datu&nbsp;Abdullah&nbsp;Sangki]]&nbsp; [[Datu Anggal Midtimbang, Maguindanao|Datu&nbsp;Anggal&nbsp;Midtimbang]]&nbsp; [[Datu Blah T. Sinsuat, Maguindanao|Datu&nbsp;Blah&nbsp;T.&nbsp;Sinsuat]]&nbsp; [[Datu Hoffer Ampatuan, Maguindanao|Datu Hoffer Ampatuan]]&nbsp; [[Datu Montawal, Maguindanao|Datu&nbsp;Montawal]]&nbsp; [[Datu Odin Sinsuat, Maguindanao|Datu&nbsp;Odin&nbsp;Sinsuat]]&nbsp; [[Datu Paglas, Maguindanao|Datu&nbsp;Paglas]]&nbsp; [[Datu Piang, Maguindanao|Datu&nbsp;Piang]]&nbsp; [[Datu Salibo, Maguindanao|Datu Salibo]]&nbsp; [[Datu Saudi-Ampatuan, Maguindanao|Datu&nbsp;Saudi-Ampatuan]]&nbsp; [[Datu Unsay, Maguindanao|Datu&nbsp;Unsay]]&nbsp; [[General Salipada K. Pendatun, Maguindanao|General&nbsp;Salipada&nbsp;K.&nbsp;Pendatun]]&nbsp; [[Guindulungan, Maguindanao|Guindulungan]]&nbsp; [[Kabuntalan, Maguindanao|Kabuntalan]]&nbsp; [[Kabuntalan Utara, Maguindanao|Kabuntalan&nbsp;Utara]]&nbsp; [[Mamasapano, Maguindanao|Mamasapano]]&nbsp; [[Mangudadatu, Maguindanao|Mangudadatu]]&nbsp; [[Matanog, Maguindanao|Matanog]]&nbsp; [[Pagalungan, Maguindanao|Pagalungan]]&nbsp; [[Paglat, Maguindanao|Paglat]]&nbsp; [[Pandag, Maguindanao|Pandag]]&nbsp; [[Parang, Maguindanao|Parang]]&nbsp; [[Rajah Buayan, Maguindanao|Rajah&nbsp;Buayan]]&nbsp; [[Shariff Aguak, Maguindanao|Shariff&nbsp;Aguak]]&nbsp; [[Shariff Saydona Mustapha, Maguindanao|Shariff Saydona Mustapha]]&nbsp; [[Sultan Kudarat, Maguindanao|Sultan&nbsp;Kudarat]]&nbsp; [[Sultan Mastura, Maguindanao|Sultan&nbsp;Mastura]]&nbsp; [[Sultan sa Barongis, Maguindanao|Sultan&nbsp;sa&nbsp;Barongis]]&nbsp; [[Sultan Sumagka, Maguindanao|Sultan Sumagka]]&nbsp; [[Talayan, Maguindanao|Talayan]]&nbsp; [[Upi, Maguindanao|Upi]]&nbsp; [[Upi Selatan, Maguindanao|Upi&nbsp;Selatan]]
+|group2 = [[Kota di Filipina|Kota independen]]
+|list2 = [[Cotabato|Cotabato]] <small>(Secara administratif terpisah dari provinsi, namun oleh [http://www.census.gov.ph National Statistics Office] dimasukkan ke Maguindanao)</small>
+}}<noinclude>
+[[Kategori:Templat pembagian administratif Filipina|Maguindanao]]
+</noinclude>

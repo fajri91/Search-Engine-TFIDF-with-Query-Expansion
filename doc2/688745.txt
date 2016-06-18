@@ -1,0 +1,28 @@
+Templat:Tano Tombangan Angkola, Tapanuli Selatan
+{{Navigasi ID Desa
+|provinsi=Sumatera Utara
+|dati2=Kabupaten
+|nama dati2=Tapanuli Selatan
+|nama kecamatan=Tano Tombangan Angkola
+|d1=Aek Kahombu
+|d2=Aek Parupuk
+|d3=Aek Uncim
+|k1=Batu Horpak
+|d4=Harean
+|d5=Hutaraja
+|d6=Ingul Jae
+|d7=Kota Tua
+|d8=Lumban Jabi-Jabi
+|d9=Lumban Ratus
+|d10=Panabari Huta Tonga
+|d11=Panindoan
+|d12=Purba Tua
+|d13=Simaninggir
+|d14=Sisoma
+|d15=Situmba
+|d16=Tanjung Medan
+}}
+<noinclude>
+[[Kategori:Templat desa/kelurahan di Sumatera Utara|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Tapanuli Selatan|{{PAGENAME}}]]
+</noinclude>

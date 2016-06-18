@@ -1,0 +1,25 @@
+Asteropus syringifer
+{{Taxobox |name = Asteropus syringifer
+|regnum = [[Hewan|Animalia]]
+|subregnum = [[Parazoa]]
+|phylum = [[Porifera]]
+|classis = [[Demospongiae]]
+|ordo = [[Astrophorida]]
+|familia = [[Ancorinidae]]
+|genus = [[Asteropus]]
+|species = Asteropus syringifer
+|binomial_authority =van Soest & Stentoft, 1988
+}}
+'''''Asteropus syringifer''''' adalah [[spesies]] [[spons]] yang tergolong dalam kelas [[Demospongiae]]. Spesies ini juga merupakan bagian dari genus Asteropus dan [[familia]] Ancorinidae. Nama ilmiah spesies ini pertama kali diterbitkan pada tahun 1988 oleh van Soest & Stentoft.
+
+Seperti spons pada umumnya, spesies ini memiliki tubuh yang berpori dan permukaan yang keras seperti [[batu]]. Selain itu, Asteropus syringifer juga dapat menyerap [[oksigen]] dari [[air]] melalui proses [[difusi]].
+
+== Referensi ==
+
+* ''WoRMS Porifera: World Porifera Database''. Soest R. van (ed), 22 Oktober 2008.
+
+{{DEFAULTSORT:Asteropus syringifer}}
+
+[[Kategori:Demospongiae]]
+
+{{porifera-stub}}

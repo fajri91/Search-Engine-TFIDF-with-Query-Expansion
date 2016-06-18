@@ -1,0 +1,44 @@
+Avatar: The Legend of Aang (musim ke-1)
+{{Infobox television season
+ |season_name  = Buku ke-1: Air
+ |bgcolour     = #5599DF
+ |fgcolour     = 
+ |image        = 
+ |caption      = 
+ |country      = [[Amerika Serikat]]
+ |num_episodes = 20
+ |network      = [[Nickelodeon]]
+ |first_aired  = {{Start date|2005|02|21}}<ref name="Sneak Peak">{{cite web|url=http://www.nick.com/all_nick/tv_supersites/video.jhtml?show_id=ava&clip=16|title=Avatar Sneak Peak|publisher=Nickelodeon|accessdate=May 29, 2008}}</ref>
+ |last_aired   = {{End date|2005|12|02}}<ref name="IGN Review FinalePart2" />
+ |region_1     = {{Start date|2006|09|12}}
+ |region_2     = {{Start date|2009|01|26}}
+ |region_3     = <!-- {{Start date|yyyy|mm|dd}} -->
+ |region_4     = {{Start date|2009|06|04}}
+ |region_5     = <!-- {{Start date|yyyy|mm|dd}} -->
+ |region_A     = <!-- {{Start date|yyyy|mm|dd}} -->
+ |region_B     = <!-- {{Start date|yyyy|mm|dd}} -->
+ |region_C     = <!-- {{Start date|yyyy|mm|dd}} -->
+ |prev_season  = <!-- or |prev_series = -->
+ |next_season  = ''[[Avatar: The Legend of Aang (musim ke-2)|Buku ke-2: Bumi]]''
+ |episode_list = [[Daftar episode Avatar: The Legend of Aang|Daftar episode ''Avatar: The Legend of Aang'']]
+}}
+
+Musim ke-1 ('''''Buku ke-1: Air''''') dari ''[[Avatar: The Legend of Aang]]'' adalah sebuah [[Daftar serial televisi animasi|serial televisi animasi]] Amerika dari [[Nickelodeon]], menayangkan 20 episode dari 21 Februari 2005<ref name="Sneak Peak" /> sampai 2 Desember 2005.<ref name="IGN Review FinalePart2">{{cite web|url=http://uk.tv.ign.com/articles/876/876640p1.html|title=The Siege of the North&nbsp; Part 2 Review|last=Mell|first=Tory Ireland|date=May 27, 2008|publisher=IGN Entertainment|accessdate=February 26, 2009| archiveurl= http://web.archive.org/web/20090223123052/http://uk.tv.ign.com/articles/876/876640p1.html| archivedate= 23 February 2009 <!--DASHBot-->| deadurl= no}}</ref> Serial ini dibuat oleh [[Michael Dante DiMartino]] dan [[Bryan Konietzko]],<ref name="VarietyReview1">{{cite web|url=http://www.variety.com/review/VE1117926289.html?categoryid=32&cs=1|title=Avatar: The Last Airbender Review|last=Fries|first=Laura|date=February 21, 2005|work=Variety TV|publisher=Reed-Elsevier Inc.|accessdate=May 30, 2008}}</ref> dan dibintangi [[Zach Tyler Eisen]], [[Mae Whitman]], [[Jack DeSena]], [[Dante Basco]], [[Dee Bradley Baker]], [[Mako (aktor)|Mako]] dan [[Jason Isaacs]] sebagai pengisi suara karakter utama.
+
+==Catatan kaki==
+:1.{{Note|reference_name_A}} Production code format taken from the commentary for "Sozin's Comet: The Phoenix King"
+
+==Referensi==
+;Utama
+* {{cite web|url= http://tv.ign.com/objects/860/860978.html|title= Season 1|accessdate=July 21, 2008|work= Avatar: The Last Airbender|publisher= IGN}}
+
+;Spesifik
+{{Reflist|2}}
+
+{{Avatar: The Last Airbender}}
+
+{{DEFAULTSORT:Avatar: The Legend of Aang (Musim ke-1)}}
+[[Kategori:Avatar: The Legend of Aang]]
+[[Kategori:Nicktoons]]
+[[Kategori:Acara YTV]]
+[[Kategori:Musim televisi 2005]]

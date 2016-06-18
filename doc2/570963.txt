@@ -1,0 +1,25 @@
+Gelliodes spongiosa
+{{Taxobox |name = Gelliodes spongiosa
+|regnum = [[Hewan|Animalia]]
+|subregnum = [[Parazoa]]
+|phylum = [[Porifera]]
+|classis = [[Demospongiae]]
+|ordo = [[Haplosclerida]]
+|familia = [[Niphatidae]]
+|genus = [[Gelliodes]]
+|species = Gelliodes spongiosa
+|binomial_authority =Topsent, 1916
+}}
+'''''Gelliodes spongiosa''''' adalah [[spesies]] [[spons]] yang tergolong dalam kelas [[Demospongiae]]. Spesies ini juga merupakan bagian dari genus Gelliodes dan [[familia]] Niphatidae. Nama ilmiah spesies ini pertama kali diterbitkan pada tahun 1916 oleh Topsent.
+
+Seperti spons pada umumnya, spesies ini memiliki tubuh yang berpori dan permukaan yang keras seperti [[batu]]. Selain itu, Gelliodes spongiosa juga dapat menyerap [[oksigen]] dari [[air]] melalui proses [[difusi]].
+
+== Referensi ==
+
+* ''WoRMS Porifera: World Porifera Database''. Soest R. van (ed), 22 Oktober 2008.
+
+{{DEFAULTSORT:Gelliodes spongiosa}}
+
+[[Kategori:Demospongiae]]
+
+{{porifera-stub}}

@@ -1,0 +1,120 @@
+Templat:Infobox Sport Event
+<table class="toccolours" style="float: right; margin: 0 0 1em 1em;" width="{{{width|250px}}}">
+  <tr style="background: #efefef; text-align: center;">
+    <td colspan="2">'''{{{Name}}}'''</td>
+  </tr>
+  {{#if:{{{Other name|}}}|
+  <tr align="center">
+    <td colspan="2">{{{Other name}}}</td>
+  </tr>
+  }}
+  {{#if:{{{Logo|}}}|
+  <tr align="center">
+    <td colspan="2">[[Image:{{{Logo}}}|{{{Logo size}}}px|center|Logo {{{Name}}}]]</td>
+  </tr>
+  }}
+  {{#if:{{{Optional caption|}}}|
+  <tr align="center">
+    <td colspan="2"><small>{{{Optional caption}}}</small></td>
+  </tr>
+  }}
+  {{#if:{{{Host city|}}}|
+  <tr style="vertical-align:top;">
+    <td>'''Tuan rumah'''</td>
+    <td>{{{Host city}}}</td>
+  </tr>
+  }}
+  {{#if:{{{Nations participating|}}}|
+  <tr style="vertical-align:top;">
+    <td>'''Jumlah negara peserta'''</td>
+    <td>{{{Nations participating}}}</td>
+  </tr>
+  }}
+  {{#if:{{{Athletes participating|}}}|
+  <tr style="vertical-align:top;">
+    <td>'''Jumlah atlet'''</td>
+    <td>{{{Athletes participating}}}</td>
+  </tr>
+  }}
+  {{#if:{{{Events|}}}|
+  <tr style="vertical-align:top;">
+    <td>'''Jumlah pertandingan'''</td>
+    <td>{{{Events}}}</td>
+  </tr>
+  }}
+  {{#if:{{{Opening ceremony|}}}|
+  <tr style="vertical-align:top;">
+    <td>'''Upacara pembukaan'''</td>
+    <td>{{{Opening ceremony}}}</td>
+  </tr>
+  }}
+  {{#if:{{{Closing ceremony|}}}|
+  <tr style="vertical-align:top;">
+    <td>'''Upacara penutupan'''</td>
+    <td>{{{Closing ceremony}}}</td>
+  </tr>
+  }}
+  {{#if:{{{Officially opened by|}}}|
+  <tr style="vertical-align:top;">
+    <td>'''Dibuka oleh'''</td>
+    <td>{{{Officially opened by}}}</td>
+  </tr>
+  }}
+  {{#if:{{{Officially closed by|}}}|
+  <tr style="vertical-align:top;">
+    <td>'''Ditutup oleh'''</td>
+    <td>{{{Officially closed by}}}</td>
+  </tr>
+  }}
+  {{#if:{{{Athlete's Oath|}}}|
+  <tr style="vertical-align:top;">
+    <td>'''Janji atlet'''</td>
+    <td>{{{Athlete's Oath}}}</td>
+  </tr>
+  }}
+  {{#if:{{{Judge's Oath|}}}|
+  <tr style="vertical-align:top;">
+    <td>'''Janji wasit'''</td>
+    <td>{{{Judge's Oath}}}</td>
+  </tr>
+  }}
+  {{#if:{{{Torch Lighter|}}}|
+  <tr style="vertical-align:top;">
+    <td>'''Pembawa obor'''</td>
+    <td>{{{Torch Lighter}}}</td>
+  </tr>
+  }}
+  {{#if:{{{Ceremony venue|}}}|
+  <tr style="vertical-align:top;">
+    <td>'''Tempat upacara'''</td>
+    <td>{{{Ceremony venue}}}</td>
+  </tr>
+  }}
+  {{#if:{{{Stadium|}}}|
+  <tr style="vertical-align:top;">
+    <td>'''Stadion'''</td>
+    <td>{{{Stadium}}}</td>
+  </tr>
+  }}
+</table><noinclude>
+Parameter Infobox Sport Event
+*Name (*)
+*Other name
+*Logo
+*Logo size
+*Optional caption
+*Host city
+*Nations participating
+*Athletes participating
+*Events
+*Opening ceremony
+*Closing ceremony
+*Officially opened by
+*Officially closed by
+*Athlete's Oath
+*Judge's Oath
+*Torch Lighter
+*Ceremony venue
+*Stadium
+[[Kategori:Templat kotak info olahraga|Ajang olahraga]]
+</noinclude>

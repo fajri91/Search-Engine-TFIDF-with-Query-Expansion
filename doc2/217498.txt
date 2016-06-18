@@ -1,0 +1,28 @@
+HD 55526
+'''HD 55526''' adalah salah satu bintang pada rasi [[Puppis]]. Bintang ini memiliki [[magnitudo]] 5.12 dan berada pada jarak 313 [[tahun cahaya]] dari [[Bumi]].
+
+== Grup ==
+
+Selain [[rasi]] [[Puppis]], bintang ini juga merupakan anggota dari kelompok berikut :
+
+{| class="wikitable"
+|-
+! nama rasi / asterisma / kelompok
+! asal 
+! arti
+! anggota lainnya
+|-
+| 61 Cygni Group<ref>{{cite journal
+ | last = Eggen | first = O. J.
+ | title=White dwarf members of the 61 Cygni group
+ | journal=The Observatory
+ | year=1959 | volume=79 | pages=13539
+ | url=http://adsabs.harvard.edu/abs/1959Obs....79..135E
+ | accessdate=2007-07-17 }}  Gives space velocity components of U=+94, V=-53 and W=-7 for HD 201091/2.</ref>||  || ||(antara lain) : [[31 Aquilae|31 Aql]], [[HD 131111]], [[HD 3443]], [[Beta Columbae| Col]], [[61 Cygni|61 Cyg]], [[Pi Mensae| Men]], [[HD 142]], [[14 Tauri|14 Tau]], [[HD 150275]], [[68 Virginis|68 Vir]], [[HD 53501]]
+|}
+
+== Referensi ==
+{{reflist}}
+{{astronomi-stub}}
+
+[[Kategori:Rasi bintang Puppis]]

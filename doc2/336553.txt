@@ -1,0 +1,70 @@
+Templat:Location map Republik Demokratik Kongo
+{{#switch:{{{1}}}
+|name   = Republik Demokratik Kongo
+|top    = 6
+|bottom = -14
+|left   = 11
+|right  = 32
+|image  = Democratic Republic of the Congo location map.svg
+}}<noinclude>{{Location map/Info}}
+[[Kategori:Templat peta navigasi menurut negara|Kongo, Republik Demokratik]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</noinclude>

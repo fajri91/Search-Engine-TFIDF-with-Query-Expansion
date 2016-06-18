@@ -1,0 +1,2 @@
+Templat:Yos
+{{Ayat|Yosua|{{{1}}}|{{#if:{{{2|}}}|{{{2}}}}}|{{{3|}}}|plain={{{plain|}}}|plain2={{{plain2|}}}|ver={{{ver|}}}}}<noinclude>[[Kategori:Templat Kristen]]</noinclude>

@@ -1,0 +1,7 @@
+Templat:S-line/SMRT right/Utara Selatan
+{{#switch:{{{type}}}
+   | Marina Pier=Marina Pier
+   | #default=Marina South Pier
+   }}<noinclude>
+[[Kategori:Templat transportasi rel di Singapura]]
+</noinclude>

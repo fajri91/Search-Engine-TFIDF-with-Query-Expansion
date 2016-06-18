@@ -1,0 +1,42 @@
+Kimia hijau
+{{sains}}
+
+'''Kimia hijau''', juga disebut ''kimia berkelanjutan'', adalah filsafat penelitian dan rekayasa/teknik kimia yang menganjurkan desain produk dan proses yang meminimasi penggunaan dan penciptaan senyawa-senyawa berbahaya.<ref>{{cite web|url=http://www.epa.gov/greenchemistry/ |title= Green Chemistry |publisher=United States Environmental Protection Agency |date=2006-06-28 |accessdate=2011-03-23}}</ref> Sementara [[kimia lingkungan]] adalah cabang kimia yang membahas lingkungan hidup dan zat-zat kimia di alam, kimia hijau justru berupaya mencari cara untuk mengurangi dan mencegah [[pencemaran]] pada sumbernya. Pada tahun 1990 ''Pollution Prevention Act'' (Undang-Undang Pencegahan Pencemaran) telah disahkan di Amerika Serikat. Undang-undang ini membantu menciptakan ''modus operandi'' untuk berurusan dengan pencemaran secara inovatif dan asli. Undang-undang ini bertujuan untuk mencegah masalah sebelum mereka terjadi.
+
+Sebagai sebuah filsafat kimia, kimia hijau berlaku pada [[kimia organik]], [[kimia anorganik]], [[biokimia]], [[kimia analitik]], dan bahkan [[kimia fisis]]. Sementara kimia hijau tampak berfokus pada terapan-terapan industri, sebenarnya ia berlaku juga pada sembarang cabang kimia. [[Kimia klik]] seringkali disebut sebagai sebuah gaya sintesis kimia yang konsisten dengan tujuan-tujuan kimia hijau. Fokusnya adalah meminimasi bahaya dan memaksimasi efisiensi sembarang bahan kimia. Ia berbeda dengan [[kimia lingkungan]] yang berfokus pada gejala-gejala kimia di lingkungan.
+
+Pada tahun 2005 [[Ryji Noyori]] mengenali tiga pengembangan-penting di dalam kimia hijau: penggunaan [[karbondioksida superkritis]] sebagai pelarut hijau, [[larutan-air]] [[hidrogen peroksida]] untuk [[oksidasi]] bersih dan penggunaan hidrogen di dalam [[sintesis asimetris]].<ref>''Mengikuti keanggunan praktis di dalam sintesis kimia'', Ryoji Noyori, Jurnal [[Chemical Communications]], '''2005''', (14), 1807 - 1811 [http://www.rsc.org/publishing/journals/CC/article.asp?doi=b502713f Abstrak]</ref> Contoh-contoh kimia hijau terapan adalah [[oksidasi air superkritis]], [[reaksi pada air]], dan [[reaksi media kering]].
+
+[[Biorekayasa]] atau [[bioteknik]] juga dipandang sebagai sebuah teknik yang menjanjikan untuk mencapai tujuan-tujuan kimia hijau. Sejumlah bahan kimia proses penting dapat disintesis dalam organisma-organisma terekayasa, seperti [[asam shikimat]], sebuah prakursor [[oseltamivir]] yang di[[fermentasi]] oleh Roche di dalam bakteri.
+
+Istilah ''kimia hijau'' diperkenalkan oleh [[Paul Anastas]] pada tahun 1991.<ref>[http://www.chemistryexplained.com/Ge-Hy/Green-Chemistry.html Chemistry Explained]</ref>
+
+== Lihat pula ==
+* [[Bioremediasi]]
+* [[Komputasi hijau]]
+
+== Referensi ==
+{{reflist}}
+
+== Pranala luar ==
+{{Div col|2}}
+*[http://www.epa.gov/greenchemistry/ Situs Web Program Kimia Hijau EPA]
+*[http://www.organic-chemistry.org/topics/green-chemistry.shtm Pendahuluan Kimia Hijau dan Kepustakaan Terbaru]
+*[http://www.acs.org/greenchemistry American Chemical Society - Green Chemistry Institute]
+*[http://www.dtsc.ca.gov/PollutionPrevention/GreenChemistryResources/index.cfm Departemen Pengawasan Zat-Zat Beracun California, Green Chemistry Initiative]
+*[http://coeh.berkeley.edu/greenchemistry/ Universitas California di Berkeley, Program Kimia Hijau dan Kebijakan Bahan-Bahan Kimia]
+*[http://www.greenchemistry.yale.edu/ Pusat Kimia Hijau dan Rekayasa Hijau di Universitas Yale]
+*[http://www.greenchemistry.net/ Pusat Kimia Hijau Ekselensi di Universitas York, Inggris]
+*[http://www.csg.dtu.dk/ Pusat Kimia Hijau dan Berkelanjutan di Universitas Teknik Denmark]
+*[http://www.megrec.org/ Jejaring Kimia Hijau Negara-Negera Mediterania]
+*[http://www.rand.org/pubs/monograph_reports/MR1682/index.html Teknologi-Teknologi Generasi Berikutnya, diterbitkan oleh RAND]
+*[http://web.archive.org/20070927121204/tauac.typepad.com/ac/2007/02/green_your_beak.html Kimia Hijau di Universitas Tel Aviv]
+*[http://www.rsc.org/Publishing/Journals/gc/Index.asp Kimia Hijau], Jurnal [[Royal Society of Chemistry]]
+*[http://www.rsc.org/shop/books/series/81.asp?seriesid=81 Seri Buku Kimia Hijau], diterbitkan oleh Royal Society of Chemistry
+*[http://www.tandf.co.uk/journals/titles/17518253.asp Surat-Surat dan Tinjauan tentang Kimia Hijau], Taylor dan Francis
+*[http://www.tandf.co.uk/journals/titles/17518253.asp Surat-Surat dan Tinjauan tentang Kimia Hijau], Taylor dan Francis
+*[http://www.paristechreview.com/2011/12/23/green-chemistry-industrial-strategies/ Strategi-Strategi Kimia Hijau di Industri] (ParisTech Review, Desember 2011)
+*[http://pubs.rsc.org/en/Journals/JournalIssues/Cs#!issueid=cs041004&type=current/ Isu bertema Kimia Hijau], disunting oleh Chao-Jun Li dan [[Paul Anastas]] 
+
+[[Kategori:Kimia]]
+[[Kategori:Kimia lingkungan]]

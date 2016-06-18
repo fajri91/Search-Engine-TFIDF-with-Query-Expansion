@@ -1,0 +1,36 @@
+Alpha Piscium
+{{Starbox short |
+| name= Piscium
+| epoch=[[J2000.0]]
+| constell=[[Pisces (constellation)|Pisces]]
+| ra=02<sup>h</sup> 02<sup>m</sup> 02.8<sup>s</sup>
+| dec=+02 45' 49"
+| spectral=A0pSiSr + A3m
+| appmag_v=+4.33 + 5.23
+| dist_ly=139
+| dist_pc=42.6
+| names=Alrischa, Alrescha, Kaitain, Okda, 113 Psc, [[Star catalogue#BS, BSC, HR|HR]]&nbsp;596, [[Henry Draper Catalogue|HD]]&nbsp;12447, [[Star catalogue#SAO|SAO]]&nbsp;110291
+}}
+'''Alpha Piscium ( Psc /  Piscium)''' adalah salah satu bintang di rasi [[Pisces]]. Jarak antara  Psc dengan [[Bumi]] adalah 139 [[tahun cahaya]]. Bintang ini merupakan [[bintang ganda]] yang terpisah 1.8 AU. Komponen utama dari bintang ber[[magnitudo]] +4.33 dan termasuk bintang kelas A0p. Komponen sekunder ber[[magnitudo]] 5.23 dan termasuk bintang kelas A3m. Periode orbit bintang ini adalah 700 [[tahun]] dan akan mencapai titik terdekat pada tahun 2060. 
+
+== Etimologi ==
+
+Bintang ini memiliki nama tradisional '''Alrescha''' (Al Rescha, Alrischa, Alrisha), berasal dari kata dalam [[bahasa Arab]] '''''' ''al-ri'' yang berarti "tali". Nama lainnya adalah ''Kaitain'' dan ''Okda,'' yang berasal dari [[bahasa Arab]]  ''uqdah'', berarti "simpul". Nama lainnya untuk bintang ini adalah:
+
+{| class="wikitable"
+|-
+! nama lain
+! asal bahasa
+! arti
+|-
+| / Wibngq||[[China]] ||bintang ketujuh pada rasi [[Daftar asterisme di Kaki#Pagar Luar|Pagar Luar]]<ref name=sb0>salah satu rasi bintang menurut bangsa Cina</ref>
+|}
+
+== Referensi ==
+{{reflist}}
+
+== Pranala luar ==
+* [http://www.alcyone.de/SIT/bsc/bsc_search.html Bright Star Catalogue]
+* [http://www.astro.uiuc.edu/~kaler/sow/alrescha.html Alrescha]
+
+[[Kategori:Rasi bintang Pisces]]

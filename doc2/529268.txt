@@ -1,0 +1,28 @@
+Sistem pendingin pada pesawat terbang
+'''Sistem pendinginan pada pesawat terbang''' adalah suatu sistem yang berfungsi untuk menjaga supaya temperatur [[pesawat terbang]] dalam kondisi yang ideal.
+
+Bahan bakar terbakar dalam silinder menghasilkan panas intens, sebagian besar yang dikeluarkan melalui sistem pembuangan. Sebagian dari panas yang tersisa, bagaimanapun, harus dihilangkan, atau setidaknya hilang, untuk mencegah [[mesin]] dari overheating. Jika tidak, suhu mesin sangat tinggi dapat menyebabkan hilangnya daya, konsumsi minyak yang berlebihan, ledakan, dan kerusakan mesin yang serius.
+
+Sementara sistem minyak sangat penting untuk pendinginan internal mesin, metode pendinginan tambahan diperlukan untuk permukaan luar mesin. Pesawat yang paling kecil didinginkan udara, meskipun beberapa liquid cooled.
+
+Air-pendinginan dilakukan dengan udara yang mengalir ke dalam kompartemen mesin melalui lubang di depan cowling mesin. Baffle rute ini udara di atas sirip melekat pada silinder mesin, dan bagian lain dari mesin, di mana udara menyerap panas mesin. Pengusiran udara panas terjadi melalui satu atau lebih bukaan di bagian, bawah belakang dari cowling mesin.
+
+Udara luar masuk ke dalam kompartemen mesin melalui inlet belakang hub baling-baling. Baffle langsung ke bagian terpanas dari mesin, terutama silinder, yang memiliki sirip yang meningkatkan area yang terkena aliran udara.
+
+Sistem pendingin udara kurang efektif selama operasi darat, lepas landas, go-arounds, dan periode lainnya daya tinggi operasi, kecepatan udara rendah. Sebaliknya, kecepatan tinggi keturunan menyediakan udara berlebih dan dapat mengejutkan-mendinginkan mesin, menundukkan untuk fluktuasi suhu mendadak.
+
+Operasi mesin pada suhu lebih tinggi dari yang dirancang dapat menyebabkan hilangnya daya, konsumsi minyak yang berlebihan, dan peledakan. Hal ini juga akan menyebabkan kerusakan permanen serius, seperti mencetak dinding silinder, piston dan merusak cincin, dan membakar dan warping katup. Pemantauan instrumen mesin kokpit suhu akan membantu dalam menghindari suhu operasi yang tinggi. Dalam kondisi operasi normal dalam pesawat tidak dilengkapi dengan cowl flaps, mengubah kecepatan udara atau output tenaga mesin dapat mengontrol suhu mesin. Meningkatkan kecepatan dan / atau mengurangi daya dapat menurunkan suhu mesin tinggi.
+
+Pengukur suhu minyak memberikan indikasi tidak langsung dan tertunda suhu mesin naik, tetapi dapat digunakan untuk menentukan suhu mesin jika ini adalah satu-satunya cara yang tersedia.
+
+Banyak pesawat yang dilengkapi dengan pengukur suhu silinder-head. Instrumen ini menunjukkan perubahan suhu langsung dan segera silinder. Instrumen ini dikalibrasi dalam derajat [[Celcius]] atau [[Fahrenheit]], dan biasanya kode warna dengan busur hijau untuk menunjukkan rentang operasi normal. Sebuah garis merah pada instrumen menunjukkan suhu maksimum yang diizinkan kepala silinder.
+
+Untuk menghindari suhu yang berlebihan kepala silinder, meningkatkan kecepatan udara, memperkaya campuran, dan / atau mengurangi kekuasaan. Salah satu prosedur membantu dalam mengurangi suhu mesin. Pada pesawat dilengkapi dengan cowl flaps, gunakan posisi lipatan kerudung untuk mengontrol suhu. Flaps Cowl adalah berengsel meliputi yang pas atas pembukaan melalui mana udara panas yang dikeluarkan. Jika suhu mesin rendah, tutup kerudung dapat ditutup, sehingga membatasi aliran udara panas diusir dan meningkatkan suhu mesin. Jika suhu mesin tinggi, flaps kerudung dapat dibuka untuk memungkinkan aliran udara yang lebih besar melalui sistem, sehingga mengurangi suhu mesin.
+
+== Referensi ==
+{{Reflist}}
+*
+*
+*
+
+[[Kategori:Sistem pesawat terbang]]

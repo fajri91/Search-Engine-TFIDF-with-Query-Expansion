@@ -1,0 +1,6 @@
+Templat:Dirgantara-istilah-stub
+{{base-stub
+|istilah [[dirgantara|kedirgantaraan]]
+|[[Berkas:Aero-stub img.svg|20px|Dirgantara|link=]]}}{{#if:{{{kat|}}}||<includeonly>
+[[Kategori:Rintisan bertopik istilah dirgantara|{{PAGENAME}}]]</includeonly>}}<noinclude>
+[[Kategori:Rintisan bertopik dirgantara|{{PAGENAME}}]]</noinclude>

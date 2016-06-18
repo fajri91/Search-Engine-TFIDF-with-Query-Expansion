@@ -1,0 +1,46 @@
+Couilly-Pont-aux-Dames
+{{French commune|
+name=Couilly-Pont-aux-Dames|
+image_map = France_jms.png|
+x = 148|
+y = 73|
+lat_long={{coord|48|53|7|N|2|51|31|E}}|
+insee=77128|
+postal_code=77860|
+rgion=[[le-de-France (region)|le-de-France]]|
+dpartement=[[Seine-et-Marne]]|
+arrondissement=Meaux|
+canton=[[Kanton Crcy-la-Chapelle|Crcy-la-Chapelle]]|
+mayor=Jean-Louis Vaudescal|
+term=2008-2014|
+intercomm=''tidak ada pada 2007''|
+elevation_min_m=45|
+elevation_max_m=119|
+area_km2=4.75|
+population=1,897|
+date-population=1999|
+density_km2=399|
+date-density=1999}}
+
+'''Couilly-Pont-aux-Dames''' merupakan sebuah [[komune di Perancis|komune]] di [[departemen di Perancis|departemen]] [[Seine-et-Marne]] di [[region di Perancis|region]] [[le-de-France (region)|le-de-France]] di utara-tengah [[Perancis]].
+
+== Demografi ==
+Pada [[sensus]] 1999, penduduknya berjumlah 1.897 jiwa.
+
+Penduduknya disebut sebagai ''Colliaciens''.
+
+== Lihat pula ==
+* [[Komune di departemen Seine-et-Marne]]
+
+== Pranala luar ==
+* [http://www.iaurif.org/en/gis/fichescom/mos99/ficmos/mos77128.html 1999 Land Use, from IAURIF (Institute for Urban Planning and Development of the Paris-le-de-France rgion] {{en}}
+* [http://www.culture.gouv.fr/public/mistral/merimee_fr?ACTION=CHERCHER&FIELD_98=INSEE&VALUE_98=77128 French Ministry of Culture list for Couilly-Pont-aux-Dames] {{fr}}
+* [http://www.viamichelin.co.uk/viamichelin/gbr/dyn/controller/mapPerformPage?strAddress=&strCP=77860&strLocation=Couilly-Pont-aux-Dames&strCountry=1424&image2.x=28&image2.y=7 Map of Couilly-Pont-aux-Dames on Michelin] {{en}}
+
+{{Komune di Seine-et-Marne}}
+
+[[Kategori:Komune di Seine-et-Marne]]
+[[Kategori:Komune di Perancis]]
+
+
+{{SeineMarne-geo-stub}}

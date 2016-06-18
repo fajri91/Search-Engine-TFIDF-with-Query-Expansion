@@ -1,0 +1,31 @@
+Teori medan ligan
+'''Teori medan ligan''' (Bahasa Inggris: ''Ligand Field Theory''), disingkat LFT, adalah sebuah teori yang menjelaskan ikatan pada senyawa [[kompleks koordinasi]].<ref>Schlfer, H. L.; Gliemann, G. "Basic Principles of Ligand Field Theory" Wiley Interscience: New York; 1969</ref> Ia merupakan aplikasi [[teori orbital molekul]] pada kompleks logam transisi. Ion logam transisi mempunyai enam [[orbital atom]] terhibridisasi dengan energi yang sama untuk berikatan dengan [[ligan|ligan-ligannya]]. Analisis LFT bergantung pada geometri kompleks. Walaupun begitu, untuk tujuan tertentu, kebanyakan analisis berfokus pada kompleks [[oktahedral]] dengan enam ligan berkoordinasi dengan logam.<ref>G. L. Miessler and D. A. Tarr Inorganic Chemistry 3rd Ed, Pearson/Prentice Hall publisher, ISBN 0-13-035471-6.</ref>
+
+=== Ikatan  ===
+Orbital-orbital molekul yang dibentuk oleh koordinasi dapat dilihat sebagai akibat dari donasi dua [[elektron]] oleh tiap-tiap donor  ligan ke orbital-''d'' [[logam]]. Pada kompleks oktahedral, ligan mendekat ke logam sepanjang sumbu ''x'', ''y'', dan ''z'', sehingga orbital simetri  nya membentuk kombinasi ikatan dan anti-ikatan pada orbital ''d''<sub>''z''<sup>2</sup></sub> dan ''d''<sub>''x''<sup>2</sup>''y''<sup>2</sup></sub>. Orbital ''d''<sub>''xy''</sub>, ''d''<sub>''xz''</sub> dan ''d''<sub>''yz''</sub> yang tersisa menjadi orbital non-ikatan. Beberapa interaksi ikatan (dan anti-ikatan) yang lemah dengan orbital ''s'' dan ''p'' logam juga terjadi, menghasilkan total 6 orbital molekul ikatan (dan 6 orbital anti-ikatan).
+
+[[Berkas:LFTi(III).png|center|thumb|400px|Ligand-Field scheme summarizing -bonding in the octahedral complex [Ti(H<sub>2</sub>O)<sub>6</sub>]<sup>3+</sup>.]]
+
+Dalam istilah [[simetri molekul]], enam orbital pasangan menyendiri ligan-ligan membentuk enam kombinasi linear simetri tersuai (Bahasa Inggris: ''Symmetry adapated linear combination'') orbital atau juga disebut sebagai orbital kelompok ligan (''ligand group orbitals''). [[Representasi taktereduksi]]nya adalah ''a<sub>1g</sub>'', ''t<sub>1u</sub>'' dan ''e<sub>g</sub>''. Logam juga mempunyai enam orbital valensi yang memiliki [[representasi taktereduksi]] yang sama, yaitu orbital s berlabel ''a<sub>1g</sub>'', orbital p berlabel ''t<sub>1u</sub>'', dan orbital ''d''<sub>''z''<sup>2</sup></sub> beserta ''d''<sub>''x''<sup>2</sup>''y''<sup>2</sup></sub> berlabel ''e<sub>g</sub>''. Enam orbital molekul ikatan  dihasilkan oleh kombinasi orbital SALC ligan dengan orbital logam yang bersimetri sama.
+
+=== Ikatan  ===
+Ikatan  pada kompleks oktahedral terbentuk dengan dua cara: via orbital ''p'' ligan yang tidak digunakan pada ikatan , ataupun via orbital molekul  atau <sup>*</sup> yang terdapat pada ligan.
+Orbital-orbital ''p'' logam digunakan untuk ikatan , sehingga interaksi  terjadi via orbital ''d'', yakni ''d''<sub>''xy''</sub>, ''d''<sub>''xz''</sub> dan ''d''<sub>''yz''</sub>. Orbital-orbital ini adalah orbital yang tidak berikatan apabila hanya terjadi ikatan .
+
+Satu ikatan  pada kompleks koordinasi yang penting adalah ikatan  logam ke ligan, juga dikenal sebagai [[ikatan balik pi|ikatan balik ]]. Ia terjadi ketika [[LUMO]] ligannya adalah orbital <sup>*</sup> anti-ikatan. Orbital-orbital ini berenergi sangat dekat dengan orbital-orbital ''d''<sub>''xy''</sub>, ''d''<sub>''xz''</sub> dan ''d''<sub>''yz''</sub> orbitals, sehingga mereka dapat membentuk orbital ikatan. Orbital anti-ikatan ini berenergi lebih tinggi daripada orbital anti-ikatan dari ikatan  bonding, sehingga setelah orbital ikatan  yang baru terisi dengan elektron dari orbital-orbital ''d'' logam, <sub>O</sub> meningkat dan ikatan antara ligan dengan logam menguat. Ligan-ligan pada akhirnya memiliki elektron pada orbital molekul <sup>*</sup>-nya, sehingga ikatan  pada ligan melemah.
+
+Bentuk koordinasi ikatan  yang lain adalah ikatan ligan ke logam. Hal ini terjadi apabila orbital simetri-  ''p'' atau orbital  pada ligan terisi. Ia bergabung dengan orbital ''d''<sub>''xy''</sub>, ''d''<sub>''xz''</sub> dan ''d''<sub>''yz''</sub> logam, dan mendonasikan elektron-elektronnya, sehingga menghasilkan ikatan simetri- antara ligan dengan logam. Ikatan logam-ligan menguat oleh interaksi ini, namun orbital molekul anti-ikatan dari ikatan ligan ke logam tidak setinggi orbital molekul anti-ikatan dari ikatan . Ia terisi dengan elektron yang berasal dari orbital ''d'' logam dan menjadi [[HOMO]] kompleks tersebut. Oleh karena itu, <sub>O</sub> menurun ketika ikatan ligan ke logam terjadi.
+
+Stabilisasi yang dihasilkan oleh ikatan logam ke ligan diakibatkan oleh donasi muatan negatif dari ion logam ke ligan. Hal ini mengizinkan logam menerima ikatan  lebih mudah. Kombinasi ikatan  ligan ke logam dan ikatan  logam ke ligan merupakan efek [[sinergi]] dan memperkuat satu sama lainnya.
+
+Karena enam ligan mempunyai dua orbital simetri , terdapat total keseluruhan dua belas orbital tersebut. Kombinasi linear simetri tersuainya mempunyai empat degenerat triplet representasi taktereduksi, salah satunya bersimetri ''t<sub>2g</sub>''. Orbital ''d''<sub>''xy''</sub>, ''d''<sub>''xz''</sub> dan ''d''<sub>''yz''</sub> pada logam juga mempunyai simetri ini, sehingga ikatan  yang terbentuk antara logam pusat dengan enam ligan juga mempunyai simetri tersebut.
+
+== Referensi ==
+{{reflist}}
+
+== Lihat pula ==
+* [[Teori medan kristal]]
+* [[Teori orbital molekul]]
+
+[[Kategori:Ikatan kimia]]
+[[Kategori:Kimia anorganik]]

@@ -1,0 +1,29 @@
+Diagram QAPF
+[[Berkas:Qapf_diagram_plutonic_05.svg|thumb|421x421px|Diagram QAPF untuk klasifikasi Batuan Plutonik]]
+'''Diagram QAPF''' adalah [[diagram]] segitiga bolak balik yang digunakan untuk mengklasifikasikan [[batuan beku]] <nowiki/>berdasarkan komposisi [[mineralogi]]. Akronimnya, QAPF, merupakan kependekan dari " [[Kuarsa]], [[Alkali Feldspar]], [[Plagioklas]], dan [[Feldspathoid (Foid)]] ", yang merupakan grup-grup mineral yang digunakan untuk klasifikasi dalam Diagram ini. Persentase Q, A, P, dan F dinormalisasi ( dihitung ulang agar totalnya 100%)
+
+== Sejarah ==
+Diagram QAPF dibuat olehInternational Union of Geological Sciences (IUGS): ''Subcommission on the Systematics of Igneous Rocks''<ref>See for example the diagram as it appears in {{Templat:Cite journal|last1 = Streckeisen|first1 = Albert|authorlink1 = Albert Streckeisen|date = July 1974|title = Classification and nomenclature of plutonic rocks recommendations of the IUGS subcommission on the systematics of Igneous Rocks|journal = Geologische Rundschau|volume = 63|issue = 2|pages = 773-786|doi = 10.1007/bf01820841}}</ref>
+ditemukan oleh Albert Streckeisen (itulah sebabnya nama lain Diagram ini adalah: Diagram Streckeisen ).
+[[Ahli geologi]] <nowiki/>seluruh dunia menerima diagram ini sebagai alat untuk klasifikasi batuan beku , terutama [[batuan plutonik]].
+
+== Kegunaan ==
+Diagram QAPF sebagian besar digunakan untuk klasifikasi [[batuan plutonik]] ( batuan [[faneritik]]), tapi juga digunakan untuk [[batuan vulkanik]] jika komposisi mineral modal telah diketahui. Diagram QAPF tidak digunakan untuk mengklasifikasi [[batuan piroklastik]] atau batuan vulkanik jika komposisi mineral modal tidak diketahui, dan sebagai gantinya menggunakan klasifikasi TAS ( Total-Alkali-Silika). TAS juga digunakan jika batuan vulkanik mengandung gelas vulkanik ( seperti [[obsidian]]). Diagram QAPF juga tidak digunakan jika mineral [[mafik]] yang terkandung dalam komposisi batuan lebih dari 90% (contoh: peridotit dan piroxenit)
+
+Nama batuan yang tepat bisa diberikan jika komposisi mineralogi diketahui, dimana dihitung menggunakan analisis [[petrografi]].
+
+== Referensi ==
+* Streckeisen, A. L., 1974. Classification and Nomenclature of Plutonic Rocks. Recommendations of the IUGS Subcommission on the Systematics of Igneous Rocks. Geologische Rundschau. Internationale Zeitschrift fr Geologie. Stuttgart. Vol.63, p.&nbsp;773-785.
+* Streckeisen, A. L., 1978. IUGS Subcommission on the Systematics of Igneous Rocks. Classification and Nomenclature of Volcanic Rocks, Lamprophyres, Carbonatites and Melilite Rocks. Recommendations and Suggestions. Neues Jahrbuch fr Mineralogie, Abhandlungen, Vol. 141, 1-14.
+* Le Maitre,R.W. 2002. Igneous Rocks: A Classification and Glossary of Terms : Recommendations of International Union of Geological Sciences Subcommission on the Systematics of Igneous Rocks. Cambridge University Press, 236pp.
+
+== Pranala Luar ==
+* {{Templat:Citation|url = http://geology.csupomona.edu/alert/igneous/igclass.htm|archiveurl = https://web.archive.org/web/20110930102012/http://geology.csupomona.edu/alert/igneous/igclass.htm|title = Classification of Igneous Rocks - IUGS Classification|archivedate = 30 Sep 2011|publisher = Geological Sciences Department - Cal Poly Pomona}}
+
+== Footnotes ==
+{{Reflist}}
+
+[[Kategori:Batuan beku]]
+[[Kategori:Geologi]]
+[[Kategori:Mineralogi]]
+[[Kategori:Mineralogi Optik]]

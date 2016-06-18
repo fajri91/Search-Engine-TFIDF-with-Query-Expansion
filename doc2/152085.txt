@@ -1,0 +1,58 @@
+Git
+{{Infobox software
+| name                   = Git
+| title                  = 
+| logo                   = [[File:Git-logo-2012.svg|x60px]]
+| logo caption           = Git logo
+| screenshot             = [[File:Gitweb.png|thumb]]
+| caption                = gitweb, a Web interface for git
+| collapsible            = 
+| author                 = [[Linus Torvalds]]
+| developer              = [[Junio Hamano]], Linus Torvalds, [https://github.com/git/git/contributors and many others]
+| released               = {{Start date|2005|04|07|df=yes/no}}
+| discontinued           = 
+| latest release version = 
+| latest release date    = <!-- {{Start date and age|YYYY|MM|DD|df=yes/no}} -->
+| latest preview version = 
+| latest preview date    = <!-- {{Start date and age|YYYY|MM|DD|df=yes/no}} -->
+| frequently updated     = yes<!-- DO NOT include this parameter unless you know what it does -->
+| programming language   = [[C (programming language)|C]], [[Bourne Shell]],[[Tcl]], [[Perl]]<ref>{{cite web|url=http://git.kernel.org/?p=git/git.git;a=tree |title=git/git.git/tree |publisher=git.kernel.org |date= |accessdate=2009-06-15}}</ref>
+| operating system       = [[POSIX]], [[Windows]]
+| platform               = 
+| size                   = 
+| language               = 
+| status                 = 
+| genre                  = [[Revision control]]
+| license                = [[GNU General Public License]] v2
+| alexa                  = 
+| website                = {{URL|http://git-scm.com}}
+}}
+'''Git''' adalah [[perangkat lunak]] [[pengontrol versi]] atau proyek manajemen [[kode sumber|kode]] perangkat lunak yang diciptakan oleh [[Linus Torvalds]], yang pada awalnya ditujukan untuk pengembangan [[kernel]] [[Linux]]. Desain Git terinspirasi oleh [[BitKeeper]] dan [[Monotone]] <ref>{{cite mailing list |mailinglist=linux-kernel |author=Linus Torvalds |url=http://marc.info/?l=git&m=114685143200012 |title=Re: &#91;ANNOUNCE&#93; Git wiki |date=2006-05-05 }} "Some historical background" on git's predecessors</ref><ref>{{cite mailing list |mailinglist=linux-kernel |url=http://lkml.org/lkml/2005/4/8/9 |author=Linus Torvalds |title=Re: Kernel SCM saga |date=2005-04-07}}</ref>. Git pada awalnya hanya dirancang sebagai mesin tingkat rendah yang dapat digunakan oleh tampilan muka (''front end'') lain seperti [[Cogito]] atau [[StGIT]] <ref>{{cite mailing list |author=Linus Torvalds | url=http://marc.info/?l=linux-kernel&m=111293537202443 |title=Re: Kernel SCM saga |date=2005-04-08 |mailinglist=linux-kernel |accessdate=2008-02-20}}</ref>. Namun selanjutnya proyek inti Git telah berkembang menjadi pengontrol revisi lengkap yang dapat digunakan langsung <ref>{{cite mailing list |mailinglist=git |author=Linus Torvalds |url=http://marc.info/?l=git&m=114314642000462 |title=Re: Errors GITtifying GCC and Binutils |date=2006-03-23}}</ref>. Saat ini, beberapa perangkat lunak terkenal menggunakan Git sebagai pengontrol revisinya <ref>{{cite web |url=http://git.or.cz/gitwiki/GitProjects |title=Projects that use Git for their source code management |accessdate=2008-02-20}}</ref>, antara lain kernel Linux, [[Server X.org]], pengembangan inti [[OLPC]] (''One Laptop per Child'') <ref>{{cite web |url=http://wiki.laptop.org/go/Project_hosting |title=Project hosting |author=OLPC wiki |accessdate=2008-02-20}}</ref>, serta kerangka kerja web [[Ruby on Rails]] <ref>{{cite web |url=http://weblog.rubyonrails.org/2008/4/2/rails-is-moving-from-svn-to-git |title= "Rails is moving from SVN to Git" |accessdate=2008-04-03}}</ref>.
+
+[[Pemeliharaan perangkat lunak]] Git saat ini diawasi oleh [[Junio Hamano]]. Dirilis di bawah [[Lisensi Publik Umum GNU]] versi 2, Git adalah suatu [[perangkat lunak bebas]].
+
+== Pranala luar ==
+
+{{Wikibooks|Source Control Management With Git|lang=en}}
+* [http://git.or.cz/ Git homepage], maintained by [[Petr Baudis]]
+* [http://www.kernel.org/pub/software/scm/git/docs/user-manual.html Git User's Manual], also distributed with Git in Documentation/user-manual.txt
+* [http://www.kernel.org/git/ Git] - the project page at kernel.org
+* [http://linux.yyz.us/git-howto.html Kernel Hackers' Guide to git]
+* [http://lwn.net/Articles/131657/ The guts of git], article by [[LWN.net]]
+* [http://www.linux-mips.org/wiki/Git Git] and [http://www.linux-mips.org/wiki/WhatIsGit WhatIsGit] at [http://www.linux-mips.org LinuxMIPS] wiki
+* [http://git.or.cz/gitwiki/GitProjects Projects that use Git] from GitWiki
+* [http://video.google.com/videoplay?docid=1251251453592758541 Google Tech Talk: Randal Schwartz on Git] from video.google.com
+* [http://utsl.gen.nz/talks/git-svn/intro.html An introduction to git-svn for Subversion/SVK users and deserters], article by Sam Vilain
+* [http://eagain.net/articles/git-for-computer-scientists/ Git for computer scientists]
+* [irc://irc.freenode.net/git #git] on freenode
+
+== Portabilitas ==
+
+* [http://www.eqqon.com/index.php/GitSharp GitSharp: Adalah implementasi Git murni untuk .net dan mono]
+
+== Catatan kaki ==
+
+{{reflist}}
+
+[[Kategori:Pengontrol versi]]
+[[Kategori:Perangkat lunak bebas]]

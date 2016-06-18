@@ -1,0 +1,10 @@
+Templat:Location map Trinidad and Tobago
+{{#switch:{{{1}}}
+| name   = Trinidad and Tobago
+| top = 11.45
+| bottom = 9.85
+| left = -62.05
+| right = -60.4
+| image = Trinidad and Tobago location map.svg
+}}<noinclude>{{Location map/Info}}
+[[Category:Templat peta navigasi menurut negara|Trinidad and Tobago]]</noinclude>

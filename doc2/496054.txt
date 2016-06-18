@@ -1,0 +1,36 @@
+Bandar Udara Semporna
+{{Infobox Airport
+| name         = Bandar Udara Semporna
+| nativename   = Lapangan Terbang Semporna
+| image        = 
+| IATA         = SMM<ref>{{GCM|SMM}}</ref>
+| ICAO         = WBKA<ref name=AIP>[http://aip.dca.gov.my/aip%20pdf/AD/AD4/Index%20To%20Aerodromes.pdf AIP Malaysia: Index to Aerodromes] di Departemen Penerbangan Sipil Malaysia</ref>
+| type         = Public
+| owner        = 
+| operator     = [[Malaysia Airports Berhad]]
+| city-served  = [[Semporna]], [[Sabah]], [[Malaysia]]
+| location     = 
+| elevation-f  = 60
+| elevation-m  = 18
+| coordinates  = {{nowrap|{{coord|04|26|59|N|118|35|47|E|region:MY_type:airport}}}}
+| website      = 
+| metric-rwy   = y
+| r1-number    = 18/36
+| r1-length-m  = 609
+| r1-length-f  = 1,998
+| r1-surface   = [[Kerikil]]
+| footnotes    = Sumber: [[Aeronautical Information Publication|AIP]] Malaysia<ref name=AIP />
+}}
+'''Bandar Udara Semporna''' {{airport codes|SMM|WBKA}} adalah [[bandar udara]] yang melayani wilayah [[Semporna]] di negara bagian [[Sabah]] di [[Malaysia]]. Tidak ada penerbangan berjadwal ke bandar udara ini.
+
+== Referensi ==
+{{Reflist}}
+
+== Pranala luar ==
+*[http://www.malaysiaairports.com.my/index.php?ch=17&pg=55&ac=190 Short Take-Off and Landing Airports (STOL)] di [[Malaysia Airports Holdings Berhad]]
+*{{ASN|SMM}}
+
+{{DEFAULTSORT:Semporna, Bandar udara}}
+{{bandara-asia-stub}}
+
+[[Kategori:Bandar udara di Malaysia]]

@@ -1,0 +1,22 @@
+Berkas:Miracle on 34th Street.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+{{dari|en}}
+
+== Alasan penggunaan wajar dalam artikel [[Miracle on 34th Street]] ==
+Walaupun gambar poster ini dilindungi hak cipta, pemakaian gambar poster ini dalam artikel sesuai dengan undang-undang penggunaan wajar Amerika Serikat, dengan alasan:
+# Resolusi rendah dari poster film/sampul video VHS atau sampul DVD
+# Tidak mengurangi hak-hak pemegang hak cipta untuk menjual film ini, dan bahkan mungkin meningkatkan penjualan
+# Gambar dalam resolusi rendah, dan tidak dapat direproduksi ulang
+# Gambar melambangkan subjek yang dibicarakan dalam artikel
+
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Poster}}

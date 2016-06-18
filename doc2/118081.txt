@@ -1,0 +1,19 @@
+Berkas:Monumen 1 Maret 1949.JPG
+== {{int:filedesc}} ==
+{{Information
+| description    =
+
+* Description=Monumen Serangan Umum 1 Maret 1949 (di dekat Alun-alun Lor kraton Jogjakarta)
+* Source=own-work 
+* Date=24 Agustus 2007
+* Author= [[Pengguna:Masgatotkaca]]
+
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{GFDL-self}}

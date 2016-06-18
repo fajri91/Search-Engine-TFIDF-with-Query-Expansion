@@ -1,0 +1,41 @@
+Sepahan Airlines Penerbangan 5915
+{{Infobox aircraft occurrence
+|name            = Sepahan Airlines Penerbangan 5915
+|date            = {{start date|2014|08|10|df=y}}
+|summary         = Jatuh sesaat setelah lepas landas
+|occurrence_type = Kecelakaan
+|site            = [[Bandar Udara Internasional Mehrabad]]
+|coordinates     = 
+|origin          = Bandar Udara Internasional Mehrabad
+|stopover        =
+|destination     = [[Bandar Udara Tabas]]
+|image           = An-140 FIRST HESA SERIAL AIRCRAFT.jpeg
+|alt             = 
+|caption         = Pesawat yang mirip dengan yang terlibat insiden ini.
+|passengers      = 40
+|crew            = 8
+|injuries        = 
+|fatalities      = 48
+|survivors       = 0
+|aircraft_type   = [[HESA IrAn-140]]
+|operator        = [[Sepahan Airlines]]
+|tail_number     = EP-GPA
+}}
+
+Pada tanggal 10 Agustus 2014, [[Sepahan Airlines]] [[HESA IrAn-140]] jatuh di blok perumahan di Mina 6 Boulevard, [[Tehran]], Iran, sesaat setelah lepas landas dari [[Bandar Udara Internasional Mehrabad]]. Pesawat ini sedang dalam penerbangan menuju [[Tabas]]. Seluruh penumpangnya sebanyak 48 orang tewas.
+
+Menurut [[Dispatch News Desk]], pesawat ini mengoperasikan penerbangan penumpang dalam negeri terjadwal dengan [[kode penerbangan]] HH5915.<ref name="dnd">{{cite news|author1=Agha Iqrar Haroon|title=Passenger plane crashed with 48 persons on board in Tehran|url=http://www.dnd.com.pk/passenger-plane-crashes-near-mehrabad-airport-tehran/|accessdate=10 August 2014|work=Dispatch News Desk|date=10 August 2014}}</ref> Pesawat ini mengangkut 40 penumpang dan 8 awak kabin.<ref name="dnd"/>
+
+==Insiden==
+Sepahan Airlines 5915 jatuh di blok perumahan di Mina 6 Boulevard, [[Tehran]], pukul 9:18&nbsp;[[Waktu Iran|waktu setempat]] (4:48&nbsp;[[UTC]]), sesaat setelah lepas landas. [[IRNA]], kantor berita Iran, menduga mesin pesawat tersebut mati mendadak.<ref name=avh>{{cite web|last1=Hradecky|first1=Simon|title=Crash: Sepahan A140 at Tehran on Aug 10th 2014, lost height after takeoff|url=http://avherald.com/h?article=47897aae&opt=0|website=The Aviation Herald|accessdate=10 August 2014|date=10 August 2014}}</ref><ref name=aje>{{cite news|title=Iran plane crash kills dozens|url=http://www.aljazeera.com/news/middleeast/2014/08/iran-plane-crash-20148106119908678.html|accessdate=10 August 2014|work=Al Jazeera English|date=10 August 2014}}</ref>
+
+==Referensi==
+{{reflist}}
+
+{{Kecelakaan dan insiden penerbangan tahun 2014}}
+
+{{DEFAULTSORT:Sepahan 5915}}
+[[Kategori:Iran dalam tahun 2014]]
+[[Kategori:Kecelakaan dan insiden penerbangan tahun 2014]]
+[[Kategori:Kecelakaan dan insiden penerbangan di Iran]]
+[[Kategori:Sejarah Tehran]]

@@ -1,0 +1,66 @@
+Pengeras suara
+{{rapikan}}
+
+'''Pengeras suara''' ([[bahasa Inggris]]: ''loud speaker'' atau ''speaker'') adalah [[transduser]] yang mengubah sinyal elektrik ke [[frekuensi audio]] (suara) dengan cara menggetarkan komponennya yang berbentuk membran untuk menggetarkan udara sehingga terjadilah gelombang suara sampai di kendang telinga kita dan dapat kita dengar sebagai suara.
+
+Dalam setiap sistem penghasil suara (loud speaker), pengeras suara merupakan juga menentukan kualitas suara di samping juga peralatan pengolah suara sebelumnya yang masih berbentuk listrik dalam rangkaian penguat amplifier. 
+
+Sistem pada pengeras suara adalah suatu komponen yang mengubah kode sinyal elektronik terakhir menjadi gerakan mekanik. Dalam penyimpan suara pada kepingan [[CD]], pita magnetik [[tape]], dan kepingan [[DVD]], dapat direproduksi oleh pengeras suara loud speaker yang dapat kita dengar. Pengeras suara adalah sebuah teknologi yang memberikan dampak yang sangat besar terhadap budaya kita,
+[[Berkas:Speakertelevisi.jpg|thumb|right|250px|Speaker untuk televisi]]
+
+== Membuat suara ==
+Pada dasarnya, speaker merupakan mesin penerjemah akhir, kebalikan dari mikrofon. Speaker dari sinyal elektrik dan diubahnya kembali menjadi getaran untuk menggetarkan udara untuk membuat gelombang suara. Speaker menghasilkan getaran yang hampir sama dengan yang diterima getarannya oleh mikrofon, yang direkam dan dikodekan pada pita magnetik (tape), kepingan CD, LP, dan lain-lain. Speaker tradisional melakukan proses ini dengan menggunakan satu '''drivers''' atau lebih. 
+
+=== Diafragma ===
+Sebuah drivers memproduksi gelombang suara dengan menggetarkan '''cone''' yang fleksibel atau diafragma secara cepat. '''Cone''' tersebut biasanya terbuat dari kertas, ataupun logam, yang berdempetan pada ujung yang lebih besar pada suspension.
+Suspension atau '''surround''', merupakan material yang fleksibel yang menggerakkan cone, dan mengenai bingkai logam pada drivers, disebut '''basket'''.
+
+Ujung panah pada cone berfungsi menghubungkan cone ke '''voice coil'''. Coil tersebut didempetkan pada basket oleh spider, yang merupakan sebuah cincin dari material yang fleksibel. Spider menahan coil pada posisinya sambil mendorongnya bergerak kembali dengan bebas dan begitu seterusnya.
+
+=== Magnet ===
+Proses speaker coil bergerak maju mundur, kembali ke posisi semula dan seterusnya adalah sebagai berikut. Garis gaya magnet yang konstan berasal dari magnet permanen dan coil. Kedua magnet tersebut, yaitu elektromagnet dari coil dan magnet permanen, berinteraksi satu sama lain seperti dua magnet yang berhubungan pada umumnya. Kutub positif pada elektromagnet tertarik oleh kutub negatif pada bidang magnet permanen dan kutub negatif pada elektromagnet ditolak oleh kutub negatif magnet permanen. 
+
+Ketika orientasi kutub elektromagnet bertukar, bertukar pula arah dan gaya tarik-menariknya. Dengan cara seperti ini, arus bolak-balik melakukan dorongan dan tarikan antara voice coil dan magnet permanen. Proses inilah yang mendorong coil kembali dan begitu seterusnya dengan cepat. Sewaktu coil bergerak, ia mendorong dan menarik speaker cone. Hal tersebut dapat menggetarkan udara di depan speaker, membentuk gelombang suara. 
+
+Speaker umumnya terdiri dari empat macam frekuensi operasinya antara lain: '''woofer, midrange, tweeter, dan super tweeter'''.
+
+Woofers merupakan tipe drivers yang paling besar diameternya dirancang untuk menghasilkan suara bass (frekuensi rendah), frekuensi suara 500 Hz ke bawah. Sedangkan midrange, dirancang untuk frekuensi di tengah pada spektrum suara frekuensi 500 Hz sampai frekuensi 4 KHz. Tweeter memiliki diameter paling kecil dan dirancang untuk menghasilkan frekuensi suara 4 KHz ke atas, super tweeter paling tinggi di atas 10KHz ke atas.
+
+Untuk dapat membuat gelombang frekuensi tinggi, diperlukan diafragma yang kecil ringan dan keras. Hal ini lebih sulit dilakukan dengan cone yang berukuran besar dan berat.
+
+== Sistem crossover pada speaker elektronik ==
+pada sistem pemisah frekuensi sinyal suara audio ada dua macam yaitu:
+
+'''Pertama crossover pasif''' dengan cara pemisah (filter) suara tanpa memerlukan sumber arus listrik, umumnya ditempatkan dalam kotak speaker terbuat dari rangkaian L dan C yaitu lilitan kawat tembaga dan Elco.
+
+'''Kedua crossover aktif''' berupa rangkaian elektronik memerlukan tegangan dan arus bentuk rangkaian filter R (resistor) dengan C (condencator) dan semikonduktor bisa IC atau Transistor. Dalam hal ini, terdapat beberapa sistem cross over, yaitu sistem dua jalur, tiga jalur, dan empat jalur.
+
+=== Sistem dua jalur ===
+Penggunaan speaker elektronik yang paling sederhana adalah sistem 2 jalur atau sistem '''bi-amp''', yang bisa memberi hasil yang baik. Keuntungannya adalah pengecilan distorsi TIM (transient intermodulation) dan bisa menyetel bass dan treble secara mandiri. Bila Anda menggunakan sub woofer untuk kanal bawah ini, dan harus mengubah dengan saklar diubah di bawah 100 Hz.
+
+'''Speaker woofer''', daya power amplifier sebagai penggetar speaker woofer dipilih sesuai kebutuhan. Daya speaker Woofer perlu dilebihkan dari daya Power amplifier. Untuk ruang biasa daya amplifier yang cocok 20-30 Watt. Hendaknya dipilih power amplifier yang cocok untuk penggunaan nada rendah dan mempunyai faktor damping besar. 
+
+'''Speaker tweeter''' bisa menggunakan tweeter atau dengan super tweeter, daya Power amplifier tweeter ini lebih kecil dari woofer.
+
+Pada crossover aktif ini ada yang dilengkapi dengan saklar untuk mengubah jalur frekuensi 100 Hz, jika digunakan subwoofer pada output suara tengah dan treble dikombinasikan dengan crossover pasif. untuk kanal bawah frekuensi 100 Hz digunakan kotak yang terpisah.
+
+=== Sistem tiga jalur ===
+Sistem ini mirip dengan sistem 2 jalur, namun di sini nada tengah dipisahkan dengan '''band pass filter'''. Ada beberapa kemungkinan yang bisa diambil mengenai pemasangan speaker: 
+*'''Pilihan pertama,''' SP1 woofer, SP2 mid range, SP3 tweeter (tiga power amplifier).
+*'''Pilihan kedua''', SP1 sub woofer, SP2 mid range, SP3 super tweeter, titik frekuensi peralihan 100 Hz ke bawah, 100Hz sampai 5Hz dan di atas 5 KHz (tiga power amplifier).
+*'''Pilihan ketiga,''' SP1 sub woofer, SP2 speaker lengkap (woofer, mid range, tweeter dengan cross over pasif), SP3 super tweeter . (dua power amplifier + satu crossover pasif tiga jalur).
+
+Persyaratan power amplifier sama dengan sistem 2 jalur. Penyetelan suara dilakukan melalui pendengaran pada sistem yang sudah terpasang. Tiap jalur frekuensi pada crossover aktif disetel mula-mula dari sisi ground (suara volume terkecil) diputar perlahan sampai detail suara terdengar paling baik. Penyetelan optimal didapat dengan memutarnya mundur sedikit dari posisi mula-mula.
+
+=== Sistem empat jalur ===
+Pada sistem empat jalur crossover aktif dibagi menjadi titik frekuensi peralihan masing-masing adalah di bawah 100Hz (super bass), 100Hz sampai 500Hz (suara bass tengah), 500Hz sampai 5KHz (suara tengah) dan di atas 5KH suara tinggi (tweeter). Output crossover aktif empat jalur masing-masing diperlukan power amplifier yang dayanya berbeda dari daya terkecil tweeter sampai daya terbesar super woofer, juga diperlukan speaker yang diameternya berlainan pada masing-masing jalur frekuensi, diameter speaker terkecil tweeter dan diameter terbesar super woofer.
+
+Crossover aktif tiga jalur bisa juga dikombinasi untuk keperluan empat jalur jika spesifikasinya menunjang sistem empat jalur. Untuk menyetel supaya detail suara mendekati suara natural setelah semua peralatan dan tata kabel yang benar-benar ditata rapi, jika tata kabel tidak rapi bisa timbul osilasi dan distorsi yang bisa menurunkan kualitas suara.
+
+== Pranala luar ==
+* [http://www.howstuffworks.com/speaker.htm http://www.howstuffworks.com/speaker.htm]
+* ''Perkembangan Teknologi Komunikasi Audio Visual'', Angel Roberty
+{{komponen elektronika}}
+{{elektronik-stub}}
+
+[[Kategori:Pengeras suara| ]]

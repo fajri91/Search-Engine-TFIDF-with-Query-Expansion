@@ -1,0 +1,27 @@
+Berkas:TCUC poster.jpg
+{{dari|en}}
+== Penjelasan ==
+{{Non-free use rationale poster
+|Article           = Take Care of Us, Captain
+|Use               = Infobox
+|Media             = television drama
+<!-- ADDITIONAL INFORMATION -->
+|Name              = Take Care of Us, Captain
+|Distributor       = 
+|Publisher         = [[Seoul Broadcasting System]]
+|Type              = Promotional poster
+|Website           = http://tv.sbs.co.kr/captain/
+|Owner             = 
+|Commentary        = 
+<!--OVERRIDE FIELDS -->
+|Description       = Promotional image for TV series ''Take Care of Us, Captain''
+|Source            = 
+|Portion           = 
+|Low_resolution    = 
+|Purpose           = <!-- Must be specified if Use is not Infobox / Header / Section / Artist -->
+|Replaceability    = 
+|other_information = 
+}}
+
+== Lisensi ==
+{{Non-free poster|image has rationale=yes}}

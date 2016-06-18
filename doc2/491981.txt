@@ -1,0 +1,256 @@
+Piala Super Eropa 1977
+{{Infobox football match
+| title                   = Piala Super Eropa 1977
+| image                   = 
+| event                   = 
+| team1                   = [[Hamburger SV|Hamburg]]
+| team1association        = {{flagicon|GER|size=30px}}
+| team1score              = 1
+| team2                   = [[Liverpool F.C.|Liverpool]]
+| team2association        = {{flagicon|ENG|size=30px}}
+| team2score              = 7
+| details                 = 
+| firstleg                = Pertandingan pertama
+| team1score1             = 1
+| team2score1             = 1
+| date1                   = 22 November 1977
+| stadium1                = [[Volksparkstadion]]
+| city1                   = [[Hamburg]], [[Jerman]]
+| referee1                = [[Antnio Garrido (referee)|Antnio Garrido]] ({{asb|Portugal}})
+| attendance1             = 16.000
+| secondleg               = Pertandingan kedua
+| team1score2             = 0
+| team2score2             = 6
+| date2                   = 6 Desember 1977
+| stadium2                = [[Anfield]]
+| city2                   = [[Liverpool]], [[Inggris]]
+| referee2                = [[Ulf Eriksson]] ({{asb|Swedia}})
+| attendance2             = 34.931
+| previous                = [[Piala Super Eropa 1976|1976]]
+| next                    = [[Piala Super Eropa 1978|1978]]
+}}
+
+'''Piala Super Eropa 1977''' menjadi penyelenggaraan [[Piala Super Eropa]] yang keempat, mempertemukan antara dua juara bertahan dari kompetisi yang diselenggarakan oleh [[UEFA]] yaitu [[Piala Champions Eropa]] dan [[Piala Winners UEFA]]. Pertandingan akan mempertemukan antara juara [[Piala Champions Eropa 197677]], [[Liverpool F.C.|Liverpool]] dari [[Inggris]] dengan juara [[Piala Winners 197677]], [[Hamburger SV|Hamburg]] dari [[Jerman]], yang dilakukan dalam dua pertandingan pada 22 November 1977 dan 6 Desember 1977.
+
+Liverpool memenangkan Piala Super Eropa dengan mengalahkan Hamburg dengan total agragat 71 setelah menahan imbang 11 di Volksparkstadion dan menang telak dengan skor 60 di Anfield.
+{{TOCleft}}
+{{clear}}
+== Detail pertandingan ==
+=== Pertandingan pertama ===
+{{footballbox
+|date=22 November 1977
+|team1=[[Hamburger SV|Hamburg]] {{flagicon|GER}}
+|score=11
+|report=[http://www.uefa.com/uefasupercup/history/season=1977/index.html (Laporan)]
+|team2={{flagicon|ENG}} [[Liverpool F.C.|Liverpool]]
+|goals1= [[Ferdinand Keller (footballer)|Keller]] {{goal|29}}
+|goals2= [[David Fairclough|Fairclough]] {{goal|65}}
+|stadium=[[Volksparkstadion]], [[Hamburg]]
+|attendance=16.000<ref>{{cite web |url=http://www.lfchistory.net/SeasonArchive/Game/1001 |title=Hamburg SV 1  1 Liverpool |publisher=LFChistory.net |accessdate=14 December 2011}}</ref>
+|referee=[[Antnio Garrido (referee)|Antnio Garrido]] ({{asb|Portugal}}) }}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|colspan=4|
+|-
+!width=25| !!width=25|
+|-
+|GK || ||{{flagicon|GER}} [[Jrgen Stars]]
+|-
+|DF || ||{{flagicon|GER}} [[Hans-Jrgen Ripp]] 
+|-
+|DF || ||{{flagicon|YUG}} [[Ivan Buljan]] {{suboff|67}}
+|-
+|DF || ||{{flagicon|GER}} [[Manfred Kaltz]]
+|-
+|MF || ||{{flagicon|GER}} [[Kurt Eigl]]
+|-
+|MF || ||{{flagicon|GER}} [[Caspar Memering]]
+|-
+|MF || ||{{flagicon|GER}} [[Klaus Zaczyk]]
+|- 
+|MF || ||{{flagicon|GER}} [[Felix Magath]] {{suboff|64}}
+|-
+|FW || ||{{flagicon|ENG}} [[Kevin Keegan]]
+|-
+|FW || ||{{flagicon|GER}} [[Ferdinand Keller (footballer)|Ferdinand Keller]]
+|-
+|MF || ||{{flagicon|GER}} [[Arno Steffenhagen]]
+|-
+|colspan=2|'''Pergantian pemain:'''
+|-
+|DF || ||{{flagicon|GER}} [[Andreas Karow]] {{subon|67}}
+|-
+|MF || ||{{flagicon|GER}} [[Horst Bertl]] {{subon|64}}
+|-
+
+|colspan=3|'''Manajer:'''
+|-
+|colspan=4|{{flagicon|TUR}} [[Arko zcan]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ENG}} [[Ray Clemence]]
+|-
+|RB ||'''2''' ||{{flagicon|ENG}} [[Phil Neal]] 
+|-
+|LB ||'''3''' ||{{flagicon|WAL}} [[Joey Jones]] || || {{suboff|33}}
+|-
+|CB ||'''4''' ||{{flagicon|ENG}} [[Phil Thompson]]
+|-
+|LM ||'''5''' ||{{flagicon|ENG}} [[Ray Kennedy]]
+|-
+|CB ||'''6''' ||{{flagicon|ENG}} [[Emlyn Hughes]]
+|-
+|CF ||'''7''' ||{{flagicon|SCO}} [[Kenny Dalglish]] 
+|-
+|CM ||'''8''' ||{{flagicon|ENG}} [[Jimmy Case]] || || {{suboff|58}}
+|-
+|RM ||'''9''' ||{{flagicon|IRL}} [[Steve Heighway]]
+|-
+|CF ||'''10'''||{{flagicon|ENG}} [[David Fairclough]]
+|-
+|CM ||'''11'''||{{flagicon|ENG}} [[Ian Callaghan]]
+|-
+|colspan=3|'''Pemain pengganti:''' 
+|-
+|DF ||'''12''' ||{{flagicon|ENG}} [[Tommy Smith (footballer born 1945)|Tommy Smith]] || || {{subon|33}}
+|-
+|FW ||'''13''' ||{{flagicon|ENG}} [[David Johnson (footballer born 1951)|David Johnson]] || || {{subon|58}}
+|-
+|MF ||'''14''' ||{{flagicon|ENG}} [[Terry McDermott]]
+|-
+|FW ||'''15''' ||{{flagicon|WAL}} [[John Toshack]]
+|-
+|GK ||'''16''' ||{{flagicon|ENG}} [[Peter McDonnell]]
+|-
+|colspan=3|'''Manajer:''' 
+|-
+|colspan=4|{{flagicon|ENG}} [[Bob Paisley]]
+|}
+|}
+
+===Pertandingan kedua===
+{{footballbox
+|date=6 Desember 1977
+|team1=[[Liverpool F.C.|Liverpool]] {{flagicon|ENG}}
+|score=60
+|report=[http://www.uefa.com/uefasupercup/history/season=1977/index.html (Laporan)]
+|team2={{flagicon|GER}} [[Hamburger SV|Hamburg]]
+|goals1=[[Phil Thompson|Thompson]] {{goal|21}}<br />[[Terry McDermott|McDermott]] {{goal|40}} {{goal|55}} {{goal|56}}<br/>[[David Fairclough|Fairclough]] {{goal|86}}<br/>[[Kenny Dalglish|Dalglish]] {{goal|88}}
+|goals2=
+|stadium=[[Anfield]], [[Liverpool]]
+|attendance=34.931<ref>{{cite web |url=http://www.lfchistory.net/SeasonArchive/Game/1005 |title=Liverpool 6  0 Hamburg SV |publisher=LFChistory.net |accessdate=14 December 2011}}</ref>
+|referee=[[Ulf Eriksson]] ({{asb|Swedia}}) }}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|colspan=4|
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ENG}} [[Ray Clemence]]
+|-
+|RB ||'''2''' ||{{flagicon|ENG}} [[Phil Neal]] 
+|-
+|LB ||'''3''' ||{{flagicon|ENG}} [[Tommy Smith (footballer born 1945)|Tommy Smith]]
+|-
+|CB ||'''4''' ||{{flagicon|ENG}} [[Phil Thompson]]
+|-
+|LM ||'''5''' ||{{flagicon|ENG}} [[Ray Kennedy]]
+|-
+|CB ||'''6''' ||{{flagicon|ENG}} [[Emlyn Hughes]]
+|-
+|CF ||'''7''' ||{{flagicon|SCO}} [[Kenny Dalglish]] 
+|-
+|CM ||'''8''' ||{{flagicon|ENG}} [[Terry McDermott]]
+|-
+|RM ||'''9''' ||{{flagicon|IRL}} [[Steve Heighway]] || || {{suboff|46}}
+|-
+|CF ||'''10'''||{{flagicon|ENG}} [[David Fairclough]]
+|-
+|CM ||'''11'''||{{flagicon|ENG}} [[Jimmy Case]]
+|-
+|colspan=3|'''Pemain pengganti:''' 
+|-
+|FW ||'''12''' ||{{flagicon|ENG}} [[David Johnson (footballer born 1951)|David Johnson]] || || {{subon|46}}
+|-
+|FW ||'''13''' ||{{flagicon|WAL}} [[John Toshack]]
+|-
+|DF ||'''14''' ||{{flagicon|SCO}} [[Alan Hansen]]
+|-
+|DF ||'''15''' ||{{flagicon|WAL}} [[Joey Jones]]
+|-
+|GK ||'''16''' ||{{flagicon|ENG}} [[Peter McDonnell]]
+|-
+|colspan=3|'''Manajer:''' 
+|-
+|colspan=4|{{flagicon|ENG}} [[Bob Paisley]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width=25| !!width=25|
+|-
+|GK || ||{{flagicon|GER}} [[Rudi Kargus]]
+|-
+|DF || ||{{flagicon|GER}} [[Hans-Jrgen Ripp]]
+|-
+|DF || ||{{flagicon|GER}} [[Manfred Kaltz]]
+|-
+|DF || ||{{flagicon|GER}} [[Peter Nogly]]
+|-
+|DF || ||{{flagicon|GER}} [[Peter Hidien]]
+|-
+|MF || ||{{flagicon|GER}} [[Klaus Zaczyk]] {{suboff|69}}
+|-
+|MF || ||{{flagicon|GER}} [[Horst Bertl]]
+|- 
+|MF || ||{{flagicon|GER}} [[Felix Magath]] 
+|-
+|FW || ||{{flagicon|ENG}} [[Kevin Keegan]]
+|-
+|FW || ||{{flagicon|GER}} [[Ferdinand Keller (footballer)|Ferdinand Keller]] {{suboff|69}}
+|-
+|FW || ||{{flagicon|GER}} [[Georg Volkert]]
+|-
+|colspan=2|'''Pergantian pemain:'''
+|-
+|MF || ||{{flagicon|GER}} [[Kurt Eigl]] {{subon|69}}
+|-
+|MF || ||{{flagicon|GER}} [[Arno Steffenhagen]] {{subon|69}}
+|-
+|colspan=3|'''Manajer:'''
+|-
+|colspan=4|{{flagicon|TUR}} [[Arko zcan]]
+|}
+|}
+
+== Lihat juga ==
+*[[Piala Champions Eropa 197677]]
+*[[Piala Winners UEFA 197677]]
+
+== Referensi ==
+{{reflist}}
+
+==Pranala Luar==
+* [http://www.uefa.com/uefasupercup/history/season=1977/index.html Summary] from [[UEFA]].com
+* [http://www.rsssf.com/ec/ec197677.html#sc Summary] from [[RSSSF]]
+
+{{Piala Super UEFA}}
+
+[[Kategori:Piala Super UEFA|1977]]
+[[Kategori:Sepak bola dalam tahun 1977|Piala Super UEFA]]
+[[Kategori:Hamburger SV]]
+[[Kategori:Liverpool F.C.]]
+[[Kategori:Jerman dalam tahun 1977]]
+[[Kategori:Inggris dalam tahun 1977]]
+[[Kategori:Sepak bola di Jerman]]
+[[Kategori:Sepak bola di Inggris]]

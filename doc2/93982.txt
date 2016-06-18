@@ -1,0 +1,14 @@
+Berkas:Pomfrey.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+[[Madam Pomfrey]] dalam film [[Harry Potter and the Chamber of Secrets (film)|Harry Potter and the Chamber of Secrets]]''
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Cuplikan-film}}

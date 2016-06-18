@@ -1,0 +1,36 @@
+Stasiun Plered
+{{bukan|Pleret, Bantul}}
+{{infobox stasiun
+|image=IMG Plered.jpg
+|caption=
+|name=Plered
+|prov=Jawa Barat
+|kabupaten=Purwakarta
+|kecamatan kabupaten=Plered 
+|desa=Plered
+|kodepos=41162
+|kode=PLD
+|tinggi=+325 m
+|operator=[[Daerah Operasi II Bandung]]
+}}
+'''Stasiun Plered''' ('''PLD''', +325 m [[elevasi|dpl]]) adalah sebuah [[stasiun kereta api]]  yang terletak di [[Plered, Plered, Purwakarta]]. tak jauh dari stasiun ini terdapat Pasar [[Plered, Purwakarta|Plered]] dan Jalan raya Plered-Purwakarta. Stasiun ini memiliki 2 jalur rel dengan jalur 1 sebagai sepur lurus. Petak jalur yang berasal dari Stasiun Plered menuju ke Stasiun Sukatani masih berupa [[jalur tunggal]], sedangkan yang menuju ke Stasiun Cisomang sudah berupa [[jalur ganda]].
+
+
+== Kereta Api ==
+* [[Kereta api Simandra|Kereta api Lokal Cibatuan]] tujuan [[Stasiun Cibatu|Cibatu]] - [[Stasiun Purwakarta|Purwakarta]].  
+
+<center>
+{|class=wikitable style=text-align:center
+|-
+!Stasiun sebelumnya:
+|rowspan=2|[[Jalur kereta api Cikampek-Padalarang]]
+!Stasiun berikutnya:
+|-
+|[[Stasiun Sukatani]]
+|[[Stasiun Cisomang]]
+|}
+</center>
+
+{{coord|-6.641000|107.391300|display=title}}
+[[Kategori:Stasiun kereta api di Jawa Barat|Plered]]
+[[Kategori:Plered, Purwakarta]]

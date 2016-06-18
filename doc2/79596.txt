@@ -1,0 +1,10 @@
+Templat:World Heritage Sites in Mexico
+<div class="NavFrame" style="background-color:#f7f8ff;clear:both;margin-top:1em;margin-bottom:1em;">
+<div class="NavHead" style="background-color:#ccccff; padding:3px; border:1px solid #aaaaaa;">[[Image:Flag of Mexico.svg|30px|left|Bendera Meksiko]] [[Situs Warisan Dunia]] di [[Meksiko]]</div>
+<div class="NavContent" style="font-size:90%;">
+[[Tequila, Jalisco|Lanskap Agave Tequila]] | [[Calakmul]] | [[Campeche, Campeche|Campeche]] | [[Chichen Itza]] | [[El Tajn]] | [[Misi Fransiskan di Sierra Gorda]] | [[Guanajuato, Guanajuato|Guanajuato dan Tambang di Dekatnya]] | [[Hospicio Cabaas|Hospicio Cabaas, Guadalajara]] | [[Pulau-pulau dan Cagar Alam di Teluk California]] | [[Rumah dan Studio Luis Barragn]] | [[Pusat Bersejarah Kota Meksiko]] dan [[Xochimilco]] | [[Biara Popocatpetl]] | [[Morelia]] | [[Oaxaca, Oaxaca|Oaxaca]] dan [[Monte Albn]] | [[Palenque]] | [[Casas Grandes|Paquim, Casas Grandes]] | [[Puebla, Puebla|Puebla]] | [[Santiago de Quertaro|Quertaro]] | [[Lukisan di Batu-batu Sierra de San Francisco]] | [[Sian Ka'an]] | [[Teotihuacn]] | [[Tlacotalpan]] | [[Uxmal]] | [[Perlindungan Ikan paus El Vizcaino]] | [[Xochicalco]] | [[Zacatecas, Zacatecas|Zacatecas]]
+</div>
+</div>
+<noinclude>
+[[Kategori:Templat Meksiko|{{PAGENAME}}]]
+</noinclude>

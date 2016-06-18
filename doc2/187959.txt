@@ -1,0 +1,21 @@
+Schoepfiaceae
+{{Taxobox
+| name = Schoepfiaceae
+| image = Quinchamalium chilense Molina.(pabloendemico).jpg
+| image_caption = ''Quinchamalium chilense''
+|regnum = [[Plantae]]
+|divisio = [[Magnoliophyta]]
+|unranked_classis = [[Eudikotil]]
+|unranked_ordo = [[Core Eudikotil]]
+|ordo = [[Santalales]]
+| familia = '''Schoepfiaceae'''
+| familia_authority = 
+| subdivision_ranks = Genera
+| subdivision = Lihat teks
+}}
+'''Schoepfiaceae''' adalah salah satu [[familia|suku]] anggota [[tumbuhan berbunga]]. Menurut [[Sistem klasifikasi APG II]], suku ini tidak dikenal, namun genus ''Schoepfia'' dimasukkan ke dalam suku [[Olacaceae]], ordo Santalales, [[klad]] '''dikotil sejati inti''' ('''[[core Eudikotil]]''') dan tidak termasuk ke dalam dua kelompok klad besar, '''[[Rosidae]]''' dan '''[[asterids]]'''. Baru setelah penelitian lebih lanjut suku ini dibentuk, memasukkan pula dua genus lain dari [[Santalaceae]] (''Arjona'' dan ''Quinchamalium'').
+ 
+{{commons|Schoepfiaceae}}
+{{botani-stub}}
+
+[[Kategori:Schoepfiaceae| ]]

@@ -1,0 +1,16 @@
+Templat:Pasar menurut organisasi
+{{Navbox
+| name       = Pasar menurut organisasi
+| title      = Klasifikasi [[pasar]] menurut organisasinya
+| listclass  = hlist
+| state      = {{{state|}}}
+
+| list1      = 
+*[[Pasar persaingan sempurna|Persaingan sempurna]]
+*[[Pasar persaingan tidak sempurna|Persaingan tidak sempurna]]
+**[[Monopoli]]
+**[[Oligopoli]]
+**[[Monopsoni]]
+**[[Oligopsoni]]
+**[[Pasar monopolistik|Monopolistik]]
+}}

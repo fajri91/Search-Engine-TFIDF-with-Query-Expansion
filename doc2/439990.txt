@@ -1,0 +1,16 @@
+Templat:Tambora, Bima
+{{Navigasi ID Desa
+|provinsi=Nusa Tenggara Barat
+|dati2=Kabupaten
+|nama dati2=Bima
+|nama kecamatan=Tambora
+|d1=Kawinda Nae
+|d2=Kawinda Toi
+|d3=Labuhan Kananga
+|d4=Oi Bura
+|d5=Oi Panihi
+}}
+<noinclude>
+[[Kategori:Templat desa/kelurahan di Nusa Tenggara Barat|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Bima|{{PAGENAME}}]]
+</noinclude>

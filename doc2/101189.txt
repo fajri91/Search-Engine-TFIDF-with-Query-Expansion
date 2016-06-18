@@ -1,0 +1,9 @@
+Perangkat tegar
+[[Berkas:ROM BIOS.jpg|thumb|[[ROM]] [[BIOS]] merupakan contoh perangkat tegar yang berada pada [[papan induk]] sebuah [[komputer]]]]
+
+'''Perangkat tegar''' ([[bahasa Inggris]]:'''''Firmware''''') adalah istilah yang mengacu kepada rutin-rutin [[perangkat lunak]] yang disimpan di dalam [[Memori Hanya Baca]]. Tidak seperti [[Memori Akses Acak]], MHB tidak akan dapat berubah meski tidak dialiri [[listrik]]. Rutin-rutin yang mampu menyalakan komputer (''startup'') serta instruksi input/output dasar (semacam [[BIOS]] atau [[sistem operasi]] [[sistem embedded|''embedded'']]) disimpan di dalam perangkat tegar. Modifikasi memang dapat dilakukan, tetapi hal tersebut tergantung dari jenis ROM apa yang digunakan. perangkat tegar yang disimpan dalam ROM tidak dapat diubah, tetapi perangkat tegar yang disimpan dalam ROM yang dapat diubah semacam [[EEPROM]] atau [[Flash ROM]], masih dapat diubah sesuka hati.
+
+{{computer-stub}}
+
+[[Kategori:Firmware| ]]
+[[Kategori:Sistem benam]]

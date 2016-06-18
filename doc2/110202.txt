@@ -1,0 +1,39 @@
+Racing Club de Avellaneda
+{{Football club infobox |
+ clubname = Racing Club |
+ image = [[Berkas:Racing Club (2014).svg|120px]]|
+ fullname = Racing Club de Avellaneda|
+ nickname = ''La Academia'' |
+ founded = [[25]] [[Maret]], [[1903]] |
+ ground = [[Stadion Juan Domingo Pern]],{{br}}''El Cilindro de Avellaneda {{br}} (Silinder Avellaneda)'',{{br}}[[Avellaneda]], [[Provinsi Buenos Aires]] |
+ capacity = 64,161 | 
+ chairman = {{negara|Argentina}} Fernando de Tomasso |
+ manager = {{negara|Argentina}} Gustavo Costas |
+ league = Liga Utama Argentina |
+ season = Clausura 2007 |
+ position = 13 Klasemen|
+ shirtsupplier = [[Nike (sports)|Nike]]|
+ shirtsponsors = [[Macro]]|
+|pattern_la1=_racing2014h|pattern_b1=_racing2014h|pattern_ra1=_racing2014h|pattern_sh1=|leftarm1=7DBEFF|body1=0089ff|rightarm1=7DBEFF|shorts1=FFFFFF|socks1=FFFFFF
+|pattern_la2=_racing2014a|pattern_b2=_racing2014a|pattern_ra2=_racing2014a|pattern_sh2=|leftarm2=000000|body2=000000|rightarm2=000000|shorts2=000000|socks2=000000
+}}
+
+'''Racing Club''' adalah klub sepak bola yang berbasis di kota [[Avellaneda]], [[Provinsi Buenos Aires]], [[Argentina]]. Prestasi terbaik dari Racing Club adalah di dekade tahun 1960an dengan menjadi juara Piala Libertadores dan Piala Interkontinental, Setelah itu prestasi klub merosot tajam dan hanya sekali menjadi juara Apertura 2001.
+
+== Prestasi ==
+* '''17 Liga Utama Argentina:'''
+:[[1913]], [[1914]], [[1915]], [[1916]], [[1917]], [[1918]], [[1919]], [[1921]], [[1925]], [[1949]], [[1950]], [[1951]], [[1958]], [[1961]], [[1966]], A[[1988]], A[[2001]].<small><ref>[http://www.afa.org.ar/?m=news&n=1599&idm=12 AFA]</ref><ref>[http://www.rsssf.com/tablesa/arg89.html RSSSF]</ref></small>
+* '''1 [[Piala Libertadores]]:'''
+:[[1967]]
+* '''1 [[Piala Interkontinental]]:'''
+:[[1967]]
+* '''1 [[a|Superpiala Sudamericana]]:'''
+:[[1988]]
+* '''1 [[a|Superpiala Interamericana]]:'''
+:[[1988]]
+
+== Referensi ==
+{{reflist}}
+{{klub-sb-stub}}
+
+[[Kategori:Tim sepak bola Argentina]]

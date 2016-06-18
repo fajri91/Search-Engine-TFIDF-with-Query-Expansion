@@ -1,0 +1,32 @@
+Larsia curticalcar
+{{Taxobox
+|name = Larsia curticalcar
+|status = 
+|image = 
+|image_caption = 
+|domain = 
+|regnum = [[Animalia]]
+|phylum = [[Arthropoda]]
+|classis = [[Insecta]]
+|ordo = [[Diptera]]
+|familia = [[Chironomidae]]
+|genus = [[Larsia]]
+|species = Larsia curticalcar
+|range_map = 
+|range_map_caption = 
+|image2 = 
+|image2_caption = 
+}}
+'''''Larsia curticalcar''''' adalah spesies lalat yang berasal dari [[genus]] [[Larsia]] dan [[familia]] [[Chironomidae]]. Lalat ini juga merupakan bagian dari ordo [[Diptera]], kelas [[Insecta]], filum [[Arthropoda]], dan kingdom [[Animalia]].
+
+Lalat ini dapat ditemukan habitatnya di perairan maupun semiperairan.
+
+== Referensi ==
+
+* Bisby F.A., Roskov Y.R., Orrell T.M., Nicolson D., Paglinawan L.E., Bailly N., Kirk P.M., Bourgoin T., Baillargeon G., Ouvrard D. (red.) (2011). "Species 2000 & ITIS Catalogue of Life: 2011 Annual Checklist.". Species 2000: Reading, UK. Diakses pada 24 September 2012.
+
+{{DEFAULTSORT:Larsia curticalcar}}
+
+[[Kategori:Chironomidae]]
+
+{{lalat-stub}}

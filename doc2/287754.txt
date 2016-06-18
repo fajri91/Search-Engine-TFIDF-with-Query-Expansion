@@ -1,0 +1,47 @@
+Lee De Forest
+{{Infobox person
+|name = Lee De Forest
+|image = Lee De Forest.jpg
+|caption = 
+|birth_date = {{birth date|1873|8|26|mf=y}} 
+|birth_place = [[Council Bluffs, Iowa]]
+|death_date = {{death date and age|1961|6|30|1873|8|26|mf=y}}
+|death_place = [[Hollywood, Los Angeles, California]]
+|occupation = [[Inventor]] 
+|salary = 
+|parents = Henry Swift DeForest<br />Anna Robbins
+|spouse ={{marriage|Lucille Sheardown |1906}}<br />[[Nora Stanton Blatch Barney]] (m. 1907-1911)<br />Mary Mayo (m. 1912-?)
+<br />[[Marie Mosquini]] (m. 1930-1961)
+|relatives = [[Calvert DeForest]], grandnephew
+|footnotes = 
+|known_for= [[triode]]
+}}
+
+'''Lee DeForest''' ({{lahirmati||26|8|1873||30|6|1961}}) adalah seorang [[ahli]] [[fisika]] dari [[Amerika Serikat]] yang berhasil menemukan [[triode]] atau [[tabung]] [[audion]] pada tahun [[1906]].<ref name="Media" > [[Media:1900 census DeForest.jpg|Lee De Forest in the]] [[1900 US Census]] in [[Milwaukee|Milwaukee, Wisconsin]]</ref>
+
+== Kehidupan ==
+Ia merupakan salah orang yang ikut berjasa dalam perkembangan [[teknologi]] [[radio]] selain [[Marconi]].<ref name="Media" /> Ia sering disebut sebagai bapak [[radio]], [[kakek]] [[televisi]], [[doktor]] [[fisika]], serta telah berhasil menciptakan 300 [[penemuan]].<ref name="Media" />
+
+[[Triode]] atau [[tabung]] [[audion]] adalah sebuah alat penting yang banyak digunakan pada [[radio]],[[telepon]], [[radar]], [[televisi]], dan [[komputer]].<ref name="Media" /> Pada tahun [[1912]], De Forest menemukan bahwa [[triode]] atau [[tabung]] [[audion]] dapat dipakai sebagai penguat [[sinyal]] [[listrik]] dan pembangkit [[osilasi]].<ref>''The De Forest Wireless Telegraphy Tower: Bulletin No. 1'', Summer 1904.</ref> Saat itu triode banyak digunakan dalam berbagai [[alat]] [[komunikasi]], namun sejak tahun [[1947]] [[triode]] diganti oleh [[teknologi]] [[transistor]]<ref>[http://archives.metoperafamily.org/archives/frame.htm The MetOpera Database (archives)]</ref>. Meskipun [[teknologi]] [[triode]] yang ia ciptakan terganti dengan teknologi yang lain, namun De Forest tetap dianggap sebagai tokoh terkemuka di bidang [[elektronik]].<ref name="census" >[[Media:1920 census DeForest.jpg|Lee De Forest in the]] [[1920 US Census]] in the [[Bronx, New York]]</ref>
+
+De forest terlahir dari [[keluarga]] [[pendeta]]. Ayahnya merupakan seorang [[pendeta]] fanatik yang menginginkan dan menyiapkan De Forest untuk menjadi [[pendeta]] seperti dirinya.<ref name="census" /> Ketika berusia 6 tahun, ia bersama keluarganya pindah ke [[Alabama]].<ref name="census" /> Sebagai seorang [[pendeta]] yang baik, [[keluarga]] De Forest selalu membela [[kaum]] yang lebih lemah.<ref name="census" /> Ayah De Forest mendirikan [[sekolah]] untuk orang-orang negro meskipun mendapatkan tentangan yang besar dari orang-orang kulit putih.<ref name="census" />
+
+== Referensi ==
+
+{{Reflist}}
+
+== Pranalar luar ==
+{{wikiquote}}
+* [http://www.leedeforest.org Lee de Forest, American Inventor]
+* [http://www.deforestradio.com Dr. Lee De Forest internet radio project & forum]
+* {{imdb name|0208418}}
+* [http://www.ieee.org/web/aboutus/history_center/biography/deforest.html Lee De Forest] at [[IEEE]]
+* [http://www.invent.org/hall_of_fame/40.html Lee De Forest] at [[National Inventors Hall of Fame]]
+* [http://www.youtube.com/watch?v=aZR9KdkMlhM De Forest Phonofilm Sound Movie with Eddie Cantor (1923)]
+* [http://web.archive.org/20041206080223/www.geocities.com/lyon95065/Radio.html Stephen Greene's ''Who said Lee de Forest was the "Father of Radio"?'']
+* Eugenii Katz's [http://chem.ch.huji.ac.il/~eugeniik/history/deforest.htm Lee De Forest]
+* Cole, A. B., "''[http://earlyradiohistory.us/audi1916.htm Practical Pointers on the Audion]: Sales Manager - De Forest Radio Tel. & Tel. Co.''", QST, March, 1916, pages 4144:
+* Hong, Sungook, "''[http://www.ieee.org/organizations/history_center/Che2004/Hong.pdf A History of the Regeneration Circuit: From Invention to Patent Litigation]''" University, Seoul, Korea (PDF)
+* [[PBS]], "[http://www.pbs.org/transistor/quicktimes/movieclips/monkeysVIDEO/monkeysVIDEO_MSTR.mov ''Monkeys'']"; a film on the Audion operation ([[QuickTime]] movie)
+
+{{Negara-bio-stub|Amerika Serikat}}

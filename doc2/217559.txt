@@ -1,0 +1,53 @@
+Let's Play
+{{Album infobox
+| Name        = Let's Play
+| Type        = studio
+| Artist      = [[Nidji]]
+| Cover       = Let's Play.jpg
+| Released    = [[2009]]
+| Recorded    = 
+| Genre       = [[Pop rock]]
+| Length      = {{duration|m=41|s=41}}
+| Label       = [[Musica Studios]]
+| Producer    = 
+| Last album  = ''[[Top Up]]''<br>(2007)
+| This album  = '''''Let's Play'''''<br>(2009)
+| Next album  = ''[[Liberty (album Nidji)|Liberty]]<br>(2011)
+}}
+
+'''''Let's Play''''' adalah [[album studio]] ketiga karya [[Nidji]]. Album ini dirilis pada tahun [[2009]] melalui [[Musica Studios]]. Singel yang dirilis dari album ini antara lain "[[Sang Mantan]]", "[[Ku Takkan Bisa]]", dan "[[Dosakah Aku]]".
+
+== Daftar lagu ==
+{{tracklist
+| total_length = 41:41
+| title1   = [[Sang Mantan]]
+| length1  = 3:53
+| title2   = [[Ku Takkan Bisa]]
+| length2  = 3:45
+| title3   = [[Dosakah Aku]]
+| length3  = 4:07
+| title4   = Lost in Love
+| length4  = 3:26
+| title5   = Let's Play
+| length5  = 3:26
+| title6   = Rela Berkata
+| length6  = 3:44
+| title7   = Tak Terjamah
+| length7  = 4:08
+| title8   = Hari yang Terindah
+| length8  = 3:16
+| title9   = Pahlawan Mimpi
+| length9  = 4:04
+| title10  = Saat yang Tepat
+| length10 = 3:54
+| title11  = Today
+| length11 = 3:53
+}}
+
+
+{{indo-album-stub}}
+
+{{Nidji}}
+
+[[Kategori:Album tahun 2009]]
+[[Kategori:Album Nidji]]

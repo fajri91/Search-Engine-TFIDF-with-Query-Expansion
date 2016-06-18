@@ -1,0 +1,11 @@
+Templat:Pengguna Muslim
+{{userbox|#008000|#74C365|[[Berkas:Allah1.png|50px]]|<center>Pengguna ini adalah seorang '''[[Muslim|<font color=white>Muslim</font>]]'''|logo-size=25|border-color=#343434}}{{#if:{{{kat|}}}||<includeonly>
+[[Kategori:Pengguna Muslim|{{PAGENAME}}]]
+</includeonly>}}
+<!--INI ADALAH BARIS TERAKHIR DARI KODE TEMPLAT-->
+
+<noinclude>
+<br clear=all>
+<!-- PENAMBAHAN KATEGORI DAN INTERWIKI LETAKKAN DI SUB-HALAMAN /DOC, BUKAN DI SINI! -->
+{{documentation}}
+</noinclude>

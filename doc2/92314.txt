@@ -1,0 +1,47 @@
+Register prosesor
+'''Register prosesor''', dalam [[arsitektur komputer]], adalah sejumlah kecil [[memori (komputer)|memori]] [[komputer]] yang bekerja dengan kecepatan sangat tinggi yang digunakan untuk melakukan eksekusi terhadap [[program|program-program]] komputer dengan menyediakan akses yang cepat terhadap nilai-nilai yang umum digunakan. Umumnya nilai-nilai yang umum digunakan adalah nilai yang sedang dieksekusi dalam waktu tertentu.
+
+Register prosesor berdiri pada tingkat tertinggi dalam [[hierarki memori]]: ini berarti bahwa kecepatannya adalah yang paling cepat; kapasitasnya adalah paling kecil; dan harga tiap bitnya adalah paling tinggi. Register juga digunakan sebagai cara yang paling cepat dalam sistem komputer untuk melakukan manipulasi [[data]]. Register umumnya diukur dengan satuan [[bit]] yang dapat ditampung olehnya, seperti "register 8-bit", "register 16-bit", "register 32-bit", atau "register 64-bit" dan lain-lain. 
+
+Istilah register saat ini dapat merujuk kepada kumpulan register yang dapat diindeks secara langsung untuk melakukan input/output terhadap sebuah instruksi yang didefinisikan oleh [[Set Instruksi|set instruksi]]. untuk istilah ini, digunakanlah kata "Register Arsitektur". Sebagai contoh [[set instruksi]] [[x86|Intel x86]] mendefinisikan sekumpulan delapan buah register dengan ukuran 32-bit, tapi CPU yang mengimplementasikan set instruksi x86 dapat mengandung lebih dari delapan register 32-bit. 
+
+== Jenis register ==
+Register terbagi menjadi beberapa kelas:
+* '''Register data''', yang digunakan untuk menyimpan angka-angka dalam bilangan bulat (integer). 
+* '''Register alamat''', yang digunakan untuk menyimpan alamat-alamat memori dan juga untuk mengakses memori. 
+* '''Register ''general purpose''''', yang dapat digunakan untuk menyimpan angka dan alamat secara sekaligus.
+* '''Register ''floating-point''''', yang digunakan untuk menyimpan angka-angka bilangan titik mengambang ([[floating-point]]).
+* '''Register konstanta''' (''constant register''), yang digunakan untuk menyimpan angka-angka tetap yang hanya dapat dibaca (bersifat ''read-only''), semacam ''phi'', ''null'', ''true'', ''false'' dan lainnya.
+* '''Register vektor''', yang digunakan untuk menyimpan hasil pemrosesan vektor yang dilakukan oleh [[mikroprosesor|prosesor]] [[SIMD]].
+* '''Register ''special purpose''''' yang dapat digunakan untuk menyimpan data internal prosesor, seperti halnya instruction pointer, stack pointer, dan status register.
+* '''Register yang spesifik terhadap model mesin''' (''machine-specific register''), dalam beberapa arsitektur tertentu, digunakan untuk menyimpan data atau pengaturan yang berkaitan dengan prosesor itu sendiri. Karena arti dari setiap register langsung dimasukkan ke dalam desain prosesor tertentu saja, mungkin register jenis ini tidak menjadi standar antara generasi prosesor.
+
+== Ukuran register ==
+Tabel berikit berisi ukuran register dan padanan prosesornya
+{| class="wikitable"
+|-
+! Register
+! Prosesor
+|-
+| 4-bit
+| [[Intel 4004]]
+|-
+| 8-bit
+| [[Intel 8080]]
+|-
+| 16-bit
+| [[Intel 8086]], [[Intel 8088]], [[Intel 80286]]
+|-
+| 32-bit
+| [[Intel 80386]], [[Intel 80486]], [[Intel Pentium Pro]], [[Intel Pentium]], [[Intel Pentium II|Intel Pentium 2]], [[Intel Pentium III|Intel Pentium 3]], [[Intel Pentium 4]], [[Intel Celeron]], [[Intel Xeon]], [[AMD K5]], [[AMD K6]], [[AMD Athlon]], [[AMD Athlon MP]], [[AMD Athlon XP]], [[AMD Athlon 4]], [[AMD Duron]], [[AMD Sempron]]
+|-
+| 64-bit
+| [[Intel Itanium]], [[Intel Itanium 2]], [[Intel Xeon]], [[Intel Core]], [[Intel Core 2]], [[AMD Athlon 64]], [[AMD Athlon X2]], [[AMD Athlon FX]], [[AMD Turion 64]], [[AMD Turion X2]], [[AMD Sempron]]
+|-
+|}
+
+<!--Sumber: Wikipedia Bahasa Inggris. Belum diterjemahkan seluruhnya-->
+<!--Kategori: prosesor, arsitektur komputer, elektronika digital -->
+{{komputer-stub}}
+
+[[Kategori:CPU]]

@@ -1,0 +1,10 @@
+Templat:US-CEO-stub
+{{asbox
+| image     = Crystal personal.svg
+| pix       = 20
+| subject   = 
+| qualifier = kepala eksekutif dari Amerika Serikat
+| category  = Rintisan bertopik kepala eksekutif Amerika Serikat
+| tempsort  =  
+| name      = Templat:AS-CEO-stub
+}}

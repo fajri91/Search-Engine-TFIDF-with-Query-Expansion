@@ -1,0 +1,23 @@
+Templat:Pengguna teridentifikasi/doc
+{{Documentation subpage}}
+<!-- Categories and interwikis go at the bottom of this page. -->
+== Penggunaan ==
+
+# Kunjungi [[meta:Identification noticeboard]], cari nama pengguna Anda di daftar yang ada, lalu klik "diff".
+# Lihat pada bilah alamat (''address bar'') di penjelajah web Anda dan salin angka "diff" (angka tersebut muncul di antara "<code>&diff=</code>" dan "<code>&diffonly=yes</code>").
+# Letakkan templat ini pada halaman pengguna Anda, dengan cara mengetikkan: <code>{{((}}Pengguna teridentifikasi|{{color|red|diff}}{{))}}</code> di mana <code>{{color|red|diff}}</code> adalah angka yang Anda salin di tahap sebelumnya.
+#: Jika Anda tidak memasukkan parameter, pranala "verifikasi" akan mengarah ke [[meta:Identification noticeboard|halaman identifikasi]].
+# Anda dapat menambahkan beberapa parameter opsional setelah "diff": <code>|background<nowiki>=</nowiki><var>[[Warna web#Warna-warna CSS|warna CSS]]</var>|border<nowiki>=</nowiki><var>[[Warna web#Warna-warna CSS|warna CSS]]</var>|<var>align<nowiki>=</nowiki>left</var>|rounded<nowiki>=</nowiki><var>no/yes</var>}}</code>
+#:Parameter "background", jika tidak disertakan akan menjadi #E0E8EF (<span style="background-color: #E0E8EF;">abu-abu gelap</span>, lihat [[Warna web#Triplet RGB]])
+#:Parameter "border", jika tidak disertakan akan menjadi #E0E8EF.
+#:Parameter "align", jika tidak disertakan posisi akan mengarah ke kiri.
+#:Parameter "rounded", jika tidak disertakan maka tidak aktif.
+
+== Lihat juga ==
+* [[Templat:Pengguna teridentifikasi/Userbox]], format [[Wikipedia:Kotak pengguna|kotak pengguna]] dari templat ini.
+
+<includeonly>
+
+<!-- Categories and interwikis go here: -->
+
+</includeonly>

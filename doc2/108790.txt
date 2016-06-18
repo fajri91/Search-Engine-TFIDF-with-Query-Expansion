@@ -1,0 +1,79 @@
+Sistem operasi bertipe Unix
+[[Berkas:Unix-history.svg|thumb|200px|Diagram of the relationships between several Unix-like systems]]
+
+'''Sistem operasi bertipe Unix''' ([[bahasa Inggris|Inggris]]: ''Unix-like'') adalah [[sistem operasi]] yang memiliki cara kerja mirip [[Unix]] walaupun tidak selalu berspesifikasi ''[[Single UNIX Specification]]''. Istilah ini juga termasuk [[sistem operasi]] [[perangkat lunak bebas|bebas]]/[[perangkat lunak sumber terbuka|sumber terbuka]] yang diinspirasi oleh [[Unix]] Bell Labs atau yang didesain untuk mengemulasikan beberapa fiturnya, [[perangkat lunak tak bebas]] yang komersial, dan versi yang berbasis kode sumber Unix yang berlisensi. Walaupun demikian tidak ada definisi formal standar untuk istilah ini.
+
+== Sejarah ==
+Sistem operasi bertipe Unix mulai ada sejak akhir [[1970-an]] dan awal [[1980-an]]. Banyak versi dengan [[perangkat lunak milik perorangan|hak kepemilikan]], seperti Idris (1978), UNOS (1982), Coherent (1983), dan [[Uniflex]] (1985), yang menyediakan fungsi-fungsi bisnis untuk pengguna pelajar dari UNIX.
+
+== Contoh ==
+
+=== Bebas/sumber terbuka ===
+Umumnya sistem operasi bertipe Unix [[perangkat lunak bebas|bebas]]/[[perangkat lunak sumber terbuka|terbuka]] tidak memakai merek UNIX untuk produk mereka walaupun sistem tersebut secara keseluruhan atau hampir keseluruhan menyerupai cara kerja Unix. Istilah '''''Freenix''''' kemudian diperkenalkan untuk mengacu kepada sistem-sistem ini.
+
+* [[Agnix]] (untuk pendidikan)
+* [[Android (sistem operasi)|Android]]
+* [[Bada]]
+* [[Berkeley Software Distribution|BSD]]
+** [[FreeBSD]]
+*** [[DragonFly BSD]]
+*** [[Gentoo/FreeBSD]]
+*** [[PC-BSD]]
+*** [[PicoBSD]]
+** [[Darwin (sistem operasi)|Darwin]]
+** [[NetBSD]]
+*** [[OpenBSD]] 
+**** [[ekkoBSD]]
+**** [[MicroBSD]]
+**** [[MirOS BSD]]
+* [[BlankOn Linux|BlankOn]]
+* [[Google Chrome OS|Chrome OS]]
+* [[Debian GNU/kFreeBSD]]
+* [[Debian GNU/NetBSD]]
+* [[Firefox OS]]
+* [[Garuda OS]]
+* [[Gentoo/Alt]]
+* [[GNU]]
+* [[IGOS]]
+* [[Kuliax]]
+* [[Linux]]
+* [[LUnix]]
+* [[MeeGo]]
+* [[Minix]]
+** [[Minix-vmd]]
+** [[MINIX 3]]
+* [[OpenSolaris]]
+** [[Nexenta OS]]
+** [[Illumos]]
+* [[Phoenix-RTOS]]
+* [[Plan 9 from Bell Labs|Plan 9]]Pengganti Unix
+** [[Plan B (sistem operasi)|Plan B]]
+** [[Inferno (sistem operasi)|Inferno]]
+* [[Sailfish OS]]
+* [[Syllable]]
+* [[Tizen]]
+* [[Ubuntu]]
+* [[VSTa]]
+
+=== Tak bebas ===
+
+* [[IBM]] [[IBM AIX (sistem operasi)|AIX]]berbasis [[System V]] 3
+* [[ClosedBSD]]
+* [[HP]] [[HP-UX]]
+* [[Silicon Graphics|SGI]] [[IRIX]]
+* [[Apple Inc.|Apple]] [[Mac OS X]]berbasis [[Darwin (sistem operasi)|Darwin]]
+* [[LynxOS|LynxOS RTOS]]
+* [[MeikOS]]
+* [[OpenVMS]]
+* [[QNX]]
+* [[SkyOS]]
+* [[SunOS]]berbasis [[BSD]]
+* [[Solaris Operating System|Solaris]]berbasis [[System V]] 4
+* [[Compaq]] [[Tru64]]berbasis [[OSF/1]]
+* [[Microsoft]] [[Xenix]]
+* [[VxWorks]]
+
+{{unix-like}}
+
+[[Kategori:Keluarga sistem operasi]]
+[[Kategori:Unix]]

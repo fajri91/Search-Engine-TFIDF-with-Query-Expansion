@@ -1,0 +1,17 @@
+Templat:Pusako, Siak
+{{Navigasi ID Desa
+|provinsi=Riau
+|dati2=Kabupaten
+|nama dati2=Siak
+|nama kecamatan=Pusako
+|d1=Benayah
+|d2=Dosan
+|d3=Dusun Pusaka
+|d4=Pebadaran
+|d5=Perincit
+|d6=Sungai Berbari
+|d7=Sungai Limau
+}}<noinclude>
+[[Kategori:Templat desa/kelurahan di Riau|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Siak|{{PAGENAME}}]]
+</noinclude>

@@ -1,0 +1,14 @@
+Ikon (komputer)
+{{untuk|pengertian lain|Ikon}}
+'''Ikon''', juga disebut simbol, ialah [[GUI|antarmuka grafik]] di sebuah [[data]] yang digambarkan oleh gambar kecil yang menggambarkan [[program komputer]] ataupun [[berkas komputer]] dalam [[manajer berkas|pengelola berkas]] sebuah sistem operasi. Dibuat melalui [[manipulasi langsung]] atas simbol, sering ditunjuk melalui [[tetikus]], sehingga pengguna dapat menjalankan fungsinya dengan menggerakkan tetikus tersebut, melihat informasi atau menghapus berkas itu.
+
+Ikon juga digunakan di [[perangkat lunak]]. Ikon sering ditempatkan di sebuah [[toolbar|bilah alat]] (''toolbar'') yang bisa dijalankan fungsinya oleh pengguna dalam program itu dengan mengeklik ikon itu.
+
+== Lihat pula ==
+* [[Piktogram]]
+
+[[Kategori:Ikon| ]]
+[[Kategori:GUI]]
+
+
+{{komputer-stub}}

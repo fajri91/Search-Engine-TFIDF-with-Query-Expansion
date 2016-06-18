@@ -1,0 +1,56 @@
+Vigonovo
+{{Infobox Italian comune
+| name                = Vigonovo
+| official_name       = Comune di Vigonovo
+| native_name         = 
+| image_skyline       = 
+| imagesize           = 
+| image_alt           = 
+| image_caption       = 
+| image_shield        = Vigonovo-Stemma.png
+| shield_alt          = 
+| image_map           = 
+| map_alt             = 
+| map_caption         = 
+| pushpin_label_position = 
+| pushpin_map_alt     = 
+| latd  = 45 |latm  = 23 |lats  =  |latNS  = N
+| longd = 12 |longm =  3 |longs =  |longEW = E 
+| coordinates_type    = region:IT
+| coordinates_display = title
+| coordinates_footnotes = 
+| region              = [[Veneto]]
+| province            = [[Provinsi Venezia|Venezia]] (VE)
+| frazioni            = Celeseo, Galta, Tombelle  Localit: Baita, Giudecca, Pava
+| mayor_party         = 
+| mayor               = 
+| area_footnotes      = 
+| area_total_km2      = 12.79
+| population_footnotes = <ref name="istat">All demographics and other statistics from the Italian statistical institute ([[Istat]])</ref>
+| population_total    = 9796
+| population_as_of    = 30 April 2009
+| pop_density_footnotes = 
+| population_demonym  = Vigonovesi
+| elevation_footnotes = 
+| elevation_min_m     =
+| elevation_max_m     =
+| elevation_m         = 15
+| twin1               = 
+| twin1_country       = 
+| saint               = Madonna Assunta
+| day                 = 15 August 
+| postal_code         = 30030
+| area_code           = 049
+| website             = {{official|http://www.comune.vigonovo.ve.it}}
+| footnotes           =
+<!-- These are currently unused -->
+| istat               = 027043
+| fractions           = [[Foss]], [[Noventa Padovana]] (PD), [[Padova]] (PD), [[Sant'Angelo di Piove di Sacco]] (PD), [[Saonara]] (PD), [[Stra]]
+| fiscal_code         = L899
+}}
+'''Vigonovo''' adalah kota yang terletak di [[Provinsi Venezia]], [[Italia]]. Vigonovo memiliki luas sebesar 12&nbsp;km. Kota ini memiliki penduduk sebesar 9.567 jiwa. Kota ini memiliki kode pos 30030.
+
+{{Provinsi Venezia}}
+
+
+{{italia-geo-stub}}

@@ -1,0 +1,73 @@
+Pelabuhan Indonesia I
+{{Infobox company
+| name                = PT Pelabuhan Indonesia I (Persero)
+| logo                = 
+| logo_size           = 150px
+| logo_alt            = 
+| logo_caption        = Logo 
+| logo_padding        = 
+| image               = 
+| image_size          = 200px
+| image_alt           = 
+| image_caption       = 
+| type                = [[Badan Usaha Milik Negara|BUMN]] / Perseroan Terbatas
+| traded_as           = <!-- {{IDX|BBNI}} -->
+| industry            = Jasa [[pelabuhan|kepelabuhan]]
+| genre               = <!-- Only used with media and publishing companies -->
+| fate                = 
+| predecessor         = 
+| successor           = 
+| foundation          = [[1991]]<!-- if known: {{start date|YYYY|MM|DD}} di [[city]], [[Indonesia]] -->
+| founder             = 
+| defunct             = <!-- {{end date|YYYY|MM|DD}} -->
+| locations           = 
+| location_city       = [[Medan]], [[Sumatera Utara]]
+| location_country    = Indonesia
+| coordinates         = 
+| area_served         = [[Sumatera Utara]] dan [[Aceh]]
+| key_people          = 
+| products            = 
+| brands              = 
+| production          = 
+| services            = 
+| revenue             = 
+| operating_income    = 
+| net_income          = 
+| aum                 = <!-- Only for financial-service companies -->
+| assets              = 
+| equity              = 
+| owner               = [[Pemerintah Indonesia]]
+| members             = 
+| num_employees       = 
+| parent              = 
+| divisions           = 
+| subsid              = 
+| slogan              = 
+| module              = <!-- Used to embed other templates -->
+| website             = {{URL|pelindo1.co.id}}
+| footnotes           = 
+}}
+'''PT Pelabuhan Indonesia I''' atau '''Pelindo I''' adalah [[Badan Usaha Milik Negara]] [[Indonesia]] yang bergerak di bidang jasa [[pelabuhan|kepelabuhan]]
+
+==Pelabuhan Cabang==
+Wilayah operasi Pelabuhan Indonesia I meliputi wilayah sumatera bagian utara dan timur meliputi provinsi [[Aceh]], [[Sumatera Utara]], [[Riau]], [[Kepulauan Riau|Kep. Riau]]
+
+* Pelabuhan Belawan, [[Medan]]
+* Pelabuhan Dumai, [[Dumai]]
+* Pelabuhan Batam Kota, [[Batam]]
+* Pelabuhan Sri Bintan Pura, [[Kota Tanjungpinang|Tanjungpinang]]
+* 
+==Lihat pula==
+* [[Daftar pelabuhan di Indonesia]]
+
+== Pranala luar ==
+* [http://www.pelindo1.co.id/ Situs resmi]
+* [http://portal.bumn.go.id/pelindo1 Profil di portal BUMN RI]
+
+{{BUMN}}
+
+[[Kategori:BUMN]]
+[[Kategori:Perusahaan yang didirikan tahun 1991]]
+
+
+{{perusahaan-indo-stub}}

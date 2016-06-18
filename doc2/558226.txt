@@ -1,0 +1,77 @@
+Cummingtonit
+{{sprotect|small=yes}}
+{{Infobox mineral
+| name = Cummingtonit
+| category = [[Inosilikat]]
+| boxwidth =
+| boxbgcolor =
+| image = Amphibole - Cummingtonite w- chlorite in schist Magnesium iron silicate 3800 foot level Homestake Mine Lawrence COunty South Dakota 2071.jpg
+| caption =
+| formula = ([[Magnesium|Mg]],[[Besi|Fe]])<sub>7</sub>[[Silikon|Si]]<sub>8</sub>[[Oksigen|O]]<sub>22</sub>([[Hidroksil|OH]])<sub>2</sub>
+| strunz = 09.DE.05
+| symmetry  = Monoklinik 2/m
+| unit cell = a = 9,53 , b = 18,23 , c = 5,32 ;  = 101,97; Z = 2
+| molweight =
+| color = Hijau tua, cokelat, abu-abu, krem; tak berwarna hingga hijau pucat di bagian tipisnya
+| habit = Sejarang kristal tertentu. Berkolom sampai berserat dan berbutir.
+| system = [[Monoklinik]]
+| twinning = Sederhana dan pipih - umum
+| cleavage = Baik di persimpangan {110} di 54 dan 126
+| fracture = Serpih-serpih
+| tenacity = Rapuh
+| mohs = 5 - 6
+| luster = Berkaca hingga seperti sutra
+| refractive = n<sub></sub> = 1,639 - 1,671, n<sub></sub> = 1,647 - 1,689, n<sub></sub> = 1,664 - 1,708
+| opticalprop = Biaksial (+)
+| birefringence =  = 0,025 - 0,037
+| pleochroism = Seiring bertambahnya konten besi, lemah; X = Y = tak berwarna; Z = hijau pucat
+| 2V     = Diukur: 65 sampai 90, dihitung: 70 sampai 90
+| streak =
+| gravity = 3,1 - 3,6
+| density =
+| melt =
+| fusibility =
+| diagnostic = Berciri-ciri warna cokelat muda dan mirip jarum, sering memancarkan cahaya, sulit dibedakan dengan antofilit atau gedrit tanpa uji optis dan/atau sinar X.
+| solubility =
+| diaphaneity = Translusen, akan memancarkan cahaya di sisi-sisi tipisnya.
+| other =
+|references  = <ref name=Handbook>http://rruff.geo.arizona.edu/doclib/hom/cummingtonite.pdf Handbook of Mineralogy, 2001, Mineral Data Pub.</ref><ref name=Mindat>http://www.mindat.org/min-1170.html Mindat data</ref><ref name=Webmin>http://webmineral.com/data/Cummingtonite.shtml Webmineral data</ref>
+}}
+
+'''Cummingtonit''' adalah [[amfibol]] metamorf dengan [[komposisi kimia]] ([[Magnesium|Mg]],[[Besi|Fe]])<sub>7</sub>[[Silikon|Si]]<sub>8</sub>[[Oksigen|O]]<sub>22</sub>([[Hidroksil|OH]])<sub>2</sub>, magnesium besi silikat hidroksida.
+
+Cummingtonit monoklinik memiliki komposisi yang mirip dan polimorf dengan [[antofilit]] ortorombik. Antofilit ortorombik merupakan bentuk yang lebih umum dari amfibol kaya [[magnesium]] dan sifatnya [[metastabilitas dalam molekul|metastabil]].
+
+Cummingtonit memiliki sejumlah kemiripan komposisi dengan amfibol [[alkali]] seperti [[arfvedsonit]], [[glaukofan]]-[[riebeckit]]. Ada sedikit solubilitas antara mineral-mineral ini karena perbedaan [[sifat kristal]]nya dan tidak mungkinnya substitusi antara elemen alkali dan elemen ferro-magnesium di dalam struktur amfibol.
+
+==Nama dan penemuan==
+[[File:Cummingtonite - Dannemora Mine, Uppsala Ln, Uppland, Sweden.jpg|thumb|left|Kristal cummingtonit berserat kecokelatan - Lokasi: Tambang Dannemora, Uppsala Ln, Uppland, Swedia]]
+Cummingtonit pertama ditemukan tahun 1824 di dekat kota [[Cummington, Massachusetts]], dan dari nama kota inilah asal mula nama mineral ini.<ref name=Handbook/><ref name=Mindat/> Mineral ini juga ditemukan di [[Swedia]], [[Afrika Selatan]], [[Skotlandia]], dan [[Selandia Baru]].<ref>[http://www.mindat.org/show.php?id=1170&ld=1#themap Mindat w/ location data]</ref>
+
+==Kimia==
+Cummingtonit adalah anggota rangkaian [[larutan padat]] cummingtonit-[[grunerit]] yang berkisar mulai Fe<sub>2</sub>Mg<sub>5</sub>Si<sub>8</sub>O<sub>22</sub>(OH)<sub>2</sub> untuk cummingtonit hingga Fe<sub>7</sub>Si<sub>8</sub>O<sub>22</sub>(OH)<sub>2</sub> untuk anggota akhir grunerit yang kaya besi. Cummingtonit digunakan untuk menyebut mineral-mineral berformula ini dengan kandungan Fe<sub>7</sub>Si<sub>8</sub>O<sub>22</sub>(OH)<sub>2</sub> antara 30 sampai 70 persen.
+
+[[Mangan]] juga also menjadi substitusi (Fe,Mg) di dalam amfibol cummingtonit dengan menggantikan atom-atom situs B. Mineral-mineral ini ditemukan di [[formasi besi berikat]] metamorf tingkat tinggi dan membentuk rangkaian komposisi antara [[mangan|Mn]]<sub>2</sub>Mg<sub>5</sub>Si<sub>8</sub>O<sub>22</sub>(OH)<sub>2</sub> (tirodit) dan Mn<sub>2</sub>Fe<sub>5</sub>Si<sub>8</sub>O<sub>22</sub>(OH)<sub>2</sub> (dannemorit).
+
+Konsentrasi [[kalsium]], [[sodium]], dan [[potasium]] di cummingtonit rendah. Cummingtonit cenderung lebih berpotensi menjadi subsitusi [[kalsium|Ca]] ketimbang [[antofilit]]. Cummingtonit juga mengandung besi [[ferik]] dan [[aluminium]] yang lebih rendah daripada antofilit.
+
+[[Amosit]] adalah varietas grunerit berupa [[asbestos|asbestiform]] langka yang ditambang dalam bentuk asbestos di sebelah timur [[Provinsi Transvaal]], [[Afrika Selatan]]. Asal namanya adalah ''Amosa'', akronim perusahaan tambang "Asbestos Mines of South Africa."
+
+==Keberadaan==
+Cummingtonit umumnya ditemukan di batuan metamorf kaya magnesium dan terbentuk di amfibolit. Amfibol ini biasanya terbentuk bersama [[hornblende]] atau [[aktinolit]], [[kelompok klorit|klorit]] klinokor magnesium, [[talek]], mineral [[kelompok serpentin|serpentin]]-[[antigorit]], atau [[piroksen]] metamorf. Cummingtonit yang kaya magnesium juga bisa terbentuk bersama [[antofilit]].
+
+Cummingtonite juga ditemukan di sejumlah [[batuan vulkanik]] [[felsik]] seperti [[dasit]]. Spesies kaya [[mangan]] dapat ditemukan di unit-unit batuan kaya Mn. Anggota akhir [[grunerit]] memiliki karakteristik [[formasi besi berikat|formasi besi]] metamorf [[Danau Superior]] dan [[Palung Labrador]]. Dengan metamorfisme prograde, cummingtonit dan grunerit menjadi bagian rangkaian [[olivin]] dan piroksen.
+
+==Referensi==
+{{reflist}}
+{{refbegin}}
+* Deer W.A., Howie R.A., & Zussman J. ''An Introduction to the Rock Forming Minerals'', 2nd Edition, 1997, pp.&nbsp;229247.
+* Hurlbut, Cornelius S.; Klein, Cornelis, 1985, ''Manual of Mineralogy'', 20th ed., Wiley, ISBN 0-471-80580-7
+* Klein, Cornelius., 2002, ''The Manual of Mineral Science'', 22nd ed., John Wiley & Sons, Inc. ISBN 0-471-25177-1
+* [http://mineral.galleries.com/minerals/silicate/cummingt/cummingt.htm Mineral Galleries]
+{{refend}}
+
+[[Kategori:Kelompok amfibol]]
+[[Kategori:Mineral magnesium]]
+[[Kategori:Mineral besi]]
+[[Kategori:Asbestos]]

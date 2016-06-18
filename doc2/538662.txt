@@ -1,0 +1,44 @@
+Norway Airlines
+{{Infobox_Airline
+| airline      = Norway Airlines
+| logo         =Norway Airlines.jpg
+| logo_size    =280px
+| fleet_size   = 2
+| destinations = 2
+| IATA         = JA
+| ICAO         = NOS
+| callsign     = Norspeed
+| founded      = 2 April 1987
+| commenced    = Februari 1988
+| ceased       = 15 Oktober 1992
+| headquarters = [[Tananger]], kemudian [[Fornebu]], [[Norwegia]]
+| key_people   =
+| bases        = [[Bandar Udara Stavanger, Sola]]<br />[[Bandar Udara Oslo, Fornebu]]||
+}}
+'''Norway Airlines A/S''' adalah [[maskapai penerbangan]] [[Norwegia]] yang beroperasi antara tahun 1988 hingga tahun 1992. Berfokus pada layanan penerbangan sewaan, maskapai penerbangan ini mengoperasikan dua pesawat [[Boeing 737 Classic|Boeing 737-300]] dari tahun 1988 hingga tahun 1992, setelah mengoperasikan dua pesawat [[McDonnell Douglas MD-80]], satu MD-83 dan satu MD-87. Maskapai penerbangan ini hanya terbang di rute tunggal yaitu antara [[Bandar Udara Oslo, Fornebu]] dan [[Bandar Udara London Gatwick]].
+
+== Armada ==
+Norway Airlines pernah mengoperasikan beberapa pesawat:<ref name=fortsattminus>{{cite news|title=Fortsatt minus for Norway Airlines|last=Rd|first=Morten|date=23 March 1992|page=8|work=[[Dagens Nringsliv]]|language=Norwegian}}</ref>
+
+{|class="wikitable plainrowheaders sortable"
+|+ Norway Airlines aircraft
+! scope=col | Model
+! scope=col | Periode
+! scope=col | Jumlah
+|-
+! scope=row | [[Boeing 737 Classic|Boeing 737-300]]
+| 19881992 || 2
+|-
+! scope=row | [[McDonnell Douglas MD-80|McDonnell Douglas MD-83]]
+| 1992 || 1
+|-
+! scope=row | [[McDonnell Douglas MD-80|McDonnell Douglas MD-87]]
+| 1992 || 1
+|}
+
+== Referensi ==
+{{reflist}}
+
+[[Kategori:Maskapai penerbangan di Norwegia]]
+[[Kategori:Maskapai penerbangan yang didirikan tahun 1987]]
+[[Kategori:Maskapai penerbangan yang dibubarkan tahun 1992]]

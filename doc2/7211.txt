@@ -1,0 +1,16 @@
+Grup ruang
+'''Grup ruang''' sebuah [[kristal]] adalah deskripsi matematis dari simetri dalam struktur. Kata 'grup' dalam istilah ini berasal dari [[istilah matematika grup]], yang digunakan untuk membangun set grup ruang.
+
+Seluruh 230 set grup ruang diperoleh dari kombinasi 32 [[grup titik kristalografi]] dengan 14 [[kisi Bravais]] yang termasuk dalam salah satu dari 7 [[sistem kristal]]. Hasil ini dalam grup ruang yang adalah kombinasi dari sebuah [[sel unit]] dengan beberapa bentuk dari pemusatan motif, bersamaan dengan operasi - operasi titik pencerminan, rotasi, dan improper rotation. Selain itu, terdapat juga elemen simetri translasi. Translasi dasar diperoleh dari tipe kisi, menyisakan kombinasi pencerminan dan rotasi dengan translasi:
+
+Sumbur mur: Sebuah rotasi pada suatu sumbu, diikuti dengan translasi sepanjang arah sumbu. Sumbu ini diberi angka, n, untuk mendeskripsikan derajat rotasi, dan angka yang diberikan menunjukkan berapa banyak operasi yang harus dilakukan untuk menyelesaikan satu putaran penuh (sebagai contoh, 3 berarti setiap kali rotasi dilakukan 1/3 keliling sumbu). Derajat translasi kemudian ditambahkan sebagai subskrip untuk menunjukkan seberapa jauh translasi sepanjang sumbu dilakukan, sebagai bagian dari vektor kisi paralel. Jadi, 2<sub>1</sub> adalah rotasi lipat dua yang diikuti oleh translasi sebesar 1/2 dari vektor kisi.
+
+Bidang geser: Sebuah pencerminan pada bidang, diikuti oleh translasi yang paralel terhadap bidang tersebut. Hal ini ditandai oleh a, b, atau c, bergantung pada sumbu mana dilakukan penggeseran. Terdapat juga geseran n, yaitu geseran sepanjang setengan diagonal muka, dan geseran d, yaitu geseran sepanjang 1/4 diagonal muka sel unit.
+
+Sangat mudah ditemukan bahwa tidak semua kombinasi yang mungkin dari [[kisi-kisi Bravais]], [[sistem-sistem kristal]] dan [[grup-grup titik]] muncul pada grup ruang (32*14=448>230). Hal ini disebabkan oleh adanya beberapa kombinasi berbeda yang isomorfik satu dengan lainnya (yaitu mereka ternyata adalah hal yang sama). Hal ini dibuktikan menggunakan teori grup, dan adalah sumber dari kata 'grup' pada judul.
+
+Terdapat beberapa metode untuk menguidentifikasi grup ruang. International Union of Chrystallography menerbitkan sebuah tabel (lebih tepatnya, sebuah kitab tabel - tabel) untuk semua grup ruang, dan memberikan nomor yang unik untuk masing - masing grup ruang. Selain cara penomoran, ada dua bentuk notasi utama, notasi Patterson dan Scoenflies.
+
+Notasi Patterson terdiri atas satu set empat simbol. Yang pertama menjelaskan pemusatan [[kisi Bravais]] (P, C, I atau F). Tiga angka selanjutnya menunjukkan operasi simetri yang paling jelas terlihat ketika diproyeksikan secara berurutan dari muka a, b, dan c. Simbol - simbol ini adalah sama dengan yang digunakan pada [[grup titik]], ditambah bidang geser dan sumbu mur, yang dijelaskan di atas. Sebagai contoh, grup ruang untuk [[kwarsa]] adalah P3<sub>1</sub>21, yang menunjukkan pemusatan motif sederhana (misal sekali per sel unit), dengan sumbu mur lipat tiga pada satu sisi dan sumbu rotasi lipat dua pada yang lain. Perlu diperhatikan bahwa notasi ini tidak secara eksplisit mengandung [[sistem kristal]], walaupun notasi ini adalah unik untuk setiap grup ruang ( dalam hal P3<sub>1</sub>21, P3<sub>1</sub>21 adalah trigonal).
+
+[[Kategori:Teori grup|Ruang]]

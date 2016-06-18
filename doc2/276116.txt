@@ -1,0 +1,144 @@
+Biofilm
+[[Berkas:Staphylococcus aureus biofilm 01.jpg|thumb|right|300px|Biofilm ''[[Staphylococcus aureus]]'' di dalam selang [[kateter]].]]
+'''Biofilm''' adalah kumpulan [[sel]] [[mikroorganisme]], khususnya [[bakteri]], yang melekat di suatu permukaan dan diselimuti oleh pelekat [[karbohidrat]] yang dikeluarkan oleh bakteri.<ref name="Madigan">{{en}} Madigan MT, Martinko JM, Brock TD. 2006. '' Brock Biology of Microorganisms''. 11th Ed. New Jersey: Pearson Prentice Hall. Hal: 617-619.</ref> Biofilm terbentuk karena mikroorganisme cenderung menciptakan lingkungan mikro dan [[relung]] (''niche'') mereka sendiri.<ref name="Prescott">{{en}} Prescott LM, Harley JP, Klein DA. 2002. Microbiology. Boston: McGraw-Hill. Hal:620-622</ref> Biofilm memerangkap nutrisi untuk pertumbuhan populasi mikroorganisme dan membantu mencegah lepasnya sel-sel dari permukaan pada sistem yang mengalir.<ref name="Madigan"/> Permukaan sendiri adalah [[habitat]] yang penting bagi mikroorganisme karena [[nutrisi]] dapat terjerap pada permukaan sehingga kandungan nutrisinya dapat lebih tinggi daripada di dalam larutan.<ref name="Madigan"/> Konsekuensinya, jumlah dan aktivitas mikroba pada permukaan biasanya lebih tinggi daripada di air.<ref name="Madigan"/>
+
+Hingga tahun 1980-an, mode pertumbuhan dengan biofilm lebih dianggap sebagai sesuatu yang menarik saja dan bukan sebagai suatu studi ilmiah yang serius.<ref name="Lerner"/> Namun, bukti-bukti yang terkumpul kemudian menunjukkan bahwa pembentukan biofilm lebih disukai oleh mikroorganisme, dan hampir semua permukaan yang terkena kontak dengan mikrob dapat mendukung pembentukan biofilm sehingga memengaruhi kehidupan manusia.<ref name="Lerner"/> Atas dasar tersebut, studi mengenai biofilm menjadi lebih intensif.<ref name="Lerner"/> Selain bakteri, mikroorganisme lainnya seperti [[alga]] dan [[khamir]] ([[fungi]] bersel satu) juga dapat membentuk biofilm, namun biofilm bakteri adalah yang paling banyak dipelajari dan dirujuk sebagai contoh.<ref name="Lerner">{{en}} Lerner KL, Lerner BW. 2003. ''World of Microbiology and Immunology''. Farmington Hills, MI: The Gale Group, Inc. Hal: 67-68.</ref>
+
+== Asal-usul ==
+[[Berkas:Stromatolites in Sharkbay.jpg|thumb|right|250px|Stromatolit di Sharkbay]]
+Asal-usul biofilm dapat ditelusuri hingga 3,5 miliar tahun yang lalu berdasarkan [[fosil]] biofilm yang ditemukan di [[Afrika]] bagian selatan dan [[Australia|Australia Barat]].<ref name="Campbell">Campbell NA, Reece JB. 2003. ''Biologi Jilid 2''. Ed. V. Terjemahan: Manalu W. Jakarta:Erlangga. Hal 92</ref> Fosil biofilm tersebut berbentuk [[stromatolit]] (Bahasa Yunani ''stroma'', "tempat tidur", dan ''lithos'', "batu") yaitu kubah bergaris-garis yang tersusun dari batuan sedimen yang sangat mirip dengan kerak berlapis-lapis, yang sekarang ini terbentuk pada dasar rawa berair asin dan beberapa laguna laut hangat oleh [[koloni]] bakteri dan [[sianobakteri]].<ref name="Campbell"/> Biofilm terbentuk karena prakarsa koloni bakteri dan sianobakteri yang melekat pada batuan tersebut.<ref name="Campbell"/> Sampai saat ini, fosil tersebut adalah fosil organisme hidup tertua yang diketahui sehingga biofilm diperkirakan sudah ada pada awal mula kehidupan di bumi.<ref name="Campbell"/>
+
+== Komposisi dan struktur ==
+[[Berkas:Xanthan.svg|thumb|left|200px|Struktur kimia ''xanthan gum'', EPS yang dihasilkan ''[[Xanthomonas campestris]]'' untuk membentuk biofilm]]
+Komposisi biofilm terdiri dari sel-sel mikroorganisme, produk ekstraseluler, [[detritus]], [[polisakarida]] sebagai bahan pelekat, dan air yang adalah bahan penyusun utama biofilm dengan kandungan hingga 97%.<ref name="Zhang">{{en}} Zhang XQ, Bishop PL, Kupferle MJ. 1998. Measurement of polysaccharides and proteins in biofilm extracellular polymers. ''Water Sci Technol'' 37, 345-348.</ref><ref name="Christensen">{{en}} Christensen BE. 1989. The role of extracellular polysaccharides in biofilms. ''J Biotechnol'' 10, 181-202.</ref>[[Polisakarida]] (polimer dari monosakarida atau gula sederhana) yang diproduksi oleh mikrob untuk membentuk biofilm termasuk [[eksopolisakarida]] (EPS) yaitu polisakarida yang dikeluarkan dari dalam sel.<ref name="Sutherland"/> EPS yang disintesis oleh sel mikrob berbeda-beda komposisi dan sifat kimiawi dan fisikanya.<ref name="Sutherland2">Sutherland, I. W. (1990). Biotechnology of Exopolysaccharides. Cambridge: Cambridge University Press.</ref> Beberapa adalah makromolekul yang bersifat netral, namun mayoritas bermuatan karena keberadaan [[asam uronat]] (Asam D-glukuronat), Asam D-galakturonat, dan Asam D- manuroniat.<ref name="Sutherland2"/> Ada biofilm yang bersifat kaku karena EPS-nya terdiri dari ikatan -1,4 atau -1,3 [[glikosida]] (ikatan monosakarida monomer penyusun polisakarida) seperti EPS ''[[xanthan gum]]'' yang dihasilkan oleh ''[[Xanthomonas campestris]]'' tetapi ada juga yang bersifat fleksibel karena memiliki ikatan -1,2 atau -1,6 glikosida yang banyak ditemukan pada [[dekstran]]<ref name="Sutherland2"/> Beberapa contoh EPS selain ''xanthan gum'' adalah [[asam kolanat]] yang diproduksi oleh ''[[Escherichia coli]]'', [[alginat]] oleh ''P. aeruginosa'', dan [[galaktoglukan]] oleh ''[[Vibrio cholerae]]''.<ref name="Prigent">{{en}} Prigent-Combaret C, Vidal O, Dorel C, Lejeune P. 1999. Abiotic surface sensing and biofilm-dependent regulation of gene expression in Escherichia coli.'' J Bacteriol'' 181, 5993-6002.</ref><ref name="Davies">{{en}} Davies D G, Geesey G G. 1995. Regulation of the alginate biosynthesis gene algC in Pseudomonas aeruginosa during biofilm development in continuous culture.'' Appl Environ Microbiol'' 61, 860-867</ref><ref name="Watnick">{{en}} Watnick P I, Kolter R. 1999. Steps in the development of a Vibrio cholerae El Tor biofilm.'' Mol Microbiol'' 34, 586-595</ref> Bahan-bahan penyusun biofilm yang lain contohnya adalah [[protein]], [[lipid]], dan [[lektin]].<ref name="Sutherland"/>
+
+Struktur dari suatu biofilm adalah unik tergantung dari lingkungan tempatnya berada, contohnya adalah kandungan nutrisi dan keadaan fisik.<ref name="Sutherland">{{en}} Sutherland IW. 2001. Biofilm exopolysaccharides: a strong and sticky framework. ''Microb'' 147:3-9</ref><ref name="Stoodley">{{en}} Stoodley P, Dodds I, Boyle JD, Lappin-Scott HM. 1999. Influence of hydrodynamics and nutrients on biofilm structure. ''J Appl Microbiol'' 85: S19-S28.</ref> Selain itu, di alam, sangat jarang terdapat biofilm yang hanya terdiri dari satu spesies, biasanya biofilm tersusun dari beberapa spesies dalam lapisan-lapisan yang berbeda.<ref name="Prescott"/><ref name="Sutherland2">{{en}} Sutherland, I. W. (1990). Biotechnology of Exopolysaccharides. Cambridge: Cambridge University Press.</ref>
+
+Biasanya mikroorganisme fotosintetik ada di permukaan paling atas, mikroorganisme [[kemoorganotrof]] anaerob fakultatif di bagian tengah, sedangkan di bagian dasar adalah mikroorganisme anaerob pereduksi [[sulfat]].<ref name="Prescott"/> Pada bagian atas, cahaya matahari lebih mudah didapat sehingga dapat digunakan untuk [[fotosintesis]], sedangkan bagian tengah dapat dihuni oleh mikrob kemoorganotrof fakultatif anaerob karena dapat mentolerir kandungan udara yang sedikit serta banyak dapat mengakses bahan organik sebagai sumber energinya.<ref name="Hogg">{{en}} Hogg S. 2005. Essential Microbiology. West Sussex: John Wiley & Sons Ltd. Hal:82.</ref>
+
+Pada bagian dasar, tidak terdapat kandungan udara sehingga mikrob anaerob pereduksi sulfat dapat tumbuh dan energi dengan cara mereduksi sulfat.<ref name="Hogg"/> Pemodelan habitat mikrob-mikrob tersebut dapat diamati menggunakan [[Kolom Winogradsky]].<ref name="Hogg"/> Struktur biofilm yang lebih kompleks dapat berbentuk empat dimensi (x,y,z, dan waktu) dengan agregat sel, pori-pori, dan saluran penghubung.<ref name="Prescott"/> Tergantung dari kondisi lingkungannya, biofilm dapat menjadi sangat besar dan tebal sehingga dapat dilihat dengan mata telanjang contohnya pada lingkungan air laut dapat terbentuk [[stromatolit]].<ref name="Prescott"/> Struktur dan ukuran biofilm sangat bergantung pada konsentrasi substrat.<ref name="Wimpenny">{{en}} Wimpenny JWT, Colasanti R. 1997. A unifying hypothesis for the structure of microbial biofilms based on cellular automaton models. ''FEMS Microbiol Ecol'' 22, 1-16.</ref>
+
+== Pembentukan ==
+[[Berkas:Biofilm id.JPG|left|thumb|450px|Pembentukan biofilm yang meliputi 5 tahap]]
+Komunikasi antarsel penting bagi perkembangan dan pemeliharaan biofilm.<ref name="Madigan"/> Pelekatan suatu sel pada suatu permukaan adalah hasil dari sinyal untuk mengekspresikan gen-gen pembentuk biofilm.<ref name="Madigan"/> Gen-gen ini mengkodekan protein-protein untuk mensitensis sinyal komunikasi antarsel dan memulai pembentukan polisakarida.<ref name="Madigan"/> Pada bakteri [[gram negatif]] seperti ''[[Pseudomonas aeruginosa]]'', molekul sinyal yang utama adalah komponen yang disebut [[homoserin lakton]] yang berfungsi sebgai agen kemostatik untuk mengumpulkan sel-sel ''P. aeruginosa'' yang berdekatan (melalui mekanisme [[quorum sensing]]) dan membentuk biofilm.<ref name="Madigan"/>
+
+Ada 5 tahap pembentukan biofilm yaitu:
+# '''Pelekatan awal''': mikrob melekat pada permukaan suatu benda dan dapat diperantarai oleh fili (rambut halus sel) contohnya pada ''P.aeruginosa''.<ref name="Kus">Kus JV, Tullis E, Cvitkovitch DG, Burrows LL. 2004. Significant differences in type IV pilin allele distribution among Pseudomonas aeruginosa isolates from cystic fibrosis (CF) versus non-CF patients. ''Microbiology'' 150:1315-1326.</ref>
+# '''Pelekatan permanen''': mikrob melekat dengan bantuan eksopolisakarida (EPS).<ref name="Monroe"/>
+# '''Maturasi I''': proses pematangan biofilm tahap awal.<ref name="Monroe"/>
+# '''Maturasi II''': proses pematangan biofilm tahap akhir, mikrob siap untuk menyebar.<ref name="Monroe"/>
+# '''Dispersi''': Sebagian bakteri akan menyebar dan berkolonisasi di tempat lain.<ref name="Monroe">{{en}} Monroe D (2007) Looking for Chinks in the Armor of Bacterial Biofilms. ''PLoS Biol'' 5(11): 307</ref>
+
+Pemicu pembentukkan biofilm salah satunya adalah kondisi lingkungan yang kurang menguntungkan atau mencekam.<ref name="Wrangstadh">{{en}} Wrangstadh M, Szewzyk U, Ostling J, Kjellenberg S. 1990. Starvation specific formation of a peripheral exopolysaccharide by a marine Pseudomonas sp.'' Appl Environ Microbiol'' 56, 2065-72</ref> Contohnya adalah produksi EPS oleh ''[[Escherichia coli]]'' berupa asam dan ''P. aeruginosa'' saat ketersediaan nutrisi menipis.<ref name="Wrangstadh"/>
+
+=== ''Quorum sensing'' ===
+Selain keterbatasan nutrisi, faktor lain yang memicu pembentukan biofilm adalah [[quorum sensing]], yaitu mekanisme untuk memastikan jumlah sel mencukupi sebelum suatu spesies melakukan respon biologi khusus.<ref name="Madigan"/><ref name="Stanley">{{en}} Stanley NR, ''et al''. 2004. Environmental signals and regulatory pathways that influence biofilm formation. ''Mol Microbiol'' 52(4): 917 - 24.</ref> Jadi, setiap sel mikrob akan menghasilkan molekul sinyal untuk berkomunikasi dengan sel yang lain, bila jumlah sel mikrob tersebut cukup banyak, maka molekul sinyal terseut juga cukup banyak untuk memicu pembentukkan biofilm oleh keseluruhan bakteri tersebut.<ref name="Romeo"/> Molekul-molekul sinyal tersebut berbeda untuk tiap jenis mikrob dan memiliki peranannya masing-masing.<ref name="Romeo"/>
+Berikut ini adalah tabel daftar molekul sinyal yang berperan dalam quorum sensing untuk membentuk biofilm dan akibatnya bila molekul sinyal tersebut tidak ada:<ref name="Romeo">{{en}} Romeo T. 2008. ''Bacterial Biofilms'' Berlin: Springer. Hal: 73, 136.</ref>
+{|align=right
+|[[Berkas:Quorum sensing diagram.png|thumb|right|300px|Diagram quorum sensing. Pada densitas sel rendah (kiri), konsentrasi autoinduser (titik biru) relatif rendah sehingga ekspresi gen (titik merah). Pada densitas sel tinggi (kanan), konsentrasi autoinduser tinggi sehingga ekspresi gen terjadi]]
+|}
+
+{|class="wikitable" style = "float:center; margin-left:10px"
+|+ Dampak tidak adanya molekul sinyal untuk quorum sensing pada mikroorganisme pembentuk biofilm
+|-
+! align="right"|Mikroorganisme
+!Molekul sinyal yang dihilangkan
+!Dampak
+|-
+||''[[Candida albicans]]''||[[Farnesol]]||Dispersi biofilm terganggu
+|-
+||''[[Pseudomonas aeruginosa]]''||[[AHL]]||Biofilm tak berstruktur
+|-
+||''[[Klebsiella pneumoniae]]''||AI-2||Perkembangan biofilm terhambat
+|-
+||''[[Staphylococcus aureus]]''||[[peptida]]||Dampak tergantung kondisi pertumbuhan
+|}
+
+== Fungsi bagi bakteri ==
+Alasan bakteri membentuk biofilm adalah karena daya tahan hidup/sintasan (''survival'') meningkat dan pertumbuhan menjadi lebih baik<ref name="Madigan"/>. Setidaknya ada empat alasan yang mendasari hal tersebut:
+=== Pertahanan ===
+Biofilm berfungsi sebagai mekanisme pertahanan bagi bakteri dengan cara meningkatkan resistensi terhadap gaya fisik yang dapat menyapu berssih sel-sel yang tidak menempel, [[fagosit]]osis oleh sel-sel sistem imun (kekebalan) tubuh, dan penetrasi dari senyawa beracun seperti antibiotik.<ref name="Madigan"/> Bakteri di dalam biofilm lebih resisten 10-1.000 kali dibandingkan bila tidak di dalam biofilm.<ref name="Monroe"/>
+=== Pelekatan pada relung ===
+Dengan menggunakan biofilm, bakteri dapat melekat pada permukaan yang kaya akan nutrisi seperti jaringan sel hewan, atau permukaan substrat pada sistem yang mengalir contohnya permukaan batu di dalam aliran air.<ref name="Madigan"/>
+=== Kolonisasi ===
+Pembentukan biofilm membantu sel-sel bakteri untuk hidup berdekatan dan membentuk koloni.<ref name="Madigan"/> Contohnya adalah ''[[Pseudomonas aeruginosa]]'' yang berkoloni dengan biofilm sehingga memfasilitasi komunikasi antar sel dengan molekul sinyal, dan meningkatkan peluang pertukaran materi genetik.<ref name="Madigan"/>
+=== Cara hidup alami bakteri ===
+Di alam, biofilm adalah cara hidup alami bagi beberapa bakteri tertentu dengan alasan terbatasnya nutrisi, tidak seperti medium buatan yang kaya akan nutrisi bagi bakteri.<ref name="Madigan"/>
+
+== Pengaruh negatif terhadap manusia ==
+=== Penyakit ===
+==== Karies gigi ====
+[[Karies gigi]] dapat disebabkan oleh biofilm dari matriks [[glukan]] yang dibentuk ''[[Streptococcus mutans]]''.<ref name="Kayser">{{en}} Kayser FH, Bienz KA, Eckert J, Zinkernagel RM. 2005. ''Medical Microbiology''. New York: Thieme Stuttgart.Hal:158-159.</ref> Biofilm tersebut melapisi [[enamel]] sehingga bakteri lain juga dapat melekat pada matriks tersebut dan membentuk [[plak gigi]].<ref name="Kayser"/> Tingkat aktivitas karies gigi dapat ditentukan menggunakan ''S. mutans'' sebagai indikator, caranya adalah menumbuhkan ''S. mutans'' dari sampel air liur (dari kelenjar saliva di mulut) pada medium buatan lalu dihitung jumlah koloni yang tumbuh.<ref name="Samaranayake">{{en}} Samaranayake LP. 2006. ''Essential Microbiology for Dentistry''. Edinburgh: Churchill Livinstone. Hal:271</ref> Bila jumlah ''S. mutans''>10<sup>6</sup>/ml maka tingkat aktivitas karies gigi tinggi, sedangkan ''S. mutans''<10<sup>5</sup>/ml maka aktivitas karies gigi termasuk rendah.<ref name="Samaranayake"/>
+
+==== Fibrosis sistik ====
+Penyakit ini disebabkan oleh ''P. aeruginosa'' yang membentuk biofilm pada paru-paru sehingga menimbulkan gejala [[pneumonia]].<ref name="Madigan"/><ref name="Mozkowitz">{{en}} Moskowitz, ''et al''.2004. Clinically feasible biofilm susceptibility assay for isolates of Pseudomonas aeruginosa from patients with cystic fibrosis. ''J Clin Microbiol'' 42(5): 1915 - 22</ref>
+
+==== Biofilm pada peralatan medis ====
+Peralatan medis yang diimplantasikan (dimasukkan) ke dalam tubuh manusia seperti selang [[kateter]] dan sendi buatan sangat rentan terhadap pembentukan biofilm.<ref name="Romeo"/> Contoh mikrob yang sering ditemui membentuk biofilm pada selang kateter adalah ''[[Candida albicans]]''.<ref name="Romeo"/> Mikroorganisme ini adalah [[khamir]] [[patogen]] yang menyebabkan [[infeksi]] dan penyakit yang membahayakan jiwa pada orang-orang dengan sistem imun yang kurang baik, namun dalam keadaan sistem imun yang normal, ''C. albicans'' adalah [[mikroflora normal manusia|mikroflora normal]] pada manusia yang tinggal di dalam mulut, saluran pencernaan, dan saluran alat kelamin.<ref name="Heller">{{en}} Heller K. 2009. Zap1 Sticks It to Candida Biofilms. ''PLoS Biol'' 7(6): e1000117.</ref>
+
+Biofilm ''C. albicans'' merugikan manusia saat terbentuk pada peralatan medis yang diimplantasikan (dimasukkan) ke dalam tubuh manusia seperti selang kateter, dan sendi buatan yang kemudian dapat menyebabkan [[infeksi sistemik]].<ref name="Heller"/> Komponen utama penyusun biofilm adalah matriks ekstraseluler (di luar sel) berupa [[glukan|-1,3 glukan]] yang pembentukkannya dikodekan oleh [[gen]] (susunan DNA yang menyandikan protein) ''ZAP1''.<ref name="Heller"/> Penanganan biofilm ''C. albicans'' tidak mudah karena resisten terhadap berbagai macam obat antifungi.<ref name="Heller"/>
+Berikut ini adalah daftar mikroorganisme yang dapat membentuk biofilm pada selang kateter:<ref name="Romeo"/>
+{|align=right
+|[[Berkas:Catheter.png|thumb|left|150px|Gambar kateter yang dipasang pada jantung]]
+|}
+
+<table class="wikitable" style = "float:center">Daftar mikroorganisme pembentuk biofilm pada selang kateter
+<tr><th>Bakteri gram positif<th>Bakteri gram negatif<th>Mikroorganisme lain
+<tr>
+<td>[[Corynebacterium|''Corynebacterium'' spp.]]
+<td>[[Acinetobacter|''Acinetobacter'' spp.]]
+<td>[[Candida (genus)|''Candida'' spp.]]
+<tr>
+<td>[[Enterococcus|''Enterococcus'' spp.]]
+<td>''[[Escherichia coli]]''
+<td>''[[Candida albicans]]''
+<tr>
+<td>''[[Staphylococcus aureus]]''
+<td>''[[Pseudomonas aeruginosa]]''
+<td>''[[Candida tropicalis]]''
+<tr>
+<td>''[[Streptococcus pneumoniae]]''
+<td>''[[Serratia marcescens]]''
+<td>''[[Mycobacterium chelonae]]''
+<tr>
+</table>
+
+== Pengaruh positif terhadap manusia ==
+=== Pengolahan limbah ===
+Pemanfaatan biofilm untuk mengolah limbah sudah diaplikasikan saat ini contohnya untuk mengolah limbah cair.<ref name="Ito">{{en}} Ito T, ''et al''. 2004. Isolation, characterization, and in situ detection of a novel chemolithoautotrophic sulfur-oxidizing bacterium in wastewater biofilms growing under microaerophilic conditions. ''Appl Environ Microbiol'' 70(5): 3122-9.</ref> Pada biofilm di fasilitas pengolahan limbah cair, terdapat berbagai macam mikrob yang dapat menguraikan senyawa-senyawa baik organik maupun inorganik pada limbah<ref name="Ito"/> Misalnya saja bakteri pengoksidasi [[sulfur]] (S) yang berperan untuk mendaur ulang sulfur, lalu bakteri pengikat [[Uranium]] (U) yaitu ''[[Desulfovibrio desulfuricans]]''.<ref name="Ito"/><ref name="Beyenal">{{en}} Beyenal H, ''et al''. 2004. Uranium immobilization by sulfate-reducing biofilms. ''Environ Sci Technol'' 38(7): 2067 - 74.</ref> Alat yang digunakan untuk mengolah limbah dengan biofilm berupa [[bioreaktor]] yang memiliki biofilm contohnya ''sequencing batch biofilm reactor'' (SBBR).<ref name="Rodgers">{{en}} Rodgers M, ''et al''. 2004. Nutrient removal in a sequencing batch biofilm reactor (SBBR) using a vertically moving biofilm system. ''Environ Technol 25(2):211-8.</ref>
+
+== Kontrol biofilm ==
+Kontrol biofilm adalah bisnis yang besar dengan miliaran dollar digunakan oleh industri-industri di seluruh dunia untuk merawat pipa-pipa dan permukaan-permukaan yang lain supaya terbebas dari biofilm.<ref name="Madigan"/> Beberapa bahan yang sedang dikembangkan untuk mencegah pembentukan biofilm adalah [[antibiotik]] dan obat untuk mengganggu komunikasi antar sel yang membentuk biofilm.<ref name="Madigan"/> Salah satu bahan kimia golongan [[furanon]] telah menunjukkan hasil positif untuk mencegah biofilm pada permukaan abiotik.<ref name="Madigan"/> Furanon kemungkinan dapat digunakan sebagai agen antibiofilm pada obat manusia karena sifatnya yang stabil dan nontoksik.<ref name="Madigan"/>
+
+Pada peralatan medis seperti selang kateter, telah dicoba berbagai cara untuk mencegah pelekatan awal oleh bakteri, contohnya dengan mengubah sifat kimia atau fisika dari permukaan seperti dibuat menjadi [[hidrofobik]] (menolak molekul air) sehingga [[membran sel]] yang [[hidrofilik]] (mengikat molekul air) lebih susah menempel.<ref name="Monroe"/> Sayangnya, metode ini tidak menunjukkan hasil yang baik karena peralatan medis yang terkena cairan tubuh akan menjadi tempat yang baik bagi bakteri untuk melekat.<ref name="Monroe"/>
+
+{|align="center"
+|-
+|[[Berkas:Pseudomonas.jpg|center|thumb|250px|''Pseudomonas aeruginosa dilihat dengan [[mikroskop elektron]]]]
+|[[Berkas:Efflorescence verte 6 Cyanobacteria.JPG|center|thumb|175px|Biofilm yang dibentuk oleh [[sianobakteria]] berwarna biru]]
+|}
+
+== Lihat pula ==
+* [[Quorum sensing]]
+* [[Staphylococcus aureus]]
+* [[Relung (ekologi)]]
+* [[Pseudomonas aeruginosa]]
+
+== Referensi ==
+{{reflist|colwidth=30em}}
+
+== Bacaan lanjut ==
+* {{en}} Allison D. 2000. ''Community Structure and Co-Operation in Biofilms''. Cambridge: Cambridge University Press.
+* {{en}} Lappin-Scott, Hilary. 2003. ''Microbial Biofilms''. Cambridge: Cambridge University Press.
+
+== Pranala luar ==
+{{commonscat|Biofilm}}
+{{sisterlinks}}
+* {{en}} [http://www.erc.montana.edu/biofilmbook/ Buku daring tentang biofilm (''biofilm hypertextbook'') ]
+* {{en}} [http://www.streambiofilm.org.nz/ Biofilm di perairan (''biofilm in streams'')]
+
+{{featured article}}
+
+[[Kategori:Mikrobiologi]]
+[[Kategori:Bakteri]]
+[[Kategori:Biologi sel]]

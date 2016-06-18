@@ -1,0 +1,60 @@
+Frth
+{{Infobox German location
+|Name               = Frth
+|type               = Stadt
+|image_photo        = Fuerth Suedstadt Zirndorf Bridge from Alte Veste f sw.jpg
+|imagesize          = <!-- Photo size. Default is 250px -->
+|image_caption      = Bagian selatan kota, dilihat dari "Alte Veste" ([[Zirndorf]])
+|Wappen             = Wappen_Frth.svg
+|lat_deg            = 49 | lat_min = 28 | lat_sec = 
+|lon_deg            = 11 | lon_min = 0 | lon_sec = 
+|Lageplan           = <!-- Image displaying location in more detail (eg. location within state or district -->
+|Lageplanbeschreibung = <!-- Description of image "Lageplan" Default: "Location of XX" -->
+|Bundesland         = Bavaria
+|Regierungsbezirk   = Middle Franconia
+|Landkreis          = urban
+|Hhe               = 295
+|Flche             = 63.35
+|Einwohner          =  114071
+|Stand              =   31.12.2008
+|pop_source         = https://www.statistikdaten.bayern.de/genesis/online/online?sequenz=statistiken&selectionname=12411
+|PLZ                = 9070190768
+|PLZ-alt            = 8510
+|Vorwahl            = 0911
+|Kfz                = F
+|Gemeindeschlssel  = 09 5 63 000
+|NUTS               = <!-- NUTS value: DEXXX  - WILL NOT BE DISPLAYED -->
+|LOCODE             = <!-- UN/LOCODE value: "DE XXX"  - WILL NOT BE DISPLAYED -->
+|Gliederung         = 
+|Adresse            = Knigstrae 88<br/>90744 Frth
+|Website            = [http://www.fuerth.de/ www.fuerth.de]
+|Brgermeister      = Thomas Jung
+|Brgermeistertitel = Oberbrgermeister
+|Partei             = SPD
+|ruling_party1      = <!-- Leading political party currently in power - give abbreviations -->
+|ruling_party2      = <!-- 2nd ruling political party - give abbreviations -->
+|ruling_party3      = <!-- 3rd ruling political party - give abbreviations -->
+}}
+{{untuk|[[kotamadya]] di [[Bergstrasse]], [[Hessen]]|Frth, Hessen}}
+{{untuk|''ortsteil'' di [[Piesendorf]], [[Salzburg (negara bagian)|Salzburg]], [[Austria]]|Frth, Austria}}
+'''Frth''' ({{IPA|fyrt}}; [[dialek Franken]]: ''Frdd'') adalah sebuah kota otonom atau kotamadya (''[[Kreisfreie Stadt]]'') di [[Mittelfranken]], [[Bayern]], [[Jerman]]. Sekarang kota ini membentuk kesinambungan dengan [[Nrnberg]], pusat kedua kota hanya berjarak 7 km jauhnya.
+
+Frth, Nrnberg, dan [[Erlangen]], bersama dengan kota-kota kecil lainnya, membentuk "Konurbasi Mittelfranken", salah satu dari 23 "pusat utama" di Bayern dan salah satu dari 11 wilayah metropolitan Jerman.
+
+Frth memperingati hari jadinya yang ke-1000 pada tahun [[2007]]; penyebutan pertamanya dalam sejarah berasal dari tanggal [[1 November]] [[1007]].
+
+== Putera daerah ==
+* Mantan [[Menteri Luar Negeri Amerika Serikat]], [[Henry Alfred Kissinger]] berasal dari kota ini.
+
+== Kota kembar ==
+* [[Paisley]], [[Britania Raya]]
+* [[Bijeljina]], [[Bosnia dan Herzegovina]]
+* [[Limotges]], [[Perancis]]
+* [[Marmaris]], [[Turki]]
+* [[Xylokastro]], [[Yunani]]
+
+{{commons|Frth}}
+{{Bayern}}
+
+[[Kategori:Kota di Bayern]]
+[[Kategori:Kota di Jerman]]

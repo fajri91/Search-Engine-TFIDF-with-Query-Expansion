@@ -1,0 +1,17 @@
+Berkas:The Jelly Jam band.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+Gambar band The Jelly Jam
+lyrics.wikia.com
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Poster}}
+
+[[Kategori:The Jelly Jam]]

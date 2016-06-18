@@ -1,0 +1,9 @@
+Templat:Babel-row
+|- align="center" style="vertical-align: top;"
+| align="left" | [[{{{3}}}|{{{1}}} - {{{2}}}]]<br />[[:Kategori:user {{{1}}}|{{{3}}}]] {{{4|}}}
+| style="background: #F0F8FF" | {{t|user {{{1}}}-1}}<br />[[:Kategori:user {{{1}}}-1|basic]]
+| style="background: #D0F8FF" | {{t|user {{{1}}}-2}}<br />[[:Kategori:user {{{1}}}-2|intermediate]]
+| style="background: #E0E8FF" | {{t|user {{{1}}}-3}}<br />[[:Kategori:user {{{1}}}-3|advanced]]
+| style="background: #FFFF99" | {{t|user {{{1}}}-4}}<br />[[:Kategori:user {{{1}}}-4|near native]]
+| style="background: #F9CBC9" | {{t|user {{{1}}}-5}}<br />[[:Kategori:user {{{1}}}-5|professional]]
+| style="background: #C5FCDC" | {{t|user {{{1}}}}}<br />[[:Kategori:user {{{1}}}-N|native]]<noinclude>[[Kategori:Templat tampilan|{{PAGENAME}}]]</noinclude>

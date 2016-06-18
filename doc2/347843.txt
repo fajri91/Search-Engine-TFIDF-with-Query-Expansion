@@ -1,0 +1,29 @@
+Templat:Krueng Sabee, Aceh Jaya
+{{Navigasi ID Desa
+|provinsi=Aceh
+|desa/kelurahan=Gampong
+|dati2=Kabupaten
+|nama dati2=Aceh Jaya
+|nama kecamatan=Krueng Sabee
+|d1=Alue Tho
+|d2=Buntha
+|d3=Curek
+|d4=Datar Luas
+|d5=Dayah Baro
+|d6=Gampong Blang
+|d7=Kabong
+|d8=Keude Krueng Sabee
+|d9=Keutapang
+|d10=Mon Mata
+|d11=Padang Datar
+|d12=Panggong
+|d13=Panton Makmur
+|d14=Paya Seumantok
+|d15=Ranto Panyang
+|k1=Bahagia
+|k2=Sentosa
+}}
+<noinclude>
+[[Kategori:Templat desa/kelurahan di Aceh|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Aceh Jaya|{{PAGENAME}}]]
+</noinclude>

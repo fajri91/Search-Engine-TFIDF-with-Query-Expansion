@@ -1,0 +1,67 @@
+Owa ungko
+{{Taxobox
+| name = Owa Ungko
+| image = Agilegibbon.jpg
+|image_width = 240px
+| status = EN
+| status_system = iucn3.1
+| trend = unknown
+| status_ref = <ref name=iucn>{{IUCN2008|assessors=Geissmann, T. & Nijman, V.|year=2008|id=10543|title=Hylobates agilis|downloaded=4 Februari 2015}}</ref>
+| regnum = [[Animalia]]
+| phylum = [[Chordata]]
+| classis = [[Mammal]]ia
+| ordo = [[Primate]]s
+| familia = [[Hylobatidae]]
+| genus = ''[[Hylobates]]''
+| species = '''''H. agilis'''''
+| binomial = ''Hylobates agilis''
+| binomial_authority = [[Frederic Cuvier|F. Cuvier]], 1821<ref>{{aut|[[Etienne Geoffroy Saint-Hilaire|Geoffroy (-Saint Hilaire), E.]] & [[Frdric Cuvier|F. Cuvier]]}}  1821.  ''Histoire naturelle des mammiferes : avec des figures originales, colories, dessines d'aprs des animaux vivans.''  [http://www.biodiversitylibrary.org/item/150350#page/29/mode/1up T. '''3''' (Sept. 1821): 3,] [http://www.biodiversitylibrary.org/item/150350#page/24/mode/1up Pl. Livr. XXXII (jantan),] [http://www.biodiversitylibrary.org/item/150350#page/26/mode/1up & XXXIII (betina).] Paris :Chez A. Belin.</ref>
+|synonyms =
+*''Hylobates rafflei'' {{small|. Geoffroy, 1828}}
+*''Hylobates unko'' {{small|Lesson, 1829}}<ref name=les>{{aut|[[Ren Primevre Lesson|Lesson, R.P.]]}}  1840.  [http://www.biodiversitylibrary.org/item/36708#page/73/mode/1up ''Species des mammifres bimanes et quadrumanes; suivi d'un mmoire sur les Oryctropes ...'': 53.]  Paris :J.B. Baillire.</ref>
+*''Hylobates albo griseus'' {{small|Ludeking, 1862}}
+*''Hylobates albo nigrescens'' {{small|Ludeking, 1862}}
+<small>''Sumber:'' Groves 2005</small><ref name="MSW3">{{aut|[[Colin Groves|Groves, C.P.]]}}  2005.  [http://www.departments.bucknell.edu/biology/resources/msw3/browse.asp?id=12100758 ''Hylobates agilis''] in Wilson, D. E.; Reeder, D. M, eds. ''Mammal Species of the World'' (3rd ed.). Baltimore: Johns Hopkins University Press. OCLC 62265494. ISBN 0-801-88221-4.</ref>
+| range_map = Agile Gibbon area.png
+| range_map_caption = Agihan owa ungko
+}}
+'''Owa ungko'''<ref name=mam>{{aut|[[Junaidi Payne|Payne, J.]], C.M. Francis, K. Phillipps, S.N. Kartikasari}}.  2000.  ''Panduan Lapangan Mamalia di Kalimantan, Sabah, Sarawak & Brunei Darussalam'': 252, LG. 22.  Bogor:  WCS-IP, The Sabah Society & WWF Malaysia.</ref> ('''''Hylobates agilis''''') adalah sejenis [[kera]] [[arboreal]] yang termasuk ke dalam [[familia|suku]] [[Hylobatidae]].  Secara lokal dikenal dengan nama ''ungko'' atau ''wau-wau'', dalam [[bahasa Inggris]] ia disebut ''Agile Gibbon'' atau ''Black-handed Gibbon''.
+
+Owa ungko menyebar di [[Semenanjung Malaya]] dan [[Sumatera]].
+
+==Pengenalan==
+[[File:Gibbon BW.jpg|thumb|left|180px|Pelat identifikasi]]
+Owa ungko termasuk jenis [[owa]] yang terkecil ukurannya;  berat rata-rata hewan jantan sekitar 5,8 [[kilogram|kg]], sementara betinanya sekitar 5,4 kg.<ref name=prim>The Primata:  [http://www.theprimata.com/hylobates_agilis.html Agile Gibbon (''Hylobates agilis'')]</ref>
+
+Warna rambut di tubuhnya bervariasi mulai dari bungalan (cokelat kekuningan pucat), jingga kemerahan, cokelat kemerahan, cokelat, atau kehitaman.  Sebagaimana halnya [[owa kalimantan]], owa ungko memiliki alis dan berewok (cambang/rambut pipi dan jenggot) berwarna keputihan.  Pada beberapa kondisi, betina owa ungko dapat kehilangan atau berkurang warna putih di alis dan pipinya.<ref name=mutnik>{{aut|Mootnick, A.R.}}  2006. Gibbon (Hylobatidae) Species Identification Recommended for Rescue or Breeding Centers.  [http://www.primate-sg.org/storage/pdf/pc21.hylobatid.species.pdf ''Primate Conservation'' 2006 ('''21'''): 103138.]</ref>
+
+Anak jenis ''agilis'' memiliki alis dan berewok putih yang menyambung, melingkari wajah yang berwarna hitam secara penuh.  Anak jenis ''unko'' memiliki alis dan jenggot yang terputus, diseling oleh warna gelap;  sementara putih alis dan berewoknya agak berwarna krem atau kecokelatan kotor.<ref name=mutnik/>
+
+==Anak jenis==
+Dikenal dua anak jenis owa ungko:<ref name=iucn/><ref name=mutnik/><ref>Gibbon Research Lab.:  [http://www.gibbons.de/main/photo/01agil.html Agile gibbon, black-handed gibbon, unko (''Hylobates agilis'')]</ref>
+*''Hylobates a. agilis'' (owa ungko pegunungan), menyebar di wilayah pegunungan di bagian utara [[Semenanjung Malaya]] ([[Thailand]] selatan, [[Malaysia]] utara), dan di bagian barat [[Sumatera]] di selatan [[Danau Toba]].
+*''Hylobates a. unko''<ref name=les/> (owa ungko dataran rendah), menyebar di wilayah dataran rendah di bagian utara Semenanjung Malaya, dan di bagian timur Sumatera di selatan Danau Toba.
+
+[[Owa kalimantan]] (''H. albibarbis'') sebelumnya dimasukkan sebagai anak jenis owa ungko<ref name=mam/><ref name=corbet>{{aut|Corbet, G.B. & J.E. Hill}}.  1992.  ''The Mammals of Indomalayan Region: a systematic review'': 182.  Oxford: Nat. Hist. Mus. Publ. & Oxford Univ. Press.</ref>, namun kini dianggap sebagai spesies terpisah.<ref>{{aut|Groves, C.P.}}  2005.  ''op.cit.'':  [http://www.departments.bucknell.edu/biology/resources/msw3/browse.asp?id=12100759 ''Hylobates albibarbis'']</ref>
+
+==Jenis serupa==
+[[Owa kalimantan]] memiliki ukuran tubuh, pewarnaan, dan suara panggilan yang mirip dengan owa ungko;  namun owa kalimantan menyebar terbatas ([[endemik]]) di bagian barat daya pulau [[Kalimantan]], di antara aliran sungai [[Sungai Kapuas|Kapuas]] (Kalbar) dan [[Sungai Barito|Barito]] (Kalteng).
+
+==Konservasi==
+''H. agilis'' dikategorikan ke dalam status Genting (''Endangered'', EN) oleh [[IUCN]], terutama dikarenakan hilangnya habitat dan perburuan untuk dijadikan [[hewan timangan]].<ref name=iucn/>
+
+== Lihat juga ==
+* [[Harapan Rainforest]]
+
+== Rujukan ==
+{{reflist|2}}
+
+== Pranala luar ==
+* [http://harapanrainforest.org/agile-gibbon Penjelasan mengenainya di situs Harapan Rainforest]
+* Animal Diversity Web:  [http://animaldiversity.ummz.umich.edu/site/accounts/information/Hylobates_agilis.html ''Hylobates agilis'']
+* EAZA Ape Campaign: [http://www.apecampaign.org/wp-content/uploads/2010/06/gibbon-agilis-fact-sheet.pdf ''Fact sheet: agile gibbon''] (pdf).
+
+
+
+[[Kategori:Hylobates]]
+[[Kategori:Mamalia Indonesia]]

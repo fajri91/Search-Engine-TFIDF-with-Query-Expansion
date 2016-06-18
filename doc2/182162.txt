@@ -1,0 +1,14 @@
+Berkas:Wkyc84.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+Logo keempat [[WKYC-TV]], ([[1984]]-[[1986]])
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Logo}}

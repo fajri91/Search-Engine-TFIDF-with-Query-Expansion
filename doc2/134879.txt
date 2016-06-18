@@ -1,0 +1,129 @@
+Daftar gunung di Mars
+Artikel ini merupakan daftar gunung yang ada di planet [[Mars (planet)|Mars]].
+
+{| class="wikitable"
+|-
+| valign="top" | '''Nama gunung'''
+| align="center" | '''Lintang Utara'''{{br}}(derajat)
+| align="center" | '''Bujur Barat'''{{br}}(derajat)
+| align="center" | '''Diameter'''{{br}}(kilometer)
+| align="center" | '''Ketinggian'''{{br}}(kilometer)
+|-
+| [[Albor Tholus]] || align="center" | 19.3 || align="center" | 209.8 || align="center" | 165 || align="center" | &nbsp; 4.5
+|-
+| [[Anseris Mons]] || || || ||
+|-
+| [[Apollinaris Tholus]] || || || ||
+|-
+| [[Arsia Mons]] || align="center" | -9.4 || align="center" | 120.5 || align="center" | 485 || align="center" | 16.0
+|-
+| [[Ascraeus Mons]] || align="center" | 11.3 || align="center" | 104.5 || align="center" | 462 || align="center" | 18.0
+|-
+| [[Ausonia Montes]] || || || ||
+|-
+| [[Australe Montes]] || || || ||
+|-
+| [[Australis Tholus]] || || || ||
+|-
+| [[Centauri Montes]] || || || ||
+|-
+| [[Ceraunius Tholus]] || align="center" | 24.2 || align="center" | &nbsp; 97.2 || align="center" | 108 ||
+|-
+| [[Chalce Montes]] || || || ||
+|-
+| [[Charitum Montes]] || align="center" | -58.3 &nbsp; || align="center" | &nbsp; 44.2 || align="center" | 1,412 &nbsp; ||
+|-
+| [[Charitum Tholus]] || || || ||
+|-
+| [[Coronae Montes]] || || || ||
+|-
+| [[E. Mareotis Tholus]] || || || ||
+|-
+| [[Echus Montes]] || align="center" | &nbsp; 6.8 || align="center" | &nbsp; 78.2 || align="center" | 203 ||
+|-
+| [[Elysium Mons]] || align="center" | 25.0 || align="center" | 213.0 || align="center" | 432 || align="center" | 12.5
+|-
+| [[Erebus Montes]] || align="center" | 39.9 || align="center" | 170.5 || align="center" | 594 ||
+|-
+| [[Euripus Mons]] || || || ||
+|-
+| [[Galaxius Mons]] || || || ||
+|-
+| [[Geryon Montes]] || align="center" | -8.0 || align="center" | &nbsp; 80.7 || align="center" | 274 ||
+|-
+| [[Gonnus Mons]] || || || ||
+|-
+| [[Hecates Tholus]] || align="center" | 32.7 || align="center" | 209.8 || align="center" | 183 ||
+|-
+| [[Hellas Montes]] || || || ||
+|-
+| [[Hellespontus]] || align="center" | -45.5 || align="center" | 317.5 || align="center" | 681 ||
+|-
+| [[Hibes Montes]] || align="center" | &nbsp; 3.9 || align="center" | 188.9 || align="center" | 177 ||
+|-
+| [[Horarum Mons]] || || || ||
+|-
+| [[Iaxartes Tholus]] || || || ||
+|-
+| [[Issedon Tholus]] || || || ||
+|-
+| [[Jovis Tholus]] || || || ||
+|-
+| [[Kison Tholus]] || || || ||
+|-
+| [[Labeatis Mons]] || || || ||
+|-
+| [[Libya Montes]] || align="center" | &nbsp; 2.7 || align="center" | 271.2 || align="center" | 1,229 &nbsp; ||
+|-
+| [[N. Mareotis Tholus]] || || || ||
+|-
+| [[Nereidum Montes]] || align="center" | -41.0 &nbsp; || align="center" | &nbsp; 43.5 || align="center" | 1,677 &nbsp; ||
+|-
+| [[Oceanidum Mons]] || || || ||
+|-
+| [[Octantis Mons]] || || || ||
+|-
+| [[Olympus Mons]]{{br}}<font size=1> &nbsp; (gunung terbesar di [[Tata Surya]]) || align="center" | 18.4 || align="center" | 133.1 || align="center" | 624 || align="center" | 27.0
+|-
+| [[Ortygia Tholus]] || || || ||
+|-
+| [[Pavonis Mons]] || align="center" | &nbsp; 0.3 || align="center" | 112.8 || align="center" | 375 || align="center" | &nbsp; 8.7
+|-
+| [[Peneus Mons]] || || || ||
+|-
+| [[Peraea Mons]] || || || ||
+|-
+| [[Phlegra Montes]] || align="center" | 40.9 || align="center" | 197.4 || align="center" | 1,310 &nbsp; ||
+|-
+| [[Pindus Mons]] || || || ||
+|-
+| [[Scandia Tholi]] || align="center" | 66.0 || align="center" | 135.4 || align="center" | 1,232 &nbsp; ||
+|-
+| [[Sisyphi Montes]] || align="center" | -69.8 &nbsp; || align="center" | 346.9 || align="center" | 198 ||
+|-
+| [[Tanaica Montes]] || || || ||
+|-
+| [[Tartarus Montes]] || align="center" | 25.1 || align="center" | 188.7 || align="center" | 1,011 &nbsp; ||
+|-
+| [[Tharsis Montes]] || align="center" | &nbsp; 2.8 || align="center" | 113.3 || align="center" | 2,105 &nbsp; ||
+|-
+| [[Tharsis Tholus]] || align="center" | 13.4 || align="center" | &nbsp; 90.8 || align="center" | 153 ||
+|-
+| [[Tyrrhena Mons]] || || || ||
+|-
+| [[Uranius Tholus]] || || || ||
+|-
+| [[W. Mareotis Tholus]] || || || ||
+|-
+| [[Xanthe Montes]] || || || ||
+|-
+| [[Zephyria Tholus]] || || || ||
+|}
+
+== Pranala luar ==
+* [http://stuff.mit.edu/afs/athena/project/xephem/lib/auxil/mars_db Mars features database distributed with xephem v3.3]
+* [http://planetarynames.wr.usgs.gov/mars/marssysTOC.html USGS: Martian system nomenclature]
+* [http://planetarynames.wr.usgs.gov/mare/maremons.html USGS: Mars nomenclature: mountains (planetocentric east longitude)]
+
+[[Kategori:Gunung di Mars| ]]
+[[Kategori:Daftar gunung|Mars]]

@@ -1,0 +1,82 @@
+Bandar Udara Aalborg
+{{Infobox Airport
+| name         = Aalborg Airport
+| nativename   = Aalborg Lufthavn
+| nativename-a =
+| nativename-r =
+| image        = 2006 08 09 231740 IMG 2756.jpeg
+| image-width  = 200
+| caption      =
+| IATA         = AAL
+| ICAO         = EKYT
+<center>{{Location map|Denmark|width=200|float=center
+|caption=|mark=Airplane_silhouette.svg|marksize=10
+|label=AAL|position=right
+|lat_deg=57|lat_min=05|lat_sec=39|lat_dir=N
+|lon_deg=09|lon_min=51|lon_sec=19.9|lon_dir=E
+}}<small>Location of airport in Denmark</small></center>
+| type         = Military/Public
+| owner        =
+| operator     = Aalborg Lufthavn a.m.b.a.
+| city-served  = Aalborg
+| location     = Nrresundby
+| elevation-f  = 10
+| elevation-m  = 3
+| coordinates  = {{Coord|57|05|39.0|N|009|51|19.9|E|type:airport_region:DK}}
+| website      = [http://www.aal.dk/default.asp?PageID=87 www.aal.dk]
+| metric-rwy   = Y
+| r1-number    = 08R/26L
+| r1-length-f  = 8,363
+| r1-length-m  = 2,549
+| r1-surface   = [[Aspal]]
+| r2-number    = 08L/26R
+| r2-length-f  = 8,707
+| r2-length-m  = 2,654
+| r2-surface   = [[Beton]] / [[Aspal]] / [[Bitumen]]
+| stat-year    =
+| stat1-header =
+| stat1-data   =
+| stat2-header =
+| stat2-data   =
+| footnotes    = Source: Danish [[Aeronautical Information Publication|AIP]] at [[European Organisation for the Safety of Air Navigation|EUROCONTROL]]<ref name="AIP">[http://www.ead.eurocontrol.int/publicuser/protect/pu/main.jsp EAD Basic]</ref>
+}}
+
+'''Bandara Aalborg''' {{Airport codes|AAL|EKYT}} adalah bandara berungsi ganda (Sipil/Militer) yang berada di [[Nrresundby]], [[Denmark]], yang berjarak 3,5 mil timur laut dari [[Aalborg]]. Bandara Aalborg adalah bandara terbesar ketiga di Denmark dengan lebih dari satu juta penumpang setiap tahun.
+
+== Informasi bandara ==
+=== Waktu Operasi ===
+06:00 - 23:30
+
+=== Klasifikasi bandara ===
+4E (cat. 7)
+
+=== Belanja bebas pajak ===
+Toko bebas pajak di bandara buka untuk semua penumpang yang meninggalkan bandara. Beberapa produk hanya bisa dibeli untuk penumpang tujuan luar Uni Eropa.
+
+=== Transportasi ===
+* [[Taxi]]  Taksi tersedia di luar bangunan terminal.
+* [[Bus]]  Ada dua layanan bus bandara yang melayani penumpang dari bandara menuju: [[Aabybro]], [[Frederikshavn]] lewat [[Sby]] dan [[Hirtshals]] lewat [[Brnderslev]] dan [[Hjrring]]. jalur tersebut berakhir di [[Aalborg]].
+
+== Maskapai dan Tujuan ==
+{{Airport-dest-list
+|[[Air Norway]]|Oslo-Gardermoen, rland
+|[[Atlantic Airways]]|Vgar
+|[[Cimber Sterling]]|Antalya, Chania, Copenhagen, Mlaga, Nice, Oslo-Gardermoen, Salzburg
+|[[Iceland Express]]|Reykjavik-Keflavik
+|[[Norwegian Air Shuttle]]|Copenhagen, London-Gatwick, Mlaga, Paris-Orly
+|[[Onur Air]]|Antalya, Bodrum, Dalaman, zmir
+|[[Scandinavian Airlines]]|Copenhagen
+}}
+
+== Referensi ==
+{{Reflist}}
+
+== Pranala luar ==
+{{commonscat|Aalborg Airport}}
+* Aalborg Airport official site: [http://www.aal.dk/ Danish] or [http://www.aal.dk/default.asp?PageID=87 English]
+* [[Aeronautical Information Publication|AIP]] Denmark: [http://www.slv.dk/Dokumenter/dscgi/ds.py/View/Collection-95 Aalborg - EKYT]
+* [[Visual flight rules|VFR]] Flight Guide Denmark: [http://www.slv.dk/Dokumenter/dscgi/ds.py/View/Collection-618 Aalborg - EKYT]
+
+{{DEFAULTSORT:Aalborg, Bandar udara}}
+
+[[Kategori:Bandar udara di Denmark]]

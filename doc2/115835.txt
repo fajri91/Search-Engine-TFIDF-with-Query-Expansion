@@ -1,0 +1,23 @@
+Penerjemahan berbantuan komputer
+{{Navbox terjemahan}}
+'''Penerjemahan berbantuan komputer''' ([[bahasa Inggris]]: ''computer-assisted translation'', CAT) adalah suatu bentuk [[terjemahan]] yang dilakukan penerjemah [[manusia]] dengan menggunakan [[perangkat lunak]] komputer yang dirancang khusus untuk mendukung dan memfasilitasi proses penerjemahan. 
+
+Walaupun memiliki konsep serupa, penerjemahan berbantuan komputer tak dapat disamakan dengan [[terjemahan mesin]]. Dalam penerjemahan berbantuan komputer, program komputer membantu penerjemah yang menerjemahkan teks sendiri dengan melakukan segala keputusan penting. Dalam terjemahan mesin, penerjemah membantu mesin, yaitu komputer atau program menerjemahkan teks yang selanjutnya dapat disunting oleh penerjemah atau tidak disunting sama sekali.
+
+== Perangkat lunak ==
+
+Beberapa [[perangkat lunak]] terpopuler <ref>{{cite web|url=http://www3.imperial.ac.uk/portal/pls/portallive/docs/1/7307707.PDF|title=Imperial College London Translation Memories Survey|date=2006}}</ref> untuk penerjemahan berbantuan komputer antara lain adalah:
+
+* [[Deja Vu]]
+* [[OmegaT]]
+* [[SDL Trados]]
+* [[Star Transit]]
+* [[Wordfast]]
+
+== Catatan kaki ==
+
+{{reflist}}
+
+{{bahasa-stub}}
+
+[[Kategori:Terjemahan]]

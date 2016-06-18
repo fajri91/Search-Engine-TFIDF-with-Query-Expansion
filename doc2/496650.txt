@@ -1,0 +1,54 @@
+Bandar Udara Turkmenabat
+{{Infobox Airport 
+| name         = Bandar Udara Turkmenabat 
+| nativename   = 
+| nativename-a = 
+| nativename-r = 
+| image        = Turkmenabat_Airport.jpg 
+| image-width  = 
+| caption      = 
+| IATA         = CRZ
+| ICAO         = UTAV
+<center>{{Location map|Turkmenistan|width=250|float=center
+|caption=|mark=Airplane_silhouette.svg|marksize=10
+|label=CRZ|position=right
+|lat_deg=39|lat_min=05|lat_sec=00|lat_dir=N
+|lon_deg=63|lon_min=36|lon_sec=08|lon_dir=E
+}}<small>Lokasi bandar udara di Turkmenistan</small></center>
+| type         = Publik
+| owner        = 
+| operator     = N/A
+| city-served  = 
+| location     = 6 NM east of [[Trkmenabat]] (Chardzhev), Turkmenistan
+| elevation-f  = 630
+| elevation-m  = 192
+| coordinates  = {{Coord|39|05|00|N|063|36|08|E|type:airport}}
+| website      = 
+| metric-elev  = 
+| metric-rwy   = 
+| r1-number    = 15/33
+| r1-length-f  = 9,020
+| r1-length-m  = 2,749
+| r1-surface   = [[Konsentrat]]
+| stat-year    = 
+| stat1-header = 
+| stat1-data   = 
+| stat2-header = 
+| stat2-data   = 
+| footnotes    = 
+}}
+
+'''Bandar Udara Turkmenabat''' {{airport codes|CRZ|UTAV}} adalah [[bandar udara]] di [[Trkmenabat|Chardzhev]], [[Turkmenistan]]. Bandar udara ini berlokasi 5 mile di sebelah timur Chardzhev.   
+
+==Maskapai penerbangan dan tujuan==
+{{Airport-dest-list
+| [[Turkmenistan Airlines]] |Ashgabat
+}}
+
+==Pranala luar==
+* {{WAD|UTAV}}
+
+{{DEFAULTSORT:Turkmenabat, Bandar Udara}}
+{{bandara-asia-stub}}
+
+[[Kategori:Bandar udara di Turkmenistan]]

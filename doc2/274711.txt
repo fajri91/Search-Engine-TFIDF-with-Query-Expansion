@@ -1,0 +1,53 @@
+Hadron
+{{noref}}
+'''Hadron''' ({{Pron-en|hdrn||En-us-hadron.ogg}}, dari {{lang-el|}}, ''hadrs'', "kokoh, tebal") dalam ilmu [[fisika partikel]], adalah sebuah [[partikel]] yang terbuat dari beberapa [[quark]] yang diikat bersama-sama oleh suatu [[Gaya nuklir kuat|gaya yang kuat]] (yang mirip dengan [[gaya elektromagnetik]] yang mengikat [[atom|atom-atom]] dan [[molekul|molekul-molekul]]). Hadron dapat dikategorikan menjadi dua kelompok: [[barion]] (yaitu [[proton]] dan [[neutron]] yang terdiri dari tiga quark) dan [[meson]] (yaitu [[pion]] yang terdiri dari satu quark dan satu [[antiquark]]). [[tetraquark]] ([[Meson eksotis]]), yaitu [[Z(4430)]]<sup>-</sup> yang ditemukan pada tahun 2014 oleh kolaborasi dari [[LHCb]].<ref name=LHCb2014>LHCb collaboration (2014): [http://arxiv.org/abs/1404.1903 Observation of the resonant character of the Z(4430)<sup></sup> state]</ref> Berbagai jenis lain dari Hadron eksotis mungkin ada, seperti [[pentaquark]] ([[Barion eksotis]]). Namun belum terdapat bukti-bukti yang menjelaskan keberadaan partikel ini.<ref name=PDGPentaquarks2006>W.-M. Yao ''et al.'' (2006): [http://pdg.lbl.gov/2006/reviews/theta_b152.pdf Particle listings  &Theta;<sup>+</sup>]</ref><ref name=PDGPentaquarks2008>C. Amsler ''et al.'' (2008): [http://pdg.lbl.gov/2008/reviews/pentaquarks_b801.pdf Pentaquarks]</ref> Berbagai jenis dari Hadron, proton dan neutron stabil, sedangkan hadron lainnya tidak stabil dalam kondisi biasa; peluruhan neutron dengan usia setengah dari 880 detik. Dalam eksperimen, Hadron fisika dipelajari dari tumbukan proton atau inti atom dari elemen berat seperti timbal, dan  mendeteksi sisa yang dihasilkan dari tumbukan.
+
+== Barion ==
+{{Main|Barion}}
+Semua barion yang dikenali terdiri dari 3 valensi quark, begitu-pun [[fermion]]. Barion memiliki kejanggalan [[Spin (fisika)|spin]], karena mereka memiliki nilai quark yang janggal. Ketika quark memiliki [[nilai barion]] ''B''&nbsp;=&nbsp;{{frac|1|3}}, barion memiliki nilai barion ''B''&nbsp;=&nbsp;1. Barion yang paling sering dikenali ialah [[proton]] dan [[neutron]]. Hipotesis barion dengan tambahan satu pasangan quark-antiquark (5 quark dalam barion) disebut [[pentaquarks]].<ref>
+{{cite arXiv
+ |author=S. Kabana
+ |year=2005
+ |title=AIP Conference Proceedings
+ |eprint=hep-ex/0503020
+ |class=hep-ex
+ |doi=10.1063/1.1920947
+ |chapter=Review of the experimental evidence on pentaquarks and critical discussion
+ |volume=756
+ |pages=195
+}}</ref>
+
+== Meson ==
+{{Main|Meson}}
+Meson adalah hadron yang terdiri dari pasangan quark-antiquark. Tergolong [[Boson]], yang berarti partikel ini memiliki integral spin, i.e., 0, 1, atau 1. Meson memiliki nilai barion ''B''&nbsp;=&nbsp;0. Contoh meson yang umumnya diproduksi dalam eksperimen fisika partikel yaitu [[pion]] dan [[kaon]]. Pion memiliki peran dalam mempertahankan inti atom bersama-sama melalui [[gaya kuat residual]].
+
+== Lihat juga ==
+{{Wiktionary|hadron}}
+{{Wikipedia books
+ |1=Hadronic Matter
+ |3=Particles of the Standard Model
+}}
+* [[Hadronisasi]], pembentukan hadron dari quark dan gluon
+* [[Large Hadron Collider]] (LHC)
+* [[Daftar partikel]]
+* [[Model standar]]
+* [[Partikel subatomik]]
+* [[Terapi partikel|Terapi Hadron]], a.k.a. terapi partikel
+{{-}}
+
+== Referensi ==
+{{Reflist}}
+
+=== Sumber Utama dan Sampingan ===
+* [http://www.particleadventure.org/hadrons.html  particleadvanture.org] Hadron
+* [http://hyperphysics.phy-astr.gsu.edu/hbase/particles/hadron.html] Partikel Hadron
+* [http://physics.about.com/od/physicsetoh/g/hadron.htm Definisi tantang hadron]
+
+{{Partikel}}
+
+[[Kategori:Hadron| ]]
+[[Kategori:Fisika partikel]]
+[[Kategori:Fisika nuklir]]
+
+
+{{fisika-stub}}

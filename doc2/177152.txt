@@ -1,0 +1,32 @@
+Unbibium
+{{Elementbox_header | number=122 | symbol=Ubb | name='''{{lc:Unbibium}}''' | left=[[Unbiunium|Ubu]] | right=[[Unbitrium|Ubt]] | above= | below=Usb | color1=#f4f4c6 | color2=black }}
+{{Elementbox_series | [[Superactinide]]s }}
+{{Elementbox_groupperiodblock | group=g2 | period=8 | block=g }}
+{{Elementbox_appearance | unknown }}
+{{Elementbox_atomicmass_gpm |  }}
+{{Elementbox_econfig | [[Ununoctium|<nowiki>[Uuo]</nowiki>]] 5[[g-orbital|g]]<sup>2</sup> 8[[s-orbital|s]]<sup>2</sup> }}
+{{Elementbox_epershell | 2, 8, 18, 32, 34, 18, 8, 2 }}
+{{Elementbox_section_physicalprop | color1=#f4f4c6 | color2=black }}
+{{Elementbox_phase | presumably solid }}
+|-
+|
+{{Elementbox_section_miscellaneous | color1=#f4f4c6 | color2=black }}
+{{Elementbox_isotopes_begin | color1=#f4f4c6 | color2=black }}
+|-
+|
+{{Elementbox_isotopes_end}}
+{{Elementbox_footer | color1=#f4f4c6 | color2=gray }}
+
+'''Unbibium''' ({{pronEng|nbbim}}) adalah nama sementara [[unsur kimia]] yang belum ditemukan dalam [[sistem periodik unsur]] yang memiliki lambang '''Ubb''' dan nomor atom 122. 
+
+== Pranala luar ==
+* [http://www.chemistry-blog.com/2008/04/29/adressing-marinovs-element-122-claim/ Chemistry-Blog: Independent analysis of Marinovs 122 claim]
+* [http://www.webelements.com/webelements/elements/text/Ubb/index.html WebElements.com - Unbibium]
+* [http://www.apsidium.com/elements/122.htm Likely properties of Unbibium] 
+* [http://www.phys.huji.ac.il/~marinov/index.htm Marinov's Site]
+
+{{Tabel periodik unsur kimia}}
+{{kimia-stub}}
+
+[[Kategori:Unsur kimia]]
+[[Kategori:Fisika nuklir]]

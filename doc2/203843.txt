@@ -1,0 +1,48 @@
+Salins, Seine-et-Marne
+{{otherplaces3|Salins}}
+{{Infobox French commune|
+name=Salins|
+image_map = France_jms.png|
+x = 151|
+y = 86|
+lat_long={{coord|48|25|22|N|3|1|23|E}}|
+insee=77439|
+postal_code=77148|
+region=[[le-de-France (region)|le-de-France]]|
+department=[[Seine-et-Marne]]|
+arrondissement=Provins|
+canton=[[Kanton Montereau-Fault-Yonne|Montereau-Fault-Yonne]]|
+mayor=Georges Benard|
+term=2008-2014|
+intercomm=[[Communaut de communes des Deux Fleuves]]|
+elevation_min_m=58|
+elevation_max_m=138|
+area_km2=10.55|
+population=916|
+date-population=1999|
+density_km2=87|
+date-density=1999}}
+
+'''Salins''' merupakan sebuah [[komune di Perancis|komune]] di [[departemen di Perancis|departemen]] [[Seine-et-Marne]] di [[region di Perancis|region]] [[le-de-France (region)|le-de-France]] di utara-tengah [[Perancis]].
+
+== Demografi ==
+Pada [[sensus]] 1999, penduduknya berjumlah 916 jiwa.
+
+Penduduknya disebut sebagai ''Salinois''.
+
+== Lihat pula ==
+* [[Komune di departemen Seine-et-Marne]]
+
+== Pranala luar ==
+* [http://www.iaurif.org/en/gis/fichescom/mos99/ficmos/mos77439.html 1999 Land Use, from IAURIF (Institute for Urban Planning and Development of the Paris-le-de-France rgion] {{en}}
+* [http://www.culture.gouv.fr/public/mistral/merimee_fr?ACTION=CHERCHER&FIELD_98=INSEE&VALUE_98=77439 French Ministry of Culture list for Salins] {{fr}}
+* [http://www.viamichelin.co.uk/viamichelin/gbr/dyn/controller/mapPerformPage?strAddress=&strCP=77148&strLocation=Salins&strCountry=1424&image2.x=28&image2.y=7 Map of Salins on Michelin] {{en}}
+
+{{Komune di Seine-et-Marne}}
+
+{{DEFAULTSORT:Salins, Seine-Et-Marne}}
+[[Kategori:Komune di Seine-et-Marne]]
+[[Kategori:Komune di Perancis]]
+
+
+{{SeineMarne-geo-stub}}

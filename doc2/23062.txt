@@ -1,0 +1,191 @@
+Ulan Bator
+{{Infobox settlement
+<!--See Template:Infobox settlement for additional fields that may be available-->
+<!--See the Table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name                   =Ulan Bator  <!-- at least one of the first two fields must be filled in -->
+|official_name          =
+|other_name             =
+|native_name            =  <!-- if different from the English name -->
+|native_name_lang       =  <!-- Use ISO639 code, e.g. "fr" for French.
+                           If there is more than one native name, in different languages,
+                           enter those names using {{lang}}, instead -->
+|nickname               =  (''UB''),  (''capital''),  (''city''),    (''Asia's white [[dakini|fairy]]'')
+|settlement_type        = <!--such as Town, Village, City, Borough etc.-->
+|total_type             = <!-- to set a non-standard label for total area and population rows -->
+|motto                  =
+|translit_lang1= Mongolian
+|translit_lang1_type=[[Aksara Mongol]]
+|translit_lang1_info=[[Berkas:Ulaghanbaghatur.svg|25px]]
+|translit_lang1_type1=Transkripsi
+|translit_lang1_info1=Ulaanbaatur
+|translit_lang2=Sirilik
+|translit_lang2_type=[[Alfabet Sirilik]]
+|translit_lang2_info=
+|translit_lang2_type1=Transkripsi
+|translit_lang2_info1=Ulaanbaatar
+|motto                  =
+|image_skyline          = UlaanBaatar-2009.jpg
+|imagesize              = 285px
+|image_caption          = Pemandangan Kota Ulan Bator
+|image_flag             = Mn flag ulaanbaatar.png
+|flag_size              = 120px
+|image_seal             =
+|seal_size              =
+|image_shield           = Mn coa ulaanbaatar.png
+|shield_size            = 120px
+|image_map              =
+|mapsize                =
+|map_caption            =
+|image_map1             =
+|mapsize1               =
+|map_caption1           =
+|pushpin_map            = Mongolia<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position = bottom <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    = Lokasi di Mongolia
+|pushpin_mapsize        =285
+|coordinates_region     = MN
+|subdivision_type       = [[Daftar negara di dunia|Negara]]
+|subdivision_name       = Mongolia
+|subdivision_type1      =
+|subdivision_name1      =
+|subdivision_type2      =
+|subdivision_name2      =
+|subdivision_type3      =
+|subdivision_name3      =
+|subdivision_type4      =
+|subdivision_name4      =
+|government_type        =
+|leader_title           = Walikota
+|leader_name            = Erdeniin Bat-l
+|leader_title1          =  <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           =
+|leader_title2          =
+|leader_name2           =
+|leader_title3          =
+|leader_name3           =
+|leader_title4          =
+|leader_name4           =
+|established_title      = Terbentuk sebagai [[rg]]: 
+|established_date       = 1639
+|established_title2     = lokasi sekarang
+|established_date2      = 1778
+|established_title3     = Ulaanbaatar
+|established_date3      = 1924
+|area_magnitude         =
+|unit_pref                = <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes           =
+|area_total_km2           = 4704.4
+|area_land_km2            =
+|area_water_km2           =
+|area_total_sq_mi         = 1816.3
+|area_land_sq_mi          =
+|area_water_sq_mi         =
+|area_water_percent       =
+|area_urban_km2           =
+|area_urban_sq_mi         =
+|area_metro_km2           =
+|area_metro_sq_mi         =
+|population_as_of               = 2009-12-31
+|population_footnotes           = <ref name="Statistic-dec-2009">Ulan Bator Statistic Bulletin Dec.2008 http://www.statis.ub.gov.mn/index.php?option=com_content&task=view&id=149&Itemid=59</ref>
+|population_note                =
+|population_total               = 1,106,500
+|population_density_km2         = 235
+|population_density_sq_mi       = 603
+|population_metro               =
+|population_density_metro_km2   =
+|population_density_metro_sq_mi =
+|population_urban               =
+|population_density_urban_km2   =
+|population_density_urban_sq_mi =
+|timezone               = H
+|utc_offset             = +8
+|timezone_DST           =
+|utc_offset_DST         =
+|latd=47 |latm=55 |lats= |latNS=N
+|longd=106 |longm=55 |longs= |longEW=E
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 1350
+|elevation_ft           = 4429
+|postal_code_type       = Kode pos
+|postal_code            = 210 xxx
+|area_code              = +976 (0)11
+|blank_name_sec1             = Nomor kendaraan
+|blank_info_sec1             = _ (_ variable)
+|blank1_name_sec1            = [[ISO 3166-2]]
+|blank1_info_sec1           = MN-1
+|website                = http://www.ulaanbaatar.mn/
+|footnotes              =
+}}
+[[Berkas:Ulaanbaatar train station.jpg|jmpl|250px|Stasiun kereta api Ulan Bator]]
+'''Ulan Bator''' atau juga '''UlaanBaatar''' ([[bahasa Mongol|Mongol]] , "Ulaanbaatar"; {{MongolUnicode|}}, "Ulaanbaatur", secara harfiah berarti "Pahlawan Merah"), adalah [[ibu kota]] sekaligus [[kota]] terbesar di [[Mongolia]]. Sebuah [[Kotamadya]], kota ini tidak menjadi bagian dari [[Provinsi Mongolia (Aimguud)|Provinsi]], dan populasinya pada tahun 2008 adalah lebih dari 1 juta.<ref name="Statistic">Ulaanbaatar Statistic Bulletin May.2008 http://statis.ub.gov.mn/index.php?option=com_docman&task=doc_download&gid=170&Itemid=99999999</ref>
+
+== Arti nama ==
+Ulan Bator telah diberi berbagai nama dalam sejarah. Sebelum tahun 1911, nama resminya adalah Ikh Khuree ([[Alfabet Sirilik Mongolia|Bahasa Mongolia]]:  , "Kamp besar") atau Daa Khuree ( , lih. [[Bahasa Tionghoa]]: , Da, "besar"), atau hanya "Khuree". Ulaanbaatar dalam bahasa Mongol artinya ialah "Pahlawan Merah".
+
+== Geografi dan iklim ==
+{{climate chart
+| Ulaanbaatar
+| -26.5 | -15.6 |  1.1
+| -24.1 | -11.4 |  1.7
+| -15.4 | - 2.0 |  2.7
+| - 5.8 |   8.3 |  8.3
+|   2.7 |  16.8 | 13.4
+|   8.3 |  21.6 | 41.7
+|  11.2 |  22.7 | 57.6
+|   9.3 |  21.5 | 51.6
+|   2.2 |  15.6 | 26.2
+| - 6.0 |   6.8 |  6.4
+| -16.2 | - 4.4 |  3.2
+| -23.8 | -13.7 |  2.5
+<!-- | float = left -->
+<!-- | clear = both -->
+| source = HKO <ref name= HKO >{{cite web
+  |url=http://www.hko.gov.hk/wxinfo/climat/world/eng/asia/china/ulaanbaatar_e.htm
+  |publisher=[[Hong Kong Observatory]]
+  |accessdate=2010-04-14
+  |title= Climatological Normals of Ulaanbaatar }}</ref> }}
+
+[[File:Ulan_Bator,_Mongolia,_satellite_image_ALI_sensor_EO-1_satellite,_2009-07-23.jpg|thumb|300px|Satellite view of the city (satellite [[EO-1]], 2009-07-23)]]
+Ulan Bator terletak sekitara 1350 [[meter]] (atau 4430 kaki) di atas permukaan laut, sedikit ke arah [[timur]] [[Mongolia]] dekat [[Sungai Tuul]], dekat [[lembah]] di kaki gunung [[Bogd Khan Uul]].
+
+Dikarenakan oleh [[Altitudo|elevasi]] yang tinggi, pada [[garis lintang]] yang relatif tinggi, bertempat ratusan kilometer dari [[pantai]] manapun, dan berdampak dari [[Ketinggian Siberia]], Ulan Bator merupakan ibu kota negara terdingin di dunia,<ref name="Montsame News Agency 2006, p. 35">Montsame News Agency.  ''Mongolia''.  2006, ISBN 9992906278, p. 35</ref> dengan pengaruh [[muson]], [[subartik]], [[iklim semi-arid]] ([[Klasifikasi iklim Kppen]]) dengan waktu [[musim panas]] yang pendek, serta [[musim dingin]] yang panjang. [[Presipitasi]] setahun adalah {{convert|216|mm|2}} yang lebih terpusatkan pada bulan-bulan di musim panas. Dengan [[temperatur]] rata-rata per tahun {{conver|-0.7|C|1}}. Kota ini berada di wilayah [[permafrost]], yang berarti pembangunan sulit dilakukan pada tempat-tempat tertentu yang tidak berpengaruh pada pencairan di musim panas, tetapi lebih mudah pada tempat yang terbuka di mana tanah mencair sepenuhnya. Penduduk yang tinggal di pinggran kota, tinggal di [[yurt]] tradisional yang tidak dibenamkan ke dalam tanah.<ref>geography.about.com [http://geography.about.com/od/physicalgeography/a/coldcapital.htm coldcapital.html]</ref>
+{{Ulan Bator weatherbox}}
+
+== Kota kembar ==
+[[Berkas:UBTwinCities.JPG|thumb|Plakat yang menjelaskan kota kembar Ulan Bator.]]
+
+Menurut situs resmi<ref>[http://ulaanbaatar.mn/index.php?option=com_content&task=view&id=460&Itemid=241 Ulaanbaatar.mn:   ,  ]</ref>:
+* {{flagicon|Turkey}} [[Adana]], [[Turkey]]
+* {{flagicon|Korea Selatan}} [[Seoul]], [[South Korea]]
+* {{flagicon|Rusia}} [[Irkutsk]], [[Rusia]]<ref>[http://www.cbs.irkutsk.ru/brat_b.htm Irkustsk sister cities]</ref>
+* {{flagicon|Rusia}} [[Moskwa]], [[Rusia]]
+* {{flagicon|Rusia}} [[Saint Petersburg]], [[Rusia]]<ref>[http://translate.google.com/translate?sourceid=navclient&hl=en&u=http%3a%2f%2fwww.kvs.spb.ru%2f%3fp%3ddelovie_missii_sankt-peterburga_za_rubezhom245 Chairman of the Committee for External Relations of St. Petersburg]</ref>
+* {{flagicon|Rusia}} [[Ulan Ude]], [[Rusia]]<ref>[http://www.infpol.ru/newspaper/number.php?ELEMENT_ID=14421 Ulan Ude looking for sister cities]</ref>
+* {{flagicon|Amerika Serikat}} [[Denver, Colorado]], [[Amerika Serikat]]<ref>[http://www.denversistercities.org/ulaanbaatarHistory.php Denver Sister Cities]</ref>
+* {{flagicon|Indonesia}} [[Jakarta]], [[Indonesia]]
+* {{flagicon|Indonesia}} [[Malang]], [[Indonesia]]
+* {{flagicon|Thailand}} [[Bangkok]], [[Thailand]]
+* {{flagicon|Japan}} [[Sapporo]], [[Japan]]
+* {{flagicon|Republic of China}} [[Taipei]], [[Republic of China|Taiwan]]
+* {{flagicon|People's Republic of China}} [[Hohhot]], [[People's Republic of China|China]]
+* {{flagicon|Amerika Serikat}} [[San Francisco]], [[California]], [[Amerika Serikat]]
+* {{flagicon|Germany}} [[Bonn]], [[Germany]]
+* {{flagicon|Vietnam}} [[Hanoi]], [[Vietnam]]
+* {{flagicon|Jepang}} [[Tokyo]], [[Jepang]]
+* {{flagicon|Australia}} [[Gold Coast, Queensland|Gold Coast]], [[Australia]] <ref>http://businessgc.com.au/index.php?page=sister-cities</ref>
+* {{flagicon|India}} [[Delhi]], [[India]]<ref>http://timesofindia.indiatimes.com/articleshow/15278423.cms</ref>
+
+== Referensi ==
+{{reflist}}
+
+== Pranala luar ==
+{{wikivoyage|Ulan Bator}}
+
+{{Ibu kota di Asia}}
+
+[[Kategori:Ulan Bator| {{PAGENAME}}]]
+[[Kategori:Kota di Mongolia]]
+
+
+{{negara-geo-stub|Mongolia}}

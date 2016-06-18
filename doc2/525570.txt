@@ -1,0 +1,41 @@
+Templat:D. Djajakusuma
+{{Navbox
+|name = D. Djajakusuma
+|title = Karya [[D. Djajakusuma]]
+|state = {{{state|autocollapse}}}
+|listclass = hlist
+|group1 = Sutradara
+|list1 =
+*''Embun'' (1951)
+*''Terimalah Laguku'' (1952)
+*''[[Harimau Tjampa]]'' (1953)
+*''Putri dari Medan'' (1954)
+*''Mertua Sinting'' (1954)
+*''Arni'' (1955)
+*''[[Tjambuk Api]]'' (1958)
+*''Pak Prawiro'' (1958)
+*''Mak Tjomblang'' (1960)
+*''Lahirnja Gatotkatja'' (1960)
+*''Masa Topan dan Badai'' (1963)
+*''Rimba Bergema'' (1964)
+*''Bimo Kroda'' (1967)
+*''[[Malin Kundang (film)|Malin Kundang (Anak Durhaka)]]'' (1971)
+*''Api Dibukit Menoreh (Gugurnya Tohpati)'' (1971)
+
+|group2 = Produser
+|list2 =
+*''Bang Kojak'' (1977)
+
+|group3 = Penulis naskah
+|list3 =
+*''Embun'' (1951)
+*''Dosa Tak Berampun'' (1951)
+*''[[Harimau Tjampa]]'' (1953)
+*''Pak Prawiro'' (1958)
+*''Mak Tjomblang'' (1960)
+*''Lahirnja Gatotkatja'' (1960)
+
+}}<noinclude>
+{{collapsible option}}
+[[Category:Templat navigasi sutradara Indonesia|D. Djajakusuma]]
+</noinclude>

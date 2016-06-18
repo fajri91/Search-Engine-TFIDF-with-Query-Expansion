@@ -1,0 +1,14 @@
+Berkas:WileECoyote.gif
+== {{int:filedesc}} ==
+{{Information
+| description    =
+[[Wile E. Coyote dan Road Runner|Wile E. Coyote]], karakter ''[[Looney Tunes]]''
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Promophoto}}

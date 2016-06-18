@@ -1,0 +1,25 @@
+Templat:Wulanggitang, Flores Timur
+{{Navigasi ID Desa
+|provinsi=Nusa Tenggara Timur
+|dati2=Kabupaten
+|nama dati2=Flores Timur
+|nama kecamatan=Wulanggitang
+|d1=Bayuntaa
+|d2=Boru
+|d3=Boru Kedang
+|d4=Dokeng
+|d5=Hewa
+|d6=Hokeng Jaya
+|d7=Lewat
+|d8=Nawokote
+|d9=Nileknoheng
+|d10=Nobo
+|d11=Ojandetun
+|d12=Pantai Oa
+|d13=Pululera
+|d14=Waiula
+}}
+<noinclude>
+[[Kategori:Templat desa/kelurahan di Nusa Tenggara Timur|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Flores Timur|{{PAGENAME}}]]
+</noinclude>

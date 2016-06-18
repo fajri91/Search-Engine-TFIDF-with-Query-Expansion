@@ -1,0 +1,48 @@
+Templat:Skuat PD1970 Rumania
+{{National squad
+ | name      = Skuat PD1970 Rumania
+ | bg        = #FFE60D
+ | fg        = #0045E6
+ |bordercolor= #CE1126
+ | country   = Rumania
+ | flagvar   = 1965
+|comp link=Piala Dunia FIFA 1970
+|comp=Piala Dunia FIFA 1970
+ | p1        = [[Rducanu Necula|Rducanu]] 
+ | p2        = [[Lajos Stmreanu|Stmreanu]] 
+ | p3        = [[Nicolae Lupescu|Lupescu]] 
+ | p4        = [[Mihai Mocanu|Mocanu]] 
+ | p5        = [[Cornel Dinu|Dinu]] 
+ | p6        = [[Dan Coe|Coe]] 
+ | p7        = [[Emerich Dembrovschi|Dembrovschi]] 
+ | p8        = [[Nicolae Dobrin|Dobrin]] 
+ | p9        = [[Florea Dumitrache|Dumitrache]] 
+ | p10       = [[Radu Nunweiller|Nunweiller]] 
+ | p11       = [[Mircea Lucescu|Lucescu]] 
+ | p12       = [[Mihai Ivncescu|Ivncescu]]
+ | p13       = [[Augustin Deleanu|Deleanu]] 
+ | p14       = [[Vasile Gergely|Gergely]]
+ | p15       = [[Ion Dumitru|Dumitru]] 
+ | p16       = [[Alexandru Neagu|Neagu]] 
+ | p17       = [[Gheorghe Ttaru|Ttaru]] 
+ | p18       = [[Marin Tufan|Tufan]] 
+ | p19       = [[Flavius Domide|Domide]] 
+ | p20       = [[Nicolae Pescaru|Pescaru]] 
+ | p21       = [[Stere Adamache|Adamache]] 
+ | p22       = [[Gheorghe Gornea|Gornea]]
+ | coach     = [[Angelo Niculescu|Niculescu]]
+}}<noinclude>[[Kategori:Templat skuat Piala Dunia FIFA 1970|Rumania]]
+[[Kategori:Templat tim nasional sepak bola Rumania|1970]]
+
+
+
+
+
+
+
+
+
+
+
+
+</noinclude>

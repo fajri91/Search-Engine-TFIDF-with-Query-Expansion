@@ -1,0 +1,12 @@
+Templat:Linux-distro-stub
+{{asbox
+| image     = NewTux.svg
+| pix       = 35
+| subject   = [[Linux distribution]]-related 
+| qualifier = 
+| category  = Linux
+| tempsort  =  
+| name      = Templat:Linux-distro-stub
+}}<noinclude>
+
+</noinclude>

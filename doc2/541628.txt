@@ -1,0 +1,48 @@
+Paradoks kartu
+'''Paradoks kartu''' adalah varian non-acuan diri yang dikembangkan oleh [[Philip Jourdain]].<ref name="OConnorRobertson2005"/> Fenomena ini juga dikenal dengan nama '''paradoks kartu pos''' atau '''paradoks Jourdain'''.
+
+== Penjelasan ==
+Bayangkan ada sebuah kartu yang di kedua sisinya terulis kalimat sebagai berikut:
+
+{|class="prettytable"
+|'''Depan:'''||Kalimat di balik kartu ini BENAR.
+|-
+|'''Belakang:'''||Kalimat di balik kartu ini SALAH.
+|}
+
+Menetapkan nilai kebenaran pada masing-masing sisi akan berujung pada [[paradoks]].
+
+# Jika pernyataan pertama benar, begitu pula pernyataan kedua. Tetapi jika pernyataan kedua benar, pernyataan pertama salah. Ujung-ujungnya adalah jika pernyataan pertama benar, pernyataan pertama salah.
+# Jika pernyataan pertama salah, begitu pula pernyataan kedua. Tetapi jika pernyataan kedua salah, pernyataan pertama benar. Ujung-ujungnya adalah jika pernyataan pertama salah, pernyataan pertama benar.
+
+Mekanisme yang sama dapat diterapkan pada pernyataan kedua. Tidak satupun kalimat yang memakai [[acuan diri]], karena ini adalah kasus [[acuan melingkar]]. Lihat [[paradoks Yablo]] untuk mempelajari variasi paradoks pembohong yang tidak bergantung pada acuan melingkar.
+
+== Lihat pula ==
+* [[Acuan diri]]
+* [[Acuan melingkar]]
+* [[Paradoks pembohong]]
+* [[Daftar paradoks]]
+* [[Paradoks Yablo]]
+
+== Referensi ==
+{{reflist|refs=
+<ref name="OConnorRobertson2005">{{cite web
+| url = http://www-groups.dcs.st-and.ac.uk/~history/Biographies/Jourdain.html
+| title = Philip Edward Bertrand Jourdain
+| first1 = John J.
+| last1 = O'Connor
+| first2 = Edmund F.
+| last2 = Robertson
+| authorlink1 = Edmund F. Robertson
+| authorlink2 = John J. O'Connor (mathematician)
+| month = February
+| year = 2005
+| work = The MacTutor History of Mathematics archive
+| publisher =
+| location =
+| accessdate = 4 April 2010
+}}</ref>
+
+}}
+
+[[Kategori:Paradoks]]

@@ -1,0 +1,257 @@
+Puppy Linux
+{{ infobox OS
+| name                   = Puppy Linux
+| logo                   = [[Berkas:Banner logo Puppy.png|250px]]
+| screenshot             = [[Berkas:PuppyLinux533.png|250px]]
+| caption                = [[Antarmuka pengguna|Antarmuka]] Puppy Linux 5.3.3 ''Slacko Puppy''
+| developer              = Barry Kauler (perintis)<br/>Larry Short, Mick Amadio, dan komunitas Puppy
+| family                 = [[Sistem operasi bertipe Unix|Unix-like]]
+| source_model           = Terutama [[Sumber terbuka]]
+| working_state          = Stabil
+| supported_platforms    = x86, 64 bit
+| package_manager        = PetGet, Puppy Package Manager
+| latest_release_version = 5.7.1<ref>{{cite web|url=http://bkhome.org/blog2/?viewDetailed=00346 |title= Precise Puppy 5.7.1 |publisher=Bkhome.org |first=Barry | last=Kauler |date= |accessdate=2013-08-04}}</ref> (Precise), 5.6 (Slacko)<ref>[http://bkhome.org/blog2/?viewDetailed=00352 Slacko Puppy 5.6 released]</ref>
+| latest_release_date    = {{release date|2013|08|13|df=yes}}
+| marketing_target       = Live CD, Netbook, sistem usang, dan penggunaan umum
+| kernel_type            = Monolithic ([[Linux kernel|Linux]])
+| ui                     = [[JWM]] / [[IceWM]] + [[ROX Desktop]]
+| license                = Terutama [[GPL]]
+| website                = [http://puppylinux.org/ www.puppylinux.org]
+}}
+
+'''Puppy Linux''' adalah salah satu distro [[Linux]] [[Live CD]] yang sangat kecil ukurannya dan mengutamakan kemudahan dalam penggunaan. Seluruh sistem operasi dan aplikasinya berjalan dalam [[RAM]], yang membolehkan media booting dilepas setelah [[sistem operasi]] berhasil dijalankan. Puppy menyertakan beberapa aplikasi untuk pekerjaan standar sehari-hari seperti [[Mozilla]] [[SeaMonkey]] untuk menejelajah internet dan mengirim email, [[AbiWord]] word-processor, [[Gnumeric]] spreadsheet, [[Sodipodi]] untuk menggambar (vector), [[mtPaint]] untuk melukis (bitmap) / meng-edit foto dan Gxine/[[xine]] untuk memutar video dan musik. Distro linux ini dikembangkan pertama kali oleh Barry Kauler, distribusi ini tidak berdasar pada distribusi linux manapun.
+
+Rilis (resmi/stabil) terbaru distro ini adalah versi 5.7.1 yang dikeluarkan pada 13 Agustus 2013.
+
+== Fitur ==
+
+Puppy dapat digunakan untuk mengaktifkan komputer lama, sebagai sistem penyelamatan darurat (emergency rescue system), sebagai sistem peragaan Linux, maupun sebagai sistem operasi lengkap. Dapat dijalankan (boot) dari:
+
+* [[USB flash drive]]/keydrive atau [[USB]] storage device lainnya yang bootable(flash-Puppy)
+* [[CD-ROM]] (live-Puppy), dengan enam pilihan.
+* [[Zip drive]] atau LS-120/240 [[SuperDisk]] (zippy-Puppy)
+* Internal [[hard drive]] (hard-Puppy)
+* [[Computer network]] (thin-Puppy)
+* [[Emulator]] (emulated-puppy)
+* Floppy [[boot disk]] yang akan memanggil sistem operasi selebihnya dari USB drive, CD-ROM, atau internal hard drive
+
+Melakukan instalasi sebuah versi Puppy ke hard disk, USB disk, Zip disk, dll. dapat dilakukan dari live-Puppy atau cara instalasi lain.
+
+[[Berkas:wNOP02_EeePC_1.jpg|thumb|wNOP v0.2 di EeePC: Puppy 3.01 dan Compiz-Fusion]]Sebuah ciri khas yang membedakan Puppy Linux dari distribusi Linux lainnya adalah kemampuannya untuk beroperasi memakai write-once CD (CD sekali rekam), jadi tidak perlu memakai rewritable CD (CD yang dapat berulangkali merekam.) Puppy akan secara otomatis mengenali perubahan-perubahan di sistem file dan menyimpannya berurutan di CD. Jika CD penuh, pemakai dapat dengan mudah mengganti dengan CD baru yang akan merekam semua file dan pengaturan desktop. Distribusi Linux lain memang ada yang menyediakan sistem operasi versi Live CD, namun tidak bisa menambah atau merekam dalam Live CD tersebut.
+
+Puppy Linux juga mempunyai sistem penulisan penyimpanan (write-caching system) yang canggih sehingga dapat memperpanjang umur pemakaian USB flash drives yang menggunakan Puppy Linux.
+
+[[Live USB]] Puppy Linux dapat dibuat secara manual atau dengan [[UNetbootin]] [http://unetbootin.sourceforge.net/].
+
+Untuk meng-instal program, Puppy Linux menggunakan [[package manager]] sendiri bernama PetGet. Package manager yang lama, DotPup, masih dapat digunakan.
+
+Puppy juga memiliki "remaster tool" untuk membuat live-CD versi anda sendiri dengan merekam semua perubahan yang sudah anda lakukan.
+
+Puppy Linux menggunakan [[T2 SDE]] build scripts untuk membangun paket binary dasarnya.
+
+== Sejarah ==
+[[Berkas:Capture_puppy_linux_jwm.jpg|thumb|Menu, Mozilla, Gaim, Gxine pada Puppy Linux 1.05]]
+[[Berkas:PuppyLinux-ScreenShot-070216-1.png|thumb|SeaMonkey, AbiWord dan MineSweeper pada Puppy Linux 2.13]]
+[[Berkas:Pup-430.png|thumb|right|Puppy Linux 4.3.0]]
+[[Berkas:Puppy Linux 5.1.0.png|thumb|right|Puppy Linux 5.1.0]]
+{| class="wikitable"
+|-
+! Versi
+! Tanggal Rilis
+|-
+| Puppy 1
+| 29 Maret 2005
+|-
+| Puppy 2
+| 1 Juni 2006
+|-
+| Puppy 3
+| 2 Oktober 2007
+|-
+| Puppy 4
+| 5 Mei 2008
+|-
+| Puppy 5
+| 15 Mei 2010
+|}
+
+'''Puppy 1''' tersedia dalam beberapa edisi yang berbeda:
+* Edisi standard menggunakan [[AbiWord]] sebagai [[word processor]] berukuran 68 [[Megabyte|MB]]; live-CD ISO file dengan Mozilla Firefox berukuran 52.4 MB; dengan [[Mozilla suite]] lengkap berukuran 55.3 MB; dengan [[Opera (perangkat lunak)|Opera]] berukuran 49.6 MB.
+* Edisi "[[wikt:Chubby|Chubby]] Puppy" berukuran 96.1 MB menyertakan [[OpenOffice.org]].
+* Edisi "[[Barebone|BareBones]] Puppy" berukuran 39.9 MB tanpa [[Graphical user interface|GUI]],
+* dan edisi "zdrv" standard berukuran 83 MB, dengan kernel drivers dan firmware tambahan.
+* Puppy-multisession berukuran 55.7 MB, dapat menyimpan file ke dalam Live CD ([[multisession]]), sehingga pemakai dapat membawa data, dan yang terpenting, menambah program dan menyimpan pengaturan khusus, dalam CD yang sama.
+
+Puppy 1 series dapat berjalan lancar pada komputer lama, seperti komputer Pentium dengan RAM minimal 32 MB. Untuk komputer lebih baru, lebih baik menggunakan versi USB keydrive. Jika [[BIOS]] komputer tersebut tidak mengenali booting lewat USB, Puppy floppy boot disk dapat digunakan sebagai langkah awal. Cara lain, jika BIOS tidak mengenali booting lewat USB, boot dapat dilakukan lewat CD, lalu data pemakai disimpan dalam USB keydrive saat sistem dimatikan (shutdown) dan dibaca kembali dari USB device saat bootup. Puppy Linux dapat juga berjalan dalam komputer yang menggunakan [[Windows 9x]]/[[Windows Me]].
+
+'''Puppy 2''' merupakan perbaikan dari versi 1 dalam hal struktur penyimpanan file. Dalam versi 1 (Puppy 1 Series) semua file sistem operasi, driver, maupun pengaturan pemakaian dijadikan satu file, sedangkan dalam Puppy versi 2 dipisah-pisah. Puppy versi 2, contohnya Puppy 2.14 (86.5 MB), menggunakan Mozilla SeaMonkey sebagai [[Internet suite]] (gabungan [[web browser]] dan e-mail client), JWM Window Manager, Abiword, Gnumerics, dll. 
+
+'''Puppy 3''' dibuat kompatibel dengan [[Slackware]] 12.<ref>{{ cite web | url = http://puppylinux.org/user/news.php?readmore=50 | title = Puppy 3.00 Released (Updated to 3.01) | first = Barry | last = Kauler }}</ref> Artinya instalasi paket-paket Slackware dapat dengan mudah dilakukan sebab hampir semua program-program dasarnya sudah ter-instal. Namun, ini bukan berarti Puppy Linux sekarang adalah [[Distribusi Linux#Distribusi bebas berbasis Slackware|distribusi berbasis Slackware]].<ref>{{ cite web | url = http://www.puppylinux.com/download/release-3.01.htm | title = Puppy Linux release notes v3.00 | first = Barry | last = Kauler }}</ref>
+
+'''Puppy 4''' di-compile langsung dari source dengan [[T2]] (Open System Development Environment project) [http://www.t2-project.org/] untuk memperkecil ukuran dan menambah fungsionalitas dibanding versi 3. Aplikasi berbasis GTK+ 1.x dan Tcl/Tk juga diganti dengan yang berbasis [[GTK+]] 2[http://www.gtk.org/] sehingga tampilan GUInya lebih indah dan konsisten dengan GUI sistem operasinya<ref>{{ cite web | url = http://puppylinux.com/download/release-4.00.htm | title = Puppy Linux release notes 4.00 | first = Barry | last = Kauler }}</ref>. Puppy 4.1 semula direncanakan sebagai karya terakhir Barry Kauler dan selanjutnya pengembangan Puppy akan diserahkan pada beberapa developer tepercaya, namun ternyata Barry kembali di 4.3.<ref>{{ cite web | url = http://puppylinux.com/download/release-4.3.htm | title = Announcement and release notes for Puppy Linux 4.3 | first = Barry | last = Kauler }}</ref>
+
+Selain itu, pada tiap versi, ada Puppy Unleashed yang terdiri lebih dari 500 paket program yang dapat dipilih sesuai kebutuhan pengguna untuk membuat live CD khusus dengan memakai "remaster tool".
+
+'''Puppy 5'''<ref>{{cite web | url = http://distro.ibiblio.org/pub/linux/distributions/puppylinux/puppy-5.0/release-500.htm | title=Announcement and release notes for Lucid Puppy 5.0| first = Barry | last = Kauler }}</ref> dibuat dengan ''Woof'' suatu perangkat lunak untuk merakit Puppy Linux dari paket-paket distribusi GNU/Linux lain, misalnya: paket-paket Ubuntu, Debian, Slackware, Arch, dll.<ref>{{ cite web | url = http://puppylinux.com/woof/ | title = Woof: the "Puppy builder" | first = Barry | last = Kauler |accessdate=2009-02-13 |work=Puppy developer pages |date=9 February 2009}}</ref>
+
+== GUI (Graphical User Interface) ==
+[[Berkas:Puppylinux-215ce2.jpg|thumb|Desktop dengan salah satu pilihan tema terintegrasi menampilkan XMMS, mtPaint, gxine dan text yang sedang dibuka pada Puppy Linux 2.15 CE Viz (Window Manager standar: IceWM)]]
+Puppy menyediakan 2 pilihan server grafik: [[X.org]] (lengkap) dan [[Xvesa]] (ringan). Sebuah alat bantu, pada saat proses awal (start-up), akan membimbing pemakai melakukan pengaturan server grafik agar sesuai dengan kartu video dan monitor yang dipakai. Setelah selesai, monitor akan menampilkan desktop dengan [[window manager]] (WM); WM standar pada kebanyakan edisi Puppy adalah [[JWM]]. Puppy 2.15 Community Edition menyediakan [[IceWM]] sebagai window manager standar.
+
+Paket DotPup dari [[IceWM]], [[Xfce]], [[Fluxbox]] dan [[Enlightenment (window manager)|Enlightenment]] juga tersedia lewat link di Puppy Linux Wiki.
+
+Saat sistem operasi melakukan boot, semua paket-paket Puppy dimuaikan dalam RAM, atau disebut "[[ramdisk]]". PC perlu setidaknya 128 MB RAM (dengan maksimum 8 MB untuk keperluan kartu video) agar Puppy sepenuhnya bekerja dalam ramdisk. Namun, Puppy juga dapat bekerja dengan PC yang hanya mempunyai sekitar 48 MB RAM karena sebagian sistem dapat disimpan dalam hard drive, atau CD sebagai pilihan terakhir (sebab agak lambat).
+
+Puppy adalah sebuah sistem lengkap yang bekerja sepenuhnya dalam ramdisk; aplikasi-aplikasi standarnya dipilih dengan pertimbangan cermat, khususnya yang berhubungan dengan ukurannya. Untuk memenuhi sasarannya sebagai distribusi yang mudah digunakan, Puppy menyediakan berbagai alat bantu atau "wizard" yang akan membimbing pemakai melakukan pengaturan umum.<ref>{{cite web |url=http://www.puppylinux.org/home/overview|title=AboutPuppy - Puppy Linux|work= |publisher= |date= }}</ref>
+
+== Daftar turunan Puppy (Puplet) ==
+Berikut ini adalah daftar dari sebagian besar turunan Puppy (disebut juga Puplet) sesuai daftar di Puppy Linux Community Website dan murga-linux.com.
+
+{| class="wikitable sortable"
+|| '''Name''' || '''Window Manager''' ||'''Description''' || '''Size MB'''
+|-
+| '''Barebones''' || FVWM || Puppy 1.0.3 menggunakan browser Dillo yang ringan dan sederhana (bukan Firefox, Opera atau Mozilla) juga tidak ada Abiword || 40
+|-
+| '''BioPuppy''' || JWM || Puplet untuk mahasiswa Bio-informatics dan pemula di bidang Linux OS dengan program-program yang berhubungan dengan biologi. || 180
+|-
+| '''Breeezy''' || JWM || Dibuat oleh Raffy Mananghaya (orang Filipina yang menjadi Ketua Puppy Linux Foundation) untuk ASUS EeePC (untuk PC lain, tersedia live CD = 80 MB) || 65
+|-
+| '''BuddaPup''' || E-17 || Enlightenment E-17 dan Firefox, Opera, AbiWord, ABS, Gaim, MPlayer, XMMS dll. || 222
+|-
+| '''Burning Thunder''' || JWM || Puppy Dingo dengan Firefox, Thunderbird, Wine di terminal. Versi 2 tanpa Wine dan Java (109 MB) || 185
+|-
+| '''ChurchPup''' || IceWM || Puppy dengan aplikasi-aplikasi pelajaran Alkitab, office, internet/email, multimedia, audio & video editing, dan notasi musik.  || 370
+|-
+| '''DCL''' || Xfce || Berbasis 3.01 dengan Xfce 4.4.2 untuk keperluan sehari-hari || 173
+|-
+| '''Digipup''' || JWM || Turunan yang ditujukan bagi pemakai Ham Radio (radio amatir) || 97
+|-
+| '''DingoPlus''' || JWM ||  Versi khusus Puppy 4 untuk Asus Eeepc. 
+ || 255
+|-
+| '''DragonPup''' || Xfce ||   Puplet gaya berbasis Fatfree Puppy dan Xfce dengan Firefox, The GIMP, multimedia  || 108
+|-
+| '''EcoPup''' ||  IceWM   ||   Beta dengan Firefox 2 and OpenOffice 2 terkompresi terpisah (digunakan setelah di-instal) jadi tidak langsung menyatu  ||  668
+|-
+| '''eBoxPup''' ||   JWM?  ||  Alpha Puppy untuk eBox 2300; menggunakan Opera  ||  57
+|-
+| '''EduPup ''' ||  JWM?  ||  Puppy 2.11 dengan software untuk anak-anak seperti: TuxType2, TuxMath, GcompriS (juga dengan suara Italia), SuperTux - dan TuxPaint (termasuk tuxpaint-ConfiG dan TuxStamp).   || 166
+|-
+| '''E-PUP''' ||  JWM  ||  Puppy 2.17 buatan China   || 110
+|-
+| '''Empty Crust ''' || JWM || Puppy yang sangat ringkas - siap dikembangkan || 45
+|-
+| '''eXpand Barbie''' || JWM ||  Puplet untuk perempuan; dengan Xfce, StumbleUpon dan 60+ links ke flash games online termasuk Bubbles.  || 245
+|-
+| ''' eXpand DOFUS ''' ||   JWM  ||     Puplet untuk memainkan MMORPG DOFUS. Juga menyertakan berbagai program lainnya termasuk aplikasi web yang lengkap. Berbasis Puppy 2.14 dan dibuat oleh lvds.      ||   263
+|-
+| '''Fat Free''' || JWM||  2.17 ringkas, siap ditambahkan program sesuai kebutuhan    ||  51
+|-
+| '''Fire Hydrant''' || JWM ||  Firefox, Flash, Java, Thunderbird, Sunbird dan Lightning sehingga anda akan menerima email dan kalender dalam satu apliaksi, ditambah Icewm dengan 19 tema, beberapa game baru dalam firefox tool menu, Xmms dengan Sony skin, Limewire, Shutterbug, Gimpshop, Yahoo messenger, aMSN messenger,dll - banyak yang ditambah dan tak ada scripts yang dikurangi.  || 192
+|-
+| '''Flightpup''' || JWM || Berbasis Fat Free, berisi FlightGear, program simulasi penerbangan (open source flight simulator) || 288
+|-
+| '''Gamepup''' || Xfce || Masih tahap alpha; untuk game || 125
+|-
+| '''GrafPup''' || LXDE,IceWM ||  Khusus untuk desainer grafik dan pekerja percetakan dengan Gimp, Cinepaint, Inkscape, and Scribus. Juga ada versi deluxe: 397MB || 80
+|-
+| '''Hacao''' || IceWM   ||  Puppy buatan Vietnam. Tujuannya menghasilkan sistem operasi yang lengkap namun ringan hingga dapat bekerja pada komputer yang mempunyai spesifikasi rendah. Menggunakan bahasa Vietnam.|| 80
+|-
+| '''Hurt Me Plenty''' || IceWM ||  Berisi game-game: Doomsday, Quake 2, Descent 2, Tuxracer, Dreamchess 2000, beberapa Flashgame  || 708
+|-
+| '''Icepup''' || JWM ||  Puplet minimalis untuk jaringan (network) kabel maupun nirkabel (wireless). Hanya ter-instal Firefox, Leafpad dan VI Console Editor. || 60
+|-
+| '''KDEPuppy''' || KDE ||  Berbasis Puppy 1.07 dengan KDE; masih dalam tahap alpha  || 125
+|-
+| '''Kinjeng''' || IceWM ||  Puplet buatan Indonesia, untuk warnet dan game center (www.linux.kinjeng.net), termasuk CClfox (internet cafe billing system). Bergaya WinXP. || 360
+|-
+| '''Lebahlinux''' || LXDE, JWM ||  Puplet buatan Indonesia, untuk digunakan di sekolah.Dibuat dengan basis Precise Puppy 5.7.1. Dilengkapi dengan Kingsoft Office, Google Chrome, GIMP, Foxit Reader, Blender 3D, Gbilling. Saat ini masih dalam tahap Pengembangan. Dokumentasi selama masa pengembangan dapat dilihat di (www.lebahlinux.blogspot.com). || 650
+|-
+| '''Lighthouse''' || KDE, Xfce, JWM, IceWM ||  Berbasis 5.1, dengan SeaM analog clock, graphic system monitors, MPlayer, [[GQView]], StreamTuner, tambahan icons themes cursors, SFS Editor. Juga tersedia paket tambahan (Mariner SFS expansion pack) berisi OpenOffice, FireFox, Opera, Java; serta K3b CD/DVD Burner, GIMP, Graphics SFS, dan mendukung penggunaan SFS file sampai dengan 40 file SFS  || 182
+|-
+| '''MacPup''' || IceWM ||  Puppy bergaya Apple Mac dengan IceWM, Wbar, Grub. Tersedia versi Macpup Dingo (95 MB) dan Macpup Foxy (220 MB, dengan tambahan Gimp, Xvidcap, Picasa, Firefox + Ifox metal theme, Java, Flash 10 beta, [[Audacity]], Pawdio converter, VLC, Gxine, Xmms, extra games)  || 95
+|-
+| '''McPup''' || IceWM ||  Puppy untuk Nortel Micro Client Sr (atau eBox 4300)  || 156
+|-
+| '''Mean Puppy''' || JWM ||  Dibuat oleh John Murga (Puppy Linux Forum) berbasis Puppy versi 1 dengan Opera  || 50
+|-
+| '''Minipup''' || JWM ||  Buatan Raffy Mananghaya, puplet untuk MiniPC atau diskless PC (PC tanpa disk drive); termasuk Firefox 1.5+, Mplayer dan perangkat desktop publishing seperti GIMP dan Scribus. Juga tersedia Minipup Office (92 MB)dengan Opera 9.02 dan OpenOffice 1.1.4.  || 85
+|-
+| '''Minisys''' || IceWM ||  Codename Muppy 008 (buatan Mark Ulrich). Puppy 3.01 ditambah berbagai aplikasi termasuk aplikasi-aplikasi KDE dan Gnome panel. Tersedia 4 versi: Embryo, Server, Mini, Live   || 405
+|-
+| '''Muppy''' || IceWM ||  "Muppy" sangat modular, sehingga ukurannyapun jadi besar. Namun tersedia juga Mini-Muppy (170 MB) dan Micro-Muppy (12 MB) || 442
+|-
+| '''Mypup''' || JWM ||  Web 2.0 Puppy berbasis 2.16 - masih tahap alpha || 88
+|-
+| '''NaNoWriMo''' || JWM ||  Puppy untuk para pengarang novel; buatan Mathias De Mare; berbasis Puppy Linux 1.0.3.  || 52
+|-
+| '''NOP''' || Xfce || Buatan seorang aerospace engineer NASA. Berbasis 3.01. Menggunakan Opera sebagai pengganti Seamonkey dan tidak menyertakan Abiword maupun OpenOffice (tapi bisa ditambah kemudian). NOP = Nearly Office Puppy || 120
+|-
+| '''Onebone''' ||  -  ||  Dengan ELinks, YTree dan Midnight Commander || 28
+|-
+| '''Optimised''' || JWM ||  Buatan Kenny; berisi Firefox (lengkap dengan plugins), Grip, [[Audacity]], Mplayer, Gnumeric, Abiword, gtKam, XFMedia || 98
+|-
+| '''PCPuppyOS''' || IceWM || OxygenOffice, Citrix client, Cisco VPN, ClamAV, Limewire, Meebo, Skype, Samba, WINE, XawTV, dll || 604
+|-
+| '''Picopup''' ||  -  ||  Sangat ringkas (tanpa GUI maupun aplikasi-aplikasi lain), hanya ada program musik, berbasis PuppyLinux 1.0.8 || 8
+|-
+| '''Pizzapup''' || IceWM ||  SeaMonkey diganti Firefox, ada XMMS, Mplayer, IceWM dengan berbagai tambahan visual. Versi terakhir, 3.0.1, berbasis Puppy 2.14. || 95
+|-
+| '''Pupeee''' || JWM || Buatan Dan Van Wormer, berbasis Puppy 3.01 untuk ASUS EeePC || 110
+|-
+| '''Pupeez''' || IceWM || "Simple, Elegant and Fast" - Pupeez ditujukan bagi pemakai yang hanya perlu internet / media / photo; pemakai yang 'gagap teknologi' dan orang tua. Pupeez dapat dijalankan pada komputer dengan RAM minimum 128Mb. || 77
+|-
+| '''Puppy Linux Japanese Edition''' || JWM ||  Puppy buatan Jepang, berbasis 4.00 || 99
+|-
+| '''PuppyRus''' || JWM ||  Puppy buatan Rusia, berbasis 3.01 || 117
+|-
+| '''PupWinQE''' || JWM || Alias Winky; Memakai QEMU versi 0.8.2 untuk menjalankan Puppy di Windows XP; Tersedia juga PupWin98 untuk Windows98 dan Pup4DOS untuk DOS || 779
+|-
+| '''QbitOS''' || JWM ||  Dibuat oleh Qbit Online, untuk para pengguna Windows yang migrasi ke Linux. Menu disesuaikan, dan ditambah OpenOffice Suite (word processor, calc, base, dll.)(Abiword dihapus), Mozilla Firefox (dengan Flash player plugin), Skype, Bluefish HTML editor, GIMP || 190
+|-
+| '''Rudy Puppy''' || IceWM ||  OpenOffice.org, firefox, rplot, stats4u (win), easychem, gimp, xsane, xnview, acrobat reader, pdftk dengan gui, freemind, tiddlywiki, skype, xtensoftphone, streamtuner, xmms, k3b, k9copy, xgammon, xaos, rescue utilities, qemu plus kqemu dengan gui, wine, dosbox, cups, jwm plus icewm. || 550
+|-
+| '''SafePup''' || JWM ||  Puplet kecil berbasis Puppy 2.13 dan Barelypup, buatan Raffy Mananghaya, untuk 'safe web browsing' di WinXP; juga untuk PCs tanpa hard disk. || 60
+|-
+| '''SUTinRAM''' || JWM ||  Puppy buatan Thailand, berbasis 4.0; Thai locale, ThaiFonts-Scalable, Firefox, grub (pengganti isolinux), Thai setxkb (pengganti xkb), Wbar, Thai manual, optional server mode (termasuk Kompozer dan LAMPP )  || 190
+|-
+| '''TeenPup''' || JWM ||  Koleksi berbagai aplikasi dalam satu CD diperkaya dengan hiasan visual. Ditujukan bagi orang muda atau yang berjia muda. Buatan John Biles. Berbasis Puppy 2.14 || 404
+|-
+| '''ThaiPuppy''' || JWM ||  Puppy 4.00 buatan Thailand dengan Openoffice yang dapat dipakai mengetik/membaca tulisan Thai, dan Monkey Web Server || 169
+|-
+| '''TigerPup''' || Xfce ||  Puppy 3.01 dengan dockbar dan Compiz-Fusion, berbasis wNOP || 196
+|-
+| '''Tmxxine''' || JWM, IceWM, Xfce ||  Ada beberapa macam '''(Prism, Rainbow, Shard, Vision)''' untuk beberapa keperluan. 
+|| 333MB maksimal
+|-
+| '''Transition''' || IceWM ||  Berbasis Fat Free 301, + IceWM, LookXP, TrueVista themes, FireFox+Flash+Java, Dillo, OpenOffice 2.2, GIMP, Xara Xtreme, MTPaint 3.1, Gaim 1.5, MPlayer, XMMS || 269
+|-
+| '''wNOP''' || Xfce ||  Wobbly NOP dengan Xfce dan Compiz Fusion, berbasis NOP || 117
+|-
+| '''VestaPup''' || Xfce ||  Berbasis wNOP, bergaya Vista dengan sidebar menampilkan berbagai screenlet (seperti: Analog Clock, RSS Feed, Weather, Calendar, IP Viewer, Memo pad, dll.) || 455
+|-
+| '''XPuppyPro''' || FVWM95 ||  Puppy dengan tampilan XP, berbasis Puppy 2.02. Lanjutan dari PuppyXP || 117
+|-
+|}
+
+== Referensi ==
+{{reflist}}
+
+== Pranala luar ==
+{{portal|Free software|Free Software Portal Logo.svg}}
+* {{en}} [http://puppylinux.org/ PuppyLinux website]
+* {{en}} [http://puppylinux.com/ Barry Kauler PuppyLinux website]
+* {{en}} [http://www.murga-linux.com/puppy/ Official Forum]
+* {{en}} [http://distrowatch.com/table.php?distribution=puppy DistroWatch: Puppy]
+* {{en}} [http://junauza.blogspot.com/2007/10/is-puppy-linux-more-than-just-distro.html ''Puppy Linux Review'']
+* {{en}} [http://www.desktoplinux.com/articles/AT6545156120.html ''Getting to know Puppy Linux'']
+* {{en}} [http://www.desktoplinux.com/articles/AT7455536044.html ''An In-Depth Look at Puppy Linux'']
+* {{en}} [http://distrowatch.com/weekly.php?issue=20070625#feature ''One year with Puppy Linux'' - DistroWatch Featured Story]
+* {{en}} [http://www.hackszine.com/blog/archive/2007/10/running_puppy_linux_inside_os.html ''Running Puppy Linux inside Mac OS X''], - A tutorial on running Puppy Linux using [[Q (emulator)|Q]] to emulate it, before transferring it to a 256MB+ USB memory stick.
+* {{en}} [http://www.reviewlinux.com/?m=show&id=7424 ''ReviewLinux.Com: Puppy Meet My USB Key'']
+* {{en}} [http://lhpup.org ''Lighthouse Pup'']
+* {{id}} [http://linuxkinjeng.wordpress.com Kinjeng Linux] variant of wNOP by [http://kinjeng.net kinjeng.net]
+
+{{Distro-Linux}}
+
+[[Kategori:Live CD]]

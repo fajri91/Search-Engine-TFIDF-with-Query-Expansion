@@ -1,0 +1,226 @@
+Energi terbarukan
+[[Berkas:Alternative Energies.jpg|thumb|300px|Energi terbarukan]]
+[[Berkas:windpark Estinnes 20juli2010 kort voor voltooiing.jpg|thumb|300px|Ladang angin pertama di dunia dengan turbin angin berdaya 7.5 MW di [[Estinnes]] [[Belgia]]]]
+
+{{Energi terbarukan}}
+
+'''Energi terbarukan''' energi yang berasal dari "proses alam yang berkelanjutan", seperti [[tenaga surya]], [[tenaga angin]],  [[tenaga air|arus air]] [[biomassa|proses biologi]], dan [[panas bumi]].
+
+Untuk mengetahui lebih lanjut tentang penggunaan energi terbarukan di masyarakat modern, lihat [[pengembangan energi terbarukan]]. Untuk diskusi umum, lihat [[pengembangan energi masa depan]].
+
+== Definisi "terbarukan" ==
+Konsep energi terbarukan mulai dikenal pada tahun 1970-an, sebagai upaya untuk mengimbangi pengembangan energi berbahan bakar [[nuklir]] dan [[fosil]]. Definisi paling umum adalah sumber energi yang dapat dengan cepat dipulihkan kembali secara alami, dan prosesnya berkelanjutan. Dengan definisi ini, maka bahan bakar nuklir dan fosil tidak termasuk di dalamnya.
+
+=== Energi ''berkelanjutan'' ===
+Dari definisinya, semua energi terbarukan sudah pasti juga merupakan [[energi berkelanjutan]], karena senantiasa tersedia di alam dalam waktu yang relatif sangat panjang sehingga tidak perlu khawatir atau antisipasi akan kehabisan sumbernya. Para pengusung energi non-nuklir tidak memasukkan [[tenaga nuklir]] sebagai bagian energi berkelanjutan karena persediaan uranium-235 di alam ada batasnya, katakanlah ratusan tahun. Tetapi, para penggiat nuklir berargumentasi bahwa nuklir termasuk energi berkelanjutan jika digunakan sebagai bahan bakar di [[reaktor pembiak cepat]] (FBR: ''Fast Breeder Reactor'') karena cadangan bahan bakar nuklir bisa "beranak" ratusan hingga ribuan kali lipat.
+
+Alasannya begini, cadangan nuklir yang dibicarakan para pakar energi dalam ordo puluhan atau ratusan tahun itu secara implisit dihitung dengan asumsi [[reaktor nuklir|reaktor]] yang digunakan adalah reaktor biasa (umumnya tipe BWR atau PWR), yang notabene hanya bisa membakar [[U-235]]. Di satu sisi kandungan U-235 di alam tak lebih dari 0,72% saja, sisanya kurang lebih 99,28% merupakan [[U-238]]. [[Uranium]] jenis U-238 ini dalam kondisi pembakaran "biasa" (digunakan sebagai bahan bakar di reaktor biasa) tidak dapat menghasilkan energi nuklir, tetapi jika dicampur dengan U-235 dan dimasukan bersama-sama ke dalam reaktor pembiak, bersamaan dengan konsumsi/pembakaran U-235, U-238 mengalami reaksi penangkapan 1 [[neutron]] dan berubah wujud menjadi U-239. Dalam hitungan menit U-239 meluruh sambil mengeluarkan [[partikel beta]] dan kembali berubah wujud menjadi [[Np-239]]. Np-239 juga kembali meluruh sambil memancarkan partikel beta menjadi [[Pu-239]]. Pu-239 inilah, yang meski tidak tersedia di alam tetapi terbentuk sebagai hasil sampingan pembakaran U-235, memiliki kemampuan membelah diri dan menghasilkan energi sebagaimana U-235. Bisa dibayangkan jika semua U-238 yang jumlahnya ribuan kali lebih banyak daripada U-235, berhasil diubah menjadi Pu-239, berapa peningkatan terjadi jumlah bahan bakar nuklir. Hal yang serupa juga terjadi untuk atom [thorium-233] yang dengan reaksi penangkapan 1 neutron berubah wujud menjadi [[U-233]] yang memiliki kemampuan [[reaksi berantai]] ([[reaksi nuklir]]).
+
+Itulah sebabnya mengapa negara-negara maju tertentu enggan meninggalkan nuklir meski resiko [[radioaktif]] yang diterimanya tidak ringan. Reaktor pembiak cepat seperti yang dimiliki oleh [[Korea Utara]] mendapat pengawasan ketat dari IAEA karena mampu memproduksi bahan bakar baru Pu-239 yang rentan disalahgunakan untuk [[senjata pemusnah massal]].
+
+Di sisi lain para penentang nuklir cenderung menggunakan istilah "energi berkelanjutan" sebagai sinonim dari "energi terbarukan" untuk mengeluarkan energi nuklir dari pembahasan kelompok energi tersebut{{fact}}.
+
+== Sumber utama energi terbaharui ==
+=== Energi panas bumi ===
+{{utama|Energi panas bumi}}
+Energi panas bumi berasal dari [[peluruhan radioaktif]] di pusat [[Bumi]], yang membuat Bumi panas dari dalam, serta dari panas matahari yang membuat panas permukaan bumi. Ada tiga cara pemanfaatan panas bumi:
+* Sebagai tenaga pembangkit listrik dan digunakan dalam bentuk listrik
+* Sebagai sumber panas yang dimanfaatkan secara langsung menggunakan pipa ke perut bumi
+* Sebagai [[pompa panas]] yang dipompa langsung dari perut bumi
+
+[[Panas bumi]] adalah suatu bentuk [[energi panas]] atau energi termal yang dihasilkan dan disimpan di dalam bumi. Energi panas adalah energi yang menentukan temperatur suatu benda. Energi panas bumi berasal dari energi hasil pembentukan planet (20%) dan peluruhan radioaktif dari mineral (80%)<ref>Turcotte, D. L.; Schubert, G. .2002, ''Geodynamics'' (2 ed.), Cambridge, England, UK: Cambridge University Press</ref>. Gradien panas bumi, yang didefinisikan dengan perbedaan temperatur antara [[inti bumi]] dan permukaannya, mengendalikan [[konduksi]] yang terus menerus terjadi dalam bentuk energi panas dari inti ke permukaan bumi.
+
+Temperatur inti bumi mencapai lebih dari 5000 <sup>o</sup>C. Panas mengalir secara konduksi menuju bebatuan sekitar inti bumi. Panas ini menyebabkan bebatuan tersebut meleleh, membentuk [[magma]]. Magma mengalirkan panas secara [[konveksi]] dan bergerak naik karena magma yang berupa bebatuan cair memiliki [[massa jenis]] yang lebih rendah dari bebatuan padat. Magma memanaskan kerak bumi dan air yang mengalir di dalam kerak bumi, memanaskannya hingga mencapai 300 <sup>o</sup>C. Air yang panas ini menimbulkan tekanan tinggi sehingga air keluar dari kerak bumi<ref>Nemzer J.[http://www.geothermal.marin.org/ Geothermal heating and cooling]</ref>.
+
+Energi panas bumi dari inti Bumi lebih dekat ke permukaan di beberapa daerah. Uap panas atau air bawah tanah dapat dimanfaatkan, dibawa ke permukaan, dan dapat digunakan untuk membangkitkan listrik. Sumber [[tenaga panas bumi]] berada di beberapa bagian yang tidak stabil secara geologis seperti [[Islandia]], [[Selandia Baru]], [[Amerika Serikat]], [[Filipina]], dan [[Italia]]. Dua wilayah yang paling menonjol selama ini di Amerika Serikat berada di kubah [[Taman Nasional Yellowstone|Yellowstone]] dan di utara [[California]]. [[Islandia]] menghasilkan tenaga panas bumi dan mengalirkan energi ke 66% dari semua rumah yang ada di Islandia pada tahun 2000, dalam bentuk energi panas secara langsung dan energi listrik melalui pembangkit listrik. 86% rumah yang ada di Islandia memanfaatkan panas bumi sebagai pemanas rumah<ref>[http://www.nordicenergysolutions.org/performance-policy/iceland/renewable-energy-in-iceland Renewable Energy in Iceland]</ref><ref>[http://wayback.vefsafn.is/wayback/20071211092938/www.res.is/is/page/energy_in_iceland Energy in Iceland]</ref>.
+
+<!-- membingungkan, sepertinya dari google translate
+[[Panas bumi]] dari kerak bumi dapat digunakan secara langsung sebagai panas untuk menghangatkan bangunan ketika cuaca dingin. Suhu kerak bumi beberapa meter di bawah permukaan memiliki perbedaan antara 7-14<sup>o</sup> C (45-58F), sehingga cairan dapat dipanaskan melalui pipa bawah tanah, menyediakan pendinginan gratis di musim panas dan, melalui a [[pompa panas]], pemanas di musim dingin. Menggunakan langsung lainnya adalah di sektor pertanian (rumah kaca), perikanan budidaya dan industri.
+
+Meskipun situs panas bumi mampu menyediakan panas untuk beberapa dekade, akhirnya lokasi tertentu tenang. Beberapa menafsirkan makna ini sebagai lokasi panas bumi tertentu dapat mengalami penipisan. Orang lain melihat penafsiran semacam itu sebagai penggunaan yang tidak akurat dari kata penipisan karena keseluruhan pasokan energi panas bumi di Bumi, dan sumbernya, tetap hampir konstan. Energi panas bumi tergantung pada geologi setempat ketidakstabilan, yang, menurut definisi, tidak dapat diprediksi, dan mungkin stabil.
+
+Sekarang konsumsi energi Panas Bumi tidak dengan cara apapun mengancam atau mengurangi kualitas hidup untuk masa depan Wegenerbuah instalasi, akibatnya, itu dianggap sebagai sumber energi terbarukan.
+-->
+=== Energi surya ===
+[[Berkas:Solar panels on yacht at sea.jpg|thumb|300px|Panel surya (photovoltaic arrays) di atas ''yacht'' kecil di laut dapat mengisi baterai 12 V sampai 9 ampere dalam kondisi cahaya matahari penuh dan langsung.]]
+{{utama|Tenaga surya}}
+Karena kebanyakan energi terbaharui berasal adalah "energi surya" istilah ini sedikit membingungkan. Namun yang dimaksud di sini adalah energi yang dikumpulkan secara langsung dari cahaya matahari.
+
+Tenaga surya dapat digunakan untuk:
+* Menghasilkan listrik menggunakan [[sel surya]]
+* Menghasilkan listrik Menggunakan [[menara surya]]
+* Memanaskan gedung secara langsung
+* Memanaskan gedung melalui [[pompa panas]]
+* Memanaskan makanan Menggunakan [[oven surya]].
+* Memanaskan air melalui alat pemanas air bertenaga surya
+
+Tentu saja [[matahari]] tidak memberikan energi yang konstan untuk setiap titik di bumi, sehingga penggunaannya terbatas. Sel surya sering digunakan untuk mengisi daya [[baterai]], di siang hari dan daya dari baterai tersebut digunakan di malam hari ketika cahaya matahari tidak tersedia.
+
+=== Tenaga Angin ===
+{{Utama|Tenaga angin}}
+Perbedaan temperatur di dua tempat yang berbeda menghasilkan [[tekanan udara]] yang berbeda, sehingga menghasilkan [[angin]]. Angin adalah gerakan materi (udara) dan telah diketahui sejak lama mampu menggerakkan turbin. [[Turbin angin]] dimanfaatkan untuk menghasilkan energi kinetik maupun energi listrik. Energi yang tersedia dari angin adalah fungsi dari kecepatan angin; ketika kecepatan angin meningkat, maka energi keluarannya juga meningkat hingga ke batas maksimum energi yang mampu dihasilkan turbin tersebut<ref>[http://www.ewea.org/fileadmin/ewea_documents/documents/publications/WETF/Facts_Summary.pdf EWEA Executive Summary "Analysis of Win Energi in the EU-25"]. European Wind Energy Association. Diakses 11 maret 2011.</ref>. Wilayah dengan angin yang lebih kuat dan konstan seperti lepas pantai dan dataran tinggi, biasanya diutamakan untuk dibangun "[[ladang angin]]".
+
+=== Tenaga air ===
+{{utama|Tenaga air}}
+Energi air digunakan karena memiliki massa dan mampu mengalir. Air memiliki massa jenis 800 kali dibandingkan udara. Bahkan gerakan air yang lambat mampu diubah ke dalam bentuk energi lain. Turbin air didesain untuk mendapatkan energi dari berbagai jenis reservoir, yang diperhitungkan dari jumlah massa air, ketinggian, hingga kecepatan air. Energi air dimanfaatkan dalam bentuk:
+
+* Bendungan pembangkit listrik. Yang terbesar adalah [[Three Gorges dam]] di [[China]]. 
+* [[Mikrohidro]] yang dibangun untuk membangkitkan listrik hingga skala 100 kilowatt. Umumnya dipakai di daerah terpencil yang memiliki banyak sumber air. 
+* ''Run-of-the-river'' yang dibangun dengan memanfaatkan energi kinetik dari aliran air tanpa membutuhkan reservoir air yang besar.
+
+<!-- membingungkan, dan juga untuk membedakan energi air dan energi dari laut
+Energi air dapat digunakan dalam bentuk gerak atau Perbedaan suhu. Udara Karena ribuan kali lebih berat dari udara, maka aliran udara yang pelan pun dapat menghasilkan sejumlah energi yang besar.
+
+Ada banyak bentuk:
+* [[Hydroelectric]] energi, sebuah istilah yang biasanya disediakan untuk bendungan hidroelektrik.
+* [[Tidal daya]], yang menangkap energi dari pasang-surut dalam arah horisontal. Pasang datang, meningkatkan waterlevels dalam baskom, dan pasang roll out. Air harus melalui sebuah [[turbin]] untuk keluar dari baskom.
+* [[Tidal stream kekuasaan]], yang melakukan hal yang sama secara vertikal, menangkap aliran air seperti yang bergerak di seluruh dunia oleh pasang surut.
+* [[Gelombang daya]], yang menggunakan energi dalam gelombang. Ombak besar biasanya akan memindahkan [[ponton]] s atas dan ke bawah.
+* [[Samudera konversi energi termal]] (OTEC), yang menggunakan perbedaan suhu antara permukaan yang lebih hangat dan laut yang sejuk (atau dingin) ceruk lebih rendah. Untuk tujuan ini, ia mempekerjakan seorang [[siklus mesin kalor]].
+* [[Deep pendingin air danau]], bukan secara teknis metode generasi energi, meskipun dapat menyimpan banyak energi di musim panas. Terendam menggunakan pipa sebagai [[heat sink]] untuk [[udara|sistem kontrol iklim]]. Danau-bottom air sepanjang tahun konstan lokal sekitar 4  [[Celsius|C]].
+
+Listrik tenaga air mungkin bukan pilihan utama untuk masa depan produksi energi di negara maju karena sebagian besar situs utama di negara ini dengan potensi pemanfaatan gravitasi dengan cara ini mungkin telah dieksploitasi atau tidak tersedia karena alasan lain seperti pertimbangan lingkungan.
+Membangun bendungan banjir sering melibatkan daerah yang luas lahan, perubahan habitat, dan sementara energi pembangkit tenaga listrik pada dasarnya tidak menghasilkan karbon dioksida, laporan baru-baru ini telah dikaitkan PLTA ke metana, yang membentuk membusuk terendam dari tanaman yang tumbuh di bagian-bagian kering dasar pada masa kekeringan. Metana adalah gas rumah kaca yang potensial.
+
+Metode lain generasi energi (dan pendinginan) telah memiliki berbagai tingkat keberhasilan di lapangan. Gelombang dan badai keras untuk membuktikan kekuatan tekan, sementara OTEC belum diuji di lapangan skala besar.
+
+Sebagian besar masyarakat umum menganggap energi tenaga air menjadi terbarukan. -->
+
+=== Biomassa ===
+{{utama|Bahan bakar bio}}
+Tumbuhan biasanya menggunakan [[fotosintesis]] untuk menyimpan tenaga surya, udara, dan [[CO2|CO]]<sub>2</sub>. Bahan bakar bio (''biofuel'') adalah bahan bakar yang diperoleh dari biomassa - organisme atau produk dari metabolisme hewan, seperti kotoran dari sapi dan sebagainya. Ini juga merupakan salah satu sumber energi terbaharui. Biasanya biomass dibakar untuk melepas [[energi kimia]] yang tersimpan di dalamnya, pengecualian ketika biofuel digunakan untuk bahan bakar fuel cell (misal ''[[direct methanol fuel cell]]'' dan ''[[direct ethanol fuel cell]]'').
+
+Biomassa dapat digunakan langsung sebagai bahan bakar atau untuk memproduksi bahan bakar jenis lain seperti biodiesel, bioetanol, atau biogas tergantung sumbernya. Biomassa berbentuk [[biodiesel]], [[bioetanol]], dan [[biogas]] dapat dibakar dalam [[mesin pembakaran dalam]] atau [[pendidih]] secara langsung dengan kondisi tertentu.
+
+Biomassa menjadi sumber energi terbarukan jika laju pengambilan tidak melebihi laju produksinya, karena pada dasarnya biomassa merupakan bahan yang diproduksi oleh alam dalam waktu relatif singkat melalui berbagai proses biologis. Berbagai kasus penggunaan biomassa yang tidak terbarukan sudah terjadi, seperti kasus [[deforestasi zaman romawi]], dan yang sekarang terjadi, [[deforestasi hutan amazon]]. [[Gambut]] juga sebenarnya biomassa yang pendefinisiannya sebagai energi terbarukan cukup bias karena laju ekstraksi oleh manusia tidak sebanding dengan laju pertumbuhan lapisan gambut<ref>Keddy P. A. 2010. Wetland Ecology: Principles and Conservation (2nd edition). Cambridge University Press, ambridge, UK.</ref><ref>[http://www.eurosaiwgea.org/Activitiesandmeetings/OtherEUROSAIWGEAmeetings/Documents/Estonia_energy.pdf Estonia Energy.]</ref>.
+
+Ada tiga bentuk penggunaan biomassa, yaitu secara padat, cair, dan gas <ref>Demirbas, A. . (2009). [http://dx.doi.org/10.1016%2Fj.apenergy.2009.04.036 "Political, economic and environmental impacts of biofuels: A review".] ''Applied Energy'' '''86''': S108S117</ref>. Dan secara umum ada dua metode dalam memproduksi biomassa, yaitu dengan menumbuhkan organisme penghasil biomassa dan menggunakan bahan sisa hasil industri pengolahan makhluk hidup.
+
+==== Bahan bakar bio cair ====
+Bahan bakar bio cair biasanya berbentuk bioalkohol seperti [[metanol]], [[etanol]] dan [[biodiesel]]. Biodiesel dapat digunakan pada kendaraan diesel modern dengan sedikit atau tanpa modifikasi dan dapat diperoleh dari limbah sayur dan minyak hewani serta [[lemak]]. Tergantung potensi setiap daerah, [[jagung]], [[gula bit]], [[tebu]], dan beberapa jenis [[rumput]] dibudidayakan untuk menghasilkan bioetanol. Sedangkan biodiesel dihasilkan dari tanaman atau hasil tanaman yang mengandung minyak (kelapa sawit, kopra, biji jarak, alga) dan telah melalui berbagai proses seperti [[esterifikasi]].
+
+==== Biomassa padat ====
+Penggunaan langsung biasanya dalam bentuk padatan yang mudah terbakar, baik kayu bakar atau tanaman yang mudah terbakar. Tanaman dapat dibudidayakan secara khusus untuk pembakaran atau dapat digunakan untuk keperluan lain, seperti diolah di industri tertentu dan limbah hasil pengolahan yang bisa dibakar dijadikan bahan bakar. Pembuatan [[briket]] biomassa juga menggunakan biomassa padat, di mana bahan bakunya bisa berupa potongan atau serpihan biomassa padat mentah atau yang telah melalui proses tertentu seperti [[pirolisis]] untuk meningkatkan persentase karbon dan mengurangi kadar airnya.
+
+Biomassa padat juga bisa diolah dengan cara [[gasifikasi]] untuk menghasilkan gas.
+
+==== Biogas ====
+{{utama|Biogas}}
+Berbagai bahan organik, secara biologis dengan fermentasi, maupun secara fisiko-kimia dengan [[gasifikasi]], dapat melepaskan gas yang mudah terbakar.
+
+Biogas dapat dengan mudah dihasilkan dari berbagai limbah dari industri yang ada saat ini, seperti produksi [[kertas]], produksi [[gula]], kotoran hewan [[peternakan]], dan sebagainya. Berbagai aliran limbah harus diencerkan dengan air dan dibiarkan secara alami berfermentasi, menghasilkan gas [[metana]]. Residu dari aktivitas fermentasi ini adalah [[pupuk]] yang kaya nitrogen, karbon, dan mineral.
+
+== Sumber energi skala kecil ==
+* [[Piezoelektrik]], merupakan muatan listrik yang dihasilkan dari pengaplikasian stress mekanik pada benda padat. Benda ini mengubah energi mekanik menjadi energi listrik<ref>[Holler, F. James; Skoog, Douglas A; Crouch, Stanley R .2007. "Chapter 1". ''Principles of Instrumental Analysis'' (6th ed.). Cengage Learning.</ref>.
+
+* [[Jam otomatis]] (''Automatic watch'', ''self-winding watch'') merupakan jam tangan yang digerakkan dengan energi mekanik yang tersimpan, yang didapatkan dari gerakan tangan penggunanya. Energi mekanik disimpan pada mekanisme [[pegas]] di dalamnya<ref>[http://horologyzone.com/watch/watch-school/automatic-watch-disassembly.html Automatic Watch Movement Disassembly]</ref>.
+
+* [[Landasan elektrokinetik]] (''electrokinetic road ramp'') yaitu metode menghasilkan energi listrik dengan memanfaatkan energi kinetik dari mobil yang bergerak di atas landasan yang terpasang di jalan. Sebuah landasan sudah dipasang di lapangan parkir supermarket [[Sainsbury's]] di [[Gloucester]], [[Britania Raya]], di mana listrik yang dihasilkan digunakan untuk menggerakkan mesin kasir<ref>[http://www.greenrightnow.com/kabc/2009/07/10/electro-kinetic-road-ramp-powers-up-by-pushing-down/ Electrokinetic road ramp powers up by pushing down], Green Right Now, Noofangle Media</ref>.
+
+* Menangkap radiasi elektromagnetik yang tidak termanfaatkan dan mengubahnya menjadi energi listrik<ref>[http://www.rexresearch.com/tate/tate.htm Inventor Joe Tate's Ambient Power Module converts radio frequencies to ...]</ref> menggunakan ''[[rectifying antenna]]''<ref>[http://www.google.com/patents?id=j3hzAAAAEBAJ&printsec=abstract&zoom=4&dq=3434678#v=onepage&q=3434678&f=false Microwave to DC Converter]. William C Brown, et al. US Patent 5 Mei 1965</ref>. Ini adalah salah satu metode [[memanen energi]] (''energy harvesting'').
+
+== Masalah ==
+=== Estetika, membahayakan habitat, dan pemanfaatan lahan ===
+Beberapa orang tidak menyukai estetika [[turbin angin]] atau mengemukakan isu-isu konservasi alam ketika panel surya besar dipasang di pedesaan. Pihak yang mencoba memanfaatkan teknologi terbarukan ini harus melakukannya dengan cara yang disukai, misal memanfaatkan kolektor surya sebagai penghalang kebisingan sepanjang jalan, memadukannya sebagai peneduh matahari, memasangnya di atap yang sudah tersedia dan bahkan bisa menggantikan atap sepenuhnya, juga [[sel fotovoltaik]] amorf dapat digunakan untuk menggantikan jendela.
+
+Beberapa sistem ekstrasi energi terbarukan menghasilkan masalah lingkungan yang unik. Misalnya, [[turbin angin]] bisa berbahaya untuk burung yang terbang, sedangkan bendungan air pembangkit listrik dapat menciptakan penghalang bagi [[migrasi ikan]] - masalah serius di bagian barat laut pasifik yang telah mengurangi populasi [[ikan salmon]]. Pembakaran biomassa dan biofuel menyebabkan polusi udara yang sama dengan membakar [[bahan bakar fosil]], meskipun karbon yang dilepaskan ke atmosfer ini dapat diserap kembali jika organisme penghasil biomassa tersebut secara terus menerus dibudidayakan.
+
+Masalah lain dengan banyak energi terbarukan, khususnya biomassa dan biofuel, adalah sejumlah besar lahan yang dibutuhkan untuk usaha pembudidayaannya.
+
+=== Konsentrasi ===
+Masalah lain adalah variabilitas dan persebaran energi terbarukan di alam, kecuali energi [[panas bumi]] yang umumnya terkonsentrasi pada satu wilayah tertentu namun terdapat pada lokasi yang ekstrim. Energi angin adalah yang tersulit untuk difokuskan, sehingga membutuhkan turbin yang besar untuk menangkap energi angin sebanyak-banyaknya. Metode pemanfaatan energi air bergantung pada lokasi dan karakteristik sumber air sehingga desain turbin air bisa berbeda. Pemanfaatan energi matahari dapat dilakukan dengan berbagai cara, namun untuk mendapatkan energi yang banyak membutuhkan luas area penangkapan yang besar.
+
+Sebagai perbandingan, pada kondisi standar pengujian di [[Amerika Serikat]] energi yang diterima 1 m<sup>2</sup> sel surya yang memiliki efisiensi 20% akan menghasilkan 200 watt. Kondisi standar pengujian yang dimaksud adalah temperatur udara 20 <sup>o</sup>C dan irradiansi 1000 W/m<sup>2</sup><ref>ASTM G 173-03, "Standard Tables for Reference Solar Spectral Irradiances: Direct Normal and Hemispherical on 37 Tilted Surface," ASTM International, 2003.</ref><ref>[http://rredc.nrel.gov/solar/spectra/am1.5/ Solar Spectral Irradiance: Air Mass 1.5]. National Renewable Energy Laboratory. Diakses 12 Desember 2007</ref>. 
+<!-- angka di bawah ini sudah ketinggalan zaman...
+Sebagai ilustrasi, perhatikan bahwa produksi listrik 1.000 kWh per tahun (biasa per tahun per kapita konsumsi listrik di negara-negara Barat), di berawan [[Eropa]] akan membutuhkan sekitar delapan meter persegi [[panel surya]] (dengan asumsi yang di bawah rata-rata tingkat konversi solar 12,5%). Sistematis generasi listrik membutuhkan sumber-sumber yang dapat diandalkan tumpang tindih atau beberapa cara untuk [[kotak penyimpanan energi|penyimpanan]] pada skala yang wajar ( [[listrik tenaga air|dipompa-sistem hydro penyimpanan]] s, baterai, hidrogen pada masa depan [[fuel cell]] , dll). Jadi, karena saat ini-sistem penyimpanan energi yang mahal, sebuah sistem yang berdiri sendiri hanya ekonomi dalam kasus yang jarang terjadi, atau pada aplikasi di mana sambungan ke jaringan energi global akan mendorong biaya naik tajam. -->
+
+=== Jarak ke penerima energi listrik ===
+Keragaman geografis juga menjadi masalah signifikan, karena beberapa sumber energi terbarukan seperti panas bumi, air, dan angin bisa berada di lokasi yang jauh dari penerima energi listrik; panas bumi di pegunungan, energi air di hulu sungai, dan energi angin di lepas pantai atau dataran tinggi. Pemanfaatan sumber daya tersebut dalam skala besar kemungkinan akan memerlukan investasi cukup besar dalam jaringan transmisi dan distribusi serta teknologi itu sendiri dalam menghadapi lingkungan terkait.
+
+=== Ketersediaan ===
+Salah satu kekurangan yang cukup signifikan adalah ketersediaan energi terbarukan di alam; beberapa dari mereka hanya ada sesekali dan tidak setiap saat (''intermittent''). Misal cahaya matahari yang hanya tersedia ketika siang hari, energi angin yang kekuatannya bervariasi setiap saat, energi air yang tak bisa dimanfaatkan ketika sungai kering, biomassa memiliki masalah yang sama dengan yang dihadapi dunia [[pertanian]] (misal iklim, hama), dan lain-lain. Sedangkan energi panas bumi bisa tersedia sepanjang waktu.
+
+<!-- sepertinya perlu dihapus, karena ini halaman energi terbarukan, tidak perlu secara detail membahas bahan bakar fosil
+=== Persaingan dengan bahan bakar fosil ===
+{{utama|Bahan bakar fosil}}
+Sumber energi terbarukan pada dasarnya berbeda dari bahan bakar fosil atau pembangkit listrik tenaga nuklir karena Sun akan 'kekuatan' ini 'listrik' (berarti sinar matahari, angin, air mengalir, dll) untuk 4 milyar tahun berikutnya. Mereka juga tidak secara langsung menghasilkan gas rumah kaca dan emisi lainnya, seperti pembakaran bahan bakar fosil tidak. Kebanyakan tidak memperkenalkan risiko baru global seperti [[limbah nuklir]].
+
+Bahan bakar fosil tidak dianggap sebagai sumber energi terbarukan, tapi sering dibandingkan dan dikontraskan dengan energi terbarukan dalam konteks [[pengembangan energi masa depan]].
+
+Yang secara tradisional, walaupun tidak secara universal, diadakan Barat (biogenik) teori mendalilkan bahwa bahan bakar fosil adalah sisa-sisa berubah kuno kehidupan tumbuhan dan hewan disimpan di batuan sedimen. Mereka terbentuk jutaan tahun yang lalu dan telah beristirahat di bawah tanah, sebagian besar terbengkalai, sejak saat itu.
+
+Sebaliknya, [[minyak bumi Abiogenic asal]] teori menyatakan bahwa [[minyak bumi]] (atau [[minyak bumi]]) adalah terutama dibuat dari non- [[biologi]] sumber [[hidrokarbon]] s terletak jauh di dalam [[Bumi]]. Pandangan ini dipelopori oleh [[Fred Hoyle]] dalam bukunya''Kesatuan Semesta''.
+
+Meskipun dimungkinkan untuk menghasilkan kompleks [[hidrokarbon]] buatan dengan menggunakan [[Fischer-Tropsch proses]], thiproses s tidak menghasilkan energi, dan tidak dapat dianggap sebagai solusi skala besar untuk masalah energi.
+
+Industri batubara di Amerika Serikat secara terbuka menyatakan batubara adalah energi terbarukan karena awalnya batubara biomassa. Namun, biomassa bahan bakar fosil diproduksi pada skala waktu jutaan tahun melalui serangkaian kegiatan dan dianggap sebagai deposit energi, bukan aliran energi. Beberapa ilmuwan berpandangan bahwa pembentukan bahan bakar fosil adalah satu kali peristiwa, yang dimungkinkan oleh kondisi unik selama [[Devon]] periode, seperti meningkatnya kadar oksigen dan rawa-rawa besar.
+
+Ketika istilah terbarukan diperkenalkan (lihat [[Energi terbarukan # Mendefinisikan|Mendefinisikan terbarukan]] dalam artikel ini), itu adalah keyakinan umum bahwa sumber-sumber bumi akan habis dalam waktu sekitar lima puluh tahun. Sejak itu, deposit besar dalam minyak Bumi telah ditemukan, yang telah memperpanjang jadwal ini. Karena tingkat konsumsi saat ini melebihi laju pembaruan (jika, memang, ada pembaruan dari bahan bakar fosil), Bumi pada akhirnya akan kehabisan bahan bakar fosil (lihat [[puncak minyak]]). -->
+<!-- bagian ini sudah sedikit dijelaskan di bagian "jarak ke penerima energi listrik"
+=== Transmisi ===
+Jika terbarukan dan [[didistribusikan generasi]] adalah untuk menjadi meluas, [[transmisi tenaga listrik]] dan [[listrik distribusi]] sistem mungkin tidak lagi menjadi distributor utama energi listrik tapi akan beroperasi untuk menyeimbangkan kebutuhan listrik masyarakat setempat . Mereka yang memiliki energi surplus akan menjual ke daerah-daerah yang membutuhkan "top up". Yaitu, operasi jaringan akan memerlukan pergeseran dari 'manajemen pasif' - di mana hooked up generator dan sistem ini dioperasikan untuk mendapatkan listrik 'hilir' ke konsumen - untuk 'manajemen yang aktif', di mana generator tersebar di jaringan dan input dan keluaran perlu terus-menerus dipantau untuk memastikan keseimbangan terjadi di dalam sistem. Beberapa Pemerintah dan regulator akan pindah ke alamat ini, meskipun masih banyak yang harus dilakukan. Salah satu solusi potensial adalah meningkatnya penggunaan listrik aktif pengelolaan jaringan transmisi dan distribusi. Hal ini akan membutuhkan perubahan signifikan dalam cara jaringan tersebut dioperasikan.
+
+Namun, pada skala kecil, penggunaan energi terbarukan yang seringkali dapat diproduksi "di tempat" menurunkan persyaratan [[listrik distribusi]] sistem harus memenuhi. Sistem saat ini, sementara jarang ekonomis efisien, telah terbukti rumah tangga rata-rata dengan panel surya array dan sistem penyimpanan energi ukuran tepat kebutuhan listrik dari sumber-sumber di luar hanya beberapa jam setiap minggu. Oleh karena itu, para pendukung energi terbarukan percaya sistem distribusi listrik akan menjadi lebih kecil dan lebih mudah untuk mengelola, bukan sebaliknya. -->
+
+== Riwayat penggunaan energi terbarukan ==
+Sepanjang sejarah, berbagai macam energi terbarukan telah digunakan.
+
+* [[Kayu bakar|Kayu]] adalah bahan bakar biomassa paling tua dalam sejarah manusia, yang digunakan sebagai sumber energi panas lewat pembakaran, bahkan hingga kini masih digunakan. Kayu bakar digunakan saat [[memasak]] dan menghangatkan ruangan sehingga manusia dapat bertahan di cuaca dingin. Jenis kayu tertentu digunakan khusus untuk mengawetkan makanan melalui pengeringan atau pengasapan sehingga makanan tidak cepat basi atau rusak. Kemudian ditemukan bahwa pembakaran parsial dalam kondisi miskin oksigen ([[pirolisis]]) untuk menghasilkan [[arang]], yang dapat memberikan panas lebih banyak dalam massa yang relatif lebih sedikit dibandingkan kayu kering. Namun, energi ini kurang efisien karena membutuhkan bahan baku kayu/pohon dalam jumlah besar untuk membuat arang.
+
+* [[Tenaga Hewan]] untuk menarik gerobak/kereta dan alat-alat mekanik tradisional. Hewan seperti kuda, sapi atau kerbau sejak dulu telah dimanfaatkan sebagai tenaga transportasi dan penggerak pabrik. Hingga kini, di berbagai belahan dunia masih banyak penggunaan hewan untuk tujuan ini.
+
+* [[Tenaga air]] akhirnya menggantikan kekuatan hewan untuk pabrik dengan mengubah energi air (kinetik maupun gravitasi) menjadi energi kinetik rotasi. Hingga saat ini, tenaga air menyediakan energi listrik terbarukan di seluruh dunia lebih banyak dari sumber energi terbarukan lainnya.
+
+* [[Lemak hewani]], terutama [[minyak ikan paus]] sudah lama dibakar sebagai minyak untuk lampu.
+
+* [[Energi angin]] telah digunakan selama beberapa ratus tahun. Pada awalnya digunakan pada [[kincir angin]] berukuran besar bagaikan layar dengan empat hingga enam lengan, seperti yang terlihat di [[Belanda]]. Saat ini, desain kincir angin lebih banyak menyerupai pisau dengan jumlah lengan hanya tiga pada umumnya, seperti yang terlihat di [[ladang angin]] di pegunungan maupun lepas pantai. Saat ini, tenaga angin merupakan sumber energi dengan pertumbuhan tercepat di dunia.
+
+* [[Tenaga surya]] sebagai sumber energi dalam sejarah manusia, lebih banyak ditangkap secara arsitektural sebagai penerangan dalam bangunan, dan [[pengeringan]] [[bahan pertanian]]. Dan pada abad ke-20, matahari telah ditangkap secara mekanis memanfaatkan pergerakan fluida hingga konversi ke energi listrik secara langsung.
+
+== Lihat pula ==
+* [[Energi berkelanjutan]]
+* [[Pengembangan energi terbarukan]]
+* [[Penghargaan Ashden]] untuk Energi terbarukan
+* [[Energi Net gain]].
+* [[Kendaraan listrik]].
+* [[Sepeda motor listrik]]
+* [[Perahu listrik]].
+* [[Mobil hijau]].
+* [[Energi Soft path]].
+* [[Uni Eropa untuk Program Perubahan Iklim]]
+* [[Katalog Whole Earth]].
+* [[Proses Fischer-Tropsch]]
+* [[Asal petroleum abiogenik]]
+* [[Penghapusan tenaga nuklir]]
+
+== Referensi ==
+{{reflist}}
+* {{en}}[http://eia.doe.gov/ Administrasi Informasi Energi Amerika] menyediakan berbagai statistik dan informasi tentang industri.
+* Boyle, G. (ed.),''Renewable Energy: Power untuk Masa Depan yang Berkelanjutan''. Open University, Inggris, 1996.
+* {{en}}[http://www.eere.energy.gov/ Situs web Efisiensi Energi dan Energi Terbarukan Amerika]
+
+== Pranala luar ==
+* {{en}}[http://www.greenfuelonline.com/enterprise4.htm Teknologi bergantian emisi gas rumah kaca ke udara bersih biofuel]
+* {{en}}[http://www.ief-energy.org/ International Energy Foundation]
+* {{en}}[http://www.nrel.gov/ National Renewable Energy Laboratory (Amerika)]
+* {{en}}[http://www.linux-host.org/energy Encyclopedia of Energy]
+* {{en}}[http://www.inboxrobot.com/news/AlternativeEnergy Newsletter energi alternatif untuk riset professionals]
+* {{en}}[http://www.GenomeNewsNetwork.org/categories/index/energy.php Genome News Network (GNN) Energi Berita] Kumpulan artikel tentang bagaimana kemajuan dalam genomika mengarah pada kemajuan dalam produksi energi.
+* {{en}}[http://www.cat.org.uk/ Centre for Alternative Energy (European)]
+* {{en}}[http://www.activistmagazine.com/index.php?option=content&task=view&id=120 Carbon Activism for Beginners].
+* {{en}}[http://www.ecoresearch.net/election2004/report/sentence?s=1 Renewable Energy Media Analysis] - Web Monitor Pemilu Amerika 2004 
+* {{en}}[http://ec.europa.eu/energy/intelligent/index_en.html EU Intelligent Energy]
+* {{en}}[http://www.itdg.org/ Intermediate Technology Development Group]
+* {{en}}[http://www.thehydrogenexpedition.com/ The Hydrogen Expedition] rekor dunia energi terbarukan
+* {{en}}[http://www.aapg.org/explorer/2002/11nov/abiogenic.cfm Debat Gas Abiogenic] Pada kemungkinan abiogenic sebagai asal bahan bakar fosil
+* {{en}}[http://wiki.greenpowered.org Green Wiki] Koleksi artikel tentang energi terbarukan dan topik lainnya yang berkaitan dengan hidup yang berkelanjutan
+* {{en}}[http://energy.sourceguides.com/index.shtml The Source for Renewable Energy] Sebuah direktori untuk lebih dari 9.000 perusahaan energi terbarukan di seluruh dunia
+* {{en}}[http://environmental-finance.com Majalah seputar finansial]
+* {{en}}[http://groups.yahoo.com/group/worldoilboycott Organisasi minyak dunia memboikot akar rumput (asal ethanol)]
+* {{en}}[http://file-edu.com Macam-macam energi terbarukan]
+* {{en}}[http://www.eproguide.com/advantages-of-renewable-energy/ Keuntungan Finansial Energi Terbarukan]
+
+{{teknologi}}
+
+[[Kategori:Energi terbarukan]]
+[[Kategori:Lingkungan]]

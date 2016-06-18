@@ -1,0 +1,26 @@
+Templat:Bruno, Purworejo
+{{Navigasi ID Desa
+|nama kecamatan=Bruno
+|dati2=Kabupaten 
+|nama dati2=Purworejo
+|provinsi=Jawa Tengah
+|d1= Blimbing
+|d2= Brondong
+|d3= Brunorejo
+|d4= Brunosari
+|d5= Cepedak
+|d6= Giyombong
+|d7= Gowong
+|d8= Gunung Condong
+|d9= Kaliwungu
+|d10= Kambangan
+|d11= Karanggedang
+|d12= Kemranggen
+|d13= Pakisarum
+|d14= Plipiran
+|d15= Puspo
+|d16= Somoleter
+|d17= Tegalsari
+|d18= Watuduwur
+}}<noinclude>[[Kategori:Templat desa/kelurahan di Jawa Tengah|Jawa Tengah]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Purworejo]]</noinclude>

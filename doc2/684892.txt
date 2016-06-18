@@ -1,0 +1,70 @@
+Uncial 061
+{{Infobox naskah
+| form   = Uncial
+| number = '''061'''
+| image  = 
+| isize  = 
+| caption= 
+| name   = 
+| sign   = 
+| text   = [[Surat 1 Timotius]]
+| script = [[bahasa Yunani]]
+| date   =  ~ 450 M
+| found  = 
+| now at = [[Muse du Louvre]]
+| cite   =
+| size   = 14 x 12 cm
+| type   = [[Teks Bizantin]]
+| cat    = V
+| hand   = 
+| note   = 
+}}
+
+'''Uncial 061''' (dalam penomoran [[Naskah Alkitab#Gregory-Aland|Gregory-Aland]]),  1035 ([[Naskah Alkitab#Von Soden|von Soden]]); adalah sebuah naskah kuno yang memuat sebagian [[Perjanjian Baru]] di [[Alkitab]] [[Kristen]], khususnya [[Surat 1 Timotius]]. Ditulis dalam gaya tulisan [[uncial]] dalam [[bahasa Yunani]], berdasarkan [[Paleografi]] diperkirakan dibuat pada abad ke-5.
+
+== Pemerian ==
+Kodeks ini memuat sebagian [[Surat 1 Timotius]] (3:15-16; 4:1-3; 6:2-8), pada dua lembaran kecil (14 cm kali 12 cm), keduanya dalam keadaan tidak utuh. teks ditulis dalam satu kolom per halaman, 19 baris per halaman.<ref name=Aland>{{Cite book
+|last = Aland
+|first = Kurt
+|authorlink = Kurt Aland
+|coauthors = [[Barbara Aland]]; Erroll F. Rhodes (trans.)
+|title = The Text of the New Testament: An Introduction to the Critical Editions and to the Theory and Practice of Modern Textual Criticism
+|publisher = [[William B. Eerdmans Publishing Company]]
+|year = 1995
+|location = Grand Rapids
+|page = 119
+|url =
+|doi =
+|id =
+|isbn = 978-0-8028-4098-1}} </ref> 
+
+== Teks ==
+Teks bahasa Yunani [[kodeks]] termasuk ke dalam jenis [[Teks Bizantin]] dengan sejumlah bacaan singular atau unik. [[Kurt Aland|Aland]] menempatkannya dalam [[Kategori Naskah Perjanjian Baru|Kategori V]].<ref name = Aland/>
+
+Codex 061 dikutip pada Textual Apparatus dari UBS-4, tetapi tidak pada [[Novum Testamentum Graece]]. Memuat bacaan unik   (''ia menyatakan'') pada {{Alkitab|1 Timotius 3:16}}.<ref>''The Greek New Testament'', ed. K. Aland, A. Black, C. M. Martini, B. M. Metzger, and A. Wikgren, in cooperation with INTF, ''United Bible Societies'', 3rd edition, (Stuttgart 1983), p. 724.</ref>
+
+Menurut [[INTF]] diperkirakan berasal dari abad ke-9.<ref name = INTF>{{Cite web |url=http://intf.uni-muenster.de/vmr/NTVMR/ListeHandschriften.php?ObjID=20061 |title=Liste Handschriften |publisher=Institute for New Testament Textual Research |accessdate=21 April 2011 |location=Mnster}}</ref>
+
+== Lokasi ==
+Kodeks ini sekarang disimpan di [[Muse du Louvre|Louvre]] (Ms. E 7332), di kota [[Paris]].<ref name = Aland/>
+
+== Lihat pula ==
+* [[Daftar Uncial Perjanjian Baru]]
+* [[Textual criticism]]
+
+== Referensi ==
+{{Reflist}}
+
+== Pustaka tambahan ==
+
+* [[Theodor Zahn]], ''Forschungen zur Geschichte des neutestamentlichen Kanons'' III, Supplementum Clementinum (Erlangen, 1884), pp. 277-278.
+* B. Reicke, ''Les Deux Fragments grecs onciaux de I Tim. appels 061 publis'', Coniectanea Neotestamentica 11 (Uppsala, 1947), pp. 196-206.
+
+== Pranala luar ==
+
+* [http://www.skypoint.com/members/waltzmn/ManuscriptsUncials.html#u061 Uncial 061] at the ''Encyclopedia of Textual Criticism'' 
+
+{{DEFAULTSORT:Uncial 0061}}
+[[Kategori:Naskah Perjanjian Baru]]
+[[Category:Karya abad ke-5]]
+[[Kategori:Surat 1 Timotius]]

@@ -1,0 +1,8 @@
+Stigmatisme
+Pada [[optika geometris]], '''stigmatisme''' ([[bahasa Inggris|en]]:'''''stigmatism''''' merupakan kinerja suatu sistem optik yang memfokuskan sebuah titik ([[bahasa Inggris|en]]:''single point source'') pada [[bidang fokus]] menuju ke sebuah titik api ([[bahasa Inggris|en]]:''focal point'') pada [[bidang fokal]]. Kedua buah titik tersebut berpasangan yang disebut ''stigmatic pair''.
+
+Pada [[aberasi optik]], sering dijumpai sistem optik dengan lebih dari satu ''stigmatic pair''.
+
+{{optika-stub}}
+
+[[Kategori:Optika]]

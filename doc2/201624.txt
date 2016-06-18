@@ -1,0 +1,182 @@
+Bentuk musik
+{{rapikan}}
+'''Bentuk Musik''' atau '''Ilmu Bentuk Musik''' <ref> Sunaryo Joyopuspito, Ilmu BENTUK MUSIK, Bina Musik Remaja Jakarta 2007 </ref> 
+<ref> Henie Schouten, MUZIKALE VORMLEER, Amsterdam 1955 </ref> 
+<ref> Stewart Macpherson, FORM OF MUSIC, London 1958 </ref>adalah bagian dari Teori Musik, dibedakan dengan ilmu musik lainnya seperti Ilmu Kontrapun, Ilmu Harmoni, Ilmu Orkestrasi, Ilmu Cipta Lagu.
+
+== Lingkup Pembahasan Ilmu Bentuk Musik ==
+
+==== Struktur Lagu ====
+Suatu lagu,seperti halnya karangan terdiri atas Bab, kalimat, anak kelimat, kata, dst., maka lagu juga dibagi dalam: Kalimat (verse atau bridge), segmen, dan yang terkecil adalah pola (motif).
+
+==== Kalimat: Kalimat awal dan Kalimat akhir ====
+
+Dalam suatu karangan buku dikenal ''Praragraf'', dan ini adalah yang disebut ''Kalimat'' dalam musik. Umumnya suatu ''kalimat'' terdiri atas ''8 birama'', di mana dibagi menjadi: ''Kalimat awal'' (4 birama) dan ''Kalimat akhir'' (4 birama). Bisa juga terdiri atas: ''Kalimat awal'', ''Kalimat tengah'', dan ''Kalimat akhir''.
+
+==== Proposta dan Riposta ====
+
+Proposta (tanya) atau kalimat awal (4 birama) dan Riposta (jawab) atau kalimat akhir (4 birama), sering menjadi ungkapan yang berpasangan, artinya suatu pertanyaan selalu dijawab. Jadi dapat diartikan, bahwa Proposta dan Riposta sebagai pasangan pantun, yang satu bertanya dan yang satu menjawab.
+
+:Sebagai contoh lagu ANAK KAMBING SAYA (NN, NTT):
+:'''Proposta''': Mana di mana anak kambing saya ''(seolah-oleh menyatakan)''
+:'''Riposta''': Anak kambing Tuan ada di Kampung saya ''(seolah-oleh menjawab)''
+
+:::: Contoh lain, lagu MAJU TAK GENTAR - C. Simanjuntak:
+:::: '''Proposta''': Maju tak gentar (''seolah-olah menyatakan'')
+:::: '''Riposta''': Hak kita diserang (''seolah-olah menjawab'')
+
+:::::::: Contoh lain, INDONESIA RAYA - WR Supratman:
+:::::::: '''Proposta''': Indonesia tanah airku (''seolah-olah menyatakan'')
+:::::::: '''Riposta''': Tanah tumpah darahku (''seolah-olah menjawab'')
+
+== Bentuk Komposisi Musik ==
+* 1. Musik Polifoni
+* 2. Musik Homofoni
+* 3. musik naturalisasi
+
+== Musik Polifoni ==
+
+Dalam musik Polifoni, maka '''Tema''' = ''Proposta'', dan '''Jawab''' = ''Riposta''
+
+
+==== Kanon ====
+Kanon adalah bentuk sederhana dari musik polifoni, dengan struktur:
+Tema Jawab Kontrapun Kontrapun
+      Tema    Jawab       Kontrapun   Kontrapun
+              Tema        Jawab       Kontrapun     Kontrapun
+                          Tema        Jawab         Kontrapun   Kontrapun
+
+:''Sebagai contoh adalah Kanon Bapa Yakob''.
+
+==== Fuga ====
+Fuga mempunyai struktur sbb.:
+
+
+* '''Fuga Dua Suara''' adalah sebagai berikut:
+
+  Tema    Kontrapun   
+          Jawab       
+
+* '''Fuga Tiga Suara''' adalah sebagai berikut:
+                
+  Tema     Kontrapun     Kontrapun
+           Jawab         Kontrapun   
+                         Tema        
+                           
+* '''Fuga Empat Suara''' adalah sebagai berikut:
+
+  Tema     Kontrapun     Kontrapun    Kontrapun
+           Jawab         Kontrapun    Kontrapun
+                         Tema         Kontrapun
+                                      Tema
+
+==== Invention ====
+Invention artinya ''saling mengisi'', misalnya dalam invention untuk piano maka tangan kiri saling mengisi dengan tangan kanan.
+
+==== Praeludium ====
+Praeludium atau Prelude adalah satu ciptaan yang disusun tidak dengan tema dan kontrapun, namun disusun atas '''pola irama''' atau '''struktur irama'''. Misalnya PRELUDE in C Minor - J S Bach.
+
+== Musik Homofoni ==
+==== Bentuk Lagu ====
+* 1. Satu Bagian: terdiri atas satu kalimat misal '''Verse A'''
+* 2. Dua Bagian: terdiri atas dua kalimat misal '''Verse A - Verse B'''
+* 3. Tiga Bagian: terdiri atas tiga kalimat misal Verse '''A - Bridge B - Verse A''' atau '''Verse A - Verse B - Verse C'''
+
+==== Bentuk Rondo ====
+Rondo (Perancis: Roundeau) adalah suatu nyanyian bergantian yang lahir pada Abad XII-XIII di Perancis. Sekarang merupakan bentuk ciptaan.
+
+'''Pola dasar''' adalah:
+* Refrain - Couplet - Refrain - Couplet - Refrain
+
+Kalau '''dengan Pengolahan''' menjadi: 
+* Refrain - Couplet - Refrain - Pengolahan - Refrain - Couplet - Refrain
+
+Kalau '''dengan Pengolahan dan Coda''' menjadi: 
+* Refrain - Couplet - Refrain - Pengolahan - Refrain - Couplet - Refrain - Coda
+
+==== Tema dan Variasi ====
+Tema dan variasi adalah suatu ciptaan memakai dasar suatu Tema yang sederhana dan mudah diingat polanya, umumnya lagu rakyat atau lagu 16 birama.
+
+'''Strukturnya''': Tema - Var1 - Var2 - Var3 - Var4 - Var5 (dst) - Coda -Penutup
+
+==== Bentuk Sonata ====
+Bentuk dasar adalah:
+* 1. '''Eksposisi'''
+* 2. '''Pengolahan'''
+* 3. '''Repetisi'''
+
+==== Bentuk Campuran ====
+Bentuk Campuran (Belanda: Meng-vorm; Inggris: Combine Form) adalah campuran bentuk musik, misalnya:
+* 1. Campuran '''SONATA dan RONDO'''
+* 2. Campuran '''SONATA dan VARIASI'''
+* 3. Campuran '''LAGU dan RONDO'''
+* 4. Campuran '''SONATA dan LAGU'''
+
+Frederic Chopin dalam ciptaannya sering memakai bentuk campuran.
+
+== Musik Konser ==
+
+==== Sonata ====
+Sonata adalah karya musik untuk alat musik tunggal atau duet, umumnya dipentaskan pada suatu ruangan, bukan panggung konser.
+
+Bentuk umum:
+* Bagian 1. '''Gerakan Cepat''' (''Sonata Form'') 
+* Bagian 2. '''Gerakan Lambat''' (''Bentuk Lagu Tiga Bagian'')
+* Bagian 3. '''Gerakan Cepat Sekali''' (''Bentuk Rondo'')
+
+==== Konserto ====
+Konserto adalah karya musik untuk alat musik tunggal atau lebih dengan iringan orkestra.
+
+Bentuk umum:
+* Bagian 1. '''Gerakan Cepat''' (''Sonata Form'') 
+* Bagian 2. '''Gerakan Lambat''' (''Bentuk Lagu Tiga Bagian'')
+* Bagian 3. '''Gerakan Cepat Sekali''' (''Bentuk Rondo'')
+
+'''Cadenza''' adalah bagian yang disediakan oleh komponis untuk soloist untuk memamerkan kepandian teknis maupun komposisi, yaitu berupa permainan solo berimprovisasi. Namun pihak ketiga kadang-kadang yang membuat cadenza ini.
+
+==== Simfoni ====
+Simfoni adalah karya musik untuk orkestra dan dipentaskan dipanggung,
+
+Bentuk umum:
+* Bagian 1. '''Gerakan Cepat''' (''Sonata Form'')
+* Bagian 2. '''Gerakan Lambat''' (''Bentuk Lagu Tiga Bagian'')
+* Bagian 3. '''Gerakan Tarian''' (''Bentuk Lagu Tiga Bagian dg Trio'')
+* Bagian 4. '''Finale - Gerakan Cepat Sekali''' (''Bentuk Rondo'')
+
+==== Syair Simfoni ====
+Sangat populer di Era Romantik (1825-1910), berupa karya '''simfoni dengan alur cerita''', bentuk bebas tidak mengikat dengan berbagai bentuk2.
+
+== Musik Nyanyian/Vokal ==
+
+==== Nyanyian Tunggal ====
+Lagu atau Nyanyian Tunggal (Jerman: Lied; Inggris: Song) adalah sajian nyanyian dengan iringan piano. Misalnya lagu seriosa.
+
+==== Paduan Suara ====
+Biasanya berupa Paduan Suara iringan orkes, misalnay MISA, REKUIM, KANTATA, ORATORIA, dlsb.
+
+==== Opera ====
+Opera adalah Sandiwara Nyanyi atau Pentas Musik. Dalam opera terdapat: Overtur (Pembuka) - Nyanyian Tunggal (Aria, Bel Canto) - Nyanyian Paduan Suara - Nyanyian Duet - Nyanyian Trio - Recitative (setengah deklamasi) - Tarian (balet) - dlsb.
+Pada Era Romantik (1825-1910) Opera berkembang pada masa keemasan, komponis antara lain Verdi, Wagner, Puccini, dlsb.
+
+== Musik Polka dan Walsa Wina, serta Mars ==
+Polka dan Walsa adalah musik khas Wina. Sedangkan Mars ada di semua negara, namun contoh yang baik adalah dari USA.
+
+==== Polka ====
+Polka Wina adalah suatu tarian atau dansa yang cepat seperti jingkrak-jingkrak, ciptaannya juga dikuasai oleh ciptaan keluarga Strauss (lebih dari 400 buah)
+
+Bentuk Umum: '''Polka''' - '''Trio''' - '''Finale''' - '''Coda'''
+
+==== Walsa ====
+Walsa Wina umumnya diciptakan oleh keluarga Strauss lebih dari 800 buah (Johan Strauss)
+
+Bentuk Umum: '''Intro''' - '''Walsa1''' - '''Walsa2''' - '''Walsa3''' - '''Walsa4''' - '''Walsa 5''' - '''Coda'''
+
+==== Mars ====
+Mars berkembang di USA, dengan tokoh John Pillips Su(USA), seorang Amerika keturunan Portugis.
+
+Bentuk Umum: '''Intro''' - '''Mars1''' - '''Mars2''' - '''Coda'''
+
+== Referensi ==
+{{Reflist}}
+
+[[Kategori:Musik]]

@@ -1,0 +1,5 @@
+Templat:Tokohindonesiakabkota
+<includeonly>Tokoh Indonesia yang berasal dari [[{{{tipe}}} {{{kab}}}]].
+[[Kategori:Tokoh Indonesia menurut kabupaten/kota|{{{kab}}}]]
+{{#switch:{{{kab}}}|Jakarta=|[[Kategori:Tokoh {{{prov}}}|{{{kab}}}, {{{tipe}}}]]}}
+{{#switch:{{{kab}}}|Jakarta=[[Kategori:Jakarta]]|[[Kategori:{{{tipe}}} {{{kab}}}]]}}</includeonly><noinclude>[[Kategori:Templat kategori menurut kabupaten dan kota di Indonesia]]</noinclude>

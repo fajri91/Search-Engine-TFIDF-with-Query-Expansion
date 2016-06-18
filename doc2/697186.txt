@@ -1,0 +1,117 @@
+Pertumbuhan tanaman
+[[Berkas:Seedlings.jpg|thumb|Tanaman pada [[fase]] [[pertumbuhan vegetatif]]]]
+
+'''Pertumbuhan tanaman''' merupakan hasil dari berbagai proses [[fisiologi]], melibatkan faktor [[genotipe]] yang berinteraksi dalam tubuh tanaman dengan faktor [[lingkungan]].<ref name="Sitompul dan Guritno 1995">{{Cite book|author= Sitompul, S.M dan B. Guritno|title=Analisis Pertumbuhan Tanaman|publisher=Gadjah Mada University Press|location=Yogyakarta|year=1995 }}</ref><ref name="Gardner, Pearce, dan Mitchell 1991">{{Cite book|author= Gardner, F.P., R.B. Pearce, dan R. L Mitchell|title=Physiology of Crop Plants|publisher=UI Press|location=Jakarta|year=1991}}</ref> Proses tersebut yaitu pertambahan ukuran, bentuk, dan jumlah.<ref name="Sitompul dan Guritno 1995"/> Ciri-ciri pertumbuhan pada tanaman yang tampak sebagai [[fenotipe]] utamanya dipengaruhi oleh [[faktor]] [[genotipe]], sedangkan ciri-ciri lainnya ditentukan oleh pengaruh lingkungan sehingga pertumbuhan merupakan fungsi dari genotipe x lingkungan.<ref name="Gardner, Pearce, dan Mitchell 1991"/> Dalam [[usaha pertanian]], aspek pertumbuhan tanaman mengacu pada tujuan utamanya yaitu memaksimalkan [[laju pertumbuhan]] dan [[hasil panen]] melalui [[manipulasi]] [[genetik]] dan lingkungan.<ref name="Gardner, Pearce, dan Mitchell 1991"/>
+
+== Definisi Pertumbuhan Tanaman ==
+Secara umum, '''pertumbuhan''' didefinisikan sebagai proses pembelahan dan pemanjangan sel.<ref name="Gardner, Pearce, dan Mitchell 1991"/> '''Pertumbuhan tanaman''' dalam arti terbatas menunjuk pada pertambahan ukuran yang tidak dapat balik, mencerminkan pertambahan [[protoplasma]] dan bobot kering pada tanaman.<ref name="Gardner, Pearce, dan Mitchell 1991"/><ref name="Harjadi dan Setyati 1988">{{Cite book|author= Harjadi, M. M., S. Setyati|title=Pengantar Agronomi|publisher=Gramedia|location=Jakarta|year=1988 }}</ref> Pertambahan bobot kering umumnya digunakan sebagai penunjuk ciri pertumbuhan karena pada umumnya hal tersebut mempunyai kepentingan [[ekonomi]] yang paling besar.<ref name="Gardner, Pearce, dan Mitchell 1991"/> Adapun [[parameter]] lain di antaranya adalah tinggi, [[volume]], dan luas daun juga dapat digunakan untuk [[deteksi|mendeteksi]] adanya pertumbuhan pada tanaman.<ref name="Gardner, Pearce, dan Mitchell 1991"/> Adapun [[parameter]] lain yaitu bobot basah tidak banyak digunakan karena angkanya [[fluktuasi|berfluktuasi]] walaupun pada kepentingan tertentu, [[parameter]] ini menjadi penting daripada bobot kering (digabung dengan faktor kualitas) terutama pada [[studi]] dan [[produksi]] [[hortikultura]].<ref name="Gardner, Pearce, dan Mitchell 1991"/>
+
+== Faktor Pertumbuhan Tanaman ==
+Secara umum, '''faktor pertumbuhan tanaman''' meliputi [[faktor]] [[internal]] ([[genetik]]) dan [[faktor]] [[eksternal]] (lingkungan).<ref name="Gardner, Pearce, dan Mitchell 1991"/>
+=== Faktor internal ===
+Faktor internal yang mempengaruhi pertumbuhan tanaman adalah sebagai berikut :<ref name="Gardner, Pearce, dan Mitchell 1991"/>
+* ketahanan terhadap tekanan [[iklim]], [[tanah]], dan [[biologis]]
+* [[laju]] [[fotosintesis]]
+* [[respirasi]]
+* pembagian hasil [[asimilasi]] dan [[nitrogen]]
+* [[klorofil]], [[karoten]], dan kandungan [[pigmen]] lainnya
+* [[tipe]] dan letak [[meristem]]
+* [[kapasitas]] untuk menyimpan cadangan makanan
+* [[aktivitas]] [[enzim]]
+* pengaruh langsung oleh [[gen]], misalnya [[heterosis]], [[epistatis]]
+* [[diferensiasi]]
+
+=== Faktor eksternal ===
+Faktor eksternal yang mempengaruhi pertumbuhan tanaman adalah sebagai berikut :<ref name="Gardner, Pearce, dan Mitchell 1991"/>
+* faktor [[iklim]], meliputi [[cahaya]], [[temperatur]], [[air]], [[panjang hari]], [[angin]], dan [[gas]]
+* faktor [[edafik]], meliputi [[tekstur]], [[struktur]], [[bahan organik]], [[kapasitas pertukaran kation]], [[pH]], [[kejenuhan basa]], dan ketersediaan [[nutrisi]]
+* faktor [[biologis]], meliputi [[gulma]], [[serangga]], [[organisme penyebab penyakit]], [[nematoda]], [[herbivora]], dan [[mikroorganisme tanah]]
+
+Adanya [[faktor pembatas]] dalam pertumbuhan tanaman berakibat pada terjadinya pengurangan pertumbuhan dan perkembangan tanaman.<ref name="Gardner, Pearce, dan Mitchell 1991"/> Beberapa teori terkait hal ini telah dinyatakan, dimulai oleh [[Liebig]] pada tahun [[1862]].<ref name="Gardner, Pearce, dan Mitchell 1991"/>
+
+== Dinamika Pertumbuhan Tanaman ==
+'''Dinamika pertumbuhan tanaman''' adalah proses yang menunjukkan adanya dinamika sepanjang fase pertumbuhan tanaman, secara khas dicirikan oleh fungsi pertumbuhan yang disebut ''kurva sigmoid''.<ref name="Gardner, Pearce, dan Mitchell 1991"/> Jangka waktu berlangsungnya proses ini dapat bervariasi kurang dari beberapa hari sampai bertahun-tahun, tergantung pada [[organisme]]nya atau [[organ]]nya.<ref name="Gardner, Pearce, dan Mitchell 1991"/>
+
+=== Kurva Sigmoid ===
+
+'''Kurva sigmoid''' adalah suatu fungsi [[pertumbuhan]] yang mencirikan [[pola]] pertumbuhan tanaman sepanjang suatu generasi secara khas.<ref name="Gardner, Pearce, dan Mitchell 1991"/> [[Kurva]] ini terbentuk oleh [[variabel]] berupa [[massa]] tanaman (bobot kering), [[volume]], luas daun, tinggi, atau penimbunan [[bahan kimia]] yang digambarkan terhadap waktu menjadi suatu garis yang dapat ditarik dari data secara normal akan berbentuk [[sigmoid]] yang menyerupai huruf S.<ref name="Gardner, Pearce, dan Mitchell 1991"/> Kurva sigmoid berlaku bagi tumbuhan lengkap, untuk bagian-bagiannya ataupun sel-selnya.<ref name="Tjitrosoepomo 1999">{{Cite book|author= Tjitrosoepomo, G.|title=Botani Umum Jilid 2|publisher= Penerbit Angkasa|location=Bandung|year=1999}}</ref> Pertumbuhan tanaman pada mulanya lambat kemudian berangsur-angsur lebih cepat sampai tercapai titik maksimum akhirnya laju tumbuh menurun.<ref name="Tjitrosoepomo 1999"/> Pola pertumbuhan tersebut cepat pada [[fase]] [[vegetatif]] sampai titik tertentu akibat pertambahan sel tanaman kemudian melambat dan akhirnya menurun pada [[fase]] [[senesen]].<ref name="Tjitrosoepomo 1999"/> Bentuk [[kurva]] [[sigmoid]] untuk semua tanaman kurang lebih tetap, tetapi penyimpangan dapat terjadi sebagai akibat [[variasi]] di lingkungan.<ref name="Tjitrosoepomo 1999"/> Ukuran akhir, rupa, dan bentuk tumbuhan ditentukan oleh kombinasi pengaruh faktor [[genetik]] dan lingkungan.<ref name="Tjitrosoepomo 1999"/>
+
+Pada [[kurva sigmoid]] digambarkan [[garis]] [[generalisasi]] atau [[kurva]] [[pengukuran|ukuran]] (meliputi [[bobot]], [[tinggi]], [[panjang]], [[lebar]], [[luas]], dan [[isi]]), [[log ukuran]], dan [[laju]] [[pertumbuhan]], masing-masing digambarkan terhadap [[waktu]].<ref name="Gardner, Pearce, dan Mitchell 1991"/> Fase-fase yang digambarkan dalam ukuran kurva tersebut meliputi : [[fase]] [[eksponensial]] atau [[logaritmik]] (a), [[fase]] [[linear]] (b), [[fase]] [[eksponensial]] [[kelembaban]] (c), dan [[fase]] [[mantap]] (d).<ref name="Gardner, Pearce, dan Mitchell 1991"/> [[Laju pertumbuhan]] memuncak pada <math> t = \frac{1}{2} </math>.<ref name="Gardner, Pearce, dan Mitchell 1991"/>
+
+Adapun [[detail]] [[proses]] yang terjadi pada masing-masing [[fase]] adalah sebagai berikut :<ref name="Gardner, Pearce, dan Mitchell 1991"/>
+* [[fase]] [[eksponensial]] atau [[logaritmik]] (a), merupakan [[periode]] [[laju pertumbuhan eksponensial]], terjadi dalam selang [[waktu]] yang [[relatif]] pendek dalam [[tajuk tanaman]]
+* [[fase]] [[linear]] (b),merupakan kelanjutan selama [[periode]] yang [[relatif]] panjang dan selama [[fase]] ini terjadi pertambahan bobot kering dengan [[laju]] yang [[konstan]]
+* [[fase]] [[eksponensial]] [[kelembaban]] (c), terjadi penambahan pertumbuhan secara [[progressif]] berkurang menurut waktu sampai dicapai keadaan mantap
+* [[fase]] [[mantap]] (d), merupakan [[fase]] pematangan [[fisiologis]], yaitu penambahan bobot kering seimbang dengan berkurangnya bobot kering.
+
+== Analisis Pertumbuhan Tanaman ==
+'''Analisis pertumbuhan tanaman''' merupakan suatu cara untuk mengikuti dinamika fotosintesis yang diukur dengan luas daun dan produksi bahan kering.<ref name="Sitompul dan Guritno 1995"/><ref name="Gardner, Pearce, dan Mitchell 1991"/> Kuantitas lain dalam analisis diperoleh melalui perhitungan.<ref name="Gardner, Pearce, dan Mitchell 1991"/> Akumulasi bahan kering mencerminkan kemampuan tanaman dalam mengikat [[energi]] dari cahaya matahari melalui proses [[fotosintesis]], serta interaksinya dengan faktor-faktor lingkungan.<ref name="Sitompul dan Guritno 1995"/> Distribusi akumulasi bahan kering pada bagian-bagian tanaman seperti [[akar]], [[batang]], [[daun]] dan bagian [[generatif]], dapat mencerminkan [[produktivitas tanaman]].<ref name="Sitompul dan Guritno 1995"/> Salah satu manfaat menggunakan analisis pertumbuhan tanaman adalah mengetahui pengaruh perlakuan dan faktor-faktor dalam [[budidaya tanaman]] terhadap kualitas pertumbuhan dan hasil tanaman.<ref name="Kalangi 2005">{{Cite journal|author= Kalangi, J.L.|title=Growth analysis of radish crop (Raphanus sativus L) planted in various density|journal=Eugenia|volume=11|pages=18-24|year=2005}}</ref> Kuantitas analisis pertumbuhan tanaman yang diperoleh dari bobot dan luas daun tanaman yaitu [[Laju Pertumbuhan Relatif]] (''Relative Growth Ratio''), [[Nisbah Luas Daun]] (''Leaf Area Ratio''), [[Luas Daun Khas]] (''Spesific Leaf Area''), [[Bobot Daun Khas]] (''Spesific Leaf Weight''), [[Indeks Luas Daun]] (''Leaf Area Index''), [[Laju Asimilasi Bersih]] (''Net Assimilation Rate''), [[Laju Pertumbuhan Tanaman]] (''Crop Growth Rate''), [[Laju Pertumbuhan Relatif]] (''Relatif Growth Rate''), [[Lamanya Luas Daun]] (''Leaf Area Duration''), dan [[Lamanya Biomassa]] (''Biomass Duration'').<ref name="Gardner, Pearce, dan Mitchell 1991"/><ref name="Leopold and Kriedemann 1975">{{Cite book|author= Leopold, A. C. and P. E Kriedemann|title=Plant Growth and Development|publisher=Tata Mc Grow Hill Pub. Co. Ltd.|location=New Delhi|year=1975|pages=545}}</ref>
+
+=== Kuantitas Analisis Pertumbuhan Tanaman ===
+Kuantitas analisis pettumbuhan tanaman yang diperoleh dari berat dan luas daun tanaman, tercantum pada tabel berikut :<ref name="Gardner, Pearce, dan Mitchell 1991"/>
+
+{| cellspacing=0 cellpadding=5 border=1 style="border-collapse: collapse;"
+|- bgcolor="#f0f0f0"
+! Kuantitas yang diperoleh
+! Simbol
+! Formula
+! Satuan
+|-
+| Laju Pertumbuhan Relatif
+| RGR
+| <math>(ln W^2-ln W^1)/(T^2-T^1)</math>
+| <math> W.W^{-1}. T^{-1}</math>
+|-
+| Nisbah Luas Daun
+| LAR
+| <math>(L_{A2}/W_2+L_{A1}+W_1)/2</math>
+| <math> A.W^{-1}</math>
+|-
+| Luas Daun Khusus
+| SLA
+| <math>(L_{A2}/W_2+L_{A1}/W_1)/2</math>
+| <math> A.W^{-1}</math>
+|-
+| Bobot Daun Khusus
+| SLW
+| <math>(L_{W2}/L_{A2})+(L_{W1}/L_{A1})/2</math>
+| <math> W.A^{-1}</math>
+|-
+| Laju Asimilasi Bersih
+| NAR
+| <math>(W_2-W_1)/(T_2-T_1).(ln L_{A2}-ln L_{A1})/(L_{A2}-L_{A1})</math> 
+| <math>W.A^{-1}.T^{-1}</math>
+|-
+| Indeks Luas Daun
+| LAI
+| <math>(L_{A2}+L_{A1})/2.(1/G_A)</math> 
+| tidak berdimensi
+|-
+| Laju Pertumbuhan Tanaman 
+| CGR
+| <math>(1/G_A).(W_2-W_1)/(T_2-T_1)</math>
+| <math>W.A^{-1}.T^{-1}</math>
+|-
+| Lamanya Luas Daun
+| LAD
+| <math>(L_{A2}+L_{A1})(T_2-T_1)/2</math>
+| <math>A.T</math>
+|-
+| Lamanya Biomassa
+| BMD
+| <math>[(W_2+W_1)/2].(T_2-T_1)</math>
+| <math>W.T</math>
+|-
+|}
+''Keterangan:''
+* <math>L_A</math>= luas daun
+* <math>L_W</math>= bobot daun
+* <math>G_A</math>= luas tanah
+* T = waktu
+* W = bobot kering total (hasil biologis)
+
+== Referensi ==
+{{reflist}}
+
+[[Kategori:Agronomi]]
+[[Kategori:Fisiologi tumbuhan]]

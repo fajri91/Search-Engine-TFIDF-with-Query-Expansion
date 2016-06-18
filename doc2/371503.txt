@@ -1,0 +1,39 @@
+66 (angka)
+{| class="infobox" style="width: 20em"
+|-
+| colspan="2" align="center" style="font: 72pt gill"|66
+|-
+| colspan="2"| {{numbers (digits)}}
+|-
+| [[Angka Kardinal|Kardinal]] || 66<br />enam puluh enam
+|-
+| [[Angka Ordinal (linguistik)|Ordinal]] || ke-66 (66<sup>th</sup>)<br />keenam puluh enam
+|-
+| [[Faktorisasi]] || <math>2 \cdot 3 \cdot 11</math>
+|-
+| [[Pembagi]] || 1, 2, 3, 6, 11, 22, 33, dan 66
+|-
+| [[Angka Romawi]] || LXVI
+|-
+| [[Angka Jepang]] || 
+|-
+| [[Biner]] || 1000010
+|-
+| [[Oktal]] || 102
+|-
+| [[Duodesimal]] || 56
+|-
+| [[Heksadesimal]] || 42
+|-
+| [[Bahasa Arab]] ||
+|}
+'''66''' ('''enam puluh enam''' - sering disingkat menjadi '''enam enam''') adalah sebuah [[angka]], [[sistem bilangan]], dan nama dari [[glyph]] yang mewakili angka tersebut. Angka ini merupakan [[bilangan asli]] di antara [[65 (angka)|65]] dan [[67 (angka)|67]].
+== Penggunaan ==
+* Kode [[ASCII]] untuk [[huruf]] [[B]] (besar).
+* Nama sebuah [[SMA]] Negeri favorit di Jalan Bango nomor 3, [[Pondok Labu, Cilandak, Jakarta Selatan]] (lihat: [[SMA Negeri 66 Jakarta]]).
+* [[Nomor atom]] dari [[Disprosium|Disprosium (Dy)]].
+{{angka-stub}}
+{{DEFAULTSORT:66}}
+
+[[Kategori:Angka]]
+[[Kategori:Bilangan bulat]]

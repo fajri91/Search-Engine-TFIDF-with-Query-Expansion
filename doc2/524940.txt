@@ -1,0 +1,10 @@
+Templat:Add new taxon
+<inputbox>
+type=create
+preload=Templat:Taxonomy/preload
+default=Templat:Taxonomy/
+break=no
+buttonlabel=Tambahkan
+bgcolor=inherit
+width=20
+</inputbox><noinclude>{{documentation}}</noinclude>

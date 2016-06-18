@@ -1,0 +1,65 @@
+Universitas Teknik Istanbul
+{{Infobox university
+|name            = Universitas Teknik Istanbul
+|native_name     = stanbul Teknik niversitesi
+| image =  Istanbul Technical University Logo.png
+| image_size = 250px
+| image_alt = 
+| caption = 
+|motto           = Pioneer Through The Ages
+|established     = 1773<ref>{{cite web|url=http://www.itu.edu.tr/?itu-hakkinda/tarihce|title=stanbul Teknik niversitesi|author=T/BDB Bilgi lem Daire Bakanl - DGMND|publisher=|accessdate=3 Juli 2015}}</ref>
+|type            = [[Universitas Publik]]
+|calendar        =
+|rector          = [[Mehmet Karaca]]<ref>{{cite web|url=http://www.oss.itu.edu.tr/Icerik.aspx?sid=713|title=T Bilgi lem Daire Bakanl|publisher=|accessdate=3 Juli 2015}}</ref>
+|chancellor      =
+|provost         =
+|city            = [[Istanbul]]<ref>{{cite web|url=http://www.itu.edu.tr/en/?contact|title=stanbul Technical University - Home|author=T/BDB Bilgi lem Daire Bakanl - DGMND|publisher=|accessdate=3 Juli 2015}}</ref>
+|state           =
+|country         = Turki
+|students       = 22,280<ref name="itu.edu.tr">http://www.itu.edu.tr/datafiles/dosya/2009/2008-Faaliyet-Raporu-22-Mayis.pdf</ref>
+|undergrad      = 14,958<ref name="itu.edu.tr"/>
+|postgrad       = 5,887<ref name="itu.edu.tr"/>
+|faculty        = 1990, professor 404 <ref name="itu.edu.tr"/>
+|campus         =
+|mascot         = [[Lebah]]
+|athletics      = Divisi Basket Turki II<ref>{{cite web|url=http://ituspor.org.tr/|title=ITU Spor Kulubu|publisher=|accessdate=3 July 2015}}</ref><br/>ITU Hornets (tim sepakbola Amerika) Liga Super nilig 
+|free_label     = 
+|free           = 
+|website        = [http://www.itu.edu.tr/en/ itu.edu.tr]
+|colors         = Biru Laut dan Kuning Madu {{Color box|#002855}} {{Color box|#97804f}}
+|endowment      = 
+|logo           = 
+|affiliations   = [[European University Association|EUA]],<ref>{{cite web|url=http://www.international.itu.edu.tr/Icerik.aspx?sid=1165|title=ITU INTERNATIONAL OFFICE PAGES|publisher=|accessdate=3 Juli 2015}}</ref> [[Top Industrial Managers for Europe|TIME]],<ref>{{cite web|url=http://www.international.itu.edu.tr/Icerik.aspx?sid=1164|title=ITU INTERNATIONAL OFFICE PAGES|publisher=|accessdate=3 Juli 2015}}</ref> [[CESAER Association]],<ref>{{cite web|url=http://www.international.itu.edu.tr/Icerik.aspx?sid=1166|title=ITU INTERNATIONAL OFFICE PAGES|publisher=|accessdate=3 Juli 2015}}</ref> EAIE<ref>{{cite web|url=http://www.international.itu.edu.tr/Icerik.aspx?sid=1167|title=ITU INTERNATIONAL OFFICE PAGES|publisher=|accessdate=3 Juli 2015}}</ref> ATHENS<ref>{{cite web|url=http://www.international.itu.edu.tr/Icerik.aspx?sid=4750|title=ITU INTERNATIONAL OFFICE PAGES|publisher=|accessdate=3 Juli 2015}}</ref>}}
+'''Universitas Teknik Istanbul''' ([[bahasa Turki|Tr.]] ''stanbul Teknik niversitesi'', umumnya disebut sebagai ITU atau Universitas Teknik) adalah sebuah universitas teknik internasional yang terletak di [[Istanbul]], [[Turki]]. Universitas tersebut merupakan [[universitas teknik]] tertua ketiga di dunia <ref>[http://www.topuniversities.com/worlduniversityrankings/results/2007/overall_rankings/worlds_oldest_universities World Oldest Universities]  {{wayback|url=http://www.topuniversities.com/worlduniversityrankings/results/2007/overall_rankings/worlds_oldest_universities |date=20080115092116 }}</ref> yang didedikasikan untuk ilmu pengetahuan teknik serta ilmu pengetahuan sosial pada saat ini, dan merupakan salah satu institusi pendidikan paling berpengaruh di Turki. ITU meraih urutan ke-108 di dunia dan urutan ke-1 di dalam negeri dalam bidang teknik/teknologi menurut [[THES - QS World University Rankings]] pada 2009.<ref>http://www.topuniversities.com/university-rankings/world-university-rankings/2009/subject-rankings/technology</ref> Para lulusan universitas teknik stanbul meraih beberapa penghargaan TUBITAK dan TUBA. Sejumlah lulusan juga menjadi anggota akademi ilmu pengetahuan di AS, Inggris dan [[Rusia]]. Tim basket universitas tersebut, [[stanbul Teknik niversitesi B.K.|ITUSpor]], berada dalam [[Liga Kedua Basket Turki]]. Universitas tersebut memiliki 39 program pasca-kelulusan, 144 program kelulusan, 13 kolese, 346 lab dan 12 pusat penelitian. Ratio pelajar per fakultasnya adalah 12:1.<ref>http://www.itu.edu.tr/Facts-Figures.pdf</ref>
+
+==Sejarah==
+{{See also|Daftar rektor Universitas Teknik Istanbul}}
+
+== Catatan dan referensi ==
+{{Reflist|2}}
+
+==Pranala luar==
+{{Commons category|Istanbul Technical University}}
+* [http://www.itu.edu.tr/en/ Laman utama ITU]
+* [http://www.karto.itu.edu.tr/kampus/index.html ITU Maslak Campus], interactive
+
+{{Universitas Teknik Istanbul}}
+{{Liga Universitas Kota Pelabuhan}}
+{{Manajer Industrial Teratas untuk Eropa|State=collapsed}}
+{{CESAER}}
+{{Universitas teknik di Turki}}
+{{Universitas dan kolese di Istanbul}}
+{{Universitas di Turki}}
+
+{{coord|41.10548|N|29.02365|E|source:placeopedia|display=title}}
+
+<!--Interwikies-->
+
+<!--Categories-->
+[[Kategori:Universitas dan kolese teknik]]
+[[Kategori:Universitas dan kolese teknik di Turki]]
+[[Kategori:Universitas Teknik Istanbul|*]]
+[[Kategori:ili]]
+[[Kategori:Universitas dan kolese negeri di Turki]]
+[[Kategori:Institusi pendidikan yang didirikan pada 1770an]]
+[[Kategori:Pendirian 1773 di Kekaisaran Utsmaniyah]]

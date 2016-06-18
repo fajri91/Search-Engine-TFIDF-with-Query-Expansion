@@ -1,0 +1,17 @@
+Templat:Kalijati, Subang
+{{Navigasi ID Desa |provinsi=Jawa Barat |dati2=Kabupaten |nama dati2=Subang
+|nama kecamatan=Kalijati
+|d1=Banggalamulya
+|d2=Caracas
+|d3=Ciruluk
+|d4=Jalupang
+|d5=Marengmang
+|d6=Kaliangsana
+|d7=Kalijati Barat
+|d8=Kalijati Timur
+|d9=Tanggulun Barat
+|d10=Tanggulun Timur
+}}<noinclude>
+[[Kategori:Templat desa/kelurahan di Jawa Barat|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Subang|{{PAGENAME}}]]
+</noinclude>

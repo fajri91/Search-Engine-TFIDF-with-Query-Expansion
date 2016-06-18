@@ -1,0 +1,1595 @@
+Liga Champions UEFA 201112
+{{Infobox International Football Competition
+| tourney_name   = Liga Champions UEFA
+| year           = 201112
+| dates          = 13 September 2011  19 Mei 2012 (babak utama)<br />28 Juni  24 Agustus 2011 (babak kualifikasi)
+| num_teams      = 32 (penyisihan grup)<br />76 (keseluruhan)
+| associations   = 52
+| champion_other = {{flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+| count          = 1
+| second_other   = {{flagicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+| matches        = 125
+| goals          = 345
+| attendance     = 
+| top_scorer     = {{flagicon|ARG}} [[Lionel Messi]] <small>(14 gol)</small> 
+| player         = 
+| prevseason     = [[Liga Champions UEFA 201011|201011]]
+| nextseason     = [[Liga Champions UEFA 201213|201213]]
+}}
+'''Liga Champions UEFA 201112''' adalah musim ke57 kompetisi klub tertinggi di [[Eropa]] yang diselenggarakan oleh [[UEFA]], dan musim ke20 di saat ini berformat [[Liga Champions UEFA]]. [[Final Liga Champions UEFA 2012|Final]] bertempat di [[Allianz Arena]] di [[Mnchen]], Jerman.<ref>{{cite news|title=UEFA announces 2011 and 2012 final venues|url=http://www.unian.net/eng/news/news-297963.html|work=UEFA.com|publisher=UNIAN|date=28 April 2010|accessdate=28 April 2010 }}</ref>  Sebagai bagian dari uji coba sejak [[Liga Eropa UEFA 200910]], dua asisten wasit tambahan, masing-masing satu di garis gawang, yang digunakan dalam semua pertandingan di babak play off.<ref>[http://www.uefa.com/uefa/footballfirst/matchorganisation/refereeing/news/newsid=1506902.html UEFA welcomes IFAB referee trial decision], UEFA.com.</ref> 
+
+[[FC Barcelona]] menjadi juara [[Liga Champions UEFA 201011|bertahan]] kali ini. [[FC Barcelona]] juga meraih gelar [[Piala Dunia Antarklub FIFA 2011]] dan [[Piala Super UEFA 2011]]. Namun Barcelona gagal mempertahankan gelarnya, setelah disingkirkan [[Chelsea F.C.|Chelsea]] di semifinal sekaligus memenangkan Liga Champions kali ini setelah mengalahkan [[FC Bayern Mnchen|Bayern Mnchen]] di pertandingan [[Final Liga Champions UEFA 2012|final]] melalui [[adu penalti]].
+
+
+==Alokasi tim berdasarkan asosiasi==
+Secara keseluruhan kejuaraan ini diikuti oleh 76 klub dari 52 asosiasi sepak bola anggota [[UEFA]], Liechtenstein tidak menyelenggarakan liga domestik. Alokasi peserta diperhitungkan berdasarkan koefisien liga pada tahun 2010, dimana perhitungannya berdasarkan prestasi masing-masing klub dalam kompetisi Eropa dibawah UEFA sepanjang musim 200506 hingga 200910.<ref>{{cite web|url=http://www.xs4all.nl/~kassiesa/bert/uefa/data/method4/crank2010.html|title=UEFA Country Ranking 2010|publisher=Bert Kassies}}</ref>
+
+Berikut ini adalah skema kualifikasi untuk Liga Champions UEFA 201112:<ref name="regulations">{{cite web| url = http://www.uefa.com/MultimediaFiles/Download/Regulations/competitions/Regulations/01/63/02/44/1630244_DOWNLOAD.pdf | title = Regulations of the UEFA Champions League 2011/12 | month = March | year = 2011 | publisher = UEFA | location = Nyon | format = PDF | accessdate = 1 June 2011}}</ref>
+*Asosiasi peringkat 13 masing masing memperoleh empat tempat di kualifikasi
+*Asosiasi peringkat 46 masing masing memperoleh tiga tempat di kualifikasi
+*Asosiasi peringkat 715 masing masing memperoleh dua tempat di kualifikasi
+*Asosiasi peringkat 1653 masing masing memperoleh satu tempat di kualifikasi (selain Liechtenstein)
+
+===Peringkat asosiasi===
+{|
+|- valign=top
+|
+{| class="wikitable"
+|-
+!{{Tooltip|Per.|Peringkat}}
+!Asosiasi
+!Koefisien
+!Jumlah klub
+|-
+! 1
+| {{Flagicon|ENG}} [[The Football Association|Inggris]]
+|align=right| 81.856
+|align=center rowspan="3"| 4 
+|-
+! 2
+| {{Flagicon|ESP}} {{asb|Kerajaan Spanyol|Spanyol|Federasi}}
+|align=right| 79.757
+|-
+! 3
+| {{Flagicon|ITA}} {{asb|Italia||Federasi}}
+|align=right| 64.338
+|-
+! 4
+| {{Flagicon|GER}} {{asb|Jerman}}
+|align=right| 64.207
+|align=center rowspan="3"| 3
+|-
+! 5
+| {{Flagicon|FRA}} {{asb|Perancis||Federasi}}
+|align=right| 53.740
+|-
+! 6
+| {{Flagicon|RUS}} {{asb|Rusia||Uni}}
+|align=right| 43.791
+|-
+! 7
+| {{Flagicon|UKR}} {{asb|Ukraina}}
+|align=right| 39.550
+|align=center rowspan="9"| 2
+|-
+! 8
+| {{Flagicon|ROU}} {{asb|Rumania}}
+|align=right| 39.491
+|-
+! 9
+| {{Flagicon|Portugal}} {{asb|Portugal||Federasi}}
+|align=right| 38.296
+|-
+! 10
+| {{Flagicon|Belanda}} {{asb|Kerajaan Belanda|Belanda}}
+|align=right| 36.546
+|-
+! 11
+| {{Flagicon|Turki}} {{asb|Turki}}
+|align=right| 34.450
+|-
+! 12
+| {{Flagicon|GRE}} {{asb|Yunani}}
+|align=right| 29.899
+|-
+! 13
+| {{Flagicon|SUI}} {{asb|Swiss}}
+|align=right| 28.375
+|-
+! 14
+| {{Flagicon|BEL}} {{asb|Belgia}}
+|align=right| 27.900
+|-
+! 15
+| {{Flagicon|DEN}} {{asb|Denmark}}
+|align=right| 27.350
+|-
+! 16
+| {{Flagicon|SCO}} {{asb|Skotlandia}}
+|align=right| 25.791
+|align=center rowspan="3"| 1
+|-
+! 17
+| {{Flagicon|BUL}} {{asb|Bulgaria}}
+|align=right| 22.000
+|-
+! 18
+| {{Flagicon|CZE}} {{asb|Republik Ceko}}
+|align=right| 21.975
+|}
+|
+{| class="wikitable"
+|-
+!{{Tooltip|Per.|Peringkat}}
+!Asosiasi
+!Koefisien
+!Jumlah tim
+|-
+! 19
+| {{Flagicon|AUT}} {{asb|Austria}}
+|align=right| 19.575
+|align=center rowspan="18"| 1
+|-
+! 20
+| {{Flagicon|ISR}} {{asb|Israel}}
+|align=right| 18.875
+|-
+! 21
+| {{Flagicon|CYP}} {{asb|Siprus}}
+|align=right| 17.999
+|-
+! 22
+| {{Flagicon|NOR}} {{asb|Norwegia}}
+|align=right| 17.400
+|-
+! 23
+| {{Flagicon|SVK}} {{asb|Slowakia}}
+|align=right| 15.832
+|-
+! 24
+| {{Flagicon|SWE}} {{asb|Swedia}}
+|align=right| 14.191
+|-
+! 25
+| {{Flagicon|SRB}} {{asb|Serbia}}
+|align=right| 14.000
+|-
+! 26
+| {{Flagicon|POL}} {{asb|Polandia}}
+|align=right| 12.541
+|-
+! 27
+| {{Flagicon|CRO}} {{asb|Kroasia||Federasi}}
+|align=right| 12.332
+|-
+! 28
+| {{Flagicon|BLR}} {{asb|Belarusia}}
+|align=right| 11.541
+|-
+! 29
+| {{Flagicon|IRL}} {{asb|Republik Irlandia}}
+|align=right| 9.541
+|-
+! 30
+| {{Flagicon|FIN}} {{asb|Finlandia}}
+|align=right| 9.499
+|-
+! 31
+| {{Flagicon|BIH}} {{asb|Bosnia dan Herzegovina}}
+|align=right| 8.749
+|-
+! 32
+| {{Flagicon|LTU}} {{asb|Lithuania}}
+|align=right| 8.416
+|-
+! 33
+| {{Flagicon|LVA}} {{asb|Latvia}}
+|align=right| 8.248
+|-
+! 34
+| {{Flagicon|MDA}} {{asb|Moldova}}
+|align=right| 7.290
+|-
+! 35
+| {{Flagicon|SVN}} {{asb|Slovenia}}
+|align=right| 6.957
+|-
+! 36
+| {{Flagicon|HUN}} {{asb|Hongaria}}
+|align=right| 6.750
+|}
+|
+{| class="wikitable"
+|-
+!{{Tooltip|Per.|Peringkat}}
+!Asosiasi
+!Koefisien
+!Jumlah tim
+|-
+! 37
+| {{Flagicon|GEO}} {{asb|Georgia}}
+|align=right| 5.748
+|align=center rowspan="4"| 1
+|-
+! 38
+| {{Flagicon|AZE}} {{asb|Azerbaijan}}
+|align=right| 5.498
+|-
+! 39
+| {{Flagicon|ISL}} {{asb|Islandia}}
+|align=right| 5.415
+|-
+! 40
+| {{Flagicon|MKD}} {{asb|Republik Makedonia}}
+|align=right| 5.332
+|-
+! 41
+| {{Flagicon|LIE}} {{asb|Liechtenstein}}
+|align=right| 4.500
+|align=center rowspan="1"| 0
+|-
+! 42
+| {{Flagicon|KAZ}} {{asb|Kazakhstan}}
+|align=right| 4.499
+|align=center rowspan="12"| 1
+|-
+! 43
+| {{Flagicon|EST}} {{asb|Estonia}}
+|align=right| 4.374
+|-
+! 44
+| {{Flagicon|ALB}} {{asb|Albania}}
+|align=right| 3.999
+|-
+! 45
+| {{Flagicon|ARM}} {{asb|Armenia}}
+|align=right| 2.999
+|-
+! 46
+| {{Flagicon|WAL}} {{asb|Wales}}
+|align=right| 2.581
+|-
+! 47
+| {{Flagicon|MNE}} {{asb|Montenegro}}
+|align=right| 2.125
+|-
+! 48
+| {{Flagicon|FRO}} {{asb|Kepulauan Faroe}}
+|align=right| 1.832
+|-
+! 49
+| {{Flagicon|NIR}} {{asb|Irlandia Utara}}
+|align=right| 1.624
+|-
+! 50
+| {{Flagicon|LUX}} {{asb|Luksemburg}}
+|align=right| 1.249
+|-
+! 51
+| {{Flagicon|AND}} {{asb|Andorra}}
+|align=right| 1.000
+|-
+! 52
+| {{Flagicon|MLT}} {{asb|Malta}}
+|align=right| 0.916
+|-
+! 53
+| {{Flagicon|SMR}} {{asb|San Marino||Federasi}}
+|align=right| 0.750
+|}
+|}
+
+===Distribusi peserta===
+Karena [[FC Barcelona|Barcelona]] sebagai juara [[Liga Champions UEFA 201011]], juga meraih gelar juara [[La Liga 201011|Liga Spanyol 201011]] yang mana berhak atas tempat di fase grup dari liga domestik, sehingga tempat dari juara bertahan dianggap kosong. Sebagai kompensasinya sebagai berikut:<ref>{{cite web| url = http://www.uefa.com/uefachampionsleague/season=2012/accesslist/index.html | title = 2011/12 UEFA Champions League access list | publisher = UEFA.com}}</ref>
+* Juara dari asosiasi rangking 13 (Swiss) naik dari babak ketiga kualifikasi menjadi babak grup. 
+* Juara dari asosiasi rangking 16 (Skotlandia) naik dari babak kedua kualifikasi menjadi babak ketiga kualifikasi.
+* Juara dari asosiasi rangking 48 dan 49 (Kepulauan Faroe dan Irlandia Utara) naik dari babak pertama kualifikasi menjadi babak kedua kualifikasi. 
+
+{| class="wikitable"
+|-
+!colspan=2|
+!Klub yang langsung lolos ke babak ini
+!Klub yang lolos dari babak sebelumnya
+|-
+!colspan=2|Babak pertama kualifikasi <br /> (4 klub)
+|
+*4 juara dari asosiasi peringkat 5053
+|
+|-
+!colspan=2|Babak kedua kualifikasi <br /> (34 klub)
+|
+*32 juara dari asosiasi peringkat 1749 <br>(selain Liechtenstein)
+|
+*2 pemenang dari babak pertama kualifikasi
+|-
+!rowspan=2|Babak ketiga kualifikasi 
+!Jalur juara<br /> (20 klub)
+|
+*3 juara dari asosiasi peringkat 1416
+|
+*17 pemenang dari babak kedua kualifikasi 
+|-
+!Jalur liga<br /> (10 klub)
+|
+*9 runner up dari asosiasi peringkat 715
+*1 peringkat tiga dari asosiasi peringkat 6
+|
+|-
+!rowspan=2|Babak play off
+!Jalur juara<br /> (10 klub)
+|
+|
+*10 pemenang dari babak ketiga kualifikasi (Jalur juara)
+|-
+!Jalur liga<br /> (10 klub)
+|
+*2 peringkat tiga dari asosiasi peringkat 4 and 5
+*3 peringkat empat dari asosiasi peringkat 13
+|
+*5 pemenang dari babak ketiga kualifikasi (Jalur liga)
+|-
+!colspan=2|Babak grup<br /> (32 klub)
+|
+*13 juara dari asosiasi peringkat 113
+*6 runner up dari asosiasi peringkat 16
+*3 peringkat tiga dari asosiasi peringkat 13
+|
+*5 pemenang dari babak play off (Jalur juara) 
+*5 pemenang dari babak play off (Jalur liga) 
+|-
+!colspan=2|Babak gugur<br /> (16 klub)
+|
+|
+*8 juara grup pada babak grup
+*8 runner up grup pada babak grup
+|}
+
+===Daftar klub peserta===
+Berikut ini daftar klub peserta dimana posisi akhir di liga domestik musim sebelumnya ditulis dalam kurung.<ref>{{cite web|url=http://www.xs4all.nl/~kassiesa/bert/uefa/qual2011.html|title=Qualification for European Cup Football 2011/2012|publisher=Bert Kassies|archiveurl=https://archive.is/GWiq|archivedate=2012-05-29}}</ref><br>
+
+{| class="wikitable"
+|-
+!colspan="4"|Babak grup
+|-
+|{{Flagicon|ESP}} [[FC Barcelona|Barcelona]]<sup>TH</sup> <small>([[La Liga 201011|1]])</small>
+|{{Flagicon|ITA}} [[A.C. Milan|Milan]] <small>([[201011 Serie A|1]])</small>
+|{{Flagicon|FRA}} [[Olympique de Marseille|Marseille]] <small>([[201011 Ligue 1|2]])</small>
+|{{Flagicon|POR}} [[F.C. Porto|Porto]] <small>([[201011 Primeira Liga|1]])</small>
+|-
+|{{Flagicon|ENG}} [[Manchester United F.C.|Manchester United]] <small>([[Liga Utama Inggris 201011|1]])</small>
+|{{Flagicon|ITA}} [[F.C. Internazionale Milano|Internazionale]] <small>([[201011 Serie A|2]])</small>
+|{{Flagicon|RUS}} [[FC Zenit Saint Petersburg|Zenit St. Petersburg]] <small>([[2010 Russian Premier League|1]])</small>
+|{{Flagicon|NED}} [[AFC Ajax|Ajax]] <small>([[201011 Eredivisie|1]])</small>
+|-
+|{{Flagicon|ENG}} [[Chelsea F.C.|Chelsea]] <small>([[Liga Utama Inggris 201011|2]])</small>
+|{{Flagicon|ITA}} [[S.S.C. Napoli|Napoli]] <small>([[201011 Serie A|3]])</small>
+|{{Flagicon|RUS}} [[PFC CSKA Moscow|CSKA Moscow]] <small>([[2010 Russian Premier League|2]])</small>
+|{{Flagicon|TUR}} [[Trabzonspor]] <small>([[201011 Sper Lig|2]])</small><sup>[[#TUR|Note TUR]]</sup>
+|-
+|{{Flagicon|ENG}} [[Manchester City F.C.|Manchester City]] <small>([[Liga Utama Inggris 201011|3]])</small>
+|{{Flagicon|GER}} [[Borussia Dortmund]] <small>([[201011 Fuball-Bundesliga|1]])</small>
+|{{Flagicon|UKR}} [[FC Shakhtar Donetsk|Shakhtar Donetsk]] <small>([[201011 Ukrainian Premier League|1]])</small>
+|{{Flagicon|GRE}} [[Olympiacos F.C.|Olympiacos]] <small>([[201011 Superleague Greece|1]])</small>
+|-
+|{{Flagicon|ESP}} [[Real Madrid C.F.|Real Madrid]] <small>([[201011 La Liga|2]])</small>
+|{{Flagicon|GER}} [[Bayer 04 Leverkusen|Bayer Leverkusen]] <small>([[201011 Fuball-Bundesliga|2]])</small>
+|{{Flagicon|ROU}} [[FC Oelul Galai|Oelul Galai]] <small>([[201011 Liga I|1]])</small>
+|{{Flagicon|SUI}} [[FC Basel|Basel]] <small>([[201011 Swiss Super League|1]])</small>
+|-
+|{{Flagicon|ESP}} [[Valencia CF|Valencia]] <small>([[201011 La Liga|3]])
+|{{Flagicon|FRA}} [[Lille OSC|Lille]] <small>([[201011 Ligue 1|1]])</small>
+|colspan=2|
+|-
+!colspan="4"|Babak play off
+|-
+!Jalur juara
+!colspan="3"|Jalur liga
+|-
+|rowspan="2"|
+|{{Flagicon|ENG}} [[Arsenal F.C.|Arsenal]] <small>([[Liga Utama Inggris 201011|4]])</small>
+|{{Flagicon|ITA}} [[Udinese Calcio|Udinese]] <small>([[201011 Serie A|4]])</small>
+|{{Flagicon|FRA}} [[Olympique Lyonnais|Lyon]] <small>([[201011 Ligue 1|3]])</small>
+|-
+|{{Flagicon|ESP}} [[Villarreal CF|Villarreal]] <small>([[201011 La Liga|4]])
+|{{Flagicon|GER}} [[FC Bayern Munich|Bayern Munich]] <small>([[201011 Fuball-Bundesliga|3]])</small>
+|
+|-
+!colspan="4"|Babak ketiga kualifikasi
+|-
+!Jalur juara
+!colspan="3"|Jalur liga
+|-
+|{{Flagicon|BEL}} [[K.R.C. Genk|Genk]] <small>([[201011 Belgian Pro League|1]])</small>
+|{{Flagicon|RUS}} [[FC Rubin Kazan|Rubin Kazan]] <small>([[2010 Russian Premier League|3]])</small>
+|{{Flagicon|NED}} [[FC Twente|Twente]] <small>([[201011 Eredivisie|2]])</small>
+|{{Flagicon|SUI}} [[FC Zrich|Zrich]] <small>([[201011 Swiss Super League|2]])</small>
+|-
+|{{Flagicon|DEN}} [[F.C. Copenhagen|Copenhagen]] <small>([[201011 Danish Superliga|1]])</small><sup>
+|{{Flagicon|UKR}} [[FC Dynamo Kyiv|Dynamo Kyiv]] <small>([[201011 Ukrainian Premier League|2]])</small>
+|{{Flagicon|TUR}} [[Trabzonspor]] <small>([[201011 Sper Lig|2]])</small><sup>[[#TUR|Note TUR]]</sup>
+|{{Flagicon|BEL}} [[Standard Lige]] <small>([[201011 Belgian Pro League|2]])</small>
+|-
+|{{Flagicon|SCO}} [[Rangers F.C.|Rangers]] <small>([[201011 Scottish Premier League|1]])</small>
+|{{Flagicon|ROU}} [[FC Vaslui|Vaslui]] <small>([[201011 Liga I|3]])</small><sup>[[#ROU|Note ROU]]</sup>
+|{{Flagicon|GRE}} [[Panathinaikos FC|Panathinaikos]] <small>([[201011 Superleague Greece|2]])</small>
+|{{Flagicon|DEN}} [[Odense Boldklub|Odense]] <small>([[201011 Danish Superliga|2]])</small>
+|-
+|
+|{{Flagicon|POR}} [[S.L. Benfica|Benfica]] <small>([[201011 Primeira Liga|2]])</small>
+|colspan="2"|
+|-
+!colspan="4"|Babak kedua kualifikasi
+|-
+|{{Flagicon|BUL}} [[PFC Litex Lovech|Litex Lovech]] <small>([[201011 A PFG|1]])</small>
+|{{Flagicon|SRB}} [[FK Partizan|Partizan]] <small>([[201011 Serbian SuperLiga|1]])</small>
+|{{Flagicon|LVA}} [[Skonto FC|Skonto]] <small>([[2010 Latvian Higher League|1]])</small>
+|{{Flagicon|KAZ}} [[FC Tobol|Tobol Kostanay]] <small>([[2010 Kazakhstan Premier League|1]])</small>
+|-
+|{{Flagicon|CZE}} [[FC Viktoria Plze|Viktoria Plze]] <small>([[201011 Gambrinus liga|1]])</small>
+|{{Flagicon|POL}} [[Wisa Krakw]] <small>([[201011 Ekstraklasa|1]])</small>
+|{{Flagicon|MDA}} [[FC Dacia Chiinu|Dacia Chiinu]] <small>([[201011 Moldovan National Division|1]])</small>
+|{{Flagicon|EST}} [[FC Flora Tallinn|Flora Tallinn]] <small>([[2010 Meistriliiga|1]])</small>
+|-
+|{{Flagicon|AUT}} [[SK Sturm Graz|Sturm Graz]] <small>([[201011 Austrian Football Bundesliga|1]])</small>
+|{{Flagicon|CRO}} [[GNK Dinamo Zagreb|Dinamo Zagreb]] <small>([[201011 Prva HNL|1]])</small>
+|{{Flagicon|SVN}} [[NK Maribor|Maribor]] <small>([[201011 Slovenian PrvaLiga|1]])</small>
+|{{Flagicon|ALB}} [[KF Sknderbeu Kor|Sknderbeu Kor]] <small>([[201011 Albanian Superliga|1]])</small>
+|-
+|{{Flagicon|ISR}} [[Maccabi Haifa F.C.|Maccabi Haifa]] <small>([[201011 Israeli Premier League|1]])</small>
+|{{Flagicon|BLR}} [[FC BATE Borisov|BATE Borisov]] <small>([[2010 Belarusian Premier League|1]])</small>
+|{{Flagicon|HUN}} [[Videoton FC|Videoton]] <small>([[201011 Nemzeti Bajnoksg I|1]])</small>
+|{{Flagicon|ARM}} [[FC Pyunik|Pyunik]] <small>([[2010 Armenian Premier League|1]])</small>
+|-
+|{{Flagicon|CYP}} [[APOEL F.C.|APOEL]] <small>([[201011 Cypriot First Division|1]])</small>
+|{{Flagicon|IRL}} [[Shamrock Rovers F.C.|Shamrock Rovers]] <small>([[2010 League of Ireland|1]])</small>
+|{{Flagicon|GEO}} [[FC Zestafoni|Zestafoni]] <small>([[201011 Umaglesi Liga|1]])</small>
+|{{Flagicon|WAL}} [[Bangor City F.C.|Bangor City]] <small>([[201011 Welsh Premier League|1]])</small>
+|-
+|{{Flagicon|NOR}} [[Rosenborg BK|Rosenborg]] <small>([[2010 Norwegian Premier League|1]])</small>
+|{{Flagicon|FIN}} [[Helsingin Jalkapalloklubi|HJK Helsinki]] <small>([[2010 Veikkausliiga|1]])</small>
+|{{Flagicon|AZE}} [[Neftchi Baku PFC|Neftchi Baku]] <small>([[201011 Azerbaijan Premier League|1]])</small>
+|{{Flagicon|MNE}} [[FK Mogren|Mogren]] <small>([[201011 Montenegrin First League|1]])</small>
+|-
+|{{Flagicon|SVK}} [[K Slovan Bratislava|Slovan Bratislava]] <small>([[201011 Slovak Superliga|1]])</small>
+|{{Flagicon|BIH}} [[FK Borac Banja Luka|Borac Banja Luka]] <small>([[201011 Premier League of Bosnia and Herzegovina|1]])</small>
+|{{Flagicon|ISL}} [[Breiablik UBK|Breiablik]] <small>([[2010 rvalsdeild|1]])</small>
+|{{Flagicon|FRO}} [[Havnar Bltfelag|HB Trshavn]] <small>([[2010 Faroe Islands Premier League Football|1]])
+|-
+|{{Flagicon|SWE}} [[Malm FF]] <small>([[2010 Allsvenskan|1]])</small>
+|{{Flagicon|LTU}} [[FK Ekranas|Ekranas]] <small>([[2010 A Lyga|1]])</small>
+|{{Flagicon|MKD}} [[FK kendija|kendija]] <small>([[201011 First Macedonian Football League|1]])</small>
+|{{Flagicon|NIR}} [[Linfield F.C.|Linfield]] <small>([[201011 IFA Premiership|1]])</small>
+|-
+!colspan="4"|Babak pertama kualifikasi
+|-
+|{{Flagicon|LUX}} [[F91 Dudelange]] <small>([[201011 Luxembourg National Division|1]])</small>
+|{{Flagicon|AND}} [[Futbol Club Santa Coloma|FC Santa Coloma]] <small>([[201011 Primera Divisi|1]])</small>
+|{{Flagicon|MLT}} [[Valletta F.C.|Valletta]] <small>([[201011 Maltese Premier League|1]])</small>
+|{{Flagicon|SMR}} [[Societ Polisportiva Tre Fiori|Tre Fiori]] <small>([[201011 Campionato Sammarinese di Calcio|1]])</small>
+|}
+
+;Catatan
+*<div id="TH"/><sup>TH</sup> Juara bertahan
+*<div id="ROU"/>'''Romania (ROU)''': Karena lisensi domestik untuk [[Liga I 201112|musim 201112]] ditolak maka tempat bagi runner up [[Liga I 201011]] [[FC Politehnica Timioara|Politehnica Timioara]] digantikan oleh peringkat tiga liga, [[FC Vaslui|Vaslui]], yang mengikuti Liga Champions pada babak ketiga kualifikasi jalur liga.<ref>{{cite web|title=Timisoara si Bistrita nu au primit licenta si sunt retrogradate|url=http://www.onlinesport.ro/stiri/fotbal/fotbal-intern/liga-1/poli-timisoara/75710/timisoara-si-bistrita-nu-au-primit-licenta-si-sunt-retrogradate.htm|publisher=Onlinesport.ro|accessdate=31 May 2011}}</ref>
+*<div id="TUR"/>'''Turkey (TUR)''': Juara [[Sper Lig 201011]], [[Fenerbahe S.K. (football team)|Fenerbahe]], ditarik keikutsertaannya oleh Federasi Sepak bola Turki pada tanggal 24 Agustus 2011 dari keikutsertaannya pada Liga Champions UEFA 201112 karena diduga terkait dengan pengaturan skor yang terjadi di liga domestik.<ref>{{cite news|title=Fenerbahce withdrawn from Europe because of match-fix probe|url=http://news.bbc.co.uk/sport1/hi/football/14656932.stm|publisher=BBC|accessdate=24 Aug 2011|date=25 August 2011}}</ref><ref>{{cite web|url=http://www.tff.org/default.aspx?pageID=471&ftxtID=13258|title=Fenerbahe is out from UEFA Champions League for this season|publisher=Turkish Football Federation|date=24 August 2011}}</ref> UEFA memutuskan untuk menggantikannya dengan [[Trabzonspor]] sebagai runner up liga domestik, untuk mengikuti babak grup, yang sebelumnya telah kalah di babak ketiga kualifikasi jalur liga dan sedang mengikuti babak play off liga eropa.<ref name="Fenerbahe">{{cite news|url = http://www.uefa.com/uefa/footballfirst/matchorganisation/disciplinary/news/newsid=1666823.html|title = Fenerbahe replaced in UEFA Champions League|publisher=UEFA |date = 24 August 2011}}</ref>
+
+==Jadwal pengundian dan pertandingan==
+Seluruh pengundian dilakukan di Markas UEFA di [[Nyon]], [[Swiss]] kecuali disebutkan lainnya.<ref>{{cite web | url = http://www.uefa.com/uefa/management/newsid=1651736.html | title = 2011/12 draw and match calendar | publisher = UEFA.com }}</ref>
+
+{| class="wikitable" style="text-align:center"
+|-
+! Fase
+! Babak
+! Jadwal pengundian
+! Pertandingan pertama
+! Pertandingan kedua
+|-
+| rowspan=3| Kualifikasi
+| Babak pertama kualifikasi
+| rowspan=2| 20 Juni 2011
+| 2829 Juni 2011
+| 56 Juli 2011
+|-
+| Babak kedua kualifikasi
+| 1213 Juli 2011
+| 1920 Juli 2011
+|-
+| Babak ketiga kualifikasi
+| 15 Juli 2011
+| 2627 Juli 2011
+| 23 Agustus 2011
+|-
+| Play off
+| Babak play off
+| 5 Agustus 2011
+| 1617 Agustus 2011
+| 2324 Agustus 2011
+|-
+| rowspan=6| Babak grup
+| Pertandingan 1
+| rowspan=6| 25 Agustus 2011<br />([[Monaco]])
+| colspan=2| 1314 September 2011
+|-
+| Pertandingan 2
+| colspan=2| 2728 September 2011
+|-
+| Pertandingan 3
+| colspan=2| 1819 Oktober 2011
+|-
+| Pertandingan 4
+| colspan=2| 12 November 2011
+|-
+| Pertandingan 5
+| colspan=2| 2223 November 2011
+|-
+| Pertandingan 6
+| colspan=2| 67 Desember 2011
+|-
+| rowspan=4| Babak gugur
+| 16 Besar
+| 16 Desember 2011
+| 1415 & 2122 Februari 2012
+| 67 & 1314 Maret 2012
+|-
+| Perempatfinal
+| rowspan=3| 16 Maret 2012
+| 2728 Maret 2012
+| 34 April 2012
+|-
+| Semifinal
+| 1718 April 2012
+| 2425 April 2012
+|-
+| Final
+| colspan="2"| 19 Mei 2012 di [[Allianz Arena|Fuball Arena Mnchen]], [[Mnchen]]
+|}
+
+==Babak kualifikasi==
+{{main|Babak kualifikasi dan play off Liga Champions UEFA 201112||l1=Babak kualifikasi Liga Champions UEFA 201112}}
+
+Pada babak kualifikasi dan play off, setiap klub dibagi menjadi unggulan dan non-unggulan berdasarkan koefisien klub tahun 2011,<ref name="trank">{{cite web|url=http://www.xs4all.nl/~kassiesa/bert/uefa/data/method4/trank2011.html|title=UEFA Team Ranking 2011|publisher=Bert Kassies}}</ref><ref name="seed">{{cite web|url=http://www.xs4all.nl/~kassiesa/bert/uefa/seedcl2011.html|title=Seeding in the Champions League 2011/2012|publisher=Bert Kassies|archiveurl=http://web.archive.org/20110626131151/www.xs4all.nl/~kassiesa/bert/uefa/seedcl2011.html|archivedate=2011-06-26}}</ref> yang kemudian diundi untuk melakukan sepasang pertandingan kandang tandang. Klub dari satu asosiasi tidak akan dipertemukan satu sama lain.
+
+===Babak pertama kualifikasi===
+Pengundian untuk babak pertama dan kedua kualifikasi dilaksanakan pada tanggal 20 Juni 2011. Pertandingan pertama dilakukan pada tanggal 28 Juni, dan yang kedua pada 5 dan 6 Juli 2011.<ref>{{cite news|title=Newcomers Skendija meet Partizan in second round|url=http://www.uefa.com/uefachampionsleague/news/newsid%3D1645286.html|accessdate=24 August 2011|newspaper=[[UEFA]]|date=20 June 2011}}</ref>
+
+{{TwoLegStart}}
+{{TwoLegResult|[[Societ Polisportiva Tre Fiori|Tre Fiori]]|SMR|15|'''[[Valletta F.C.|Valletta]]'''|MLT|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Tre Fiori v Valletta|03]]|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Valletta v Tre Fiori|12]]}}
+{{TwoLegResult|[[Futbol Club Santa Coloma|FC Santa Coloma]]|AND|04|'''[[F91 Dudelange]]'''|LUX|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#FC Santa Coloma v F91 Dudelange|02]]|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#F91 Dudelange v FC Santa Coloma|02]]}}
+|}
+
+===Babak kedua kualifikasi===
+Pertandingan pertama dilakukan pada tanggal 12 dan 13 Juli, sedangkan yang kedua pada 19 dan 20 Juli 2011.
+
+{{TwoLegStart}}
+{{TwoLegResult|'''[[Maccabi Haifa F.C.|Maccabi Haifa]]'''|ISR|74|[[FK Borac Banja Luka|Borac Banja Luka]]|BIH|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Maccabi Haifa v Borac Banja Luka|51]]|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Borac Banja Luka v Maccabi Haifa|23]]}}
+{{TwoLegResult|[[FK Mogren|Mogren]]|MNE|15|'''[[PFC Litex Lovech|Litex Lovech]]'''|BUL|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Mogren v Litex Lovech|12]]|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Litex Lovech v Mogren|03]]}}
+{{TwoLegResult|'''[[NK Maribor|Maribor]]'''|SVN|51|[[F91 Dudelange]]|LUX|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Maribor v F91 Dudelange|20]]|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#F91 Dudelange v Maribor|31]]}}
+{{TwoLegResult|[[KF Sknderbeu Kor|Sknderbeu Kor]]|ALB|06|'''[[APOEL F.C.|APOEL]]'''|CYP|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Sknderbeu Kor v APOEL|02]]|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#APOEL v Sknderbeu Kor|04]]}}
+{{TwoLegResult|'''[[K Slovan Bratislava|Slovan Bratislava]]'''|SVK|31|[[FC Tobol|Tobol Kostanay]]|KAZ|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Slovan Bratislava v Tobol Kostanay|20]]|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Tobol Kostanay v Slovan Bratislava|11]]}}
+{{TwoLegResult|'''[[SK Sturm Graz|Sturm Graz]]'''|AUT|43|[[Videoton FC|Videoton]]|HUN|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Sturm Graz v Videoton|20]]|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Videoton v Sturm Graz|23]]}}
+{{TwoLegResult|'''[[FC Zestafoni|Zestafoni]]'''|GEO|32|[[FC Dacia Chiinu|Dacia Chiinu]]|MDA|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Zestafoni v Dacia Chiinu|30]]|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Dacia Chiinu v Zestafoni|02]]}}
+{{TwoLegResult|'''[[GNK Dinamo Zagreb|Dinamo Zagreb]]'''|CRO|30|[[Neftchi Baku PFC|Neftchi Baku]]|AZE|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Dinamo Zagreb v Neftchi Baku|30]]|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Neftchi Baku v Dinamo Zagreb|00]]}}
+{{TwoLegResult|[[FC Pyunik|Pyunik]]|ARM|19|'''[[FC Viktoria Plze|Viktoria Plze]]'''|CZE|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Pyunik v Viktoria Plze|04]]|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Viktoria Plze v Pyunik|15]]}}
+{{TwoLegResult|'''[[FK Partizan|Partizan]]'''|SRB|50|[[FK kendija|kendija]]|MKD|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Partizan v kendija|40]]|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#kendija v Partizan|10]]}}
+{{TwoLegResult|[[Valletta F.C.|Valletta]]|MLT|24|'''[[FK Ekranas|Ekranas]]'''|LTU|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Valletta v Ekranas|23]]|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Ekranas v Valletta|01]]}}
+{{TwoLegResult|'''[[Malm FF]]'''|SWE|31|[[Havnar Bltfelag|HB Trshavn]]|FRO|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Malm FF v HB Trshavn|20]]|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#HB Trshavn v Malm FF|11]]}}
+{{TwoLegResult|'''[[Shamrock Rovers F.C.|Shamrock Rovers]]'''|IRL|10|[[FC Flora Tallinn|Flora Tallinn]]|EST|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Shamrock Rovers v Flora Tallinn|10]]|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Flora Tallinn v Shamrock Rovers|00]]}}
+{{TwoLegResult|'''[[Rosenborg BK|Rosenborg]]'''|NOR|52|[[Breiablik UBK|Breiablik]]|ISL|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Rosenborg v Breiablik|50]]|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Breiablik v Rosenborg|02]]}}
+{{TwoLegResult|[[Bangor City F.C.|Bangor City]]|WAL|013<sup>[[#notes_qr1|1]]</sup>|'''[[Helsingin Jalkapalloklubi|HJK]]'''|FIN|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Bangor City v HJK Helsinki|03]]|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#HJK Helsinki v Bangor City|010]]}}
+{{TwoLegResult|[[Skonto FC|Skonto]]|LVA|03|'''[[Wisa Krakw]]'''|POL|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Skonto v Wisa Krakw|01]]|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Wisa Krakw v Skonto|02]]}}
+{{TwoLegResult|[[Linfield F.C.|Linfield]]|NIR|13|'''[[FC BATE Borisov|BATE Borisov]]'''|BLR|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Linfield v BATE Borisov|11]]|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#BATE Borisov v Linfield|02]]}}
+|}
+
+;Catatan
+*<div id="notes_qr1"/>Cat. 1: Pelaksanaannya dibalik daripada hasil pengundian sebelumnya.
+
+===Babak ketiga kualifikasi===
+Pengundian babak ketiga kualifikasi dilaksanakan pada tanggal 15 Juli 2011.<ref>{{cite news|title=Draw throws up Dynamo-Rubin rematch|url=http://www.uefa.com/uefachampionsleague/news/newsid%3D1651166.html|accessdate=24 August 2011|newspaper=[[UEFA]]|date=15 July 2011}}</ref> Pertandingan pertama dilakukan pada 26 dan 27 Juli, sedangkan babak kedua dilakukan pada 2 dan 3 Agustus 2011.
+
+Babak ketiga kualifikasi dibagi dua bagian: satu untuk para juara liga domestik (disebut Jalur Juara) dan satu bagian untuk bukan juara liga domestik (disebut Jalur Liga). Tim yang kalah di kedua bagian ini akan mengikuti [[Liga Eropa UEFA 201112#Babak play off|Babak play off Liga Eropa UEFA 201112]].
+
+{{TwoLegStart}}
+|-
+!colspan="6"|Jalur juara
+{{TwoLegResult|[[PFC Litex Lovech|Litex Lovech]]|BUL|25|'''[[Wisa Krakw]]'''|POL|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Litex Lovech v Wisa Krakw|12]]|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Wisa Krakw v Litex Lovech|13]]}}
+{{TwoLegResult|'''[[Maccabi Haifa F.C.|Maccabi Haifa]]'''|ISR|32|[[NK Maribor|Maribor]]|SVN|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Maccabi Haifa v Maribor|21]]|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Maribor v Maccabi Haifa|11]]}}
+{{TwoLegResult|[[Helsingin Jalkapalloklubi|HJK]]|FIN|13|'''[[GNK Dinamo Zagreb|Dinamo Zagreb]]'''|CRO|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#HJK Helsinki v Dinamo Zagreb|12]]|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Dinamo Zagreb v HJK Helsinki|01]]}}
+{{TwoLegResult|'''[[APOEL F.C.|APOEL]]'''|CYP|20|[[K Slovan Bratislava|Slovan Bratislava]]|SVK|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#APOEL v Slovan Bratislava|00]]|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Slovan Bratislava v APOEL|20]]}}
+{{TwoLegResult|'''[[F.C. Copenhagen|Copenhagen]]|DEN|30|[[Shamrock Rovers F.C.|Shamrock Rovers]]|IRL|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Copenhagen v Shamrock Rovers|10]]|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Shamrock Rovers v Copenhagen|20]]}}
+{{TwoLegResult|'''[[K.R.C. Genk|Genk]]'''|BEL|32|[[FK Partizan|Partizan]]|SRB|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Genk v Partizan|21]]|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Partizan v Genk|11]]}}
+{{TwoLegResult|[[Rosenborg BK|Rosenborg]]|NOR|24|'''[[FC Viktoria Plze|Viktoria Plze]]'''|CZE|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Rosenborg v Viktoria Plze|01]]|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Viktoria Plze v Rosenborg|23]]}}
+{{TwoLegResult|[[FC Zestafoni|Zestafoni]]|GEO|12|'''[[SK Sturm Graz|Sturm Graz]]'''|AUT|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Zestafoni v Sturm Graz|11]]|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Sturm Graz v Zestafoni|01]]}}
+{{TwoLegResult|[[FK Ekranas|Ekranas]]|LTU|13|'''[[FC BATE Borisov|BATE Borisov]]'''|BLR|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Ekranas v BATE Borisov|00]]|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#BATE Borisov v Ekranas|13]]}}
+{{TwoLegResult|[[Rangers F.C.|Rangers]]|SCO|12|'''[[Malm FF]]'''|SWE|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Rangers v Malm FF|01]]|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Malm FF v Rangers|11]]}}
+|-
+!colspan="6"|Jalur liga
+{{TwoLegResult|[[Standard Lige]]|BEL|12|'''[[FC Zrich|Zrich]]'''|SUI|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Standard Lige v Zrich|11]]|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Zrich v Standard Lige|01]]}}
+{{TwoLegResult|'''[[FC Twente|Twente]]'''|NED|20|[[FC Vaslui|Vaslui]]|ROU|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Twente v Vaslui|20]]|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Vaslui v Twente|00]]}}
+{{TwoLegResult|'''[[S.L. Benfica|Benfica]]'''|POR|31|[[Trabzonspor]]|TUR|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Benfica v Trabzonspor|20]]|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Trabzonspor v Benfica|11]]}}
+{{TwoLegResult|[[FC Dynamo Kyiv|Dynamo Kyiv]]|UKR|14|'''[[FC Rubin Kazan|Rubin Kazan]]|RUS|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Dynamo Kyiv v Rubin Kazan|02]]|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Rubin Kazan v Dynamo Kyiv|12]]}}
+{{TwoLegResult|'''[[Odense Boldklub|Odense]]|DEN|54|[[Panathinaikos FC|Panathinaikos]]|GRE|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Odense v Panathinaikos|11]]|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Panathinaikos v Odense|43]]}}
+|}
+
+==Babak Play off==
+{{main|Babak kualifikasi dan play off Liga Champions UEFA 201112||l1=Babak play off Liga Champions UEFA 201112}}
+
+Pengundian untuk babak play off dilakukan pada tanggal 5 Agustus 2011.<ref>{{cite news|title=Bayern face Zrich, Arsenal draw Udinese|url=http://www.uefa.com/uefachampionsleague/news/newsid%3D1656431.html|accessdate=24 August 2011|newspaper=[[UEFA]]|date=5 August 2011}}</ref> Pertandingan pertama dilakukan pada tanggal 16 dan 17 Agustus sedangkan yang kedua akan dilakukan pada tanggal 23 dan 24 Agustus 2011.
+
+Babak play off juga dibagi menjadi dua bagian yaitu jalur juara dan jalur liga. Tim yang kalah akan mengikuti [[Liga Eropa UEFA 201112#Babak Grup|Babak Grup Liga Eropa UEFA 201112]].
+
+{{TwoLegStart}}
+|-
+!colspan="6"|Jalur Juara
+{{TwoLegResult|[[Wisa Krakw]]|POL| 23 |'''[[APOEL Nicosia|APOEL]] '''|CYP|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Wisa Krakw v APOEL|10]]|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#APOEL v Wisa Krakw|13]]}}
+{{TwoLegResult|[[Maccabi Haifa F.C.|Maccabi Haifa]]|ISR| 33 (14 [[Penalty shootout (association football)|p]])|'''[[K.R.C. Genk|Genk]]|BEL|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Maccabi Haifa v Genk|21]]|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Genk v Maccabi Haifa|12]] {{aet}}}}
+{{TwoLegResult|'''[[GNK Dinamo Zagreb|Dinamo Zagreb]]'''|CRO| 43 |[[Malm FF]]|SWE|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Dinamo Zagreb v Malm FF|41]]|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Malm FF v Dinamo Zagreb|02]]}}
+{{TwoLegResult|[[F.C. Copenhagen|Copenhagen]]|DEN| 25 |'''[[FC Viktoria Plze|Viktoria Plze]]|CZE|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Copenhagen v Viktoria Plze|13]]|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Viktoria Plze v Copenhagen|12]]}}
+{{TwoLegResult|'''[[FC BATE Borisov|BATE Borisov]]|BLR| 31 |[[SK Sturm Graz|Sturm Graz]]|AUT|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#BATE Borisov v Sturm Graz|11]]|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Sturm Graz v BATE Borisov|20]]}}
+|-
+!colspan="6"|Jalur Liga
+{{TwoLegResult|[[Odense Boldklub|Odense]]|DEN| 13 |'''[[Villarreal CF|Villarreal]]'''|ESP|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Odense v Villarreal|10]]|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Villarreal v Odense|03]]}}
+{{TwoLegResult|[[FC Twente|Twente]]|NED| 35 |'''[[S.L. Benfica|Benfica]]|POR|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Twente v Benfica|22]]|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Benfica v Twente|13]]}}
+{{TwoLegResult|'''[[Arsenal F.C.|Arsenal]]|ENG| 31 |[[Udinese Calcio|Udinese]]|ITA|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Arsenal v Udinese|10]]|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Udinese v Arsenal|21]]}}
+{{TwoLegResult|'''[[FC Bayern Munich|Bayern Munich]]'''|GER| 30 |[[FC Zrich|Zrich]]|SUI|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Bayern Munich v Zrich|20]]|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Zrich v Bayern Munich|10]]}}
+{{TwoLegResult|'''[[Olympique Lyonnais|Lyon]]'''|FRA| 42 |[[FC Rubin Kazan|Rubin Kazan]]|RUS|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Lyon v Rubin Kazan|31]]|[[Babak kualifikasi dan play off Liga Champions UEFA 201112#Rubin Kazan v Lyon|11]]}}
+|}
+
+==Babak grup==
+{{main|Babak grup Liga Champions UEFA 201112}}
+
+Babak grup diikuti oleh 32 klub, yang masing masing diurutkan berdasarkan koefisien klub tahun 2011 (selain juara bertahan , [[FC Barcelona|Barcelona]], yang secara otomatis menempati nomor 1),<ref name="trank"/><ref name="seed"/> untuk kemudian diundi menjadi delapan grup berisi empat klub tiap grup. Klub dari asosiasi yang sama tidak dimasukkan dalam satu grup. Pengundian dilakukan pada tanggal 25 Agustus 2011 di [[Monako]].<ref>{{cite web|url=http://www.uefa.com/uefachampionsleague/news/newsid=1667741.html|title=Barcelona get Milan in group stage draw|publisher=UEFA.com|date=25 August 2011}}</ref>
+
+Pada setiap grup, setiap klub melawan semua anggota grup secara kandang-tandang. Jadwal pertandingan adalah pada 1314 September, 2728 September, 1819 Oktober, 12 November, 2223 November, dan 67 Desember 2011. Juara dan runner-up grup lolos ke babak 16 besar, sedangkan peringkat tiga mengikuti [[Liga Eropa UEFA 201112|Liga Eropa UEFA]] pada [[Liga Eropa UEFA 201112#Babak gugur|babak 32 besar]].
+
+Dari 32 klub peserta babak grup ini ada sebelas klub yang pernah juara dan lima tim baru mengikuti untuk pertama kalinya yaitu [[Manchester City F.C.|Manchester City]], [[S.S.C. Napoli|Napoli]], [[Trabzonspor]], [[FC Viktoria Plze|Viktoria Plze]] dan [[FC Oelul Galai|Oelul Galai]].<ref>{{cite news|url = http://www.uefa.com/uefachampionsleague/news/newsid=1664395.html|title = Eleven former winners grace group stage draw|publisher = UEFA.com|date = 24 August 2011}}</ref>
+
+{| class="wikitable"
+|-
+! Keterangan warna pada tabel grup
+|-bgcolor="#ccffcc"
+| Juara dan runner up grup lolos ke [[Liga Champions UEFA 201112#Babak gugur|babak 16 besar]].
+|-bgcolor="#ccccff"
+| Peringkat tiga akan mengikuti [[Liga Eropa UEFA 201112|Liga Eropa UEFA]] pada [[Liga Eropa UEFA 201112#Babak gugur|babak 32 besar]]
+|}
+
+=== Grup A ===
+{|
+|-
+|
+{| class="wikitable" style="text-align: center;"
+|-
+!width="175"|Klub
+!width="20"|{{Tooltip| M | Main}}
+!width="20"|{{Tooltip| M | Menang}}
+!width="20"|{{Tooltip| S | Seri}}
+!width="20"|{{Tooltip| K | Kalah}}
+!width="20"|{{Tooltip| GM | Gol memasukkan}}
+!width="20"|{{Tooltip| GK | Gol kemasukan}}
+!width="20"|{{Tooltip| SG | Selisih gol}}
+!width="20"|{{Tooltip| Poin | Poin}}
+|-bgcolor="#ccffcc"
+|align=left|{{Flagicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|6||4||1||1||11||6||+5||'''13'''
+|-bgcolor="#ccffcc"
+|align=left|{{Flagicon|ITA}} [[S.S.C. Napoli|Napoli]]
+|6||3||2||1||10||6||+4||'''11'''
+|-bgcolor="#ccccff"
+|align=left|{{Flagicon|ENG}} [[Manchester City F.C.|Manchester City]]
+|6||3||1||2||9||6||+3||'''10'''
+|-
+|align=left|{{Flagicon|ESP}} [[Villarreal CF|Villarreal]]
+|6||0||0||6||2||14||&minus;12||'''0'''
+|}
+|valign="top"|
+{| class="wikitable" style="text-align:center"
+|-
+!width="150"|&nbsp;
+!width="50"|[[FC Bayern Munich|BM]]
+!width="50"|[[Manchester City F.C.|MC]]
+!width="50"|[[S.S.C. Napoli|NAP]]
+!width="50"|[[Villarreal CF|VIL]]
+|-
+!style="text-align:right"| [[FC Bayern Munich|Bayern Munich]]
+!|
+|title="Bayern Munich v Manchester City"|[[Babak grup Liga Champions UEFA 201112#Bayern Munich v Manchester City|20]]
+|title="Bayern Munich v Napoli"|[[Babak grup Liga Champions UEFA 201112#Bayern Munich v Napoli|32]]
+|title="Bayern Munich v Villarreal"|[[Babak grup Liga Champions UEFA 201112#Bayern Munich v Villarreal|31]]
+|-
+!style="text-align:right"| [[Manchester City F.C.|Manchester City]]
+|title="Manchester City v Bayern Munich"|[[Babak grup Liga Champions UEFA 201112#Manchester City v Bayern Munich|20]]
+!|
+|title="Manchester City v Napoli"|[[Babak grup Liga Champions UEFA 201112#Manchester City v Napoli|11]]
+|title="Manchester City v Villarreal"|[[Babak grup Liga Champions UEFA 201112#Manchester City v Villarreal|21]]
+|-
+!style="text-align:right"| [[S.S.C. Napoli|Napoli]]
+|title="Napoli v Bayern Munich"|[[Babak grup Liga Champions UEFA 201112#Napoli v Bayern Munich|11]]
+|title="Napoli v Manchester City"|[[Babak grup Liga Champions UEFA 201112#Napoli v Manchester City|21]]
+!|
+|title="Napoli v Villarreal"|[[Babak grup Liga Champions UEFA 201112#Napoli v Villarreal|20]]
+|-
+!style="text-align:right"| [[Villarreal CF|Villarreal]]
+|title="Villarreal v Bayern Munich"|[[Babak grup Liga Champions UEFA 201112#Villarreal v Bayern Munich|02]]
+|title="Villarreal v Manchester City"|[[Babak grup Liga Champions UEFA 201112#Villarreal v Manchester City|03]]
+|title="Villarreal v Napoli"|[[Babak grup Liga Champions UEFA 201112#Villarreal v Napoli|02]]
+!|
+|}
+|}
+
+===Grup B===
+{|
+|-
+|
+{| class="wikitable" style="text-align: center;"
+|-
+!width="175"|Klub
+!width="20"|{{Tooltip| M | Main}}
+!width="20"|{{Tooltip| M | Menang}}
+!width="20"|{{Tooltip| S | Seri}}
+!width="20"|{{Tooltip| K | Kalah}}
+!width="20"|{{Tooltip| GM | Gol memasukkan}}
+!width="20"|{{Tooltip| GK | Gol kemasukan}}
+!width="20"|{{Tooltip| SG | Selisih gol}}
+!width="20"|{{Tooltip| Poin | Poin}}
+|-bgcolor="#ccffcc"
+|align=left|{{flagicon|ITA}} [[F.C. Internazionale Milano|Internazionale]]
+|6||3||1||2||8||7||+1||'''10'''
+|-bgcolor="#ccffcc"
+|align=left|{{flagicon|RUS}} [[PFC CSKA Moscow|CSKA Moscow]]
+|6||2||2||2||9||8||+1||'''8'''
+|-bgcolor="#ccccff"
+|align=left|{{flagicon|TUR}} [[Trabzonspor]]
+|6||1||4||1||3||5||&minus;2||'''7'''
+|-
+|align=left|{{flagicon|FRA}} [[Lille OSC|Lille]]
+|6||1||3||2||6||6||0||'''6'''
+|}
+|valign="top"|
+{| class="wikitable" style="text-align:center"
+|-
+!width="150"|&nbsp;
+!width="50"|[[PFC CSKA Moscow|CM]]
+!width="50"|[[F.C. Internazionale Milano|INT]]
+!width="50"|[[Lille OSC|LIL]]
+!width="50"|[[Trabzonspor|TRA]]
+|-
+!style="text-align:right"| [[PFC CSKA Moscow|CSKA Moscow]]
+!|
+|title="CSKA Moscow v Internazionale"|[[Babak grup Liga Champions UEFA 201112#CSKA Moscow v Internazionale|23]]
+|title="CSKA Moscow v Lille"|[[Babak grup Liga Champions UEFA 201112#CSKA Moscow v Lille|02]]
+|title="CSKA Moscow v Trabzonspor"|[[Babak grup Liga Champions UEFA 201112#CSKA Moscow v Trabzonspor|30]]
+|-
+!style="text-align:right"| [[F.C. Internazionale Milano|Internazionale]]
+|title="Internazionale v CSKA Moscow"|[[Babak grup Liga Champions UEFA 201112#Internazionale v CSKA Moscow|12]]
+!|
+|title="Internazionale v Lille"|[[Babak grup Liga Champions UEFA 201112#Internazionale v Lille|21]]
+|title="Internazionale v Trabzonspor"|[[Babak grup Liga Champions UEFA 201112#Internazionale v Trabzonspor|01]]
+|-
+!style="text-align:right"| [[Lille OSC|Lille]]
+|title="Lille v CSKA Moscow"|[[Babak grup Liga Champions UEFA 201112#Lille v CSKA Moscow|22]]
+|title="Lille v Internazionale"|[[Babak grup Liga Champions UEFA 201112#Lille v Internazionale|01]]
+!|
+|title="Lille v Trabzonspor"|[[Babak grup Liga Champions UEFA 201112#Lille v Trabzonspor|00]]
+|-
+!style="text-align:right"| [[Trabzonspor]]
+|title="Trabzonspor v CSKA Moscow"|[[Babak grup Liga Champions UEFA 201112#Trabzonspor v CSKA Moscow|00]]
+|title="Trabzonspor v Internazionale"|[[Babak grup Liga Champions UEFA 201112#Trabzonspor v Internazionale|11]]
+|title="Trabzonspor v Lille"|[[Babak grup Liga Champions UEFA 201112#Trabzonspor v Lille|11]]
+!|
+|}
+|}
+
+===Grup C===
+{|
+|-
+|
+{| class="wikitable" style="text-align: center;"
+|-
+!width="175"|Klub
+!width="20"|{{Tooltip| M | Main}}
+!width="20"|{{Tooltip| M | Menang}}
+!width="20"|{{Tooltip| S | Seri}}
+!width="20"|{{Tooltip| K | Kalah}}
+!width="20"|{{Tooltip| GM | Gol memasukkan}}
+!width="20"|{{Tooltip| GK | Gol kemasukan}}
+!width="20"|{{Tooltip| SG | Selisih gol}}
+!width="20"|{{Tooltip| Poin | Poin}}
+|-bgcolor="#ccffcc"
+|align=left|{{flagicon|POR}} [[S.L. Benfica|Benfica]]
+|6||3||3||0||8||4||+4||'''12'''
+|-bgcolor="#ccffcc"
+|align=left|{{flagicon|SUI}} [[FC Basel|Basel]]
+|6||3||2||1||11||10||+1||'''11'''
+|-bgcolor="#ccccff"
+|align=left|{{flagicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|6||2||3||1||11||8||+3||'''9'''
+|-
+|align=left|{{flagicon|ROU}} [[FC Oelul Galai|Oelul Galai]]
+|6||0||0||6||3||11||&minus;8||'''0'''
+|}
+|valign="top"|
+{| class="wikitable" style="text-align:center"
+|-
+!width="150"|&nbsp;
+!width="50"|[[FC Basel|BAS]]
+!width="50"|[[S.L. Benfica|SLB]]
+!width="50"|[[Manchester United F.C.|MU]]
+!width="50"|[[FC Oelul Galai|OG]]
+|-
+!style="text-align:right"| [[FC Basel|Basel]]
+!|
+|title="Basel v Benfica"|[[Babak grup Liga Champions UEFA 201112#Basel v Benfica|02]]
+|title="Basel v Manchester United"|[[Babak grup Liga Champions UEFA 201112#Basel v Manchester United|21]]
+|title="Basel v Oelul Galai"|[[Babak grup Liga Champions UEFA 201112#Basel v Oelul Galai|21]]
+|-
+!style="text-align:right"| [[S.L. Benfica|Benfica]]
+|title="Benfica v Basel"|[[Babak grup Liga Champions UEFA 201112#Benfica v Basel|11]]
+!|
+|title="Benfica v Manchester United"|[[Babak grup Liga Champions UEFA 201112#Benfica v Manchester United|11]]
+|title="Benfica v Oelul Galai"|[[Babak grup Liga Champions UEFA 201112#Benfica v Oelul Galai|10]]
+|-
+!style="text-align:right"| [[Manchester United F.C.|Manchester United]]
+|title="Manchester United v Basel"|[[Babak grup Liga Champions UEFA 201112#Manchester United v Basel|33]]
+|title="Manchester United v Benfica"|[[Babak grup Liga Champions UEFA 201112#Manchester United v Benfica|22]]
+!|
+|title="Manchester United v Oelul Galai"|[[Babak grup Liga Champions UEFA 201112#Manchester United v Oelul Galai|20]]
+|-
+!style="text-align:right"| [[FC Oelul Galai|Oelul Galai]]
+|title="Oelul Galai v Basel"|[[Babak grup Liga Champions UEFA 201112#Oelul Galai v Basel|23]]
+|title="Oelul Galai v Benfica"|[[Babak grup Liga Champions UEFA 201112#Oelul Galai v Benfica|01]]
+|title="Oelul Galai v Manchester United"|[[Babak grup Liga Champions UEFA 201112#Oelul Galai v Manchester United|02]]
+!|
+|}
+|}
+
+===Grup D===
+{|
+|-
+|
+{| class="wikitable" style="text-align: center;"
+|-
+!width="175"|Klub
+!width="20"|{{Tooltip| M | Main}}
+!width="20"|{{Tooltip| M | Menang}}
+!width="20"|{{Tooltip| S | Seri}}
+!width="20"|{{Tooltip| K | Kalah}}
+!width="20"|{{Tooltip| GM | Gol memasukkan}}
+!width="20"|{{Tooltip| GK | Gol kemasukan}}
+!width="20"|{{Tooltip| SG | Selisih gol}}
+!width="20"|{{Tooltip| Poin | Poin}}
+|-bgcolor="#ccffcc"
+|align=left|{{flagicon|ESP}} [[Real Madrid C.F.|Real Madrid]]
+|6||6||0||0||19||2||+17||'''18'''
+|-bgcolor="#ccffcc"
+|align=left|{{flagicon|FRA}} [[Olympique Lyonnais|Lyon]]
+|6||2||2||2||9||7||+2||'''8'''
+|-bgcolor="#ccccff"
+|align=left|{{flagicon|NED}} [[AFC Ajax|Ajax]]
+|6||2||2||2||6||6||0||'''8'''
+|-
+|align=left|{{flagicon|CRO}} [[GNK Dinamo Zagreb|Dinamo Zagreb]]
+|6||0||0||6||3||22||&minus;19||'''0'''
+|}
+|valign="top"|
+{| class="wikitable" style="text-align:center"
+|-
+!width="150"|&nbsp;
+!width="50"|[[AFC Ajax|AJA]]
+!width="50"|[[GNK Dinamo Zagreb|DZ]]
+!width="50"|[[Olympique Lyonnais|OL]]
+!width="50"|[[Real Madrid C.F.|RM]]
+|-
+!style="text-align:right"| [[AFC Ajax|Ajax]]
+!|
+|title="Ajax v Dinamo Zagreb"|[[Babak grup Liga Champions UEFA 201112#Ajax v Dinamo Zagreb|40]]
+|title="Ajax v Lyon"|[[Babak grup Liga Champions UEFA 201112#Ajax v Lyon|00]]
+|title="Ajax v Real Madrid"|[[Babak grup Liga Champions UEFA 201112#Ajax v Real Madrid|03]]
+|-
+!style="text-align:right"| [[GNK Dinamo Zagreb|Dinamo Zagreb]]
+|title="Dinamo Zagreb v Ajax"|[[Babak grup Liga Champions UEFA 201112#Dinamo Zagreb v Ajax|02]]
+!|
+|title="Dinamo Zagreb v Lyon"|[[Babak grup Liga Champions UEFA 201112#Dinamo Zagreb v Lyon|17]]
+|title="Dinamo Zagreb v Real Madrid"|[[Babak grup Liga Champions UEFA 201112#Dinamo Zagreb v Real Madrid|01]]
+|-
+!style="text-align:right"| [[Olympique Lyonnais|Lyon]]
+|title="Lyon v Ajax"|[[Babak grup Liga Champions UEFA 201112#Lyon v Ajax|00]]
+|title="Lyon v Dinamo Zagreb"|[[Babak grup Liga Champions UEFA 201112#Lyon v Dinamo Zagreb|20]]
+!|
+|title="Lyon v Real Madrid"|[[Babak grup Liga Champions UEFA 201112#Lyon v Real Madrid|02]]
+|-
+!style="text-align:right"| [[Real Madrid C.F.|Real Madrid]]
+|title="Real Madrid v Ajax"|[[Babak grup Liga Champions UEFA 201112#Real Madrid v Ajax|30]]
+|title="Real Madrid v Dinamo Zagreb"|[[Babak grup Liga Champions UEFA 201112#Real Madrid v Dinamo Zagreb|62]]
+|title="Real Madrid v Lyon"|[[Babak grup Liga Champions UEFA 201112#Real Madrid v Lyon|40]]
+!|
+|}
+|}
+
+===Grup E===
+{|
+|-
+|
+{| class="wikitable" style="text-align: center;"
+|-
+!width="175"|Klub
+!width="20"|{{Tooltip| M | Main}}
+!width="20"|{{Tooltip| M | Menang}}
+!width="20"|{{Tooltip| S | Seri}}
+!width="20"|{{Tooltip| K | Kalah}}
+!width="20"|{{Tooltip| GM | Gol memasukkan}}
+!width="20"|{{Tooltip| GK | Gol kemasukan}}
+!width="20"|{{Tooltip| SG | Selisih gol}}
+!width="20"|{{Tooltip| Poin | Poin}}
+|-bgcolor="#ccffcc"
+|align=left|{{flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|6||3||2||1||13||4||+9||'''11'''
+|-bgcolor="#ccffcc"
+|align=left|{{flagicon|GER}} [[Bayer 04 Leverkusen|Bayer Leverkusen]]
+|6||3||1||2||8||8||0||'''10'''
+|-bgcolor="#ccccff"
+|align=left|{{flagicon|ESP}} [[Valencia CF|Valencia]]
+|6||2||2||2||12||7||+5||'''8'''
+|-
+|align=left|{{flagicon|BEL}} [[K.R.C. Genk|Genk]]
+|6||0||3||3||2||16||&minus;14||'''3'''
+|}
+|valign="top"|
+{| class="wikitable" style="text-align:center"
+|-
+!width="150"|&nbsp;
+!width="50"|[[Bayer 04 Leverkusen|BL]]
+!width="50"|[[Chelsea F.C.|CHL]]
+!width="50"|[[K.R.C. Genk|GNK]]
+!width="50"|[[Valencia CF|VAL]]
+|-
+!style="text-align:right"| [[Bayer 04 Leverkusen|Bayer Leverkusen]]
+!|
+|title="Bayer Leverkusen v Chelsea"|[[Babak grup Liga Champions UEFA 201112#Bayer Leverkusen v Chelsea|21]]
+|title="Bayer Leverkusen v Genk"|[[Babak grup Liga Champions UEFA 201112#Bayer Leverkusen v Genk|20]]
+|title="Bayer Leverkusen v Valencia"|[[Babak grup Liga Champions UEFA 201112#Bayer Leverkusen v Valencia|21]]
+|-
+!style="text-align:right"| [[Chelsea F.C.|Chelsea]]
+|title="Chelsea v Bayer Leverkusen"|[[Babak grup Liga Champions UEFA 201112#Chelsea v Bayer Leverkusen|20]]
+!|
+|title="Chelsea v Genk"|[[Babak grup Liga Champions UEFA 201112#Chelsea v Genk|50]]
+|title="Chelsea v Valencia"|[[Babak grup Liga Champions UEFA 201112#Chelsea v Valencia|30]]
+|-
+!style="text-align:right"| [[K.R.C. Genk|Genk]]
+|title="Genk v Bayer Leverkusen"|[[Babak grup Liga Champions UEFA 201112#Genk v Bayer Leverkusen|11]]
+|title="Genk v Chelsea"|[[Babak grup Liga Champions UEFA 201112#Genk v Chelsea|11]]
+!|
+|title="Genk v Valencia"|[[Babak grup Liga Champions UEFA 201112#Genk v Valencia|00]]
+|-
+!style="text-align:right"| [[Valencia CF|Valencia]]
+|title="Valencia v Bayer Leverkusen"|[[Babak grup Liga Champions UEFA 201112#Valencia v Bayer Leverkusen|31]]
+|title="Valencia v Chelsea"|[[Babak grup Liga Champions UEFA 201112#Valencia v Chelsea|11]]
+|title="Valencia v Genk"|[[Babak grup Liga Champions UEFA 201112#Valencia v Genk|70]]
+!|
+|}
+|}
+
+===Grup F===
+{|
+|-
+|
+{| class="wikitable" style="text-align: center;"
+|-
+!width="175"|Klub
+!width="20"|{{Tooltip| M | Main}}
+!width="20"|{{Tooltip| M | Menang}}
+!width="20"|{{Tooltip| S | Seri}}
+!width="20"|{{Tooltip| K | Kalah}}
+!width="20"|{{Tooltip| GM | Gol memasukkan}}
+!width="20"|{{Tooltip| GK | Gol kemasukan}}
+!width="20"|{{Tooltip| SG | Selisih gol}}
+!width="20"|{{Tooltip| Poin | Poin}}
+|-bgcolor="#ccffcc"
+|align=left|{{flagicon|ENG}} [[Arsenal F.C.|Arsenal]]
+|6||3||2||1||7||6||+1||'''11'''
+|-bgcolor="#ccffcc"
+|align=left|{{flagicon|FRA}} [[Olympique de Marseille|Marseille]]
+|6||3||1||2||7||4||+3||'''10'''
+|-bgcolor="#ccccff"
+|align=left|{{flagicon|GRE}} [[Olympiacos F.C.|Olympiacos]]
+|6||3||0||3||8||6||+2||'''9'''
+|-
+|align=left|{{flagicon|GER}} [[Borussia Dortmund]]
+|6||1||1||4||6||12||&minus;6||'''4'''
+|}
+|valign="top"|
+{| class="wikitable" style="text-align:center"
+|-
+!width="150"|&nbsp;
+!width="50"|[[Arsenal F.C.|ARS]]
+!width="50"|[[Borussia Dortmund|BD]]
+!width="50"|[[Olympique de Marseille|OM]]
+!width="50"|[[Olympiacos F.C.|OLY]]
+|-
+!style="text-align:right"| [[Arsenal F.C.|Arsenal]]
+!|
+|title="Arsenal v Borussia Dortmund"|[[Babak grup Liga Champions UEFA 201112#Arsenal v Borussia Dortmund|21]]
+|title="Arsenal v Marseille"|[[Babak grup Liga Champions UEFA 201112#Arsenal v Marseille|00]]
+|title="Arsenal v Olympiacos"|[[Babak grup Liga Champions UEFA 201112#Arsenal v Olympiacos|21]]
+|-
+!style="text-align:right"| [[Borussia Dortmund]]
+|title="Borussia Dortmund v Arsenal"|[[Babak grup Liga Champions UEFA 201112#Borussia Dortmund v Arsenal|11]]
+!|
+|title="Borussia Dortmund v Marseille"|[[Babak grup Liga Champions UEFA 201112#Borussia Dortmund v Marseille|23]]
+|title="Borussia Dortmund v Olympiacos"|[[Babak grup Liga Champions UEFA 201112#Borussia Dortmund v Olympiacos|10]]
+|-
+!style="text-align:right"| [[Olympique de Marseille|Marseille]]
+|title="Marseille v Arsenal"|[[Babak grup Liga Champions UEFA 201112#Marseille v Arsenal|01]]
+|title="Marseille v Borussia Dortmund"|[[Babak grup Liga Champions UEFA 201112#Marseille v Borussia Dortmund|30]]
+!|
+|title="Marseille v Olympiacos"|[[Babak grup Liga Champions UEFA 201112#Marseille v Olympiacos|01]]
+|-
+!style="text-align:right"| [[Olympiacos F.C.|Olympiacos]]
+|title="Olympiacos v Arsenal"|[[Babak grup Liga Champions UEFA 201112#Olympiacos v Arsenal|31]]
+|title="Olympiacos v Borussia Dortmund"|[[Babak grup Liga Champions UEFA 201112#Olympiacos v Borussia Dortmund|31]]
+|title="Olympiacos v Marseille"|[[Babak grup Liga Champions UEFA 201112#Olympiacos v Marseille|01]]
+!|
+|}
+|}
+
+===Grup G===
+{|
+|-
+|
+{| class="wikitable" style="text-align: center;"
+|-
+!width="175"|Klub
+!width="20"|{{Tooltip| M | Main}}
+!width="20"|{{Tooltip| M | Menang}}
+!width="20"|{{Tooltip| S | Seri}}
+!width="20"|{{Tooltip| K | Kalah}}
+!width="20"|{{Tooltip| GM | Gol memasukkan}}
+!width="20"|{{Tooltip| GK | Gol kemasukan}}
+!width="20"|{{Tooltip| SG | Selisih gol}}
+!width="20"|{{Tooltip| Poin | Poin}}
+|-bgcolor=#ccffcc
+|align=left|{{flagicon|CYP}} [[APOEL F.C.|APOEL]]
+|6||2||3||1||6||6||0||'''9'''
+|-bgcolor=#ccffcc
+|align=left|{{flagicon|RUS}} [[FC Zenit Saint Petersburg|Zenit St. Petersburg]]
+|6||2||3||1||7||5||+2||'''9'''
+|-bgcolor="#ccccff"
+|align=left|{{flagicon|POR}} [[F.C. Porto|Porto]]
+|6||2||2||2||7||7||0||'''8'''
+|-
+|align=left|{{flagicon|UKR}} [[FC Shakhtar Donetsk|Shakhtar Donetsk]]
+|6||1||2||3||6||8||&minus;2||'''5'''
+|}
+|valign="top"|
+{| class="wikitable" style="text-align:center"
+|-
+!width="150"|&nbsp;
+!width="50"|[[APOEL F.C.|APO]]
+!width="50"|[[F.C. Porto|POR]]
+!width="50"|[[FC Shakhtar Donetsk|SD]]
+!width="50"|[[FC Zenit Saint Petersburg|ZSP]]
+|-
+!style="text-align:right"| [[APOEL F.C.|APOEL]]
+!|
+|title="APOEL v Porto"|[[Babak grup Liga Champions UEFA 201112#APOEL v Porto|21]]
+|title="APOEL v Shakhtar Donetsk"|[[Babak grup Liga Champions UEFA 201112#APOEL v Shakhtar Donetsk|02]]
+|title="APOEL v Zenit St. Petersburg"|[[Babak grup Liga Champions UEFA 201112#APOEL v Zenit St. Petersburg|21]]
+|-
+!style="text-align:right"| [[F.C. Porto|Porto]]
+|title="Porto v APOEL"|[[Babak grup Liga Champions UEFA 201112#Porto v APOEL|11]]
+!|
+|title="Porto v Shakhtar Donetsk"|[[Babak grup Liga Champions UEFA 201112#Porto v Shakhtar Donetsk|21]]
+|title="Porto v Zenit St. Petersburg"|[[Babak grup Liga Champions UEFA 201112#Porto v Zenit St. Petersburg|00]]
+|-
+!style="text-align:right"| [[FC Shakhtar Donetsk|Shakhtar Donetsk]]
+|title="Shakhtar Donetsk v APOEL"|[[Babak grup Liga Champions UEFA 201112#Shakhtar Donetsk v APOEL|11]]
+|title="Shakhtar Donetsk v Porto"|[[Babak grup Liga Champions UEFA 201112#Shakhtar Donetsk v Porto|02]]
+!|
+|title="Shakhtar Donetsk v Zenit St. Petersburg"|[[Babak grup Liga Champions UEFA 201112#Shakhtar Donetsk v Zenit St. Petersburg|22]]
+|-
+!style="text-align:right"| [[FC Zenit Saint Petersburg|Zenit St. Petersburg]]
+|title="Zenit St. Petersburg v APOEL"|[[Babak grup Liga Champions UEFA 201112#Zenit St. Petersburg v APOEL|00]]
+|title="Zenit St. Petersburg v Porto"|[[Babak grup Liga Champions UEFA 201112#Zenit St. Petersburg v Porto|31]]
+|title="Zenit St. Petersburg v Shakhtar Donetsk"|[[Babak grup Liga Champions UEFA 201112#Zenit St. Petersburg v Shakhtar Donetsk|10]]
+!|
+|}
+|}
+
+===Grup H===
+{|
+|-
+|
+{| class="wikitable" style="text-align: center;"
+|-
+!width="175"|Klub
+!width="20"|{{Tooltip| M | Main}}
+!width="20"|{{Tooltip| M | Menang}}
+!width="20"|{{Tooltip| S | Seri}}
+!width="20"|{{Tooltip| K | Kalah}}
+!width="20"|{{Tooltip| GM | Gol memasukkan}}
+!width="20"|{{Tooltip| GK | Gol kemasukan}}
+!width="20"|{{Tooltip| SG | Selisih gol}}
+!width="20"|{{Tooltip| Poin | Poin}}
+|-bgcolor="#ccffcc"
+|align=left|{{flagicon|ESP}}  [[FC Barcelona|Barcelona]]
+|6||5||1||0||20||4||+16||'''16'''
+|-bgcolor="#ccffcc"
+|align=left|{{flagicon|ITA}} [[A.C. Milan|Milan]]
+|6||2||3||1||11||8||+3||'''9'''
+|-bgcolor="#ccccff"
+|align=left|{{flagicon|CZE}} [[FC Viktoria Plze|Viktoria Plze]]
+|6||1||2||3||4||11||&minus;7||'''5'''
+|-
+|align=left|{{flagicon|BLR}} [[FC BATE Borisov|BATE Borisov]]
+|6||0||2||4||2||14||&minus;12||'''2'''
+|}
+|valign="top"|
+{| class="wikitable" style="text-align:center"
+|-
+!width="150"|&nbsp;
+!width="50"|[[FC Barcelona|BAR]]
+!width="50"|[[FC BATE Borisov|BAT]]
+!width="50"|[[A.C. Milan|MIL]]
+!width="50"|[[FC Viktoria Plze|VP]]
+|-
+!style="text-align:right"| [[FC Barcelona|Barcelona]]
+!|
+|title="Barcelona v BATE Borisov"|[[Babak grup Liga Champions UEFA 201112#Barcelona v BATE Borisov|40]]
+|title="Barcelona v Milan"|[[Babak grup Liga Champions UEFA 201112#Barcelona v Milan|22]]
+|title="Barcelona v Viktoria Plze"|[[Babak grup Liga Champions UEFA 201112#Barcelona v Viktoria Plze|20]]
+|-
+!style="text-align:right"| [[FC BATE Borisov|BATE Borisov]]
+|title="BATE Borisov v Barcelona"|[[Babak grup Liga Champions UEFA 201112#BATE Borisov v Barcelona|05]]
+!|
+|title="BATE Borisov v Milan"|[[Babak grup Liga Champions UEFA 201112#BATE Borisov v Milan|11]]
+|title="BATE Borisov v Viktoria Plze"|[[Babak grup Liga Champions UEFA 201112#BATE Borisov v Viktoria Plze|01]]
+|-
+!style="text-align:right"| [[A.C. Milan|Milan]]
+|title="Milan v Barcelona"|[[Babak grup Liga Champions UEFA 201112#Milan v Barcelona|23]]
+|title="Milan v BATE Borisov"|[[Babak grup Liga Champions UEFA 201112#Milan v BATE Borisov|20]]
+!|
+|title="Milan v Viktoria Plze"|[[Babak grup Liga Champions UEFA 201112#Milan v Viktoria Plze|20]]
+|-
+!style="text-align:right"| [[FC Viktoria Plze|Viktoria Plze]]
+|title="Viktoria Plze v Barcelona"|[[Babak grup Liga Champions UEFA 201112#Viktoria Plze v Barcelona|04]]
+|title="Viktoria Plze v BATE Borisov"|[[Babak grup Liga Champions UEFA 201112#Viktoria Plze v BATE Borisov|11]]
+|title="Viktoria Plze v Milan"|[[Babak grup Liga Champions UEFA 201112#Viktoria Plze v Milan|22]]
+!|
+|}
+|}
+
+==Babak gugur==
+{{main|Babak gugur Liga Champions UEFA 201112}}
+Pada babak gugur ini, masing-masing klub bermain secara kandang dan tandang, kecuali partai final yang dimainkan di tempat netral. Pengundian babak 16 besar dilakukan pada 16 Desember 2011.<ref>{{cite web|url=http://www.uefa.com/uefachampionsleague/news/newsid=1734599.html|title=Barcelona handed Leverkusen tie|publisher=UEFA.com|date=16 December 2011}}</ref> Pengundian untuk babak perempatfinal, semifinal dan final (untuk menentukan tim "tuan rumah") dilakukan pada 16 Maret 2012.<ref>{{cite web|url=http://www.uefa.com/uefachampionsleague/news/newsid=1770131.html|title=Milan-Bara takes top billing in quarter-final draw|publisher=UEFA.com|date=16 March 2011}}</ref> Kedua proses pengundian dipimpin oleh pemain sepak bola asal Jerman, [[Paul Breitner]], yang ditunjuk UEFA sebagai duta final liga champions 2012.
+
+Pada pengundian babak 16 besar, delapan klub masuk sebagai unggulan sisanya non-unggulan. Klub unggulan diundi menghadapi klub non-unggulan, dimana klub unggulan menjadi tuan rumah pada pertandingan kedua. Klub dari grup yang sama maupun dari asosiasi yang sama tidak dipertemukan satu sama lain. Untuk pengundian babak perempatfinal dan seterusnya pembatasan tersebut tidak dilakukan.
+
+===Perjalanan ke final===
+{{CLBracket 
+| RD1=Babak 16 besar
+| RD2=Perempat final
+| RD3=Semifinal
+| RD4=Final
+| RD1-team01='''{{flagicon|FRA}} [[Olympique de Marseille|Marseille]]''' {{away}}
+| RD1-score01-1=1
+| RD1-score01-2=1
+| RD1-score01-agg=2
+| RD1-team02={{flagicon|ITA}} [[F.C. Internazionale Milano|Internazionale]]
+| RD1-score02-1=0
+| RD1-score02-2=2
+| RD1-score02-agg=2
+
+| RD1-team03={{flagicon|SUI}} [[FC Basel|Basel]]
+| RD1-score03-1=1
+| RD1-score03-2=0
+| RD1-score03-agg=1
+| RD1-team04='''{{flagicon|GER}} [[FC Bayern Munich|Bayern Munich]]'''
+| RD1-score04-1=0
+| RD1-score04-2=7
+| RD1-score04-agg=7
+
+| RD1-team05={{flagicon|FRA}} [[Olympique Lyonnais|Lyon]]
+| RD1-score05-1=1
+| RD1-score05-2=0
+| RD1-score05-agg=1(3)
+| RD1-team06='''{{flagicon|CYP}} [[APOEL F.C.|APOEL]]''' {{penalti}}
+| RD1-score06-1=0
+| RD1-score06-2=1
+| RD1-score06-agg=1(4)
+
+| RD1-team07={{flagicon|RUS}} [[PFC CSKA Moscow|CSKA Moscow]]
+| RD1-score07-1=1
+| RD1-score07-2=1
+| RD1-score07-agg=2
+| RD1-team08='''{{flagicon|ESP}} [[Real Madrid C.F.|Real Madrid]]'''
+| RD1-score08-1=1
+| RD1-score08-2=4
+| RD1-score08-agg=5
+
+| RD1-team09={{nowrap|{{flagicon|RUS}} [[FC Zenit Saint Petersburg|Zenit St. Petersburg]]}}
+| RD1-score09-1=3
+| RD1-score09-2=0
+| RD1-score09-agg=3
+| RD1-team10='''{{flagicon|POR}} [[S.L. Benfica|Benfica]]'''
+| RD1-score10-1=2
+| RD1-score10-2=2
+| RD1-score10-agg=4
+
+| RD1-team11={{flagicon|ITA}} [[S.S.C. Napoli|Napoli]]
+| RD1-score11-1=3
+| RD1-score11-2=1
+| RD1-score11-agg=4
+| RD1-team12='''{{flagicon|ENG}} [[Chelsea F.C.|Chelsea]]''' {{aet}}
+| RD1-score12-1=1
+| RD1-score12-2=4
+| RD1-score12-agg=5
+
+| RD1-team13='''{{flagicon|ITA}} [[A.C. Milan|Milan]]'''
+| RD1-score13-1=4
+| RD1-score13-2=0
+| RD1-score13-agg=4
+| RD1-team14={{flagicon|ENG}} [[Arsenal F.C.|Arsenal]]
+| RD1-score14-1=0
+| RD1-score14-2=3
+| RD1-score14-agg=3
+
+| RD1-team15={{flagicon|GER}} [[Bayer 04 Leverkusen|Bayer Leverkusen]]
+| RD1-score15-1=1
+| RD1-score15-2=1
+| RD1-score15-agg=2
+| RD1-team16='''{{flagicon|ESP}} [[FC Barcelona|Barcelona]]'''
+| RD1-score16-1=3
+| RD1-score16-2=7
+| RD1-score16-agg=10
+
+| RD2-team01={{flagicon|FRA}} [[Olympique de Marseille|Marseille]]|
+| RD2-score01-1=0
+| RD2-score01-2=0
+| RD2-score01-agg=0
+| RD2-team02='''{{flagicon|GER}} [[FC Bayern Munich|Bayern Munich]]'''
+| RD2-score02-1=2
+| RD2-score02-2=2
+| RD2-score02-agg=4
+
+| RD2-team03={{flagicon|CYP}} [[APOEL F.C.|APOEL]]
+| RD2-score03-1=0
+| RD2-score03-2=2
+| RD2-score03-agg=2
+| RD2-team04='''{{flagicon|ESP}} [[Real Madrid C.F.|Real Madrid]]'''
+| RD2-score04-1=3
+| RD2-score04-2=5
+| RD2-score04-agg=8
+
+| RD2-team05={{flagicon|POR}} [[S.L. Benfica|Benfica]]
+| RD2-score05-1=0
+| RD2-score05-2=1
+| RD2-score05-agg=1
+| RD2-team06='''{{flagicon|ENG}} [[Chelsea F.C.|Chelsea]]'''
+| RD2-score06-1=1
+| RD2-score06-2=2
+| RD2-score06-agg=3
+
+| RD2-team07={{flagicon|ITA}} [[A.C. Milan|Milan]]
+| RD2-score07-1=0
+| RD2-score07-2=1
+| RD2-score07-agg=1
+| RD2-team08='''{{flagicon|ESP}} [[FC Barcelona|Barcelona]]'''
+| RD2-score08-1=0
+| RD2-score08-2=3
+| RD2-score08-agg=3
+
+| RD3-team01='''{{flagicon|GER}} [[FC Bayern Munich|Bayern Munich]]''' {{penalti}}
+| RD3-score01-1=2
+| RD3-score01-2=1
+| RD3-score01-agg=3(3)
+| RD3-team02={{flagicon|ESP}} [[Real Madrid C.F.|Real Madrid]]
+| RD3-score02-1=1
+| RD3-score02-2=2
+| RD3-score02-agg=3(1)
+
+| RD3-team03='''{{flagicon|ENG}} [[Chelsea F.C.|Chelsea]]'''
+| RD3-score03-1=1
+| RD3-score03-2=2
+| RD3-score03-agg=3
+| RD3-team04={{flagicon|ESP}} [[FC Barcelona|Barcelona]]
+| RD3-score04-1=0
+| RD3-score04-2=2
+| RD3-score04-agg=2
+
+| RD4-team01={{flagicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+| RD4-score01=1(3)
+| RD4-team02='''{{flagicon|ENG}} [[Chelsea F.C.|Chelsea]]''' {{penalti}}
+| RD4-score02=1(4)
+}}
+
+===Babak 16 besar=== 
+Pertandingan pertama dilaksanakan pada tanggal 14, 15, 21 dan 22 Februari, dan pertandingan kedua dilaksankan pada 6, 7, 13 dan 14 Maret 2012.
+
+{{TwoLeg start}}
+{{TwoLegResult|[[Olympique Lyonnais|Lyon]]|FRA|11 <br>(34){{penalti}}|'''[[APOEL F.C.|APOEL]]'''|CYP|[[Babak gugur Liga Champions UEFA 201112#Lyon v APOEL|10]]|[[Babak gugur Liga Champions UEFA 201112#APOEL v Lyon|01]] {{aet}}}}
+{{TwoLegResult|[[S.S.C. Napoli|Napoli]]|ITA|45|'''[[Chelsea F.C.|Chelsea]]'''|ENG|[[Babak gugur Liga Champions UEFA 201112#Napoli v Chelsea|31]]|[[Babak gugur Liga Champions UEFA 201112#Chelsea v Napoli|14]] {{aet}}}}
+{{TwoLegResult|'''[[A.C. Milan|Milan]]'''|ITA|43|[[Arsenal F.C.|Arsenal]]|ENG|[[Babak gugur Liga Champions UEFA 201112#Milan v Arsenal|40]]|[[Babak gugur Liga Champions UEFA 201112#Arsenal v Milan|03]]}}
+{{TwoLegResult|[[FC Basel|Basel]]|SUI|17|'''[[FC Bayern Munich|Bayern Munich]]'''|GER|[[Babak gugur Liga Champions UEFA 201112#Basel v Bayern Munich|10]]|[[Babak gugur Liga Champions UEFA 201112#Bayern Munich v Basel|07]]}}
+{{TwoLegResult|[[Bayer 04 Leverkusen|Bayer Leverkusen]]|GER|210|'''[[FC Barcelona|Barcelona]]'''|ESP|[[Babak gugur Liga Champions UEFA 201112#Bayer Leverkusen v Barcelona|13]]|[[Babak gugur Liga Champions UEFA 201112#Barcelona v Bayer Leverkusen|17]]}}
+{{TwoLegResult|[[PFC CSKA Moscow|CSKA Moscow]]|RUS|25|'''[[Real Madrid C.F.|Real Madrid]]'''|ESP|[[Babak gugur Liga Champions UEFA 201112#CSKA Moscow v Real Madrid|11]]|[[Babak gugur Liga Champions UEFA 201112#Real Madrid v CSKA Moscow|14]]}}
+{{TwoLegResult|[[FC Zenit Saint Petersburg|Zenit St. Petersburg]]|RUS|34|'''[[S.L. Benfica|Benfica]]'''|POR|[[Babak gugur Liga Champions UEFA 201112#Zenit St. Petersburg v Benfica|32]]|[[Babak gugur Liga Champions UEFA 201112#Benfica v Zenit St. Petersburg|02]]}}
+{{TwoLegResult|'''[[Olympique de Marseille|Marseille]]'''|FRA|22 {{away}}|[[F.C. Internazionale Milano|Internazionale]]|ITA|[[Babak gugur Liga Champions UEFA 201112#Marseille v Internazionale|10]]|[[Babak gugur Liga Champions UEFA 201112#Internazionale v Marseille|12]]}}
+|}
+
+===Perempat final===
+Pertandingan pertama dilaksanakan pada 27 dan 28 Maret, sedangkan yang kedua pada 3 dan 4 April 2012.
+
+{{TwoLeg start}}
+{{TwoLegResult|[[APOEL F.C.|APOEL]]|CYP|28|'''[[Real Madrid C.F.|Real Madrid]]'''|ESP|[[Babak gugur Liga Champions UEFA 201112#APOEL v Real Madrid|03]]|[[Babak gugur Liga Champions UEFA 201112#Real Madrid v APOEL|25]]}}
+{{TwoLegResult|[[Olympique de Marseille|Marseille]]|FRA|04|'''[[FC Bayern Munich|Bayern Munich]]'''|GER|[[Babak gugur Liga Champions UEFA 201112#Marseille v Bayern Munich|02]]|[[Babak gugur Liga Champions UEFA 201112#Bayern Munich v Marseille|02]]}}
+{{TwoLegResult|[[S.L. Benfica|Benfica]]|POR|13|'''[[Chelsea F.C.|Chelsea]]'''|ENG|[[Babak gugur Liga Champions UEFA 201112#Benfica v Chelsea|01]]|[[Babak gugur Liga Champions UEFA 201112#Chelsea v Benfica|12]]}}
+{{TwoLegResult|[[A.C. Milan|Milan]]|ITA|13|'''[[FC Barcelona|Barcelona]]'''|ESP|[[Babak gugur Liga Champions UEFA 201112#Milan v Barcelona|00]]|[[Babak gugur Liga Champions UEFA 201112#Barcelona v Milan|13]]}}
+|}
+
+===Semifinal===
+Pertadingan pertama dilaksanakan pada 17 dan 18 April sedangkan yang kedua dilakukan pada 24 dan 25 April 2012.
+
+{{TwoLeg start}}
+{{TwoLegResult|'''[[FC Bayern Munich|Bayern Munich]]'''|GER|33 <br>(31){{penalti}}|[[Real Madrid C.F.|Real Madrid]]|ESP|[[Babak gugur Liga Champions UEFA 201112#Bayern Munich v Real Madrid|21]]|[[Babak gugur Liga Champions UEFA 201112#Real Madrid v Bayern Munich|12]] {{aet}}}}
+{{TwoLegResult|'''[[Chelsea F.C.|Chelsea]]'''|ENG|32|[[FC Barcelona|Barcelona]]|ESP|[[Babak gugur Liga Champions UEFA 201112#Chelsea v Barcelona|10]]|[[Babak gugur Liga Champions UEFA 201112#Barcelona v Chelsea|22]]}}
+|}
+
+===Final===
+{{main|Final Liga Champions UEFA 2012}}
+
+Final dilaksanakan pada tanggal 19 Mei 2012 di [[Allianz Arena]], [[Munich]], [[Jerman]].
+
+{{footballbox
+|date=19 Mei 2012
+|time=20.45 [[Central European Summer Time|CEST]]
+|team1=[[FC Bayern Munich|Bayern Munich]] {{flagicon|GER}}
+|score=11
+|aet=yes
+|report=[http://www.uefa.com/uefachampionsleague/season=2012/matches/round=2000267/match=2007693/postmatch/report/index.html (Laporan)]
+|team2={{flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1=[[Thomas Mller|Mller]] {{goal|83}}
+|goals2=[[Didier Drogba|Drogba]] {{goal|88}}
+|stadium=[[Allianz Arena]], [[Munich]]
+|attendance=62.500
+|referee=[[Pedro Proena]] ({{asb|Portugal||Federasi}})
+|penalties1=[[Philipp Lahm|Lahm]] {{pengoal}}<br />[[Mario Gmez|Gmez]] {{pengoal}}<br />[[Manuel Neuer|Neuer]] {{pengoal}}<br />[[Ivica Oli|Oli]] {{penmiss|ditahan kiper}}<br />[[Bastian Schweinsteiger|Schweinsteiger]] {{penmiss|terkena tiang}}
+|penaltyscore=3  4
+|penalties2={{penmiss|ditahan kiper}} [[Juan Mata|Mata]]<br />{{pengoal}} [[David Luiz|Luiz]]<br />{{pengoal}} [[Frank Lampard|Lampard]]<br />{{pengoal}} [[Ashley Cole|Cole]]<br />{{pengoal}} [[Didier Drogba|Drogba]]
+}}
+
+==Statistik==
+Pencetak gol terbanyak dan pengumpan terbanyak (setelah babak kualifikasi dan play off):
+{{col-start}}
+{{col-2}}
+
+===Pencetak gol terbanyak===
+<!--The source for the statistics is
+http://www.uefa.com/uefachampionsleague/season=2012/statistics/round=2000263/players/type=topscorers/index.html
+The source has been updated to matches played 14 March 2012
+-->
+{| class="wikitable" style="text-align:center"
+|-
+!No
+!Nama<ref>{{cite web |url=http://www.uefa.com/uefachampionsleague/season=2012/statistics/round=2000263/players/type=topscorers/index.html |title=Statistics  Tournament phase  Goals scored |publisher=[[UEFA]] |work=UEFA.com |accessdate=28 September 2011 }}</ref>
+!Klub
+!Gol
+!Menit bermain
+|-
+|align=center|1
+|align="left"|{{flagicon|ARG}} [[Lionel Messi]]
+|align="left"|{{flagicon|ESP}} [[FC Barcelona|Barcelona]]
+|14
+|990'
+|-
+|align=center|2
+|align="left"|{{flagicon|GER}} [[Mario Gmez]]
+|align="left"|{{flagicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|12
+|1003'
+|-
+|align=center|3
+|align="left"|{{flagicon|POR}} [[Cristiano Ronaldo]]
+|align="left"|{{flagicon|ESP}} [[Real Madrid C.F.|Real Madrid]]
+|10
+|930'
+|-
+|align=center|4
+|align="left"|{{flagicon|FRA}} [[Karim Benzema]]
+|align="left"|{{flagicon|ESP}} [[Real Madrid C.F.|Real Madrid]]
+|7
+|760'
+|-
+|align=center|5
+|align="left"|{{flagicon|CIV}} [[Didier Drogba]]
+|align="left"|{{flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|6
+|670'
+|-
+|rowspan="8" align=center|6
+|align="left"|{{flagicon|ESP}} [[Jos Mara Callejn|Jos Callejn]]
+|align="left"|{{flagicon|ESP}} [[Real Madrid C.F.|Real Madrid]]
+|5
+|307'
+|-
+|align="left"|{{flagicon|ESP}} [[Roberto Soldado]]
+|align="left"|{{flagicon|ESP}} [[Valencia CF|Valencia]]
+|5
+|515'
+|-
+|align="left"|{{flagicon|FRA}} [[Baftimbi Gomis]]
+|align="left"|{{flagicon|FRA}} [[Olympique Lyonnais|Lyon]]
+|5
+|530'
+|-
+|align="left"|{{flagicon|SWI}} [[Alexander Frei]]
+|align="left"|{{flagicon|SWI}} [[FC Basel|Basel]]
+|5
+|611'
+|-
+|align="left"|{{flagicon|CIV}} [[Seydou Doumbia]]
+|align="left"|{{flagicon|RUS}} [[PFC CSKA Moscow|CSKA Moscow]]
+|5
+|611'
+|-
+|align="left"|{{flagicon|RUS}} [[Roman Shirokov]]
+|align="left"|{{flagicon|RUS}} [[FC Zenit Saint Petersburg|Zenit St. Petersburg]]
+|5
+|658'
+|-
+|align="left"|{{flagicon|URU}} [[Edinson Cavani]]
+|align="left"|{{flagicon|ITA}} [[S.S.C. Napoli|Napoli]]
+|5
+|701'
+|-
+|align="left"|{{flagicon|SWE}} [[Zlatan Ibrahimovi]]
+|align="left"|{{flagicon|ITA}} [[A.C. Milan|Milan]]
+|5
+|720'
+|-
+|rowspan="7" align=center|14
+|align="left"|{{flagicon|NED}} [[Robin van Persie]]
+|align="left"|{{flagicon|ENG}} [[Arsenal F.C.|Arsenal]]
+|4
+|493'
+|-
+|align="left"|{{flagicon|ESP}} [[Pedro Rodrguez Ledesma|Pedro Rodrguez]]
+|align="left"|{{flagicon|ESP}} [[FC Barcelona|Barcelona]]
+|4
+|497'
+|-
+|align="left"|{{flagicon|BRA}} [[Hulk (footballer)|Hulk]]
+|align="left"|{{flagicon|POR}} [[F.C. Porto|Porto]]
+|4
+|528'
+|-
+|align="left"|{{flagicon|BRA}} [[Gustavo Manduca]]
+|align="left"|{{flagicon|CYP}} [[APOEL F.C.|APOEL]]
+|4
+|607'
+|-
+|align="left"|{{flagicon|PAR}} [[scar Cardozo]]
+|align="left"|{{flagicon|POR}} [[S.L. Benfica|Benfica]]
+|4
+|612'
+|-
+|align="left"|{{flagicon|NED}} [[Arjen Robben]]
+|align="left"|{{flagicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|4
+|669'
+|-
+|align="left"|{{flagicon|GHA}} [[Andr Ayew]]
+|align="left"|{{flagicon|FRA}} [[Olympique de Marseille|Marseille]]
+|4
+|809'
+|}
+{{col-2}}
+
+===Pengumpan terbanyak===
+{| class="wikitable" style="text-align:center"
+|-
+!No
+!Nama<ref>{{cite web |url=http://www.uefa.com/uefachampionsleague/season=2012/statistics/round=2000263/players/type=Assists/index.html |title=Statistics  Tournament phase  Assists |publisher=[[UEFA]] |work=UEFA.com |accessdate=15 March 2012 }}</ref>
+!Klub
+!Umpan
+!Menit bermain
+|-
+|rowspan="5" align=center|1
+|align="left"|{{flagicon|BRA}} [[Kak]]
+|align="left"|{{flagicon|ESP}} [[Real Madrid C.F.|Real Madrid]]
+|align=center|5||align=center|441'
+|-
+|align="left"|{{flagicon|FRA}} [[Karim Benzema]]
+|align="left"|{{flagicon|ESP}} [[Real Madrid C.F.|Real Madrid]]
+|align=center|5||align=center|761'
+|-
+|align="left"|{{flagicon|ARG}} [[Nicols Gaitn]]
+|align="left"|{{flagicon|POR}} [[S.L. Benfica|Benfica]]
+|align=center|5||align=center|810'
+|-
+|align="left"|{{flagicon|ARG}} [[Lionel Messi]]
+|align="left"|{{flagicon|ESP}} [[FC Barcelona|Barcelona]]
+|align=center|5||align=center|990'
+|-
+|align="left"|{{flagicon|FRA}} [[Franck Ribry]]
+|align="left"|{{flagicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|align=center|5||align=center|1030'
+|-
+|rowspan="4" align=center|6
+|align="left"|{{flagicon|ESP}} [[Isaac Cuenca]]
+|align="left"|{{flagicon|ESP}} [[FC Barcelona|Barcelona]]
+|align=center|4||align=center|347'
+|-
+|align="left"|{{flagicon|BRA}} [[Marcelo Vieira|Marcelo]]
+|align="left"|{{flagicon|ESP}} [[Real Madrid C.F.|Real Madrid]]
+|align=center|4||align=center|539'
+|-
+|align="left"|{{flagicon|ESP}} [[Fernando Torres]]
+|align="left"|{{flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|align=center|4||align=center|635'
+|-
+|align="left"|{{flagicon|SWE}} [[Zlatan Ibrahimovi]]
+|align="left"|{{flagicon|ITA}} [[A.C. Milan|Milan]]
+|align=center|4||align=center|720'
+|-
+|rowspan="11" align=center|10
+|align="left"|{{flagicon|BRA}} [[Vgner Love]]
+|align="left"|{{flagicon|RUS}} [[PFC CSKA Moscow|CSKA Moscow]]
+|align=center|3||align=center|540'
+|-
+|align="left"|{{flagicon|FRA}} [[Aly Cissokho]]
+|align="left"|{{flagicon|FRA}} [[Olympique Lyonnais|Lyon]]
+|align=center|3||align=center|660'
+|-
+|align="left"|{{flagicon|ESP}} [[Cesc Fbregas]]
+|align="left"|{{flagicon|ESP}} [[FC Barcelona|Barcelona]]
+|align=center|3||align=center|661'
+|-
+|align="left"|{{flagicon|ARG}} [[Ezequiel Lavezzi]]
+|align="left"|{{flagicon|ITA}} [[S.S.C. Napoli|Napoli]]
+|align=center|3||align=center|700'
+|-
+|align="left"|{{flagicon|CYP}} [[Constantinos Charalambidis]]
+|align="left"|{{flagicon|CYP}} [[APOEL F.C.|APOEL]]
+|align=center|3||align=center|769'
+|-
+|align="left"|{{flagicon|GER}} [[Mesut zil]]
+|align="left"|{{flagicon|ESP}} [[Real Madrid C.F.|Real Madrid]]
+|align=cener|3||align=center|806'
+|-
+|align="left"|{{flagicon|ENG}} [[Frank Lampard]]
+|align="left"|{{flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|align=center|3||align=center|843'
+|-
+|align="left"|{{flagicon|BRA}} [[Daniel Alves]]
+|align="left"|{{flagicon|ESP}} [[FC Barcelona|Barcelona]]
+|align=center|3||align=center|855'
+|-
+|align="left"|{{flagicon|POR}} [[Cristiano Ronaldo]]
+|align="left"|{{flagicon|ESP}} [[Real Madrid C.F.|Real Madrid]]
+|align=center|3||align=center|930'
+|-
+|align="left"|{{flagicon|ESP}} [[Juan Mata]]
+|align="left"|{{flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|align=center|3||align=center|948'
+|-
+|align="left"|{{flagicon|GER}} [[Toni Kroos]]
+|align="left"|{{flagicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|align=center|3||align=center|1073'
+|}
+
+{{col-end}}
+
+== Artikel terkait ==
+* [[Liga Eropa UEFA 201112]]
+* [[Piala Super UEFA 2012]]
+* [[Piala Dunia Antarklub FIFA 2012]]
+
+== Referensi ==
+{{reflist|2}}
+
+== Pranala luar ==
+*{{Official website|http://www.uefa.com/uefachampionsleague/index.html}}
+
+{{Liga Champions UEFA 201112}}
+{{Musim Liga Champions UEFA}}
+
+{{DEFAULTSORT:201112 Uefa Champions League}}
+[[Kategori:Liga Champions UEFA 201112| ]]

@@ -1,0 +1,120 @@
+Stasiun MRT Buona Vista
+{{Infobox Station
+ | name= | name={{SMRT code|EW|21}}{{SMRT code|CC|22}}<br />Buona Vista MRT Station<br /><br /> 
+ | type=[[Angkutan cepat]]
+ | image=BuonavistaMRT.JPG
+ | image_size=300
+ | image_caption=Stasiun MRT Buona Vista di Jalur Timur Barat.
+ | address=100 North Buona Vista Road<br />150 North Buona Vista Road<br />Singapore 139345/ 139350
+ | coordinates= {{coord|1.306817|103.790428|type:railwaystation_region:SG|format=dms}}
+ | line=
+{{rail color box|system=SMRT|line=Timur Barat}}
+{{rail color box|system=SMRT|line=Lingkar}}
+ | other=Bus, Taksi
+ | structure=Melayang/Bawah tanah
+ | platform=Pulau
+ | depth=
+ | levels=6, 2 (U/C)
+ | tracks=4, 2 (U/C)
+ | parking=
+ | bicycle=
+ | baggage_check=
+ | passengers=
+ | pass_year=
+ | pass_percent=
+ | pass_system=
+ | opened=12 Maret 1988 (Jalur Timur Barat)<br>8 Oktober 2011 (Jalur Lingkar)
+ | closed=
+ | rebuilt=
+ | electrified=
+ | ADA=Yes
+ | code=EW21 / CC22
+ | owned=
+ | zone=
+ | former=
+ | services={{s-rail|title=SMRT}}
+{{s-line|system=SMRT|line=Timur Barat|previous=Commonwealth|next=Dover|type=Pasir Ris|type2=Joo Koon}}
+{{s-line|system=SMRT|line=Lingkar|previous=Holland Village|next=one-north|type=Dhoby Ghaut|type2=HarbourFront}}
+ | mpassengers=
+ | map_locator={{MRT locator map|Buona Vista|px=300}}
+}}
+'''Stasiun MRT Buona Vista''' (Kode '''EW21''' / '''CC22''') adalah stasiun berlokasi di [[Buona Vista]], Singapura yang menjadi bagin dari [[Jalur Timur Barat (MRT Singapura)|Jalur Timur Barat]] dan sedang dibangun [[Jalur Lingkar (MRT Singapura)|Jalur Lingkar]] dan berfungsi sebagai stasiun pesilangan di antara dua jalur tersebut. Di Jalur Timur Barat stasiun ini berada di antara [[Stasiun MRT Dover]] dan [[Stasiun MRT Commonwealth|Commonwealth]]. Di Jalur Lingkar berada di antara [[Stasiun MRT Holland Village]] dan [[Stasiun MRT one-north|one north]]. Suasana stasiun adalah warna hijau.
+
+Terdapat pangkalan taksi dan melayani Kementerian Pendidikan. Di seberang stasiun terdapat kampus Biopolis. Stasiun ini adalah salah satu dari dua stasiun yang memiliki bus ulang alik melayani National University of Singapore dan National University Hospital selain [[Stasiun MRT Clementi]] dengan bus nomor 95 yang dikelola oleh SBS Transit melalui Terminal Bus Kent Ridge. Mulai 8 Oktober 2011 kampus ini akan dilayani langsung dari [[Stasiun MRT Kent Ridge]], sebuah stasiun di Jalur Lingkar dan dua stasiun di selatan Buona Vista. Dengan demikian waktu tempuh dari Bishan ke Buona Vista akan diperpendek sekitar 17 menit dengan memotong sektor utara dari pulau seperti Jurong East, Toa Payoh dan ke pusat kota.
+
+Stasiun ini adalah stasiun terakhir yang dipasangi lift untuk pengguna kursi roda pada April 2009, setelahnya terdapat kesulitan konstruksi di Jalur Lingkar sehingga tidak bisa dipasang lift.
+
+== Jadwal layanan ==
+{| style="text-align:centre; font-size:95%; border:1px solid black"
+|-
+! Tujuan !! colspan="3" | Kereta Pertama !! !! Kereta Terakhir
+|-
+| || <small>Sen - Sab</small> || || style="text-align:center" | <small>Mingu &<br />Hari Libur</small> || || style="text-align:center" | <small>Harian</small>
+|-
+! colspan="7" style="background-color:green;color:white; height:25px" | Jalur Timur Barat
+|-
+| ke EW1 Pasir Ris || style="text-align:center" | 05.43 || || style="text-align:center" | 06.11 || || style="text-align:center" | 23.53
+|-
+| ke EW29 Joo Koon || style="text-align:center" | 06.10 || || style="text-align:center" | 06.36 || || style="text-align:center" | 00.08
+|-
+! colspan="7" style="background-color:orange;color:white; height:25px" | Jalur Lingkar
+|-
+| ke CC1 Dhoby Ghaut || style="text-align:center" | - || || style="text-align:center" | - || || style="text-align:center" | -
+|-
+| ke CC29 HarbourFront || style="text-align:center" | - || || style="text-align:center" | - || || style="text-align:center" | -
+|}
+
+== Denah Stasiun ==
+{|table border=0 cellspacing=0 cellpadding=3
+|style="border-top:solid 1px gray;border-bottom:solid 1px gray;" rowspan=3 valign=top|'''L4<br />Peron'''
+|style="border-top:solid 1px gray;"|Peron A
+|style="border-top:solid 1px gray;"|{{SMRT lines|Timur Barat}} menuju [[Stasiun MRT Pasir Ris|{{SMRT code|EW|1}} Pasir Ris]] ()
+|-
+|style="border-top:solid 2px black;border-right:solid 2px black;border-left:solid 2px black;border-bottom:solid 2px black;" colspan=2|<center><small>Peron pulau, pintu terbuka di kanan</small></center>
+|-
+|style="border-bottom:solid 1px gray;"|Peron B
+|style="border-bottom:solid 1px gray;"|{{SMRT lines|Timur Barat}} menuju [[Stasiun MRT Joo Koon|{{SMRT code|EW|29}} Joo Koon]] ()
+|-
+|style="border-bottom:solid 1px gray;" width=50 valign=top|'''L3'''
+|style="border-bottom:solid 1px gray;" width=100 valign=top|Gerbang EWL
+|style="border-bottom:solid 1px gray;" width=500 valign=top|Pintu Tiket, Mesin Tiket, Kontrol Stasiun
+|-
+|style="border-bottom:solid 1px gray;" width=50 valign=top|'''L2'''
+|style="border-bottom:solid 1px gray;" width=100 valign=top|Mesanin
+|style="border-bottom:solid 1px gray;" width=500 valign=top|Pujasera Kopitiam (Segera dibuka), Transfer Linkway
+|-
+|style="border-bottom:solid 1px gray;" width=50 valign=top|'''L1'''
+|style="border-bottom:solid 1px gray;" width=100 valign=top|Jalan
+|style="border-bottom:solid 1px gray;" width=500 valign=top|Kementrian Pendidikan Singapura, Biopolis, Buona Vista Xchange
+|-
+|style="border-bottom:solid 1px gray;" width=50 valign=top|'''B1'''
+|style="border-bottom:solid 1px gray;" width=100 valign=top|Gerbang
+|style="border-bottom:solid 1px gray;" width=500 valign=top|Pintu Tiket, Mesin Tiket, Kontrol Stasiun, Konter Transitlink
+|-
+|style="border-bottom:solid 1px gray;" rowspan=3 valign=top|'''B2'''
+|Peron A
+|style="border-top:solid 1px gray;"|{{SMRT lines|Lingkar}} menuju [[Stasiun MRT one-north|{{SMRT code|CC|23}} one-north]] ()
+|-
+|style="border-top:solid 2px black;border-right:solid 2px black;border-left:solid 2px black;border-bottom:solid 2px black;" colspan=2|<center><small>Peron pulau, pintu terbuka di kanan</small></center>
+|-
+|style="border-bottom:solid 1px gray;"|Peron B
+|style="border-bottom:solid 1px gray;"|{{SMRT lines|Lingkar}} menuju [[Stasiun MRT Holland Village|{{SMRT code|CC|21}} Holland Village]] ()
+|-
+|}
+
+== Kecelakaan 2006 ==
+25 Maret 2006, seorang pria tewas tertabrak kereta arah timur menuju [[Stasiun MRT Pasir Ris]] ketika dia turun ke rel untuk mengambil sepatunya. Perjalanan kereta terganggu dari [[Stasiun MRT Jurong East]] sampai [[Stasiun MRT Queenstown|Queenstown]].<ref>[http://www.channelnewsasia.com/stories/singaporelocalnews/view/139269/1/.html Man dies after being hit by MRT train at Buona Vista station]</ref>
+
+== Galeri Foto ==
+<gallery>
+Berkas:Buona Vista MRT.JPG|Gerbang Stasiun MRT Buona Vista
+Berkas:Buona Vista MRT CCL UC.JPG|Stasiun MRT Buona Vista bagian yang sedang dibangun untuk Jalur Lingkar (7 April 2007)
+</gallery>
+
+== Referensi ==
+{{reflist}}
+
+{{DEFAULTSORT:Buona Vista}}
+{{Stasiun MRT di Singapura}}
+
+[[Kategori:Stasiun angkutan cepat di Singapura]]

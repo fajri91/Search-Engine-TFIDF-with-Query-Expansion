@@ -1,0 +1,49 @@
+Templat:Misi Protestan ke Timur Tengah
+{{Navbox
+|name       = Misi Protestan ke Timur Tengah
+|title      = Misi Protestan ke Timur Tengah
+|state      = {{{state|autocollapse}}}
+|image      = [[File:Minarets missions.jpg|120px]]
+|listclass  = hlist
+|above      = 
+|group1     = Latar belakang
+|list1      = 
+*[[Kekristenan]]
+*[[Protestanisme]]
+*[[Garis waktu misi Kristen|Garis waktu misi]]
+|group2=Tokog
+|list2=
+*[[Daniel Bliss]]
+*[[Andrew Bonar]]
+*[[William Whiting Borden]]
+*[[Joseph Cochran]]
+*[[Edward Cronin]]
+*[[Douglas Dunlop]]
+*[[Henry Otis Dwight]]
+*[[William Goodell (misionaris)|William Goodell]]
+*[[Anthony Norris Groves]]
+*[[Cyrus Hamlin]]
+*[[Henry Harris Jessup]]
+*[[Alma Johansson]]
+*[[Samuel M. Jordan]]
+*[[Andrew Jukes (misionaris)|Andrew Jukes]]
+*[[Henry Martyn]]
+*[[William McElwee Miller]]
+*[[Eli Smith]]
+*[[Johann Wilhelm Ernst Sommer]]
+*[[William McClure Thomson]]
+*[[Lillian Trasher]]
+*[[Lilias Trotter]]
+*[[Cornelius Van Allen Van Dyck]]
+*[[Samuel Marinus Zwemer]]
+|group3=Agensi misionaris
+|list3 = 
+*[[London Missionary Society]]
+*[[American Board of Commissioners for Foreign Missions|American Board]]
+*[[Church Mission Society]]
+*[[BMS World Mission|Baptist Missionary Society]]
+*[[Mission to the World]]
+}}<noinclude>
+{{collapsible option}}
+[[Kategori:Kotak navigasi misi Protestan|Timur Tengah]]
+</noinclude>

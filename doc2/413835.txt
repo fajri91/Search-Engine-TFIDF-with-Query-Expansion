@@ -1,0 +1,15 @@
+Berkas:LoudduluxeEdition.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+* dari: [http://www.rihannanow.com rihannanow.com]
+* dan bisa juga didapatkan di [[Def Jam Recordings]]
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{SampulAlbum}}

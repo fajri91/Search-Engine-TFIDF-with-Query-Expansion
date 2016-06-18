@@ -1,0 +1,18 @@
+Templat:Ciemas, Sukabumi
+{{Navigasi ID Desa
+| nama kecamatan=Ciemas
+| dati2=Kabupaten
+| nama dati2=Sukabumi
+| provinsi=Jawa Barat
+| d1=Cibenda
+| d2=Ciemas
+| d3=Ciwaru
+| d4=Girimukti
+| d5=Mandrajaya
+| d6=Mekarjaya
+| d7=Sidamulya
+| d8=Tamanjaya
+}}<noinclude>
+[[Kategori:Templat desa/kelurahan di Jawa Barat|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Sukabumi|{{PAGENAME}}]]
+</noinclude>

@@ -1,0 +1,32 @@
+Templat:Musim CBA
+{{Navbox
+| name = Musim CBA
+| title = Musim [[Asosiasi Basket Tiongkok|{{color|yellow|Asosiasi Basket Tiongkok}}]]
+| listclass = hlist
+| state = {{{state|autocollapse}}}
+| titlestyle = background:red; color:yellow;
+| list1  =
+* [[Musim CBA 199596|199596]] 
+* [[Musim CBA 199697|199697]] 
+* [[Musim CBA 199798|199798]] 
+* [[Musim CBA 199899|199899]] 
+* [[Musim CBA 19992000|199900]] 
+* [[Musim CBA 200001|200001]]
+* [[Musim CBA 200102|200102]] 
+* [[Musim CBA 200203|200203]] 
+* [[Musim CBA 200304|200304]] 
+* [[Musim CBA 200405|200405]] 
+* [[Musim CBA 200506|200506]] 
+* [[Musim CBA 200607|200607]] 
+* [[Musim CBA 200708|200708]] 
+* [[Musim CBA 200809|200809]] 
+* [[Musim CBA 200910|200910]] 
+* [[Musim CBA 201011|201011]]
+* [[Musim CBA 201112|201112]]
+* [[Musim CBA 201213|201213]]
+* [[Musim CBA 201314|201314]]
+* [[Musim CBA 201415|201415]]
+}}<noinclude>
+{{collapsible option}}
+[[Kategori:Templat Asosiasi Basket Tiongkok|Musim]]
+</noinclude>

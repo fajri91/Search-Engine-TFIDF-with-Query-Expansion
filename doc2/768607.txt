@@ -1,0 +1,42 @@
+Pembicaraan Pengguna:FarhanFadhillah99
+
+{| style="vertical-align:top; border:1px solid #abf5d5; background-color:#f1fcf5; padding: .5em .5em .2em .5em "
+! style="border-bottom:1px solid #abf5d5; background-color:#d0f5e5; padding:0.2em 0.5em 0.2em 0.5em; font-weight:bold; font-size: 120%" | '''Halo, {{PAGENAME}}. [[Wikipedia:Selamat datang|Selamat datang]] di [[Wikipedia bahasa Indonesia]]!'''[[Kategori:Wikipediawan yang bergabung bulan Januari 2015]]
+|-
+| style="border-bottom:1px solid #f1fcf5; padding:0.4em 1em 0.3em 1em; text-align: left; font-size:95%;" |
+{| cellspacing="0" cellpadding="0" style="margin:.5em 0em 1em 0em; width:100%"
+| style="width:50%; vertical-align:top; border:1px solid #AFA3BF; background-color:#faf5ff;" |
+<div style="border-bottom:1px solid #AFA3BF; background-color:#ddcef2; padding:0.2em 1em 0.2em 1em; font-weight:bold">[[Berkas:Crystal Clear app kedit.svg|right|48px|link=|Memulai]] '''Memulai'''</div>
+<div style="border-bottom:1px solid #AFA3BF; padding:0.4em 1em 0.3em 1em">
+* Para pengguna baru dapat melihat halaman <u>'''[[Wikipedia:Pengantar|Pengantar Wikipedia]]'''</u> terlebih dahulu.
+* Anda bisa mengucapkan selamat datang kepada Wikipediawan lainnya di [[Wikipedia:Halaman perkenalan|Halaman perkenalan]].
+* Bingung mulai menjelajah dari mana? Kunjungi [[Wikipedia:Halaman sembarang|Halaman sembarang]].
+* Untuk mencoba-coba menyunting, silakan gunakan [[Wikipedia:Bak pasir|bak pasir]].{{#ifexist:Pengguna:{{PAGENAME}}||
+* Tuliskan juga sedikit profil Anda di [{{fullurl:Pengguna:{{PAGENAME}}|action=edit&preload=Templat:Selamatdatang/Profil}}&editintro=Templat:Selamatdatang/Editintro3 Pengguna:{{PAGENAME}}], halaman profil dan ruang pribadi Anda, agar kami dapat lebih mengenal Anda.}}
+* Baca juga''' [[Wikipedia:aturan yang disederhanakan|aturan yang disederhanakan]]''' sebelum melanjutkan. Ini adalah hal-hal mendasar yang perlu diketahui oleh semua penyunting Wikipedia.
+</div>
+<div style="border-bottom:1px solid #AFA3BF; background-color:#ddcef2; padding:0.2em 1em 0.2em 1em; font-weight:bold">[[Berkas:Crystal Clear app utilities.png|right|48px|link=|Bantuan]] '''Bantuan'''</div>
+<div style="padding:0.4em 1em 0.3em 1em">
+* [[Bantuan:Isi]] - tempat mencari informasi tentang berkontribusi di Wikipedia, sebelum bertanya kepada pengguna lain.
+* [[Wikipedia:Tanya jawab|FAQ]] - pertanyaan yang sering diajukan tentang Wikipedia.
+* [[Portal:Komunitas]] - informasi aktivitas di Wikipedia.
+</div>
+| style="padding:0em 0.5em 0em 0.5em; background-color:#f1fcf5;"|
+
+| style="width:50%%; vertical-align:top; border:1px solid #abd5f5; background-color:#f1f5fc;" |
+<div style="border-bottom:1px solid #abd5f5; background-color:#d0e5f5; padding:0.2em 1em 0.2em 1em; font-weight:bold">[[Berkas:Crystal Clear app kdmconfig.png|right|48px|link=|Tips]] '''Kiat'''</div>
+<div style="border-bottom:1px solid #abd5f5; padding:0.4em 1em 0.3em 1em">
+* [[Bantuan:Tanda tangan|Selalu tanda tangani]] pertanyaan Anda di [[Wikipedia:Warung Kopi|Warung Kopi]] atau [[Wikipedia:Halaman pembicaraan|halaman pembicaraan]] dengan mengetikkan <code><nowiki>~~~~</nowiki></code> pada akhir kalimat Anda. Ini akan otomatis diubah menjadi nama pengguna dan tanggal.
+* Jangan lupa: [[Wikipedia:Kebijakan dan pedoman|Prinsip dan pedoman dasar]] Wikipedia.
+* Ingin membuat atau menyunting halaman? Kenali dulu [[Wikipedia:Pedoman gaya|gaya]] Wikipedia! Lalu lihat [[Wikipedia:Memulai halaman baru|memulai halaman baru]] dan [[Wikipedia:Menyunting sebuah halaman|menyunting sebuah halaman]].
+</div>
+<div style="border-bottom:1px solid #abd5f5; background-color:#d0e5f5; padding:0.2em 1em 0.2em 1em; font-weight:bold">[[Berkas:Crystal Clear action reload.png|right|48px|link=|Membuat kesalahan?]] '''Membuat kesalahan?'''</div>
+<div style="solid #abd5f5; padding:0.4em 1em 0.3em 1em">
+* [[Wikipedia:Jangan terbebani aturan|'''''Jangan takut''''']]! Anda tidak perlu takut salah ketika menyunting atau membuat halaman baru, menambahkan atau menghapus kalimat.<p>[[Wikipedia:Pengurus|Pengurus]] dan para [[Wikipedia:Wikipediawan|pengguna]] lainnya yang memantau [[Istimewa:Perubahan terbaru|perubahan terbaru]] akan segera menemukan kesalahan Anda dan mengembalikannya seperti semula.</p>
+</div>
+|}
+: <i>'''Welcome!''' If you are not an Indonesian speaker, you may want to visit the [[Wikipedia:Kedutaan|Indonesian Wikipedia embassy]] or [[Wikipedia:Babel/id-0|a slight info to find users speaking your language]]. Enjoy!</i>
+
+: '''Selamat menjelajah''', kami menunggu suntingan Anda di [[Wikipedia bahasa Indonesia]]! 
+|}
+{{subst:Pengguna:Kenrick95/ttd}}

@@ -1,0 +1,11 @@
+Templat:Location map/end
+</div>
+<div style="font-size:90%">{{{caption|Peta {{Location map {{{1}}}|name}}}}}</div>
+</div><noinclude>
+== Lihat pula ==
+*{{tl|Location map/start}}
+*{{tl|Location map/marker}}
+*{{tl|Location map/end}}
+
+[[Kategori:Templat peta navigasi| ]]
+</noinclude>

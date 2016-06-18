@@ -1,0 +1,24 @@
+Pemetaan objek-relasional
+'''Pemetaan objek-relasional'''('''object-relational mapping''' atau '''O/RM''') merupakan sebuah teknik yang digunakan dalam pemrograman untuk menggunakan [[basisdata relasional]] sebagai penyimpanan data dengan bentuk objek. Teknik ini biasa digunakan dalam bahasa [[pemrograman berorientasi objek]] saat harus menggunakan basisdata relasional dalam penyimpanannya.
+
+== Masalah ==
+[[Pemrograman berorientasi obyek]] menggunakan cara pandang objek dalam dunia nyata untuk melihat sistem. Contoh: seorang Manusia mempunyai atribut yang melekat pada dirinya berupa nama, alamat, tanggal lahir, dan sebagainya. Mahasiswa merupakan manusia, maka Mahasiswa mewarisi semua sifat manusia.
+
+Dalam penyimpanannya ke dalam basisdata, penurunan sifat maupun hubungan antar objek daat menjadi masalah tersendiri. Apalagi sebuah objek mendukung aksi(method) akan tetapi tidak dengan basisdata.
+
+== Pemecahan ==
+Bahasa pemrograman menggunakan O/RM untuk memetakan objek ke dalam database. Objek yang kita masukkan akan dibaca oleh O/RM tersebut kemudian diubah ke dalam Sintaks SQL. Selanjutnya baru kemudian dijalankan di basisdata relasional dan hasilnya kembali ke O/RM.
+
+== Peralatan ==
+=== Java ===
+* [[Hibernate]] [http://www.hibernate.org/]
+* [[iBATIS]] [http://ibatis.apache.org/]
+
+=== PHP ===
+* [[Propel]] [http://propel.phpdb.org/]
+* [[Syrius]] [http://www.domenicobiancardi.com]
+
+[[Kategori:Berorientasi Objek]]
+
+
+{{computer-stub}}

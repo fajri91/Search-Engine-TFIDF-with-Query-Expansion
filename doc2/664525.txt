@@ -1,0 +1,84 @@
+Baby I
+{{Infobox single
+| Name = Baby I
+| Cover = Cover art for single Baby, I.png
+| Border = yes
+| Artist = [[Ariana Grande]]
+| Album = [[Yours Truly (album Ariana Grande)|Yours Truly]]
+| Released = {{start date|2013|07|22}}
+| Format = [[Music download|Digital download]]
+| Recorded = 2013
+| Genre = {{Flat list|<!---sourced in composition.--->
+*[[Contemporary R&B|R&B]]
+*[[Pop music|pop]]
+}}
+| Length = 3:17
+| Label = [[Republic Records|Republic]]
+| Writer = {{Flat list|
+*[[Babyface (musician)|Kenneth "Babyface" Edmonds]]
+*Antonio Dixon
+*[[Patrick "J. Que" Smith]]
+}}
+| Producer = {{Flat list|
+*Kenneth "Babyface" Edmonds
+*Antonio Dixon
+*Patrick "J. Que" Smith
+}}
+| Last single = "[[The Way (lagu)|The Way]]"<br />(2013)
+| This single = "'''Baby I'''"<br />(2013)
+| Next single = "[[Right There (lagu Ariana Grande)|Right There]]"<br />(2013)
+}}
+
+"'''Baby I'''" adalah sebuah lagu yang dinyanyikan oleh penyanyi-penulis lagu asal Amerika Serikat, [[Ariana Grande]], dalam album studio pertamanya, [[Yours Truly (album Ariana Grande)|Yours Truly]]. Lagu ini merupakan single kedua miliknya, yang resmi dirilis secara internasional pada tanggal [[22 Juli]] [[2013]].
+
+==Tracklist==
+===Cover Indonesia===
+# "Naomi Pratiwi - Baby I"
+
+==Chart==
+{| class="wikitable sortable plainrowheaders" style="text-align:center;"
+|-
+!scope="col"| Chart (2013)
+!scope="col"| Posisi
+|-
+!scope="row"| Australia ([[ARIA Charts|ARIA]])<ref name="Baby I">{{cite web |url=http://www.ariacharts.com.au/news/41562/chartifacts---monday-5th-august-2013?pos=4|title=Chartifacts|accessdate=August 13, 2013|publisher=ARIA Charts}}</ref>
+| style="text-align:center;"| 67
+|-
+! scope="row" {{singlechart|Canada|57|artist=Ariana Grande|song=Baby I|artistid={{BillboardID|Ariana Grande}}|accessdate=August 1, 2013}}
+|-
+! scope="row" {{singlechart|Dutch40|39|artist==Ariana Grande|song=Baby I|week=23|year=2013|accessdate=August 12, 2013}}
+|-
+! scope="row"|UK R&B ([[UK Singles Chart|Official Charts Company]]) <ref>{{cite web|url=http://www.officialcharts.com/archive-chart/_/16/2013-09-14/|title=Archive Chart|publisher=[[UK R&B Chart]]. [[The Official Charts Company]]|date=September 14, 2013|accessdate=October 3, 2013}}</ref>
+|align="center"|26
+|-
+! scope="row"|UK Singles ([[UK R&B Chart|Official Charts Company]]) <ref>{{cite web|url=http://www.zobbel.de/|title=Chart Log UK: New Entries Update|publisher=zobbel.de. 14.09.2013|date=September 14, 2013|accessdate=October 3, 2013}}</ref>
+|align="center"|145
+|-
+! scope="row" {{singlechart|Billboardhot100|21|artist=Ariana Grande|song=Baby I|artistid={{BillboardID|Ariana Grande}}|accessdate=July 31, 2013}}
+|-
+! scope="row" {{singlechart|Billboarddanceclubplay|18|artist=Ariana Grande|song=Baby I|artistid={{BillboardID|Ariana Grande}}|accessdate=October 16, 2013}}
+|}
+
+==Sejarah rilis dan radio==
+{| class="wikitable plainrowheaders"
+|-
+! scope="col"| Negara
+! scope="col"| Tanggal
+! scope="col"| Format
+! scope="col"| Label
+|-
+| rowspan="2"| United States
+| July 22, 2013
+| [[music download|Digital download]]<ref>{{cite web|title=Baby I|url=http://www.amazon.com/Baby-I/dp/B00E0SDM8U|publisher=Amazon.com|date=July 22, 2013|accessdate=July 23, 2013}}</ref>
+| rowspan="2"| [[Republic Records|Republic]]
+|-
+| August 8, 2013
+| Rhythm crossover radio<ref>{{cite web|url=http://www.fmqb.com/Article.asp?id=16691 |title=Radio Industry News, Music Industry Updates, Arbitron Ratings, Music News and more! |publisher=FMQB |date= |accessdate=August 4, 2013}}</ref>
+|}
+
+==Referensi==
+{{reflist|2}}
+
+{{Ariana Grande}}
+
+[[Kategori:Singel tahun 2013]]

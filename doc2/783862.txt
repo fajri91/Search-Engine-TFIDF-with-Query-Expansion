@@ -1,0 +1,294 @@
+Copa America 2015 Grup B
+'''Grup B [[Copa Amrica 2015]]''' terdiri dari {{fb|ARG}}, {{fb|URU}}, {{fb|PAR}}, {{fb|JAM}}. Pertandingan akan berlangsung dari tanggal 14 sampai 21 Juni 2015.
+== Klasemen ==
+{{CA 2015 B}}
+== Pertandingan ==
+====Uruguay vs Jamaika====
+{{Football box
+| date= 14 Juni 2015
+| time= 16.00 ([[UTC-3]])
+| team1= {{fb-rt|URU}}
+| score= 10
+| report= [http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.copaamerica.215728&lang=es_LA&theme=copaamerica Laporan]
+| team2= {{fb|JAM}}
+| goals1=[[Cristian Rodrguez|C. Rodrguez]] {{goal|52}}{{br}}[[Jos Mara Gimnez|J. Gimnez]] {{yel|59}}{{br}}[[Diego Godn|D. Godn]] {{yel|84}}
+| goals2=[[Jobi McAnuff|J. McAnuff]] {{yel|27}}
+| stadium= [[Estadio Regional de Antofagasta]], [[Antofagasta]]
+| attendance=8.653
+| referee= {{flagicon|VEN}} [[Jos Argote]]
+| aw1= {{flagicon|VEN}} [[Jorge Urrego]]
+| aw2= {{flagicon|VEN}} [[Jairo Romero]]
+| w4= {{flagicon|CHI}} [[Jorge Osorio]]
+}}
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _uru2014_local
+ |pattern_b  = _uru2014l
+ |pattern_ra = _uru2014_local
+ |pattern_sh = 
+ |pattern_so = _uru2014_local
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = 000000
+ |socks      = 000000
+ |title      = Uruguay
+}}
+|{{Football kit
+ |pattern_la = _jamaica15h
+ |pattern_b  = _jamaica15h
+ |pattern_ra = _jamaica15h
+ |pattern_sh = _jamaica15h
+ |pattern_so = _jamaica15h
+ |leftarm    = FFDD00
+ |body       = FFDD00
+ |rightarm   = FFDD00
+ |shorts     = FFDD00
+ |socks      = FFDD00
+ |title      = Jamaika
+}}
+|}
+
+====Argentina vs Paraguay====
+{{Football box
+| date= 14 Juni 2015
+| time= 18.30 ([[UTC-3]])
+| team1= {{fb-rt|ARG}}
+| score= 22
+| report= [http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.copaamerica.215729&lang=es_LA&theme=copaamerica Laporan]
+| team2= {{fb|PAR}}
+| goals1=[[Sergio Agero|S. Agero]] {{goal|29}}{{br}}[[Lionel Messi|L. Messi]] {{goal|36|pen.}}{{br}}[[Facundo Roncaglia|F. Roncaglia]] {{yel|41}}{{br}}[[Nicols Otamendi|N. Otamendi]] {{yel|83}}
+| goals2=[[Nelson Vldez|N. Vldez]] {{goal|60}}{{br}}[[Lucas Barrios|L. Barrios]] {{goal|90}}{{br}}[[Pablo Csar Aguilar|P. Aguilar]] {{yel|24}}{{br}}[[Richard Ortiz|R. Ortiz]] {{yel|39}}{{br}}[[Derlis Gonzlez|D. Gonzlez]] {{yel|48}}{{br}}[[Vctor Cceres|V. Cceres]] {{yel|74}}{{br}}[[Lucas Barrios|L. Barrios]] {{yel|90}}
+| stadium= [[Estadio La Portada]], [[La Serena]] ([[Chili]])
+| attendance=16.281
+| referee= {{flagicon|COL}} [[Wilmar Roldn]]
+| aw1= {{flagicon|COL}} [[Alexander Guzmn]]
+| aw2= {{flagicon|COL}} [[Cristian De La Cruz]]
+| w4= {{flagicon|CHI}} [[Julio Bascun]]
+}}
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _arg15h
+ |pattern_b  = _argentina15h
+ |pattern_ra = _arg15h
+ |pattern_sh = _arg15a
+ |pattern_so = _arg15a
+ |leftarm    = ffffff
+ |body       = ffffff
+ |rightarm   = ffffff
+ |shorts     = ffffff
+ |socks      = ffffff
+ |title      = Argentina
+}}
+|{{Football kit
+ |pattern_la = _par15h
+ |pattern_b  = _par15h
+ |pattern_ra = _par15h
+ |pattern_sh = 
+ |pattern_so = _Par2015 titular
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = 0e1f98
+ |title      = Paraguay
+}}
+|}
+
+====Paraguay vs Jamaika====
+{{Football box
+| date= 16 Juni 2015
+| time= 18.00 ([[UTC-3]])
+| team1= {{fb|PAR}}
+| score= 10
+| report= [http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.copaamerica.215734&lang=es_LA&theme=copaamerica Laporan]
+| team2= {{fb|JAM}}
+| goals1=[[dgar Bentez|E. Bentez]] {{goal|36}}{{br}}[[Bruno Valdez]] {{yel|59}}
+| goals2=[[Rodolph Austin|R. Austin]] {{yel|8}}{{br}}[[Wes Morgan|W. Morgan]] {{yel|16}}
+| stadium= [[Estadio Regional de Antofagasta]], [[Antofagasta]]
+| attendance= 
+| referee= {{flagicon|ECU}} [[Carlos Vera]]<ref name="referees2">{{cite web|url=http://www.conmebol.com/es/14062015-1538/arbitros-para-los-juegos-de-la-segunda-ronda|title=rbitros para los juegos de la segunda ronda|publisher=CONMEBOL.com|date=14 Juni 2015|language=Spanish}}</ref>
+| aw1= {{flagicon|ECU}} [[Christian Lescano]]<ref name="referees2" />
+| aw2= {{flagicon|ECU}} [[Byron Romero]]<ref name="referees2" />
+| w4= {{flagicon|CHI}} [[Jorge Osorio]]<ref name="referees2" />
+}}
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _par15h
+ |pattern_b  = _par15h
+ |pattern_ra = _par15h
+ |pattern_sh = 
+ |pattern_so = _Par2015 titular
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = 0e1f98
+ |title      = Paraguay
+}}
+|{{Football kit
+ |pattern_la = _jamaica15h
+ |pattern_b  = _jamaica15h
+ |pattern_ra = _jamaica15h
+ |pattern_sh = _jamaica15h
+ |pattern_so = _jamaica15h
+ |leftarm    = FFDD00
+ |body       = FFDD00
+ |rightarm   = FFDD00
+ |shorts     = FFDD00
+ |socks      = FFDD00
+ |title      = Jamaika
+}}
+|}
+====Argentina vs Uruguay====
+{{Football box
+| date= 16 Juni 2015
+| time= 20.30 ([[UTC-3]])
+| team1= {{fb-rt|ARG}}
+| score= 10
+| report= [http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.copaamerica.215735&lang=es_LA&theme=copaamerica Laporan]
+| team2= {{fb|URU}}
+| goals1=[[Sergio Agero|S. Agero]] {{goal|56}}{{br}}[[Javier Mascherano|J. Mascherano]] {{yel|45+1}}{{br}}[[Marcos Rojo|M. Rojo]] {{yel|71}}{{br}}[[Sergio Romero|S. Romero]] {{yel|84}}
+| goals2=[[Nicols Lodeiro|N. Lodeiro]] {{yel|31}}{{br}}[[Diego Godn|D. Godn]] {{yel|65}}{{br}}[[lvaro Pereira|. Pereira]] {{yel|86}}
+| stadium= [[Estadio La Portada]], [[La Serena]] ([[Chili]])
+| attendance= 
+| referee= {{flagicon|BRA}} [[Sandro Ricci]]<ref name="referees2"/>
+| aw1= {{flagicon|BRA}} [[Emerson De Carvalho]]<ref name="referees2" />
+| aw2= {{flagicon|BRA}} [[Fabio Pereira]]<ref name="referees2" />
+| w4= {{flagicon|CHI}} [[Julio Bascuan]]<ref name="referees2" />
+}}
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _arg15a
+ |pattern_b  = _arg15A
+ |pattern_ra = _arg15a
+ |pattern_sh = _arg15a
+ |pattern_so = _arg15a
+ |leftarm    = 001363
+ |body       = 001363
+ |rightarm   = 001363
+ |shorts     = ffffff
+ |socks      = 001371
+ |title      = Argentina
+}}
+|{{Football kit
+ |pattern_la = _uru2014_visitante
+ |pattern_b  = _uru2014_v
+ |pattern_ra = _uru2014_visitante
+ |pattern_sh = 
+ |pattern_so = _uru2014_visitante
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Uruguay
+}}
+|}
+====Uruguay vs Paraguay====
+{{Football box
+| date= 20 Juni 2015
+| time= 16.00 ([[UTC-3]])
+| team1= {{fb-rt|URU}}
+| score= 11
+| report= [http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.copaamerica.215740&lang=es_LA&theme=copaamerica Laporan]
+| team2= {{fb|PAR}}
+| goals1=[[Jos Mara Gimnez|J. Gimnez]] {{goal|29}}{{br}}[[Abel Hernndez|A. Hernndez]] {{yel|5}}{{br}}[[Sebastin Coates|S. Coates]] {{yel|72}}{{br}}[[lvaro Pereira|A. Pereira]] {{yel|74}}
+| goals2=[[Lucas Barrios|L. Barrios]] {{goal|44}}{{br}}[[Nstor Ortigoza|N. Ortigoza]] {{yel|9}}{{br}}[[Richard Ortiz|R. Ortiz]] {{yel|69}}{{br}}[[Osmar Molinas|O. Molinas]] {{yel|81}}
+| stadium= [[Estadio La Portada]], [[La Serena]] ([[Chili]])
+| attendance=
+| referee= {{flagicon|MEX}} [[Roberto Garca Orozco]] 
+| aw1= {{flagicon|MEX}} Jos Luis Camargo
+| aw2= {{flagicon|MEX}} Marvin Torrenta
+| w4= {{flagicon|CHL}} Enrique Osses
+}}
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _uru2014_local
+ |pattern_b  = _uru2014l
+ |pattern_ra = _uru2014_local
+ |pattern_sh = 
+ |pattern_so = _uru2014_local
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = 000000
+ |socks      = 000000
+ |title      = Uruguay
+}}
+|{{Football kit
+ |pattern_la = _par15h
+ |pattern_b  = _par15h
+ |pattern_ra = _par15h
+ |pattern_sh = _paraguay 2015 titular
+ |pattern_so = _long par15h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = 0e1f98
+ |title      = Paraguay
+}}
+|}
+
+====Argentina vs Jamaika====
+{{Football box
+| date= 20 Juni 2015
+| time= 18.30 ([[UTC-3]])
+| team1= {{fb-rt|ARG}}
+| score= 10
+| report= [http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.copaamerica.215741&lang=es_LA&theme=copaamerica Laporan]
+| team2= {{fb|JAM}}
+| goals1=[[Gonzalo Higuan|G. Higuan]] {{goal|11}}{{br}}[[Javier Pastore|J. Pastore]] {{yel|45}}{{br}}[[Pablo Zabaleta|P. Zabaleta]] {{yel|90+2}}
+| goals2=[[Lance Laing|L. Laing]] {{yel|31}}{{br}}[[Rodolph Austin|R. Austin]] {{yel|52}}{{br}}[[Michael Hector|M. Hector]] {{yel|52}}
+| stadium= [[Estadio Sausalito]], [[Via del Mar]] ([[Chili]])
+| attendance= 
+| referee= {{flagicon|CHL}} [[Julio Bascun]] 
+| aw1= {{flagicon|CHL}} Carlos Astroza
+| aw2= {{flagicon|CHL}} Marcelo Barraza
+| w4= {{flagicon|BOL}} Ral Orosco
+}}
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _arg15h
+ |pattern_b  = _argentina15h
+ |pattern_ra = _arg15h
+ |pattern_sh = _arg15h
+ |pattern_so = _arg15h
+ |leftarm    = ffffff
+ |body       = ffffff
+ |rightarm   = ffffff
+ |shorts     = 000000
+ |socks      = ffffff
+ |title      = Argentina
+}}
+|{{Football kit
+ |pattern_la = _jamaica15h
+ |pattern_b  = _jamaica15h
+ |pattern_ra = _jamaica15h
+ |pattern_sh = _jam15h
+ |pattern_so = _jamaica15h
+ |leftarm    = FFDD00
+ |body       = FFDD00
+ |rightarm   = FFDD00
+ |shorts     = 000000
+ |socks      = FFDD00
+ |title      = Jamaika
+}}
+|}
+
+== Referensi ==
+
+[[Kategori:Copa Amrica]]

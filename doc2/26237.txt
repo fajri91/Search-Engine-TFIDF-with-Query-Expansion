@@ -1,0 +1,105 @@
+Daftar Menteri Kelautan dan Perikanan Indonesia
+{{Infobox Jabatan Politik
+|jabatan         	= Menteri Kelautan dan Perikanan
+|lembaga         	= Republik Indonesia
+|insignia           	= LOGO KEMENTERIAN KELAUTAN DAN PERIKANAN.png
+|ukuraninsignia    	= 75px
+|keteranganinsignia	= 
+|departemen       	= 
+|namaasli	     	= 
+|image                  = Susi Pudjiastuti.jpg
+|imagesize              = 150px
+|alt             	= 
+|incumbent      	= [[Susi Pudjiastuti]]
+|incumbentsince         = 27 Oktober 2014
+|gelar          	= 
+|kediaman       	= 
+|tempo		      	= 
+|dibentuk	      	= 26 Oktober 1999
+|pertama	       	= [[Sarwono Kusumaatmadja]]
+|website         	= 
+}}
+
+Berikut adalah daftar orang yang pernah menjabat sebagai Menteri Kelautan, dan Perikanan Indonesia.
+
+{| class="wikitable"
+|- style="background-color:#cfc;"
+!No
+!colspan=3|Menteri
+!Kabinet
+!Mulai menjabat
+!Akhir jabatan
+!Keterangan
+|-
+| <center>1
+| [[Berkas:Menteri Sarwono Kusumaatmadja.jpg|100px]] 
+| bgcolor=#ffff00|
+| [[Sarwono Kusumaatmadja]] 
+| rowspan=2|<center> [[Kabinet Persatuan Nasional|Persatuan Nasional]] 
+| <center>26 Oktober 1999
+| <center>1 Juni 2001
+| <small> Bernama '''Menteri Eksplorasi Kelautan'''
+|-
+|rowspan=2|<center>2
+|rowspan=2| [[Berkas:Rokhmin Dahuri.jpg|100px]] 
+|rowspan=2 bgcolor=#cd0000|
+|rowspan=2| [[Rokhmin Dahuri]] 
+|<center>1 Juni 2011
+|<center>9 Agustus 2001
+|<small>Berganti nama menjadi '''Menteri Kelautan, dan Perikanan'''
+|-
+| <center>[[Kabinet Gotong Royong|Gotong Royong]] 
+| <center>9 Agustus 2001 
+| <center>20 Oktober 2004
+| 
+|-
+|<center>3
+| [[Berkas:Menteri Freddy Numberi.jpg|100px]]
+| bgcolor=#00004c|
+| [[Freddy Numberi]] 
+| <center>[[Kabinet Indonesia Bersatu|Indonesia Bersatu]] 
+| <center>21 Oktober 2004 
+| <center>20 Oktober 2009 
+| &nbsp;
+|-
+| <center>4
+| [[Berkas:Menteri Fadel Muhammad.jpg|100px]]
+| bgcolor=#ffff00|
+| [[Fadel Muhammad]] 
+| rowspan=2|<center>[[Kabinet Indonesia Bersatu II|Indonesia Bersatu II]] 
+| <center>22 Oktober 2009 
+| <center>19 Oktober 2011 
+| &nbsp;
+|-
+| <center>5
+| [[Berkas:Menteri Sharif Cicip Sutarjo.jpg|100px]]
+| bgcolor=#ffff00|
+| [[Sharif Cicip Sutarjo]] 
+| <center>19 Oktober 2011 
+| <center>20 Oktober 2014 
+| &nbsp;
+|-
+| <center>6
+| [[Berkas:Susi Pudjiastuti.jpg|100px]] 
+| bgcolor=#d3d3d3|
+| [[Susi Pudjiastuti]] 
+| <center>[[Kabinet Kerja|Kerja]] 
+| <center>27 Oktober 2014 
+| <center>''Petahana'' 
+| &nbsp;
+|}
+
+<div style="-moz-column-count:2; -webkit-column-count:2; column-count:2; text-align:left; padding:0.2em;">
+{{legend|#d3d3d3|Non-partisan|border=1px solid #AAAAAA}}
+{{legend|#ffff00|[[Partai Golongan Karya]] (Golkar)|border=1px solid #AAAAAA}}
+{{legend|#cd0000|[[Partai Demokrasi Indonesia Perjuangan]] (PDI-P)|border=1px solid #AAAAAA}}
+{{legend|#00004c|[[Partai Demokrat (Indonesia)|Partai Demokrat]]|border=1px solid #AAAAAA}}
+</div>
+== Lihat pula ==
+* [[Daftar kabinet Indonesia]]
+* [[Kementerian Kelautan dan Perikanan Indonesia]]
+
+{{Menteri Indonesia}}
+{{indo-stub}}
+
+[[Kategori:Daftar menteri Indonesia|Kelautan dan Perikanan]]

@@ -1,0 +1,209 @@
+Pembagian administratif Iran
+{{Infobox subdivision type
+| name               = Provinsi di Iran<br>  ([[Bahasa Persia|Persia]])
+| alt_name           = Provinsi<br><big><big></big></big>
+| map                = {{Prov Iran}}
+| category           = [[Negara kesatuan]]
+| territory          = [[Iran]]
+| start_date         =
+| current_number     = 31 Provinsi
+| number_date        =
+| population_range   = 557,599 ([[Provinsi Ilam]])  12,183,391 ([[Provinsi Tehran|Tehran]])
+| area_range         = {{Convert|2252|sqmi|km2|order=flip|abbr=on}} ([[Alborz Province|Alborz]])  {{Convert|70188|sqmi|km2|order=flip|abbr=on}} ([[Provinsi Sistan dan Baluchestan|Sistan dan Baluchestan]])
+| government         = Kegubernuran
+| subdivision        = [[County]]
+}}
+[[File:Provinces of Iran by population.svg|thumb|280px|Provinsi di Iran berdasarkan populasi 2014.]]
+[[File:Provinces of Iran by population density.svg|thumb|280px|Provinsi di Iran berdasarkan kepadatan 2013.]]
+[[File:Provinces of Iran by area (km2).svg|thumb|280px|Provinsi di Iran berdasarkan Luas (km2).]]
+[[File:Provinces of Iran by contribution to national GDP.svg|thumb|280px|Provinsi di Iran berdasarkan sumbangan terhadap GDP 2014.]]
+[[File:Provinces of Iran by GDP per capita.svg|thumb|280px|Provinsi di Iran berdasarkan perkapita 2012.]]
+
+'''[[Iran]]''' terbagi kedalam 31 [[provinsi]] ({{lang-fa|}} ''Ostn'', bentuk jamaknya  ''Ostnh'')
+
+== Sejarah Modern ==
+<!-- Deleted image removed: File:The Russo-British Pact in 1905.jpg|Map showing the British and Russian spheres of influence in [[World War I]] with approximate province borders in 1907 -->
+
+Dikutip dari ''[[Encyclopedia Britannica]]'',<ref name="britannica">[http://www.1911encyclopedia.org/Persia Persia entry in Encyclopaedia Britannica]</ref> pada tahun 1911 terdapat 35 wilayah di Iran, yaitu:
+
+; Provinsi
+{{Div col||20em}}
+# Khuzestan dan Bakhtiari
+# Astarabad and Gurgan
+# Azerbaijan
+# Fars
+# Gerrus
+# Gilan and Talish
+# Hamada[n]
+# Irak, Gulpaigan, Khunsar, [Kezzaz, Ferakan, and Tusirkhan]
+# Isfahan
+# Kashan
+# Kazvin
+# Kerman and Baluchistan
+# Kermanshah
+# Kamseh
+# Khar
+# Khorasan
+# Kum
+# Kurdistan
+# Luristan and Burujird
+# Mazandaran
+# Nehavend, Malayir and Kamereh
+# Savah
+# Samnan and Damghan
+# Shahrud and Bostam
+# Teheran
+# Zerend and Bagdadi Shahsevens
+{{Div col end}}
+
+; Dependensi
+{{Div col||20em}}
+# Asadabad
+# Demavend
+# Firuzkuh
+# Josehekan
+# Kangaver
+# Natanz
+# []<!-- Sic? -->
+# Tarom Ulia
+# Kharakan
+{{Div col end}}
+<ref name="statoid">{{cite web| url=http://www.statoids.com/uir.html| title=Provinces of Iran| first=Statoids website| last=Gwillim Law| accessdate=2006-04-30}}</ref><ref name="statoid" /><ref name="jazeera">{{cite web| url=http://english.aljazeera.net/NR/exeres/2B2C2624-ECBE-473A-AF89-A62AF91E7550.htm| title=Iran breaks up largest province| first=Al-Jazeera Satellite Network| last=Online edition| accessdate=2006-04-30}}</ref>
+
+==Informasi ==
+
+[[File:Iran population by province (bar chart).png|none|Iran population broken down by province]]
+[[File:Iran's GDP contribution by province.png|none|Iran's GDP contribution broken down by province]]
+
+== Provinsi==
+{{Clear}}
+{| class="wikitable sortable"
+|+
+|-bgcolor=#ACE1AF
+!Provinsi
+!Ibukota
+!data-sort-type="number"|Wilayah<ref name="area">{{cite web|url=http://www.sci.org.ir/Englishold/SEL/F1/S1_4S.htm |title=General Characteristics of Ostans according to their administrative divisions at the end of 1383 (2005 CE) |first=Government of Iran |last=Statistical Centre |accessdate=2006-04-30 |deadurl=yes |archiveurl=http://web.archive.org/web/20071026005846/http://www.sci.org.ir/Englishold/SEL/F1/S1_4S.htm |archivedate=October 26, 2007 }}</ref>
+!data-sort-type="number"|Population<ref name="population">{{cite web|url=http://www.amar.org.ir/Portals/1/Iran/90.pdf|title=Selected Findings of the 2011 National Population and Housing Census, Table 13. Population by sex, residence status and province| first=Government of Iran| last=Statistical Centre| accessdate=2013-09-28}}</ref>
+!data-sort-type="number"|[[Kepadatan penduduk]]<br />([[population]]/km)
+![[Shahrestan]]
+!class="unsortable"|Peta
+|-
+| [[Provinsi Alborz|Alborz]]|| [[Karaj]] ||style="text-align:right"| {{convert|5,833|km2|sqmi|abbr=on}}||style="text-align:right"| 2,412,513||style="text-align:right"| {{convert|413.6|PD/sqkm|PD/sqmi}}||style="text-align:right"|4||[[Image:IranAlborz-SVG.svg|80px]]
+|-
+| [[Provinsi Ardabil|Ardabil]]|| [[Ardabil]] ||style="text-align:right"| {{convert|17,800|km2|sqmi|abbr=on}}||style="text-align:right"| 1,248,488||style="text-align:right"| {{convert|70.1|PD/sqkm|PD/sqmi}}||style="text-align:right"|9||[[Image:IranArdabil-SVG.svg|80px]]
+|-
+| [[Provinsi Azarbaijan Timur|Azerbaijan Timur]] || [[Tabriz]] ||style="text-align:right"| {{convert|45,650|km2|sqmi|abbr=on}}||style="text-align:right"| 3,724,620||style="text-align:right"| {{convert|82.3|PD/sqkm|PD/sqmi}}||style="text-align:right"|19||[[Image:IranEastAzerbaijan-SVG.svg|80px]]
+|-
+| [[Provinsi Azarbaijan Barat|Azerbaijan Barat]] || [[Urmia]] ||style="text-align:right"| {{convert|37,437|km2|sqmi|abbr=on}}||style="text-align:right"| 3,080,576||style="text-align:right"| {{convert|78.8|PD/sqkm|PD/sqmi}}||style="text-align:right"|14||[[Image:IranWestAzerbaijan-SVG.svg|80px]]
+|-
+| [[Provinsi Bushehr|Bushehr]]|| [[Bushehr]] ||style="text-align:right"| {{convert|22,743|km2|sqmi|abbr=on}}||style="text-align:right"| 1,032,949 ||style="text-align:right"| {{convert|45.4|PD/sqkm|PD/sqmi}}||style="text-align:right"|9||[[Image:IranBushehr-SVG.svg|80px]]
+|-
+| [[Provinsi Chaharmahal dan Bakhtiari|Chahar Mahaal dan Bakhtiari]] ||[[Shahrekord]]||style="text-align:right"| {{convert|16,332|km2|sqmi|abbr=on}}||style="text-align:right"| 895,263||style="text-align:right"| {{convert|54.8|PD/sqkm|PD/sqmi}}||style="text-align:right"|6||[[Image:IranChaharMahaalBakhtiari-SVG.svg|80px]]
+|-
+| [[Provinsi Fars|Fars]] || [[Shiraz, Iran|Shiraz]] ||style="text-align:right"| {{convert|122,608|km2|sqmi|abbr=on}}||style="text-align:right"| 4,596,658||style="text-align:right"| {{convert|37.5|PD/sqkm|PD/sqmi}}||style="text-align:right"|23||[[Image:IranFars-SVG.svg|80px]]
+|-
+| [[Provinsi |Gilan]] || [[Rasht]] ||style="text-align:right"| {{convert|14,042|km2|sqmi|abbr=on}}||style="text-align:right"| 2,480,874||style="text-align:right"| {{convert|176.7|PD/sqkm|PD/sqmi}}||style="text-align:right"|16||[[Image:IranGilan-SVG.svg|80px]]
+|-
+| [[Provinsi Golestan|Golestan]] || [[Gorgan]] ||style="text-align:right"| {{convert|20,195|km2|sqmi|abbr=on}}||style="text-align:right"| 1,777,014||style="text-align:right"| {{convert|88.0|PD/sqkm|PD/sqmi}}||style="text-align:right"|11||[[Image:IranGolestan-SVG.svg|80px]]
+|-
+| [[Provinsi Hamadn|Hamadan]] || [[Hamadan]] ||style="text-align:right"| {{convert|19,368|km2|sqmi|abbr=on}}||style="text-align:right"| 1,758,268||style="text-align:right"| {{convert|90.8|PD/sqkm|PD/sqmi}}||style="text-align:right"|8||[[Image:IranHamadan-SVG.svg|80px]]
+|-
+| [[Provinsi Hormozgn|Hormozgn]] || [[Bandar Abbas]] ||style="text-align:right"| {{convert|70,669|km2|sqmi|abbr=on}}||style="text-align:right"| 1,578,183||style="text-align:right"| {{convert|22.3|PD/sqkm|PD/sqmi}}||style="text-align:right"|11||[[Image:IranHormozgan-SVG.svg|80px]]
+|-
+| [[IProvinsi lm|Ilam]] || [[Ilam, Iran|Ilam]] ||style="text-align:right"| {{convert|20,133|km2|sqmi|abbr=on}}||style="text-align:right"| 557,599||style="text-align:right"| {{convert|27.7|PD/sqkm|PD/sqmi}}||style="text-align:right"|7||[[Image:IranIlam-SVG.svg|80px]]
+|-
+| [[Provinsi Isfahan|Isfahan]] || [[Isfahan]]||style="text-align:right"| {{convert|107,029|km2|sqmi|abbr=on}}||style="text-align:right"| 4,879,312||style="text-align:right"| {{convert|45.6|PD/sqkm|PD/sqmi}}||style="text-align:right"|21||[[Image:IranEsfahan-SVG.svg|80px]]
+|-
+| [[Provinsi Kerman|Kerman]] || [[Kerman]] ||style="text-align:right"| {{convert|180,836|km2|sqmi|abbr=on}}||style="text-align:right"| 2,938,988||style="text-align:right"| {{convert|16.3|PD/sqkm|PD/sqmi}}||style="text-align:right"|14||[[Image:IranKerman-SVG.svg|80px]]
+|-
+| [[Provinsi Kermanshah|Kermanshah]]|| [[Kermanshah]] ||style="text-align:right"| {{convert|24,998|km2|sqmi|abbr=on}}||style="text-align:right"| 1,945,227||style="text-align:right"| {{convert|77.8|PD/sqkm|PD/sqmi}}||style="text-align:right"|13||[[Image:IranKermanshah-SVG.svg|80px]]
+|-
+| [[Provinsi Khorasan Utara|Khorasan Utara]] || [[Bojnourd]] ||style="text-align:right"| {{convert|28,434|km2|sqmi|abbr=on}}||style="text-align:right"| 867,727||style="text-align:right"| {{convert|30.5|PD/sqkm|PD/sqmi}}||style="text-align:right"|6||[[Image:IranNorthKhorasan-SVG.svg|80px]]
+|-
+| [[Provinsi Razavi Khorasan|Khorasan, Razavi]] || [[Mashhad]] ||style="text-align:right"| {{convert|144,681|km2|sqmi|abbr=on}}||style="text-align:right"| 5,994,402||style="text-align:right"| {{convert|41.4|PD/sqkm|PD/sqmi}}||style="text-align:right"|29|||[[Image:IranRazaviKhorasan-SVG.svg|80px]]
+|-
+| [[Provinsi Khorasan Selatan|Khorasan Selatan]] || [[Birjand]] ||style="text-align:right"| {{convert|69,555|km2|sqmi|abbr=on}}||style="text-align:right"| 662,534||style="text-align:right"|{{convert|9.5|PD/sqkm|PD/sqmi}} ||style="text-align:right"|8||[[Image:IranSouthKhorasan-SVG.svg|80px]]
+|-
+| [[Provinsi Khzestn|Khuzestan]] || [[Ahvaz]] ||style="text-align:right"| {{convert|64055|km2|sqmi|abbr=on}}||style="text-align:right"| 4,345,607||style="text-align:right"| {{convert|67.8|PD/sqkm|PD/sqmi}}||style="text-align:right"|18||[[Image:IranKhuzestan-SVG.svg|80px]]
+|-
+| [[Provinsi Kohgiluyeh dan Boyer-Ahmad|Kohgiluyeh dan Boyer-Ahmad]] || [[Yasuj]] ||style="text-align:right"| {{convert|15,504|km2|sqmi|abbr=on}}||style="text-align:right"| 658,629||style="text-align:right"| {{convert|42.5|PD/sqkm|PD/sqmi}}||style="text-align:right"|5||[[Image:IranKohkiluyehBuyerAhmad-SVG.svg|80px]]
+|-
+| [[Provinsi Kordestn|Kurdistan]] || [[Sanandaj]] ||style="text-align:right"| {{convert|29,137|km2|sqmi|abbr=on}}||style="text-align:right"| 1,493,645||style="text-align:right"| {{convert|51.3|PD/sqkm|PD/sqmi}}||style="text-align:right"|9||[[Image:IranKurdistan-SVG.svg|80px]]
+|-
+| [[Provinsi Lorestn|Lorestan]] || [[Khorramabad]] ||style="text-align:right"| {{convert|28,294|km2|sqmi|abbr=on}}||style="text-align:right"| 1,754,243||style="text-align:right"| {{convert|62.0|PD/sqkm|PD/sqmi}}||style="text-align:right"|9||[[Image:IranLorestan-SVG.svg|80px]]
+|-
+| [[Provinsi Markazi|Markazi]] || [[Arak, Iran|Arak]] ||style="text-align:right"| {{convert|29,130|km2|sqmi|abbr=on}}||style="text-align:right"| 1,413,959||style="text-align:right"|{{convert|48.5|PD/sqkm|PD/sqmi}} ||style="text-align:right"|10||[[Image:IranMarkazi-SVG.svg|80px]]
+|-
+| [[Provinsi Mazandaran|Mazandaran]] || [[Sari, Iran|Sari]] ||style="text-align:right"| {{convert|23,701|km2|sqmi|abbr=on}}||style="text-align:right"| 3,073,943||style="text-align:right"|{{convert|129.7|PD/sqkm|PD/sqmi}}||style="text-align:right"|15||[[Image:IranMazandaran-SVG.svg|80px]]
+|-
+| [[Provinsi Qazvin|Qazvin]]|| [[Qazvin]] ||style="text-align:right"| {{convert|15,549|km2|sqmi|abbr=on}}||style="text-align:right"| 1,201,565||style="text-align:right"|{{convert|77.3|PD/sqkm|PD/sqmi}}||style="text-align:right"|5||[[Image:IranQazvin-SVG.svg|80px]]
+|-
+| [[Provinsi Qom|Qom]] || [[Qom]] ||style="text-align:right"| {{convert|11,526|km2|sqmi|abbr=on}}||style="text-align:right"| 1,151,672||style="text-align:right"|{{convert|99.9|PD/sqkm|PD/sqmi}} ||style="text-align:right"|1||[[Image:IranQom-SVG.svg|80px]]
+|-
+| [[Provinsi Semnan|Semnan]]|| [[Semnan]] ||style="text-align:right"| {{convert|97,491|km2|sqmi|abbr=on}}||style="text-align:right"| 631,218||style="text-align:right"|{{convert|6.5|PD/sqkm|PD/sqmi}}||style="text-align:right"|4||[[Image:IranSemnan-SVG.svg|80px]]
+|-
+| [[Provinsi Sistan dan Baluchestan|Sistan dan Baluchestan]]
+ || [[Zahedan]] ||style="text-align:right"| {{convert|181,785|km2|sqmi|abbr=on}}||style="text-align:right"| 2,534,327||style="text-align:right"| {{convert|13.9|PD/sqkm|PD/sqmi}}||style="text-align:right"|8||[[Image:IranSistanBaluchistan-SVG.svg|80px]]
+|-
+| [[Provinsi Tehran|Tehran]]
+|| [[Tehran]] ||style="text-align:right"| {{convert|18,814|km2|sqmi|abbr=on}}||style="text-align:right"| 12,183,391||style="text-align:right"| {{convert|647.6|PD/sqkm|PD/sqmi}}||style="text-align:right"|13||[[Image:IranTehran-SVG.svg|80px]]
+|-
+| [[Provinsi Yazd|Yazd]] || [[Yazd]] ||style="text-align:right"| {{convert|129,285|km2|sqmi|abbr=on}}||style="text-align:right"| 1,074,428||style="text-align:right"| {{convert|8.3|PD/sqkm|PD/sqmi}}||style="text-align:right"|10||[[Image:IranYazd-SVG.svg|80px]]
+|-
+| [[Provinsi Zanjan|Zanjan]]|| [[Zanjan]] ||style="text-align:right"| {{convert|21,773|km2|sqmi|abbr=on}}||style="text-align:right"| 1,015,734||style="text-align:right"| {{convert|46.6|PD/sqkm|PD/sqmi}}||style="text-align:right"|7||[[Image:IranZanjan-SVG.svg|80px]]
+|-class="sortbottom"
+|-class="sortbottom"
+|'''[[Iran]] (Total)''' ||'''[[Tehran]]''' ||style="text-align:right"|'''{{convert|1,628,554|km2|sqmi|abbr=on}}''' ||style="text-align:right"|'''75,149,669''' ||style="text-align:right"|'''{{convert|46.1|PD/sqkm|PD/sqmi}}''' ||style="text-align:right"|'''342'''||[[Image:Iran location map.svg|80px]]
+|}
+
+==Lihat pula ==
+* [[Iran]]
+* [[Geografi Iran]]
+* [[ISO 3166-2:IR]]
+
+== Referensi dan catatan ==
+{{Reflist|2}}
+
+== Pranala luar==
+{{Commons category}}
+* {{Wikiatlas|Iran}}
+* [http://www.sci.org.ir/english/default.htm Statistical Centre, Government of Iran]
+* [http://en.tpo.ir/documents/document/13244/13512/portal.aspx Iranian Provinces Investment] - Trade Promotion Organization of Iran, affiliated to the [[Ministry of Commerce (Iran)]]
+* {{Statoids|id=uir|title=Provinces of Iran}}
+; Website Provinsi
+{{Div col||20em}}
+* [http://ardabil.ir/Default.aspx Ardabil]
+* [http://www.ostan-as.gov.ir East Azarbaijan]
+* [http://www.ostan-ag.gov.ir West Azarbaijan]
+* [http://www.ost-boushehr.ir Bushehr]
+* [http://www.ostan-cb.ir Chahar Mahaal and Bakhtiari]
+* [http://www.farsp.ir/portal/show.aspx?Page=322 Fars]
+* [http://www.ostan-gl.ir Gilan]
+* [http://www.golestanstate.ir Golestan]
+* [http://www.ostan-hm.ir Hamadan]
+* [http://www.hormozgan.ir Hormozgan]
+* [http://www.portal-il.ir Ilam]
+* [http://www.ostan-es.ir/user/Index.jsp Isfahan]
+* [http://www.kermanprovince.ir Kerman]
+* [http://www.portal-ks.ir Kermanshah]
+* [http://www.nkhorasan.ir North Khorasan]
+* [http://www.khorasan.ir Razavi Khorasan]
+* [http://www.sk-portal.ir South Khorasan]
+* [http://www.ostan-kz.ir Khuzestan]
+* [http://www.ostan-kb.ir Kohgiluyeh and Boyer Ahmad]
+* [http://www.ostan-kd.ir Kurdistan]
+* [http://www.lorestan.ir Lorestan]
+* [http://www.ostan-mr.ir Markazi]
+* [http://www.ostan-mz.ir Mazandaran]
+* [http://www.qazvin.gov.ir Qazvin]
+* [http://www.qomict.ir/old-site/portal Qom]
+* [http://www.ostan-sm.ir Semnan]
+* [http://www.sbportal.ir Sistan and Baluchestan]
+* [http://www.ostan-th.ir Tehran]
+* [http://www.ostan-yz.ir Yazd]
+* [http://www.ostan-zn.ir Zanjan]
+{{Div col end}}
+{{Provinsi Iran}}
+{{Pembagian administratif I}}
+{{negara-geo-stub|Iran}}
+[[Category:Iran| ]]

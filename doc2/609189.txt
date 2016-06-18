@@ -1,0 +1,35 @@
+Freya bifurcata
+{{Taxobox
+|name = Freya bifurcata
+|status = 
+|image = 
+|image_caption = 
+|domain = 
+|regnum = [[Animalia]]
+|phylum = [[Arthropoda]]
+|classis = [[Arachnida]]
+|ordo = [[Araneae]]
+|familia = [[Salticidae]]
+|genus =Freya
+|species = Freya bifurcata
+|binomial = Freya bifurcata
+|binomial_authority =F O P-Cambridge, 1901
+|range_map = 
+|range_map_caption = 
+|image2 = 
+|image2_caption = 
+|synonyms = 
+}}
+'''''Freya bifurcata''''' adalah spesies [[laba-laba]] yang tergolong [[familia]] [[Salticidae]]. Spesies ini juga merupakan bagian dari genus [[Freya]] dan ordo [[Araneae]]. Nama ilmiah dari spesies ini pertama kali diterbitkan pada tahun 1901 oleh F O P-Cambridge.
+
+Laba-laba ini biasanya banyak ditemui di Panama.
+
+== Referensi ==
+
+* Platnick, Norman I. (2010): [http://research.amnh.org/entomology/spiders/catalog/LINYPHIIDAE.html The world spider catalog], version 10.5. ''American Museum of Natural History''.
+
+{{DEFAULTSORT:Freya bifurcata}}
+
+[[Kategori:Salticidae]]
+
+{{labalaba-stub}}

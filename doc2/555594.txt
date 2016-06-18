@@ -1,0 +1,6 @@
+Templat:Kematian terkini
+<!--{{Recent death}} begin-->{{#ifeq:{{NAMESPACE}}|{{<includeonly>subst:</includeonly>NAMESPACE}}|<includeonly>[[Category:Pages with incorrectly substituted templates|{{PAGENAME}}]]</includeonly>|}}{{Ambox
+| type  = notice
+| image = [[Berkas:Gnome globe current event.svg|50x40px]]
+| text  = Artikel ini tentang '''seorang [[Daftar tokoh yang meninggal dunia pada tahun {{{tahun|{{CURRENTYEAR}}}}}|tokoh yang baru saja meninggal]]'''. Beberapa informasi, terutama seputar sebab kematian dan pemakamannya, dapat berubah-ubah sewaktu-waktu.
+}}<includeonly>{{#if:{{NAMESPACE}}|<!-- don't categorize -->|[[Kategori:Kematian{{#if:{{{1|}}}|{{!}}{{{1}}}}}]]}}{{DMCA|Peristiwa terkini|dari|{{{date|}}}}}</includeonly><!--{{Recent death}} end-->

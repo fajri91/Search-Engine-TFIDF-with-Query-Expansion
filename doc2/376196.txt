@@ -1,0 +1,4 @@
+Templat:Isfdb name
+{{en}} [http://www.isfdb.org/cgi-bin/ea.cgi?{{{1|{{{id|{{PAGENAMEE}}}}}}}} {{{2|{{{name|{{PAGENAME}}}}}}}}] di [[Internet Speculative Fiction Database]]<noinclude>
+{{documentation}}
+</noinclude>

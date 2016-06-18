@@ -1,0 +1,34 @@
+Provinsi Matera
+{{Infobox_ProvinceIT |
+  fullname              = Provincia di Matera|
+  name                  = Matera|
+  region                = [[Basilicata]] |
+  capital               = [[Matera]] |
+  commune               = 31 |
+  area                  = 3,447 |
+  population_as_of      = (2005) |
+  population            = 203,837 |
+  populationdensity     = 59.1 |
+  vehicle               = MT |
+  postal_code           = 75100 |
+  telephone_prefix      = 0835 |
+  ISTAT                 = 077 |
+  president             = Franco Stella |
+  executive             = [[Democratic Party (Italy)|Democratic Party]]|
+  map                   = [[Berkas:Matera posizione.png|150px|]]|
+  coatofarms            = |
+}}
+
+'''Matera''' ([[bahasa Italia]]: ''Provincia di Matera'') adalah sebuah [[Provinsi Italia|provinsi]] di ''regione'' [[Basilicata]] di [[Italia]]. Ibukotanya berada di kota [[Matera]].
+
+Luasnya adalah 3.446 km, dan populasinya sebesar 204.239 ([[2001]]). Ada 31 ''comune'' di provinsi ini (sumber: ''Istat'', lihat [http://www.upinet.it/indicatore.asp?id_statistiche=6 pranala ini]).
+
+== Pranala luar ==
+
+* [http://www.provincia.matera.it Provincia di Matera]
+
+{{Basilicata}}
+{{Provinsi Matera|nocat=yes}}
+
+[[Kategori:Provinsi di Italia|Matera]]
+[[Kategori:Provinsi Matera| {{PAGENAME}}]]

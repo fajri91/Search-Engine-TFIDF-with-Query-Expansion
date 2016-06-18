@@ -1,0 +1,76 @@
+Kapal bantalan udara
+[[Berkas:LCAC_19970620.jpg|thumb|right|250px|Sebuah ''hovercraft'' militer milik Angkatan Laut Amerika Serikat]]
+[[Berkas:Tests on Kotuy river.JPG|thumb|250px|Hovercraft Hivus-10]]
+'''Kapal bantalan udara''' ({{lang-en|hovercraft}}) atau '''kapal melayang''' adalah suatu kendaraan yang berjalan di atas bantalan udara (''air cushion''). Bantalan udara tersebut ditimbulkan dengan cara meniupkan udara ke ruang bawah kapal ini (''plenum chamber'') melalui skirt (sekat yang lentur) sehingga tekanan udara di dalam ''plenum chamber'' lebih tinggi daripada tekanan udara luar sehingga timbul gaya angkat.<ref>[http://www.balipost.co.id/BaliPostcetak/2005/12/27/i1.htm "Hovercraft sebuah alternatif moda transportasi".''Balipost online''(27 Desember 2005)]</ref>
+
+Untuk menggerakkan kapal bantalan udara, digunakan gaya dorong yang diperoleh dari [[baling-baling]] seperti pada pesawat udara. Gaya angkat kapal ini bekerja pada penampang yang luas, sehingga tekanan terhadap tanah atau air (''ground pressure'') yang ditimbulkan tidak besar. Dengan demikian, kendaraan ini dapat berjalan di atas lumpur, air maupun daratan dengan membawa beban yang cukup berat. Karena tidak adanya kontak langsung antara ''hovercraft'' dan permukaan daratan atau air, maka hambatan yang terjadi kecil sehingga ''hovercraft'' dapat melaju dengan kecepatan tinggi.
+
+== Prinsip bantalan udara ==
+Prinsip penggunaan bantalan udara ini pertama kali dirancang oleh [[John Thorneycroft]] pada tahun 1879. Pada tahun 1953, dikembangkan oleh [[Christoper Cockerell]], juga dari Inggris. Ternyata metode baru Cockerell ini dinilai sebagai salah satu percobaan yang berhasil menakjubkan.
+
+Prinsip Cockerell ini pada memerangkap udara ke dalam bantalan yang dipasang sebagai hull kapal, dengan tujuan menghilangkan geseran pada hull kapal dari permukaan air, yang menurutnya aka memperlambat jalannya kapal seperti pada kapal konvensional. Proses itu tercapai dengan cara meniupkan udara kedalam bantalan yang dipasang pada dasar kapal, untuk menimbulkan pendangkalan ke atas dan ke bawah dengan tekanan yang lebih ringan dari [[atmosfer]], dan memerangkap udara yang masuk dengan tabir udara yang bertakanan tinggi di sekitar sisi hull. Udara yang diperangkap dalam bantalan itu menghasilkan daya angkat sampai tiga kali lebih besar dibandingkan bila memasukkan udara secara langsung kedalam bantalan. Cockerell menciptakan model ''free-flight'' dengan menggunakan sistem ini diikuti konstruksi hovercraft bersekala penuh.
+
+Pada tahun 1961, diperkenalkan sistem baru yang dikenal sebagai "Flexible Skirt System" yaitu menggunakan material karet sebagai penutup sisi bantalan sekitar hull sehingga penutup ini menyerupai rok yang dinamakan skirt. Hal itu dilakukan untuk menutup biaya produksi dan fungsi rok ini untuk menggantikan fungsi tabir udara dalam pengisian bantalan. Dengan penggunaan bantalan sebagai dasar kapal berarti resistan air menjadi kecil dan dengan dorongan tenaga propeler, kecepatan akan tiga kali lebih besar dibandingkan dengan kapal biasa. Selain itu, bantalan udara yang terbuat dari karet yang kuat memungkinkan kapal jenis ini dapat bergerak diberbagai medan, tidak hanya di air namun juga dirawa-rawa.
+
+== Komponen utama ==
+* ''Lambung'' yakni badan kapal yang dapat dibuat dari [[aluminium]] ataupun [[serat kaca]] yang dibuat kedap air. Rongga di dalam lambung ini diisi dengan busa poliuretana yang membuat ''hovercraft'' tetap mengapung jika terjadi kebocoran pada lambung.
+* ''Skirt'' yaitu bagian ''hovercraft'' yang berfungsi untuk menahan udara di bawah ''hovercraft'' agar tidak mudah keluar. ''Skirt'' terbuat dari tekstil yang dilapisi karet untuk menjaga agar udara tetap berada di dalam ruang di bawah lambung kapal. 
+* Sumber tenaga ''hovercraft'' biasanya disediakan oleh mesin diesel atau bensin. Mesin digunakan untuk memutar baling-baling yang akan menghasilkan gaya dorong.
+
+[[Berkas:Hivus-48 hovercraft working at Nizhniy Novgorod-Bor crossing.jpg|thumb|300px|A48 hovercraft dengan penumpang dekat Nizhny Novgorod kota, Rusia]]
+
+[[Berkas:Hovercraft-MVPP10.jpg|thumb|300px|Hovercraft pengangkut penumpang di lepas pantai Bandara ita]]
+
+== Jenis-jenis Hovercraft ==
+
+* Open Plenum
+
+Jenis ini menggunakan konstruksi ruang terbuka dengan sebuah ruang besar yang berisi udara bertekanan tinggi. Konstruksi semacam ini memerlukan tenaga/energi yang besar untuk menjamin adanya tekanan yang cukup tinggi.
+
+* Peripheral Jet
+
+Konstruksi rancangan Sir Christoper Cockerel memakai ''jet annular'' (cincin), udara dipompa ke sekeliling sisi kendaraan. Tenaga yang diperlukan lebih sedikit, untuk membangkitkan alas bantalan udara secara terus menerus.
+
+* Plexible Skirt
+
+Pada konstruksi ini, selubung flexible pada jet annular menyebabkan penambahan ketinggian letak hovercraft sampai 10 kali lipat, dengan demikian hovercraft dapat melintasi medan darat yang permukaannya tidak rata maupun medan pantai yang kurang baik.
+
+* Fixed Wall
+
+Pada konstruksi ini, hovercraft dengan dinding sisi yang baku ini dikenal dengan itilah CAB (Capture Air Bubble atau Gelembung Udara yang Diperangkap), dilengkapi dengan selubung yang bagian ringkas pada sisi haluan sedangkan dinding sisi dapat menutup rapat bantalan udara pada bagian bawah kendaraan.
+
+Pada hovercraft, jenis selubung yang lain dari bantalan angin yang lazim berupa kantung yang ringkas dengan tonjolan yang berdungsi sebagai penjejak dengan permukaan yang dilalui dan membentuk sekat penutup di sekitar bantalan udara.
+
+== Sejarah ==
+Rancangan kendaraan mirip ''hovercraft'' yang pertama dicatat adalah pada tahun [[1716]] oleh Emanuel Swedenborg, seorang perancang, filsuf dan teolog [[Swedia]]. Rancangannya berupa sebuah kendaraan berbantalan udara bertenaga manusia dengan sebuah kokpit di tengah. Pada pertengahan 1980-an, seorang insinyur [[Britania Raya]] bernama Sir John Isaac Thornycroft membuat sejumlah model kendaraan yang menggunakan udara di antara badan kendaraan dan air untuk mengurangi hambatan (''drag''). Walaupun ia mematenkan sejumlah paten yang berhubungan dengan lambung kapal yang memakai udara untuk mengurangi hambatan pada 1877, tidak ada satupun dari patennya yang diaplikasikan.
+
+[[Berkas:Hoverlloyd hovercraft on an English Channel beach, 1973.jpg|thumb|right|300px|Hovercraft Hoverlloyd SR.N4 GH-2004 di Teluk Hoverport, English Channel, 1973]]
+
+== Penggunaan Hovercraft ==
+
+Setelah mengalami berbagai penyempurnaan teknis, hovercraft mulai diproduksi secara pabrikan. Pabrik yang pertama kali memproduksi adalah [[Saunders-Roe]], yang dibiayai oleh Britain's National Research Development Corporation yaitu tipe SR. N1, sampai kemudian diproduksi jenis SR. N4 berkapasitas 254 penumpang dan 30 kendaraan.
+
+Namun sangat disayangkan, perkembangan hovercraft yang ditanggapi berbagai kalangan bidang kemaritiman, terkesan kurang populer, bukan karena kemampuannya yang disangsikan, namun strategi pemasaran dari pihak produsennya yang kurang begitu menjangkau dunia luas. Berbagai negara dianggap lamban dalam penggunaan dan pengembangan hovercraft. Padahal bila ditinjau dari segi biaya, pembuatan hovercraft dewasa ini lebih murah dibandingkan dengan pembuatan kapal perang konvensional. Menurut konsultan [[Amerika Serikat]], [[Lavis Associates]], banyak negara-negara yang memiliki potensi bahan baku [[karet]] alam yang nantinya dipergunakan khususnya jenis SIR-5L ataupun SIR-10, kemudian studi dengan memperhitungkan pembiayaan pembuatan, penggunaan propulsi diesel sebagai pengganti propeler udara dan dari segi ekonomis juga timbul dalam perancangannya.
+
+Untuk penggunaan di bidang sipil, sejauh ini hanya [[Inggris]] yang menggnakannya untuk kepentingan konvensional. Perusahaan Hoverlloyd mengoperasikan hovercraft sebagai sarana angkutan laut jarak dekat dengan memperoleh keuntungan dengan mengoperasikannya.
+
+Penggunaan Hovercraft justru lebih banyak dibidang militer, dengan pertimbangan pakar strategi, hanya 17 persen dari garis pantai diseluruh dunia yang mampu didarati oleh kapal pendarat konvensional. Sedangkan 73 persen dari garis pantai di seluruh dunia hanya dapat dipakai oleh kapal pendarat jenis hovercraft serta 10 persen sisanya merupakan medan yang sama sekali tidak dapat dijangkau dengan kapal/perahu pendarat dari jenis-jenis yang ada saat ini, karena merupakan tebing yang tinggi dan curam serta memiliki kontur yang sangat tidak menguntungkan.
+
+Dari negera yang mengoperasikan hovercraft di bidang militer, tercatat Inggris yang banyak mengoperasikannya. Pabrik terbesar yang kemudian memproduksi hovercraft adalah [[British Hovercraft Corporation]] (BHC). Militer Inggris mengoperasikan yakni type BH7Mk20 yang dibuat tiga versi diantaranya penyapu ranjau, serbu cepat dan pendukung logistik.
+
+Varian lain yakni SR. N6 Mk6 sebagai sarana angkut persoel dan patroli, kemudian varian AP1-88 sebagai multy-duty hovercraft yang dibuat berbagai versi diantaranya penyapu [[ranjau]], anti[[kapal selam]], SAR-patroli pantai, serbu amfibi, pendukung logistik serta keperluan polisi perairan dan bea-cukai. Type AP1-88 digolongkan dalam jenis LCVP (Landing Craft Vehicle Personnel).
+
+Angkatan Laut [[Amerika Serikat]] maupun korp marinirnya mengoperasikan Hovercraft type LCAC-1 (Landing Craft Air Cushion) yang diproduksi oleh [[Textron]], sebagai sarana penunjang operasi pendaratan amfibi Korps Marinir Amerika Serikat (USMC). Mampu membawa satu unit tank tempur utama tupe [[M1A1 Abrams]] atau empat unit LAV sekalikus dan beberapa personel maupun bekal. Sementara itu, Amerika Serikat mengoperasikan hovercraft jenis ringan atau kecil guna kepentingan patroli sungai yang efektif, dari type PACV (Patrol Air Cushion Vehicle) sementara kalangan AS sendiri menyebut hovercraft sebagai Air Cushion Vehicle.
+
+Sementara [[Rusia]] (dulu [[Uni Soviet]]) memproduksi hovercraft yang diproduksi dalam tiga jenis yakni kelas Aist berbobot 250 ton dengan kemampuan membawa empat unit tank ringan jenis [[PT-76]] atau satu buah tank tempur utama jenis T-72M, atau membawa 220 personel dengan perlengkapan dan kapasitas jelajahnya mulai dari tengah laut hingga masuk melalui garis pantai. Kemudian kelas Lebed berbobot 85 ton dan kelas Gus berbobot 27 ton. Untuk keperluan yang akan datang, negara-negara ini akan meningkatkan kemampuan hovercraft yang dioperasikannya.
+
+Negara-negara lain yang banyak menggunakan Hovercraft yakni negara di Afrika (tidak disebutkan) dengan jenis produksi British Hovercraft Corporation (BHC), kemudian negara Timur-Tengah (juga tidak disebutkan negaranya) banyak menggunakan hovercraft lansiran BHC dengan type BH7 Mk20 versi multirole hovercraft, berkemampuan sebagai sarana serbu amfibi, antikapalselam, serbu cepat dan pembawa rudal.
+
+Di [[Asia]], [[Jepang]] dikabarkan tertarik untuk memproduksi dan mengoperasikan [[hovercraft]], meski masih belum jelas pengembangan dan operasionalnya. Kemudian tercatat [[Singapura]] yang juga ikut memproduksi Hovercraft. Atas rancangan dari [[Britain's Air Vehicle Ltd]], [[Inggris]], Singapura memproduksi hovercraft dengan nama Tiger-40 yang berkemampuan angkut 3, 25 ton dengan kecepatan maksimum 35 knot di air dan 20 knot didarat. Disebut-sebut menggunakan empat mesin diesel type pendingin udara pabrikan Deutz type BF6L913C dengan kapasitas bahan-bakar 820 liter dengan konsumsi 109 liter/jam. Hovercraft ini digunakan sebagai versi angkut personel dan angkut kendaraan. Hovercraft Singapura ini diproduksi oleh [[Singapore Shipbuilding And Engineering Ltd]]. Namun belum ada kabar tentang kelanjutan penggunaan hovercraft versi Singapura tersebut.
+
+== Referensi ==
+{{reflist}}
+* Majalah Teknologi dan Strategi Militer 26 tahun III edisi Agustus 1989.
+
+[[Kategori:Kendaraan amfibi]]
+[[Kategori:Jenis kapal|Bantalan udara]]

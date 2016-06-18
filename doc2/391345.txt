@@ -1,0 +1,210 @@
+Recife Metro
+{{Infobox Public transit
+|name = Recife Metro
+|image = Metrorec - Estao Imbiribeira 2 - Recife, Pernambuco, Brasil.jpg
+|imagesize = 250px
+|locale = [[Recife]]
+|transit_type = [[Angkutan cepat]]
+|began_operation = 1985
+|system_length = 39,5 km (24,6 mil)
+|lines = 2 (3)
+|stations = 28 (29)
+|ridership = 210,000
+|operator = Superintendncia de Trens Urbanos de Recife
+|map =
+}}
+
+'''Recife Metro''' ({{lang-pt|Metr do Recife}}, sering disebut ''Metr'') dioperasikan oleh CBTU/Metrorec, saat ini memiliki 28 stasiun dalam jalur sepanjang 39,5&nbsp;km (24,6&nbsp;mil).
+
+==Karakteristik sistem==
+[[Recife]] Metro saat ini memiliki Jalur Tengah (ke depan akan dipisah menjadi dua jalur) dan Jalur Selatan.
+
+Karena tingginya angka buta huruf di wilayah ini (sekitar 10.55% berdasarkan sensus tahun 2000 oleh [[IBGE]]), stasiun dirancang dengan menggunakan beberapa jenis identifikasi. Di samping layanan pesan suara yang mengumumkan nama dari perhentian, terdapat warna tertentu yang diberikan di tembok setiap stasiun dan tandanya diletakkan di sebelah simbol grafis di sebelah nama yang langsung bergandengan dengan peta yang disebar di seluruh bangunan.
+
+Kereta api di Jalur Tengah meninggalkan stasiun Recife dengan dua arah berbeda: kota [[Camaragibe]] dan [[Jaboato dos Guararapes]]. Hal ini terjadi karena fakta bahwa Jalur Tengah-1 (Camaragibe) dan Tengah-2 (Jaboato) berbagi jalur antara stasiun Recife dan Coqueiral, menggunakan rute dari jalur rel lama dimana sistem metro dibangun.
+
+Di Jalur Metrorec jarak rata-rata antar stasiun adalah 1,2 kilometer, dengan kecepatan komersial kereta adalah 40&nbsp;km/jam, dengan kecepatan tertinggi adalah 80&nbsp;km/jam {{Citation needed|date=April 2008}}. Lebar sepur adalah 1600&nbsp;mm dengan tenaga kereta yang diperoleh dari kabel udara.
+
+Sistem ini saat ini memiliki panjang rute total 34,7&nbsp;km dan setelah penyelesaian proyek ekspansi jaringan yang berkembang sejak pertengahan tahun 2005 jalur akan mencapai 39,5&nbsp;km.<ref>http://web.archive.org/web/20070928061721/http://www.cbtu.gov.br/acbtu/acompanhia/sistemas/rec/veja/recsist/slide9.jpg</ref>
+
+Dalam sistem ini juga terdapat beberapa jalur [[bus]] yang terhubung dengan terminal dari bus dan metro agar dapat memenuhi '''S.E.I''' (Sistema Estrutural Integrado - Sistem Struktural Terintegrasi), yang membuat penumpang dapat melanjutkan perjalanan dengan menggunakan tiket yang sama.<ref>http://www.cbtu.gov.br/acbtu/acompanhia/sistemas/rec/recsist_cont.htm</ref>
+
+==Sistem==
+[[File:MetroRec Estacao Joana Bezerra.JPG|thumb|right|[[Angkutan cepat|Metro]] di Recife.]]
+<center>
+{| class="wikitable" border="1"
+! align="center" | Jalur
+! align="center" | Terminal
+! align="center" | Tanggal pembukaan
+! align="center" | Panjang (km)
+! align="center" | Stasiun
+! align="center" | Perjalanan (menit)
+! align="center" | Jadwal
+|-
+|-
+|bgcolor="FF8C00" align="center" style="color:white"|Tengah - 1
+|align="center"|[[Recife]]  [[Camaragibe]]
+|align="center"|11 Maret [[1985]]
+|align="center"|---
+|align="center"|15*(1)
+|align="center"|28
+|align="center"|Harian, 5:00 hingga 23:00
+|-
+|-
+|bgcolor="FF0000" align="center" style="color:white"|Tengah - 2
+|align="center"|[[Recife]]  [[Jaboatao dos Guararapes|Jaboato]]
+|align="center"|29 Agustus [[1987]]
+|align="center"|---
+|align="center"|14
+|align="center"|24
+|align="center"|Harian, 5:00 hingga 23:00
+|-
+|-
+|bgcolor="1E90FF" align="center" style="color:white"|Selatan
+|align="center"|[[Recife]]  Cajueiro Seco
+|align="center"|28 Februari [[2005]]
+|align="center"|14,3
+|align="center"|13
+|align="center"|25<ref>http://www.cbtu.gov.br/operadoras/sites/menuprincrec.htm</ref>
+|align="center"|Harian, 5:00 hingga 23:00
+|-
+|-
+|Recife Metro
+|align="center"|Total '''(T1+T2+S)'''
+|align="center"|11 Maret 1985
+|align="center"|39,5
+|align="center"|29*(1)**
+|align="center"|---
+|align="center"|---
+|-
+|-
+|bgcolor="8B4513" align="center" style="color:white"|Kereta api diesel***
+|align="center"|[[Cabo de Santo Agostinho|Cabo]]  Curado in Recife
+|align="center"|Sejak [[1988]]
+|align="center"|31,5
+|align="center"|9
+|align="center"|54
+|align="center"|Senin sampai Sabtu, 5:00 hingga 20:00
+|}
+</center>
+
+<center>
+''(*) Stasiun dalam pembangunan, (**) Sistem dengan stasiun bertumpuk, (***) Kereta api diesel tidak termasuk sistem metro, namun berada dalam satu perusahaan''
+</center>
+
+==Stasiun==
+<center>
+{| class="wikitable" border="1"
+!align="center"|N
+!align="center"|'''Tengah - T1'''
+!align="center"|'''Tengah - T2'''
+!align="center"|'''Selatan - S'''
+!align="center"|'''Kereta Diesel - KD'''
+|-
+|-
+|align="center"|1
+|align="left"|[[Recife]] '''SEI'''
+|align="left"|[[Recife]] '''SEI'''
+|align="left"|[[Recife]] '''SEI'''
+|align="left"|Curado '''T1'''
+|-
+|align="center"|2
+|align="left"|Joana Bezerra* '''SEI'''
+|align="left"|Joana Bezerra* '''SEI'''
+|align="left"|Joana Bezerra* '''SEI'''
+|align="left"|Jorge Lins
+|-
+|align="center"|3
+|align="left"|Afogados '''SEI'''
+|align="left"|Afogados '''SEI'''
+|align="left"|Largo da Paz '''SEI'''
+|align="left"|Marcos Freire
+|-
+|align="center"|4
+|align="left"|Ipiranga
+|align="left"|Ipiranga
+|align="left"|Imbiribeira
+|align="left"|Cajueiro Seco '''SEI, S'''
+|-
+|align="center"|5
+|align="left"|Mangueira
+|align="left"|Mangueira
+|align="left"|Antonio Falco
+|align="left"|ngelo de Souza
+|-
+|align="center'|6
+|align="left"|Santa Luzia '''SEI'''
+|align="left"|Santa Luzia '''SEI'''
+|align="left"|Shopping Center Recife
+|align="left"|Pontezinha
+|-
+|align="center"|7
+|align="left"|Edgar Werneck
+|align="left"|Edgar Werneck
+|align="left"|Tancredo Neves '''SEI'''
+|align="left"|Ponte dos Carvalhos
+|-
+|align="center"|8
+|align="left"|Barro '''SEI'''
+|align="left"|Barro '''SEI'''
+|align="left"|Aeroporto - [[Bandar Udara Internasional Guararapes|Bandara]] '''SEI'''
+|align="left"|Santo Incio
+|-
+|align="center"|9
+|align="left"|Tejipi
+|align="left"|Tejipi
+|align="left"|Porta Larga
+|align="left"|[[Cabo de Santo Agostinho|Cabo]] '''SEI'''
+|-
+|align="center"|10
+|align="left"|Coqueiral**
+|align="left"|Coqueiral**
+|align="left"|Monte dos Guararapes
+|align="left"|
+|-
+|align="center"|11
+|align="left"|Alto do Cu
+|align="left"|Cavaleiro '''SEI'''
+|align="left"|Prazeres '''SEI'''
+|align="left"|
+|-
+|align="center"|12
+|align="left"|Curado '''KD'''
+|align="left"|Floriano
+|align="left"|Cajueiro Seco '''SEI, KD'''
+|align="left"|
+|-
+|align="center"|13
+|align="left"|Stasiun Rodoviria-Coach
+|align="left"|Engenho Velho
+|align="left"|
+|align="left"|
+|-
+|align="center"|-
+|align="left"|Cosme e Damio***
+|align="left"|
+|align="left"|
+|align="left"|
+|-
+|align="center"|14
+|align="left"|[[Camaragibe]] '''SEI'''
+|align="left"|[[Jaboatao dos Guararapes|Jaboato]]
+|align="left"|
+|align="left"|
+|}
+</center>
+'''''OBS.:''' SEI berarti terintegrasi dengan bus lokal; (*)T1, T2 dan S berjalan dalam jalur sama hingga J. Bezerra; (**) T1 , T2 berjalan dalam rute sama hingga Coqueiral; (***)dalam pembangunan''
+
+==Lihat juga==
+*[[Daftar sistem angkutan cepat]]
+
+==Pranala luar==
+* [http://www2.cbtumetrorec.gov.br/ Official website]
+* Parent company CBTU's [http://www.cbtu.gov.br/ website]; Contains links to other Brazilian urban rail systems
+* The three Lines' (Centro, Sul & Diesel) [http://www2.cbtumetrorec.gov.br/mapa.php map] at the official site
+* [http://www.flickr.com/groups/1153196@N24/ Photographic gallery] for the Diesel line (pictures taken at a "photographical excursion" involving several photo artists at 19 August 2009)
+
+==Referensi==
+{{Reflist}}
+
+[[Kategori:Angkutan cepat di Brasil]]

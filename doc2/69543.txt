@@ -1,0 +1,49 @@
+MP40
+{{Infobox senjata
+|name= MP40
+|image= [[Berkas:Maschinenpistole MP40.jpg|300px]]
+|caption= 
+|origin= [[Jerman]]
+|type= [[Pistol mitraliur]]
+<!-- Type selection -->
+|is_ranged=yes
+|is_bladed=
+|is_explosive=
+|is_artillery=
+|is_vehicle=
+<!-- Service history -->
+|service= 1939  1945
+|used_by=[[Jerman]]
+|wars= [[Perang Dunia II]]
+<!-- Production history -->
+|designer= [[Heinrich Vollmer]]
+|design_date=1938
+|manufacturer= Erma Werke
+|production_date= 1940-1945
+|number= Di atas 1 juta
+|variants= MP36, MP38, MP40, MP40/1, MP41
+<!-- General specifications -->
+|weight= 3,97 kg
+|length= 630 mm (popor dilipat){{br}}833 mm (popor tak dilipat)
+|part_length= 251 mm
+|crew=
+<!-- Ranged weapon specifications --> 
+|cartridge= [[9mm Luger|9 x 19 mm]]
+|caliber=
+|action= Blowback, bolt terbuka
+|rate= 500 butir/menit
+|velocity= ~380 m/s (~1247 ft/s)
+|range= ~ 100 m
+|max_range= 
+|feed= [[Magazen]] box 32-butir
+|sights= Depan tiang, belakang tangent U
+}}
+'''MP40''', singkatan dari '''''Maschinenpistole 40''''', adalah pistol mitraliur yang dikembangkan dan banyak dipakai oleh [[Jerman]] pada [[Perang Dunia II]]. Walaupun dari bentuknya terlihat kurang meyakinkan, MP40 merupakan senjata yang dirancang dengan baik. Terkadang tentara [[Amerika Serikat|Amerika]] menukarkan [[pistol mitraliur Thompson|Thompson]] atau [[M3 (senapan)|M3]] mereka dengan senapan ini. Karena kecepatan menembaknya lambat, tendangan senapan ini lebih bisa dikontrol, membuatnya lebih akurat.
+
+== Pranala luar ==
+* [http://www.nazarian.no/wep.asp?id=140&group_id=4&country_id=60&lang=0 MP40 di situs Nazarian`s Gun`s Recognition Guide]
+
+[[Kategori:Pistol mitraliur]]
+
+
+{{senapan-stub}}

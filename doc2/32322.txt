@@ -1,0 +1,24 @@
+Templat:Kabupaten Bolaang Mongondow
+{{Navbox
+| name = Kabupaten Bolaang Mongondow
+| listclass = hlist
+| title =[[Kabupaten Bolaang Mongondow]], [[Sulawesi Utara]]
+| image = [[Berkas:Lambang Kabupaten Bolaang Mongondow.png|30px|Lambang Kabupaten Bolaang Mongondow]]
+| group1 = Kecamatan
+| list1 = <div><!--
+-->[[Bilalang, Bolaang Mongondow|Bilalang]]{{}}<!--
+-->[[Bolaang, Bolaang Mongondow|Bolaang]]{{}}<!--
+-->[[Bolaang Timur, Bolaang Mongondow|Bolaang Timur]]{{}}<!--
+-->[[Dumoga Barat, Bolaang Mongondow|Dumoga Barat]]{{}}<!--
+-->[[Dumoga Timur, Bolaang Mongondow|Dumoga Timur]]{{}}<!--
+-->[[Dumoga Utara, Bolaang Mongondow|Dumoga Utara]]{{}}<!--
+-->[[Lolak, Bolaang Mongondow|Lolak]]{{}}<!--
+-->[[Lolayan, Bolaang Mongondow|Lolayan]]{{}}<!--
+-->[[Passi Barat, Bolaang Mongondow|Passi Barat]]{{}}<!--
+-->[[Passi Timur, Bolaang Mongondow|Passi Timur]]{{}}<!--
+-->[[Poigar, Bolaang Mongondow|Poigar]]{{}}<!--
+-->[[Sangtombolang, Bolaang Mongondow|Sangtombolang]]<!--
+--></div>
+}}<noinclude>
+[[Kategori:Templat kecamatan Indonesia|Bolaang Mongondow, Kabupaten]]
+</noinclude>

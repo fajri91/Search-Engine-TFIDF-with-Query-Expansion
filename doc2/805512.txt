@@ -1,0 +1,34 @@
+Templat:Kepala daerah di Kalimantan Timur
+{{Navbox
+|name = Kepala daerah di Kalimantan Timur
+|title = Kepala daerah [[petahana]] di [[Kalimantan Timur]]
+|state = autocollapse
+|listclass = hlist
+|image = [[Berkas:Lambang Provinsi Kalimantan Timur.gif|50px]]
+|imagestyle = padding-left:1.0em;
+
+|above = [[Daftar Gubernur Kalimantan Timur|Gubernur]]: [[Awang Faroek Ishak]]
+
+|group1= [[Daftar bupati dan wali kota di Kalimantan Timur|Bupati]]
+|list1 = 
+*'''{{smallcaps|[[Daftar Bupati Berau|Berau]]}}''': {{nowrap|[[Muharram (bupati)|Muharram]]}}
+*'''{{smallcaps|[[Daftar Bupati Kutai Barat|Kutai Barat]]}}''': {{nowrap|[[Ismail Thomas]]}}
+*'''{{smallcaps|[[Daftar Bupati Kutai Kartanegara|Kutai Kartanegara]]}}''': {{nowrap|[[Rita Widyasari]]}}
+*'''{{smallcaps|[[Daftar Bupati Kutai Timur|Kutai Timur]]}}''': {{nowrap|[[Ismunandar]]}}
+*'''{{smallcaps|[[Daftar Bupati Paser|Paser]]}}''': {{nowrap|[[Yusriansyah Syarkawi]]}}
+*'''{{smallcaps|[[Daftar Bupati Penajam Paser Utara|Penajam Paser Utara]]}}''': {{nowrap|[[Yusran Aspar]]}}
+*'''{{smallcaps|[[Daftar Bupati Mahakam Ulu|Mahakam Ulu]]}}''': {{nowrap|[[Bonifasius Belawan Geh]]}}
+
+|group2= [[Daftar bupati dan wali kota di Kalimantan Timur|Wali Kota]]
+|list2 = 
+*'''{{smallcaps|[[Daftar Wali Kota Balikpapan|Balikpapan]]}}''': {{nowrap|[[Rizal Effendi]]}}
+*'''{{smallcaps|[[Daftar Wali Kota Bontang|Bontang]]}}''': {{nowrap|[[Adi Darma]]}}
+*'''{{smallcaps|[[Daftar Wali Kota Samarinda|Samarinda]]}}''': {{nowrap|[[Syaharie Ja'ang]]}}
+
+|below = ''Terakhir diperbarui pada 27 Oktober 2015''
+}}
+<noinclude>
+{{collapsible option}}
+[[Kategori:Templat navigasi tokoh Indonesia]]
+[[Kategori:Templat navigasi Kalimantan Timur]]
+</noinclude>

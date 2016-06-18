@@ -1,0 +1,15 @@
+Berkas:Ramin inflorescence.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+Bunga ramin
+Ramin fruit.jpg
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Fairuse}}

@@ -1,0 +1,10 @@
+Templat:Disambig suku
+{{penghubung|{{{1|{{{nama|{{PAGENAME}}}}}}}}}}
+*[[{{#if:{{{orang|}}}|Orang|Suku}} {{{1|{{{nama|{{PAGENAME}}}}}}}}]]
+*[[Bahasa {{{1|{{{nama|{{PAGENAME}}}}}}}}]]
+*{{#ifexist:Budaya {{{1|{{{nama|{{PAGENAME}}}}}}}}|[[Budaya {{{1|{{{nama|{{PAGENAME}}}}}}}}]]}}
+{{{2|{{{lain-lain<includeonly>|</includeonly>}}}}}}
+<includeonly>{{lihat pula disambig|{{{1|{{{nama|{{PAGENAME}}}}}}}}}}
+{{disambig {{{disambig|}}}}}</includeonly><noinclude>
+{{templat beresiko menengah}}
+[[Kategori:Templat disambiguasi|{{PAGENAME}}]]</noinclude>

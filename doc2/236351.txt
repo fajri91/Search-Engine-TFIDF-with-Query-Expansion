@@ -1,0 +1,58 @@
+Deret aritmetika
+'''Deret hitung''' atau '''deret aritmatika''' dalam bidang [[matematika]] adalah urutan [[bilangan]] di mana [[bilangan]] berikutnya merupakan penambahan bilangan sebelumnya dengan suatu bilangan [[beda]] tertentu. Contohnya adalah 3,5,7,9,11,13, ..... Deret aritmatika ini dapat dinyatakan dengan rumus sebagai berikut:
+:<math>a, a+b, a+2b, a+ 3b, ...</math>
+
+Dalam hal ini suku ke-n:
+:<math>\ a_n = a + (n - 1)b,</math>
+
+Jumlah semua suku:
+:<math> S_n=\frac{n}{2}(a + a_n)=\frac{n}{2}[2a + (n-1)b].</math>
+
+== Pembuktian ==
+; Suku ke-n
+:<math>a_1 = a</math>
+:<math>a_2 = a+b </math>
+:<math>a_3 = a+2b</math>
+....
+:<math>a_n = a+(n-1)b</math>
+
+jadi jumlah suku ke-n adalah <math>a_n = a+(n-1)b</math>
+
+; Jumlah suku ke-n
+:<math>s_n = a + a+b + a+2b + .... + a+(n-1)b</math> .... (1)
+:<math>s_n = a+(n-1)b + a+(n-2)b + a + (n-3)b + .... + a+2b + a+b + a</math> ... (2) dibalik dengan cara cermin
+
+persamaan (1) ditambah (2) menjadi:
+:<math>s_n + s_n = 2a+(n-1)b + 2a+(n-1)b + .... + 2a+(n-1)b</math> karena <math>2a+(n-1)b</math> sama banyaknya menjadi jumlah <math>n</math>
+:<math>2 s_n = n [2a+(n-1)b]</math> 
+:<math>s_n = \frac{n}{2} [2a+(n-1)b]</math>
+
+== Rumus umum ==
+:<math>a_n = a+(n-1)b</math>
+:<math>s_n = \frac{n}{2} [2a+(n-1)b]</math> 
+:<math>b = a_{n}-a_{n-1}</math> 
+:<math>u_t = \frac{a+{a_n}}{2}</math> 
+:<math>n_b = n+(n-1)x</math> 
+:<math>b_b = \frac{b}{x+1}</math>
+== Lihat pula ==
+* [[Deret (matematika)]]
+
+== Referensi ==
+<references/>
+*{{cite book
+|title = Fibonacci's Liber Abaci
+|author = Sigler, Laurence E. (trans.)
+|publisher = Springer-Verlag
+|year = 2002
+|isbn = 0-387-95419-8
+|pages = 259260}}
+
+== Pranala luar ==
+* {{springer|title=Arithmetic series|id=p/a013370}}
+* {{MathWorld|urlname=ArithmeticProgression|title=Arithmetic progression}}
+* {{MathWorld|urlname=ArithmeticSeries|title=Arithmetic series}}
+
+{{matematika-stub}}
+
+[[Kategori:Matematika]]
+[[Kategori:Aritmetika]]

@@ -1,0 +1,13 @@
+Berkas:Basril Basyar.jpg
+== {{int:filedesc}} ==
+{{Information
+|description    = [[Basril Basyar]], wartawan Indonesia.
+|source         = [http://www.semenpadang.co.id/?mod=manajemen&kat=&id=4 ''Website Resmi PT Semen Padang'']. Diakses 26 Juli 2015.
+|date           = 
+|location       = (tempat; opsional)
+|author         = 
+|permission     = 
+|other_versions = 
+}}
+== {{int:license-header}} ==
+{{Fairuse}}

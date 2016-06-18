@@ -1,0 +1,34 @@
+Gtaia
+{{Infobox settlement
+|name=Gtaia
+|settlement_type=Kota
+|total_type=&nbsp;
+|image_map=
+|map_caption=
+|coordinates_region=RO
+|subdivision_type=Country
+|subdivision_name={{flag|Romania}}
+|subdivision_type1=[[Provinsi di Rumania|Provinsi]]
+|subdivision_name1=[[Provinsi Timi]]
+|population_total=8103
+|population_as_of=2002
+|population_footnotes=
+|latd=45|latm=26|lats=|latNS=N|longd=21|longm=26|longs=|longEW=E
+|pushpin_map=Romania
+|timezone=[[Eastern European Time|EET]]|utc_offset=+2
+|timezone_DST=[[Waktu Musim Panas Eropa Timur|EEST]]|utc_offset_DST=+3
+}}
+
+[[Berkas:Gataia Station.JPG|thumb|260px|right|Stasiun kereta api di Gtaia]]
+'''Gtaia''' adalah sebuah kota di [[provinsi Timi]], [[Banat]], bagian barat [[Rumania]]. Berlokasi di sekitaran sungai [[sungai Brzava|Brzava]], jarak dari kota [[Timioara]] sejauh 52&nbsp;km (32 mil) dan 47&nbsp;km (29 mil) dari kota [[Reia]]. Jalur transportasi antar kota menggunakan kereta api yang dioperasikan oleh perusahaan kereta api [[Regiotrans]], yang melayani rute ke dan dari kota [[Buzia]] dan [[komune]] [[Jamu Mare]]. Kota ini merupakan tempat kelahiran [[striker]] kesebelasan sepakbola Rumania, [[Adalbert Deu]] yang memperkuat timnas Rumania pada [[Piala Dunia FIFA|piala dunia]] tahun 1930.
+
+{{Timi County}}
+
+{{coord|45|26|N|21|26|E|display=title|region:RO_type:city_source:GNS-enwiki}}
+
+{{DEFAULTSORT:Gataia}}
+[[Kategori:Kota di Rumania]]
+[[Kategori:Provinsi Timi]]
+
+
+{{Timi-geo-stub}}

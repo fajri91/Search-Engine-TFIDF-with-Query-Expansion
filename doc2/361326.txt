@@ -1,0 +1,23 @@
+Templat:Hinai, Langkat
+{{Navigasi ID Desa
+|provinsi=Sumatera Utara
+|dati2=Kabupaten
+|nama dati2=Langkat
+|nama kecamatan=Hinai
+|d1=Baru Pasar 8
+|d2=Cempa
+|d3=Hinai Kanan
+|d4=Kebun Lada
+|d5=Muka Paya
+|d6=Paya Rengas
+|d7=Perkebunan Tanjung Beringin
+|d8=Suka Damai
+|d9=Suka Damai Timur
+|d10=Suka Jadi
+|d11=Tamaran
+|d12=Tanjung Mulia
+|k1=Batu Melenggang
+}}<noinclude>
+[[Kategori:Templat desa/kelurahan di Sumatera Utara|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Langkat|{{PAGENAME}}]]
+</noinclude>

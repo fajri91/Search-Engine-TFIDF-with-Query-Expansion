@@ -1,0 +1,98 @@
+Templat:Zh
+<noinclude>{{esoteric}}
+</noinclude><!--
+        
+        If no parameter is named, default to giving Chinese
+
+-->{{#if:{{{c|}}}{{{s|}}}{{{t|}}}{{{p|}}}{{{hp|}}}{{{tp|}}}{{{w|}}}{{{wg|}}}{{{j|}}}{{{y|}}}{{{cy|}}}{{{poj|}}}{{{b|}}}{{{zhu|}}}{{{l|}}}| |{{Languageicon|zh|Tionghoa|{{{1|}}}|links={{{links|}}}}}}}<!--
+
+
+        General Chinese
+
+-->{{#if:{{{c|}}}|{{Language with name|zh|Tionghoa|{{{c|{{{1|}}}}}}|links={{{links|}}}}}{{#if:{{{l|}}}{{{poj|}}}{{{cy|{{{y|}}}}}}{{{j|}}}{{{w|{{{wg|}}}}}}{{{tp|}}}{{{hp|{{{p|}}}}}}{{{t|}}}{{{s|}}}{{{b|{{{zhu|}}}}}}|{{;}}&#32;}}|{{#ifeq:{{{s}}}|{{{t}}}|{{Language with name|zh|Mandarin|{{{s|{{{1|}}}}}}|links={{{links|}}}}}{{#if:{{{l|}}}{{{poj|}}}{{{cy|{{{y|}}}}}}{{{j|}}}{{{w|{{{wg|}}}}}}{{{tp|}}}{{{hp|{{{p|}}}}}}{{{t|}}}{{{s|}}}{{{b|{{{zhu|}}}}}}|{{;}}&#32;}}
+}}<!--
+
+         Make traditional display first if specified; otherwise, do nothing
+
+-->{{#ifeq:{{{first|{{#ifexist:Template:zh/format/{{FULLPAGENAME}}|{{zh/format/{{FULLPAGENAME}}}}}}}}}|t|{{#if:{{{t|}}}|{{#ifeq:{{{links|}}}|no|{{#if:{{{s|}}}|Hanzi&#32;}}Tradisional|[[Hanzi Tradisional|{{#if:{{{s|}}}|Hanzi&#32;}}Tradisional]]}}&#58; {{lang|zh-Hant|{{{t}}}}}{{#if:{{{l|}}}{{{poj|}}}{{{cy|{{{y|}}}}}}{{{j|}}}{{{w|{{{wg|}}}}}}{{{tp|}}}{{{hp|{{{p|}}}}}}{{{b|{{{zhu|}}}}}}{{{s|}}}|{{;}}&#32;}}}}
+}}}}<!--
+
+         Hanzi Sederhana
+
+-->{{#ifeq:{{{s}}}|{{{t}}}| |<!--             If s and t are the same, do nothing. otherwise
+-->{{#if:{{{s|}}}|<!--                        Do this if there's an s parameter:
+ -->{{#ifeq:{{{links|}}}|no|<!--              Choose whether or not to link "simplified Chinese"
+     -->{{#if:{{{t|}}}|simplified&#32;}}Tionghoa|<!--
+     -->[[Hanzi Sederhana|{{#if:{{{t|}}}|Hanzi&#32;}}Sederhana]]}}&#58; {{lang|zh-Hans|{{{s}}}<!--
+ -->}}<!--
+ -->{{#if:{{{t|}}}|<!--                        If there are also traditional characters:
+     -->{{#ifeq:{{{first|{{#ifexist:Template:zh/format/{{FULLPAGENAME}}|{{zh/format/{{FULLPAGENAME}}}}}}}}}|t|<!--            If traditional characters are first, decide whether to put a semicolon after simplified
+         -->{{#if:{{{l|}}}{{{poj|}}}{{{cy|{{{y|}}}}}}{{{j|}}}{{{w|{{{wg|}}}}}}{{{tp|}}}{{{hp|{{{p|}}}}}}{{{b|{{{zhu|}}}}}}|<!--
+             -->{{;}}&#32;<!--
+         -->}}|<!--
+         -->{{;}}&#32;<!--                     If traditional characters are second, definitely put a semicolon after
+     -->}}|<!--
+     -->{{#if:{{{l|}}}{{{poj|}}}{{{cy|{{{y|}}}}}}{{{j|}}}{{{w|{{{wg|}}}}}}{{{tp|}}}{{{hp|{{{p|}}}}}}{{{b|{{{zhu|}}}}}}|<!--
+         -->{{;}}&#32;<!--                     If there aren't traditional characters but there's some other stuff, put a semicolon after
+     -->}}<!--
+    -->}}<!--
+-->}}<!--
+-->}}<!--
+
+          Hanzi Tradisional
+
+-->{{#ifeq:{{{s}}}|{{{t}}}| |<!--             If s and t are the same, do nothing. otherwise
+-->{{#ifeq:{{{first|{{#ifexist:Template:zh/format/{{FULLPAGENAME}}|{{zh/format/{{FULLPAGENAME}}}}}}}}}|t| |{{#if:{{{t|}}}|{{#ifeq:{{{links|}}}|no|{{#if:{{{s|}}}|Hanzi&#32;}}Tradisional|[[Hanzi Tradisional|{{#if:{{{s|}}}|Hanzi&#32;}}Tradisional]]}}&#58; {{lang|zh-Hant|{{{t}}}}}{{#if:{{{l|}}}{{{poj|}}}{{{cy|{{{y|}}}}}}{{{j|}}}{{{w|{{{wg|}}}}}}{{{tp|}}}{{{hp|{{{p|}}}}}}{{{b|{{{zhu|}}}}}}|{{;}}&#32;}}
+}}}}}}<!--
+
+          Make tongyong display first if specified; otherwise, do nothing
+
+-->{{#ifeq:{{{first|{{#ifexist:Template:zh/format/{{FULLPAGENAME}}|{{zh/format/{{FULLPAGENAME}}}}}}}}}|t|{{#if:{{{tp|}}}|{{#ifeq:{{{links|}}}|no| |{{!(}}{{!(}}}}Tongyong&#32;Pinyin{{#ifeq:{{{links|}}}|no| |]]}}&#58; {{{tp}}}{{#if:{{{l|}}}{{{poj|}}}{{{cy|{{{y|}}}}}}{{{j|}}}{{{w|{{{wg|}}}}}}{{{hp|{{{p|}}}}}}{{{b|{{{zhu|}}}}}}|{{;}}&#32;}}
+}}}}<!--
+
+          Pinyin
+
+-->{{#if:{{{hp|{{{p|}}}}}}|<!--
+    If Tongyang vs. Hanyu:
+-->{{#if:{{{tp|}}}|{{#ifeq:{{{links|}}}|no|Hanyu&#32;Pinyin|[[Hanyu&#32;Pinyin]]}}|<!--
+    If Jyutping vs. Mandarin:
+-->{{#if:{{{j|}}}|{{#ifeq:{{{links|}}}|no|Mandarin&#32;Pinyin|[[Hanyu Pinyin|Mandarin&#32;Pinyin]]}}|<!--
+    Else:
+-->{{#ifeq:{{{links|}}}|no| |{{!(}}{{!(}}}}Pinyin{{#ifeq:{{{links|}}}|no| |]]}}}}}}&#58; {{#ifeq:{{{noital|}}}|yes| |<em>}}{{{p|{{{hp}}}}}}{{#ifeq:{{{noital|}}}|yes| |</em>}}{{#if:{{{l|}}}{{{poj|}}}{{{cy|{{{y|}}}}}}{{{j|}}}{{{w|{{{wg|}}}}}}{{{b|{{{zhu|}}}}}}|{{;}}&#32;|{{#if:{{{tp|}}}|{{#ifeq:{{{first|{{#ifexist:Template:zh/format/{{FULLPAGENAME}}|{{zh/format/{{FULLPAGENAME}}}}}}}}}|t| |{{;}}&#32;}}}}}}
+}}<!--
+
+          Tongyong Pinyin
+
+-->{{#ifeq:{{{first|{{#ifexist:Template:zh/format/{{FULLPAGENAME}}|{{zh/format/{{FULLPAGENAME}}}}}}}}}|t| |{{#if:{{{tp|}}}|{{#ifeq:{{{links|}}}|no| |{{!(}}{{!(}}}}Tongyong&#32;Pinyin{{#ifeq:{{{links|}}}|no| |]]}}&#58; {{{tp}}}{{#if:{{{l|}}}{{{poj|}}}{{{cy|{{{y|}}}}}}{{{j|}}}{{{w|{{{wg|}}}}}}{{{b|{{{zhu|}}}}}}|{{;}}&#32;}}
+}}}}<!--
+
+          WadeGiles
+
+-->{{#if:{{{w|{{{wg|}}}}}}|{{#ifeq:{{{links|}}}|no| |{{!(}}{{!(}}}}WadeGiles{{#ifeq:{{{links|}}}|no| |]]}}: {{{w}}}{{#if:{{{l|}}}{{{poj|}}}{{{cy|{{{y|}}}}}}{{{j|}}}{{{b|{{{zhu|}}}}}}|{{;}}&#32;}}
+}}<!--
+
+          Jyutping
+
+-->{{#if:{{{j|}}}|{{#ifeq:{{{links|}}}|no| |{{!(}}{{!(}}}}Jyutping{{#ifeq:{{{links|}}}|no| |]]}}&#58; {{{j}}}{{#if:{{{l|}}}{{{poj|}}}{{{cy|{{{y|}}}}}}{{{b|{{{zhu|}}}}}}|{{;}}&#32;}}
+}}<!--
+
+          Yale Kanton
+
+-->{{#if:{{{cy|{{{y|}}}}}}|{{#ifeq:{{{links|}}}|no|Cantonese&#32;Yale|[[Alih aksara Yale|Cantonese&#32;Yale]]}}&#58; {{{cy|{{{y|}}}}}}{{#if:{{{l|}}}{{{poj|}}}{{{b|{{{zhu|}}}}}}|{{;}}&#32;}}
+}}<!--
+
+          Peh-e-j
+
+-->{{#if:{{{poj|}}}|{{#ifeq:{{{links|}}}|no| |{{!(}}{{!(}}}}Peh-e-j{{#ifeq:{{{links|}}}|no| |]]}}&#58; {{{poj}}}{{#if:{{{l|}}}{{{b|{{{zhu|}}}}}}|{{;}}&#32;}}
+}}<!--
+
+          Zhuyin Fuhao
+
+-->{{#if:{{{b|{{{zhu|}}}}}}|{{#ifeq:{{{links|}}}|no| |{{!(}}{{!(}}Bopomofo{{!}}}}Zhuyin&#32;Fuhao{{#ifeq:{{{links|}}}|no| |]]}}&#58; {{{b|{{{zhu}}}}}}{{#if:{{{l|}}}|{{;}}&#32;}}
+}}<!--
+
+          Literal
+
+-->{{#if:{{{l|}}}|arti harafiah "{{{l}}}"}}<noinclude>
+{{documentation}}
+</noinclude>

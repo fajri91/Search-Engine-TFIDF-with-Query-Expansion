@@ -1,0 +1,20 @@
+Permintaan efektif
+{{ekonomi}}
+Dalam [[ilmu ekonomi]], '''permintaan efektif''' di pasar adalah permintaan untuk produk atau jasa yang terjadi ketika pembeli dibatasi di pasar yang berbeda. Ini berbeda dengan permintaan nosional, yang merupakan permintaan yang terjadi ketika pembeli tidak dibatasi di pasar lainnya. Di pasar agregat untuk barang-barang secara umum, permintaan efektif adalah hal yang sama seperti ketika permintaan agregat permintaan barang dipengaruhi oleh limpahan dari kendala kuantitas dari pasar lain. Konsep pasokan yang efektif ini sejalan dengan konsep permintaan efektif. Konsep permintaan efektif atau penyediaan menjadi relevan ketika pasar tidak terus menerus mempertahankan [[harga keseimbangan]].<ref>[[Hal Varian]], 1977. "Non-Walrasian equibria," ''[[Econometrica]]'', April, 573-590.</ref><ref>[[Robert W. Clower]], 1965. "The Keynesian Counter-Revolution: A Theoretical Appraisal," in [[Frank Hahn|F.H. Hahn]] and F.P.R. Brechling, ed., ''The Theory of Interest Rates''. Macmillan. Reprinted in Clower, 1987, ''Money and Markets''.pp. [http://books.google.com/books?id=7CQ4AAAAIAAJ&pg=RA1-PA34&lpg=RA1-PA34&dq=%22The+Keynesian+Counter+Revolution:+A+Theoretical+Appraisal%22&source=bl&ots=geCBldgVJq&sig=prhXkarPE_qwzFb5KGA32o64syk&hl=en&ei=tUnHS8-EKIP6lwew4-TGAQ&sa=X&oi=book_result&ct=result&resnum=1&ved=0CAgQ6AEwAA#v=onepage&q=%22The%20Keynesian%20Counter%20Revolution%3A%20A%20Theoretical%20Appraisal%22&f=false 34-58.]</ref><ref>[[Robert Barro]] and Herschel Grossman, 1976. "Money, Employment, and Inflation'', Cambridge Univ. Press.</ref>
+
+== Referensi ==
+{{reflist}}
+
+== Bacaan lebih lanjut ==
+* Buiter, Willem, and Lorie, Henri, "Some unfamiliar properties of a familiar macroeconomic model," ''[[The Economic Journal]]'', December 1977, 743-754.
+* Korliras, Panayotis, "A disequilibrium macroeconomic model," ''[[Quarterly Journal of Economics]]'', February 1975, 56-80.
+* Lorie, Henri, "Price-quantity adjustments in a macro-disequilibrium model," ''Economic Inquiry'', April 1978, 265-287.
+* Tucker, Donald, "Credit rationing, interest rate lags, and monetary policy speed," ''[[Quarterly Journal of Economics]]'', February 1968, 54-84.
+* Tucker, Donald, "Macroeconomic models and the demand for money under market disequilibrium," ''[[Journal of Money, Credit and Banking]]'', February 1971, 57-83.
+* Varian, H., "The stability of a disequilibrium IS-LM model," ''[[Scandinavian Journal of Economics]]'', 1977(2), 260-270.
+
+{{ekonomi-stub}}
+
+[[Kategori:Ekonomi Keynesianisme]]
+[[Kategori:Teori konsumen]]
+[[Kategori:Ekonomi makro]]

@@ -1,0 +1,9 @@
+Templat:Linguis-stub
+{{asbox
+| image     = EtruscanA-01.svg
+| pix       = 16x24
+| subject   = 
+| qualifier = [[linguistik|biografi linguis]]
+| category  = Rintisan biografi linguis
+| name      = Templat:Linguis-stub
+}}

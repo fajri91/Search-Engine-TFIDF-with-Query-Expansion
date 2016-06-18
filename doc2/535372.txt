@@ -1,0 +1,46 @@
+Jim Geovedi
+{{Infobox scientist
+| image = Jim Geovedi.png
+| name = Jim Geovedi
+| birth_date = {{Birth date and age|1979|06|28|df=y}}
+| birth_place = [[Bandar Lampung]], [[Indonesia]]
+| residence = [[Image:Flag of United Kingdom.svg|20px|]] [[Britania Raya]]
+| citizenship = [[Image:Flag of Indonesia.svg|20px|]] [[Indonesia]]
+| field = [[Ilmu komputer]]
+| known_for = [[Keamanan komputer]]
+}}
+
+'''Jim Geovedi''' (lahir 28 Juni 1979) adalah seorang pakar keamanan [[teknologi informasi]] ternama asal [[Indonesia]] yang berfokus pada penemuan celah keamanan komputer dan jaringan dengan kekhususan sistem telekomunikasi dan satelit. [[BBC News]] menjulukinya sebagai sosok yang "tidak mirip seperti penjahat Bond... tetapi memiliki sejumlah rahasia yang akan mereka kejar habis-habisan".<ref name="bbc">{{cite web |url=http://news.bbc.co.uk/2/hi/technology/5399050.stm |title=Security fears raised at conference |work=[[BBC News]] |date=2006-10-02 |accessdate=2011-06-16 }}</ref>
+
+==Karier==
+
+===Keamanan Informasi===
+Pada tahun 1998-1999, setelah lulus SMA, Geovedi menjalani kehidupan jalanan yang keras di [[Bandar Lampung]] sebagai seniman grafis. Setelah seorang pendeta memperkenalkannya dengan komputer dan internet, ia mulai belajar secara otodidak dan menelusuri ruang obrolan para peretas ternama dunia.<ref name="dw">{{cite web|url=http://www.dw.de/jim-geovedi-hacker-indonesia-yang-bisa-meretas-satelit/a-16564273|title=Jim Geovedi: Hacker Indonesia yang bisa Meretas Satelit|work=[[Deutsche Welle]]|date=2013-02-01|accessdate=2013-03-18}}</ref>
+
+Tahun 2001, Geovedi mendirikan C2PRO Consulting, perusahaan konsultan TI umum untuk lembaga pemerintahan. Ia juga mendirikan dan mengoperasikan perusahaan konsultan keamanan TI Bellua Asia Pacific pada tahun 2004, kemudian berubah nama menjadi [http://www.xynexis.com/ Xynexis International]. Ia lalu mendirikan perusahaan jasa keamanan [http://www.noosc.co.id/ Noosc Global] pada tahun yang sama. Ketika sistem telekomunikasi [[nirkabel]] baru masuk Indonesia tahun 2003, Geovedi sudah diminta menjadi pembicara di [[Kuala Lumpur]] tentang bahaya sistem tersebut. Pada tahun 2004, ia diminta [[Komisi Pemilihan Umum]] untuk mencari tahu pelaku penjebol pusat data penghitungan suara pemilu dan berhasil.<ref name="dw"/>
+
+Geovedi mengaku pernah meretas dua [[satelit]] Indonesia dan Cina milik para kliennya. Saat itu ia diminta menguji sistem keamanan kontrol satelit dan melihat adanya kemungkinan untuk menggeser atau mengubah rotasinya. Ia sempat menggeser orbit satelit Cina dan membuat kliennya panik karena agak sulit mengembalikan orbit suatu satelit. Dengan bahan bakar ekstra, satelit tersebut akhirnya berhasil dikembalikan ke jalurnya. Tetapi untuk satelit Indonesia, Geovedi mengaku hanya mengubah rotasinya saja.<ref name="dw"/>
+
+Saat ini ia menetap di [[London]] dan sering diwawancarai tentang sistem keamanan satelit,<ref name="bbc"/><ref name="forbes">{{cite web |url=http://www.forbes.com/2010/02/02/hackers-cybercrime-cryptography-technology-security-satellite_2.html |title=How To Hack The Sky |work=[[Forbes]] |date=2010-02-02 |accessdate=2011-06-16 }}</ref><ref name="theregister">{{cite web |url=http://www.theregister.co.uk/2009/02/17/satellite_tv_hacking/ |title=Satellite-hacking boffin sees the unseeable |work=[[The Register]] |date=2009-02-17 |accessdate=2011-06-16 }}</ref> keamanan perbankan,<ref name="tempo-01">{{cite web |url=http://majalah.tempointeraktif.com/id/arsip/2010/02/01/TI/mbm.20100201.TI132612.id.html |title=Disalin, Lalu Dipancing |work=Majalah Tempo Interaktif |date=2010-02-01 |accessdate=2011-06-16 }} {{id icon}}</ref> dan penegakan hukum.<ref name="tempo-02">{{cite web |url=http://majalah.tempointeraktif.com/id/arsip/2010/06/14/HK/mbm.20100614.HK133800.id.html |title=Melacak Jejak Sang Penyebar |work=Majalah Tempo Interaktif |date=2010-06-14 |accessdate=2011-06-16 }} {{id icon}}</ref><ref name="tempo-03">{{cite web |url=http://www.tempointeraktif.com/hg/it/2008/11/20/brk,20081120-147220,id.html |title=Perburuan Pembuat Blog Komik Nabi Tergantung Wordpress |work=Majalah Tempo Interaktif |date=2008-11-20 |accessdate=2011-06-16 }} {{id icon}}</ref> Dalam wawancara dengan [[Deutsche Welle]], Geovedi mengatakan bahwa dengan kemampuannya, ia bisa mengendalikan jaringan Internet di seluruh Indonesia, mengalihkan lalu lintas datanya, mengamati lalu lintas data yang keluar masuk, dan memodifikasi semua transaksi keuangan, namun ia tidak tertarik melakukannya.<ref name="dw"/> Media sering menyebutnya sebagai contoh orang-orang yang terkenal di industri IT dengan mengandalkan otaknya saja tanpa gelar akademik.<ref name="tempo-04">{{cite web |url=http://www.tempo.co.id/majalah/free/tec-1.html |title=The Software Parade |work=Majalah Tempo Interaktif |date=2011-06-15 |accessdate=2011-06-16 }} {{id icon}}</ref><ref name="tempo-05">{{cite web |url=http://majalah.tempointeraktif.com/id/arsip/2009/01/05/DGT/mbm.20090105.DGT129152.id.html |title=Satpam Jaringan |work=Majalah Tempo Interaktif |date=2009-01-05 |accessdate=2011-06-16 }} {{id icon}}</ref>
+
+===Musik===
+Geovedi juga seorang DJ dan produser musik profesional.<ref name="discogs">{{cite web |url=http://www.discogs.com/artist/Jim+Geovedi |title=Jim Geovedi's profile on Discogs |work=Discogs |accessdate=2011-06-16 }}</ref> Saat ini ia terikat kontrak dengan [http://www.elektraxmusic.com/ Elektrax Recordings], sebuah label musik techno yang berpusat di Sydney.<ref name="elektrax">{{cite web |url=http://www.elektraxmusic.com/jim-geovedi/ |title=Jim Geovedi's profile on Elektrax Recording |work=Elektrax |accessdate=2011-06-16 }}</ref>
+
+==Referensi==
+{{reflist}}
+
+==Pranala luar==
+* [http://jim.geovedi.com Situs pribadi Jim Geovedi]
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Geovedi, Jim
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION =
+| DATE OF BIRTH     = 28 Juni 1979
+| PLACE OF BIRTH    =
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Geovedi, Jim}}
+[[Kategori:Orang hidup]]
+[[Kategori:Kelahiran 1979]]

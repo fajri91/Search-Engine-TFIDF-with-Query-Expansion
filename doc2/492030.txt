@@ -1,0 +1,17 @@
+Berkas:TVB semarang.png
+== {{int:filedesc}} ==
+{{Information
+| description    =
+Logo TV Borobudur Semarang
+
+Sumber Gambar : Kompas TV
+Pemegang Lisensi Gambar : Kaliandrakali
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{LogoTV}}

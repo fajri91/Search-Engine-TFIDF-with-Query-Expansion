@@ -1,0 +1,3 @@
+Wikipedia:ProyekWiki Daftar/Kecamatan dan kelurahan/row-1
+|-
+|[{{fullurl:Daftar kecamatan dan desa di {{{1}}}|action=edit&preload=WP:PW_D/Preload&editintro=WP:PW_D/Editintro}} {{{1}}}] ||[[Templat:{{{1}}}|Daftar kec]] ||[[:Kategori:Templat desa/kelurahan di {{{1}}}|Daftar templat desa]], [[:Kategori:Desa di {{{1}}}|daftar desa]]

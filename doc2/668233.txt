@@ -1,0 +1,175 @@
+Templat:Infobox Ulama Muslim
+{{Infobox
+| bodyclass   = vcard
+
+| aboveclass  = fn
+| abovestyle  = background-color:#99d699; font-size: 125%
+| above       = {{#if:{{{notability|{{{honorific_prefix|}}}}}}|<span class="honorific-prefix" style="font-size: small">{{{notability|{{{honorific_prefix|}}}}}}</span><br />}}
+
+| image      = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|size={{{image_size|}}}|sizedefault=frameless|alt={{{alt|}}}|suppressplaceholder=yes}}
+| caption    = {{{caption|}}}
+
+| label1     = Gelar
+| data1      = {{{title|}}}
+ 
+| label2     = [[Kunya|Kun-yah]]
+| data2      = {{{kunya|}}}
+
+| label3     = Nama
+| data3      = {{{name|}}}
+
+| label4     = [[Nasab]]
+| data4      = {{{nasab|}}}
+
+| label5     = [[Nisbah]]
+| data5      = {{{nisbah|}}}
+
+| label6     = Lahir
+| data6      = {{br separated entries|1={{#if:{{{birth_name|{{{birthname|}}}}}}|<span class="nickname">{{{birth_name|{{{birthname|}}}}}}</span>}}|2={{{birth_date|}}}|3={{#if:{{{birth_place|}}}|<span class="birthplace">{{{birth_place|}}}</span>}}}}
+
+| label7     = Wafat
+| data7      = {{br separated entries|1={{{death_date|}}}|2={{#if:{{{death_place|}}}|<span class="deathplace">{{{death_place|}}}</span>}}}}
+
+| label8     = Sebab&nbsp;wafat
+| data8      = {{{death cause|{{{death_cause|}}}}}}
+
+| label9     = Dimakamkan di
+| data9      = {{{burial_place|{{{resting_place|}}}}}}
+
+| label10    = Nama lain
+| data10     = {{{other names|{{{other_names|{{{othername|{{{alias|}}}}}}}}}}}}
+
+| label11     = Kebangsaan
+| data11      = {{{nationality|}}}
+
+| label12     = Etnis
+| data12      = {{{ethnicity|}}}
+
+| label13     = Zaman
+| data13      = {{{era|}}}
+
+| label14     = Wilayah aktif
+| data14      = {{{region|}}}
+
+| label15     = Jabatan
+| data15      = {{{occupation|}}}
+
+| label16     = Firkah
+| data16      = {{{denomination|}}}
+
+| label17     = Mazhab Fikih
+| data17      = {{{Madh'hab|{{{Maddhab|{{{jurisprudence|}}}}}}}}}
+
+| label18     = Mazhab Akidah
+| data18      = {{{school_tradition|{{{creed|}}}}}}
+
+| label19     = Organisasi
+| data19      = {{{movement|}}}
+
+| label20     = Minat utama
+| data20      = {{{main_interests|{{{main interests|}}}}}}
+
+| label21     = Gagasan yang terkenal
+| data21      = {{{ideas|{{{notable_ideas|{{{notable ideas|}}}}}}}}}
+
+| label22     = Karya yang terkenal
+| data22      = {{{works|{{{notable_works|{{{notable works|}}}}}}}}}
+
+| label23     = [[Alma mater]]
+| data23      = {{{alma_mater|{{{alma mater|}}}}}}
+
+| label24     = Guru-guru
+| data24      = {{{teachers|}}}
+
+| data25      = {{#if:{{{students|}}}
+                 | {{Collapsible list
+                    | expand = {{{expand_students|}}}
+                    | title = Murid-murid
+                    | frame_style = border:none; padding:0;
+                    | list_style = text-align:center;
+                    | 1 = {{{students}}}
+                   }}
+                }}
+
+| label27     = Murid dari
+| data27      = {{{disciple_of|}}}
+
+| data28      = {{#if:{{{disciples|}}}
+                 | {{Collapsible list
+                    | expand = {{{expand_disciples|}}}
+                    | title = Murid
+                    | frame_style = border:none; padding:0;
+                    | list_style = text-align:center;
+                    | 1 = {{{disciples}}}
+                   }}
+                }}
+
+| data29      = {{#if:{{{influences|}}}
+                 | {{Collapsible list
+                    | expand = {{{expand_influences|}}}
+                    | title = Dipengaruhi &nbsp;oleh
+                    | frame_style = border:none; padding:0;
+                    | list_style = text-align:center;
+                    | 1 = {{{influences}}}
+                   }}
+                }}
+| data30      = {{#if:{{{influenced|}}}
+                 | {{Collapsible list
+                    | expand = {{{expand_influenced|}}}
+                    | title = Mempengaruhi
+                    | frame_style = border:none; padding:0;
+                    | list_style = text-align:center;
+                    | 1 = {{{influenced}}}
+                   }}
+                }}
+
+| label31     = Penghargaan
+| data31      = {{{awards|}}}
+
+| data32     = {{{misc|{{{module|}}}}}}
+
+| label33     = Situs web
+| data33      = {{{website|}}}
+
+| header34    = {{#if:{{{office1|}}}{{{term1|}}}{{{predecessor1}}}{{{successor1|}}}|{{{office1|}}}}}
+| data34      = {{{office1|}}}
+| data35      = {{{term1|}}}
+| label36     = Preceded&nbsp;by
+| data36      = {{{predecessor1|}}}
+| label37     = Succeeded&nbsp;by
+| data37      = {{{successor1|}}}
+
+| header38    = {{#if:{{{office2|}}}{{{term2|}}}{{{predecessor2}}}{{{successor2|}}}|{{{office2|}}}}}
+| data38      = {{{office2|}}}
+| data39      = {{{term2|}}}
+| label40     = Preceded&nbsp;by
+| data40      = {{{predecessor2|}}}
+| label41     = Succeeded&nbsp;by
+| data41      = {{{successor2|}}}
+
+| header42    = {{#if:{{{office3|}}}{{{term3|}}}{{{predecessor3}}}{{{successor3|}}}|{{{office3|}}}}}
+| data42      = {{{office3|}}}
+| data43      = {{{term3|}}}
+| label44     = Preceded&nbsp;by
+| data44      = {{{predecessor3|}}}
+| label45     = Succeeded&nbsp;by
+| data45      = {{{successor3|}}}
+
+| header46    = {{#if:{{{office4|}}}{{{term4|}}}{{{predecessor4}}}{{{successor4|}}}|{{{office4|}}}}}
+| data46      = {{{office4|}}}
+| data47     = {{{term4|}}}
+| label48     = Preceded&nbsp;by
+| data48      = {{{predecessor4|}}}
+| label49     = Succeeded&nbsp;by
+| data49      = {{{successor4|}}}
+| label50   = Tanda tangan
+| data50     = {{#if:{{{signature|}}}|[[File:{{{signature}}}|{{px|{{{signature_size|}}}|150px}}|alt={{{signature alt|{{{signature_alt|}}}}}}]]}}
+| label51     = Istri
+| data51      = {{{spouse|}}}
+| label52     = Keturunan
+| data52      = {{{children|}}}
+| label53     = Orang tua
+| data53      = {{{parents|}}}
+| label54     = Keluarga
+| data54      = {{{relatives|}}}
+}}<noinclude>{{documentation}}</noinclude>

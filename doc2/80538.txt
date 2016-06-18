@@ -1,0 +1,169 @@
+Bandar Udara Rabah Bitat
+{{Infobox Airport
+| name         = Bandar Udara Rabah Bitat
+| nativename   = Bandar Udara El Mellah
+| IATA         = AAE
+| ICAO         = DABB
+<center>{{Location map|Algeria|width=200|float=center
+|caption=|mark=Airplane_silhouette.svg|marksize=10
+|label=AAE|position=right
+|lat_deg=36|lat_min=49|lat_sec=45.7|lat_dir=N
+|lon_deg=07|lon_min=48|lon_sec=50.2|lon_dir=E
+}}<small>Lokasi bandar udara di Algeria</small></center>
+| type         = Publik
+| owner        = 
+| operator     = [http://www.egsa-constantine.dz EGSA-Constantine]
+| city-served  = [[Annaba]], [[Algeria]]
+| location     = 
+| metric-elev  = y
+| elevation-m  = 5
+| elevation-f  = 16
+| coordinates  = {{coord|36|49|45.7|N|007|48|50.2|E|type:airport|display=inline,title}}
+| website      = 
+| metric-rwy   = y
+| r1-number    = 01/19
+| r1-length-m  = 3,000
+| r1-length-f  = 9,843
+| r1-surface   = [[Aspal]]
+| r2-number    = 05/23
+| r2-length-m  = 2,290
+| r2-length-f  = 7,513
+| r2-surface   = Aspal
+| stat-year = <small>2013</small>
+| stat1-header = Penumpang
+| stat1-data = 466,053
+| stat2-header = Perubahan penumpang 1213
+| stat2-data = {{increase}}50.8%
+| stat3-header = Pergerakan pesawat
+| stat3-data = 8,348
+| stat4-header = Perubahan penumpang 1213
+| stat4-data = {{increase}}67.0%
+| footnotes    = Sumber: [[Aeronautical Information Publication|AIP]]<ref name=AIP>[http://www.sia-enna.dz/PDF/AIP/AD/AD2/DABB/DABB.pdf AIP] and [http://www.sia-enna.dz/PDF/AIP/AD/AD2/DABB/AD.pdf Chart] from ''Service d'Information Aronautique - Algerie'' {{fr icon}}</ref> [[DAFIF]],<ref name=WAD>{{WAD|DABB|source=[[DAFIF]]}} Retrieved 2007-09-24.</ref><ref name=GCM>{{GCM|AAE|AAE / DABB|source=[[DAFIF]]}} Retrieved 2007-11-26.</ref> [[Airport Council International|ACI]] Laporan Lintas Bandar Udara Dunia 2013.
+}}
+
+'''Bandar Udara Rabah Bitat''' {{airport codes|AAE|DABB}}, disebut juga sebagai '''Bandar Udara Les Salines''', adalah sebuah bandar udara yang terletak di dekat [[Annaba]], [[Aljazair]].
+
+Bandar udara ini diberi nama [[Rabah Bitat]], seorang presiden [[Aljazair]] ([[1978]]-[[1979]]).
+
+== Terminal ==
+Terminal bandar udara tersebut memiliki kapasitas sebanyak 500,000 penumpang.
+
+Proyek untuk membangun sebuah terminal internasional baru telah diberikan kepada perusahaan Mesir, Arab Contractor. Terminal tersebut seharusnya selesai pada tahun [[2007]], sementara terminal yang sudah ada digunakan sebagai terminal penerbangan [[haji]] dan penerbangan musiman ke Eropa.
+
+== Statistik ==
+==Statistics==
+{| border=1 cellpadding=3 cellspacing=1
+
+|- valign=top align=left
+! &nbsp;
+! 2001
+! 2002
+! 2003
+! 2004
+! 2005
+
+|- bgcolor=#dcdcdc
+| colspan=6 | '''Penumpang'''
+
+|- valign=top
+| '''Total'''
+| 416,022
+| 435,451
+| 349,008
+| 348,503
+| 360,121
+
+|- valign=top
+| Domestik
+| 316,751
+| 331,580
+| 239,114
+| 247,855
+| 250,285
+
+|- valign=top
+| Internasional
+| 99,271
+| 103,871
+| 109,894
+| 100,648
+| 109,836
+
+|- bgcolor=#dcdcdc
+| colspan=6 | '''Kargo'''
+
+|- valign=top
+| '''Total'''
+| 302.750
+| 357.270
+| 329.148
+| 328.180
+| 359.217
+
+|- valign=top
+| Domestik
+| 185.532
+| 180.773
+| 147.519
+| 215.883
+| 237.124
+
+|- valign=top
+| Internasional
+| 117.218
+| 176.497
+| 181.629
+| 112.297
+| 122.093
+
+|- bgcolor=#dcdcdc
+| colspan=6 | '''Pergerakan Pesawat'''
+
+|- valign=top
+| '''Total'''
+| 9,060
+| 6,468
+| 6,071
+| 5,995
+| 6,203
+
+|- valign=top
+| Domestik
+| 8,089
+| 5,439
+| 4,849
+| 4,893
+| 5,041
+
+|- valign=top
+| Internasional
+| 971
+| 1,029
+| 1,177
+| 1,102
+| 1,162
+
+|}
+
+== Maskapai Penerbangan dan Destinasi ==
+{{Airport-dest-list
+|[[Aigle Azur]]|[[Marseille Provence Airport|Marseille]], [[Paris-Charles de Gaulle Airport|Paris-Charles de Gaulle]], [[Paris-Orly Airport|Paris-Orly]]
+|[[Air Algrie]]<ref>{{cite web|accessdate=January 22, 2011|title=Air Algrie Route Map|url=http://www.airalgerie.dz/routemap.jsp?lang=}}</ref>|[[Houari Boumediene Airport|Algiers]], [[In Amenas Airport|In Amenas]], [[Lyon-Saint Exupry Airport|Lyon]], [[Marseille Provence Airport|Marseille]], [[Nice Cte d'Azur Airport|Nice]], [[Oran Es Snia Airport|Oran]], [[Paris-Charles de Gaulle Airport|Paris-Charles de Gaulle]], [[Paris-Orly Airport|Paris-Orly]]
+|[[Saudi Arabian Airlines]]|'''Seasonal''': [[King Abdulaziz International Airport|Jeddah]], [[Prince Mohammad Bin Abdulaziz Airport|Madinah]]
+|[[Tassili Airlines]]|[[Houari Boumediene Airport|Algiers]], [[Guemar Airport|El Oued]], [[Oued Irara  Krim Belkacem Airport|Hassi Messaoud]], [[In Salah Airport|In Salah]], [[Aguenar  Hadj Bey Akhamok Airport|Tamanrasset]]
+}}
+
+== Referensi ==
+<references />
+
+== Pranala luar ==
+*[http://www.egsa-constantine.dz/ EGSA-Constantine]
+*{{NWS-current|DABB}}
+*{{ASN|AAE|AAE / DABB}}
+
+{{Bandara di Aljazair}}
+
+[[Kategori:Bandar udara di Aljazair|Rabah Bitat]]
+
+
+{{bandara-stub}}

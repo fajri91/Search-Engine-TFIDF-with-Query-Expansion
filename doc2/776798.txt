@@ -1,0 +1,5 @@
+Templat:Lang-fil
+{{Language with name|fil|Filipina|''{{{1}}}''}}<noinclude>
+{{Dokumentasi|Template:Lang-x/doc}}
+[[Kategori:Templat pendukung multilingual Austronesia]]
+</noinclude>

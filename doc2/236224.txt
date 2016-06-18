@@ -1,0 +1,37 @@
+OrCAD
+{{Infobox Software
+| name                   = OrCAD
+| logo                   = 
+| screenshot             = [[Berkas:Orcad schematic capture.PNG|250px]]
+| caption                = Orcad Schematic Capture Program
+| collapsible            = yes
+| author                 = [[Cadence Design Systems]]
+| developer              = 
+| released               = 
+| latest release version = 16.3
+| latest release date    = 
+| latest preview version = 
+| latest preview date    = 
+| frequently updated     = 
+| programming language   = C/C++
+| operating system       = [[Microsoft Windows]]
+| platform               = 
+| size                   = 
+| language               = 
+| status                 = 
+| genre                  = Otomasi perancangan rangkaian elektronika
+| license                = Proprietary
+| website                = http://www.cadence.com/orcad/
+}}
+
+'''OrCAD''' (singkatan: ''Oregon + CAD'') adalah [[perangkat lunak]] simulasi untuk otomasi perancangan rangkaian [[elektronika]] yang sekarang menjadi milik dari perusahaan ''Cadence Design Systems''. OrCAD ini banyak dipakai oleh para ahli teknik untuk membuat rangkaian elektronika (termasuk komponen pasif, IC, komponen analog maupun digital) pada papan rangkaian tercetak (Printed Circuit Board, [[PCB]]). Sebelum dicetak pada PCB, diagram rangkaiannya ditest dahulu keakuratannya melalui proses [[simulasi]].
+
+== Pranala luar ==
+* [http://www.cadence.com/ Cadence]
+* [http://www.cadence.com/orcad/ OrCAD oleh Cadence]
+* [http://www.orcad.com/capturecis.aspx OrCAD Capture CIS]
+* [http://www.orcad.com/default.aspx OrCAD, perancangan PCB]
+
+{{software-stub}}
+
+[[Kategori:Simulator rangkaian elektronika]]

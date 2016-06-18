@@ -1,0 +1,13 @@
+Templat:Convert/ft/s
+{{convert/{{{d}}}|{{{1}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|s={{{s|}}}|r={{{r}}}
+|u=ft/s
+|n=foot per second
+|l=feet per second
+|h=foot-per-second
+|t=feet per second
+|o=m/s
+|b=0.3048
+|j=-0.515985037-{{{j|0}}}}}<noinclude>
+{{pp-template|small=yes}}
+[[Category:Subtemplates of Template Convert]]
+</noinclude>

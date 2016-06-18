@@ -1,0 +1,12 @@
+Jabber (jaringan)
+'''Jabber''' adalah kondisi ''error'' yang terjadi ketika sebuah peralatan [[jaringan komputer|jaringan]] secara terus-menerus memancarkan [[data]] yang tidak berarti ke dalam jaringan. 
+
+Hal ini dapat terjadi apabila peralatan jaringan tersebut mengalami kerusakan tetapi peralatan tidak menyadari kerusakannya. 
+
+Sebagai contoh, kesalahan ''offset'' di tingkat ''[[software]]'' atau ''[[hardware]]'' seringkali tidak diketahui sehingga peralatan masih merasa mengeluarkan [[paket data]] yang berguna.
+
+{{jaringan-komputer-stub}}
+
+[[Kategori:Jaringan komputer]]
+
+[[en:Maximum transmission unit#Disruption]]

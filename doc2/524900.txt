@@ -1,0 +1,7 @@
+Templat:Taxonomy/Carnosauria
+{{Don't edit this line {{{machine code|}}}|{{{1}}}
+|rank=infraordo
+|link=Carnosauria
+|parent=Avetheropoda
+|extinct=true
+}}

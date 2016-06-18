@@ -1,0 +1,85 @@
+Modul:CSV
+local p = {}
+ 
+default_settings = {
+  delimiter = ',',
+  quotechar = '"',
+  ignoreEmptyLines = true,
+  --linebreak deviates from RFC4180, where the default linebreak is CRLF. Mediawiki newlines are linebreaks
+  linebreak = '\n'
+}
+ 
+--datastring is the string containing the CSV data. settings follows the format of default_settings
+--returns a table which is a squence of sequeces of fields
+function parse(datastring, settings)
+  if settings == nil then settings = {} end
+  if type(settings) ~= 'table' then return {}, "Error, settings is not a table" end
+  for k, v in pairs(default_settings) do
+    if settings[k] == nil then settings[k] = default_settings[k] end
+  end
+ 
+  return readdata(datastring, settings)
+end
+ 
+function readdata(datastring, settings)
+    datastring = datastring:gsub( settings.linebreak, settings.linebreak .. settings.delimiter ) .. settings.delimiter;
+        
+    local item_list = {};
+    for v in datastring:gmatch( "([^" .. settings.delimiter .."]*)" .. settings.delimiter ) do
+        table.insert( item_list, v );
+    end
+    
+    local item_list2 = {};
+    local current = ''
+    local inquote = false
+    for _, v in ipairs( item_list ) do
+        if not inquote then
+            if v:match( "^%s*" .. settings.quotechar ) then
+                inquote = true;
+                current = v;
+            else
+                table.insert( item_list2, v );
+            end
+        else
+            current = current .. settings.delimiter .. v;
+        end
+        if inquote then
+            if v:match( settings.quotechar .. "%s*$" ) and not current:match( "^%s*" .. settings.quotechar .. "%s*$" ) then
+                current = current:match( "^%s*" .. settings.quotechar .. "(.*)" .. settings.quotechar .. "%s*$" );
+                current = current:gsub( settings.linebreak .. settings.delimiter, settings.linebreak );
+                current = current:gsub( settings.quotechar .. settings.quotechar, settings.quotechar );
+                table.insert( item_list2, current );
+                inquote = false;
+                current = '';
+            end            
+        end
+    end
+          
+    if current ~= '' then
+        table.insert( item_list2, current );
+    end
+    
+    local rows = {};
+    item_list = {};
+    local front = ''
+    for _, v in ipairs(item_list2) do
+        front = v:match( "(.*)" .. settings.linebreak .. "$" );
+        if front ~= nil then
+            if #item_list > 0 or front:len() > 0 or not settings.ignoreEmptyLines then 
+                table.insert( item_list, front )
+                table.insert( rows, item_list );
+            end
+            item_list = {};
+        else
+            table.insert( item_list, v );
+        end
+    end
+    if #item_list > 0 then
+        table.insert( rows, item_list );
+    end
+    
+    return rows;
+end
+ 
+p.parse = parse
+return p

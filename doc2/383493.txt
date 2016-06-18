@@ -1,0 +1,33 @@
+System Rescue CD
+{{Infobox software
+| name                   = System Rescue CD
+| screenshot             = [[Berkas:Interface_System_Rescue_CD.jpg| thumb| center| 250 px]]
+| caption                = Tampilan System Rescue CD versi 1.5.2
+| developer              = 
+| latest release version = 1.6.4
+| latest release date    = 2010
+| operating system       = [[DOS]]
+| genre                  = Utility
+| license                = Freeware
+| website                = [http://www.sysresccd.org/Main_Page www.sysresccd.org]
+}}
+
+'''System Rescue CD''' adalah [[perangkat lunak]] yang dikhususkan untuk dapat digunakan sebagai ''repair system'' dan ''recover data'' pada saat sistem operasi utama pada [[komputer]] yang mengalami ''crash''. [[Aplikasi]] ini merupakan [[Linux Live CD]] yang mampu mendiagnosa beberapa kesalahan yang terjadi pada komputer seperti TestDisk, Sfdisk, Partition Manager dan masih banyak lagi.
+
+Namun jika dilihat dari menu dan cara pengoperasiannya, program ini bukanlah untuk pengguna awam, melainkan lebih cocok bagi pengguna tingkat lanjut maupun para teknisi komputer.
+
+== Lihat pula ==
+
+* [[Paragon Partition Manager]]
+* [[Parted Magic]]
+* [[Partition Magic]]
+
+== Pranala luar ==
+
+* {{en}} [http://www.sysresccd.org/Main_Page Situs resmi System Rescue CD]
+
+{{software-stub}}
+
+[[Kategori:Perangkat lunak]]
+[[Kategori:Perangkat lunak Linux]]
+[[Kategori:Freeware]]

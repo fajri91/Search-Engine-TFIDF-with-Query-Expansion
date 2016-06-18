@@ -1,0 +1,31 @@
+Templat:Sungai di Sudan Selatan
+{{Navbox
+| name   = Sungai di Sudan Selatan
+| listclass = hlist
+| title  = [[Daftar sungai di Sudan Selatan|Sungai]] di [[Sudan Selatan]]
+| group1 = [[Daftar sungai di Sudan Selatan|Sungai]]
+| list1  = <div>
+[[Akobo River|Akobo]]{{w}}
+[[Sungai Bahr el Ghazal|Bahr el Ghazal]]{{w}}
+[[Bahr el Zeraf]]{{w}}
+[[Sungai Baro|Baro]]{{w}}
+[[Sungai Jur|Jur]]{{w}}
+[[Sungai Kangen|Kangen]]{{w}}
+[[Sungai Kidepo|Kidepo]]{{w}}
+[[Sungai Kiir|Kiir]]{{w}}
+[[Sungai Kongkong|Kongkong]]{{w}}
+[[Sungai Koss|Koss]]{{w}}
+[[Sungai Kuru|Kuru]]{{w}}
+[[Sungai Lol|Lol]]{{w}}
+[[Sungai Lotilla|Lotilla]]{{w}}
+[[Sungai Pibor|Pibor]]{{w}}
+[[Sungai Pongo(South Sudan)|Pongo]]{{w}}
+[[Sungai Sobat|Sobat]]{{w}}
+[[Sungai Sopo|Sopo]]{{w}}
+[[Sungai Wau|Wau]]{{w}}
+[[Sungai Nil Putih|Nil Putih]]
+</div>
+
+}}<noinclude>
+[[Kategori:Templat Sudan Selatan]]
+</noinclude>

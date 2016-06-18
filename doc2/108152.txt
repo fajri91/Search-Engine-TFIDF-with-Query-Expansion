@@ -1,0 +1,15 @@
+Berkas:Respirometer ganong.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+Respirometer ganong
+
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{GFDL-self}}

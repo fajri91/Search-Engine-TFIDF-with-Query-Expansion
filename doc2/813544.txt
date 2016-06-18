@@ -1,0 +1,20 @@
+Berkas:Barbara (2012 film).jpg
+{{dari|en}}
+== Penjelasan ==
+{{Non-free image data
+|Description       = Poster of  Barbara (2012 film) .
+|Source            =  http://www.theupcoming.co.uk/2012/08/06/film-review-barbara-2/movie-poster-barbara/ 
+|Portion           = Film poster only.
+|Low_resolution    = Sufficient resolution for illustration, but considerably lower resolution than original.
+|other_information = Intellectual property owned by Christian Petzold.
+}}
+
+== Non-free media use rationales ==
+{{Non-free image rationale
+|Article           =  Barbara (2012 film) 
+|Purpose           = Used for purposes of critical commentary and illustration in an educational article about the film.<br>The poster is used as the primary means of visual identification of this article topic.
+|Replaceability    = Protected by copyright, therefore a free use alternative won't exist.
+}}
+
+== Lisensi ==
+{{Non-free poster|image has rationale=yes}}

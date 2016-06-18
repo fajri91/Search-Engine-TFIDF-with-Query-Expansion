@@ -1,0 +1,39 @@
+Boone County, Illinois
+{{Infobox U.S. County|
+ |county  = Boone County
+ |state = Illinois
+ |seal = 
+ |map size = 150
+ |founded = 1837
+ |seat = [[Belvidere, Illinois|Belvidere]] 
+ |area_total_sq_mi =282
+ |area_land_sq_mi  =281 
+ |area_water_sq_mi =1
+ |area percentage = 0.24% 
+ |census yr = 2000
+ |pop = 41786
+ |density_km2 =57
+ |time zone = Central
+ |UTC offset = -6
+ |DST offset= -5
+ |footnotes = 
+ |web = www.boonecountyil.org
+|}}
+'''Boone County''' adalah county yang terletak di negara bagian [[Illinois]], [[Amerika Serikat]]. County ini berpenduduk 41.786 jiwa pada tahun 2000.
+
+== Jalan utama ==
+* [[Berkas:I-90.svg|25px]] [[Interstate 90]]
+* [[Berkas:US 20.svg|25px]] [[US Route 20]]
+* [[Berkas:Illinois 76.svg|25px]] [[Illinois Route 76]]
+* [[Berkas:Illinois 173.svg|25px]] [[Illinois Route 173]]
+
+== Pranala luar ==
+* [http://www.census.gov/geo/www/tiger/tgrshp2007/tgrshp2007.html United States Census Bureau 2007 TIGER/Line Shapefiles]
+* [http://geonames.usgs.gov/domestic/ United States Board on Geographic Names (GNIS)]
+* [http://www.nationalatlas.gov/ United States National Atlas]
+{{Negara bagian Illinois|state=show}}
+
+{{Illinois-geo-stub}}
+
+[[Kategori:{{County AS}} di Illinois]]
+[[Kategori:Boone County, Illinois| ]]

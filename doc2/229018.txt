@@ -1,0 +1,11 @@
+Templat:Country data Esprito Santo
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Esprito Santo
+| flag alias = Bandeira do Esprito Santo.svg
+| size = {{{size|}}}
+| name = {{{name|}}}
+<noinclude>
+| redir1 = Espirito Santo
+</noinclude>
+| kategori = Brasil
+}}<noinclude>{{Country data Brasil/doc}}</noinclude>

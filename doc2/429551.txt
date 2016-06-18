@@ -1,0 +1,25 @@
+Templat:Kelubagolit, Flores Timur
+{{Navigasi ID Desa
+|provinsi=Nusa Tenggara Timur
+|dati2=Kabupaten
+|nama dati2=Flores Timur
+|nama kecamatan=Kelubagolit
+|d1=Adobala
+|d2=Hinga
+|d3=Horinara
+|d4=Keluwain
+|d5=Kolilolok
+|d6=Lamabunga
+|d7=Lamapaha
+|d8=Mangaaleng
+|d9=Muda
+|d10=Nisakarang
+|d11=Pepak Kelu
+|d12=Redontena
+|d13=Sukutokan
+|d14=Watorotok
+}}
+<noinclude>
+[[Kategori:Templat desa/kelurahan di Nusa Tenggara Timur|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Flores Timur|{{PAGENAME}}]]
+</noinclude>

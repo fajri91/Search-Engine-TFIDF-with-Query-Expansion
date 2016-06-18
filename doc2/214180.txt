@@ -1,0 +1,15 @@
+Berkas:Priangan Ekspress.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+Priangan Ekspress memasuki stasiun Cirahayu, Jawa Barat.
+foto diambil dari: http://www.flickr.com/photos/chris-railway/3906253721/ untuk keperluan non-komersial
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{GFDL}}

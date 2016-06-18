@@ -1,0 +1,17 @@
+Templat:Kalapanunggal, Sukabumi
+{{Navigasi ID Desa
+| nama kecamatan=Kalapanunggal
+| dati2=Kabupaten
+| nama dati2=Sukabumi
+| provinsi=Jawa Barat
+| d1=Gunung Endut
+| d2=Kadununggal
+| d3=Kalapanunggal
+| d4=Makasari
+| d5=Palasari Girang
+| d6=Pulosari
+| d7=Walangsari
+}}<noinclude>
+[[Kategori:Templat desa/kelurahan di Jawa Barat|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Sukabumi|{{PAGENAME}}]]
+</noinclude>

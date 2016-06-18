@@ -1,0 +1,15 @@
+Wikipedia:Gambar pilihan/Fenomena alam/Cuaca
+{{Wikipedia:Gambar pilihan/templat|main=Fenomena alam|subpages=[[Wikipedia:Gambar pilihan/Fenomena alam/Optik atmosferik|Optik atmosferik]]  [[Wikipedia:Gambar pilihan/Fenomena alam/Cuaca|Cuaca]]  [[Wikipedia:Gambar pilihan/Fenomena alam/Lain-lain|Lain-lain]]}}
+
+<gallery mode=packed heights=200px>
+| valign="top" |
+Berkas:Morning Fog at GGB.JPG|'''[[Kabut]]'''
+Berkas:Cyclone Catarina from the ISS on March 26 2004.JPG|'''[[Siklon tropis]]'''
+Berkas:Sandstorm_in_Al_Asad,_Iraq.jpg|'''[[Badai pasir]]'''
+Berkas:Misty morning03.jpg|'''[[Kabut]]'''
+Berkas:Panorama-Sonnenuntergang bei Knigswalde.jpg|'''Gambar ini memperlihatkan matahari yang tenggelam di dekat [[Knigswalde]] ([[Sachsen]], [[Jerman]])'''
+Berkas:A storm at Pors-Loubous.jpg|'''[[Badai]] yang terjadi di [[Pors-Loubous]], [[Plogoff]], [[Finistre]], [[Perancis]].'''
+Berkas:Hurricane_Isabel_from_ISS.jpg|'''Badai Isabel dilihat dari ISS'''
+</gallery>
+
+[[Kategori:Kategori gambar pilihan Wikipedia|{{#titleparts: {{PAGENAME}} | | 2 }}]]

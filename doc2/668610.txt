@@ -1,0 +1,40 @@
+Menara ExxonMobil
+{{terjemah|Melayu}}
+{{Infobox building
+| name               = Menara ExxonMobil
+| image              = ExxonMobil Tower, Kuala Lumpur.jpg
+| caption            = 
+| alternate_names    = Menara Esso
+| location           = [[Pusat Bandaraya Kuala Lumpur]]<br>[[Kuala Lumpur]], [[Malaysia]]
+| latd               = 3.1541
+| longd              = 101.7157
+| iso_region         = MY-14
+| coordinates_display= title
+| completion_date    = 1997
+| building_type      = Pejabat komersil
+| roof               = {{convert|126|m|abbr=on}}
+| top_floor          = 
+| floor_count        = 30
+| elevator_count     = 16
+| cost               = 
+| floor_area         = {{convert|52000|sqft|abbr=on}}<ref>{{cite web |url=http://www.klcc.com.my/Precinct/property-menara-exxonmobil.html |title=Menara ExxonMobil |work=KLCC: Property Showcase |date=2010 |publisher=KLCC Property Holdings Berhad |accessdate=19 September 2013}}</ref>
+| architect          = Kumpulan Senireka Sdn Bhd 
+| structural_engineer= 
+| main_contractor    = 
+| developer          = 
+| owner              = [[KLCC Properties]]
+| management         = [[KLCC Properties]]
+| references         = <ref>{{emporis|105886}}</ref><ref>{{skyscraperpage|2757}}</ref>
+}}
+'''Menara ExxonMobil''' adalah sebuah [[pencakar langit]] yang terletak di pusat kota [[Kuala Lumpur]], [[Malaysia]]. Kini, bangunan ini dijadikan kantor pusat perusahaan [[ExxonMobil]] Malaysia.
+
+Menara 30 lanati yang tingginya {{convert|126|m|abbr=on}} berbentuk persegi, dengan ruang dalam yang seakan-akan tanpa tiang. Untuk mempercantik bangunan ini, lantai tinggi utara dan selatan sampai tingkat lima, manakala lantai tinggi utara yang menghadap taman umum mencapai lantai 25 dan 26. 
+
+Pelanskapan lembut di Menara ExxonMobil juga merangkumi taman kecil semi pribadi yang menghubungkan menara ke arah [[Taman KLCC]].
+
+==Referensi==
+{{Reflist}}
+
+{{bangunan-stub}}
+
+[[Kategori:Bangunan dan struktur di Kuala Lumpur]]

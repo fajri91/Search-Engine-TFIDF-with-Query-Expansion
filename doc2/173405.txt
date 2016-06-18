@@ -1,0 +1,12 @@
+Templat:Lambang negara di Oseania
+{{Topik Oseania
+|name   = Lambang negara di Oseania
+|state  = {{{state<includeonly>|autocollapse</includeonly>}}}
+|title  = [[Daftar lambang negara di Oseania|Lambang negara Oseania]]
+|prefix = Lambang 
+}}<noinclude>
+Templat ini juga dapat dipanggil dengan memasukkan kode berikut:{{br}} 
+<code><nowiki>{{Topik Oseania|Lambang|title=[[Daftar lambang negara di Oseania|Lambang negara Oseania]]}}</nowiki></code>
+{{Templat menurut benua}}
+[[Kategori:Templat navigasi lambang|{{PAGENAME}}]]
+</noinclude>

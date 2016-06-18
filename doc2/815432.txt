@@ -1,0 +1,84 @@
+Templat:Infobox Christian denomination/doc
+{{Documentation subpage}}
+<!-- Masukan kategori pada bagian bawah yang sudah ditandai di halaman ini. Untuk interwiki gunakan Wikidata (lihat [[Wikipedia:Wikidata]]) -->
+==Penggunaan==
+Gunakan templet dibawah ini dengan copy paste ke artikel yang dituju kemudian isilah parameter yang tersedia.
+<pre>{{Infobox Christian denomination
+|imagewidth=150px
+|name = 
+|image = 
+|caption = 
+|main_classification = 
+|orientation =
+|polity =
+|headquarter =
+|leader =
+|area =
+|other_names =
+|website =
+|founder = 
+|founded_date = 
+|founded_place = 
+|separated_from =
+|parent = 
+|merger = 
+|separations = 
+|youth_community =
+
+|congregations = 
+|members = 
+|ministers =
+|missionaries =
+|temples =
+
+|hospitals =
+|nursing_homes =
+|aid =
+
+|primary_schools =
+|secondary_schools = 
+|tertiary =
+
+|footnotes = 
+}}</pre>
+
+==Parameter==
+Berikut ini keterangan parameter di atas  
+# name = nama resmi organisasi gereja
+# caption_background = if on, the title will appear with a purple background. Default is on.
+# image = logo atau gambar yang berhubungan dengan organisasi
+# imagewidth = lebar gambar, default "150px." 
+# caption = keterangan gambar
+# main_classification = Roma Katolik, Protestant, Eastern-Orthodox, dll.)
+# orientasi teologi = (ajaran utama gereja, misalnya. Calvinisme, Arminianisme, Baptist, Adventisme.)
+# polity = struktur organisasi:[[Episkopal]], [[Kepausan]], [[Kongregasional]], atau [[Representatif]]
+# headquarter = alamat kantor pusat
+# area = wilayah penyebaran agama.
+# other_names = nama lain organisasi keagamaan yang biasa digunakan atau dikenal masyarakat, misalnya: LDS, Mormon
+# founder = pendiri atau tokoh utama gereja
+# founded_date = tanggal didirikan
+# founded_place = tempat dideklarasikan/didirikan
+# separated_from = berpisah dari gereja (bila terjadi skisma)
+# parent = nama gereja induk
+# merger = bila gereja berasal dari penggabungan beberapa gereja
+# separations = denominasi yang keluar dari gereja yang bersangkutan
+# hospitals = jumlah rumah sakit dan klinik yang dikelola gereja
+# nursing_homes = jumlah panti jompo/asuhan yang dikelelola gereja
+# aid = nama organisasi kemanusiaan yang dikelola gereja, misalnya Gereja Advent : [[Adventist Development and Relief Agency]]
+# congregations = jumlah tempat ibadah (cantumkan tahun pendataan)
+# members = jumlah anggota
+# ministers = jumlah pendeta
+# missionaries = jumlah missionaris
+# temples = jumlah bangunan gereja yang dimiliki
+# primary_schools = junmlah sekolah dasar yang dikelola gereja
+# secondary_schools = jumlah sekolah menengah yang dikelola gereja
+# tertiary = jumlah perguruan tinggi, college atau universitas yang dikelola gereja.
+# website = web site resmi
+# footnotes = catatan kaki
+
+
+
+<includeonly>{{#ifeq:{{SUBPAGENAME}}|sandbox | |
+<!-- Tambahkan kategori dibawah baris ini, untuk interwiki gunakan Wikidata -->
+
+}}</includeonly>

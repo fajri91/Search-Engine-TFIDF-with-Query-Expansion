@@ -1,0 +1,23 @@
+Berkas:2006AnkenyLogo.png
+{{dari|en}}
+== Penjelasan ==
+{{Non-free use rationale logo|Article           = Ankeny, Iowa
+|Use               = Org
+<!-- ADDITIONAL INFORMATION -->
+|Used for          = 
+|Owner             = 
+|Website           = 
+|History           = 
+|Commentary        =
+<!--OVERRIDE FIELDS -->
+|Description       = 
+|Source            = 
+|Portion           = 
+|Low_resolution    = 
+|Purpose           = <!--Must be specified if Use is not Infobox / Org / Brand / Product-->
+|Replaceability    = 
+|other_information = 
+}}
+
+== Lisensi ==
+{{Non-free logo|image has rationale=yes}}

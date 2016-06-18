@@ -1,0 +1,150 @@
+Piala Interkontinental 1992
+{{Infobox football match
+|                   title = Piala Interkontinental 1992
+|                   image = [[Berkas:ToyotaCup1992.jpg|200px]]
+|                   event =
+|                   team1 = [[FC Barcelona|Barcelona]]
+|        team1association = {{flagicon|ESP|size=30px}}
+|              team1score = 1
+|                   team2 = [[So Paulo FC|So Paulo]]
+|        team2association = {{flagicon|BRA|size=30px}}
+|              team2score = 2
+|                 details = 
+|                    date = 13 Desember 1992
+|                 stadium = [[Stadion Olimpiade Tokyo]]
+|                    city = [[Tokyo]]
+|      man_of_the_match1a = [[Ra]] ([[So Paulo FC|So Paulo]])
+| man_of_the_match1atitle =
+|      man_of_the_match1b =
+| man_of_the_match1btitle =
+|                 referee = [[Juan Carlos Loustau]] ([[Argentina]])
+|              attendance =  60,000
+|                 weather = 
+|                previous = [[Piala Interkontinental 1991|1991]]
+|                    next = [[Piala Interkontinental 1993|1993]]
+}}
+
+'''Piala Interkontinental 1992''' adalah sebuah pertandingan sepak bola pada 13 Desember 1992 antara [[FC Barcelona]] dari [[Spanyol]], juara [[Piala Champions Eropa 1991-92]] melawan [[So Paulo FC]] dari [[Brasil]], juara [[Copa Libertadores 1992]]. Laga dimainkan di [[Stadion Olimpiade Tokyo]], di depan 60,000 penonton. [[Ra]] memenangi anugerah Pemain Terbaik.
+
+== Detail ==
+
+{{footballbox
+|date= 13 Desember 1992
+|time= 12:00 ([[UTC+9]])
+|team1=[[FC Barcelona|Barcelona]] {{flagicon|ESP}}
+|score = 12
+|report=[http://www.fifa.com/classicfootball/clubs/matchreport/newsid=512370.html#toyota+cups+1992+1993 Laporan]
+|team2={{flagicon|BRA}} [[So Paulo FC|So Paulo]]
+|goals1= [[Hristo Stoichkov|Stoichkov]] {{goal|12}}
+|goals2= [[Ra]] {{goal|27||78}}
+|stadium=[[Stadion Olimpiade Tokyo]], [[Tokyo]]
+|attendance=60,000
+|referee=[[Juan Carlos Loustau]] {{flagicon|ARG}} [[Argentina]] }}
+
+ 
+
+{| width=92% |
+|-
+|{{Football kit
+ | pattern_la = _Barca92
+ | pattern_b  = _Barca92
+ | pattern_ra = _Barca92
+ | pattern_so = _Barca92
+ | shorts     = 0000AE
+ | title      = Barcelona
+}}
+|{{Football kit
+ | pattern_la = 
+ | pattern_b  = _red_white_&_blackhorizontal3
+ | pattern_ra = 
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = So Paulo
+}}
+|}
+
+{| width=100%
+|valign="top" width="50%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ESP}} [[Andoni Zubizarreta]]
+|-
+|RB ||'''2''' ||{{flagicon|ESP}} [[Albert Ferrer]]
+|-
+|DF ||'''4''' ||{{flagicon|NED}} [[Ronald Koeman]]
+|-
+|DF ||'''3'''||{{flagicon|ESP}} [[Eusebio Sacristn]]
+|-
+|MF ||'''6''' ||{{flagicon|ESP}} [[Jos Mari Bakero]] {{suboff|}}
+|-
+|MF ||'''7''' ||{{flagicon|ESP}} [[Josep Guardiola]]
+|-
+|MF ||'''5''' ||{{flagicon|ESP}} [[Guillermo Amor]]
+|-
+|MF ||'''10'''||{{flagicon|DEN}} [[Michael Laudrup]]
+|-
+|MF ||'''9'''||{{flagicon|NED}} [[Richard Witschge]]
+|-
+|FW ||'''8'''||{{flagicon|BUL}} [[Hristo Stoichkov]]
+|-
+|FW ||'''11'''||{{flagicon|ESP}} [[Txiki Begiristain]] {{suboff|}}
+|-
+|colspan=3|'''Cadangan:'''
+|-
+|DMF ||'''17'''||{{flagicon|ESP}} [[Ion Andoni Goikoetxea|Andoni Goikoetxea]] {{subon|}}
+|-
+|DF ||'''14'''||{{flagicon|ESP}} [[Miguel ngel Nadal]] {{subon|}}
+|-
+|colspan=3|'''Manajer:'''
+|-
+|colspan=4|{{flagicon|NED}} [[Johan Cruyff]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|BRA}} [[Zetti]]
+|-
+|FW ||'''11''' ||{{flagicon|BRA}} [[Cafu]]
+|-
+|RB ||'''2''' ||{{flagicon|BRA}} [[Claudemir Vtor|Vtor]]
+|-
+|DF ||'''4''' ||{{flagicon|BRA}} [[Ronaldo Rodrigues de Jesus|Ronaldo]]
+|-
+|LF ||'''6''' ||{{flagicon|BRA}} [[Ronaldo Lus Gonalves|Ronaldo Luiz]]
+|-
+|DF ||'''3''' ||{{flagicon|BRA}} [[Adilson]]
+|-
+|DMF ||'''5'''||{{flagicon|BRA}} [[Lus Carlos de Oliveira Preto|Pintado]]
+|-
+|MF ||'''8'''||{{flagicon|BRA}}  [[Toninho Cerezo|Cerezo]] {{suboff|}}
+|-
+|MF ||'''10'''||{{flagicon|BRA}} [[Ra]] [[Image:Star Ouro.svg|15px|Man of the match]]
+|-
+|FW ||'''9'''||{{flagicon|BRA}}  [[Palhinha (Jorge Ferreira da Silva)|Palhinha]]
+|-
+|FW ||'''7''' ||{{flagicon|BRA}} [[Mller (footballer)|Mller]]
+|-
+|colspan=3|'''Cadangan:'''
+|-
+|DMF  ||'''14''' ||{{flagicon|BRA}} [[Edi Wilson Jos dos Santos|Dinho]] {{subon|}}
+|-
+|colspan=3|'''Manajer:'''
+|-
+|colspan=4|{{flagicon|BRA}} [[Tel Santana]]
+|}
+|}
+
+[[Kategori:Piala Interkontinental]]
+[[Kategori:Sepak bola dalam tahun 1992]]
+
+{{Piala Interkontinental}}
+{{Sepak bola-stub}}

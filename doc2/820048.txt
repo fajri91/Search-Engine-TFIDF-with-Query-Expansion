@@ -1,0 +1,5 @@
+Templat:Racing-Reference driver
+[http://www.racing-reference.info/{{#if:{{{1|{{{id|}}}}}}|driver/{{{1|{{{id|}}}}}}|driver/{{urlencode:{{PAGENAME}}}}}}{{#switch:{{lc:{{{section|}}} }}
+}} Statistik karier {{{2|{{{name|{{PAGENAMEBASE}}}}}}}}] di Racing-Reference<noinclude>
+{{documentation}}
+</noinclude>

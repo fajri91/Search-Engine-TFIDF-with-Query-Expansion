@@ -1,0 +1,107 @@
+Stasiun Ana Rosa
+{{Infobox station
+ |name           = Stasiun Ana Rosa
+ |image          = 
+ |image_caption  = 
+ |address        = Rua Domingos de Morais, 505 - [[Distrik Vila Mariana|Vila Mariana]]
+ |coordinates    = {{coord|-23.58125|-46.63847|format=dms|region:BR_type:railwaystation|display=inline,title}}
+ |code           = ANR
+ |levels         = Bawah tanah
+ |platform       = Pusat
+ |line           = [[Jalur 1 (angkutan cepat So Paulo)|Jalur 1-Biru]]<br />[[Jalur 2 (angkutan cepat So Paulo)|Jalur 2-Hijau]]
+ |opened         = [[17 Februari]] [[1975]] (Jalur 1)<br />[[12 September]] [[1992]] (Jalur 2)
+ |closed         = 
+ |owned          = [[Companhia do Metropolitano de So Paulo]]
+ |passengers     = 40.000
+ |services       = [[Berkas:Wheelchair symbol.svg|30px]] [[Berkas:Aiga taxi.svg|30px]] [[Berkas:Aiga bus.svg|30px]] [[Berkas:Aiga escalator.svg|30px]] [[Berkas:Aiga elevator.svg|30px]] [[Berkas:Parking sign (Brazil).svg|30px]]
+}}
+'''Stasiun Ana Rosa''' ({{lang-pt|Estao Ana Rosa}}; kode: '''ANR''') adalah stasiun [[angkutan cepat di So Paulo]] yang terletak di [[distrik Vila Mariana]], [[So Paulo]]. Stasiun ini pertama kali dibuka pada tanggal [[17 Februari]] [[1975]], dan dioperasikan oleh [[Companhia do Metropolitano de So Paulo]]. Stasiun [[angkutan cepat]] ini memiliki koneksi ke [[terminal bus]] perkotaan.
+
+== Rute SPTrans ==
+Rute bus [[SPTrans]] yang meninggalkan dari stasiun angkutan cepat Ana Rosa.
+<center>
+{|{{prettytable}}
+!align="center"|Jalur 
+!align="center"|Destinasi
+|-
+|align="center"|'''175P/10'''
+|align="center" bgcolor="darkblue" style="color:white"|Edu Chaves
+|-
+|align="center"|'''375N/10'''
+|align="center" bgcolor="red" style="color:white"|Metr Bresser
+|-
+|align="center"|'''476G/41'''
+|align="center" bgcolor="#006400" style="color:white"|Vila Industrial
+|-
+|align="center"|'''675N/10'''
+|align="center" bgcolor="#900020" style="color:white"|Terminal Santo Amaro
+|-
+|align="center"|'''677A/10'''
+|align="center" bgcolor="#900020" style="color:white"|Terminal Jardim ngela
+|-
+|align="center"|'''695V/10'''
+|align="center" bgcolor="#900020" style="color:white"|Terminal Capelinha
+|-
+|align="center"|'''7710/10'''
+|align="center" bgcolor="#900020" style="color:white"|Terminal Guarapiranga
+|-
+|align="center"|'''775P/10'''
+|align="center" bgcolor="orange"|Jardim Guarau
+|-
+|align="center"|'''875P/10'''
+|align="center" bgcolor="orange"|Metr Barra Funda
+|-
+|align="center"|'''917M/10'''
+|align="center" bgcolor="#00FF00"|Morro Grande
+|-
+|align="center"|'''917M/31'''
+|align="center" bgcolor="#00FF00"|Morro Grande
+|-
+|align="center"|'''975A/10'''
+|align="center" bgcolor="#00FF00"|Vila Brasilndia
+|}
+</center>
+
+== Tempat terkenal di stasiun ini ==
+* [[Shangrila House]] 
+* [[Faculdade e Conservatrio Marcelo Tupinamb]] 
+* [[Colgio Bandeirantes]] 	
+* [[Colgio Etapa]] 
+* [[Colgio Benjamin Constant]]
+* Gereja Pembaptis Povo 
+* Gereja Pembaptis Vila Mariana 	
+* Gereja Injil Arab So Paulo 	
+* Gereja Mesianis Dunia Brasil - Sede Central 
+* Gereja Presbiterian Smirna Korea di Brasil 	
+* Gereja Presbiterian Vila Mariana 	
+* Gereja Masyarakat So Bonifcio 	
+* Gereja Ana Rosa 	
+* Paroki Santo Incio de Loyola 	
+* Gereja Kapel Biara Perkunjungan 	
+* [[Rumah sakit Kesehatan Santa Rita]]
+* [[Rumah sakit Amico]] 	
+* [[Rumah sakit Monte Ararat]] 	
+* [[Taman Aclimao]]
+* Rua Doutor Jos de Queiroz Aranha
+
+== Pranala luar ==
+* {{pt}} [http://www.metro.sp.gov.br/redes/azul/teanarosa.shtml Stasiun Ana Rosa] di situs Metr SP
+
+{{start box}}
+{{succession box
+|title=[[Jalur 1 (angkutan cepat So Paulo)]]
+|years='''Ana Rosa'''
+|before=[[Stasiun Paraso|Paraso]]<br /><small>Jarak: 702 meter</small>
+|after=[[Stasiun Vila Mariana|Vila Mariana]]<br /><small>Jarak: 973 meter</small>
+}}
+{{succession box
+|title=[[Jalur 2 (angkutan cepat So Paulo)]]
+|years='''Ana Rosa'''
+|before=[[Stasiun Paraso|Paraso]]<br /><small>Jarak: 706 meter</small>
+|after=[[Stasiun Chcara Klabin|Chcara Klabin]]<br /><small>Jarak: 1.526 meter</small>
+}}
+{{end box}}
+{{Angkutan cepat di So Paulo}}
+{{metro-stub}}
+
+[[Kategori:Stasiun angkutan cepat di So Paulo|Ana Rosa]]

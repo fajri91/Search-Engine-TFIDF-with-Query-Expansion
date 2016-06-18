@@ -1,0 +1,14 @@
+Berkas:Usagi Drop Cover.png
+== {{int:filedesc}} ==
+{{Information
+| description    = Sampul depan volume 1 dari manga ''[[Usagi Drop]]''
+| source         = {{dari|en|3=Fairuse}}
+| date           = n.d.
+| location       = n.a.
+| author         = n.a.
+| permission     = 
+| other_versions = 
+}}
+
+== {{int:license-header}} ==
+{{fairuse}}

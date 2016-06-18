@@ -1,0 +1,543 @@
+Kehidupan
+{{automatic taxobox
+|taxon=Life
+|color=limegreen
+|name='''Kehidupan ([[Biota (taksonomi)|Biota / Vitae / Eobionti]])'''
+|image=Ruwenpflanzen.jpg
+|image_width=250px
+|image_caption = Tumbuhan di [[Pegunungan Rwenzori]], [[Uganda]]
+|subdivision_ranks=[[Domain (biologi)|Domain]] dan [[Kerajaan (biologi)|Kerajaan]]
+|subdivision=Kehidupan di bumi:
+* [[Kehidupan non-selular]]<ref group="note">'Evolusi' virus dan bentuk lainnya yang mirip masih belum jelas. Sehingga, klasifikasi ini mungkin [[parafiletik]] karena kehidupan selular mungkin berevolusi dari kehidupan non-selular, atau [[polifiletik]] karena leluhur umum terakhir tidak dimasukkan.</ref><ref group="note">Molekul protein penginfeksi ([[prion]]) tidak dianggap organisme hidup, namun bisa dideskripsikan sebagai ''organism-comparable organic structures''.</ref>
+** [[Virus]]<ref group="note">As specific virus-dependent organic structures can be considered [[satellite (biology)|satellites]] and [[defective interfering particle]]s, both of which require [[helper virus|another virus]] help for their replication.</ref>
+** [[Viroid]]
+* [[Sel (biologi)|Kehidupan selular]]
+** [[Bakteri|Bacteria]]
+** [[Arkea|Archaea]]
+** [[Eukariota|Eukarya]]
+*** [[Protista]]
+*** [[Fungi]]
+*** [[Tumbuhan|Plantae]]
+*** [[Hewan|Animalia]]}}
+'''Kehidupan''' (bdk. [[biota]]) adalah ciri yang membedakan objek yang memiliki [[proses biologis|isyarat dan proses penopang diri]] (organisme hidup) dengan objek yang tidak memilikinya,<ref name=Koshland>{{Cite journal
+  | title      = The Seven Pillars of Life
+  | journal    = Science
+  | date       = March 22, 2002
+  | first      = Daniel E.
+  | last       = Koshland Jr
+  | volume     = 295
+  | issue      = 5563
+  | pages      = 22152216
+  | doi        = 10.1126/science.1068489
+  | url        = http://www.sciencemag.org/cgi/content/full/295/5563/2215
+  | accessdate = 2009-05-25
+  | pmid       = 11910092
+  }}</ref><ref name=AHDLife>The [[American Heritage Dictionary]] of the English Language, 4th edition, published by Houghton Mifflin Company, via [http://www.answers.com/topic/life Answers.com]:
+* "The property or quality that distinguishes living organisms from dead organisms and inanimate matter, manifested in functions such as metabolism, growth, reproduction, and response to stimuli or adaptation to the [[Environment (biophysical)|environment]] originating from within the organism."
+* "The characteristic state or condition of a living organism."</ref> baik karena fungsi-fungsi tersebut telah mati atau karena mereka tidak memiliki fungsi tersebut dan diklasifikasikan sebagai benda mati.<ref>[http://wordnetweb.princeton.edu/perl/webwn?s=inanimate Definition of ''inanimate''.] WordNet Search by Princeton University.</ref><ref>{{cite web
+  | url        = http://www.merriam-webster.com/dictionary/life
+  | title      = Merriam-Webster Dictionary
+  | accessdate = 2009-06-21
+  | publisher  = Merriam-Webster Dictionary
+  }}</ref> Ilmu yang berkaitan dengan studi tentang kehidupan adalah [[biologi]].
+
+Organisme hidup mengalami [[metabolisme]], mempertahankan [[homeostasis]], memiliki kapasitas untuk tumbuh, menanggapi rangsangan, bereproduksi, danmelalui [[seleksi alam]]beradaptasi dengan lingkungan mereka dalam generasi berturut-turut. Organisme hidup yang lebih kompleks dapat berkomunikasi melalui berbagai cara.<ref name=Koshland/><ref name=Chambers>{{cite encyclopedia
+  | encyclopedia = Chambers 21st Century Dictionary
+  | edition      = online
+  | year         = 1999
+  | title        = organism
+  }}</ref> Sebuah susunan beragam dari organisme hidup (bentuk kehidupan) dapat ditemukan di [[biosfer]] di bumi, dan sifat-sifat umum dari organisme ini[[tumbuhan]], [[hewan]], [[fungi]], [[protista]], [[Arkea|archaea]], dan [[bakteri]]adalah bentuk sel berbasis [[kehidupan berbasis karbon|karbon]] dan air, dengan organisasi kompleks dan informasi genetik yang bisa diwariskan.
+
+Dalam [[filsafat]] dan [[agama]], konsepsi kehidupan dan sifatnya bervariasi. Keduanya menawarkan interpretasi mengenai bagaimana kehidupan berkaitan dengan keberadaan dan kesadaran, dan keduanya menyentuh isu-isu terkait, termasuk sikap hidup, tujuan, konsep [[tuhan]] atau [[dewa]], [[jiwa]] atau kehidupan setelah [[kematian]].
+
+== Definisi ==
+Untuk mendefinisikan "kehidupan" dalam istilah yang tegas masih merupakan tantangan bagi para ilmuwan dan filsuf.<ref>[http://www.astrobio.net/exclusive/226/defining-life Defining Life : Astrobiology Magazine  earth science  evolution distribution Origin of life universe  life beyond]</ref><ref>[http://www.nbi.dk/~emmeche/cePubl/97e.defLife.v3f.html Defining Life, Explaining Emergence]</ref><ref>{{cite web
+  | url        = http://artsandsciences.colorado.edu/magazine/2009/03/can-we-define-life/
+  | title      = Can We Define Life
+  | accessdate = 2009-06-22
+  | year       = 2009
+  | publisher  = Colorado Arts & Sciences
+  }}</ref> Mendefinisikan "kehidupan" adalah hal yang sulit, karena hidup adalah sebuah proses, bukan substansi murni.<ref name=McKay>{{Cite journal
+  | title      = What Is Lifeand How Do We Search for It in Other Worlds?
+  | journal    = PLoS Biol.
+  | date       = September 14, 2004
+  | first      = Chris P.
+  | last       = McKay
+  | pmid       = 15367939
+  | volume     = 2
+  | issue      = 2(9)
+  | pmc        = 516796
+  | page       = 302
+  | doi        = 10.1371/journal.pbio.0020302
+  | accessdate = 2010-02-02
+  }}</ref> Definisi apapun harus cukup luas untuk mencakup seluruh kehidupan yang dikenal, dan definisi tersebut harus cukup umum, sehingga, dengan itu, ilmuwan tidak akan melewatkan kehidupan yang mungkin secara mendasar berbeda dari kehidupan di bumi.<ref>{{Cite journal
+  | author  = Nealson KH, Conrad PG
+  | title   = Life: past, present and future
+  | journal = Philos. Trans. R. Soc. Lond., B, Biol. Sci.
+  | volume  = 354
+  | issue   = 1392
+  | pages   = 192339
+  | date    = December 1999
+  | pmid    = 10670014
+  | pmc     = 1692713
+  | doi     = 10.1098/rstb.1999.0532
+  | url     = http://journals.royalsociety.org/content/7r10hqn3rp1g1vag/fulltext.pdf
+  }}</ref>
+
+=== Biologi ===
+Karena tidak ada definisi tegas dari kehidupan, pemahaman saat ini bersifat deskriptif: kehidupan merupakan ciri organisme yang menunjukkan semua atau sebagian besar dari fenomena berikut, yaitu:<ref name=McKay/><ref>{{cite web
+  | url        = http://www2.una.edu/pdavis/BI%20101/Overview%20Fall%202004.htm
+  | title      = How to Define Life
+  | accessdate = 2008-10-17
+  | last       = Davison
+  | first      = Paul G.
+  | publisher  = The University of North Alabama
+  }}</ref>
+# '''[[Homeostasis]]''': Pengaturan kondisi internal untuk mempertahankan keadaan konstan, misalnya, konsentrasi elektrolit atau mengeluarkan keringat untuk menurunkan suhu.
+# '''[[Organisasi biologis|Organisasi]]''': Secara struktural terdiri dari satu atau lebih sel, yang merupakan satuan dasar kehidupan.
+# '''[[Metabolisme]]''': Transformasi energi dengan mengubah bahan kimia dan energi menjadi komponen selular ([[anabolisme]]) dan mengurai bahan organik ([[katabolisme]]). Makhluk hidup membutuhkan energi untuk mempertahankan organisasi internal ([[homeostasis]]) dan untuk menghasilkan fenomena lain yang terkait dengan kehidupan.
+# '''Pertumbuhan''': Pemeliharaan tingkat yang lebih tinggi dari katabolisme dan anabolisme. Organisme yang tumbuh bertambah dalam ukuran di semua bagian-bagiannya, bukan hanya sekadar mengumpulkan materi.
+# '''Adaptasi''': Kemampuan untuk berubah selama periode waktu dalam menanggapi lingkungan. Kemampuan ini merupakan hal mendasar untuk proses [[evolusi]] dan ditentukan oleh [[hereditas|perwarisan watak]] organisme maupun komposisi zat yang di-metabolisme, dan berbagai faktor eksternal.
+# '''Respon terhadap rangsangan''': respon dapat dilakukan dalam berbagai bentuk, dari kontraksi organisme uniseluler terhadap bahan kimia eksternal, sampai dengan reaksi kompleks yang melibatkan semua indera organisme multiseluler. Tanggapan sering dinyatakan dengan gerak, misalnya, daun tanaman berbalik ke arah matahari ([[Tropisme#Fototropisme|fototropisme]]) dan oleh [[kemotaksis]].
+# '''[[Reproduksi]]''': Kemampuan untuk menghasilkan organisme individu baru, baik secara [[reproduksi|aseksual]] dari organisme orang tua tunggal, atau secara [[reproduksi|seksual]] dari dua organisme induk.
+
+==== Usulan ====
+Untuk mewakili fenomena minimum yang diperlukan, beberapa definisi biologis lain telah diusulkan, antara lain:<!--
+* Makhluk hidup adalah sistem yang cenderung untuk menanggapi perubahan di lingkungan mereka, dan di dalam diri mereka, dengan cara sedemikian rupa untuk mempromosikan kelanjutan mereka sendiri. [Kutipan diperlukan]-->
+* Sebuah jaringan umpan balik negatif rendah (mekanisme regulasi) yang berada di bawah umpan balik positif yang lebih tinggi (potensi ekspansi, reproduksi)<ref>Korzeniewski, Bernard (2001). "[http://www.ncbi.nlm.nih.gov/pubmed/11312589 Cybernetic formulation of the definition of life]". ''Journal of Theoretical Biology''. 7 April 2011. 209 (3) hal. 27586.</ref>
+* [[Teori sistem kehidupan|Definisi sistemik kehidupan]] adalah bahwa makhluk hidup bersifat [[organisasi diri|mengorganisir diri]] dan [[autopoiesis]] (memproduksi sendiri). Variasi dari definisi ini mencakup definisi [[Stuart Kauffman]] sebagai agen otonom atau sistem multi-agen yang mampu mereproduksi dirinya sendiri atau diri mereka sendiri, dan menyelesaikan setidaknya satu [[siklus termodinamika|siklus kerja termodinamika]].<ref>2004, "Autonomous Agents", in John D. Barrow, P.C.W. Davies, and C.L. Harper Jr., eds., Science and Ultimate Reality: Quantum Theory, Cosmology, and Complexity, Cambridge University Press.</ref>
+* Hidup adalah sistem kimia mandiri yang mampu menjalani evolusi Darwin.<ref>[[Gerald Joyce|Gerald Francis Joyce]], ''"The RNA World: Life Before DNA and Protein"''.</ref>
+* Hal-hal yang memiliki kemampuan untuk [[metabolisme]] dan pergerakan.<ref name=McKay/>
+* Hidup adalah penundaan pembauran atau penyebaran spontan energi internal dari biomolekul menuju kondisi mikro yang lebih potensial.<ref name=BC>{{cite web
+  | url        = http://biocab.org/Astrobiology.html
+  | title      = Astrobiology
+  | accessdate = 2011-01-17
+  | date       = September 26, 2006
+  | publisher  = Biology Cabinet
+  }}</ref>
+* Makhluk hidup adalah sistem termodinamika yang memiliki struktur [[molekul]] yang terorganisir.<ref name=BC/>
+
+==== Virus ====
+[[Berkas:Influenza virus.png|thumb|right|200px|Virus [[influensa]].]]
+[[Virus]] lebih sering dianggap sebagai replikator daripada sebagai bentuk kehidupan. Mereka telah digambarkan sebagai "organisme di tepi kehidupan,"<ref>{{Cite journal
+  | last    = Rybicki
+  | first   = EP
+  | year    = 1990
+  | title   = The classification of organisms at the edge of life, or problems with virus systematics
+  | journal = S Aft J Sci
+  | volume  = 86
+  | pages   = 182186
+  }}</ref> karena mereka memiliki [[gen]], berevolusi dengan [[seleksi alam]],<ref name="pmid17914905">{{Cite journal
+  | author     = Holmes EC
+  | title      = Viral evolution in the genomic age
+  | journal    = PLoS Biol.
+  | volume     = 5
+  | issue      = 10
+  | pages      = e278
+  | date       = October 2007
+  | pmid       = 17914905
+  | pmc        = 1994994
+  | doi        = 10.1371/journal.pbio.0050278
+  | url        = http://biology.plosjournals.org/perlserv/?request=get-document&doi=10.1371/journal.pbio.0050278
+  | accessdate = 2008-09-13
+  }}</ref> dan mereplikasi dengan menciptakan beberapa salinan dari diri mereka sendiri melalui perakitan diri. Namun, virus tidak ber[[metabolisme]] dan memerlukan sel induk untuk membuat produk baru. Perakitan diri virus dalam sel induk memiliki implikasi untuk studi asal usul kehidupan, karena dapat mendukung [[hipotesis]] bahwa kehidupan dapat dimulai dari [[molekul|molekul organik]] yang bersifat merakit diri.<ref name="pmid16984643">{{Cite journal
+  | author     = Koonin EV, Senkevich TG, Dolja VV
+  | title      = The ancient Virus World and evolution of cells
+  | journal    = Biol. Direct
+  | volume     = 1
+  | page       = 29
+  | year       = 2006
+  | pmid       = 16984643
+  | pmc        = 1594570
+  | doi        = 10.1186/1745-6150-1-29
+  | url        = http://www.biology-direct.com/content/1//29
+  | accessdate = 2008-09-14
+  }}</ref><ref>{{cite web
+  | url        = http://www.mcb.uct.ac.za/tutorial/virorig.html#Virus%20Origins
+  | title      = Origins of Viruses
+  | accessdate = 2009-04-12
+  | last       = Rybicki
+  | first      = Ed
+  | date       = November 1997
+  }}</ref>
+
+=== Biofisika ===
+Ahli biofisika juga berkomentar tentang sifat dan kualitas dari bentuk-bentuk kehidupanterutama bahwa mereka berfungsi pada [[entropi negatif]].<ref>{{Cite book
+|last      = Schrdinger
+|first     = Erwin
+|title     = What is Life?
+|publisher = Cambridge University Press
+|year      = 1944
+|isbn      = 0-521-42708-8
+  }}</ref><ref>{{Cite book
+|last      = Margulis
+|first     = Lynn
+|coauthor  = Sagan, Dorion
+|title     = What is Life?
+|publisher = University of California Press
+|year      = 1995
+|isbn      = 0-520-22021-8
+  }}</ref> Secara lebih rinci, menurut fisikawan seperti [[John Bernal]], [[Erwin Schrdinger]], [[Eugene Wigner]], dan [[John Avery]], kehidupan adalah anggota dari kelas fenomena yang terbuka atau terus-menerus mampu menurunkan [[entropi]] internal mereka, dengan mengorbankan substansi atau [[energi bebas]] yang diambil dari [[lingkungan (biofisika)|lingkungan]] dan kemudian ditolak dalam bentuk terdegradasi.<ref>{{Cite book
+|last      = Lovelock
+|first     = James
+|title     = Gaia  a New Look at Life on Earth
+|publisher = Oxford University Press
+|year      = 2000
+|isbn      = 0-19-286218-9
+  }}</ref><ref>{{Cite book
+|last      = Avery
+|first     = John
+|title     = Information Theory and Evolution
+|publisher = World Scientific
+|isbn      = 9812383999
+|year      = 2003
+  }}</ref><ref>{{cite web
+  | date       = September 29, 2006
+  | publisher  = Biology Cabinet
+  | url        = http://biocab.org/Exobiology.html#anchor_41
+  | title      = BIOPHYSICS: DEFINITION OF LIFE AND BRIEF EXPLANATION OF EACH TERM
+  | accessdate = 2009-07-22
+  | first      = Nahle, Nasif S. Exobiology
+  }}</ref>
+
+=== Teori sistem kehidupan ===
+Dalam beberapa dekade terakhir, sejumlah ilmuwan telah mengusulkan beberapa teori sistem kehidupan yang bersifat umum yang diperlukan untuk menjelaskan sifat dari kehidupan.<ref>{{Cite book
+|last      = Woodruff
+|first     = T. Sullivan
+|coauthor  = John Baross
+|title     = Planets and Life: The Emerging Science of Astrobiology
+|publisher = Cambridge University Press
+|date      = October 8, 2007
+  }} Cleland and Chyba wrote a chapter in Planets and Life: "In the absence of such a theory, we are in a position analogous to that of a 16th-century investigator trying to define 'water' in the absence of molecular theory." [...] "Without access to living things having a different historical origin, it is difficult and perhaps ultimately impossible to formulate an adequately general theory of the nature of living systems".</ref> Teori umum semacam itu, yang muncul dari ilmu ekologi dan biologi, berupaya untuk memetakan prinsip-prinsip umum untuk bagaimana semua sistem yang hidup bekerja. Alih-alih memeriksa fenomena dengan mencoba memilah-milah berbagai hal ke dalam bagian-bagian komponennya, teori sistem kehidupan yang umum menyelidiki fenomena dalam hal pola dinamis dari hubungan organisme dengan lingkungan mereka.<ref>{{cite web
+  | url        = http://www.mollyyoungbrown.com/systems_article.htm
+  | title      = Patterns, Flows, and Interrelationship
+  | accessdate = 2009-06-27
+  | first      = Molly Young Brown
+  | year       = 2002
+  }}</ref>
+
+==== Hipotesis Gaia ====
+Gagasan bahwa bumi hidup sudah ada sejak dahulu, tetapi gagasan tersebut baru dikemukakan sebagai fakta ilmiah oleh ilmuwan [[Skotlandia]], [[James Hutton]], pada tahun 1785. Ia menyatakan bahwa bumi adalah superorganisme, dan bahwa penelitian yang tepat harus [[fisiologi]]s. Hutton dikenang sebagai bapak [[geologi]], tetapi gagasan tentang bumi yang hidup dilupakan dalam reduksionisme kuat dari abad ke-19.<ref>''GAIA  A new look at life on Earth. [[James Lovelock]] 1979. hal. 10. Oxford University Press. ISBN 0-19-286030-5.</ref>
+
+[[Hipotesis Gaia]], yang awalnya diusulkan pada tahun 1960 oleh ilmuwan [[James Lovelock]],<ref name="Lovelock1965">{{Cite journal
+  | author  = Lovelock, J.E.
+  | year    = 1965
+  | title   = A physical basis for life detection experiments
+  | journal = [[Nature (jurnal)|Nature]]
+  | volume  = 207
+  | issue   = 7
+  | pages   = 568570
+  | doi     = 10.1038/207568a0
+  | pmid    = 5883628
+  }}</ref><ref>[http://www.jameslovelock.org/page4.html Geophysiology]</ref> merupakan gagasan bahwa kehidupan di bumi berfungsi sebagai organisme tunggal yang benar-benar mendefinisikan dan memelihara kondisi lingkungan yang diperlukan untuk kelangsungan hidup.<ref>''GAIA  A new look at life on Earth. [[James Lovelock]]. 1979. Oxford University Press. ISBN 0-19-286030-5.</ref>
+
+==== Ketidakterpecahan ====
+[[Robert Rosen (biolog teoretis|Robert Rosen]] (1991) membuat asumsi bahwa kekuatan penjelas dari pandangan dunia mekanistik tidak dapat membantu memahami sistem kehidupan. Salah satu klarifikasi penting yang ia buat adalah untuk mendefinisikan komponen sistem sebagai "sebuah satuan organisasi;. Bagian dengan fungsi, yaitu, hubungan pasti antara bagian dan keseluruhan." Dari konsep ini dan konsep awal lainnya, ia mengembangkan sebuah "teori relasional dalam sistem" yang mencoba untuk menjelaskan sifat-sifat khusus dari kehidupan. Secara khusus, ia mengidentifikasi "komponen ketidakterpecahan dalam organisme" sebagai perbedaan mendasar antara sistem kehidupan dan "mesin biologis."<ref>''Life Itself: A Comprehensive Inquiry into the Nature, Origin, and Fabrication of Life''. Rosen, Robert. November, 1991. ISBN 978-0-231-07565-7</ref>
+
+==== Kehidupan sebagai sifat ekosistem ====
+Sebuah pandangan sistem terhadap kehidupan memperlakukan alur lingkungan dan alur biologi bersama-sama sebagai "timbal balik pengaruh",<ref>{{cite web
+  | url        = http://www.calresco.org/fiscus/esl.htm
+  | title      = The Ecosystemic Life Hypothesis
+  | accessdate = 2009-08-28
+  | first      = Daniel A. Fiscus
+  | date       = April 2002
+  | publisher  = Bulletin of the Ecological Society of America
+  }}</ref> dan hubungan timbal balik dengan lingkungan ini bisa dibilang penting untuk memahami kehidupan sebagaimana untuk memahami ekosistem. Sebagaimana Harold J. Morowitz (1992) menjelaskan, kehidupan adalah lebih berupa sifat dari sebuah sistem ekologi daripada suatu organisme tunggal atau spesies.<ref>Morowitz, Harold J. (1992) "Beginnings of Cellular Life: Metabolism Recapitulates Biogenesis". Yale University Press. ISBN 0-300-05483-1</ref> Dia berpendapat bahwa definisi ekosistem dari kehidupan adalah lebih dipilih untuk bidang biokimia atau fisika. Robert Ulanowicz (2009) juga menggarisbawahi mutualisme sebagai kunci untuk memahami sistem, menghasilkan perilaku kehidupan dan ekosistem.<ref>''A Third Window: Natural Life Beyond Newton and Darwin'', Templeton Foundation Press (2009) ISBN 1-59947-154-X</ref>
+
+== Teori awal mengenai kehidupan ==
+[[Berkas:Adansonia grandidieri04.jpg|thumb|Pohon [[baobab]] di [[Madagaskar]].]]
+[[Berkas:Man of the woods.JPG|thumb|[[Orang utan]] di Sumatra.]]
+[[Berkas:EscherichiaColi NIAID.jpg|thumb|''[[Escherichia coli]]''.]]
+=== Materialisme ===
+Beberapa teori paling awal mengenai kehidupan bersifat [[materialisme|materialis]], menyatakan bahwa semua yang ada adalah materi, dan bahwa semua kehidupan pada dasarnya adalah bentuk atau pengaturan yang kompleks dari materi. [[Empedokles]] (430 SM) berpendapat bahwa setiap hal di alam semesta terdiri dari kombinasi empat "elemen" abadi atau "akar dari semua": bumi, air, udara, dan api. Semua perubahan dijelaskan oleh pengaturan dan penataan ulang dari empat elemen tersebut. Berbagai bentuk kehidupan disebabkan oleh campuran yang tepat dari unsur-unsur. Misalnya, pertumbuhan tanaman disebabkan oleh gerakan ke bawah secara alami unsur bumi dan gerakan ke atas secara alami dari api.<ref>[http://plato.stanford.edu/entries/empedocles SEP]</ref>
+
+[[Demokritos]] (460 SM), murid [[Leukippos]], berpikir bahwa karakteristik penting dari kehidupan adalah memiliki jiwa (''psyche''). Sama seperti dengan penulis kuno lainnya, ia juga menggunakan istilah tersebut untuk mengartikan prinsip makhluk hidup yang menyebabkan mereka berfungsi sebagai makhluk hidup. Dia berpikir bahwa jiwa terdiri dari atom api, karena hubungan nyata antara hidup dan panas, dan karena api bergerak.<ref>[http://plato.stanford.edu/entries/democritus/#4 SEP]</ref> Dia juga menyatakan bahwa manusia pada awalnya hidup seperti binatang, secara bertahap mengembangkan masyarakat untuk membantu sesama, memulai bahasa, dan mengembangkan kerajinan dan pertanian.<ref>''Ibidem''</ref>
+Dalam [[revolusi ilmiah]] [[abad ke-17]], ide-ide mekanistik dihidupkan kembali oleh filsuf seperti [[Ren Descartes]].
+
+=== Hylemorfisme ===
+[[Hylemorfisme]] adalah teori yang berasal dari [[Aristoteles]] (322 SM) yang menyatakan bahwa segala sesuatu adalah kombinasi dari materi dan bentuk. Aristoteles adalah salah satu penulis kuno pertama yang melakukan pendekatan pada subjek hidup dengan cara ilmiah. Biologi adalah salah satu minat utamanya, dan terdapat bahan biologi yang ekstensif dalam tulisan-tulisannya. Menurut dia, segala sesuatu di alam semesta material memiliki unsur materi dan bentuk. Bentuk dari suatu makhluk hidup adalah jiwanya (dalam [[bahasa Yunani]], ''psyche '', Latin ''anima''). Menurut Aristoteles, terdapat tiga macam jiwa, yaitu:<ref>Aristotle, ''De Anima'', Book II</ref>
+* "jiwa vegetatif" tanaman, yang menyebabkan mereka untuk tumbuh dan membusuk dan memelihara diri mereka sendiri, tetapi tidak menyebabkan gerakan dan sensasi
+* "jiwa hewan" yang menyebabkan hewan untuk bergerak dan merasa;
+* jiwa rasional yang merupakan sumber kesadaran dan penalaran yang (Aristoteles yakini) hanya ada pada manusia.
+Setiap jiwa yang lebih tinggi memiliki semua atribut dari jiwa yang lebih rendah. Aristoteles percaya bahwa walau materi bisa ada tanpa forma, forma tidak bisa ada tanpa materi, sehingga jiwa tidak bisa ada tanpa tubuh.<ref>''Introduction to Ancient Philosophy'', Don Marietta, hal. 104.</ref>
+
+Penjelasan yang selaras dengan hylemorfisme adalah penjelasan [[teleologi]]s mengenai kehidupan. Sebuah penjelasan teleologis menjelaskan mengenai fenomena dalam maksud atau arah tujuan dari fenomena tersebut. Maka, warna putih beruang kutub dijelaskan dengan tujuan kamuflase. Arah sebab-akibat semacam ini bersifat berlawanan dengan ilmu pengetahuan materialistik, yang menjelaskan akibat dari penyebab sebelumnya. Ahli biologi modern sekarang menolak pandangan fungsional ini dari segi materi dan sebab-akibat: ciri biologis harus dijelaskan bukan dengan melihat ke depan untuk hasil yang optimal pada masa depan, tetapi dengan melihat mundur ke masa lalu sejarah evolusi suatu spesies, yang mengarah kepada [[seleksi alam]] dari objek yang dipertanyakan.
+
+=== Vitalisme ===
+[[Vitalisme]] adalah keyakinan bahwa prinsip-kehidupan pada dasarnya tidak material. Gagasan ini berasal dari [[Georg Ernst Stahl]] (abad ke-17), dan bertahan hingga pertengahan abad ke-19.. Vitalisme menjadi daya tarik bagi filsuf seperti [[Henri Bergson]], [[Friedrich Nietzsche]], [[Wilhelm Dilthey]], ahli anatomi seperti [[Marie Franois Xavier Bichat]], dan ahli kimia seperti [[Justus Liebig]].
+
+Vitalisme menyokong ide pemisahan fundamental antara bahan organik dan anorganik, dan keyakinan bahwa materi organik hanya dapat berasal dari makhluk hidup. Hal ini dibantah pada tahun 1828 ketika [[Friedrich Whler]] menyiapkan [[urea]] dari bahan anorganik.<ref>{{cite journal
+  | title   = Ueber knstliche Bildung des Harnstoffs
+  | author  = [[Friedrich Whler]]
+  | journal = [[Annalen der Physik und Chemie]]
+  | volume  = 88
+  | issue   = 2
+  | pages   = 253256
+  | year    = 1828
+  | doi     = 10.1002/andp.18280880206
+  | url     = http://gallica.bnf.fr/ark:/12148/bpt6k15097k/f261.chemindefer
+  }}</ref> [[Sintesis Whler]] tersebut dianggap sebagai titik awal kimia organik modern. Hal tersebut merupakan peristiwa bersejarah, karena untuk pertama kalinya suatu senyawa organik yang dihasilkan dari reaktan anorganik.
+
+Kemudian, [[Hermann von Helmholtz]], didahului oleh [[Julius von Mayer|Julius Robert von Mayer]], menunjukkan bahwa tidak ada energi yang hilang dalam gerakan otot, yang menunjukkan bahwa tidak ada "kekuatan vital" yang diperlukan untuk menggerakkannya. Pengamatan empiris ini menyebabkan diabaikannya teori vitalistik dalam sains, meskipun keyakinan ini tetap hidup dalam teori-teori non-ilmiah seperti [[homeopati]], yang menafsirkan bahwa berbagai penyakit disebabkan oleh gangguan pada kekuatan vital atau kekuatan hidup.
+
+== Asal-usul ==
+Bukti menunjukkan bahwa kehidupan di bumi telah ada sekitar 3,7 miliar tahun.<ref>"[http://www.ucmp.berkeley.edu/exhibits/historyoflife.php History of life through time]". University of California Museum of Paleontology.</ref> Semua bentuk kehidupan yang dikenal punya mekanisme molekuler dasar, dan berdasarkan pengamatan ini, teori-teori tentang asal usul kehidupan berupaya menemukan mekanisme yang menjelaskan pembentukan satu sel organisme primordial dari mana semua kehidupan berasal. Ada berbagai hipotesis yang berbeda tentang jalan yang dilalui dari [[molekul organik]] sederhana melalui kehidupan pra-selular menuju protosel dan metabolisme. Banyak model jatuh ke dalam kategori "gen pertama" atau kategori "metabolisme-pertama", tetapi tren terbaru adalah munculnya model hibrida yang menggabungkan kedua kategori.<ref>Coveney, Peter V.; Philip W. Fowler. "Modelling biological complexity: a physical scientist's perspective". ''Journal of the Royal Society Interface''. 2005. 2 (4) hal. 267280. {{Doi|10.1098/rsif.2005.0045}}</ref>
+
+Tak ada konsensus ilmiah mengenai bagaimana kehidupan bermula dan semua teori yang diusulkan sangatlah spekulatif. Bagaimanapun juga, kebanyakan model ilmiah yang diterima dibangun dengan satu atau lain cara di atas hipotesis-hipotesis sebagai berikut:
+* [[Percobaan Miller-Urey]] dan karya [[Sidney W. Fox]] yang menyatakan bahwa kondisi bumi yang primitif mungkin lebih mendukung reaksi-reaksi kimia yang menyintesiskan sebagian [[asam amino]] dan [[senyawa organik]] lainnya dari prekursor non-organik.
+* [[Fosfolipid]] secara spontan membentuk ''[[lipid bilayer]]'', struktur dasar dari [[membran sel]].
+
+Kehidupan seperti yang kita kenal sekarang ini menyintesis [[protein]], yang merupakan [[polimer]] dari asam amino menggunakan instruksi yang dikodekan oleh gen-gen seluleryang merupakan polimer dari [[asam deoksiribonukleat]] (DNA). [[Sintesis protein]] juga memerlukan perantara polimer [[asam ribonukleat]] (RNA). Salah satu kemungkinan adalah bahwa gen muncul pertama<ref>Senapathy, Periannan, Independent Birth of Organisms, Madison, WI. Genome Press, 1994.</ref> dan kemudian protein. Kemungkinan lain adalah bahwa protein muncul lebih dulu<ref>Eigen, Manfred, Steps Towards Life: A Perspective on Evolution (German edition, 1987), Oxford University Press, 1992. hal 31.</ref> dan lalu gen. Namun, karena gen diperlukan untuk membuat protein, dan protein juga diperlukan untuk membuat gen, mempertimbangkan masalah yang mana yang muncul lebih dulu seperti mempermasalahkan [[ayam atau telur]].
+
+Kebanyakan ilmuwan telah mengadopsi hipotesis bahwa karena DNA dan protein berfungsi bersama-sama dengan intim, tampak tidak mungkin bahwa mereka muncul secara independen.<ref name="Barazesh, Solmaz 2009">Barazesh, Solmaz, How RNA Got Started: Scientists Look for the Origins of Life, Science News, 13 Mei 2009.</ref> Oleh karena itu, banyak ilmuwan mempertimbangkan kemungkinan, yang tampaknya pertama kali diusulkan oleh [[Francis Crick]],<ref>Watson, James D., Prologue: Early Speculations and Facts about RNA Templates, hal. xvxxiii, The RNA World, R.F. Gesteland and J.F. Atkins, Eds., Cold Spring Harbor Laboratory Press, 1993.</ref> bahwa kehidupan pertama berbasis pada perantara DNA-protein: RNA.<ref name="Barazesh, Solmaz 2009"/> Bahkan, RNA memiliki sifat penyimpanan informasi dan replikasi dan sifat [[katalis|katalitik]] dari beberapa protein yang mirip DNA. Crick dan ilmuwan lainnya mendukung [[hipotesis dunia RNA|hipotesis RNA-pertama]]<ref>Gilbert, Walter, The RNA world, p 618 v 319, Nature, 1986.</ref> bahkan sebelum sifat katalitik RNA telah ditunjukkan oleh [[Thomas Cech]].<ref>Cech, Thomas R., A model for the RNA-catalyzed replication of RNA, p 4360-4363 v 83, Proc. Nat. Acad. Sci., USA, 1986.</ref>
+
+Sebuah masalah yang penting dalam hipotesis RNA-pertama adalah bahwa eksperimenyang dirancang untuk menyintesis RNA dari prekursor sederhana belum seberhasil seperti percobaan Miller-Urey yang menyintesis molekul organik lainnya dari prekursor anorganik. Salah satu alasan dari kegagalan membuat RNA di laboratorium adalah bahwa prekursor RNA sangat stabil dan tidak bereaksi satu sama lain dalam keadaan ambien. Namun, sintesis molekul RNA tertentu yang berhasil dalam keadaan yang diduga sama seperti saat sebelum kehidupan muncul di Bumi telah dicapai dengan menambahkan prekursor alternatif dalam urutan tertentu dengan prekursor [[fosfat]] dihadirkan selama reaksi.<ref>Powner, Matthew W., Batrice Gerland and John D. Sutherland, Synthesis of activated pyrimidine ribonucleotides in prebiotically plausible conditions, Nature 459, 239242 (14 May 2009).</ref> Penelitian ini membuat hipotesis RNA-pertama lebih masuk akal bagi banyak ilmuwan.<ref>Szostak, Jack W., Origins of life: Systems chemistry on early Earth, Nature 459, 171172 (14 May 2009).</ref>
+
+Percobaan terbaru telah menunjukkan evolusi Darwin sejati dari enzim RNA unik ([[ribozim]]) terdiri dari dua komponen katalitik terpisah yang mereplikasi satu sama lain secara ''in vitro''.<ref>Lincoln, Tracey A. and Gerald F. Joyce, Self-Sustained Replication of an RNA Enzyme, Science 27 February 2009: Vol. 323, No. 5918, hal. 12291232, DOI: 10.1126/science.1167856.</ref> Dalam menjelaskan hal ini dari laboratoriumnya, [[Gerald Joyce]] menyatakan: "Ini adalah contoh pertama, di luar biologi, dari adaptasi evolusioner dalam sistem genetika molekuler."<ref>Joyce, Gerald F., Evolution in an RNA World, Cold Spring Harb Symp Quant Biol sqb.2009.74.004; Published in Advance August 10, 2009, doi:10.1101/sqb.2009.74.004.</ref> Percobaan tersebut membuat kemungkinan adanya dunia RNA primordial menjadi lebih menarik bagi banyak ilmuwan.
+
+== Kondisi kehidupan ==
+[[Berkas:20100422 235222 Cyanobacteria.jpg|thumb|[[Cyanobacteria]] [[bencana oksigen|mengubah]] komposisi bentuk kehidupan di Bumi dengan merangsang [[keanekaragaman hayati]] dan hampir memunahkan [[organisme anaerobik|organisme-organisme yang tidak memerlukan oksigen]].]]
+Keanekaragaman kehidupan di Bumi saat ini adalah hasil dari interaksi dinamis antara kesempatan genetis, kemampuan metabolisme, tantangan lingkungan,<ref name=astrobiology>{{cite web
+  | url        = http://astrobiology.arc.nasa.gov/roadmap/g5.html
+  | title      = Understand the evolutionary mechanisms and environmental limits of life
+  | accessdate = 2009-07-13
+  | last       = Rothschild
+  | first      = Lynn
+  | date       = September, 2003
+  | publisher  = NASA
+  }}</ref> dan simbiosis.<ref>{{Cite journal
+  | title      = Symbiosis and the origin of life
+  | journal    = Origins of Life and Evolution of Biospheres
+  | date       = April, 1977
+  | first      = G.A.M.
+  | last       = King
+  | volume     = 8
+  | issue      = 1
+  | pages      = 3953
+  | doi        = 10.1007/BF00930938
+  | url        = http://www.springerlink.com/content/n10p775113175l67/
+  | accessdate = 2010-02-22
+  | bibcode    = 1977OrLi....8...39K
+  }}</ref><ref>{{Cite book
+|last      = Margulis
+|first     = Lynn
+|title     = The Symbiotic Planet: A New Look at Evolution
+|publisher = Orion Books Ltd.
+|year      = 2001
+|location  = London, England
+|isbn      = 0-75380-785-8
+  }}</ref><ref>{{Cite book
+|author    = Douglas J. Futuyma
+|coauthor  = Janis Antonovics
+|title     = Oxford surveys in evolutionary biology: Symbiosis in evolution
+|publisher = Oxford University Press
+|year      = 1992
+|volume    = 8
+|location  = London, England
+|pages     = 347374
+|isbn      = 0-19-507623-0
+  }}</ref> Hampir selama keberadaannya, lingkungan Bumi yang dapat dihuni telah didominasi oleh [[mikroorganisme]] dan berada di bawah metabolisme mereka dan evolusi. Sebagai akibat dari aktivitas mikroba tersebut pada [[skala waktu geologis]], lingkungan fisik-kimia di Bumi telah berubah, sehingga menentukan jalan evolusi kehidupan berikutnya.<ref name=astrobiology/> Sebagai contoh, pelepasan oksigen molekular oleh [[cyanobacteria]] sebagai hasil tambahan [[fotosintesis]] menyebabkan perubahan global. Lingkungan yang berubah menimbulkan tantangan evolusi baru untuk organisme yang ada saat itu, yang akhirnya menagkibatkan pembentukan hewan dan tumbuhan di planet kita. Oleh sebab itu "ko-evolusi" antara organisme dan lingkungan mereka tampaknya merupakan ciri yang melekat dari sistem kehidupan.<ref name=astrobiology/>
+
+=== Jangkauan ketahanan ===
+Komponen lembam dari ekosistem adalah faktor fisis dan kimia yang diperlukan untuk kehidupanenergi (sinar matahari atau energi kimia), air, [[suhu]], [[atmosfer]], [[gravitasi]], [[nutrisi]], dan [[lapisan ozon|perlindungan dari radiasi matahari]].<ref>{{cite web
+  | url        = http://cmapsnasacmex.ihmc.us/servlet/SBReadResourceServlet?rid=1025200161109_2045745605_1714&partName=htmltext
+  | title      = Essential requirements for life
+  | accessdate = 2009-07-14
+  | publisher  = CMEX-NASA
+  }}</ref> Dalam kebanyakan ekosistem kondisi-kondisi yang ada bervariasi sepanjang hari dan sering berubah dari satu musim ke musim berikutnya. Untuk hidup dalam banyak ekosistem , maka, organisme harus mampu bertahan dalam berbagai kondisi, yang disebut "jangkauan ketahanan."<ref name=tolerance>{{Cite book
+|last  = Chiras
+|first = Daniel C.
+|title = Environmental Science  Creating a Sustainable Future
+|year  = 2009
+  }}</ref> Di luar itu adalah "zona stres fisiologis," tempat kelangsungan hidup dan reproduksi masih dimungkinkan tetapi tidak optimal. Di luar zona ini adalah "zona ketidaktahanan," yang tidak memungkinkan organisme tersebut untuk hidup. Telah ditentukan bahwa organisme yang memiliki jangkauan ketahanan lebih luas akan lebih menyebar daripada organisme dengan jangkauan ketahanan yang sempit.<ref name=tolerance/>
+
+=== Ekstremofili ===
+{{main|Ekstremofili}}
+[[Berkas:Deinococcus radiodurans.jpg|thumb|''[[Deinococcus radiodurans]]'' dapat bertahan dari paparan radiasi.]]
+
+Untuk bertahan hidup, beberapa mikroorganisme dapat mengambil bentuk yang memungkinkan mereka untuk tahan terhadap [[psikrofili|pembekuan]], [[xerofili|pengeringan mutlak]], [[oligotrof|kelaparan]], tingkat paparan radiasi yang tinggi, dan tantangan fisik atau kimia lainnya. Selain itu, beberapa mikroorganisme dapat bertahan terhadap paparan kondisi seperti itu selama hitungan minggu, bulan, tahun, atau bahkan abad.<ref name= astrobiology/>
+
+Ekstremofili adalah bentuk-bentuk kehidupan mikroba yang berkembang di luar rentang kehidupan yang biasa ditemukan. Mereka juga unggul dalam pemanfaatan sumber energi yang tak biasa. Sementara semua organisme tersusun dari molekul yang hampir identik, evolusi telah memungkinkan mikroba tersebut untuk mengatasi berbagai kondisi fisik dan kimia yang luas ini. Karakterisasi struktur dan keragaman metabolisme dari komunitas mikroba di lingkungan yang ekstrem tersebut terus berlangsung. Pemahaman tentang kegigihan dan fleksibilitas dari kehidupan di Bumi, sebagaimana pemahaman tentang sistem molekuler yang dimanfaatkan beberapa organisme untuk bertahan hidup di kondisi ekstrem, akan memberikan landasan yang penting untuk mencari [[kehidupan ekstraterestrial|kehidupan di luar Bumi]].<ref name=astrobiology/>
+
+=== Unsur kimia yang diperlukan ===
+Semua bentuk kehidupan membutuhkan [[unsur kimia]] tertentu yang diperlukan untuk fungsi [[biokimia]]. Unsur ini meliputi [[karbon]], [[hidrogen]], [[nitrogen]], [[oksigen]], [[fosfor]], dan [[sulfur]]makronutrisi untuk semua organisme<ref name=wsj20101203>
+[http://online.wsj.com/article/SB10001424052748703377504575650840897300342.html?mod=ITP_pageone_1#printMode New Link in Chain of Life], ''[[Wall Street Journal]]'', 2010-12-03, diakses 5 Desember 2010. ''"Until now, however, they were all thought to share the same biochemistry, based on the Big Six, to build proteins, fats and DNA."''</ref> Bersama, unsur-unsur ini membentuk [[asam nukleat]], protein dan [[lipid]], bagian besar dari materi hidup.
+
+Hipotesis alternatif biokimia telah diajukan dengan menghilangkan satu atau lebih dari unsur-unsur, dengan menukar suatu unsur dengan unsur lain yang tidak ada dalam daftar, atau mengubah [[keulinan (kimia)|keulinan]] yang diperlukan atau sifat kimia lainnya.
+
+== Klasifikasi kehidupan ==
+[[Berkas:Biological classification L Pengo vflip.svg|thumb|right|200px|Delapan tingkat taksonomi dalam hierarki klasifikasi biologi, yang merupakan contoh dari [[definisi genus-differentia|definisi oleh genus dan differentia]]. Kehidupan dibagi menjadi domain-domain, yang dibagi dalam kelompok-kelompok lebih lanjut. Peringkat kecil menengah tidak ditampilkan.]]
+
+Secara tradisional, manusia telah membagi organisme ke dalam kelas tumbuhan dan hewan, yang didasarkan terutama pada kemampuan mereka untuk bergerak. Upaya pertama yang diketahui untuk mengklasifikasikan organisme dilakukan oleh filsuf Yunani Aristoteles (384-322 SM). Ia menglasifikasikan semua organisme hidup yang dikenal saat itu sebagai tanaman dan binatang. Aristoteles membedakan hewan dengan darah dari hewan tanpa darah (atau setidaknya tanpa darah merah), yang bisa dibandingkan dengan konsep [[vertebrata]] dan [[invertebrata]]. Ia membagi hewan berdarah ke dalam lima kelompok: hewan berkaki empat yang melahirkan ([[mamalia]]), [[burung]], hewan berkaki empat yg bertelur ([[reptil]] dan [[amfibi]]), [[ikan]] dan [[Cetacea|paus]].
+
+Hewan-hewan tanpa darah juga dibagi menjadi lima kelompok: [[cephalopoda]], [[crustacea]], [[serangga]] (yang juga termasuk [[laba-laba]], [[kalajengking]], dan [[kelabang]], selain apa yang sekarang kita definisikan sebagai serangga), hewan bercangkang (seperti [[moluska]] dan kebanyakan [[echinodermata]]) dan "[[zoofit]]." Meskipun karya Aristoteles dalam zoologi bukan tanpa kesalahan, itu adalah sintesis biologis terbesar saat itu dan tetap menjadi otoritas tertinggi selama berabad-abad setelah kematiannya.<ref>{{Cite news
+ |title      = Aristotle -biography
+ |publisher  = University of California Museum of Paleontology
+ |url        = http://www.ucmp.berkeley.edu/history/aristotle.html
+ |accessdate = 2008-10-20
+  }}</ref>
+
+Penjelajahan [[benua Amerika]] mengungkapkan sejumlah besar tanaman dan hewan baru yang memerlukan deskripsi dan klasifikasi. Di akhir abad ke-16 dan awal abad 17, penelitian terhadap hewan dimulai dan secara bertahap diperluas sampai membentuk bidang pengetahuan yang cukup untuk berfungsi sebagai dasar anatomi bagi klasifikasi.
+
+Pada akhir tahun 1740-an, [[Carolus Linnaeus]] memperkenalkan metodenya, yang masih digunakan, untuk merumuskan nama ilmiah dari setiap spesies.<ref>{{Cite journal
+  | author  = Knapp S, Lamas G, Lughadha EN, Novarino G
+  | title   = Stability or stasis in the names of organisms: the evolving codes of nomenclature
+  | journal = Philosophical transactions of the Royal Society of London. Series B, Biological sciences
+  | volume  = 359
+  | issue   = 1444
+  | pages   = 61122
+  | date    = April 2004
+  | pmid    = 15253348
+  | pmc     = 1693349
+  | doi     = 10.1098/rstb.2003.1445
+  | url     = http://journals.royalsociety.org/openurl.asp?genre=article&issn=0962-8436&volume=359&issue=1444&spage=611
+  }}</ref> Linnaeus berupaya untuk memperbaiki komposisi dan mengurangi panjang dari nama yang terdiri dari banyak kata dengan menghapuskan retorika yang tidak perlu, memperkenalkan ketentuan deskriptif baru dan mendefinisikan maknanya dengan presisi yang belum pernah ada. Dengan konsisten menggunakan sistem itu, Linnaeus memisahkan [[nomenklatur]] dari [[taksonomi]]. Konvensi penamaan untuk spesies ini disebut sebagai [[nomenklatur binomial]].
+
+[[Jamur]] pada awalnya dianggap sebagai tanaman. Untuk jangka pendek Linnaeus telah menempatkan mereka di kelompok [[Vermes]] dalam Animalia. Ia kemudian menempatkan mereka kembali di Plantae. [[Herbert Copeland]] menglasifikasikan jamur dalam Protoctista, sehingga menghindari masalah tetapi mengakui status khusus mereka.<ref name=Copeland1938>{{Cite journal
+  | author  = Copeland, H.F.
+  | year    = 1938
+  | title   = The Kingdoms of Organisms
+  | journal = Quarterly Review of Biology
+  | volume  = 13
+  | issue   = 4
+  | page    = 383
+  | doi     = 10.1086/394568
+  | jstor   = 2808554
+  }}</ref> Masalah itu akhirnya dipecahkan oleh [[Robert Whittaker]], ketika ia memberi mereka kerajaan sendiri dalam [[Kerajaan (biologi)#Sistem Lima Kingdom|sistem lima kerajaannya]]. Ternyata, jamur lebih erat dengan hewan daripada tumbuhan.<ref>{{Cite journal
+  | author  = Whittaker RH
+  | title   = New concepts of kingdoms or organisms. Evolutionary relations are better represented by new classifications than by the traditional two kingdoms
+  | journal = Science
+  | volume  = 163
+  | issue   = 863
+  | pages   = 15060
+  | date    = January 1969
+  | pmid    = 5762760
+  | doi     = 10.1126/science.163.3863.150
+  }}</ref>
+
+Sebagaimana penemuan baru memungkinkan kita untuk mempelajari sel dan mikroorganisme, kelompok baru kehidupan ditemukan, dan bidang ilmu [[biologi sel]] dan [[mikrobiologi]] diciptakan. Organisme baru ini awalnya dijelaskan secara terpisah dalam [[protozoa]] seperti hewan dan [[Thalofita|protofita / thalofita]] sebagai tumbuhan, tetapi dipersatukan oleh [[Ernst Haeckel]] dalam kerajaannya [[protista]], kemudian kelompok prokariota dipisahkan dalam kerajaan [[Monera]], dan akhirnya kerajaan ini akan dibagi dalam dua kelompok terpisah, [[bakteri]] dan [[Archaea]], yang mengarah ke [[Kerajaan (biologi)#Sistem Enam Kingdom|sistem enam kerajaan]] dan akhirnya ke [[sistem tiga domain]] saat ini.<ref name="Woese1990"/>
+
+Klasifikasi eukariota masih kontroversial, dan taksonomi protista masih bermasalah.<ref name="Adl 05">{{Cite journal
+  | author  = Adl SM, Simpson AG, Farmer MA, ''et al.''
+  | title   = The new higher level classification of eukaryotes with emphasis on the taxonomy of protists
+  | journal = J. Eukaryot. Microbiol.
+  | volume  = 52
+  | issue   = 5
+  | pages   = 399451
+  | year    = 2005
+  | pmid    = 16248873
+  | doi     = 10.1111/j.1550-7408.2005.00053.x
+  }}</ref>
+
+Sebagaimana [[mikrobiologi]], [[biologi molekuler]] dan [[virologi]] dikembangkan, agen reproduksi non-selular ditemukan, seperti [[virus]] dan [[viroid]]. Kadang-kadang entitas ini dianggap hidup tetapi ada yang berpendapat bahwa virus bukan organisme hidup karena mereka tidak memiliki karakteristik seperti [[membran sel]], [[metabolisme]] dan tidak tumbuh atau merespon lingkungan mereka. Namun Virus dapat digolongkan menjadi "spesies" yang didasarkan pada biologi dan genetika, tetapi banyak aspek dari klasifikasi tersebut tetap kontroversial.<ref>{{Cite journal
+  | author  = Van Regenmortel MH
+  | title   = Virus species and virus identification: past and current controversies
+  | journal = Infection, genetics and evolution: journal of molecular epidemiology and evolutionary genetics in infectious diseases
+  | volume  = 7
+  | issue   = 1
+  | pages   = 13344
+  | date    = January 2007
+  | pmid    = 16713373
+  | doi     = 10.1016/j.meegid.2006.04.002
+  }}</ref>
+
+Sejak tahun 1960 tren yang disebut [[kladistika]] muncul, yang mengatur taksa dalam [[pohon filogenetika|pohon evolusi atau filogenetika]]. Tidak jelas, apakah hal ini harus diimplementasikan, bagaimana kode yang berbeda akan hidup berdampingan.<ref>{{Cite journal
+  | author   = Pennisi E
+  | title    = Taxonomy. Linnaeus's last stand?
+  | journal  = Science
+  | location = New York, N.Y.
+  | volume   = 291
+  | issue    = 5512
+  | pages    = 23047
+  | date     = March 2001
+  | pmid     = 11269295
+  | url      = http://www.sciencemag.org/cgi/pmidlookup?view=long&pmid=11269295
+  | doi      = 10.1126/science.291.5512.2304
+  }}</ref>
+<center>{{sistem biologi}}</center>
+
+== Kehidupan luar Bumi ==
+{{main|Kehidupan ekstraterestrial|Astrobiologi}}
+[[Berkas:Panspermie.svg|thumb|Penggambaran hipotesis [[panspermia]].]]
+
+[[Bumi]] adalah satu-satunya planet di alam semesta yang dikenal memiliki kehidupan. [[Persamaan Drake]], yang menghubungkan jumlah peradaban ekstraterestrial di galaksi kita yang mungkin kita hubungi, telah digunakan untuk membahas kemungkinan kehidupan di tempat lain, tetapi para ilmuwan tidak setuju pada banyak nilai-nilai variabel dalam persamaan ini. Tergantung pada nilai-nilai tersebut, persamaan dapat menunjukkan bahwa kehidupan bisa muncul sering maupun jarang.
+
+Daerah sekitar [[bintang deret utama]] yang dapat mendukung kehidupan seperti di Bumi di sebuah planet yang mirip Bumi dikenal dengan sebutan [[zona layak huni]]. Jari-jari dalam dan luar zona ini bervariasi dengan cahaya dari bintang, seperti halnya interval waktu selama zona akan bertahan. Bintang yang lebih besar dari Matahari memiliki zona layak huni yang lebih besar, tetapi akan tetap berada di deret utama untuk interval waktu yang lebih singkat selama kehidupan dapat berevolusi. Bintang [[katai merah]] kecil memiliki masalah yang berlawanan, diperparah dengan tingkat [[medan magnet bintang|aktivitas magnetik]] yang lebih tinggi dan efek penguncian pasang surut dari orbit dekat. Oleh karena itu, bintang-bintang di kisaran massa menengah seperti Matahari mungkin memiliki kondisi yang optimal untuk kehidupan seperti di bumi untuk berkembang. Lokasi bintang dalam galaksi juga dapat berdampak pada kemungkinan membentuk kehidupan.
+
+[[Panspermia]] adalah hipotesis yang menyatakan bahwa kehidupan berasal tempat lain di alam semesta dan kemudian dipindahkan ke Bumi dalam bentuk spora yang mungkin ditransfer melalui [[meteorit]], [[komet]] atau [[debu kosmik]]. Namun, hipotesis ini tidak membantu menjelaskan asal usul kehidupan.
+
+== Kematian ==
+{{main|Kematian}}
+Kematian adalah penghentian permanen dari semua fungsi vital atau proses kehidupan pada sebuah organisme atau sel.<ref>{{cite encyclopedia
+  | title       = Definition of death
+  | url         = http://encarta.msn.com/dictionary_1861602899/death.html
+  | archiveurl  = http://www.webcitation.org/5kwsdvU8f
+  | archivedate = 2009-10-31
+  | deadurl     = yes
+  }}</ref><ref>[http://www.deathreference.com/Da-Em/Definitions-of-Death.html Defining of death.]</ref> Setelah kematian, sisa-sisa organisme menjadi bagian dari [[siklus biogeokimia]]. Organisme dapat dikonsumsi oleh pemangsa atau pemakan bangkai dan sisa materi organik kemudian dapat diurai lebih lanjut oleh [[detritivora]], organisme yang mendaur ulang [[detritus]], mengembalikannya ke lingkungan untuk digunakan kembali dalam [[rantai makanan]].
+
+Salah satu tantangan dalam mendefinisikan kematian adalah dalam membedakannya dari kehidupan. Kematian lebih mengacu pada saat di mana hidup berakhir, atau ketika dimulainya saat setelah kehidupan.<ref>[http://www.deathreference.com/Da-Em/Definitions-of-Death.html Encyclopedia of Death and Dying]</ref> Bagaimanapun, menentukan kapan kematian terjadi membutuhkan batas-batas konseptual yang tepat antara hidup dan mati. Hal ini bermasalahbagaimanapunkarena ada sedikit konsensus tentang bagaimana mendefinisikan kehidupan. Sifat kematian selama ribuan tahun menjadi perhatian utama tradisi agama dunia dan penyelidikan filosofis. Banyak agama menggunakan konsep akhirat, [[reinkarnasi]], atau kebangkitan.
+
+=== Kepunahan ===
+{{main|Kepunahan}}
+[[Kepunahan]] adalah proses bertahap saat sebuah kelompok [[taksa]] atau [[spesies]] menghilang, mengurangi keanekaragaman hayati.<ref>{{cite encyclopedia
+  | title       = Extinction  definition
+  | url         = http://encarta.msn.com/dictionary_1861609974/extinction.html
+  | archiveurl  = http://www.webcitation.org/5kwseRB80
+  | archivedate = 2009-10-31
+  | deadurl     = yes
+  }}</ref> Saat kepunahan umumnya dianggap sebagai kematian individu terakhir dari spesies tersebut. Karena berbagai potensi suatu spesies mungkin sangat besar, menentukan saat ini adalah sulit, dan biasanya dilakukan secara retrospektif setelah suatu jangka waktu ketiadaan mereka. Spesies punah ketika mereka tidak lagi mampu bertahan dalam habitat yang berubah atau kalah terhadap persaingan keunggulan. Selama sejarah Bumi, lebih dari 99% dari semua spesies yang pernah hidup telah punah.<ref>[http://palaeo.gly.bris.ac.uk/Palaeofiles/Triassic/extinction.htm What is an extinction?]</ref> Namun, kepunahan massal mungkin telah mempercepat evolusi dengan memberikan kesempatan bagi kelompok-kelompok baru organisme untuk menjadi bervariasi.<ref>{{Cite journal
+  | last    = Van Valkenburgh
+  | first   = B.
+  | year    = 1999
+  | url     = http://arjournals.annualreviews.org/doi/abs/10.1146/annurev.earth.27.1.463
+  | title   = Major patterns in the history of carnivorous mammals
+  | journal = Annual Review of Earth and Planetary Sciences
+  | volume  = 26
+  | pages   = 463493
+  | doi     = 10.1146/annurev.earth.27.1.463
+  }}</ref>
+
+=== Fosil ===
+{{main|Fosil}}
+[[Berkas:Leptofoenus pittfieldae (male) rotated.JPG|thumb|right|150px|Fosil ''[[Leptofoenus pittfieldae]]'' yang berusia 20 hingga 16 juta tahun.]]
+[[Fosil]] adalah sisa-sisa atau jejak hewan, tumbuhan, dan organisme lain dari masa lampau yang terawetkan. Totalitas fosilbaik yang sudah ditemukan maupun yang belum ditemukandan penempatan mereka dalam formasi batuan yang mengandung fosil dan lapisan [[Batuan sedimen|sedimen]] ([[stratum|strata]]) dikenal sebagai "catatan fosil". Suatu spesimen terawetkan disebut "fosil" jika lebih tua dari usia yang disepakati yaitu 10.000 tahun yang lalu.<ref>[http://www.sdnhm.org/research/paleontology/paleofaq.html FAQs  San Diego Natural History Museum]</ref> Oleh karena itu, rentang usia fosil membentang dari yang termuda di awal zaman [[Holosen]] ke yang tertua dari masa [[Arkean]], beberapa miliar tahun lalu.
+{{clear}}
+
+== Catatan ==
+{{Reflist|group=note}}
+
+== Catatan kaki ==
+{{reflist|3}}
+
+== Bacaan lanjut ==
+* Kauffman, Stuart. [http://www.edge.org/3rd_culture/kauffman03/kauffman_index.html The Adjacent Possible: A Talk with Stuart Kauffman]
+* {{Cite journal
+  | author  = Nealson KH, Conrad PG
+  | title   = Life: past, present and future
+  | journal = Philos. Trans. R. Soc. Lond., B, Biol. Sci.
+  | volume  = 354
+  | issue   = 1392
+  | pages   = 192339
+  | year    = 1999
+  | month   = December
+  | pmid    = 10670014
+  | pmc     = 1692713
+  | doi     = 10.1098/rstb.1999.0532
+  | url     = http://journals.royalsociety.org/content/7r10hqn3rp1g1vag/
+  }}
+* Walker, Martin G. [http://rationalphilosophy.net/index.php/the-book ''LIFE! Why We Exist...And What We Must Do to Survive''] Dog Ear Publishing, 2006, ISBN 1-59858-243-7
+
+== Pranala luar ==
+{{Commonscat|Tree of life}}
+{{Wikiquote}}
+{{Wiktionary|life|living}}
+{{wikispecies|Main Page|The Taxonomy of Life}}
+* [http://species.wikimedia.org/wiki/Main_Page Wikispecies]  direktori kehidupan bebas
+* [http://www.edge.org/3rd_culture/kauffman03/kauffman_index.html "The Adjacent Possible: A Talk with Stuart Kauffman"]
+* [http://plato.stanford.edu/entries/life/ Stanford Encyclopedia of Philosophy entry]
+* [http://www.larger-than-life.org/modules.php?name=Content&pa=showpage&pid=2 Life under extreme conditions] Situs mengenai bagaimana kehidupan dapat terbentuk dalam keadaan yang sangat ekstrem.
+{{featured article}}
+
+[[Kategori:Kehidupan| ]]
+[[Kategori:Biologi]]

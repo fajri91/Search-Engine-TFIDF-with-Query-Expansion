@@ -1,0 +1,2 @@
+Templat:Ebicite
+<sup>{{#switch:{{{1|}}}x|correctx=&nbsp;{{tick|7}}|changedx=&nbsp;{{cross|7}}[[Kategori:Artikel dengan pengenal EBI yang diubah]]|?}}{{#ifeq:{{{2|}}}|EBI||{{#ifeq:{{{2|}}}|EBI||{{#ifeq:{{{2|}}}|??||{{#if:{{{2|}}}|<nowiki>[</nowiki>[[Wikipedia:ProyekWiki Kimia/Chembox validation|{{{2|}}}]]<nowiki>]</nowiki>}}}}}}}}</sup><noinclude>{{documentation}}</noinclude>

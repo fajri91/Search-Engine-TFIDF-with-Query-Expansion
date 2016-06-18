@@ -1,0 +1,16 @@
+Berkas:Tim Urban.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+Foto Tim Urban (finalis American idol musim kesembilan).
+
+Sumber: http://www.theapprenticerules.com/images/candidates-season-6/tim-urban-lg.jpg. 
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Fairuse}}

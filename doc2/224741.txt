@@ -1,0 +1,18 @@
+Templat:Panjalu, Ciamis
+{{Navigasi ID Desa
+|provinsi=Jawa Barat
+|dati2=Kabupaten
+|nama dati2=Ciamis
+|nama kecamatan=Panjalu
+|d1=Bahara
+|d2=Ciomas
+|d3=Hujungtiwu
+|d4=Kertamandala
+|d5=Mandalare
+|d6=Maparah
+|d7=Panjalu
+|d8=Sandingtaman
+}}<noinclude>
+[[Kategori:Templat desa/kelurahan di Jawa Barat|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Ciamis|{{PAGENAME}}]]
+</noinclude>

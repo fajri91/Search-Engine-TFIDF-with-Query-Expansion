@@ -1,0 +1,52 @@
+Berkas:Chal Mere Bhai.jpg
+{{dari|en}}
+==Rationale for use on wikipedia in the article [[Chal Mere Bhai]]==
+
+{{Navbox
+|name   = Filmr
+|title  = [[Wikipedia:
+[[|22px|framed|none]]
+Non-free cont--[[Special:Contributions/117.203.254.211|117.203.254.211]] ([[User talk:117.203.254.211|talk]]) 11:20, 4 July 2013 (UTC)ent|Non-free film-related media rationale]]
+|above  = '''Rationale for fair use in''' '''''[[Chal Mere Bhai kuddus
+]]'''''
+|group1 = Description:
+|list1  = <div>
+DVD ''[[Chal Mere Bhai]]'' 2000
+</div>
+
+|group2 = Source:
+|list2  = <div>
+*http://www.musichouseltd.co.uk/shop/images/Chal%20mere%20b.jpg
+</div>
+
+|group3 = Rationale for use on wikipedia:
+|list3  = <div>
+1.No free equivalent exists that would effectively identify the article's subject.<br>
+2.The image does not in any way limit the ability of the copyright owners to market or sell their product.<br>
+3.The image is only used once and is rendered in low resolution to avoid piracy.<br>
+4.The image has been published outside Wikipedia; see source above.<br>
+5.The image meets general Wikipedia content requirements and is encyclopedic.<br>
+6.The image meets Wikipedia's media-specific policy.<br>
+7.The image is used in the article wiki-linked in the section title.<br>
+8.The image is significant in identifying the subject of the article, which is the film or film character itself.<br>
+9.The image is used in the article namespace.<br>
+10.The image has a brief description that identifies the image, notes the source, and provides attribution to the copyright holder.
+</div>
+|group4 = Resolution:
+|list4  = <div>
+The copy is of sufficient resolution for commentary and identification but lower resolution than the original. Copies made from it will be of inferior quality, unsuitable as artwork on pirate versions or other uses that would compete with the commercial purpose of the original artwork.
+</div>
+|group5 = Replaceable?:
+|list5  = <div>
+As a DVD cover, the image is not replaceable by free content; any other image that shows the images from the DVD cover would also be copyrighted, and any version that is not true to the original would be inadequate for identification or commentary.
+</div>
+|group6 = Compatibility with wikipedia?:
+|list6  = <div>
+Use of the DVD cover in the article complies with [[Wikipedia:Non-free content|Wikipedia non-free content policy]] and [[Fair use|fair use under United States copyright law]] as described above.
+
+</div>
+
+}}
+
+== Licensing ==
+{{Non-free video cover}}

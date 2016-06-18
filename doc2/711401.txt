@@ -1,0 +1,34 @@
+Neoscona lipana
+{{Taxobox
+|name = Neoscona lipana
+|status = 
+|image = 
+|image_caption = 
+|domain = 
+|regnum = [[Animalia]]
+|phylum = [[Arthropoda]]
+|classis = [[Arachnida]]
+|ordo = [[Araneae]]
+|familia = [[Araneidae]]
+|species = Neoscona lipana
+|binomial = Neoscona lipana
+|binomial_authority =Barrion-Dupo, 2008
+|range_map = 
+|range_map_caption = 
+|image2 = 
+|image2_caption = 
+|synonyms = 
+}}
+'''''Neoscona lipana''''' adalah spesies [[laba-laba]] yang tergolong [[familia]] [[Araneidae]]. Spesies ini juga merupakan bagian dari ordo [[Araneae]]. Nama ilmiah dari spesies ini pertama kali diterbitkan pada tahun 2008 oleh Barrion-Dupo.
+
+Laba-laba ini biasanya banyak ditemui di Filipina.
+
+== Referensi ==
+
+* {{aut|Platnick, Norman I.}} (2010): [http://research.amnh.org/entomology/spiders/catalog/index.html ''The world spider catalog''], versi 10.5. ''[[American Museum of Natural History]]''.
+
+{{DEFAULTSORT:Neoscona lipana}}
+
+[[Kategori:Araneidae]]
+
+{{labalaba-stub}}

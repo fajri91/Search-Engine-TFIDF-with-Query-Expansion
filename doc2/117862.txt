@@ -1,0 +1,40 @@
+Wikipedia:Perbandingan artikel pilihan dan artikel bagus
+Ini adalah perbedaan antara [[Wikipedia:Kriteria artikel pilihan|artikel pilihan]] dan [[Wikipedia:Kriteria artikel bagus|artikel bagus]]:
+
+Sebuah [[Wikipedia:Artikel bagus|artikel bagus]] adalah artikel yang '''''memuaskan''''', yang mengikuti syarat berikut:
+
+:'''1. Ditulis dengan baik.''' Prosa yang jelas yang memenuhi sebagian besar [[Wikipedia:Pedoman gaya|pedoman gaya]].
+:'''2. Akurat dan dapat dipastikan.''' Dilengkapi dengan referensi, dengan catatan kaki bila diperlukan.
+:'''3. Luas.''' Semua aspek utama dijabarkan, tanpa membahas detil yang tidak perlu.
+:'''4. Netral.'''
+:'''5. Stabil.'''
+:'''6. Gambar.''' Memiliki gambar yang cukup dan berhubungan dengan topik artikel tersebut.
+
+Sebuah [[Wikipedia:Artikel pilihan|artikel pilihan]] adalah artikel '''''terbaik''''', dengan standar penulisan dan presentasi yang profesional, yang mengikuti syarat berikut:
+
+:'''1. Ditulis dengan profesional'''. Prosa yang luar biasa, komprehensif, akurat, netral, dan stabil.
+:'''2. Gaya yang standar.''' Memenuhi seluruh aspek [[Wikipedia:Pedoman gaya|pedoman gaya]].
+:'''3. Gambar.''' Memiliki gambar yang cukup dan berhubungan dengan topik artikel tersebut.
+:'''4. Panjang.''' Memiliki panjang yang tepat, terfokus secara komprehensif ke topik tanpa detil yang tidak perlu.
+
+== Persamaan ==
+* Persyaratan gambar, netral, stabil adalah sama.
+* Tiap artikel harus terfokus pada topik tanpa detil yang tidak perlu.
+* Tidak ada panjang minimal artikel.
+* Keduanya harus akurat dan [[Wikipedia:Pemastian|dapat dipastikan]].
+* Keduanya tidak memiliki syarat yang mengatur banyaknya pranala merah.
+
+== Perbedaan ==
+* Artikel '''pilihan''' harus merupakan artikel ''terbaik'' kita; artikel '''bagus''' cukup artikel yang ''memuaskan''.
+* Artikel '''pilihan''' harus memiliki standar penulisan yang profesional, bahkan ''luar biasa''; artikel '''bagus''' harus memiliki standar penulisan ''baik''.
+* Artikel '''pilihan''' harus memenuhi ''semua'' poin [[Wikipedia:Pedoman gaya|pedoman gaya]]; artikel '''bagus''' cukup memenuhi ''enam'' poin pedoman gaya.
+* Artikel '''pilihan''' harus ''komprehensif''; artikel '''bagus''' harus ''luas''. Komprehensif mengharuskan semua aspek utama dijabarkan secara detil; standar luas cukup mengharuskan semua aspek utama dibahas saja.
+* Artikel '''pilihan''' lebih ketat akan keakuratan dan pemastian. Khususnya perihal tersedianya [[Bantuan:Catatan kaki|catatan kaki]].
+<!-- * Artikel '''pilihan''' harus memenuhi standar yang ditetapkan oleh ProyekWiki bersangkutan. (Ini belum berlaku karena kita belum memiliki ProyekWiki) -->
+
+== Lihat pula ==
+* [[Wikipedia:Kriteria artikel pilihan]]
+* [[Wikipedia:Kriteria artikel bagus]]
+
+[[Kategori:Artikel pilihan]]
+[[Kategori:Artikel bagus]]

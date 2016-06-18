@@ -1,0 +1,91 @@
+Komoro Besar
+{{Coord|11|35|S|43|20|E|region:KM_type:adm1st|display=title}}
+
+{{Infobox Country
+|native_name              = {{lang|fr|''le Autonome de la Grande Comore''}}<br/>{{lang|swb|''Ngazidja''}}
+|conventional_long_name   = Pulau Otonom Komoro Besar
+|common_name              = Grande Comore
+|image_flag               = Flag of Grande Comore.svg
+|image_coat               =
+|image_map                = Grande Comore in Comoros.png
+|national_motto           =
+|national_anthem          =
+|official_languages       = [[bahasa Komoro]] (dialek Shingazidja), {{br}} [[bahasa Arab]], {{br}} [[bahasa Prancis]]
+|capital                  = [[Moroni]]
+|largest_city             = capital
+|government_type          = Pulau Otonom
+|leader_title1            = [[Presiden]]
+|leader_name1             = [[Mohamed Abdoulwahab]]
+|area_rank                =
+|area_magnitude           =
+|area_km2                     = 1148
+|area_sq_mi                  =  <!--Do not remove per [[WP:MOSNUM]]-->
+|percent_water            = negligible
+|population_estimate      = 316.600
+|population_estimate_year = 2006
+|population_estimate_rank =
+|population_census        = 295.700
+|population_census_year   = 2003
+|population_density_km2       =
+|population_densitymi    =  <!--Do not remove per [[WP:MOSNUM]]-->
+|population_density_rank  =
+|GDP_PPP_year             =
+|GDP_PPP                  =
+|GDP_PPP_rank             =
+|GDP_PPP_per_capita       =
+|GDP_PPP_per_capita_rank  =
+|HDI_year                 =
+|HDI                      =
+|HDI_rank                 =
+|HDI_category             =
+|sovereignty_type         =
+|sovereignty_note         =
+|established_event1       =
+|established_date1        =
+|currency                 = [[Comorian franc]] <ref name=KMF>{{en}}
+  {{cite web
+  | url = http://idr.cer24.com/kmf/?q=mata%20uang%20komoro
+  | accessdate = 13-7-12
+  | title = Mata uang Komoro 
+  }}</ref>
+|currency_code            = KMF 
+|time_zone                = [[East Africa Time|EAT]]
+|utc_offset               = +3
+|time_zone_DST            = tidak diamati
+|utc_offset_DST           = +3
+|cctld                    = [[.km]]
+|calling_code             = 269
+|footnotes                =
+}}
+
+'''{{PAGENAME}}''' ([[bahasa Arab]] [[Komoro]]: ''' ''', [[bahasa Arab]]: ''' ''', [[bahasa Komoro]]: '''Ngazidja''', [[bahasa Prancis]]: '''Grande Comore''') adalah salah satu pulau otonom di [[kepulauan Komoro]] yang ada di [[Samudra Hindia]] di lepas pantai [[Afrika]] Timur. Pulau ini juga merupakan pulau terbesar yang ada di [[kepulauan Komoro]] sekaligus di pulau inilah terdapat kota [[Moroni]] yakni kota terbesar dan pusat pemerintahan [[Komoro]].
+
+==Galeri==
+<center><gallery>
+file:Grande_Comore_Harbor_Bay_Photo_by_Sascha_Grabow.JPG|Pelabuhan di teluk Komoro Besar
+File:Franz_Sikora_038.jpg|Sultan [[Said Ali bin Said Omar]], [[sultan]] Komoro Besar tahun 1897
+File:Moroni_Mosque_Photo_by_Sascha_Grabow.jpg|Salah satu masjid di [[Moroni]], Komoro Besar
+File:Grande Comore-Man.jpg|Salah satu penduduk Komoro Besar
+</gallery>
+</center>
+
+==Lihat pula==
+
+* [[Portal:Afrika]]
+
+{{Portal|Afrika}}
+
+==Catatan kaki==
+{{reflist}}
+
+==Pranala luar==
+{{Commonscat-inline|Grande Comore}}
+* {{fr}} [http://www.ngazidja.org/ Official government website]
+* {{en}} [http://africanelections.tripod.com/km_2.html Comoros Island Elections Information]
+
+{{Pulau di Komoro}}
+
+[[Kategori:Pulau di Komoro]]
+
+
+{{negara-geo-stub|Komoro}}

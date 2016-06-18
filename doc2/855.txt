@@ -1,0 +1,43 @@
+Fungsi (matematika)
+{{referensi}}
+{{Redirect|f(x)|grup musik|F(x) (grup musik)}}
+[[Berkas:Graph of example function.svg|jmpl|250px|Grafik contoh sebuah fungsi,<br /> <math>\begin{align}&\scriptstyle  \\ &\textstyle f(x) = \frac{(4x^3-6x^2+1)\sqrt{x+1}}{3-x}\end{align}</math><br /> Baik domain maupun kisaran dalam gambar adalah himpunan bilangan riil di antara -1 dan 1,5]]
+'''Fungsi''' dalam istilah [[matematika]] merupakan pemetaan setiap anggota sebuah [[himpunan]] (dinamakan sebagai [[domain fungsi|domain]]) kepada anggota [[himpunan]] yang lain (dinamakan sebagai [[kodomain fungsi|kodomain]]). Istilah ini berbeda pengertiannya dengan kata yang sama yang dipakai sehari-hari, seperti alatnya ber''fungsi'' dengan baik. [[Konsep]] fungsi adalah salah satu konsep dasar dari [[matematika]] dan setiap [[ilmu]] kuantitatif. Istilah "''fungsi''", "''pemetaan''", "''peta''", "''transformasi''", dan "''operator''" biasanya dipakai secara [[sinonim]].
+
+Anggota himpunan yang dipetakan dapat berupa apa saja (kata, orang, atau objek lain), namun biasanya yang dibahas adalah besaran matematika seperti [[bilangan riil]]. Contoh sebuah fungsi dengan domain dan kodomain himpunan bilangan riil adalah ''y''=''f''(''2x''), yang menghubungkan suatu bilangan riil dengan bilangan riil lain yang dua kali lebih besar. Dalam hal ini kita dapat menulis f(5)=10.
+
+== Notasi ==
+Untuk mendefinisikan fungsi dapat digunakan notasi berikut.
+:<math>f : A \rightarrow B</math>
+Dengan demikian kita telah mendefinisikan fungsi ''f'' yang memetakan setiap elemen himpunan A kepada B. Notasi ini hanya mengatakan bahwa ada sebuah fungsi ''f'' yang memetakan dua himpunan, ''A'' kepada ''B''. Tetapi bagaimana tepatnya pemetaan tersebut tidaklah terungkapkan dengan baik. Maka kita dapat menggunakan notasi lain.
+:<math>x \in A</math>
+:<math>f : x \rightarrow x^2</math>
+atau
+:<math>f(x) =\, x^2</math>
+
+== Fungsi sebagai relasi ==
+Sebuah fungsi ''f'' dapat dimengerti sebagai relasi antara dua himpunan, dengan unsur pertama hanya dipakai sekali dalam relasi tersebut.
+
+== Domain dan Kodomain ==
+[[Berkas:Codomain.SVG|ka|jmpl|250px|Pada diagram di atas, X merupakan domain dari fungsi ''f'', Y merupakan kodomain]]
+Domain adalah daerah asal, kodomain adalah daerah kawan, sedangkan range adalah daerah hasil
+
+== Sifat-sifat fungsi ==
+=== Fungsi injektif ===
+Fungsi f: A  B disebut '''fungsi satu-satu''' atau '''fungsi injektif''' jika dan hanya jika untuk sebarang a<sub>1</sub> dan a<sub>2</sub> <math> \in A</math> dengan ''a<sub>1</sub>'' tidak sama dengan ''a<sub>2</sub>'' berlaku ''f''(''a<sub>1</sub>'') tidak sama dengan ''f''(''a<sub>2</sub>''). Dengan kata lain, bila ''a<sub>1</sub>'' = ''a<sub>2</sub>'' maka ''f''(''a<sub>1</sub>'') sama dengan ''f''(''a<sub>2</sub>'').
+
+=== Fungsi surjektif ===
+Fungsi f: A  B disebut '''fungsi kepada''' atau '''fungsi surjektif''' jika dan hanya jika untuk sembarang ''b'' dalam kodomain ''B'' terdapat paling tidak satu ''a'' dalam domain ''A'' sehingga berlaku ''f''(''a'') = ''b''. Dengan kata lain, suatu kodomain fungsi surjektif sama dengan kisarannya (''range'').
+
+=== Fungsi bijektif ===
+Fungsi f: A  B disebut '''fungsi bijektif''' jika dan hanya jika untuk sebarang ''b'' dalam kodomain ''B'' terdapat tepat satu ''a'' dalam domain ''A'' sehingga ''f''(''a'') = ''b'', dan tidak ada anggota ''A'' yang tidak terpetakan dalam ''B''. Dengan kata lain, fungsi bijektif adalah sekaligus injektif dan surjektif.
+
+== Lihat pula ==
+{{commons|Functions}}
+* [[Himpunan]]
+* [[Relasi]]
+
+[[Kategori:Fungsi matematika]]
+
+
+{{matematika-stub}}

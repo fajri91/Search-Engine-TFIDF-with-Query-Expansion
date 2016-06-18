@@ -1,0 +1,175 @@
+Helenio Herrera
+{{Infobox football biography
+|name                = Helenio Herrera
+|image               = [[Berkas:Helenio Herrera Elgrafico.jpeg|200px]]
+|caption             = Herrera dalam sampul majalah olahraga Argentina El Grfico tahun 1964.
+|fullname            = Helenio Herrera Gaviln
+|birth_date          = {{birth date|1910|4|10|df=yes}}
+|birth_place         = [[Buenos Aires]], [[Argentina]]
+|death_date          = {{death date and age|df=yes|1997|11|9|1910|4|17}}
+|death_place         = [[Venice]], [[Italy]]
+|height              =
+|position            =
+|currentclub         =
+|youthyears1         =
+|youthclubs1         =
+|years1 = |clubs1  = Roches Noires |caps1  = |goals1 =
+|years2 = 19311932 |clubs2  = RC Casablanca |caps2  = |goals2 =
+|years3 = 19321933 |clubs3  = CASG Paris |caps3  = |goals3 =
+|years4 = 19331935 |clubs4  = [[Stade Franais Paris (football)|Stade Franais]] |caps4  = |goals4 =
+|years5 = 19351937 |clubs5  = [[FCO Charleville]] |caps5  = |goals5 =
+|years6 = 19371939 |clubs6  = [[Excelsior AC Roubaix]] |caps6  = |goals6 =
+|years7 = 19401942 |clubs7  = [[Red Star Olympique]] |caps7  = |goals7 =
+|years8 = 19421943 |clubs8  = [[Stade Franais Paris (football)|Stade Franais]] |caps8  = |goals8 =
+|years9 = 19431944 |clubs9  = EF Paris-Capitale |caps9  = |goals9 =
+|years10 = 19441945 |clubs10  = [[Puteaux CSM|Puteaux]] |caps10  = |goals10 =
+|totalcaps           =
+|totalgoals          =
+|nationalyears1      =
+|nationalteam1       =
+|nationalcaps1       =
+|nationalgoals1      =
+|medaltemplates      =
+|manageryears1 = 19441945 |managerclubs1 = [[Puteaux CSM|Puteaux]]
+|manageryears2 = 19451948 |managerclubs2 = [[Stade Franais Paris (football)|Stade Franais]]
+|manageryears3 = 19481949 |managerclubs3 = [[Real Valladolid]]
+|manageryears4 = 19491952 |managerclubs4 = [[Atltico Madrid]]
+|manageryears5 = 1952            |managerclubs5 = [[CD Mlaga|Mlaga]]
+|manageryears6 = 1953            |managerclubs6 = [[Deportivo de La Corua]]
+|manageryears7 = 19531956 |managerclubs7 = [[Sevilla FC|Sevilla]]
+|manageryears8 = 19561958 |managerclubs8 = [[CF Os Belenenses|Os Belenenses]]
+|manageryears9 = 19581960 |managerclubs9 = [[FC Barcelona]]
+|manageryears10 = 19601968 |managerclubs10 = [[Internazionale]]
+|manageryears11 = 19681970 |managerclubs11 = [[AS Roma]]
+|manageryears12 = 19731974 |managerclubs12 = [[Internazionale]]
+|manageryears13 = 19781979 |managerclubs13 = [[Rimini Calcio F.C.|Rimini]]
+|manageryears14 = 19791981 |managerclubs14 = [[FC Barcelona]]
+|club-update         =
+|nationalteam-update =
+}}
+'''Helenio Herrera Gaviln''' ({{lahirmati|[[Buenos Aires]], [[Argentina]]|10|4|1910|[[Venice]], Italia|9|11|1997}}) adalah pelatih tersukses dalam sejarah [[Inter Milan]].
+
+Orang tua Herrera adalah orang [[Spanyol]] asli. Pada usia 4 tahun Herrera beserta keluarganya pindah ke [[Casablanca]], [[Maroko]] karena situasi yang tidak kondusif di Argentina.
+
+===Statistik Kepelatihan===
+{|class="wikitable" style="text-align: center"
+|-
+!rowspan="2"|Nat
+!rowspan="2"|Team
+!rowspan="2"|From
+!rowspan="2"|To
+!colspan="8"|Record
+|-
+!G!!W!!D!!L!!Win %!!GF!!GA!!+/-
+|-
+|{{flagicon|FRA}}
+|[[Stade Franais Football|Stade Franais]]
+||1946
+||1948
+||72||34||16||22||{{#expr:34/72*100 round 2}}%||140||116||+24
+|-
+|{{flagicon|ESP}}
+|[[Real Valladolid]]
+||1948
+||1949
+||26||10||2||14||{{#expr:10/26*100 round 2}}%||38||59||-21
+|-
+|{{flagicon|ESP}}
+|[[Atltico Madrid]]
+||1949
+||1952
+||86||48||14||24||{{#expr:48/86*100 round 2}}%||238||158||+80
+|-
+|{{flagicon|ESP}}
+|[[CD Mlaga]]
+||1952
+||1952
+||11||5||1||5||{{#expr:5/11*100 round 2}}%||20||17||+3
+|-
+|{{flagicon|ESP}}
+|[[Sevilla FC]]
+||1953
+||1956
+||90||47||8||35||{{#expr:47/90*100 round 2}}%||206||151||+55
+|-
+|{{flagicon|POR}}
+|[[CF Os Belenenses]]
+||1956
+||1958
+||52||25||11||16||{{#expr:25/52*100 round 2}}%||128||92||+36
+|-
+|{{flagicon|ESP}}
+|[[F.C. Barcelona]]
+||1958
+||1960
+||60||46||5||9||{{#expr:46/60*100 round 2}}%||182||54||+128
+|-
+|{{flagicon|ITA}}
+|[[F.C. Internazionale Milano|F.C. Inter]]
+||1960
+||1968
+||268||153||74||41||{{#expr:153/268*100 round 2}}%||485||224||+261
+|-
+|{{flagicon|ITA}}
+|[[A.S. Roma|AS Roma]]
+||1968
+||1973
+||150||44||61||45||{{#expr:44/150*100 round 2}}%||154||155||-1
+|-
+|{{flagicon|ITA}}
+|[[F.C. Internazionale Milano|F.C. Inter]]
+||1973
+||1974
+||30||12||11||7||{{#expr:12/30*100 round 2}}%||47||33||+14
+|-
+|{{flagicon|ITA}}
+|[[Rimini Calcio F.C.|Rimini]]
+||1978
+||1979
+||38||3||18||17||{{#expr:3/38*100 round 2}}%||17||39||-22
+|-
+|{{flagicon|ESP}}
+|[[F.C. Barcelona]]
+||1979
+||1981
+||25||14||5||6||{{#expr:14/25*100 round 2}}%||57||28||+29
+|-
+|colspan="4"|''' Total Career'''
+||'''908'''||'''441'''||'''226'''||'''241'''||'''{{#expr:441/908*100 round 2}}%'''||'''1712'''||'''1126'''||'''+586'''
+|}
+John Lambie Hall of Fame Inductee 2011
+
+== Pranala luar ==
+
+*[http://www.lfp.es/historico/primera/entrenadores/historial.asp?ent=057 La Liga manager stats]
+*{{es icon}} [http://web.archive.org/web/20071219231127/http://www.futbolfactory.futbolweb.net/index.php?ff=personajes&f2=00001&idpersonaje=8 Futbol Factory profile] (Archived)
+
+{{DEFAULTSORT:Herrera, Helenio}}
+
+{{Navboxes colour
+|title= Prestasi dan penghargaan
+ |bg        = gold
+|list1=
+{{Pelatih Juara Liga Champions UEFA}}
+}}
+{{Navboxes colour
+|title= Skuat tim nasional
+ |bg        = #0066bc
+ |fg        = white
+|list1=
+{{Skuat PD1962 Spanyol}}
+}}
+{{Navboxes
+|title= Karier kepelatihan
+|list1=
+{{Pelatih F.C. Internazionale Milano}}
+{{Pelatih timnas Italia}}
+{{Pelatih A.S. Roma}}
+{{Pelatih tim nasional sepak bola Spanyol}}
+{{Pelatih FC Barcelona}}
+}}
+{{pemain-sb-stub}}
+[[Kategori:Pemain sepak bola Perancis]]
+[[Kategori:Pelatih pemenang Liga Champions UEFA]]
+[[Kategori:Pelatih FC Barcelona]]
+[[Kategori:Pelatih pemenang Piala Interkontinental]]

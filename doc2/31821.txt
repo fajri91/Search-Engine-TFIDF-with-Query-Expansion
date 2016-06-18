@@ -1,0 +1,29 @@
+Templat:Kabupaten Serdang Bedagai
+{{Navbox
+| name = Kabupaten Serdang Bedagai
+| listclass = hlist
+| title =[[Kabupaten Serdang Bedagai]], [[Sumatera Utara]]
+| image = [[Berkas:Lambang Kabupaten Serdang Bedagai.png|30px|Lambang Kabupaten Serdang Bedagai]]
+| group1 = Kecamatan
+| list1 = <div><!--
+-->[[Bandar Khalipah, Serdang Bedagai|Bandar Khalipah]]{{}}<!--
+-->[[Bintang Bayu, Serdang Bedagai|Bintang Bayu]]{{}}<!--
+-->[[Dolok Masihul, Serdang Bedagai|Dolok Masihul]]{{}}<!--
+-->[[Dolok Merawan, Serdang Bedagai|Dolok Merawan]]{{}}<!--
+-->[[Kotarih, Serdang Bedagai|Kotarih]]{{}}<!--
+-->[[Pantai Cermin, Serdang Bedagai|Pantai Cermin]]{{}}<!--
+-->[[Pegajahan, Serdang Bedagai|Pegajahan]]{{}}<!--
+-->[[Perbaungan, Serdang Bedagai|Perbaungan]]{{}}<!--
+-->[[Sei Bamban, Serdang Bedagai|Sei Bamban]]{{}}<!--
+-->[[Sei Rampah, Serdang Bedagai|Sei Rampah]]{{}}<!--
+-->[[Serba Jadi, Serdang Bedagai|Serba Jadi]]{{}}<!--
+-->[[Silinda, Serdang Bedagai|Silinda]]{{}}<!--
+-->[[Sipispis, Serdang Bedagai|Sipispis]]{{}}<!--
+-->[[Tanjung Beringin, Serdang Bedagai|Tanjung Beringin]]{{}}<!--
+-->[[Tebing Syahbandar, Serdang Bedagai|Tebing Syahbandar]]{{}}<!--
+-->[[Tebingtinggi, Serdang Bedagai|Tebingtinggi]]{{}}<!--
+-->[[Teluk Mengkudu, Serdang Bedagai|Teluk Mengkudu]]<!--
+--></div>
+}}<noinclude>
+[[Kategori:Templat kecamatan Indonesia|Serdang Bedagai, Kabupaten]]
+</noinclude>

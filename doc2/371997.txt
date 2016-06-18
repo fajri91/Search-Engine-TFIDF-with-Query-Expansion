@@ -1,0 +1,47 @@
+Templat:Cities and towns in Meien (district)
+{{Navbox
+|name=Cities and towns in Meissen (district)
+|image= [[Image:Wappen_vom_Landkreis_Meissen_2009.svg|right|30px|Lambang]]
+| listclass = hlist
+| title =Kota dan kotamadya di [[Meien (distrik)|Meien]]
+|liststyle=font-size:95%;
+|list1= [[Coswig, Sachsen|Coswig]]&nbsp;{{!}} <!--
+-->[[Diera-Zehren]]&nbsp;{{!}} <!--
+-->[[Ebersbach, Meien|Ebersbach]]&nbsp;{{!}} <!--
+-->[[Glaubitz]]&nbsp;{{!}} <!--
+-->[[Grditz]]&nbsp;{{!}} <!--
+-->[[Groenhain]]&nbsp;{{!}} <!--
+-->[[Hirschstein]]&nbsp;{{!}} <!--
+-->[[Kbschtztal]]&nbsp;{{!}} <!--
+-->[[Ketzerbachtal]]&nbsp;{{!}} <!--
+-->[[Klipphausen]]&nbsp;{{!}} <!--
+-->[[Lampertswalde]]&nbsp;{{!}} <!--
+-->[[Leuben-Schleinitz]]&nbsp;{{!}} <!--
+-->[[Lommatzsch]]&nbsp;{{!}} <!--
+-->[[Meien]]&nbsp;{{!}} <!--
+-->[[Moritzburg (kota)|Moritzburg]]&nbsp;{{!}} <!--
+-->[[Nauwalde]]&nbsp;{{!}} <!--
+-->[[Niederau]]&nbsp;{{!}} <!--
+-->[[Nossen]]&nbsp;{{!}} <!--
+-->[[Nnchritz]]&nbsp;{{!}} <!--
+-->[[Priestewitz]]&nbsp;{{!}} <!--
+-->[[Radebeul]]&nbsp;{{!}} <!--
+-->[[Radeburg]]&nbsp;{{!}} <!--
+-->[[Riesa]]&nbsp;{{!}} <!--
+-->[[Rderaue]]&nbsp;{{!}} <!--
+-->[[Schnfeld, Meien|Schnfeld]]&nbsp;{{!}} <!--
+-->[[Stauchitz]]&nbsp;{{!}} <!--
+-->[[Strehla]]&nbsp;{{!}} <!--
+-->[[Tauscha]]&nbsp;{{!}} <!--
+-->[[Thiendorf]]&nbsp;{{!}} <!--
+-->[[Triebischtal]]&nbsp;{{!}} <!--
+-->[[Weinbhla]]&nbsp;{{!}} <!--
+-->[[Weiig am Raschtz]]&nbsp;{{!}} <!--
+-->[[Wlknitz]]&nbsp;{{!}} <!--
+-->[[Zeithain]]&nbsp;
+}}<noinclude>
+
+[[Category:Templat pembagian administratif Jerman|Meien]]
+
+[[en:Template:Cities and towns in Meien (district)]]
+</noinclude>

@@ -1,0 +1,19 @@
+Berkas:Sheryl Crow - C'mon C'mon.jpg
+{{Information
+|description    = {{Information
+|description    = |source         = (sumber)
+|date           = (tanggal)
+|location       = (tempat; opsional)
+|author         = (pembuat)
+|permission     = 
+|other_versions = 
+}}
+== {{int:license-header}} ==
+{{SampulAlbum}}
+|source         = 
+|date           = 
+|location       = 
+|author         = 
+|permission     = 
+|other_versions = 
+}}

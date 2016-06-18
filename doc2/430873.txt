@@ -1,0 +1,49 @@
+Mistake
+{{Infobox song	
+| Name          = Mistake
+| Cover         = 
+| Artist        = [[Demi Lovato]]
+| Album         = [[Unbroken (Demi Lovato album)|Unbroken]] 
+| track_no      = 9
+| Genre         = [[Pop]], [[Contemporary R&B|R&B]]
+| Length        = {{Duration|m=3|s=33}}
+| Label         = [[Hollywood Records|Hollywood]]
+| Writer        = Leah Haywood, Daniel James, Shelly Peiken
+| Producer      = Dreamlab
+| Recorded      = 2011
+| Type          = Lagu
+| prev          = "[[Hold Up]]"
+| prev_no       = 8
+| next          = "[[Give Your Heart a Break]]"
+| next_no       = 10
+}}
+
+"'''Mistake'''" adalah sebuah lagu oleh penyanyi Amerika [[Demi Lovato]], yang terdapat dalam album ketiga, [[Unbroken (album Demi Lovato)|Unbroken]]. Lagu ini ditulis oleh Leah Haywood, Daniel James, dan diproduksi oleh Shelly Peiken, Dreamlab, lagu ini berasal dari gaya musik pop dan R & B. Meskipun tidak dirilis sebagai single, lagu ini mencapai tempat ke-91 di Chart [[Gaon Chart|Korea Hot 100]], di Korea Selatan.
+
+==Komposisi==
+Lagu ini menggunakan lagu yang sama dari "Born to Be a Lady" Girls Band Korea [[Girls' Generation]], ditulis dan diproduksi oleh tim yang sama.
+
+==Posisi==
+Lagu ini memasuki posisi 91 di malaysia
+
+{| class="wikitable sortable"
+! scope="col" | Chart (2011)
+! scope="col" | Posisi
+|-
+|Korea Selatan, [[Gaon Chart]]
+| style="text-align:center;"| 91<ref name="KOR">{{cite web|url=http://www.gaonchart.co.kr/main/section/search/chart_list.gaon?Search_str=Demi%20Lovato|title=<Demi Lovato>    |publisher=[[Gaon Chart]]|accessdate=December 11, 2011}}</ref>
+|-
+|}
+
+== Referensi ==
+{{reflist}}
+
+{{Single Demi Lovato}}
+
+[[Kategori:Lagu Demi Lovato]]
+[[Kategori:Musik]]
+
+
+{{musik-stub}}
+
+[[es:Mistake]]

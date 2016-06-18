@@ -1,0 +1,14 @@
+Templat:Karera, Sumba Timur
+{{Navigasi ID Desa |provinsi=Nusa Tenggara Timur |dati2=Kabupaten |nama dati2=Sumba Timur
+|nama kecamatan=Karera
+|d1=Ananjaki
+|d2=Jangga Mangu
+|d3=Nangga
+|d4=Nggongi
+|d5=Praimadita
+|d6=Praisalura
+|d7=Tandula Jangga
+}}<noinclude>
+[[Kategori:Templat desa/kelurahan di Nusa Tenggara Timur|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Sumba Timur|{{PAGENAME}}]]
+</noinclude>

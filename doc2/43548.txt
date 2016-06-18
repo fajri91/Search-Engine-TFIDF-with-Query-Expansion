@@ -1,0 +1,6 @@
+Templat:Indo-perti-stub
+{{base-stub
+|[[perguruan tinggi]] di [[Indonesia]]
+|[[Berkas:Uni-ico.svg|30px]]
+|category_template=Templat rintisan Indonesia}}{{#if:{{{kat|}}}||<includeonly>
+[[Kategori:Rintisan perguruan tinggi di Indonesia|{{PAGENAME}}]]</includeonly>}}

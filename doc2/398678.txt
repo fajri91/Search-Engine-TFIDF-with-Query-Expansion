@@ -1,0 +1,17 @@
+Berkas:Tresno Riadi.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+Vokalis tipe-X [[Tresno Riadi|Tresno-X]] ..
+sumber gambar : [http://www.facebook.com/profile.php?id=1178883568 |Facebook]
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Fairuse}}
+
+[[Kategori:Tipe-X]]

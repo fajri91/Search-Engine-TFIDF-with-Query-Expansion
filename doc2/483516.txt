@@ -1,0 +1,14 @@
+Berkas:Logo Unimmer.png
+== {{int:filedesc}} ==
+{{Information
+|description    = 
+== Jenis lisensi ==
+{{Logo}}
+http://www.unimmer.ac.id
+|source         = 
+|date           = 
+|location       = 
+|author         = 
+|permission     = 
+|other_versions = 
+}}

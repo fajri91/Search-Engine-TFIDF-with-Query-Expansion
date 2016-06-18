@@ -1,0 +1,14 @@
+Berkas:No Mercy for the Rude film poster.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+{{Dari|en}}
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Poster}}

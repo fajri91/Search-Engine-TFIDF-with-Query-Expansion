@@ -1,0 +1,61 @@
+Kerajaan Jaffna
+{{Infobox Former Country
+|native_name            =   
+|conventional_long_name = Kerajaan Aryacakravarti
+|common_name            = Kerajaan Jaffna
+|
+|continent              = Asia
+|region                 = Sri Lanka
+|country                = Sri Lanka
+|era                    = Abad pertengahan
+|government_type        = Monarki
+|
+|year_start             = 1215
+|year_end               = 1619
+|
+|p1                     = Polonnaruwa Kingdom
+|flag_p1                = 
+|image_p1               = <!--- Use: [[Berkas:Sin escudo.svg|20px|Image missing]] --->
+|s1                     = Portuguese Ceylon
+|flag_s1                = Flag Portugal (1640).svg
+|image_s1               = <!--- Use: [[Berkas:Sin escudo.svg|20px|Image missing]] --->
+|
+|image_flag             =
+|flag                   = Royal flag of the Jaffna kingdom
+|flag_type              = <!--- Displayed text for link under flag. Default "Flag" --->
+|
+|image_coat             = <!--- Default: Coat of arms of {{{common_name}}}.svg --->
+|symbol                 = Nandi
+|symbol_type            = Royal Emblem
+|
+|image_map2             = Jaffna_Kingdom.jpg
+|image_map2_caption     = Jaffna kingdom at its greatest extent c. 1350.
+|
+|capital                = [[Nallur (Jaffna)|Nallur]]
+|capital_exile          = <!-- If status="Exile" -->
+|latd= |latm= |latNS= |longd= |longm= |longEW= 
+|
+|common_languages       = [[Bahasa Tamil|Tamil]], [[Bahasa Sanskerta|Sanskerta]]
+|religion               = [[Hindu]]
+|currency               = [[Koin Setu]]
+|
+|<!--- Titles and names of the first and last leaders and their deputies --->
+|leader1                = [[Kalinga Magha|Kulingai Cakravarti]]
+|leader2                = Cankili II
+|year_leader1           = 1215-1255
+|year_leader2           = 16171619
+|title_leader           = [[Dinasti Aryacakravarti|Aryacakravarti]]
+|footnotes              = 
+}}
+'''Kerajaan Jaffna''' ({{lang-ta| }}) (1215-1619), juga disebut '''Kerajaan Aryacakravarti''' adalah negara yang terletak di [[Sri Lanka]] utara. Kerajaan ini muncul dengan dilancarkannya serangan oleh [[Kalinga Magha|Magha]], yang dikatakan berasal dari [[Kalinga (India)|Kalinga]], di India.
+
+Keruntuhan kerajaan ini disebabkan oleh datangnya [[Portugis]] ke pulau ini tahun 1505.
+
+== Pranala luar ==
+* [http://www.jaffnaroyalfamily.org/index.php Jaffna Royal Family]
+
+{{DEFAULTSORT:Jaffna Kingdom}}
+[[Kategori:Sejarah Sri Lanka]]
+
+
+{{sejarah-stub}}

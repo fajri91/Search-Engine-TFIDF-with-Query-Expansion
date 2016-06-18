@@ -1,0 +1,20 @@
+Templat:Kelua, Tabalong
+{{Navigasi ID Desa
+|nama kecamatan= Kelua
+|dati2=Kabupaten 
+|nama dati2=Tabalong
+|provinsi=Kalimantan Selatan
+|d1= Ampukung
+|d2= Bahungin
+|d3= Binturu
+|d4= Karangan Putih
+|d5= Masintan
+|d6= Paliat
+|d7= Pasar Panas
+|d8= Pudak Setegal
+|d9= Sungai Buluh
+|d10= Takulat
+|d11= Telaga Itar
+|k1= Pulau
+}}<noinclude>[[Kategori:Templat desa/kelurahan di Kalimantan Selatan|Tabalong]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Tabalong]]</noinclude>

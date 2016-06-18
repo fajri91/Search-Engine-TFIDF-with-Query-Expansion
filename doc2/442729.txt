@@ -1,0 +1,95 @@
+Tim nasional sepak bola Panama
+{{Infobox National football team
+| Name               = Panama
+| Badge              = Panama FA.png 
+| Nickname           = {{nowrap begin}} ''Los Canaleros'' {{br}} ''La Marea Roja''
+| Association        = [[Federasi Sepak Bola Panama]]
+| Sub-confederation  = [[Central American Football Union|UNCAF]] ([[Amerika Tengah]])
+| Confederation      = [[CONCACAF]]
+| Captain            = [[Felipe Baloy]]
+| Coach              = [[Julio Dely Valds]] 
+| Most caps          = 
+| Top scorer         = [[Luis Tejada]] (34)
+| Home Stadium       = [[Estadio Rommel Fernndez]]
+| FIFA Trigramme     = PAN
+| FIFA Rank          = 50
+| FIFA max           = 47
+| FIFA max date      = Januari 2012
+| FIFA min           = 150
+| FIFA min date      = Agustus 1995
+| Elo Rank           = 50
+| Elo max            = 43
+| Elo max date       = Januari 2012
+| Elo min            = 151
+| Elo min date       = Juni 1984
+| pattern_la1=_Panam3|pattern_b1=_Pana2009-|pattern_ra1=_Panam3
+| leftarm1=FF0000|body1=FF0000|rightarm1=FF0000|shorts1=FF0000|socks1=FF0000
+| pattern_la2=_Panam3(2)|pattern_b2=_Pana2009-(2)|pattern_ra2=_Panam3(2)
+| leftarm2=FFFFFF|body2=FFFFFF|rightarm2=FFFFFF|shorts2=FFFFFF|socks2=FFFFFF
+| First game         = Panama 22 {{timnas|Meksiko}} <br> ([[Cali]], [[Kolombia]]; 28 Juli 1937)[http://www.rsssf.com/tablesp/panama-intres.html] 
+| Largest win        = Panama 120 {{timnas|Puerto Riko}} <br> ([[Barranquilla]], [[Kolombia]]; 13 Desember 1946)
+| Largest loss       = {Panama 011 {{timnas|Kosta Rika}} <br> ([[Kota Panama]], [[Panama]]; 16 Februari 1938)
+| World cup apps     = 
+| World cup first    = 
+| World cup best     = 
+| Regional name      = [[Piala Emas CONCACAF]]
+| Regional cup apps  = 5 (1993,2005,2007,2009,2011)
+| Regional cup best  = Tempat kedua; [[Piala Emas CONCACAF 2005|2005]]
+}}
+'''Tim nasional sepak bola Panama''' merupakan sebuah tim nasional [[sepak bola]] yang prestasinya meraih tempat kedua [[Piala Emas CONCACAF]] pada tahun [[2005]] dan berada di bawah [[Federasi Sepak Bola Panama]]. Tim ini belum pernah tampil di ajang [[Piala Dunia FIFA]].
+
+==Rekor Piala Dunia==
+* {{wc|1930}} hingga {{wc|1974}} - ''Tidak ikut''
+* {{wc|1978}} hingga {{wc|2010}} - ''Tidak lolos''
+
+==Rekor Piala Emas CONCACAF==
+*[[1991 CONCACAF Gold Cup|1991]] - ''Tidak lolos''
+*[[1993 CONCACAF Gold Cup|1993]] - Babak 1
+*[[1996 CONCACAF Gold Cup|1996]] - ''Tidak lolos''
+*[[1998 CONCACAF Gold Cup|1998]] - ''Tidak lolos''
+*[[2000 CONCACAF Gold Cup|2000]] - ''Tidak ikut''
+*[[2002 CONCACAF Gold Cup|2002]] - ''Tidak lolos''
+*[[2003 CONCACAF Gold Cup|2003]] - ''Tidak lolos''
+*[[2005 CONCACAF Gold Cup|2005]] - Tempat kedua
+*[[2007 CONCACAF Gold Cup|2007]] - Perempat final
+*[[2009 CONCACAF Gold Cup|2009]] - Perempat final
+*[[2011 CONCACAF Gold Cup|2011]] - Semifinal
+
+==Skuad==
+{{nat fs g start}}
+{{nat fs g player|no=|pos=GK|name=[[Luis Meja]]|age={{birth date and age|1991|3|16}}|caps=8|goals=0|club=[[Centro Atltico Fnix|Fnix]]|clubnat=URU}}
+{{nat fs g player|no=|pos=GK|name=[[Ivan Picard]]|age={{birth date and age|1993|6|6}}|caps=0|goals=0|club=[[Ro Abajo F.C.|Ro Abajo]]|clubnat=PAN}}
+|-----
+! colspan="9" bgcolor="#B0D3FB" align="left" |
+|----- bgcolor="#DFEDFD" 
+{{nat fs g player|no=|pos=DF|name=[[Erick Davis]]|age={{birth date and age|1991|3|31}}|caps=11|goals=0|club=[[Centro Atltico Fnix|Fnix]]||clubnat=URU}}
+{{nat fs g player|no=|pos=DF|name=[[Eduardo Dasent]]|age={{birth date and age|1988|10|12}}|caps=10|goals=0|club=[[Tauro F.C.|Tauro]]|clubnat=PAN}}
+{{nat fs g player|no=|pos=DF|name=[[Rolando Algandona]]|age={{birth date and age|1989|4|12}}|caps=6|goals=0|club=[[San Francisco F.C.|San Francisco]]|clubnat=PAN}}
+{{nat fs g player|no=|pos=DF|name=[[Roderick Miller]]|age={{birth date and age|1994|4|3}}|caps=3|goals=0|club=[[San Francisco F.C.|San Francisco]]|clubnat=PAN}}
+{{nat fs g player|no=|pos=DF|name=[[Luis Ovalle]]|age={{birth date and age|1988|9|7}}|caps=2|goals=0|club=[[Sporting San Miguelito]]|clubnat=PAN}}
+{{nat fs g player|no=|pos=DF|name=[[Sergio Thompson]]|age={{birth date and age|1989|8|10}}|caps=2|goals=0|club=[[Sporting San Miguelito]]|clubnat=PAN}}
+{{nat fs g player|no=|pos=DF|name=[[Edward Bentez]]|age={{birth date and age|1991|10|15}}|caps=0|goals=0|club=[[Chorrillo F.C.|Chorrillo]]|clubnat=PAN}}
+|-----
+! colspan="9" bgcolor="#B0D3FB" align="left" |
+|----- bgcolor="#DFEDFD" 
+{{nat fs g player|no=|pos=MF|name=[[Armando Cooper]]|age={{birth date and age|1987|10|26}}|caps=28|goals=3|club=[[Godoy Cruz Antonio Tomba|Godoy Cruz]]|clubnat=ARG}}
+{{nat fs g player|no=|pos=MF|name=[[Anbal Godoy]]|age={{birth date and age|1990|2|10}}|caps=15|goals=0|club=[[Godoy Cruz Antonio Tomba|Godoy Cruz]]|clubnat=ARG}}
+{{nat fs g player|no=|pos=MF|name=[[Marcos Snchez]]|age={{birth date and age|1989|12|23}}|caps=8|goals=0|club=[[Tauro F.C.|Tauro]]|clubnat=PAN}}
+{{nat fs g player|no=|pos=MF|name=[[Juan de Gracia]]|age={{birth date and age|1990|4|21}}|caps=2|goals=0|club=[[Chepo F.C.|Chepo]]|clubnat=PAN}}
+{{nat fs g player|no=|pos=DF|name=[[Yairo Yau]]|age={{birth date and age|1989|9|7}}|caps=1|goals=0|club=[[Sporting San Miguelito]]|clubnat=PAN}}
+|-----
+! colspan="9" bgcolor="#B0D3FB" align="left" |
+|----- bgcolor="#DFEDFD" 
+{{nat fs g player|no=|pos=FW|name=[[Edwin Aguilar]]|age={{birth date and age|1985|8|7}}|caps=23|goals=6|club=[[Tauro F.C.|Tauro]]|clubnat=PAN}}
+{{nat fs g player|no=|pos=FW|name=[[Luis Rentera]]|age={{birth date and age|1988|9|13}}|caps=19|goals=3|club=[[Tauro F.C.|Tauro]]|clubnat=PAN}}
+{{nat fs g player|no=|pos=FW|name=[[Cecilio Waterman]]|age={{birth date and age|1991|4|13}}|caps=1|goals=0|club=[[Centro Atltico Fnix|Fnix]]||clubnat=URU}}
+{{nat fs g player|no=|pos=DF|name=[[Jos Pinzn (footballer)|Jos Pinzn]]|age={{birth date and age|1991|11|7}}|caps=0|goals=0|club=[[Sporting San Miguelito]]|clubnat=PAN}}
+{{nat fs g end}}
+
+==Pranala luar==
+*[http://www.fepafut.com Situs resmi Federasi Sepak Bola Panama]
+*[http://www.fifa.com/associations/association=pan/index.html Panama] at FIFA.com
+
+{{sepakbola-stub}}
+
+[[Kategori:Tim sepak bola]]

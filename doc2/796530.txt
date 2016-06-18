@@ -1,0 +1,65 @@
+Templat:Sejarah Asia Selatan
+{| class="infobox collapsible"
+|-
+! colspan=2 style="background:#ccccff" | [[Sejarah Asia Selatan]]
+
+|- style="background-color: #f7f8ff"
+| [[Zaman Batu Asia Selatan|Zaman Batu]]
+| sebelum 3300 SM
+|- style="background-color: #f7f8ff"
+| [[Sipilisasi Lembah Indus|Harappan Dewasa]]
+| 26001700 SM
+|- style="background-color: #f7f8ff"
+| [[Budaya pemakaman H|Harappan Akhir]]
+| 17001300 SM
+
+|- style="background-color: #ffe1ff"
+| [[Zaman Besi India|Zaman Besi]]
+| 1200300 SM
+|- style="background-color: #ffe1ff"
+| [[Kekaisaran Maurya]]
+| 321184 SM
+
+|- style="background-color: #ffece1"
+| [[Kerajaan pertengahan India|Kerajaan pertengahan]]
+| 230 SM1279 M
+|- style="background-color: #ffece1"
+| [[Satavahana]]
+| 230 SM220 M
+|- style="background-color: #ffece1"
+| [[Kekaisaran Gupta]]
+| 280550 M
+
+|- style="background-color: #e1ffe1"
+| [[Kekaisaran Pala]]
+| 7501140 M
+|- style="background-color: #e1ffe1"
+| [[Kesultanan Delhi]]
+| 12061596
+|- style="background-color: #e1ffe1"
+| [[Kekaisaran Mughal]]
+| 15261803
+|- style="background-color: #e1ffe1"
+| [[Kekaisaran Maratha]]
+| 16741818
+|- style="background-color: #e1ffe1"
+| [[India Britania]]
+| 18581947
+
+|- style="background-color: #fadadd"
+| [[Partisi India|Negara-Negara Bagian Modern]]
+| sejak 1947
+
+|-
+| colspan=6 style="text-align:center" | [[Garis waktu sejarah India|Garis waktu]]
+|-
+| colspan=2 style="text-align:center" | {{navbar|Sejarah Asia Selatan}}
+|}<noinclude>{{doc|content=
+
+== Lihat pula ==
+
+* {{tl|Sejarah Asia Selatan}} (versi yang memperjelas)
+
+[[Kategori:Templat sejarah Asia|Sejarah Asia Selatan]]
+
+}}</noinclude>

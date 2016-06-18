@@ -1,0 +1,144 @@
+Daftar Perdana Menteri Niger
+{{intro daftar pemimpin|PM|Niger}}
+
+{| class="prettytable"
+|- valign=top bgcolor=#99CCFF
+|colspan="4" align=center|'''Perdana Menteri'''
+|- bgcolor=#99CCFF
+|'''Nama'''
+|'''Mulai menjabat'''
+|'''Akhir jabatan'''
+|'''Partai'''
+|- bgcolor=#99FFFF
+|[[Hamani Diori]] 
+|[[18 Desember]] [[1958]]
+|[[10 November]] [[1960]]
+|[[Nigerien Progressive Party-African Democratic Rally|PPN-RDA]]
+|- bgcolor=#99FFFF
+|[[Mamane Oumarou]] 
+|[[24 Januari]] [[1983]]
+|[[14 November]] [[1983]]
+|n-p
+|- bgcolor=#99FFFF
+|[[Hamid Algabid]] 
+|[[14 November]] [[1983]]
+|[[15 Juli]] [[1988]]
+|n-p
+|- bgcolor=#99FFFF
+|[[Mamane Oumarou]] 
+|[[15 Juli]] [[1988]]
+|[[20 Desember]] [[1989]]
+|[[National Movement for the Development of Society|MNSD]]
+|- bgcolor=#99FFFF
+|[[Aliou Mahamidou]] 
+|[[2 Maret]] [[1990]]
+|[[27 Oktober]] [[1991]]
+|[[National Movement for the Development of Society|MNSD]]
+|- bgcolor=#99FFFF
+|[[Amadou Cheiffou]] 
+|[[27 Oktober]] [[1991]]
+|[[17 April]] [[1993]]
+|n-p
+|- bgcolor=#99FFFF
+|[[Mahamadou Issoufou]] 
+|[[17 April]] [[1993]]
+|[[28 September]] [[1994]]
+|[[Nigerien Party for Democracy and Socialism-Tarayya|PNDS-Tarayya]]
+|- bgcolor=#99FFFF
+|[[Souley Abdoulaye]] 
+|[[28 September]] [[1994]]
+|[[8 Februari]] [[1995]]
+|[[Democratic and Social Convention-Rahama|CDS-Rahama]]
+|- bgcolor=#99FFFF
+|[[Amadou Ciss]] 
+|[[8 Februari]] [[1995]]
+|[[21 Februari]] [[1995]]
+|n-p
+|- bgcolor=#99FFFF
+|[[Hama Amadou]] 
+|[[21 Februari]] [[1995]]
+|[[27 Januari]] [[1996]]
+|[[National Movement for the Development of Society-Nassara|MNSD-Nassara]]
+|- bgcolor=#99FFFF
+|[[Boukary Adji]] 
+|[[30 Januari]] [[1996]]
+|[[21 Desember]] [[1996]]
+|n-p
+|- bgcolor=#99FFFF
+|[[Amadou Ciss]] 
+|[[21 Desember]] [[1996]]
+|[[27 November]] [[1997]]
+|n-p
+|- bgcolor=#99FFFF
+|[[Ibrahim Hassane Mayaki]] 
+|[[27 November]] [[1997]]
+|[[1 Januari]] [[2000]]
+|[[National Union of Independents for Democratic Renewal|UNIRD]]
+|- bgcolor=#99FFFF
+|[[Hama Amadou]] 
+|[[1 Januari]] [[2000]]
+|[[7 Juni]] [[2007]]
+|[[National Movement for the Development of Society-Nassara|MNSD-Nassara]]
+|- bgcolor=#99FFFF
+|[[Seyni Oumarou]] 
+|[[7 Juni]] [[2007]]
+|[[23 September]] [[2009]]
+|[[National Movement for the Development of Society-Nassara|MNSD-Nassara]]
+|- bgcolor=#99FFFF
+|[[Albad Abouba]] 
+|[[23 September]] [[2009]]
+|[[2 Oktober]] [[2009]]
+|[[National Movement for the Development of Society-Nassara|MNSD-Nassara]]
+|- bgcolor=#99FFFF
+|[[Ali Badjo Gamati]] 
+|[[2 Oktober]] [[2009]]
+|[[18 Februari]] [[2010]]
+|[[National Movement for the Development of Society-Nassara|MNSD-Nassara]]
+|- bgcolor=#99FFFF
+|[[Mahamadou Danda]] 
+|[[23 Februari]] [[2010]]
+|[[7 April]] [[2011]]
+|n-p
+|- bgcolor=#99FFFF
+|[[Brigi Rafini]] 
+|[[7 April]] [[2011]]
+|sekarang
+|RDPJama'a
+|}
+
+;Afiliasi
+{| class="wikitable"
+|- 
+! width="7%"|Singkatan
+! width="40%"|Kepanjangan
+|- valign=top
+|rowspan="2" |<small>'''CDS-Rahama'''||<small>'''Convention Dmocratique et Sociale-Rahama''' 
+|- valign=top
+|<small>([[Democratic and Social Convention-Rahama]]) 
+|-valign=top
+|rowspan="2"|<small>'''MNSD'''||<small>'''Mouvement National de la Societ de Dveloppement''' 
+|- valign=top
+|<small>([[National Movement for the Development of Society]]) ''only legal party [[1989]]-[[1990]]''
+|-valign=top
+|rowspan="2"|<small>'''MNSD-Nassara'''||<small>'''Mouvement National de la Societ de Dveloppement-Nassara''' 
+|- valign=top
+|<small>([[National Movement for the Development of Society-Nassara]]) ''center-right''
+|- valign=top
+|rowspan="2" |<small>'''PNDS-Tarayya'''||<small>'''Parti Nigerien pour la Democratie et le Socialisme-Tarayya''' 
+|- valign=top
+|<small>([[Nigerien Party for Democracy and Socialism-Tarayya]]) ''center-left, social-democratic''
+|-valign=top
+|rowspan="2" |<small>'''PPN-RDA'''||<small>'''Parti Progressiste Nigrien-Rassemblement Dmocratique Africain''' 
+|- valign=top
+|<small>([[Nigerien Progressive Party-African Democratic Rally]]) ''only legal party [[1960]]-[[1974]]''
+|- valign=top
+|rowspan="2" |<small>'''UNIRD'''||<small>'''Union Nationale des Indpendants pour la Renoveau Dmocratique''' 
+|- valign=top
+|<small>([[National Union of Independents for Democratic Renewal]]) ''authoritarian''
+|- valign=top
+| rowspan="2" |<small>'''n-p'''||<small>'''Non-Partisan'''
+|-
+| colspan=2 align=right | <small>{{ed|Political Affiliations: Niger|kotak ini}}</small>
+|}
+
+{{daftar pemimpin negara|jabatan=Perdana Menteri|negara=Niger |stub=y}}

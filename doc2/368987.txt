@@ -1,0 +1,419 @@
+Internationaux de Nouvelle-Caldonie 2011  Tunggal
+{{Tennis events 2|2011|Internationaux de Nouvelle-Caldonie|
+| champ = {{flagicon|FRA}} [[Vincent Millot]]
+| runner = {{flagicon|LUX}} [[Gilles Mller]]
+| score = 76(6), 26, 64
+}}
+{{main|Internationaux de Nouvelle-Caldonie 2011}}
+[[Florian Mayer]] merupakan juara bertahan turnamen ini, tetapi memilih untuk tidak berpartisipasi tahun ini.<br />[[Vincent Millot]] keluar sebagai juara setelah mengalahkan [[Gilles Mller]] dengan skor 7-6(6), 2-6, 6-4.
+
+== Unggulan ==
+{{col-begin}}
+{{col-2}}
+#{{flagicon|NED}} [[Igor Sijsling]] ''(Putaran Pertama)
+#{{flagicon|NED}} [[Jesse Huta Galung]] ''(Semifinal, tidak ikut)
+#{{flagicon|LUX}} [[Gilles Mller]] ''(Juara Kedua)
+#{{flagicon|FRA}} [[Marc Gicquel]] ''(Putaran Pertama)
+{{col-2}}
+<ol start="5">
+<li> {{flagicon|FRA}} [[Benot Paire]] ''(Putaran Pertama)
+<li> {{flagicon|FRA}} [[Josselin Ouanna]] ''(Perempatfinal)
+<li> {{flagicon|FRA}} [[David Guez]] ''(Putaran Kedua)
+<li> {{flagicon|ITA}} [[Simone Vagnozzi]] ''(Putaran Kedua)
+</ol>
+{{col-end}}
+
+== Hasil pengundian ==
+{{Draw key}}
+=== Final ===
+{{4TeamBracket-Tennis3-v2
+| RD1=Semifinal
+| RD2=Grand Final
+
+| team-width=175
+
+| RD1-seed1=&nbsp;
+| RD1-team1={{flagicon|FRA}} [[Augustin Gensse]]
+| RD1-score1-1=3
+| RD1-score1-2=3
+| RD1-score1-3=&nbsp;
+| RD1-seed2=3
+| RD1-team2={{flagicon|LUX}} '''[[Gilles Mller]]
+| RD1-score2-1='''6
+| RD1-score2-2='''6
+| RD1-score2-3=&nbsp;
+
+| RD1-seed3=&nbsp;
+| RD1-team3={{flagicon|FRA}} '''[[Vincent Millot]]
+| RD1-score3-1=&nbsp;
+| RD1-score3-2=&nbsp;
+| RD1-score3-3=&nbsp;
+| RD1-seed4=2
+| RD1-team4={{flagicon|NED}} [[Jesse Huta Galung]]
+| RD1-score4-1=<small>w/o</small>
+| RD1-score4-2=&nbsp;
+| RD1-score4-3=&nbsp;
+
+| RD2-seed1=3
+| RD2-team1={{flagicon|LUX}} [[Gilles Mller]]
+| RD2-score1-1=6<sup>6
+| RD2-score1-2='''6
+| RD2-score1-3=4
+| RD2-seed2=&nbsp;
+| RD2-team2={{flagicon|FRA}} '''[[Vincent Millot]]
+| RD2-score2-1='''7
+| RD2-score2-2=2
+| RD2-score2-3='''6
+}}
+
+=== Paruh atas ===
+{{16TeamBracket-Compact-Tennis3
+| RD1=Putaran Pertama
+| RD2=Putaran Kedua
+| RD3=Perempatfinal
+| RD4=Semifinal
+
+| RD1-seed01=1
+| RD1-team01={{flagicon|NED}} [[Igor Sijsling|I Sijsling]]
+| RD1-score01-1='''7
+| RD1-score01-2=4
+| RD1-score01-3=4
+| RD1-seed02=&nbsp;
+| RD1-team02={{flagicon|FRA}} '''[[Augustin Gensse|A Gensse]]
+| RD1-score02-1=5
+| RD1-score02-2='''6
+| RD1-score02-3='''6
+
+| RD1-seed03=&nbsp;
+| RD1-team03={{flagicon|USA}} [[Kevin Kim|K Kim]]
+| RD1-score03-1='''7
+| RD1-score03-2=3
+| RD1-score03-3=4
+| RD1-seed04=&nbsp;
+| RD1-team04={{flagicon|DEN}} '''[[Frederik Nielsen|F Nielsen]]
+| RD1-score04-1=6<sup>4
+| RD1-score04-2='''6
+| RD1-score04-3='''6
+
+| RD1-seed05=&nbsp;
+| RD1-team05={{flagicon|FRA}} [[Romain Jouan|R Jouan]]
+| RD1-score05-1=6<sup>8
+| RD1-score05-2=3
+| RD1-score05-3=&nbsp;
+| RD1-seed06=&nbsp;
+| RD1-team06={{flagicon|SVK}} '''[[Pavol ervenk|P ervenk]]
+| RD1-score06-1='''7
+| RD1-score06-2='''6
+| RD1-score06-3=&nbsp;
+
+| RD1-seed07=&nbsp;
+| RD1-team07={{flagicon|GER}} '''[[Sebastian Rieschick|S Rieschick]]
+| RD1-score07-1='''6
+| RD1-score07-2='''6
+| RD1-score07-3=&nbsp;
+| RD1-seed08=5
+| RD1-team08={{flagicon|FRA}} [[Benot Paire|B Paire]]
+| RD1-score08-1=1
+| RD1-score08-2=1
+| RD1-score08-3=&nbsp;
+
+| RD1-seed09=3
+| RD1-team09={{flagicon|LUX}} '''[[Gilles Mller|G Mller]]
+| RD1-score09-1=4
+| RD1-score09-2='''7
+| RD1-score09-3='''7
+| RD1-seed10=PR
+| RD1-team10={{flagicon|THA}} [[Danai Udomchoke|D Udomchoke]]
+| RD1-score10-1='''6
+| RD1-score10-2=5
+| RD1-score10-3=6<sup>5
+
+| RD1-seed11=WC
+| RD1-team11={{Nowrap|{{flagicon|FRA}} Charles-Antoine Brzac}}
+| RD1-score11-1=4
+| RD1-score11-2=6<sup>2
+| RD1-score11-3=&nbsp;
+| RD1-seed12=WC
+| RD1-team12={{flagicon|FRA}} '''Clment Reix
+| RD1-score12-1='''6
+| RD1-score12-2='''7
+| RD1-score12-3=&nbsp;
+
+| RD1-seed13=&nbsp;
+| RD1-team13={{flagicon|ITA}} Matteo Viola
+| RD1-score13-1=5
+| RD1-score13-2=4
+| RD1-score13-3=&nbsp;
+| RD1-seed14=&nbsp;
+| RD1-team14={{flagicon|ITA}} '''[[Flavio Cipolla|F Cipolla]]
+| RD1-score14-1='''7
+| RD1-score14-2='''6
+| RD1-score14-3=&nbsp;
+
+| RD1-seed15=Q
+| RD1-team15={{flagicon|RSA}} [[Fritz Wolmarans|F Wolmarans]]
+| RD1-score15-1=1
+| RD1-score15-2=4
+| RD1-score15-3=&nbsp;
+| RD1-seed16=7
+| RD1-team16={{flagicon|FRA}} '''[[David Guez|D Guez]]
+| RD1-score16-1='''6
+| RD1-score16-2='''6
+| RD1-score16-3=&nbsp;
+
+| RD2-seed01=&nbsp;
+| RD2-team01={{flagicon|FRA}} '''[[Augustin Gensse|A Gensse]]
+| RD2-score01-1='''6
+| RD2-score01-2='''6
+| RD2-score01-3=&nbsp;
+| RD2-seed02=&nbsp;
+| RD2-team02={{flagicon|DEN}} [[Frederik Nielsen|F Nielsen]]
+| RD2-score02-1=4
+| RD2-score02-2=2
+| RD2-score02-3=&nbsp;
+
+| RD2-seed03=&nbsp;
+| RD2-team03={{flagicon|SVK}} '''[[Pavol ervenk|P ervenk]]
+| RD2-score03-1='''6
+| RD2-score03-2='''7
+| RD2-score03-3=&nbsp;
+| RD2-seed04=&nbsp;
+| RD2-team04={{flagicon|GER}} [[Sebastian Rieschick|S Rieschick]]
+| RD2-score04-1=1
+| RD2-score04-2=6<sup>1
+| RD2-score04-3=&nbsp;
+
+| RD2-seed05=3
+| RD2-team05={{flagicon|LUX}} '''[[Gilles Mller|G Mller]]
+| RD2-score05-1=4
+| RD2-score05-2='''6
+| RD2-score05-3='''6
+| RD2-seed06=WC 
+| RD2-team06={{flagicon|FRA}} Clment Reix
+| RD2-score06-1='''6
+| RD2-score06-2=1
+| RD2-score06-3=4
+
+| RD2-seed07=&nbsp;
+| RD2-team07={{flagicon|ITA}} '''[[Flavio Cipolla|F Cipolla]]
+| RD2-score07-1='''6
+| RD2-score07-2='''6
+| RD2-score07-3=&nbsp;
+| RD2-seed08=7
+| RD2-team08={{flagicon|FRA}} [[David Guez|D Guez]]
+| RD2-score08-1=1
+| RD2-score08-2=0
+| RD2-score08-3=&nbsp;
+
+| RD3-seed01=&nbsp;
+| RD3-team01={{flagicon|FRA}} '''[[Augustin Gensse|A Gensse]]
+| RD3-score01-1='''7
+| RD3-score01-2='''6
+| RD3-score01-3=&nbsp;
+| RD3-seed02=&nbsp;
+| RD3-team02={{flagicon|SVK}} [[Pavol ervenk|P ervenk]]
+| RD3-score02-1=6<sup>6
+| RD3-score02-2=4
+| RD3-score02-3=&nbsp;
+
+| RD3-seed03=3
+| RD3-team03={{flagicon|LUX}} '''[[Gilles Mller|G Mller]]
+| RD3-score03-1='''6
+| RD3-score03-2=1
+| RD3-score03-3='''6
+| RD3-seed04=&nbsp;
+| RD3-team04={{flagicon|ITA}} [[Flavio Cipolla|F Cipolla]]
+| RD3-score04-1=3
+| RD3-score04-2='''6
+| RD3-score04-3=3
+
+| RD4-seed01=&nbsp;
+| RD4-team01={{flagicon|FRA}} [[Augustin Gensse|A Gensse]]
+| RD4-score01-1=3
+| RD4-score01-2=4
+| RD4-score01-3=&nbsp;
+| RD4-seed02=3
+| RD4-team02={{flagicon|LUX}} '''[[Gilles Mller|G Mller]]
+| RD4-score02-1='''6
+| RD4-score02-2='''6
+| RD4-score02-3=&nbsp;
+}}
+
+=== Paruh bawah ===
+{{16TeamBracket-Compact-Tennis3
+| RD1=Putaran Pertama
+| RD2=Putaran Kedua
+| RD3=Perempatfinal
+| RD4=Semifinal
+
+| RD1-seed01=6
+| RD1-team01={{flagicon|FRA}} '''[[Josselin Ouanna|J Ouanna]]
+| RD1-score01-1='''6
+| RD1-score01-2='''6
+| RD1-score01-3=&nbsp;
+| RD1-seed02=Q
+| RD1-team02={{flagicon|USA}} [[Michael Yani|M Yani]]
+| RD1-score02-1=3
+| RD1-score02-2=4
+| RD1-score02-3=&nbsp;
+
+| RD1-seed03=Q
+| RD1-team03={{flagicon|GER}} [[Dominik Meffert|D Meffert]]
+| RD1-score03-1=6<sup>1
+| RD1-score03-2=6<sup>1
+| RD1-score03-3=&nbsp;
+| RD1-seed04=&nbsp;
+| RD1-team04={{flagicon|RSA}} '''[[Rik de Voest|R de Voest]]
+| RD1-score04-1='''7
+| RD1-score04-2='''7
+| RD1-score04-3=&nbsp;
+
+| RD1-seed05=&nbsp;
+| RD1-team05={{flagicon|FRA}} [[Olivier Patience|O Patience]]
+| RD1-score05-1='''6
+| RD1-score05-2=3
+| RD1-score05-3=3
+| RD1-seed06=Q
+| RD1-team06={{flagicon|ISR}} '''[[Amir Weintraub|A Weintraub]]
+| RD1-score06-1=1
+| RD1-score06-2='''6
+| RD1-score06-3='''6
+
+| RD1-seed07=&nbsp;
+| RD1-team07={{flagicon|FRA}} '''[[Vincent Millot|V Millot]]
+| RD1-score07-1='''6
+| RD1-score07-2='''7
+| RD1-score07-3=&nbsp;
+| RD1-seed08=4
+| RD1-team08={{flagicon|FRA}} [[Marc Gicquel|M Gicquel]]
+| RD1-score08-1=3
+| RD1-score08-2=5
+| RD1-score08-3=&nbsp;
+
+| RD1-seed09=8
+| RD1-team09={{flagicon|ITA}} '''[[Simone Vagnozzi|S Vagnozzi]]
+| RD1-score09-1='''6
+| RD1-score09-2='''6
+| RD1-score09-3=&nbsp;
+| RD1-seed10=WC
+| RD1-team10={{Nowrap|{{flagicon|FRA}} Nicolas N'Godrela}}
+| RD1-score10-1=4
+| RD1-score10-2=1
+| RD1-score10-3=&nbsp;
+
+| RD1-seed11=&nbsp;
+| RD1-team11={{flagicon|FRA}} Laurent Rochette
+| RD1-score11-1=3
+| RD1-score11-2=2
+| RD1-score11-3=&nbsp;
+| RD1-seed12=&nbsp;
+| RD1-team12={{flagicon|FRA}} '''Grgoire Burquier
+| RD1-score12-1='''6
+| RD1-score12-2='''6
+| RD1-score12-3=&nbsp;
+
+| RD1-seed13=&nbsp;
+| RD1-team13={{flagicon|FRA}} [[Laurent Recouderc|L Recouderc]]
+| RD1-score13-1=3
+| RD1-score13-2=3
+| RD1-score13-3=&nbsp;
+| RD1-seed14=&nbsp;
+| RD1-team14={{flagicon|SVK}} '''[[Ivo Klec|I Klec]]
+| RD1-score14-1='''6
+| RD1-score14-2='''6
+| RD1-score14-3=&nbsp;
+
+| RD1-seed15=WC
+| RD1-team15={{flagicon|FRA}} Florian Reynet
+| RD1-score15-1=3
+| RD1-score15-2=4
+| RD1-score15-3=&nbsp;
+| RD1-seed16=2
+| RD1-team16={{flagicon|NED}} '''[[Jesse Huta Galung|J Huta Galung]]
+| RD1-score16-1='''6
+| RD1-score16-2='''6
+| RD1-score16-3=&nbsp;
+
+| RD2-seed01=6
+| RD2-team01={{flagicon|FRA}} '''[[Josselin Ouanna|J Ouanna]]
+| RD2-score01-1='''6
+| RD2-score01-2='''6
+| RD2-score01-3=&nbsp;
+| RD2-seed02=&nbsp;
+| RD2-team02={{flagicon|RSA}} [[Rik de Voest|R de Voest]]
+| RD2-score02-1=2
+| RD2-score02-2=4
+| RD2-score02-3=&nbsp;
+
+| RD2-seed03=Q
+| RD2-team03={{flagicon|ISR}} [[Amir Weintraub|A Weintraub]]
+| RD2-score03-1='''6
+| RD2-score03-2=5
+| RD2-score03-3=5
+| RD2-seed04=&nbsp;
+| RD2-team04={{flagicon|FRA}} '''[[Vincent Millot|V Millot]]
+| RD2-score04-1=3
+| RD2-score04-2='''7
+| RD2-score04-3='''7
+
+| RD2-seed05=8
+| RD2-team05={{flagicon|ITA}} [[Simone Vagnozzi|S Vagnozzi]]
+| RD2-score05-1=3
+| RD2-score05-2=3
+| RD2-score05-3=&nbsp;
+| RD2-seed06=&nbsp; 
+| RD2-team06={{flagicon|FRA}} '''Grgoire Burquier
+| RD2-score06-1='''6
+| RD2-score06-2='''6
+| RD2-score06-3=&nbsp;
+
+| RD2-seed07=&nbsp;
+| RD2-team07={{flagicon|SVK}} [[Ivo Klec|I Klec]]
+| RD2-score07-1=4
+| RD2-score07-2=4
+| RD2-score07-3=&nbsp;
+| RD2-seed08=2
+| RD2-team08={{flagicon|NED}} '''[[Jesse Huta Galung|J Huta Galung]]
+| RD2-score08-1='''6
+| RD2-score08-2='''6
+| RD2-score08-3=&nbsp;
+
+| RD3-seed01=6
+| RD3-team01={{flagicon|FRA}} [[Josselin Ouanna|J Ouanna]]
+| RD3-score01-1='''6
+| RD3-score01-2=6<sup>0
+| RD3-score01-3=6<sup>2
+| RD3-seed02=&nbsp;
+| RD3-team02={{flagicon|FRA}} '''[[Vincent Millot|V Millot]]
+| RD3-score02-1=3
+| RD3-score02-2='''7
+| RD3-score02-3='''7
+
+| RD3-seed03=&nbsp;
+| RD3-team03={{flagicon|FRA}} Grgoire Burquier
+| RD3-score03-1=4
+| RD3-score03-2=5
+| RD3-score03-3=&nbsp;
+| RD3-seed04=2
+| RD3-team04={{flagicon|NED}} '''[[Jesse Huta Galung|J Huta Galung]]
+| RD3-score04-1='''6
+| RD3-score04-2='''7
+| RD3-score04-3=&nbsp;
+
+| RD4-seed01=&nbsp;
+| RD4-team01={{flagicon|FRA}} '''[[Vincent Millot|V Millot]]
+| RD4-score01-1=&nbsp;
+| RD4-score01-2=&nbsp;
+| RD4-score01-3=&nbsp;
+| RD4-seed02=2
+| RD4-team02={{flagicon|NED}} [[Jesse Huta Galung|J Huta Galung]]
+| RD4-score02-1=<small>w/o</small>
+| RD4-score02-2=&nbsp;
+| RD4-score02-3=&nbsp;
+}}
+
+== Referensi ==
+* [http://www.atpworldtour.com/posting/2011/2205/mds.pdf Hasil Pengundian  Utama]
+* [http://www.atpworldtour.com/posting/2011/2205/qs.pdf Hasil Pengundian  Kualifikasi]
+
+[[Kategori:ATP Challenger Tour 2011|Internationaux de Nouvelle-Caldonie  Tunggal]]

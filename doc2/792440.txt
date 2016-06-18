@@ -1,0 +1,37 @@
+Templat:Skuat Piala Konfederasi 2003 Kolombia
+{{National squad
+ | name        = Skuat Piala Konfederasi 2003 Kolombia
+ | bg          =#FCD116
+ | fg          =#003893
+ | bordercolor =#CE1126
+ | country     = Kolombia
+ | comp        = Piala Konfederasi FIFA 2003 - Peringkat keempat
+ | comp link   = Piala Konfederasi FIFA 2003
+ | p1          = [[scar Crdoba|O.&nbsp;Crdoba]] 
+ | p2          = [[Ivn Crdoba|I.&nbsp;Crdoba]] 
+ | p3          = [[Mario Yepes|Yepes]] 
+ | p4          = [[Edgar Ramos|Ramos]] 
+ | p5          = [[Jos Mera|Mera]] 
+ | p6          = [[Gerardo Vallejo|Vallejo]]
+ | p7          = [[Elson Becerra|Becerra]] 
+ | p8          = [[Arnulfo Valentierra|Valentierra]]
+ | p9          = [[Vctor Aristizbal|Aristizbal]]
+ | p10         = [[Giovanni Hernndez|Hernndez]] 
+ | p11         = [[Elkin Murillo|Murillo]] 
+ | p12         = [[Juan Carlos Henao|Henao]]
+ | p13         = [[Herly Alczar|Alczar]] 
+ | p14         = [[scar Daz Asprilla|Daz]]
+ | p15         = [[Rubn Daro Velzquez|Velzquez]]
+ | p16         = [[Eudalio Arriaga|Arriaga]]
+ | p17         = [[Martn Arzuaga|Arzuaga]]
+ | p18         = [[Jorge Lpez Caballero|Caballero]]
+ | p19         = [[Andrs Mosquera|Mosquera]]
+ | p20         = [[Gerardo Bedoya|Bedoya]]
+ | p21         = [[Jairo Patio|Patio]]
+ | p22         = [[Neco Martnez|N. Martnez]]
+ | p23         = [[Gonzalo Martnez|G. Martnez]]
+ | coach       = [[Francisco Maturana|Maturana]]
+}}<noinclude>
+[[Kategori:Templat Skuat Piala Konfederasi FIFA 2003|Kolombia]]
+[[Kategori:Templat skuat tim nasional Kolombia|Piala Konfederasi]]
+</noinclude>

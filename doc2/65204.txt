@@ -1,0 +1,324 @@
+Bandar Udara Internasional Miami
+{{Infobox airport
+|name         = Miami International Airport
+|image        = Miami International Airport Logo.svg
+|image-width  = 180
+|image2       = 1 - Aroport de Miami - Aot 2008.jpg
+|image2-width = 280
+|caption2     = Concourse J at Miami International Airport
+|IATA         = MIA
+|ICAO         = KMIA
+|FAA          = MIA
+|type         = Public
+|owner        = [[Miami-Dade County]]
+|operator     = Miami-Dade Aviation Department (MDAD)
+|city-served  = [[South Florida metropolitan area]]
+|location     = [[Miami-Dade County, Florida]]
+|hub          =
+<div>
+*[[American Airlines]]
+*[[FedEx Express]]
+*[[LAN Cargo]]
+*[[UPS Airlines]]
+</div>
+|elevation-f  = 8
+|elevation-m  = 2
+|latd = 25|latm = 47|lats = 36|latNS = N
+|longd=080|longm= 17|longs= 26|longEW= W
+|coordinates_region     = US-FL
+|website      = http://www.iflymia.com/
+|image_map              = MIA - Miami International Airport FAA diagram.svg
+|image_map_caption      = FAA airport diagram
+|pushpin_map            = United States Miami
+|pushpin_label          = MIA
+|pushpin_map_caption    = Location within Miami
+|r1-number    = 8L/26R
+|r1-length-f  = 8,600
+|r1-length-m  = 2,621
+|r1-surface   = [[Aspal]]
+|r2-number    = 8R/26L
+|r2-length-f  = 10,506
+|r2-length-m  = 3,202
+|r2-surface   = Aspal
+|r3-number    = 9/27
+|r3-length-f  = 13,000
+|r3-length-m  = 3,962
+|r3-surface   = Aspal
+|r4-number    = 12/30
+|r4-length-f  = 9,354
+|r4-length-m  = 2,851
+|r4-surface   = Aspal
+|stat-year    = 2011
+|stat1-header = Aircraft operations
+|stat2-header = Based aircraft
+|stat2-data   = 250
+|stat3-header = Passengers
+|stat3-data   = 38,300,000<ref name="bizjournals2011">{{cite news|title=Miami International Airport Reports Record Year|url=http://www.bizjournals.com/southflorida/news/2012/01/26/miami-international-airport-reports.html|newspaper=[[American City Business Journals|South Florida Business Journal]]|date=January 26, 2012|accessdate=May 24, 2012}}</ref>
+|footnotes    = Source: [[Federal Aviation Administration]]<ref name=FAA>{{FAA-airport|ID=MIA|use=PU|own=PU|site=03333.*A}}, effective October 25, 2007</ref>
+}}
+
+'''Bandara Internasional Miami''' {{Airport codes|MIA|KMIA|MIA}} adalah bandar udara yang terletak di bagian selatan [[Miami, Florida|Miami]], [[Amerika Serikat]] dan satu-satunya bandara komersial yang beroperasi di negara ini. Pada [[31 Agustus]] [[2006]], [[US Airways]] terbang ke [[Bandara Internasional Douglas Charlotte|Charlotte]] terbakar di landasan pacu. 118 penumpang di antaranya cedera. Pada tahun [[2005]], bandara ini menampung 31.008.453 penumpang.
+
+[[Image:Miami International Airport FL 28 Feb 1999.jpg|thumb|Satellite view of the airport in 1999]]
+
+[[Image:miami airport historical.jpg|right|thumb|A satellite image of Miami International Airport superimposed over the old 36th Street airfield]]
+[[Image:Miamiairportmap.png|right|thumb|Destinations with direct service from Miami]]
+
+[[Berkas:AA terminal at MIA 10 2004.jpg|thumb|right|American Airlines planes at Concourse D.]]
+
+[[Image:Pan am clipper.jpg|right|thumb|Model of a Pan Am flying boat in Concourse E]]
+
+[[Image:MiamiInternationalAirport.jpg|panorama|thumb|A Panoramic View of Concourses G and H, as well as the new Concourse J, from the south]]
+
+[[Image:Miami International FH020001.jpg|thumb|Aerial view of the airport]]
+
+===Maskapai Penerbangan dan Tujuan===
+====Passenger services====
+''Note: All flights to Cuba are operated as scheduled Special Authority Charters''
+{{Airport-dest-list
+|3rdcoltitle = Concourse
+|[[Aeroflot]]|[[Sheremetyevo International Airport|Moscow-Sheremetyevo]] [resumes October 30, 2012]<ref>{{cite news|title=Russia's Aeroflot Plans Miami Route|first=Scott|last=Blake|url=http://www.miamitodaynews.com/news/120517/story2.shtml|newspaper=[[Miami Today]]|date=May 17, 2012|accessdate=June 26, 2012}}</ref>|J
+|[[Aerolneas Argentinas]]|[[Ministro Pistarini International Airport|Buenos Aires-Ezeiza]]|J
+|[[Aeromxico]]|[[Cancn International Airport|Cancn]], [[Mexico City International Airport|Mexico City]]|H
+|[[Aeromxico Connect]]|[[Merida International Airport|Mrida]], [[Mexico City International Airport|Mexico City]], [[Monterrey International Airport|Monterrey]]|H
+|[[Air Berlin]]|[[Berlin-Tegel]] [ends March 15, 2013], [[Berlin Brandenburg Airport|Berlin-Brandenburg]] [begins March 16, 2013], [[Dsseldorf International Airport|Dsseldorf]]|E
+|[[Air Canada]]|[[Toronto Pearson International Airport|Toronto-Pearson]]<br>'''Seasonal''': [[Montral-Pierre Elliott Trudeau International Airport|Montral-Trudeau]]|J
+|[[Air France]]|[[Paris-Charles de Gaulle Airport|Paris-Charles de Gaulle]], [[Pointe--Pitre International Airport|Pointe--Pitre]], [[Toussaint Louverture International Airport|Port-au-Prince]]<br>'''Seasonal''': [[Las Amricas International Airport|Santo Domingo]]|H
+|[[Alitalia]]|[[Malpensa Airport|Milan-Malpensa]], [[Leonardo da Vinci-Fiumicino Airport|Rome-Fiumicino]]|J
+|[[American Airlines]]|[[V. C. Bird International Airport|Antigua]], [[Queen Beatrix International Airport|Aruba]], [[Silvio Pettirossi International Airport|Asuncin]] [begins November 15, 2012],<ref>{{cite press release|title=American Airlines To Add Nonstop Service Between Miami And Asuncion, Paraguay|url=http://aa.mediaroom.com/index.php?s=43&item=3530|publisher=[[American Airlines]]|date=June 11, 2012|accessdate=June 26, 2012}}</ref> [[Hartsfield-Jackson Atlanta International Airport|Atlanta]], [[Grantley Adams International Airport|Barbados]], [[Barcelona El Prat Airport|Barcelona]], [[Baltimore/Washington International Thurgood Marshall Airport|Baltimore]], [[Philip S. W. Goldson International Airport|Belize City]], [[Tancredo Neves International Airport|Belo Horizonte-Confins]], [[L.F. Wade International Airport|Bermuda]], [[El Dorado International Airport|Bogot]], [[Logan International Airport|Boston]], [[Braslia International Airport|Braslia]], [[Ministro Pistarini International Airport|Buenos Aires-Ezeiza]], [[Alfonso Bonilla Aragn International Airport|Cali]], [[Cancn International Airport|Cancn]], [[Simn Bolvar International Airport (Venezuela)|Caracas]], [[O'Hare International Airport|Chicago-O'Hare]], [[Cozumel International Airport|Cozumel]], [[Hato International Airport|Curaao]], [[Dallas/Fort Worth International Airport|Dallas/Fort Worth]], [[Denver International Airport|Denver]], [[Detroit Metropolitan Wayne County Airport|Detroit]], [[Owen Roberts International Airport|Grand Cayman]], [[Maurice Bishop International Airport|Grenada]], [[La Aurora International Airport|Guatemala City]], [[Jos Joaqun de Olmedo International Airport|Guayaquil]], [[Bradley International Airport|Hartford]], [[George Bush Intercontinental Airport|Houston-Intercontinental]], [[Norman Manley International Airport|Kingston]], [[El Alto International Airport|La Paz]], [[McCarran International Airport|Las Vegas]], [[Daniel Oduber Quirs International Airport|Liberia]], [[Jorge Chvez International Airport|Lima]], [[London Heathrow Airport|London-Heathrow]], [[Los Angeles International Airport|Los Angeles]], [[Madrid-Barajas Airport|Madrid]], [[Augusto C. Sandino International Airport|Managua]], [[Manaus Airport|Manaus]], [[La Chinita International Airport|Maracaibo]], [[Jos Mara Crdova International Airport|Medelln-Crdova]], [[Mexico City International Airport|Mexico City]], [[Minneapolis-Saint Paul International Airport|Minneapolis/St. Paul]], [[Sangster International Airport|Montego Bay]], [[Monterrey International Airport|Monterrey]], [[Carrasco International Airport|Montevideo]], [[Montral-Pierre Elliott Trudeau International Airport|Montral-Trudeau]], [[Louis Armstrong New Orleans International Airport|New Orleans]], [[John F. Kennedy International Airport|New York-JFK]], [[LaGuardia Airport|New York-LaGuardia]], [[Newark Liberty International Airport|Newark]], [[Orlando International Airport|Orlando]], [[Tocumen International Airport|Panama City]], [[Paris-Charles de Gaulle Airport|Paris-Charles de Gaulle]], [[Philadelphia International Airport|Philadelphia]], [[Phoenix Sky Harbor International Airport|Phoenix]], [[Toussaint Louverture International Airport|Port-au-Prince]], [[Piarco International Airport|Port of Spain]], [[Providenciales International Airport|Providenciales]], [[Gregorio Lupern International Airport|Puerto Plata]], [[Punta Cana International Airport|Punta Cana]], [[Mariscal Sucre International Airport|Quito]], [[Raleigh-Durham International Airport|Raleigh/Durham]], [[Recife Airport|Recife]], [[Rio de Janeiro-Galeo International Airport|Rio de Janeiro-Galeo]], [[Henry E. Rohlsen Airport|St. Croix]], [[Robert L. Bradshaw International Airport|St. Kitts]], [[Lambert-St. Louis International Airport|St. Louis]], [[Hewanorra International Airport|St. Lucia]], [[Princess Juliana International Airport|St. Maarten]], [[Cyril E. King Airport|St. Thomas]], [[Deputado Lus Eduardo Magalhes International Airport|Salvador da Bahia]], [[El Salvador International Airport|San Salvador]], [[Viru Viru International Airport|Santa Cruz de la Sierra-Viru Viru]], [[San Francisco International Airport|San Francisco]], [[Juan Santamara International Airport|San Jos (CR)]], [[Luis Muoz Marn International Airport|San Juan]], [[Ramn Villeda Morales International Airport|San Pedro Sula]], [[Comodoro Arturo Merino Bentez International Airport|Santiago de Chile]], [[Cibao International Airport|Santiago de los Caballeros]], [[Las Amricas International Airport|Santo Domingo]], [[So Paulo-Guarulhos International Airport|So Paulo-Guarulhos]], [[SeattleTacoma International Airport|Seattle/Tacoma]],  [[Tampa International Airport|Tampa]], [[Toncontn International Airport|Tegucigalpa]], [[Toronto Pearson International Airport|Toronto-Pearson]], [[Washington Dulles International Airport|Washington-Dulles]], [[Ronald Reagan Washington National Airport|Washington-National]]<br>'''Seasonal''': [[Eagle County Regional Airport|Eagle/Vail]], [[La Romana International Airport|La Romana]], [[Nashville International Airport|Nashville]], [[Tulsa International Airport|Tulsa]]<br>'''Charter''': [[Jos Mart International Airport|Havana]]|D, E
+|[[American Eagle Airlines|American Eagle]]|[[Hartsfield-Jackson Atlanta International Airport|Atlanta]], [[Birmingham-Shuttlesworth International Airport|Birmingham (AL)]], [[Charleston International Airport|Charleston (SC)]], [[Charlotte/Douglas International Airport|Charlotte]], [[Cincinnati/Northern Kentucky International Airport|Cincinnati/Northern Kentucky]], [[Savannah/Hilton Head International Airport|Savannah/Hilton Head]], [[Cleveland Hopkins International Airport|Cleveland]], [[Port Columbus International Airport|Columbus (OH)]], [[Gainesville Regional Airport|Gainesville]], [[Exuma International Airport|George Town]], [[Piedmont Triad International Airport|Greensboro]], [[Indianapolis International Airport|Indianapolis]], [[Jacksonville International Airport|Jacksonville]], [[La Romana International Airport|La Romana]], [[Louisville International Airport|Louisville]], [[Memphis International Airport|Memphis]], [[Nashville International Airport|Nashville]], [[Lynden Pindling International Airport|Nassau]], [[Norfolk International Airport|Norfolk]], [[Pensacola International Airport|Pensacola]], [[Pittsburgh International Airport|Pittsburgh]], [[Richmond International Airport|Richmond]], [[Tallahassee Regional Airport|Tallahassee]]|D, E
+|American Eagle operated by [[Executive Airlines]]|[[Grand Bahama International Airport|Freeport]], [[George Town Airport|George Town]], [[Governor's Harbour Airport|Governor's Harbour]], [[Jacksonville International Airport|Jacksonville (FL)]], [[Key West International Airport|Key West]], [[Marsh Harbour Airport|Marsh Harbour]], [[Lynden Pindling International Airport|Nassau]], [[North Eleuthera Airport|North Eleuthera]], [[Treasure Cay Airport|Treasure Cay]]<br>'''Charter:''' [[Ignacio Agramonte International Airport|Camagey]], [[Jaime Gonzlez Airport|Cienfuegos]], [[Jos Mart International Airport|Havana]], [[Frank Pas Airport|Holgun]], [[Antonio Maceo Airport|Santiago de Cuba]]|D
+|[[Arkefly]]|[[Amsterdam Airport Schiphol|Amsterdam]]<ref>{{cite press release|title=New! With Arkefly to Orlando and Miami|url=http://www.tui.nl/nl/persenmedia/persberichten/NIEUW--MET-ARKEFLY-NAAR-ORLANDO-EN-MIAMI.html|publisher=TUI Nederland|date=April 21, 2010|accessdate=July 7, 2012}}</ref><!-- Arkefly does not have traffic rights from MIA to SFB. Do not add Orland-Sanford as a destination. -->|F
+|[[Avianca]]|[[Ernesto Cortissoz International Airport|Barranquilla]], [[El Dorado International Airport|Bogot]], [[Alfonso Bonilla Aragn International Airport|Cali]], [[Rafael Nez International Airport|Cartagena de Indias]], [[Jos Mara Crdova International Airport|Medelln-Crdova]]|J
+|[[Avior Airlines]]|[[La Chinita International Airport|Barcelona (Venezuela)]]|F
+|[[Bahamasair]]|[[Lynden Pindling International Airport|Nassau]]|G
+|[[British Airways]]|[[London Heathrow Airport|London-Heathrow]]|E
+|[[Caribbean Airlines]]|[[Cheddi Jagan International Airport|Georgetown]], [[Piarco International Airport|Port of Spain]]|J
+|[[Cayman Airways]]|[[Gerrard Smith International Airport|Cayman Brac]], [[Owen Roberts International Airport|Grand Cayman]]|F
+|[[Copa Airlines]]|[[Tocumen International Airport|Panama City]]|H, J
+|[[Corsair International]]|[[Paris-Orly Airport|Paris-Orly]]|F
+|[[Delta Air Lines]]|[[Hartsfield-Jackson Atlanta International Airport|Atlanta]], [[Detroit Metropolitan Wayne County Airport|Detroit]], [[Los Angeles International Airport|Los Angeles]], [[Minneapolis-Saint Paul International Airport|Minneapolis/St. Paul]], [[John F. Kennedy International Airport|New York-JFK]], [[LaGuardia Airport|New York-LaGuardia]]<br>'''Charter''': [[Jos Mart International Airport|Havana]]<ref>{{cite news|title=Delta Airlines to Provide Chartered Flights to Cuba|url=http://www.cfnews13.com/content/news/cfnews13/news/article.html/content/news/articles/ot/both/2011/11/07/Delta_airlines_to_provide_chartered_flights_to_Cuba.html|work=[[Central Florida News 13]]|date=November 9, 2011|accessdate=July 7, 2012}}</ref>|H
+|[[Dutch Antilles Express]]|[[Hato International Airport|Curaao]]|H
+|[[Exec Air]]|[[Naples Municipal Airport|Naples]]<ref>{{cite web|title=Home|url=http://www.naplesair.net/|work=Naples Air|accessdate=June 26, 2012}}</ref>|G
+|[[IBC Airways]]|[[Cap-Haitien International Airport|Cap Haitien]]|J
+|[[Iberia (airline)|Iberia]]|[[Madrid-Barajas Airport|Madrid]]|E
+|[[Insel Air]]|[[Flamingo International Airport|Bonaire]], [[Hato International Airport|Curaao]], [[Toussaint Louverture International Airport|Port-au-Prince]], [[Punta Cana International Airport|Punta Cana]], [[Princess Juliana International Airport|St. Maarten]]|F
+|[[Interjet]]|[[Mexico City International Airport|Mexico City]]|E
+|[[LAN Airlines]]|[[El Dorado International Airport|Bogot]] [ends August 25, 2012], [[Simn Bolvar International Airport (Venezuela)|Caracas]], [[Punta Cana International Airport|Punta Cana]], [[Mariscal Sucre International Airport|Quito]], [[Comodoro Arturo Merino Bentez International Airport|Santiago de Chile]]|J
+|[[LAN Argentina]]|[[Ministro Pistarini International Airport|Buenos Aires-Ezeiza]], [[Punta Cana International Airport|Punta Cana]]|J
+|[[LAN Colombia]]|[[El Dorado International Airport|Bogot]]|J
+|[[LAN Ecuador]]|[[Mariscal Sucre International Airport|Quito]]|J
+|[[LAN Per]]|[[Jorge Chvez International Airport|Lima]]|J
+|[[Lufthansa]]|[[Frankfurt Airport|Frankfurt]]<br>'''Seasonal''': [[Dsseldorf International Airport|Dsseldorf]]<ref>{{cite press release|title=Lufthansa to Operate A380 on Miami Route|url=http://presse.lufthansa.com/en/news-releases/singleview/archive/2011/march/31/article/1904.html|publisher=[[Lufthansa]]|date=March 31, 2011|accessdate=July 7, 2012}}</ref>|J
+|[[Santa Brbara Airlines|SBA Airlines]]|[[Simn Bolvar International Airport (Venezuela)|Caracas]] <br> '''Seasonal''': [[La Chinita International Airport|Maracaibo]]|F
+|[[Sky King (airline)|Sky King]]|[[Jaime Gonzlez Airport|Cienfuegos]], [[Jos Mart International Airport|Havana]], [[Frank Pas Airport|Holgun]], [[Antonio Maceo Airport|Santiago de Cuba]]|F, G
+|[[Sun Country Airlines]]|'''Seasonal''': [[Minneapolis-Saint Paul International Airport|Minneapolis/St. Paul]]|F
+|[[Surinam Airways]]|[[Queen Beatrix International Airport|Aruba]], [[Cheddi Jagan International Airport|Georgetown-Cheddi Jagan]], [[Johan Adolf Pengel International Airport|Paramaribo]]|F
+|{{nowrap|[[Swiss International Air Lines]]}}|[[Zurich Airport|Zrich]]|J
+|[[TACA Airlines]]|[[La Aurora International Airport|Guatemala City]], [[Augusto C. Sandino International Airport|Managua]], [[Ramn Villeda Morales International Airport|San Pedro Sula]], [[El Salvador International Airport|San Salvador]], [[Toncontn International Airport|Tegucigalpa]]<br>'''Seasonal''': [[Juan Manuel Glvez International Airport|Roatn]]|J
+|[[TACA Airlines]] operated by [[Lacsa]]|[[Juan Santamara International Airport|San Jos (CR)]]|J
+|[[TACA Per]]|[[Jorge Chvez International Airport|Lima]]|J
+|[[TAM Airlines]]|[[Tancredo Neves International Airport|Belo Horizonte-Confins]], [[Braslia International Airport|Braslia]], [[Manaus Airport|Manaus]], [[Rio de Janeiro-Galeo]], [[So Paulo-Guarulhos International Airport|So Paulo-Guarulhos]]|J
+|[[Transaero Airlines]]|[[Domodedovo International Airport|Moscow-Domodedovo]]|F
+|[[TAP Portugal]]|[[Lisbon Portela Airport|Lisbon]]<ref>{{cite press release|title=TAP begins flights to Miami in 2011|url=http://miami-airport.com/pdfdoc/clip_TAP-begins-flights-to-MIA-in-2011.pdf|publisher=[[TAP Portugal]]|date=December 20, 2010|accessdate=July 7, 2012}}</ref>|J
+|[[United Airlines]]|[[George Bush Intercontinental Airport|Houston-Intercontinental]], [[Newark Liberty International Airport|Newark]]<br>'''Seasonal:''' [[O'Hare International Airport|Chicago-O'Hare]], [[Denver International Airport|Denver]], [[Washington Dulles International Airport|Washington-Dulles]]<br>'''Charter''': [[Jos Mart International Airport|Havana]]|G
+|[[United Express]] operated by [[ExpressJet Airlines]]|[[Cleveland Hopkins International Airport|Cleveland]]|G
+|[[United Express]] operated by [[Mesa Airlines]]|[[O'Hare International Airport|Chicago-O'Hare]], [[Washington Dulles International Airport|Washington-Dulles]]|G
+|United Express operated by [[Shuttle America]]|[[O'Hare International Airport|Chicago-O'Hare]], [[Washington Dulles International Airport|Washington-Dulles]]|G
+|[[US Airways]]|[[Charlotte/Douglas International Airport|Charlotte]], [[Philadelphia International Airport|Philadelphia]]|J
+|[[Virgin Atlantic Airways]]|[[London Heathrow Airport|London-Heathrow]]|F
+|[[WestJet]]|[[Toronto Pearson International Airport|Toronto-Pearson]]|E
+}}
+
+====Kargo====
+{{Airport-dest-list
+| [[ABSA Cargo Airline]] | [[El Dorado International Airport|Bogota]], [[Simn Bolvar International Airport (Venezuela)|Caracas]], [[Pinto Martins International Airport|Fortaleza]], [[Jos Joaqun de Olmedo International Airport|Guayaquil]], [[Jorge Chvez International Airport|Lima]], [[Manaus Airport|Manaus]], [[Jos Mara Crdova International Airport|Medelln-Crdova]], [[Tocumen International Airport|Panama City]], [[Mariscal Sucre International Airport|Quito]], [[Viracopos-Campinas International Airport|Campinas-Viracopos]], [[Vitoria Airport|Vitoria]]
+| [[ABX Air]] | [[Cincinnati/Northern Kentucky International Airport|Cincinnati]], [[Johan Adolf Pengel International Airport|Paramaribo]], [[Las Amricas International Airport|Santo Domingo]]
+| [[Air Atlanta Icelandic]] | [[John F. Kennedy International Airport|New York-JFK]], [[Oslo-Gardermoen]]
+| [[Air Transport International]] | [[La Aurora International Airport|Guatemala City]], [[Jos Mara Crdova International Airport|Medelln-Cordova]], [[Tocumen International Airport|Panama City]], [[Juan Santa Maria International Airport|San Jose de Costa Rica]]
+| [[Amerijet International]] | [[Queen Beatrix International Airport|Aruba]], [[Philip S. W. Goldson International Airport|Belize City]], [[Viracopos-Campinas International Airport|Campinas]], [[Afonso Pena International Airport|Curitiba]], [[Jorge Chvez International Airport|Lima]], [[Managua International Airport|Managua]], [[Manaus Airport|Manaus]], [[La Chinita International Airport|Maracaibo]], [[Manuel Crescencio Rejn International Airport|Merida]], [[Mexico City International Airport|Mexico City]], [[Johan Adolf Pengel International Airport|Paramaribo]], [[Piarco International Airport|Port of Spain]], [[Deputado Lus Eduardo Magalhes International Airport|Salvador]], [[Luis Muoz Marn International Airport|San Juan]], [[Ramn Villeda Morales International Airport|San Pedro Sula]], [[El Salvador International Airport|San Salvador]], [[Cibao International Airport|Santiago de los Caballeros]], [[Las Amricas International Airport|Santo Domingo]], [[Princess Juliana International Airport|St. Maarten]]
+| [[Atlas Air]] | [[O'Hare International Airport|Chicago-O'Hare]], [[Jorge Chvez International Airport|Lima]], [[Manaus Airport|Manaus]], [[Oslo Airport, Gardermoen|Oslo-Gardermoen]], [[Viracopos-Campinas International Airport|Campinas-Viracopos]], [[Rio de Janeiro-Galeo International Airport|Rio de Janeiro-Galeo]]
+| [[Cathay Pacific Cargo]] | [[Ted Stevens Anchorage International Airport|Anchorage]], [[Hong Kong International Airport|Hong Kong]], [[George Bush Intercontinental Airport|Houston-Intercontinental]]
+| [[Capital Cargo International Airlines]] | [[Manuel Crescencio Rejn International Airport|Merida]], [[Orlando International Airport|Orlando]], [[Toledo Express Airport|Toledo]]
+| [[Caribbean Airlines|Caribbean Airlines Cargo]] | [[Grantley Adams International Airport|Barbados]], [[Cheddi Jagan International Airport|Georgetown]], [[Norman Manley International Airport|Kingston]], [[Piarco International Airport|Port of Spain]]
+| [[Cargolux]] | [[George Bush Intercontinental Airport|Houston-Intercontinental]], [[Luxembourg  Findel Airport|Luxembourg]], [[Mexico City International Airport|Mexico City]]
+| [[Cayman Airways|Cayman Airways Cargo]] | [[Owen Roberts International Airport|Grand Cayman]]
+| [[Centurion Air Cargo]] | [[El Dorado International Airport|Bogota]], [[Simn Bolvar International Airport (Venezuela)|Caracas]], [[Crnl. FAP Francisco Secada Vignetta International Airport|Iquitos]], [[Jorge Chvez International Airport|Lima]], [[Manaus Airport|Manaus]], [[Jos Mara Crdova International Airport|Medellin]], [[Mariscal Sucre International Airport|Quito]], [[Comodoro Arturo Merino Bentez International Airport|Santiago de Chile]], [[Viracopos-Campinas International Airport|Campinas-Viracopos]], [[Luis Muoz Marn International Airport|San Juan]]
+| [[China Airlines|China Airlines Cargo]] | [[Ted Stevens Anchorage International Airport|Anchorage]], [[Hartsfield-Jackson Atlanta International Airport|Atlanta]], [[SeattleTacoma International Airport|Seattle/Tacoma]], [[Taiwan Taoyuan International Airport|Taipei-Taoyuan]]
+| [[Cielos del Peru]] | [[El Dorado International Airport|Bogot]], [[Simn Bolvar International Airport (Venezuela)|Caracas]], [[Crnl. FAP Francisco Secada Vignetta International Airport|Iquitos]], [[Jorge Chvez International Airport|Lima]], [[Augusto C. Sandino International Airport|Managua]], [[Manaus Airport|Manaus]], [[Carrasco International Airport|Montevideo]], [[Mariscal Sucre International Airport|Quito]]
+| [[DHL Express]] | [[Cincinnati/Northern Kentucky International Airport|Cincinnati/Northern Kentucky]], [[Toledo Express Airport|Toledo]]
+| [[DHL Aero Expreso]] | [[Tocumen International Airport|Panama City]], [[Mariscal Sucre International Airport|Quito]], [[Juan Santa Maria International Airport|San Jose de Costa Rica]]
+| [[Estafeta Carga Area]] | [[Cancn International Airport|Cancun]], [[Manuel Crescencio Rejn International Airport|Merida]]
+| [[FedEx Express]] | [[Memphis International Airport|Memphis]], [[Indianapolis International Airport|Indianapolis]], [[Mariscal Sucre International Airport|Quito]], [[Luis Muoz Marn International Airport|San Juan]], [[Arturo Michelena International Airport|Valencia (Venezuela)]]
+| [[Florida West International Airways]] | [[El Dorado International Airport|Bogot]], [[La Aurora International Airport|Guatemala City]], [[Jos Joaqun de Olmedo International Airport|Guayaquil]], [[Jorge Chvez International Airport|Lima]], [[Los Angeles International Airport|Los Angeles]], [[Manaus Airport|Manaus]], [[Jos Mara Crdova International Airport|Medellin]], [[Mariscal Sucre International Airport|Quito]], [[Las Amricas International Airport|Santo Domingo]], [[Juan Santa Maria International Airport|San Jose de Costa Rica]]
+| [[IBC Airways]] | [[Grand Bahama International Airport|Freeport]], [[Owen Roberts International Airport|Grand Cayman]], [[Jos Mart International Airport|Havana]], [[Norman Manley International Airport|Kingston]], [[Marsh Harbour Airport|Marsh Harbour]], [[Sangster International Airport|Montego Bay]], [[Lynden Pindling International Airport|Nassau]], [[Toussaint Louverture International Airport|Port-au-Prince]], [[Providenciales International Airport|Providenciales]]
+| [[Korean Air Cargo]] | [[Ted Stevens Anchorage International Airport|Anchorage]], [[Brussels Airport|Brussels]], [[Dallas/Fort Worth International Airport|Dallas/Fort Worth]], [[Jorge Chvez International Airport|Lima]], [[John F. Kennedy International Airport|New York-JFK]], [[Incheon International Airport|Seoul-Incheon]], [[Toronto Pearson International Airport|Toronto-Pearson]]
+| [[LAN Cargo]] | [[Amsterdam Airport Schiphol|Amsterdam]], [[Ministro Pistarini International Airport|Buenos Aires-Ezeiza]], [[Viracopos-Campinas International Airport|Campinas-Viracopos]], [[Simn Bolvar International Airport (Venezuela)|Caracas]], [[Afonso Pena International Airport|Curitiba]], [[La Aurora International Airport|Guatemala City]], [[Jos Joaqun de Olmedo International Airport|Guayaquil]], [[Jorge Chvez International Airport|Lima]], [[Manaus Airport|Manaus]], [[Carrasco International Airport|Montevideo]], [[Salgado Filho International Airport|Porto Alegre]], [[Mariscal Sucre International Airport|Quito]], [[Juan Santa Maria International Airport|San Jose de Costa Rica]], [[Teniente General Benjamn Matienzo International Airport|San Miguel de Tucumn]]
+| [[LANCO|Linea Area Carguera de Colombia]] | [[El Dorado International Airport|Bogot]], [[Afonso Pena International Airport|Curitiba]], [[Manaus Airport|Manaus]], [[Jos Mara Crdova International Airport|Medellin]], [[Mariscal Sucre International Airport|Quito]], [[Viracopos-Campinas International Airport|Campinas-Viracopos]]
+| [[Martinair Cargo]] | [[Amsterdam Airport Schiphol|Amsterdam]], [[El Dorado International Airport|Bogot]], [[Ministro Pistarini International Airport|Buenos Aires-Ezeiza]], [[Viracopos-Campinas International Airport|Campinas-Viracopos]], [[Jos Joaqun de Olmedo International Airport|Guayaquil]], [[Jorge Chvez International Airport|Lima]], [[Mariscal Sucre International Airport|Quito]], [[Comodoro Arturo Merino Bentez International Airport|Santiago de Chile]]
+| [[MasAir]] | [[Mexico City International Airport|Mexico City]]
+| [[Mountain Air Cargo]] | [[Grand Bahama International Airport|Freeport]], [[Norman Manley International Airport|Kingston]]
+| [[Skyway Enterprises]] | [[Lynden Pindling International Airport|Nassau]]
+| [[Tampa Cargo]] | [[Silvio Pettirossi International Airport|Asuncin]], [[Ernesto Cortissoz International Airport|Barranquilla]], [[El Dorado International Airport|Bogot]], [[Alfonso Bonilla Aragn International Airport|Cali]], [[Jorge Chvez International Airport|Lima]], [[Manaus Airport|Manaus]], [[Jos Mara Crdova International Airport|Medelln-Cordova]], [[Carrasco International Airport|Montevideo]], [[Mariscal Sucre International Airport|Quito]]
+| [[Tradewinds Airlines]] | [[Jorge Chvez International Airport|Lima]]
+| [[Transportes Areos Bolivianos]] | [[Jorge Wilstermann International Airport|Cochabamba]], [[El Alto International Airport|La Paz]], [[Tocumen International Airport|Panama City]], [[Viru Viru International Airport|Santa Cruz de la Sierra]]
+| [[UPS Airlines]] | [[El Dorado International Airport|Bogot]], [[Greenville-Spartanburg International Airport|Greenville/Spartanburg]], [[La Aurora International Airport|Guatemala City]], [[Jos Joaqun de Olmedo International Airport|Guayaquil]], [[Jacksonville International Airport|Jacksonville (FL)]], [[Jorge Chvez International Airport|Lima]], [[Louisville International Airport|Louisville]], [[Augusto C. Sandino International Airport|Managua]], [[Philadelphia International Airport|Philadelphia]], [[Mariscal Sucre International Airport|Quito]], [[Juan Santa Maria International Airport|San Jose de Costa Rica]], [[Ramn Villeda Morales International Airport|San Pedro Sula]], [[Las Amricas International Airport|Santo Domingo]], [[Viracopos-Campinas International Airport|Campinas-Viracopos]], [[Palm Beach International Airport|West Palm Beach]]
+| [[Venezolana Servicios Expresos]] | [[Simn Bolvar International Airport (Venezuela)|Caracas]], [[La Chinita International Airport|Maracaibo]]
+| [[World Airways|World Airways Cargo]] | [[El Dorado International Airport|Bogota]], [[Simn Bolvar International Airport (Venezuela)|Caracas]], [[Alfonso Bonilla Aragn International Airport|Cali]], [[Viracopos-Campinas International Airport|Campinas-Viracopos]], [[Jorge Chvez International Airport|Lima]], [[Manaus Airport|Manaus]], [[Mariscal Sucre International Airport|Quito]]
+}}
+
+===Statistik===
+{| class="wikitable sortable" style="font-size: 90%" width=align=
+|+ '''Busiest International Routes from Miami International Airport (July 2010  June 2011)<ref>{{cite web |title=Contents|url=http://ostpxweb.dot.gov/aviation/usstatreport.htm|work=[[United States Department of Transportation]]|date=January 1, 2012|accessdate=June 26, 2012}}</ref><ref>{{cite web |title=Miami Dominates US to Latin America and Caribbean; London Heathrow Top International Route|url=http://www.anna.aero/2010/04/27/miami-dominates-us-to-latin-america-and-caribbean/|work=anna.aero|date=April 27, 2010|accessdate=June 26, 2012}}</ref>
+|-
+! Rank
+! Country
+! City
+! Passengers
+! Top Carriers
+|-
+| 1
+| {{GBR}}
+| [[London Heathrow Airport|London (Heathrow)]]
+| 837,929
+| American Airlines, British Airways, Delta Air Lines, Virgin Atlantic Airways
+|-
+| 2
+| {{BRA}}
+| [[So Paulo-Guarulhos International Airport|So Paulo (Guarulhos)]]
+| 749,777
+| American Airlines, TAM Airlines
+|-
+| 3
+| {{VEN}}
+| [[Simn Bolvar International Airport (Venezuela)|Caracas]]
+| 716,798
+| American Airlines, LAN Airlines, SBA Airlines
+|-
+| 4
+| {{ARG}}
+| [[Ministro Pistarini International Airport|Buenos Aires (Ezeiza)]]
+| 609,938
+| Aerolneas Argentinas, American Airlines, LAN Argentina 
+|-
+| 5
+| {{PER}}
+| [[Jorge Chvez International Airport|Lima]]
+| 561,800
+| American Airlines, LAN Peru, TACA Peru
+|-
+| 6
+| {{MEX}}
+| [[Mexico City International Airport|Mexico City]]
+| 559,150
+| Aeromxico, Aeromxico Connect, American Airlines, Interjet
+|-
+| 7
+| {{HAI}}
+| [[Toussaint Louverture International Airport|Port-au-Prince]]
+| 500,318
+| Air France, American Airlines, Insel Air
+|-
+| 8
+| {{COL}}
+| [[El Dorado International Airport|Bogota]]
+| 496,227
+| American Airlines, Avianca, LAN Airlines
+|-
+| 9
+| {{PAN}}
+| [[Tocumen International Airport|Panama City]]
+| 495,876
+| American Airlines, Copa Airlines
+|-
+| 10
+| {{CAN}}
+| [[Toronto Pearson International Airport|Toronto (Pearson)]]
+| 481,361
+| Air Canada, American Airlines, WestJet
+|-
+| 11
+| {{CHI}}
+| [[Arturo Merino Benitez International Airport|Santiago De Chile]]
+| 480,430
+| American Airlines, LAN Airlines
+|-
+| 12
+| {{FRA}}
+| [[Paris-Charles de Gaulle Airport|Paris-Charles de Gaulle]], [[Paris-Orly]]
+| 485,100
+| Air France, American Airlines, Corsair International
+|}
+
+{| class="wikitable sortable" style="font-size: 90%"
+|+ '''Busiest Domestic Routes Out of Miami International Airport'''<ref>{{cite web |title=Miami, FL: Miami International (MIA)|url=http://www.transtats.bts.gov/airports.asp?pn=1&Airport=MIA|work=[[Bureau of Transportation Statistics]]|date=November 1, 2011|accessdate=July 7, 2012}}</ref>
+|-
+! Rank
+! City
+! Passengers per 12 months
+! Top Carriers
+|-
+|1
+| [[HartsfieldJackson Atlanta International Airport|Atlanta, GA]]
+| 701,000
+| American, Delta
+|-
+| 2
+| [[John F. Kennedy International Airport|New York, NY (JFK)]]
+| 604,000
+| American, Delta
+|-
+| 3
+| [[O'Hare International Airport|Chicago, IL]]
+| 587,000
+| American, United
+|-
+| 4
+| [[Dallas/Fort Worth International Airport|Dallas/Fort Worth, TX]]
+| 557,000
+| American
+|-
+|5
+| [[LaGuardia Airport|New York, NY (LGA)]]
+| 555,000
+| American, Delta
+|-
+|6
+| [[Los Angeles International Airport|Los Angeles, CA]]
+| 530,000
+| American, Delta
+|-
+|7
+| [[Orlando International Airport|Orlando, FL]]
+| 502,000
+| American
+|-
+| 8
+| [[Ronald Reagan Washington National Airport|Washington, DC (DCA)]]
+| 457,000
+| American
+|-
+| 9
+| [[Luis Muoz Marn International Airport|San Juan, PR]]
+| 419,000
+| American
+|-
+| 10
+| [[Logan International Airport|Boston, MA]]
+| 401,000
+| American
+|}
+
+[[Image:MIA Mover en route to the MIA Station.jpg|right|thumb|The [[MIA Mover]] provides transportation between the main terminal and the Rental Car Center and Miami Central Station.]]
+
+== Referensi ==
+{{Reflist|30em}}
+
+==Pranala Luar==
+* {{official website|http://www.iflymia.com}}
+* {{US-airport|MIA}}
+
+{{Bandara utama AS}}
+{{bandara-amerikautara-stub}}
+
+[[Kategori:Bandar udara di Amerika Serikat|Miami]]

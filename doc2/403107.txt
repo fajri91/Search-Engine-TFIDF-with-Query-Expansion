@@ -1,0 +1,15 @@
+Berkas:Sayangilah Daku.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+== Sumber ==
+* [http://koleksikertasdjadoel.blogspot.com/2010/12/sayangilah-daku.html]
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Poster}}

@@ -1,0 +1,35 @@
+Marpissa grata
+{{Taxobox
+|name = Marpissa grata
+|status = 
+|image = 
+|image_caption = 
+|domain = 
+|regnum = [[Animalia]]
+|phylum = [[Arthropoda]]
+|classis = [[Arachnida]]
+|ordo = [[Araneae]]
+|familia = [[Salticidae]]
+|genus =Marpissa
+|species = Marpissa grata
+|binomial = Marpissa grata
+|binomial_authority =Gertsch, 1936
+|range_map = 
+|range_map_caption = 
+|image2 = 
+|image2_caption = 
+|synonyms = 
+}}
+'''''Marpissa grata''''' adalah spesies [[laba-laba]] yang tergolong [[familia]] [[Salticidae]]. Spesies ini juga merupakan bagian dari genus [[Marpissa]] dan ordo [[Araneae]]. Nama ilmiah dari spesies ini pertama kali diterbitkan pada tahun 1936 oleh Gertsch.
+
+Laba-laba ini biasanya banyak ditemui di Amerika Serikat.
+
+== Referensi ==
+
+* Platnick, Norman I. (2010): [http://research.amnh.org/entomology/spiders/catalog/LINYPHIIDAE.html The world spider catalog], version 10.5. ''American Museum of Natural History''.
+
+{{DEFAULTSORT:Marpissa grata}}
+
+[[Kategori:Salticidae]]
+
+{{labalaba-stub}}

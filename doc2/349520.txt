@@ -1,0 +1,113 @@
+Taekwondo pada Olimpiade Musim Panas 2004
+{{kembali ke|Olimpiade 2004}}
+{{Infobox Kompetisi Olahraga
+| titre             = 
+| sport             = 
+| organisateur      = 
+| nombre d'ditions = Keempat
+| logo              = [[Berkas:Taekwondo pictogram.svg|120px]] [[Berkas:Olympic rings.svg|120px]]
+| lieu              = {{flagicon|Yunani}} '''[[Athena]]'''
+| date              = 
+| nations           = 
+| participants      =
+| nombre d'preuves = 5
+| vainqueur         =
+| site              = 
+| titre libre 1     = 
+| texte libre 1     = 
+| titre libre 2     = 
+| texte libre 2     = 
+| titre libre 3     = 
+| texte libre 3     = 
+| site web          = 
+| comptition prcdente = [[Taekwondo pada Olimpiade 2000]]
+| comptition suivante   = [[Taekwondo pada Olimpiade 2008]]
+}}
+
+'''[[Taekwondo]] pada [[Olimpiade Athena 2004]]''' diadakan mulai tanggal 14 hingga 23 Agustus 2004.
+
+== Kelas pria ==
+{| {{MedalistTable|type=Event}}
+|-
+| kelas bulu (58&nbsp;kg)<br />
+| {{FlagIOCmedalist|[[Chu Mu-Yen]]|TPE|2004}}
+| {{FlagIOCmedalist|[[Oscar Salazar (taekwondo)|Oscar Salazar]]|MEX|2004}}
+| {{FlagIOCmedalist|[[Tamer Bayoumi]]|EGY|2004}}
+|-
+| kelas ringan (68&nbsp;kg)<br />
+| {{FlagIOCmedalist|[[Hadi Saei]]|IRI|2004}}
+| {{FlagIOCmedalist|[[Huang Chih-hsiung]]|TPE|2004}}
+| {{FlagIOCmedalist|[[Song Myeong-Seob]]|KOR|Athena 2004}}
+|-
+| kelas menengah (80&nbsp;kg)<br />
+| {{FlagIOCmedalist|[[Steven Lpez]]|USA|2004}}
+| {{FlagIOCmedalist|[[Bahri Tanrkulu]]|TUR|2004}}
+| {{FlagIOCmedalist|[[Yousef Karami]]|IRI|2004}}
+|-
+| kelas berat (+80&nbsp;kg)<br />
+| {{FlagIOCmedalist|[[Moon Dae-Sung]]|KOR|2004}}
+| {{FlagIOCmedalist|[[Alexandros Nikolaidis]]|GRE|2004}}
+| {{FlagIOCmedalist|[[Pascal Gentil]]|FRA|2004}}
+|}
+
+=== Kelas wanita ===
+{| {{MedalistTable|type=Event}}
+|-
+| kelas bulu (49&nbsp;kg)<br />
+| {{FlagIOCmedalist|[[Chen Shih-Hsin]]|TPE|2004}}
+| {{FlagIOCmedalist|[[Yanelis Labrada]]|CUB|2004}}
+| {{FlagIOCmedalist|[[Yaowapa Boorapolchai]]|THA|2004}}
+|-
+| kelas ringan (57&nbsp;kg)<br />
+| {{FlagIOCmedalist|[[Jang Ji-Won]]|KOR|2004}}
+| {{FlagIOCmedalist|[[Nia Abdallah]]|USA|2004}}
+| {{FlagIOCmedalist|[[Iridia Salazar]]|MEX|2004}}
+|-
+| Kelas menengah (67&nbsp;kg)<br />
+| {{FlagIOCmedalist|[[Luo Wei]]|CHN|2004}}
+| {{FlagIOCmedalist|[[Elisavet Mystakidou]]|GRE|2004}}
+| {{FlagIOCmedalist|[[Hwang Kyung-Sun]]|KOR|2004}}
+|-
+| Kelas berat (+67&nbsp;kg)
+| {{FlagIOCmedalist|[[Chen Zhong]]|CHN|2004}}
+| {{FlagIOCmedalist|[[Myriam Baverel]]|FRA|2004}}
+| {{FlagIOCmedalist|[[Adriana Carmona]]|VEN|2004}}
+|}
+
+== Tabel medali ==
+{| {{RankedMedalTable}}
+|-
+|1||align="left"|{{FlagIOCteam|TPE|2004}}||2 ||1 ||0 ||3
+|-
+|2||align="left"|{{FlagIOCteam|KOR|2004}}||2 ||0 ||2 ||4
+|-
+|3||align="left"|{{FlagIOCteam|CHN|2004}}||2 ||0 ||0 ||2
+|-
+|4||align="left"|{{FlagIOCteam|USA|2004}}||1 ||1 ||0 ||2
+|-
+|5||align="left"|{{FlagIOCteam|IRI|2004}}||1 ||0 ||1 ||2
+|-
+|6||align="left"|{{FlagIOCteam|GRE|2004}}||0 ||2 ||0 ||2
+|-
+|rowspan="2"|7||align="left"|{{FlagIOCteam|FRA|2004}}||0 ||1 ||1 ||2
+|-
+|align="left"|{{FlagIOCteam|MEX|2004}}||0 ||1 ||1 ||2
+|-
+|rowspan="2"|9||align="left"|{{FlagIOCteam|TUR|2004}}||0 ||1 ||0 ||1
+|-
+|align="left"|{{FlagIOCteam|CUB|2004}}||0 ||1 ||0 ||1
+|-
+|rowspan="3"|11||align="left"|{{FlagIOCteam|THA|2004}}||0 ||0 ||1 ||1
+|-
+|align="left"|{{FlagIOCteam|EGY|2004}}||0 ||0 ||1 ||1
+|-
+|align="left"|{{FlagIOCteam|VEN|2004}}||0 ||0 ||1 ||1
+|}
+
+== Referensi ==
+* [http://www.la84foundation.org/6oic/OfficialReports/2004/or2004b.pdf 2004 Summer Olympics official report Volume 2.]
+
+[[Kategori:Cabang olahraga Olimpiade Musim Panas 2004]]
+[[Kategori:Taekwondo pada Olimpiade Musim Panas|2004]]
+[[Kategori:Taekwondo pada Olimpiade Musim Panas 2004| {{PAGENAME}}]]
+[[Kategori:Taekwondo dalam tahun 2004|Olimpiade]]

@@ -1,0 +1,3 @@
+Templat:Fb team Heracles
+{{fb team |t=Heracles |tan=Heracles Almelo |tc=NED |abb={{#if:{{{abb|}}}|HER}} |oc={{#if:{{{oc|}}}|{{{oc}}} }} }}<!--
+--><noinclude>[[Category:Fb_team_templates Belanda]]</noinclude>

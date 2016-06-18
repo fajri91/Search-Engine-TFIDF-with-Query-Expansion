@@ -1,0 +1,4 @@
+Templat:Soccerway
+[http://www.soccerway.com/players/{{{1|{{{id}}}}}}/ Profil {{{2|{{PAGENAME}}}}}] pada Soccerway{{#if:{{{accessdate|}}}|. Retrieved {{{accessdate}}}.}}<noinclude>
+{{Documentation}}
+</noinclude>

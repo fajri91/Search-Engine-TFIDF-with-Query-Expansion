@@ -1,0 +1,47 @@
+Amlan, Negros Oriental
+{{Infobox settlement
+<!-- Untuk kotak info lebih lengkap lihat [[Templat:Infobox settlement]]-->
+| name                    = Amlan
+| image_map               = Ph_locator_negros_oriental_amlan.png|thumb
+| mapsize                 = 200px
+| map_caption             = Peta menunjukkan kota Amlan, Negros Oriental
+| subdivision_type        = [[Negara]]
+| subdivision_name        = {{flagicon|Filipina}} [[Filipina]]
+| subdivision_type1       = [[Provinsi]]
+| subdivision_name1       = [[Negros Oriental]]
+| settlement_type         = [[Munisipalitas]]
+}}
+'''Amlan''' adalah [[munisipalitas]] yang terletak di provinsi [[Negros Oriental]], [[Filipina]].
+
+Pada tahun [[2010]], munisipalitas ini memiliki populasi sebesar 21.100 jiwa dan 3.517 rumah tangga.
+
+== Pembagian wilayah ==
+
+Secara administratif Amlan terbagi menjadi 8 [[barangay]], yaitu:
+
+* Bio-os
+* Jantianon
+* Jugno
+* Mag-abo
+* Poblacion
+* Silab
+* Tambojangin
+* Tandayag
+
+== Pranala luar ==
+
+* [http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [http://www.census.gov.ph/data/sectordata/pop0.html 1995 Philippine Census Information]
+* [http://www.census.gov.ph/census2000/index.html 2000 Philippine Census Information]
+* [http://www.census.gov.ph/data/pressrelease/2008/pr0830tx.html 2007 Philippine Census Information]
+* [http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23&frmIdDcfCode=7&fLguType=CM&frmIdRegion=10&frmIdProvince=58&frmIdLgu=1109 Local Governance Performance Management System]
+
+{{coord|9|28|N|123|14|E|region:PH_type:city|display=title}}
+{{Negros Oriental}}
+
+[[Kategori:Negros Oriental]]
+[[Kategori:Munisipalitas di Negros Oriental]]
+[[Kategori:Munisipalitas di Filipina]]
+
+
+{{negara-geo-stub|Filipina}}

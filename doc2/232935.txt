@@ -1,0 +1,2 @@
+Algoritma dijkstra
+#ALIH [[Algoritma Dijkstra]]

@@ -1,0 +1,72 @@
+Nonana
+{{chembox
+| Verifiedfields = changed
+| verifiedrevid = 415869317
+|   Reference = <ref>{{ICSC|1245|12}}</ref><ref>[http://www.cheric.org/kdb/kdb/hcprop/showprop.php?cmpid=9 Chemical and physical properties table]</ref>
+|   Name = Nonana
+|   ImageFile1 = Nonane-2D-Skeletal.svg
+|   ImageSize1 = 255px
+|   ImageName1 = Skeletal formula
+|   ImageFile2 = Nonane-3D-balls-B.png
+|   ImageSize2 = 255px
+|   ImageName2 = Ball-and-stick model
+|   ImageName = Nonana
+| Section1 = {{Chembox Identifiers
+|   ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 32892
+| SMILES = CCCCCCCCC
+|   InChI = 1/C9H20/c1-3-5-7-9-8-6-4-2/h3-9H2,1-2H3
+|   ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 335900
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C9H20/c1-3-5-7-9-8-6-4-2/h3-9H2,1-2H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = BKIMMITUMNQMOS-UHFFFAOYSA-N
+| CASNo_Ref = {{cascite|correct|CAS}}
+| CASNo = 111-84-2
+|   PubChem = 8141
+|   ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 7849
+|   RTECS = RA6115000
+  }}
+| Section2 = {{Chembox Properties
+|   Formula = C<sub>9</sub>H<sub>20</sub>
+|   MolarMass = 128.2 g/mol
+|   Appearance = cairan tidak berwarna
+|   Density = 0.718 g/ml, cairan
+|   Solubility = Ya
+|   MeltingPt = &minus;53 C (220 K)
+|   BoilingPt = 151 C (424 K)
+|   Viscosity = 
+  }}
+| Section7 = {{Chembox Hazards
+|   EUClass = Mudah terbakar ('''F''')
+|   FlashPt = 31 C
+  }}
+| Section8 = {{Chembox Related
+|   Function = [[alkana]]
+|   OtherFunctn = [[Oktana]]<br />[[Dekana]]
+  }}
+}}
+
+'''Nonana''' adalah senyawa [[hidrokarbon]] linear berjenis [[alkana]] dengan [[rumus molekul]] C<sub>9</sub>H<sub>20</sub>.
+
+Nonana mempunyai 35 [[isomer struktur]].  [[Tripropilena]] merupakan senyawa yang terdiri dari gabungan 3 isomer nonana.
+
+==Lihat juga==
+*[[Alkana suku tinggi]]
+
+==Referensi==
+<references/>
+
+==Pranala luar==
+*{{PGCH|0466}}
+*[http://physchem.ox.ac.uk/MSDS/NO/nonane.html MSDS at Oxford University]
+*[http://www.3rd1000.com/chem301/nonane.htm List of isomers of nonane]
+
+{{portalkimia}}
+{{alkana}}
+
+[[Kategori:Alkana]]
+
+{{senyawa-stub}}

@@ -1,0 +1,19 @@
+Tachometer
+{{gabungke|Takometer}}
+[[Berkas:tachometer.jpg|thumb|alat pengukur kecepatan rotasi atau tachometer.]]
+'''Tachometer''' adalah sebuah alat pengujian yang dirancang untuk mengukur kecepatan rotasi dari sebuah objek, seperti alat pengukur dalam sebuah [[mobil]] yang mengukur putaran per menit (RPM) dari poros engkol mesin. Kata tachometer berasal dari kata Yunani tachos yang berarti kecepatan dan metron yang berarti untuk mengukur.
+Perangkat ini pada masa sebelumnya dibuat dengan dial, jarum yang menunjukkan pembacaan saat ini dan tanda-tanda yang menunjukkan tingkat yang aman dan berbahaya. Pada masa kini telah diproduksi tachometer digital yang memberikan pembacaan numerik tepat dan akurat dibandingkan menggunakan dial dan jarum.
+
+==Sejarah==
+Tachometer  mekanis merupakan pengembangan dari pengukuran gaya sentrifugal, mirip dengan pengoperasian sentrifugal. Penemunya adalah seorang insinyur Jerman Dietrich Uhlhorn pada tahun 1840 yang menggunakannya untuk mengukur kecepatan lokomotif <ref>Erjavec, Jack, 2005. Automotive Technology</ref>.
+
+==Penggunaan Tachometer==
+# Penggunaan pada Mobil : Dalam bentuk yang paling banyak digunakan, tachometer mengukur kecepatan di mana perangkat mekanik berputar, yang biasanya ditunjukkan dalam RPM. Tachometer digunakan untuk memantau RPM dalam mobil karena menjalankan mesin dengan harga RPM terlalu tinggi dapat secara drastis mengurangi umur mesin menjadi lebih pendek. Ada beberapa cara di mana tachometer yang harus digunakan dapat dibangun. Dalam beberapa kasus, generator kecil melekat pada poros penggerak mesin, dan pengukuran RPM didasarkan pada arus listrik yang dihasilkan oleh perangkat. Mungkin juga hanya mengukur tingkat di mana sistem pengapian mengirimkan bunga api ke mesin.
+# Penggunaan pada Pesawat : Pesawat biasanya memiliki satu tachometer untuk setiap mesin. Dalam pesawat yang menggunakan baling-baling, tachometer juga dibutuhkan untuk setiap baling-baling. Sebuah mesin pesawat biasanya beroperasi pada RPM lebih tinggi dari baling-balingnya. Dengan menggunakan tachometer terpisah untuk bagian-bagian yang berbeda, pilot pesawat atau awak dapat mengetahui apakah ada masalah dengan bagian tertentu.
+# Penggunaan pada Dunia Medis : Tachometer  dapat digunakan dalam dunia medis, dengan ukuran yang lebih kecil,tachometer dimasukan kedalam  arteri atau vena, sehingga seorang dokter dapat menyimpulkan laju aliran darah. Ini dapat digunakan untuk mendiagnosa masalah peredaran darah seperti penyumbatan arteri.
+
+==Referensi==
+<references/>
+
+==Pranala Luar==
+* http://www.alatuji.com/article/detail/58/tachometer

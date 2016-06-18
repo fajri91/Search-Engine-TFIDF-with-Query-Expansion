@@ -1,0 +1,13 @@
+Templat:Pengguna kimia
+{{userbox
+|logo            = [[Berkas:Crystal Clear app katomic.png|50px]]
+|info            = [[File:Water-with-lone-pairs-3D-balls.png|40px|right]]<center>Pengguna ini menyukai ilmu '''[[kimia]]''' dan bisa diajak berdiskusi tentang itu</center>
+|border-color    = blue
+|logo-background = cyan
+|info-background = cyan
+|category        = Pengguna peminat kimia
+|nocat           = {{{nocat|}}}
+}}<noinclude>
+{{userboxes|Pengguna peminat kimia}}
+[[Kategori:Templat userbox minat|kimia]]
+</noinclude>

@@ -1,0 +1,47 @@
+Bintik matahari
+[[Berkas:Sun projection with spotting-scope.jpg|thumb|250px|right|Foto bintik mahatari pada tanggal 2004-06-22]]
+'''Bintik Matahari''' adalah bagian dari permukaan [[matahari]] ([[fotosfer]]) yang dipengaruhi aktivitas magnetis hebat, yang mengakibatkan terhambatnya konveksi, membentuk daerah bersuhu lebih dingin. Bintik-bintik ini bisa terlihat dari bumi tanpa bantuan [[teleskop]]. Meski bersuhu sekitar 4000-5000K, perbedaan dengan materi sekelilingnya yang berkisar sekitar 5800K mengakibatkan daerah ini tampak secara jelas sebagai noda-noda hitam karena intensitas sebuah [[benda hitam]] yang dipanasi adalah sama dengan T (temperatur) berpangkat empat. Jika sebuah bintik Matahari diisolir dari fotosfer sekelilingnya ia akan tampak lebih cemerlang dari loncatan bunga api listrik.
+
+Titik minimum dari [[siklus bintik Matahari]] sebelas tahunan mungkin telah terlanjut pada pertengahan kedua tahun 2008, tetapi karena tidak adanya aktivitas bintik-bintik hitam, titik minimal siklus mungkin akan berlangsung ke tahun 2009.<ref name="NOAA2009">{{cite web |title=Solar Cycle Progression |url=http://www.sec.noaa.gov/SolarCycle/ |publisher=NOAA |date=2009-03-02}}</ref> Walaupun pembalikan polaritas bintik Matahari<ref>{{cite web |url=http://space.newscientist.com/article/dn13153-first-sunspot-of-new-solar-cycle-glimpsed.html |title=First sunspot of new solar cycle glimpsed |publisher=[[New Scientist]] |accessdate=2008-01-08}}</ref> yang diamati pada tanggal 4 januari 2008 mungkin menandai Siklus 24, hanya sedikit bintik Matahari yang tampak. Definisi siklus bintik Matahari baru adalah kalau rata-rata jumlah bintik Matahari dari polaritas magnetik baru berjumlah lebih besar dari polaritas yang sebelumnya. Perkiraan dari tahun 2006, meprediksi Siklus 24 akan mulai pada akhir tahun 2007 atau permulaan 2008, tetapi estimasi baru memperkirakan penundaan sampai tahun 2009.
+
+Bintik Matahari, yang merupakan manifestari aktivitas magnetis hebat, juga merupakan tempat terjadinya lengkung-lengkung korona (coronal loops) dan peristiwa pemautan kembali (reconnection events). Kebanyakan lidah semburan Matahari dan semburan massa korana berasal di daerah magnetis aktif sekitar kelompok bintik-bintik Matahari yang tampak. Fenomena sama yang diamati secara tidak langsung di [[bintang]]-bintang dinamai bintik-bintik bintang. Keduanya, bintik terang and bintik gelap telah diukur.<ref name="strassmeier">[http://www.aip.de/groups/activity/presse/pressrelease990610.html press release 990610], K. G. Strassmeier, [[1999-06-10]], [[University of Vienna]], "starspots vary on the same (short) time scales as Sunspots do", "HD&nbsp;12545 had a warm spot (350&nbsp;K above photospheric temperature; the white area in the picture)"</ref>
+
+== Galeri ==
+<gallery>
+Berkas:Sunspot 923 at sunset and in solar telescope.jpg|Sunspot 923 at sunset and in solar scope
+Berkas:Sunspot Mirage.JPG|Sunset Superior [[Mirage]] of sunspot #930
+Berkas:Sun spot naked eye.jpg|Sunset in Bangladesh, January 2004
+</gallery>
+
+== Referensi ==
+{{reflist}}
+
+== Pranala luar ==
+* [http://www.solarcycle24.com/ Solar Cycle 24 and VHF Aurora Website (www.solarcycle24.com)]
+* [http://sidc.oma.be/index.php3 Belgium World Data Center for the sunspot index]
+* [http://www.universetoday.com/am/publish/sharpest_image_sunspot.html?6102005 High resolution sunspot image]
+* [http://www.perseus.gr/Astro-Solar-Sunspots.htm Sunspot images in high-res] Impressive collection of sunspot images
+* http://www.tvweather.com/awpage/history_of_the_atmosphere.htm
+* [http://www.sec.noaa.gov/SolarCycle/ NOAA Solar Cycle Progression]: Current solar cycle.
+** Current conditions: [[Space weather]]
+* [http://www.lmsal.com Lockheed Martin Solar and Astrophysics Lab]
+* [http://www.suntrek.org Sun|trek website] An educational resource for teachers and students about the Sun and its effect on the Earth
+* Tools to display the current sunspot number in a browser
+** [http://www.n0hr.com/Propfire.htm Propfire - displays current sunspot number in browser status bar]
+** [http://www.n0hr.com/Ham_Radio_Toolbar.htm HamLinks Toolbar - displays solar flux, A Index and K Index data in a toolbar]
+* [http://antwrp.gsfc.nasa.gov/apod/image/0211/sunspot_swedish_c1.jpg The Sharpest View of the Sun ]
+* [http://www.spaceweather.com/ Daily Sunspot Update and Picture of the Sun (www.spaceweather.com)]
+
+=== Data bintik Matahari ===
+* {{cite web | title=11,000 Year Sunspot Number Reconstruction | work=Global Change Master Directory | url=http://gcmd.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD&KeywordPath=%5BParameters%3ACategory%3D%27EARTH+SCIENCE%27%2CTopic%3D%27SUN-EARTH+INTERACTIONS%27%2CTerm%3D%27SOLAR+ACTIVITY%27%2CVariable%3D%27SUNSPOTS%27%5D&OrigMetadataNode=GCMD&EntryId=NOAA_NCDC_PALEO_2005-015&MetadataView=Brief&MetadataType=0&lbnode=gcmd3b | dateformat=dmy | accessdate=11 March 2005}}
+** {{cite web | title= Unusual activity of the Sun during recent decades compared to the previous 11,000 years | work=WDC for Paleoclimatology | url=http://www.ncdc.noaa.gov/paleo/pubs/solanki2004/ | dateformat=dmy | accessdate=11 March 2005}}
+* {{cite web | title=Sunspot Numbers from Ancient Times to Present from NOAA/NGDC | work=Global Change Master Directory | url=http://gcmd.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD&KeywordPath=%5BParameters%3ACategory%3D%27EARTH+SCIENCE%27%2CTopic%3D%27SUN-EARTH+INTERACTIONS%27%2CTerm%3D%27SOLAR+ACTIVITY%27%2CVariable%3D%27SUNSPOTS%27%5D&OrigMetadataNode=GCMD&EntryId=FE00140&MetadataView=Brief&MetadataType=0&lbnode=gcmd3b | dateformat=dmy | accessdate=11 March 2005}}
+** {{cite web | title=SUNSPOT NUMBERS | work=NOAA NGDC Solar Data Services | url=http://www.ngdc.noaa.gov/stp/SOLAR/ftpsunspotnumber.html | dateformat=dmy | accessdate=11 March 2005}}
+*** International Sunspot Numbersunspot maximum and minimum 1610-present; annual numbers 1700-present; monthly numbers 1749-present; daily values 1818-present; and sunspot numbers by north and south hemisphere. The McNish-Lincoln sunspot prediction is also included.
+*** American sunspot numbers 1944-present
+*** Ancient sunspot data 165 BC to 1684 AD
+*** Group Sunspot Numbers (Doug Hoyt re-evaluation) 1610-1995
+{{Topik Matahari}}
+
+[[Kategori:Fenomena bintang]]
+[[Kategori:Fenomena matahari]]

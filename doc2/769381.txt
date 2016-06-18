@@ -1,0 +1,86 @@
+Templat:Dorcasominae
+{{Navbox
+| name  = Dorcasominae
+| title = Subfamilia ''[[Dorcasominae]]''
+| image=
+| state = collapsed
+| bodyclass = hlist
+| above = Tribus ''[[Dorcasomini]]''
+| group0 = Genus
+| list0 =
+*''[[Acapnolymma]]''
+*''[[Aedoeus]]''
+*''[[Afroartelida]]''
+*''[[Anthribola]]''
+*''[[Antigenes]]''
+*''[[Apatophysis]]''
+*''[[Apheledes]]''
+*''[[Apiocephalus]]''
+*''[[Appedesis]]''
+*''[[Ariastes]]''
+*''[[Artelida]]''
+*''[[Barossus]]''
+*''[[Boppeus]]''
+*''[[Borneophysis]]''
+*''[[Capetoxotus]]''
+*''[[Capnolymma]]''
+*''[[Catalanotoxotus]]''
+*''[[Criocerinus]]''
+*''[[Dorcasomus]]''
+*''[[Dorcianus]]''
+*''[[Dotoramades]]''
+*''[[Dysmathosoma]]''
+*''[[Eccrisis]]''
+*''[[Echarista]]''
+*''[[Enthymius]]''
+*''[[Gaurotinus]]''
+*''[[Harimius]]''
+*''[[Icariotis]]''
+*''[[Kudekanye]]''
+*''[[Lepturastra]]''
+*''[[Lingoria]]''
+*''[[Logisticus]]''
+*''[[Lycosomus]]''
+*''[[Mastododera]]''
+*''[[Megasticus]]''
+*''[[Musius]]''
+*''[[Myiodola]]''
+*''[[Otteissa]]''
+*''[[Pachysticus]]''
+*''[[Paralogisticus]]''
+*''[[Paratophysis]]''
+*''[[Paratoxotus]]''
+*''[[Peithona]]''
+*''[[Phithryonus]]''
+*''[[Planisticus]]''
+*''[[Pseudogenes]]''
+*''[[Pyllotodes]]''
+*''[[Raharizonina]]''
+*''[[Ramodatodes]]''
+*''[[Rhagiops]]''
+*''[[Sagridola]]''
+*''[[Scariates]]''
+*''[[Scopanta]]''
+*''[[Stenotsivoka]]''
+*''[[Stenoxotus]]''
+*''[[Suzelia]]''
+*''[[Tomobrachyta]]''
+*''[[Toxitiades]]''
+*''[[Trichroa]]''
+*''[[Tsivoka]]''
+*''[[Villiersicus]]''
+*''[[Xanthopiodus]]''
+
+| group1 = Genus ''[[Acapnolymma]]''
+| list1 =
+* ''[[Acapnolymma sulcaticeps]]''
+
+| group46 = Genus ''[[Pseudogenes]]''
+| list46 =
+* ''[[Pseudogenes ornaticeps]]''
+
+| below =
+}}<noinclude>
+[[Kategori:Dorcasominae]]
+[[Kategori:Templat navigasi hewan]]
+</noinclude>

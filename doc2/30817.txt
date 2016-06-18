@@ -1,0 +1,46 @@
+Bandar Udara Fatmawati Soekarno
+{{Kotakinfo bandara|nama=Bandara Fatmawati Soekarno
+|IATA=BKS
+|ICAO=WIPL
+<center>{{Location map|Indonesia Sumatra|width=200|float=center
+|caption=|mark=Airplane_silhouette.svg|marksize=10
+|label=BKS|position=right
+|lat_deg=03|lat_min=51|lat_sec=43|lat_dir=S
+|lon_deg=102|lon_min=20|lon_sec=12|lon_dir=E
+}}<small>Lokasi bandar udara di Sumatra</small></center>
+|lokasi=[[Kota Bengkulu]], [[Bengkulu]]
+|negara=[[Indonesia]]
+|tipe=sipil
+|waktu=UTC+7
+|elevasi=15 [[meter|m]] (50 [[feet|f]])
+|koordinat={{coord|3|51|49|S|102|20|20|E|type:airport|br=Y}}
+{{landaspacu|sudut=13/31|panjang_f=7.345|panjang_m=2.239|permukaan=aspal}}
+}}
+'''Bandara Fatmawati Soekarno''' adalah [[bandar udara]] di yang terletak di [[kota Bengkulu]], provinsi [[Bengkulu]], tepatnya di Jl. Raya Padang kemiling - Slebar - Bengkulu. Dahulu bandara ini bernama '''Bandara Padang Kemiling''', kemudian diresmikan menjadi Bandara Fatmawati Soekarno oleh Presiden [[Megawati Soekarnoputri]] pada [[14 November]] [[2001]].
+[[Berkas:bandarafatmawatibengkul.jpg|thumb|left|Sebuah pesawat [[Mandala Airlines]] parkir di Bandara Udara Fatmawati]].
+Bandar udara dengan panjang landas pacu 2.470 m x 150 m<ref name=wulung>[http://hubud.dephub.go.id/?id+info_bandara+detail+20 Data Departemen perhubungan]</ref> dengan permukaan aspal merupakan bandar udara kelas I yang dikelola oleh UPT Ditjen Hubud.<ref name="wulung"/> Jenis pesawat terbesar yang bisa beroperasi di bandar udara ini adalah [[Boeing-737]].<ref name="wulung"/> Jarak dari kota terdekat ke bandar udara ini adalah 14 KM.
+
+== Penerbangan ==
+{{airport-dest-list
+| [[Batik Air]] | [[Bandar Udara Halim Perdanakusuma|Jakarta-Halim Perdanakusuma]]
+| [[Citilink]] | [[Bandar Udara Internasional Soekarno-Hatta|Jakarta-Soekarno-Hatta]]
+| [[Garuda Indonesia]] | [[Bandar Udara Internasional Soekarno-Hatta|Jakarta-Soekarno-Hatta]]
+| [[Garuda Indonesia]] <br> dioperasikan oleh [[Garuda Indonesia|Explore Garuda]] | [[Bandar Udara Internasional Sultan Mahmud Badaruddin II|Palembang]]
+| [[Lion Air]] | [[Bandar Udara Internasional Soekarno-Hatta|Jakarta-Soekarno-Hatta]]
+| [[Nam Air]] | [[Bandar Udara Internasional Soekarno-Hatta|Jakarta-Soekarno-Hatta]]
+| [[Sriwijaya Air]] | [[Bandar Udara Internasional Soekarno-Hatta|Jakarta-Soekarno-Hatta]]
+| [[Susi Air]] | [[Enggano]], [[Bandar Udara Muara Bungo|Muara Bungo]], [[Kabupaten mukomuko|Muko-Muko]], [[Bandar Udara Internasional Minangkabau|Padang]], [[Bandar Udara Atung Bungsu Pagar Alam|Pagar Alam]], [[Bandar Udara Internasional Sultan Mahmud Badaruddin II|Palembang]], [[Bandar Udara Pekon Serai|Krui]], [[Bandar Udara Radin Inten II|Bandar Lampung]]
+| [[Wings Air]] | [[Bandar Udara Hang Nadim|Batam]]
+}}
+
+== Referensi ==
+{{reflist}}
+
+== Pranala luar ==
+* {{id}} [http://wikimapia.org/#lat=-3.8577195&lon=102.3359755&z=18&l=0&m=b&search=bandara%20fatmawati Bandara Fatmawati Soekarno] di [[WikiMapia]]
+{{Bandar Udara di Indonesia}}
+
+[[Kategori:Bandar udara di Indonesia|Fatmawati Soekarno]]
+
+
+{{bandara-indo-stub}}

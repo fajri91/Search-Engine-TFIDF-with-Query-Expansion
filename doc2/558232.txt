@@ -1,0 +1,71 @@
+Asal mula Bulan
+[[File:Cara-oculta-luna.jpg|thumb|Permukaan Bulan dengan banyaknya kawah]]
+
+'''Asal mula Bulan''' merujuk pada beberapa penjelasan mengenai proses pembentukan [[Bulan]], [[satelit alami]] Bumi. Teori yang paling dikenal adalah [[hipotesis tubrukan besar]]<ref name=nasa1>[http://www.nasa.gov/topics/solarsystem/features/moon_formation.html NASA Lunar Scientists Develop New Theory on Earth and Moon Formation]</ref> Namun, penelitian terus dilakukan menyangkut hal ini, dan ada beberapa variasi dan alternatif.<ref name=nasa1/> 
+
+Dalam [[hipotesis tubrukan besar]] menyatakan bahwa [[Bulan]] terbentuk dari puing-puing yang tersisa dari tubrukan antara [[Bumi]] dan benda seukuran planet [[Mars]] yang disebut '''Theia''', sekitar 4,5 miliar tahun yang lalu. Hipotesis tubrukan besar adalah [[hipotesis|hipotesis ilmiah]] yang paling diakui saat ini tentang proses terbentuknya Bulan.<ref name=nature412>{{cite journal | last1=Canup | first1=R. | last2=Asphaug | first2=E. | title=Origin of the Moon in a giant impact near the end of the Earth's formation | journal=Nature | volume=412 | pages=708712 | year=2001 | doi=10.1038/35089010 | pmid=11507633 | issue=6848 | bibcode=2001Natur.412..708C | url=http://www.es.ucsc.edu/~rcoe/eart206/canup_Moon_Nature_01.pdf | accessdate=2011-12-10 }}</ref> Bukti pendukung meliputi: Putaran Bumi dan orbit Bulan memiliki orientasi yang sama,<ref name=nature412/> contoh batuan Bulan menunjukkan bahwa permukaan bulan pernah berbentuk cair, Bulan memiliki [[inti keplanetan|inti]] [[besi]] yang relatif kecil, kepadatan yang lebih rendah dibandingkan dengan Bumi, bukti tabrakan serupa di sistem bintang lain (yang menghasilkan cakram puing), dan tubrukan besar konsisten dengan teori terkemuka tentang [[Hipotesis nebula|pembentukan tata surya]]. Akhirnya, rasio isotop stabil yang identik antara batu Bulan dan batu Bumi, yang menyiratkan asal mula yang sama.<ref name=scienceCukStewart>{{Cite journal | title=Making the Moon from a Fast-Spinning Earth: A Giant Impact Followed by Resonant Despinning | last1=Cuk | first1=Matija | last2=Stewart | first2=Sarah T. | journal=Science | volume=338 | pages=10471052 | date=23 November 2012 | issue=6110 | doi=10.1126/science.1225542 | url=http://www.sciencemag.org/content/338/6110/1047.abstract?sid=2eab7b43-37c7-43f9-ac0c-562fddbd5d2c | accessdate=2012-12-02 |bibcode = 2012Sci...338.1047C }}</ref>
+
+Masih ada beberapa pertanyaan tersisa mengenai model terbaik hipotesis tubrukan besar ini. Energi dari dampak tubrukan tersebut diperkirakan dapat memanaskan Bumi yang menghasilkan lautan [[magma]], namun tidak ada bukti [[diferensiasi planet]] yang dihasilkan dari materi yang lebih berat yang tenggelam ke dalam mantel Bumi. Saat ini tidak ada model yang sama yang diawali dengan tubrukan besar dan diikuti dengan evolusi puing-puing nya menjadi Bulan. Pertanyaan yang tersisa lainnya termasuk saat Bulan kehilangan bagian [[Volatilitas (kimia)|volatil]], mengapa [[Venus]], yang juga mengalami tubrukan besar saat proses pembentukannya tidak memiliki bulan yang serupa.
+
+==Hipotesis Tubrukan Besar==
+{{main|Hipotesis tubrukan besar}}
+
+[[File:Lunar Sample 61016 - Big Muley.jpg|thumb|right|Contoh batu Bulan 61016, yang dikenal dengan  "[[Big Muley]]".]]
+[[File:Lunar basalt 70017.jpg|thumb|[[Batu basal Bulan 70017]] diambil oleh Apollo 17]]
+[[Image:Apollo 15 Genesis Rock.jpg|thumb|Contoh batu Bulan 15415, yang dikenal dengan "[[Genesis Rock]]"]]
+
+Penjelasan yang paling banyak ditermima mengenai teori pembentukan bulan melibatkan tubrukan antara dua objek protoplanet selama periode awal evolusi tata surya. Hipotesis tubrukan besar yang menjadi populer pada tahun 1984 dapat menjelaskan kondisi orbit Bumi dan Bulan, serta rendahnya inti logam yang terdapat di Bulan. Tubrukan antara [[planetisimal]] saat ini diakui sebagai salah satu hal yang mengakibatkan pertumbuhan planet-planet pada awal evolusi tata surya, dan dalam kerangka ini tumbukan antara planet tidak dapat dihindari saat planet-planet terbentuk dalam jarak yang berdekatan. 
+
+Dalam hipotesis ini, tubrukan terjadi antara objek dengan ukuran 90% ukuran Bumi sekarang, dengan objek lain sebesar [[Mars]] (setengah dari jari-jari bumi dan sepersepuluh dari massanya). Objek yang menabrak ini sering disebut '''Theia''', ibu dari [[Selene]], Bulan [[dewi]] di [[mitologi Yunani]]. Rasio ukuran kedua objek ini penting agar tubrukan yang terjadi menghasilkan momentum sudut yang cukup untuk membentuk konfigurasi orbit yang ada saat ini. Dampak yang dihasilkan akan cukup untuk melemparkan materi ke orbit Bumi yang akhirnya terakumulasi membentuk Bulan..
+
+==Hipotesis Lainnya==
+{| class=wikitable style="text-align:center; font-size:11px; float:right; margin:2px"
+|- bgcolor= style="font-size: smaller;"
+| colspan="8" style="text-align:center;"|'''Berat Jenis'''<ref>[http://hyperphysics.phy-astr.gsu.edu/hbase/astro/moonhab.html#c2 The Formation of the Moon]</ref>
+|-
+! Objek!! Berat jenis
+|-
+| Merkurius || 5.4 g/cm<sup>3</sup>
+|-
+| Venus || 5.2 g/cm<sup>3</sup>
+|-
+| Bumi||  5.5 g/cm<sup>3</sup>
+|-
+|Bulan || 3.3  g/cm<sup>3</sup>
+|-
+|}
+
+===Tangkapan===
+Hipotesis ini mengatakan bahwa Bulan merupakan objek yang ditangkap Bumi.<ref name=origin>[http://lunarorigin.com/lunar-origin-models Lunar Origin]</ref> Hipotesis ini terkenal sampai tahun 1980, beberapa hal yang mendukung model ini meliputi ukuran Bulan, orbit, dan penguncian pasang surut.<ref name=origin/> 
+
+Satu masalah yang sulit dijelaskan adalah memahami mekanisme penangkapan.<ref name=origin/> Objek yang mendekati bumi biasanya akan mengakibatkan tubrukan atau berubahnya lintasan objek. Untuk membenarkan hipotesis ini, diperlukan atmosfer yang sangat luas di bumi primitif, yang mampu memperlambat gerakan Bulan sebelum Bulan tersebut bisa meninggalkan Bumi. Hipotesis ini juga bisa menjelaskan orbit satelit [[Yupiter]] dan [[Saturnus]] yang tidak teratur.<ref>{{Citation
+ | title = Irregular Satellites of the Planets: Products of Capture in the Early Solar System
+ | year = 2007
+ | journal = Annual Review of Astronomy and Astrophysics
+ | pages = 261295
+ | volume = 45
+ | doi = 10.1146/annurev.astro.44.051905.092459
+ | last1 = Jewitt	 | first1 =  David
+ | last2 =  Haghighipour	 | first2 =  Nader	|arxiv = astro-ph/0703059 |bibcode = 2007ARA&A..45..261J }}</ref> Namun hipotesis ini sulit menjelaskan kemiripan rasio [[isotop]] [[oksigen]] pada Bumi dan Bulan.<ref name=wiechert>{{Cite journal | unused_data=title=Oxygen Isotopes and the Moon-Forming Giant Impact | title=Science | author=Wiechert, U.; Halliday, A. N.; Lee, D.-C.; Snyder, G. A.; Taylor, L. A.; Rumble, D. | volume=294 | issue=12 | pages=345348 |date=October 2001| doi=10.1126/science.1063037 | url=http://www.sciencemag.org/cgi/content/abstract/294/5541/345 | accessdate=2009-07-05 | publisher=[[Science (journal)]] | pmid=11598294 | journal=Science |bibcode = 2001Sci...294..345W }}</ref>
+
+[[Image:Earth-moon-to-scale.svg|thumb|center|800px|Bumi dan bulan dengan skala 500 km per pixel]]
+
+===Pembelahan===
+Hipotesis ini mengatakan, pada masa dulu, Bumi yang berputar dengan sangat cepat melontarkan sebagian massanya.<ref name=origin>[http://lunarorigin.com/lunar-origin-models Lunar Origin]</ref>  Ide ini dikemukakan oleh [[George Darwin]] (anak dari ahli biologi yang terkenal [[Charles Darwin]]) pada tahun 1800-an dan cukup mendapat popularitas.<ref name=origin/> Seorang geologis [[Australia]] [[Otto Ampherer]] pada tahun 1925 juga berpendapat bahwa munculnya Bulan yang menyebapkan [[pergeseran benua]].<ref>[http://link.springer.com/article/10.1007%2FBF01558835?LI=true#page-1 Die Naturwissenschaften, July 1925 (in German)]</ref> 
+
+Ia mengatakan bahwa [[Samudra Pasifik]] merupakan merupakan hasil dari terlemparnya materi tersebut.<ref name=origin/> Namun saat ini kita mengetahui bahwa kerak lautan yang membentuk samudra ini masih berusia relatif muda, sekitar 200 juta tahun atau kurang, dimana Bulan berusia lebih tua karena tidak terdapat materi kerak lautan di Bulan, namun terdapat materi mantel yang tercipta di dalam proto-Bumi pada [[eon]] [[Prakambrium]].<ref name=Zhang>{{cite journal | title = The proto-Earth as a significant source of lunar material | journal = Nature Geoscience | date = 25 March 2012 | first = Junjun | last = Zhang | coauthors = Nicolas Dauphas, Andrew M. Davis, Ingo Leya, Alexei Fedkin | volume = 5 | pages = 251255| doi= 10.1038/ngeo1429 |bibcode = 2012NatGe...5..251Z }}</ref>  
+
+===Akresi===
+Hipotesis ini mengatakan bahwa Bumi dan Bulan terbentuk dalam waktu yang sama sebagai sistem ganda [[piringan akresi]] purba pada [[Tata Surya]].
+Masalah pada hipotesis ini adalah, ketidak mampuannya menjelaskan [[momentum sudut]]  dalam sistem Bumi-Bulan, atau mengapa bulan memiliki inti besi yang relatif kecil dibandingkan dengan Bumi (25% dari radiusnya, dibandingkan Bumi yang 50% dari radiusnya).
+
+===Ledakan Georeaktor===
+Hipotesis lain yang lebih radikal dipublikasikan pada tahun 2010, mengatakan bahwa Bulan kemungkinan tercipta dari ledakan [[georeaktor]] yang terletak di sepanjang batas inti mantel di bidang ekuator Bumi yang berputar dengan cepat. Hipotesis ini dapat menjelaskan kesamaan komposisi Bumi dengan Bulan.<ref>{{citation | first1=Lin | last1=Edwards | date=January 28, 2010 | work=PhysOrg.com | publisher=Omicron Technology Limited | title=The Moon may have formed in a nuclear explosion | url=http://phys.org/news183884450.html | accessdate=2012-04-18 }}</ref>
+
+==Teori dan Penelitian Lainnya==
+Pada tahun 2011, muncul teori yang mengatakan bahwa pada 4,5 miliar tahun yang lalu, terdapat Bulan kedua, yang kemudian bertabrakan, sebagai bagian dari proses akresi pada pembentukan Bulan.<ref>[http://dx.doi.org/10.1038/nature10289 doi:10.1038/nature10289]</ref>
+
+==Referensi==
+{{reflist}}
+
+[[Kategori:Bulan]]

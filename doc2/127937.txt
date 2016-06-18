@@ -1,0 +1,67 @@
+Allas-Bocage
+{{French commune
+|nomcommune=Allas-Bocage
+|rgion=[[Poitou-Charentes]]
+|dpartement=[[Charente-Maritime]]
+|arrondissement=Jonzac
+|canton=[[Kanton Mirambeau|Mirambeau]]
+|insee=17005
+|cp=17150
+|maire=
+|mandat=
+|intercomm=
+|longitude=1.4902887
+|latitude=45.384722
+|alt moy=N/A
+|alt mini=39 m
+|alt maxi=108 m
+|hectares=1,087
+|km=10.87
+|sans=150
+|date-sans=1999
+|dens=13
+|date-dens=1999}}
+
+'''Allas-Bocage''' merupakan sebuah [[commune di dpartement Charente-Maritime|commune]] di [[Kanton Mirambeau]] di ''[[dpartement di Perancis|dpartement]]'' [[Charente-Maritime]], ''[[rgion di Perancis|rgion]]'' [[Aquitane]], [[Perancis]].
+
+== Populasi menurut tahun ==
+{| border="1" cellpadding="2" cellspacing="0"11
+|- bgcolor="#efefef"
+! Tahun !! Populasi !! Kepadatan !! Persen kanton
+|-
+| 1962 || 182 || - || -
+|-
+| 1968 || 186 || - || -
+|-
+| 1975 || 189 || - || -
+|-
+| 1982 || 173 || - || -
+|-
+| 1990 || 163 || - || -
+|-
+| 1999 || 150 || 13/km || 2.08%
+|}
+
+== Lainnya ==
+Allas-Bocage memiliki sebuah sekolah, gereja, dan taman.
+
+== Pranala luar ==
+* [http://www.ign.fr/affiche_rubrique.asp?rbr_id=1087&CommuneId=170005 Allas-Bocage di situs l'Institut Gographique National]
+* [http://www.recensement.insee.fr/RP99/rp99/co_navigation.co_page?nivgeo=C&codgeo=17005&theme=ALL&typeprod=ALL&lang=FR&quelcas=LISTE Allas-Bocage di situs INSEE]
+* [http://web.archive.org/web/20070312233606/http://www.quid.fr/communes.html?mode=query&req=Allas-Bocage Allas-Bocage di situs Quid]
+* [http://www.lion1906.com/Pages/ResultatLocalisation.php?InseeVille=17005 Lokasi Allas-Bocage pada peta Perancis]
+{{geolinks-cityscale|45.384722|1.4902778|region:EU-FR}}
+
+== Lihat pula ==
+
+* [[Commune di dpartement Charente-Maritime]]
+{{Komune di Charente-Maritime}}
+
+<!--
+[[sr-la:Allas-Bokage]]-->
+
+[[Kategori:Komune di Charente-Maritime]]
+[[Kategori:Komune di Perancis]]
+
+
+{{negara-geo-stub|Perancis}}

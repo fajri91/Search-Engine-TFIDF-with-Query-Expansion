@@ -1,0 +1,65 @@
+Mikrometeorit
+'''Mikrometeorit''' adalah partikel luar bumi dengan ukuran antara 50&nbsp;[[mikrometer|m]] hingga 2&nbsp;[[Millimeter|mm]] yang terkumpul di permukaan [[Bumi]]. Mikrometeorit adalah [[mikrometeoroid]] yang berhasil memasuki atmosfer Bumi. Partikel ini tidak sama dengan [[meteorit]] karena lebih kecil, lebih banyak, komposisinya berbeda, dan merupakan bagian dari debu kosmik, yang juga meliputi partikel [[debu antarplanet]] yang lebih kecil.<ref name = "Brownlee1997">
+{{Citation
+ | last = Brownlee
+ | first = D. E.
+ | last2 = Bates
+ | first2 = B.
+ | last3 = Schramm
+ | first3 = L.
+ | title = The elemental composition of stony cosmic spherules
+ | journal = Meteoritics and Planetary Science
+ | volume = 32
+ | issue =2
+ | pages = 157175
+ | year = 1997
+ | bibcode = 1997M&PS...32..157B
+ | doi = 10.1111/j.1945-5100.1997.tb01257.x}}
+</ref> Mikrometeorit memasuki atmosfer Bumi dengan kecepatan tinggi (paling tidak 11 km/d) dan mengalami pemanasan akibat friksi dan kompresi atmosfer. Massa mikrometeorit bervariasi antara 10<sup>9</sup> hingga 10<sup>4</sup> g.<ref name="Love">
+{{Citation
+ | last = Love
+ | first = S. G.
+ | last2 = Brownlee
+ | first2 = D. E.
+ | title = A direct measurement of the terrestrial mass accretion rate of cosmic dust
+ | journal = Science
+ | volume = 262
+ | pages = 550553
+ | year = 1993
+ | doi = 10.1126/science.262.5133.550
+ | pmid = 17733236
+ | issue = 5133}}
+</ref> 
+
+Istilah "mikro-meteorit" pertama kali dicetus oleh [[Fred Lawrence Whipple]] untuk mendeskripsikan objek seukuran debu yang jatuh ke Bumi.<ref name="Whipple">
+{{Citation
+ | last = Whipple
+ | first = Fred
+ | title = The Theory of Micro-Meteorites
+ | journal = National Academy of Sciences
+ | pages = 687695
+ | year = 1950
+ | doi = 10.1073/pnas.36.12.687
+ | volume = 36
+ | issue = 12}}
+</ref>
+
+== Catatan kaki ==
+{{Reflist}}
+
+== Pranala luar ==
+{{Commons|Meteorite}}
+{{wiktionary|micrometeorite}}
+* [http://solarsystem.nasa.gov/planets/profile.cfm?Object=Meteors Meteoroids Page] at [http://solarsystem.nasa.gov NASA's Solar System exploration]
+* [http://www.meteorite.com/news/index.htm Current meteorite news articles]
+* [http://www.imca.cc/ International Meteorite Collectors Association] News and information about meteorite collecting and authentication ethics
+* [http://www.psrd.hawaii.edu/ ''Planetary Science Research Discoveries:'' meteorite articles and photographs]
+* [http://www.bimsociety.org The British and Irish Meteorite Society]
+*[http://www.lpi.usra.edu/books/MESSII/9002.pdf Types of extraterrestrial material available for study]
+* [http://www.nhm.ac.uk/research-curation/projects/metcat/ The Natural History Museum's meteorite catalogue database]
+* [http://www.meteoriticalsociety.org/ Meteoritical Society]
+* [http://www.unb.ca/passc/ImpactDatabase/ Earth Impact Database]
+
+{{astronomi-stub}}
+[[Kategori:Meteoroid]]
+[[Kategori:Meteorit]]

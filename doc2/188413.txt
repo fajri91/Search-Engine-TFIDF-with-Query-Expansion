@@ -1,0 +1,29 @@
+Limbah hitam
+'''Limbah hitam''' (bahasa Inggris: ''blackwater'') adalah air [[limbah]] yang berasal dari buangan biologis seperti [[WC|kakus]], berbentuk tinja manusia, maupun buangan lainnya berupa cairan ataupun buangan biologis lainnya yang terbawa oleh air limbah rumah tangga bekas cuci piring, maupun limbah cairan dari dapur. <ref>Sumber: Kamus Istilah & Singkatan Asing Teknik Penyehatan dan Lingkungan </ref><ref> {{en}} [http://www.thefreedictionary.com/blackwater Free Online Dictionary: Blackwater]</ref>
+
+Setiap manusia rata-rata mengeluarkan 125-250 gram limbah hitam (tinja dan air kencing) per hari, sehingga ribuan ton limbah hitam diproduksi setiap harinya. Di luar jumlahnya, limbah hitam mengandung empat komponen berbahaya<ref name="potret sanitasi perkotaan"> [http://digilib-ampl.net/detail/detail.php?kode=96&row=11&tp=pustaka&ktg=buku&kd_link= Sanitasi Perkotaan: Potret, Harapan, dan Peluang. Ini Bukan Lagi Urusan Pribadi. Diterbitkan oleh Badan Perencanaan Pembangunan Nasional (Bappenas) bersama ''Water Sanitation Program (WSP-EAP)'', Bank Dunia untuk ''Indonesian Sanitation Sector Development Program (ISSDP)'', dengan dukungan dana dari Pemerintah Kerajaan Belanda. Juni 2006.] Hal 4-5. </ref>: 
+# Mikroba (seperti bakteri [[Salmonela typhi]] penyebab demam tifus dan bakteri [[Vibrio cholerae]] penyebab [[kolera]], [[hepatitis A]], dan virus penyebab [[polio]]). Tinja manusia mengandung puluhan miliar mikroba termasuk [[bakteri koli-tinja]] (''E. coli''). <ref name="potret sanitasi perkotaan"/>
+# Materi organik berupa sisa dan ampas makanan yang tidak tercerna dalam bentuk [[karbohidrat]], [[enzim]], [[lemak]], [[mikroba]], dan sel-sel mati. Satu liter tinja mengandung materi organik yang setara dengan 200-300 mg [[BOD5]]. Kandungan BOD yang tinggi mengakibatkan air mengeluarkan bau tak sedap dan berwarna hitam. <ref name="potret sanitasi perkotaan"/>
+# Telur cacing. Prevalensi anak cacingan yang diakibatkan cacing cambuk dan cacing gelak bisa mencapai 70 persen dari [[balita]] di Indonesia <ref name="potret sanitasi perkotaan"/>
+# Nutrien yang umumnya merupakan senyawa nitrogen (N) dan fosfor (P) yang dibawa oleh sisa sisa protein dan sel-sel mati. Nitrogen keluar dalam bentuk senyawa amonium, sedangkan fosfor dalam bentuk fosfat. Satu liter tinja manusia mengandung amonium sekitar 25 mg dan fosfat seberat 30mg. Senyawa nutrien memacu pertumbuhan ganggang (''algae''). Akibatnya warna air jadi hijau. Gangang menghabiskan oksigen dalam air sehingga ikan dan hewan air lainya mati. Fenomena yang disebut [[eutrofikasi]] ini mudah dijumpai, termasuk di waduk, danau, maupun balong-balong. <ref name="potret sanitasi perkotaan"/>
+
+== Pengolahan limbah hitam ==
+Di negara-negara maju dan beberapa kota di negara Asia lainnya, pengolahan limbah hitam menggunakan [[sistem pengolahan limbah|sistem pengolahan limbah perpipaan terpadu]] (''sewerage system''). Di Indonesia banyak pemerintah kota merasa tidak mampu untuk melakukan pembenahan kondisi sanitasinya, hal ini menjadikan warga mengatasi masalah sanitasinya sendiri-sendiri. Sebagian warga kota memilih cara termudah untuk membuang tinja dan sampahnya. Buang air besar langsung dilakukan di kali atau selokan terdekat, perilaku ini kemudian menjadi masalah bagi kelompok masyarakat yang lebih luas. <ref name="Bergerak Bersama dengan Strategi Sanitasi Kota"> [http://digilib-ampl.net/detail/detail.php?kode=2706&row=0&tp=pustaka&ktg=buku Bergerak Bersama Dengan Strategi Sanitasi Kota. Diterbitkan oleh Tim Teknis Pembangunan Sanitasi: BAPPENAS, Departemen Pekerjaan Umum, Departemen Dalam Negeri, Departemen Kesehatan, Departemen Perindustrian, Departemen Keuangan, dan Kementrian Negara Lingkungan Hidup. 2008.] Hal 1</ref>
+
+Air kakus atau limbah hitam di Indonesia biasanya ditangani dengan menggunakan unit-unit setempat (''on site unit'') seperti [[tangki septik]]. Layanan ini biasanya dikembangkan dan dioperasikan sendiri oleh pemilik rumah (''self service''). Penggunaan jamban dengan tangki septik pada tahun 2006 secara statistik digunakan oleh 65 persen rumah yang ada di kawasan perkotaan di Indonesia sebagai teknik pengolahan air kakus yang paling banyak digunakan. <ref name="potret sanitasi perkotaan"/>.
+
+Penggunaan jamban dengan septic tank membutuhkan layanan lanjutan seperti penyedotan lumpur tinja dan [[Instalasi Pengolahan Lumpur Tinja]] (IPLT). Air kakus juga dapat ditangani secara kolektif dengan menggunakan layanan sistem pengolahan limbah terpadu (''sewerage system''). Sistem ini mengalirkan air kakus dari tiap rumah oleh pipa pengumpul menuju ke suatu unit pengolahan air limbah dan biasanya dapat dikembangkan untuk kawasan pemukiman padat. <ref name="Bergerak Bersama dengan Strategi Sanitasi Kota 3"> [http://digilib-ampl.net/detail/detail.php?kode=2706&row=0&tp=pustaka&ktg=buku Bergerak Bersama Dengan Strategi Sanitasi Kota. Diterbitkan oleh Tim Teknis Pembangunan Sanitasi: BAPPENAS, Departemen Pekerjaan Umum, Departemen Dalam Negeri, Departemen Kesehatan, Departemen Perindustrian, Departemen Keuangan, dan Kementrian Negara Lingkungan Hidup. 2008.] Hal 3</ref>.
+
+== Lihat pula ==
+* [[Tinja]]
+
+
+== Catatan kaki ==
+
+{{reflist}}
+
+{{Limbah}}
+
+[[Kategori:Lingkungan]]
+[[Kategori:Limbah]]
+[[Kategori:Sistem pembuangan air]]

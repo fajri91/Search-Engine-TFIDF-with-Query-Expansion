@@ -1,0 +1,19 @@
+Templat:Kayangan, Lombok Utara
+{{Navigasi ID Desa
+|nama kecamatan= Kayangan
+|dati2=Kabupaten 
+|nama dati2= Lombok Utara
+|provinsi=Nusa Tenggara Barat
+|d1= Dangiang
+|d2= Gumantar
+|d3= Kayangan
+|d4= Pendua
+|d5= Salut
+|d6= Santong
+|d7= Selengen
+|d8= Sesait
+}}
+<noinclude>
+[[Kategori:Templat desa/kelurahan di Nusa Tenggara Barat]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Lombok Utara]]
+</noinclude>

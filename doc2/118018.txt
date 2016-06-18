@@ -1,0 +1,7 @@
+Templat:StatusAP gagal
+{| {{#ifeq:{{{small|}}}|yes|class="messagebox small-talk"|class="messagebox standard-talk"}}
+|-
+| [[Image:Cscr-former.svg|{{#ifeq:{{{small|}}}|yes|30px|48px}}|Mantan AP]]
+| Artikel ini adalah mantan [[Wikipedia:Artikel pilihan/Usulan|kandidat artikel pilihan]]. Silakan lihat '''''[[Wikipedia:Artikel pilihan/Usulan/{{{1|{{PAGENAME}}}}}|halaman penilaiannya]]''''' untuk mengetahui mengapa pengusulannya gagal.
+<includeonly>[[Category:Kandidat artikel pilihan Wikipedia (dipertentangkan)|{{{1|{{PAGENAME}}}}}]]</includeonly>
+|}<noinclude>{{{{PAGENAME}}/doc}}</noinclude>

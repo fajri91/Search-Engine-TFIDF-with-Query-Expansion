@@ -1,0 +1,45 @@
+App Inventor
+{{Infobox software
+| logo                   = 
+| screenshot             = [[File:Interfcie App Inventor.png|center|300px]]
+| caption                = App Inventor
+| developer              = Google, MIT Media Lab
+| latest_release_version = Beta 
+| current_version        = {{Start date and age|2011|08|03|df=yes}}
+| programming language   = [[Java (bahasa pemrograman)|Java]], [[Kawa (implementasi skema)|Kawa]] [[Scheme (bahasa pemrograman)|Scheme]]
+| operating_system       = Aplikasi berbasis web
+| platform               = [[Android (sistem operasi)|Android]]
+| language               = Inggris
+| genre                  = Pengembangan [[perangkat lunak aplikasi]]
+| license                = [[MIT License]]
+| website                = {{URL|http://appinventor.mit.edu/}}
+}}
+
+'''App Inventor''' adalah aplikasi web [[sumber terbuka]] yang awalnya dikembangkan oleh [[Google]], dan saat ini dikelola oleh [[Massachusetts Institute of Technology]] (MIT).
+
+App Inventor memungkinkan pengguna baru untuk [[pemrograman komputer|memprogram komputer]] untuk menciptakan [[aplikasi perangkat lunak]] bagi [[sistem operasi]] [[Android (sistem operasi)|Android]]. App Inventor menggunakan antarmuka grafis, serupa dengan [[antarmuka pengguna]] pada  [[Scratch (bahasa pemrograman)|Scratch]] dan [[StarLogo TNG]], yang memungkinkan pengguna untuk men-[[drag-and-drop]] objek visual untuk menciptakan aplikasi yang bisa dijalankan pada perangkat Android. Dalam menciptakan App Inventor, Google telah melakukan riset yang berhubungan dengan komputasi edukasional dan menyelesaikan lingkungan pengembangan online Google.<ref name="MIT roots">{{cite news|url=http://web.mit.edu/newsoffice/2010/android-abelson-0819.html|title=The MIT roots of Google's new software|publisher=MIT News Office|date=August 19, 2010|last=Hardesty|first=Larry}}</ref>
+
+==Lihat juga==
+*[[Lingkungan pengembangan terpadu]]
+*[[Pengembangan perangkat lunak Android]]
+
+==Referensi==
+{{Reflist}}
+
+==Tautan luar==
+* {{Official website|http://appinventor.mit.edu}}
+* {{Github|mit-cml/appinventor-sources|App Inventor for Android}}
+* [http://www.appinventorblocks.com/ Tutorial, Tips, Sample Apps]
+* [http://www.appinventor.org/ AppInventor.org:On-line book and video tutorials]
+
+{{Android}}
+{{Google Inc.}}
+
+[[Kategori:Perangkat lunak tahun 2010]]
+[[Kategori:Google|App Inventor]]
+[[Kategori:Lingkungan pengembangan terpadu]]
+[[Kategori:Android (sistem operasi)]]
+[[Kategori:Bahasa pemrograman visual]]
+
+
+{{Perangkat lunak-stub}}

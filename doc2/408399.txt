@@ -1,0 +1,73 @@
+Templat:Cherrybelle
+{{Navbox
+|name = Cherrybelle
+|titlestyle = background: #CCCCFF;
+|title = [[Cherrybelle]]
+|listclass = hlist
+|group1 = Anggota
+|list1 = {{Navbox subgroup
+  | group1 = Saat ini
+  | list1  =
+* [[Christy Saura Noela Unu|Christy]]
+* [[Novi Herlina|Novi]]
+* [[Hasunal Miftah Israfani|Miftah]]
+* [[Laela Haryadiningsih|Laela]]
+* [[Yoeriche Endine|Yoeriche]]
+* [[Banadhi Kurnia Dewi|Onad]]
+* [[Ellen Nita Vindriana|Ellen]]
+* [[Mutiara Dewi|Mutiara]]
+* [[Redita Mutiara|Tata]]
+  | group2 = Mantan
+  | list2 = 
+* [[Devi Noviaty|Devi]]
+* [[Sarwendah Tan|Wenda]]
+* [[Anisa Rahma|Anisa]]
+* [[Yefani Filliang|Felly]]
+* [[Cherly Yuliana Anggraini|Cherly]]
+* [[Brigitta Cynthia|Gigi]]
+* [[Kezia Karamoy|Kezia]]
+* [[Jessyca Stefani Auryn|Ryn]]
+* [[Stefanny Margaretha Aay|Steffy]]
+* [[Margareth Angelina|Angel]]
+}}
+|group3 = Album
+|list3 = 
+* ''[[Love is You]]''
+* ''[[Diam Diam Suka]]''
+* ''[[Reborn (album Cherrybelle)|Reborn]]''
+|group4 = Singel
+|list4 = 
+* ''[[Dilema (lagu)|Dilema]]''
+* ''[[Love is You (lagu)|Love is You]]''
+* ''[[Brand New Day (lagu)|Brand New Day]]''
+* ''[[Diam-Diam Suka (lagu)|Diam-Diam Suka]]''
+* ''[[Very Good]]''
+* ''[[Pergi ke Bulan]]''
+|group5 = Film
+|list5 = 
+* ''[[Love is U]]''
+* ''[[Crush (film 2014)|Crush]]''
+|group6 = Film televisi
+|list6 =
+* ''[[Happy 21]]''
+* ''Mengejar 1 Cinta diantara 9 Cherrybelle''
+* ''Bukan Cinderella''
+* ''[[24 Kali Bilang Cinta]]''
+* ''Battle With Love''
+|group7 = Acara televisi
+|list7 =
+* ''[[Cherrybelle Cari Chibi]]''
+* ''[[Chibi Chibi Burger]]''
+* ''[[Chibi Chibi Burger Season 2]]''
+* ''[[Go Go Chibi!]]''
+|group8 = Serial animasi
+|list8 =
+* ''[[Adit & Sopo Jarwo|Adit & Sopo Jarwo featuring Cherrybelle]]''
+|group9 = Tur
+|list9 =
+* ''[[Cherrybelle BeAT Indonesia]]''
+|group10 = Grup saudari
+|list10 =
+* ''[[Teenebelle]]''
+}}<noinclude>[[Kategori:Templat navigasi musik|{{PAGENAME}}]]
+</noinclude>

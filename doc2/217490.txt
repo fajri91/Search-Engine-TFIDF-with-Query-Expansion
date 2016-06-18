@@ -1,0 +1,36 @@
+SPSS
+{{Infobox_Software |
+  parent_company = [[IBM]] |
+  name = IBM SPSS |
+  released = 1968 |
+  logo = [[Berkas:SPSS An IBM Company logo.svg|100px]] |
+  screenshot=[[Berkas:Spss-19-screenshot.jpg|300px]] |
+  caption= SPSS v.19 x86 berjalan pada [[Windows 7]] x86 |
+  developer = [[IBM Corporation]] |
+  latest release version = 19.0 {{release date|2010|8|1}} |
+  operating_system = [[Microsoft Windows|Windows]], [[zLinux]], [[Linux]] / [[UNIX]] & [[Apple Macintosh|Mac]] |
+  genre = [[Statistics|Analisis statistika, eksplorasi data, analisis data, pengumpulan data]] |
+  platform = [[Java (bahasa pemrograman)|Java]] |
+  license = [[Perangkat lunak tak bebas]] |
+  website = http://www-01.ibm.com/software/analytics/spss/ |
+}}
+
+'''SPSS''' adalah [[program komputer]] yang dipakai untuk analisis [[statistika]].
+Sejak tanggal 28 Juli 2009, SPSS disebut sebagai PASW (''Predictive Analytics SoftWare''), karena perusahaan ini telah dibeli oleh perusahaan [[IBM]] dengan harga US$1,2 miliar.
+<ref>[http://www-03.ibm.com/press/us/en/pressrelease/28522.wss press release]</ref> 
+
+== Referensi ==
+{{reflist}}
+
+== Pranala luar ==
+* [http://www-01.ibm.com/software/analytics/spss/ SPSS Homepage] - Solusi basis data
+* [http://www.spsstools.net Raynald Levesque's SPSS Tools] 
+* [http://listserv.uga.edu/archives/spssx-l.html Arsip diskusi mengenai SPSSX-L] 
+* [http://www.ats.ucla.edu/stat/spss/ UCLA ATS Pengenalan mengenai SPSS] 
+* [http://web.archive.org/20060207140503/www.ats.ucla.edu/stat/technicalreports/ UCLA ATS Technical Reports, perbandingan: Stata, SAS dan SPSS]
+* [http://www.hmdc.harvard.edu/projects/SPSS_Tutorial/spsstut.shtml Cara memakai SPSS (Harvard)]
+* [http://www.ibm.com/developerworks/spssdevcentral SPSS Pengembangan SPSS secara sentral]
+
+{{software-stub}}
+
+[[Kategori:Perangkat lunak statistika]]

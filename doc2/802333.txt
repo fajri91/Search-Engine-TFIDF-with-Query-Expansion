@@ -1,0 +1,30 @@
+Templat:Infobox archaeological culture
+{{Infobox
+| title   = {{{name|<includeonly>{{PAGENAME}}</includeonly>}}}
+
+| image   = {{#invoke:InfoboxImage|InfoboxImage|image={{{map|}}}|size={{{mapsize|}}}|upright={{{mapupright|1}}}|alt={{{mapalt|<includeonly>Peta yang menunjukkan besarnya {{PAGENAME}}</includeonly>}}}}}
+| caption = {{{mapcaption|}}}
+| label1  = Nama lain
+|  data1  = {{{altnames|}}}
+| label2  = [[Cakrawala arkeologi|Cakrawala]]
+|  data2  = {{{horizon|}}}
+| label3  = Jangkauan<br />geografis
+|  data3  = {{{region|}}}
+| label4  = Periode
+|  data4  = {{{period|}}}
+| label5  = Tanggal
+|  data5  = {{{dates|}}}
+| label6  = [[Jenis situs]]
+|  data6  = {{{typesite|}}}
+| label7  = Situs induk
+|  data7  = {{{majorsites|}}}
+| label8  = Ciri
+|  data8  = {{{extra|}}}
+| label9  = Didahului oleh
+|  data9  = {{{precededby|}}}
+| label10 = Diikuti oleh
+|  data10 = {{{followedby|}}}
+|  data11 = {{{module|}}}
+}}<noinclude>
+{{dokumentasi}}<!-- Please add category links to the bottom of the /doc sub-page, not here -->
+</noinclude>

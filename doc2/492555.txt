@@ -1,0 +1,866 @@
+Daftar objek NGC 4001 - 5000
+{|align=right
+  |__TOC__
+  |}
+
+Daftar ini memuat [[New General Catalogue|Objek NGC]] 4001 - 5000.  
+
+Informasi dalam tabel ini diambil dari ''The Complete New General Catalogue and Index Catalogue of Nebulae and Star Clusters oleh J. L. E. Dreyer'',<ref name="sinnott1988">{{cite book 
+|author=R. W. Sinnott, editor
+|title= The Complete New General Catalogue and Index Catalogue of Nebulae and Bintang Clusters by J. L. E. Dreyer
+|year=1988
+|publisher=Sky Publishing Corporation and Cambridge University Press
+|isbn=0-933346-51-4}}</ref> yang di akses melalui VizieR Service (website: http://vizier.u-strasbg.fr/viz-bin/VizieR), database NASA/IPAC Extragalactic (website: http://nedwww.ipac.caltech.edu/), dan database astronomi SIMBAD (website: http://simbad.u-strasbg.fr/simbad/).
+
+{{clear}}
+
+==4001-4100==
+
+{| class="wikitable sortable" width="100%" style="text-align:center;"
+!style="background:#CCCCCC;" width="10%" | No NGC
+!style="background:#CCCCCC;" width="15%" | Nama Lain
+!style="background:#CCCCCC;" width="20%" | Jenis Objek
+!style="background:#CCCCCC;" width="15%" | [[Rasi bintang]]
+!style="background:#CCCCCC;" width="15%" | [[Asensio rekta]]
+!style="background:#CCCCCC;" width="15%" | [[Deklinasi]]
+!style="background:#CCCCCC;" width="10%" | [[Magnitudo semu]]
+|-
+| [[NGC 4013|4013]]
+|
+| [[Galaksi#Spiral|Galaksi spiral]]
+| [[Ursa Major]]
+| {{RA|11|58|31.4}}
+| {{DEC|+43|56|51}}
+| 12.4
+|-
+| [[NGC 4014|4014]]
+|
+| [[Galaksi#Spiral|Galaksi spiral]]
+| [[Coma Berenices]]
+| {{RA|11|58|35.9}}
+| {{DEC|+16|10|36}}
+| 13.5
+|-
+| [[NGC 4015|4015]]
+| Arp 138
+| [[Galaksi#Morfologi lain|Galaksi yang berinteraksi]]
+| [[Coma Berenices]]
+| {{RA|11|58|42.5}}
+| {{DEC|+25|02|13}}
+| 14.2
+|-
+| [[NGC 4016|4016]]
+|
+| [[Galaksi#Spiral|Galaksi spiral]]
+| [[Leo]]
+| {{RA|11|58|29.2}}
+| {{DEC|+27|31|43}}
+| 14.6
+|-
+| [[NGC 4017|4017]]
+|
+| [[Galaksi#Spiral|Galaksi spiral]]
+| [[Coma Berenices]]
+| {{RA|11|58|45.8}}
+| {{DEC|+27|27|08}}
+| 13.5
+|-
+| [[NGC 4018|4018]]
+|
+| [[Galaksi#Spiral|Galaksi spiral]]
+| [[Coma Berenices]]
+| {{RA|11|58|31.4}}
+| {{DEC|+43|56|48}}
+| 12.4
+|-
+| [[NGC 4027|4027]]
+|
+| [[Galaksi#Spiral|Galaksi spiral]]
+| [[Corvus]]
+| {{RA|11|59|27.8}}
+| {{DEC|-19|16|32}}
+| 11.7
+|-
+| [[NGC 4038|4038]]
+| Galaksi Antena
+|[[Galaksi#Morfologi lain|Galaksi yang berinteraksi]]
+| [[Corvus]]
+| {{RA|12|01|52.5}}
+| {{DEC|-18|52|03}}
+| 11.0
+|-
+| [[NGC 4039|4039]]
+| Galaksi Antena
+|[[Galaksi#Morfologi lain|Galaksi yang berinteraksi]]
+| [[Corvus]]
+| {{RA|12|01|52.5}}
+| {{DEC|-18|52|03}}
+| 11.0
+|-
+| [[NGC 4088|4088]]
+|
+| [[Galaksi#Spiral|Galaksi spiral]]
+| [[Ursa Major]]
+| {{RA|12|05|33.7}}
+| {{DEC|+50|32|23}}
+| 11.2
+|-
+|}
+
+==4101-4200==
+
+{| class="wikitable" width="100%" style="text-align:center;"
+!style="background:#CCCCCC;" width="10%" | No NGC
+!style="background:#CCCCCC;" width="15%" | Nama Lain
+!style="background:#CCCCCC;" width="20%" | Jenis Objek
+!style="background:#CCCCCC;" width="15%" | [[Rasi bintang]]
+!style="background:#CCCCCC;" width="15%" | [[Asensio rekta]]
+!style="background:#CCCCCC;" width="15%" | [[Deklinasi]]
+!style="background:#CCCCCC;" width="10%" | [[Magnitudo semu]]
+|-
+| [[NGC 4121|4121]]
+|
+|[[Galaksi#Eliptik|Galaksi eliptik]]
+| [[Draco]]
+| {{RA|12|07|56.6}}
+| {{DEC|+65|06|50}}
+| 14.1
+|-
+| [[NGC 4125|4125]]
+| 
+|[[Galaksi#Eliptik|Galaksi eliptik]]
+| [[Draco]]
+| {{RA|12|08|06.3}}
+| {{DEC|+65|10|27}}
+| 10.9
+|-
+| [[NGC 4151|4151]]
+| 
+| [[Galaksi#Spiral|Galaksi spiral]]
+| [[Canes Venatici]]
+| {{RA|12|10|32.7}}
+| {{DEC|+39|24|20}}
+| 11.2
+|-
+| [[NGC 4192|4192]]
+| Messier 98
+| [[Galaksi#Spiral|Galaksi spiral]]
+| [[Coma Berenices]]
+| {{RA|12|13|48.4}}
+| {{DEC|+14|52|58}}
+| 11.0
+|-
+|}
+
+==4201-4300==
+
+{| class="wikitable" width="100%" style="text-align:center;"
+!style="background:#CCCCCC;" width="10%" | No NGC
+!style="background:#CCCCCC;" width="15%" | Nama Lain
+!style="background:#CCCCCC;" width="20%" | Jenis Objek
+!style="background:#CCCCCC;" width="15%" | [[Rasi bintang]]
+!style="background:#CCCCCC;" width="15%" | [[Asensio rekta]]
+!style="background:#CCCCCC;" width="15%" | [[Deklinasi]]
+!style="background:#CCCCCC;" width="10%" | [[Magnitudo semu]]
+|-
+| [[NGC 4214|4214]]
+| 
+|[[Galaksi#Morfologi lain|Galaksi tak beraturan]]
+| [[Canes Venatici]]
+| {{RA|12|15|39.2}}
+| {{DEC|+36|19|41}}
+| 10.3
+|-
+| [[NGC 4216|4216]]
+| 
+| [[Galaksi#Spiral|Galaksi spiral]]
+| [[Virgo]]
+| {{RA|12|15|54.4}}
+| {{DEC|+13|09|00}}
+| 11.2
+|-
+| [[NGC 4236|4236]]
+| 
+|[[Galaksi#Morfologi lain|Galaksi tak beraturan]]
+| [[Draco]]
+| {{RA|12|16|41.8}}
+| {{DEC|+69|28|10}}
+| 10.7
+|-
+| [[NGC 4244|4244]]
+| 
+| [[Galaksi#Spiral|Galaksi spiral]]
+| [[Canes Venatici]]
+| {{RA|12|17|30.1}}
+| {{DEC|+37|48|30}}
+| 10.2
+|-
+| [[NGC 4254|4254]]
+| Messier 99
+| [[Galaksi#Spiral|Galaksi spiral]]
+| [[Coma Berenices]]
+| {{RA|12|18|49.6}}
+| {{DEC|+14|25|00}}
+| 10.2
+|-
+| [[NGC 4258|4258]]
+| Messier 106
+| [[Galaksi#Spiral|Galaksi spiral]]
+| [[Canes Venatici]]
+| {{RA|12|18|57.5}}
+| {{DEC|+47|18|14}}
+| 9.6
+|-
+| [[NGC 4261|4261]]
+| 
+|[[Galaksi#Eliptik|Galaksi eliptik]]
+| [[Virgo]]
+| {{RA|12|19|23.2}}
+| {{DEC|+05|49|30}}
+| 10.4
+|}
+
+==4301-4400==
+
+{| class="wikitable" width="100%" style="text-align:center;"
+!style="background:#CCCCCC;" width="10%" | No NGC
+!style="background:#CCCCCC;" width="15%" | Nama Lain
+!style="background:#CCCCCC;" width="20%" | Jenis Objek
+!style="background:#CCCCCC;" width="15%" | [[Rasi bintang]]
+!style="background:#CCCCCC;" width="15%" | [[Asensio rekta]]
+!style="background:#CCCCCC;" width="15%" | [[Deklinasi]]
+!style="background:#CCCCCC;" width="10%" | [[Magnitudo semu]] 
+|-
+| [[NGC 4303|4303]]
+| Messier 61
+| [[Galaksi#Spiral|Galaksi spiral]]
+| [[Virgo]]
+| {{RA|12|21|55.0}}
+| {{DEC|+04|28|29}}
+| 10.9
+|-
+| [[NGC 4308|4308]]
+|
+|[[Galaksi#Eliptik|Galaksi eliptik]]
+| [[Coma Berenices]]
+| {{RA|12|21|56.9}}
+| {{DEC|+30|04|27}}
+| 14.3
+|-
+| [[NGC 4309|4309]]
+|
+| [[Galaksi|Galaksi lentikular]]
+| [[Virgo]]
+| {{RA|12|22|12.4}}
+| {{DEC|+07|08|38}}
+| 14.3
+|-
+| [[NGC 4314|4314]]
+|
+| [[Galaksi#Spiral|Galaksi spiral]]
+| [[Coma Berenices]]
+| {{RA|12|22|32.0}}
+| {{DEC|+29|53|44}}
+| 11.5
+|-
+| [[NGC 4319|4319]]
+|
+| [[Galaksi#Spiral|Galaksi spiral]]
+| [[Draco]]
+| {{RA|12|21|44.1}}
+| {{DEC|+75|19|21}}
+| 13.0
+|-
+| [[NGC 4321|4321]]
+| Messier 100
+| [[Galaksi#Spiral|Galaksi spiral]]
+| [[Coma Berenices]]
+| {{RA|12|22|55.0}}
+| {{DEC|+15|49|20}}
+| 10.6
+|-
+| [[NGC 4325|4325]]
+| Galaxy cluster
+| 
+| 
+| {{RA|12|23|06.68}}
+| {{DEC|+10|37|16.3}}
+| 
+|-
+| [[NGC 4374|4374]]
+| Messier 84
+|[[Galaksi#Eliptik|Galaksi eliptik]]
+| [[Virgo]]
+| {{RA|12|25|03.7}}
+| {{DEC|+12|53|13}}
+| 10.8
+|-
+| [[NGC 4382|4382]]
+| Messier 85
+| [[Galaksi|Galaksi lentikular]]
+| [[Coma Berenices]]
+| {{RA|12|25|24.2}}
+| {{DEC|+18|11|27}}
+| 10.2
+|-
+| [[NGC 4395|4395]]
+|
+|[[Galaksi#Morfologi lain|Galaksi tak beraturan]]
+| [[Canes Venatici]]
+| {{RA|12|25|48.9}}
+| {{DEC|+33|32|48}}
+| 11.7
+|-
+|}
+
+==4401-4500==
+
+{| class="wikitable" width="100%" style="text-align:center;"
+!style="background:#CCCCCC;" width="10%" | No NGC
+!style="background:#CCCCCC;" width="15%" | Nama Lain
+!style="background:#CCCCCC;" width="20%" | Jenis Objek
+!style="background:#CCCCCC;" width="15%" | [[Rasi bintang]]
+!style="background:#CCCCCC;" width="15%" | [[Asensio rekta]]
+!style="background:#CCCCCC;" width="15%" | [[Deklinasi]]
+!style="background:#CCCCCC;" width="10%" | [[Magnitudo semu]] 
+|-
+| [[NGC 4406|4406]]
+| Messier 86
+| [[Galaksi|Galaksi lentikular]]<br/>/[[Galaksi#EliptikGalaksi Eliptik]]
+| [[Virgo]]
+| {{RA|12|26|12.2}}
+| {{DEC|+12|56|45}}
+| 10.9
+|-
+| [[NGC 4414|4414]]
+| 
+| [[Galaksi#Spiral|Galaksi spiral]]
+| [[Coma Berenices]]
+| {{RA|12|26|27.1}}
+| {{DEC|+31|13|21}}
+| 10.9
+|-
+| [[NGC 4435|4435]]
+| Eyes Galaxies
+| [[Galaksi|Galaksi lentikular]]
+| [[Virgo]]
+| {{RA|12|27|40.6}}
+| {{DEC|+13|04|44}}
+| 11.9
+|-
+| [[NGC 4438|4438]]
+| Eyes Galaxies
+| [[Galaksi#Spiral|Galaksi spiral]]
+| [[Virgo]]
+| {{RA|12|27|45.9}}
+| {{DEC|+13|00|32}}
+| 12.0
+|-
+| [[NGC 4444|4444]]
+| 
+| [[Galaksi#Spiral|Galaksi spiral]]
+| [[Centaurus]]
+| 
+| 
+| 
+|-
+| [[NGC 4448|4448]]
+| 
+| [[Galaksi#Spiral|Galaksi spiral]]
+| [[Coma Berenices]]
+| {{RA|12|28|15.2}}
+| {{DEC|+28|37|16}}
+| 11.9
+|-
+| [[NGC 4449|4449]]
+| 
+|[[Galaksi#Morfologi lain|Galaksi tak beraturan]]
+| [[Canes Venatici]]
+| {{RA|12|28|11.0}}
+| {{DEC|+44|05|33.4}}
+| 10.0<ref name="ned"/>
+|-
+| [[NGC 4450|4450]]
+| 
+| [[Galaksi#Spiral|Galaksi spiral]]
+| [[Coma Berenices]]
+| {{RA|12|28|29.6}}
+| {{DEC|+17|05|05}}
+| 11.2
+|-
+| [[NGC 4463|4463]]
+| 
+| [[Gugus terbuka]]
+| [[Musca]]
+| {{RA|12|30}}
+| {{DEC|-64|47}}
+| 7.6
+|-
+| [[NGC 4486|4486]]
+| Messier 87
+|[[Galaksi#Eliptik|Galaksi eliptik]]
+| [[Virgo]]
+| {{RA|12|30|49.4}}
+| {{DEC|+12|23|28}}
+| 12.9
+|-
+|}
+
+==4501-4600==
+
+{| class="wikitable" width="100%" style="text-align:center;"
+!style="background:#CCCCCC;" width="10%" | No NGC
+!style="background:#CCCCCC;" width="15%" | Nama Lain
+!style="background:#CCCCCC;" width="20%" | Jenis Objek
+!style="background:#CCCCCC;" width="15%" | [[Rasi bintang]]
+!style="background:#CCCCCC;" width="15%" | [[Asensio rekta]]
+!style="background:#CCCCCC;" width="15%" | [[Deklinasi]]
+!style="background:#CCCCCC;" width="10%" | [[Magnitudo semu]] 
+|-
+| [[NGC 4501|4501]]
+| Messier 88
+| [[Galaksi#Spiral|Galaksi spiral]]
+| [[Coma Berenices]]
+| {{RA|12|31|59.3}}
+| {{DEC|+14|25|13}}
+| 10.6
+|-
+| [[NGC 4526|4526]]
+| 
+| [[Galaksi|Galaksi lentikular]]
+| [[Virgo]]
+| {{RA|12|34|03.2}}
+| {{DEC|+07|41|58}}
+| 10.6
+|-
+| [[NGC 4536|4536]]
+| 
+| [[Galaksi#Spiral|Galaksi spiral]]
+| [[Virgo]]
+| {{RA|12|34|27.2}}
+| {{DEC|+02|11|15}}
+| 12.3
+|-
+| [[NGC 4548|4548]]
+| Messier 91
+| [[Galaksi#Spiral|Galaksi spiral]]
+| [[Coma Berenices]]
+| {{RA|12|35|26.6}}
+| {{DEC|+14|29|45}}
+| 11.5
+|-
+| [[NGC 4552|4552]]
+| Messier 89
+|[[Galaksi#Eliptik|Galaksi eliptik]]
+| [[Virgo]]
+| {{RA|12|35|40.0}}
+| {{DEC|+12|33|23}}
+| 11.1
+|-
+| [[NGC 4555|4555]]
+| 
+|[[Galaksi#Eliptik|Galaksi eliptik]]
+| [[Coma Berenices]]
+| {{RA|12|35|41.3}}
+| {{DEC|+26|31|23}}
+| 13.5
+|-
+| [[NGC 4559|4559]]
+| 
+| [[Galaksi#Spiral|Galaksi spiral]]
+| [[Coma Berenices]]
+| {{RA|12|35|57.8}}
+| {{DEC|+27|57|35}}
+| 10.7
+|-
+| [[NGC 4565|4565]]
+| 
+| [[Galaksi#Spiral|Galaksi spiral]]
+| [[Coma Berenices]]
+| {{RA|12|36|21.1}}
+| {{DEC|+25|59|14}}
+| 10.3
+|-
+| [[NGC 4567|4567]]
+| Siamese Kembar<ref name="ned">{{cite web
+  | title=NASA/IPAC Extragalactic Database
+  | work=Results for various objects
+  | url=http://nedwww.ipac.caltech.edu/}}</ref>
+|[[Galaksi#Morfologi lain|Galaksi yang berinteraksi]]
+| [[Virgo]]
+| {{RA|12|36|32.8}}
+| {{DEC|+11|15|27}}
+| 12.1
+|-
+| [[NGC 4568|4568]]
+| Siamese Kembar<ref name="ned"/>
+|[[Galaksi#Morfologi lain|Galaksi yang berinteraksi]]
+| [[Virgo]]
+| {{RA|12|36|34.3}}
+| {{DEC|+11|14|18}}
+| 12.1
+|-
+| [[NGC 4569|4569]]
+| Messier 90
+| [[Galaksi#Spiral|Galaksi spiral]]
+| [[Virgo]]
+| {{RA|12|36|50.1}}
+| {{DEC|+13|09|46}}
+| 11.8
+|-
+| [[NGC 4579|4579]]
+| Messier 58
+| [[Galaksi#Spiral|Galaksi spiral]]
+| [[Virgo]]
+| {{RA|12|37|43.5}}
+| {{DEC|+11|49|04}}
+| 11.5
+|-
+| [[NGC 4590|4590]]
+| Messier 68
+| [[Gugus bola]]
+| [[Hydra]]
+| {{RA|12|39|28.0}}
+| {{DEC|-26|44|35}}
+| 10.3
+|-
+| [[NGC 4594|4594]]
+| Messier 104;<br/>Galaksi Sombrero
+| [[Galaksi#Spiral|Galaksi spiral]]
+| [[Virgo]]
+| {{RA|12|39|59.4}}
+| {{DEC|-11|37|23}}
+| 10.3
+|-
+|}
+
+==4601-4700==
+
+{| class="wikitable" width="100%" style="text-align:center;"
+!style="background:#CCCCCC;" width="10%" | No NGC
+!style="background:#CCCCCC;" width="15%" | Nama Lain
+!style="background:#CCCCCC;" width="20%" | Jenis Objek
+!style="background:#CCCCCC;" width="15%" | [[Rasi bintang]]
+!style="background:#CCCCCC;" width="15%" | [[Asensio rekta]]
+!style="background:#CCCCCC;" width="15%" | [[Deklinasi]]
+!style="background:#CCCCCC;" width="10%" | [[Magnitudo semu]] 
+|-
+| [[NGC 4603|4603]]
+| 
+| [[Galaksi#Spiral|Galaksi spiral]]
+| [[Centaurus]]
+| {{RA|12|40|55.3}}
+| {{DEC|-40|58|32}}
+| 12.1
+|-
+| [[NGC 4605|4605]]
+| 
+| [[Galaksi#Spiral|Galaksi spiral]]
+| [[Ursa Major]]
+| {{RA|12|40|00.4}}
+| {{DEC|+61|36|32}}
+| 10.8
+|-
+| [[NGC 4618|4618]]
+| 
+|[[Galaksi#Morfologi lain|Galaksi tak beraturan]]
+| [[Canes Venatici]]
+| {{RA|12|41|32.5}}
+| {{DEC|+41|09|00}}
+| 11.5
+|-
+| [[NGC 4621|4621]]
+| Messier 59
+|[[Galaksi#Eliptik|Galaksi eliptik]]
+| [[Virgo]]
+| {{RA|12|42|02.4}}
+| {{DEC|+11|38|45}}
+| 11.0
+|-
+| [[NGC 4622|4622]]
+| 
+| [[Galaksi#Spiral|Galaksi spiral]]
+| [[Centaurus]]
+| {{RA|12|42|37.6}}
+| {{DEC|-40|44|35}}
+| 13.5
+|-
+| [[NGC 4623|4623]]
+| 
+| [[Galaksi|Galaksi lentikular]]
+| [[Virgo]]
+| {{RA|12|42|10.8}}
+| {{DEC|+07|40|34}}
+| 13.6
+|-
+| [[NGC 4624|4624]]
+| 
+| [[Galaksi#Spiral|Galaksi spiral]]
+| [[Virgo]]
+| {{RA|12|42|50.0}}
+| {{DEC|+02|41|17}}
+| 11.8
+|-
+| [[NGC 4625|4625]]
+| 
+|[[Galaksi#Morfologi lain|Galaksi tak beraturan]]
+| [[Canes Venatici]]
+| {{RA|12|41|52.8}}
+| {{DEC|+41|16|26}}
+| 13.0
+|-
+| [[NGC 4626|4626]]
+| 
+| [[Galaksi#Spiral|Galaksi spiral]]
+| [[Virgo]]
+| {{RA|12|42|25.3}}
+| {{DEC|-07|02|38}}
+| 14
+|-
+| [[NGC 4627|4627]]
+| 
+|[[Galaksi#Eliptik|Galaksi eliptik]]
+| [[Canes Venatici]]
+| {{RA|12|41|59.7}}
+| {{DEC|+32|34|24}}
+| 13.3
+|-
+| [[NGC 4631|4631]]
+| 
+| [[Galaksi#Spiral|Galaksi spiral]]
+| [[Canes Venatici]]
+| {{RA|12|42|07.8}}
+| {{DEC|+32|32|27}}
+| 9.8
+|-
+| [[NGC 4639|4639]]
+| 
+| [[Galaksi#Spiral|Galaksi spiral]]
+| [[Virgo]]
+| {{RA|12|42|52.5}}
+| {{DEC|+13|15|24}}
+| 12.4
+|-
+| [[NGC 4647|4647]]
+| 
+| [[Galaksi#Spiral|Galaksi spiral]]
+| [[Virgo]]
+| {{RA|12|43|32.6}}
+| {{DEC|+11|34|55}}
+| 12.5
+|-
+| [[NGC 4649|4649]]
+| Messier 60
+|[[Galaksi#Eliptik|Galaksi eliptik]]
+| [[Virgo]]
+| {{RA|12|43|40.2}}
+| {{DEC|+11|33|09}}
+| 10.3
+|-
+| [[NGC 4650|4650]]
+| 
+| [[Galaksi#Spiral|Galaksi spiral]]
+| [[Centaurus]]
+| {{RA|12|44|19.7}}
+| {{DEC|-40|43|50}}
+| 12.8
+|-
+| [[NGC 4656|4656]]
+| 
+|[[Galaksi#Morfologi lain|Galaksi yang berinteraksi]]
+| [[Canes Venatici]]
+| {{RA|12|43|58.2}}
+| {{DEC|+32|10|09}}
+| 10.6
+|-
+| [[NGC 4657|4657]]
+| 
+|[[Galaksi#Morfologi lain|Galaksi yang berinteraksi]]
+| [[Canes Venatici]]
+| {{RA|12|44|11.3}}
+| {{DEC|+32|12|19}}
+| 
+|-
+| [[NGC 4666|4666]]
+| 
+| [[Galaksi#Spiral|Galaksi spiral]]
+| [[Virgo]]
+| {{RA|12|45|08.3}}
+| {{DEC|-00|27|49}}
+| 10.8 
+|-
+| [[NGC 4676|4676]]
+| Mice Galaxies
+| [[Galaksi#Morfologi lain|Galaksi yang berinteraksi]]
+| [[Coma Berenices]]
+| {{RA|12|46|10.2}}
+| {{DEC|+30|43|54}}
+| 14.1
+|-
+|}
+
+==4701-4800==
+
+{| class="wikitable" width="100%" style="text-align:center;"
+!style="background:#CCCCCC;" width="10%" | No NGC
+!style="background:#CCCCCC;" width="15%" | Nama Lain
+!style="background:#CCCCCC;" width="20%" | Jenis Objek
+!style="background:#CCCCCC;" width="15%" | [[Rasi bintang]]
+!style="background:#CCCCCC;" width="15%" | [[Asensio rekta]]
+!style="background:#CCCCCC;" width="15%" | [[Deklinasi]]
+!style="background:#CCCCCC;" width="10%" | [[Magnitudo semu]] 
+|-
+| [[NGC 4710|4710]]
+| 
+| [[Galaksi|Galaksi lentikular]]
+| [[Coma Berenices]]
+| {{RA|12|49|38.9}}
+| {{DEC|+15|09|54}}
+| 11.6
+|-
+| [[NGC 4712|4712]]
+| 
+| [[Galaksi#Spiral|Galaksi spiral]]
+| [[Coma Berenices]]
+| {{RA|12|49|34.2}}
+| {{DEC|+25|28|12}}
+| 13.3
+|-
+| [[NGC 4725|4725]]
+| 
+| [[Galaksi#Spiral|Galaksi spiral]]
+| [[Coma Berenices]]
+| {{RA|12|50|26.7}}
+| {{DEC|+25|30|02}}
+| 10.2
+|-
+| [[NGC 4736|4736]]
+| Messier 94
+| [[Galaksi#Spiral|Galaksi spiral]]
+| [[Canes Venatici]]
+| {{RA|12|50|52.6}}
+| {{DEC|+41|07|09}}
+| 8.7
+|-
+| [[NGC 4755|4755]]
+| Kotak Perhiasan;<br/>Gugus Kappa Crucis
+| [[Gugus terbuka]]
+| [[Crux (constellation)|Crux]]
+| {{RA|12|53|42}}
+| {{DEC|-60|22}}
+| 
+|-
+|}
+
+==4801-4900==
+
+{| class="wikitable" width="100%" style="text-align:center;"
+!style="background:#CCCCCC;" width="10%" | No NGC
+!style="background:#CCCCCC;" width="15%" | Nama Lain
+!style="background:#CCCCCC;" width="20%" | Jenis Objek
+!style="background:#CCCCCC;" width="15%" | [[Rasi bintang]]
+!style="background:#CCCCCC;" width="15%" | [[Asensio rekta]]
+!style="background:#CCCCCC;" width="15%" | [[Deklinasi]]
+!style="background:#CCCCCC;" width="10%" | [[Magnitudo semu]] 
+|-
+| [[NGC 4826|4826]]
+| Messier 64;<br/>Galaksi Mata Hitam
+| [[Galaksi#Spiral|Galaksi spiral]]
+| [[Coma Berenices]]
+| {{RA|12|56|43.9}}
+| {{DEC|+21|41|00}}
+| 8.9
+|-
+| [[NGC 4833|4833]]
+| 
+| [[Gugus bola]]
+| [[Musca]]
+| {{RA|12|59|35.0}}
+| {{DEC|-70|52|29}}
+| 8.7
+|-
+| [[NGC 4881|4881]]
+| 
+|[[Galaksi#Eliptik|Galaksi eliptik]]
+| [[Coma Berenices]]
+| {{RA|12|59|57.8}}
+| {{DEC|+28|14|48}}
+| 14.7
+|-
+| [[NGC 4889|4889]]
+| Caldwell 35
+|[[Galaksi#Eliptik|Galaksi eliptik]]
+| [[Coma Berenices]]
+| {{RA|13|00|08.1}}
+| {{DEC|+27|58|37}}
+| 11.4
+|-
+|}
+
+==4901-5000==
+
+{| class="wikitable" width="100%" style="text-align:center;"
+!style="background:#CCCCCC;" width="10%" | No NGC
+!style="background:#CCCCCC;" width="15%" | Nama Lain
+!style="background:#CCCCCC;" width="20%" | Jenis Objek
+!style="background:#CCCCCC;" width="15%" | [[Rasi bintang]]
+!style="background:#CCCCCC;" width="15%" | [[Asensio rekta]]
+!style="background:#CCCCCC;" width="15%" | [[Deklinasi]]
+!style="background:#CCCCCC;" width="10%" | [[Magnitudo semu]] 
+|-
+| [[NGC 4911|4911]]
+| 
+| [[Galaksi#Spiral|Galaksi spiral]]
+| [[Coma Berenices]]
+| {{RA|13|00|56.1}}
+| {{DEC|+27|47|25.5}}
+| 12.8
+|-
+| [[NGC 4945|4945]]
+| 
+| [[Galaksi#Spiral|Galaksi spiral]]
+| [[Centaurus]]
+| {{RA|13|05|26.1}}
+| {{DEC|-49|28|15}}
+| 9.6
+|-
+| [[NGC 4976|4976]]
+| 
+|[[Galaksi#Eliptik|Galaksi eliptik]]
+| [[Centaurus]]
+| {{RA|13|08|37.4}}
+| {{DEC|-49|30|20}}
+| 11.2
+|-
+| [[NGC 4984|4984]]
+| 
+| [[Galaksi|Galaksi lentikular]]
+| [[Virgo]]
+| {{RA|13|08|57.3}}
+| {{DEC|-15|30|59}}
+| 12
+|-
+| [[NGC 5000|5000]]
+| 
+| [[Galaksi#Spiral|Galaksi spiral]]
+| [[Coma Berenices]]
+| {{RA|13|09|47.6}}
+| {{DEC|+28|54|23}}
+| 14.2
+|-
+|}
+
+==Referensi==
+
+{{reflist}}
+==Lihat juga ==
+* [[Daftar objek NGC]]
+* [[Daftar objek NGC 1 - 1000]]
+* [[Daftar objek NGC 1001 - 2000]]
+* [[Daftar objek NGC 2001 - 3000]]
+* [[Daftar objek NGC 3001 - 4000]]
+* [[Daftar objek NGC 5001 - 6000]]
+* [[Daftar objek NGC 6001 - 7000]]
+* [[Daftar objek NGC 7001 - 7840]]
+
+[[Kategori:Objek NGC|5]]

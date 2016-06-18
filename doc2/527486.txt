@@ -1,0 +1,47 @@
+Templat:Skuat PD1938 Cekoslowakia
+{{National squad no numbers
+ | name      = Skuat PD1938 Cekoslowakia
+ | bg        = #DD0000
+ | fg        = white
+ | bordercolor = #000080
+ | country   = Cekoslowakia
+|comp link=Piala Dunia FIFA 1938
+|comp=Piala Dunia FIFA 1938
+ | pos1  = MF | p1  = [[Jaroslav Bouek|Bouek]] 
+ | pos2  = FW | p2  = [[Vojtch Brad|Brad]] 
+ | pos3  = DF | p3  = [[Jaroslav Burgr|Burgr]] 
+ | pos4  = GK | p4  = [[Karel Burkert|Burkert]] 
+ | pos5  = DF | p5  = [[Karel ern (footballer)|ern]] 
+ | pos6  = DF | p6  = [[Ferdinand Dauk|Dauk]] 
+ | pos7  = FW | p7  = [[Vclav Hork|Hork]] 
+ | pos8  = MF | p8  = [[Karel Kolsk|Kolsk]] 
+ | pos9  = MF | p9  = [[Vlastimil Kopeck|Kopeck]] 
+ | pos10 = MF | p10 = [[Josef Kolek|Kolek]] 
+ | pos11 = FW | p11 = [[Arnot Kreuz|Kreuz]]
+ | pos12 = FW | p12 = [[Josef Ludl|Ludl]] 
+ | pos13 = FW | p13 = [[Oldich Nejedl|Nejedl]] 
+ | pos14 = MF | p14 = [[Otakar No|No]]
+ | pos15 = DF | p15 = [[Josef Orth|Orth]] 
+ | pos16 = GK | p16 = [[Frantiek Plnika|Plnika]] 
+ | pos17 = FW | p17 = [[Antonn Pu|Pu]] 
+ | pos18 = FW | p18 = [[Jan ha|ha]] 
+ | pos19 = FW | p19 = [[Oldich Rulc|Rulc]] 
+ | pos20 = FW | p20 = [[Karel Seneck|Seneck]] 
+ | pos21 = FW | p21 = [[Ladislav imnek|imnek]] 
+ | pos22 = FW | p22 = [[Josef Zeman|Zeman]] 
+ | coach            = [[Josef Meissner|Meissner]]
+}}<noinclude>[[Kategori:Templat skuat Piala Dunia FIFA 1938|Cekoslowakia]]
+[[Kategori:Templat skuat tim nasional sepak bola Cekoslowakia|1938]]
+
+
+
+
+
+
+
+
+
+
+
+
+</noinclude>

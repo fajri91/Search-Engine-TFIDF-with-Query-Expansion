@@ -1,0 +1,66 @@
+Pipet
+[[Berkas:Pipettes.jpg|jempol|kanan|350px|Berbagai macam pipet]]
+'''Pipet''', atau alat penetes [[kimia|cairan kimia]], adalah alat laboratorium yang digunakan untuk memindahkan volume cairan terukur.
+
+== Penggunaan dan keanekaragaman ==
+[[Berkas:RIAN archive 407191 Volgodonsk Nuclear Power Station.jpg|kiri|jempol|Ilmuwan menggunakan pipet di sebuah laboratorium di Rusia.]]
+
+Pipet biasa digunakan dalam pengujian-pengujian [[biologi molekular]], [[kimia analitik]], juga [[kedokteran]]. Pipet dibuat dalam berbagai macam jenis untuk tujuan yang berbeda-beda dengan tingkat ketelitian dan ketepatan yang berbeda-beda pula, mulai dari pipet beling tunggal sampai ke pipet yang dapat ditala secara kompleks, atau juga pipet elektronik. Banyak jenis pipet bekerja dengan membuat [[hampa udara|ruang hampa]] sebagian di atas ruang tampung cairan dan secara selektif melepaskan ruang hampa ini untuk menghentikan dan melepaskan cairan.
+
+Pipet yang melepaskan 1 sampai 1000 [[mikroliter|l]] cairan diistilahkan sebagai [[mikropipet]], sedangkan ''makropipet'' melepaskan volume cairan yang lebih banyak. Dua jenis mikropipet yang umum digunakan: pipet pemindahan udara dan pipet pemindahan positif. Secara khusus, pipet pemindahan udara berbantuan piston adalah mikropipet yang melepaskan volume cairan terukur dari sebuah ujung yang sekali pakai. Badan pipet memiliki sebuah penyelam, yang menyediakan alat isap untuk menarik cairan ke ujung ketika piston ditekan dan dilepaskan. Perpindahan maksimum penyelam ini diatur oleh alat tekan di atas badan pipet, memungkinkan volume kiriman dapat diubah-ubah. Pipet tabung berdaya tampung lebih besar, seperti volumetrik atau pipet graduat, digunakan secara sementara dengan menyertakan sebuah dispenser pipet.
+
+'''''Pipet jarum suntik''''' biasanya menangani volume cairan antara 0,5 ml sampai 25 ml, untuk transfer alikuot dan pelepasan tambahan pada proses titrasi, dengan suatu metode operasi pemindahan positif. Tidak ada kiat atau bantuan pemipetan sekali pakai yang diperlukan pada pipet jarum suntik.
+
+== Pipet pemindahan udara berbantuan piston ==
+[[Berkas:Single channel rack.jpg|kanan|jempol|100px|Pipet bercelah tunggal dirancang untuk menangani 1-5 ml dan 100-1.000 l dengan sistem penguncian.]]
+
+Pipet jenis ini bekerja dengan metode pemindahan [[udara]] berbantuan [[piston]]. Ruang hampa dihasilkan dengan menggerakkan piston logam atau keramik pada arah vertikal di dalam lengan yang kedap udara. Ketika piston bergerak ke atas, dikendalikan oleh penurunan penyelam, ruang hampa yang tercipta di dalam ruang itu ditinggalkan tetap kosong oleh piston. Udara dari ujung naik memenuhi sisa ruang yang kosong itu, dan udara di ujung kemudian digantikan oleh cairan, yakni dipaksa naik ke ujung dan dengan demikian menjadi tersedia untuk proses pengangkutan dan pelepasan di manapun. Pipet jenis ini memiliki kemampuan yang sangat tepat dan teliti, tetapi justru pemindahan udara menjadi faktor ketidaktelitian, yang disebabkan oleh berubahnya lingkungan, khususnya suhu dan kecakapan teknis pengguna. Untuk alasan inilah alat ini mesti dipelihara dan dikalibrasi secara saksama, dan pengguna mesti dilatih untuk menjalakan teknik yang tepat dan konsisten.
+
+Mikropipet ini ditemukan dan dipatenkan pada tahun 1960 oleh Dr. Hanns Schmitz ([[Marburg]], [[Jerman]]). Setelah itu, mitra penemu dari perusahaan bioteknologi [[Eppendorf (perusahaan)|Eppendorf]], Dr. Heinrich Netheler, mewarisi hak-hak yang melekat pada paten itu dan memulai penggunaan mikropipet secara umum dan luas di laboratorium-laboratorium di dunia. Pada tahun 1972, mikropipet yang dapat ditala ditemukan di [[Universitas WisconsinMadison]] oleh beberapa orang, terkhusus Warren Gilson dan Henry Lardy.<ref>{{Citation | last = Zinnen | first = Tom | author-link = | title = The Micropipette Story | date = June 2004 | year = | url = http://www.biotech.wisc.edu/outreach/pipettestory.html | accessdate = November 12, 2011}}</ref>
+
+Beberapa jenis pipet pemindahan udara:
+* '''yang dapat ditala''' atau '''yang tidak dapat ditala'''
+* ramah '''volume'''
+* '''bercelah tunggal''', '''bercelah banyak''' atau '''pengulang'''
+* '''berujung kerucut''' atau '''berujung silinder'''
+* '''standar''' atau '''berkunci'''
+* '''manual''' atau '''elektronik'''
+* '''untuk penggunaan industri/pabrik'''
+
+== Pipet pemindahan positif ==
+Pipet pemindahan positif adalah serupa dengan pipet pemindahan udara, tetapi jarang dipergunakan dan biasanya digunakan untuk menghindari pencemaran dan untuk senyawa-senyawa yang mudah menguap atau terlalu kental pada volume yang sedikit, seperti [[Asam deoksiribonukleat|ADN]]. Perbedaan yang besar adalah bahwa ujung sekali pakai yang digunakan merupakan sebuah jarum suntik mikro berbahan plastik, tersusun atas sebuah penyelam yang secara langsung memindahkan cairan.
+
+== Kalibrasi pipet ==
+Kalibrasi pipet<ref>[http://www.accumaximum.com/pipette_calibration.html '''Apakah arti dari kalibrasi pipet?''']</ref> adalah salah satu bagian terpenting dalam pemeliharaan baku mutu yang tinggi yang mesti dijaga oleh pihak laboratorium. Kalibrasi pipet adalah tindakan pemeriksaan atau pengaturan ulang nilai sejati alat ukur, dalam hal ini pipet, dengan cara dibandingkan dengan alat standar/tolok ukur. Kalibrasi adalah penting untuk memastikan bahwa alat yang digunakan dapat bekerja dengan benar dan baik menurut pengharapan dan berdasarkan aturan-aturan yang telah mapan atau protokol-protokol kerja lainnya. Kalibrasi pipet dipandang sebagai urusan yang rumit karena ia melibatkan banyak unsur prosedur kalibrasi dan beberapa pilihan protokol kalibrasi, juga menentukan model pipet yang dijadikan tolak ukur.
+
+=== Faktor-faktor yang perlu diperhatikan ===
+Ada banyak hal yang perlu diperhatikan pada saat kalibrasi pipet, baik itu dilakukan oleh pihak laboratorium sendiri maupun oleh pihak ketiga. Beberapa di antaranya adalah;<ref>[http://www.accumaximum.com/pipette_calibration.html Jenis-jenis kalibrasi beserta tinjauan proses]</ref> 
+* Aplikasi pelatihan operator
+* Ketelitian dan ketepatan volume cairan
+* Faktor-faktor lainnya
+
+== Pipet pasteur ==
+[[Berkas:20070422 dispensible pipett.jpg|150px|jempol|kanan|Pipet dispensabel.]]
+[[Pipet pasteur]], juga dikenal sebagai pipet pentil atau '''penetes''', adalah pipet plastik atau beling yang digunakan untuk memindahkan sedikit cairan, tetapi tidak dikalibrasi untuk suatu volume tertentu. Pipet transfer, juga disebut pipet beral, adalah serupa dengan pipet pasteur. Tetapi, mereka terbuat dari satu picis plastik dan pentolan mereka dapat berperan sebagai ruang penahan cairan.
+
+== Pipet terkecil ==
+Pipet [[zeptoliter]] telah dikembangkan di [[Brookhaven National Laboratory|Laboratorium Nasional Brookhaven]], Negara Bagian [[New York]], [[Amerika Serikat]]. Pipet ini dibuat dari cangkang karbon, yang di dalamnya merupakan [[aloi]] [[emas]]-[[germanium]]. Pipet ini digunakan untuk mempelajari kelangsungan [[kristalisasi]].<ref>{{cite news|publisher = Science News|url = http://www.sciencenews.org/articles/20070421/fob4.asp|volume = 171,|pages = 244245|title =  A New Low: Lilliputian pipette releases tiniest drops|author = Aimee Cunningham|date = 2007-04-18}}</ref>
+
+== Referensi ==
+{{reflist}}
+
+== Pranala luar ==
+{{Wiktionary|pipet}}
+{{Commons|Pipette}}
+* {{en}} [http://www.csudh.edu/oliver/demos/pipetuse/pipetuse.htm Petunjuk yang Berguna tentang Penggunaan Pipet Volumetrik] oleh Oliver Seely
+* {{en}} [http://www.youtube.com/watch?v=IRVFZJ-VLCc Sejarah Pipet] (video [[YouTube]])
+* {{en}} [http://www.pipetteuk.com/ Sejarah Pipet menurut Basis Data Paten Amerika Serikat]
+* {{it}} [http://www.pipette.it/ Sejarah Perpipetan]
+
+;Pipettes in the news:
+* [http://www.signonsandiego.com/uniontrib/20050524/news_1b24inventio.html Gugatan Hukum Gilson/Rainin]
+
+{{Peralatan lab}}
+
+[[Kategori:Peralatan laboratorium]]
+[[Kategori:Alat pengukur]]

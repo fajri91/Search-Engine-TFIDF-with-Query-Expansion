@@ -1,0 +1,3 @@
+Templat:Fb team Novara
+{{fb team |t=Novara |tan=Novara Calcio |tc=ITA |abb={{#if:{{{abb|}}}|NOV}} |oc={{#if:{{{oc|}}}|{{{oc}}} }} }}<!--
+--><noinclude>[[Kategori:Templat tim sepak bola Italia]]</noinclude>

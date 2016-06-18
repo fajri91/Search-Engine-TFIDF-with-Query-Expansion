@@ -1,0 +1,26 @@
+Berkas:Pride and Prejudice 2014 TV series-poster.jpg
+{{Dari|en}}
+== Penjelasan ==
+{{Non-free use rationale poster
+|Article           = Pride and Prejudice (serial TV 2014) 
+|Use               = Infobox
+|Media             = television drama
+<!-- ADDITIONAL INFORMATION -->
+|Name              = Pride and Prejudice
+|Distributor       = [[Munhwa Broadcasting Corporation]]
+|Publisher         = 
+|Type              = promotional poster
+|Website           = http://www.imbc.com/broad/tv/drama/op/
+|Owner             = 
+|Commentary        = 
+<!--OVERRIDE FIELDS -->
+|Description       = Promotional image for television drama series ''Pride and Prejudice''
+|Source            = 
+|Portion           = 
+|Low_resolution    = 
+|Purpose           = <!-- Must be specified if Use is not Infobox / Header / Section / Artist -->
+|Replaceability    = 
+|other_information = 
+}}
+== Lisensi ==
+{{Non-free poster|image has rationale=yes|Fair use images of television program posters}}

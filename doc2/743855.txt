@@ -1,0 +1,47 @@
+Philippe II dari Nevers
+{{ infobox nobility
+| name = Philippe II, Comte Nevers
+| image = Blason Bourgogne Nevers.svg
+| image_size = 125px
+| caption = Lambang provinsi Nevers
+| noble family = [[Wangsa Valois-Borgonha]]
+| father = [[Philippe II dari Bourgogne]]
+| mother = [[Marguerite III]]
+| spouse = Isabelle de Coucy<br/>[[Bonne dari Artois]]
+| birth_date = Oktober 1389
+| birth_place = [[Villaines-en-Duesmois]]
+| death_date = {{death date|1415|10|25|df=t}}
+| death_place = 
+}}
+
+'''Phillippe II, Comte Nevers''' (Oktober 1389, [[Villaines-en-Duesmois]] &ndash; 25 Oktober 1415, [[Azincourt|Agincourt]]) adalah putra bungsu [[Philippe II dari Bourgogne]] dan [[Marguerite III]].
+
+Ia menggantikan kakandanya, [[Jean II dari Bourgogne]] dan [[Antoine dari Brabant]], sebagai [[Daftar Penguasa Nevers|Comte Nevers]] dan [[Daftar Penguasa Rethel|Rethel]].
+
+Ia menikah di [[Soissons]] pada tanggal 9 April 1409 dengan Isabelle de Coucy (wafat 1411), putri [[Enguerrand VII dari Coucy]]. Mereka memiliki dua orang anak:
+# Philippe (1410 &ndash; 1411/set. 1415)
+# Marguerite (1411&ndash;1411/12)
+
+Ia menikah untuk yang kedua kalinya di [[Hnin-Beaumont|Beaumont-en-Artois]] pada tanggal 20 Juni 1413, dengan [[Bonne dari Artois]], putri [[Philippe dari Artois]]. Mereka memiliki dua orang putra:
+# [[Charles I dari Nevers]] (1414&ndash;1464)
+# [[Jean II dari Nevers]] (seb. 1415 &ndash; 1491)
+
+Ia juga memiliki empat orang anak haram dari beberapa gundiknya.
+
+Meskipun kakandanya posisi ambivalen Jean dan penolakan utama untuk membantu pasukan kerajaan di dalam menghadapi serangan Inggris [[Henry V dari Inggris|Henry V]] pada tahun 1415, Philippe bersama dengan pasukan Perancis di dalam [[Pertempuran Agincourt]], baik ia dan saudaranya Antoine tewas terbunuh di dalam pertempuran itu. Ia digantikan oleh putranya Charles.
+
+{{S-start}}
+{{s-hou|[[Wangsa Valois-Borgonha]]|Oktober|1389|25 Oktober|1415}}
+{{s-bef| before = [[Jean II dari Bourgogne]] }}
+{{s-ttl| title  = [[Daftar Penguasa Nevers|Comte Nevers]]
+       | years  = 14051415 }}
+{{s-aft| rows   = 2 | after  = [[Charles I dari Nevers|Charles I]] }}
+{{s-bef| before = [[Antoine dari Brabant|Antoine]] }}
+{{s-ttl| title  = [[Daftar Penguasa Rethel|Comte Rethel]]
+       | years  = 14071415 }}
+{{S-end}}
+
+[[Kategori:Kelahiran 1389]]
+[[Kategori:Kematian 1415]]
+[[Kategori:Tokoh dari Cte-d'Or]]
+[[Kategori:Comte Nevers]]

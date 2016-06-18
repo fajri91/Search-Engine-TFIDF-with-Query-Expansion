@@ -1,0 +1,14 @@
+Jurik
+Dalam [[Unix]] dan [[sistem operasi]] ''[[multitasking]]'' lainnya, '''Jurik''' atau '''Demit''' ([[bahasa Inggris|Inggris]]: ''daemon'') ([[International Phonetic Alphabet|IPA]]: {{IPA|/'demn/}} atau {{IPA|/'dimn/}}<ref>{{cite web |url=http://foldoc.org/index.cgi?query=daemon |title=Jargon File entry for daemon |last=Raymond |first=Eric |accessdate=11 Maret |accessyear=2007 |work=The Jargon File }}</ref>) adalah [[program komputer]] yang berjalan di [[latar belakang (komputer)|latar belakang]] (berlawanan dengan program yang dapat dikontrol langsung) yang melakukan beberapa tugas tanpa intervensi dari pengguna. Demit pada umumnya dimulai pada saat [[booting|proses ''booting'']] sebagai [[proses komputer|proses]], seperti halnya perangkat lunak lainnya. Contoh dari Demit adalah ''[[telnet|telnet daemon]]'', yang terus berjalan di latar belakang, dan menunggu permintaan koneksi dari pengguna klien telnet. Telah menjadi konsensus untuk memberi nama suatu Demit dengan nama yang diakhiri oleh huruf "d" (diambil dari huruf pertama ''daemon''), contohnya <tt>syslogd</tt>, Demit yang menangani log sistem; <tt>sshd</tt>, Demit yang menangani koneksi [[Secure Shell|SSH]]), dan juga <code>HTTPd</code> yang merupakan Demit yang menjawab permintaan dari klien yang dilakukan melalui penjelajah Web.
+
+Dalam lingkungan [[sistem operasi bertipe UNIX]], proses ''parent'' dari sebuah Demit adalah [[init]] (PPID=1). Demit, pada umumnya menggunakan protokol ''[[Remote Procedure Call]]'' (RPC) untuk membuka koneksi dengan klien.
+
+== Windows ==
+Dalam keluarga [[Windows]], ''[[windows service|service]]'' memiliki konsep yang sama dengan ''daemon''. ''Service'' berjalan sebagai sebuah [[proses komputer|proses]], umumnya tidak berinteraksi dengan [[papan kunci]], [[monitor]] dan [[tetikus]], serta pada umumnya prosesnya dimulai pada saat ''[[booting]]''.
+
+== Referensi ==
+{{reflist}}
+
+{{software-stub}}
+
+[[Kategori:Perangkat lunak sistem]]

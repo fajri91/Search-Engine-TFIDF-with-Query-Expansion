@@ -1,0 +1,13 @@
+Templat:User ar-2
+{{Babel-box
+| level         = 2
+| id            = [[Bahasa Arab|ar]]
+| info          =    '''[[:Kategori:User ar-2|]]'''  '''[[:Kategori:User ar|]]'''.
+| text-align    = right
+| userkategori  = User ar
+| userkategori2 = User ar-2
+}}<noinclude>
+{{Babel-bar|ar}}
+[[Kategori:Templat Babel|ar-2]]
+
+</noinclude>

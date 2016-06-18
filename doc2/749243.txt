@@ -1,0 +1,57 @@
+Templat:Pemerintahan Israel
+{{Navbox
+| name       = Pemerintahan Israel
+| bodyclass  = hlist
+| title      = [[Pemerintahan Israel ke-33|Pemerintahan Israel]]
+| groupstyle = text-align:center;
+| above      = [[Perdana Menteri Israel|Perdana Menteri]]: [[Benjamin Netanyahu]]
+
+| group1     = [[Kabinet Israel|Menteri]]
+| list1      = 
+*[[Yitzhak Aharonovich]] <small>([[Kementerian Keamanan Masyarakat (Israel)|Keamanan Masyarakat]])</small>
+*[[Uri Ariel]] <small>([[Kementerian Perumahan dan Pembangunan|Perumahan dan Pembangunan]])</small>
+*[[Naftali Bennett]] <small>([[Kementerian Industri, Perdagangan, dan Tenaga Kerja|Ekonomi]]; [[Menteri Diplomasi Publik dan Diaspora Israel|Yerusalem dan Diaspora]]; [[Kementerian Urusan Keagamaan|Urusan Keagamaan]])</small>
+*[[Meir Cohen (politikus)|Meir Cohen]] <small>([[Kementerian Kesejahteraan dan Layanan Sosial|Kesejahteraan dan Layanan Sosial]])</small>
+*[[Gilad Erdan]] <small>([[Kementerian Komunikasi (Israel)|Komunikasi]]; [[Kementerian Pertahanan Dalam Negeri|Pertahanan Dalam Negeri]])</small>
+*[[Yael German]] <small>([[Kementerian Kesehatan (Israel)|Kesehatan]])</small>
+*[[Yisrael Katz (politikus 1955)|Yisrael Katz]] <small>([[Kementerian Transportasi, Infrastruktur Nasional, dan Keselamatan Jalan|Transportasi]])</small>
+*[[Uzi Landau]] <small>([[Kementerian Pariwisata (Israel)|Pariwisata]])</small>
+*[[Sofa Landver]] <small>([[Kementerian Penyerapan Imigran|Penyerapan Imigran]])</small>
+*[[Yair Lapid]] <small>([[Kementerian Keuangan (Israel)|Keuangan]])</small>
+*[[Limor Livnat]] <small>([[Kementerian Kebudayaan dan Olahraga|Kebudayaan dan Olahraga]])</small>
+*[[Tzipi Livni]] <small>([[Kementerian Kehakiman (Israel)|Kehakiman]])</small>
+*[[Avigdor Lieberman]] <small>([[Kementerian Luar Negeri (Israel)|Luar Negeri]])</small>
+*[[Uri Orbach]] <small>([[Kementerian Urusan Pensiun Israel|Urusan Pensiun]])</small>
+*[[Amir Peretz]] <small>([[Kementerian Pelestarian Lingkungan (Israel)|Pelestarian Lingkungan]])</small>
+*[[Yaakov Peri]] <small>([[Menteri Sains, Teknologi, dan Luar Angkasa Israel|Sains, Teknologi, dan Luar Angkasa]])</small>
+*[[Shai Piron]] <small>([[Kementerian Pendidikan (Israel)|Pendidikan]])</small>
+*[[Gideon Sa'ar]] <small>([[Menteri Dalam Negeri Israel|Dalam Negeri]])</small>
+*[[Silvan Shalom]] <small>([[Kementerian Pembangunan Negev dan Galilea|Pembangunan Negev dan Galilea]]; [[Kementerian Energi dan Sumber Daya Air|Energi dan Sumber Daya Air]]; [[Menteri Kerja Sama KawasanIsrael|Kerja Sama Kawasan]])</small>
+*[[Yair Shamir]] <small>([[Kementerian Pertanian dan Pembangunan Desa (Israel)|Pertanian dan Pembangunan Desa]])</small>
+*[[Yuval Steinitz]] <small>([[Menteri Intelijen Israel|Intelijen]]; [[Menteri Urusan Strategis Israel|Urusan Strategis]])</small>
+*[[Moshe Ya'alon]] <small>([[Kementerian Pertahanan (Israel)|Pertahanan]])</small>
+
+| group2     = Wakil<br />Menteri
+| list2      = 
+*[[Ofir Akunis]] <small>([[Menteri di Kantor Perdana Menteri]])</small>
+*[[Eli Ben-Dahan]] <small>([[Kementerian Urusan Keagamaan|Urusan Keagamaan]])</small>
+*[[Ze'ev Elkin]] <small>([[Kementerian Luar Negeri (Israel)|Luar Negeri]])</small>
+*[[Tzipi Hotovely]] <small>([[Kementerian Transportasi, Infrastruktur Nasional, dan Keselamatan Jalan|Transportasi]])</small>
+*[[Faina Kirschenbaum]] <small>([[Menteri Dalam Negeri Israel|Dalam Negeri]])</small>
+*[[Mickey Levy]] <small>([[Kementerian Keuangan (Israel)|Keuangan]])</small>
+*[[Avi Wortzman]] <small>([[Kementerian Pendidikan (Israel)|Pendidikan]])</small>
+
+| below      =
+*Lihat pula: [[Pemilihan umum legislatif Israel 2013|Pemilihan umum Knesset 2013]]
+*[[Daftar anggota Knesset ke-19|Anggota Knesset saat ini]]
+}}<noinclude>
+{{-}}
+{{collapsible option}}
+
+== Lihat pula ==
+* {{Tl|Anggota Knesset}}
+* {{Tl|Daftar pemerintahan Israel}}
+* {{Tl|Kabinet Israel}}
+
+[[Category:Kotak navigasi pemimpin politik Israel|*]]
+</noinclude>

@@ -1,0 +1,62 @@
+Kapal patroli Chiyodagata
+{{italic title prefixed|16}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[Berkas:Chiyodagata.jpg|300px|Kapal patroli Chiyoda{{r|IJN}}]]
+|Ship caption=
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=Jepang
+|Ship flag={{shipboxflag|Jepang|angkatan laut}}
+|Ship name=''Chiyoda''{{r|IJN}}
+|Ship namesake=
+|Ship ordered=
+|Ship builder= [[Perusahaan IHI|Ishikawajima]]
+|Ship laid down=7 Mei 1861
+|Ship launched=2 Juli 1863{{r|IJN}}
+|Ship acquired=Aslinya Mei 1868{{r|IJN}}
+|Ship commissioned= 
+|Ship decommissioned=28 Januari 1888
+|Ship in service=
+|Ship out of service=Stricken Juni 1869
+|Ship homeport=
+|Ship honours=
+|Ship fate= Scrapped 1911 atau setelahnya{{r|IJN}}
+|Ship status=
+|Ship notes=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class=
+|Ship displacement={{convert|140|LT|t|0|abbr=on}}
+|Ship length={{convert|29.7|m|ftin|abbr=on}} [[Length between perpendiculars|p/p]]<br />{{convert|31.3|m|ftin|abbr=on}} [[Length at the waterline|w/l]]
+|Ship beam={{convert|4.8|m|ftin|abbr=on}}
+|Ship draught= {{convert|2|m|ftin|abbr=on}}
+|Ship draft=
+|Ship propulsion=Coal-fired reciprocating steam engine, {{convert|60|hp|abbr=on}}<br />1 shaft
+|Ship sail plan= 
+|Ship speed={{convert|5|kn|mph km/h|lk=in}}
+|Ship range=
+|Ship complement=35
+|Ship armament= 1  {{convert|150|mm|in|0|abbr=on}} gun<br/ > 2  alat tembak kecil
+|Ship armour=
+|Ship notes=
+}}
+|}
+{{nihongo|'''''Chiyoda{{r|IJN}}'''''||Chiyodagata}} adalah sebuah [[kapal patroli]] dari Angkatan Laut [[Keshogunan Tokugawa|Tokugawa]], dan kapal perang steam yang dibuat domestik pertama di Jepang (kapal steam pertama Jepang adalah {{nihongo|''Unkmaru''|||}} yang dibuat di [[Domain Satsuma|Satsuma]] pada 1855). Kapal tersebut merupakan kapal patroli kayu kelas ke-3{{r|IJN}} dan direncanakan untuk dibuat pada 7 Mei 1861, dan mulai dikerjakan pada 2 Juli 1863 oleh pembangun kapal, dan raksasa industri pada masa depan, [[Perusahaan IHI|Ishikawajima]].
+
+Diselesaikan pada Mei 1866,{{r|IJN}} kapal tersebut terlibat dalam konflik [[Perang Boshin]] dengan para loyalis [[Bakufu]], melawan [[Angkatan Darat Kekaisaran Jepang|Angkatan Darat Kekaisaran]] yang baru dibentuk. Kapal tersebut direbut saat [[Pertempuran Angkatan Laut Teluk Hakodate]]. Pada Mei 1868, kapal tersebut dirombak oleh pemerintah Jepang, kemudian direbut oleh para pemberontak pada 4 Oktober 1868. Direbut kembali oleh pemerintah Jepang, kapal tersebut akhirnya digunakan oleh angkatan laut pada Juni 1869.
+
+==Referensi==
+{{Reflist|refs=
+<ref name=IJN>{{cite book|author=Jentschura, Hansgeorg; Dieter Jung, Peter Mickel|title=Warshps of the Imperial Japanese Navy, 1869-1945.|publisher=United States Naval Institute|place=Annapolis, Maryland|year=1977|ISBN=0-87021-893-X|page=113}}</ref>
+}}
+
+{{clear}}
+
+{{DEFAULTSORT:Chiyodagata}}
+[[Kategori:Kapal patroli Angkatan Laut Kekaisaran Jepang]]
+[[Kategori:Kapal 1863]]
+[[Kategori:Kapal Angkatan Laut the Tokugawa]]

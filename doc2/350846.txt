@@ -1,0 +1,16 @@
+Wikipedia:Gambar pilihan/2 2011
+{{GP/2
+|gambar     = Fulmer Falls Closeup 3000px.jpg
+|vertikal   = n
+|deskripsi  = [[Air terjun Fulmer]] di [[Tempat Rekreasi George W. Childs]], [[Pennsylvania]], [[Amerika Serikat]]
+|oleh       = [[:en:User:Ram-Man|Derek Ramsey]]
+|pengunggah = 
+|penyunting = AzaToth
+|lisensi    = {{GP-GNU|1,2}}
+|ukuran     = 7,88 MB
+|dimensi    = 3.000  2.400
+|tahun      = 2011
+|seluler    = {{{seluler|no}}}
+|sblm       = Elakala Waterfalls Swirling Pool Mossy Rocks.jpg
+|des-sblm   = Air terjun Elakala
+}}<noinclude>{{GPdoc|2 2011}}</noinclude>

@@ -1,0 +1,14 @@
+Berkas:TN Bantimurung Bulusaraung nama.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+Tulisan nama Taman Nasional Bantimurung Bulusaraung di dinding tebing sebelum masuk lokasi wisata
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{GFDL-self}}

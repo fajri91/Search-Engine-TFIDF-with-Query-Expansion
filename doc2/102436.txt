@@ -1,0 +1,24 @@
+Templat:Tenggarong, Kutai Kartanegara
+{{Navigasi ID Desa 
+|provinsi=Kalimantan Timur 
+|dati2=Kabupaten 
+|nama dati2=Kutai Kartanegara
+|nama kecamatan=Tenggarong
+|d1=Bendang Raya
+|d2=Rapak Lambur
+|k1=Baru
+|k2=Bukit Biru
+|k3=Jahab
+|k4=Loa Ipuh
+|k5=Loa Ipuh Darat
+|k6=Loa Tebu
+|k7=Maluhu
+|k8=Mangkurawang
+|k9=Melayu
+|k10=Panji
+|k11=Sukarame
+|k12=Timbau
+}}<noinclude>
+[[Kategori:Templat desa/kelurahan di Kalimantan Timur|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Kutai Kartanegara|{{PAGENAME}}]]
+</noinclude>

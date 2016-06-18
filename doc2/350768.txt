@@ -1,0 +1,21 @@
+Templat:Bandongan, Magelang
+{{Navigasi ID Desa |provinsi=Jawa Tengah|dati2=Kabupaten |nama dati2=Magelang
+|nama kecamatan=Bandongan
+|d1=Bandongan
+|d2=Banyuwangi
+|d3=Gandusari
+|d4=Kalegen
+|d5=Kebonagung
+|d6=Kedungsari
+|d7=Ngepanrejo
+|d8=Rejosari
+|d9=Salamkanci
+|d10=Sidorejo
+|d11=Sukodadi
+|d12=Sukosari
+|d13=Tonoboyo
+|d14=Trasan
+}}<noinclude>
+[[Kategori:Templat desa/kelurahan di Jawa Tengah|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Magelang|{{PAGENAME}}]]
+</noinclude>

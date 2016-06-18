@@ -1,0 +1,38 @@
+Monoterpena
+'''Monoterpena''' adalahkelompok [[terpena]] yang terdiri dari dua unit [[isoprena]] dan mempunyai rumus molekulC<sub>10</sub>H<sub>16</sub>. Monoterpena dapat berupa linear (asiklik) atau mengandung cincin. Modifikasi biokimia seperti [[oksidasi]] atau [[reaksi rearrangement]] menghasilkan '''monoterpenoid''' yang sesuai.
+
+== Monoterpena asiklik ==
+Secara biosintetis, [[isopentenil pirofosfat]] dan [[dimetilalil pirofosfat]] dapat bergabung membentuk [[geranil pirofosfat]].
+[[Berkas:Geranyl_pyrophosphate.png|none|thumb|300x300px|Geranil pirofosfat]]
+[[Berkas:Myrcen.png|right|thumb|109x109px|Mircena, suatu monoterpena]]
+Eliminasi gugus pirofosfat memicu pembentukan monoterpena asiklik seperti [[ocimena]] dan [[myrcena]]. Hidrolisis gugus fosfat akan memicu pembentukan monoterpenoid asiklik prototypical yaitu [[geraniol]].<div>Adisi rearrangement dan oksidasi akan menghasilkan [[citral]], [[citronelal]], [[citronelol]], [[linalool]], dan sebagainya. Kebanyakan monoterpena yang ditemukan dalam organisme laut umumnya [[Halogen|terhalogenasi]] seperti [[halomon]].</div>
+
+== Monoterpena monosiklik ==
+Unit isoprena dapat membuat hubungan untuk membuat cincin. Ukuran cincin yang paling umum pada monoterpena adalah cincin heksagonal. Contoh klasik adalah siklisasi geranil pirofosfat menjadi [[limonena]].
+
+[[Berkas:LimoneneBiosynthesis.svg|600x600px]]
+
+[[Terpinena]], [[fellandrena]], dan [[terpinolena]] terbentuk dengan cara yang sama. [[Hidroksilasi]] senyawa ini diikuti dengan dehidrasi dapat membentuk senyawa aromatik [[p-cimena]]. Terpenoid penting diturunkan dari terpena monosiklik adalah [[mentol]], [[timol]], [[carvacrol]] dan sebagainya.
+
+== Monoterpena bisiklik ==
+Geranil pirofosfat dapat terbentuk dari dua seri reaksi siklisasi membentuk monoterpena bisiklik, seperti [[pinena]] yang merupakan konstituen utama dari [[resin pinus]].
+
+[[Berkas:PineneBiosynthesis.png|600x600px]]
+
+Monoterpena bisiklik lainnya antara lain [[Karena|carena]], [[sabinena]], [[Kamfena|camfena]], dan [[tujena]]. [[Camfor]], [[borneol]] dan [[eukaliptol]] adalah contoh monoterpenoid bisiklik yang mengandung gugus fungsional keton, alkohol, dan eter.
+
+== Peran dalam cuaca ==
+Monoterpena diemisikan oleh hutan dan membentuk aerosol yang dapat bertindak selaku inti kondensasi awan (''cloud condensation nuclei, CCN''). Aerosol semacam ini dapat meningkatkan kecerahan awan dan mendinginkan iklim.<ref>{{Templat:Cite journal|author = D. V. Spracklen, B. Bonn, K. S. Carslaw|year = 2008|title = Boreal forests, aerosols and the impacts on clouds and climate|journal = [[Philosophical Transactions of the Royal Society A]]|doi = 10.1098/rsta.2008.0201|url = http://homepages.see.leeds.ac.uk/~eardvs/papers/spracklen08c.pdf|pmid = 18826917|volume = 366|issue = 1885|pages = 461326|bibcode = 2008RSPTA.366.4613S}}</ref>
+
+== Penggunaan ==
+Beberapa monoterpena mempunyai aktivitas antibakteri, seperti linalool.
+
+== Lihat juga ==
+* [[seskuiterpena]]
+* [[diterpena]]
+* [[triterpena]]
+
+== Referensi ==
+{{Reflist}}
+
+[[Kategori:Monoterpena]]

@@ -1,0 +1,16 @@
+Templat:Kota Tanjungpinang
+{{Navbox
+| name = Kota Tanjungpinang
+| listclass = hlist
+| title =[[Kota Tanjungpinang]], [[Kepulauan Riau]]
+| image = [[Berkas:Lambang_Kota_Tanjung_Pinang.gif|30px|Lambang Kota Tanjungpinang]]
+| group1 = Kecamatan
+| list1 = <div><!--
+-->[[Bukit Bestari, Tanjung Pinang|Bukit Bestari]] {{}} <!--
+-->[[Tanjungpinang Barat, Tanjungpinang|Tanjungpinang Barat]] {{}} <!--
+-->[[Tanjungpinang Kota, Tanjungpinang|Tanjungpinang Kota]] {{}} <!--
+-->[[Tanjungpinang Timur, Tanjungpinang|Tanjungpinang Timur]]<!--
+--></div>
+}}<noinclude>
+[[Kategori:Templat kecamatan Indonesia|Tanjungpinang, Kota]]
+</noinclude>

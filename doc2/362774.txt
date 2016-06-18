@@ -1,0 +1,18 @@
+Templat:Hili Serangkai, Nias
+{{Navigasi ID Desa
+|provinsi=Sumatera Utara
+|dati2=Kabupaten
+|nama dati2=Nias
+|nama kecamatan=Hili Serangkai
+|d1=Dahadano Botombawo
+|d2=Fadoro Hunogoa
+|d3=Fulolo Lalai
+|d4=Lalai I
+|d5=Lalai II
+|d6=Lawa Lawa
+|d7=Lolofaoso Lalai
+|d8=Lolowua
+}}<noinclude>
+[[Kategori:Templat desa/kelurahan di Sumatera Utara|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Nias|{{PAGENAME}}]]
+</noinclude>

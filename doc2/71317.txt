@@ -1,0 +1,14 @@
+Templat:Leuwisari, Tasikmalaya
+{{Navigasi ID Desa |provinsi=Jawa Barat |dati2=Kabupaten |nama dati2=Tasikmalaya
+|nama kecamatan=Leuwisari
+|d1=Arjasari
+|d2=Ciawang
+|d3=Cigadog
+|d4=Jayamukti
+|d5=Linggamulya
+|d6=Linggawangi
+|d7=Mandalagiri
+}}<noinclude>
+[[Kategori:Templat desa/kelurahan di Jawa Barat|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Tasikmalaya|{{PAGENAME}}]]
+</noinclude>

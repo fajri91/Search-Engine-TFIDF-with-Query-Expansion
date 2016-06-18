@@ -1,0 +1,58 @@
+Sinema Argentina
+{{Infobox cinema market
+| name                 = Sinema Argentina
+| image                = Actrices argentinas.jpg
+| image_size           =
+| alt                  =
+| caption              = Aktris Argentina ikonik pada [[Festival Film Internasional Berlin]] 1961: [[Isabel Sarli]], [[Olga Zubarry]], [[Tita Merello]] dan [[Mirtha Legrand]].
+| screens              = 792 (2011)<ref name=screens_uis>{{cite web|title=Table 8: Cinema Infrastructure - Capacity|url=http://stats.uis.unesco.org/unesco/TableViewer/tableView.aspx?ReportId=5542|publisher=UNESCO Institute for Statistics|accessdate=5 November 2013}}</ref>
+| screens_per_capita   = 2.2 per 100,000 (2011)<ref name=screens_uis/>
+| distributors         = {{br separated entries|[[United International Pictures]] 23.7%|[[The Walt Disney Company]] 22.4%|[[Warner Bros.]] 16.2%}}<ref name=distributors_uis>{{cite web|title=Table 6: Share of Top 3 distributors (Excel)|url=http://stats.uis.unesco.org/unesco/ReportFolders/reportFolders.aspx|publisher=UNESCO Institute for Statistics|accessdate=5 November 2013}}</ref>
+| produced_year        = 2005-2009
+| produced_ref         = <ref name=prod_avg_uis>{{cite web|title=Average national film production|url=http://www.uis.unesco.org/culture/Documents/average-film-production-2009.xls|publisher=UNESCO Institute for Statistics|accessdate=5 November 2013}}</ref>
+| produced_total       = 52 (rata-rata)
+| produced_fictional   =
+| produced_animated    =
+| produced_documentary =
+| admissions_year      = 2012
+| admissions_ref       = <ref name=sinca>{{cite web|title=Estadsticas Culturales|url=http://sinca.cultura.gob.ar/sic/estadisticas/|publisher=Sistema de Informacin Cultural de la Argentina|accessdate=22 March 2015}}</ref>
+| admissions_total     = 46,386,856
+| admissions_national  = 4,347,481 (9.4%)
+| box_office_year      = 2012
+| box_office_ref       = <ref name=sinca/>
+| box_office_total     = [[peso Argentina|ARS]] {{Format price|1305332697}}
+| box_office_national  = ARS {{Format price|111205543}} (8.5%)
+}}
+'''Sinema Argentina''' merujuk kepada [[industri film]] yang berbasis di [[Argentina]]. Sinema Argentina terdiri dari seni rupa film dan film-film kreatif yang dibuat di negara Argentina atau oleh pembuat film Argentina di luar negeri.
+
+Dalam sejarah, industri film Argentina adalah salah satu dari tiga sinema yang paling berkembang pada [[sinema Amerika Latin]], bersama dengan film-film yang dibuat di [[Sinema Meksiko|Meksiko]] dan [[Sinema Brasil|Brasil]].<ref>Carl J. Mora, "[http://books.google.com.ar/books?id=pOwdFIQiTv8C&pg=PA196&dq=%22for+instance+in+argentina,+along+with+brazil,+the+other+major+Latin+American+film-proucing+country%22&hl=es&sa=X&ei=J5gwT5PcF8XLtgfQu8irBw&ved=0CDEQ6AEwAA#v=onepage&q=%22for%20instance%20in%20argentina%2C%20along%20with%20brazil%2C%20the%20other%20major%20Latin%20American%20film-proucing%20country%22&f=false Mexican cinema: reflections of a society, 1896-1980]" (1982) ISBN 0-520-04304-9</ref><ref>[http://www.argentina.ar/_es/cultura/cine/index.php Argentina - Cultura - Cine] ([[Spanish language|Spanish]]) by [http://www.argentina.ar Argentina.ar], October 16, 2011</ref> Pada abad ke-20, produksi film di Argentina, yang didukung oleh negara dan karya dari sebagian besar [[:Kategori:Sutradara film Argentina|sutradara]] dan [[:Kategori:Aktor Argentina|aktor]], menjadi salah satu industri film utama di [[Hispanofon|negara-negara pemakai bahasa Spanyol]].
+
+Argentina telah memenangkan empat belas [[Penghargaan Goya untuk Film Berbahasa Spanyol Terbaik]], yang membuat negara tersebut menjadi negara dengan penghargaan terbanyak pada acara tersebut. Negara tersebut juga merupakan satu-satunya negara Amerika Latin yang telah memenangkan [[Academy Award untuk Film Berbahasa Asing Terbaik|Academy Awards]], seperti yang terjadi pada film ''[[The Official Story]]'' (1985) dan ''[[The Secret in Their Eyes]]'' (2009).<ref>{{cite web|url=http://www.imdb.com/title/tt1305806/awards|title=Academy Award for Best Foreign Language Film|publisher=IMDb.com|accessdate=2015-05-18}}</ref>
+
+== Perusahaan film Argentina ==
+* EMB Entertainment, Corp. / Contrakultura
+* [[Aleph Producciones]]
+* [[Aqua Films]]
+* [[Argentina Sono Film]]
+* [[BD Cine]]
+* [[INCAA]]
+* [[Patagonik Film Group]]
+* [[Pol-ka]]
+
+== Referensi ==
+{{Reflist|colwidth=30em}}
+
+== Pranala luar ==
+* [http://www.soundsandcolours.com/articles/argentina/buenos-aires-blues-five-must-see-argentine-films/ Buenos Aires Blues: Five Must-See Argentine Films]
+* [http://cineargentino-online.blogspot.co.uk/search Cineargentino]
+* [http://www.imdb.com/title/tt1305806/awards Argentine Cinema Awards]
+* [http://www.surdelsur.com/cine/cinein/indexingles.html Brief Argentine Cinema History]
+* [http://www.documentary.org/content/politics-and-poetics-brief-history-argentine-documentary-cinema Argentine Documentary Cinema]
+* [http://www.cine.ar/index_en.php Official promotion portal for argentine cinema ] (Spanyol)
+* [http://www.cinenacional.com/notas/index.php?nota=300 Sejarah sinema independen Argentina] (Spanyol)
+* [http://www.incaa.gov.ar/index.php?mod=FLargometrajes&acc=historia Sejarah sinema di Argentina] di INCAA. (dalam [[bahasa Spanyol]])
+
+{{Sinema dunia}}
+
+[[Kategori:Budaya Argentina]]
+[[Kategori:Sinema Argentina| ]]

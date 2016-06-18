@@ -1,0 +1,10 @@
+Templat:Agama Buddha di Eropa
+{{Europe topic
+|name           = Agama Buddha di Eropa
+|prefix         = Agama Buddha di
+|countries_only = yes
+}}<noinclude>
+
+[[Kategori:Templat agama Buddha|{{PAGENAME}}]]
+[[Kategori:Templat daftar yang berkaitan dengan Eropa|{{BASEPAGENAME}}]]
+</noinclude>

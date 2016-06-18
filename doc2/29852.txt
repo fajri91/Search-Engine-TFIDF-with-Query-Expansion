@@ -1,0 +1,129 @@
+Provinsi La Rioja (Argentina)
+{{Geobox|Province
+|name = La Rioja
+|flag = Flag of La Rioja province in Argentina.svg
+|symbol_type = Coat of arms
+|symbol = Coat of arms of La Rioja province.png
+|coordinates_type =
+|lat_d =  |lat_m =  |lat_NS = S
+|long_d =  |long_m =  |long_EW = W
+|part_type = Division
+|part = 18 [[Departments of Argentina|departments]]
+|capital = [[La Rioja]]
+|area = 89680
+|population = 289983
+|population_as_of = 2001
+|population_density = 3.23
+|leader_type = Gubernur
+|leader = [[Luis Beder Herrera]]
+|leader1_type = Senator
+|leader1 = [[Ada Maza]], [[Carlos Menem]], [[Teresita Quintela]]
+|free_type = Bangsa
+|free = ''Riojano''
+|map = Provincia de La Rioja (Argentina).svg
+|iso_code = AR
+|iso_subcode = F
+|website = http://www.larioja.gov.ar
+}}
+'''La Rioja''' ({{IPA-es|la rjoxa}}) adalah sebuah [[Provinsi]] di [[Argentina]] yang terletak di sebelah timur laut negara ini. Provinsi ini berbatasan di timur lautnya dengan [[Chili]], di barat dengan Provinsi [[Provinsi San Juan|San Juan]], di selatan dengan [[Provinsi San Luis|San Luis]], di timur dengan [[Provinsi Crdoba (Argentina)|Crdoba]] dan di utara dengan [[Provinsi Catamarca|Catamarca]].
+
+<!--== Historia ==
+Conjuntamente con los actuales territorios de Jujuy, Salta, Tucumn, Catamarca, Santiago del Estero y Crdoba formaban la '''gobernacin de Tucumn'''. En 1630 hubo un alzamiento de los indios [[calchaqu]]es que fuera sofocado por el gobernador Albornoz. En 1783 fue creada la '''Intendencia de Crdoba''', con jurisdiccin sobre La Rioja. Un censo de esta zona ordenado por el virrey de Sobremonte dio como resultado que haba 9.887 habitantes. El cabildo local apoy la [[Revolucin de Mayo]] y a la [[Primera Junta]]. En 1820 logra la autonoma de las autoridades cordobesas. Esta provincia se adhiri a la [[Confederacin Argentina]] de 1854. 
+
+== Geografa ==
+Se encuentra situada en el centro-oeste del pas. Se encuentra dentro de la regin geogrfica denominada [[Sierras Pampeanas]]. En el noreste, cerca del lmite con Catamarca se encuentra el monte Pissis, de 6.882 m, el mayor de la provincia.
+Presenta tres reas diferentes: 
+#Al oeste, la Cordillera de los [[Andes]], teniendo las alturas mayores en el cerro Bonete Chico, de 6759 m y el cerro El Potro, de 5879 m.
+#Paralela a la anterior est la precordillera.
+#Al este, sierras menores como las de Famatina, Velasco, de los Llanos, Malanzn, Chepes o de las Minas. 
+
+=== Clima y vegetacin===
+El clima es semirido, con escasa humedad y fuerte radiacin solar. En las zonas bajas los veranos son muy calurosos y los inviernos son cortos, con bajas temperaturas. Las precipitaciones no superan los 200 mm anuales. Crece vegetacin xerfila. En la regin oriental donde hay ms lluvias crece el [[prosopis|algarrobo]], el [[molle]] y el [[mistol]].
+
+=== Recursos hdricos ===
+
+Los ros de la provincia son temporarios, como el Bermejo. Este atraviesa la regin precordillerana. 
+
+=== Economa ===
+
+A partir de la dcada de 1980 se instalaron plantas textiles, fbricas de envases, de juguetes, de artculos elctricos y electrnicos. Con el levantamiento del rgimen de promocin industrial muchas de estas fbricas cerraron, mostrando una leve recuperacin varios aos despus. 
+
+Agricultura: El principal cultivo es la vid. En menor proporcin se cultiva el nogal, oliva, jojoba, frutas y hortalizas. 
+
+Industria: Fabricacin de vinos, produccin de nueces y aceitunas, y de cueros. 
+
+Ganadera: Principalmente de bovinos y caprinos. 
+
+===Geografa poltica ===
+
+==== Divisin administrativa ====
+La provincia se encuentra dividida en 18 departamentos. La Constitucin provincial fue sancionada en 1855, con modificaciones en 1866. Una nueva constitucin fue sancionada en 1986 y modificada en 1998. A diferencia de la mayora de las provincias argentinas, en Mendoza los departamentos y los municipios son lo mismo, puede consultar una lista similar en la [[lista de municipios de La Rioja (Argentina)|lista de municipios de La Rioja]].-->
+[[Berkas:La Rioja province (Argentina), departments and capital.png|thumb|300px|Wilayah politik Provinsi La Rioja dengan ibu kotanya]]
+{| class = "wikitable"
+|-
+! Departamento
+! Ibu kota 
+|-----
+| [[Arauco (departamento)|Arauco]] || [[Aimogasta]]
+|-----
+| [[Capital (departamento, La Rioja)|Capital]] || [[La Rioja]]
+|-----
+| [[Castro Barros (departamento)|Castro Barros]] || [[Aminga]]
+|-----
+| [[Chamical (departamento)|Chamical]] || [[Chamical]]
+|-----
+| [[Chilecito (departamento)|Chilecito]] || [[Chilecito]]
+|-----
+| [[Coronel Felipe Varela (departamento)|Coronel Felipe Varela]] || [[Villa Unin]]
+|-----
+| [[Famatina (departamento)|Famatina]] || [[Famatina]]
+|-----
+| [[Departamento General ngel V. Pealoza|General ngel V. Pealoza]] || [[Tama (La Rioja)|Tama]]
+|-----
+| [[General Belgrano (departamento, La Rioja)|General Belgrano]] || [[Olta]]
+|-----
+| [[General Juan Facundo Quiroga (departamento)|General Juan Facundo Quiroga]] || [[Malanzn]]
+|-----
+| [[General Lamadrid (departamento)|General Lamadrid]] || [[Villa Castelli]]
+|-----
+| [[General Ocampo (departamento)|General Ocampo]] || [[Villa Santa Rita de Catuna]]
+|-----
+| [[General San Martn (departamento, La Rioja)|General San Martn]] || [[Ulapes]]
+|-----
+| [[Independencia (departamento, La Rioja)|Independencia]] || [[Patqua]]
+|-----
+| [[Rosario Vera Pealoza (departamento)|Rosario Vera Pealoza]] || [[Chepes]]
+|-----
+| [[San Blas de los Sauces (departamento)|San Blas de los Sauces]] || [[San Blas (La Rioja)|San Blas]]
+|-----
+| [[Sanagasta (departamento)|Sanagasta]] || [[Villa Sanagasta]]
+|-----
+| [[Vinchina (departamento)|Vinchina]] || [[Villa San Jos de Vinchina]]
+|}
+
+==== Kota-kota utama ====
+* La Rioja (ibu kota)
+* Chilecito
+* Aimogasta
+* Chamical
+* Chepes
+* Villa Union
+* Nonogasta
+* Famatina
+
+=== Olah raga ===
+* Sepak bola: Klub-klub terpentingnya adalah [[Club Andino]] dan [[Club Independiente (dari La Rioja)]].
+* Bola basket: Klub-klub terpentingnya adalah [[Club Andino]] dan [[Club Amancay]].
+
+<!--== Pariwisata ==
+Keindahan alam provinsi ini merupakan daya tarik untuk pariwisata. Sebagian dari pusat pariwisata yang utama terdapat di Chilecito, di kaki pie del majestuoso macizo de Famatina; en Nonogasta, en el valle del ro Grande o de los Sauces, y en Villa Unin, desde donde se accede al [[Parque Nacional Talampaya]] que, por su valor paisajstico y paleontolgico, ha sido declarado [[Patrimonio de la Humanidad]] por la [[UNESCO]] -->
+
+== Pranala luar ==
+* [http://www.argentour.com/mapas/lariojamap.html Mapa de la provincia de La Rioja]
+* [http://www.larioja.gov.ar Sitio oficial del gobierno provincial]
+* [http://www.larioja.gov.ar/turismo/ Turismo en La Rioja]
+* [http://www.unlar.edu.ar/ Universidad Nacional de La Rioja]
+
+{{Provinces of Argentina}}
+
+[[Kategori:Provinsi di Argentina|La Rioja, Argentina]]

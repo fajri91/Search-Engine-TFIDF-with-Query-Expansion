@@ -1,0 +1,30 @@
+Delapan Rusa Cakar Jaguar
+{{Infobox Person
+|name        = Delapan Rusa Cakar Jaguar
+|image       = Oaxaca ocho venado.png
+|caption     = Delapan Rusa Cakar Jaguar (kanan) bertemu dengan Empat Jaguar. Gambaran berasal dari [[Codex Zouche-Nuttall]].  
+|birth_date  = Abad ke-11
+|birth_place = Tilantongo, Mexico
+|death_date  = Abad ke-12
+|death_place = Tilantongo, Mexico
+|other_names = Delapan Rusa, Delapan Rusa Cakar Ocelot
+|occupation  = Pemimpin Mikstec
+}}
+
+'''Delapan Rusa Cakar Jaguar''' ({{lang-mix|'''Iya Nacuaa Teyusi aa'''}} <ref>Jansen and Prez Jimnez (2004)</ref>) adalah pemimpin kuat [[Mikstec]] pada abad ke-11. John Pohl telah mencatat kematiannya tahun [[1115]] karena dikorbankan.<ref>See Pohl (n.d.)</ref> Reputasinya sebagai pemimpin besar memberinya status legendaris di antara Mikstec. Ia adalah anak dari imam tinggi [[Tilantongo]].
+
+== Catatan kaki ==
+{{reflist|2}}
+
+== Referensi ==
+
+* {{cite book|author={{aut|Byland, Bruce E.}}|coauthors=and {{aut|[[John M. D. Pohl|John M.D. Pohl]]}}|year=1994|title=In The Realm of Eight Deer: The Archaeology of the Mixtec Codices|location=Norman|publisher=[[University of Oklahoma Press]]|isbn=0-806-12612-4|oclc=30892609}}
+* {{cite book|author={{aut|Jansen, Maarten}}|authorlink=Maarten Jansen|year=1998|chapter=Monte Albn y Zaachila en los codices mixtecos|title=In The Shadow of Monte Albn: Politics and Historiography in Postclassic Oaxaca, Mexico|editor=Maarten E.R.G.N. Jansen, Peter C. Krfges, and Michel R. Oudijk (eds.)|location=Leiden, Netherlands|publisher=Research School CNWS ([[Leiden University]] School of Asian, African and Amerindian Studies)|isbn=9-057-89006-2|oclc=40511286}} {{es icon}}
+* {{cite book|author={{aut|Jansen, Maarten}}|authorlink=Maarten Jansen|year=2003|title=Monument en verhaal in het land van de Regengod|url=http://www.knaw.nl/publicaties/pdf/20031037.pdf|format=[[PDF]]|location=Amsterdam|publisher=Koninklijke Nederlandse Akademie van Wetenschappen (KNAW)|isbn=906984382X|oclc=66724118}} {{nl icon}}
+* {{cite journal |author={{aut|Jansen, Maarten}} |authorlink=Maarten Jansen |coauthors=and {{aut|Gabina Aurora Prez Jimnez}} |year=2004 |title=Renaming the Mexican Codices |journal=Ancient Mesoamerica |volume=15 |issue=2 |pages=pp.267271 |issn=0956-5361}}
+* {{cite web |author={{aut|Pohl, John M.D.}} |authorlink=John M. D. Pohl |year=n.d. |title=Ancient Books: Mixtec Group Codices |url=http://www.famsi.org/research/pohl/jpcodices/pohlmixtec1.html |work=John Pohl's Mesoamerica |publisher=Foundation for the Advancement of Mesoamerican Studies, Inc (FAMSI) |accessdate=2007-08-21}}
+* {{cite book|author={{aut|Pohl, John M.D.}}|authorlink=John M. D. Pohl|year=2002|title=The Legend of Lord Eight Deer: An Epic of Ancient Mexico|publisher=[[Oxford University Press]]|location=Oxford; New York|isbn=0-195-14019-2|oclc=47054677}}
+* {{cite book|author={{aut|Spores, Ronald}}|year=1967|title=The Mixtec Kings and Their People|location=Norman|publisher=University of Oklahoma Press|isbn=0-8061-1091-0}}
+* {{cite book|author={{aut|Troike, Nancy P.}} (Ed., intro. and notes)|year=1987|title=[[Codex Zouche-Nuttall]]: British Museum, London (Add. MS. 39671)|series=Codices Selecti series vol. 84|edition=true-color facsimile screenfold reproduction|location=Graz, Austria|publisher=Akademische Druck- u. Verlagsanstalt Graz/Austria (ADEVA)|isbn=3-201-01350-1|oclc=165889191}}
+
+[[Kategori:Kematian 1115]]

@@ -1,0 +1,27 @@
+Departemen Soriano
+{{Infobox Uruguayan Department
+| department_name = Soriano
+| image_flag      = Flag of Soriano Department.png
+| image_coat      = Soriano Department Coa.png
+| department_map  = 
+| capital_name    = [[Mercedes, Uruguay|Mercedes]]
+| deg_S = 33 | min_S = 15
+| deg_W = 58 | min_W = 2
+| demonym         = Sorianense
+| intendant_name  = Guillermo Besozzi
+| ruling_party    = [[National Party (Uruguay)|Partido Nacional]]
+| area_km2        = 9,008
+| population      = 82,594
+| year_of_census  = 2011
+| ISO_3166-2      = UY-SO
+| website         = {{URL|http://www.soriano.gub.uy/|soriano.gub.uy}}
+}}
+
+'''Departemen Soriano''' merupakan sebuah departemen di [[Uruguay]] yang memiliki luas wilayah 9.008&nbsp;km dan populasi 84.563 jiwa ([[2004]]). Ibu kotanya ialah [[Mercedes]].
+
+{{Departemen di Uruguay}}
+
+[[Kategori:Departemen Uruguay]]
+
+
+{{uruguay-geo-stub}}

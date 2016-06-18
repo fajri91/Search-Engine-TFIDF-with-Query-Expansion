@@ -1,0 +1,14 @@
+Berkas:Peta Ambon Manise.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+Peta kota Ambon, ibukota Provinsi Maluku. Ambon dibagi atas 5 kecamatan, yaitu Sirimau, Teluk Ambon, Teluk Banguala, Leitimur Selatan dan Nusa Niwe.
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Fairuse}}

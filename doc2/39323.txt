@@ -1,0 +1,190 @@
+Infeksi
+'''Infeksi''' adalah [[kolonalisasi]] yang dilakukan oleh spesies asing terhadap organisme inang, dan bersifat paling membahayakan inang. Organisme penginfeksi, atau [[patogen]], menggunakan sarana yang dimiliki inang untuk dapat memperbanyak diri, yang pada akhirnya merugikan inang. Patogen mengganggu fungsi normal inang dan dapat berakibat pada luka kronik, ''gangrene'', kehilangan organ tubuh, dan bahkan kematian. Respons inang terhadap infeksi disebut [[peradangan]]. Secara umum, patogen umumnya dikategorikan sebagai organisme mikroskopik, walaupun sebenarnya definisinya lebih luas, mencakup [[bakteri]], [[parasit]], [[fungi]], [[virus]], [[prion]], dan [[viroid]]. 
+
+[[Simbiosis]] antara parasit dan inang, di mana satu pihak diuntungkan dan satu pihak dirugikan, digolongkan sebagai [[parasitisme]]. Cabang kedokteran yang menitikberatkan infeksi dan patogen adalah cabang [[penyakit infeksi]].
+
+Secara umum infeksi terbagi menjadi dua golongan besar:<ref>{{en}}{{cite web
+| url          = http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=imm&part=A1322
+| title        = Immunobiology, Chapter 10:Adaptive immunity to infection
+| accessdate   = 2010-03-15
+| work         = Charles A. Janeway, et al.
+}} Section 10-1.</ref>
+* Infeksi yang terjadi karena terpapar oleh antigen dari luar [[tubuh]]
+* Infeksi yang terjadi karena [[difusi]] [[cairan tubuh]] atau [[jaringan]], seperti [[virus]] [[HIV]], karena virus tersebut tidak dapat hidup di luar tubuh.
+
+== Infeksi awal ==
+Setelah menembus jaringan, patogen dapat berkembang pada di luar sel tubuh (ekstraselular) atau menggunakan sel tubuh sebagai inangnya (intraselular). Patogen intraselular lebih lanjut dapat diklasifikasikan lebih lanjut:
+* patogen yang berkembang biak dengan bebas di dalam sel, seperti : virus dan beberapa bakteri (''Chlamydia'', ''Rickettsia'', ''Listeria'').
+* patogen yang berkembang biak di dalam [[vesikel]], seperti ''Mycobacteria''.
+
+Jaringan yang tertembus dapat mengalami kerusakan oleh karena infeksi patogen, misalnya oleh [[eksotoksin]] yang disekresi pada permukaan sel, atau sekresi [[endotoksin]] yang memicu sekresi [[sitokina]] oleh makrofaga, dan mengakibatkan gejala-gejala lokal maupun sistemik.<ref>{{en}}{{cite web
+| url          = http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=imm&part=A1322&rendertype=figure&id=A1330
+| title        = Immunobiology, figure 10.5 Pathogens can damage tissues in a variety of different ways
+| accessdate   = 2010-03-17
+| work         = Charles A. Janeway, et al.
+}}</ref>
+
+== Terpuruknya mekanisme sistem kekebalan ==
+Pada tahapan umum sebuah infeksi, antigen selalu akan memicu [[sistem kekebalan turunan]], dan kemudian [[sistem kekebalan tiruan]] pada saat [[akut]]. Tetapi lintasan infeksi tidak selalu demikian, [[sistem kekebalan]] dapat gagal memadamkan infeksi, karena terjadi fokus infeksi berupa:<ref>{{en}}{{cite web
+| url          = http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=imm&part=A1479
+| title        = Immunobiology, Chapter 11:Failures of Host Defense Mechanisms
+| accessdate   = 2010-03-15
+| work         = Charles A. Janeway, et al.
+}}</ref>
+* subversi sistem kekebalan oleh patogen
+* kelainan bawaan yang disebabkan [[gen]]
+* tidak terkendalinya mekanisme sistem kekebalan
+
+Perambatan perkembangan patogen bergantung pada kemampuan replikasi di dalam inangnya dan kemudian menyebar ke dalam inang yang baru dengan proses infeksi. Untuk itu, patogen diharuskan untuk berkembangbiak tanpa memicu sistem kekebalan, atau dengan kata lain, patogen diharuskan untuk tidak menggerogoti inangnya terlalu cepat.
+
+Patogen yang dapat bertahan hanya patogen yang telah mengembangkan mekanisme untuk menghindari terpicunya sistem kekebalan.
+
+=== Variasi serotipe ===
+[[Berkas:Streptococcus pneumoniae meningitis, gross pathology 33 lores.jpg|left|100px]]
+Salah satu cara yang digunakan patogen untuk menghindari sistem kekebalan adalah dengan mengubah struktur permukaan selnya. Banyak patogen ekstraselular mempunyai [[tipe antigenik]] yang sangat beragam. Salah satu contoh adalah ''[[streptococcus pneumoniae]]'', penyebab [[pneumonia]], yang mempunyai banyak tipe antigenik dan baru diketahui 84 macam. Setiap macam mempunyai stuktur pelapis [[polisakarida]] yang berbeda. Tipe-tipe tersebut dibedakan berdasarkan uji serologi, sehingga disebut juga [[serotipe]]. Infeksi yang dilakukan oleh satu serotipe tertentu dapat memicu [[sistem kekebalan tiruan]] terhadapnya, tetapi tidak terhadap infeksi ulang yang dilakukan oleh serotipe yang berbeda, oleh karena [[sistem kekebalan tiruan]] melihat satu serotipe sebagai satu jenis organisme yang berbeda. Infeksi akut berulang dari antigen yang sama dapat terjadi karena hal ini.
+
+Penggunaan kapsul pelindung yang mencegah lisis oleh [[sistem komplemen]] dan [[fagosit]] juga dilakukan ''[[Mycobacterium tuberculosis]]''. Spesies ''[[bacterioides]]'' umumnya bakteri [[komensal]] yang berdiam di [[usus buntu]] [[mamalia]]. Beberapa spesies seperti ''Bacterioides fragilis'' adalah [[Infeksi oportunistik|patogen oportunistik]] penyebab infeksi pada lapisan [[peritoneum]]. Spesies ini menghindari sistem kekebalan dengan memengaruhi pencerap yang digunakan [[fagosit]] untuk menelan bakteri atau dengan menyamar sebagai sel organisme tersebut sehingga sistem kekebalan tidak mengenali mereka sebagai patogen.
+
+[[Bakteri]] dan [[jamur]] mungkin juga membentuk [[lapisan bio]] kompleks, menyediakan perlindungan dari sel dan [[protein]] dari [[sistem kekebalan]]. Penelitian terbaru menunjukkan bahwa lapisan bio muncul di infeksi yang berhasil, termasuk infeksi kronis ''[[Pseudomonas aeruginosa]]'' dan ''[[Burkholderia cenocepacia]]'', ciri utama dari [[cystic fibrosis]].
+
+==== Mutasi genetik ====
+[[Berkas:Trypanosoma sp. PHIL_613_lores.jpg|thumb|right|300px|Deteksi ''trypanosome'' oleh antibodi akan memicu pergantian gen VSG pada DNA, sehingga dihasilkan protein VSG yang berbeda pula. Tubuh kemudian akan membuat antibodi baru dengan cara yang sama, tetapi setiap antibodi yang baru dibuat mengenali ''trypanosome'', gen VSG akan berubah lagi sebelum sistem kekebalan terpicu. Dengan demikian ''trypanosome'' berada satu langkah lebih cepat dari sistem kekebalan, sehingga meskipun berupa [[protozoa]] yang berkembangbiak ekstraselular, fokus infeksinya bersifat kronik dan membentuk [[kompleks imun]] dan [[peradangan]], hingga berakhir pada kerusakan [[saraf]] dan [[koma]]. Hal ini yang menyebabkan [[African trypanosomiasis]] mendapatkan julukan penyakit "tidur". [[Malaria]] adalah contoh lain penyakit yang disebabkan parasit protozoa dengan kemampuan tata-ulang DNA, yang sangat sulit diatasi oleh [[sistem kekebalan]].]]
+Metode kedua yang lebih dinamis ditunjukkan oleh [[virus]] [[influensa]]. Virus influensa dikenali oleh sistem kekebalan melalui [[hemaglutinin]] yang terdapat pada permukaan virus.
+
+* Mutasi genetik yang pertama disebut ''antigenic drift'' yang mengubah notasi [[gen]] ekspresi dari hemaglutinin, sebagai respon dari protein yang berada pada permukaan, [[neuraminidase]]. Mutasi yang lain mengubah [[epitop]] agar tidak dikenali oleh [[sel T]], khususnya yang mempunyai pencerap CD8.<ref>{{en}}{{cite web
+| url          = http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=imm&part=A1479&rendertype=figure&id=A1483
+| title        = Immunobiology, Figure 11.2 Two types of variation allow repeated infection with type A influenza virus 
+| accessdate   = 2010-03-15
+| work         = Charles A. Janeway, et al.
+}}</ref>
+
+* Mutasi genetik yang kedua disebut ''antigenic shift'' yang terjadi karena tertukarnya [[RNA]] antara virus baru dengan virus yang telah lama berada dalam tubuh inang.
+* Mekanisme ketiga melibatkan tata-ulang [[DNA]] terprogram. ''African trypanosome'' mempunyai kemampuan untuk mengubah ''major surface antigen'' berkali-kali dengan satu kali infeksi. ''Trypanosome'' terbalut sebuah tipe [[glikoprotein]] yang disebut ''variant-specific glycoprotein'' (VSG), yang dengan mudah dapat dikenali oleh [[sistem kekebalan]]. Meskipun demikian, [[DNA]] ''trypanosome'' mengandung lebih dari 1000 gen VSG dengan ekspresi antigenik yang berlainan.
+** Pada tingkat bakteri, kemampuan tata-ulang DNA juga dijumpai pada ''Salmonella typhimurium'' dan ''Neisseria gonorrhoeae''.
+
+=== Fokus infeksi laten ===
+[[Berkas:Herpes_zoster.png|left|100px]]
+Dalam [[fisiologi]], laten didefinisikan sebagai jedah waktu antara stimulus dan respon yang terpicu di dalam suatu [[organisme]]. [[Virus]] umumnya segera akan mengkoordinir [[sintesis]] [[protein]] viral yang dibutuhkan untuk [[proliferasi]], setelah berhasil melakukan infeksi terhadap sebuah [[sel (biologi)|sel]]. Mekanisme semacam ini akan mengakibatkan kondisi [[akut]] yang akan segera direspon oleh [[sistem kekebalan tiruan]]. [[Sel T]] akan dengan mudah memindai fragmen dari protein viral yang tertera pada permukaan molekul [[kompleks histokompatibilitas utama|MHC]] dan memadamkan infeksi.
+
+Meskipun demikian, masih terdapat jenis virus yang lain yang mampu menunda proses sintesis protein viral di dalam sel. Kondisi ini disebut kondisi laten, saat tidak terjadi replikasi virus di dalam sel. Infeksi laten tidak menimbulkan penyakit dan keberadaan virus tidak terdeteksi oleh karena tidak terdapat fragmen viral pada molekul MHC. Salah satu contoh adalah virus [[Herpes Simplex]], yang melakukan infeksi [[epitelia]] dengan fokus berupa [[sel saraf]] di daerah tersebut. 
+
+Setelah sistem kekebalan mengatasi infeksi pada epitelia, virus HS tetap berada dalam kondisi laten di dalam neuron [[saraf]]. Beberapa faktor seperti [[sinar]] [[matahari]], infeksi [[bakteri]] dan perubahan hormonal akan mengaktivasi virus ini untuk bermigrasi melalui [[akson]] dan melakukan infeksi ulang pada jaringan epitelial. Fokus infeksi berupa neuron memiliki dua keunggulan:
+* peptida viral yang dihasilkan sangat sedikit, menghasilkan fragmen yang tidak menyolok
+* neuron mempunyai molekul MHC kelas I, yang kecil, sehingga sulit dideteksi sel T CD8.
+
+Contoh lain adalah virus Epstein-Barr (EBV), sebuah tipe virus herpes yang lain, memiliki kondisi laten di dalam [[sel B]]. Proliferasi sel B akan menghasilkan sel baru dengan EBV di dalamnya.
+
+=== Evolusi fitur ===
+[[Berkas:Protist collage.jpg|left|100px]]
+Beberapa bakteri yang biasanya dicerna oleh [[makrofaga]] dengan proses [[fagositosis]], telah berevolusi dan berhasil membuat makrofaga sebagai fokus infeksi. Salah satu contoh adalah ''[[Mycobacterium tuberculosis]]'' yang tertelan oleh makrofaga, akan menghalangi [[pencairan]] [[lisosom]] ke dalam [[fagosom]] dan melindunginya dari sitokina di dalam lisosom.
+
+''[[Listeria monocytogenes]]'', bahkan dapat keluar dari fagosom dan masuk ke dalam [[sitoplasma]] dan membuat replikasi di dalamnya. Kemudian menginfeksi sel yang berdekatan, tanpa keluar dari ruang intraselularnya.
+
+Sebuah [[parasit]] protozoa ''[[toxoplasma gondii]]'', dapat membuat [[vesikel]] sendiri yang memisahkannya dari bagian sel yang lain. Hal ini memungkinkan T. gondii untuk membuat peptida dengan fragmen yang tidak termuat pada molekul MHC, sehingga keberadaannya tidak terdeteksi sistem kekebalan.
+
+=== Perlawanan patogen ===
+[[Berkas:Staphylococcus_aureus,_50,000x,_USDA,_ARS,_EMU.jpg|thumb|left|300px|Staphylococci aureus, salah satu penyebab [[mastitis]] pada ternak [[sapi]]. Kapsul yang besar melindung [[organisme]] ini dari [[sistem kekebalan]] sapi, sebagai inangnya. Citra ini diambil dengan 50.000x pembesaran dari substrat replikasi yang kering dan beku.]]
+Respon patogen dalam menghadapi sistem kekebalan juga berlainan. Selain dengan berbagai cara untuk menghindar, beberapa patogen melakukan perlawanan. ''[[Staphylococci aureus]]'' melepaskan dua macam [[toksin]] yaitu ''[[staphylococcal enterotoxin]]'' dan ''[[toxic shock syndrome toxin-1]]'' yang berperan sebagai [[superantigen]].
+
+{{cquote2|''Superantigen adalah [[protein]] yang mengikat sejumlah pencerap antigen dari [[sel T]]. Ikatan ini menyebabkan sel T mengalamai [[apoptosis]] dengan sangat cepat.}}
+
+Organisme lain seperti ''[[Streptococcus pyogenes]]'', dan ''[[Bacillus anthracis]]'' memiliki mekanisme untuk membunuh langsung fagosit.
+
+Banyak patogen melakukan perlawanan dalam rentang waktu [[infeksi akut]]. Hal merupakan tekanan terhadap sistem kekebalan ({{lang-en|immunosuppression}}) dan menyebabkan tubuh inang menjadi rentan terhadap infeksi susulan oleh patogen jenis lain. Contoh-contoh penting meliputi [[trauma]], [[luka bakar]] dan [[operasi bedah besar]]. Pasien dengan luka bakar tidak dapat merespon infeksi, sehingga infeksi ringan pun dapat menyebabkan [[kematian]].
+
+Infeksi virus ''[[measles]]'' juga merupakan salah satu contoh tekanan terhadap sistem kekebalan. Banyak anak-anak yang menderita [[malnutrisi]] menjadi korban, hingga meninggal dunia, karena infeksi susulan pada saat sistem kekebalan tertekan oleh infeksi virus ''measles''. Infeksi susulan biasanya berupa bakteri penyebab [[pneumonia]]. Virus measles mempunyai fokus infeksi pada [[sel dendritik]] sehingga memengaruhi kinerja [[sel T]] dan [[sel B]] dalam sistem kekebalan, dan aktivasi [[makrofaga]] oleh sel T<sub>H</sub>1.
+
+== Fokus infeksi ==
+Salah satu contoh terbaik dari topik ini adalah fokus infeksi yang dimiliki oleh [[virus]] [[HIV]], berupa putusnya mata rantai [[sistem kekebalan selular]]<ref>{{en}}{{cite web
+| url          = http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=imm&part=A1479
+| title        = 11-26. HIV infection leads to low levels of CD4 T cells, increased susceptibility to opportunistic infection, and eventually to death
+| accessdate   = 2010-03-29
+| work         = Charles A. Janeway, et al.
+}} 2nd paragraph.</ref> karena padamnya kemampuan [[sel T]] CD4 untuk teraktivasi dan terdiferensiasi menjadi [[sel T pembantu]]. Terputusnya mata rantai tersebut terjadi perlahan tanpa memantik [[sistem kekebalan]] oleh sebab sifat laten [[retrovirus]]. Sejumlah kecil PSK [[Gambia]] dan [[Kenya]] yang selalu terpapar infeksi HIV selama 5 tahun melalui fluida reproduksi<ref>{{en}}{{cite web
+| url          = http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=imm&part=A1479
+| title        = 11-27. Vaccination against HIV is an attractive solution but poses many difficulties
+| accessdate   = 2010-03-30
+| work         = Charles A. Janeway, et al.
+}} fourth paragraph.</ref><ref>{{en}}{{cite web
+| url          = http://www.ncbi.nlm.nih.gov//pubmed/7584954
+| title        = HIV-specific cytotoxic T-cells in HIV-exposed but uninfected Gambian women
+| accessdate   = 2010-03-30
+| work         = Institute of Molecular Medicine, John Radcliffe Hospital; Rowland-Jones S, Sutton J, et al.
+}}</ref> justru menunjukkan respon kekebalan tiruan [[sel T CD8]] dan sel T<sub>H</sub>1<ref>{{en}}{{cite web
+| url          = http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=imm&part=A1479
+| title        = 11-25. An immune response controls but does not eliminate HIV
+| accessdate   = 2010-03-30
+| work         = Charles A. Janeway, et al.
+}}, second paragraph.</ref> yang merespon berbagai macam [[epitop]] HIV tanpa disertai respon [[antibodi]].
+
+Selain itu, modus yang digunakan oleh virus HIV adalah pemotongan jalur informasi selular dengan menempel pada pencerap [[kemokina]] [[CCR5]] dan [[CXCR4]], selain pada [[CD4]].<ref>{{en}}{{cite web
+| url          = http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=imm&part=A1479
+| title        = 11-18. HIV is a retrovirus that infects CD4 T cells, dendritic cells, and macrophages
+| accessdate   = 2010-03-30
+| work         = Charles A. Janeway, et al.
+}}, second paragraph</ref> Pencerap CCR5 merupakan ekspresi dari [[sel dendritik]], [[makrofaga]] dan sel T CD4. Ekspresi CXCR4 adalah pencerap pada sel T CD4 setelah teraktivasi.
+
+Kompetisi pada area pencerap CCR5 oleh [[sekresi]] kemokina [[CCL5|RANTES]], MIP-1, and MIP-1 menunjukkan respon kekebalan terhadap infeksi HIV.<ref>{{en}}{{cite web
+| url          = http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=imm&part=A1479
+| title        = 11-19. Genetic deficiency of the macrophage chemokine co-receptor for HIV confers resistance to HIV infection in vivo
+| accessdate   = 2010-03-30
+| work         = Charles A. Janeway, et al.
+}}</ref>
+
+== Rujukan ==
+{{reflist}}
+
+{{stub}}
+<!--
+Bagian di bawah ini adalah sisa artikel lama untuk direview.
+
+== Spesifikasi patogen ==
+Bagian-bagian dari sistem imun turunan memiliki spesifikasi yang berbeda untuk berbagai patogen. 
+
+{|class="wikitable"
+! Patogen !! Contoh !! [[Fagositosis]] !! [[Sistem komplemen|komplemen]] !! [[Sel pembunuh alami]]
+|-
+| [[Virus]] intraseluler dan sitoplasmik ||
+*[[influenza]]
+*[[mumps]]
+*[[measles]]
+*[[rhinovirus]]
+|| ya || tidak || ya
+|-
+| [[Bakteri]] intraseluler || 
+*''[[Listeria monocytogenes]]''
+*''[[Legionella]]''
+*''[[Mycobacterium]]''
+*''[[Rickettsia]]''
+|| ya (spesifik pada [[neutrofil]], tidak pada rickettsia) || tidak || ya (tidak pada rickettsia)
+|-
+| [[Bakteri]] ekstraseluler || 
+*''[[Staphylococcus]]''
+*''[[Streptococcus]]''
+*''[[Neisseria]]''
+*''[[Salmonella typhi]]''
+|| ya || ya || tidak
+|-
+| [[Protozoa]] intraseluler || 
+*''[[Plasmodium malariae]]''
+*''[[Leishmania|Leishmania donovani]]''
+|| tidak || tidak || tidak
+|-
+| [[Protozoa]] ekstraseluler || 
+*''[[Entamoeba histolytica]]''
+*''[[Giardia lamblia]]''
+|| ya || ya || tidak
+|-
+| [[jamur]] ekstraseluler || 
+*''[[Candida (genus)|Candida]]''
+*''[[Histoplasma]]''
+*''[[Cryptococcus]]''
+|| tidak || ya || tidak
+|-
+|}
+-->
+
+[[Kategori:Kedokteran]]
+[[Kategori:Sistem kekebalan]]
+
+[[fr:Surinfection]]

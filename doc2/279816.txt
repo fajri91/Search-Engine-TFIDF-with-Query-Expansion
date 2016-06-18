@@ -1,0 +1,19 @@
+Templat:BintangWiki Cokelat
+{{bintangWiki|
+|nama=<font color="White">BintangWiki Cokelat</font>
+|border=grey
+|color=#964B00
+|namaberkas=Image:Chocolate Star.png
+|pesan="<font color="white">BintangWiki Cokelat</font>" diberikan kepada '''[[Pengguna:{{BASEPAGENAME}}|{{BASEPAGENAME}}]]''' yang telah memberikan sumbangan berharga kepada artikel-artikel bertopik <font color="White">[[Cokelat]]</font> di Wikipedia bahasa Indonesia.
+|pesanpengguna={{{1|}}}
+|width={{{width|}}}
+}}<noinclude>
+
+==== Cara penggunaan ====
+<tt><nowiki>{{BintangWiki Cokelat|Komentar Nama_pengguna Tanggal}}</nowiki></tt>.
+
+Contoh:<br />
+<nowiki>{{BintangWiki Cokelat|Selamat! Joni 3 September 2006}}</nowiki> (karena keterbatasan teknis, nama pengguna pemberi BintangWiki dan tanggal harus diisi manual di templat)
+
+[[Kategori:Templat BintangWiki|Cokelat]]
+</noinclude>

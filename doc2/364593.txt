@@ -1,0 +1,13 @@
+Templat:Pengguna Arsenal
+{{userbox
+|Black|#DC143C|[[Berkas:Arsenal FC.svg|34px]]
+|Pengguna ini adalah pendukung klub '''[[Arsenal F.C.|<font color="silver">Arsenal F.C.</font>]]'''
+|logo-background=darkred
+|info-color=silver
+|info-class=userboxdark
+|category        = Pengguna pendukung Arsenal
+|nocat           = {{{nocat|}}}
+}}<noinclude>
+{{userboxes|Pengguna pendukung Arsenal}}
+[[Kategori:Templat userbox minat|Arsenal]]
+</noinclude>

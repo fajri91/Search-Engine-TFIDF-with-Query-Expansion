@@ -1,0 +1,54 @@
+Piramida Agung Giza
+{{Infobox Skyscraper
+|building_name= Piramida Agung Giza
+|image= [[Berkas:Kheops-Pyramid.jpg|300px]]
+|previous_building= [[Red Pyramid of Sneferu]], [[Egypt]]
+|year_built= sekitar 2560 [[SM]]
+|surpassed_by_building= [[Lincoln Cathedral]]
+|year_end= sekitar 1300 [[M]]
+|year_highest = sekitar 2560 [[Sebelum Masehi|SM]]
+|location= [[Giza]], [[Egypt]]
+|roof= 138.8 m, 455.2 ft{{br}}(Tinggi sebenarnya: 146.6 m, 480.9 ft)
+|construction_period = sekitar 2560 SM
+|emporis_id=103184}}
+{{7keajaibandunia}}
+'''Piramida Agung Giza''' adalah [[Piramida Mesir|piramida]] tertua dan terbesar dari tiga piramida yang ada di Nekropolis Giza dan merupakan satu-satunya bangunan yang masih menjadi bagian dari [[Tujuh Keajaiban Dunia]]. Dipercaya bahwa piramida ini dibangun sebagai makam untuk [[firaun]] [[Dinasti keempat Mesir|dinasti keempat]] [[Mesir Kuno|Mesir]], [[Khufu]] (, Cheops) dan dibangun selama lebih dari 20 tahun dan diperkirakan berlangsung pada sekitar tahun 2560 [[Sebelum Masehi|SM]].<ref name="wonder">{{cite web | last = Ashmawy | first = Alaa | authorlink = | coauthors = | title = The Great Pyramid of Giza | work = The Seven Wonders | publisher = | date = January 21, 2004 | url = http://ce.eng.usf.edu/pharos/wonders/pyramid.html | format = | accessdate = 2007-04-13 }}</ref> . Piramida ini kadang-kadang disebut sebagai '''Piramida Khufu'''.<ref name="oxford1">''The Oxford Encyclopedia of Ancient Egypt''. Oxford University Press, New York, 2001. Edited by Dana M Collins. Volume 2, Page 234.</ref>
+
+== Sejarah ==
+Piramida Agung Giza adalah bagian utama dari kompleks bangunan makam yang terdiri dari dua kuil untuk menghormati Khufu (satu dekat dengan piramida dan satunya lagi di dekat Sungail Nil), tiga piramida yang lebih kecil untuk istri Khufu, dan sebuah piramida "satelit" yang lebih kecil lagi, berupa lintasan yang ditinggikan, dan makam-makam [[mastaba]] berukuran kecil di sekeliling piramida para bangsawan. Salah satu dari piramida-piramida kecil itu menyimpan makan ratu [[Hetepheres]] (ditemukan pada tahun 1925), adik, dan istri Sneferu serta ibu dari Khufu. Juga ditemukan sebuah kota, termasuk sebuah pemakaman, toko-toko roti, pabrik bir, dan sebuah kompleks peleburan tembaga. Lebih banyak lagi bangunan dan kompleks ditemukan oleh Proyek Pemetaan Giza.
+
+Beberapa ratus meter di barat daya Piramida Agung terdapat sebuah piramida yang sedikit lebih kecil, [[Piramida Khafre]], salah satu penerus Khufu yang juga dianggap sebagai pembangun [[Sphinx Agung Giza|Sphinx Agung]], dan beberapa meter lebih jauh ke barat daya adalah [[Piramida Menkaure]], penerus Khafre, yang ketinggian piramidanya sekitar separuhnya.
+
+Perkiraan waktu penyelesaian Piramida ini disepakati sekitar tahun 2560 BC.<ref>http://www.pbs.org/wgbh/nova/pyramid/explore/khufustory.html</ref>
+
+[[Wazir]] Khufu, [[Hemon]], atau [[Hemiunu]], dipercaya sebagai arsitek dari Piramida Agung.<ref>{{cite news|last = Kimmelman|first = Michael
+|title = Egyptian Art: The Mysterious Lure of an Old Friend|publisher = The New York Times
+|url = http://www.library.cornell.edu/colldev/mideast/egpart.htm|date = [[1999-09-17]]
+|accessdate = 2006-07-13 }}</ref>
+
+== Referensi ==
+{{reflist}}
+
+== Pranala luar ==
+{{commons|Great Pyramid of Giza}} 
+* [http://oi.uchicago.edu/OI/PROJ/GIZ/Giza.html The Giza Mapping Project]
+
+<span id="coordinates" class="plainlinksneverexpand">
+[[Koordinat]]: {{coor dms|29|58|44.68|N|31|08|02.58|E|}}
+</span>
+
+{{S-start}}
+{{S-ach|rec}}
+{{Succession box
+|before=[[Piramida Sneferu]]
+|title=[[Struktur tertinggi dunia]]
+|years=2570 SM1300 M<br /><small>146.6 m</small> | after=[[Katedral Lincoln]]}}
+{{S-end}}
+
+[[Kategori:Dataran Giza]]
+[[Kategori:Piramida Mesir Kuno]]
+[[Kategori:Mesir Kuno]]
+[[Kategori:Tujuh Keajaiban Dunia Kuno]]
+
+
+{{sejarah-stub}}

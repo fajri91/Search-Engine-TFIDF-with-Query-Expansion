@@ -1,0 +1,22 @@
+Knema mamillata
+{{taxobox
+|status = VU
+|status_system = IUCN2.3
+|regnum = [[Plantae]]
+|unranked_divisio = [[Angiospermae]]
+|unranked_classis = [[Magnoliid]]s
+|ordo = [[Magnoliales]]
+|familia = [[Myristicaceae]]
+|genus = ''[[Knema]]''
+|species = '''''K. mamillata'''''
+|binomial = ''Knema mamillata''
+|binomial_authority = de Wilde
+|}}
+'''''Knema mamillata''''' adalah spesies [[tumbuhan]] dalam familia [[Myristicaceae]]. Tumbuhan ini [[Endemisme|endemik]] di [[Indonesia]].
+
+== Sumber ==
+* World Conservation Monitoring Centre 1998. [http://www.iucnredlist.org/search/details.php/31950/all ''Knema mamillata'']. [http://www.iucnredlist.org 2006 IUCN Red List of Threatened Species. ] Downloaded on 22 August 2007.
+{{tumbuhan-stub}}
+
+[[Kategori:Knema|mamillata]]
+[[Kategori:Flora endemik Indonesia]]

@@ -1,0 +1,53 @@
+Templat:Diaspora Indonesia
+{{navbox
+| name = Diaspora Indonesia
+| title = {{flagicon|Indonesia}} [[Orang Indonesia perantauan|Orang Indonesia]] dan Melayu di perantauan
+| state = {{{state|autocollapse}}}
+| listclass = hlist
+| image = [[Image:Coat of Arms of Indonesia Garuda Pancasila.svg|80px|Coat of arms of Indonesia]]
+
+| group1 = Afrika
+|  list1 =
+* [[Orang Melayu di Mesir|Mesir]]
+* [[Melayu Cape|Afrika Selatan]]
+
+| group2 = Amerika
+|  list2 =
+* [[Indonesia Kanada|Kanada]]
+* [[Jawa Suriname|Suriname]]
+* [[Indonesia Amerika|Amerika Serikat]]
+
+| group3 = Asia
+|  list3 =
+* [[Orang Indonesia di Hong Kong|Hong Kong]]
+* [[Orang Indonesia di Jepang|Jepang]]
+* [[Orang Indonesia di Filipina|Filipina]]
+* [[Orang Indonesia di Arab Saudi|Arab Saudi]]
+* [[Melayu Singapura|Singapura]]
+* [[Orang Indonesia di Korea Selatan|Korea Selatan]]
+* [[Melayu Sri Lanka|Sri Lanka]]
+* [[Orang Indonesia di Taiwan|Taiwan]]
+* [[Orang Indonesia di Uni Emirat Arab|Uni Emirat Arab]]
+
+| group4 = Eropa
+|  list4 =
+* [[Orang Indo#Orang Indo di Belanda|Belanda]]
+
+| group5 = Oseania
+|  list5 =
+* [[Indonesia Australia|Australia]]
+** [[Melayu Cocos|Kepulauan Cocos (Keeling)]]
+* [[Kaledonia Baru#Demografi|Kaledonia Baru]]
+* [[Orang Indonesia di Selandia Baru|Selandia Baru]]
+
+| group6 = Lainnya
+|  list6 =
+* [[Aceh perantauan]]
+* [[Jawa perantauan]]
+* [[Minangkabau perantauan]]
+
+}}<noinclude>
+{{collapsible option}}
+[[Category:Templat Indonesia]]
+[[Kategori:Diaspora Indonesia]]
+</noinclude>

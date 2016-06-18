@@ -1,0 +1,11 @@
+Templat:Bupati Jombang
+{{Navbox
+|name   = Bupati Jombang
+| listclass = hlist
+| title = [[Daftar Bupati Jombang|Bupati]] [[Kabupaten Jombang|Jombang]]
+|image =[[Berkas:Logo Jombang.GIF|60px|Lambang Kabupaten Jombang]]
+| list1 =
+{{nowrap|[[Soeroadiningrat V]] (1910-1930) }} {{nowrap|[[Setjoadiningrat VIII]] (19301946) }} {{nowrap|[[Boediman Rahardjo]] (1946-1949) }} {{nowrap|[[Moestadjab Soemowidagdo]] (1949 -1950) }} {{nowrap|[[Istadjab Tjokrokoesoemo]] (1950-1956) }} {{nowrap|[[M. Soebijakto]] (1956-1958) }} {{nowrap|[[Soedarsono, Bupati Jombang|R. Soedarsono]] (1958-1962) }} {{nowrap|[[Hassan Wirjokoesoemo]] (1962-1966) }} {{nowrap|[[Ismail (bupati)|Ismail]] (1966-1973) }} {{nowrap|[[Soedirman Mertoadikoesoemo|R. Soedirman Mertoadikoesoemo]] (1973-1979) }} {{nowrap|[[Achmad Hudan Dardiri]] (1979-1983) }} {{nowrap|[[Noeroel Koesmen]] (1983-1988) }} {{nowrap|[[Tarmin Hariadi]] (1988-1993) }} {{nowrap|[[Suwoto Adiwibowo]] (1993-1998) }} {{nowrap|[[Affandi (bupati)|Affandi]] (1998-2003) }} {{nowrap|[[Suyanto]] (20032008), (20082013) }} {{nowrap|[[Ali Fikri]] (2008-2008) }} {{nowrap|[[Nyono Suharli Wihandoko]] (2013kini)}}  
+}}<noinclude>
+[[Kategori:Templat navigasi tokoh Indonesia]]
+</noinclude>

@@ -1,0 +1,19 @@
+Templat:Sabu Tengah, Sabu Raijua
+{{Navigasi ID Desa
+|provinsi=Nusa Tenggara Timur
+|dati2=Kabupaten
+|nama dati2=Sabu Raijua
+|nama kecamatan=Sabu Tengah
+|d1=Bebae
+|d2=Eilode
+|d3=Eimadake
+|d4=Eimau
+|d5=Jiwuwu
+|d6=Loboaju
+|d7=Matei
+|d8=Tada
+}}
+<noinclude>
+[[Kategori:Templat desa/kelurahan di Nusa Tenggara Timur|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Sabu Raijua|{{PAGENAME}}]]
+</noinclude>

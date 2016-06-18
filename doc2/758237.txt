@@ -1,0 +1,9 @@
+Templat:Tabel penghargaan Korea Selatan
+{| class="{{#ifeq:{{{sortable|}}}|yes|sortable|}} wikitable" style="table-layout: fixed; margin-right:0; text-align:center"
+|-
+! style="background:{{{header_color|}}}" width="5%" | Tahun
+! style="background:{{{header_color|}}}" width="45%"| Kategori
+! style="background:{{{header_color|}}}" width="40%"| Penerima
+! style="background:{{{header_color|}}}" width="10%"| Hasil<noinclude>
+|}
+{{documentation}}</noinclude>

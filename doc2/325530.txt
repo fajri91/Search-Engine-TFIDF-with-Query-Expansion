@@ -1,0 +1,31 @@
+Templat:Lyulka aeroengines
+{{Navbox
+|name = Lyulka aeroengines
+| listclass = hlist
+| title = Mesin pesawat [[Lyulka]] dan [[NPO Saturn|Saturn]]
+|image = [[File:Flag of the Soviet Union.svg||100px|]] [[File:Flag of Russia.svg||100px|]]
+
+|group1 = Turbofan
+|list1 = <div>
+[[Saturn AL-31|AL-31]]{{}}
+[[NPO Saturn AL-32|AL-32]]{{}}
+[[Saturn AL-41|AL-41]]
+</div>
+|group2 = Turbojet
+|list2 = <div>
+[[Lyul'ka AL-5|AL 5]]{{}}
+[[Lyulka AL-7|AL 7]]{{}}
+[[Lyulka AL-21|AL 21]]{{}}
+[[Lyul'ka TR-1|TR-1]]{{}}
+[[Lyul'ka TR-3|TR-3]]{{}}
+[[Lyul'ka TR-7|TR-7]]
+<div>
+|group3 = Joint development
+|list3 = <div>
+'''[[PowerJet]]:''' 
+[[PowerJet SaM146|SaM146]] (Turbofan)
+<div> 
+}}
+<noinclude>
+[[Kategori:Kotak navigasi berdasarkan produsen mesin pesawat|{{PAGENAME}}]]
+</noinclude>

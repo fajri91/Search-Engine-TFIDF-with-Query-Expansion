@@ -1,0 +1,49 @@
+Bandar Udara Indigo Bay Lodge
+{{Infobox airport 
+| name         = Bandar Udara Quelimane 
+| nativename   = 
+| nativename-a = 
+| nativename-r = 
+| image        = 
+| image-width  = 
+| caption      = 
+| IATA         = IBL
+| ICAO         = 
+| type         = Publik
+| owner        = 
+| operator     = Aeroportos de Mocambique (Mozambique Airports Company)
+| city-served  = 
+| location     = Indigo Bay Lodge
+| elevation-f  = 
+| elevation-m  = 
+| coordinates  = {{Coord|21|42|26|S|35|27|08|E|type:airport|display=inline,title}}
+| website      = 
+| metric-elev  = 
+| metric-rwy   = 
+| r1-number    = 
+| r1-length-f  = 4,265
+| r1-length-m  = 1,300
+| r1-surface   = [[Aspal]]
+| r2-number    = 
+| r2-length-f  = 
+| r2-length-m  = 
+| r2-surface   = 
+| stat-year    = 
+| stat1-header = 
+| stat1-data   = 
+| stat2-header = 
+| stat2-data   = 
+| footnotes    = 
+}}
+'''Bandar Udara Indigo Bay Lodge''' {{Airport codes|IBL}}.<ref>http://www.world-airport-codes.com/mozambique/indigo-bay-lodge-8330.html</ref> adalah [[bandar udara]] yang berada di [[Indigo Bay Lodge]], [[Mozambik]].
+
+==Maskapai penerbangan dan tujuan==
+*[[Pelican Air Services]] (Johannesburg)
+
+==Referensi==
+{{reflist}}
+
+{{DEFAULTSORT:Indigo Bay Lodge, Bandar udara}}
+{{bandara-afrika-stub}}
+
+[[Kategori:Bandar udara di Mozambik]]

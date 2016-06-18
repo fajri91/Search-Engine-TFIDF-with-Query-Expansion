@@ -1,0 +1,107 @@
+C.S. Vis
+{{Football club infobox |
+  clubname = CS Vis |
+  image = [[Berkas:CS Vis.jpg|200px]]|
+  fullname = Cercle Sportif Vis|
+  nickname = |
+  founded  = 1924 |
+  ground   = [[Stade de la cit de l'oie]], [[Vis]] |
+  capacity = 5,200 |
+   league   = [[Belgian Second Division]] |
+  season   = 2010-11 |
+  position = 5th |
+}}
+
+'''Cercle Sportif Vis''' adalah sebuah klub [[sepak bola]] [[Belgia]] dari kota [[Vis]] di provinsi [[Lige]]. Mereka bermain di [[divisi dua Belgia]]. Klub memainkan pertandingan kandang mereka di Stade de la Rue de Mons di Vis. Mereka dijuluki ''Les Oies'' (angsa), setelah nama julukan kota Vis.
+
+== Skuat ==
+''Per 21 Februari 2013''<ref name="2012-13 First-Team Squad">{{cite web
+| title = 2010-11 First-Team Squad
+| url = http://www.cs-vise.be/id/players-2
+| publisher = C.S. Vis
+| accessdate = 2013-02-21}}</ref>
+
+{{fs start}}
+{{fs player|pos=GK|no= 1 |nat=ITA|name=[[Giuseppe Ingrassia]]}}
+{{fs player|pos=DF|no= 3 |nat=BIH|name=[[Damir Mirvi]]}}
+{{fs player|pos=DF|no= 4 |nat=BEL|name=[[Martin Lacroix]]}}
+{{fs player|pos=MF|no= 5 |nat=ITA|name=[[Federico Conti]]}}
+{{fs player|pos=MF|no= 6 |nat=BEL|name=[[Jonathan Fondaire]]}}
+{{fs player|pos=MF|no= 7 |nat=FRA|name=[[Raphal Lecomte]]}}
+{{fs player|pos=MF|no= 8 |nat=BEL|name=[[Steve Dessart]]}}
+{{fs player|pos=FW|no= 9 |nat=GHA|name=[[Gideon Boateng]]}}
+{{fs player|pos=MF|no= 10|nat=GER|name=[[Ioannis Masmanidis]]}}
+{{fs player|pos=FW|no= 11|nat=BEL|name=[[Arnaud Biatour]]}}
+{{fs player|pos=MF|no= 12|nat=AUS|name=[[Kofi Danning]]}}
+{{fs player|pos=DF|no= 13|nat=BEL|name=[[Thomas Englebert]]}}
+{{fs player|pos=MF|no= 14|nat=FRA|name=[[Redouane Zerzouri]]}}
+{{fs player|pos=MF|no= 15|nat=FRA|name=[[Emmanuel Franoise]]}}
+{{fs player|pos=DF|no= 16|nat=ITA|name=[[Stefano Giannotta]]}}
+{{fs player|pos=MF|no= 17|nat=BEL|name=[[Daan de Pever]]}}
+{{fs mid}}
+{{fs player|pos=DF|no= 18|nat=INA|name=[[Alfin Tuasalamony]]}}
+{{fs player|pos=DF|no= 19|nat=ITA|name=[[Aka Kevin Etien]]}}
+{{fs player|pos=DF|no= 20|nat=BEL|name=[[Pierre-Alain Laloux]]}}
+{{fs player|pos=DF|no= 21|nat=ITA|name=[[Nicolo Perna]]}}
+{{fs player|pos=MF|no= 22|nat=ITA|name=[[Angelo Polizzi]]}}
+{{fs player|pos=DF|no= 23|nat=BEL|name=[[Zinho Chergui]]}}
+{{fs player|pos=DF|no= 24|nat=BEL|name=[[Tom Dethier]]}}
+{{fs player|pos=DF|no= 25|nat=ITA|name=[[Marco Villagatti]]}}
+{{fs player|pos=MF|no= 26|nat=ITA|name=[[Fabio Calabrese]]}}
+{{fs player|pos=FW|no= 27|nat=MLI|name=[[Kader Camara]]}}
+{{fs player|pos=FW|no= 28|nat=GNB|name=[[Idrissa Camara]]}}
+{{fs player|pos=DF|no= 30|nat=NED|name=[[Roel van Hemert]]}}
+{{fs player|pos=GK|no= 35|nat=BEL|name=[[Thibault Rausin]]}}
+{{fs player|pos=GK|no= 77|nat=BEL|name=[[Juliann Fillieux]]}}
+{{fs player|pos=FW|no= 78|nat=FRA|name=[[Chris Makiese]]}}
+{{fs player|pos=FW|no=   |nat=BEL|name=[[Luigi Cutrona]]}}
+{{fs end}}
+
+==== Dipinjamkan ====
+{{fs start}}
+{{fs player|pos=FW|no= 11|nat=INA|name=[[Syamsir Alam]]|other=ke [[D.C. United]] sampai Juni 2013}}
+{{fs player|pos=DF|no= 2|nat=INA|name=[[Severianus Phoenix]]|other=dari [[Arsenal Reserves]] 21 Juli 2013}}
+{{fs end}}
+
+== Notable players ==
+{{col-start}}
+{{col-2}}
+;{{flagicon|Belgium}}
+* [[Thibaut Detal]]
+* [[Adrien Franois]]
+* [[Yves Renkin]]
+* [[Gunter Verjans]]
+
+;{{flagicon|Brazil}}
+* [[Vagner Conceicao Da Silva]]
+
+;{{flagicon|Congo}}
+* [[Mayola Biboko]]
+
+;{{Flagicon|France}}
+* [[Jonathan Lefevre]]
+
+;{{flagicon|Italy}}
+* [[Alexandre Di Luzio]]
+{{col-2}}
+;{{Flagicon|Morocco}}
+* [[Salim Farssi]]
+* [[Nadir Sbaa]]
+
+;{{Flagicon|Poland}}
+*
+
+;{{Flagicon|Spain}}
+* [[Ludovic Diaz]]
+
+;{{Flagicon|Tunisia}}
+* [[Hamdi Harbaoui]]
+{{col-end}}
+
+== Referensi ==
+{{Reflist}}
+
+== Pranala luar ==
+* [http://www.cs-vise.be Official website]
+
+[[Kategori:Tim sepak bola Belgia]]

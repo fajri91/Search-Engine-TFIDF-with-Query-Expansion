@@ -1,0 +1,20 @@
+Templat:Maskapai penerbangan Zambia
+{{Navbox
+|name  = Maskapai penerbangan Zambia
+|state = {{{state<includeonly>|</includeonly>}}}
+|title = [[Daftar maskapai penerbangan Zambia|Maskapai penerbangan]] [[Zambia]]
+|listclass = hlist
+|image = [[Berkas:Zambia Civil Air Ensign.svg|50px]]
+|list1 = 
+* [[Airwaves Airlink]]
+* [[Nationwide Airlines (Zambia)]]
+* [[Proflight Commuter Services]]
+* [[Zambia Skyways]]
+}}<noinclude>
+{{collapsible option}}
+[[Kategori:Maskapai penerbangan di Zambia|*]]
+[[Kategori:Templat navigasi maskapai penerbangan]]
+[[Kategori:Templat navigasi Zambia|*]]
+
+
+</noinclude>

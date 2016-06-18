@@ -1,0 +1,29 @@
+Pencemaran tanah
+'''Pencemaran tanah''' adalah keadaan [[di mana]] bahan kimia buatan manusia masuk dan mengubah lingkungan tanah alami. Pencemaran ini biasanya terjadi karena: kebocoran limbah cair atau bahan kimia industri atau fasilitas komersial; penggunaan [[pestisida]]; masuknya air permukaan tanah tercemar ke dalam lapisan sub-permukaan; kecelakaan kendaraaan pengangkut [[minyak]], zat kimia, atau limbah; air limbah dari [[tempat penimbunan sampah]] serta limbah [[industri]] yang langsung dibuang ke tanah secara tidak memenuhi syarat (''illegal dumping'').
+
+Ketika suatu zat berbahaya/[[racun|beracun]] telah mencemari permukaan tanah, maka ia dapat menguap, tersapu air [[hujan]] dan atau masuk ke dalam tanah. Pencemaran yang masuk ke dalam tanah kemudian terendap sebagai zat kimia beracun di tanah. Zat beracun di tanah tersebut dapat berdampak langsung kepada [[manusia]] ketika bersentuhan atau dapat mencemari air tanah dan udara di atasnya.
+
+Paparan kronis (terus-menerus) terhadap [[benzena]] pada konsentrasi tertentu dapat meningkatkan kemungkinan terkena [[leukemia]].
+
+=== Pada kesehatan ===
+Dampak pencemaran tanah terhadap kesehatan tergantung pada tipe [[polutan]], jalur masuk ke dalam tubuh dan kerentanan [[populasi]] yang terkena. [[Kromium]], berbagai macam pestisida dan [[herbisida]] merupakan bahan [[karsinogenik]] untuk semua populasi. [[Timbal]] sangat berbahaya pada anak-anak, karena dapat menyebabkan kerusakan [[otak]], serta kerusakan [[ginjal]] pada seluruh populasi. [[Kuri]] (air raksa) dan [[siklodiena]] dikenal dapat menyebabkan kerusakan ginjal, beberapa bahkan tidak dapat diobati. [[PCB]] dan siklodiena terkait pada keracunan [[hati]]. [[Organofosfat]] dan [[karmabat]] dapat dapat menyebabkan ganguan pada saraf otot. Berbagai pelarut yang mengandung [[klorin]] merangsang perubahan pada hati dan ginjal serta penurunan sistem saraf pusat. Terdapat beberapa macam dampak kesehatan yang tampak seperti sakit kepala, pusing, letih, iritasi [[mata]] dan ruam kulit untuk paparan bahan kimia yang disebut di atas. Yang jelas, pada dosis yang besar, pencemaran tanah dapat menyebabkan kematian.
+
+Pencemaran tanah juga dapat memberikan dampak terhadap [[ekosistem]]<ref>Michael Hogan, Leda Patmore, Gary Latshaw and Harry Seidman das ist alles scheisse ''Computer modeling of pesticide transport in soil for five instrumented watersheds'', prepared for the U.S. Environmental Protection Agency Southeast Water laboratory, Athens, Ga. by ESL Inc., Sunnyvale, California (1973)</ref>. Perubahan kimiawi tanah yang radikal dapat timbul dari adanya bahan kimia beracun/berbahaya bahkan pada dosis yang rendah sekalipun. Perubahan ini dapat menyebabkan perubahan [[metabolisme]] dari [[mikroorganisme]] endemik dan [[antropoda]] yang hidup di lingkungan tanah tersebut. Akibatnya bahkan dapat memusnahkan beberapa spesies primer dari [[rantai makanan]], yang dapat memberi akibat yang besar terhadap predator atau tingkatan lain dari rantai makanan tersebut. Bahkan jika efek kimia pada bentuk kehidupan terbawah tersebut rendah, bagian bawah [[piramida makanan]] dapat menelan bahan kimia asing yang lama-kelamaan akan terkonsentrasi pada makhluk-makhluk penghuni piramida atas. Banyak dari efek-efek ini terlihat pada saat ini, seperti konsentrasi [[DDT]] pada burung menyebabkan rapuhnya cangkang telur, meningkatnya tingkat kematian anakan dan kemungkinan hilangnya spesies tersebut.
+
+Dampak pada pertanian terutama perubahan metabolisme tanaman yang pada akhirnya dapat menyebabkan penurunan hasil pertanian. Hal ini dapat menyebabkan dampak lanjutan pada konservasi tanaman [[di mana]] tanaman tidak mampu menahan lapisan tanah dari erosi. Beberapa bahan pencemar ini memiliki [[waktu paruh]] yang panjang dan pada kasus lain bahan-bahan kimia derivatif akan terbentuk dari bahan pencemar tanah utama.
+
+== Penanganan ==
+=== Remediasi ===
+Remediasi adalah kegiatan untuk membersihkan permukaan tanah yang tercemar. Ada dua jenis remediasi tanah, yaitu in-situ (atau ''on-site'') dan ex-situ (atau ''off-site''). Pembersihan ''on-site'' adalah pembersihan di lokasi. Pembersihan ini lebih murah dan lebih mudah, terdiri dari pembersihan, ''venting'' (injeksi), dan bioremediasi.
+
+Pembersihan ''off-site'' meliputi penggalian tanah yang tercemar dan kemudian dibawa ke daerah yang aman. Setelah itu di daerah aman, tanah tersebut dibersihkan dari zat pencemar. Caranya yaitu, tanah tersebut disimpan di bak/tanki yang kedap, kemudian zat pembersih dipompakan ke bak/tangki tersebut. Selanjutnya zat pencemar dipompakan keluar dari bak yang kemudian diolah dengan instalasi pengolah air limbah. Pembersihan off-site ini jauh lebih mahal dan rumit.
+
+=== Bioremediasi ===
+[[Bioremediasi]] adalah proses pembersihan pencemaran tanah dengan menggunakan mikroorganisme (jamur, bakteri). Bioremediasi bertujuan untuk memecah atau mendegradasi zat pencemar menjadi bahan yang kurang beracun atau tidak beracun (karbon dioksida dan air). Menurut Dr. Anton Muhibuddin, salah satu mikroorganisme yang berfungsi sebagai bioremediasi adalah jamur vesikular arbuskular mikoriza (vam). Jamur vam dapat berperan langsung maupun tidak langsung dalam remediasi tanah. Berperan langsung, karena kemampuannya menyerap unsur logam dari dalam tanah dan berperan tidak langsung karena menstimulir pertumbuhan mikroorganisme bioremediasi lain seperti bakteri tertentu, jamur dan sebagainya.
+
+==Referensi==
+{{reflist}}
+
+{{DEFAULTSORT:Pencemaran, Tanah}}
+[[Kategori:Lingkungan]]
+[[Kategori:Pencemaran tanah]]

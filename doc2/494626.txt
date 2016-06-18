@@ -1,0 +1,53 @@
+If (lagu Bread)
+{{Infobox song <!-- See Wikipedia:WikiProject_Songs -->
+| Name       = If
+| Type       = 
+| Artist     = [[Bread]]
+| alt Artist = 
+| Album      = [[Manna (album)|Manna]]
+| Recorded   = 
+| Released   = 1971
+| Published  = 
+| Genre      = [[musik pop|Pop]], [[Adult Contemporary]]
+| Language   = 
+| Length     = 
+| Writer     = David Gates
+| Composer   = 
+| Label      = 
+| Producer   = 
+| Tracks     = 
+| prev       = 
+| prev_no    = 
+| track_no   = 
+| next       = 
+| next_no    = 
+| Misc       = 
+}}
+
+"'''If'''" adalah lagu pop rock yang diciptakan pada tahun [[1971]] oleh [[penyanyi/pencipta]] lagu [[Amerika Serikat]] bernama [[David Gates]]. Awalnya lagu ini dipopulerkan oleh grup [[Bread]], masuk ke urutan nomor empat [[Billboard Hot 100]] ketika dirilis sebagai singel pada tahun 1971. Lagu ini bertahan selama tiga minggu sebagai lagu nomor satu di [[Hot Adult Contemporary Tracks|Easy Listening chart]].<ref>{{cite book|title= Top Adult Contemporary: 1961-2001|last=Whitburn|first=Joel|authorlink=Joel Whitburn|year=2002|publisher=Record Research|page=39}}</ref>
+
+Versi daur ulang lagu ini telah dinyanyikan antara lain oleh [[Petula Clark]], [[Sergio Franchi]], [[Cleo Laine]], [[Perry Como]], [[Frank Sinatra]], [[Jack Jones (penyanyi)|Jack Jones]], [[Telly Savalas]], [[Shirley Bassey]], [[Herbie Mann]], [[Julio Iglesias]], [[Joe Pass]], [[Ryoko Moriyama]], [[Westlife]], [[Olivia Newton-John]], [[Dolly Parton]], dan [[Frankmusik]]. Lagu ini juga didaur ulang oleh [[Damien Leith]] pada albumnya [[Catch the Wind: Songs of a Generation]] yang dirilis tahun 2008.  Versi dari Telly Savalas sampai di tangga lagu Britania [[UK Singles Chart]] selama dua minggu pada bulan Maret 1975.
+
+==Referensi==
+{{reflist}}
+
+{{s-start}}
+{{succession box
+| before = "[[(Where Do I Begin?) Love Story]]" oleh [[Andy Williams]]
+| title  = Singel nomor satu ''Billboard'' [[Adult Contemporary (chart)|Easy Listening]] (versi dari Bread)
+| years  = 24 April 1971 (3 minggu)
+| after  = "[[Me and You and a Dog Named Boo (lagu)|Me and You and a Dog Named Boo]]" oleh [[Lobo (musician)|Lobo]]
+}}
+{{succession box
+| before = "[[Make Me Smile (Come Up and See Me)]]" oleh [[Steve Harley & Cockney Rebel]]
+| title  = [[Daftar singel nomor satu Britania Raya|Singel nomor satu Britania Raya]] (versi Telly Savalas)
+| years  = 8 Maret 1975 (2 minggu)
+| after  = "[[Bye, Bye, Baby (Baby, Goodbye)|Bye Bye Baby]]" oleh [[Bay City Rollers]]
+}}
+{{s-end}}
+
+[[Kategori:Singel tahun 1971]]
+[[Kategori:Singel tahun 1975]]
+
+
+{{musik-stub}}

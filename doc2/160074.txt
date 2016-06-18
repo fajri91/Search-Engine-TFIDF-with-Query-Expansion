@@ -1,0 +1,14 @@
+Templat:Pengguna penggemar sayur
+{{userbox
+|logo            = [[File:Broccoli in a dish 2.jpg|45px|Sayuran.]]
+|info            = Pengguna ini gemar makan '''[[sayur|sayuran]]'''
+|border-color    = green
+|logo-background = 
+|info-background = #00ff00
+|info-color      = #006400 	
+}}
+
+
+{{#if:{{{kat|}}}||<includeonly>
+</includeonly>}}<noinclude>__NOTOC__ __NOEDITSECTION__
+</noinclude>

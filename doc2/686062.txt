@@ -1,0 +1,10 @@
+Templat:Dokumenter-stub
+{{asbox
+| image     = Nanook of the north.jpg
+| pix       = 20
+| subject   = [[film dokumenter|dokumenter]]
+| qualifier = 
+| category  = Rintisan bertopik dokumenter
+| tempsort  =  
+| name      = Templat:Dokumenter-stub
+}}

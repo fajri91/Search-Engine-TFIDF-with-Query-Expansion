@@ -1,0 +1,151 @@
+Penduduk Indonesia 2000
+'''Penduduk Indonesia 2000''' hingga tahun [[2000]] mencapai 205.132.458 jiwa. Provinsi [[Jawa Barat]] memiliki jumlah penduduk terbanyak yaitu 35.724.093 jiwa dan Provinsi [[Papua Barat|Irian Jaya Barat]] memiliki jumlah penduduk tersedikit yaitu 529.689 jiwa. Provinsi [[DKI Jakarta]] merupakan provinsi terpadat per km yaitu 12.592 penduduk per km.
+
+== Jumlah penduduk ==
+{| class="wikitable sortable"
+|-
+! Provinsi !! Jumlah penduduk !! Kepadatan Penduduk per km
+|-
+! [[Indonesia]]
+| 205.132.458 
+| 108
+|- 
+! [[Aceh]]
+| 3.929.234
+| 76
+|- 
+! [[Sumatera Utara]]
+| 11.642.488
+| 158
+|- 
+! [[Sumatera Barat]]
+| 4.248.515
+| 99
+|- 
+! [[Riau]]
+| 3.907.763
+| 52
+|- 
+! [[Jambi]]
+| 2.407.166
+| 45
+|- 
+! [[Sumatera Selatan]]
+| 6.210.800
+| 67
+|- 
+! [[Bengkulu]]
+| 1.455.500
+| 74
+|- 
+! [[Lampung]]
+| 6.730.751
+| 191
+|- 
+! [[Kepulauan Bangka Belitung]]
+| 899.968
+| 56
+|- 
+! [[Kepulauan Riau]]
+| 1.040.207
+| -
+|- 
+! [[DKI Jakarta]]
+| 8.361.079
+| 12.592
+|- 
+! [[Jawa Barat]]
+| 35.724.093
+| 1.033
+|- 
+! [[Jawa Tengah]]
+| 31.223.258
+| 959
+|- 
+! [[DI Yogyakarta]]
+| 3.121.045
+| 980
+|- 
+! [[Jawa Timur]]
+| 34.765.993
+| 726
+|- 
+! [[Banten]]
+| 8.098.277
+| 936
+|- 
+! [[Bali]]
+| 3.150.057
+| 559
+|- 
+! [[Nusa Tenggara Barat]]
+| 4.008.601
+| 199
+|- 
+! [[Nusa Tenggara Timur]]
+| 3.823.154
+| 83
+|- 
+! [[Kalimantan Barat]]
+| 4.016.353
+| 27
+|- 
+! [[Kalimantan Tengah]]
+| 1.855.473
+| 12
+|- 
+! [[Kalimantan Selatan]]
+| 2.984.026
+| 69
+|- 
+! [[Kalimantan Timur]]
+| 2.451.895
+| 11
+|- 
+! [[Sulawesi Utara]]
+| 2.000.872
+| 132
+|- 
+! [[Sulawesi Tengah]]
+| 2.175.993
+| 35
+|- 
+! [[Sulawesi Selatan]]
+| 7.159.170
+| 129
+|- 
+! [[Sulawesi Tenggara]]
+| 1.820.379
+| 48
+|- 
+! [[Gorontalo]]
+| 833.496
+| 68
+|- 
+! [[Sulawesi Barat]]
+| 891.618
+| -
+|- 
+! [[Maluku]]
+| 1.166.300
+| 26
+|- 
+! [[Maluku Utara]]
+| 815.101
+| 25
+|- 
+! [[Papua Barat|Irian Jaya Barat]]
+| 529.689
+| -
+|- 
+! [[Papua]]
+| 1.684.144
+| 6
+|}
+
+== Pranala luar ==
+* [http://demografi.bps.go.id/versi1/index.php?option=com_tabel&kat=1&Itemid=165 Data statistik Indonesia]
+
+{{indonesia-stub}}
+
+[[Kategori:Demografi Indonesia|2000]]

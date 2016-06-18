@@ -1,0 +1,2 @@
+Templat:Cetak
+[{{fullurl:{{FULLPAGENAME}}|printable=yes}} Tampilan cetak halaman ini]

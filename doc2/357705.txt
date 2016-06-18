@@ -1,0 +1,24 @@
+Templat:Kutalimbaru, Deli Serdang
+{{Navigasi ID Desa
+|provinsi=Sumatera Utara
+|dati2=Kabupaten
+|nama dati2=Deli Serdang
+|nama kecamatan=Kutalimbaru
+|d1=Kuala Lau Bicik
+|d2=Kuta Limbaru
+|d3=Lau Bakeri
+|d4=Namo Mirik
+|d5=Namo Rube Julu
+|d6=Pasar X
+|d7=Perpanden
+|d8=Sampe Cita
+|d9=Sawit Rejo
+|d10=Sei Mencirim
+|d11=Silebo Lebo
+|d12=Suka Dame
+|d13=Suka Makmur
+|d14=Suka Rende
+}}<noinclude>
+[[Kategori:Templat desa/kelurahan di Sumatera Utara|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Deli Serdang|{{PAGENAME}}]]
+</noinclude>

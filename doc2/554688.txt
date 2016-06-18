@@ -1,0 +1,208 @@
+Daftar planet minor/7750177600
+<noinclude>{{Daftar planet minor/header1}}</noinclude>
+|-
+| 77501 - || {{mp|2001 HM|40}} || 27 April 2001 || [[Socorro, NM|Socorro]] || [[Lincoln Near-Earth Asteroid Research|LINEAR]]
+|-
+| 77502 - || {{mp|2001 HJ|44}} || 16 April 2001 || [[Anderson Mesa]] || [[Lowell Observatory Near-Earth-Object Search|LONEOS]]
+|-
+| 77503 - || {{mp|2001 HP|45}} || 17 April 2001 || Anderson Mesa || LONEOS
+|-
+| 77504 - || {{mp|2001 HX|45}} || 17 April 2001 || Anderson Mesa || LONEOS
+|-
+| 77505 - || {{mp|2001 HA|46}} || 17 April 2001 || Anderson Mesa || LONEOS
+|-
+| 77506 - || {{mp|2001 HY|46}} || 18 April 2001 || [[Socorro, NM|Socorro]] || [[Lincoln Near-Earth Asteroid Research|LINEAR]]
+|-
+| 77507 - || {{mp|2001 HT|47}} || 18 April 2001 || [[Haleakala]] || [[Near Earth Asteroid Tracking|NEAT]]
+|-
+| 77508 - || {{mp|2001 HV|47}} || 19 April 2001 || Haleakala || NEAT
+|-
+| 77509 - || {{mp|2001 HW|47}} || 19 April 2001 || Haleakala || NEAT
+|-
+| 77510 - || {{mp|2001 HQ|48}} || 21 April 2001 || [[Socorro, NM|Socorro]] || [[Lincoln Near-Earth Asteroid Research|LINEAR]]
+|-
+| 77511 - || {{mp|2001 HR|48}} || 21 April 2001 || Socorro || LINEAR
+|-
+| 77512 - || {{mp|2001 HY|48}} || 21 April 2001 || Socorro || LINEAR
+|-
+| 77513 - || {{mp|2001 HD|49}} || 21 April 2001 || Socorro || LINEAR
+|-
+| 77514 - || {{mp|2001 HT|49}} || 21 April 2001 || Socorro || LINEAR
+|-
+| 77515 - || {{mp|2001 HL|50}} || 22 April 2001 || [[Haleakala]] || [[Near Earth Asteroid Tracking|NEAT]]
+|-
+| 77516 - || {{mp|2001 HR|50}} || 23 April 2001 || [[Observatorium Nasional Kitt Peak|Kitt Peak]] || [[Spacewatch]]
+|-
+| 77517 - || {{mp|2001 HS|50}} || 23 April 2001 || [[Socorro, NM|Socorro]] || [[Lincoln Near-Earth Asteroid Research|LINEAR]]
+|-
+| 77518 - || {{mp|2001 HA|52}} || 23 April 2001 || Socorro || LINEAR
+|-
+| 77519 - || {{mp|2001 HF|52}} || 23 April 2001 || Socorro || LINEAR
+|-
+| 77520 - || {{mp|2001 HU|52}} || 23 April 2001 || Socorro || LINEAR
+|-
+| 77521 - || {{mp|2001 HR|53}} || 23 April 2001 || Socorro || LINEAR
+|-
+| 77522 - || {{mp|2001 HA|54}} || 24 April 2001 || [[Anderson Mesa]] || [[Lowell Observatory Near-Earth-Object Search|LONEOS]]
+|-
+| 77523 - || {{mp|2001 HB|55}} || 24 April 2001 || [[Socorro, NM|Socorro]] || [[Lincoln Near-Earth Asteroid Research|LINEAR]]
+|-
+| 77524 - || {{mp|2001 HX|55}} || 24 April 2001 || Socorro || LINEAR
+|-
+| 77525 - || {{mp|2001 HK|56}} || 24 April 2001 || [[Haleakala]] || [[Near Earth Asteroid Tracking|NEAT]]
+|-
+| 77526 - || {{mp|2001 HN|57}} || 25 April 2001 || [[Anderson Mesa]] || [[Lowell Observatory Near-Earth-Object Search|LONEOS]]
+|-
+| 77527 - || {{mp|2001 HO|57}} || 25 April 2001 || Anderson Mesa || LONEOS
+|-
+| 77528 - || {{mp|2001 HP|58}} || 25 April 2001 || [[Haleakala]] || [[Near Earth Asteroid Tracking|NEAT]]
+|-
+| 77529 - || {{mp|2001 HV|60}} || 24 April 2001 || [[Anderson Mesa]] || [[Lowell Observatory Near-Earth-Object Search|LONEOS]]
+|-
+| 77530 - || {{mp|2001 HW|60}} || 24 April 2001 || Anderson Mesa || LONEOS
+|-
+| 77531 - || {{mp|2001 HX|60}} || 24 April 2001 || Anderson Mesa || LONEOS
+|-
+| 77532 - || {{mp|2001 HA|61}} || 24 April 2001 || Anderson Mesa || LONEOS
+|-
+| 77533 - || {{mp|2001 HE|61}} || 24 April 2001 || [[Observatorium Nasional Kitt Peak|Kitt Peak]] || [[Spacewatch]]
+|-
+| 77534 - || {{mp|2001 HL|61}} || 24 April 2001 || [[Haleakala]] || [[Near Earth Asteroid Tracking|NEAT]]
+|-
+| 77535 - || {{mp|2001 HT|62}} || 26 April 2001 || [[Anderson Mesa]] || [[Lowell Observatory Near-Earth-Object Search|LONEOS]]
+|-
+| 77536 - || {{mp|2001 HX|62}} || 26 April 2001 || Anderson Mesa || LONEOS
+|-
+| 77537 - || {{mp|2001 HJ|63}} || 26 April 2001 || Anderson Mesa || LONEOS
+|-
+| 77538 - || {{mp|2001 HZ|63}} || 27 April 2001 || [[Socorro, NM|Socorro]] || [[Lincoln Near-Earth Asteroid Research|LINEAR]]
+|-
+| 77539 - || {{mp|2001 HE|64}} || 27 April 2001 || Socorro || LINEAR
+|-
+| 77540 - || {{mp|2001 HF|64}} || 27 April 2001 || Socorro || LINEAR
+|-
+| 77541 - || {{mp|2001 HS|64}} || 27 April 2001 || [[Haleakala]] || [[Near Earth Asteroid Tracking|NEAT]]
+|-
+| 77542 - || {{mp|2001 HV|65}} || 30 April 2001 || [[Socorro, NM|Socorro]] || [[Lincoln Near-Earth Asteroid Research|LINEAR]]
+|-
+| 77543 - || {{mp|2001 HU|66}} || 25 April 2001 || [[Anderson Mesa]] || [[Lowell Observatory Near-Earth-Object Search|LONEOS]]
+|-
+| 77544 - || {{mp|2001 HB|67}} || 27 April 2001 || [[Haleakala]] || [[Near Earth Asteroid Tracking|NEAT]]
+|-
+| 77545 - || {{mp|2001 JR|1}} || 12 Mei 2001 || [[Anderson Mesa]] || [[Lowell Observatory Near-Earth-Object Search|LONEOS]]
+|-
+| 77546 - || {{mp|2001 JS|1}} || 11 Mei 2001 || [[Haleakala]] || [[Near Earth Asteroid Tracking|NEAT]]
+|-
+| 77547 - || {{mp|2001 JL|2}} || 15 Mei 2001 || [[Observatorium Nasional Kitt Peak|Kitt Peak]] || [[Spacewatch]]
+|-
+| 77548 - || {{mp|2001 JQ|3}} || 15 Mei 2001 || [[Haleakala]] || [[Near Earth Asteroid Tracking|NEAT]]
+|-
+| 77549 - || {{mp|2001 JZ|4}} || 10 Mei 2001 || Haleakala || NEAT
+|-
+| 77550 - || {{mp|2001 JW|5}} || 15 Mei 2001 || [[Anderson Mesa]] || [[Lowell Observatory Near-Earth-Object Search|LONEOS]]
+|-
+| 77551 - || {{mp|2001 JK|6}} || 14 Mei 2001 || [[Observatorium Nasional Kitt Peak|Kitt Peak]] || [[Spacewatch]]
+|-
+| 77552 - || {{mp|2001 JY|6}} || 15 Mei 2001 || [[Anderson Mesa]] || [[Lowell Observatory Near-Earth-Object Search|LONEOS]]
+|-
+| 77553 - || {{mp|2001 JB|7}} || 15 Mei 2001 || Anderson Mesa || LONEOS
+|-
+| 77554 - || {{mp|2001 JD|7}} || 15 Mei 2001 || Anderson Mesa || LONEOS
+|-
+| 77555 - || {{mp|2001 JO|7}} || 15 Mei 2001 || [[Observatorium Nasional Kitt Peak|Kitt Peak]] || [[Spacewatch]]
+|-
+| 77556 - || {{mp|2001 JQ|7}} || 15 Mei 2001 || [[Anderson Mesa]] || [[Lowell Observatory Near-Earth-Object Search|LONEOS]]
+|-
+| 77557 - || {{mp|2001 JR|8}} || 15 Mei 2001 || [[Observatorium Palomar|Palomar]] || [[Near Earth Asteroid Tracking|NEAT]]
+|-
+| 77558 - || {{mp|2001 JY|9}} || 15 Mei 2001 || [[Haleakala]] || NEAT
+|-
+| 77559 - || {{mp|2001 KA|1}} || 17 Mei 2001 || [[Socorro, NM|Socorro]] || [[Lincoln Near-Earth Asteroid Research|LINEAR]]
+|-
+| 77560 - || {{mp|2001 KP|1}} || 17 Mei 2001 || [[Saji Observatory|Saji]] || [[Saji Observatory|Saji]]
+|-
+| 77561 - || {{mp|2001 KS|1}} || 16 Mei 2001 || [[Goodricke-Pigott Observatory|Goodricke-Pigott]] || [[Roy A. Tucker|R. A. Tucker]]
+|-
+| 77562 - || {{mp|2001 KO|3}} || 17 Mei 2001 || [[Socorro, NM|Socorro]] || [[Lincoln Near-Earth Asteroid Research|LINEAR]]
+|-
+| 77563 - || {{mp|2001 KP|3}} || 17 Mei 2001 || Socorro || LINEAR
+|-
+| 77564 - || {{mp|2001 KB|4}} || 17 Mei 2001 || Socorro || LINEAR
+|-
+| 77565 - || {{mp|2001 KG|4}} || 17 Mei 2001 || Socorro || LINEAR
+|-
+| 77566 - || {{mp|2001 KO|4}} || 17 Mei 2001 || Socorro || LINEAR
+|-
+| 77567 - || {{mp|2001 KA|6}} || 17 Mei 2001 || Socorro || LINEAR
+|-
+| 77568 - || {{mp|2001 KL|6}} || 17 Mei 2001 || Socorro || LINEAR
+|-
+| 77569 - || {{mp|2001 KN|6}} || 17 Mei 2001 || Socorro || LINEAR
+|-
+| 77570 - || {{mp|2001 KB|9}} || 18 Mei 2001 || Socorro || LINEAR
+|-
+| 77571 - || {{mp|2001 KP|9}} || 18 Mei 2001 || Socorro || LINEAR
+|-
+| 77572 - || {{mp|2001 KL|10}} || 18 Mei 2001 || Socorro || LINEAR
+|-
+| 77573 - || {{mp|2001 KN|10}} || 18 Mei 2001 || Socorro || LINEAR
+|-
+| 77574 - || {{mp|2001 KD|11}} || 18 Mei 2001 || Socorro || LINEAR
+|-
+| 77575 - || {{mp|2001 KF|11}} || 18 Mei 2001 || Socorro || LINEAR
+|-
+| 77576 - || {{mp|2001 KS|11}} || 18 Mei 2001 || Socorro || LINEAR
+|-
+| 77577 - || {{mp|2001 KV|11}} || 18 Mei 2001 || Socorro || LINEAR
+|-
+| 77578 - || {{mp|2001 KC|12}} || 18 Mei 2001 || Socorro || LINEAR
+|-
+| 77579 - || {{mp|2001 KL|12}} || 18 Mei 2001 || Socorro || LINEAR
+|-
+| 77580 - || {{mp|2001 KO|12}} || 18 Mei 2001 || Socorro || LINEAR
+|-
+| 77581 - || {{mp|2001 KE|14}} || 18 Mei 2001 || Socorro || LINEAR
+|-
+| 77582 - || {{mp|2001 KH|14}} || 18 Mei 2001 || Socorro || LINEAR
+|-
+| 77583 - || {{mp|2001 KL|14}} || 18 Mei 2001 || Socorro || LINEAR
+|-
+| 77584 - || {{mp|2001 KP|14}} || 18 Mei 2001 || Socorro || LINEAR
+|-
+| 77585 - || {{mp|2001 KQ|14}} || 18 Mei 2001 || Socorro || LINEAR
+|-
+| 77586 - || {{mp|2001 KT|14}} || 18 Mei 2001 || Socorro || LINEAR
+|-
+| 77587 - || {{mp|2001 KD|16}} || 18 Mei 2001 || Socorro || LINEAR
+|-
+| 77588 - || {{mp|2001 KJ|16}} || 18 Mei 2001 || Socorro || LINEAR
+|-
+| 77589 - || {{mp|2001 KC|17}} || 18 Mei 2001 || Socorro || LINEAR
+|-
+| 77590 - || {{mp|2001 KM|17}} || 21 Mei 2001 || Socorro || LINEAR
+|-
+| 77591 - || {{mp|2001 KO|18}} || 21 Mei 2001 || [[Observatorium Nasional Kitt Peak|Kitt Peak]] || [[Spacewatch]]
+|-
+| 77592 - || {{mp|2001 KS|19}} || 22 Mei 2001 || [[Socorro, NM|Socorro]] || [[Lincoln Near-Earth Asteroid Research|LINEAR]]
+|-
+| 77593 - || {{mp|2001 KJ|20}} || 22 Mei 2001 || [[Observato Ondejov|Ondejov]] || [[Peter Kunirk|P. Kunirk]], [[Petr Pravec|P. Pravec]]
+|-
+| 77594 - || {{mp|2001 KQ|21}} || 17 Mei 2001 || [[Socorro, NM|Socorro]] || [[Lincoln Near-Earth Asteroid Research|LINEAR]]
+|-
+| 77595 - || {{mp|2001 KU|21}} || 17 Mei 2001 || Socorro || LINEAR
+|-
+| 77596 - || {{mp|2001 KX|21}} || 17 Mei 2001 || Socorro || LINEAR
+|-
+| 77597 - || {{mp|2001 KO|22}} || 17 Mei 2001 || Socorro || LINEAR
+|-
+| 77598 - || {{mp|2001 KE|23}} || 17 Mei 2001 || Socorro || LINEAR
+|-
+| 77599 - || {{mp|2001 KT|23}} || 17 Mei 2001 || Socorro || LINEAR
+|-
+| 77600 - || {{mp|2001 KY|23}} || 17 Mei 2001 || Socorro || LINEAR
+|-
+<noinclude>{{Daftar planet minor/footer}}
+{{Daftar planet minor/navigator|77501|77600|[[Daftar planet minor/77401&ndash;77500|Sebelum]]|[[Daftar planet minor/77601&ndash;77700|Sesudah]]}}
+</noinclude>
+
+[[Kategori:Daftar planet minor|Daftar planet minor (077501-077600)]]

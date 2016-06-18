@@ -1,0 +1,73 @@
+Bahasa Tatar Krimea
+{{Infobox language
+|name=Tatar Krimea
+|nativename={{lang|crh|Qrmtatarca, Qrmtatar tili}} <br> {{lang|crh|,  }}
+|pronunciation={{IPA|[qrmttrd]}}
+|states=[[Ukraina]], [[Uzbekistan]], [[Rumania]], [[Bulgaria]], [[Turki]]
+|region=[[Laut Hitam]]
+|ethnicity=[[Tatar Krimea]]
+|speakers=480.000
+|date=2006
+|ref=e17
+|familycolor=Altaik
+|fam1=[[Rumpun bahasa Turk|Turk]]
+|fam2=[[Rumpun bahasa Kypchak|Kypchak]]
+|fam3=Kypchak-Cuman[[Rumpun bahasa Oghuz|Oghuz]]
+|script=[[Aksara Sirilik|Sirilik]], [[Abjad Latin|Latin]]; sebelumnya [[abjad Arab]]
+|nation=
+|minority={{flag|Ukraina}} ([[Republik Otonom Krimea]]), {{flag|Rumania}} ([[Dobroudja]])
+|iso2=crh
+|iso3=crh
+|map=Crymean Tatar lang.png
+|mapcaption=Wilayah yang menuturkan bahasa Tatar Krimea
+|lingua=bagian dari 44-AAB-a
+|notice=IPA
+}}
+'''Tatar Krimea'''<ref>juga disebut ''bahasa Krimea'', ''Turki Krimea''</ref> (''Qrmtatarca'', ''Qrmtatar tili'', ,  ) adalah bahasa asli bangsa [[Tatar Krimea]]. Bahasa ini merupakan bagian dari [[rumpun bahasa Turk]] dan dituturkan di [[Krimea]] oleh bangsa Tatar Krimea dan di [[Uzbekistan]], [[Turki]], [[Rumania]], dan [[Bulgaria]] oleh [[diaspora Tatar Krimea]]. Bahasa ini juga dituturkan oleh komunitas Tatar Krimea kecil di [[Amerika Serikat]] dan [[Kanada]]. Bahasa ini tidak sama dengan [[bahasa Tatar]] yang dituturkan di Rusia; walaupun kedua bahasa tersebut berkerabat, penutur bahasa Tatar Krimea tidak dapat memahami bahasa Tatar dan sebaliknya.
+
+== Perbandingan ==
+{|class="wikitable" border="1" cellpadding="3" cellspacing="0" align="center"
+|-
+! style="background:#CFCFCF;" | ''Tatar Krimea''
+! style="background:#CFCFCF;" | ''Turki''
+! style="background:#CFCFCF;" | ''Azerbaijan''
+! style="background:#CFCFCF;" | ''Indonesia''
+|-
+| Meclis Haberleri 10.09.2003// Qrmtatar Milliy Meclisini 120-c toplauv olp keti
+2003 senesi sentbr 7 kn Aqmescitteki slm Merkezini binasnda Qrmtatar Milliy Meclisini 120-c toplauv olp keti. Toplauvda...
+| Meclis Haberleri 10.09.2003// Krm Tatar Mill Meclisi'nin 120. toplants gerekleti
+7 Eyll 2003 gn Akmescit'teki slam Merkezi'nin binasnda Krm Tatar Mill Meclisi'nin 120. toplants gerekleti. Toplantda...
+| Mclis Xbrlri 10.09.2003// Qrm Tatar Milli Mclisinin 120-ci toplants keirildi
+2003-c il sentyabrn 7-si gn Amsciddki slam Mrkzinin binasnda Qrm Tatar Milli Mclisinin 120-ci toplants keirildi. Toplantda...
+| Berita Dewan 10.09.2003// Pertemuan ke-120 Dewan Nasional Tatar Krimea diadakan
+Pada 7 September 2003, pertemuan Dewan Nasional Tatar Krimea diadakan di bangunan Pusat Islam di Simferopol. Pada pertemuan...
+|-
+|-
+|}
+
+== Catatan kaki ==
+{{Reflist}}
+
+== Bibliografi ==
+* {{cite book|last1=Berta|first1=rpd|editor1-last=Johanson|editor1-first=Lars|editor2-last=Csat|editor2-first=va gnes|title=The Turkic Languages|chapter=West Kipchak Languages|year=1998|pages=301317|publisher=[[Routledge]]|isbn=978-0-415-08200-6}}
+* {{cite book|last1=Kavitskaya|first1=Darya|title=Crimean Tatar|year=2010|location=[[Munich]]|publisher=Lincom Europa}}
+
+== Pranala luar ==
+* [[wikt:category:Crimean Tatar language|Wiktionary's category of Crimean Tatar words]]
+* [http://korpus.juls.savba.sk/QIRIM/ Linguistic corpus of Crimean Tatar language]
+* [http://www.qurultay.org/eng/default.asp Mejlis of the Crimean Tatar People]
+* [http://www.kirimtatar.net/tatarca/dil.html Krmtatar Dili] {{tr icon}}
+* [http://tr.wiktionary.org/wiki/Kategori:K%C4%B1r%C4%B1m_Tatarca_s%C3%B6zc%C3%BCkler Wiktionary's category of Crimean Tatar words] {{tr icon}}
+* [http://medeniye.org/en/node/695 Crimean Tatar internet library]
+* [http://medeniye.org/en/node/531 Automatic Latin<>Cyrillic transliterator for Crimean Tatar texts]
+
+==Dictionaries==
+* [http://www.jiport.com/en/?sname=rukta Russian-Crimean Tatar Dictionary]
+* [http://www.tatarcasozluk.com Online Crimean Tatar (Northern dialect) -Turkish-English Dictionary tatarcasozluk.com]
+
+[[Kategori:Bahasa aglutinatif]]
+[[Kategori:Rumpun bahasa Turk]]
+[[Kategori:Tatar Krimea]]
+[[Kategori:Bahasa di Ukraina]]
+
+{{bahasa-stub}}

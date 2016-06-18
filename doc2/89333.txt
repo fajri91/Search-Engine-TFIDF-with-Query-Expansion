@@ -1,0 +1,41 @@
+Templat:Cabang Olimpiade 2008
+{{Navbox
+|name=Cabang Olimpiade 2008
+|title='''[[Daftar cabang olahraga Olimpiade Musim Panas 2008|Cabang olahraga]] [[Olimpiade Musim Panas 2008]]'''
+|bodystyle = background:white; width:80%; vertical-align:middle;
+|image = [[Berkas:Olympic rings.svg|50px]]
+|listclass = hlist
+|list1=
+* [[Anggar pada Olimpiade Musim Panas 2008|Anggar]]
+* [[Angkat besi pada Olimpiade Musim Panas 2008|Angkat besi]]
+* [[Atletik pada Olimpiade Musim Panas 2008|Atletik]]
+* [[Balap sepeda pada Olimpiade Musim Panas 2008|Balap sepeda]]
+* [[Berkuda pada Olimpiade Musim Panas 2008|Berkuda]]
+* [[Bisbol pada Olimpiade Musim Panas 2008|Bisbol]]
+* [[Bola basket pada Olimpiade Musim Panas 2008|Bola basket]]
+* [[Bola tangan pada Olimpiade Musim Panas 2008|Bola tangan]]
+* [[Bola voli pada Olimpiade Musim Panas 2008|Bola voli]]
+* [[Bulu tangkis pada Olimpiade Musim Panas 2008|Bulu tangkis]]
+* [[Dayung pada Olimpiade Musim Panas 2008|Dayung]]
+* [[Gulat pada Olimpiade Musim Panas 2008|Gulat]]
+* [[Hoki (lapangan) pada Olimpiade Musim Panas 2008|Hoki (lapangan)]]
+* [[Judo pada Olimpiade Musim Panas 2008|Judo]]
+* [[Kano-Kayak pada Olimpiade Musim Panas 2008|Kano-Kayak]]
+* [[Layar pada Olimpiade Musim Panas 2008|Layar]]
+* [[Loncat indah pada Olimpiade Musim Panas 2008|Loncat indah]]
+* [[Menembak pada Olimpiade Musim Panas 2008|Menembak]]
+* [[Panahan pada Olimpiade Musim Panas 2008|Panahan]]
+* [[Pancalomba modern pada Olimpiade Musim Panas 2008|Pancalomba modern]]
+* [[Polo air pada Olimpiade Musim Panas 2008|Polo air]]
+* [[Renang pada Olimpiade Musim Panas 2008|Renang]]
+* [[Renang indah pada Olimpiade Musim Panas 2008|Renang indah]]
+* [[Sepak bola pada Olimpiade Musim Panas 2008|Sepak bola]]
+* [[Senam pada Olimpiade Musim Panas 2008|Senam]]
+* [[Sofbol pada Olimpiade Musim Panas 2008|Sofbol]]
+* [[Taekwondo pada Olimpiade Musim Panas 2008|Taekwondo]]
+* [[Tenis pada Olimpiade Musim Panas 2008|Tenis]]
+* [[Tenis meja pada Olimpiade Musim Panas 2008|Tenis meja]]
+* [[Tinju pada Olimpiade Musim Panas 2008|Tinju]]
+* [[Trilomba pada Olimpiade Musim Panas 2008|Trilomba]]
+}}<noinclude>[[Kategori:Templat Olimpiade]]
+</noinclude>

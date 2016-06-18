@@ -1,0 +1,32 @@
+Templat:Bandar Udara di Kamerun
+{{Navbox
+|name  = Bandar Udara di Kamerun
+|title = [[Berkas:Flag of Cameroon.svg|23px|Bendera Kamerun]] [[Daftar bandar udara di Kamerun|Bandar udara di Kamerun]]
+|listclass = hlist
+|list1 = 
+* [[Bandar Udara Bafoussam]]
+* [[Bandar Udara Bali]]
+* [[Bandar Udara Bamenda]]
+* [[Bandar Udara Batouri]]
+* [[Bandar Udara Bertoua]]
+* [[Bandar Udara Internasional Douala]]
+* [[Bandar Udara Dschang]]
+* [[Bandar Udara Ebolowa]]
+* [[Bandar Udara Foumban Nkounja]]
+* [[Bandar Udara Internasional Garoua]]
+* [[Bandar Udara Kal]]
+* [[Bandar Udara Kribi]]
+* [[Bandar Udara Limbe]]
+* [[Bandar Udara Mamfe]]
+* [[Bandar Udara Salak]]
+* [[Bandar Udara Ngaoundr]]
+* [[Bandar Udara Nkongsamba]]
+* [[Bandar Udara Tiko]]
+* [[Bandar Udara Yagoua]]
+* [[Bandar Udara Yaound]]
+* [[Bandar Udara Internasional Yaound Nsimalen]]  
+
+}}<noinclude>
+[[Kategori:Templat navigasi bandara|Kamerun]]
+[[Kategori:Templat navigasi Kamerun]]
+</noinclude>

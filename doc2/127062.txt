@@ -1,0 +1,16 @@
+Templat:Daftar diskusi/doc
+Templat ini digunakan di [[MediaWiki:Recentchangestext]], [[Portal:Komunitas]], dan [[Wikipedia:Warung Kopi]]
+
+==Pemakaian==
+<code><nowiki>{{Daftar diskusi}}</nowiki></code>
+
+;Alias
+<code><nowiki>{{Daftardiskusi}}</nowiki></code>
+<!--
+==Lihat pula==
+-->
+
+<includeonly>
+{{DEFAULTSORT:{{PAGENAME}}}}
+[[Kategori:Templat Wikipedia]]
+</includeonly><noinclude>[[Kategori:Dokumentasi templat]]</noinclude>

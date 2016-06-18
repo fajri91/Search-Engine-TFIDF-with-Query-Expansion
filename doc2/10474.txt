@@ -1,0 +1,11 @@
+CRC
+{{rapikan|topik=teknologi informasi}}
+'''CRC''' (Cyclic Redundancy Check) adalah [[algoritma]] untuk memastikan integritas data dan mengecek kesalahan pada suatu data yang akan ditransmisikan atau disimpan.
+
+Data yang hendak ditransmisikan atau disimpan ke sebuah media penyimpanan rentan sekali mengalami kesalahan, seperti halnya noise yang terjadi selama proses transmisi atau memang ada kerusakan perangkat keras. Untuk memastikan integritas data yang hendak ditransmisikan atau disimpan, CRC dapat digunakan. CRC bekerja secara sederhana, yakni dengan menggunakan perhitungan matematika terhadap sebuah bilangan yang disebut sebagai '''Checksum''', yang dibuat berdasarkan total bit yang hendak ditransmisikan atau yang hendak disimpan. 
+
+Dalam transmisi jaringan, khususnya dalam jaringan berbasis teknologi Ethernet, checksum akan dihitung terhadap setiap frame yang hendak ditransmisikan dan ditambahkan ke dalam frame tersebut sebagai informasi dalam header atau trailer. Penerima frame tersebut akan menghitung kembali apakah frame yang ia terima benar-benar tanpa kerusakan, dengan membandingkan nilai frame yang dihitung dengan nilai frame yang terdapat dalam header frame. Jika dua nilai tersebut berbeda, maka frame tersebut telah berubah dan harus dikirimkan ulang.
+
+CRC didesain sedemikian rupa untuk memastikan integritas data terhadap degradasi yang bersifat acak dikarenakan noise atau sumber lainnya (kerusakan media dan lain-lain). CRC tidak menjamin integritas data dari ancaman modifikasi terhadap perlakukan yang mencurigakan oleh para hacker, karena memang para penyerang dapat menghitung ulang checksum dan mengganti nilai checksum yang lama dengan yang baru untuk membodohi penerima.
+
+{{computer-stub}}

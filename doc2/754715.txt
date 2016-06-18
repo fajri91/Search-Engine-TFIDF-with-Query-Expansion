@@ -1,0 +1,14 @@
+Berkas:Mascot-SEAGames2014.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+Mascot SEA Games 2014, Singapore
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{LogoOlahraga}}

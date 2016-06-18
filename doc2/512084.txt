@@ -1,0 +1,39 @@
+Stadion Utama Lille Mtropole
+{{Infobox stadium
+|  stadium_name      = Stadion Utama Lille Mtropole
+|  nickname          =
+|  fullname          = Grand Stade Lille Mtropole
+|  image             = [[Berkas:Grand Stade Lille Mtropole LOSC first match.JPG|250px]]
+|  caption           =
+|  location          = 261 Boulevard de Tournai<br>quartier de l'Htel de Ville<br>[[Villeneuve d'Ascq]]<br>{{flag|Perancis}}
+|  coordinates       = {{coord|50.611275|3.128196|display=title,inline|type:landmark}}
+|  broke_ground      = 2009
+|  opened           =  17 Agustus 2012
+|  closed            =
+|  demolished        =
+|  owner             = Eiffage (hingga tahun 2043)
+|  operator          = Eiffage
+|  surface           = Rumput
+|  construction_cost = [[Euro|]] 282 juta<br>([[Euro|]] 42 juta, Hotel dan Restoran)<br> ([[Euro|]] 324 million, Total komplek)
+|  architect         = Valode & Pistre
+|  design-builder    =
+|  former_names      =
+|  tenants           = [[Lille OSC]] (2012-sekarang)
+|  seating_capacity  = 50.186
+|  dimensions        =
+}}
+
+'''Stadion Utama Lille Mtropole''' ({{IPA-fr|g.stad.lil.me.t'pl}}) adalah sebuah stadion serbaguna di [[Villeneuve d'Ascq]] dekat [[Lille]], [[Perancis]]. Stadion ini adalah stadion baru yang dibuka pada bulan [[Agustus]] [[2012]].
+
+Stadion ini merupakan stadion kandang baru bagi klub sepak bola [[Lille OSC]]. Stadion ini berkapasitas 50.186 penonton.
+
+== Pranala luar ==
+*{{fr}} {{Official|www.grandstade-lillemetropole.com}}
+*{{fr}} [http://www.losc.fr/club-lille/la-reine-des-arenes Profil stadion pada situs web resmi klub]
+*{{fr}} [http://www.lfp.fr/club/losc-lille#bloc_stade Info stadion pada situs web resmi Ligue 1]
+
+{{Stadion Ligue 1}}
+{{Stadion-stub}}
+
+[[Kategori:Stadion sepak bola di Perancis|G]]
+[[Kategori:Lille OSC]]

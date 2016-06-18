@@ -1,0 +1,64 @@
+Bandar Udara Internasional La Tontouta
+{{Infobox Airport
+| name         = Bandar Udara Internasional Tontouta
+| nativename   = Aroport de Nouma - La Tontouta
+| nativename-a =
+| nativename-r =
+| image        =
+| image-width  = 200
+| caption      =
+| IATA         = NOU
+| ICAO         = NWWW
+<center>{{Location map|New Caledonia|width=200|float=center
+|caption=|mark=Airplane_silhouette.svg|marksize=10
+|label=NOU|position=right
+|lat_deg=22|lat_min=00|lat_sec=59|lat_dir=S
+|lon_deg=166|lon_min=12|lon_sec=58|lon_dir=E
+}}<small>Lokasi bandar udara di Kaledonia Bari</small></center>
+| type         = Publik
+| owner        =
+| operator     = New Caledonia Chamber of Commerce & Industry
+| city-served  =
+| location     = [[Pata]], [[Kaledonia Baru]]
+| elevation-f  = 52
+| elevation-m  = 16
+| coordinates  = {{Coord|22|00|59|S|166|12|58|E|type:airport}}
+| website      =
+| metric-elev  =
+| metric-rwy   =
+| r1-number    = 11/29
+| r1-length-f  = 10,663
+| r1-length-m  = 3,250
+| r1-surface   = [[Aspal]]
+| stat-year    =
+| stat1-header =
+| stat1-data   =
+| stat2-header =
+| stat2-data   =
+| footnotes    =
+}}
+'''Bandar Udara Internasional La Tontouta'''  atau '''Bandar Udara Internasional Nouma - La Tontouta''' ({{lang-fr|Aroport de Nouma - La Tontouta}}) {{airport codes|NOU|NWWW}} adalah [[bandar udara internasional]] utama di [[Kaledonia Baru]]. Bandar udara ini terletak di munisipalitas [[Pata]], kira-kira 52&nbsp;km barat laut [[Nouma]], kota besar yang terdekat.  Pada tahun 2006, 415,813 penumpang menggunakan bandar udara ini.<ref>{{cite web |url=http://www.aeroport.fr/les-aeroports-de-l-uaf/stats-noumea-la-tontouta.php |title=Annual statistics}}</ref>
+
+==Maskapai penerbangan dan tujuan==
+===Maskapai penerbangan kargo===
+{{airport-dest-list
+|[[ACT Airlines]]|
+|[[Cotrans]]|
+|[[Mirage Transit]]|
+|[[Nouma Transit]]|
+|[[Socatrans]]|
+|[[TTI]]{{dn|date=September 2012}}|
+}}
+
+==Referensi==
+{{Reflist}}
+
+==Pranala luar==
+*[http://www.tontouta-aeroport.nc/ Aroport international de Nouma - La Tontouta] (official website) {{fr icon}}
+*French [[Aeronautical Information Publication]] for '''{{AIP FR|NWWW|PAC-N}}''' <small>([[Portable Document Format|PDF]])</small> - NOUMA '''LA TONTOUTA'''
+*[http://www.aeroport.fr/les-aeroports-de-l-uaf/noumea-la-tontouta.php Aroport de Nouma - La Tontouta] at [[L'Union des Aroports Franais]] {{fr icon}}
+
+{{DEFAULTSORT:La Tontouta, bandar udara internasional}}
+{{bandara-oseania-stub}}
+
+[[Kategori:Bandar udara di Kaledonia Baru]]

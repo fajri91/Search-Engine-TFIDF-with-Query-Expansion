@@ -1,0 +1,2 @@
+Templat:Infobox road/IA browse
+<includeonly>{{Infobox road/meta/browse|country=USA|state=IA|county={{{county|}}}|previous_type={{{previous_type|}}}|previous_route={{{previous_route|}}}|browse_route={{{route|}}}|next_type={{{next_type|}}}|next_route={{{next_route|}}}|previous_dab={{{previous_dab|}}}|next_dab={{{next_dab|}}}}}</includeonly><noinclude>[[Kategori:Templat kotakinfo jalan bebas hambatan di Iowa|{{PAGENAME}}]]</noinclude>

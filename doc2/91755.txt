@@ -1,0 +1,55 @@
+Templat:Kotakinfo animanga/Atasan
+{{ #ifeq: {{{child<includeonly>|yes</includeonly>}}} | yes | <table class="infobox" style="width: 22em">
+}}{{Infobox
+|decat          = yes
+|child          = {{{child|<includeonly>yes</includeonly>}}}
+|bodystyle      = border-spacing:2px;
+|italic title   = {{{italic title|}}}
+|subheader      = {{
+  #ifeq: {{NAMESPACE}} | Template
+  | {{{name<includeonly>|</includeonly>}}}
+  | {{#if:{{{name|}}}|{{{name|}}}|{{PAGENAME}}}}
+}}
+|subheaderstyle = font-size:125%; font-weight:bold; font-style:italic; background:#CCF;
+
+|image          = <noinclude><nowiki>[[Berkas:{{{image}}} | {{{size=250px}}} | alt={{{alt}}}]]</nowiki></noinclude>{{#if:{{{image|}}}|{{#if:{{{size|}}}|{{#if:{{{alt|}}}|[[Berkas:{{{image}}}|{{{size}}}|alt={{{alt}}}]]|[[Berkas:{{{image}}}|{{{size}}}]]}}|{{#if:{{{alt|}}}|[[Berkas:{{{image}}}|250px|alt={{{alt}}}]]|[[Berkas:{{{image}}}|250px]]}}}}|}}
+|caption        = {{{caption<includeonly>|</includeonly>}}}
+
+|headerstyle    = background:#DDF; font-weight:normal; 
+
+|header1  = {{
+  #if: {{{ja_kanji<includeonly>|</includeonly>}}} | {{lang|ja|{{{ja_kanji}}}}}{{
+    #if: {{{ja_romaji<includeonly>|</includeonly>}}} | <br /><span>(''{{{ja_romaji}}}'')</span> 
+  }}
+}}
+
+|label2   = Genre
+|data2    = {{{genre<includeonly>|</includeonly>}}}
+}}{{
+  #ifeq: {{NAMESPACE}} | {{ns:0}} | {{
+    #if: {{{image|}}} || [[Kategori:Artikel anime dan manga tanpa gambar]]
+  }}{{
+    #if: {{{ja_romaji|}}} | {{
+      #ifeq: {{{name|{{PAGENAME}}}}} | {{{ja_romaji}}} | [[Kategori:Artikel anime dan manga dengan parameter kotakinfo berulang]]
+    }}
+  }}
+}}{{
+  #if: {{{image|}}} | {{ #if: {{{caption|}}} || [[Kategori:Artikel anime dan manga dengan gambar tanpa takarir]] }}
+}}{{
+  #switch: {{NAMESPACE}}
+  | Pembicaraan
+  | Templat
+  | Pembicaraan Templat
+  | Wikipedia
+  | Pembicaraan Wikipedia =
+  | {{
+    #ifeq: {{{image|}}} |  | [[Kategori:Artikel anime dan manga dengan parameter kotakinfo yang kurang]]
+  }}{{
+    #ifeq: {{{caption|}}} |  | [[Kategori:Artikel anime dan manga dengan parameter kotakinfo yang kurang]]
+  }}{{
+    #ifeq: {{{genre|}}} |  | [[Kategori:Artikel anime dan manga dengan parameter kotakinfo yang kurang]]
+  }}
+}}<noinclude>
+{{Kotakinfo animanga}}
+
+</noinclude>

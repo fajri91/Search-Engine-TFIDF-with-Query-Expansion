@@ -1,0 +1,251 @@
+Porositas
+{{refimprove|date=September 2013}}
+'''Porositas''' adalah ukuran dari ruang kosong di antara material, dan merupakan fraksi dari volume ruang kosong terhadap total volume, yang bernilai antara 0 dan 1, atau sebagai persentase antara 0-100%. Istilah ini digunakan di berbagai kajian ilmu seperti [[geologi]], [[geofisika]], [[farmasi]], [[teknik manufaktur]], [[ilmu tanah]], [[metalurgi]], dan sebagainya.
+
+Porositas bergantung pada jenis bahan, ukuran bahan, distribusi pori, sementasi, riwayat diagenetik, dan komposisinya. Porositas bebatuan umumnya berkurang dengan bertambahnya usia dan kedalaman. Namun hal yang berlawanan dapat terjadi yang biasanya dikarenakan riwayat temperatur bebatuan.
+
+== Porositas pada aliran dua fase ==
+Dalam aliran dua fase gas dan cairan, fraksi kekosongan didefinisikan sebagai fraksi dari volume aliran yang ditempati oleh gas.<ref>G.F. Hewitt, G.L. Shires, Y.V.Polezhaev (editors), "International Encyclopedia of Heat and Mass Transfer", CRC Press, 1997.</ref>  Porositas umumnya bervariasi dari satu lokasi ke lokasi lainnya dalam perpipaan dan berfluktuasi terhadap waktu. Pada aliran non-homogen, porositas terkait dengan [[laju aliran volumetrik]] dari fase gas dan cairan, dan terkait dengan kecepatan relatif antara dua fase (disebut dengan [[slip ratio]]).
+
+== Porositas dalam ilmu bumi dan konstruksi ==
+Porositas yang digunakan dalam [[geologi]], [[hidrogeologi]], [[ilmu tanah]], dan [[ilmu bangunan]], yaitu bahan padat yang ruangnya diisi cairan dan udara, didefinisikan dengan:
+
+:<math>\phi = \frac{V_\mathrm{V}}{V_\mathrm{T}}</math>
+
+dengan ''V''<sub>V</sub> adalah volume dari ruang kosong yang diisi cairan dan udara dan ''V''<sub>T</sub> adalah total volume dari bahan.
+
+Porositas adalah fraksi antara 0 dan 1. Seperti contoh batu [[granit]] yang memiliki porositas 0.01, dan [[gambut]] serta [[tanah liat]] yang memiliki porositas sekitar 0.5.
+
+Dalam [[geologi]] [[pertambangan]], porositas bebatuan atau lapisan sedimen penting sebagai rujukan ketika mengevaluasi volume potensial [[air]] dan [[hidrokarbon]] yang mungkin terkandung di dalamnya. Porositas sedimen adalah fungsi yang rumit dari berbagai faktor, mencakup laju pengebumian, kedalaman pengebumian, sifat fluida, sifat sedimen di atasnya, dan sebagainya. Persamaan yang umum digunakan adalah persamaan Athy (1930):<ref>ATHY L.F., 1930. Density, porosity and compactation of sedimentary rocks, ''Bull. Amer. Assoc. Petrol. Geol.'' v. 14, pp. 1-24.</ref>
+
+: <math>\phi(z) = \phi_0 e^{-kz}\,</math>
+
+di mana <math>\phi_0</math> adalah porositas permukaan, <math>k</math> adalah koefisien pemadatan (m<sup>&minus;1</sup>) dan <math>z</math> adalah kedalaman (m).
+
+Nilai dari porositas dapat dihitung dari [[massa jenis bahan curah]] <math>\rho_{\text{bulk}}</math> dan [[massa jenis partikel]] <math>\rho_{\text{particle}}</math>:
+
+:<math>\phi = 1-\frac{\rho_{\text{bulk}}}{\rho_{\text{particle}}}</math>
+
+Massa jenis partikel normal diasumsikan sekitar 2.65 g/cm<sup>3</sup>, meski perkiraan terbaik didapatkan dari pengukuran dan analisis sifat partikel.
+
+=== Porositas dan konduktivitas hidrolik ===	
+Porositas sebanding dengan [[konduktivitas hidrolik]]. Pada kasus dua akuifer berpasir, salah satu yang memiliki porositas tinggi akan memiliki konduktivitas hidrolik yang lebih tinggi, yang berarti akan lebih banyak area bagi air untuk mengalir, namun memiliki banyak kerumitan dalam menjelaskan hubungan ini. Kerumitan utama adalah bahwa porositas dan konduktivitas hidrolik tidak sebanding secara proporsional, namun konduktivitas hidrolik sebanding dengan radius pori-pori. Seperti contoh tanah liat umumnya memiliki porositas tinggi dan mampu menyimpan air dalam jumlah besar, namun memiliki konduktivitas hidrolik yang sangat kecil sehingga tidak mampu mengalirkan maupun melepaskan air. Hal ini dikarenakan ruang di antara partikel besar pada tanah liat terisi oleh partikel kecil yang bersifat "lengket" terhadap air.
+<!--
+===Sorting and porosity===
+[[Particle size|Well sorted]] (grains of approximately all one size) materials have higher porosity than similarly sized poorly sorted materials (where smaller particles fill the gaps between larger particles). The graphic illustrates how some smaller grains can effectively fill the pores (where all water flow takes place), drastically reducing porosity and hydraulic conductivity, while only being a small fraction of the total volume of the material. For tables of common porosity values for [[earth materials]], see the "further reading" section in the [[Hydrogeology]] article.
+-->
+=== Porositas bebatuan ===
+Bebatuan terkonsolidasi seperti [[batu pasir]], [[shale]], [[granit]], atau [[batu kapur]] umumnya memiliki dua sifat porositas jika dibandingkan dengan sedimen aluvial. Sifat porositas tersebut yaitu porositas terhubung dan porositas tidak terhubung. Porositas terhubung dapat diukur dengan menggunakan gas atau cairan yang mengalir ke dalam bebatuan, namun tidak dapat melalui porositas yang tidak terhubung.
+
+=== Porositas tanah ===
+Porositas tanah permukaan umumnya berkurang dengan dengan meningkatnya ukuran partikel. Hal ini dikarenakan pembentukan agregat tanah pada permukaan tanah yang bertekstur ketika berhadapan dengan proses biologi tanah. Pembentukan agregat melibatkan adhesi partikulat dan memiliki ketahanan yang lebih tinggi terhadap pemadatan. Massa jenis dari tanah berpasir biasanya antara 1.5 sampai 1.7 g/cm, dengan porositas antara 0.43 sampai 0.36. Massa jenis tanah liat antara 1.1 sampai 1.3 g/cm dengan porositas antara 0.58 sampai 0.51. Meski tanah liat disebut dengan "tanah berat", namun sesungguhnya pada massa yang sama, tanah liat memiliki porositas yang lebih banyak. Disebut "tanah berat" karena kandungan air di dalamnya lebih banyak dari tanah biasa, dan kandungan air tersebut menyumbang berat yang lebih banyak dari air yang terkandung pada tanah biasa. Selain itu, kadar air yang terkandung dalam tanah liat membuat [[bajak singkal]] sulit membajak tanah liat sehingga membutuhkan gaya yang lebih besar.
+
+=== Tipe porositas geologis ===
+;Porositas absolut
+: Porositas absolut ialah perbandingan seluruh volume pori (baik yang berhubungan maupun tidak saling berhubungan) dengan volume total batuan. 
+;Porositas efektif
+: Porositas efektif ialah perbandingan seluruh volume pori yang berhubungan dengan volume total batuan. 
+;Porositas residual
+: Porositas residual ialah perbandingan seluruh volume pori yang tidak saling berhubungan dengan volume total batuan. 
+;Porositas primer
+: Porositas utama atau awal dari sistem porositas di dalam [[bebatuan]] atau deposit [[aluvial]]. 
+;Porositas sekunder: Porositas lanjutan atau terpisah dari sistem porositas di dalam bebatuan, umumnya meningkatkan porositas total bebatuan. Porositas ini dapat dihasilkan dari pelapukan kimiawi atau rekahan. Porositas sekunder dapat menggantikan porositas primer sepenuhnya atau mendampingi. 
+:Porositas rekahan: Porositas ini terkait dengan sistem rekahan atau patahan yang membentuk porositas sekunder yang dapat menjadi tempat penyimpanan reservoir. 
+;Porositas rekahan: Hasil dari adanya suatu ruang terbuka yang disebabkan oleh [[Sesar|patahan]] atau hancuran dari batuan. Semua jenis batuan yang dipengaruhi oleh rekahan dan komposisi batuan akan menentukan banyaknya rekahan yang terbentuk. ''Hydraulic fracturing''adalah metode yang mendorong produksi akibat pengaruh rekahan dan celah pada suatu formasi karena injeksi [[fluida]] pada batuan reservoir mengalami [[tekanan]] yang melampaui kekuatan batuan.''Hydraulic fracturing''dapat sangat menambah porositas efektif dan [[permeabilitas]] dari formasi. 
+;Porositas ''vuggy'': Porositas sekunder yang dihasilkan dari pelarutan komponen besar yang terdapat di dalam bebatuan (seperti fosil dan material organik) dan meninggalkan lubang kecil sampai terciptanya [[gua]]. 
+;Porositas terbuka: Fraksi dari volume total di mana aliran [[dinamika fluida|fluida dinamis]] dapat menempati ruang walau terdapat jalan buntu di dalamnya. Fluida dapat tetap mengalir karena variasi kondisi termal di dalamnya yang menyebabkan perubahan tekanan dan volume<ref>[http://www.epgeology.com/petrophysics-f11/what-the-difference-between-secondary-primary-porosity-t252.html Effective and Ineffective Porosity] at [http://www.epgeology.com/ E&P Geology.com]</ref> di dalam pori-pori yang terhubung.
+;Porositas inefektif (disebut juga porositas tertutup): Merupakan fraksi volume total di mana fluida atau gas ada di dalam namun tidak dapat mengalir. 
+;Porositas ganda: Merupakan ide konseptual di mana dua reservoir yang saling berhimpitan saling berinteraksi. Dalam akuifer bebatuan yang memiliki rekahan, massa bebatuan dan rekahan seringkali disimulasikan berhimpitan namun merupakan badan yang terpisah. 
+;Porositas makro: Merujuk pada pori-pori yang berdiameter lebih besar dari 50 [[nanometer|nm]]. 
+;Porositas menengah: Pori-pori yang berukuran antara 2&nbsp;nm sampai 50&nbsp;nm.
+;Porositas mikro: Pori-pori yang berukuran lebih kecil dari 2&nbsp;nm.
+;Porositas padat
+: Pori-pori yang sangat kecil (hampir tidak terlihat) karena dominasi ukuran butir yang sangat kecil
+;Porositas ketat
+: Pori-pori kecil yang terletak di antara butiran yang berdekatan dan kompak.
+;Porositas interkristalin
+: Pori-pori yang terdapat di antara kristal batuan.
+;Porositas intergranular
+: Pori-pori yang terdapat di antara butiran batuan.
+;Goa dan gerowong
+: Pori-pori yang ukurannya besar (gerowong) hingga sangat besar (goa).
+
+=== Fungsi porositas geologis ===
+Dalam penentuan aspek [[petrofisik]] sebagai data yang diperlukan oleh geofisisis atau geologis, penentuan porositas berfungsi untuk:
+# Menentukan OOIP (''original oil in place'').
+# Mengambil keputusan apakah [[Minyak bumi|minyak]] yang terdapat pada suatu reservoir layak diproduksi atau tidak, dilihat dari segi ekonomi.
+# Menentukan besarnya ''probable recovery'' (''recovery factor'').
+# Menentukan jenis litologi batuan.
+# Menentukan bagaimanakah kemungkinan susunan butir (''packing'') pada batuan reservoir.
+# Mengetahui posisi kedalaman reservoir.
+# Menentukan cadangan potensial dari suatu reservoir [[Minyak bumi|minyak]] atau [[Gas alam|gas]].
+# Menentukan besar [[permeabilitas]] pada pori-pori batuan.
+
+== Porositas tekstil atau porositas aerodinamik ==
+Adalah rasio lubang yang dapat "dilalui oleh angin".
+
+== Pengukuran porositas ==
+[[Berkas:Porosity thin section GP.jpg|thumb|Metode optis dalah mengukur porositas bebatuan [[eolianite]] zaman [[Pleistocene]] dari [[pulau San Salvador]], Bahamas.]]
+Beberapa metode dapat digunakan untuk mengukur porositas:
+*Metode langsung dengan mengukur volume bahan curah dan lalu mengukur volume komponen per bagian. Hanya bisa dilakukan pada benda berukuran cukup besar dengan komponen individu tidak memiliki pori-pori.
+*Metode optis dengan menggunakan mikroskop.<ref name="Dul"/>
+*Metode tomografi komputer, menggunakan pemindaian CT untuk membuat pencitraan tiga dimensi dari geometri eksternal dan internal, termasuk ruang kosong di dalamnya.
+*[[Imbibisi]] yaitu menenggelamkan bahan berpori ke dalam fluida yang dilakukan di dalam ruang vakum.<ref name="Dul"/> Fluida yang dipilih adalah fluida yang mampu membasahi bahan secara mendalam dan tidak bereaksi dengan bahan.
+*Metode pengurapan air
+*Intrusi raksa
+*Metode ekspansi gas.<ref name="Dul">F.A.L. Dullien, "Porous Media. Fluid Transport and Pore Structure", [[Academic Press]], 1992.</ref><!--A sample of known bulk volume is enclosed in a container of known volume. It is connected to another container with a known volume which is evacuated (i.e., near vacuum pressure). When a valve connecting the two containers is opened, gas passes from the first container to the second until a uniform pressure distribution is attained. Using [[ideal gas]] law, the volume of the pores is calculated as
+:<math>V_V = V_T-V_a-V_b {P_2 \over {P_2-P_1}}</math>,
+where
+:V<sub>V</sub> is the effective volume of the pores,
+:V<sub>T</sub> is the bulk volume of the sample,
+:V<sub>a</sub> is the volume of the container containing the sample,
+:V<sub>b</sub> is the volume of the evacuated container,
+:P<sub>1</sub> is the initial pressure in the initial pressure in volume V<sub>a</sub> and V<sub>V</sub>, and
+:P<sub>2</sub> is final pressure present in the entire system.
+:The porosity follows straightforwardly by its proper definition
+:<math>\phi = \frac{V_V}{V_T}</math>.
+:Note that this method assumes that gas communicates between the pores and the surrounding volume. In practice, this means that the pores must not be closed cavities.
+
+* Thermoporosimetry and cryoporometry. A small crystal of a liquid melts at a lower temperature than the bulk liquid, as given by the [[GibbsThomson effect|Gibbs-Thomson equation]]. Thus if a liquid is imbibed into a porous material, and frozen, the melting temperature will provide information on the pore-size distribution. The detection of the melting can be done by sensing the transient heat flows during phase-changes using [[differential scanning calorimetry]] - (DSC thermoporometry),<ref>{{Cite journal |  title     =  A new method for the simultaneous determination of the size and the shape  of pores: The Thermoporometry
+ |  journal   =  Thermochimica Acta
+ |  volume    =  21
+ |  pages     =  5988
+ |  year      =  1977
+ |  publisher =  Elsevier Scientific Publishing Company
+ |  address   = Amsterdam
+ |  last1 = Brun             | first1 = M. 
+ |  last2 = Lallemand        | first2 = A. 
+ |  last3 = Quinson          | first3 = J-F. 
+ |  last4 = Eyraud           | first4 = C. |  doi     =  10.1016/0040-6031(77)85122-8 |  postscript     =  {{inconsistent citations}}
+}}</ref> measuring the quantity of mobile liquid using [[nuclear magnetic resonance]] - (NMR cryoporometry)<ref>{{Cite journal 
+ | title = Nuclear Magnetic Resonance Cryoporometry
+ | journal = Phys. Rep.
+ | year = 2008
+ | volume = 461
+ | pages = 136
+ | first1 = J.          | last1 = Mitchell
+ | first2 = J. Beau W.  | last2 = Webber
+ | first3 = J.H.        | last3 = Strange
+ | doi = 10.1016/j.physrep.2008.02.001
+ | bibcode=2008PhR...461....1M 
+ | postscript = {{inconsistent citations}}
+}}</ref> or measuring the amplitude of [[neutron scattering]] from the imbibed crystalline or liquid phases - (ND cryoporometry).<ref>{{Cite journal
+ |  title = Neutron Diffraction Cryoporometry -- a measurement technique for studying mesoporous materials and the phases of contained liquids and their crystalline forms
+ |  journal = Nucl. Instrum. Meth. A.
+ |  year = 2008
+ |  volume = 586
+ |  pages = 356366
+ |  owner = jbww
+ |  timestamp = 2007.08.29
+ |  doi = 10.1016/j.nima.2007.12.004
+ |  last1 = Webber       | first1 = J. Beau W.
+ |  last2 = Dore         | first2 = John C.
+ |  issue = 2
+ |  postscript = {{inconsistent citations}}
+ | bibcode=2008NIMPA.586..356W
+}}</ref>
+-->
+
+==See also==
+* [[Petrofisik]]
+* [[Geologi minyak bumi]]
+* [[Poromekanika]]
+* [[Massa jenis curah]]
+* [[Massa jenis partikel]]
+
+==Referensi==
+{{reflist}}
+
+== Bahan bacaan terkait ==
+* {{Cite journal
+| last = Glasbey
+| first = C. A.
+| coauthors = G. W. Horgan and J. F. Darbyshire
+| year = 1991
+| month = September
+| title = Image analysis and three-dimensional modelling of pores in soil aggregates
+| journal = Journal of Soil Science
+| volume = 42
+| issue = 3
+| pages = 479486
+| doi = 10.1111/j.1365-2389.1991.tb00424.x
+}}
+* {{Cite journal
+| last = Horgan
+| first = G. W.
+| coauthors = B. C. Ball
+| year = 1994
+| title = Simulating diffusion in a Boolean model of soil pores
+| journal = European Journal of Soil Science
+| volume = 45
+| issue = 4
+| pages = 483491
+| doi = 10.1111/j.1365-2389.1994.tb00534.x
+}}
+* {{Cite journal
+| last = Horgan
+| first = Graham W.
+| date = 1996-10-01
+| title = A review of soil pore models
+| url = http://www.bioss.sari.ac.uk/~graham/sprev.pdf
+| accessdate = 2006-04-16
+}}
+* {{Cite journal
+| last = Horgan
+| first = G. W.
+| year = 1998
+| month = June
+| title = Mathematical morphology for soil image analysis
+| journal = European Journal of Soil Science
+| volume = 49
+| issue = 2
+| pages = 161173
+| doi = 10.1046/j.1365-2389.1998.00160.x
+}}
+* {{Cite journal
+| last = Horgan
+| first = G. W.
+| year = 1999
+| month = February
+| title = An investigation of the geometric influences on pore space diffusion
+| journal = Geoderma
+| volume = 88
+| issue = 12
+| pages = 5571
+| doi = 10.1016/S0016-7061(98)00075-5
+}}
+* {{Cite journal
+| last = Nelson
+| first = J. Roy
+| year = 2000
+| month = January
+| title = Physics of impregnation
+| journal = Microscopy Today
+| volume = 8
+| issue = 1
+| url = http://microscopy-today.com/PDFFiles/MT-2000-01-small.pdf
+| archiveurl = http://web.archive.org/web/20090227162024/http://microscopy-today.com/PDFFiles/MT-2000-01-small.pdf
+| archivedate = 2009-02-27
+}}
+* {{Cite journal
+| last = Rouquerol
+| first = Jean
+| year = 2011
+| month = December
+| title = Liquid intrusion and alternative methods for the characterization of macroporous materials (IUPAC Technical Report)*
+| journal = Pure Appl. Chem
+| volume = 84
+| issue = 1
+| pages = 107136
+| url = http://iupac.org/publications/pac/pdf/asap/pdf/PAC-REP-10-11-19.pdf
+| format =
+}}
+
+[[Kategori:Geologi]]
+[[Kategori:Geofisika]]
+[[Kategori:Petrologi]]
+[[Kategori:Akuifer]]
+[[Kategori:Hidrogeologi]]
+[[Kategori:Fisika tanah]]
+[[Kategori:Medium berpori]]
+[[Kategori:Mekanika tanah]]

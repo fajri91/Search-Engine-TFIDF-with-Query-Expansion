@@ -1,0 +1,21 @@
+Berkas:ZMD- Zombies of Mass Destruction.jpg
+{{Information
+|description    = == {{int:filedesc}} ==
+{{Information
+|description    =
+|source         = {{Dari|En}}
+|date           = (tanggal)
+|location       = (tempat; opsional)
+|author         = (pembuat)
+|permission     = 
+|other_versions = 
+}}
+== {{int:license-header}} ==
+{{Poster}}
+|source         = 
+|date           = 
+|location       = 
+|author         = 
+|permission     = 
+|other_versions = 
+}}

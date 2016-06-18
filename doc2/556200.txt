@@ -1,0 +1,43 @@
+Boeing Model 2
+{|{{Infobox Aircraft Begin
+  |name=Model 2
+  |image=Modelc.jpg
+  |caption=Model 3, nomor konstruksi ''C-5''
+}}{{Infobox Aircraft Type
+  |type=[[Pesawat Tempur Latih|Pesawat latih]]
+  |manufacturer=[[Boeing]]
+  |designer=[[Wong Tsu]]
+  |first flight=15 November 1916
+  |introduced=
+  |retired=
+  |number built=56
+  |status=
+  |primary user=[[Angkatan Laut Amerika Serikat|AL AS]]
+  |more users=Penerbangan [[Angkatan Darat Amerika Serikat|AD AS]]
+  |unit cost=
+  |developed from=
+  |variants with their own articles=
+}}
+|}
+'''Boeing Model 2''' dan turunannya adalah [[pesawat terbang laut]] [[Amerika Serikat]] untuk [[Pesawat Tempur Latih|latihan]] dengan dua tempat, desain pertama "[[Boeing]] seluruhnya", dan kesuksesan pertama bagi Boeing secara finansial.
+
+== Desain dan pengembangan ==
+Pacific Aero-Products, pendahulu dari perusahaan Boeing, membangun pesawat pertamanya (dengan seluruh proses dilakukan sendiri), yaitu pesawat latih angkatan laut Model C. Pesawat Model C komersial pertama didesain oleh seorang Tionghoa lulusan [[Institut Teknologi Massachusetts|MIT]], [[Wong Tsu]]. Sebanyak 56 pesawat pelatih tipe C dibangun, 55 di antaranya menggunakan sepasang ponton. Model C-1F memiliki ponton utama tunggal dan pelampung tambahan kecil di bawah setiap sayap dan menggunakan tenaga [[Motor bakar torak|mesin]] Curtiss OX-5.
+
+== Riwayat operasional ==
+Kesuksesan Model C menghasilkan kontrak militer pertama bagi Boeing pada April 1917 dan mendorong pembentukan Boeing Airplane Company dan perpindahan dari [[Danau Union]], [[Washington]] ke bekas galangan kapal di Sungai Duwamish, juga di Washington.  [[Angkatan Laut Amerika Serikat]] membeli 51 unit pesawat latih Model C, termasuk C-1F, dan [[Angkatan Darat Amerika Serikat]] membeli dua unit pesawat darat dengan versi kursi berdampingan.
+
+Model C terakhir dibangun untuk William Boeing dan disebut C-700 (pesawat AL terakhir bernomor seri 699). Pada 3 Maret 1919 Boeing dan Eddie Hubbard menerbangkan C-700 untuk layanan pos internasional pertama, membawa 60 surat dari [[Vancouver, British Columbia]], [[Kanada]], ke [[Seattle]], Washington.
+
+== Referensi ==
+{{Reflist}}
+* Bowers, Peter M. ''Boeing aircraft since 1916''. London: Putnam Aeronautical Books, 1989. ISBN 0-85177-804-6.
+* ''Pedigree of Champions: Boeing Since 1916, Third Edition''. Seattle, WA: The Boeing Company, 1969.
+==Pranala luar==
+{{commonscat|Boeing civil aircraft}}
+* [http://www.historylink.org/essays/output.cfm?file_id=371 historylink.org: The Online Encyclopedia of Washington State History]
+
+{{Pesawat Boeing}}
+{{Boeing model numbers}}
+{{pesawat-stub}}
+[[Kategori:Pesawat terbang Boeing]]

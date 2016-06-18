@@ -1,0 +1,23 @@
+Petak jalan
+[[Berkas:Meet_of_trains_1_no_text.png|thumb|tahap 1:dua kereta akan bersilangan]]
+[[Berkas:Meet_of_trains_2_no_text.png|thumb|tahap 2:salah satu masuk siding, sedang kereta dari timur menunggu di sinyal masuk]]
+[[Berkas:Meet_of_trains_3_no_text.png|thumb|tahap 3:persilangan terjadi, kereta dari barat ditahan di sinyal keluar dan kereta dari timur berjalan]]
+'''Petak jalan''' adalah bagian dari lintas [[kereta api]] antara as [[stasiun kereta api]] dengan as stasiun yang berdekatan atau berurutan yang dibagi lagi atas petak blok. Pembentukan petak diperlukan untuk mengendalikan operasi kereta api, khususnya di [[jalur tunggal]], pada [[jalur ganda]] pengaturannya lebih untuk menjaga jarak aman antara kereta dengan kereta yang didepannya.
+
+== Petak blok ==
+Petak blok adalah bagian dari petak jalan yang dibatasi oleh sinyal keluar dengan sinyal masuk, atau sinyal masuk dengan sinyal keluar, atau sinyal keluar dengan sinyal blok, atau sinyal blok dengan sinyal blok, atau sinyal blok dengan sinyal masuk yang berurutan sesuai dengan arah perjalanan kereta api. Dua kereta api tidak diizinkan untuk berada dalam satu blok, untuk itu digunakan [[sinyal kereta api]].
+
+== Petak jalan bebas ==
+Petak jalan bebas adalah bagian petak jalan antara dua sinyal masuk pada jalur tunggal atau antara sinyal keluar dengan sinyal masuk pada jalur ganda.
+
+== Lihat pula ==
+* [[Sinyal kereta api]]
+* [[Stasiun kereta api]]
+* [[Grafik perjalanan kereta api]]
+
+== Pranala luar ==
+* [http://www.hubdat.web.id/peraturan/km22tahun2003.pdf KM tentang Pengoperasian Kereta Api]
+* [http://myhobbyblogs.com/railfan/2008/01/16/sistem-persinyalan/ Sistem Persinyalan]
+
+{{Prasarana perkeretaapian}}
+[[Kategori:Kereta api]]

@@ -1,0 +1,53 @@
+Stasiun Shnan-Machiya
+{{Infobox japan station
+|name=
+|namerom= Shnan-Machiya
+|image= Shonan-monorail-Shonan-machiya-station-platform.jpg
+|caption= Stasiun Shnan-Machiya
+|pref= Kanagawa
+|city= Kamakura
+|ward=
+|address=Kamimichiya 722
+|jaloc= 
+|postal= 247 - 0065
+|open=1970 
+|close=
+|oldname=
+|oldname2=
+|presentname=
+|station_number=
+|operator= [[Shonan Monorail|Perusahaan Shnan Monorail]]
+|line= Jalur Enoshima
+|stats= 
+|statsnote=
+|bus=y
+}}
+{{nihongo|'''Stasiun Shnan-Machiya'''||Shnan-Machiya-eki}} adalah stasiun monorel di [[Shnan Monorail|Jalur Monorel Shnan Enoshima]] terletak di [[Kamakura, Kanagawa|Kamakura]], [[Prefektur Kanagawa]], [[Jepang]]. Stasiun ini berlokasi sekitar 2,0 kilometer dari [[stasiun terminal|terminus]] utara Jalur Monorel Shnan Enoshima di [[Stasiun funa]]. 
+
+==Sejarah==
+Stasiun Shnan-Machiya dibuka pada 7 Maret 1970 dengan dibukanya jalur Enoshima. Bangunan stasiun diperbarui pada tahun 2005.
+
+==Lines==
+*[[Shonan Monorail|Perusahaan Shnan Monorail]]
+**Jalur Enoshima
+
+==Tata Ruang Stasiun==
+Stasiun Shnan-Machiya adalah stasiun terangkat dengan peron samping melayani satu lintasan. Stasiun ini tidak terjaga.
+
+==Stasiun terkait==
+{{service rail start}}
+{{j-route|route=Jalur Monorel Shnan Enoshima|col=red|f=w}}
+{{j-rserv|previous={{ja-stalink|Fujimich|Kanagawa}}|next={{ja-stalink|Shnan-Fukasawa}}|service=Lokal|col=gray}}
+{{end box}}
+
+==Pranala Luar==
+* {{ja icon}}[http://www.shonan-monorail.co.jp/ Halaman Utama Shonan Monorail]
+
+{{coord|35|20|16.85|N|139|31|21.44|E|type:railwaystation_region:JP|display=title}}
+
+{{Jalur Monorel Shnan Enoshima}}
+
+{{stasiun-stub}}
+
+[[Kategori:Kamakura, Kanagawa]]
+[[Kategori:Stasiun kereta api di Jepang]]

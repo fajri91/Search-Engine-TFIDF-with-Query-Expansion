@@ -1,0 +1,6 @@
+Templat:Pengguna Paddle Pop
+{{userbox|Blue|White|[[Image:Max (1).jpg|50px]]|<center>Pengguna ini penggemar '''[[Paddle Pop]]'''|logo-background=}}{{#if:{{{kat|}}}||<includeonly>
+</includeonly>}}<noinclude>__NOTOC__ __NOEDITSECTION__
+[[Kategori:Templat userbox minat|Anime]]
+[[Kategori:Paddle Pop]]
+</noinclude>

@@ -1,0 +1,12 @@
+Templat:User da-0
+{{Babel-box
+| level         = 0
+| id            = [[Bahasa Denmark|da]]
+| info          = Denne bruger '''forstr ikke [[:Kategori:User da|dansk]]'''.
+| userkategori  = User da
+| userkategori2 = User da-0
+}}<noinclude>
+{{Babel-bar|da}}
+[[Kategori:Templat Babel|da-0]]
+
+</noinclude>

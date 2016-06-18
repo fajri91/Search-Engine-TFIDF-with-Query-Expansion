@@ -1,0 +1,129 @@
+Piala Dunia Wanita FIFA 2015 Grup F
+Grup F [[Piala Dunia Wanita FIFA 2015]] diselenggarakan pada tanggal 09-17 Juni [[2015]]. Pesertanya terdiri atas [[Asosiasi Sepak Bola Perancis|Perancis]],[[Asosiasi Sepak Bola Inggris|Inggris]],[[Asosiasi Sepak Bola Kolombia|Kolombia]], dan [[Asosiasi Sepak Bola Meksiko|Meksiko]].
+
+==Tim==
+{| class="wikitable sortable" style="text-align: left;"
+|-
+!width=180|Tim
+!width=100|Konfederasi
+!width=110|Ranking FIFA
+!width=180|Kehadiran Putaran Final
+!width=80|Kehadiran Terakhir
+|-
+|{{flagicon|FRA}} [[Asosiasi Sepak Bola Perancis|Perancis]] ||[[UEFA]] ||3 ||Kedua ||Edisi 2011
+|-
+|{{flagicon|ENG}} [[Asosiasi Sepak Bola Inggris|Inggris]] ||[[UEFA]] ||6 ||Ketiga ||Edisi 2011
+|-
+|{{flagicon|COL}} [[Asosiasi Sepak Bola Kolombia|Kolombia]] ||[[CONMEBOL]] ||28 ||Kedua ||Edisi 2011
+|-
+|{{flagicon|MEX}} [[Asosiasi Sepak Bola Meksiko|Meksiko]] ||[[CONCACAF]] ||25 ||Ketiga ||Edisi 2011
+|}
+
+==Klasemen==
+{|class="infobox bordered"
+|-
+|width="30px" bgcolor="#ccffcc"| ||Melaju ke [[#Babak gugur|Babak Gugur]]
+|-
+|width="30px" bgcolor="#FFF8DC"| ||Melaju Ke [[#Babak gugur|Babak Gugur atau Tereliminasi]]
+|}
+* Seluruh pertandingan dilaksanakan di [[Kanada]]
+* Waktu Menurut [[UTC-3]] dan [[UTC-4]]
+{{PDW 2015 Grup F}}
+
+== Pertandingan ==
+{{Football box
+| date= 9 Juni 2015
+| time= 14:00 [[UTC-3]]
+| team1= {{flagicon|FRA}} [[Asosiasi Sepak Bola Perancis|Perancis]]
+| score= 10
+| report= [http://www.fifa.com/womensworldcup/matches/round=268020/match=300269464/report.html Laporan]
+| team2= {{flagicon|ENG}} [[Asosiasi Sepak Bola Inggris|Inggris]]
+| goals1=[[Eugnie Le Sommer|Le Sommer]] {{goal|29}}
+| goals2=[[Katie Chapman]] {{yel|66}}
+| stadium= [[Stadion Moncton]], [[Moncton]] ([[Kanada]])
+| attendance=11,686
+| referee= {{flagicon|GRE}} [[Thalia Mitsi]]
+| aw1= {{flagicon|GRE}} [[Chrysoula Kourompylia]]
+| aw2= {{flagicon|CYP}} [[Angela Kyriakou]]
+| w4= {{flagicon|CAN}} [[Michelle Pye]]
+}}
+
+{{Football box
+| date= 9 Juni 2015
+| time= 17:00 [[UTC-3]]
+| team1= {{flagicon|COL}} [[Asosiasi Sepak Bola Kolombia|Kolombia]]
+| score= 11
+| report= [ Laporan]
+| team2= {{flagicon|MEX}} [[Asosiasi Sepak Bola Meksiko|Meksiko]]
+| goals1=[[Natalia Gaitn]] {{yel|26}}<br>[[Orinica Velsquez]] {{yel|34}}<br>[[Daniela Montoya]] {{yel|55}} {{goal|82}}
+| goals2=[[Vernica Prez|Prez]] {{goal|36}}
+| stadium= [[Stadion Moncton]], [[Moncton]] ([[Kanada]])
+| attendance=11,686
+| referee= {{flagicon|CMR}} [[Therese Neguel]]
+| aw1= {{flagicon|TOG}} [[Mana Dzodope]]
+| aw2= {{flagicon|MAR}} [[Souad Oulhaj]]
+| w4= {{flagicon|ETH}} [[Ledya Tafesse]]
+}}
+----
+{{Football box
+| date= 13 Juni 2015
+| time= 14:00 [[UTC-3]]
+| team1= {{flagicon|FRA}} [[Asosiasi Sepak Bola Perancis|Perancis]]
+| score= Pertandingan 23
+| report= 
+| team2= {{flagicon|COL}} [[Asosiasi Sepak Bola Kolombia|Kolombia]]
+| goals1=
+| goals2=
+| stadium= [[Stadion Moncton]], [[Moncton]]
+| attendance=
+| referee=
+}}
+
+{{Football box
+| date= 13 Juni 2015
+| time= 17:00 [[UTC-3]]
+| team1= {{flagicon|ENG}} [[Asosiasi Sepak Bola Inggris|Inggris]]
+| score= Pertandingan 24
+| report= 
+| team2= {{flagicon|MEX}} [[Asosiasi Sepak Bola Meksiko|Meksiko]]
+| goals1=
+| goals2=
+| stadium= [[Stadion Moncton]], [[Moncton]]
+| attendance=
+| referee=
+}}
+----
+{{Football box
+| date= 17 Juni 2015
+| time= 16:00 [[UTC-4]]
+| team1= {{flagicon|MEX}} [[Asosiasi Sepak Bola Meksiko|Meksiko]]
+| score= Pertandingan 36
+| report= 
+| team2= {{flagicon|FRA}} [[Asosiasi Sepak Bola Perancis|Perancis]]
+| goals1=
+| goals2=
+| stadium= [[Stadion Ottawa]], [[Ottawa]]
+| attendance=
+| referee=
+}}
+
+{{Football box
+| date= 7 Juni 2015
+| time= 16:00 [[UTC-4]]
+| team1= {{flagicon|ENG}} [[Asosiasi Sepak Bola Inggris|Inggris]]
+| score= Pertandingan 37
+| report= 
+| team2= {{flagicon|COL}} [[Asosiasi Sepak Bola Kolombia|Kolombia]]
+| goals1=
+| goals2=
+| stadium= [[Stadion Montreal]], [[Montreal]]
+| attendance=
+| referee=
+}}
+
+==Lihat Pula==
+*[[Piala Dunia Wanita FIFA]]
+
+==Referensi==
+
+[[Kategori:Piala Dunia Wanita FIFA 2015]]

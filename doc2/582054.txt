@@ -1,0 +1,69 @@
+2010 TK19
+{{Infobox Planet 
+|minorplanet = yes 
+|width = 25em 
+|bgcolour = 
+|apsis = 
+|name = 2010 TK19
+|symbol = 
+|image = 
+|caption = 
+|discovery = yes 
+|discovery_ref = 
+|discoverer =Catalina Sky Survey
+|discovery_site =703
+|discovered = 2010/10/07
+|designations = yes
+|mp_name = 
+|alt_names = 
+|mp_category = 
+|orbit_ref = 
+|epoch = 
+|aphelion =1.062
+|perihelion =0.820
+|semimajor =0.941
+|eccentricity =0.128
+|period = 
+|avg_speed = 
+|inclination =13.0
+|asc_node =15.5
+|mean_anomaly =275.4
+|arg_peri =208.2
+|satellites = 
+|physical_characteristics = yes 
+|dimensions = 
+|mass = 
+|density = 
+|surface_grav = 
+|escape_velocity = 
+|sidereal_day = 
+|axial_tilt = 
+|pole_ecliptic_lat = 
+|pole_ecliptic_lon = 
+|albedo = 
+|temperatures= 
+|temp_name1 = 
+|mean_temp_1 = 
+|max_temp_1 = 
+|temp_name2 = 
+|max_temp_2 = 
+|spectral_type = 
+|abs_magnitude =24.9
+}}
+'''2010 TK19''' adalah sebuah [[asteroid]]. Asteroid ini merupakan bagian dari [[asteroid Aten]], yang terletak dekat dengan [[bumi]]. [[Eksentrisitas orbit]] asteroid ini tercatat sebesar 0.128, sementara [[magnitudo mutlak]]nya adalah 24.9.
+
+== Pembentukan ==
+
+Seperti asteroid pada umumnya, asteroid ini terbentuk dari [[nebula]] [[matahari]] primordial sebagai pecahan [[planetisimal]], sesuatu di nebula matahari muda yang tidak cukup besar untuk berubah menjadi [[planet]].<ref>{{cite web | title=What Are Asteroids And Comets? | url=http://neo.jpl.nasa.gov/faq/#ast | work=Near Earth Object Program FAQ | publisher=[[NASA]] | accessdate=13 September 2010 | archiveurl=http://web.archive.org/web/20100909210213/http://neo.jpl.nasa.gov/faq/ | archivedate=9 September 2010 | deadurl=no}}</ref>
+
+== Referensi ==
+
+{{Reflist}}
+
+== Pranala luar ==
+
+* [http://www.minorplanetcenter.net/iau/lists/t_atens.html Daftar asteroid Aten] - ''The International Astronomical Union Minor Planet Center.''
+
+[[Kategori:Asteroid Aten]]
+
+{{asteroid-stub}}

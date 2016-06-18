@@ -1,0 +1,182 @@
+Aksara rubi
+{{nihongo|'''Karakter rubi'''|}} adalah huruf kecil, pemberi keterangan yang diletakkan di atas atau dikanan dari [[Aksara Tionghoa|huruf Tionghoa]] ketika menulis bahasa dengan [[aksara morfemis]] seperti [[Rumpun bahasa Tionghoa|Bahasa Tionghoa]] dan [[Bahasa Jepang|Jepang]] yang digunakan untuk menunjukkan pengucapan. Biasanya disebut '''ruby''' atau '''rubi''', yang digunakan sebagai panduan pengucapan untuk karakter yang tidak familiar bagi pembaca.
+
+==Contoh==
+Dibawah ini adalah contoh aksara Rubi bahasa Jepang (sering disebut ''[[furigana]]'') untuk [[Tokyo]] ("{{lang|ja|}}"):
+
+{| style="border-collapse: collapse;" border="1" cellpadding="5"
+! ''[[hiragana]]''
+! ''[[katakana]]''
+! ''[[romaji]]''
+|-
+|
+{| border="0" cellpadding="2" cellspacing="0"
+|-
+| style="text-align: center; font-size: 120%" lang="ja" | {{lang|ja-Hira|}}
+| style="text-align: center; font-size: 120%" lang="ja" | {{lang|ja-Hira|}}
+|-
+| style="text-align: center; font-size: 200%" lang="ja" | {{lang|ja-Hani|}}
+| style="text-align: center; font-size: 200%" lang="ja" | {{lang|ja-Hani|}}
+|}
+|
+{| border="0" cellpadding="2" cellspacing="0"
+|-
+| style="text-align: center; font-size: 120%" | {{lang|ja-Kana|}}
+| style="text-align: center; font-size: 120%" | {{lang|ja-Kana|}}
+|-
+| style="text-align: center; font-size: 200%" | {{lang|ja-Hani|}}
+| style="text-align: center; font-size: 200%" | {{lang|ja-Hani|}}
+|}
+|
+{| border="0" cellpadding="2" cellspacing="0"
+|-
+|-
+| style="text-align: center; font-size: 120%" | t
+| style="text-align: center; font-size: 120%" | ky
+|-
+| style="text-align: center; font-size: 200%" | {{lang|ja-Hani|}}
+| style="text-align: center; font-size: 200%" | {{lang|ja-Hani|}}
+|}
+|}
+
+Sebagian besar ''furigana'' (aksara rubi bahasa Jepang) ditulis menggunakan ''[[hiragana]]'', tetapi ''[[katakana]]'' dan ''[[romaji]]'' juga kadang digunakan. Cara lain adalah bahasa asing (biasanya [[Bahasa Inggris]] dicetak bersama furigana untuk menunjukkan artinya, dan sebaliknya. Buku teks biasanya ditulis menggunakan [[onyomi]] dengan katakana dan [[kunyomi]] dengan hiragana.
+
+Dibawah ini adalah contoh pengunaan aksara rubi bahasa Tionghoa untuk [[Beijing]] ("{{lang|zh|}}"):
+
+{| style="border-collapse: collapse;" border="1" cellpadding="5"
+! ''[[Bopomofo|Zhuyin]]''
+! ''[[Pinyin]]''
+|-
+|
+{| border="0" cellpadding="2" cellspacing="0"
+|-
+| style="text-align: center; font-size: 120%" | {{lang|zh-Bopo|}}
+| style="text-align: center; font-size: 120%" | {{lang|zh-Bopo|}}
+|-
+| style="text-align: center; font-size: 200%" | {{lang|zh|}}
+| style="text-align: center; font-size: 200%" | {{lang|zh|}}
+|}
+|
+{| border="0" cellpadding="2" cellspacing="0"
+|-
+| style="text-align: center; font-size: 120%" | {{Transl|zh|ISO|bi}}
+| style="text-align: center; font-size: 120%" | {{Transl|zh|ISO|jng}}
+|-
+| style="text-align: center; font-size: 200%" | {{lang|zh|}}
+| style="text-align: center; font-size: 200%" | {{lang|zh|}}
+|}
+|}
+
+Di Taiwan, pengunaan silabel untuk aksara rubi Tionghoa adalah ''[[Bopomofo|Zhuyin fuhao]]'' (lebih dikenal ''Bopomofo''); di daratan utama ''[[pinyin]]'' digunakan. Biasanya, zhuyin digunakan bersama dengan teknik penulisan tradisional secara vertikal dan zhuyin digunakan pada sisi kanan karakter. Pada daratan utama Cina, penulisan horisontal digunakan bersama dengan aksara rubi (pinyin) dan ditulis diatas aksara Tionghoa.
+
+Buku dengan panduan pengucapan sangat populer pada anak-anak dan orang yang ingin belajar bahasa mandarin (khususnya pinyin).
+
+==Penggunaan==
+Rubi digunakan untuk beberapa alasan:
+
+* karakter yang digunakan jarang digunakan dan pengucapan kurang diketahui orang seperti pada nama orang;
+* karakter tersebut memiliki lebih dari satu pengucapan, dan konteks dalam tulisan kurang cukup menentukan pengucapan mana yang digunakanan;
+* target pembaca teks masih belajar bahasa tersebut dan tidak diharapkan mengetahui pengucapan dan/atau mengerti arti karakter tersebut;
+* penulis menggunakan pengucapan tidak standar untuk karakter yang digunakan, seperti manga sering menggunakan aksara rubi untuk permainan kata [[dajare]], seperti di [[Hana Yori Dango]] (tidak menggunakan cara membaca "Dan''shi''"), dan untuk menunjukkan pengucapan dan artinya, seperti di "One Piece" dalam [[One Piece]] (menampilkan aksara rubi "''Wan Piisu''" ("One Piece") sebagai pengucapann dan karakter utama "''Hitotsunagi no Daihihou''" ("Harta Karun One PieceThe Great Treasure of One Piece") sebagai arti).
+
+Rubi juga digunakan untuk menunjukkan arti, lebih dari sekadar pengucapa, untuk kata-kata tidak familiar (bahasa asing) dan bahasa slang. Hal ini digunakan secara umum digunakan dalam dialog percakapan dan hanya digunakan pada publikasi di Jepang. Bentuk paling umum dari rubi adalah ''furigana'' atau ''yomigana'' dan digunakan dalam buku panduan bahasa Jepang, koran, manga, dan buku untuk anak-anak.
+
+Pada bahasa Jepang, beberapa karakter seperti {{nihongo|[[sokuon]]||tsu| literally ''"little ''tsu''"''}} () yang menunjukkan jeda sebelum konsonan itu mendahului, biasanya ditulis pada sekitar setengah ukuran karakter normal. Ketika ditulis sebagai rubi, karakter tersebut biasanya ditulis dalam ukuran yang sama seperti aksara rubi lain. Kemajuan dalam teknologi sekarang memungkinkan karakter tertentu untuk tampil secara akurat.<ref name="w3c-spec">
+{{cite web
+|author=Marcin Sawicki, Michel Suignard, Masayasu Ishikawa, Martin Drst, Tex Texin
+|title=Ruby Annotation
+|date=2001-05-31
+|work=[[W3C Recommendation]]
+|publisher=[[World Wide Web Consortium]]
+|accessdate=2007-02-14
+|url=http://www.w3.org/TR/ruby
+}}
+</ref>
+
+Dalam bahasa Tionghoa, praktik memberikan panduan pengucapan menggunakan rubi sangat langkat, tetapi ada pada buku teks sekolah dasar dan kamus. Bahasa Tionghoa tidak memiliki nama khusus untuk praktik ini, dikarenakan penggunakannya tidak luas seperti di Jepang. Di Taiwan, penggunaannya dikenal sebagai "[[Bopomofo|zhuyin]]". dari nama sistem fonetik digunakan untuk tujuan ini. Hal ini hampir selalu digunakan secara vertikal, karena publikasi biasanya dalam format vertikal, dan zhuyin tidak mudah dibaca jika ditampilkan secara horisontal. Ketika zhuyin tidak digunakan, sistem fonetik Cina lain digunakan seperti [[pinyin]]
+
+Aksara rubi biasanya tidak digunakan untuk penerjemahan kata-per-kata, karena semua bahasa alamai termasuk idiom (dimana kombinasi dari kata akan memberikan arti lain daripada kata secara individual), hubungan kata tidak-berdekatan seringkali sulit untuk ditangkap, dan biasanya tidak ada terjemahan yang tepat dan unik untuk sebuah kata yang diberikan. Ada juga tantangan jika bahasa asli dan diterjemahkan memiliki arah cara membaca berbeda (contoh: Bahasa Inggris dari kiri ke kanan, tetapi bahasa Ibrani membaca dari kanan ke kiri). Tetapi, penerjemahan kata-per-kata kadang digunakan untuk membantu dalam mempelajari bahasa tersebut.
+
+Penggunaan aksara Rubi biasanya juga digunakan dalam tulisan tangan.
+
+==Sejarah==
+[[Image:Hunmin jeong-eum.jpg|thumb|right|200px|''[[Hunmin Jeongeum]] Eonhae'' uses [[hanja]] and small [[hangul]] for ruby on right below]]
+
+Pada tipografi Inggris, aksara rubi diguanakan untuk [[Point (tipografi)|nama untuk tipografi]] dengan tinggi 5.5 poin, yang digunakan printer untuk penjelasan interlinear dalam dokumen cetak. Pada Bahasa Jepang, bukannya mengacu pada ukuran font, kata menjadi nama untuk mengeset ''furigana''. Bila di transliterasi kembali menjadi bahasa Inggris, beberapa kata akan ditampilkan sebagai ''rubi'', (tipikal [[romanisasi]] dari bahasa Jepang {{lang|ja|}}). Tetapi, pengucapan "rubi" semakin biasa digunakan sejak [[W3C]] mempublikasikan ''[[bahasa markah|markah]] ruby''. Di Amerika, ukuran font disebut dengan "[[Agata (tipografi)|agate]], setidaknya sebelum tahun 1950an:
+
+==Markah HTML==
+Pada tahun 2001, W3C mempublikasikan spesifikasi anotasi Rubi <ref name="w3c-spec"/> untuk melengkapi [[XHTML]] dengan markah rubi. Markah rubi tidak menjadi standar spesifikasi HTML 4.01 atau XHTML 1.0  (XHTML-1.0-Strict, XHTML-1.0-Transitional, dan XHTML-1.0-Frameset), tetapi masuk dalam spesifikasi XHTML 1.1 , dan diharapkan akan menjadi bagian inti HTML5 saat spesifikasi tersebut di selesaikan oleh W3C.<ref>{{cite web|title=HTML5|url=http://www.w3.org/TR/html5/the-ruby-element.html#the-ruby-element|accessdate=15 October 2012}}</ref>
+
+Dukungan untuk markah rubi di browser terbatas, karena XHTML 1.1 tidak secara luas di implementasikan. Markah rubi secara parsial didukung oleh [[Microsoft]] [[Internet Explorer]] (5.0+) untuk [[Microsoft Windows|Windows]] dan [[Apple Macintosh|Macintosh]], didukung untuk Chrome, tidak didukung oleh [[Mozilla]], [[Mozilla Firefox|Firefox]], [[Konqueror]] atau [[Opera (peramban web)|Opera]].<ref name="opera_specs">
+{{cite web
+ |      title = Web Specifications supported in Opera
+ |        url = http://www.opera.com/docs/specs/
+ |      quote = Opera supports XHTML 1.1 with these exceptions: () Ruby annotations are not supported
+ | accessdate = 2007-11-05
+}}</ref> The WebKit nightly builds added support for Ruby HTML markup in January 2010.<ref name="webkit_ruby">{{cite web |url=http://webkit.org/blog/948/ruby-rendering-in-webkit/ |title=Ruby Rendering in WebKit |author=Roland Steiner |date=2010-01-20 |work=[http://webkit.org/blog/ Surfin Safari] |publisher=[[WebKit]] project |accessdate=2010-01-21}}</ref> [[Safari (peramban web)|Safari]] mendukung aksara rubi pada versi 5.0.6.<ref>[http://html5doctor.com/ruby-rt-rp-element/ The ruby element] - HTML5 Doctor</ref>
+
+Untuk peramban yang tidak mendukung rubi, dukungan aksara rubi dapat ditambahkan dengan menambah aturan [[CSS]] yang sangat mudah ditemukan di internet.<ref name="ruby_stylesheet_hack">[http://web.nickshanks.com/stylesheets/ruby.css CSS Ruby Support]Works in all modern browsers</ref>
+
+===Contoh markah===
+Dibawah ini adalah contoh markah rubi. Markah ditunjukan terlebih dahulu, dan tampilannya dibawahnya, yang diikuti versi tanpa markah. Peramban tergantung yang mendukung atau tidak, bisa menampilkan dengan ukuran dan posisi yang sama atau menampilkan aksara rubi dalam tanda kurung:
+
+{| class="wikitable"
+|-
+! Markup
+| <syntaxhighlight lang="html4strict">
+<ruby>
+<rb></rb><rp>(</rp><rt></rt><rp>)</rp>
+<rb></rb><rp>(</rp><rt></rt><rp>)</rp>
+</ruby>
+</syntaxhighlight>
+| <syntaxhighlight lang="html4strict">
+<ruby>
+<rb></rb><rp>(</rp><rt></rt><rp>)</rp>
+<rb></rb><rp>(</rp><rt></rt><rp>)</rp>
+</ruby>
+</syntaxhighlight>
+|- style="height:70px"
+! Rendered
+| <ruby style="font-size:2em;">
+<rb></rb><rp>(</rp><rt></rt><rp>)</rp>
+<rb></rb><rp>(</rp><rt></rt><rp>)</rp>
+</ruby>
+| <ruby style="font-size:2em;">
+<rb></rb><rp>(</rp><rt></rt><rp>)</rp>
+<rb></rb><rp>(</rp><rt></rt><rp>)</rp>
+</ruby>
+|- style="height:70px"
+! Unmarked
+| style="font-size:1.2em" | ()()
+| style="font-size:1.2em" | ()()
+|}
+
+Perlu diperhatikan bahwa teks rubi Tionghoa biasanya ditampilkan dalam kolom vertikal di kanan karakter. Pendekatan ini biasanya tidak didukung sebagian besar peramban saat ini.
+
+Contoh aksara rubi Tiongha berbasis tabel:
+<table>
+<tr>
+<td style="line-height:1em; font-size:2em; vertical-align:middle">{{lang|zh-Hant|}}</td>
+<td style="line-height:1em; font-size:0.8em; vertical-align:middle">{{lang|zh-tw|<br><br>}}</td>
+</tr><tr>
+<td style="line-height:1em; font-size:2em; vertical-align:middle">{{lang|zh-Hant|}}</td>
+<td style="line-height:1em; font-size:0.8em; vertical-align:middle">{{lang|zh-tw|<br>}}</td>
+</tr>
+</table>
+
+==Lihat pula==
+*[[Furigana]] (Bahasa Jepang)
+*[[Harakat]]&nbsp; Naskah arab secara vokal dalam bentuk tanda diakritik yang memberikan bantuan fonetik untuk membaca teks di [[Bahasa Arab]].
+*[[Niqqud]]&nbsp; Naskah Ibrani secara vokal untuk menunjukkan pengucapan vokal dalam membaca [[Bahasa Ibrani]]. ([[Abjad]] Ibrani hanya terdiri dari konsonan saja.)
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Ruby Character}}
+<!-- Categories -->
+[[Kategori:Bahasa Jepang]]
+[[Kategori:Bahasa Tionghoa]]
+[[Kategori:Tipografi]]
+[[Kategori:HTML]]
+
+<!-- Interwiki links -->

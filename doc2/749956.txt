@@ -1,0 +1,21 @@
+Hall effect sensor
+[[Berkas:Hall sensor tach.gif|200px|jmpl]]
+[[Berkas:Clutch with Hall Effect sensor.jpg|200px|jmpl]]
+'''Sensor efek hall''' adalah transduser yang bervariasi tegangan output sebagai respon terhadap medan magnet. Sensor efek Hall digunakan untuk beralih kedekatan, posisi, kecepatan deteksi, dan aplikasi penginderaan saat ini.
+
+Dalam bentuk yang paling sederhana, sensor beroperasi sebagai transduser analog, langsung kembali tegangan. Dengan medan magnet diketahui, jarak dari pelat Balai dapat ditentukan. Menggunakan kelompok sensor, posisi relatif dari magnet dapat disimpulkan.
+
+Sering, sensor Hall dikombinasikan dengan sirkuit yang memungkinkan perangkat untuk bertindak digital (on / off) modus, dan dapat disebut switch dalam konfigurasi ini. Sering terlihat dalam aplikasi industri seperti silinder pneumatik yang digambarkan, mereka juga digunakan dalam peralatan konsumen; misalnya beberapa printer komputer menggunakannya untuk mendeteksi kertas hilang dan penutup yang terbuka. Ketika keandalan yang tinggi diperlukan, mereka digunakan dalam keyboard.
+
+Hall sensor biasanya digunakan untuk waktu kecepatan roda dan poros, seperti untuk mesin pembakaran internal yang waktu pengapian, takometer dan sistem pengereman anti-lock. Mereka digunakan dalam brushless DC motor listrik untuk mendeteksi posisi magnet permanen. Dalam roda digambarkan dengan dua magnet sama spasi, tegangan dari sensor akan mencapai puncaknya dua kali untuk setiap revolusi. Susunan ini biasanya digunakan untuk mengatur kecepatan disk drive.
+
+== Referensi ==
+{{Reflist}}
+*Ed Ramsden (2006). Hall-effect sensors: theory and applications (2, illustrated ed.). Elsevier. ISBN 0-7506-7934-4.
+*R. S. Popovi (2004). Hall effect devices (2, illustrated ed.). CRC Press. ISBN 0-7503-0855-9.
+*Petruk, O.; Szewczyk, R.; Ciuk, T. et al. (2014). "Sensitivity and Offset Voltage Testing in the Hall-Effect Sensors Made of Graphene". Advances in Intelligent Systems and Computing (Springer) 267: 631. doi:10.1007/978-3-319-05353-0_60.
+*Petruk, O.; Szewczyk, R.; Salach, J.; Nowicki, M. (2014). "Digitally Controlled Current *Transformer with Hall Sensor". Advances in Intelligent Systems and Computing (Springer) 267: 641. doi:10.1007/978-3-319-05353-0_61.
+*https://www.infineon.com/dgdl/AppNote_Liquid_Level_Sensing_Rev.1.0.pdf?folderId=db3a30431ce5fb52011d4cae1f582dad&fileId=db3a30432313ff5e0123a385f3b2262d
+* A. Baumgartner et al., "Classical Hall effect in scanning gate experiments", ''[[Phys. Rev. B]]'', '''74''', 165426 (2006), {{DOI|10.1103/PhysRevB.74.165426}}
+
+[[Kategori:Sensor]]

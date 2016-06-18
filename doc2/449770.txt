@@ -1,0 +1,20 @@
+Templat:BintangWiki Nigeria
+{{bintangWiki|
+|nama=BintangWiki Nigeria
+|border=gray
+|color=#fdffe7
+|namaberkas=Image:BoNM - Nigeria Hires.png
+|pesan="BintangWiki Nigeria" diberikan kepada '''[[Pengguna:{{PAGENAME}}|{{PAGENAME}}]]''' yang telah memberikan sumbangan berharga kepada artikel-artikel bertopik Nigeria di Wikipedia bahasa Indonesia.
+|pesanpengguna={{{1|}}}
+|width={{{width|}}}
+}}<noinclude>
+
+
+==== Cara penggunaan ====
+<tt><nowiki>{{BintangWiki Nigeria|Komentar Nama_pengguna Tanggal}}</nowiki></tt>.
+
+Contoh:<br />
+<nowiki>{{BintangWiki Nigeria|Selamat! Joni 3 September 2006}}</nowiki> (karena keterbatasan teknis, nama pengguna pemberi BintangWiki dan tanggal harus diisi manual di templat)
+
+[[Kategori:Templat BintangWiki|Nigeria]]
+</noinclude>

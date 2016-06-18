@@ -1,0 +1,14 @@
+Berkas:Umbi-gadung.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+http://rajakeripik.wordpress.com/
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Fairuse}}

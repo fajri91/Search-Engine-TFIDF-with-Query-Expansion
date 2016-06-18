@@ -1,0 +1,7 @@
+Templat:Provinsi Teramo
+{{Navbox Province of Italy
+| nocat={{{nocat|}}}
+| province_code=TE
+| list={{WrapItemsAfterSeparator| [[Alba Adriatica]] | [[Ancarano]] | [[Arsita]] | [[Atri, Italy|Atri]] | [[Basciano]] | [[Bellante]] | [[Bisenti]] | [[Campli]] | [[Canzano]] | [[Castel Castagna]] | [[Castellalto]] | [[Castelli (Teramo)|Castelli]] | [[Castiglione Messer Raimondo]] | [[Castilenti]] | [[Cellino Attanasio]] | [[Cermignano]] | [[Civitella del Tronto]] | [[Colledara]] | [[Colonnella]] | [[Controguerra]] | [[Corropoli]] | [[Cortino]] | [[Crognaleto]] | [[Fano Adriano]] | [[Giulianova]] | [[Isola del Gran Sasso dItalia]] | [[Martinsicuro]] | [[Montefino]] | [[Montorio al Vomano]] | [[Morro d'Oro]] | [[Mosciano Sant'Angelo]] | [[Nereto]] | [[Notaresco]] | [[Penna Sant'Andrea]] | [[Pietracamela]] | [[Pineto]] | [[Rocca Santa Maria]] | [[Roseto degli Abruzzi]] | [[Sant'Egidio alla Vibrata]] | [[Sant'Omero]] | [[Silvi]] | [[Teramo]] | [[Torano Nuovo]] | [[Torricella Sicura]] | [[Tortoreto]] | [[Tossicia]] | [[Valle Castellana]]}}}}<includeonly>{{#if:{{{nocat|}}}||[[Kategori:Kota di Abruzzo]][[Kategori:Komune di provinsi Teramo]]}}</includeonly><noinclude>
+[[Kategori:Templat pembagian administratif Italia|Teramo]]
+</noinclude>

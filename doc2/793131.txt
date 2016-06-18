@@ -1,0 +1,7 @@
+Templat:Taxonomy/Isoptera
+{{Don't edit this line {{{machine code|}}}|{{{1}}}
+|rank=Upaordo
+|link=Isoptera
+|parent=Blattodea
+|refs=
+}}

@@ -1,0 +1,26 @@
+Tanjung Palas, Bulungan
+{{kecamatan
+|nama       =Tanjung Palas
+|dati2      =Kabupaten
+|nama dati2 =Bulungan
+|provinsi   =Kalimantan Utara
+|kelurahan  =5/4
+|luas       =87,6 km
+|penduduk   =20.413 jiwa
+|kepadatan  =... jiwa/km
+}}
+'''Tanjung Palas''' adalah sebuah [[kecamatan]] sekaligus ibukota dan Pusat Pemerintahan di [[Kabupaten Bulungan]], [[Provinsi]] [[Kalimantan Utara]], [[Indonesia]].
+
+== Batas wilayah ==
+Batas-batas wilayah kecamatan '''Tanjung Palas''' adalah sebagai berikut :
+{{batas_USBT
+|utara=Kecamatan [[Tanjung Palas Tengah, Bulungan|Tanjung Palas Tengah]]
+|selatan=[[Kabupaten Berau]]
+|barat=Kecamatan [[Tanjung Palas Barat, Bulungan|Tanjung Palas Barat]]
+|timur=Kecamatan [[Tanjung Selor, Bulungan|Tanjung Selor]]
+}}
+
+{{Tanjung Palas, Bulungan}}
+{{Kabupaten Bulungan}}
+
+{{kecamatan-stub}}

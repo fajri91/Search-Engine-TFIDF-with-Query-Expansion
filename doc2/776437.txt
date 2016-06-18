@@ -1,0 +1,73 @@
+Siaran televisi analog
+[[File:TV screen close-up.jpg|thumb|300px|Siaran televisi analog dilihat dengan pengambilan potret tampak dekat.]]
+'''Siaran televisi analog''' adalah siaran [[televisi]] yang dipancarkan dengan menggunakan variasi voltase dan frekuensi dari [[sinyal]].<ref name="tv code">{{en}}{{cite web|url=http://stakeholders.ofcom.org.uk/binaries/broadcast/guidance/tech-guidance/tv_tech_platform_code.pdf|title=Television Technical Performance Code| date= December 2006|publisher=Ofcom&nbsp; office of Communications|accessdate=24 November 2010}}</ref> Sistem yang dipergunakan oleh siaran televisi analog adalah [[NTSC]] (National Television System Committee), [[PAL]], dan [[SECAM]].<ref name="tv code"/>
+
+== Deskripsi ==
+Untuk mendapatkan siaran televisi analog digunakan alat penangkap sinyal yang disebut [[antena]]. Pada siaran televisi analog, semakin jauh letak antena dari stasiun pemancar televisi, sinyal yang diterima akan melemah dan mengakibatkan gambar yang diterima oleh pesawat televisi menjadi buruk dan berbayang.<ref name="tv"/> Di Indonesia, program siaran televisi analog adalah program-program yang dipancarkan oleh stasiun swasta nasional yang disiarkan secara gratis atau ''free-to-air''. <ref name="tv"/> 
+
+== Transisi siaran televisi analog ==
+Pada tahun 2018, pemerintah Indonesia mencanangkan untuk mengganti seluruh siaran televisi analog dengan [[siaran televisi digital]].<ref name="redi">{{id}} {{cite journal
+ | author = Redi Panuju 
+ | year = 
+ | month = 
+ | title = Mau Dibawa Ke mana Siaran Televisi Digital Kita?
+ | journal = 
+ | volume = 
+ | issue = 
+ | pages = 
+ | doi =
+ | id = 
+ | url =  http://www.jawapos.com/baca/opinidetail/11001/Mau-Dibawa-ke-Mana-Siaran-Televisi-Digital-Kita
+ | publisher = Jawa Pos
+ | format = 
+ | accessdate = 25-Februari-2015
+ }}</ref> Penggantian ini dilakukan secara bertahap sejak tahun 2012.<ref name="tv">{{id}} {{cite journal
+ | author = TV Digital Kominfo
+ | year = 
+ | month = 
+ | title = Aturan Pemerintah 
+ | journal = 
+ | volume = 
+ | issue = 
+ | pages = 
+ | doi =
+ | id = 
+ | url =  http://tvdigital.kominfo.go.id/ 
+ | publisher = 
+ | format = 
+ | accessdate = 8-April-2015
+ }}</ref><ref name="tempo">{{id}} {{cite journal
+ | author = Tempo
+ | year = 
+ | month = 
+ | title = Migrasi Analog ke Digital Terhambat TV Swasta 
+ | journal = 
+ | volume = 
+ | issue = 
+ | pages = 
+ | doi =
+ | id = 
+ | url =  http://www.tempo.co/read/news/2014/11/03/090618981/Migrasi-Analog-ke-Digital-Terhambat-TV-Swasta
+ | publisher = 
+ | format = 
+ | accessdate = 8-April-2015
+ }}</ref> Digitalisasi tersebut bertujuan untuk menghemat [[frekuensi]] dan berpotensi menambah pendapatan negara.<ref name="tempo"/> Digitalisasi juga membuat kualitas [[audio]] dan [[video]] menjadi lebih jernih dan tajam.<ref name="tempo"/> Sehingga pada tahun 2018, masyarakat Indonesia bisa mendapatkan siaran televisi digital yang lebih jernih dari segi gambar dan suara secara tidak berbayar.<ref name="tempo"/><ref name="redi"/> Regulasi tentang migrasi siaran televisi analog ke digital ini telah diatur oleh [[Kementerian Komunikasi dan Informatika Republik Indonesia ]]<nowiki/>pada Peraturan Menteri Kominfo No.22/PER/M.KOMINFO/11/2011 tentang Penyelenggaraan Penyiaran Televisi Digital Terestrial Penerimaan Tetap Tidak Berbayar (''free to air'').<ref name="tv"/>
+
+=== Periode Simulcast ===
+Migrasi siaran televisi analog ke [[siaran televisi digital]] dilakukan secara bertahap.<ref name="tv"/> Proses migrasi ini dinamakan periode simulcast.<ref name="tv"/> Periode simulcast adalah penayangan siaran televisi bersamaan antara siaran televisi analog dan siaran televisi digital dengan tujuan migrasi siaran hingga ''Analog Switch off'' (ASO).<ref name="tv"/><ref name="redi"/> Hal ini dilakukan agar masyarakat memiliki waktu untuk beralih dari siaran analog ke siaran televisi digital.<ref name="tv"/> Adapaun, ''Analog Switch Off'' adalah periode dimana siaran analog dihentikan dan diganti dengan siaran digital.<ref name="tv"/> ASO sudah dilakukan secara total di beberapa negara di dunia diantaranya [[Inggris]], [[Belanda]], [[Norwegia]], [[Jerman]], [[Swedia]], [[Italia]], dan lainnya.<ref name="tv"/> Seluruh negara di dunia lainnya termasuk di kawasan [[ASEAN]] juga sedang melakukan proses transisi ke penyiaran digital. Di Indonesia, proses ''Analog Switch Off'' (ASO) akan dilakukan pada tahun 2018.<ref name="tv"/><ref name="redi"/><ref name="tempo"/> 
+
+=== Kendala ===
+Dalam migrasi siaran televisi digital ke analog terjadi beberapa hambatan.<ref name="tempo"/> Diantaranya adalah perusahaan televisi swasta nasional yang terancam dengan digitalisasi.<ref name="tempo"/> Teknologi digital akan membuat satu channel televisi analog bisa diisi 6 hingga 9 program siaran.<ref name="tempo"/> Dalam skema digitalisasi di [[Jakarta]] dan sekitarnya, pemerintah menetapkan ada tujuh channel.<ref name="tempo"/> Artinya ada sekitar 42-63 program siaran.<ref name="tempo"/> Namun penyelenggaran konten siaran itu harus menyewa frekuensi kepada penyelenggara [[multipleksing]] (MUX) pemenang tender.<ref name="tempo"/><ref name="redi"/> Multipleksing adalah teknologi yang membuat satu channel televisi analog yang tadinya hanya bisa diisi satu program siaran menjadi 6-9 program siaran.<ref name="tempo"/> 
+
+== Lihat pula ==
+*[[Siaran televisi digital]]
+
+== Pranala luar ==
+*[http://www.slideshare.net/efmirza/peraturan-menteri-kominfo-no-22permkominfo112011-tentang-penyelenggaraan-penyiaran-tv-digital-terestrial-penerimaan-tetap-tidak-berbayar-freetoair Peraturan Menteri Kominfo No.22/PER/M.KOMINFO/11/2011 tentang Penyelenggaraan Penyiaran Televisi Digital Terestrial Penerimaan Tetap Tidak Berbayar (free to air)]
+
+== Referensi ==
+{{reflist}}
+
+[[Kategori: Televisi di Indonesia]]
+[[Kategori: Televisi Digital]]
+[[Kategori: Televisi]]

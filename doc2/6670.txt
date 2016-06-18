@@ -1,0 +1,214 @@
+Pyongyang
+{{Infobox settlement <!-- modelled after [[Seoul]] and [[Daegu]] -->
+| name                 = P'yngyang
+| native_name          = 
+| native_name_lang     = ko
+| settlement_type      = [[Munisipalitas dikontrol langsung#Republik Demokratik Rakyat Korea|Kota dikontrol langsung]]
+| official_name        = P'yngyang Directly Governed City
+| translit_lang1       = &nbsp;
+| translit_lang1_type1 = [[Hangul|Chosn'gl]]
+| translit_lang1_info1 =  
+| translit_lang1_type2 = [[Hanja]]
+| translit_lang1_info2 = {{linktext|||}}
+| translit_lang1_type3 = {{nowrap|[[McCune-Reischauer]]}}
+| translit_lang1_info3 = P'yngyang Chikhalsi
+| translit_lang1_type4 = {{nowrap|[[Revised Romanization of Korean|Revised Romanization]]}}
+| translit_lang1_info4 = Pyeongyang Jikhalsi
+| nickname             = <span style="line-height:1.5em;">Rykdongchk Lotng ( ){{nbsp|2}}<small>([[Korean language|Korean]])<br />" Dynamic Labors "</span>
+| Slogan             = <span style="line-height:1.5em;"> (/){{nbsp|2}}<small>([[Korean language|Korean]])<br />" Dynamic Labors "</span>
+
+<!-- images and maps -----------></small>
+| image_skyline = Pyongyang montage.png
+| imagesize = 300px
+| image_caption = From top left: Panorama P'yngyang, [[Menara Juche]], [[Istana Memorial Kumsusan]], [[Arch of Triumph (Pyongyang)|Arch of Triumph]], [[Patung Reunifikasi]], Makam [[Raja Dongmyeong dari Goguryeo|Raja Dongmyeong]], & [[Bandara Internasional Sunan]]
+| image_map = Pyongyang North Korea.png
+| mapsize =
+| map_caption =Map of North Korea with P'yngyang highlighted
+| image_map1 =
+| mapsize1 =
+| map_caption1 =
+| image_dot_map =
+| dot_mapsize =
+| dot_map_caption =
+| dot_x =|dot_y =
+| pushpin_map = <!-- name of a location map as per Template:Location_map -->
+| pushpin_label_position = <!-- position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_caption =
+| pushpin_mapsize =
+<!-- Location ------------------>
+| subdivision_type = [[Daftar negara di dunia|Negara]]
+| subdivision_name = {{Flag|North Korea}}
+| subdivision_type1 = [[Region di Korea|Region]]
+| subdivision_name1 = [[Pyongan|P'yngan]]
+| subdivision_type2 =
+| subdivision_name2 =
+| subdivision_type3 =
+| subdivision_name3 =
+| subdivision_type4 =
+| subdivision_name4 =
+<!-- Smaller parts (e.g. boroughs of a city) and seat of government -->
+| seat_type =
+| seat =
+| parts_type             =[[Pembagian administratif di Korea Utara|Distrik]]
+| parts_style            = <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+                               Default is list if up to 5 items, coll if more than 5-->
+| parts                  = 19 distrik (''guyk''), 4 county (''kun'')
+| p1=[[Chung-guyok]]
+| p2=[[Pyongchon-guyok]]
+| p3=[[Potonggang-guyok]]
+| p4=[[Moranbong-guyok]]
+| p5=[[Sosong-guyok]]
+| p6=[[Songyo-guyok]]
+| p7=[[Tongdaewon-guyok]]
+| p8=[[Taedonggang-guyok]]
+| p9=[[Sadong-guyok]]
+| p10=[[Taesong-guyok]]
+| p11=[[Mangyongdae-guyok]]
+| p12=[[Hyongjesan-guyok]]
+| p13=[[Ryongsong-guyok]]
+| p14=[[Samsok-guyok]]
+| p15=[[Sungho-guyok]]
+| p16=[[Ryokpo-guyok]]
+| p17=[[Nakrang-guyok]]
+| p18=[[Sunan-guyok]]
+| p19=[[Unjong-guyok]]
+| p20=[[Kangnam-gun]]
+| p21=[[Chunghwa-gun]]
+| p22=[[Sangwon-gun]]
+| p23=[[Kangdong-gun]]
+
+<!-- Politics ----------------->
+| government_footnotes =
+| government_type =
+| leader_title =
+| leader_name = <!--add (no-break space) to leader names to disable automatic links-->
+| leader_title1 =
+| leader_name1 =
+| leader_title2 =
+| leader_name2 =
+| leader_title3 =
+| leader_name3 =
+| leader_title4 =
+| leader_name4 =
+| established_title = Didirikan
+| established_date = 1122 B.C.
+| established_title1 = <!-- Incorporated (town) -->
+| established_date1 =
+| established_title2 = <!-- Incorporated (city) -->
+| established_date2 =
+| established_title3 =
+| established_date3 =
+| founder =
+| named_for =
+<!-- Area --------------------->
+| area_magnitude = <!-- use only to set a special wikilink -->
+| unit_pref = <!--Enter: Imperial, to display imperial before metric-->
+| area_footnotes =
+| area_total_km2 =3194 <!-- ALL fields with measurements are subject to automatic unit conversion-->
+| area_land_km2 = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+| area_water_km2 =
+| area_total_dunam = <!--Used in Middle East articles only-->
+| area_total_sq_mi =
+| area_land_sq_mi =
+| area_water_sq_mi =
+| area_water_percent =
+| area_urban_km2 =
+| area_urban_sq_mi =
+| area_metro_km2 =
+| area_metro_sq_mi =
+| area_blank1_title =
+| area_blank1_km2 =
+| area_blank1_sq_mi =
+<!-- Elevation -------------------------->
+| elevation_footnotes = <!--for references: use <ref>tags-->
+| elevation_m = 27
+| elevation_ft =
+| elevation_max_m =
+| elevation_max_ft =
+| elevation_min_m =
+| elevation_min_ft =
+<!-- Population ----------------------->
+| population_as_of = 2008
+| population_footnotes =
+| population_note =
+| population_total =3,855,388
+| population_density_km2 =auto <!--For automatic calculation, any density field may contain: auto -->
+| population_density_sq_mi =
+| population_metro =
+| population_density_metro_km2 =
+| population_density_metro_sq_mi =
+| population_urban =
+| population_density_urban_km2 =
+| population_density_urban_sq_mi =
+| population_blank1_title = Dialect
+| population_blank1 = [[Pyongan dialect|P'yngan]]
+| population_density_blank1_km2 =
+| population_density_blank1_sq_mi =
+<!-- General information --------------->
+| timezone =
+| utc_offset =
+| timezone_DST =
+| utc_offset_DST =
+| coor_pinpoint =<!-- can be used to specify exactly where/what the coordinates refer to -->
+| coordinates_type = type:city_region:KP
+| coordinates_display = inline,title
+| latd = 39 |latm = 1 |lats = 10 |latNS = N
+| longd = 125 |longm = 44 |longs = 17 |longEW = E
+<!-- Area/postal codes & others -------->
+| postal_code_type = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code =
+| area_code =
+| twin1 =
+| twin1_country =
+| twin2 =
+| twin2_country =
+| twin3 =
+| twin3_country =
+| twin4 =
+| twin4_country =
+| twin5 =
+| twin5_country =
+| twin6 =
+| twin6_country =
+| twin7 =
+| twin7_country =
+| blank_name =
+| blank_info =
+| blank1_name =
+| blank1_info =
+| blank2_name =
+| blank2_info =
+| blank3_name =
+| blank3_info =
+| blank4_name =
+| blank4_info =
+| blank5_name =
+| blank5_info =
+| blank6_name =
+| blank6_info =
+| website =
+| footnotes =
+}}
+
+[[Berkas:NK-pyongyang3.png|thumb|200px|Peta Korea Utara menunjukkan lokasi Pyongyang]]
+'''P'yngyang''' adalah [[ibu kota]] [[Korea Utara]] yang terletak di barat laut negara itu, dekat dengan [[Sungai Taedong]].
+
+Pada tahun 1993, jumlah penduduk Pyongyang sebanyak 2.741.260. Kota ini secara administratif setara dengan pemerintahan provinsi.
+
+[[Berkas:Changwang Street in Pyongyang.jpg|thumb|200px|Jalan raya di Pyongyang]]
+[[Berkas:Lhasa_from_Potala_place.JPG|thumb|300px|Kawasan Suci Pyongyang.]]
+== Sejarah ==
+Menurut legenda, Pyongyang dibangun tahun 2333 Sebelum Masehi. Dia merupakan kota utama Dinasti Go-Joseon. [[Goguryeo]] memindahkan ibukotanya disini tahun 427. [[Kerajaan Tang]] dan [[Silla]] bersekutu dan mengalahkan Goguryeo tahun [[668]]. Pada tahun 676, Pyongyang dikuasai oleh Silla.
+
+==Lihat juga==
+* [[Pyongyang Metro]]
+
+{{commons|Pyongyang}}
+
+{{Ibu kota di Asia}}
+
+[[Kategori:Kota di Korea Utara]]
+[[Kategori:Pyongyang| {{PAGENAME}}]]
+
+
+{{negara-geo-stub|Korea Utara}}

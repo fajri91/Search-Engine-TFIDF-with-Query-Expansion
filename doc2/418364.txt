@@ -1,0 +1,290 @@
+Grand Prix F1 Jepang 1987
+{{Infobox Grand Prix race report
+|Type          = F1
+|Grand Prix    = Jepang
+|Country       = Jepang
+|Image         = Circuit Suzuka.png
+|Official name = XIV [[Fuji Television]] [[Japanese Grand Prix]]
+|Date          = 1 November
+|Year          = 1987
+|Race_No       = 15
+|Season_No     = 16
+|Location      = [[Suzuka Circuit]], [[Suzuka, Mie|Suzuka]], [[Japan]]
+|Course        = Permanent racing facility
+|Course_mi     = 3.641
+|Course_km     = 5.859
+|Distance_laps = 51
+|Distance_mi   = 185.670
+|Distance_km   = 298.829
+|Weather       = Dry
+|Pole_Driver    = [[Gerhard Berger]]
+|Pole_Team      = [[Scuderia Ferrari|Ferrari]]
+|Pole_Time      = 1:40.042
+|Pole_Country   = Austria
+|Fast_Driver    = [[Alain Prost]]
+|Fast_Team      = [[Team McLaren|McLaren]]-[[Techniques d'Avant Garde|TAG]]
+|Fast_Time      = 1:43.844
+|Fast_Lap       = 35
+|Fast_Country   = France
+|First_Driver   = [[Gerhard Berger]]
+|First_Team     = [[Scuderia Ferrari|Ferrari]]
+|First_Country  = Austria
+|Second_Driver  = [[Ayrton Senna]]
+|Second_Team    = [[Team Lotus|Lotus]]-[[Honda Racing F1|Honda]]
+|Second_Country = Brazil
+|Third_Driver   = [[Stefan Johansson]]
+|Third_Team     = [[Team McLaren|McLaren]]-[[Techniques d'Avant Garde|TAG]]
+|Third_Country  = Sweden
+}}
+'''Grand Prix Jepang 1987''' merupakan balapan F1 yang diselenggarakan di [[Sirkuit Suzuka]] pada tanggal 1 November dan dimenangi oleh [[Gerhard Berger]] dari [[Scuderia Ferrari]].
+
+==Hasil==
+{| class="wikitable" style="font-size: 95%;"
+|- 
+{{F1-judul2}}
+|-
+! 1
+| 28
+| {{flagicon|Austria}} '''[[Gerhard Berger]]'''
+| '''[[Scuderia Ferrari|Ferrari]]'''
+| 51
+| 1:32:58.072
+| 1
+| '''9'''
+|-
+! 2
+| 12
+| {{flagicon|Brazil}} '''[[Ayrton Senna]]'''
+| '''[[Team Lotus|Lotus]]-[[Honda Racing F1|Honda]]'''
+| 51
+| + 17.384
+| 7
+| '''6'''
+|-
+! 3
+| 2
+| {{flagicon|Sweden}} '''[[Stefan Johansson]]'''
+| '''[[Team McLaren|McLaren]]-[[Techniques d'Avant Garde|TAG]]'''
+| 51
+| + 17.694
+| 9
+| '''4'''
+|-
+! 4
+| 27
+| {{flagicon|Italy}} '''[[Michele Alboreto]]'''
+| '''[[Scuderia Ferrari|Ferrari]]'''
+| 51
+| + 1:20.441
+| 4
+| '''3'''
+|-
+! 5
+| 20
+| {{flagicon|Belgium}} '''[[Thierry Boutsen]]'''
+| '''[[Benetton Formula|Benetton]]-[[Ford Motor Company|Ford]]'''
+| 51
+| + 1:25.576
+| 3
+| '''2'''
+|-
+! 6
+| 11
+| {{flagicon|Japan}} '''[[Satoru Nakajima]]'''
+| '''[[Team Lotus|Lotus]]-[[Honda Racing F1|Honda]]'''
+| 51
+| + 1:36.479
+| 11
+| '''1'''
+|-
+! 7
+| 1
+| {{flagicon|France}} [[Alain Prost]]
+| [[Team McLaren|McLaren]]-[[Techniques d'Avant Garde|TAG]]
+| 50
+| + 1 Lap
+| 2
+| &nbsp;
+|-
+! 8 (1)
+| 3
+| {{flagicon|UK}} [[Jonathan Palmer]]
+| [[Tyrrell Racing|Tyrrell]]-[[Ford Motor Company|Ford]]
+| 50
+| + 1 Lap
+| 19
+| &nbsp;
+|-
+! 9
+| 18
+| {{flagicon|USA}} [[Eddie Cheever]]
+| [[Arrows]]-[[Megatron (engine)|Megatron]]
+| 50
+| Out of Fuel
+| 12
+| &nbsp;
+|-
+! 10
+| 17
+| {{flagicon|UK}} [[Derek Warwick]]
+| [[Arrows]]-[[Megatron (engine)|Megatron]]
+| 50
+| + 1 Lap
+| 13
+| &nbsp;
+|-
+! 11
+| 7
+| {{flagicon|Italy}} [[Riccardo Patrese]]
+| [[Brabham]]-[[BMW in Formula One|BMW]]
+| 49
+| + 2 Lap
+| 8
+| &nbsp;
+|-
+! 12 (2)
+| 4
+| {{flagicon|France}} [[Philippe Streiff]]
+| [[Tyrrell Racing|Tyrrell]]-[[Ford Motor Company|Ford]]
+| 49
+| + 2 Lap
+| 25
+| &nbsp;
+|-
+! 13
+| 26
+| {{flagicon|Italy}} [[Piercarlo Ghinzani]]
+| [[Equipe Ligier|Ligier]]-[[Megatron (engine)|Megatron]]
+| 48
+| + 3 Lap
+| 24
+| &nbsp;
+|-
+! 14 (3)
+| 29
+| {{flagicon|France}} [[Yannick Dalmas]]
+| [[Lola Cars|Lola]]-[[Ford Motor Company|Ford]]
+| 47
+| + 4 Lap
+| 22
+| &nbsp;
+|-
+! 15
+| 6
+| {{flagicon|Brazil}} [[Nelson Piquet]]
+| [[WilliamsF1|Williams]]-[[Honda Racing F1|Honda]]
+| 46
+| Mesin
+| 5
+| &nbsp;
+|-
+! Ret
+| 25
+| {{flagicon|France}} [[Ren Arnoux]]
+| [[Equipe Ligier|Ligier]]-[[Megatron (engine)|Megatron]]
+| 44
+| Habis bensin
+| 17
+| &nbsp;
+|-
+! Ret
+| 21
+| {{flagicon|Italy}} [[Alex Caffi]]
+| [[Osella]]-[[Alfa Romeo (Formula One)|Alfa Romeo]]
+| 43
+| Habis bensin
+| 23
+| &nbsp;
+|-
+! Ret
+| 14
+| {{flagicon|Brazil}} [[Roberto Moreno]]
+| [[Automobiles Gonfaronnaises Sportives|AGS]]-[[Ford Motor Company|Ford]]
+| 38
+| Elektrik
+| 26
+| &nbsp;
+|-
+! Ret
+| 24
+| {{flagicon|Italy}} [[Alessandro Nannini]]
+| [[Minardi]]-[[Motori Moderni]]
+| 35
+| Mesin
+| 14
+| &nbsp;
+|-
+! Ret
+| 9
+| {{flagicon|UK}} [[Martin Brundle]]
+| [[Zakspeed]]
+| 32
+| Mesin
+| 15
+| &nbsp;
+|-
+! Ret
+| 8
+| {{flagicon|Italy}} [[Andrea de Cesaris]]
+| [[Brabham]]-[[BMW in Formula One|BMW]]
+| 26
+| Mesin
+| 10
+| &nbsp;
+|-
+! Ret
+| 19
+| {{flagicon|Italy}} [[Teo Fabi]]
+| [[Benetton Formula|Benetton]]-[[Ford Motor Company|Ford]]
+| 16
+| Mesin
+| 6
+| &nbsp;
+|-
+! Ret
+| 10
+| {{flagicon|Germany}} [[Christian Danner]]
+| [[Zakspeed]]
+| 13
+| Mesin
+| 16
+| &nbsp;
+|-
+! Ret
+| 16
+| {{flagicon|Italy}} [[Ivan Capelli]]
+| [[March Engineering|March]]-[[Ford Motor Company|Ford]]
+| 13
+| Insiden
+| 20
+| &nbsp;
+|-
+! Ret
+| 23
+| {{flagicon|Spain}} [[Adrin Campos]]
+| [[Minardi]]-[[Motori Moderni]]
+| 2
+| Mesin
+| 21
+| &nbsp;
+|-
+! Ret
+| 30
+| {{flagicon|France}} [[Philippe Alliot]]
+| [[Lola Cars|Lola]]-[[Ford Motor Company|Ford]]
+| 0
+| Insiden
+| 18
+| &nbsp;
+|-
+! DNS
+| 5
+| {{flagicon|UK}} [[Nigel Mansell]]
+| [[WilliamsF1|Williams]]-[[Honda F1|Honda]]
+| 0
+| Insiden
+| &nbsp;
+| &nbsp;
+|}
+[[Kategori:Grand Prix F1 musim 1987|Jepang]]
+[[Kategori:Grand Prix Jepang|1987]]

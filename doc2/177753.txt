@@ -1,0 +1,62 @@
+County Baldwin, Alabama
+{{Infobox U.S. County
+| county = Baldwin County
+| state = Alabama 
+| image = Morning at Gulf State Park.jpg
+| seal =  
+| founded = [[21 Desember]] [[1809]]
+| seat wl = Bay Minette 
+| largest city wl = Daphne 
+| area_total_sq_mi = 2027 
+| area_land_sq_mi  = 1596 
+| area_water_sq_mi = 431 
+| area percentage = 21.24% 
+| census yr = 2000
+| pop = 140.415 
+| density_km2 = 34
+| density_sq_mi =88
+| web = www.co.baldwin.al.us
+}}
+'''Baldwin''' merupakan sebuah {{County AS}} di negara bagian [[{{cd|Alabama}}]], [[Amerika Serikat]]. {{#if:{{ucfirst:{{Town AS|1}}}} ini memiliki penduduk 140.415 pada tahun 2000<ref name="AS OF March 28, 2007">http://quickfacts.census.gov/qfd/states/01/01003.html AS OF March 28, 2007</ref>. Tahun 2006 diperkirakan jumlah penduduk bertambah menjadi 169.162<ref name="AS OF March 28, 2007"/>|{{ucfirst:{{County AS|1}}}} ini memiliki penduduk {{ucfirst:{{Town AS|1}}}} ini memiliki penduduk 140.415 pada tahun 2000<ref name="AS OF March 28, 2007">http://quickfacts.census.gov/qfd/states/01/01003.html AS OF March 28, 2007</ref>. Tahun 2006 diperkirakan jumlah penduduk bertambah menjadi 169.162<ref name="AS OF March 28, 2007"/>}} {{br}}
+
+== Jalan raya ==
+* [[Berkas:I-10 (AL).svg|20px]] [[Interstate 10]]
+* [[Berkas:I-65 (AL).svg|20px]] [[Interstate 65]]
+* [[Berkas:US 31.svg|20px]] [[U.S. Highway 31]]
+* [[Berkas:US 90.svg|20px]] [[U.S. Highway 90]]
+* [[Berkas:US 98.svg|20px]] [[U.S. Highway 98]]
+* [[Berkas:Alabama 59.svg|20px]] [[State Route 59]]
+* [[Berkas:Alabama 104.svg|20px]] [[State Route 104]]
+* [[Berkas:Alabama 180.svg|20px]] [[State Route 180]]
+* [[Berkas:Alabama 182.svg|20px]] [[State Route 182]]
+
+== Bandar udara ==
+* [[Bay Minette, Alabama|Bay Minette, 1R8]], memiliki landasan tunggal 08/26 that is 5,497'
+* [[Fairhope, Alabama|Fairhope, 4R4]], memiliki landasan tunggal 01/19 that is 6,604'
+* [[Foley, Alabama|Foley, 5R4]], memiliki landasan tunggal 18/36 that is 3,700'
+* [[Gulf Shores, Alabama|Gulf Shores, JKA]], memiliki dua landasan, 09/27 at 6,962' and 17/35 at 3,596'
+
+{{Geographic Location
+|Centre    = County Baldwin, Alabama
+|North     = 
+|Northeast = [[County Monroe, Alabama|County Monroe]]
+|East      = [[County Escambia, Alabama|County Escambia]] dan [[County Escambia, Florida]]
+|Southeast = 
+|South     = [[Teluk Meksiko]]
+|Southwest = 
+|West      = [[County Mobile, Alabama|County Mobile]]
+|Northwest = [[County Washington, Alabama|County Washington]] dan [[County Clarke, Alabama|County Clarke]]
+}}
+
+== Referensi dan pranala luar ==
+{{reflist}}
+* [http://www.co.baldwin.al.us/ Baldwin County]
+* Baldwin County [http://alabamamaps.ua.edu/contemporarymaps/alabama/counties/baldwin.jpg map of roads/towns] (map  2007 [[University of Alabama|Univ. of Alabama]]).
+* [http://www.baldwineda.com Baldwin County Economic Development]
+
+{{County Baldwin, Alabama}}
+{{Negara bagian Alabama|state=show}}
+{{Alabama-geo-stub}}
+
+[[Kategori:{{County AS|1}} di Alabama|B]]
+[[Kategori:County Baldwin, Alabama| ]]

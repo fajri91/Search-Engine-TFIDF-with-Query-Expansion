@@ -1,0 +1,37 @@
+Templat:Presiden Benin
+{{Navbox
+| name=Presiden Benin
+| title = [[Daftar kepala negara Benin|Kepala negara Benin]]
+|listclass = hlist
+| image = [[berkas:Flag of Benin.svg|50px|Flag of Benin]]
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| list1 =
+* [[Hubert Maga]]
+* [[Christophe Soglo]]
+* [[Sourou-Migan Apithy]]
+* [[Justin Ahomadgb-Tomtin]]*
+* [[Tahirou Congacou]]*
+* [[Christophe Soglo]]
+* [[Jean-Baptiste Hachme]]
+* [[Maurice Kouandt]]
+* [[Alphonse Alley]]
+* [[mile Derlin Zinsou]]
+* [[Maurice Kouandt]]
+* [[Paul-mile de Souza]]
+* [[Hubert Maga]]
+* [[Justin Ahomadgb-Tomtin]]
+* [[Mathieu Krkou]]
+* [[Nicphore Soglo]]
+* [[Mathieu Krkou]]
+* [[Thomas Boni Yayi]]
+* [[Patrice Talon]] {{small|(Terpilih)}}
+|below = militer     *sementara
+}}<noinclude>
+{{collapsible option}}
+[[Kategori:kotak navigasi pemimpin politik Afrika]]
+[[Kategori:politikus Benin|]]
+</noinclude>
+
+<includeonly>
+[[Category:Presidents of Benin]]
+</includeonly>

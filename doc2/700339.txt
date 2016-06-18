@@ -1,0 +1,14 @@
+Templat:Location map France Champagne-Ardenne
+{{#switch:{{{1}}}
+|name   = Champagne-Ardenne
+|top    = 50.25
+|bottom = 47.5
+|left   = 3.25
+|right  = 6.0
+|image  = Champagne-Ardenne region location map.svg
+|image1 = Champagne-Ardenne region relief location map.jpg
+}}<noinclude>{{Location map/Info}}
+
+[[Kategori:Templat peta wilayak Perancis|Champagne-Ardenne]]
+
+</noinclude>

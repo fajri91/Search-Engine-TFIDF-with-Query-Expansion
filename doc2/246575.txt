@@ -1,0 +1,44 @@
+Reia
+{{Infobox Settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+|subdivision_type = [[Countries of the world|Country]]
+|subdivision_name       = {{ROU}}
+|timezone=[[Eastern European Time|EET]]
+|utc_offset=+2
+|timezone_DST=[[Eastern European Summer Time|EEST]]
+|utc_offset_DST=+3
+|image_skyline = Resita Sud (centru), in departare Resita Nord, 1 nov 2008.jpg
+|image_caption = Reia
+|map_caption = Letak Reia
+|official_name=Reia
+|image_shield=ROU CS Resita CoA1.png
+|image_map=Resita_in_Romania.png
+|subdivision_type1=Provinsi
+|subdivision_name1=Provinsi Cara-Severin
+|subdivision_type2=Status
+|subdivision_name2=Ibukota provinsi
+|leader_title=[[Wali kota]]
+|leader_name=Mihai Stepanescu
+|leader_party=Independen
+|area_total_km2=
+|population_as_of=2006
+|population_total=86383
+|population_footnotes=
+|population_density_km2=
+|latd=45 |latm=18 |lats=0 |latNS=N
+|longd=21 |longm=53 |longs=25 |longEW=E
+|website=http://www.primaria-resita.ro/
+}}
+'''Reia''' ([[Bahasa Jerman|Jerman]]: ''Reschitz'', [[Bahasa Hongaria|Hongaria]]: ''Resicabnya'', [[Bahasa Kroasia|Kroasia]]: ''Reica'', [[Bahasa Ceko|Ceko]]: ''Reice'') adalah kota yang terletak di [[Rumania]] barat. Kota ini merupakan ibukota [[Provinsi Cara-Severin]] di wilayah [[Banat]].
+
+Pada tahun 2004, kota ini memiliki populasi sebesar 83.985 jiwa.
+
+== Pranala luar ==
+* [http://www.primaria-resita.ro Official site of Reia (Romanian)]
+* [http://www.resitaonline.ro Unofficial site of Reia (Romanian)]
+* [http://www.caon.ro Another unofficial site of Reia (Romanian)]
+{{commonscat|Reia}}
+
+[[Kategori:Kota di Rumania]]
+
+
+{{negara-geo-stub|Rumania}}

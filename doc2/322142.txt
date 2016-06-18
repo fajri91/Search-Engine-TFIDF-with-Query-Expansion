@@ -1,0 +1,37 @@
+Templat:Stasiun kereta api di Lembah Klang
+{{Navbox
+|name=Stasiun kereta api di Lembah Klang
+| listclass = hlist
+| title =[[Daftar stasiun kereta api di Lembah Klang|Stasiun kereta api di Lembah Klang]]
+
+|group1=[[Jalur Kelana Jaya]]
+|list1=[[Stasiun LRT Terminal PUTRA|Terminal PUTRA]]{{}} [[Stasiun LRT Taman Melati|Taman Melati]]{{}} [[Stasiun LRT Wangsa Maju|Wangsa Maju]]{{}} [[Stasiun LRT Sri Rampai|Sri Rampai]] (ditutup){{}} [[Stasiun LRT Setiawangsa|Setiawangsa]]{{}} [[Stasiun LRT Jelatek|Jelatek]]{{}} [[Stasiun LRT Dato' Keramat|Dato' Keramat]]{{}} [[Stasiun LRT Damai (Malaysia)|Damai]]{{}} [[Stasiun LRT Ampang Park|Ampang Park]]{{}} [[Stasiun LRT KLCC|KLCC]]{{}} [[Stasiun LRT Kampung Baru|Kampung Baru]]{{}} [[Stasiun LRT Dang Wangi|Dang Wangi]]{{}} [[Stasiun LRT Masjid Jamek|Masjid Jamek]]{{}} [[Stasiun LRT Pasar Seni|Pasar Seni]]{{}} [[Stasiun kereta api Kuala Lumpur Sentral|KL Sentral]]{{}} [[Stasiun LRT Bangsar|Bangsar]]{{}} [[Stasiun LRT Abdullah Hukum|Abdullah Hukum]]{{}} [[Stasiun LRT Kerinchi|Kerinchi]]{{}} [[Stasiun LRT Universiti|Universiti]]{{}} [[Stasiun LRT Taman Jaya|Taman Jaya]]{{}} [[Stasiun LRT Asia Jaya|Asia Jaya]]{{}} [[Stasiun LRT Taman Paramount|Taman Paramount]]{{}} [[Stasiun LRT Taman Bahagia|Taman Bahagia]]{{}} {{Nowrap|[[Stasiun LRT Kelana Jaya|Kelana Jaya]]}}
+
+|group2=[[Jalur Ampang]]
+|list2={{Navbox subgroup
+|group1=Stasiun umum
+|list1=[[Stasiun LRT Sentul Timur|Sentul Timur]]{{}} [[Stasiun LRT Sentul|Sentul]]{{}} [[Stasiun Titiwangsa|Titiwangsa]]{{}} [[Stasiun LRT PWTC|PWTC]]{{}} [[Stasiun LRT Sultan Ismail|Sultan Ismail]]{{}} [[Stasiun LRT Bandaraya|Bandaraya]]{{}} [[Stasiun LRT Masjid Jamek|Masjid Jamek]]{{}} [[Stasiun LRT Plaza Rakyat|Plaza Rakyat]]{{}} [[Stasiun Hang Tuah|Hang Tuah]]{{}} [[Stasiun LRT Pudu|Pudu]]{{}} {{Nowrap|[[Stasiun LRT Chan Sow Lin|Chan Sow Lin]]}}
+|group2=Rute kuning ke Ampang
+|list2=[[Stasiun LRT Miharja|Miharja]]{{}} [[Stasiun LRT Maluri|Maluri]]{{}} [[Stasiun LRT Pandan Jaya|Pandan Jaya]]{{}} [[Stasiun LRT Pandan Indah|Pandan Indah]]{{}} [[Stasiun LRT Cempaka|Cempaka]]{{}} [[Stasiun LRT Cahaya|Cahaya]]{{}} [[Stasiun LRT Ampang|Ampang]]
+|group3=Rute hijau ke Sri Petaling
+|list3=[[Stasiun LRT Cheras|Cheras]]{{}} [[Stasiun LRT Salak Selatan|Salak Selatan]]{{}} [[Stasiun LRT Bandar Tun Razak|Bandar Tun Razak]]{{}} [[Stasiun Bandar Tasik Selatan|Bandar Tasik Selatan]]{{}} [[Stasiun LRT Sungai Besi|Sungai Besi]]{{}} [[Stasiun LRT Bukit Jalil|Bukit Jalil]]{{}} {{Nowrap|[[Stasiun LRT Sri Petaling|Sri Petaling]]}}
+}}
+
+|group3=[[Monorel KL]]
+|list3=[[Kuala Lumpur Sentral#Stasiun Monorel KL Sentral|KL Sentral]]{{}} [[Stasiun Monorel Tun Sambanthan|Tun Sambanthan]]{{}} [[Stasiun Monorel Maharajalela|Maharajalela]]{{}} [[Stasiun Hang Tuah|Hang Tuah]]{{}} [[Stasiun Monorel Imbi|Imbi]]{{}} [[Bukit Bintang|Bukit Bintang]]{{}} [[Stasiun Monorel Raja Chulan|Raja Chulan]]{{}} [[Stasiun Monorel Bukit Nanas|Bukit Nanas]]{{}} [[Stasiun Monorel Medan Tuanku|Medan Tuanku]]{{}} [[Stasiun Monorel Chow Kit|Chow Kit]]{{}} [[Stasiun Titiwangsa|Titiwangsa]]
+
+|group4=[[KLIA Ekspres]]
+|list4=[[Kuala Lumpur Sentral|KL Sentral]]{{}} [[Stasiun ERL Bandar Udara Internasional Kuala Lumpur|KLIA]]
+
+|group5=[[KLIA Transit]]
+|list5=[[Kuala Lumpur Sentral|KL Sentral]]{{}} [[Stasiun Bandar Tasik Selatan|Bandar Tasik Selatan]]{{}} [[Stasiun ERL Putrajaya/Cyberjaya|Putrajaya/Cyberjaya]]{{}} [[Stasiun ERL Salak Tinggi|Salak Tinggi]]{{}} [[Stasiun ERL Bandar Udara Internasional Kuala Lumpur|KLIA]]
+
+|group6=[[Rute Rawang-Seremban]]
+|list6=[[Stasiun kereta api Tanjung Malim|Tanjung Malim]]{{}} [[Stasiun Komuter Kuala Kubu Bharu|Kuala Kubu Bharu]]{{}} ('''[[Rute Rawang-Seremban#Shuttle Rawang-Tanjung Malim|Rute ulang alik]]''': '''[[Stasiun Komuter Rasa|Rasa]]'''{{}} '''[[Stasiun Komuter Batang Kali|Batang Kali]]'''{{}} '''[[Stasiun Komuter Serendah|Serendah]]'''){{}} [[Stasiun kereta api Rawang|Rawang]]{{}} [[Stasiun Komuter Kuang|Kuang]]{{}} [[Stasiun kereta api Sungai Buloh|Sungai Buloh]]{{}} [[Stasiun kereta api Kepong Sentral|Kepong Sentral]]{{}} [[Stasiun Komuter Kepong|Kepong]]{{}} [[Stasiun Komuter Segambut|Segambut]]{{}} [[Stasiun Komuter Putra|Putra]]{{}} [[Stasiun Komuter Bank Negara|Bank Negara]]{{}} [[Stasiun Kereta Api Kuala Lumpur|Kuala Lumpur]]{{}} [[Kuala Lumpur Sentral|KL Sentral]]{{}} [[Stasiun Komuter Mid Valley|Mid Valley]]{{}} [[Stasiun Komuter Seputeh|Seputeh]]{{}} [[Stasiun Komuter Salak Selatan|Salak Selatan]]{{}} [[Stasiun Bandar Tasik Selatan|Bandar Tasik Selatan]]{{}} [[Stasiun kereta api Serdang|Serdang]]{{}} [[Stasiun kereta api Kajang|Kajang]]{{}} [[Stasiun Komuter UKM|UKM]]{{}} [[Stasiun Komuter Bangi|Bangi]]{{}} [[Stasiun Komuter Batang Benar|Batang Benar]]{{}} [[Stasiun Komuter Nilai|Nilai]]{{}} [[Stasiun Komuter Labu|Labu]]{{}} [[Stasiun Komuter Tiroi|Tiroi]]{{}} [[Stasiun Seremban|Seremban]]
+
+|group7=[[Rute Batu Caves-Pelabuhan Klang]]
+|list7=[[Stasiun Komuter Batu Caves|Batu Caves]]{{}} [[Stasiun Komuter Taman Wahyu|Taman Wahyu]]{{}} [[Stasiun Komuter Kampung Batu|Kampung Batu]]{{}} [[Stasiun Komuter Batu Kentonmen|Batu Kentonmen]]{{}} [[Stasiun Komuter Sentul|Sentul]]{{}} [[Stasiun Komuter Putra|Putra]]{{}} [[Stasiun Komuter Bank Negara|Bank Negara]]{{}} [[Stasiun Kereta Api Kuala Lumpur|Kuala Lumpur]]{{}} [[Kuala Lumpur Sentral|KL Sentral]]{{}} [[Stasiun Komuter Angkasapuri|Angkasapuri]]{{}} [[Stasiun Komuter Pantai Dalam|Pantai Dalam]]{{}} [[Stasiun Komuter Petaling|Petaling]]{{}} [[Stasiun Komuter Jalan Templer|Jalan Templer]]{{}} [[Stasiun Komuter Kampung Dato Harun|Kampung Dato Harun]]{{}} [[Stasiun Komuter Seri Setia|Seri Setia]]{{}} [[Stasiun Komuter Setia Jaya|Setia Jaya]]{{}} [[Stasiun Komuter Subang Jaya|Subang Jaya]]{{}} [[Stasiun Komuter Batu Tiga|Batu Tiga]]{{}} [[Stasiun Komuter Shah Alam|Shah Alam]]{{}} [[Stasiun Komuter Padang Jawa|Padang Jawa]]{{}} [[Stasiun Komuter Bukit Badak|Bukit Badak]]{{}} [[Stasiun Komuter Klang|Klang]]{{}} [[Stasiun Komuter Teluk Pulai|Teluk Pulai]]{{}} [[Stasiun Komuter Teluk Gadong|Teluk Gadong]]{{}} [[Stasiun Komuter Kampung Raja Uda|Kampung Raja Uda]]{{}} [[Stasiun Komuter Jalan Kastam|Jalan Kastam]]{{}} {{Nowrap|[[Stasiun Komuter Pelabuhan Klang|Port Klang]]}}
+}}<noinclude>
+[[Kategori:Templat navigasi transportasi|{{PAGENAME}}]]
+[[Kategori:Stasiun kereta api di Malaysia| ]]
+</noinclude>

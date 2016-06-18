@@ -1,0 +1,34 @@
+Templat:Aconodes
+{{Navbox
+| name  = Aconodes
+| title = [[Genus]] ''[[Aconodes]]''
+| image=
+| state = collapsed
+| bodyclass = hlist
+| above =
+| list1= 
+* [[Aconodes affinis]]
+* [[Aconodes bilobata]]
+* [[Aconodes bulbosa]]
+* [[Aconodes costata]]
+* [[Aconodes euphorbiae]]
+* [[Aconodes latefasciatus]]
+* [[Aconodes lima]]
+* [[Aconodes montanus]]
+* [[Aconodes multituberculata]]
+* [[Aconodes nepalensis]]
+* [[Aconodes obliquata]]
+* [[Aconodes pedongensis]]
+* [[Aconodes persimilis]]
+* [[Aconodes piniphilus]]
+* [[Aconodes sikkimensis]]
+* [[Aconodes subaequalis]]
+* [[Aconodes submontana]]
+* [[Aconodes submontanus]]
+* [[Aconodes truncata]]
+* [[Aconodes tuberculata]]
+| below =
+}}<noinclude>
+[[Kategori:Aconodes| ]]
+[[Kategori:Templat navigasi hewan]]
+</noinclude>

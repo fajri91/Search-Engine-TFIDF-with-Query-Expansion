@@ -1,0 +1,31 @@
+Tarsius Pulau Paleng
+{{Taxobox
+| name = Tarsius Pulau Paleng<ref name=MSW3>{{MSW3 Groves|pages=127-128}}</ref>
+| status = EN
+| status_ref = <ref name=iucn>{{IUCN2008|assessors=Shekelle, M., Salim, A., Groves, C. P. & Indrawan, M.|year=2008|id=21494|title=Tarsius pelengensis|downloaded=1 January 2009}}</ref>
+| trend = unknown
+| status_system = iucn3.1
+| regnum = [[Animalia]]
+| phylum = [[Chordata]]
+| classis = [[Mammal]]ia
+| ordo = [[Primate]]s
+| familia = [[Tarsiidae]]
+| genus = ''[[Tarsius]]''
+| species = '''''T. pelengensis'''''
+| binomial = ''Tarsius pelengensis''
+| binomial_authority = Sody, 1949
+| range_map = Tarsius pelengensis range.png
+| range_map_caption = Range of the Peleng Tarsier
+}}
+'''Tarsius Pulau Paleng''' (''Tarsius pelengensis''), adalah [[primata]] [[Hewan nokturnal|nokturnal]] yang ditemukan di [[Pulau Paleng]], [[Indonesia]]. Hewan ini dapat memutar kepalanya 180 derajat, seperti [[burung hantu]], karena matanya tersimpan dalam rongga mata yang tetap.
+
+== Referensi ==
+{{reflist}}
+
+[[Kategori:Mamalia Asia]]
+[[Kategori:Mamalia Indonesia]]
+[[Kategori:Fauna Asia]]
+[[Kategori:Fauna Asia Tenggara]]
+
+
+{{hewan-stub}}

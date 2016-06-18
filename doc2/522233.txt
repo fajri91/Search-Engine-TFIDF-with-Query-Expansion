@@ -1,0 +1,82 @@
+Daftar Wakil Wali Kota Surabaya
+{{Infobox Jabatan Politik
+|jabatan         	= Wakil Wali Kota
+|lembaga         	= Surabaya
+|insignia           	= Logo surabaya.gif
+|ukuraninsignia    	= 100px
+|keteranganinsignia	= Lambang Kota Surabaya Republik Indonesia
+|departemen       	= 
+|namaasli	     	= 
+|image                  = Wishnu Sakti Buana.jpg
+|imagesize              = 150px
+|alt             	= 
+|incumbent      	= [[Wisnu Sakti Buana|Wisnu Sakti Buana, S.T.]]
+|incumbentsince         = [[17 Februari]] [[2016]]
+|gelar          	= 
+|kediaman       	= Rumah Dinas Wakil Wali Kota Surabaya </br> [[Genteng, Surabaya|Genteng]], [[Surabaya]]
+|tempo		      	= 5 tahun
+|dibentuk	      	= 1988
+|pertama	       	= [[Soenarjo]]
+|website         	= {{URL|http://www.surabaya.go.id}}
+}}
+
+'''Wakil Wali Kota Surabaya''' adalah posisi kedua yang memerintah [[Kota Surabaya]] di bawah [[Wali Kota Surabaya]]. Posisi ini pertama kali dibentuk pada tahun 1988, bahkan posisi Wakil Wali Kota Surabaya merupakan yang pertama kali di Indonesia karena keberadaan jabatan wakil wali kota baru dibentuk dan disetujui keberadaannya dalam sistem pemerintahan di Indonesia saat itu.
+
+== Daftar Wakil Wali Kota Surabaya ==
+<onlyinclude>
+{| class="wikitable"
+|- bgcolor="blue"
+! No
+! colspan=2|Wakil Wali Kota
+! Mulai Jabatan
+! Akhir Jabatan
+! Keterangan
+! Wali Kota
+|-
+|1. ||[[Berkas:Soenarjo.jpg|100px]]  ||[[Soenarjo]]||[[1988]]||[[1992]]|| ||rowspan=2| [[Poernomo Kasidi]]
+|-
+|rowspan=2|2. ||rowspan=2| [[Berkas:No image available.svg|100px]] ||rowspan=2| Istijono Soenarto||[[1992]]||[[1994]]|| 
+|-
+|[[1994]]|| [[1995]]|| || rowspan=3| [[Soenarto Soemoprawiro]]
+|-
+|3. ||[[Berkas:No image available.svg|100px]]  ||Wardji||[[1995]]||[[2000]]|| 
+|-
+|4. ||[[Berkas:67Bambang DH.jpg|100px]] ||[[Bambang Dwi Hartono]]||[[7 Maret]] [[2000]]||[[16 Januari]] [[2002]]||<small>Periode Pertama</small>
+|-
+|rowspan=3|||rowspan=3 colspan=2 align=center| ''Jabatan kosong'' || [[16 Januari]] [[2002]] || [[10 Juni]] [[2002]] || || Bambang Dwi Hartono<br><small>(Pelaksana Tugas)</small> 
+|-
+|| [[10 Juni]] [[2002]] || [[7 Maret]] [[2005]] || || Bambang Dwi Hartono
+|-
+|| [[7 Maret]] [[2005]] || [[31 Agustus]] [[2005]] || || Chusnul Arifien Damuri<br><small>(Pelaksana Tugas)</small>
+|-
+|5. ||[[Berkas:Arif Afandi.jpg|100px]] ||[[Arif Afandi]]|| [[31 Agustus]] [[2005]]||[[31 Agustus]] [[2010]]|| || Bambang Dwi Hartono
+|-
+||||colspan=2 align=center| ''Jabatan kosong'' || [[31 Agustus]] [[2010]] || [[28 September]] [[2010]] || || Soekamto Hadi<br><small>(Pelaksana Tugas)</small>
+|-
+|   ||[[Berkas:67Bambang DH.jpg|100px]] ||[[Bambang Dwi Hartono]]||[[28 September]] [[2010]]||[[14 Juni]] [[2013]]||<small>Periode Kedua</small>||rowspan=3| [[Tri Rismaharini]]
+|-
+||||colspan=2 align=center| ''Jabatan kosong'' || [[14 Juni]] [[2013]] || [[24 Januari]] [[2014]] || 
+|-
+|6. ||[[Berkas:Wishnu Sakti Buana.jpg|100px]] ||[[Wisnu Sakti Buana]]||[[24 Januari]] [[2014]]||[[28 September]] [[2015]]|| <small>Periode Pertama</small>
+|-
+||||colspan=2 align=center| ''Jabatan kosong'' || [[28 September]] [[2015]] || [[17 Februari]] [[2016]] || || Nurwiyatno<br><small>(Pejabat)</small>
+|-
+||  ||[[Berkas:Wishnu Sakti Buana.jpg|100px]] ||[[Wisnu Sakti Buana]]||[[17 Februari]] [[2016]]||''Petahana''||  <small>Periode Kedua</small> || [[Tri Rismaharini]]
+|-
+|}
+</onlyinclude>
+
+== Lihat pula ==
+* [[Daftar Wali Kota Surabaya]]
+* [[Kota Surabaya]]
+
+== Referensi ==
+{{reflist}}
+
+{{Kota di Indonesia|title=Daftar Wakil Wali Kota di Indonesia|prefix=Daftar Wakil Wali|Kota=}}
+{{Surabaya}}
+{{politik-indo-stub}}
+
+[[Kategori:Kota Surabaya]]
+[[Kategori:Wali Kota Surabaya]]
+[[Kategori:Daftar wakil wali kota di Indonesia|Surabaya]]

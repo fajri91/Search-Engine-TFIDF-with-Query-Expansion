@@ -1,0 +1,14 @@
+Berkas:Logo Kementerian ESDM.gif
+=={{int:filedesc}}==
+{{Information
+| description    =
+http://www.esdm.go.id/
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{PD-IDGov}}

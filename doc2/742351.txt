@@ -1,0 +1,16 @@
+Berkas:Ngempugin di bali.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+upacara ngempugin di Bali
+
+Sumber: http://wisatabali4u.blog.com/files/2013/01/Upacara-Ngempugin1.jpg
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{GFDL}}

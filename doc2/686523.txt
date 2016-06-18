@@ -1,0 +1,15 @@
+Berkas:Marissa Anita.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+[[Marissa Anita]], jurnalis dan presenter [[Indonesia]]. Sumber gambar/foto: ''[[Detik.com]]''. [http://hot.detik.com/read/2014/07/11/165636/2634884/1303/pengalaman-tak-terlupakan-marissa-anita-bersama-ahok-dan-meryl-streep]
+
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Fairuse}}

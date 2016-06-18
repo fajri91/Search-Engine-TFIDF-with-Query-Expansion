@@ -1,0 +1,14 @@
+Templat:Komandan AK
+{{navbox
+| name  = Komandan AK
+| title = [[Armia Krajowa|Komandan ''Armia Krajowa'']]
+| listclass = hlist
+| list1 =
+* [[Micha Karaszewicz-Tokarzewski]]
+* [[Stefan Rowecki]]
+* [[Tadeusz Br-Komorowski]]
+* [[Leopold Okulicki]]
+}}<noinclude>
+[[Kategori:Templat sejarah Polandia|]]
+[[Kategori:Armia Krajowa|]]
+</noinclude>

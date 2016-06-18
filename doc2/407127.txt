@@ -1,0 +1,14 @@
+Berkas:Taqwa.2.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+Masjid Raya At Taqwa Cirebon tampak menyerong.
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{GFDL-self}}

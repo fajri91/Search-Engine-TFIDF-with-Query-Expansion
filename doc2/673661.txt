@@ -1,0 +1,19 @@
+
+{| align="right" cellpadding="4" style="border: 1px solid #aaaaaa; margin: 0 0 10px 10px; padding: 10px; font-size: 42pt; line-height: 42pt; text-align: center;"
+| 
+| 
+|}
+{{Unicode|'''''', ''''''}} ([[n]]-[[caron]]) adalah huruf  yang digunakan dalam [[alfabet Ceko]]-[[alfabet Slowakia|Slowakia]] dan [[alfabet Turkmen]]. Dalam bahasa Cekoslowakia, '''' mewakili bunyi [[palatan nasal]] {{IPA|//}}, (Indonesia: "ny"), sama seperti dalam bahasa Kroasia ''[[nj (digraf)|nj]]'', Polandia ''[[]]'', Spanyol ''[[]]'', dan ''[[nh (digraf)|nh]]'' dalam bahasa Portugis. Sedangkan dalam bahasa Turkmen, '''' mewakili bunyi [[velar nasal]] {{IPA|//}} (Indonesia: "ng").
+
+Pada abad ke-19 huruf ini pernah digunakan dalam [[bahasa Kroasia]], juga mewakili bunyi {{IPA|//}}.
+
+== Kode HTML ==
+Kode Unicode  dan  adalah U+0147 and U+0148.<ref>{{cite web|title=Unicode Character 'LATIN CAPITAL LETTER N WITH CARON' (U+0147)|url=http://www.fileformat.info/info/unicode/char/147/index.htm|work=FileFormat.Info|accessdate=27 July 2010}}</ref><ref>{{cite web|title=Unicode Character 'LATIN SMALL LETTER N WITH CARON' (U+0148)|url=http://www.fileformat.info/info/unicode/char/0148/index.htm|work=FileFormat.Info|accessdate=27 July 2010}}</ref>
+
+==Referensi==
+{{Reflist}}
+
+{{huruf-stub}}
+{{Latin alphabet|n|show diacritic=caron}}
+
+[[Kategori:Huruf Latin yang tidak umum]]

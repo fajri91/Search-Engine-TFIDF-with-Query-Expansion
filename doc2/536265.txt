@@ -1,0 +1,14 @@
+Berkas:Tupac Amaru Shakur.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+{{Dari|en|Tupac Shakur (rapper), performing live.jpg||David Gerard|28 Juli 2012}}
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Fairuse}}

@@ -1,0 +1,13 @@
+Templat:Location map United States Fresno
+{{#switch:{{{1}}}
+|name=Fresno, California
+|top=36.924
+|bottom=36.633
+|left=-119.985
+|right=-119.603
+|image=Location map Fresno.png
+}}<noinclude>
+{{Location map/Info}}
+[[Category:Templat peta navigasi Amerika Serikat|Fresno]]
+
+</noinclude>

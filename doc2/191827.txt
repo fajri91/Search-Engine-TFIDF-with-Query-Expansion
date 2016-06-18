@@ -1,0 +1,209 @@
+Keamanan komputer
+{{refimprove|date=November 2013}}
+'''Keamanan komputer''' atau dalam Bahasa Inggris '''computer security''' atau dikenal juga dengan sebutan '''cybersecurity''' atau '''IT security''' adalah keamanan informasi yang diaplikasikan kepada komputer dan jaringannya.  Computer security atau '''keamanan komputer''' bertujuan membantu user agar dapat mencegah penipuan atau mendeteksi adanya usaha penipuan di sebuah sistem yang berbasis informasi. Informasinya sendiri memiliki arti [[non fisik]].
+
+'''Keamanan komputer''' adalah suatu cabang [[teknologi]] yang dikenal dengan nama [[keamanan informasi]] yang diterapkan pada [[komputer]]. Sasaran keamanan komputer antara lain adalah sebagai perlindungan informasi terhadap pencurian atau korupsi, atau pemeliharaan ketersediaan, seperti dijabarkan dalam kebijakan keamanan.
+
+Sistem keamanan komputer merupakan sebuah upaya yang dilakukan untuk mengamankan kinerja dan proses [[komputer]]. Penerapan computer security dalam kehidupan sehari-hari berguna sebagai penjaga sumber daya sistem agar tidak digunakan, [[modifikasi]], [[interupsi]], dan diganggu oleh orang yang tidak berwenang. Keamanan bisa diindentifikasikan dalam masalah [[teknis]], [[manajerial]], [[legalitas]], dan [[politis]]. computer security akan membahas 2 hal penting yaitu [[Ancaman]]/[[Threats]] dan [[Kelemahan sistem]]/[[vulnerabillity]].
+
+Keamanan komputer memberikan persyaratan terhadap komputer yang berbeda dari kebanyakan [[persyaratan sistem]] karena sering kali berbentuk pembatasan terhadap apa yang tidak boleh dilakukan komputer. Ini membuat keamanan komputer menjadi lebih menantang karena sudah cukup sulit untuk membuat [[program komputer]] melakukan segala apa yang sudah dirancang untuk dilakukan dengan benar. Persyaratan negatif juga sukar untuk dipenuhi dan membutuhkan pengujian mendalam untuk verifikasinya, yang tidak praktis bagi kebanyakan program komputer. Keamanan komputer memberikan strategi teknis untuk mengubah persyaratan negatif menjadi aturan positif yang dapat ditegakkan.
+
+Pendekatan yang umum dilakukan untuk meningkatkan keamanan komputer antara lain adalah dengan membatasi akses fisik terhadap komputer, menerapkan mekanisme pada [[perangkat keras]] dan [[sistem operasi]] untuk keamanan komputer, serta membuat strategi pemrograman untuk menghasilkan program komputer yang dapat diandalkan.
+
+== Definisi ==
+Keamanan komputer ([[Computer Security]]) merupakan suatu cabang teknologi yang dikenal dengan nama keamanan informasi yang diterapkan pada komputer. Pengertian tentang keamanan komputer ini beragam-ragam, sebagai contoh dapat kita lihat beberapa defenisi keamanan komputer menurut para ahlinya, antara lain :
+
+Menurut [[John D. Howard]] dalam bukunya An Analysis of security incidents on the internet menyatakan bahwa : Keamanan komputer adalah tindakan pencegahan dari serangan pengguna komputer atau pengakses jaringan yang tidak bertanggung jawab.
+
+Menurut [[Gollmann]] pada tahun 1999 dalam bukunya Computer Security menyatakan bahwa : Keamanan komputer adalah berhubungan dengan pencegahan diri dan deteksi terhadap tindakan pengganggu yang tidak dikenali dalam system komputer.
+
+== Tujuan ==
+Menurut [[Garfinkel]] dan [[Spafford]], ahli dalam ''computer security'', komputer dikatakan aman jika bisa diandalkan dan perangkat lunaknya bekerja sesuai dengan yang diharapkan. Keamanan komputer memiliki 5 tujuan, yaitu:
+
+# ''Availability''
+# ''Integrity''
+# ''Control''
+# ''Audit''
+# ''Confidentiality''
+
+Tujuan Keamanan Komputer dalam [[CASIFO]]:
+
+*''' Perusahaan''' 
+::Berusaha melindungi data dan informasi dari orang yang tidak berada dalam ruang lingkupnya.
+*'''Ketersediaan''' 
+::Tujuan [[SIFO]] adalah menyediakan data dan informasi bagi mereka yang berwenang untuk menggunakannya.
+*'''Integritas''' 
+::Semua subsistem [[SIFO]] harus menyediakan gambaran akurat dari sistem fisik yang di wakilinya.
+
+==Metode==
+Berdasarkan level, metode pengamanan komputer dibedakan berdasarkan level keamanan, dan disusun seperti piramida, yaitu:
+
+#Keamanan Level 0, merupakan keamanan fisik (Physical Security) atau keamanan tingkat awal. Apabila keamanan fisik sudah terjaga maka keamanan di dalam computer juga akan terjaga.
+#Keamanan Level 1, terdiri dari database security, data security, dan device security. Pertama dari pembuatan database dilihat apakah   menggunakan aplikasi yang sudah diakui keamanannya. Selanjutnya adalah memperhatikan data security yaitu pendesainan database, karena pendesain database harus memikirkan kemungkinan keamanan dari database. Terakhir adalah device security yaitu adalah yang dipakai untuk keamanan dari database tersebut.
+#Keamanan Level 2, yaitu keamanan dari segi keamanan jaringan. Keamanan ini sebagai tindak lanjut dari keamanan level 1.
+#Keamanan Level 3, merupakan information security. Informasi  informasi seperti kata sandi yang dikirimkan kepada teman atau file  file yang penting, karena takut ada orang yang tidak sah mengetahui informasi tersebut.
+#Keamanan Level 4, keamanan ini adalah keseluruhan dari keamanan level 1 sampai level 3. Apabila ada satu dari keamanan itu tidak terpenuhi maka keamanan level 4 juga tidak terpenuhi.
+
+Berdasarkan sistem, metode pengamanan komputer terbagi dalam beberapa bagian antara lain :
+*[[Network Topology]]
+Sebuah jaringan komputer dapat dibagi atas kelompok jaringan eksternal (Internet atau pihak luar) kelompok jaringan internal dan kelompok jaringan eksternal diantaranya disebut DeMilitarized Zone (DMZ).
+-         Pihak luar : Hanya dapat berhubungan dengan host-host yang berada pada jaringan [[DMZ]], sesuai dengan kebutuhan yang ada. 
+-         Host-host pada jaringan DMZ : Secara default dapat melakukan hubungan dengan host-host pada jaringan internal. Koneksi secara terbatas dapat dilakukan sesuai kebutuhan.
+-         Host-host pada jaringan Internal : Host-host pada jaringan internal tidak dapat melakukan koneksi ke jaringan luar, melainkan melalui perantara host pada jaringan DMZ, sehingga pihak luar tidak mengetahui keberadaan host-host pada jaringan komputer internal.
+
+*[[Security Information Management]]
+Salah satu alat bantu yang dapat digunakan oleh pengelola jaringan komputer adalah Security Information Management (SIM). SIM berfungsi untuk menyediakan seluruh informasi yang terkait dengan pengamanan jaringan komputer secara terpusat. Pada perkembangannya SIM tidak hanya berfungsi untuk mengumpulkan data dari semua peralatan keamanan jaringan komputer tapi juga memiliki kemampuan untuk analisis data melalui teknik korelasi dan query data terbatas sehingga menghasilkan peringatan dan laporan yang lebih lengkap dari masing-masing serangan. Dengan menggunakan SIM, pengelola jaringan komputer dapat mengetahui secara efektif jika terjadi serangan dan dapat melakukan penanganan yang lebih terarah, sehingga organisasi keamanan jaringan komputer tersebut lebih terjamin.
+
+*[[IDS / IPS]]
+Intrusion detection system (IDS) dan Intrusion Prevention system (IPS) adalah sistem yang digunakan untuk mendeteksi dan melindungi sebuah sistem keamanan dari serangan pihak luar atau dalam. Pada IDS berbasiskan [[jaringan komputer]] , [[IDS]] akan menerima kopi paket yang ditujukan pada sebuah host untuk selanjutnya memeriksa paket-paket tersebut. Jika ditemukan paket yang berbahaya, maka IDS akan memberikan peringatan pada pengelola sistem. Karena paket yang diperiksa adalah salinan dari paket yang asli, maka jika ditemukan paket yang berbahaya maka paket tersebut akan tetap mancapai host yang ditujunya.Sebuah IPS bersifat lebih aktif daripada IDS. Bekerja sama dengan [[firewall]], sebuah IPS dapat memberikan keputusan apakah sebuah paket dapat diterima atau tidak oleh sistem. Apabila IPS menemukan paket yang dikirimkan adalah paket berbahaya, maka IPS akan memberitahu firewall sistem untuk menolak paket data itu. Dalam membuat keputusan apakah sebuah paket data berbahaya atau tidak, IDS dan IPS dapat memnggunakan metode
+
+*Signature based Intrusion Detection System : Telah tersedia daftar [[signature]] yang dapat digunakan untuk menilai apakah paket yang dikirimkan berbahaya atau tidak.
+*Anomaly based Intrusion Detection System : Harus melakukan konfigurasi terhadap [[IDS]] dan [[IPS]] agar dapat mengetahui pola paket seperti apa saja yang akan ada pada sebuah sistem jaringan komputer. Paket anomaly adalah paket yang tidak sesuai dengan kebiasaan jaringan komputer tersebut.
+*[[Port Scanning]]
+Metode Port Scanning biasanya digunakan oleh penyerang untuk mengetahui port apa saja yang terbuka dalam sebuah sistem jaringan komputer. Cara kerjanya dengan cara mengirimkan paket [[inisiasi]] koneksi ke setiap port yang sudah ditentukan sebelumnya. Jika  port scanner menerima jawaban dari sebuah port, maka ada aplikasi yang sedang bekerja dan siap menerima koneksi pada port tersebut.
+
+*[[Packet Fingerprinting]]
+Dengan melakukan packet [[fingerprinting]], kita dapat mengetahui peralatan apa saja yang ada dalam sebuah jaringan komputer. Hal ini sangat berguna terutama dalam sebuah organisasi besar di mana terdapat berbagai jenis peralatan jaringan komputer serta [[sistem operasi]] yang digunakan.
+
+===Jenis Ancaman jaringan===
+*[[Probe]]
+Probe  atau  yang  biasa  disebut  probing  adalah  usaha  untuk  mengakses  sistem  dan mendapatkan informasi tentang sistem
+
+*[[Scan]]     
+Scan adalah probing dalam jumlah besar menggunakan suatu tool
+
+*[[Account compromise]]
+Meliputi User compromize dan root compromize
+
+*[[Packet Snifer]]
+Adalah  sebuah  program  yang  menangkap data  dari paket  yang  lewat  di jaringan. (username, password, dan informasi penting lainnya)
+
+*[[Hacking]]
+Hacking adalah tindakan memperoleh akses ke komputer atau jaringan komputer untuk mendapatkan atau mengubah informasi tanpa otorisasi yang sah
+
+*[[Denial-of-Service]]
+Serangan  Denial-of-service (DoS) mencegah pengguna yang sah dari penggunaan layanan ketika pelaku mendapatkan akses tanpa izin ke mesin atau data.  Ini terjadi karena pelaku membanjiri jaringan dengan volume data yang besar atau sengaja  menghabiskan  sumber daya yang langka atau terbatas, seperti process control blocks atau koneksi jaringan yang tertunda. Atau mereka mengganggu komponen fisik jaringan atau memanipulasi data  yang sedang dikirimkan, termasuk data terenkripsi.
+
+*[[Malicious code]] (Kode Berbahaya) 
+Malicious code adalah program yang menyebabkan kerusakan sistem ketika dijalankan.
+Virus, worm dan Trojan horse merupakan jenis-jenis malicious code.
+-  Virus  komputer adalah sebuah program komputer atau  kode  program  yang merusak sistem komputer dan data dengan mereplikasi  dirinya sendiri  melalui peng-copy-an ke program lain, boot sector komputer atau dokumen.
+-  Worm  adalah virus yang mereplikasi  dirinya sendiri yang tidak mengubah  file, tetapi  ada  di  memory  aktif, menggunakan  bagian dari sistem operasi yang otomatis dan biasanya  tidak  terlihat  bagi pengguna.  Replikasi mereka  yang  tidak  terkontrol memakan  sumber    daya    sistem,  melambatkan  atau  menghentikan  proses  lain.
+Biasanya hanya jika ini terjadi keberadaan worm diketahui.
+-  Trojan horse  adalah program yang  sepertinya  bermanfaat dan/atau tidak berbahaya tetapi sesungguhnya  memiliki fungsi merusak  seperti unloading  hidden  program  atau command scripts yang membuat sistem rentan gangguan.
+
+*[[Social Engineering]] / Exploitation of Trust
+Sekumpulan teknik untuk memanipulasi orang  sehingga  orang  tersebut  membocorkan informasi rahasia.  Meskipun  hal ini mirip  dengan    permainan kepercayaan  atau  penipuan sederhana,  istilah  ini mengacu kepada penipuan untuk mendapatkan informasi atau akses sistem komputer.
+Beberapa jebakan yang dapat dilakukan diantaranya dengan :
+-  Memanfaatkan  kepercayaan orang dalam bersosialisasi dengan komputer.
+-  Memanfaatkan  kesalahan  orang  secara  manusiawi misal : kesalahan  ketik dll
+-  Bisa dengan cara membuat tampilan Login yang mirip (teknik fake login),
+
+*[[Phishing]] 
+Tindakan  pemalsuan  terhadap  data  atau identitas  resmi.
+
+==Implementasi==
+
+Ada tiga macam Computer security yang berkaitan dengan kehidupan sehari-hari antara lain :
+
+1. '''Keamanan eksternal / external security'''
+:Berkaitan dengan pengamanan fasilitas komputer dari penyusup dan bencana seperti kebakaran /kebanjiran.
+2. '''Keamanan interface pemakai / user interface security'''
+:Berkaitan dengan indentifikasi pemakai sebelum pemakai diijinkan mengakses program dan data yang disimpan
+3. '''Keamanan internal / internal security'''
+:Berkaitan dengan pengamanan beragam kendali yang dibangun pada perangkat keras dan [[sistem operasi]] yang menjamin operasi yang handal dan tak terkorupsi untuk menjaga [[integritas]] [[program]] dan [[data]].
+
+Dari berbagai macam jenis implementasi computer security ada hal yang perlu untuk diperhatikan dalam menjaga keamanan komputer. Di bawah ini adalah dua masalah penting di kehidupan sehari-hari yang harus diperhatikan dalam keamanan komputer :
+
+* '''Kehilangan data / [[data loss]]'''
+Masalah data loss dapat disebabkan oleh :
+:*Bencana
+:*Kesalahan perangkat lunak dan perangkat keras
+:* Kesalahan manusia / [[human error]]
+
+* '''Penyusup / [[intruder]]'''
+Penyusup bisa dikategorikan kedalam dua jenis :
+:*Penyusup pasif yaitu membaca data yang tidak terotorisasi ( tidak berhak mengakses )
+:*Penyusup aktif yaitu mengubah susunan sistem data yang tidak terotorisasi.
+
+Selain itu ancaman lain terhadap sistem keamanan komputer bisa dikategorikan dalam empat macam :
+* '''Interupsi / [[interuption]]'''
+Sumber daya sistem komputer dihancurkan sehingga tidak berfungsi. Contohnya penghancuran harddisk atau pemotongan kabel. Ini merupakan ancaman terhadap ketersediaan.
+* '''Intersepsi / [[interception]]'''
+Orang yang tak diotorisasi dapat masuk / mengakses ke sumber daya sistem. Contohnya menyalin file yang terotorisasi. Ini merupakan ancaman terhadap kerahasiaan.
+* '''Modifikasi / [[modification]]'''
+Orang yang tak diotorisasi tidak hanya dapat mengakses tapi juga mengubah,merusak sumber daya. Contohnya mengubah isi pesan, atau mengacak program. Ini merupakan ancaman terhadap integritas
+* '''Fabrikasi / [[fabrication]]'''
+Orang yang tak di[[otorisasi]] menyisipkan objek palsu ke dalam sistem. Contohnya memasukkan pesan palsu, menambah data palsu.
+Dari kategori yang ada diatas dan jika dikaitkan dalam kehidupan sehari-hari pasti kita akan menemukan masalah dalam komputer.
+
+===Ancaman sistem keamanan komputer===
+Dibawah ini merupakan nama-nama ancaman yang sering dilihat dalam sistem keamanan komputer.
+
+*[[Adware]]
+*[[Backdoor Trojan]]
+*[[Bluejacking]]
+*[[Bluesnarfing]]
+*[[Boot Sector Viruses]]
+*[[Browser Hijackers]]
+*[[Chain Letters]]
+*[[Cookies]]
+*[[Denial of Service Attack]]
+*[[Dialers]]
+*[[Document Viruses]]
+*[[Email Viruses]]
+*[[Internet Worms]]
+*[[Mobile Phone Viruses]]
+
+====Jenis Ancaman keamanan komputer====
+Berikut ini adalah contoh ancaman-ancaman yang sering dilihat :
+*[[Virus]]
+*[[Email Virus]]
+*[[Internet Worms]]
+*[[Spam]]
+*[[Trojan Horse]]
+*[[Spyware]]
+*[[Serangan Brute-force]]
+
+==Manfaat==
+
+Guna manfaat sistem keamanan computer yaitu menjaga suatu sistem komputer dari pengaksesan seseorang yang tidak memiliki hak untuk mengakses sistem komputer tersebut. Sistem keamanan komputer semakin dibutuhkan saat ini seiring dengan meningkatnya penggunaan komputer di seluruh penjuru dunia. Selain itu makin meningkatnya para pengguna yang menghubungkan jaringan [[LAN]]nya ke [[internet]], namun tidak di imbangi dengan SDM yang dapat menjaga keamanan data dan infomasi yang dimiliki. Sehingga keamanan data yang ada menjadi terancam untuk diakses dari orang-orang yang tidak berhak. Keamanan komputer menjadi penting karena ini terkait dengan [[Privacy]], [[Integrity]], [[Autentication]], [[Confidentiality]] dan [[Availability]]. Beberapa ancaman keamanan komputer adalah [[virus]], [[worm]], [[trojan]], [[spam]] dan lain-lain. Masing-masingnya memiliki cara untuk mencuri data bahkan merusak sistem komputer. Ancaman bagi keamanan sistem komputer ini tidak dapat dihilangkan begitu saja, namun kita dapat meminimalkan hal ini dengan menggunakan [[software]] keamanan sistem diantaranya [[antivirus]], [[antispam]] dan sebagainya.
+
+===Faktor===
+Beberapa hal yang menjadikan kejahatan komputer terus terjadi dan cenderung meningkat adalah sebagai berikut :
+:*Meningkatnya penggunaan [[komputer]] dan [[internet]].
+:*Banyaknya [[software]] yang pada awalnya digunakan untuk melakukan audit sebuah [[system]] dengan cara mencari kelemahan dan celah yang mungkin disalahgunakan untuk melakukan scanning system orang lain.
+:*Banyaknya software-software untuk melakukan penyusupan yang tersedia di Internet dan bisa di download secara gratis.
+:*Meningkatnya kemampuan pengguna komputer dan [[internet]].
+:*Kurangnya hukum yang mengatur kejahatan komputer.
+:*Semakin banyaknya perusahaan yang menghubungkan jaringan [[LAN]] mereka ke [[Internet]].
+:*Meningkatnya aplikasi bisnis yang menggunakan [[internet]].
+:*Banyaknya [[software]] yang mempunyai kelemahan (bugs).
+
+===Dampak===
+
+'''Dampak negatif''' yang ditimbulkan dari penggunaan sistem keamanan komputer yaitu.
+
+*Menurunnya nilai transaksi melalui internet terhadap E-Commerse
+*Menurutnya tingkat kepercayaan dalam melakukan komunikasi dan transaksi melalui media online.
+*Merugikan secara moral dan materi bagi korban yang data-data pribadinya dimanipulasi.
+
+Seperti juga masalah yang ada di Indonesia  yang menurut saya bisa dijadikan salah satu contoh dampak negative dari penggunaan sistem keamanan komputer yaitu;
+
+:*Pencurian dan penggunaan [[account]] [[Internet]] milik orang lain. Salah satu kesulitan dari sebuah [[ISP]] (Internet Service Provider) adalah adanya account pelanggan mereka yang dicuri dan digunakan secara tidak sah. Berbeda dengan pencurian yang dilakukan secara fisik, pencurian [[account]] cukup menangkap [[user id]] dan [[password]] saja. Hanya informasi yang dicuri. Sementara itu orang yang kecurian tidak merasakan hilangnya benda yang dicuri. Pencurian baru terasa efeknya jika informasi ini digunakan oleh yang tidak berhak. Akibat dari pencurian ini, pengguna dibebani biaya penggunaan account tersebut. Kasus ini banyak terjadi di [[ISP]]. Membajak [[situs web]]. Salah satu kegiatan yang sering dilakukan oleh [[cracker]] adalah mengubah halaman [[web]], yang dikenal dengan istilah [[deface]]. Pembajakan dapat dilakukan dengan meng[eksploitasi lubang [[keamanan]].
+
+:*[[Probing]] dan [[port scanning]]. Salah satu langkah yang dilakukan [[cracker]] sebelum masuk ke [[server]] yang ditargetkan adalah melakukan pengintaian. Cara yang dilakukan adalah dengan melakukan [[port scanning]] atau [[probing]] untuk melihat servis-servis apa saja yang tersedia di [[server]] target. Sebagai contoh, hasil scanning dapat menunjukkan bahwa server target menjalankan program [[web server]] [[Apache]], [[mai]] [[server]] Sendmail, dan seterusnya. [[Analogi]] hal ini dengan dunia nyata adalah dengan melihat-lihat apakah pintu rumah anda terkunci, merek kunci yang digunakan, jendela mana yang terbuka, apakah pagar terkunci menggunakan ([[firewall]] atau tidak) dan seterusnya. Yang bersangkutan memang belum melakukan kegiatan pencurian atau penyerangan, akan tetapi kegiatan yang dilakukan sudah mencurigakan. 
+Berbagai [[program]] yang digunakan untuk melakukan [[probing]] atau [[portscanning]] ini dapat diperoleh secara gratis di [[Internet]]. Salah satu program yang paling populer adalah [[nmap]] (untuk sistem yang berbasis [[UNIX]], [[Linux]]) dan [[Superscan]] (untuk sistem yang berbasis [[Microsoft]] [[Windows]]). Selain mengidentifikasi [[port]], [[nmap]] juga bahkan dapat mengidentifikasi jenis [[operating system]] yang digunakan.
+
+:*[[Virus]]. Seperti halnya di tempat lain, [[virus]] komputer pun menyebar di Indonesia. Penyebaran umumnya dilakukan dengan menggunakan [[email]]. Seringkali orang yang sistem emailnya terkena virus tidak sadar akan hal ini. Virus ini kemudian dikirimkan ke tempat lain melalui emailnya.
+
+*[[Denial of Service]] (DoS) dan [[Distributed DoS]] (DDos) [[attack]]. DoS attack merupakan serangan yang bertujuan untuk melumpuhkan target ([[hang]], [[crash]]) sehingga dia tidak dapat memberikan layanan. Serangan ini tidak melakukan [[pencurian]], [[penyadapan]], ataupun pemalsuan data. Akan tetapi dengan hilangnya layanan maka target tidak dapat memberikan servis sehingga ada kerugian [[finansial]]. Bayangkan bila seseorang dapat membuat ATM bank menjadi tidak berfungsi. Akibatnya nasabah bank tidak dapat melakukan transaksi dan bank (serta nasabah) dapat mengalami kerugian finansial.  [[DoS attack]] dapat ditujukan kepada [[server]] (komputer) dan juga dapat ditargetkan kepada [[jaringan]] (menghabiskan [[bandwidth]]). [[Tools]] untuk melakukan hal ini banyak tersebar di Internet.
+
+==Pranala luar==
+*[http://it.ucmerced.edu/security/information-security-awareness-training/what-computer-security/ it.ucmerced.edu]
+*[http://www.albion.com/security/intro-4.html albion.com/security]
+
+{{Commonscat|Computer security}}
+
+[[Kategori:Keamanan komputer]]
+[[Kategori:Artikel kelas awal bertopik teknologi informasi]]

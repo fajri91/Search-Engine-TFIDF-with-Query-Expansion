@@ -1,0 +1,26 @@
+Berkas:Yana's Friends.jpg
+{{dari|en}}
+== Penjelasan ==
+{{Non-free use rationale poster|Media=film
+|Article           = Yana's Friends
+|Use               = Infobox
+<!-- ADDITIONAL INFORMATION -->
+|Name              = Yana's Friends
+|Distributor       = [[Friends of Film]] ([[Amerika Serikat|A.S.]])
+|Publisher         = 
+|Type              = 
+|Website           = 
+|Owner             = 
+|Commentary        = 
+<!--OVERRIDE FIELDS -->
+|Description       = 
+|Source            = http://www.obuolys.lt/kinozona/filmas/501-janos-draugai
+|Portion           = 
+|Low_resolution    = 
+|Purpose           = <!-- Must be specified if Use is not Infobox / Header / Section / Artist -->
+|Replaceability    = 
+|other_information = 
+}}
+
+== Lisensi ==
+{{Non-free video cover|image has rationale=yes}}

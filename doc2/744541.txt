@@ -1,0 +1,28 @@
+Rumpun bahasa Chamik
+{{about|rumpun bahasa Aceh-Chamik|kumpulan dialek bahasa Cham|bahasa Cham}}
+{{Infobox language family
+|name        = Bahasa Chamik
+|altname     = Bahasa AcehChamik
+|region      = [[Indonesia]] ([[Aceh]]), [[Cambodia]], [[Vietnam]], [[RRC]] (pulau [[Hainan]]), imigran baru di negara-negara lain 
+|familycolor = Austronesian
+|fam2        = [[Rumpun bahasa Melayu-Polinesia|Melayu-Polinesia]] (MP)
+|fam3        = [[Rumpun bahasa Melayu-Polinesia Inti|MP Inti]]
+|fam4        = [[Rumpun bahasa Melayu-Sumbawa|Melayu-Sumbawa]]
+|child1      = Bahasa Aceh
+|child2      = Pesisir
+|child3      = Pegunungan
+|iso2        = cmc
+|iso5        = cmc
+|glotto      = cham1327
+}}
+'''Rumpun bahasa Chamik''', disebut juga dengan nama '''rumpun bahasa AcehChamik''', adalah suatu kelompok yang terdiri dari sepuluh bahasa yang dipertuturkan di [[Aceh]] ([[Sumatra]], [[Indonesia]]) dan di sebagian wilayah [[Kamboja]], [[Vietnam]], dan [[Hainan]] ([[RRC]]), yang diklasifikasikan sebagai bagian dari [[rumpun bahasa Melayik]], yang termasuk dalam keluarga [[rumpun bahasa Austronesia|bahasa-bahasa Austronesia]].
+
+Rumpun bahasa Chamik yang terbanyak penuturnya ialah [[bahasa Aceh]], yang dipertuturkan oleh 3,5 juta orang; disusul dengan [[bahasa Jarai]] dan [[bahasa Cham]] yang masing-masing dipertuturkan oleh 230.000 dan 280.000 orang, yaitu baik di Kamboja maupun di Vietnam. [[Bahasa Tsat]] adalah yang paling sedikit penuturnya, yaitu hanya 3.000 orang.
+
+Banyaknya pinjaman yang terjadi sebagai akibat dari kontak jangka panjang, membuat bahasa-bahasa Chamik dan Bahnarik jadi memiliki banyak kesamaan dalam hal kosakata mereka (Thurgood 1999, Sidwell 2009).
+
+== Referensi ==
+* Sidwell, Paul (2009). ''[http://www.academia.edu/1540105/Classifying_the_Austroasiatic_languages_history_and_state_of_the_art Classifying the Austroasiatic languages: History and state of the art]''. LINCOM Gmbh.
+* Thurgood, Graham (1999). ''[http://www.jstor.org/stable/20006770 From Ancient Cham to Modern Dialects: Two Thousand Years of Language Contact and Change: With an Appendix of Chamic Reconstructions and Loanwords]''. Oceanic Linguistics Special Publications, No. 28, pp. i, iii-vii, ix-xiii, xv-xvii, 1-259, 261-275, 277-397, 399-407.
+
+[[Kategori:Rumpun bahasa Melayu-Sumbawa]]

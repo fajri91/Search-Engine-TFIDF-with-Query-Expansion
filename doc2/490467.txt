@@ -1,0 +1,14 @@
+Berkas:Masjid-Agung-Baitul-Makmur-Meulaboh.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+sumber http://www.acehbarat.com/2012/03/masjid-agung-baitul-makmur-meulaboh-termasuk-100-masjid-terindah/masjid-agung-baitul-makmur-meulaboh/
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Fairuse}}

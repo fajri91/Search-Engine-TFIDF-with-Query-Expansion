@@ -1,0 +1,17 @@
+Africa/Tunis
+{{Infobox IANA time zone}}
+'''Africa/Tunis''' adalah tanda pengenal [[zona waktu]] untuk berkas zona di [[basis data zona waktu IANA]]. Rincian datanya sebagai berikut:
+
+ {{tz/country code|Africa/Tunis}}
+ {{tz/coordinates|Africa/Tunis}}
+ Africa/Tunis
+ {{tz/comments|Africa/Tunis}}
+
+Titik referensinya terletak di [[Tunis|Tunis, Tunisia]].
+
+==Wilayah==
+Wilayah yang dicakup adalah [[Tunisia]].
+
+{{DEFAULTSORT:Africa Tunis}}
+[[Kategori:Basis Data Zona Waktu]]
+[[Kategori:Waktu di Tunisia]]

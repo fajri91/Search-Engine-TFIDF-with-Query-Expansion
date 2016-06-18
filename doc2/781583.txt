@@ -1,0 +1,59 @@
+Templat:Nasionalisme
+{{Navbox
+|name = Nasionalisme
+|title = [[Nasionalisme]]
+|listclass = hlist
+
+|group1 = [[Jenis nasionalisme|Jenis]]
+|list1 = 
+* [[Anti-nasionalisme|Anti-nasionalis]]
+* [[Nasionalisme banal|Banal]]
+* [[Nasionalisme bisnis|Bisnis]]
+* [[Nasionalisme sipil|Sipil]]
+* [[Komunisme nasional|Komunis]]
+* [[Patriotisme konstitusional]]
+* [[Nasionalisme perusahaan|Perusahaan]]
+* [[Nasionalisme budaya|Budaya]]
+* [[Politik diaspora|Diaspora]]
+* [[Nasionalisme ekonomi|Ekonomi]]
+* [[Nasionalisme etnis|Etnis]]
+* [[Nasionalisme ekspansionis|Ekspansionis]]
+* [[Nasionalisme integral|Integral]]
+* [[Irredentism|Irredentist]]
+* [[Nasionalisme sayap kiri|Sayap kiri]]
+* [[Pan-nasionalisme|Pan-nasionalis]]
+* [[Pascanasionalisme|Pascanasionalis]]
+* [[Anarkisme nasional|Anarkis nasional]]
+* [[Bolshevisme nasional|Bolshevis nasional]]
+* [[Konservatisme nasional|Konservatis nasional]]
+* [[Liberalisme nasional|Liberalis nasional]]
+* [[Mistisisme nasional|Mistisis nasional]]
+* [[Nazisme|Sosialisme nasional]]
+* [[Sindikalisme nasional|Sindikalis nasional]]
+* [[Neo-nasionalisme|Neo-nasionalis]]
+* [[Nasionalisme agama|Agama]]
+* [[Nasionalisme sumber daya|Sumber daya]]
+* [[Nasionalisme romantis|Romantis]]
+* [[Revanchisme|Revanchis]]
+* [[Nasionalisme teknologi|Teknologi]]
+* [[Nasionalisme wilayah|Wilayah]]
+* [[Transnasionalisme|Transnasionalis]]
+
+|group2 = Manifestasi
+|list2 = 
+* [[Lagu kebangsaan]]
+* [[Warna nasional|Warna]]
+* [[Bendera nasional|Bendera]]
+* [[Lambang bunga|Bunga]]
+* [[Epik nasional|Epik]]
+* [[Identitas nasional|Identitas]]
+* [[Bahasa nasional|Bahasa]]
+* [[Mitos nasional|Mitos]]
+* [[Nasionalisme musik|Musik]]
+* [[Olahraga nasional|Olahraga]]
+* [[Simbol nasional|Simbol]]
+* [[Harta nasional|Harta]]
+
+}}<noinclude>
+[[Category:Templat nasionalisme| ]]
+</noinclude>

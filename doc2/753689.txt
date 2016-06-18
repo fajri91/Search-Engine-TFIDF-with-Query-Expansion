@@ -1,0 +1,14 @@
+Berkas:Mashbanyakyghalal.jpeg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+http://2.bp.blogspot.com/-fYZ33Nga2IQ/Tw1zZYkseMI/AAAAAAAAAQE/bo-nsaT7NAM/s400/vol.19+sep.jpg
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{SampulAlbum}}

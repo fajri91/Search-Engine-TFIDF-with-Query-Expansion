@@ -1,0 +1,18 @@
+Templat:Jatipurno, Wonogiri
+{{Navigasi ID Desa |provinsi=Jawa Tengah|dati2=Kabupaten|nama dati2=Wonogiri
+|nama kecamatan=Jatipurno
+|k1=Balepanjang
+|d1=Girimulyo
+|d2=Giriyoso
+|k2=Jatipurno
+|d3=Jatipurwo
+|d4=Jeporo
+|d5=Kembang
+|d6=Kopen
+|d7=Mangunharjo
+|d8=Slogoretno
+|d9=Tawangrejo
+}}<noinclude>
+[[Kategori:Templat desa/kelurahan di Jawa Tengah|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Wonogiri|{{PAGENAME}}]]
+</noinclude>

@@ -1,0 +1,10 @@
+Templat:Wfutsal
+{{country data {{{1}}} 
+| flaglink/core
+| variant = {{{variant|{{{2|}}}}}}
+| size = {{{size|}}}
+| name = {{{name|}}} 
+| altlink = women's national futsal team 
+| altvar = futsal
+| mw = women's 
+}}<noinclude>{{documentation}}</noinclude>

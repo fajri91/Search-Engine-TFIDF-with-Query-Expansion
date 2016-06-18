@@ -1,0 +1,15 @@
+AEG helikopter
+'''AEG helikopter''' adalah sebuah proyek pesawat Jerman yang tidak biasa, dimaksudkan untuk menciptakan pos pengamatan portabel dalam bentuk helikopter yang ditambatkan. Ini dicapai angkat dengan menggunakan dua rotor kontra-rotating didukung oleh sebuah motor listrik yang terisi daya dari tanah. Perangkat bisa dilipat untuk transportasi di bagian belakang truk. Kabin pengamat dihentikan di bawah perakitan rotor, dan bisa ditiup jelas oleh bahan peledak dalam keadaan darurat. Pembangunan dimulai pada tahun 1933, tetapi itu tidak pernah dimasukkan ke dalam layanan oleh militer.
+
+Selain itu, sistem ini diuji untuk membawa hingga 800 m tinggi vlf-antena untuk komunikasi dengan kapal selam. 3 kabel feeder listrik yang dua kali lipat sebagai radiator untuk frekuensi 15-60 kHz.
+
+== Referensi ==
+{{Reflist}}
+{{commonscat|AEG aircraft}}
+*Nowarra, Heinz J.. ''Die Deutsche Luftrstung 1933-1945 - Vol.1 - AEG-Dornier''. Bernard & Graefe Verlag. 1993. Koblenz. ISBN 3-7637-5464-4 (Gesamtwerk), ISBN 3-7637-5465-2 (Band 1)
+
+*Helmut Maier. ''Rstungsforschung im Nationalsozialismus: Organisation, Mobilisierung und Entgrenzung der Technikwissenschaften''. Wallstein Verlag. 2002. Page 134.
+
+{{pesawat-stub}}
+[[Kategori:Helikopter militer]]
+[[Kategori:Pesawat terbang AEG]]

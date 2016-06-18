@@ -1,0 +1,35 @@
+Meioneta llanoensis
+{{Taxobox
+|name = Meioneta llanoensis
+|status = 
+|image = 
+|image_caption = 
+|domain = 
+|regnum = [[Animalia]]
+|phylum = [[Arthropoda]]
+|classis = [[Arachnida]]
+|ordo = [[Araneae]]
+|familia = [[Linyphiidae]]
+|genus =Meioneta
+|species = Meioneta llanoensis
+|binomial = Meioneta llanoensis
+|binomial_authority =Gertsch & Davis, 1936
+|range_map = 
+|range_map_caption = 
+|image2 = 
+|image2_caption = 
+|synonyms = 
+}}
+'''''Meioneta llanoensis''''' adalah spesies [[laba-laba]] yang tergolong [[familia]] [[Linyphiidae]]. Spesies ini juga merupakan bagian dari ordo [[Araneae]]. Nama ilmiah dari spesies ini pertama kali diterbitkan pada tahun 1936 oleh Gertsch & Davis.
+
+Laba-laba ini biasanya banyak ditemui di Amerika Serikat.
+
+== Referensi ==
+
+* Platnick, Norman I. (2010): [http://research.amnh.org/entomology/spiders/catalog/LINYPHIIDAE.html The world spider catalog], version 10.5. ''American Museum of Natural History''.
+
+{{DEFAULTSORT:Meioneta llanoensis}}
+
+[[Kategori:Linyphiidae]]
+
+{{labalaba-stub}}

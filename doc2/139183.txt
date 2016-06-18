@@ -1,0 +1,50 @@
+Silicon Graphics
+{{Infobox_Company |
+ company_name = SGI |
+ company_logo = [[Berkas:Sgi.jpg|75px]] |
+ company_type = Public ({{NASDAQ|SGIC}}) |
+ company_slogan = Innovation for Results |
+ foundation = [[California]] (1982) |
+ location_city = Sunnyvale, California |
+ location_country = AS |
+ key_people = [[Robert Ewald|Robert "Bo" Ewald]], [[Chief Executive Officer|CEO]]{{br}}[[Eng Lim Goh]], [[Chief Technical Officer|CTO]]{{br}}[[Kathy A. Lanterman]], [[Chief Financial Officer|CFO]]{{br}}[[Tim Butchart]], [[Wakil Presiden|VP]]{{br}}[[Barry J. Weinert]], VP |
+ industry = [[Peranti keras komputer]] dan [[peranti lunak]] |
+ products = [[Komputasi berkecepatan tinggi]], [[Visualisasi (grafik)|visualisasi]] dan [[Penyimpanan komputer|penyimpanan]] |
+ revenue = [[Dolar Amerika Serikat|US $]]519 [[1000000 (nomor)|juta]] (2006) |
+ operating_income = {{loss}} US $127 million (2006) | 
+ net_income = {{loss}} US $146 million (2006) |
+ num_employees = 1600 (2006) |
+ homepage = [http://www.sgi.com/ www.sgi.com]
+}}
+
+'''Silicon Graphics, Inc.''' ('''SGI''', kadang-kadang diseut sebagai '''Silicon Graphics Computer Systems''' ('''SGCS''')) merupakan sebuah perusahaan yang didirikan oleh [[Jim Clark]] dan Abbey Silverstone tahun 1982, awalnya sebagai pembuat terminal tampilan [[grafik 3D]]. Produk, strategi dan posisi pasar SGI sangat bermacam.
+
+SGI sebenarnya didirikan sebagai [[perusahaan California]] pada [[November 1981]], dan didirikan kembali sebagai [[perusahaan Delaware]] pada [[Januari 1990]]. Tanggal [[8 Mei]] [[2006]], SGI tercatat untuk penyelamatan dari kebangkrutan Bab 11 yang dinyatakan pada [[17 Oktober]] [[2005]]. SGI berpusat di [[Sunnyvale, California]].
+
+== Lihat pula ==
+* [[IRIX]]
+* [[Columbia (superkomputer)|Columbia]]
+* [[SCO dan SGI]]
+* [[Arsitektur MIPS|MIPS]]
+* [[OpenGL]]
+* [[XFS]]
+
+== Pranala luar ==
+Informasi Resmi SGI
+* [http://www.sgi.com/ Official website]
+
+Informasi SGI Tidak Resmi
+* [http://www.nekochan.net/ Nekochan - SGI enthusiast resource]
+* [http://nekochan.net/wiki/index.php/Main_Page Nekochan - SGI Wiki]
+* [http://www.schrotthal.de/sgi/ Schrotthal.de - images of SGI systems]
+* [http://sgistuff.g-lenerz.de/ SGIstuff - information on SGI systems and technologies]
+* [http://www.siliconbunny.com/ SiliconBunny - SGI technical information and resources]
+* [http://futuretech.blinkenlights.nl/iris-faq.html Silicon Graphics IRIS 2000/3000 FAQ]
+* [http://home.planet.nl/~mourits/koelkast/ The Silicon Graphics Refrigerator Project]
+* [http://www.sgiug.org/ SGI User Group]
+
+{{IT giants}}
+
+[[Kategori:SGI]]
+[[Kategori:Perusahan yang berpusat di Silicon Valley]]
+[[Kategori:Mountain View, California]]

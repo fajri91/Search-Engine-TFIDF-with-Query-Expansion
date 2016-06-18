@@ -1,0 +1,57 @@
+Penjaringan (Transjakarta)
+{{Kotakinfo halte Transjakarta
+| name              = Penjaringan
+| corridor          = 9
+| station           = 26
+| corridor2          = 12
+| station2           = 01
+| isfuture          = no
+| image             =
+| image_caption     = 
+| city              = Jakarta Utara
+| neighborhood      = Penjaringan, Penjaringan
+| zipcode           = 14440
+| address           = Jalan Pluit Raya
+| latitude          = -6.1263
+| longitude         = 106.7920
+| levelcount        =
+| level1name        = Struktur
+| level1description = {{Station level|transitmode=BRT|elevation=freeway|platformlayout=center|platformcount=1}}
+| entrances         = Melalui ramp halte di sebelah Pluit Junction
+| faregates         = Ya
+| ADA               = 
+| parking           = 
+| bicycle           = 
+| connection =
+| other             = 
+| ownedby           = PT. Bianglala Metropolitan<br>PT. Transportasi Jakarta<br>[[Perum DAMRI]]
+| othernames        =  
+| formernames       = 
+| status            = Beroperasi
+| opened            = 31 Desember 2010 (Koridor 9)<br>14 Februari 2013 (Koridor 12)
+| closed            = 
+| rebuilt           = 
+| renovated         = 
+| services          = 
+{{s-rail|title=Transjakarta}}
+{{s-line|system=Transjakarta|line=9|previous=Jembatan Tiga|next=Pluit}}
+{{s-line|system=Transjakarta|line=12|notemid=(satu arah)|previous=Bandengan Pekojan|next=Pluit Landmark Auto Plaza}}
+}}
+'''Penjaringan''' adalah sebuah halte [[Transjakarta]] yang terletak di Jalan Pluit Raya, [[Penjaringan, Penjaringan, Jakarta Utara|Penjaringan]], [[Penjaringan, Jakarta Utara|Penjaringan]], [[Jakarta Utara]]. Halte ini merupakan halte transfer di [[Transjakarta Koridor 9|Koridor 9]] dan [[Transjakarta Koridor 12|12]]. Halte ini menjadi halte terminus Koridor 12 karena halte [[Pluit (Transjakarta)|Pluit]] sudah tidak dilayani lagi oleh Koridor 12.
+
+==Tempat-tempat terdekat ==
+* [[Emporium Pluit Mall]]
+* Pluit Junction
+* RS Atma Jaya
+
+==Pranala luar==
+*[http://www.transjakarta.co.id/ Situs web Transjakarta]
+*[http://www.petabusway.com/ Peta Koridor & Rute Transjakarta]
+*[http://www.streetdirectory.co.id/indonesia/jakarta/travel/travel_id_191988/travel_site_142539/travel_no_/ Peta Halte Penjaringan]
+
+{{Transjakarta}}
+{{transjakarta-stub}}
+
+[[Kategori:Koridor 9 Transjakarta]]
+[[Kategori:Koridor 12 Transjakarta]]
+[[Kategori:Halte Transjakarta di Jakarta Utara]]

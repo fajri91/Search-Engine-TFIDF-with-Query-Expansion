@@ -1,0 +1,39 @@
+Taman Nasional Sdersen
+{{Kotak info kawasan lindung
+| name = Taman Nasional Sdersen
+| alt_name = 
+| iucn_category = II
+| photo = Kopparhatten.jpg
+| photo_width = 288
+| photo_caption = Pemandangan dari Kopparhatten
+| location = [[Daerah Skne]], [[Swedia]]
+| nearest_city = 
+| map = Europe
+| lat_d = 56 | lat_m = 01 | lat_NS = N
+| long_d = 13 | long_m = 13 | long_EW = E
+| coords = {{coord|56|01|N|13|13|E|region:SE_type:landmark|display=inline,title}}
+| area = {{convert|16.25|km2|sqmi|abbr=on}}<ref name="naturvrdsverket">{{cite web | title=Sdersen National Park | url=http://www.naturvardsverket.se/en/In-English/Menu/Enjoying-nature/National-parks-and-other-places-worth-visiting/National-Parks-in-Sweden/Soderasen-National-Park/ | publisher=[[Badan Perlindungan Lingkungan (Swedia)|Naturvrdsverket]] | accessdate=2009-02-26}}</ref>
+| established = 2001<ref name="naturvrdsverket" />
+| visitation_num = 
+| visitation_year = 
+| governing_body = [[Badan Perlindungan Lingkungan (Swedia)|Naturvrdsverket]]
+| website = 
+}}
+'''Sdersen''' adalah suatu punggung gunung (lebih tepatnya, [[horst]]) di provinsi Skne di selatan [[Swedia]] dengan titik tertinggi yakni 212 meter dan bersimpangan dengan beberapa retakan lembah.
+
+'''Taman Nasional Sdersen''' adalah suatu area tertentu dengan luas sekitar 16&nbsp;km, didirikan pada tahun 2001 dan terletak di kota [[Klippan, Swedia|Klippan]] dan [[Svalv]]. Jarak vertikal dari lantai lembah terdalam di Skralid ke puncak Kopparhatten hampir 90 meter. Pemandangan dari puncak, di atas lembah retakan dan lanskap Skne, sangat menakjubkan. Daerah ini didominasi oleh hutan berdaun lebar, selain itu pohon mati dibiarkan tidak terganggu untuk kepentingan kayu, yang tergantung pada [[jamur]], [[serangga]] dan organisme lainnya.
+
+[[Berkas:Kopparhatten panaramic.jpg|thumb|left|400px|Pemandangan panorama dari Kopparhatten]]
+
+{{clear}}
+== Referensi ==
+{{reflist}}
+
+== Pranala luar ==
+{{Commons|Sdersen}}
+* [http://www.naturvardsverket.se/en/In-English/Start/Enjoying-nature/National-parks-and-other-places-worth-visiting/National-Parks-in-Sweden/Soderasen-National-Park/ Taman Nasional Sdersen] dari [[Badan Perlindungan Lingkungan (Swedia)]]
+
+{{Taman Nasional di Swedia}}
+
+{{DEFAULTSORT:Soderasen}}
+[[Kategori:Taman nasional di Swedia]]

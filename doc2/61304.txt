@@ -1,0 +1,142 @@
+Templat:Negara bagian Oklahoma
+{{US state navigation box
+| template_name    = Negara bagian Oklahoma
+| name    = Oklahoma
+| capital = [[Oklahoma City, Oklahoma|Oklahoma City]]
+| color   = #8FBC8F
+| flag_image    = Flag of Oklahoma.svg
+| collapse_state = <includeonly>{{{1|autocollapse}}}</includeonly><noinclude>expanded</noinclude>
+
+| title1 = [[:Kategori:Oklahoma|Topik]]
+| body1 =  
+{{nowrap|[[:Kategori:Budaya Oklahoma|Budaya]] {{!}}}}
+{{nowrap|[[Oklahoma#Geografi|Geografi]] {{!}}}}
+{{nowrap|[[Oklahoma#Hukum dan pemerintahan|Pemerintah]] {{!}}}}
+{{nowrap|[[Sejarah Oklahoma|Sejarah]] {{!}}}}
+{{nowrap|[[:Kategori:Gambar Oklahoma|Gambar]]}} 
+
+| title2 = [[Wilayah di Amerika Serikat#Oklahoma|Wilayah]]
+| body2 =
+{{nowrap|[[Ark-La-Tex|Arklatex]] {{!}}}}
+{{nowrap|[[Central Oklahoma|Central]] {{!}}}}
+{{nowrap|[[Cherokee Outlet]] {{!}}}}
+{{nowrap|[[Flint Hills]] {{!}}}}
+{{nowrap|[[Green Country (Oklahoma)|Green Country]] {{!}}}}
+{{nowrap|[[Little Dixie (Oklahoma)|Little Dixie]] {{!}}}}
+{{nowrap|[[Northeastern Oklahoma|Northeastern]] {{!}}}}
+{{nowrap|[[Oklahoma Panhandle|Panhandle]] {{!}}}}
+{{nowrap|[[Ouachita Mountains]] {{!}}}}
+{{nowrap|[[The Ozarks]] {{!}}}}
+{{nowrap|[[Southeastern Oklahoma|Southeastern]] {{!}}}}
+{{nowrap|[[Southwestern Oklahoma|Southwestern]]}}
+
+| title4 = County
+| body4 = 
+{{nowrap|[[Adair County, Oklahoma|Adair]] {{!}}}}
+{{nowrap|[[Alfalfa County, Oklahoma|Alfalfa]] {{!}}}}
+{{nowrap|[[Atoka County, Oklahoma|Atoka]] {{!}}}}
+{{nowrap|[[Beaver County, Oklahoma|Beaver]] {{!}}}}
+{{nowrap|[[Beckham County, Oklahoma|Beckham]] {{!}}}}
+{{nowrap|[[Blaine County, Oklahoma|Blaine]] {{!}}}}
+{{nowrap|[[Bryan County, Oklahoma|Bryan]] {{!}}}}
+{{nowrap|[[Caddo County, Oklahoma|Caddo]] {{!}}}}
+{{nowrap|[[Canadian County, Oklahoma|Canadian]] {{!}}}}
+{{nowrap|[[Carter County, Oklahoma|Carter]] {{!}}}}
+{{nowrap|[[Cherokee County, Oklahoma|Cherokee]] {{!}}}}
+{{nowrap|[[Choctaw County, Oklahoma|Choctaw]] {{!}}}}
+{{nowrap|[[Cimarron County, Oklahoma|Cimarron]] {{!}}}}
+{{nowrap|[[Cleveland County, Oklahoma|Cleveland]] {{!}}}}
+{{nowrap|[[Coal County, Oklahoma|Coal]] {{!}}}}
+{{nowrap|[[Comanche County, Oklahoma|Comanche]] {{!}}}}
+{{nowrap|[[Cotton County, Oklahoma|Cotton]] {{!}}}}
+{{nowrap|[[Craig County, Oklahoma|Craig]] {{!}}}}
+{{nowrap|[[Creek County, Oklahoma|Creek]] {{!}}}}
+{{nowrap|[[Custer County, Oklahoma|Custer]] {{!}}}}
+{{nowrap|[[Delaware County, Oklahoma|Delaware]] {{!}}}}
+{{nowrap|[[Dewey County, Oklahoma|Dewey]] {{!}}}}
+{{nowrap|[[Ellis County, Oklahoma|Ellis]] {{!}}}}
+{{nowrap|[[Garfield County, Oklahoma|Garfield]] {{!}}}}
+{{nowrap|[[Garvin County, Oklahoma|Garvin]] {{!}}}}
+{{nowrap|[[Grady County, Oklahoma|Grady]] {{!}}}}
+{{nowrap|[[Grant County, Oklahoma|Grant]] {{!}}}}
+{{nowrap|[[Greer County, Oklahoma|Greer]] {{!}}}}
+{{nowrap|[[Harmon County, Oklahoma|Harmon]] {{!}}}}
+{{nowrap|[[Harper County, Oklahoma|Harper]] {{!}}}}
+{{nowrap|[[Haskell County, Oklahoma|Haskell]] {{!}}}}
+{{nowrap|[[Hughes County, Oklahoma|Hughes]] {{!}}}}
+{{nowrap|[[Jackson County, Oklahoma|Jackson]] {{!}}}}
+{{nowrap|[[Jefferson County, Oklahoma|Jefferson]] {{!}}}}
+{{nowrap|[[Johnston County, Oklahoma|Johnston]] {{!}}}}
+{{nowrap|[[Kay County, Oklahoma|Kay]] {{!}}}}
+{{nowrap|[[Kingfisher County, Oklahoma|Kingfisher]] {{!}}}}
+{{nowrap|[[Kiowa County, Oklahoma|Kiowa]] {{!}}}}
+{{nowrap|[[Latimer County, Oklahoma|Latimer]] {{!}}}}
+{{nowrap|[[Le Flore County, Oklahoma|Le Flore]] {{!}}}}
+{{nowrap|[[Lincoln County, Oklahoma|Lincoln]] {{!}}}}
+{{nowrap|[[Logan County, Oklahoma|Logan]] {{!}}}}
+{{nowrap|[[Love County, Oklahoma|Love]] {{!}}}}
+{{nowrap|[[Major County, Oklahoma|Major]] {{!}}}}
+{{nowrap|[[Marshall County, Oklahoma|Marshall]] {{!}}}}
+{{nowrap|[[Mayes County, Oklahoma|Mayes]] {{!}}}}
+{{nowrap|[[McClain County, Oklahoma|McClain]] {{!}}}}
+{{nowrap|[[McCurtain County, Oklahoma|McCurtain]] {{!}}}}
+{{nowrap|[[McIntosh County, Oklahoma|McIntosh]] {{!}}}}
+{{nowrap|[[Murray County, Oklahoma|Murray]] {{!}}}}
+{{nowrap|[[Muskogee County, Oklahoma|Muskogee]] {{!}}}}
+{{nowrap|[[Noble County, Oklahoma|Noble]] {{!}}}}
+{{nowrap|[[Nowata County, Oklahoma|Nowata]] {{!}}}}
+{{nowrap|[[Okfuskee County, Oklahoma|Okfuskee]] {{!}}}}
+{{nowrap|[[Oklahoma County, Oklahoma|Oklahoma]] {{!}}}}
+{{nowrap|[[Okmulgee County, Oklahoma|Okmulgee]] {{!}}}}
+{{nowrap|[[Osage County, Oklahoma|Osage]] {{!}}}}
+{{nowrap|[[Ottawa County, Oklahoma|Ottawa]] {{!}}}}
+{{nowrap|[[Pawnee County, Oklahoma|Pawnee]] {{!}}}}
+{{nowrap|[[Payne County, Oklahoma|Payne]] {{!}}}}
+{{nowrap|[[Pittsburg County, Oklahoma|Pittsburg]] {{!}}}}
+{{nowrap|[[Pontotoc County, Oklahoma|Pontotoc]] {{!}}}}
+{{nowrap|[[Pottawatomie County, Oklahoma|Pottawatomie]] {{!}}}}
+{{nowrap|[[Pushmataha County, Oklahoma|Pushmataha]] {{!}}}}
+{{nowrap|[[Roger Mills County, Oklahoma|Roger Mills]] {{!}}}}
+{{nowrap|[[Rogers County, Oklahoma|Rogers]] {{!}}}}
+{{nowrap|[[Seminole County, Oklahoma|Seminole]] {{!}}}}
+{{nowrap|[[Sequoyah County, Oklahoma|Sequoyah]] {{!}}}}
+{{nowrap|[[Stephens County, Oklahoma|Stephens]] {{!}}}}
+{{nowrap|[[Texas County, Oklahoma|Texas]] {{!}}}}
+{{nowrap|[[Tillman County, Oklahoma|Tillman]] {{!}}}}
+{{nowrap|[[Tulsa County, Oklahoma|Tulsa]] {{!}}}}
+{{nowrap|[[Wagoner County, Oklahoma|Wagoner]] {{!}}}}
+{{nowrap|[[Washington County, Oklahoma|Washington]] {{!}}}}
+{{nowrap|[[Washita County, Oklahoma|Washita]] {{!}}}}
+{{nowrap|[[Woods County, Oklahoma|Woods]] {{!}}}}
+{{nowrap|[[Woodward County, Oklahoma|Woodward]]}}
+
+| title3 = Kota besar
+| body3 = 
+{{nowrap|[[Broken Arrow, Oklahoma|Broken Arrow]] {{!}}}}
+{{nowrap|[[Edmond, Oklahoma|Edmond]] {{!}}}}
+{{nowrap|[[Enid, Oklahoma|Enid]] {{!}}}}
+{{nowrap|[[Lawton, Oklahoma|Lawton]] {{!}}}}
+{{nowrap|[[Midwest City, Oklahoma|Midwest City]] {{!}}}}
+{{nowrap|[[Moore, Oklahoma|Moore]] {{!}}}}
+{{nowrap|[[Norman, Oklahoma|Norman]] {{!}}}}
+{{nowrap|[[Oklahoma City, Oklahoma|Oklahoma City]] {{!}}}}
+{{nowrap|[[Stillwater, Oklahoma|Stillwater]] {{!}}}}
+{{nowrap|[[Tulsa, Oklahoma|Tulsa]]}}
+
+}}<noinclude>
+[[Kategori:Templat negara bagian Amerika Serikat|Oklahoma]]
+[[Kategori:Templat Oklahoma| ]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+</noinclude>

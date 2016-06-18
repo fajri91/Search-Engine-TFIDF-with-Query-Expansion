@@ -1,0 +1,65 @@
+MediaWiki:Deletereason-dropdown
+*Umum
+** Alasan lain
+** 1. [[WP:KPC#U1|U1]]: [[Wikipedia:Tulisan ngawur|Tulisan ngawur]]
+** 2. [[WP:KPC#U2|U2]]: Halaman uji coba
+** 3. [[WP:KPC#U3|U3]]: [[Wikipedia:Vandalisme|Vandalisme]]
+** 4. [[WP:KPC#U4|U4]]: Pembuatan ulang dari halaman yang sudah dihapus
+** 5. [[WP:KPC#U5|U5]]: Halaman yang dibuat oleh pengguna yang diblokir atau yang dilarang
+** 6. [[WP:KPC#U6|U6]]: Penghapusan teknis
+** 7. [[WP:KPC#U7|U7]]: Permintaan pembuat halaman atau pengosongan isi halaman
+** 8. [[WP:KPC#U8|U8]]: Halaman yang tergantung pada halaman yang tak ada atau yang dihapus
+** 10. [[WP:KPC#U10|U10]]: Serangan atau olokan terhadap subjek atau entitas lain
+** 11. [[WP:KPC#U11|U11]]: [[Wikipedia:Iklan|Iklan]], promosi murni/terang-terangan atau menyertakan [[Wikipedia:Spam|pranala luar]] dengan tujuan promosi
+** 12. [[WP:KPC#U12|U12]]: Pelanggaran hak cipta murni/terang-terangan
+<!-- Jangan memakai alasan ini untuk menghapus halaman! hanya WP:KPC (A7 atau A9) yang mengizinkan penghapusan artikel berkenaan dengan subjek tanpa diskusi
+** Belum memenuhi [[Wikipedia:Kelayakan|syarat kelayakan secara umum]] -->
+{{#switch:{{NAMESPACE}}
+|{{ns:0}}=
+*Artikel
+** 1. [[WP:KPC#A1|A1]]: Artikel tanpa konteks
+** 2. [[WP:KPC#A2|A2]]: Artikel berbahasa asing yang tidak diterjemahkan atau diterjemahkan secara buruk
+** 3. [[WP:KPC#A3|A3]]: Artikel tanpa isi
+** 5. [[WP:KPC#A5|A5]]: Artikel transwiki
+** 7. [[WP:KPC#A7|A7]]: Artikel yang tidak mengindikasikan kepentingan (tokoh, organisasi, situs, produk)
+** 9. [[WP:KPC#A9|A9]]: Artikel yang tidak mengindikasikan kepentingan (film dan rekaman musik)
+** 10. [[WP:KPC#A10|A10]]: Artikel yang tidak dikembangkan/dirapikan/diberi referensi dalam batas waktu yang telah ditentukan
+|{{ns:1}}=
+*Pembicaraan
+** 8. [[WP:KPC#U8|U8]]: Halaman yang dibicarakan tidak eksis/sudah dihapus
+** [[WP:BICARA|Halaman pembicaraan]] yang tidak ada hubungannya dengan halaman artikel
+|Kategori|Category=
+*Kategori
+** 1. [[WP:KPC#K1|K1]]: Kategori kosong/sudah dipindahkan/duplikat
+** 2. [[WP:KPC#K2|K2]]: Pergantian nama
+** 3. [[WP:KPC#U2|U2]]: Penyalahgunaan halaman kategori: bukan untuk menulis artikel
+|Pengguna|Pembicaraan Pengguna|User|User talk=
+*Halaman Pengguna
+** 1. [[WP:KPC#H1|H1]]: Permintaan pengguna
+** 2. [[WP:KPC#H2|H2]]: Pengguna yang tidak ada
+** 3. [[WP:KPC#H3|H3]]: Galeri tak bebas
+** [[Wikipedia:Halaman pengguna|Penyalahgunaan halaman pengguna]]: halaman pengguna hanya untuk profil Anda, bukan untuk menulis artikel
+** [[Wikipedia:Halaman pengguna|Penyalahgunaan halaman pembicaraan pengguna]]: bukan untuk menulis artikel/tidak relevan dengan Anda
+|Templat|Template=
+*Templat
+** 2. [[WP:KPC#T2|T2]]: Templat yang menyimpang kebijakan yang ada secara terang-terangan
+** 3. [[WP:KPC#T3|T3]]: Templat yang tidak digunakan atau redundan
+|Portal|Pembicaraan Portal|Portal talk=
+*Portal
+** 1. [[WP:KPC#P1|P1]]: Portal yang dapat memenuhi [[WP:KPC|kriteria penghapusan cepat]] artikel
+** 2. [[WP:KPC#P2|P2]]: Portal yang kurang terisi
+}}
+*Pengalihan
+** 1. [[WP:KPC#R1|R1]]: [[Istimewa:Pengalihan rusak|Pengalihan rusak]] atau pengalihan ke halaman yang telah dihapus
+** 2. [[WP:KPC#R2|R2]]: Pengalihan dari ruang nama artikel ke ruang nama lain
+** 3. [[WP:KPC#R3|R3]]: Pengalihan dengan kesalahan penamaan yang tidak disengaja
+* Teknis
+** Alasan teknis
+** Alasan teknis (dihapus untuk mengantisipasi pengalihan)
+** Alasan teknis (menggabungkan sejarah suntingan)
+** Alasan teknis (kesalahan pengetikan judul)
+*Lainnya
+** Berdasarkan konsensus di [[Wikipedia:Usulan penghapusan|Usulan penghapusan]]
+** Jatuh tempo penghapusan
+** Bukan artikel ensiklopedia/bukan cakupan Wikipedia
+** Permintaan pembuat halaman

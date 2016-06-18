@@ -1,0 +1,103 @@
+Echelon
+{{otheruses4|the Signals Intelligence capability|Echelon}}
+[[Berkas:Menwith-hill-radome.jpg|thumb|right|250px|thumbnail|Sebuah kubah radar di [[RAF Menwith Hill]], suatu situs dengan kemampuan downlink [[satelit]] dipercaya digunakan oleh ECHELON.]]
+[[Berkas:Menwith-hill-radomes.jpg|thumb|right|250px|[[RAF Menwith Hill]]]] 
+'''ECHELON''' adalah nama yang digunakan dalam media global dan budaya populer untuk menjelaskan suatu kegiatan pengumpulan dan jaringan analisis [[intelijen signal]] (SIGINT) yang dioperasikan atas nama lima negara penandatangan dalam [[Persetujuan Keamanan Inggris-AS]] ([[Australia]], [[Kanada]], [[Selandia Baru]], [[Inggris]], dan [[Amerika Serikat]], yang dikenal sebagai ''AUSCANZUKUS'').<ref>[[Google Book Search|Google books]] - [http://books.google.com/books?id=1x6Akzkxv5IC&printsec=frontcover&source=gbs_summary_r&cad=0 Echelon By John O'Neill, Jack O'Neill]</ref><ref>{{cite web| url = http://auscannzukus.org/intro.asp |title = AUSCANNZUKUS Information Portal | publisher = auscannzukus.org. |accessdate = 2008-03-27}}</ref> Echelon juga dideskripsikan sebagai satu-satunya sistem perangkat lunak yang mengontrol dan mengunduh dan menggunakan intersepsi dari saluran komunikasi satelit komersial.<ref name = Bamford>Bamford, James; Body of Secrets, Anchor, ISBN 0-385-49908-6; 2002</ref>
+
+Sistem ini telah dilaporkan di beberapa sumber publik.<ref>Salah satu yang paling awal adalah sebuah artikel di ''[[New Statesman]]'' yang berjudul ''Someone's Listening'' tahun 1988</ref> Kemampuan dan implikasi politiknya ditelaah oleh suatu komite [[Parlemen Eropa]] selama 2000 dan 2001 dengan laporan yang diterbitkan tahun 2001,<ref name = EP>{{cite web|url=http://www.europarl.europa.eu/sides/getDoc.do?pubRef=-//EP//NONSGML+REPORT+A5-2001-0264+0+DOC+PDF+V0//EN&language=EN|title=On the existence of a global system for the interception of private and commercial communications (ECHELON interception system), (2001/2098(INI))|last=Schmid |first=Gerhard |date=2001-07-11 | format = pdf - 194 pages  | publisher= European Parliament: Temporary Committee on the ECHELON Interception System | accessdate=2008-03-27}}</ref> dan oleh penulis [[James Bamford]] dalam bukunya di [[Badan Keamanan Nasional Amerika Serikat|Badan Keamanan Nasional]] Amerika Serikat.<ref name=Bamford/>
+
+Dalam laporan ini, Parlemen Eropa menyatakan bahwa istilah ECHELON digunakan dalam sejumlah konteks, tetapi bukti yang disajikan menunjukkan bahwa itu merupakan nama dari suatu sistem pengumpulan intelijen. Laporan menyimpulkan bahwa, berdasarkan informasi yang disajikan, ECHELON mampu melakukan intersepsi dan memeriksa isi dari panggilan telepon, fax, e-mail dan lalu lintas data lainnya secara global melalui intersepsi saluran komunikasi termasuk transmisi satelit, [[jaringan sentral telepon publik]] (yang menyalurkan sebagian besar lalu lintas internet) dan link microwave.<ref name = EP/>
+
+Bamford menjelaskan sistem tersebut sebagai perangkat lunak yang mengontrol pengumpulan dan distribusi lalu lintas telekomunikasi sipil yang disalurkan melalui satelit komunikasi, dan pengumpulan dilakukan oleh stasiun-stasiun bumi (di bagian ''downlink'').
+
+== Organisasi ==
+{{UKUSA}}
+Komunitas intelijen UKUSA yang diteliti oleh Parlemen Eropa termasuk badan intelijen signal dari tiap negara anggotanya - Badan keamanan Nasional Amerika Serikat, Markas Komunikasi Pemerintah Inggris, Badan Keamanan Komunikasi Kanada, Direktorat Signal Pertahanan Australia (DSD), dan Biro Keamanan Komunikasi Pemerintah Selandia Baru. Laporan Parlemen Eropa menyimpulkan bahwa kemungkinan ECHELON merupakan metoda mengurut lalu lintas signal yang diperoleh, daripada suatu perangkat analisis yang komprehensif.<ref name = EP/>
+
+== Kemampuan ==
+Kemampuan untuk mengintersepsi komunikasi tergantung kepada medium yang digunakan, bisa berupa radio, satelit, [[microwave]], selular atau [[Serat optik]].<ref name = EP/> During World War II and through the 1950s, [[high frequency]] ("short wave") radio was widely used for military and diplomatic communication,<ref>''[[The Codebreakers]]'', Ch. 10, 11</ref> dan dapat disadap dari jarak yang sangat jauh.<ref name = EP/> Kehadiran satelit komunikasi [[geostationer]] pada tahun 1960-an mengakibatkan kemungkinan baru untuk melakukan penyadapan komunikasi internasional. Laporan Parlemen Eropa tahun 2001 menyatakan: "Jika negara-negara UKUSA megoperasikan stasiun-stasiun pendengar di wilayah bumi yang relevan, pada dasarnya mereka dapat menyadap seluruh telepon, fax dan lalu lintas data yang dipancarkan melalui satelit itu."<ref name = EP/>
+
+Peranan satelite dalam komunikasi suara titik-ke-titik dan kamunikasi data telah sebagian besar digantikan oleh serat optik. Pada tahun 2006, 99 persen lalu lintas data dan suara jarak jauh di dunia disalurkan melalui serat optik.<ref>{{cite web | url=http://news.com.com/NSA+eavesdropping+How+it+might+work/2100-1028_3-6035910.html | title=NSA eavesdropping: How it might work | CNET News.com | accessdate=2006-08-27|archiveurl=http://archive.is/J6rz|archivedate=2012-07-15}}</ref> Proporsi komunikasi internasional melalui link satelit dikatakan sebagai menurun secara substansial beberapa tahun terakhir di Eropa Tengah yaitu antara 0.4 dan 5%.<ref name = EP/> Bahkan dibagian dunia yang kurang berkembang, satelit komunikasi umunya digunakan untuk aplikasi titik-ke-banyak titik, seperti halnya video.<ref>{{cite web | url=http://www.marketresearch.com/map/prod/1117944.html | title=Commercial Geostationary Satellite Transponder Markets for Latin America : Market Research Report | accessdate=2006-08-27}}</ref> Oleh sebab itu mayoritas komunikasi tidak dapat disadap oleh stasiun bumi, kecuali dengan cara menyadap di kabel dan intersepsi di signal jaringan microwave, yang tentunya menjadi sangat terbatas.<ref name = EP/>
+<!--
+One approach is to place intercept equipment at locations where fiber optic communications are switched. For the Internet, much of the switching occurs at a relatively small number of sites. There have been reports of one such intercept site, [[Room 641A]], in the United States. In the past, much Internet traffic was routed through the U.S. and the UK; this is less true today, with, for example, 95 percent of intra-German Internet communications being routed via the [[DE-CIX]] [[Internet exchange point]] in [[Frankfurt]] in 2000.<ref name = EP/> Thus for a worldwide surveillance network to be comprehensive, either illegal intercept sites would be required on the territory of friendly nations or cooperation of local authorities would be needed. The report to the European Parliament points out that interception of private communications by foreign intelligence services is not necessarily limited to the American or British foreign intelligence services.<ref name = EP/>
+
+Most reports on ECHELON focus on satellite interception; testimony before the European Parliament indicated that separate but similar UK-USA systems are in place to monitor communication through undersea cables, microwave transmissions and other lines.<ref> For example: {{cite web|url=http://cryptome.org/echelon-nh.htm|title=Nicky Hager Appearance before the European Parliament ECHELON Committee|year=2001|month=April|accessdate=2006-07-02}}</ref>
+
+==Kontroversi==
+Reportedly created to monitor the military and diplomatic communications of the [[Soviet Union]] and its [[Eastern Bloc]] allies during the [[Cold War]] in the early sixties, today ECHELON is believed to search also for hints of terrorist plots, drug dealers' plans, and political and diplomatic intelligence. 
+
+Some critics claim the system is also being used for large-scale commercial theft, international economic espionage and invasion of privacy. British journalist [[Duncan Campbell (investigative journalist)|Duncan Campbell]] and New Zealand journalist [[Nicky Hager]] asserted in the 1990s that the United States was exploiting ECHELON traffic for industrial espionage, rather than military and diplomatic purposes.<ref>{{cite web|url=http://cryptome.org/echelon-nh.htm|title=Nicky Hager Appearance before the European Parliament ECHELON Committee|year=2001|month=April|accessdate=2006-07-02}}</ref>  Examples alleged by the journalists include the gear-less wind turbine technology designed by the German firm [[Enercon]]<ref>Die Zeit: 40/1999 ''"Verrat unter Freunden"'' ("Treachery among friends", German), available at [http://www.zeit.de/1999/40/199940.nsa_2_.xml archiv.zeit.de]</ref><ref>Report A5-0264/2001 of the European Parliament (English), available at [http://www.europarl.eu.int/omk/sipade3?PROG=REPORT&L=EN&PUBREF=-//EP//TEXT+REPORT+A5-2001-0264+0+NOT+SGML+V0//EN European Parliament website]</ref> and the speech technology developed by the Belgian firm [[Lernout & Hauspie]].<ref>{{cite web|url=http://www.daanspeak.com/Hypocratie09.html|date=2002-03-30|title=Amerikanen maakten met Echelon L&H kapot|accessdate=2008-03-28|work=[http://www.daanspeak.com/]}} ([http://translate.google.com/translate?hl=en&sl=nl&u=http://www.daanspeak.com/Hypocratie09.html&sa=X&oi=translate&resnum=1&ct=result Google's translation of the article into English]).</ref> An article in the US newspaper ''Baltimore Sun'' reported in 1995 that European aerospace company [[Airbus]] lost a $6 billion contract with Saudi Arabia in 1994 after the US [[National Security Agency]] reported that Airbus officials had been bribing Saudi officials to secure the contract.<ref>{{cite web | url=http://news.bbc.co.uk/1/hi/world/europe/820758.stm | title=BBC News | EUROPE | Echelon: Big brother without a cause | accessdate=2006-08-27}}</ref><ref>{{cite web | url=http://www.cyber-rights.org/interception/stoa/ic2kreport.htm#Report | title=Interception capabilities 2000 | accessdate=2006-08-27}}</ref>
+
+In 2001, the Temporary Committee on the ECHELON Interception System recommended to the European Parliament that citizens of member states routinely use [[cryptography]] in their communications to protect their privacy.<ref name = EP/>
+
+Bamford provides an alternate view, highlighting that legislation prohibits the use of intercepted communications for commercial purposes, although does elaborate on how intercepted communications are used as part of an all-source intelligence process.
+
+==Perangkat keras==
+According to its website, the USA's National Security Agency is "a high technology organization... on the frontiers of communications and data processing". In 1999 the [[Australian Senate]] Joint Standing Committee on Treaties was told by Professor [[Desmond Ball]] that the [[Pine Gap]] facility was used as a ground station for a satellite based [[interception network]]. The satellites are claimed to be large radio dishes between 20 and 100 meters across, parked in geostationary orbits. The original purpose of the network was to monitor the [[telemetry]] from 1970s [[:Category:Cold War weapons of the Soviet Union|Soviet weapons]], air defense radar, communications satellites and ground based [[Microwave transmission|microwave communications]].<ref>Commonwealth of Australia, Official Committee Hansard (9 August 1999). [http://www.aph.gov.au/hansard/joint/commttee/j2408.pdf JOINT STANDING COMMITTEE ON TREATIES, Reference: Pine Gap].</ref>
+
+==Nama==
+The European Parliament's Temporary Committee on the ECHELON Interception System stated: "It seems likely, in view of the evidence and the consistent pattern of statements from a very wide range of individuals and organisations, including American sources, that its name is 
+in fact ECHELON, although this is a relatively minor detail."<ref name = EP/> The U.S. intelligence community uses many code names (''see'', for example, [[CIA cryptonym]]).
+
+[[Margaret Newsham]] claims that she worked on the configuration and installation of some of the software that makes up the ECHELON system while employed at [[Lockheed Martin]], for whom she worked from 1974 to 1984 in Sunnyvale, California, USA and in [[Menwith Hill]], [[England]], UK.<ref>
+{{cite news
+|title= ECHELON Was My Baby
+|last=Elkjr
+|first=Bo
+|coauthors=Kenan Seeberg
+|publisher=Ekstra Bladet 
+|url=http://cryptome.org/echelon-baby.htm
+|date=1999-11-17
+|accessdate=2006-05-17
+}}''Unfortunately, I cant tell you all my duties. I am still bound by professional secrecy, and I would hate to go to prison or get involved in any trouble, if you know what I mean. In general, I can tell you that I was responsible for compiling the various systems and programs, configuring the whole thing and making it operational on main frames"''; ''"Margaret Newsham worked for the NSA through her employment at Ford and Lockheed from 1974 to 1984. In 1977 and 1978, Newsham was stationed at the largest listening post in the world at Menwith Hill, England...'''Ekstra Bladet''' has Margaret Newshams stationing orders from the US Department of Defense. She possessed the high security classification TOP SECRET CRYPTO."''</ref> At that time, according to Newsham, the code name ECHELON was NSA's term for the computer network itself. Lockheed called it ''P415''. The software programs were called ''SILKWORTH'' and ''SIRE''. A satellite named ''[[Vortex (satellite)|VORTEX]]'' would intercept communications. An image available on the internet of a fragment apparently torn from a job description shows Echelon listed along with several other code names.<ref>{{cite web | url=http://www.ladlass.com/intel/archives/images/menwith.jpg | title=Names of ECHELON associated projects  image without any context }} in {{cite web | url=http://www.ladlass.com/intel/archives/006457.html | title=Interception Capabilities 2000 - PART 1 | date=2003-12-18 | accessdate=2006-08-27}}</ref>
+-->
+== Stasiun-stasiun bumi ==
+Laporan Parlemen Eropa tahun 2001<ref name = EP/> mendaftar beberapa stasiun bumi yang kemungkinan dimiliki atau berpartisipasi dalam jaringan ECHELON. Stasiun-stasiun ini termasuk:
+
+=== Kemungkinan stasiun-stasiun intersepsi ===
+Stasiun-stasiun dibawah ini terdapat dalam daftar laporan Parlemen Eropa (p.54 ff) sebagai stasiun yang kemungkinan berperan dalam intersepsi transmisi dari satelit telekomunikasi:
+
+* Hong Kong (since closed)
+* [[Geraldton, Western Australia#Australian Defence Satellite Communications Station|Australian Defence Satellite Communications Station]] ([[Geraldton, Western Australia]])
+* [[Menwith Hill]] ([[Yorkshire]], UK) [http://maps.google.com/maps?f=q&hl=it&geocode=&q=+54%C2%B0+0'31.29%22N+++1%C2%B041'22.17%22W&ie=UTF8&ll=54.009118,-1.689384&spn=0.003228,0.013561&t=k&z=17&om=1 Map]
+* [[Misawa Air Base]] ([[Japan]])
+* [[GCHQ Bude]], formerly known as GCHQ CSO Morwenstow, ([[Cornwall]], UK) [http://maps.google.com/maps?f=q&source=s_q&hl=nl&geocode=&sspn=0.009846,0.019312&ie=UTF8&ll=50.885979,-4.553018&spn=0.008948,0.019312&t=h&z=16 Map]
+* [[Pine Gap]] ([[Northern Territory]], Australia - close to [[Alice Springs]]) [http://maps.google.com/maps?f=q&hl=en&geocode=&q=23.799S,+133.737E&ie=UTF8&ll=-23.798853,133.737066&spn=0.005026,0.013561&t=h&z=17 Map]
+* [[Sugar Grove, West Virginia|Sugar Grove]] ([[West Virginia]], US) [http://maps.google.com/maps?f=q&source=s_q&hl=nl&geocode=&sll=40.442767,-77.338257&sspn=2.763215,4.943848&ie=UTF8&ll=38.513906,-79.27964&spn=0.011098,0.019312&t=h&z=16 Map]
+* [[Yakima Training Center]] ([[Washington]], US) [http://maps.google.com/maps?f=q&hl=en&geocode=&q=46.68209++-120.356544&sll=46.681405,-120.356056&sspn=0.005186,0.004399&g=46.68209++-120.356544&ie=UTF8&t=k&ll=46.681795,-120.357381&spn=0.005185,0.006437&z=18&iwloc=addr Map]
+* [[GCSB Waihopai]] (New Zealand)
+
+=== Stasiun terkait yang potensial ===
+Stasiun berikut tercantum dalam laporan Parlemen Eropa (p.57 ff) sebagai peranannya belum jelas:
+* [[Ayios Nikolaos Station|Ayios Nikolaos]] ([[Cyprus]] - UK)
+* [[Bad Aibling Station]] ([[Bad Aibling]], [[Germany]] - US) - moved to [[Griesheim]] in 2004<ref>According to a statement by Terence Dudlee, the speaker of the US Navy in London in an interview to the German HR{{br}}[http://www.hr-online.de/website/rubriken/nachrichten/index.jsp?rubrik=5710&key=standard_document_2406678 US-Armee lauscht von Darmstadt aus] (German), ''[[Hessischer Rundfunk|hr online]]'', 1 Oct 2004</ref>
+* [[Buckley Air Force Base]] ([[Aurora]], [[Colorado]], US)
+* [[Fort Gordon]] ([[Georgia (U.S. state)|Georgia]], US)
+* [[Guam]] ([[Pacific Ocean]], US)
+* [[Kunia]] ([[Hawaii]], US)
+* [[Leitrim, Canada|Leitrim]] (south of [[Ottawa]], Ontario, Canada)
+* [[Lackland Air Force Base]], [[Texas Cryptology Center|Medina Annex]] ([[San Antonio]], [[Texas]], US)
+
+== Lihat pula ==
+{{commonscat|Echelon}}
+* [[ANCHORY]] [[SIGINT]] database penyadapan
+* [[Frenchelon]]
+* [[Onyx (interception system)]], setara "Echelon" di Swiss
+
+== Bacaan lanjutan ==
+* Bamford, James; ''[[The Puzzle Palace]]'', Penguin, ISBN 0-14-006748-5; 1983
+* [[Nicky Hager|Hager, Nicky]]; ''Secret Power, New Zealand's Role in the International Spy Network''; Craig Potton Publishing, Nelson, NZ; ISBN 0-908802-35-8; 1996
+* Bamford, James; ''Body of Secrets: Anatomy of the Ultra-Secret National Security Agency '', Anchor, ISBN 0385499086; 2002
+* Keefe, Patrick Radden ''Chatter: dispatches from the secret world of global eavesdropping''; Random House Publishing, New York, NY; ISBN 1-4000-6034-6; 2005
+* Bamford, James; ''The Shadow Factory: The Ultra-Secret NSA from 9/11 to the Eavesdropping on America'', Doubleday, ISBN 0385521324; 2008
+
+== Catatan ==
+<!-- See http://en.wikipedia.org/wiki/Wikipedia:Footnotes for help on adding references using<ref> tags -->
+{{reflist|2}}
+
+{{DEFAULTSORT:Echelon}}
+
+[[Kategori:Spionase]]
+[[Kategori:Intelijen]]
+[[Kategori:Satelit]]
+[[Kategori:Keamanan komunikasi]]

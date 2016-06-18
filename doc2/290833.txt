@@ -1,0 +1,16 @@
+Wikipedia:Validasi artikel/Permohonan hak editor/preload
+{{<includeonly>gnt:Wikipedia:</includeonly>Validasi artikel/Permohonan hak editor/baru
+|nama pengguna = {{<includeonly>gnt:</includeonly>REVISIONUSER}}
+|lama bergabung = 
+<!-- minimal harus sudah bergabung 60 hari pada permohonan diajukan. -->
+|jumlah suntingan = 
+<!-- minimal 150 suntingan selama 3 bulan terakhir (bukan total). -->
+|jumlah ruang nama = 
+<!-- minimal 5 ruang nama yang pernah disunting selama 3 bulan terakhir. -->
+|surel = 
+<!-- Jawab ya atau tidak : Apakah sudah diset valid dan sudah dikonfirmasi, serta memperbolehkan pengguna lain mengirimkan surel ? -->
+|halaman pengguna = 
+<!-- isikan jumlah bita halaman pengguna Anda, harus memiliki halaman pengguna minimal sebesar 100 bita -->
+|riwayat pemblokiran = 
+<!-- tidak pernah diblokir selama 6 bulan terakhir atas alasan vandalisme. -->
+}}

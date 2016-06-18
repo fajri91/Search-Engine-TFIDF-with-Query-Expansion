@@ -1,0 +1,48 @@
+Oude IJsselstreek
+{{Infobox settlement
+|official_name = Oude IJsselstreek
+| image_flag              = 
+| flag_size               = 120x100px
+| flag_alt                = Flag of Oude IJsselstreek
+| image_seal              = 
+| seal_size               = 
+| seal_alt                = 
+| image_shield            =Coats_of_arms_of_Oude_IJsselstreek.svg
+| shield_size             = 120x100px
+| shield_alt              = Coat of arms of Oude IJsselstreek
+|image_map = LocatieOude IJsselstreek.png
+|mapsize = 250px
+|latd=51|latm=54|lats=|latNS=N
+|longd=6|longm=25|longs=|longEW=E
+|coordinates_display = inline,title
+|coordinates_region = NL
+|subdivision_type = Country
+|subdivision_name = [[Netherlands]]
+|subdivision_type1 = Province
+|subdivision_name1 = [[Gelderland]]
+|area_footnotes = (2006)
+|area_total_km2 = 137.87
+|area_land_km2 = 136.47
+|area_water_km2 = 1.40
+|population_as_of = 1 January, 2010
+|population_note = Source: [[Statistics Netherlands|CBS]], [http://statline.cbs.nl/ Statline].
+|settlement_type = Municipality
+|population_total = 39,896
+|population_density_km2 = 294
+|timezone = [[Central European Time|CET]]
+|utc_offset = +1
+|timezone_DST = [[Central European Summer Time|CEST]]
+|utc_offset_DST = +2
+}}
+
+'''Oude IJsselstreek''', adalah sebuah ''[[gemeente]]'' [[Belanda]] di provinsi [[Gelderland]]. Oude IJsselstreek memiliki luas 138,09 [[kilometer persegi|km]] dan pada [[1 Juni]] [[2005]] penduduk sebesar 40.333 jiwa.
+
+== Pranala luar ==
+* [http://www.oude-ijsselstreek.nl/ www.oude-ijsselstreek.nl] Situs web resmi.
+
+{{GemeentenGelderland}}
+
+[[Kategori:Kota di Belanda]]
+
+
+{{belanda-geo-stub}}

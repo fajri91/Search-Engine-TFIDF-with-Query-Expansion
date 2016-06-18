@@ -1,0 +1,44 @@
+Grip
+{{Infobox software
+| name = Grip
+| logo                   = 
+| screenshot             = [[Berkas:Grip01.png|200px]]
+| caption                = Tampilan Grip 
+| developer              = Pengembang Grip
+| latest_release_version = 3.3.1
+| latest_release_date    = 25 June 2005
+| operating_system       = [[Sistem operasi bertipe Unix|Unix-like]]
+| programming language   = [[Bahasa C]]
+| genre                  = [[CD ripper]]
+| license                = [[GNU General Public License]]
+| website                = http://nostatic.org/grip/
+| status                 = Unmaintained
+}}
+'''Grip''' adalah [[aplikasi]] untuk memutar [[Audio]] [[CD]] sekaligus melakukan ripping, yang dibuat oleh Mike Oliphant<ref name="in"/>. [[Program]] ini akan sangat membantu apabila pengguna ingin menyalin [[lagu|lagu-lagu]] yang terdapat pada Audio CD ke [[hard disk]] sesuai dengan format yang diinginkan.<ref name="in">www.infolinux.web.id (2005), [http://kambing.ui.ac.id/bebas/v22/InfoLinux2005/PDF-LINUX-1205/34-41_utama_12.pdf Mengisi Liburan dengan Linux], halaman 39. Diakses pada 30 Mei 2010.</ref>
+
+Kelebihan dari aplikasi ini adalah [[antarmuka pengguna]] dan fleksibilitasnya<ref name="in"/>. Antarmuka penggunanya sederhana dan sangat mudah untuk digunakan. Sementara, aplikasi ini juga sangat fleksibel. Hampir semua dapat dikonfigurasi oleh pengguna, termasuk encoder eksternal<ref name="in"/>. Pengguna dapat pula meminta grip (dengan bantuan encoder eksternal) untuk melakukan ripping ke berbagai format populer seperti [[MP3]] dan [[Ogg]]<ref name="in"/>.
+
+Kekurangan aplikasi ini adalah waktu tunggu yang mungkin cukup lama disebabkan karena pustaka yang digunakan.<ref name="in"/>
+
+
+== Fitur - fitur ==
+Beberapa fitur Grip <ref>[http://nostatic.org/grip/ Fitur Grip]. Diakses pada 02 Juni 2010.</ref>:
+* Penuh dengan fitur [[CD]] player dengan [[layar]] kecil di tapak "mode kental".
+* [[HTTP]] proxy dukungan bagi mereka di belakang [[firewall]].
+* Loop, shuffle, dan playlist mode.
+* Ripping trek tunggal, beberapa, atau sebagian.
+* Encoding dari ''ripping'' berkas .[[WAV|wav]] ke dalam [[berkas]] [[MP3]] (. Dan juga dukungan untuk [[OGG]] dan [[FLAC]]).
+* Simultan rip dan encode.
+* Dukungan untuk mengkodekan beberapa proses pada [[mesin]] [[SMP]].
+* ID3v1/v2 Menambahkan [[tag]] ke berkas MP3.
+* Bekerja sama dengan DigitalDJ, saya jukebox [[SQL]] berbasis MP3.
+
+== Pranala luar ==
+* [http://www.nostatic.org/grip Unduh Grip]
+
+== Referensi ==
+{{reflist}}
+
+{{software-stub}}
+
+[[Kategori:Pemutar audio digital]]

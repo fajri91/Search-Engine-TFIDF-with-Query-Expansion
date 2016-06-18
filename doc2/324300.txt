@@ -1,0 +1,97 @@
+Ilyushin
+{{Infobox_Company
+|company_name = Ilyushin
+|company_logo = [[Berkas:Ilyushinlogo.JPG|Ilyushinlogo.JPG]]
+|company_type = Division
+|company_slogan =
+|foundation = January 13, 1933
+|location = Moscow, Russia
+|key_people = [[Sergey Ilyushin|Sergey Vladimirovich Ilyushin]], founder
+|num_employees =
+|industry = [[Aerospace]] dan [[Arms industry|defense]]
+|products = Military, transport, dan civil aircraft
+|parent = [[United Aircraft Corporation]]
+|revenue =
+|homepage = [http://www.ilyushin.org/ Official website]
+}}
+
+'''Ilyushin''' (ILyushin)({{lang-ru|}}), atau '''Ilyushin Design Bureau''' adalah sebuah biro desain dan produsen pesawat [[Rusia]], didirikan oleh  [[Sergey Ilyushin|Sergey Vladimirovich Ilyushin.]] Ilyushin didirikan di bawah [[Uni Soviet]]. Pelaksanaannya dimulai pada tanggal 13 Januari 1933, atas perintah PI Baranov, People's Commissar of the Heavy Industry and the Head of the Main Department of Aviation Industry.. Dalam Soviet / Rusia tata-nama, pesawat dari Ilyushin diawali'''Il'''.
+
+'''Aviation Industries Ilyushin''' adalah sebuah anak perusahaan yang didirikan pada tahun 1992 untuk bertindak sebagai pemasaran Ilyushin dan layanan pelanggan.
+
+Ilyushin telah mengembangkan pesawat yang sangat beragam selama bertahun-tahun. Pemerintah Rusia berencana untuk menggabungkan Ilyushin dengan [[Mikoyan]], [[Irkut]], [[Sukhoi]], [[Tupolev]], dan [[Yakovlev]] sebagai sebuah perusahaan baru bernama [[United Aircraft Corporation]].
+
+== Pesawat terkenal ==
+
+Pesawat terkenal Ilyushin termasuk:
+
+* [[Ilyushin I-21|I-21]]
+* [[Ilyushin Il-1|Il-1]]
+* [[Ilyushin Il-2|Il-2 ''Shturmovik'']], NATO codename "Bark"
+* [[Ilyushin DB-3|DB-3]]
+* [[Ilyushin Il-4|Il-4 "Bob"]], 
+* [[Ilyushin Il-6|Il-6]]
+* [[Ilyushin Il-8|Il-8]]
+* [[Ilyushin Il-10|Il-10 ''Shturmovik'']], NATO codename "Beast"
+* [[Ilyushin Il-12|Il-12 "Coach"]]
+* [[Ilyushin Il-14|Il-14 "Crate"]]
+* [[Ilyushin Il-16|Il-16]]
+* [[Ilyushin Il-18 (1947)|Il-18 "Clam" (1947)]]
+* [[Ilyushin Il-18|Il-18 "Coot"]]
+* [[Ilyushin Il-18|Il-20 "Coot-A"]]
+* [[Ilyushin Il-20 (1948)|Il-20 (1948)]]
+* [[Ilyushin Il-22 (1947)|Il-22 (1947)]]
+* [[Ilyushin Il-22|Il-22]]
+* [[Ilyushin Il-28|Il-28 "Beagle" and "Mascot"]]
+* [[Ilyushin Il-30|Il-30]] tactical bomber.
+* [[Ilyushin Il-32|Il-32]] Sailplane
+* [[Ilyushin Il-36|Il-36]] Prototype
+* [[Ilyushin Il-38|Il-38 "May"]] maritime patrol and anti-submarine warfare aircraft.
+* [[Ilyushin Il-40|Il-40 "Brawny"]] ground-attack aircraft.
+* [[Ilyushin Il-46|Il-46]] bomber.
+* [[Ilyushin Il-54|Il-54 "Blowlamp"]] transonic bomber.
+* [[Ilyushin Il-62|Il-62 "Classic"]] long range jet airliner.
+* [[Ilyushin Il-76|Il-76 "Candid"]], [[strategic airlift]]er.
+** [[Beriev A-50|A-50 Shmel]] (from Beriev), an [[Airborne Early Warning and Control|AWACS]] variant of the Il-76. NATO codename Mainstay.
+** [[Beriev A-60|A-60]]
+* [[Ilyushin Il-78|Il-78 "Midas"]], an [[aerial refuelling]] variant of the Il-76.
+* [[Ilyushin Il-80|Il-80 "Maxdome"]] airborne command post.
+* [[Ilyushin Il-86|Il-86 "Camber"]] medium-range wide-body jet airliner.
+* [[Ilyushin Il-96|Il-96]] long-haul widebody airliner.
+* [[Ilyushin Il-102|Il-102]] experimental jet powered ground-attack aircraft.
+* [[Ilyushin Il-103|Il-103]] light training aircraft.
+* [[Ilyushin Il-106|Il-106]] heavy military transport.
+* [[Ilyushin IL-108|Il-108]] (project abandoned)
+* [[Ilyushin Il-112|Il-112]] light military transport aircraft.
+* [[Ilyushin Il-114|Il-114]] regional aircraft.
+* [[UAC/HAL Il-214]] medium-lift military transport aircraft.
+* [[Irkut MS-21]] short- to and mid-range jet airliner.
+<!-- need civilian aircraft names -->
+
+== Album ==
+{| align="center"
+|[[Berkas:Il2 sturmovik.jpg|thumb|200px|[[Ilyushin Il-2|Il-2 ''Shturmovik'']]]]
+|[[Berkas:IL-18-700px.jpg|thumb|200px|[[Ilyushin Il-18|Il-18 'Coot']] on display]]
+|[[Berkas:Il-38 May.jpg|thumb|200px|[[Ilyushin Il-38|Il-38 'May']]]]
+|-
+|[[Berkas:Sudan Nyala Airport Ilyushin-76.jpg|thumb|200px|[[Ilyushin Il-76|Il-76 'Candid']]]]
+|[[Berkas:IL-78 Lajes.jpg|thumb|200px|[[Ilyushin Il-78|Il-78 'Midas']]]]
+|[[Berkas:Aeroflot Il-96.jpg|thumb|200px|[[Ilyushin Il-96|Il-96]]]]
+|}
+
+== Referensi ==
+{{Reflist}}
+
+== Pranala luar ==
+{{commonscat|Ilyushin}}
+* [http://www.ilyushin.org/ Official site].
+* [http://www.ifc-leasing.com/en/ Ilyushin Finance Co.].
+
+{{Ilyushin aircraft}}
+
+[[Kategori:Produsen pesawat]]
+[[Kategori:Perusahaan pesawat]]
+
+
+{{pesawat-stub}}
+{{perusahaan-stub}}

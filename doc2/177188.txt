@@ -1,0 +1,25 @@
+Templat:County Conecuh, Alabama
+{{US county navigation box
+| template_name = County Conecuh, Alabama
+| county = County Conecuh 
+| state = {{cd|Alabama}}
+| color = #cddeff
+| map_image = Map of Alabama highlighting Conecuh County.svg
+| map_size = 100x100
+
+| seat = Evergreen
+
+| title1 = Kota besar
+| body1  =
+{{nowrap|[[Evergreen, Alabama|Evergreen]] }}
+
+| title2 = Kota kecil
+| body2 =
+{{nowrap|[[Castleberry, Alabama|Castleberry]] {{!}}}}
+{{nowrap|[[McKenzie, Alabama|McKenzie]] {{!}}}}
+{{nowrap|[[Repton, Alabama|Repton]] }}
+
+| catatan = y
+}}<noinclude>
+[[Kategori:Templat county Alabama|{{PAGENAME}}]]
+</noinclude>

@@ -1,0 +1,25 @@
+Burkholderia gladioli
+{{Taxobox
+| regnum = [[Bacteria]]
+| phylum = [[Proteobacteria]]
+| classis = [[Beta Proteobacteria]]
+| ordo = [[Burkholderiales]]
+| familia = [[Burkholderiaceae]]
+| genus = [[Burkholderia]]
+| species = '''''B. gladioli'''''
+| binomial = ''Burkholderia gladioli''
+| binomial_authority = (Zopf 1885) {{br}} Yabuuchi ''et al.'' 1993
+| type_strain = ATCC 10248 {{br}} CCUG 1782 {{br}} CFBP 2427 {{br}} CIP 105410 {{br}} DSM 4285 {{br}} HAMBI 2157 {{br}} ICMP 3950 {{br}} JCM 9311 {{br}} LMG 2216 {{br}} NBRC 13700 {{br}} NCCB 38018 {{br}} NCPPB 1891 {{br}} NCTC 12378 {{br}} NRRL B-793
+| sinonim = ''Pseudomonas gladioli'' <small>Severini 1913</small> {{br}} ''Burkholderia cocovenenans'' <small>(van Damme ''et al''. 1960) Gillis ''et al''.</small> {{br}} ''Pseudomonas cocovenenans'' <small>van Damme ''et al''. 1960</small> {{br}} ''Pseudomonas antimicrobica'' <small>Attafuah and Bradbury 1990</small> {{br}} ''Pseudomonas marginata'' <small>(McCulloch) Stapp</small> {{br}} ''Pseudomonas farinofermentans'' <small>Naixin</small> {{br}} ''Pseudomonas alliicola'' <small>(Burkholder 1942) Starr and Burkholder 1942</small>
+}}
+
+'''''Burkholderia gladioli''''' (atau lebih dikenal dengan nama lama '''''Pseudomonas cocovenenans''''') adalah [[bakteri]] [[tanah]] yang bertanggung jawab atas keracunan pada bahan pangan, khususnya di [[Asia Timur]] dan [[Asia Tenggara]]. Bakteri ini menyukai medium yang banyak mengandung [[asam lemak]] dan dikenal berbahaya karena dapat mengontaminasi [[tempe]] [[Tempe#Tempe_bukan_kedelai|bongkrek]] dan menghasilkan [[asam bongkrek]] dan [[toksoflavin]]. 
+
+Berdasarkan penelitian [[filogenetik]] diketahui bahwa ''P. cocovenenans'' lebih pantas masuk dalam [[genus]] ''Burkholderia''.<ref>Zhao ''et al.'' Phylogenetic evidence for the transfer of Pseudomonas cocovenenans (van Damme et al. 1960) to the genus Burkholderia as Burkholderia cocovenenans (van Damme et al. 1960) comb. nov. ''Int J Syst Bacteriol.'' 1995 Jul; 45(3):600-3. PMID 8590691</ref>
+
+== Rujukan ==
+{{reflist}}
+
+{{bakteri-stub}}
+
+[[Kategori:Bakteri]]

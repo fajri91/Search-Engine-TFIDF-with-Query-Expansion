@@ -1,0 +1,78 @@
+Templat:Moroni weatherbox
+{{Weather box
+|location = Moroni
+|metric first = yes
+|single line = yes
+|Jan record high C = 34
+|Feb record high C = 34
+|Mar record high C = 35
+|Apr record high C = 34
+|May record high C = 33
+|Jun record high C = 32
+|Jul record high C = 31
+|Aug record high C = 31
+|Sep record high C = 31
+|Oct record high C = 33
+|Nov record high C = 34
+|Dec record high C = 36
+|year record high C = 36
+|Jan high C = 30
+|Feb high C = 30
+|Mar high C = 31
+|Apr high C = 30
+|May high C = 29
+|Jun high C = 28
+|Jul high C = 28
+|Aug high C = 27
+|Sep high C = 28
+|Oct high C = 29
+|Nov high C = 31
+|Dec high C = 31
+|year high C = 29
+|Jan low C = 23
+|Feb low C = 23
+|Mar low C = 23
+|Apr low C = 23
+|May low C = 21
+|Jun low C = 20
+|Jul low C = 19
+|Aug low C = 19
+|Sep low C = 19
+|Oct low C = 20
+|Nov low C = 22
+|Dec low C = 23
+|year low C = 21
+|Jan record low C = 20
+|Feb record low C = 20
+|Mar record low C = 20
+|Apr record low C = 20
+|May record low C = 17
+|Jun record low C = 14
+|Jul record low C = 14
+|Aug record low C = 14
+|Sep record low C = 15
+|Oct record low C = 16
+|Nov record low C = 18
+|Dec record low C = 19
+|year record low C = 14
+|Jan precipitation mm = 345
+|Feb precipitation mm = 311
+|Mar precipitation mm = 300
+|Apr precipitation mm = 296
+|May precipitation mm = 233
+|Jun precipitation mm = 215
+|Jul precipitation mm = 194
+|Aug precipitation mm = 118
+|Sep precipitation mm = 117
+|Oct precipitation mm = 91
+|Nov precipitation mm = 102
+|Dec precipitation mm = 220
+|year precipitation mm = 2543
+|source 1 = BBC Weather <ref name="weather1">{{cite web
+|url =http://www.bbc.co.uk/weather/world/city_guides/results.shtml?tt=TT004970 | title =Average Conditions Moroni, Comoros| accessdate =August 18, 2009
+|publisher =BBC Weather }}</ref>
+|date=August 2010
+}}<noinclude>
+{{Template reference list}}
+[[Kategori:Templat iklim|Moroni]]
+</noinclude>

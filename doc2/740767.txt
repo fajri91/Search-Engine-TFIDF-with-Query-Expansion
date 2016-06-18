@@ -1,0 +1,24 @@
+Bunga Mulut Singa
+{{taxobox
+|name = ''Antirrhinum majus''
+|image = Antirrhinum majus B.jpg
+|image_caption = Plant growing in an old wall in Thasos, Greece
+|regnum = [[Plantae]]
+|unranked_divisio = [[Angiospermae]]
+|unranked_classis = [[Eudikotil]]
+|unranked_ordo = [[Asterids]]
+|ordo = [[Lamiales]]
+|familia = [[Plantaginaceae]] /<br />[[Veronicaceae]]<ref name="Tank 2006">{{cite journal | year = 2006 | title = Review of the systematics of Scrophulariaceae s.l. and their current disposition | journal = Australian Systematic Botany | volume = 19 | issue = 4 | pages = 289307 | doi = 10.1071/SB05009 | last1 = Tank | first1 = David C. | last2 = Beardsley | first2 = Paul M. | last3 = Kelchner | first3 = Scot A. | last4 = Olmstead | first4 = Richard G.}}</ref>
+|genus = ''[[Antirrhinum]]''
+|species = '''''A. majus'''''
+|binomial = ''Antirrhinum majus''
+|binomial_authority = [[Carl Linnaeus|L.]]
+}}
+'''Bunga mulut singa''' atau '''''Antirrhinum majus''''' adalah sejenis tanaman hias.
+
+== Referensi ==
+{{Reflist}}
+{{Tumbuhan-stub}}
+
+[[Kategori:Tumbuhan]]
+[[Kategori:Plantaginaceae]]

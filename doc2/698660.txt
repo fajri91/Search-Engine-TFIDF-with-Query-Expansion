@@ -1,0 +1,29 @@
+Wikipedia:Daftar pilihan/Kriteria
+<noinclude>{{Shortcut|[[WP:KDP]]|[[WP:DP?]]}}
+{{proposal}}
+{| style="float:right; padding:1em; border:1px solid #A3B1BF; background-color:#E6F2FF; margin:0 0 0.5em 1em"
+|{{HalamanDP}}
+|}</noinclude>
+Suatu [[Wikipedia:Daftar pilihan|daftar pilihan]] mencerminkan hasil karya terbaik Wikipedia. Daftar ini mencakup suatu topik yang sesuai dengan format daftar (lihat [[Wikipedia:Daftar]]) dan, di samping memenuhi persyaratan keseluruhan isi Wikipedia (terutama [[Wikipedia:Pedoman penamaan|pedoman penamaan]], [[Wikipedia:Sudut pandang netral|netralitas]], [[Wikipedia:Bukan riset asli|bukan riset asli]], [[Wikipedia:Pemastian|pemastian]], [[Wikipedia:Kutip sumber tulisan|kutipan]], [[Wikipedia:Sumber tepercaya|sumber tepercaya]], [[Wikipedia:Biografi tokoh yang masih hidup|tokoh yang masih hidup]], [[Wikipedia:Kriteria isi nonbebas|isi nonbebas]], dan [[Wikipedia:Wikipedia bukanlah|Wikipedia bukanlah]]), sebuah daftar pilihan memiliki kriteria sebagai berikut:
+# '''Prosa'''. Ditulis dengan kaidah bahasa Indonesia yang baik dan benar.
+# '''Bagian pembuka'''. Memiliki [[Wikipedia:Bagian pembuka|bagian pembuka]] yang menarik, yang memperkenalkan subjek dan menetapkan ruang lingkup serta kriteria yang termasuk di dalamnya.
+# '''Kelengkapan'''.
+#* (a) Mencakup ruang lingkup yang ditetapkan secara menyeluruh, terdapat setidaknya semua butir utama dan, jika memungkinkan, satu daftar lengkap yang berisikan seluruh butir; apabila diperlukan, ada catatan-catatan yang memberikan informasi yang sesuai dan berguna mengenai butir-butir tersebut.
+#* (b) Mengenai panjang dan/atau topiknya, memenuhi semua persyaratan [[Wikipedia:Daftar berdiri sendiri|daftar yang berdiri sendiri]]; tidak melanggar [[Wikipedia:Percabangan isi|pedoman percabangan isi]], bukan penggandaan sebagian besar materi dari artikel lain, dan tidak dapat dimasukkan sebagai bagian dari artikel terkait topik daftar tersebut.
+# '''Struktur'''. Mudah ditelusuri, apabila diperlukan bisa menggunakan fasilitas judul [[Bantuan:Bagian|bagian]] dan [[Bantuan:Penyortiran|penyortiran tabel]].
+# '''Gaya'''. Sesuai dengan [[Wikipedia:Pedoman gaya|Pedoman Gaya]] dan halaman-halaman penunjangnya.
+#* (a) ''Daya tarik visual''. Memanfaatkan penggunaan yang sesuai atas tata letak teks, pemformatan, [[Bantuan:Tabel|tabel]], dan [[Wikipedia:Warna|warna]]; serta hanya ada sebagian kecil pranala merah.
+#* (b) ''Berkas media''. Memuat [[Wikipedia:Gambar|gambar]] dan media lainnya, jika sesuai dengan topik, yang memenuhi [[Wikipedia:Kebijakan penggunaan gambar|kebijakan penggunaan Wikipedia]], disertai [[Wikipedia:Keterangan berkas|keterangan]] singkat. Gambar [[Wikipedia:Penggunaan media nonbebas|nonbebas]] dan media lainnya memenuhi [[Wikipedia:Kriteria isi nonbebas|kriteria isi nonbebas]] dan [[Wikipedia:Tag hak cipta/Nonbebas|diberi label (''tag'') yang sesuai]].
+# '''Stabil'''. Bukan merupakan subjek [[Wikipedia:Perang suntingan|perang suntingan]] yang berkelanjutan dan isinya tidak mengalami perubahan berarti dari hari ke hari, kecuali sebagai tanggapan atas proses pengusulan daftar pilihan.<noinclude>
+
+== Lihat pula ==
+* Kriteria pilihan
+** [[Wikipedia:Kriteria artikel pilihan|Artikel pilihan]]
+** [[Wikipedia:Kriteria gambar pilihan|Gambar pilihan]]
+** [[Wikipedia:Kriteria portal pilihan|Portal pilihan]]
+** [[Wikipedia:Kriteria suara pilihan|Suara pilihan]]
+** [[Wikipedia:Kriteria topik pilihan|Topik pilihan]]
+
+[[Kategori:Daftar pilihan]]
+
+</noinclude>

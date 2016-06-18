@@ -1,0 +1,2 @@
+Templat:Bhs
+[[bahasa {{{1|}}}|{{{2|{{{1|}}}}}}]]<noinclude>{{templat berisiko tinggi}}[[Kategori:Templat teks]]</noinclude>

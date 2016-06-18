@@ -1,0 +1,56 @@
+Templat:High-bypass turbofan aeroengines
+{{Navbox
+|name = High-bypass turbofan aeroengines
+| listclass = hlist
+| title = Mesin pesawat [[turbofan]] high-bypass
+
+|group1 = 
+|list1 =
+<div>
+[[Aviadvigatel PD-14|PD-14]]{{}}
+[[Aviadvigatel PS-90|PS-90]]{{}}
+[[CFE CFE738|CFE738]]{{}}
+[[CFM International CFM56|CFM56]]{{}}
+[[CFM International LEAP-X|LEAP-X]]{{}}
+[[Engine Alliance GP7000|GP7000]]{{}}
+[[General Electric CF6|CF6]]{{}}
+[[General Electric CF34|CF34]]{{}}
+[[General Electric GE90|GE90]]{{}}
+[[General Electric GEnx|GEnx]]{{}}
+[[General Electric TF34|TF34]]{{}}
+[[General Electric TF39|TF39]]{{}}
+[[Honeywell ALF 502|ALF 502]]{{}}
+[[Honeywell HTF7000|HTF7000]]{{}}
+[[Honeywell HTS900|HTS900]]{{}}
+[[IHI Corporation F7|F7]]{{}}
+[[IAE V2500|V2500]]{{}}
+[[PowerJet SaM146|SaM146]]{{}}
+[[Pratt & Whitney Canada PW300|PW300]]{{}}
+[[Pratt & Whitney JT9D|JT9D]]{{}}
+[[Pratt & Whitney PW1000G|PW1000G]]{{}}
+[[Pratt & Whitney PW2000|PW2000]]{{}}
+[[Pratt & Whitney PW4000|PW4000]]{{}}
+[[Pratt & Whitney PW6000|PW6000]]{{}}
+[[Progress D-18T|D-18T]]{{}}
+[[Progress D-436|D-436]]{{}}
+[[Rolls-Royce AE 3007|AE 3007]]{{}}
+[[Rolls-Royce BR700|BR700]]{{}}
+[[Rolls-Royce RB211|RB211]]{{}}
+[[Rolls-Royce RB262|RB262]]{{}}
+[[Rolls-Royce RB401|RB401]]{{}}
+[[Rolls-Royce Trent|Trent]]{{}}
+[[Rolls-Royce Trent 1000|Trent 1000]]{{}}
+[[Rolls-Royce Trent 500|Trent 500]]{{}}
+[[Rolls-Royce Trent 700|Trent 700]]{{}}
+[[Rolls-Royce Trent 800|Trent 800]]{{}}
+[[Rolls-Royce Trent 900|Trent 900]]{{}}
+[[Rolls-Royce/MAN Turbo RB193|Turbo RB193]]{{}}
+[[Snecma Silvercrest|Silvercrest]]{{}}
+[[Turbomeca Astafan|Astafan]]{{}}
+[[Williams FJ22|FJ22]]{{}}
+<div> 
+}}
+<noinclude>
+[[Kategori:Templat pesawat|{{PAGENAME}}]]
+[[Kategori:Templat teknologi dan ilmu terapan|{{PAGENAME}}]]
+</noinclude>

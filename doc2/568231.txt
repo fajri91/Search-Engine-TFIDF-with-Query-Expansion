@@ -1,0 +1,25 @@
+Discodermia laevidiscus
+{{Taxobox |name = Discodermia laevidiscus
+|regnum = [[Hewan|Animalia]]
+|subregnum = [[Parazoa]]
+|phylum = [[Porifera]]
+|classis = [[Demospongiae]]
+|ordo = [[Lithistida]]
+|familia = [[Theonellidae]]
+|genus = [[Discodermia]]
+|species = Discodermia laevidiscus
+|binomial_authority =Carter, 1880
+}}
+'''''Discodermia laevidiscus''''' adalah [[spesies]] [[spons]] yang tergolong dalam kelas [[Demospongiae]]. Spesies ini juga merupakan bagian dari genus Discodermia dan [[familia]] Theonellidae. Nama ilmiah spesies ini pertama kali diterbitkan pada tahun 1880 oleh Carter.
+
+Seperti spons pada umumnya, spesies ini memiliki tubuh yang berpori dan permukaan yang keras seperti [[batu]]. Selain itu, Discodermia laevidiscus juga dapat menyerap [[oksigen]] dari [[air]] melalui proses [[difusi]].
+
+== Referensi ==
+
+* ''WoRMS Porifera: World Porifera Database''. Soest R. van (ed), 22 Oktober 2008.
+
+{{DEFAULTSORT:Discodermia laevidiscus}}
+
+[[Kategori:Demospongiae]]
+
+{{porifera-stub}}

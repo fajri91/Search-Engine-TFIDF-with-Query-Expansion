@@ -1,0 +1,47 @@
+Parallel Virtual Machine
+'''Parallel Virtual Machine''' (disingkat '''PVM''') adalah sebuah [[perangkat lunak]] yang digunakan untuk pembuatan [[jaringan komputer]] [[komputasi paralel|paralel]]. Perangkat lunak ini didesain sedemikian rupa untuk mengizinkan sebuah jaringan komputer yang heterogen yang terdiri atas [[komputer|mesin]] yang menjalankan [[sistem operasi]] [[Windows]] atau [[Unix]] agar digunakan sebagai sebuah [[prosesor paralel]] tunggal yang [[komputasi terdistribusi|terdistribusi]]. Hal ini bertujuan untuk menyelesaikan beberapa masalah komputasi secara lebih murah dengan menggunakan kemampuan pemrosesan dan memori dari komputer-komputer yang terjaring tersebut. Perangkat lunak itu sendiri bersifat [[portabilitas (komputer)|portabel]], dan [[kode sumber]]nya pun tersedia secara bebas melalui [[netlib]], yang sekarang telah dikompilasi untuk digunakan oleh beragam jenis komputer, dari mulai [[laptop]] hingga [[superkomputer]] [[Cray]]. <ref name=PvmHome>{{cite web|url=http://www.csm.ornl.gov/pvm/|title=Parallel Virtual Machine (PVM) Homepage}}</ref>
+
+PVM mengizinkan pengguna untuk menggunakan [[perangkat keras]] [[komputer]] yang telah ada untuk menyelesaikan problem yang lebih rumit pada harga yang lebih murah. PVM juga digunakan sebagai alat bantu dalam akademisi, khususnya untuk mengajarkan [[pemrograman paralel]] (dalam fakultas [[ilmu komputer]], dan tentu saja digunakan untuk menyelesaikan beberapa masalah praktikal.<ref name=PvmHome/>
+
+Versi pertama dari PVM dikembangkan di ORNL pada tahun 1989, dan lalu setelah dikembangkan dari awal kembali oleh [[University of Tennessee]], versi 2 pun dirilis pada bulan Maret 1991. Versi 3 dirilis pada 1993 dan mendukung fitur [[fault tolerance|toleransi kesalahan]] (''fault-tolerance;;) dan portabilitas yang lebih baik. Versi terbarunya adalah 3.4.6 yang dirilis pada tanggal 2 Februari 2009.
+
+PVM pun terus dikembangkan secara aktif, meskipun maturitas dan stabilitas relatif yang ditunjukkannya tidak seberapa signifikan. PVM dianggap sebagai sebuah langkah baru dalam tren pemrosesan paralel modern dan juga ''[[grid computing]]''. Penggunaannya pun banyak, dan kini pun bermunculan beberapa ''binding'' [[bahasa pemrograman]] yang baru (seperti halnya modul dalam bahasa [[Perl]] <code>Parallel::PVM</code>, yang ada dalam pengembangan yang aktif). Antarmuka Perl dirilis di bawah [[Artistic License]],<ref>{{cite web
+|url=http://search.cpan.org/src/DLECONTE/Parallel-Pvm-1.4.0/README
+|title=Perl PVM README
+|quote=This program is free software; you can redistribute it and/or modify it under the same terms as Perl itself.
+}}</ref> meski PVM sendiri dirilis dengan lisensi [[BSD License]] dan [[GNU General Public License]].
+.
+== Detail ==
+Komputer-komputer idividual dapat saja menggunakan [[multiprosesor]] dengan [[memori bersama]] atau [[memori lokal]], [[super komputer]] dengan [[prosesor vektor]], beberapa jenis [[GPGPU|mesin pemrosesan grafik]], atau ''[[workstation]]'' dengan [[prosesor skalar]], dan tentu saja [[komputer pribadi]] (PC) yang dapat saling dihubungkan dengan beragam jenis interkoneksi jaringan komputer, mulai dari [[Ethernet]] atau [[Fiber Distributed Data Interface|FDDI]].
+
+PVM terdiri atas sebuah lingkungan ''runtime'' dan [[pustaka perangkat lunak|pustaka]] untuk melakukan ''message-passing'', manajemen tugas serta manajemen sumber daya dan tentu saja notifikasi saat terjadi kesalahan (''fault notification''). Memang PVM tidak secara otomatis membuat sebuah paket program komersial untuk berjalan lebih cepat, tapi, PVM menyediakan banyak fungsi yang ''powerful'' untuk secara manual melakukan paralelisasi sebuah program sumber yang telah ada, atau untuk menulis program baru yang menggunakan konsep komputasi terdistribusi/komputasi paralel.
+
+Perangkat lunak PVM harus secara spesifik diinstalasikan di atas masing-masing komputer yang hendak digunakan dalam sebuah mesin virtual (''[[virtual machine]]''). Hingga sekarang tidak ada cara otomatis untuk menginstalasikan program ke dalam komputer jarak jauh melalui PVM, meskipun hanya menyalin folder/[[direktori (sistem berkas)|direktori]] <code>pvm3/lib</code> dan <code>pvm3/bin</code> ke komputer yang lain (lalu menyunting <code>$PVM_ROOT</code> dan <code>$PVM_ARCH</code>) cukup dapat menjalankan program PVM. Namun, melakukan kompilasi atau membangun program PVM membutuhkan instalasi penuh dari PVM.
+
+Program-program pengguna yang ditulis dalam [[bahasa pemrograman C]], [[C++]] atau [[Fortran]] dapat mengakses PVM melalui rutin-rutin pustaka yang telah disediakan. 
+
+PVM juga mendukung ''[[broadcasting]]'' melalui <code>PVM_bcast</code> yang dapat mengirim semua proses dalam sebuah kelompok dan juga ''[[multicasting]]'' melalui <code>PVM_mcast</code> yang mengirim pesan ke sebuah daftar tertentu dari proses.
+
+== Lihat juga ==
+* [[Virtual machine]]
+* [[CORBA]]
+* [[Globus Alliance]]
+* [[occam (programming language)|Occam programming language]]
+* [[Ease (programming language)|Ease programming language]]
+* [[Linda (coordination language)]]
+* [[Calculus of communicating systems]]
+* [[Calculus of Broadcasting Systems]]
+* [[Message Passing Interface]] (MPI)
+
+== Referensi ==
+{{FOLDOC}}
+{{Reflist|2}}
+
+== Pranala luar ==
+* [http://www.csm.ornl.gov/pvm/pvm_home.html PVM home]
+* [http://pvm-plus-plus.sourceforge.net/ PVM++: A C++-Library for PVM]
+* [http://proactive.objectweb.org/ Free library for code mobility]
+* [http://www.parawiki.org/index.php/PVM PVM in the Parawiki]
+
+{{stub}}
+{{komputer-stub}}

@@ -1,0 +1,36 @@
+Wikipedia:Buku/Elektronika Dasar
+{{buku_tersimpan
+ | setting-papersize = a4
+ | setting-toc = auto
+ | setting-columns = 1
+}}
+
+== Elektronika Dasar ==
+=== Referensi ===
+;Pendahuluan
+:[[Elektronika]]
+;Komponen Pasif
+:[[Resistor]]
+:[[Kondensator]]
+:[[Induktor]]
+:[[Transformator]]
+;Komponen Aktif
+:[[Diode]]
+:[[Diode pancaran cahaya]]
+:[[Fotodiode]]
+:[[Diode laser]]
+:[[Transistor]]
+:[[Transistor sambungan dwikutub]]
+:[[Transistor efekmedan]]
+:[[Transistor efek medan sambungan]]
+:[[MOSFET]]
+;Hukum Kelistrikan
+:[[Hukum Coulomb]]
+:[[Hukum Ohm]]
+:[[Hambatan listrik]]
+:[[Arus listrik]]
+:[[Tegangan listrik]]
+;IC - Integrated Circuit (Sirkuit Terpadu)
+:[[Sirkuit terpadu]]
+
+[[Kategori:Wikipedia:Buku|Elektronika Dasar]]

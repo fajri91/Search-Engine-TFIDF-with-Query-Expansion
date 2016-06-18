@@ -1,0 +1,41 @@
+Hermann von Helmholtz
+{{Infobox_Scientist 
+|name = Hermann von Helmholtz
+|image = Hermann von Helmholtz.jpg|225px
+|image_width = 225px
+|caption = Hermann Ludwig Ferdinand von Helmholtz 
+|birth_date = {{birth date|1821|8|31|mf=y}}
+|birth_place = [[Potsdam]], [[Kerajaan Prusia]]
+|residence = [[Jerman]] 
+|nationality = [[Jerman]] 
+|death_date = {{death date and age|1894|9|8|1821|8|31|mf=y}}
+|death_place = [[Charlottenburg]], [[Kekaisaran Jerman]]
+|field = Fisikawan
+|work_institution = [[Universitas Knigsberg]]</br>[[Universitas Bonn]]</br>[[Universitas Heidelberg]]</br>[[Universitas Berlin]]
+|alma_mater = [[:de:Ppinire|Royal Friedrich-Wilhelm Institute]]
+|doctoral_advisor = [[Johannes Peter Mller]]
+|doctoral_students = 
+[[Albert Abraham Michelson]]  </br>
+[[Wilhelm Wien]]  </br>
+[[William James]]</br>	
+[[Heinrich Hertz]] </br>
+[[Michael I. Pupin]]  </br>
+[[Friedrich Schottky]]	 </br>
+[[Arthur Gordon Webster]] 
+<!--[[Edward Nichols]]--> 
+|known_for  = [[Konservasi energi]]
+|prizes = 
+|footnotes = 
+}}
+'''Hermann Ludwig Ferdinand von Helmholtz''' ({{lahirmati|[[Potsdam]], [[Kerajaan Prusia]]|31|8|1821|[[Charlottenburg]], [[Kekaisaran Jerman]]|8|9|1894}}) adalah [[fisikawan]] [[Jerman]] yang banyak memberikan sumbangan kepada ilmu pengetahuan modern. Ia juga dikenal akan sumbangsihnya mengenai [[konservasi energi]].
+
+== Pranala luar ==
+{{Commonscat|Hermann von Helmholtz}}
+* "[http://books.google.com/books?vid=0CZkDzy7hqYWpJVqcWCZAHZ&id=5aUOAAAAIAAJ&pg=PT17 Hermann von Helmholtz]" (Obituary). Royal Society (Great Britain). (1894). Proceedings of the Royal Society of London. London: Printed by Taylor and Francis.
+* "[http://www.archive.org/details/hermannvonhelmho00koenrich 	Hermann von Helmholtz]" by Leo Koenigsberger (Oxford: Clarendon press, 1906) from [[Internet Archive]]
+* "[http://plato.stanford.edu/entries/hermann-helmholtz Hermann von Helmholtz]" article by Lydia Patton, Stanford Encyclopedia of Philosophy
+{{lifetime|1821|1894|von Helmholtz, Hermann}}
+{{Jerman-bio-stub}}
+
+[[Kategori:Biofisikawan]]
+[[Kategori:Fisikawan Jerman]]

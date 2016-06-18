@@ -1,0 +1,26 @@
+Berkas:Aag 2007 Film Poster.jpg
+{{dari|en}}
+==Penjelasan==
+{{Non-free use rationale video cover
+| Article           = Aag (film 2007)
+| Use               = Infobox<!--Choose: Infobox / Header / Section / Other --> 
+<!-- ADDITIONAL INFORMATION -->
+| Name              = [[Aag (film 2007)|Aag]]
+| Distributor       = [[Adlabs]] dan [[K Sera Sera]]
+| Publisher         = 
+| Type              = 
+| Website           = 
+| Owner             = 
+| Commentary        = 
+<!--OVERRIDE FIELDS -->
+| Description       = 
+| Source            = 
+| Portion           = 
+| Low resolution    = 
+| Purpose           = <!-- Must be specified if Use is not Infobox / Header / Section / Artist -->
+| Replaceability    = 
+| Other information = 
+}}
+
+==Lisensi==
+{{non-free video cover|image has rationale=yes}}

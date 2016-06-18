@@ -1,0 +1,419 @@
+Piala AEGON 2011  Tunggal Putri
+{{Tennis events|2011|AEGON Trophy|
+|champ = {{flagicon|GRE}} [[Eleni Daniilidou]]
+|runner = {{flagicon|BLR}} [[Olga Govortsova]]
+|score = 16, 64, 62
+}}
+{{main|AEGON Trophy 2011}}
+[[Elena Baltacha]] merupakan juara bertahan turnamen ini, akan tetapi memilih untuk tidak berpartisipasi.<br />
+[[Eleni Daniilidou]] keluar sebagai juara setelah mengalahkan [[Olga Govortsova]] dengan skor 16, 64, 62.
+
+== Unggulan ==
+{{col-begin}}
+{{col-2}}
+# {{flagicon|CHN}} [[Zhang Shuai (tenis)|Zhang Shuai]] ''(Putaran Pertama)
+# {{flagicon|ITA}} [[Romina Oprandi]] ''(Perempatfinal)
+# {{flagicon|AUT}} [[Tamira Paszek]] ''(Perempatfinal)
+# {{flagicon|USA}} [[Melanie Oudin]] ''(Putaran Kedua)
+{{col-2}}
+<ol start="5">
+<li> {{flagicon|USA}} [[Coco Vandeweghe]] ''(Putaran Kedua)
+<li> {{flagicon|CRO}} [[Mirjana Lui]] ''(Putaran Pertama)
+<li> {{flagicon|GEO}} [[Anna Tatishvili]] ''(Putaran Pertama)
+<li> {{flagicon|USA}} [[Irina Falconi]] ''(Putaran Pertama)
+</ol>
+{{col-end}}
+
+== Hasil pengundian ==
+{{Draw key}}
+=== Final ===
+{{4TeamBracket-Tennis3
+| RD1=Semifinal
+| RD2=Final
+
+| team-width=190
+
+| RD1-seed1=&nbsp;
+| RD1-team1={{flagicon|BLR}} '''[[Olga Govortsova]] 
+| RD1-score1-1='''7
+| RD1-score1-2='''6
+| RD1-score1-3=&nbsp;
+| RD1-seed2=&nbsp;
+| RD1-team2={{flagicon|POR}} [[Michelle Larcher de Brito]]
+| RD1-score2-1=5
+| RD1-score2-2=2
+| RD1-score2-3=&nbsp;
+
+| RD1-seed3=&nbsp;
+| RD1-team3={{flagicon|GRE}} '''[[Eleni Daniilidou]] 
+| RD1-score3-1='''6
+| RD1-score3-2='''6
+| RD1-score3-3=&nbsp;
+| RD1-seed4=&nbsp;
+| RD1-team4={{flagicon|USA}} [[Alison Riske]] 
+| RD1-score4-1=0
+| RD1-score4-2=2
+| RD1-score4-3=&nbsp;
+
+| RD2-seed1=&nbsp; 
+| RD2-team1={{flagicon|BLR}} [[Olga Govortsova]] 
+| RD2-score1-1='''6
+| RD2-score1-2=4
+| RD2-score1-3=2
+| RD2-seed2=&nbsp;
+| RD2-team2={{flagicon|GRE}} '''[[Eleni Daniilidou]] 
+| RD2-score2-1=1
+| RD2-score2-2='''6
+| RD2-score2-3='''6
+}}
+
+=== Paruh atas ===
+{{16TeamBracket-Compact-Tennis3
+| RD1=Putaran Pertama
+| RD2=Putaran Kedua
+| RD3=Perempatfinal
+| RD4=Semifinal
+
+| RD1-seed01=1
+| RD1-team01={{flagicon|CHN}} [[Zhang Shuai (tennis)|S Zhang]]
+| RD1-score01-1=0
+| RD1-score01-2=3
+| RD1-score01-3=&nbsp;
+| RD1-team02={{flagicon|TPE}} '''[[Chang Kai-chen|K-c Chang]]
+| RD1-score02-1='''6
+| RD1-score02-2='''6
+| RD1-score02-3=&nbsp;
+
+| RD1-seed03=&nbsp;
+| RD1-team03={{flagicon|BLR}} '''[[Olga Govortsova|O Govortsova]]
+| RD1-score03-1='''6
+| RD1-score03-2='''6
+| RD1-score03-3=&nbsp;
+| RD1-seed04=Q
+| RD1-team04={{flagicon|ISR}} [[Julia Glushko|J Glushko]]
+| RD1-score04-1=1
+| RD1-score04-2=0
+| RD1-score04-3=&nbsp;
+
+| RD1-seed05=WC
+| RD1-team05={{flagicon|GBR}} [[Naomi Broady|N Broady]]
+| RD1-score05-1=4
+| RD1-score05-2='''6
+| RD1-score05-3=5
+| RD1-seed06=&nbsp;
+| RD1-team06={{flagicon|GBR}} '''[[Anne Keothavong|A Keothavong]]
+| RD1-score06-1='''6
+| RD1-score06-2=3
+| RD1-score06-3='''7
+
+| RD1-seed07=&nbsp;
+| RD1-team07={{flagicon|FRA}} '''[[Stphanie Foretz Gacon|S Foretz Gacon]]
+| RD1-score07-1='''6
+| RD1-score07-2='''6
+| RD1-score07-3=&nbsp;
+| RD1-seed08=6
+| RD1-team08={{flagicon|CRO}} [[Mirjana Lui|M Lui]]
+| RD1-score08-1=4
+| RD1-score08-2=4
+| RD1-score08-3=&nbsp;
+
+| RD1-seed09=4
+| RD1-team09={{flagicon|USA}} '''[[Melanie Oudin|M Oudin]]
+| RD1-score09-1='''7
+| RD1-score09-2=4
+| RD1-score09-3='''6
+| RD1-seed10=&nbsp;
+| RD1-team10={{flagicon|THA}} [[Noppawan Lertcheewakarn|N Lertcheewakarn]]
+| RD1-score10-1=6<sup>5
+| RD1-score10-2='''6
+| RD1-score10-3=3
+
+| RD1-seed11=WC
+| RD1-team11={{flagicon|GBR}} [[Emily Webley-Smith|E Webley-Smith]]
+| RD1-score11-1=5
+| RD1-score11-2=6<sup>4
+| RD1-score11-3=&nbsp;
+| RD1-seed12=&nbsp;
+| RD1-team12={{flagicon|USA}} '''[[Sloane Stephens|S Stephens]]
+| RD1-score12-1='''7
+| RD1-score12-2='''7
+| RD1-score12-3=&nbsp;
+
+| RD1-seed13=Q
+| RD1-team13={{flagicon|GBR}} Samantha Murray
+| RD1-score13-1=4
+| RD1-score13-2=1
+| RD1-score13-3=&nbsp;
+| RD1-seed14=&nbsp;
+| RD1-team14={{Nowrap|{{flagicon|POR}} '''[[Michelle Larcher de Brito|M Larcher de Brito]]}}
+| RD1-score14-1='''6
+| RD1-score14-2='''6
+| RD1-score14-3=&nbsp;
+
+| RD1-seed15=Q
+| RD1-team15={{flagicon|CHN}} '''[[Lu Jingjing|J Lu]]
+| RD1-score15-1='''6
+| RD1-score15-2='''6
+| RD1-score15-3=&nbsp;
+| RD1-seed16=8
+| RD1-team16={{flagicon|USA}} [[Irina Falconi|I Falconi]]
+| RD1-score16-1=2
+| RD1-score16-2=4
+| RD1-score16-3=&nbsp;
+
+| RD2-seed01=&nbsp;
+| RD2-team01={{flagicon|TPE}} [[Chang Kai-chen|K-c Chang]]
+| RD2-score01-1=4
+| RD2-score01-2=4
+| RD2-score01-3=&nbsp;
+| RD2-seed02=&nbsp;
+| RD2-team02={{flagicon|BLR}} '''[[Olga Govortsova|O Govortsova]]
+| RD2-score02-1='''6
+| RD2-score02-2='''6
+| RD2-score02-3=&nbsp;
+
+| RD2-seed03=&nbsp;
+| RD2-team03={{flagicon|GBR}} [[Anne Keothavong|A Keothavong]]
+| RD2-score03-1=1
+| RD2-score03-2='''6
+| RD2-score03-3=2
+| RD2-seed04=&nbsp;
+| RD2-team04={{flagicon|FRA}} '''[[Stphanie Foretz Gacon|S Foretz Gacon]]
+| RD2-score04-1='''6
+| RD2-score04-2=3
+| RD2-score04-3='''6
+
+| RD2-seed05=4
+| RD2-team05={{flagicon|USA}} [[Melanie Oudin|M Oudin]]
+| RD2-score05-1=3
+| RD2-score05-2=4
+| RD2-score05-3=&nbsp;
+| RD2-seed06=&nbsp; 
+| RD2-team06={{flagicon|USA}} '''[[Sloane Stephens|S Stephens]]
+| RD2-score06-1='''6
+| RD2-score06-2='''6
+| RD2-score06-3=&nbsp;
+
+| RD2-seed07=&nbsp;
+| RD2-team07={{Nowrap|{{flagicon|POR}} '''[[Michelle Larcher de Brito|M Larcher de Brito]]}}
+| RD2-score07-1='''6
+| RD2-score07-2=4
+| RD2-score07-3='''6
+| RD2-seed08=Q
+| RD2-team08={{flagicon|CHN}} [[Lu Jingjing|Lu J-J]]
+| RD2-score08-1=0
+| RD2-score08-2='''6
+| RD2-score08-3=1
+
+| RD3-seed01=&nbsp;
+| RD3-team01={{flagicon|BLR}} '''[[Olga Govortsova|O Govortsova]]
+| RD3-score01-1='''7
+| RD3-score01-2='''7
+| RD3-score01-3=&nbsp;
+| RD3-seed02=&nbsp;
+| RD3-team02={{flagicon|FRA}} [[Stphanie Foretz Gacon|S Foretz Gacon]]
+| RD3-score02-1=6<sup>2
+| RD3-score02-2=5
+| RD3-score02-3=&nbsp;
+
+| RD3-seed03=&nbsp;
+| RD3-team03={{flagicon|USA}} [[Sloane Stephens|S Stephens]]
+| RD3-score03-1=3
+| RD3-score03-2='''6
+| RD3-score03-3=2
+| RD3-seed04=&nbsp;
+| RD3-team04={{Nowrap|{{flagicon|POR}} '''[[Michelle Larcher de Brito|M Larcher de Brito]]}}
+| RD3-score04-1='''6
+| RD3-score04-2=3
+| RD3-score04-3='''6
+
+| RD4-seed01=&nbsp;
+| RD4-team01={{flagicon|BLR}} '''[[Olga Govortsova|O Govortsova]]
+| RD4-score01-1='''7
+| RD4-score01-2='''6
+| RD4-score01-3=&nbsp;
+| RD4-seed02=&nbsp;
+| RD4-team02={{Nowrap|{{flagicon|POR}} [[Michelle Larcher de Brito|M Larcher de Brito]]}}
+| RD4-score02-1=5
+| RD4-score02-2=2
+| RD4-score02-3=&nbsp;
+}}
+
+=== Paruh bawah ===
+{{16TeamBracket-Compact-Tennis3
+| RD1=Putaran Pertama
+| RD2=Putaran Kedua
+| RD3=Perempatfinal
+| RD4=Semifinal
+
+| RD1-seed01=7
+| RD1-team01={{flagicon|GEO}} [[Anna Tatishvili|A Tatishvili]]
+| RD1-score01-1='''6
+| RD1-score01-2=6<sup>4
+| RD1-score01-3=4
+| RD1-seed02=&nbsp;
+| RD1-team02={{flagicon|GRE}} '''[[Eleni Daniilidou|E Daniilidou]]
+| RD1-score02-1=3
+| RD1-score02-2='''7
+| RD1-score02-3='''6
+
+| RD1-seed03=&nbsp;
+| RD1-team03={{flagicon|GBR}} [[Heather Watson|H Watson]]
+| RD1-score03-1=6<sup>4
+| RD1-score03-2=4
+| RD1-score03-3=&nbsp;
+| RD1-seed04=Q
+| RD1-team04={{flagicon|HUN}} '''[[Melinda Czink|M Czink]]
+| RD1-score04-1='''7
+| RD1-score04-2='''6
+| RD1-score04-3=&nbsp;
+
+| RD1-seed05=&nbsp;
+| RD1-team05={{flagicon|RUS}} '''[[Valeria Savinykh|V Savinykh]]
+| RD1-score05-1='''6
+| RD1-score05-2='''6
+| RD1-score05-3=&nbsp;
+| RD1-seed06=WC
+| RD1-team06={{flagicon|GBR}} [[Laura Robson|L Robson]]
+| RD1-score06-1=4
+| RD1-score06-2=4
+| RD1-score06-3=&nbsp;
+
+| RD1-seed07=&nbsp;
+| RD1-team07={{flagicon|THA}} [[Tamarine Tanasugarn|T Tanasugarn]]
+| RD1-score07-1=3
+| RD1-score07-2=1
+| RD1-score07-3=&nbsp;
+| RD1-seed08=3
+| RD1-team08={{flagicon|AUT}} '''[[Tamira Paszek|T Paszek]]
+| RD1-score08-1='''6
+| RD1-score08-2='''6
+| RD1-score08-3=&nbsp;
+
+| RD1-seed09=5
+| RD1-team09={{flagicon|USA}} '''[[Coco Vandeweghe|C Vandeweghe]]
+| RD1-score09-1='''6
+| RD1-score09-2='''6
+| RD1-score09-3=&nbsp;
+| RD1-seed10=&nbsp;
+| RD1-team10={{flagicon|USA}} [[Madison Brengle|M Brengle]]
+| RD1-score10-1=3
+| RD1-score10-2=3
+| RD1-score10-3=&nbsp;
+
+| RD1-seed11=&nbsp;
+| RD1-team11={{flagicon|LUX}} [[Anne Kremer|A Kremer]]
+| RD1-score11-1=4
+| RD1-score11-2=4
+| RD1-score11-3=&nbsp;
+| RD1-seed12=&nbsp;
+| RD1-team12={{flagicon|USA}} '''[[Alison Riske|A Riske]]
+| RD1-score12-1='''6
+| RD1-score12-2='''6
+| RD1-score12-3=&nbsp;
+
+| RD1-seed13=&nbsp;
+| RD1-team13={{flagicon|SUI}} [[Stefanie Vgele|S Vgele]]
+| RD1-score13-1=6<sup>5
+| RD1-score13-2=6<sup>6
+| RD1-score13-3=&nbsp;
+| RD1-seed14=WC
+| RD1-team14={{flagicon|GBR}} '''[[Katie O'Brien|K O'Brien]]
+| RD1-score14-1='''7
+| RD1-score14-2='''7
+| RD1-score14-3=&nbsp;
+
+| RD1-seed15=&nbsp;
+| RD1-team15={{flagicon|JPN}} [[Junri Namigata|J Namigata]]
+| RD1-score15-1=1
+| RD1-score15-2=4
+| RD1-score15-3=&nbsp;
+| RD1-seed16=2
+| RD1-team16={{flagicon|ITA}} '''[[Romina Oprandi|R Oprandi]]
+| RD1-score16-1='''6
+| RD1-score16-2='''6
+| RD1-score16-3=&nbsp;
+
+| RD2-seed01=&nbsp;
+| RD2-team01={{flagicon|GRE}} '''[[Eleni Daniilidou|E Daniilidou]]
+| RD2-score01-1='''6
+| RD2-score01-2='''6
+| RD2-score01-3=&nbsp;
+| RD2-seed02=Q
+| RD2-team02={{flagicon|HUN}} [[Melinda Czink|M Czink]]
+| RD2-score02-1=4
+| RD2-score02-2=4
+| RD2-score02-3=&nbsp;
+
+| RD2-seed03=&nbsp;
+| RD2-team03={{flagicon|RUS}} [[Valeria Savinykh|V Savinykh]]
+| RD2-score03-1=1
+| RD2-score03-2=0
+| RD2-score03-3=&nbsp;
+| RD2-seed04=3
+| RD2-team04={{flagicon|AUT}} '''[[Tamira Paszek|T Paszek]]
+| RD2-score04-1='''6
+| RD2-score04-2='''6
+| RD2-score04-3=&nbsp;
+
+| RD2-seed05=5
+| RD2-team05={{flagicon|USA}} [[Coco Vandeweghe|C Vandeweghe]]
+| RD2-score05-1=4
+| RD2-score05-2=6<sup>5
+| RD2-score05-3=&nbsp;
+| RD2-seed06=&nbsp;
+| RD2-team06={{flagicon|USA}} '''[[Alison Riske|A Riske]]
+| RD2-score06-1='''6
+| RD2-score06-2='''7
+| RD2-score06-3=&nbsp;
+
+| RD2-seed07=WC
+| RD2-team07={{flagicon|GBR}} [[Katie O'Brien|K O'Brien]]
+| RD2-score07-1=4
+| RD2-score07-2='''6
+| RD2-score07-3=3
+| RD2-seed08=2
+| RD2-team08={{flagicon|ITA}} '''[[Romina Oprandi|R Oprandi]]
+| RD2-score08-1='''6
+| RD2-score08-2=3
+| RD2-score08-3='''6
+
+| RD3-seed01=&nbsp;
+| RD3-team01={{flagicon|GRE}} '''[[Eleni Daniilidou|E Daniilidou]]
+| RD3-score01-1=0
+| RD3-score01-2='''6
+| RD3-score01-3='''6
+| RD3-seed02=3
+| RD3-team02={{flagicon|AUT}} [[Tamira Paszek|T Paszek]]
+| RD3-score02-1='''6
+| RD3-score02-2=1
+| RD3-score02-3=4
+
+| RD3-seed03=&nbsp;
+| RD3-team03={{flagicon|USA}} '''[[Alison Riske|A Riske]]
+| RD3-score03-1='''6
+| RD3-score03-2='''6
+| RD3-score03-3=&nbsp;
+| RD3-seed04=2
+| RD3-team04={{flagicon|ITA}} [[Romina Oprandi|R Oprandi]]
+| RD3-score04-1=1
+| RD3-score04-2=3
+| RD3-score04-3=&nbsp;
+
+| RD4-seed01=&nbsp;
+| RD4-team01={{flagicon|GRE}} '''[[Eleni Daniilidou|E Daniilidou]]
+| RD4-score01-1='''6
+| RD4-score01-2='''6
+| RD4-score01-3=&nbsp;
+| RD4-seed02=&nbsp;
+| RD4-team02={{flagicon|USA}} [[Alison Riske|A Riske]]
+| RD4-score02-1=0
+| RD4-score02-2=2
+| RD4-score02-3=&nbsp;
+}}
+
+== Referensi ==
+* [http://www.itftennis.com/womens/tournaments/printabledrawsheet.asp?tournament=1100024092&event=1100137682 Hasil Pengundian  Utama]
+* [http://www.itftennis.com/womens/tournaments/printabledrawsheet.asp?tournament=1100024092&event=1100137683 Hasil Pengundian  Kualifikasi]
+
+[[Kategori:ITF Women's Circuit 2011|AEGON Trophy  Tunggal]]

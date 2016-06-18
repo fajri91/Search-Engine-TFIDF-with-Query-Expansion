@@ -1,0 +1,14 @@
+Berkas:Nunu Datau.png
+== {{int:filedesc}} ==
+{{Information
+| description    =
+[[Nunu Datau]]
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Fairuse}}

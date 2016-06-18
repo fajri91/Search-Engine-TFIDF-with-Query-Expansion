@@ -1,0 +1,22 @@
+Eupteleaceae
+{{Taxobox
+| name = Eupteleaceae
+| image = Euptelea polyandra SZ72.jpg
+| image_caption = 
+|regnum = [[Plantae]]
+|divisio = [[Magnoliophyta]]
+|unranked_classis = [[Eudikotil]]
+|unranked_ordo = 
+|ordo = [[Ranunculales]]
+| familia = '''Eupteleaceae'''
+| familia_authority = 
+| subdivision_ranks = Genera
+| subdivision = Lihat teks
+}}
+'''Eupteleaceae''' adalah salah satu [[familia|suku]] anggota [[tumbuhan berbunga]]. Menurut [[Sistem klasifikasi APG II]] suku ini dimasukkan ke dalam bangsa [[Ranunculales]], [[klad]] '''dikotil sejati''' ('''[[Eudikotil]]''') namun tidak termasuk ke dalam dua kelompok besar, '''[[Rosidae]]''' dan '''[[asterids]]'''.
+ 
+{{commons|Eupteleaceae}}
+{{botani-stub}}
+
+[[Kategori:Eupteleaceae| ]]
+[[Kategori:Ranunculales]]

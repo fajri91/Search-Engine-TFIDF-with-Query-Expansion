@@ -1,0 +1,91 @@
+Jakarta LRT
+{{rapikan}}
+{{Future building|Juni 2015}}
+{{otheruses|LRT}}
+{{Infobox Public transit
+| name            = LRT Jakarta 
+| image           = 
+| imagesize       = 200px
+| locale          = [[Jakarta]], [[Bogor]], [[Bekasi]], [[Indonesia]]
+| transit_type    = [[Angkutan cepat]], [[Transportasi umum]]
+| began_operation = 2018
+| lines           = 2 dalam kota, 2 luar kota
+| stations        = 41 
+| headway         = 5-10 menit
+| ridership       = - 
+| system_length   = 130,4 km (rencana)
+| track_gauge     = {{RailGauge|1067}}
+| operator        = [[Kereta Api Indonesia]]
+| owner           = -
+| headquarters    = -
+| el              = 1.500 V DC
+| website         = 
+| map             =
+| map_name        = Peta LRT Jabodetabek
+| map_state       = show
+}}
+
+'''Jakarta Light Rail Transit''' atau disingkat '''Jakarta LRT''' adalah sebuah sistem MassTransit dengan [[kereta api ringan]] (LRT) yang direncanakan akan dibangun di [[Jakarta]], [[Indonesia]] dan menghubungkan Jakarta dengan kota-kota disekitarnya seperti [[Bekasi]] dan [[Bogor]]. Ada 2 penggagas LRT di Jakarta, [[Pemerintahan DKI Jakarta|Pemprov DKI]] yang akan membangun LRT dalam kota dan [[Adhi Karya|PT Adhi Karya]] yang akan membangun penghubung Jakarta ke kota sekitarnya.
+
+== Sejarah ==
+Gagasan LRT Jakarta mulai muncul ketika Proyek [[Monorel Jakarta]] yang sempat diaktifkan kembali  pada Oktober 2013 oleh Gubernur DKI saat itu, [[Joko Widodo]] tersendat pengerjaannya. Tersendatnya pekerjaan tersebut karena Pemprov DKI dan Gubernur DKI penerus Joko Widodo, [[Basuki Tjahaja Purnama]] (Ahok) tidak akan mengabulkan permintaan yang diajukan oleh PT Jakarta Monorail untuk membangun depo di atas [[Waduk Setiabudi]], [[Jakarta Selatan]] dan [[Tanah Abang]], [[Jakarta Pusat]].<ref>[http://beritajakarta.com/read/9293/Ahok_Tetap_Tolak_Depo_Monorel_di_Atas_Waduk_Setiabudi#.VXqVF1Lp5F0 Ahok Tetap Tolak Depo Monorel di Atas Waduk Setiabudi]</ref> Sebab, hasil kajian [[Kementerian Pekerjaan Umum dan Perumahan Rakyat Republik Indonesia|Kementerian Pekerjaan Umum dan Perumahan Rakyat]] (Kementerian PU-Pera) menyatakan bahwa jika depo dibangun di atas Waduk Setiabudi, dikhawatirkan peristiwa [[Banjir Jakarta 2013|jebolnya tanggul Latuharhari]] terulang kembali.
+
+Ahok, sapaan Basuki, lebih memilih untuk membangun Light Rail Transit (LRT) dibandingkan monorel. Bahkan, Basuki telah mengungkapkan rencana pembangunan ini kepada [[Presiden RI|Presiden]] Joko Widodo.<ref>[http://megapolitan.kompas.com/read/2015/05/29/17153181/Ahok.Kami.Tidak.Mau.Lagi.Kembangkan.Monorel Ahok: Kami Tidak Mau Lagi Kembangkan Monorel]</ref>
+
+Adhi Karya yang semula berniat membangun jalur monorel [[Cibubur]]-[[Cawang]]-[[Grogol]] dan [[Bekasi]]-Cawang, mendapat perintah dari Presiden Joko Widodo untuk mengubah konsep monorel menjadi LRT juga. Adapun alasan dibangunnya LRT karena lebih mudah terintegrasi dengan moda lainnya (MRT dan KRL) daripada monorel yang populasinya sedikit karena teknologinya tertutup.<ref>[http://finance.detik.com/read/2015/03/20/172416/2865046/4/sesuai-perintah-jokowi-adhi-karya-ganti-monorel-jadi-lrt-jabodetabek Sesuai Perintah Jokowi, Adhi Karya Ganti Monorel Jadi LRT Jabodetabek]</ref>
+
+== Rencana pengembangan LRT oleh Pemprov DKI ==
+Pemprov DKI merencanakan 7 rute untuk LRT dalam kota:<ref>[http://www.gatra.com/nusantara-1/jabodetabek-1/128384-ini-tujuh-rute-lrt-impian-ahok.html Ini Tujuh Rute LRT Impian Ahok]</ref>
+* [[Kebayoran Lama]] - [[Kelapa Gading]] sepanjang 21,6&nbsp;km
+* Tanah Abang - Pulo Mas sepanjang 17,6&nbsp;km,
+* [[Joglo, Kembangan, Jakarta Barat|Joglo]] - Tanah Abang sepanjang 11&nbsp;km
+* [[Kembangan, Jakarta Barat|Puri Kembangan]] - Tanah Abang sepanjang 9,3&nbsp;km
+* Pesing - Kelapa Gading sepanjang 20,7&nbsp;km
+* Pesing - [[Bandara Soekarno-Hatta]] sepanjang 18,5&nbsp;km
+* [[Cempaka Putih]] - Ancol sepanjang 10&nbsp;km.
+
+Untuk desain LRT diserahkan kepada dua BUMD DKI Jakarta, yaitu Pembangunan Jaya dan Konstruksi Jaya. Diperkirakan, ketujuh rute itu menelan anggaran kurang lebih Rp 60 trilyun atau Rp 7,5 trilyun untuk setiap rutenya.
+
+== Rencana pengembangan LRT Jabodetabek oleh Adhi Karya ==
+Proyek ini akan dilaksanakan oleh PT Adhi Karya (persero)Tbk yang terdiri dari enam rute, yaitu:<ref>[http://finance.detik.com/read/2015/06/10/200533/2938953/4/ini-dia-rute-rute-lrt-jokowi-yang-akan-dibangun-adhi-karya Ini Dia Rute-rute LRT Jokowi yang akan Dibangun Adhi Karya]</ref> 
+* Cawang  Cibubur
+* Cawang  Kuningan  Dukuh Atas
+* Cawang  Bekasi Timur
+* Dukuh Atas  Palmerah Senayan
+* Cibubur  [[Bogor]]
+* Palmerah  Grogol
+
+Trase tersebut sudah tercantum di dalam Rencana Umum Jaringan Jalur Kereta Api pada kawasan Jabodetabek tahun 2014-2030 sebagaimana tertuang dalam Peraturan Menteri Perhubungan RI No. 54 tahun 2013.
+
+[[File:Desain Stasiun LRT Cawang.jpg|thumb|left|300px|Desain Stasiun LRT Cawang]]Pembangunan Tahap I akan membangun rute Bekasi Timur  Cawang  Kuningan  Dukuh Atas, dan Cibubur - Cawang.
+Jalur dan stasiun LRT akan menggunakan jalur tepi jalan tol yang telah mendapatkan izin prinsip dari Menteri Pekerjaan Umum dan Perumahan Rakyat nomor TN.13.03- Mn/408 tanggal 19 Mei 2015," ujarnya. Moda ini dibangun elevated dengan ketinggian antara 9-12 meter di atas permukaan tanah. Total dana yang dibutuhkan untuk proyek LRT Tahap I ini mencapai Rp 2,745  Triliun. Dari jumlah itu, 51 persen atau sebesar Rp 1,4 Triliun dibiayai oleh Penyertaan Modal Negara (PMN) melalui Peraturan Pemerintah (PP) Nomor 28 Tahun 2015. Sisanya Rp 1,345 Triliun dari dana publik penjualan saham right issue kuartal pertama 2015.<ref>[http://www.jpnn.com/read/2015/06/11/309025/Bangun-LRT,-Adhi-Dapatkan-Kucuran-Dana-Rp-2,7-Triliun Bangun LRT, Adhi Dapatkan Kucuran Dana Rp 2,7 Triliun]</ref>
+
+Sedangkan Tahap II akan membangun jalur Cibubur  Bogor, dan Dukuh Atas  Palmerah  Senayan. Sementara tahap III membangun jalur Palmerah - Grogol.
+
+Track yang digunakan narrow gauge 1067&nbsp;mm sebagaimana track yang ada di Indonesia. Rolling stock menggunakan power 750 V DC seperti yang digunakan commuter line KAI.
+
+== Penerbitan Perpres LRT ==
+[[Berkas:Jalur LRT.jpg|right|350px|thumb|Jalur LRT Jabodetabek dalam Lampiran Perpres 98/2015]]
+Presiden Joko Widodo manandatangani 2 [[Peraturan Presiden|Perpres]] untuk melaksanaan pembangunan LRT ini pada 2 September 2015.
+* Perpres 98/2015 tentang Percepatan Penyelenggaraan Kereta Api Ringan / Light Rail Transit Terintegrasi di Wilayah Jakarta, Bogor, Depok dan Bekasi
+* Perpres 99/2015 tentang Percepatan Penyelenggaraan Perkeretaapian Umum di Wilayah Provinsi Daerah Ibukota Jakarta
+
+Ada 3 hal yang diatur dalam perpres tersebut
+* Penunjukan Adhi Karya untuk membangun sarana (jalur termasuk konstruksi jalur layang, stasiun dan fasilitas operasi)
+* Membentuk badan penyelenggara transportasi Jabodetabek
+* Berkaitan dengan penunjukan BUMD DKI yang dikoordinasikan gubernur agar LRT yang dari luar Jakarta, kemudian masuk ke dalam wilayah Jakarta, dapat dikoordinasikan dengan Pemda DKI Jakarta.
+
+Pemerintah melalui [[Kementerian Perhubungan]] (Kemenhub) akan mengambilalih prasarana Light Rail Transit (LRT) dari Adhi Karya setelah selesai dibangun. Pengambilalihan itu dilakukan agar harga tiket LRT tak terlampau tinggi sehingga masyarakat pengguna angkutan tersebut tidak terlalu terbebani.
+
+Menurut Direktur Jenderal Perkeretaapian Kemenhub Hermanto, pengambilalihan prasarana LRT itu akan menggunakan skema beli. Artinya Kemenhub akan memberikan sejumlah uang kepada Adhi Karya untuk menyerahkan prasarana LRT tersebut. "Nantinya dibayar Ditjen Perkeretaapian, bisa setelah selesai atau bertahap tapi setelah diaudit oleh BPKP ([[Badan Pengawasan Keuangan dan Pembangunan]])," ujar Hermanto dalam konferensi pers di Kantor Kemenhub, Jakarta, Selasa (8/9/2015).<ref>[http://bisniskeuangan.kompas.com/read/2015/09/08/185802326/Harga.Tiket.LRT.Dipatok.di.Kisaran.Rp.10.000-Rp.15.000.per.Orang Harga Tiket LRT Dipatok di Kisaran Rp 10.000-Rp 15.000 per Orang]</ref>
+
+== Pelaksanaan Pembangunan ==
+LRT Jabodetabek mulai dilaksanakan pembangunannya dengan ''ground breaking'' oleh Presiden Joko Widodo pada 9 September 2015.
+
+==Referensi==
+{{reflist}}
+
+{{Angkutan Umum Jakarta}}
+
+[[Kategori:Transportasi di Jakarta]]
+[[Kategori:Transportasi rel di Indonesia]]

@@ -1,0 +1,52 @@
+Microsoft Internet Security and Acceleration Server
+'''Microsoft Internet Security and Acceleration Server''' (ISA Server) adalah sebuah program yang didefinisikan oleh Microsoft sebagai "i''ntegrated edge security gateway''". Pertama kali dikenal sebagai [[Microsoft Proxy Server]], ISA Server kemudian menjadi produk keamanan dan ''[[firewall]]'' untuk sistem-sistem berbasis [[Microsoft Windows]] yang didesain sedemikian rupa untuk mempublikasikan server web dan beberapa sistem server lainnya. ISA Server juga bisa menjadi firewall lapisan aplikasi, bertindak sebagai titik akhir dari koneksi [[Virtual Private Networking]] (VPN), dan menyediakan akses Internet untuk klien-klien di dalam lingkungan jaringan, dengan layanan ''[[proxy server]]''.
+
+ISA Server 2000 dan ISA Server 2004 juga bisa diperoleh dalam [[Microsoft Small Business Server]], selain tentunya dalam bentuk ritel atau perangkat jadi (''appliance'') yang disediakan oleh penyedia pihak ketiga.
+
+== Versi-versi ISA Server ==
+{| class="wikitable"
+!Tanggal !! Versi 
+|-
+|[[6 September]] [[2008]]|| Forefront Threat Management Gateway
+|-
+|[[17 Oktober]] [[2006]] || ISA Server 2006 (versi internal: 5.0.5723.504)
+|-
+|[[2004]] || ISA Server 2004 (Versi internal: 4.0)
+|-
+|[[2000]] || ISA Server 2000 (Versi internal: 3.0)
+|-
+|[[1997]] || Proxy Server 2.0
+|-
+|[[1996]] || Proxy Server 1.0 
+|}
+
+=== Microsoft Proxy Server ===
+'''Microsoft Proxy Server''' versi 1.0 dirilis pertama kali pada bulan [[Januari]] [[1997]], dan didesain sedemikian rupa agar berjalan di atas ''platform'' [[Windows NT 4.0]]. Proxy Server 1.0 merupakan produk dasar yang didesain untuk menyediakan akses Internet untuk klien dalam lingkungan [[local area network|jaringan area lokal]] melalui [[protokol jaringan|protokol]] [[TCP/IP]]. Meskipun terintegrasi dengan baik dengan Windows NT 4.0, Microsoft Proxy Server datang dengan fungsi yang sangat dasar dan hanya tersedia dalam satu edisi saja. Microsoft menghentikan dukungannya untuk Proxy Server 1.0 pada tanggal [[31 Maret]] [[2002]].
+
+Lalu, beberapa bulan berselang, Proxy Server versi 2.0 dirilis pada bulan [[Desember]] [[1997]], dan mencakup integrasi dengan manajemen akun dalam [[Windows NT]], peningkatan kinerja untuk filter paket dan dukungan untuk protokol yang lebih luas. Proxy Server 2.0 ini juga telah dihentikan dukungannya oleh Microsoft semenjak [[31 Desember]] [[2004]].
+=== ISA Server 2000 ===
+Pada tanggal [[18 Maret]] [[2001]], Microsoft merilis '''ISA Server 2000'''. ISA Server 2000 memperkenalkan dua edisi, yakni edisi Standard dan Enterprise dengan perbedaan pada fungsi ''[[kluster komputer|High-Availability Clustering]]'' yang hanya dimiliki oleh edisi Enterprise. ISA Server 2000 membutuhkan Windows 2000 (edisi apa saja) dan juga bisa berjalan di atas Windows Server 2003. Sesuai dengan ''Microsoft Support Lifecycle Policy'', ISA Server 2000 merupakan produk ISA pertama yang menggunakan kebijakan dukungan 10 tahun (support lifecycle) dengan 5 tahun dukungan ''mainstream'' dan 5 tahun dukungan tambahan. ISA Server 2000 akan mencapai waktunya pada tanggal [[12 April]] [[2011]].
+=== ISA Server 2004 ===
+Pada tanggal [[8 September]] [[2004]], Microsoft memperbarui ISA Server dengan ISA Server 2004. ISA Server 2004 memperkenalkan dukungan ''multi-networking'', konfigurasi [[VPN]] terintegrasi, model autentikasi yang variatif, dukungan ''[[firewall]]'' lapisan aplikasi, dukungan untuk protokol [[H.323]], integrasi dengan [[Active Directory]], [[SecureNAT]], Secure Server Publishing, dan fitur manajemen dan pelaporan yang telah ditingkatkan. Konfigurasi berbasis rule dalam firewall juga telah disederhanakan, jika dibandingkan dengan ISA Server 2000.
+
+ISA Server 2004 tersedia dalam dua edisi, Standard dan Enterprise. Setiap edisi ISA Server dilisensi per prosesor, dan membutuhkan paling tidak Windows Server 2003 Standard Edition atau Enterprise Edition 32-bit agar berjalan. Beberapa partner Microsoft juga menjual hardware appliance yang berbasis Windows Server 2003 Appliance Edition dan ISA Server 2004.
+
+=== ISA Server 2006 ===
+Versi ISA Server paling baru saat ini adalah ISA Server 2006 yang dirilis pada tanggal [[17 Oktober]] [[2006]]. ISA Server didesain sedemikian rupa agar berjalan di atas [[Windows Server 2003]] dan [[Windows Server 2003 Release 2]], sementara Windows 2000 telah tidak didukung lagi sebagai platform di mana ISA Server 2006 berjalan. ISA Server 2006 dapat melakukan fungsi sebagai ''stateful packet inspection'' (SPI) serta application layer firewall, ''virtual private network'', serta web cache, baik sebagai forward cache maupun reverse cache.
+
+ISA Server 2006 memperkenalkan beberapa peningkatan dibandingkan dengan pendahulunya, ISA Server 2004, termasuk di antaranya adalah dukungan untuk melakukan autentikasi melalui protokol [[Secure Lightweight Directory Access Protocol]] (LDAPS) hingga mendukung banyak penyedia layanan LDAPS atau ''forest'' [[Active Directory]], dukungan untuk [[Microsoft Exchange 2007]], dukungan untuk mempublikasikan Microsoft [[Microsoft Office SharePoint Portal Server|SharePoint]], menawarkan fungsi [[Single sign-on]], dan lain-lain. 
+
+ISA Server 2006 hanya tersedia untuk mesin 32-bit [[x86]] saja, dan beberapa hanya berjalan di atas keluarga sistem operasi Windows Server 2003 dan belum mendukung [[Windows Server 2008]] mengingat dalam Windows Server 2008 terdapat perubahan drastis untuk kategori [[stack jaringan]].
+=== Microsoft Forefront Threat Management Gateway (TMG) ===
+Versi selanjutnya dari ISA Server adalah Microsoft Forefront Threat Management Gateway (TMG) yang dirilis pada bulan September 2008, bersamaan dengan Windows Essential Business Server. Versi ini hanya berjalan di atas Windows Server 2008 x64 saja.
+== Lihat pula ==
+* [[Microsoft Forefront]]
+* [[Squid]]
+
+== Pranala luar ==
+Microsoft ISA Server Home Page: http://www.microsoft.com/isa
+
+{{network-stub}}
+
+[[Kategori:Sistem server Windows]]
+[[Kategori:Firewall]]

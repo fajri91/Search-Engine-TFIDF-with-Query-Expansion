@@ -1,0 +1,44 @@
+Grand Prix Argentina
+{{F1 race 
+| Name                  = Grand Prix Argentina |
+| Flag                  = Flag of Argentina.svg|
+| Circuit               = [[Autdromo Oscar Alfredo Glvez]] |
+| Circuit_image         =Autdromo_Oscar_y_Juan_Glvez_Circuito_N_6_por_Senna.svg |
+| Laps                  = 72 |
+| Circuit_length_km     = 4.259 |
+| Race_length_km       = 306.648 |
+| Circuit_length_mi     = 2.646 |
+| Race_length_mi     = 190.542 |
+| First_held            = 1953
+| Last_held             = 1998
+| Times_held            = 21
+| Most_wins_driver      = {{flagicon|Argentina}} [[Juan Manuel Fangio]] (4)|
+| Most_wins_constructor = {{flagicon|UK}} [[WilliamsF1|Williams]] (4)|
+| Current_year          = 1998|
+| Winner                = {{flagicon|Germany}} [[Michael Schumacher]]|
+| Winning_team          = [[Scuderia Ferrari|Ferrari]]|
+| Winning_time          = 1:48:36.175|
+| Second                = {{flagicon|Finland}} [[Mika Hkkinen]]
+| Second_team           = [[McLaren]]-[[Mercedes-Benz HighPerformanceEngines|Mercedes]]|
+| Second_time           = +22.898s
+| Third                 = {{flagicon|UK}} [[Eddie Irvine]]
+| Third_team            = [[Scuderia Ferrari|Ferrari]]|
+| Third_time            = +57.745s
+| Pole_driver           = {{flagicon|UK}} [[David Coulthard]]|
+| Pole_team             = [[McLaren]]-[[Mercedes-Benz HighPerformanceEngines|Mercedes]]|
+| Pole_time             = 1:25.852|
+| Fastest_lap_driver    = {{flagicon|Austria}} [[Alexander Wurz]]|
+| Fastest_lap_team      = [[Benetton Formula|Benetton]]-[[Playlife]]|
+| Fastest_lap           = 1:28.179
+}}
+'''Grand Prix Argentina''' merupakan salah satu balapan yang dulunya termasuk dalam seri [[Formula 1]]. Balapan F1 di Argentina digelar dari tahun 1953 sampai 1998. Walaupun saat ini GP Argentina sudah tidak ada lagi dalam kalender F1, Argentina tetap menyimpan sejarah panjang dan manis dalam F1, terutama dengan adanya [[Juan Manuel Fangio]] yang berhasil menjadi juara dunia F1 5 kali.
+
+Balapan F1 terakhir di Argentina digelar pada tahun 1998 di [[Autdromo Oscar Alfredo Glvez]], dan dimenangi oleh [[Michael Schumacher]]. Tim yang paling sukses saat balapan GP Argentina adalah [[WilliamsF1]] yang mencatat 4 kemenangan, sementara untuk pembalap, Juan Manuel Fangio merupakan pembalap yang paling sering menjadi juara dengan empat kemenangan.
+
+==Pranala luar==
+{{Balapan Formula Satu}}
+{{DEFAULTSORT:Argentina}}
+
+[[Kategori:Grand Prix F1]]
+[[Kategori:Grand Prix Argentina|{{PAGENAME}}]]
+[[Kategori:Grand Prix Nasional]]

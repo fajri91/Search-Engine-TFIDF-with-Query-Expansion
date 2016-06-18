@@ -1,0 +1,18 @@
+Templat:Air Manjunto, Mukomuko
+{{Navigasi ID Desa
+|provinsi=Bengkulu
+|dati2=Kabupaten
+|nama dati2=Mukomuko
+|nama kecamatan=Air Manjunto
+|d1=Agung Jaya
+|d2=Kota Praja
+|d3=Manjunto Jaya
+|d4=Pondok Makmur
+|d5=Sido Makmur
+|d6=Sinar Jaya
+|d7=Tirta Makmur
+|d8=Tirta Mulya
+}}<noinclude>
+[[Kategori:Templat desa/kelurahan di Bengkulu|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Mukomuko|{{PAGENAME}}]]
+</noinclude>

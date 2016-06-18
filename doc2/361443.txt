@@ -1,0 +1,3 @@
+Templat:Fb team Real Mataram FC
+{{fb team |t=Real Mataram|tan=Real Mataram FC|tc=IDN |abb={{#if:{{{abb|}}}|RLMA}} |oc={{#if:{{{oc|}}}|{{{oc}}} }} }}<!--
+--><noinclude>[[Kategori:Templat tim sepak bola Indonesia|Real Mataram FC]]</noinclude>

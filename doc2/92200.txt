@@ -1,0 +1,95 @@
+Departemen Collines
+{{Infobox Settlement
+|name                   =Collines
+|settlement_type        =[[Departemen Benin|Departemen]]<!--For Town or Village (Leave blank for the default City)-->
+|official_name          = 
+|other_name             = 
+|native_name            = 
+|nickname               = 
+|motto                  = 
+|image_skyline          = 
+|imagesize              = 250px
+|image_caption          = 
+|image_flag             = 
+|flag_size              = 
+|image_seal             = 
+|seal_size              = 
+|image_shield           = 
+|shield_size            =
+|image_blank_emblem              =
+|blank_emblem_size          =
+|image_map              = Benin Collines.png
+|mapsize                = 150px
+|map_caption            = Peta menyoroti Departemen Collines
+|image_map1             = 
+|mapsize1               = 
+|map_caption1           = 
+|pushpin_map            = 
+|pushpin_label_position = 
+|subdivision_type       = [[Negara di dunia|Negara]]
+|subdivision_name       = {{flag|Benin}}
+|subdivision_type1      =
+|subdivision_name1      = 
+|subdivision_type2      =
+|subdivision_name2      = 
+|seat_type              =Ibukota
+|seat                   =[[Savalou]] (TBA)
+|government_type        =
+|leader_title           = 
+|leader_name            = 
+|leader_title1          =  <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           =
+|established_title      =  
+|established_date       = 
+|area_magnitude         = 
+|unit_pref              =Imperial<!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes         = 
+|area_total_km2             =13561
+|area_land_km2              = 
+|area_water_km2             = 
+|area_total_sq_mi        = 
+|area_land_sq_mi         = 
+|area_water_sq_mi        = 
+|area_water_percent     = 
+|area_urban_km2             = 
+|area_urban_sq_mi        = 
+|area_metro_km2             = 
+|area_metro_sq_mi        = 
+|population_as_of       = 2006
+|population_footnotes   = 
+|population_note        = 
+|population_total       = 625 933 
+|population_density_km2 = 46.16 
+|population_density_sq_mi = 
+|population_metro       =
+|population_density_metro_km2 =
+|population_density_metro_sq_mi =
+|population_urban       = 
+|population_density_urban_km2 =
+|population_density_urban_mi2 =
+|timezone               = [[West Africa Time|WAT]]
+|utc_offset             = +1
+|timezone_DST           = 
+|utc_offset_DST         = 
+|latd=|latm=|lats=|latNS=N
+|longd=|longm=|longs= |longEW=E
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m              = 
+|elevation_ft           = 
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              = 
+|website                = 
+|footnotes              = 
+}}
+
+[[Berkas:Collines communes.png|thumb|left|250px|Komunitas Collines]]
+'''Departemen Collines''' merupakan sebuah departemen di [[Benin]]. Didirikan pada tahun [[1999]] sesudah pemerintahan [[Benin]] enam departemen yaitu [[Departemen Atakora|Atakora]], [[Departemen Atlantique|Atlantique]], [[Departemen Borgou|Borgou]], [[Departemen Mono|Mono]], [[Departemen Oueme|Oueme]], dan [[Departemen Zou|Zou]] menjadi duabelas.  Collinies terbagi dari Zou. Sejak tahun 2008, ibukotanya adalah [[Savalou]]. Departemen Collines berbatasan dengan [[Departemen Plateau|Plateau]], [[Departemen Borgou|Borgou]], [[Departemen Zou|Zou]], dan [[Departemen Donga|Donga]]. Luas wilayah Collines adalah 13,561 km. .
+
+Komunitas utama di departemen ini ialah [[Bant]], [[Dassa-Zoum]], [[Glazou]], [[Ouss]], [[Savalou]], dan [[Sav]].
+
+{{Departemen Benin}}
+{{coord|7.93333|N|1.96667|E|source:kolossus-euwiki|display=title}}
+{{afrika-stub}}
+
+[[Kategori:Departemen Benin]]

@@ -1,0 +1,17 @@
+Produksi pasangan
+'''Produksi pasangan''' adalah salah satu efek interaksi suatu penyinaran pada suatu benda atau materi. 
+
+[[Sinar gamma]] dengan tingkat energi yang besar ( beberapa MeV ) bila menghantam sebuah inti [[atom]] dapat mengubah [[energi]] tersebut menjadi massa yang bergerak dengan kecepatan tertentu E=mc. Dalam waktu yang bersamaan muncul dari inti atom yang dikenai [[sinar gamma]] sepasang [[partikel]] yang satu [[positron]] yang bermuatan positif dan yang lain [[elektron]] bermuatan negatif. Foton yang baru dihasilkan ini harus mempunyai energi yang besarnya minimal massa kedua partikel tersebut dalam keadaan tenang atau sebelum disinar; besarnya kurang lebih 2.0,51 [[MeV]] ( besar energi minimal Foton ). Energie Foton yang berlebih akan diubah menjadi energi [[kinetik]] kedua partikel tersebut. 
+
+
+== Lihat pula ==
+
+[[efek fotoelektrik]]
+
+[[penyebaran Compton]]
+
+[[radiasi elektromagnetik]]
+
+{{nuklir-stub}}
+
+[[Kategori:Nuklir]]

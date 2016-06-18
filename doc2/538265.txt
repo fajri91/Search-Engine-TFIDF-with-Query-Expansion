@@ -1,0 +1,52 @@
+V-Cube 7
+{{tanpa_referensi|date=29 April 2013}}
+{{periksaterjemahan|en|V-Cube 7}}
+[[Berkas:V-Cube 7 in box.jpg|thumb|V-Cube 7 dalam kemasan aslinya.]]
+'''V-Cube 7''' adalah [[kubus rubik]] versi 7  7  7. Ditemukan oleh Panagiotis Verdes dan diproduksi oleh perusahaan Yunani Verdes Innovations SA. Seperti 5  5  5, V-Cube 7 memiliki kedua aspek pusat tetap dan bergerak.
+
+== Mekanisme ==
+[[Berkas:V-Cube 7 scrambled.jpg|thumb|right|V-Cube 7 dalam keadaan acak.]]
+[[Berkas:V-Cube 7 solved.jpg|thumb|right|V-Cube 7 dalam kondisi terselesaikan.]]
+Teka-teki ini terdiri dari 218 miniatur kubus unik ("kubus") di permukaan. Enam dari ini (ubin pusat dari enam wajah) yang melekat langsung ke internal "laba-laba" rangka dan tetap dalam posisi relatif terhadap satu sama lain. V-Cube 6 dasarnya menggunakan mekanisme yang sama, kecuali bahwa pada yang terakhir baris tengah, yang memegang sisa potongan, benar-benar tersembunyi.<ref>
+[http://www.freepatentsonline.com/20070057455.html United States Patent 20070057455]</ref>
+
+Ada 150 buah pusat yang menunjukkan satu warna masing-masing, 60 keping tepi yang menunjukkan dua warna masing-masing, dan delapan potongan sudut yang menunjukkan tiga warna masing-masing. Setiap bagian (atau kwintet potongan tepi) menunjukkan kombinasi warna yang unik, tetapi tidak semua kombinasi yang hadir (misalnya, tidak ada bagian tepi dengan sisi merah dan oranye, merah dan oranye sejak berada di sisi berlawanan dari Cube dipecahkan) . Lokasi kubus ini relatif terhadap satu sama lain dapat diubah dengan memutar lapisan luar Cube 90 , 180  atau 270 , tapi lokasi dari sisi berwarna relatif terhadap satu sama lain dalam keadaan menyelesaikan teka-teki tidak bisa diubah : itu adalah tetap dengan posisi relatif dari kotak pusat tetap dan distribusi kombinasi warna di tepi dan sudut potongan.
+
+Saat ini, V-Cube 7 diproduksi dengan plastik putih sebagai dasar, dengan warna merah berlawanan oranye, hijau berlawanan biru, kuning dan hitam berlawanan. Bagian pusat hitam bermerek dengan huruf V. Verdes juga menjual versi dengan plastik hitam dan wajah putih, dengan warna lain tetap sama, versi plastik padat dengan plastik warna sendiri dan tidak ada stiker, variasi bendera 7x7s termasuk Jerman, Polandia, Rusia dll.
+
+Berbeda dengan layar sisi V-Cube 6, V-Cube 7 secara mencolok bulat. Keberangkatan ini dari bentuk kubus yang benar diperlukan, karena mekanisme yang digunakan pada teka-teki ini tidak akan berfungsi dengan baik dengan lapisan ketebalan identik. Cara lain (seperti magnet) akan diperlukan. Catatan dari gambar di sebelah kanan bahwa jika 7  7  7 itu harus dibangun dengan lapisan ketebalan identik potongan sudut (ditampilkan dalam warna merah) akan kehilangan kontak dengan sisa dari teka-teki ketika sisi itu diputar 45 derajat. V-Cube 6 dan V-Cube 7 baik memecahkan masalah dengan menggunakan lapisan luar tebal. Dibulatkan bentuk V-Cube 7 membantu menyamarkan ini.
+
+== Permutasi ==
+[[Berkas:3x3x3 standard cube and 7x7x7 v-cube.jpeg|thumb|left|Perbandingan antara rubik biasa (3x3x3) dengan V-Cube 7 (7x7x7).]]
+[[Berkas:V-Cube 7 disassembled.jpg|thumb|left|V-Cube 7 yang sudah dibongkar]]
+Ada 8 kubus sudut, 60 sisi dan 150 pusat (6 tetap, 144 bergerak).
+
+Permutasi dari sudut yang mungkin, termasuk permutasi ganjil. Tujuh dari sudut bisa diputar secara independen, dan orientasi kedelapan tergantung pada tujuh lainnya, memberikan 8!  37 kombinasi.
+
+Ada 144 pusat bergerak, terdiri dari enam set 24 buah masing-masing. Dalam setiap set ada empat pusat setiap warna. Pusat dari satu set tidak dapat ditukar dengan orang-orang dari satu set. Setiap set dapat diatur dalam 24! cara yang berbeda. Dengan asumsi bahwa empat pusat setiap warna dalam setiap set tidak bisa dibedakan, jumlah permutasi dari setiap set dikurangi menjadi 24! / (4! 6) pengaturan, yang semuanya mungkin. mengurangi faktor muncul karena ada 4! cara untuk mengatur empat potong warna tertentu. Ini pangkat keenam karena ada enam warna. Jumlah permutasi dari semua pusat bergerak adalah permutasi dari satu set pangkat keenam, 24! 6 / (4! 36).
+
+Ada 60 bagian tepi, yang terdiri dari 12 pusat, 24 menengah, dan 24 tepi luar. Tepi pusat dapat membalik tapi sisanya tidak bisa (karena bentuk internal potongan asimetris), atau dapat keunggulan dari satu tempat pertukaran dengan satu set dari satu set. Kelima tepi di setiap kwintet pencocokan dibedakan, karena tepi non-tengah sesuai adalah bayangan cermin satu sama lain. Ada 12! / 2 cara untuk mengatur tepi pusat, karena aneh permutasi sudut menyiratkan aneh permutasi potongan-potongan ini juga. Ada 211 cara bahwa mereka dapat membalik, karena orientasi tepi belas tergantung pada sebelas sebelumnya. Setiap permutasi tepi menengah dan luar adalah mungkin, termasuk permutasi ganjil, memberikan 24! pengaturan untuk setiap set atau 24! total 2, terlepas dari posisi atau orientasi setiap karya lain.
+
+Ini memberikan jumlah permutasi dari
+:<math>\frac{8! \times 3^7 \times 12! \times 2^{10} \times 24!^8}{4!^{36}} \approx 1.95 \times 10^{160}</math>
+Seluruh nomor is 19 500 551 183 731 307 835 329 126 754 019 748 794 904 992 692 043 434 567 152 132 912 323 232 706 135 469 180 065 278 712 755 853 360 682 328 551 719 137 311 299 993 600 000 000 000 000 000 000 000 000 000 000 000 (kira-kira 19,501 sexvigintillion or 19.5 sexvigintilliard pada nama-nama sejumlah besar or 19.5 duoquinquagintillion pada skala pendek).
+
+Namun, bagian tengah hitam tetap ditandai dengan V, yang dapat berorientasi empat cara yang berbeda. Hal ini meningkatkan jumlah pola dengan faktor empat sampai 7.80  10160, meskipun setiap orientasi bagian ini dapat dianggap sebagai benar.
+
+== Rekor ==
+Rekor dunia saat ini untuk V-Cube 7 dipegang oleh Lin Chen dari Cina, dalam waktu 2 menit dan 41,63 detik ditetapkan pada 2012 kompetisi Hangzhou. Dia juga memegang tiga terbaik-hasil catatan rata-rata 2 menit dan 56,85 detik, ditetapkan pada acara yang sama.<ref> World Cube Association [http://www.worldcubeassociation.org/results/regions.php?eventId=777 Official Results - 777 Cube].</ref>
+
+Pada tahun 2014, rekor dunia  untuk V-Cube 7 (''single'') dipegang oleh Vladislav Shavelskiy dari Rusia, dalam waktu 2 menit dan 38,93 detik ditetapkan pada kompetisi CCC Autumn Open 2014 (4-5 Oktober 2014)<ref>[http://www.worldcubeassociation.org/results/p.php?i=2012SHAV01 Official World Cube Association Competition Results Vladislav Shavelskiy], diakses 25 Oktober 2014</ref>. Sedangkan untuk V-Cube 7 (''average'') dipegang oleh Feliks Zemdegs dari Australia, dalam waktu 2 menit dan 48,16 detik ditetapkan pada kompetisi US Nationals 2014 (1-3 Agustus 2014)<ref>[http://www.worldcubeassociation.org/results/p.php?i=2009ZEMD01 Official World Cube Association Competition Results Feliks Zemdegs], diakses 25 Oktober 2014</ref>.
+
+== Lihat pula ==
+* [[Kubus rubik]] (3x3x3)
+
+== Referensi ==
+{{reflist|1}}
+
+== Pranala Luar ==
+* [http://www.v-cubes.com/index.php Verdes Innovations SA] Official site.
+* [http://www.youtube.com/watch?v=UrjmeYdVTlc Frank Morris solves the V-Cube 7]
+* [http://deviceguru.com/android-phone-controlled-robot-solves-rubiks-cube/ Motorola Droid solves this Puzzle in 40 minutes using Lego Robot Kit (with video)]
+
+[[Kategori:Permainan otak]]

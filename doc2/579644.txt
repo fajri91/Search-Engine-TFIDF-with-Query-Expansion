@@ -1,0 +1,64 @@
+1998 UU43
+{{Infobox Planet 
+|minorplanet = yes 
+|width = 25em 
+|bgcolour = 
+|apsis = 
+|name = 1998 UU43
+|symbol = 
+|image = 
+|caption = 
+|discovery = yes 
+|discovery_ref = 
+|discoverer =M. W. Buie
+|discovery_site =695
+|discovered = 1998/10/22
+|designations = yes
+|mp_name = 
+|alt_names = 
+|mp_category = 
+|orbit_ref = 
+|epoch = 
+|aphelion =41.443
+|perihelion =31.827
+|semimajor =36.635
+|eccentricity =0.131
+|period = 
+|avg_speed = 
+|inclination =9.6
+|asc_node =231.3
+|mean_anomaly =287.7
+|arg_peri =277.1
+|satellites = 
+|physical_characteristics = yes 
+|dimensions = 
+|mass = 
+|density = 
+|surface_grav = 
+|escape_velocity = 
+|sidereal_day = 
+|axial_tilt = 
+|pole_ecliptic_lat = 
+|pole_ecliptic_lon = 
+|albedo = 
+|temperatures= 
+|temp_name1 = 
+|mean_temp_1 = 
+|max_temp_1 = 
+|temp_name2 = 
+|max_temp_2 = 
+|spectral_type = 
+|abs_magnitude =7.0
+}}
+'''1998 UU43''' adalah sebuah [[objek trans-Neptunus]]. Seperti objek trans-Neptunus pada umumnya, benda ini mengorbit Matahari dari jarak yang lebih jauh dari planet [[Neptunus]].
+
+[[Eksentrisitas orbit]] objek ini tercatat sebesar 0.131, sementara [[magnitudo mutlak]]nya adalah 7.0.
+
+== Referensi ==
+
+* [http://www.minorplanetcenter.net/iau/lists/t_tnos.html Daftar Objek Transneptunus] - ''The International Astronomical Union Minor Planet Center.''
+*{{cite journal|last=Remo|first=John L.|title=Classifying Solid Planetary Bodies|year=2007|journal=AIP Conference Proceedings|volume=886|pages=284302|bibcode=2007AIPC..886..284R|doi=10.1063/1.2710063}}
+
+[[Kategori:Objek trans-Neptunus]]
+
+{{astronomi-stub}}

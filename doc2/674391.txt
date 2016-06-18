@@ -1,0 +1,24 @@
+Templat:Sungai Kakap, Kubu Raya
+{{Navigasi ID Desa
+|provinsi=Kalimantan Barat
+|dati2=Kabupaten
+|nama dati2=Kubu Raya
+|nama kecamatan=Sungai Kakap
+|d1=Jeruju Besar
+|d2=Kalimas
+|d3=Pal Sembilan
+|d4=Punggur Besar
+|d5=Punggur Kapuas
+|d6=Punggur Kecil
+|d7=Sungai Belidak
+|d8=Sungai Itik
+|d9=Sungai Kakap
+|d10=Sungai Kupah
+|d11=Sungai Rengas
+|d12=Sepuk Laut
+|d13=Tanjung Saleh
+}}
+<noinclude>
+[[Kategori:Templat desa/kelurahan di Kalimantan Barat|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Kubu Raya|{{PAGENAME}}]]
+</noinclude>

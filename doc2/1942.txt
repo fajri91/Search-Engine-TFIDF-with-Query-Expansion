@@ -1,0 +1,65 @@
+Alabama
+{{Infobox U.S. state |
+ Name = Alabama |
+ Fullname = Alabama |
+ Flag = Flag of Alabama.svg |
+ Flaglink = [[Bendera Alabama]] |
+ Seal = Seal of Alabama.svg |
+ Seallink = [[Lambang Alabama]] |
+ Map = Map of USA AL.svg |
+ Nickname =  Yellowhammer State, Heart of Dixie |
+ Motto = [[Audemus jura nostra defendere]] |
+ Capital = [[Montgomery, Alabama|Montgomery]] |
+ OfficialLang = [[Bahasa Inggris|Inggris]] |
+ Languages = [[Bahasa Inggris|Inggris]] 96.17%,{{br}}[[Bahasa Spanyol|Spanyol]] 2.12% |
+ LargestMetro = [[Birmingham-Hoover-Cullman Combined Statistical Area|Greater Birmingham Area]]|
+ LargestCity = [[Birmingham, Alabama|Birmingham]]{{br}}(229,424, est. 2006)<ref name=popest>{{cite web | year = [[28 Juni]] [[2007]] | url = http://www.census.gov/popest/cities/tables/SUB-EST2006-04-01.csv | title = Annual Estimates of the Population for Incorporated Places in Alabama, Listed Alphabetically: April 1, 2000 to July 1, 2006 | format = [[Comma-separated values|CSV]] | work = 2007 Population Estimates | publisher = U.S. Census Bureau, Population Division | accessdate = June 28 | accessyear = 2007}}</ref> |
+ Governor = [[Robert Bentley]] (R)|
+ Senators = [[Richard Shelby]] (R){{br}}[[Jeff Sessions]] (R) |
+ PostalAbbreviation = AL |
+ AreaRank = 30 |
+ TotalArea = 135,765 |
+ TotalAreaUS = 52,419 |
+ LandArea = 131,426 |
+ LandAreaUS = 50,744 |
+ WaterArea = 4,338 |
+ WaterAreaUS = 1,675 |
+ PCWater = 3.20 |
+ PopRank = 23 |
+ 2000Pop = 4,447,100 |
+ DensityRank = 26th |
+ 2000Density = 33.84 |
+ 2000DensityUS = 84.83 |
+ AdmittanceOrder = 22 |
+ AdmittanceDate = [[14 Desember]] [[1819]] |
+ TimeZone = [[Central Standard Time Zone|Central]]: [[Coordinated Universal Time|UTC]]-6/[[Daylight saving time|DST]]-5 |
+ Latitude = 3011 N to 35 N |
+ Longitude = 8453 W to 8828 W |
+ Width = 306 |
+ WidthUS = 190 |
+ Length = 531 |
+ LengthUS = 330 |
+ HighestPoint = [[Mount Cheaha]]<ref name=usgs>{{cite web| year =[[29 April]] [[2005]] | url =http://erg.usgs.gov/isb/pubs/booklets/elvadist/elvadist.html#Highest| title =Elevations and Distances in the United States| publisher =U.S Geological Survey| accessdaymonth=3 November | accessyear = 2006}}</ref> |
+ HighestElev = 734 |
+ HighestElevUS = 2,407 |
+ MeanElev = 152 |
+ MeanElevUS = 499 |
+ LowestPoint = [[Teluk Meksiko]]<ref name=usgs/> |
+ LowestElev = 0 |
+ LowestElevUS = 0 |
+ ISOCode = US-AL |
+ Website = www.alabama.gov
+}}
+
+'''Alabama''' adalah sebuah negara bagian [[Amerika Serikat]] yang berada di bagian [[selatan]] dari [[Amerika Utara|daratan utama]]. Alabama berbatasan langsung dengan [[Tennessee]] di [[utara]], [[Georgia]] di [[timur]], [[Florida]] dan [[Teluk Mexico]] di [[selatan]], serta [[Mississippi]] di [[barat]]. Negara urutan ke-22 yang bergabung ke Union, Alabama bergabung dengan [[Negara Konfederasi Amerika]] pada tahun [[1861]]. Setelah [[Perang Saudara]], Alabama kembali ke [[Amerika Serikat|serikat]] pada [[1868]].
+
+== Referensi ==
+{{reflist}}
+
+{{Amerika Serikat}}
+{{Negara bagian Alabama|state=show}}
+
+[[Kategori:Alabama| ]]
+
+
+{{Negara-geo-stub|Amerika Serikat}}

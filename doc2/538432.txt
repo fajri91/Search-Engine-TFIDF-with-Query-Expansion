@@ -1,0 +1,7 @@
+Templat:Coord/doc/param/source:
+Menentukan (jika ada) sumber data, format/datum, dan secara secara opsional, asal data dalam tanda kurung. Awalnya ini digunakan untuk bot geotag, agar data tersebut tidak disalin dari format satu ke format lain atau Wikipedia satu ke Wikipedia lain, tanpa kehilangan presisi dan atribusi.
+
+Misalnya:
+* Koordinat yang didapat dari [[:en:Ordnance Survey]] [[:en:British national grid reference system|National Grid Reference]] NM&nbsp;435&nbsp;355 yang ada pada Wikipedia Bahasa Inggris akan diberi tag sebagai "source:enwiki-osgb36(NM435355)"
+* Koordinat lokasi yang diambil dari Wikipedia Bahasa Jerman, akan diberi tag sebagai "source:dewiki"  begitu juga untuk kode Wikipedia lainnya;
+* Lokasi yang didapat dari domain publik basis data [[:en:GEOnet Names Server|GeoNet Names Server]] akan diberi tag sebagai "source:GNS". Tidak ada informasi datum atau format yang dibutuhkan, karena jika tidak diubah, semua koordinat pada Wikipedia merupakan lintang/bujur dalam datum [[Sistem Geodesi Dunia|WGS84]]. Seprti halnya dengan lokasi Amerika Sertikat yang didapat dari basis data [[:en:Geographic Names Information System|GNIS]] akan diberi tag sebagai "source:GNIS".

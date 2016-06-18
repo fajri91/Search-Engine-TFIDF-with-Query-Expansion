@@ -1,0 +1,44 @@
+Windows Genuine Advantage
+{{Infobox Software |
+name = Windows Genuine Advantage |
+logo = [[Berkas:WGA Logo.png]]<br /> |
+caption = Logo {{PAGENAME}}|
+developer = [[Microsoft]] |
+latest_release_version = 1.7.0018.7  |
+latest_release_date = {{release date and age|2007|12|14}} |
+latest_preview_version = |
+latest_preview_date = |
+operating_system =  [[Windows XP]], [[Windows Vista]], [[Windows 7]] |
+platform = [[Microsoft Update]], [[Windows Update]], selected components in Microsoft Download Center |
+genre = Pengesahan perangkat lunak |
+license = Proprietary |
+website = [http://www.microsoft.com/genuine/ www.microsoft.com/genuine/]
+}}
+
+'''Windows Genuine Advantage''' ('''WGA''') adalah sistem anti-[[pembajakan]] oleh [[Microsoft]] yang menyatakan keaslian produk [[Microsoft Windows]] dalam jaringan bagi beberapa [[sistem operasi]] Microsoft. {{PAGENAME}} akan menghalangi pengunduhan dari ''Microsoft Download Center'' jika [[sistem operasi]] tersebut keasliannya tidak dapat diketahui. WGA melindungi [[Windows 2000]], [[Windows XP]], [[Windows Vista]] dan [[Windows 7]], kecuali [[Windows Server 2003]] atau keluarga [[Windows 9x]].
+
+{{PAGENAME}} juga mengiklankan paket layanan terbaru untuk Windows XP, yang memerlukan intervensi manual untuk menonaktifkannya. Sebelumnya dilakukan secara sukarela, dan menjadi wajib untuk penggunaan layanan ini pada bulan [[Juli 2005]].
+
+<!--== Ciri-ciri ==
+
+[[Image:WGA Notification.png|thumb|right|Windows Genuine Advantage Notification di Windows XP]]
+[[Image:Windows Genuine Advantage Notification.png|thumb|right|Peringatan Windows Genuine Advantage  di Windows Vista]]
+Proses validasi WGA sekarang memvalidasi penginstalan Windows dan kunci lisensi terhadap [[perangkat keras]] yang digunakan dan menentukan apakah [[perangkat lunak]] ini berlisensi dari Microsoft atau tidak. Hal ini dapat diakses baik dengan program yang dapat melakukan sendiri, atau sebagai kontrol ActiveX di [[Internet Explorer]], yang terakhir relevan dengan setiap upaya untuk mengakses Microsoft update melalui [[penjelajah web]] tersebut. Ini mencakup langkah-langkah berikut:
+* Saat kali pertama mengunjungi Microsoft Download atau Update Center, pengguna akan memperoleh pesanan yang memerlukan mereka untuk membenarkan kitab Windows mereka dengan mengambil seluruh kontrol [[ActiveX]] yang akan memeriksa keaslian perangkat lunak Windows mereka. Jika otentikasi Windows berhasil, ia akan menyimpan file lisensi khusus pada PC untuk verifikasi yang akan datang.
+* Setelah verifikasi berhasil, proses pengambilan kemas kini biasa dapat diteruskan.
+Jika perangkat lunak Windows didapati tidak memiliki lisensi sah, WGA akan menampilkan pemberitahuan khusus kepada pengguna dan menghalangi pembaruan bukan kritikal dari di-download dari Microsoft.
+
+Kawalan ActiveX dimuat turun semasa pengesahan kali pertama serta apabila versi baru dikeluarkan, tetapi proses pengesahan boleh dilakukan pada bila-bila masa setiap kali pengguna melayari laman web Microsoft untuk proses kemas kini.
+
+* Pada [[Windows Vista]], kegagalan pengesahan WGA membawa kesan yang lebih buruk. Selain notis peringatan tanpa henti serta halangan kemas kini bukan kritikal, WGA juga melumpuhkan [[Windows Aero]], [[Windows Defender]], dan [[ReadyBoost]]. Pengguna diberi tempoh selang untuk lulus pengesahan, di mana selepas tempoh tersebut sebahagian besar fungsi sistem pengendalian tersebut akan dilumpuhkan dan Windows akan bertukar ke ''mod fungsi dikurangkan'', yang akan dibuang pada [[Windows Vista#Service Pack 1|Windows Vista SP1]] bersama-sama dengan keadaan tidak tulen tetapi mengekalkan notis pada sistem yang didapati tidak tulen.-->
+
+== Pranala luar ==
+
+* [http://www.microsoft.com/genuine/ Windows Genuine Advantage Official Website]
+* [http://www.microsoft.com/genuine/downloads/faq.aspx Windows Genuine Advantage F.A.Q]
+* [http://www.microsoft.com/downloads/details.aspx?FamilyID=f8b8bc77-cfa1-47bd-b325-7a6d3893add8&DisplayLang=en Windows Genuine Advantage Notifications (KB905474)]
+* [http://www.eweek.com/article2/0,1895,1979756,00.asp eWeek article on Utility that disables the Windows Genuine Advantage Callback functionality]
+* [http://www.chotocheeta.com/2007/09/20/windows-genuine-advantage-downloads-now-on-alternate-browsers/ Access Windows genuine advantage under Alternate Browsers]
+* [http://www.linuxgenuineadvantage.org/ Linux Genuine Advantage] - A parody.
+
+[[Kategori:Microsoft Windows]]

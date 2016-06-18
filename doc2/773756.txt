@@ -1,0 +1,37 @@
+Stasiun Payakabung
+{{infobox stasiun
+|image=Stasiun Payakabung 08-2015.jpg
+|caption=Stasiun Payakabung
+|name=Payakabung
+|prov=Sumatera Selatan
+|kabupaten=Ogan Ilir
+|kecamatan kabupaten=Indralaya Utara
+|desa=Payakabung
+|kodepos=30812
+|open=1915
+|close=
+|kode=PYK
+|tinggi=+16 m
+|letak=km 373+355
+|line=[[Kereta api Serelo|Serelo]]
+|operator=[[Divisi Regional III Sumatera Selatan dan Lampung]]
+}}
+'''Stasiun Payakabung''' ('''PYK''') adalah stasiun kereta api yang berada di [[Payakabung, Indralaya Utara, Ogan Ilir|Payakabung]], [[Indralaya Utara, Ogan Ilir|Indralaya Utara]], [[Ogan Ilir]].
+
+<center>
+{|class=wikitable style=text-align:center
+|-
+!Stasiun sebelumnya:
+|rowspan=2|[[Jalur kereta api Prabumulih-Kertapati]]
+!Stasiun berikutnya:
+|-
+|[[Stasiun Serdang]]
+|[[Stasiun Simpang]]
+|}
+</center>
+
+{{stasiun-stub}}
+{{coord|-3.199256|104.605050|display=title}}
+[[Kategori:Stasiun kereta api di Sumatera Selatan|Payakabung]]
+[[Kategori:Kabupaten Ogan Ilir]]
+[[Kategori:Indralaya Utara, Ogan Ilir]]

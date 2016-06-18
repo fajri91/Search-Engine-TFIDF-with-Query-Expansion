@@ -1,0 +1,55 @@
+Parnas (Saint Petersburg Metro)
+{{Infobox station
+| name          = Parnas
+| type          = {{STPETERSBURGMETRO type}}
+| style         =
+| image         = Metro SPB Line2 Parnas.jpg
+| image_size    =
+| image_caption = Hall Stasiun
+| address       =
+| coordinates   = {{coord|60.067978|N|30.330623|E|type:landmark|display=title,inline}}
+| line          = {{STPETERSBURGMETRO-line2}}
+| other         =
+| structure     =
+| platform      = [[Peron sisi]]
+| depth         = Atas tanah.
+| levels        =
+| tracks        = 2
+| parking       =
+| bicycle       =
+| baggage_check =
+| opened        = 22 Desember 2006
+| closed        =
+| rebuilt       =
+| electrified   =
+| ADA           =
+| code          =
+| owned         = [[Saint Petersburg Metro]]
+| zone          =
+| smartcardname =
+| smartcardstatus =
+| former        =
+| passengers    =
+| pass_year     =
+| pass_percent  =
+| pass_system   =
+| mpassengers   =
+| services      = {{s-rail|title=Saint Petersburg Metro}} {{s-line|system=STPETERSBURGMETRO|line=Moskovsko-Petrogradskaya|previous=|next=Prospekt Prosvescheniya}}
+| map_locator   =
+}}
+
+[[Image:Parnas metrostation outside (near by pavilion).JPG|thumb|293px|Pintu masuk]]
+{{Moskovsko-Petrogradskaya Line|right}}
+
+'''Parnas''' ({{Templat:Lang-ru|}}) adalah terminus utara dari[[Jalur 2 (Saint Petersburg Metro)|Jalur Moskovsko-Petrogradskaya]]di jaringan[[Angkutan cepat di St. Petersburg|Saint Petersburg Metro]]. Dibuka tanggal22 Desember 2006 dan merupakan stasiun metro paling utara diSaint Petersburg dan di[[Rusia]].
+
+Stasiun ini menggunakan pengaturan peron sisi yang hampir identik dengan 3 stasiun atas tanah lainnya di sistem ini: [[Kupchino (Saint Petersburg Metro)|Kupchino]], [[Rybatskoye (Saint Petersburg Metro)|Rybatskoye]]dan[[Devyatkino (St. Petersburg Metro)|Devyatkino]].
+
+==Pranala luar==
+{{refbegin}}
+* {{ru icon}} [http://metro-spb.nwd.ru/Stations/2/l2_ps.htm metro-spb.nwd.ru] - Station description and photographs.
+* [http://maps.google.com/maps?f=q&hl=en&q=Saint+Petersburg,+Russia&ie=UTF8&z=17&ll=60.067474,30.330977&spn=0.002623,0.013561&t=k&om=1 Google maps] - Satellite image on the station
+{{refend}}
+
+[[Category:Stasiun Saint Petersburg Metro]]
+[[Category:Stasiun kereta yang dibuka tahun 2006]]

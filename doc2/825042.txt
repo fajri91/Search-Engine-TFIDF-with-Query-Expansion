@@ -1,0 +1,25 @@
+Berkas:Bykekmece Basketbol logo.png
+{{dari|en}}
+== Penjelasan ==
+{{logo fur
+| Article           = Bykekmece Basketbol
+| Use               = Infobox
+<!-- ADDITIONAL INFORMATION -->
+| Used for          = 
+| Owner             = 
+| Website           = 
+| History           = 
+| Commentary        =
+<!--OVERRIDE FIELDS -->
+| Description       = 
+| Source            = 
+| Portion           = 
+| Low_resolution    = 
+| Purpose           = <!--Must be specified if Use is not Infobox / Org / Brand / Product-->
+| Replaceability    = 
+| other_information = 
+}}
+Logo of Demir naat Bykekmece.
+
+== Lisensi ==
+{{Non-free logo}}

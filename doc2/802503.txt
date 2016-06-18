@@ -1,0 +1,2 @@
+Modul:Wikitext/doc
+[[Kategori:Metamodul Lua]]

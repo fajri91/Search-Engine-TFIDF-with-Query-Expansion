@@ -1,0 +1,32 @@
+Templat:Country data Australia/doc
+<includeonly>{{template doc page transcluded}}</includeonly><noinclude>{{template doc page viewed directly}}</noinclude>
+Templat <tt>Country_data</tt> juga tersedia untuk [[Negara bagian Australia]]:
+{| style="background-color:#ecfcf4"
+|-
+| [[Template:Country data Australian Capital Territory]] || {{flag|Australian Capital Territory}}
+|-
+| [[Template:Country data New South Wales]] || {{flag|New South Wales}}
+|-
+| [[Template:Country data Northern Territory]] || {{flag|Northern Territory}}
+|-
+| [[Template:Country data Queensland]] || {{flag|Queensland}}
+|-
+| [[Template:Country data South Australia]] || {{flag|South Australia}}
+|-
+| [[Template:Country data Tasmania]] || {{flag|Tasmania}}
+|-
+| [[Template:Country data Victoria]] || {{flag|Victoria}}
+|-
+| [[Template:Country data Western Australia]] || {{flag|Western Australia}}
+|}
+
+Dependensi Australia
+{| style="background-color:#ecfcf4"
+|-
+| [[Template:Country data Kepulauan Cocos (Keeling)]] || {{flag|Kepulauan Cocos (Keeling)}}
+|-
+| [[Template:Country data Pulau Natal]] || {{flag|Pulau Natal}}
+|-
+| [[Template:Country data Pulau Norfolk]] || {{flag|Pulau Norfolk}}
+|}<noinclude>
+[[Kategori:Templat data Australia| ]]</noinclude>

@@ -1,0 +1,14 @@
+Berkas:Peta Kecamatan Bandar Pasir Mandoge Kabupaten Asahan.png
+== {{int:filedesc}} ==
+{{Information
+| description    =
+Peta Kecamatan Bandar Pasir Mandoge Kabupaten Asahan (http://asahankab.bps.go.id/)
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Fairuse}}

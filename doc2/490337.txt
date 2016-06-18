@@ -1,0 +1,40 @@
+Templat:Bola emas Piala Dunia FIFA
+{{Navbox
+|name = Bola emas Piala Dunia FIFA
+|title= Bola emas pada [[Piala Dunia FIFA]]
+|state = {{{state|autocollapse}}}
+|listclass = hlist
+|titlestyle = background: gold;
+|groupstyle = background: gold;
+|belowstyle = background: gold;
+|group1 = Pemain terbaik
+|list1 = 
+* '''{{wc|1930}}:''' [[Jos Nasazzi|Nasazzi]] 
+* '''{{wc|1934}}:''' [[Giuseppe Meazza|Meazza]] 
+* '''{{wc|1938}}:''' [[Lenidas da Silva|Lenidas]] 
+* '''{{wc|1950}}:''' [[Zizinho]] 
+* '''{{wc|1954}}:''' [[Ferenc Pusks|Pusks]] 
+* '''{{wc|1958}}:''' [[Didi (pemain sepak bola)|Didi]] 
+* '''{{wc|1962}}:''' [[Garrincha]] 
+* '''{{wc|1966}}:''' [[Bobby Charlton|B. Charlton]] 
+* '''{{wc|1970}}:''' [[Pel]] 
+* '''{{wc|1974}}:''' [[Johan Cruijff|Cruijff]] 
+* '''{{wc|1978}}:''' [[Mario Kempes|Kempes]]
+
+|group2 = Bola emas
+|list2 = 
+* '''{{wc|1982}}:''' [[Paolo Rossi|Rossi]] 
+* '''{{wc|1986}}:''' [[Diego Maradona|Maradona]] 
+* '''{{wc|1990}}:''' [[Salvatore Schillaci|Schillaci]] 
+* '''{{wc|1994}}:''' [[Romrio]] 
+* '''{{wc|1998}}:''' [[Ronaldo]] 
+* '''{{wc|2002}}:''' [[Oliver Kahn|Kahn]] 
+* '''{{wc|2006}}:''' [[Zindine Zidane|Zidane]] 
+* '''{{wc|2010}}:''' [[Diego Forln|Forln]]
+* '''{{wc|2014}}:''' [[Lionel Messi|Messi]]
+
+|below = Bola emas mulai diberikan sejak {{wc|1982}}.
+}}<noinclude>
+{{collapsible option}}
+[[Kategori:Templat Piala Dunia FIFA]]
+</noinclude>

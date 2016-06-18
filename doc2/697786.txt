@@ -1,0 +1,11 @@
+Kategori:Artikel tak bertuan sejak Juli 2013
+{{daritemplat|yatim}}
+{{Kategori pemeliharaan
+ | toc     = none
+ | type    = artikel yang tak bertuan
+ | year    = 2013
+ | monthno = 7
+ | cat     = Artikel tak bertuan
+ | hidden  = y
+ | message = 
+}}

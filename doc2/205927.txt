@@ -1,0 +1,22 @@
+Portal:Tibet/Tokoh pilihan/Tampilan
+{{#if:{{{image}}}|<div style="float:center;margin-right:1em;margin-topL0.25em">[[Berkas:{{{image}}}|{{#if:{{{size}}}|{{{size|200px}}}|200px}}|center|{{{caption}}}]] </div>}}{{{text}}} 
+{| class="noprint" width="100%"  border="0" style="padding: 0; margin: 0; background-color:transparent"
+|-
+|<div style="text-align:left;">'''[[Portal:Tibet/Tokoh pilihan|...terdahulu]]'''</div>||
+ <div style="text-align:right;margin-right:10px;margin-bottom:4px;">
+'''[[{{{link}}}|Selengkapnya...]]'''
+ </div >
+|}<noinclude>
+
+== Templat tampilan ==
+<pre>
+{{Portal:Tibet/Tokoh pilihan/Tampilan
+  |image=
+  |caption=
+  |text=
+  |link=
+}}
+</pre>
+</noinclude><noinclude>
+[[Kategori:Portal:Tibet|{{SUBPAGENAME}}]]
+</noinclude>

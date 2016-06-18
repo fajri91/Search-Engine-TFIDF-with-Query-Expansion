@@ -1,0 +1,8 @@
+Templat:Progress line 3
+{{#ifexist:Category:{{{1|}}} from {{Months before now|{{{2|}}}}}|
+{{!}} [[:Category:{{{1}}} from {{Months before now|{{{2}}}}}|{{Months before now|{{{2}}}}}]]
+{{!}} align="right"{{!}}{{PAGESINCATEGORY:{{{1}}} from {{Months before now|{{{2}}}}}}}
+{{!}}-|{{#ifexpr:{{PAGESINCAT:{{{1|}}} from {{Months before now|{{{2|}}}}}}}|
+{{!}} [[:Category:{{{1}}} from {{Months before now|{{{2}}}}}|{{Months before now|{{{2}}}}}]]
+{{!}} align="right"{{!}}{{PAGESINCATEGORY:{{{1}}} from {{Months before now|{{{2}}}}}}}<!--[[Category:Wikipedia maintenance categories with missing months]]-->
+{{!}}-}}}}

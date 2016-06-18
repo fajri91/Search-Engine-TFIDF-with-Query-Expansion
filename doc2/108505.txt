@@ -1,0 +1,8 @@
+Mesin Moore
+Dalam [[teori komputasi]] sebagai prinsip dasar [[komputer]], '''mesin Moore''' adalah otomasi fase berhingga (''finite state automaton'') di mana keluarannya ditentukan hanya oleh fase saat itu (dan tidak terpengaruh oleh bagian masukan/input). Diagram fase (''state diagram'') dari mesin Moore memiliki sinyal keluaran untuk masing-masing fase. Hal ini berbeda dengan [[mesin Mealy]] yang mempunyai keluaran untuk tiap transisi.
+
+Nama '''Moore''' diambil dari "[[Edward F. Moore]]" seorang [[ilmuwan]] komputer dan perintis mesin-fase (''state-machine'') yang menulis karangan "Gedanken-experiments on Sequential Machines".
+
+{{komputer-stub}}
+
+[[Kategori:Model komputasi]]

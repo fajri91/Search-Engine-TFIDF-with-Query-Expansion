@@ -1,0 +1,20 @@
+Templat:Shalom
+{{BintangWiki|
+|nama          = <font color="cyan"><big>'''Shalom</big>'''</font>
+|border        = red
+|color         = blue
+|namaberkas    = Berkas:Shalom.gif
+|textstyle     = color:cyan;
+|pesan         = "'''Shalom - '''" </br><font color="yellow">'''Syalom - Salam Sejahtera!''' Hari ini adalah hari berkat, maka anda layak mendapat '''Bintang'''!
+|pesanpengguna = {{{1|}}}
+|ppstyle       = cyan
+|width         = {{{width|}}}
+}}<noinclude>
+
+==== Cara penggunaan ====
+<tt><nowiki>{{Shalom|Komentar Nama_pengguna Tanggal}}</nowiki></tt>.
+
+Contoh:<br />
+<nowiki>{{Shalom|Tuhan memberkati anda dan beserta keluarga! ~~~~}}</nowiki> (karena keterbatasan teknis, nama pengguna pemberi BintangWiki dan tanggal harus diisi manual di templat)
+[[Kategori:Templat BintangWiki|Indonesia]]
+</noinclude>

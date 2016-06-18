@@ -1,0 +1,29 @@
+Berkas:My Beloved Sister TV poster.jpeg
+{{dari|en}}
+==Penjelasan==
+
+{{Non-free use rationale poster
+| Article           = My Beloved Sister
+| Use               = Infobox
+| Media             = TV series
+<!-- ADDITIONAL INFORMATION -->
+| Name              = 
+| Distributor       = 
+| Publisher         = 
+| Graphic Artist    =
+| Type              = 
+| Website           = 
+| Owner             = 
+| Commentary        = 
+<!--OVERRIDE FIELDS -->
+| Description       = 
+| Source            = http://www.hancinema.net/korean_drama_My_Beloved_Sister-picture_30111.html
+| Portion           = 
+| Low resolution    = 
+| Purpose           = <!-- Must be specified if Use is not Infobox / Header / Section -->
+| Replaceability    = 
+| Other information = 
+}}
+
+==Lisensi==
+{{Non-free movie poster}}

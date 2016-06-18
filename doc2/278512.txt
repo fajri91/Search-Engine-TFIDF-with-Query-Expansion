@@ -1,0 +1,10 @@
+Wikipedia:Gambar pilihan/20 2010
+{{GP
+|gambar    = Hemispheric - Valencia, Spain - Jan 2007.jpg
+|deskripsi = L'Hemisfric, [[planetarium]] di kompleks museum [[Ciutat de les Arts i les Cincies]], [[Valencia]], [[Spanyol]].
+|asli      = 5.808  3.227, 4,43 MB
+|kredit    = [[:commons:User:Diliff|Diliff]]
+|izin      = {{GP-GNU|1.2}}, {{GP-CC|BY-SA-3.0}}, {{GP-CC|BY-2.5}}, 8 Januari 2007
+|sebelum   = UlvikfjordMountainsPanorama.jpg{{!}}Fyord
+|tahun     = 2010
+}}<noinclude>{{GPdoc|20 2010}}</noinclude>

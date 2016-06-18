@@ -1,0 +1,44 @@
+Mesin Utama Pesawat Ulang alik
+{{infobox rocket engine
+|image=Shuttle Main Engine Test Firing.jpg
+|image_size=250
+|image_alt=A rocket engine firing. A blue flame is projecting from a bell-shaped nozzle with several pipes wrapped around it. The top of the nozzle is attached to a complex collection of plumbing, with the whole assembly covered in steam and hanging from a ceiling-mounted attachment point. Various pieces of transient hardware are visible in the background.
+|caption=Space Shuttle Main Engine test firing.<br/><small>(The bright area at the bottom of the picture is a [[Mach disk]].)</small>
+|name=RS-25
+|country_of_origin={{USA}}
+|manufacturer=[[Rocketdyne]]
+|predecessor=[[:en:HG-3 (rocket engine)|HG-3]]
+|first_date=April 12, 1981 ([[STS-1]])
+|associated=[[Space Shuttle]]<br/>[[Space Launch System]]
+|type=liquid
+|fuel=[[Liquid hydrogen]]
+|oxidiser=[[Liquid oxygen]]
+|thrust(SL)={{convert|418000|lbf|kN|abbr=on|sigfig=3}}<ref name= "aerojet"/>
+|thrust(Vac)={{convert|512300|lbf|kN|abbr=on|sigfig=4|lk=on}}<ref name= "aerojet"/>
+|specific_impulse_vacuum={{convert|452.3|isp}}<ref name= "aerojet">Aerojet Rocketdyne, [https://www.rocket.com/rs-25-engine RS-25 Engine] (accessed July 22, 2014)</ref>
+|specific_impulse_sea_level={{convert|366|isp}}<ref name= "aerojet" />
+|chamber_pressure={{convert|2994|psi|MPa|abbr=on}}<ref name= "aerojet" />
+|cycle=[[Staged combustion cycle (rocket)|Staged combustion]]
+|nozzle_ratio=69:1 <ref name= "aerojet" />
+|length={{convert|168|in|m}}
+|diameter={{convert|96|in|m}}
+|dry_weight=<!-- {{convert|7,774|lb|kg}}{{cn|date=November 2013}} --><!-- no source supports the 7,774 lb number.  The Wade/Astronautics source suggests it as only 7004 lbs, but then not clear that it may not have been a larger mass in later engines -->
+|status=Inactive since [[STS-135]]
+|references=<ref name="P&WFS">{{cite web|url=http://www.pw.utc.com/products/pwr/assets/pwr_SSME.pdf|title=Space Shuttle Main Engine|publisher=Pratt & Whitney Rocketdyne|accessdate=November 23, 2011|year=2005|format=PDF}} {{dead link|date=January 2014}}</ref><ref name="EASSME">{{cite web|url=http://www.astronautix.com/engines/ssme.htm|title=SSME|first=Mark|last=Wade|publisher=Encyclopedia Astronautica|accessdate=October 27, 2011}}</ref>
+|notes=Data is for RS-25D at 109% throttle.
+}}
+'''RS-25''', atau dikenal sebagai '''Space Shuttle Main Engine (SSME)''' atau '''Mesin Utama Pesawat Ulang alik''', adalah sebuah [[mesin roket]] bahan bakar cair kriogenik yang digunakan pada Space Shuttle NASA dan direncanakan akan digunakan pada penggantinya, Space Launch System. Dibangun di Amerika Serikat oleh Rocketdyne, RS-25 membakar hidrogen cair cryogenic & propelan oksigen cair, dengan masing-masing mesin memproduksi 1.859 kN (418.000 lbf) daya dorong di lepas landas.
+
+== Referensi ==
+{{Reflist}}
+
+{{reflist|2}}
+
+
+{{Rocket Engines}}
+
+==External Links==
+{{Commons category|Space Shuttle main engines}}
+{{Include-NASA}}
+* [http://nasatech.net/ntSSMEPF_PAGE.html Spherical panoramas of RS-25D in SSME Processing Facility prior to shipping to Stennis Space Center]
+[[Kategori:Mesin roket]]

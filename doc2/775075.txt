@@ -1,0 +1,132 @@
+Piala Dunia Wanita FIFA 2015 Grup D
+Grup D [[Piala Dunia Wanita FIFA 2015]] terdiri dari [[Asosiasi Sepak Bola Amerika Serikat|Amerika Serikat]],[[Asosiasi Sepak Bola Australia|Australia]],[[Asosiasi Sepak Bola Swedia|Swedia]], dan [[Federasi Sepak Bola Nigeria|Nigeria]] Pertandingan ini diselenggarakan pada 8 - 16 Juni 2015.
+==Tim==
+{| class="wikitable sortable" style="text-align: left;"
+|-
+!width=180|Tim
+!width=100|Konfederasi
+!width=110|Ranking FIFA
+!width=180|Kehadiran Putaran Final
+!width=80|Kehadiran Terakhir
+|-
+|{{flagicon|USA}} [[Asosiasi Sepak Bola Amerika Serikat|Amerika Serikat]] || [[CONCACAF]] ||2 ||Ketujuh || [[Piala Dunia Wanita FIFA 2011|Edisi 2011]]
+|-
+|{{flagicon|AUS}} [[Asosiasi Sepak Bola Australia|Australia]] || [[AFC]] ||10 ||Keenam || [[Piala Dunia Wanita FIFA 2011|Edisi 2011]]
+|-
+|{{flagicon|SWE}} [[Asosiasi Sepak Bola Swedia|Swedia]] || [[UEFA]] ||5 ||Ketujuh || [[Piala Dunia Wanita FIFA 2011|Edisi 2011]]
+|-
+|{{flagicon|NGR}} [[Asosiasi Sepak Bola Nigeria|Nigeria]] || [[CAF]] ||32 ||Ketujuh || [[Piala Dunia Wanita FIFA 2011|Edisi 2011]]
+|}
+
+==Klasemen==
+{|class="infobox bordered"
+|-
+|width="30px" bgcolor="#ccffcc"| ||Melaju ke [[#Babak gugur|Babak Gugur]]
+|-
+|width="30px" bgcolor="#FFF8DC"| ||Melaju Ke [[#Babak gugur|Babak Gugur atau Tereliminasi]]
+|}
+* Seluruh Pertandingan dilaksanakan di [[Kanada]]
+* Waktu Menurut [[UTC-5]],[[UTC-6]], dan [[UTC-7]]
+{{PDW 2015 Grup D}}
+
+== Pertandingan ==
+{{Football box
+| date=8 Juni 2015
+| time=15:00 [[UTC-5]]
+| team1=[[Asosiasi Sepak Bola Swedia|Swedia]] {{flagicon|SWE}}
+| score=33
+| report=[http://www.fifa.com/womensworldcup/matches/round=268020/match=300269473/index.html Laporan]
+| team2={{flagicon|NGA}} [[Federasi Sepak Bola Nigeria|Nigeria]]
+| goals1=[[Desire Oparanozie]] {{goal|21|o.g.}}<br>[[Nilla Fischer]] {{goal|31}}<br>[[Linda Sembrant]] {{goal|60}}
+| goals2=[[Ngozi Okobi]] {{goal|50}}<br>[[Asisat Oshoala]] {{goal|53}}<br>[[Francisca Ordega]] {{goal|87}}
+| stadium=[[Stadion Winnipeg]], [[Winnipeg]] ([[Kanada]])
+| attendance=31,148
+|wasit= {{flagicon|URU}} [[Claudia Umpierrez]]
+|aw1= {{flagicon|URU}} [[Luciana Mascarana]]
+|aw2= {{flagicon|CHI}} [[Loreto Toloza]]
+|w4= {{flagicon|ZAM}} [[Gladys Lengwe]]
+}}
+
+{{Football box
+| date=8 Juni 2015
+| time=18:30 [[UTC-5]]
+| team1=[[Asosiasi Sepak Bola Amerika Serikat|Amerika Serikat]] {{flagicon|USA}} 
+| score=31
+| report=[http://www.fifa.com/womensworldcup/matches/round=268020/match=300269468/index.html#nosticky Laporan]
+| team2={{flagicon|AUS}} [[Asosiasi Sepak Bola Australia|Australia]]
+| goals1=[[Megan Rapinoe]] {{goal|12||78}} {{yel|64}}<br>[[Lauren Holiday]] {{yel|56}}<br>[[Christine Press]] {{goal|61}}
+| goals2=[[Lessa De Vana]] {{goal|27}}
+| stadium=[[Stadion Winnipeg]], [[Winnipeg]] ([[Kanada]])
+| attendance=31,148
+|wasit= {{flagicon|PRK}} [[Ri Hyang Ok]]
+|aw1= {{flagicon|PRK}} [[Hong Kum Nyo]]
+|aw2= {{flagicon|KOR}} [[Kim Kyoung Min]]
+|w4= {{flagicon|SIN}} [[Abirami Apbai Naidu]]
+}}
+----
+{{Football box
+| date=12 Juni 2015
+| time=16:00 [[UTC-5]]
+| team1=[[Asosiasi Sepak Bola Australia|Australia]] {{flagicon|AUS}} 
+| score=20
+| report=[http://www.fifa.com/womensworldcup/matches/round=268020/match=300269499/index.html Laporan]
+| team2={{flagicon|NGA}} [[Federasi Sepak Bola Nigeria|Nigeria]]
+| goals1=[[Kyah Simon|K. Simon]] {{goal|29||68}}
+| goals2=[[Evelyn Nwabouku]] {{yel|42}}{{br}}[[Josephine Chukwununye|J. Chukwununye]] {{yel|60}}
+| stadium=[[Investors Group Field|Winnipeg Stadium]], [[Winnipeg]]
+| attendance=32,716
+|wasit= {{flagicon|FRA}} [[Stephani Frappart]]
+|aw1= {{flagicon|FRA}} [[Manuela Nicolosi]]
+|aw2= {{flagicon|ESP}} [[Yolanda Parga]]
+|w4= {{flagicon|MEX}} [[Quetzalli Alvarado]]
+}}
+
+{{Football box
+| date=12 Juni 2015
+| time=19:00 [[UTC-5]]
+| team1=[[Asosiasi Sepak Bola Amerika Serikat|Amerika Serikat]] {{flagicon|USA}} 
+| score=00
+| report=[http://www.fifa.com/womensworldcup/matches/round=268020/match=300269500/report.html Laporan]
+| team2={{flagicon|SWE}} [[Asosiasi Sepak Bola Swedia|Swedia]]
+| goals1=
+| goals2=
+| stadium=[[Stadion Winnipeg]], [[Winnipeg]] ([[Kanada]])
+| attendance=32,716
+| referee={{flagicon|JPN}} [[Sachiko Yamagishi]]
+}}
+----
+{{Football box
+| date=16 Juni 2015
+| time=17:00 [[UTC7]]
+| team1=[[Federasi Sepak Bola Nigeria|Nigeria]] {{flagicon|NGA}}
+| score=Pertandingan 32
+| report=
+| team2={{flagicon|USA}} [[Asosiasi Sepak Bola Amerika Serikat|Amerika Serikat]]
+| goals1=
+| goals2=
+| stadium=[[BC Place]], [[Vancouver]]
+| attendance=
+| referee=
+}}
+
+{{Football box
+| date=16 Juni 2015
+| time=18:00 [[UTC-6]]
+| team1=[[Asosiasi Sepak Bola Australia|Australia]] {{flagicon|AUS}} 
+| score=Pertandingan 33
+| report=
+| team2={{flagicon|SWE}} [[Asosiasi Sepak Bola Swedia|Swedia]]
+| goals1=
+| goals2=
+| stadium=[[Stadion Commonwealth]], [[Edmonton]]
+| attendance=
+| referee=
+}}
+
+==Lihat Pula==
+* [[Piala Dunia Wanita FIFA]]
+* [[Piala Dunia Wanita FIFA 2015 Grup E]]
+
+==Referensi==
+
+[[Kategori:Piala Dunia Wanita FIFA 2015]]

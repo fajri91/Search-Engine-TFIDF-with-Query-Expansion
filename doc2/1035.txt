@@ -1,0 +1,567 @@
+Ranah Internet tingkat teratas
+'''Ranah Internet Tingkat Teratas''' ({{lang-en|'''Top Level Internet Domain''', '''TLD'''}}) merupakan rujukan kepada huruf-huruf terakhir setelah tanda titik dalam sebuah [[nama domain]]. Misalnya '''www.google.com''' memiliki domain teratas <code>[[.com]]</code> (atau <code>COM</code>, karena nama domain tidak mempermasalahkan huruf besar atau kecil).
+
+''[[Internet Assigned Numbers Authority]]'' (IANA) saat ini mengklasifikasikan Ranah Internet Tingkat Teratas ke dalam 3 jenis:
+* ''[[country code top-level domains]]'' (ccTLD)
+: Dipergunakan untuk kode [[negara]] atau [[wilayah dependensi]]. Terdiri dari 2 huruf, misalnya <code>[[.jp]]</code> untuk [[Jepang]].
+* ''[[Global Top-Level Domains]]'' (gTLD)
+: Dipergunakan oleh macam-macam organisasi (sebagai contoh, <tt>[[.com]]</tt> untuk organisasi komersial). Domain ini terdiri dari 3 huruf atau lebih. Sebagian besar gTLD tersedia untuk dapat digunakan secara luas, tetapi untuk alasan historis, <tt>[[.mil]]</tt> ([[militer Amerika Serikat]]) dan [[.gov]] ([[Pemerintahan Federal Amerika Serikat]]) dibatasi dan hanya dapat digunakan oleh kedua otoritas tersebut. Domain-domain dalam gTLD disubklasifikasikan ke dalam ranah yang disponsori (''[[sponsored top-level domains]]'' (sTLD)), misalnya .aero, .coop dan .museum, dan ranah yang tidak disponsori (''[[unsponsored top-level domains]]'' (uTLD)), misalnya .biz, .info, .name dan .pro.
+* ''[[infrastructure top-level domains]]''
+: Satu-satunya yang diterima adalah <tt>[[.arpa]]</tt>. Sementara domain <tt>[[.root]]</tt> ada tapi tanpa kejelasan mengenai untuk apa keberadaannya.
+
+=== TLD umum ===
+* [[.aero]]: industri pesawat terbang
+* [[.arpa]]: ''Address and Routing Parameter Area''
+* [[.biz]]: bisnis
+* [[.com]]: komersial
+* [[.coop]]: koperasi
+* [[.info]]: informasi
+* [[.int]]: internasional
+* [[.jobs]]: sumber daya manusia
+* [[.museum]]: museum
+* [[.name]]: nama perorangan
+* [[.net]]: jaringan
+* [[.org]]: organisasi
+* [[.pro]]: profesi
+* [[.travel]]: industri wisata
+* [[.tv]]: televisi
+
+=== TLD eksklusif Amerika Serikat ===
+* [[.edu]]: pendidikan (eksklusif untuk Departement Pendidikan Amerika Serikat)
+* [[.gov]]: pemerintah (eksklusif untuk pemerintah [[Amerika Serikat]])
+* [[.mil]]: militer (eksklusif untuk militer [[Amerika Serikat]])
+
+Walau demikian, nama ranah .edu digunakan pula dalam praktiknya untuk beberapa situs Indonesia.
+
+=== Beberapa nama ranah lokal ===
+* [[.go.id]]: untuk organisasi kepemerintahan di Indonesia
+* [[.mil.id]]: penggunaan secara khusus oleh militer Indonesia
+* [[.co.id]]: bagi perusahaan atau lembaga komersial Indonesia
+* [[.or.id]]: untuk organisasi nirlaba Indonesia
+* [[.web.id]]: didesignasi untuk badan informal maupun pribadi warga indonesia
+* [[.my.id]]: untuk badan informal maupun pribadi warga indonesia
+* [[.net.id]]: untuk organisasi / ranah umum untuk situs Internet Indonesia
+** [[.war.net.id]]: diperuntukkan [[warnet]] (warung Internet)
+* [[.sch.id]]: ranah khusus untuk lembaga sekolah di Indonesia
+* [[.ac.id]]: diperuntukkan bagi lembaga akademik (universitas, Akademi, Sekolah Tinggi) di Indonesia
+* [[desa.id]]: untuk situs Desa di Indonesia
+
+=== TLD negara ===
+{|class = "wikitable sortable"
+|-
+!TLD!!Negara
+|-
+|[[.ac|AC]]||[[Ascension]]
+|-
+|[[.ad|AD]]||[[Andorra]]
+|-
+|[[.ae|AE]]||[[Uni Emirat Arab]]
+|-
+|[[.af|AF]]||[[Afganistan]]
+|-
+|[[.ag|AG]]||[[Antigua dan Barbuda]]
+|-
+|[[.ai|AI]]||[[Anguilla]]
+|-
+|[[.al|AL]]||[[Albania]]
+|-
+|[[.am|AM]]||[[Armenia]]
+|-
+|[[.an|AN]]||[[Antillen Belanda]]
+|-
+|[[.ao|AO]]||[[Angola]]
+|-
+|[[.aq|AQ]]||[[Antartika]] (semua yang berada di bawah lintang 60S)
+|-
+|[[.ar|AR]]||[[Argentina]]
+|-
+|[[.as|AS]]||[[Samoa Amerika]]
+|-
+|[[.at|AT]]||[[Austria]]
+|-
+|[[.au|AU]]||[[Australia]] 
+|-
+|[[.aw|AW]]||[[Aruba]]
+|-
+|[[.ax|AX]]||[[land]]
+|-
+|[[.az|AZ]]||[[Azerbaijan]]
+|-
+|[[.ba|BA]]||[[Bosnia Herzegovina]]
+|-
+|[[.bb|BB]]||[[Barbados]]
+|-
+|[[.bd|BD]]||[[Bangladesh]]
+|-
+|[[.be|BE]]||[[Belgia]]
+|-
+|[[.bf|BF]]||[[Burkina Faso]]
+|-
+|[[.bg|BG]]||[[Bulgaria]]
+|-
+|[[.bh|BH]]||[[Bahrain]]
+|-
+|[[.bi|BI]]||[[Burundi]]
+|-
+|[[.bj|BJ]]||[[Benin]]
+|-
+|[[.bm|BM]]||[[Bermuda]]
+|-
+|[[.bn|BN]]||[[Brunei]]
+|-
+|[[.bo|BO]]||[[Bolivia]]
+|-
+|[[.br|BR]]||[[Brasil]]
+|-
+|[[.bs|BS]]||[[Bahama]]
+|-
+|[[.bt|BT]]||[[Bhutan]]
+|-
+|[[.bv|BV]]||[[Pulau Bouvet]]
+|-
+|[[.bw|BW]]||[[Botswana]]
+|-
+|[[.by|BY]]||[[Belarus]]
+|-
+|[[.bz|BZ]]||[[Belize]]
+|-
+|[[.ca|CA]]||[[Kanada]]
+|-
+|[[.cc|CC]]||[[Kepulauan Cocos]]
+|-
+|[[.cd|CD]]||[[Republik Demokrasi Kongo]] (d/h [[Zaire]])
+|-
+|[[.cf|CF]]||[[Republik Afrika Tengah]]
+|-
+|[[.cg|CG]]||[[Republik Kongo]]
+|-
+|[[.ch|CH]]||[[Swiss]] (''Confoederatio Helvetica'')
+|-
+|[[.ci|CI]]||[[Pantai Gading]]
+|-
+|[[.ck|CK]]||[[Kepulauan Cook]]
+|-
+|[[.cl|CL]]||[[Chili]]
+|-
+|[[.cm|CM]]||[[Kamerun]]
+|-
+|[[.cn|CN]]||[[Tiongkok]]
+|-
+|[[.co|CO]]||[[Kolombia]]
+|-
+|[[.cr|CR]]||[[Kosta Rika]]
+|-
+|[[.cs|CS]]||[[Serbia Montenegro]]
+|-
+|[[.cu|CU]]||[[Kuba]]
+|-
+|[[.cv|CV]]||[[Tanjung Verde]]
+|-
+|[[.cx|CX]]||[[Pulau Natal]]
+|-
+|[[.cy|CY]]||[[Siprus]]
+|-
+|[[.cz|CZ]]||[[Republik Ceko]]
+|-
+|[[.de|DE]]||[[Jerman]]
+|-
+|[[.dj|DJ]]||[[Djibouti]]
+|-
+|[[.dk|DK]]||[[Denmark]]
+|-
+|[[.dm|DM]]||[[Dominika]]
+|-
+|[[.do|DO]]||[[Republik Dominika]]
+|-
+|[[.dz|DZ]]||[[Aljazair]]
+|-
+|[[.ec|EC]]||[[Ekuador]]
+|-
+|[[.ee|EE]]||[[Estonia]]
+|-
+|[[.eg|EG]]||[[Mesir]]
+|-
+|[[.eh|EH]]||[[Sahara Barat]]
+|-
+|[[.er|ER]]||[[Eritrea]]
+|-
+|[[.es|ES]]||[[Spanyol]] (''Espaa'')
+|-
+|[[.et|ET]]||[[Ethiopia]]
+|-
+|[[.eu|EU]]||[[Uni Eropa]]
+|-
+|[[.fi|FI]]||[[Finlandia]]
+|-
+|[[.fj|FJ]]||[[Fiji]]
+|-
+|[[.fk|FK]]||[[Kepulauan Falkland]]
+|-
+|[[.fm|FM]]||[[Mikronesia]]
+|-
+|[[.fo|FO]]||[[Kepulauan Faroe]]
+|-
+|[[.fr|FR]]||[[Perancis]]
+|-
+|[[.fx|FX]]||[[Perancis Metropolitan]]
+|-
+|[[.ga|GA]]||[[Gabon]]
+|-
+|[[.gb|GB]]||[[Britania Raya]] (pada umumnya .uk yang dipakai)
+|-
+|[[.gd|GD]]||[[Grenada]]
+|-
+|[[.ge|GE]]||[[Georgia]]
+|-
+|[[.gf|GF]]||[[Guyana Perancis]]
+|-
+|[[.gg|GG]]||[[Guernsey]]
+|-
+|[[.gh|GH]]||[[Ghana]]
+|-
+|[[.gi|GI]]||[[Gibraltar]]
+|-
+|[[.gl|GL]]||[[Greenland]]
+|-
+|[[.gm|GM]]||[[Gambia]]
+|-
+|[[.gn|GN]]||[[Guinea]]
+|-
+|[[.gp|GP]]||[[Guadeloupe]]
+|-
+|[[.gq|GQ]]||[[Guinea Ekuatorial]]
+|-
+|[[.gr|GR]]||[[Yunani]]
+|-
+|[[.gs|GS]]||[[Georgia Selatan dan Kepulauan Sandwich Selatan]]
+|-
+|[[.gt|GT]]||[[Guatemala]]
+|-
+|[[.gu|GU]]||[[Guam]]
+|-
+|[[.gw|GW]]||[[Guinea-Bissau]]
+|-
+|[[.gy|GY]]||[[Guyana]]
+|-
+|[[.hk|HK]]||[[Hong Kong]]
+|-
+|[[.hm|HM]]||[[Pulau Heard dan Kepulauan McDonald]]
+|-
+|[[.hn|HN]]||[[Honduras]]
+|-
+|[[.hr|HR]]||[[Kroasia]] (Hrvatska)
+|-
+|[[.ht|HT]]||[[Haiti]]
+|-
+|[[.hu|HU]]||[[Hungaria]]
+|-
+|[[.id|ID]]||[[Indonesia]]
+|-
+|[[.ie|IE]]||[[Irlandia]]
+|-
+|[[.il|IL]]||[[Israel]]
+|-
+|[[.im|IM]]||[[Isle of Man]]
+|-
+|[[.in|IN]]||[[India]]
+|-
+|[[.io|IO]]||[[Wilayah Samudra Hindia Britania]]
+|-
+|[[.iq|IQ]]||[[Irak]]
+|-
+|[[.ir|IR]]||[[Iran]]
+|-
+|[[.is|IS]]||[[Islandia]]
+|-
+|[[.it|IT]]||[[Italia]]
+|-
+|[[.je|JE]]||[[Jersey]]
+|-
+|[[.jm|JM]]||[[Jamaika]]
+|-
+|[[.jo|JO]]||[[Yordania]]
+|-
+|[[.jp|JP]]||[[Jepang]]
+|-
+|[[.ke|KE]]||[[Kenya]]
+|-
+|[[.kg|KG]]||[[Kirgizistan]]
+|-
+|[[.kh|KH]]||[[Kamboja]]
+|-
+|[[.ki|KI]]||[[Kiribati]]
+|-
+|[[.km|KM]]||[[Komoros]]
+|-
+|[[.kn|KN]]||[[Saint Kitts dan Nevis]]
+|-
+|[[.kp|KP]]||[[Korea Utara]]
+|-
+|[[.kr|KR]]||[[Korea Selatan]]
+|-
+|[[.kw|KW]]||[[Kuwait]]
+|-
+|[[.ky|KY]]||[[Kepulauan Cayman]]
+|-
+|[[.kz|KZ]]||[[Kazakhstan]]
+|-
+|[[.la|LA]]||[[Laos]]
+|-
+|[[.lb|LB]]||[[Lebanon]]
+|-
+|[[.lc|LC]]||[[Saint Lucia]]
+|-
+|[[.li|LI]]||[[Liechtenstein]]
+|-
+|[[.lk|LK]]||[[Sri Lanka]]
+|-
+|[[.lr|LR]]||[[Liberia]]
+|-
+|[[.ls|LS]]||[[Lesotho]]
+|-
+|[[.lt|LT]]||[[Lithuania]]
+|-
+|[[.lu|LU]]||[[Luksemburg]]
+|-
+|[[.lv|LV]]||[[Latvia]]
+|-
+|[[.ly|LY]]||[[Libya]]
+|-
+|[[.ma|MA]]||[[Maroko]]
+|-
+|[[.mc|MC]]||[[Monako]]
+|-
+|[[.md|MD]]||[[Moldova]]
+|-
+|[[.me|ME]]||[[Montenegro]]
+|-
+|[[.mg|MG]]||[[Madagaskar]]
+|-
+|[[.mh|MH]]||[[Kepulauan Marshall]]
+|-
+|[[.mk|MK]]||[[Republik Makedonia]]
+|-
+|[[.ml|ML]]||[[Mali]]
+|-
+|[[.mm|MM]]||[[Myanmar]]
+|-
+|[[.mn|MN]]||[[Mongolia]]
+|-
+|[[.mo|MO]]||[[Makau]]
+|-
+|[[.mp|MP]]||[[Kepulauan Mariana Utara]]
+|-
+|[[.mq|MQ]]||[[Martinique]]
+|-
+|[[.mr|MR]]||[[Mauritania]]
+|-
+|[[.ms|MS]]||[[Montserrat]]
+|-
+|[[.mt|MT]]||[[Malta]]
+|-
+|[[.mu|MU]]||[[Mauritius]]
+|-
+|[[.mv|MV]]||[[Maladewa]]
+|-
+|[[.mw|MW]]||[[Malawi]]
+|-
+|[[.mx|MX]]||[[Meksiko]]
+|-
+|[[.my|MY]]||[[Malaysia]]
+|-
+|[[.mz|MZ]]||[[Mozambik]]
+|-
+|[[.na|NA]]||[[Namibia]]
+|-
+|[[.nc|NC]]||[[Kaledonia Baru]]
+|-
+|[[.ne|NE]]||[[Niger]]
+|-
+|[[.nf|NF]]||[[Pulau Norfolk]]
+|-
+|[[.ng|NG]]||[[Nigeria]]
+|-
+|[[.ni|NI]]||[[Nikaragua]]
+|-
+|[[.nl|NL]]||[[Belanda]]
+|-
+|[[.no|NO]]||[[Norwegia]]
+|-
+|[[.np|NP]]||[[Nepal]]
+|-
+|[[.nr|NR]]||[[Nauru]]
+|-
+|[[.nu|NU]]||[[Niue]]
+|-
+|[[.nz|NZ]]||[[Selandia Baru]]
+|-
+|[[.om|OM]]||[[Oman]]
+|-
+|[[.pa|PA]]||[[Panama]]
+|-
+|[[.pe|PE]]||[[Peru]]
+|-
+|[[.pf|PF]]||[[Polinesia Perancis]] (dengan [[Pulau Clipperton]])
+|-
+|[[.pg|PG]]||[[Papua Nugini]]
+|-
+|[[.ph|PH]]||[[Filipina]]
+|-
+|[[.pk|PK]]||[[Pakistan]]
+|-
+|[[.pl|PL]]||[[Polandia]]
+|-
+|[[.pm|PM]]||[[Saint-Pierre dan Miquelon]]
+|-
+|[[.pn|PN]]||[[Kepulauan Pitcairn]]
+|-
+|[[.pr|PR]]||[[Puerto Rico]]
+|-
+|[[.ps|PS]]||Wilayah Palestina ([[Tepi Barat]] dan [[Jalur Gaza]])
+|-
+|[[.pt|PT]]||[[Portugal]]
+|-
+|[[.pw|PW]]||[[Palau]]
+|-
+|[[.py|PY]]||[[Paraguay]]
+|-
+|[[.qa|QA]]||[[Qatar]]
+|-
+|[[.re|RE]]||[[Runion]]
+|-
+|[[.ro|RO]]||[[Rumania]]
+|-
+|[[.rs|RS]]||[[Republik Serbia]]
+|-
+|[[.ru|RU]],[[.su|SU]]||[[Rusia]]
+|-
+|[[.rw|RW]]||[[Rwanda]]
+|-
+|[[.sa|SA]]||[[Arab Saudi]]
+|-
+|[[.sb|SB]]||[[Kepulauan Solomon]]
+|-
+|[[.sc|SC]]||[[Seychelles]]
+|-
+|[[.sd|SD]]||[[Sudan]]
+|-
+|[[.se|SE]]||[[Swedia]]
+|-
+|[[.sg|SG]]||[[Singapura]]
+|-
+|[[.sh|SH]]||[[Saint Helena]]
+|-
+|[[.si|SI]]||[[Slovenia]]
+|-
+|[[.sj|SJ]]||Kepulauan [[Svalbard]] dan [[Jan Mayen]]
+|-
+|[[.sk|SK]]||[[Slovakia]]
+|-
+|[[.sl|SL]]||[[Sierra Leone]]
+|-
+|[[.sm|SM]]||[[San Marino]]
+|-
+|[[.sn|SN]]||[[Senegal]]
+|-
+|[[.so|SO]]||[[Somalia]]
+|-
+|[[.sr|SR]]||[[Suriname]]
+|-
+|[[.st|ST]]||[[So Tom dan Prncipe]]
+|-
+|[[.su|SU]]||Bekas [[Uni Soviet]] (masih digunakan)
+|-
+|[[.sv|SV]]||[[El Salvador]]
+|-
+|[[.sy|SY]]||[[Syria]]
+|-
+|[[.sz|SZ]]||[[Swaziland]]
+|-
+|[[.tc|TC]]||[[Kepulauan Turks dan Caicos]]
+|-
+|[[.td|TD]]||[[Chad]]
+|-
+|[[.tf|TF]]||[[Daratan Selatan dan Antarktika Perancis]]
+|-
+|[[.tg|TG]]||[[Togo]]
+|-
+|[[.th|TH]]||[[Thailand]]
+|-
+|[[.tj|TJ]]||[[Tajikistan]]
+|-
+|[[.tk|TK]]||[[Tokelau]]
+|-
+|[[.tl|TL]]||[[Timor Leste]]
+|-
+|[[.tm|TM]]||[[Turkmenistan]]
+|-
+|[[.tn|TN]]||[[Tunisia]]
+|-
+|[[.to|TO]]||[[Tonga]]
+|-
+|[[.tp|TP]]||[[Timor Leste]] (diganti ke TL)
+|-
+|[[.tr|TR]]||[[Turki]]
+|-
+|[[.tt|TT]]||[[Trinidad dan Tobago]]
+|-
+|[[.tv|TV]]||[[Tuvalu]]
+|-
+|[[.tw|TW]]||[[Taiwan]]
+|-
+|[[.tz|TZ]]||[[Tanzania]]
+|-
+|[[.ua|UA]]||[[Ukraina]]
+|-
+|[[.ug|UG]]||[[Uganda]]
+|-
+|[[.uk|UK]]||[[Britania Raya]]
+|-
+|[[.um|UM]]||[[Kepulauan Terluar Kecil Amerika Serikat]]
+|-
+|[[.us|US]]||[[Amerika Serikat]]
+|-
+|[[.uy|UY]]||[[Uruguay]]
+|-
+|[[.uz|UZ]]||[[Uzbekistan]]
+|-
+|[[.va|VA]]||[[Vatikan]]
+|-
+|[[.vc|VC]]||[[Saint Vincent dan Grenadine]]
+|-
+|[[.ve|VE]]||[[Venezuela]]
+|-
+|[[.vg|VG]]||[[Kepulauan Virgin Britania Raya]]
+|-
+|[[.vi|VI]]||[[Kepulauan Virgin Amerika Serikat]]
+|-
+|[[.vn|VN]]||[[Vietnam]]
+|-
+|[[.vu|VU]]||[[Vanuatu]]
+|-
+|[[.wf|WF]]||[[Wallis dan Futuna]]
+|-
+|[[.ws|WS]]||[[Samoa]] (d/h Samoa Barat)
+|-
+|[[.ye|YE]]||[[Yaman]]
+|-
+|[[.yt|YT]]||[[Mayotte]]
+|-
+|[[.yu|YU]]||[[Yugoslavia]] (sekarang [[Serbia Montenegro]]; kode berubah menjadi CS)
+|-
+|[[.za|ZA]]||[[Afrika Selatan]] (Zuid Afrika)
+|-
+|[[.zm|ZM]]||[[Zambia]]
+|-
+|[[.zw|ZW]]||[[Zimbabwe]]
+|}
+
+== Pranala luar ==
+* {{id}} Pendaftaran nama ranah Indonesia [https://register.net.id/ Registrasi ranah .id]
+* {{en}} Informasi IANA tentang TLD [http://www.iana.org/domain-names.htm http://www.iana.org/domain-names.htm]
+* {{en}} Survei Domain Internet memberikan kita gambaran mengenai seberapa sering sebuah TLD digunakan: [http://www.isc.org/ops/ds/reports/2004-01/dist-bynum.php http://www.isc.org/ops/ds/reports/2004-01/dist-bynum.php]
+
+{{CcTLD}}
+
+[[Kategori:Ranah internet tingkat teratas]]
+[[Kategori:Daftar negara]]

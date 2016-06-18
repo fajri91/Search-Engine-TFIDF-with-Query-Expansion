@@ -1,0 +1,11 @@
+Templat:Tl
+{{[[Templat:{{{1}}}|{{{1}}}]]}}<noinclude>{{Templat beresiko tinggi}}
+
+====Contoh pemakaian====
+<tt><nowiki>{{tl|hapus}}</nowiki></tt> menghasilkan {{tl|hapus}}
+
+====Lihat pula====
+* {{tl|tlp}} - Untuk pemakaian yang membutuhkan parameter.
+
+[[Kategori:Templat berisiko tinggi]]
+[[Kategori:Templat pautan|{{PAGENAME}}]]</noinclude>

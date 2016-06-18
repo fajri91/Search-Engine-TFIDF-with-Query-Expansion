@@ -1,0 +1,26 @@
+720p
+[[Image:Vector Video Standards5.svg|thumb|Grafik ini menunjukkan paling [[Daftar resolusi umum|resolusi layar umum]], 720p menjadi salah satu format 16:9 yang ditampilkan dalam warna hijau gelap.]]
+'''720p''' (alias HD) adalah format sinyal HDTV progresif dengan 720 garis horizontal dan aspek rasio (AR) [[16:9]] ([[1,78:1]]). Semua standar penyiaran HDTV besar (seperti SMPTE 292M) termasuk format 720p yang memiliki resolusi 1280x720, namun, ada format lain, termasuk Playback [[HDV]] dan [[AVCHD]] untuk [[camcorder]], yang menggunakan gambar 720p dengan resolusi [[HDTV]] standar.
+
+Jumlah'' 720'' singkatan dari 720 horisontal [[garis scan]] gambar [[resolusi layar]] (juga dikenal sebagai 720 piksel vertikal), sedangkan huruf'' p'' singkatan dari [[progressive scan]] (yaitu non-[[Interlace video|interlace]]).<ref>{{Cite web|url=http://www.afterdawn.com/glossary/term.cfm/720p | title=720p - AfterDawn: Glossary of technology terms & acronyms}}</ref> Ketika disiarkan pada 60{{#tag:ref|Hal ini sering sebenarnya disiarkan di 60/1.001 frame/detik, yang kira-kira 59.94.<ref>{{Cite web| url = http://www.tvtechnology.com/article/60026 | title = Will the End of NTSC Be the End of 59.94? | publisher = TVTechnology: Will the End of NTSC Be the End of 59.94? | date = 2008-01-09 | accessdate = 2010-10-08 | first = Randy | last = Hoffner
+}}</ref>|group=note}} frame per detik, 720p menampilkan temporal (gerak) resolusi tertinggi yang mungkin di bawah standar [[Standar ATSC|ATSC]] dan [[Digital Video Broadcasting|DVB]]. Istilah ini mengasumsikan [[widescreen]] [[rasio aspek (gambar)|rasio aspek]] dari [[16:9]], sehingga menghasilkan resolusi 1280[[pixel|px]]  720px (0,9 [[pixel#Megapiksel|megapiksel]]).
+
+== Catatan ==
+{{Reflist | group=note}}
+
+== Lihat pula ==
+{{Portal|Televisi}}
+* [[Daftar resolusi umum]]
+* [[Ultra-high-definition television|4320p]], [[2160p]], [[1080p]], [[1080i]], 720p, [[576p]], [[576i]], [[480p]], [[480i]], [[360p]], [[240p]]
+* [[Televisi resolusi tinggi]] (HDTV)
+* [[Televisi resolusi rendah]]
+* [[Resolusi tinggi]]
+* [[Layar plasma]]
+
+== Referensi ==
+{{Reflist}}
+
+==Pranala luar==
+* [http://tech.ebu.ch/docs/techreports/tr005.pdf EBU Technical paper on HDTV formats]
+
+[[Category:Format video]]

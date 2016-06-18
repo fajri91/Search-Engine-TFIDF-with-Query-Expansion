@@ -1,0 +1,101 @@
+Lrrach (distrik)
+{| cellpadding="2" style="float: right; width: 307px; background: #e3e3e3; margin-left: 1em; border-spacing: 1px;"
+! Lambang
+! Peta
+|- style="background: #ffffff; text-align: center;"
+| style="width: 145px;" | [[Berkas:Wappen Landkreis Loerrach.svg|140px|Lambang Lrrach]]
+| style="width: 145px;" | [[Berkas:Lage des Landkreises Loerrach in Deutschland.png|140px|Lokasi Lrrach di Jerman]]
+|-
+! colspan="2" | Data dasar
+|---- bgcolor="#FFFFFF"
+| [[Negara bagian]]: || [[Baden-Wrttemberg]]
+|---- bgcolor="#FFFFFF"
+| ''[[Regierungsbezirk]]'': || [[Regierungsbezirk Freiburg|Freiburg]]
+|---- bgcolor="#FFFFFF"
+| ''[[Regionalverband|Region]]'': || [[Regionalverband Hochrhein-Bodensee|Hochrhein-Bodensee]]
+|---- bgcolor="#FFFFFF"
+| [[Ibu kota]]: || [[Lrrach]]
+|---- bgcolor="#FFFFFF"
+| [[Wilayah]]: || 806,81 [[Kilometer persegi|km]]
+|---- bgcolor="#FFFFFF"
+| [[Penduduk]]: || 220.834 <small>''(30 Juni 2005)''</small>
+|---- bgcolor="#FFFFFF"
+| [[Kepadatan penduduk]]: || 274 jiwa/km
+|---- bgcolor="#FFFFFF"
+| Pelat nomor kendaraan bermotor: || L
+|---- bgcolor="#FFFFFF"
+| Pembagian administratif: || 42 ''[[Gemeinde]]n'' 
+|---- bgcolor="#FFFFFF"
+| Alamat kantor bupati: || Palmstrae 3{{br}}79539 Lrrach
+|---- bgcolor="#FFFFFF"
+| Situs web resmi: || [http://www.loerrach-landkreis.de/ www.loerrach-landkreis.de]
+|---- bgcolor="#FFFFFF"
+| Alamat e-mail: || [mailto:post@loerrach-landkreis.de post@loerrach-landkreis.de] 
+|-
+! colspan="2" | Politik
+|- style="background: #ffffff;"
+| [[Bupati]]: || [[Walter Schneider]]
+|-
+! colspan="2" | Peta
+|---- bgcolor="#FFFFFF"
+| colspan="2" align=center | [[Berkas:Baden_wuerttemberg_loe.png]]
+|}
+
+'''Lrrach''' adalah suatu distrik (''Landkreis'') negara bagian [[Baden-Wrttemberg]] yang terletak di bagian pojok barat daya. Lrrach juga berbatasan dengan ''[[landkreis]]'' [[Breisgau-Hochschwarzwald]] dan [[Waldshut]]. Di barat berbatasan dengan [[departemen di Perancis|departemen]] [[Haut-Rhin]] di [[Perancis]] dan di selatan dengan [[Swiss]] ([[Kanton Aargau]], [[Basel-Kota]] dan [[Basel-Negeri]]).
+
+== Kota dan kotamadya ==
+{|
+! width=33% align=left|Kota
+! width=33% align=left|Kotamadya
+|- valign=top
+||
+# [[Kandern]]
+# [[Lrrach]]
+# [[Rheinfelden, Jerman|Rheinfelden]]
+# [[Schnau im Schwarzwald]]
+# [[Schopfheim]]
+# [[Todtnau]]
+# [[Weil am Rhein]]
+# [[Zell im Wiesental]]
+||
+# [[Aitern]]
+# [[Bad Bellingen]]
+# [[Binzen]]
+# [[Bllen]]
+# [[Efringen-Kirchen]]
+# [[Eimeldingen]]
+# [[Fischingen, Lrrach|Fischingen]]
+# [[Frhnd]]
+# [[Grenzach-Wyhlen]]
+# [[Hg-Ehrsberg]]
+# [[Hasel]]
+# [[Hausen im Wiesental]]
+# [[Inzlingen]]
+# [[Kleines Wiesental]]
+||
+<ol start=15>
+<li>[[Malsburg-Marzell]]
+<li>[[Maulburg]]
+<li>[[Rmmingen]]
+<li>[[Schallbach]]
+<li>[[Schliengen]]
+<li>[[Schnenberg, Baden-Wrttemberg|Schnenberg]]
+<li>[[Schwrstadt]]
+<li>[[Steinen, Baden-Wrttemberg|Steinen]]
+<li>[[Tunau]]
+<li>[[Utzenfeld]]
+<li>[[Wembach]]
+<li>[[Wieden, Baden-Wrttemberg|Wieden]]
+<li>[[Wittlingen]]
+</ol>
+|}
+
+{{Cities and towns in Lrrach (district)}}
+{{Baden-Wrttemberg}}
+
+[[Kategori:Baden-Wrttemberg]]
+[[Kategori:Distrik di Baden-Wrttemberg]]
+[[Kategori:Distrik di Jerman]]
+
+
+{{jerman-geo-stub}}

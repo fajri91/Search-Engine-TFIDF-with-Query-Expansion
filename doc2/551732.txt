@@ -1,0 +1,43 @@
+Teknik lalu lintas
+[[Image:Makati intersection.jpg|thumb|right|Persilangan yang rumit dengan banyak jalur kendaraan, jalur sepeda, dan jalur pejalan kaki seperti ini membutuhkan pengaturan menggunakan ilmu teknik lalu lintas]]
+
+'''Teknik lalu lintas''' adalah cabang ilmu [[teknik sipil]] yang memanfaatkan ilmu [[teknik]] untuk keamanan dan efisiensi pergerakan dan [[transportasi]] barang dan benda di jalan raya. Fokus utama adalah keamanan dan efisiensi [[debit lalu lintas]], geometri [[jalan]], [[trotoar]], [[penyebrangan]], [[jalur sepeda]], [[lampu lalu lintas]], dan sebagainya. Teknik lalu lintas berhubungan dengan bagian fungsional dari sistem transportasi. 
+
+Tipikal proyek teknik lalu lintas terkait dengan desain alat kendali lalu lintas dan modifikasinya sesuai dengan kebutuhan lalu lintas terkini. Teknik lalu lintas juga terkait dengan investigasi jalan yang menjadi lokasi [[kecelakaan]] lalu lintas berkali-kali. Pengaturan debit lalu lintas, seperti pengubahan jalur, sementara maupun permanen, juga dilakukan di dalam teknik lalu lintas dengan berbagai pertimbangan seperti adanya konstruksi atau terkait dengan rencana pengembangan daerah pemukiman atau komersial baru. Pengaturan lalu lintas secara otomatis banyak membutuhkan ilmu dari bidang keteknikan lain seperti [[teknik komputer]] dan [[teknik listrik]]. 
+
+Di dalam memecahkan permasalahan lalu lintas, para pakar teknik lalu lintas perlu mengenali permasalahan yang terjadi dengan mengumpulkan informasi geometrik [[jalan]], besarnya arus lalu lintas, [[kecepatan]] lalu lintas, hambatan/tundaan lalu lintas, data [[kecelakaan lalu lintas]]. Seluruh data yang dikumpulkan selanjutnya dianalisis untuk kemudian direncanakan usulan perbaikan geometrik, pembangunan fasilitas pengaman jalan, pemasangan [[rambu lalu lintas]], [[marka jalan]] atau melakukan pembatasan gerakan lalu lintas tertentu. 
+
+Perbaikan geometrik dapat berupa pelebaran jalan, perubahan radius tikung, pembangunan pulau-pulau lalu lintas, mengurangi tanjakan, membangun jalur rangkak pada tanjakan yang tinggi, memberikan prioritas bagi angkutan umum seperti [[Busway]] dan berbagai langkah lainnya. 
+
+Perbaikan fasilitas transportasi secara periodik pernah menjadi perhatian utama dari teknik sipil dalam menjaga lalu lintas, namun kini dengan penggunaan [[sensor]] dan [[program komputer]] yang mengukur debit lalu lintas (jumlah maupun massa kendaraan), usia pakai fasilitas transportasi bisa ditentukan sehingga perawatan bisa dilakukan tepat waktu. 
+
+== Lihat pula ==
+* [[Marka jalan]]
+* [[Rambu lalu lintas]]
+* [[Pita penggaduh]]
+* [[Lampu lalu lintas]]
+* [[Persimpangan]]
+* [[Bundaran lalu lintas]]
+* [[Pulau jalan]]
+* [[Median jalan]]
+* [[Lalu lintas]]
+* [[Pelambatan lalu lintas]]
+* [[Trotoar]]
+* [[Zebra cross]]
+* [[Busway]]
+* [[Parkir]]
+
+== Pranala luar ==
+* [http://www.azdot.gov/Highways/Traffic/Trafeng.asp Traffic Engineering - What - Why - How]
+* [http://brgov.com/DEPT/DPW/traffic/ Traffic Engineering]
+
+== Bahan bacaan terkait ==
+* [http://www.clrp.cornell.edu/workshops/pdf/road_safety_fundamentals-09-09-web.pdf Road Safety Fundamentals]. Cornell Local Roads Program. Ithaca, NY. 
+* Homburger, Kell and Perkins, ''Fundamentals of Traffic Engineering, 13th Edition'', Institute of Transportation Studies, University of California (Berkeley [http://www.its.berkeley.edu/publications/]), 1992.
+* Das, Shantanu and Levinson, D. (2004) A Queuing and Statistical Analysis of Freeway Bottleneck Formation. ''ASCE Journal of Transportation Engineering'' Vol. 130, No. 6, November/December 2004, pp.&nbsp;787795
+{{transportasi-stub}}
+{{teknologi}}
+[[Kategori:lalu lintas]]
+[[Kategori:transportasi]]
+[[kategori:teknik]]
+[[Kategori:teknik sipil]]

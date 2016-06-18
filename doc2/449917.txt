@@ -1,0 +1,65 @@
+Yuri Zhirkov
+{{Infobox football biography
+|playername           = Yuri irkov<br /><small> </small>
+|image                = [[Berkas:Yuri Zhirkov.png|250px]]
+|fullname             = Yuri Valentinovich Zhirkov<ref name="Hugman2010-11">{{cite book|last=Hugman|first=Barry J. (ed)|title=The PFA Footballers' Who's Who 201011|publisher=Mainstream|year=2010|page=452|isbn=9781845966010 }}</ref>
+|dateofbirth          = {{birth date and age|1983|8|20|df=y}}
+|cityofbirth          = [[Tambov]]
+|countryofbirth       = [[Uni Soviet]]
+|height               = {{height|m=1.80}}<ref name="chelseafc.com">http://www.chelseafc.com/page/PlayerProfileDetail/0,,10268~30759,00.html</ref><ref>{{cite web|url=http://www.premierleague.com/page/PlayerProfile/0,,12306~30759,00.html|title = Premier League Player Profile|accessdate =29 April 2011|publisher=Premier League}}</ref>
+|position             = [[Gelandang]]
+|currentclub          =[[FC Dynamo Moscow|Dynamo Moscow]]
+|clubnumber           = 3
+|youthyears1          = 19972001|youthclubs1 = [[FC Spartak Tambov|Spartak Tambov]]
+|years1 = 20012003|clubs1 = [[FC Spartak Tambov|Spartak Tambov]]     |caps1 =  74|goals1 = 26
+|years2 = 20042009|clubs2 = [[PFC CSKA Moscow|CSKA Moscow]]  |caps2 = 139|goals2 = 15
+|years3 = 20092011|clubs3 = [[Chelsea F.C.|Chelsea]]         |caps3 =  29|goals3 = 1
+|years4 = 20112013|clubs4 = [[FC Anzhi Makhachkala|Anzhi]]   |caps4 =  46|goals4 = 3
+|years5 = 2013   |clubs5 = [[FC Dynamo Moscow|Dynamo Moscow]]|caps5 =  14|goals5 = 3
+|nationalyears1       = 2005|nationalteam1 = {{timnas|Rusia}}|nationalcaps1 = 61|nationalgoals1 = 1
+|pcupdate             = 11 May 2014
+|ntupdate             = 6 June 2014
+}}
+
+'''Yuri Valentinovich Zhirkov''' ({{lang-rus|  , ''Jurij Valentinovi irkov''}}; {{lahirmati|[[Tambov]]|20|8|1983}}) adalah seorang pemain [[sepak bola]] berkewarganegaraan [[Rusia]] yang bermain untuk klub [[FC Dynamo Moscow|Dynamo Moscow]] pada posisi  [[Bek (sepak bola)|Bek]], Zhirkov masuk ke dalam skuat Euro 2008, 2012, dan Piala Dunia 2014.
+
+[[Berkas:Yuri Zhirkov Anzhi 2011.jpg|thumb|Yuri Zhirkov saat di Anzhi 2011]]
+
+== Referensi ==
+
+{{Reflist}}
+
+== Pranala luar ==
+
+*[http://www.uefa.com/teamsandplayers/players/player=94880/profile/index.html Profil Yuri Zhirkov] pada UEFA.com
+*[http://soccernet.espn.go.com/player/_/id/43733/yuri-zhirkov?cc=5739 Profil Yuri Zhirkov] pada ESPN.com
+*{{Pemain FIFA|216432}}
+*[http://www.premierleague.com/page/PlayerProfile/0,,12306~30759,00.html Profil Yuri Zhirkov] pada Premier League 
+*[http://news.bbc.co.uk/sport2/shared/bsp/hi/football/statistics/players/z/zhirkov_291667.stm Profil Yuri Zhirkov] pada BBC Sport
+
+{{lifetime|1983||Zhirkov, Yuri}}
+{{Navboxes colour
+|title= Prestasi dan penghargaan|bg= gold
+|list1=
+{{Tim terbaik Piala Eropa 2008}}
+}}
+{{Navboxes colour<!-- 
+  -->
+|title= Skuat tim nasional
+ |bg        = white
+ |fg        = #00F
+ |bordercolor = #F00
+|list1=
+{{Skuat PEropa 2008 Rusia}}
+{{Skuat Piala Eropa 2012 Rusia}}
+{{Skuat PD2014 Rusia}}
+}}
+
+[[Kategori:Pemain Kejuaraan Sepak Bola Eropa UEFA 2012]]
+[[Kategori:Pemain sepak bola Rusia]]
+[[Kategori:Pemain Chelsea F.C.]]
+[[Kategori:Pemain Kejuaraan Sepak Bola Eropa UEFA 2008]]
+[[Kategori:Pemain Piala Dunia FIFA 2014]]
+
+
+{{pemain-sb-stub}}

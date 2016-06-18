@@ -1,0 +1,96 @@
+Templat:Infobox Country Olympics
+<table class="infobox vcard" cellpadding="2" style="text-align:left; border-collapse:collapse; line-height:1.4em; font-size:90%; width:25em;">
+<tr class="adr">
+<th colspan=5 style="text-align:center; font-size:1.25em; border-bottom:1px solid #aaa;"><span class="fn org country-name">{{country_IOC_alias_{{{NOC}}}}}</span> pada Olimpiade</th>
+</tr>
+<tr>
+<td colspan=5 align=center style="border-bottom:1px solid #aaa;">
+<table width="100%" style="text-align:left; background-color:#f9f9f9;">
+{{#ifeq:{{{flag|yes}}}|yes|<tr><td colspan=2 align=center style="padding-bottom:1em;">
+[[Berkas:{{country_flag_IOC_alias_{{{NOC}}}|{{{games}}}}}|180x120px|border|link=|alt=]]<br/>{{#if:{{{flagcaption|}}}|{{{flagcaption}}}|[[Bendera {{country_IOC_alias_{{{NOC}}}|di Olimpiade {{{games}}}}}]]}}</td></tr>|}}
+{{#if:{{{NOCname|}}}|
+<tr><th width=21% style="vertical-align:middle; text-align:left;">[[Daftar kode negara Komite Olimpiade Internasional|Kode KOI]]&nbsp;</th>
+<td><span style="font-size:140%">'''{{{NOC}}}'''</span></td></tr>
+{{#if:{{{oldcode|}}}|<tr><th>&nbsp;</th><td style="font-size:95%;">('''{{{oldcode}}}''' dipakai pada Olimpiade ini)</td></tr>}}
+<tr class="agent vcard"><th style="vertical-align:top; text-align:left;">[[Komite Olimpiade Nasional|KON]]</th>
+<td class="fn org">{{{NOCname}}}</td></tr>
+{{#if:{{{website|}}}|<tr><th style="vertical-align:top; text-align:left;">Situs web</th><td style="vertical-align:top; text-align:left;">{{#if:{{{website_languages|}}}|&#32;<span style="white-space:nowrap;">{{{website_languages}}}</span>}} [http://{{{website}}}/ {{{website}}}]</td></tr>}}
+|
+<tr><td colspan=2 style="text-align:center;">'''[[Daftar kode negara Komite Olimpiade Internasional|Kode&nbsp;KOI]]''' &nbsp;&nbsp;<span style="font-size:140%">'''{{{NOC}}}'''</span></td></tr>
+}}
+</table></td></tr>
+{{#if:{{{games|}}}|
+<tr style="border-top: 1px solid #aaa;">
+<th colspan=5 style="text-align:center;">'''[[Olimpiade {{{games}}}]]''' di {{#switch: {{{games}}} | Athena 1896 = [[Athena]] | Paris 1900 = [[Paris]] | St. Louis 1904 = [[St. Louis, Missouri|St. Louis]] | London 1908 = [[London]] | Stockholm 1912 = [[Stockholm]] | Antwerpen 1920 = [[Antwerpen]] | Paris 1924 = [[Paris]] | Amsterdam 1928 = [[Amsterdam]] | Los Angeles 1932 = [[Los Angeles, California|Los Angeles]] | Berlin 1936 = [[Berlin]] | London 1896 = [[London]] | Helsinki 1952 = [[Helsinki]] | Melbourne 1956 = [[Melbourne]]/[[Stockholm]] | Roma 1960 = [[Rome]] | Tokyo 1964 = [[Tokyo]] | Mexico City 1968 = [[Mexico City]] | Mnchen 1972 = [[Munich]] | Montreal 1976 = [[Montreal]] | Moskwa 1980 = [[Moskwa]] | Los Angeles 1984 = [[Los Angeles, California|Los Angeles]] | Seoul 1988 = [[Seoul]] | Barcelona 1992 = [[Barcelona]] | Atlanta 1996 = [[Atlanta, Georgia|Atlanta]] | Sydney 2000 = [[Sydney]] | Athena 2004 = [[Athens]] | Beijing 2008 = [[Beijing]] | 2012 Summer = [[London]] | 2016 Summer = [[Rio de Janeiro]] | Musim Dingin 1924 = [[Chamonix]] | Musim Dingin 1928 = [[St. Moritz]] | Musim Dingin 1932 = [[Lake Placid, New York|Lake Placid]] | Musim Dingin 1936 = [[Garmisch-Partenkirchen|Garmisch&#8209;Partenkirchen]] | Musim Dingin 1948 = [[St. Moritz]] | Musim Dingin 1952 = [[Oslo]] | Musim Dingin 1956 = [[Cortina d'Ampezzo|Cortina&nbsp;d'Ampezzo]] | Musim Dingin 1960 = [[Squaw Valley Ski Resort|Squaw Valley]] | Musim Dingin 1964 = [[Innsbruck]] | Musim Dingin 1968 = [[Grenoble]] | Musim Dingin 1972 = [[Sapporo]] | Musim Dingin 1976 = [[Innsbruck]] | Musim Dingin 1980 = [[Lake Placid, New York|Lake Placid]] | Musim Dingin 1984 = [[Sarajevo]] | Musim Dingin 1988 = [[Calgary]] | Musim Dingin 1992 = [[Albertville]] | Musim Dingin 1994 = [[Lillehammer]] | Musim Dingin 1998 = [[Nagano]] | Musim Dingin 2002 = [[Salt Lake City, Utah|Salt Lake City]] | Musim Dingin 2006 = [[Torino]] | Musim Dingin 2010 = [[Vancouver]] | 2014 Winter = [[Sochi]] }}</th>
+</tr>
+<tr>
+<th>{{#ifexist:Kategori: {{country_IOC_alias_{{{NOC}}} pada Olimpiade}}|[[:Kategori: {{country_IOC_alias_{{{NOC}}} di Olimpiade}}|Atlet]]|{{#ifexist:Kategori:{{country_IOC_alias_{{{NOC}}}di Olimpiade}}|[[:Kategori:{{country_IOC_alias_{{{NOC}}} di Olimpiade}}|Atlet]]|Atlet}}}}</th>
+<td colspan=4>{{{competitors|?}}} {{#if: {{{sports|}}}|dalam&nbsp;{{{sports}}}&nbsp;{{#ifeq:{{{sports}}}|1|sport|cabang}} }}</td>
+</tr>
+{{#if:{{{officials|}}}|
+<tr>
+<th>Ofisial</th>
+<td colspan=4>{{{officials}}}</td>
+</tr>
+}}
+{{#if:{{{flagbearer|}}}|
+<tr>
+<th>{{#ifexist:Upacara pembukaan Olimpiade {{{games}}}|[[Upacara pembukaan Olimpiade {{{games}}}|Pembawa&nbsp;bendera]]|Pembawa&nbsp;bendera}}</th>
+<td colspan=4>{{{flagbearer}}}</td>
+</tr>
+}}
+<tr style="vertical-align:middle;">
+<td style="vertical-align:middle; width:auto;">'''{{#ifexist:Tabel perolehan medali Olimpiade {{{games}}}|[[Tabel perolehan medali Olimpiade {{{games}}}|Medali]]|Medali}}'''{{#if:{{{rank|}}}|<br>[[Tabel perolehan medali Olimpiade|Peringkat]]:&nbsp;{{{rank|}}}}}</td>
+<td style="background:gold; width:4em; text-align:center;">'''Emas'''<br><span style="font-size:125%;">{{#if:{{{gold|}}}|{{{gold}}}|0}}</span></td>
+<td style="background:silver; width:4em; text-align:center;">'''Perak'''<br><span style="font-size:125%;">{{#if:{{{silver|}}}|{{{silver}}}|0}}</span></td>
+<td style="background:#cc9966; width:4em; text-align:center;">'''Perunggu'''<br><span style="font-size:125%;">{{#if:{{{bronze|}}}|{{{bronze}}}|0}}</span></td>
+<td style="width:4em; text-align:center; border-top:1px solid #aaa">'''Total'''<br><span style="font-size:125%;">{{ #expr: {{#if:{{{gold|}}}|{{{gold}}}|0}} + {{#if:{{{silver|}}}|{{{silver}}}|0}} + {{#if:{{{bronze|}}}|{{{bronze}}}|0}}  }}</span></td>
+</tr>
+}}
+{{#if: {{{summerappearances|}}}|
+<tr>
+<td colspan=5 style="border-top:1px solid #aaa; text-align:center;">'''Riwayat partisipasi''' <!--
+-->{{#if:{{{altsummarypage|}}}|<!--
+-->''[[{{{altsummarypage}}}|(ringkasan)]]''<!--
+-->|{{#if:{{{games|}}}|{{#ifexist:{{country_IOC_alias_{{{NOC}}}}} di Olimpiade|<!--
+-->''[[{{country_IOC_alias_{{{NOC}}}}} di Olimpiade|(ringkasan)]]''<!--
+-->}}}}}}
+</td>
+</tr>
+<tr>
+<th colspan=5 style="text-align:left;">[[Olimpiade Musim Panas]]</th>
+</tr>
+<tr>
+<td colspan=5 style="text-align:left; padding-left:1em;">{{{summerappearances}}}</td>
+</tr>
+}}
+{{#if: {{{summerappearances2|}}}|
+<tr>
+<td colspan=5 style="text-align:left; border-top:1px dashed #aaa; padding-left:1em;">{{{summerappearances2}}}</td>
+</tr>
+}}
+{{#if: {{{winterappearances|}}}|
+<tr>
+<th colspan=5 style="text-align:left;">[[Olimpiade Musim Dingin]]</th>
+</tr>
+<tr>
+<td colspan=5 style="text-align:left; padding-left:1em;">{{{winterappearances}}}</td>
+</tr>
+}}
+{{#if: {{{winterappearances2|}}}|
+<tr>
+<td colspan=5 style="text-align:left; border-top:1px dashed #aaa; padding-left:1em;">{{{winterappearances2}}}</td>
+</tr>
+}}
+{{#if: {{{seealso|}}}|
+<tr>
+<td colspan=5 style="text-align:left;">'''Keikutsertaan lainnya'''</td>
+</tr>
+<tr>
+<td colspan=5 style="text-align:left; padding-left:1em;">{{{seealso}}}</td>
+</tr>
+}}
+</table><noinclude>
+{{intricate template}}
+{{documentation}}
+</noinclude>

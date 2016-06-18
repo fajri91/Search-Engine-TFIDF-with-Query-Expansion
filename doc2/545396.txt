@@ -1,0 +1,48 @@
+Bandar Udara Parachinar
+{{Infobox Airport 
+| name         = Bandar Udara Parachinar
+| nativename   = 
+| nativename-a = 
+| nativename-r = 
+| image        = 
+| image-width  = 
+| caption      = 
+| IATA         = PAJ
+| ICAO         = OPPC
+| type         = Public
+| owner        = 
+| operator     = [[Otoritas Penerbangan Sipil Pakistan]]
+| city-served  = 
+| location     = Parachinar
+| elevation-f  = 5,800
+| elevation-m  = 1,768
+| coordinates  = {{Coord|33|54|10|N|70|04|17|E|type:airport|display=inline,title}}
+| website      = 
+| metric-elev  = 
+| metric-rwy   = 
+| r1-number    = 16/34
+| r1-length-f  = 3,999
+| r1-length-m  = 1,219
+| r1-surface   = [[Bitumen]]
+| stat-year    = 
+| stat1-header = 
+| stat1-data   = 
+| stat2-header = 
+| stat2-data   = 
+| footnotes    = 
+}}
+'''Bandar Udara Parachinar''' {{airport codes|PAJ|OPPC}} adalah [[bandar udara]] yang berlokasi di [[Parachinar]], [[Administrasi Federal Area Suku-Suku, Pakistan|FATA]], [[Pakistan]]. Bandar udara ini dapat dicapai sekitar 25 menit berkendara dari pusat kota [[Parachinar]]. 
+
+==Lihat pula==
+* [[Otoritas Penerbangan Sipil Pakistan]]
+* [[Daftar bandar udara di Pakistan]]
+
+==Pranala luar==
+*[http://www.eais.com.pk/airport%20data%20files/OPPC.htm Parachinar Airport data at Executive Air International Services] {{dead link|date=December 2012}}
+
+{{Bandara di Pakistan}}
+{{DEFAULTSORT:Parachinar, bandar udara}}
+
+[[Kategori:Bandar udara di Pakistan]]
+
+{{bandara-asia-stub}}

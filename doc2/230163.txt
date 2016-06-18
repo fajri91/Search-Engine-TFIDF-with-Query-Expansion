@@ -1,0 +1,109 @@
+Templat:Infobox space mission
+{{Infobox
+| bodyclass   = vevent
+| above       = {{{mission_name<includeonly>|{{PAGENAME}}</includeonly>}}}
+| aboveclass  = Ringkasan
+| image       = {{#if:{{{insignia<includeonly>|</includeonly>}}}| '''{{{AltImage|Lambang misi}}}'''<br />[[Berkas:{{{insignia}}}|{{{insignia_size<includeonly>|201px</includeonly>}}}]]}}
+
+| header1     = Statistik Misi<span style="font-weight:normal;">{{{stats_ref<includeonly>|</includeonly>}}}</span>
+
+| label2      = Nama misi
+| data2       = {{{mission_name<includeonly>|</includeonly>}}}
+| label3      = Nama wahana
+| data3       = {{{spacecraft_name<includeonly>|</includeonly>}}}
+| label4      = Jenis wahana
+| data4       = {{{spacecraft_type<includeonly>|</includeonly>}}}
+| label5      = [[Wahana antariksa]]
+| data5       = {{#if:{{{shuttle|{{{shuttle_name<includeonly>|</includeonly>}}} }}}|[[Pesawat ulang-alik|{{{shuttle|{{{shuttle_name|}}} }}}|''{{{shuttle|{{{shuttle_name}}} }}}'']] {{{shuttlenotes|{{{shuttle_notes|}}} }}} }}
+| label6      = [[Komando Apollo/Modul Bantuan|Modul Komando]]
+| data6       = {{{command_module<includeonly>|</includeonly>}}}
+| label7      = [[Komando Apollo/Modul Bantuan|Modul Bantuan]]
+| data7       = {{{service_module<includeonly>|</includeonly>}}}
+| label8      = [[Modul Bulan Apollo|Modul Bulan]]
+| data8       = {{{lunar_module<includeonly>|</includeonly>}}}
+| label9      = Massa pesawat
+| data9       = {{{mass|{{{spacecraft_mass<includeonly>|</includeonly>}}}}}}
+| label10     = Jumlah kru
+| data10      = {{{crew_members|{{{crew_size<includeonly>|</includeonly>}}}}}}
+| label11     = Julukan
+| data11      = {{{sign|{{{callsign<includeonly>|</includeonly>}}}}}}
+| label12     = Pendorong
+| data12      = {{{booster<includeonly>|</includeonly>}}}
+| label13     = Tempat peluncuran
+| data13      = {{{launch_pad<includeonly>|</includeonly>}}}
+| label14     = Tanggal peluncuran
+| data14      = {{{launch|{{{launch_date<includeonly>|</includeonly>}}}}}}
+| label15     = Jalan terbang dimulai
+| data15      = {{{begin_spacewalk|{{{spacewalk_begin<includeonly>|</includeonly>}}}}}}
+| label16     = Jalan terbang berakhir
+| data16      = {{{end_spacewalk|{{{spacewalk_end<includeonly>|</includeonly>}}}}}}
+| label17     = Pendaratan di bulan
+| data17      = {{{lunar_landing<includeonly>|</includeonly>}}}
+| label18     = Situs pendaratan
+| data18      = {{{landing_site<includeonly>|</includeonly>}}}
+| label19     = Durasi EVA di bulan
+| data19      = {{{lunar_eva_length|{{{lunar_eva_duration<includeonly>|</includeonly>}}}}}}
+| label20     = Lunar surface time
+| data20      = {{{lunar_surface_time<includeonly>|</includeonly>}}}
+| label21     = [[Wahana Penjelajah Bulan]]
+| data21      = {{{lrv|{{{lunar_rover<includeonly>|</includeonly>}}}}}}
+| label22     = Durasi EVA [[Program Apollo#Misi berawak|CMP]]
+| data22      = {{{cmp_eva|{{{cmp_eva_duration<includeonly>|</includeonly>}}}}}}
+| label23     = Massa [[Batu bulan|sampel bulan]]
+| data23      = {{{lunar_sample_mass<includeonly>|</includeonly>}}}
+| label24     = Jumlah orbit di bulan
+| data24      = {{{lunar_orbits<includeonly>|</includeonly>}}}
+| label25     = Waktu total [[Komando Apollo/Modul Bantuan|CSM]] {{nowrap|di orbit bulan}}
+| data25      = {{{time_lunar_orbits<includeonly>|</includeonly>}}}
+| label26     = Pendaratan
+| data26      = {{{landing<includeonly>|</includeonly>}}}
+| label27     = Durasi misi
+| data27      = {{{duration|{{{mission_duration<includeonly>|</includeonly>}}}}}}
+| label28     = Jumlah orbit
+| data28      = {{{orbits<includeonly>|</includeonly>}}}
+| label29     = [[Apsis|Apogee]]
+| data29      = {{{apogee<includeonly>|</includeonly>}}}
+| label30     = [[Apsis|Perigee]]
+| data30      = {{{perigee<includeonly>|</includeonly>}}}
+| label31     = [[Apsis|Apolune]]
+| data31      = {{{apolune<includeonly>|</includeonly>}}}
+| label32     = [[Apsis|Perilune]]
+| data32      = {{{perilune<includeonly>|</includeonly>}}}
+| label33     = [[Periode orbit]]
+| data33      = {{{period<includeonly>|</includeonly>}}}
+| label34     = Ketinggian [[orbit]]
+| data34      = {{{altitude<includeonly>|</includeonly>}}}
+| label35     = [[Inklinasi]] orbit
+| data35      = {{{inclination<includeonly>|</includeonly>}}}
+| label36     = Jarak tempuh
+| data36      = {{{distance|{{{distance_traveled<includeonly>|</includeonly>}}} }}}
+| label37     = Lama pembakaran
+| data37      = {{{sso_burn<includeonly>|</includeonly>}}}
+| label38     = Kecepatan maksimum
+| data38      = {{{maxvel|{{{max_velocity<includeonly>|</includeonly>}}} }}}
+| label39     = Percepatan puncak
+| data39      = {{{peakacc|{{{peak_accel<includeonly>|</includeonly>}}} }}}
+| label40     = Perlambatan puncak
+| data40      = {{{peakdec|{{{peak_decel<includeonly>|</includeonly>}}} }}}
+
+| header41    = {{#if:{{{crew_photo<includeonly>|</includeonly>}}}|Foto kru}}
+
+| data42      = {{#if:{{{crew_photo<includeonly>|</includeonly>}}}|[[Berkas:{{{crew_photo}}}|200px]]}}
+| data43      = {{#if:{{{crew_caption<includeonly>|</includeonly>}}}|<small>{{{crew_caption}}}</small>}}
+
+| header44    = {{#if:{{{previous|{{{previous_mission<includeonly>|</includeonly>}}} }}}{{{next|{{{next_mission|}}} }}}| Misi terkait }}
+
+| data45      = {{#if:{{{previous|{{{previous_mission<includeonly>|</includeonly>}}} }}}{{{next|{{{next_mission|}}} }}}|
+<table style="width:100%; background:transparent;">
+<tr>
+<th style="width:50%">Misi sebelumnya</th>
+<th style="width:50%">Misi selanjutnya</th>
+</tr>
+<tr>
+<td style="vertical-align:middle">{{{previous|{{{previous_mission<includeonly>|</includeonly>}}}}}}</td>
+<td style="vertical-align:middle">{{{next|{{{next_mission<includeonly>|</includeonly>}}}}}}</td>
+</tr>
+</table>
+}}
+| below      = {{#if:{{{footnotes<includeonly>|</includeonly>}}}|<hr /><small>{{{footnotes}}}</small>}}
+}}<noinclude>{{documentation}}<!-- Please add metadata to the <includeonly> section at the bottom of the /doc subpage --></noinclude>

@@ -1,0 +1,15 @@
+Halte Margorejo/layout
+{|cellspacing="0" cellpadding="0" style="background-color:transparent; empty-cells:show" align="center"
+{{BS-table}}
+{|cellpadding="0" cellspacing="0" style="background-color:transparent;" align="center"
+{{BS2-2|CONTg|5=Ke [[Stasiun Wonokromo|Wonokromo]]}}
+{{BS2-2|STR}}
+{{BS2-2|STR|leer+BS|O1=leer+BSl}}
+{{BS2-2|STR|leer+BS|O1=leer+BSl}}
+{{BS2-2|STR|leer+BS|O1=leer+BSl|O2=num1r}}
+{{BS2-2|STR|leer+BS|O1=leer+BSl}}
+{{BS2-2|STR|leer+BS|O1=leer+BSl}}
+{{BS2-2|STR}}
+{{BS2-2|CONTf|5=Ke [[Halte Jemursari|Jemursari]]}}
+|}
+|}<noinclude>[[Kategori:Layout stasiun|MGJ]]</noinclude>

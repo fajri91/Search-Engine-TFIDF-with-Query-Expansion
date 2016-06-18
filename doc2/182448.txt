@@ -1,0 +1,13 @@
+Templat:Pengguna Kabupaten Kepahiang
+<div style="float: left; border:solid black 1px; margin: 1px;">
+{| cellspacing="0" style="width: 238px; background: #86608E;"
+| style="width: 10px; height: 10px; background: #3CD070; text-align: center;"|[[Berkas:Go-home.svg|50px]]
+| style="font-size: {{{info-s|8}}}pt; padding: 4pt; line-height: 1.25em; color: {{{info-fc|black}}};" | <center>Pengguna ini '''berdomisili''' di '''[[Kabupaten Kepahiang]]'''
+|}</div>
+{{#if:{{{kat|}}}||<includeonly>
+
+[[Kategori:Pengguna yang berdomisili di Kabupaten Kepahiang|{{PAGENAME}}]]</includeonly>}}<noinclude><br clear=all>
+----
+*Templat ini menambahkan kategori: {{kt|Pengguna yang berdomisili di Kabupaten Kepahiang}}
+
+[[Kategori:Templat domisili pengguna|Kabupaten Kepahiang]]</noinclude>

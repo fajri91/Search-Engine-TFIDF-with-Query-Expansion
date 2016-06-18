@@ -1,0 +1,30 @@
+Arroux
+{{Infobox River | river_name = Arroux
+  | image_name = 
+  | caption = 
+  | origin = [[Bourgogne]] 
+  | mouth = [[Sungai Loire|Loire]]
+  | basin_countries = [[Perancis]]
+  | length = 132 km
+  | elevation = 
+  | discharge = 32 m/detik
+  | watershed = 3,174 km
+}}
+
+'''Arroux''' merupakan sebuah [[sungai]] di [[Perancis]] tengah, anak sungai kanan dari sungai [[Sungai Loire|Loire]]. Bermuara di timur [[Arnay-le-Duc]], di [[Cte-d'Or]]. Arroux mengalir ke selatan melalui ''[[dpartement di Perancis|dpartement]]'' dan kota berikut:
+
+* [[Cte-d'Or]]: [[Arnay-le-Duc]]
+* [[Sane-et-Loire]]: [[Autun]], [[Toulon-sur-Arroux]], [[Gueugnon]]
+
+Arroux mengalir ke sungai Loire dekat [[Digoin]].
+
+== Catatan ==
+* http://www.geoportail.fr
+* [http://sandre.eaufrance.fr/app/chainage/courdo/htm/K1--018-.php?cg=K1--018- The Arroux at the Sandre database]
+
+{{coord|46|29|N|3|58|E|display=title|region:FR_type:river_source:GNS-enwiki}}
+
+[[Kategori:Sungai di Perancis]]
+
+
+{{Negara-geo-stub|Perancis}}

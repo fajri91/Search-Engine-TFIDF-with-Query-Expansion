@@ -1,0 +1,14 @@
+Berkas:Tursandi Alwi.jpg
+== {{int:filedesc}} ==
+{{Information
+|description=Gubernur Gorontalo, Tursandi Alwi
+|date=2013-05-20
+|source={{URL|http://www.setneg.go.id/images/stories/image-news/berita_foto/berita_2010/upacara_kesaktian_pancasila_1_1.jpg|www.setneg.go.id}}
+|author={{URL|http://www.setneg.go.id/}}
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{PD-IDGov}}

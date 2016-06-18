@@ -1,0 +1,35 @@
+Afroneta pallens
+{{Taxobox
+|name = Afroneta pallens
+|status = 
+|image = 
+|image_caption = 
+|domain = 
+|regnum = [[Animalia]]
+|phylum = [[Arthropoda]]
+|classis = [[Arachnida]]
+|ordo = [[Araneae]]
+|familia = [[Linyphiidae]]
+|genus =Afroneta
+|species = Afroneta pallens
+|binomial = Afroneta pallens
+|binomial_authority =Merrett, 2004
+|range_map = 
+|range_map_caption = 
+|image2 = 
+|image2_caption = 
+|synonyms = 
+}}
+'''''Afroneta pallens''''' adalah spesies [[laba-laba]] yang tergolong [[familia]] [[Linyphiidae]]. Spesies ini juga merupakan bagian dari ordo [[Araneae]]. Nama ilmiah dari spesies ini pertama kali diterbitkan pada tahun 2004 oleh Merrett.
+
+Laba-laba ini biasanya banyak ditemui di Kongo.
+
+== Referensi ==
+
+* Platnick, Norman I. (2010): [http://research.amnh.org/entomology/spiders/catalog/LINYPHIIDAE.html The world spider catalog], version 10.5. ''American Museum of Natural History''.
+
+{{DEFAULTSORT:Afroneta pallens}}
+
+[[Kategori:Linyphiidae]]
+
+{{labalaba-stub}}

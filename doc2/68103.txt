@@ -1,0 +1,14 @@
+Templat:Bagian Daging Sapi
+{{Navbox
+|name = Bagian Daging Sapi
+| listclass = hlist
+| title = Bagian [[daging sapi]]
+|group1 = Atas 
+|image   = [[Berkas:Beef_cuts_id.svg|100px]]
+|list1 = [[Paha depan (sapi)|Paha depan]]{{}} [[Daging iga (sapi)|Daging iga]]{{}} [[Has dalam (sapi)|Has dalam]]{{}} [[Has luar (sapi)|Has luar]]{{}} [[Tanjung (daging sapi)|Tanjung]]{{}} [[Lamosir]]{{}} [[Penutup (daging sapi)|Penutup]]{{}} [[Punuk (sapi)|Punuk]]{{}} [[Tulang T]]{{}} [[Cingur|Hidung]]{{}} [[Lidah sapi|Lidah]]{{}} [[Ekor sapi|Ekor]]{{}} [[Leher sapi|Leher]]{{}} [[Kepala sapi|Kepala]]
+|group2 = Bawah
+|list2 = [[Sandung lamur]]{{}} [[Sancan]]{{}} [[Sengkel]]{{}} [[Gandik]]{{}} [[Kelapa (daging sapi)|Kelapa]]{{}} [[Hati sapi|Hati]]{{}} [[Jeroan sapi|Jeroan]]{{}} [[Kaki sapi|Kaki]]{{}} [[Kulit sapi|Kulit]]{{}} [[Tetelan]]
+|group3 = Lain-lain
+|list3 = [[Glonggongan (daging)|Glonggongan]]{{}} [[Kikil]]
+}}{{#if: {{{nocat}}} | | <includeonly>[[Kategori:Daging sapi]]</includeonly> }}<noinclude>
+[[Kategori:Templat navigasi|{{PAGENAME}}]]</noinclude>

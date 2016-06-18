@@ -1,0 +1,35 @@
+Meioneta cincta
+{{Taxobox
+|name = Meioneta cincta
+|status = 
+|image = 
+|image_caption = 
+|domain = 
+|regnum = [[Animalia]]
+|phylum = [[Arthropoda]]
+|classis = [[Arachnida]]
+|ordo = [[Araneae]]
+|familia = [[Linyphiidae]]
+|genus =Meioneta
+|species = Meioneta cincta
+|binomial = Meioneta cincta
+|binomial_authority =Millidge, 1991
+|range_map = 
+|range_map_caption = 
+|image2 = 
+|image2_caption = 
+|synonyms = 
+}}
+'''''Meioneta cincta''''' adalah spesies [[laba-laba]] yang tergolong [[familia]] [[Linyphiidae]]. Spesies ini juga merupakan bagian dari ordo [[Araneae]]. Nama ilmiah dari spesies ini pertama kali diterbitkan pada tahun 1991 oleh Millidge.
+
+Laba-laba ini biasanya banyak ditemui di Kolombia.
+
+== Referensi ==
+
+* Platnick, Norman I. (2010): [http://research.amnh.org/entomology/spiders/catalog/LINYPHIIDAE.html The world spider catalog], version 10.5. ''American Museum of Natural History''.
+
+{{DEFAULTSORT:Meioneta cincta}}
+
+[[Kategori:Linyphiidae]]
+
+{{labalaba-stub}}

@@ -1,0 +1,1 @@
+templatadd new taxon inputbox typecreate preloadtemplattaxonomypreload defaulttemplattaxonomy breakno buttonlabeltambahkan bgcolorinherit width20 inputboxnoincludedocumentationnoinclude 

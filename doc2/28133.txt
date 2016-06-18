@@ -1,0 +1,7 @@
+Wikipedia:Masukkan hanya pranala yang relevan dengan konteks
+{{pedoman}}
+'''Buatlah pranala yang relevan dengan konteks artikel'''. Tidak ada gunanya, dan seringkali mengganggu jika semua kata dibuat memilik pertautan. Penambahan pranala hanya dilakukan untuk menambah pengetahuan pembaca. Jangan membuat artikel menjadi sulit untuk dibaca. Terlalu banyak pranala akan menutupi pranala yang justru Anda inginkan untuk diikuti pembaca. Pengulangan pranala akan mengotori artikel dan menyulitkan pemeliharaan.
+
+Penentuan pranala mana yang kontekstual dengan suatu artikel bukanlah sesuatu yang mudah. Prinsip ini harus diterapkan secara bijak dan sinergis dengan prinsip [[Wikipedia:Bangun jaringan halaman|membangun jaringan halaman]].
+
+{{wikipedia-stub}}

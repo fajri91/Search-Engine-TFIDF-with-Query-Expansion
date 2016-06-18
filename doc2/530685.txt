@@ -1,0 +1,14 @@
+Berkas:Squirtle.png
+== {{int:filedesc}} ==
+{{Information
+| description    =
+dari [http://bulbapedia.bulbagarden.net Bulbapedia]
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{GambarKarakter}}

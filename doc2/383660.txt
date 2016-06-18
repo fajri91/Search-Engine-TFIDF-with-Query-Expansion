@@ -1,0 +1,14 @@
+Berkas:Tjok Sinsoe.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+sumber :[http://prov.jakarta.go.id/jakv1/application/public/img/encyclopedia/343a90853f67bcad1968585cfa09d16a.jpg] Foto Tjok Sinsoe.
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{FotoHistoris}}

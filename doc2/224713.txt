@@ -1,0 +1,23 @@
+Templat:CanGG
+{{Navbox 
+|name = CanGG
+|state = <includeonly>{{{state|collapsed}}}</includeonly>
+|selected = {{{1|}}}
+|titlestyle = color:black; background-color:white;
+| listclass = hlist
+| title = <span style="vertical-align:1px;">[[Berkas:Maple Leaf (from roundel).svg|20x20px]]</span>&nbsp;&nbsp;'''<font color=black></font>&nbsp;<font color=black>[[Daftar Gubernur Jenderal Kanada|Gubernur Jenderal]] [[Kanada]]</font>'''
+|style = width:100%;
+|groupstyle = padding:0.35em 1.0em; line-height:1.1em;background:white;color:black;border: 1px solid #CC0000;
+|list1style = padding:0.35em 0; line-height:1.5em;background:white;color:black;border-top: 1px solid #CC0000;
+|liststyle = padding:0.35em 0; line-height:1.5em;background:white;color:black;
+|list1 = [[Charles Monck, 4th Viscount Monck|Monck]]{{}} [[John Young, 1st Baron Lisgar|Lisgar]]{{}} [[Frederick Hamilton-Temple-Blackwood, 1st Marquess of Dufferin and Ava|Dufferin]]{{}} [[John Campbell, 9th Duke of Argyll|Lorne]]{{}} [[Henry Petty-FitzMaurice, 5th Marquess of Lansdowne|Lansdowne]]{{}} [[Frederick Stanley, 16th Earl of Derby|Stanley]]{{}} [[John Hamilton-Gordon, 1st Marquess of Aberdeen and Temair|Aberdeen]]{{}} [[Gilbert Elliot-Murray-Kynynmound, 4th Earl of Minto|Minto]]{{}} [[Albert Grey, 4th Earl Grey|Grey]]{{}} [[Prince Arthur, Duke of Connaught and Strathearn|Connaught]]{{}} [[Victor Cavendish, 9th Duke of Devonshire|Devonshire]]{{}} [[Julian Byng, 1st Viscount Byng of Vimy|Byng]]{{}} [[Freeman Freeman-Thomas, 1st Marquess of Willingdon|Willingdon]]{{}} [[Vere Ponsonby, 9th Earl of Bessborough|Bessborough]]{{}} [[John Buchan, 1st Baron Tweedsmuir|Tweedsmuir]]{{}} [[Alexander Cambridge, 1st Earl of Athlone|Athlone]]{{}} [[Harold Alexander, 1st Earl Alexander of Tunis|Alexander]]{{}} [[Vincent Massey|Massey]]{{}} [[Georges Vanier|Vanier]]{{}} [[Roland Michener|Michener]]{{}} [[Jules Lger|Lger]]{{}} [[Edward Schreyer|Schreyer]]{{}} [[Jeanne Sauv|Sauv]]{{}} [[Ray Hnatyshyn|Hnatyshyn]]{{}} [[Romo LeBlanc|LeBlanc]]{{}} [[Adrienne Louise Clarkson|Clarkson]]{{}} [[Michalle Jean|Jean]]{{}} [[David Lloyd Johnston|Johnston]] 
+}}<noinclude>
+[[Kategori:Templat Kanada]]
+
+
+
+
+
+
+
+</noinclude>

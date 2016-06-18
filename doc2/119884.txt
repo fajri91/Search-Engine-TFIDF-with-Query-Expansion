@@ -1,0 +1,88 @@
+Goodreads
+{{Infobox Website
+| name = Goodreads
+| logo = [[Berkas:Goodreads.png|180px]]
+| screenshot = 
+| caption = 
+| url = [http://goodreads.com/ www.goodreads.com]
+| commercial = 
+| type = Katalogisasi buku sosial
+| owner = Otis Chandler
+| author = Otis Chandler
+| launch date = [[30 Januari]] [[2007]]
+| current status = 
+| revenue = 
+}}
+'''GoodReads''' merupakan situs [[jaringan sosial]] yang mengkhususkan pada katalogisasi [[buku]]. Sama seperti situs [[jaringan sosial]] lain, GoodReads mempunyai konten ''friend'', ''group'', maupun ''discussion''. Bedanya, GoodReads memungkinkan anggota untuk menampilkan  daftar buku sudah dibaca (''read''), buku yang sedang dibaca (''currently reading''), dan akan dibaca (''to read''). Dalam [[situs]] ini, pengguna dapat saling berbagi rekomendasi buku bacaan dengan memberikan ''review'' maupun komentar.
+
+== Awal berdirinya ==
+GoodReads didirikan pada [[Desember 2006]], resmi dirilis pada [[30 Januari]] [[2007]] oleh '''Otis Chandler''' dan '''Elizabeth Khuri'''. [[Komunitas]] Goodreads sebenarnya adalah komunitas baca internasional yang digagas Otis Chandler pada tahun [[2006]]. Otis adalah pemilik perusahaan [[penerbitan]] di [[Amerika Serikat]] yang juga menerbitkan [[Los Angeles Times]].  Seperti halnya situs-situs [[jaringan sosial]] lain, GoodReads juga memungkinkan penggunanya untuk memberi peringkat dan menulis ulasan mengenai suatu buku serta berdiskusi dengan pengguna lainnya. Selain mengambil informasi buku dari situs [[Amazon.com]], situs ini juga mengizinkan penggunanya untuk memasukkan [[informasi]] untuk buku yang belum tersedia dari [[Amazon.com]], seperti misalnya kebanyakan buku-buku terbitan [[Indonesia]]. Sejak pertama kali diresmikan situs ini belum pernah mendapat bantuan, namun pada [[Desember 2007]], GoodReads menerima bantuan dari ''angel investors'' sebesar 750 ribu [[dollar]].<ref>[http://www.techcrunch.com/2007/12/17/goodreads-raises-angel-round-to-help-you-find-that-perfect-book/ TechCrunch]</ref>
+
+Sebelum GoodReads didirikan, para pecinta [[buku]] sebenarnya telah mempunyai pilihan [[jejaring sosial]] yang mengkhususkan pada katalogisasi buku. Namun di antara situs sejenis, GoodReads merupakan yang paling populer. GoodReads membuat anggota dapat berbagi rekomendasi buku dengan sesama anggota, mencari informasi lebih tentang buku maupun penulis, serta dapat terhubung dengan orang yang mempunyai ketertarikan yang sama pada buku.
+
+GoodReads menjadi salah satu [[jejaring sosial]] terbesar di dunia untuk memfasilitasi para pembaca. Pada [[2009]], GoodReads telah mempunyai lebih dari 3,6 juta anggota dan menambah daftar koleksi buku sebanyak lebih dari 110 juta buku. 
+
+== Fungsi ==
+* Pengguna dapat membuat [[akun]] pribadi
+* Pengguna yang terdaftar sebagai anggota GoodReads dapat melampirkan dan memberikan peringkat pada buku yang pernah atau sedang dibaca
+* Mengetahui buku yang sedang dibaca oleh teman
+* Mendapatkan rekomendasi buku<ref>[http://webtrends.about.com/od/profiles/fr/GoodReads.htm Webtrends]</ref>
+
+== Menu ==
+=== Profil pengguna ===
+Menampilkan nama pengguna, alamat [[website]] , aktifitas, penulis favorit, keterangan diri, serta foto yang berguna untuk pengguna lain mengidentifikasi siapa pemilik [[akun]] tersebut. Fitur ini menampilkan daftar bacaan anggota, buku yang saat ini sedang dibaca, ''update'' terbaru, kutipan favorit , group yang diikuti, serta hasil review dari anggota. Contoh, dalam profil Adhika terdapat keterangan diri dan daftar buku yang telah dibaca atau sedang dibaca oleh pengguna tersebut.
+
+=== Friends ===
+Anggota GoodReads dapat menambah [[teman]] sehingga dapat melihat daftar buku yang telah atau sedang dibaca oleh sesama anggota. Selain itu saat teman merekomendasikan atau meringkas buku, anggota lain dapat berkomentar dan memberikan peringkat pada buku tersebut. Anggota GoodReads juga dapat melihat koleksi daftar buku yang telah dibaca oleh teman.
+
+=== Mybooks ===
+Dalam fitur ini, pembaca dapat menambah daftar buku yang pernah dibaca, sedang dibaca, atau berencana untuk dibaca. Dalam fitur ''mybook'', anggota dapat memberikan ''review'' dari buku yang telah dibaca sehingga dapat dilihat oleh anggota GoodReads yang lain.
+
+=== Find books ===
+Para pengunjung situs GoodReads dapat mencari buku yang diinginkan dengan mengetikkan judul maupun penulis buku. Dalam fitur ini, GoodReads juga menampilkan daftar buku yang paling populer menurut [[genre]] masing-masing, misalnya daftar buku dengan genre [[komik]], [[fantasi]], [[fiksi]], [[misteri]], dan lain sebagainya.
+
+Anggota juga dapat membeli maupun bertukar buku secara [[online]] yang disediakan dalam sub-fitur ''swap''. Selain penjualan secara [[online]], para anggota juga berkesempatan untuk mendapatkan buku secara cuma-cuma yang diberikan oleh anggota GoodReads yang lain. Hanya saja para anggota GoodReads harus berebut untuk  dapat memenangkan buku yang terdapat dalam sub-fitur ''giveaway''. Selain itu, anggota juga dapat mengunduh [[e-book]] yang ada dalam daftar koleksi e-book GoodReads secara gratis.
+
+=== Explore ===
+Dalam fitur explore para pengunjung situs GoodReads dapat menjawab pertanyaan ''trivia'' yang berkaitan dengan buku, selain itu terdapat fitur kuis yang memungkinkan pengunjung mengikuti kuis tentang buku tertentu. Fitur explore juga dilengkapi informasi dan ''hyperlink'' tentang penulis terkenal, berbagi [[video]] maupun ''quotes'', dan menginformasikan ''[[event]]'' yang diadakan oleh GoodReads maupun anggota group GoodReads.
+
+=== Group ===
+Fitur ini memungkinkan anggota GoodReads untuk menjadi bagian dari group tertentu sesuai yang diinginkan. [[Group]] tersebut dibuat berdasarkan kategori misalnya [[demografi]], [[geografi]] maupun ketertarikan akan [[genre]] tertentu. Setiap anggota boleh mengikuti beberapa group sekaligus. Di dalam group tersebut para anggota bisa saling berbagi rekomendasi maupun review buku. Anggota juga dapat membuka diskusi pada masing-masing group yang diikuti.
+
+== GoodReads Indonesia ==
+Salah satu grup yang bergerak di dunia perbukuan di Indonesia yang dibentuk pada tanggal [[7 Juni]] [[2007]] oleh '''Femmy Syahrani''' dan ditujukan untuk para pembaca buku berbahasa [[Indonesia]] yang ingin mendiskusikan buku-buku tersebut serta berupaya untuk mengumpulkan buku-buku berbahasa Indonesia.<ref>[http://www.GoodReads.com/group/show/345.GoodReads_Indonesia GoodReads Indonesia]</ref>
+
+GoodReads Indonesia berusaha untuk selalu berperan aktif dalam dunia perbukuan di Indonesia. GoodReads Indonesia tidak mau berhenti hanya pada tahapan sebagai komunitas pembaca pasif. Komunitas ini berkehendak untuk menjadi komunitas pembaca aktif yang diwujudkan dalam berbagai kegiatan baik kegiatan di dunia maya maupun di dunia nyata. 
+Kegiatan secara [[online]] tersebut beranekaragam mulai dari diskusi tentang Buku dan Membaca, kegiatan klub buku, dan lain sebagainya. Sementara kegiatan di dunia nyata misalnya ''kopi darat'', diskusi buku bulanan, acara tahunan Festival Pembaca Indonesia, nonton bareng, ngabuburit, klub siaran, dan lain sebagainya. 
+
+Menjalani tahun ke-6, komunitas pencinta buku ini semakin aktif berkegiatan dalam dunia literasi. Dengan berinteraksi di dunia maya, mereka menggelar kegiatan baca buku bersama, lomba meresensi buku bulanan, dan diskusi buku. Melalui dunia maya, GoodReads Indonesia juga menggalang relawan untuk mengaktifkan perpustakaan di sekitar pembaca dengan membentuk wadah Sobat Perpus. Sobat Perpus bertujuan untuk mendata perpustakaan mana saja yang perlu dihidupkan lagi lalu mencari [[donasi]] untuk berkegiatan di perpustakaan tersebut atau untuk menambah koleksi buku.<ref>[http://cetak.kompas.com/read/xml/2008/10/05/01455467/kami.tidak.pandang.buku Kami Tidak Pandang Buku]</ref>
+
+Sampai [[April 2013]], group ini mampu menjaring anggota sebanyak 9,384 orang dari [[Indonesia]], dengan koleksi buku sebanyak 6364 buah buku.
+
+Saat ini, GoodReads Indonesia dimoderatori oleh empat orang yaitu Aditya Hadi Pratama, Sukma Rezany, Rahmad Harun, Roos Wijayanti, serta didukung oleh lima orang koordinator yaitu Merry Riansyah (Koordinator Sosial Media), Farah Lestari (Koordinator Siaran), Didiet Prihastuti (Koordinator Klub Buku Online), Nur Asiah (panggilan: Nura, Koordinator Klub Buku Offline), Novrina (panggilan: Anop, Koordinator Keuangan dan Merchandise).
+
+== Aplikasi GoodReads untuk IPhone ==
+
+Saat ini [[Apple inc.]] telah menciptakan [[aplikasi]] GoodReads yang kompatibel dengan produk-produknya, termasuk [[IPhone]]. Pengguna produk seperti [[MacBook]], [[IPhone]], maupun [[Ipad]] dapat mengunduh gratis aplikasi GoodReads. Sehingga pengguna dapat membaca e-book langsung dari [[gadget]] menggunakan '''GoodReads Reader'''. Pada akhir [[2010]], GoodReads telah menyediakan 2.000 buku untuk publik yang dapat diakses secara gratis.
+
+Aplikasi ini membuat pengguna dapat menikmati fitur dalam situs GoodReads secara lebih mudah apalagi jika pengguna terdaftar sebagai anggota GoodReads. Aplikasi '''GoodReads for Apple''' ini menawarkan manfaat seperti pengguna dapat memeringkat dan mereview lebih dari 8juta buku serta membaca dan mengunduh buku secara langsung dari [[IPhone]].
+
+== Situs Sejenis ==
+* [http://www.librarything.com/ LibraryThing]
+* [http://www.shelfari.com/ Shelfari]
+* [http://www.connectviabooks.com ConnectViaBooks]
+* [http://www.bookcrossing.com/ BookCrossing]
+* [http://www.listal.com Listal]
+
+== Referensi ==
+{{reflist}}
+
+== Pranala luar ==
+* {{id}} [http://www.idbuku.com/goodreads Integrasi IDbuku dan Goodreads]
+* {{id}} [http://www.flickr.com/photos/bacaituseru Photostream GoodReads Indonesia]
+* {{id}} [http://cetak.kompas.com/read/xml/2008/10/05/01455467/kami.tidak.pandang.buku Kompas.com]
+* {{en}} [http://www.goodreads.com Goodreads.com]
+* {{en}} [http://www.techcrunch.com/2007/12/17/goodreads-raises-angel-round-to-help-you-find-that-perfect-book/ TechCrunch]
+
+[[Kategori:Layanan jejaring sosial]]
+[[Kategori:Web 2.0]]

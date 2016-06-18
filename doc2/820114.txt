@@ -1,0 +1,6 @@
+Templat:Radic
+<span class="nowrap">{{#if:{{{2|}}}|<sup style="margin-right: -0.5em; vertical-align: 0.8em;">{{{2|}}}</sup>}}&radic;<span style="border-top:1px solid; padding:0 0.1em;">{{{1}}}</span></span><noinclude>
+
+{{Documentation}}
+<!-- PLEASE ADD THIS TEMPLATE'S CATEGORIES AND INTERWIKIS TO THE /doc SUBPAGE, THANKS -->
+</noinclude>

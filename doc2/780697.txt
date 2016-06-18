@@ -1,0 +1,77 @@
+Templat:Big Five
+{{Navbox
+| name      = Big Five
+| border    = {{{border|}}}
+| state     = {{{state|}}}
+| title     = 5 penerbit terbesar di [[Amerika Serikat]]
+| bodyclass = hlist
+
+| group1 = [[Penguin Random House]]
+| list1  = 
+*[[Penguin Books|Penguin]]
+*[[Dutton Penguin|Dutton]]
+*[[Puffin Books|Puffin]]
+*[[Riverhead Books|Riverhead]]
+*[[Viking Press|Viking]]
+*[[Signet Books|Signet]]
+*[[G. P. Putnam's Sons|Putnam]]
+*[[Ace Books|Ace]]
+*[[Dorling Kindersley]]
+*[[Penguin Classics]]
+*[[Random House]]
+*[[Alfred A. Knopf]]
+*[[Doubleday (penerbit)|Doubleday]]
+*[[Crown Publishing Group|Crown]]
+*[[Bantam Books|Bantam]]
+*[[Ballantine Books|Ballantine]]
+*[[Del Rey Books|Del Rey]]
+*[[Dell Publishing|Dell]]
+*[[Everyman's Library]]
+*[[Pantheon Books at Random House|Pantheon]]
+*[[Vintage Books|Vintage]]
+*[[Fodor's]]
+*[[Modern Library]]
+*[[Dial Press|Dial]]
+
+| group2 = [[Simon & Schuster]]
+| list2  = 
+*[[Atria Books|Atria]]
+*[[Charles Scribner's Sons|Scribner]] 
+*[[Atheneum Books|Atheneum]]
+*[[Free Press (penerbit)|Free Press]]
+*[[Poseidon Press|Poseidon]]
+*[[Pocket Books|Pocket]]
+*[[Threshold Editions|Threshold]]
+
+| group3 = [[HarperCollins]]
+| list3  = 
+*[[Walden Pond]]
+*[[ReganBooks]]
+*[[Harper Prism]]
+*[[Harper Perennial]]
+*[[Harper (penerbit)|Harper]]
+*[[Ecco Press|Ecco]]
+
+| group4 = [[Macmillan Publishers|Macmillan]]
+| list4  = 
+*[[Farrar, Straus and Giroux]]
+*[[Henry Holt and Company]]
+*[[Picador (imprint)|Picador]]
+*[[St. Martin's Press]]
+*[[Tor Books|Tor]]
+*[[Pan Books|Pan]]
+*[[Nature Publishing Group]]
+*[[Palgrave Macmillan]]
+
+| group5 = [[Hachette (penerbit)|Hachette]]
+| list5  = 
+*[[Little, Brown & Company]]
+*Grand Central Publishing
+*[[Orbit Books|Orbit]]
+*[[Yen Press|Yen]]
+*Center Street
+
+| below = 
+*[[Daftar perusahaan penerbit buku berbahasa Inggris]]
+
+}}

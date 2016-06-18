@@ -1,0 +1,4 @@
+Templat:Swiss populations ref
+{{Swiss populations data {{{1}}}|{{{2|}}}|QUELLE}}<noinclude>
+{{Documentation}}
+</noinclude>

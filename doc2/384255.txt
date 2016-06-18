@@ -1,0 +1,32 @@
+Swype
+{{Infobox software
+|name=Swype
+|logo=
+|screenshot=
+|caption=
+|author=Swype Inc.
+|developer=
+|released=
+|operating system=[[Android (operating system)|Android]], [[Bada]], [[Symbian]], [[Windows Mobile]]
+|language=
+|genre= Text input
+|license=[[Proprietary software|Proprietary]]
+|website={{URL|www.swypeinc.com}}
+}}
+
+'''Swype''' merupakan metode input teks untuk perangkat layar sentuh yang memungkinkan pengguna mengetikkan sebuah kata dengan cara menggerakan jari ataupun pena pada layar sentuh, huruf demi huruf, sehingga membentuk suatu gambar pola. Bentukan pola gambar tersebut yang akan dikombinasikan dengan algoritma tertentu dan yang memungkinkan perangkat menebak kata yang diinput oleh pengguna.<ref name="tentang">{{cite web |url=http://www.swypeinc.com/category/about/ |title=About swype |accessdate=2012-04-18}}</ref>  Selain metode input dengan cara di atas, swype juga menyediakan metode input pengetikan konvensional yang dilengkapi dengan mekanisme prediktif dalam satu antar muka yang sama. Swype didisain digunakan pada perangkat yang menggunakan layar sentuh dengan memanfaatkan standar layout [[papan ketik]] [[QWERTY]]. Swype pertama kali tersedia secara komersil pada pada perangkat telepon genggam Samsung Omnia II. <ref>{{cite web|url=http://www.geek.com/articles/mobile/first-swype-enabled-smartphone-coming-to-verizon-in-the-omnia-ii-20091124/ |title=First Swype-enabled smartphone coming to Verizon in the Omnia II |publisher=Geek.com |date=2009-11-24 |accessdate=2012-04-03}}</ref>
+
+Perangkat lunak Swype dikembangkan oleh Swype Inc.<ref>{{cite web|url=http://www.swypeinc.com/ |title=Swype Home Page |publisher=Swypeinc.com |date= |accessdate=2011-10-27}}</ref> Pada bulan Oktober, 2011, Swype diakuisisi oleh Nuance Communications.<ref>{{cite web|last=Arrington |first=Michael |url=http://uncrunched.com/2011/10/06/nuance-to-acquire-swype-for-100-million/ |title=Nuance To Acquire Swype For $100+ Million  Uncrunched |publisher=Uncrunched.com |date=2011-10-06 |accessdate=2011-10-27}}</ref>
+
+==Referensi==
+{{reflist}}
+
+==Pranala luar ==
+* {{Official website|http://www.swypeinc.com}}
+* [http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=7,098,896.PN.&OS=PN/7,098,896&RS=PN/7,098,896 United States Patent 7,098,896. C. Kushler, R. Marsden, "System and method for continuous stroke word-based text input".]
+* [http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=7,250,938&OS=7,250,938&RS=7,250,938/kumhyr United States Patent 7,250,938  System and method for improved user input on personal computing devices]
+
+[[Kategori:Perangkat lunak]]
+[[Kategori:Antarmuka pengguna]]
+[[Kategori:Teknologi bergerak]]
+[[Kategori:Komputer]]

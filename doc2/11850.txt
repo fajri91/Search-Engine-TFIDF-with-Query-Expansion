@@ -1,0 +1,64 @@
+Antraks
+{{penyangkalan medis}}
+{{redirect3|Anthrax|Untuk band metal, lihat [[Anthrax (band)]]}}
+{{Infobox_Disease
+ | Name           = Antraks
+ | Image          = Bacillus anthracis Gram.jpg
+ | Caption        = Foto Mikro [[Pewarnaan Gram]] bakteri ''Bacillus anthracis'' yang menyebabkan antraks.
+ | DiseasesDB     = 1203
+ | ICD10          = {{ICD10|A|22|minor|LinkGroup|LinkMajor}}
+ | ICD9           = {{ICD9|022}}
+ | ICDO           = 
+ | OMIM           = 
+ | OMIM_mult      = {{OMIM2|606410}} {{OMIM2|608041}}
+ | MedlinePlus    = 001325
+ | eMedicineSubj  = med
+ | eMedicineTopic = 148
+ | MeshID         = D000881
+}}
+'''Antraks''' adalah [[penyakit menular]] akut dan sangat [[mematikan]] yang disebabkan bakteri ''[[Bacillus anthracis]]'' dalam bentuknya yang paling [[ganas]].<ref name=tod>{{en}} Todar K. 2005. Bacillus anthracis and anthrax. [terhubung berkala]. http://www.textbookofbacteriology.net/Anthrax.html [31 Mei 2008].</ref> Antraks bermakna "[[batubara]]" dalam [[bahasa Yunani]], dan [[istilah]] ini digunakan karena kulit para [[korban]] akan berubah hitam. Antraks paling sering menyerang [[herbivora]]-herbivora liar dan yang telah dijinakkan.<ref name=tod/> Penyakit ini bersifat [[zoonosis]] yang berarti dapat ditularkan dari [[hewan]] ke [[manusia]], namun tidak dapat ditularkan antara sesama manusia.<ref name=tod/>
+
+== Faktor virulensi ==
+Faktor [[virulensi]] dari penyakit ini disebabkan oleh ''B. anthracis'' yang berasal dari [[kapsul]] dan [[toksin]].<ref name=dix>{{en}} Dixon TC, Meselson M, Guillemin J, Hanna PC. 1999. Anthrax. ''N Engl J Med''. 341(11):815-26</ref> Kapsul dari ''B. anthracis'' terdiri dari ''poly D-glutamic acid'' yang tidak berbahaya (non toksik) bagi dirinya sendiri.<ref name=dix/> Kapsul ini dihasilkan oleh [[plasmid]] pX02 dan berfungsi untuk melindungi sel dari [[fagositosis]] dan [[lisis]].<ref name=dix/> Toksin yang dihasilkan oleh ''B. anthracis'' berasal dari [[plasmid]] pX01 yang memiliki AB ''model'' (''activating'' dan ''binding''). Toksin dari ''B. anthracis'' terdiri dari tiga jenis, yaitu ''protective antigen'' (PA) yang berasal dari kapsul ''poly D- glutamic acid'', ''edema factor'' (EF), dan ''lethal factor'' (LF).<ref name=dix/> Ketiga toksin ini tidak bersifat [[racun]] secara [[individual]], namun dapat bersifat toksik bahkan [[letal]] jika ada dua atau lebih. Toksin PA dan LF akan mengakibatkan aktivitas yang letal, EF dan PA akan mengakibatkan penyakit [[edema]] (nama lain dari penyakit anthrax), toksin EF dan LF akan saling merepresi (inaktif), sedangkan jika ada ketiga toksin tersebut (PA, LF, dan EF), maka akan mengakibatkan edema, [[nekrosis]] dan pada akhirnya mengakibatkan kematian (letal).<ref name=dix/>
+
+Bila spora anthrax masuk ke dalam tubuh dan kemudian sudah tersebar di dalam peredaran darah, akan tercipta suatu [[mekanisme]] [[pertahanan]] dari [[sel darah putih]], namun sifatnya hanya sementara.<ref name=Brock/> Setelah spora dari pembuluh darah terakumulasi dalam [[sistem]] limpa, maka [[infeksi]] akan mulai terjadi.<ref name=Brock/> Racun dari toksin yang dihasilkan oleh sel vegetatif tersebut akan mengakibatkan pendarahan [[internal]] (''internal bleeding'') sehingga mengakibatkan kerusakan pada beberapa [[jaringan]] bahkan [[organ]] utama. Jika racun dari toksin tersebut telah tersebar, maka [[antibiotik]] apapun tidak akan berguna lagi.<ref name="Brock">{{Cite book|author=Madigan M; Martinko J (editors).|title=Brock Biology of Microorganisms|edition=11th|publisher=Prentice Hall|year=2005|isbn=0-13-144329-1 }}</ref>
+
+== Penularan dan gejala ==
+Manusia dapat terinfeksi bila [[kontak]] dengan hewan yang terkena anthraks, dapat melalui [[daging]], [[tulang]], [[kulit]], maupun [[kotoran]]. Meskipun begitu, hingga kini belum ada kasus manusia tertular melalui sentuhan atau kontak dengan orang yang [[mengidap]] antraks
+
+[[Infeksi]] antraks jarang terjadi namun hal yang sama tidak berlaku kepada herbivora-herbivora seperti [[ternak]], [[kambing]], [[unta]], dan [[antelop]]. Antraks dapat ditemukan di seluruh dunia. Penyakit ini lebih umum terjadi di negara-negara [[berkembang]] atau [[negara]]-negara tanpa program [[kesehatan]] umum untuk penyakit-penyakit hewan. Beberapa daerah di dunia seperti ([[Amerika Selatan]] dan [[Amerika Tengah|Tengah]], [[Eropa]] Selatan dan Timur, [[Asia]], [[Afrika]], Karibia dan [[Timur Tengah]]) melaporkan kejadian antraks yang lebih banyak terhadap hewan-hewan dibandingkan manusia.
+
+Antraks biasa ditularkan kepada [[manusia]] disebabkan pengeksposan kepada [[hewan]] yang [[sakit]] atau hasil ternakan seperti [[kulit]] dan [[daging]], atau memakan daging hewan yang tertular antraks. Selain itu, penularan juga dapat terjadi bila seseorang menghirup [[spora]] dari produk hewan yang sakit misalnya kulit atau [[bulu]] yang dikeringkan. Pekerja yang tertular kepada hewan yang mati dan produk hewan dari negara di mana antraks biasa ditemukan dapat tertular ''B. anthracis'', dan antraks dalam ternakan [[liar]] dapat ditemukan di [[Amerika Serikat]]. Walaupun banyak pekerja sering tertular kepada jumlah [[spora]] antraks yang banyak, kebanyakan tidak menunjukkan [[simptom]].
+
+=== Penjangkitan ===
+Antraks dapat memasuki tubuh manusia melalui [[usus]], [[paru-paru]] (dihirup), atau kulit (melalui [[luka]]). Antraks tidak mungkin tersebar melalui manusia kepada manusia.
+
+Bakteri ''B. anthracis'' ini termasuk [[bakteri]] gram positif, berbentuk basil, dan dapat membentuk [[spora]]. [[Endospora]] yang dibentuk oleh ''B. anthracis'' akan bertahan dan akan terus berdormansi hingga beberapa tahun di [[tanah]]. Di dalam tubuh hewan yang saat ini menjadi inangnya tersebut, spora akan bergerminasi menjadi [[sel]] [[vegatatif]] dan akan terus membelah di dalam tubuh. Setelah itu, sel vegetatif akan masuk ke dalam peredaran darah inangnya. Proses masuknya spora anthrax dapat dengan tiga cara, yaitu :
+# ''inhaled anthrax'', di mana spora anthrax terhirup dan masuk ke dalam [[saluran pernapasan]].
+# ''cutaneous anthrax'', di mana spora anthrax masuk melalui kulit yang [[terluka]]. Proses masukkanya spora ke dalam manusia sebagian besar merupakan ''cutaneous anthrax'' (95% kasus).
+# ''gastrointestinal anthrax'', di mana daging dari hewan yang dikonsumsi tidak dimasak dengan baik, sehingga masih megandung [[spora]] dan termakan.
+
+=== Simptom ===
+Beberapa gejala-gejala antraks tipe pencernaan adalah [[mual]], [[pusing]], muntah, tidak [[nafsu]] makan, [[suhu]] badan meningkat, [[muntah]] berwarna coklat atau hitam, [[buang air besar]] berwarna hitam, sakit perut yang sangat hebat (melilit). Sedangkan, gejala antraks tipe kulit ialah bisul merah kecil yang nyeri. Kemudian lesi tadi membesar, menjadi [[borok]], pecah dan menjadi sebuah [[luka]]. Jaringan di sekitarnya membengkak, dan lesi gatal tetapi agak terasa sakit. Antraks terjadi setelah mengomsumsi daging yang terkena antraks. Daging yang terkena antraks mempunyai ciri-ciri sebagai berikut: berwarna hitam, berlendir, dan berbau.
+
+== Penanganan ==
+Secara umum, perawatan untuk penyakit anthrax dapat dilakukan dengan pemberian [[antibiotik]], biasanya [[penisilin]], yang akan menghentikan pertumbuhan dan produksi toksin.<ref name=sam>{{en}} Santamaria J, Toranzos GA. 2003. Enteric pathogens and soil. ''Int Microbiol'' 6:5-9.</ref> Pemberian antitoksin akan mencegah pengikatan toksin terhadap sel.<ref name=sam/> Terapi tambahan, seperti ''sedation'' (pemberian obat penenang).<ref name=sam/> Namun, pada level toksin sudah menyebar dalam pembuluh darah dan telah menempel pada [[jaringan]] maka toksin tidak dapat dinetralisasi dengan antibiotik apapun.<ref name=sam/> Walaupun dengan pemeberian antitoksin, antibiotik, atau terapi, pasien tentu mempunyai rasio kematian.<ref name=sam/>
+
+== Jenis-jenis ==
+Ada 4 [[jenis]] antraks yaitu<ref name=med>{{en}} [MedicineNet] .2010. Anthrax. [terhubung berkala] http://www.medicinenet.com/anthrax/article.htm [13 Mei 2010].</ref> :
+* antraks [[kulit]].
+* antraks pada saluran [[pencernaan]].
+* antraks pada [[paru-paru]].
+* antraks meningitis.
+
+== Referensi ==
+{{reflist}}
+
+== Pranala luar ==
+
+* {{id}} [http://www.depkes.go.id/index.php?option=news&task=viewarticle&sid=666 Artikel di situs depkes.go.id]
+* {{bm}} [http://yosri.cwahi.net/PenyakitAntrax.htm Lebih lanjut mengenai Antrax.] (dalam bahasa Melayu)
+* {{id}} [http://medicastore.com/index.php?mod=penyakit&id=202 ''Antraks - medicastore.com'']
+
+[[Kategori:Penyakit menular]]
+[[Kategori:Hewan ternak]]

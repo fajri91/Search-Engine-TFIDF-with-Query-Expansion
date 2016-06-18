@@ -1,0 +1,14 @@
+Jumlah zat
+'''Jumlah zat''' adalah besaran pokok [[fisika]] yang mengukur jumlah cuplikan zat elementer yang dapat berupa [[elektron]], [[atom]], [[ion]], [[molekul]], atau [[partikel]] tertentu. [[Satuan SI]] untuk jumlah zat ini adalah '''mol''' yang didefinisikan sebagai jumlah atom dalam elemen carbon-12 seberat 12 g. 1&nbsp;mol mempunyai {{val|6.0221415|e=23}} atom dari bahan murni yang diukur, yang sering dikenal sebagai [[bilangan Avogadro]].
+
+Nama satuan mol ini dipakai pertama kali oleh ahli kimia [[Jerman]], [[Wilhelm Ostwald]], pada tahun 1893 untuk menyatakan ''Molekl'' (Mol).
+
+== Pranala luar ==
+* [http://nobelprize.org/nobel_prizes/chemistry/laureates/1922/press.html Pemenang Nobel kimia tahun 1922]
+
+[[Kategori:Fisika]]
+[[Kategori:Satuan ukur]]
+[[Kategori:Satuan SI]]
+
+
+{{fisika-stub}}

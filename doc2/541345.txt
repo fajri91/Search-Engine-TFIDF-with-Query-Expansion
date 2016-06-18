@@ -1,0 +1,6 @@
+Templat:UTF-8/3
+{{#ifexpr: {{{1|0}}} < 16 | {{padleft:{{hexadecimal|{{#expr:{{{1|0}}}+224}}|no}}|2|0}} |  {{padleft:{{hexadecimal|{{#expr:{{{1|0}}}MOD64+128}}|no}}|2|0}} }}<!--
+
+Jika angka kurang dari 16, maka merupakan digit pertama dari sequence 3 byte - tambahkan kepada 0xE0; kalau tidak, merupakan byte kedua dari sequence 4 byte, dan Anda menambah 6 least significant bits kepada 0x80.
+
+-->

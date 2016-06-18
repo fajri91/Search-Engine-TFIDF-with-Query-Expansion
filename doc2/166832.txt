@@ -1,0 +1,129 @@
+Lucutan korona
+{{periksaterjemahan|en|corona discharge}}
+Dalam bidang [[listrik]], lucutan korona adalah [[lucutan elektrostatik]] yang disebabkan oleh [[ionisasi]]nya [[fluida]] yang mengelilingi sebuah [[konduktor]], yang terjadi saat [[gradien potensial]] (kekuatan [[medan listrik]]) melebihi nilai tertentu, tapi kondisinya tidak cukup untuk menimbulkan [[busur elektrik]] atau [[kegagalan listrik|dadalan elektrik]] ('''''Bahasa Inggris:''''' electrical breakdown).
+== Perkenalan ==
+Korona merupakan proses dimana arus, mungkin diteruskan, muncul dari sebuah elektrode ber[[potensial]] tinggi di dalam sebuah fluida yang netral, biasanya udara, dengan [[ion|mengionisasi]] fluida hingga menciptakan [[Fisika plasma|plasma]] di sekitar elektrode. Ion-ion yang dihasilkan akhirnya akan melampaui [[muatan listrik]] menuju area-area berpotensi rendah terdekat, atau bergabung kembali untuk membentuk molekul-molekul gas netral.
+
+Saat [[gradien]] potensialnya fluida cukup besar pada sebuah titik, maka fluida itu akan mengalami ionisasi dan menjadi bersifat konduktif. Udara di dekat elektrode bisa terionisasi (sebagian bersifat konduktif). Saat udara di dekat titik menjadi bersifat konduktif, ia memiliki efek meningkatkan ukuran konduktor. Di luar wilayah ionisasi dan konduktivitas ini, partikel-partikel bermuatan perlahan-lahan mencapai benda yang muatannya berlawanan dan dinetralkan.
+
+Jika wilayah terionisasi terus bertambah luas dan tidak berhenti pada radius tertentu, terbentuklah jalur yang betul-betul bersifat konduktif yang berakibat pada terciptanya latu elektrik yang muncul sekejap atau busur elektrik yang berkesinambungan.
+
+Lucutan korona biasanya melibatkan dua elektrode asimetris; elektrode yang satu memiliki permukaan yang sangat melengkung (seperti ujung sebuah jarum atau kawat berdiameter kecil) dan elektrode satunya lagi memiliki kelekukan yang rendah (seperti piring atau permukaan tanah). Kelengkungan yang tinggi memastikan potensial gradien yang tinggi di sekitar sebuah [[elektrode]], untuk menciptakan sebuah plasma.
+
+Korona bisa bermuatan positif atau negatif. Hal ini ditentukan oleh polaritas tegangan di elektrode yang kelengkungannya tinggi. Jika elektrode melengkung bemuatan positif berkenaan dengan elektoda rata terciptalah korona positif, tapi jika negatif yang tercipta adalah korona negatif. Ketidaksamaan sifat korona positif dengan korona negatif yang amat berbeda disebabkan oleh jauh berbedanya massa elektron dengan [[ion]] bermuatan positif, dengan hanya [[elektron]] memiliki kemampuan mengalami tingkat [[benturan taklenting]] pengion yang signifikan pada temperatur dan tekanan bersama. 
+
+Fungsi lucutan korona yang utama adalah terciptanya [[ozon]] di sekitar konduktor yang mengalami proses korona. Korona negatif menghasilkan ozon jauh lebih banyak daripada korona positif.
+
+== Penerapan lucutan korona ==
+Berikut ini adalah penerapan lucutan korona di bidang komersial dan industri.
+* Menghilangkan muatan listrik yang tidak diinginkan dari permukaan pesawat yang sedang terbang dan dengan begitu menghilangkan efek yang merugikan dari pulsa lucutan elektris tidak terkontrol pada kinerja sistem avionik 
+* Pembuatan [[ozon]]
+* Sterilisasi air kolam
+* Pembersih dengan mengosokan partikel-partikel dari udara dalam [[HVAC]] (lihat [[Pengendap elektrostatik]])
+* Menghilangkan berbagai organik teruap yang tidak diinginkan, seperti pestisida kimia, pelarut, atau bahan senjata kimia, dari [[atmosfer]]
+* Meningkatkan kelembapan atau energi tegangan permukaan dari film [[polimer]] untuk meningkatkan kesesuaian dengan tinta cetak atau perekat.
+* [[Mesin fotokopi|Membuat fotokopi]]
+* [[Pengion udara]] yang baik buat kesehatan
+* [[Fotografi Kirlian]] menggunakan foton yang dihasilkan oleh lucutan untuk mengekspos film fotografik.
+* EHD thruster, Lifter, dan piranti ion wind yang lain
+* [[Laser nitrogen]]
+* Perlakuan Permukaan untuk Kultur Jaringan ([[Polistirena]])
+* Ionisasinya cuplikan gas untuk analisis subsekuen dalam sebuah [[spektrometer massa]] maupun spektrometer mobilitas ion.
+
+Korona bisa digunakan untuk menghasilkan permukaan bermutan, yang merupakan sebuah efek yang digunakan dalam pengopian elektrostatik (membuat fotokopi). Korona juga dapat digunakan untuk menghilangkan materi kepartikelan dari aliran udara dengan terlebih dahulu mengisi udara dengan muatan listrik, lalu melewatkan aliran udara bermuatan melalui sisir polaritas bolak-balik, untuk mengendapkan partikel-partikel bermuatan ke lempengan dengan muatan yang berlawanan.
+
+Ion serta radikal bebas yang dihasilkan dalam reaksi korona bisa dipakai untuk membersihkan udaranya produk-produk merugikan tertentu, melalui reaksi kimia, dan bisa digunakan untuk memproduksi ozon.
+
+== Berbagai permasalahan yang disebabkan lucutan korona ==
+Korona bisa menghasilkan derau/bising terdengarkan dan frekwensi radio, khususnya di dekat jaringan transmisi tenaga listrik. Selai merepresentasikan rugi daya, aksi lucutan korona di partikel-partikel atmosfer, bersama dengan produksi ozone dan [[nitrogen oksida]] yang berkaitan dengan lucutan korona, bisa merugikan kesehatan manusia yang bermukim di wilayah-wilayah yang dilalui jaringan listrik. Dengan begitu, peralatan transmisi tenaga listrik didesain untuk meminimalisir terbentuknya lucutan korona. Lucutan korona pada umumnya tidak diinginkan dalam: 
+* Transmisi tenaga listrik, dimana lucutan korona menyebabkan:
+** Rugi daya
+** Bising terdengarkan
+** Gangguan elektromagnetik
+** Pijar ungu
+** Produksi ozon
+** Kerusakan pengisoliran
+* Di dalam komponen-komponen listrik seperti [[trafo]], [[kapasitor]], [[motor listrik]] serta [[generator listrik]]. Korona secara progresif merusak isolasi di dalam piranti, yang mengarah ke cacat perlengkapan dini. Salah satu bentuk serangan adalah keretakan oleh ozonnya benda yang terbuat dari [[elastomer]] seperti [[cincin O]]. 
+* Berbagai situasi dimana tegangan tinggi digunakan, tapi produksi ozon diminimalisir.
+
+== Mekanisme lucutan korona ==
+Lucutan korona baik yang positif maupun negatif memiliki mekanisme bersama tertentu. 
+# Sebuah molekul atau atom netralnya medium, di dalam sebuah wilayah [[medan listrik]] yang kuat (seperti [[gradien potensial]] yang tinggi di dekat elektrode melengkung) diionisasikan oleh sebuah peristiwa lingkungan eksogen (misalnya sebagai akibat dari interaksi [[foton]]), untuk menciptakan sebuah [[ion]] positif dan [[elektron]] bebas.{{br}}[[Berkas:Corona Discharge initiation.svg]]
+# Medan listrik lalu beroperasi pada partikel-partikel bermuatan lalu memisahkan, mencegah penggabungan kembali, serta mempercepat partikel-partikel itu, memberikan energi kinetik ke setiap partikel. 
+# Sebagai akibat dari energisasi elektron (yang memiliki nisbah massa/muatan dan kecepatan yang jauh lebih tinggi), lebih jauh lagi sejumlah pasangan ion elektron/positif bisa diciptakan dengan menabrakkan atom-atom netral. Lalu mereka mengalami proses pemisahan yang sama. Proses pemisahan ini menciptakan sebuah ''longsoran elektron'' ('''''Bahasa Inggris:''''' electron avalanche). Baik korona positif dan negatif mengandalkan longsoran elektron.{{br}}[[Berkas:Corona electrical breakdown.svg]]
+# Dalam berbagai proses yang membedakan korona positif dengan negatif, proses energi plasma ini diubah menjadi disosiasi elektron tahap awal untuk menyebabkan longsoran lebih jauh lagi. 
+# Sebuah spesies ion tercipta di dalam rangkaian longsoran ini (yang berlainan antara korona positif dengan negatif) ditarik ke elektrode tak melengkung, melengkapi sirkuit, dan mempertahankan aliran arus.{{br}}[[Berkas:Corona discharge upkeep.svg]]
+Tegangan awalnya korona atau Tegangan Insepsi Korona (TIK) bisa dicari dengan [[hukum Peek]] (1929), yang diformulasikan dari pengamatan empiris.
+
+== Sifat elektris ==
+[[Arus listrik]] yang dibawa oleh korona ditentukan dengan menyatukan [[rapat arus]] pada permukaan konduktor. Rugi [[daya]] ditentukan dengan mengalikan arus dengan tegangan.
+
+== Korona positif ==
+=== Sifat ===
+Korona positif berbentuk sebuah plasma seragam di sepanjang sebuah konduktor. Korona positif sering terlihat dengan pijaran berwarna biru/putih, meski sebagian besar emisi berada dalam ultraviolet. Keseragaman plasma disebabkan oleh sumber lonsoran elektron sekunder yang homogen yang dijelaskan dalam [[#Mekanisme|seksi mekanisme]] di bawah. Dengan geometri dan tegangan yang sama, korona positif tampak lebih kecil daripada korona negatif, berkat kurangnya wilayah plasma non-pengion di antara wilayah bagian dalam dengan bagian luar. Elektron bebas dalam sebuah korona positif jauh lebih sedikit daripada korona negatif, kecuali sangat dekat dengan elektrode melengkung: mungkin seperseribu rapatan elektron dan seperseribu total jumlah elektron.
+
+Namun, elektron-elektorn dalam sebuah korona positif dikonsentrasikan dekat dengan permukaan konduktor melengkung, di dalam sebuah wilayah gradien potensial yang tinggi (dan dengan begitu elektron memiliki tenaga tinggi), sedangkan elektron di dalam korona negatif berada di wilayah luar bagian bawah. Dengan begitu, jika elektron digunakan dalam sebuah aplikasi yang membutuhkan tenaga aktivasi yang tinggi, korona positif bisa mendukung tetapan reaksi yang lebih besar daripada korona negatif; walau jumlah total elektron lebih sedikit, jumlah elektron tenaga sangat tinggi lebih banyak.
+
+Korona merupakan produsen ozon yang efisien di udara. Ozon yang dihasilkan sebuah korona positif jauh lebih sedikit daripada korona negatif, sebab reaksi yang menghasilkan ozon berenergi relatif rendah. Dengan begitu, semakin banyak jumlah elektron di korona negatif akan meningkatkan produksi ozon.
+=== Mekanisme ===
+Sama dengan korona negatif, korona positif dimulai oleh sebuah peristiwa ionisasi eksogen dalam kawasan gradien potensial yang tinggi. Elektron yang dihasilkan dari ionisasi ditarik '''menuju''' elektrode melengkung, dan ion-ion positif ditolak darinya. Dengan melakukan benturan taklenting semakin dekat dan dekat ke elektrode melengkung, makin banyak molekul yang diionkan dalam sebuah longsoran elektron. Di dalam sebuah korona positif, elektron-elektron sekunder dihasilkan di dalam fluida, tepatnya dalam wilayah di luar [[plasma]] atau wilayah longsoran. Elektron-elektron sekunder itu diciptakan oleh ionisasi yang disebabkan oleh foton yang dipancarkan dari plasma itu dalam berbagai proses deeksitasi yang terjadi di dalam plasma seusai benturan elektron, energi termal yang dibebaskan dalam benturan itu menciptakan foton yang diradiasikan ke dalam gas. Elektron yang dihasilkan dari ionisasinya molekul gas netral lalu ditarik kembali secara elektris menuju elektrode melengkung, ditarik ke dalam plasma, dan dengan begitu memulai proses menciptakan longsoran lebih jauh di dalam plasma.
+
+Seperti yang bisa dilihat, korona positif dibagi menjadi dua wilayah, sepusat di sekeliling elektrode tajam. Wilayah bagian dalam terdiri dari elektron pengion dan ion positif yang bertindak sebagai sebuah plasma, longsoran elektron dalam wilayah ini, yang lebih jauh menciptakan banyak sekali pasangan ion/elektron. Hampir seluruh wilayah bagian luar terdiri dari ion positif masif yang bermigrasi dengan pelan, bergerak menuju elektrode melengkung, dekat dengan antarmuka kawasan ini, elektron-elektron sekunder, dibebaskan oleh foton yang meninggalkan plasma, yang dipercepat kembali ke dalam plasma. Wilayah dalam dikenal sebagai wilayah '''plasma''', sedang wilayah luar sebagai wilayah '''unipolar'''.
+== Korona negatif ==
+=== Sifat ===
+Korona negatif dihadirkan dalam korona takseragam, yang bervariasi sesuai dengan ciri permukaan dan ketidakteraturannya konduktor melengkung. Ia sering muncul sebagai gumpalan korona di tepi tajam, jumlah gumpalan berubah sesuai dengan kekuatan medan. Terbentuknya korona negatif merupakan hasil dari sumber elektron longsoran sekunder (lihat di bawah). Ia tampak sedikit lebih besar dari korona positif, sebab elektron diperbolehkan melayang keluar dari wilayah pengion. Jumlah total elektron, dan rapatan elektron jauh lebih besar dari yang ada di korona positif.
+=== Mekanisme ===
+Proses terbentuknya korona negatif jauh lebih kompleks daripada korona positif. Sama seperti korona positif, pembentukan korona dimulai dengan sebuah peristiwa ionisasi eksogen yang menghasilkan elektron primer, yang dilanjutkan dengan longsoran elektron.
+
+Elektron diionkan dari gas netral yang tidak berguna dalam mempertahankan proses korona negatif dengan menghasilkan elektron sekunder untuk longsoran lebih jauh lagi, karena pada umumnya elektron dalam sebuah korona negatif bergerak keluar dari elektrode melengkung. Untuk korona negatif, proses menghasilkan elektron sekunder yang dominan adalah [[efek fotolistrik]], dari permukaan elektrode sendiri. Fungsi kerjanya elektron (energi yang dibutuhkan untuk membebaskan elektron dari permukaan) sangat rendah daripada energi ionisasinya udara pada suhu dan tekanan yang standar, membuatnya menjadi sumber elektron sekunder yang lebih liberal dalam kondisi tersebut. Sekali lagi, sumber energi untuk pembebasan elektron adalah foton tenaga tinggi dari sebuah atom dalam perelaksasian tubuh plasma setelah eksitasi dari benturan sebelumnya. Penggunaan gas netral terionisasi sebagai sumber ionisasi dikurangi lebih jauh dalam sebuah korona negatif dengan konsentrasi ion-ion positif yang tinggi yang bergerombol di sekitar elektoda melengkung.
+
+Dalam kondisi-kondisi yang lain, benturan spesies positif dengan elektrode melengkung bisa pula menyebabkan pembebasan elektron.
+
+Dengan begitu yang membedakan korona positif dengan korona negatif, dalam hal terciptanya longsoran elektron sekunder, adalah longsoran elektron sekunder di dalam korona positif diciptakan oleh gas berada di sekitar wilayah plasma, elektron-elektron sekunder yang baru bergerak ke dalam, sedangkan longsoran elektron sekunder dalam korona negatif diciptakan oleh elektrode melengkung itu sendiri, elektron sekunder yang baru bergerak keluar.
+
+Ciri selanjutnya dari struktur korona negatif adalah elektron yang melayang keluar akan bertemu dengan molekul netral dan, bersama-sama [[molekul]] [[elektronegativitas|elektronegatif]] (seperti [[oksigen]] dan [[uap air]]), bergabung untuk menghasilkan ion negatif. Lalu ion negatif ditarik ke elektrode tak melengkung yang positif, menyelesaikan rangkaian.
+
+Sebuah korona negatif bisa dibagi menjadi 3 wilayah radial, di sekeliling elektrode tajam. Dalam wilayah bagian dalam, benturan taklenting elektron-elektron berenergi tinggi dengan atom netral menyebabkan longsoran, sedangkan elektron sebelah luar (yang biasanya berenergi lebih rendah) bergabung dengan atom netral untuk memproduksi ion negatif. Dalam wilayah perantara/tengah, elektron-elektron bergabung untuk membentuk ion negatif, tapi biasanya memiliki energi yang tak cukup untuk menyebabkan ionisasi longsoran, tapi tetap menjadi bagian dari sebuah plasma yang berhubungan dengan polaritas yang berbeda dari spesies saat ini, dan kemampuan untuk ikut serta dalam berbagai reaksi plasma karakteristik. Di wilayah sebelah luar, hanya berlangsung sebuah aliran ion negatif dan, pada tingkatan yang lebih rendah, elektron bebas yang menuju elektrode positif. Dua wilayah bagian dalam dikenal sebagai ''plasma'' korona. Wilayah sebelah dalam merupakan ''plasma pengion'', tengah merupakan ''plasma bukan-pengion''. Wilayah sebelah luar dikenal sebagai ''wilayah unipolar''.
+== Contoh ==
+Lucutan korona bisa terlihat di sekitar kabel [[busi]] [[otomotif]] yang sudah aus. 
+== Lihat pula ==
+* [[Ozon]]
+== Rujukan ==
+{{reflist}}
+* Junhong Chen, [http://www.menet.umn.edu/~jhchen/Junhong_dissertation_final.pdf "Direct-Current Corona Enhanced Chemical Reactions"] ([[PDF]]), Ph.D. Thesis, University of Minnesota, USA. August 2002.
+* {{cite book
+|author=F.W. Peek
+|title= Dielectric Phenomena in High Voltage Engineering
+|publisher=McGraw-Hill
+|year=1929
+|id = ISBN 0-9726596-6-8 <!-- this is the December 2002 reprint -->
+|url = http://www.ee.vill.edu/ion/p183.html
+ }}
+* {{cite book
+|author=Leonard Loeb
+|title= Electrical Coronas Their Basic Physical Mechanisms
+|publisher=University of California Press
+|year=1965
+|id = <!-- No ISBN, Amazon ASIN = B0006BM4LG  -->
+|url = 
+ }}
+* {{cite book
+|author=James D. Cobine
+|title= Gaseous Conductors; Theory and Engineering Applications
+|publisher=McGraw-Hill or Dover reprints
+|year=1941, reprints in 1958, 1970)
+|id = <!-- No ISBN, Amazon ASIN = B000B9PK7S or B000AV4TMO  -->
+|url = 
+ }}
+== Pranala luar ==
+* [http://blazelabs.com/l-intro.asp Blaze Labs Research]  Lots of information on corona properties & Peek's Law
+* [http://www.ee.vill.edu/ion/p61.html Villanova University]  Modelling Corona for different electrode configurations
+* [http://www.ce-mag.com/archive/1999/novdec/mrstatic.html Information about the differences between corona, spark, and brush discharges]
+* [http://www.highvoltageinfo.com/articles.php#Corona Additional information about corona, its effects, characteristics and preventative measures]
+* [http://www.ozonesupplies.com/Ozone_Formation.html Diagram of Ozone Formation via Corona Discharge]
+* [http://www.archive.org/details/dielectricphenom028893mbp]
+
+[[Kategori:Fenomena listrik]]
+[[Kategori:Fisika plasma]]
+
+[[ja:#]]

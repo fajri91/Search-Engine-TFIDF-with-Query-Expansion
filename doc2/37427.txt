@@ -1,0 +1,26 @@
+Templat:Infobox RPG
+{| class="infobox" style="width: 20em; font-size: 95%;"
+|- 
+! colspan="2" style="font-size: larger; background: #ddccff;" | {{{title|{{PAGENAME}}}}}
+|- 
+| colspan="2" style="text-align: center; font-size: smaller; border-bottom: 1px solid #aaa;" |{{{image|}}}<br>{{{caption|}}}
+|- 
+! Perancang
+| {{{designer|''unknown''}}}
+|- 
+! Penerbit
+| {{{publisher|''unknown''}}}
+|- 
+! Tanggal penerbitan
+| {{{date|''unknown''}}}
+|- 
+! Jenis
+| {{{genre|''unknown''}}}
+|- 
+! Sistem
+| {{{system|Custom|customization}}}
+|- 
+| colspan="2" style="font-size: smaller; border-top: 1px solid #aaa;" | {{{footnotes|}}} 
+|- 
+| colspan="2" style="font-size: smaller; border-top: 1px solid #aaa;" align="center" | <!--This template is maintained by<br>[[WP:RPG|WikiProject Role-playing games]] -->
+|}<noinclude>[[Kategori:Templat kotak info permainan|RPG]]</noinclude>

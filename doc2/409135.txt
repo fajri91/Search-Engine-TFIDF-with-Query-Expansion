@@ -1,0 +1,106 @@
+Bacacay, Albay
+{{Infobox settlement
+<!-- Untuk kotak info lebih lengkap lihat [[Templat:Infobox settlement]]-->
+| name                    = Bacacay
+| image_map               = Ph locator albay bacacay.png|thumb
+| mapsize                 = 200px
+| map_caption             = Peta menunjukkan lokasi Bacacay, Albay
+| subdivision_type        = [[Negara]]
+| subdivision_name        = {{flagicon|Filipina}} [[Filipina]]
+| subdivision_type1       = [[Provinsi]]
+| subdivision_name1       = [[Albay]]
+| settlement_type         = [[Munisipalitas]]
+}}
+
+'''Bacacay''' adalah [[munisipalitas]] yang terletak di provinsi [[Albay]], [[Filipina]].
+
+Pada tahun [[2011]], munisipalitas ini memiliki populasi sebesar 63.456 jiwa atau 12.439 rumah tangga.<ref>[http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23&frmIdDcfCode=8&fLguType=CM&frmIdRegion=8&frmIdProvince=44&frmIdLgu=562 Local Governance Performance Management System]</ref>
+
+== Pembagian wilayah ==
+
+Bacacay terbagi menjadi 58 [[barangay]], yaitu:
+
+{{col|4}}
+* Baclayon
+* Banao
+* Bariw
+* Basud
+* Bayandong
+* Bonga ''(Upper)''
+* Bonga ''(Lower)''
+* Buang
+* Cabasan
+* Cagbulacao
+* Cagraray
+* Cajogutan
+* Cawayan
+* Damacan
+* Gubat Ilawod
+* Gubat Iraya
+* Hindi
+* Igang
+* Langaton
+* Manaet
+* Mapulang Daga
+* Boga ''(Pongco)''
+* Mataas
+* Misibis
+* Nahapunan
+* Namanday
+* Namantao
+* Napao
+* Panarayon
+* Pigcobohan
+* Pili Ilawod
+* Pili Iraya
+* Barangay 1 ''(Pob.)''
+* Barangay 2 ''(Pob.)''
+* Barangay 3 ''(Pob.)''
+* Barangay 4 ''(Pob.)''
+* Barangay 5 ''(Pob.)''
+* Barangay 6 ''(Pob.)''
+* Barangay 7 ''(Pob.)''
+* Barangay 8 ''(Pob.)''
+* Barangay 9 ''(Pob.)''
+* Barangay 10 ''(Pob.)''
+* Barangay 11 ''(Pob.)''
+* Barangay 12 ''(Pob.)''
+* Barangay 13 ''(Pob.)''
+* Barangay 14 ''(Pob.)''
+* Pongco ''(Lower Boga)''
+* Busdac ''(San Jose)''
+* San Pablo
+* San Pedro
+* Sogod
+* Sula
+* Tambilagao ''(Tambognon)''
+* Tambongon ''(Tambilagao)''
+* Tanagan
+* Uson
+* Vinisitahan ''(Mainland)''
+* Vinisitahan-Napao ''(Island)''
+{{EndDiv}}
+
+== Referensi ==
+
+{{reflist}}
+
+== Pranala luar ==
+
+* [http://www.deped.gov.ph/public/public.asp?sec=&pageno=1&keyword=&sort=&iwant2=&regid=9&divid=59&schtype=Public&schlevel=1&keyword2=Bacacay Situs web resmi Bacacay]
+* [http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [http://www.census.gov.ph/data/sectordata/pop0.html 1995 Philippine Census Information]
+* [http://www.census.gov.ph/census2000/index.html 2000 Philippine Census Information]
+* [http://www.census.gov.ph/data/census2007/index.html 2007 Philippine Census Information (1)]
+* [http://www.census.gov.ph/data/pressrelease/2008/pr0830tx.html 2007 Philippine Census Information (2)]
+* [http://dilgbicol.org/lgu-profiles.html LGU Profile of Bacacay, Albay]
+
+{{coord|13|18|N|123|48|E|region:PH_type:city|display=title}}
+{{Albay}}
+
+[[Kategori:Munisipalitas di Albay]]
+[[Kategori:Munisipalitas di Filipina]]
+[[Kategori:Albay]]
+
+
+{{Filipina-geo-stub}}

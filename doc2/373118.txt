@@ -1,0 +1,127 @@
+Sabayon Linux
+{{Infobox OS
+| name = Sabayon Linux
+| logo = [[Berkas:Sabayon 5.4 logo.svg|100px]]
+| screenshot = [[Berkas:Sabayon-7.png|300px]]
+| caption = Sabayon Linux 7 KDE SC
+| website = [http://www.sabayon.org/ www.sabayon.org]
+| developer = Fabio Erculiani and Team
+| family = [[GNU]]/[[Linux]]
+| source model = Mixed
+| released = {{Start date|2005|11|28}}
+| latest release version = ([[Rolling release]]) 9.0
+| latest release date = {{release date|2012|06|08}}
+| latest preview version =
+| latest preview date =
+| frequently updated =
+| marketing target =
+| language =
+| kernel type = [[Monolithic kernel]]
+| userland = [[GNU]]
+| ui = GNOME, KDE, Xfce<ref>http://tracker.sabayon.org/</ref>
+| license = Various; Mainly [[GNU GPL]]
+| working state = Current
+| supported platforms = [[IA-32]], [[x86-64]]
+| updatemodel = Entropy (Equo, Rigo) / [[Portage (software)#Emerge|Emerge]]
+| package manager = Entropy (Equo, Rigo) / [[Portage (software)|Portage]]
+}}
+
+'''Sabayon Linux''' atau Sabayon (sebelumnya bernama ''RR4 Linux'' dan ''R64 Linux'') adalah [[distribusi Linux]] berbasis [[Gentoo Linux|Gentoo]] yang dibuat oleh Fabio Erculiani dan Tim Pengembang Sabayon. Sabayon memiliki filosofi "[[Out of the box]]" dengan menyertakan berbagai jenis aplikasi yang sudah dikonfigurasi dan siap pakai untuk para pengguna sehingga bisa siap untuk digunakan. Nama ''Sabayon'' diambil dari salah satu hidangan Italia, ''Zabaione''. <ref name="wiki-info">[http://wiki.sabayon.org/index.php?title=En:Sabayon_Linux Information about Sabayon Linux  Sabayon Linux Wiki]</ref>
+
+== Inti ==
+Sabayon didesain dengan antarmuka yang mudah, sistem deteksi [[perangkat keras]] yang baik dan koleksi perangkat lunak mutakhir terpasang secara bawaan; dengan berbagai tambahan yang bisa dipasang melalui gudang perangkat lunak yang tersedia. Sabayon tersedia baik untuk arsitektur komputer [[x86]] (32-bit) dan [[x86-64|AMD64]] (64-bit). Terdapat versi ''SpinBase'' yang datang tanpa antarmuka grafis X server, dengan sistem yang ringan dan cepat serta cocok untuk di-kustomisasi.
+
+== Edisi ==
+Sejak versi 4.1, Sabayon secara prinsip dirilis dalam dua rasa yaitu : versi dengan [[desktop]] [[KDE]] dan versi dengan [[desktop]] [[GNOME]], dengan juga menyertakan desktop ringan [[Fluxbox]]. (Pada versi sebelumnya, ketiga [[desktop]] dimasukkan ke dalam sebuah edisi satu DVD). 
+
+Saat ini versi yang tersedia adalah :
+{| class="wikitable"
+ ! Nama
+ ! Lingkungan Desktop
+ ! Ketersediaan
+|-
+ | CoreCD  || Tidak ada || Tidak dikembangkan lagi
+|-
+ | CoreCDX  || [[Fluxbox]] || Rilis harian dan stabil
+|-
+ | G  || [[GNOME]] || Rilis harian dan stabil
+|-
+ | K  || [[KDE]] || Rilis harian dan stabil
+|-
+ | LXDE  || [[LXDE]] || Rilis harian dan stabil
+|-
+ | XFCE  || [[Xfce]] || Rilis harian dan stabil
+|-
+ | SpinBase  || Tidak Ada || Rilis harian dan stabil
+|-
+ | SpinBase OpenVZ Templates  || Tidak Ada || Rilis harian dan stabil
+|}
+
+== Konfigurasi ==
+Sabayon menggunakan komponen inti seperti apa yang digunakan distribusi [[Gentoo Linux]], termasuk [[OpenRC]] dan baselayout2. Semua konfigurasi khas Gentoo, seperti <code>etc-update</code> dan <code>eselect</code> bisa digunakan dengan baik pada distribusi ini. Sabayon menyertakan alat untuk melakukan konfigurasi secara otomatis terhadap berbagai komponen sistem seperti [[OpenGL]]. Sabayon juga menyertakan perangkat lunak penggerak (''driver'') untuk kartu grafis [[nVIDIA]] dan [[ATI Technologies|ATI]]. <ref>http://distrowatch.com/table.php?distribution=sabayon</ref>
+
+== Manajemen Paket ==
+Sabayon menggunakan dua jenis sistem manajemen paket, yaitu [[Portege (manajemen paket)|Portege]] yang merupakan bagian dasar dari [[Gentoo Linux]] dan [[Entropy (manajemen paket)|Entropy]] dikembangkan khusus untuk Sabayon. Portege mengunduh kode sumber dari perangkat lunak dan melakukan kompilasi ke sistem, sedangkan Entropy mengunduh perangkat lunak terkompilasi yang siap dipasang dari server.
+
+== Aplikasi ==
+Versi DVD memiliki perangkat lunak yang siap pakai yang lebih banyak daripada versi CD karena masalah kapasitas. Pilihan aplikasi disesuaikan dengan desktop yang ada di dalam CD/DVD tersebut. Gentoo juga menyertakan [[XBMC]] sebagai aplikasi pusat media yang bisa dijalankan tanpa perlu membuka desktop terlebih dahulu. 
+
+Berikut adalah tabel dari aplikasi yang disertakan baik pada versi desktop [[KDE]] maupun desktop [[GNOME]] :
+
+{| class="wikitable"
+ ! Jenis aplikasi
+ ! Versi GNOME
+ ! Versi KDE
+|-
+ | Klien [[BitTorrent]] || [[Deluge (perangkat lunak)|Deluge]] || [[KTorrent]]
+|-
+ | Klien [[Surat Elektronik]]  || [[Evolution (perangkat lunak)|Evolution]] || [[KMail]]
+|-
+ | Klien [[IRC]]  || [[XChat]] || [[Konversation]]
+|-
+ | [[Editor teks]]  || [[gedit]] || [[KWrite]]
+|-
+ | [[Pemrosesan gambar]]  || [[GIMP]] || -
+|-
+ | Alat pengarsipan  || [[File Roller]] || [[Ark (perangkat lunak)|Ark]]
+|-
+ | Manajer photo  || [[Shotwell]] || [[Kamera (perangkat lunak)|Kamera]]
+|-
+ | [[Peramban web]]  || [[Mozilla Firefox]] || [[Mozilla Firefox]]
+|-
+ | Pembakar CD/DVD  || [[Brasero (perangkat lunak)|Brasero]] || [[K3b]]
+|-
+ | Pusat Media  || [[Xbox Media Center]] || [[Xbox Media Center]]
+|-
+ | [[Pemutar Media (perangkat lunak)|Pemutar media]]  || [[Totem (pemutar media)|Totem]] and [[VLC media player]] || [[Dragon Player]] and [[VLC media player]]
+|-
+ | Perpesanan instan  || [[Pidgin (perangkat lunak)|Pidgin]] || [[Kopete]]
+|-
+ | Pemutar musik  || [[Audacious Media Player|Audacious]] || [[Clementine (perangkat lunak)|Clementine]]
+|-
+ | Aplikasi perkantoran  || [[OpenOffice.org]] || [[OpenOffice.org]]
+|-
+ | Pembaca PDF  || [[Evince]] || [[Okular]]
+|}
+
+Terdapat beberapa aplikasi lainnya yang juga sudah terpasang atau bisa didapatkan dari gudang perangkat lunak Gentoo.
+
+== Instalasi ==
+Walaupun distribusi ini bersifat [[LiveDistro|LiveDVD]] (Dijalankan langsung dari CD), distribusi ini bisa dipasang ke dalam [[hard disk]] secara sempurna. Sabayon Linux menggunakan sistem pemasang Anaconda dari Redhat. Hal yang unik di dalam Gentoo Linux adalah LiveDVD/LiveCD akan memutar sebuah musik khusus pada saat awal pembukaan.
+
+== See also ==
+* [[Gentoo Linux]]
+* [[LiveDistro]]
+
+== Referensi ==
+{{Reflist}}
+
+== Prana Luar ==
+* {{Official website|http://www.sabayonlinux.org/}}
+* [http://distrowatch.com/table.php?distribution=sabayon Sabayon Linux on DistroWatch]
+
+{{Distro-Linux}}
+
+[[Kategori:Turunan Gentoo Linux]]
+[[Kategori:KDE]]
+[[Kategori:Distribusi Linux]]

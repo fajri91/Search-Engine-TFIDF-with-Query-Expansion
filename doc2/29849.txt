@@ -1,0 +1,157 @@
+Kementerian Kesehatan Republik Indonesia
+{{Kotak info kementerian Indonesia
+| nama                        = Kementerian Kesehatan </br>Republik Indonesia
+| logo                        = Lambang Kemkes.png
+| ukuran_logo                 =
+| keterangan_logo             =
+| gambar                      = 
+| ukuran_gambar               =
+| keterangan_gambar           =
+| didirikan                   = {{Start date and age|1945|08|19}}
+| dasar_hukum                 = Peraturan Presiden Nomor 35 Tahun 2015
+| bidang_tugas                = [[Kesehatan]]
+| slogan                      =
+| pegawai                     = 
+| anggaran                    = 
+
+<!--Menteri dan Wakil Menteri-->
+| menteri                     = Daftar Menteri Kesehatan Indonesia
+| nama_menteri                = [[Nila Moeloek]]
+| nama_seskab                 = <!--nama sekretaris kebinet-->
+| wakil                       = <!--Link di Wikipedia contoh: "Daftar Wakil Menteri Keuangan Indonesia" tanpa tanda [[ ]]-->
+| nama_wakil                  = <!--nama menteri wakil yang sedang menjabat-->
+
+<!--Sekretariat Jenderal-->
+| sekretariat_jenderal        = Sekretariat Jenderal Kementerian Kesehatan Republik Indonesia
+| nama_sekretaris_jenderal    = Untung Suseno Sutarjo
+
+<!--Sekretariat Kementerian-->
+| sekretariat_kementerian     = <!--Link di Wikipedia tanpa tanda [[ ]]-->
+| nama_sekretaris_kementerian =
+
+<!--Sekretariat Lainnya (Eselon I)-->
+| sekretariat1                = <!--Link di Wikipedia tanpa tanda [[ ]]-->
+| singkatan_sekretariat1      =
+| nama_sekretaris1            =
+
+<!--Direktorat Jenderal-->
+| dirjen1                     = Direktorat Jenderal Kesehatan Masyarakat
+| singkatan_dirjen1           = Ditjen Kesehatan Masyarakat
+| nama_dirjen1                = -
+| dirjen2                     = Direktorat Jenderal Pencegahan dan Pengendalian Penyakit
+| singkatan_dirjen2           = Ditjen Pencegahan dan Pengendalian Penyakit
+| nama_dirjen2                = Mohamad Subuh
+| dirjen3                     = Direktorat Jenderal Pelayanan Kesehatan
+| singkatan_dirjen3           = Ditjen Pelayanan Kesehatan
+| nama_dirjen3                = -
+| dirjen4                     = Direktorat Jenderal Bina Kefarmasian dan Alat Kesehatan
+| singkatan_dirjen4           = Ditjen Bina Kefarmasian dan Alat Kesehatan
+| nama_dirjen4                = Maura Linda Sitanggang
+
+<!--Deputi-->
+| deputi1                     = <!--Link di Wikipedia tanpa tanda [[ ]]-->
+| singkatan_deputi1           = 
+| nama_deputi1                =
+| deputi2                     = <!--sampai dengan |deputi8 = -->
+| singkatan_deputi2           = <!--sampai dengan |singkatan_deputi8 = -->
+| nama_deputi2                = <!--sampai dengan |nama_deputi8 = -->
+
+<!--Inspektorat Jenderal-->
+| inspektorat_jenderal        = Inspektorat Jenderal Kementerian Kesehatan Republik Indonesia
+| nama_inspektorat_jenderal   = Purwadi
+
+<!--Badan-->
+| badan1                      = Badan Penelitian dan Pengembangan Kesehatan
+| singkatan_badan1            = Badan Penelitian dan Pengembangan Kesehatan
+| kepala_badan1               = Tjandra Yoga Aditama
+| badan2                      = Badan Pengembangan dan Pemberdayaan Sumber Daya Manusia Kesehatan
+| singkatan_badan2            = Badan Pengembangan dan Pemberdayaan Sumber Daya Manusia Kesehatan
+| kepala_badan2               = Usman Sumantri
+
+<!--Staf ahli-->
+| staf_ahli1                  = Staf Ahli Bidang Ekonomi Kesehatan
+| singkatan_staf_ahli1        = Staf Ahli Bidang Ekonomi Kesehatan
+| nama_staf_ahli1             = -
+| staf_ahli2                  = Staf Ahli Bidang Teknologi Kesehatan dan Globalisasi
+| singkatan_staf_ahli2        = Staf Ahli Bidang Teknologi Kesehatan dan Globalisasi
+| nama_staf_ahli2             = Chairul Radjab Nasution
+| staf_ahli3                  = Staf Ahli Bidang Desentralisasi Kesehatan
+| singkatan_staf_ahli3        = Staf Ahli Bidang Desentralisasi Kesehatan
+| nama_staf_ahli3             = -
+| staf_ahli4                  = Staf Ahli Bidang Hukum Kesehatan
+| singkatan_staf_ahli4        = Staf Ahli Bidang Hukum Kesehatan
+| nama_staf_ahli4             = -
+
+<!--Inspektorat (Eselon II)-->
+| inspektorat                 = <!--Link di Wikipedia tanpa tanda [[ ]]-->
+| nama_inspektorat            =
+
+<!--Pusat-->
+| pusat1                      = <!--Link di Wikipedia tanpa tanda [[ ]]-->
+| singkatan_pusat1            =
+| kepala_pusat1               =
+| pusat2                      = <!--sampai dengan |badan5 = -->
+| singkatan_pusat2            = <!--sampai dengan |singkatan_badan5= -->
+| kepala_pusat2               = <!--sampai dengan |nama_badan5 = -->
+
+<!--Koordinasi Kementerian/Lembaga-->
+| koordinasi1                 = <!--nama K/L yang dikoordinasikan-->
+| koordinasi2                 = <!--sampai dengan |koordinasi15 = -->
+
+<!--Koordinasi Lembaga Pemerintah Nonkementerian-->
+| koordinasi_lpnk1            = [[Badan Pengawas Obat dan Makanan]]
+| koordinasi_lpnk2            = [[Badan Kependudukan dan Keluarga Berencana Nasional]]
+
+| alamat                      = Jl. H.R. Rasuna Said Blok X 5 Kav. 4-9 Blok A Jakarta
+| situs web                   = http://www.kemkes.go.id/
+| catatan                     =
+}}
+
+'''Kementerian Kesehatan Republik Indonesia''' (disingkat Kemenkes RI) adalah [[kementerian Indonesia|kementerian]] dalam [[pemerintah Indonesia|Pemerintah]] [[Indonesia]] yang membidangi urusan [[kesehatan]]. Kementerian Kesehatan berada di bawah dan bertanggung jawab kepada Presiden.<ref name="Perpres 35/2015">[http://sipuu.setkab.go.id/PUUdoc/174443/Perpres%20Nomor%2035%20Tahun%202015.pdf Peraturan Presiden Nomor 35 Tahun 2015 tentang Kementerian Kesehatan]</ref> Kementerian Kesehatan dipimpin oleh seorang [[Menteri Kesehatan Indonesia|Menteri Kesehatan]] (Menkes) yang sejak [[27 Oktober]] [[2014]] dijabat oleh [[Nila Moeloek]].
+
+== Tugas dan Fungsi ==
+Kementerian Kesehatan mempunyai tugas menyelenggarakan urusan pemerintahan bidang kesehatan untuk membantu Presiden dalam menyelenggarakan pemerintahan negara. Dalam melaksanakan tugas, Kementerian Kesehatan menyelenggarakan fungsi:
+# perumusan, penetapan, dan pelaksanaan kebijakan di bidang kesehatan masyarakat, pencegahan dan pengendalian penyakit, pelayanan kesehatan, dan kefarmasian dan alat kesehatan;
+# koordinasi pelaksanaan tugas, pembinaan, dan pemberian dukungan administrasi kepada seluruh unsur organisasi di lingkungan Kementerian Kesehatan;
+# pengelolaan barang milik negara yang menjadi tanggung jawab Kementerian Kesehatan;
+# pelaksanaan penelitian dan pengembangan di bidang kesehatan;
+# pelaksanaan pengembangan dan pemberdayaan sumber daya manusia di bidang kesehatan serta pengelolaan tenaga kesehatan;
+# pelaksanaan bimbingan teknis dan supervisi atas pelaksanaan urusan Kementerian Kesehatan di daerah;
+# pengawasan atas pelaksanaan tugas di lingkungan Kementerian Kesehatan; dan
+# pelaksanaan dukungan substantif kepada seluruh unsur organisasi di lingkungan Kementerian Kesehatan.<ref name="Perpres 35/2015"/>
+
+== Susunan Organisasi ==
+Berdasarkan Peraturan Presiden Nomor 35 Tahun 2015, Kementerian Kesehatan terdiri atas:
+* [[Sekretariat Jenderal Kementerian Kesehatan Republik Indonesia|Sekretariat Jenderal]];
+* [[Direktorat Jenderal Kesehatan Masyarakat]];
+* [[Direktorat Jenderal Pencegahan dan Pengendalian Penyakit]];
+* [[Direktorat Jenderal Pelayanan Kesehatan]];
+* [[Direktorat Jenderal Kefarmasian dan Alat Kesehatan]];
+* [[Inspektorat Jenderal Kementerian Kesehatan Republik Indonesia|Inspektorat Jenderal]];
+* [[Badan Penelitian dan Pengembangan Kesehatan]];
+* [[Badan Pengembangan dan Pemberdayaan Sumber Daya Manusia Kesehatan]];
+* Staf Ahli Bidang Ekonomi Kesehatan;
+* Staf Ahli Bidang Teknologi Kesehatan dan Globalisasi;
+* Staf Ahli Bidang Desentralisasi Kesehatan; dan
+* Staf Ahli Bidang Hukum Kesehatan.<ref name="Perpres 35/2015"/>
+
+== Koordinasi terhadap LPNK ==
+Berdasarkan Peraturan Presiden Nomor 64 Tahun 2005, Menteri Kesehatan melakukan koordinasi terhadap [[Lembaga Pemerintah Nonkementerian|LPNK]] yaitu [[Badan Pengawas Obat dan Makanan]] dan [[Badan Kependudukan dan Keluarga Berencana Nasional]].
+
+== Lihat pula ==
+* [[Daftar Menteri Kesehatan Indonesia]]
+* [[Kementerian Indonesia]]
+
+== Referensi ==
+{{reflist}}
+
+== Pranala luar ==
+* {{id}} [http://www.kemkes.go.id/ Situs web resmi Kementerian Kesehatan Republik Indonesia]
+* {{id}} [http://sehatnegeriku.com/ Situs web resmi Pusat Komunikasi Publik Kementerian Kesehatan Republik Indonesia]
+
+{{Kementerian Kesehatan Republik Indonesia}}
+{{Kementerian Indonesia}}
+{{indo-stub}}
+
+[[Kategori:Kementerian Kesehatan Indonesia| {{PAGENAME}}]]
+[[Kategori:Kementerian Indonesia|Kesehatan]]

@@ -1,0 +1,69 @@
+(263810) 2008 RD56
+{{Infobox Planet 
+|minorplanet = yes 
+|width = 25em 
+|bgcolour = 
+|apsis = 
+|name = (263810) 2008 RD56
+|symbol = 
+|image = 
+|caption = 
+|discovery = yes 
+|discovery_ref = 
+|discoverer = 
+|discovery_site = 
+|discovered = 
+|designations = yes
+|mp_name = 
+|alt_names = 
+|mp_category = 
+|orbit_ref = 
+|epoch = 
+|aphelion =5.806
+|perihelion =4.496
+|semimajor =5.151
+|eccentricity =0.127
+|period = 
+|avg_speed = 
+|inclination =4.9
+|asc_node =244.2
+|mean_anomaly =70.12
+|arg_peri =204.1
+|satellites = 
+|physical_characteristics = yes 
+|dimensions = 
+|mass = 
+|density = 
+|surface_grav = 
+|escape_velocity = 
+|sidereal_day = 
+|axial_tilt = 
+|pole_ecliptic_lat = 
+|pole_ecliptic_lon = 
+|albedo = 
+|temperatures= 
+|temp_name1 = 
+|mean_temp_1 = 
+|max_temp_1 = 
+|temp_name2 = 
+|max_temp_2 = 
+|spectral_type = 
+|abs_magnitude =14.0
+}}
+'''(263810) 2008 RD56''' adalah sebuah [[asteroid]]. Asteroid ini merupakan bagian dari [[asteroid Troya Yupiter]], yang terletak di orbit [[Yupiter]]. [[Eksentrisitas orbit]] asteroid ini tercatat sebesar 0.127, sementara [[magnitudo mutlak]]nya adalah 14.0.
+
+== Pembentukan ==
+
+Seperti asteroid secara keseluruhan, asteroid ini terbentuk dari [[nebula]] [[matahari]] primordial sebagai pecahan [[planetisimal]], sesuatu di nebula matahari muda yang tidak cukup besar untuk berubah menjadi [[planet]].<ref>{{cite web | title=What Are Asteroids And Comets? | url=http://neo.jpl.nasa.gov/faq/#ast | work=Near Earth Object Program FAQ | publisher=[[NASA]] | accessdate=13 September 2010 | archiveurl=http://web.archive.org/web/20100909210213/http://neo.jpl.nasa.gov/faq/ | archivedate=9 September 2010 | deadurl=no}}</ref>
+
+== Referensi ==
+
+{{Reflist}}
+
+== Pranala luar ==
+
+* [http://www.minorplanetcenter.net/iau/lists/t_jupitertrojans.html Daftar asteroid Troya Yupiter] - ''The International Astronomical Union Minor Planet Center.''
+
+[[Kategori:Asteroid Troya Yupiter]]
+
+{{asteroid-stub}}

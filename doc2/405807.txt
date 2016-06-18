@@ -1,0 +1,29 @@
+Mazmur 123
+{{Bible chapter|letname= {{PAGENAME}} |previouslink= Mazmur 122 | previousletter= Mazmur 122 | nextlink= Mazmur 124 | nextletter= Mazmur 124 |book=[[Kitab Mazmur]] |biblepart=[[Perjanjian Lama]] | booknum= 19 |category= [[Ketuvim]] | filename= Psalms_Scroll.jpg |size=250px | name=Psalms_Scroll |caption=<div style="width: 250px; text-align: center; line-height: 1em">Naskah Gulungan Mazmur "[[11Q5]]" di antara [[Naskah Laut Mati]] memuat salinan sejumlah besar mazmur Alkitab yang diperkirakan dibuat pada abad ke-2 SM.</div>}}
+
+'''Mazmur 123''' (disingkat '''Maz 123''' atau '''Mz 123'''; penomoran [[Septuaginta]]: '''Mazmur 122''') adalah sebuah [[mazmur]] dalam bagian ke-5 [[Kitab Mazmur]] di [[Alkitab Ibrani]] atau [[Perjanjian Lama]] dalam [[Alkitab]] [[Kristen]]. Tidak ada catatan nama penggubahnya.<ref>Marie Claire Barth. Tafsiran kitab Kitab Mazmur 73-150. Jakarta : BPK Gunung Mulia. 2003.</ref><ref>Allen Leslie. Word Biblical Commentary, Volume 21 : Psalms 101-150. Dallas, Texas : Word Books Publisher. 1998.</ref>
+
+== Teks ==
+* Naskah-naskah kuno yang memuat pasal ini: 
+** [[Teks Masoret]] (salinan tertua dari abad ke-10 M)
+** [[Septuaginta]] (terjemahan [[Alkitab Ibrani]] dalam [[bahasa Yunani]] dari [[abad ke-3 SM]]) 
+** [[Gulungan Laut Mati]], antara lain [[11Q5]] (kolom III; dari abad ke-2 SM)
+* [[Pasal dan ayat dalam Alkitab|Mazmur ini dibagi atas]] 4 ayat.
+* Dalam versi [[Terjemahan Baru]] dari [[Lembaga Alkitab Indonesia]], mazmur ini diberi judul "Berharap kepada anugerah TUHAN".
+
+== Struktur ==
+* {{Alkitab|Mazmur 123:1-2}}: Penegasan bahwa mata umat tertuju hanya kepada Tuhan.
+* {{Alkitab|Mazmur 123:3-4}}: Permohonan kepada Tuhan untuk mengasihani umat-Nya.
+
+== Tradisi [[Yahudi]] ==
+* Salah satu dari sekumpulan "[[Nyanyian Ziarah]]" (Shir Hama'alot), sesuai catatan di ayat 1, yaitu sejumlah lagu yang dinyanyikan ketika orang-orang mendaki ke [[Yerusalem]] dari berbagai tempat untuk berziarah dan beribadah pada tiga [[Hari Raya Yahudi|Hari Raya Agung]] sesuai aturan [[Taurat]] ({{Alkitab|Ulangan 16:16}}).
+*Dibaca setelah ''Mincha'' antara [[Sukkot]] dan ''Shabbat Hagadol''<ref>The Complete Artscroll Siddur page 530</ref>.
+*Ayat 3 adalah bagian dari alinea terakhir ''Tachanun''<ref>The Complete Artscroll Siddur page 139</ref>.
+
+== Referensi ==
+{{reflist}}
+
+== Pranala luar ==
+{{Daftar Mazmur}}
+
+[[Kategori:Mazmur|123]]

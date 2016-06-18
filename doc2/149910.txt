@@ -1,0 +1,77 @@
+Sillame
+{{Infobox settlement
+|name = Sillame
+|settlement_type = [[Daftar kota di Estonia|Kota]] dan [[Daftar munisipalitas di Estonia|munisipalitas]]
+|image_skyline = Sillame.jpg
+|imagesize = 
+|image_caption = 
+|image_flag = Flag of Sillame.svg
+|flag_size = 125px
+|image_seal = 
+|seal_size = 
+|image_shield = Sillamae_coatofarms.png
+|shield_size = 75px
+|image_blank_emblem = 
+|blank_emblem_type = <!-- defaults to Logo -->
+|blank_emblem_size = 
+|nickname = 
+|motto = 
+|pushpin_map = Estonia
+|pushpin_label_position = bottom
+|pushpin_map_caption = Location in Estonia
+|latd = 59|latm = 23|lats = 35|latNS = N
+|longd = 27|longm = 46|longs = 27|longEW = E
+|coordinates_display = inline,title
+|coordinates_region = EE
+|subdivision_type = Negara
+|subdivision_name = {{Flag|Estonia}}
+|subdivision_type1 = [[Daftar county di Estonia|County]]
+|subdivision_name1 = {{flagicon image|Ida-Virumaa lipp.svg}} [[County Ida-Viru]]
+|established_title = Pertama kali disebutkan
+|established_date = 1502
+|government_type = 
+|leader_party = [[Partai Tengah Estonia|Partai Tengah]]
+|leader_title = Wali kota
+|leader_name = Jelena Korunova<ref name="mayor">{{cite web|title=Linnavalitsus|url=http://www.sillamae.ee/index.php?page=34|publisher=Sillame|accessdate=6 October 2010}}</ref>
+|area_footnotes = <ref name="Statistics Estonia">{{cite web|title=Population figure and composition|url=http://pub.stat.ee/px-web.2001/Dialog/varval.asp?ma=Po0291&ti=POPULATION+NUMBER%2C+AREA+AND+DENSITY+BY+ADMINISTRATIVE+UNIT+OR+TYPE+OF+SETTLEMENT%2C+1+JANUARY&path=../I_Databas/Population/01Population_indicators_and_composition/04Population_figure_and_composition/&lang=1|publisher=[[Statistics Estonia]]|accessdate=6 October 2010}}</ref>
+|area_total_km2 = 10.54
+|population_footnotes = <ref name="Statistics Estonia"/>
+|population_total = 15855
+|population_as_of = 2012
+|population_density_km2 = auto
+|timezone = [[Waktu Eropa Timur|EET]]
+|utc_offset = +2
+|timezone_DST = [[Waktu Musim Panas Eropa Timur|EEST]]
+|utc_offset_DST = +3
+|elevation_m = 18
+|postal_code_type = Kode pos
+|postal_code = 40231 hingga 40233
+|area_code = (+372) 033
+|registration_plate = I
+|website = [http://www.sillamae.ee www.sillamae.ee]
+}}
+'''Sillame''' ialah sebuah kota di [[Ida-Viru]], bagian utara [[Estonia]], di pesisir selatan [[Teluk Finlandia]].
+
+Pada masa [[Uni Soviet]], Sillame adalah [[kota tertutup]] karena adanya pabrik kimia pada masa yang memproduksi [[bahan bakar nuklir|bahan bakar]] dan bahan nuklir untuk fasilitas [[ladang nuklir|ladang]] dan [[senjata nuklir]] Soviet. Awalnya, [[uranium]] ditambang di tempat yang sama, kemudian diimpor dari sejumlah lokasi di [[Blok Timur]], terutama [[Cekoslowakia]]. Biji uranium dari tambang [[Provinsi Bihor]] yang dioperasikan oleh Sovromcuar (salah satu [[SovRoms]] yang dioperasikan bersama-sama antara Uni Soviet dan [[Rumania Komunis|Rumania]]) juga diproses di Sillame.<ref>Diehl</ref> Ada rumor bahwa [[bom nuklir]] pertama Soviet dibuat dari tambang uranium di Sillame.
+
+Di dekat kota ini, ada sebuah pantai dan pemandian ([[Toila]] dan [[Narva-Joesuu]]), digunakan selama masa anggota Partai Komunis dan pimpinan Soviet.
+
+Pada tahun 2005, sebuah pelabuhan dibuka di Sillame. Pada tahun 2006 layanan feri reguler dibangun antara Sillame dan [[Kotka]], [[Finlandia]].
+
+== Galeri ==
+<gallery>
+Berkas:Sillamae sej.jpg|PLTB Sillame
+</gallery>
+
+== Catatan ==
+{{reflist}}
+
+== Pranala luar ==
+* {{et}} {{ru}} {{en}} [http://www.sillamae.ee/ Situs resmi]
+* {{et}} {{ru}} {{En}} [http://www.sillamae.ee Sillame Web]
+* Peter Diehl, "Uranium Mining in Europe", 1995. [http://www10.antenna.nl/wise/439-440/chapter1.html Chapter 1]
+
+[[Kategori:Kota di Estonia]]
+
+
+{{Estonia-geo-stub}}

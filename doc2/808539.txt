@@ -1,0 +1,40 @@
+Hiroki Fujiharu
+{{Infobox football biography
+|playername={{PAGENAME}}
+|image=
+|fullname={{PAGENAME}}
+|dateofbirth={{birth date and age|1988|11|28}}
+|cityofbirth=[[Prefektur Osaka]]
+|countryofbirth=[[Jepang]]
+|height=
+|currentclub=[[Gamba Osaka]]
+|clubnumber=
+|position=[[Bek (sepak bola)|Bek]]
+|years1=2011-
+|clubs1=[[Gamba Osaka]]
+|caps1=
+|goals1=
+|nationalyears1=2015-
+|nationalteam1={{timnas|Jepang}}
+|nationalcaps1=2
+|nationalgoals1=0
+}}
+'''{{PAGENAME}}''' ({{lahirmati||28|11|1988}}) adalah pemain [[sepak bola]] asal [[Jepang]].
+
+==Statistik==
+{|class="wikitable" style="text-align:center;"
+|-
+!colspan="3"|[[Tim nasional sepak bola Jepang|Jepang]]
+|-
+!Tahun||Tampil||Gol
+|-
+|2015||2||0
+|-
+!Total||2||0
+|}
+
+== Pranala luar ==
+
+*[http://www.national-football-teams.com/player/58749/Hiroki_Fujiharu.html National Football Teams]
+
+[[Kategori:Pemain sepak bola Jepang]]

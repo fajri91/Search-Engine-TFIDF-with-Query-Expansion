@@ -1,0 +1,18 @@
+Templat:Pemegang gelar Kontes Kecantikan Internasional Utama 2001
+{{Pemegang gelar Empat Kontes Kecantikan Besar
+|name = Pemegang gelar Kontes Kecantikan Internasional Utama 2001
+|state = {{{state|autocollapse}}}
+|Year=2001
+|Miss Universe={{flagicon|Puerto Rico}} [[Denise Quiones]]
+|Miss World={{flagicon|Nigeria}} [[Agbani Darego]]
+|Miss Earth={{flagicon|Denmark}} [[Catharina Svensson]]
+|Miss International={{flagicon|Poland}} [[Magorzata Roniecka]]
+|below = {{Pemegang gelar Kontes Kecantikan Internasional Utama footer}}
+}}<noinclude>
+{{collapsible option}}
+[[Kategori:Templat Empat Kontes Kecantikan Besar]]
+[[Kategori:Templat Miss Earth|{{PAGENAME}}]]
+[[Kategori:Templat Miss International|{{PAGENAME}}]]
+[[Kategori:Templat Miss Universe|{{PAGENAME}}]]
+[[Kategori:Templat Miss World|{{PAGENAME}}]]
+</noinclude>

@@ -1,0 +1,29 @@
+Templat:Infobox Bahasa/quilt/doc
+{{Documentation subpage}}
+<!-- Categories and interwikis go at the bottom of this page. -->
+==See also==
+* {{tlx|Infobox language/language family color table}} (the basic table)
+
+Subtemplates used:
+* {{tlx|Infobox language/family-color}}
+* {{tlx|Infobox language/genetic}}
+<includeonly><!-- this subtemplate category-->
+[[Category:Templat infobox bahasa|Quilt]]
+
+[[arz::Infobox language/quilt]]
+[[bn::Infobox language/quilt]] 
+[[bo:Template:Infobox language/quilt]]
+[[br:Patrom:Yezh/Marell]]
+[[en:Template:Infobox language/quilt]]
+[[sw:Kigezo:Language/quilt]]
+[[lo::Infobox Language/quilt]]
+[[ms:Templat:Infobox language/quilt]]
+[[ne::Infobox Language/quilt]]
+[[or::Infobox language/quilt]]
+[[rue::Infobox language/quilt]]
+[[si::Infobox language/quilt]]
+[[te::Infobox Language/quilt]]
+[[vi:Bn mu:Infobox Language/quilt]]
+<!-- Categories and interwikis go here: -->
+
+</includeonly>

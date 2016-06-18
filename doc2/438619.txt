@@ -1,0 +1,113 @@
+Tim nasional sepak bola Guam
+{{Infobox National football team
+| Name              = Guam
+| Badge             = Guam FA.gif
+| Nickname          = ''Matao''
+| Association       = [[Asosiasi Sepak Bola Guam]]
+| Sub-confederation = [[East Asian Football Federation|EAFF]] ([[Asia Timur]])
+| Confederation     = [[Asian Football Confederation|AFC]] ([[Asia]])
+| Coach             = {{flagicon|England}} [[Gary White (football)|Gary White]]
+| Most caps         = 
+| Captain           = [[Jason Cunlife]]
+| Top scorer        = [[Jason Cunlife]] 
+| Home Stadium      = [[Guam National Football Stadium]]
+| FIFA Trigramme    = GUM
+| FIFA Rank         = 161 (18 Desember 2014)
+| FIFA max          = 160
+| FIFA max date     = Februari 2014
+| FIFA min          = 205
+| FIFA min date     = November 2004-Februari 2005
+| Elo Rank          = 214
+| Elo max           = 213
+| Elo max date      = 6 Maret 2013
+| Elo min           = 227
+| Elo min date      = 2007
+
+<!-- First Kit -->
+| pattern_la1 =_Guam14h
+| pattern_b1  =_Guam14h
+| pattern_ra1 =_Guam14h
+| pattern_sh1 =
+| pattern_so1 = 
+| leftarm1    = 101884
+| body1       = 101884
+| rightarm1   = 101884
+| shorts1     = 101884
+| socks1      = 101884
+
+<!-- Second Kit -->
+| pattern_la2 =_Guam14a
+| pattern_b2  =_Guam14a
+| pattern_ra2 =_Guam14a
+| pattern_sh2 = 
+| pattern_so2 =
+| leftarm2    = AC4E34
+| body2       = AC4E34
+| rightarm2   = AC4E34
+| shorts2     = FFFFFF
+| socks2      = AC4E34
+
+| First game   = {{flagicon|Fiji}} {{timnas|Fiji}} 120 {{flagicon|GUM}}Guam  <br>  ([[Guam]]; 24 Agustus 1975)
+| Largest win  = {{flagicon|GUM }} Guam 161 {{flagicon|Pohnpei}} {{timnas|Pohnpei}} <br> ([[Koror]], [[Palau]]; Juli, 1998; Pertandingan tidak resmi) <br> {{flagu|Guam}} 102 {{fb-rt|TPE}} <br> ([[Yangon]], [[Myanmar]]; 6 Maret 2013)
+| Largest loss = {{flagicon|PRK}} {{timnas|Korea Utara}} 210 {{flagicon|GUM}} Guam <br> ([[Taipei]], [[Republik Tiongkok]]; 11 Maret 2005)
+}}
+'''Tim nasional sepak bola Guam''' merupakan sebuah tim nasional [[sepak bola]] yang mewakili [[Guam]]. Tim ini belum pernah tampil di ajang [[Piala Dunia FIFA]] dan [[Piala Asia]].
+
+==Rekor Piala Dunia==
+* {{flagicon|FRA}} {{wc|1998}} - ''Tidak ikut''
+* {{flagicon|KOR}} {{flagicon|JPN}} {{wc|2002}} - ''Tidak lolos''
+* {{flagicon|GER}} {{wc|2006}} - ''Mundur''
+* {{flagicon|RSA}} {{wc|2010}} - ''Mundur''
+* {{flagicon|BRA}} {{wc|2014}} - ''Tidak ikut''
+
+==Rekor Piala Asia==
+* {{flagicon|Hong Kong|1910}} [[Piala Asia AFC 1956|1956]] hingga {{flagicon|Japan}} [[Piala Asia AFC 1992|1992]] - ''Tidak ikut''
+* {{flagicon|UAE}} [[Piala Asia AFC 1996|1996]] hingga {{flagicon|China}} [[Piala Asia AFC 2004|2004]] - ''Tidak lolos''
+* {{flagicon|Indonesia}}{{flagicon|Malaysia}}{{flagicon|Thailand}}{{flagicon|Vietnam}} [[Piala Asia AFC 2007|2007]] hingga {{flagicon|AUS}} [[Piala Asia AFC 2015|2015]] - ''Tidak ikut''
+
+==Skuad==
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Doug Herrick]]|age={{Birth date and age|1989|6|2|df=y}}|caps=14|goals=0|club=[[Charlotte Eagles]]|clubnat=USA}}
+{{nat fs g player|no=18|pos=GK|name=[[Bijan Gloston]]|age={{Birth date and age|1993|1|11|df=y}}|caps=1|goals=0|club=[[Marshall Thundering Herd]]|clubnat=USA}}
+{{nat fs g player|no=23|pos=GK|name=[[Dallas Jaye]]|age={{Birth date and age|1993|6|19|df=y}}|caps=5|goals=0|club=[[FC Tucson|Tucson]]|clubnat=USA}}
+|-
+! colspan="9"  style="background:#b0d3fb; text-align:left;"|
+|- style="background:#dfedfd;"
+{{nat fs g player|no=2|pos=DF|name=[[Scott Guerrero]]|age={{Birth date and age|1990|8|22|df=y}}|caps=24|goals=0|club=[[Loyola Marymount Lions]]|clubnat=USA}}
+{{nat fs g player|no=3|pos=DF|name=[[Jonahan Romero]]|age={{Birth date and age|1988|3|17|df=y}}|caps=17|goals=0|club=[[Puerto Rico Islanders]]|clubnat=USA}}
+{{nat fs g player|no=4|pos=DF|name=[[James Gawel]]|age={{Birth date and age|1987|1|29|df=y}}|caps=7|goals=0|club=[[Kapaolongo Dawgs]]|clubnat=USA}}
+{{nat fs g player|no=5|pos=DF|name=[[Travis Nicklaw]]|age={{Birth date and age|1993|12|21|df=y}}|caps=14|goals=0|club=[[San Diego State Aztecs]]|clubnat=USA}}
+{{nat fs g player|no=6|pos=DF|name=[[Micah Paulino]]|age={{Birth date and age|1992|11|16|df=y}}|caps=22|goals=0|club=[[Niagara Purple Eagles men's soccer|Niagara Purple Eagles]]|clubnat=USA}}
+{{nat fs g player|no=15|pos=DF|name=[[Shawn Nicklaw]]|age={{Birth date and age|1989|4|15|df=y}}|caps=16|goals=1|club=[[Jacksonville Armada FC]]|clubnat=USA}}
+{{nat fs g player|no=19|pos=DF|name=[[Erik Ustruck]]|age={{Birth date and age|1985|12|4|df=y}}|caps=3|goals=0|club=[[Orlando City]]|clubnat=USA}}
+{{nat fs g player|no=20|pos=DF|name=[[A. J. DeLaGarza]]|age={{Birth date and age|1987|11|4|df=y}}|caps=2|goals=0|club=[[LA Galaxy]]|clubnat=USA}}
+|-
+! colspan="9"  style="background:#b0d3fb; text-align:left;"|
+|- style="background:#dfedfd;"
+{{nat fs g player|no=8|pos=MF|name=[[Ian Mariano]]|age={{Birth date and age|1990|10|7|df=y}}|caps=29|goals=2|club=[[Pachanga Diliman F.C.]]|clubnat=PHI}}
+{{nat fs g player|no=11|pos=MF|name=[[Shane Malcolm]]|age={{Birth date and age|1991|10|13|df=y}}|caps=4|goals=0|club=[[Kitsap Pumas]]|clubnat=USA}}
+{{nat fs g player|no=12|pos=MF|name=[[Thaddeus Atalig]]|age={{Birth date and age|1995|5|7|df=y}}|caps=8|goals=0|club=[[Bowling Green Falcons]]|clubnat=USA}}
+{{nat fs g player|no=13|pos=MF|name=[[Ryan Guy]]|age={{Birth date and age|1985|9|5|df=y}}|caps=13|goals=4|club=[[New England Revolution]]|clubnat=USA}}
+{{nat fs g player|no=14|pos=MF|name=[[Reyn Johnson]]|age={{Birth date and age|1990|11|1|df=y}}|caps=8|goals=0|club=[[UMass Boston Beacons]]|clubnat=USA}}
+{{nat fs g player|no=16|pos=MF|name=[[Ian Adamos]] |age={{Birth date and age|1988|4|3|df=y}}|caps=14|goals=0|club=[[SoCal Elite]]|clubnat=USA}}
+{{nat fs g player|no=17|pos=MF|name=[[Marcus Lopez]]|age={{Birth date and age|1992|2|9|df=y}}|caps=13|goals=2|club=[[Lasell Lasers]]|clubnat=USA}}
+{{nat fs g player|no=21|pos=MF|name=[[Josh Borja]]|age={{Birth date and age|1990|8|1|df=y}}|caps=14|goals=5|club=[[Los Angeles Galaxy]]|clubnat=USA}}
+|-
+! colspan="9"  style="background:#b0d3fb; text-align:left;"|
+|- style="background:#dfedfd;"
+{{nat fs g player|no=7|pos=FW|name=[[John Matkin]]|age={{Birth date and age|1986|4|20|df=y}}|caps=7|goals=0|club=[[Chester F.C.|Chester]]||clubnat=ENG}}
+{{nat fs g player|no=9|pos=FW|name=[[Marcus Lopez]]|age={{Birth date and age|1992|2|9|df=y}}|caps=13|goals=2|club=[[Harvest Christian Eagles]]|clubnat=USA}}
+{{nat fs g player|no=10|pos=FW|name=[[Jason Cunliffe (footballer)|Jason Cunliffe]] ([[Captain (association football)|captain]])|age={{Birth date and age|1983|10|23|df=y}}|caps=30|goals=15|club=[[Rovers FC]]|clubnat=GUM}}
+{{nat fs g player|no=22|pos=FW|name=[[Zachary DeVille]]|age={{Birth date and age|1993|3|23|df=y}}|caps=10|goals=2|club=[[San Diego Flash]]|clubnat=USA}}
+{{nat fs g end}}
+
+==Referensi==
+{{reflist}}
+
+==Pranala luar==
+*[http://www.guamfootball.com/ Asosiasi Sepak Bola Guam]
+*[http://guamallstars.webbyen.dk/ Fan Club]
+
+{{TimAFC}}
+
+[[Kategori:Tim sepak bola]]

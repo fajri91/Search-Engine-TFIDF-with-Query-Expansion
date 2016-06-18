@@ -1,0 +1,54 @@
+Saintry-sur-Seine
+{{French commune
+|nomcommune=Saintry-sur-Seine
+|image=
+|caption=
+|image_map=France_jms.png
+|x=142
+|y=81
+|lat_long={{coord|48|35|30|N|2|29|52|E|region:FR_type:city}}
+|insee=91577
+|cp=91250
+|rgion=[[le-de-France (region)|le-de-France]]
+|dpartement=[[Essonne]]
+|arrondissement=vry
+|canton=Saint-Germain-ls-Corbeil
+|intercomm=[[Syndicat d'agglomration nouvelle de Snart en Essonne|SAN de Snart en Essonne]]
+|maire=Michel Carreno
+|mandat=2008-2014
+|alt mini=32 m
+|alt maxi=92 m
+|km=3.29
+|sans=4,998
+|date-sans=1999
+|dens=1,519
+|date-dens=1999
+|}}
+
+'''Saintry-sur-Seine''' merupakan sebuah kota dan [[komune di Perancis|komune]] di ''[[departemen di Perancis|dpartement]]'' [[Essonne]], di [[region di Perancis|region]] [[le-de-France (region)|le-de-France]] di [[Perancis]].
+
+== Demografi ==
+Menurut [[sensus]] 1999, penduduknya berjumlah {{formatnum:4998}} jiwa. Perkiraan untuk tahun 2005 adalah {{formatnum:4979}} jiwa.
+
+Penduduk Saintry-sur-Seine disebut sebagai ''Saintryens''.
+
+== Lihat pula ==
+* [[Komune di departemen Essonne]]
+
+== Catatan ==
+* [http://www.ume.asso.fr Mayors of Essonne Association] {{fr icon}}
+* [http://www.insee.fr/en/home/home_page.asp INSEE] {{en icon}}
+* [http://www.ign.fr/rubrique.asp?rbr_id=1&lng_id=EN IGN] {{en icon}}
+
+== Pranala luar ==
+{{commonscat-inline|Saintry-sur-Seine}}
+* [http://www.iaurif.org/en/gis/fichescom/mos99/ficmos/mos91577.html Land use (IAURIF)] {{en icon}}
+
+{{Komune di Essonne}}
+
+{{DEFAULTSORT:Saintrysurseine}}
+[[Kategori:Komune di Essonne]]
+[[Kategori:Komune di Perancis]]
+
+
+{{Negara-geo-stub|Perancis}}

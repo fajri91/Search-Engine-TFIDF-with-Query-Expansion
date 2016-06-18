@@ -1,0 +1,14 @@
+Berkas:Tanaman Purwoceng.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+sumber dari http://dialerbisnis.blogspot.com/2011/04/purwaceng-viagra-tradisional.html
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{GFDL}}

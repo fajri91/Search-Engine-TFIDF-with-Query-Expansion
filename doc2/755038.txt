@@ -1,0 +1,31 @@
+Stasiun Comal/layout
+{|align=center
+{{BS-table}}
+{{BS3|CONTfa|CONTg||Ke [[Stasiun Petarukan|Petarukan]]}}
+{{BS3|ABZg2|STR+c3|||}}
+{{BS3|VIADUKT1-R|VIADUKT1-L||O1=Wc1|O2=STR+4|}}
+{{BS3|STR+c2|ABZg3|||}}
+{{BS3|ABZg+1|ABZg2|STRc3||O2=Wc4}}
+{{BS5|STRc2|ABZg3|STR+c1|STR+4||}}
+{{BS5|STR+1|STR+c4|STR|STR||}}
+{{BS5|STR|STRf|STRg|STR||}}
+{{BS5|STR|STR|STR+BSl|STR+BSlr||}}
+{{BS5|STR|STR|STR+BSl|STR+BSlr|BUILDING|O1=num4l|O2=num3l|O3=num2l|O4=num1l}}
+{{BS5|STR|STR|STR+BSl|STR+BSlr||}}
+{{BS5|STR|STRf|STRg|STR||}}
+{{BS5|STR|STR|STR|STR||}}
+{{BS5|STR|STR|STR|STR||}}
+{{BS5|STR2|STR+c3|STR+c2|STR3||}}
+{{BS5|STRc1|ABZg+4|ABZg+1|STRc4||}}
+{{BS5|RP1q|SKRZ-G1BUE|SKRZ-G1BUE|RP1q||}}
+{{BS3|ABZg2|STR+c3||}}
+{{BS3|STR+c1|ABZg+4||}}
+{{BS3|STR+c2|ABZg3|||}}
+{{BS3|ABZg+1|STR+c4|||}}
+{{BS3|CONTf|CONTge||Ke [[Stasiun Sragi|Sragi]]}}
+|}
+|}
+
+<noinclude>
+[[Kategori:Layout stasiun|Comal]]
+</noinclude>

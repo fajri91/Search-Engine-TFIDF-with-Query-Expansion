@@ -1,0 +1,14 @@
+Berkas:Nobita and the Castle of the Undersea Devil.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+{{dari|En}}
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Poster}}

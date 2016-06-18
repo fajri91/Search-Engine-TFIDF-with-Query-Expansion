@@ -1,0 +1,52 @@
+Templat:Daftar Isi
+
+<noinclude>
+<templatedata>
+{
+	"params": {
+		"1. Profil": {
+			"type": "content",
+			"suggested": true
+		},
+		"2. Sejarah Singkat dan Tokoh Penting": {
+			"type": "content",
+			"suggested": true
+		},
+		" 3. Fasilitas": {
+			"type": "content",
+			"suggested": true
+		},
+		"4. Tahapan Seleksi": {
+			"type": "content",
+			"suggested": true
+		},
+		"5. Sistim Belajar-Mengajar": {
+			"type": "content",
+			"suggested": true
+		},
+		"6. Kode Etik": {
+			"type": "content",
+			"suggested": true
+		},
+		"7. Pengukuhan dan Pelepasan": {
+			"type": "content",
+			"suggested": true
+		},
+		"8. Pakaian Seragam": {
+			"type": "content",
+			"suggested": true
+		},
+		"9. Lagu Hymne dan Lagu Mars": {
+			"type": "content",
+			"suggested": true
+		},
+		"10. Prestasi": {
+			"type": "content",
+			"suggested": true
+		}
+	},
+	"description": "Daftar Isi",
+	"format": "block"
+}
+</templatedata>
+</noinclude>

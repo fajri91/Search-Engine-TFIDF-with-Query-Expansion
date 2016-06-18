@@ -1,0 +1,16 @@
+Templat:Beri rendang
+<div style="border-style:solid; border-color:blue; background-color:AliceBlue; border-width:1px; text-align:left; padding:8px;" class="plainlinks">[[Berkas:Lamb_rendang.jpg|150px|left]]
+
+
+'''[[user:{{su<includeonly></includeonly>bst:REVISIONUSER}}|{{#if:{{{1|}}}|{{{1|}}}|{{su<includeonly></includeonly>bst:REVISIONUSER}} }}]]''' memberikan [[rendang]] sebagai hadiah untuk Anda! Dengan rendang ini semoga hari-harimu lebih baik lagi dan menyenangkan. Berikan rendang ini untuk seseorang sebagai wujud syukur atas makanan khas Indonesia yang begitu lezat. Selamat menikmati! 
+{{{'''2'''|}}}
+{{br}}
+<hr />
+{{{message|}}} 
+{{br}}
+Berbagi kebaikan dengan memberi [[wikipedia:WikiLove|WikiLove]] Rendang, berikan templat '''{{<nowiki>Gnt:</nowiki>[[template:Beri rendang|beri rendang]]}}''' pada halaman pembicaraan sebagai wujud syukur atas makanan khas Indonesia yg berlimpah-limpah.
+</div><noinclude>
+{{documentation}} 
+[[category:WikiLove]]
+{{Wikipedia:KasihWiki}}
+</noinclude>

@@ -1,0 +1,5 @@
+Portal:Australia/box-header
+<div style="clear: both;"></div> 
+<div style=" border: 1px solid darkgreen; background: yellow; color: darkgreen; padding: .1em; text-align: center; letter-spacing: 2px; word-spacing:3px; font-weight: bold; font-size: 100%; margin-bottom: 0px; border-bottom: none;">{{{1}}}</div>
+<div style="display: block; border: 1px solid darkgreen; vertical-align: top; background: white; color: black; margin-bottom: 10px; padding: 1em; margin-top: 0em; padding-top: .3em; ">
+<span style="text-align: right; float: right; margin:-.9em -.9em .3em .3em; padding: -.9em -.9em .3em .3em;"><small class="editlink noprint plainlinksneverexpand">[{{SERVER}}{{localurl:{{{2}}}|action=edit}} sunting ]</small></span>

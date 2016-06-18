@@ -1,0 +1,25 @@
+Berkas:MathWorld logo.gif
+== Ringkasan ==
+{{logo fur
+<!-- REQUIRED -->
+ |Article           = MathWorld
+ |Use               = Infobox
+<!-- HIGHLY RECOMMENDED -->
+ |Source            = http://media.wolfram.com/logos/images/mathworld_logo.gif
+<!-- ADDITIONAL INFORMATION -->
+ |Used for          = 
+ |Owner             = [[Wolfram Research, Inc.]]
+ |Website           = [http://www.wolfram.com]
+ |History           = 
+ |Commentary        = Uploading to replace [[:File:MathWorldLogo.JPG]] in infobox
+<!-- OVERRIDE FIELDS -->
+ |Description       = Logo of [[MathWorld]] 
+ |Portion           = 
+ |Low_resolution    = Yes
+ |Purpose           = 
+ |Replaceability    = None
+ |other_information = 
+}}
+
+== Jenis lisensi ==
+{{Logo}}

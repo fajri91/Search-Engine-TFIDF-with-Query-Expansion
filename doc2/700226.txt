@@ -1,0 +1,105 @@
+Kaptopril
+{{drugbox | verifiedrevid = 457287479
+| IUPAC_name = (''2S'')-1-<nowiki>[</nowiki>(''2S'')-2-methyl-3-sulfanylpropanoyl<nowiki>]</nowiki><br />pyrrolidine-2-carboxylic acid
+| image = Captopril.svg
+| width = 160
+| image2 = Captopril-from-xtal-1980-3D-balls.png
+
+<!--Clinical data-->
+| tradename = Capoten
+| Drugs.com = {{drugs.com|monograph|captopril}}
+| MedlinePlus = a682823
+| pregnancy_AU = D
+| pregnancy_US = D
+| pregnancy_category = 
+| legal_status = Rx-only
+| routes_of_administration = oral
+
+<!--Pharmacokinetic data-->
+| bioavailability = 7075%
+| metabolism = [[hepatic]]
+| elimination_half-life = 1.9 hours
+| excretion = [[renal]]
+
+<!--Identifiers-->
+| CASNo_Ref = {{cascite|correct|CAS}}
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 62571-86-2
+| ATC_prefix = C09
+| ATC_suffix = AA01
+| PubChem = 44093
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+ | DrugBank = DB01197
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 40130
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 9G64RSX1XD
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00251
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 3380
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1560
+| PDB_ligand = X8Z
+
+<!--Chemical data-->
+| C=9 | H=15 | N=1 | O=3 | S=1 
+| molecular_weight = 217.29
+| smiles = O=C(O)[C@H]1N(C(=O)[C@H](C)CS)CCC1
+| InChI = 1/C9H15NO3S/c1-6(5-14)8(11)10-4-2-3-7(10)9(12)13/h6-7,14H,2-5H2,1H3,(H,12,13)/t6-,7+/m1/s1
+| InChIKey = FAKRSMQSSFJEIM-RQJHMYQMBT
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C9H15NO3S/c1-6(5-14)8(11)10-4-2-3-7(10)9(12)13/h6-7,14H,2-5H2,1H3,(H,12,13)/t6-,7+/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = FAKRSMQSSFJEIM-RQJHMYQMSA-N
+}}
+[[Berkas:Kaptopril.jpg|thumb|Struktur kimia Kaptopril]]
+'''Kaptopril''' merupakan suatu obat yang digunakan untuk pengobatan [[hipertensi]], [[gagal jantung kongestif]], dan pecegahan remodelisasi ventrikel pasca-MI.<ref name="buku1">{{cite book|title=Buku Saku Obat-obatan Anestesia Edisi II|author=Sota Omoigui|publisher=Buku Kedokteran EGC|year=1995|location=jakarta|isbn=979-448-353-2|page=42}}</ref> Kaptopril sendiri dieliminasi dalam [[hati]] dan [[ginjal]] dalam tubuh.<ref name="buku1"/> Bentuk sediaan kaptopril ini adalah [[tablet]] dengan [[dosis]] 12,5 mg, 25 mg, 37,5 mg, 50 mg, serta 100 mg.<ref name="buku1"/> Kaptopril bekerja dengan cara menginhibisi enzim pengkonversi angiotensin ([[ACE Inhibitor]]).<ref name="buku2">{{cite book|title=Buku Saku Dokter Keluarga Edisi 3|author=Mark A. Graber, Peter P. Toth, Robert L. Herting, Jr.|publisher=Penerbit Buku Kedokteran EGC|year=1997|location=jakarta|isbn=979-448-678-7|page=106}}</ref> Dalam pemberiannya, kaptopril memerlukan pemberian yang lebih sering.<ref name="buku2"/> Selain itu, kaptopril dapat menyebabkan [[hiperkalemia]] (kelebihan kalsium dalam darah) dan penurunan fungsi ginjal yang reversibel.<ref name="buku2"/> Kaptropil merupakan obat keras, maka penggunaan harus disertai informasi dari [[dokter]] atau [[apoteker]].<ref name="web1">{{en}} {{cite web|url=http://www.nlm.nih.gov/medlineplus/druginfo/meds/a682823.html|title=Captopril|year=2012|publisher=American Society of Health-System Pharmacists, Inc. Disclaimer|accessdate=April 17 2014}}</ref>
+== Monografi ==
+Nama kimia kaptopril adalah 1-[(2S)-3-merkapto-2-methylpropionyl]-Lproline dengan berat molekul 217,29.<ref name="web2">{{cite web|url=http://www.rxlist.com/capoten-drug.htm|title=Capoten|accessdate=April 17 2014|year=2012|publisher=RxList}}</ref>Kaptopril berupa bubuk kristal putih yang memiliki sedikit bau [[belerang]].<ref name="web2"/> Ia memiliki sifat larut dalam air (sekitar 160 mg / mL), [[metanol]], dan [[etanol]] dan sedikit larut dalam [[kloroform]] dan [[etil asetat]].<ref name="web2"/>
+== Farmakologi ==
+Kaptopril merupakan penghambat yang kompetitif terhadap enzim pengubah [[angiotensin]]-I menjadi angiotensin-II / angiotensin converting enzyme (ACE).<ref name="web3">{{cite web|url=http://www.hexpharmjaya.com/page/captopril.aspx|publisher=Hexpharm Jaya, A Kalbe Company|accessdate=April 17 2014|title=Captopril}}</ref> Kaptopril mencegah terjadinya perubahan dari angiotensin-I menjadi angiotensin II.<ref name="web3"/> Agiotensin II merupakan salah satu senyawa yang dapat menaikkan tekanan darah.<ref name="web3"/> Kaptopril dan metabolitnya di[[ekskresi]] terutama melalui [[urin]].<ref name="web3"/> Eliminasi waktu paruh Captopril meningkat dengan menurunnya fungsi ginjal dimana kecepatan eliminasi berhubungan dengan bersihan [[kreatinin]].<ref name="web3"/>
+Angiotensin II merupakan [[vasokontriktor]] yang berpotensi dan bertindak untuk melepaskan [[aldosteron]].<ref name="buku1"/> Dengan demikian, kaptopril menurunkan tahanan vaskular perifer dan tekanan darah dan menghambat retensi air dan garam yang normalnya ditimbulkan oleh aldosteron.<ref name="buku1"/> Enzim pengkonversi angiotensin juga bertanggung jawab dalam metabolisme [[bradikinin]].<ref name="buku1"/> Bradikinin merupakan vasodilator atau agen yang menyebabkan pembuluh darah mengalami [[vasodilatasi]].<ref name="buku1"/> Kaptopril menyebabkan kadar bradikinin dalam jaringan meningkat, sehingga aliran datah di otak dan tekanan [[intrakranial]] meningkat.<ref name="buku1"/>
+== Farmakokinetik ==
+=== Absorpsi ===
+Pemberian kaptopril secara oral memberikan penyerapan yang cepat dengan tingkat darah puncak sekitar 1 mg / mL yang ditemukan 1
+/ 2 sampai 1 jam setelah dosis 100 mg.<ref name="web4">{{en}} {{cite journal|title=Product Information CAPOTEN (Captopril)|url=http://www.aspenpharma.com.au/product_info/pi/Capoten_PI_Dec%2012.pdf|year=2010|publisher=Aspen Pharma Pty Ltd}}
+</ref> Penyerapan minimal rata-rata sekitar 75 persen.<ref name="web4"/> Kehadiran makanan di saluran pencernaan mengurangi penyerapan sebesar 25 sampai 40 persen.<ref name="web4"/>
+=== Distribusi ===
+Volume fase terminal [[distribusi]] (2L/kg) menunjukkan bahwa kaptopril didistribusikan ke jaringan dalam.<ref name="web4"/> Sekitar 30 persen dari obat terikat pada [[protein plasma]].<ref name="web4"/>
+=== Metabolisme ===
+Kaptopril secara ekstensif di[[metabolisme]].<ref name="web4"/> Metabolit utama dari kaptopril adalah kaptopril dimer (SQ 14.551).<ref name="web4"/> Penelitian secara in vitro telah menunjukkan bahwa SQ 14.551 secara signifikan lebih aktif daripada kaptopril sebagai inhibitor enzim pengkonversi angiotensin.<ref name="web4"/>
+=== Ekskresi ===
+Kaptopril dan metabolitnya (kaptopril dimer dan konjugasi dengan senyawa endogen [[thiol]] misalnya: kaptopril-[[sistein]]) diekskresikan terutama dalam urin.<ref name="web4"/> Studi [[in vitro]] menunjukkan bahwa metabolit yang dihasilkan bersifat labil dan interkonversi dapat terjadi secara [[in vivo]].<ref name="web4"/> Sekitar 40 persen dari dosis yang diberikan diekskresikan dan tidak mengalami perubahan dalam urin selama 24 jam dan 35 persen sebagai metabolit.<ref name="web4"/> Jumlah pembersihannya dalam tubuh adalah sekitar 0,8 L / kg / jam.<ref name="web4"/>
+== Farmakodinamik ==
+Administrasi kapropril menghasilkan pengurangan resistensi arteri perifer pada pasien [[hipertensi]] tanpa adanya perubahan atau peningkatan [[output jantung]].<ref name="web4"/> Pengurangan klinis yang signifikan dari tekanan darah yang sering diamati 60 sampai 90 menit setelah pemberian kaptopril secara [[oral]].<ref name="web4"/> Namun, penurunan tekanan darah biasanya progresif. Durasi efek tampaknya berhubungan dengan [[dosis]].<ref name="web4"/> Tekanan darah diturunkan dalam posisi berdiri dan terlentang.<ref name="web4"/> Efek ortostatik dan takikardi jarang terjadi, terjadi paling sering pada pasien yang mengalami deplesia.<ref name="web4"/> Tidak ada peningkatan tekanan darah secara mendadak setelah penarikan obat.<ref name="web4"/> Penelitian telah menunjukkan bahwa terjadi peningkatan aliran darah ginjal setelah pemberian kaptopril. [[Laju filtrasi glomerulus]] biasanya tidak berubah.<ref name="web4"/> Namun dalam beberapa kasus, laju filtrasi glomerulus dapat menurunkan secara sementara, sehingga terjadi peningkatan jumlah kreatinin serum dan urea nitrogen secara sementara.<ref name="web4"/> Pada manusia , [[sistem renin-angiotensin]] berperan dalam mengatur laju filtrasi glomerulus bila tekanan perfusi ginjal rendah.<ref name="web4"/> Administrasi kaptopril dapat menyebabkan kerusakan akut filtrasi [[glomerulus]] pada pasien tersebut.<ref name="web4"/>
+== Dosis ==
+* [[Hipotensi]]
+# Per oral dengan dosis 6,25-50 mg 2 atau 3 kali sehari.<ref name="buku1"/>
+# [[Sublingual]] (dikunyah) 25-50 mg.<ref name="buku1"/>
+* [[Gagal jantung kongestif]]
+# Per oral dengan dosis 25-100 mg 3 kali sehari hingga maksimum 450 mg/hari.<ref name="buku1"/>
+# Dosis rendah (6,25 mg) digunakan pada hipertensi atau gagal jantung kongestif, jika ditambahkan pada suatu [[diuretik]], atau pada pasien dengan [[deplesi]] garam, gangguan ginjal.<ref name="buku1"/>
+== Peringatan ==
+* Dapat berkaitan dengan angioedea, supresi [[sumsum tulang]], dan [[proteinuria]].<ref name="buku1"/>
+* Efek berdasarkan [[imun]] (gangguan rasa, ruam, [[neutropenia]]), jarang serius asalkan dosis total harian <150 mg.<ref name="buku1"/> Sebagian besar diteukan pada pasien dengan penyakit vaskular [[kolagen]] atau yang mendapatkan obat lain yang memungkinkan untuk mengubah respon imun (contoh: [[prokainamid]], [[tokainid]], [[hidralazin]], [[asebutolol]], [[probenesid]]).<ref name="buku1"/> Semua pasien harus menjalani suatu evaluasi ginjal pra-kaptopril, uji terhadap antibodi anti-inti, hitungan darah lengkap, dan penyaringan terhadap semua medikasi lain.<ref name="buku1"/>
+* Dapat menyebabkan hipotensi pada dosis pertama, terutama pasien dengan deplesi volume atau jika digunakan secara bersamaan dengan obat-obatan yang mengurangi volume vaskular.<ref name="buku1"/>
+* Tidak boleh digunakan dengan [[diuretik hemat-kalium]] karena dapat menyebabkan hiperkalemia.<ref name="buku1"/>
+* Penggunaan pada pasien hipertensi dengan penyakit ginal harus hati-hati.<ref name="buku1"/> Peningkatan kadar nitrogen urea darah dan kreatinin serum dapat timbul setelah penurunan tekanan darah.<ref name="buku1"/> Fungsi ginjal harus dikontrol setelah beberapa minggu pertama pengobatan.<ref name="buku1"/>
+* Pasien dengan gagal jantung kongestif, yaitu pasien dengan fungsi ginjal yang kemungkinan tergantung pada sistem renin-angiotensin-aldosteron dapat berhubungan dengan [[oliguria]] atau [[azotemia]] progresif.<ref name="buku1"/>
+* Penggunaan pada kehamilan dapat menimbulkan kelainan janin.<ref name="buku1"/>
+== Efek Samping ==
+* [[Kardiovaskular]] : Hipotensi, [[palpitasi]], [[takikardia]].<ref name="buku1"/>
+* Paru-paru: Batuk, [[dispne]], [[bronkospasme]].<ref name="buku1"/>
+* Sistem saraf pusat: Pusing, kelelahan.<ref name="buku1"/>
+* Saluran pencernaan: Nyeri [[abdomen]], [[disgeusia]], [[tukak lambung]].<ref name="buku1"/>
+* Kulit: Ruam, [[pruritus]].<ref name="buku1"/>
+* Ginjal: Peningkatan kadar nitrogen urea dan kreatinin, proteinuria, gagal ginjal.<ref name="buku1"/>
+* Hematologik: [[Neutropenia]], [[Trombositopenia]], [[anemia hemolitik]], [[eosinofilia]].<ref name="buku1"/>
+* Lain-lain: [[Angioedema]], [[limfadenopati]].<ref name="buku1"/>
+== Rujukan ==
+{{reflist}}
+
+[[Kategori:Farmakologi]]
+[[Kategori:Antihipertensi]]
+[[Kategori:ACE Inhibitor]]

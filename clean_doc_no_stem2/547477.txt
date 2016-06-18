@@ -1,0 +1,1 @@
+templatunicharnotes ifeqfinaltext notext notext bracket open ifeqdecsalted salted dvalsubdecimalsub ifeqfinaltextdec x20 ifeqhtmlsalted salted html codeampdvalcodeifcharentityx20codecharentitycode ifeqfinaltexthtmlx20 ifeqnotesalted salted notebracket closenoinclude documentation noinclude 

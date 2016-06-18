@@ -1,0 +1,21 @@
+Kelas (ilmu komputer)
+Dalam [[pemrograman berorientasi objek]], '''''kelas''''' adalah cetak biru untuk membuat objek. Kelas menentukan apa yang dimiliki sebuah objek (atribut) dan apa yang dapat dilakukan objek (metode). Umumnya kelas mewakili sebuah kata benda yang dapat merupakan seseorang, hewan, buah, ataupun benda mati. Contohnya adalah kelas Pegawai. Kelas Pegawai mempunyai atribut berupa nama, usia, dan jenis kelamin serta memiliki metode bekerja.
+
+== Contoh ==
+
+Berikut adalah contoh kelas dengan menggunakan bahasa pemrograman [[Java]]:
+<source lang="java">
+class Employee {
+    /* Atribut */
+    private String nama;
+    private Integer usia;
+    private Boolean isMale;
+
+    /* Metode */
+    public void bekerja() {
+        // logika bekerja di sini
+    }
+}
+</source>
+
+[[Kategori:Program komputer]]

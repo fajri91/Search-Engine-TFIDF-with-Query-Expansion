@@ -1,0 +1,45 @@
+Courcelles-en-Basse
+{{French commune|
+name=Courcelles-en-Basse|
+image_map = France_jms.png|
+x = 151|
+y = 86|
+lat_long={{coord|48|24|36|N|3|3|20|E}}|
+insee=77133|
+postal_code=77126|
+rgion=[[le-de-France (region)|le-de-France]]|
+dpartement=[[Seine-et-Marne]]|
+arrondissement=Provins|
+canton=[[Kanton Montereau-Fault-Yonne|Montereau-Fault-Yonne]]|
+mayor=Michel Pesquest|
+term=2008-2014|
+intercomm=[[Communaut de communes des Deux Fleuves]]|
+elevation_min_m=47|
+elevation_max_m=136|
+area_km2=10.79|
+population=204|
+date-population=1999|
+density_km2=20|
+date-density=1999}}
+
+'''Courcelles-en-Basse''' merupakan sebuah [[komune di Perancis|komune]] di [[departemen di Perancis|departemen]] [[Seine-et-Marne]] di [[region di Perancis|region]] [[le-de-France (region)|le-de-France]] di utara-tengah [[Perancis]].
+
+== Demografi ==
+Pada [[sensus]] 1999, penduduknya berjumlah 204 jiwa.
+
+Penduduknya disebut sebagai ''Courcellois''.
+
+== Lihat pula ==
+* [[Komune di departemen Seine-et-Marne]]
+
+== Pranala luar ==
+* [http://www.iaurif.org/en/gis/fichescom/mos99/ficmos/mos77133.html 1999 Land Use, from IAURIF (Institute for Urban Planning and Development of the Paris-le-de-France rgion] {{en}}
+* [http://www.viamichelin.co.uk/viamichelin/gbr/dyn/controller/mapPerformPage?strAddress=&strCP=77126&strLocation=Courcelles-en-Basse&strCountry=1424&image2.x=28&image2.y=7 Map of Courcelles-en-Basse on Michelin] {{en}}
+
+{{Komune di Seine-et-Marne}}
+
+[[Kategori:Komune di Seine-et-Marne]]
+[[Kategori:Komune di Perancis]]
+
+
+{{SeineMarne-geo-stub}}

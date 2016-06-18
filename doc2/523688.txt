@@ -1,0 +1,11 @@
+PH meter
+{{kembangkan}}
+[[Image:PH Meter.jpg|thumb|Sebuah pH meter]]
+'''PH meter''' adalah sebuah alat elektronik yang berfungsi untuk mengukur [[pH]] (derajat ke[[asam]]an atau ke[[basa]]an) suatu cairan (ada [[elektroda]] khusus yang berfungsi untuk mengukur pH bahan-bahan semi-padat). Sebuah pH meter terdiri dari sebuah elektroda (''probe'' pengukur) yang terhubung ke sebuah alat elektronik yang mengukur dan menampilkan nilai pH.
+
+==Pranala luar ==
+* [http://www.omega.com/techref/ph.html Introduction to pH]  Excellent overview of pH and pH measurement at the Omega Engineering website
+*[http://portal.acs.org/portal/PublicWebSite/education/whatischemistry/landmarks/beckman/index.htm Development of the Beckman pH Meter]  National Historic Chemical Landmark of the American Chemical Society
+*[http://www.boojakascha.ch/index.php?page=laborratte_en DigitalAnalogPrinter]  Freeware compatible with the device shown in the article to monitor the pH in real time
+
+[[Kategori:Alat elektronik]]

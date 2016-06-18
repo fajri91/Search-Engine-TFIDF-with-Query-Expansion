@@ -1,0 +1,35 @@
+Bacelarella fradei
+{{Taxobox
+|name = Bacelarella fradei
+|status = 
+|image = 
+|image_caption = 
+|domain = 
+|regnum = [[Animalia]]
+|phylum = [[Arthropoda]]
+|classis = [[Arachnida]]
+|ordo = [[Araneae]]
+|familia = [[Salticidae]]
+|genus =Bacelarella
+|species = Bacelarella fradei
+|binomial = Bacelarella fradei
+|binomial_authority =Berland & Millot, 1941
+|range_map = 
+|range_map_caption = 
+|image2 = 
+|image2_caption = 
+|synonyms = 
+}}
+'''''Bacelarella fradei''''' adalah spesies [[laba-laba]] yang tergolong [[familia]] [[Salticidae]]. Spesies ini juga merupakan bagian dari genus [[Bacelarella]] dan ordo [[Araneae]]. Nama ilmiah dari spesies ini pertama kali diterbitkan pada tahun 1941 oleh Berland & Millot.
+
+Laba-laba ini biasanya banyak ditemui di Afrika Barat, Kongo, Malawi.
+
+== Referensi ==
+
+* Platnick, Norman I. (2010): [http://research.amnh.org/entomology/spiders/catalog/Salticidae.html The world spider catalog], version 10.5. ''American Museum of Natural History''.
+
+{{DEFAULTSORT:Bacelarella fradei}}
+
+[[Kategori:Salticidae]]
+
+{{labalaba-stub}}

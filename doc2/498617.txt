@@ -1,0 +1,42 @@
+Pavol Farka
+{{Infobox football biography
+ |playername           = Pavol Farka
+ |fullname             = Pavol Farka
+ |image                =
+ |height               = {{Height|m=1.91|precision=0}}
+ |dateofbirth          = {{Birth date and age|df=y|1985|3|27}}
+ |cityofbirth          = [[Vrble]]
+ |countryofbirth       = [[Cekoslowakia]]
+ |currentclub = [[Gabala FK|Gabala]] 
+ |clubnumber  =  26
+ |position             = [[Bek]]
+ |youthyears1   =  |youthclubs1   = [[FC Nitra]]
+ |years1   = 20032007 |clubs1   = [[FC Nitra]]                                  |caps1   = 59 |goals1   = 2
+ |years2   = 20072008 |clubs2   = [[FC Artmedia Petralka|Artmedia Petralka]]  |caps2   = 31 |goals2   = 0
+ |years3   = 20092012 |clubs3   = [[SC Vaslui|Vaslui]] 			   |caps3   = 59 |goals3   = 2
+ |years4   = 20122014 |clubs4   = [[A.C. Chievo Verona|Chievo]]                 |caps4   = 4  |goals4   = 0
+ |years5   = 20132014 |clubs5   =  [[Ternana Calcio|Ternana]] (pinjaman)       |caps5   = 28 |goals5   = 1
+ |years6   = 2014     |clubs6   = [[Gabala FK|Gabala]]                          |caps6   = 13 |goals6   = 1
+ |nationalyears1   = 2006 |nationalteam1   = {{timnas|Slowakia}} |nationalcaps1   = 2 |nationalgoals1   = 0
+ |pcupdate        = {{date|2014-12-18}}
+}}
+
+'''Pavol Farka''' ({{lahirmati|[[Pozzuoli]]|27|3|1985}}) adalah seorang pemain [[sepak bola]] berkewarganegaraan [[Slowakia]] yang bermain untuk klub [[Gabala FK|Gabala]] biasa bermain pada posisi [[bek]].
+
+Farka memulai karier juniornya di klub [[FC Nitra]] dan memulai karier seniornya di klub tersebut,<ref>{{cite web|publisher=fcnitra.sk|title=Hri FC NITRA: v najvych ligovch saiach po ronk 2008/2009 (vrtane)|url=http://www.fcnitra.sk/statistiky.pdf|language=Slovak|accessdate=20 December 2010}}</ref> sempat pindah ke [[FC Artmedia Petralka|Artmedia Petralka]] dan [[SC Vaslui|Vaslui]] sebelum bergabung dengan [[A.C. ChievoVerona|Chievo]] pada tahun 2012.
+
+== Referensi ==
+
+{{reflist}}
+
+== Pranala luar ==
+
+* {{nfteams|26390}}
+* [http://www.transfermarkt.co.uk/en/pavol-farkas/profil/spieler_59529.html Player profile on Transfermarkt]
+* [http://www.romaniansoccer.ro/players/f/farkas_pavol.shtml Player profile on RomanianSoccer]
+
+{{lifetime|1985||Farkas, Pavol}} 
+
+{{pemain-sb-stub}}
+[[Kategori:Pemain sepak bola Slowakia]]
+[[Kategori:Pemain Chievo Verona]]

@@ -1,0 +1,63 @@
+LibreOffice Impress
+{{Infobox Software
+|name                       = LibreOffice Impress
+|logo                       = [[Berkas:LibreOffice logo.svg|220px]]
+|screenshot                 = [[Berkas:Lo-impress.png|250px]]
+|caption                    = 
+|collapsible                = 
+|author                     = 
+|developer                  = [[The Document Foundation]]
+|released                   = {{Start date|2010|09}}
+|latest release version     = lihat: [[LibreOffice]]
+|latest release date        = 
+|latest preview version     = 
+|latest preview date        = <!-- {{Release date and age|YYYY|MM|DD}} -->
+|frequently updated         = 
+|programming language       = [[C++]], [[Java]]
+|operating system           = [[Windows]]<br/>[[Linux]]<br/>[[Mac OS X]]
+|platform                   = 
+|size                       = kurang-lebih 200 MB
+|language                   = 
+|status                     = 
+|genre                      = Office Suites
+|license                    = [http://id.wikipedia.org/wiki/LGPL GPL]
+|website                    = http://www.libreoffice.org/
+}}
+
+'''LibreOffice Impress''' merupakan komponen aplikasi [[LibreOffice]] yang berfungsi untuk membuat dokumen [[presentasi]] dan media interaktif.
+
+==Fitur Unggulan==
+* Multi Monitor, mempresentasikan dengan tampilan lebih dari satu monitor.
+* Perangkat penggambar dan diagram
+* Animasi dan Efek Slide show
+* Master Document, membuat dokumen presentasi secara kelompok dalam jumlah gede
+
+== Komponen LibreOffice ==
+* [[LibreOffice Writer]]
+* [[LibreOffice Calc]]
+* [[LibreOffice Impress]]
+* [[LibreOffice Base]]
+* [[LibreOffice Draw]]
+* [[LibreOffice Math]]
+
+== Lihat pula ==
+* [[OpenOffice.org Impress]]
+* [[Microsoft PowerPoint]]
+* [[KWord]]
+
+== Pranala luar ==
+{{commonscat|Screenshots of LibreOffice Impress}}
+* [http://www.libreoffice.org/features/impress/ Situs LO Impress]
+* [http://www.libreoffice.org/ Situs resmi ]
+* [http://www.documentfoundation.org/ Situs pengembang]
+
+{{perangkat lunak-stub}}
+
+[[Kategori:Perangkat lunak]]
+[[Kategori:Perangkat lunak bebas]]
+[[Kategori:Perangkat lunak Windows]]
+[[Kategori:Perangkat lunak Linux]]
+[[Kategori:Perangkat lunak Mac OS]]
+[[Kategori:Perangkat lunak Unix]]
+[[Kategori:Paket aplikasi perkantoran]]
+[[Kategori:Perangkat lunak bebas yang diprogram dengan C++]]

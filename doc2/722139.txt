@@ -1,0 +1,46 @@
+The Electric Boy
+{{Infobox television episode
+| Title        = The Electric Boy
+| Series       = [[Cosmos: A Spacetime Odyssey]]
+| Image        =
+| Caption      = 
+| Episode      = 10
+| Writer       = [[Ann Druyan]]<br />[[Steven Soter]]
+| Director     = [[Brannon Braga]]
+| Narrator     = [[Neil deGrasse Tyson]]
+| Guests       = * 
+| Producer     = Livia Hanich<br />Steven Holtzman
+| Music        = [[Alan Silvestri]]
+| Editor       = John Duffy<br />Michael O'Halloran<br />Eric Lea
+| Airdate      = {{Start date|2014|5|11}}
+| Length       = 42 menit
+| Prev         = [[The Lost Worlds of Planet Earth]]
+| Next         = [[The Immortals]]
+| Episode list = [[Cosmos: A Spacetime Odyssey#Episode|Daftar episode ''Cosmos: A Spacetime Odyssey'']]
+}}
+
+"'''The Electric Boy'''" adalah episode ke-10 [[seri televisi]] [[film dokumenter|dokumenter]] Amerika Serikat ''[[Cosmos: A Spacetime Odyssey]]''. Episode ini tayang perdana tanggal 11 Mei 2014 di [[Fox Broadcasting Company|Fox]] dan 12 Mei 2014 di [[National Geographic Channel]].<ref name=TVEquals>{{cite news|last=Bowman|first=Sabienna|title=Cosmos a Spacetime Odyssey Episode 10 The Electric Boy|url=http://www.tvequals.com/2014/05/11/cosmos-spacetime-odyssey-episode-10-electric-boy/|accessdate=May 11, 2014|newspaper=TV Equals|date=May 11, 2014}}</ref> Episode ini membahas [[medan magnet Bumi]] dan kontribusi [[Michael Faraday]] yang menjadi perintis teknologi tinggi dan komunikasi berkecepatan cahaya.<ref name=TheDailyGalaxy>{{cite news|title='Cosmos: A Spacetime Odyssey' -- "The Electric Boy" (Background for Sunday's Episode)|url=http://www.dailygalaxy.com/my_weblog/2014/05/cosmos-a-spacetime-odyssey-the-electric-boy-background-for-sundays-episode.html|accessdate=May 11, 2014|newspaper=The Daily Galaxy|date=May 11, 2014|author=The Daily Galaxy}}</ref>
+
+Episode tersebut mendapat penilaian/pangsa sebesar 1,1/3 pada kategori usia 18-49 dengan jumlah penonton langsung di Amerika Serikat sebanyak 3,46 juta orang.<ref name=TVbytheNumbers>{{cite news|last=Bibel|first=Sara|title=Sunday Final Ratings: 'Once Upon a Time', 'American Dad' & 'America's Funniest Home Videos' Adjusted Up; 'Revenge', 'Cosmos' & 'Dateline' Adjusted Down|url=http://tvbythenumbers.zap2it.com/2014/05/13/sunday-final-ratings-once-upon-a-time-american-dad-revenge-cosmos-dateline-adjusted-down/263313/|accessdate=May 13, 2014|newspaper=TV by the Numbers|date=May 13, 2014}}</ref>
+
+== Ringkasan ==
+[[File:Faraday Michael Christmas lecture detail.jpg|thumb|left|[[Michael Faraday]] menunjukkan uji coba elektromagnetismenya pada [[Royal Institution Christmas Lectures|Christmas Lecture]] tahun 1856]]
+Episode ini membahas sifat [[elektromagnetisme]] yang ditemukan berkat kerja keras [[Michael Faraday]]. Tyson menjelaskan bahwa ide kekuatan alam, seperti gaya gravitasi, sudah pernah dipaparkan oleh Isaac Newton sebelumnya. Tyson kemudian menceritakan kisah Faraday yang berasal dari keluarga miskin dan menjadi tertarik belajar kelistrikan setelah membaca buku dan menghadiri kuliah [[Humphry Davy]] di [[Royal Institution]]. Davy kelak mempekerjakan Faraday sebagai sekretaris dan asisten laboratorium setelah membaca catatan kuliah yang dibuatnya.
+
+Setelah Davy dan kimiawan [[William Hyde Wollaston]] gagal meneruskan penemuan fenomena elektromagnet [[Hans Christian rsted]] untuk menghasilkan gaya gerak dari listrik, Faraday mampu menciptakan alatnya sendiri untuk menciptakan [[motor listrik]] pertama dengan mengalirkan listrik ke magnet. Davy, tidak senang dengan temuan Faraday, meminta Faraday memperbaiki kualitas kaca optik berkualitas tinggi, sehingga Faraday tidak dapat melanjutkan penelitiannya. Meski begitu, Faraday tetap bekerja di Royal Institution dan merintis [[Royal Institution Christmas Lectures|Christmas Lectures]] untuk mengajarkan sains kepada anak-anak. Pasca kematian Davy, Faraday menghabiskan waktunya untuk mempelajari elektromagnetisme dan menciptakan [[generator listrik]] pertama dengan memasukkan magnet ke gulungan kabel.
+
+Walaupun kehilangan sebagian kemampuan berpikirnya, Faraday berkesimpulan bahwa listrik dan magnetisme terhubung oleh medan yang tak terlihat. Ia berpendapat bahwa cahaya bisa saja terikat dengan dua hal tadi. Menggunakan sampel kaca optik yang pernah dibuatnya, Faraday menemukan bahwa medan magnet terapan mampu memengaruhi [[polarisasi]] cahaya yang melewati sampel kaca tersebut ([[bahan dielektrik]]). Percobaannya menghasilkan [[efek Faraday]] yang menghubungkan tiga kekuatan alam ini. Faraday berpendapat bahwa medan-medan ini ada di sekitar Bumi. Pendapatnya terbukti berupa [[medan magnet Bumi]] yang dihasilkan oleh rotasi [[inti terdalam]] Bumi yang terbuat dari besi cair. Ia juga berpendapat bahwa medan magnet adalah fenomena yang membuat planet-planet mengitari matahari. Pemikiran Faraday awalnya ditolak oleh komunitas ilmuwan diakibatkan kurangnya bukti matematis, tetapi [[James Clerk Maxwell]] berhasil memadukan teori-teori Faraday ke dalam [[persamaan Maxwell]] dan membenarkan teori tersebut. Hasil penelitian kedua tokoh ini menjadi kaidah dasar sistem komunikasi modern.
+
+== Tanggapan ==
+Penayangan episode ini di [[Fox Broadcasting Company|Fox]] mendapat penilaian/pangsa sebesar 1,1/3 di kategori usia 18-49. Sekitar 3,46 juta penonton Amerika Serikat menontonnya secara langsung. Episode ini menempati peringkat ketiga dan terakhir di slot waktu yang sama setelah ''[[The Good Wife]]'' dan ''[[Rosemary's Baby (miniseri)|Rosemary's Baby]]''; dan ke-11 dari 15 acara yang mengudara pada malam itu.<ref name=TVbytheNumbers />
+
+== Referensi ==
+{{reflist|3}}
+
+== Pranala luar ==
+* {{imdb episode|3475584|The Electric Boy}}
+* {{official website|www.cosmosontv.com/}}
+
+{{Cosmos: A Spacetime Odyssey}}
+
+[[Kategori:Episode Cosmos: A Spacetime Odyssey]]

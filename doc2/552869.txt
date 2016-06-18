@@ -1,0 +1,98 @@
+Jong FC Twente
+{{Unsourced|date=June 2013}}
+{{Infobox football club
+|  clubname = Jong FC Twente
+|  image    = [[File:FC Twente.svg|165px|FC Twente emblem]]
+|  fullname = Jong Football Club Twente
+|  nickname = ''Tukkers''
+|  founded  = 1 Juli 1965
+|  ground   = [[De Grolsch Veste]]<br />[[Enschede]]
+|  capacity = 30.205
+|  chairman = {{flagicon|Netherlands}} Joop Munsterman
+|  manager  = {{flagicon|Netherlands}} Jan Zoutman
+|  league   = [[Eerste Divisie]] 
+|  season   =
+|  position = |
+| pattern_la1          = 
+| pattern_b1           = _twente1314h
+| pattern_ra1          = 
+| pattern_sh1          = 
+| pattern_s1           = 
+| leftarm1             = FF0000
+| body1                = FFFFFF
+| rightarm1            = FF0000
+| shorts1              = FF0000
+| socks1               = FF0000
+| pattern_la2          = 
+| pattern_b2           = _twente1314away
+| pattern_ra2          = 
+| pattern_sh2          = 
+| leftarm2             = 050E88
+| body2                = 050E88
+| rightarm2            = 050E88
+| shorts2              = 050E88
+| socks2               = 050E88
+| titelDerdeShirt      = 
+| pattern_la3          = 
+| pattern_b3           = 
+| pattern_ra3          = 
+| pattern_sh3          = 
+| leftarm3             = 
+| body3                = 
+| rightarm3            = 
+| shorts3              = 
+| socks3               = 
+| titelVierdeShirt     = 
+| pattern_la4          = 
+| pattern_b4           = 
+| pattern_ra4          = 
+| pattern_so4          = 
+| pattern_sh4          = 
+| pattern_s4           = 
+| leftarm4             = 
+| body4                = 
+| rightarm4            = 
+| shorts4              = 
+| socks4               =  }}
+
+'''Jong FC Twente''' ([[Bahasa Indonesia|Indonesia]]: '''FC Twente Muda''') adalah tim muda dari tim [[FC Twente]].
+
+==Skuat==
+{{Fs start}}
+{{Fs player|no=|nat=POL|name=[[Filip Bednarek]]|pos=GK}}
+{{Fs player|no=|nat=NED|name=Wouter Dronkers|pos=GK}}
+{{Fs player|no=|nat=NED|name=[[Timo Plattel]]|pos=GK}}
+{{Fs player|no=|nat=NED|name=Peet Bijen|pos=DF}}
+{{Fs player|no=|nat=GER|name=Lars Bleker|pos=DF}}
+{{Fs player|no=|nat=NED|name=[[Thijs Bouma]]|pos=DF}}
+{{Fs player|no=|nat=NED|name=Mark Engberink|pos=DF}}
+{{Fs player|no=|nat=GER|name=Peter Gebben|pos=DF}}
+{{Fs player|no=|nat=NED|name=Coen Gortemaker|pos=DF}}
+{{Fs player|no=|nat=NED|name=Derre Kwee|pos=DF}}
+{{Fs player|no=|nat=GER|name=[[Nils Rseler]]|pos=DF}}
+{{Fs player|no=|nat=PER|name=Renato Tapia|pos=DF}}
+{{Fs player|no=|nat=NED|name=Sven Verlaan|pos=DF}}
+{{Fs player|no=|nat=GHA|name=Shadrach Eghan|pos=MF}}
+{{Fs player|no=|nat=GER|name=Kris Fillinger|pos=MF}}
+{{Fs mid}}
+{{Fs player|no=|nat=NED|name=Rick Hemmink|pos=MF}}
+{{Fs player|no=|nat=NED|name=Jan Willem Kamp|pos=MF}}
+{{Fs player|no=|nat=GER|name=[[Thilo Leugers]]|pos=MF}}
+{{Fs player|no=|nat=NED|name=Jurjan Mannes|pos=MF}}
+{{Fs player|no=|nat=NED|name=[[Joey Pelupessy]]|pos=MF}}
+{{Fs player|no=|nat=NED|name=Dario Tanda|pos=MF}}
+{{Fs player|no=|nat=GHA|name=Mustapha Yahaya|pos=MF}}
+{{Fs player|no=|nat=GER|name=[[Mirco Born]]|pos=FW}}
+{{Fs player|no=|nat=NED|name=Alvin Daniels|pos=FW}}
+{{Fs player|no=|nat=GER|name=Jarnik Jesgarzweski|pos=FW}}
+{{Fs player|no=|nat=NED|name=Jari Oosterwijk|pos=FW}}
+{{Fs player|no=|nat=NED|name=[[Cas Peters]]|pos=FW}}
+{{Fs player|no=|nat=NED|name=[[Glynor Plet]]|pos=FW}}
+{{Fs player|no=|nat=NED|name=Kristopher Vida|pos=FW}}
+{{Fs player|no=|nat=NED|name=[[Felitciano Zschusschen]]|pos=FW}}
+{{Fs end}}
+
+{{Eerste Divisie}}
+{{klub-sb-stub}}
+
+[[Kategori:Tim sepak bola Belanda]]

@@ -1,0 +1,150 @@
+Sistem informasi geografis
+{{refimprove}}
+
+'''Sistem Informasi Geografis''' ([[bahasa Inggris]]: ''Geographic Information System'' disingkat '''GIS''') adalah [[sistem informasi]] khusus yang mengelola data yang memiliki informasi spasial (bereferensi keruangan). Atau dalam arti yang lebih sempit, adalah [[sistem komputer]] yang memiliki kemampuan untuk membangun, menyimpan, mengelola dan menampilkan informasi berefrensi geografis, misalnya data yang diidentifikasi menurut lokasinya, dalam sebuah [[database]]. Para praktisi juga memasukkan orang yang membangun dan mengoperasikannya dan data sebagai bagian dari sistem ini.
+
+Teknologi Sistem Informasi Geografis dapat digunakan untuk [[investigasi ilmiah]], [[pengelolaan sumber daya]], [[perencanaan pembangunan]], [[kartografi]] dan perencanaan rute. Misalnya, SIG bisa membantu perencana untuk secara cepat menghitung waktu tanggap darurat saat terjadi [[bencana alam]], atau SIG dapat digunaan untuk mencari [[lahan basah]] (''wetlands'') yang membutuhkan perlindungan dari [[polusi]].
+
+== Pengertian menurut para ahli ==
+{{unreferenced section|date=Oktober 2013}}
+* Menurut Aronaff ([[1989]])
+SIG adalah sistem informasi yang didasarkan pada kerja komputer yang memasukkan, mengelola, memanipulasi dan menganalisa data serta memberi uraian.
+* Menurut Burrough ([[1986]])
+SIG merupakan alat yang bermanfaat untuk pengumpulan, penimbunan, pengambilan kembali data yang diinginkan dan penayangan data keruangan yang berasal dari kenyataan dunia.
+* Menurut Kang-Tsung Chang ([[2002]]) 
+SIG sebagai ''a computer system for capturing, storing, querying, analyzing, and displaying geographic data''.
+* Menurut Murai ([[1999]]) 
+SIG sebagai sistem informasi yang digunakan untuk memasukkan, menyimpan, memanggil kembali, mengolah, menganalisis dan menghasilkan data bereferensi geografis atau data geospatial, untuk mendukung pengambilan keputusan dalam perencanaan dan pengelolaan penggunaan lahan, sumber daya alam, lingkungan, transportasi, fasilitas kota, dan pelayanan umum lainnya.
+* Menurut Marble et al ([[1983]])
+SIG merupakan sistem penanganan data keruangan.
+* Menurut Bernhardsen ([[2002]]) 
+SIG sebagai sistem komputer yang digunakan untuk memanipulasi data geografi. Sistem ini diimplementasikan dengan perangkat keras dan perangkat lunak komputer yang berfungsi untuk akusisi dan verifikasi data, kompilasi data, penyimpanan data, perubahan dan pembaharuan data, manajemen dan pertukaran data, manipulasi data, pemanggilan dan presentasi data serta analisa data
+* Menurut Gistut ([[1994]])
+SIG adalah sistem yang dapat mendukung pengambilan keputusan spasial dan mampu mengintegrasikan deskripsi-deskripsi lokasi dengan karakteristik-karakteristik fenomena yang ditemukan di lokasi tersebut. SIG yang lengkap mencakup metodologi dan teknologi yang diperlukan, yaitu data spasial perangkat keras, perangkat lunak dan struktur organisasi
+* Menurut Berry ([[1988]])
+SIG merupakan sistem informasi, referensi internal, serta otomatisasi data keruangan.
+* Menurut Calkin dan Tomlison ([[1984]])
+SIG merupakan sistem komputerisasi data yang penting.
+* Menurut Linden, ([[1987]])
+SIG adalah sistem untuk pengelolaan, penyimpanan, pemrosesan (manipulasi), analisis dan penayangan data secara spasial terkait dengan muka bumi.
+* Menurut Alter
+SIG adalah sistem informasi yang mendukung pengorganisasian data, sehingga dapat diakses dengan menunjuk daerah pada sebuah peta.
+* Menurut Prahasta
+SIG merupakan sejenis ''software'' yang dapat digunakan untuk pemasukan, penyimpanan, manipulasi, menampilkan, dan keluaran informasi geografis berikut atribut-atributnya.
+* Menurut Petrus Paryono
+SIG adalah sistem berbasis komputer yang digunakan untuk menyimpan, manipulasi dan menganalisis informasi geografi.
+
+Dari definisi-definisi di atas dapat disimpulkan bahwa SIG merupakan pengelolaan data geografis yang didasarkan pada kerja komputer
+(mesin).
+
+== Sejarah perkembangan ==
+35000 tahun yang lalu, di dinding gua [[Lascaux]], [[Perancis]], para pemburu [[Cro-Magnon]] menggambar hewan mangsa mereka, dan juga garis yang dipercaya sebagai rute migrasi hewan-hewan tersebut. Catatan awal ini sejalan dengan dua elemen struktur pada sistem informasi gegrafis modern sekarang ini, arsip grafis yang terhubung ke database [[atribut]].
+
+Pada tahun [[1700-an]] teknik survey modern untuk pemetaan topografis diterapkan, termasuk juga versi awal pemetaan tematis, misalnya untuk keilmuan atau data sensus.
+
+Awal [[abad ke-20]] memperlihatkan pengembangan "litografi foto" dimana peta dipisahkan menjadi beberapa lapisan (''layer''). Perkembangan perangkat keras komputer yang dipacu oleh penelitian [[senjata nuklir]] membawa aplikasi pemetaan menjadi multifungsi pada awal tahun [[1960-an]].
+
+Tahun [[1967]] merupakan awal pengembangan SIG yang bisa diterapkan di [[Ottawa, Ontario]] oleh [[Departemen Energi, Pertambangan dan Sumber Daya (Kanada)|Departemen Energi, Pertambangan dan Sumber Daya]]. Dikembangkan oleh Roger Tomlinson, yang kemudian disebut CGIS (''Canadian GIS'' - SIG Kanada), digunakan untuk menyimpan, menganalisis dan mengolah data yang dikumpulkan untuk Inventarisasi Tanah Kanada (CLI - ''Canadian land Inventory'') - sebuah inisiatif untuk mengetahui kemampuan lahan di wilayah pedesaan Kanada dengan memetakaan berbagai informasi pada tanah, pertanian, pariwisata, alam bebas, unggas dan penggunaan tanah pada skala 1:250000. Faktor pemeringkatan klasifikasi juga diterapkan untuk keperluan analisis.
+
+[[Berkas:GvSIG - GIS.jpg|thumb|right|250px|GIS dengan [[gvSIG]].]]
+CGIS merupakan sistem pertama di dunia dan hasil dari perbaikan aplikasi pemetaan yang memiliki kemampuan timpang susun (''overlay''), penghitungan, pendijitalan/pemindaian (''digitizing/scanning''), mendukung sistem koordinat national yang membentang di atas benua Amerika, memasukkan garis sebagai ''arc'' yang memiliki topologi dan menyimpan atribut dan informasi lokasional pada berkas terpisah. Pengembangnya, seorang geografer bernama Roger Tomlinson kemudian disebut "Bapak SIG".
+
+CGIS bertahan sampai tahun [[1970-an]] dan memakan waktu lama untuk penyempurnaan setelah pengembangan awal, dan tidak bisa bersaing denga aplikasi pemetaan komersil yang dikeluarkan beberapa vendor seperti [[Intergraph]]. Perkembangan perangkat keras mikro komputer memacu vendor lain seperti [[ESRI]], [[CARIS]], [[MapInfo]] dan berhasil membuat banyak fitur SIG, menggabung pendekatan generasi pertama pada pemisahan informasi spasial dan atributnya, dengan pendekatan generasi kedua pada organisasi data atribut menjadi struktur database. Perkembangan industri pada tahun [[1980-an]] dan [[1990-an]] memacu lagi pertumbuhan SIG pada ''workstation'' [[UNIX]] dan [[PC|komputer pribadi]]. Pada akhir [[abad ke-20]], pertumbuhan yang cepat di berbagai sistem dikonsolidasikan dan distandarisasikan menjadi platform lebih sedikit, dan para pengguna mulai mengekspor menampilkan data SIG lewat internet, yang membutuhkan standar pada format data dan transfer.
+
+Indonesia sudah mengadopsi sistem ini sejak [[Pelita]] ke-2 ketika [[LIPI]] mengundang [[UNESCO]] dalam menyusun "Kebijakan dan Program Pembangunan Lima Tahun Tahap Kedua (1974-1979)" dalam pembangunan ilmu pengetahuan, teknologi dan riset.
+
+Jenjang pendidikan SMU/senior high school melalui [[kurikulum]] pendidikan [[geografi]] SIG dan [[penginderaan jauh]] telah diperkenalkan sejak dini. Universitas di Indonesia yang membuka program [[Diploma]] SIG ini adalah D3 Penginderaan Jauh dan Sistem Informasi Geografi, [[Fakultas Geografi]], [[Universitas Gadjah Mada]], tahun [[1999]]. Sedangkan jenjang S1 dan S2 telah ada sejak 1991 dalam Jurusan [[Kartografi]] dan [[Penginderaan Jauh]], [[Fakultas Geografi]], Universitas Gadjah Mada. Penekanan pengajaran pada analisis spasial sebagai ciri geografi. Lulusannya tidak sekadar mengoperasikan software namun mampu menganalisis dan menjawab persoalan keruangan. Sejauh ini SIG sudah dikembangkan hampir di semua universitas di Indonesia melalui laboratorium-laboratorium, kelompok studi/diskusi maupun mata pelajaran.
+
+== Komponen Sistem Informasi Geografis ==
+Komponen-komponen pendukung SIG terdiri dari lima komponen yang bekerja secara terintegrasi yaitu perangkat keras (''hardware''), perangkat lunak (''software''), data, manusia, dan metode yang dapat diuraikan sebagai berikut: 
+=== Perangkat Keras (''hardware'') ===
+Perangkat keras SIG adalah perangkat-perangkat fisik yang merupakan bagian dari sistem komputer yang mendukung analisis geografi dan pemetaan. Perangkat keras SIG mempunyai kemampuan untuk menyajikan citra dengan resolusi dan kecepatan yang tinggi serta mendukung operasioperasi basis data dengan volume data yang besar secara cepat. Perangkat keras SIG terdiri dari beberapa bagian untuk menginput data, mengolah data, dan mencetak hasil proses. Berikut ini pembagian berdasarkan proses :
+* Input data: ''[[mouse]]'', ''[[digitizer]]'', ''[[scanner]]''
+* Olah data: ''[[harddisk]]'', ''processor'', ''RAM'', ''VGA Card''
+* Output data: ''[[plotter]]'', ''[[printer]]'', screening.
+
+=== Perangkat Lunak (''software'') ===
+Perangkat lunak digunakan untuk melakukan proses menyimpan, menganalisa, memvisualkan data-data baik data spasial maupun non-spasial. Perangkat lunak yang harus terdapat dalam komponen software SIG adalah: 
+* Alat untuk memasukkan dan memanipulasi data SIG
+* ''Data Base Management System'' (DBMS)
+* Alat untuk menganalisa data-data
+* Alat untuk menampilkan data dan hasil analisa
+=== Data ===
+Pada prinsipnya terdapat dua jenis data untuk mendukung SIG yaitu :
+* Data Spasial 
+Data spasial adalah gambaran nyata suatu wilayah yang terdapat di permukaan bumi. Umumnya direpresentasikan berupa grafik, peta, gambar dengan format digital dan disimpan dalam bentuk koordinat x,y (vektor) atau dalam bentuk image (raster) yang memiliki nilai tertentu.
+* Data Non Spasial (Atribut)
+Data non spasial adalah data berbentuk tabel dimana tabel tersebut berisi informasi- informasi yang dimiliki oleh obyek dalam data spasial. Data tersebut berbentuk data tabular yang saling terintegrasi dengan data spasial yang ada.
+
+=== Manusia ===
+Manusia merupakan inti elemen dari SIG karena manusia adalah perencana dan pengguna dari SIG. Pengguna SIG mempunyai tingkatan seperti pada sistem informasi lainnya, dari tingkat spesialis teknis yang mendesain dan mengelola sistem sampai pada pengguna yang menggunakan SIG untuk membantu pekerjaannya sehari-hari.
+
+=== Metode ===
+Metode yang digunakan dalam SIG akan berbeda untuk setiap permasalahan. SIG yang baik tergantung pada aspek desain dan aspek ''real''nya.
+
+== Ruang Lingkup Sistem Informasi Geografis (SIG) ==
+Pada dasarnya pada SIG terdapat lima (5) proses yaitu: 
+* Input Data
+Proses input data digunakan untuk menginputkan data spasial dan data non-spasial. Data spasial biasanya berupa peta analog. Untuk SIG harus menggunakan peta digital sehingga peta analog tersebut harus dikonversi ke dalam bentuk peta digital dengan menggunakan alat digitizer. Selain proses digitasi dapat juga dilakukan proses overlay dengan melakukan proses scanning pada peta analog.
+* Manipulasi Data
+Tipe data yang diperlukan oleh suatu bagian SIG mungkin perlu dimanipulasi agar sesuai dengan sistem yang dipergunakan. Oleh karena itu SIG mampu melakukan fungsi ''edit'' baik untuk data spasial maupun non-spasial.
+* Manajemen Data
+Setelah data spasial dimasukkan maka proses selanjutnya adalah pengolahan data non-spasial. Pengolaha data non-spasial meliputi penggunaan DBMS untuk menyimpan data yang memiliki ukuran besar.
+* ''Query'' dan Analisis
+Query adalah proses analisis yang dilakukan secara tabular. Secara fundamental SIG dapat melakukan dua jenis analisis, yaitu: 
+** Analisis ''Proximity''
+Analisis Proximity merupakan analisis geografi yang berbasis pada jarak antar layer. SIG menggunakan proses buffering (membangun lapisan pendukung di sekitar layer dalam jarak tertentu) untuk menentukan dekatnya hubungan antar sifat bagian yang ada.
+** Analisis ''Overlay''
+''Overlay'' merupakan proses penyatuan data dari lapisan layer yang berbeda. Secara sederhana overlay disebut sebagai operasi visual yang membutuhkan lebih dari satu layer untuk digabungkan secara fisik.
+* Visualisasi
+Untuk beberapa tipe operasi geografis, hasil akhir terbaik diwujudkan dalam peta atau grafik. Peta sangatlah efektif untuk menyimpan dan memberikan informasi geografis.
+
+== Manfaat SIG di berbagai bidang ==
+=== Manajemen tata guna lahan === 
+Pemanfaatan dan penggunaan lahan merupakan bagian kajian geografi yang perlu dilakukan dengan penuh pertimbangan dari berbagai segi. Tujuannya adalah untuk menentukan zonifikasi lahan yang sesuai dengan karakteristik lahan yang ada. Misalnya, wilayah pemanfaatan lahan di kota biasanya dibagi menjadi daerah pemukiman, industri, perdagangan, perkantoran, fasilitas umum,dan jalur hijau. SIG dapat membantu pembuatan perencanaan masing-masing wilayah tersebut dan hasilnya dapat digunakan sebagai acuan untuk pembangunanutilitas-utilitas yang diperlukan. Lokasi dari utilitas-utilitas yang akan dibangun di daerah perkotaan (''urban'') perlu dipertimbangkan agar efektif dan tidak melanggar kriteria-kriteria tertentuyang bisa menyebabkan ketidakselarasan. Contohnya, pembangunan tempat sampah. Kriteria-kriteria yang bisa dijadikan parameter antara lain: di luar area pemukiman, berada dalam radius 10 meter dari genangan air, berjarak 5 meter dari jalan raya, dan sebagainya. Dengan kemampuan SIG yang bisa memetakan apa yang ada di luar dan di dalam suatu area, kriteria-kriteriaini nanti digabungkan sehingga memunculkan irisan daerah yang tidak sesuai, agak sesuai, dan sangat sesuai dengan seluruh kriteria. Di daerah pedesaan (''rural'') manajemen tata guna lahan lebih banyak mengarah ke sektor pertanian. Dengan terpetakannya curah hujan, iklim, kondisitanah, ketinggian, dan keadaan alam, akan membantu penentuan lokasi tanaman, pupuk yang dipakai, dan bagaimana proses pengolahan lahannya. Pembangunan saluran irigasi agar dapat merata dan minimal biayanya dapat dibantu dengan peta sawah ladang, peta pemukiman penduduk, ketinggian masing-masing tempat dan peta kondisi tanah. Penentuan lokasi gudang dan pemasaran hasil pertanian dapat terbantu dengan memanfaatkan peta produksi pangan, penyebarankonsumen, dan peta jaringan transportasi. Selain untuk manajemen pemanfaatan lahan, SIG juga dapat membantu dalam hal penataan ruang. Tujuannya adalah agar penentuan pola pemanfaatan ruang disesuaikan dengan kondisi fisik dan sosial yang ada, sehingga lebih efektif dan efisien. Misalnya penataan ruang perkotaan, pedesaan, permukiman,kawasan industri, dan lainnya.
+
+=== Inventarisasi sumber daya alam === 
+Secara sederhana manfaat SIG dalam data kekayaan sumber daya alamialah sebagai berikut:
+* Untuk mengetahui persebaran berbagai sumber daya alam, misalnya minyak  bumi, batubara, emas, besi dan barang tambang lainnya.
+* Untuk mengetahui persebaran kawasan lahan, misalnya:
+# Kawasan lahan potensial dan lahan kritis; 
+# Kawasan hutan yang masih baik dan hutan rusak;
+# Kawasan lahan pertanian dan perkebunan; 
+# Pemanfaatan perubahan penggunaan lahan;
+# Rehabilitasi dan konservasi lahan.
+
+=== Untuk pengawasan daerah bencana alam === 
+Kemampuan SIG untuk pengawasan daerah bencana alam, misalnya:
+* Memantau luas wilayah bencana alam;
+* Pencegahan terjadinya bencana alam pada masa datang;
+* Menyusun rencana-rencana pembangunan kembali daerah bencana;
+* Penentuan tingkat bahaya erosi; 
+* Prediksi ketinggian banjir;
+* Prediksi tingkat kekeringan.
+
+=== Bagi perencanaan Wilayah dan Kota ===
+* Untuk bidang sumber daya, seperti kesesuaian lahan pemukiman, pertanian, perkebunan, tata guna lahan, pertambangan dan energi, analisis daerah rawan bencana.
+* Untuk bidang perencanaan ruang, seperti perencanaan tata ruang wilayah, perencanaan kawasan industri, pasar, kawasan permukiman, penataan sistem dan status pertahanan.
+* Untuk bidang manajemen atau sarana-prasarana suatu wilayah, seperti manajemen sistem informasi jaringan air bersih, perencanaan dan perluasan jaringan listrik.
+* Untuk bidang pariwisata, seperti inventarisasi pariwisata dan analisis potensi pariwisata suatu daerah.
+* Untuk bidang transportasi, seperti inventarisasi jaringan transportasi publik, kesesuaian rute alternatif, perencanaan perluasan sistem jaringan jalan, analisis kawasan rawan kemacetan dan kecelakaaan.
+* Untuk bidang sosial dan budaya, seperti untuk mengetahui luas dan persebaran penduduk suatu wilayah, mengetahui luas dan persebaran lahan pertanian serta kemungkinan pola drainasenya, pendataan dan pengembangan pusat-pusat pertumbuhan dan pembangunan pada suatu kawasan, pendataan dan pengembangan pemukiman penduduk, kawasan industri, sekolah, rumah sakit, sarana hiburan dan perkantoran.
+
+== Lihat pula ==
+* [[GPS]]
+* [[Pelacak kendaraan]]
+
+== Pranala luar ==
+* [http://www.d3sigpj.geo.ugm.ac.id] - Program Diploma Sistem Informasi Geografis dan Penginderaan Jauh UGM
+* [http://www.bk.or.id/ Buana Katulistiwa (BK)]
+* [http://www.geografiana.com/ Geografiana - Situs Geografi Populer Indonesia]
+* [http://planet.gisindonesia.com Planet GIS Indonesia] - Kumpulan Blog GIS/Geo di Indonesia
+* [http://rsgisforum.wordpress.com/ Forum Remote Sensing dan GIS Indonesia]
+* [http://www.opengis.org/ Open GIS Consortium] - Konsorsium SIG Terbuka
+* [http://www.freegis.org/ FreeGIS] - Software bebas dan data gratis
+* [http://www.primamultisolusindo.com Konsultan GIS PBB] Jasa Pemetaan
+* [http://sangkuriang.co.id/sangkuriang-solution Software Gis] GIS Indonesia
+* [http://underground-paper.blogspot.com/2013/04/sistem-informasi-geografis.html Contoh Makalah Sistem Informasi Geografis] Paper Underground
+
+[[Kategori:Sistem Informasi Geografis| ]]
+[[Kategori:Geomatika| ]]

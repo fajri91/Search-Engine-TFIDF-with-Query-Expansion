@@ -1,0 +1,3 @@
+Templat:Fb team Sarawak FA
+{{fb team |t=SWK |tan=Sarawak FA |tc=MAS |oc={{#if:{{{oc|}}}|{{{oc}}} }} }}<!--
+--><noinclude>[[Category:Fb_team_templates Malaysia]]</noinclude>

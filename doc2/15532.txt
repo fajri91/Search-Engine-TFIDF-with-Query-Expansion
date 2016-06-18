@@ -1,0 +1,724 @@
+Kaskus
+{{Infobox Website
+| name           = Kaskus
+| favicon        = 
+| logo           = [[Berkas:Logo Kaskus.svg]]
+| screenshot     = [[Berkas:Kaskus-screenshot2015.png|250px|]]
+| caption        = Halaman utama Kaskus.co.id
+| url            = {{URL|http://www.kaskus.co.id/}}
+| type           = [[Forum internet]]<br />[[Portal web]]
+| registration   = 
+| owner          = PT Darta Media Indonesia
+| language       = [[Bahasa Indonesia|Indonesia]]
+| author         = [[Andrew Darwis]] <br />[[Ronald Stephanus]]<br />[[Budi Dharmawan]]
+|
+| current status = Aktif
+| revenue        = 
+}}
+[[Berkas:Kaskus_Beta.jpg|250px|thumb|Halaman livebeta.kaskus.co.id, hanya dapat dilihat oleh pengguna yang diundang ke Kaskus Beta.]]
+'''Kaskus''' adalah situs forum [[komunitas maya]] terbesar dan nomor 1 [[Indonesia]] dan penggunanya disebut dengan '''Kaskuser'''.<ref name="dijual">{{cite news 
+ |last =
+ |first =
+ |coauthors =
+ |title =Kaskus Takkan Pernah Dijual
+ |work =
+ |pages =
+ |language =
+ |publisher =Kompas
+ |date =19 Agustus 2008
+ |url =http://www.kompas.com/read/xml/2008/08/19/19154893/kaskus.takkan.pernah.dijual
+ |accessdate =  }}</ref><ref name="wajah">{{cite news 
+ |last =
+ |first =
+ |coauthors =
+ |title =Kaskus Wajah Baru
+ |work =
+ |pages =
+ |language =
+ |publisher =Kompas
+ |date =28 Agustus 2008
+ |url =http://cetak.kompas.com/read/xml/2008/08/28/00452632/kaskus.wajah.baru
+ |accessdate =  }}</ref><ref name="server">{{cite news 
+ |last =Candrataruna 
+ |first =Muhammad 
+ |coauthors =
+ |title =Kaskus Tambah 8 Server di Indonesia
+ |work =
+ |pages =
+ |language =
+ |publisher =Okezone
+ |date =9 Juni 2008
+ |url =http://techno.okezone.com/index.php/ReadStory/2008/06/09/55/116997/55/kaskus-sudah-harmonis-dengan-yogyafree
+ |accessdate =  }}</ref> Kaskus lahir pada tanggal [[6 November]] [[1999]] oleh tiga pemuda asal Indonesia yaitu [[Andrew Darwis]], [[Ronald Stephanus]], dan [[Budi Dharmawan]], yang sedang melanjutkan studi di [[Seattle]], [[Amerika Serikat]]. Situs ini dikelola oleh PT Darta Media Indonesia.<ref>{{cite news 
+ |last =Yuliastuti
+ |first =Dian
+ |coauthors =
+ |title = Kaskus Targetkan Pendapatan Iklan Rp 2-3 Miliar
+ |work =
+ |pages =
+ |language =
+ |publisher =Tempo Interaktif
+ |date =19 Agustus 2008
+ |url =http://www.tempointeraktif.com/hg/ekbis/2008/08/19/brk,20080819-131478,id.html
+ |accessdate =  }}</ref><ref name="image">{{cite news 
+ |last =Yuliastuti
+ |first =Dian
+ |coauthors =Dimas
+ |title = Mengubah Image Portal Gosip
+ |work =
+ |pages =
+ |language =
+ |publisher =Tempo Interaktif
+ |date =01 September 2008
+ |url =http://www.tempointeraktif.com/hg/it/2008/09/01/brk,20080901-133187,id.html
+ |accessdate =  }}</ref> Kaskus memiliki lebih dari 6 juta pengguna terdaftar<ref name="Textinfo">{{cite web| url=http://www.youtube.com/watch?v=5fYQINu7fZQ#t=15m52s|title=Hitam Putih Goes On Kampus|at=TextInfo:Andrew Darwis Sang Founder Kaskus |acessdate=2014-7-14}}</ref>. Pengguna Kaskus umumnya berasal dari kalangan remaja hingga orang dewasa yang berdomisili di Indonesia maupun di luar Indonesia.
+
+Kaskus, yang merupakan singkatan dari ''Kasak Kusuk'',<ref name="image"/> bermula dari sekadar hobi dari komunitas kecil yang kemudian berkembang hingga saat ini. Kaskus dikunjungi sedikitnya oleh 900 ribu orang, dengan jumlah ''page view'' melebihi 15.000.000 setiap harinya.<ref name="popularitas">{{cite web| url=http://teknologi.vivanews.com/news/read/187470-11-tahun--popularitas-kaskus-tak-terbendung|title= Popularitas Kaskus tidak terbendung| acessdate=2011-04-11}}</ref> Hingga bulan Juli 2012, Kaskus sudah mempunyai lebih dari 601 juta posting.<ref name="Textinfo"/>
+
+Menurut [[Alexa.com]], pada bulan Juli 2014 Kaskus berada di peringkat 285 dunia dan menduduki peringkat 7 situs yang paling banyak dikunjungi di Indonesia.<ref name="Alexa Kaskus">{{cite web |url=http://www.alexa.com/siteinfo/kaskus.co.id |title=Kaskus.co.id site info |publisher=Alexa.com |accessdate=2014-7-15}}</ref>
+
+Pada tanggal [[26 Mei]] [[2012]], Kaskus mengalami gangguan pada DNS (Domain Name System) pada domain .us. Sehingga, pada [[27 Mei]] [[2012]], Kaskus berpindah domain yang mulanya berdomain .us sekarang menjadi .co.id dan .com<ref>[http://inet.detik.com/read/2012/05/29/123419/1927286/398/hijrah-ke-com-kaskus-ingin-cegah-user-nyasar Hijrah ke .com, Kaskus Ingin Cegah User Nyasar] - detikcom, diakses tanggal 30 Mei 2012</ref><ref>[http://inet.detik.com/read/2012/05/29/103903/1927082/398/ganti-domain-kaskus-bantah-ada-masalah Ganti Domain, Kaskus Bantah Ada Masalah] - detikcom, diakses tanggal 30 Mei 2012</ref>
+
+== Sejarah ==
+Kaskus diciptakan tanggal [[6 November]] [[1999]] oleh tiga mahasiswa asal Indonesia yaitu [[Andrew Darwis]], Ronald Stephanus, dan Budi Dharmawan, di [[Seattle]], [[Amerika Serikat]]. Kaskus awalnya bertujuan sebagai forum informal mahasiswa Indonesia di luar negeri.<ref name="TJP">http://www.thejakartapost.com/news/2009/11/16/kaskus-delves-serious-business.html Kaskus Delves Serious Business - The Jakarta Post</ref> Nama "Kaskus" sendiri merupakan singkatan dari kata "kasak-kusuk".<ref name="TJP" />
+
+Pada bulan Agustus 2005, ''PC Magazine Indonesia'' memberikan penghargaan kepada situs Kaskus sebagai situs terbaik dan komunitas terbesar, kemudian Kaskus terpilih kembali sebagai ''website'' terbaik pilihan pembaca ''PC Magazine'' pada 2006.
+
+Pada tanggal 23 Mei 2006 manajemen Kaskus terpaksa mengubah domain dari [[.com]] menjadi [[.us]], karena penyebaran [[virus komputer|virus]] [[Brontok]] yang dibuat dengan tujuan menyerang situs-situs besar Indonesia di mana Kaskus masuk dalam target penyerangan.
+
+Karena saking padatnya pengunjung, pada Awal April 2007, manajemen Kaskus menambah dua ''server'' baru untuk meningkatkan performa situs Kaskus (Dell Server).
+
+Pada [[Juli]] [[2008]], Pengelola Kaskus akhirnya memutuskan untuk mengoperasikan ''server'' Kaskus di Indonesia. Untuk keperluan tersebut Kaskus membeli delapan ''server'' Dell PowerEdge 2950 dan dioperasikan melalui jaringan ''open'' IXP. Akibat dari ini akses Kaskus berlipat ganda dan akhirnya pengelola berencana menambahkan delapan ''server'' lagi sehingga total yang akan beroperasi di bulan September adalah enam belas ''server''.<ref name="server"/>
+
+Awal tahun 2011, Kaskus mengumumkan ekspansi bisnisnya dengan menjalin hubungan kerja sama dengan [[Global Digital Prima]] yang merupakan anak perusahaan dari PT [[Djarum]].<ref>{{cite web| url=http://www.detikinet.com/read/2011/03/09/111244/1587620/319/kaskus-resmi-merapat-ke-grup-djarum/| title=Kaskus Resmi Merapat ke Grup Djarum |acessdate=2011-04-11}}</ref> Selain itu, Kaskus juga akan menambah jumlah ''server''-nya hingga 250 buah serta melakukan perekrutan pegawai baru hingga delapan puluh orang.<ref>{{cite web| url=http://teknologi.vivanews.com/news/read/208530-kaskus-tambah-250-server| title=Kaskus tambah 250 server| acessdate=2011-04-11}}</ref>
+
+Pada tanggal 26 Mei 2012 manajemen Kaskus mengubah lagi domain [[.us]] menjadi [[.co.id]] karena mengalami gangguan dengan [[DNS]].<ref>{{cite web| url=http://www.kaskus.co.id/showthread.php?t=14656497| title=Akses KASKUS melalui www.kaskus.com & www.kaskus.co.id |acessdate=2012-05-27}}</ref>
+
+Di sekitar tahun 2012 manajemen Kaskus memutuskan untuk membuat ''engine'' sendiri pada forumnya yang kemudian dinamakan Kaskus 2.0<ref>http://en.wikipedia.org/wiki/Kaskus#cite_note-3</ref> dan dijuluki '''New Kaskus''' oleh para penggunanya. Saat masih dalam masa percobaan, pengguna yang terpilih dapat mencoba menggunakan New Kaskus, sementara pengguna lainnya tetap menggunakan versi vBulletin.
+
+Pada sekitar pertengahan akhir tahun 2012 Kaskus 2.0 sudah mencapai finalnya, sehingga pengguna yang sebelumnya tak dapat mencoba versi percobaan menjadi dapat menggunakannya, dan keseluruhan Kaskus diubah ke versi 2.0 namun terdapat ''thread'' (topik) yang tak dapat ditransfer ke Kaskus 2.0 sehingga manajemen kaskus memutuskan untuk tetap menggunakan vBulletin (yang kemudian dijuluki '''Old Kaskus''') pada topik-topik tersebut, meskipun para pengguna tak dapat menyunting maupun membalas topik yang ada pada Old Kaskus tersebut.
+
+[[Berkas:Kaskuskepenuhan.jpg|thumb|Gambar Kaskus dalam status ''overposting''.]]
+=== Serangan DDOS ===
+[[Berkas:Kaskusd dos.jpg|250px|thumb|Penyerangan mengakibatkan ''thread''-''thread'' yang telah dibuat terpaksa dikunci (''lock'').]]
+Pada tanggal 16-17 [[Mei 2008]], Kaskus diserang menggunakan teknik [[DDoS]] (''Distributed Denial of Service'') oleh oknum yang diduga berasal dari komunitas YogyaFree.<ref name="ddos">{{cite news 
+ |last =Chandrataruna
+ |first =Muhammad 
+ |coauthors =
+ |title =Kaskus Sudah Harmonis dengan YogyaFree
+ |work =
+ |pages =
+ |language =
+ |publisher =Okezone
+ |date =9 Juni 2008
+ |url =http://techno.okezone.com/index.php/ReadStory/2008/06/09/55/116997/55/kaskus-sudah-harmonis-dengan-yogyafree
+ |accessdate =  }}</ref> Serangan ini menyebabkan ''database'' Kaskus ''corrupt'' sehingga administrator terpaksa mengunci ''thread-thread'' yang ada.
+
+Penyerangan tersebut diduga terkait dengan peristiwa perusakan (''deface'') situs YogyaFree beberapa hari sebelumnya.<ref name="ddos"/> Penyerang yang mengklaim dirinya sebagai salah satu anggota Kaskus juga melontarkan celaan yang bernada mengejek di salah satu bagian forum YogyaFree. Hal tersebut membuat beberapa anggota YogyaFree berang, dan kemudian balik menyerang Kaskus dengan DDoS. Akibatnya, administrator Kaskus terpaksa mematikan ''server'' Kaskus.<ref name="ddos"/>
+
+Perang ''cyber'' antara kedua komunitas ini akhirnya selesai ketika kedua pengelola situs menandatangani memorandum ''online'' untuk menyudahi pertikaian di antara keduanya. Pesan tersebut dipampang selama beberapa minggu di halaman situs masing-masing.
+
+Meskipun kerusakan yang ditimbulkan oleh serangan ini cukup berat,<ref name="ddos"/> administrator Kaskus menjanjikan bahwa Kaskus akan kembali normal pada bulan [[Juli 2008]], seiring dengan diluncurkannya ''server'' baru Kaskus di gedung Cyber, [[Jakarta]].<ref name="ddos"/> Namun, ia juga mengatakan bahwa data-data yang akan dimunculkan kembali adalah data yang dimuat sebelum tahun 2008, sementara data yang dibuat selama tahun 2008 tidak dapat dimunculkan kembali.
+
+=== UU ITE ===
+[[Berkas:Kaskusscreenshot.jpg|200px|thumb|Kaskus sebelum mengganti tampilan.]]
+Sebelum UU ITE diberlakukan, Kaskus memiliki dua forum kontroversial, BB17 dan Fight Club. BB17 (kependekan dari ''buka-bukaan 17 tahun'') adalah sebuah forum khusus dewasa tempat pengguna dapat berbagi, baik gambar maupun cerita dewasa. Sementara itu, Fight Club adalah forum yang dikhususkan sebagai tempat berdebat yang benar-benar bebas tanpa dikontrol. Seringkali masalah yang diperdebatkan berkaitan dengan [[SARA]]. Penghinaan terhadap suku dan agama lazim terjadi.
+
+Setelah diberlakukannya UU ITE, Kaskus segera menutup BB17 karena bertentangan dengan UU ITE tentang penyebaran materi pornografi.<ref name="bb17">http://techno.okezone.com/index.php/ReadStory/2008/08/19/55/138179/bb17-hilang-trafik-kaskus-makin-tinggi/bb17-hilang-trafik-kaskus-makin-tinggi</ref> Fight Club diubah namanya menjadi ''Debate Club''. Fight Club dan Debate Club pada dasarnya memiliki fungsi yang sama sebagai tempat untuk berdebat, hanya saja kontrol di Debate Club diperketat. Setiap ''thread'' baru yang dibuat ''user'' terlebih dahulu disensor oleh moderator. Bila dianggap tidak layak dan membahas SARA, maka ''thread'' itu akan dihapus.
+
+Untuk menghapus citra negatif Kaskus sebagai media ''underground''<ref>http://techno.okezone.com/index.php/ReadStory/2008/08/19/55/138129/meski-bujet-minim-kaskus-emoh-jual-diri-ke-asing/meski-bujet-minim-kaskus-emoh-jual-diri-ke-asing</ref> dan situs porno<ref name="bb17" />, Kaskus mengubah tampilannya pada tanggal [[17 Agustus]] [[2008]].<ref>http://techno.okezone.com/index.php/ReadStory/2008/12/03/55/170380/kini-kaskus-lebih-kaya-inovasi</ref> Tampilan baru kaskus dibuat penuh warna. Selain itu, Kaskus juga menambahkan fitur-fitur baru seperti blog dan Kaskus mobile/WAP.
+
+== Fitur ==
+=== KasPay ===
+Ada sebuah layanan terbaru dari situs Kaskus yang menyediakan sistem pembayaran secara [[''online'']] yang disebut '''KasPay'''.<ref>[https://www.kaspay.com/ Situs Kaspay]</ref> Layanan tersebut telah diluncurkan pada Jumat 6 November 2009,<ref>[http://techno.okezone.com/read/2009/11/06/55/273118/pekan-depan-kaskus-luncurkan-kaspay Pekan depan Kaskus luncurkan KasPay]</ref> pada acara Perayaan Ulang Tahun ke-10 Kaskus di Poste, The East Euilding, Kuningan, Jakarta. Layanan transaksi ini dapat digunakan tidak hanya di Kaskus tetapi dapat digunakan terhadap situs-situs lain yang berafiliasi dengan KasPay.
+
+Kaspay akan beroperasi layaknya [[E-wallet]] yang akan dijadikan alat untuk transaksi jual beli di seluruh transaksi ''online''. Seluruh proses transaksi KasPay dilakukan melalui transfer sejumlah [[uang]], sehingga aman dari modus penipuan dan pemalsuan [[kartu kredit]] dan keamanan transaksi selalu dipastikan dengan konfirmasi melalui [[e-mail]] dan catatan transaksi.
+
+=== e-pulsa ===
+e-pulsa<ref>[http://epulsa.kaskus.co.id Situs e-pulsa]</ref> adalah sebuah layanan dari Kaskus yang menyediakan fasilitas pengisian pulsa dan jika kita mau membeli, kita harus membayar menggunakan KasPay. Semua layanan operator didukung di Kaskus e-pulsa.
+
+=== Kaskus Ads ===
+Layanan Kaskus yaitu Kaskus Ads<ref>[http://kad.kaskus.co.id Situs Kaskus Ad]</ref> atau KAD adalah sebuah situs di mana jika kita mau beriklan di Kaskus, kita bisa menempatkan iklan tersebut, tetapi kita harus membayar Kaskus. Dengan layanan Kaskus Ads banyak sekali orang atau pengguna kaskus yang senang beriklan di Kaskus karena biayanya murah dan karena Kaskus mempunyai (sekarang) lebih dari tiga juta pengguna.
+
+=== Kaskus Radio ===
+Kaskus Radio merupakan sebuah Radio Internet Indonesia di bawah naungan komunitas Kaskus. Kaskus radio yang biasa disingkat KR memiliki lebih dari dua puluh penyiar. Radio yang memutarkan lagu selama 24 jam ini memutarkan lagu dari berbagai bahasa, seperti bahasa Inggris, Mandarin, Jepang, Korea, dan masih banyak lagi.
+
+=== Kaskus Mobile ===
+Kaskus mobile adalah situs Kaskus yang sudah diubah tampilannya menjadi minimalis sehingga sesuai dengan layar perangkat [[telepon genggam]]. Alamat Kaskus mobile adalah '''m.kaskus.co.id''' atau '''kask.us'''. Fitur di versi ini bersifat terbatas.
+
+== Sub-forum ==
+=== Forum ===
+Forum tempat para pengguna Kaskus dapat menemukan dan membahas mengenai hobi dan kegemaran.
+
+Forum memiliki sub-forum sebagai berikut:
+{{col-begin}}
+{{col-3}}
+* All About Design
+* Anime & Manga Haven
+** AMHelpdesk
+** Anime
+** Fanstuff
+** Manga, Manhua, & Manhwa
+** TokuSenKa
+** Western Comic
+*** Latest Release
+* Berita dan Politik
+** Berita Luar Negeri
+* BISNIS
+** Dunia Kerja & Profesi
+** Entrepreneur Corner
+*** Penawaran Kerjasama & Investasi
+** Forex, Option, Saham, & Derivatifnya
+*** Forex
+*** Forex Broker
+*** Saham
+*** Options
+** Lowongan Kerja
+** MLM, Member Get Member, & Sejenisnya
+** Penawaran Kerjasama, BO, Distribusi, Reseller, & Agen
+** The Exclusive Business Club (ExBC)
+** The Online Business
+*** HYIP / Money Game / PTC / Autosurf
+** UKM
+* Buku
+* Can You Solve This Game?
+* Computer Stuff
+** CCPB - Shareware & Freeware
+*** REQUEST @ CCPB
+*** Taman Bacaan CCPB
+** Hardware Computer
+*** Hardware Review Lab
+** Internet Service & Networking
+*** ISP
+** Linux dan OS Selain Microsoft & Mac
+** Macintosh
+*** Mac Applications & Games
+*** Mac OSX Info & Discussion
+** Programmer Forum
+** Website, Webmaster, Webdeveloper
+*** Hosting Stuff
+*** Templates & Scripts Stuff
+* Cooking & Resto Guide
+** Oriental Exotic (Asian food)
+** Restaurant Review
+** Selera Nusantara (Indonesian Food)
+** The KASKUS Bar
+** The Rest of the World (International Food)
+* Debate Club
+* Disturbing Picture
+* Education
+** Civitas Academica
+** Sejarah & Xenology
+** Sains & Teknologi
+* English
+** English Education & Literature
+** Fun with English
+* Event from Kaskuser
+* Fit & Healty Lifestyle
+** Fat-loss, Diet & Nutrition
+** Fitness & Muscle Building
+** Mind, Body & Soul
+** Quit Smoking & Avoid Drugs
+* Gadget & Gizmo
+** Audio & Video
+* Games
+** Console & Handheld Games
+** Online Games
+*** Ragnarok Online
+** PC Games
+** Web-based Games
+{{col-3}}
+* Girls & Boys's Corner
+** Ask da Boys
+** Ask da Girls
+* Green Lifestyle
+* Handphone & PDA
+** Android
+** BlackBerry Corner
+** PDA & PDA Phone
+** Mobile Phone
+** Operator CDMA & GSM
+* Health & Medical
+* Heart to Heart
+** B-Log Collections
+** Poetry
+** Stories from the Heart
+* Hewan Peliharaan
+** Burung
+** Freshwater Fish
+** Mamalia
+** Reptil
+** Saltwater Fish
+* Hobby & Community
+** Jam N
+** Lampu Senter / Flashlight
+** Mancing
+** Pisau
+** Radio Komunikasi
+** Sepeda
+* Ilmu Marketing
+** Ilmu Marketing & Research
+* Jokes & Cartoon
+** Pictures
+* Lifestyle
+** Fashion
+** Inspirasi
+** Nightlife & Events
+* Melek Hukum
+* Militer dan Kepolisian
+** Kepolisian
+** Militer
+* Mobile Broadband
+* Model Kit & R/C
+** Figures
+** Gallery & Tutorial
+** Plamo
+* Movies
+** Film Indonesia
+** Indie Filmmaker
+** KASKUS Theater
+** TV
+* Music
+** Help, Tips & Tutorial
+** KaskusRadio.com
+** Music Corner
+** Music Event
+** Music Review
+{{col-3}}
+* Nokia
+* Otomotif
+** Kendaraan Roda 2
+** Kendaraan Roda 4
+* Outdoor Adventure & Nature Clubs
+** Catatan Perjalanan OANC
+* Perencanaan Keuangan
+* Photography
+* Sports
+** Airsoft Indonesia
+** Basketball
+** Grappling
+** Racing / Balap
+** Martial Arts
+** Pro Wrestling
+** Racket
+*** Badminton
+** Soccer & Futsal Room
+*** FutSal
+** Sport Games
+* Supranatural
+** Budaya
+** Spiritual
+* Surat Pembaca
+* Tanaman
+* Teknik
+** Arsitektur
+** Sipil
+* The Lounge
+** Gosip Nyok!
+** Lounge Pictures & Video
+* Travellers
+** Domestik
+** Mancanegara
+* Wedding & Family
+** Kids & Parenting
+* Welcome to KASKUS
+** Arsip Forum
+** Buat Latihan Posting
+** Donatur Lounge
+** Kritik, Saran, Pertanyaan Seputar KASKUS
+** Recycle Bin
+* Young on Top KASKUS Community (YOTKC)
+{{col-end}}
+
+=== Regional ===
+Forum tempat para pengguna Kaskus dapat berkomunikasi maupun berkumpul satu sama lain yang masih berdomisili di wilayah yang sama.
+
+Regional memiliki sub-forum sebagai berikut:
+{{col-begin}}
+* '''Indonesia''':
+{{col-7}}
+* '''Sumatera'''
+** Bangka Belitung
+** Jambi
+** Medan
+** Palembang
+** Riau Raya
+** Lampung
+** Minangkabau
+** Aceh
+** Kepulauan Riau
+** Batam
+** Bengkulu
+{{col-7}}
+* '''Jabar, DKI, Banten'''
+** Banten
+** DKI Jakarta
+** Bogor
+** Depok
+** Bekasi
+** Bandung
+** Cirebon
+** Sukabumi
+** Tasikmalaya
+** Garut
+{{col-7}}
+* '''Jateng DIY'''
+** Semarang
+** Yogyakarta
+** Karesidenan Pati
+** Solo
+** Klaten
+** Banyumas
+** Tegal
+** Wonogiri
+{{col-7}}
+* '''Jawa Timur & Bali'''
+** Surabaya
+** Sidoarjo
+** Malang
+** Gresik
+** Jember
+** Karesidenan Mediun
+** Karesidenen Kediri
+** Karesidenen Besuki
+** Mojokerto
+** Bali
+** Bromo
+{{col-7}}
+* '''Kalimantan'''
+** Kalimantan Barat
+** Kalimantan Tengah
+** Kalimantan Selatan
+** Kalimantan Timur
+{{col-7}}
+* '''Sulawesi'''
+** Palu
+** Makassar
+** Manado
+** Kendari
+** Gorontalo
+{{col-7}}
+* '''Indonesia Timur'''
+** Papua
+{{col-end}}
+{{col-begin}}
+{{col-7}}
+* '''Australia''':
+** Melbourne
+** Sydney
+** Perth
+** Brisbane
+** Others
+{{col-7}}
+* '''Eropa''':
+** Germany
+** Netherlands
+** United Kingdom
+** Others
+{{col-7}}
+* '''USA''':
+** Canada
+** Visit USA
+** West USA
+** Central USA
+** East USA
+{{col-7}}
+* '''Asia''':
+** China
+** Japan
+** Korea Selatan
+** Malaysia
+** Singapore
+** Others
+{{col-7}}
+* '''Other Regional''':
+** Timur Tengah
+** Others
+{{col-7}}
+{{col-7}}
+{{col-7}}
+{{col-end}}
+
+=== Forum Jual-Beli ===
+Forum tempat para pengguna Kaskus dapat menjual dan/atau membeli suatu barang/jasa yang diinginkan. Forum ini merupakan salah satu forum utama Kaskus, bisa dilihat dari banyaknya sub-forum yang terdapat di forum ini. Barang/jasa yang dijual di forum ini sangat beragam, mulai dari kaus oblong seharga Rp50.000 (lima puluh ribu rupiah) sampai dengan hak kepemilikan tanah seharga Rp260.000.000.000 (dua ratus enam puluh miliar rupiah).
+
+Forum Jual Beli atau disingkat menjadi FJB memiliki sub-forum sebagai berikut:
+{{col|4}}
+* Antik,
+* Art & Design,
+* Baby & Kids Stuff ,
+* Bisnis, Industry & Supplier,
+* Buku,
+* Camera & Aksesoris,
+* CD & DVD,
+* Collectibles,
+* Computer,
+* Elektronik,
+* Face & Body Care,
+* Fashion & Mode,
+* Flora & Fauna,
+* Food, Drink & Medicine,
+* Furniture,
+* Handphone & PDA,
+* Hardware & Tools,
+* Kerajinan Tangan,
+* Musical Instrument,
+* Otomotif,
+* Peralatan Kantor,
+* Peralatan Rumah Tangga,
+* Perhiasan & Jam Tangan,
+* Property,
+* Services,
+* Sports Equipment,
+* Ticket Events,
+* Tour & Travel,
+* Toys & Hobbies,
+* Web Hosting & Services,
+* Video Games,
+* Readme,
+* Review,
+* Others,
+* Bola
+* Feedback dan Testimonial.
+{{end-col}}
+{{col-begin}}
+{{col-2}}
+
+=== Kaskus Corner ===
+Forum tempat para pengguna Kaskus dapat mendapatkan info mengenai acara/kegiatan tertentu seperti bakti sosial, ''gathering'', atau seminar yang diselenggarakan oleh Kaskus atau pengguna terdaftar yang bersangkutan.
+
+Kaskus Corner memiliki sub-forum sebagai berikut:
+* Kaskus Celeb,
+* Kaskus Peduli,
+* Kaskus Promo,
+* Cinta Indonesiaku,
+
+== Terminologi ==
+{| class="wikitable" style="text-align:center"
+|-   
+! Istilah !! Arti
+|-
+| '''Juragan/Juraganwati'''
+| align="left"|Panggilan untuk sesama pengguna Kaskus. Juragan untuk pengguna [[laki-laki]] dan Juraganwati untuk pengguna [[perempuan]].
+|-
+| '''Agan/Aganwati'''
+| align="left"|Kependekan dari Juragan/Juraganwati.
+|-
+| '''Kaskuser'''
+| align="left"|Pengguna Kaskus (dan juga istilah yang menyebutkan peringkat Kaskus).
+|-
+| '''PertamaX'''
+| align="left"|Gabungan dari kata Pertama + X (kali) yang digabung jadi satu (=Pertama kali) sehingga mendekatkan pada produk bahan bakar nonsubsidi dari [[Pertamina|PT Pertamina Tbk.]] yaitu [[Pertamax]], yang artinya pertama kali mem-''posting'' balasan dari sebuah ''thread''.
+|-
+| '''Trit'''
+| align="left"|Kependekan dari '''Thread''' (halaman berisi suatu topik yang dibuat oleh seorang Kaskuser).
+|-
+| '''TS'''
+| align="left"|Kependekan dari '''Thread Starter''' (Kaskuser yang memulai atau membuat sebuah ''thread'').
+|-
+| '''Cendol/Ijo-ijo/GRP'''
+| align="left"|Sebutan lain dari '''Good Reputation Point''', poin reputasi bagus seorang Kaskuser. Merupakan hal yang paling diinginkan dari seorang Kaskuser. GRP diberikan oleh Kaskuser lain yang sudah mencapai ISO 2000, bila ''thread'' yang dibuat oleh ''thread starter'' dianggap bagus. Dalam Kaskus, GRP sering dijadikan bahan taruhan ketika sedang berlangsung sebuah pertandingan di dunia nyata.
+|-
+| '''Bata merah/BRP'''
+| align="left"|Sebutan lain dari '''Bad Reputation Point''', poin reputasi buruk seorang Kaskuser. Merupakan hal yang paling dihindari oleh kebanyakan Kaskuser. BRP diberikan oleh Kaskuser lain yang sudah mencapai ISO 2000 bila ''thread'' yang dibuat oleh ''thread starter'' dianggap buruk. Beberapa Kaskuser menganggap BRP sebagai hal yang patut dibanggakan, dan justru meminta BRP pada setiap ''thread'' yang dibuatnya.
+|-
+| '''ISO 2000'''
+| align="left"|Tingkatan yang diperlukan untuk bisa memberi CENDOL dan BATA. Disebut ISO 2000 karena untuk mencapai tingkatan ini harus mendapat 2000 ''posting''-an. Kata ISO kemungkinan berasal dari [[bahasa Jawa]] "iso" yang artinya "bisa". Ada pula yang berpendapat bahwa ISO berasal dari [[Organisasi Internasional untuk Standardisasi|International Organisation for Standardisation]] (ISO 9000:2000).
+|-
+| '''Kulkas'''
+| align="left"|Kata lain dari '''Control Panel''', tempat untuk melihat jumlah BRP dan/atau GRP yang telah diterima.
+|-
+| '''Maho'''
+| align="left"|Kependekan dari "Manusia [[homoseksualitas|Homo]]", merupakan kata ejekan dalam Kaskus yang menganalogikan dengan kaum homo atau ''gay''.
+|-
+| '''TKP'''
+| align="left"|Kependekan dari "Tempat Kejadian Perkara", pengganti kata [[pranala|link]]/tautan.
+|-
+| '''Mimin'''
+| align="left"|[[Slang]] dari Administrator Kaskus.
+|-
+| '''Momod'''
+| align="left"|Slang dari Moderator Kaskus.
+|-
+| '''Enthusiast'''
+| align="left"|Tag spesial bagi kaskuser yang berkontribusi pada sub-forum tertentu (kecuali FJB). Diberikan berdasarkan pertimbangan dari moderator masing-masing forum dan persetujuan pihak administrator. Tag Enthusiast diberikan selama jangka waktu tertentu dan jumlah Enthusiast berbeda di setiap sub-forum. 
+|-
+| '''KSP'''
+| align="left"|Kependekan dari subforum Kritik, Saran, dan Pertanyaan.
+|-
+| '''Main tenis'''
+| align="left"|Bahasa Kaskus untuk ''maintenance''.
+|-
+| '''No afgan'''
+| align="left"|Bahasa Kaskus untuk jangan sadis menawar harga dalam Forum Jual Beli (FJB).
+|-
+| '''BB+17'''
+| align="left"|Bahasa Kaskus untuk Buka-Bukaan +17 = gambar dewasa untuk 17 tahun ke atas. Biasanya digunakan untuk gambar pornografi ataupun gambar semiporno.
+|-
+| '''Gan'''
+| align="left"|Bahasa Kaskus kependekan kata juragan, panggilan atau kepada sesama ''member'' Kaskus.
+|-
+| '''Pejwan'''
+| align="left"|Bahasa Kaskus dari Page One. Berasal dari bahasa Inggris kemudian dieja secara harfiah dalam bahasa Indonesia.
+|-
+| '''Jebakan Betmen'''
+| align="left"|Istilah yang biasa digunakan oleh kaskuser ketika ada ''link''/tautan yang menjebak.
+|-
+| '''Mejeng'''
+| align="left"|Slang dari Pajang/Pamer.
+|-
+| '''Junk'''
+| align="left"|Post sampah yang isinya tidak penting. ''Contoh'': Nice Info Gan!
+|-
+| '''Alay atau 4l4y'''
+| align="left"|Kependekan dari Anak layangan atau arti dari Kampungan/Norak.
+|-
+| '''Pertamax Hunter'''
+| align="left"|Pemburu Pertamax (dengan cara mencari ''thread'' yang jumlah postingannya 0).
+|-
+| '''COD'''
+| align="left"|Merupakan singkatan dari Cash on Delivery; istilah dalam Forum Jual Beli (FJB) di mana uang tunai diberikan saat pembeli dan penjual berjumpa di tempat perjanjian.
+|-
+| '''WTB'''
+| align="left"|Merupakan singkatan dari Want to Buy, di mana seorang Kaskuser sedang mencari suatu barang di Forum Jual Beli (FJB).
+|-
+| '''WTS'''
+| align="left"|Merupakan singkatan dari Want to Sell, di mana seorang Kaskuser sedang menjual suatu barang di Forum Jual Beli (FJB).
+|-
+| '''Sotosop'''
+| align="left"|Istilah untuk menyebutkan gambar-gambar hasil manipulasi menggunakan aplikasi komputer (Photoshop).
+|-
+| '''Nubitol'''
+| align="left"|Istilah untuk menyebut ''Newbie'' yang tidak membaca rules/melanggar rules.
+|-
+| '''+1'''
+| align="left"|Istilah untuk menambah postingan.
+|-
+| '''Barcen'''
+| align="left"|Singkatan dari Barter Cendol. Kegiatan yang sering dilakukan pada member yang sudah ISO 2000.
+|-
+| '''Spidol'''
+| align="left"|Singkatan dari [[Speedy]] Dodol.
+|-
+| '''Dodol'''
+| align="left"|Lambat, lemot, atau jelek
+|-
+| '''Kirbal'''
+| align="left"|Singkatan dari Kirim balik.
+|-
+| '''Fullbar'''
+| align="left"|Istilah untuk menyebutkan jumlah balok cendol maksimal yang ditampilkan pada user = 11 balok = 1500 GRP/cendol
+|-
+| '''Sista'''
+| align="left"|Panggilan kepada kaskuser perempuan
+|-
+| '''Repost/Repsol'''
+| align="left"|Istilah untuk thread/post ulangan atau jiplakan, atau mengulang kembali thread/post
+|-
+| '''Dejavu'''
+| align="left"|Istilah lain dari repost
+|-
+| '''Mikocok'''
+| align="left"|Bahasa kaskus untuk [[Microsoft]]
+|-
+| '''Dopost/Dobol/Dopsol'''
+| align="left"|2 Post berturut-turut.
+|-
+| '''Kloningan/Klonengan'''
+| align="left"|ID atau username ke-2. Berasal dari kata clone.
+|-
+| '''Geje/Gaje/GJ'''
+| align="left"|Singkatan dari '''Gak Jelas'''. Artinya '''Tidak Jelas'''.
+|-
+| '''Donat'''
+| align="left"|Singkatan untuk Donatur KASKUS.
+|-
+| '''Copas'''
+| align="left"|Singkatan untuk '''Copy Paste'''. Artinya menjiplak kemudian menyetak.
+|-
+| '''DP'''
+| align="left"|Singkatan untuk Disturbing Picture. Biasa digunakan kaskuser ketika ada gambar yang menjijikkan atau menggangu
+|-
+| '''IGO'''
+| align="left"|Singkatan untuk Indonesian Girls Only. Singkatan ini digunakan untuk menyebut foto model dari [[Indonesia]]
+|-
+| '''Sundul'''
+| align="left"|Istilah yang biasa digunakan untuk menampilkan ke halaman pertama suatu forum agar lebih banyak ''reply'' atau komentar.
+|-
+| '''Komeng'''
+| align="left"|Bahasa Kaskus untuk komentar.
+|-
+| '''KW'''
+| align="left"|Istilah FJB untuk Barang Tiruan. Semakin kecil angka di belakang KW, semakin bagus kualitasnya
+|-
+| '''Fullset'''
+| align="left"|Istilah lain Full Aksesoris
+|-
+| '''Ongkir'''
+| align="left"|Singkatan untuk Ongkos Kiriman
+|-
+| '''Nego'''
+| align="left"|Slang untuk tawar-menawar
+|-
+| '''Sedot'''
+| align="left"|Bahasa Kaskus untuk unduh
+|-
+| '''Kripik Pedas'''
+| align="left"|Bahasa Kaskus untuk Kritik Pedas
+|-
+| '''[[Pasukan nasi bungkus]]/[[Panasbung]]'''
+| align="left"| Sekelompok orang yang dibayar atau diberi upah untuk berdemo atau melakukan black campaign. Baik di dunia maya maupun nyata.<ref>http://kamusslang.com/m?do=Search&submit=Cari&what=panasbung</ref>
+|-
+| '''[[Pasukan nasi kotak]]/[[Panastak]]'''
+| align="left"| Pendukung pro [[Jokowi]] dan [[Ahok]]<ref>http://kamusslang.com/m?do=Search&submit=Cari&what=panastak</ref>
+|-
+|}
+
+== Tingkatan Pengguna ==
+Tingkatan pengguna (pangkat) akan naik apabila memberikan komentar pada ''thread'' yang ada atau tidak memberi komentar yang tidak bermutu (''nge-junk''), tingkatan pengguna itu terdiri atas:
+{|
+|-
+| 0 - 99 ''postingan'' || '''''Newbie'''''
+|-
+| 100 - 499 ''postingan'' || '''''Kaskuser'''''
+|-
+| 500 - 749 ''postingan'' || '''''Aktivis kaskus'''''
+|-
+| 750 - 999 ''postingan'' || '''''Kaskus holic'''''
+|-
+| 1.000 - 3.999 ''postingan'' || '''''Kaskus addict'''''
+|-
+| 4.000 - 9.999 ''postingan'' || '''''Kaskus maniac'''''
+|-
+| 10.000 - 24.999 ''postingan'' || '''''Kaskus geek'''''
+|-
+| 25.000 - 49.999 ''postingan'' || '''''Kaskus freak'''''
+|-
+| Lebih dari 50.000 ''postingan'' || '''''Made in Kaskus'''''
+|}
+
+== Pengguna terkenal ==
+* '''Exc@libur''' dan '''Black Angel'''. Kaskuser yang sempat dicari karena keterlibatannya menyebarkan rekaman [[kotak hitam]] [[Adam Air Penerbangan 574]] di dunia maya.<ref>[http://www.kompas.com/read/xml/2008/08/07/15130384/roy.suryo.rekaman.kokpit.adamair.asli Roy Suryo: Rekaman Kokpit Adam Air Asli] Kompas.com</ref><ref>http://news.okezone.com/index.php/ReadStory/2008/08/06/1/134192</ref>
+* '''saykojigor'''. Rapper, [[Saykoji|Igor Saykoji]].<ref>[http://www.kaskus.co.id/member.php?u=367575 Verified account saykojigor]</ref>
+* '''AndrieWongso'''. Motivator, [[Andrie Wongso]].<ref>[http://www.kaskus.co.id/member.php?u=567694 Andrie Wongso sebagai salah satu kontributor Kaskus.]</ref>
+* '''Katon Bagaskara'''. Penyanyi, [[Katon Bagaskara]].<ref>[http://www.kaskus.co.id/member.php?u=392291 Verified account Katon Bagaskara]</ref>
+* '''Craig Newmark'''. Pendiri Craiglist.org, [[Craig Newmark]].<ref>[http://www.kaskus.co.id/member.php?u=1033270 Verified account Craig Newmark ]</ref>
+* '''SuleOVJ'''. Artis, [[Sule]].<ref>[http://www.kaskus.co.id/member.php?u=1184587 Verified account SuleOVJ ]</ref>
+* '''Onno W. Purbo'''. Tokoh teknologi informasi, [[Onno W. Purbo]].<ref>[http://www.kaskus.co.id/member.php?u=1175778 Verified account onnowpurbo ]</ref>
+* '''GGanesha'''. Vokalis grup band [[Nidji]], [[Giring Ganesha]].<ref>[http://www.kaskus.co.id/member.php?u=2410455 Verified account Giring Ganesha ]</ref>
+* '''Meisya.Siregar'''. Artis, [[Meisya Siregar]].<ref>[http://www.kaskus.co.id/member.php?u=2627356 Verified account Meisya Siregar]</ref>
+== Galeri Tampilan Kaskus ==
+[[Berkas:Kaskus-screenshot2015.png|250px|Tampilan Kaskus 2015]]
+[[Berkas:Kaskus-screenshot.jpg|250px|Tampilan Kaskus Beta]]
+== Referensi ==
+{{reflist|2}}
+
+== Pranala luar ==
+* {{id}} [http://www.kaskus.co.id Situs web Kaskus]
+* {{id}} [http://www.kaskusradio.com Kaskus Radio]
+* {{id}} [http://idrus.net/2009/08/11/kbbk-kamus-besar-bahasa-kaskus-v1-0.shtml Kamus KBBK (Kamus Besar Bahasa Kaskus)]
+* {{id}} [http://www.jawapos.com/halaman/index.php?act=detail&nid=142281 Situs-situs pertemanan asli Indonesia]
+
+{{Situs Web Indonesia}}
+
+[[Kategori:Situs web]]

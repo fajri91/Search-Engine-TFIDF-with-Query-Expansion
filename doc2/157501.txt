@@ -1,0 +1,25 @@
+Templat:Country data Yunani
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Yunani
+| flag alias = Flag of Greece.svg
+| flag alias-old = Flag of Greece (1828-1978).svg
+| flag alias-1970 = Flag of Greece (1970-1975).svg
+| flag alias-royal = State flag of Greece (18631924;193573).svg
+| flag alias-otto = State flag of Greece (1833-1862).svg
+| flag alias-royalnavy = Hellenic Naval Ensign 1935.svg
+| link alias-naval = Angkatan Laut Yunani
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = old
+| var2 = 1970
+| var3 = royal
+| var4 = otto
+| var5 = royalnavy
+| redir1 = GRC
+| redir2 = GRE
+| redir3 = Greece
+</noinclude>
+}}

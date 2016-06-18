@@ -1,0 +1,41 @@
+Templat:Skuat Middlesbrough F.C.
+{{football squad
+ |name=Skuat Middlesbrough F.C.
+ |teamname=Middlesbrough F.C.
+ |bgcolor=#dd0000
+ |textcolor=white
+ |bordercolor=silver
+ |list =<div>
+{{fsp2|no=1|name=[[Dimitrios Konstantopoulos|Konstantopoulos]]}}
+{{fsp2|no=2|name=[[Dami Abella|Dami]]}}
+{{fsp2|no=3|name=[[George Friend|Friend]]}}
+{{fsp2|no=4|name=[[Daniel Ayala|Ayala]]}}
+{{fsp2|no=5|name=[[Fernando Amorebieta|Amorebieta]]}}
+{{fsp2|no=6|name=[[Ben Gibson|Gibson]]}}
+{{fsp2|no=7|name=[[Grant Leadbitter|Leadbitter]] {{kapten}}}}
+{{fsp2|no=8|name=[[Adam Clayton|Clayton]]}}
+{{fsp2|no=9|name=[[Enrique Garca Martnez|Kike]]}}
+{{fsp2|no=10|name=[[Carlos de Pena|de Pena]]}}
+<!--{{fsp2|no=11|name=[[Mustapha Carayol|Carayol]]}}-->
+{{fsp2|no=13|name=[[Toms Mejas|Mejas]]}}
+<!--{{fsp2|no=14|name=[[Rhys Williams|Williams]]}}-->
+{{fsp2|no=15|name=[[Alex Baptiste|Baptiste]]}}
+<!--{{fsp2|no=17|name=[[James Husband|Husband]]}}-->
+{{fsp2|no=18|name=[[Cristhian Stuani|Stuani]]}}
+{{fsp2|no=19|name=[[Stewart Downing|Downing]]}}
+<!--{{fsp2|no=20|name=[[Adam Reach|Reach]]}}-->
+{{fsp2|no=22|name=[[Dael Fry|Fry]]}}
+{{fsp2|no=23|name=[[Enrique Sola|Sola]]}}
+{{fsp2|no=24|name=[[Emilio Nsue|Nsue]]}}
+{{fsp2|no=26|name=[[Tom Kalas|Kalas]]}}
+{{fsp2|no=27|name=[[Albert Adomah|Adomah]]}}
+{{fsp2|no=31|name=[[Diego Fabbrini|Fabbrini]]}}
+{{fsp2|no=34|name=[[Adam Forshaw|Forshaw]]}}
+{{fsp2|no=35|name=[[David Nugent|Nugent]]}}
+{{fsp2|no=39|name=[[Jonathan Woodgate|Woodgate]]}}
+{{fsm|name=[[Aitor Karanka|Karanka]]}}
+</div>
+}}<noinclude>{{Squad maintenance}}
+[[Kategori:Templat skuat klub Liga Championship Inggris|Middlesbrough]]
+
+</noinclude>

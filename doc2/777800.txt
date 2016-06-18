@@ -1,0 +1,27 @@
+Berkas:Thanga meenkal.jpg
+{{dari|en}}
+== Penjelasan ==
+{{Non-free use rationale poster
+|Article           = Thanga Meenkal
+|Use               = Infobox
+|Media             = <!--Choose: film / tv / event   or leave blank to obtain a default value-->
+<!-- ADDITIONAL INFORMATION -->
+|Name              = 
+|Distributor       = 
+|Publisher         = 
+|Graphic Artist    =
+|Type              = 
+|Website           = 
+|Owner             = 
+|Commentary        = 
+<!--OVERRIDE FIELDS -->
+|Description       = 
+|Source            = http://news.moviegalleri.net/wp-content/uploads/2012/11/thanga_meengal_movie_release_pongal.jpg
+|Portion           = 
+|Low resolution    = 
+|Purpose           = <!-- Must be specified if Use is not Infobox / Header / Section -->
+|Replaceability    = 
+|Other information = 
+}}
+== Lisensi ==
+{{Non-free poster|image has rationale=yes}}

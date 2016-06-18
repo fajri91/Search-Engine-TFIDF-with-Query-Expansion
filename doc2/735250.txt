@@ -1,0 +1,8 @@
+Portal:Israel/Kategori
+[[File:Flag of Israel.svg|50px|border|right|Kategori Israel]]
+{{div col|2}}
+<div style="font-size:98%;">
+<categorytree>Israel</categorytree>
+<noinclude>[[Category:Portal Israel|{{SUBPAGENAME}}]]</noinclude>
+</div>
+{{div col end}}

@@ -1,0 +1,29 @@
+Templat:Escambia County, Alabama
+{{US county navigation box
+| template_name = Escambia County, Alabama
+| county = Escambia County
+| state = {{cd|Alabama}}
+| color = #cddeff
+| map_image = Map of Alabama highlighting Escambia County.svg
+| map_size = 100x100
+
+| seat = Brewton
+
+| title1 = Kota besar
+| body1  =
+[[Atmore, Alabama|Atmore]] {{!}}
+[[Brewton, Alabama|Brewton]] {{!}}
+[[East Brewton, Alabama|East Brewton]]
+
+| title2 = Kota kecil
+| body2  =
+[[Flomaton, Alabama|Flomaton]] {{!}}
+[[Pollard, Alabama|Pollard]] {{!}}
+[[Riverview, Alabama|Riverview]]
+
+| title3 = Komunitas lain
+| body3  =
+[[Freemanville, Alabama|Freemanville]]
+}}<noinclude>
+[[Kategori:Templat county Alabama|{{PAGENAME}}]]
+</noinclude>

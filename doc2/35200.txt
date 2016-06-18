@@ -1,0 +1,17 @@
+Notasi musik
+'''Notasi musik''' adalah sistem penulisan karya [[musik]]. Dalam notasi musik, [[nada]] dilambangkan oleh '''not''' (walaupun kadang istilah ''nada'' dan ''not'' saling dipertukarkan penggunaannya). Tulisan musik biasa disebut '''partitur'''.
+
+Notasi musik standar saat ini adalah [[notasi balok]], yang didasarkan pada [[paranada]] dengan lambang untuk tiap nada menunjukkan durasi dan [[tinggi nada|ketinggian]] nada tersebut. Tinggi nada digambarkan secara vertikal sedangkan waktu ([[ritme]]) digambarkan secara horizontal. Durasi nada ditunjukkan dalam ketukan.
+
+Terdapat pula bentuk notasi lain, misalnya [[notasi angka]] yang juga digunakan di negara-negara Asia, termasuk [[Indonesia]], [[India]], dan [[Tiongkok]].
+
+== Notasi Balok ==
+{{utama|Notasi balok}}Notasi balok merupakan salah satu percabangan dari notasi musik. Notasi balok berbentuk not-not yang terbentuk dari susunan Garis Paranada, Tanda Birama, Tanda Mula, Tanda Ulang, dan lain-lain. Notasi balok terdiri dari notasi berbunyi dan notasi diam (tanda diam)
+
+== Notasi Angka ==
+{{utama|Notasi angka}}Notasi angka merupakan salah satu percabangan dari notasi musik. Notasi balok berbentuk angka-angka yang terbentuk dalam Partitur musik atau Notasi Balok. Notasi tanda tanda titik di atas maupun di bawah menandakan nada sedang. Tanda titik dibawah sebanyak satu atau lebih titik menandakan nada rendah. Tanda titik diatas sebanyak satu atau lebih titik menandakan nada tinggi.
+
+==Pranala luar==
+* {{en}} [http://digital.library.ucla.edu/sheetmusic/ Sheet Music Consortium]
+
+[[Kategori:Musik]]

@@ -1,0 +1,57 @@
+Bahasa Afrikaans
+{{bahasa|name=Bahasa Afrikaans|nativename=Afrikaans
+|familycolor=lawngreen
+|states=[[Afrika Selatan]], [[Namibia]], [[Belanda]]
+|region=-
+|speakers=6 juta
+|rank=''tidak dalam 100 besar''
+|family=[[Indo-Eropa]]{{br}}
+&nbsp;[[Jermanik]]{{br}}
+&nbsp;&nbsp;[[Jermanik Barat]]{{br}}
+&nbsp;&nbsp;&nbsp;&nbsp;[[Jerman Hilir]]{{br}}
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[[Frankia Hilir]]{{br}}
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[[Bahasa Belanda]]{{br}}
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'''Bahasa Afrikaans'''
+|nation=[[Afrika Selatan]]
+|agency=tidak ada
+|iso1=af|iso2=afr (B&T)|sil=AFR}}
+
+'''Bahasa Afrikaans''' adalah [[Bahasa Jermanik Barat]] yang dituturkan di [[Afrika Selatan]] dan [[Namibia]]. Bahasa ini pada awalnya adalah dialek yang dituturkan oleh para pendatang [[Afrikaner]] dan budak yang dibawa ke daerah [[Cape Town]] oleh [[Kompeni Hindia Belanda]] ([[bahasa Belanda]]: ''Verenigde Oost-Indische Compagnie'' - VOC) pada tahun [[1652]] dan [[1705]]. Sebagian besar pendatang ini berasal dari [[Perserikatan Provinsi]] (sekarang [[Belanda]]), namun ada juga pendatang dari [[Jerman]], [[Perancis]], [[Skotlandia]] dan beberapa negara lainnya. Para pekerja dan budak yang dibawa serta adalah orang-orang [[Melayu]], orang-orang [[Khoi]], dan [[Bushmen]].
+
+Penelitian oleh [[J. A. Heese]] menunjukan bahwa sampai tahun [[1807]], 39,8% nenek moyang dari penutur bahasa Afrikaans berkulit putih adalah orang Belanda, 35% Jerman, 14,6% Perancis, dan 7,2 persen orang berkulit non putih. Dialek tersebut dikenal sebagai ''cape Dutch''. Kemudian, bahasa Afrikaans juga dikenal sebagai "bahasa Belanda Afrika" ([[bahasa Inggris]]: ''African Dutch''). Afrikaans dianggap sebagai [[Dialek]] [[Bahasa Belanda]] sampai dengan awal [[Abad 20]] ketika bahasa tersebut mulai dikenal sebagai bahasa yang berbeda. Nama ''Afrikaans'' sebenarnya adalah istilah Bahasa Belanda untuk "Orang Afrika" atau "Bahasa Afrika".
+
+== Sejarah ==
+Bahasa Afrikaans secara [[linguistik]] berhubungan dekat dengan Bahasa Belanda [[abad ke-17]], dan Bahasa Belanda modern. Penutur kedua bahasa tersebut dapat saling mengerti tanpa kesulitan. Bahasa lain yang berhubungan dengan Bahasa Afrikaans adalah [[Bahasa Saksen Rendah]] yang dituturkan di Jerman utara dan Belanda, [[Bahasa Jerman]], dan [[Bahasa Inggris]]. Kosa kata ''Cape Dutch'' semakin berbeda dengan kosakata Bahasa Belanda seiring waktu berjalan, karena kata-kata serapan yang diambil dari para pendatang Eropa lainnya, budak-budak India Timur, dan bahasa daerah Afrika. Materi tercetak pada kalangan Afrikaner pada awalnya hanya menggunakan bahasa Belanda Eropa. Menjelang pertengahan abad ke-19, makin banyak terbitan yang muncul dalam Bahssa Afrikaans, yang masih dianggap sebagai dialek pada waktu itu. Buku tata bahasa dan kamus Bahasa Afrikaans pertama diterbitkan pada tahun [[1875]] oleh ''[[Genootskap vir Regte Afrikaners]]'' (Perkumpulan Afrikaner Asli) di [[Cape Town]]. Pada tahun [[1925]] Afrikaans diproklamasikan sebagai bahasa yang berbeda dari bahasa Belanda. Sampai tanggal tersebut bahasa resmi di Uni Afrika Selatan adalah Bahasa Inggris dan Belanda. setelah itu, bahasa Belanda digantikan dengan bahasa Afrikaans.
+{{Nederlands Wereldwijd}}
+Di samping kosakata, perbedaan paling mendasar bahasa ini dari bahasa Belanda adalah tata bahasanya yang lebih teratur, yang mungkin adalah hasil dari interferensi mutual oleh [[Bahasa Kreol]] Belanda yang dituturkan sejumlah besar penutur non-Belanda pada periode formasi bahasa tersebut pada pertengahan kedua abad ke-17. Pada [[1710]], jumlah budak melebihi pendatang baru, dan bahasa tersebut berkembang di antara penutur yang tidak mencatat atau mempelajari lebih lanjut dialek baru mereka.
+
+Ada beberapa teori tentang bagaimana Bahasa Afrikaans tercipta. Banyak ahli linguistik yakin bahwa Bahasa Afrikaans dipengaruhi oleh Bahasa Kreol yang didasarkan dari Dialek Belanda Selatan. Sangat susah namun untuk mencari tahu bagaimana pengaruh ini berlangsung mengingat hampir tidak ada materi tertulis dalam Bahasa Kreol Belanda, hanya beberapa kalimat ditemukan pada buku yang tidak berhubungan yang biasanya bukan ditulis oleh penutur Bahasa Afrikaans.
+
+Walaupun banyak dari Kosakata Bahasa Afrikaans diambil dari Bahasa Belanda dialek ''Holland Selatan'', Bahasa Afrikans juga mengandung kata yang diambil dari [[Bahasa Melayu]], [[Bahasa Portugis]], [[Bahasa Perancis]], [[Bahasa Khoisan]], [[Bahasa Inggris]], [[Bahasa Xhosa]] dan banyak bahasa lainnya. Dengan itu banyak kata dalam Bahasa Afrikaans berbeda dari Bahasa Belanda, seperti contoh di bawah ini:
+
+{| cellspacing="7px" class="wikitable"
+|-
+! '''Afrikaans''' || '''Belanda''' || '''Indonesia (Melayu)'''
+|-
+| piesang || banaan || pisang
+|-
+| lemoen || sinaasappel || jeruk
+|-
+| suurlemoen || citroen || limun
+|-
+| baie || heel, erg || banyak
+|-
+| boontoe || top, doodlopend || buntu
+|}
+
+{{InterWiki|code=af}}
+{{wiktionary}}
+
+== Lihat pula ==
+* [[Daftar Bahasa]]
+* [[Monumen bahasa Afrikaans]]
+
+{{DEFAULTSORT:Afrikaans, Bahasa}}
+[[Kategori:Afrikaans]]
+[[Kategori:Bahasa Jermanik]]
+[[Kategori:Afrika Selatan]]

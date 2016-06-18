@@ -1,0 +1,108 @@
+Nick Dean
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+|name                = Nick Dean
+|image               =
+|caption             = 
+|birth_name          = Nicholas Dean
+|birth_date          = {{Birth date and age|1996|7|12|mf=yes}}
+|birth_place         = [[Rochester, New York]], {{nowrap|United States}}
+|background          = solo_singer
+|genre               = [[Pop rock]], [[Musik pop|pop]], [[Pop remaja]], [[Musik rock|rock]]
+|occupation          = Penyanyi-penulis lagu, musisi
+|instrument          = Vokal, piano, gitar
+|years_active        = 2010sekarang
+|label               = 
+|associated_acts      = [[InTENsity]], [[Daftar finalis The X Factor (A.S. musim 1)|Finalis The X Factor (A.S.) 2011]]  
+|website             = {{url|http://www.nickdean.com/}}
+}}
+
+'''Nicholas "Nick" Dean''' adalah [[penyanyi]] [[Amerika Serikat]] yang berasal dari [[Rochester, New York]]. Ia dikenal karena tampil dalam [[The X Factor (A.S. musim 1)|musim pertama]] dari acara ''[[The X Factor (A.S.)|The X Factor AS]]'' dan bergabung dalam grup [[InTENsity]].
+
+== Karier ==
+=== ''The X Factor USA'' ===
+====Penampilan dalam ''The X Factor''====<!-- PLEASE DO NOT CHANGE THIS -->
+{|class="wikitable" style="text-align: center;"
+! scope="col" |Episode
+! scope="col" |Tema
+! scope="col" |Urutan
+! scope="col" |Lagu
+! scope="col" |Artis sebenarnya
+! scope="col" |Hasil
+|-
+! scope="row" |Audisi
+|Pilihan peserta audisi
+|rowspan="5" {{n/a}}
+|"[[Walk Away]]"
+|Nick Dean
+|'''Berlanjut ke Bootcamp'''
+|-
+! scope="row" |Bootcamp 1
+|Penampilan kelompok 1
+|rowspan="1" colspan="2"{{n/a}}
+|'''Bertahan'''
+|
+|-
+! scope="row" |Bootcamp 2
+|Penampilan kelompok 2
+|"[[Superman (It's Not Easy)|Superman]]"
+|[[Five For Fighting]]
+|'''Bertahan'''
+|-
+! scope="row" |Bootcamp 3
+|Penampilan solo
+|"[[Somewhere Only We Know]]"
+|[[Keane (band)|Keane]]
+|'''Langsung ke rumah juri'''
+|-
+! scope="row" |Rumah juri
+|rowspan="2"|Pilihan bebas
+|"[[That's Not My Name]]"
+|[[The Ting Tings]]
+|'''Melalui penampilan langsung'''
+|-
+! scope="row" |Mingggu 1
+|7
+|"[[The Clapping Song]]"/"[[Footloose (song)|Footloose]]"
+|[[Shirley Ellis]] / [[Kenny Loggins]]
+|'''Diselamatkan oleh Paula Abdul'''
+|-
+! scope="row" |Minggu 2
+|Pilihan juri
+|9
+|"[[Kids in America (lagu)]]"/"[[Party Rock Anthem]]"
+|[[Kim Wilde]]/[[LMFAO (group)|LMFAO]]
+|'''Dua terbawah'''
+|-
+! Penampilan akhir
+|Pilihan bebas
+|2
+|"[[My Life Would Suck Without You]]"
+|[[Kelly Clarkson]]
+|'''Dieliminasi oleh [[Paula Abdul]], [[Nicole Scherzinger]], dan [[L.A. Reid]]'''
+|}
+
+== Referensi ==
+
+{{reflist}}
+
+== Pranala luar ==
+{{Twitter|NickDeanMusic|Nick Dean's Official Twitter}}
+
+{{lifetime|1996||}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+|NAME              = Dean, Nick
+|ALTERNATIVE NAMES =
+|SHORT DESCRIPTION =
+|DATE OF BIRTH     = July 12, 1996
+|PLACE OF BIRTH    = [[Rochester, New York]]
+|DATE OF DEATH     =
+|PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Dean, Nick}}
+[[Kategori:Penyanyi Amerika Serikat]]
+
+
+{{Amerika-Serikat-bio-stub}}
+
+[[en:Nick Dean]]

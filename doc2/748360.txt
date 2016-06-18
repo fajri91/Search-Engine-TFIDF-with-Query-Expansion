@@ -1,0 +1,13 @@
+Pertidaksamaan linear
+{{periksaterjemahan}}
+
+Dalam matematika, ''pertidaksamaan linear'' adalah pertidaksamaan yang melibatkan fungsi linear. Pertidaksamaan linear mengandung salah satu simbol pertidaksamaan: 
+* < Kurang dari 
+* > Lebih besar dari 
+*  kurang dari atau sama dengan 
+*  lebih besar dari atau sama dengan 
+*  tidak sama dengan 
+
+Pertidaksamaan linear tampak mirip seperti persamaan linear, dengan tanda pertidaksamaan mengganti tanda sama dengan.
+
+{{matematika-stub}}

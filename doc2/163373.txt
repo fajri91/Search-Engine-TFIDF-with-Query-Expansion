@@ -1,0 +1,17 @@
+Templat:Kahayan Kuala, Pulang Pisau
+{{Navigasi ID Desa |provinsi=Kalimantan Tengah|dati2=Kabupaten |nama dati2=Pulang Pisau
+|nama kecamatan=Kahayan Kuala
+|d1=Bahaur Hilir
+|d2=Bahaur Hulu
+|d3=Bahaur Tengah
+|d4=Cemantan
+|d5=Kiapak
+|d6=Sei Barunai
+|d7=Sei Pasanan
+|d8=Sei Pudak
+|d9=Sei Rungun
+|d10=Tanjung Perawan
+}}<noinclude>
+[[Kategori:Templat desa/kelurahan di Kalimantan Tengah|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Pulang Pisau|{{PAGENAME}}]]
+</noinclude>

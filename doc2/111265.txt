@@ -1,0 +1,40 @@
+Six Feet Under
+'''''Six Feet Under''''' adalah film seri televisi yang diciptakan oleh [[Alan Ball]], ditayangkan oleh [[HBO]] dari 2001 sampai 2005. Ceritanya adalah mengenai rumah duka yang dikelola oleh keluarga Fisher di [[Los Angeles,California|Los Angeles]].
+
+== Tokoh utama ==
+{| class="wikitable"
+|-
+! Aktor !! Tokoh !! Keterangan
+|-
+| [[Peter Krause]]|| [[Nate Fisher]]|| Anak tertua Ruth dan Nathaniel; suami Brenda Chenowith; ayah Maya Fisher dan Willa Chenowith. Meninggal karena [[cerebral arteriovenous malformation|AVM]] pada 2005 dalam usia 40.
+|-
+| [[Michael C. Hall]] || [[David Fisher]] || Anak kedua Ruth dan Nathaniel; suami Keith Charles; ayah angkat Durrell dan Anthony.
+|-
+| [[Frances Conroy]]|| [[Ruth Fisher]] || Istri Nathaniel; ibu Nate dan David
+|-
+| [[Lauren Ambrose]] || [[Claire Fisher]] || Anak bungsu Ruth dan Nathaniel
+|-
+| [[Rachel Griffiths]] || [[Brenda Chenowith]] || Anak Margaret dan Bernard Chenowith; suami Nate Fisher; ibu Willa Fisher Chenowith
+|-
+| [[Freddy Rodriguez]] || [[Federico Diaz]] || Rekan usaha dan [[embalmer]] Fisher & Diaz; suami Vanessa; ayah Julio dan Augusto
+|-
+| [[Mathew St. Patrick]] || [[Keith Charles]] || Mantan polisi; suami David; ayah angkat Anthony dan Durrell
+|}
+
+== Silsilah ==
+== Family tree ==
+{{familytree/start}}
+{{familytree| | | NFS |~|y|~| RUT |-| SAR | | | |NFS=''[[List of Six Feet Under characters#Nathaniel Fisher|Nathaniel Fisher Sr.]]''|RUT=''[[Ruth Fisher]]''|SAR=[[List of Six Feet Under characters#Sarah O.27Connor|Sarah O'Connor]]}}
+{{familytree| | | | | | |!| | |:| | | | | | | | |}}
+{{familytree| | | | | | |!| | |GEO|-|-|v|-|-|-|v|-|-|.|GEO=[[List of Six Feet Under characters#George Sibley|George Sibley]]}}
+{{familytree| | | | | | |!| | | | | | |BS| |MS| |KS| | | |BS=Brian Sibley|MS=[[List of Six Feet Under characters#Maggie Sibley|Maggie Sibley]]|KS=Kyle Sibley}}
+{{familytree| | |,|-|-|-|+|-|-|-|.| | | | | | |}}
+{{familytree| | CLF | | DAV | |NFJ |~|~|~|~|~|y| LIS |DAV=''[[David Fisher (Six Feet Under)|David Fisher]]''|CLF=''[[Claire Fisher]]''|NFJ=''[[Nate Fisher]]''|LIS=[[List of Six Feet Under characters#Lisa Kimmel Fisher|Lisa Kimmel Fisher]]}}
+{{familytree| | |:| | |:| | | | | |:| | | | | |!|}}
+{{familytree| |TFW | |L|y|KC| |L|y|BRE| |!|TFW=[[List of Six Feet Under characters#Ted Fairwell|Ted Fairwell]]|KC=[[Keith Charles]]|BRE=[[Brenda Chenowith]]}}
+{{familytree| | | | |,|-|^|-|.| | | |!| | | | |!|}}
+{{familytree| | | |DCF | |ACF | | |WIL | | |MAY |DCF=[[List of Six Feet Under characters#Anthony and Durrell Charles-Fisher|Durrell Fisher-Charles]]|ACF=[[List of Six Feet Under characters#Anthony and Durrell Charles-Fisher|Anthony Fisher-Charles]]|WIL=[[List of Six Feet Under characters#Willa Chenowith|Willa Fisher Chenowith]]|MAY=[[List of Six Feet Under characters#Maya Fisher|Maya Fisher]]}}
+{{familytree/end}}
+
+[[Kategori:Serial televisi Amerika Serikat]]
+[[Kategori:Acara televisi HBO]]

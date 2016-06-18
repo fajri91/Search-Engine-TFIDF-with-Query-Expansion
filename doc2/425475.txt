@@ -1,0 +1,19 @@
+Templat:Telaga, Gorontalo
+{{Navigasi ID Desa
+|provinsi=Gorontalo
+|dati2=Kabupaten
+|nama dati2=Gorontalo
+|nama kecamatan=Telaga
+|d1=Bulila
+|d2=Dulamayo Barat
+|d3=Dulamayo Selatan
+|d4=Dulohupa
+|d5=Hulawa
+|d6=Luhu
+|d7=Mongolato
+|d8=Pilohayanga
+|d9=Pilohayanga Barat
+}}<noinclude>
+[[Kategori:Templat desa/kelurahan di Gorontalo|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Gorontalo|{{PAGENAME}}]]
+</noinclude>

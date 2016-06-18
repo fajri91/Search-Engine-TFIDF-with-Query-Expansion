@@ -1,0 +1,52 @@
+Ingria, Italia
+{{Infobox Italian comune
+| name                = Ingria
+| official_name       = Comune di Ingria
+| native_name         = 
+| image_skyline       = 
+| imagesize           = 
+| image_alt           = 
+| image_caption       = 
+| image_shield        = 
+| shield_alt          = 
+| image_map           = 
+| map_alt             = 
+| map_caption         = 
+| pushpin_label_position = 
+| pushpin_map_alt     = 
+| latd  = 45 |latm  = 28 |lats  =  |latNS  = N
+| longd = 7 |longm = 34 |longs =   |longEW = E 
+| coordinates_type    = type:city(50)_region:IT
+| coordinates_display = title
+| coordinates_footnotes = 
+| region              = [[Piemonte]]
+| province            = [[Provinsi Torino|Torino]] (TO)
+| frazioni            = 
+| mayor_party         = 
+| mayor               = ?
+| area_footnotes      = 
+| area_total_km2      = 14.5
+| population_footnotes = 
+| population_total    = 50
+| population_as_of    = Dec. 2004
+| pop_density_footnotes = 
+| population_demonym  = 
+| elevation_footnotes = 
+| elevation_m         = 
+| twin1               = 
+| twin1_country       = 
+| saint               = 
+| day                 = 
+| postal_code         = 10080
+| area_code           = 0124
+| website             = 
+| footnotes           = 
+}}
+'''Ingria''' adalah komune yang terletak di distrik [[Provinsi Torino]], [[Italia]]. 
+
+Kota Ingria memiliki luas sebesar 14.5 km.
+
+tIngria pada tahun 2004, memiliki penduduk sebesar 50 jiwa.
+
+{{Province of Turin}}
+{{Turin-geo-stub}}

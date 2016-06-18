@@ -1,0 +1,45 @@
+Madi dada-perak
+{{Taxobox
+| name = Madi dada-perak
+| image = Silver-Breasted Broadbill.jpg
+| image_caption = Madi dada-perak di Kaeng Krachan, Thailand
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref name=IUCN>{{IUCN|id=22698744 |title=''Serilophus lunatus'' |assessors=[[BirdLife International]] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| regnum = [[Animalia]]
+| phylum = [[Chordata]]
+| classis = [[Aves]]
+| ordo = [[Passeriformes]]
+| familia = [[Eurylaimidae]]
+| genus = '''''Serilophus'''''
+| genus_authority = [[William John Swainson|Swainson]], 1837
+| species = '''''S. lunatus'''''
+| binomial = ''Serilophus lunatus''
+| binomial_authority = ([[John Gould|Gould]], 1834)
+}}
+
+'''Madi dada-perak''' (''Serilophus lunatus'') adalah spesies burung madi dalam famili [[Eurylaimidae]].
+
+== Penyebaran dan subspesies ==
+Madi dada-perak terdiri dari sepuluh subspesies, dengan daerah persebaran:<ref name=kutilang>{{cite web |url=http://www.kutilang.or.id/burung/konservasi/madi-dada-perak/ |title=Madi dada-perak |publisher= Kutilang Indonesia |accessdate=11 April 2014}}</ref>
+#'''''S. l. lunatus''''' (Gould, 1834), tersebar di [[Myanmar]] (Pegu Yomas, Karen Hills, Tenasserim utara) dan [[Thailand]] barat laut.
+#'''''S. l. rubropygius''''' (Hodgson, 1839), tersebar di [[India]] timur laut, [[Bhutan]] dan [[Bangladesh]] timur ke timur sampai [[Myanmar]] (Arakan, Bukit Chin dan bagian atas Chindwin ke timur Sungai Irrawaddy).
+#'''''S. l. atrestus''''' (Deignan, 1948), tersebar di [[Myanmar]] tengah dan timur (selatan Bhamo, bagian timur Sungai Irrawaddy) dan [[China]] selatan ([[Yunnan]] barat daya) ke selatan sampai [[Thailand]] timur laut, [[Laos]] tengah dan selatan (dataran rendah) dan [[Vietnam]] (Tonkin barat).
+#'''''S. l. elisabethae''''' (La Touche, 1921), tersebar di [[China]] tenggara ([[Yunnan]] tenggara, [[Guangxi]] barat daya) dan Tonkin timur.
+#'''''S. l. polionotus''''' (Rothschild, 1903), tersebar di [[Pulau Hainan]].
+#'''''S. l. stolidus''''' (Robinson dan Kloss, 1919), tersebar di [[Myanmar]] selatan (Tenasserim selatan) dan [[Thailand]] selatan dan barat daya (kecuali ujung selatan).
+#'''''S. l. aphobus''''' (Deignan, 1948), tersebar di [[Thailand]] tenggara dan [[Kamboja]].
+#'''''S. l. impavidus''''' (Deignan, 1948), tersebar di Bolaven Plateau, di [[Laos]] selatan.
+#'''''S. l. rothschildi''''' (Hartert dan Butler, 1898), tersebar diujung selatan [[Thailand]] dan [[Semenanjung Malaysia]].
+#'''''S. l. intensus''''' (Robinson dan Kloss, 1916), tersebar di [[Sumatera]].
+
+== Tempat hidup dan kebiasaan ==
+Di [[Sumatera]], burung ini terkadang terdapat di hutan perbukitan antara ketinggian 800-1500 m dpl. Hidup dalam kelompok kecil pada tajuk bawah dan lapisan bawah di hutan-hutan terbuka, sepanjang aliran air, dan sisi sungai. Burung ini menangkap serangga pada dedaunan sambil terbang. Burung madi dada-perak terlihat tidak mencolok, menghuni tajuk bagian atas dan tengah hutan dengan tenang. Biasanya sendirian atau berpasangan, meskipun terkadang berkumpul dalam kelompok kecil.<ref name=kutilang></ref>
+
+==Referensi==
+{{reflist}}
+
+[[Kategori:Serilophus]]
+[[Kategori:Burung Bangladesh]]
+
+[[Kategori:Burung Nepal]]

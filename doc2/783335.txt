@@ -1,0 +1,64 @@
+Templat:Gerakan reformasi Hindu
+{{Navbox 
+|name  = Gerakan reformasi Hindu
+|title = [[Gerakan reformasi Hindu]]
+|state    = {{{state|autocollapse}}}
+|bodyclass = hlist
+|titlestyle = background:#FFC569;
+|groupstyle = background:#FFC569;
+
+|abovestyle = background:#FFC569;
+|above = 
+* [[Ayyavazhi]] 
+* [[Arya Samaj]]
+* [[Bochasanwasi Shri Akshar Purushottam Swaminarayan Sanstha|BAPS]]
+* [[Perhimpunan Kehidupan Ilahi]] 
+* [[Hindutva]]
+* [[Perhimpunan Internasional untuk Krishna Consciousness|ISKCON]] 
+* [[Misi Ramakrishna]] 
+* [[Sri Aurobindo Ashram]]
+* [[Swadhyay Parivar]]
+* [[Swaminarayan Sampraday]]
+ 
+* |group1 = Topik
+|list1  = 
+* [[Bhakti]]
+* [[Brahmacharya]]
+* [[Sistem kasta di India|Kasta]]
+* [[Penganiayaan Hindu]]
+* [[Shuddhi]]
+* [[Wanita dalam Hindu]] 
+
+|group2 = Reformator dan <br/> penulis revivalis
+|list2  = 
+* [[Arumuka Navalar]]
+* [[Arun Shourie]]
+* [[Bal Gangadhar Tilak]]
+* [[Bankim Chandra Chattopadhyay]]
+* [[Dayananda Saraswati]]
+* [[Dharampal]]
+* [[Harsh Narain]]
+* [[M. S. Golwalkar]]
+* [[Mahatma Gandhi]]
+* [[Mirra Alfassa]]
+* [[Narasimha Chintaman Kelkar]] 
+* [[Pandurang Shastri Athavale]]
+* [[Ram Mohan Roy]]
+* [[Ram Swarup]]
+* [[Ramakrishna]]
+* [[Sister Nivedita]]
+* [[Sita Ram Goel]]
+* [[Sivananda Saraswati]]
+* [[Sri Aurobindo]]
+* [[Swami Lakshmanananda]]
+* [[Swami Shraddhanand]]
+* [[Swami Vipulananda]]
+* [[Swaminarayan]]
+* [[Vinayak Damodar Savarkar]]
+* [[Vivekananda]]
+* ''[[:Category:Revitalis Hindu|selengkapnya]]'' 
+}}<noinclude>
+<br/>{{collapsible option}}
+
+[[Kategori:Templat Hindu|Gerakan reformasi]]
+</noinclude>

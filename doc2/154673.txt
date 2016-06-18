@@ -1,0 +1,9 @@
+Templat:Quran-s2
+[[:s:Al-Qur'an/{{{1}}}#{{{2}}}:{{{3}}}|{{{3}}}]]<noinclude>
+
+Templat ini digunakan untuk menyediakan pranala untuk setiap referensi dari teks Al Qur'an (dari [[:s:Al-Qur'an]]), dimana dalam tampilan hanya menyajikan nomor ayat. 
+Contoh penggunaan dapat dilihat dibawah ini.
+
+[[Kategori:Templat Islam|Quran-s2]]
+{{Quran-s/doc}}
+</noinclude>

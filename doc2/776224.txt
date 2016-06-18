@@ -1,0 +1,54 @@
+Robert Gentleman (statistikawan)
+{{for|pemain polo air Britania|Robert Gentleman}}
+{{Infobox scientist
+|name          = Robert Clifford Gentleman
+|image         = <!-- Freely licenced images only. Please do not put a fair-use image here, it will be deleted - see [[WP:NONFREE]] -->
+|image_size    = 
+|caption       = 
+| birth_name  = 
+| birth_date        = {{Birth year and age|1959}}{{fact|date=March 2013}}
+| birth_place = 
+| workplaces = [[Genentech]]<br>[[Universitas Washington]]<br>[[Universitas Harvard]]<br>[[Universitas Auckland]]
+| alma_mater = [[Universitas Washington]]<br>[[Universitas British Columbia]]
+| thesis_title = Metode penjelajahan data yang disensor
+| thesis_year = 1988
+| thesis_url = http://search.proquest.com/docview/303589316
+| doctoral_advisor = John James Crowley<ref name="mathgene">{{MathGenealogy|id=26386}}</ref>
+| doctoral_students = Beiying Ding<ref name="dingphd">{{cite thesis |degree=PhD |first=Beiying|last=Ding |title=Methods for analyzing high dimensional data: Classification, measurement error model and graph based association measures, with applications to microarray data |publisher=Harvard University |date=2004 |url=http://search.proquest.com/docview/305191728}}</ref><br>Denise Scholtens<ref name="scholtensphd">{{cite thesis |degree=PhD |first=Denise Marie|last=Scholtens |title=Studies in multidimensional data: Estimation of the bivariate survival curve, analysis of factorial designed microarray experiments, identification of protein complex membership |publisher=Harvard University |date=2004 |url=http://search.proquest.com/docview/305189090}}</ref><br>Alain C. Vandal <ref name="vandalphd">{{cite thesis |degree=PhD |first=Alain C.|last=Vandal |title=Order theory and nonparametric analysis for interval censored data |publisher=University of Auckland|date=1999 |url=https://researchspace.auckland.ac.nz/handle/2292/529}}</ref>
+| nationality = 
+| other_names = 
+| known_for   = [[R (bahasa pemrograman)]]
+| occupation  = 
+| prizes           = [[Benjamin Franklin Award (Bioinformatics)]]
+| website = {{URL|http://www.gene.com/scientists/our-scientists/robert-gentleman}}
+}}
+'''Robert Clifford Gentleman''' (lahir 1959) adalah statistikawan dan [[bioninformatikawan]] Kanada<ref>{{cite doi|10.2202/1544-6115.1034}}</ref> currently working for [[Genentech]].<ref>{{cite pmid|21205783}}</ref><ref name="genentech">http://www.gene.com/gene/research/sci-profiles/bioinfo/gentleman/profile.html Robert C. Gentleman
+Senior Director: Bioinformatics & Computational Biology</ref> Ia dan [[Ross Ihaka]] diakui sebagai perintis [[bahasa pemrograman R]]<ref>{{cite jstor|1390807}}</ref><ref>{{cite web |url=http://www.nytimes.com/2009/01/07/technology/business-computing/07program.html  |title=R, the Software, Finds Fans in Data Analysts - NYTimes.com |author=Ashlee Vance |date=6 January 2009 |work= |publisher=New York Times |accessdate=17 April 2011}}</ref> dan proyek [[Bioconductor]].<ref>{{cite doi|10.1186/gb-2004-5-10-r80}}</ref><ref name="dblp">{{DBLP|id=Gentleman:Robert}}</ref><ref name="microsoft">{{AcademicSearch|1281996}}</ref>
+
+==Pendidikan==
+Gentleman mendapat gelar [[Ph.D.]] di bidang [[Statistika]] dari [[Universitas Washington]] pada tahun 1988.<ref name="gentlemanphd">{{cite thesis |degree=PhD |first=Robert Clifford|last=Gentleman |title=Exploratory methods for censored data |publisher=University of Washington |date=1988 |url=http://search.proquest.com/docview/303589316|authorlink =Robert Gentleman (statistician)}}</ref>
+
+==Penghargaan==
+Gentleman memenangkan [[Benjamin Franklin Award (Bioinformatics)|Benjamin Franklin Award]] pada tahun 2008.<ref>[http://www.bioinformatics.org/franklin/ http://www.bioinformatics.org/franklin/]</ref>
+
+==Referensi==
+{{Reflist}}
+
+{{Normdaten}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              =Gentleman, Robert
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = Canadian mathematician
+| DATE OF BIRTH     = 1959
+| PLACE OF BIRTH    =
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Gentleman, Robert}}
+[[Kategori:Kelahiran 1959]]
+[[Kategori:Orang hidup]]
+[[Kategori:Bioinformatikawan]]
+[[Kategori:Statistikawan Kanada]]
+[[Kategori:Alumni Universitas Washington]]
+[[Kategori:Fellows of the International Society for Computational Biology]]

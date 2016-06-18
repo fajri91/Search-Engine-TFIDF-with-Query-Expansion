@@ -1,0 +1,87 @@
+Susuman
+{{Infobox Russian inhabited locality
+|en_name=Susuman
+|ru_name=
+|image_skyline=
+|image_caption=
+|latd=62
+|latm=47
+|lats=
+|longd=148
+|longm=10
+|longs=
+|image_map=
+|map_caption=
+|map_label_position=right
+|image_coa=Coat of Arms of Susuman (Magadan oblast).png
+|coa_caption=
+|image_flag=Flag of Susuman (Magadan Oblast).svg
+|flag_caption=
+|anthem=
+|anthem_ref=
+|holiday=
+|holiday_ref=
+|federal_subject=[[Oblast Magadan]]
+|federal_subject_ref=
+|adm_data_as_of=
+|adm_district_jur=[[Distrik Susumansky]]
+|adm_district_jur_ref=
+|adm_ctr_of=Distrik Susumansky
+|adm_ctr_of_ref=
+|inhabloc_cat=Kota
+|inhabloc_cat_ref=
+|inhabloc_type=
+|inhabloc_type_ref=
+|mun_data_as_of=
+|mun_district_jur=
+|mun_district_jur_ref=
+|urban_settlement_jur=
+|urban_settlement_jur_ref=
+|mun_admctr_of=
+|mun_admctr_of_ref=
+|leader_title=
+|leader_title_ref=
+|leader_name=
+|leader_name_ref=
+|representative_body=
+|representative_body_ref=
+|area_of_what=
+|area_as_of=
+|area_km2=
+|area_km2_ref=
+|pop_2010census=5865
+|pop_2010census_ref=<ref name="2010Census">{{ru-pop-ref|2010Census_prelim}}</ref>
+|pop_2002census=7833
+|pop_2002census_ref=<ref name="PopCensus">{{ru-pop-ref|2002Census}}</ref>
+|pop_density=
+|pop_density_as_of=
+|pop_density_ref=
+|pop_latest=
+|pop_latest_date=
+|pop_latest_ref=
+|established_date=1936
+|established_title=
+|established_date_ref=
+|current_cat_date=
+|current_cat_date_ref=
+|prev_name1=
+|prev_name1_date=
+|prev_name1_ref=
+|postal_codes=
+|postal_codes_ref=
+|dialing_codes=41345
+|dialing_codes_ref=
+|website=
+|website_ref=
+|date=Mei 2010
+}}
+'''Susuman''' ({{lang-ru|}}) adalah [[tipe daerah berpenghuni di Rusia|kota]] dan [[pusat administratif]] dari [[Distrik Susumansky]] di [[Oblast Magadan]], [[Rusia]], berlokasi di [[Sungai Berelyokh]], {{convert|650|km|sp=us}} barat laut [[Magadan]].
+
+==Pranala luar==
+{{Commons category}}
+*[http://www.susuman.com Situs tak resmi Susuman]
+
+[[Kategori:Kota di Oblast Magadan]]
+
+
+{{rusia-geo-stub}}

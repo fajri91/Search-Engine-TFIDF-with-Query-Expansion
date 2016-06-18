@@ -1,0 +1,88 @@
+Asam poliprotik
+'''Asam poliprotik''' ({{lang-en|polyprotic acid}}, juga dikenal sebagai ''polybasic acid'', "asam polibasik") adalah senyawa asam yang mampu menyumbangkan lebih dari satu proton dari setiap molekul asam, dibandingkan asam monoprotik, yang hanya dapat menyumbangkan satu proton per molekul.<ref>Keenan, Charles W, dkk. 1980. ''Ilmu Kimia Untuk Universitas Jilid 1 Edisi 6''. Terjemahan oleh : Aloysius H. P. 1984. Jakarta: Erlangga</ref> Jenis-jenis khusus asam poliprotik mempunyai nama-nama spesifik, misalnya:
+* asam diprotik, dengan dua proton yang dapat didonasikan
+* asam triprotik, dengan tiga proton yang dapat didonasikan
+
+=== Asam diprotik ===
+Asam diprotik (dilambangkan sebagai H<sub>2</sub>A) dapat mengalami satu atau dua disosiasi bergantung kepada pH. Setiap disosiasi mempunyai konstanta disosiasi sendiri, K<sub>a1</sub> dan K<sub>a2</sub>.
+:H<sub>2</sub>A<sub>(aq)</sub> + H<sub>2</sub>O<sub>(l)</sub> {{eqm}} H<sub>3</sub>O<sup>+</sup><sub>(aq)</sub> + HA<sup></sup><sub>(aq)</sub> &nbsp; &nbsp; &nbsp; ''K''<sub>a1</sub>
+:HA<sup></sup><sub>(aq)</sub> + H<sub>2</sub>O<sub>(l)</sub> {{eqm}} H<sub>3</sub>O<sup>+</sup><sub>(aq)</sub> + A<sup>2</sup><sub>(aq)</sub> &nbsp;&nbsp;&nbsp; &nbsp; ''K''<sub>a2</sub>
+
+Konstanta disosiasi pertama umumnya lebih besar dari yang kedua, yakni ''K''<sub>a1</sub> > ''K''<sub>a2</sub>.
+
+==== Asam diprotik kuat ====
+[[Berkas:Asam Sulfat.png|right|thumb]]
+Contoh asam diprotik kuat adalah [[asam sulfat]] (H<sub>2</sub>SO<sub>4</sub>) yang dapat menyumbangkan satu proton untuk membentuk [[anion]] [[bisulfat]] (HSO<sub>4</sub><sup></sup>), di mana ''K''<sub>a1</sub> sangat besar nilainya; kemudian dapat menyumbangkan proton kedua untuk membentuk anion [[sulfat]] (SO<sub>4</sub><sup>2-</sup>), di mana ''K''<sub>a2</sub> bernilai sedang. ''K''<sub>a1</sub> yang tinggi nilainya untuk disosiasi pertama membuat asam sulfat adalah asam yang kuat.
+
+Ion "hidrogen sulfat" bersifat amfoter, yang berarti bahwa basa dalam reaksi pertama (dengan asam konjugat&nbsp; H<sub>2</sub>SO<sub>4</sub>) dan asam dalam reaksi kedua (dengan basa konjugat SO<sub>4</sub><sup>-</sup> ). Dalam ionisasi yang pertama, H<sub>2</sub>SO<sub>4</sub> adalah asam kuat, tetapi hasil ionisasinya (HSO<sub>4</sub><sup>-</sup>) sendiri hanyalah asam lemah.&nbsp; H<sub>3</sub>O<sup>+ </sup>yang dihasilkan dalam larutan H<sub>2</sub>SO<sub>4 </sub>terutama berasal dari Ionisasi yang pertama, dan larutan mempunyai pH yang mendekati pH asam kuat monoprotik &nbsp;dengan konsentrasi yang sama. Namun demikian, bila larutan ini bereaksi dengan konsentrasi yang sama, karena setiap mol asam sulfat dapat bereaksi&nbsp; dan menetralisasi dua mol ion hidroksida.<ref name=":0">Oxtoby, David W,dkk. 1999. ''Prinsip-Prinsip Kimia Modern Jiliid 1 Edisi 4''. Terjemahan oleh : Suminar S. A. 2001. Jakarta: Erlangga</ref>
+
+==== Asam diprotik lemah ====
+Asam diprotik lemah terionisasi dalam dua tahap. Contohnya adalah [[asam karbonat]] yang lemah dan tidak stabil (H<sub>2</sub>CO<sub>3</sub>), yang terbentuk dari CO<sub>2</sub> yang tersolvatasi (air karbonasi).
+Pada tahap pertama asam ini dapat kehilangan satu proton untuk membentuk anion [[bikarbonat]] (HCO<sub>3</sub><sup></sup>) dan kemudian  kehilangan proton kedua untuk membentuk anion [[karbonat]] (CO<sub>3</sub><sup>2-</sup>). Kedua ''K''<sub>a</sub> nilainya kecil, tetapi ''K''<sub>a1</sub> > ''K''<sub>a2</sub>.
+
+=== Asam triprotik ===
+Asam triprotik (H<sub>3</sub>A) dapat mengalami satu, dua atau tiga disosiasi dan memiliki tiga konstanta disosiasi, di mana ''K''<sub>a1</sub> > ''K''<sub>a2</sub> > ''K''<sub>a3</sub>.
+:H<sub>3</sub>A<sub>(aq)</sub> + H<sub>2</sub>O<sub>(l)</sub> {{eqm}} H<sub>3</sub>O<sup>+</sup><sub>(aq)</sub> + H<sub>2</sub>A<sup></sup><sub>(aq)</sub> &nbsp; &nbsp; &nbsp; &nbsp; ''K''<sub>a1</sub>
+:H<sub>2</sub>A<sup></sup><sub>(aq)</sub> + H<sub>2</sub>O<sub>(l)</sub> {{eqm}} H<sub>3</sub>O<sup>+</sup><sub>(aq)</sub> + HA<sup>2</sup><sub>(aq)</sub> &nbsp; &nbsp; &nbsp; ''K''<sub>a2</sub>
+:HA<sup>2</sup><sub>(aq)</sub> + H<sub>2</sub>O<sub>(l)</sub> {{eqm}} H<sub>3</sub>O<sup>+</sup><sub>(aq)</sub> + A<sup>3</sup><sub>(aq)</sub> &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ''K''<sub>a3</sub>
+<!--
+An [[inorganic]] example of a triprotic acid is orthophosphoric acid (H<sub>3</sub>PO<sub>4</sub>), usually just called [[phosphoric acid]]. All three protons can be successively lost to yield H<sub>2</sub>PO<sub>4</sub><sup></sup>, then HPO<sub>4</sub><sup>2-</sup>, and finally PO<sub>4</sub><sup>3-</sup>, the orthophosphate ion, usually just called [[phosphate]]. An [[organic compound|organic]] example of a triprotic acid is [[citric acid]], which can successively lose three protons to finally form the [[citrate]] ion. Even though the positions of the protons on the original molecule may be equivalent, the successive ''K''<sub>a</sub> values will differ since it is energetically less favorable to lose a proton if the conjugate base is more negatively charged.
+
+Although the subsequent loss of each hydrogen ion is less favorable, all of the conjugate bases are present in solution. The fractional concentration, '''' (alpha), for each species can be calculated. For example, a generic diprotic acid will generate 3 species in solution: H<sub>2</sub>A, HA<sup>-</sup>, and A<sup>2-</sup>. The fractional concentrations can be calculated as below when given either the pH (which can be converted to the [H<sup>+</sup>]) or the concentrations of the acid with all its conjugate bases:
+:<math>
+\alpha_{H_2 A}={{[H^+]^2} \over {[H^+]^2 + [H^+]K_1 + K_1 K_2}}= {{[H_2 A]} \over {[H_2 A]+[HA^-]+[A^{2-} ]}}
+</math>
+:<math>
+\alpha_{HA^- }={{[H^+]K_1} \over {[H^+]^2 + [H^+]K_1 + K_1 K_2}}= {{[HA^-]} \over {[H_2 A]+[HA^-]+[A^{2-} ]}}
+</math>
+:<math>
+\alpha_{A^{2-}}={{K_1 K_2} \over {[H^+]^2 + [H^+]K_1 + K_1 K_2}}= {{[A^{2-} ]} \over {[H_2 A]+[HA^-]+[A^{2-} ]}}
+</math>
+
+A plot of these fractional concentrations against pH, for given ''K''<sub>1</sub> and ''K''<sub>2</sub>, is known as a [[Bjerrum plot]]. A pattern is observed in the above equations and can be expanded to the general ''n'' -protic acid that has been deprotonated ''i'' -times:
+:<math>
+\alpha_{H_{n-i} A^{i-} }= {{[H^+ ]^{n-i} \displaystyle \prod_{j=0}^{i}K_j} \over { \displaystyle \sum_{i=0}^n \Big[ [H^+ ]^{n-i} \displaystyle \prod_{j=0}^{i}K_j} \Big] }
+</math>
+
+where K<sub>0</sub> = 1 and the other K-terms are the dissociation constants for the acid.
+{{See also|Acid dissociation constant#Polyprotic acids}}
+-->
+<!--
+Asam dan basa didefinisikan oleh ahli kimia berabad-abad yang lalu dalam sifat-sifat larutan air mereka. Dalam pengertian ini suatu asam didefinisikan suatu zat yang larutan airnya berasa asam, memerahkan lakmus biru, bereaksi dengan logam aktif untuk membentuk Hidrogen, dan menetralkan basa. Dari segi pandangan Bronsted-Lowry ada spesi yang menyumbang proton dan spesi penerima proton dalam larutan air dari asam-asam seperti HCl, HNO<sub>3</sub>, dan HC<sub>2</sub>H<sub>3</sub>O<sub>4</sub>.
+
+Larutan air asam dapat dibagi menjadi empat bedasarkan kemampuannya dalam menyumbangkan proton, yaitu : asam monoprotik, asam diprotik, asam tripotrik, dan asam poliprotik.
+
+Asam seperti HCL, HNO<sub>3</sub>, dan
+HC<sub>2</sub>H<sub>3</sub>O<sub>4</sub>, dengan molekul yang mampu
+menyumbangkan satu proton ke sebuah molekul air disebut ''asam monoprotik''. Karena molekul H<sub>2</sub>SO<sub>4</sub> dan H<sub>2</sub>CO<sub>3 </sub>dapat menyumbangkan dua proton, mereka disebut juga ''asam diprotik.'' Asam dengan molekul dapat menyumbangkan tiga proton, seperti &nbsp;&nbsp;&nbsp;&nbsp; H<sub>3</sub>PO<sub>4, </sub>juga disebut ''asam triprotik. ''Asam, seperti H<sub>2</sub>SO<sub>4</sub>, H<sub>3</sub>PO<sub>4</sub>, dan H<sub>2</sub>CO<sub>3,
+</sub>dengan molekul yang mampu menyumbangkan lebih dari satu proton disebut ''asam poliprotik.''<ref>Keenan, Charles W, dkk. 1980. ''Ilmu Kimia Untuk Universitas Jilid 1 Edisi 6''. Terjemahan oleh : Aloysius H. P. 1984. Jakarta: Erlangga</ref>
+
+=== Contoh Asam Poliprotik ===
+Asam sulfat adalah contoh yang terkenal dan penting. Asam ini bereaksi dalam dua tahap-tahap
+pertama
+
+H<sub>2</sub>SO<sub>4</sub>''(aq)'' + H<sub>2</sub>O''(l)'' &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;H<sub>3</sub>O<sup>+</sup>''(aq) ''+ HSO<sub>4</sub><sup>-</sup>''(aq)''
+
+untuk memberikan ion Hidrogen Sulfat, dan kemudian :
+
+HSO<sub>4</sub><sup>-</sup>''(aq) ''+ H2O ''(l)''&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; H<sub>3</sub>O<sup>+</sup>''(aq) ''+ (SO<sub>4</sub><sup>2-</sup>)''(aq)''
+
+=== Asam Triprotik Lemah ===
+Asam fosfat (H<sub>3</sub>PO<sub>4</sub>) merupakan contoh. Asam fosfat terionisasi dalam tiga tahap, masing-masing menghasilkan H<sub>2</sub>PO<sub>4</sub><sup>-</sup>, HPO<sub>4</sub><sup>2-</sup>,
+dan PO<sub>4</sub><sup>3-</sup>
+
+Dua keseimbangan yang simultan dilibatkan dalam ionisasi asam diprotik seperti H<sub>2</sub>CO<sub>3</sub>.
+
+H<sub>2</sub>CO<sub>3</sub>''(aq)'' &nbsp;+ H2O (l) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; H<sub>3</sub>O<sup>+ </sup>''(aq)'' + HCO<sub>3</sub><sup>- </sup>''(aq)''
+
+HCO<sub>3</sub><sup>- </sup>''(aq)'' &nbsp;+ H2O (l) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;H<sub>3</sub>O<sup>+ </sup>''(aq)'' + CO<sub>3</sub><sup>2-</sup>''(aq)''
+-->
+
+Perhitungan keseimbangan simultan yang lebih tepat mungkin akan rumit. Perhitungan ini dapat disederhanakan bila konsentrasi asam awal tidak terlalu kecil dan tetapan ionisasi K<sub>a1 </sub>dan K<sub>a2</sub> sangat berbeda dalam besarannya (dengan faktor 100 atau lebih). Kondisi terakhir hampir selalu dipenuhi. Di bawah kondisi tersebut, kedua kesetimbangan dapat diperlukan secara bertahap.
+
+Untuk asam tripotrik seperti H<sub>3</sub>PO<sub>4</sub>, konsentrasi basa (PO<sub>4</sub><sup>3-</sup>) yang dihasilkan dari ionisasi ketiga dapat dihitung dengan cara yang sama.<ref name=":0" />
+
+==Referensi==
+{{reflist}}
+
+[[Kategori:Asam]]

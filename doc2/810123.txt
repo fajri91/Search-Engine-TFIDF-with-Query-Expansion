@@ -1,0 +1,3 @@
+Templat:Yemeni Civil War detailed map
+{{navbar|Module:Yemeni Civil War detailed map}}
+{{#invoke:Location map/multi|load|Module:Yemeni Civil War detailed map}}<noinclude>{{documentation}}</noinclude>

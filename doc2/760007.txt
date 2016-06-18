@@ -1,0 +1,64 @@
+Daftar Wali Kota Palopo
+{{Infobox Jabatan Politik
+|jabatan         	= Wali Kota
+|lembaga         	= Palopo
+|insignia           	= Lambang Kota Palopo COA.jpg
+|ukuraninsignia    	= 75px
+|keteranganinsignia	= 
+|departemen       	= 
+|namaasli	     	= 
+|image                  = Judas Amir.jpg
+|imagesize              = 150px
+|alt             	= 
+|incumbent      	= [[Judas Amir|Drs. H. M. Judas Amir]]
+|incumbentsince         = 6 Juli 2013
+|gelar          	= 
+|kediaman       	= Rumah Jabatan Wali Kota <br/> [[Palopo]], [[Sulawesi Selatan]]
+|tempo		      	= 5 tahun
+|dibentuk	      	= 10 April 2002
+|pertama	       	= [[Patedungi Andi Tenriadjeng]]
+|website         	= 
+}}
+<onlyinclude>{| border="1" {{prettytable}}
+|- style="background-color:#007a00;color:white"
+!No
+!colspan="2" width="400"|Walikota <br/> <small> (Lahir-Meninggal)
+!width="100"|Mulai Menjabat
+!width="100"|Akhir Jabatan
+!Masa
+!Partai Politik
+!Keterangan
+!width="100"|Wakil Walikota
+|-
+|rowspan=3|1||rowspan=3|[[Berkas:Patedungi Andi Tenriadjeng.jpg|100px]]||rowspan=3|<small>Drs. H.</small><br/> '''[[Patedungi Andi Tenriadjeng]]'''<br/><small>M.Si<br/>(1945-)</small>
+|| 10 April 2002
+|| 6 Juli 2003|| rowspan=2|1||rowspan=2|''Non-Partisipan''  
+|| Plt.<ref>{{cite web|url=http://www.palopokota.go.id/content/up/3|title=Sejarah Kota Palopo|publisher=Pemerintah Kota Palopo|date=5 Juli 2003}}</ref>||rowspan=2|''Lowong''  
+|-
+||6 Juli 2003
+||6 Juli 2008
+|| 
+|-
+||6 Juli 2008
+||6 Juli 2013
+||2  
+||[[Partai Demokrasi Indonesia Perjuangan]] (PDI-Perjuangan)
+||<ref>{{cite web|url=http://palopokota.go.id/news/mid/746/|title=Tenriadjeng dan Rahmat Resmi menjadi Walikota dan Wakil Walikota Palopo 2008-2013|publisher=Pemerintah Kota Palopo|date=5 Juli 2008}}</ref>||align="center"|[[Berkas:M Rahmat Bandaso.jpg|70px]]<br/><small>Ir. H.</small><br/>Rahmat Masri Bandaso<br/><small>M.Si</small>
+|-
+||2 
+|| [[Berkas:Judas Amir.jpg|100px]] 
+||<small>Drs. H.</small><br/>[[Judas Amir|'''Muhammad Judas Amir''']]<small><br/>M.H<br/>(1949-)</small>
+||6 Juli 2013
+||Sekarang
+||3   
+||
+||<ref>{{cite web|url=http://makassar.tribunnews.com/2013/07/06/gubernur-telat-pelantikan-wali-kota-palopo-molor|title=Gubernur Telat, Pelantikan Wali Kota Palopo Molor|publisher=Tribun Timur|date=6 Juli 2013}}</ref>||align="center"|[[Berkas:Akhmad Syarifuddin.jpg|70px]]<br/>Akhmad Syarifuddin<br/><small>S.E, M.Si</small>
+|-
+|}</onlyinclude>
+
+==Referensi==
+{{reflist}}
+
+{{Kota di Indonesia|Daftar Wali|title=Daftar Wali Kota di Indonesia}}
+
+[[Kategori:Kota Palopo]]

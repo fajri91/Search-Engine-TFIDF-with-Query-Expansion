@@ -1,0 +1,28 @@
+Lincoln Near-Earth Asteroid Research
+{{coord|display=title|33|49|05.3|N|106|39|33.0|W|scale:30000_region:US_type:landmark|display=title}}
+[[Image:Neo-chart.png|thumb|right|300px|Jumlah ODB yang dideteksi berbagai proyek.]]
+
+Proyek '''Lincoln Near-Earth Asteroid Research''' (LINEAR) adalah sebuah kolaborasi antara [[Angkatan Udara Amerika Serikat]], [[NASA]], dan [[Lincoln Laboratory]] dari [[Massachusetts Institute of Technology]] untuk menemukan dan melacak secara sistematis [[asteroid]] dekat Bumi. LINEAR bertanggun jawab atas sebagian besar deteksi asteroid sejak 1998 sampai diambil alih [[Catalina Sky Survey]] tahun 2005.<ref name=NEO-STATS />  {{As of|2011|9|15|url=http://www.ll.mit.edu/mission/space/linear/}}, LINEAR telah mendeteksi 231.082 objek baru, 2.423 di antaranya berupa [[asteroid dekat Bumi]] dan 279 berupa [[komet]].<ref name=LINEAR /> Instrumen yang dipakai program LINEAR terletak di situs Lincoln Laboratory di [[White Sands Missile Range]] (WSMR) dekat [[Socorro, New Mexico]].
+
+==Lihat pula==
+* [[Daftar komet yang ditemukan proyek LINEAR]]
+* [[Planetary Data System]]
+* [[Minor Planet Center]]
+
+==Referensi==
+{{Reflist|refs=
+
+<ref name=NEO-STATS>{{cite web |title=NEO Discovery Statistics |url=http://neo.jpl.nasa.gov/stats/ |publisher=NASA Near Earth Object Program |accessdate=2012-01-19}}</ref>
+
+<ref name=LINEAR>{{cite web |title=MIT Lincoln Laboratory: LINEAR |url=http://www.ll.mit.edu/mission/space/linear/ |publisher=MIT Lincoln Laboratory |accessdate=2012-01-19}}</ref>
+
+}}
+
+== Pranala luar ==
+*[http://www.ll.mit.edu/LINEAR MIT Lincoln Laboratory: LINEAR]
+*[http://neo.jpl.nasa.gov/stats/ NEO discovery statistics] from JPL.  Shows the number of asteroids of various types (potentially hazardous, size >1&nbsp;km, etc.) that different programs have discovered, by year.
+*[http://skydot.lanl.gov/ Sky Database for Objects in Time-Domain] provides corrected LINEAR data.
+
+[[Kategori:Survei astronomi]]
+[[Kategori:Survei asteroid]]
+[[Kategori:Pelacakan benda dekat Bumi]]

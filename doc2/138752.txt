@@ -1,0 +1,52 @@
+Lauriano
+{{Infobox Italian comune
+| name                = Lauriano
+| official_name       = Comune di Lauriano
+| native_name         = 
+| image_skyline       = 
+| imagesize           = 
+| image_alt           = 
+| image_caption       = 
+| image_shield        = 
+| shield_alt          = 
+| image_map           = 
+| map_alt             = 
+| map_caption         = 
+| pushpin_label_position = 
+| pushpin_map_alt     = 
+| latd  = 45 |latm  = 10 |lats  =  |latNS  = N
+| longd = 8 |longm = 0 |longs =   |longEW = E 
+| coordinates_type    = type:city(1,443)_region:IT
+| coordinates_display = title
+| coordinates_footnotes = 
+| region              = [[Piedmont]]
+| province            = [[Provinsi Turin]] (TO)
+| frazioni            = 
+| mayor_party         = 
+| mayor               = 
+| area_footnotes      = 
+| area_total_km2      = 14.2
+| population_footnotes = 
+| population_total    = 1443
+| population_as_of    = Desember 2004
+| pop_density_footnotes = 
+| population_demonym  = 
+| elevation_footnotes = 
+| elevation_m         = 
+| twin1               = 
+| twin1_country       = 
+| saint               = 
+| day                 = 
+| postal_code         = 10020
+| area_code           = 011
+| website             = {{official website|http://www.comune.lauriano.to.it}}
+| footnotes           = 
+}}
+'''Lauriano''' adalah komune yang terletak di distrik [[Provinsi Torino]], [[Italia]]. 
+
+Kota Lauriano memiliki luas sebesar 14.2 km.
+
+Lauriano pada tahun 2004, memiliki penduduk sebesar 1.443 jiwa.
+
+{{Provinsi Torino}}
+{{Turin-geo-stub}}

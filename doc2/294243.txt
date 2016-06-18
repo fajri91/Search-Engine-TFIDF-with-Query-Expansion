@@ -1,0 +1,42 @@
+Ariel (kota)
+{{Infobox Israel municipality
+|name=Ariel
+|image3=Arieal, Shomron(Storms 04).jpg
+|imgsize3=300px
+|caption3=
+|image=Coat of arms of Ariel.png
+|imgsize=100
+|hebname={{Hebrew|}}
+|arname=
+|meaning=Lion of God
+|founded=[[1978]]
+|type=city
+|typefrom=1998
+|stdHeb=
+|altOffSp=
+|altUnoSp=
+|district=js
+|population=18,700
+|popyear=[[2008]]
+|area_dunam=14677
+|mayor=[[Ron Nachman]]
+}}
+'''Ariel''' ({{lang-he-n|}}; {{lang-ar|}}) adalah pemukiman Israel yang terletak di [[Tepi Barat]]. Ariel didirikan pada tahun [[1978]] dan memiliki jumlah penduduk sebesar 16.700 jiwa.<ref name="cbs populations">{{Cite web|url=http://www.cbs.gov.il/population/new_2010/table3.pdf|format=PDF|publisher=[[Israel Central Bureau of Statistics]]|title=Table 3 - Population of Localities Numbering Above 1,000 Residents and Other Rural Population|date=2009-09-30|accessdate=2010-02-21}}</ref>
+
+== Kota kembar ==
+* {{flagicon|Costa Rica}} [[Heredia, Kosta Rika]]<ref name="Ariel">{{Cite news|title=Gemini Sign|author=Hodorov, Irit|publisher=[[Yedioth Ahronoth]]|work=Yediot Petah Tikva|date=2008-09-26}}</ref>
+* {{flagicon|United States}} [[Mobile, Alabama]], [[Amerika Serikat]]<ref name="Ariel" /><ref name="Mobile">{{cite web|title=Mobile's Sister Cities |work=City of Mobile|url=http://ncsmobile.org/sister_cities.php |accessdate=2009-11-26}}</ref>
+
+== Catatan kaki ==
+{{Reflist|colwidth=30em}}
+
+== Pranala luar ==
+* [http://go.ariel.muni.il/ariel/en/ Ariel] home page
+* [http://www.yosh.ac.il/ College of Judea & Samaria] home page
+
+{{Coord|32|6|21.6|N|35|11|16.43|E|type:city|display=title}}
+
+[[Kategori:Kota di Tepi Barat]]
+
+
+{{negara-geo-stub|Israel}}

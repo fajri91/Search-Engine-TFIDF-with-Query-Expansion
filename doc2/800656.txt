@@ -1,0 +1,33 @@
+Bahasa Tabla
+{{distinguish|bahasa Tanah Merah (disambiguasi){{!}}Bahasa Tanah Merah}}
+{{Infobox language
+|name=Tabla
+|nativename=Tanah Merah
+|states=[[Indonesia]]
+|region=[[Papua]]
+|ethnicity=
+|speakers={{sigfig|3750|2}} 
+|date=1990
+|ref = e18
+|familycolor=Papua
+|fam1={{nowrap|[[Rumpun bahasa Doberai Timur  Sentani|Doberai Timur  Sentani]]}}
+|fam2=[[Rumpun bahasa Sentani|Sentani]]
+|fam3=Pinggiran Sentani
+|iso3=tnm
+|glotto=tabl1243
+|glottorefname=Tabla
+}}
+
+'''Tabla''', satu dari dua [[rumpun bahasa Papua|bahasa Papua]] yang juga dikenal dengan nama '''Tanah Merah''', adalah bahasa yang dituturkan di [[Papua]], [[Indonesia]].<ref>[http://www.ethnologue.com/show_language.asp?code=tnm Ethnologue (16th)]</ref>
+
+==Referensi==
+{{Reflist}}
+
+{{Rumpun bahasa Papua Barat}}
+
+{{DEFAULTSORT:Tabla}}
+[[Kategori:Bahasa di Nugini Barat]]
+[[Kategori:Rumpun bahasa Papua Barat]]
+
+
+{{Papuan-lang-stub}}

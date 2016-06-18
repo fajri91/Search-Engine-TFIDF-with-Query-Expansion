@@ -1,0 +1,13 @@
+Berkas:Dipo Alam.jpg
+== {{int:filedesc}} ==
+{{Information
+|description    = [[Dipo Alam]], menteri dan politisi Indonesia.
+|source         = [http://nasional.tempo.co/read/news/2014/09/27/078610182/uu-pilkada-dipo-alam-tak-elok-saling-menyalahkan ''Tempo.co'']. Diakses 25 Juli 2015.
+|date           = 
+|location       = (tempat; opsional)
+|author         = 
+|permission     = 
+|other_versions = 
+}}
+== {{int:license-header}} ==
+{{Fairuse}}

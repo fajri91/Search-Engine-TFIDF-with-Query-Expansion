@@ -1,0 +1,17 @@
+Templat:Aleppo Labelled Map
+{{Image label begin|image=Aleppo blank districts 2009.png|width={{{width|350}}}|float={{{float|none}}}}}
+{{Image label small|x=0.24|y=0.48|scale={{{width|350}}}|text=([[Image:Capital city marker.svg|13px]] '''[[Aleppo]]''')}}
+{{Image label small|x=0.2|y=0.7|scale={{{width|350}}}|text=[[Distrik Mount Simeon|Mount Simeon]]}}
+{{Image label small|x=0.74|y=0.15|scale={{{width|350}}}|text=[[Distrik 'Ayn al-'Arab|Ayn al-Arab]]}}
+{{Image label small|x=0.14|y=0.5|scale={{{width|350}}}|text=[[Distrik Atarib|Atrib]]}}
+{{Image label small|x=0.11|y=0.235|scale={{{width|350}}}|text=[[Distrik Afrin|Ifrn]]}}
+{{Image label small|x=0.425|y=0.3470|scale={{{width|350}}}|text=[[Distrik Al Bab|Al-Bb]]}}
+{{Image label small|x=0.425|y=0.5|scale={{{width|350}}}|text=[[Distrik Dayr-Hafir|Dayr fir]]}}
+{{Image label small|x=0.3625|y=0.6|scale={{{width|350}}}|text=[[Distrik Al-Safirah|Safrah]]}}
+{{Image label small|x=0.2725|y=0.27|scale={{{width|350}}}|text=[[Distrik A'zaz|Azz]]}}
+{{Image label small|x=0.51|y=0.1675|scale={{{width|350}}}|text=[[Distrik Jarabulus|Jarbulus]]}}
+{{Image label small|x=0.595|y=0.2775|scale={{{width|350}}}|text=[[Distrik Manbij|Manbij]]}}
+{{Image label end}}<noinclude>
+label smalled map for listing [[districts of Syria]] in the [[Aleppo Governorate]].<br>{{Documentation, template|Template:Image label begin/doc}}
+[[Category:WikiProject Syria templates]]
+</noinclude>

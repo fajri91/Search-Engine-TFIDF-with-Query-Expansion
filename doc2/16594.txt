@@ -1,0 +1,49 @@
+Berkelland
+{{Infobox settlement
+|official_name = Berkelland
+|image_flag = Flag of Berkelland.svg
+| image_flag              = Flag of Berkelland.svg
+| flag_size               = 120px
+| flag_alt                = Flag of Berkelland
+| image_seal              = 
+| seal_size               = 
+| seal_alt                = 
+| image_shield            = Coat of arms of Berkelland.svg
+| shield_size             = 120px
+| shield_alt              = Coat of arms of Berkelland
+|image_map = LocatieBerkelland.png
+|mapsize = 250px
+|latd=52|latm=6|lats=|latNS=N
+|longd=6|longm=39|longs=|longEW=E
+|coordinates_display = inline,title
+|coordinates_region = NL
+|subdivision_type = Country
+|subdivision_name = [[Netherlands]]
+|subdivision_type1 = Province
+|subdivision_name1 = [[Gelderland]]
+|area_footnotes = (2006)
+|area_total_km2 = 260.43
+|area_land_km2 = 258.72
+|area_water_km2 = 1.70
+|population_as_of = 1 January, 2007
+|population_note = Source: [[Statistics Netherlands|CBS]], [http://statline.cbs.nl/ Statline].
+|settlement_type = Municipality
+|population_total = 45187
+|population_density_km2 = 175
+|timezone = [[Central European Time|CET]]
+|utc_offset = +1
+|timezone_DST = [[Central European Summer Time|CEST]]
+|utc_offset_DST = +2
+}}
+
+'''Berkelland''' ({{pronunciation|Nl-Berkelland.ogg}}) adalah sebuah ''[[gemeente]]'' [[Belanda]] yang terletak di [[provinsi]] [[Gelderland]]. Pada tahun [[2005]] daerah ini memiliki [[penduduk]] sebesar 45.000 jiwa.
+
+== Lihat pula ==
+* [[Daftar Kota Belanda]]
+
+{{GemeentenGelderland}}
+
+[[Kategori:Kota di Belanda]]
+
+
+{{belanda-geo-stub}}

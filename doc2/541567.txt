@@ -1,0 +1,329 @@
+NET.
+{{Infobox TV channel
+| Name = NET.
+| Other name = PT Net Mediatama Indonesia
+| logofile = NetmediatamaLogo.png
+| logosize = 200px
+| launch = [[26 Mei]] [[2013]]
+| owner = [[Indika Group]]
+| key people = [[Wishnutama]]<br />[[Agus Lasmono Sudwikatmono|Agus Sudwikatmono]]
+| headquarters = The East Tower Lt. 27-29<br />Jl. Dr. Ide Agung Gede Agung [[Mega Kuningan]], [[Kuningan Timur]], [[Jakarta]] {{flagcountry|Indonesia}}
+| slogan = ''Televisi Masa Kini''
+| country = {{IDN}}
+| former names = [[Spacetoon (Indonesia)|Spacetoon]] di jaringan terestrial<br />(23 Maret 2005-17 Mei 2013)
+| Sister channel = [[Spacetoon (Indonesia)|Spacetoon]] (2013-2014)<br>[[The First Comedy Network]] (2015-sekarang)
+| availability note = Nasional
+| Availability = Nasional
+| web = {{URL|http://www.netmedia.co.id}}
+| sat serv 1 = [[Telkom-1]] ([[SDTV|SD]])
+| sat chan 1 = Freq: 4134 [[MHz]]<br />Polaritas: Horizontal<br />Symbol Rate: 6400 Msps<br />FEC: 3/4<br />Rolloff: 20%<br />Video PID: 33<br />Audio PID: 34<br />PCR PID: 33<br />System: DVB-S/MPEG-2
+| sat serv 2 = [[Telkom-1]] ([[HDTV|HD]])
+| sat chan 2 = Freq : 4128 [[MHz]]<br />Polaritas: Horizontal<br />Symbol Rate: 3000 Msps<br />FEC: 5/6<br />Rolloff: 20%<br />Video PID: 33<br />Audio PID: 34<br />PCR PID: 33<br />System: DVB-S2/MPEG-4
+| sat serv 3 = [[Big TV (Indonesia)|BiG TV]]
+| sat chan 3 = Channel 233 ([[SDTV|SD]])<br/>Channel 232 ([[HDTV|HD]])
+| sat serv 4 = [[OrangeTV|Orange TV]]
+| sat chan 4 = Channel 116 ([[SD]])
+| sat chan 5 = Channel 075 ([[SD]])
+| sat serv 5 = [[Aora TV]]
+| cable serv 1 = [[First Media]]
+| cable chan 1 = Channel 16 ([[SDTV|SD]])<br/>Channel 390 ([[HDTV|HD]])
+| cable serv 2 = [[Max3]]
+| cable chan 2 = Channel 81 ([[SDTV|SD]])<br/>Channel 92 ([[HDTV|HD]])
+| online serv 1 = [[UseeTV]]
+| online chan 1 = {{URL|http://www.useetv.com/livetv/net|NET.}}
+| online chan 2 = Channel 198 ([[SDTV|SD]])
+| terr serv 1  = [[Ambon]]                      |terr chan 1  = 28 UHF
+| terr serv 2  = [[Banda Aceh]]                 |terr chan 2  = 60 UHF
+| terr serv 3  = [[Bandar Lampung]]             |terr chan 3  = 51 UHF
+| terr serv 4  = [[Bandung]]                    |terr chan 4  = 30 UHF
+| terr serv 5  = [[Banjarmasin]]                |terr chan 5  = 55 UHF
+| terr serv 6  = [[Batam]]                      |terr chan 6  = 39 UHF <small> (melalui [[STV Batam|STV]]) </small>
+| terr serv 7  = [[Bengkulu]]                   |terr chan 7  = 59 UHF
+| terr serv 8  = [[Cirebon]]                    |terr chan 8  = 23 UHF
+| terr serv 9  = [[Denpasar]]                   |terr chan 9  = 39 UHF
+| terr serv 10 = [[Garut]]                      |terr chan 10 = 26 UHF
+| terr serv 11 = [[Gorontalo]]                  |terr chan 11 = 27 UHF
+| terr serv 12 = [[Jakarta]]                    |terr chan 12 = 27 UHF
+| terr serv 13 = [[Jambi]]                      |terr chan 13 = 59 UHF
+| terr serv 14 = [[Jayapura]]                   |terr chan 14 = 46 UHF
+| terr serv 15 = [[Jember]]                     |terr chan 15 = 56 UHF
+| terr serv 16 = [[Kediri]]                     |terr chan 16 = 27 UHF
+| terr serv 17 = [[Kendari]]                    |terr chan 17 = 53 UHF
+| terr serv 18 = [[Kupang]]                     |terr chan 18 = 60 UHF
+| terr serv 19 = [[Madiun]]                     |terr chan 19 = 29 UHF
+| terr serv 20 = [[Magelang]]                   |terr chan 20 = 58 UHF <small> (melalui [[Tidar Media TV|TMTV]]) </small>
+| terr serv 21 = [[Makassar]]                   |terr chan 21 = 57 UHF <small> (melalui [[Cakrawala TV]]) </small>
+| terr serv 22 = [[Malang]]                     |terr chan 22 = 58 UHF
+| terr serv 23 = [[Manado]]                     |terr chan 23 = 51 UHF
+| terr serv 24 = [[Manokwari]]                  |terr chan 24 = 27 UHF
+| terr serv 25 = [[Mataram]]                    |terr chan 25 = 58 UHF
+| terr serv 26 = [[Medan]]                      |terr chan 26 = 43 UHF
+| terr serv 27 = [[Padang]]                     |terr chan 27 = 35 UHF
+| terr serv 28 = [[Palangkaraya]]               |terr chan 28 = 27 UHF
+| terr serv 29 = [[Palembang]]                  |terr chan 29 = 55 UHF <small> (melalui [[HKTV Palembang|HKTV]]) </small>
+| terr serv 30 = [[Kota Palu|Palu]]             |terr chan 30 = 52 UHF
+| terr serv 31 = [[Pangkal Pinang]]             |terr chan 31 = 44 UHF
+| terr serv 32 = [[Pekanbaru]]                  |terr chan 32 = 32 UHF <small> (melalui [[Riauchannel]]) </small>
+| terr serv 33 = [[Pelaihari]]                  |terr chan 33 = 60 UHF
+| terr serv 34 = [[Pontianak]]                  |terr chan 34 = 56 UHF
+| terr serv 35 = [[Purwokerto]]                 |terr chan 35 = 22 UHF
+| terr serv 36 = [[Samarinda]]                  |terr chan 36 = 25 UHF
+| terr serv 37 = [[Semarang]]                   |terr chan 37 = 54 UHF
+| terr serv 38 = [[Surabaya]]                   |terr chan 38 = 58 UHF
+| terr serv 39 = [[Tegal]]                      |terr chan 39 = 22 UHF
+| terr serv 40 = [[Ternate]]                    |terr chan 40 = 38 UHF
+| terr serv 41 = [[Timika]]                     |terr chan 41 = 33 UHF
+| terr serv 42 = [[Yogyakarta]]                 |terr chan 42 = 57 UHF
+}}
+'''NET.''' (singkatan dari ''News and Entertainment Television'') adalah sebuah [[stasiun televisi]] [[swasta]] [[Televisi terestrial|terestrial]] [[nasional]] di [[Indonesia]] yang resmi diluncurkan pada [[26 Mei]] [[2013]]. NET. menggantikan siaran terestrial [[Spacetoon (Indonesia)|Spacetoon]] yang sebagian sahamnya telah diambil alih oleh [[Indika Group]]<ref>[http://industri.kontan.co.id/news/eks-humas-space-toon-bantah-ada-akuisisi Mantan humas Spacetoon bantah ada akuisisi]</ref>. Berbeda dengan Spacetoon yang acaranya ditujukan untuk anak-anak, program-program NET. ditujukan kepada keluarga dan pemirsa muda.
+
+Selain melalui jaringan terestrial, NET. juga menyiarkan kontennya melalui saluran komunikasi lain seperti jejaring sosial dan [[YouTube]].<ref>[http://bisniskeuangan.kompas.com/read/2013/03/24/16022434/Bikin.Media.Wishnutama.Akuisisi.Space.Toon Bikin media Wishnutama akuisisi Spacetoon]</ref>
+
+Program Grand Launching NET. ditayangkan secara langsung pada tanggal 26 Mei 2013 pukul 19.00 WIB dan disiarkan secara streaming melalui Youtube dan website resmi NET., dan acara Grand Launching ini menampilkan penyanyi internasional seperti [[Carly Rae Jepsen]], [[Taio Cruz]] dan juga didukung oleh beberapa artis dalam negeri seperti [[Agnes Monica]], [[Maudy Ayunda]], [[Cherrybelle]], [[Sm*sh]], [[Noah (grup musik)|Noah]], [[Raisa]], [[Kahitna]], [[Dewa 19]], [[Andien]], [[Ungu (grup musik)|Ungu]], [[Reza Rahardian]], [[Andi Rianto]] dan banyak lagi<ref>{{cite web|url=http://www.netmedia.co.id/program/net-grand-launching|title=Grand Launching NET.}}</ref>
+
+Pada tanggal 18 Mei 2014 NET. merayakan ulang tahun pertamanya yang bertajuk NET. ONE (Indonesian Choice Awards 2014) dengan mengundang berbagai penyanyi internasional seperti [[Far East Movement]] dan [[Ne-Yo]].<ref>[http://www.netmedia.co.id/program/net-one Netmedia]</ref>
+
+Pada tanggal 24 Mei 2015, NET. merayakan ulang tahun keduanya dan mengundang penyanyi internasional [[Demi Lovato]] & [[Karmin]].<ref>[http://detik.id/VMYpX5]</ref>
+
+== Sejarah ==
+Pada tahun 2012, PT Net Mediatama Indonesia (NET.) ingin membangun sebuah stasiun TV yang membawakan sebuah revolusi media yang maju dan lebih modern. Pada pertengahan Maret 2013, PT Net Mediatama Indonesia mengakuisisi saham kepemilikan dari PT Televisi Anak Spacetoon (Spacetoon) yang sebagian sahamnya dialih oleh [[Indika Group]] sebesar 95% dari saham kepemilikan Spacetoon. Sesaat setelah akuisisi saham kepemilikan Spacetoon ke NET., akhirnya pada Sabtu, 18 Mei 2013, siaran Spacetoon di jaringan terrestrial menghilang dan digantikan oleh NET. yang memulai siaran perdananya dengan menggunakan frekuensi milik Spacetoon di seluruh mantan jaringan frekuensi Spacetoon di Indonesia.
+
+NET. memulai masa siaran percobaan selama satu pekan yang terhitung sejak Sabtu, 18 Mei 2013 sampai menjelang program Grand Launching Media Revolution yang disiarkan secara live pada Minggu, 26 Mei 2013 pukul 19.00 WIB, di Jakarta Convention Center, Senayan, Jakarta Pusat. Masa siaran percobaan NET. disiarkan mulai dari pukul 05.00 WIB-24.00 WIB tanpa ada iklan komersial. Setelah selesai masa siaran percobaan, jam tayang NET. diperpanjang dari pukul 04.00 WIB-02.00 WIB. Akan tetapi, khusus selama bulan suci [[Ramadhan]] siaran NET. menjadi 24 jam nonstop.
+
+Seluruh program-program dari Spacetoon Indonesia dirombak menjadi yang maju dan lebih modern, akan tetapi NET. tetap menayangkan lima program kartun unggulan dari Spacetoon yang disiarkan setiap Senin-Jumat mulai pukul 13.30 WIB-16.00 WIB dengan nama "NET. Playground" atau "NETOON" yang saat ini sudah tidak tayang lagi.
+
+Pada Februari 2015, diluncurkan [[The First Comedy Network]] yang merupakan stasiun televisi kerjasama antara NET. dengan [[First Media]]. Stasiun televisi ini menayangkan lima program komedi unggulan NET. yaitu [[The Comment|The Comment,]] [[Bukan Sekedar Wayang]], [[Tetangga Masa Gitu?]], [[Ini Talkshow]] dan [[Tonight Show]].
+
+Pada 3 April 2015, NET. secara resmi menjadi sponsor utama tim sepak bola [[Persija Jakarta]] selama [[Liga QNB 2015]].<ref>[http://www.tribunnews.com/superball/2015/04/03/persija-jakarta-sponsor-utamanya-kini-net-tv Persija Jakarta Sponsor Utamanya kini Net TV]</ref> Sehari kemudian, tepatnya 4 April 2015, NET. juga menjadi sponsor utama [[Persib Bandung]].<ref>[http://sportsatu.com/persib/persib-gandeng-net-tv-untuk-qnb-league-2015-712.html Persib Gandeng Net TV untuk QNB League 2015]</ref>
+
+== Program acara ==
+{{main|Daftar acara NET.}}
+
+== Penghargaan dan nominasi ==
+* 2014, Pemenang The New Alternative di Rolling Stone Editors Choice Awards 2014
+* 2014, Asian TV Awards - Highly Commended Best Music Programme oleh program [[Music Everywhere (acara televisi)|Music Everywhere]] Episode [[Nidji]].<ref>http://ata.onscreenasia.com/ata2014/nomination-list.asp Asian Television Awards 2014 Nominations List</ref>
+* 2014, Asian TV Awards - Highly Commended Best Entertainment (One-off/annual) oleh program [[Indonesian Choice Awards|NET. ONE Present Indonesia Choice Awards]].
+
+== Presenter ==
+* [[Sarah Sechan]]
+* [[Zivanna Letisha Siregar]]
+* [[Marissa Anita]]
+* [[Deva Mahenra]]
+* [[Wulan Juliani]]
+* [[Rahma Hayuningdyah]]
+* [[Shinta Zahara]]
+* [[Anissa Pagih]]
+* [[Ari Sanjaya]]
+* [[Vannico Soekarno]]
+* [[Tommy Fadjar]]
+* [[Ranggani Puspandya]]
+* [[Alice Callista (presenter)|Alice Callista]]
+* [[Taufik Effendi (presenter)|Taufik Effendi]]
+* [[Adrian Maulana]]
+* [[Shahnaz Soehartono]]
+* [[Peter Ngantung (presenter)|Peter Ngantung]]
+* [[Dimas Danang]]
+* [[Imam Darto]]
+* [[Shafira Umm]]
+* [[Maria Sabta]]
+* [[Ganindra Bimo]]
+* [[Temmy Rahadi]]
+* [[Caesar Gunawan]]
+* [[Dominique Agisca Diyose|Dominique Diyose]]
+* [[Hesti Purwadinata]]
+* [[Teuku Aditya (presenter)|Teuku Aditya]]
+* [[Hermann Josis Mokalu|Yosi Mokalu]]
+* [[Claude Hutasoit]]
+* [[Sheryl Sheinafia]]
+* [[Marsya Manopo]]
+* [[Shinta Rosari]]
+* [[Boy William]]
+* [[Kimmy Jayanti]]
+* [[Adit Dipo]]
+* [[Bilal Wiradisastra]]
+* [[Sakti Al-Fattah]]
+* [[Sule]]
+* [[Andre Taulany]]
+* [[Vincent Ryan Rompies|Vincent Rompies]]
+* [[Deddy Mahendra Desta|Desta]]
+* [[Djoni Permato]]
+* [[Aubry Beer]]
+* [[Isabella Fawzi]]
+* [[Angie Ang]]
+* [[Rahma Landy]]
+* [[Masyitha Baziad]]
+* [[Paul Palele]]
+* [[David Bayu Danangjaya]]
+* [[Sheilla Purnama]]
+* [[Astrid Satwika]]
+* [[Tina Talisa]] (1 episode pada program [[Satu Indonesia]]
+* [[Ananda Omesh]]
+* [[John Martin Tumbel]]
+* [[Ovi Dian]]
+* [[Shania Junianatha]]
+* [[Shara Virrisya]]
+
+== Frekuensi ==
+Saat ini, NET. telah menjangkau hingga 42 kota di Indonesia. Siaran NET. dapat disaksikan di kota-kota berikut:
+{{col-css3-begin|3}}
+* [[Ambon]] - 28 UHF
+* [[Banda Aceh]] - 60 UHF
+* [[Bandar Lampung]] - 51 UHF
+* [[Bandung]] - 30 UHF
+* [[Banjarmasin]] - 55 UHF
+* [[Batam]] - 39 UHF
+* [[Bengkulu]] - 59 UHF
+* [[Cirebon]] - 23 UHF
+* [[Denpasar]] - 39 UHF
+* [[Garut]] - 26 UHF
+* [[Gorontalo]] - 27 UHF
+* [[Jakarta]] - 27 UHF
+* [[Jambi]] - 59 UHF
+* [[Jayapura]] - 46 UHF
+* [[Jember]] - 56 UHF
+* [[Kediri]] - 27 UHF
+* [[Kendari]] - 53 UHF
+* [[Kupang]] - 60 UHF
+* [[Madiun]] - 29 UHF
+* [[Magelang]] - 58 UHF
+* [[Makassar]] - 57 UHF
+* [[Malang]] - 58 UHF
+* [[Manado]] - 51 UHF
+* [[Manokwari]] - 27 UHF
+* [[Mataram]] - 58 UHF
+* [[Medan]] - 43 UHF
+* [[Padang]] - 35 UHF
+* [[Palangkaraya]] - 27 UHF
+* [[Palembang]] - 55 UHF
+* [[Kota Palu|Palu]] - 52 UHF
+* [[Pangkal Pinang]] - 44 UHF
+* [[Pekanbaru]] - 32 UHF
+* [[Pelaihari]] - 60 UHF
+* [[Pontianak]] - 56 UHF
+* [[Purwokerto]] - 22 UHF
+* [[Samarinda]] - 25 UHF
+* [[Semarang]] - 54 UHF
+* [[Surabaya]] - 58 UHF
+* [[Tegal]] - 22 UHF
+* [[Ternate]] - 38 UHF
+* [[Timika]] - 33 UHF
+* [[Yogyakarta]] - 57 UHF
+{{col-css3-end|5}}
+
+=== Jaringan siaran ===
+* NET. Jakarta - [[Jabodetabek]], [[Kabupaten Serang]], [[Kota Serang]], [[Kabupaten Lebak]], [[Kota Cilegon]], [[Kabupaten Pandeglang]], [[Kota Sukabumi]], [[Kabupaten Sukabumi]], [[Kabupaten Karawang]]
+* NET. Jawa Barat - [[Wilayah Metropolitan Bandung|Bandung Raya]]; sebagian [[Kabupaten Sumedang]], [[Kabupaten Cianjur]], [[Kabupaten Purwakarta]], [[Kabupaten Subang]]
+* NET. Cirebon - [[Kota Cirebon]], [[Kabupaten Cirebon]], [[Kabupaten Indramayu]], [[Kabupaten Majalengka]], [[Kabupaten Kuningan]]
+* NET. Priangan Timur - [[Kabupaten Garut]], [[Kabupaten Tasikmalaya]], [[Kabupaten Ciamis]], [[Kabupaten Pangandaran]], [[Kota Tasikmalaya]], [[Kota Banjar]]
+* NET. Jawa Tengah - [[Kota Semarang]], [[Kabupaten Semarang]], [[Kabupaten Kendal]], [[Kota Salatiga]], [[Kabupaten Grobogan]], [[Kabupaten Demak]], [[Kabupaten Kudus]], [[Kabupaten Pati]]; sebagian [[Kabupaten Rembang]], [[Kabupaten Jepara]], [[Kabupaten Blora]], [[Kota Purwokerto]]
+* NET. Yogyakarta - [[Kota Yogyakarta]], [[Kabupaten Sleman]], [[Kabupaten Bantul]], [[Kabupaten Gunungkidul]], [[Kabupaten Kulon Progo]], [[Kota Surakarta]], [[Kabupaten Klaten]], [[Kabupaten Purworejo]], [[Kabupaten Sukoharjo]], [[Kabupaten Karanganyar]], [[Kabupaten Sragen]], [[Kabupaten Boyolali]], [[Kabupaten Wonogiri]]; sebagian [[Kabupaten Wonosobo]]
+* NET. Jawa Timur - [[Gerbangkertosusila]], [[Pulau Madura]]; sebagian [[Kabupaten Jember]], [[Kabupaten Pasuruan]], [[Kota Kediri]], [[Kota Madiun]]
+* NET. Malang - [[Kota Malang]], [[Kabupaten Malang]], [[Kota Batu]]
+* NET. Bali - [[Bali]]; sebagian [[Kabupaten Banyuwangi]]
+* NET. Medan - [[Mebidang]]
+* [[NET. Padang]] - [[Padang]] Raya, [[Kabupaten Kepulauan Mentawai|Mentawai]]
+* [[NET. Kalimantan Tengah]] - [[Palangkaraya]] Raya, [[Kabupaten Kotawaringin Barat]], [[Kabupaten Kotawaringin Timur]], [[Kabupaten Kapuas]], [[Kabupaten Katingan]], [[Kabupaten Pulang Pisau]], [[Kabupaten Seruyan]]
+* NET. Kalimantan Selatan - [[Kota Banjarmasin]], [[Kota Banjarbaru]], [[Kabupaten Banjar]], [[Kabupaten Kotabaru]], [[Kabupaten Tabalong]]; sebagian [[Kota Pelaihari]], [[Kabupaten Tanah Laut]]
+* NET. Kalimantan Barat - [[Kota Pontianak]], [[Kota Ketapang]], [[Kota Singkawang]], [[Kota Mempawah]], [[Kota Sambas]], [[Kota Sintang]], [[Kabupaten Bengkayang]], [[Kabupaten Kapuas Hulu]], [[Kabupaten Kubu Raya]], [[Kabupaten Ketapang]], [[Kabupaten Mempawah]], [[Kabupaten Sintang]], [[Kabupaten Sambas]]
+* NET. Kalimantan Timur - [[Kota Samarinda]], [[Kota Balikpapan]], [[Kota Bontang]], [[Kabupaten Kutai Kartanegara]], [[Kabupaten Paser]], [[Kabupaten Berau]], [[Kabupaten Mahakam Ulu]]
+* NET. Bengkulu - [[Kota Bengkulu]], [[Kabupaten Kepahiang]], [[Kabupaten Lebong]], [[Kabupaten Rejang Lebong]]
+* NET. Gorontalo - [[Kota Gorontalo]], [[Kabupaten Gorontalo]], [[Kabupaten Gorontalo Utara]], [[Limboto, Gorontalo|Kota Limboto]]
+* NET. Sulawesi Utara - [[Kota Manado]], [[Kabupaten Kepulauan Sangihe|Sangihe]], [[Kabupaten Kepulauan Talaud|Talaud]], [[Kota Kotamobagu]], [[Kabupaten Minahasa]], [[Kota Tondano]], [[Kota Tomohon]], [[Kota Bitung]]
+* NET. Sulawesi Tengah - [[Kota Palu]], [[Kabupaten Poso]], [[Kabupaten Tolitoli]], [[Kabupaten Donggala]], [[Kabupaten Banggai Laut]], [[Kabupaten Banggai]], [[Kabupaten Parigi Moutong|Kabupaten Parigi]]
+* NET. Sulawesi Tenggara - [[Kota Kendari]], [[Kabupaten Kolaka]], [[Kabupaten Konawe]], [[Kabupaten Wakatobi]], [[Kota Bau-Bau]], [[Kabupaten Muna]]
+* NET. Jambi - [[Kota Jambi]], [[Kabupaten Batanghari]]
+* NET. Lampung - [[Bandar Lampung|Kota Lampung]], [[Kota Metro]], [[Kabupaten Pringsewu]]
+* NET. Mataram - [[Kota Mataram]]
+* NET. Kupang - [[Kota Kupang]]
+* NET. Aceh - [[Kota Banda Aceh]], [[Kota Sabang]], [[Kabupaten Aceh Besar]], [[Kabupaten Pidie]], [[Kabupaten Pidie Jaya]], [[Kabupaten Bireuen]], [[Kabupaten Aceh Utara]], [[Kota Lhokseumawe]], [[Kabupaten Aceh Timur]], [[Kota Langsa]], [[Kabupaten Aceh Tamiang]]
+* NET. Timika - [[Kota Timika]]
+* NET. Manokwari - [[Kabupaten Manokwari]]
+* NET. Halmahera - [[Kota Sofifi]], [[Kota Ternate]], [[Kota Tidore Kepulauan|Kota Tidore]], [[Pulau Morotai]], [[Halmahera]]
+* NET. Ambon - [[Kota Ambon]]
+* NET. Jayapura - [[Kota Jayapura]]
+* NET. Papua - [[Papua|Kota Papua]],[[Papua Barat]]
+* [[Tidar Media TV|TMTV]] - [[Kota Magelang]], [[Kabupaten Magelang]]
+* [[STV Batam|STV]] - [[Kota Batam]], [[Kabupaten Karimun]], [[Kabupaten Bintan]], [[Kabupaten Natuna]]
+* [[Cakrawala TV]] - [[Kota Makassar]], [[Kabupaten Takalar]], [[Kabupaten Maros]], [[Kabupaten Pangkajene dan Kepulauan|Kabupaten Pangkajene]],  [[Kabupaten Gowa]], [[Kota Sungguminasa]], [[Kabupaten Jeneponto]]
+* [[Riauchannel]] - [[Kota Pekanbaru]], [[Kabupaten Kampar]]
+* [[HKTV Palembang|HKTV]] - [[Kota Palembang]], [[Kota Lubuk Linggau]], [[Kabupaten Muara Enim]], [[Kabupaten Musi Banyuasin]], [[Kabupaten Banyuasin]], [[Kota Prabumulih]], [[Kota Pagar Alam]], [[Kabupaten Ogan Ilir]]
+
+== Kontroversi ==
+=== Spacetoon menjadi NET. ===
+Proses perubahan TV Anak Spacetoon menjadi NET. diduga bermodus jual beli izin. Jual beli izin bertentangan dengan Pasal 34 ayat 4 UU No. 32 tahun 2002 tentang Penyiaran.
+
+Dalam pengajuan izin Spacetoon, segmennya adalah anak. Dalam proses perubahan, konten yang ditampilkan justru tidak layak untuk anak. Ini bertentangan dengan Pasal 36 ayat 3 UU Penyiaran, ungkap Koordinator Bidang Isi Siaran Komisi Penyiaran Indonesia (KPI) Pusat, Iswandi Syahputra, seperti dirilis situs KPI Rabu, 05 Juni 2013.
+
+Iswandi menduga, proses perubahan nama dari Spacetoon menjadi NET. bagian dari modus jual beli izin. Untuk itu, pihak KPI mengingatkan kepada Kementerian Komunikasi dan Informatika (Kominfo), untuk lebih berhati-hati dan teliti dalam kasus-kasus jual beli izin dengan berbagai modus.
+
+Terkait dengan dugaan itu, pihak PT Net Mediatama Indonesia telah memenuhi undangan KPI untuk menyampaikan klarifikasi seputar perubahan nama dari TV Anak Spacetoon menjadi NET., Rabu, 05 Juni 2013.
+
+Dalam pertemuan yang berlangsung di kantor KPI Pusat itu, Direktur Utama PT Televisi Anak Spacetoon atau NET., Deddy Hariyanto, menyampaikan jawaban dan klarifikasi.
+
+Klarifikasi yang disampaikan pihak Spacetoon atau NET. itu akan menjadi pertimbangan KPI sebelum memutuskan langkah selanjutnya.
+
+=== Favorit TV menjadi NET. di Padang ===
+KPID (Komisi Penyiaran Indonesia Daerah) Sumatera Barat (Sumbar) memanggil perwakilan stasiun NET. bertempat di Kantor KPID Sumbar, Gondoria, Kota Padang, Rabu (26/2).
+
+KPID Sumbar meminta klarifikasi atas kepemilikan dan status izin televisi yang menyiarkan secara lokal di Sumbar. KPID mendesak agar  memenuhi kelengkapan izin serta adminstrasi yang dibutuhkan.
+
+Selain itu segera menyiarkan konten lokal Sumatera Barat sebanyak 10 persen untuk TV berjaringan. Ketua KPID Sumbar, Afrianto Korga, menyebutkan KPID ingin meminta klarifikasi soal kepemilikan dan saham dari NET. belakangan bisa kita tonton di Kota Padang. Kami dari KPID ingin meminta klarifikasi sehingga masyarakat juga mengetahuinya. Pasalnya, izin awalnya NET. tidak ada dalam arsip permohonan izin, katanya. Sedangkan, KPID Sumbar sendiri mengaku belum menerima surat dari kedua perihal perubahan nama dan logo. Kini banyak masyarakat yang mempertanyakan kedua televisi tersebut," tuturnya.
+
+Untuk diketahui, NET. sejak beberapa waktu belakangan sudah bersiaran di Kota Padang dan Pariaman. NET. sebelumnya merupakan Favorit TV, dimana dimiliki seorang pengusaha bernama H. Yendril. Kini, mayoritas sahamnya sudah diambil alih oleh NET. Perwakilan NET. yang langsung datang dari Jakarta menyebut, bahwa mereka akan melengkapi segala kelengkapan izin dan persyarakatan administrasi yang diminta KPID. "Intinya kami mendukung aturan KPID dan secara bertahap akan kami penuhi," kata Azuan Syahril, Pimpinan NET.
+
+Pihak NET. juga menyerahkan surat permohonan pergantian nama dan logo dari Favorit TV menjadi NET. Padang yang sudah ditandatangani Menkominfo. Menyikapi polemik tersebut, Ketua Bidang Perizinan KPID Sumatera Barat, Ardian Yonas meminta agar dua lembaga penyiaran ini untuk berjalan sesuai dengan izin siaran yang ada. "TV ini harus jelas mereka siaran lokal atau siaran berjaringan. jadi tidak bisa asal saja," katanya.
+
+Terkait isi siaran, Ketua Bidang Pengawasan Isi Siaran KPID Sumbar, Rino Zulyadi mendesak agar konten lokal 10 persen harus segera dipenuhi oleh NET. "Televisi tersebut berada di Sumatera  Barat ya, kontain lokalnya harus ada. Jadi tidak etis kalau izinnya lokal, namun semua acaranya di relay dari pusat. Kita ingin nilai-nilai budaya serta potensi sumatera Barat bisa diangkat lembaga penyiaran ini," jelasnya. KPID kembali akan menyurati sejumlah lembaga penyiaran televisi berjaringan lainnya untuk segera memiliki kantor atau studio di Sumatera Barat. KPID memberi tenggang waktu hingga enam bulan ke depan, lembaga penyiaran televisi harus sudah memiliki kantor perwakilan.
+
+== Daftar manajemen ==
+{| class="wikitable"
+|-
+! No. !! Nama !! Jabatan
+|-
+| 1 || [[Wishnutama Kusubandio]] || Direktur Utama NET.
+|-
+| 2 || [[Agus Lasmono Sudwikatmono]] || Komisaris Utama NET. & Presiden Direktur [[Indika Group]]
+|}
+
+== Jam siaran NET. ==
+* 18 Mei-25 Mei 2013 (saat masih siaran percobaan) dimulai pukul 05.00 WIB s.d. 00.00 WIB.
+* 26 Mei-9 Juli 2013 dimulai pukul 05.00 s.d. 01.00 WIB.
+* Siaran 24 jam selama bulan Ramadan.
+* 8 Agustus-25 Agustus 2013 dimulai pukul 04.00 WIB s.d. 01.00 WIB.
+* 26 Agustus 2013-sekarang dimulai pukul 04.00 s.d. 02.00 WIB (Sabtu dan Minggu siaran 24 jam).
+* 2016-sekarang dimulai pukul 04:30 atau 05:00 s.d. 01:00 WIB (tergantung kota, hanya berlaku untuk NET. pada antena UHF di luar Jabodetabek)
+
+== Galeri logo ==
+{{Logo saluran televisi}}
+<gallery>
+Berkas:Netmediatama.png|Logo NET. yang digunakan sebagai logo perusahaan (18 Mei 2013-sekarang)
+Berkas:NET. abu-abu.svg|Logo NET. yang digunakan sebagai ''[[:en:Digital on-screen graphic|on-air bug]]''
+Berkas:NETCHANNEL.png|Logo NET. versi hiburan, digunakan juga sebagai logo penutup produksi program [[The First Comedy Network]]
+Berkas:NETSPORTS.png|Logo NET. versi olahraga
+Berkas:Net-hd.png|Logo NET. HD, digunakan pada saluran [[Televisi resolusi tinggi|HD]] (18 Mei 2013-sekarang)
+Berkas:NETmovement.png|Logo NET. Movement
+</gallery>
+
+== Referensi ==
+{{reflist|2}}
+
+== Pranala luar ==
+* {{id}} {{Official|www.netmedia.co.id}}
+* {{Twitter|netmediatama}}
+* {{Facebook|netmediatamaindonesia|NET Mediatama Indonesia}}
+* {{YouTube|user=netmediatama|NET.}}
+
+{{Acara NET.}}
+{{Kelompok templat
+|list1 =
+{{NET.}}
+{{Penyiar NET.}}
+{{Comedy Night Live}}
+{{Indonesian Choice Awards}}
+{{TelevisiIndonesia}}
+}}
+
+[[Kategori:Stasiun televisi Indonesia]]
+[[Kategori:Stasiun televisi yang berdiri pada tahun 2013]]
+[[Kategori:Stasiun televisi di Jakarta]]
+[[Kategori:NET.]]

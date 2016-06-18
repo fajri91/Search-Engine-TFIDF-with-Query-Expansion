@@ -1,0 +1,48 @@
+Arang (film)
+{{Infobox film
+|name           = Arang
+|image          = 
+|caption        = Poster teatrikal
+|director       = Sang-hoon Ahn<ref>Infobox data from {{imdb title|id=0826031|title=Arang}}</ref>
+|writer         = Sang-hoon Ahn<br />Seon-ju Jeong<br />Jeong-seob Lee<br />Yun-kyung Sin
+|starring       = So-yeong Choo<br />Won-jung Jeong<br />[[Ok-bin Kim]]<br />[[Dong-wook Lee]]<br />Jong-su Lee<br />Yun-ah Song
+|editing        = Im-Pyo Ko
+|distributor    = CJ Entertainment
+|released       = {{Start date|2006|06|28}}
+|runtime        = 97 menit
+|country        = [[Korea Selatan]]
+|language       = Korea
+|budget         =
+|admissions     = 820,086
+|hangul         = 
+|rr             = Arang
+|mr             = Arang
+|hanja          = {{linktext|||}}
+}}
+'''''Arang''''' ([[Hangul|]], ''Arang'') adalah [[film horor]] [[Korea Selatan]] tahun [[2006]].
+
+== Pemeran ==
+* Yun-ah Song... So-yeong<ref name="KMDB"/><ref>
+{{cite web |url=http://www.kmdb.or.kr/movie/md_basic.asp?nation=K&p_dataid=07324|title= - Arang (2006)|accessdate=2008-01-16|publisher=[http://www.kmdb.or.kr/eng/index.asp KMDb Korean Movie Database]|language=Korean}}</ref>
+* [[Dong-wook Lee]]... Hyeon-gi
+* Jong-su Lee... Dong-min
+* Hae-in Kim... Min-jeong
+* Won-joong Chung... Ban-jeong Kim
+* Seung-cheol Lee... So-jang Jo
+* So-young Choo... Su-bin
+* Jeon Jun-hong... Jeong-ho
+* Ju Sang-uk... Jae-hyeon
+* Seung-ju Lee... Ji-cheol
+
+== Referensi ==
+{{Reflist}}
+
+== Pranala luar ==
+* {{IMDb title|0826031|Arang}}
+* {{Hancinema film|Arang|Arang}}
+* {{Rotten-tomatoes|arang|Arang}}
+* {{KMDb film|07324|Arang}}
+
+{{film-stub}}
+
+[[Kategori:Film Korea Selatan tahun 2006]]

@@ -1,0 +1,4 @@
+Templat:Smaller
+{{Resize|90%|{{{1}}}}}<noinclude>
+{{Documentation}}
+</noinclude>

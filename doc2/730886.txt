@@ -1,0 +1,14 @@
+Berkas:Toyger.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+Toyger.
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Fairuse}}

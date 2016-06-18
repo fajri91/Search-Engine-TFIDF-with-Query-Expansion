@@ -1,0 +1,99 @@
+Hipotiroidisme
+{{Infobox disease |
+  Name           = Hipotiroidisme|
+  Image          = Jaundice in newborn.jpg |
+  Caption        = Gejala hipotiroidisme yang tampak pada bayi berusia 6 bulan. |
+  DiseasesDB     = 6558 |
+  ICD10          = {{ICD10|E|03|9|e|00}} |
+  ICD9           = {{ICD9|244.9}} |
+  ICDO           = |
+  OMIM           = |
+  MedlinePlus    = |
+  eMedicineSubj  = med |
+  eMedicineTopic = 1145 |
+  MeshID         = D007037 |
+}}
+
+'''Hipotiroidisme''' adalah istilah yang mengacu pada [[simtoma]] menurunnya sintesis dan [[sekresi]] [[hormon tiroid]] dari [[kelenjar tiroid]].<ref>{{en}}{{cite web
+| url          = http://www.nlm.nih.gov/medlineplus/ency/article/000353.htm
+| title        = Hypothyroidism
+| accessdate   = 2010-10-30
+| work         = Medline Plus
+}}</ref>
+
+Pada umumnya, penyebab hipotiroidisme adalah kurangnya asupan gizi berupa [[iodina]] atau [[yodium]].<ref name="PMC2895281">{{en}}{{cite web
+| url          = http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2895281
+| title        = Hypothyroidism - new aspects of an old disease
+| accessdate   = 2010-11-21
+| work         = Department of Endocrinology, Hellenic Red Cross Hospital, Department of Medical Physics, Medical School, University of Athens; I Kostoglou-Athanassiou dan K Ntalles
+}}</ref> Hipotiroidisme transien, dapat terjadi setelah konsumsi iodina dalam jumlah banyak yang menginduksi kelainan [[enzim]]atik ringan yang menyebabkan terhambatnya [[sintesis]] hormon pada kelenjar tiroid, yang dikenal sebagai [[efek Wolff-Chaicoff]].
+
+[[Radang]] pada [[kelenjar tiroid]] juga dapat menyebabkan hipotiroidisme, seperti pada [[penyakit otoimun|penyakit]] [[Hashimoto tiroiditis]]. Penyebab lain dapat berupa:
+* Radiasi yang digunakan untuk menangani beberapa jenis [[kanker]]
+* Obat-obatan yang digunakan untuk menangani [[hipertiroidisme]]
+* [[Mutasi]] [[gen]] dengan [[ekspresi gen|ekspresi]] berupa [[tiroperoksidase]], sebuah [[enzim]] pengikat [[heme]] yang terdapat pada [[membran sel|membran]] [[tirosit]].<ref>{{en}}{{cite web
+| url          = http://www.ncbi.nlm.nih.gov/pubmed/20153806
+| title        = Genetics and phenomics of hypothyroidism and goiter due to TPO mutations
+| accessdate   = 2010-11-14
+| work         = Laboratory for Reproductive Biology, Academic Medical Center; Ris-Stalpers C, Bikker H.
+}}</ref>
+* [[Mutasi]] gen [[DEHAL1]] dengan ekspresi berupa [[iodotirosina deiodinase]], sebuah [[enzim]] yang mengambil [[molekul]] [[iodina]] dari residu [[senyawa organik|senyawa]] [[iodotirosina]] guna keperluan biosintesis [[hormon tiroid|hormon]] oleh [[kelenjar tiroid]].<ref>{{en}}{{cite web
+| url          = http://www.ncbi.nlm.nih.gov/pubmed/20298747
+| title        = Genetics and phenomics of hypothyroidism and goiter due to iodotyrosine deiodinase (DEHAL1) gene mutations
+| accessdate   = 2010-11-14
+| work         = Molecular Thyroid Laboratory, INGEMM-Institute for Medical and Molecular Genetics, La Paz University Hospital; Moreno JC, Visser TJ.
+}}</ref>
+* [[Mutasi]] gen [[THOX2]] dengan ekspresi berupa [[tiroid oksidase-2]].<ref>{{en}}{{cite web
+| url          = http://www.ncbi.nlm.nih.gov/pubmed/17121535
+| title        = Congenital hypothyroidism caused by new mutations in the thyroid oxidase 2 (THOX2) gene
+| accessdate   = 2010-11-14
+| work         = Children's Hospital of the Johannes Gutenberg University; Pfarr N, Korsch E, Kaspers S, Herbst A, Stach A, Zimmer C, Pohlenz J.
+}}</ref>
+* Tingginya rasio [[plasma darah|plasma]] [[iodotironina deiodinase]], keluarga [[enzim]] yang mempercepat [[lintasan metabolisme|lintasan]] [[katabolisme]] hormon tiroid.<ref>{{en}}{{cite web
+| url          = http://www.ncbi.nlm.nih.gov/pubmed/11844744
+| title        = Biochemistry, cellular and molecular biology, and physiological roles of the iodothyronine selenodeiodinases
+| accessdate   = 2010-11-14
+| work         = Thyroid Division, Department of Medicine, Brigham and Women's Hospital and Harvard Medical School; Bianco AC, Salvatore D, Gereben B, Berry MJ, Larsen PR.
+}}</ref>
+* Tingginya rasio plasma [[selenium]], senyawa yang menghambat aktivitas enzim iodotironina deiodinase.<ref>{{en}}{{cite web
+| url          = http://www.ncbi.nlm.nih.gov/pubmed/1379458
+| title        = The role of selenium in thyroid hormone metabolism and effects of selenium deficiency on thyroid hormone and iodine metabolism
+| accessdate   = 2010-11-18
+| work         = Division of Biochemical Sciences, Rowett Research Institute; Arthur JR, Nicol F, Beckett GJ.
+}}</ref>
+
+Beberapa gejala umum dari hipertiroidisme adalah kelelahan, [[kram otot]], [[depresi]], kepucatan, [[gondok]], [[osteoporosis]], dan kurang [[keringat]].<ref name="satu">[http://www.detikhealth.com/read/2010/04/13/191601/1337698/770/hipotiroidisme Hipotiroidisme], 13 April 2010.</ref>
+
+Hipotiroidisme dapat menyebabkan komplikasi dengan [[hipogonadisme]], ''chronic progressive external ophthalmoplegia'' (CPEO), [[lemah otot]], [[atrofi]], [[laktikasidemia]] dan [[piruvikasidemia]], yang diduga disebabkan oleh disfungsi [[sitokrom]].<ref>{{en}}{{cite web
+| url          = http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1032671
+| title        = Endocrine involvement in mitochondrial encephalomyopathy with partial cytochrome c oxidase deficiency
+| accessdate   = 2010-11-17
+| work         = Clinica Neurologica II, Universita di Torino, Clinica Neurologica, Centro Dino Ferrari, Universitai di
+Milano, Servizio di Endocrinologia Pediatrica, Ospedale Infantile Regina Margherita, C DORIGUZZI, L PALMUCCI, T MONGINI, N BRESOLIN, L BET, G COMI, R LALA
+}}</ref> Dari data hasil [[biopsi]] pada [[sel otot]], diketahui terjadi 50% defisiensi [[oksidase CC|COX]] dengan 58% penurunan [[cyt.aa3]] dan 41% penurunan [[cyt.b]].
+
+Pada [[jantung]], penderita hipotiroidisme mengalami penurunan denyut jantung, penurunan daya kontraksi dan fungsi diastolik, penurunan output kardiak dan peningkatan resistansi vaskular sistemik; yang menyebabkan peningkatan [[tekanan diastolik]] dan penurunan [[tekanan sistolik]].<ref>{{en}}{{cite web
+| url          = http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2820686
+| title        = The role of thyroid hormone nuclear receptors in the heart: evidence from pharmacological approaches
+| accessdate   = 2011-06-12
+| work         = Department of Endocrinology and Metabolism, Academic Medical Center, University of Amsterdam; Wilmar M. Wiersinga
+}}</ref> Oleh karena terjadi peningkatan [[serum darah|serum]] [[kolesterol]], penderita menjadi lebih rentan terhadap [[aterosklerosis]] dan [[penyakit jantung koroner]].
+
+== Klasifikasi ==
+Hipotiroidisme terbagi menjadi tipe primer, yang disebabkan oleh kurangnya fungsi kelenjar tiroid; dan tipe sekunder yang disebabkan oleh kurangnya pasokan hormon [[tirotropin|TSH]] dari [[sekresi]] [[kelenjar]] [[hipofisis]], atau kurangnya pasokan hormon [[tiroliberin|TRH]] hasil sekresi kelenjar [[hipotalamus]].<ref name="PMC2895281" />
+
+=== Primer ===
+Kondisi primer dapat disebabkan oleh konsumsi obat-obatan seperti [[amiodaron]] dan [[litium]], [[sitokina]] [[interferon-]] dan penghambat [[tirosina kinase]] seperti [[Sunitinib]] yang sering digunakan dalam pengobatan [[kanker]]. Bayi juga dapat mengalami kondisi primer, yang disebut ''congenital hypothyroidism'' akibat agenesis atau disgenesis kelenjar tiroid oleh karena asupan obat anti-tiroid pada ibu [[hipertiroidisme|hipertiroid]] yang sedang [[hamil|mengandung]].
+
+Kondisi primer juga dapat dialami oleh para ibu pada masa 1 tahun setelah melahirkan, oleh karena peningkatan [[antibodi]] anti-tiroid setelah persalinan. Hal ini lazim disebut ''postpartum thyroiditis''. Pada kondisi ini, ibu akan mengalami hipertiroidisme ringan segera setelah persalinan, kemudian lambat laun kondisi akan bergeser menjadi hipotiroidisme yang dapat bertahan dengan jangka 6 bulan hingga lebih dari 4 tahun.
+
+==Pengobatan==
+Hipotiroidisme memiliki efek yang biasanya lebih ringan daripada [[hipertiroidisme]] dan dapat dengan mudah diobati dengan obat oral.
+
+== Referensi ==
+<references />
+
+[[Kategori:Istilah kedokteran]]
+
+
+{{Biokimia-stub}}

@@ -1,0 +1,70 @@
+Daftar Presiden Niger
+Berikut adalah '''daftar [[presiden]] [[Niger]]'''.
+
+<small>(Tulisan miring menandakan keberlanjutan pemerintahan secara ''de facto'')</small>
+
+{| border=1 style="border-collapse: collapse"
+|- align=left
+! width="5%"|No
+! width="25%"|Pejabat
+! width="18%"|Mulai Jabatan
+! width="18%"|Akhir Jabatan
+! width="10%"|[[#Afiliasi:-|Afiliasi]]
+! width="20%"|Catatan
+|- valign=top bgcolor="#ffffec"
+||1||'''[[Hamani Diori]]''', <small>Presiden||<small>[[10 November]] [[1960]]||<small>[[15 April]] [[1974]]||<small>PPN-RDA||&nbsp;
+|- valign=top bgcolor="#ffffec"
+||2||'''[[Seyni Kountch]]''', <small>Presiden Dewan Tertinggi Militer||<small>[[17 April]] [[1974]]||<small>[[10 November]] [[1987]]||<small>Militer||&nbsp;
+|- valign=top bgcolor="#ffffec"
+|rowspan=3|3||'''[[Ali Sabou]]''', <small>Presiden Dewan Tertinggi Militer||<small>[[10 November]] [[1987]]||<small>''[[17 Mei]] [[1989]]''||<small>Militer||<small>Sementara sampai dengan [[14 November]] [[1987]]
+|- valign=top bgcolor="#ffffec"
+||'''[[Ali Sabou]]''', <small>Presiden Dewan Tertinggi untuk Orientasi Nasional||<small>''[[17 Mei]] [[1989]]''||<small>''[[20 Desember]] [[1989]]''||<small>Militer||&nbsp;
+|- valign=top bgcolor="#ffffec"
+||'''[[Ali Sabou]]''', <small>Presiden||<small>''[[20 Desember]] [[1989]]''||<small>[[27 Maret]] [[1993]]||<small>MNSD||&nbsp;
+|- valign=top bgcolor="#ffffec"
+||4||'''[[Mahamane Ousmane]]''', <small>Presiden||<small>[[27 Maret]] [[1993]]||<small>[[27 Januari]] [[1996]]||<small>CDS-Rahama||<small>Presiden terpilih pertama dalam sistem demokratis
+|- valign=top bgcolor="#ffffec"
+|rowspan=2|5||'''[[Ibrahim Bar Manassara]]''', <small>Presiden Dewan Tertinggi untuk Keselamatan Nasional||<small>[[27 Januari]] [[1996]]||<small>[[7 Agustus]] [[1996]]||<small>Militer||&nbsp;
+|- valign=top bgcolor="#ffffec"
+||'''[[Ibrahim Bar Manassara]]''', <small>Presiden||<small>[[7 Agustus]] [[1996]]||<small>[[9 April]] [[1999]]||<small>UNIRD||&nbsp;
+|- valign=top bgcolor="#ffffec"
+||6||'''[[Daouda Malam Wank]]''', <small>Presiden Dewan Tertinggi untuk Rekonsiliasi Nasional||<small>[[11 April]] [[1999]]||<small>[[22 Desember]] [[1999]]||<small>Militer||&nbsp;
+|- valign=top bgcolor="#ffffec"
+||7||'''[[Mamadou Tandja]]''', <small>Presiden||<small>[[22 Desember]] [[1999]]||<small>[[18 Februari]] [[2010]]||<small>MNSD-Nassara||<small>Terpilih kembali pada [[2004]], Digulingkan dan ditangkap lewat [[Kudeta Niger 2010|kudeta]]
+|- valign=top bgcolor="#ffffec"
+||8||'''[[Salou Djibo]]''', <small>Ketua Dewan Tertinggi untuk Pemulihan Demokrasi||<small>[[18 Februari]] [[2010]]||<small>[[7 April]] [[2011]]||<small>Militer||
+|- valign=top bgcolor="#ffffec"
+||9||'''[[Mahamadou Issoufou]]''', <small>Presiden||<small>[[7 April]] [[2011]]||<small>masih menjabat||<small>PNDS-Tarayya||
+|}
+
+== Afiliasi ==
+<br clear=all>
+{| style="margin:0 auto;" class="toccolours" cellpadding=1
+|- 
+! width="7%"|
+! width="40%"|
+|- valign=top
+|rowspan="2" |<small>'''CDS-Rahama'''||<small>'''Convention Dmocratique et Sociale-Rahama''' 
+|- valign=top
+|<small>([[Democratic and Social Convention-Rahama]]) 
+|-valign=top
+|rowspan="2"|<small>'''MNSD'''||<small>'''Mouvement National de la Societ de Dveloppement''' 
+|- valign=top
+|<small>([[National Movement for the Development of Society]]) ''only legal party [[1989]]-[[1990]]''
+|-valign=top
+|rowspan="2"|<small>'''MNSD-Nassara'''||<small>'''Mouvement National de la Societ de Dveloppement-Nassara''' 
+|- valign=top
+|<small>([[National Movement for the Development of Society-Nassara]]) ''center-right''
+|- valign=top
+|rowspan="2" |<small>'''PPN-RDA'''||<small>'''Parti Progressiste Nigrien-Rassemblement Dmocratique Africain''' 
+|- valign=top
+|<small>([[Nigerien Progressive Party-African Democratic Rally]]) ''only legal party [[1960]]-[[1974]]''
+|- valign=top
+|rowspan="2" |<small>'''UNIRD'''||<small>'''Union Nationale des Indpendants pour la Renoveau Dmocratique''' 
+|- valign=top
+|<small>([[National Union of Independents for Democratic Renewal]]) ''authoritarian''
+|-
+| colspan=2 align=right | <small>{{ed|Political Affiliations: Niger|kotak ini}}</small>
+|}
+
+{{daftar pemimpin negara|jabatan=Presiden|negara=Niger|stub=y}}

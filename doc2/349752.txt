@@ -1,0 +1,21 @@
+Templat:Sukau, Lampung Barat
+{{Navigasi ID Desa 
+|provinsi=Lampung
+|dati2=Kabupaten 
+|nama dati2=Lampung Barat
+|nama kecamatan=Sukau
+|desa/kelurahan=Pekon
+|d1=Bandar Baru
+|d2=Buay Nyerupa
+|d3=Bumi Jaya
+|d4=Hanakau
+|d5=Jaga Raga
+|d6=Pagar Dewa
+|d7=Suka Mulya
+|d8=Tanjung Raya
+|d9=Tapak Siring
+|d10=Teba Pering Raya
+}}<noinclude>
+[[Kategori:Templat pekon di Lampung|{{PAGENAME}}]]
+[[Kategori:Templat pekon di Kabupaten Lampung Barat|{{PAGENAME}}]]
+</noinclude>

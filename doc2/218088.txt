@@ -1,0 +1,128 @@
+Program Penilaian Pelajar Internasional
+'''Program Penilaian Pelajar Internasional''' ([[Bahasa Inggris]]: ''Program for International Student Assessment'', disingkat PISA) adalah penilaian tingkat dunia yang diselenggarakan tiga-tahunan, untuk menguji performa akademis anak-anak sekolah yang berusia 15 tahun, dan penyelenggaraannya dilaksanakan oleh [[Organisasi untuk Kerjasama dan Pengembangan Ekonomi]] (OECD). Tujuan dari studi PISA adalah untuk menguji dan membandingkan prestasi anak-anak sekolah di seluruh dunia, dengan maksud untuk meningkatkan metode-metode pendidikan dan hasil-hasilnya.
+
+== Survey 2006 ==
+Berikut ini adalah tinjauan hasil 20 besar untuk tahun 2006: 
+{|width="50%" class=wikitable
+|-
+!
+!Matematika
+!Sains
+!Membaca
+|-
+|1. 
+|{{flagcountry|Taiwan}}
+|{{flagcountry|Finland}}
+|{{flagcountry|South Korea}}
+|-
+|2.
+|{{flagcountry|Finland}}
+|{{flagcountry|Hong Kong}}
+|{{flagcountry|Finland}}
+|-
+|3.
+|{{flagcountry|Hong Kong}}
+|{{flagcountry|Canada}}
+| nowrap |{{flagcountry|Hong Kong}} 
+|-
+|4.
+|{{flagcountry|South Korea}}
+|{{flagcountry|Taiwan}}
+|{{flagcountry|Canada}}
+|-
+|5.
+|{{flagcountry|Netherlands}}
+|{{flagcountry|Estonia}}
+|{{flagcountry|New Zealand}}
+|-
+|6.
+|{{flagcountry|Switzerland}}
+|{{flagcountry|Japan}}
+|{{flag|Republik Irlandia|name=Irlandia}}
+|-
+|7.
+|{{flagcountry|Canada}}
+|{{flagcountry|New Zealand}}
+|{{flagcountry|Australia}}
+|-
+|8.
+|{{flag|Makau|name=Makau}}
+|{{flagcountry|Australia}}
+|{{flagcountry|Liechtenstein}}
+|-
+|9.
+|{{flagcountry|Liechtenstein}}
+|{{flagcountry|Netherlands}}
+|{{flagcountry|Poland}}
+|-
+|10.
+|{{flagcountry|Japan}}
+|{{flagcountry|Liechtenstein}}
+|{{flagcountry|Sweden}}
+|-
+|11.
+|{{flagcountry|New Zealand}}
+|{{flagcountry|South Korea}}
+|{{flagcountry|Netherlands}}
+|-
+|12.
+|{{flagcountry|Belgium}}
+|{{flagcountry|Slovenia}}
+|{{flagcountry|Belgium}}
+|-
+|13.
+|{{flagcountry|Australia}}
+|{{flagcountry|Germany}}
+|{{flagcountry|Estonia}}
+|-
+|14.
+|{{flagcountry|Estonia}}
+|{{flagcountry|United Kingdom}}
+|{{flagcountry|Switzerland}}
+|-
+|15.
+|{{flagcountry|Denmark}}
+|{{flagcountry|Czech Republic}}
+|{{flagcountry|Japan}}
+|-
+|16.
+|{{flagcountry|Czech Republic}}
+|{{flagcountry|Switzerland}}
+|{{flagcountry|Taiwan}}
+|-
+|17.
+|{{flagcountry|Iceland}}
+|{{flag|Makau|name=Makau}}
+|{{flagcountry|United Kingdom}}
+|-
+|18.
+|{{flagcountry|Austria}}
+|{{flagcountry|Austria}}
+|{{flagcountry|Germany}}
+|-
+|19.
+|{{flagcountry|Slovenia}}
+|{{flagcountry|Belgium}}
+|{{flagcountry|Denmark}}
+|-
+|20.
+|{{flagcountry|Germany}}
+|{{flag|Republik Irlandia|name=Irlandia}}
+|{{flagcountry|Slovenia}}
+|-
+|}
+
+== Sumber eksternal ==
+=== Referensi ===
+* Rindermann, Heiner (2007). The g-factor of international cognitive ability comparisons: the homogeneity of results in PISA, TIMSS, PIRLS and IQ-tests across nations. ''European Journal of Personality, 21'', 667-706 [http://groups.uni-paderborn.de/rindermann/materialien/PublikationsPDFs/07EJP.pdf]
+* Weiss, Volkmar (2009). National IQ means transformed from PISA Scores. ''The Journal of Social, Political and Economic Studies, 34'', 71-94 [http://mpra.ub.uni-muenchen.de/14600/]
+* Wu, M.L. (2008). A Comparison of PISA and TIMSS 2003 achievement results in Mathematics. Paper presented at the AERA Annual Meeting, New York, March, 2008.
+* Armin von Bogdandy, Matthias Goldmann: ''The Exercise of International Public Authority through National Policy Assessment. The OECDs PISA Policy as a Paradigm for a New International Standard Instrument.'' In: International Organizations Law Review 5, 241-298 (2008 (2009)), online available as [http://www.mpil.de/shared/data/pdf/iilj_working_paper_2009-2bogdandy-goldmann.pdf NYU Institute for International Law and Justice Working Paper].
+
+=== Pranala luar ===
+Situs resmi dan laporan internasional:
+* [http://www.pisa.oecd.org OECD/Situs PISA] (dibutuhkan skrip Java)
+** ''[http://www.pisa.oecd.org/document/2/0,3343,en_32252351_32236191_39718850_1_1_1_1,00.html Science Competencies for Tomorrow's World: Results from PISA 2006]
+** ''[http://www.oecd.org/document/56/0,2340,en_2649_201185_34016248_1_1_1_1,00.html Learning for Tomorrow's World: First results from PISA 2003]''
+
+[[Kategori:Pendidikan]]

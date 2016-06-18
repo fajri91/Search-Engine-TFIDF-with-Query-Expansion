@@ -1,0 +1,34 @@
+Templat:MRT locator map/doc
+{{documentation subpage}}
+<!---PLEASE ADD METADATA TO THE <includeonly> SECTION AT THE BOTTOM OF THIS PAGE.--->
+==Usage==
+
+<code><nowiki>{{MRT locator map| station name | text after station name (optional) | px=300 (optional) }}</nowiki></code>
+
+For stations with different filenames for the map (e.g. Botanic Gardens filename is Adam), add the corresponding line in the template. E.g:
+
+<code><nowiki> | Botanic Gardens=Adam</nowiki></code>
+
+Examples:
+
+<code><nowiki>{{MRT locator map|Botanic Gardens}}</nowiki></code>
+
+gives
+
+{{MRT locator map|Botanic Gardens}}
+
+and
+
+<code><nowiki>{{MRT locator map|Sengkang|Town Centre Station in the North East|px=250}}</nowiki></code>
+
+gives
+
+{{MRT locator map|Sengkang|Town Centre Station in the North East|px=250}}
+<!--
+==See also==
+-->
+
+<includeonly>
+[[Category:Singapore rail transport templates|MRT]]
+
+</includeonly>

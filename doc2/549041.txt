@@ -1,0 +1,19 @@
+Templat:Sepatan, Tangerang
+{{Navigasi ID Desa 
+| provinsi	= Banten
+| dati2		= Kabupaten
+| nama dati2	= Tangerang
+| nama kecamatan= Sepatan
+|d1= Karet
+|d2= Kayuagung
+|d3= Kayu Bongkok
+|d4= Mekar Jaya
+|d5= Pisangan Jaya
+|d6= Pondok Jaya
+|d7= Sarakan
+|k1= Sepatan
+}}
+<noinclude>
+[[Kategori:Templat desa/kelurahan di Banten|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Tangerang|{{PAGENAME}}]]
+</noinclude>

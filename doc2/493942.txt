@@ -1,0 +1,103 @@
+Templat:Kotak info barium
+{{Elementbox
+|name=barium
+|number=56
+|symbol=Ba
+|pronounce={{IPAc-en||b|r|i|m}} {{respell|BAIR|ee-m}}
+|left=[[sesium]]
+|right=[[lantanum]]
+|above=[[Stronsium|Sr]]
+|below=[[Radium|Ra]]
+|series= logam alkali tanah
+|series comment=
+|group=2
+|period=6
+|block=s
+|series color=
+|phase color=
+|appearance=abu-abu perak
+|image name=Barium unter Argon Schutzgas Atmosphre.jpg
+|image name comment=
+|image name 2=
+|image name 2 comment=
+|atomic mass=137.33
+|atomic mass 2=
+|atomic mass comment=
+|electron configuration=&#91;[[xenon|Xe]]&#93; 6s<sup>2</sup>
+|electrons per shell=2, 8, 18, 18, 8, 2
+|color=
+|phase=solid
+|phase comment=
+|density gplstp=
+|density gpcm3nrt=3.51
+|density gpcm3mp=3.338
+|melting point K=1000
+|melting point C=727
+|melting point F=1341
+|boiling point K=2170
+|boiling point C=1897
+|boiling point F=3447
+|triple point K=
+|triple point kPa=
+|critical point K=
+|critical point MPa=
+|heat fusion=7.12
+|heat vaporization=140.3
+|heat capacity=28.07
+|vapor pressure 1=911
+|vapor pressure 10=1038
+|vapor pressure 100=1185
+|vapor pressure 1 k=1388
+|vapor pressure 10 k=1686
+|vapor pressure 100 k=2170
+|vapor pressure comment=
+|crystal structure=body-centered cubic
+|oxidation states='''+2'''
+|oxidation states comment=oksida [[basa]] kuat
+|electronegativity=0.89
+|number of ionization energies=3
+|1st ionization energy=502.9
+|2nd ionization energy=965.2
+|3rd ionization energy=3600
+|atomic radius=[[1 E-10 m|222]]
+|covalent radius=[[1 E-10 m|21511]]
+|Van der Waals radius=[[1 E-10 m|268]]
+|magnetic ordering=[[paramagnetisme|paramagnetik]]
+|electrical resistivity=
+|electrical resistivity at 0=
+|electrical resistivity at 20=332 n
+|thermal conductivity=18.4
+|thermal conductivity 2=
+|thermal diffusivity=
+|thermal expansion=
+|thermal expansion at 25=20.6
+|speed of sound=
+|speed of sound rod at 20=1620
+|speed of sound rod at r.t.=
+|Young's modulus=13
+|Shear modulus=4.9
+|Bulk modulus=9.6
+|Poisson ratio=
+|Mohs hardness=1.25
+|Vickers hardness=
+|Brinell hardness=
+|CAS number=7440-39-3
+|isotopes=
+{{Elementbox_isotopes_stable | mn=130 | sym=Ba | na=0.106% | n=74 }}
+{{Elementbox_isotopes_stable | mn=132 | sym=Ba | na=0.101% | n=76 }}
+{{Elementbox_isotopes_decay | mn=133 | sym=Ba
+ | na=[[radioisotope sintetik|syn]] | hl=10.51 [[tahun|y]]
+ | dm=[[electron capture|]] | de=0.517 | pn=133 | ps=[[sesium|Cs]] }}
+{{Elementbox_isotopes_stable | mn=134 | sym=Ba | na=2.417% | n=78 }}
+{{Elementbox_isotopes_stable | mn=135 | sym=Ba | na=6.592% | n=79 }}
+{{Elementbox_isotopes_stable | mn=136 | sym=Ba | na=7.854% | n=80 }}
+{{Elementbox_isotopes_stable | mn=137 | sym=Ba | na=11.23% | n=81 }}
+{{Elementbox_isotopes_stable | mn=138 | sym=Ba | na=71.7% | n=82 }}
+|isotopes comment=
+}}<noinclude>[[Category:Templat kotak info tabel periodik|Barium]]
+
+
+
+
+
+</noinclude>

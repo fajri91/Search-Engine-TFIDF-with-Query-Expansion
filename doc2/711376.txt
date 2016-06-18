@@ -1,0 +1,34 @@
+Neoscona biswasi
+{{Taxobox
+|name = Neoscona biswasi
+|status = 
+|image = 
+|image_caption = 
+|domain = 
+|regnum = [[Animalia]]
+|phylum = [[Arthropoda]]
+|classis = [[Arachnida]]
+|ordo = [[Araneae]]
+|familia = [[Araneidae]]
+|species = Neoscona biswasi
+|binomial = Neoscona biswasi
+|binomial_authority =Bhandari & Gajbe, 2001
+|range_map = 
+|range_map_caption = 
+|image2 = 
+|image2_caption = 
+|synonyms = 
+}}
+'''''Neoscona biswasi''''' adalah spesies [[laba-laba]] yang tergolong [[familia]] [[Araneidae]]. Spesies ini juga merupakan bagian dari ordo [[Araneae]]. Nama ilmiah dari spesies ini pertama kali diterbitkan pada tahun 2001 oleh Bhandari & Gajbe.
+
+Laba-laba ini biasanya banyak ditemui di India.
+
+== Referensi ==
+
+* {{aut|Platnick, Norman I.}} (2010): [http://research.amnh.org/entomology/spiders/catalog/index.html ''The world spider catalog''], versi 10.5. ''[[American Museum of Natural History]]''.
+
+{{DEFAULTSORT:Neoscona biswasi}}
+
+[[Kategori:Araneidae]]
+
+{{labalaba-stub}}

@@ -1,0 +1,27 @@
+Sefamisin
+[[Berkas:Cefoxitin.svg|thumb|300px|[[Sefoksitin]]]]
+[[Berkas:Cefotetan.svg|thumb|300px|[[Sefotetan]]]]
+[[Berkas:Cefmetazole.svg|thumb|300px|[[Sefmetazol]]]]
+'''Sefamisin''' adalah kelompok [[antibiotik beta-laktam]]. Mereka sama seperti [[sefalosporin]], dan sefamisin kadang dikelompokkan sebagai sefalosporin.
+
+Seperti sefalosporin, sefamisin didasarkan pada nukleus [[sefem]]. Tidak seperti sebagian besar sefalosporin, sefamisin adalah antibiotik yang sangat manjur melawan mikroba anaerobik.
+
+Sefamisin awalnya dihasilkan oleh ''[[Streptomyces]]'' dan saat ini tersedia pula versi sintetiknya.
+
+Sefamisin memiliki kelompok metoksi di posisi 7-alpha.<ref name="isbn1-55581-258-9">{{cite book|author=Oreste A. Mascaretti|title=Bacteria Versus Antibacterial Agents: An Integrated Approach|publisher=American Society Microbiology|location=|year=2003|pages=144|isbn=1-55581-258-9|oclc=|doi=|accessdate=}}</ref>
+
+==Contoh==
+Sefamisin terdiri dari:
+* [[Sefoksitin]]<ref name="pmid279853">{{cite journal |author=Little PJ, Peddie BA |title=Clinical use of cefoxitin, a new semisynthetic cephamycin |journal=N. Z. Med. J. |volume=88 |issue=616 |pages=469 |year=1978 |month=July |pmid=279853 |doi= |url=}}</ref>
+* [[Sefotetan]]<ref name="pmid6404881">{{cite journal |author=Clarke AM, Zemcov SJ |title=Antibacterial activity of the cephamycin cefotetan: an in-vitro comparison with other beta-lactam antibiotics |journal=J. Antimicrob. Chemother. |volume=Suppl |issue= |pages=6772 |series=11 |year=1983 |month=January |pmid=6404881 |doi= |url=}}</ref>
+* [[Sefmetazol]]<ref name="pmid6958672">{{cite journal |author=Benlloch M, Torres A, Soriano F |title=Cefmetazole (CS-1170): a new cephamycin with activity against gram-negative bacilli and staphylococci |journal=J. Antimicrob. Chemother. |volume=10 |issue=4 |pages=34750 |year=1982 |month=October |pmid=6958672 |doi= 10.1093/jac/10.4.347|url=http://jac.oxfordjournals.org/cgi/pmidlookup?view=long&pmid=6958672}}</ref>
+* [[Flomoksef]]
+
+==Catatan kaki==
+{{reflist|2}}
+
+{{Antibiotik sefalosporin}}
+
+[[Kategori:Antibiotik sefalosporin]]
+
+{{antibiotik-stub}}

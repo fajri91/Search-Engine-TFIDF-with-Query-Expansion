@@ -1,0 +1,67 @@
+Templat:Hermosillo broadcast television
+{{Navbox
+|name = Mexican broadcast television
+|title =  [[Jaringan televisi|Jaringan televisi]] [[Televisi terestrial|terestrial]] [[Hermosillo|di Hermosillo]]
+|listclass = hlist
+
+|group1 = [[Televisa]]
+|list1 = {{Navbox subgroup
+
+|group1 = 
+|list1 = 
+* [[XHHMA-TV|XHHMA]] (2 [[Gala TV (Meksiko)|Gala TV]])
+* [[XHAK-TV|XHAK]] (12 Canal 12)
+* [[XHHES-TV|XHHES]] (23 [[Canal de las Estrellas]])
+* [[XHHMS-TV|XHHMS]] (29 [[Canal 5 (jaringan Televisa)|Canal 5]])
+|group2= 
+|list2 =
+* 
+}}
+
+|group2 = [[TV Azteca]]
+|list2 = {{Navbox subgroup
+
+|group1 = 
+|list1 =
+* [[XHHSS-TV|XHHSS]] (4 [[Azteca Trece|Azteca 13]])
+* [[XHHO-TV|XHHO]] (10 [[Azteca 7]])
+|group2 = 
+|list2 = 
+}}
+
+|group3 = Televisora de Hermosillo
+|list3 = {{Navbox subgroup
+
+|group1 = 
+|list1 =
+* [[XEWH-TV|XEWH]] (6 Telemax) 
+|group2 = 
+|list2 = 
+}}
+
+|group4 = [[Universidad de Sonora]]
+|list4 = {{Navbox subgroup
+
+|group1 = 
+|list1 =
+* [[XHUS-TV|XHUS]] (8 TV Universitaria) 
+|group2 = [[Universidad de Sonora]]
+|list2 = 
+}}
+
+|group5 = Sistema Pblico de Radiodifusin de Mxico
+|list5 = {{Navbox subgroup
+
+|group1 = 
+|list1 =
+* [[XHOPHA-TV|XHOPHA]] (27.1 Canal Once)   (27.2 [[XHOPMA-TDT|Una Voz con Todos]])   (27.3 [[XEIMT-TV|Canal 22]])   (27.4 Ingenio TV)  (27.5 TV UNAM)
+|group2 = Sistema Pblico de Radiodifusin de Mxico
+|list2 = 
+}}
+
+<!-- MVS is not a broadcast network, it does not have a single open air television station in Mexico-->
+<!-- Do not add pay TV channels, this list is only for open air television broadcast networks-->
+|below = ''Lihat pula [[Daftar stasiun televisi di Meksiko]] dan [[Daftar jaringan televisi Meksiko]].''
+}}<noinclude>
+[[Category:Templat navigasi televisi]]
+</noinclude>

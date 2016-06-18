@@ -1,0 +1,49 @@
+Kereta Rel Listrik Indonesia
+{{Infobox train
+| name             = Kereta Rel Listrik Indonesia (KRL-I)
+| image            = KRLI.jpg
+| caption          = KRL-I di [[Stasiun Manggarai]]
+| service          = Tidak
+| manufacturer     = [[PT INKA]]
+| yearconstruction = 2001
+| yearservice      = 2003-2012 (disimpan)
+| numberbuilt      = 8 unit (2 set)
+| operator         = [[PT KAI Commuter Jabodetabek]]
+| lines            = [[KA Commuter Jabodetabek]]
+
+| electricsystem   = 1.500 V DC
+| collectionmethod = Pantograf
+| gauge            = {{RailGauge|1067}}
+| doors = 3 pintu di setiap sisi
+| formation = 4 kereta per set
+| maxspeed = 120 km/jam
+| transmission = Static Inverter (SIV)
+| coupling = Automatic tight locked coupler, Bar coupler AAR No. 10A Contour
+|multipleworking = Sesama KRL-I|powersupply = Listrik Aliran Atas (LAA)|safety = TMS dan Deadman Control|width = 2.990 mm|height = 3.820 mm|brakes = Electropneumatic Regenerative Brake|carlength = 20.000 mm|traction = VVVF-IGBT}}
+'''Kereta Rel Listrik Indonesia (KRL-I)''' adalah [[kereta rel listrik]] AC yang pernah beroperasi di lintas KA Commuter [[Jabodetabek]]. KRL ini diproduksi oleh [[PT Industri Kereta Api|PT INKA]] pada tahun 2001 yang kemudian digunakan untuk operasional KRL AC [[kereta api Prajayana|Prajayana]]. KRL ini merupakan produk KRL AC pertama PT INKA yang berupa rangkaian purwarupa (prototipe) yang menjadi desain acuan untuk produk KRL PT INKA selanjutnya, yaitu [[kereta rel listrik i9000|KRL i9000]] (KRL KfW).<ref name="mka">Majalah KA Edisi Juni 2014</ref>
+
+KRL dengan teknologi ''Variable Voltage Variable FrequencyInsulated Gate Bipolar Transistor'' (VVVF-IGBT) ini dibuat sebanyak 8 unit dengan formasi 4 kereta per setnya.
+
+== Operasional KRL-I ==
+KRL ini selalu beroperasi dengan rangkaian tunggal (1 set) sejak awal beroperasi hingga saat ini. Set pertama (TS1) dioperasikan pada tanggal 17 Februari 2003, dahulu berwarna jingga dan sering beroperasi untuk [[Kereta api Serpong Ekspres|KRL Serpong Ekspres]] lintas [[Stasiun Serpong|Serpong]]-[[Stasiun Tanahabang|Tanah Abang]]-[[Stasiun Manggarai|Manggarai]] pp. Set kedua (TS2) dioperasikan pada tanggal 16 Maret 2003, dengan tampilan warna wajah hijau dan ungu yang beroperasi untuk [[Kereta api Bogor Ekspres|KRL Bogor Ekspres]] lintas [[Stasiun Bogor|Bogor]]-[[Stasiun Tanahabang|Tanah Abang]] pp.
+
+Pada tanggal 30 November 2007, KRL ini beralih fungsi menjadi KRL Ekonomi AC lingkar Ciliwung lintas [[Stasiun Manggarai|Manggarai]]-[[Stasiun Tanahabang|Tanah Abang]]-[[Stasiun Kampung Bandan|Kampungbandan]]-[[Stasiun Pasarsenen|Pasarsenen]]-[[Stasiun Jatinegara|Jatinegara]]-[[Stasiun Manggarai|Manggarai]] dan sebaliknya. Tampilan dua trainset KRL ini pun seketika berubah, menjadi warna biru sesuai namanya, Ciliwung Blue Line secara bertahap. Namun, mulai tahun 2011, seiring berlakunya pola operasi ''loop line'' Jabodetabek, KRL ini tak lagi mengelilingi seluruh Jakarta. KRL ini menjadi KRL pengumpan (Feeder) lintas [[Stasiun Kampung Bandan|Kampungbandan]]-[[Stasiun Jakarta Kota|Jakarta Kota]] dan [[Stasiun Manggarai|Manggarai]]-[[Stasiun Tanahabang|Tanah Abang]]-[[Stasiun Kampung Bandan|Kampungbandan]]-[[Stasiun Jakarta Kota|Jakarta Kota]] pp.
+
+Saat ini kedua set KRL-I tidak ada yang beroperasi karena gangguan teknis yang kerap terjadi, dan hanya disimpan di Balai Yasa Manggarai.
+
+== Daftar rangkaian<ref name="mka"/> ==
+* TS1: 01B0105 - 01B0206 - 01B0207 - 01B0108
+* TS2: 01B0101 - 01B0202 - 01B0203 - 01B0104
+
+== Lihat pula ==
+* [[Kereta api Prajayana]]
+
+== Referensi ==
+{{reflist}}
+
+== Pranala luar ==
+* {{id}} [http://www.krl.co.id Situs web resmi KRL]
+
+{{KA Commuter Jabodetabek}}
+{{kereta-stub}}
+[[Kategori:Kereta rel listrik]]

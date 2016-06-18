@@ -1,0 +1,22 @@
+Berkas:Rembrandt Artiest in zijn studio, 1629..jpg
+{{Information
+|description    = == {{int:filedesc}} ==
+{{Information
+|description    = 
+|source         = {{dari|en}}
+|source         = (sumber)
+|date           = (tanggal)
+|location       = (tempat; opsional)
+|author         = (pembuat)
+|permission     = 
+|other_versions = 
+}}
+== {{int:license-header}} ==
+{{PD-old}}
+|source         = 
+|date           = 
+|location       = 
+|author         = 
+|permission     = 
+|other_versions = 
+}}

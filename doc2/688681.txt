@@ -1,0 +1,20 @@
+Templat:Muara Batang Toru, Tapanuli Selatan
+{{Navigasi ID Desa
+|provinsi=Sumatera Utara
+|dati2=Kabupaten
+|nama dati2=Tapanuli Selatan
+|nama kecamatan=Muara Batang Toru
+|d1=Bandar Hanipis
+|k1=Huta Raja
+|k2=Muara Ampolu
+|d2=Muara Huta Raja
+|k3=Muara Manompas
+|d3=Muara Upu
+|d4=Pardamean
+|d5=Simarlelan
+|d6=Terapung Raya
+}}
+<noinclude>
+[[Kategori:Templat desa/kelurahan di Sumatera Utara|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Tapanuli Selatan|{{PAGENAME}}]]
+</noinclude>

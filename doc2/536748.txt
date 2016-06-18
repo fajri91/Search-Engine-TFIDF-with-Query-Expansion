@@ -1,0 +1,126 @@
+Templat:Evolusi
+{{Navbox
+|name   = Evolusi
+|state  = {{{state|}}}
+|title  = Topik dasar tentang [[biologi evolusioner]]
+|above  = [[Bukti nenek moyang bersama]]
+|bodyclass = hlist
+
+|group1 = Proses-proses dari [[evolusi]]
+|list1  = 
+* [[Adaptasi]]
+* [[Makroevolusi]]
+* [[Mikroevolusi]]
+* [[Spesiasi]]
+
+|group2 = Mekanisme [[populasi genetik]]
+|list2  =  
+* [[Aliran gen]]
+* [[Hanyutan genetik]]
+* [[Mutasi]]
+* [[Seleksi alam]]
+
+|group3 = Konsep [[Perkembangan biologi evolusioner|perkembangan biologi evolusioner]] (Evo-devo)
+|list3  = 
+* [[Kanalisasi (genetik)|Kanalisasi]]
+* [[Inversi (biologi evolusioner)|Inversi]]
+* [[Modularitas (biologi)|Modularitas]]
+* [[Plastisitas fenotip]]
+
+|group4= Evolusi [[Struktur sosial|struktur sosial]]<br>dan proses psikologis  
+|list4= 
+* [[Evolusi sosial budaya|Budaya]]
+* [[Evolusi emosi|Emosi]]
+* [[Evolusi eusosialitas|Eusosialitas]]
+* [[Evolusi inteligensi manusia|Inteligensi manusia]]
+** [[Evolusi skizofrenia|Skizofrenia]]
+* [[Asal mula bahasa|Bahasa]]
+* [[Evolusi moralitas|Moralitas]]
+* [[Evolusi asal mula agama|Agama]]
+
+|group5= Evolusi [[Organ (anatomi)|organ]]<br>dan proses biologis  
+|list5= 
+* [[Evolusi penuaan|Penuaan]]
+* [[Asal mula terbangnya burung|Burung terbang]]
+* [[Evolusi kompleksitas biologis|Kompleksitas biologis]]
+* [[Evolusi sel|Selular]]
+* [[Evolusi melihat warna|Melihat warna]]
+** [[Evolusi melihat warna pada primata|Penglihatan warna pada primata]]
+* [[Model dari evolusi DNA|DNA]]
+* [[Eukariota#Asal mula eukariota|Sel eukariota]] 
+** [[Kromosom#Evolusi kromosom eukariota|Kromatin]]
+* [[Sistem endomembran#Evolusi|Sistem endomembran]]
+* [[Evolusi mata|Mata]]
+* [[Evolusi flagela|Flagela]]
+* [[Evolusi rambut|Rambut]]
+* [[Mitokondria#Asal mula|Mitokondria]]
+* [[Evolusi multiselular|Multiselular]]
+* [[Evolusi tulang lunak auditori mamalia|Tulang lunak pendengaran mamalia]]
+* [[Evolusi mosaik]]
+* [[Evolusi sistem saraf|Sistem saraf]]
+** [[Evolusi otak|Otak]]
+* [[Sel nukleus#Evolusi|Nukleus]]
+* [[Plastid#Asal mula plastid|Plastid]]
+* [[Evolusi reproduksi seksual|Seks]]
+
+|group6=Evolusi [[Takson|Taksa]] 
+|list6= 
+* [[Evolusi burung|Burung]]
+* [[Evolusi brakiopoda|Brakiopoda]]
+* [[Gap kucing|Kucing]]
+* [[Sejarah evolusioner cephalopoda|Cephalopoda]]
+* [[Evolusi dinosaurus|Dinosaurus]]
+* [[Asal mula domestikasi anjing|Anjing]]
+* [[Evolusi cetacea|Lumba-lumba dan paus]]
+* [[Evolusi ikan|Ikan]]
+* [[Evolusi jamur|Jamur]]
+* [[Evolusi kuda|Kuda]]
+* [[Evolusi manusia|Manusia]]
+* [[Evolusi influensa|Influensa]]
+* [[Evolusi serangga|Serangga]] 
+** [[Evolusi kupu-kupu|Kupu-kupu]]
+* [[Sejarah evolusioner lemur|Lemur]]
+* [[Sejarah evolusioner kehidupan|Kehidupan]]
+* [[Evolusi mamalia|Mamalia]]
+* [[Evolusi moluska|Moluska]]
+* [[Evolusi tanaman|Tanaman]]
+* [[Evolusi reptil|Reptil]]
+* [[Evolusi sirenia|Sapi laut]]
+* [[Evolusi laba-laba|Laba-laba]]
+* [[Tetrapoda#Evolusi|Tetrapoda]]
+* [[Evolusi virus|Virus]]
+** [[Evolusi virus Hepatitis C|Hepatitis C]]
+
+|group7 = Mode-mode spesiasi
+|list7  = 
+* [[Anagenesis]]
+* [[Catagenesis (biologi)|Catagenesis]]
+* [[Cladogenesis]]
+
+|group8 = [[Sejarah pemikiran evolusi|Sejarah pemikiran evolusioner]]
+|list8  =  
+* [[Charles Darwin]]
+* [[Teori gen egois]]
+* [[Kehidupan]] (Pohon klasifikasi)
+* [[Sintesis evolusioner modern]]
+* ''[[On the Origin of Species]]''
+
+|group9 = Subbidang lain
+|list9  = 
+* [[Genetika ekologis]]
+* [[Evolusi molekuler]]
+* [[Filogenetik]]
+* [[Sistematika]]
+
+|below = 
+* [[Daftar topik biologi evolusioner]]
+* [[Rentang waktu evolusi]]
+* [[Sejarah evolusioner kehidupan]]
+}}<noinclude>
+;Lihat juga
+*[[Templat:Evolusi3]]
+
+[[Kategori:Templat biologi]]
+
+[[en:Template:Evolution]]
+</noinclude>

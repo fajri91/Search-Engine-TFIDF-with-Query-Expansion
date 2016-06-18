@@ -1,0 +1,21 @@
+Templat:SMA Negeri di Kabupaten Cirebon
+{{Navbox
+| name = SMA Negeri di Kabupaten Cirebon
+| title = [[Sekolah menengah atas|SMA]] Negeri di [[Kabupaten Cirebon]]
+| image = [[Berkas:Logo_Tut_Wuri_Handayani.svg|60px]]
+| listclass = hlist
+| list1 = 
+* [[SMA Negeri 1 Cirebon]]
+* [[SMA Negeri 2 Cirebon]]
+* [[SMA Negeri 3 Cirebon]]
+* [[SMA Negeri 4 Cirebon]]
+* [[SMA Negeri 5 Cirebon]]
+* [[SMA Negeri 6 Cirebon]]
+* [[SMA Negeri 7 Cirebon]]
+* [[SMA Negeri 8 Cirebon]]
+* [[SMA Negeri 9 Cirebon]]
+* [[SMA Negeri 10 Cirebon]]
+* [[SMA Negeri 11 Cirebon]]
+* [[SMA Negeri 12 Cirebon]]
+}}<includeonly>[[Kategori:Sekolah menengah atas di Kabupaten Cirebon]]</includeonly>
+<noinclude>[[Kategori:Templat navigasi sekolah]]</noinclude>

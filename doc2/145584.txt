@@ -1,0 +1,41 @@
+Paus sikat
+{{Taxobox
+| color = pink
+| name = Paus sikat
+| image =
+| image_width = 300px
+| image_caption = Paus sikat.
+| image2 = Right_whale_size.svg
+| image2_width = 300px
+| image2_caption = Perbandingan besar dengan manusia
+| regnum = [[Animalia]]
+| phylum = [[Chordate|Chordata]]
+| classis = [[Mammal]]ia
+| ordo = [[Cetacea]]
+| subordo = [[Mysticeti]]
+| familia = [[Balaenidae]]
+| genus = '''''Eubalaena'''''
+| genus_authority = [[John Edward Gray|Gray]], 1864
+| subdivision_ranks = Species
+| subdivision = ''[[Paus Sikat Selatan|Eubalaena australis]]''{{br}}
+''[[Paus Sikat Atlantik Utara|Eubalaena glacialis]]''{{br}}
+''[[Paus Sikat Pasifik Utara|Eubalaena japonica]]''
+| range_map = Eubalaena range map.png
+| range_map_width = 300px
+| range_map_caption = Persebaran spesies ''Eubalaena''.
+}}
+'''Paus sikat''' adalah [[paus balin]] yang masuk kedalam [[genus]] '''''Eubalaena'''''. Tiga spesies paus sikat diakui dalam genus ini. Terkadang [[familia]] [[Balaenidae]] dianggap sebagai famili paus sikat. Paus sikat dapat tumbuh sampai 18 meter, dengan massa 100 [[ton]].
+
+== Pranala luar ==
+* [http://www.whoi.edu/page.do?pid=12639 Right whale information from Woods Hole Oceanographic Institution], [[Woods Hole Oceanographic Institution]]
+* [http://www.sfcelticmusic.com/js/RTWHALES/nprightw.htm Description and sightings of Right Whales]
+* [http://www.iucnredlist.org/search/details.php/41712/all IUCN Red List entry]
+* [http://www.earthocean.tv/series/srws_argentina.html earthOCEAN documentary film about Southern Right Whales of Argentina]
+* [http://www.wdcs.org Whale & Dolphin Conservation Society (WDCS)]
+
+{{Baleen whale}}
+
+[[Kategori:Paus Balin]]
+
+
+{{hewan-stub}}

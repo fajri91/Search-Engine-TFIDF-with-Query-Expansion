@@ -1,0 +1,16 @@
+Templat:Infobox Chinese/Burmese
+{{Infobox
+|child = yes
+
+|headerstyle  = background-color: #b0c4de;
+| labelstyle  = font-weight:normal;
+
+| header1 = {{{burmese_header<includeonly>|</includeonly>}}}
+| label2  = [[bahasa Burma|Burma]]
+|  data2  = {{{my<includeonly>|</includeonly>}}}
+| label3  = [[Wikipedia:IPA untuk bahasa Burma|IPA]]
+|  data3  = {{{bi<includeonly>|</includeonly>}}}
+}}<noinclude>
+
+[[Kategori:Templat kotak info bahasa]]
+</noinclude>

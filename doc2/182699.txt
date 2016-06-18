@@ -1,0 +1,23 @@
+Plasmodium anomaluri
+{{Taxobox
+| image_caption = 
+| image = 
+| image_width = 
+| regnum = [[Protista]]
+| phylum = [[Apicomplexa]]
+| classis = [[Aconoidasida]]
+| ordo = [[Haemosporida]]
+| familia = [[Plasmodiidae]]
+| genus = ''[[Plasmodium]]''
+| species = '''''P. anomaluri'''''
+| binomial = ''Plasmodium anomaluri''
+}}
+'''''Plasmodium anomaluri''''' adalah parasit dari genus ''[[Plasmodium]]''. Seperti semua spesies ''Plasmodium'', ''P. anomaluri'' menyerang [[vertebrata]] dan [[serangga]]. Vertebrata yang diserang adalah [[mamalia]].
+
+{{plasmodium-stub}}
+
+[[Kategori:Plasmodium]]
+[[Kategori:Protozoa]]
+[[Kategori:Parasit]]
+[[Kategori:Apicomplexa]]
+[[Kategori:Malaria]]

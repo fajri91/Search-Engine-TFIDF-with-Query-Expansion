@@ -1,0 +1,49 @@
+UTC+12:00
+{{Kotakinfo zona waktu UTC}}
+[[Berkas:Timezones2011 UTC+12.png|thumb|UTC+12 2010: Biru (Desember), Jingga (Juni), Kuning (sepanjang tahun), Biru Muda - Wilayah lautan]]
+{{Zona waktu di Rusia}}
+'''UTC+12:00''' merupakan pengenal untuk [[Perbedaan UTC|perbedaan waktu dari UTC]] selama +12 jam.
+
+== Sebagai waktu standar (sepanjang tahun) ==
+=== Asia Utara ===
+* [[Rusia]] - [[Waktu Kamchatka]]
+** [[Okrug Otonom Chukotka]]
+** [[Krai Kamchatka]]
+
+=== Oseania ===
+* [[Pulau Wake]] (AS) - [[Waktu di Amerika Serikat]]<ref name=wtz12/>
+* [[Kepulauan Marshall]]<ref name=wtz12>{{cite web|url=http://www.worldtimezone.com/utc/utc+1200.html|title=Time Zone: UTC +12|work=Time Zones and contained Regions / Areas|publisher=WorldTimeZone.com|accessdate=26 Agustus 2012}}</ref>
+* [[Kiribati]]
+** [[Kepulauan Gilbert]]  dan [[Banaba]]
+* [[Nauru]]<ref name=wtz12/>
+* [[Tuvalu]]<ref name=wtz12/>
+* [[Wallis dan Futuna]] (Perancis) - [[Waktu di Perancis]]<ref name=wtz12/>
+
+== Sebagai waktu standar (musim dingin di Belahan Bumi Selatan) ==
+=== Oseania ===
+* [[Fiji]]
+* [[Selandia Baru]] (kecuali untuk [[Kepulauan Chatham]]) - [[Waktu Standar Selandia Baru]]
+
+=== Antarktika ===
+* Beberapa pangkalan di Antarktika, termasuk [[Stasiun McMurdo|McMurdo]] dan [[Kutub Selatan]]. Lihat pula [[Waktu di Antarktika]].
+
+== Perubahan historis ==
+[[Atol Kwajalein]], di [[Kepulauan Marshall]], maju 24 jam ke sisi [[belahan timur]] [[batas penanggalan internasional]] dengan melompati [[21 Agustus]] [[1993]].<ref>{{cite news|url=http://query.nytimes.com/gst/fullpage.html?res=9F0CE1D6163EF931A1575BC0A965958260&sec=&spon=&partner=permalink&exprod=permalink|title=In Marshall Islands, Friday Is Followed by Sunday|publisher=New York Times|date=22 Agustus 1993|accessdate=24 September 2007}}</ref>''
+
+== Lihat pula ==
+* [[Waktu di Selandia Baru]]
+* [[Waktu di Rusia]]
+* [[UTC12:00]]
+
+== Referensi ==
+{{reflist}}
+
+{{Zona Waktu}}
+
+{{DEFAULTSORT:Utc+12:00}}
+[[Kategori:Zona waktu]]
+
+
+{{waktu-stub}}
+
+[[es:Huso horario#UTC+11:30, L]]

@@ -1,0 +1,262 @@
+Final Kejuaraan Sepak Bola Eropa UEFA 1968
+{{Infobox football match
+| title                   = Final Kejuaraan Sepak Bola Eropa UEFA 1968
+| image                   = 
+| event                   = [[Kejuaraan Sepak Bola Eropa UEFA 1968]]
+| team1                   = {{timnas|Italia}}
+| team1association        = {{flagicon|ITA|size=30px}}
+| team1score              = 2
+| team2                   = {{timnas|Yugoslavia}}
+| team2association        = {{flagicon|YUG|size=30px}}
+| team2score              = 0
+| details                 = (setelah pertandingan ulang)
+| date                    = 8 dan 10 Juni 1968
+| stadium                 = [[Stadio Olimpico]]
+| city                    = [[Roma]]
+| man_of_the_match1a      = 
+| referee                 = [[Gottfried Dienst]] (Swiss)
+| attendance              =  
+| weather                 = 
+| previous                = [[Final Kejuaraan Sepak Bola Eropa UEFA 1964|1964]]
+| next                    = [[Final Kejuaraan Sepak Bola Eropa UEFA 1972|1972]]
+}}
+
+'''Final Kejuaraan Sepak Bola Eropa UEFA 1968''' adalah pertandingan [[sepak bola]] yang diselenggarakan pada 8 Juni 1968 dan 10 Juni 1968 untuk pertandingan ulangnya, kedua pertandingan bertempat di [[Stadio Olimpico]], [[Roma]], [[Italia]], untuk menentukan pemenang [[Kejuaraan Sepak Bola Eropa UEFA 1968]]. Pertandingan ini mempertemukan antara tuan rumah {{timnas|Italia}} yang lolos ke final melalui undian koin di semi-final, melawan {{timnas|Yugoslavia}}.<ref>{{cite news|title=Zoff recalls Italy's 1968 EURO triumph|url=http://www.uefa.com/uefaeuro/season=1968/overview/index.html#italy+make+most+luck|publisher=UEFA|accessdate=2012-05-20 }}</ref>
+
+Pertandingan pertama berakhir dengan skor 11 melalui gol dari [[Dragan Daji]] pada menit ke-39 untuk Yugoslavia dan gol penyama kedudukan dari [[Angelo Domenghini]] pada menit ke-80 untuk Italia. Setelah melalui perpanjangan waktu 2x15 menit tidak ada gol yang tercipta, maka dilakukan perlandingan ulang pada 10 Juni 1968. Pada pertandingan kedua, Italia unggul 20, melalui gol dari [[Luigi Riva]] dan [[Pietro Anastasi]] dan memberikan gelar Eropa pada tuan rumah. 
+{{TOCleft}}
+{{clear}}
+== Detail pertandingan ==
+{{footballbox
+|date=8 Juni 1968
+|time=21:15
+|team1={{fb-rt|ITA}}
+|score=11 
+|aet=yes
+|report=[http://www.uefa.com/competitions/euro2012/history/season=1968/round=179/match=73910/index.html (Report)]
+|team2={{fb|YUG}}
+|goals1=[[Angelo Domenghini|Domenghini]] {{goal|80}}
+|goals2=[[Dragan Daji|Daji]] {{goal|39}}
+|stadium=[[Stadio Olimpico]], [[Roma]]
+|attendance=55.000
+|referee=[[Gottfried Dienst]] (Swiss) }}
+
+{| width=92% |
+|-
+|{{Football kit
+ | pattern_b  = 
+ | pattern_ra = 
+ | pattern_so = _2whitestripes
+ | leftarm    = 0000FF
+ | body       = 0000FF
+ | rightarm   = 0000FF
+ | shorts     = FFFFFF
+ | socks      = 000000
+ | title      = Italia
+}}
+|{{Football kit
+ | pattern_la = 
+ | pattern_b  = _collar
+ | pattern_ra = 
+ | pattern_sh = 
+ | leftarm    = ffffff
+ | body       = ffffff
+ | rightarm   = ffffff
+ | shorts     = ffffff
+ | socks      = ffffff
+ | title      = Yugoslavia
+}}
+|}
+
+{| width=92% |
+|-
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''22''' ||[[Dino Zoff]]
+|-
+|FW ||'''2''' ||[[Pietro Anastasi]] 
+|-
+|DF ||'''5''' ||[[Tarcisio Burgnich]] 
+|-
+|DF ||'''7''' ||[[Ernesto Castano]]  
+|-
+|FW ||'''9''' ||[[Angelo Domenghini]] 
+|-
+|DF ||'''10''' ||[[Giacinto Facchetti]]
+|-
+|MF ||'''11'''||[[Giorgio Ferrini]]
+|-
+|DF ||'''12''' ||[[Aristide Guarneri]]
+|-
+|MF ||'''13'''||[[Antonio Juliano]]
+|-
+|MF ||'''14'''||[[Giovanni Lodetti]] 
+|-
+|FW ||'''16'''||[[Pierino Prati]]  
+|-
+|colspan=3|'''Manajer:'''
+|-
+|colspan=3|{{flagicon|Italia}} [[Ferruccio Valcareggi]]
+|}
+|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Ilija Panteli]]
+|-
+|RB ||'''2''' ||[[Mirsad Fazlagi]]
+|-
+|LB ||'''3''' ||[[Milan Damjanovi]]
+|-
+|CB ||'''5'''||[[Blagoje Paunovi]]
+|-
+|CB ||'''6'''||[[Dragan Holcer]] 
+|-
+|RF ||'''7'''||[[Ilija Petkovi]]
+|-
+|CF ||'''9'''||[[Vahidin Musemi]]
+|-
+|LF ||'''11''' ||[[Dragan Daji]]
+|-
+|CM ||'''15'''||[[Miroslav Pavlovi]] 
+|-
+|LM ||'''16''' ||[[Jovan Aimovi]]
+|-
+|RM ||'''21'''||[[Dobrivoje Trivi]] 
+|-
+|colspan=3|'''Manajer:'''
+|-
+|colspan=4|{{flagicon|YUG}} [[Rajko Miti]]
+|}
+|}
+
+== Petandingan ulang ==
+{{footballbox
+|date=10 Juni 1968
+|time=21:15
+|team1={{fb-rt|ITA}}
+|score=20
+|report=[http://www.uefa.com/competitions/euro2012/history/season=1968/round=1916/match=73911/index.html (Laporan)]
+|team2={{fb|YUG}}
+|goals1=[[Luigi Riva|Riva]] {{goal|12}}<br />[[Pietro Anastasi|Anastasi]] {{goal|31}}
+|goals2=
+|stadium=[[Stadio Olimpico]], [[Roma]]
+|attendance=55.000 
+|referee=[[Jos Maria Ortiz de Mendibl]] (Spanyol) }}
+
+{| width=92% |
+|-
+|{{Football kit
+ | pattern_b  = 
+ | pattern_ra = 
+ | pattern_so = _2whitestripes 
+ | leftarm    = 0000FF
+ | body       = 0000FF
+ | rightarm   = 0000FF
+ | shorts     = FFFFFF
+ | socks      = 000000
+ | title      = Italia
+}}
+|{{Football kit
+ | pattern_la = 
+ | pattern_b  = 
+ | pattern_ra = 
+ | pattern_sh = 
+ | leftarm    = ffffff
+ | body       = ffffff
+ | rightarm   = ffffff
+ | shorts     = ffffff
+ | socks      = ffffff
+ | title      = Yugoslavia
+}}
+|}
+
+{| width=92% |
+|-
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''22''' ||[[Dino Zoff]]
+|-
+|FW ||'''2''' ||[[Pietro Anastasi]] 
+|-
+|DF ||'''5''' ||[[Tarcisio Burgnich]] 
+|-
+|MF ||'''8''' ||[[Giancarlo De Sisti]]  
+|-
+|FW ||'''9''' ||[[Angelo Domenghini]] 
+|-
+|DF ||'''10''' ||[[Giacinto Facchetti]]  
+|-
+|DF ||'''12''' ||[[Aristide Guarneri]]
+|-
+|MF ||'''15'''||[[Sandro Mazzola]]
+|-
+|FW ||'''17'''||[[Luigi Riva]] ||  
+|-
+|DF ||'''19'''||[[Roberto Rosato]] 
+|-
+|DF ||'''20'''||[[Sandro Salvadore]]  
+|-
+|colspan=3|'''Manajer:'''
+|-
+|colspan=3|{{flagicon|Italia}} [[Ferruccio Valcareggi]]
+|}
+|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||[[Ilija Panteli]]
+|-
+|RB ||'''2''' ||[[Mirsad Fazlagi]]
+|-
+|LB ||'''3''' ||[[Milan Damjanovi]]
+|-
+|CB ||'''5'''||[[Blagoje Paunovi]]
+|-
+|CB ||'''6'''||[[Dragan Holcer]]  
+|-
+|CF ||'''9'''||[[Vahidin Musemi]]
+|-
+|LF ||'''11''' ||[[Dragan Daji]]
+|-
+|CM ||'''15'''||[[Miroslav Pavlovi]] 
+|-
+|LM ||'''16''' ||[[Jovan Aimovi]]
+|-
+|RM ||'''21'''||[[Dobrivoje Trivi]] 
+|-
+|RF ||'''22'''||[[Idriz Hoi]]
+|-
+|colspan=3|'''Manajer:'''
+|-
+|colspan=4|{{flagicon|YUG}} [[Rajko Miti]]
+|}
+|}
+== Referensi ==
+{{reflist}}
+
+== Pranala luar ==
+*[http://www.uefa.com/uefaeuro/season=1968/overview/index.html ''"Italy make most of good fortune"''] Artikel pada uefa.com.
+*[http://www.goal.com/en-us/news/3396/euro-2012/2011/11/29/2779862/euro-2012-history-the-1968-finals ''"Euro 2012 History: The 1968 finals"''] Artikel pada Goal.com.
+*[http://www.bbc.co.uk/sport/0/football/17899534 ''"Euro 1968: Alan Mullery's moment of madness"''] Artikel pada BBC Sport
+
+{{PialaEropa}}
+
+[[Kategori:Kejuaraan Sepak Bola Eropa UEFA 1968]]
+[[Kategori:Final Kejuaraan Sepak Bola Eropa UEFA]]

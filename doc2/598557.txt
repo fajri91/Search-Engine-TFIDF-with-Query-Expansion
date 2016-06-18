@@ -1,0 +1,35 @@
+Cosmophasis longiventris
+{{Taxobox
+|name = Cosmophasis longiventris
+|status = 
+|image = 
+|image_caption = 
+|domain = 
+|regnum = [[Animalia]]
+|phylum = [[Arthropoda]]
+|classis = [[Arachnida]]
+|ordo = [[Araneae]]
+|familia = [[Salticidae]]
+|genus =Cosmophasis
+|species = Cosmophasis longiventris
+|binomial = Cosmophasis longiventris
+|binomial_authority =Simon, 1903
+|range_map = 
+|range_map_caption = 
+|image2 = 
+|image2_caption = 
+|synonyms = 
+}}
+'''''Cosmophasis longiventris''''' adalah spesies [[laba-laba]] yang tergolong [[familia]] [[Salticidae]]. Spesies ini juga merupakan bagian dari genus [[Cosmophasis]] dan ordo [[Araneae]]. Nama ilmiah dari spesies ini pertama kali diterbitkan pada tahun 1903 oleh Simon.
+
+Laba-laba ini biasanya banyak ditemui di Vietnam.
+
+== Referensi ==
+
+* Platnick, Norman I. (2010): [http://research.amnh.org/entomology/spiders/catalog/Salticidae.html The world spider catalog], version 10.5. ''American Museum of Natural History''.
+
+{{DEFAULTSORT:Cosmophasis longiventris}}
+
+[[Kategori:Salticidae]]
+
+{{labalaba-stub}}

@@ -1,0 +1,120 @@
+Kromium
+{{kotak info kromium}}
+
+'''Kromium''' adalah sebuah [[unsur kimia]] dalam [[tabel periodik]] yang memiliki lambang '''Cr''' dan [[nomor atom]] 24.
+
+Kromium trivalen (Cr(III), atau Cr<sup>3+</sup>) diperlukan dalam jumlah kecil dalam [[metabolisme]] [[gula]] pada manusia. Kekurangan kromium trivalen dapat menyebabkan penyakit yang disebut [[kekurangan kromium|penyakit kekurangan kromium]] (''chromium deficiency'').
+
+Kromium merupakan logam tahan korosi (tahan karat) dan dapat dipoles menjadi mengkilat. Dengan sifat ini, kromium (krom) banyak digunakan sebagai pelapis pada ornamen-ornamen bangunan, komponen kendaraan, seperti knalpot pada sepeda motor, maupun sebagai pelapis [[perhiasan]] seperti [[emas]], emas yang dilapisi oleh kromium ini lebih dikenal dengan sebutan '''emas putih'''.
+
+Perpaduan Kromium dengan besi dan nikel menghasilkan baja tahan karat.
+
+=== Keberadaan ===
+<!--{{category see also|Chromium minerals}}-->
+[[Berkas:Crocoite from Tasmania.jpg|left|thumb|upright|[[:en:Crocoite|Krokoit]] (PbCrO<sub>4</sub>)]]
+[[Berkas:Chromit 1.jpg|thumb|left|upright|Bijih (''ore'') [[:en:Chromite|kromit]]]]
+Kromium merupakan [[Kelimpahan unsur dalam kerak bumi|unsur terbanyak dalam kulit bumi]] ke-22 dengan konsentrasi rata-rata 100 ppm.<ref name="Emsley">{{Cite book|title = Nature's Building Blocks: An A-Z Guide to the Elements|last = Emsley|first=John|publisher = Oxford University Press|year = 2001|location = Oxford, England, UK|isbn = 0-19-850340-7|chapter = Chromium|pages=495498}}</ref> Senyawa-senyawa kromium ditemukan dalam lingkungan, karena [[erosi]] batu-batuan yang mengandung kromium dan dapat didistribusikan oleh ledakan gunung berapi. Konsentrasi dalam tanah berkisar antara 1 sampai 300&nbsp;mg/kg, dalam air laut antara 5 sampai 800&nbsp;g/liter, dan dalam sungai serta danau 26&nbsp;g/liter sampai 5.2&nbsp;mg/liter.<ref name="Crspeci">{{Cite journal|title =Chromium occurrence in the environment and methods of its speciation|volume = 107|issue = 3|journal = Environmental Pollution|year = 2000|pages = 263283|doi = 10.1016/S0269-7491(99)00168-2|first = J.|last = Kota|pmid =15092973|last2 =Stasicka|first2 =Z}}</ref>
+Kromium diperoleh dari tambang dalam bentuk batu logam (''ore'') [[:en:chromite|kromit]] (FeCr<sub>2</sub>O<sub>4</sub>).<ref name="NRC">{{Cite book|title = Chromium|author = National Research Council (U.S.). Committee on Biologic Effects of Atmospheric Pollutants|publisher = National Academy of Sciences|year = 1974|isbn = 978-0-309-02217-0|url = http://books.google.com/?id=ZZsrAAAAYAAJ|page = 155}}</ref> Sekitar dua perlima batu kromit dan konsentratnya di dunia diproduksi di [[Afrika Selatan]], sedangkan [[Kazakhstan]], [[India]], [[Rusia]], dan [[Turki]] juga merupakan produsen penting. Deposit kromit yang belum tergali masih banyak, tetapi secara geografis terpusat di Kazakhstan dan Afrika bagian selatan.<ref name="USGS2002CR">{{cite web|url = http://minerals.usgs.gov/minerals/pubs/commodity/chromium/mcs-2009-chrom.pdf|publisher = United States Geological Survey|accessdate = 2009-03-17|title = Commodity Summary 2009: Chromium|first = John F|last = Papp}}</ref>
+<!--
+Although rare, deposits of [[Native metal|native]] chromium exist.<ref>{{Cite journal|url = http://www.minsocam.org/ammin/AM67/AM67_854.pdf|title = New Mineral Names|journal = American Mineralogist|volume = 67|pages = 854860|year = 1982|first = Michael|last = Fleischer}}</ref><ref>[http://www.mindat.org/min-1037.html Chromium] (with location data), Mindat</ref> The [[Udachnaya Pipe]] in [[Russia]] produces samples of the native metal. This mine is a [[kimberlite]] pipe, rich in [[diamond]]s, and the [[Redox|reducing environment]] helped produce both elemental chromium and [[diamond]].<ref>[http://www.mindat.org/locentry-27628.html Chromium from Udachnaya-Vostochnaya pipe, Daldyn, Daldyn-Alakit kimberlite field, Saha Republic (Sakha Republic; Yakutia), Eastern-Siberian Region, Russia], Mindat</ref>
+
+The relation between Cr(III) and Cr(VI) strongly depends on [[pH]] and [[oxidative]] properties of the location, but in most cases, the Cr(III) is the dominating species,<ref name="Crspeci"/> although in some areas the ground water can contain up to 39&nbsp;g/liter of total chromium of which 30&nbsp;g/liter is present as Cr(VI).<ref>{{Cite journal|title = Natural Occurrence of Hexavalent Chromium in the Aromas Red Sands Aquifer, California|volume = 39|issue = 15|journal = Environmental Science and Technology |year = 2005 |pages = 55055511|doi = 10.1021/es048835n|first = A. R.|last = Gonzalez|pmid = 16124280|last2 = Ndung'u|first2 = K|last3 = Flegal|first3 = AR|bibcode = 2005EnST...39.5505G }}</ref>
+{{clear left}}
+-->
+
+=== Isotop ===
+<!--{{Main|Isotopes of chromium}}-->
+Kromium secara alamiah terdiri dari tiga [[isotop]] stabil; <sup>52</sup>Cr, <sup>53</sup>Cr dan <sup>54</sup>Cr dengan <sup>52</sup>Cr paling banyak ditemukan (83,789% [[:en:natural abundance|keberadaan alamiah]]). 19 [[:en:radioisotope|radioisotop]] telah dikarakterisasi di mana yang paling stabil adalah <sup>50</sup>Cr dengan [[waktu paruh]] (lebih dari) 1,8{{e|17}} tahun, dan <sup>51</sup>Cr dengan waktu paruh 27,7 hari. Isotop [[radioaktif]] sisanya memiliki waktu paruh kurang dari 24 jam dan sebagian besar dengan waktu paruh kurang dari 1 menit. Unsur ini juga mempunyai dua [[:en:meta state|''meta state'']].<ref name="NUBASE">{{Cite journal| first = Audi| last = Georges|title = The NUBASE Evaluation of Nuclear and Decay Properties| journal = Nuclear Physics A| volume = 729| pages = 3128| publisher = Atomic Mass Data Center| year = 2003| doi = 10.1016/j.nuclphysa.2003.11.001| bibcode=2003NuPhA.729....3A| last2 = Bersillon| first2 = O.| last3 = Blachot| first3 = J.| last4 = Wapstra| first4 = A.H.}}</ref>
+<!--
+<sup>53</sup>Cr is the [[radiogenic]] decay product of <sup>53</sup>[[manganese|Mn]]. Chromium [[isotope|isotopic]] contents are typically combined with [[manganese]] isotopic contents and have found application in [[isotope geology]]. [[manganese|Mn]]-Cr isotope ratios reinforce the evidence from <sup>26</sup>[[Aluminium|Al]] and <sup>107</sup>[[Palladium|Pd]] for the early history of the [[solar system]]. Variations in <sup>53</sup>Cr/<sup>52</sup>Cr and Mn/Cr ratios from several meteorites indicate an initial <sup>53</sup>Mn/<sup>55</sup>Mn ratio that suggests Mn-Cr isotopic composition must result from in-situ decay of <sup>53</sup>Mn in differentiated planetary bodies. Hence <sup>53</sup>Cr provides additional evidence for [[nucleosynthesis|nucleosynthetic]] processes immediately before coalescence of the solar system.<ref name="53Mn53Cr">{{Cite journal|journal = Geochimica et Cosmochimica Acta|volume = 63|issue = 2324|year = 1999|pages = 41114117|doi = 10.1016/S0016-7037(99)00312-9|title = <sup>53</sup>Mn-<sup>53</sup>Cr evolution of the early solar system|first = J. L.|last = Birck|last2 = Rotaru|first2 = M|last3 = Allegre|first3 = C|bibcode=1999GeCoA..63.4111B}}</ref><!-- {{doi|10.1038/331579a0}} {{doi|10.1016/j.gca.2004.01.008}} {{doi|10.1016/j.epsl.2006.07.036}} --->
+<!--
+The isotopes of chromium range in [[atomic mass]] from 43&nbsp;[[atomic mass unit|u]] (<sup>43</sup>Cr) to 67&nbsp;u (<sup>67</sup>Cr). The primary [[decay mode]] before the most abundant stable isotope, <sup>52</sup>Cr, is [[electron capture]] and the primary mode after is [[beta decay]].<ref name="NUBASE"/> <sup>53</sup>Cr has been posited as a proxy for atmospheric oxygen concentration.<ref>{{Cite journal|last1=Frei|first1=Robert|last2=Gaucher|first2=Claudio|last3=Poulton|first3=Simon W.|last4=Canfield|first4=Don E.|title=Fluctuations in Precambrian atmospheric oxygenation recorded by chromium isotopes|journal=Nature|volume=461|pages=250253|year=2009|doi=10.1038/nature08266|pmid=19741707|issue=7261|bibcode=2009Natur.461..250F}}</ref>
+-->
+== Senyawa ==
+<!--{{Category see also|Chromium compounds}}-->
+{|class="wikitable" style="float:right"
+|-
+! colspan=2|Status<br />oksidasi<ref group=note>Status oksidasi kromium yang paling umum dicetak tebal. Kolom kanan memuat contoh senyawa untuk setiap status oksidasi.</ref><ref name=Greenwood>{{Greenwood&Earnshaw2nd}}</ref>
+|-
+| 2 ||{{chem|Na|2|[Cr(CO)|5|]}}
+|-
+| 1 ||{{chem|Na|2|[Cr|2|(CO)|10|]}}
+|-
+| 0 || [[Bis(benzene)chromium|{{chem|Cr(C|6|H|6|)|2}}]]
+|-
+| +1 ||{{chem| K|3|[Cr(CN)|5|NO]}}
+|-
+| +2 || [[Chromium(II) chloride|{{chem|CrCl|2}}]]
+|-
+| '''+3''' || [[Chromium(III) chloride|{{chem|CrCl|3}}]]
+|-
+| +4 ||{{chem|K|2|CrF|6}}
+|-
+| +5 ||[[Potassium tetraperoxochromate(V)|{{chem|K|3|CrO|8}}]]
+|-
+| '''+6''' || [[Potassium chromate|{{chem|K|2|CrO|4}}]]
+|}
+
+Kromium adalah salah satu [[logam transisi]], dalam [[:en:Group 6 element|grup 6]]. Kromium(0) mempunyai konfigurasi elektronik 4s<sup>1</sup>3d<sup>5</sup>, mendapatkan energi lebih rendah dari [[:en:Spin states (d electrons)|konfigurasi spin tinggi]].<!-- Kromium exhibits a wide range of possible [[oxidation state]]s, where the +3 state is most stable energetically; the +3 and +6 states are most commonly observed in chromium compounds, whereas the +1, +4 and +5 states are rare.<ref name=Greenwood/>
+-->
+Berikut adalah [[:en:Pourbaix diagram|diagram Pourbaix]] bagi kromium dalam air murni, asam perklorat atau natrium hidroksida:<ref name="Crspeci"/><ref name="medusa">Puigdomenech, Ignasi [http://www.kth.se/che/medusa ''Hydra/Medusa Chemical Equilibrium Database and Plotting Software''] (2004) KTH Royal Institute of Technology</ref><!--also part of the Chromium (VI) Handbook of Jacques Guertin on page 73-->
+[[Berkas:Chromium in water pourbiax diagram.png|350px]]
+
+=== Kromium(III) ===
+[[Berkas:Chlorid chromit.JPG|thumb|left|upright|Kromium(III) klorida heksahidrat ([CrCl<sub>2</sub>(H<sub>2</sub>O)<sub>4</sub>]Cl2H<sub>2</sub>O)]]
+[[Berkas:Chromium(III)-chloride-purple-anhydrous-sunlight.jpg|thumb|upright|Kromium(III) klorida anhidrat (CrCl<sub>3</sub>)]]
+
+Ada banyak senyawa kromium(III). Kromium(III) dapat diperoleh dengan melarutkan unsur kromium dalam asam seperti [[asam klorida]] atau [[asam sulfat]].<!-- The {{chem|Cr|3+}} ion has a similar radius (63&nbsp;[[picometre|pm]]) to the {{chem|Al|3+}} ion (radius 50&nbsp;pm), so they can replace each other in some compounds, such as in [[chrome alum]] and [[alum]]. When a trace amount of {{chem|Cr|3+}} replaces {{chem|Al|3+}} in [[corundum]] (aluminium oxide, Al<sub>2</sub>O<sub>3</sub>), the red-colored [[ruby]] is formed.
+
+Chromium(III) ions tend to form [[octahedral molecular geometry|octahedral]] complexes.  The colors of these complexes is determined by the ligands attached to the Cr centre.  The commercially available [[chromium(III) chloride]] hydrate is the dark green complex [CrCl<sub>2</sub>(H<sub>2</sub>O)<sub>4</sub>]Cl.  Closely related compounds have different colours: pale green [CrCl(H<sub>2</sub>O)<sub>5</sub>]Cl<sub>2</sub> and the violet [Cr(H<sub>2</sub>O)<sub>6</sub>]Cl<sub>3</sub>. If water-free green [[chromium(III) chloride]] is dissolved in water then the green solution turns violet after some time, due to the substitution of water by chloride in the inner [[coordination sphere]]. This kind of reaction is also observed with solutions of [[chrome alum]] and other water-soluble chromium(III) salts.
+
+[[Chromium(III) hydroxide]] (Cr(OH)<sub>3</sub>) is [[Amphoterism|amphoteric]], dissolving in acidic solutions to form [Cr(H<sub>2</sub>O)<sub>6</sub>]<sup>3+</sup>, and in basic solutions to form {{chem|[Cr(OH)|6|]|3-}}. It is dehydrated by heating to form the green [[chromium(III) oxide]] (Cr<sub>2</sub>O<sub>3</sub>), which is the stable oxide with a crystal structure identical to that of [[corundum]].<ref name="HollemanAF"/>
+-->
+=== Kromium(VI) ===
+[[Berkas:Chrom(VI)-oxid.jpg|thumb|right|upright|Kromium(VI) oksida]]
+[[:en:Hexavalent chromium|Senyawa-senyawa kromium(VI)]] merupakan oksidan kuat pada pH rendah atau netral. Yang paling penting adalah anion [[:en:chromate|kromat]] ({{chem|CrO|4|2-}}) dan [[:en:dichromate|dikromat]] (Cr<sub>2</sub>O<sub>7</sub><sup>2-</sup>), yang berada dalam keseimbangan:
+:2 [CrO<sub>4</sub>]<sup>2-</sup> + 2 H<sup>+</sup> <math>\overrightarrow{\leftarrow}</math> [Cr<sub>2</sub>O<sub>7</sub>]<sup>2-</sup> + H<sub>2</sub>O
+Kromium(VI) halida yang dikenal termasuk [[:en:hexafluoride|heksafluorida]] [[:en:chromium hexafluoride|CrF<sub>6</sub>]] dan [[:en:chromyl chloride|kromil klorida]] ({{chem|CrO|2|Cl|2}}).<ref name="HollemanAF">{{Cite book|publisher = Walter de Gruyter|year = 1985|edition = 91100|pages = 10811095|isbn = 3-11-007511-3|title = Lehrbuch der Anorganischen Chemie|first = Arnold F.|last = Holleman|coauthors = Wiberg, Egon; Wiberg, Nils;|chapter = Chromium|language = German}}</ref>
+<!--
+[[Sodium chromate]] is produced industrially by the oxidative roasting of [[chromite]] ore with [[calcium carbonate|calcium]] or [[sodium carbonate]]. The dominant species is therefore, by the [[law of mass action]], determined by the pH of the solution. The change in equilibrium is visible by a change from yellow (chromate) to orange ([[dichromate]]), such as when an acid is added to a neutral solution of [[potassium chromate]]. At yet lower pH values, further condensation to more complex [[oxyanion]]s of chromium is possible.
+
+Both the chromate and dichromate anions are strong oxidizing reagents at low pH:<ref name="HollemanAF"/>
+[[File:Chroman sodn.JPG|thumb|upright|[[Sodium chromate]] (Na<sub>2</sub>CrO<sub>4</sub>)]]
+:{{chem|Cr|2|O|7|2-}} + 14 {{chem|H|3|O|+}} + 6 e<sup></sup>  2 {{chem|Cr|3+}} + 21 {{chem|H|2|O}} (<sub>0</sub> = 1.33&nbsp;V)
+
+They are, however, only moderately oxidizing at high pH:<ref name="HollemanAF"/>
+:{{chem|CrO|4|2-}} + 4 {{chem|H|2|O}} + 3 e<sup></sup>  {{chem|Cr(OH)|3}} + 5 {{chem|OH|-}} (<sub>0</sub> = 0.13&nbsp;V)
+
+Chromium(VI) compounds in solution can be detected by adding an acidic [[hydrogen peroxide]] solution. The unstable dark blue [[chromium(VI) peroxide]] (CrO<sub>5</sub>) is formed, which can be stabilized as an ether adduct {{chem|CrO|5|OR|2}}.<ref name="HollemanAF"/>
+
+[[Chromic acid]] has the hypothetical formula {{chem|H|2|CrO|4}}. It is a vaguely described chemical, despite many well-defined chromates and dichromates being known. The dark red [[chromium(VI) oxide]] {{chem|CrO|3}}, the acid [[anhydride]] of chromic acid, is sold industrially as "chromic acid".<ref name="HollemanAF"/> It can be produced by mixing sulfuric acid with dichromate, and is a strong oxidizing agent.
+-->
+=== Kromium(V) dan kromium(IV) ===
+Status oksidasi +5 hanya terjadi pada beberapa senyawa tetapi merupakan intermediat dalam banyak reaksi yang melibatkan oksidasi oleh kromat.<!-- The only binary compound is the volatile chromium(V) fluoride (CrF<sub>5</sub>). This red solid has a melting point of 30&nbsp;C and a boiling point of 117&nbsp;C. It can be synthesized by treating chromium metal with fluorine at 400&nbsp;C and 200 bar pressure. The peroxochromate(V) is another example of the +5 oxidation state. [[Potassium tetraperoxochromate(V)|Potassium peroxochromate]] (K<sub>3</sub>[Cr(O<sub>2</sub>)<sub>4</sub>]) is made by reacting potassium chromate with hydrogen peroxide at low temperatures. This red brown compound is stable at room temperature but decomposes spontaneously at 150170&nbsp;C.<ref>{{cite web|url = http://dokumentix.ub.uni-siegen.de/opus/volltexte/2006/52/|title = Preparation, Structure and Vibrational Spectroscopy of Tetraperoxo Complexes of Cr<sup>V+</sup>, V<sup>V+</sup>, Nb<sup>V+</sup> and Ta<sup>V+</sup>|year= 2003|first = Gentiana|last = Haxhillazi|publisher= PhD thesis, University of Siegen}}</ref>
+-->
+Senyawa-senyawa kromium(IV) (dalam status oksidasi +4) agak lebih banyak daripada kromium(V). Tetrahalida, CrF<sub>4</sub>, CrCl<sub>4</sub>, dan CrBr<sub>4</sub>, dapat diproduksi dengan mereaksikan trihalida ({{chem|CrX|3}}) dengan halogen pada suhu tinggi. Senyawa-senyawa ini sangat peka terhadap reaksi disproporsionasi dan tidak stabil dalam air.
+
+=== Kromium(II) ===
+Ada banyak senyawa kromium(II), termasuk [[:en:chromium(II) chloride|kromium(II) klorida]], {{chem|CrCl|2}}, yang stabil dalam air dan dapat dibuat dari reduksi kromium(III) klorida dengan [[seng]]. Larutan biru cerah yang dihasilkan hanya stabil pada [[pH]] netral.<ref name="HollemanAF"/> <!--Many chromous carboxylates are also known, most famously, the red [[chromous acetate]] (Cr<sub>2</sub>(O<sub>2</sub>CCH<sub>3</sub>)<sub>4</sub>), which features a quadruple bond.
+-->
+=== Kromium(I) ===
+Kebanyakan senyawa Cr(I) diperoleh dari oksidasi kompleks oktahedral Cr(0) yang kaya elektron. Kompleks-kompleks Cr(I) yang lain mengandung ligand [[:en:cyclopentadienyl|siklopentadienil]]. Sebagaimana dibuktikan dari [[:en:X-ray diffraction|difraksi sinar X]], [[:en:quintuple bond|ikatan lipat lima]] Cr-Cr (dengan panjang 183,51(4) &nbsp;pm) juga telah dibahas.<ref>{{Cite journal|author = Nguyen, T.|title = Synthesis of a Stable Compound with Fivefold Bonding Between Two Chromium(I) Centers|year = 2005|journal = [[Science (journal)|Science]]|volume = 310|issue = 5749|pages = 844847|doi =10.1126/science.1116789|pmid = 16179432|display-authors = 1|last2 = Sutton|first2 = AD|last3 = Brynda|first3 = M|last4 = Fettinger|first4 = JC|last5 = Long|first5 = GJ|last6 = Power|first6 = PP|bibcode = 2005Sci...310..844N }}</ref><!-- Extremely bulky monodentate ligands stabilize this compound by shielding the quintuple bond from further reactions.-->
+[[Berkas:5-fold chromium.png|thumb|Senyawa kromium ditetapkan secara eksperimental mengandung suatu ikatan lipat lima Cr-Cr]]
+
+=== Kromium(0) ===
+<!--{{Main|Organochromium chemistry}}-->
+Banyak dikenal senyawa kromium(0), kebanyakan adalah derivatif dari [[:en:chromium hexacarbonyl|kromium heksakarbonil]] atau [[bis(benzene)chromium]].
+
+== Catatan ==
+
+<references group="note"/>
+== Referensi ==
+{{reflist}}
+
+{{clr}}
+{{Compact periodic table}}
+{{kimia-stub}}
+
+[[Kategori:Unsur kimia]]
+[[Kategori:Logam transisi]]
+[[Kategori:Kromium| ]]

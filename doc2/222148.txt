@@ -1,0 +1,12 @@
+Templat:User li-1
+{{Babel-box
+| level         = 1
+| id            = [[Bahasa Limburgish|li]]
+| info          = Deze gebroeker haet 'n '''[[:Category:User li-1|baziskinnes]]''' van 't '''[[:Category:User li|Limburgs]]'''.
+| userkategori  = User li
+| userkategori2 = User li-1
+}}<noinclude>
+{{Babel-bar|li}}
+[[Kategori:Templat Babel|li-1]]
+
+</noinclude>

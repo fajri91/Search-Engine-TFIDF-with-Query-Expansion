@@ -1,0 +1,35 @@
+Hyllus atroniveus
+{{Taxobox
+|name = Hyllus atroniveus
+|status = 
+|image = 
+|image_caption = 
+|domain = 
+|regnum = [[Animalia]]
+|phylum = [[Arthropoda]]
+|classis = [[Arachnida]]
+|ordo = [[Araneae]]
+|familia = [[Salticidae]]
+|genus =Hyllus
+|species = Hyllus atroniveus
+|binomial = Hyllus atroniveus
+|binomial_authority =Caporiacco, 1940
+|range_map = 
+|range_map_caption = 
+|image2 = 
+|image2_caption = 
+|synonyms = 
+}}
+'''''Hyllus atroniveus''''' adalah spesies [[laba-laba]] yang tergolong [[familia]] [[Salticidae]]. Spesies ini juga merupakan bagian dari genus [[Hyllus]] dan ordo [[Araneae]]. Nama ilmiah dari spesies ini pertama kali diterbitkan pada tahun 1940 oleh Caporiacco.
+
+Laba-laba ini biasanya banyak ditemui di Ethiopia.
+
+== Referensi ==
+
+* Platnick, Norman I. (2010): [http://research.amnh.org/entomology/spiders/catalog/LINYPHIIDAE.html The world spider catalog], version 10.5. ''American Museum of Natural History''.
+
+{{DEFAULTSORT:Hyllus atroniveus}}
+
+[[Kategori:Salticidae]]
+
+{{labalaba-stub}}

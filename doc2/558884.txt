@@ -1,0 +1,14 @@
+Berkas:Y.A. Viriyanadi.JPG
+== {{int:filedesc}} ==
+{{Information
+| description    =
+Foto merupakan dokumentasi pribadi Sekretariat Vihara Buddhayana Dharmawira Centre dan dapat dipergunakan secara bijak
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Fairuse}}

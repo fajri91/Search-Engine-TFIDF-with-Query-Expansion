@@ -1,0 +1,14 @@
+Templat:Waktu merek
+<table style="background-color:#F9F9F9; border:1px solid #AAAAAA; margin-top:0.5em; margin-bottom:1em;"><tr><td><!--
+-->{{Waktu merek/aux|{{{1|File:Placeholder rib.png}}}|{{{2|}}}}}<!--
+-->{{#if:{{{3|}}}|{{Waktu merek/aux|{{{3|}}}|{{{4|}}}}}}}<!--
+-->{{#if:{{{5|}}}|{{Waktu merek/aux|{{{5|}}}|{{{6|}}}}}}}<!--
+-->{{#if:{{{7|}}}|{{Waktu merek/aux|{{{7|}}}|{{{8|}}}}}}}<!--
+-->{{#if:{{{9|}}}|{{Waktu merek/aux|{{{9|}}}|{{{10|}}}}}}}<!--
+-->{{#if:{{{11|}}}|{{Waktu merek/aux|{{{11|}}}|{{{12|}}}}}}}<!--
+-->{{#if:{{{13|}}}|{{Waktu merek/aux|{{{13|}}}|{{{14|}}}}}}}<!--
+-->{{#if:{{{15|}}}|{{Waktu merek/aux|{{{15|}}}|{{{16|}}}}}}}<!--
+-->{{#if:{{{17|}}}|{{Waktu merek/aux|{{{17|}}}|{{{18|}}}}}}}<!--
+-->{{#if:{{{19|}}}|{{Waktu merek/aux|{{{19|}}}|{{{20|}}}}}}}<!--
+--></td></tr>{{#if:{{{21|}}}|<tr><td style="text-align:center; color:red;">The maximum number of brands (10) has been exceeded!</td></tr>}}{{#if:{{{footer|}}}|<tr><td colspan="10" style="text-align:left; font-size:85%; line-height:1.2em; padding-left:3px; padding-bottom:5px;">{{{footer}}}</td></tr>}}</table><noinclude>{{documentation}}
+[[Category:Graphic templates|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,128 @@
+Sega Game Gear
+{{Infobox CVG system
+| title         = Sega Game Gear
+| logo          = [[Berkas:Game Gear logo Sega.png|200px]]
+| image         = [[Berkas:Game-Gear-Handheld.jpg|250px|Game Gear]]
+| manufacturer  = [[Sega]]
+| type          = [[Handheld game console]]
+| generation    = [[History of video game consoles (fourth generation)|Fourth generation]]
+| lifespan      = {{vgrelease|JP=October 6, 1990}}{{vgrelease|NA=April 26, 1991|EU=April 26, 1991<ref name="gamepro"/>}}<br />{{vgrelease|AUS={{vgy|1992}}}}
+| discontinued = 1997
+| CPU           = [[Zilog Z80]] clocked at 3.58MHz
+| media         = [[Cartridge (electronics)|Cartridge]]
+| units sold    = 11 million<ref name="gamepro"/>
+| onlineservice =
+| topgame       =
+| successor = [[Sega Nomad]]
+|price = US$150
+|display = 160x144 pixel resolution, 32 on-screen colours out of a palette of 4096
+|memory = 8KB [[RAM]], 16KB [[VRAM]]
+|dimensions = 209 x 111 x 37 mm
+|weight = ~400g
+
+}}
+{{nihongo|'''Sega Game Gear'''||''Gmu Gia''}} merupakan konsol Game portabel pertama dari Sega, konsol ini merupakan konsol komersial yang memiliki layar warna ketiga setelah [[Atari Lynx]] dan [[TurboExpress]].
+
+== Sejarah ==
+Pekerjaan dan riset pada konsol ini dimulai pada tahun 1989 dibawah nama Project Mercury yang mengikuti kebijakan Sega pada waktu itu yang menamai project mereka dengan sebutan sebutan nama planet.<ref name="RetroGamer">{{cite journal|journal=[[Retro Gamer]] Magazine|publisher=Imagine Publishing Ltd.|title=Retroinspection: Sega Game Gear|issue=41|year=2009|pages=7885}}</ref> Sistem ini di luncurkan di [[Jepang]] pada 6 Oktober 1990, [[Amerika Utara]], [[Eropa]] dan [[Brasil]] pada tahun 1991, dan [[Australia]] pada tahun [[1992]]. Harga produk ini pada waktu diluncurkan berkisar di antara [[United States dollar|$]]150 US dan [[United Kingdom pound|]]145 UK. Namun pada tahun 1997 Sega tidak lagi mensupport konsol ini.
+
+== Fitur ==
+=== Desain ===
+
+Game Gear ini merupakan versi portabel dari [[Sega Master System|Master System]] tetapi dengan resolusi layar lebih rendah tetapi bisa menampilkan komposisi warna lebih besar [[palette (computing)|color palette]].<ref>{{cite journal|last= |first= |title=Gear Up Master System Games|journal=[[GamePro]]|issue=68 |publisher=[[International Data Group|IDG]]|date=March 1995|page=136}}</ref> Sebagai tambahan Game Gear ini juga dapat menghasilkan suara stereo (melalui headphone) sebagai kebalikan dari master system yang hanya memiliki keluaran sound yang mono, walaupun banyak permainan pada waktu itu menggunakan teknologi stereo. Tidak seperti Game boy orisinil, yang mana layar nya ditempatkan diatas tombol-tombol, Game Gear ini memiliki orientasi posisi yang [[page orientation|lanskap]], dan memiliki kontrol disamping yang memudahkan penggunaan Game Gear ini.
+
+Karena kesamaan dengan master system dan Game Gear, block permainan serta [[cartridge (electronics)|cartridge]] permainan master system dapat digunakan di Game Gear. Sebagai alternatif diluncurkanlah konverter Game untuk Game Gear agar master system pun dapat memainkan Gamenya di Game Gear.
+
+=== Varian ===
+Game Gear versi warna biru sangat identik dengan Game Gear standar kecuali warna konsol. Versi ini diluncurkan pada tahun 1994 dengan Game ''[[The Lion King]]''.
+
+Model model yang terbatas lainnya yang hanya di luncurkan di Jepang yaitu :
+
+* Game Gear bertemakan ''[[Coca-Cola]]'' berwarna merah di luncurkan pada tahun 1994 dengan permainan berjudul ''[[Coca-Cola]]'' Kid
+* Game Gear versi putih hanya tersedia 10.000 unit.
+* Versi Red magic Knight Rayearth dan ninku blue.
+* Kids Gear, paket yang berisi Game Gear dalam berbagai warna yang berbeda.
+
+Software yang menampilkan iklan untuk Game Gear versi anak anak ini lebih ditujukan pada titel atau judul Game yang bersifat anak anak. Kids Gear ini juga hanya di luncurkan di Jepang.
+
+=== Permainan ===
+
+Perkiraan permainan pada Game Gear berkisar antara 390 judul permainan yang resmi,<ref name="robsgamelist">[http://gamegear.isgreat.org/games/gameslist.html "Robs Definitive Game Gear Games List"]. gamegear.isgreat.org. Retrieved on 2009-06-26.</ref> walaupun pada waktu itu Sega hanya merilis sekitar 6 judul permainan ''[[Columns (video game)|Columns]]''). Sega memastikan bahwa banyak [[Game]] yang tersedia untuk menarik pasaran yang lebih banyak. Setiap permainan dijual dengan harga antara $24.99 sampai $29.99.{{Citation needed|date=January 2008}} Permainan tersebut dibungkus dengan plastik hitam dan memiliki pinggiran yang oval untuk memudahkan pemindahan. 
+Judul-judul permainan yang popular termasuk [[Sonic The Hedgehog]] dan [[Lion King]].
+
+Sega memilih untuk tidak menggunakan kunci regional di dalam cartridge permainannya,ini merupakan langkah yang tidak biasa bagi Sega. Ini berarti sistem manapun dapat memainkan permainan ini di belahan bumi mana pun.<ref name="book">{{cite book|author=Wesley, David, and Gloria Barczak|title=Innovation and Marketing in the Video Game Industry: Avoiding the Performance Trap|publisher=Gower Publishing, Ltd.|isbn=0-5660-9167-4|year=2010}}</ref>
+
+== Penjualan dan Kompetisi ==
+Game Gear tidak begitu populer di Jepang. Dimana Game Gear ini diluncurkan di antara masyarakat yang apatis. Problem lain yaitu tingkat batere yang tidak tahan lama, Game Gear menggunakan 6 batere alkaline yang tidak lebih bagus dari Game boy yang memiliki tingkat batere sampe 10 jam. Sampai pada akhirnya konsol ini dibuat dengan menggunakan batere yang dapat di isi kembali. Menggunakan teknologi Ni-Cd, Tetapi hal ini menambah berat dari konsol Game Gear.
+
+Harga Game Gear lebih mahal daripada Game Boy, berkisar di antara $149.99, tetapi Game Boy hanya 89.99. Harga yang tinggi menimbulkan pelanggan yang pergi, dan tidak mampu membeli Game Gear ini.
+
+Ketika pertama kali diluncurkan di Amerika, iklan di televisi digunakan sebagai media promosi untuk mempromosikan Game Gear. Salah satu iklan ditampilkan dengan tampilan hitam putih yang berisi sejumlah buruh memainkan Game boys dengan layar monokrom, tiba tiba satu buruh memberontak dengan memainkan Game Gear,dan layar berubah jadi berwarna (hal ini menonjolkan layar Game Gear yang berwarna.) lalu buruh tersebut mucul dengan narasi The Sega Game Gear, separates the men from the boys lalu sejumlah buruh yang memainkan Game boys pun mengembalikan Game boys. Lalu iklan lainnya menampilkan satu aktor amerika Ethan Suplee memukul dirinya sendiri dengan tupai mati untuk mengubah layar hitam putih Game boy untuk menjadi berwarna seperti Game Gear. 
+Ketika Game boy muncul dengan berbagai case berwarna. Sega mengoloknya dengan meluncurkan iklan yang menggambarkan bahwa Game boy seperti serigala berbulu domba. Iklan lainnya menceritakan tentang seorang professor memberikan penjelasan bahwa walaupun Game boy telah muncul dengan berbagai warna case tetapi tetap saja layarnya bersifat monokrom dan hanya memiliki satu warna. Iklan lainnya bercerita tentang anjing yang buta warna tidak bisa memainkan Game boy karena layarnya.
+Ada satu iklan Game Gear yang dilarang tampil karena menunjukan rasisme, iklan ini bercerita tentang sekelompok keluarga dari amerika selatan yang lazim disebut rednecks memainkan gambe boy di dalam trailer mereka sedangkan di luar trailer mereka sekelompok anak gaul memainkan Game Gear.
+
+Selain dari layar Game Gear yang berwarna dan desain yang ergonomis, Game Gear gagal merebut pangsa pasar yang besar. Kesalahan terbesar Sega yaitu tidak mengggandeng pengembang pengembang software yang besar dan tidak sebanyak Nintendo, sebagai hasilnya Game Gear tidak banyak menghasilkan permainan permainan yang populer, walaupun begitu Game Gear berhasil mengalahkan kompetitor kompetitor dari Game Boy, seperti Atari Lynx. Game Gear juga menderita dari kesalahan yang sama dengan Atari Lynx hanya saja Sega lebih kuat di kampamye media dan iklan dan mempunyai judul permainan yang lebih bagus dari Atari Lynx. Dan Sega juga membangun Image publik yang bagus dengan isu durabilitas dari Game Gear tersebut. Game Gear dapat sukses di pasaran dengan mengalahkan Atari Lynx dan mengeluarkan Atari dari pangsa pasar daripada mengeluarkan Game Boy karena pasaran yang dominan.
+
+Mengikuti kesuksesan dari Sega Game Gear, mereka mulai mengembangkan project lainnya. Selama awal tahun 1990, mulai dikembangkan fitur dan teknologi layar sentuh, jauh sebelum Nintendo DS muncul, walaupun begitu teknologi layar sentuh masih sangat mahal pada waktu itu, dan diperkirakan harganya dapat mencapai 289 us dollar jika konsol berlayar sentuh diluncurkan. Sega sebagai strategi tidak mengeluarkan teknologi layar sentuh, sebagai gantinya ia mengeluarkan [[Sega Nomad]], versi portabel dari mega Drive (Genesis) sebagai suksesor.
+
+== Spesifikasi Teknis ==
+* '''Main processor:''' [[Zilog Z80]] (8-bit)<ref name="game console">{{cite web |url=http://gameconsoles.com/gamegearhome.htm |title=Game Gear Home |accessdate=2008-01-17 |publisher=GameConsoles.com}}{{Verify credibility|date=January 2009}}
+
+</ref>
+
+* '''Processor speed:''' 3.58&nbsp;MHz<ref name="game console"/> (same as [[NTSC]] dot clock)
+* '''Resolution:''' 160 x 144 pixels (same as Nintendo's Game Boy)
+* '''Colors available:''' 4,096<ref name="game console"/>
+* '''Colors on screen:''' 32<ref name="game console"/>
+* '''Maximum sprites:''' 64
+* '''Sprite size:''' 8x8 or 8x16
+* '''Screen size:''' 3.2&nbsp;inches (81&nbsp;mm)
+* '''Audio:''' 3 square wave generators, 1 noise generator, the system has a mono speaker, but stereo sound can be had via headphone output
+* '''RAM:''' 8 KB
+* '''Video RAM:''' 16 KB
+* '''Power:'''
+** internal: 6 [[AA battery|AA batteries]]<ref name="game console"/>
+** external: 9V DC, 300mA, 3W<ref>{{cite web|url=http://www.heimcomputer.de/english/konsolen/gamegear.html |title=Sega Gamegear |publisher=Heimcomputer |date=21 Dec 1999 |accessdate=2009-01-04}}</ref>{{Verify credibility|date=January 2009}}
+* '''Physical:'''
+** Width: 209&nbsp;mm
+** Height: 111&nbsp;mm
+** Depth: 37&nbsp;mm
+** weight: ~400g
+
+== Aksesoris ==
+Beberapa Aksesoris dari Game Gear juga diproduksi oleh Sega:
+[[Berkas:Sega-Game-Gear.jpg|thumb|Sebuah Game Gear dengan TV Tuner di atasnya. (HP 6174)]]
+
+* Game Gear TV-tuner, merupakan aksesoris yang dapat membuat Game Gear menonton televisi, alat ini ditancapkan ke dalam sistem cartridge Game Gear
+* The Super wide Gear merupakan aksesoris yang dapat membesarkan layar Game Gear, karena ukuran layarnya yang relative kecil.
+* Adaptor untuk mobil, alat untuk mengisi batere Game Gear ketika sedang di dalam perjalanan
+* Adaptor yang bernama Master Gear converter yaitu alat untuk mengconvert permainan dari Game system agar dapat dimainkan di Game Gear.
+* Gear to Gear cable. Alat ini dapat membuat koneksi data di antara 2 Game Gear, dapat digunakan untuk bermain permainan lebih dari 1 orang di dua Game Gear.
+* Powerback, merupakan alat tambahan untuk batere Game Gear agar dapat dimainkan dengan lebih lama.
+* Battery pack, dapat membuat Game Gear mempunyai tingkat batere yang lebih lama.
+
+== Pembuatan kembali dan Emulasi ==
+Sega menghentikan bantuan untuk Game Gear pada tahun 1997, tetapi [[Majesco]] meluncurkan permainan Game Gear tetapi dengan harga yang lebih murah. Majesco sedikit berbeda dalam meluncurkan permainan utuk Game Gear 
+Majesco merilis Game Gear dengan warna hitam dan mempunyai tombol hidup berwarna ungu. Logo Game Gear yang terletak di depan unit tidak lagi berwarna, dan unit ini tidak didukung tv tuner , layar nya memiliki tingkat responsif yang lebih rendah daripada model yang orisinil. Dan unit juga mempunyai speaker yang lebih baik dan bagus. Ini merupakan strategi dari Majesco untuk mendapatkan profit yang lebih tinggi dari produk yang tidak jauh berbeda dari rilis yang aslinya. Dan majesco pun mengantongi lisensi untuk merilis permainan Game Gear. Tetapi tidak disertai dengan bungkus plastik pada permainnya.
+Logo Majesco dalam Game Gear tidak diperbolehkan oleh Sega, karena itu logo Sega tetap dimunculkan di Game Gear.<ref name="gamepro">{{cite web |url=http://www.gamepro.com/article/features/125748/the-10-worst-selling-handhelds-of-all-time/ |title=The 10 Worst-Selling Handhelds of All Time |accessdate=January 17, 2008 |first=Blake |last=Snow |publisher=[[GamePro]].com |date=July 30, 2007|archiveurl=http://web.archive.org/web/20080918035922/http://www.gamepro.com/article/features/125748/the-10-worst-selling-handhelds-of-all-time/|archivedate=September 18, 2008}}</ref>
+
+Game Gear merupakan konsol sukses yang dibuat oleh Sega, pada waktu itu perusahaan yang dominan yaitu Nintendo untuk konsol Game portabel, selain itu Game Gear juga merupakan unit yang sukses sebagai kompetitor dari Game boy, terjual sekitar 11 juta unit.<ref name="Sega Stats">{{cite journal|title=Weekly ''Famitsu'' Express|work=Famitsu|volume=11|issue=392|date=June 21, 1996|page=8}}</ref>
+
+Di Jepang, permainan Game Gear tersedia melalui [[Nintendo Wii]], beberapa Game Sega ditambahkan ke dalam sistem Game Nintendo Wii.
+Pada 2 Maret 2011, [[Nintendo]] mengumumkan bahwa mesin virtual konsol 3D mereka dapat menghasilkan permainan Game Gear, service ini diluncurkan pada akhir Maret 2011.
+
+== Referensi ==
+{{Reflist}}
+
+== Pranala luar ==
+{{Portal|Sega}}
+
+* {{cite web |url=http://www.sega.com/support/supportsys.php?item=support_systems_other#handhelds |title=Official Sega support information |archiveurl=http://web.archive.org/web/20060321052436/http://www.sega.com/support/supportsys.php?item=support_systems_other |archivedate=2006-03-21}}
+* {{dmoz|Games/Video_Games/Console_Platforms/Sega/Game_Gear|Game Gear}}
+
+{{Sega}}
+{{dedicated video game handheld consoles}}
+
+[[Kategori:Konsol permainan]]
+[[Kategori:Sega]]
+[[Kategori:1990]]

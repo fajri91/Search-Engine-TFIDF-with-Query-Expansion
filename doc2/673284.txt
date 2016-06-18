@@ -1,0 +1,92 @@
+Templat:Tahun Baru
+{{Navbox
+| name      = Tahun Baru
+| state     = {{{state<includeonly>|autocollapse</includeonly>}}}
+| title     = [[Malam tahun baru|Malam Tahun Baru]] dan [[Hari Tahun Baru]]
+| listclass = hlist
+
+| group1 = Peristiwa
+| list1  = 
+* [[America's Party]]
+* [[First Night]]
+* [[Hogmanay]]
+* [[Malam Tahun Baru di London]]
+* [[Pelican Drop]]
+* [[Malam Tahun Baru Sydney]]
+* [[The Possum Drop]]
+* [[Bola Times Square]]
+* [[Konser Tahun Baru Wina]]
+
+| group2 = Olahraga
+| list2  = <!-- by sport -->
+* [[Rose Bowl Game|Rose Bowl]]
+* [[Orange Bowl]]
+* [[Capital One Bowl]]
+* [[Gator Bowl]]
+* [[Outback Bowl]]
+* [[Heart of Dallas Bowl]]
+* [[Four Hills Tournament]]
+* [[NHL Winter Classic]]
+* [[Spengler Cup|Final Spengler Cup]]
+* [[Balap jalanan Saint Silvester]]
+* [[Balap jalanan Nos Galan]]
+
+| group3 = Parade
+| list3  = 
+* [[Parade Mawar]]
+* [[Parade Hari Tahun Baru|Parade Hari Tahun Baru London]]
+* [[Parade Orlando Citrus]]
+* [[Parade Mummers]]
+
+| group4 = Acara televisi
+| list4  = 
+* ''[[Dick Clark's New Year's Rockin' Eve|New Year's Rockin' Eve]]''
+* ''[[New Year's Eve with Carson Daly]]''
+* ''[[New Year Live|BBC New Year Live]]''
+* ''[[New Year's Eve Live (CNN program)|CNN New Year's Eve Live]]''
+<!--Live coverage first, then followed alphabetically.-->
+* ''[[Bye Bye (serial TV)|Bye Bye]]''
+* ''[[Dinner for One]]''
+* ''[[Happy New Year, America]]''
+* ''[[Hogmanay Live]]''
+* ''[[Hootenanny (serial TV Britania Raya)|Hootenanny]]''
+* ''[[KDOC First Night]]''
+* ''[[Khaku Uta Gassen]]''
+* ''[[Only an Excuse?]]''
+* ''[[Red Bull New Year No Limits]]''
+* ''[[Scotch and Wry]]''
+* ''[[Musikantenstadl|Silvesterstadl]]''
+* ''[[Ein Herz und eine Seele|Silvesterpunsch]]''
+* ''[[2000 Today]]'' ([[ABC 2000 Today|AS]], [[Millennium Eve: Celebrate 2000|Irlandia]])
+* ''[[Happy New Year, Charlie Brown!]]''
+
+| group5 = Film
+| list5  = 
+* ''[[New Year's Eve (film)|New Year's Eve]]''
+
+| group6 = Musik
+| list6  = 
+* "[[Auld Lang Syne]]"
+* "[[Happy New Year (lagu)|Happy New Year]]"
+* "[[What Are You Doing New Year's Eve?]]"
+* "[[Levy-Dew]]"
+
+| group7 = Topik terkait
+| list7  = 
+* [[Kalender Gregorian]]
+* [[Tahun Baru Bayi]]
+* [[Calennig]]
+* [[Silvester|Hari Raya St. Silvester]]
+* [[Hogmanay]]
+* [[Natal|Musim libur]]
+* [[Detik kabisat]]
+* [[Guy Lombardo]]
+* [[Resolusi Tahun Baru]]
+* [[Pohon Tahun Baru]]
+* [[Vasilopita]]
+* [[Watchnight]]
+
+}}<noinclude>
+{{collapsible option}}
+[[Category:Kotak navigasi hari libur]]
+</noinclude>

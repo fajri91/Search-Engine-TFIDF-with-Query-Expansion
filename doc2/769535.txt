@@ -1,0 +1,6 @@
+Templat:HK-MTR route title
+<div style="width:100%; text-align:center;font-weight:bold"><span class="fn">{{{engname}}}</span><br />{{lang|zh-Hant-HK|{{{chiname}}}}}</div>{{#if:{{{line|}}}
+|<div style="width:100%; height:6px; background:#{{HK-MTR color|{{uc:{{{line|}}}}}}};"></div>}}{{#if:{{{line2|}}}
+|<div style="width:100%; height:6px; background:#{{HK-MTR color|{{uc:{{{line2|}}}}}}};"></div>}}{{#if:{{{line3|}}}
+|<div style="width:100%; height:6px; background:#{{HK-MTR color|{{uc:{{{line3|}}}}}}};"></div>}}{{#if:{{{line4|}}}
+|<div style="width:100%; height:6px; background:#{{HK-MTR color|{{uc:{{{line4|}}}}}}};"></div>}}

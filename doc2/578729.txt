@@ -1,0 +1,25 @@
+Metania fittkaui
+{{Taxobox |name = Metania fittkaui
+|regnum = [[Hewan|Animalia]]
+|subregnum = [[Parazoa]]
+|phylum = [[Porifera]]
+|classis = [[Demospongiae]]
+|ordo = [[Haplosclerida]]
+|familia = [[Metaniidae]]
+|genus = [[Metania]]
+|species = Metania fittkaui
+|binomial_authority =Volkmer-Ribeiro, 1979
+}}
+'''''Metania fittkaui''''' adalah [[spesies]] [[spons]] yang tergolong dalam kelas [[Demospongiae]]. Spesies ini juga merupakan bagian dari genus Metania dan [[familia]] Metaniidae. Nama ilmiah spesies ini pertama kali diterbitkan pada tahun 1979 oleh Volkmer-Ribeiro.
+
+Seperti spons pada umumnya, spesies ini memiliki tubuh yang berpori dan permukaan yang keras seperti [[batu]]. Selain itu, Metania fittkaui juga dapat menyerap [[oksigen]] dari [[air]] melalui proses [[difusi]].
+
+== Referensi ==
+
+* ''WoRMS Porifera: World Porifera Database''. Soest R. van (ed), 22 Oktober 2008.
+
+{{DEFAULTSORT:Metania fittkaui}}
+
+[[Kategori:Demospongiae]]
+
+{{porifera-stub}}

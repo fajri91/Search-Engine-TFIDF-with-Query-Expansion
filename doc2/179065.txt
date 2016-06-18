@@ -1,0 +1,116 @@
+Kepulauan Terluar Kecil Amerika Serikat
+[[Berkas:Flag of the United States.svg|thumb|250px|[[Bendera Amerika Serikat]] digunakan untuk semua Kepulauan Terluar Kecil Amerika Serikat]]
+[[Berkas:United States Minor Outlying Islands.png|thumb|250px|Peta yang memperlihatkan lokasi pulau di Samudera Pasifik (di kotak merah)]]
+'''Kepulauan Terluar Kecil Amerika Serikat''', sebuah penetapan statistikal yang dibuat oleh kode [[ISO 3166-1]] [[Organisasi Internasional untuk Standardisasi]], terdiri dari enam [[wilayah terluar]] [[Amerika Serikat]].
+
+[[Palmyra Atoll]] adalah satu-satunya [[teritori tak berhubungan]]. Tahun 2008, tak satupun pulau yang memiliki penduduk permanen. Hanya populasi manusia yang terdiri dari personel ilmiah dan militer sementara. [[Sensus Amerika Serikat 2000|sensus 2000]] menghitung 315 jiwa di Johnston Atoll dan 1 jiwa di Pulau Wake.<ref>[http://www.census.gov/prod/cen2000/phc3-us-pt1.pdf US Census 2000 Population Summary]  see Table I</ref> Tidak ada penduduk [[orang pribumi|pribumi]], kecuali pada [[Sensus Amerika Serikat 1940|sensus 1940]] [[Pulau Howland#Sejarah|Skema Kolonisasi Baker, Howland dan Jarvis]] berusaha menempatkan orang Amerika di ketiga pulau dimulai pada 1935, tapi ketiga pulau tersebut dievakuasi tahun 1942 karena [[Perang Dunia II]].
+
+Pulau-pulau dikumpulkan bersama sebagai bahan statistik. Mereka tidak diatur seluruhnya, juga tidak berbagi budaya tunggal atau sejarah politik ketika menjadi pulau tak berpenghuni di bawah kedaulatan Amerika Serikat.
+
+Mereka diwakili oleh kode [[ISO 3166-1 alpha-2]] UM. Pulau individual memiliki kode nomos [[ISO 3166-2]], lihat [[ISO 3166-2:UM]].
+[[Domain tingkat atas]] [[kode negara]] [[Internet]] ([[ccTLD]]) "[[.um]]" telah ditetapkan untuk pulau-pulau ini; tetapi, ccTLD .um dihapus pada Januari 2007.<ref>{{cite news |first = Anick|last = Jesdanun
+|title = Unused Domain Name for U.S. Isles Gone
+|url = http://www.msnbc.msn.com/id/16788293/
+|publisher = msnbc
+|date = [[24 January]], [[2007]]|accessdate = 2007-09-28
+}}</ref>
+
+Sebutan "Kepulauan Terluar Kecil Amerika Serikat" diperkenalkan tahun 1986. Mulai 1974 hingga 1986, lima dari pulau-pulau tersebut (Pulau Baker, Pulau Howland, Pulau Jarvis, Palmyra Atoll dan Kingman Reef) dikumpulkan di bawah nama [[Kepulauan Pasifik Lainnya AS]], dengan kode [[ISO 3166]] PU (kode Midway Atoll adalah MI, dan kode Johnston Atoll JT).
+
+== Bandar Udara ==
+Kode [[ICAO]] ([[IATA]]):
+* PJON (JON) - [[Bandar Udara Johnston Atoll]] - [[Johnston Atoll]]
+* PMDY (MDY) - [[Lapangan Terbang Henderson (Midway Atoll)|Lapangan Terbang Henderson]] (Fasilitas Udara Angkatan Laut) - Pulau Sand
+* PWAK (AWK) - [[Lapangan Terbang Pulau Wake]] - [[Pulau Wake]]
+* PLPA [[Bandar Udara Palmyra (Cooper)]] - [[Palmyra Atoll]] - Pulau Cooper
+* PBAR - Bandar Udara Pulau Baker - [[Pulau Baker]]
+* PLUR - Bandar Udara Jarvis - [[Pulau Jarvis]]
+* Lapangan Terbang Kamakaiwi - [[Pulau Howland]] (1937 hingga 1945)<ref>[http://e-archives.lib.purdue.edu/cdm4/results.php?CISOOP1=any&CISOFIELD1=CISOSEARCHALL&CISOROOT=/earhart&CISOBOX1=Richard Purdue University E-Archives : Search Results<!-- Bot generated title -->]</ref>
+* [[Kingman Reef]]: laguna digunakan sebagai stasiun setengah jalan antara Hawaii dan Samoa Amerika oleh Pan American Airways untuk kapal terbang tahun 1937 dan 1938 [http://www.faqs.org/docs/factbook/print/kq.html]
+
+== Pelabuhan ==
+Tiga pulau terdaftar dengan pelabuhan di [[World Port Index]][http://www.nga.mil/portal/site/maritime/?epi_menuItemID=dab63a42518d786b6058eef03227a759&epi_menuID=35ad5b8aabcefa1a0fc133443927a759&epi_baseMenuID=e106a3b5e50edce1fec24fd73927a759], dengan World Port Number:
+* 56325 JOHNSTON ATOLL - Johnston Atoll
+* 56328 MIDWAY ISLAND - Midway Atoll
+* 56330 WAKE ISLAND - Wake Island
+* tak terdaftar WEST LAGOON - Palmyra Atoll
+
+Pulau Baker, Pulau Howland dan Pulau Jarvis memiliki tempat berlabuh yang kecil. Kingman Reef dan Pulau Navassa memiliki penjangkaran lepas pantai.
+
+== Tabel Pulau ==
+{{clear}}
+{| class="wikitable"
+!style="background: #DDD"| [[Atol]]/[[Pulau]] !!style="background: #DDD"| Luas Pulau<br />km !!style="background: #DDD"| [[Laguna]]<br />km !!style="background: #DDD"| Koordinat !!style="background: #DDD"| [[National Wildlife Refuge|NWR]]<br />ditetapkan
+!!style="background: #DDD"| tanggal<br />pengambilan alih
+|- 
+| style="background: #EEE" colspan="9" align="center"|
+'''Pulau terisolasi tersebar di [[Samudera Pasifik]] Utara'''
+|- style="background: #FFF"
+| [[Pulau Wake]]<sup>1</sup> ||align="right"| 7.4 ||align="right"| 6 || {{coord|19|18|N|166|38|E|type:isle_region:UM|name=Wake Island}}|| N/A ||1899-01-17
+|- style="background: #FFF"
+| [[Johnston Atoll]]<sup>2</sup> ||align="right"| 2.52 ||align="right"| 130 || {{coord|16|45|N|169|31|W|type:isle_region:UM|name=Johnston Atoll}}  || N/A ||1859-09-06
+|-
+| style="background: #EEE" colspan="9" align="center"|
+'''Samudera Pasifik Utara, [[Kepulauan Hawaii Baratlaut]]'''
+|- style="background: #FFF"
+| [[Midway Atoll]] ||align="right"| 5.18 ||align="right"| 40 || {{coord|28|13|N|177|22|W|type:isle_region:UM|name=Midway Atoll}} ||1998||1867-08-28
+|-
+| style="background: #EEE" colspan="6" align="center"|
+'''Samudera Pasifik Tengah, [[Kepulauan Line]] Utara'''
+|- style="background: #FFF"
+| [[Kingman Reef]] ||align="right"| 0.01 ||align="right"| 76 || {{coord|6|24|N|162|24|W|type:isle_region:UM|name=Kingman Reef}} ||2001-01-18||1860-02-08
+|- style="background: #FFF"
+| [[Palmyra Atoll]]<sup>2</sup> ||align="right"| 6.56 ||align="right"| 15 || {{coord|5|53|N|162|05|W|type:isle_region:UM|name=Palmyra Atoll}}  ||2001-01-18||1912-02-21
+|-
+| style="background: #EEE" colspan="9" align="center"|
+'''Samudera Pasifik Tengah, [[Kepulauan Line]] Tengah'''
+|- style="background: #FFF"
+| [[Jarvis Island]] ||align="right"| 4.45 ||align="right"| - || {{coord|0|22|S|160|01|W|type:isle_region:UM|name=Jarvis Island}} ||1974||1856-10-28
+|-
+| style="background: #EEE" colspan="9" align="center"|
+'''Samudera Pasifik Tengah, [[Kepulauan Phoenix]] Utara'''
+|- style="background: #FFF"
+| [[Pulau Baker]] ||align="right"| 1.24 ||align="right"| - || {{coord|0|12|N|176|29|W|type:isle_region:UM|name=Baker Island}} ||1974||1856-10-28
+|- style="background: #FFF"
+| [[Pulau Howland]] ||align="right"| 1.62 ||align="right"| - || {{coord|0|48|N|176|37|W|type:isle_region:UM|name=Howland Island}} ||1974||1856-10-28
+|-
+| style="background: #EEE" colspan="9" align="center"|
+'''[[Laut Karibia]]'''
+|- style="background: #FFF"
+| [[Pulau Navassa]]<sup>3</sup> ||align="right"| 5.2 ||align="right"| - || {{coord|18|24|N|75|01|W|type:isle_region:UM|name=Navassa Island}}||1999-09-30||1858-10-31
+|- style="background: #FFF"
+| [[Bajo Nuevo Bank]]<sup>4</sup> ||align="right"| 0.02 ||align="right"| 155 || {{coord|15|53|N|78|38|W|type:isle|name=Bajo Nuevo Bank}}||N/A||1869-11-22
+|- style="background: #FFF"
+| [[Serranilla Bank]]<sup>4</sup> ||align="right"| 0.02 ||align="right"| 1200 || {{coord|15|50|N|79|50|W|type:isle|name=Serranilla Bank}}||N/A||1879-09-08<br />1880-09-13
+|- style="background: #DDD"
+| '''Kepulauan Terluar Kecil AS ||align="right"| 34.2 ||align="right"| 267 ||&nbsp; ||&nbsp; ||&nbsp;
+|-
+| style="background: #fffff" colspan="9" align="left"|<sup>1</sup>diklaim [[Kepulauan Marshall]]
+|-
+| style="background: #fffff" colspan="9" align="left"|<sup>2</sup>sebelumnya diklaim [[Hawaii]] ketika merdeka. Palmyra secara resmi bagian dari Hawaii hingga 1959.
+|-
+| style="background: #fffff" colspan="9" align="left"|<sup>3</sup>diklaim [[Haiti]]
+|-
+| style="background: #fffff" colspan="9" align="left"|<sup>4</sup>Pulau ini dipersengketakan antara [[Kolombia]], [[Jamaika]], dan mungkin [[Honduras]].<br />&nbsp;&nbsp;&nbsp;Luasnya tidak dimasukkan ke luas total.<br />&nbsp;&nbsp;&nbsp;Hanya satu sumber online Pemerintah AS [http://geonames.usgs.gov/pls/gnispublic/f?p=171:2:17060252162063627411::NO::P3_FID::YES] yang mendaftarkan pulau-pulau ini dalam konteks Kepulauan Terluar Kecil Amerika Serikat, lainnya tidak [http://www.gao.gov/archive/1998/og98005.pdf] mendaftarkan mereka sebagai wilayah sengketa.
+|}
+
+== Lihat pula ==
+* [[ISO 3166-2:UM]]
+* [[Daftar bandar udara menurut kode ICAO: P]]
+* [[Daftar bandar udara di kepulauan kecil Amerika Serikat]]
+* [[United States Pacific Island Wildlife Refuges]]
+* [[Kepulauan Karibia Lainnya Amerika Serikat]]
+* [[Kepulauan Pasifik Lainnya Amerika Serikat]]
+
+== Catatan kaki ==
+{{reflist}}
+
+== Pranala luar ==
+* [http://www.worldstatesmen.org/US_minor.html WorldStatesmen- U.S.]
+* [http://www.fws.gov/coralreef/proceedings/Day%202%20PDF/9-Jim%20Maragos.pdf Pacific Island Wildlife Refuges]
+* [https://www.cia.gov/library/publications/the-world-factbook/geos/um.html CIA World Factbook: United States Pacific Island Wildlife Refuges]
+* [http://www.library.uu.nl/wesp/populstat/Oceania/usaexttp.htm Historical Population figures]
+* [http://www.doi.gov/oia/Islandpages/acquisition_process.htm dates of acquisition]
+
+[[Kategori:Pembagian administratif Amerika Serikat]]
+[[Kategori:Kolonialisme]]

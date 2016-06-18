@@ -1,0 +1,2 @@
+Templat:Atas
+<div style="float:right">[[#top| atas ]]</div>

@@ -1,0 +1,106 @@
+Sportivo Belgrano
+{{Infobox football club 
+| clubname = Sportivo Belgrano 
+| image = [[File:Escudo del Club Sportivo Belgrano de San Francisco.svg|100px]]
+| fullname = Sportivo Belgrano
+| nickname = ''Verde'' 
+| founded = {{Start date and years ago|df=yes|1914|4|15}} 
+| ground =  Estadio Oscar C.Boero, [[San Francisco]] <br/> [[Provinsi Crdoba (Argentina)|Crdoba]]
+| capacity =  9,200 
+| chairman = Rubn Boetto
+| manager = Daniel Primo   
+| league =  [[Primera B Nacional]]
+| season = 2012-13
+| position = Promosi ke [[Primera B Nacional]]
+| website = http://www.sportivobelgranocba.com.ar/
+| pattern_la1=_sb1314h|pattern_b1=_sb1314h|pattern_ra1=_sb1314h|pattern_sh1=_white_stripes
+| leftarm1=008000|body1=008000|rightarm1=008000|shorts1=008000|socks1=008000
+| pattern_la2=_sb1314a|pattern_b2=_sb1314a|pattern_ra2=_sb1314a|pattern_sh2=_white_stripes
+| leftarm2=000000|body2=000000|rightarm2=000000|shorts2=000000|socks2=000000
+| pattern_la3=_ituzaingo1213a|pattern_b3=_sb1314t|pattern_ra3=_ituzaingo1213a|pattern_sh3=_sides_on_white
+| leftarm3=ffffff|body3=ffffff|rightarm3=ffffff|shorts3=008000|socks3=ffffff
+}}
+
+'''Sportivo Belgrano''' adalah tim [[sepak bola]]] profesional asal [[Argentina]] yang bermukim di [[San Francisco]] <br/> [[Provinsi Crdoba (Argentina)|Crdoba]]. Tim kini berkompetisi di [[Primera B Nacional]], divisi kedua di peta persepak bolaan [[Argentina]].
+
+Tim berhasil promosi ke [[Primera B Nacional]] musim 2012-13 setelah mengalahkan [[Deportivo Santamarina]] dengan total aggregat 1-1, dengan keunggulan gol di kandang lawan<ref>[http://www.clarin.com/deportes/Sportivo-Belgrano-llego-Primera-Nacional_0_947905225.html "Sportivo Belgrano lleg a la Primera B Nacional", ''Clarn'', 30 June 2013]</ref> <ref>[http://mundod.lavoz.com.ar/futbol/sportivo-belgrano-esta-en-el-nacional-b-empato-sobre-la-hora-con-santamarina-y-ascendio "Sportivo Belgrano est en el Nacional B: empat sobre la hora con Santamarina y ascendi", ''La Voz'', 30 June 2013]</ref>.
+
+==Skuat==
+{{Fs start}}
+{{Fs player|nat=Argentina|name=Csar Rigamonti|pos=GK}}
+{{Fs player|nat=Argentina|name=Esteban dei Rossi|pos=GK}}
+{{Fs player|nat=Argentina|name=Emiliano Bovero|pos=GK}}
+{{Fs player|nat=Argentina|name=Luciano Molini|pos=GK}}
+{{Fs player|nat=Argentina|name=David Altuna|pos=DF}}
+{{Fs player|nat=Argentina|name=Abel Espinoza|pos=DF}}
+{{Fs player|nat=Argentina|name=Daro Farina|pos=DF}}
+{{Fs player|nat=Argentina|name=Maximiliano Favot|pos=DF}}
+{{Fs player|nat=Argentina|name=Matas Finello|pos=DF}}
+{{Fs player|nat=Argentina|name=Martn Garca|pos=DF}}
+{{Fs player|nat=Argentina|name=Mauro Martnez|pos=DF}}
+{{Fs player|nat=Argentina|name=Diego Mondino|pos=DF}}
+{{Fs player|nat=Argentina|name=Roberto Palacios|pos=DF}}
+{{Fs player|nat=Argentina|name=Carlos Ponc|pos=DF}}
+{{Fs player|nat=Argentina|name=Martn Quiles|pos=DF}}
+{{Fs player|nat=Argentina|name=Franco Sbuttoni|pos=DF}}
+{{Fs player|nat=Argentina|name=Juan Vojvoda|pos=DF}}
+{{Fs player|nat=Argentina|name=[[Ezequiel Barrionuevo]]|pos=MF}}
+{{Fs player|nat=Argentina|name=Gastn Cabral|pos=MF}}
+{{Fs mid}}
+{{Fs player|nat=Argentina|name=Juan Simn Chanqua|pos=MF}}
+{{Fs player|nat=Argentina|name=[[Leandro Depetris]]|pos=MF}}
+{{Fs player|nat=Argentina|name=Damin Felicia|pos=MF}}
+{{Fs player|nat=Argentina|name=[[Juan Pablo Francia]]|pos=MF}}
+{{Fs player|nat=Argentina|name=Juan Carlos Galrraga|pos=MF}}
+{{Fs player|nat=Brazil|name=[[Gustavo Maccarone]]|pos=MF}}
+{{Fs player|nat=Argentina|name=[[Sebastin Malandra]]|pos=MF}}
+{{Fs player|nat=Argentina|name=Luciano Mazzina|pos=MF}}
+{{Fs player|nat=Argentina|name=Franco aez|pos=MF}}
+{{Fs player|nat=Argentina|name=Santago Sandoval|pos=MF}}
+{{Fs player|nat=Argentina|name=Facundo Schmidt|pos=MF}}
+{{Fs player|nat=Argentina|name=[[Lucas Trejo]]|pos=MF}}
+{{Fs player|nat=Argentina|name=[[Juan Arostegui|Juan Manuel Arstegui]]|pos=FW}}
+{{Fs player|nat=Argentina|name=[[Daniel Cigogna]]|pos=FW}}
+{{Fs player|nat=Argentina|name=[[Juan Pablo Compagnucci|Gabriel Compagnucci]]|pos=FW}}
+{{Fs player|nat=Argentina|name=[[Mauro Conochiari]]|pos=FW}}
+{{Fs player|nat=Argentina|name=Facundo Perassi|pos=FW}}
+{{Fs player|nat=Argentina|name=Ivn Sequeira|pos=FW}}
+{{Fs end}}
+
+===Daftar pemain===
+{{col-begin}}
+{{col-3}}
+* {{flagicon|Argentina}} Julio Alcors
+* {{flagicon|Argentina}} Luis Aseff
+* {{flagicon|Argentina}} Horacio Ral Baldessari
+* {{flagicon|Argentina}} [[Juan Manuel Cavallo]]
+* {{flagicon|Argentina}} Damin Cirillo
+* {{flagicon|Argentina}} Mariano Clemente
+* {{flagicon|Argentina}} Rodolfo Fischer
+{{col-3}}
+* {{flagicon|Argentina}} Daro Gigena
+* {{flagicon|Argentina}} Nicolas Ezequiel Gorosito
+* {{flagicon|Argentina}} Bruno Martelotto
+* {{flagicon|Argentina}} Fernando Mndez
+* {{flagicon|Argentina}} Omar Sebastin Monesterolo
+* {{flagicon|Argentina}} Leonardo Pekarnik
+* {{flagicon|Argentina}} Diego Salvatierra
+{{col-3}}
+* {{flagicon|Argentina}} Carmelo Simeone
+* {{flagicon|Argentina}} Mariano Sorrentino
+* {{flagicon|Argentina}} Enzo Trossero
+* {{flagicon|Argentina}} Emiliano Elias Zapata
+* {{flagicon|Uruguay}}Juan Marcelo Toya
+{{col-end}}
+
+==Referensi==
+<references/>
+
+==Pranala luar==
+*[http://www.sportivobelgranocba.com.ar/ Official website] {{es icon}}
+*[http://locuraverde.com.ar/principal.htm Locura Verde] {{es icon}}
+*[http://www.pasionxsportivo.com Pasin por Sportivo] {{es icon}}
+
+{{klub-sb-stub}}
+
+[[Kategori:Tim sepak bola Argentina]]

@@ -1,0 +1,19 @@
+Berkas:Unfaithful.jpg
+{{Information
+|description    = {{Information
+|description    = |source         = (sumber)
+|date           = (tanggal)
+|location       = (tempat; opsional)
+|author         = (pembuat)
+|permission     = 
+|other_versions = 
+}}
+== {{int:license-header}} ==
+{{GFDL}}
+|source         = 
+|date           = 
+|location       = 
+|author         = 
+|permission     = 
+|other_versions = 
+}}

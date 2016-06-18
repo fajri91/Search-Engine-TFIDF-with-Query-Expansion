@@ -1,0 +1,11 @@
+Templat:Country flag IOC alias GEO
+{{ #switch: {{{1}}}
+| Musim Dingin 1994
+| Atlanta 1996
+| Musim Dingin 1998
+| Sydney 2000
+| Musim Dingin 2002 = Flag of Georgia (1990-2004).svg
+| #default = Flag of Georgia.svg
+}}<noinclude>
+[[Kategori:Templat alias bendera negara IOC|GEO]]
+</noinclude>

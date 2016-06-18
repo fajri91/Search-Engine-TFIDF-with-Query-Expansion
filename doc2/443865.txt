@@ -1,0 +1,112 @@
+Tim nasional sepak bola Malawi
+{{Infobox National football team
+| Name              = Malawi
+| Badge             = Malawi FA.png
+| Nickname          = The Flames
+| Association       = [[Asosiasi Sepak Bola Malawi]]
+| Sub-confederation = {{nowrap begin}} [[Council of Southern Africa Football Associations|COSAFA]] (Afrika Selatan)
+| Confederation     = [[Confederation of African Football|CAF]] (Afrika)
+| Coach             = [[Kinnah Phiri]]
+| Most caps         =
+| Top scorer        =
+| Home Stadium      = [[Kamuzu Stadium]]
+| FIFA Trigramme    = MWI
+| FIFA Rank         = 96
+| FIFA max          = 53
+| FIFA max date     = Desember 1992
+| FIFA min          = 138
+| FIFA min date     = Desember 2007, Maret 2008
+| Elo Rank          = 106
+| Elo max           = 47
+| Elo max date      = June 1988
+| Elo min           = 145
+| Elo min date      = Desember 1999
+|pattern_la1= _mwihome1112
+|pattern_b1= _egy1012h
+|pattern_ra1= _mwihome1112
+|pattern_sh1= _mwihome
+|pattern_so1=_mwihome
+|leftarm1=FF0000
+|body1=FF0000
+|rightarm1=
+|shorts1=FFFFFF
+|socks1=FF0000
+|pattern_la2=_mwiaway
+|pattern_b2=_mwiaway
+|pattern_ra2=_mwiaway
+|pattern_sh2=_mwiaway
+|pattern_so2=_mwiaway
+|leftarm2=FFFFFF
+|body2=FFFFFF
+|rightarm2=FFFFFF
+|shorts2=FF0000
+|socks2=5abb5f
+| First game         =  Nyasaland  012 {{timnas|Ghana}} <br> ([[Malawi]]; 15 Oktober 1962) [http://www.rsssf.com/tablesm/malaw-intres.html]
+| Largest win = Malawi 81 {{timnas|Botswana}} <br> ([[Malawi]]; 13 Juli 1968) <br> Malawi 81 {{timnas|Djibouti}} <br> ([[Blantyre, Malawi|Blantyre]], [[Malawi]]; 31 Mei 2008)
+| Largest loss       =  Nyasaland  012 {{timnas|Ghana}} <br> ([[Malawi]]; 15 Oktober 1962)
+| World cup apps     =
+| World cup first    =
+| World cup best     =
+| Regional name      = [[Piala Afrika]]
+| Regional cup apps  = 2
+| Regional cup first = [[Piala Afrika 1984|1984]]
+| Regional cup best  = Round 1; [[Piala Afrika 1984|1984]] dan [[Piala Afrika 2010|2010]]
+}}
+'''Tim nasional sepak bola Malawi''' merupakan sebuah tim nasional [[sepak bola]] yang prestasinya mencapai babak pertama [[Piala Afrika]] pada tahun [[1984]] dan [[2010]] dan berada di bawah [[Asosiasi Sepak Bola Malawi]]. Tim ini belum pernah tampil di ajang [[Piala Dunia]].
+
+==Rekor Piala Dunia==
+* {{wc|1930}} hingga {{wc|1974}} - ''Tidak ikut''
+* {{wc|1978}} hingga {{wc|1990}} - ''Tidak lolos''
+* {{wc|1994}} - ''Mundur dari kualifikasi''
+* {{wc|1998}} hingga {{wc|2010}} - ''Tidak lolos''
+
+==Rekor Piala Afrika==
+*[[1957 African Cup of Nations|1957]] to [[1974 African Cup of Nations|1974]] &ndash; ''Tidak ikut''
+*[[1976 African Cup of Nations|1976]] to [[1982 African Cup of Nations|1982]] &ndash; ''Tidak lolos''
+*[[1984 African Cup of Nations|1984]] &ndash; Babak 1
+*[[1986 African Cup of Nations|1986]] to [[2008 Africa Cup of Nations|2008]] &ndash; ''Tidak lolos''
+*[[2010 Africa Cup of Nations|2010]] &ndash; Babak 1
+*[[2012 Africa Cup of Nations|2012]] &ndash; ''Tidak lolos''
+
+==Skuad==
+{{nat fs g start}}
+{{nat fs g player|no=|pos=GK|name=[[Simplex Nthala]] |age={{birth date and age|1988|02|24|df=y}}|caps=7|goals=0|club=[[Liga Muulmana de Maputo|Liga Muulmana]]|clubnat=Mozambique}}
+{{nat fs g player|no=|pos=GK|name=Amadu Ali |age=|caps=3|goals=0|club=[[Silver Strikers]]|clubnat=Malawi}}
+{{nat fs g player|no=|pos=GK|name=[[Charles Swini]]|age={{birth date and age|1985|02|28|df=y}}|caps=4|goals=0|club=[[Super ESCOM]]|clubnat=Malawi}}
+|-----
+! colspan="9" bgcolor="#B0D3FB" align="left" |
+|----- bgcolor="#DFEDFD"
+{{nat fs g player|no=|pos=DF|name=[[Moses Chavula]] |age={{birth date and age|1985|8|8|df=y}}|caps=40|goals=5|club=[[AmaZulu F.C.|AmaZulu]]|clubnat=RSA}}
+{{nat fs g player|no=|pos=DF|name=[[James Sangala]] |age={{birth date and age|1986|8|20|df=y}}|caps=36|goals=0|club=[[Nathi Lions F.C.|Primeiro de Agosto]]|clubnat=Angola}}
+{{nat fs g player|no=|pos=DF|name=Limbikani Mzaba |age=|caps=7|goals=0|club=[[Bloemfontein Celtic F.C.|Bloemfontein Celtic]]|clubnat=RSA}}
+{{nat fs g player|no=|pos=DF|name=Pilirani Makupe |age=|caps=5|goals=0|club=CIVO United|clubnat=Malawi}}
+{{nat fs g player|no=|pos=DF|name=Forster Namwera |age=|caps=1|goals=0|club=[[MTL Wanderers]]|clubnat=Malawi}}
+{{nat fs g player|no=|pos=DF|name=Francis Mlimbika |age=|caps=0|goals=0|club=[[MTL Wanderers]]|clubnat=Malawi}}
+|-----
+! colspan="9" bgcolor="#B0D3FB" align="left" |
+|----- bgcolor="#DFEDFD"
+{{nat fs g player|no=|pos=MF|name=[[Joseph Kamwendo]] |age={{birth date and age|1986|10|23|df=y}}|caps=48|goals=2|club=[[MTL Wanderers]]|clubnat=Malawi}}
+{{nat fs g player|no=|pos=MF|name=[[Davi Banda]]|age={{birth date and age|1983|12|29|df=y}}|caps=31|goals=4|club=[[Black Leopards F.C.|Black Leopards]]|clubnat=South Africa}}
+{{nat fs g player|no=|pos=MF|name=[[Peter Wadabwa]] |age={{birth date and age|1988|9|14|df=y}}|caps=22|goals=3|club=[[Thanda Royal Zulu]]|clubnat=South Africa}}
+{{nat fs g player|no=|pos=MF|name=Frank Banda |age=|caps=9|goals=1|club=CIVO United|clubnat=Malawi}}
+{{Nat fs g player|no=|pos=MF|name=[[Tawonga Chimodzi]]|age={{birth date and age|1988|8|26|df=y}}|caps=9|goals=0|club=[[Santos Football Club (South Africa)|Santos]]|clubnat=RSA}}
+{{nat fs g player|no=|pos=MF|name=Chimango Kayira |age={{birth date and age|1993|9|28|df=y}}|caps=4|goals=0|club=[[Super ESCOM]]|clubnat=Malawi}}
+{{nat fs g player|no=|pos=MF|name=John Banda |age=|caps=3|goals=1|club=Blue Eagles|clubnat=Malawi}}
+{{nat fs g player|no=|pos=MF|name=Clement Mvula |age=|caps=0|goals=0|club=[[Silver Strikers F.C.|Silver Strikers]]|clubnat=Malawi}}
+|-----
+! colspan="9" bgcolor="#B0D3FB" align="left" |
+|----- bgcolor="#DFEDFD"
+{{nat fs g player|no=|pos=FW|name=[[Chiukepo Msowoya]] |age={{birth date and age|1988|9|23|df=y}}|caps=30|goals=10|club=[[Platinum Stars  F.C.|Platinum Stars]]|clubnat=South Africa}}
+{{nat fs g player|no=|pos=FW|name=[[Atusaye Nyondo]] |age={{birth date and age|1988|07|25|df=y}}|caps=15|goals=2|club=[[SuperSport United F.C.|SuperSport United]]|clubnat=South Africa}}
+{{nat fs g player|no=|pos=FW|name=Robin Ngalande |age={{birth date and age|1992|11|2|df=y}}|caps=0|goals=0|club=[[Atltico Madrid]] Youth|clubnat=Spain}}
+{{nat fs g player|no=|pos=FW|name=Ishmael Thindwa |age=|caps=0|goals=0|club=EPAC United |clubnat=Malawi}}
+{{nat fs g player|no=|pos=FW|name=Harvey Nkacha |age=|caps=0|goals=0|club=Zomba United |clubnat=Malawi}}
+{{nat fs g end}}
+
+==Pranala luar==
+*[http://www.fam.mw/ Situs resmi]
+*[http://www.fifa.com/associations/association=mwi/index.html Malawi] di FIFA.com
+
+{{sepakbola-stub}}
+
+[[Kategori:Tim sepak bola]]

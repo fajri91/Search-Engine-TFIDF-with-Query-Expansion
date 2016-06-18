@@ -1,0 +1,23 @@
+Wikipedia bahasa Tagalog
+{{Infobox website
+| name = [[Image:Wikipedia-favicon.png|16px|Favicon of Wikipedia]] Wikipedia bahasa Tagalog
+| logo = [[Image:Wikipedia-logo-v2-tl.png|Logo dari Wikipedia bahasa Tagalog]]
+| screenshot = [[File:Tagalog Wikipedia screenshot.png|240px|The Tagalog Wikipedia Main Page]]| url = [http://tl.wikipedia.org/ tl.wikipedia.org]
+| commercial = Tidak
+| type = [[Proyek ensiklopedia internet]]
+| language = Tagalog
+| registration = Opsional
+| sister version =
+| owner = [[Wikimedia Foundation]]
+| author =}}
+
+'''Wikipedia bahasa Tagalog''' adalah [[ensiklopedia]] daring [[Bahasa Tagalog|berbahasa Tagalog]] yang dijalankan olah [[Yayasan Wikimedia]]. Wikipedia bahasa Tagalog mulai berjalan bulan [[Desember 2003|Desember]] [[2003]], dan telah memiliki lebih dari [[:tl:Special:Statistics|50.000 artikel]] sejak 3 [[Februari 2011|Februari]] [[2011]].<ref>[http://tl.wikipedia.org/ Tagalog Wikipedia home page], retrieved on February 3, 2011.</ref>
+
+==Referensi==
+{{reflist}}
+
+{{wikipedia-stub}}
+{{InterWiki|code=tl|Tagalog}}
+{{wikipedias}}
+
+[[Kategori:Wikipedia menurut bahasa]]

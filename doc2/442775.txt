@@ -1,0 +1,292 @@
+Distrik pos London
+'''Distrik pos London''' adalah wilayah di [[Inggris]] dengan luas {{convert|241|sqmi|km2}},<ref name=inner>HMSO, ''The Inner London Letter Post'', (1980)</ref> yang menjadi daerah tujuan semua surat yang mencantumkan [[kota pos]] '''LONDON'''. Distrik ini awalnya dibentuk pada tahun 1856<ref name=wilson>[http://www.visionofbritain.org.uk/descriptions/entry_page.jsp?text_id=730390 IGWE] - John Marius Wilson, ''[[Imperial Gazetteer of England and Wales]]'' (1870-72)</ref> dan sudah mengalami beberapa reorganisasi, kontraksi dan pembagian menjadi unit-unit pos yang semakin kecil. Distrik ini terintegrasi dengan [[kode pos di Britania Raya|sistem kode pos nasional Britania Raya]] pada awal 1970-an<ref name=bpma>British Postal Museum and Archive - [http://www.postalheritage.org.uk/history/downloads/BPMA_Info_Sheet_Postcodes_web.pdf Information Sheet: Postcodes]</ref> dan saat ini tunduk pada [[Daftar wilayah kode pos di Britania Raya|wilayah kode pos]] N, NW, SW, SE, W, WC, E dan EC.<ref name=guide>Royal Mail, ''Address Management Guide'', (2004)</ref> Distrik pos ini juga dikenal sebagai '''wilayah pos London''' dan [[Inner London|kawasan terdalam]] '''daerah pos London'''.<ref name=inner/>
+
+==Daftar distrik pos London==
+:''Nama distrik kode pos merujuk pada kantor pengiriman aslinya.<ref name="streets 1930">{{cite web | publisher=[[Office of Public Sector Information|HMSO]] | title= Names of Streets and Places in the London Postal area |url=http://www.londonancestor.com/po/1map-w.htm  | year=1930 }}</ref><ref name="bartholomew1963">[http://www.flickr.com/photos/grepnold/3301761144 Map of London district names and numbers], from the 1963 edition of Bartholomew's Reference Atlas of Greater London</ref> Sejumlah distrik kode pos telah dibagi-bagi lagi. Artikel wilayah kode pos berisi informasi lengkap tentang setiap distrik.''
+
+{| 
+| valign="top" |
+{| class="wikitable" 
+! Wilayah kode pos || Distrik<ref name=inner/> || Distrik kode pos dan nama  
+|- 
+| [[Wilayah kode pos E|E]] || ''Eastern'' || '''E1 Head district'''<br> E2 Bethnal Green<br> E3 Bow<br> E4 Chingford<br> E5 Clapton<br> E6 East Ham<br>E7 Forest Gate<br> E8 Hackney<br> E9 Homerton<br> E10 Leyton<br> E11 Leytonstone<br>E12 Manor Park<br> E13 Plaistow<br> E14 Poplar<br> E15 Stratford<br> E16 Victoria Docks and North Woolwich<br> E17 Walthamstow<br> E18 Woodford and South Woodford<br> E20 Olympic Park
+|- 
+| [[Wilayah kode pos EC|EC]] || ''Eastern Central'' || '''EC1 Head district'''<br>EC2 Bishopsgate<br>EC3 Fenchurch Street<br>EC4 Fleet Street
+|- 
+| [[Wilayah kode pos N|N]] || ''Northern'' || '''N1 Head district'''<br> N2 East Finchley<br> N3 Finchley<br> N4 Finsbury Park<br> N5 Highbury<br> N6 Highgate<br> N7 Holloway<br>N8 Hornsey<br> N9 Lower Edmonton<br> N10 Muswell Hill<br> N11 New Southgate<br> N12 North Finchley<br> N13 Palmers Green<br> N14 Southgate<br> N15 South Tottenham<br> N16 Stoke Newington<br> N17 Tottenham<br> N18 Upper Edmonton<br> N19 Upper Holloway<br> N20 Whetstone<br> N21 Winchmore Hill<br> N22 Wood Green
+|}
+| valign="top" |
+{| class="wikitable" 
+! Wilayah kode pos || Distrik<ref name=inner/> || Distrik kode pos dan nama 
+|-
+| [[NW|NW]] || ''North Western'' || '''NW1 Head district'''<br> NW2 Cricklewood<br> NW3 Hampstead<br> NW4 Hendon<br> NW5 Kentish Town<br> NW6 Kilburn<br> NW7 Mill Hill<br> NW8 St John's Wood<br> NW9 The Hyde<br> NW10 Willesden<br> NW11 Golders Green
+|-
+| [[Wilayah kode pos SE|SE]] || ''South Eastern'' || '''SE1 Head district'''<br> SE2 Abbey Wood<br> SE3 Blackheath<br> SE4 Brockley<br> SE5 Camberwell<br> SE6 Catford<br> SE7 Charlton<br> SE8 Deptford<br> SE9 Eltham<br> SE10 Greenwich<br> SE11 Kennington<br> SE12 Lee<br> SE13 Lewisham<br> SE14 New Cross<br> SE15 Peckham<br> SE16 Rotherhithe<br> SE17 Walworth<br> SE18 Woolwich<br> SE19 Upper Norwood<br> SE20 Anerley<br> SE21 Dulwich<br> SE22 East Dulwich<br> SE23 Forest Hill<br> SE24 Herne Hill<br> SE25 South Norwood<br> SE26 Sydenham<br> SE27 West Norwood<br> SE28 Thamesmead
+|}
+| valign="top" |
+{| class="wikitable" 
+! Wilayah kode pos || Distrik<ref name=inner/> || Distrik kode pos dan nama 
+|- 
+| rowspan="2" | [[Wilayah kode pos SW|SW]] || ''South Western'' || '''SW1 Head district'''<br> SW2 Brixton<br> SW3 Chelsea<br> SW4 Clapham<br> SW5 Earls Court<br> SW6 Fulham<br> SW7 South Kensington<br> SW8 South Lambeth<br> SW9 Stockwell<br> SW10 West Brompton
+|-
+| ''Battersea'' || '''SW11 Head district'''<br> SW12 Balham<br> SW13 Barnes<br> SW14 Mortlake<br> SW15 Putney<br> SW16 Streatham<br> SW17 Tooting<br> SW18 Wandsworth<br> SW19 Wimbledon<br> SW20 West Wimbledon
+|- 
+| rowspan="2" | [[Wilayah kode pos W|W]] || ''Western'' || '''W1 Head district'''
+|- 
+| ''Paddington'' || '''W2 Head district'''<br> W3 Acton<br> W4 Chiswick<br> W5 Ealing<br> W6 Hammersmith<br> W7 Hanwell<br> W8 Kensington<br> W9 Maida Hill<br> W10 North Kensington<br> W11 Notting Hill<br> W12 Shepherds Bush<br> W13 West Ealing<br> W14 West Kensington
+|- 
+| [[Wilayah kode pos WC|WC]] || ''Western Central'' || '''WC1 Head district'''<br>WC2 Strand 
+|}
+|}
+
+[[Image:london postcodes.png]]
+
+==Daerah pos London==
+Wilayah kode pos [[Wilayah kode pos BR|BR]], [[Wilayah kode pos CR|CR]], [[Wilayah kode pos DA|DA]], [[Wilayah kode pos EN|EN]], [[Wilayah kode pos HA|HA]], [[Wilayah kode pos IG|IG]], [[Wilayah kode pos KT|KT]], [[Wilayah kode pos RM|RM]], [[Wilayah kode pos SM|SM]], [[Wilayah kode pos TW|TW]], [[Wilayah kode pos UB|UB]] dan [[Wilayah kode pos WD|WD]], bersama '''distrik pos London''', mencakup keseluruhan '''daerah pos London'''.<ref name=inner/> Wilayah kode pos yang meliputi London Raya tersebut adalah:
+
+{| 
+| valign="top" |
+{| class="wikitable"
+|-
+! Wilayah kode pos
+! Kota pos
+! Distrik kode pos
+|-
+| rowspan="7" | [[Wilayah kode pos BR|BR]]
+| BROMLEY
+| BR1, BR2
+|-
+| KESTON
+| BR2
+|-
+| BECKENHAM
+| BR3
+|-
+| WEST WICKHAM
+| BR4
+|-
+| ORPINGTON
+| BR5, BR6
+|-
+| CHISLEHURST
+| BR7
+|-
+| SWANLEY
+| BR8
+|-
+| rowspan="7" | [[Wilayah kode pos CR|CR]]
+| CROYDON
+| CR0, CR9
+|-
+| SOUTH CROYDON
+| CR2
+|-
+| MITCHAM
+| CR4
+|-
+| COULSDON
+| CR5
+|-
+| WARLINGHAM
+| CR6
+|-
+| THORNTON HEATH
+| CR7
+|-
+| PURLEY
+| CR8
+|-
+| rowspan="7" | [[Wilayah kode pos DA|DA]]
+| DARTFORD
+| DA1
+|-
+| BEXLEY
+| DA5
+|-
+| BEXLEYHEATH
+| DA6, DA7
+|-
+| ERITH
+| DA8, DA18
+|-
+| SIDCUP
+| DA14, DA15
+|-
+| WELLING
+| DA16
+|-
+| BELVEDERE
+| DA17
+|-
+| rowspan="3" | [[Wilayah kode pos EN|EN]]
+| ENFIELD
+| EN1, EN2, EN3
+|-
+| BARNET
+| EN4, EN5
+|-
+| WALTHAM CROSS
+| EN8
+|-
+| rowspan="7" | [[Wilayah kode pos HA|HA]]
+| WEMBLEY
+| HA0, HA9
+|-
+| HARROW
+| HA1, HA2, HA3
+|-
+| RUISLIP
+| HA4
+|-
+| PINNER
+| HA5
+|-
+| NORTHWOOD
+| HA6
+|-
+| STANMORE
+| HA7
+|-
+| EDGWARE
+| HA8
+|-
+| rowspan="4" | [[Wilayah kode pos IG|IG]]
+| ILFORD
+| IG1, IG2, IG3, IG4, IG5, IG6
+|-
+| CHIGWELL
+| IG7
+|-
+| WOODFORD GREEN
+| IG8
+|-
+| BARKING
+| IG11
+|}
+| valign="top" |
+{| class="wikitable"
+|-
+! Wilayah kode pos
+! Kota pos
+! Distrik kode pos
+|-
+| rowspan="5" | [[Wilayah kode pos KT|KT]]
+| KINGSTON UPON THAMES
+| KT1, KT2
+|-
+| NEW MALDEN
+| KT3
+|-
+| WORCESTER PARK
+| KT4
+|-
+| SURBITON
+| KT5, KT6
+|-
+| CHESSINGTON
+| KT9
+|-
+| rowspan="5" | [[Wilayah kode pos RM|RM]]
+| ROMFORD
+| RM1, RM2, RM3, RM4, RM5, RM6, RM7
+|-
+| DAGENHAM
+| RM8, RM9, RM10
+|-
+| HORNCHURCH
+| RM11, RM12
+|- 
+| RAINHAM
+| RM13
+|-
+| UPMINSTER
+| RM14
+|-
+| rowspan="4" | [[Wilayah kode pos SM|SM]]
+| SUTTON
+| SM1, SM2, SM3
+|-
+| MORDEN
+| SM4
+|-
+| CARSHALTON
+| SM5
+|-
+| WALLINGTON
+| SM6
+|-
+| rowspan="2" | [[Wilayah kode pos TN|TN]]
+| SEVENOAKS
+| TN14
+|-
+| WESTERHAM
+| TN16
+|-
+| rowspan="8" | [[Wilayah kode pos TW|TW]]
+| TWICKENHAM
+| TW1, TW2
+|-
+| HOUNSLOW
+| TW3, TW4, TW5, TW6
+|-
+| ISLEWORTH
+| TW7
+|-
+| BRENTFORD
+| TW8
+|-
+| RICHMOND
+| TW9, TW10
+|-
+| TEDDINGTON
+| TW11
+|-
+| HAMPTON
+| TW12
+|-
+| FELTHAM
+| TW13, TW14
+|-
+| rowspan="6" | [[Wilayah kode pos UB|UB]]
+| SOUTHALL 
+| UB1, UB2
+|- 
+| HAYES
+| UB3, UB4
+|-
+| NORTHOLT
+| UB5
+|-
+| GREENFORD
+| UB6
+|-
+| WEST DRAYTON
+| UB7
+|-
+| UXBRIDGE
+| UB8, UB9, UB10
+|}
+|}
+
+[[Berkas:London Postal Region Map.jpg|1000px]]
+
+==Catatan kaki==
+{{Reflist}}
+
+== Pranala luar ==
+; Info tambahan
+* [http://palimpsest.stanford.edu/byform/mailing-lists/exlibris/1997/12/msg00155.html Establishment of London postal districts  mailing list discussion]
+* [http://www.postalheritage.org.uk/page/postcode Postcodes], British Postal Museum and Archive
+
+; Peta
+* [http://www.museumoflondon.org.uk/postcodes/map.html Clickable map of London districts] from the [[Museum of London]]
+* [http://www.ph.ucla.edu/epi/snow/1859map/ Map of London in 1859 with NE and S districts shown]
+* [http://freepages.genealogy.rootsweb.com/%7Enmfa/Maps/pocket_atlas_and_guide_to_london/paagtl1900plate3.html Map of districts in 1900]
+* [http://www.flickr.com/photos/grepnold/3301761144 Map of London district names and numbers], from the 1963 edition of Bartholomew's Reference Atlas of Greater London
+
+{{Wilayah kode pos London}}
+
+{{Sistem pos Britania Raya}}
+
+[[Kategori:Kode pos di Britania Raya]]
+[[Kategori:Geografi pos London]]

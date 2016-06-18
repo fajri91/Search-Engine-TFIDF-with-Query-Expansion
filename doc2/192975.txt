@@ -1,0 +1,36 @@
+Bandar Udara Bagram
+{{Kotakinfo bandara|nama=Bandara Bagram
+|IATA= -
+|ICAO= OAIX
+|lokasi=[[Bagram]] 
+|negara=[[Afganistan]]
+|tipe=
+|waktu=UTC +4:30
+|elevasi= 1492.00 [[meter|m]] (4895.01 [[feet|f]])
+|koordinat= 
+{{landaspacu|sudut=|panjang_f=|panjang_m=|permukaan=}}
+}}
+'''Bandar Udara Bagram''' adalah sebuah [[bandar udara]] yang terletak di Bagram, [[Afganistan]]. Bandara ini memiliki [[Kode IATA]]: - [[Kode ICAO]] OAIX.
+
+== Maskapai ==
+
+=== Domestik ===
+*
+
+=== Internasional ===
+*
+
+== Referensi ==
+{{reflist}}
+
+== Pranala luar ==
+* [http://www.owlsnest.eu/index.php The Owl's Nest - Welcome to the Military Aircraft Reference]
+* [http://www.google.com.my/search?hl=en&q=OAIX+-+Afghanistan&meta= Carian di Google] 
+* [http://images.google.com.my/images?hl=en&um=1&sa=1&q=OAIX+-+Afghanistan Gambar di Google.]
+
+{{Bandara di Afganistan}}
+
+[[Kategori:Bandar udara di Afghanistan|Bagram]]
+
+
+{{bandara-stub}}

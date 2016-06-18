@@ -1,0 +1,25 @@
+Atlas V
+[[Berkas:New Horizons launch.jpg|thumb|300px]]
+
+'''Atlas V''' adalah aktif sistem peluncuran sekali pakai di keluarga roket Atlas. Atlas V dulunya dioperasikan oleh Lockheed Martin , dan sekarang dioperasikan oleh Martin Lockheed-Boeing patungan United Launch Alliance . Setiap roket Atlas V menggunakan mesin pembakaran minyak tanah dan oksigen cair RD-180 buatan Rusia  untuk kekuatan mesin tahap pertama dan  mesin pembakaran hidrogen cair dan oksigen cair buatan Amerika RL10 untuk kekuatan mesin Centaur tahap atas. RD-180 mesin disediakan oleh RD Amross dan RL10 mesin oleh Pratt & Whitney Rocketdyne . Beberapa konfigurasi juga menggunakan tali-on roket pendorong yang dibuat oleh Aerojet . Standar payload fairing ukuran yang 4 atau 5 meter dengan diameter dan berbagai panjang, dibuat oleh RUAG Ruang . Fairings ukuran besar seperti 7.2m diameter dan sampai 32.3m panjang telah dipertimbangkan.  
+<ref>{{cite web|url=http://www.unitedlaunchalliance.com/site/docs/product_cards/guides/AtlasVUsersGuide2010.pdf|title=Atlas V Launch Services Users Guide|date=2010-03|publisher=United Launch Alliance|accessdate=4 December 2011|location=Centennial, CO}}</ref> 
+Roket ini dirakit di Decatur, Alabama , Harlingen, Texas , San Diego, California , dan di markas United Launch Alliance dekat Denver, Colorado . 
+<ref>[http://www.lockheedmartin.com/ssc/commercial_launch_services/launch_vehicles/index.html Launch Vehicles]. Lockheed Martin (2002-08-21). Retrieved on 2011-11-19.</ref>
+
+== Referensi ==
+{{Reflist}}
+
+==Pranala luar==
+{{Commons|Atlas (rocket)|Atlas}}
+* [http://www.ulalaunch.com/site/pages/Products_AtlasV.shtml ULA Atlas V data sheets]
+** [http://www.ulalaunch.com/site/docs/products/Cutaways/Atlas500_Cutaway.pdf Atlas 500 series cutaway]
+** [http://www.ulalaunch.com/site/docs/products/Cutaways/Atlas400_Cutaway.pdf Atlas 400 series cutaway]
+* [http://www.lockheedmartin.com/wms/findPage.do?dsp=fec&ci=17607&rsbci=14917&fti=0&ti=0&sc=400 Atlas  Yesterday, Today and Tomorrow]
+* http://www.astronautix.com/lvs/atlasv.htm
+* [http://www.lockheedmartin.com/data/assets/13435.pdf Atlas V Propulsion  Powered by Innovation]
+
+[[Kategori:Kendaraan peluncur luar angkasa|Atlas V]]
+
+
+{{angkasa-stub}}
+{{teknologi-stub}}

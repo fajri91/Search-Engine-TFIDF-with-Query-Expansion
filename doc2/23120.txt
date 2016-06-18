@@ -1,0 +1,25 @@
+146 SM
+{| align="right" style="float:right; background-color: #f9f9f9; border: 1px solid #aaa; padding: 0px; margin-left: 1em; margin-bottom: 1ex;"
+|- style="background-color:#f3f3f3"
+| align="right" style="font-size: smaller;" | Tahun:
+| align="center" style="vertical-align:middle;"|[[{{#expr:146+3}} SM]] [[{{#expr:146+2}} SM]] [[{{#expr:146+1}} SM]] '''146 SM''' [[{{Pengguna:Borgxbot/PrevyearSM|146|1}}]] [[{{Pengguna:Borgxbot/PrevyearSM|146|2}}]] [[{{Pengguna:Borgxbot/PrevyearSM|146|3}}]]
+|-
+| align="right" style="font-size: smaller;" | [[Dekade]]:
+| align="center" style="vertical-align:middle;"|[[{{#expr:{{Pengguna:Borgxbot/Year2decade|146}}+20}}-an SM]] [[{{#expr:{{Pengguna:Borgxbot/Year2decade|146}}+10}}-an SM]] '''[[{{Pengguna:Borgxbot/Year2decade|146}}-an SM]]''' [[{{Pengguna:Borgxbot/PrevdecadeSM|146|10}}]] [[{{Pengguna:Borgxbot/PrevdecadeSM|146|20}}]] 
+|- style="background-color:#f3f3f3"
+| align="right" style="font-size: smaller;" | [[Abad]]:
+| align="center" style="vertical-align:middle;"|[[Abad ke-{{#expr:{{Pengguna:Borgxbot/Year2century|146}}+1}} SM]]  '''[[Abad ke-{{Pengguna:Borgxbot/Year2century|146}} SM]]'''  [[Abad ke-{{#ifeq:{{Pengguna:Borgxbot/Year2century|146}}|1|1|{{#expr:{{Pengguna:Borgxbot/Year2century|146}}-1}} SM}}]]
+|}
+== Peristiwa ==
+*
+
+== Kelahiran ==
+*
+
+== Kematian ==
+*
+
+== Lihat pula ==
+* [[Kalender peristiwa]]
+
+[[Kategori:{{Pengguna:Borgxbot/Year2decade|146}}-an SM]]

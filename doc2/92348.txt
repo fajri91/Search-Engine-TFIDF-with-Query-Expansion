@@ -1,0 +1,86 @@
+Bandar Udara Internasional Huanghua Changsha
+{{Infobox airport
+| name         = Changsha Huanghua<br />International Airport
+| nativename   = 
+| nativename-a = 
+| nativename-r = Chngsh Hunghu Guj Jchng
+| image        = Csxterminal.GIF
+| image-width  = 250
+| caption      =
+| IATA         = CSX
+| ICAO         = ZGHA
+<center>{{Location map|China|width=250|float=center
+|caption=|mark=Airplane_silhouette.svg|marksize=10
+|label=CSX|position=right
+|lat_deg= 28|lat_min=11|lat_sec=48|lat_dir=N
+|lon_deg=113|lon_min=13|lon_sec=15|lon_dir=E
+}}<small>Location of Changsha Huanghua International Airport</small></center>
+| type         = Public
+| owner        = 
+| operator     = Government
+| city-served  = 
+| location     = [[Huanghua, Changsha County|Huanghua]], [[Changsha County]]
+| elevation-f  = 217
+| elevation-m  = 66
+| coordinates  = {{Coord|28|11|48|N|113|13|15|E|type:airport|display=inline,title}}
+| website      = 
+| metric-elev  = 
+| metric-rwy   = 
+| r1-number    = 18/36
+| r1-length-f  = 10,499
+| r1-length-m  = 3,200
+| r1-surface   = [[Beton]]
+| stat-year    = 2011
+| stat1-header = Passengers
+| stat1-data   = 13,684,731
+| footnotes    = Source: [[List of the busiest airports in the People's Republic of China]]
+}}
+'''Bandar Udara Internasional Huanghua Changsha''' {{Airport codes|CSX|ZGHA}} ({{zh|s=|t=|p=Chngsh Hunghu Guj Jchng}}) merupakan [[bandar udara]] yang terletak di [[Changsha]], provinsi [[Hunan]], [[Republik Rakyat Tiongkok]].
+
+Pada tahun [[2006]] bandara ini melayani 6 juta penumpang.
+
+== Maskapai ==
+{{airport-dest-list
+| [[Air China]] | [[Beijing-Capital]], Chengdu, [[Hangzhou Xiaoshan International Airport|Hangzhou]], [[Kunming Changshui International Airport|Kunming]], Nanning, [[Tianjin Binhai International Airport|Tianjin]], Wenzhou
+| [[Asiana Airlines]] | [[Incheon International Airport|Seoul-Incheon]]
+| [[Beijing Capital Airlines]] | [[Sanya Phoenix International Airport|Sanya]]
+| [[Chengdu Airlines]] | Chengdu, Hangzhou, Nanning, Ningbo, Wenzhou
+| [[China Eastern Airlines]] | Beijing, Chengdu, Chongqing, Guangzhou, Guiyang, Jinjiang, Kunming, Lanzhou, Liuzhou, Nanjing, Ningbo, Qingdao, Sanya, Seoul-Incheon, [[Shanghai-Hongqiao]], [[Shanghai-Pudong]], Shijiazhuang, Shenzhen, Taiyuan, Wenzhou, Wuxi, Xi'an
+| [[China Southern Airlines]] | Beihai, Beijing-Capital, Changchun, Chengdu, Chongqing, Dalian, Guangzhou, Guiyang, Haikou, Hangzhou, Harbin, Hefei, Jinan, Kunming, Nanjing, Nanning, Qingdao, Sanya, Seoul-Incheon, Shanghai-Hongqiao, Shantou, Shenyang, Shenzhen, Taipei-Taoyuan, Taiyuan, Tianjin, Urumqi, Wenzhou, Wuyishan, Xi'an, Yinchuan, Yiwu, Zhangjiajie, Zhanjiang, Zhengzhou, Zhijiang, Zhuhai
+| [[China United Airlines]] | [[Beijing-Nanyuan]]
+| [[Chongqing Airlines]] | Chongqing, Ningbo
+| [[Dragonair]] | [[Hong Kong International Airport|Hong Kong]]
+| [[Far Eastern Air Transport]] | Magong 
+| [[Grand China Express Air]] | Wenzhou, Xi'an
+| [[Hainan Airlines]] | Beijing-Capital, Chengdu, Chongqing, Dalian, Haikou, Hohhot, Jinan, Nanning, Ningbo, Ordos, Shenzhen, Taiyuan, Urumqi, Xi'an, Xuzhou
+| [[Henan Airlines]] | Fuzhou, Nanning, Xi'an, Zhengzhou
+| [[Hong Kong Airlines]] | Hong Kong
+| [[Juneyao Airlines]] | Shanghai-Hongqiao
+| [[Korean Air]] | [[Incheon International Airport|Seoul-Incheon]]
+| [[Lucky Air]] | [[Fuzhou Changle International Airport|Fuzhou]], Kunming
+| [[Mandarin Airlines]] | Kaohsiung, [[Taiwan Taoyuan International Airport|Taipei-Taoyuan]]
+| [[Okay Airways]] | Hangzhou, Kunming, Tianjin 
+| [[Shandong Airlines]] | Chongqing, Guiyang, Haikou, Hefei, Jinan, Xiamen, Zhuhai
+| [[Shanghai Airlines]] | Shanghai-Hongqiao, Shanghai-Pudong
+| [[Shenzhen Airlines]] | Lanzhou, Nanjing, Nanning, Shenzhen
+| [[Sichuan Airlines]] | Chengdu, Chongqing, Fuzhou, Xiamen
+| [[Silkair]] | Singapore 
+| [[Spring Airlines]] | Shanghai-Hongqiao
+| [[TransAsia Airways]] | Kaohsiung, Taipei-Taoyuan
+| [[Xiamen Airlines]] | Beijing-Capital, Chengdu, Chongqing, Fuzhou, Guiyang, Hangzhou, Jinan, Nanjing, Ningbo, Quanzhou, Taipei-Taoyuan, Taiyuan, Xiamen, Xi'an
+}}
+
+==Referensi==
+{{Reflist}}
+
+== Pranala luar ==
+* [http://www.hncaac.com Situs resmi]
+
+{{Bandar udara di Republik Rakyat Tiongkok}}
+
+[[Kategori:Bandar udara di Hunan|Huanghua Changsha]]
+[[Kategori:Bandar udara yang didirikan tahun 1989]]
+[[Kategori:Transportasi di Changsha]]
+
+
+{{bandara-stub}}

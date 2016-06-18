@@ -1,0 +1,15 @@
+Templat:Fb team Arsenal
+{{fb team |t=Arsenal |tan=Arsenal F.C. |tc=ENG |abb={{#if:{{{abb|}}}|ARS}} |oc={{#if:{{{oc|}}}|{{{oc}}} }} }}<!--
+--><noinclude>[[Kategori:Templat tim sepak bola Inggris]]
+
+
+
+
+
+
+
+
+
+
+
+</noinclude>

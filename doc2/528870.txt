@@ -1,0 +1,6 @@
+Templat:EEE
+{{Huruf kapital|E|2={{{1|}}}}}<noinclude>
+</br>
+format penggunaan : {{t1|EEE}}
+[[Kategori:Templat huruf Linux Libertine O|{{PAGENAME}}]]
+</noinclude>

@@ -1,0 +1,10 @@
+Templat:MaratonWiki 201314
+{{Userbox
+|id= [[Berkas:Icon Runners MillaSagradaFamilia2005.png|45px|MaratonWiki]]
+|id-c = #AAFFAA
+|info = Pengguna ini mengambil bagian dalam [[Wikipedia:Maraton|Maraton WBI]] [[Wikipedia:Maraton/201314|201314]]{{{{{subst|}}}#if:{{{articles|}}}|, dengan kontribusi '''{{{articles}}} artikel'''}}{{{{{subst|}}}#if:{{{place|}}}|&nbsp;menempati juara '''{{{place}}}'''}}
+|info-c = white
+|border-c = #AAAAFF
+}}
+
+<noinclude>[[Kategori:Templat kotak pengguna]]</noinclude>

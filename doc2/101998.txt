@@ -1,0 +1,30 @@
+Spiroptera carcinoma
+{{Taxobox
+| image
+| regnum = [[Animalia]]
+| phylum = [[Nematoda]]
+| classis = [[Secernentea]]
+| ordo = [[Spirurida]]
+| subordo = [[Spirurina]]
+| superfamilia = [[Spiruroidea]]
+| familia = [[Gongylonematidae]]
+| genus = [[Gongylonema]]
+| species = neoplasticum
+| binomial = ''Spiroptera carcinoma''
+}}
+'''''Spiroptera carcinoma''''' adalah nama lama [[nematoda]] yang merupakan dasar penelitian yang membuat [[Johannes Fibiger]] memenangkan [[Penghargaan Nobel dalam Fisiologi atau Kedokteran]] 1926.
+
+Penelitiannya mengindikasikan bahwa infeksi nematoda menimbulkan [[tumor lambung]] pada [[tikus]], dan temuan ini adalah salah satu demonstrasi pertama bahwa [[infeksi]] menyebabkan [[karsinogen]].
+
+Cacing ini kini dinamai "''[[Gongylonema neoplasticum]]''".
+
+Parasit yang sama, ''[[Spirocerca lupi]]'', dapat menyebabkan [[kanker esofagus]] pada anjing.
+
+== Pranala luar ==
+* [http://www.bookrags.com/sciences/sciencehistory/johannes-fibiger-induces-cancer-in--scit-061234.html BookRags]
+* PMID 14939031 ("Studies on the nematode parasite, Gongylonema neoplasticum (spiroptera neoplasticum), and avitaminosis A in the forestomach of rats: comparison with Fibiger's results.")
+* [http://www.faunaeur.org/full_results.php?id=228494 Taxonomy]
+* [http://www.blackwell-synergy.com/doi/abs/10.1111/j.1749-6632.1963.tb13429.x?cookieSet=1&journalCode=nyas]
+
+
+{{medis-stub}}

@@ -1,0 +1,100 @@
+Meridian timur ke-169
+{{Location map-line|lon=-169}}
+{{kml}}
+'''Meridian timur 169 dari [[Meridian Utama|Greenwich]]''' adalah garis [[bujur]] yang membentang dari [[Kutub Utara]] melintasi [[Samudra Arktik]], [[Asia]], [[Samudra Pasifik]], [[Samudra Selatan]], dan [[Antarktika]] hingga [[Kutub Selatan]].
+
+Meridian barat ke-169 membentuk [[lingkaran besar]] bersama [[meridian barat ke-11]].
+
+==Dari ujung ke ujung==
+Berawal dari [[Kutub Utara]] sampai [[Kutub Selatan]], meridian barat ke-169 melintasi:
+
+:{| class="wikitable plainrowheaders"
+! scope="col" width="120" | Koordinat
+! scope="col" | Negara, teritori, atau laut
+! scope="col" | Catatan
+|-
+| style="background:#b0e0e6;" | {{Coord|90|0|N|169|0|E|type:waterbody|name=Arctic Ocean}}
+! scope="row" style="background:#b0e0e6;" | [[Samudra Arktik]]
+| style="background:#b0e0e6;" |
+|-
+| style="background:#b0e0e6;" | {{Coord|74|10|N|169|0|E|type:waterbody|name=East Siberian Sea}}
+! scope="row" style="background:#b0e0e6;" | [[Laut Siberia Timur]]
+| style="background:#b0e0e6;" |
+|-
+| {{Coord|69|55|N|169|0|E|type:country|name=Russia}}
+! scope="row" | {{RUS}}
+| [[Okrug Otonom Chukotka]]  [[Pulau Ayon]]
+|-
+| style="background:#b0e0e6;" | {{Coord|69|33|N|169|0|E|type:waterbody|name=East Siberian Sea}}
+! scope="row" style="background:#b0e0e6;" | [[Laut Siberia Timur]]
+| style="background:#b0e0e6;" | [[Teluk Chaunskaya]]
+|-valign="top"
+| {{Coord|69|8|N|169|0|E|type:country|name=Russia}}
+! scope="row" | {{RUS}}
+| [[Okrug Otonom Chukotka]]<br/> [[Krai Kamchatka]]  dari {{Coord|63|58|N|169|0|E|type:adm1st_region|name=Kamchatka Krai}}<br/> Okrug Otonom Chukotka  dari {{Coord|63|23|N|169|0|E|type:adm1st_region|name=Chukotka}}<br/> Krai Kamchatka  dari {{Coord|62|57|N|169|0|E|type:adm1st_region|name=Kamchatka Krai}}
+|-
+| style="background:#b0e0e6;" | {{Coord|60|34|N|169|0|E|type:waterbody|name=Bering Sea}}
+! scope="row" style="background:#b0e0e6;" | [[Laut Bering]]
+| style="background:#b0e0e6;" |
+|-
+| style="background:#b0e0e6;" | {{Coord|54|10|N|169|0|E|type:waterbody|name=Pacific Ocean}}
+! scope="row" style="background:#b0e0e6;" | [[Samudra Pasifik]]
+| style="background:#b0e0e6;" |
+|-
+| {{Coord|14|39|N|169|0|E|type:country|name=Marshall Islands}}
+! scope="row" | {{MHL}}
+| [[Atol Bokak]]
+|-
+| style="background:#b0e0e6;" | {{Coord|14|35|N|169|0|E|type:waterbody|name=Pacific Ocean}}
+! scope="row" style="background:#b0e0e6;" | [[Samudra Pasifik]]
+| style="background:#b0e0e6;" |
+|-
+| {{Coord|10|3|N|169|0|E|type:country|name=Marshall Islands}}
+! scope="row" | {{MHL}}
+| [[Atol Likiep]]
+|-valign="top"
+| style="background:#b0e0e6;" | {{Coord|9|55|N|169|0|E|type:waterbody|name=Pacific Ocean}}
+! scope="row" style="background:#b0e0e6;" | [[Samudra Pasifik]]
+| style="background:#b0e0e6;" | Sebelah timur [[Atol Ailinglaplap]], {{MHL}} (di {{Coord|7|35|N|168|58|E|type:isle|name=Ailinglaplap}})<br/> Sebelah barat [[Pulau Kili]], {{MHL}} (di {{Coord|5|38|N|169|7|E|type:isle|name=Kili}})<br/> Sebelah timur [[Atol Ebon]], {{MHL}} (di {{Coord|4|38|N|168|46|E|type:isle|name=Ebon}})<br/> Sebelah timur Pulau [[Tikopia]], {{SLB}} (di {{Coord|12|18|S|168|51|E|type:isle|name=Tikopia}})
+|-
+| {{Coord|18|41|S|169|0|E|type:country|name=Vanuatu}}
+! scope="row" | {{VUT}}
+| Pulau [[Erromango]]
+|-valign="top"
+| style="background:#b0e0e6;" | {{Coord|18|53|S|169|0|E|type:waterbody|name=Pacific Ocean}}
+! scope="row" style="background:#b0e0e6;" | [[Samudra Pasifik]]
+| style="background:#b0e0e6;" | Sebelah barat Pulau [[Tanna (pulau)|Tanna]], {{VUT}} (di {{Coord|19|27|S|169|13|E|type:isle|name=Tanna}})<br/> Sebelah timur [[Pulau Walpole (Kaledonia Baru)|Pulau Walpole]], {{NCL}} (di {{Coord|22|35|S|168|57|E|type:isle|name=Walpole Island}})
+|-
+| {{Coord|43|51|S|169|0|E|type:country|name=New Zealand}}
+! scope="row" | {{NZL}}
+| [[Pulau Selatan]]  Melnitasi titik paling selatan pulau ini, [[Slope Point]]
+|-valign="top"
+| style="background:#b0e0e6;" | {{Coord|46|40|S|169|0|E|type:waterbody|name=Pacific Ocean}}
+! scope="row" style="background:#b0e0e6;" | [[Samudra Pasifik]]
+| style="background:#b0e0e6;" | Antara Hook Keys dan [[Pulau Campbell, Selandia Baru|Pulau Campbell]], {{NZL}} (di {{Coord|52|33|S|170|0|E|type:isle|name=Hook Keys and Campbell Island}})
+|-
+| style="background:#b0e0e6;" | {{Coord|60|0|S|169|0|E|type:waterbody|name=Southern Ocean}}
+! scope="row" style="background:#b0e0e6;" | [[Samudra Selatan]]
+| style="background:#b0e0e6;" |
+|-
+| {{Coord|71|24|S|169|0|E|type:country|name=Antarctica}}
+! scope="row" | [[Antarktika]]
+| [[Dependensi Ross]]  [[Daftar klaim wilayah Antarktika|Diklaim]] oleh {{NZL}}
+|-
+| style="background:#b0e0e6;" | {{Coord|73|29|S|169|0|E|type:waterbody|name=Southern Ocean}}
+! scope="row" style="background:#b0e0e6;" | [[Samudra Selatan]]
+| style="background:#b0e0e6;" | [[Laut Ross]]
+|-
+| {{Coord|77|29|S|169|0|E|type:country|name=Antarctica}}
+! scope="row" | [[Antarktika]]
+| [[Dependensi Ross]]  [[Daftar klaim wilayah Antarktika|Diklaim]] oleh {{NZL}}
+|-
+|}
+
+==Lihat pula==
+*[[Meridian timur ke-168]]
+*[[Meridian timur ke-170]]
+{{-}}
+{{koordinat geografis|state=collapsed}}
+
+[[Kategori:Garis bujur|t169 meridian east]]

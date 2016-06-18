@@ -1,0 +1,45 @@
+Templat:Pantai Kasuari, Asmat
+{{Navigasi ID Desa
+|provinsi=Papua
+|dati2=Kabupaten
+|nama dati2=Asmat
+|nama distrik=Pantai Kasuari
+|kp1=Aero
+|kp2=Aikut
+|kp3=Amagais
+|kp4=Amaru
+|kp5=Amkai
+|kp6=Amkun
+|kp7=Aworket
+|kp8=Bawor
+|kp9=Bayun
+|kp10=Emene
+|kp11=Eero
+|kp12=Eseib
+|kp13=Hahare
+|kp14=Hainam
+|kp15=Kaipom
+|kp16=Kairin
+|kp17=Kamur
+|kp18=Kawem
+|kp19=Pirimapun
+|kp20=Saman
+|kp21=Sanapai
+|kp22=Sanem
+|kp23=Santambor
+|kp24=Semendoro
+|kp25=Seramit
+|kp26=Simsagar
+|kp27=Sinipit
+|kp28=Sohomane
+|kp29=Suagai
+|kp30=Taero
+|kp31=Yagamit
+|kp32=Yahoi
+|kp33=Yamkap
+|kp34=Yaptambor
+|kp35=Yerfun
+}}<noinclude>
+[[Kategori:Templat kampung/kelurahan di Papua|{{PAGENAME}}]]
+[[Kategori:Templat kampung/kelurahan di Kabupaten Asmat|{{PAGENAME}}]]
+</noinclude>

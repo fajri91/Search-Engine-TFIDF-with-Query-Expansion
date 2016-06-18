@@ -1,0 +1,13 @@
+Templat:Country data Wales
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Wales
+| flag alias = Flag of Wales 2.svg
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| kategori = Britania Raya
+<noinclude>
+| redir1 = WAL
+| related1 = Britania Raya
+</noinclude>
+}}

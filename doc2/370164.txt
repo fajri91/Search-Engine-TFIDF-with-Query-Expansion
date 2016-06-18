@@ -1,0 +1,324 @@
+Bahasa-bahasa Melayu
+{{bedakan|Bahasa Melayu}}
+{{Infobox Language family
+|name=Melayu
+|region=[[Asia Tenggara]]
+|familycolor=Austronesian
+|fam2=[[Bahasa-bahasa Melayu-Polinesia|Melayu-Polinesia]] (MP)
+|fam3=[[Bahasa-bahasa Melayu-Polinesia Nuklear|MP Nuklear]]
+|fam4=[[Bahasa-bahasa Sunda-Sulawesi|Sunda-Sulawesi]]
+|fam5=[[Bahasa-bahasa Malayik|Malayik]]
+|fam6=[[Bahasa-bahasa Malaya|Malaya]]
+|child1=
+}}
+
+'''Bahasa-bahasa Melayu''', '''bahasa Melayu lokal''' atau '''bahasa Melayu tempatan''' merupakan sekumpulan bahasa Melayu yang berkembang dari wilayah-wilayah yang dihuni oleh [[suku Melayu]], [[suku Dayak Bukit]],  [[suku Berau]], [[suku Kutai]], [[suku Sambas]], [[suku Kedayan]], [[suku Minahasa]], [[suku Makassar]], [[suku Flores]], [[suku Papua]], [[suku Ambon]], [[suku Timor]] di wilayah [[Malaysia]] dan [[Indonesia]]. Yang termasuk dalam bahasa-bahasa ini antara lain [[bahasa Melayu]], [[bahasa Melayu Malaysia]], [[bahasa Indonesia]], [[Bahasa Melayu Bacan]], [[Bahasa Melayu Berau]], [[Bahasa Melayu Bukit]], [[Bahasa Melayu Kepulauan Cocos]], [[Bahasa Melayu Jambi]], [[Bahasa Melayu Kedah]], [[Bahasa Melayu Kota Bangun Kutai]], [[Bahasa Melayu Manado]], [[Bahasa Melayu Maluku Utara]], [[Bahasa Melayu Pattani]], [[Bahasa Melayu Sabah]], dan [[Bahasa Melayu Tenggarong Kutai]]
+
+== Perbandingan bahasa-bahasa Melayu ==
+<!--A comparison of various varieties of Malay, plus three [[Para-Malay languages]]: -->
+'''''Indonesia = Kamu hendak pergi ke mana dengan sepeda itu? Bisakah saya ikut?'''''
+
+{| class="sortable wikitable"
+|- 
+| align="center" width="20%" style="background:silver" | '''Bahasa'''
+| align="center" width="40%" style="background:silver" | '''Kalimat'''
+| align="center" width="40%" style="background:silver" | '''Digunakan di'''
+|-
+! colspan="3" |'''Jenis bahasa Melayu'''
+|-
+|[[Bahasa Melayu]] (informal)  ||  Ko nak pegi mane ngan basikal tu? <br />Bole aku ikut? || Malaysia
+|-
+|[[Bahasa Melayu]] (formal)  ||  Ke mana kamu mahu/hendak pergi dengan basikal itu? <br />Bolehkah saya ikut? || Malaysia
+|-
+|[[Bahasa Melayu]] (formal)  ||  Ke mana Engkau hendak pergi dengan kereta angin itu? <br />Bolehkah saya ikut? || Riau dan Riau Kepulauan 
+|-
+|[[Bahasa Indonesia]] (sangat formal)  || Anda/Engkau akan menaiki sepeda itu ke mana? <br />Bolehkah saya ikut? || seantero wilayah Indonesia
+|-
+|[[Bahasa Indonesia]] (semiformal)  || Kamu mau naik sepeda itu ke mana? <br />Boleh saya ikut? || seantero wilayah Indonesia
+|-
+|[[Betawi]] (dialek)  ||  Lu mau naik sepeda itu ke mana? <br />Boleh ikut nggak? || Jakarta 
+|-
+|[[Bahasa Melayu Singapura]]  ||  Ke mana awak hendak pergi dengan basikal itu? <br />Boleh saya ikut? || Singapore
+|-
+|[[Johor]]/[[Selangor]] (dialek)  ||  Kau nak pergi ke mane dengan basikal itu? <br />Boleh saye ikut? || Malaysia bagian selatan
+|-
+|[[Melayu Bengkulu|Bahasa Melayu Bengkulu]] (dialek)  ||  Kawu endak pai ke mano kek sepedo tu? <br />Boleh aku ikut idak? || [[Bengkulu]] 
+|-
+|[[Bahasa Melayu Jambi]] (dialek) ||  Kau nak pergi ke mano naek sepedo tu? <br />Aku biso ikut dak? || Jambi 
+|-
+|[[Bahasa Palembang|Palembang]] (dialek) ||  Kau nak pergi ke mano naek sepedo tu? <br />Aku pacak melok dak? || Sumatera Selatan 
+|-
+|[[Bangka]] (dialek)  ||  Ka nek pergi ke mane naek ketangin tu? <br />Ku boleh ngikut dak? || Bangka 
+|-
+|[[Belitung]] (dialek)  ||  Ikam nak pergi ke mane naek ketangin tu? <br />Aku bisak ngikut ndak? || Belitung 
+|-
+|[[Bahasa Banjar|Banjar]]   ||  Ikam handak tulak ka mana basapida tu? <br />Bulih kada' aku umpat? || Kalimantan Selatan 
+|-
+|[[Bahasa Melayu Kedah|Kedah]] (dialek) ||  Hang nak pi mana naik gerek tu? <br />Aku ikut buleh dak? || Malaysia bagian utara dan Thailand Selatan bagian barat
+|-
+|[[Baling]] (dialek) ||  Mu nok gi mana naik gerek tu? <br />Ku nak ikut buleh dak? || Kedah (Baling, Sik dan Padang Terap), Yala, Pattani, Satun
+|-
+|[[Terengganu]] (dialek)  ||  Mung nok gi mane naik basika tu? <br />Buleh dok nok ikuk? || Terengganu (Malaysia)
+|-
+|[[Bahasa Melayu Kelantan|Kelantan]] (dialek) ||  Demo nok gi mano naik gerek/basika/sika tuh? <br />Buleh kawe ikuk? || Kelantan (Malaysia), Thailand Selatan bagian timur
+|-
+|[[Perak]] (dialek)  ||  Mike nak ke mane naik sika tu? <br />Teman nak ngekor buleh? || Perak (Malaysia)
+|-
+|[[Penang]] (dialek)  ||  Hang nak pi mana naik basikal tu? <br />Aku ikut boleh tak? || Pulau Pinang dan Perak utara (Malaysia)
+|-
+|[[Bahasa Melayu Brunei]]  ||  Kamana kau babasikal ah? <br />Bulih ku ikut? || Brunei Darussalam
+|-
+|[[Bahasa Melayu Serawak]]  ||  Ke sine kitak maok make basikal? <br />Boleh sik kamik ngekot? || Serawak (Malaysia)
+|-
+|[[Bahasa Melayu Sabah]]  ||  Mana ko mo pigi sama itu beskal? <br />Buli sia ikut ka? || Sabah dan Labuan (Malaysia)
+|-
+|[[Pontianak]] (dialek)  ||  Mane kitak nak pergi naik sepeda tu? <br />Kamek bulih ikut tadak? || Kalimantan Barat 
+|-
+|[[Makassar]] (dialek)  ||  Mau ko/ki' bawa' kemana itu sepeda kah? <br />Bisa Jeka' Ikut? || Sulawesi Selatan dan Barat 
+|-
+|[[Bahasa Melayu Larantuka]] || || Flores
+|-
+|[[Bahasa Melayu Kutai]]
+|-
+! colspan="3" |'''Bahasa-bahasa Para-Melayu'''
+|-
+|[[Bahasa Minangkabau|Minangkabau]]  ||  Kau ka pai kama jo kareta angin tu? <br />Bulih ndak den ikuik? || Kawasan Minangkabau (daratan [[Sumatera Barat]], separuh daratan [[Riau]], bagian utara [[Bengkulu]], bagian barat [[Jambi]], pantai barat [[Sumatera Utara]], barat daya [[Aceh]], dan [[Negeri Sembilan]] di [[Malaysia]])
+|-
+|[[Bahasa Melayu Negeri Sembilan]]  ||  Ekau nak poie mano naik basikal tu? <br />Boleh den ikut? || Negeri Sembilan (Malaysia)
+|-
+|[[Rawa (suku)|Rawa]]  ||  Kao nak poie mano nek basika to? <br />Buleh ikoiyt ko indo? || Gopeng (Malaysia)
+|}
+
+Perbandingan kata-per-kata
+
+{| class="sortable wikitable"
+|- 
+| align="center" width="9%" style="background:silver" | '''Bahasa/dialek'''
+| align="center" width="7%" style="background:silver" | '''Ke'''
+| align="center" width="7%" style="background:silver" | '''Mana'''
+| align="center" width="7%" style="background:silver" | '''Kamu'''
+| align="center" width="7%" style="background:silver" | '''Mau'''
+| align="center" width="7%" style="background:silver" | '''Pergi'''
+| align="center" width="7%" style="background:silver" | '''Dengan'''
+| align="center" width="7%" style="background:silver" | '''Sepeda'''
+| align="center" width="7%" style="background:silver" | '''Itu'''
+| align="center" width="7%" style="background:silver" | '''Boleh'''
+| align="center" width="7%" style="background:silver" | '''-kah (atau tidak)'''
+| align="center" width="7%" style="background:silver" | '''Saya'''
+| align="center" width="7%" style="background:silver" | '''Ikut'''
+| align="center" width="7%" style="background:silver" | ''ekstra''
+|-
+|[[Bahasa Melayu]] (formal)  ||  ke || mana || kamu || mahu || pergi || dengan || basikal || itu || boleh || kah || saya || ikut || --
+|-
+|[[Bahasa Melayu]] (informal)  ||  dihilangkan || mane || ko || nak || pegi || ngan || basikal || tu || boleh || dihilangkan || aku || ikut || --
+|-
+|[[Bahasa Indonesia]] (formal)  ||  ke || mana || kamu || mau || pergi || dengan || sepeda || itu || bisa || -kah || saya || ikut || --
+|-
+|Indonesia (informal)  ||  ke || mana || lu || mau || dihilangkan || ''~substituted with 'naik'~'' || sepeda || tu || boleh || nggak || dihilangkan || ikut || 1:naik
+|-
+|[[Bahasa Melayu Singapura]]  ||  ke || mana || awak || hendak || pergi || dengan || basikal || itu || boleh || dihilangkan || saya || ikut || --
+|-
+|[[Johor]]/[[Kuala Lumpur]] (dialek)  ||  ke || mane || kau || nak || pergi || dengan || basikal || itu || boleh || dihilangkan || saye || ikut || --
+|-
+|[[Bengkulu]] (dialek)  ||  ke || mano || kawu || endak || pai || kek || sepedo || tu || boleh || idak || aku || ikut || --
+|-
+|[[Jambi]] (dialek)  ||  ke || mano || kau || nak || pergi || ''~substituted with 'naek'~'' || sepedo || tu || biso || dak || aku || ikut || 1:naek
+|-
+|[[Bahasa Palembang|Palembang]] (dialek) ||  ke || mano || kau || nak || pergi || ''~substituted with 'naek'~'' || sepedo || tu || pacak || dak || aku || melok || 1:naek
+|-
+|[[Bangka]] (dialek)  ||  ke || mane || ka || nek || pergi || ''~substituted with 'naek'~'' || ketangin || tu || boleh || dak || ku || ngikut || 1:naek
+|-
+|[[Belitung]] (dialek)  ||  ke || mane || ikam || nak || pergi || ''~substituted with 'naek'~'' || ketangin || tu || bisak || ndak || aku || ngikut || 1:naek
+|-
+|[[Bahasa Melayu Banjar]] ||  ka- || -mana || ikam/kau' || handak || tulak|| ba- || sapeda || tu || bulih || kada' || aku || umpat || -
+|-
+|[[Bahasa Melayu Kedah|Kedah]] (dialek)  ||  dihilangkan || mana || hang || nak || pi || ''~substituted with 'naik'~'' || gerek || tu || buleh || dak || aku || ikut || 1:naik
+|-
+|[[Bahasa Melayu Baling|Baling]] (dialek)  ||  dihilangkan || mano || mu / dema || nok || gi || ''~substituted with 'naik'~'' || gerek || tuh || buleh || dok || ku / ambe || ikut || 1:naik
+|-
+|[[Terengganu]] (dialek) ||  dihilangkan || mane || mung || nok || gi || ''~substituted with 'naik'~'' || basikal || dihilangkan || buleh || dihilangkan || dihilangkan || ikut || 1:naik
+|-
+|[[Bahasa Melayu Kelantan|Kelantan]] (dialek) ||  dihilangkan || mano || demo || nok || gi || ''~substituted with 'naik'~'' || basika || tuh || buleh || dihilangkan || kawe || turuk || 1:naik
+|-
+|[[Perak]] (dialek)   ||  ke || mane || mike || nak || dihilangkan || ''~substituted with 'naik'~'' || sika || tu || buleh || dihilangkan || teman || ngekor || 1:naik
+|-
+|[[Penang]] (dialek)   ||  dihilangkan || mana || hang || nak || pi || ''~substituted with 'naik'~'' || basikal || tu || boleh || tak || aku || ikut || 1:naik
+|-
+|[[Bahasa Melayu Brunei]]   ||  ka- || -mana || kau || dihilangkan || dihilangkan || ba- || -basikal || dihilangkan || bulih || dihilangkan || ku || ikut || 2:ah
+|-
+|[[Bahasa Melayu Sarawak]]   ||  ke || sine || kitak || maok || dihilangkan || make || basikal || dihilangkan || boleh || sik || kamik || ngekot || --
+|-
+|[[Bahasa Melayu Sabah]]   ||  dihilangkan || mana || ko || mo || pigi || sama || beskal || itu || buli || ka || sia || ikut || --
+|-
+|[[Pontianak]] (dialek)   ||  dihilangkan || mane || kitak || nak || pergi || ''~substituted with 'naik'~'' || sepeda || tu || bulih || tadak || kamek || ikut || 1:naik
+|-
+|[[Minangkabau]]   ||  ka- || -ma || kau || nio || pai || jo || kareta angin || tu || buliah || ndak || den || ikuik || --
+|-
+|[[Negeri Sembilan]]   ||  dihilangkan || mano || ekau || nak || poie || ''~substituted with 'naik'~'' || basikal || tu || boleh || dihilangkan || den || ikut || 1:naik
+|-
+|[[Rawa (suku)|Rawa]]   ||  dihilangkan || mano || kao || nak || poie || ''~substituted with 'nek'~'' || basika || to || buleh || ko indo || dihilangkan || ikoiyt || 1:nek
+|}
+
+== ISO 639 ==
+Dalam [[ISO 639-1]] terdapat 'ms', [[ISO 639-2]] terdapat dua kode: 'may'/'msa'. Dalam [[ISO 639-3]], 'msa' didefinisikan sebagai "[[bahasa makro]]". 
+
+{| class="wikitable sortable"
+!Kode
+!Nama
+!Penggunaan
+|---
+|btj
+|[[Bahasa Melayu Bacan]]
+|
+|----
+|mfb
+|[[Bangka]]
+|
+|----
+|bjn
+|[[Bahasa Banjar]]
+|
+|----
+|bve
+|[[Bahasa Melayu Berau]]
+|
+|----
+|kxd
+|[[Brunei]]
+|
+|----
+|bvu
+|[[Bahasa Melayu Bukit]]
+|
+|----
+|pse
+|[[Bahasa Melayu Tengah]]
+|
+|----
+|coa
+|[[Bahasa Melayu Kepulauan Cocos]]
+|
+|----
+|liw
+|[[Col (bahasa)|Col]]
+|
+|----
+|dup
+|[[Duano]]
+|
+|----
+|hji
+|[[Haji]]
+|
+|----
+|ind
+|[[Bahasa Indonesia]]
+|''Lingua franca'' di [[Indonesia]], juga dipakai di [[Timor Leste]]
+|----
+|jak
+|[[Jakun]]
+|
+|----
+|jax
+|[[Bahasa Melayu Jambi]]
+|
+|----
+|vkk
+|[[Kaur]]
+|
+|----
+| -
+|[[Bahasa Melayu Kelantan]]
+|Malaysia - [[Kelantan]]
+|---
+|meo
+|[[Bahasa Melayu Kedah]]
+|
+|----
+|kvr
+|[[Kerinci]]
+|
+|----
+|mqg
+|[[Bahasa Melayu Kutai|Bahasa Melayu Kutai Kota Bangun]]
+|
+|----
+|kvb
+|[[Kubu]]
+|
+|----
+|lce
+|[[Loncong]]
+|
+|----
+|lcf
+|[[Lubu]]
+|
+|----
+|mly
+|[[Bahasa Melayu (bahasa individu)]]
+|Kode diberhentikan pemakaiannya pada 2008-02-18, dibagi menjadi: Bahasa Melayu Standar [zsm], Haji [hji], Papua [pmy] dan Bahasa Melayu (bahasa individu) [zlm]. <!--Note: pmy is not part of the .-->
+|----
+|zlm
+|[[Bahasa Melayu (bahasa individu)]]
+|
+|----
+|xmm
+|[[Bahasa Melayu Manado]]
+|
+|----
+|min
+|[[Minangkabau]]
+|''Lingua franca'' di kawasan pantai barat [[Sumatera Utara]] hingga [[Aceh]]
+|----
+|mui
+|[[Musi]]
+|
+|----
+|zmi
+|[[Bahasa Melayu Negeri Sembilan]]
+|
+|----
+|max
+|[[Bahasa Melayu Maluku Utara]]
+|
+|----
+|orn
+|[[Bahasa Orang Kanaq|Orang Kanaq]]
+|
+|----
+|ors
+|[[Orang Seletar]]
+|
+|----
+|mfa
+|[[Bahasa Melayu Pattani]]
+|Thailand, [[Provinsi Pattani]]
+|----
+|pel
+|[[Pekal]]
+|
+|----
+|msi
+|[[Bahasa Melayu Sabah]]
+|
+|----
+|zsm
+|[[Bahasa Melayu|Bahasa Melayu Standar]]
+|
+|----
+|tmw
+|[[Temuan]]
+|
+|----
+|vkt
+|[[Bahasa Melayu Kutai|Bahasa Melayu Kutai Tenggarong]]
+|
+|----
+|urk
+|[[Urak Lawoi']]
+|
+|----
+|}
+
+[[Kategori:Bahasa Melayu]]

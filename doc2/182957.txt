@@ -1,0 +1,48 @@
+Biotin
+{{refimprove}}
+{{Chembox new
+|   Name =amel
+
+|   ImageFile = Biotin structure.svg
+|   ImageSize = 250px
+|   ImageFile1 = Biotin-3D-balls.png
+|   ImageSize2 = 250px
+|   IUPACName=5-[(3a''S'',4''S'',6a''R'')-{{br}}2-oxohexahydro-{{br}}1''H''-thieno{{br}}[3,4-''d'']imidazol-4-yl]{{br}}asam pentanoat
+|   OtherNames = Vitamin B<sub>7</sub>; Vitamin H
+| Section1 = {{Chembox Identifiers
+|   SMILES = O=C1N[C@@H]2[C@H](CCCCC{{br}}(=O)O)SC[C@@H]2N1
+|   InChI = 1/C10H16N2O3S/c13-{{br}}8(14)4-2-1-3-7-9-6(5-16-7){{br}}11-10(15)12-9/h6-7,9H,1-5H2,{{br}}(H,13,14)(H2,11,12,15)/t6-{{br}},7-,9-/m0/s1
+|   CASNo = 58-85-5
+|   PubChem = 171548
+|   ChemSpiderID = 149962
+|   RTECS =  
+  }}
+<!--| Section2 = {{Chembox Properties
+|C=10|H=16|N=2|O=3|S=1
+|   Solubility = larut}}-->
+}}
+'''Biotin''' (atau '''vitamin B<sub>7</sub>''') ialah [[vitamin]] [[hidrofilik|larut air]] yang juga dikenal dengan '''vitamin H'''.<ref name=gen3>[http://www.vitamins-supplements.org/biotin.php. Vitamins & Health Supplements Guide.] 2006. Diakses pada 13 Mei 2010.</ref> Vitamin ini memiliki peranan yang sangat besar dalam reaksi [[biokimia]] di dalam tubuh, seperti dalam transfer [[karbon dioksida]] dan [[metabolisme]] [[karbohidrat]] dan [[lemak]].<ref name=gen3 /> Tidak seperti kebanyakan vitamin lainnya, biotin merupakan salah satu jenis vitamin yang cukup stabil diberbagai kondisi lingkungan, seperti panas, paparan cahaya matahari, dan [[oksigen]].<ref name=gen3 />
+
+== Peranan dalam tubuh ==
+Peran utama biotin di dalam tubuh adalah membantu [[metabolisme]] [[lemak]], [[protein]], dan [[karbohidrat]] yang akan membentuk molekul [[gula]] sederhana ([[glukosa]]), [[asam lemak]], dan [[asam amino]].<ref name=gen2>Gaby SK, Bendich A, Singh VN, Machlin LJ. 1991. ''Vitamin Intake and Health: A Scientific Review''. Marcel Dekker: AS.</ref> Reaksi ini dikenal dengan istilah [[katabolisme]], yaitu pemecahan senyawa kompleks menjadi banyak molekul sederhana yang disertai dengan pelepasan [[energi]]. Molekul sederhana tersebut kemudian akan dipakai tubuh untuk mensintesis [[sel]]-sel baru. Biotin juga merupakan [[koenzim]] bagi [[piruvat karboksilase]], salah satu jenis enzim yang berperan dalam metabolisme energi.<ref name=gen3 />
+
+Biotin banyak digunakan untuk membantu pemulihan tubuh terhadap penyakit defisiensi [[holokarboksilase sintetase]] dan defisiensi [[biotinidase]].<ref name=gen3 /> Selain itu, biotin juga mamapu menurunkan kadar gula darah serta memperkuat struktur [[rambut]] dan [[kuku]].<ref name=glu>Albarracin CA, Fuqua BC, Evans JL, Goldfine ID. 2008. Chromium picolinate and biotin combination improves glucose metabolism in treated, uncontrolled overweight to obese patients with type 2 diabetes. ''Diabetes Met Res Rev'' 24(1):41-51.</ref> Terkait dengan peranannya dalam metabolisme energi, vitamin ini dapat meningkatkan efisiensi dan mengkatalis pemecahan [[lemak]] tubuh.<ref name=gen2 />
+[[Berkas:Raw egg.jpg|thumb|200px|left|Kuning telur merupakan sumber alami biotin.]]
+== Konsumsi ==
+Defisiensi biotin adalah salah satu jenis penyakit yang jarang ditemui karena vitamin ini dapat ditemukan di hampir semua jenis makanan Sumber utama biotin antara lain berasal dari [[daging]], [[kuning telur]], dan [[pisang]].<ref name=gen1 /> Selain itu, biotin juga dapat diperoleh dari tanaman [[kacang]]-kacangan, [[molase]], [[ragi]], dan [[gandum]]. Di dalam saluran pencernaan manusia, juga terdapat [[bakteri]] yang mampu memproduksi biotin, tetapi hanya dalam jumlah yang sedikit.<ref name=gen3 />
+
+Biotin hanya diperlukan dalam jumlah sedikit dan diserap tubuh di [[usus]] penyerapan melalui proses [[difusi]]. Berdasarkan [[RDA]], biotin perlu di konsumsi sebanyak 30 hingga 100 mikrogram perhari. Kuantitas ini dapat ditingkatkan hingga 2500 mikrogram perhari untuk mengatasi masalah rambut dan kuku yang rusak, serta juga digunakan untuk menurunkan kadar [[gula darah]].<ref name=glu />
+
+== Defisiensi ==
+Di dalam tubuh, biotin banyak berperan dalam metabolisme dan pertumbuhan tubuh, terutama dalam hal pembentukan [[asam lemak]], [[antibodi]], [[enzim]] pencernaan, dan [[niasin]].<ref name=gen1>Lieberman S, Burning N. 2007. ''The Real Vitamin and Mineral Book: The Definitive Guide to Designing Your PErsonal Trainning Program''. Ed ke-4. Penguin Group: AS.</ref> Bila kadarnya di dalam tubuh tidak mencukupi maka akan timbul berbagai gangguan fisiologis. Sebagai contoh, defisiensi biotin serngkali menimbulkan berbagai masalah kesehatan, seperti [[dermatitis]], [[depresi]], [[nusea]], [[anemia]], dan kerontokan rambut.<ref name=ane>Franco RS. 2009. The measurement and importance of red cell survival. ''Am J Hematol'' 84(2):109-114.</ref> Sistem [[antibodi]] tubuh pun dapat terganggu. Hal ini menyebabkan tubuh mudah terinfeksi oleh [[bakteri]] dan [[jamur]]. Untuk mengatasi hal ini, penderita dapat diberi asupan kuning telur secara berkala karena memiliki kandungan biotin yang tinggi.<ref name=gen3 />
+
+== Penggunaan dalam biokimia analitik ==
+Dalam teknik ''[[hibridisasi (biokimia)|hibridisasi]]'', [[UTP|dUTP]] yang telah dilabel dengan biotin (diberi istilah ''biotynilated-dUTP'') digunakan sebagai [[probe]] non-[[radioaktif]] untuk menggantikan pelabelan dengan [[isotop]] <sup>32</sup>[[fosfor|P]]. ''Biotynilated-dUTP'' disisipkan ke dalam suatu molekul DNA melalui ''[[nick translation]]'' sehingga DNA ini terlabel dengan biotin. Pendeteksian hibrida (hybrid) dilakukan dengan menggunakan kompleks peroksidase ''streptavidin-biotin-horseradish'', yang akan memancarkan warna hijau jika terbentuk hibrida[<ref>Oliver & Ward. 1985. ''A Dictionary of Genetic Engineering''. Cambridge University Press. Cambridge.</ref>].
+
+== Referensi ==
+{{Reflist}}
+
+{{Vitamin}}
+
+[[Kategori:Vitamin]]
+[[Kategori:Senyawa organosulfur]]

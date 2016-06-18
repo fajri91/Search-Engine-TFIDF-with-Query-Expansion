@@ -1,0 +1,30 @@
+O Strange New World
+{{Infobox book
+| name             = O Strange New World: American Culture, The Formative Years
+| image            = <!-- include the [[file:]] and the image size -->
+| image_caption    = 
+| author           = [[Howard Mumford Jones]]
+| country          = 
+| language         = 
+| subject          = [[Sejarah Amerika Serikat]]
+| publisher        =  [[Viking Press]]
+| pub_date         = 1964
+| pages            = 464
+| isbn             = 
+| oclc             = 250063
+}}
+'''''O Strange New World''': American Culture-The Formative Years'' ditulis oleh [[Howard Mumford Jones]] dan diterbitkan oleh [[Viking Press]] tahun 1964.<ref Name="Jones">{{cite book|last =Jones|first =Howard Mumford |title =O Strange New World: American Culture: the Formative Years|publisher =Viking Press|year =1964|location =|pages =|url =http://books.google.com/books?id=yo4wAAAAMAAJ&q=%22O+Strange+New+World%22&dq=%22O+Strange+New+World%22&pgis=1|doi =|id =  }}</ref> Buku ini memenangkan [[Hadiah Pulitzer untuk Non-Fiksi Umum]] tahun 1965.<ref Name="Pulitzer">{{cite web  | title = Pulitzer Prize Winners: General Non-Fiction  | work =  | publisher =pulitzer.org  | date =  | url =http://www.pulitzer.org/  | format =web  | doi =  | accessdate = 2008-02-28 }}</ref>
+
+==Catatan kaki==
+{{reflist}}
+
+==Pranala luar==
+*{{OL work|id=OL1201624W}}
+
+{{Pulitzer-NonFiksiUmum 19621975}}
+
+[[Kategori:Buku tahun 1964]]
+[[Kategori:Buku sejarah tentang Amerika Serikat]]
+[[Kategori:Karya pemenang Hadiah Pulitzer untuk Non-Fiksi Umum]]
+
+{{sejarah-buku-stub}}

@@ -1,0 +1,23 @@
+Editor
+{{KBBI|Editor}}
+'''[[wikt:editor|Editor]]''' atau '''penyunting''' adalah orang, atau program, yang melakukan penyuntingan (pengeditan), perubahan pada suatu naskah, berita, audio, gambar, video, film baik di media cetak, media elektronik, maupun di media baru. {{penghubung|editor}}
+== Seseorang yang melakukan penyuntingan ==
+* [[Redaktur]]
+* [[Editor film]]
+* [[Editor suara]]
+
+== Program komputer untuk penyuntingan ==
+* [[Penyunting teks]], aplikasi untuk menyunting teks dasar (''plain text)''.
+* [[Editor hex]], aplikasi untuk menyunting data biner suatu berkas.
+* [[Editor kode sumber]], aplikasi untuk menyunting kode sumber suatu program
+* [[Editor HTML]], aplikasi untuk menyunting situs berbasis [[Hypertext markup language|HTML]].
+* [[Editor XML]], aplikasi untuk menyunting data [[Extensible markup language|XML]].
+* [[Editor audio digital]], aplikasi untuk menyunting data audio.
+* [[Editor gambar raster]], aplikasi untuk menyunting berkas gambar raster.
+* [[Editor gambar vektor]], aplikasi untuk menyunting gambar vektor.
+* [[Editor level]], aplikasi untuk menyunting level (tingkatan) [[permainan video]].
+
+== Lain-lain ==
+* [[Wikipedia:Validasi artikel/Status pengguna#Editor|Editor]] di [[Wikipedia bahasa Indonesia]].
+
+{{disambig}}

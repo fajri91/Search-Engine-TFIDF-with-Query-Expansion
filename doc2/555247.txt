@@ -1,0 +1,204 @@
+Daftar planet minor/5600156100
+<noinclude>{{Daftar planet minor/header1}}</noinclude>
+|-
+| 56001 - || {{mp|1998 SR|146}} || 20 September 1998 || [[Observatorium La Silla|La Silla]] || [[Eric Walter Elst|E. W. Elst]]
+|-
+| 56002 - || {{mp|1998 SJ|147}} || 20 September 1998 || La Silla || E. W. Elst
+|-
+| 56003 - || {{mp|1998 SB|156}} || 26 September 1998 || [[Socorro, NM|Socorro]] || [[Lincoln Near-Earth Asteroid Research|LINEAR]]
+|-
+| 56004 - || {{mp|1998 SO|161}} || 26 September 1998 || Socorro || LINEAR
+|-
+| 56005 - || {{mp|1998 SK|169}} || 22 September 1998 || [[Lowell Observatory, Anderson Mesa Station|Anderson Mesa]] || [[Lowell Observatory Near-Earth-Object Search|LONEOS]]
+|-
+| 56006 - || {{mp|1998 TJ|13}} || 13 Oktober 1998 || [[Observatorium Nasional Kitt Peak|Kitt Peak]] || [[Spacewatch]]
+|-
+| 56007 - || {{mp|1998 TP|14}} || 14 Oktober 1998 || Kitt Peak || Spacewatch
+|-
+| 56008 - || {{mp|1998 TL|20}} || 13 Oktober 1998 || Kitt Peak || Spacewatch
+|-
+| 56009 - || {{mp|1998 TZ|33}} || 14 Oktober 1998 || [[Lowell Observatory, Anderson Mesa Station|Anderson Mesa]] || [[Lowell Observatory Near-Earth-Object Search|LONEOS]]
+|-
+| 56010 - || {{mp|1998 UJ|8}} || 24 Oktober 1998 || [[Observatorium Oizumi|Oizumi]] || [[Takao Kobayashi|T. Kobayashi]]
+|-
+| 56011 - || {{mp|1998 UJ|16}} || 23 Oktober 1998 || [[Caussols, Alpes-Maritimes|Caussols]] || [[OCA-DLR Asteroid Survey|ODAS]]
+|-
+| 56012 - || {{mp|1998 UE|19}} || 27 Oktober 1998 || [[Zvjezdarnica Vinjan|Observatorium Vinjan]] || [[Korado Korlevi|K. Korlevi]]
+|-
+| 56013 - || {{mp|1998 UB|21}} || 29 Oktober 1998 || Observatorium Vinjan || K. Korlevi
+|-
+| 56014 - || {{mp|1998 UO|25}} || 18 Oktober 1998 || [[Observatorium La Silla|La Silla]] || [[Eric Walter Elst|E. W. Elst]]
+|-
+| 56015 - || {{mp|1998 UH|26}} || 18 Oktober 1998 || La Silla || E. W. Elst
+|-
+| 56016 - || {{mp|1998 UO|36}} || 28 Oktober 1998 || [[Socorro, NM|Socorro]] || [[Lincoln Near-Earth Asteroid Research|LINEAR]]
+|-
+| 56017 - || {{mp|1998 VC|4}} || 11 November 1998 || [[Caussols, Alpes-Maritimes|Caussols]] || [[OCA-DLR Asteroid Survey|ODAS]]
+|-
+| 56018 - || {{mp|1998 VH|4}} || 11 November 1998 || Caussols || ODAS
+|-
+| 56019 - || {{mp|1998 VS|4}} || 11 November 1998 || [[Socorro, NM|Socorro]] || [[Lincoln Near-Earth Asteroid Research|LINEAR]]
+|-
+| 56020 - || {{mp|1998 VW|10}} || 10 November 1998 || Socorro || LINEAR
+|-
+| 56021 - || {{mp|1998 VD|16}} || 10 November 1998 || Socorro || LINEAR
+|-
+| 56022 - || {{mp|1998 VL|23}} || 10 November 1998 || Socorro || LINEAR
+|-
+| 56023 - || {{mp|1998 VX|28}} || 10 November 1998 || Socorro || LINEAR
+|-
+| 56024 - || {{mp|1998 VA|30}} || 10 November 1998 || Socorro || LINEAR
+|-
+| 56025 - || {{mp|1998 VW|30}} || 10 November 1998 || Socorro || LINEAR
+|-
+| 56026 - || {{mp|1998 VN|52}} || 13 November 1998 || Socorro || LINEAR
+|-
+| 56027 - || {{mp|1998 WG|1}} || 18 November 1998 || [[Catalina Sky Survey|Catalina]] || [[Catalina Sky Survey|CSS]]
+|-
+| 56028 - || {{mp|1998 WA|14}} || 21 November 1998 || [[Socorro, NM|Socorro]] || [[Lincoln Near-Earth Asteroid Research|LINEAR]]
+|-
+| 56029 - || {{mp|1998 WZ|15}} || 21 November 1998 || Socorro || LINEAR
+|-
+| 56030 - || {{mp|1998 WH|16}} || 21 November 1998 || Socorro || LINEAR
+|-
+| 56031 - || {{mp|1998 WO|18}} || 21 November 1998 || Socorro || LINEAR
+|-
+| 56032 - || {{mp|1998 WX|18}} || 21 November 1998 || Socorro || LINEAR
+|-
+| 56033 - || {{mp|1998 WF|19}} || 21 November 1998 || Socorro || LINEAR
+|-
+| 56034 - || {{mp|1998 WS|19}} || 25 November 1998 || Socorro || LINEAR
+|-
+| 56035 - || {{mp|1998 WV|20}} || 18 November 1998 || Socorro || LINEAR
+|-
+| 56036 - || {{mp|1998 WH|31}} || 23 November 1998 || [[Catalina Sky Survey|Catalina]] || [[Catalina Sky Survey|CSS]]
+|-
+| 56037 - || {{mp|1998 WF|32}} || 20 November 1998 || [[Lowell Observatory, Anderson Mesa Station|Anderson Mesa]] || [[Lowell Observatory Near-Earth-Object Search|LONEOS]]
+|-
+| 56038 - || {{mp|1998 XC|3}} || 7 Desember 1998 || [[Osservatorio Colleverde di Guidonia|Colleverde]] || [[Vincenzo Silvano Casulli|V. S. Casulli]]
+|-
+| 56039 - || {{mp|1998 XO|3}} || 9 Desember 1998 || [[Observatorium Oizumi|Oizumi]] || [[Takao Kobayashi|T. Kobayashi]]
+|-
+| 56040 - || {{mp|1998 XP|3}} || 9 Desember 1998 || Oizumi || T. Kobayashi
+|-
+| [[56041 Luciendumont]] || {{mp|1998 XO|4}} || 8 Desember 1998 || [[Observatoire de Blauvac|Blauvac]] || [[Ren Roy|R. Roy]]
+|-
+| 56042 - || {{mp|1998 XW|10}} || 15 Desember 1998 || [[Caussols, Alpes-Maritimes|Caussols]] || [[OCA-DLR Asteroid Survey|ODAS]]
+|-
+| 56043 - || {{mp|1998 XQ|11}} || 14 Desember 1998 || [[Observatorium Prescott|Prescott]] || [[Paul G. Comba|P. G. Comba]]
+|-
+| 56044 - || {{mp|1998 XU|17}} || 15 Desember 1998 || [[Woomera, Australia|Woomera]] || [[Frank B. Zoltowski|F. B. Zoltowski]]
+|-
+| 56045 - || {{mp|1998 XD|21}} || 10 Desember 1998 || [[Observatorium Nasional Kitt Peak|Kitt Peak]] || [[Spacewatch]]
+|-
+| [[(56046) 1998 XC26|56046]] || {{mp|1998 XC|26}} || 15 Desember 1998 || [[Stasiun Xinglong (NAOC)|Xinglong]] || [[Beijing Schmidt CCD Asteroid Program|BAO Schmidt CCD Asteroid Program]]
+|-
+| 56047 - || {{mp|1998 XK|36}} || 14 Desember 1998 || [[Socorro, NM|Socorro]] || [[Lincoln Near-Earth Asteroid Research|LINEAR]]
+|-
+| 56048 - || {{mp|1998 XV|39}} || 14 Desember 1998 || Socorro || LINEAR
+|-
+| 56049 - || {{mp|1998 XA|44}} || 14 Desember 1998 || Socorro || LINEAR
+|-
+| 56050 - || {{mp|1998 XG|45}} || 14 Desember 1998 || Socorro || LINEAR
+|-
+| 56051 - || {{mp|1998 XF|50}} || 14 Desember 1998 || Socorro || LINEAR
+|-
+| 56052 - || {{mp|1998 XN|50}} || 14 Desember 1998 || Socorro || LINEAR
+|-
+| 56053 - || {{mp|1998 XG|52}} || 14 Desember 1998 || Socorro || LINEAR
+|-
+| 56054 - || {{mp|1998 XR|52}} || 14 Desember 1998 || Socorro || LINEAR
+|-
+| 56055 - || {{mp|1998 XB|54}} || 14 Desember 1998 || Socorro || LINEAR
+|-
+| 56056 - || {{mp|1998 XP|58}} || 15 Desember 1998 || Socorro || LINEAR
+|-
+| 56057 - || {{mp|1998 XZ|59}} || 15 Desember 1998 || Socorro || LINEAR
+|-
+| 56058 - || {{mp|1998 XL|62}} || 11 Desember 1998 || Socorro || LINEAR
+|-
+| 56059 - || {{mp|1998 XE|64}} || 14 Desember 1998 || Socorro || LINEAR
+|-
+| 56060 - || {{mp|1998 XT|70}} || 14 Desember 1998 || Socorro || LINEAR
+|-
+| 56061 - || {{mp|1998 XY|90}} || 15 Desember 1998 || Socorro || LINEAR
+|-
+| 56062 - || {{mp|1998 XD|91}} || 15 Desember 1998 || Socorro || LINEAR
+|-
+| 56063 - || {{mp|1998 XM|93}} || 15 Desember 1998 || Socorro || LINEAR
+|-
+| 56064 - || {{mp|1998 XW|93}} || 15 Desember 1998 || Socorro || LINEAR
+|-
+| 56065 - || {{mp|1998 XB|97}} || 12 Desember 1998 || [[Observatorio Nacional de Llano del Hato|Mrida]] || [[Orlando A. Naranjo|O. A. Naranjo]]
+|-
+| 56066 - || 1998 YA || 16 Desember 1998 || [[Zvjezdarnica Vinjan|Observatorium Vinjan]] || [[Korado Korlevi|K. Korlevi]]
+|-
+| 56067 - || {{mp|1998 YH|2}} || 17 Desember 1998 || [[Caussols, Alpes-Maritimes|Caussols]] || [[OCA-DLR Asteroid Survey|ODAS]]
+|-
+| 56068 - || {{mp|1998 YQ|2}} || 17 Desember 1998 || Caussols || ODAS
+|-
+| 56069 - || {{mp|1998 YL|5}} || 17 Desember 1998 || [[Gekko Observatory|Gekko]] || [[Tetsuo Kagawa|T. Kagawa]]
+|-
+| 56070 - || {{mp|1998 YQ|5}} || 21 Desember 1998 || [[Observatorium Oizumi|Oizumi]] || [[Takao Kobayashi|T. Kobayashi]]
+|-
+| 56071 - || {{mp|1998 YF|6}} || 22 Desember 1998 || [[Catalina Sky Survey|Catalina]] || [[Catalina Sky Survey|CSS]]
+|-
+| 56072 - || {{mp|1998 YK|8}} || 24 Desember 1998 || [[Observatorium Oizumi|Oizumi]] || [[Takao Kobayashi|T. Kobayashi]]
+|-
+| 56073 - || {{mp|1998 YO|10}} || 26 Desember 1998 || [[Osservatorio Astronomico della Montagna Pistoiese|San Marcello]] || [[Maura Tombelli|M. Tombelli]], [[Andrea Boattini|A. Boattini]]
+|-
+| 56074 - || {{mp|1998 YG|18}} || 25 Desember 1998 || [[Observatorium Nasional Kitt Peak|Kitt Peak]] || [[Spacewatch]]
+|-
+| 56075 - || {{mp|1998 YV|21}} || 26 Desember 1998 || Kitt Peak || Spacewatch
+|-
+| 56076 - || {{mp|1998 YV|29}} || 27 Desember 1998 || [[Lowell Observatory, Anderson Mesa Station|Anderson Mesa]] || [[Lowell Observatory Near-Earth-Object Search|LONEOS]]
+|-
+| 56077 - || {{mp|1998 YD|32}} || 21 Desember 1998 || [[Socorro, NM|Socorro]] || [[Lincoln Near-Earth Asteroid Research|LINEAR]]
+|-
+| 56078 - || 1999 AT || 7 Januari 1999 || [[Observatorium Oizumi|Oizumi]] || [[Takao Kobayashi|T. Kobayashi]]
+|-
+| 56079 - || {{mp|1999 AS|2}} || 9 Januari 1999 || Oizumi || T. Kobayashi
+|-
+| 56080 - || {{mp|1999 AN|3}} || 9 Januari 1999 || [[Gekko Observatory|Gekko]] || [[Tetsuo Kagawa|T. Kagawa]]
+|-
+| 56081 - || {{mp|1999 AU|8}} || 10 Januari 1999 || [[Fair Oaks Ranch Observatory|Fair Oaks Ranch]] || [[John V. McClusky|J. V. McClusky]]
+|-
+| [[(56082) 1999 AK9|56082]] || {{mp|1999 AK|9}} || 9 Januari 1999 || [[Stasiun Xinglong (NAOC)|Xinglong]] || [[Beijing Schmidt CCD Asteroid Program|BAO Schmidt CCD Asteroid Program]]
+|-
+| 56083 - || {{mp|1999 AQ|16}} || 10 Januari 1999 || [[Observatorium Nasional Kitt Peak|Kitt Peak]] || [[Spacewatch]]
+|-
+| 56084 - || {{mp|1999 AN|19}} || 13 Januari 1999 || Kitt Peak || Spacewatch
+|-
+| 56085 - || {{mp|1999 AV|19}} || 13 Januari 1999 || Kitt Peak || Spacewatch
+|-
+| [[(56086) 1999 AA21|56086]] || {{mp|1999 AA|21}} || 13 Januari 1999 || [[Nachi-Katsuura Observatory|Nachi-Katsuura]] || [[Yoshisada Shimizu|Y. Shimizu]], [[Takeshi Urata|T. Urata]]
+|-
+| [[(56087) 1999 AH22|56087]] || {{mp|1999 AH|22}} || 13 Januari 1999 || [[Stasiun Xinglong (NAOC)|Xinglong]] || [[Beijing Schmidt CCD Asteroid Program|BAO Schmidt CCD Asteroid Program]]
+|-
+| [[56088 Wuheng]] || {{mp|1999 AZ|23}} || 14 Januari 1999 || Xinglong || [[Beijing Schmidt CCD Asteroid Program]]
+|-
+| 56089 - || {{mp|1999 AY|25}} || 6 Januari 1999 || [[Zvjezdarnica Vinjan|Observatorium Vinjan]] || [[Korado Korlevi|K. Korlevi]]
+|-
+| 56090 - || 1999 BE || 16 Januari 1999 || [[Observatorium Oizumi|Oizumi]] || [[Takao Kobayashi|T. Kobayashi]]
+|-
+| 56091 - || 1999 BJ || 16 Januari 1999 || Oizumi || T. Kobayashi
+|-
+| 56092 - || 1999 BK || 16 Januari 1999 || Oizumi || T. Kobayashi
+|-
+| 56093 - || {{mp|1999 BM|5}} || 18 Januari 1999 || [[Observatorium Nasional Kitt Peak|Kitt Peak]] || [[Spacewatch]]
+|-
+| 56094 - || {{mp|1999 BW|5}} || 20 Januari 1999 || [[Zvjezdarnica Vinjan|Observatorium Vinjan]] || [[Korado Korlevi|K. Korlevi]]
+|-
+| 56095 - || {{mp|1999 BL|6}} || 20 Januari 1999 || [[Caussols, Alpes-Maritimes|Caussols]] || [[OCA-DLR Asteroid Survey|ODAS]]
+|-
+| 56096 - || {{mp|1999 BA|9}} || 22 Januari 1999 || [[Zvjezdarnica Vinjan|Observatorium Vinjan]] || [[Korado Korlevi|K. Korlevi]]
+|-
+| 56097 - || {{mp|1999 BC|12}} || 21 Januari 1999 || [[Uto Observatory|Uto]] || [[Fumiaki Uto|F. Uto]]
+|-
+| 56098 - || {{mp|1999 BE|13}} || 24 Januari 1999 || [[Zvjezdarnica Vinjan|Observatorium Vinjan]] || [[Korado Korlevi|K. Korlevi]]
+|-
+| 56099 - || {{mp|1999 BL|13}} || 25 Januari 1999 || Observatorium Vinjan || K. Korlevi
+|-
+| [[56100 Luisapolli]] || {{mp|1999 BM|14}} || 24 Januari 1999 || [[Osservatorio Astronomico di Gnosca|Gnosca]] || [[Stefano Sposetti|S. Sposetti]]
+|-
+<noinclude>{{Daftar planet minor/Helper|560}}</noinclude>

@@ -1,0 +1,14 @@
+Berkas:Quidditch dari Masa ke Masa indo.JPG
+== {{int:filedesc}} ==
+{{Information
+| description    =
+Sumber: http://www.gramedia.com/
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{SampulBuku}}

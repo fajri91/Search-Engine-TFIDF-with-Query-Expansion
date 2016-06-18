@@ -1,0 +1,35 @@
+Trichoncus affinis
+{{Taxobox
+|name = Trichoncus affinis
+|status = 
+|image = 
+|image_caption = 
+|domain = 
+|regnum = [[Animalia]]
+|phylum = [[Arthropoda]]
+|classis = [[Arachnida]]
+|ordo = [[Araneae]]
+|familia = [[Linyphiidae]]
+|genus =Trichoncus
+|species = Trichoncus affinis
+|binomial = Trichoncus affinis
+|binomial_authority =Kulczynski, 1894
+|range_map = 
+|range_map_caption = 
+|image2 = 
+|image2_caption = 
+|synonyms = 
+}}
+'''''Trichoncus affinis''''' adalah spesies [[laba-laba]] yang tergolong [[familia]] [[Linyphiidae]]. Spesies ini juga merupakan bagian dari ordo [[Araneae]]. Nama ilmiah dari spesies ini pertama kali diterbitkan pada tahun 1894 oleh Kulczynski.
+
+Laba-laba ini biasanya banyak ditemui di Palearktik.
+
+== Referensi ==
+
+* Platnick, Norman I. (2010): [http://research.amnh.org/entomology/spiders/catalog/LINYPHIIDAE.html The world spider catalog], version 10.5. ''American Museum of Natural History''.
+
+{{DEFAULTSORT:Trichoncus affinis}}
+
+[[Kategori:Linyphiidae]]
+
+{{labalaba-stub}}

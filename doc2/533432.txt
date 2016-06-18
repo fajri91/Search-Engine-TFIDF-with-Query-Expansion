@@ -1,0 +1,5 @@
+Templat:Aljazeera topic
+[http://english.aljazeera.net/category/{{{1}}} {{{2|{{PAGENAME}}}}}] - Kumpulan berita dan komentar di ''[[Al Jazeera English]]''<noinclude>
+{{documentation}}
+<!-- Add cats and interwikis to the /doc subpage, not here! -->
+</noinclude>

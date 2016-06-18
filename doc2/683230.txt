@@ -1,0 +1,52 @@
+Pulo Gadung 1 (Transjakarta)
+{{Kotakinfo halte Transjakarta
+| name              = Pulo Gadung 1
+| corridor          = 2
+| station           = 01
+| isfuture          = no
+| image             = 
+| image_caption     = 
+| city              = Jakarta Timur
+| neighborhood      = Pulo Gadung, Pulo Gadung
+| zipcode           = 13260
+| address           = Terminal Pulo Gadung
+| latitude          = -6.183291
+| longitude         = 106.909009
+| levelcount        =
+| level1name        = Struktur
+| level1description = {{Station level|transitmode=BRT|elevation=freeway|platformlayout=center|platformcount=1}}
+| entrances         = Melalui Terminal Pulo Gadung
+| faregates         = Ya
+| ADA               = 
+| parking           = 
+| bicycle           = 
+| other             = 
+| ownedby           = [[Perum PPD]]<br/>PT. Transportasi Jakarta
+| othernames        = 
+| formernames       = Pulo Gadung
+| status            = Beroperasi
+| opened            = [[15 Januari]] [[2006]]
+| closed            = 
+| rebuilt           = 
+| renovated         = 
+| services          = {{s-rail|title=Transjakarta}}
+{{s-line|system=Transjakarta|line=2|previous=Kawasan Industri Pulo Gadung|rows2=2|next=Bermis}}
+{{s-line|system=Transjakarta|line=2|notemid=Koridor 2A|hide2=yes}}
+{{s-line|system=Transjakarta|line=4|next=Pasar Pulo Gadung|transfer=Pulo Gadung 2}}
+{{s-line|system=Transjakarta|line=6|notemid=Koridor 6B|previous=Pasar Pulo Gadung|transfer=Pulo Gadung 2}}
+}}
+'''Pulo Gadung 1''' adalah sebuah halte [[Transjakarta]] yang terletak di [[Terminal Pulo Gadung]], [[Pulo Gadung, Jakarta Timur|Pulo Gadung]], [[Jakarta Timur]]. Halte ini berada di [[Transjakarta Koridor 2|Koridor 2]] yang membentang dari barat ke timur. Halte ini merupakan halte ke arah [[Harmoni Sentral (Transjakarta)|Harmoni]] dan [[Kota Harapan Indah (Transjakarta)|Kota Harapan Indah]].
+
+== Tempat-tempat terdekat ==
+* Kawasan Industri Pulo Gadung (Jakarta Industrial Park)
+* Pulo Gadung Trade Center
+
+== Pranala luar ==
+*[http://www.transjakarta.co.id/ Situs web Transjakarta]
+*[http://www.petabusway.com/ Peta Koridor & Rute Transjakarta]
+
+{{Transjakarta}}
+{{transjakarta-stub}}
+
+[[Kategori:Koridor 2 Transjakarta]]
+[[Kategori:Halte Transjakarta di Jakarta Timur]]

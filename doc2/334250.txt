@@ -1,0 +1,16 @@
+Templat:Kalan Porter
+{{Navbox Musical artist
+| name = Kalan Porter
+| listclass = hlist
+| title =[[Kalan Porter]]
+| background = solo_singer
+
+| group1 = Album
+| list1  = ''[[219 Days]]''{{wrap}} ''[[Wake Up Living]]''
+
+| group2 = Singel
+| list2 = ''[[Awake in a Dream]]''{{wrap}} ''Single''{{wrap}} ''In Spite Of It All''{{wrap}} ''Down in Heaven''{{wrap}} ''Destination (Where I Belong)''{{wrap}} ''Hurray''
+
+| group3 = Artikel terkait
+| list3  = ''[[Canadian Idol]]'' ([[Canadian Idol (musim 2)|musim 2]]){{wrap}} [[Sony BMG]]{{wrap}} [[Diskografi Kalan Porter|Diskografi]]
+}}

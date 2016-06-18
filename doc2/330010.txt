@@ -1,0 +1,31 @@
+Templat:Mthn/doc
+{{Documentation subpage}}
+<!-- TAMBAHKAN KATEGORI DAN INTERWIKI DI BAGIAN PALING BAWAH HALAMAN INI -->
+<!-- SUNTING DOKUMENTASI TEMPLAT DI BAWAH INI -->
+
+Menghasilkan angka tahun, dasawarsa, abad atau milenium untuk digunakan di ''Infobox'' atau ''Navbox''
+
+Parameter pertama adalah y, d, c, m, (y=tahun; d=dasawarsa; c=abad; m=milenium) berdasarkan apa yang dijadikan masukan.
+
+Parameter kedua adalah y, d, c, m, (y=tahun; d=dasawarsa; c=abad; m=milenium) berdasarkan apa yang dijadikan masukan.
+
+Parameter ketiga adalah angka masukan. Contoh, 1 berarti Tahun 1, 10-an, Abad ke-1 atau Milenium ke-1 (tergantung dari parameter pertama). Untuk SM (Sebelum Masehi), pergunakan angka negatif (untuk dasawarsa 0-an SM, gunakan -0).
+
+Parameter keempat adalah pengurang dari hasil keluaran. Perhatikan bahwa hasil dasawarsa/abad/milenium adalah dasawarsa/abad/milenium (pertama) dari masukan tahun/dasawarsa/abad/milenium, tetapi hasil ''tahun'' merupakan tahun ''kedua'' dari masukan dasawarsa/abad/milenium.
+
+Parameter kelima mengandung pilihan tampilan. Pada dasarnya sudah dihubungkan dalam batasan dimana Wikipedia memiliki artikel tersebut (untuk mengubah jangkauan, rubahlah {{tl|Mthn-buat}}. Pilihan yang tersedia adalah sebagai berikut:
+*y = selalu dihubungkan (wikifikasi)
+*n = tidak dihubungkan (tidak di-wikifikasi)
+*t = tidak dihubungkan, dan tidak diberikan spasi atau ''format'' lain (contoh, untuk digunakan dalam Kategori)
+*s = huruf kecil untuk SM (atau M jika ada)
+*a = menggunakan M (M=Masehi) atau tidak SM (SM=Sebelum Masehi)
+*ys, ysa, ya, ns, nsa, na, sa = gabungan diatas diperbolehkan
+
+=== Pemakaian ===
+Contoh: <nowiki>{{mthn|c|d|-5|3|s}}</nowiki> menghasilkan {{mthn|c|d|-5|3|s}}, contoh. dasawarsa dari Abad ke-5 SM dikurangi 3 dasawarsa.
+
+=== Lihat pula ===
+
+<includeonly>
+<!-- KATEGORI DAN INTERWIKI DITARUH DI SINI -->
+</includeonly>

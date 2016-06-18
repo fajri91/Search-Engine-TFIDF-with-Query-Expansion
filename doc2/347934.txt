@@ -1,0 +1,29 @@
+Templat:Flaglink/doc
+{{Subhalaman dokumentasi}}
+<!-- TAMBAHKAN KATEGORI DAN PRANALA ANTARBAHASA DI BAGIAN PALING BAWAH HALAMAN INI -->
+
+=== Penggunaan ===
+<tt><nowiki>{{flaglink|negara|pranala|variant=opsional|size=opsional|name=opsional}}</nowiki></tt>
+
+Menghasilkan gambar bendera yang mendampingi artikel berpranala wiki. Nama negara menjadi awalan dari pranala wiki, tetapi teks yang ditampilkan hanyalah nama negaranya.
+
+Sebagai contoh, <tt><nowiki>{{flaglink|Brasil|pada Pan American Games 2007}}</nowiki></tt> memiliki efek yang sama dengan <tt><nowiki>{{flagicon|Brasil}} [[Brasil pada Pan American Games 2007|Brasil]]</nowiki></tt>, keduanya menghasilkan: {{flaglink|Brasil|pada Pan American Games 2007}}.
+
+=== Contoh ===
+*<tt><nowiki>{{flaglink|Belanda|pada Kontes Lagu Eurovision}}</nowiki></tt>  {{flaglink|Belanda|pada Kontes Lagu Eurovision}}
+*<tt><nowiki>{{flaglink|ENG|pada Commonwealth Games 2006}}</nowiki></tt>  {{flaglink|ENG|pada Commonwealth Games 2006}}
+*<tt><nowiki>{{flaglink|Kanada|pada British Empire Games 1930|1921}}</nowiki></tt>  {{flaglink|Kanada|pada British Empire Games 1930|1921}}
+*<tt><nowiki>{{flaglink|Kanada|variant=1921|pada British Empire Games 1930}}</nowiki></tt>  {{flaglink|Kanada|variant=1921|pada British Empire Games 1930}}
+
+=== Lihat pula ===
+* [[Templat:flag]]
+* [[Templat:flagicon]]
+* [[Templat:flagcountry]]
+
+<includeonly>
+<!-- KATEGORI DAN PRANALA ANTARBAHASA DILETAKKAN DI SINI -->
+[[Kategori:Sistem templat bendera|{{PAGENAME}}]]
+
+[[da:Skabelon:Flaglink]]
+[[en:Template:Flaglink]]
+</includeonly>

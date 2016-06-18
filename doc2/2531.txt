@@ -1,0 +1,76 @@
+Kernel (ilmu komputer)
+{{Unreferenced|date=18 Oktober 2012}}
+'''Kernel''' merupakan [[program komputer]] yang mengatur permintaan akan input/output dari [[perangkat lunak]], dan menerjemahkannya ke dalam instruksi-instruksi pada CPU, ataupun komponen elektronik lainnya dalam sebuah komputer. Kernel merupakan bagian yang sangat mendasar pada sistem operasi komputer masa kini.
+
+Karena akses terhadap [[perangkat keras]] terbatas, sedangkan ada lebih dari satu program yang harus dilayani dalam waktu yang bersamaan, maka kernel juga bertugas untuk mengatur kapan dan berapa lama suatu program dapat menggunakan satu bagian perangkat keras tersebut. Hal tersebut dinamakan sebagai [[multiplexing]].
+
+Akses kepada perangkat keras secara langsung merupakan masalah yang kompleks, oleh karena itu kernel biasanya mengimplementasikan sekumpulan [[abstraksi hardware]]. Abstraksi-abstraksi tersebut merupakan sebuah cara untuk menyembunyikan kompleksitas, dan memungkinkan akses kepada perangkat keras menjadi mudah dan seragam. Sehingga abstraksi pada akhirnya memudahkan pekerjaan [[Programer komputer|programer]].
+
+Pada dasarnya, untuk menjalankan sebuah komputer tidak harus menggunakan kernel sistem operasi. Sebuah program dapat saja langsung dijalankan oleh komputer, yaitu saat sebuah program komputer akan digunakan tanpa bantuan abstraksi perangkat keras atau bantuan sistem operasi. Teknik ini umumnya digunakan oleh komputer-komputer generasi awal, sehingga bila ingin berpindah dari satu program ke program lain, pengguna harus mereset dan menjalankan kembali program-program tersebut.
+
+==Beberapa desain kernel==
+[[Berkas:jenis-jenis-kernel.png|thumb|right|200px|Beberapa desain kernel sistem operasi]]
+Sebuah kernel sistem operasi tidak bisa di contoh dan dibutuhkan untuk menjalankan sebuah komputer. Program dapat langsung dijalankan secara langsung di dalam sebuah mesin (contohnya adalah [[BIOS|CMOS Setup]]) sehingga para pembuat program tersebut membuat program tanpa adanya dukungan dari sistem operasi atau ''hardware abstraction''. Cara kerja seperti ini, adalah cara kerja yang digunakan pada zaman awal-awal dikembangkannya komputer (pada sekitar tahun 1950). Kerugian dari diterapkannya metode ini adalah pengguna harus melakukan reset ulang komputer tersebut dan memuatkan program lainnya untuk berpindah program, dari satu program ke program lainnya. Selanjutnya, para pembuat program tersebut membuat beberapa komponen program yang sengaja ditinggalkan di dalam komputer, seperti halnya [[loader]] atau [[debugger]], atau dimuat dari dalam ROM ([[Read-only memory|Read-Only Memory]]). Seiring dengan perkembangan zaman komputer yang mengalami akselerasi yang signifikan, metode ini selanjutnya membentuk apa yang disebut dengan kernel sistem operasi.
+
+Selanjutnya, para arsitek sistem operasi mengembangkan kernel sistem operasi yang pada akhirnya terbagi menjadi empat bagian yang secara desain berbeda, sebagai berikut:
+* '''''Kernel monolitik'''''. Kernel monolitik mengintegrasikan banyak fungsi di dalam kernel dan menyediakan ''[[hardware abstraction layer|lapisan abstraksi perangkat keras]]'' secara penuh terhadap perangkat keras yang berada di bawah [[sistem operasi]].
+* '''''Mikrokernel'''''. Mikrokernel menyediakan sedikit saja dari [[hardware abstraction layer|abstraksi perangkat keras]] dan menggunakan aplikasi yang berjalan di atasnyayang disebut dengan serveruntuk melakukan beberapa fungsionalitas lainnya.
+* '''''Kernel hibrida'''''. Kernel hibrida adalah pendekatan desain microkernel yang dimodifikasi. Pada ''hybrid kernel'', terdapat beberapa tambahan kode di dalam ruangan kernel untuk meningkatkan performanya.
+* '''''Exokernel'''''. Exokernel menyediakan hardware abstraction secara minimal, sehingga program dapat mengakses hardware secara langsung. Dalam pendekatan desain exokernel, library yang dimiliki oleh sistem operasi dapat melakukan abstraksi yang mirip dengan abstraksi yang dilakukan dalam desain ''monolithic kernel''.
+
+=== Kernel monolitik ===
+Pendekatan [[kernel monolitik]] didefinisikan sebagai sebuah antarmuka virtual yang berada pada tingkat tinggi di atas [[perangkat keras]], dengan sekumpulan primitif atau [[system call]] untuk mengimplementasikan layanan-layanan [[sistem operasi]], seperti halnya manajemen proses, konkurensi (''concurrency''), dan [[manajemen memori]] pada modul-modul kernel yang berjalan di dalam mode supervisor.
+
+Meskipun jika setiap modul memiliki layanan operasi-operasi tersebut terpisah dari modul utama, integrasi kode yang terjadi di dalam monolithic kernel sangatlah kuat, dan karena semua modul berjalan di dalam ''address space'' yang sama, sebuah ''bug'' dalam salah satu modul dapat merusak keseluruhan sistem. Akan tetapi, ketika implementasi dilakukan dengan benar, integrasi komponen internal yang sangat kuat tersebut justru akan mengizinkan fitur-fitur yang dimiliki oleh sistem yang berada di bawahnya dieksploitasi secara efektif, sehingga membuat sistem operasi dengan ''monolithic kernel'' sangatlah efisienmeskipun sangat sulit dalam pembuatannya.
+
+Pada sistem operasi modern yang menggunakan ''monolithic kernel'', seperti halnya [[Linux]], [[FreeBSD]], [[Solaris]], dan [[Microsoft Windows]], dapat memuat modul-modul yang dapat dieksekusi pada saat ''kernel'' tersebut dijalankan sehingga mengizinkan ekstensi terhadap kemampuan kernel sesuai kebutuhan, dan tentu saja dapat membantu menjaga agar kode yang berjalan di dalam ruangan kernel (''kernel-space'') seminim mungkin.
+
+Di bawah ini ada beberapa sistem operasi yang menggunakan ''Monolithic kernel'':
+* Kernel sistem operasi [[UNIX]] tradisional, seperti halnya ''kernel'' dari sistem operasi UNIX keluarga [[BSD]] ([[NetBSD]], [[BSD/I]], [[FreeBSD]], dan lainnya).
+* Kernel sistem operasi [[GNU/Linux]], [[Kernel Linux|Linux]].
+* Kernel sistem operasi [[Windows]] (versi 1.x hingga 4.x; kecuali [[Windows NT]]).
+
+=== Mikrokernel ===
+Pendekatan [[mikrokernel]] berisi sebuah abstraksi yang sederhana terhadap [[Hardware Abstraction Layer|hardware]], dengan sekumpulan primitif atau [[system call]] yang dapat digunakan untuk membuat sebuah sistem operasi agar dapat berjalan, dengan layanan-layanan seperti manajemen [[thread]], komunikasi antar ''address space'', dan komunikasi antar [[proses komputer|proses]]. Layanan-layanan lainnya, yang biasanya disediakan oleh kernel, seperti halnya dukungan [[jaringan komputer|jaringan]], pada pendekatan ''microkernel'' justru diimplementasikan di dalam ruangan pengguna (''user-space''), dan disebut dengan '''server'''.
+
+'''Server''' atau disebut sebagai [[peladen]] adalah sebuah [[program]], seperti halnya program lainnya. Server dapat mengizinkan sistem operasi agar dapat dimodifikasi hanya dengan menjalankan program atau menghentikannya. Sebagai contoh, untuk sebuah mesin yang kecil tanpa dukungan jaringan, server jaringan (istilah ''server'' di sini tidak dimaksudkan sebagai komputer pusat pengatur jaringan) tidak perlu dijalankan. Pada sistem operasi tradisional yang menggunakan ''monolithic kernel'', hal ini dapat mengakibatkan pengguna harus melakukan rekompilasi terhadap kernel, yang tentu saja sulit untuk dilakukan oleh pengguna biasa yang awam.
+
+Dalam teorinya, [[sistem operasi]] yang menggunakan ''microkernel'' disebut jauh lebih stabil dibandingkan dengan ''monolithic kernel'', karena sebuah ''server'' yang gagal bekerja, tidak akan menyebabkan ''kernel'' menjadi tidak dapat berjalan, dan ''server'' tersebut akan dihentikan oleh kernel utama. Akan tetapi, dalam praktiknya, bagian dari ''system state'' dapat hilang oleh server yang gagal bekerja tersebut, dan biasanya untuk melakukan proses eksekusi aplikasi pun menjadi sulit, atau bahkan untuk menjalankan server-server lainnya.
+
+Sistem operasi yang menggunakan ''microkernel'' umumnya secara dramatis memiliki kinerja di bawah kinerja sistem operasi yang menggunakan ''monolithic kernel''. Hal ini disebabkan oleh adanya ''overhead'' yang terjadi akibat proses input/output dalam ''kernel'' yang ditujukan untuk mengganti konteks (''[[context switch]]'') untuk memindahkan data antara aplikasi dan server.
+
+Beberapa sistem operasi yang menggunakan microkernel:
+* [[IBM AIX]], sebuah versi [[UNIX]] dari [[IBM]]
+* [[Amoeba]], sebuah kernel yang dikembangkan untuk tujuan edukasi
+* [[Kernel Mach]], yang digunakan di dalam sistem operasi [[GNU/Hurd]], [[NexTSTEP]], [[OPENSTEP]], dan [[Mac OS/X]] 
+* [[Minix]], kernel yang dikembangkan oleh [[Andrew Tanenbaum]] untuk tujuan edukasi
+* [[Symbian OS]], sebuah sistem operasi yang populer digunakan pada [[telepon seluler|hand phone]], [[handheld device]], [[embedded device]], dan [[Personal Digital Assistant|PDA]] Phone.
+
+=== Kernel hibrida ===
+[[Kernel hibrida]] aslinya adalah mikrokernel yang memiliki kode yang tidak menunjukkan bahwa kernel tersebut adalah mikrokernel di dalam ruangan ''kernel''-nya. Kode-kode tersebut ditaruh di dalam ruangan ''kernel'' agar dapat dieksekusi lebih cepat dibandingkan jika ditaruh di dalam ruangan ''user''. Hal ini dilakukan oleh para arsitek sistem operasi sebagai solusi awal terhadap masalah yang terjadi di dalam mikrokernel: kinerja.
+
+Beberapa orang banyak yang bingung dalam membedakan antara kernel hibrida dan kernel monolitik yang dapat memuat modul kernel setelah [[proses booting]], dan cenderung menyamakannya. Antara kernel hibrida dan kernel monolitik jelas berbeda. Kernel hibrida berarti bahwa konsep yang digunakannya diturunkan dari konsep desain kernel monolitik dan mikrokernel. Kernel hibrida juga memiliki secara spesifik memiliki teknologi pertukaran pesan (''message passing'') yang digunakan dalam mikrokernel, dan juga dapat memindahkan beberapa kode yang seharusnya bukan kode kernel ke dalam ruangan kode kernel karena alasan kinerja.
+
+Di bawah ini adalah beberapa sistem operasi yang menggunakan kernel hibrida:
+* [[BeOS]], sebuah sistem operasi yang memiliki kinerja tinggi untuk aplikasi multimedia.
+* [[Novell]] [[NetWare]], sebuah [[sistem operasi]] yang pernah populer sebagai [[Network operating system|sistem operasi jaringan]] berbasis [[IBM PC]] dan kompatibelnya.
+* [[Microsoft]] [[Windows NT]] (dan semua keturunannya).
+
+=== Exokernel ===
+Sebenarnya, Exokernel bukanlah pendekatan kernel sistem operasi yang umumseperti halnya microkernel atau monolithic kernel yang populer, melainkan sebuah struktur sistem operasi yang disusun secara vertikal.
+
+Ide di balik exokernel adalah untuk memaksa abstraksi yang dilakukan oleh developer sesedikit mungkin, sehingga membuat mereka dapat memiliki banyak keputusan tentang abstraksi hardware. Exokernel biasanya berbentuk sangat kecil, karena fungsionalitas yang dimilikinya hanya terbatas pada proteksi dan penggandaan sumber daya.
+
+Kernel-kernel klasik yang populer seperti halnya monolithic dan microkernel melakukan abstraksi terhadap hardware dengan menyembunyikan semua sumber daya yang berada di bawah hardware abstraction layer atau di balik driver untuk hardware. Sebagai contoh, jika sistem operasi klasik yang berbasis kedua kernel telah mengalokasikan sebuah lokasi memori untuk sebuah hardware tertentu, maka hardware lainnya tidak akan dapat menggunakan lokasi memori tersebut kembali.
+
+Exokernel mengizinkan akses terhadap hardware secara langsung pada tingkat yang rendah: aplikasi dan abstraksi dapat melakukan request sebuah alamat memori spesifik baik itu berupa lokasi alamat physical memory dan blok di dalam hard disk. Tugas kernel hanya memastikan bahwa sumber daya yang diminta itu sedang berada dalam keadaan kosongbelum digunakan oleh yang lainnyadan tentu saja mengizinkan aplikasi untuk mengakses sumber daya tersebut. Akses hardware pada tingkat rendah ini mengizinkan para programmer untuk mengimplementasikan sebuah abstraksi yang dikhususkan untuk sebuah aplikasi tertentu, dan tentu saja mengeluarkan sesuatu yang tidak perlu dari kernel agar membuat kernel lebih kecil, dan tentu saja meningkatkan performa.
+
+Exokernel biasanya menggunakan library yang disebut dengan libOS untuk melakukan abstraksi. libOS memungkinkan para pembuat aplikasi untuk menulis abstraksi yang berada pada level yang lebih tinggi, seperti halnya abstraksi yang dilakukan pada sistem operasi tradisional, dengan menggunakan cara-cara yang lebih fleksibel, karena aplikasi mungkin memiliki abstraksinya masing-masing. Secara teori, sebuah sistem operasi berbasis Exokernel dapat membuat sistem operasi yang berbeda seperti halnya [[Linux]], [[UNIX]], dan [[Windows]] dapat berjalan di atas sistem operasi tersebut.
+
+== Contoh implementasi kernel ==
+=== Windows ===
+Pada [[sistem operasi]] [[Windows]], ditangani oleh file kernel32.dll. Kernel ini menangani [[manajemen memori]], operasi masukan / keluaran dan ''interrupt''. Ketika boot Windows, '''kernel32.dll''' di-''load'' ke dalam spasi ''protected memory'' sehingga spasi memorinya tidak digunakan oleh aplikasi lain. Apabila ada aplikasi yang mencoba mengambil spasi memori '''kernel32.dll''', akan muncul pesan kesalahan "''invalid page fault''".
+
+{{Sistem operasi}}
+
+[[Kategori:Ilmu komputer]]

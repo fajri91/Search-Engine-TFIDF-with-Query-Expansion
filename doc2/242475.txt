@@ -1,0 +1,37 @@
+Siput murbai
+{{Taxobox
+| image = Pomacea canaliculata1.jpg
+| image_caption = ''Pomacea canaliculata''
+| image2 = Pomacea canaliculata shell 2.jpg
+| image2_caption = Cangkang ''Pomacea canaliculata''
+| regnum = [[Animalia]]
+| phylum = [[Mollusca]]
+| classis = [[Gastropoda]]
+| unranked_familia = clade [[Caenogastropoda]]<br />
+informal group [[Architaenioglossa]]
+| superfamilia = [[Ampullarioidea]]
+| familia = [[Ampullariidae]]
+| genus = ''[[Pomacea]]''
+| subgenus = ''Pomacea''
+| species = '''''Pomacea canaliculata'''''
+| species_authority = ([[Jean-Baptiste Lamarck|Lamarck]], 1819)
+| synonyms =
+}}
+'''Siput murbai''' atau dikenal pula dengan nama populer '''keong emas''' (''Pomacea canaliculata'' [[Lamarck]]) adalah [[moluska]] [[air tawar]] yang menjadi [[hewan akuarium]] dan [[hama]] penting pertanaman [[padi]] di [[Asia]].
+
+[[Berkas:Koloni telur keong emas.jpg|thumb|200px|Telur siput murbai terkumpul dalam koloni.]]
+
+[[Kategori:Moluska]]
+[[Kategori:Hama tanaman]]
+
+
+{{hewan-stub}}
+
+[[de:Apfelschnecken]]
+[[es:Ampullariidae]]
+[[fa: ]]
+[[fr:Ampullariidae]]
+[[hi: ]]
+[[it:Ampullariidae]]
+[[nl:Ampullariidae]]
+[[no:Eplesnegler]]

@@ -1,0 +1,85 @@
+Penggalian data
+'''Penggalian data''' (bahasa Inggris: ''data mining'') adalah ekstraksi [[pola]] yang menarik dari [[data]] dalam jumlah besar <ref>http://www.amazon.com/Data-Mining-Concepts-Techniques-Management/dp/1558609016/qid=1278582726</ref>. Suatu pola dikatakan menarik apabila pola tersebut tidak sepele, implisit, tidak diketahui sebelumnya, dan berguna. Pola yang disajikan haruslah mudah dipahami, berlaku untuk data yang akan diprediksi dengan derajat kepastian tertentu, berguna, dan baru. Penggalian data memiliki beberapa nama alternatif, meskipun definisi eksaknya berbeda, seperti KDD (knowledge discovery in database), analisis pola, arkeologi data, pemanenan informasi, dan intelegensia bisnis. Penggalian data diperlukan saat data yang tersedia terlalu banyak (misalnya data yang diperoleh dari [[sistem basis data]] perusahaan, [[e-commerce]], data [[saham]], dan data [[bioinformatika]]), tapi tidak tahu pola apa yang bisa didapatkan.
+
+== Proses Pencarian Pola ==
+
+Penggalian data adalah salah satu bagian dari proses pencarian pola. Berikut ini urutan proses pencarian pola:
+# [[Pembersihan Data]]: yaitu menghapus data pengganggu (noise) dan mengisi data yang hilang.
+# [[Integrasi Data]]: yaitu menggabungkan berbagai sumber data.
+# [[Pemilihan Data]]: yaitu memilih data yang relevan.
+# [[Transformasi Data]]: yaitu mentransformasi data ke dalam format untuk diproses dalam penggalian data.
+# Penggalian Data: yaitu menerapkan metode cerdas untuk ekstraksi pola.
+# [[Evaluasi pola]]: yaitu mengenali pola-pola yang menarik saja.
+# [[Penyajian pola]]: yaitu memvisualisasi pola ke pengguna.
+
+== Latar belakang ==
+
+Perkembangan yang pesat di bidang pengumpulan data dan teknologi penyimpanan di berbagai bidang, menghasilkan [[VLDB|basis data yang terlampau besar]]. Namun, data yang dikumpulkan jarang dilihat lagi, karena terlalu panjang, membosankan, dan tidak menarik. Seringkali, keputusan -yang katanya berdasarkan data- dibuat tidak lagi berdasarkan data, melainkan dari intuisi para pembuat keputusan. Sehingga, lahirlah cabang ilmu penggalian data ini.
+
+Analisis data tanpa menggunakan otomasi dari penggalian data adalah tidak memungkinkan lagi, kalau 1) data terlalu banyak, 2) [[dimensionalitas data]] terlalu besar, 3) data terlalu kompleks untuk dianalisis manual (misalnya: [[time series|data time series]], [[spatiotemporal|data spatiotemporal]], [[multimedia|data multimedia]], [[data streams]]).
+
+== Teknik Penggalian Data ==
+
+Pada dasarnya penggalian data dibedakan menjadi dua fungsionalitas, yaitu deskripsi dan prediksi. Berikut ini beberapa fungsionalitas penggalian data yang sering digunakan:
+* [[Karakterisasi dan Diskriminasi]]: yaitu menggeneralisasi, merangkum, dan mengkontraskan karakteristik data.
+* [[Penggalian pola berulang]]: yaitu pencarian pola asosiasi (association rule) atau pola intra-transaksi, atau pola pembelian yang terjadi dalam satu kali transaksi.
+* [[Klasifikasi]]: yaitu membangun suatu model yang bisa mengklasifikasikan suatu objek berdasar atribut-atributnya. Kelas target sudah tersedia dalam data sebelumnya, sehingga fokusnya adalah bagaimana mempelajari data yang ada agar klasifikator bisa mengklasifikasikan sendiri.
+* [[Prediksi]]: yaitu memprediksi nilai yang tidak diketahui atau nilai yang hilang, menggunakan model dari klasifikasi.
+* [[Penggugusan/Cluster analysis]]: yaitu mengelompokkan sekumpulan objek data berdasarkan kemiripannya. Kelas target tidak tersedia dalam data sebelumnya, sehingga fokusnya adalah memaksimalkan kemiripan intrakelas dan meminimalkan kemiripan antarkelas.
+* [[Analisis outlier]]: yaitu proses pengenalan data yang tidak sesuai dengan perilaku umum dari data lainnya. Contoh: mengenali noise dan pengecualian dalam data.
+* [[Analisis trend dan evolusi]]: meliputi analisis regresi, penggalian pola sekuensial, analisis periodisitas, dan analisis berbasis kemiripan.
+
+Berikut ini adalah 10 algoritma penggalian data yang paling populer berdasarkan konferensi ICDM '06, semua algoritma dinominasikan oleh para pemenang ACM KDD Innovation Award dan IEEE ICDM Research Contributions Award <ref>http://www.cs.uvm.edu/~icdm/algorithms/ICDM06-Panel.pdf</ref>:
+
+# [[C4.5]] (61 suara) <ref>Quinlan, J. R. C4.5: Programs for Machine Learning. Morgan Kaufmann., 1993.</ref>
+# [[k-Means]] (60 suara):<ref>MacQueen, J. B., Some methods for classification and analysis of multivariate observations, in Proc. 5th Berkeley Symp. Mathematical Statistics and Probability, 1967.</ref>
+# [[SVM]] (58 suara):<ref>Vapnik, V. N. 1995. The Nature of Statistical Learning Theory. Springer-Verlag.</ref>
+# [[Apriori]] (52 suara):<ref>Rakesh Agrawal and Ramakrishnan Srikant. Fast Algorithms for Mining Association Rules. In VLDB '94.</ref>
+# [[EM]] (48 suara):<ref>McLachlan, G. and Peel, D. (2000). Finite Mixture Models. J. Wiley, New York.</ref>
+# [[PageRank]] (46 suara):<ref>Brin, S. and Page, L. 1998. The anatomy of a large-scale hypertextual Web search engine. In WWW-7, 1998.</ref>
+# [[AdaBoost]] (45 suara):<ref>Freund, Y. and Schapire, R. E. 1997. A decision-theoretic generalization of on-line learning and an application to boosting. J. Comput. Syst. Sci. 55, 1 (Aug. 1997), 119-139.</ref>
+# [[kNN]] (45 suara):<ref>Hastie, T. and Tibshirani, R. 1996. Discriminant Adaptive Nearest Neighbor Classification. TPAMI. 18(6).</ref>
+# [[Naive Bayes]] (34 suara):<ref>Hand, D.J., Yu, K., 2001. Idiot's Bayes: Not So Stupid After All? Internat. Statist. Rev. 69, 385-398.</ref>
+
+Berikut ini adalah yang hanya masuk nominasi:
+* [[CART]]:<ref>L. Breiman, J. Friedman, R. Olshen, and C. Stone. Classification and Regression Trees. Wadsworth, 1984.</ref>
+* [[FP-Tree]]:<ref>Han, J., Pei, J., and Yin, Y. 2000. Mining frequent patterns without candidate generation. In SIGMOD '00.</ref>
+* [[HITS]]:<ref>Kleinberg, J. M. 1998. Authoritative sources in a hyperlinked environment. SODA, 1998.</ref>
+* [[BIRCH]]:<ref>Zhang, T., Ramakrishnan, R., and Livny, M. 1996. BIRCH: an efficient data clustering method for very large databases. In SIGMOD '96.</ref>
+* [[GSP]]:<ref>Srikant, R. and Agrawal, R. 1996. Mining Sequential Patterns: Generalizations and Performance Improvements. In Proceedings of the 5th International Conference on Extending Database Technology, 1996.</ref>
+* [[PrefixSpan]]:<ref>J. Pei, J. Han, B. Mortazavi-Asl, H. Pinto, Q. Chen, U. Dayal and M-C. Hsu. PrefixSpan: Mining Sequential Patterns Efficiently by Prefix-Projected Pattern Growth. In ICDE '01.</ref>
+* [[CBA]]:<ref>Liu, B., Hsu, W. and Ma, Y. M. Integrating classification and association rule mining. KDD-98.</ref>
+* [[Finding Reduct]]:<ref>Zdzislaw Pawlak, Rough Sets: Theoretical Aspects of Reasoning about Data, Kluwer Academic Publishers, Norwell, MA, 1992.</ref>
+* [[gSpan]]:<ref>Yan, X. and Han, J. 2002. gSpan: Graph-Based Substructure Pattern Mining. In ICDM '02.</ref>
+
+== Lihat pula ==
+* [[Penambangan teks]]
+* [[Analitika]]
+
+== Referensi ==
+
+{{Reflist}}
+
+== Referensi ==
+
+* Pang-Ning Tan, Michael Steinbach and Vipin Kumar, Introduction to Data Mining (2005), ISBN 0-321-32136-7 ([http://www-users.cs.umn.edu/~kumar/dmbook/index.php companion book site])
+* Kurt Thearling, [http://www.thearling.com/text/dmwhite/dmwhite.htm An Introduction to Data Mining] (also available is a [http://www.thearling.com/dmintro/dmintro.htm corresponding online tutorial])
+* Richard O. Duda, Peter E. Hart, David G. Stork, ''Pattern Classification'', Wiley Interscience, ISBN 0-471-05669-3, (see also [http://rii.ricoh.com/~stork/DHS.html Powerpoint slides])
+* Phiroz Bhagat, ''Pattern Recognition in Industry'', Elsevier, ISBN 0-08-044538-1
+* Ian Witten and Eibe Frank, ''Data Mining: Practical Machine Learning Tools and Techniques with Java Implementations'' (2000), ISBN 1-55860-552-5, (see also [[Weka (machine learning)|Free Weka software]])
+* Yike Guo and Robert Grossman, editors: High Performance Data Mining: Scaling Algorithms, Applications and Systems, Kluwer Academic Publishers, 1999.
+* Dean W. Abbott, I. Philip Matkovsky, and John Elder IV, Ph.D. [http://www.datamininglab.com/toolcomp.html An Evaluation of High-end Data Mining Tools for Fraud Detection] published a comparative analysis of major high-end data mining software tools that was presented at the 1998 IEEE International Conference on Systems, Man, and Cybernetics, San Diego, CA, October 12-14, 1998.
+* Mierswa, Ingo and Wurst, Michael and Klinkenberg, Ralf and Scholz, Martin and Euler, Timm: ''YALE: Rapid Prototyping for Complex Data Mining Tasks'', in Proceedings of the 12th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD-06), 2006.
+* Mark F. Hornick, Erik Marcade, Sunil Venkayala: "Java Data Mining: Strategy, Standard, And Practice: A Practical Guide for Architecture, Design, And Implementation" (Broch)
+
+== Pranala luar ==
+
+<!--* {{dmoz|Computers/Software/Databases/Data_Mining/|Data Mining}}-->
+* {{en}} [http://dms.stat.ucf.edu Data Mining Program, University of Central Florida]
+* {{en}} [http://www.autonlab.org/tutorials Andrew Moore of Carnegie Mellons tutorials]
+* {{en}} [http://www.cybertesis.cl/tesis/uchile/2006/deluca_m/html/index-frames.html A Master thesis dealing with the use of datamining in banking]
+
+[[Kategori:Manajemen data]]
+
+
+{{komputer-stub}}

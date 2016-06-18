@@ -1,0 +1,65 @@
+Provinsi Yambol
+{{coord|42|25|N|26|31|E|region:BG|display=title}}
+{{Infobox Bulgarian province
+| native_name      =  
+| image_map        = Yambol Province location map.svg
+| capital          = [[Yambol]]
+| population_total = 131 447
+| population_footnotes = <ref name="divisions"/>
+| population_as_of = February 2011
+| population_est   =
+| pop_est_as_of    =
+| area_footnotes   = <ref name="phare"/>
+| area_total_km2   = 3,355.5
+| municipalities   = 5
+| license_plate    = Y
+| governor         = Valentin Ivanov 
+| website          = [http://www.yambol.government.bg/ yambol.government.bg]
+}}
+
+'''Provinsi Yambol''' ({{lang-bg| }}, ''oblast Yambol'', former name [[Okrug|Yambol okrug]]) merupakan sebuah provinsi di [[Bulgaria]] yang memiliki luas wilayah 4.162 km&sup2; dan populasi 141.157 jiwa ([[2005]]). Ibu kotanya ialah [[Yambol]].
+
+{| class="wikitable sortable"
+! Municipality
+! Cyrillic
+! Pop.<ref name="divisions"/><ref name="population"/><ref name="pop-stat-divisions"/>
+! Town/Village
+! Pop.<ref name="population"/><ref name="statistika">{{en icon}} [http://www.nsi.bg/otrasalen.php?otr=53&a1=1583&a2=1584&a3=1588#cont Bulgarian National Statistical Institute - Bulgarian towns in 2009]</ref><ref name="pop-stat">[http://pop-stat.mashke.org/bulgaria-cities.htm pop-stat.mashke.org]</ref>
+|-
+| [[Bolyarovo Municipality|Bolyarovo]]
+| [[:bg: |]]
+| align="right" | 4,415
+| '''[[Bolyarovo]]'''
+| align="right" | 1,303
+|-
+| [[Elhovo Municipality|Elhovo]]
+| [[:bg: |]]
+| align="right" | 16,757
+| '''[[Elhovo]]'''
+| align="right" | 10,553
+|-
+| [[Straldzha Municipality|Straldzha]]
+| [[:bg: |]]
+| align="right" | 13,655
+| '''[[Straldzha]]'''
+| align="right" | 6,021
+|-
+| [[Tundzha Municipality|Tundzha]] (rural)
+| [[:bg: |]]
+| align="right" | 26,428
+| '''[[Yambol]]'''
+| align="right" | see below
+|-
+| [[Yambol Municipality|Yambol]] (city)
+| [[:bg: |]]
+| align="right" | 77,174
+| '''[[Yambol]]'''
+| align="right" | 77,174
+|}
+
+==Referensi==
+<references />
+
+{{eropa-stub}}
+
+[[Kategori:Provinsi di Bulgaria]]

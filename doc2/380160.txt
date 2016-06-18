@@ -1,0 +1,5 @@
+Templat:Pengguna Penggemar Agnes Monica
+{{userbox|#DAA520|pink|[[Berkas:Agnes at AMI 2004 2.jpg|50px|link=Agnes Monica]]|<center>Pengguna ini penggemar {{br}} '''[[Agnes Monica]]'''}}{{#if:{{{kat|}}}||<includeonly>[[Kategori:Pengguna penggemar Agnes Monica|{{PAGENAME}}]]</includeonly>}}<noinclude>{{clr}}
+* Templat ini menambahkan kategori: {{kat|Penggemar Agnes Monica}}
+[[Kategori:Templat userbox minat|Penggemar Agnes Monica]]
+</noinclude>

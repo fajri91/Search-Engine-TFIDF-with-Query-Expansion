@@ -1,0 +1,3 @@
+Templat:Fb round2 2013-14 UEL QR3
+[[Liga Eropa UEFA 201314#Babak ketiga kualifikasi|{{#if:{{{dc|}}}|{{nowrap|Babak ketiga kualifikasi}}}} {{nowrap|Liga Eropa UEFA 201314}}]]<noinclude>[[Category:Templat Fb round]]
+</noinclude>

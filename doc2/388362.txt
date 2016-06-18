@@ -1,0 +1,23 @@
+Wikipedia:Pengambilalihan nama pengguna/Permohonan/editintro
+{| class="wikitable"
+|-
+! style="font-size:2em;width:50%" | Perhatian!
+! style="font-size:2em;width:50%" | Attention!
+|-
+| style="font-size:1.2em" |
+Ikuti langkah-langkah berikut agar Anda melakukan permohonan penggantian nama '''dengan benar''':
+<!--# Ganti <code><nama sekarang></code> dengan nama pengguna Anda sekarang-->
+# Tuliskan '''nama baru''' Anda pada baris kosong yang sudah disediakan.
+# Pastikan nama baru anda [[Wikipedia:Nama_pengguna#Nama_pengguna_yang_dilarang|'''bukan merupakan nama yang dilarang''']].
+# Tuliskan '''alasan''' Anda pada baris kosong yang sudah disediakan.
+# Klik '''Simpan halaman'''.
+# Selesai .
+| style="font-size:1.2em" |
+Please follow the following steps to make a '''correct''' request:
+<!--# Replace <code><current name></code> with your current username-->
+# Write your new username on the blank line which has been provided.
+# Make sure that your new username is not inappropriate.
+# Write your reason on the blank line which has been provided.
+# Click '''''Simpan halaman''''' (Save page).
+# Done.
+|}

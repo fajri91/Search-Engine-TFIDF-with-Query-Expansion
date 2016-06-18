@@ -1,0 +1,114 @@
+Templat:KA Bogowonto
+<small>(Keterangan: '''Ls.''': berjalan langsung, kereta tidak berhenti di stasiun yang terdapat tanda ini) <br>
+(KA Bogowonto dari Jakarta tidak berhenti di Stasiun Jatinegara)</small>
+{|cellspacing="0" cellpadding="0" style="background-color:transparent; empty-cells:show; font-size:94%;" align="center"
+{{BS-table}}
+{|cellpadding="0" cellspacing="0" style="background-color:transparent;" align="center"
+{{BS3||CONTg||||<small>Ke [[Stasiun Blitar|Blitar]], [[Stasiun Banyuwangi Baru|Banyuwangi]]</small>}}
+{{BS3||BHF||||<big>'''[[Stasiun Lempuyangan]]'''</big>}}
+{{BS3||HST||||<big>'''[[Stasiun Yogyakarta]]'''</big>}}
+{{BS3||HST||||Ls. [[Stasiun Patukan]]}}
+{{BS3||HST||||Ls. [[Stasiun Rewulu]]}}
+{{BS3||HST||||Ls. [[Stasiun Sentolo]]}}
+{{BS3||HST||||<big>'''[[Stasiun Wates]]'''</big>}}
+{{BS3||eHST||||Ls. [[Stasiun Kedundang]]}}
+{{BS3||HST||||Ls. [[Stasiun Wojo]]}}
+{{BS3||HST||||Ls. [[Stasiun Jenar]]}}
+{{BS3||eHST||||Ls. [[Stasiun Montelan]]}}
+{{BS3||KMW||||Batas [[Daerah Operasi VI Yogyakarta|Daop VI YK]] - [[Daerah Operasi V Purwokerto|Daop V PWT]]}}
+{{BS3|CONTr|KRWg+r|||<small>Ke [[Stasiun Purworejo|Purworejo]]</small>}}
+{{BS3||BHF||||<big>'''[[Stasiun Kutoarjo]]'''</big>}}
+{{BS3||HST||||Ls. [[Stasiun Butuh]]}}
+{{BS3||HST||||Ls. [[Stasiun Prembun]]}}
+{{BS3||HST||||Ls. [[Stasiun Kutowinangun]]}}
+{{BS3||HST||||Ls. [[Stasiun Wonosari]]}}
+{{BS3||BHF||||<big>'''[[Stasiun Kebumen]]'''</big>}}
+{{BS3||HST||||Ls. [[Stasiun Soka]]}}
+{{BS3||HST||||Ls. [[Stasiun Sruweng]]}}
+{{BS3||BHF||||Ls. [[Stasiun Karanganyar]]}}
+{{BS3||BHF||||<big>'''[[Stasiun Gombong]]'''</big>}}
+{{BS3||TUNNEL1||||<small>Terowongan Ijo</small>}}
+{{BS3||HST||||Ls. [[Stasiun Ijo]]}}
+{{BS3||HST||||Ls. [[Stasiun Tambak]]}}
+{{BS3||HST||||Ls. [[Stasiun Sumpiuh]]}}
+{{BS3||HST||||Ls. [[Stasiun Kemranjen]]}}
+{{BS3||BHF||||<big>'''[[Stasiun Kroya]]'''</big>}}
+{{BS3||ABZlf|CONTl|||<small>Ke [[Stasiun Cilacap|Cilacap]], [[Stasiun Bandung|Bandung]]</small>}}
+{{BS3||HST||||Ls. [[Stasiun Randegan]]}}
+{{BS3||HST||||Ls. [[Stasiun Kebasen]]}}
+{{BS3||TUNNEL1||||<small>Terowongan Kebasen</small>}}
+{{BS3|WASSERq|WBRCKE|WASSERq|||<small>Jembatan [[Kali Serayu]]</small>}}
+{{BS3||TUNNEL1||||<small>Terowongan Notog</small>}}
+{{BS3||HST||||Ls. [[Stasiun Notog]]}}
+{{BS3||BHF||||<big>'''[[Stasiun Purwokerto]]'''</big>}}
+{{BS3||HST||||Ls. [[Stasiun Karanggandul]]}}
+{{BS3||HST||||Ls. [[Stasiun Karangsari (Jawa Tengah)|Stasiun Karangsari]]}}
+{{BS3||HST||||Ls. [[Stasiun Legok]]}}
+{{BS3||HST||||Ls. [[Stasiun Patuguran]]}}
+{{BS3||HST||||Ls. [[Stasiun Kretek]]}}
+{{BS3|WASSERq|WBRCKE|WASSERq|||<small>Jembatan Sakalimolas</small>}}
+{{BS3||HST||||Ls. [[Stasiun Bumiayu]]}}
+{{BS3||HST||||Ls. [[Stasiun Linggapura]]}}
+{{BS3||HST||||Ls. [[Stasiun Prupuk]]}}
+{{BS3|CONTr|ABZrf|||<small>Ke [[Stasiun Tegal|Tegal]]</small>}}
+{{BS3||KMW||||Batas [[Daerah Operasi V Purwokerto|Daop V PWT]] -  [[Daerah Operasi III Cirebon|Daop III CN]]}}
+{{BS3||HST||||Ls. [[Stasiun Songgom]]}}
+{{BS3||HST||||Ls. [[Stasiun Larangan (Brebes)|Stasiun Larangan]]}}
+{{BS3||HST||||Ls. [[Stasiun Ketanggungan]]}}
+{{BS3||HST||||Ls. [[Stasiun Ketanggungan Barat]]}}
+{{BS3||HST||||Ls. [[Stasiun Ciledug]]}}
+{{BS3||HST||||Ls. [[Stasiun Karangsuwung]]}}
+{{BS3||HST||||Ls. [[Stasiun Sindanglaut]]}}
+{{BS3||HST||||Ls. [[Stasiun Luwung]]}}
+{{BS3|CONTr|KRWg+r||||<small>Ke [[Stasiun Semarang Tawang|Semarang]]</small>}}
+{{BS3||BHF||||<big>'''[[Stasiun Cirebon Prujakan]]'''</big>}}
+{{BS3||HST||||Ls. [[Stasiun Cangkring]]}}
+{{BS3||HST||||Ls. [[Stasiun Bangoduwa]]}}
+{{BS3||HST||||Ls. [[Stasiun Arjawinangun]]}}
+{{BS3||eHST||||Ls. [[Stasiun Kaliwedi]]}}
+{{BS3||HST||||Ls. [[Stasiun Kertasemaya]]}}
+{{BS3||BHF||||Ls. [[Stasiun Jatibarang]]}}
+{{BS3||HST||||Ls. [[Stasiun Telagasari]]}}
+{{BS3||HST||||Ls. [[Stasiun Terisi]]}}
+{{BS3||HST||||Ls. [[Stasiun Kadokangabus]]}}
+{{BS3||eHST||||Ls. Halte Cipedang}}
+{{BS3||HST||||Ls. [[Stasiun Cilegeh]]}}
+{{BS3||BHF||||Ls. [[Stasiun Haurgeulis]]}}
+{{BS3||HST||||Ls. [[Stasiun Cipunegara]]}}
+{{BS3||HST||||Ls. [[Stasiun Pegadenbaru]]}}
+{{BS3||HST||||Ls. [[Stasiun Cikaum]]}}
+{{BS3||HST||||Ls. [[Stasiun Pasirbungur]]}}
+{{BS3||HST||||Ls. [[Stasiun Pringkasap]]}}
+{{BS3||HST||||Ls. [[Stasiun Pabuaran]]}}
+{{BS3||HST||||Ls. [[Stasiun Tanjungrasa]]}}
+{{BS3||KMW||||Batas [[Daerah Operasi III Cirebon|Daop III CN]] - [[Daerah Operasi I Jakarta|Daop I JAK]]}}
+{{BS3||KRWg+l|CONTl|||<small>Ke [[Stasiun Bandung|Bandung]]</small>}}
+{{BS3||BHF||||Ls. [[Stasiun Cikampek]]}}
+{{BS3||HST||||Ls. [[Stasiun Dawuan]]}}
+{{BS3||HST||||Ls. [[Stasiun Kosambi]]}}
+{{BS3||HST||||Ls. [[Stasiun Klari]]}}
+{{BS3||BHF||||Ls. [[Stasiun Karawang]]}}
+{{BS3||HST||||Ls. [[Stasiun Kedunggedeh]]}}
+{{BS3||HST||||Ls. [[Stasiun Lemahabang]]}}
+{{BS3||HST||||Ls. [[Stasiun Cikarang]]}}
+{{BS3||HST||||Ls. [[Stasiun Cibitung]]}}
+{{BS3||HST||||Ls. [[Stasiun Tambun]]}}
+{{BS3||BHF||||Ls. <big>[[Stasiun Bekasi]]</big>}}
+{{BS3||HST||||Ls. [[Stasiun Kranji]]}}
+{{BS3||eHST||||Ls. [[Stasiun Rawabebek]]}}
+{{BS3||HST||||Ls. [[Stasiun Cakung]]}}
+{{BS3||HST||||Ls. [[Stasiun Klender Baru]]}}
+{{BS3||HST||||Ls. [[Stasiun Buaran]]}}
+{{BS3||HST||||Ls. [[Stasiun Klender]]}}
+{{BS3||HST||||Ls. [[Stasiun Cipinang]]}}
+{{BS3||BHF||||<big>'''[[Stasiun Jatinegara]]'''</big>}}
+{{BS3||ABZlf|CONTl|||<small>Ke [[Stasiun Gambir|Gambir]], [[Stasiun Tanah Abang|Tanah Abang]]</small>}}
+{{BS3||HST||||Ls. [[Stasiun Kramat]]}}
+{{BS3||HST||||Ls. [[Stasiun Gang Sentiong]]}}
+{{BS3||BHF||||<big>'''[[Stasiun Pasar Senen]]'''</big>}}
+{{BS3||hCONTf|||<small>Ke [[Stasiun Jakarta Kota|Jakarta Kota]]</small>}}
+|}
+|}
+|}
+<noinclude>
+[[Kategori:Templat transportasi rel]]</noinclude>

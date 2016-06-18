@@ -1,0 +1,5 @@
+Templat:Unsupport
+[[Berkas:Symbol unsupport vote.svg|18px|link=|Cabut]] '''{{{1|Saya mencabut dukungan saya}}}'''<noinclude>
+
+Parameter {{{1}}} opsional
+[[Kategori:Templat pemungutan suara|{{PAGENAME}}]]</noinclude>

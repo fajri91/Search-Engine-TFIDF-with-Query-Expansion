@@ -1,0 +1,45 @@
+Templat:UTF-16/doc
+{{Documentation subpage}}
+== Penggunaan ==
+<code><nowiki>{{UTF-16|code point|base=|surrogatesonly=}}</nowiki></code>
+
+Takes a single Unicode code point and returns the UTF-16 double byte encoding.
+
+'''Code Point''' - a Unicode code point scalar value, without the "U+". This template will not properly flag all code points outside of the UTF-32 code space, ie any input longer than 8 digits.
+
+'''Base''' - template returns UTF-16 double bytes in upper case hexadecimal by default. '''Base''' = ''Dec'', ''Decimal'', or ''10'' outputs decimal values for UTF-16 bytes. '''Base''' = ''LChex'', ''LC16'', ''Lower Case Hex'', or ''Lower Case 16'' will output hex codes in lower case.
+
+'''Surrogatesonly''' - when ''yes'', template will only return values for code points in the surrogate planes, ie those code points where the UTF-16 encoding is different than the scalar value ( > U+FFFF ).
+
+All inputs are case insensitive.
+
+== Contoh ==
+* <nowiki>{{UTF-16|110c15}}</nowiki> = {{UTF-16|110c15}}
+* <nowiki>{{UTF-16|1bc15}}</nowiki> = {{UTF-16|1bc15}}
+* <nowiki>{{UTF-16|dc15}}</nowiki> = {{UTF-16|dc15}}
+* <nowiki>{{UTF-16|7a5}}</nowiki> = {{UTF-16|7a5}}
+* <nowiki>{{UTF-16|7a5|base=LChex}}</nowiki> = {{UTF-16|7a5|base=LChex}}
+* <nowiki>{{UTF-16|7a5|base=dec}}</nowiki> = {{UTF-16|7a5|base=dec}}
+* <nowiki>{{UTF-16|7a5|surrogatesonly=yes}}</nowiki> = {{UTF-16|7a5|surrogatesonly=yes}}
+
+Note that U+110C15 is too large to be a legal Unicode code point, while U+DC15 is a surrogate code point, which is not legal in isolation, and does not have a UTF-16 value.
+
+== Teknis ==
+This template makes use of the following sub-templates:
+
+* {{tlx|UTF-16/main}} - Returns the scalar value as 4 digit hex if less than U+10000, and valid Unicode code points as [[Unicode characters#Surrogates|surrogates]] for larger values.
+
+This template is dependent on the following transcluded templates:
+
+* {{tlx|hex2dec}}
+* {{tlx|hexadecimal}}
+* {{tlx|Str rightc}}
+
+and the magic words / parser functions '''padleft:''', '''#ifexpr:''', '''#expr:''', '''#switch:''', '''uc:''', and '''lc:'''.
+
+== Lihat pula ==
+{{unicode templates}}
+
+<includeonly>
+[[Category:Unicode templates]]
+</includeonly>

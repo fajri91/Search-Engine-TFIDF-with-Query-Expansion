@@ -1,0 +1,43 @@
+Templat:Morning Musume
+{{Navbox
+| titlestyle = background:  #6699CC
+| listclass = hlist
+| title =[[Morning Musume|<font color="white">Morning Musume</font>]]
+| name = Morning Musume
+
+| abovestyle = background:lightgrey
+| above = '''Anggota'''
+
+| group1 = Aktif
+| list1 =  '''[[Mizuki Fukumura]](pemimpin)'''{{}} '''[[Erina Ikuta]]'''{{}} '''[[Kanon Suzuki]]'''{{}} '''[[Haruna Iikubo]]'''{{}} '''[[Ayumi Ishida]]'''{{}} '''[[Masaki Sat]]'''{{}} '''[[Haruka Kud]]'''{{}} '''[[Sakura Oda]]'''{{}} '''[[Haruna Ogata]]'''{{}} '''[[Miki Nonaka]]'''{{}} '''[[Maria Makino]]'''{{}} '''[[Akane Haga]]'''
+
+| group2 = Mantan
+| list2 = Angkatan 1: [[Yuko Nakazawa]]{{}} [[Aya Ishiguro]]{{}} [[Kaori Iida]]{{}} [[Natsumi Abe]]{{}} [[Asuka Fukuda]]{{}}Angkatan 2: [[Kei Yasuda]]{{}} [[Mari Yaguchi]]{{}} [[Sayaka Ichii]]{{}}Angkatan 3: [[Maki Goto]]{{}}Angkatan 4: {{}} [[Rika Ishikawa]]{{}} [[Hitomi Yoshizawa]]{{}} [[Nozomi Tsuji]]{{}} [[Ai Kago]]{{}}Angkatan 5: [[Ai Takahashi]]{{}} [[Asami Konno]]{{}} [[Makoto Ogawa]]{{}} [[Risa Niigaki]]{{}}Angkatan 6: [[Miki Fujimoto]]{{}} [[Eri Kamei]]{{}} [[Sayumi Michishige]]{{}} [[Reina Tanaka]]{{}}Angkatan 7: [[Koharu Kusumi]]{{}}Angkatan 8: [[Aika Mitsui]]{{}}Luar negeri: [[Li Chun]]{{}} [[Qian Lin]]{{}}Angkatan 9: [[Riho Sayashi]]{{}}
+
+| list3style= background:lightgrey
+| list3 = '''Diskografi'''
+
+| group4 = Album studio
+| list4= ''[[First Time (album Morning Musume)|First Time]]''{{}} ''[[Second Morning]]''{{}} ''[[3rd -Love Paradise-]]''{{}} ''[[4th Ikimasshoi!]]''{{}} ''[[No.5]]''{{}} ''[[Ai no Dai 6 Kan]]''{{}} ''[[Rainbow 7]]''{{}} ''[[Sexy 8 Beat]]''{{}} ''[[Platinum 9 Disc]]''{{}} ''[[10 My Me]]''{{}} ''[[Fantasy! Jichi]]''{{}} ''[[12, Smart]]''{{}} ''[[13 Colorful Character]]''{{}} ''[[14 Sh: The Message]]''
+
+| group5 = Album kompilasi
+| list5 = ''[[Best! Morning Musume 1]]''{{}} ''[[Best! Morning Musume 2]]''{{}}  ''[[Early Single Box]]''{{}} ''[[Morning Musume All Singles Complete: 10th Anniversary]]''{{}} ''[[Morning Musume Zen Singles Coupling Collection]]''{{}} ''[[The Best! ~Updated Morning Musume~]]''{{}} ''[[Morning Musume '14 Coupling Collection 2]]
+
+| group6 = Album lain
+| list6 = ''[[7.5 Fuyu Fuyu Morning Musume Mini!]]''{{}} ''[[Cover You]]''
+
+| group7 = DVD
+| list7 = ''[[Eiz The Morning Musume Best 10|Eiz The Morning Musume]] | [[Eiz The Morning Musume 2 ~Single V Clips~|Eiz The Morning Musume 2]] | [[Eiz The Morning Musume The Morning Musume3 ~Single M Clips~|Eiz The Morning Musume 3]] | [[Eiz The Morning Musume 4 ~Single M Clips~|Eiz The Morning Musume 4]]
+
+| list8style = background:lightgrey
+| list8 = '''Acara televisi'''
+
+| list9 = [[Futarigoto]]{{}} [[Haromoni@]]{{}} [[Hello! Morning]]{{}} [[Hello Pro Hour]]{{}} [[Majokko Rikachan no Magical Biyuuden|Magical Biyuuden]]{{}} [[Musume Document 2005]]{{}} [[Musume Dokyu!]]{{}} [[Uta Doki! Pop Classics]]
+
+| list10style= background:lightgrey
+| list10 = '''Subgrup'''
+
+| list11 = [[Mini Moni]]{{}} [[Otomegumi]]{{}} [[Petitmoni]]{{}} [[Sakuragumi]]{{}} [[Tanj 10 Nen Kinentai]]{{}} [[Tanpopo]] 
+}}<noinclude>
+[[Kategori:Templat navigasi musik|Morning Musume]]
+</noinclude>

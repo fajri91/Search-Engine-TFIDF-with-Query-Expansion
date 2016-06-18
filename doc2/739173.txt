@@ -1,0 +1,54 @@
+Barnaby Jack
+{{Infobox person
+|name        = Barnaby Jack
+|image       = <!-- just the filename, without the File: or Image: prefix or enclosing [[brackets]] -->
+|alt         =
+|caption     =
+|birth_name  = Barnaby Michael Douglas Jack
+|birth_date  = {{Birth date|1977|11|22|df=y}}
+|birth_place = [[Auckland, Selandia Baru]]
+|death_date  = {{Death date and age|2013|7|25|1977|11|22|df=y}}
+|death_place = [[San Francisco, California]], A.S.
+|nationality = [[Selandia Baru]]
+|other_names =
+|occupation  = hacker, pakar keamanan komputer dan programmer
+|known_for   =
+}}
+'''Barnaby Michael Douglas Jack''' (22 November 1977  25 Juli 2013) adalah seorang [[hacker]], [[programmer]] dan pakar [[keamanan komputer]] [[Selandia Baru]].<ref>{{cite news
+|url=http://www.telegraph.co.uk/news/obituaries/technology-obituaries/10207629/Barnaby-Jack.html
+|title=Barnaby Jack
+|publisher=[[The Daily Telegraph]]
+|date=2013-07-28
+|accessdate=2013-07-29}}</ref>
+
+Barnaby Jack merupakan hacker yang diakui sebagai hacker nomor 1 di dunia. Prestasinya di bidang komputer yang dapat membobol hampir semua sistem yang ada membuat namanya semakin terkenal. Sebelum meninggal, Jack Barnaby merupakan seorang hacker yang berubah profesi menjadi pakar keamanan komputer.
+
+Jack yang saat ini dikenal sebagai White Hat hacker memang tergolong sebagai hacker yang baik. Barnaby banyak memberikan ilmunya kepada orang banyak untuk dipelajari. Keahlian Jack dalam bidang komputer memang sudah tidak diragukan lagi. Jack sudah menggeluti profesi di bidang hacker dan sukses menjadi hacker nomor 1 di dunia pada tahun [[2010]] tepat pada konferensi Computer Security Black Hat.
+
+Nama Jack mulai melambung dan dijuluki sebagai hacker nomor satu di planet ini ketika pada 2010 di konferensi Black Hat, dia menunjukkan teknik yang bisa memaksa mesin anjungan tunai mandiri (ATM) memuntahkan uang secara otomatis. Cara itu kemudian dikenal dengan nama "Jackpotting".
+
+Sebelum meninggal, diketahui bahwa Jack rencananya akan menunjukkan bagaimana cara meretas alat kesehatan yang ditanamkan di jantung dalam konvensi Black Hat. Black Hat merupakan pertemuan akbar seluruh peretas dunia yang diselenggarakan di San Francisco. Dengan teknik itu, menurut Jack, dia bisa membunuh orang dari jarak 9,1 meter tanpa menyentuh orang tersebut atau menggunakan senjata.
+
+Jack ditemukan meninggal di apartemennya di San Fransisco pada tanggal 25 Juli 2013 oleh anggota keluarganya. Jack meninggal pada usianya yang menginjak 35 tahun. Tidak ada penjelasan lebih lanjut tentang kematiannya. Pihak kepolisian dan forensik belum bisa memastikan penyebab kematian Jack.
+
+==Sumber==
+
+* http://www.beritasatu.com/iptek/128384-hacker-nomor-1-dunia-barnaby-jack-ditemukan-meninggal.html
+* http://www.indogamers.com/read/29/07/2013/7895/hacker_nomor_1_dunia__jack_barnaby_meninggal_dunia/
+
+== Referensi ==
+
+{{Reflist|33em}}
+
+{{Persondata
+|NAME              = Jack, Barnaby
+|ALTERNATIVE NAMES = Jack, Barnaby Michael Douglas
+|SHORT DESCRIPTION = Hacker Selandia Baru
+|DATE OF BIRTH     = 22 November 1977
+|PLACE OF BIRTH    = [[Auckland]], [[Selandia Baru]]
+|DATE OF DEATH     = 25 Juli 2013
+|PLACE OF DEATH    = [[San Francisco]], [[California]], AS
+}}
+{{DEFAULTSORT:Jack, Barnaby}}
+[[Category:Kematian 2013]]
+[[Category:Kelahiran 1977]]

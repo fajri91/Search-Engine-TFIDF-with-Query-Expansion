@@ -1,0 +1,16 @@
+Templat:Perangkat lunak analisis numerik
+{{Navbox
+|name  = Perangkat lunak analisis numerik
+| listclass = hlist
+| title = [[Daftar perangkat lunak analisis numerik|Perangkat lunak numerik]]
+
+|group1 = [[Perangkat lunak sumber terbuka|sumber terbuka]]
+|list1  = {{nowraplinks}}[[ADMB]]{{}} [[FreeMat]]{{}} [[GNU Octave]]{{}} [[gretl]]{{}} [[R (programming language)|R]]{{}} [[Scilab]]{{nowraplinks end}}
+
+|group2 = [[Retail software|Retail]]
+|list2  = {{nowraplinks}}[[GAUSS (software)|GAUSS]]{{}} [[LabVIEW]]{{}} [[MATLAB]]{{}} [[Mathematica]]{{nowraplinks end}}
+
+| below = '''[[Daftar perangkat lunak analisis numerik]]'''{{}} '''[[Perbandingan perangkat lunak analisis numerik]]'''
+
+}}<includeonly>[[Kategori:Perangkat_lunak_analisis_data]]</includeonly><noinclude>
+{{documentation}}</noinclude>

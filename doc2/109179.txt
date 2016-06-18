@@ -1,0 +1,134 @@
+GNK Dinamo Zagreb
+{{Football club infobox |
+  clubname = GNK Dinamo |
+  fullname = Graanski Nogometni Klub Dinamo Zagreb |
+  image    = [[Berkas:561px-NKdinamozagreb.png|center|200px]]
+  nickname = ''Modri'' (Biru) |
+| founded  = {{Start date and years ago|df=yes|1945|6|9}}
+| ground   = [[Stadion Maksimir]]
+| capacity = 35,825<ref>http://www.uefa.com/MultimediaFiles/Download/StatDoc/competitions/UCL/01/67/63/79/1676379_DOWNLOAD.pdf</ref>
+| chairman = Mirko Barii
+| manager  = [[Krunoslav Juri]]
+| league   = [[Prva HNL]]
+| season   = [[201213 Prva HNL|201213]]
+| position = 1st
+| website  = http://www.gnkdinamo.hr
+|pattern_la1=_dzagreb1112h
+|pattern_b1=_dzagreb1112h
+|pattern_ra1=_dzagreb1112h
+|pattern_sh1=_dzagreb1112h
+|leftarm1=0004fc
+|body1=1C39BB
+|rightarm1=0004fc
+|shorts1=1C39BB
+|socks1=0004fc
+|pattern_so1=_cheltenham1213a
+|pattern_la2=_cheltenham1213a
+|pattern_b2=_cheltenham1213a
+|pattern_ra2=_navyborder
+|pattern_sh2=_nkdzg1112a
+|leftarm2=d9bd64
+|body2=d9bd64
+|rightarm2=d9bd64
+|shorts2=d9bd64
+|socks2=d9bd64
+|pattern_so2=_nkdzg1112a
+|pattern_la3=_whiteborder
+|pattern_b3=_nkdzg1112t
+|pattern_ra3=_whiteborder
+|pattern_sh3=_nkdzg1112t
+|leftarm3=393b50
+|body3=393b50
+|rightarm3 =393b50
+|shorts3=393b50
+|socks3=393b50
+|pattern_so3=_nkdzg1112t
+|}}
+
+'''GNK Dinamo Zagreb''' atau biasa dikenal dengan nama '''Dinamo Zagreb''' adalah klub [[sepak bola]] [[Kroasia]] yang berbasis di kota [[Zagreb]] yang didirikan pada tahun [[1945]]. Klub ini adalah klub sepak bola yang ternama di Kroasia. Sebelum perpecahan Kroasia dari negara [[Yugoslavia]], Dinamo Zagreb juga cukup disegani di dalam persepak bolaan Liga Yugoslavia dengan empat kali menjadi juara Liga Yugoslavia dan tujuh kali menjadi juara Piala Yugoslavia.
+
+== Rangking UEFA ==
+''(Sejak 20 Desember 2012), Sumber: [http://kassiesa.home.xs4all.nl/bert/uefa/data/method4/trank2013.html Bert Kassies website]''
+
+{| class="wikitable" style="text-align: center;"
+|-
+! Rangking !! Tim !! Poin
+|-
+|73||align=left|{{flagicon|ENG}} [[Aston Villa F.C.|Aston Villa]]||26.535
+|-
+|74||align=left|{{flagicon|FRA}} [[AS Saint-tienne|Saint-tienne]]||26.466
+|-bgcolor="#ddffdd"
+|'''75'''||align=left|{{flagicon|CRO}} '''Dinamo Zagreb'''||26.000
+|-
+|76||align=left|{{flagicon|BEL}} [[K.R.C. Genk|Racing Genk]]||25.840
+|-
+|77||align=left|{{flagicon|ITA}} [[U.C. Sampdoria|Sampdoria]]||25.096
+|}
+
+== Penyedia Seragam Tim ==
+{| class="wikitable" style="text-align: center"
+|-
+!Periode
+!Penyedia seragam tim
+|-
+|19931994
+|[[Umbro]]
+|-
+|19941998
+|[[Lotto Sport Italia|Lotto]]
+|-
+|19982000
+|[[YUDHA]]
+|-
+|20002001
+|[[Adidas]]
+|-
+|20012007
+|[[Umbro]]
+|-
+|20072011
+|[[Diadora]]
+|-
+|2011
+|[[Puma AG|Puma]]
+|}
+
+== Skuat terkini ==
+{{Fs start}}
+{{Fs player|no=2|nat=ALG|name=[[El Arbi Hillel Soudani]]|pos=FW}} 
+{{Fs player|no=3|nat=ARG|name=[[Luis Ibez]]|pos=DF}}
+{{Fs player|no=4|nat=CRO|name=[[Josip imuni]]|pos=DF|other=[[Captain (association football)|captain]]}}
+{{Fs player|no=5|nat=CRO|name=[[Jozo imunovi]]|pos=DF}}
+{{Fs player|no=6|nat=CRO|name=[[Tin Jedvaj]]|pos=DF}}
+{{Fs player|no=7|nat=CRO|name=[[Arijan Ademi]]|pos=MF}}
+{{Fs player|no=8|nat=CRO|name=[[Domagoj Antoli]]|pos=MF}}
+{{Fs player|no=9|nat=CRO|name=[[Andrej Kramari]]|pos=FW}}
+{{Fs player|no=10|nat=CRO|name=[[Sammir]]|pos=MF|other=[[Captain (association football)|2nd captain]]}}
+{{Fs player|no=11|nat=CHI|name=[[Junior Fernndes]]|pos=FW|other=on loan from [[Bayer 04 Leverkusen|Bayer Leverkusen]]}}
+{{Fs player|no=12|nat=BIH|name=Kristijan Jajalo|pos=GK}}
+{{Fs player|no=13|nat=GHA|name=[[Lee Addy]]|pos=DF|other=on loan from [[Dalian Aerbin F.C.|Dalian Aerbin]]}}
+{{Fs player|no=14|nat=CRO|name=[[ime Vrsaljko]]|pos=DF}}
+{{Fs player|no=17|nat=BIH|name=[[Said Husejinovi]]|pos=MF}}
+{{Fs mid}}
+{{Fs player|no=18|nat=CRO|name=Marko Kolar|pos=FW}}
+{{Fs player|no=19|nat=CRO|name=[[Josip Pivari]]|pos=DF}}
+{{Fs player|no=20|nat=CRO|name=[[Zvonko Pami]]|pos=MF}}
+{{Fs player|no=21|nat=MNE|name=[[Fatos Beqiraj]]|pos=FW}}
+{{Fs player|no=22|nat=ARG|name=[[Pablo Migliore]]|pos=GK}}
+{{Fs player|no=26|nat=CRO|name=Fran Brodi|pos=FW}}
+{{Fs player|no=27|nat=CRO|name=[[Jerko Leko]]|pos=MF|other=[[Captain (association football)|3rd captain]]}}
+{{Fs player|no=28|nat=CRO|name=[[Alen Halilovi]]|pos=MF}}
+{{Fs player|no=55|nat=CRO|name=[[Ante Rukavina]]|pos=FW}}
+{{Fs player|no=77|nat=CRO|name=[[Marcelo Brozovi]]|pos=MF}}
+{{Fs player|no=90|nat=CRO|name=[[Duje op]]|pos=FW}}
+{{Fs player|no=99|nat=CRO|name=[[Ivan Krstanovi]]|pos=FW}}
+{{Fs player|no=TBA|nat=CRO|name=Marko Mikuli|pos=GK}}
+{{Fs player|no=TBA|nat=CRO|name=Dino Peri|pos=DF}}
+{{Fs end}}
+
+== Referensi ==
+{{reflist}}
+
+== Pranala luar ==
+
+[[Kategori:Tim sepak bola Kroasia]]

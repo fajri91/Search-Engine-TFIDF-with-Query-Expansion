@@ -1,0 +1,15 @@
+Wikipedia:Gambar pilihan/92 2013
+{{GP/2
+|gambar     = Bratislava New Year Fireworks.jpg
+|vertikal   = n
+|panorama   = n
+|deskripsi  = Kembang api tahun baru di [[Bratislava]]. 
+|oleh       = [[:commons:user:Ondrejk|Ondrejk]]
+|lisensi    = {{GP-DU}}
+|ukuran     = 2,19 MB
+|dimensi    = 2.592  1.944
+|tahun      = 2013
+|seluler    = {{{seluler|no}}}
+|sblm       = Snow Scene at Shipka Pass 1.JPG
+|des-sblm   = Musim dingin di Bulgaria
+}}<noinclude>{{GPdoc|92 2013}}</noinclude>

@@ -1,0 +1,37 @@
+Nokia E66
+'''Nokia E66''' adalah produk [[telepon genggam]] yang dirilis oleh perusahaan [[Nokia]]. [[Telepon genggam]] ini memiliki dimensi 107.5 x 49.5 x 13.6 mm dengan berat 121 gram. Rilis pada Juli 2008.
+
+== Fitur & Komponen ==
+* Sistem operasi: Symbian OS 9.2, Series 60 v3.1 UI
+* Accelerometer sensor untuk auto-rotate
+* Memori internal 110 MB, eksternal menggunakan MicroSD hingga 8 GB
+* HSDPA, 3.6 Mbps
+* Wi-Fi 802.11 b/g
+* Kamera digital 3.15 MP, 2048x1536 pixels, auto fokus, LED flash
+* SMS
+* MMS
+* Email
+* Instant Messaging
+* Polifonik
+* Permainan
+* Radio FM
+* Inframerah
+* Bluetooth v2.0 dengan A2DP
+* GPS: A-GPS support; Nokia Maps
+* Java MIDP 2.0
+* MP3/AAC/MP4 player
+* Document viewer (Word, Excel, PowerPoint, PDF)
+* Baterai Li-Ion 1000 mAh (BL-4U)
+
+== Lihat pula ==
+* [[Daftar produk Nokia]]
+
+== Pranala luar ==
+* [http://www.gsmarena.com/nokia_e66-2426.php/ informasi di GSM Arena]
+
+{{Nokia}}
+{{teknologi-stub}}
+
+[[Kategori:Telepon genggam Nokia|E66]]
+
+[[de:Nokia Eseries#Nokia E66]]

@@ -1,0 +1,54 @@
+Templat:Penguasa Afghanistan
+{{Navbox
+| name = Penguasa Afghanistan
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| bodyclass = hlist
+| title = [[Daftar penguasa Afghanistan|Penguasa Afghanistan]]
+| groupstyle = text-align:left;
+
+| group1 = {{flagicon image|Flag of Afghanistan pre-1901.svg}} [[Dinasti Hotaki]]
+| list1 =
+* [[Mir Wais Hotak]]
+* [[Abdul Aziz Hotak]]
+* [[Mahmud Hotaki]]
+* [[Ashraf Hotaki]]
+* [[Hussain Hotaki]]
+
+| group2 = {{flagicon image|Flag of Afghanistan pre-1901.svg}} [[Dinasti Durrani]]
+| list2 =
+* [[Ahmad Shah Durrani]]
+* [[Timur Shah Durrani]]
+* [[Zaman Shah Durrani]]
+* [[Mahmud Shah Durrani]]
+* [[Shuja Shah Durrani]]
+* [[Ali Shah Durrani]]
+* [[Ayub Shah Durrani]] 
+
+| group3 = {{flagicon image|Flag of Afghanistan pre-1901.svg}} [[pengaruh Eropa di Afghanistan|Keemiratan]] {{nobold|([[Dinasti Barakzai]])}}
+| list3 =
+* [[Dost Mohammad Khan]]
+* [[Akbar Khan]]
+* [[Sher Ali Khan]]
+* [[Mohammad Afzal Khan]]
+* [[Mohammad Azam Khan]]
+* [[Mohammad Yaqub Khan]]
+* [[Mohammad Ayub Khan|Ayub Khan]]
+* [[Abdur Rahman Khan]]
+* [[Habibullah Khan]]
+* [[Nasrullah Khan (Afghanistan)|Nasrullah Khan]]
+ 
+| group4 = {{flagicon image|Flag of Afghanistan (19281929).svg}} [[Kerajaan Afghanistan|Kerajaan]]
+| list4 =
+* [[Amanullah Khan]]
+* [[Inayatullah Khan]]
+* [[Habibullah Kalakani]]
+* [[Mohammed Nadir Shah]]
+* [[Mohammed Zahir Shah]]
+
+}}<noinclude>
+{{collapsible option}}
+
+==Lihat pula==
+* [[Templat:Presiden Afghanistan]]
+[[Kategori:Templat navigasi Afganistan]]
+[[Kategori:Templat navigasi penguasa negara]]

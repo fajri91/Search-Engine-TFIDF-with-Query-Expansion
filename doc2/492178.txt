@@ -1,0 +1,79 @@
+Afric Aviation
+{{Infobox Airline
+| airline          = Afric Aviation
+| image            = 
+| image_size       = 
+| alt              = 
+| IATA             = L8
+| ICAO             = -
+| callsign         = -
+| founded          = 2011
+| commenced        = 
+| ceased           = 
+| aoc              = 
+| bases            = 
+| hubs             = [[Bandar Udara Internasional Port-Gentil]]
+| secondary_hubs   = 
+| focus_cities     = 
+| frequent_flyer   = 
+| lounge           = 
+| alliance         = 
+| subsidiaries     = 
+| fleet_size       = 1
+| destinations     = 
+| company_slogan   = 
+| parent           = [[Equaflight]]
+| headquarters     = [[Port Gentil]], [[Gabon]]
+| key_people       = 
+| revenue          = 
+| operating_income = 
+| net_income       = 
+| profit           = 
+| assets           = 
+| equity           = 
+| website          = {{URL|http://www.africaviation.com/}}
+}}
+'''Afric Aviation''' adalah [[maskapai penerbangan]] regional yang berbasis di [[Port Gentil]], [[Gabon]]. Basis utama dari maskapai ini adalah di [[Bandar Udara Internasional Port-Gentil]].
+
+== Tujuan ==
+===Gabon===
+*[[Bandar Udara Internasional Port-Gentil]]
+*[[Bandar Udara Internasional Libreville]]
+
+===Republik Kongo===
+*[[Bandar Udara Pointe Noire]]
+
+== Armada ==
+Armada Afric Aviation termasuk beberapa pesawat ({{as of|2012|4|22|lc=on}}):
+
+<center>
+{|class="toccolours" border="1" cellpadding="3" style="border-collapse:collapse"
+|+'''Armada Afric Aviation'''
+|- bgcolor=lightblue
+!Pesawat
+!Total
+!Dalam pemesanan
+!Penumpang<br><small>(Ekonomi)</small>
+!Catatan
+|-
+|[[Embraer EMB 120 Brasilia]]
+|align="center"|1
+|align="center"|0
+|align="center"|-
+|
+|-
+|'''Total'''
+!1
+!0
+!
+|}
+</center>
+
+== Pranala luar ==
+*{{Official|http://www.africaviation.com/}}
+{{Maskapai penerbangan Gabon}}
+
+[[Kategori:Maskapai penerbangan di Gabon]]
+
+
+{{maskapai-stub}}

@@ -1,0 +1,24 @@
+Plasmodium gallinaceum
+{{Taxobox
+| color = khaki
+| name = ''Plasmodium gallinaceum''
+| regnum = [[Protista]]
+| phylum = [[Apicomplexa]]
+| classis = [[Aconoidasida]]
+| ordo = [[Haemosporida]]
+| familia = [[Plasmodiidae]]
+| genus = ''[[Plasmodium]]''
+| species = '''''P. gallinaceum'''''
+| binomial = ''Plasmodium gallinaceum''
+| binomial_authority = [[mile Josef Alexander Brumpt|Brumpt]], 1935
+}}
+'''''Plasmodium gallinaceum''''' adalah parasit dari genus ''[[Plasmodium]]''. Seperti semua spesies ''Plasmodium'', ''P. gallinaceum'' menyerang [[vertebrata]] dan [[serangga]]. Parasit ini menyebabkan penyakit malaria pada [[peternakan]].<ref>{{cite web | title = ''Plasmodium'' Infection | work = The Merck Veterinary Manual | date = 2006 | url = http://www.merckvetmanual.com/mvm/index.jsp?cfile=htm/bc/200107.htm | accessdate = 2007-07-03 }}</ref>
+
+== Referensi ==
+{{reflist}}
+
+{{plasmodium-stub}}
+
+[[Kategori:Plasmodium]]
+[[Kategori:Apicomplexa]]
+[[Kategori:Malaria]]

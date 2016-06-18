@@ -1,0 +1,66 @@
+Templat:Jumlah pemirsa Fear the Walking Dead
+<center>
+{| class="wikitable" style="text-align:center"
+|+ ''Fear the Walking Dead'': Jumlah pemirsa per episode (dalam ribuan) 
+|-
+|{{Line chart
+| color_background = white
+| width = 700
+| height = 350
+| padding_left = 40
+| padding_right = 15
+| padding_top = 10
+| padding_bottom = 20
+| number_of_series = 1
+| number_of_x-values = 6
+| label_x1 = Ep 1 | label_x2 = Ep 2 | label_x3 = Ep 3 | label_x4 = Ep 4 | label_x5 = Ep 5 | label_x6 = Ep 6
+| lab
+| y_max = 14000
+| y_min = 0
+| scale = yes
+| interval_primary_scale = 1000
+| interval_secondary_scale = 200
+| points = yes
+| color_series_1 = Blue
+| thickness_series1 = 1
+| S01V01 = 10130 | S01V02 = 8184 | S01V03 = 7185 | S01V04 = 6620 | S01V05 = 6655 | S01V06 = 6861 
+
+
+}}
+* '''{{Blue|Musim 1 (2015)}}:''' Pemirsa dari penayangan perdana di AMC di Amerika Serikat pada hari Minggu di 21:00 ET
+|-
+|<!-- begin inner table --> <div align=center>
+{| class="wikitable" style="text-align:center"
+! rowspan="2"  | Musim
+! colspan="6" | Episode
+|-
+! scope=col | 1
+! scope=col | 2
+! scope=col | 3
+! scope=col | 4
+! scope=col | 5
+! scope=col | 6
+|-
+! scope=row | [[Fear the Walking Dead|1]]
+| {{formatnum:10130}}
+| {{formatnum:8184}}
+| {{formatnum:7185}}
+| {{formatnum:6620}}
+| {{formatnum:6655}}
+| {{formatnum:6861}}
+|-
+|}</div>
+<!-- end inner table --> 
+{{navbar|Jumlah pemirsa Fear the Walking Dead|style=float:center}}
+|}
+</center><noinclude>
+[[Category:Fear the Walking Dead|Ratings]]
+</noinclude>
+
+<noinclude>
+<templatedata>
+{
+	"params": {}
+}
+</templatedata>
+</noinclude>

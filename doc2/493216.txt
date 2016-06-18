@@ -1,0 +1,12 @@
+Templat:Location map USA Louisiana
+{{#switch:{{{1}}}
+|name= Louisiana
+|top = 33.2
+|bottom = 28.7
+|left = -94.2
+|right = -88.6
+|image =USA Louisiana location map.svg
+}}<noinclude>{{Location map/Info}}
+
+{{DEFAULTSORT:Louisiana, Location map USA}}
+[[Category:Templat peta navigasi Amerika Serikat|Lousiana]]</noinclude>

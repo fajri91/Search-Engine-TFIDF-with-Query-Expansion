@@ -1,0 +1,55 @@
+Indosat Galileo
+{{Infobox Television|
+| show_name            = Indosat Galileo
+| image                = 
+| caption              = 
+| format               = Kuis
+| runtime              = 30 menit
+| creator              = 
+| presenter            = Ronni Waluya<br />Susan Bachtiar
+| voiceover            = Eko Junor (narator, Galileo & hewan peraga)
+| country              = {{flagicon|Indonesia}} Indonesia
+| network              = SCTV
+| first_aired          = 2 Mei 1999
+| last_aired           = 27 April 2003
+| num_episodes         = 209
+| website              = http://www.sctv.co.id
+| followed_by          = ''Indofood Galileo'' (SCTV, 2004)
+}}
+'''Indosat Galileo''' adalah sebuah acara [[kuis]] [[Indonesia]] yang menguji wawasan [[sains]] para kontestannya. Acara ini disponsori oleh [[PT Indosat Tbk]]. Kuis ini ditayangkan di [[SCTV]] sejak tanggal [[2 Mei]] [[1999]] sampai [[27 April]] [[2003]] dan dibawakan oleh [[Ronni Waluya]] dan [[Susan Bachtiar]].
+{| class="wikitable"
+|-
+! Awal !! Akhir !! Jadwal tayang
+|-
+| 2 Mei 1999 || [[27 Januari]] [[2002]] || [[Minggu]], 20:30-21:00 [[WIB]]
+|-
+| [[3 Februari]] 2002 || 27 April 2003 || Minggu, 17:30-18:00 WIB
+|}
+== Urutan permainan ==
+{| class="wikitable"
+|-
+! Babak !! Jenis babak !! Jenis pertanyaan !! Alasan
+|-
+| Peragaan I || rowspan="2"|Peragaan ''indoor'' || rowspan="4"|Pilihan ganda || rowspan="3"|Diperlukan
+|-
+| Peragaan II
+|-
+| Peragaan III || Peragaan ''outdoor''
+|-
+| Peragaan IV || Peragaan [[tingkah laku]] [[hewan]] || Tidak diperlukan
+|}
+== Aturan permainan ==
+Setiap peragaan yang terjawab benar akan dihadiahi [[1 (angka)|1]] [[boneka]] ofisial ([[maskot]] [[Galileo]]). Kontestan pengumpul boneka ofisial terbanyak setelah peragaan IV (tingkah laku hewan) selesai akan keluar sebagai pemenang. Akan tetapi, jika ada [[2 (angka)|2]] kontestan pengumpul boneka ofisial terbanyak setelah peragaan IV, atau ke-[[3 (angka)|3]] kontestan memperoleh boneka ofisial berjumlah sama setelah peragaan IV, maka pemenangnya akan ditentukan lewat penilaian alasan atas pilihan jawaban di peragaan I, II, dan III. Kontestan yang semua alasannya paling tepat meskipun tidak [[100 (angka)|100]]% tepat akan menjadi pemenangnya.
+== Hadiah ==
+{| class="wikitable"
+|-
+! Pemenang !! Mei '99-Des '00 !! Jan '01-Jun '02 !! Jul '02-Apr '03
+|-
+| align="center"|I || colspan="2" align="center"|[[Rp]]2.000.000,00 || align="right"|Rp3.000.000,00
+|-
+| align="center"|II || align="right"|Rp750.000,00 || align="right"|Rp1.500.000,00 || align="right"|Rp2.000.000,00 
+|-
+| align="center"|III || align="right"|Rp500.000,00 || colspan="2" align="center"|Rp1.000.000,00
+|}
+
+[[Kategori:Acara kuis Indonesia]]

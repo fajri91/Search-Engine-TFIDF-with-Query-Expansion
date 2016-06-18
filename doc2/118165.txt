@@ -1,0 +1,136 @@
+Heterosis
+[[Berkas:Jagung hibrida.jpg|thumb|200px|Persilangan dua galur tetua (P1 dan P3) menghasilkan keturunan dengan ukuran tongkol melebihi milik kedua tetuanya.]]
+'''Heterosis''' dalam [[genetika]] adalah efek perubahan pada penampilan keturunan [[hibrida|persilangan]] (blaster) yang secara konsisten berbeda dari penampilan kedua [[tetua]]nya. Istilah ini di[[koine]]kan oleh [[George Harrison Shull|G.H. Shull]] pada tahun 1914, setelah sebelumnya (sejak 1908) disebut sebagai '''heterozigosis'''. 
+
+Heterosis bukan mengacu pada penggabungan dua sifat baik dari kedua tetua kepada keturunan hasil persilangan, melainkan pada penyimpangan dari penampilan yang diharapkan dari penggabungan dua sifat yang dibawa kedua tetuanya. Contoh paling jelas adalah pada [[jagung]] [[varietas hibrida|hibrida]]. Penyimpangan ini sebagian besar bersifat positif, dalam arti melebihi rata-rata penampilan kedua tetuanya dan menunjukkan daya [[pertumbuhan]] (''vigor'') yang lebih besar. Dalam keadaan demikian (positif), heterosis dapat dinyatakan dengan istilah '''''hybrid vigor'''''. Silangan yang menunjukkan heterosis diketahui memiliki postur yang lebih besar, [[fertilitas]] yang lebih tinggi, pertumbuhan yang lebih cepat, serta ketahanan terhadap penyakit yang lebih baik daripada rata-rata tetuanya. 
+
+Sebagian besar ahli sepakat bahwa gejala heterosis adalah kebalikan dari gejala [[depresi kawin-sekerabat]] (''inbreeding depression''), yaitu efek penurunan penampilan pada individu keturunan [[perkawinan sekerabat]].
+
+
+== Penemuan ==
+Catatan pertama tentang ''hybrid vigor'' dibuat oleh [[Joseph Gottlieb Klreuter|Klreuter]] yang pada tahun 1766 melaporkan hasil persilangan pada ''Nicotiana'', ''Dianthus'', ''Datura'', dan beberapa tumbuhan lainnya. [[Gregor Mendel]], dalam eksperimen persilangannya juga melaporkan (1865) adanya peningkatan tinggi tanaman pada generasi persilangan. Gejala heterosis pertama kali diamati secara sistematik oleh [[Charles Darwin]], khususnya dalam buku klasiknya, ''The Effects of Cross and Self-fertilisation in the Vegetable Kingdom'' (1876)<ref name=Darwin>lihat versi buku elektronik [http://charles-darwin.classic-literature.co.uk/the-effects-of-cross-and-self-fertilisation/ The Effects of Cross and Self-fertilisation in the Vegetable Kingdom]</ref>, meskipun sejumlah peneliti dan praktisi yang lebih awal diketahui telah mengetahui dan mendokumentasikannya. Dalam berbagai seri persilangan tanaman yang dilakukannya, Darwin mengemukakan bahwa persilangan antara dua [[galur]] tanaman memberikan keturunan yang penampilannya lebih baik dan bahwa pembuahan sendiri memberikan pengaruh yang merugikan bagi generasi keturunannya. Walaupun demikian, ia tidak memberikan penjelasan tuntas mengapa hal ini terjadi karena pada masanya prinsip pewarisan genetik belum terumuskan.
+
+Pada akhir abad ke-19 dan awal abad ke-20 sejumlah peneliti pertanian [[Amerika Serikat]] melakukan eksperimen yang melibatkan ribuan persilangan menggunakan galur-galur [[jagung]] di daerah ''[[cornbelt]]'' dan mendapati hasil yang serupa dengan yang dilakukan Darwin; pada beberapa pasangan persilangan bahkan melebihi penampilan tetua terbaiknya. Perbaikan penampilan ini akan menyusut secara drastis pada generasi F2 apabila generasi F1 ini diserbuki sendiri (''selfing'') dan seterusnya hingga pada generasi F6 atau F7 rerata penampilannya kembali seperti kedua tetuanya. Apabila galur-galur generasi lanjut ini disilangkan, gejala serupa seperti generasi F1 kembali teramati. Para peneliti yang terlibat dalam eksperimen besar inilah (di antaranya [[Beal]], [[George Harrison Shull|Shull]], dan [[Edward Murray East|East]]) yang kemudian memberikan penjelasan genetis atas gejala ini, menggunakan teori berbasis [[Hukum Pewarisan Mendel|Hukum Mendel]], yang masih relatif baru pada masa itu.
+
+== Penjelasan genetis ==
+Berdasarkan Hukum Mendel dan teori [[genetika kuantitatif]] yang mulai berkembang pesat pada masa itu muncullah dua teori utama yang menjelaskan dasar genetik heterosis dari tim peneliti tersebut. Teori pertama dikemukakan oleh [[Edward East|E.M. East]] (1908)<ref>East, E. M., 1908. Inbreeding in corn. ''Rep. Conn. Agric. Exp. Stn.'' pp. 419428.</ref> dan G.H. Shull (1908)<ref>Shull, G. H., 1908. The composition of a field of maize. ''Am. Breeders Assoc. Rep.'' 4:296-301</ref>, disebut teori dominans-berlebih (''overdominance theory''), dan yang kedua ditawarkan oleh Keeble dan Pellew (1910) <ref>Keeble, F. and C. Pellew, 1910 The mode of inheritance of stature and of time of flowering in peas (Pisum sativum). ''J. Genet.'' 1:47-56.</ref> serta A.B. Bruce (1910) <ref>Bruce, A. B., 1910 The Mendelian theory of heredity and the augmentation of vigor. ''Science'' 32:627-628</ref> dan dikenal sebagai teori keuntungan dominans ('' advantage of dominance theory''). Rasmusson (1933) selanjutnya menunjukkan kalau [[epistasis]] (interaksi antara [[gen]]-gen pada [[lokus]] yang berbeda) dapat pula menjelaskan gejala heterosis. Ketiga penjelasan genetis ini hingga sekarang masih memiliki pengikut dan kini semakin jelas bahwa ketiga teori tersebut dapat bekerja bersama-sama.
+
+==== Teori Keuntungan Dominans ====
+Teori ini menyatakan bahwa ada suatu keadaan homozigot yang menurunkan penampilan ("merugikan") sehingga penampilan rata-rata populasi dengan genotipe demikian lebih rendah daripada homozigot lainnya maupun heterozigot. Keadaan heterozigot mengkompensasi fenotipe sehingga tidak terjadi kerugian. Heterosis terjadi karena akumulasi pada semua lokus yang bertanggung jawab, maka terjadi keuntungan akibat persilangan. Berikut adalah contoh untuk tiga lokus dengan perilaku itu:
+
+ Generasi:                     P1                   P2
+ Genotipe:                   A b C                a B c     
+                                        |           
+                                        |         
+                             A b C         |       a B c
+ Nilai   :                   2+0+2 = '''4'''     |       0+2+0 = '''2''' 
+                                            
+ Generasi:                                 F1
+ Genotipe:                               A b C
+                                            
+                                           
+                                         a B c
+ Nilai   :                               2+2+2 = '''6'''
+
+Homozigot dominan pada masing-masing lokus (AA, BB, dan CC) masing-masing menyumbang nilai 2 untuk suatu fenotipe. Homozigot resesif memberikan pengaruh negatif sehingga tidak memberi sumbangan apa pun. Kondisi heterozigot menyumbang nilai 2, sama dengan homozigot dominan. Akibatnya, penampilan F1 akan secara dramatis melebihi kedua tetuanya.
+<!-- Teori ini dapat menjelaskan mengapa gejala heterosis segera menghilang pada generasi-generasi selanjutnya akibat penyerbukan sendiri. -->
+
+==== Teori Dominans-berlebih ====
+Teori Dominans-berlebih menyatakan, peningkatan penampilan pada generasi F1 hasil persilangan, yang [[heterozigot]], terjadi akibat genotipe heterozigot pada suatu lokus berekspresi lebih kuat daripada genotipe homozigot di lokus itu. Dalam teori ini, tidak dipermasalahkan perbedaan fenotipe pada homozigot. Karena [[fenotipe]] dikendalikan oleh banyak lokus dengan perilaku seperti itu, muncullah gejala heterosis. Berikut adalah contoh untuk tiga lokus dengan perilaku itu:
+
+ Generasi:                     P1                   P2
+ Genotipe:                   A b C                a B c     
+                                        |           
+                                        |         
+                             A b C         |       a B c
+ Nilai   :                   1+0+1 = '''2'''     |       0+1+0 = '''1''' 
+                                            
+ Generasi:                                 F1
+ Genotipe:                               A b C
+                                            
+                                           
+                                         a B c
+ Nilai   :                               2+2+2 = '''6'''
+
+Setiap homozigot dominan pada masing-masing lokus (AA, BB, dan CC) menyumbang nilai 1 untuk suatu fenotipe, homozigot resesif tidak memberikan sumbangan apa pun, sedangkan heterozigot menyumbang nilai 2. Akibatnya, penampilan F1 akan secara dramatis melebihi kedua tetuanya.
+
+Teori ini dapat menjelaskan mengapa gejala heterosis segera menghilang pada generasi-generasi selanjutnya akibat penyerbukan sendiri. Namun, banyak hasil penelitian yang menunjukkan bahwa kontribusi genotipe heterozigot tidaklah terlalu besar, atau dengan kata lain, hanya sedikit lokus yang berperilaku dominans-berlebih.
+
+Penelitian jangka panjang yang dilakukan Sprague (1983) <ref>Sprague, G. F., 1983 Heterosis in maize: theory and practice. ''Monogr. Theor. Appl. Genet.'' 6:47-70</ref> menunjukkan sedikitnya dukungan bagi teori ini. Menggunakan data dari Stuber (1992) yang menyatakan adanya bukti dominans-berlebih, Cockerham dan Zeng (1996) <ref>Cockerham, C. C. dan Z-B. Zeng, 1996 Design III with marker loci. ''Genetics'' 143:1437-1456</ref> menunjukkan bahwa dominans-berlebih semu (''pseudooverdominance'') akibat pautan berposisi ''[[trans]]'' alel dominan pada lokus-lokus yang berbeda lebih dapat menjelaskan temuan itu.
+
+Bagaimana gejala dominans-berlebih semu bekerja dapat dijelaskan sebagai berikut:
+
+ Generasi:                     P1                   P2
+ Genotipe:                   A b C                a B c     
+                                       |          
+                                       |        
+                             A b C         |       a B c
+ Nilai   :                 (1+0)+1 = '''2'''     |      (0+1)+0 = '''1''' 
+                                            
+ Generasi:                                 F1
+ Genotipe:                               A b C
+                                           
+                                          
+                                         a B c
+ Nilai   :                              (1+1)+1 = '''3'''
+
+Aspek semu terjadi karena ada dua (atau lebih) lokus yang ber[[pautan genetik|paut]] dalam keadaan ''trans'' (atau ''repulsion'', dalam contoh adalah pada lokus A dan B - perhatikan garis yang menghbungkan keduanya). Karena berpaut, kedua lokus itu berperilaku seperti satu lokus sehingga seakan akan hanya ada dua lokus: satu lokus sejati (C) dan satu lokus semu (AB). Lokus semu itu menyumbang satu nilai dan pada nilai yang dihasilkan oleh F1 seakan-akan lokus semu itu meningkat penampilannya (menyumbang dua). Perilaku demikian dapat diketahui dengan teknik genetika molekuler.
+
+==== Teori Epistasis ====
+<!-- Teori Dominans-berlebih menyatakan, peningkatan penampilan pada generasi F1 hasil persilangan, yang [[heterozigot]], terjadi akibat genotipe heterozigot pada suatu lokus berekspresi lebih kuat daripada genotipe homozigot di lokus itu. Karena [[fenotipe]] dikendalikan oleh banyak lokus dengan perilaku seperti itu, muncullah gejala heterosis. Berikut adalah contoh untuk tiga lokus dengan perilaku itu:
+
+ Generasi:                     P1                   P2
+ Genotipe:                   AAbbCC               aaBBcc    
+ Nilai   :                   1+0+1 = '''2'''     |       0+1+0 = '''1''' 
+                                          |
+ Generasi:                                F1
+ Genotipe:                              AabBCc
+ Nilai   :                              2+2+2 = '''6'''
+
+Homozigot dominan pada masing-masing lokus (AA, BB, dan CC) masing-masing menyumbang nilai 1 untuk suatu fenotipe, homozigot resesif tidak memberikan sumbangan apa pun, sedangkan heterozigot menyumbang nilai 2. Akibatnya, penampilan F1 akan secara dramatis melebihi kedua tetuanya.
+
+Teori ini dapat menjelaskan mengapa gejala heterosis segera menghilang pada generasi-generasi selanjutnya akibat penyerbukan sendiri. -->
+
+=== Heterosis molekular ===
+
+Berbagai usaha dengan melibatkan teknik-teknik [[biologi molekular]] sekarang dilakukan untuk memberi penjelasan menyeluruh terhadap gejala yang rumit ini dengan melibatkan analisis menyeluruh terhadap [[DNA]] dan [[QTL]], [[mRNA]], [[protein]], dan [[metabolit]] (dikenal sebagai ilmu-ilmu "omics"), dibantu dengan dukungan [[bioinformatika]] karena melibatkan ukuran [[data]] yang sangat besar. Beberapa negara, seperti [[Jerman]] dan [[Tiongkok]], bahkan membentuk proyek penelitian khusus untuk mendalaminya pada dasawarsa awal abad ke-21.
+
+== Macam-macam heterosis ==
+Di kalangan [[pemuliaan]] atau penangkaran, heterosis seringkali dibedakan berdasarkan cara penentuannya, untuk kepentingan studi dan praktis.
+ 
+'''Heterosis antara tetua''' (''midparent heterosis'') ditentukan sebagai penyimpangan penampilan keturunan F1 dari rata-rata tetuanya. Penentuan heterosis ini diperlukan untuk kepentingan kajian genetik namun kurang memiliki nilai praktis. 
+
+'''Heterosis tetua terbaik''' (''best/high parent heterosis'') dihitung sebagai selisih penampilan keturunan F1 dari tetua dengan penampilan lebih baik. Istilah yang terakhir ini di kalangan [[pemuliaan tanaman]] juga disebut '''heterobeltiosis'''. 
+
+'''Heterosis standar''' digunakan pula dalam uji penampilan dan dihitung berdasarkan selisih penampilan hibrida dengan varietas standar. 
+
+Kedua pengertian heterosis terakhir ini lebih memiliki manfaat praktis.
+
+== Pemanfaatan ==
+
+Heterosis adalah gejala genetis yang luas dimanfaatkan dalam pembentukan [[kultivar]] unggul tanaman maupun [[biakan]] unggul [[hewan ternak]] atau [[hewan timangan|timangan]]. 
+
+Sejak awal abad ke-20 gejala heterosis telah dimanfaatkan dalam perakitan [[varietas hibrida]]. Berbagai studi terhadap persilangan jagung yang dilaporkan oleh Shull dan East pada tahun 1908 dan Jones (1918), dimulailah revolusi pertanian di [[Amerika Serikat]] dengan dipasarkannya varietas jagung hibrida pada tahun 1920-an, yang langsung menguasai pangsa penanaman hanya dalam waktu singkat. Penggunaan varietas hibrida meluas pada tanaman ekonomis lainnya, seperti [[bit gula]], [[bunga matahari]], [[sorgum]], [[kapas]], [[milet mutiara]], [[kelapa]], [[kakao]], [[kanola]], [[padi]], serta berbagai tanaman hortikultura (terutama sayuran dan tanaman hias, serta beberapa tanaman buah-buahan). 
+
+Pemanfaatan pada ternak baru dilakukan belakangan mengingat kesulitan dalam pembentukan [[galur murni]]. Produksi biakan hibrida dimulai pada ayam, lalu diikuti oleh beberapa hewan ternak lainnya. Biakan hibrida pada ayam kebanyakan adalah hibrida tiga-jalur dan empat-jalur, meskipun ada pula yang silang tunggal (dua-jalur)<ref> {{cite book|last1 = Fairful|first1 = R.W.|title = Poultry breeding and genetics|chapter = 37. Heterosis|editors = R.D. Crawford|publisher = Elsevier|year = 2003|location = Amsterdam|pages = 913|accessdate = 2010-08-25|isbn = 0-444-88557-9}}</ref>.
+
+Pemanfaatan gejala heterosis melalui produksi varietas hibrida dianggap menjadi bagian dari [[Revolusi Hijau|revolusi pangan]] pada abad ke-20.
+<!-- 
+Importance of heterosis
+The exploitation of heterosis through the development of hybrid cultivars is one of the landmark achievements in plant breeding. Ever since the work of Shull and East in 1908 and Jones in 1918, the acreage planted to hybrid cultivars and the number of crop species for which hybrids were generated have steadily increased. In certain crops, such as maize, sugar beet, sunflower and many vegetable crops, only hybrid cultivars are nowadays developed, whereas in many others, like rice, cotton, sorghum, and pearl millet, the area planted to hybrid cultivars is rapidly increasing. Thus, the commercial exploitation of heterosis was not only a benefit for farmers and consumers but also provided the foundation for the seed industry.
+
+State of the art of science
+Starting with the classical work by Shull in 1908, the phenomenon of heterosis has been intensively studied. At the last international conference on this topic, held in Mexico in 1997, more than 600 scientists participated. However, despite all intensive efforts, the genetic and molecular bases of heterosis have remained largely enigmatic.
+-->
+
+== Catatan kaki ==
+{{col-css3-begin|2}} 
+{{reflist}}
+{{col-css3-end}}
+
+== Lihat pula ==
+* [[Peningkatan mutu populasi]] (''population upgrading'')
+* [[Daya gabung]] (''combining ability'')
+
+[[Kategori:Genetika]]
+[[Kategori:Pemuliaan tanaman]]

@@ -1,0 +1,14 @@
+Berkas:Masjid-agung-sawahlunto.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+Masjid Agung Nurul Islam (Masjid Agung Sawahlunto). ([http://pecintawisata.wordpress.com/2011/09/02/melihat-kejayaan-batubara-di-sawahlunto/ Sumber])
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{GFDL}}

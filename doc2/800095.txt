@@ -1,0 +1,27 @@
+Berkas:Apgujeong Midnight Sun poster.jpg
+{{dari|en}}
+== Penjelasan ==
+{{Non-free use rationale poster
+|Article           = Apgujeong Midnight Sun
+|Use               = Infobox
+|Media             = serial TV
+<!-- ADDITIONAL INFORMATION -->
+|Name              = 
+|Distributor       = 
+|Publisher         = 
+|Graphic Artist    =
+|Type              = 
+|Website           = 
+|Owner             = 
+|Commentary        = 
+<!--OVERRIDE FIELDS -->
+|Description       = 
+|Source            = http://www.hancinema.net/korean_drama_Apgujeong_Midnight_Sun.php
+|Portion           = 
+|Low resolution    = 
+|Purpose           = <!-- Must be specified if Use is not Infobox / Header / Section -->
+|Replaceability    = 
+|Other information = 
+}}
+== Lisensi ==
+{{Non-free poster}}

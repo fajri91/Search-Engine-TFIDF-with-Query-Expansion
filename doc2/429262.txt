@@ -1,0 +1,19 @@
+Templat:Jabatan perusahaan
+{{Navbox
+|name = Jabatan perusahaan
+| listclass = hlist
+| title = [[Jabatan perusahaan|Jabatan]] [[perusahaan]]
+
+|group1 = Kepala pejabat
+|list1 = [[Chief accounting officer]]{{}} [[Chief administrative officer]]{{}} [[Chief analytics officer]]{{}} [[Chief audit executive]]{{}} [[Chief brand officer]]{{}} [[Chief business officer]]{{}} [[Chief channel officer]]{{}} [[Chief commercial officer]]{{}} [[Chief communications officer]]{{}} [[Chief compliance officer]]{{}} [[Chief creative officer]] {{}} [[Chief data officer]]{{}} [[Chief executive officer]]{{}} [[Chief financial officer]]{{}} [[Chief human resources officer]]{{}} [[Chief information officer]]{{}} [[Chief information security officer]]{{}} [[Chief knowledge officer]]{{}} [[Chief learning officer]]{{}} [[Chief legal officer]]{{}} [[Chief marketing officer]]{{}}[[Chief merchandising officer]]{{}} [[Chief networking officer]]{{}} [[Chief operating officer]]{{}} [[Chief procurement officer]]{{}} [[Chief product officer]]{{}} [[Chief risk officer]]{{}} [[Chief science officer]]{{}}[[Chief stores officer]]{{}} [[Chief strategy officer]]{{}} [[Chief technology officer]]{{}} [[Chief visionary officer]]{{}} [[Chief web officer]] 
+
+|group2 = Jabatan lain
+|list2 = [[Ketua]]{{}}[[Direktur kreatif]]{{}} [[Direktur eksekutif]]{{}} [[Penasihat umum]]{{}} [[Direktur pelaksana]]{{}} [[Direktur non-eksekutif]]
+
+|group3= Terkait
+|list3 =[[Dewan direksi]]{{}} [[Tata kelola perusahaan]]{{}} [[Executive pay]]{{}} [[Manajemen senior]]{{}} [[Dewan pengawas]]{{}}[[Manajemen bakat]]
+
+}}<noinclude>
+[[Kategori:templat bisnis dan keuangan]]
+
+</noinclude>

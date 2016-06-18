@@ -1,0 +1,38 @@
+Templat:Penyiar Antv
+{{Navbox
+|name = Penyiar Antv
+|title = [[Pembawa acara]] [[Antv]]
+|image = [[Berkas:Antv-2013motif.png|150px]]
+|listclass = hlist
+|group1 = Saat ini
+|list1  =
+* [[Deba Melisa Depari]]
+* [[Intan Mariana]]
+* [[Jean Girsang]]
+* [[Limystina Novatra]]
+* [[Catherine Mulyadi]]
+* [[Maria Selena]]
+* [[Restu Wulandari]]
+* [[Emzy Ardiwinata]]
+
+|group2 =Mantan
+|list2=
+* [[Arif Kurniawan]]
+* [[Ryan Hasri]]
+* [[Rudy Fitryandanu]]
+* [[Andini Effendi]]
+* [[Fitri Ekawati]]
+* [[Fessy Alwi]]
+* [[Grace Natalie]]
+* [[Indy Rahmawati]]
+* [[Melati Suryaningtyas]]
+* [[Melisa Gandasari]]
+* [[Rahma Alia]]
+* [[Tengku Fiola]]
+* [[Mercy Tirayoh]]
+* [[Tika Ghafar]]
+* [[Anggunita Swastya]]
+}}<noinclude>
+{{Templat penyiar televisi Indonesia}}
+[[Kategori:Templat navigasi penyiar televisi Indonesia|{{PAGENAME}}]]
+</noinclude>

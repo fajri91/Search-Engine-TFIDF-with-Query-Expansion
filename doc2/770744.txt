@@ -1,0 +1,23 @@
+Templat:Penerimaan Mahasiswa Baru Perguruan Tinggi Negeri
+{{Navbox
+|name = Penerimaan Mahasiswa Baru Perguruan Tinggi Negeri
+| listclass = hlist
+| title = Penerimaan Mahasiswa Baru [[Daftar perguruan tinggi negeri di Indonesia|Perguruan Tinggi Negeri]] di [[Indonesia]]
+|state = {{{Indonesia|}}}
+|list = hlist
+
+|group1 = Jalur Prestasi Akademis
+|list1 =
+* [[Seleksi Nasional Masuk Perguruan Tinggi Negeri | SNMPTN]] (Nasional)
+* [[Seleksi Prestasi Akademik Nasional Perguruan Tinggi Keagamaan Islam Negeri | SPAN-PTKIN]] (Nasional)
+* [[Prestasi dan Pemerataan Kesempatan Belajar Universitas Indonesia | PPKB UI]] ([[Universitas Indonesia |UI]])
+
+|group2 = Jalur Ujian Tulis/<br/>Keterampilan
+|list2 = 
+* [[Seleksi Bersama Masuk Perguruan Tinggi Negeri | SBMPTN]] (Nasional)
+* [[Ujian Masuk Perguruan Tinggi Agama Islam Negeri | UM-PTAIN]] (Nasional)
+* [[Seleksi Bersama Ujian Masuk Politeknik Negeri | SB-UMPN]] (Nasional)
+* [[Ujian Masuk Bersama | UMB PT]] (Regional)
+* [[Seleksi Masuk Universitas Indonesia | SIMAK UI]] ([[Universitas Indonesia |UI]])
+* [[Ujian Masuk Universitas Gadjah Mada | UM UGM]] ([[Universitas Gadjah Mada |UGM]])
+}}

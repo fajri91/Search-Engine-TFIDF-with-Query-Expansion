@@ -1,0 +1,19 @@
+Templat:Maniang Pajo, Wajo
+{{Navigasi ID Desa
+|nama kecamatan=Maniang Pajo
+|dati2=Kabupaten 
+|nama dati2=Wajo
+|provinsi=Sulawesi Selatan
+|d1= Abbanuangnge
+|k1= Anabanua
+|k2= Dualimpoe
+|d2= Kalola
+|d3= Mattirowalie
+|d4= Minangatellue
+|d5= Sogi
+|k3= Tangkoli
+}}
+<noinclude>
+[[Kategori:Templat desa/kelurahan di Sulawesi Selatan]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Wajo]]
+</noinclude>

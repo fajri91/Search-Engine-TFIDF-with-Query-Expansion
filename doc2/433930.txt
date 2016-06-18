@@ -1,0 +1,30 @@
+Penguat sinyal
+{{unreferenced|date=Januari 2014}}
+'''Penguat Sinyal''' ([[inggris]]=[[repeater]]) adalah sebuah perangkat elektronik yang menerima isyarat dan mentransmisikan kembali isyarat tersebut dengan daya yang lebih tinggi, sehingga isyarat tersebut dapat menjangkau area yang lebih luas.
+
+== Deskripsi ==
+penguat isyarat (repeater) berasal dari istilah [[telegrafi]] dan merujuk ke perangkat elektromekanis yang digunakan oleh tentara untuk regenerasi isyarat telegraf. Penggunaan istilah terus dalam komunikasi telepon dan data.
+dalam industri komunikasi [[nirkabel]] adalah suatu alat penguat isyarat yang berfungsi untuk meningkatkan daya tangkap isyarat telepon genggam dalam suatu wilayah. Penguat isyarat terdiri dari antena penerima, penguat sinyal, dan antena pengirim sinyal. 
+
+== Tujuan Penguat Sinyal ==
+memudahkan para pengguna seluler dan jaringan telekomunikasi untuk mendapatkan isyarat yang baik dan kuat dengan jaringan nirkabel atau [[wireless]], sehingga komunikasi menjadi lebih lancar dan lebih baik.
+
+== Jenis-Jenis Penguat Sinyal ==
+penguat isyarat di bagi menjadi 3 frekuensi :
+* '''GSM'''
+Untuk komunikasi bergerak, penguat isyarat bekerja pada frekuensi 900 MHz dan 1800 MHz ([[GSM]]). Oleh karena hambatan yang terjadi antara base station dengan mobile station, misalnya karena struktur bangunan, material penghalang lain atau jarak yang jauh, isyarat yang diterima oleh perangkat seluler dapat mempunyai kualitas yang rendah. Kualitas yang rendah ini dapat mengakibatkan komunikasi menjadi tergganggu, mulai dari putus-putus sanpai [[drop call]]. Dengan penggunaan "GSM Repeater" maka isyarat yang lemah ini diambil dan dikuatkan dengan bantuan antena yagi untuk outdoor antenna kemudian diteruskan melalui coaxial ke unit "repeater". Unit "repeater" ini difilter dengan band pass filter di frekuensi 800 atau 1800. Kemudian disalurkan ke indoor antenna melalui [[coaxial]] untuk dipancarkan ulang di dalam ruangan. Syarat utama penggunaan GSM repeater ini harus terdapat minimal input sinyal. 
+
+* '''CDMA'''
+cdma yang bergerak pada frekuensi 800Mhz, dan bekerja pada teknologi 2G. frekuensi [[CDMA]] memang kurang memiliki isyarat yang baik jika di bandingkan dengan isyarat GSM. Code division multiple access (CDMA) adalah sebuah bentuk pemultipleksan (bukan sebuah skema pemodulasian) dan sebuah metode akses secara bersama yang membagi kanal tidak berdasarkan waktu (seperti pada TDMA) atau [[frekuensi]] (seperti pada FDMA), namun dengan cara mengkodekan data dengan sebuah kode khusus yang diasosiasikan dengan tiap kanal yang ada dan menggunakan sifat-sifat interferensi konstruktif dari kode-kode khusus itu untuk melakukan pemultipleksan. Dengan penggunaan "CDMA Repeater" maka isyarat yang lemah ini diambil dan dikuatkan dengan bantuan antena yagi untuk outdoor antenna kemudian diteruskan melalui coaxial ke unit "repeater". Unit "repeater" ini difilter dengan band pass filter di frekuensi 800Mhz. Kemudian disalurkan ke indoor antenna melalui coaxial untuk dipancarkan ulang di dalam ruangan. 
+
+* '''3G'''
+[[3G]] (dari bahasa Inggris: third-generation technology) merupakan sebuah standar yang ditetapkan oleh [[International Telecommunication Union]] (ITU) yang diadopsi dari IMT-2000[1] untuk diaplikasikan pada jaringan telepon selular. Istilah ini umumnya digunakan mengacu kepada perkembangan teknologi telepon nirkabel versi ke-tiga. Melalui 3G, pengguna telepon selular dapat memiliki akses cepat ke internet dengan [[bandwidth]] sampai 384 kilobit setiap detik ketika alat tersebut berada pada kondisi diam atau bergerak secepat pejalan kaki. Akses yang cepat ini merupakan andalan dari 3G yang tentunya mampu memberikan fasilitas yang beragam pada pengguna seperti menonton video secara langsung dari internet atau berbicara dengan orang lain menggunakan video. 3G mengalahkan semua pendahulunya, baik GSM maupun GPRS. Beberapa perusahaan seluler dunia akan menjadikan 3G sebagai standar baru jaringan nirkabel yang beredar di pasaran ataupun negara berkembang.
+
+== Manfaat dari Penguat Sinyal ==
+* koneksi tidak terputus-putus saat anda melakukan koneksi internet, kecuali memang jaringan operator yang lagi bermasalah.
+* isyarat menjadi stabil dan tidak naik-turun, ini lebih baik karena menjadikan koneksi lancar.
+* menjadikan modem tidak cepat panas, karena biasanya modem cepat panas disebabkan oleh penerimaan isyarat yang tidak stabil.
+* memperlama masa pakai baterai, karena jika isyarat kurang baik maka selular akan lebih banyak menguras baterai.
+* komunikasi semakin lancar sekalipun di daerah terpencil dan sangat jauh dari pemukiman kota.
+
+[[Kategori:Komunikasi nirkabel]]

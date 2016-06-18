@@ -1,0 +1,108 @@
+Dassault Hirondelle
+{{Infobox Aircraft
+  |name = M.D.320 Hirondelle
+  |image = 
+  |caption = 
+  |type = Utility transport
+  |manufacturer = [[Dassault Aviation]]
+  |designer = 
+  |first flight =11 September 1968
+  |introduced = 
+  |introduction= 
+  |retired = 
+  |status = 
+  |primary user = 
+  |more users = 
+  |produced = 
+  |number built = 1
+  |unit cost = 
+  |developed from = 
+  |variants with their own articles = 
+}}
+
+'''Dassault MD320 Hirondelle''' adalah sebuah pesawat utilitas transportasi [[turboprop|bermesin turboprop]] sayap rendah (low wing) [[Perancis]] 14-kursi pada 1960-an, didesain dan dibangun oleh [[Dassault Aviation]]. Hanya satu pesawat dibuat.
+
+== Spesifikasi (M.D.320 Hirondelle) ==
+{{Aircraft specifications
+|plane or copter?=plane
+|jet or prop?=prop
+|ref=The Illustrated Encyclopedia of Aircraft (Part Work 1982-1985)
+|crew=Two
+|capacity= 8 to 12 passengers depending on seating configuration
+|length main= 40.19 ft
+|length alt= 12.25 m
+|span main= 47.74 ft
+|span alt= 14.55 m
+|height main= 
+|height alt= 
+|area main= 290.64 ft
+|area alt= 27 m
+|airfoil=
+|empty weight main= 7,716 lb
+|empty weight alt= 3,500 kg
+|loaded weight main=  
+|loaded weight alt=   
+|useful load main=  
+|useful load alt=  
+|max takeoff weight main= 11,905 lb
+|max takeoff weight alt= 5,400 kg
+|more general=
+|engine (prop)=[[Turbomeca Astazou|Turbomeca Astazou XIVD]] 
+|type of prop=turboprop
+|number of props=2
+|power main= 920 ehp
+|power alt= 686 kW
+|power original=
+   
+|max speed main= 311 mph
+|max speed alt= 500 km/h
+|cruise speed main= 
+|cruise speed alt= 
+|never exceed speed main=  
+|never exceed speed alt=  
+|stall speed main=  
+|stall speed alt=  
+|range main= 1,864 miles
+|range alt= 3,000 km
+|ceiling main= 16,405 ft
+|ceiling alt= 5,000 m
+|climb rate main= 
+|climb rate alt= 
+|loading main= lb/ft
+|loading alt= 
+|thrust/weight=<!-- a unitless ratio -->
+|power/mass main= 
+|power/mass alt= 
+|more performance=
+|armament=
+|avionics=
+
+}}
+
+== Lihat pula ==
+{{Aircontent
+<!-- include as many lines are appropriate. additional lines/entries with carriage return. -->
+|related=<!-- related developments -->
+|similar aircraft=<!-- similar or comparable aircraft -->
+* [[Dassault Communaut]]
+|sequence=<!-- designation sequence, if appropriate -->
+|lists=<!-- related lists -->
+|see also=<!-- other relevant information -->
+
+}}
+== Referensi ==
+{{Reflist}}
+{{refbegin}}
+* {{cite book|last=|first=|authorlink=|coauthors=|title= The Illustrated Encyclopedia of Aircraft (Part Work 1982-1985)|year=|publisher= Orbis Publishing|location=|issn=}}
+* [http://www.dassault-aviation.com/fr/passion/avions/dassault-civils/md-320.html Dassault website (in French)]
+* [http://www.dassaultfalcon.com/whatsnew/falconer_article.jsp?DOCNUM=40083&IDOCNUM=40082 Information on Hirondelle program]
+* [http://www.frenchnavy.free.fr/aircraft/falcon-10/falcon-10.htm Description of Hirondelle program]
+{{refend}}
+
+{{Pesawat Dassault}}
+{{pesawat-stub}}
+
+[[Kategori:Pesawat terbang sipil]]
+[[Kategori:Pesawat terbang Dassault|Hirondelle]]
+[[Kategori:Pesawat terbang bermesin turboprop]]
+[[Kategori:Pesawat terbang sayap rendah]]

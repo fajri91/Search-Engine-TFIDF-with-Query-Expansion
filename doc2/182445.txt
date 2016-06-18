@@ -1,0 +1,3 @@
+Templat:Pengguna mahasiswa STAIN Curup
+{{userbox|crimson|Chocolate|[[Berkas:STAIN Curup.png|50px]]|<center>Pengguna ini '''pernah''' menjalani pendidikan di '''[[STAIN Curup]]'''|border-color=black}}{{#if:{{{kat|}}}||<includeonly>
+[[Kategori:Pengguna mahasiswa STAIN Curup|{{PAGENAME}}]]</includeonly>}}<noinclude>[[Kategori:Templat userbox pendidikan]]</noinclude>

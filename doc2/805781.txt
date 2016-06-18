@@ -1,0 +1,28 @@
+Berkas:Beaufortposter.jpg
+{{dari|en}}
+== Penjelasan ==
+{{Non-free use rationale poster|Media=film
+|Article           = Beaufort (film)
+|Use               = Infobox
+<!-- ADDITIONAL INFORMATION -->
+|Name              = Beaufort
+|Distributor       = [[United King Films]]<br />[[Kino International (company)|Kino International]]
+|Publisher         = 
+|Type              = 
+|Website           = http://www.newestposters.com/poster/4070
+|Owner             = 
+|Commentary        = 
+<!--OVERRIDE FIELDS -->
+|Description       = 
+|Source            = 
+|Portion           = 
+|Low_resolution    = 
+|Purpose           = <!-- Must be specified if Use is not Infobox / Header / Section / Artist -->
+|Replaceability    = 
+|other_information = 
+}}
+
+[http://www.newestposters.com/poster/4070]
+
+== Lisensi ==
+{{Non-free poster|image has rationale=yes}}

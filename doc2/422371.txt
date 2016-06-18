@@ -1,0 +1,119 @@
+Matius 14
+{{Bible chapter|letname= {{PAGENAME}} |previouslink= Matius 13 |previousletter= pasal 13 |nextlink= Matius 15 |nextletter= pasal 15 |book=[[Injil Matius]] |biblepart=[[Perjanjian Baru]] | booknum= 1 |category= [[Injil]] | filename= P103-Mat-13 55-56-POxy4403-II-III.jpg |size=250px | name=P103-Mat-13 55-56-POxy4403-II-III |caption=<div style="width: 250px; text-align: center; line-height: 1em">[[Injil Matius]] 13:55-56 pada bagian depan (''recto'') potongan naskah [[Papirus 103]], yang ditulis sekitar abad ke-2 atau ke-3 M. Sisi baliknya memuat Matius 14:3-5.</div>}}
+
+'''Matius 14''' (disingkat '''Mat 14''') adalah bagian dari [[Injil Matius]] pada [[Perjanjian Baru]] dalam [[Alkitab]] [[Kristen]], yang disusun menurut catatan dan kesaksian [[Matius]], salah seorang dari [[Keduabelas Rasul]] [[Yesus]] [[Kristus]].<ref name="Marxsen">Willi Marxsen. ''Introduction to the New Testament''. Pengantar Perjanjian Baru: pendekatan kristis terhadap masalah-masalahnya. Jakarta:Gunung Mulia. 2008. ISBN:9789794159219.</ref><ref name="Drane">John Drane. ''Introducing the New Testament''. Memahami Perjanjian Baru: Pengantar historis-teologis. Jakarta:Gunung Mulia. 2005. ISBN:9794159050.</ref><ref>Hill, David. ''The Gospel of Matthew''. Grand Rapids: Eerdmans, 1981</ref><ref name="Schweizer">[[:en:Eduard Schweizer|Schweizer, Eduard]]. ''The Good News According to Matthew.'' Atlanta: John Knox Press, 1975</ref>
+
+== Teks ==
+* Naskah aslinya diyakini ditulis dalam [[bahasa Yunani]], meskipun ada catatan mengenai beredarnya versi [[bahasa Ibrani]]/[[bahasa Aram|Aram]].
+* Sejumlah naskah tertua yang memuat salinan pasal ini antara lain adalah 
+** [[Papirus 103]] (diperkirakan dibuat sekitar 200 M; hanya tersisa ayat 3-5)
+** [[Codex Vaticanus]] (~325-350 M)
+** [[Codex Sinaiticus]] (~330-360 M)
+** [[Codex Bezae]] (~400 M)
+** [[Codex Washingtonianus]] (~400 M)
+** [[Codex Ephraemi Rescriptus]] (~450 M)
+* [[Pasal dan ayat dalam Alkitab|Pasal ini dibagi atas]] 36 ayat.
+
+== Tempat ==
+{{Location map+
+| Israel northern
+| width=250
+| float=right
+| label=[[Tanah Israel|Israel utara]]
+| caption= Tempat-tempat yang berkaitan dengan peristiwa-peristiwa dalam pasal ini.
+| places= {{Location map~| Israel northern
+|lat=32.88111|long= 35.575
+     |mark= Red_pog.svg
+     |marksize= 6 
+     |label= [[Kapernaum]]
+     |label_size= 100
+     |position= left
+    }}{{Location map~| Israel northern
+|lat=32.91 |long= 35.631
+     |mark=Blue_pog.svg
+     |marksize=6 
+     |label= [[Betsaida]]
+     |label_size= 100
+     |position= right
+    }}{{Location map~| Israel northern
+|lat=33.1|long=35.3
+     |mark=Red_pog.svg
+     |marksize=1
+     |label= ''[[Galilea]]''
+     |label_size=80
+     |position=bottom
+    }}{{Location map~| Israel northern
+|lat=33.1 | long=35.9
+     |mark=Red_pog.svg
+     |marksize=1
+     |label= ''[[Gaulanitis]]''
+     |label_size=80
+     |position=bottom
+    }}{{Location map~| Israel northern
+|lat=32.75 | long=35.9
+     |mark=Red_pog.svg
+     |marksize=1
+     |label= ''[[Genesaret]]''
+     |label_size=80
+     |position= top
+    }}{{Location map~| Israel northern
+|lat=32.75 |long= 35.56
+     |mark=Blue_pog.svg
+     |marksize=1
+     |label=''[[Danau Galilea]]''
+     |label_size=80 
+     |position=top
+    }}{{Location map~| Israel northern
+|lat=33.2|long=34.8
+     |mark=Red_pog.svg
+     |marksize=1
+     |label= ''[[Laut Tengah]]''
+     |label_size=80
+     |position=right
+    }}
+}}
+Lokasi terjadinya peristiwa-peristiwa dalam pasal ini adalah di
+* [[Kapernaum]], di pantai barat laut [[Danau Galilea]] (atau [[Danau Tiberias]]), yang terletak di wilayah [[Galilea]].<ref>{{Alkitab|Yohanes 6:17}}</ref>
+* daerah bergunung sunyi, dekat sebuah kota yang bernama [[Betsaida]],<ref name="Luk9_10">{{Alkitab|Lukas 9:10}}</ref> di pantai timur laut [[Danau Galilea]],<ref name=seberang>{{Alkitab|Yohanes 6:1}}</ref> di sisi timur [[sungai Yordan]], yang termasuk wilayah [[Gaulanitis]].
+* [[Genesaret]], di sebelah timur [[Danau Galilea]]
+
+== Struktur isi ==
+Pembagian isi pasal (disertai referensi silang dengan bagian Alkitab lain):
+* {{Alkitab|Matius 14:1-12}}  = [[Yohanes Pembaptis]] dibunuh ({{Alkitab|Markus 6:14-29}}; {{Alkitab|Lukas 9:7-9}})
+* {{Alkitab|Matius 14:13-21}} = [[Yesus memberi makan lima ribu orang]] ({{Alkitab|Markus 6:30-44}}; {{Alkitab|Lukas 9:10-17}}; {{Alkitab|Yohanes 6:1-13}})
+* {{Alkitab|Matius 14:22-33}} = [[Yesus berjalan di atas air]] ({{Alkitab|Markus 6:45-52}}; {{Alkitab|Yohanes 6:16-21}})
+* {{Alkitab|Matius 14:34-36}} = [[Yesus menyembuhkan orang-orang sakit di Genesaret]] ({{Alkitab|Markus 6:53-56}})
+
+== Ayat 19 ==
+:''Lalu disuruh-Nya orang banyak itu duduk di rumput. Dan setelah diambil-Nya '''lima roti dan dua ikan''' itu, Yesus menengadah ke langit dan mengucap berkat, lalu memecah-mecahkan roti itu dan memberikannya kepada murid-murid-Nya, lalu murid-murid-Nya membagi-bagikannya kepada orang banyak.''<ref>{{Alkitab|Matius 14:19}}</ref>
+[[Yesus memberi makan lima ribu orang|Mukjizat lima roti dan dua ikan ini]] dicatat dalam keempat Injil ({{Alkitab|Markus 6:34-44}}; {{Alkitab|Lukas 9:10-17}}; {{Alkitab|Yohanes 6:1-14}}). Pentingnya mukjizat ini meliputi sebagai berikut:
+* 1) Mukjizat ini menunjuk kepada [[Yesus]] sebagai '''roti hidup''' (bandingkan {{Alkitab|Yohanes 6:1-71}}), Dialah yang memelihara baik tubuh maupun jiwa.
+* 2) Ini membuktikan kuasa Tuhan untuk mengadakan mukjizat.
+* 3) Ini merupakan contoh dari belas kasihan Yesus terhadap kebutuhan orang yang memerlukan pertolongan ({{Alkitab|Matius 14:14}}; bandingkan {{Alkitab|Keluaran 34:6}}; {{Alkitab|Mikha 7:18}}).
+* 4) Ini mengajarkan bahwa sedikit yang kita miliki, dapat dijadikan berkelimpahan apabila dipersembahkan kepada Tuhan dan diberkati oleh-Nya.<ref name=fulllife>The Full Life Study Bible. Life Publishers International. 1992. Teks Penuntun edisi Bahasa Indonesia. Penerbit Gandum Mas. 1993, 1994.</ref>
+
+== Ayat 36 ==
+[[Berkas:Tzitzit82 cropped.jpg|thumb|right|150px|Seorang pria Yahudi berjalan memakai pakaian dengan jumbai ''[[Tzitzit]]'' di Nachlaot, Yerusalem.]]
+:''Mereka memohon supaya diperkenankan menjamah jumbai jubah-Nya. Dan semua orang yang menjamah-Nya menjadi sembuh.''<ref>{{Alkitab|Matius 14:36}}</ref>
+Referensi silang: [[Markus 6#Ayat 56|Markus 6:56]]<br>
+"Mereka", yaitu orang-orang yang sakit, percaya bahwa dengan menjamah hanya "jumbai" jubah [[Yesus]] [[Kristus]] mereka menjadi sembuh, dan iman mereka itu diterima oleh Yesus, sehingga mereka benar-benar sembuh. Kata "jumbai" ini diterjemahkan dari bahasa Yunani "''kraspedon''" yang merupakan terjemahan dari bahasa Ibrani "''[[tzitzit]]''" yang wajib dipakai oleh setiap orang Israel menurut perintah Allah dalam [[Taurat]].<ref>Lihat [[Bilangan 15]] untuk peraturan mengenai ''[[tzitzit]]'', khususnya {{Alkitab|Bilangan 15:37-41}}</ref>
+
+== Referensi ==
+{{reflist}}
+
+== Lihat pula ==
+* [[Danau Galilea]]
+* [[Filipus bin Herodes]]
+* [[Genesaret]]
+* [[Herodes Antipas]]  
+* [[Herodias]]
+* [[Mujizat Yesus]]
+* [[Tzitzit]]
+* [[Yesus memberi makan lima ribu orang]]
+* [[Yohanes Pembaptis]]
+* Bagian [[Alkitab]] yang berkaitan: [[Bilangan 15]], [[Matius 15]], [[Markus 6]], [[Markus 8]], [[Lukas 9]], [[Yohanes 6]]
+
+== Pranala luar ==
+{{Matius}}
+
+[[Kategori:Injil Matius|14]]

@@ -1,0 +1,60 @@
+Metode ilmiah
+'''Metode ilmiah''' atau '''proses ilmiah''' ({{lang-en|scientific method}}) merupakan proses ke[[ilmu]]an untuk memperoleh [[pengetahuan]] secara sistematis berdasarkan bukti fisis. Ilmuwan melakukan [[pengamatan]] serta membentuk [[hipotesis]] dalam usahanya untuk menjelaskan [[fenomena]] [[alam]]. [[Prediksi]] yang dibuat berdasarkan hipotesis tersebut diuji dengan melakukan [[eksperimen]]. Jika suatu [[hipotesis]] lolos uji berkali-kali, hipotesis tersebut dapat menjadi suatu [[teori]] ilmiah.
+
+== Unsur metode ilmiah ==
+Unsur utama metode ilmiah adalah pengulangan empat langkah berikut:
+# [[#Karakterisasi|Karakterisasi]] ([[pengamatan]] dan [[pengukuran]])
+# [[#Pembentukan hipotesis|Hipotesis]] (penjelasan teoretis yang merupakan dugaan atas hasil pengamatan dan pengukuran)
+# [[#Prediksi dari hipotesis|Prediksi]] ([[deduksi]] [[logika|logis]] dari [[hipotesis]])
+# [[#Eksperimen|Eksperimen]] (pengujian atas semua hal di atas)
+
+===DNA/contoh===
+:Setiap langkah diilustrasikan dengan contoh dari penemuan struktur [[DNA]]:
+:# ''[[#DNA/karakterisasi(1)|DNA/karakterisasi]]''
+:# ''[[#DNA/hipotesis(2)|DNA/hipotesis]]''
+:# ''[[#DNA/prediksi(3)|DNA/prediksi]]''
+:# ''[[#DNA/eksperimen(4)|DNA/eksperimen]]''
+:Contoh tersebut dilanjutkan pada tahap [[#Evaluasi dan pengulangan|"Evaluasi dan pengulangan"]], yaitu ''[[#DNA/pengulangan|DNA/pengulangan]]''.
+
+=== Karakterisasi ===
+Metode ilmiah bergantung pada karakterisasi yang cermat atas subjek investigasi. Dalam proses karakterisasi, ilmuwan mengidentifikasi sifat-sifat utama yang relevan yang dimiliki oleh subjek yang diteliti. Selain itu, proses ini juga dapat melibatkan proses penentuan (definisi) dan pengamatan; [[pengamatan]] yang dimaksud seringkali memerlukan [[pengukuran]] dan/atau perhitungan yang cermat.
+Proses pengukuran dapat dilakukan dalam suatu tempat yang terkontrol, seperti [[laboratorium]], atau dilakukan terhadap objek yang tidak dapat diakses atau dimanipulasi seperti [[bintang]] atau [[populasi dunia|populasi manusia]]. Proses pengukuran sering memerlukan peralatan ilmiah khusus seperti [[termometer]], [[spektroskop]], atau [[voltmeter]], dan kemajuan suatu [[Ilmu#Bidang-bidang keilmuan|bidang ilmu]] biasanya berkaitan erat dengan penemuan peralatan semacam itu. Hasil pengukuran secara ilmiah biasanya ditabulasikan dalam [[tabel]], digambarkan dalam bentuk [[grafik]], atau di[[peta]]kan, dan diproses dengan perhitungan [[statistika]] seperti [[korelasi]] dan [[regresi]].
+==== DNA/karakterisasi ====
+Sejarah penemuan struktur [[DNA]] merupakan contoh klasik dari [[#Unsur metode ilmiah|empat tahap metode ilmiah]]: pada tahun [[1950]] telah diketahui bahwa [[pewarisan genetik]] memiliki deskripsi matematis, diawali oleh penelitian [[Gregor Mendel]], namun mekanisme gen tersebut belumlah diketahui dengan jelas. Para peneliti di laboratorium [[William Lawrence Bragg]] di [[Universitas Cambridge]] membuat gambar-gambar [[difraksi]] [[sinar-X]] atas berbagai macam [[molekul]]. Berdasarkan susunan kimianya, dirasakan mungkin untuk mengkarakterisasikan struktur fisis DNA dengan gambar sinar-X. ''[[#DNA/hipotesis(2)|Lihat: DNA 2]] ''
+
+=== Karakterisasi ===
+Metode ilmiah bergantung pada karakterisasi yang cermat atas subjek investigasi. Dalam proses karakterisasi, ilmuwan mengidentifikasi sifat-sifat utama yang relevan yang dimiliki oleh subjek yang diteliti. Selain itu, proses ini juga dapat melibatkan proses penentuan (definisi) dan pengamatan; [[pengamatan]] yang dimaksud seringkali memerlukan [[pengukuran]] dan/atau perhitungan yang cermat.
+Proses pengukuran dapat dilakukan dalam suatu tempat yang terkontrol, seperti [[laboratorium]], atau dilakukan terhadap objek yang tidak dapat diakses atau dimanipulasi seperti [[bintang]] atau [[populasi dunia|populasi manusia]]. Proses pengukuran sering memerlukan peralatan ilmiah khusus seperti [[termometer]], [[spektroskop]], atau [[voltmeter]], dan kemajuan suatu [[Ilmu#Bidang-bidang keilmuan|bidang ilmu]] biasanya berkaitan erat dengan penemuan peralatan semacam itu. Hasil pengukuran secara ilmiah biasanya ditabulasikan dalam [[tabel]], digambarkan dalam bentuk [[grafik]], atau di[[peta]]kan, dan diproses dengan perhitungan [[statistika]] seperti [[korelasi]] dan [[regresi]].
+Pengukuran dalam karya ilmiah biasanya juga disertai dengan estimasi [[ketidakpastian]] hasil pengukuran tersebut. Ketidakpastian tersebut sering diestimasikan dengan melakukan pengukuran berulang atas kuantitas yang diukur
+==== DNA/hipotesis ====
+:Sebagai contoh, dalam usaha untuk menentukan struktur [[DNA]], [[Francis Crick]] dan [[James Watson]] menghipotesiskan bahwa molekul tersebut memiliki struktur heliks: dua spiral yang saling memilin. [[Linus Pauling]] yang baru akan melakukan studi serius terhadap molekul tersebut menghipotesiskan struktur heliks ganda tiga. ''[[#DNA/karakterisasi(1)|Lihat: DNA 1]]|[[#DNA/prediksi(3)|...DNA 3]]''
+
+=== Prediksi dari hipotesis ===
+Hipotesis yang berguna akan memungkinkan [[prediksi]] berdasarkan [[deduksi]]. 
+Prediksi tersebut mungkin meramalkan hasil suatu [[eksperimen]] dalam laboratorium atau pengamatan suatu fenomena di alam. Prediksi tersebut dapat pula bersifat [[statistika|statistik]] dan hanya berupa [[probabilitas]]. 
+Hasil yang diramalkan oleh prediksi tersebut haruslah belum diketahui kebenarannya (apakah benar-benar akan terjadi atau tidak). Hanya dengan demikianlah maka terjadinya hasil tersebut menambah probabilitas bahwa hipotesis yang dibuat sebelumnya adalah benar. Jika hasil yang diramalkan sudah diketahui, hal itu disebut konsekuensi dan seharusnya sudah diperhitungkan saat [[#Pembentukan hipotesis|membuat hipotesis]].
+Jika prediksi tersebut tidak dapat diamati, hipotesis yang mendasari prediksi tersebut belumlah berguna bagi metode bersangkutan dan harus menunggu metode yang mungkin akan datang. Sebagai contoh, [[teknologi]] atau [[teori]] baru boleh jadi memungkinkan eksperimen untuk dapat dilakukan.
+==== DNA/prediksi ====
+:Setelah Watson dan Crick menghipotesiskan bahwa DNA merupakan heliks ganda, Francis Crick memprediksikan bahwa gambar [[difraksi]] [[sinar-X]] DNA akan menunjukkan suatu bentuk huruf X. ''[[DNA/karakterisasi(1)|Lihat: DNA 1]] | [[#DNA/eksperimen(4)|...DNA 4]]''
+
+=== Eksperimen ===
+Setelah prediksi dibuat, hasilnya dapat diuji dengan eksperimen. Jika hasil eksperimen bertentangan dengan prediksi, maka hipotesis yang sedang diuji tidaklah benar atau tidak lengkap dan membutuhkan perbaikan atau bahkan perlu ditinggalkan. Jika hasil eksperimen sesuai dengan prediksi, maka hipotesis tersebut boleh jadi benar namun masih mungkin salah dan perlu [[#Evaluasi dan pengulangan|diuji lebih lanjut]].
+Hasil eksperimen tidak pernah dapat membenarkan suatu hipotesis, melainkan meningkatkan probabilitas kebenaran hipotesis tersebut. Hasil eksperimen secara mutlak bisa menyalahkan suatu hipotesis bila hasil eksperimen tersebut bertentangan dengan prediksi dari hipotesis.
+Bergantung pada prediksi yang dibuat, berupa-rupa eksperimen dapat dilakukan. Eksperimen tersebut dapat berupa eksperimen klasik di dalam [[laboratorium]] atau [[ekskavasi]] [[arkeologi]]s. Eksperimen bahkan dapat berupa mengemudikan [[pesawat]] dari [[New York]] ke [[Paris]] dalam rangka menguji hipotesis [[aerodinamisme]] yang digunakan untuk membuat pesawat tersebut. 
+Pencatatan yang detail sangatlah penting dalam eksperimen, untuk membantu dalam pelaporan hasil eksperimen dan memberikan bukti efektivitas dan keutuhan prosedur yang dilakukan. Pencatatan juga akan membantu dalam reproduksi eksperimen.
+==== DNA/eksperimen ====
+:Ketika [[James Watson]] meneliti apa yang telah ditemukan [[Rosalind Franklin]] pada gambar difraksi sinar-X DNA buatannya, Watson melihat bentuk huruf X yang telah diprediksikan Crick sebagai struktur heliks. ''[[#DNA/karakterisasi(1)|Lihat: DNA 1]] | [[#DNA/pengulangan|...DNA/pengulangan]]''
+
+== Evaluasi dan pengulangan ==
+Proses ilmiah merupakan suatu proses yang iteratif, yaitu berulang. Pada [[#Unsur metode ilmiah|langkah yang manapun]], seorang ilmuwan mungkin saja mengulangi langkah yang lebih awal karena pertimbangan tertentu. Ketidakberhasilan untuk membentuk hipotesis yang menarik dapat membuat ilmuwan mempertimbangkan ulang subjek yang sedang dipelajari. Ketidakberhasilan suatu hipotesis dalam menghasilkan prediksi yang menarik dan teruji dapat membuat ilmuwan mempertimbangkan kembali hipotesis tersebut atau definisi subjek penelitian. Ketidakberhasilan eksperimen dalam menghasilkan sesuatu yang menarik dapat membuat ilmuwan mempertimbangkan ulang metode eksperimen tersebut, hipotesis yang mendasarinya, atau bahkan definisi subjek penelitian itu.
+Dapat pula ilmuwan lain memulai penelitian mereka sendiri dan memasuki proses tersebut pada tahap yang manapun. Mereka dapat mengadopsi karakterisasi yang telah dilakukan dan membentuk hipotesis mereka sendiri, atau mengadopsi hipotesis yang telah dibuat dan mendeduksikan prediksi mereka sendiri. Sering kali eksperimen dalam proses ilmiah tidak dilakukan oleh orang yang membuat prediksi, dan karakterisasi didasarkan pada eksperimen yang dilakukan oleh orang lain.
+==== DNA/pengulangan ====
+:Watson dapat mendeduksikan struktur utama [[DNA]] dengan menggunakan [[model]] konkret bentuk fisik [[nukleotida]] yang menyusun DNA. Dia menggunakan acuan panjang [[ikatan kimia]] yang telah dideduksikan oleh [[Linus Pauling]]. Diawali dengan penemuan oleh [[James Watson]] dan [[Francis Crick]] tersebut, lahirlah bidang ilmu baru: [[biologi molekular]]. ''[[#DNA/karakterisasi(1)|Lihat: DNA 1]]''
+
+== Pranala luar ==
+* {{en}} [http://www.freeinquiry.com/intro-to-sci.html An Introduction to Science: Scientific Thinking and a scientific method] oleh Steven D. Schafersman.
+* {{en}} [http://teacher.nsrl.rochester.edu/phy_labs/AppendixE/AppendixE.html Introduction to a scientific method]
+
+[[Kategori:Ilmu]]
+
+[[de:Wissenschaftliche Arbeit]]

@@ -1,0 +1,24 @@
+Bahasa perakit
+'''Assembler''' adalah sebuah [[program komputer]] untuk menerjemahkan [[Bahasa Assembly]] -- intinya, sebuah representasi [[menmonic]] dari [[bahasa mesin]]  menjadi [[kode objek]]. Sebuah '''assembler silang''' (lihat [[kompilator silang]]) memproduksi kode untuk satu jenis [[prosesor]], tetapi dapat dijalankan di prosesor lain. 
+
+Selain menterjemahkan instruksi assembly mnemonic menjadi [[opcode]], assembler juga menyediakan kemampuan untuk menggunakan nama simbolik untuk lokasi memori (menghindari penghitungan rumit dan pembaruan alamat secara manual ketika sebuah program diubah sedikit), dan fasilitas [[makro]] untuk melakukan penggantian textual  biasanya digunakan untuk menggantikan suatu urutan instruksi yang pendek untuk dijalankan perbaris dan bukan dalam sebuah [[subrutin]].
+
+Assembler jauh lebih mudah ditulis daripada [[kompilator]] untuk [[bahasa tingkat-tinggi]], dan telah tersedia sejak [[1950-an]]. Assembler modern, terutama untuk arsitektur berdasarkan [[RISC]], seperti [[arsitektur MIPS]], Sun [[SPARC]], dan HP [[PA-RISC]], mengoptimalkan [[penjadwalan instruksi]] untuk menggunakan [[pipeline CPU]] secara efisien.
+
+== Lihat pula ==
+* [[kompilator]]
+* [[bahasa assembly x86|assembler x86]]
+* bahasa asembly z80
+
+== Pranala luar ==
+* [http://www.gnu.org/software/lightning/lightning.html GNU lightning is a library that generates assembly language code at run-time ... ideal for Just-In-Time compilers]
+* [http://linuxassembly.org/ "information on assembly programming under different platforms: IA32 (x86), IA64 (Itanium), x86-64, SPARC, Alpha, or whatever platform we find contributors for."]
+* [http://terse.com/ "Terse: Algebraic Assembly Language for x86"]
+* [http://www.program-transformation.org/ The Program Transformation Wiki]
+* [http://c2.com/cgi/wiki?LearningAssemblyLanguage C2: Learning Assembly Language]
+
+[[Kategori:Assembler| ]]
+[[Kategori:Bahasa pemrograman]]
+
+[[en:Assembly language#Assembler]]
+[[pt:Assembly#Montador]]

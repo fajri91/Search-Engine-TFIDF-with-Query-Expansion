@@ -1,0 +1,37 @@
+Stasiun Pemalang/layout
+{|align=center
+{{BS-table}}
+{{BS3||CONTfa|CONTg|Ke [[Stasiun Suradadi|Suradadi]]}}
+{{BS3||STR+c2|ABZg3|}}
+{{BS3||ABZg+1|STR+c4|}}
+{{BS3||ABZg2|STR+c3|}}
+{{BS3||STR+c1|ABZg+4|}}
+{{BS5|||STR|ABZg2|STRc3|}}
+{{BS5|RP1q|RP1q|RP1q|RP1q|RP1q|O2=STRc2|O3=ABZg3|O4=STR+c1|O5=STR+4|O32=lBUE|O42=lBUE|O52=lBUE}}
+{{BS5||STR+1|STR+c4|STR|STR|}}
+{{BS5||STR|STRf|STRg|STR|}}
+{{BS5||STR+BSlr|STR+BSlr|STR+BSr|STR|}}
+{{BS5||STR+BSlr|STR+BSlr|STR+BSr|STR|}}
+{{BS5|BUILDING|STR+BSlr|STR+BSlr|STR+BSr|STR|O2=num1r|O3=num2r|O4=num3r|O5=num4r}}
+{{BS5|ENDEa|STR+BSlr|STR+BSlr|STR+BSr|STR|}}
+{{BS5|STR|STR+BSlr|STR+BSlr|STR+BSr|STR|}}
+{{BS5|STR+c2|ABZg3|STRf|STRg|STR|}}
+{{BS5|ABZg+1|STR+c4|STR|STR|STR|}}
+{{BS5|STR|STR|STR|STR+c2|STR3|}}
+{{BS5|STR|STR|STR|ABZg+1|STRc4|}}
+{{BS5|ENDEe|STR|STR|STR||}}
+{{BS5||STR|STR|STR||}}
+{{BS5||STR2|STR+c3|STR||}}
+{{BS5||STRc1|ABZg+4|STR||}}
+{{BS5|RP1q|RP1q|SKRZ-G1BUE|SKRZ-G1BUE|RP1q|}}
+{{BS3||ABZg2|STR+c3|}}
+{{BS3||STR+c1|ABZg+4|}}
+{{BS3||STR+c2|ABZg3|}}
+{{BS3||ABZg+1|STR+c4|}}
+{{BS3||CONTf|CONTge|Ke [[Stasiun Petarukan|Petarukan]]}}
+|}
+|}
+
+<noinclude>
+[[Kategori:Layout stasiun|Pemalang]]
+</noinclude>

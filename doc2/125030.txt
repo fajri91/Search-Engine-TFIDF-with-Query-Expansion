@@ -1,0 +1,8 @@
+Portal:Masyarakat/box-header
+{{Portal-Box-header | title={{{1}}} 
+|editpage={{{2}}} 
+|border=red
+|titleforeground=white
+|titlebackground=#f4a460
+|background=white
+|foreground=Black}}

@@ -1,0 +1,23 @@
+Templat:Tilamuta, Boalemo
+{{Navigasi ID Desa
+|nama kecamatan=Tilamuta
+|dati2=Kabupaten
+|nama dati2=Boalemo
+|provinsi=Gorontalo
+|d1= Ayuhulalo
+|d2= Bajo
+|d3= Hungayonaa
+|d4= Lahumbo
+|d5= Lamu
+|d6= Limbato
+|d7= Modelomo
+|d8= Mohungo
+|d9= Pentadu Barat
+|d10= Pentadu Timur
+|d11= Piloliyanga
+|d12= Tenilo
+}}
+<noinclude>
+[[Kategori:Templat desa/kelurahan di Gorontalo|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Boalemo]]
+</noinclude>

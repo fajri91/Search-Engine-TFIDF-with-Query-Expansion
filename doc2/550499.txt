@@ -1,0 +1,14 @@
+Berkas:Plasa Klaten.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+Plasa Klaten (sumber: http://adjiwae.deviantart.com/art/Plasa-Klaten-2-158932784)
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{GFDL}}

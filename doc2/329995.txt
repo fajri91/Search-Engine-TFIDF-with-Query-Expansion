@@ -1,0 +1,169 @@
+Templat:Infobox Eurovision/doc
+{{Documentation subpage}}
+<!-- TAMBAHKAN KATEGORI DAN INTERWIKI DI BAGIAN PALING BAWAH HALAMAN INI -->
+<!-- SUNTING DOKUMENTASI TEMPLAT DI BAWAH INI -->
+
+=== Pemakaian ===
+<!-- EDIT TEMPLATE DOCUMENTATION BELOW THIS LINE -->
+<includeonly>{{intricate template}}</includeonly>
+
+<div style="width:250px; background:#ddd; border:1px solid black; padding:0.5em 1em 0.5em 1em;">
+<pre>
+{{Infobox Eurovision
+|name                = 
+|year                = 
+|theme               =
+|image               = 
+|train               =
+|final               =
+|semi                =
+|semi1               =
+|semi2               =
+|presenters          = 
+|conductor           = 
+|director            = 
+|host                = 
+|venue               = 
+|winner              = 
+|windance            = 
+|vote                = 
+|entries             = 
+|debut               = 
+|return              = 
+|withdraw            = 
+|null                = 
+|opening             = 
+|openingl            =
+|interval            = 
+|intervall           =
+|pre                 =
+|nex                 =
+}}
+</pre>
+</div>
+{{Infobox Eurovision
+|name                = Eurovision Song Contest
+|year                = 2007
+|theme               = ''"True Fantasy"''
+|image               = [[Image:Example.png|100px]]
+|final               = 24 Mei 2008 
+|semi                = 18 Mei 2008
+|semi1               = 20 Mei 2008
+|semi2               = 22 Mei 2008
+|presenters          = [[Jaana Pelkonen]]<br />[[Mikko Leppilampi]]<br />[[Krisse Salminen]]  (pembawa acara tamu)
+|conductor           = [[Willy Berking]]
+|director            = [[Connie Wogan]]
+|host                = {{flagicon|Finlandia}} [[YLE]]
+|venue               = [[Hartwall Areena]], [[Helsinki]], [[Finlandia]]
+|winner              = {{flag|Serbia}}<br />"[[Molitva]]"
+|vote                = Tiap negara mengirimkan lewat televote atau SMS. 10 besar dari negara tersebut akan memberikan poin 1 sampai 8, 10, sampai yang tertinggi 12.  Semua negara memiliki poin untuk ditotal menjadi pemenang, siapa yang tertinggi ialah pemenangnya.
+|entries             = 42 dengan perincian 28 di babak the semi-final, 24 di babak the final, 10 lolos dari babak semifinal.
+|debut               = {{Esc|Republik Ceko}}<br />{{Esc|Georgia}}<br />{{Esc|Montenegro}}<br />{{Esc|Serbia}}
+|return              = {{Esc|Austria}}<br />{{Esc|Hungaria}}
+|withdraw            = {{Esc|Monako}}
+|null                = {{Esc|Perancis}}
+|interval            = [[Apocalyptica]]
+|opening             = Film [[Lordi]] dari [[Rovaniemi]]
+|map = ESC 2007 Map.svg
+|col1 = #22b14c   |tag1 = Kontestan yang ikut
+|col2 = #d40000   |tag2 = Negara yang tidak lolos dari babak semifinal
+|col3 = #ffc20e   |tag3 = Non-partisipan yang pernah ikut
+|prev                = [[Kontes Lagu Eurovision 2007|2007]]
+|next                = [[Kontes Lagu Eurovision 2008|2008]]
+}}
+
+{|class="wikitable"
+|-
+! style="background:#BFDFFF;"|Parameter
+! style="background:#BFDFFF;"|Contents
+|-
+|name||Nama lengkap (misalnya Kontes Lagu Eurovision / Kontes Lagu Eurovision Junior / Kontes Tari Eurovision
+|-
+|year||Tahun dimana kontes tersebut diadakan (misalnya 2009)
+|-
+|[[]]<nowiki>ear</nowiki>||Tahun dimana kontes diadakan (misalnya "1956") ''(Lihat: "[[Kontes Lagu Eurovision 1956]]")''
+|-
+|image||Nama dari foto tersebut. Membutuhkan "<nowiki>[[</nowiki>berkas:".
+|-
+|theme||Tema dari kontes tersebut (e.g. ''"True Fantasy"'')
+|-
+|final||Tanggal dimana babak final diselenggarakan (e.g. 1 Januari 2000)
+|-
+|semi||Tanggal pelaksanaan semifinal (sebelum pengenalan 2 semifinal) (e.g. 1 Januari 2000) ''(Tidak boleh menggunakan "semi" with "semi1 and "semi2")''
+|-
+|semi1||Tanggal dimana semifinal pertama (e.g. 1 Januari 2000) ''(Tidak boleh menggunakan "semi" with "semi1 and "semi2")''
+|-
+|semi2||Tanggal dimana semifinal kedua (e.g. 2 Januari 2000) ''(Tidak boleh menggunakan "semi" with "semi1 and "semi2")''
+|-
+|presenters||Pembawa acara yang membawakan acara tersebut, jika lebih dari satu harap menambahkan <nowiki><br /></nowiki>
+|-
+|conductor||Konduktor yang mengatur kontes
+|-
+|director||Direktur yang mengurus jalannya kontes
+|-
+|host||Penyiar tuan rumah, gunakan: <nowiki>{{flagicon|</nowiki><small>COUNTRY</small><nowiki>}}</nowiki> [[BBC]]
+|-
+|winner||Lagu pemenang Kontes Lagu Eurovision/Kontes Lagu Eurovision Junior, gunakan:<nowiki>{{flag|</nowiki><small>COUNTRY</small><nowiki>}}<br />"[[Song Name]]"</nowiki>
+|-
+|windance||Tari pemenang Kontes Tari Eurovision
+|-
+|vote||Sistem voting yang digunakan
+|-
+|entries||Jumlah negara yang mengikuti kontes
+|-
+|debut||Negara yang pertama kali mengikuti kontes
+|-
+|return||Negara yang kembali ke kontes
+|-
+|return||Negara yang tidak mengikuti kontes
+|-
+|null||Negara yang tidak mendapat poin
+|-
+|Interval||Aksi interval
+|-
+|opening||Aksi pembukaan
+|-
+|map||Peta negara partisipan (contoh "ESC 2007 Map.svg")
+|-
+|col1||Warna pertama menggunakan (contoh "#22b14c")
+|-
+|tag1||Legenda pertama mewakilkan "col1" digunakan dalam peta (contoh "Negara partisipan")
+|-
+|col2||Warna kedua menggunakan (contoh "#d40000")
+|-
+|tag2||Legenda kedua mewakilkan "col2" digunakan dalam peta (contoh "Tidak lolos ke babak final")
+|-
+|col3||Warna ketiga menggunakan (contoh "#ffc20e")
+|-
+|tag3||Legenda ketiga mewakilkan "col3" digunakan dalam peta (contoh "Dulu pernah ikut")
+|-
+|con||Kontes utama (contoh Kontes Lagu Eurovision / Kontes Lagu Eurovision Junior / Kontes Tari Eurovision) ''(Tidak boleh menggunakan  "year" and "ear")''
+|-
+|pre||Kontes sebelum kontes tahun tersebut
+|-
+|nex||Kontes setelah kontes tahun tersebut
+|}
+
+==Microformat==
+{{UF-hcal}}
+
+=== Lihat pula ===
+
+<includeonly>
+<!-- KATEGORI DAN INTERWIKI DITARUH DI SINI -->
+
+[[be-x-old:: ]]
+[[en:Template:Infobox Eurovision]]
+[[fi:Malline:Euroviisu]]
+[[hy:: ]]
+[[ja:Template:Infobox Eurovision]]
+[[ka:: ]]
+[[ky::  ]]
+[[pl:Szablon:Eurowizja konkurs infobox/opis]]
+[[pt:Predefinio:Info/Euroviso]]
+[[ru:: ]]
+[[sk:ablna:Infobox Eurovision]]
+[[sv:Mall:ESC-fakta]]
+[[tt:: ]]
+[[uk:: ]]
+</includeonly>

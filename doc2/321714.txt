@@ -1,0 +1,48 @@
+.30 Remington
+{{Kotakinfo peluru
+|name=.30 Remington
+|image=
+|caption=
+|origin={{flag|Amerika Serikat}}
+|type=Senapan
+<!-- Service history -->
+|service= 
+|used_by=
+|wars= 
+<!-- Production history -->
+|designer=[[Remington Arms]]
+|design_date=1906
+|manufacturer=[[Remington Arms]]
+|production_date=1906-1980an
+|number= 
+|variants= 
+<!-- Specifications -->
+|parent=
+|case_type=Rimless
+|bullet=.308 in (7.8 mm)
+|neck=
+|shoulder=
+|base=
+|rim_dia=.421 in (10.7 mm)
+|rim_thick=.045 in (1.1 mm)
+|case_length= 2.06 in (52 mm)
+|length=2.525 in (64.1 mm)
+|case_capacity=
+|rifling=
+|primer=
+|max_pressure=
+|max_cup=
+|filling=
+|filling_weight=
+|detonation=
+|yield=
+}}
+
+Peluru '''.30 Remington''' merupakan jawaban dari kebutuhan peluru versi ''rimless'' .30-30 Winchester. Dirancang dan dibuat pertama kali pada pada tahun [[1906]] sampai dengan akhir [[1980an]] oleh perusahaan [[senjata]] dan [[amunisi]] [[Remington Arms]]. Selongsong dari peluru ini dipakai oleh peluru [[10 mm Auto]]<ref>{{cite book|last =Donnelly|first =John J. |title = The Handloader's Manual of Cartridge Conversions|year =1987|publisher =Stoeger Publishing|page = 941|pages = 1055|isbn = 978-0883172698}}</ref><ref>{{cite book|last =Howell|first =Ken|title =Designing and Forming Custom Cartridges|year =1995|publisher =Precision Shooting|page = 546|pages = 596|isbn = 0-9643623-0-9}}</ref> dan peluru [[6,8 mm Remington SPC]].
+
+== Catatan kaki ==
+{{reflist}}
+{{refbegin}}
+{{refend}}
+
+[[Kategori:Peluru]]

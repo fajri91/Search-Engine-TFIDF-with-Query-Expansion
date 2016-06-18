@@ -1,0 +1,120 @@
+Suhu
+[[Berkas:Pakkanen.jpg|thumb|Air akan mulai membeku pada suhu 0 Celsius (di gambar ini suhu udara -17 C)]]
+
+'''Suhu''' menunjukkan derajat [[panas]] benda. Mudahnya, semakin tinggi suhu suatu benda, semakin panas benda tersebut. Secara mikroskopis, suhu menunjukkan [[energi]] yang dimiliki oleh suatu benda. Setiap [[atom]] dalam suatu benda masing-masing bergerak, baik itu dalam bentuk perpindahan maupun gerakan di tempat [[getaran]]. Makin tingginya energi atom-atom penyusun benda, makin tinggi suhu benda tersebut.
+
+[[Berkas:MonthlyMeanT.gif|thumb|right|300px|Sebuah peta global jangka panjang suhu udara permukaan rata-rata bulanan dalam proyeksi Mollweide.]]
+
+Suhu juga disebut temperatur yang diukur dengan alat [[termometer]]. Empat macam termometer yang paling dikenal adalah '''[[Celsius|C]]'''[[Celsius|elsius]], '''[[Skala Raumur|R]]'''[[Skala Raumur|eaumur]], '''[[Fahrenheit|F]]'''[[Fahrenheit|ahrenheit]] dan '''[[Kelvin|K]]'''[[Kelvin|elvin]]. Perbandingan antara satu jenis termometer dengan termometer lainnya mengikuti:
+: C:R:(F-32) = 5:4:9
+: K = C + 273.(derajat)
+Karena dari Kelvin ke derajat Celsius, Kelvin dimulai dari 273 derajat, bukan dari -273 derajat. Dan derajat Celsius dimulai dari 0 derajat.
+Suhu Kelvin sama perbandingan nya dengan derajat Celsius yaitu 5:5, maka dari itu, untuk mengubah suhu tersebut ke suhu yang lain, sebaiknya menggunakan atau mengubahnya ke derajat Celsius terlebih dahulu, karena jika kita menggunakan Kelvin akan lebih rumit untuk mengubahnya ke suhu yang lain.
+Contoh:
+K=R
+4/5X[300-273]
+daripada:
+C=R
+4/5X27
+Sebagai contoh:
+: <math>C = \frac{5}{9} \left({F - 32}\right)</math> dan <math> F = \frac{9}{4}{R + 32}</math>.
+
+== Alat ukur ==
+: ''Artikel utama: [[Termometer]]''
+
+Secara kualitatif, kita dapat mengetahui bahwa suhu adalah sensasi dingin atau hangatnya sebuah benda yang dirasakan ketika menyentuhnya.
+Secara kuantitatif, kita dapat mengetahuinya dengan menggunakan [[termometer]].
+Suhu dapat diukur dengan menggunakan termometer yang berisi [[raksa|air raksa]] atau [[alkohol]].
+Kata termometer ini diambil dari dua kata yaitu ''thermo'' yang artinya panas dan ''meter'' yang artinya mengukur (''to measure'').
+
+=== Tipe termometer ===
+Beberapa tipe termometer antara lain:
+* [[termometer alkohol]]
+* [[termometer basal]]
+* [[termometer merkuri]]
+* [[termometer oral]]
+* [[termometer Galileo]]
+* [[termometer infra merah]]
+* [[termometer cairan kristal]]
+* [[termistor]]
+* ''bi-metal mechanical thermometer''
+* ''electrical resistance thermometer''
+* ''reversing thermometer''
+* ''silicon bandgap temperature sensor''
+* ''six's thermometer'', juga dikenal sebagai ''maximum minimum thermometer''
+* [[termokopel]]
+* ''coulomb blockade thermometer''
+
+=== Termometer yang sering digunakan ===
+Termometer yang biasanya dipakai sebagai berikut:
+==== Termometer bulb (air raksa atau alkohol) ====
+* Menggunakan gelembung besar (''bulb'') pada ujung bawah tempat menampung cairan, dan tabung sempit (lubang kapiler) untuk menekankan perubahan [[volume]] atau tempat [[pemuaian]] cairan.
+* Berdasar pada prinsip suatu cairan volumenya berubah sesuai temperatur. Cairan yang diisikan kadang-kadang [[alkohol]] yang berwarna tetapi juga bisa cairan metalik yang disebut [[merkuri]], keduanya memuai bila dipanaskan dan menyusut bila didinginkan.
+* Ada nomor disepanjang tuba gelas yang menjadi tanda besaran temperatur.
+* Keutungan termometer bulb antara lain tidak memerlukan alat bantu, relatif murah, tidak mudah terkontaminasi bahan kimia sehingga cocok untuk laboratorium kimia, dan [[konduktivitas]] panas rendah.
+* Kelemahan termometer bulb antara lain mudah pecah, mudah terkontaminasi cairan (alkohol atau merkuri), kontaminasi gelas/kaca, dan prosedur pengukuran yang rumit (pencelupan).
+* Penggunaan thermometer bulb harus melindungi bulb dari benturan dan menghindari pengukuran yang melebihi skala termometer.
+* Sumber kesalahan termometer bulb:
+:- ''time constant effect'', waktu yang diperlukan konduksi panas dari luar ke tengah batang kapiler{{br}}
+:- ''thermal capacity effect'', apabila massa yang diukur relatif kecil, akan banyak panas yang diserap oleh termometer dan mengurangi suhu sebenarnya{{br}}
+:- cairan (alkohol, merkuri) yang terputus{{br}}
+:- kesalahan pembacaan{{br}}
+:- kesalahan pencelupan{{br}}
+
+==== Termometer spring ====
+* Menggunakan sebuah ''coil'' (pelat pipih) yang terbuat dari [[logam]] yang sensitif terhadap panas, pada ujung spring terdapat ''pointer''.
+* Bila udara panas, ''coil'' (logam) mengembang sehingga ''pointer'' bergerak naik, sedangkan bila udara dingin logam mengkerut ''pointer'' bergerak turun. Secara umum termometer ini paling rendah keakuratannya di banding termometer bulb dan digital.
+* Penggunaan termometer spring harus selalu melindungi pipa kapiler dan ujung sensor (probe) terhadap benturan/ gesekan. Selain itu, pemakaiannya tidak boleh melebihi suhu skala dan harus diletakkan di tempat yang tidak terpengaruh getaran...
+
+==== Termometer nonkontak ====
+[[Termometer infra merah]], mendeteksi temperatur secara optik selama objek diamati, radiasi energi sinar infra merah diukur, dan disajikan sebagai suhu, dengan mengetahui jumlah energi infra merah yang dipancarkan oleh objek dan emisinya, temperatur objek dapat dibedakan.
+==== Termometer elektronik ====
+Ada dua jenis yang digunakan di pengolahan, yakni ''thermocouple'' dan ''resistance thermometer''. Biasanya, industri menggunakan nominal resistan 100 ohm pada 0&nbsp;C sehingga disebut sebagai sensor Pt-100. Pt adalah simbol untuk platinum, sensivitas standar sensor 100 ohm adalah nominal 0.385 ohm/C, RTDs dengan sensivitas 0.375 dan 0.392 ohm/C juga tersedia.
+
+== Satuan ==
+{| class="wikitable"
+|-
+! 
+! Celsius !! Reamur !! Fahrenheit !! Kelvin
+|-
+| Titik didih || 100 || 80 || 212 || 373
+|-
+| Titik beku || 0 || 0 || 32 || 273
+|-
+| Selisih kedua titik || 100 || 80 || 180 || 100
+|-
+| perbandingan || 5 || 4 || 9 || 5
+|}
+
+Rumus dari Celcius ke Kelvin = Celcius + 273= ?
+
+Mengacu pada [[SI (satuan ukur)|SI]], satuan suhu adalah [[Kelvin]] (K). Skala-skala lain adalah [[Celsius]], [[Fahrenheit]], dan [[Reamur]].
+
+Pada skala [[Celsius]], 0&nbsp;C adalah titik di mana [[air]] [[pembekuan|membeku]] dan 100&nbsp;C adalah [[titik didih]] air pada tekanan 1 [[Tekanan atmosfer|atmosfer]]. Skala ini adalah yang paling sering digunakan di dunia. Skala Celsius juga sama dengan Kelvin sehingga cara mengubahnya ke Kelvin cukup ditambahkan 273 (atau 273.15 untuk lebih tepatnya).
+
+Skala [[Fahrenheit]] adalah skala umum yang dipakai di [[Amerika Serikat]]. Suhu air membeku adalah 32&nbsp;F dan titik didih air adalah 212&nbsp;F.
+
+Sebagai satuan baku, Kelvin tidak memerlukan tanda derajat dalam penulisannya. Misalnya cukup ditulis suhu 20 K saja, tidak perlu 20 K.
+
+== Konversi skala ==
+{{main|Rumus konversi suhu}}
+Cara mudah untuk mengubah dari [[Celsius]], [[Fahrenheit]], dan [[Reamur]] adalah dengan mengingat perbandingan C:F:R = 5:9:4. Caranya, adalah (Skala tujuan)/(Skala awal)xSuhu. Dari Celsius ke Fahrenheit setelah menggunakan cara itu, ditambahkan
+* 77&nbsp;F pada skala Celsius adalah 5/9 x (77-32) = 25
+
+Suhu paling dingin di bumi pernah dicatat di [[Stasiun Vostok]], [[Antarktika]] pada [[21 Juli]] [[1983]] dengan suhu -89,2&nbsp;C.
+
+=== Daftar rumus skala suhu ===
+Tabel berikut memuat rumus konversi suhu.
+
+{{Daftar Perhitungan Skala Suhu}}
+* Ada kesalahan dalam peletakan rumus*
+atau rumus yang bisa dipakai pada perubahan celcius ke fahrenheit adalah
+C x 1,8 + 32
+dan dari fahrenheit ke celcius
+(F - 32)/1,8
+
+== Lihat pula ==
+* [[Formula konversi temperatur]]
+
+[[Kategori:Suhu| ]]
+[[Kategori:Udara]]

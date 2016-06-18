@@ -1,0 +1,37 @@
+Resin Urea-Formaldehid
+[[Berkas:UreaFormaldehydeResin01.png|right]]
+'''Resin urea-formaldehid''' adalah salah satu contoh [[polimer]] yang merupakan hasil [[kondensasi]] urea dengan formaldehid. Polimer jenis ini banyak digunakan di industri untuk berbagai tujuan seperti bahan [[adesif]] (61%), papan [[fiber]] ber[[densitas]] medium (27%), [[hardwood plywood]] (5%) dan [[laminasi]] (7%) pada produk [[mebelir]] ([[furniture]]), panel dan lain-lain.
+
+Urea-formaldehid (dikenal juga sebagai [[urea-metanal]]) adalah suatu resin atau plastik thermosetting yang terbuat dari urea dan formaldehid yang dipanaskan dalam suasana basa lembut seperti amoniak atau piridin. Resin ini memiliki sifat tensile-strength dan hardness permukaan yang tinggi, dan absorpsi air yang rendah.
+
+Reaksi urea-formaldehid merupakan reaksi kondensasi antara urea dengan formaldehid. Pada umumnya reaksi menggunakan katalis hidroksida alkali dan kondisi reaksi dijaga tetap pada pH 8-9 agar tidak terjadi reaksi Cannizaro, yaitu reaksi diproporsionasi formaldehid menjadi alkohol dan asam karboksilat. Untuk menjaga agar pH tetap maka dilakukan penambahan ammonia sebagai buffer ke dalam campuran.
+
+Reaksi ini secara umum berlangsung dalam 3 tahap yakni inisiasi, propagasi (kondensasi), dan proses curing.
+
+# Tahap [[metilolasi]], yaitu adisi formaldehid pada gugus amino dan amida dari urea, dan menghasilkan metilol urea
+# Tahap selanjutnya [[propagasi]], yaitu reaksi kondensasi dari monomer-monomer mono dan dimetilol urea membentuk rantai polimer yang lurus
+# Tahap terakhir adalah proses [[curing]] yaitu ketika kondensasi tetap berlangsung, polimer membentuk rangkaian 3 dimensi yang sangat kompleks dan menjadi resin thermosetting. Resin thermosetting mempunyai sifat tahan terhadap asam, basa, serta tidak dapat melarut dan meleleh. Temperatur curing dilakukan pada sekitar temperatur 120 Celcius dan pH < 5
+== Faktor-faktor yang Mempengaruhi Reaksi Urea-Formaldehid ==
+=== Katalis ===
+
+Penggunaan katalis pada suatu reaksi akan meningkatkan laju reaksi tersebut. Begitu juga yang terjadi pada reaksi urea-formaldehid ini. Laju reaksinya akan meningkat jika digunakan katalis. Katalis yang diguanakan pada percobaan ini adalah NH4OH karena reaksi ini berlangsung pada kondisi basa.
+=== Temperatur ===
+
+Kenaikan temperatur selalu mengakibatkan peningkatan laju suatu reaksi. Namun, kenaikan temperatur ini dapat mempengaruhi jumlah produk yang terbentuk, bergantung pada jenis reaksi tersebut (eksoterm atau endoterm). Oleh karena itu, diperlukan suatu optimasi untuk mencapai hasil yang diinginkan.
+Kenaikan temparatur juga dapat menurunkan berat molekul (Mr) resin urea-formaldehid. Hal tersebut dikarenakan adanya pembentukan pusat-pusat aktif yang baru, sehingga memperkecil ukuran molekul resin.
+=== Waktu Reaksi ===
+
+Jumlah dan sifat produk yang dihasilkan dari suatu reaksi juga dipengaruhi oleh waktu reaksi. Makin lama waktu reaksi, jumlah produk yang dihasilkan makin banyak akibatnya, resin yang dihasilkan akan berkadar tinggi dan memiliki Mr tinggi.
+
+== Reaksi Pembuatan ==
+=== Kondensasi ===
+[[Reaksi kondensasi]] ini dilakukan dalam sebuah labu berleher yang dilengkapi [[kondensor]] [[ohmmeter]], [[termometer]], [[agitator]]. Kondensor berfungsi mengembunkan air yang menguap selama proses polimerisasi. Hal ini dimaksudkan untuk mempercepat tercapainya kesetimbangan reaksi. Agitator berfungsi membuat larutan tetap homogen selama proses berlangsung.
+
+Kerugian penggunaan urea-formaldehid sebagai resin dibandingkan polimer lain adalah resistensinya terhadap kadar air (moisture) apalagi jika dikombinasikan dengan panas. Kondisi ini dapat menyebabkan reaksi balik dan melepaskan monomer  monomer yang belum sempurnya bereaksi membentuk polimer. Monomer ini biasanya beracun misalnya formaldehid yang dapat menyebabkan kanker. Oleh sebab itu, ada baiknya bila kita akan menggunakan peralatan makan yang terbuat dari bahan polimer, sebaiknya peralatan tersebut direndam dahulu dengan air panas dengan tujuan agar monomer  monomer 
+yang belum sempurna bereaksi terlepas pada air rendaman.
+
+== Pranala luar ==
+* http://majarimagazine.com/2009/05/resin-urea-formaldehide/
+
+[[Kategori:Resin sintetik]]
+[[Kategori:Plastik]]

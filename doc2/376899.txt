@@ -1,0 +1,199 @@
+Valle d'Aosta Open 2011  Ganda
+{{Tennis events 2|2011|Valle d'Aosta Open|s
+| champ = {{flagicon|FRA}} [[Marc Gicquel]]<br />{{flagicon|FRA}} [[Nicolas Mahut]]
+| runner = {{flagicon|FRA}} Olivier Charroin<br />{{flagicon|FRA}} Alexandre Renard
+| score = 63, 64
+}}
+{{main|Valle d'Aosta Open 2011}}
+[[Marc Gicquel]] dan [[Nicolas Mahut]] keluar sebagai juara setelah mengalahkan rekan senegaranya [[Olivier Charroin]] dan [[Alexandre Renard]] dengan skor 63, 64.
+
+== Unggulan ==
+{{col-begin}}
+{{col-2}}
+#{{flagicon|GER}} [[Martin Emmrich]] / {{flagicon|POL}} [[Mateusz Kowalczyk]] ''(Semifinal)
+#{{flagicon|GBR}} [[Jamie Delgado]] / {{flagicon|GBR}} [[Jonathan Marray]] ''(Babak Penyisihan)
+{{col-2}}
+<ol start="3">
+<li>{{flagicon|ITA}} [[Alessandro Motti]] / {{flagicon|IND}} [[Purav Raja]] ''(Babak Penyisihan)
+<li>{{flagicon|FRA}} '''[[Marc Gicquel]]''' / {{flagicon|FRA}} '''[[Nicolas Mahut]] (Juara)'''
+{{col-end}}
+
+== Hasil pengundian ==
+{{Draw key}}
+=== Hasil pengundian ===
+{{16TeamBracket-Compact-Tennis3-Byes
+| RD1=Babak Penyisihan
+| RD2=Perempatfinal
+| RD3=Semifinal
+| RD4=Final
+
+| RD1-seed01=1
+| RD1-team01='''{{flagicon|GER}} [[Martin Emmrich|M Emmrich]]<br />&nbsp;{{flagicon|POL}} [[Mateusz Kowalczyk|M Kowalczyk]]
+| RD1-score01-1='''6
+| RD1-score01-2='''6
+| RD1-score01-3=&nbsp;
+| RD1-seed02=WC
+| RD1-team02={{flagicon|ITA}} Eric Crepaldi<br />&nbsp;{{flagicon|ITA}} Matthieu Vierin
+| RD1-score02-1=0
+| RD1-score02-2=2
+| RD1-score02-3=&nbsp;
+
+| RD1-seed03=&nbsp;
+| RD1-team03={{flagicon|FRA}} [[Vincent Millot|V Millot]]<br />&nbsp;{{flagicon|FRA}} Clment Reix
+| RD1-score03-1=4
+| RD1-score03-2=5
+| RD1-score03-3=&nbsp;
+| RD1-seed04=&nbsp;
+| RD1-team04={{flagicon|BEL}} '''[[Ruben Bemelmans|R Bemelmans]]<br />&nbsp;{{flagicon|SVK}} [[Martin Klian|M Klian]]
+| RD1-score04-1='''6
+| RD1-score04-2='''7
+| RD1-score04-3=&nbsp;
+
+| RD1-seed05=4
+| RD1-team05='''{{flagicon|FRA}} [[Marc Gicquel|M Gicquel]]<br />&nbsp;{{flagicon|FRA}} [[Nicolas Mahut|N Mahut]]'''
+| RD1-score05-1='''6
+| RD1-score05-2='''6
+| RD1-score05-3=&nbsp;
+| RD1-seed06=&nbsp;
+| RD1-team06={{flagicon|FRA}} Grgoire Burquier<br />&nbsp;{{flagicon|FRA}} Laurent Rochette
+| RD1-score06-1=2
+| RD1-score06-2=3
+| RD1-score06-3=&nbsp;
+
+| RD1-seed07=&nbsp;
+| RD1-team07={{flagicon|POL}} [[Jerzy Janowicz|J Janowicz]]<br />&nbsp;{{flagicon|POR}} [[Joo Sousa|J Sousa]]
+| RD1-score07-1=4
+| RD1-score07-2=4
+| RD1-score07-3=&nbsp;
+| RD1-seed08=&nbsp;
+| RD1-team08='''{{flagicon|GER}} [[Matthias Bachinger|M Bachinger]]<br />&nbsp;{{flagicon|GER}} [[Dieter Kindlmann|D Kindlmann]]'''
+| RD1-score08-1='''6
+| RD1-score08-2='''6
+| RD1-score08-3=&nbsp;
+
+| RD1-seed09=&nbsp;
+| RD1-team09={{flagicon|PHI}} [[Treat Conrad Huey|TC Huey]]<br />&nbsp;{{flagicon|NED}} [[Matw Middelkoop|M Middelkoop]]
+| RD1-score09-1=4
+| RD1-score09-2=4
+| RD1-score09-3=&nbsp;
+| RD1-seed10=&nbsp;
+| RD1-team10='''{{flagicon|FRA}} Olivier Charroin<br />&nbsp;{{flagicon|FRA}} Alexandre Renard'''
+| RD1-score10-1='''6
+| RD1-score10-2='''6
+| RD1-score10-3=&nbsp;
+
+| RD1-seed11=WC
+| RD1-team11='''{{flagicon|ITA}} [[Alberto Brizzi|A Brizzi]]<br />&nbsp;{{flagicon|ITA}} [[Fabio Colangelo|F Colangelo]]'''
+| RD1-score11-1=3
+| RD1-score11-2='''6
+| RD1-score11-3='''[11]
+| RD1-seed12=3
+| RD1-team12={{flagicon|ITA}} [[Alessandro Motti|A Motti]]<br />&nbsp;{{flagicon|IND}} [[Purav Raja|P Raja]]
+| RD1-score12-1='''6
+| RD1-score12-2=3
+| RD1-score12-3=[9]
+
+| RD1-seed13=&nbsp;
+| RD1-team13='''{{flagicon|ITA}} Claudio Grassi<br />&nbsp;{{flagicon|ITA}} Luca Vanni'''
+| RD1-score13-1='''6
+| RD1-score13-2='''6
+| RD1-score13-3=&nbsp;
+| RD1-seed14=&nbsp;
+| RD1-team14={{flagicon|ITA}} [[Gianluca Naso|G Naso]]<br />&nbsp;{{flagicon|ITA}} Matteo Viola
+| RD1-score14-1=1
+| RD1-score14-2=3
+| RD1-score14-3=&nbsp;
+
+| RD1-seed15=WC
+| RD1-team15='''{{flagicon|ITA}} Andrea Falgheri<br />&nbsp;{{flagicon|LTU}} [[Laurynas Grigelis|L Grigelis]]'''
+| RD1-score15-1='''6
+| RD1-score15-2=3
+| RD1-score15-3='''[12]
+| RD1-seed16=2
+| RD1-team16={{flagicon|GBR}} [[Jamie Delgado|J Delgado]]<br />&nbsp;{{flagicon|GBR}} [[Jonathan Marray|J Marray]]
+| RD1-score16-1=3
+| RD1-score16-2='''6
+| RD1-score16-3=[10]
+
+| RD2-seed01=1
+| RD2-team01='''{{flagicon|GER}} [[Martin Emmrich|M Emmrich]]<br />&nbsp;{{flagicon|POL}} [[Mateusz Kowalczyk|M Kowalczyk]]'''
+| RD2-score01-1='''7
+| RD2-score01-2='''6
+| RD2-score01-3=&nbsp;
+| RD2-seed02=&nbsp;
+| RD2-team02={{flagicon|BEL}} [[Ruben Bemelmans|R Bemelmans]]<br />&nbsp;{{flagicon|SVK}} [[Martin Klian|M Klian]]
+| RD2-score02-1=6<sup>4</sup>
+| RD2-score02-2=3
+| RD2-score02-3=&nbsp;
+
+| RD2-seed03=4
+| RD2-team03='''{{flagicon|FRA}} [[Marc Gicquel|M Gicquel]]<br />&nbsp;{{flagicon|FRA}} [[Nicolas Mahut|N Mahut]]'''
+| RD2-score03-1='''6
+| RD2-score03-2=3
+| RD2-score03-3='''[10]
+| RD2-seed04=&nbsp;
+| RD2-team04={{flagicon|GER}} [[Matthias Bachinger|M Bachinger]]<br />&nbsp;{{flagicon|GER}} [[Dieter Kindlmann|D Kindlmann]]
+| RD2-score04-1=3
+| RD2-score04-2='''6
+| RD2-score04-3=[7]
+
+| RD2-seed05=&nbsp;
+| RD2-team05='''{{flagicon|FRA}} Olivier Charroin<br />&nbsp;{{flagicon|FRA}} Alexandre Renard'''
+| RD2-score05-1='''6
+| RD2-score05-2='''6
+| RD2-score05-3=&nbsp;
+| RD2-seed06=WC
+| RD2-team06={{flagicon|ITA}} [[Alberto Brizzi|A Brizzi]]<br />&nbsp;{{flagicon|ITA}} [[Fabio Colangelo|F Colangelo]]
+| RD2-score06-1=1
+| RD2-score06-2=4
+| RD2-score06-3=&nbsp;
+
+| RD2-seed07=&nbsp;
+| RD2-team07={{flagicon|ITA}} Claudio Grassi<br />&nbsp;{{flagicon|ITA}} Luca Vanni
+| RD2-score07-1=6<sup>7
+| RD2-score07-2=4
+| RD2-score07-3=&nbsp;
+| RD2-seed08=WC
+| RD2-team08='''{{flagicon|ITA}} Andrea Falgheri<br />&nbsp;{{flagicon|LTU}} [[Laurynas Grigelis|L Grigelis]]'''
+| RD2-score08-1='''7
+| RD2-score08-2='''6
+| RD2-score08-3=&nbsp;
+
+| RD3-seed01=1
+| RD3-team01={{flagicon|GER}} [[Martin Emmrich|M Emmrich]]<br />&nbsp;{{flagicon|POL}} [[Mateusz Kowalczyk|M Kowalczyk]]
+| RD3-score01-1=3
+| RD3-score01-2=2
+| RD3-score01-3=&nbsp;
+| RD3-seed02=4
+| RD3-team02='''{{flagicon|FRA}} [[Marc Gicquel|M Gicquel]]<br />&nbsp;{{flagicon|FRA}} [[Nicolas Mahut|N Mahut]]'''
+| RD3-score02-1='''6
+| RD3-score02-2='''6
+| RD3-score02-3=&nbsp;
+
+| RD3-seed03=&nbsp;
+| RD3-team03='''{{flagicon|FRA}} Olivier Charroin<br />&nbsp;{{flagicon|FRA}} Alexandre Renard'''
+| RD3-score03-1=<small>w/o</small>
+| RD3-score03-2=&nbsp;
+| RD3-score03-3=&nbsp;
+| RD3-seed04=WC
+| RD3-team04={{flagicon|ITA}} Andrea Falgheri<br />&nbsp;{{flagicon|LTU}} [[Laurynas Grigelis|L Grigelis]]
+| RD3-score04-1=&nbsp;
+| RD3-score04-2=&nbsp;
+| RD3-score04-3=&nbsp;
+
+| RD4-seed01=4
+| RD4-team01='''{{flagicon|FRA}} [[Marc Gicquel|M Gicquel]]<br />&nbsp;{{flagicon|FRA}} [[Nicolas Mahut|N Mahut]]
+| RD4-score01-1='''6
+| RD4-score01-2='''6
+| RD4-score01-3=&nbsp;
+| RD4-seed02=&nbsp;
+| RD4-team02={{flagicon|FRA}} Olivier Charroin<br />&nbsp;{{flagicon|FRA}} Alexandre Renard
+| RD4-score02-1=3
+| RD4-score02-2=4
+| RD4-score02-3=&nbsp;
+}}
+
+== Referensi ==
+* [http://www.atpworldtour.com/posting/2011/6234/mdd.pdf Hasil Pengundian  Ganda]
+
+[[Kategori:ATP Challenger Tour 2011|Valle d'Aosta Open  Ganda]]

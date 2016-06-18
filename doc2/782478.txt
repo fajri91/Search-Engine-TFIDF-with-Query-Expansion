@@ -1,0 +1,35 @@
+Templat:Skuat Copa Amrica 2015 Uruguay
+{{National squad
+|name=Skuat Copa Amrica 2015 Uruguay
+|bg=#87cefa
+|fg=black
+|country=Uruguay
+|comp link=Copa Amrica 2015
+|comp=Copa Amrica 2015
+|p1=[[Fernando Muslera|Muslera]]
+|p2=[[Jos Gimnez|Gimnez]]
+|p3=[[Diego Godn|Godn]] {{kapten}}
+|p4=[[Jorge Fucile|Fucile]]
+|p5=[[Mathas Corujo|Corujo]]
+|p6=[[lvaro Pereira|. Pereira]]
+|p7=[[Cristian Rodrguez|C. Rodrguez]]
+|p8=[[Abel Hernndez|Hernndez]]
+|p9=[[Diego Roln|Roln]]
+|p10=[[Giorgian De Arrascaeta|De Arrascaeta]]
+|p11=[[Christian Stuani|Stuani]]
+|p12=[[Rodrigo Muoz|Muoz]]
+|p13=[[Sebastin Coates|Coates]]
+|p14=[[Nicols Lodeiro|Lodeiro]]
+|p15=[[Guzmn Pereira|G. Pereira]]
+|p16=[[Maximiliano Pereira|M. Pereira]]
+|p17=[[Egidio Arvalo Ros|Arvalo Ros]]
+|p18=[[Gastn Silva|Silva]]
+|p19=[[Carlos Andrs Snchez|Snchez]]
+|p20=[[lvaro Rafael Gonzlez|Gonzlez]]
+|p21=[[Edinson Cavani|Cavani]]
+|p22=[[Jonathan Rodrguez|J. Rodrguez]]
+|p23=[[Martn Silva|Silva]]
+|coach=[[scar Tabrez|Tabrez]]
+}}<noinclude>
+[[Category:Templat Skuat Copa Amrica 2015|Uruguay]]
+[[Kategori:Templat skuat tim nasional Uruguay|Copa]]

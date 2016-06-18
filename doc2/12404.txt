@@ -1,0 +1,11 @@
+Templat:User zh-min-nan
+{{Babel-box
+| level         = 
+| id            = [[Bahasa Hokkien|nan]]
+| info          = Chit- ing-chi  '''[[:Kategori:User zh-min-nan|b-g]]''' s '''[[:Kategori:User zh-min-nan|Bn-lm-g]]'''.
+| userkategori  = User zh-min-nan
+| userkategori2 = User zh-min-nan-N
+}}<noinclude>
+{{Babel-bar|zh-min-nan}}
+[[Kategori:Templat Babel|zh-min-nan]]
+</noinclude>

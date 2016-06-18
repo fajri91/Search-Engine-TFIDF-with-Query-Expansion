@@ -1,0 +1,46 @@
+Sawar darah otak
+'''Sawar darah otak''' ({{lang-en|blood-brain barrier, BBB}}) adalah sebuah [[antarmuka]] yang memisahkan [[zalir serebrospinal]] dengan [[pembuluh darah]].
+
+Antarmuka tersebut merupakan sel endotelial yang saling mengikat dengan begitu erat dengan ikatan [[dimer]] dan mempunyai [[permease|transporter]] seperti ''occludin'', ''claudins'', ''junctional adhesion molecule'' (JAM), atau ESAM.
+
+Transporter tersebut dihubungkan dengan oleh suatu [[kompleks protein]] agar dapat mengikat antarmuka tersebut. Salah satu kompleks protein tersebut adalah zo-1.
+
+Salah satu [[permease|transporter]] yang terdapat pada sawar otak:
+* [[transporter anion organik#OATP14|OATP14]].<ref>{{en}}{{cite web
+| url          = http://www.ncbi.nlm.nih.gov/pubmed/20358049
+| title        = Transport of thyroid hormones is selectively inhibited by 3-iodothyronamine.
+| accessdate   = 2010-05-09
+| work         = Department of Biochemistry and Biophysics, University of California at San Francisco; Ianculescu AG, Friesema EC, Visser TJ, Giacomini KM, Scanlan TS.
+}}</ref>
+* [[transporter glukosa#GLUT1|GLUT1]].
+* [[transporter monokarboksilat#MCT8|MCT8]] dan homolognya yaitu [[transporter monokarboksilat#MCT10|MCT10]], yang men[[difusi]]kan hormon tiroid. Sejenis antidepresan yaitu [[desipramina]] merupakan penghambat difusi hormon tiroid pada MCT8. Selain itu, sejenis hormon tiroid yang disebut [[tri-iodotironin|T3]] juga dihambat oleh ''bromosulphtalein'' pada transporter yang sama.<ref>{{en}}{{cite web
+| url          = http://www.ncbi.nlm.nih.gov/pubmed/20435089
+| title        = The tricyclic antidepressant desipramine inhibits T(3) import into primary neurons.
+| accessdate   = 2010-05-09
+| work         = Institute for Experimental Endocrinology, Charit-Universittsmedizin Berlin; Roth S, Kinne A, Schweizer U.
+}}</ref>
+* Transporter ABC.<ref>{{en}}{{cite web
+| url          = http://www.ncbi.nlm.nih.gov/pubmed/20417575
+| title        = Regulation of P-glycoprotein and other ABC drug transporters at the blood-brain barrier.
+| accessdate   = 2010-05-09
+| work         = Laboratory of Toxicology and Pharmacology, NIH/NIEHS; Miller DS.
+}}</ref>
+* Transporter ''efflux''.<ref>{{en}}{{cite web
+| url          = http://www.ncbi.nlm.nih.gov/pubmed/20367755
+| title        = Lack of brain-to-blood efflux transport activity of low-density lipoprotein receptor-related protein-1 (LRP-1) for amyloid-beta peptide(1-40) in mouse: involvement of an LRP-1-independent pathway.
+| accessdate   = 2010-05-09
+| work         = Division of Membrane Transport and Drug Targeting, Graduate School of Pharmaceutical Sciences, Tohoku University; Ito S, Ueno T, Ohtsuki S, Terasaki T.
+}}</ref>
+
+== Referensi ==
+{{reflist}}
+
+== Pranala luar ==
+* [http://library.usu.ac.id/index.php?option=com_journal_review&id=13064&task=view  Perpustakaan Universitas Sumatera Utara]
+
+[[Kategori:Sistem saraf]]
+[[Kategori:Otak]]
+[[Kategori:Fisiologi hewan]]
+
+
+{{Anatomi-stub}}

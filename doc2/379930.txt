@@ -1,0 +1,27 @@
+Templat:Srengat, Blitar
+{{Navigasi ID Desa 
+|provinsi=Jawa Timur 
+|dati2=Kabupaten 
+|nama dati2=Blitar
+|nama kecamatan=Srengat
+|d1=Bagelenan
+|k1=Dandong
+|d2=Dermojayan
+|d3=Kandangan
+|d4=Karanggayam
+|k2=Kauman
+|d5=Kendalrejo
+|d6=Kerjen
+|d7=Maron
+|d8=Ngaglik
+|d9=Pakisrejo
+|d10=Purwokerto
+|d11=Selokajang
+|k3=Srengat
+|k4=Togogan
+|d12=Wonorejo
+}}
+<noinclude>
+[[Kategori:Templat desa/kelurahan di Jawa Timur|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Blitar|{{PAGENAME}}]]
+</noinclude>

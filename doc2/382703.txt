@@ -1,0 +1,117 @@
+Wikipedia:ProyekWiki Tenis
+
+[[Berkas:Undangan_pwtenis.jpg|750px|link=Wikipedia:ProyekWiki Tenis]]
+'''[[ProyekWiki]] Tenis''' adalah sebuah proyek yang dilaksanakan secara bersama untuk mengembangkan artikel bertopik [[tenis]].
+
+== Tujuan ==
+# Supaya artikel bertopik [[tenis]] lebih lengkap (dan akurat).
+# Supaya para penggemar terbantu dengan adanya artikel di [[Wikipedia Bahasa Indonesia|WBI]], bukan hanya di [[Wikipedia Bahasa Inggris|Bhs. Inggris]] saja.
+
+== Ruang lingkup ==
+Semua orang yang berminat dapat berpartisipasi dalam ProyekWiki ini. Tidak memandang usia ataupun kalangan silakan bergabung di sini.
+
+== Templat ==
+=== Umum ===
+Berikut ini adalah templat yang akan sering digunakan:
+* {{tl|Infobox tennis player}}  digunakan untuk artikel pemain tenis
+* {{tl|Draw key}}  untuk bantuan hasil pengundian suatu turnamen
+* {{tl|Infobox ATP Challenger Tournament}}  digunakan untuk artikel turnamen [[ATP Challenger Tour]]
+* {{tl|Davis-big}}  digunakan untuk memperbesar nama negara & bendera yang sebelumnya ada di {{tl|Davis}}
+* {{tl|Davis}}   digunakan untuk negara & bendera di [[Piala Davis]]
+* {{tl|ATP}}  untuk pranala luar bagi artikel-artikel pemain ATP
+* {{tl|DCGroupI}}  untuk hasil pengundian [[Piala Davis]] segala zona Grup I (kecuali Eropa/Afrika)
+* {{tl|DCGroupII}}  untuk hasil pengundian [[Piala Davis]] segala zona Group II (kecuali Eropa/Afrika)
+* {{tl|DCGroupIEA}}  untuk hasil pengundian [[Piala Davis]] khusus zona Eropa/Afrika
+* {{tl|DCGroupIIEA}}  untuk hasil pengundian [[Piala Davis]] khusus zona Eropa/Afrika
+* Berikut ini adalah templat-templat kurung turnamen yang akan digunakan:
+** {{tl|16TeamBracket-Compact-Tennis3}}
+** {{tl|16TeamBracket-Compact-Tennis3-Byes}}
+** {{tl|16TeamBracket-Compact-Tennis5}}
+** {{tl|32TeamBracket-Tennis3}}
+** {{tl|4TeamBracket-Tennis3-v2}}
+** {{tl|8TeamBracket-Tennis3-v2}}
+** {{tl|8TeamBracket-Tennis5}}
+** {{tl|8TeamBracket}}
+''dan lain-lain ...''
+* {{tl|TennisEventInfo}}  untuk kotak info suatu turnamen tenis (misalnya [[Australia Terbuka 2011]], bukan [[Australia Terbuka]])
+* {{tl|Tennis events}}  untuk kotak info suatu turnamen tenis (misalnya [[Australia Terbuka 2011]], bukan [[Australia Terbuka]])
+* {{tl|Tennis events 2}}  untuk kotak info suatu turnamen tenis (misalnya [[Australia Terbuka 2011]], bukan [[Australia Terbuka]])
+* {{tl|Tennis events 3}}  untuk kotak info suatu turnamen tenis (misalnya [[Regions Morgan Keegan Championships and the Cellular South Cup 2011]])
+* {{tl|TennisMatch}}  untuk suatu pertandingan tenis beregu (misalnya [[PIala Hopman]])
+* {{tl|TennisMatch3}}  untuk suatu pertandingan tenis beregu (misalnya [[PIala Hopman]])
+* {{tl|DavisCupinfobox}}  untuk kotak info suatu tim Piala Davis
+* {{tl|ITF Male Profile}}  untuk pranala luar pemain ATP (yang profilnya ada di situs resmi ITF)
+* {{tl|DavisCupteamlink}}  untuk pranala luar tim Piala Davis (yang profilnya ada di situs resmi Piala Davis)
+* {{tl|Turnamen Australia Terbuka}}  khusus untuk artikel-artikel bertopik [[Australia Terbuka]], tapi tahunan. Misalnya [[Australia Terbuka 2011]].
+* {{tl|Hamburg Masters tournaments}}  khusus untuk artikel-artikel bertopik [[Hamburg Masters]], tapi tahunan. Misalnya [[ATP German Open 1992]]
+* {{tl|ATP Challenger Tour}}  untuk pranala luar bagi artikel-artikel bertopik [[ATP Challenger Tour]]
+* {{tl|Piala Hopman}}  khusus untuk artikel-artikel berotpik [[Piala Hopman]], tapi tahunan. Misalnya [[Piala Hopman 1990]]
+
+=== Khusus ===
+* {{tl|ATP Challenger Tour 2011}}  untuk artikel bertopik [[ATP Challenger Tour 2011]]
+* {{tl|ATP World Tour 2011}}  untuk artikel bertopik [[ATP World Tour musim 2011]]
+
+== Kategori ==
+Lumayan banyak kategori yang dapat digunakan. 
+=== Khusus tahun ini ===
+* {{K|ATP Challenger Tour 2011|Kategori:ATP Challenger Tour 2011}}
+* {{K|ATP World Tour musim 2011|Kategori:ATP World Tour musim 2011}}
+* {{K|Sony Ericsson WTA Tour musim 2011|Kategori:Sony Ericsson WTA Tour musim 2011}}
+* {{K|ITF Women's Circuit 2011|Kategori:ITF Women's Circuit 2011}}
+
+== Anggota ==
+Jika ada yang tertarik mengikuti ProyekWiki yang satu ini, silakan memberi tanda tangan di bawah ini dengan mengetikkan empat tilda (<nowiki>~~~~</nowiki>)<br />
+Daftar anggota:
+# [[Pengguna:Fira Melinda|Fira Melinda]] ([[Pembicaraan Pengguna:Fira Melinda|bicara]]) 12:22, 27 April 2011 (UTC)
+# [[Pengguna:Tatasport|'''<span style="background:#0000ff;color:#66ccff">&nbsp;tatasport&nbsp;</span>''']][[Pembicaraan Pengguna:Tatasport|'''<span style="background:#66ccff;color:#0000ff">&nbsp;bicara&nbsp;</span>''']] 10:24, 21 April 2011 (UTC) (kewalahan menangani banyak pranala merah yang bertopik tenis)
+# <span style="-moz-border-radius: 5px; border: solid 2px #00216a; background-color: #38b4e8; color=#3f96ba">[[Pengguna:Bluez bekztra|'''Bluez bekztra''']] | [[Pembicaraan Pengguna:Bluez bekztra|'''bicara''']] </span> 09:22, 23 April 2011 (UTC) Saya bantu sedikit sedikit yang saya bisa.
+
+=== Undangan ===
+Untuk mengundang para pengguna agar bergabung di proyek ini, silakan menggunakan {{tl|Undangan ProyekWiki Tenis}}. Tinggal mengetikkan <nowiki>{{Undangan ProyekWiki Tenis}}</nowiki> setelah itu mengetikkan tanda tangan.
+
+=== Kotak pengguna ===
+Bagi siapa yang telah bergabung di sini, silakan menambahkan {{tl|Pengguna PW Tenis}} di profil masing-masing. Tinggal mengetikkan <nowiki>{{Pengguna PW Tenis}}</nowiki> di profilnya.
+
+== Daftar Pekerjaan ==
+Pekerjaan yang ada di sini cukup banyak, di antaranya:
+# Mendata artikel-artikel tenis di WBI
+# <u>'''Membirukan yang merah'''</u> pranala merah yang ada di artikel bertopik tenis.
+# Merintis dan memperbarui artikel berkaitan dengan turnamen-turnamen terkini.
+# Jika ada pemain-pemain baru bermunculan, segera buat rintisannya.
+# Membuat artikel-artikel tentang turnamen yang ada di sekitar kita.
+# Mengembangkan artikel-artikel rintisan bertopik tenis.
+# Mengindonesiakan judul artikel
+
+== Penilaian artikel ==
+Menurut Anda semua, artikel-artikel yang ada berkelas apa? 
+=== Rintisan ===
+=== Artikel kelas A ===
+=== Artikel kelas B ===
+=== Artikel kelas C ===
+=== Artikel bagus ===
+=== Artikel pilihan ===
+
+== Artikel-artikel yang perlu dibuat ==
+* Artikel-artikel yang berkaitan dengan [[Sony Ericsson WTA Tour musim 2011]]. Kebanyakan belum ada artikelnya.
+* Artikel-artikel yang berkaitan dengan [[ITF Women's Circuit 2011]]. Sama halnya dengan yang pertama tadi.
+* Artikel-artikel tentang pemain yang sedang aktif.
+* Artikel-artikel tentang turnamen yang sedang berlangsung.
+* Artikel-artikel tentang turnamen di masa lampau.
+* Artikel-artikel tentang turnamen yang bersangkutan (contoh: [[Zagreb Open]])
+* Artikel-artikel tentang pemain-pemain lokal.
+
+== Pekerjaan minggu ini ==
+* Menuntaskan artikel:
+** [[China Open (tenis) 2011]] 
+** [[Rakuten Japan Open Tennis Championships 2011]]
+.... dan turnamen sesuai jadwal [[ATP Challenger Tour 2011|ATP Challenger Tour]] dan [[ITF Women's Circuit 2011]].
+
+== Daftar sumber ==
+* Internet:
+** [http://atpworldtour.com/ Situs Resmi ATP]
+** [http://sonyericssonwtatour.com/ Situs Resmi WTA]
+** [http://itftennis.com/ Situs Resmi ITF]
+** [http://daviscup.com/ Situs Resmi Piala Davis]
+** Bisa diterjemahkan dari [[Wikipedia|Wikipedia bahasa lain]], seperti [[Wikipedia Bahasa Inggris|Wikipedia Bhs. Inggris]], atau lain-lain. Asal, kalau pakai mesin terjemahan seperti [[Google Translate]], harap diperiksa lagi.
+
+[[Kategori:ProyekWiki]]

@@ -1,0 +1,93 @@
+Pemetaan Kejahatan Strategis
+{{gabungke|Pemetaan kejahatan}}
+{{paragraf pembuka}}
+
+Penegak Hukum sering mengalami kesulitan di dalam optimalisasi sumber daya untuk melakukan kajian dan analisis tindak kejahatan. Integrasi teknologi [[:en:Geographic information system|GIS (Geographic Information System)]] dengan analisis tindak kejahatan akan sangat membantu secara efisien dalam pemetaan kejahatan strategis. Laman ini memuat informasi mengenai Analisis Kejahatan Strategis dengan GIS sebagai solusi kebijakan panduan intelijen penegak hukum.
+
+Analisis Kejahatan menurut Rachel Boba,Phd.<ref>(2001) Introductory Guide to Crime Analysis and Mapping. Boba, Rachel. Community Oriented Policing Services. US Departement of Justice.</ref> adalah:
+{{quote|''The qualitative and quantitative study of crime and law enforcement information in combination with socio-demographic and spatial factors to apprehend criminals, prevent crime, reduce disorder, and evaluate organizational procedures''.}}
+
+Dari definisi di atas , dapat ditemukan 4(empat) tujuan analisis tindak kejahatan<ref>(2001) Introductory Guide to Crime Analysis and Mapping. Boba, Rachel. Community Oriented Policing Services. US Departement of Justice. p.10-11.</ref>:
+* Penangkapan Pelaku Kejahatan
+* [[:en:Crime prevention|Pencegahan Kejahatan]]
+* Pengurangan Kekacauan Sipil/Gangguan Keamanan
+* Evaluasi Prosedur Organisasi Penegak Hukum.
+
+== Tipe-tipe ''Crime Analysis'' (Analisis Kejahatan) ==
+
+Ada berbagai macam tipe-tipe analisis kejahatan. Setiap tipe memiliki karakteristik yang sama dalam konsep analisis kejahatan itu sendiri. Perbedaan dari masing-masing tipe adalah lebih kepada tipe data dan teknik analisis yang digunakan sesuai dengan tujuan yang ingin diraih dalam tiap tipe tersebut.
+
+Tipe-tipe analisis kejahatan adalah sebagai berikut<ref>(2001) Introductory Guide to Crime Analysis and Mapping. Boba, Rachel. Community Oriented Policing Services. US Departement of Justice. p.11-16.</ref>:
+
+;a. Analisis Intelijen
+Studi analisis untuk mengkaji [[:en:Organized crime|aktivitas organisasi kejahatan]], yang dilaporkan maupun tidak dilaporkan kepada penegak hukum, untuk membantu personel seksi investigasi dalam menghubungkan orang, peristiwa dan properti yang dimiliki.
+
+Studi analisis ini memiliki tujuan untuk mengkaitkan seluruh informasi yang diperoleh bersama-sama, kemudian memprioritaskan informasi, mengidentifikasi hubungan dan mengidentifikasi area/daerah untuk investigasi lebih lanjut. Investigasi lanjutan ini diletakkan dalam rerangka analisis yang lebih mudah dipahami setelah melalui proses-proses dari tujuan analisis intelijen ini.
+
+;b. Analisis Investigatif Kriminal
+Studi analisis tentang pelaku kejahatan berantai, korban, dan peristiwa kejahatan dalam hal karakteristik fisik, psikologis, sosio-demografis dan geografis, untuk mengembangkan pola-pola yang akan membantu untuk mengkaitkan dan memecahkan kasus kejahatan berantai yang terjadi.
+
+Tipe analisis ini lebih kita kenal sebagai ''[[:en:profiling|profiling]]'', yaitu sebuah aktivitas untuk mengkonstruksi profil dari pelaku kejahatan tidak dikenal, berdasarkan tindakan kejahatan, temuan fakta di tempat kejadian perkara (TKP), dan karakteristik korban sendiri. Analisis spesifik ini biasa dilakukan oleh lembaga penegak hukum tingkat pusat atau federal, disebabkan karena jenis kejahatan yang terjadi bersifat khusus dan lintas yurisdiksi. Misal: terorisme,pembunuhan berantai, kejahatan ''[[:en:Money laundering|money laundering]]'' dan sebagainya.
+
+;c. Analisis Kejahatan Taktis
+Studi analisis tentang insiden kejahatan-kejahatan yang telah berlangsung dan aktivitas potensial kriminal dengan melakukan pemeriksaan karakteristik seperti bagaimana, kapan dan di mana suatu aktivitas kejahatan telah terjadi. Tipe analisis membantu penyelidik dalam memecahkan kasus dengan pengembangan pola maupun trend, identifikasi tersangka/pelaku, dan membantu memperjelas kasus yang terjadi.
+
+Analisis Kejahatan Taktis berfokus pada informasi spesifik tentang kejahatan yang terjadi, seperti [[:en:Modus operandi|metode kejahatan]], titik dimulainya kejahatan, tindakan detail pelaku, tipe korban, tipe senjata yang digunakan, tipe lokasi, lokasi dan waktu. Gabungan analisis kuantitatif untuk membentuk pola atau trend dengan analisis kualitatif digunakan secara optimal pada tipe analisis ini.
+
+;d. [http://www.charmeck.org/city/charlotte/CMPD/organization/Administrative/Pages/CrimeAnalysis.aspx Analisis Kejahatan Strategis]<ref>http://www.charmeck.org/city/charlotte/CMPD/organization/Administrative/Pages/CrimeAnalysis.aspx</ref>
+
+Studi analisis tentang kejahatan dan informasi penegakan hukum yang terintegrasi dengan sosio-demografis dan faktor-faktor spasial untuk menentukan aktivitas kejahatan jangka panjang di suatu area. Analisis ini berfungsi untuk pemecahan kasus sekaligus evaluasi terhadap prosedur dan respon terhadap penanganan suatu kasus kejahatan.
+
+Analisis ini menggunakan teknik statistik dan metode riset untuk investigasi jangka panjang mengenai problem kejahatan dan evaluasi terhadap prosedur organisasi penegak hukum dalam penanganan kasus tersebut. Kasus penyelundupan narkoba dan kasus pencurian atau perampokan menjadi bagian dari studi analisis ini.
+
+;e.[http://www.nij.gov/nij/topics/law-enforcement/strategies/welcome.htm Analisis Kejahatan Administratif]<ref>http://www.nij.gov/nij/topics/law-enforcement/strategies/welcome.htm</ref>
+Studi analisis yang merupakan presentasi kepada pihak-pihak yang berkepentingan dalam penegakan hukum seperti masyarakat sipil, penegak hukum administratif, dan dewan perwakilan rakyat/pemerintah. Analisis ini memaparkan temuan berdasarkan hasil riset dan investigasi tindak kejahatan dengan menggunakan perspektif praktik pelaksanaan, hukum, sosial dan politik.
+
+Analisis ini merupakan pemaparan informasi yang bersifat general dan tidak mengungkapkan secara detail kasus per kasus yang terjadi. Tujuan dari analisis ini adalah pemberian informasi kepada pihak yang berkepentingan untuk memahami fenomena kejahatan yang terjadi dan untuk kemudian mengambil kebijakan baik bersifat strategis maupun operasional untuk masing-masing pihak yang menggunakan informasi dari analisis ini.
+
+== ''[[:en:Crime mapping|Crime Mapping]]'' ([[Pemetaan kejahatan|Pemetaan Kejahatan]]) ==
+Perkembangan Pemetaan Kejahatan dipaparkan dalam laman ini pada konteks ''timeline''(alur waktu):<ref>(2001) Introductory Guide to Crime Analysis and Mapping. Boba, Rachel. Community Oriented Policing Services. US Departement of Justice. p.17-18.</ref>
+
+;a. Awal 1800an.
+Perkembangan pemetaan kejahatan diawali dari para pembuat teori sosial melakukan pemetaan sebagai upaya riset mereka mengungkap pola dan proses terjadinya suatu kejahatan. Pemetaan disini digunakan untuk melakukan pengujian pada isu-isu kemiskinan dan demografi penduduk yang mengarah pada suatu perilaku kejahatan.
+ 
+;b. Era 1900an
+Kepolisian New York menggunakan peta secara sederhana dengan menandai dengan pin lokasi terjadinya suatu tindak kejahatan. Tindakan menandai ini dikenal dengan ''[[:en:Map symbolization|single symbol point]]''.
+
+;c. 1920-1930an
+Sosiologis perkotaan dari Universitas Chicago menciptakan peta pembagian area kejahatan dan [[Perilaku menyimpang|penyimpangan sosial]].
+
+;d. 1960an-1970
+Teknologi Komputer menghasilkan peta area kejahatan untuk pertama kalinya.
+
+;e. 1980an
+Komputer ''desktop'' dapat menghasilkan pemetaan kejahatan dengan kualitas terbatas. Di era ini teori kriminologi lingkungan juga hadir untuk menambah informasi kejahatan.
+
+;f. 1990an
+Teknologi GIS hadir yang terintegrasi dengan sistem dan data komputer dari lembaga penegak hukum. Investasi pemerintah di AS sebanyak lebih dari 1 milliar dollar dilakukan untuk tercapainya integrasi sistem ini.
+
+==Tipe-tipe ''Crime Mapping'' (Pemetaan Kejahatan)'''<ref>(2001) Introductory Guide to Crime Analysis and Mapping. Boba, Rachel. Community Oriented Policing Services. US Departement of Justice. p.18-20.</ref>==
+[[Berkas:PIN CITY MAPS.jpg|jmpl|ki|Ilustrasi Peta dengan Pin dari blessthisstuff.com]]
+
+;a. Pemetaan Manual dengan Pin
+Peta dinding telah lama dan masih digunakan hingga saat ini oleh para penegak hukum di berbagai daerah sebagai salah satu cara sederhana menggambarkan insiden kejahatan atau ''hot spots''. Pin digunakan sebagai penanda tindak-tindak kejahatan yang telah terjadi. Meskipun sederhana dan mudah digunakan, peta dinding memiliki kegunaan terbatas. Hal ini disebabkan karena identifikasi kejahatan dengan pin pada satu peta sulit dilakukan proses pembaruan data, akurasi yang terjaga dalam rentang waktu yang terbatas. Terlalu banyaknya kejahatan dalam satu area peta akan menyebabkan kesulitan bagi pengguna untuk menandainya dengan pin.
+
+;b. Pemetaan berbasis Komputer
+Meskipun tampilan dari peta komputer telah mampu menampilkan banyak data dari suatu area, akan tetapi tampilan geografis pada jenis peta komputer ini bersifat statis dan asesoris belaka. Untuk melakukan pembaruan data harus dilakukan proses penggambaran peta dengan file yang berbeda. Informasi detail dari tiap pin juga tidak terakomodasi dalam peta komputer.
+
+;c. ''[[:en:Geographic information system|Geographic Information System (GIS)]]''
+GIS adalah software yang membawa penggunanya pada kemudahan untuk membuat single point maps hingga tampilan visualisasi 3 dimensi pada data spasial maupun temporal yang dianalisis. Dengan GIS, seseorang dapat menjalankan fungsi statistik, mendetailkan informasi dari fitur-fitur geografis yang ada.
+
+;d. Pemetaan Analisis Kejahatan <ref>http://www.esri.com/library/brochures/pdfs/crime-analysis.pdf</ref>
+Merupakan proses penggunaan sistem informasi geografis yang dikombinasikan dengan teknik-teknik analisis kejahatan yang berfokus pada konteks spasial dari pelaku kejahatan dan aktivitas penegak hukum. Pemetaan Analisis Kejahatan tidak hanya menguraikan fitur geografis dalam GIS, namun juga melakukan analisis kualitatif dari hasil tampilan GIS tersebut.
+
+==Referensi==
+<references/>
+
+[[de:Verbrechenskarte]]
+[[en:Crime mapping]]
+[[hu:Bnzsfldrajz]]
+[[it:Criminografia]]
+[[ja:]]
+[[uk: ]]
+[[zh:]]

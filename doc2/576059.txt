@@ -1,0 +1,64 @@
+2004 HL79
+{{Infobox Planet 
+|minorplanet = yes 
+|width = 25em 
+|bgcolour = 
+|apsis = 
+|name = 2004 HL79
+|symbol = 
+|image = 
+|caption = 
+|discovery = yes 
+|discovery_ref = 
+|discoverer =B. Gladman
+|discovery_site =568
+|discovered = 2004/04/26
+|designations = yes
+|mp_name = 
+|alt_names = 
+|mp_category = 
+|orbit_ref = 
+|epoch = 
+|aphelion =45.254
+|perihelion =38.926
+|semimajor =42.090
+|eccentricity =0.075
+|period = 
+|avg_speed = 
+|inclination =16.8
+|asc_node =202.5
+|mean_anomaly =58.5
+|arg_peri =312.2
+|satellites = 
+|physical_characteristics = yes 
+|dimensions = 
+|mass = 
+|density = 
+|surface_grav = 
+|escape_velocity = 
+|sidereal_day = 
+|axial_tilt = 
+|pole_ecliptic_lat = 
+|pole_ecliptic_lon = 
+|albedo = 
+|temperatures= 
+|temp_name1 = 
+|mean_temp_1 = 
+|max_temp_1 = 
+|temp_name2 = 
+|max_temp_2 = 
+|spectral_type = 
+|abs_magnitude =7.6
+}}
+'''2004 HL79''' adalah sebuah [[objek trans-Neptunus]]. Seperti objek trans-Neptunus pada umumnya, benda ini mengorbit Matahari dari jarak yang lebih jauh dari planet [[Neptunus]].
+
+[[Eksentrisitas orbit]] objek ini tercatat sebesar 0.075, sementara [[magnitudo mutlak]]nya adalah 7.6.
+
+== Referensi ==
+
+* [http://www.minorplanetcenter.net/iau/lists/t_tnos.html Daftar Objek Transneptunus] - ''The International Astronomical Union Minor Planet Center.''
+*{{cite journal|last=Remo|first=John L.|title=Classifying Solid Planetary Bodies|year=2007|journal=AIP Conference Proceedings|volume=886|pages=284302|bibcode=2007AIPC..886..284R|doi=10.1063/1.2710063}}
+
+[[Kategori:Objek trans-Neptunus]]
+
+{{astronomi-stub}}

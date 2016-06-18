@@ -1,0 +1,16 @@
+Templat:Gapura, Sambas, Sambas
+{{Navbox
+| name = Gapura, Sambas, Sambas
+| listclass = hlist
+| title =[[Gapura, Sambas, Sambas|Desa Gapura]], [[Sambas, Sambas|Kecamatan Sambas]], [[Kabupaten Sambas]], [[Kalimantan Barat]]
+| group1 = Dusun
+| list1 =
+<div><!--
+-->[[Mentibar, Gapura, Sambas, Sambas|Mentibar]]{{}}<!--
+-->[[Perasak, Gapura, Sambas, Sambas|Perasak]]{{}}<!--
+-->[[Segarau, Gapura, Sambas, Sambas|Segarau]]{{}}<!--
+-->[[Sungai Puguk, Gapura, Sambas, Sambas|Sungai Puguk]]<!--
+--></div>
+}}<noinclude>
+[[Kategori:Templat dusun di Indonesia|Sambas, Sambas]]
+</noinclude>

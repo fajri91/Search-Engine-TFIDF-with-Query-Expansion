@@ -1,0 +1,217 @@
+Mikoprotein
+'''Mikoprotein''' adalah bahan makanan kaya [[protein]], kaya [[serat]], dan rendah [[kolesterol]] yang terbuat dari fungi ''[[Fusarium venenatum]]''<ref>{{en}}{{cite book|last= B. J. F. Hudson|first=|authorlink=|coauthors=|title= New and developing sources of food proteins|year= 1994|publisher= Springer|location=|id= ISBN 978-0-412-58420-6}}</ref>. Di daerah [[Amerika Serikat]] dan [[Eropa]], produk mikoprotein hasil fermentasi ''F. venenatum'' yang ditumbuhkan pada [[kultur]] sistem ''continuous flow'' telah diproduksi secara komersil dengan merek dagang ''Quorn''<sup>TM</sup><ref name="b">{{en}}{{cite journal
+ | author = MARILYN G. WIEBE
+ | year = 2004
+ | month = February
+ | title = Quorn<sup>TM</sup> Myco-protein  Overview of a successful fungal product
+ | journal = Mycologist
+ | volume = 18
+ | issue = 1
+ | pages = 17-20
+ | doi = 10.1017/S0269915X04001089
+ | id = 
+ | url = http://www.fungi4schools.org/Reprints/Mycologist_articles/Post-16/Foods/V18pp017-020_Quorn.pdf
+ | format = 
+ | accessdate = 
+ }}
+</ref>.
+
+== Sejarah ==
+Sejarah penemuan mikoprotein dimulai sekitar tahun 1950-an ketika terjadi kekhawatiran akan kekurangan sumber protein pada masa depan karena berbagai hewan ternak seperti [[sapi]], [[ayam]], dan [[babi]] tidak lagi mencukupi kebutuhan daging di dunia<ref name="a">{{en}}{{cite journal
+ | author = ANTHONY P. J. TRINCI
+ | year = 1992
+ | month = 
+ | title = Myco-protein: A twenty-year overnight success story
+ | journal = Mycol. Res 96 (1):  (1992)
+ | volume = 96
+ | issue = 1
+ | pages = 1-13
+ | doi =
+ | id = 
+ | url = http://sbli.ls.manchester.ac.uk/fungi/21st_Century_Guidebook_to_Fungi/REPRINT_collection/Trinci_quorn_myco-protein.pdf
+ | format = 
+ | accessdate = 
+ }}
+</ref>. Saat itu juga terjadi wabah penyakit pada anak-anak yang terkait masalah [[malnutrisi]] protein sehingga menyebabkan banyaknya penderita [[kwashiorkor]] dan [[marasmus]] di negara-negara terbelakang<ref name="a"></ref>. Pada tahun 1955, suatu lembaga yang disebut Kelompok Konsultan untuk Protein dengan nama asli dalam bahasa Inggris '' Protein Advisory Group'' (PAG) dibangun untuk membantu [[FAO]] dan [[UNICEF]] dalam merumuskan pedoman keamanan, [[nutrisi]], dan [[palatabilitas]] dari sumber makanan berprotein baru untuk konsumsi manusia<ref name="a"></ref>. Di dalam pertemuan PBB tahun 1968 ''International Action to Avert Impending Protein Crisis'', dikemukakan bahwa dunia memerlukan sumber protein baru dari mikroba untuk memenuhi kebutuhan protein pada masa mendatang<ref name="a"></ref>. Sejak itu berbagai penelitian tentang sumber protein mikrobial marak dikembangkan, namun sebagian besar malah bertujuan untuk menciptakan pakan ternak kaya protein<ref name="a"></ref>. Pada tahun 1985, suatu perusahaan Inggris, [[Rank Hovis McDougall]] (RHM), berhasil menciptakan sumber protein pengganti daging bagi manusia dari ''F. venenatum''<ref name="b"></ref>. Penelitian tersebut melibatkan lebih dari 3000 jenis fungi dari berbagai belahan dunia untuk dianalisa kadar protein di dalamnya, produksi [[toksin]], dan memiliki pertumbuhan serta [[morfologi]] yang sesuai hingga akhirnya ditemukan ''[[F. venenatum]]'' sebagai [[fungi]] yang terbaik<ref name="b"></ref>. 
+
+== Produksi ==
+
+=== Produksi biomassa sel ===
+Pada awalnya uji pembuatan mikoprotein yang aman dan sehat dilakukan dengan menumbuhkan sel fungi pada tangki [[bioreaktor]] teraduk dengan volume 300 L<ref name="b"></ref>. Namun setelah perizinan produksi mikoprotein secara komersil telah disetujui maka digunakan reaktor ''air-lift'' bervolume 40.000 L hingga 150.000 L dengan proses yang digunakan adalah aliran kontinu (''continuous flow process'')<ref name="b"></ref>. Proses tersebut dipilih karena kecepatan [[dilusi]] yang tinggi pada proses ini dan secara ekonomi paling menguntungkan<ref name="b"></ref>. Dulunya, kultur dikontrol dengan mengatur penambahan nutrisi dan [[glukosa]] ke dalam [[reaktor]] dalam jumlah berlebihan dan konstan<ref name="b"></ref>. Proses produksi yang terbaru memanfaatkan kecepatan evolusi CO2 yang dapat diukur secara langsung untuk mengontrol kecepatan aliran media<ref name="b"></ref>. Media yang digunakan umumnya mengandung [[glukosa]] dan [[amonium]] (disuplemen dengan [[biotin]]) dan kultur diinkubasi dengan suhu 28-30&nbsp;C pada pH 6.0<ref name="b"></ref>.
+
+=== Reduksi RNA ===
+[[Berkas:Uric acid.png|thumb|right|200px|Struktur asam urat.]]
+Sel mikroba yang memiliki kecepatan pertumbuhan yang tinggi memiliki kandungan [[asam nukleat]] (termasuk [[RNA]]) yang tinggi pula<ref name="g"></ref>. Pada manusia, RNA dapat dipecah menjadi asam urat yang berbahaya bagi kesehatan apabila terdapat di dalam tubuh dalam jumlah yang terlalu tinggi<ref name="g"></ref>. Oleh karea itu, PAG menetapkan konsentrasi RNA dari mikoprotein yang boleh dikonsumsi manusia adalah 2 gram per hari dengan total [[asam nukleat]] yang dikonsumsi manusia dari berbagai sumber tidak melebih 4 gram per hari<ref name="a"></ref>. Untuk mengurangi jumlah RNA dalam mikoprotein dapat dilakukan prosedur kejut panas setelah fungi selesai ditumbuhkan, yaitu menaikkan suhu [[kultur]] [[biomassa]] secara cepat (< 10 detik) hingga mencapai suhu 64&nbsp;C selama 20-30 menit<ref name="a"></ref>. Metode ini akan menyebabkan pertumbuhan terhenti dan RNase yang ada dalam sel menjadi aktif mendegradasi RNA<ref name="a"></ref>.
+
+=== Pengolahan akhir ===
+Setelah proses reduksi RNA berakhir, dilakukan pemanenan [[biomassa]] sel dengan [[filtrasi]] [[vakum]] kemudian ditambahkan pewarna, penambah rasa, dan putih ''telur'' sebagai protein pengikat [[filamen]] mikoprotein<ref name="a"></ref>. Untuk menstabilkan struktur mikoprotein dilakukan prosedur pemanasan yang dilanjutkan dengan mereduksi ukuran mikoprotein dan membekukannya untuk penyimpanan<ref name="a"></ref>. Berbagai variasi makanan berbahan mikoprotein telah dibuat, antara lain [[pai]] rasa ayam, [[kari]], [[lasagna]], dan lain-lain<ref name="j">{{en}}{{cite journal
+ | author = Marlow Foods Ltd
+ | year = 2008
+ | month = 
+ | title = Information sheet for A-level Home Economics
+ | url = http://www.mycoprotein.org/assets/ALFT_V2_2.pdf
+ | format = 
+ | accessdate = 
+ }}
+</ref>. Produk mikoprotein tersebut bertekstur dan berasa mirip seperti daging namun merupakan sumber protein nabati yang baik untuk para vegetarian<ref name="j"></ref>. 
+
+== Manfaat ==
+[[Berkas:Quorn-different-forms.jpg|thumb|right|Contoh produk olahan mikoprotein.]]
+Mikoprotein memiliki banyak manfaat positif bagi kesehatan manusia, beberapa di antaranya adalah mengurangi risiko [[obesitas]], menurunkan [[kolesterol]] dalam [[darah]], dan mengontrol [[glikemia]] ([[kadar gula]] dalam darah)<ref name="e">{{en}}{{cite journal
+ | author = A.  Denny, B.  Aisbitt, J.  Lunn
+ | year = 2008
+ | month = 
+ | title = Mycoprotein and health
+ | journal = Nutrition Bulletin
+ | volume = 33
+ | issue = 4
+ | pages = 298-310
+ | doi =10.1111/j.1467-3010.2008.00730.x
+ | id = 
+ | url = 
+ | format = 
+ }}
+</ref>. Peningkatan penderita [[obesitas]] di dunia dapat diakibatkan terlalu banya mengonsumsi makanan dengan kadar [[lemak]] dan kadar gula tinggi<ref name="e"></ref>. Semakin lama, kesadaran manusia untuk mengonsumsi makanan sehat mulai meningkat<ref name="e"></ref>. Makanan sehat yang dimaksudkan haruslah bernutrisi, mengenyangkan, namun densitas energi rendah serta memiliki kandungan [[asam lemak]] jenuh, [[garam]], dan gula yang rendah<ref name="e"></ref>. Mikoprotein dapat memenuhi persyaratan untuk menjadi salah satu makanan sehat dengan kriteria yang telah disebutkan karena memiliki kandungan [[serat]] yang tinggi, kandungan [[asam lemak]] jenuh relatif rendah, dan secara alami memiliki kandungan [[natrium]] yang rendah<ref name="e"></ref>. Konsumsi mikoprotein juga dapat mengurangi dan mengendalikan [[diabetes]] tipe 2 karena kandungan di dalam mikoprotein dapat mereduksi [[glikemi]] dan [[insulinemia]]<ref name="j">{{en}}{{cite journal
+ | author = Wilfred H Turnbull, Thomas Ward
+ | year = 1995
+ | month = 
+ | title = Mycoprotein reduces glycemia and insulinemia when taken with an oral-glucose-tolerance
+ | journal = American journal of clinical nutrition
+ | volume = 61
+ | issue = 
+ | pages = 135-40
+ | doi =
+ | id = 
+ | url = http://www.ajcn.org/cgi/reprint/61/1/135.pdf
+ | format = 
+ | accessdate = 
+ }}
+</ref>. Selain itu, beberapa studi juga membuktikan bahwa mikoprotein memiliki efek memuaskan atau mengenyangkan yang lebih tinggi dibandingkan konsumsi daging ayam pada jumlah yang sama<ref name="e"></ref>. 
+
+{|| align="center" |
+|+ Nutrisi yang diperoleh dari mikoprotein<ref name="j"></ref>
+|-
+!Nutrisi	                 
+!Amount per 100g*
+|-
+|Energi (kcal)	                 
+|85              
+|-
+|Protein (g)	                 
+|11              
+|-
+|Karbohidrat (g)                
+|3         
+|-
+|Gula (g)	                 
+|0.5             
+|-
+|Lemak (g)	                 
+|2.9           
+|-
+|Lemak jenuh (g)	                 
+|0.7             
+|-
+|Serat (g)	                 
+|6**             
+|-
+|b-glukan (g)	                 
+|4              
+|-
+|w-3 Asam Linolenat (g)          
+|0.4             
+|-
+|Kalsium (mg)	                 
+|42.5           
+|-
+|Magnesium (mg)	                 
+|45       
+|-       
+|zink (mg)	                 
+|9               
+|-
+|Besi (mg)	                 
+|0.5             
+|-
+|Kalium (mg)	                 
+|100             
+|-
+|Vitamin B1 Tiamin (mg)	 
+|0.01            
+|-
+|Vitamin B2 Riboflavin - (mg)	 
+|0.23            
+|-
+|Vitamin B3 Niasin (mg)	         
+|0.35            
+|-
+|Vitamin B5 Asam Pantotenat (mg)
+|0.25            
+|-
+|Vitamin B6 Piridoxin - (mg)	 
+|0.125           
+|-
+|Biotin (mg)	                 
+|0.02            
+|-
+|Fosfor (mg)	         
+|260             
+|-
+|Tembaga (mg)	                 
+|0.5             
+|-
+|Mangan (mg)	                 
+|6               
+|-
+|Selenium (ug)	                 
+|20              
+|-
+|Kromium (ug)	                 
+|15              
+|-
+|Molibdenum (ug)	         
+|< 25            
+|-
+|Natrium (mg)	                 
+|5               
+|-
+|Garam (g)	                 
+|0.0125          
+|} 
+
+== Dampak negatif ==
+Konsumsi fungi sebagai sumber protein memiliki kekhawatiran akan adanya kadar [[RNA]] yang tinggi sehingga mengakibatkan penyakit [[asam urat]] dan juga kekhawatiran akan adanya [[alergi]] pada konsumen<ref name="g">{{en}}{{cite book|last= Alexander N. Glazer, Hiroshi Nikaid|first=|authorlink=|coauthors=|title= Microbial biotechnology: fundamentals of applied microbiology|year= 2007|publisher= Cambridge University Press|location=|id= ISBN 978-0-521-84210-5}}</ref>. Pada sel fungi yang tumbuh dengan cepat, kadar RNA di dalamnya tinggi dan apabila dikonsumsi maka RNA akan terurai menjadi [[purin]] dan [[pirimidin]]<ref name="g"></ref>. Di dalam tubuh, purin akan dikonversi menjadi [[asam urat]] dan apabila terjadi peningkatan tinggi pada kadar asam urat maka terjadi peningkatan risiko menderita gout dan [[batu ginjal]] pada individu yang rentan<ref name="g"></ref>. Namun kekhawatiran akan meningkatnya asam urat berhasil diatasi dengan reduksi RNA pada proses produksi mikoprotein<ref name="g"></ref>. Pada beberapa individu yang menderita alergi terhadap kapang, inhalasi ataupun konsumsi mikoprotein dapat menyebabkan reaksi alergi berat terhadap makanan tersebut<ref>{{en}}{{cite journal
+ | author = M. Hoff, R. Treb, B. Ballmer-Weber, S. Vieths, B. Wuethrich
+ | year = 
+ | month = 
+ | title = Immediate-type hypersensitivity reaction to ingestion of mycoprotein (Quorn) in a patient allergic to molds caused by acidic ribosomal protein P21
+ | journal = Journal of Allergy and Clinical Immunology
+ | volume = 111
+ | issue = 5
+ | pages = 1106-1110
+ | doi =
+ | id = 
+ | url = 
+ }}</ref>. Hal ini disebabkan karena adanya reaksi silang antara antigen ''[[F. venenatum]]'' yang dapat dikenali di dalam tubuh individu tertentu memiliki kemiripan dengan [[antigen]] fungi patogen seperti ''[[Aspergillus fumigatus]]'', ''Cladosporium herbarum'', atau ''[[Alternaria alternata]]'' sehingga dapat menyebabkan reaksi hipersensitivitas<ref name="f"></ref>. Reaksi tersebut hanya terjadi pada sebagian kecil penderita alergi kapang karena [[antibodi]] di dalam tubuh merespon antigen mikoprotein sebagai antigen asing yang diduga berbahaya<ref name="f">{{en}}{{cite journal
+ | author = Tee RD, Gordon DJ, Welch JA, Newman Taylor AJ
+ | year = 1993
+ | month = April
+ | title = Investigation of possible adverse allergic reactions to mycoprotein ('Quorn').
+ | journal = Clin Exp Allergy
+ | volume = 23
+ | issue = 4
+ | pages = 257-60
+ | doi =
+ | id = 
+ | url = 
+ }}
+</ref>. 
+
+== Referensi ==
+
+{{reflist}}
+
+[[Kategori:Fungi]]
+[[Kategori:Bioteknologi]]
+
+[[ru:]]

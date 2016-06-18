@@ -1,0 +1,64 @@
+Lipatan
+{{Dead end|date=Januari 2016}}
+
+'''Lipatan''' adalah suatu undulasi atau bentuk suatu gelombang pada permukaan batuan yang membentuk suatu penekukan. Lipatan merupakan struktur geologi yang terbentuk akibat adanya deformasi yang mengenai batuan. Apabila pelipatan itu membentuk busur maka biasa disebut sebagai antiklin atau antiform. Namun apabila pelipatan itu membentuk palung maka disebut sebagai sinklin atau synform.
+
+== Terminologi Lipatan ==
+Berikut adalah beberapa terminologi lipatan:<br />
+Hinge (pelengkungan maksimum pada suatu lipatan) <br />
+Crest (bagian paling tinggi dari suatu lipatan) <br />
+Trough (bagian paling rendah dari suatu lipatan) <br />
+Hinge line atau axial line (garis yang menghubungkan beberapa hinge lapisan) <br />
+Hinge plane atau axial plane (bidang yang menghubungkan semua hinge) <br />
+Crest line (garis yang melewati semua crest) <br />
+Trough (garis yang melewati semua trough) <br />
+Core (pusat pelengkungan pada suatu lipatan) <br />
+Infelction (garis tengah suatu lipatan)
+
+== Klasifikasi Lipatan oleh Billings (1986) ==
+Secara umum, Billings mengklasifikasikan lipatan berdasarkan beberapa ketentuan berikut: <br />
+'''Berdasarkan bentuk penampang tegak, lipatan dibedakan lagi menjadi:''' <br />
+a.	Symmetry fold merupakan lipatan di mana axial planenya vertikal. <br />
+b.	Asymmetry fold merupakan lipatan di mana axial planenya berbentuk condong. <br />
+c.	Overturned fold merupakan lipatan di mana axial planenya condong dan kedua sayapnya miring ke arah yang sama pada sudut yang berbeda. <br />
+d.	Recumbent fold merupakan lipatan di mana axial planenya horizontal. <br />
+e.	Vertical isoclinal fold merupakan lipatan di mana axial planenya berbentuk vertikal. <br />
+f.	Isoclined isoclinal fold merupakan lipatan di mana axial planenya condong. <br />
+g.	Recumbent isoclinal fold merupakan lipatan di mana axial planenya berbentuk horizontal. <br />
+h.	Chevron fold merupakan lipatan di mana hingenya tajam dan menyudut. <br />
+i.	Box fold merupakan lipatan di mana crestnya luas dan datar. <br />
+j.	Fan fold merupakan lipatan di mana sayapnya membalik. <br />
+k.	Monocline merupakan lipatan di mana kemiringan lapisan secara lokal adalah terjal. <br />
+l.	Structure terrace merupakan lipatan di mana kemiringan lapisan secara lokal dianggap horizontal. <br />
+m.	Homocline merupakan lapisan yang miring dalam satu arah pada sudut yang relatif sama.
+
+'''Berdasarkan intensitas pelipatan, dibagi menjadi:''' <br />
+a.	Open fold ialah lipatan yang lapisannya tidak mengalami penebalan atau penipisan karena deformasi yang lemah. <br />
+b.	Closed fold ialah lipatan yang lapisannya mengalami penebalan atau penipisan karena deformasi yang kuat. <br />
+c.	Drag fold ialah lipatan kecil yang terbentuk pada sayap lipatan yang besar akibat pergeseran lapisan kompeten dengan lapisan tak kompeten. <br />
+d.	En enchelon fold ialah beberapa lipatan yang sifatnya lokal dan saling overlap satu sama lain. <br />
+e.	Culmination and depression ialah lipatan  lipatan yang menunjam pada arah yang berbeda, sehingga terjadi penaikkan dan penurunan. <br />
+f.	Anticlinorium ialah antiklin mayor yang tersusun oleh beberapa lipatan yang lebih kecil. <br />
+g.	Synclinorium ialah sinklin mayor yang tersusun oleh beberapa lipatan yang lebih kecil.
+
+'''Berdasarkan sifat lipatan dan kedalaman, dibedakan menjadi:''' <br />
+a.	Similar fold yaitu lipatan yang tiap lapisannya lebih tipis (pada sayapnya) dan lebih tebal pada hingenya. <br />
+b.	Parallel or concentric fold yaitu lipatan dengan anggapan bahwa ketebalan lapisan tidak berubah selama perlipatan. <br />
+c.	Pierching or diaphiric fold yaitu lipatan di mana intinya yang aktif telah menerobos melalui batuan di atasnya yang lebih rapuh. <br />
+d.	Supratenuous fold yaitu lipatan yang terbentuk akibat perbedaan kompaksi sedimen pada saat pengendapan yang terjadi di punggung bukit. <br />
+e.	Disharmonic fold yaitu lipatan yang bentuknya tidak seragam antar lapisannya.
+
+'''Berdasarkan kedudukan axial surface dan hinge line, lipatan dibagi menjadi:''' <br />
+a.	Horizontal normal adalah lipatan di mana kedudukan axial surface vertikal dan hinge line horizontal. <br />
+b.	Plunging normal adalah lipatan di mana kedudukan axial surface vertikal dan hinge line menunjam. <br />
+c.	Horizontal inclined adalah lipatan di mana kedudukan axial surface miring dan hinge line horizontal. <br />
+d.	Plunging inclined adalah lipatan di mana kedudukan axial surface miring dan hinge line menunjam, tetapi jurus axial plane miring terhadap sumbu lipatannya. <br />
+e.	Reclined adalah lipatan di mana kedudukan axial surface miring dan hinge line menunjam, tetapi jurus axial plane tegak lurus terhadap sumbu lipatan. <br />
+f.	Vertical fold adalah lipatan di mana kedudukan axial surface dan hinge line vertikal. <br />
+g.	Recumbent fold adalah lipatan di mana kedudukan axial surface dan hinge line horizontal.
+
+== Referensi ==
+Wilson, Gilbert., & Cosgrove. (1982). ''Introduction to Small Scale Geological Structures''. Department of Geology, Imperial College of Science and Technology
+
+[[Kategori:Geofisika]]
+[[Kategori:Geologi]]

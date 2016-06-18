@@ -1,0 +1,14 @@
+Templat:GambarBendera
+{{imbox
+| type       = license
+| class      = licensetpl
+| image      = [[Berkas:Flag-iconcopyright3.png|50px|Domain umum|link=]]
+| text       = <span class="licensetpl_long">''Gambar ini adalah sebuah [[bendera]] negara, pemerintah, militer, kerajaan atau bendera lama. Bendera ini mungkin diperoleh atau dimodifikasi buku ''[[The World Factbook]]'' terbitan [[CIA]] yang merupakan [[domain umum]]. Banyak yang telah dimodifikasi atau diubah warnanya dari data yang tersedia di ''[http://www.flags.net/index.php World Flag Database]''. Bendera-bendera seperti itu tidak memiliki hak cipta namun dilindungi Pasal 6 dalam [[Konvensi Paris]].''</span>
+<span class="licensetpl_short" style="display: none">Gambar bendera</span>
+<span class="licensetpl_link" style="display: none">{{fullurl:{{FULLPAGENAME}}}}</span>
+}}{{#if:{{{kat|}}}||<includeonly>[[Kategori:Gambar bendera|{{PAGENAME}}]]</includeonly>}}<noinclude>
+{{noinclude
+ |text=Templat ini menambahkan halaman ke {{kt|Gambar bendera}}.
+}}
+
+[[Kategori:Templat lisensi gambar|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,34 @@
+Grand Teton
+{{Infobox mountain
+| name = Grand Teton
+| photo = Grand Teton GTNP1.jpg
+| photo_caption = Grand Teton from the southeast
+| elevation_ft = 13775
+| elevation_ref = {{NAVD88}}<ref name="ngs">{{cite ngs |id=OX0838 |name=Grand Teton |accessdate=2009-09-12 }}</ref>
+| prominence_ft = 6530
+| prominence_ref =  <ref name="pb">{{cite peakbagger |pid=5218 |name=Grand Teton, Wyoming |accessdate=2009-09-12 }}</ref>
+| parent_peak = [[Gannett Peak]] <ref name="PeakList">{{cite web |url=http://www.PeakList.org/USlists/USP5000.html |title=America's 57: The Ultras |publisher=Peaklist.org |accessdate=2009-09-12 }}</ref>
+| listing = [[Ultra prominent peak|Ultra]], [[Breast shaped hill]]s
+| location = [[Grand Teton National Park]], [[Teton County, Wyoming|Teton County]], [[Wyoming|Wyoming, USA]]
+| range = [[Teton Range]]
+| map    = USA Wyoming | region = US-WY
+| label_position = right
+| map_size       = 225
+| lat_d = 43.741207756 | long_d= -110.802413942
+| source = ngs
+| coordinates_ref = <ref name="ngs"/>
+| topo = [[United States Geological Survey|USGS]] Grand Teton, WY
+| first_ascent =  1872 or 1898. See [[#First ascent|First ascent]]
+| easiest_route = [[Mountaineering|Climb]], {{YDS|5.5}}.
+}}
+
+'''Grand Teton''' adalah nama sebuah [[gunung]] di [[Wyoming]], [[Amerika Serikat]]. Tingginya adalah 4.197 meter.
+
+==Referensi==
+{{reflist}}
+*{{cite journal |last=Langford |first=Nathenial |title=The Ascent of Mount Hayden |journal=Scribner & Co., 1873 |volume=6 |year=1873 |month=June |pages=129157 |url=http://books.google.com/books?id=gTigAAAAMAAJ&pg=PA129&lpg=PA129&dq=The+Ascent+of+Mount+Hayden#v=onepage&q=The%20Ascent%20of%20Mount%20Hayden&f=false}}
+*{{cite book|title=The grande controversy|last=Bonney|first=Orrin|coauthors=Lorrine Bonney|year=1992|publisher=The AAC Press|location=New York|isbn=0-930410-45-9}}
+
+{{geologi-stub}}
+
+[[Kategori:Gunung di Amerika Serikat]]

@@ -1,0 +1,14 @@
+Berkas:Photo h2.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+dari http://www.jaxa.jp/projects/rockets/h2/img/photo_h2.jpg dan http://www.jaxa.jp/projects/rockets/h2/index_e.html
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Fairuse}}

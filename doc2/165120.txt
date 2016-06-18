@@ -1,0 +1,12 @@
+Templat:Country data Niger
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Niger
+| flag alias = Flag of Niger.svg
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+<noinclude>
+| redir1 = NER
+| redir2 = NIG
+</noinclude>
+}}<noinclude></noinclude>

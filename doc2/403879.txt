@@ -1,0 +1,21 @@
+Wikipedia:ProyekWiki Kolaborasi Waktu Riil
+{{mbox
+| type = notice
+| text =
+Kunjungi http://etherpad.wikimedia.org/idwiki pada '''hari Sabtu dan Minggu pukul 19.0022.00'''
+}}
+
+'''ProyekWiki Kolaborasi Waktu Langsung''' adalah sebuah proyek penerjemahan artikel Wikipedia bahasa Inggris ke dalam bahasa Indonesia dalam waktu riil (''real time'') menggunakan perangkat lunak EtherPad (http://etherpad.wikimedia.org/). Proyek ini bertujuan mendorong interaksi antarpengguna dan meningkatkan jumlah artikel dengan konten berkualitas di Wikipedia bahasa Indonesia.
+
+== Tentang EtherPad ==
+[[:en:EtherPad|EtherPad]] adalah perangkat lunak berbasis-web untuk penyuntingan waktu riil (''real-time editor''). EtherPad dapat digunakan oleh beberapa partisipan sekaligus dan memiliki fitur untuk membedakan kontribusi setiap partisipan dengan menggunakan warna berbeda-beda. EtherPad juga memiliki fitur kotak perbincangan (''chat box'') serta sejarah revisi. EtherPad di server Wikimedia dapat diakses melalui http://etherpad.wikimedia.org/.
+
+== Cara mengikuti proyek ==
+# Proyek ini akan berlangsung hari Sabtu dan hari Minggu secara berkala pada pukul 19.0022.00
+# Pada waktu tersebut, sebuah artikel dari Wikipedia bahasa Inggris akan diunggah ke laman web http://etherpad.wikimedia.org/idwiki
+# Partisipan proyek dapat mengisi nama di bagian pojok kanan atas, atau tetap anonim, kemudian dapat langsung ikut menerjemahkan artikel yang terdapat di sana
+
+== Artikel kolaborasi minggu ini ==
+* Sabtu, 27 Agustus 2011  [[Sejarah Indonesia (1945-1949)]]
+
+[[Kategori:ProyekWiki]]

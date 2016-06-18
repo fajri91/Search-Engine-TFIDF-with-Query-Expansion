@@ -1,0 +1,542 @@
+Kode bandar udara ICAO
+'''Kode bandar udara ICAO''' adalah kode yang terdiri dari empat digit [[alfanumerik]] yang diberikan kepada setiap [[bandar udara]] di seluruh dunia. Kode ini diatur oleh [[Organisasi Penerbangan Sipil Internasional]] ([[bahasa Inggris]]: ''International Civil Aviation Organization'' disingkat '''ICAO'''). Kode ICAO digunakan oleh [[pengatur lalu-lintas udara]] (''air traffic control'') dan maskapai penerbangan. Kode ini tidak sama dengan [[kode bandar udara IATA]] yang digunakan di [[reservasi]] dan [[penanganan bagasi]]. Kode ICAO juga digunakan untuk mengidentifikasi lokasi lain seperti [[stasiun cuaca]].
+
+[[Berkas:ICAO-FirstLetter.png|thumb|300px|Peta dunia pengelompokkan daerah-daerah dunia berdasarkan huruf pertama kode bandar udara ICAO.]]
+Tidak seperti kode IATA, kode ICAO memiliki struktur regional sehingga tidak akan saling duplikasi dan lebih teratur. Secara umum, digit pertama untuk mengidentifikasi [[benua]], sebuah negara atau sekelompok negara di dalam benua tersebut. Digit kedua digunakan untuk mengidentifikasi [[negara]] di dalam benua tersebut. Dua digit terakhir adalah untuk mewakili setiap [[bandar udara]]. Ada beberapa pengecualian di mana pada beberapa negara besar, di mana satu kode pada digit pertama dialokasikan negara tersebut dan tiga digit terakhir untuk bandar udara di negara itu.
+
+== Prefiks ==
+{| class="wikitable sortable"
+|-
+! Kode prefiks !! Negara
+|-
+!|| ''A - Pasifik Selatan Barat''
+|-
+|AG || [[Kepulauan Solomon]]
+|-
+|AN || [[Nauru]]
+|-
+|AY || [[Papua Nugini]]
+|-
+!|| ''B - Islandia/Greenland dan Kosovo''
+|-
+|BG || [[Greenland]]
+|-
+|BI || [[Islandia]]
+|-
+|BK || [[Kosovo]]
+|-
+!|| ''C - Kanada''
+|-
+|C || [[Kanada]]
+|-
+!|| ''D - Afrika Barat''
+|-
+|DA || [[Aljazair]]
+|-
+|DB || [[Benin]]
+|-
+|DF || [[Burkina Faso]]
+|-
+|DG || [[Ghana]]
+|-
+|DI || [[Pantai Gading]]
+|-
+|DN || [[Nigeria]]
+|-
+|DR || [[Niger]]
+|-
+|DT || [[Tunisia]]
+|-
+|DX || [[Togo]]
+|-
+!|| ''E - Eropa Utara''
+|-
+|EB || [[Belgia]]
+|-
+|ED || [[Jerman]] (sipil)
+|-
+|EE || [[Estonia]]
+|-
+|EF || [[Finlandia]]
+|-
+|EG || [[Britania Raya]]
+|-
+|EH || [[Belanda]]
+|-
+|EI || [[Irlandia]]
+|-
+|EK || [[Denmark]]
+|-
+|EL || [[Luxembourg]]
+|-
+|EN || [[Norwegia]]
+|-
+|EP || [[Polandia]]
+|-
+|ES || [[Swedia]]
+|-
+|ET || [[Jerman]] (militer)
+|-
+|EV || [[Latvia]]
+|-
+|EY || [[Lithuania]]
+|-
+!|| ''F - Afrika Selatan''
+|-
+|FA || [[Afrika Selatan]]
+|-
+|FB || [[Botswana]]
+|-
+|FC || [[Kongo]]
+|-
+|FD || [[Swaziland]]
+|-
+|FE || [[Republik Afrika Tengah]]
+|-
+|FG || [[Guinea Khatulistiwa]]
+|-
+|FH || [[Ascension|Pulau Ascension]]
+|-
+|FI || [[Mauritius]]
+|-
+|FJ || [[Teritori Samudra Hindia Britania]] (''British Indian Ocean Territory'')
+|-
+|FK || [[Kamerun]]
+|-
+|FL || [[Zambia]]
+|-
+|FM || [[Komoro]], [[Madagaskar]], [[Mayotte]], [[Runion]]
+|-
+|FN || [[Angola]]
+|-
+|FO || [[Gabon]]
+|-
+|FP || [[So Tom dan Prncipe]]
+|-
+|FQ || [[Mozambik]]
+|-
+|FS || [[Seychelles]]
+|-
+|FT || [[Chad]]
+|-
+|FV || [[Zimbabwe]]
+|-
+|FW || [[Malawi]]
+|-
+|FX || [[Lesotho]]
+|-
+|FY || [[Namibia]]
+|-
+|FZ || [[Republik Demokratik Kongo]]
+|-
+!|| ''G - Afrika Barat Laut''
+|-
+|GA || [[Mali]]
+|-
+|GB || [[Gambia]]
+|-
+|GC || [[Kepulauan Canary]]
+|-
+|GE || [[Ceuta]] dan [[Melilla]]
+|-
+|GF || [[Sierra Leone]]
+|-
+|GG || [[Guinea-Bissau]]
+|-
+|GL || [[Liberia]]
+|-
+|GM || [[Maroko]]
+|-
+|GO || [[Senegal]]
+|-
+|GQ || [[Mauritania]]
+|-
+|GS || [[Sahara Barat]]
+|-
+|GU || [[Guinea]]
+|-
+|GV || [[Tanjung Verde]]
+|-
+!|| ''H - Afrika Timut Laut''
+|-
+|HA || [[Ethiopia]]
+|-
+|HB || [[Burundi]]
+|-
+|HC || [[Somalia]] (termasuk [[Somaliland]])
+|-
+|HD || [[Djibouti]] ''(juga HF)''
+|-
+|HE || [[Mesir]]
+|-
+|HF || [[Djibouti]] ''(juga HD)''
+|-
+|HH || [[Eritrea]]
+|-
+|HK || [[Kenya]]
+|-
+|HL || [[Libya]]
+|-
+|HR || [[Rwanda]]
+|-
+|HS || [[Sudan]]
+|-
+|HT || [[Tanzania]]
+|-
+|HU || [[Uganda]]
+|-
+!|| ''K - Amerika Serikat (tidak termasuk Alaska dan Hawaii)''
+|-
+!|| ''L - Eropa Selatan, Israel, dan Turki''
+|-
+|LA || [[Albania]]
+|-
+|LB || [[Bulgaria]]
+|-
+|LC || [[Siprus]]
+|-
+|LD || [[Kroasia]]
+|-
+|LE || [[Spanyol]]
+|-
+|LF || [[Perancis]], termasuk [[Saint-Pierre dan Miquelon]]
+|-
+|LG || [[Yunani]]
+|-
+|LH || [[Hungaria]]
+|-
+|LI || [[Italia]]
+|-
+|LJ || [[Slovenia]]
+|-
+|LK || [[Republik Ceska]]
+|-
+|LL || [[Israel]]
+|-
+|LM || [[Malta]]
+|-
+|LN || [[Monako]]
+|-
+|LO || [[Austria]]
+|-
+|LP || [[Portugal]], termasuk [[Azores]]
+|-
+|LQ || [[Bosnia dan Herzegovina]]
+|-
+|LR || [[Romania]]
+|-
+|LS || [[Swiss]]
+|-
+|LT || [[Turki]]
+|-
+|LU || [[Moldova]]
+|-
+|LV || [[Jalur Gaza]]
+|-
+|LW || [[Makedonia]]
+|-
+|LX || [[Gibraltar]]
+|-
+|LY || [[Serbia]] dan [[Montenegro]]
+|-
+|LZ || [[Slowakia]]
+|-
+!|| ''M - Amerika Tengah dan Meksiko''
+|-
+|MB || [[Kepulauan Turks dan Caicos]]
+|-
+|MD || [[Republik Dominika]]
+|-
+|MG || [[Guatemala]]
+|-
+|MH || [[Honduras]]
+|-
+|MK || [[Jamaika]]
+|-
+|MM || [[Meksiko]]
+|-
+|MN || [[Nikaragua]]
+|-
+|MP || [[Panama]]
+|-
+|MR || [[Kosta Rika]]
+|-
+|MS || [[El Salvador]]
+|-
+|MT || [[Haiti]]
+|-
+|MU || [[Kuba]]
+|-
+|MW || [[Kepulauan Cayman]]
+|-
+|MY || [[Bahama]]
+|-
+|MZ || [[Belize]]
+|-
+!|| ''N - Pasifik Selatan''
+|-
+|NC || [[Kepulauan Cook]]
+|-
+|NF || [[Fiji]], [[Tonga]]
+|-
+|NG || [[Kiribati]] ([[Kepulauan Gilbert]]), [[Tuvalu]]
+|-
+|NI || [[Niue]]
+|-
+|NL || [[Wallis dan Futuna]]
+|-
+|NS || [[Samoa]], [[Samoa Amerika]]
+|-
+|NT || [[Polinesia Perancis]]
+|-
+|NV || [[Vanuatu]]
+|-
+|NW || [[Kaledonia Baru]]
+|-
+|NZ || [[Selandia Baru]], [[Antartika]]
+|-
+!|| ''O - [[Asia Barat Daya]] (tidak termasuk Israel dan Turki)''
+|-
+|OA || [[Afghanistan]]
+|-
+|OB || [[Bahrain]]
+|-
+|OE || [[Saudi Arabia]]
+|-
+|OI || [[Iran]]
+|-
+|OJ || [[Yordania]] dan [[Tepi Barat]]
+|-
+|OK || [[Kuwait]]
+|-
+|OL || [[Libanon]]
+|-
+|OM || [[Uni Emirat Arab]]
+|-
+|OO || [[Oman]]
+|-
+|OP || [[Pakistan]]
+|-
+|OR || [[Irak]]
+|-
+|OS || [[Syria]]
+|-
+|OT || [[Qatar]]
+|-
+|OY || [[Yaman]]
+|-
+!|| ''P - [[Pasifik Utara]] Timur''
+|-
+|PA || [[Alaska]]
+|-
+|PB || [[Kepulauan Baker]]
+|-
+|PC || [[Kiribati]] (Lapangan Udara Canton, [[Kepulauan Phoenix]])
+|-
+|PF || [[Fort Yukon, Alaska|Fort Yukon]]
+|-
+|PG || [[Guam]], [[Mariana Utara]]
+|-
+|PH || [[Hawaii]]
+|-
+|PJ || [[Atol Johnston]]
+|-
+|PK || [[Marshall Islands]]
+|-
+|PL || [[Kiribati]] ([[Kepulauan Line]])
+|-
+|PM || [[Pulau Midway]])
+|-
+|PO || [[Oliktok Point, Alaska|Oliktok Point]]
+|-
+|PP || [[Point Lay, Alaska]]
+|-
+|PT || [[Federasi Mikronesia]], [[Palau]]
+|-
+|PW || [[Pulau Wake]])
+|-
+!|| ''R - Pasifik Utara Barat''
+|-
+|RC || [[Taiwan]]
+|-
+|RJ || [[Jepang]] (sebagian besar)
+|-
+|RK || [[Korea Selatan]]
+|-
+|RO || [[Prefektur Okinawa]] dan [[Yoron, Kagoshima|Yoron]]
+|-
+|RP || [[Filipina]]
+|-
+!|| ''S - Amerika Selatan''
+|-
+|SA || [[Argentina]]
+|-
+|SB || [[Brasil]] ''(juga SD, SI, SJ, SN, SS and SW)''
+|-
+|SC || [[Cili]]
+|-
+|SD || [[Brasil]] ''(juga SB, SI, SJ, SN, SS and SW)''
+|-
+|SE || [[Ekuador]]
+|-
+|SF || [[Kepulauan Falkland]]
+|-
+|SG || [[Paraguay]]
+|-
+|SI || [[Brasil]] ''(juga SB, SD, SJ, SN, SS and SW)''
+|-
+|SJ || [[Brasil]] ''(juga SB, SD, SI, SN, SS and SW)''
+|-
+|SK || [[Kolombia]]
+|-
+|SL || [[Bolivia]]
+|-
+|SM || [[Suriname]]
+|-
+|SN || [[Brasil]] ''(juga SB, SD, SI, SJ, SS and SW)''
+|-
+|SO || [[Guiana Perancis]]
+|-
+|SP || [[Peru]]
+|-
+|SS || [[Brasil]] ''(juga SB, SD, SI, SJ, SN and SW)''
+|-
+|SU || [[Uruguay]]
+|-
+|SV || [[Venezuela]]
+|-
+|SW || [[Brasil]] ''(juga SB, SD, SI, SJ, SN and SS)''
+|-
+|SY || [[Guyana]]
+|-
+!|| ''T - Karibia''
+|-
+|TA || [[Antigua dan Barbuda]]
+|-
+|TB || [[Barbados]]
+|-
+|TD || [[Dominika]]
+|-
+|TF || [[Guadeloupe]], [[Martinique]], [[Saint Barthlemy]], [[Saint Martin]]
+|-
+|TG || [[Grenada]]
+|-
+|TI || [[Kepulauan Virgin Amerika Serikat]]
+|-
+|TJ || [[Puerto Riko]]
+|-
+|TK || [[Saint Kitts dan Nevis]]
+|-
+|TL || [[Saint Lucia]]
+|-
+|TN || [[Karibia Belanda]], [[Aruba]], [[Curaao]], [[Sint Maarten]]
+|-
+|TQ || [[Anguilla]]
+|-
+|TR || [[Montserrat]]
+|-
+|TT || [[Trinidad and Tobago]]
+|-
+|TU || [[Kepulauan Virgin Britania]])
+|-
+|TV || [[Saint Vincent dan Grenadines]]
+|-
+|TX || [[Bermuda]]
+|-
+!|| ''U - Rusia dan bekas negara Soviet''
+|-
+|U || [[Rusia]] ''(kecuali UA, UB, UD, UG, UK, UM and UT)''
+|-
+|UA || [[Kazakhstan]], [[Kyrgyzstan]]
+|-
+|UB || [[Azerbaijan]]
+|-
+|UD || [[Armenia]]
+|-
+|UG || [[Georgia]]
+|-
+|UK || [[Ukraina]]
+|-
+|UM || [[Belarus]] dan [[Kaliningrad]]
+|-
+|UT || [[Tajikistan]], [[Turkmenistan]], [[Uzbekistan]]
+|-
+!|| ''V - [[Asia Selatan]] (kecuali Pakistan), daratan utama [[Asia Tenggara]], Hong Kong, and Makau''
+|-
+|VA || [[India]] (Zona Barat, Pusat [[Mumbai]])
+|-
+|VC || [[Sri Lanka]]
+|-
+|VD || [[Kamboja]]
+|-
+|VE || India (Zona Timur, Pusat [[Kolkata]])
+|-
+|VG || [[Bangladesh]]
+|-
+|VH || [[Hong Kong]]
+|-
+|VI || India (Zona Utara, Pusat [[Delhi]])
+|-
+|VL || [[Laos]]
+|-
+|VM || [[Makau]]
+|-
+|VN || [[Nepal]]
+|-
+|VO || India (Zona Selatan, Pusat [[Chennai]])
+|-
+|VQ || [[Bhutan]]
+|-
+|VR || [[Maladewa]]
+|-
+|VT || [[Thailand]]
+|-
+|VV || [[Vietnam]]
+|-
+|VY || [[Myanmar]]
+|-
+!|| ''W - [[Wilayah Maritim Asia Tenggara]] (kecuali Filipina)''
+|-
+|WA || [[Indonesia]] ''(juga WI, WQ and WR)''
+|-
+|WB || [[Malaysia]] ([[Malaysia Timur]]), [[Brunei]]
+|-
+|WI || Indonesia ''(juga WA, WQ and WR)''
+|-
+|WM || Malaysia (Semenanjung)
+|-
+|WP || [[Timor-Leste]]
+|-
+|WQ || Indonesia ''(juga WA, WI and WR)''
+|-
+|WR || Indonesia ''(juga WA, WI and WQ)''
+|-
+|WS || [[Singapura]]
+|-
+!|| ''Y - Australia''
+|-
+|Y || [[Australia]]
+|-
+!|| ''Z - [[Asia Timur]] (tidak termasuk Hong Kong, Jepang, Makau, Korea Selatan, dan Taiwan)''
+|-
+|Z || [[Republik Rakyat Tiongkok]] ''(kecuali ZK dan ZM)''
+|-
+|ZK || [[Korea Utara]]
+|-
+|ZM || [[Mongolia]]
+|}
+
+== Lihat pula ==
+* [[Kode bandar udara IATA]]
+
+== Pranala luar ==
+* {{en}} [http://www.homepages.mcb.net/bones/06airfields/icao.htm ICAO World Airfield Catalogue]
+* {{en}} [http://www8.landings.com/cgi-bin/get_file?APT/icao_prefix.html ICAO airport code prefixes]
+* {{en}} [http://www.faa.gov/ATPUBS/LID/LIDHME.htm IATA location identifiers]
+
+[[Kategori:Bandar udara]]
+[[Kategori:Kode Kedirgantaraan]]
+[[Kategori:ICAO]]
+
+
+{{Penerbangan-stub}}

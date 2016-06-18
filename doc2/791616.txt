@@ -1,0 +1,7 @@
+Templat:STPETERSBURGMETRO stations
+{{#switch:{{{station}}}
+| #default=[[{{{station}}} (Saint Petersburg Metro)|{{{station}}}]]
+}}
+<noinclude>
+[[Category:Templat Saint Petersburg Metro]]
+</noinclude>

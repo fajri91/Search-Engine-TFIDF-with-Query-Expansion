@@ -1,0 +1,142 @@
+Templat:Gigi
+{{Navbox Musical artist
+| name       = Gigi
+| title      = [[Gigi (grup musik)|Gigi]]
+| state = {{{state|autocollapse}}}
+| bodyclass  = hlist
+| background = group_or_band
+| above =
+* '''[[Armand Maulana]]'''
+* '''[[Dewa Budjana]]'''
+* '''[[Thomas Ramdhan]]'''
+* '''[[Gusti Hendy]]'''
+
+* [[Aria Baron]]
+* [[Ronald Fristianto]]
+* [[Opet Alatas]]
+* [[Budhy Haryono]]
+
+| group1 = Album studio
+| list1  =
+* ''[[Angan]]''
+* ''[[Dunia (album)|Dunia]]''
+* ''[[3/4]]''
+* ''[[2 x 2]]''
+* ''[[Kilas Balik (album)|Kilas Balik]]''
+* ''[[Baik (album)|Baik]]''
+* ''[[Untuk Semua Umur]]''
+* ''[[Salam Kedelapan]]''
+* ''[[Next Chapter]]''
+* ''[[Peace, Love & Respect|Peace, Love 'N Respect]]''
+* ''[[Gigi (album)|Gigi]]''
+* ''[[Sweet 17]]''
+* ''[[Live At Abbey]]''
+
+| group2 = Album kompilasi
+| list2  =
+* ''[[The Best of Gigi|The Best of]]''
+* ''[[Brownies (film)#Album|Brownies]]''
+
+| group3 = Album live
+| list3 =
+* ''[[The Greatest Hits Live]]''
+
+| group4 = Album religi
+| list4  =
+* ''[[Raihlah Kemenangan]]'' <small>([[Raihlah Kemenangan Repackage|Repackage]])</small>
+* ''[[Pintu Sorga]]''
+* ''[[Jalan Kebenaran]]''
+* ''[[Amnesia (album)|Amnesia]]''
+* ''[[Aku dan Aku]]''
+* ''[[Mohon Ampun]]''
+
+| group5 = Video musik dan singel
+| list5  = {{Navbox musical artist|border=child
+
+| group1 = Singel reguler (19942002)
+| list1  =
+* "Angan"
+* "Kuingin"
+* "Janji"
+* "Yang Tlah Berlalu (Nirwana)"
+* "Oo..Oo..Oo.."
+* "Damainya Cinta"
+* "Kurindukan"
+* "Dimanakah Kau Berada?"
+* "Terbang"
+* "Hinakah?"
+* "Sedikit Saja"
+* "Aku"
+* "Diva"
+* "Jomblo"
+* "Andai"
+
+| group2 = Singel reguler (2003sekarang)
+| list2  =
+* "Terima Saja"
+* "Perihal Cinta"
+* "Kucari Yang Kau Mau"
+* "Bisa Saja"
+* "Cinta Terakhir"
+* "Tanpamu Sepi"
+* "Kepastian Yang Kutunggu"
+* "Bila"
+* "Nakal"
+* "11 Januari"
+* "Ya Ya Ya"
+* "My Facebook"
+* "Sang Pemimpi"
+* "Bye Bye"
+* "Sahabat"
+* "Seseorang"
+
+| group3 = Singel religi (2004sekarang)
+| list3  =
+* "Tuhan"
+* "Perdamaian"
+* "Pintu Sorga"
+* "Jalan Kebenaran"
+* "Gerbang Cintamu"
+* "Amnesia"
+* "Restu Cintamu"
+* "Aku Dan Aku"
+* "Cintailah Mereka"
+* "Mohon Ampun"
+}}
+
+| group6 = Terkait
+| list6  = {{Navbox musical artist|border=child
+
+| group1 = Artikel
+| list1  =
+* [[Diskografi Gigi (band)|Diskografi]]
+
+| group2 = Label
+| list2  =
+* [[Atlantic Record]]
+* Ceepee Productions
+* [[Sony Music Entertainment Indonesia]]
+* [[Universal Music Group|Universal Music Indonesia]]
+* POS Entertainment
+
+| group3 = Album
+| list3  =
+* ''Funtastic Bands''
+* ''[[Tribute to Ian Antono]]''
+* ''Clear Top 10 Album Vol. 2''
+* ''Clear Top 10 Album Vol. 3''
+* ''[[Kita Untuk Mereka]]''
+* ''[[No. 1 Hits Vol. 7]]''
+* ''Broken Heart''
+* ''[[Made in Indonesia]]''
+* ''[[Maia & Friends]]''
+* ''[[Sang Pemimpi (film)#Lagu tema|Sang Pemimpi]]''
+
+| group4 = Band
+| list4  =
+* [[Dewi Gita]]
+* [[Baron Soulmates]]
+* [[Nita Tilana]]
+}}
+|below = {{Icon|Category}} '''[[:Category:Templat band|Gigi]]'''
+}}<noinclude>

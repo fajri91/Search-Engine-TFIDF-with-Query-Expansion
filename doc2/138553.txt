@@ -1,0 +1,14 @@
+SpamAssassin
+[[Berkas:Reco spam.png|thumb|E-mail yang dideteksi sebagai spam oleh SpamAssassin]]
+
+'''SpamAssassin''' adalah [[program komputer]] yang dijalankan pada [[Apache]] rilis 2.0 dan dipakai untuk menyaring [[spam]] terhadap [[surat elektronik]] yang masuk. Prinsip kerja dari SpamAssassin ini adalah berdasarkan pengecekan isi e-mail (content-matching rules), pengecekan alamat [[DNS]], pengecekan checksum isi, dan berdasarkan pada penyaringan secara statistik, yang didukung oleh [[basis data]] online.
+
+'''SpamAssassin''' ini secara umum dianggap paling efektif dalam memerangi spam, terutama jika dikombinasikan dengan basisdata spam.
+
+== Pranala luar ==
+* [http://spamassassin.apache.org/ situs terkait]
+
+{{software-stub}}
+
+[[Kategori:Penyaring spam]]
+[[Kategori:Surat elektronik]]

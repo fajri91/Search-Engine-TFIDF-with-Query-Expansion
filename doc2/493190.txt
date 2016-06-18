@@ -1,0 +1,32 @@
+Templat:Bagikan
+<div class="NavFrame collapsed noprint" style="border:none; float:right; width:12em; padding:0; margin:0 0 0 2em;">
+<div class="NavHead" style="background:none; text-align:left; color:#666;">Bagikan&nbsp;&nbsp;</div>
+<div class="NavContent plainlinks" style="background:#FFF; border:1px solid; border-color:#bbb #aaa #999; {{box-shadow|0px|1px|3px|rgba(0,0,0,0.2)}}; float:right; font-size:80%; margin:.5em 0 1em; text-align:left; padding:2px 5px; position:static; text-transform:uppercase; width:12em; z-index:20;">
+{{#ifeq:{{NAMESPACE}}|Pembicaraan|
+<ul style="list-style:none; margin:0;">
+<li>[[File:Icon External Link E-Mail.png|12px|alt=|link=]]&ensp;[mailto:?subject={{urlencode:{{PAGENAME}}}}&body={{urlencode:{{PAGENAME}}}}%0Ahttp://id.wikipedia.org/wiki/{{PAGENAMEE}} Email]</li>
+<li>[[File:Delicious.svg|12px|alt=|link=]]&ensp;[//delicious.com/save?v=5&url={{urlencode:http://id.wikipedia.org/wiki/{{PAGENAMEE}}}}&tite={{urlencode:{{PAGENAME}}}} Delicious]</li>
+<li>[[File:Digg.svg|12px|alt=|link=]]&ensp;[http://digg.com/submit?url={{urlencode:http://id.wikipedia.org/wiki/{{PAGENAMEE}}}}&title={{urlencode:{{PAGENAME}}}} Digg]</li>
+<li>[[File:F icon.svg|12px|alt=|link=]]&ensp;[//facebook.com/sharer.php?u={{urlencode:http://id.m.wikipedia.org/wiki/{{PAGENAMEE}}}}&t={{urlencode:{{PAGENAME}}}} Facebook]</li>
+<li>[[File:Google plus.svg|12px|alt=|link=]]&ensp;[//plusone.google.com/_/+1/confirm?hl=en&url={{urlencode:http://id.wikipedia.org/wiki/{{PAGENAMEE}}}} Google+]
+<li>[[File:Identica Icon.png|12px|alt=|link=]]&ensp;[//identi.ca/index.php?action=newnotice&status_textarea={{urlencode:Baca {{PAGENAME}} di @idwiki: http://id.wikipedia.org/wiki/{{PAGENAMEE}}}} Identica]</li>
+<li>[[File:Reddit.svg|12px|alt=|link=]]&ensp;[//ssl.reddit.com/submit?url={{urlencode:http://id.wikipedia.org/wiki/{{PAGENAMEE}}}}&title={{urlencode:{{PAGENAME}}}} Reddit]</li>
+<li>[[File:Stumbleupon.svg|12px|alt=|link=]]&ensp;[//www.stumbleupon.com/submit?url={{urlencode:http://id.wikipedia.org/wiki/{{PAGENAMEE}}}}&title={{urlencode:{{PAGENAME}}}} StumbleUpon]</li>
+<li>[[File:Twitter logo initial.svg|12px|alt=|link=]]&ensp;[//twitter.com/share?via=idwiki&url=http://id.m.wikipedia.org/wiki/{{PAGENAMEE}}&text={{urlencode:{{PAGENAME}}}}&related=idwiki,wikipedia Twitter]</li>
+</ul>
+|
+<ul style="list-style:none; margin:0;">
+<li>[[File:Icon External Link E-Mail.png|12px|alt=|link=]]&ensp;[mailto:?subject={{urlencode:{{FULLPAGENAME}}}}&body={{urlencode:{{FULLPAGENAME}}}}%0Ahttp://id.wikipedia.org/wiki/{{FULLPAGENAMEE}} Email]</li>
+<li>[[File:Delicious.svg|12px|alt=|link=]]&ensp;[//delicious.com/save?v=5&url={{urlencode:http://id.wikipedia.org/wiki/{{FULLPAGENAMEE}}}}&tite={{urlencode:{{FULLPAGENAME}}}} Delicious]</li>
+<li>[[File:Digg.svg|12px|alt=|link=]]&ensp;[http://digg.com/submit?url={{urlencode:http://id.wikipedia.org/wiki/{{FULLPAGENAMEE}}}}&title={{urlencode:{{FULLPAGENAME}}}} Digg]</li>
+<li>[[File:F icon.svg|12px|alt=|link=]]&ensp;[//facebook.com/sharer.php?u={{urlencode:http://id.m.wikipedia.org/wiki/{{FULLPAGENAMEE}}}}&t={{urlencode:{{FULLPAGENAME}}}} Facebook]</li>
+<li>[[File:Google plus.svg|12px|alt=|link=]]&ensp;[//plusone.google.com/_/+1/confirm?hl=en&url={{urlencode:http://id.wikipedia.org/wiki/{{FULLPAGENAMEE}}}} Google+]
+<li>[[File:Identica Icon.png|12px|alt=|link=]]&ensp;[//identi.ca/index.php?action=newnotice&status_textarea={{urlencode:Baca {{FULLPAGENAME}} di @idwiki: http://id.wikipedia.org/wiki/{{FULLPAGENAMEE}}}} Identica]</li>
+<li>[[File:Reddit.svg|12px|alt=|link=]]&ensp;[//ssl.reddit.com/submit?url={{urlencode:http://id.wikipedia.org/wiki/{{FULLPAGENAMEE}}}}&title={{urlencode:{{FULLPAGENAME}}}} Reddit]</li>
+<li>[[File:Stumbleupon.svg|12px|alt=|link=]]&ensp;[//www.stumbleupon.com/submit?url={{urlencode:http://id.wikipedia.org/wiki/{{FULLPAGENAMEE}}}}&title={{urlencode:{{FULLPAGENAME}}}} StumbleUpon]</li>
+<li>[[File:Twitter logo initial.svg|12px|alt=|link=]]&ensp;[//twitter.com/share?via=idwiki&url=http://id.m.wikipedia.org/wiki/{{FULLPAGENAMEE}}&text={{urlencode:{{FULLPAGENAME}}}}&related=idwiki,wikipedia Twitter]</li>
+</ul>
+}}
+</div>
+</div><noinclude>
+[[Kategori:Templat media sosial]]</noinclude>

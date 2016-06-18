@@ -1,0 +1,201 @@
+Open Castilla y Len 2011  Ganda
+{{Tennis events 2|2011|Open Castilla y Len|
+| champ = {{flagicon|SWE}} [[Johan Brunstrm]]<br />{{flagicon|DEN}} [[Frederik Nielsen]]
+| runner = {{flagicon|FRA}} [[Nicolas Mahut]]<br />{{flagicon|CRO}} [[Lovro Zovko]]
+| score = 62, 36, [106]
+}}
+{{main|Open Castilla y Len 2011}}
+[[Thiago Alves]] dan [[Franco Ferreiro]] merupakan juara bertahan turnamen ini, tetapi memilih untuk tidak berpartisipasi.<br />
+[[Johan Brunstrm]] dan [[Frederik Nielsen]] keluar sebagai juara setelah mengalahkan [[Nicolas Mahut]] dan [[Lovro Zovko]] dengan skor 62, 36, [106].
+
+== Unggulan ==
+{{col-begin}}
+{{col-2}}
+# {{flagicon|GBR}} [[Jamie Delgado]] / {{flagicon|GBR}} [[Jonathan Marray]] ''(Babak Penyisihan)
+# {{flagicon|SWE}} '''[[Johan Brunstrm]]''' / {{flagicon|DEN}} '''[[Frederik Nielsen]] (Juara)'''
+{{col-2}}
+<ol start="3">
+<li> {{flagicon|FRA}} [[Nicolas Mahut]] / {{flagicon|CRO}} [[Lovro Zovko]] ''(Juara Kedua)
+<li> {{flagicon|ESP}} [[Adrin Menndez]] / {{flagicon|SWE}} [[Andreas Siljestrm]] ''(Semifinal)
+</ol>
+{{col-end}}
+
+== Hasil pengundian ==
+{{Draw key}}
+=== Hasil pengundian ===
+{{16TeamBracket-Compact-Tennis3
+| RD1=Babak Penyisihan
+| RD2=Perempatfinal
+| RD3=Semifinal
+| RD4=Final
+
+| RD1-seed01=1
+| RD1-team01={{flagicon|GBR}} [[Jamie Delgado|J Delgado]]<br />&nbsp;{{flagicon|GBR}} [[Jonathan Marray|J Marray]]
+| RD1-score01-1=4
+| RD1-score01-2=4
+| RD1-score01-3=&nbsp;
+| RD1-seed02=&nbsp;
+| RD1-team02='''{{flagicon|ESP}} [[Roberto Bautista-Agut|R Bautista-Agut]]<br />&nbsp;{{flagicon|ESP}} [[Ivn Navarro (tennis)|I Navarro]]
+| RD1-score02-1='''6
+| RD1-score02-2='''6
+| RD1-score02-3=&nbsp;
+
+| RD1-seed03=&nbsp;
+| RD1-team03='''{{flagicon|RUS}} [[Teymuraz Gabashvili|T Gabashvili]]<br />&nbsp;{{flagicon|KAZ}} [[Mikhail Kukushkin|M Kukushkin]]
+| RD1-score03-1='''7<sup>10</sup>
+| RD1-score03-2='''6
+| RD1-score03-3=&nbsp;
+| RD1-seed04=&nbsp;
+| RD1-team04={{flagicon|ESP}} Guillermo Gmez-Diaz<br />&nbsp;{{flagicon|ESP}} Mikey Suleau
+| RD1-score04-1=6<sup>8</sup>
+| RD1-score04-2=3
+| RD1-score04-3=&nbsp;
+
+| RD1-seed05=3
+| RD1-team05='''{{flagicon|FRA}} [[Nicolas Mahut|N Mahut]]<br />&nbsp;{{flagicon|CRO}} [[Lovro Zovko|L Zovko]]'''
+| RD1-score05-1='''6
+| RD1-score05-2='''6
+| RD1-score05-3=&nbsp;
+| RD1-seed06=WC
+| RD1-team06={{nowrap|{{flagicon|ESP}} Rubn Hernndo-Ruano}}<br />&nbsp;{{flagicon|ROU}} Christian Vionea
+| RD1-score06-1=1
+| RD1-score06-2=1
+| RD1-score06-3=&nbsp;
+
+| RD1-seed07=&nbsp;
+| RD1-team07={{flagicon|FRA}} [[Kenny de Schepper|K de Schepper]]<br />&nbsp;{{flagicon|FRA}} [[Fabrice Martin|F Martin]]
+| RD1-score07-1='''7
+| RD1-score07-2=4
+| RD1-score07-3=[4]
+| RD1-seed08=&nbsp;
+| RD1-team08='''{{flagicon|ESP}} [[Pablo Carreo-Busta|P Carreo-Busta]]<br />&nbsp;{{flagicon|ESP}} [[Gerard Granollers|G Granollers]]
+| RD1-score08-1=5
+| RD1-score08-2='''6
+| RD1-score08-3='''[10]
+
+| RD1-seed09=WC
+| RD1-team09={{flagicon|ESP}} [[Marc Fornell-Mestres|M Fornell-Mestres]]<br />&nbsp;{{flagicon|ESP}} Mario Muniesa
+| RD1-score09-1=6<sup>1</sup>
+| RD1-score09-2=3
+| RD1-score09-3=&nbsp;
+| RD1-seed10=&nbsp;
+| RD1-team10='''{{flagicon|ESP}} Alejandro Andino<br />&nbsp;{{flagicon|BOL}} [[Federico Zeballos|F Zeballos]]
+| RD1-score10-1='''7<sup>7</sup>
+| RD1-score10-2='''6
+| RD1-score10-3=&nbsp;
+
+| RD1-seed11=&nbsp;
+| RD1-team11={{flagicon|SVK}} [[Karol Beck|K Beck]]<br />&nbsp;{{flagicon|GBR}} [[Ken Skupski|K Skupski]]
+| RD1-score11-1=6<sup>0
+| RD1-score11-2='''6
+| RD1-score11-3=[7]
+| RD1-seed12=4
+| RD1-team12='''{{flagicon|ESP}} [[Adrin Menndez|A Menndez]]<br />&nbsp;{{flagicon|SWE}} [[Andreas Siljestrm|A Siljestrm]]
+| RD1-score12-1='''7<sup>7
+| RD1-score12-2=4
+| RD1-score12-3='''[10]
+
+| RD1-seed13=&nbsp;
+| RD1-team13='''{{flagicon|BEL}} [[Ruben Bemelmans|R Bemelmans]]<br />&nbsp;{{flagicon|NED}} [[Igor Sijsling|I Sijsling]]
+| RD1-score13-1='''6
+| RD1-score13-2='''6
+| RD1-score13-3=&nbsp;
+| RD1-seed14=WC
+| RD1-team14={{flagicon|ESP}} Roberto Ortega-Olmedo<br />&nbsp;{{flagicon|ESP}} Jaime Pulgar-Garca
+| RD1-score14-1=3
+| RD1-score14-2=0
+| RD1-score14-3=&nbsp;
+
+| RD1-seed15=&nbsp;
+| RD1-team15={{flagicon|FRA}} [[Vincent Millot|V Millot]]<br />&nbsp;{{flagicon|FRA}} [[Albano Olivetti|A Olivetti]]
+| RD1-score15-1=4
+| RD1-score15-2=4
+| RD1-score15-3=&nbsp;
+| RD1-seed16=2
+| RD1-team16='''{{flagicon|SWE}} [[Johan Brunstrm|J Brunstrm]]<br />&nbsp;{{flagicon|DEN}} [[Frederik Nielsen|F Nielsen]]
+| RD1-score16-1='''6
+| RD1-score16-2='''6
+| RD1-score16-3=&nbsp;
+
+| RD2-seed01=&nbsp;
+| RD2-team01='''{{flagicon|ESP}} [[Roberto Bautista-Agut|R Bautista-Agut]]<br />&nbsp;{{flagicon|ESP}} [[Ivn Navarro (tennis)|I Navarro]]
+| RD2-score01-1='''7<sup>7</sup>
+| RD2-score01-2='''6
+| RD2-score01-3=&nbsp;
+| RD2-seed02=&nbsp;
+| RD2-team02={{flagicon|RUS}} [[Teymuraz Gabashvili|T Gabashvili]]<br />&nbsp;{{flagicon|KAZ}} [[Mikhail Kukushkin|M Kukushkin]]
+| RD2-score02-1=6<sup>3</sup>
+| RD2-score02-2=4
+| RD2-score02-3=&nbsp;
+
+| RD2-seed03=3
+| RD2-team03='''{{flagicon|FRA}} [[Nicolas Mahut|N Mahut]]<br />&nbsp;{{flagicon|CRO}} [[Lovro Zovko|L Zovko]]
+| RD2-score03-1='''7<sup>7</sup>
+| RD2-score03-2=4
+| RD2-score03-3='''[10]
+| RD2-seed04=&nbsp;
+| RD2-team04={{flagicon|ESP}} [[Pablo Carreo-Busta|P Carreo-Busta]]<br />&nbsp;{{flagicon|ESP}} [[Gerard Granollers|G Granollers]]
+| RD2-score04-1=6<sup>2</sup>
+| RD2-score04-2='''6
+| RD2-score04-3=[5]
+
+| RD2-seed05=&nbsp;
+| RD2-team05={{Nowrap|{{flagicon|ESP}} Alejandro Andino}}<br />&nbsp;{{flagicon|BOL}} [[Federico Zeballos|F Zeballos]]
+| RD2-score05-1=3
+| RD2-score05-2=0
+| RD2-score05-3=&nbsp;
+| RD2-seed06=4
+| RD2-team06='''{{flagicon|ESP}} [[Adrin Menndez|A Menndez]]<br />&nbsp;{{flagicon|SWE}} [[Andreas Siljestrm|A Siljestrm]]
+| RD2-score06-1='''6
+| RD2-score06-2='''6
+| RD2-score06-3=&nbsp;
+
+| RD2-seed07=&nbsp;
+| RD2-team07={{flagicon|BEL}} [[Ruben Bemelmans|R Bemelmans]]<br />&nbsp;{{flagicon|NED}} [[Igor Sijsling|I Sijsling]]
+| RD2-score07-1=3
+| RD2-score07-2=2
+| RD2-score07-3=&nbsp;
+| RD2-seed08=2
+| RD2-team08='''{{flagicon|SWE}} [[Johan Brunstrm|J Brunstrm]]<br />&nbsp;{{flagicon|DEN}} [[Frederik Nielsen|F Nielsen]]
+| RD2-score08-1='''6
+| RD2-score08-2='''6
+| RD2-score08-3=&nbsp;
+
+| RD3-seed01=&nbsp;
+| RD3-team01={{Nowrap|{{flagicon|ESP}} [[Roberto Bautista-Agut|R Bautista-Agut]]}}<br />&nbsp;{{flagicon|ESP}} [[Ivn Navarro (tennis)|I Navarro]]
+| RD3-score01-1=3
+| RD3-score01-2=6<sup>0</sup>
+| RD3-score01-3=&nbsp;
+| RD3-seed02=3
+| RD3-team02='''{{flagicon|FRA}} [[Nicolas Mahut|N Mahut]]<br />&nbsp;{{flagicon|CRO}} [[Lovro Zovko|L Zovko]]
+| RD3-score02-1='''6
+| RD3-score02-2='''7<sup>7</sup>
+| RD3-score02-3=&nbsp;
+
+| RD3-seed03=4
+| RD3-team03={{flagicon|ESP}} [[Adrin Menndez|A Menndez]]<br />&nbsp;{{flagicon|SWE}} [[Andreas Siljestrm|A Siljestrm]]
+| RD3-score03-1=3
+| RD3-score03-2=4
+| RD3-score03-3=&nbsp;
+| RD3-seed04=2
+| RD3-team04='''{{flagicon|SWE}} [[Johan Brunstrm|J Brunstrm]]<br />&nbsp;{{flagicon|DEN}} [[Frederik Nielsen|F Nielsen]]
+| RD3-score04-1='''6
+| RD3-score04-2='''6
+| RD3-score04-3=&nbsp;
+
+| RD4-seed01=3
+| RD4-team01={{flagicon|FRA}} [[Nicolas Mahut|N Mahut]]<br />&nbsp;{{flagicon|CRO}} [[Lovro Zovko|L Zovko]]
+| RD4-score01-1=2
+| RD4-score01-2='''6
+| RD4-score01-3=[6]
+| RD4-seed02=2
+| RD4-team02='''{{Nowrap|{{flagicon|SWE}} [[Johan Brunstrm|J Brunstrm]]}}<br />&nbsp;{{flagicon|DEN}} [[Frederik Nielsen|F Nielsen]]
+| RD4-score02-1='''6
+| RD4-score02-2=3
+| RD4-score02-3='''[10]
+}}
+
+== Referensi ==
+* [http://www.atpworldtour.com/posting/2011/783/mdd.pdf Undian Utama]
+
+[[Kategori:ATP Challenger Tour 2011|Open Castilla y Len  Ganda]]

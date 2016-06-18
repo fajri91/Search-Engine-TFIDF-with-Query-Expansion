@@ -1,0 +1,9 @@
+Templat:Unichar/notes
+{{#ifeq:{{{finaltext| NOTEXT }}} | NOTEXT ||<!--bracket open-->({{
+#ifeq:{{{dec|<#salted#>}}} | <#salted#> ||{{{dval|}}}<sub>decimal</sub>{{
+#ifeq:{{{finaltext|}}}|DEC||,&#x20;}}}}{{
+#ifeq:{{{html|<#salted#>}}} | <#salted#> ||HTML: <code>&amp;#{{{dval|}}};</code>{{#if:{{{char_entity|}}}|&#x20;<code>{{{char_entity|}}}</code>}}{{
+#ifeq:{{{finaltext|}}}|HTML||&#x20;}}}}{{
+#ifeq:{{{note|<#salted#>}}} | <#salted#> ||{{{note}}}}}<!--bracket close-->)}}<noinclude>
+{{Documentation}}
+</noinclude>

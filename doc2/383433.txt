@@ -1,0 +1,24 @@
+Bahasa Anasi
+{{Infobox Bahasa
+|name=Anasi
+|nativename=Bapu
+|states=[[Indonesia]]
+|region=[[Mamberamo Ilir, Mamberamo Raya|Mamberamo Ilir]], [[Kabupaten Mamberamo Raya]]
+|speakers=2.000 (R. Doriot, 1993)
+|familycolor=Papuan
+|fam1=[[Rumpun bahasa Teluk Geelvink Timur|Teluk Geelvink Timur]]
+|script=
+|iso1=-
+|iso2=-
+|iso3=bpo
+}}
+'''Bahasa Anasi''' adalah sebuah bahasa yang dituturkan di [[Papua]], [[Indonesia]], tepatnya di distrik [[Mamberamo Ilir, Mamberamo Raya|Mamberamo Ilir]], [[Kabupaten Mamberamo Raya]], pantai utara, dan tepi barat hulu [[Sungai Mamberamo]].
+
+== Pranala luar ==
+* {{en}} {{ethnologue|bpo}}
+
+{{Bahasa daerah di Indonesia}}
+{{bahasa-stub}}
+{{DEFAULTSORT:Anasi}}
+
+[[Kategori:Bahasa di Papua]]

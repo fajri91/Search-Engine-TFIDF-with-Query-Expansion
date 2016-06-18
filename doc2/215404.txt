@@ -1,0 +1,71 @@
+Heckler & Koch MP7
+{{Infobox Weapon
+|name=Heckler & Koch MP7
+|image=[[Berkas:H&K MP7.jpg|300px|alt=]]
+|caption=Sepucuk Heckler & Koch MP7A1 yang digunakan oleh [[IdZ]] Jerman.
+|origin=[[Jerman]]
+|type=[[PDW|Personal defense weapon]]
+[[Pistol mitraliur]]
+|is_ranged=yes
+|service=
+|designer=
+|design_date=
+|manufacturer=[[Heckler & Koch]]
+|production_date=2001sekarang
+|number=
+|variants=
+|weight=1,9 kg tanpa magasen
+|length=638 mm  popor dibuka
+415 mm popor dilipat
+|width=	51 [[mm]]
+|height=169,5 mm
+|cartridge=[[4,6 x 30 mm]]
+|action=Operasi gas, bolt berputar
+|rate=950 butir/menit
+|velocity=725 m/s (meter/detik)
+|range=200 [[m]]
+|feed=[[Magazen]] box isi 20/30/40 butir peluru
+|sights=Besi, [[Rel Picatinny]]
+}}
+'''MP7''' (Maschinenpistole-7) adalah [[Pistol mitraliur|pistol mitraliur (submachine gun)]] buatan [[Jerman]] yang diproduksi oleh [[Heckler & Koch|Heckler & Koch (H&K)]] dengan ukuran kaliber [[4,6 x 30 mm]]. MP7 dirancang dengan kaliber baru untuk memenuhi persyaratan NATO yang dikeluarkan pada tahun 1989 yang menyebutkan senjata pertahanan pribadi ([[PDW|Personal defense Weapon (PDW)]] kelas senjata api dengan kemampuan yang lebih baik untuk pertahanan pribadi dari senjata saat ini yang terbatas karena penggunaan peluru pistol konvensional. MP7 mulai diproduksi tahun 2001. Ini adalah pesaing langsung dari [[FN P90]], juga dikembangkan untuk menanggapi kebutuhan [[NATO]]. Revisi dari MP7 sejak pengenalan dan versi produksi saat ini adalah MP7A1.
+
+Perkembangan ''body armor'' berkualitas tinggi membuat senjata api beramunisi pistol (seperti [[Heckler & Koch MP5|H&K MP5]] atau [[Heckler & Koch UCP|UCP]]) menjadi tidak efektif. Dalam menanggapi masalah ini, pabrik HK merancang MP7 (bersama dengan UCP baru, yang menggunakan amunisi yang sama) untuk menembus pelindung tubuh, tetapi cukup ringan untuk digunakan di tempat yang baik sebagai pistol atau senapan submesin ringan<ref name="MP7">{{cite web |url=http://www.heckler-koch.de/HKWebText/detailProd/1926/81/4/20 |title=MP7 A1  Personal Defence Weapon |accsess date=25 Juli 2010}}</ref>.
+
+== Desain MP7 ==
+MP7 dasarnya dioperasikan dengan ''scaled-down'' senapan serbu, dengan sistem yang sama seperti [[HK G36|Heckler & Koch G36]]. Hal ini didasari bahwa kaliber [[5,56 x 45 mm]] NATO digunakan oleh kebanyakan senapan modern saat ini. Peluru MP7 tergolong unik di antara senapan submesin lainnya, di mana peluru hampir seluruhnya terbuat dari baja yang dikeraskan, bukan dibuat lebih lembut dengan penetrator kuningan atau timah. Peluru hampir eksklusif untuk pistol (kecuali H&K UCP dan merupakan varian dari Brugger & Thomet MP9) dan juga memberikan recoil rendah<ref name="MP7"/>. Laras senjata juga memiliki diameter kecil (dapat dikatakan sebagai pengecilan kaliber [[.223 Remington]]), memungkinkan untuk kapasitas yang tinggi dalam kebutuhan mendesak.
+
+MP7 dapat menggunakan model [[magazen]] 20 peluru, 30 peluru maupun 40 peluru (ukuran yang sama dengan magasin 15 peluru [[9 x 19 mm Parabellum|9 mm]], sedangkan yang terakhir sama dengan magasin 30 peluru 9mm). Fitur senjata lainnya adalah tuas depan dan pegangan belakang yang dapat ditarik. Pegangan depan dapat dipakai sesuai kebutuhan, singkatnya MP7 dapat dipegang dengan satu tangan atau dua tangan. Hal ini terbukti ringan karena menggunakan bahan [[polimer]] dalam konstruksi.
+
+MP7 dipasarkan sebagai pesaing langsung ke [[FN P90]]. Beberapa pengamat membuat perbandingan bahwa MP7 lebih mendekati pistol daripada senapan submesin. Fitur FN P90 yang lebih sederhana dengan desain yang lurus dan bersistem blowback dengan model tertutup, sehingga tidak ada putaran bolt atau sistem gas, tetapi lebih berat daripada MP7.
+
+== Variasi ==
+* '''PDW''': Model pertama dari MP7, ditampilkan tahun 1999 dan ditetapkan sebagai 'PDW' (Personal Defense Weapon). Mempunyai [[rel Picatinny]] pendek di bagian atas dan pegangan pistol yang halus.
+* '''MP7''': Pada tahun 2001 dinobatkan sebagai 'MP7' dan masuk ke produksi. Mulai diperbarui dengan adanya rel Picatinny yang panjang, badan senjata yang melengkung tebal dan permukaan anti-geser pada pegangan pistol yang mirip dengan [[Heckler & Koch USP|H&K USP]]. MP7 juga menggunakan alat pembidik berbahan besi yang dipasang di rel Picatinny dan tombol untuk mengatur pembidik dibuat lebih besar sehingga pengoperasiannya lebih mudah.
+* '''MP7A1''': Pada tahun 2003 kemudian diubah lagi menjadi 'MP7A1' dan menggunakan pegangan pistol yang didesain ulang dengan permukaan yang berbeda dan bentuk melengkung, badan senjata yang lebih kecil dengan unjung popor lurus, serta rel Picatinny sebagai standar dan alat pembidik yang dibuat lebih baik lagi. Senjata ini dibuat sedikit lebih lama, tetapi karena badan diperpendek, panjang keseluruhan memang tidak berubah. Terdapat 3 posisi mengunci. Model lama MP7A1 memiliki pengaman mirip dengan pistol Glock; bagian atas tengah pelatuk harus ditarik terlebih dahulu dalam mengganti magazen atau mengeluarkan peluru. Hal ini membantu untuk mengeluarkan peluru yang ada di dalam magazen.
+
+== Aksesoris ==
+Fitur MP7 terbilang lengkap, terdiri dari [[rel Picatinny]] yang dirancang standar dengan lipatan-lipatan (slot) dan alat pembidik. Ketika pembidik dihilangkan, senapan terlihat seperti senapan submesin pada umumnya. Alat pembidik dapat dilepas dengan melonggarkan sekrup tunggal dan mengangkat alatnya. Hal ini dapat ditunjang dengan keberadaan rel picatinny tambahan di sisi laras, yang memungkinkan untuk memasang alat bidik teleskopik ''red dot sight'', laser pemandu bidikan (LAM), dan senter taktis. MP7 juga dapat menggunakan [[peredam suara]].
+
+== Lihat juga Personal Defense Weapon (PDW) Modern ==
+* [[PDW|Personal Defense Weapon (PDW)]]
+* [[FN P90]]
+
+== Lihat juga PDW berpeluru pistol ==
+* [[FN Five-seven]]
+* [[Heckler & Koch UCP]]
+
+== Catatan kaki ==
+{{reflist}}
+
+== Pranala luar ==
+{{commons|MP7}}
+* [http://www.hkd-usa.com/HKWebText/detailProd/1926/81/4/20 HK Defense: MP7 product page]
+* [http://hkpro.com/index.php?option=com_content&view=article&id=88:mp7&catid=9:the-submachine-guns&Itemid=5 HKPRO page on HK MP7]
+* [http://world.guns.ru/smg/smg49-e.htm Modern Firearms&nbsp; HK MP7]
+
+{{Personal defense weapons}}
+
+[[Kategori:Heckler & Koch]]
+[[Kategori:PDW|Personal Defense Weapon]]
+[[Kategori:Pistol mitraliur]]
+[[Kategori:Artikel kelas-A bertopik militer]]

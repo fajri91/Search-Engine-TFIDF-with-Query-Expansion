@@ -1,0 +1,100 @@
+Sistem PA
+Sistem alamat publik (PA system) adalah amplifikasi suara elektronik dan sistem distribusi dengan [[mikrofon]], [[amplifier]], dan [[pengeras suara]], yang digunakan untuk memungkinkan seseorang untuk mengatasi publik yang besar, misalnya untuk pengumuman pergerakan di udara besar dan berisik dan terminal kereta api.
+
+Istilah ini juga digunakan untuk sistem yang mungkin memiliki tambahan konsol mixing, dan amplifier dan pengeras suara yang cocok untuk musik serta pidato, digunakan untuk memperkuat sumber suara, seperti rekaman musik atau orang yang berpidato atau menyebarkan suara sepanjang sebuah tempat atau bangunan.
+
+'''Sistem PA''' sederhana sering digunakan di tempat-tempat kecil seperti auditorium sekolah, gereja, dan bar kecil. Sistem PA dengan banyak speaker banyak digunakan untuk membuat pengumuman di gedung-gedung publik, kelembagaan dan komersial, serta lokasi. Sistem [[interkom]] yang banyak dipasang di gedung, memiliki mikrofon di banyak ruangan agar memungkinkan penghuni untuk menanggapi pengumuman.
+
+Sistem penguatan suara dan sistem PA dapat menggunakan beberapa komponen yang sama, tetapi dengan berbeda aplikasi, meskipun perbedaan antara keduanya adalah tidak jelas. Sistem penguatan suara lebih sering digunakan untuk musik atau pertunjukan, sedangkan PA sistem lebih sering digunakan untuk reproduksi pidato. Di Inggris, sistem PA seringkali dalam bahasa sehari-hari disebut sebagai Tannoy, setelah perusahaan itu nama sekarang dimiliki oleh TC Electronic Group, yang memasok banyak sekali sistem PA yang digunakan pada masa lalu.<ref name="Wikipedia">[http://en.wikipedia.org/wiki/Public_address], Public address.</ref>
+
+== Komponen Perangkat ==
+Ada beberapa komponen yang berbeda namun sangat penting dalam sistem PA. Komponen tersebut terdiri dari 5 perangkat, yakni Mikrofon, [[Audio Mixer|Mixer]], Amplifier, Speaker, dan Recorder.
+
+=== Mikrofon ===
+Pada dasarnya mikrofon berguna untuk mengubah suara memjadi getaran listrik sinyal Analog untuk selanjutnya diperkuat dan diolah sesuai dengan kebutuhan, pengolahan berikutnya dengan Power Amplifier dari suara yang berintensitas rendah menjadi lebih keras terakhir diumpan ke Speaker.
+
+Pemilihan mikrofon harus dilakukan dengan lebih hati-hati. Hal ini dilakukan untuk mencegah berkurangnya kemampuan mikrofon dari performa yang optimal.
+Agar lebih efektif, mikrofon yang digunakan haruslah sesuai kebutuhan dan seimbang antara sumber suara yang ingin dicuplik, misalnya suara manusia, alat musik, suara kendaraan, atau yang lainnya dengan sistem tata suara yang digunakan seperti sound sistem untuk live music, alat perekaman, arena balap GP motor, dan sebagainya.<ref name="Wikipedia">[http://id.wikipedia.org/wiki/Mikrofon], Mikrofon.</ref>
+
+=== Mixer ===
+Mixer adalah perangkat yang akan mengatur nada suara asli, dapat mengubah tingkat, warna, nada dan pengaturan akustik lainnya. Seringkali dalam konser, disaat orang-orang bernyanyi keras, seorang penata suara akan duduk untuk seluruh pertunjukan dan menyesuaikan pengaturan tergantung di mana dan kapan diperlukan.
+
+Untuk penggunaan sound system di rumah (home use), perangkat ini tidak begitu diperlukan karena hanya satu sumber suara yang digunakan. Fungsi pengalihan dari satu sumber suara ke sumber suara lainnya, misal dari radio ke tape, dilakukan oleh multi saklar atau multi switches. Mixer lebih banyak digunakan untuk tujuan komersial misalnya studio rekaman, studio radio, dan usaha-usaha lainnya yang bergerak dibidang audio entertainment.
+
+=== Amplifier ===
+Penguat atau Amplifier adalah komponen elektronika yang digunakan untuk menguatkan daya atau tenaga secara umumnya. Dalam bidang audio, amplifier bertugas menguatkan signal suara yang telah dinyatakan dalam bentuk arus listrik pada bagian inputnya menjadi arus listrik yang lebih kuat di bagian outputnya. Besarnya penguatan ini sering dikenal dengan istilah gain. Nilai dari gain yang dinyatakan sebagai fungsi frekuensi disebut sebagai fungsi transfer.
+
+Power Amplifier bertugas sebagai penguat akhir dari preamplifier menuju ke driver speaker. Amplifier pada umumnya terbagi menjadi dua yaitu Power Amplifier dan Integrated Amplifier. Power Amplifier adalah penguat akhir yang tidak disertai dengan Tone Control atau Equalizer (Volume, Bass, Treble), sebaliknya integrated amplifier adalah penguat akhir yang telah disertai dengan Tone Control.<ref name="Anything We Share">[http://tugassekolahtentang.blogspot.com/2011/11/apakahpower-amplifier-itu-sebenarnya.html], Pengertian Power Amplifier.</ref>
+
+Power output atau tenaga keluaran suatu amplifier bervariasi mulai dari 10 Watt sampai ribuan Watt. Untuk hiburan di rumah power output 20 Watt sudah cukup memadai, tetapi untuk penggunaan di lapangan terbuka dibutuhkan power output yang lebih besar sesuai medan cakupan. Untuk sistem PA 100 Watt sudah cukup, tetapi untuk konser musik barangkali 5000 Watt masih dianggap kurang meledak atau membahana. Terlepas dari masalah power output, amplifier yang baik harus mampu merespon frekuensi audio dari 0 - 20.000&nbsp;Hz.
+
+=== Speaker ===
+Dalam perangkat sound system, speaker merupakan terminal akhir dimana semua sumber suara yang telah digabung/dicampur bermuara. Melalui speaker inilah signal audio direproduksi kembali dan sekaligus diperkuat sehingga dapat dinikmati.
+
+Dalam sebuah unit speaker (kiri/kanan/mono) sekurang-kurangnya terdiri atas tiga buah speaker yakni Woofer, Midrange, dan Tweeter. Woofer speaker berfungsi mereproduksikan nada-nada rendah seperti bass dan drum. Midrange speaker berfungsi mereproduksikan nada-nada pertengahan seperti suara penyanyi, [[gendang]], dan [[gitar]]. Tweeter speaker berfungsi mereproduksikan nada-nada tinggi seperti bunyi lengkingan [[biola]], dan bunyi [[simbal]].
+
+=== Recorder ===
+Recorder/alat perekam audio yang umum digunakan selama dua dasawarsa terakhir adalah recorder analog, merekam di atas permukaan pita magnetik. Pita magnetik sebagai media perekaman dijual dalam format kaset (lebar 1/8 inc) maupun reeltape (lebar 1/4 inc). Kaset recorder lebih banyak dipakai untuk hiburan sedangkan reeltape digunakan untuk tujuan komersial karena lebih berkualitas dibanding kaset.
+
+Dalam sound system reeltape digunakan sebagai induk perekaman atau master recording. Sedangkan kaset digunakan sebagai copy rekaman, artinya setelah signal audio direkam dan di edit pada reeltape kemudian di copy atau di re-record ke kaset.
+
+Hasil reproduksi signal audio dikatakan berkualitas jika semua frekuensi tercover. Secara teknis kaset atau reeltape recorder yang digunakan harus memiliki tanggapan frekuensi 20 - 20.000&nbsp;Hz.
+
+== Jenis Sistem ==
+Sistem PA dasar terdiri dari pengeras suara yang ditempatkan di lokasi yang nyaman di sekitar area penyiaran, sebuah amplifier untuk meningkatkan suara, dan mixer yang menyesuaikan tingkat audio. Pengguna berbicara ke dalam mikrofon, dan suara ditransmisikan melalui kabel tersambung, atau sistem [[nirkabel]], keluar melalui speaker.
+
+Beberapa sistem juga memiliki mikrofon atau interkom di dekat lokasi pembicara, yang memungkinkan pendengar untuk membalas lokasi pusat. Respon ini tidak disiarkan ke seluruh sistem, namun, tetapi hanya untuk daerah pengguna utama.
+
+=== Sistem Kecil ===
+Sistem PA sederhana terdiri dari mikrofon, amplifier, dan satu atau lebih pengeras suara. Jenis sistem PA sederhana dan kecil ini, sering memberikan 50 sampai 200 watt, adalah sering digunakan di tempat-tempat kecil seperti auditorium sekolah, gereja, dan bar kecil. Sebuah sumber suara seperti pemutar Compact Disc atau radio dapat dihubungkan ke sistem PA sehingga musik yang diputar dapat disebarkan melalui sistem PA.
+
+Sistem PA terdiri dari sumber input, amplifier, kontrol dan peralatan pemantauan, dan pengeras suara. Sumber input primer adalah mikrofon untuk pengumuman langsung dan sumber suara yang direkam. Terdapat suatu sistem yang memungkinkan operator, atau peralatan otomatis, untuk memilih dari sejumlah pesan rekaman standar. Sumber-sumber masukan dimasukkan ke preamplifier dan router sinyal yang menentukan ke zona mana sinyal audio diumpankan. Sinyal preamplified kemudian diteruskan ke amplifier. Tergantung pada praktik lokal amplifier ini biasanya akan memperkuat sinyal audio ke 50V, 70V atau 100V tingkat speaker line. Peralatan kontrol memonitor kesalahan amplifier dan speaker sebelum mencapai pengeras suara. Peralatan kontrol ini juga digunakan untuk memisahkan zona dalam sistem PA. Sementara pengeras suara digunakan untuk mengubah sinyal listrik menjadi suara.<ref name="Teknikal dan Kemahiran Hidup">[http://technicalprotocol.blogspot.com/2010/08/alamat-awam-atau-pa-sistem-adalah.html], PA Sistem.</ref>
+
+=== Sistem Besar ===
+Beberapa sistem PA memiliki speaker yang meliputi seluruh daerah dari sebuah perguruan tinggi atau situs industri, atau kompleks luar ruangan (misalnya, stadion atletik). Sistem PA besar juga dapat digunakan sebagai sistem peringatan dalam keadaan darurat.
+
+=== Memilih Sistem PA ===
+Sebuah sistem PA adalah segala sesuatu yang menguatkan suara sehingga lebih banyak orang bisa mendengarnya. Contoh paling dasar mungkin megafon, atau mikrofon dan speaker tunggal, digunakan untuk membuat suara seseorang lebih keras. Di zaman sekarang, sebagian besar sistem PA digunakan untuk musik juga, dan harganya pun bervariasi.
+
+Beberapa hal yang mempengaruhi pilihan untuk sistem PA meliputi:
+* Jenis musik atau pidato yang dimainkan
+* Seberapa keras perlu untuk dimainkan
+* Di ruang apa akan digunakan
+* Sepraktis apa yang diperlukan
+* Siapa yang menjalankan sistem
+* Kualitas suara dan daya tahan yang diinginkan
+
+== Aplikasi ==
+Dilihat dari penggunaannya, sound system terbagi atas dua kategori masing-masing untuk penggunaan di dalam (indoor) dan untuk penggunaan di luar (outdoor). Dan sudah barang tentu tuntutannya berbeda untuk setiap kategori. Untuk penggunaan indoor misalnya, power amplifier cukup 50 watt saja sedangkan untuk penggunaan outdoor diperlukan power amplifier sekitar 1 - 5 kw.
+
+Untuk penggunaan indoor 5 buah microphone sudah memadai tetapi untuk penggunaan outdoor sekitar 10 - 20 buah microphone. Sebagai contoh, untuk drum saja dibutuhkan minimal 5 buah microphone, belum termasuk untuk instrumen lainnya.
+
+Pencampur suara (mixer) untuk indoor 8 trak sudah memadai tetapi untuk outdoor minimal 24 trak.
+
+Tuntutan di atas tentu saja tidak mutlak namun bila kita bicara kualitas maka tuntutan tadi harus dipandang sebagai tuntutan profesionalitas, sebab pekerjaan amatiran tidak laku dalam dunia bisnis.<ref name="Rumah Belajar">[http://belajar.kemdiknas.go.id/index3.php?display=view&mod=script&cmd=Bahan%20Belajar/Pengetahuan%20Populer/view&id=89&uniq=all], Sound Sistem.</ref>
+
+=== Fungsi di Institusi ===
+Banyak sekolah menggunakan sistem PA untuk menyiarkan pengumuman harian tentang kegiatan sekolah, dan sering membiarkan siswa menggunakannya untuk memberikan laporan atau mengumumkan acara khusus. Perangkat ini juga dapat berfungsi sebagai sistem peringatan darurat. Dalam kasus kebakaran, gempa bumi atau bencana alam lainnya, pengurus sering menggunakan sistem PA untuk menginstruksikan siswa dan guru kemana harus pergi dan bagaimana untuk merespon. Dengan peningkatan yang tragis dalam peristiwa penembakan di sekolah di awal abad ke-21, banyak sekolah telah menginstal peringatan darurat khusus melalui sistem ini agar siswa dan staf waspada tentang serangan kekerasan yang di sekolah.
+
+=== Fungsi di Pertunjukan ===
+Banyak tempat menggunakan sistem skala besar PA untuk memperkuat suara untuk konser atau produksi teater. Sering disebut Suara Penguatan (SR) sistem, versi ini jauh lebih kompleks daripada yang sederhana yang dapat ditemukan di sekolah-sekolah dan kantor-kantor. Sistem SR sering menggunakan pengaturan siaran ganda, memproyeksikan suara dari panggung ke arah penonton, dan juga ke belakang panggung monitor yang membuat setiap personil luar panggung mendapat inforamasi tentang apa yang terjadi. Jenis sistem PA ini dapat memiliki puluhan mikrofon yang masuk ke dalamnya, dan dapat memerlukan beberapa teknisi untuk mengoperasikan dan memeliharanya dengan benar.
+
+=== Unit Pribadi dan Alat Ubahsuaian ===
+Meskipun sistem PA sederhana dan portabel seringkali terbilang mahal, sistem tersebut dapat memberikan speaker dengan beberapa pilihan untuk menghadapi kerumunan orang. Jenis perangkat keras pengumuman publik menyediakan seseorang dengan jangkauan penyiaran sangat terbatas, seringkali hanya termasuk pembicara tunggal, tetapi masih berfungsi untuk memperkuat suara pengguna. Versi yang lebih canggih kenaikan harga cukup, terutama dengan banyak kabel, hub nirkabel, dan adaptor yang mungkin diperlukan. Namun hal ini semua tergantung pada apa yang dibutuhkan oleh seseorang atau perusahaan dalam hal perangkat keras sistem PA dan instalasi.
+
+=== Umpan Balik Akustik ===
+Semua sistem PA memiliki potensi untuk mengalami umpan balik audio, yang terjadi ketika suara dari speaker yang ditangkap oleh mikrofon dan kemudian kembali diperkuat dan dikirim melalui speaker lagi. Sering terdengar seperti jeritan bernada tinggi atau lengkingan keras, dan dapat terjadi ketika volume sistem muncul terlalu tinggi. Penata suara akan mengambil beberapa langkah untuk memaksimalkan gain sebelum umpan balik, termasuk menjaga mikrofon pada jarak dari speaker, memastikan bahwa mikrofon yang terarah tidak menunjuk ke arah speaker, menjaga tingkat volume panggung rendah, dan menurunkan tingkat gain pada frekuensi di mana umpan balik ini terjadi, dengan menggunakan equalizer grafik, equalizer parametrik, atau filter takik.<ref name="Wikipedia" />
+
+== Referensi ==
+<references/>
+
+== Bacaan Lanjut ==
+McCarthy, Bob. 2009. Sound Systems: Design And Optimization. US: Elsevier Science & Technology Books. -GRB
+
+== Pranala Luar ==
+[http://www.nightheron.com/audioconsulting/whatisapa.html What is a PA System? Night Heron Music, Audio Equipment & Consulting]
+[http://www.wisegeek.org/what-is-a-pa-system.htm What is a PA System, WiseGeek]
+[http://www.sweetwater.com/insync/pa/ PA, Sweetwater]
+[http://www.livesystems.co.uk/pa-basics.html Public Address (PA) Basics, Live Systems]
+
+[[Kategori:Komunikasi]]

@@ -1,0 +1,79 @@
+Portal:Gereja Masehi Advent Hari ketujuh
+<!-- This portal was created using subst:box portal skeleton  -->
+{{browsebar}}__NOTOC__
+----
+{{religion browsebar}}
+<div style="float:right; width:100%">
+
+{{/box-header|<big>{{PAGENAME}}</big>|{{FULLPAGENAME}}/Intro|}}
+{{{{FULLPAGENAME}}/Intro}}
+{{/box-footer|[[Gereja Masehi Advent Hari Ketujuh|Lebih jauh baca Gereja Advent]]}}
+
+<div style="text-align:center;margin:0.25em 0 0.75em 0">{{purge|'''Show new selections'''}}</div>
+
+<div style="float:left; width:55%;"> <!-- This width add to the the margin below to equal 99%-->
+
+{{Random portal component with nominate|max=5|header=Selected article|footer=More articles...|subpage=Selected article}}
+
+{{Random portal component with nominate|max=5|header=Selected picture|footer=More pictures...|subpage=Selected picture}}
+
+{{/box-header|''In the news''|{{FULLPAGENAME}}/News|}}
+{{{{FULLPAGENAME}}/News}}
+{{/box-footer|[[{{FULLPAGENAME}}/Current events|More current events...]]'''<br/>[[wikinews:{{FULLPAGENAME}}|Current events]] on [[wikinews:en|Wikinews]]}}
+</div >
+
+<div style="width:44%;display:block;float:right;">
+
+{{Random portal component with nominate|max=5|header=''Selected biography''|footer=More Biographies...|subpage=Selected biography}}
+
+{{/box-header|''Did you know?''|{{FULLPAGENAME}}/Did you know|}}
+{{{{FULLPAGENAME}}/Did you know}}
+{{/box-footer|[[{{FULLPAGENAME}}/Did you know/archive|Archive]] &ndash; [[Help:Starting a new page|Start a new article]]}}
+
+{{/box-header|Categories|{{FULLPAGENAME}}/Categories|}}
+{{/Categories}}
+{{/box-footer|}}
+
+</div>
+
+<div style="float:right; width:100%">
+
+{{/box-header|''Topics''|{{FULLPAGENAME}}/Topics|}}
+{{{{FULLPAGENAME}}/Topics}}
+{{/box-footer|}}
+
+{{/box-header|''Related portals''|{{FULLPAGENAME}}/Related portals|}}
+{{{{FULLPAGENAME}}/Related portals}}
+{{/box-footer|}}
+</div>
+
+<div style="float:left; width:55%">
+{{/box-header|''WikiProjects''|{{FULLPAGENAME}}/Projects|}}
+{{{{FULLPAGENAME}}/Projects}}
+{{/box-footer|}}
+</div>
+<div style="float:right; width:44%">
+{{/box-header|''Things to do''|{{FULLPAGENAME}}/Opentask|}}
+{{{{FULLPAGENAME}}/Opentask}}
+{{/box-footer|}}
+</div>
+
+<div style="float:right; width:100%">
+
+{{/box-header|''Wikimedia''|{{FULLPAGENAME}}/Wikimedia|}}
+{{{{FULLPAGENAME}}/Wikimedia}}
+{{/box-footer|}}
+
+</div>
+{{portals}}
+{{purgepage}}
+
+__NOTOC__ __NOEDITSECTION__
+
+
+
+[[Category:{{PAGENAME}}|*{{FULLPAGENAME}}]]
+<!-- Recategorize Category:Portals under construction to an appropriate subcategory of Category:Portals
+     once the portal is ready for viewing by non-editors. -->
+[[Category:Portals under construction|{{PAGENAME}}]]
+[[Category:Christianity portals]]

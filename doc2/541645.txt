@@ -1,0 +1,14 @@
+Berkas:Logo-avristgi.png
+== {{int:filedesc}} ==
+{{Information
+| description    =
+Logo Avrist General Insurance - Sumber [http://www.avristgeneral.com/ Situs Resmi Avrist General Insurance]
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Logo}}

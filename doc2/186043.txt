@@ -1,0 +1,22 @@
+Plasmodium shortii
+{{Taxobox
+| color = khaki
+| name = ''Plasmodium shortii''
+| image_caption = 
+| image = 
+| image_width = 
+| regnum = [[Protista]]
+| phylum = [[Apicomplexa]]
+| classis = [[Aconoidasida]]
+| ordo = [[Haemosporida]]
+| familia = [[Plasmodiidae]]
+| genus = ''[[Plasmodium]]''
+| species = '''''P. shortii'''''
+| binomial = ''Plasmodium shortii''
+}}
+'''''Plasmodium shortii''''' adalah parasit dari genus ''[[Plasmodium]]''. Seperti semua spesies ''Plasmodium'', ''P. shortii'' menyerang [[vertebrata]] dan [[serangga]].
+
+{{biologi-stub}}
+
+[[Kategori:Apicomplexa]]
+[[Kategori:Malaria]]

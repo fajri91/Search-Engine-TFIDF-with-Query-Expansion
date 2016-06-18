@@ -1,0 +1,39 @@
+Tropidolaemus
+{{italic title}}
+{{taxobox
+ | name                = ''Tropidolaemus''
+ | image               = Tropidolaemus_wagleri.jpg
+ | image_caption       = [[Bandotan candi]] (''Tropidolaemus wagleri'')
+ | regnum              = [[Animalia]]
+ | phylum              = [[Chordata]]
+ | subphylum           = [[Vertebrata]]
+ | classis             = [[Reptilia]]
+ | ordo                = [[Squamata]]
+ | subordo             = [[Serpentes]]
+ | familia             = [[Beludak|Viperidae]]
+ | subfamilia          = [[Mura|Crotalinae]]
+ | genus               = '''''Tropidolaemus'''''
+ | genus_authority     = [[Johann Georg Wagler|Wagler]], 1830<ref name="McD99">McDiarmid RW, [[Jonathan A. Campbell|Campbell JA]], Tour T. 1999. ''Snake Species of the World: A Taxonomic and Geographic Reference, Volume 1''. Herpetologists' League. 511 pp. ISBN 1-893777-00-6 (series). ISBN 1-893777-01-4 (volume).</ref>
+}}
+'''''Tropidolaemus''''' adalah genus mura yang tersebar di daerah tropis [[Asia Selatan]] dan [[Asia Tenggara]] mulai dari [[India]] lalu ke timur hingga [[Sulawesi]] dan [[Filipina]].<ref name="Meh87">Mehrtens JM. 1987. ''Living Snakes of the World in Color''. New York: Sterling Publishers. 480 pp. ISBN 0-8069-6460-X.</ref>
+
+==Spesies==
+* ''[[Tropidolaemus huttoni]]'' (Smith, 1949)
+* ''[[Bandotan pohon Sulawesi|Tropidolaemus laticinctus]]'' (Kuch, Gumprecht & Melaun, 2007)
+* ''[[Tropidolaemus philippensis]]'' (Gray, 1842)
+* ''[[Bandotan kutai|Tropidolaemus subannulatus]]'' (Gray, 1842)
+* ''[[Bandotan candi|Tropidolaemus wagleri]]'' (Boie, 1827)
+
+==Referensi==
+{{reflist}}
+
+===Informasi lebih lanjut===
+{{Commons|Tropidolaemus}}
+* [http://www.cbif.gc.ca/acp/fra/siti/regarder?tsn=634417 ITIS: ''Tropidolaemus'' Wagler, 1830]
+* [http://reptile-database.reptarium.cz/advanced_search?submit=Search&exact%5B0%5D=genus&genus=Tropidolaemus ''Tropidolaemus sp.'' @ Reptile Database]
+* {{NRDB genus|genus=Tropidolaemus|date=12 December|year=2007}}
+* [http://www.kingsnake.com/viper/history.html The Wagler Viper Page] at [http://www.kingsnake.com/ Kingsnake.com]. Accessed 27 September 2006.
+* [http://www.whozoo.org/Anlife2002/ericacas/EAC_PitViper.html WhoZoo: Wagler's Pit Viper] at [http://www.whozoo.org/ WhoZoo]. Accessed 27 September 2006.
+
+[[Kategori:Ular Indonesia]]
+[[Kategori:Viperidae]]

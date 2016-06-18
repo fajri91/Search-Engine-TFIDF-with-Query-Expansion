@@ -1,0 +1,11 @@
+Templat:Convert/km2
+{{convert/{{{d}}}|{{{1}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}|{{{6|}}}|{{{7|}}}|s={{{s|}}}|r={{{r}}}
+|u=km<sup>2</sup>
+|n=kilometer persegi
+|h=kilometer persegi
+|t=kilometer persegi
+|o=sqmi
+|b=1000000
+|j=6-{{{j|0}}}}}<noinclude>
+[[Category:Templat konversi]]
+</noinclude>

@@ -1,0 +1,34 @@
+Berkas:YG Entertainment Logo.jpg
+{{Information
+|description    = == {{int:filedesc}} ==
+{{Information
+|description    = 
+|source         = {{dari|en}}
+{{Non-free use rationale
+|Description       = Logo [[YG Entertainment]]
+|Source            = http://www.ygfamily.com
+|Portion           = Very Low, for Non-Profit Wikipedia just one article.
+|Low_resolution    = Yes
+|Article           = YG Entertainment
+|Purpose           = Used for purposes of illustration in an informative article about the entity represented by the image. The image is used as the primary means of visual identification of this article topic.
+|Replaceability    = No. Protected by copyright, therefore a free use alternative won't exist.
+}}
+
+|source         = (sumber)
+|date           = (tanggal)
+|location       = (tempat; opsional)
+|author         = (pembuat)
+|permission     = 
+|other_versions = 
+}}
+== {{int:license-header}} ==
+{{Logo}}
+|source         = 
+|date           = 
+|location       = 
+|author         = 
+|permission     = 
+|other_versions = 
+}}
+
+[[Kategori:YG Entertainment]]

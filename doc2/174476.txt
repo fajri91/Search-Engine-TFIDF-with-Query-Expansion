@@ -1,0 +1,116 @@
+Palikir
+{{Infobox settlement
+| name = Palikir
+| image_skyline = 
+| imagesize = 
+| image_caption = 
+| image_flag         =
+| flag_size          =
+| image_seal         = 
+| seal_size          =
+| image_shield       = 
+| shield_size        =
+| city_logo          = 
+| citylogo_size      =
+| image_map          = Pohnpei Island.png
+| mapsize            =
+| map_caption        = Palikir <br /> di Pulau Pohnpei
+| image_dot_map      =
+| dot_mapsize        =
+| dot_map_caption    =
+| dot_x              =
+| dot_y              =
+| pushpin_map        = <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+| pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_caption= 
+| pushpin_mapsize    =
+| coordinates_display = inline,title
+| coordinates_region = FM-PNI
+| subdivision_type   = Negara
+| subdivision_name   = {{flagicon|FSM}} [[Federasi Mikronesia]]
+| subdivision_type1  = [[Pembagian administratif Federasi Mikronesia|Negara bagian]]
+| subdivision_name1  = {{flagicon|Pohnpei}} [[Pohnpei]]
+| subdivision_type2  = [[Pohnpei#Administrative divisions|Municipality]]
+| subdivision_name2  = [[Sokehs]]
+| government_footnotes=
+| government_type    =
+| leader_title       = 
+| leader_name        = 
+| leader_title1      = <!-- for places with, say, both a mayor and a city manager -->
+| leader_title2      =
+| leader_name2       =
+| established_title  =
+| established_date   =
+| established_title2 = <!-- Incorporated (town) -->
+| established_date2  =
+| established_title3 = <!-- Incorporated (city) -->
+| established_date3  =
+| area_magnitude     = <!-- 1 E9 -->
+| unit_pref          = Metrik
+| area_footnotes     = 
+| area_total_km2     = 
+| area_land_km2      =
+| area_water_km2     =
+| area_total_sq_mi   =
+| area_land_sq_mi    =
+| area_water_sq_mi   =
+| area_water_percent =
+| area_urban_km2     =
+| area_urban_sq_mi   =
+| area_metro_km2     =
+| area_metro_sq_mi   =
+| area_blank1_title  =
+| area_blank1_km2    =
+| area_blank1_sq_mi  =
+| population_as_of   = 2011
+| population_footnotes =
+| population_note      =
+| population_total     = 4,645
+| population_density_km2          =
+| population_density_sq_mi        =
+| population_metro                =
+| population_density_metro_km2    =
+| population_density_metro_sq_mi  =
+| population_urban                =
+| population_density_urban_km2    =
+| population_density_urban_sq_mi  =
+| population_blank1_title         =
+| population_blank1               =
+| population_density_blank1_km2   =
+| population_density_blank1_sq_mi =
+| timezone                        = [[UTC+11:00|UTC+11]]
+| utc_offset                      = 
+| timezone_DST                    =
+| utc_offset_DST                  = 
+| latd=6.917778
+| latNS=N
+| longd=158.185
+| longEW=E
+| elevation_footnotes             = <!-- for references: use tags -->
+| elevation_m                     =
+| elevation_ft                    =
+| postal_code_type                =
+| postal_code                     =
+| area_code                       =
+| blank_name                      =
+| blank_info                      =
+| blank1_name                     =
+| blank1_info                     =
+| website                         =
+| footnotes   = 
+}}
+
+'''Palikir''' ({{pronEng|plk}}) merupakan [[ibu kota]] [[Federasi Mikronesia]] sejak [[1989]]. Palikir menggantikan ibu kota lama, [[Kolonia]]. Palikir memiliki jumlah penduduk sekitar 4571 dan terletak di [[pulau]] [[Pohnpei]].
+
+== Pranala luar ==
+* {{en}}[http://www.bartleby.com/61/38/P0023850.html Palikir in American Heritage Dictionary]
+* {{en}}[http://plasma.nationalgeographic.com/places/maps/map_country_micronesia.html Micronesia facts on NationalGeographic.com]
+
+{{Ibu kota negara di Oseania}}
+
+[[Kategori:Pohnpei]]
+[[Kategori:Ibu kota negara]]
+[[Kategori:Kota di Federasi Mikronesia|Ibu kota]]
+
+
+{{geo-stub}}

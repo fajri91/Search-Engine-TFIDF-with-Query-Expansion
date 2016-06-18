@@ -1,0 +1,39 @@
+Volume molar
+'''Volume molar''' (simbol ''V''<sub>m</sub>,<ref name="GreenBook">{{GreenBookRef2nd|page=41}}</ref>) adalah [[volume]] dari 1 [[mol]] dari suatu [[unsur]] atau [[senyawa kimia]] pada [[temperatur]] dan [[tekanan]] tertentu. Berbeda dengan [[massa molar]], volume molar setiap unsur atau senyawa tidak dipengaruhi oleh [[rumus molekul]]nya, namun oleh [[tekanan]] dan [[temperatur]] di mana zat tersebut diukur. Definisi formal volume molar adalah
+:<math>V_m = \frac{V}{n}\,</math>
+di mana V adalah volume dan n adalah jumlah mol partikel.
+
+Rumus di atas dapat diubah lagi dengan mensubstitusikan nilai <math>V</math> dan <math>n</math> dari persamaan berikut
+
+:<math>\rho = \frac{m}{V}\,</math>
+:<math>m = n . M\,</math><br>
+
+:<math>V_m = \frac{m}{\rho} . \frac{M}{m}\,</math>
+:<math>V_m = \frac{M}{\rho}\,</math>
+dengan <math>M</math> adalah [[massa molar]].
+
+Satuan volume molar dalam [[SI]] adalah [[meter kubik]]/mol (m<sup>3</sup>/mol),<ref name="GreenBook"/> meskipun lebih sering digunakan satuan [[liter]]/mol atau dm kubik/mol (dm<sup>3</sup>/mol) untuk [[gas]] dan [[sentimeter kubik]]/mol (cm<sup>3</sup>/mol) untuk [[liquid]] dan [[solid]].
+
+Pada kondisi [[temperatur dan tekanan standar]] (<math>T = 273 \ K</math> dan <math>P = 1 \ atm</math>), volume molar gas ideal adalah 22,4 liter/mol. Pada kondisi ruangan (''Room Temperature and Pressure'', di mana <math>T = 298 \ K</math> dan <math>P = 1 \ atm</math>), volume molar gas ideal adalah 24 liter/mol. Hal ini dapat dibuktikan dengan memasukkan nilai T dan P ke dalam [[persamaan gas ideal]].
+:<math>PV = nRT\,</math>
+
+:<math>\frac{V}{n} = \frac{R.T}{P}\,</math>
+
+:<math>V_m = \frac{RT}{P}\,</math>
+
+Pada kondisi standar, dengan <math>T = 273 \ K</math> dan <math>P = 1 \ atm</math>,
+:<math>V_m = \frac{0,082 \ liter \ atm \ mol^{-1} \ K^{-1} \ . \  273 \ K}{1 \ atm} = 22,4 \ liter \ mol^{-1}\,</math>
+
+Pada kondisi ruang, dengan <math>T = 298 \ K</math> dan <math>P = 1 \ atm</math>,
+:<math>V_m = \frac{0,082 \ liter \ atm \ mol^{-1} \ K^{-1} \ . \  298 \ K}{1 \ atm} = 24 \ liter \ mol^{-1}\,</math>
+
+== Referensi ==
+{{reflist}}
+
+== Lihat juga ==
+Tabel interaktif volume molar di http://www.webelements.com/periodicity/molar_volume/
+* [[volume spesifik]]
+
+[[Kategori:Besaran molar]]
+[[Kategori:Besaran fisika]]
+[[Kategori:Volume]]

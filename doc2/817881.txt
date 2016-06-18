@@ -1,0 +1,12 @@
+Templat:Update inline
+{{ {{{|safesubst:}}}#invoke:Unsubst||$N=Update inline |date=__DATE__ |$B=
+<!--{{Update-small}} begin-->{{Fix
+| subst = <includeonly>{{subst:</includeonly><includeonly>substcheck}}</includeonly>
+| link  = Wikipedia:Pedoman penulisan tanggal dan angka#Butir-butir kronologis
+| text  = butuh pemutakhiran{{#if:{{{?|}}}|?}}
+| title = {{{reason|Penanggalan perkiraan peristiwa sebelum tag ini {{#if:{{{?|}}}|mungkin telah|telah}} berlalu.}}}
+| date  = {{{date|}}}
+}}{{DMCA|Artikel yang perlu pemutakhiran}}<!--{{Update-small}} end-->
+}}<noinclude>
+{{Documentation}}
+</noinclude>

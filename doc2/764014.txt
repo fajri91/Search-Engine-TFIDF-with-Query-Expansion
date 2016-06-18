@@ -1,0 +1,87 @@
+Main One (sistem kabel)
+{{Infobox submarine communications cable
+| cable_name     = Main One
+| owners         = Main Street Technologies
+| logo           = [[File:MainStreetLogo.jpg]]
+| landing_points = 
+{{unbulleted list
+| '''1.''' {{flagicon|Portugal}} [[Munisipalitas Seixal|Seixal]], [[Portugal]]
+| '''2.''' {{flagicon|Nigeria}} [[Lagos]], [[Nigeria]]
+| '''3.''' {{flagicon|Ghana}} [[Accra]], [[Ghana]]
+| '''4.''' {{flagicon|South Africa}} [[Afrika Selatan]]
+}}
+| technology           = Serat optik
+| design_capacity      = 1280&nbsp;[[Gigabit|Gbit]]/detik
+| current_capacity     = n/a
+| length               = 14.000 km <!-- press release -->
+| topology             = Induk dan cabang
+| first_use_date       = 22 Juli 2010
+| decommissioning_date =
+}}
+
+'''Main One Cable''' adalah [[kabel komunikasi bawah laut]] yang membentang dari [[Portugal]] hingga [[Afrika Selatan]] dengan titik pendaratan di beberapa negara di Afrika Barat. Pada tanggal 28 April 2008, Main Street Technologies memberikan kontrak suplai Main One Cable System kepada [[Tyco Electronics|Tyco Telecommunications]].
+
+Sistem kabel ini membentang sepanjang 14.000&nbsp;km dan menyediakan kapasitas tambahan koneksi internasional dan koneksi Internet ke negara-negara antara [[Portugal]] dan [[Afrika Selatan]] di pesisir barat benua Afrika. Proyek kabel bawah laut ini dibangun dalam dua tahap, keduanya dijadwalkan selesai tahun 2010. Dua pasang kabel serat optik DWDM berkapasitas 1,28-[[Terabit|Tbit]]/detik menghubungkan Nigeria, Ghana, dan Portugal pada tahap pertama dengan sambungan melintasi [[Portugal]] ke [[Eropa]], Asia, dan Amerika. Sistem kabel tahap pertama memiliki panjang 6.900 kilometer. Sambungan pelengkap ke Angola dan Afrika Selatan dibangun pada tahap kedua.
+
+Main One menghadirkan koneksi internasional ke wilayah yang mengalami pertumbuhan populasi telekomunikasi pada awal abad ke-21, tetapi aksesnya masih terbatas akibat kapasitas kabel internasional yang kecil. Sistem ini dikembangkan oleh Main Street Technologies yang berkantor pusat di [[Lagos]], [[Nigeria]]. Siaran pers tanggal 10 Oktober 2008 menyatakan bahwa studi dan rekayasa sistem ini telah rampung. Pada 22 Juli 2010, kabel ini diluncurkan.
+
+Pengelolaan proyek dan rekayasa sistem kabel ini ditangani oleh firma konsultasi bawah laut Pioneer Consulting.<ref>[http://ghanabusinessnews.com/2009/01/17/pioneer-consulting-awarded-mainone-contract/ "Pioneer Consulting awarded MainOne contract", Ghana Business News]</ref>
+
+==Titik pendaratan==
+[[File:main one phase 1.png|thumb|right|Main One tahap pertama]]
+Sistem kabel Main One memiliki [[titik pendaratan kabel|titik pendaratan]] di kota-kota berikut (per Juli 2010):<ref>[http://www.mainonecable.com/projectroom.php MainOne cable company Project Room]</ref>
+
+* [[Munisipalitas Seixal|Seixal]], [[Portugal]]
+* [[Accra]], [[Ghana]]
+* [[Lagos]], [[Nigeria]]
+
+Rencana titik pendaratan untuk tahap kedua adalah:
+* [[Casablanca]], [[Maroko]]
+* [[Tenerife]], [[Kepulauan Canary]]
+* [[Dakar]], [[Senegal]]
+* [[Abidjan]], [[Cte d'Ivoire]]
+* [[Bonny, Nigeria|Bonny]], [[Nigeria]]
+* [[Libreville]], [[Gabon]]
+* [[Boma, Kongo Central|Boma]], [[Republik Demokratik Kongo]]
+* [[Luanda]], [[Angola]]
+* [[Cape Town]], [[Afrika Selatan]]
+* [[Swakopmund]], [[Namibia]]
+
+== Dampak ==
+Sistem Main One Cable akan memberikan akses terbuka kepada operator telekomunikasi dan penyedia jasa Internet setempat dengan harga kurang dari 20% harga pita lebar interansional saat ini di Afrika Barat yang tersedia melalui SAT3 atau penyedia jasa satelit. Main Street mengatakan bahwa perusahaannya akan mendorong pengembangan konten lokal melalui transfer ilmu teknologi jaringan kritis dan menciptakan lapangan pekerjaan melalui pembangunan pusat operasional jaringan Main One di Nigeria.<ref>http://www.mainonecable.com/</ref>
+
+== Kepemilikan ==
+Kabel ini dimiliki oleh perusahaan swasta Main Street Technologies, sejumlah investor internasional seperti Africa Finance Corporation dan Pan-African Infrastructure Development Fund (PAIDF), dan dua bank Nigeria.
+
+==Kemajuan==
+Pada tanggal 28 April 2008, Main Street Technologies memberikan kontrak suplai Main One Cable System kepada [[Tyco Electronics|Tyco Telecommunications]].<ref>[http://lw.pennnet.com/display_article/327046/13/ARCHI/none/NNEWS/1/Tyco-awarded-Main-One-cable-contract/]</ref> Siaran pers tanggal 10 Oktober 2008 menyatakan bahwa studi dan rekayasa sistem ini telah rampung.<ref>[http://lw.pennnet.com/display_article/342314/13/ARTCL/none/none/1/Main-One-Cable-System-progressing-on-schedule/]</ref>
+Pada tanggal 1 Juli 2010, Main One selesai dibangun dan diaktifkan.<ref>[http://mainonecable.com/pressreleasefull.php?pid=6]</ref> The cable went live on July 22, 2010.<ref>http://allafrica.com/stories/201007220459.html</ref>
+
+== Lihat pula ==
+*[[Daftar kabel komunikasi bawah laut internasional]]
+
+Sistem kabel lainnya di pesisir barat Afrika adalah:
+* [[ACE (sistem kabel)|ACE]]
+* [[ATLANTIS-2]]
+* [[GLO-1 (sistem kabel)|GLO-1]]
+* [[SAT-2 (sistem kabel)|SAT-2]]
+* [[SAT-3/WASC (sistem kabel)|SAT-3/WASC]]
+* [[WACS (sistem kabel)|WACS]]
+
+==Catatan kaki==
+{{reflist}}
+
+== Sumber ==
+*[http://www.mainonecable.com/ "Main One Web Site"]
+*[http://lw.pennnet.com/display_article/327046/13/ARCHI/none/NNEWS/1/Tyco-awarded-Main-One-cable-contract/ "Press Release, Tyco awarded Main One cable contract, April 28, 2008"]
+*[http://lw.pennnet.com/display_article/342314/13/ARTCL/none/none/1/Main-One-Cable-System-progressing-on-schedule/ "Press Release, Main One Cable System progressing on schedule, October 10, 2008"]
+*[http://kingsgate-inc.com/Company.cfm?todisp=news&id=40 "Main One - Work begins on N5.4b sub-marine optical fibre cable Saturday, February 09, 2008"]
+*[http://www.nigerianmuse.com/20080808094019zg/projects/TelecomProject/competition-rocks-bandwidth-costs-via-gateways-submarine-cable "Nigerian Muse, Competition rocks bandwidth costs via gateways, submarine cable"]
+*[http://ghanabusinessnews.com/2009/01/17/pioneer-consulting-awarded-mainone-contract/ "Pioneer Consulting awarded MainOne contract", Ghana Business News"]
+
+[[Kategori:Afrika Barat]]
+[[Kategori:Kabel komunikasi bawah laut di Samudra Atlantik Utara]]
+[[Kategori:Kabel komunikasi bawah laut di Samudra Atlantik Selatan]]
+[[Kategori:Rencana infrastruktur telekomunikasi]]
+[[Kategori:Rencana infrastruktur di Eropa]]
+[[Kategori:Rencana infrastruktur di Afrika]]

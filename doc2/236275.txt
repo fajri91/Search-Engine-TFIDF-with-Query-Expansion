@@ -1,0 +1,70 @@
+Templat:Cities and towns in Grlitz (district)
+{{Navbox
+|name=Cities and towns in Grlitz (district)
+|image= [[Image:Wappen Landkreis Goerlitz.svg|right|30px|Lambang]]
+| listclass = hlist
+| title =Kota dan kotamadya di [[Grlitz (distrik)|Grlitz]]
+|list1=<div>
+[[Bad Muskau]]{{}}
+[[Beiersdorf]]{{}}
+[[Bernstadt auf dem Eigen]]{{}}
+[[Berthelsdorf]]{{}}
+[[Bertsdorf-Hrnitz]]{{}}
+[[Boxberg/Oberlausitz]]{{}}
+[[Drrhennersdorf]]{{}}
+[[Ebersbach-Neugersdorf]]{{}}
+[[Eibau]]{{}}
+[[Gablenz]]{{}}
+[[Grlitz]]{{}}
+[[Gro Dben]]{{}}
+[[Groschnau, Jerman|Groschnau]]{{}}
+[[Groschweidnitz]]{{}}
+[[Hhnichen]]{{}}
+[[Hainewalde]]{{}}
+[[Herrnhut]]{{}}
+[[Hohendubrau]]{{}}
+[[Horka]]{{}}
+[[Jonsdorf]]{{}}
+[[Kodersdorf]]{{}}
+[[Knigshain]]{{}}
+[[Krauschwitz, Sachsen|Krauschwitz]]{{}}
+[[Kreba-Neudorf]]{{}}
+[[Lawalde]]{{}}
+[[Leutersdorf, Sachsen|Leutersdorf]]{{}}
+[[Lbau]]{{}}
+[[Markersdorf]]{{}}
+[[Mittelherwigsdorf]]{{}}
+[[Mcka]]{{}}
+[[Neieaue]]{{}}
+[[Neusalza-Spremberg]]{{}}
+[[Niedercunnersdorf]]{{}}
+[[Niesky]]{{}}
+[[Obercunnersdorf]]{{}}
+[[Oderwitz]]{{}}
+[[Olbersdorf]]{{}}
+[[Oppach]]{{}}
+[[Ostritz]]{{}}
+[[Oybin]]{{}}
+[[Quitzdorf am See]]{{}}
+[[Reichenbach/Oberlausitz]]{{}}
+[[Rietschen]]{{}}
+[[Rosenbach]]{{}}
+[[Rothenburg/Oberlausitz]]{{}}
+[[Schleife]]{{}}
+[[Schnau-Berzdorf auf dem Eigen]]{{}}
+[[Schnbach, Grlitz|Schnbach]]{{}}
+[[Schpstal]]{{}}
+[[Seifhennersdorf]]{{}}
+[[Sohland am Rotstein]]{{}}
+[[Trebendorf]]{{}}
+[[Vierkirchen, Sachsen|Vierkirchen]]{{}}
+[[Waldhufen]]{{}}
+[[Weikeiel]]{{}}
+[[Weiwasser/Oberlausitz]]{{}}
+[[Zittau]]
+</div>
+}}<noinclude>
+
+[[Category:Templat pembagian administratif Jerman|Grlitz]]
+
+</noinclude>

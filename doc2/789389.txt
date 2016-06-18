@@ -1,0 +1,70 @@
+Templat:AktorTerbaikPenghargaanGuldbagge
+{{Navbox 
+| name      = AktorTerbaikPenghargaanGuldbagge
+| title     = [[Penghargaan Guldbagge untuk Aktor Terbaik dalam sebuah Peran Utama]]
+| state     = {{{state|autocollapse}}}
+| bodyclass = hlist
+| basestyle = background: #EEDD82
+
+| group1 = 19631990
+| list1 = 
+* [[Keve Hjelm]] (1963/64)
+* [[Jarl Kulle]] (1964/65)
+* [[Thommy Berggren]] (1965/66)
+* [[Per Oscarsson]] (1966/67)
+* [[Halvar Bjrk]] (1967/68)
+* [[Roland Hedlund]] (1968/69)
+* [[Carl-Gustaf Lindstedt]] (1969/70)
+* [[Eddie Axberg]] (1971/72)
+* [[Gsta Ekman]] (1972/73)
+* [[Allan Edwall]] (1973/74)
+* [[Gran Stangertz]] (1974/75)
+* [[Toivo Pawlo]] (1975/76)
+* [[Hkan Serner]] (1976/77)
+* [[Anders Lnnbro]] (1977/78)
+* [[Anders berg]] (1978/79)
+* [[Peter Lindgren (aktor)|Peter Lindgren]] (1979/80)
+* [[Ingvar Hirdwall]] (1980/81)
+* [[Stellan Skarsgrd]] (1981/82)
+* [[Jarl Kulle]] (1982/83)
+* [[Sven Wollter]] (1984)
+* [[Anton Glanzelius]] (1985)
+* [[Erland Josephson]] (1986)
+* [[Max von Sydow]] (1987)
+* [[Tomas Bolme]] (1988)
+* [[Stellan Skarsgrd]] (1989)
+* [[Brje Ahlstedt]] (1990)
+
+| group2 = 1991sekarang
+| list2 = 
+* [[Lasse berg]] (1991)
+* [[Rolf Lassgrd]] (1992)
+* [[Sven Lindberg]] (1993)
+* [[Sven-Bertil Taube]] (1994)
+* [[Loa Falkman]] (1995)
+* [[Max von Sydow]] (1996)
+* [[Gran Stangertz]] (1997)
+* [[Krister Henriksson]] (1998)
+* [[Bjrn Kjellman]] (1999)
+* [[Kjell Bergqvist]] (2000)
+* [[Sven Wollter]] (2001)
+* [[Michael Nyqvist]] (2002)
+* [[Jonas Karlsson]] (2003)
+* [[Robert Gustafsson]] (2004)
+* [[Krister Henriksson]] (2005)
+* [[Gustaf Skarsgrd]] (2006)
+* [[Michael Segerstrm]] (2007)
+* [[Mikael Persbrandt]] (2008)
+* [[Claes Ljungmark]] (2009)
+* [[Joel Kinnaman]] (2010)
+* [[Sven-Bertil Taube]] (2011)
+* [[Johannes Brost]] (2012)
+* [[Mikael Persbrandt]] (2013)
+* [[Sverrir Gudnason]] (2014)
+
+}}<noinclude>
+{{collapsible option}}
+[[Kategori:Templat Penghargaan Guldbagge|Aktor]]
+[[Kategori:Pemenang Penghargaan Guldbagge Aktor Terbaik|]]
+
+</noinclude>

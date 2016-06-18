@@ -1,0 +1,15 @@
+Berkas:Ra3.jpg
+== Ringkasan ==
+{{dari|en}}
+ 2008 Electronic Arts Inc.
+
+
+{{Information
+| description    = (deskripsi)
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = {{TampilanPermainan}}
+| other_versions = (versi lain; opsional)
+}}

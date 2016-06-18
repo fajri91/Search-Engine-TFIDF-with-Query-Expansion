@@ -1,0 +1,61 @@
+79353 Andrewalday
+{{Infobox Planet 
+| minorplanet = yes 
+| width = 25em 
+| bgcolour = #FFFFC0 
+| apsis = 
+| name = Andrewalday
+| symbol = 
+| image = 
+| caption = 
+| discovery = yes 
+| discovery_ref = 
+| discoverer = 
+| discovery_site = 
+| discovered =
+| designations = yes
+| mp_name = 79353
+| alt_names = 1997 AF16
+| mp_category = 
+| orbit_ref = 
+| epoch = 14 Mei 2008
+| aphelion = 2.4396433
+| perihelion = 2.1382581
+| semimajor = 
+| eccentricity = 0.0658348
+| period = 1264.8909285
+| avg_speed = 
+| inclination = 6.42576
+| asc_node = 324.78984
+| mean_anomaly = 0.57048
+| arg_peri = 268.08991
+| satellites = 
+| physical_characteristics = yes 
+| dimensions = 
+| mass = 
+| density = 
+| surface_grav = 
+| escape_velocity = 
+| sidereal_day = 
+| axial_tilt = 
+| pole_ecliptic_lat = 
+| pole_ecliptic_lon = 
+| albedo = 
+| temperatures= 
+| temp_name1 = 
+| mean_temp_1 = 
+| max_temp_1 = 
+| temp_name2 = 
+| max_temp_2 = 
+| spectral_type = 
+| abs_magnitude = 16.3
+}}
+'''79353 Andrewalday''' (1997 AF16) adalah sebuah [[asteroid]] yang terletak di [[sabuk asteroid|sabuk utama]]. [[Eksentrisitas orbit]] asteroid ini tercatat sebesar 0,0658348, sementara [[magnitudo mutlak]]nya adalah 16,3.
+
+== Pranala luar ==
+*[http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=79353+Andrewalday JPL Small-Body Database Browser on 79353 Andrewalday]
+
+{{Asteroid sabuk utama}}
+
+{{DEFAULTSORT:Andrewalday}}
+[[Kategori:Asteroid sabuk utama]]

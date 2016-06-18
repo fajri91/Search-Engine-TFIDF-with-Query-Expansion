@@ -1,0 +1,67 @@
+Left 4 Dead
+{{Infobox CVG
+| title        = Left 4 Dead
+| image        = [[Berkas:Left4Dead Windows cover.jpg|252px]]
+| caption      = ''Left 4 Dead''
+| developer    = [[Valve Corporation]]{{br}}[[Certain Affinity]] (versi Xbox 360)<small>
+| designer     = Mike Booth
+| composer     = Mike Morasky
+| publisher    = Valve Corporation
+| writer       = Chet Faliszek
+| distributor  = [[Electronic Arts]] <small>(retail)</small>{{br}}[[Steam (content delivery)|Steam]] <small>(online)</small>
+| engine       = [[Source (game engine)|Source]]
+| release      = {{collapsible list|title=18 November 2008|'''[[Microsoft Windows|Windows]] & [[Xbox 360]]:'''{{br}}<small>(retail)</small>{{br}}{{vgrelease|NA=18 November 2008|EU=November 21, 2008}}'''Windows:''' <small>(download)</small>{{br}}18 November 2008}}
+| genre = [[Survival horror]]{{br}}[[First-person shooter]]
+| modes = [[Cooperative gameplay|4 player Cooperative multiplayer]], 4 vs 4 Versus multiplayer, Single Player
+| ratings = {{vgratings|BBFC=18|ESRB=M|OFLCA=MA 15+|PEGI=18+|USK=18+}}
+| platforms = [[Microsoft Windows]], [[Xbox 360]]
+| media = [[DVD]], [[Steam (content delivery)|Steam]] download
+| requirements = 3.0&nbsp;[[Hertz|GHz]] [[central processing unit|processor]],{{br}}1&nbsp;[[gigabyte|GB]] [[Random Access Memory|RAM]],{{br}}128&nbsp;MB [[DirectX]] 9.0 [[graphics card]],{{br}}[[Pixel Shader 2.0]] support,{{br}}DirectX 9.0c-compatible [[sound card]]
+}}
+'''''Left 4 Dead''''' (disingkat L4D) adalah sebuah koperasi multiplayer/horor FPS game yang dikembangkan oleh ''Valve Corporation''. Permainan ini dibangun dengan menggunakan mesin ''Source'' dan tersedia pada PC dan Xbox 360. Selama perkembangan awal, judul kerjanya adalah "Teror Strike."
+
+Permainan menempatkan empat manusia yang bertahan dari sebuah pandemi apokaliptik terhadap zombie atau infected. Infected dikontrol oleh bot, sedangkan pemain dapat mengendalikan hingga empat Special Infected dengan kemampuan khusus dalam mode permainan Versus. Tujuan dari Left 4 Dead untuk Survivor adalah untuk saling membantu mencapai Safe Room atau Ruang Aman. Para Infected harus bekerja sama untuk menghentikan mereka.
+
+Left 4 Dead dirilis pada 18 November 2008 di Amerika Serikat dan 21 November di Eropa. Permainan ini pertama kali terungkap dalam publikasi Christmas 2006 PC Gamer Inggris dengan enam artikel halaman yang menggambarkan playthrough di markas Valve. Sebuah penggoda dirilis dengan The Orange Box. Permainan ini pertama kali dimainkan di 2007 Showdown LAN di San Jose dan di QuakeCon 2007. Sebuah demo, awalnya akan dirilis pada 6 November 2008 diundur sampai tanggal 11 November 2008.
+
+Pada Juli 2009, Left 4 Dead memiliki 89 dari 100 dari Metacritic.
+
+Edisi-200 Majalah ''Game Informer'' peringkat Left 4 Dead sebagai # 82 di atas 200 permainan dari semua waktu, inilah yang mereka katakan: "Zombies telah muncul dalam permainan video dalam berbagai bentuk, tapi tidak ada yang pernah dipaku penuh-on zombie apocalypse sampai Valve's Left 4 Dead. Intensitas empat pemain online dalam pengalaman koperasi dimanfaatkan dinamis oleh "Direktur AI" untuk mengatur serangan Terinfeksi sesuai dengan kinerja pemain. Dengan tambahan dalam karakter yang mengesankan, cerita plot menarik, dan secara online versus mode.
+
+Gameplay dasar tidak pernah berubah dari peta ke peta, sehingga pemain akan belajar cara mereka sekitar cukup cepat. Direktur membuat segalanya untuk tidak monoton, bagaimanapun, dengan melemparkan di berbagai tantangan di setiap level. Tidak ada dua ''playthroughs'' yang persis sama.
+
+
+
+== Rekomendasi Sistem PC ==
+
+'''Minimum:'''
+
+OS: Microsoft Windows XP / Vista / Vista64 / Windows 7 Beta
+Processor: Pentium 4 3.0GHz
+Memory: 1 GB
+Graphics: 128 MB, Shader model 2.0, ATI 9600, NVidia 6600 or better
+Hard Drive: At least 7.5 GB of free space
+Sound Card: DirectX 9.0c compatible sound card
+
+'''Rekomendasi:'''
+
+OS: Microsoft Windows XP / Vista / Vista64
+Processor: Intel core 2 duo 2.4GHz
+Memory: 1 GB
+Graphics: Shader mgodel 3.0, NVidia 7600, ATI X1600 or better
+
+== Pranala luar ==
+* [http://www.l4d.com/ ''Left 4 Dead'' official website]
+* [http://store.steampowered.com/app/500/ ''Left 4 Dead''] on [[Steam (content delivery)|Steam]]
+* {{imdb title|1323932|Left 4 Dead}}
+
+{{Permainan Valve}}
+{{Source engine games}}
+
+{{game-stub}}
+
+[[Kategori:Permainan video tahun 2008]]
+[[Kategori:Permainan Windows]]
+[[Kategori:Permainan Valve Corporation]]
+[[Kategori:Permainan Xbox 360]]
+[[Kategori:Permainan video zombie]]

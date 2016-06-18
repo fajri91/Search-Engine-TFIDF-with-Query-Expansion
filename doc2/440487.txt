@@ -1,0 +1,91 @@
+6 Hebe
+<!-- Additional parameters for this template  are available at [[Template:Infobox Planet]]. -->
+{{Infobox planet
+|discovery=yes
+|physical_characteristics = yes
+|bgcolour=#FFFFC0
+|name=6 Hebe
+|symbol= [[Image:6 Hebe Astronomical Symbol.svg|30px]]
+|discoverer=[[Karl Ludwig Hencke]]
+|discovered=[[1 Juli]] [[1847]]
+|image=
+|alt_names=1947 JB
+|adjectives = Hebean
+|named_after = [[Hebe]]
+|mp_category=[[Sabuk utama]]
+|adjectives=Hebean
+|epoch=26 November 2005 ([[Hari Julian]] 2453700.5)
+|semimajor=2,426 SA (362,851 Gm)
+|perihelion=1,937 SA (289,705 Gm)
+|aphelion=2,914&nbsp;[[Astronomical unit|SA]]&nbsp;(435.996&nbsp;[[Giga-|G]]m)
+|eccentricity=0,202
+|period=3,78 [[Tahun Julian|a]] (1379.756 [[hari|hr]])
+|inclination=14,751[[derajat (satuan sudut)|]]
+|asc_node=138,752
+|arg_peri=239,492
+|mean_anomaly=247,947
+|avg_speed=18,93 km/[[detik|dtk]]
+|p_orbit_ref = <ref name=Hebe-POE>{{cite web
+|title=AstDyS-2 Hebe Synthetic Proper Orbital Elements
+|publisher=Department of Mathematics, University of Pisa, Italy
+|url=http://hamilton.dm.unipi.it/astdys/index.php?pc=1.1.6&n=6
+|accessdate=2011-10-01}}</ref>
+|p_semimajor = 2,4252710
+|p_eccentricity = 0,1584864
+|p_inclination = 14,3511092
+|p_mean_motion = 95.303184
+|perihelion_rate = 31,568209
+|node_rate = 41,829042
+|dimensions=205185170 km<ref name=Baer/><ref name=IRAS>[http://www.psi.edu/pds/archive/astdata04/simps04/diamalb.tab Supplemental IRAS Minor Planet Survey]</ref><ref name=Torppa2003>[http://www.rni.helsinki.fi/~mjk/thirty.pdf J. Torppa et al. ''Shapes and rotational properties of thirty asteroids from photometric data''], Icarus, Vol. 164, p. 346 (2003).</ref><br>186 km ([[Rata-rata geometrik|rata-rata]])
+|mass=1,28{{e|19}} kg<ref name=Baer>{{Cite web
+|year=2008
+|title=Recent Asteroid Mass Determinations
+|publisher=Personal Website
+|author=Jim Baer
+|url=http://home.earthlink.net/~jimbaer1/astmass.txt
+|accessdate=2008-11-28}}</ref>
+|density=3.810.26 g/cm<ref name=Baer/>
+|surface_grav=~0.087 m/s<sup>2</sup>
+|escape_velocity=~0.13 km/s
+|rotation=0.3031 d<ref>[http://www.psi.edu/pds/archive/lc.html Planetary Data System Small Bodies Node, lightcurve parameters]</ref>
+|spectral_type=[[Asteroid tipe S]]
+|magnitude = 7,5<ref name="Pasachoff1983">{{Cite book|author=Donald H. Menzel and Jay M. Pasachoff|year=1983|title=A Field Guide to the Stars and Planets|edition=2nd edition|publisher=Houghton Mifflin|pages=391|location=Boston, MA|isbn=0-395-34835-8 }}</ref> hingga 11,50
+|abs_magnitude=5,71
+|albedo=0,268&nbsp;([[albedo geometrik|geometrik]])<ref name=IRAS />
+|angular_size = 0,26" <!-- Horizons 2010-Sep-20 --> hingga 0,065"
+|single_temperature=~170 [[kelvin|K]] <br>''maks:'' ~269 K (-4 C)
+}}
+'''6 Hebe''' ({{IPAc-en|icon||h|i|b|i}} {{Respell|HEE|bee}}; {{Lang-el|''}})'' adalah sebuah [[asteroid]] pada [[sabuk utama]] yang besar, dan [[massa]]nya sekitar setengah persen dari total massa yang ada di sabuk utama. Hebe nampaknya memiliki [[massa jenis|kerapatan]] [[kerapatan limbak|limbak]] (''bulk density'') yang besar (lebih besar dari kerapatan limbak [[Bulan]] atau bahkan [[Mars]]), namun, hal ini berarti bahwa secara volume Hebe tidak termasuk dalam peringkat dua puluh asteroid terbesar. Kerapatan limbak yang tinggi ini menandakan objek yang sangat padat yang belum terpengaruhi oleh benturan. Hal ini tidak umum untuk asteroid seukuran Hebe  yang umumya mereka merupakan ''rubble pile'' yang tidak terlalu terikat.
+
+Dalam segi [[Magnitudo semu|kecerahan]], Hebe adalah objek kelima yang paling terang di dalam [[sabuk asteroid]] setelah [[4 Vesta|Vesta]], [[1 Ceres|Ceres]], [[7 Iris|Iris]] dan [[2 Pallas|Pallas]]. Rata-rata magnitudo semunya sekitar +8,3, hampir sama dengan kecerahan dari [[Titan (satelit)|Titan]]<ref>[http://jas.org.jo/ast.html The Brightest Asteroids]</ref> dan dapat mencapai +7,5 pada masa oposisi sekitar [[apsis|titik perihelion]].
+
+Hebe mungkin adalah objek induk dari [[meteorit]] H chondrite, yang menyumbangkan sebesar 40% dari seluruh meteorit yang menghantam [[Bumi]].
+
+==Penemuan==
+[[Image:Moon and Asteroids 1 to 10.svg|thumb|left|Perbandingan ukuran: 10 asteroid pertama dibandingkan dengan [[Bulan]]. Hebe berada pada urutan kelima dari kanan.]]
+Hebe adalah [[asteroid]] keenam yang ditemukan manusia pada 1 Juli 1847 oleh [[Karl Ludwig Hencke]]. Hebe merupakan asteroid kedua dan yang terakhir yang ditemukan oleh Hencke, yang sebelumnya telah menemukan [[5 Astraea|Astraea]]. Nama dari asteroid ini mengikuti nama ''[[Hebe]]'', dewi masa muda, yang diusulkan oleh [[Carl Friedrich Gauss]].
+
+==Satelit==
+Pada [[5 Maret]] [[1977]], Hebe pernah [[gerhana|menutupi]] Kaffaljidhma ([[Gamma Ceti| Ceti]]), sebuah bintang dengan kecerahan [[magnitude semu|magnitude]] ketiga. Tidak ada penutupan lain yang dilakukan Hebe yang pernah dilaporkan.
+
+Akibat penutupan tersebut, [[satelit alami|satelit]] kecil dari Hebe terlihat dan dilaporkan oleh [[Paul D. Maley]].<ref>[http://www.johnstonsarchive.net/astro/asteroidmoonsq.html W. R. Johnston ''Other reports of Asteroid/TNO Companions]</ref> Satelit ini kemudian dinamai sebagai "Jebe". Namun, penemuan ini belum dikonfirmasi.
+
+{{Clear}}
+
+==Referensi==
+* {{Cite web| last = Yeomans | first = Donald K. | url = http://ssd.jpl.nasa.gov/?horizons | title = Horizons system | publisher = NASA JPL | accessdate = 2007-03-20 }} &mdash; Horizons can be used to obtain a current ephemeris
+<references/>
+
+==Pranala luar==
+* [http://www.rni.helsinki.fi/~mjk/thirty.pdf Shape model deduced from lightcurve]
+* [http://adsabs.harvard.edu//full/seri/MNRAS/0007//0000283.000.html MNRAS '''7''' (1847) 283] (discovery announcement)
+* [http://adsabs.harvard.edu//full/seri/MNRAS/0008//0000104.000.html MNRAS '''8''' (1848) 103]
+
+{{Minor planets navigator|[[5 Astraea]]||[[7 Iris]]}}
+
+{{Asteroid sabuk utama}}
+
+{{DEFAULTSORT:Hebe}}
+[[Kategori:Asteroid sabuk utama]]
+[[Kategori:Asteroid tipe S]]
+[[Kategori:Asteroid yang dinamai dari mitologi Yunani]]

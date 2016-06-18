@@ -1,0 +1,25 @@
+Hymenancora dogieli
+{{Taxobox |name = Hymenancora dogieli
+|regnum = [[Hewan|Animalia]]
+|subregnum = [[Parazoa]]
+|phylum = [[Porifera]]
+|classis = [[Demospongiae]]
+|ordo = [[Poecilosclerida]]
+|familia = [[Myxillidae]]
+|genus = [[Hymenancora]]
+|species = Hymenancora dogieli
+|binomial_authority =Koltun, 1952
+}}
+'''''Hymenancora dogieli''''' adalah [[spesies]] [[spons]] yang tergolong dalam kelas [[Demospongiae]]. Spesies ini juga merupakan bagian dari genus Hymenancora dan [[familia]] Myxillidae. Nama ilmiah spesies ini pertama kali diterbitkan pada tahun 1952 oleh Koltun.
+
+Seperti spons pada umumnya, spesies ini memiliki tubuh yang berpori dan permukaan yang keras seperti [[batu]]. Selain itu, Hymenancora dogieli juga dapat menyerap [[oksigen]] dari [[air]] melalui proses [[difusi]].
+
+== Referensi ==
+
+* ''WoRMS Porifera: World Porifera Database''. Soest R. van (ed), 22 Oktober 2008.
+
+{{DEFAULTSORT:Hymenancora dogieli}}
+
+[[Kategori:Demospongiae]]
+
+{{porifera-stub}}

@@ -1,0 +1,4 @@
+Templat:Lang-he
+{{langWithName|he|bahasa Ibrani|{{{1}}}}}<noinclude>
+[[Kategori:Templat bahasa|{{PAGENAME}}]]
+</noinclude>

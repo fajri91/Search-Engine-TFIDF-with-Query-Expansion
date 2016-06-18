@@ -1,0 +1,52 @@
+Brosso
+{{Infobox Italian comune
+| name                = Brosso
+| official_name       = Comune di Brosso
+| native_name         = 
+| image_skyline       = Brosso Chiesa San Michele.jpg
+| imagesize           = 
+| image_alt           = 
+| image_caption       = 
+| image_shield        = 
+| shield_alt          = 
+| image_map           = 
+| map_alt             = 
+| map_caption         = 
+| pushpin_label_position = 
+| pushpin_map_alt     = 
+| latd  = 45 |latm  = 30 |lats  =  |latNS  = N
+| longd = 7 |longm = 48 |longs =   |longEW = E 
+| coordinates_type    = type:city(462)_region:IT
+| coordinates_display = title
+| coordinates_footnotes = 
+| region              = {{flagicon|Piedmont}} [[Piedmont]]
+| province            = [[Provinsi Turin]] (TO)
+| frazioni            = 
+| mayor_party         = 
+| mayor               = 
+| area_footnotes      = 
+| area_total_km2      = 
+| population_footnotes = 
+| population_total    = 
+| population_as_of    = 
+| pop_density_footnotes = 
+| population_demonym  = 
+| elevation_footnotes = 
+| elevation_m         = 
+| twin1               = 
+| twin1_country       = 
+| saint               = 
+| day                 = 
+| postal_code         = 10080
+| area_code           = 0125
+| website             = {{official|http://www.comune.brosso.to.it/Default.cfm}}
+| footnotes           = 
+}}
+'''Brosso''' adalah komune yang terletak di distrik [[Provinsi Turin]], [[Italia]]. 
+
+Kota Brosso memiliki luas sebesar 11.3 km.
+
+Brosso pada tahun 2004, memiliki penduduk sebanyak 462 jiwa.
+
+{{Provinsi Torino}}
+{{Turin-geo-stub}}

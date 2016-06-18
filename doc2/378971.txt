@@ -1,0 +1,73 @@
+Main Kata
+{{infobox television |
+ | show_name = Main Kata
+ | image = [[Berkas:Main_Kata.jpg|180px]]
+ | caption = Logo ''Main Kata''  
+ | rating = 
+ | format = Kuis
+ | runtime = 60 menit (dengan iklan)
+ | creator = 
+ | company = PT Triwarsana
+ | presenter = Kemal Vivaveni<br />TJ
+ | country = {{flagicon|Indonesia}} Indonesia
+ | network = Global TV 
+ | first_aired = 14 Maret 2011
+ | last_aired = 31 Januari 2012
+ | num_episodes = 232
+ | followed_by = ''Masih Main Kata'' (Global TV, 2012-2013)
+}}
+'''Main Kata''' adalah sebuah acara [[kuis]] [[Indonesia]]. Acara ini dibawakan oleh [[Kemal Vivaveni]] dan [[TJ]]. Dalam acara ini, [[40 (angka)|40]] kontestan (terbagi dalam [[4 (angka)|4]] kelompok, masing-masing [[10 (angka)|10]] orang) akan bermain dengan [[kosakata]] [[Bahasa Indonesia]]. Acara ini ditayangkan sejak [[14 Maret]] [[2011]] sampai [[31 Januari]] [[2012]] di [[Global TV]].
+Mulai [[30 April]] 2012, kuis ini dilanjutkan kembali dengan program acara [[Masih Main Kata]] yang dipandu oleh [[Lionil Hendrik]] dan [[Tya Ariestya]].
+{| class="wikitable"
+|-
+! Awal tayang !! Akhir tayang !! Jadwal tayang
+|-
+| align="right"|14 [[Maret 2011]] || align="right"|[[30 Desember]] 2011 || [[Senin]]-[[Jumat]], 13:00-14:00 [[WIB]]
+|-
+| align="right"|[[2 Januari]] 2012 || align="right"|31 [[Januari 2012]] || Senin-Jumat, 13:30-14:30 WIB
+|}
+== Babak permainan ==
+=== ''Pilih kata'' ===
+Di babak I ini, kontestan akan menulis [[kata]] yang merupakan kata baku (sesuai dengan [[Ejaan Yang Disempurnakan|EYD]]). [[Waktu]] untuk menulisnya adalah [[5 (angka)|5]] [[detik]]. Kontestan yang salah menulis kata jawaban dengan tepat, harus kembali ke tempat duduknya masing-masing.<br />
+Kelompok dengan sisa kontestan tersedikit pada akhir babak akan tereliminasi dari permainan (tidak berhak lanjut ke babak II).
+=== ''Eja kata'' ===
+Di babak II ini, TJ akan mengajukan pertanyaan yang jawabannya harus dieja [[huruf]]nya [[1 (angka)|1]]/1. Setiap anggota kelompok berhak menyebutkan 1 huruf. Anggota kelompok yang salah mengeja akan kembali ke tempat duduknya masing-masing, sedangkan yang benar mengeja akan kembali ke deretan belakang lajur tempat kelompoknya bermain.
+Waktu berpikir yang diberikan kepada setiap kontestan adalah [[3 (angka)|3]] detik. Kelompok dengan sisa kontestan tersedikit pada akhir babak akan tereliminasi dari permainan (tidak berhak lanjut ke babak III). Eliminasi kelompok dilakukan sebanyak [[2 (angka)|2]] tahap: tahap pertama menyisakan 2 kelompok dan tahap ke-2 menyisakan 1 kelompok. Satu kelompok yang tetap bertahan di akhir babak ini akan memperoleh hadiah bingkisan menarik.
+=== ''Kata apa'' ===
+Kontestan terkuat dari kelompok terkuat akan bermain di babak III. Ada 15 nomor petak, di balik ke-15 nomor tersebut terdapat [[kategori]] dan huruf yang merupakan inisial dari kata yang berkaitan dengan kategori tersebut. Setiap kontestan hanya berhak memilih 1 huruf inisial (kecuali ''kotak emas'' yang tidak memiliki opsi huruf inisial) dan harus menyebutkan sebanyak-banyaknya kata sesuai inisial pilihannya tersebut dengan benar dalam waktu [[30 (angka)|30]] detik.<br />
+Kontestan dengan tebakan benar terbanyak akan memperoleh hadiah [[uang tunai]] [[Rp]]5.000.000,00 dan berhak masuk ke babak bonus untuk menambah perolehan hadiahnya.
+== Babak Bonus: ''Susun kata'' ==
+=== Regulasi ===
+Kontestan pemenang akan didampingi [[7 (angka)|7]] dari 10 orang rekannya yang kalah dari kelompoknya untuk membantunya bermain menyusun kata seperti pada permainan ''[[Scrabble]]''. Ke-7 pendamping akan mengambil 7 balok huruf (masing-masing 1 balok huruf).
+{| class="wikitable"
+|-
+! Putaran !! Waktu !! Hadiah<br />Per poin huruf
+|-
+| align="center"|I || align="right"|2'00" || align="right"|Rp100.000,00
+|-
+| align="center"|II || align="right"|1'30" || align="right"|Rp300.000,00
+|-
+| align="center"|III || align="right"|1'00" || align="right"|Rp500.000,00
+|}
+* Pada putaran II dan III, banyaknya balok huruf yang diambil adalah sejumlah yang terpakai pada kesempatan sebelumnya.
+* Jika kata tersusun ternyata tidak terdapat dalam ''[[Kamus Besar Bahasa Indonesia]]'' atau kata sapaan, maka kata tersebut tidak diperhitungkan poin hurufnya (didiskualifikasi).
+* Balok huruf penyusun kata terdiskualifikasi akan dikembalikan untuk dipergunakan pada putaran selanjutnya.
+* Jika pada suatu putaran tidak tersusun kata, maka putaran selanjutnya tidak akan dimainkan (permainan berakhir lebih awal).
+=== Perolehan hadiah ===
+<math>\sum Hadiah=Rp5.000.000,00+(A \cdot Rp100.000,00)+(B \cdot Rp300.000,00)+(C \cdot Rp500.000,00)</math>
+{| class="wikitable"
+|-
+! Huruf !! Keterangan
+|-
+| align="center"|[[A]] || Total poin huruf putaran I
+|-
+| align="center"|[[B]] || Total poin huruf putaran II
+|-
+| align="center"|[[C]] || Total poin huruf putaran III
+|}
+Tim terheboh juga akan memperoleh hadiah bonus Rp1.000.000,00.
+== Pranala luar ==
+* [http://www.globaltv.co.id Situs resmi Global TV]
+{{tv-stub}}
+
+[[Kategori:Acara kuis Indonesia]]

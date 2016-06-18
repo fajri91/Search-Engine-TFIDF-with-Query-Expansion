@@ -1,0 +1,82 @@
+Hukum Gerakan Planet Kepler
+[[Berkas:Kepler laws diagram.svg|thumb|300px|Figure 1: Illustration of Kepler's three laws with two planetary orbits. (1) The orbits are ellipses, with focal points ''''<sub>1</sub> and ''''<sub>2</sub> for the first planet and ''''<sub>1</sub> and ''&>. (2) The two shaded sectors ''A''<sub>1</sub> and ''A''<sub>2</sub> have the same surface area and the time for planet 1 to cover segment ''A''<sub>1</sub> is equal to the time to cover segment ''A''<sub>2</sub>. (3) The total orbit times for planet 1 and planet 2 have a ratio ''a''<sub>1</sub><sup>3/2</sup>&nbsp;:&nbsp;''a''<sub>2</sub><sup>3/2</sup>.]]
+
+Di dalam [[astronomi]], tiga '''Hukum Gerakan Planet Kepler''' adalah:
+
+* Setiap planet bergerak dengan lintasan elips, Matahari berada di salah satu fokusnya.
+* Luas daerah yang disapu pada selang waktu yang sama akan selalu sama.
+* Perioda kuadrat suatu planet berbanding dengan pangkat tiga jarak rata-ratanya dari Matahari.
+
+Ketiga hukum di atas ditemukan oleh ahli matematika dan astronomi [[Jerman]]: [[Johannes Kepler]] (15711630), yang menjelaskan gerakan planet di dalam [[tata surya]]. Hukum di atas menjabarkan gerakan dua benda yang saling mengorbit.
+
+Karya Kepler didasari oleh data pengamatan [[Tycho Brahe]], yang diterbitkannya sebagai 'Rudolphine tables'. Sekitar tahun 1605, Kepler menyimpulkan bahwa data posisi planet hasil pengamatan Brahe mengikuti rumusan matematika cukup sederhana yang tercantum di atas.
+
+Hukum Kepler mempertanyakan kebenaran astronomi dan fisika warisan zaman [[Aristoteles]] dan [[Claudius Ptolemaeus|Ptolemaeus]]. Ungkapan Kepler bahwa Bumi beredar sekeliling, berbentuk elips dan bukannya epicycle, dan membuktikan bahwa kecepatan gerak planet bervariasi, mengubah astronomi dan fisika. Hampir seabad kemudian, [[Isaac Newton]] mendeduksi Hukum Kepler dari rumusan hukum karyanya, hukum gerak dan hukum gravitasi Newton, dengan menggunakan Euclidean geometri klasik.
+
+Pada era modern, hukum Kepler digunakan untuk aproksimasi orbit satelit dan benda-benda yang mengorbit Matahari, yang semuanya belum ditemukan pada saat Kepler hidup (contoh: planet luar dan asteroid). Hukum ini kemudian diaplikasikan untuk semua benda kecil yang mengorbit benda lain yang jauh lebih besar, walaupun beberapa aspek seperti gesekan atmosfer (contoh: gerakan di orbit rendah), atau relativitas (contoh: prosesi preihelion merkurius), dan keberadaan benda lainnya dapat membuat hasil hitungan tidak akurat dalam berbagai keperluan.
+[[Berkas:Classical Kepler orbit 80frames e0.6 tilted smaller.gif|thumb|Animasi dari gerak Kepler]]
+
+== Pengenalan Tiga Hukum Kepler ==
+
+=== Secara Umum ===
+
+Hukum hukum ini menjabarkan gerakan dua badan yang mengorbit satu sama lainnya. Massa dari kedua badan ini bisa hampir sama, sebagai contoh [[Charon]][[Pluto]] (~1:10), proporsi yang kecil, sebagai contoh. [[Bulan]][[Bumi]](~1:100), atau perbandingan proporsi yang besar, sebagai contoh [[Merkurius]][[Matahari]] (~1:10,000,000).
+
+Dalam semua contoh di atas, kedua badan mengorbit mengelilingi satu pusat massa, barycenter, tidak satu pun berdiri secara sepenuhnya di atas fokus elips. Namun, kedua orbit itu adalah elips dengan satu titik fokus di barycenter. Jika rasio massanya besar, sebagai contoh planet mengelilingi Matahari, barycenternya terletak jauh di tengah obyek yang besar, dekat di titik massanya. Di dalam contoh ini, perlu digunakan instrumen presisi canggih untuk mendeteksi pemisahan barycenter dari titik masa benda yang lebih besar. Jadi, hukum Kepler pertama secara akurat menjabarkan orbit sebuah planet mengelilingi Matahari.
+
+Karena Kepler menulis hukumnya untuk aplikasi orbit planet dan Matahari, dan tidak mengenal generalitas hukumnya, artikel ini hanya akan mendiskusikan hukum di atas sehubungan dengan Matahari dan planet-planetnya.
+
+=== Hukum Pertama ===
+[[Berkas:Ellipse Kepler Loi1.svg|thumb|right|Figure 2: Hukum Kepler pertama menempatkan Matahari di satu titik fokus edaran elips.]]
+
+:"Setiap planet bergerak dengan lintasan elips, Matahari berada di salah satu fokusnya."
+
+Pada zaman Kepler, klaim di atas adalah radikal. Kepercayaan yang berlaku (terutama yang berbasis teori epicycle) adalah bahwa orbit harus didasari lingkaran sempurna. Pengamatan ini sangat penting pada saat itu karena mendukung pandangan alam semesta menurut Kopernikus. Ini tidak berarti ia kehilangan relevansi dalam konteks yang lebih modern.
+
+Meski secara teknis elips yang tidak sama dengan lingkaran, tetapi sebagian besar planet planet mengikuti orbit yang bereksentrisitas rendah, jadi secara kasar bisa dibilang mengaproksimasi lingkaran. Jadi, kalau ditilik dari pengamatan jalan edaran planet, tidak jelas kalau orbit sebuah planet adalah elips. Namun, dari bukti perhitungan Kepler, orbit-orbit itu adalah elips, yang juga memeperbolehkan benda-benda angkasa yang jauh dari Matahari untuk memiliki orbit elips. Benda-benda angkasa ini tentunya sudah banyak dicatat oleh ahli astronomi, seperti komet dan asteroid. Sebagai contoh, Pluto, yang diamati pada akhir tahun 1930, terutama terlambat diketemukan karena bentuk orbitnya yang sangat elips dan kecil ukurannya.
+
+=== Hukum Kedua ===
+[[Berkas:Ellipse Kepler Loi2.svg|right|thumb|Figure 3: Illustrasi hukum Kepler kedua. Bahwa Planet bergerak lebih cepat di dekat Matahari dan lambat di jarak yang jauh. Sehingga, jumlah area adalah sama pada jangka waktu tertentu.]]
+
+:"Luas daerah yang disapu pada selang waktu yang sama akan selalu sama."
+
+Secara matematis:
+
+:<math>\frac{d}{dt}(\frac{1}{2}r^2 \dot\theta) = 0</math>
+
+dimana <math>\frac{1}{2}r^2 \dot\theta</math> adalah "areal velocity".
+
+=== Hukum Ketiga ===
+
+Planet yang terletak jauh dari Matahari memiliki perioda orbit yang lebih panjang dari planet yang dekat letaknya. Hukum Kepler ketiga menjabarkan hal tersebut secara kuantitatif.
+
+:"Perioda kuadrat suatu planet berbanding dengan pangkat tiga jarak rata-ratanya dari Matahari."
+
+Secara matematis:
+
+:<math> {P^2} \propto  {a^3} </math>
+
+dengan <math>P</math> adalah perioda orbit planet dan <math>a</math> adalah sumbu semimajor orbitnya.
+
+Konstant proporsionalitasnya adalah semua sama untuk planet yang mengedar Matahari.
+
+:<math>\frac{P_{\rm planet}^2}{a_{\rm planet}^3} = \frac{P_{\rm earth}^2}{a_{\rm earth}^3}. </math>
+
+== Sejarah ==
+
+Pada tahun 1601 [[Johannes Kepler|Kepler]] berusaha mencocokkan berbagai bentuk kurva geometri pada data-data posisi [[Mars|Planet Mars]] yang dikumpulkan oleh [[Tycho Brahe]]. Hingga tahun 1606, setelah hampir setahun menghabiskan waktunya hanya untuk mencari penyelesaian perbedaan sebesar 8 menit busur (mungkin bagi kebanyakan orang hal ini akan diabaikan), Kepler mendapatkan orbit planet Mars. Menurut Kepler, lintasan berbentuk [[elips]] adalah gerakan yang paling sesuai untuk orbit planet yang mengitari [[matahari]]. Pada tahun 1609, dia mempublikasikan ''Astronomia Nova'' yang menyatakan dua hukum gerak planet. Hukum ketiga tertulis dalam ''Harmonices Mundi'' yang dipublikasikan sepuluh tahun kemudian.
+
+== Pustaka ==
+* Bate, Roger R., Mueller, Donald D. dan White, Jerry E. ''Fundamentals of Astrodynamics'', New York, Dover Publications, Inc., 1971.
+
+* Kepler's life is summarized on pages 627623 and Book Five of his ''magnum opus'', ''[[Harmonice Mundi]]'' (''harmonies of the world''), is reprinted on pages 635732 of ''On the Shoulders of Giants'': The Great Works of Physics and Astronomy (works by [[Copernicus]], [[Johannes Kepler|Kepler]], [[Galileo]], [[Isaac Newton|Newton]], and [[Albert Einstein|Einstein]]). [[Stephen Hawking]], ed. 2002 ISBN 0-7624-1348-4
+
+* A derivation of Kepler's third law of planetary motion is a standard topic in engineering mechanics classes. See, for example, pages 161164 of {{Citation|first=J. L. |last=Meriam|year=1971|date=1966, 1971|title=Dynamics, 2nd ed. |location=New York|publisher=John Wiley|isbn=0-471-59601-9}}.
+
+* Murray and Dermott, Solar System Dynamics, Cambridge University Press 1999, ISBN-10 0-521-57597-4
+
+== Pranala luar ==
+* [http://www.gurumuda.com/hukum-kepler Hukum Kepler]
+* [http://kepler.nasa.gov/johannes/ Johannes Kepler]
+
+[[Kategori:Astronomi]]

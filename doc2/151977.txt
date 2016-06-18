@@ -1,0 +1,143 @@
+Bandar Udara Internasional Cape Town
+{{Infobox airport
+| name         = Bandar Udara Internasional Cape Town
+| nativename   =
+| nativename-a =
+| nativename-r =
+| image        = CTIA-CentralTerminal.jpg
+| image-width  =
+| caption      = Cape Town International's new central terminal building and public-transit plaza
+| IATA         = CPT
+| ICAO         = FACT
+| WMO          = 68816
+| type         = Public
+| owner        =
+| operator     = [[Airports Company South Africa]]
+| city-served  = Cape Town
+| location     = [[Cape Town]], [[Afrika Selatan]]
+| hub          = 
+<div>
+*[[South African Airways]]
+<div>
+| elevation-f  = 151
+| elevation-m  = 46
+| latd = 33 | latm = 58 | lats = 10 | latNS = S
+| longd=018 | longm= 35 | longs= 50 | longEW= E
+| coordinates_region     = ZA-WC
+| website      = [http://www.acsa.co.za/home.asp?pid=229 www.acsa.co.za]
+| image_map              =
+| image_mapsize          =
+| image_map_caption      =
+| pushpin_map            = Cape Town
+| pushpin_label          = CPT
+| pushpin_map_caption    = Location within the Cape Town metropolitan area
+| metric-elev  = yes
+| metric-rwy   = yes
+| r1-number    = 01/19
+| r1-length-f  = 10,502
+| r1-length-m  = 3,202
+| r1-surface   = Beton
+| r2-number    = 16/34
+| r2-length-f  = 8,581
+| r2-length-m  = 2,275
+| r2-surface   = Beton
+| r3-number    = 07/22
+| r3-length-f  = 13,890
+| r3-length-m  = 4,000
+| r3-surface   = Beton
+| r4-number    = 01/22
+| r4-length-f  = 7,676
+| r4-length-m  = 2,000
+| r4-surface   = Aspal
+| stat-year    = 2010
+| stat1-header = Penumpang
+| stat1-data   = 8,576,709
+| stat2-header = Pergerakan pesawat
+| stat2-data   = 93,623
+| stat3-header = Kapasitas bandara
+| stat3-data   = 14.5 million p.a.
+| footnotes    = Source: Passenger Statistics,<ref name=cpt-statistics-passengers /> Aircraft Movements<ref name=cpt-statistics-aircraft />
+}}
+
+'''Bandar Udara Internasional Cape Town''' {{Airport codes|CPT|FACT}} merupakan sebuah [[bandar udara]] di [[Cape Town]], [[Afrika Selatan]]. Merupakan hub bagi [[South African Airways]]. Bandara Cape Town merupakan bandara terbesar kedua di Afrika Selatan, setelah [[Bandar Udara Internasional Johannesburg|Bandar Udara Internasional OR Tambo]], ketiga terbesar di Afrika dan gerbang masuk untuki lalu lintas [[turis]]. Hingga pertengahan 1990-an bandara ini dinamai Bandar Udara DF Malan sesuai Perdana Menteri [[Daniel Franois Malan]].
+
+== Terminal ==
+[[Berkas:CTIA-InsideNewTerminal.jpg|thumb|right|Late night in new central departures terminal.]]
+CTIA memiliki lima terminal:
+* Kedatangan Internasional
+* Keberangkatan Internasional
+* Kedatangan Domestik
+* Keberangkatan Domestik [[South African Airways]]
+* Keberangkatan Domestik maskapai lain
+
+Terminal diatur dalam bentuk jalan tunggal, dan mudah diakses satu sama lain. Hanya terminal internasional yang menyediakan garbarata. Bandara ini mengalami perubahan besar karena pertumbuhan pelancong bisnis dan pariwisata yang meningkat dan persiapan untuk [[Piala Dunia FIFA 2010]].
+
+== Statistik ==
+CTIA menangani 8.320.000 penumpang tahun 2007, memperlihatkan peningkatan besar 15.1% sejak tahun 2006. Bandara Cape Town memegang statusnya sebagai bandara tersibuk ketiga di Afrika dan telah mengalahkan [[Bandar Udara Internasional San Antonio]] dalam peringkat dunia.
+
+== Maskapai penerbangan dan kota tujuan ==
+Maskapai berikut telah melakukan penerbangan terjadwal menuju Bandar Udara Internasional Cape Town:
+[[Berkas:International flights from Cape Town International Airport.svg|thumb|right|International from Cape Town International Airport.]]
+[[Berkas:Regional flights from Cape Town International Airport.svg|thumb|right|Regional and domestic flights from Cape Town International Airport.]]
+[[Berkas:CTIA-Runway.jpg|thumb|right|Airport and Table Mountain as viewed from the runway upon take-off.]]
+
+{{Airport destination list
+| 3rdcoltitle = Type
+| [[1Time]] | Durban, East London, Johannesburg-OR Tambo, Port Elizabeth | Domestic
+| [[Air Botswana]] | Maun | International
+| [[Air France]] | '''Seasonal:''' Paris-Charles de Gaulle | International
+| [[Air Mauritius]] | Mauritius | International
+| [[Air Namibia]] | Windhoek-Hosea Kutako | International
+| [[Airlink]] | George, Kimberley, Nelspruit-Kruger Mpumalanga, Upington | Domestic
+| [[British Airways]] | London-Heathrow | International
+| British Airways<br><small>operated by [[Comair (South Africa)|Comair]] | Durban, Johannesburg-OR Tambo, Port Elizabeth | Domestic
+| [[Condor Flugdienst]]| Frankfurt [begins 3 November 2012]<ref>{{cite web | title = Condor to Start Frankfurt  Cape Town Service from Nov 2012 | url = http://airlineroute.net/2012/06/28/de-fracpt-w12/ | publisher = Airline Route | date = June 28, 2012 | accessdate = June 28, 2012}}</ref> |International
+| [[Edelweiss Air]]| '''Seasonal:''' Zrich |International
+| [[Eritrean Airlines]] | Asmara, Entebbe, Johannesburg-OR Tambo (Suspended) | International
+| [[Emirates (airline)|Emirates]] | Dubai | International
+| [[KLM]] | Amsterdam | International
+| [[Kulula.com]] | Durban, Johannesburg-Lanseria, Johannesburg-OR Tambo | Domestic
+| [[Lufthansa]] | '''Seasonal''': Munich [begins 28 October 2012] | International
+| [[Mango (airline)|Mango]] | Bloemfontein, Durban, Johannesburg-Lanseria, Johannesburg-OR Tambo | Domestic
+| [[Qatar Airways]] | Doha | International
+| [[Singapore Airlines]] | Singapore | International
+| [[South African Airways]] |  Johannesburg-OR Tambo | Domestic
+| [[South African Express]] | Bloemfontein, Durban, East London, Hoedspruit, Port Elizabeth, Kimberley | Domestic
+| South African Express | Maputo, Walvis Bay, Windhoek-Hosea Kutako | International
+| [[TAAG Angola Airlines]] | Luanda | International
+| [[Turkish Airlines]] | Istanbul-Atatrk | International
+| [[Virgin Atlantic Airways]] | '''Seasonal''': London-Heathrow | International
+}}
+
+<small>+Meskipun [[Malaysia Airlines]] terbang menuju kota-kota tersebut dari Cape Town melalui Johannesburg, penumpang tidak dapat membeli tiket Malaysia Airlines antara Cape Town dan Johannesburg.</small>
+
+== Pembangunan ==
+CTIA sedang menjalani renovasi besar senilai R1,3 miliar untuk menampung 14 juta penumpang pada 2015. Terminal Internasional yang baru telah selesai dengan satu dari dua lapangan parkir bertingkat dekat Terminal Domestik, yang lainnya dibangun pada April 2007 dan akan diletakkan di seberang Terminal Internasional dan menyediakan 2500 slot parkir.
+
+Akses jalan tunggal akan diubah untuk menyediakan jalan dua tingkat, dengan tingkat bawah untuk kedatangan dan tingkat atas untuk keberangkatan. Ini akan meningkatkan kapasitas bandara dan mengubah wajah bandara. Pembangunan telah dimulai dan dijadwalkan selesai tahun 2009.
+
+Terminal domestik menerima renovasi penuh dengan bangunan terminal tengah baru senilai R900 juta, menghubungkan terminal internasional dan domestik. Terminal domestik akan diperbarui dan diperluas, dengan terminal tengah menjalankan kedatangan dan keberangkatan internasional dan domestik. Untuk kapasitas tambahan, garbarata kaca akan dibangun di terminal untuk memfasilitasi akses langsung dari kedatangan dan keberangkatan ke pesawat.
+
+Jalan bebas yang menghubungkan bandara dengan [[Cape Town]] juga diperbarui, termasuk pembaruan persimpangan Airport Access Rd dengan N2 (Settlers Way) Freeway. Menghubungkan bandara dengan jaringan Metrorail (sistem angkutan umum) yang juga dibangun dengan biaya R1 miliar.
+
+Juga telah diumumkan oleh otoritas penerbangan sipil, bahwa Bandara Cape Town akan melayani sebagai hub udara barat [[Piala Dunia 2010]], melayani lalu lintas udara tambahan yang mungkin datang dari [[Benua Amerika|Amerika]].
+
+== Manajemen ==
+CTIA dikelola oleh [[Airports Company South Africa]] (ACSA), yang mengelola semua bandara besar di Afrika Selatan. Sebelum pembentukan ACSA, semua bandara dikelola oleh Negara. Departemen Transportasi menjadi pemegang saham terbesar di ACSA.
+
+== Penerbangan ==
+* [[Lampu tanpa arah]] - CB462.5
+* [[Jaringan omniarah VHF]] - CTV115.7
+* [[Layanan Informasi Terminal Otomatis]] - 127.00
+
+==Referensi==
+{{Reflist|2}}
+
+== Pranala luar ==
+* [http://www.airports.co.za/home.asp?pid=229 Cape Town International Airport Homepage]
+* [http://africa.cwsurf.de/CapeTown.htm More useful information about CPT] - Photos, planespotting, parking...
+* [http://maps.google.com/maps?ll=-33.974115,18.603630&z=3&t=k Arial Photograph on Google Maps]
+
+[[Kategori:Cape Town]]
+[[Kategori:Provinsi Western Cape]]
+[[Kategori:Bandar udara di Afrika Selatan]]

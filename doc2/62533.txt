@@ -1,0 +1,11 @@
+Colok-masuk
+'''Colok-masuk'''<ref name="colok-masuk">[http://www.microsoft.com/Language/en-US/Search.aspx?sString=plug-in&langID=id-id Microsoft Language Portal]. Diambil pada tanggal 15 Juni 2011.</ref> ({{lang-en|plug-in}}) adalah sebuah [[program komputer]] yang menambah fungsionalitas sebuah program utama (suatu [[peramban web]] atau [[klien surel]], sebagai contoh). Program utama biasanya memberikan semacam [[antarmuka pengguna|antarmuka]] (''interface'') agar colok-masuk dapat berinteraksi dengan program utama. Sebagai contoh, colok-masuk biasanya digunakan pada peramban web untuk memutar video, memindai virus, dan menampilkan jenis berkas baru. Contoh colok-masuk yang dikenal adalah colok-masuk untuk Adobe Flash Player dan QuickTime.
+Pengaya atau pasang tambah<ref name="pasang tambah">[http://www.microsoft.com/Language/en-US/Search.aspx?sString=add-on&langID=id-id Microsoft Language Portal]. Diambil pada tanggal 15 Juni 2011.</ref> (''add-on'') juga sering dianggap sebagai istilah umum yang meliputi pengaya tertambat (''snap-ins''), colok-masuk, ekstensi, dan tema. 
+
+== Catatan kaki ==
+<references />
+
+{{perangkat lunak-stub}}
+
+[[Kategori:API]]
+[[Kategori:Perangkat lunak]]

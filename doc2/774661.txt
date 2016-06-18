@@ -1,0 +1,27 @@
+Templat:ScreenActorsGuildAwards EnsembleTVDrama 20102019
+{{Navbox
+| name      = ScreenActorsGuildAwards EnsembleTVDrama 20102019
+| title     = {{#if:{{{list only|}}}||[[Screen Actors Guild Award for Outstanding Performance by an Ensemble in a Drama Series]] (20102019)}}
+| basestyle = background: #ABCDEF
+| state     = {{{state|autocollapse}}}
+| border    = {{#if:{{{list only|}}}|child}}
+| bodyclass = hlist
+
+| list1 =
+* ''[[Boardwalk Empire]]'', [[Boardwalk Empire (musim 1)|musim 1]] (2010): {{allow wrap|{{small|[[Greg Antonacci|Antonacci]]; [[Steve Buscemi|Buscemi]]; [[Dabney Coleman|Coleman]]; [[Stephen Graham (aktor)|Graham]]; [[Paz de la Huerta|Huerta]]; [[Anthony Laciura|Laciura]]; [[Kelly Macdonald|Macdonald]]; [[Gretchen Mol|Mol]]; [[Aleksa Palladino|Palladino]]; [[Vincent Piazza|Piazza]]; [[Michael Pitt|Pitt]]; [[Michael Shannon|Shannon]]; Sparks; [[Michael Stuhlbarg|Stuhlbarg]]; [[Erik Weiner|Weiner]]; [[Shea Whigham|Whigham]]}}}}
+
+* ''[[Boardwalk Empire]]'', [[Boardwalk Empire (musim 2)|musim 2]] (2011): {{allow wrap|{{small|[[Steve Buscemi|Buscemi]]; [[Dominic Chianese|Chianese]]; [[Robert Clohessy|Clohessy]]; [[Dabney Coleman|Coleman]]; [[Charlie Cox|Cox]]; J. Gallina; L. Gallina; [[Stephen Graham (aktor)|Graham]]; [[Jack Huston|Huston]]; [[Anthony Laciura|Laciura]]; [[Heather Lind|Lind]]; [[Kelly Macdonald|Macdonald]]; D. McTigue; R. McTigue; [[Gretchen Mol|Mol]]; B. Noon; C. Noon; O'Rourke; [[Aleksa Palladino|Palladino]]; Pennewill; [[Vincent Piazza|Piazza]]; [[Michael Pitt|Pitt]]; [[Michael Shannon|Shannon]]; Sparks; [[Michael Stuhlbarg|Stuhlbarg]]; Van Wagner; [[Shea Whigham|Whigham]]; [[Michael K. Williams|Williams]]; [[Anatol Yusef|Yusef]]}}}}
+
+* ''[[Downton Abbey]]'', [[Downton Abbey (musim 2)|musim 2]] (2012): {{allow wrap|{{small|[[Hugh Bonneville|Bonneville]]; Boyle; [[Laura Carmichael|Carmichael]]; [[Jim Carter (aktor)|Carter]]; [[Brendan Coyle|Coyle]]; [[Michelle Dockery|Dockery]]; [[Jessica Brown Findlay|Findlay]]; [[Siobhan Finneran|Finneran]]; [[Joanne Froggatt|Froggatt]]; [[Iain Glen|Glen]]; [[Thomas Howes (aktor)|Howes]]; [[Rob James-Collier|James-Collier]]; [[Allen Leech|Leech]]; [[Phyllis Logan|Logan]]; [[Elizabeth McGovern|McGovern]]; [[Sophie McShera|McShera]]; [[Lesley Nicol (actress)|Nicol]]; [[Amy Nuttall|Nuttall]]; [[David Robb|Robb]]; [[Maggie Smith|Smith]]; [[Dan Stevens|Stevens]]; [[Penelope Wilton|Wilton]]}}}}
+
+* ''[[Breaking Bad]]'', [[Breaking Bad (musim 5)|musim 5, part II]] (2013): {{allow wrap|{{small|[[Michael Bowen (aktor)|Bowen]], [[Betsy Brandt|Brandt]], [[Bryan Cranston|Cranston]], [[Lavell Crawford|Crawford]], Fletcher, [[Laura Fraser|Fraser]], [[Anna Gunn|Gunn]], Metzler, [[RJ Mitte|Mitte]], [[Dean Norris|Norris]], [[Bob Odenkirk|Odenkirk]], [[Aaron Paul|Paul]], [[Jesse Plemons|Plemons]], [[Steven Michael Quezada|Quezada]], [[Kevin Rankin (aktor)|Rankin]], Sane}}}}
+
+* ''[[Downton Abbey]]'', [[Downton Abbey (musim 4)|musim 4]] (2014): {{allow wrap|{{small|[[Hugh Bonneville|Bonneville]], [[Laura Carmichael|Carmichael]], [[Jim Carter (aktor)|Carter]], [[Brendan Coyle|Coyle]], [[Michelle Dockery|Dockery]], [[Kevin Doyle (aktor)|Doyle]], [[Joanne Froggatt|Froggatt]], [[Lily James|James]], [[Rob James-Collier|James-Collier]], [[Allen Leech|Leech]], [[Phyllis Logan|Logan]], [[Elizabeth McGovern|McGovern]], [[Sophie McShera|McShera]], [[Matt Milne|Milne]], [[David Robb|Robb]], [[Maggie Smith|Smith]], [[Ed Speleers|Speleers]], [[Cara Theobold|Theobold]], [[Penelope Wilton|Wilton]]}}}}
+
+
+| below = {{#if:{{{list only|}}}||{{ScreenActorsGuildAwards EnsembleTVDrama footer}}}}
+}}<noinclude>
+{{collapsible option}}
+[[Category:Templat Screen Actors Guild Award Outstanding Cast|Drama TV 2010-2019]]
+[[Category:Templat televisi drama]]
+</noinclude>

@@ -1,0 +1,30 @@
+No-CD crack
+'''No-CD''', atau '''No-DVD crack''' merupakan sebuah metode untuk menghilangkan atau mengelabuhi sistem pengaman suatu aplikasi [[perangkat lunak]] sehingga bisa dijalankan tanpa menggunakan [[CD]], maupun [[DVD]] yang asli. '''No-CD crack''' merupakan jenis file asli yang telah dimodifikasi oleh '''pihak ketiga'''. Hal tersebut membuat perangkat lunak yang digunakan kehilangan fungsi onlinenya (Kemungkinan untuk bisa memakai fitur online adalah dengan cara menggunakan '''server non official''').
+
+Metode penggunaan No-CD crack adalah dengan cara mengkopi file .exe maupun file tambahan (.dll, .bin, etc) yang sudah dimodifikasi (biasanya terlihat dari size file yang berbeda). File tersebut diunduh dari dari situs-situs yang menyediakan file tersebut (website Gamecopyworld, atau [[Torrent]]). File tersebut dikopi kedalam folder aplikasi perangkat lunak yang bersangkutan dimana akan mengganti beberapa file yang sudah ada.
+
+== Legalitas ==
+Berbeda dengan [[Keygenerator]] dan [[Update blocker]], No-CD crack termasuk dalam kategori zona netral karena cara penggunaannya sendiri dapat menentukan apakah hal tersebut legal maupun illegal.
+
+No-CD crack merupakan suatu hal yang legal jika digunakan untuk hal yang bersifat personal (Satu Komputer pribadi) karena selain bisa berfungsi sebagai backup dari CD dan DVD yang asli maupun mempermudah penggunaan suatu aplikasi perangkat lunak tanpa harus memasukkan CD, maupun DVD tertentu ke dalam drive yang tergolong merepotkan.
+
+Permasalahan utama dari penggunaan No-CD crack adalah jenis perangkat lunak yang sama juga bisa digunakan di komputer yang lain dengan metode yang sama. Karena No-CD crack pada dasarnya digunakan untuk satu komputer pribadi, Pengkopian perangkat lunak yang sama kedalam komputer lain merupakan tindakan  yang bertentangan dengan kebijakan perusahaan dan hal itu dianggap illegal walaupun laptop dan komputer tersebut milik pengguna software asli tersebut.
+
+Permasalahan mengenai legalitas tersebut merupakan sebuah dilemma antara pengguna dan perangkat lunak yang digunakan, terutama di dalam perusahaan maupun sekolah. Pihak yang bersangkutan dalam hal ini harus meminta nasihat dari lembaga hukum mengenai batasan-batasan dari apa yang boleh dan tidak boleh dilakukan.
+
+== Kekurangan dari No-CD crack ==
+Kekurangan dari No-CD crack ini adalah kesulitan dalam hal meng-update perangkat lunak yang bersangkutan. Sebuah patch membutuhkan file .exe yang asli agar bisa menjalankan proses patching dimana No-CD crack tidak bisa digunakan lagi akibat berubahnya file .exe setelah patch. Dalam hal ini, pengguna harus mengunduh No-CD crack yang sesuai dengan patch tersebut.
+Cara untuk meng-update ketika sudah menggunakan No-CD crack adalah dengan mengkopi .exe maupun file lain dari versi perangkat lunak yang asli dengan jenis sama yang terdapat dalam No-CD crack kedalam folder aplikasi perangkat lunak tersebut. 
+Tujuan dari hal ini adalah untuk mengembalikan kondisi dari perangkat lunak tersebut ke dalam kondisi awal yang membutuhkan CD atau DVD agar bisa dijalankan dimana versi ini bisa dikenali dan diupdate secara online, maupun dengan patch file yang telah diunduh.
+Selain masalah patch, No-CD crack akan menghilangkan fitur online karena file ini merupakan file yang telah dimodifikasi oleh pihak ketiga sehingga dianggap tidak valid oleh situs perangkat lunak yang bersangkutan. Solusi untuk hal tersebut adalah dengan cara menggunakan file .exe yang asli untuk dapat mengakses fitur online. Aplikasi perangkat lunak sensitif seperti Daemon Tool juga dapat membuat suatu program tidak berjalan. Sebaiknya aplikasi tersebut ditutup terlebih dahulu sebelum menjalankan program tersebut.
+
+
+== Referensi ==
+Michael M.A. Marabito & Barbara L. Moergenstern. 2004. The New Communications Technologies, applications, policy, impact Fifth Edition.
+
+== Pranala luar ==
+
+[http://m0001.gamecopyworld.com/games/gcw_cd-backup.shtml Cara membackup aplikasi game yang memiliki jenis pengaman tertentu]
+
+[[kategori: Third-party software ]]
+[[kategori: Warez ]]

@@ -1,0 +1,114 @@
+Bandar Udara Internasional Duluth
+{{Orphan|date=Maret 2016}}
+
+{{Infobox Airport
+| name         = Duluth International Airport
+| image        = Duluth-apt-17may1991.jpg
+| image-width  = 200
+| caption      = [[USGS]] aerial image - 17 May 1991
+| IATA         = DLH
+| ICAO         = KDLH
+| FAA          = DLH
+<center>{{Location map|Minnesota|width=200|float=center
+|caption=|mark=Airplane_silhouette.svg|marksize=10
+|label=DLH|position=left
+|lat_deg=46|lat_min=50|lat_sec=32|lat_dir=N
+|lon_deg=92|lon_min=11|lon_sec=37|lon_dir=W
+}}<small>Location of the Airport in Minnesota</small></center>
+| type         = Public
+| owner        = City of Duluth, Minn
+| operator     = 
+| city-served  = [[Duluth, Minnesota]]
+| location     = 
+| elevation-f  = 1,428
+| elevation-m  = 435
+| coordinates  = {{coord|46|50|32|N|092|11|37|W|region:US-MN_type:airport_scale:40000}}
+| website      = [http://www.duluthairport.com/ www.DuluthAirport.com]
+| r1-number    = 9/27
+| r1-length-f  = 10,162
+| r1-length-m  = 3,097
+| r1-surface   = Beton
+| r2-number    = 3/21
+| r2-length-f  = 5,718
+| r2-length-m  = 1,743
+| r2-surface   = Aspal
+| stat-year    = 2007
+| stat1-header = Aircraft operations
+| stat1-data   = 67,752
+| stat2-header = Based aircraft
+| stat2-data   = 86
+| footnotes    = Sources: airport web site,<ref name="Airport">[http://www.duluthairport.com/ Duluth International Airport], official web site</ref> [[Federal Aviation Administration|FAA]]<ref name="FAA">{{FAA-airport|ID=DLH|use=PU|own=PU|site=10653.*A}}. Federal Aviation Administration. Effective 8 April 2010.</ref>
+}}
+
+'''Bandara Internasional Duluth''' {{airport codes|DLH|KDLH|DLH}} merupakan sebuah [[bandara]] yang terletak di [[Duluth, Minnesota]], [[Amerika Serikat]]. Bandara ini letaknya 8&nbsp;km dari pusat kota.
+
+== Maskapai ==
+{{Airport-dest-list
+| [[Allegiant Air]] | [[McCarran International Airport|Las Vegas]], [[Orlando-Sanford]], [[Phoenix-Mesa Gateway Airport|Phoenix/Mesa]] 
+| Delta Connection operated by [[Pinnacle Airlines]] | [[Detroit Metropolitan Wayne County Airport|Detroit]], [[MinneapolisSaint Paul International Airport|Minneapolis/St. Paul]] 
+| Delta Connection operated by [[SkyWest Airlines]] | [[MinneapolisSaint Paul International Airport|Minneapolis/St. Paul]]
+| [[United Express]] operated by SkyWest Airlines | [[Chicago-O'Hare]]
+}}
+
+== Top Destinations==
+{| class="wikitable" style="font-size: 90%" width= align=
+|+'''Top ten busiest domestic routes out of DLH''' <br /> (May 2011 - April 2012)<ref>http://www.transtats.bts.gov/airports.asp?pn=1&Airport=DLH&Airport_Name=Duluth,%20MN:%20Duluth%20International&carrier=FACTS</ref>
+
+! Rank
+! City
+! Passengers
+! Carriers
+|-
+| 1
+| {{flagicon|Minnesota}} [[Minneapolis/St. Paul International Airport|Minneapolis/St. Paul, MN]]
+| 68,000
+| Delta
+|-
+| 2
+| {{flagicon|Illinois}} [[O'Hare International Airport|Chicago (O'Hare), IL]]
+| 27,000
+| United
+|-
+| 3
+| {{flagicon|Michigan}} [[Detroit Metropolitan Wayne County Airport|Detroit, MI]]
+| 24,000
+| Delta
+|-
+| 4
+| {{flagicon|Nevada}} [[McCarran International Airport|Las Vegas, NV]]
+| 15,000
+| Allegiant
+|-
+| 5
+| {{flagicon|Arizona}} [[Phoenix-Mesa Gateway Airport|Mesa, AZ]]
+| 8,000
+| Allegiant
+|-
+|6
+| {{flagicon|Florida}} [[Orlando-Sanford International Airport|Orlando (Sanford), FL]]
+| 4,000
+| Allegiant
+|}
+
+==Kargo==
+{{airport-dest-list
+|[[Bemidji Airlines]] | [[MinneapolisSaint Paul International Airport|Minneapolis/St. Paul]]
+|[[FedEx Feeder]] operated by [[CSA Air]] | [[Rochester International Airport|Rochester (MN)]]
+|FedEx Feeder operated by [[Mountain Air Cargo]] | [[MinneapolisSaint Paul International Airport|Minneapolis/St. Paul]]
+}}
+
+==Referensi==
+<references />
+
+== Pranala luar ==
+* [http://www.duluthairport.com Situs resmi]
+* [http://msrmaps.com/map.aspx?t=1&s=12&lat=46.8405&lon=-92.1965&w=1000&h=600&lp=---+None+--- Aerial image as of 10 May 1991] from [[USGS]] ''[[The National Map]]''
+* {{PDF|[http://www.dot.state.mn.us/aero/avoffice/ops/airdir/pdf/duluthinl.pdf Duluth International Airport]|103&nbsp;KB}} at [[Minnesota DOT]] Airport Directory
+* {{FAA-diagram|00125}}
+* {{FAA-procedures|DLH}}
+* {{US-airport|DLH}}
+
+[[Kategori:Bandar udara di Amerika Serikat|Duluth]]
+
+
+{{bandara-stub}}

@@ -1,0 +1,14 @@
+Berkas:Syahnaz Sadiqah.png
+== {{int:filedesc}} ==
+{{Information
+| description    =
+[[Syahnaz Sadiqah]]
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Fairuse}}

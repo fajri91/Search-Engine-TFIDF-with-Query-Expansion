@@ -1,0 +1,13 @@
+Templat:Miley Cyrus sidebar
+{| class="infobox vcard hlist" style="width: 22.0em; padding:0.3em; padding-bottom:0em;" cellspacing=0
+| style="background:#E6E6FA; vertical-align:middle; padding:0.4em;" width=40px | [[File:MileyCyrusApr09.jpg|60px|border|alt=]]
+! style="text-align:center; background:#E6E6FA; width:100%; vertical-align:middle;" | Artikel ini adalah bagian dari seri tentang</span><br><span class="vcard"><span class="fn"> [[Miley Cyrus]]</span>
+|-
+| colspan=2 style="text-align: center; background:white; padding:0.5em 0em;"|
+* [[Diskografi Miley Cyrus|Diskografi]]
+* [[Videografi Miley Cyrus|Videografi]]
+* [[Daftar singel Miley Cyrus|Lagu]]
+* [[Daftar penghargaan dan nominasi yang diterima oleh Miley Cyrus|Penghargaan]]
+|}<noinclude>
+[[Kategori:Templat navigasi musik]]
+</noinclude>

@@ -1,0 +1,23 @@
+Plasmodium fairchildi
+{{Taxobox
+| color = khaki
+| name = ''Plasmodium fairchildi''
+| image_caption = 
+| image = 
+| image_width = 
+| regnum = [[Protista]]
+| phylum = [[Apicomplexa]]
+| classis = [[Aconoidasida]]
+| ordo = [[Haemosporida]]
+| familia = [[Plasmodiidae]]
+| genus = ''[[Plasmodium]]''
+| species = '''''P. fairchildi'''''
+| binomial = ''Plasmodium fairchildi''
+}}
+'''''Plasmodium fairchildi''''' adalah parasit dari genus ''[[Plasmodium]]''. Seperti semua spesies ''Plasmodium'', ''P. fairchildi'' menyerang [[vertebrata]] dan [[serangga]]. Vertebrata yang diserang oleh parasit ini belum diketahui.
+
+{{plasmodium-stub}}
+
+[[Kategori:Plasmodium]]
+[[Kategori:Apicomplexa]]
+[[Kategori:Malaria]]

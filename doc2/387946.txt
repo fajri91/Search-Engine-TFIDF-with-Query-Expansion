@@ -1,0 +1,22 @@
+Templat:Kabel telekomunikasi transatlantik
+{{Navbox
+|name  = Kabel telekomunikasi transatlantik
+| listclass = hlist
+| title = [[Kabel telekomunikasi transatlantik]]
+|liststyle = line-height:1.5em;
+
+|group1 = Rangkaian TAT
+|list1  = {{nowrap begin}} [[TAT-1]]{{w}} [[TAT-2|2]]{{w}} [[TAT-3|3]]{{w}} [[TAT-4|4]]{{w}} [[TAT-5|5]]{{w}} [[TAT-6|6]]{{w}} [[TAT-7|7]]{{w}} [[TAT-8|8]]{{w}} [[TAT-9|9]]{{w}} [[TAT-10|10]]{{w}} [[TAT-11|11]]{{w}} [[TAT-12/13|12/13]]{{w}} [[TAT-14|14]]{{w}} <!--
+-->[[CANTAT-1]]{{w}} [[CANTAT-2|2]]{{w}} [[CANTAT-3|3]]{{w}} <!--
+-->[[PTAT-1]] {{nowrap end}}
+
+|group2 = Non-TAT swasta
+|list2  = {{nowrap begin}} [[Gemini (kabel telekomunikasi bawah laut)|Gemini]]{{w}} [[Apollo (kabel telekomunikasi bawah laut)|Apollo]]{{w}} [[AC-1]]{{w}} [[AC-2 (sistem kabel)|Yellow/AC-2]]{{w}} [[Fiber-Optic Link Around the Globe|FLAG Atlantic]]{{w}} [[VSNL Transatlantic]]{{w}} [[Hibernia Atlantic]] {{nowrap end}}
+
+|group3 = Lainnya
+|list3  = {{nowrap begin}} [[SAT-2 (sistem kabel)|SAT-2]]{{w}} [[SAT-3/WASC (sistem kabel)|SAT-3/WASC/SAFE]]{{w}} [[ATLANTIS-2]]{{w}} [[COLUMBUS III]] {{nowrap end}}
+}}<noinclude>
+<br/>{{Notice|Tempalt ini berisi artikel tentang [[kabel telepon transatlantik]].}}
+
+[[Kategori:Templat teknologi dan ilmu terapan|{{PAGENAME}}]]<!--probably needs focusing-->
+</noinclude>

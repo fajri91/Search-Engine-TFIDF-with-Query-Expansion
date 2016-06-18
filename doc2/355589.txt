@@ -1,0 +1,22 @@
+Templat:Padang Selatan, Padang
+{{Navigasi_ID_Desa
+|provinsi=Sumatera Barat
+|dati2=Kota
+|nama dati2=Padang
+|nama kecamatan=Padang Selatan
+|k1=Alang Laweh
+|k2=Air Manis
+|k3=Batang Arau
+|k4=Belakang Pondok
+|k5=Bukik Gado-gado
+|k6=Mato Aie
+|k7=Pasa Gadang
+|k8=Ranah Parak Rumbio
+|k9=Rawang
+|k10=Seberang Padang
+|k11=Seberang Palinggam
+|k12=Teluk Bayur
+}}<noinclude>
+[[Kategori:Templat desa/kelurahan di Sumatera Barat|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di kota Padang|{{PAGENAME}}]]
+</noinclude>

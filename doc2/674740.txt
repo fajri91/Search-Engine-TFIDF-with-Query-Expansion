@@ -1,0 +1,74 @@
+Stasiun San Lzaro
+{{Infobox station 
+| name          = [[Berkas:Mexico City Metro.svg|20px]] Stasiun San Lzaro
+| type          = '''[[Daftar stasiun angkutan cepat di Kota Meksiko|Stasiun]]''' '''[[angkutan cepat di Kota Meksiko]]'''
+| style         = 
+| image         = MetroSanLazaroPlatform.JPG
+| image_size    = 
+| image_caption = Tampilan peron menuju ke timur di stasiun San Lzaro
+| address       = Av. Eduardo Molina<br>Calz. Ignacio Zaragoza<br>Col. 7 de julio<br>Col. 10 de mayo
+| coordinates   = {{coord|19.430213|N|99.114833|W|region:MX_type:railwaystation}}
+| line          = [[Berkas:MetroDF Lnea 1.svg|20px]] [[Jalur 1 (angkutan cepat Kota Meksiko)|Jalur 1]]<br>[[Berkas:MetroDF Lnea B.svg|20px]] [[Jalur B (angkutan cepat Kota Meksiko)|Jalur B]]
+| other         = 
+| structure     = Melayang
+| platform      = Rusuk
+| depth         = 
+| levels        = Bawah tanah (Jalur 1)<br>Tinggi (Jalur B)
+| tracks        = 4
+| parking       = 
+| bicycle       = 
+| baggage_check = 
+| opened        = [[4 September]] [[1969]] (Jalur 1)<br>[[15 Desember]] [[1999]] (Jalur B)
+| closed        = 
+| rebuilt       = 
+| electrified   = 
+| ADA           = 
+| code          = 
+| owned         = [[Sistema de Transporte Colectivo]] di Kota Meksiko
+| zone          = 
+| smartcardname =
+| smartcardstatus =
+| former        = 
+| passengers    = Jalur 1: 8.426.720<br>Jalur B: 4.437.580<br>Jumlah masuknya 2012: 12.864.300<ref>{{cite web |url=http://www.metro.df.gob.mx/operacion/afluencia12.html |title=Datos de operacin |language=Spanyol |accessdate=5 Januari 2014}}</ref>
+| pass_year     = 2012
+| pass_percent  = 
+| pass_system   = 
+| mpassengers   = 
+| services      = 
+| map_locator   = 
+}}
+[[Berkas:San Lazaro 04.jpg|250px|thumb|left|Bangunan stasiun San Lazaro, dirancang oleh [[Flix Candela]].]]
+[[Berkas:San lazaro 2.JPG|250px|thumb|left|Di dalam stasiun San Lazaro di jalur B. Jalan lewat di atas lobi stasiun.]]
+'''Stasiun San Lzaro''' adalah stasiun di [[Jalur 1 (angkutan cepat Kota Meksiko)|jalur 1]] dan [[Jalur B (angkutan cepat Kota Meksiko)|B]] dari [[angkutan cepat di Kota Meksiko|angkutan cepat Kota Meksiko]]. Stasiun ini pertama kali dibuka pada tanggal [[4 September]] [[1969]], dan dioperasikan oleh [[Sistema de Transporte Colectivo]]. Stasiun ini terletak di [[Venustiano Carranza (Distrik Federal)|Venustiano Carranza]] pada [[Ciudad de Mxico|Distrik Federal]] [[Meksiko]]. Stasiun ini dirancang oleh [[Flix Candela]]<ref name="structurae">{{Cite web|url=http://en.structurae.de/persons/data/index.cfm?ID=d000004|title=Felix Candela (1910-1997)
+|publisher=Structurae|accessdate=5 Januari 2014}}</ref> dan terdiri dari bagian paraboloid hiperbolik bertautan atau [[atap pelana]].
+
+Stasiun metro San Lzaro terhubung dengan [[Terminal de Autobuses de Pasajeros de Oriente|TAPO]], stasiun bus antarkota Timur di Kota Meksiko.<ref name="central_3">{{Cite web|url=http://www.metro.df.gob.mx/servicios/camioneras.html?central=3|title=Stasiun bus antarkota Timur|accessdate=5 Januari 2014}}</ref> Stasiun bus ini melayani negara bagian termasuk [[Puebla]], [[Veracruz]], [[Oaxaca]], dan [[Yucatn]]. Hal ini digunakan oleh beberapa jalur bus yang paling bergengsi dan paling aman di Meksiko, seperti ADO, UNO, dan Maya de Oro.
+
+==Referensi==
+{{reflist}}
+
+==Pranala luar==
+{{Commonscat|San Lzaro (station)}}
+* [http://www.metro.df.gob.mx/red/estacion.html?id=7 Situs web untuk stasiun San Lzaro pada Sistema de Transporte Colectivo] {{es icon}}
+
+{{start box}}
+{{succession box
+|title=[[Berkas:MetroDF Lnea 1.svg|15px]] [[Jalur 1 (angkutan cepat Kota Meksiko)]]
+|years='''San Lzaro'''
+|before=[[Stasiun Candelaria|Candelaria]]
+|after=[[Stasiun Moctezuma|Moctezuma]]
+}}
+{{succession box
+|title=[[Berkas:MetroDF Lnea B.svg|15px]] [[Jalur B (angkutan cepat Kota Meksiko)]]
+|years='''San Lzaro'''
+|before=[[Stasiun Ricardo Flores Magn|Ricardo Flores Magn]]
+|after=[[Stasiun Morelos|Morelos]]
+}}
+{{end box}}
+
+{{MxMetro1}}
+{{MxMetroB}}
+{{metro-stub}}
+{{Coord|19.430213|N|99.114833|W|region:MX_type:railwaystation|display=title}}
+
+[[Kategori:Stasiun angkutan cepat di Kota Meksiko|San Lazaro]]

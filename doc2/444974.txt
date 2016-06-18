@@ -1,0 +1,91 @@
+Liga Nasional Myanmar 2011
+{{Infobox football league season
+| competition                = [[Liga Nasional Myanmar]]
+| season                     = 2011
+| winners                    = [[Yangon United F.C.|Yangon United]]
+| promoted                   = 
+| relegated                  = 
+| continentalcup1            = [[Piala AFC 2012]]
+| continentalcup1 qualifiers = [[Yangon United F.C.|Yangon United]]<br>[[Ayeyawady United F.C.|Ayeyawady United]]
+| continentalcup2            = 
+| continentalcup2 qualifiers = 
+| matches                    = 132 
+| total goals                = 360
+| average goals              = 
+| league topscorer           = 
+| biggest home win           = 
+| biggest away win           = 
+| highest scoring            = 
+| longest wins               = 
+| longest unbeaten           = 
+| longest winless            = 
+| longest losses             = 
+| highest attendance         = 
+| lowest attendance          = 
+| average attendance         = 
+| prevseason                 = [[Liga Nasional Myanmar 2010|2010]]
+| nextseason                 = [[Liga Nasional Myanmar 2012|2012]]
+}}
+
+'''Grand Royal MNL 2011''' adalah musim ke-2 dari [[Liga Nasional Myanmar]], liga [[sepak bola]] tertinggi di [[Myanmar]].
+
+==Klasemen==
+Berikut adalah klasemen untuk musim 2011.<ref name=mnl-lt>{{cite web | title=MNL League Table | url=http://www.myanmarnationalleague.com/league-table.php | publisher=MNL}}</ref> [[Yangon United F.C.]] memenangkan kompetisi ini untuk pertama kalinya, dan juga memenangkan Piala Max Cement MFF 2011. Ini adalah kali pertama sebuah tim memenangkan Piala MFF dan juara MNL dalam sejarah pendek MNL.
+
+{| class="wikitable"
+|-style="background:#90EE90"
+|Pemenang; Lolos ke [[Piala AFC 2012#Babak grup|Babak Grup Piala AFC 2012]]
+|-style="background:#CCFFCC"
+|Runner-up; Lolos ke [[Piala AFC 2012#Babak kualifikasi|Babak kualifikasi Piala AFC 2012]]<br>(secara otomatis lolos ke [[Piala AFC 2012#Babak grup|babak grup]] karena pengaturan ulang pertandingan Zona Asia Timur
+|}
+
+{| class="wikitable" style="text-align: center;"
+|-
+!width="20"|Pos
+!width="175"|Tim
+!width="20"|Main
+!width="20"|{{Tooltip|M|Menang}}
+!width="20"|{{Tooltip|S|Seri}}
+!width="20"|{{Tooltip|K|Kalah}}
+!width="20"|{{Tooltip|GM|Gol Memasukkan}}
+!width="20"|{{Tooltip|GK|Gol Kemasukkan}}
+!width="20"|{{Tooltip|SG|Selisih Gol}}
+!width="20"|{{Tooltip|Poin}}
+|-style="background:#90EE90"
+|1||align=left|[[Yangon United F.C.|Yangon United]]||22||17||3||2||50||15||+35||'''54'''
+|-style="background:#CCFFCC"
+|2||align=left|[[Ayeyawady United F.C.|Ayeyawady United]]||22||15||7||0||41||11||+30||'''52'''
+|-
+|3||align=left|[[Zeyashwemye F.C.|Zeya Shwe Myay]]||22||14||3||5||46||25||+21||'''45'''
+|-
+|4||align=left|[[Kanbawza F.C.|Kanbawza]]||22||9||6||7||27||21||+6||'''33'''
+|-
+|5||align=left|[[Okktha United F.C.|Okktha United]]||22||9||6||7||27||26||+1||'''33'''
+|-
+|6||align=left|[[Naypyidaw FC|Naypyidaw]]||22||8||6||8||33||28||+5||'''30'''
+|-
+|7||align=left|[[Magway FC|Magway]]||22||8||6||8||32||32||0||'''30'''
+|-
+|8||align=left|[[Southern Myanmar United FC|Southern Myanmar United]]||22||5||10||7||23||25||&minus;2||'''25'''
+|-
+|9||align=left|[[Yadanabon F.C.|Yadanabon]]||22||6||5||11||28||31||&minus;3||'''23'''
+|-
+|10||align=left|[[Manawmye FC|Manaw Myay]]||22||4||6||12||18||33||&minus;15||'''18'''
+|-
+|11||align=left|[[Rakhapura United]]||22||4||6||12||24||42||&minus;18||'''18'''
+|-
+|12||align=left|[[Zwegabin United FC|Zwegabin United]]||22||1||0||21||11||71||&minus;60||'''3'''
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.fifa.com/associations/association=mya/nationalleague/standings.html Standings] on FIFA.com
+
+{{Myanmar National League Seasons}}
+{{2011 in Asian Football (AFC)}}
+
+[[Kategori:Football competitions in Burma]]
+[[Kategori:Myanmar dalam tahun 2011|National League]]
+[[Kategori:2011 domestic association football leagues|Myanmar National League]]

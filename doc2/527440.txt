@@ -1,0 +1,44 @@
+Gadung cina
+{{taxobox
+| name = Gadung cina
+| image = Smilax china 071117.JPG
+| image_caption = Buah
+| regnum = [[Plantae]]
+| unranked_divisio = [[Angiosperm]]
+| unranked_classis = [[Monokotil]]
+| ordo = [[Liliales]]
+| familia = [[Smilacaceae]]
+| genus = ''[[Smilax]]''
+| species = '''''S.china'''''
+| binomial = '''''Smilax china'''''
+| binomial_authority = 
+| subdivision_ranks = Subspecies
+| subdivision = 
+| synonyms = 
+|}}
+'''Gadung cina''' (''Smilax china'') adalah spesies tumbuhan yang berasal dari [[genus]] ''[[Smilax]]''.
+
+== Deskripsi ==
+Gadung cina adalah [[tumbuhan tahunan]] yang bertumbuh merambat dan ber[[batang]] bulat, juga keras dikarenakan durinya yang tajam.{{sfn|Dalimartha|2009|p=26}}
+
+== Referensi ==
+{{reflist|30em}}
+
+'''Bibliografi'''
+{{refbegin}}
+* {{cite book 
+|first=Setiawan
+|last=Dalimartha
+|year=2009
+|title=Atlas Tumbuhan Obat Indonesia
+|volume=6
+|pages=25-28
+|publisher=Puspa Swara
+|location=[[Depok]]
+|ref=harv 
+|isbn=978-979-1480-19-2
+  }}
+{{refend}}
+{{tumbuhan-stub}}
+
+[[Kategori:Smilax|china]]

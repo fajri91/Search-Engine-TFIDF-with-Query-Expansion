@@ -1,0 +1,17 @@
+Templat:UNS
+{{Navbox
+|name=UNS
+| listclass = hlist
+| title =Daftar fakultas di [[Universitas Sebelas Maret]] Surakarta (UNS)
+|list1=
+*[[Fakultas Teknik Universitas Sebelas Maret|Fakultas Teknik]] (FT)
+*[[Fakultas Pertanian Universitas Sebelas Maret|Fakultas Pertanian]] (FP)
+*[[Fakultas Kedokteran Universitas Sebelas Maret|Fakultas Kedokteran]] (FK)
+*[[Fakultas Hukum Universitas Sebelas Maret|Fakultas Hukum]] (FH)
+*[[Fakultas Ekonomi Universitas Sebelas Maret|Fakultas Ekonomi]] (FE)
+*[[Fakultas Matematika dan Pengetahuan Alam Universitas Sebelas Maret|Fakultas Matematika dan Pengetahuan Alam]] (MIPA)
+*[[Fakultas Keguruan dan Ilmu Pendidikan Universitas Sebelas Maret|Fakultas Keguruan dan Ilmu Pendidikan]] (FKIP)
+*[[Fakultas Ilmu Sosial dan Ilmu Politik Universitas Sebelas Maret|Fakultas Ilmu Sosial dan Ilmu Politik]] (FISIP)
+*[[Fakultas Seni Rupa dan Desain Universitas Sebelas Maret|Fakultas Seni Rupa dan Desain]] (FSRD)
+*[[Fakultas Ilmu Budaya Universitas Sebelas Maret|Fakultas Ilmu Budaya]] (FIB)
+}}

@@ -1,0 +1,64 @@
+Pertempuran Hulluch
+{| style="float: right; clear: right; background-color: transparent"
+|{{Infobox Military Conflict
+|conflict=Pertempuran Hulluch
+|image=
+|caption=
+|partof=Pertempuran blok Barat [[Perang Dunia I]]
+|date=[[27 April|27]] - [[29 April]] [[1916]]
+|place=Hulluch, [[Perancis]]
+|result=Kemenangan Inggris Raya
+|combatant1={{flagicon|UK}} [[Inggris Raya]]
+|combatant2={{flagicon|German Empire}} [[Jerman]]
+|commander1= Major General John Hickie
+|commander2= Tak dikenal
+|strength1=1 Divisi (diperkiraan 8000 orang)
+|strength2= Tak diketahui
+|casualties1=538 meninggal, 1590 terluka
+|casualties2=kurang dari 500
+|}}
+|-
+|{{Campaignbox blok barat (Perang Dunia I)}}
+|}
+'''Pertempuran Hulluch''', terjadi pada [[27 April|27]] sampai [[29 April]] [[1916]], merupakan pertempuran antara Divisi 19 Irlandia dari Korps-16 Inggris dan pasukan Jerman pada [[Perang Dunia I]].
+
+== Pertempuran ==
+Pada tanggal 27 April, pasukan Jerman menyerang pasukan Royal Inniskilling Fusiliers dengan gas mustard di Hulluch, 2 mil sebelah utara Loos. Serangan ini mengakibatkan 486 korban termasuk 135 meninggal. <ref name="haber">{{cite book|first=Ludwig Fritz|last=Haber|title=The Poisonous Cloud|isbn=0198581424|publisher=Oxford University Press|pages=88 - 89}}</ref> 
+
+Unit lain dari Divisi 16, termasuk Kerajaan [[Irlandia]] Rifles, Royal Munster Fusiliers dan The Royal Dublin Fusiliers dipanggil untuk melawan serangan Jerman.
+
+Pada tanggal 29, Jerman menyerang kembali dengan gas, tapi kali ini angin bertiup dan gas mengarah kembali kepada pasukan Jerman, menimbulkan korban 1.500 Jerman. <ref name="haber" />
+
+[[Pertempuran Hulluch]] adalah salah satu pertempuran [[Perang Dunia I]] yang menggunakan gas.
+
+== Referensi ==
+{{reflist}}
+
+== Pustaka ==
+* {{cite web
+ | last=Punch | first=Kieron
+ | url=http://www.thewildgeese.com/pages/16thdiv.html
+ | title=A Brief History of the 16th "Irish" Division
+ | publisher=The Wild Geese Today
+ | accessdate=2007-11-09 }}
+* {{cite web
+ | url=http://www.greatwar.ie/ire_batmb.html
+ | title=Irish Battalions
+ | publisher=Royal Dublin Fusiliers Association
+ | accessdate=2007-11-09 }}
+* {{cite book 
+|first=Simon|last=Jones|year=2002
+|title=World War I Gas Warfare Tactics and Equipment 
+|publisher=Osprey Publishing
+|isbn=1846031516 }}
+
+{{DEFAULTSORT:Hulluch}}
+{{Perang Dunia I}}
+{{PDI-stub}}
+
+[[Kategori:Konflik tahun 1916]]
+[[Kategori:Pertempuran Perang Dunia I melibatkan Jerman]]
+[[Kategori:Pertempuran Perang Dunia I melibatkan Britania Raya]]
+[[Kategori:Operasi militer dan pertempuran Perang Dunia I]]
+[[Kategori:Jerman dalam tahun 1916]]
+[[Kategori:Britania Raya dalam tahun 1916]]

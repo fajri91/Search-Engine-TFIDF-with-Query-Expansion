@@ -1,0 +1,63 @@
+Senecio transmarinus
+{{italic title}}
+{{taxobox
+|regnum = [[Plantae]]
+|unranked_divisio = [[Angiosperms]]
+|unranked_classis = [[Eudicots]]
+|unranked_ordo = [[Asterids]]
+|ordo = [[Asterales]]
+|familia = [[Asteraceae]]
+|subfamilia = [[Asteroideae]]
+|tribus = [[Senecioneae]]
+|genus = ''[[Senecio]]''
+|species = '''''S. transmarinus'''''
+|binomial = ''Senecio transmarinus''
+|binomial_authority = [[Spencer Le Marchant Moore|S.Moore]]
+|synonyms = ''Senecio confertoides'' <small>De Wild</small><br/>
+''Senecio lanuriensis'' <small>De Wild.</small><ref name="apd">{{cite web
+ | url = http://www.ville-ge.ch/cjb/bd/africa/details.php?langue=an&id=176139
+ | title = ''Senecio transmarinus'' S.Moore record n 176139
+ | accessdate = 2008-05-08
+ | work = African Plants Database
+ | publisher = [[Natural History Museum of Geneva|South African National Biodiversity Institute, the Conservatoire et Jardin botaniques de la Ville de Genve]] and Tela Botanica
+ }}</ref>
+|}}
+'''''Senecio transmarinus''''' adalah [[tumbuhan berbunga]] dari familia [[Asteraceae]] dan spesies dari genus ''[[Senecio]]'' sebuah tanaman [[perennial]]<ref name="aluka">{{cite web
+ | url = http://www.aluka.org/action/showMetadata?doi=10.5555/AL.AP.FLORA.FTEA006455
+ | title = Entry for ''Senecio transmarinus'' S.Moore [family COMPOSITAE]
+ | accessdate = 2008-05-07
+ | author = Aluka
+ | authorlink = Aluka
+ | work = African Plants
+ | doi = 10.5555/AL.AP.FLORA.FTEA006455
+ | publisher = Ithaka Harbors, Inc
+}}</ref>
+yang tumbuh di dataran tinggi [[Pegunungan Rwenzori]] di [[Uganda]].<ref name="systbot">{{cite web
+ | url = http://www.systbot.unizh.ch/datenbanken/rwenzori/Rwenzori_desktop.pdf
+ | title = Common plants of the Rwenzori, particularly the upper zones
+ | accessdate = 2008-05-06
+ | author = H. Peter Linder and Berit Gehrke
+ | authorlink = University of Zurich
+ | date = 2 March 2006
+ | format = PDF
+ | publisher = Institute for Systematic Botany, [[University of Zurich]]
+|archiveurl = http://web.archive.org/web/20080530005602/http://www.systbot.unizh.ch/datenbanken/rwenzori/Rwenzori_desktop.pdf <!-- Bot retrieved archive --> |archivedate = 2008-05-30}}</ref> Tanaman ini memiliki bunga dengan mahkota berwarna kuninh.<ref name="systbot"/>
+
+== Ciri-ciri ==
+Dapat tumbuh lurus ataupun menjuntai<ref name="aluka"/> dan ditemukan di daerah padang rumput "zona alpen ("alpine zone") antara 3.000 dan 4.200 meter (9.800 sampai 14.000 kaki), tumbuhan ''Senecio transmarinus'' akan tumbuh lebih besar di tempat rendah daripada di daerah yang lebih tinggi.<ref name="systbot"/>
+
+;[[Batang]] dan [[daun]]: Batangnya setinggi 30 hingga 240 cm (12 - 94&nbsp;inci) kebanyakan tanpa rambut. Daun di bagian bawah sepanjang 3 sampai 8 cm (1 - 3&nbsp;inci), jika diikur dengan tangkainya, dan lebarnya 1 - 2 cm.<ref name="aluka"/> Leaves halus, tanpa bulu, atau berbulu sebagian<ref name="systbot"/> biasanya bagian bawah daun berwarna [[ungu]].<ref name="aluka"/>
+
+;[[Bunga]]: ''Bunganya terdiri dari beberapa tangkai dengan mahkota kuning''<ref name="systbot"/> bergerombol satu-satu atau beberapa bunga sekaligus, yang terdiri dari 6 - 12 bunga.<!-- ray florets and 5-veined disc kuning disc florets.<ref name="aluka"/>
+
+;[[Buah]]: [[Achene]]s 4 to 5 millimeters long and hairless; [[Pappus (flower structure)|pappus]] 5 to 8 millimeters long.<ref name="aluka"/>-->
+
+== Referensi ==
+{{reflist}}
+
+== Pranala luar ==
+* {{1913}}
+{{Tumbuhan-stub}}
+
+[[Kategori:Flora Afrika Timur]]
+[[Kategori:Senecio|transmarinus]]

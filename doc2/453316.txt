@@ -1,0 +1,189 @@
+Piala Super UEFA 2002
+{{Infobox football match
+| title                   = Piala Super UEFA 2002
+| image                   = 
+| event                   =
+| team1                   = [[Real Madrid]]
+| team1association        = {{flagicon|Spanyol|size=30px}}
+| team1score              = 1
+| team2                   = [[Feyenoord]]
+| team2association        = {{flagicon|Belanda|size=30px}}
+| team2score              = 0
+| details                 =
+| date                    = 30 Agustus 2002
+| stadium                 = [[Stade Louis II]]
+| city                    = [[Monako]]
+| man_of_the_match1a      = [[Roberto Carlos (footballer)|Roberto Carlos]] (Real Madrid)
+| referee                 = [[Hugh Dallas]] {{asb|Skotlandia}} 
+| attendance              = 18.284 orang
+| weather                 =  
+| previous                = [[Piala Super UEFA 2001|2001]]
+| next                    = [[Piala Super UEFA 2003|2003]]
+}}
+'''Piala Super UEFA 2002''' menjadi pertandingan [[Piala Super UEFA]] yang ke27, antara dua juara bertahan dari kompetisi yang diselenggarakan oleh [[UEFA]] yaitu [[Liga Champions UEFA]] dan [[Piala UEFA]]. Pertandingan akan mempertemukan antara juara [[Liga Champions UEFA 200102]], [[Real Madrid]] dari [[Spanyol]] dengan juara [[Piala UEFA 200102]], [[Feyenoord]] dari [[Belanda]], yang bertempat di [[Stade Louis II]], [[Monako]], pada 30 Agustus 2002. <ref>[http://www.uefa.com/uefasupercup/season=2002/matches/round=1622/match=69590/postmatch/quotes/index.html Cambiasso shines on night of firsts] UEFA.com</ref>
+
+Madrid lolos setelah mengalahkan [[Bayer 04 Leverkusen|Bayer Leverkusen]] pada [[Final Liga Champions UEFA 2002]], sedangkan Feyenoord lolos mengalahkan [[Borussia Dortmund]] pada [[Final Piala UEFA 2002]]. Madrid memenangkan pertandingan dengan skor 31, dan meraih Piala Super UEFA pertama mereka.
+
+== Stadion ==
+[[Stade Louis II]], [[Monako]] telah menjadi lokasi pertandingan Piala Super UEFA setiap tahun sejak 1998. Dibangun pada tahun 1985, stadion ini juga menjadi stadion kandang bagi [[AS Monaco FC|AS Monaco]], yang bermain di Liga Perancis.
+
+== Detail pertandingan ==
+{{footballbox
+|date = 30 Agustus 2002
+|time = 20.45 [[Central European Time|CET]]
+|team1 = [[Real Madrid C.F.|Real Madrid]] {{flagicon|ESP}}
+|score = 31
+|report=[http://www.uefa.com/competitions/supercup/history/season=2002/round=1622/match=69590/index.html (Laporan)]
+|team2 = {{flagicon|NED}} [[Feyenoord]]
+|goals1 = [[Patrick Paauwe|Paauwe]] {{goal|15|o.g.}}<br}/>[[Roberto Carlos (footballer)|Roberto Carlos]] {{goal|21}}<br}/>[[Guti (footballer)|Guti]] {{goal|60}}
+|goals2 = [[Pierre van Hooijdonk|van Hooijdonk]] {{goal|56}}
+|stadium = [[Stade Louis II]], [[Monako]]
+|attendance = 18.284 orang
+|referee = [[Hugh Dallas]] ({{asb|Skotlandia}})
+|aw1 = Wilson Irvine (Skotlandia)
+|aw2 = David Doig (Skotlandia)
+|w4 = [[Stuart Dougal]] (Skotlandia)
+}}
+
+{| width=92% |
+|-
+|{{Football kit
+ | pattern_la =_blackshoulders 
+ | pattern_b  =_thinsidesonwhite 
+ | pattern_ra =_blackshoulders 
+ | leftarm    = FFFFFF
+ | body       = C0C0C0
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Real Madrid
+}}
+|{{Football kit
+ | pattern_la =
+ | pattern_b  =_redhalf
+ | pattern_ra =
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FF0000
+ | shorts     = 000000
+ | socks      = 000000
+ | title      = Feyenoord
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ESP}} [[Iker Casillas]] {{kiper}}
+|-
+|RB ||'''2''' ||{{flagicon|ESP}} [[Michel Salgado]]
+|-
+|CB ||'''4''' ||{{flagicon|ESP}} [[Fernando Hierro]] {{kapten}}
+|-
+|CB ||'''6''' ||{{flagicon|ESP}} [[Ivn Helguera]]
+|-
+|LB ||'''3''' ||{{flagicon|BRA}} [[Roberto Carlos (footballer)|Roberto Carlos]]
+|-
+|DM ||'''19'''||{{flagicon|ARG}} [[Esteban Cambiasso]] || {{suboff|88}}
+|-
+|DM ||'''24'''||{{flagicon|FRA}} [[Claude Makll]] 
+|-
+|RM ||'''10'''||{{flagicon|POR}} [[Lus Figo]]
+|-
+|LM ||'''14'''||{{flagicon|ESP}} [[Jos Mara Gutirrez|Guti]] || {{suboff|71}}
+|-
+|AM ||'''5''' ||{{flagicon|FRA}} [[Zindine Zidane]] || {{suboff|86}}
+|-
+|CF ||'''7''' ||{{flagicon|ESP}} [[Ral Gonzlez|Ral]]
+|-
+|colspan=3|'''Pemain pengganti:'''
+|-
+|GK ||'''13'''||{{flagicon|ESP}} [[Csar Snchez]] {{kiper}}
+|-
+|CM ||'''8''' ||{{flagicon|ENG}} [[Steve McManaman]]
+|-
+|CB ||'''15'''||{{flagicon|ESP}} [[Ral Bravo]]
+|-
+|DM ||'''16'''||{{flagicon|BRA}} [[Flavio Conceio]]
+|-
+|CF ||'''18'''||{{flagicon|ESP}} [[Javier Portillo]] || {{subon|71}}
+|-
+|LB ||'''21'''||{{flagicon|ARG}} [[Santiago Solari]] || {{subon|86}}
+|-
+|CB ||'''22'''||{{flagicon|ESP}} [[Francisco Pavn|Paco Pavn]] || {{subon|88}}
+|-
+|colspan=3|'''Manajer:'''
+|-
+|colspan=4|{{flagicon|ESP}} [[Vicente del Bosque]]
+<br />'''Pemain terbaik:'''<br> {{flagicon|BRA}} [[Roberto Carlos (footballer)|Roberto Carlos]] (Real Madrid)
+
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|NED}} [[Edwin Zoetebier]] {{kiper}}
+|-
+|RB ||'''23'''||{{flagicon|AUS}} [[Brett Emerton]]
+|-
+|CB ||'''2''' ||{{flagicon|GHA}} [[Christian Gyan]] || {{suboff|72}}
+|-
+|CB ||'''17'''||{{flagicon|NED}} [[Patrick Paauwe]]
+|-
+|LB ||'''3''' ||{{flagicon|POL}} [[Tomasz Rzsa]]
+|-
+|DM ||'''8''' ||{{flagicon|NED}} [[Kees van Wonderen]]
+|-
+|CM ||'''6''' ||{{flagicon|NED}} [[Paul Bosvelt]] {{kapten}}
+|-
+|MF ||'''7''' ||{{flagicon|CIV}} [[Bonaventure Kalou]]
+|-
+|MF ||'''14'''||{{flagicon|JPN}} [[Shinji Ono]]
+|-
+|CF ||'''9''' ||{{flagicon|NED}} [[Pierre van Hooijdonk]]
+|-
+|CF ||'''10'''||{{flagicon|NED}} [[Anthony Lurling]]
+|-
+|colspan=3|'''Pemain pengganti:'''
+|-
+|GK ||'''31'''||{{flagicon|NED}} [[Carlo l'Ami]] {{kiper}}
+|-
+|DF ||'''5''' ||{{flagicon|NED}} [[Ramon van Haaren]]
+|-
+|CM ||'''18'''||{{flagicon|BRA}} [[Leonardo dos Santos Silva|Leonardo dos Santos]]
+|-
+|AM ||'''19'''||{{flagicon|BEL}} [[Thomas Buffel]] || {{subon|72}}
+|-
+|DF ||'''20'''||{{flagicon|NED}} [[Ferry de Haan]]
+|-
+|DF ||'''27'''||{{flagicon|NED}} [[Civard Sprockel]]
+|-
+<br />
+|-
+|colspan=3|'''Manajer:'''
+|-
+|colspan=4|{{flagicon|NED}} [[Bert van Marwijk]]
+|}
+|}
+
+==Lihat juga==
+*[[Liga Champions UEFA 200102]]
+*[[Piala UEFA 200102]]
+
+==Referensi==
+{{reflist}}
+
+{{Piala Super UEFA}}
+
+[[Kategori:Piala Super UEFA|2002]]
+[[Kategori:Sepak bola dalam tahun 2002]]
+[[Kategori:Real Madrid]]
+[[Kategori:Feyenoord Rotterdam]]
+[[Kategori:Monako dalam tahun 2002]]
+[[Kategori:Sepak bola di Monako]]

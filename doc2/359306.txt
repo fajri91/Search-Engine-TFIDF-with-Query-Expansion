@@ -1,0 +1,21 @@
+Templat:Tellu Limpoe, Sinjai
+{{Navigasi ID Desa
+| nama kecamatan=Tellu Limpoe
+| dati2=Kabupaten
+| nama dati2=Sinjai
+| provinsi=Sulawesi Selatan
+| d1=Bua
+| d2=Era Baru
+| d3=Kalobba
+| d4=Lembang Lohe
+| k1=Mannanti
+| d5=Massaile
+| d6=Pattongko
+| d7=Samaturue
+| d8=Saotengah
+| d9=Suka Maju
+| d10=Tellu Limpoe
+}}<noinclude>
+[[Kategori:Templat desa/kelurahan di Sulawesi Selatan|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Sinjai|{{PAGENAME}}]]
+</noinclude>

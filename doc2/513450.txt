@@ -1,0 +1,41 @@
+Templat:Menteri Keuangan Israel
+{{Navbox
+|name    = Menteri Keuangan Israel
+|state   = autocollapse
+|title   = [[Menteri Keuangan Israel]] {{flagicon|Israel}}
+|listclass = hlist
+|image = [[Image:Coat of arms of Israel.svg|40px]]
+|list1 = 
+* [[Eliezer Kaplan|Kaplan]] (194852)
+* [[Levi Eshkol|Eshkol]] (195263)
+* [[Pinchas Sapir|Sapir]] (196368)
+* [[Ze'ev Sherf|Sherf]] (196869)
+* [[Pinchas Sapir|Sapir]] (196974)
+* [[Yehoshua Rabinovitz|Rabinovitz]] (197477)
+* [[Simha Erlich|Erlich]] (197779)
+* [[Yigal Hurvitz|Hurvitz]] (197981)
+* [[Yoram Aridor|Aridor]] (198183)
+* [[Yigal Cohen-Orgad|Cohen-Orgad]] (198384)
+* [[Yitzhak Moda'i|Moda'i]] (198486)
+* [[Moshe Nissim|Nissim]] (198688)
+* [[Shimon Peres|Peres]] (198890)
+* [[Yitzhak Shamir|Shamir]] (1990)
+* [[Yitzhak Moda'i|Moda'i]] (199092)
+* [[Avraham Shochat|Shochat]] (199296)
+* [[Dan Meridor|Meridor]] (199697)
+* [[Benjamin Netanyahu|Netanyahu]] (1997)
+* [[Yaakov Neeman|Ne'eman]] (199798)
+* [[Benjamin Netanyahu|Netanyahu]] (199899)
+* [[Meir Sheetrit|Sheetrit]] (1999)
+* [[Avraham Shochat|Shochat]] (19992001)
+* [[Silvan Shalom|Shalom]] (200103)
+* [[Benjamin Netanyahu|Netanyahu]] (200305)
+* [[Ehud Olmert|Olmert]] (200506)
+* [[Avraham Hirschson|Hirschson]] (200607)
+* [[Roni Bar-On|Bar-On]] (200709)
+* [[Yuval Steinitz|Steinitz]] (200913)
+* [[Yair Lapid|Lapid]] (2013)
+}}<noinclude>
+[[Category:Templat pemimpin politik Israel|Keuangan]]
+</noinclude>
+<includeonly>{{{category|[[Category:Menteri pemerintahan Israel]]}}}</includeonly>

@@ -1,0 +1,41 @@
+Wakaf (tajwid)
+[[Berkas:Yusuf-1.PNG|thumb|200px|Contoh waqaf dalam surah Yusuf ayat 1.]]
+
+:''Untuk kegunaan lain, lihat [[wakaf (disambiguasi)]]''
+
+'''Wakaf''' dari sudut bahasa ialah berhenti atau menahan, manakala dari sudut istilah tajwid ialah menghentikan bacaan sejenak dengan memutuskan suara di akhir perkataan untuk bernapas dengan niat ingin menyambungkan kembali bacaan. 
+== Jenis wakaf ==
+Terdapat empat jenis waqaf yaitu:
+
+* '''<big></big>''' (taamm) - waqaf sempurna - yaitu mewaqafkan atau memberhentikan pada suatu bacaan yang dibaca secara sempurna, tidak memutuskan di tengah-tengah ayat atau bacaan, dan tidak memengaruhi arti dan makna dari bacaan karena tidak memiliki kaitan dengan bacaan atau ayat yang sebelumnya maupun yang sesudahnya;
+* '''<big></big>''' (kaaf) - waqaf memadai - yaitu mewaqafkan atau memberhentikan pada suatu bacaan secara sempurna, tidak memutuskan di tengah-tengah ayat atau bacaan, namun ayat tersebut masih berkaitan makna dan arti dari ayat sesudahnya;
+* '''<big></big>''' (Hasan) - waqaf baik - yaitu mewaqafkan bacaan atau ayat tanpa memengaruhi makna atau arti, namun bacaan tersebut masih berkaitan dengan bacaan sesudahnya;
+* '''<big></big>''' (Qabiih) - waqaf buruk - yaitu mewaqafkan atau memberhentikan bacaan secara tidak sempurna atau memberhentikan bacaan di tengah-tengah ayat, wakaf ini harus dihindari karena bacaan yang diwaqafkan masih berkaitan lafaz dan maknanya dengan bacaan yang lain.
+
+== Tanda-tanda waqaf ==
+# [[Tanda]] mim ( '''<big><sup></sup></big>''' ) disebut juga dengan Waqaf Lazim. yaitu berhenti di akhir kalimat sempurna. Wakaf Lazim disebut juga Wakaf Taamm (sempurna) karena wakaf terjadi setelah kalimat sempurna dan tidak ada kaitan lagi dengan kalimat sesudahnya. Tanda mim ( '''<big><sup></sup></big>''' ), memiliki kemiripan dengan tanda [[tajwid]] ''iqlab'', namun sangat jauh berbeda dengan fungsi dan maksudnya;
+# tanda tho ( '''<big><sup></sup></big>''' ) adalah tanda Waqaf Mutlaq dan '''Haruslah berhenti'''. 
+# tanda jim ( '''<big><sup></sup></big>''' ) adalah Waqaf Jaiz. '''Boleh berhenti''' dan Boleh untuk dilanjutkan.
+# tanda zha ( '''<big><sup></sup></big>''' ) bermaksud lebih baik '''Tidak Berhenti''';
+# tanda sad ( '''<big><sup></sup></big>''' ) disebut juga dengan Waqaf Murakhkhas, menunjukkan bahwa lebih baik untuk '''tidak berhenti''' namun diperbolehkan berhenti saat darurat tanpa mengubah makna. Perbedaan antara hukum tanda zha dan sad adalah pada fungsinya, dalam kata lain lebih diperbolehkan berhenti pada waqaf sad;
+# tanda sad-lam-ya' ( '''<big><sup></sup></big>''' ) merupakan singkatan dari "''Al-wasl Awlaa''" yang bermakna "[[wasal]] atau meneruskan bacaan adalah lebih baik", maka dari itu '''meneruskan''' bacaan tanpa mewaqafkannya adalah lebih baik;
+# tanda qaf ( '''<big><sup></sup></big>''' ) merupakan singkatan dari "''Qeela alayhil waqf''" yang bermakna "telah dinyatakan boleh berhenti pada wakaf sebelumnya", maka dari itu '''lebih baik meneruskan''' bacaan walaupun boleh diwaqafkan;
+# tanda sad-lam ( '''<big><sup></sup></big>''' ) merupakan singkatan dari "''Qad yoosalu''" yang bermakna "''kadang kala boleh di[[wasal]]kan''", maka dari itu '''lebih baik berhenti''' walau kadang kala boleh di[[wasal]]kan;
+# tanda Qif ( '''<big><sup></sup></big>''' ) bermaksud '''berhenti!''' yakni lebih diutamakan untuk berhenti. Tanda tersebut biasanya muncul pada kalimat yang biasanya pembaca akan meneruskannya tanpa berhenti;
+# tanda sin ( '''<big><sup></sup></big>''' ) atau tanda Saktah ( '''<big><sup></sup></big>''' ) menandakan '''berhenti seketika tanpa mengambil napas'''. Dengan kata lain, pembaca haruslah berhenti seketika tanpa mengambil napas baru untuk meneruskan bacaan;
+# tanda Waqfah ( '''<big><sup></sup></big>''' ) bermaksud sama seperti waqaf saktah ( '''<big><sup></sup></big>''' ), namun harus '''berhenti lebih lama tanpa mengambil napas''';
+# tanda Laa ( '''<big><sup></sup></big>''' ) bermaksud "'''Jangan berhenti!'''". Tanda ini muncul kadang-kala pada penghujung mahupun pertengahan ayat. Jika ia muncul di pertengahan ayat, maka tidak dibenarkan untuk berhenti dan jika berada di penghujung ayat, pembaca tersebut boleh berhenti atau tidak;
+# tanda kaf ( '''<big><sup></sup></big>''' ) merupakan singkatan dari "''Kathaalik''" yang bermakna "serupa". Dengan kata lain, makna dari waqaf ini serupa dengan waqaf yang sebelumnya muncul;
+# tanda bertitik tiga ( '''.<sup><big>.</big></sup>. .<sup><big>.</big></sup>.''') yang disebut sebagai Waqaf Muraqabah atau Waqaf Ta'anuq (Terikat). Waqaf ini akan muncul sebanyak dua kali di mana-mana saja dan cara membacanya adalah '''harus berhenti di salah satu tanda''' tersebut. Jika sudah berhenti pada tanda pertama, tidak perlu berhenti pada tanda kedua dan sebaliknya.
+
+== Lihat pula ==
+* [[Tajwid]]
+* [[Harakat]]
+* [[Wasal]]
+
+== Pranala luar ==
+* {{id}} [http://www.infoskripsi.com/Artikel-Penelitian/Perubahan-Fonologi-Bahasa-Arab-AMiyyah-Dialek-Mesir.html Apokop "waqaf" PERUBAHAN FONOLOG]
+{{huruf Arab}}
+{{Arab-stub}}
+
+[[Kategori:Tajwid]]

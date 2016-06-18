@@ -1,0 +1,78 @@
+Coral Springs, Florida
+{{Infobox settlement
+|official_name            = City of Coral Springs
+|motto
+|settlement_type          = [[Kota]]
+|image_skyline            = |
+|imagesize                =
+|image_caption            = Pusat kota Coral Springs
+|image_blank_emblem       = 
+|image_seal               = 
+|image_map                = Map of Florida highlighting Coral Springs.svg
+|mapsize                  = 250x200px
+|map_caption              = Lokasi di [[Broward County, Florida|Broward]] dan negara bagian [[Florida]]
+|image_map1               =
+|mapsize1                 =
+|map_caption1             =
+| coordinates_region = US-FL
+| subdivision_type = Country
+| subdivision_name = [[Berkas:Flag of the United States.svg|20px]] United States
+| subdivision_type1 = State
+| subdivision_name1 = [[Berkas:Flag of Florida.svg|20px]] [[Florida]]
+| subdivision_type2 = County
+| subdivision_name2 = <!-- Image with inadequate rationale removed: [[Image:BrowardCounty Logo.gif|20px]]  -->[[Broward County|Broward]]
+|government_type          = [[Council-manager government|Commission-Manager]]
+|leader_title             = [[Mayor]]
+|leader_name              = Roy Gold
+|leader_title1            = [[City Manager]]
+|leader_name1             = Erdal Donmez
+|established_date         =
+|established_title3       = Incorporated (city)
+|established_date3        = July 10, 1963
+|unit_pref                = Imperial
+|area_footnotes           =<ref name="community">{{cite web | url = http://www.coralsprings.org/facts/CoralSpringsAtAGlance.pdf | title=Coral Springs at a Glance | publisher=City of Coral Springs | accessdate=2007-06-19|format=pdf}}</ref>
+|area_magnitude           =
+|area_total_sq_mi         = 23.93
+|area_land_sq_mi          = 22.01
+|area_water_sq_mi         = 1.91
+|area_water_percent       =
+|population_as_of         = 2007 est.
+|population_footnotes     =<ref name=censuspop>{{cite web |url=http://www.census.gov/popest/cities/tables/SUB-EST2007-04-12.xls  |title=Annual Estimates of the population for the Incorporated Places of Florida |publisher=[[US Census Bureau]] |accessdate=2007-08-11 |format=XLS}}</ref>
+|population_note          = Census Bureau estimate
+|population_total         = 126,875
+|population_density_sq_mi =
+|timezone                 = [[North American Eastern Time Zone|EST]]
+|utc_offset               = -5 |
+|timezone_DST             = [[Eastern Daylight Time|EDT]]
+|utc_offset_DST           = -4
+|coordinates_display = display=inline,title
+|latd = 26 |latm = 16 |lats = 14 |latNS = N
+|longd = 80 |longm = 15 |longs = 33 |longEW = W
+|elevation_footnotes      =<ref>{{cite web | url=http://www.idcide.com/citydata/fl/coral-springs.htm | title=Coral Springs, Florida Profile | publisher=IDcide | accessdate=2007-06-19}}</ref>
+|elevation_m              = 3
+|elevation_ft             = 13
+|postal_code_type         = Zip Code
+|postal_code              = 33065, 33067, 33071, 33073, 33075, 33076, 33077
+|area_code                = [[Area code 754|754]] and [[Area code 954|954]]
+|website                  = http://www.coralsprings.org
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 12-14400{{GR|2}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0307614{{GR|3}}
+|footnotes                =
+}}
+'''Coral Springs, Florida''' adalah kota yang terletak di negara bagian [[Florida]], [[Amerika Serikat]]. Jumlah penduduk kota ini pada tahun 2007 diperkirakan sebesar 126.875 jiwa.
+
+== Referensi ==
+{{reflist}}
+
+== Bacaan lanjutan ==
+* {{Cite book|author=Stuart McIver|title=Coral Springs: The first twenty-five years|publisher=Donning|year=1988|isbn=978-0898657142}}
+* {{Cite book|author=Wendy Wangberg and Kevin Knutson|title=Coral Springs|publisher=[[Arcadia Publishing]]|year=2003|isbn=978-0738515052}}
+
+{{Negara bagian Florida}}
+
+[[Kategori:Kota di Florida]]
+
+
+{{AS-geo-stub}}

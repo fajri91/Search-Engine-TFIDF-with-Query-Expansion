@@ -1,0 +1,85 @@
+Steven Taylor
+{{Infobox football biography
+|playername = Steven Taylor
+|image = [[Berkas:Steven Taylor.png]]
+|fullname = Steven Vincent Taylor
+|height = {{height|m=1.88}} <ref>{{cite web|url=http://www.premierleague.com/page/PlayerProfile/0,,12306~29564,00.html|title = Premier League Player Profile|accessdate = 23 April 2011|publisher = Premier League}}</ref>
+|dateofbirth = {{Birth date and age|1986|1|23|df=y}}
+|cityofbirth = [[Greenwich]], [[London]]
+|countryofbirth = [[Inggris]]
+|currentclub = [[Newcastle United F.C.|Newcastle United]]
+|clubnumber = 27
+|position = [[Bek]]
+|youthyears1 = 
+|youthclubs1 = [[Wallsend Boys Club]]
+|youthyears2 = 19952002
+|youthclubs2= [[Newcastle United F.C.|Newcastle United]]
+|years1 = 2003
+|clubs1 = [[Newcastle United F.C.|Newcastle United]]
+|caps1 = 190
+|goals1 = 11<!--Update table below when updating --><!-- LEAGUE GAMES ONLY - When you update this parameter, please update the pcupdate parameter! -->
+|years2 = 20032004
+|clubs2 =  [[Wycombe Wanderers F.C.|Wycombe Wanderers]] ''(pinjaman)''
+|caps2 = 6
+|goals2 = 0
+|nationalyears1 = 20012002
+|nationalteam1 = {{timnasu|16|Inggris}}
+|nationalcaps1 = 7
+|nationalgoals1 = 0
+|nationalyears2 = 20022003
+|nationalteam2 = {{timnasu|17|Inggris}}
+|nationalcaps2 = 12
+|nationalgoals2 = 0
+|nationalyears3 = 20032005
+|nationalteam3 = {{timnasu|20|Inggris}}
+|nationalcaps3 = 9
+|nationalgoals3 = 0
+|nationalyears4 = 20042009
+|nationalteam4 = {{timnasu|21|Inggris}}
+|nationalcaps4 = 29
+|nationalgoals4 = 4
+|nationalyears5 = 2007
+|nationalteam5 = {{timnas|Inggris B}}
+|nationalcaps5 = 1
+|nationalgoals5 = 0<!-- When you update this parameter, please update the ntupdate parameter! -->
+|pcupdate = 1 Februari 2014 (UTC)
+|ntupdate = 15:01, 1 Juni 2009 (UTC)
+}}
+'''Steven Vincent Taylor''' ({{lahirmati||23|1|1986}}) adalah seorang pemain [[sepak bola]] berkewarganegaraan [[Inggris]] yang bermain untuk klub [[Newcastle United F.C.|Newcastle United]] pada posisi  [[bek]].
+
+== Referensi ==
+
+{{reflist}}
+
+== Pranala luar ==
+{{Commons category|Steven Taylor (footballer)}}
+*{{soccerbase|id=37277|name=Steven Taylor}}
+*{{en}} [http://www.nufc.co.uk/page/Teams/PlayerProfile/0,,10278~29564,00.html Profile] at the official [[Newcastle United F.C.|Newcastle United]] website
+*{{en}} [http://news.bbc.co.uk/sport1/shared/bsp/hi/football/statistics/players/t/taylor_247146.stm Profile] at [[BBC Sport]]
+*{{en}} [http://www.premierleague.com/fapl.rac?command=forwardOnly&nextPage=enPlayerProfile&playerId=247146 Profile] at premierleague.com
+*{{en}} [http://www.4thegame.com/club/newcastle-united-fc/player-profile/4756/steventaylor.html Profile] at 4thegame.com
+*{{en}} [http://www.sporting-heroes.net/football-heroes/displayhero_club.asp?HeroID=10118 Photo and stats] at sporting-heroes.com
+*{{en}} [http://www.premierleague.com/page/PlayerProfile/0,,12306~29564,00.html Premier League profile]
+*{{en}} [http://www.thefa.com/England/All-Teams/Players/T/Steven-Taylor Profile] at [[The Football Association|The FA]]
+
+{{skuat Newcastle United F.C.}}
+
+<!-- Metadata: see [[Wikipedia:Persondata]] -->
+
+{{lifetime|1986||}}
+
+{{Persondata
+|NAME = Taylor, Steven Vincent
+|ALTERNATIVE NAMES = Taylor, Steven
+|SHORT DESCRIPTION = English footballer
+|DATE OF BIRTH = 1986-1-23
+|PLACE OF BIRTH = [[London]], [[England]]
+|DATE OF DEATH =
+|PLACE OF DEATH =
+}}
+{{DEFAULTSORT:Taylor, Steven}}
+[[Kategori:Pemain sepak bola Inggris]]
+[[Kategori:Pemain Newcastle United F.C.]]
+
+
+{{pemain-sb-stub}}

@@ -1,0 +1,22 @@
+Stasiun Universitas Indonesia/layout
+{|align="center"
+{{BS-table}}
+{{BS3||CONTfa|CONTg|Ke [[Stasiun Universitas Pancasila|Univ. Pancasila]]}}
+{{BS3||STRf|STRg|}}
+{{BS5||leer+BS|STR+BSr|STR+BSl|leer+BS|}}
+{{BS5||leer+BS|STR+BSr|STR+BSl|leer+BS|}}
+{{BS5||leer+BS|STR+BSr|STR+BSl|leer+BS|}}
+{{BS5||leer+BS|STR+BSr|STR+BSl|leer+BS|O3=num1r|O4=num2l}}
+{{BS5||leer+BS|STR+BSr|STR+BSl|leer+BS|}}
+{{BS5||leer+BS|STR+BSr|STR+BSl|leer+BS|}}
+{{BS5|BUILDING|leer+BS|STR+BSr|STR+BSl|leer+BS|}}
+{{BS3||STRf|STRg|}}
+{{BS3||ABZg2|ABZg3|}}
+{{BS3||ABZg+1|ABZg+4|}}
+{{BS3||CONTf|CONTge|Ke [[Stasiun Pondok Cina|Pondok Cina]]}}
+|}
+|}
+
+<noinclude>
+[[Kategori:Layout stasiun|Universitas Indonesia]]
+</noinclude>

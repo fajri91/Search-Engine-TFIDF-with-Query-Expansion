@@ -1,0 +1,32 @@
+Konsonan desis dwibibir nirsuara
+[[Berkas:Voiceless bilabial fricative.ogg|right]]
+'''Konsonan desis dwibibir nirsuara''' adalah jenis dari suara [[konsonan dwibibir]] yang digunakan dalam berbagai bahasa. Simbol [[Alfabet Fonetis Internasional|IPAnya]] adalah {{IPA|}}. Dalam [[bahasa Indonesia]] tidak ada huruf yang mewakili {{IPA|[]}} namun berbunyi seperti mengucapkan huruf ''f'' yang diartikulasi dengan kedua belah bibir, bukan dengan gigi bagian atas dan bibir bagian bawah.
+
+== Kata-kata ==
+
+{| class="wikitable"
+|-
+! Bahasa !! Kata !! [[Alfabet Fonetis Internasional|IPA]] !! Arti
+|-align=center
+| [[Bahasa Ainu|Ainu]] ||  || {{IPA|[uti]}} || "nenek"
+|-align=center
+| [[Bahasa Angor|Angor]] || '''f'''i || {{IPA|[i]}} || "tubuh"
+|-align=center
+| [[Bahasa Itelmen|Itelmen]] || '''''''''''' || {{IPA|[tutu]]}} || "hujan"
+|-align=center
+| [[Bahasa Jepang|Jepang]] ||  '''f'''uhai || {{IPA|[hai]}} || "busuk"
+|-align=center
+| [[Bahasa Kaingang|Kaingang]] || '''f'''y || {{IPA|[]}} || "biji"
+|-align=center
+| [[Bahasa Maori|Maori]] || '''wh'''akapapa || {{IPA|[akapapa]}} || "genealogi"
+|-align=center
+| [[Bahasa Odoodee|Odoodee]] || '''p'''agai || {{IPA|[i]}} || "kelapa"
+|-align=center
+| [[Bahasa Tahiti|Tahiti]] || '''''f'''' || {{IPA|[oi]}} || "ular"
+|-align=center
+| [[Bahasa Turkmen|Turkmen]] || '''f'''abrik || {{IPA|[abrik]}} || "pabrik"
+|}
+
+{{Konsonan tekanan paru-paru}}
+
+[[Kategori:Konsonan]]

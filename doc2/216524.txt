@@ -1,0 +1,49 @@
+Templat:Cities and towns in Enzkreis
+{{Navbox
+|name=Cities and towns in Enzkreis
+|image=[[Berkas:Wappen Enzkreis.svg|right|30px|Lambang]]
+| listclass = hlist
+| title =Kota dan kotamadya di [[Enzkreis]]
+|liststyle=font-size:95%;
+|list1= [[Birkenfeld, Baden-Wrttemberg|Birkenfeld]]&nbsp;{{!}} <!--
+-->[[Eisingen, Baden-Wrttemberg|Eisingen]]&nbsp;{{!}} <!--
+-->[[Engelsbrand]]&nbsp;{{!}} <!--
+-->[[Friolzheim]]&nbsp;{{!}} <!--
+-->[[Heimsheim]]&nbsp;{{!}} <!--
+-->[[Illingen, Enzkreis|Illingen]]&nbsp;{{!}} <!--
+-->[[Ispringen]]&nbsp;{{!}} <!--
+-->[[Kmpfelbach]]&nbsp;{{!}} <!--
+-->[[Keltern]]&nbsp;{{!}} <!--
+-->[[Kieselbronn]]&nbsp;{{!}} <!--
+-->[[Knittlingen]]&nbsp;{{!}} <!--
+-->[[Knigsbach-Stein]]&nbsp;{{!}} <!--
+-->[[Maulbronn]]&nbsp;{{!}} <!--
+-->[[Mnsheim]]&nbsp;{{!}} <!--
+-->[[Mhlacker]]&nbsp;{{!}} <!--
+-->[[Neuenbrg]]&nbsp;{{!}} <!--
+-->[[Neuhausen, Enzkreis|Neuhausen]]&nbsp;{{!}} <!--
+-->[[Neulingen]]&nbsp;{{!}} <!--
+-->[[Niefern-schelbronn]]&nbsp;{{!}} <!--
+-->[[lbronn-Drrn]]&nbsp;{{!}} <!--
+-->[[tisheim]]&nbsp;{{!}} <!--
+-->[[Remchingen]]&nbsp;{{!}} <!--
+-->[[Sternenfels]]&nbsp;{{!}} <!--
+-->[[Straubenhardt]]&nbsp;{{!}} <!--
+-->[[Tiefenbronn]]&nbsp;{{!}} <!--
+-->[[Wiernsheim]]&nbsp;{{!}} <!--
+-->[[Wimsheim]]&nbsp;{{!}} <!--
+-->[[Wurmberg]]
+}}<noinclude>
+
+[[Kategori:Templat pembagian administratif Jerman|Enzkreis]]
+
+
+
+
+
+
+
+
+
+
+</noinclude>

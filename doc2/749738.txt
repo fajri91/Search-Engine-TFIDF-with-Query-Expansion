@@ -1,0 +1,45 @@
+SerLea
+{{Infobox senjata
+|name= SerLea
+|image= 
+|caption= 
+|origin= [[Lebanon]]
+|type= [[Pistol mitraliur]]
+<!-- Type selection -->
+|is_ranged=yes
+<!-- Service history -->
+|service= 
+|used_by=
+|wars= 
+<!-- Production history -->
+|designer= 
+|design_date=1990
+|manufacturer= 
+|production_date= 
+|number= 
+|variants= 
+<!-- General specifications -->
+|weight= 2,27kg
+|length= 
+|part_length= 
+|crew=
+<!-- Ranged weapon specifications --> 
+|cartridge= [[9mm Luger|9 x 19 mm]]
+|caliber=
+|action= Blowback, bolt terbuka
+|rate= 3000 butir/menit
+|velocity= 
+|range= 
+|max_range= 
+|feed= [[Magazen]] box 60-butir
+|sights= 
+}}
+
+SerLea adalah senapan mesin ringan 9mm double barrel asal Lebanon dimaksudkan untuk rentang jalan pendek dan sikat pertempuran<ref>Lewis, Jack (1994). "A gun named SerLea". Gun World magazine 34 (8): 28.</ref>. Sekitar 8 prototipe senjata diketahui ada. 
+
+SerLea adalah blowback dioperasikan 9mm double barrel senapan mesin ringan sederhana yang beroperasi dengan sisipan majalah kembar, dan baut kembar, dengan perangkat sinkronisasi untuk meningkatkan tingkat kebakaran. Casing kosong dikeluarkan dari port ejeksi di kedua sisi membuat SerLea SMG senjata ambidextrous. Senjata ini memiliki non menangani reciprocating cocking belakang dan bagian memicu antara penerima. Barel memiliki kompensator dan pendinginan sirip. Sebuah foregrip vertikal di depan untuk menangani mundur selama pembakaran
+
+==Pranala luar==
+{{reflist}}
+
+[[Kategori:Pistol mitraliur]]

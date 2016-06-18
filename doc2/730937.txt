@@ -1,0 +1,50 @@
+Meteosat
+'''Meteosat''' adalah [[satelit meteorologi]] [[orbit geostasioner|geostasioner]] yang dioperasikan oleh [[EUMETSAT]] di bawah ''Meteosat Transition Program'' (MTP) dan program Meteosat Generasi Kedua (MSG). 
+
+Program MTP didirikan untuk menjamin kelangsungan operasional antara akhir kesuksesan Program Operasional Meteosat pada tahun 1995 dan Meteosat Generasi Kedua (MSG), yang mulai beroperasi pada awal 2004 dengan menggunakan satelit yang telah ditingkatkan. Program MSG akan menyediakan layanan sampai program MTG (Meteosat Generasi Ketiga) mengambil alih.
+
+== Generasi pertama ==
+[[Berkas:METEOSAT.gif|thumb|right|Foto satelit Meteosat Generasi Pertama sebelum diluncurkan.]]
+Generasi pertama satelit Meteosat, Meteosat-1 sampai Meteosat-7, memberikan pengamatan meteorologi terus menerus dan dapat diandalkan dari ruang untuk sebuah komunitas pengguna yang besar. Selain penyediaan gambar bumi dan atmosfernya setiap setengah jam dalam tiga saluran spektral (Visible, Infrared) dan [[uap air]], melalui [[alat ukur|instrumen]] [[Meteosat Visible and Infrared Imager]] (MVIRI), berbagai produk olahan meteorologi diproduksi. Meteosat juga mendukung transmisi data dari platform pengumpulan data di daerah terpencil, di laut dan di dalam pesawat terbang, serta penyebaran informasi meteorologi dalam format grafis dan teks.
+
+Satelit ini diproduksi oleh konsorsium COSMOS, bersama dengan [[Arospatiale]] di [[Pusat Ruang Angkasa Cannes Mandelieu]], sebagai yang Perdana, dan termasuk [[Matra]], [[Messerschmitt-Blkow-Blohm|MBB]], [[Alenia Aeronautica|Selenia Spazio]], [[Marconi Company]].
+
+Satelit ini berdiameter 2,1 meter dan panjang 3,195 meter. Massa awal dalam orbit adalah 282 kg, dan di orbit, satelit berputar pada 100 rpm sekitar sumbu utama.<ref name='EUMETSAT-MFG-Arch'>[http://www.eumetsat.int/Home/Main/Satellites/MeteosatFirstGeneration/Instruments/index.htm?l=en EUMETSAT - MFG Architecture]</ref>
+
+== Generasi kedua ==
+[[Berkas:Meteosat Geostasjonr satellitt.jpg|thumb|left|Meteosat Generasi Kedua]]
+Kontrak untuk generasi kedua diberikan kepada Arospatiale di Pusat Ruang Angkasa Cannes Mandelieu (sekarang [[Thales Alenia Space]]) , dengan subkontraktor utama seperti [[Matra]], [[Messerschmitt]], [[Alenia Spazio|Alenia]].
+
+Meteosat Generasi Kedua dirancang sebagai tanggapan terhadap kebutuhan pengguna untuk melayani kebutuhan aplikasi nowcasting dan [[prediksi cuaca numerik]]. Selain instrumen [[Geostationary Earth Radiation Budget|GERB]] yang menyediakan data penting untuk pemantauan iklim dan penelitian.
+
+Satelit baru berputar stabil seperti generasi sebelumnya, tetapi dengan banyak perbaikan desain. Data lebih sering dikumpulkan dan lebih komprehensif oleh MSG juga membantu peramal cuaca dalam pengakuan cepat dan prediksi fenomena cuaca berbahaya seperti [[badai]], [[kabut]] dan perkembangan eksplosif depresi kecil tapi intens yang dapat menyebabkan badai angin yang menghancurkan. Satelit MSG berdiameter 3,2 m dan tinggi 2,4 m dan berputar berlawanan arah jarum jam pada kecepatan 100 RPM<ref name='EUMETSAT-MSG-Arch'>[http://www.eumetsat.int/Home/Main/Satellites/MeteosatSecondGeneration/Instruments/index.htm?l=en EUMETSAT - MSG Architecture]</ref> pada ketinggian 36.000 km.<ref name='EUMETSAT-MSG-Orbit'>[http://www.eumetsat.int/Home/Main/Satellites/SatelliteProgrammesOverview/SP_20100427132020806?l=en EUMETSAT - MSG Orbit Info]</ref>
+
+Pada 29 Januari 2004, satelit pertama Meteosat Generasi Kedua, MSG-1, berganti nama menjadi [[Meteosat 8|Meteosat-8]], mulai beroperasi rutin. Selain payload optik utama SEVIRI (Spinning Enhanced Visible and Infrared Imager), Meteosat-8 juga membawa instrumen payload GERB sekunder (Geostationary Earth Radiation Budget). Peluncuran MSG-2 (berganti nama menjadi Meteosat-9) berlangsung pada 21 Desember 2005. Peluncuran MSG-3 (berganti nama menjadi Meteosat-10) berlangsung pada tanggal 5 Juli 2012.
+
+[[Berkas:EUMETSAT MSG control.jpg|thumb|Pusat pengendalian MSG di [[Darmstadt]].]]
+Pada tahun 2013 Meteosat-7, -8, -9 dan 10 semua beroperasi. Meteosat-7 ditempatkan di atas [[Samudera Hindia]]. Meteosat-8, -9 dan -10 semua terletak di [[Afrika]] dengan berbagai perbedaan dalam konfigurasi operasional. Meteosat-7 menyediakan cakupan citra utama di Samudera India (dengan gambar setiap 30 menit) dan menyediakan layanan menyampaikan data dari Pengumpulan Data Platform (DCP), seperti pelampung, untuk mendukung Sistem Peringatan Tsunami di Samudera Hindia. Meteosat-9 menyediakan layanan 'pemindaian cepat' modus operasional Eropa (dimana MSG RSS layanan 1 dimulai pada kuartal kedua tahun 2008 (dengan gambar dari Eropa setiap 5 menit)). Meteosat-10 menyediakan layanan citra utama bumi secara penuh atas seluruh Eropa dan Afrika (dengan gambar setiap 15 menit). Meteosat-8 direncanakan untuk menjadi cadangan dari Meteosat-9 dan -10. 
+
+Peluncuran MSG-4 direncanakan pada awal 2015. Seperti MSG-1, MSG-2 dan MSG-3, MSG-4 direncanakan akan diluncurkan oleh [[Arianespace]].<ref>{{cite web |url=http://www.arianespace.com/site/news/releases/presrel08_07_22.html |title=Arianespace chosen to launch MSG-4 weather satellite |publisher=Arianespace |date=2008-07-22}}</ref>
+
+===Muatan sekunder===
+Masing-masing dari MSG-1, MSG-2, dan MSG-3 membawa layanan DCP dan sinyal prosesor SAR (SARP) yang mampu mendeteksi sinyal marabahaya 406 MHz dari [[Emergency Locator Beacon Aircraft|rambu radio marabahaya]].<ref>{{cite web|url=http://www.cospas-sarsat.org/en/operatons/space-segment-status/sar-payloads|title=Current Space Segment Status and SAR Payloads|accessdate=2012-12-03}}</ref> Lihat lebih lanjut: [[Cospas-Sarsat]].
+
+==Generasi ketiga ("MTG")==
+Mengingat siklus pengembangan yang panjang untuk sistem ruang angkasa baru observasional, [[EUMETSAT]] telah bekerja pada definisi dan perencanaan untuk Meteosat Generasi Ketiga (MTG) sejak tahun 2000. Komponen MTG memberikan kontinuitas layanan MSG harus tersedia sekitar tahun 2015, sebelum akhir masa nominal MSG. Kegiatan persiapan MTG dimulai pada akhir tahun 2000 bekerja sama dengan [[European Space Agency]] (ESA), menyusul keputusan Dewan EUMETSAT untuk melanjutkan dengan Proses Konsultasi Pengguna Pasca-MSG. Proses ini bertujuan untuk menangkap kebutuhan mendatang pengguna data satelit EUMETSAT dalam rentang waktu 2015-2025.<ref>{{cite web |url=http://www.eumetsat.int/Home/Main/Satellites/MeteosatThirdGeneration/index.htm?l=en |title=MTG - METEOSAT THIRD GENERATION |publisher=EUMETSAT |date=2010-10-01}}</ref>
+
+Pada 19 Maret 2010, ESA memilih [[Thales Alenia Space]] untuk negosiasi akhir yang mengarah ke kontrak yang akan ditandatangani selama bulan Juni.<ref>ESA and Thales Alenia Space enter negotiations for MTG, ESA Press release, March 19, 2010, [http://www.esa.int/esaCP/SEMXKUCKP6G_index_0.html online www.esa.int]</ref> Pada 22 Juni 2010, Eumetsat mengkonfirmasi pilihan Thales Alenia Space.<ref>[http://www.eumetsat.int/Home/Main/News/Press_Releases/718683?l=en Eumetsat 70th council puts MTG on tracks]</ref>
+
+Pada 24 Februari 2012, kontrak pembangunan antara ESA dan Thales Alenia Space ditandatangani oleh Mr Liebig dan Mr Seznec. Thales Alenia Space memimpin konsorsium industri yang sekarang membangun keluarga MTG. Seiring dengan menjadi kontraktor utama, Thales Alenia Space bertanggung jawab atas satelit pencitraan MTG-I, termasuk muatan primer, Fleksibel Gabungan Imager. Perusahaaan yang berbasis di [[Bremen]], [[OHB-System|OHB]] bertanggung jawab atas satelit MTG-S dan penyediaan platform satelit umum, didukung oleh [[Astrium|Astrium GmbH]] sebagai [[System Architect]].
+
+== Referensi ==
+{{reflist}}
+
+== Pranala luar ==
+{{commons|EUMETSAT}}
+* {{en}} [http://en.allmetsat.com/ Perbandingan gambar Meteosat dengan satelit meteorologi lainnya]
+
+[[Kategori:Satelit cuaca]]
+[[Kategori:Program luar angkasa Eropa]]
+[[Kategori:Satelit observasi Bumi]]
+[[Kategori:Satelit buatan yang mengorbit Bumi]]
+[[Kategori:Satelit buatan di orbit geosinkron]]

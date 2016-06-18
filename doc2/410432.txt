@@ -1,0 +1,11 @@
+Templat:WDLtot
+<includeonly>
+! {{#if:{{{align|}}}|align={{{align}}}|align=center}} |{{nts|{{{1}}}}}
+! {{#if:{{{align|}}}|align={{{align}}}|align=center}} |{{nts|{{{2}}}}}
+! {{#if:{{{align|}}}|align={{{align}}}|align=center}} |{{nts|{{{3}}}}}
+! {{#if:{{{align|}}}|align={{{align}}}|align=center}} |{{nts|{{{4}}}}}<!--
+-->{{#if:{{{for|}}}|!!{{#if:{{{align|}}}|align={{{align}}}|align=center}}{{!}}{{nts|{{{for}}}}}}}<!--
+-->{{#if:{{{against|}}}|!!{{#if:{{{align|}}}|align={{{align}}}|align=center}}{{!}}{{nts|{{{against}}}}}}}<!--
+-->{{#ifeq:{{{diff}}}|yes|!!{{#if:{{{align|}}}|align={{{align}}}|align=center}}{{!}} {{#iferror:{{#ifexpr: {{{for}}} - {{{against}}} > 0 | + |  }}{{#expr: abs({{{for}}} - {{{against}}})}}|}}}}
+! {{#if:{{{align|}}}|align={{{align}}}|align=center}} |{{#ifeq:{{{1}}}|0||{{nts|{{Decimals|{{#expr: {{{2}}} / {{{1}}} *100 round {{#if:{{{decimals|}}}|{{{decimals}}}|2}}}}|{{#if:{{{decimals|}}}|{{{decimals}}}|2}}}}}}}}</includeonly>
+<noinclude>{{Documentation|Template:WDL/doc}}</noinclude>

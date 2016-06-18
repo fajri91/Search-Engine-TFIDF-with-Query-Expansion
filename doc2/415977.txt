@@ -1,0 +1,44 @@
+Demam kuning
+{{Infobox disease
+| Name           = Demam kuning
+| Image          = YellowFeverVirus.jpg
+| Caption        = [[Mikrograf]] virus demam kuning melalui [[Mikroskop elektron transmisi|TEM]] (pembesaran 234.000X).
+| ICD10          = {{ICD10|A|95||a|90}}
+| ICD9           = {{ICD9|060}}
+| ICDO           =
+| OMIM           =
+| DiseasesDB     = 14203
+| MedlinePlus    = 001365
+| eMedicineSubj  = med
+| eMedicineTopic = 2432
+| eMedicine_mult = {{eMedicine2|emerg|645}}
+| MeshID = D015004
+}}
+'''Demam kuning''' (dijuluki "Yellow Jack") adalah sebuah penyakit hemorrhagik [[virus]] [[akut (kesehatan)|akut]].<ref name="Baron">{{cite book|author=Schmaljohn AL, McClain D.|chapter=Alphaviruses (Togaviridae) and Flaviviruses (Flaviviridae)|editor=Baron S|title=Medical Microbiology|edition=4th|publisher=Univ of Texas Medical Branch|year=1996|isbn=0-9631172-1-1 }}</ref> Virus ini berupa sebuah [[virus RNA]] sebesar 40 hingga 50&nbsp;[[nanometer|nm]] dengan [[indera (biologi molekul)|indera]] positif dari keluarga [[Flaviviridae]].
+
+Virus demam kuning ini ditularkan melalui gigitan [[nyamuk]] betina (nyamuk demam kuning, ''[[Aedes aegypti]]'', dan spesies lain) dan ditemukan di kawasan [[tropis]] dan [[subtropis]] di [[Amerika Selatan]] dan [[Afrika]], namun tidak di [[Asia]].<ref name="urlCDC Yellow Fever">{{cite web
+|url=http://www.cdc.gov/ncidod/dvbid/yellowfever/
+|title=CDC Yellow Fever
+|format=
+|work=
+|accessdate=2010-03-13
+}}</ref> Satu-satunya makhluk yang ditunggangi virus ini adalah [[primata]] dan beberapa spesies [[nyamuk]]. Penyakit ini diyakini berasal dari Afrika, kemudian dari sana diperkenalkan ke Amerika Selatan melalui [[perdagangan budak]] pada abad ke-16. Sejak abad ke-17, beberapa [[Daftar epidemi|epidemi]] besar penyakit ini tercatat muncul di Amerika, Afrika dan Eropa. Pada abad ke-19, demam kuning dianggap sebagai salah satu [[penyakit menular]] paling berbahaya.<ref>{{cite book|last = Oldstone|first = Michael B. A.|title = Viruses, Plagues, and History|publisher = Oxford University Press|edition = 1st|year = 2000|isbn = 0195134222|pages= 45}}</ref>
+
+Demam kuning terjadi dalam rupa [[demam]], [[mual]] dan nyeri dan penyakit ini umumnya menghilang setelah beberapa hari. Pada beberapa pasien, fase beracunnya terjadi setelah itu, dan kerusakan hati dengan [[jaundis]] (penguningan kulit yang memberi nama penyakit ini) dapat terjadi dan mengakibatkan kematian. Karena kecenderungan pendarahan yang meningkat ([[diatesis pendarahan]]), demam kuning termasuk dalam kelompok [[demam hemorrhagik virus|demam hemorrhagik]]. [[Organisasi Kesehatan Dunia|WHO]] memperkirakan bahwa demam kuning mengakibatkan 200.000 korban sakit dan 30.000 kematian setiap tahunnya di daerah berpenduduk tanpa vaksin;<ref name="WHO_2001">{{cite web |title=Yellow fever fact sheet |work=WHOYellow fever |url=http://www.who.int/mediacentre/factsheets/fs100/en/ |accessdate=2006-04-18}}</ref> sekitar 90% infeksi terjadi di Afrika.<ref name="pmid19327647"/>
+
+[[Vaksin]] teraman dan efektif melawan demam kuning sudah ada sejak pertengahan abad ke-20 dan beberapa negara mensyaratkan vaksinasi untuk pelancong.<ref name=Sherris>{{cite book|author = Ryan KJ; Ray CG (editors)|title = Sherris Medical Microbiology|edition = 4th|publisher = McGraw Hill|year = 2004|isbn = 0-8385-8529-9 }}</ref> Karena belum ada terapi untuk penyakit ini, program vaksinasi ini, bersama peraturan mengurangi populasi nyamuk pengangkut virus, memiliki kepentingan besar di daerah-daerah terjangkit. Sejak 1980-an, jumlah kasus demam kuning terus meningkat dan menjadikannya sebagai ''penyakit yang bangkit kembali''.<ref name="pmid16913829">{{cite journal |author=Barrett AD, Higgs S |title=Yellow fever: a disease that has yet to be conquered |journal=Annu. Rev. Entomol. |volume=52 |issue= |pages=20929 |year=2007 |pmid=16913829 |doi=10.1146/annurev.ento.52.110405.091454 |url=}}</ref>
+
+== Catatan kaki ==
+{{Reflist|30em}}
+
+== Bacaan lanjutan ==
+*{{cite book|last=Espinosa|first=Mariola|title=Epidemic Invasions: Yellow Fever and the Limits of Cuban Independence, 18781930|year=2009|location=Chicago|publisher=University of Chicago Press|isbn=9780226218113 }}
+*{{cite book|last=Murphy|first=Jim|title=An American Plague: The True and Terrifying Story of the Yellow Fever Epidemic of 1793|year=2003|location=New York|publisher=Clarion Books|isbn=0395776082 }}
+*{{cite book|last=Nuwer|first=Deanne Stephens|title=Plague Among the Magnolias: The 1878 Yellow Fever Epidemic in Mississippi|location=|publisher=University of Alabama Press|year=2009|isbn=978-0-8173-1653-2 }}
+*{{cite book|last=Pierce|first=John R.|first2=James V.|last2=Writer|title=Yellow Jack: How Yellow Fever Ravaged America and Walter Reed Discovered Its Deadly Secrets|year=2005|location=Hoboken|publisher=Wiley|isbn=0471472611 }}
+
+== Pranala luar ==
+* {{DMOZ|Health/Conditions_and_Diseases/Infectious_Diseases/Viral/Hemorrhagic_Fevers/Yellow_Fever/}}
+
+[[Kategori:Penyakit tropikal]]
+[[Kategori:Senjata biologi]]

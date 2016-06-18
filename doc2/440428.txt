@@ -1,0 +1,4 @@
+Templat:SfnRef
+CITEREF{{#if:||{{anchorencode:{{{1|}}}}}}}{{#if:||{{anchorencode:{{{2|}}}}}}}{{#if:||{{anchorencode:{{{3|}}}}}}}{{#if:||{{anchorencode:{{{4|}}}}}}}{{#if:||{{anchorencode:{{{5|}}}}}}}<noinclude>
+{{documentation}}
+</noinclude>

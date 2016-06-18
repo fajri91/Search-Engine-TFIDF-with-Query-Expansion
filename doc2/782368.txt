@@ -1,0 +1,78 @@
+Kereta api Seminung
+{{Peringatan jadwal KA}}
+
+{{Kotak info jalur kereta api
+| box_width   = 
+| name        = Kereta api Seminung
+| color       = 
+| logo        = 
+| logo_width  = 
+| image       = KRD Seminung di Stasiun Gedungratu Oktober 2014.jpg
+| image_width = 300
+| caption     = KRD Seminung melintasi [[Stasiun Gedungratu]].
+| type = Ekonomi
+| system = Kereta api lokal
+| status = Beroperasi 
+| locale = Divre III Sumsel dan Lampung
+| start = [[Stasiun Tanjung Karang|Tanjung Karang]]
+| end = Kotabumi
+| stations = 12
+| routes = 1 
+| ridership = 
+| routenumber = S9-S10
+| linenumber =
+| open =  {{Start date and age|2010|01|13}}<ref>http://bola.kompas.com/read/2010/01/13/19560267/Lampung.Sediakan.Angkutan.Massal.Murah.dan.Nyaman.</ref><ref>http://dephub.go.id/welcome/readPost/lampung-kembangkan-perkeretaapian-9181/</ref>| close = 
+| reopen = 
+| owner = [[Kementerian Perhubungan Indonesia]]
+| operator = [[PT Kereta Api Indonesia]] [[Divisi Regional III Sumatera Selatan dan Lampung]]
+| character =
+| depot = Tanjungkarang (TNK)
+| stock = ''tak menggunakan lokomotif''
+| linelength = 86 km
+| tracklength = 
+| notrack = 
+| gauge = 1067 mm
+| el = 
+| speed = hingga 90 km/jam
+| elevation = 
+| map = 
+}}
+
+'''Kereta api Seminung''' adalah kereta api [[KRD]] yang beroperasi di Lampung dengan rute [[Stasiun Tanjungkarang]]-[[Stasiun Kotabumi]]. Kereta api ini hampir berhenti di setiap stasiun yang dilewati. Setiap harinya kereta api ini berjalan 2X sehari PP. Di rute yang sama terdapat [[kereta api Way Umpu]] dan berangkat pagi. Kereta api ini menggunakan jenis [[KRD]] buatan [[INKA]] yang merupakan bantuan dari [[Kementerian Perhubungan]] untuk menggantikan KRD Ruwa Jurai yang kini dalam status afkir.
+
+== Rincian Kereta==
+
+Kereta ini berangkat hanya sekali sehari dan berhenti di stasiun-stasiun sepanjang rute Stasiun Tanjungkarang-Stasiun Kotabumi, dengan set stamformasi sebagai berikut:
+# K3 3 09 09 (MEC1 berkabin masinis)
+# K3 3 09 10 (T)	
+# K3 3 09 11 (T)	
+# K3 3 09 12 (MEC2 berkabin masinis)
+
+== Jadwal Perjalanan ==
+
+[[Berkas:Seminung di Stasiun Branti Januari 2015.JPG|250px|jmpl|ki|KRD Seminung sedang berhenti luar biasa (BLB) di [[stasiun Branti]].]]
+
+'''''Mohon untuk mengubah tidak mengubah ringkasan jadwal ini! Karena sudah sesuai dengan GAPEKA 2015.<ref>http://www.kaskus.co.id/show_post/553a091dc3cb174e108b4567/4349/-</ref>'''''
+{| class="wikitable"
+! Stasiun !! Datang !! Berangkat
+|-
+!colspan=3|'''KA S10 Seminung 2 (Tanjungkarang-Kotabumi)'''
+|-
+| [[Stasiun Tanjung Karang|Tanjungkarang]] || - || 06.30
+|-
+| [[Stasiun Bekri|Bekri]] || 07.37 || 07.39
+|-
+| [[Stasiun Kotabumi|Kotabumi]] || 08.42 || -
+|-
+!colspan=3|'''KA S9 Seminung 1 (Kotabumi-Tanjungkarang)'''
+|-
+| [[Stasiun Kotabumi|Kotabumi]] || - || 10.35
+|-
+| [[Stasiun Bekri|Bekri]] || 11.37 || 11.39
+|-
+| [[Stasiun Tanjung Karang|Tanjungkarang]] || 12.49 || -
+|}
+
+{{Daftar Kereta Api}}
+
+[[Kategori:Kereta api di Indonesia|Seminung]]

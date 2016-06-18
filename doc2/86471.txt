@@ -1,0 +1,125 @@
+Templat:Kotakinfo Buku
+{{Infobox
+| italic title = {{{italic title|}}}
+| bodyclass = vcard
+| bodystyle = {{#if:{{{infoboxwidth|{{{width|}}}}}} |width:{{{infoboxwidth|{{{width}}}}}} }}
+
+<!---------------Title----------------->
+| titlestyle = font-style:italic;padding-bottom:0.2em<!--(so title doesn't touch border)-->;
+| title = <includeonly><!--
+ -->{{{name|{{PAGENAME}}}}} <!--
+ --><span class="Z3988"
+          title="ctx_ver=Z39.88-2004&rft_val_fmt={{urlencode:info:ofi/fmt:kev:mtx:book}}&rft.genre=book&rft.btitle={{urlencode:{{{name|}}}}}<!--
+                 -->{{#if:{{{author|}}}    |&rft.author={{urlencode:{{{author}}}}}}}<!--
+                 -->{{#if:{{{last|}}}      |&rft.aulast={{urlencode:{{{last}}}}}}}<!--
+                 -->{{#if:{{{first|}}}     |&rft.aufirst={{urlencode:{{{first}}}}}}}<!--
+                 -->{{#if:{{{pub_date|{{{release_date|}}}}}} |&rft.date={{urlencode:{{{pub_date|{{{release_date}}}}}}}}}}<!--
+                 -->{{#if:{{{publisher|}}} |&rft.pub={{urlencode:{{{publisher}}}}}}}<!--
+                 -->{{#if:{{{location|}}}  |&rft.place={{urlencode:{{{location}}}}}}}<!--
+                 -->{{#if:{{{pages|}}}     |&rft.pages={{urlencode:{{{pages}}}}}}}<!--
+                 -->{{#if:{{{series|}}}    |&rft.series={{urlencode:{{{series}}}}}}}<!--
+                 -->{{#if:{{{oclc|}}}      |&rft_id=info:oclcnum/{{{oclc}}}}}"><!--
+ --></span><!--
+       --></includeonly>
+
+<!---------------Image----------------->
+| image = {{#if:{{{image|}}} <!--
+   then:-->|   {{#ifeq:{{str left|{{{image|}}}|1}}|[ |[[Category:Infobox book image param needs updating]]}}<!--
+            -->{{#invoke:InfoboxImage|InfoboxImage |image={{{image|}}} |size={{{image_size|}}} |sizedefault=frameless |upright=1 |alt={{{alt|}}} |border={{{border|}}} |suppressplaceholder=yes}}<!--
+   else:-->| {{#ifeq:{{yesno|{{lc:{{{exclude_cover|no}}}}}}}|yes | |{{main other|[[Category:Books with missing cover]]}} }}
+          }}
+| caption = {{{caption|{{{image_caption|}}}}}}
+
+<!---------------Data------------------>
+| label1       = {{#if:{{{editors|}}}|Penyunting|Penyunting}}
+| data1        = {{{editors|{{{editor|}}}}}}
+| label2       = {{#if:{{{authors|}}}|Pengarang|Pengarang}}
+| data2        = {{{authors|{{{author|}}}}}}
+| label3       = Judul asli
+| data3        = {{#if:{{{title_orig|}}}|{{lang|{{{orig_lang_code|}}}|''{{{title_orig}}}''}}}}
+| label4       = Judul produksi
+| data4        = {{#if:{{{title_working|}}}|''{{{title_working}}}''}}
+| label5       = Penerjemah
+| data5        = {{{translator|}}}
+| label6       = Ilustrator
+| data6        = {{{illustrator|}}}
+| label7       = Perancang sampul
+| data7        = {{{cover_artist|}}}
+| label8       = Negara
+| data8        = {{{country|}}}
+| label9       = Bahasa
+| data9        = {{{language|}}}
+| label10      = Seri
+| data10       = {{{series|}}}
+| label11      = {{#if:{{{subjects|}}}|Subjek|Subjek}}
+| data11       = {{{subjects|{{{subject|}}}}}}
+| label12      = {{#if:{{{genres|}}}|Genre|Genre}}
+| data12       = {{{genres|{{{genre|}}}}}}
+| label13      = Diterbitkan
+| data13       = {{{published|}}}
+| label14      = Penerbit
+| data14       = {{{publisher|}}}{{#if:{{{publisher2|}}}|, {{{publisher2}}}}}
+| label15      = Tanggal rilis
+| data15       = {{{pub_date|{{{release_date|}}}}}}
+| label16      = Versi Inggris
+| data16       = {{{english_pub_date|{{{english_release_date|}}}}}}
+| label17      = Versi Indonesia
+| data17       = {{{indonesia_pub_date|{{{indonesia_release_date|}}}}}}
+| label18      = Jenis media
+| data18       = {{{media_type|}}}
+| label19      = Halaman
+| data19       = {{{pages|}}}
+| label20      = {{#if:{{{awards|}}}|Penghargaan|Penghargaan}}
+| data20       = {{{awards|{{{award|}}}}}}
+| label21      = [[Nomor Buku Standar Internasional|ISBN]]
+| data21       = {{#if:{{{isbn|{{{ISBN|}}}}}}|{{#iferror:{{#expr:{{{isbn|{{{ISBN}}}}}}}}|{{{isbn|{{{ISBN}}}}}}|[[Special:Booksources/{{{isbn|{{{ISBN}}}}}}|{{{isbn|{{{ISBN}}}}}}]]}}}}
+| label22      = Nomor [[OCLC]]
+| data22       = {{#if:{{{oclc|}}}|[http://worldcat.org/oclc/{{urlencode:{{{oclc}}}}} {{{oclc}}}]}}
+| label23      = [[Klasifikasi Desimal Dewey|Desimal Dewey]]
+| data23       = {{{dewey|}}}
+| label24      = [[Klasifikasi Perpustakaan Kongres|Klasifikasi LC]]
+| data24       = {{{congress|}}}
+| label25      = Didahului
+| data25       = {{#if:{{{preceded_by|}}}|''{{{preceded_by|}}}''|{{#if:{{{preceded_by_quotation_marks|}}}|"{{{preceded_by_quotation_marks|}}}"}}}}
+| label26      = Diikuti
+| data26       = {{#if:{{{followed_by|}}}|''{{{followed_by|}}}''|{{#if:{{{followed_by_quotation_marks|}}}|"{{{followed_by_quotation_marks|}}}"}}}}
+| label27      = Teks asli
+| data27       = {{#if:{{{native_wikisource|}}}|''{{lang|{{{orig_lang_code|}}}|[[s:{{#if:{{{orig_lang_code|}}}|{{{orig_lang_code|}}}:}}{{{native_wikisource|}}}|{{{title_orig|{{{name|{{PAGENAME}}}}}}}}]]}}'' at {{#ifeq:{{#language:{{{orig_lang_code}}}}}|{{{orig_lang_code}}}||{{Iso2lang|{{{orig_lang_code}}}}}}} [[Wikisource]]{{main other|[[Category:Artikel yang bertaut ke Wikisource bahasa asing]]}}<!--create hidden category to be monitored by Wikiproject:Wikisource-->|{{#if:{{{native_external_url|}}}|''{{lang|{{{orig_lang_code|}}}|[{{{native_external_url|}}} {{{title_orig|{{{name|{{PAGENAME}}}}}}}}]}}'' {{#if:{{{native_external_host|}}}|di {{{native_external_host|}}}|online}}}}}}
+| label28      = {{#if:{{{native_wikisource|}}}|Translation|{{#if:{{{native_external_url|}}}|Translation|Text}}}}
+| data28       = {{#if:{{{wikisource|}}}|''[[s:{{{wikisource|}}}|{{{name|{{PAGENAME}}}}}]]'' di {{#if:{{{native_wikisource|}}}|Wikisource|[[Wikisource]]}}{{main other|[[Category:Artikel yang bertaut ke Wikisource]]}}<!--create hidden category to be monitored by Wikiproject:Wikisource-->|{{#if:{{{external_url|}}}|''[{{{external_url|}}} {{{name|{{PAGENAME}}}}}]'' {{#if:{{{external_host|}}}|at {{{external_host|}}}|online}}}}}}}}<!-- tagging deprecated parameters -->{{main other|{{#if:{{{publisher|}}}|[[Category:Infobox book yang menggunakan parameter usang|1 {{PAGENAME}}]]}}{{#if:{{{publisher2|}}}|[[Category:Infobox book yang menggunakan parameter usang|2 {{PAGENAME}}]]}}{{#if:{{{pub_date|}}}|[[Category:Infobox book yang menggunakan parameter usang|p {{PAGENAME}}]]}}{{#if:{{{release_date|}}}|[[Category:Infobox book yang menggunakan parameter usang|r {{PAGENAME}}]]}}{{#if:{{{english_pub_date|}}}|[[Category:Infobox book yang menggunakan parameter usang|e {{PAGENAME}}]]}}{{#if:{{{english_release_date|}}}|[[Category:Infobox book yang menggunakan parameter usang|d {{PAGENAME}}]]}}}}<noinclude>
+{{documentation}}
+==Penggunaan==
+{| style="border: none; background: none;"
+| <pre>
+{{Kotakinfo Buku
+  | name          = 
+  | title_orig    = 
+  | translator    = 
+  | image         = 
+  | image_caption = 
+  | author        = 
+  | illustrator   = 
+  | cover_artist  = 
+  | country       = 
+  | language      = 
+  | series        = 
+  | subject       = 
+  | genre         = 
+  | publisher     = 
+  | release_date  = 
+  | english_release_date =
+  | timeline      =
+  | dedicated_to  =
+  | media_type    = 
+  | pages         = 
+  | size_weight   =
+  | size          =
+  | weight        =
+  | isbn          = 
+  | preceded_by   = 
+  | followed_by   = 
+}}
+</pre>
+|}
+[[Kategori:Templat kotak info buku| ]]
+</noinclude>

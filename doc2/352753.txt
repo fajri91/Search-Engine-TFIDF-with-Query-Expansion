@@ -1,0 +1,20 @@
+Templat:Passi Barat, Bolaang Mongondow
+{{Navigasi ID Desa |provinsi=Sulawesi Utara|dati2=Kabupaten |nama dati2=Bolaang Mongondow
+|nama kecamatan=Passi Barat
+|d1=Bintau
+|d2=Bulud
+|d3=Inuai
+|d4=Lobong
+|d5=Muntoi Induk
+|d6=Muntoi Timur
+|d7=Otam
+|d8=Passi 1
+|d9=Passi 2
+|d10=Poyuyanan
+|d11=Wangga
+}}<noinclude>
+== Pranala luar ==
+* [http://sirusa.bps.go.id/doc/MFD.pdf Daftar Sirusa BPS]
+[[Kategori:Templat desa/kelurahan di Sulawesi Utara|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Bolaang Mongondow|{{PAGENAME}}]]
+</noinclude>

@@ -1,0 +1,56 @@
+Dario imi
+{{Infobox football biography
+|name = Dario imi
+|fullname =
+|image =
+|birth_date  = {{Birth date and age|1975|11|12|df=yes}}
+|birth_place = [[Zagreb]], [[Yugoslavia]]
+|height = {{convert|1,80|m|ftin|abbr=on}}
+|position = [[Bek]]
+|currentclub = 
+|youthyears1 = 19871992 |youthclubs1 = [[NK Dinamo Zagreb|Dinamo Zagreb]]
+|years1 = 19921998 |clubs1 = [[NK Dinamo Zagreb|Croatia Zagreb]]           |caps1 = 140 |goals1 = 14
+|years2 = 19992002 |clubs2 = [[F.C. Internazionale Milano|Internazionale]] |caps2 = 66  |goals2 = 3
+|years3 = 20022008 |clubs3 = [[A.C. Milan|Milan]]                          |caps3 = 82  |goals3 = 1
+|years4 = 20082010 |clubs4 = [[AS Monaco FC|Monaco]]                       |caps4 = 27  |goals4 = 0
+|years5 = 2010      |clubs5 = [[NK Dinamo Zagreb|Dinamo Zagreb]]            |caps5 = 0   |goals5 = 0
+|totalcaps       = 315       |totalgoals  = 18
+|nationalyears1 = 1993 |nationalteam1 = {{timnasu|17|Kroasia}} |nationalcaps1 = 2 |nationalgoals1 = 0
+|nationalyears2 = 19931994 |nationalteam2 = {{timnasu|18|Kroasia}} |nationalcaps2 = 2 |nationalgoals2 = 0
+|nationalyears3 = 19931994 |nationalteam3 = {{timnasu|19|Kroasia}} |nationalcaps3 = 4 |nationalgoals3 = 0
+|nationalyears4 = 1995 |nationalteam4 = {{timnasu|20|Kroasia}} |nationalcaps4 = 1 |nationalgoals4 = 0
+|nationalyears5 = 19941996 |nationalteam5 = {{timnasu|21|Kroasia}} |nationalcaps5 = 8 |nationalgoals5 = 1
+|nationalyears6 = 19962008 |nationalteam6 = {{timnas|Kroasia}} |nationalcaps6 = 100 |nationalgoals6 = 3
+}}
+'''Dario imi''' ({{IPA-hr|dari imit}}, {{lahirmati|[[Zagreb]]|12|10|1975}}) adalah seorang mantan pemain [[sepak bola]] [[Kroasia]]. Ia berposisi sebagai ''sweeper'' atau bek tengah. Ia berpartisipasi di [[Euro 1996]], [[Euro 2004]], [[Euro 2008]], [[Piala Dunia 1998]], [[Piala Dunia 2002]], dan [[Piala Dunia 2006]].
+
+== Pranala luar ==
+
+*[http://www.dariosimic.com/ Official website]
+*{{FIFA player|155707|Dario imi}}
+*{{nfteams|1738}}
+*{{CFF player|106294}}
+*{{lfpfr2|id=simic-dario}}
+
+{{Navboxes colour
+|title = Skuat tim nasional
+ |bg          = white
+ |fg          = red
+ |bordercolor = red
+|list=
+{{Skuat Piala Eropa 1996 Kroasia}}
+{{Skuat PD1998 Kroasia}}
+{{Skuat PD2002 Kroasia}}
+{{Skuat Piala Eropa 2004 Kroasia}}
+{{Skuat PD2006 Kroasia}}
+{{Skuat PEropa 2008 Kroasia}}
+}}
+
+[[Kategori:Kelahiran 1975|imi, Dario]]
+[[Kategori:Pemain sepak bola Kroasia|imi, Dario]]
+[[Kategori:Pemain A.C. Milan]]
+[[Kategori:Pemain Kejuaraan Sepak Bola Eropa UEFA 2008]]
+[[Kategori:Pemain F.C. Internazionale Milano]]
+[[Kategori:Pemain AS Monaco FC]]
+
+{{pemain-sb-stub}}

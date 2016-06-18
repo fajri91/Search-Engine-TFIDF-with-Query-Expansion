@@ -1,0 +1,34 @@
+Australopithecus africanus
+{{Taxobox | name = ''Australopithecus africanus''
+| fossil_range = [[Pliocene]]
+| image = Mrs Ples.jpg
+| image_width = 250px
+| image_caption= 
+| regnum = [[Animalia]]
+| phylum = [[Chordata]]
+| classis = [[Mammal]]ia
+| ordo = [[Primate]]s
+| familia = [[Hominidae]]
+| genus = ''[[Australopithecus]]''
+| species = '''''A. africanus'''''
+| binomial = ''Australopithecus africanus''
+| binomial_authority = [[Raymond Dart|Dart]], 1925 <ref name="info"/>
+}}
+
+'''''Australopithecus africanus''''' spesies [[Hominidae|hominid]] awal, yang hidup sekitar 2-3 juta tahun yang lalu pada era [[Pliosen]].<ref>[http://www.mnh.si.edu/anthro/humanorigins/ha/a_tree.html Human Ancestors Hall: Tree<!-- Bot generated title -->]</ref> Sisa fosil menunjukan ''A. africanus'' lebih mirip manusia modern daripada ''[[Australopithecus afarensis]]''. ''A. africanus'' ditemukan di empat situs di Afrika Selatan - Taung (1924), Sterkfontein (1935), [[Makapansgat]] (1948) dan [[Gladysvale]] (1992).<ref name="info">[http://www.archaeologyinfo.com/australopithecusafricanus.htm Australopithecus africanus<!-- Bot generated title -->]</ref>
+[[Berkas:Australopithque Cerveau Double.jpg|left|thumb|Australopithecus africanus]]
+== Referensi ==
+{{reflist}}
+
+== Pranala luar ==
+{{Commonscat|Australopithecus africanus}}
+* [http://www.mnsu.edu/emuseum/biology/humanevolution/africanus.html MNSU]
+* [http://www.mnh.si.edu/anthro/humanorigins/ha/afri.html Smithsonian]
+* [http://www.handprint.com/LS/ANC/evol.html Handprint]
+* [http://www.maropeng.co.za Maropeng - The Cradle of Humankind] Official Website
+* [http://whc.unesco.org/pg.cfm?cid=31&id_site=915 UNESCO - Fossil Hominid Sites of Sterkfontein, Swartkrans, Kromdraai, and Environs]
+
+{{arkeologi-stub}}
+
+[[Kategori:Arkeologi Afrika]]
+[[Kategori:Evolusi manusia]]

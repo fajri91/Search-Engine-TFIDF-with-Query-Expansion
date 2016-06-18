@@ -1,0 +1,11 @@
+Templat:Wikivar
+<includeonly><!--
+ --><code style="{{#switch:{{{style|}}} |plain=border:none;background:transparent; |{{{style|}}} }}"><!--
+     --><nowiki>{{</nowiki><!--
+     -->{{if affirmed|{{{link}}} |[[WP:VAR|{{uc:{{{1}}}}}]] |{{uc:{{{1}}}}}}}<!--
+     -->{{#if:{{{2|}}}|<nowiki>:</nowiki>{{{2}}}}}<!--
+     --><nowiki>}}</nowiki><!--
+ --></code><!--
+--></includeonly><noinclude>
+{{Documentation}}
+</noinclude>

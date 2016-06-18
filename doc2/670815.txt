@@ -1,0 +1,15 @@
+Root (Android)
+Melakukan '''root''' adalah sebuah proses untuk mengizinkan pengguna ponsel pintar, tablet, dan piranti lain yang berjalan pada [[sistem operasi]] Android untuk mendapatkan kontrol yang lebih tinggi (dikenal dengan "akses ''root''") pada berbagai subsistem [[Android (sistem operasi|Android]]. Karena Android menggunakan [[kernel]] [[Linux]], proses ini memberikan akses ke dalam hak administratif seperti pada Linux atau sistem operasi yang mirip dengan Linux, seperti [[FreeBSD]] atau [[OS X]].
+
+Proses melakukan root ini dilakukan untuk mendapatkan hak akses lebih tinggi yang dibatasi oleh pabrik perangkat lunak pada beberapa piranti. Oleh karena itu, proses ini akan memberikan keleluasaan (atau hak akses) untuk mengganti aplikasi sistem dan pengaturannya, menjalankan aplikasi khusus yang membutuhkan izin administrator, atau menjalankan operasi lainnya yang tidak dapat dilakukan oleh pengguna Android biasa. Pada Android, proses melakukan root juga membantu penghapusan dan pengganti sistem operasi piranti secara penuh, umumnya dengan rilis terbaru dari sistem operasi tersebut.
+
+Akses root kadang kala dibandingkan pula dengan perangkat ''[[jailbreak]]'' yang berjalan pada sistem operasi [[Apple iOS]]. Namun, terdapat beberapa konsep: ''jailbreak'' adalah melewati beberapa jenis larangan yang dibuat oleh Apple kepada pengguna akhir piranti tersebut, termasuk mengubah sistem operasinya (dipaksakan oleh sebuah "''locked bootloader''"), memasang aplikasi yang tidak resmi diakui oleh Apple melalui pemasangan yang tidak biasa, dan memberikan hak akses lebih tinggi kepada pengguna. Hanya sedikit piranti Android yang mengunci ''bootloader'' mereka, dan sebagian penyedia seperti HTC,<ref name="htcdev.com - HTCdev - Unlock Boot">{{Cite web |title=HTCdev - Unlock Bootloader |trans-title= |author= |work=htcdev.com |date= |accessdate={{date|2016-03-18}} |url=http://www.htcdev.com/bootloader |language=bahasa Inggris |quote= |archivedate= |archiveurl= |dead-url=no}}</ref> Sony,<ref name="developer.sonymobile.com - Unlockbootloader - D">{{Cite web |title=Unlockbootloader - Developer World |trans-title= |author= |work=developer.sonymobile.com |date= |accessdate={{date|2016-03-18}} |url=http://developer.sonymobile.com/unlockbootloader/#Sony |language=bahasa Inggris |quote= |archivedate= |archiveurl= |dead-url=no}}</ref> ASUS dan Google secara terbuka menyatakan bahwa mereka memberikan kemampuan kepada pengguna untuk membuka kunci perangkatnya, dan bahkan mengganti sistem operasi secara penuh. Sama halnya dengan kemampuan untuk memasang aplikasi dengan langkah yang tidak umum biasanya diizinkan pada perangkat Android tanpa membutuhkan hak akses root.
+
+Bukaknya gimanaa?
+
+== Referensi ==
+{{reflist}}
+
+{{Android}}
+
+[[Kategori:Android (sistem operasi)]]

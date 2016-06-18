@@ -1,0 +1,6 @@
+Templat:Lang-fry
+{{Language with name|fry|Frisia Barat|''{{{1}}}''}}<noinclude>
+{{PP-template|small=yes}}
+{{Documentation|Template:Lang-x/doc}}
+[[Category:Templat bahasa]]
+</noinclude>

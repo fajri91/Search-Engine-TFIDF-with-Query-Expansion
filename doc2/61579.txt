@@ -1,0 +1,6 @@
+Keterkaitan kuantum
+'''Keterkaitan kuantum''' adalah fenomena [[mekanika kuantum]] dimana kuantum menyatakan bahwa dua atau lebih objek harus dideskripsikan dengan referensi antar objek, meskipun objek-objek tersebut tidaklah berkaitan secara spasial. Hal ini mengarah pada korelasi antara atribut fisik objek yang dapat diamati dari suatu sistem. Contohnya, adalah mungkin untuk menyiapkan 2 partikel dalam satu kondisi kuantum seperti ketika yang satu diteliti adalah "spin up" maka yang satunya adalah "spin down" dan begitu pula seterusnya.
+
+{{komputer-stub}}
+
+[[Kategori:Mekanika kuantum]]

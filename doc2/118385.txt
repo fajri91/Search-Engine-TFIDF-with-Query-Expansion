@@ -1,0 +1,148 @@
+Bandar Udara Internasional Phuket
+{{Infobox airport 
+| name         = Phuket International Airport
+| nativename   =  <!--add how to say-->
+| image        = Aerial view phuket international airport.jpg
+| IATA         = HKT
+| ICAO         = VTSP
+<center>{{Location map|Thailand|width=200|float=center
+|caption=|mark=Airplane_silhouette.svg|marksize=10
+|label=HKT|position=right
+|lat_deg=08|lat_min=06|lat_sec=48|lat_dir=N
+|lon_deg=98|lon_min=19|lon_sec=01|lon_dir=E
+}}<small>Location of airport in Thailand</small></center>
+| type         = Public
+| owner        = 
+| operator     = [[Airports of Thailand]] (A.O.T.)
+| city-served  = 
+| location     = [[Thalang District|Amphoe Thalang]], [[Phuket Province|Phuket]], [[Thailand]]
+| hub          = [[Thai AirAsia]]
+| elevation-f  = 82
+| elevation-m  = 25
+| coordinates  = {{Coord|08|06|48|N|098|19|01|E|region:TH_type:airport}}
+| website      = Phuket Airport Website [http://www.airportthai.co.th/phuket/th/home.php]
+| metric-elev  = yes
+| metric-rwy   = yes
+| r1-number    = 09/27
+| r1-length-f  = 9,843
+| r1-length-m  = 3,000
+| r1-surface   = [[Aspal]]
+| footnotes    = Sources: Airport web site<ref>[http://www.phuketairportonline.com Phuket International Airport], official web site</ref> and [[DAFIF]]<ref name=WAD>{{WAD|VTSP|source=[[DAFIF]]}}</ref><ref name=GCM>{{GCM|HKT|source=[[DAFIF]]}}</ref>
+| stat-year    = 2011
+| stat1-header = Passengers
+| stat1-data   = 8,467,860
+| stat2-header = Aircraft operations
+| stat2-data   = 56,673
+| footnotes    = Sources: Airports of Thailand<ref>[http://www.airportthai.co.th/th/irweb/thai/investor_th.html], AOT Investors Site | accessdate = 2012-01-13</ref>}}
+
+'''Bandar Udara Internasional Phuket''' ({{lang-th|}}) {{airport codes|HKT|VTSP}} merupakan sebuah [[bandar udara]] yang terletak di pulau wisata [[Phuket]], [[Thailand]].
+
+Bandar Udara Phuket merupakan bandar udara tersibuk pertama di Thailand berdasarkan jumlah penumpang bukan kargo, setelah [[Bandar Udara Suvarnabhumi]] di [[Bangkok]]. Bandar udara ini terletak di timur [[Pulau Phuket]], 32 [[mil]] dari pusat [[Phuket City]]. Struktur ini sangat berperan dalam industri pariwisata Thailand, di mana Bucket Island menjadi resor paling populer.
+
+== Insiden dan Kecelakaan ==
+* [[15 April]] [[1985]]: Sebuah Thai Airways [[Boeing 737]]-2P5 jatuh, menewaskan 11 penumpang. Awak kabin telah memberitahu ATC bahwa kedua mesin terbakar. Tidak ditemukan penyebab matinya mesin pesawat.<ref>{{Cite news|title = AirDisaster.Com Accident Database|url = http://www.airdisaster.com/cgi-bin/view_details.cgi?date=04151985&reg=HS-TBB&airline=Thai+Airways|accessdate = 2007-09-18}}</ref>
+
+* [[31 Agustus]] [[1987]]: [[Thai Airways Penerbangan 365]] jatuh ke laut sebelum melakukan pendaratan, menewaskan 83 penumpangnya. Investigasi menyimpulkan awak kabin sebagai penyebab utama.<ref>{{Cite news|title = AirDisaster.Com Accident Database |url = http://www.airdisaster.com/cgi-bin/view_details.cgi?date=08311987&reg=HS-TBC&airline=Thai+Airways|accessdate = 2007-09-18}}</ref>
+
+<div style="width:80%;">
+</div>
+{{Wikinews|At least 89 dead in Phuket, Thailand air crash}}
+* [[16 September]] [[2007]]: [[One-Two-GO Airlines Penerbangan 269]] pada penerbangan dari Bangkok-Don Muang, jatuh setelah menghantam keras landasan ketika mendarat dalam keadaan hujan lebat dan angin kencang. MD-82 tersebut tergelincir di landasan, terbelah dua, dan meledak setelah pilot melakukan go-around sebelum pendaratan. Terdapat 123 penumpang dan 7 awak kabin di dalamnya, 89 tewas dan 41 terluka.
+
+== Maskapai Penerbangan dan Kota Tujuan ==
+=== Maskapai Internasional ===
+[[Berkas:Phuketinternationalentrance2.png|thumb|right|250px|Papan selamat datang di Bandar Udara Internasional Phuket]]
+[[Berkas:Thai Airways B747-400 HS-TGZ Phuket.jpg|thumb|[[Thai Airways International]] [[Boeing 747-400]]]]
+[[Berkas:Phuket Airport.jpg|thumb|Phuket Internainal Airport]]
+{{Airport-dest-list | 3rdcoltitle = Terminal
+|[[Aeroflot]]| '''Seasonal''': Moscow-Sheremetyevo | 1
+|[[Air Berlin]]|Abu Dhabi | 1
+|[[Air China]]|Beijing-Capital | 1
+|[[AirAsia]]|Kuala Lumpur | 1
+|[[Asiana Airlines]] | Seoul-Incheon|1
+|[[Bangkok Airways]]|Bangkok-Suvarnabhumi, Koh Samui, Pattaya-U-Tapao| 2
+|[[Blue Panorama Airlines]]| Milan-Malpensa, Rome-Fiumicino | 1
+|[[Business Air]]|Busan, Seoul-Incheon | 1
+|[[China Airlines]]|Taipei-Taoyuan | 1
+|[[China Eastern Airlines]]|Kunming| 1
+|[[China Southern Airlines]]|Guangzhou | 1
+|[[Condor Flugdienst]]|'''Seasonal''': Frankfurt | 1
+|[[Dragonair]]|Hong Kong | 1
+|[[Eastar Jet]] |Seoul-Incheon| 1
+|[[Edelweiss Air]]|Zrich | 1
+|[[Finnair]]| '''Seasonal''': Helsinki | 1
+|[[Firefly (airline)|Firefly]]|Penang | 1
+|[[Hainan Airlines]]|Beijing-Capital, Haikou, Hangzhou, Nanning, Sanya | 1
+|[[Happy Air]]|Bangkok-Don Mueang, Hat Yai, Hua Hin| 2
+|[[Indonesia AirAsia]]|Jakarta-Soekarno-Hatta | 1
+|[[Jetairfly]]|'''Seasonal''': Brussels |1
+|[[Jetstar Airways]]|Sydney | 1
+|[[Jetstar Asia Airways]]| Singapore | 1 
+|[[I-Fly]]|Moscow-Vnukovo, Krasnodar | 1
+|[[Korean Air]]|Seoul-Incheon | 1
+|[[Malaysia Airlines]]|Kuala Lumpur | 1
+|[[Mahan Air]]|Tehran-Imam Khomeini|1
+|[[Nok Air]]|Bangkok-Don Mueang | 2
+|[[Nordwind Airlines]]|Novosibirsk, Krasnoyarsk, Irkutsk | 1
+|[[Novair]]|'''Seasonal charter''': Stockholm-Arlanda | 1
+|[[Orient Thai Airlines]]|Bangkok-Don Mueang | 2
+|[[Qatar Airways]]|Doha, Kuala Lumpur | 1
+|[[Rossiya]]|'''Seasonal''': Saint-Petersburg | 1
+|[[S7 Airlines]]|Irkutsk, Novosibirsk, Khabarovsk, Vladivostok | 1
+|[[Shanghai Airlines]]|Shanghai-Pudong | 1
+|[[Sichuan Airlines]]|Chengdu, Chongqing | 1
+|[[SilkAir]]| Singapore | 1
+|[[Thai AirAsia]]|Denpasar/Bali, Hong Kong, Singapore | 1
+|[[Thai AirAsia]]|Bangkok-Suvarnabhumi, Chiang Mai, Ubon Ratchathani, Udon Thani | 2
+|[[Thai Airways International]]| Hong Kong, Perth, Seoul-Incheon <br> '''Seasonal:''' Copenhagen | 1
+|[[Thai Airways International]]|Bangkok-Suvarnabhumi, Chiang Mai [ends 1 August 2012] | 2 
+|[[Thai Smile]]| Chiang Mai [begins 1 August 2012] | 2
+|[[Thomas Cook Airlines Scandinavia]]|'''Charter''': Copenhagen, Gothenburg-Landvetter, Oslo-Gardermoen, Stockholm-Arlanda | 1
+|[[Tiger Airways]]|Singapore | 1
+|[[Transaero Airlines]]|Ekaterinburg, Moscow-Domodedovo, Saint-Petersburg <br> '''Seasonal:''' Moscow-Sheremetyevo | 1
+|[[Travel Service Hungary]]|'''Seasonal''': Budapest, Prague | 1
+|[[TUIfly Nordic]]|'''Charter''': Bergen, Billund, Copenhagen, Gothenburg-Landvetter, Oslo-Gardermoen, Malm,  Stockholm-Arlanda | 1
+|[[UTair Aviation]]|'''Charter:''' Kazan, Rostov-on-Don, Samara, Ufa, Yekaterinburg | 1
+|[[Virgin Australia]]|Perth | 1
+|[[XL Airways France]]|'''Seasonal''': Paris-Charles De Gaulle | 1
+}}
+
+=== Maskapai Charter Internasional ===
+[[Berkas:Phuket internation from air.jpg|thumb|right|250px|Foto udara Bandar Udara Internasional Phuket]]
+* [[Belair]] (Zurich)
+* [[Finnair]] (Helsinki, Oulu [charter])
+* [[MyTravel]] (Oslo, Stockholm-Arlanda, Copenhagen - Charter)
+* [[Novair]] (Stockholm-Arlanda, Copenhagen, Malm, Gothenburg [charter])
+* [[Thomsonfly]] (London-Gatwick, Manchester)
+* [[TransAsia Airways]] (Taipei-Taoyuan [charter])
+* [[Travel Service (Republik Ceko)]] (Prague [charter])
+* [[TUIfly Nordic]] (Stockholm-Arlanda [charter])
+
+=== Maskapai Domestik ===
+* [[AirAsia]]
+** [[Thai AirAsia]] (Bangkok-Suvarnabhumi)
+* [[Bangkok Airways]] (Bangkok-Suvarnabhumi, Chiang Mai, Pattaya-Utapao, Samui)
+* [[One-Two-GO Airlines]] (Bangkok-Don Muand, Bangkok-Suvarnabhumi<ref>http://www.bangkokpost.com/Business/03Sep2007_biz33.php</ref>)
+* [[Thai Airways International]] (Bangkok-Don Muang, Bangkok-Suvarnabhumi, Chiang Maig [kedatangan])
+* [[Nok Air]] (Bangkok-Don Muang)
+
+== Galeri ==
+<gallery>
+Image:Phuketinternationalentrance2.png|Welcome sign
+Image:One-Two-GO Airlines HS-UTK.jpg|[[One-Two-GO Airlines]] HS-UTK 
+Image:Phuket international airport runway.jpg|Runway
+Image:Aerial view phuket international airport.jpg|Aerial view
+Image:Phuket international airport tower.jpg|Control tower
+Image:Plane takeoff at phuket international airport.jpg|Plane landing
+</gallery>
+
+== Referensi ==
+{{reflist}}
+
+== Pranala luar ==
+* [http://www.airportthai.co.th/airportnew/phuket/ Website Resmi Bandar Udara Internasional Phuket]
+* {{WAD|VTSP}}
+
+{{Bandar Udara Thailand}}
+
+[[Kategori:Bandar udara di Thailand|P]]

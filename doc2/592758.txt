@@ -1,0 +1,35 @@
+Houshenzinus rimosus
+{{Taxobox
+|name = Houshenzinus rimosus
+|status = 
+|image = 
+|image_caption = 
+|domain = 
+|regnum = [[Animalia]]
+|phylum = [[Arthropoda]]
+|classis = [[Arachnida]]
+|ordo = [[Araneae]]
+|familia = [[Linyphiidae]]
+|genus =Houshenzinus
+|species = Houshenzinus rimosus
+|binomial = Houshenzinus rimosus
+|binomial_authority =Tanasevitch, 2006
+|range_map = 
+|range_map_caption = 
+|image2 = 
+|image2_caption = 
+|synonyms = 
+}}
+'''''Houshenzinus rimosus''''' adalah spesies [[laba-laba]] yang tergolong [[familia]] [[Linyphiidae]]. Spesies ini juga merupakan bagian dari ordo [[Araneae]]. Nama ilmiah dari spesies ini pertama kali diterbitkan pada tahun 2006 oleh Tanasevitch.
+
+Laba-laba ini biasanya banyak ditemui di Cina.
+
+== Referensi ==
+
+* Platnick, Norman I. (2010): [http://research.amnh.org/entomology/spiders/catalog/LINYPHIIDAE.html The world spider catalog], version 10.5. ''American Museum of Natural History''.
+
+{{DEFAULTSORT:Houshenzinus rimosus}}
+
+[[Kategori:Linyphiidae]]
+
+{{labalaba-stub}}

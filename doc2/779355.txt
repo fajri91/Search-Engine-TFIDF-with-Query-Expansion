@@ -1,0 +1,23 @@
+Stasiun Malasan/layout
+{|align=center
+{{BS-table1}}
+{{BS|CONTg|Ke [[Stasiun Ranuyoso|Ranuyoso]]}}
+{{BS3||ABZg2|STRc3|}}
+{{BS3||STR+c1|STR+4|}}
+{{BS3||STR|STR|}}
+{{BS3||STR|STR|}}
+{{BS3||STR+BSl|STR+BSlr|}}
+{{BS5|||STR+BSl|STR+BSlr|BUILDING|O3=num2l|O4=num1l}}
+{{BS3|STRc2|STR+BSl|STR+BSlr|O2=ABZg3}}
+{{BS3|STR+1|STR+c4|STR|}}
+{{BS3|STR|STR+c2|STR3|}}
+{{BS3|STR|ABZg+1|STRc4|}}
+{{BS3|STR|STR||}}
+{{BS3|ENDEf|STR||}}
+{{BS|CONTf|Ke [[Stasiun Leces|Leces]]}}
+|}
+|}
+
+<noinclude>
+[[Kategori:Layout stasiun|Malasan]]
+</noinclude>

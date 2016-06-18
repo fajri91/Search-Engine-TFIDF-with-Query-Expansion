@@ -1,0 +1,14 @@
+Berkas:Wdadu2004cd.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+Sumber:http://www.discogs.com/Dream-Theater-Official-Bootleg-When-Dream-And-Day-Reunite/release/1395635
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{SampulAlbum}}

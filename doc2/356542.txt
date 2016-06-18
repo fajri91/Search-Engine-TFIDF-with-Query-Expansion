@@ -1,0 +1,15 @@
+Templat:Country flag IOC alias SEY
+{{ #switch: {{{1}}}
+| 1980 Summer
+| 1984 Summer
+| 1992 Summer = Flag of the Seychelles 1977.svg
+| #default = Flag of the Seychelles.svg
+}}<noinclude>
+[[Image:{{ #switch: {{{1}}}
+| 1980 Summer
+| 1984 Summer
+| 1992 Summer = Flag of the Seychelles 1977.svg
+| #default = Flag of the Seychelles.svg
+}}|thumb]]
+[[Kategori:Templat alias bendera negara IOC|SEY]]
+</noinclude>

@@ -1,0 +1,73 @@
+Templat:KPD 2018 UEFA B
+{|
+|-
+|
+{{fb cl2 header navbar}}
+{{fb cl2 team|t={{fb|POR}} |w=0 |d=0 |l=0 |gf=0 |ga=0 |bc=#ccffcc}}
+{{fb cl2 team|t={{fb|SWI}} |w=0 |d=0 |l=0 |gf=0 |ga=0 |bc=#ccccff}}
+{{fb cl2 team|t={{fb|HUN}} |w=0 |d=0 |l=0 |gf=0 |ga=0}}
+{{fb cl2 team|t={{fb|FRO|name=Pulau Faroe}} |w=0 |d=0 |l=0 |gf=0 |ga=0}}
+{{fb cl2 team|t={{fb|LVA}} |w=0 |d=0 |l=0 |gf=0 |ga=0}}
+{{fb cl2 team|t={{fb|AND}} |w=0 |d=0 |l=0 |gf=0 |ga=0}}
+|}
+|
+{| class="wikitable" style="text-align:center"
+|-
+!width=30|&nbsp;
+!width=90|{{flagicon|POR}}
+!width=90|{{flagicon|SWI}}
+!width=90|{{flagicon|HUN}}
+!width=90|{{flagicon|FRO}}
+!width=90|{{flagicon|LVA}}
+!width=90|{{flagicon|AND}}
+|-
+!{{flagicon|POR}}
+!
+|[[Grup B Kualifikasi Piala Dunia FIFA 2018  Zona Eropa#POR vs SWI|{{small|10 Okt '17}}]]
+|[[Grup B Kualifikasi Piala Dunia FIFA 2018  Zona Eropa#POR vs HUN|{{small|25 Mar '17}}]]
+|[[Grup B Kualifikasi Piala Dunia FIFA 2018  Zona Eropa#POR vs FRO|{{small|31 Ags '17}}]]
+|[[Grup B Kualifikasi Piala Dunia FIFA 2018  Zona Eropa#POR vs LVA|{{small|13 Nov '16}}]]
+|[[Grup B Kualifikasi Piala Dunia FIFA 2018  Zona Eropa#POR vs AND|{{small|7 Okt '16}}]]
+|-
+!{{flagicon|SWI}}
+|[[Grup B Kualifikasi Piala Dunia FIFA 2018  Zona Eropa#SWI vs POR|{{small|6 Sep '16}}]]
+!
+|[[Grup B Kualifikasi Piala Dunia FIFA 2018  Zona Eropa#SWI vs HUN|{{small|7 Okt '17}}]]
+|[[Grup B Kualifikasi Piala Dunia FIFA 2018  Zona Eropa#SWI vs FRO|{{small|13 Nov '16}}]]
+|[[Grup B Kualifikasi Piala Dunia FIFA 2018  Zona Eropa#SWI vs LVA|{{small|25 Mar '17}}]]
+|[[Grup B Kualifikasi Piala Dunia FIFA 2018  Zona Eropa#SWI vs AND|{{small|31 Ags '17}}]]
+|-
+!{{flagicon|HUN}}
+|[[Grup B Kualifikasi Piala Dunia FIFA 2018  Zona Eropa#HUN vs POR|{{small|3 Sep '17}}]]
+|[[Grup B Kualifikasi Piala Dunia FIFA 2018  Zona Eropa#HUN vs SWI|{{small|7 Okt '16}}]]
+!
+|[[Grup B Kualifikasi Piala Dunia FIFA 2018  Zona Eropa#HUN vs FRO|{{small|10 Okt '17}}]]
+|[[Grup B Kualifikasi Piala Dunia FIFA 2018  Zona Eropa#HUN vs LVA|{{small|31 Ags '17}}]]
+|[[Grup B Kualifikasi Piala Dunia FIFA 2018  Zona Eropa#HUN vs AND|{{small|13 Nov '16}}]]
+|-
+!{{flagicon|FRO}}
+|[[Grup B Kualifikasi Piala Dunia FIFA 2018  Zona Eropa#FRO vs POR|{{small|10 Okt '16}}]]
+|[[Grup B Kualifikasi Piala Dunia FIFA 2018  Zona Eropa#FRO vs SWI|{{small|9 Jun '17}}]]
+|[[Grup B Kualifikasi Piala Dunia FIFA 2018  Zona Eropa#FRO vs HUN|{{small|6 Sep '16}}]]
+!
+|[[Grup B Kualifikasi Piala Dunia FIFA 2018  Zona Eropa#FRO vs LVA|{{small|7 Okt '17}}]]
+|[[Grup B Kualifikasi Piala Dunia FIFA 2018  Zona Eropa#FRO vs AND|{{small|3 Sep '17}}]]
+|-
+!{{flagicon|LVA}}
+|[[Grup B Kualifikasi Piala Dunia FIFA 2018  Zona Eropa#LVA vs POR|{{small|9 Jun '17}}]]
+|[[Grup B Kualifikasi Piala Dunia FIFA 2018  Zona Eropa#LVA vs SWI|{{small|3 Sep '17}}]]
+|[[Grup B Kualifikasi Piala Dunia FIFA 2018  Zona Eropa#LVA vs HUN|{{small|10 Okt '16}}]]
+|[[Grup B Kualifikasi Piala Dunia FIFA 2018  Zona Eropa#LVA vs FRO|{{small|7 Okt '16}}]]
+!
+|[[Grup B Kualifikasi Piala Dunia FIFA 2018  Zona Eropa#LVA vs AND|{{small|10 Okt '17}}]]
+|-
+!{{flagicon|AND}}
+|[[Grup B Kualifikasi Piala Dunia FIFA 2018  Zona Eropa#AND vs POR|{{small|7 Okt '17}}]]
+|[[Grup B Kualifikasi Piala Dunia FIFA 2018  Zona Eropa#AND vs SWI|{{small|10 Okt '16}}]]
+|[[Grup B Kualifikasi Piala Dunia FIFA 2018  Zona Eropa#AND vs HUN|{{small|9 Jun '17}}]]
+|[[Grup B Kualifikasi Piala Dunia FIFA 2018  Zona Eropa#AND vs FRO|{{small|25 Mar '17}}]]
+|[[Grup B Kualifikasi Piala Dunia FIFA 2018  Zona Eropa#AND vs LVA|{{small|6 Sep '16}}]]
+!
+|}
+|}
+Pertandingan pertama dimainkan tanggal 6 September 2016. Sumber: [http://www.fifa.com/worldcup/preliminaries/europe/index.html#2000062534 FIFA]{{br}}

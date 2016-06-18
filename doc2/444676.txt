@@ -1,0 +1,58 @@
+Collaborative learning-work
+'''Collaborative learning''' atau '''pembelajaran kolaboratif''' adalah situasi dimana terdapat dua atau lebih orang belajar atau berusaha untuk belajar sesuatu secara bersama-sama. <ref name="Dillenbourg">Dillenbourg, P. (1999). Collaborative Learning: Cognitive and Computational Approaches. Advances in Learning and Instruction Series. New York, NY: Elsevier Science, Inc.</ref> Tidak seperti belajar sendirian, orang yang terlibat dalam collaborative learning memanfaatkan sumber daya dan keterampilan satu sama lain (meminta informasi satu sama lain, mengevaluasi ide-ide satu sama lain, memantau pekerjaan satu sama lain, dll).<ref>Chiu, M. M. (2000). [http://www.gse.buffalo.edu/fas/chiu/pdf/Group_Problem_Solving_Processes.pdf Group problem solving processes: Social interactions and individual actions]. Journal for the Theory of Social Behavior, 30, 1, 27-50.600-631.</ref><ref name="Chiu"> Chiu, M. M. (2008).[http://www.gse.buffalo.edu/fas/chiu/pdf/Flowing_Toward_Correct_Contributions.pdf Flowing toward correct contributions during groups' mathematics problem solving]: A statistical discourse analysis. Journal of the Learning Sciences, 17 (3), 415 - 463.</ref> Lebih khusus, collaborative learning didasarkan pada model di mana pengetahuan dapat dibuat dalam suatu populasi di mana anggotanya secara aktif berinteraksi dengan berbagi pengalaman dan mengambil peran asimetri (berbeda).<ref name="Mitkin">Mitnik, R., Recabarren, M., Nussbaum, M., & Soto, A. (2009). Collaborative Robotic Instruction: A Graph Teaching Experience. Computers & Education, 53(2), 330-342.</ref> Dengan kata lain, [[Collaboration|collaborative]] learning mengacu pada [[Metode Collaborative|lingkungan dan metodologi]] kegiatan peserta didik melakukan tugas umum di mana setiap individu tergantung dan bertanggung jawab satu sama lain. Hl ini juga termasuk percakapan dengan tatap muka <ref> Chiu, M. M. (2008). [http://www.gse.buffalo.edu/fas/chiu/pdf/Effects_of_Argumentation.pdf Effects of argumentation on group micro-creativity]. Contemporary Educational Psychology, 33, 383  402. </ref> dan diskusi dengan komputer (forum online, chat rooms, dll.).<ref name="Chen"> Chen, G., & Chiu, M. M. (2008). [http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6VCJ-4M1D9XR-1&_user=10&_coverDate=04%2F30%2F2008&_rdoc=1&_fmt=high&_orig=gateway&_origin=gateway&_sort=d&_docanchor=&view=c&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=106b5f322c6eb07d9ef45bd827448f6b&searchtype=a Online discussion processes]. Computers and Education, 50, 678  692. </ref> Metode untuk memeriksa proses collaborative learning meliputi analisis percakapan dan analisis wacana statistik. <ref>Chiu, M. M., & Khoo, L. (2005). [http://www.gse.buffalo.edu/fas/chiu/pdf/Group_Problem_Solving_Processes.pdf A new method for analyzing sequential processes]: Dynamic multi-level analysis. Small Group Research, 36, 600-631.</ref> 
+
+Collaborative learning ini sangat berakar dalam pandangan Vygotsky bahwa ada sebuah sifat sosial yang melekat pada pembelajaran, yang tercermin melalui teorinya tentang zona pengembangan proksimal. Sering kali, pembelajaran kolaboratif digunakan sebagai istilah umum untuk berbagai pendekatan dalam pendidikan itu. melibatkan upaya intelektual bersama oleh siswa atau siswa dan guru. Dengan demikian, pembelajaran kolaboratif umumnya berlangsung ketika kelompok siswa bekerja sama untuk mencari pengertian, makna, atau solusi untuk membuat sebuah artefak atau produk pembelajaran mereka. Lebih jauh, pembelajaran kolaboratif yang mengubah hubungan tradisional murid-guru di kelas ini, menghasilkan kontroversi mengenai apakah paradigma ini lebih bermanfaat daripada merugikan. Kegiatan belajar secara kolaboratif dapat mencakup penulisan kolaboratif, proyek kelompok, pemecahan masalah secara bersama, debat, studi tim, dan kegiatan lainnya. Pendekatan ini terkait erat dengan pembelajaran kooperatif.
+
+== Contoh Pembelajaran Kolaboratif ==
+* Collaborative Networked Learning adalah suatu bentuk pembelajaran kolaboratif untuk para pembelajar dewasa mandiri. Menurut Findley (1987) " Collaborative Networked Learning (CNL) pembelajaran yang terjadi melalui dialog elektronik antara co-learner, leaner (peserta didik), dan para pakar yang masing-masing memegang kendali atas dirinya sendiri. Peserta didik memiliki sebuah tujuan bersama, tergantung pada satu sama lain dan bertanggung jawab kepada satu sama lain untuk keberhasilan mereka. CNL terjadi dalam kelompok interaktif di mana peserta secara aktif berkomunikasi dan bernegosiasi makna satu sama lain dalam kerangka kontekstual, dapat difasilitasi oleh seorang mentor, pelatih online atau pemimpin kelompok. " Pada 1980-an Charles almarhum Dr A. Findley memimpin proyek Collaborative Networked Learning di Digital Equipment Corporation di Pantai Timur Amerika Serikat. Pada proyek Findley, dilakukan analisis kecenderungan dan dikembangkan prototipe dari lingkungan belajar kolaboratif, yang menjadi dasar untuk mereka lebih lanjut penelitian dan pengembangan apa yang mereka sebut Collaborative Networked Learning (CNL),
+
+* [[Computer Supported Cooperative Learning|Computer-supported collaborative learning]] (CSCL) merupakan paradigma pendidikan yang relatif baru dalam pembelajaran kolaboratif yang menggunakan teknologi dalam lingkungan pembelajaran untuk membantu menengahi dan mendukung interaksi kelompok dalam konteks pembelajaran kolaboratif. Sistem CSCL menggunakan teknologi untuk mengontrol dan memonitor interaksi, untuk mengatur tugas, aturan, peran, dan untuk menengahi perolehan pengetahuan baru. Baru-baru ini, ada sebuah studi yang menunjukkan bahwa penggunaan robot di dalam kelas untuk meningkatkan pembelajaran kolaboratif menyebabkan peningkatan efektivitas belajar dari kegiatan dan peningkatan motivasi siswa. Para peneliti dan praktisi di beberapa bidang, termasuk ilmu kognitif, sosiologi, teknik komputer telah mulai menyelidiki CSCL. Dengan demikian, bahkan CSCL dapat menjadi bidang trans-disiplin yang baru.
+
+* [[Learning Management System]]s adalah konteks yang memberikan makna pembelajaran kolaboratif tertentu. Dalam konteks ini, pembelajaran kolaboratif mengacu pada kumpulan alat yang peserta didik dapat digunakan untuk membantu, atau dibantu oleh orang lain. Alat tersebut termasuk ruang kelas virtual (yaitu ruang kelas yang didistribusikan secara geografis dan dihubungkan oleh koneksi jaringan secara audio-visual), chatting, thread diskusi, application sharing (misalnya seorang rekan proyek spreadsheet pada layar rekan lain di seluruh link jaringan untuk tujuan kolaborasi), dan lain sebagainya.
+
+* '''Collaborative Learning Development''' memungkinkan pengembang sistem pembelajaran untuk bekerja sebagai sebuah jaringan. Secara khusus hal ini relevan dengan e-learning di mana pengembang dapat berbagi dan membangun pengetahuan di program studi dalam lingkungan kolaboratif. Pengetahuan tentang subjek tunggal dapat ditarik bersama-sama dari lokasi yang berbeda secara geografis menggunakan sistem perangkat lunak. Contoh sistem ini adalah Content Point dari Atlantic Link.
+
+* '''Collaborative Learning in Virtual Worlds''' adalah Virtual Worlds yang menurut sifatnya diharapkan memberikan kesempatan yang sangat baik untuk pembelajaran kolaboratif. Pertama-tama pembelajaran di dunia virtual terbatas pada pertemuan kelas dan kuliah, mirip dengan rekan-rekan mereka dalam kehidupan nyata. Sekarang pembelajaran kolaboratif berkembang sebagai perusahaan yang mulai memanfaatkan fitur unik yang ditawarkan oleh ruang dunia maya - seperti kemampuan untuk merekam dan memetakan aliran ide, menggunakan model 3D dan virtual worlds mind mapping tool.
+
+* Pembelajaran kolaboratif di [[lingkaran tesis]]dalam pendidikan tinggi adalah contoh lain dari orang-orang yang belajar bersama. Dalam lingkaran tesis, sejumlah mahasiswa bekerja sama dengan setidaknya satu profesor atau dosen, untuk bersama-sama melatih dan mengawasi pekerjaan individu pada akhir proyek (sarjana atau magister misalnya). Siswa sering beralih antara peran mereka sebagai co-supervisor dari siswa lain dan tesis mereka sendiri (termasuk menerima pendapat dari siswa lain).
+
+== Collaborative Scripts ==
+Collaborative scripts adalah pembuat struktur dari collaborative learning dengan membuat peran dan menengahi interaksi demi fleksibilitas dalam dialog dan aktivitas. Collaborative scripts digunakan pada semua kasus collaborative learning yang beberapa diantaranya lebih cocok untuk face-to-face collaborative learning (biasanya lebih fleksibel) dan beberapa yang lain ditujukan untuk computer-supported collaborative learning (biasanya lebih banyak batasannya). Sebagai tambahan, terdapat dua tipe dari script: macro-script dan micro-script. Macro-script ditujukan pada pembuatan situasi dimana interaksi yang diharapkan akan terjadi. Micro-script dititikberatkan pada aktivitas pembelajar individual. 
+
+=== Conceptual Components of Scripts ===
+* '''''Tujuan''''': membantu peserta (peserta didik dan guru) bekerja sama untuk terlibat dalam proses kolaborasi yang efisien untuk mencapai tujuan tertentu.
+* '''''Aktivitas''''': Identifikasi kegiatan, dan kendala yang mungkin, untuk menyelesaikan kegiatan. Kegiatan dapat mencakup meringkas, mempertanyakan, memberikan argumen, mengajukan sebuah klaim, dll
+* '''''Sequencing''''': Menjelaskan harapan dari para peserta dengan menetapkan kegiatan yang harus dilakukan dan dalam rangka apa.
+* '''''Pendistribusian Peran''''': Memperjelas peran individu diasumsikan akan membuat pada seluruh aktivitas, peserta terdorong untuk mengadopsi dan mempertimbangkan berbagai perspektif.
+* '''''Tipe Representasi''''': representasi tekstual, grafis, atau instruksi oral secara eksplisit disajikan kepada para peserta.
+
+== Lihat Juga ==
+* [[Collaborative information seeking]]
+* [[Collaborative learning in thesis circles]]
+* [[Computer-supported collaborative learning]]
+* [[Educational psychology]]
+* [[Intergenerational equity]]
+* [[Learning by teaching]] (LdL)
+* [[Learning circle]]
+* [[Teaching for social justice]]
+* [http://www.dogoodgauge.org The Do Good Gauge]
+* [[Youth/adult partnerships]]
+
+{{Wikiversity|Collaborative_play_writing}}
+
+; people
+* [http://gse.buffalo.edu/about/directory/faculty/2135 Ming Ming Chiu]
+* Elizabeth Cohen
+* [http://www.cehd.umn.edu/edpsych/people/Faculty/Johnson.html David Johnson]
+* [http://www.cehd.umn.edu/ci/faculty/Johnson.html Roger Johnson]
+* [[Angela O'Donnell]]
+* Robert Slavin
+
+== Referensi ==
+{{Reflist}}
+
+{{DEFAULTSORT:Collaborative Learning}}
+
+[[Kategori:Collaboration]]
+[[Kategori:Educational psychology]]
+[[Kategori:Learning methods]]

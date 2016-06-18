@@ -1,0 +1,18 @@
+.tl
+'''.tl''' adalah [[top-level domain kode negara]] [[Internet]] untuk [[Timor Leste]].
+
+== Lihat pula ==
+* [[.tp]]
+
+== Pranala luar ==
+* [http://www.iana.org/root-whois/tl.htm IANA Informasi whois .tl]
+
+{{CcTLD}}
+
+[[Kategori:Timor Leste]]
+[[Kategori:Ranah internet tingkat teratas]]
+
+
+{{stub}}
+
+[[sv:Toppdomn#T]]

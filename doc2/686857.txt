@@ -1,0 +1,5 @@
+Templat:DetailsLink
+<span class="noprint" style="font-size:90%; font-style:italic;">[[{{{1}}}|detail]]</span><noinclude>
+[[Category:Templat pranala internal|{{PAGENAME}}]]
+
+</noinclude>

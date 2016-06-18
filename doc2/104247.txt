@@ -1,0 +1,15 @@
+Kategori:Artikel yang perlu diperbaiki bertopik permainan video
+{{kategori kosong}}
+{{kualitaskat|permainan video}}
+{{Kategori pemeliharaan
+ | toc     = none
+ | type    = artikel yang perlu diperbaiki bertopik permainan video
+ | year    = 
+ | monthno = 
+ | cat     = Artikel yang perlu diperbaiki
+ | hidden  = y
+ | message = 
+}}
+
+[[Kategori:Artikel yang perlu diperbaiki|Permainan video]]
+[[Kategori:Permainan video menurut kualitas|{{PAGENAME}}]]

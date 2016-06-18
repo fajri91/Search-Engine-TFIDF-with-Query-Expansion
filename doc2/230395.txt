@@ -1,0 +1,58 @@
+Johannes Baumann
+{{Infobox President
+|name             = Johannes Baumann
+|image            = Johannes Baumann.gif
+|caption          = 
+|order            = [[Presiden Konfederasi Swiss]]
+|term_start       = [[1 Januari]] [[1938]] 
+|term_end         = [[31 Desember]] [[1938]]
+|predecessor      = [[Giuseppe Motta]]
+|successor        = [[Philipp Etter]]
+|order2           = [[Anggota Dewan Federal Swiss]]
+|term_start2      = [[22 Maret]] [[1934]] 
+|term_end2        = [[31 Desember]] [[1940]]
+|predecessor2     = [[Heinrich Hberlin]]
+|successor2       = [[Karl Kobelt]]
+|birth_date       = {{birth date|1874|11|27|mf=y}}
+|birth_place      = 
+|death_date       = {{death date and age|1953|9|8|1874|11|27}} 
+|death_place      = 
+|nationality      = [[Swiss]]
+}}
+
+'''Johannes Baumann''' ([[27 November]] [[1874]]  [[8 September]] [[1953]]) adalah politikus [[Swiss]] dan [[Anggota Dewan Federal Swiss]] (19341940).
+
+Ia terpilih di [[Dewan Federal Swiss]] pada [[22 Maret]] [[1934]] hingga neletakkan jabatatan itu pada tanggal [[31 Desember]] [[1940]]. Ia berafiliasi dengan [[Partai Demokrat Bebas Swiss|Partai Demokrat Bebas]].
+
+Selama masa jabatannya, ia pernah memimpin [[Departemen Kehakiman dan Kepolisian Federal]]. Ia menjabat [[Presiden Konfederasi Swiss|Presiden Konfederasi]] pada [[1938]].
+
+== Pranala luar ==
+
+* {{HDS|4139}}
+** {{Swiss Federal Councillor|58}}
+
+{{start box}}
+{{s-off}}
+{{succession box |before = [[Auguste Pettavel]] |title = [[Presiden Dewan Negara Swiss|Presiden Dewan Negara]] |years = 1920/1921 |after = [[Josef Rber]]}}
+{{succession box |before = [[Heinrich Hberlin]] |title = [[Anggota Dewan Federal Swiss]] |years = 19341940 |after = [[Karl Kobelt]]}}
+{{succession box |before = [[Giuseppe Motta]] |title = [[Presiden Konfederasi Swiss|Presiden Konfederasi]] |years = 1938 |after = [[Philipp Etter]]}}
+{{end box}}
+
+{{Swiss Presidents}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+|NAME              = Baumann, Johannes
+|ALTERNATIVE NAMES =
+|SHORT DESCRIPTION =
+|DATE OF BIRTH     = 27 November 1874
+|PLACE OF BIRTH    =
+|DATE OF DEATH     = 8 September 1953
+|PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Baumann, Johannes}}
+[[Kategori:Kelahiran 1874]]
+[[Kategori:Kematian 1953]]
+[[Kategori:Anggota Dewan Federal Swiss]]
+[[Kategori:Anggota Dewan Serikat Swiss]]
+
+{{Switzerland-politician-stub}}

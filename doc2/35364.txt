@@ -1,0 +1,13 @@
+Templat:Pengguna ayah
+{{userbox|<!--#C71585-->darkslategrey|#f0f0ff|{{nowrap|{{pad|2}}[[Berkas:Lauer 3.jpg|40px|ayah]]{{pad|2}}}}|Pengguna ini adalah seorang '''[[Ayah|ayah]]'''{{qif|test={{{1|}}}|then=&nbsp;dengan {{{1}}} anak}}.}}{{#if:{{{kat|}}}||<includeonly>[[Kategori:Pengguna laki-laki|{{PAGENAME}}]]  </includeonly>}}<noinclude>__NOTOC__ __NOEDITSECTION__
+{{clr}}
+
+===Keterangan===
+
+Parameter opsional adalah jumlah anak. Contoh: <nowiki>{{user ayah|2}}</nowiki>
+{{br}}menghasilkan:{{br}}
+{| border="0" style="background:none;"
+| {{user ayah|2|kat=no}}
+|}
+[[Kategori:Templat userbox status|Ayah]]
+</noinclude>

@@ -1,0 +1,110 @@
+Kabel telekomunikasi transatlantik
+Sebuah '''kabel telekomunikasi transatlantik''' adalah sebuah [[kabel telekomunikasi bawah laut]] yang membentang di bawah [[Samudra Atlantik]].
+
+Ketika [[kabel telegraf transatlantik]] pertama diletakkan tahun 1858 oleh pebisnis [[Cyrus West Field]], kabel ini hanya beroperasi selama sebulan: usaha-usaha selanjutnya tahun 1865 dan 1866 terbukti berhasil. Meski kabel telepon mulai diperbincangkan pada 1920-an, praktiknya membutuhkan serangkaian kemajuan teknologi yang baru muncul tahun 1940-an. Layanan telepon transatlantik berbasis radio dimulai tahun 1927.
+
+[[TAT-1]] (Transatlantic No. 1) adalah sistem kabel telepon transatlantik pertama. Kabel ini dibentangkan antara Gallanach Bay, dekat [[Oban]], Skotlandia dan [[Clarenville]], [[Newfoundland dan Labrador|Newfoundland]] antara tahun 1955 dan 1956. Kabel ini diresmikan pada 25 September 1956 yang mengangkut 36 saluran telepon. Dalam 24 jam pertama dibuka untuk umum, terjadi 588 panggilan London-AS dan 119 dari London ke Kanada. Kapasitas kabel ini kemudian ditingkatkan menjadi 48 saluran. TAT-1 akhirnya dipensiunkan pada 1978.
+
+Terjadi berbagai pembaruan dalam sistem kabel transatlantik. Semua sistem saat ini menggunakan transmisi [[serat optik]] dan topologi [[cincin swadaya]]. Pada akhir abad ke-20, [[satelit komunikasi]] kehilangan sebagian besar lalu lintas telepon Atlantik Utaranya karena diambl alih oleh kabel berkapasitas tinggi yang rendah biaya ini.
+
+{| class="wikitable sortable"
+|-
+!Nama kabel!!Masa operasi!!Jenis!!Jumlah saluran awal!!Jumlah saluran akhir!!Ujung barat!!Ujung timur
+|-
+|[[TAT-1]]||19561978||Galvanik||36||48||[[Newfoundland dan Labrador|Newfoundland]]||Skotlandia
+|-
+|[[TAT-2]]||19591982||Galvanik||48||72||[[Newfoundland dan Labrador|Newfoundland]]||Perancis
+|-
+|[[TAT-3]]||19631986||Galvanik||138||276||[[New Jersey]]||Inggris
+|-
+|[[TAT-4]]||19651987||Galvanik||138||345||[[New Jersey]]||Perancis
+|-
+|[[TAT-5]]||19701993||Galvanik||845||2112||[[Rhode Island]]||Spanyol
+|-
+|[[TAT-6]]||19761994||Galvanik||4.000||10.000||[[Rhode Island]]||Perancis
+|-
+|[[TAT-7]]||19781994||Galvanik||4.000||10.500||[[New Jersey]]||Inggris
+|-
+|[[TAT-8]]*||19882002||Serat optik||40.000||-||AS||Inggris, Perancis
+|-
+|[[TAT-9]]||19922004||Serat optik||80.000||-||AS, [[Nova Scotia]]||Spanyol, Perancis, Britania Raya
+|-
+|[[TAT-10]]||19922003||Serat optik||2  565 Mbit/s||-||AS||Jerman
+|-
+|[[TAT-11]]||19932003||Serat optik||2  565 Mbit/s||-||AS||Perancis
+|-
+|[[TAT-12/13]]||19962008||Serat optik||12  2,5 Gbit/s||-||AS  2||Britania Raya, Perancis
+|-
+|[[TAT-14]]||2000||Serat optik||3,2 Tbit/s||-||AS  2||Britania Raya, Perancis, Belanda, Jerman, Denmark
+|-
+|[[CANTAT-1]]||19611986||Galvanik||80||-||[[Newfoundland dan Labrador|Newfoundland]]||Skotlandia
+|-
+|[[CANTAT-2]]||19741992||Galvanik||1.840||-||[[Nova Scotia]]||Inggris
+|-
+|[[CANTAT-3]]||1994||Serat optik||2  2,5 Gbit/s||||[[Nova Scotia]]||[[Islandia]], [[Kepulauan Faroe]], Inggris, Denmark, Jerman
+|-
+|[[PTAT-1]]||19892004||Serat optik||3  140 Mbit/s?||||[[New Jersey]] & [[Bermuda]]||Irlandia & Britania Raya
+|}
+
+<nowiki>*</nowiki> kabel [[serat optik]] pertama.
+
+Rangkaian kabel TAT terdiri dari sebagian besar kabel Atlantik Utara. Semua kabel TAT merupakan hasil kerjasama antara sejumlah perusahaan [[telekomunikasi]], misalnya [[British Telecom]]. CANTAT adalah kabel telepon transatlantik yang berakhir di Kanada, bukan Amerika Serikat. Ada juga beberapa kabel non-TAT swasta.
+
+{| class="wikitable"
+|-
+! Nama kabel
+! Tanggal
+! Kapasitas nominal
+! Pemilik
+|-
+| [[Gemini (kabel telekomunikasi bawah laut)|Gemini]] (dihentikan)
+| 1998
+| &nbsp;
+| [[Cable & Wireless]]
+|-
+| [[Apollo (kabel telekomunikasi bawah laut)|Apollo]]
+| 2002
+| 3.2 Tbit/s
+| Cable & Wireless
+|-
+| [[AC-1 (sistem kabel)|AC-1]]
+| 1998
+| 120 Gbit/s
+| [[Global Crossing]]
+|-
+| [[Yellow (sistem kabel)|Yellow/AC-2]]
+| 2000
+| &nbsp;
+| [[Level 3 Communications]]
+|-
+| [[Fiber-Optic Link Around the Globe|FLAG Atlantic]]
+| 2000
+| &nbsp;
+| [[Reliance Communications]]
+|-
+| [[VSNL Transatlantic (sistem kabel)|VSNL Transatlantic]]
+| 2001
+| 5.1 Tbit/s
+| Dijual oleh [[Tyco International|Tyco]] kepada [[Videsh Sanchar Nigam|VSNL]] tahun 2005
+|-
+| [[Hibernia Atlantic]]
+| 2001
+| 320 Gbit/s
+| CVC Acquisition Company
+|}
+
+== Lihat pula ==
+* [[Lapisan kabel]]
+
+== Pranala luar ==
+* {{cite journal|first=Jeremiah|last=Hayes|title=A history of transatlantic cables|work=IEEE Communications|date=September 2008|volume=46|issue=9|pages=4248|doi=10.1109/MCOM.2008.4623705}}
+* [http://aronsson.se/hist.html Aronsson's Telecom History Timeline]
+* [http://www.atlantic-cable.com/Cables/CableTimeLine/index.htm Timeline of Submarine Communications Cables, 18502008]
+* [http://www.kidorf.com/DBLandings.php Submarine Cable Landings Worldwide]
+
+{{Kabel telepon transatlantik}}
+
+{{DEFAULTSORT:Kabel Telepon Transatlantik}}
+
+[[Kategori:Sejarah telepon]]
+[[Kategori:Kabel telepon transatlantik|*]]

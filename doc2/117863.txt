@@ -1,0 +1,29 @@
+Wikipedia:Artikel bagus/Kriteria
+Suatu [[Wikipedia:artikel bagus|artikel bagus]] mencerminkan hasil karya yang baik pada Wikipedia dan menampilkan standar yang baik pada penulisan dan presentasi. Di samping harus memenuhi sebagian besar [[Wikipedia:Pedoman gaya|kebutuhan standar]] bagi artikel Wikipedia, artikel-artikel bagus haruslah:
+<ol>
+<li>Ditulis dengan baik, luas, memiliki fakta akurat, netral, tetap fokus pada topik dan stabil</li><ul>
+<li>"''Ditulis dengan baik''" berarti bahwa prosanya menarik, dan ditulis dengan cukup baik.
+<li>"''Luas''" berarti bahwa artikel membahas semua aspek utama</li>
+<li>"''Fakta akurat''" berarti bahwa pernyataan-pernyataan dapat dipastikan ke sumber terpercaya dan secara akurat merepresentasikan materi pengetahuan yang terpublikasi. Pernyataan didukung dengan bukti spesifik dan kutipan luar (lihat [[Wikipedia:pemastian|pemastian]] dan [[Wikipedia:sumber terpercaya|sumber terpercaya]]); ini mencakup pengisian bagian "Referensi" yang mencantumkan sumber, dan jika memungkinkan, dilengkapi dengan kutipan dalam badan artikel. Lihat [[Wikipedia:Kutip sumber tulisan|mengutip sumber]] untuk informasi kapan dan bagaimana referensi dapat diberikan dan untuk saran pemformatan referensi; bentuk [[Bantuan:catatan kaki|catatan kaki]] dianjurkan untuk ini.</li>
+<li>"''Netral''" berarti bahwa artikel mewakili pandangan secara adil dan tanpa bias (lihat [[Wikipedia:sudut pandang netral|sudut pandang netral]]); namun, artikel tidak harus memberikan liputan terhadap pandangan minoritas secara berimbang.</li>
+<li>"''Stabil''" berarti bahwa artikel bukan merupakan bahan [[Wikipedia:perang suntingan|perang suntingan]] dan bahwa isinya tidak berubah secara berarti dari hari ke hari; pembalikan vandalisme dan pengembangan berdasarkan usulan peninjau tidak termasuk dalam pengertian ini.</li></ul>
+<li>Sesuai dengan standar yang diatur dalam [[Wikipedia:pedoman gaya|pedoman gaya]], termasuk:</li><ul>
+<li>[[Wikipedia:Bagian pembuka|Bagian pembuka]] yang menyimpulkan seluruh topik dan menyiapkan pembaca untuk detil lebih lanjut dalam bagian-bagian berikutnya;</li>
+<li>Sistem hirarki judul yang baik; serta</li>
+<li>Bagian daftar isi yang cukup tapi tak berlebihan (lihat [[Bantuan:Bagian|bantuan bagian]]);</li></ul>
+<li>Memiliki [[Wikipedia:gambar|gambar]] yang tepat untuk subyek, dengan [[Wikipedia:keterangan gambar|keterangan gambar]] yang mencukupi dan status [[Wikipedia:hak cipta|hak cipta]] yang dapat diterima.</li>
+<li>Memiliki panjang yang pantas, tetap fokus pada topik utama tanpa terlalu menggali detil yang tak perlu (lihat [[Wikipedia:Gaya ringkasan|gaya ringkasan]]).</li></ol><noinclude>
+
+== Lihat pula ==
+
+* [[Wikipedia:Panduan menulis artikel yang lebih baik]]
+* [[Wikipedia:Artikel yang sempurna]]
+* [[Wikipedia:Perbandingan artikel pilihan dan artikel bagus]]
+* [[:en:Wikipedia:What is a good article?|Wikipedia:What is a good article?]]
+[[Kategori:Artikel bagus]]
+</noinclude>
+
+[[en:Wikipedia:What is a good article?]]
+[[fr:Wikipdia:Qu'est-ce qu'un bon article ?]]
+[[th::]]
+[[zh:Wikipedia:]]

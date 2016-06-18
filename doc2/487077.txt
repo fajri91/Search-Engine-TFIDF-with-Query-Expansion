@@ -1,0 +1,277 @@
+ISO 3166-2:BF
+{{main|ISO 3166-2}}
+
+'''ISO 3166-2:BF''' adalah sebuah standar [[ISO]] yang mendefinisikan kode internasional: kode ini merupakan bagian dari [[ISO 3166-2]] yang ditujukan kepada negara [[Burkina Faso]].
+
+Saat ini untuk Burkina Faso, kode ISO 3166-2 yang ditetapkan untuk dua tingkat sub-bagian:
+* 13 [[region]]
+* 45 [[provinsi]]
+
+Setiap kode terdiri dari dua bagian, dipisahkan dengan tanda hubung. Bagian pertama adalah <tt>BF</tt>, kode [[ISO 3166-1 alpha-2]] untuk Burkina Faso. Bagian kedua terdiri dari:
+* dua angka (01-13): region
+* tiga huruf: provinsi
+
+== Kode saat ini ==
+Nama sub-bagian tercantum dalam standar ISO 3166-2 yang diterbitkan oleh ISO 3166 Maintenance Agency (ISO 3166/MA).
+
+== Region ==
+{| class="wikitable sortable"
+|-
+! Kode
+! Nama sub-bagian
+|-
+| <tt>BF-01</tt>
+| [[Region Boucle du Mouhoun|Boucle du Mouhoun]]
+|-
+| <tt>BF-02</tt>
+| [[Region Cascades|Cascades]]
+|-
+| <tt>BF-03</tt>
+| [[Region Centre|Centre]]
+|-
+| <tt>BF-04</tt>
+| [[Region Centre-Est|Centre-Est]]
+|-
+| <tt>BF-05</tt>
+| [[Region Centre-Nord|Centre-Nord]]
+|-
+| <tt>BF-06</tt>
+| [[Region Centre-Ouest|Centre-Ouest]]
+|-
+| <tt>BF-07</tt>
+| [[Region Centre-Sud|Centre-Sud]]
+|-
+| <tt>BF-08</tt>
+| [[Region Est|Est]]
+|-
+| <tt>BF-09</tt>
+| [[Region Hauts-Bassins|Hauts-Bassins]]
+|-
+| <tt>BF-10</tt>
+| [[Region Nord|Nord]]
+|-
+| <tt>BF-11</tt>
+| [[Region Plateau-Central|Plateau-Central]]
+|-
+| <tt>BF-12</tt>
+| [[Region Sahel|Sahel]]
+|-
+| <tt>BF-13</tt>
+| [[Region Sud-Ouest|Sud-Ouest]]
+|}
+
+=== Provinsi ===
+{| class="wikitable sortable"
+|-
+! Kode
+! Nama sub-bagian
+! Terdapat dalam
+|-
+| <tt>BF-BAL<tt/>
+| [[Provinsi Bal|Bal]]
+| [[Region Boucle du Mouhoun|<tt>01</tt>]]
+|-
+| <tt>BF-BAM<tt/>
+| [[Provinsi Bam|Bam]]
+| [[Region Centre-Nord|<tt>05</tt>]]
+|-
+| <tt>BF-BAN<tt/>
+| [[Provinsi Banwa|Banwa]]
+| [[Region Boucle du Mouhoun|<tt>01</tt>]]
+|-
+| <tt>BF-BAZ<tt/>
+| [[Provinsi Bazga|Bazga]]
+| [[Region Centre-Sud|<tt>07</tt>]]
+|-
+| <tt>BF-BGR<tt/>
+| [[Provinsi Bougouriba|Bougouriba]]
+| [[Region Sud-Ouest|<tt>13</tt>]]
+|-
+| <tt>BF-BLG<tt/>
+| [[Provinsi Boulgou|Boulgou]]
+| [[Region Centre-Est|<tt>04</tt>]]
+|-
+| <tt>BF-BLK<tt/>
+| [[Provinsi Boulkiemd|Boulkiemd]]
+| [[Region Centre-Ouest|<tt>06</tt>]]
+|-
+| <tt>BF-COM<tt/>
+| [[Provinsi Como|Como]]
+| [[Region Cascades|<tt>02</tt>]]
+|-
+| <tt>BF-GAN<tt/>
+| [[Provinsi Ganzourgou|Ganzourgou]]
+| [[Region Plateau-Central|<tt>11</tt>]]
+|-
+| <tt>BF-GNA<tt/>
+| [[Provinsi Gnagna|Gnagna]]
+| [[Region Est|<tt>08</tt>]]
+|-
+| <tt>BF-GOU<tt/>
+| [[Provinsi Gourma|Gourma]]
+| [[Region Est|<tt>08</tt>]]
+|-
+| <tt>BF-HOU<tt/>
+| [[Provinsi Houet|Houet]]
+| [[Region Hauts-Bassins|<tt>09</tt>]]
+|-
+| <tt>BF-IOB<tt/>
+| [[Provinsi Ioba|Ioba]]
+| [[Region Sud-Ouest|<tt>13</tt>]]
+|-
+| <tt>BF-KAD<tt/>
+| [[Provinsi Kadiogo|Kadiogo]]
+| [[Region Centre|<tt>03</tt>]]
+|-
+| <tt>BF-KEN<tt/>
+| [[Provinsi Kndougou|Kndougou]]
+| [[Region Hauts-Bassins|<tt>09</tt>]]
+|-
+| <tt>BF-KMD<tt/>
+| [[Provinsi Komondjari|Komondjari]]
+| [[Region Est|<tt>08</tt>]]
+|-
+| <tt>BF-KMP<tt/>
+| [[Provinsi Kompienga|Kompienga]]
+| [[Region Est|<tt>08</tt>]]
+|-
+| <tt>BF-KOS<tt/>
+| [[Provinsi Kossi|Kossi]]
+| [[Region Boucle du Mouhoun|<tt>01</tt>]]
+|-
+| <tt>BF-KOP<tt/>
+| [[Provinsi Koulplogo|Koulplogo]]
+| [[Region Centre-Est|<tt>04</tt>]]
+|-
+| <tt>BF-KOT<tt/>
+| [[Provinsi Kouritenga|Kouritenga]]
+| [[Region Centre-Est|<tt>04</tt>]]
+|-
+| <tt>BF-KOW<tt/>
+| [[Provinsi Kourwogo|Kourwogo]]
+| [[Region Plateau-Central|<tt>11</tt>]]
+|-
+| <tt>BF-LER<tt/>
+| [[Provinsi Lraba|Lraba]]
+| [[Region Cascades|<tt>02</tt>]]
+|-
+| <tt>BF-LOR<tt/>
+| [[Provinsi Loroum|Loroum]]
+| [[Region Nord|<tt>10</tt>]]
+|-
+| <tt>BF-MOU<tt/>
+| [[Provinsi Mouhoun|Mouhoun]]
+| [[Region Boucle du Mouhoun|<tt>01</tt>]]
+|-
+| <tt>BF-NAO<tt/>
+| [[Provinsi Nahouri|Nahouri]]
+| [[Region Centre-Sud|<tt>07</tt>]]
+|-
+| <tt>BF-NAM<tt/>
+| [[Provinsi Namentenga|Namentenga]]
+| [[Region Centre-Nord|<tt>05</tt>]]
+|-
+| <tt>BF-NAY<tt/>
+| [[Provinsi Nayala|Nayala]]
+| [[Region Boucle du Mouhoun|<tt>01</tt>]]
+|-
+| <tt>BF-NOU<tt/>
+| [[Provinsi Noumbiel|Noumbiel]]
+| [[Region Sud-Ouest|<tt>13</tt>]]
+|-
+| <tt>BF-OUB<tt/>
+| [[Provinsi Oubritenga|Oubritenga]]
+| [[Region Plateau-Central|<tt>11</tt>]]
+|-
+| <tt>BF-OUD<tt/>
+| [[Provinsi Oudalan|Oudalan]]
+| [[Region Sahel|<tt>12</tt>]]
+|-
+| <tt>BF-PAS<tt/>
+| [[Provinsi Passor|Passor]]
+| [[Region Nord|<tt>10</tt>]]
+|-
+| <tt>BF-PON<tt/>
+| [[Provinsi Poni|Poni]]
+| [[Region Sud-Ouest|<tt>13</tt>]]
+|-
+| <tt>BF-SNG<tt/>
+| [[Provinsi Sangui|Sangui]]
+| [[Region Centre-Ouest|<tt>06</tt>]]
+|-
+| <tt>BF-SMT<tt/>
+| [[Provinsi Sanmatenga|Sanmatenga]]
+| [[Region Centre-Nord|<tt>05</tt>]]
+|-
+| <tt>BF-SEN<tt/>
+| [[Provinsi Sno|Sno]]
+| [[Region Sahel|<tt>12</tt>]]
+|-
+| <tt>BF-SIS<tt/>
+| [[Provinsi Sissili|Sissili]]
+| [[Region Centre-Ouest|<tt>06</tt>]]
+|-
+| <tt>BF-SOM<tt/>
+| [[Provinsi Soum|Soum]]
+| [[Region Sahel|<tt>12</tt>]]
+|-
+| <tt>BF-SOR<tt/>
+| [[Provinsi Sourou|Sourou]]
+| [[Region Boucle du Mouhoun|<tt>01</tt>]]
+|-
+| <tt>BF-TAP<tt/>
+| [[Provinsi Tapoa|Tapoa]]
+| [[Region Est|<tt>08</tt>]]
+|-
+| <tt>BF-TUI<tt/>
+| [[Provinsi Tui|Tui]]
+| [[Region Hauts-Bassins|<tt>09</tt>]]
+|-
+| <tt>BF-YAG<tt/>
+| [[Provinsi Yagha|Yagha]]
+| [[Region Sahel|<tt>12</tt>]]
+|-
+| <tt>BF-YAT<tt/>
+| [[Provinsi Yatenga|Yatenga]]
+| [[Region Nord|<tt>10</tt>]]
+|-
+| <tt>BF-ZIR<tt/>
+| [[Provinsi Ziro|Ziro]]
+| [[Region Centre-Ouest|<tt>06</tt>]]
+|-
+| <tt>BF-ZON<tt/>
+| [[Provinsi Zondoma|Zondoma]]
+| [[Region Nord|<tt>10</tt>]]
+|-
+| <tt>BF-ZOU<tt/>
+| [[Provinsi Zoundwogo|Zoundwogo]]
+| [[Region Centre-Sud|<tt>07</tt>]]
+|}
+
+== Perubahan ==
+Perubahan-perubahan berikut telah diumumkan dalam laporan berkala (''newsletter'') oleh ISO 3166/MA setelah publikasi ISO 3166-2 pertama kali pada 1998:
+
+{| class="wikitable"
+|-
+! ''Newsletter''
+! Tanggal diterbitkan
+! Deskripsi perubahan dalam ''newsletter''
+! Perubahan kode/wilayah
+|-
+| id="II-2" | [http://www.iso.org/iso/iso_3166-2_newsletter_ii-2_2010-06-30.pdf {{nowrap|Newsletter II-2}}]
+| {{nowrap|2010-06-30}}
+| Memperbarui struktur administratif dan sumber daftar
+| style=white-space:nowrap | '''Wilayah yang ditambahkan:'''<br /> 13 region
+|}
+
+== Lihat pula ==
+* [[ISO 3166-2]], tabel kode daerah untuk semua negara.
+* [[ISO 3166-1]], tabel kode domain [[internet]] untuk semua negara.
+* [[Provinsi di Burkina Faso]]
+
+== Pranala luar ==
+* [http://www.statoids.com/ubf.html Provinces of Burkina Faso], Statoids.com
+
+{{ISO 3166}}
+
+[[Kategori:ISO 3166|2:BF]]

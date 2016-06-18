@@ -1,0 +1,73 @@
+Cikoko Stasiun Cawang (Transjakarta)
+{{Kotakinfo halte Transjakarta
+| name              = Cikoko Stasiun Cawang 
+| corridor          = 9
+| station           = 07
+| isfuture          = no
+| image             = 
+| image_caption     =
+| city              = Jakarta Selatan
+| neighborhood      = Cikoko, Pancoran
+| zipcode           = 12770
+| address           = Jalan Letjen MT Haryono
+| latitude          = -6.2433161
+| longitude         = 106.8578875
+| levelcount        = 
+| level1name        = Struktur
+| level1description = {{Station level|transitmode=BRT|elevation=freeway|platformlayout=side|platformcount=2}}
+| level2name        = 
+| level2description = 
+| level3name        = 
+| level3description = 
+| entrances         = Melalui jembatan penyeberangan di atas Stasiun Cawang
+| faregates         = Ya
+| ADA               = 
+| parking           = 
+| bicycle           = 
+| other             = 
+| ownedby           = PT. Bianglala Metropolitan<br/>PT. Transportasi Jakarta<br/>[[Perum DAMRI]]
+| othernames        =
+| formernames       = 
+| status            = Beroperasi
+| opened            = [[31 Desember]] [[2010]]
+| closed            = 
+| rebuilt           = 
+| renovated         = 
+| services          = 
+{{s-rail|title=Transjakarta}}	
+{{s-line|system=Transjakarta|line=9|previous=Cawang Ciliwung|next=Tebet BKPM}}
+{{s-note|text=Layanan penghubung}}
+{{s-rail|title=KRL Jabodetabek}}
+{{s-line|system=KRL Jabodetabek|line=Bogor-Jatinegara|previous=Duren Kalibata|next=Tebet|transfer=Cawang}}
+{{s-line|system=KRL Jabodetabek|line=Bogor-Jakarta Kota|previous=Duren Kalibata|next=Tebet|transfer=Cawang}}
+{{s-line|system=KRL Jabodetabek|line=Duri-Nambo|previous=Tebet|next=Duren Kalibata|transfer=Cawang}}
+{{s-line|system=KRL Jabodetabek|line=Depok-Jatinegara|previous=Duren Kalibata|next=Tebet|transfer=Cawang}}
+{{s-line|system=KRL Jabodetabek|line=Depok-Jakarta Kota|previous=Duren Kalibata|next=Tebet|transfer=Cawang}}
+}}
+'''Cikoko Stasiun Cawang''' adalah sebuah halte [[Transjakarta]] yang terletak di Jalan Letjen MT Haryono, [[Cikoko, Pancoran, Jakarta Selatan|Cikoko]], [[Pancoran, Jakarta Selatan|Pancoran]], [[Jakarta Selatan]]. Halte ini berada di [[Transjakarta Koridor 9|Koridor 9]] yang membentang dari tenggara ke barat laut Jakarta. Nama halte ini berasal dari [[Stasiun Cawang]] yang terletak di sebelah halte.
+
+== Tempat-tempat terdekat ==
+* [[Stasiun Cawang]]
+* Kao Indonesia
+* Menara Hijau
+* Menara MTH
+* Menara Saidah
+* Nucira Building
+* Tebet Green
+* Wisma IKPT
+* Wisma Kalimas
+* Carrefour MT Haryono
+* Ford Jakarta Timur
+* Direktorat Polisi Lalu Lintas Polri
+* [[Lakespra Dr Saryanto|Lakespra Saryanto]]
+
+
+== Pranala luar ==
+*[http://www.transjakarta.co.id/ Situs web Transjakarta]
+*[http://www.petabusway.com/ Peta Koridor & Rute Transjakarta]
+*[http://www.streetdirectory.co.id/indonesia/jakarta/travel/travel_id_191970/travel_site_142519/travel_no_/ Peta Halte Cikoko Stasiun Cawang]	
+{{transjakarta-stub}}
+
+
+[[Kategori:Koridor 9 Transjakarta]]
+[[Kategori:Halte Transjakarta di Jakarta Selatan]]

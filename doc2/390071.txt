@@ -1,0 +1,11 @@
+Templat:Country data Kepulauan Riau
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Kepulauan Riau
+| flag alias = Lambang Riau Kepulauan.jpeg
+| size = {{{size|}}}
+| name = {{{name|}}}
+| kategori = Indonesia
+<noinclude>
+| redir1 = Kepri
+</noinclude>
+}}

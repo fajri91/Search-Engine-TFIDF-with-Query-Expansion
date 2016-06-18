@@ -1,0 +1,26 @@
+Templat:Bendo, Magetan
+{{Navigasi ID Desa |provinsi=Jawa Timur |dati2=Kabupaten |nama dati2=Magetan
+|nama kecamatan=Bendo
+|d1=Belotan
+|d2=Bulak
+|d3=Bulugledeg
+|d4=Carikan
+|d5=Dukuh
+|d6=Duwet
+|d7=Kleco
+|d8=Kledokan
+|d9=Kinandang
+|d10=Lemahbang
+|d11=Pingkuk
+|d12=Setren
+|d13=Soco
+|d14=Tanjung
+|d15=Tegalarum
+|k1=Bendo
+
+
+
+}}<noinclude>
+[[Kategori:Templat desa/kelurahan di Jawa Timur|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Magetan|{{PAGENAME}}]]
+</noinclude>

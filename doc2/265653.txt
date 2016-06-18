@@ -1,0 +1,12 @@
+Templat:Ifugao
+{{Navbox
+|name = Ifugao
+| listclass = hlist
+| title = [[Berkas:Vlag Fil Ifugao.gif|23px]] Provinsi [[Ifugao]]
+|group1 = [[Munisipalitas]]
+|list1 = [[Aguinaldo, Ifugao|Aguinaldo]]&nbsp; [[Alfonso Lista, Ifugao|Alfonso Lista]]&nbsp; [[Asipulo, Ifugao|Asipulo]]&nbsp; [[Banaue, Ifugao|Banaue]]&nbsp; [[Hingyon, Ifugao|Hingyon]]&nbsp; [[Hungduan, Ifugao|Hungduan]]&nbsp; [[Kiangan, Ifugao|Kiangan]]&nbsp; [[Lagawe, Ifugao|Lagawe]]&nbsp; [[Lamut, Ifugao|Lamut]]&nbsp; [[Mayoyao, Ifugao|Mayoyao]]&nbsp; [[Tinoc, Ifugao|Tinoc]]
+}}
+<noinclude>
+[[Kategori:Templat pembagian administratif Filipina|Ifugao]]
+
+</noinclude>

@@ -1,0 +1,152 @@
+Templat:Infobox former country/autocat
+<!-- Start common name check
+-->{{#if:{{{common_name<includeonly>|</includeonly>}}}||
+{{!}}- style="font-size: 85%;"
+{{!}} colspan=2 {{!}} '''Warning''':  ''Value not specified for "[[Template:Infobox former country/doc#Name|common_name]]"''
+}}<!-- Start Continent/Region Categories
+-->{{#if:{{{continent|}}}|
+ {{#switch:{{{region}}}
+  |Italia = [[Category:Bekas negara di Semenanjung Italia|{{{common_name}}}, {{{year_start}}}]]
+  |Balkan = [[Category:Bekas negara di Balkan|{{{common_name}}}, {{{year_start}}}]]
+  |Kepulauan Britania = [[Category:Bekas negara di Kepulauan Britania|{{{common_name}}}, {{{year_start}}}]]
+  |Negara-Negara Hilir |Belanda = [[Category:Bekas politas di Belanda|{{{common_name}}}, {{{year_start}}}]]
+  |Jepang = [[Category:Bekas negara dalam sejarah Jepang|{{{common_name}}}, {{{year_start}}}]]
+  |Korea = [[Category:Bekas negara dalam sejarah Korea|{{{common_name}}}, {{{year_start}}}]]
+  |Malaysia = [[Category:Bekas negara dalam sejarah Malaysia|{{{common_name}}}, {{{year_start}}}]]
+  |Tiongkok = [[Category:Bekas negara dalam sejarah Tiongkok|{{{common_name}}}, {{{year_start}}}]]
+  |Asia Tengah|Asia Selatan|Asia Tenggara|Asia Timur = [[Category:Bekas negara di {{{region}}}|{{{common_name}}}, {{{year_start}}}]]
+  |Timur Tengah = [[Category:Bekas negara di Timur Tengah|{{{common_name}}}, {{{year_start}}}]]
+  |#default = {{#switch:{{ucfirst:{{{country}}}}}
+    |Tiongkok|Jepang|Korea|Malaysia = [[Category:Bekas negara dalam sejarah {{{country}}}|{{{common_name}}}, {{{year_start}}}]]]
+    |#default = {{#switch:{{{continent}}}
+      |Afrika|Asia|Eropa|Amerika Utara|Amerika Selatan = [[Category:Bekas negara di {{{continent}}}|{{{common_name}}}, {{{year_start}}}]]
+      |Australia|Oseania = [[Category:Bekas negara di Oseania|{{{common_name}}}, {{{year_start}}}]]
+      |Asia, Eropa|Eurasia = [[Category:Bekas negara di Eropa|{{{common_name}}}, {{{year_start}}}]][[Category:Bekas negara di Asia|{{{common_name}}}, {{{year_start}}}]]
+      |Afrika, Asia|Afroasia = [[Category:Bekas negara di Afrika|{{{common_name}}}, {{{year_start}}}]][[Category:Bekas negara di Asia|{{{common_name}}}, {{{year_start}}}]]
+      |Afrika, Eropa|Afroeropa = [[Category:Bekas negara di Afrika|{{{common_name}}}, {{{year_start}}}]][[Category:Bekas negara di Eropa|{{{common_name}}}, {{{year_start}}}]]
+      |Afrika, Asia, Eropa|Afroeurasia = [[Category:Bekas negara di Eropa|{{{common_name}}}, {{{year_start}}}]][[Category:Bekas negara di Asia|{{{common_name}}}, {{{year_start}}}]][[Category:Bekas negara di Afrika|{{{common_name}}}, {{{year_start}}}]]
+      |Karibia=<!-- No category yet -->
+      |#default={{!}}- style="font-size: 85%;"
+       {{!}} colspan=2 {{!}} '''Warning''': ''Value specified for "[[Template:Infobox former country/doc#Location|continent]]" [[Template:Infobox former country/doc#Location|does not comply]]''
+  }}}}}}
+ |<includeonly>{{!}}- style="font-size: 85%;"
+  {{!}} colspan=2 {{!}} '''Warning''': ''Value not specified for "[[Template:Infobox former country/doc#Location|continent]]"''</includeonly>}}<!-- End Continent/Region Categories
+--><!-- Start Status Categories
+-->{{#if:{{{status|}}}| {{#switch:{{ucfirst:{{{status}}}}}
+  |Kekaisaran = [[Category:Bekas kekaisaran|{{{common_name}}}]]
+  |Federasi |Federal = [[Category:Bekas federasi|{{{common_name}}}]]
+  |Konfederasi = [[Category:Bekas konfederasi|{{{common_name}}}]]
+  |Serikat negara |Persatuan |Uni |Serikat Negara |Serikat = [[Category:Bekas serikat negara|{{{common_name}}}, {{{year_start}}}]]
+  |Tidak diakui |Tidak Diakui |Negara yang tidak diakui |Negara yang Tidak Diakui |Negara tidak diakui |Negara Tidak Diakui=[[Category:Bekas negara yang tidak diakui|{{{common_name}}}]]
+  |Negara-kota |Negara-Kota |Negara kota |Negara Kota |Kota ={{#switch:{{{empire|}}}
+    |Kekaisaran Romawi Suci |HRE = [[Category:Negara bagian Kekaisaran Romawi Suci|{{{common_name}}}, {{{year_start}}}]][[Category:Negara kota|{{{common_name}}}, {{{year_start}}}]][[Category:Kota bebas kekaisaran|{{{common_name}}}, {{{year_start}}}]]
+    |#default = [[Category:Negara kota|{{{common_name}}}, {{{year_start}}}]]
+  }}
+  |Wilayah persemakmuran |Wilayah Persemakmuran = [[Category:Bekas wilayah Persemakmuran|{{{common_name}}}]]
+  |Mandat Liga Bangsa-Bangsa |Liga Bangsa-Bangsa |Mandate = [[Category:Mandat Liga Bangsa-Bangsa|{{{common_name}}}, {{{empire}}}]]
+  |Teritori Kepercayaan Perserikatan Bangsa-Bangsa| Teritori Kepercayaan PBB |Teritori Kepercayaan=[[Category:Teritori Kepercayaan Perserikatan Bangsa-Bangsa|{{{common_name}}}, {{{empire}}}]]
+  |Protektorat = [[Category:Bekas protektorat {{#switch:{{{empire}}}|Britania Raya|UK|Britania=Britania Raya}}|{{{common_name}}}, {{{empire}}}]]
+  |Klien |Negara klien |Negara Klien |Boneka |Negara Boneka |Negara boneka={{#switch:{{{empire|}}}
+    |Kekaisaran Perancis Pertama | Perancis = [[Category:Negara klien Peperangan Napoleon|{{{common_name}}}, {{{year_start}}}]]
+    |#default =  [[Category:Bekas negara klien|{{{common_name}}}, {{{year_start}}}]]
+  }}
+  |Vazal |Fief |Biara= {{#switch:{{{empire|}}}
+    |Kekaisaran Romawi Suci |HRE = [[Category:Negara bagian Kekaisaran Romawi Suci|{{{common_name}}}, {{{year_start}}}]]
+    |#default =  [[Category:Bekas negara vazal|{{{common_name}}}, {{{year_start}}}]]
+  }}
+  |Satelit |Negara Satelit | Negara satelit =[[Category:Negara satelit Soviet|{{{common_name}}}]]
+  |Koloni={{#switch:{{ucfirst:{{{empire}}}}}
+    |Britania Raya |UK |Imperium Britania |Britania=[[Category:Bekas koloni Britania Raya|{{{common_name}}}, {{{empire}}}]]
+    |Inggris=[[Category:Bekas koloni Inggris|{{{common_name}}}, {{{empire}}}]]
+    |Perancis |Kekaisaran Perancis Pertama| Kekaisaran Perancis=[[Category:Bekas koloni Perancis|{{{common_name}}}, {{{empire}}}]]
+    |NL |Belanda=[[Category:Bekas koloni Belanda|{{{common_name}}}, {{{empire}}}]]
+    |Belgia=[[Category:Bekas koloni Belgia|{{{common_name}}}, {{{empire}}}]]
+    |Spanyol |Kekaisaran Spanyol=[[Category:Bekas koloni Spanyol|{{{common_name}}}, {{{empire}}}]]
+    |Portugal=[[Category:Bekas koloni Portugal|{{{common_name}}}, {{{empire}}}]]
+    |Jerman |Kekaisaran Jerman=[[Category:Bekas koloni Jerman|{{{common_name}}}, {{{empire}}}]]
+    |Italia=[[Category:Bekas koloni Italia|{{{common_name}}}, {{{empire}}}]]
+    |Swedia=[[Category:Bekas koloni Swedia|{{{common_name}}}, {{{empire}}}]]
+    |Denmark=[[Category:Bekas koloni Denmark|{{{common_name}}}, {{{empire}}}]]
+    |Norwegia=[[Category:Bekas koloni Norwegia|{{{common_name}}}, {{{empire}}}]]
+    |Jepang=[[Category:Bekas koloni Jepang|{{{common_name}}}, {{{empire}}}]]
+    |#default = [[Category:Bekas koloni|{{{common_name}}}, {{{empire}}}]]
+  }}
+  |Terasingkan |Pemerintahan dalam pengasingan|Pemerintahan Dalam Pengasingan = [[Category:Pemerintahan dalam pengasingan|{{{common_name}}}]]
+  |Sementara |Pemerintahan Sementara |Pemerintahan sementara = [[Category:Pemerintahan sementara|{{{common_name}}}]]
+  |Istimewa |Teritori istimewa |Pendudukan militer |Rump state= 
+  |#default=
+}}}}<!-- End Status Categories
+--><!-- Start Established Categories
+-->{{#if:{{{year_start|}}}<!--
+-->|{{#ifexist:Category:Negara dan teritori yang didirikan tahun {{{year_start}}}<!--
+    -->|[[Category:Negara dan teritori yang didirikan tahun {{{year_start}}}|{{{common_name}}}, {{{year_start}}}]]<!--
+    -->|{{#ifexist:Category:Negara dan teritori yang didirikan tahun {{{year_start}}}<!--
+       -->|[[Category:Negara dan teritori yang didirikan tahun {{{year_start}}}|{{{common_name}}}, {{{year_start}}}]]<!--
+       -->|{{#ifeq:{{Str find| {{{year_start}}} |BC}}|-1<!--
+          -->|{{#ifexist:Category:Negara dan teritori yang didirikan tahun {{#expr: {{{year_start}}}-{{{year_start}}}mod10}}-an<!--
+             -->|[[Category:Negara dan teritori yang didirikan tahun {{#expr: {{{year_start}}}-{{{year_start}}}mod10}}-an|{{{common_name}}}, {{{year_start}}}]]<!--
+             -->|{{#ifexist:Category:Negara dan teritori yang didirikan abad ke-{{#expr: ({{{year_start}}}-{{{year_start}}}mod100)/100+1}}<!--
+                -->|[[Category:Negara dan teritori yang didirikan abad ke-{{#expr: ({{{year_start}}}-{{{year_start}}}mod100)/100+1}}|{{{common_name}}}, {{{year_start}}}]]<!--
+                -->|<!--
+                -->}}<!--
+             -->}}<!--
+          -->|{{#ifexist:Category:Negara dan teritori yang didirikan tahun {{#expr: {{Str mid| {{{year_start}}}||{{#expr: {{Str find|{{{year_start}}} |BC}}-1}} }}-{{Str mid| {{{year_start}}}||{{#expr: {{Str find|{{{year_start}}} |BC}}-1}} }}mod10}}-an SM<!--
+             -->|[[Category:Negara dan teritori yang didirikan tahun {{#expr: {{Str mid| {{{year_start}}}||{{#expr: {{Str find|{{{year_start}}} |BC}}-1}} }}-{{Str mid| {{{year_start}}}||{{#expr: {{Str find|{{{year_start}}} |BC}}-1}} }}mod10}}-an SM|{{{common_name}}}, {{{year_start}}}]]<!--
+             -->|{{#ifexist:Category:Negara dan teritori yang didirikan abad ke-{{#expr: ({{Str mid| {{{year_start}}}||{{#expr: {{Str find|{{{year_start}}} |BC}}-1}} }} - {{Str mid| {{{year_start}}}||{{#expr: {{Str find|{{{year_start}}} |BC}}-1}} }}mod100)/100+1}} SM<!--
+                -->|[[Category:Negara dan teritori yang didirikan abad ke-{{#expr: ({{Str mid| {{{year_start}}}||{{#expr: {{Str find|{{{year_start}}} |BC}}-1}} }} - {{Str mid| {{{year_start}}}||{{#expr: {{Str find|{{{year_start}}} |BC}}-1}} }}mod100)/100+1}} SM|{{{common_name}}}, {{{year_start}}}]]<!--
+                -->|<!--
+                -->}}<!--
+             -->}}<!--
+          -->}}<!--
+     -->}}<!--
+  -->}}<!--
+-->|<!--
+-->}}<!-- End Established Categories
+--><!-- Start Disestablished Categories
+-->{{#if:{{{year_end|}}}<!--
+-->|{{#ifexist:Category:Negara dan teritori yang dibubarkan tahun {{{year_end}}}<!--
+    -->|[[Category:Negara dan teritori yang dibubarkan tahun {{{year_end}}}|{{{common_name}}}, {{{year_end}}}]]<!--
+    -->|{{#ifexist:Category:Negara dan teritori yang dibubarkan tahun {{{year_end}}}<!--
+       -->|[[Category:Negara dan teritori yang dibubarkan tahun {{{year_end}}}|{{{common_name}}}, {{{year_end}}}]]<!--
+       -->|{{#ifeq:{{Str find| {{{year_end}}} |BC}}|-1<!--
+          -->|{{#ifexist:Category:Negara dan teritori yang dibubarkan tahun {{#expr: {{{year_end}}}-{{{year_end}}}mod10}}-an<!--
+             -->|[[Category:Negara dan teritori yang dibubarkan tahun {{#expr: {{{year_end}}}-{{{year_end}}}mod10}}-an|{{{common_name}}}, {{{year_end}}}]]<!--
+             -->|{{#ifexist:Category:Negara dan teritori yang dibubarkan abad ke-{{#expr: ({{{year_end}}}-{{{year_end}}}mod100)/100+1}}<!--
+                -->|[[Category:Negara dan teritori yang dibubarkan abad ke-{{#expr: ({{{year_end}}}-{{{year_end}}}mod100)/100+1}}|{{{common_name}}}, {{{year_end}}}]]<!--
+                -->|<!--
+                -->}}<!--
+             -->}}<!--
+          -->|{{#ifexist:Category:Negara dan teritori yang dibubarkan tahun {{#expr: {{Str mid| {{{year_end}}}||{{#expr: {{Str find|{{{year_end}}} |BC}}-1}} }}-{{Str mid| {{{year_end}}}||{{#expr: {{Str find|{{{year_end}}} |BC}}-1}} }}mod10}}-an SM<!--
+             -->|[[Category:Negara dan teritori yang dibubarkan tahun {{#expr: {{Str mid| {{{year_end}}}||{{#expr: {{Str find|{{{year_end}}} |BC}}-1}} }}-{{Str mid| {{{year_end}}}||{{#expr: {{Str find|{{{year_end}}} |BC}}-1}} }}mod10}}-an SM|{{{common_name}}}, {{{year_end}}}]]<!--
+             -->|{{#ifexist:Category:Negara dan teritori yang dibubarkan abad ke-{{#expr: ({{Str mid| {{{year_end}}}||{{#expr: {{Str find|{{{year_end}}} |BC}}-1}} }} - {{Str mid| {{{year_end}}}||{{#expr: {{Str find|{{{year_end}}} |BC}}-1}} }}mod100)/100+1}} SM<!--
+                -->|[[Category:Negara dan teritori yang dibubarkan abad ke-{{#expr: ({{Str mid| {{{year_end}}}||{{#expr: {{Str find|{{{year_end}}} |BC}}-1}} }} - {{Str mid| {{{year_end}}}||{{#expr: {{Str find|{{{year_end}}} |BC}}-1}} }}mod100)/100+1}} SM|{{{common_name}}}, {{{year_end}}}]]<!--
+                -->|<!--
+                -->}}<!--
+             -->}}<!--
+          -->}}<!--
+     -->}}<!--
+  -->}}<!--
+-->|<!--
+-->}}<!-- End Disestablished Categories
+--><noinclude>
+{{Documentation|content=
+This subtemplate of {{tl|Infobox country}} is used to automatically add categories to articles which transclude this template.  It should not be used directly
+
+=== Establishment dates ===
+*First the template tests to see if "Category:Negara dan teritori yang didirikan tahun {{{year_start}}}" exists.  If so, it is added.
+*If not, the template tests to see if "Category:States and territories established in {{{year_start}}}" exists.  If so, it is added.
+*If not, the template tests to see if "Category:Negara dan teritori yang didirikan tahun DECADEs" where DECADE is the decade containing {{{year_start}}} (ie {{cl|Negara dan teritori yang didirikan tahun 120-an SM}}).  If so, it is added.
+*If not, the template tests to see if "Category:Negara dan teritori yang didirikan tahun Nth century" where N is the century containing {{{year_start}}} (ie {{cl|Negara dan teritori yang didirikan tahun 1st century BC}}).  If so, it is added.
+
+The reason for the first case is in case an imprecise date is imputed, such as "the 820s" or "the 18th century", before trying exact dates like "1820".
+
+=== Disestablishment dates ===
+*First the template tests to see if "Category:States and territories disestablished in the {{{year_start}}}" exists.  If so, it is added.
+*If not, the template tests to see if "Category:States and territories disestablished in {{{year_start}}}" exists.  If so, it is added.
+*If not, the template tests to see if "Category:States and territories disestablished in the DECADEs" where DECADE is the decade containing {{{year_start}}} (ie {{cl|States and territories disestablished in the 120-an SM}}).  If so, it is added.
+*If not, the template tests to see if "Category:States and territories disestablished in the Nth century" where N is the century containing {{{year_start}}} (ie {{cl|States and territories disestablished in the 1st century BC}}).  If so, it is added.
+
+The reason for the first case is in case an imprecise date is imputed, such as "the 820s" or "the 18th century", before trying exact dates like "1820".
+}}
+[[bn::Infobox former country/autocat]]
+</noinclude>

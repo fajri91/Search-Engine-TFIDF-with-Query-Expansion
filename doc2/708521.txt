@@ -1,0 +1,29 @@
+Colorimeter
+{{unreferenced|date=Mei 2014}}
+Colorimeter adalah alat yang digunakan untuk mengukur warna. Alat ini sensitif terhadap cahaya yang diukur dan berapa banyak warna yang diserap oleh sebuah benda atau zat. Alat Ini menentukan warna berdasarkan komponen merah, biru, dan hijau dari cahaya yang diserap oleh objek atau sampel. 
+
+Ketika cahaya melewati sebuah benda, maka sebagian dari cahaya diserap, dan akibatnya, terjadi penurunan dalam berapa banyak cahaya yang dipantulkan oleh mediumnya. Colorimeter akan berubah sehingga pengguna dapat menganalisis konsentrasi zat tertentu dalam medium tersebut. Perangkat ini bekerja atas dasar hukum Beer-Lambert, yang menyatakan bahwa penyerapan cahaya yang ditransmisikan melalui medium berbanding lurus dengan konsentrasi medium. 
+
+Jenis
+
+Ada berbagai jenis colorimeters, termasuk [[densitometer]] warna, yang mengukur kepadatan warna-warna primer, dan fotometer warna, yang mengukur refleksi dan transmisi warna. 
+
+[[Spektrofotometer]] adalah jenis fotometer yang mengukur intensitas cahaya, sering dikelompokkan bersama dengan colorimeters, namun secara teknis merupakan perangkat yang berbeda. Keduanya bergantung pada hukum Beer-Lambert untuk menghitung konsentrasi zat dalam larutan, tetapi dilakukan dengan cara yang berbeda. Colorimeter hanya mengukur warna merah, hijau, dan warna biru terang, sedangkan spektrofotometer dapat mengukur intensitas setiap panjang gelombang cahaya tampak. Secara umum, ''spektrofotometer'' lebih rumit dan kurang kasar daripada colorimeters kebanyakan, keduanya harus ditangani dengan hati-hati dan memerlukan kalibrasi ulang reguler.
+
+'''Bagaimana Colorimeter Bekerja'''
+Pada posisi paling dasar, kolorimeter bekerja dengan melewati panjang gelombang cahaya tertentu melalui solusi, dan kemudian mengukur cahaya yang datang melalui di sisi lain. Dalam kebanyakan kasus, lebih terkonsentrasi solusinya yaitu cahaya lampu akan lebih banyak diserap, dan dapat dilihat pada perbedaan antara cahaya pada sumber asalnya dan setelah itu melewati solusi. Untuk mengetahui konsentrasi suatu sampel, maka sampel dilihat dari solusi di mana konsentrasi diketahui yang pertama disiapkan dan diuji. Ini kemudian diplot pada grafik dengan konsentrasi pada satu sumbu dan absorbansi di sisi lain untuk membuat kurva kalibrasi, ketika sampel tidak diketahui diuji, hasilnya dibandingkan dengan sampel yang dikenal pada kurva untuk menentukan konsentrasi. Beberapa jenis colorimeters otomatis akan membuat kurva kalibrasi didasarkan pada kalibrasi awal.
+
+'''Penggunaan'''
+''Colorimeter'' dapat digunakan dalam berbagai bidang. '''Colorimeter portable''' dapat digunakan untuk menganalisis kontras warna dan kecerahan pada layar televisi atau komputer, yang memungkinkan pengguna untuk kemudian menyesuaikan pengaturan untuk mendapatkan kualitas gambar terbaik. 
+
+Dalam industri percetakan, colorimeter adalah elemen dasar dalam suatu sistem manajemen warna. Aplikasi pencetakan lainnya termasuk industri memeriksa komponen elektronik dan kualitas kertas pulp dan mengukur kualitas tinta cetak.
+
+Pedagang berlian menggunakan colorimeters untuk mengukur sifat optik dari batu mulia. Dalam tata rias, perangkat ini digunakan untuk mengukur faktor perlindungan kulit terhadap matahari. 
+
+Colorimeters dapat menganalisis warna kulit dan warna gigi untuk membantu mendiagnosa penyakit tertentu, dan rumah sakit bahkan menggunakan beberapa jenis perangkat ini untuk menguji konsentrasi hemoglobin dalam darah.
+
+== Lihat pula ==
+* [[Takometer]]
+* [[Alat ukur]]
+* [[Anemometer]]
+* [[Termometer]]

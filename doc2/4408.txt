@@ -1,0 +1,53 @@
+Albrandswaard
+{{Infobox settlement
+|official_name = Albrandswaard
+|image_flag = Albrandswaard flag.svg
+|flag_size = 120x100px
+|image_shield =
+|shield_size = 120x100px
+|image_map = LocatieAlbrandswaard.png
+|image_skyline=Rtd Albrandswaard.gif
+|mapsize = 250px
+|coordinates_display = inline,title
+|coordinates_region = NL
+|subdivision_type = Negara
+|subdivision_name = [[Netherlands]]
+|subdivision_type1 = Provinsi
+|subdivision_name1 = [[Holland Selatan]]
+|area_footnotes = (2006)
+|area_total_km2 = 23.75
+|area_land_km2 = 22.18
+|area_water_km2 = 1.57
+|population_as_of = 1 January 2007
+|population_note = Source: [[Statistics Netherlands|CBS]], [http://statline.cbs.nl/ Statline].
+|settlement_type = Municipality
+|population_total = 21554
+|population_density_km2 = 972
+|timezone = [[Central European Time|CET]]
+|utc_offset = +1
+|timezone_DST = [[Central European Summer Time|CEST]]
+|utc_offset_DST = +2
+|latd = 51.827
+|latNS = N
+|longd = 4.233
+|longEW = E
+|website = [http://www.albrandswaard.nl www.albrandswaard.nl]
+}}
+[[Berkas:LocatieAlbrandswaard.png|right|Letak {{pagename}} di [[Belanda]].]]
+
+'''Albrandswaard''' ({{pronunciation|Nl-Albrandswaard.ogg}}), adalah sebuah ''[[gemeente]]'' [[Belanda]] yang terletak di [[provinsi]] [[Zuid-Holland]]. Pada tahun [[2003]] daerah ini memiliki [[penduduk]] sebesar 18.640 jiwa dengan luas wilayah sebesar 22,72&nbsp;km<sup>2</sup>.
+
+== Lihat pula ==
+* [[Daftar kota di Belanda]]
+
+==Pranala Luar==
+*[http://www.albrandswaard.nl official website]
+*[http://www.sdu.nl/staatscourant/gemeentes/gem8zh.htm basic data]
+*http://www.plattegronden.nl/gemeentealbrandswaard/ - map
+
+{{GemeentenZuid-Holland}}
+
+[[Kategori:Kota di Belanda]]
+
+
+{{Belanda-geo-stub}}

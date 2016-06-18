@@ -1,0 +1,149 @@
+Civilization V: Gods & Kings
+{{Infobox CVG
+| title = Sid Meier's Civilization V: Gods & Kings
+| image = [[Berkas:Civ5 G&K Logo.png|250px]]<br>[[Berkas:Gods&KingsBoxArt.jpg|250px]]
+| developer = [[Firaxis Games]]
+| publisher = [[2K Games]]
+| series = ''[[Civilization (seri)|Civilization]]''
+| designer = Ed Beach
+| released = {{vgrelease|NA=[[19 Juni]] [[2012]]<ref name="reldate">{{cite web|url=http://www.2kgames.com/blog/civilization-v-gods-amp-kings-releases-june-19 |title=Civilization V: Gods & Kings Releases June 19 |first=Greg |last=Laabs |work=2K Blog |publisher=[[2K Games]] |date=5 April 2012 |accessdate=5 April 5 2012}}</ref>|WW=June 22, 2012<ref name="reldate"/>}}
+| ratings = {{vgratings|ESRB=E10+|PEGI=12|BBFC=PG}}
+| genre = [[Turn-based strategy]], [[4X]]
+| modes = [[Pemain tunggal|Single-player]], [[multiplayer]]
+| platforms = [[Microsoft Windows]], [[Mac OS X]], <br/>[[Cloud computing|Cloud]] ([[OnLive]])
+| title= {{PAGENAME}}
+| media = [[DVD]], [[Unduh|download]]<ref name="steam">{{cite web| url=http://store.steampowered.com/app/8930/ | title=Sid Meier's Civilization V on Steam (Full version and demo)| publisher=Valve Corporation | year=2010 | accessdate=2010-02-22}}</ref>
+| requirements = {{Collapsible list |title='''[[Microsoft Windows]]'''|
+:'''Syarat minimum:'''<ref name="requirements">{{cite web| url=http://www.civilization5.com/#/community/system_requirements | title=Civilization V System Requirements | publisher=Civilization5.com | date=2010-08-05 | accessdate=2010-08-08}}</ref><small>
+:* [[Windows XP|Windows XP SP3]]
+:* [[Intel]] [[Core 2 Duo]] 1.8&nbsp;[[GHz]] atau [[AMD]] [[Athlon 64 X2]] 2.0&nbsp;GHz [[CPU|Processor]]
+:* 2&nbsp;[[Gigabyte|GB]] [[Random access memory|RAM]]
+:* 8&nbsp;GB memori kosong
+:* [[DVD]] Drive untuk instalasi dari disk
+:* 256&nbsp;MB ATI [[Radeon R600|Radeon HD 2600]] XT / nVidia [[GeForce 7900]] GS [[kartu video]], atau kartu grafis terintegrasi [[Core i3]]
+:* [[Kartu suara]] [[DirectX 9.0c]]
+:* Koneksi internet dan sebuah akun [[Steam]] untuk otentikasi</small>
+:'''Syarat yang direkomendasikan:'''<ref name="requirements"/><small>
+:* [[Windows Vista|Windows Vista SP2]]/[[Windows 7]]/[[Windows 8]]
+:* 1.8&nbsp;GHz Prosesor [[Quad Core]]
+:* 4&nbsp;GB RAM
+:* 8&nbsp;GB memori kosong
+:* DVD Drive untuk instalasi dari disk
+:* 512&nbsp;MB ATI [[Radeon HD 4870|4800]]/nVidia [[GeForce 9 Series#GeForce 9800 Series|9800]] atau kartu grafis yang lebih baik</small>
+}}{{Collapsible list |title='''[[Mac OS X]]'''|<small>
+* [[Mac OS X Snow Leopard|Mac OS 10.6.4 (Snow Leopard)]]
+* 2.6&nbsp;GHz Prosesor Quad Core
+* 4&nbsp;GB RAM
+* Memori Video: 512&nbsp;MB</small>
+}}
+}}
+'''Sid Meier's Civilization V: Gods & Kings''' adalah ekpansi resmi pertama untuk permainan strategi berbasis giliran, ''[[Civilization V]]''. Ekspansi ini dirilis pada [[19 Juni]] [[2012]] di [[Amerika Utara]], dan tanggal [[22 Juni]] [[2012]] di seluruh [[dunia]].<ref name="reldate"/> Ekspansi ini menambah fitur [[agama]] dan [[spionase]] ke dalam permainan disertai perbaikan dalam pertarungan dan diplomasi.<ref name="announcement">{{cite web |url=http://www.2kgames.com/blog/civilization-v-expansion-pack-announced |title=Civilization V Expansion Pack Announced! |first=Greg |last=Laabs |work=2K Blog |date=February 16, 2012 |publisher=2K Games}}</ref> Ekspansi ini berslogan: "''It's good to be the King, it's better to be a God.''" <ref name="Civilization V: Gods & Kings Launch Trailer">[http://www.youtube.com/watch?v=J7UkytQPI7E&feature=player_embedded Civilization V: Gods & Kings Launch Trailer]</ref>
+
+Pembaruan dalam ekspansi Gods & Kings mencakup 27 unit baru, 13 bangunan baru, sembilan [[keajaiban dunia]] baru, dan sembilan peradaban baru untuk dimainkan. Sebah mekanisme agama baru menampilkan sumber daya "[[iman]]" yang memungkinkan pemain untuk menemukan agama mereka sendiri dan dapat tumbuh menjadi "agama dunia yang dapat sepenuhnya dikostumisasi." Diplomasi telah dikerjakan ulang untuk menyertakan spionase, kedutaan asing, dan jenis baru dari negara-negara kota (agama dan [[pedagang]]). Negara kota juga memiliki sistem pencarian baru dan kepentingan strategis. Selain itu, sistem tempur telah dikerjakan ulang untuk memasukkan [[Kecerdasan buatan|AI]] yang lebih cerdas, diperluasnya jangka waktu periode [[modern]] awal, dan peningkatan angkatan laut yang menampilkan ''Great General'' ([[Admiral]] Tinggi) dan unit angkatan laut bersenjata jarak dekat. Gods & Kings menambahkan 52 tambahan prestasi [[Steam]] untuk Civilization V.<ref>{{cite web|url=http://www.civilization5.com/godsandkings/us/features/achieve.php|title=Gods & Kings Achievements|publisher=[[Take-Two Interactive Software]]|accessdate=May 29, 2012}}</ref>
+
+== Perubahan ekspansi ==
+=== Skenario ===
+Tiga skenario baru yang termasuk dalam ekspansi: "Fall of Rome", berfokus pada runtuhnya [[Kekaisaran Romawi]], "Into the Renaissance", berfokus pada [[agama]] pada [[Abad Pertengahan]] pada [[Abad Renaisans|Era Renaisans]], dan "Empires of the Smoky Skies", sebuah skenario steampunk pada [[Era Victoria]].<ref name="PAX">{{cite web|last=Shirk|first=Dennis|title=2K - PAX 2012 Stream - Day 1 (Friday)|url=http://www.twitch.tv/2k/b/314130733}}</ref>
+
+=== Agama ===
+Gods & Kings memperkenalkan kembali fitur agama untuk seri ini. Pemain dapat menemukan agama dan menyesuaikan keyakinannya yang beragam, sehingga memiliki manfaat yang berbeda dalam permainan, melalui budidaya sumber daya "iman" mirip dengan fungsi kerja budaya dan ilmu pengetahuan dalam permainan. Penggunaan "Great Prophet" ([[Nabi]] Besar), [[misionaris]], dan unit [[jaksa]] juga memungkinkan pemain untuk menyebarluaskan dan mengendalikan agama yang mereka pilih. Agama akan cukup menonjol pada waktu awal, sekitar dua-pertiga proses permainan, yang mempengaruhi diplomasi dan hubungan internasional, tetapi efeknya akan berkurang seiring dengan pemain mendekati era modern. Jumlah agama pada Gods & Kings meliputi sebelas, yakni: [[Buddha]], [[Kristen]], [[Konghucu]], [[Hindu]], [[Islam]], [[Yudaisme]], [[Shinto]], [[Sikhisme]], [[Taoisme]],[[Tengrisme]], dan [[Zoroastrianisme]]. Namun, pemain memiliki pilihan untuk mengubah nama agama yang dipilih olehnya.<ref name="kotaku">{{cite web|url=http://kotaku.com/5885161/heres-how-civilization-v-gods--kings-will-reinvent-the-series |title=Gods, Spies Take Center Stage In Civilization V Expansion |work=[[Kotaku]] |last=Schreier |first=Jason |date=February 16, 2012|accessdate=February 24, 2012}}</ref><ref name="ign"/><ref name="gamspot">{{cite web|url=http://www.gamespot.com/sid-meiers-civilization-v-gods-and-kings/previews/gods-and-kings-brings-big-changes-to-civilization-v-6350514/|title=Gods & Kings Brings Big Changes to Civilization V|work=[[GameSpot]]|last=McGee|first=Maxwell|date=2012-02-16|accessdate=2012-02-24}}</ref>
+
+=== Spionase ===
+Spionase di Gods & Kings dapat digunakan untuk menyerang peradaban musuh serta negara kota. Mata-mata mampu mencuri teknologi, mencurangi pemilihan, melakukan pengintaian, serta misi spionase berbagai lain yang tersedia dalam permainan Civilization sebelumnya. Tidak seperti di game sebelumnya, mata-mata tidak dapat dilatih atau diproduksi oleh sebuah peradaban. Sebaliknya, mereka diberikan pada interval tertentu sepanjang sesuai dengan jamannya. Selain itu, tidak seperti di permainan sebelumnya, mata-mata dapat memperoleh pengalaman dan naik level setiap kali ia berhasil melakukan misi, seperti halnya unit-unit yang tempur dapat memperoleh pengalaman setiap kali mereka terlibat dalam pertempuran dan berhasil memenangkannya. Mata-mata yang ditangkap juga dapat mengungkapkan informasi kepada peradaban lawan. Sistem spionase ini dirancang untuk menimbulkan efek seiring dengan memudarnya sistem agama. Namun, mata-mata tidak tersedia sampai era Renaisans.<ref name="kotaku"/><ref name="ign">{{cite web |url=http://pc.ign.com/articles/121/1218810p1.html |title=Religion and More Return to Civilization V |work=IGN |date=February 16, 2012}}</ref><ref name="gamspot"/>
+
+=== Keajaiban dunia ===
+Tidak ketinggalan ekspansi ini juga menambah beberapa [[keajaiban dunia]] baru,<ref>http://well-of-souls.com/civ/civ5_expansion</ref> yakni:
+* [[Pasukan terakota|Mausoleum of Emperor Qin]]
+* [[Petra|Hidden City of Petra]]
+* [[Alhambra]]
+* [[Masjid Raya Djenn|Great Mosque of Djenne]]
+* [[Kastil Neuschwanstein|Neuschwanstein Castle]]
+* [[Menara Pisa|Leaning Tower of Pisa]]
+* [[Menara CN|CN Tower]]
+* [[Teleskop luar angkasa Hubble|Hubble Space Telescope]]
+* [[Sensor internet di Republik Rakyat Cina|The Great Firewall]]
+* [[Badan Intelijen Nasional|National Intelligence Agency]]
+
+Terdapat perubahan kecil pada keajaiban dunia dalam ekspansi ini yakni [[Stonehenge]] bonusnya bertambah +6 poin budaya dan [[Pasukan terakota]] bonusnya berubah menjadi +6 poin kepercayaan.
+
+=== Bangsa-bangsa ===
+Ekspansi ini mencakup sembilan bangsa baru yang dapat dimainkan yakni: Belanda, Celt, Maya, Kartago, Byzantium, Hun, Austria, Ethiopia, dan Swedia.<ref name="PAX"/>
+{|class="wikitable sortable" style="margin:auto; width: 95%;"
+|+Daftar bangsa baru di ''Civilization V: Gods & Kings''<ref name="official">{{cite web|url=http://www.civilization5.com/godsandkings/us/ |title=Civilization V: Gods & Kings |publisher=Civilization5.com |date=2012-05-21 |accessdate=2012-06-20}}</ref>
+!width=12%|Bangsa
+!width=16%|Pemimpin
+!width=18%|Keunikan 1
+!width=18%|Keunikan 2
+!width=15%|Ibu Kota
+!width=21%|Kemampuan
+|-
+| [[Monarki Habsburg|Austria]] || [[Maria Theresia dari Austria|Maria Theresa]] || [[Hussar]] || [[Sejarah kopi|Coffee House]] || [[Wina|Vienna]] || [[Lingkaran Austria|Diplomatic Marriage]]
+|-
+| [[Kekaisaran Bizantium|Byzantium]] || [[Theodora (istri Yustinianus I)|Theodora]] || [[Katafrak|Cataphract]] || [[Dromon]] || [[Constantinople]] || Patriarchate of Constantinople
+|-
+| [[Carthage Kuno|Carthage]] || [[Dido (Ratu Kartago)|Dido]] || [[Gajah Afrika Utara|African Forest Elephant]] || Quinquereme || [[Kartago|Carthage]] || [[Bangsa Fenisia|Phoenician Heritage]]
+|-
+| [[Celts|Celtica]] || [[Boudica|Boudicca]] || [[Pict|Pictish Warrior]] || [[Cilidh|Ceilidh Hall]] || [[Edinburgh]] || [[Druid|Druidic Lore]]
+|-
+| [[Kekaisaran Ethiopia|Ethiopia]] || [[Haile Selassie]] || [[Mehal Sefari]] || [[Prasasti|Stele]] || [[Addis Ababa]] || [[Pertempuran Adwa|Spirit of Adwa]]
+|-
+| [[Kekaisaran Hun|Huns]] || [[Attila]] || [[Pemanah berkuda|Horse Archer]] || [[Pelantak tubruk|Battering Ram]] || [[Attila's Court]] || [[Attila#Perlawanan terhadap Kerajaan Romawi Timur|Scourge of God]]
+|-
+| [[Peradaban Maya|Maya]] || [[Pacal yang Agung|Pacal]] || Atlatlist || [[Peradaban Maya#Situs Maya|Pyramid]] || [[Palenque]] || [[Kalender Maya|The Long Count]]
+|-
+| [[Kekaisaran Belanda|Netherlands]] || [[Willem van Oranje|William I]] || [[Geuzen|Sea Beggar]] || [[Polder]] || [[Amsterdam]] || [[VOC|Dutch East India Company]]
+|-
+| [[Kekaisaran Swedia|Sweden]] || [[Gustavus Adolphus dari Swedia|Gustavus Adolphus]] || Hakkapeliitta || Carolean || [[Stockholm]] || [[Hadiah Nobel|Nobel Prize]]
+|}
+
+== Penghargaan ==
+{{VG Reviews
+| MC            = 80/100<small> (42 ulasan)</small><ref name="metacritic-Civilization V">{{cite web | accessdate = 2012-07-06 | url = http://www.metacritic.com/game/pc/sid-meiers-civilization-v-gods-kings|title= Sid Meier's Civilization V: Gods &amp; Kings for PC Reviews, Ratings, Credits, and More - Metacritic|publisher=[[Metacritic]] }}</ref>
+| GR  = 78,76 %<small> (20 ulasan)</small><ref>http://www.gamerankings.com/pc/660802-sid-meiers-civilization-v-gods-and-kings/index.html</ref>
+| G4            = {{rating|4|5}}<ref name="G4">{{cite web|url=http://www.g4tv.com/games/pc/66009/sid-meiers-civilization-5-gods-and-kings/review/|title=Sid Meier's Civilization 5: Gods and Kings Review for PC|publisher=[[G4 (TV channel)|G4]]|first=Kevin|last=Kelly|date=2012-06-25|accessdate=2012-06-25}}</ref>
+| IGN           = {{rating|9|10}}<ref name="IGNreview">{{cite web|url=http://ie.ign.com/articles/2012/06/19/civilization-v-gods-and-kings-review|title=Civilization V Review | publisher = IGN | date=2010-09-20 | accessdate=2010-09-23}}</ref>
+| 1UP           = A-<ref>http://www.1up.com/reviews/civilization-gods-kings-review-improvements</ref>
+| rev1          = [[Giant Bomb]]
+| rev1Score     = {{rating|4|5}}<ref>{{cite web | url = http://www.giantbomb.com/sid-meiers-civilization-v-gods-kings/61-37508/reviews/ | title = Sid Meier's Civilization V: Gods & Kings Review | first = Alex | last = Navarro | date = 2012-06-18 | accessdate = 2012-06-18 | publisher = [[Giant Bomb]] }}</ref>
+| rev2          = [[GameSpy]]
+| rev2Score     = 3,5/5<ref>http://uk.pc.gamespy.com/pc/sid-meiers-civilization-v-gods-kings/1225133p1.html</ref>
+| rev3          = Jeuxvideo.com
+| rev3Score     = 17/20<ref>http://www.jeuxvideo.com/articles/0001/00017245-civilization-v-gods-kings-test.htm</ref>
+| rev4          = Gamekult     
+| rev4Score     = {{rating|6|10}}<ref>http://www.gamekult.com/jeux/test-civilization-v-gods-and-kings-SU3010010555t.html?pf=pc-160001</ref>
+| rev5          = [[GameSpot]]
+| rev5Score     = {{rating|9|10}}<ref>http://www.gamespot.com/sid-meiers-civilization-v-gods-and-kings/reviews/sid-meiers-civilization-v-gods-and-kings-review-6383629</ref>
+| rev6          = Eurogamer    
+| rev6Score     = {{rating|7|10}}<ref>http://www.eurogamer.net/articles/2012-06-18-civilization-5-gods-and-kings-review</ref>
+}}
+
+* Tinjauan awal pada permainan telah menunjukan tanda-tanda positif, dengan skor 80 dari 100 pada tinjauan agregator [[Metacritic]], berdasarkan 42 ulasan.<ref name="metacritic-Civilization V"/>
+* [[IGN]] menyatakan bahwa permainan ini "sangat meningkatkan dasar-dasar permainan, begitu banyak sehingga saya tidak bisa membayangkan untuk memainkan ''Civilization V'' tanpa fitur itu", dan menyimpulkan bahwa penggemar lama dan baru dari ''Civilization'' sama-sama memiliki banyak alasan untuk bermain dan menemukan "iman" di dalam Gods & Kings, lalu memberikan skor 9 dari 10.<ref>{{cite web|url=http://ie.ign.com/articles/2012/06/19/civilization-v-gods-and-kings-review |title=Civilization V: Gods and Kings Review - IGN |publisher=Ie.ign.com |date=2012-06-19 |accessdate=2012-07-06}}</ref>
+* ''[[Forbes]]'' menyebutnya "ekspansi yang hebat dan adiktif seperti biasanya", pujian tersebut merujuk pada kembalinya fitur agama dan spionase untuk seri ini.<ref>{{cite web|author=David M. Ewalt |url=http://www.forbes.com/sites/davidewalt/2012/06/19/civilization-v-gods-kings/ |title=Civ Gets Good With God In Civilization V: Gods & Kings |publisher=Forbes |date=2012-04-18 |accessdate=2012-07-06}}</ref>
+* ''[[The Escapist]]'' mengatakan bahwa "lebih dari sekadar tambahan bangsa, unit, dan teknologi; God & Kings membawa sistem baru untuk desain strategi bergiliran Civilization V yang memaksa anda untuk memikirkan kembali strategi lama", pemberian ulasan untuk permainan ini dengan nilai 4.5 dari 5.<ref>{{cite web|author=Civilization V: Gods & Kings Review |url=http://www.escapistmagazine.com/articles/view/editorials/reviews/9752-Civilization-V-Gods-Kings-Review |title=The Escapist : Civilization V: Gods & Kings Review |publisher=Escapistmagazine.com |date= |accessdate=2012-07-06}}</ref>
+* ''[[The Verge]]'' memberi pujian khususnya untuk mekanisme agama baru, yang menyatakan keunggulannya dibandingkan dengan ''[[Civilization IV]]'' sebelumnya : "mereka tidak memiilh secara sembarangan dari daftar dan tidak hanya melihat seakan tidak peduli sistem agama dalam ''Civilization IV'' (...) ini menambahkan lapisan baru untuk berinteraksi dengan dunia dan hanya menyediakan satu cara untuk menaklukkan dunia.".<ref>{{cite web|last=Pitts |first=Russ |url=http://www.theverge.com/gaming/2012/6/18/3093699/civilization-v-gods-kings-review |title='Civilization V: Gods & Kings' review: manifested destiny |publisher=The Verge |date=2012-06-18 |accessdate=2012-07-06}}</ref>
+* Pendapat kurang antusias datang dari [[GameSpy]], yang mengkritik bahwa spionase terasa kurang penting dalam permainan secara keseluruhan dan menyatakan bahwa ekspansi hanya mengalami sedikit perbedaan dari permainan inti ''Civlization V'', lalu memberikan bintang 3.5 dari 5.<ref>{{cite web|url=http://pc.gamespy.com/pc/sid-meiers-civilization-v-gods-kings/1225133p1.html |title=GameSpy: Civilization V: Gods & Kings Review - Page 1 |publisher=Pc.gamespy.com |date= |accessdate=2012-07-06}}</ref>{{clear}}
+
+== Lihat pula ==
+* [[Civilization V: Brave New World]]
+* [[Civilization V]]
+
+== Referensi ==
+{{reflist}}
+
+== Pranala Luar ==
+* {{en}} [http://www.civilization5.com/godsandkings/us/ Situs web resmi Civilization V: Gods & Kings]
+* {{en}} [http://www.civilization5.com/ Situs web resmi Civilization V]
+
+{{civilization}}
+
+[[Kategori:Permainan video tahun 2012]]
+[[Kategori:Civilization]]
+[[Kategori:Permainan Mac OS X]]
+[[Kategori:Permainan Windows]]
+[[Kategori:Permainan multiplayer online]]
+[[Kategori:Permainan video kooperatif]]
+[[Kategori:Permainan Firaxis Games]]
+
+
+{{game-stub}}

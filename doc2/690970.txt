@@ -1,0 +1,4 @@
+Kategori:Semua tokoh Denmark
+{{semuatokohkat|{{remove first word|{{remove first word|{{PAGENAME}}}}}}}}
+{{CategoryTOC}}
+{{hiddencat}}

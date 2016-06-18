@@ -1,0 +1,123 @@
+Daftar paroki di Jamaika
+{{Infobox subdivision type
+| name               = Paroki di Jamaika
+| alt_name           = 
+| map                = [[File:Jamaica, administrative divisions (parishes) - en - monochrome.svg|300px]]
+| category           = [[Negara kesatuan]]
+| territory          = [[Jamaika]]
+| start_date         =
+| current_number     = 14 Paroki
+| number_date        =
+| population_range   = 68,000 ([[Hanover Parish|Hanover]])  541,000 ([[Saint Andrew Parish, Jamaica|Saint Andrew]])
+| area_range         = {{Convert|25|km2|sqmi|abbr=on}} ([[Kingston]])  {{Convert|1213|km2|sqmi|abbr=on}} ([[Saint Ann Parish|Saint Ann]])
+| government         = Paroki
+| subdivision        = Kota besar, kota kecil, desa
+}}
+
+Pemerintahan '''[[Jamaika]]''' terdiri dari 3 [[county]] dan 14 [[paroki]], yaitu:
+
+__NOTOC__
+
+{| class="wikitable"
+! colspan="2" | Paroki
+! [[Ibukota]]
+! Area<br>km
+! Populasi<br />(2011)
+|-
+! style="background: #BFB;" colspan="5" | [[Cornwall County, Jamaica|Cornwall County]]
+|-
+| 1||[[Hanover Parish|Hanover]]
+| [[Lucea, Jamaica|Lucea]]
+| align="right"| 450.4
+| align="right"| 69,533
+|-
+| 2||[[Saint Elizabeth Parish|Saint Elizabeth]]
+| [[Black River, Jamaica|Black River]]
+| align="right"| 1,212.4
+| align="right"| 150,205
+|-
+| 3||[[Saint James Parish, Jamaica|Saint James]]
+| [[Montego Bay]]
+| align="right"| 594.9
+| align="right"| 183,811
+|-
+| 4||[[Trelawny Parish|Trelawny]]
+| [[Falmouth, Jamaica|Falmouth]]
+| align="right"| 874.6
+| align="right"| 75,164
+|-
+| 5||[[Westmoreland Parish|Westmoreland]]
+| [[Savanna-la-Mar]]
+| align="right"| 807.0
+| align="right"| 144,103
+|-
+! style="background: #FBB;" colspan="5" | [[Middlesex County, Jamaica|Middlesex County]]
+|-
+| 6||[[Clarendon Parish, Jamaica|Clarendon]]
+| [[May Pen]]
+| align="right"| 1,196.3
+| align="right"| 245,103
+|-
+| 7||[[Manchester Parish|Manchester]]
+| [[Mandeville, Jamaica|Mandeville]]
+| align="right"| 830.1
+| align="right"| 189,797
+|-
+| 8||[[Saint Ann Parish|Saint Ann]]
+| [[Saint Ann's Bay]]
+| align="right"| 1,212.6
+| align="right"| 172,362
+|-
+| 9||[[Saint Catherine Parish|Saint Catherine]]
+| [[Spanish Town]]
+| align="right"| 1,192.4
+| align="right"| 516,218
+|-
+| 10||[[Saint Mary Parish, Jamaica|Saint Mary]]
+| [[Port Maria]]
+| align="right"| 610.5
+| align="right"| 113,615
+|-
+! style="background: #FFA;" colspan="5" | [[Surrey County, Jamaica|Surrey County]]
+|-
+| 11||[[Kingston Parish]]<sup>(1)</sup>  <sup>(2)</sup>
+| [[Kingston, Jamaica|Kingston]]
+| align="right"| 21.8
+| align="right"| 89,057
+|-
+| 12||[[Portland Parish|Portland]]
+| [[Port Antonio]]
+| align="right"| 814.0
+| align="right"| 81,744
+|-
+| 13||[[Saint Andrew Parish, Jamaica|Saint Andrew]]<sup>(1)</sup>
+| [[Half Way Tree]]
+| align="right"| 430.7
+| align="right"| 573,369
+|-
+| 14||[[Saint Thomas Parish, Jamaica|Saint Thomas]]
+| [[Morant Bay]]
+| align="right"| 742.8
+| align="right"| 93,902
+|- style="background: #CCC;"
+| colspan="3" |Total
+| align="right"| 10,991.0
+| align="right"| 2,697,983
+|}
+
+
+==Lihat pula ==
+*[[ISO 3166-2:JM]]
+
+==Referensi==
+{{reflist}}
+
+==Pranala luar==
+{{commons category|Paroki di Jamaika}}
+* [http://prestwidge.com/river/jamaicanparishes.html Jamaican Parish Reference], a concise and well illustrated history of parish naming in Jamaica.
+
+{{Paroki di Jamaika}}
+{{Pembagian administratif I}}
+{{negara-geo-stub|Jamaika}}
+[[Category:Jamaika|*]]
+[[Category:Paroki di Jamaika]]

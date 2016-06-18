@@ -1,0 +1,23 @@
+Gangguan (komunikasi)
+[[Berkas:4-14 Marines in Fallujah.jpg|thumb|right|200px|Salah satu contoh noise]]
+'''Gangguan''' adalah suatu [[hal]], [[getaran]], atau [[gelombang]] yang mendistorsi pengiriman [[pesan]] dalam [[proses]] [[komunikasi]].<ref name="Komunikasi"> [http://www.lrckesehatan.net/.../modul%20komunikasi%20dan%20motivasi-FINAL.doc ''Komunikasi dan Motivasi'']. Diakses 3 Juni 2010.</ref> Gangguan menyebabkan perbedaan antara pesan yang diterima oleh [[penerima]] (''receiver'') dengan pesan yang dikirimkan oleh [[sumber]] (''source'').<ref name="Komunikasi"/>
+
+== Jenis ==
+Dalam proses komunikasi, setidaknya dikenal tiga macam gangguan yang terdapat dalam pengiriman pesan, yakni<ref name="Komunikasi"/> :
+# Gangguan [[fisik]] merupakan gangguan yang disebabkan oleh adanya suara atau kebisingan lain di sekitar tempat pengiriman pesan, seperti adanya desingan [[suara]] [[mobil]] atau [[radio]].<ref name="Noise"> [http://www.ittelkom.ac.id/library/index.php?view=article&catid=11%3Asistem-komunikasi&id=313%3Anoise-&option=com_content&Itemid=15 ''Noise dan Metode Penanggulangannya'']. Diakses 4 Juni 2010.</ref> 
+# Gangguan [[psikologis]] merupakan gangguan yang disebabkan karena sudah adanya [[pemikiran]] lain di [[kepala]] penerima, sehingga membuat penerima seolah tidak setuju atau tidak bisa menyerap dengan baik mengenai pesan yang dikirimkan oleh sumber.<ref name="Komunikasi"/> 
+# Gangguan [[semantik]] merupakan gangguan yang disebabkan oleh adanya perbedaan [[makna]] yang dipahami oleh sumber dan penerima.<ref name="Komunikasi"/> Biasa terjadi pada [[istilah]]-istilah [[jargon]] atau rumit.<ref name="Komunikasi"/>
+
+== Cara Mengatasi ==
+Untuk mengatasi gangguan yang terjadi dalam proses komunikasi, salah satu cara yang [[efektif]] adalah dengan meng[[antisipasi]] dan meminimalisir segala gangguan dari luar (fisik) yang mungkin muncul, dan menciptakan kesamaan [[pemahaman]] antara makna pesan yang dikirimkan oleh sumber dan yang diterima oleh penerima, yaitu dengan memakai istilah-istilah yang umum digunakan.<ref name="Noise"/> 
+
+== Referensi ==
+{{reflist}}
+
+
+{{komunikasi-stub}}
+
+[[Kategori:Komunikasi]]
+[[Kategori:Komunikasi manusia]]
+
+[[fr:Bruit (acoustique)]]

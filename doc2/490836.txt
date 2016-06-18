@@ -1,0 +1,32 @@
+Sakit kepala tipe ketegangan
+{{penyangkalan medis}}
+
+{{Infobox Disease
+ | Name           = Tension headache
+ | Image          = Tension-headache.jpg
+ | Caption        = Tension-type headaches can be aggravated by [[temporomandibular joint]] dysfunction.<ref>{{cite journal |author=Rosted P, Jrgensen A, Bundgaard M |title=Temporomandibular dysfunction can contribute to aggravation of tension-type headache: a case report |journal=Acupunct Med |volume=28 |issue=3 |pages=154-5 |year= 2010 |pmid= 20813814 |url=http://aim.bmj.com/content/28/3/154.short}}</ref>
+ | DiseasesDB     = 12554
+ | ICD10          = {{ICD10|G|44|2|g|40}}
+ | ICD9           = {{ICD9|307.81}}, {{ICD9|339.1}}
+ | ICDO           = 
+ | OMIM           = 
+ | MedlinePlus    = 000797
+ | eMedicineSubj  = article
+ | eMedicineTopic = 1142908
+ | MeshID         = D018781
+}}
+
+
+'''''Tension type headache''''' adalah istilah yang digunakan untuk menggambarkan sakit kepala kronis tanpa gejala karena disebabkan gejalanya yang kurangnya karakteristik dibandingkan migrain atau [[sakit kepala cluster]]. Mekanisme patofisiologis yang pasti masih tidak diketahui, dan ketegangan bukan merupakan faktor yang paling bertanggung jawab. Kontraksi otot leher dan kulit kepala yang juga sudah
+diajukan sebagai penyebabnya, nyatanya mungkin hanya merupakan fenomena sekunder. Dalam bentuk klasiknya, ''Tension'' ''type'' ''headache'' adalah gangguan kronis yang dimulai setelah usia 20. hal ini ditandai dengan serangan yang cukup sering (seringkali setiap hari), tidak berdenyut, nyeri kepala [[oksipital]] bilateral, tidak berhubungan dengan mual, muntah, atau prodromal visual yang gangguan. Rasa sakit kadang-kadang disamakan dengan rasa ketat seperti terikat pita di sekitar kepala. Umumnya wanita lebih sering terkena daripada pria. 
+Meskipun ''Tension'' ''type'' ''headache''  dan migrain secara tradisional dianggap gangguan yang berbeda, banyak pasien mengalami sakit kepala yang menunjukkan gejala dari keduanya. Contohnya, beberapa pasien yang diklasifikasikan memiliki ''Tension'' ''type'' ''headache''  mengalami sakit kepala berdenyut, nyeri kepala unilateral, atau muntah saat serangan. Karena itu, mungkin lebih akurat untuk melihat ketegangan
+sakit kepala dan [[migrain]] sebagai mewakili kutub berlawanan dari spektrum klinis yang tunggal.<ref name="clinic">{{en}} {{cite book|author= David A. Greenberg, Michael J. Aminoff, Roger P. Simon|title= Clinical Neurology 5th edition|publisher= McGraw-Hill/Appleton & Lange|year=2002|id= -}}</ref>
+
+==Terapi==
+Prinsip-prinsip pengobatan ''Tension type headache'' adalah sama dengan [[migrain]]. Pasien dengan ''Tension type headache'' kemungkinan besar bisa mengobati dirinya sendiri dengan analgesik, yaitu penghilang rasa nyeri yang dijual bebas. Selain obat, olahraga teratur merupakan hal yang penting untuk mencegah penyakit ini sehingga harus menjadi bagian dari rutinitas sehari-hari pasien. Kebanyakan pasien berespon baik terhadap untuk berolahraga, relaksasi, dan analgesik sederhana.
+ 
+Jika pasien tidak menunjukkan kesembuhan dari hasil terapi tersebut, maka diperlukan pengobatan profilaksis seperti Antidepresan trisiklik yang berkhasiat untuk TTH. Sedangkan untk pasien TTH dengan depresi mungkin memiliki respon terhadap antidepresan lain.<ref name="mayo">{{en}} {{cite book|author= Andrea C. Adams, MD|title= Mayo Clinic Essential Neurology|publisher= Mayo Foundation|year=2008|id= ISBN-13 9781420079739}}</ref>
+
+==Referensi==
+{{reflist|2}}
+[[Kategori:Sakit kepala]]

@@ -1,0 +1,28 @@
+Templat:County Cherokee, Alabama
+{{US county navigation box
+| template_name = County Cherokee, Alabama
+| county = County Cherokee
+| state = {{cd|Alabama}}
+| color = #cddeff
+| map_image = Map of Alabama highlighting Cherokee County.svg
+| map_size = 100x100
+
+| seat = Centre
+
+| title1 = Kota besar
+| body1  =
+{{nowrap|[[Centre, Alabama|Centre]] {{!}}}}
+{{nowrap|[[Piedmont, Alabama|Piedmont]]}}
+
+| title2 = Kota kecil
+| body2 =
+{{nowrap|[[Cedar Bluff, Alabama|Cedar Bluff]] {{!}}}}
+{{nowrap|[[Collinsville, Alabama|Collinsville]] {{!}}}}
+{{nowrap|[[Gaylesville, Alabama|Gaylesville]] {{!}}}}
+{{nowrap|[[Leesburg, Alabama|Leesburg]]  {{!}}}}
+{{nowrap|[[Sand Rock, Alabama|Sand Rock]] }}
+
+| catatan = y
+}}<noinclude>
+[[Kategori:Templat county Alabama|{{PAGENAME}}]]
+</noinclude>

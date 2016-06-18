@@ -1,0 +1,35 @@
+Templat:Skuat Copa Amrica 2004 Kosta Rika
+{{National squad
+ | name      = Skuat Copa Amrica 2004 Kosta Rika
+ | bg        = #ce1126
+ | fg        = white
+ | country   = Kosta Rika
+ | comp link = Copa Amrica 2004
+ | comp      = Copa Amrica 2004
+ | p1        = [[Vctor Bolvar|Bolvar]] 
+ | p2        = [[Michael Umaa|Umaa]]  
+ | p3        = [[Luis Marn|Marn]] 
+ | p4        = [[Alexander Castro|Castro]]
+ | p5        = [[Whayne Wilson|Wilson]] 
+ | p6        = [[Cristian Oviedo Calvo|Oviedo]] 
+ | p7        = [[Alonso Sols|Sols]] 
+ | p8        = [[Danny Fonseca|Fonseca]] 
+ | p9        = [[lvaro Saboro|Saboro]] 
+ | p10       = [[Walter Centeno|Centeno]] 
+ | p11       = [[Rnald Gmez|Gmez]] 
+ | p12       = [[Leonardo Gonzlez|L. Gonzlez]]
+ | p13       = [[Carlos Hernndez|Hernndez]] 
+ | p14       = [[Cristian Badilla|Badilla]]
+ | p15       = [[Jnior Daz|Daz]] 
+ | p16       = [[Try Bennett|Bennett]] 
+ | p17       = [[Steven Bryce|Bryce]] 
+ | p18       = [[Jos Porras|Porras]] 
+ | p19       = [[Mauricio Wright|Wright]] 
+ | p20       = [[Douglas Sequeira|Sequeira]] 
+ | p21       = [[Andy Herron|Herron]] 
+ | p22       = [[Ricardo Gonzlez Fonseca|R. Gonzlez]]
+ | coach     = [[Jorge Luis Pinto|Pinto]]
+}}<noinclude>
+[[Kategori:Templat Skuat Copa Amrica 2004|Kosta Rika]]
+[[Kategori:Templat skuat tim nasional Kosta Rika|Copa Amrica 2004]]
+</noinclude>

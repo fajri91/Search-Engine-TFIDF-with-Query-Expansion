@@ -1,0 +1,8 @@
+Templat:Country data Konfederasi Argentina
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Konfederasi Argentina
+| shortname alias = Argentina
+| flag alias = Flag of the Argentine Confederation.svg
+| size = {{{size|}}}
+| name = {{{name|}}}
+}}

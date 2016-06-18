@@ -1,0 +1,92 @@
+Tony Bui
+{{Infobox person
+|name          = Tony Bui
+|image         = 
+|imagesize     = 
+|caption       =
+|birth_name     = 
+|birth_date     = {{Birth date and age|1973|09|14}}
+|birth_place      = [[Saigon, Vietnam]]
+|death_date     = 
+|death_place    = 
+|occupation    = Sutradara, Produser, Penulis
+|yearsactive   = 
+|spouse        = 
+}}
+
+'''Tony Bui''' (kelahiran 14 September 1973) adalah seorang [[sutradara]] independen [[orang Vietnam|Vietnam]] di AS, yang paling dikenal karena film 1999-nya ''[[Three Seasons]]'', yang melakukan debut di [[Festival Film Sundance]] dan menjadi satu-satunya film yang pernah memenangkan Penghargaan Audien sekaligus Penghargaan Juri Besar pada festival film tersebut. Film tersebut dibintangi oleh [[Harvey Keitel]].
+
+== Biografi ==
+
+=== Kehidupan awal ===
+Bui lahir di Vietnam dan pada 1975 datang ke AS pada usia dua tahun bersama dengan keluarganya, sebagai pengungsi Perang AS-Vietnam, meninggalkan Vietnam sekitar satu minggu sebelum [[Jatuhnya Saigon]]. Ia dibesarkan di [[Sunnyvale, California]].
+
+=== Kehidupan pribadi ===
+Bui adalah saudara dari [[Timothy Linh Bui]], seorang sutradara dan produser. Keduanya bekerja bersama-sama pada beberapa film. Ia juga merupakan keponakan dari pemeran Vietnam [[Don Duong (pemeran)|n Dng]].
+
+== Filmografi ==
+{|class="wikitable"
+! rowspan="2" width="33"|Tahun
+! rowspan="2"|Film
+! colspan="5"|Bertugas sebagai
+|-
+! width=65 |[[sutradara film|Sutradara]]
+! width=65 |[[produser film|Produser]]
+! width=65 |[[Penulis latar|Penulis]]
+! width=65 |[[Pemeran]]
+|-align="center"
+|align="center"|1995
+|align="left"|''Yellow Lotus''
+|{{yes}}
+|{{yes}}
+|{{yes}}
+|
+|align="left"|
+|-align="center"
+|align="center"|1999
+|align="left"|''[[Three Seasons]]''
+|{{yes}}
+|{{yes}}
+|{{yes}}
+|
+|-align="center"
+|align="center"|2001
+|align="left"|''[[Green Dragon (film)|Green Dragon]]''
+|
+|{{yes}} 
+|{{yes}}
+|
+|-align="center"
+|align="center"|2005
+|align="left"|''My Name Is...''
+|
+|{{yes}}
+|
+|
+|-                  
+|}
+
+== Penghargaan dan nominasi ==
+
+== Referensi ==
+
+{{reflist}}
+
+== Pranala luar ==
+
+* {{IMDb name|id=0004784|name=Tony Bui}}
+
+{{Authority control}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+|NAME              =Bui, Tony
+|ALTERNATIVE NAMES =
+|SHORT DESCRIPTION =Sutradara
+|DATE OF BIRTH     =14 September 1973
+|PLACE OF BIRTH    =[[Saigon, Vietnam]]
+|DATE OF DEATH     =
+|PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Bui, Tony}}
+[[Kategori:Kelahiran 1973]]
+[[Kategori:Orang hidup]]

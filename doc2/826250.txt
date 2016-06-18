@@ -1,0 +1,54 @@
+Templat:Saturn Award untuk Film Fiksi Ilmiah Terbaik
+{{Navbox
+| name      = Saturn Award untuk Film Fiksi Ilmiah Terbaik
+| title     = [[Saturn Award untuk Film Fiksi Ilmiah Terbaik]]
+| bodyclass = hlist
+
+
+| list1 =
+*''[[Slaughterhouse-Five (film)|Slaughterhouse-Five]]'' (1972)
+*''[[Soylent Green]]'' (1973)
+*''[[Rollerball (film 1975)|Rollerball]]'' (1974/1975)
+*''[[Logan's Run (film)|Logan's Run]]'' (1976)
+*''[[Star Wars (film)|Star Wars]]'' (1977)
+*''[[Superman (film 1978)|Superman]]'' (1978)
+*''[[Alien (film)|Alien]]'' (1979)
+*''[[The Empire Strikes Back]]'' (1980)
+*''[[Superman II]]'' (1981)
+*''[[E.T. the Extra-Terrestrial]]'' (1982)
+*''[[Return of the Jedi]]'' (1983)
+*''[[The Terminator]]'' (1984)
+*''[[Back to the Future]]'' (1985)
+*''[[Aliens (film)|Aliens]]'' (1986)
+*''[[RoboCop]]'' (1987)
+*''[[Alien Nation (film)|Alien Nation]]'' (1988)
+*''[[Total Recall (film 1990)|Total Recall]]'' (1989/1990)
+*''[[Terminator 2: Judgment Day]]'' (1991)
+*''[[Star Trek VI: The Undiscovered Country]]'' (1992)
+*''[[Jurassic Park (film)|Jurassic Park]]'' (1993)
+*''[[Stargate (film)|Stargate]]'' (1994)
+*''[[12 Monkeys]]'' (1995)
+*''[[Independence Day (film 1996)|Independence Day]]'' (1996)
+*''[[Men in Black (film)|Men in Black]]'' (1997)
+*''[[Armageddon (film 1998)|Armageddon]]''/''[[Dark City (film 1998)|Dark City]]'' (1998)
+*''[[The Matrix]]'' (1999)
+*''[[X-Men (film)|X-Men]]'' (2000)
+*''[[A.I. Artificial Intelligence]]'' (2001)
+*''[[Minority Report (film)|Minority Report]]'' (2002)
+*''[[X2 (film)|X2: X-Men United]]'' (2003)
+*''[[Eternal Sunshine of the Spotless Mind]]'' (2004)
+*''[[Star Wars: Episode III  Revenge of the Sith]]'' (2005)
+*''[[Children of Men]]'' (2006)
+*''[[Cloverfield]]'' (2007)
+*''[[Iron Man (film 2008)|Iron Man]]'' (2008)
+*''[[Avatar (film 2009)|Avatar]]'' (2009)
+*''[[Inception]]'' (2010)
+*''[[Rise of the Planet of the Apes]]'' (2011)
+*''[[The Avengers (film 2012)|The Avengers]]'' (2012)
+*''[[Gravity (film)|Gravity]]'' (2013)
+*''[[Interstellar (film)|Interstellar]]'' (2014)
+
+}}<noinclude>
+{{collapsible option}}
+[[Kategori:Templat Saturn Award|Fiksi Ilmiah]]
+</noinclude>

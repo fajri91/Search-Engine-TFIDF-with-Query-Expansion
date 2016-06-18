@@ -1,0 +1,22 @@
+Themistonoe cacica
+{{italic title}}
+{{Taxobox
+|regnum = [[Animalia]]
+|phylum = [[Arthropoda]]
+|classis = [[Insecta]]
+|ordo = [[Kumbang|Coleoptera]]
+|subordo = [[Polyphaga]]
+|familia = [[Cerambycidae]]
+|genus = '''''[[Themistonoe]]'''''
+|species = '''''T. cacica'''''
+|binomial = ''Themistonoe cacica''
+|binomial_authority = Thomson, 1864
+|synonyms = 
+}}
+'''''Themistonoe cacica''''' adalah spesies [[kumbang]] dari familia [[Cerambycidae]], dan merupakan satu-satunya spesies dalam genus '''''Themistonoe'''''. Kumbang ini dideskripsikan oleh Thomson pada tahun 1864.<ref>[http://www.biolib.cz/en/taxon/id313875/ Biolib.cz - ''Themistonoe cacica'']. Diakses 8 September 2014.</ref>
+
+== Referensi ==
+{{reflist}}
+{{kumbang-stub}}
+
+[[Kategori:Hemilophini]]

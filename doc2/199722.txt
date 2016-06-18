@@ -1,0 +1,42 @@
+Ra repa
+{{AksaraBali infobox
+| Image = Bali Rarepa.png
+| Nama = Ra repa
+| IAST = 
+| Unicode = 1B0B
+| Latin = Re
+| Fonem = []
+| Fonem2 = [r]
+| Warga = murdhanya
+| Aksara = Bali
+| Gempelan = Gempelan Ra repa.png
+}}
+'''Ra repa''' (lafal: /rrep/) adalah salah satu ''[[aksara Bali#aksara swara (vokal)|aksara swara]]'' (huruf [[vokal]]) dalam sistem penulisan [[aksara Bali]]. Di Bali, Ra repa dikenal sebagai pengganti aksara [[Ra (aksara Bali)|Ra]] yang tidak boleh diberi [[pepet (Hanacaraka)|pepet]]. 
+Jika dialihaksarakan dari aksara Bali ke huruf Latin, maka Ra repa ditulis "Re" (lafal: /r/).
+
+== Fonem ==
+
+Aksara ini melambangkan bunyi //, yaitu bunyi [[konsonan hampiran|hampiran]] [[konsonan tarik-belakang|tarik-belakang]] dalam [[bahasa Sanskerta]]. Bunyi ini tidak dikenal dalam [[bahasa Bali]], namun aksara  yang melambangkan bunyi tersebut tetap diserap ke dalam aksara Bali. Di Bali, aksara tersebut tidak lagi melambangkan bunyi //, namun /r/, bunyi [[konsonan getar|getar]] [[konsonan rongga-gigi|rongga-gigi]] dengan [[pepet|vokal madya]].
+
+== Penggunaan ==
+
+Ra repa ditulis pada kata yang mengandung bunyi //, dilambangkan oleh huruf Latin . Karena bunyi // tidak terdapat dalam bahasa Bali, dan beralih menjadi /r/, maka Ra repa dianggap sebagai pengganti aksara Ra yang dilekati pepet. 
+
+Di India,  dieja /ri/. Contoh: kata ''Ka'' () dieja "Kresna" (di Bali) dan "Krishna" (di India); kata ''i'' () dieja "resi" (di Bali) dan "rishi" (di India). Sehubungan dengan itu, segala bunyi /r/ harus ditulis dengan Ra repa dalam bahasa Bali. Maka dari itu, huruf [[Ra (aksara Bali)|Ra]] tidak boleh dibubuhi tanda [[pepet (aksara Bali)|pepet]] agar bunyinya /r/, karena sudah ada Ra repa sebagai pengganti Ra yang dibubuhi pepet.
+
+== Lihat pula ==
+* [[Ra (aksara Bali)|Ra]]
+* [[Bahasa Sanskerta]]
+* [[Konsonan tarik-belakang]]
+
+== Referensi ==
+
+* Tinggen, I Nengah. 1993. ''Pedoman Perubahan Ejaan Bahasa Bali dengan Huruf Latin dan Huruf Bali.'' Singaraja: UD. Rikha.
+* Surada, I Made. 2007. ''Kamus Sanskerta-Indonesia.'' Surabaya: Penerbit Paramitha.
+* Simpen, I Wayan. ''Pasang Aksara Bali.'' Diterbitkan oleh Dinas Pendidikan dan Kebudayaan Provinsi Daerah Tingkat I Bali.
+
+
+{{aksara Bali}}
+
+[[Kategori:Huruf Bali]]
+[[Kategori:Huruf vokal]]

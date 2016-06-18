@@ -1,0 +1,2 @@
+Templat:AdvancedSiteNotices/item
+{{#if:{{{1|}}}|<li {{#if:{{{2|}}}|class="{{{2}}}"}}>{{{1}}}</li>}}{{#ifeq:{{FULLPAGENAME}}|Template:AdvancedSiteNotices/viewer|{{#if:{{{2|}}}|{{{2|}}}}}}}<noinclude></noinclude>

@@ -1,0 +1,189 @@
+Templat:API Microsoft
+{{Navbox
+| name      = API Microsoft
+| state     = {{{state<includeonly>|autocollapse</includeonly>}}}
+| title     = [[Daftar antarmuka pemrograman aplikasi dan bingkai kerja Microsoft Windows|API dan bingkai kerja Microsoft]]
+| listclass = hlist
+| groupstyle = line-height:1.3em
+
+| group1 = Grafis
+| list1  = 
+*[[Desktop Window Manager]]
+*[[Direct2D]]
+*[[Microsoft Direct3D|Direct3D]]
+*[[D3DX|D3D (ekstensi)]]
+*[[Graphics Device Interface|GDI / GDI+]]
+*[[Windows Presentation Foundation|WPF]]
+*[[Microsoft Silverlight|Silverlight]]
+*[[Windows Runtime XAML Framework|WinRT XAML]]
+*[[Windows Color System]]
+*[[Windows Image Acquisition]]
+*[[Windows Imaging Component]]
+
+| group2 = Audio
+| list2  = 
+*[[DirectMusic]]
+*[[DirectSound]]
+*[[DirectX plugin]]
+*[[Cross-platform Audio Creation Tool|XACT]]
+*[[Microsoft Speech API|Speech API]]
+*[[XAudio2]]
+
+| group3 = Multimedia
+| list3  = 
+*[[DirectX]]
+**[[DirectX Media Objects|Media Objects]]
+**[[DirectX Video Acceleration|Video Acceleration]]
+*[[DirectInput]]
+*[[DirectShow]]
+*[[Image Mastering API]]
+*[[Managed DirectX]]
+*[[Media Foundation]]
+*[[Microsoft XNA|XNA]]
+*[[Windows Media]]
+*[[Video for Windows]]
+
+| group4 = Web
+| list4  = 
+*[[Trident (mesin tampilan)|MSHTML]]
+*[[Windows RSS Platform|RSS Platform]]
+*[[JScript]]
+*[[VBScript]]
+*[[Browser Helper Object|BHO]]
+*[[XMLHttpRequest|XDR]]
+*[[Microsoft Gadgets|SideBar Gadgets]]
+*[[TypeScript]]
+
+| group5 = Akses data
+| list5  = 
+*[[Microsoft Data Access Components|Data Access Components]]
+*[[Extensible Storage Engine]]
+*[[ADO.NET]]
+*[[ADO.NET Entity Framework]]
+*[[Microsoft Sync Framework|Sync Framework]]
+*[[Microsoft Jet Database Engine|Jet Engine]]
+*[[MSXML]]
+*[[OLE DB]]
+*[[Open Packaging Conventions|OPC]]
+
+| group6 = Jaringan
+| list6  = 
+*[[Winsock]]
+**[[Layered Service Provider|LSP]]
+*[[Windows Vista networking technologies#Winsock Kernel|Winsock Kernel]]
+*[[Windows Filtering Platform|Filtering Platform]]
+*[[Network Driver Interface Specification]]
+*[[Windows Rally]]
+*[[Background Intelligent Transfer Service|BITS]]
+*[[Windows Vista networking technologies#Peer-to-peer communication|P2P API]]
+*[[Microsoft Message Queuing|MSMQ]]
+*[[Microsoft Messaging Passing Interface|MS MPI]]
+*[[DirectPlay]]
+
+| group7 = Komunikasi
+| list7  = 
+*[[Messaging Application Programming Interface|Messaging API]]
+*[[Telephony Application Programming Interface|Telephony API]]
+*[[Windows Communication Foundation|WCF]]
+
+| group8 = Administrasi dan<br />manajemen
+| list8  = 
+*[[Konsol Win32]]
+*[[Windows Script Host]]
+*[[Windows Management Instrumentation|WMI (ekstensi)]]
+*[[Windows PowerShell|PowerShell]]
+*[[Task Scheduler]]
+*[[Windows Vista I/O technologies#Offline Files|Offline Files]]
+*[[Shadow Copy]]
+*[[Windows Installer]]
+*[[Windows Error Reporting|Error Reporting]]
+*[[Event Viewer#Windows Event Log|Event Log]]
+*[[Common Log File System]]
+
+| group9 = [[Rekayasa perangkat lunak berbasis komponen|Model komponen]]
+| list9  = 
+*[[Component Object Model|COM]]
+*[[Component Object Model#COM+|COM+]]
+*[[ActiveX]]
+*[[Distributed Component Object Model]]
+*[[.NET Framework]]
+
+| group10 = [[Pustaka (komputasi)|Pustaka]]
+| list10  = 
+*[[Base Class Library|Base Class Library (BCL)]]
+*[[Microsoft Foundation Class Library|Microsoft Foundation Classes (MFC)]]
+*[[Active Template Library|Active Template Library (ATL)]]
+*[[Windows Template Library|Windows Template Library (WTL)]]
+
+| group11 = Driver
+| list11  = 
+*[[Windows Driver Model]]
+*[[Windows Driver Foundation]]
+**[[Kernel-Mode Driver Framework|KMDF]]
+**[[User-Mode Driver Framework|UMDF]]
+*[[Windows Display Driver Model|WDDM]]
+*[[Network Driver Interface Specification|NDIS]]
+*[[Universal Audio Architecture|UAA]]
+*[[Broadcast Driver Architecture]]
+*[[VxD]]
+
+| group12 = Keamanan
+| list12  = 
+*[[Microsoft CryptoAPI|Crypto API]]
+**[[CAPICOM]]
+*[[Windows CardSpace]]
+*[[Data Protection API]]
+*[[Security Support Provider Interface|Security Support Provider Interface (SSPI)]]
+
+| group13 = [[.NET Framework|.NET]]
+| list13  = 
+*[[ASP.NET]]
+*[[ADO.NET]]
+*[[Base Class Library|Base Class Library (BCL)]]
+*[[.NET Remoting|Remoting]]
+*[[Microsoft Silverlight|Silverlight]]
+*[[Task Parallel Library|TPL]]
+*[[Windows Communication Foundation|WCF]]
+*[[Windows CardSpace|WCS]]
+*[[Windows Presentation Foundation|WPF]]
+*[[Windows Workflow Foundation|WF]]
+
+| group14 = [[Software Factory (Microsoft .NET)|Pabrik perangkat lunak]]
+| list14  = 
+*[[EFx Factory]]
+*[[Microsoft Enterprise Library|Enterprise Library]]
+*[[Composite UI Application Block|Composite UI]]
+*[[Microsoft Customer Care Framework|CCF]]
+*[[Microsoft Connected Services Framework|CSF]]
+
+| group15 = [[Komunikasi interproses|IPC]]
+| list15  = 
+*[[Microsoft RPC|MSRPC]]
+*[[Dynamic Data Exchange|Dynamic Data Exchange (DDE)]]
+*[[.NET Remoting|Remoting]]
+*[[Windows Communication Foundation|WCF]]
+
+| group16 = Keteraksesan
+| list16  = 
+*[[Microsoft Active Accessibility|Active Accessibility]]
+*[[Microsoft UI Automation|UI Automation]]
+
+| group17 = Dukungan teks<br />dan multibahasa
+| list17  = 
+*[[DirectWrite]]
+*[[Text Services Framework]]
+*[[Text Object Model]]
+*[[Input method|Input method editor]]
+*[[Language Interface Pack]]
+*[[Multilingual User Interface]]
+*[[Uniscribe]]
+
+}}<noinclude>
+{{Documentation, template|Template:Microsoft/doc}}
+
+[[Category:Templat Microsoft]]
+[[Category:Templat pengembangan perangkat lunak]]
+[[Category:Antarmuka pemrograman aplikasi Microsoft]]
+
+[[ru::Microsoft APIs]]
+</noinclude>

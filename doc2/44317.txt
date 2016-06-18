@@ -1,0 +1,40 @@
+Wikipedia:Pelindungan penuh
+'''Pelindungan penuh''' adalah salah satu fitur dan [[Wikipedia:Kebijakan pelindungan|kebijakan pelindungan]] dalam [[Wikipedia]] untuk memerangi [[Wikipedia:Vandalisme|aksi vandal]]. Walaupun tidak sama sekali melenyapkan aksi vandal namun banyak membantu para pengurus memerangi aksi vandal.
+
+Cara kerja pelindungan penuh yaitu dengan melindungi artikel agar tidak bisa disunting pengguna lain kecuali pengurus. Dengan adanya fitur tersebut, suatu halaman dapat dilindungi dari penyuntingan pengguna biasa. 
+
+Halaman ini berisi halaman-halaman di Wikipedia bahasa Indonesia yang [[Wikipedia:Kebijakan pelindungan|dilindungi]] secara penuh. 
+
+* [[Halaman Utama]] - Halaman Utama dilindungi karena merupakan halaman yang ditampilkan di halaman depan dan pertama kali ditampilkan ketika pengunjung mengunjungi Wikipedia Bahasa Indonesia, dan oleh karena itu, rawan aksi vandal.
+** Semua templat/halaman yang digunakan/ditransklusikan di Halaman Utama
+** [[Main Page]], [[Bak pasir]] - pengalihan yang dilindungi
+* Semua halaman ruang nama [http://id.wikipedia.org/w/index.php?title=Istimewa%3ADaftar+halaman&namespace=8 MediaWiki] dilindungi secara [[Wikipedia:Kebijakan pelindungan#Pelindungan permanen|permanen]].
+
+== Templat berisiko tinggi ==
+Templat-templat yang merupakan templat berisiko tinggi dilindungi karena dipakai di banyak templat atau halaman (2.500 halaman). Mayoritas merupakan templat dasar (''meta-template''). Ada pula templat yang digunakan di Halaman Utama 
+* [http://id.wikipedia.org/w/index.php?title=Istimewa%3AHalaman_yang_dilindungi&namespace=10&type=edit&level=0 Semua templat yang dilindungi penuh]
+Lihat juga: 
+* [[Wikipedia:Templat berisiko tinggi]]
+* [[Istimewa:Templat paling digunakan]]
+
+== Berkas berisiko tinggi ==
+Berkas-berkas yang dipakai di banyak halaman (> 1.000 halaman). Mayoritas berkas ini berasal dari Commons, oleh karena itu sering muncul di daftar [[Istimewa:Berkas yang diinginkan|Berkas yang diinginkan]]. Ada pula berkas yang sering divandal. 
+* [[:Berkas:Contoh.jpg]] - gambar contoh, pengguna pemula sering memuat gambar dengan nama ini.
+* [[:Berkas:Wiki.png]] - logo Wikipedia, muncul di setiap halaman, rawan aksi vandal.
+* [http://id.wikipedia.org/w/index.php?title=Istimewa%3AHalaman_yang_dilindungi&namespace=6&type=edit&level=0 Semua berkas yang dilindungi penuh]
+Lihat juga: 
+* [[Istimewa:Berkas paling digunakan]]
+* [[Istimewa:Berkas yang diinginkan]]
+
+== Lain-lain ==
+Beberapa halaman pembicaraan berisiko disunting oleh anon.
+* [http://id.wikipedia.org/w/index.php?title=Istimewa%3AHalaman_yang_dilindungi&namespace=4 Semua halaman ruang nama Wikipedia yang diberi perlindungan semi]
+* [[Istimewa:Judul yang dilindungi|Artikel yang dilindungi dari pembuatan]]
+* [[Istimewa:Halaman paling digunakan|Halaman dengan lalu lintas tinggi]] (>5.000 pranala)
+
+== Lihat pula ==
+* {{WP|Pelindungan sebagian}}
+
+{{wikipedia-stub}}
+
+[[Kategori:Pemeliharaan Wikipedia]]

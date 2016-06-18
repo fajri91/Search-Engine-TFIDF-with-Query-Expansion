@@ -1,0 +1,24 @@
+Templat:Country flag IOC alias COD
+{{ #switch: {{{1}}}
+| Mexico City 1968 = Flag of Congo Kinshasa 1966.svg  <!-- then was ZAI from 1984-1996 Games -->
+| Sydney 2000
+| Athena 2004 = Flag of Congo Kinshasa 1997.svg
+| #default = Flag of the Democratic Republic of the Congo.svg
+}}<noinclude>[[Kategori:Templat alias bendera negara IOC|COD]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</noinclude>

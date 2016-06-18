@@ -1,0 +1,25 @@
+High Speed Packet Access+
+'''HSPA+ (Evolved High-Speed Packet Access)''' atau disebut juga Evolusi HSPA adalah teknologi standar pita lebar nirkabel yang akan hadir dengan kemampuan pengiriman data mencapai 42 Mbit/s untuk downlink dengan menggunakan modulasi 64QAM dan 11 Mbit/s untuk uplink dengan modulasi 16QAM. Pengembangan lainnya pada HSPA+ adalah tambahan penggunaan antena Multiple Input Multiple Output (MIMO) untuk membantu peningkatan kecepatan data. HSPA+ memberikan pilihan berupa arsitektur all-IP (Internet Protocol) yang dapat mempercepat jaringan serta lebih murah dalam penyebaran dan pengendaliannya. Sampai Agustus 2009, terdapat 12 jaringan HSPA+ di dunia dengan kecepatan downlink mencapai 21 Mbit/s. Pelopornya adalah Telstra di Australia pada akhir 2008.[7] Sedangkan jaringan untuk kecepatan 28Mbit/s telah hadir untuk pertama kalinya di dunia dengan Italia sebagai negara perintisnya.
+
+=== Kecepatan ===
+[[Berkas:DC-HSPA.gif|centre|thumb|Perbandingan kecepatan jaringan 3G|533x533px]]
+
+HSPA + merupakan evolusi dari High Speed Packet Access dan memberikan kecepatan data hingga 168 Megabits per detik (Mbit/s) ke perangkat mobile (downlink) dan 22 Mbit/s dari perangkat mobile (uplink). Secara teknis ini dicapai melalui penggunaan teknik multiple-antena yang dikenal sebagai MIMO (untuk "multiple-input and multiple-output") dan modulasi yang lebih tinggi (64QAM) atau menggabungkan beberapa carrier menjadi satu dengan teknik yang dikenal sebagai Dual-Carrier HSPA (DC-HSPA).
+
+=== DC-HSPA+ ===
+[[Berkas:Diagrammi 3gsim 1200.png|thumb|366x366px]]
+DC-HSPA (dual carrier" atau "dual channel") adalah salah satu bentuk HSPA + yang mencapai kecepatan upload dan download yang lebih besar dengan menggunakan dua band spektrum 5MHz secara paralel, dimana jaringan ini tidak menggunakan pita tunggal spektrum 5MHz yang digunakan oleh HSPA + dan HSPA lainnya pada teknologi jaringan. Metode brute force bandwidth dua kali lipat sangat dapat meningkatkan kualitas koneksi di daerah dengan sinyal lemah di samping hanya menyediakan kecepatan data yang lebih cepat.
+
+168 Mbit/s dan 22 Mbit/s merupakan kecepatan puncak teoritis. Kecepatan yang sebenarnya untuk pengguna akan lebih rendah. Secara umum, HSPA + menawarkan bitrate yang lebih tinggi hanya dalam kondisi radio yang sangat baik (sangat dekat dengan menara) atau jika terminal dan jaringan baik dukungan baik MIMO atau Dual-Carrier HSDPA, yang secara efektif menggunakan dua saluran transmisi paralel dengan implementasi teknis yang berbeda.
+
+Kecepatan puncak 168 Mbit/s dapat dicapai dengan menggunakan beberapa operator dengan Dual-Carrier HSDPA dan 4-way MIMO bersama-sama secara bersamaan.
+Juga dikenal sebagai: "dual carrier HSPA", "dual channel HSPA", "HSPA-DC"
+
+=== Arsitektur All-IP ===
+Teknologi ini juga memberikan perbaikan yang signifikan terhadap daya tahan baterai dan secara dramatis lebih cepat bangun dari-idle time - menyampaikan selalu-pada koneksi yang benar. HSPA + tidak harus bingung dengan LTE, yang menggunakan antarmuka udara baru berbasis teknologi OFDMA. HSPA + merupakan evolusi HSPA yang upgrade jaringan 3G yang ada dan menyediakan metode bagi operator telekomunikasi untuk bermigrasi ke arah kecepatan 4G tanpa mengerahkan antarmuka radio baru.
+
+Sebuah arsitektur all-IP adalah pilihan jaringan dalam HSPA +. Dalam arsitektur ini, BTS terhubung ke jaringan melalui IP melewati elemen warisan untuk koneksi data pengguna. Hal ini membuat jaringan lebih cepat dan lebih murah untuk menyebar dan beroprasi. Arsitektur warisan masih diperbolehkan dengan Evolved HSPA dan kemungkinan akan ada selama beberapa tahun setelah adopsi dari aspek lain dari HSPA + (modulasi yang lebih tinggi, beberapa aliran dll).
+
+'flat architecture' menghubungkan 'user plane' langsung dari base station ke gateway eksternal GGSN, menggunakan teknologi link yang tersedia yang mendukung TCP/IP. Definisi dapat ditemukan di 3GPP TR25.999. Aliran data pengguna melewati Controller Radio Network (RNC) dan SGSN dari sebelumnya 3GPP UMTS arsitektur versi sehingga mempermudah arsitektur, mengurangi biaya dan penundaan. Hal ini hampir identik dengan 3GPP Long Term Evolution (LTE) flat architecture sebagaimana didefinisikan dalam 3GPP Rel standar-8. Perubahan memungkinkan biaya yang efektif yang modern teknologi link layer seperti xDSL atau Ethernet dan tidak lagi terikat dengan persyaratan yang lebih mahal dan kaku dari standar yang lebih tua dari SONET / SDH dan E1 infrastruktur / T1.
+
+[[Kategori:Telekomunikasi]]

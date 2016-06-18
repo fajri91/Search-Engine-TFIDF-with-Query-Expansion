@@ -1,0 +1,76 @@
+Alborea
+{{Infobox City |
+official_name = Alborea| 
+nickname = | 
+image_flag = | 
+image_seal = Escudo de Alborea.svg| 
+image_map = | 
+map_caption = | 
+subdivision_type = [[Daftar negara|Negara]] | 
+subdivision_name = [[Spanyol]] | 
+subdivision_type1 = [[Komunitas otonom Spanyol|Komunitas otonom]] | 
+subdivision_name1 = [[Castile-La Mancha]] | 
+subdivision_type2 = [[Provinsi Spanyol|Provinsi]] | 
+subdivision_name2 = [[Cuenca (provinsi)|Cuenca]] | 
+subdivision_type3 = [[Comarcas di Spanyol|Comarca]] | 
+subdivision_name3 = [[Manchuela]] | 
+leader_title = | 
+leader_name = | 
+area_magnitude = | 
+area_total_km2 = 72| 
+area_land_km2 = | 
+area_water_km2 = | 
+elevation_m = 710 | 
+population_as_of = 2010 | 
+population_note = | 
+population_total =  883 | 
+population_density_km2 = auto | 
+timezone = [[Waktu Eropa Tengah|CET]] | 
+utc_offset = +1 | 
+timezone_DST = [[Central European Summer Time|CEST]] | 
+utc_offset_DST = +2 | 
+latitude = | 
+longitude = | 
+website =  | 
+footnotes = | 
+}}
+'''Alborea''' adalah [[munisipalitas]] yang terletak di [[Albacete (provinsi)|Albacete]], [[Castile-La Mancha]], [[Spanyol]]. Wilayah ini memiliki populasi berjumlah 883 (berdasarkan tahun 2010).
+
+== Geografi ==
+Alborea memiliki luas 72,05 [[kilometer persegi|km<sup>2</sup>]] dan berada di ketinggian 710 [[msnm]]. Di wilayah ini mengalirlah sungai [[Cabriel]] dan [[Jcar]]. Wilayah ini berbatasan dengan [[Requena|Requena (Valencia)]], [[Casas de Ves]], [[Alcal del Jcar]], dan [[Villatoya]] (semua di Albacete).
+
+== Daftar walikota ==
+{{Alcalde_Espaa
+  | Nama_1 = Eusebio Valencoso Martnez
+  | Partai_1 = [[Partai Buruh Sosialis Spanyol|PSOE]]
+  | Nama_2 = Pedro Serrano Pardo dan Juan Muoz Martnez 
+  | Partai_2 = AEIA
+  | Nama_3 = Sergio Carrin Gmez dan Mario Nez Cuesta
+  | Partai_3 = [[Partai Buruh Sosialis Spanyol|PSOE]]
+  | Nama_4 = Mario Nez Cuesta dan Jos Rafael Navarro Gonzlez
+  | Partai_4 = [[Partai Buruh Sosialis Spanyol|PSOE]]
+  | Nama_5 = Jos Rafael Navarro Gonzlez
+  | Partai_5 = [[Partai Buruh Sosialis Spanyol|PSOE]]
+  | Nama_6 = Jos Rafael Navarro Gonzlez
+  | Partai_6 = [[Partai Buruh Sosialis Spanyol|PSOE]]
+  | Nama_7 = Jos Rafael Navarro Gonzlez
+  | Partai_7 = [[Partai Buruh Sosialis Spanyol|PSOE]]
+  | Nama_8 = Jos Rafael Navarro Gonzlez
+  | Partai_8 = [[Partai Buruh Sosialis Spanyol|PSOE]]
+}}
+
+== Lihat pula ==
+* [[Manchuela]]
+
+== Pranala luar ==
+*[http://www.visitaalborea.com Situs web tidak resmi Alborea]
+*[http://www.dipualba.es/municipios/Alborea Alborea - Web de la Diputacin]
+
+{{coord|39|16|46|N|1|23|45|W|display=title}}
+{{Munisipalitas di Albacete}}
+
+[[Kategori:Kota di Spanyol|Alborea]]
+[[Kategori:Munisipalitas di Albacete]]
+
+
+{{Spanyol-geo-stub}}

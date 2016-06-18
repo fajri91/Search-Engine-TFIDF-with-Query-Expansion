@@ -1,0 +1,7 @@
+Templat:Taxonomy/Haplorhini
+{{Don't edit this line {{{machine code|}}}|{{{1}}}
+|rank=subordo
+|link=Haplorhini
+|parent=Primates
+|always_display=true
+}}

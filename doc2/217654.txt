@@ -1,0 +1,26 @@
+Magma (perangkat lunak)
+{{Infobox Software |
+| name = Magma
+| logo = 
+| screenshot = 
+| caption = 
+| developer =  Computational Algebra Group, School of Mathematics and Statistics, [[University of Sydney]] |
+| latest_release_version = 2.15 |
+| latest_release_date = Desember 2008 |
+| operating_system = [[Cross-platform]]
+| genre = [[Computer algebra system]] |
+| license = Cost recovery (non-commercial proprietary) |
+| website = [http://magma.maths.usyd.edu.au/ http://magma.maths.usyd.edu.au/] |
+}}
+
+'''Program komputer Magma''' adalah [[perangkat lunak]] [[komputer]] untuk penyelesaian masalah [[aljabar]], [[kombinatorik]], [[geometri]], dan [[teori bilangan]] yang bisa dijalankan pada [[sistem operasi]] [[Linux]] dan [[Windows]].
+
+== Pranala luar ==
+* {{Official|http://magma.maths.usyd.edu.au/}}
+* [http://magma.maths.usyd.edu.au/calc/ Magma]
+* [http://magma.maths.usyd.edu.au/users/allan/gb/ Unjuk kerja Magma]
+
+
+{{software-stub}}
+
+[[Kategori:Perangkat lunak matematika]]

@@ -1,0 +1,30 @@
+Sumber terbuka
+[[File:Open Source Initiative keyhole.svg|thumb|159x159px|lambang open source]]
+'''Sumber terbuka''' ({{lang-en|open source}}) adalah sistem pengembangan yang tidak dikoordinasi oleh suatu individu / lembaga pusat, tetapi oleh para pelaku yang bekerja sama dengan memanfaatkan kode sumber ''(source-code)'' yang tersebar dan tersedia bebas (biasanya menggunakan fasilitas komunikasi [[internet]]). Pola pengembangan ini mengambil model ala ''bazaar'', sehingga pola Open Source ini memiliki ciri bagi komunitasnya yaitu adanya dorongan yang bersumber dari ''budaya memberi'', yang artinya ketika suatu komunitas menggunakan sebuah program Open Source dan telah menerima sebuah manfaat kemudian akan termotivasi untuk menimbulkan sebuah pertanyaan apa yang bisa pengguna berikan balik kepada orang banyak.
+
+Pola Open Source lahir karena kebebasan berkarya, tanpa intervensi berpikir dan mengungkapkan apa yang diinginkan dengan menggunakan pengetahuan dan produk yang cocok. Kebebasan menjadi pertimbangan utama ketika dilepas ke publik. Komunitas yang lain mendapat kebebasan untuk belajar, mengutak-ngatik, merevisi ulang, membenarkan ataupun bahkan menyalahkan, tetapi kebebasan ini juga datang bersama dengan tanggung jawab, bukan bebas tanpa tanggung jawab.
+
+== Konsep dan definisi ==
+Pada intinya konsep sumber terbuka adalah membuka "kode sumber" dari sebuah [[perangkat lunak]]. Konsep ini terasa aneh pada awalnya dikarenakan kode sumber merupakan kunci dari sebuah perangkat lunak. Dengan diketahui logika yang ada di kode sumber, maka orang lain semestinya dapat membuat perangkat lunak yang sama fungsinya. Sumber terbuka hanya sebatas itu. Artinya, dia tidak harus gratis. Definisi sumber terbuka yang asli adalah seperti tertuang dalam ''OSD (Open Source Definition)/Definisi sumber terbuka''[http://www.opensource.org/docs/definition.php].
+
+== Pergerakan sumber terbuka dan perangkat lunak bebas ==
+Pergerakan [[perangkat lunak bebas]] dan sumber terbuka saat ini membagi pergerakannya dengan pandangan dan tujuan yang berbeda. Sumber terbuka adalah pengembangan secara [[metodelogi]], perangkat lunak tidak bebas adalah solusi suboptimal. Bagi pergerakan perangkat lunak bebas, perangkat lunak tidak bebas adalah masalah [[sosial]] dan perangkat lunak bebas adalah solusi.
+
+== Lihat pula ==
+* [[Perangkat lunak bebas]]
+* [[Perangkat lunak sumber terbuka]]
+* [[Indonesia, Go Open Source]]
+
+== Pranala luar ==
+* {{en}} [http://www.opensource.org/ Situs resmi Open Source Initiative (OSI)]
+* {{en}} [http://opensource.or.id/ Kelompok kontributor Open Source]
+* {{id}} [http://www.igos.web.id/ IGOS - Indonesia Go Open Source]
+* {{id}} [http://www.ugos.ugm.ac.id/ UGOS - UGM Go Open Source]
+* {{id}} [http://www.backlinux.com BackLinux.com - salah satu web/blog yang secara khusus membahas mengenai OS GNU Linux dan teknologi Komputer Informasi secara umum]
+* {{id}}{{en}} http://www.nabilaos.com/id Bantuan untuk menggunakan perangkat lunak sumber terbuka
+
+[[Kategori:Kekayaan intelektual]]
+[[Kategori:Perangkat lunak bebas]]
+
+
+{{software-stub}}

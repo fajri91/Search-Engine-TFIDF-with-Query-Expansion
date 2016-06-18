@@ -1,0 +1,67 @@
+Templat:Negara di Kontes Lagu Eurovision Junior
+{{Navbox
+|name = Negara di Kontes Lagu Eurovision  Junior
+| listclass = hlist
+| title = Negara di [[Kontes Lagu Eurovision Junior]]
+|state = {{{state|uncollapsed}}}
+
+|group1 = Aktif
+|list1 = <div>
+{{nowrap begin}}
+[[Armenia di Kontes Lagu Eurovision Junior|Armenia]]{{w}}
+[[Belanda di Kontes Lagu Eurovision Junior|Belanda]]{{w}}
+[[Belarus di Kontes Lagu Eurovision Junior|Belarus]]{{w}}
+[[Belgia di Kontes Lagu Eurovision Junior|Belgia]]{{w}}
+[[Georgia di Kontes Lagu Eurovision Junior|Georgia]]{{w}}
+[[Lithuania di Kontes Lagu Eurovision Junior|Lithuania]]{{w}}
+[[Makedonia di Kontes Lagu Eurovision Junior|Makedonia]]{{w}}
+[[Moldova di Kontes Lagu Eurovision Junior|Moldova]]{{w}}
+[[Rusia di Kontes Lagu Eurovision Junior|Rusia]]{{w}}
+[[San Marino di Kontes Lagu Eurovision Junior|San Marino]]{{w}}
+[[Swedia di Kontes Lagu Eurovision Junior|Swedia]]{{w}}
+[[Ukraina di Kontes Lagu Eurovision Junior|Ukraina]]
+
+{{nowrap end}}
+</div>
+
+|group2 = Tidak aktif
+|list2  = <div>
+{{nowrap begin}}
+[[Azerbaijan di Kontes Lagu Eurovision Junior|Azerbaijan]]{{w}}
+[[Britania Raya di Kontes Lagu Eurovision Junior|Britania Raya]]{{w}}
+[[Bulgaria di Kontes Lagu Eurovision Junior|Bulgaria]]{{w}}
+[[Denmark di Kontes Lagu Eurovision Junior|Denmark]]{{w}}
+[[Israel di Kontes Lagu Eurovision Junior|Israel]]{{w}}
+[[Kroasia di Kontes Lagu Eurovision Junior|Kroasia]]{{w}}
+[[Latvia di Kontes Lagu Eurovision Junior|Latvia]]{{w}}
+[[Malta di Kontes Lagu Eurovision Junior|Malta]]{{w}}
+[[Norwegia di Kontes Lagu Eurovision Junior|Norwegia]]{{w}}
+[[Perancis di Kontes Lagu Eurovision Junior|Perancis]]{{w}}
+[[Polandia di Kontes Lagu Eurovision Junior|Polandia]]{{w}}
+[[Portugal di Kontes Lagu Eurovision Junior|Portugal]]{{w}}
+[[Rumania di Kontes Lagu Eurovision Junior|Rumania]]{{w}}
+[[Serbia di Kontes Lagu Eurovision Junior|Serbia]]{{w}}
+[[Siprus di Kontes Lagu Eurovision Junior|Siprus]]{{w}}
+[[Spanyol di Kontes Lagu Eurovision Junior|Spanyol]]{{w}}
+[[Swiss di Kontes Lagu Eurovision Junior|Swiss]]{{w}}
+[[Yunani di Kontes Lagu Eurovision Junior|Yunani]]
+{{nowrap end}}
+</div>
+
+|group3 = Mantan
+|list3  = <div>
+[[Serbia dan Montenegro di Kontes Lagu Eurovision Junior|Serbia dan Montenegro]]
+</div>
+}}<noinclude>
+[[Kategori:Negara di Kontes Lagu Eurovision Junior]]
+[[Kategori:Templat-templat Kontes Lagu Eurovision Junior|Negara]]
+
+
+
+
+
+
+
+
+
+</noinclude>

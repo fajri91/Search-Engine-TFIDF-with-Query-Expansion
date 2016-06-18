@@ -1,0 +1,37 @@
+Gempa bumi Laut Seram 1965
+{{Infobox earthquake
+| title              = Gempa bumi Laut Seram 1965
+| date               = 24 Januari 1965
+| map2               = {{Location map | Indonesia
+ | label=
+ | lat=-2.455
+ | long=125.965
+ | mark=Bullseye1.png
+ | marksize=40
+ | position=top
+ | width= 250
+ | float=right
+ | caption=}}
+| magnitude          = 8.2 [[moment magnitude scale|M<sub>w</sub>]]
+| depth              = 28.4 km
+| location           = {{coord|2.455|S|125.965|E}}
+| countries affected = [[Indonesia]]
+| tsunami            =
+| aftershocks        =
+| intensity          = 
+| casualties         = 71
+}}
+'''Gempa Bumi Laut Seram 1965''' terjadi pada tanggal 24 Januari 1965 pukul 00:11 UTC. Gempa yang berkekuatan 8,2 M<sub>w</sub> ini terletak di dekat [[Pulau Sanana]], [[Indonesia]].<ref>ftp://hazards.cr.usgs.gov/maps/sigeqs/20081116/20081116.pdf</ref><ref>http://www.geo.uu.nl/~wwwtekto/publications/KreemerEtAl_JGR00.pdf</ref> Serangkaian tremor dilaporkan selama seminggu sebelum gempa bumi. 71 orang dilaporkan tewas. Tsunami juga dihasilkan, yang menyebabkan kerusakan di [[Sanana]], [[Buru]], dan [[Mangole]].<ref>http://earthquake.usgs.gov/earthquakes/world/events/1965_01_24.php</ref> Tiga ''runups'' dilaporkan di Pulau Seram.<ref>https://www.uta.edu/ees/Faculty%20Pages/shanmugam/Shanmugam%202008%20AAPG%20Leaves%20in%20turbidite%20sands%20%20Discussion.pdf</ref> Sebuah gelombang setinggi 4 meter dilaporkan di Pulau Buru.<ref>http://www.msh-clermont.fr/IMG/pdf/01.PARIS.Au_fil.pdf</ref>
+
+== Referensi ==
+{{reflist}}
+
+== Pranala luar ==
+* [http://www.antaranews.com/view/?i=1237534228&c=TEK&s=SAI Antara News]
+
+{{Gempa Indonesia}}
+{{Indonesia-stub}}
+{{Gempa-stub}}
+
+[[Kategori:Gempa bumi di Indonesia|Laut Seram]]
+[[Kategori:Indonesia dalam tahun 1965]]

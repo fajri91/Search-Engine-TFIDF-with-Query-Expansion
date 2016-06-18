@@ -1,0 +1,63 @@
+Wilayah Perkotaan West Yorkshire
+{{infobox UK place
+|country =                      England
+|latitude=                      
+|longitude=                     
+|official_name=                 Wilayah Perkotaan West Yorkshire
+|population =                   1.499.465
+|metropolitan_borough=          
+|metropolitan_county =          [[West Yorkshire]]
+|region=                        Yorkshire and the Humber
+|constituency_westminster=      
+|post_town=                     
+|postcode_district =            
+|postcode_area=                    
+|dial_code=                     
+|os_grid_reference=             SE455215  
+|static_image=                  [[Berkas: WestYorkshireUrbanAreaAerial.JPG|240px|]]
+|static_image_caption=          <small>Aerial Map of WYUB</small>
+|london_distance=
+}}
+
+'''Wilayah Perkotaan West Yorkshire'''(bahasa Inggris: '''West Yorkshire Urban Area''') adalah istilah yang digunakan oleh [[Kantor Statistik Nasional (Britania Raya)]] untuk merujuk kepada gabungan kota-kota di [[West Yorkshire]], [[Inggris]], yang mencakup [[Leeds]], [[Bradford]], [[Huddersfield]], [[Wakefield]], namun tidak meliputi kabupaten seperti [[Castleford]], [[Halifax, West Yorkshire|Halifax]], [[Pontefract]] dan [[Wetherby]] yang diperlakukan independen dari wilayah West Yorkshire dalam statistik.  Di wilayah ini terdapat lahan pertanian yang luas - melebihi wilayah perkotaan lainnya di Inggris - dan banyak kabupaten dan kota yang terhubung satu sama lain hanya dengan garis tipis dari pembangunan.
+
+== Lokalisasi ==
+ONS mengumumkan populasi daerah ini adalah 1.499.465 (sensus 2001),<ref>{{cite web| author=National Statistics |url=http://www.statistics.gov.uk/downloads/theme_compendia/fom2005/03_FOPM_UrbanAreas.pdf|title=Focus on people and migration: chapter 3 The UK's major urban areas|page=47|date=2005|accessdate=2007-10-20}}</ref> yang membuat wilayah ini berada di urutan ke-4 dalam populasi wilayah urban. ONS membagi wilayah ini ke dalam beberapa sub-divisi:<ref>{{cite web|url=http://www.statistics.gov.uk/census2001/west_yorkshire_urban_area.asp|title=West Yorkshire Urban Area|date=1 November 2005|work=National Statistics Online|accessdate=2009-11-03}}</ref>
+{{div col|cols=3}}
+* [[Baildon]]
+* [[Batley]]
+* [[Bingley]]
+* [[Bradford]]
+* [[Brighouse]]
+* [[Cleckheaton]] dan [[Liversedge]]
+* [[Dewsbury]]
+* [[Guiseley]]/[[Yeadon, West Yorkshire|Yeadon]]
+* [[Heckmondwike]]
+* [[Holmfirth]]/[[Honley]]
+* [[Horbury]]
+* [[Horsforth]]
+* [[Huddersfield]]
+* [[Keighley]]
+* [[Leeds]]
+* [[Lofthouse, West Yorkshire|Lofthouse]]/[[Stanley, West Yorkshire|Stanley]]
+* [[Menston]]
+* [[Mirfield]]
+* [[Morley, West Yorkshire|Morley]]
+* [[Ossett]]
+* [[Pudsey]]
+* [[Queensbury, West Yorkshire|Queensbury]]
+* [[Shelf, West Yorkshire|Shelf]]
+* [[Shipley, West Yorkshire|Shipley]]
+* [[Wakefield]]
+{{div col end}}
+
+== Referensi ==
+{{reflist}}
+
+{{coord |53|43|N|1|38|W|type:adm2nd_region:GB|display=title}}
+
+[[Kategori:Wilayah perkotaan di Inggris]]
+[[Kategori:Geografi West Yorkshire]]
+
+
+{{Britania Raya-geo-stub}}

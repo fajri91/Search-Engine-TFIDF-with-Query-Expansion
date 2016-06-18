@@ -1,0 +1,14 @@
+Berkas:Trax FM Jakarta.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+Logo Trax FM Jakarta
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{GFDL}}

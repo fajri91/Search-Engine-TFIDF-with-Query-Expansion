@@ -1,0 +1,13 @@
+Templat:Help contents back
+{| style="background:transparent"
+|
+<imagemap>
+ Image:1leftarrow.png|16px|Help:Contents
+ rect 0 0 1000 1000 [[Bantuan: Isi]]
+ desc none
+</imagemap>
+| <big>[[Bantuan: Isi]]</big>
+|}
+<noinclude>
+[[Kategori:Templat umum|{{PAGENAME}}]]
+</noinclude>

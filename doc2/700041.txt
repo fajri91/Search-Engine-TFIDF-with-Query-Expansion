@@ -1,0 +1,33 @@
+Al-Busthami
+'''Ahmad bin Amin al Busthami''', adalah seorang [[ulama]] yang  dikabarkan pernah menjadi [[Mufti]] [[Mazhab Syafi'i|Syafi'i]] di [[Palestina]] dan  wafat pada tahun 1157 H. <ref name="Sirajuddinp=351">{{Harv|Abbas|2011|p=351}}.</ref>
+
+== Kitab-Kitab Karangan ==
+# Syarah Arba'in karangan [[An-Nawawi|Imam An-Nawawi]] ([[hadits]]) <ref name="Sirajuddinp=351"/>
+# Syarah al Burdah karangan Abu Shiri ([[Sastra]] memuji [[Muhammad|Nabi Muhammad SAW]]. <ref name="Sirajuddinp=351"/>
+# Al Mawa'idl as Sunniyah (Pelajaran Keagamaan). <ref name="Sirajuddinp=351"/>
+
+== Catatan Kaki ==
+{{reflist
+| colwidth = 30em
+| refs =
+}}
+== Daftar Pustaka ==
+{{refbegin|1}}
+
+# {{cite book
+|title = Ulama Syafi'i dan kitab-kitabnya dari abad ke abad
+|last1 = Abbas
+|first1 = Sirajuddin
+|year = 2011
+|publisher = Pustaka Tarbiyah Baru
+|location = Jakarta, Indonesia
+|isbn = 978-979-26-4317-6
+|ref = harv
+}}
+
+
+{{refend}}
+
+{{Navbox Ulama Ahli Fiqih Mazhab Syafi'i}}
+{{islam-bio-stub}}
+[[Kategori:Ulama Syafi'i Abad ke-12 H|As-Suwaidi]]

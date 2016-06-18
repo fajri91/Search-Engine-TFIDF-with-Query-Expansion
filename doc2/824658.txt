@@ -1,0 +1,35 @@
+Templat:Gubernur Venezuela
+{{Navbox with columns
+| name = Gubernur Venezuela
+| title = [[Daftar Gubernur Negara Bagian di Venezuela|Gubernur negara bagian saat ini di Venezuela]]
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| colwidth = 25%
+| col1 = [[Gubernur Amazonas (negara bagian Venezuela)|Amazonas]]: [[Liborio Guarulla]]<br>
+[[Gubernur Anzotegui|Anzotegui]]: [[Nelson Moreno]]<br>
+[[Gubernur Apure|Apure]]: [[Ramn Carrizales]]<br>
+[[Gubernur Aragua|Aragua]]: [[Tareck El Aissami]]<br>
+[[Gubernur Barinas|Barinas]]: [[Adn Chvez]]<br>
+[[Gubernur Bolvar|Bolvar]]: [[Francisco Rangel]]
+| col2 = [[Gubernur Carabobo|Carabobo]]: [[Francisco Ameliach]]<br>
+[[Gubernur Cojedes|Cojedes]]: [[rika Faras]]<br>
+[[Gubernur Delta Amacuro|Delta Amacuro]]: [[Lizeta Hernndez]]<br>
+[[Gubernur Falcn|Falcn]]: [[Stella Lugo]]<br>
+[[Gubernur Gurico|Gurico]]: [[Ramn Rodrguez Chacn]]<br>
+[[Gubernur Lara|Lara]]: [[Henri Falcn]]
+| col3 = [[Gubernur Mrida|Mrida]]: [[Alexis Ramrez]]<br>
+[[Gubernur Miranda|Miranda]]: [[Henrique Capriles Radonski]]<br>
+[[Gubernur Monagas|Monagas]]: [[Yelitza Santaella]]<br>
+[[Gubernur Nueva Esparta|Nueva Esparta]]: [[Carlos Mata Figueroa]]<br>
+[[Gubernur Portuguesa|Portuguesa]]: [[Reinaldo Castaeda]]<br>
+[[Gubernur Sucre|Sucre]]: [[Luis Acua (politikus)|Luis Acua]]
+| col4 = [[Gubernur Tchira|Tchira]]: [[Jos Gregorio Vielma Mora]]<br>
+[[Gubernur Trujillo|Trujillo]]: [[Henry Rangel Silva]]<br>
+[[Gubernur Vargas|Vargas]]: [[Jorge Garca Carneiro]]<br>
+[[Gubernur Yaracuy|Yaracuy]]: [[Julio Len (politikus Venezuela)|Julio Len ]]<br>
+[[Gubernur Zulia|Zulia]]: [[Francisco Arias Crdenas]]<br>
+[[Distrik Ibukota Venezuela|Distrik Ibukota]]: [[Daniel Aponte]] (Kepala Pemerintahan
+}}<noinclude>
+{{collapsible option}}
+[[Kategori:Kotak navigasi pemimpin politik Amerika Selatan]]
+[[Kategori:Templat politik dan pemerintahan Venezuela|Gubernur negara bagian]]
+</noinclude>

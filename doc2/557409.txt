@@ -1,0 +1,16 @@
+Wikipedia:Gambar pilihan/68 2013
+{{GP/2
+|gambar     = Mother and baby sperm whale.jpg
+|vertikal   = n
+|panorama   = n
+|deskripsi  = Ibu dan bayi ikan paus di lepas pantai Mauritius.
+|oleh       = [http://www.flickr.com/photos/barathieu/7277953560/ Gabriel Barathieu]
+|proyek     = commons
+|lisensi    = {{GP-CC|Atribusi-Berbagi Serupa 2.0 Generik}}
+|ukuran     = 10,05 MB
+|dimensi    = 5.115  2.877
+|tahun      = 2013
+|seluler    = {{{seluler|no}}}
+|sblm       = Rocks and surf on Goat Rock Beach.jpg
+|des-sblm   = Pantai Goat Rock
+}}<noinclude>{{GPdoc|68 2013}}</noinclude>

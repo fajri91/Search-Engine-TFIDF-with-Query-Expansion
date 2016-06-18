@@ -1,0 +1,9 @@
+Templat:Belanda-bio-stub
+{{Base-stub
+| icon      = {{flagicon|Belanda|size=30px}}
+| subject   = [[biografi]] tokoh [[Belanda]]
+| qualifier = 
+| category  = Rintisan biografi Belanda
+}}{{#if:|[[Kategori:Templat rintisan biografi|{{PAGENAME}}]]}}<noinclude>
+[[Kategori:Templat bio-stub menurut negara|Belanda]]
+</noinclude>

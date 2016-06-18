@@ -1,0 +1,15 @@
+Berkas:Logo OMI 1968.gif
+=={{int:filedesc}}==
+{{Information
+| description    =
+Sumber gambar: [http://www.imo-official.org/year_info.aspx?year=1968 Situs Resmi OMI]
+Gambar di atas adalah logo Olimpiade Matematika Internasional 1968 yang diselenggarakan di Moskow, Uni Soviet.
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{GFDL}}

@@ -1,0 +1,23 @@
+Templat:Kandis, Ogan Ilir
+{{Navigasi ID Desa
+|provinsi=Sumatera Selatan
+|dati2=Kabupaten
+|nama dati2=Ogan Ilir
+|nama kecamatan=Kandis
+|d1=Kandis I
+|d2=Kandis II
+|d3=Kumbang Ilir
+|d4=Kumbang Ulu
+|d5=Lubuk Rukam
+|d6=Lubuk Segonang
+|d7=Miji
+|d8=Muara Kumbang
+|d9=Pandan Arang
+|d10=Santapan Barat
+|d11=Santapan Timur
+|d12=Tanjung Alai
+}}
+<noinclude>
+[[Kategori:Templat desa/kelurahan di Sumatera Selatan|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Ogan Ilir|{{PAGENAME}}]]
+</noinclude>

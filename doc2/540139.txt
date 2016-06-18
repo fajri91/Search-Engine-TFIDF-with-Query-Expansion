@@ -1,0 +1,44 @@
+Templat:Location mark+
+<includeonly>{{#ifeq:{{{float|}}}|center|<div class="center">}}
+<div class="{{#ifeq:{{{type|}}}|thumb
+| thumb {{#switch:{{{float|}}}
+  | "left"   | left   = tleft
+  | "right"  | right  = tright
+  | "center" | center = tnone
+  | "none"   | none   = tnone
+  | #default = tright}}
+| {{#switch:{{{float|}}}
+  | "left"   | left   = floatleft
+  | "right"  | right  = floatright
+  | "center" | center = floatnone
+  | "none"   | none   = floatnone
+  | #default = floatright}}}}">
+
+  <div {{#ifeq:{{{type|}}}|thumb|class="thumbinner"}} style="{{#switch:{{{type|}}}
+  | thumb | border = width:{{#expr:{{ifempty|{{{width|}}}|220}}+2}}
+  | #default = width:{{ifempty|{{{width|}}}|220}}}}px;">
+
+    <div style="position:relative; background-color:#FFFFFF; {{#switch:{{{type|}}}
+    | thumb = border:1px solid #CCCCCC
+    | border = border:1px solid #DDDDDD}};"><!--
+
+    -->[[Berkas:{{{image|}}}|{{ifempty|{{{width|}}}|220}}px|{{{caption|}}}<!--
+       -->{{#if:{{{alt|}}}{{{caption|}}}|{{!}}{{ifempty|{{{alt|}}}|{{{caption|}}}}}}}]]<!--
+
+    -->{{#if:{{{overlay|}}}
+       | <div style="position:absolute; z-index: 1; top: 0; left: 0;"><!--
+       -->[[File:{{{overlay}}}|{{ifempty|{{{width|}}}|220}}px|{{{caption|}}}<!--
+          -->|link=file:{{{image|}}}]]</div>}}<!--
+
+    -->{{{marks|}}}</div><!--
+
+    -->{{#if:{{{caption|}}}|{{#ifeq:{{{type|}}}|thumb|<div class="thumbcaption">{{{caption|}}}</div>}}}}
+  </div>
+</div>
+{{#ifeq:{{{float|}}}|center|</div>}}</includeonly><noinclude>
+{{dokumentasi}}
+<!--
+   Sila tambah kategori dan interwiki
+   pada / laman doc, terima kasih
+-->
+</noinclude>

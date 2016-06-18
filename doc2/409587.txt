@@ -1,0 +1,5 @@
+Templat:PatakaPWMeta/templatepage/catimp
+{{#ifexist:Kategori:{{{CAT}}} {{{ASSESSMENT_CAT}}}||&#32;
+*[[:Kategori:{{{CAT}}} {{{ASSESSMENT_CAT}}}]] &ndash; ([{{fullurl:Category:{{{CAT}}} {{{ASSESSMENT_CAT}}}|action=edit&preload=Templat:PatakaPWMeta/templatepage/preloadimp&editintro=Templat:PatakaPWMeta/templatepage/editintro&preview=no&summary={{urlencode:Creating category for [[WP:1.0/A|1.0 Assessment scheme]]}}&preloadimp={{urlencode:{{{CAT}}}}}&preloadtopic={{urlencode:{{{ASSESSMENT_CAT}}}}}&preloadproject={{{PROJECT|}}}}} {{#ifexpr:{{PAGESINCAT:{{{CAT}}} {{{ASSESSMENT_CAT}}}|R}}|'''create'''|buat}}])}}<noinclude>
+Templat ini dibuat berdasarkan salinan dari [[Templat:WPBannerMeta/templatepage/catimp]]
+</noinclude>

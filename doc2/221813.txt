@@ -1,0 +1,209 @@
+Grand Prix F1 Brasil 1997
+Tabel berikut ini merupakan hasil dari '''Grand Prix F1 Brasil 1997''' yang digelar tanggal [[30 Maret]] [[1997]] di sirkuit Interlagos, [[Sao Paulo]], [[Brazil]].
+
+{| class="wikitable" style="font-size: 95%;"
+|-
+! Pos !! No !! Pembalap !! Tim !! Lap !! Waktu/Tersingkir !! Grid !! Poin
+|-
+! 1
+| 3
+| {{flagicon|Canada}} '''[[Jacques Villeneuve]]'''
+| '''[[WilliamsF1|Williams]]-[[Renault F1|Renault]]'''
+| 72
+| 1:36:06.990
+| 1
+| '''10'''
+|-
+! 2
+| 8
+| {{flagicon|Austria}} '''[[Gerhard Berger]]'''
+| '''[[Benetton Formula|Benetton]]-[[Renault F1|Renault]]'''
+| 72
+| +4.190
+| 3
+| '''6'''
+|-
+! 3
+| 14
+| {{flagicon|France}} '''[[Olivier Panis]]'''
+| '''[[Prost (racing team)|Prost]]-[[Mugen-Honda]]'''
+| 72
+| +15.870
+| 5
+| '''4'''
+|-
+! 4
+| 9
+| {{flagicon|Finland}} '''[[Mika Hkkinen]]'''
+| '''[[Team McLaren|McLaren]]-[[Mercedes-Benz|Mercedes]]'''
+| 72
+| +33.033
+| 4
+| '''3'''
+|-
+! 5
+| 5
+| {{flagicon|Germany}} '''[[Michael Schumacher]]'''
+| '''[[Scuderia Ferrari|Ferrari]]'''
+| 72
+| +33.731
+| 2
+| '''2'''
+|-
+! 6
+| 7
+| {{flagicon|France}} '''[[Jean Alesi]]'''
+| '''[[Benetton Formula|Benetton]]-[[Renault F1|Renault]]'''
+| 72
+| +34.020
+| 6
+| '''1'''
+|-
+! 7
+| 16
+| {{flagicon|UK}} [[Johnny Herbert]]
+| [[Sauber]]-[[Petronas]]
+| 72
+| +50.912
+| 13
+| &nbsp;
+|-
+! 8
+| 12
+| {{flagicon|Italy}} [[Giancarlo Fisichella]]
+| [[Jordan Grand Prix|Jordan]]-[[Peugeot]]
+| 72
+| +1:00.639
+| 7
+| &nbsp;
+|-
+! 9
+| 4
+| {{flagicon|Germany}} [[Heinz-Harald Frentzen]]
+| [[WilliamsF1|Williams]]-[[Renault F1|Renault]]
+| 72
+| +1:15.402
+| 8
+| &nbsp;
+|-
+! 10
+| 10
+| {{flagicon|UK}} [[David Coulthard]]
+| [[Team McLaren|McLaren]]-[[Mercedes-Benz|Mercedes]]
+| 71
+| +1 Lap
+| 12
+| &nbsp;
+|-
+! 11
+| 17
+| {{flagicon|Italy}} [[Nicola Larini]]
+| [[Sauber]]-[[Petronas]]
+| 71
+| +1 Lap
+| 19
+| &nbsp;
+|-
+! 12
+| 14
+| {{flagicon|Italy}} [[Jarno Trulli]]
+| [[Minardi]]-[[Hart (racing)|Hart]]
+| 71
+| +1 Lap
+| 17
+| &nbsp;
+|-
+! 13
+| 19
+| {{flagicon|Finland}} [[Mika Salo]]
+| [[Tyrrell Racing|Tyrrell]]-[[Ford Motor Company|Ford]]
+| 71
+| +1 Lap
+| 22
+| &nbsp;
+|-
+! 14
+| 15
+| {{flagicon|Japan}} [[Shinji Nakano]]
+| [[Prost (racing team)|Prost]]-[[Mugen-Honda]]
+| 71
+| +1 Lap
+| 15
+| &nbsp;
+|-
+! 15
+| 18
+| {{flagicon|Netherlands}} [[Jos Verstappen]]
+| [[Tyrrell Racing|Tyrrell]]-[[Ford Motor Company|Ford]]
+| 70
+| +2 Lap
+| 21
+| &nbsp;
+|-
+! 16
+| 6
+| {{flagicon|UK}} [[Eddie Irvine]]
+| [[Scuderia Ferrari|Ferrari]]
+| 70
+| +2 Lap
+| 14
+| &nbsp;
+|-
+! 17
+| 1
+| {{flagicon|UK}} [[Damon Hill]]
+| [[Arrows]]-[[Yamaha Motor Corporation|Yamaha]]
+| 68
+| Mesin
+| 9
+| &nbsp;
+|-
+! 18
+| 20
+| {{flagicon|Japan}} [[Ukyo Katayama]]
+| [[Minardi]]-[[Hart (racing)|Hart]]
+| 67
+| +5 Lap
+| 18
+| &nbsp;
+|-
+! Ret
+| 11
+| {{flagicon|Germany}} [[Ralf Schumacher]]
+| [[Jordan Grand Prix|Jordan]]-[[Peugeot]]
+| 52
+| Elektrik
+| 10
+| &nbsp;
+|-
+! Ret
+| 22
+| {{flagicon|Brazil}} [[Rubens Barrichello]]
+| [[Stewart Grand Prix|Stewart]]-[[Ford Motor Company|Ford]]
+| 16
+| Suspensi
+| 11
+| &nbsp;
+|-
+! Ret
+| 2
+| {{flagicon|Brazil}} [[Pedro Diniz]]
+| [[Arrows]]-[[Yamaha Motor Corporation|Yamaha]]
+| 15
+| Suspensi
+| 16
+| &nbsp;
+|-
+! Ret
+| 23
+| {{flagicon|Denmark}} [[Jan Magnussen]]
+| [[Stewart Grand Prix|Stewart]]-[[Ford Motor Company|Ford]]
+| 0
+| Kecelakaan
+| 20
+| &nbsp;
+|-
+|}
+
+[[Kategori:Grand Prix Brasil|1997]]
+[[Kategori:Grand Prix F1 musim 1997|Brasil]]

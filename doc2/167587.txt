@@ -1,0 +1,59 @@
+Tsar Bomba
+{{Infobox Weapon
+|name= RDS-220
+|image=[[Berkas:Tsar photo11.jpg]]
+|caption= [[Awan jamur]] dari ledakan Tsar Bomba 
+|origin= {{Flag|Uni Soviet}}
+|type= Senjata termonuklir
+<!-- Type selection -->
+|is_explosive=yes
+<!-- Production history -->
+|designer=Yulii Borisovich Khariton, Andrei Sakharov, Victor Adamsky, Yuri Babayev, Yuri Smirnov, dan Yuri Trutnev 
+|design_date= 
+|manufacturer=
+|unit_cost=
+|production_date=30 Oktober 1961
+|number= 1 (dan 1 bom tiruan)
+<!-- General specifications -->
+|weight= 27 Ton
+|length= 8 meter
+|part_length= 
+|width=
+|height=
+|diameter=2 meter
+|crew=
+|Location=[Coordinates:|Geographic_coordinate_system] {{coor dms|73|32|40|N|54|42|21|E|}}
+<!-- Explosive specifications -->
+|filling=
+|filling_weight=
+|detonation=
+|yield= 50 [[Megaton]] [[TNT]], 210 Peta Joule
+}}
+'''Tsar Bomba''' ({{lang|ru|-}}) yang berarti Kaisar Dari Segala Bom adalah sebuah bom nuklir yang diciptakan oleh negara [[Uni Soviet]]. Tsar Bomba adalah proyek dari "" (Ivan), pembuatan bom membutuhkan waktu selama 15 minggu dan diuji coba pada tanggal [[30 Oktober|30]] [[Oktober]] 1961. Bom ini diuji cobakan di sekitar Pulau [[Novaya Zemlya]], [[Laut Arktik]]<ref name="Sakharov memoirs">{{cite book|last=Sakharov|first=Andrei|authorlink=Andrei Sakharov|title=Memoirs|publisher=Alfred A. Knopf|date=1990|location=New York|pages=215-225|isbn=0-679-73595-X}}</ref>. Tsar Bomba memiliki berat sebesar 27 ton dan diangkut oleh pesawat [[TU-95]] yang merupakan pesawat pengebom terbesar pada jamannya.
+
+
+Ketinggian Jamur Api yang dihasilkan oleh bom ini setinggi 64 kilometer, ionisasi dari ledakan menyebabkan gangguan radio komunikasi selama berjam-jam. [[Parasut]] digunakan untuk mencegah bom meluncur terlalu cepat.
+
+Bom Tiruan disimpan di [[Sarov]].
+
+== Uji Coba ==
+
+''Tsar Bomba'' diledakkan pada pukul 11:32 (Waktu setempat) pada 30 Oktober 1961 di sekitar [[Mityushikha Bay]]  (Sukhoy Nos Zona C). Bom ini didesain untuk meledak pada ketinggian 4 kilometer dari permukaan tanah atau 4,2 kilometer dari permukaan air laut menggunakan sistem sensor barometrik.
+Ketinggian pelepasan bom adalah setinggi 34.500 feet, dan sewaktu meledak memiliki daya ledak sebesar 50 Megaton TNT yang sebanding dengan seluruh bom yang meledak pada [[Perang Dunia 2]] dan dikalikan 10 atau 1.350-1.750 kali lebih kuat daripada bom nuklir [[Hiroshima]] dan [[Nagasaki]]. Awalnya, Tsar Bomba direncanakan memiliki daya ledak sebesar 100 Megaton TNT tetapi dibatalkan karena berdampak luas bagi [[Atmosfer]].
+
+Semua bangunan di desa [[Severny]] (baik terbuat dari kayu ataupun bata) yang terletak pada 55km dari lokasi ujicoba ikut hancur. Seorang partisipan yang ikut dalam ujicoba melihat cahaya yang sangat cerah meskipun dia sudah menggunakan kacamata hitam dan merasakan efek gelombang panas bahkan dalam jarak 270 kilometer. Sebuah gelombang kejut (Shock Wave) <ref>[http://en.wikipedia.org/wiki/Shock_wave Shockwave - Wikipedia English], Gangguan yang menyebar saat sebuah gelombang memiliki kecepatan lebih cepat dari gelombang suara pada perantara cair, gas, padat ataupun plasma.</ref> terasa pada jarak 700 kilometer. Panel kaca bahkan pecah pada jarak 900 kilometer. Pemfokusan atmosfer bahkan menyebabkan kerusakan besar pada jarak yang sangat jauh, memecahkan jendela kaca di Norway dan Finlandia. Gelombang Seismik (Energi yang menyebar kedalam lapisan bumi yang dapat menyebabkan gempa bumi ataupun ledakan) yang ditimbulkan dari ledakan bahkan dapat diukur pada bagian ketiga dari bumi, magnitudo gelombang seismik tersebut sekitar 5 - 5,25. Ledakan dapat terlihat sampai 1.000 km dari tempat peledakan. 
+
+== Catatan kaki ==
+
+{{reflist}}
+
+== Pranala luar ==
+{{Commonscat|Tsar Bomba}}
+* [http://www.nuclearweaponarchive.org/Russia/TsarBomba.html ''Tsar Bomba'' at Carey Sublette's NuclearWeaponArchive.org]
+* Video of the [http://sonicbomb.com/modules.php?name=Content&pa=showpage&pid=90 ''Tsar Bomba delivery, blast and cloud''] at [http://sonicbomb.com/modules.php?name=Content&pa=showpage&pid=39 Sonicbomb.com]
+* [http://youtube.com/watch?v=H9AMtUeyDP0&mode=related&search= Short Documentary Video On The Tsar Bomba]
+* [http://maps.google.com/?ie=UTF8&ll=73.807093,54.981766&spn=0.005852,0.037594&t=h&z=15&lci=lmc:wikipedia_en Google Maps]
+{{Militer-stub}}
+
+[[Kategori:Bom nuklir]]
+[[Kategori:Senjata nuklir]]

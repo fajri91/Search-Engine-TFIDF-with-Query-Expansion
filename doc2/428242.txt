@@ -1,0 +1,37 @@
+GitHub
+{{Infobox Website
+| name           = GitHub
+| logo           = [[File:GitHub.svg|140px]]
+| screenshot     = 
+| url            = [http://github.com/ GitHub.com]
+| alexa          = {{decrease}} 549 ({{as of|2011|11|2|alt=November 2011}})<ref name="alexa">{{cite web|url= http://www.alexa.com/siteinfo/GitHub.com |title= Github.com Site Info | publisher= [[Alexa Internet]] |accessdate= 2011-11-02 }}</ref><!--Updated monthly by OKBot.-->
+| commercial     = Ya
+| type           = [[Pengontrol versi]] kolaboratif
+| language       = [[English language|English]]
+| registration   = Ya
+| owner          = [http://github.com/  GitHub, Inc.]
+| launch date    = April 2008<ref name="launched">
+{{cite web | url = https://github.com/blog/40-we-launched | title = We Launched | work = GitHub | date = 10 April 2008 | first = Chris | last = Wanstrath}}</ref>
+| current status = Aktif
+| slogan         = Social Coding
+}}
+'''GitHub''' adalah [[layanan penginangan web]] bersama untuk proyek pengembangan [[perangkat lunak]] yang menggunakan sistem [[pengontrol versi]] [[Git]]. GitHub menawarkan paket gratis dan komersial untuk proyek [[sumber terbuka]] dan diluncurkan sejak tahun [[2008]].<ref name="launched" /> Menurut survei terhadap pengguna Git pada tahun [[2009]], GitHub adalah situs penginangan Git terpopuler.<ref>[http://www.survs.com/WO/WebObjects/Survs.woa/wa/shareResults?survey=2PIMZGU0&rndm=678J66QRA2 Git User's Survey 2009]</ref>
+
+== Deskripsi ==
+Situs ini menyediakan fungsionalitas [[Jejaring_sosial|jejaring sosial]] seperti [[Umpan_web|umpan web]], pengikut, wiki (menggunakan [[perangkat lunak Wiki]] gollum) dan [[Grafik_kolaborasi|grafik jejaring sosial]] untuk menampilkan bagaimana para pengembang menggarap versi repositori mereka.
+
+Github juga mengoperasikan layanan-layanan lain: situs bergaya [[Pastebin|pastebin]] bernama Gist yang menyajikan wiki untuk masing-masing repositori dan laman web yang bisa disunting melalui sebuah repositori Git, [[Layanan penginangan slide|layanan penginangan slide]] bernama Speaker Deck, serta platform [[analisis web]] bernama Gauges.
+
+Per Januari 2010, Github dioperasikan dengan nama Github, Inc.
+
+Perangkat lunak yang menjalankan Github ditulis dengan [[Ruby on Rails]] dan [[Erlang]] oleh para pengembang Github, Inc. (sebelumnya dikenal sebagai Logical Awesome), yakni Chris Wanstrath, PJ Hyett, dan [[Tom Preston-Werner]].
+
+== Referensi ==
+{{reflist}}
+
+== Pranala luar ==
+* {{official|http://github.com/}}
+
+{{internet-stub}}
+
+[[Kategori:Penginangan internet]]

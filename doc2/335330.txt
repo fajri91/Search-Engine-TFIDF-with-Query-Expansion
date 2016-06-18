@@ -1,0 +1,19 @@
+Templat:Kotak info kepulauan/panjang
+{{#if:{{{km|}}}
+ |{{#if:{{{mi|}}}<!-- mi and km -->
+  |{{formatnum:{{{km}}}&nbsp;km ({{{mi}}}&nbsp;mi)}}
+  |{{formatnum:{{{km}}}&nbsp;km ({{#expr: ({{formatnum:{{{km}}}|R}})/1.609344 round ({{precision|{{formatnum:{{{km}}}|R}}}}+1)}}&nbsp;mi)}}
+ }}
+ |{{#if:{{{mi|}}}<!-- mi and no km -->
+  |{{formatnum:{{{mi}}}&nbsp;mi ({{#expr: ({{formatnum:{{{mi}}}|R}})*1.609344 round ({{precision|{{formatnum:{{{mi}}}|R}}}}-0)}}&nbsp;km)}}
+  |{{#if:{{{m|}}}
+   |{{#if:{{{ft|}}}<!-- ft and m (and no mi and no km) -->
+    |{{formatnum:{{{m}}}&nbsp;m ({{{ft}}}&nbsp;ft)}}
+     |{{formatnum:{{{m}}}&nbsp;m ({{#expr: ({{formatnum:{{{m}}}|R}})*3.2808399 round ({{precision|{{formatnum:{{{m}}}|R}}}}-0)}}&nbsp;ft)}} 
+    }}
+   |{{#if:{{{ft|}}}<!-- ft and no m (and no mi and no km -->
+    |{{formatnum:{{{ft}}}&nbsp;ft ({{#expr: ({{formatnum:{{{ft}}}|R}})/3.2808399 round ({{precision|{{formatnum:{{{ft}}}|R}}}}+1)}}&nbsp;m)}}
+   }}
+  }}
+ }}
+}}<noinclude>{{documentation}}</noinclude>

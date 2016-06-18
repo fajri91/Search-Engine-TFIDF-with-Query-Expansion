@@ -1,0 +1,69 @@
+2012 JP4
+{{Infobox Planet 
+|minorplanet = yes 
+|width = 25em 
+|bgcolour = 
+|apsis = 
+|name = 2012 JP4
+|symbol = 
+|image = 
+|caption = 
+|discovery = yes 
+|discovery_ref = 
+|discoverer =Mt. Lemmon Survey
+|discovery_site =G96
+|discovered = 2012/05/12
+|designations = yes
+|mp_name = 
+|alt_names = 
+|mp_category = 
+|orbit_ref = 
+|epoch = 
+|aphelion =2.729
+|perihelion =0.744
+|semimajor =1.736
+|eccentricity =0.571
+|period = 
+|avg_speed = 
+|inclination =15.0
+|asc_node =229.2
+|mean_anomaly =257.8
+|arg_peri =280.1
+|satellites = 
+|physical_characteristics = yes 
+|dimensions = 
+|mass = 
+|density = 
+|surface_grav = 
+|escape_velocity = 
+|sidereal_day = 
+|axial_tilt = 
+|pole_ecliptic_lat = 
+|pole_ecliptic_lon = 
+|albedo = 
+|temperatures= 
+|temp_name1 = 
+|mean_temp_1 = 
+|max_temp_1 = 
+|temp_name2 = 
+|max_temp_2 = 
+|spectral_type = 
+|abs_magnitude =25.0
+}}
+'''2012 JP4''' adalah sebuah [[asteroid]]. Asteroid ini merupakan bagian dari [[asteroid Apollo]], yang terletak dekat dengan [[bumi]]. [[Eksentrisitas orbit]] asteroid ini tercatat sebesar 0.571, sementara [[magnitudo mutlak]]nya adalah 25.0.
+
+== Pembentukan ==
+
+Seperti asteroid pada umumnya, asteroid ini terbentuk dari [[nebula]] [[matahari]] primordial sebagai pecahan [[planetisimal]], sesuatu di nebula matahari muda yang tidak cukup besar untuk berubah menjadi planet.<ref>{{cite web | title=What Are Asteroids And Comets? | url=http://neo.jpl.nasa.gov/faq/#ast | work=Near Earth Object Program FAQ | publisher=[[NASA]] | accessdate=13 September 2010 | archiveurl=http://web.archive.org/web/20100909210213/http://neo.jpl.nasa.gov/faq/ | archivedate=9 September 2010 | deadurl=no}}</ref>
+
+== Referensi ==
+
+{{Reflist}}
+
+== Pranala luar ==
+
+* [http://www.minorplanetcenter.net/iau/lists/t_apollos.html Daftar asteroid Apollo] - ''The International Astronomical Union Minor Planet Center.''
+
+[[Kategori:Asteroid Apollo]]
+
+{{asteroid-stub}}

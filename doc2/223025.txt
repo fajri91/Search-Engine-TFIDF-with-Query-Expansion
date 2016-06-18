@@ -1,0 +1,12 @@
+Templat:User lv
+{{Babel-box
+| level         = 
+| id            = [[Bahasa Latvi|lv]]
+| info          = im lietotjam '''[[:Category:User lv|latvieu valoda]]''' ir '''[[:Category:User lv-N|dzimt valoda]]'''.
+| userkategori  = User lv
+| userkategori2 = User lv-N
+}}<noinclude>
+{{Babel-bar|lv}}
+[[Kategori:Templat Babel|lv]]
+
+</noinclude>

@@ -1,0 +1,18 @@
+Union de Touarga
+{{Football club infobox| 
+  clubname = Union de Touarga |ground = [[Stade du FUS]]|capacity = 10.000|nickname = |
+  image    = [[Berkas:Union Touarga.png|110px|]]|chairman = Haji Taher Hammi|manager = Jamal Sellami|
+  fullname = L'Union Sportive de Touarga|
+  founded = 1969|
+  league   = [[GNF 2]] |season = | position =|
+  pattern_la1=|pattern_b1=|pattern_ra1=|
+  leftarm1=FFF000|body1=FFF000|rightarm1=FFF000|shorts1=fff000|socks1=fff000|
+  pattern_la2=_whiteborder|pattern_b2=_whiterightsash|pattern_ra2=_whiteborder|
+  leftarm2=005500|body2=005500|rightarm2=005500|shorts2=ffffff|socks2=005500|
+}}
+
+'''Union de Touarga''' adalah sebuah tim [[sepak bola]] yang berbasis di [[Rabat]], [[Maroko]]. Tim ini didirikan tahun [[1969]].
+
+{{klub-sb-stub}}
+
+[[Kategori:Tim sepak bola Maroko]]

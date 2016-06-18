@@ -1,0 +1,21 @@
+Templat:Maskapai penerbangan Mali
+{{Navbox
+|name  = Maskapai penerbangan Mali
+|state = <noinclude>expanded</noinclude>
+|title = [[Daftar maskapai penerbangan Mali|Maskapai penerbangan]] [[Mali]]
+|listclass = hlist
+|image = [[Berkas:Flag of Mali.svg|50px|Flag of Mali|border]]
+|list1 = 
+* [[Air Mali (2005)|Compagnie Arienne du Mali]]
+* [[Mali Air Express]]
+* [[Mali Air Transport]]
+* [[Mali Airways]]
+* [[SAM Intercontinental]]
+}}<noinclude>
+[[Kategori:Maskapai penerbangan di Mali|*]]
+[[Kategori:Templat navigasi maskapai penerbangan]]
+[[Kategori:Templat navigasi Mali]]
+
+
+
+</noinclude>

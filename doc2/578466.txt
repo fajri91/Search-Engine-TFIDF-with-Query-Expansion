@@ -1,0 +1,64 @@
+2000 WO183
+{{Infobox Planet 
+|minorplanet = yes 
+|width = 25em 
+|bgcolour = 
+|apsis = 
+|name = 2000 WO183
+|symbol = 
+|image = 
+|caption = 
+|discovery = yes 
+|discovery_ref = 
+|discoverer =O. R. Hainaut; C. E. Delahodde; A. C. Delsanti
+|discovery_site =809
+|discovered = 2000/11/26
+|designations = yes
+|mp_name = 
+|alt_names = 
+|mp_category = 
+|orbit_ref = 
+|epoch = 
+|aphelion =46.845
+|perihelion =41.278
+|semimajor =44.062
+|eccentricity =0.063
+|period = 
+|avg_speed = 
+|inclination =2.4
+|asc_node =120.5
+|mean_anomaly =44.0
+|arg_peri =272.0
+|satellites = 
+|physical_characteristics = yes 
+|dimensions = 
+|mass = 
+|density = 
+|surface_grav = 
+|escape_velocity = 
+|sidereal_day = 
+|axial_tilt = 
+|pole_ecliptic_lat = 
+|pole_ecliptic_lon = 
+|albedo = 
+|temperatures= 
+|temp_name1 = 
+|mean_temp_1 = 
+|max_temp_1 = 
+|temp_name2 = 
+|max_temp_2 = 
+|spectral_type = 
+|abs_magnitude =7.7
+}}
+'''2000 WO183''' adalah sebuah [[objek trans-Neptunus]]. Seperti objek trans-Neptunus pada umumnya, benda ini mengorbit Matahari dari jarak yang lebih jauh dari planet [[Neptunus]].
+
+[[Eksentrisitas orbit]] objek ini tercatat sebesar 0.063, sementara [[magnitudo mutlak]]nya adalah 7.7.
+
+== Referensi ==
+
+* [http://www.minorplanetcenter.net/iau/lists/t_tnos.html Daftar Objek Transneptunus] - ''The International Astronomical Union Minor Planet Center.''
+*{{cite journal|last=Remo|first=John L.|title=Classifying Solid Planetary Bodies|year=2007|journal=AIP Conference Proceedings|volume=886|pages=284302|bibcode=2007AIPC..886..284R|doi=10.1063/1.2710063}}
+
+[[Kategori:Objek trans-Neptunus]]
+
+{{astronomi-stub}}

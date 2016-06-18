@@ -1,0 +1,69 @@
+Stasiun Ebisu (Tokyo)
+{{coord|35.646643|N|139.710045|E|display=title}}
+
+{{infobox japan station
+|image=EbisuStationStatue6464.jpg
+|imagesize=120px
+|caption=Patung di luar Stasiun Ebisu
+|name=
+|namerom=Ebisu
+|pref=Tokyo
+|district=
+|city=
+|ward=Shibuya
+|open=[[1901]]
+|operator=[[JR East]], [[Tokyo Metro]]
+|line='''[[Jalur Yamanote]]'''{{br}}'''[[Jalur Saiky]]'''{{br}}'''[[Jalur Shnan-Shinjuku]]'''{{br}}'''[[Jalur Hibiya]]'''
+}}
+
+{{nihongo|'''Stasiun Ebisu'''||Ebisu-eki}} adalah [[stasiun kereta api]] yang terletak di [[Ebisu, Tokyo]]. Nama stasiun ini diambil dari merek [[Yebisu|Bir Yebisu]] yang pabriknya terletak tidak jauh dari stasiun. Adapun merek birnya sendiri mengambil nama seorang dewa dalam kepercayaan masyarakat [[Jepang]].
+
+== Jalur layanan ==
+* '''[[JR East]]'''
+** [[Jalur Yamanote]]
+** [[Jalur Saiky]]
+** [[Jalur Shnan-Shinjuku]]
+* '''[[Tokyo Metro]]'''
+** [[Jalur Hibiya]]
+
+== Peron ==
+=== JR East ===
+{{ja-rail-line|pfn=1|first=2|nolinkindex=[[Jalur Yamanote]]{{br}}<small>(lingkar luar)</small>|linecol=yellowgreen|dir=Ke {{ja-stalink|Shibuya}}  {{ja-stalink|Shinjuku}}  {{ja-stalink|Ikebukuro}}}}
+{{ja-rail-line|pfn=2|nolinkindex=Jalur Yamanote{{br}}<small>(lingkar dalam)</small>|linecol=yellowgreen|dir=Ke {{ja-stalink|Shinagawa}}  {{ja-stalink|Tokyo}}  {{ja-stalink|Ueno}}}}
+{{ja-rail-linem|pfn=3|span=3|linename=Jalur Saiky|lineindex=Jalur Saiky|linecol=seagreen|dir=Ke Shinjuku  Ikebukuro  {{ja-stalink|Akabane}}  {{ja-stalink|miya||Saitama}}}}
+{{ja-rail-linem|nolinkindex=[[Jalur Shnan-Shinjuku]]{{br}}<small>(samb. [[Jalur Utsunomiya]])</small>|linecol=#E21F26|dir=Ke miya  {{ja-stalink|Oyama}}  {{ja-stalink|Utsunomiya}}}}
+{{ja-rail-linem|nolinkindex=Jalur Shnan-Shinjuku{{br}}<small>(samb. [[Jalur Takasaki]])</small>|linecol=#E21F26|dir=Ke miya  {{ja-stalink|Kumagaya}}  {{ja-stalink|Takasaki}}  {{ja-stalink|Maebashi}}}}
+{{ja-rail-linem|pfn=4|span=3|nolinkindex=Jalur Saiky|linecol=seagreen|dir=Ke {{ja-stalink|saki}} ([[Jalur Rinkai]]) {{ja-stalink|Shin-Kiba}}}}
+{{ja-rail-linem|nolinkindex=Jalur Shnan-Shinjuku{{br}}<small>(samb. [[Jalur Utama Tkaid]])</small>|linecol=#E21F26|dir=Ke {{ja-stalink|Yokohama}}  {{ja-stalink|funa}}  {{ja-stalink|Hiratsuka}}  {{ja-stalink|Odawara}}}}
+{{ja-rail-linem|first=3|nolinkindex=Jalur Shnan-Shinjuku{{br}}<small>(samb. [[Jalur Yokosuka]])</small>|linecol=#E21F26|dir=Ke {{ja-stalink|Yokosuka}}  funa  {{ja-stalink|Kamakura}}  {{ja-stalink|Zushi}}}}
+
+=== Tokyo Metro ===
+{{ja-rail-line|pfn=1|m|first=2|linename=Jalur Hibiya|lineindex=Jalur Hibiya|linecol=silver|dir=Ke {{ja-stalink|Naka-Meguro}} ([[Jalur Tyoko]]) {{ja-stalink|Hiyoshi||Kanagawa}}  {{ja-stalink|Kikuna}}}}
+{{ja-rail-line|pfn=2|m|first=3|nolinkindex=Jalur Hibiya|linecol=silver|dir=Ke {{ja-stalink|Ginza}}  {{ja-stalink|Ueno}}  {{ja-stalink|Kita-Senju}} ([[Jalur Isesaki]]) {{ja-stalink|Tbu Dbutsu Ken}}}}
+
+== Stasiun terdekat ==
+{{service rail start}}
+|-
+!colspan=5|JR East
+{{j-route|route=Jalur Yamanote|f=w|col=#77C94C}}
+{{j-rserv|service=-|f=b|previous={{ja-stalink|Meguro}}|next={{ja-stalink|Shibuya}}}}
+{{j-route|route=Jalur Saiky|f=w|col=#28B68B}}
+{{j-rserv|service=Lokal|f=b|previous=Shibuya|next={{ja-stalink|saki}}}}
+{{j-rserv|service=Cepat|f=b|previous=Shibuya|next=saki}}
+{{j-rserv|service=Komuter Cepat|f=b|previous=Shibuya|next=saki}}
+{{j-route|route=Jalur Shnan-Shinjuku|f=w|col=#E21F26}}
+{{j-rserv|service=Lokal|f=b|previous=Shibuya|next=saki}}
+{{j-rserv|service=Cepat|f=b|previous=Shibuya|next=saki}}
+{{j-rserv|service=Cepat Khusus|p}}
+|-
+!colspan=5|Tokyo Metro
+{{j-route|route=Jalur Hibiya (H-02)|f=w|col=#9CAEB7}}
+{{j-rserv|service=-|f=b|previous={{ja-stalink|Naka-Meguro}} (H-01)|next={{ja-stalink|Hiroo}} (H-03)|col=#9CAEB7}}
+{{end box}}
+
+{{Jalur Yamanote}}
+{{Jepang-stub}}
+{{DEFAULTSORT:Ebisu}}
+
+[[Kategori:Jalur Yamanote]]
+[[Kategori:Stasiun kereta api di Jepang]]

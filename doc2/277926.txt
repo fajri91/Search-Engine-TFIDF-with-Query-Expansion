@@ -1,0 +1,31 @@
+Pembagian administratif daratan Australia
+[[Image:Australia cadastral subdivsions counties.png|thumb|{{legend|#ff8040|Tanpa county, paroki atau ratusan}}
+{{legend|#0080ff|Bekas county, tanpa pembagian lebih lanjut}}
+{{legend|#e3e138|County, terbagi menjadi ratusan}}
+{{legend|#40a633|County, terbagi menjadi paroki}} {{legend|#f62840|Distrik, sebagian dibagi menjadi divisi (pinggiran). ([[Teritorial Ibu Kota Australia|ACT]])}}
+{{legend|#8c3ce6|Distrik Daratan (bekas county), terbagi menjadi paroki, dan sebelumnya menjadi ratusan.}}
+{{legend|#38e3a9|County, terbagi menjadi paroki, dan sebelumnya menjadi ratusan (hanya di [[Cumberland County, New South Wales|Cumberland]])}}]]
+'''Pembagian administratif daratan Australia''' merujuk pada bagian [[Australia]] yang terbagi menjadi satuan [[kadaster]], yaitu [[county]], [[paroki (pembagian negara)|paroki]], [[ratusan (pembagian negara)|ratusan]], dan divisi lain untuk keperluan kepemilikan tanah. Banyak nama properti di Australia didaftarkan berada di suatu paroki dan county.
+
+Keseluruhan [[negara bagian di Australia|negara bagian]] timur, yaitu [[Queensland]], [[New South Wales]], [[Victoria (Australia)|Victoria]] dan [[Tasmania]] dibagi menjadi county dan paroki pada abad ke-19, meskipun county di Tasmania berganti nama menjadi distrik daratan pada abad ke-20. Sebgaian [[Australia Selatan]] (tenggara) dan [[Australia Barat]] (barat daya) juga dibagi menjadi county, dan juga ada lima county di sebagian kecil [[Teritorial Utara]]. Tetapi, Australia Selatan menggunakan pembagian ratusan daripada paroki, bersama Teritorial Utara, yang sebelumnya menjadi bagian dari Australia Selatan ketika ratusan diumumkan. Sebelumnya juga terdapat ratusan di Tasmania. Telah ada sedkitnya 600 county, 544 ratusan dan 15.692 paroki di Australia, tapi tak satu pun yang menempati county bagian tengah dan barat.
+
+County di Australia tidak memiliki fungsi administratif maupun politik, tak seperti county di [[County di Inggris|Inggris]] dan [[County (Amerika Serikat)|Amerika Serikat]]. Australia malah menggunakan [[Local Government Area di Australia|Local Government Area]] (wilayah pemerintah daerah), termasuk [[shire]], [[distrik]], [[dewan]] dan [[munisipalitas]] menurut negara bagian sebagai pembagian tingkat dua.
+
+[[Berkas:Stielers Handatlas 1891 73.jpg|thumb|200px|Peta Jerman tahun 1891 tentang Australia Tenggara memperlihatkan berbagai pembagian daerah.]]
+Negara bagian lain juga dibagi menjadi divisi daratan dan distrik daratan; pada abad ke-19, distrik daratan kadang berperan sebagai nama daerah di negara bagian ketika county belum diresmikan. Di bawah tingkat ini adalah sekumpulan plot tanah yang dikenal sebagai Deposited Plans, Registered Plans atau Title Plans (tergantung negara bagian). Queensland memiliki Registered Plans; New South Wales dan Australia Barat memiliki Deposited Plans; sementara Victoria memiliki Certified Plans. Tanah dapat diidentifikasi menggunakan nomor penataan pembagian yang dipegang departemen tanah, daripada menggunakan satuan nama seperti paroki (atau keduanya dapat dipakai); penggunaan penataan ini pun semakin umum. Di dalam penataan ini adalah plot tanah individual seperi lot; secara keseluruhan terdapat sekitar 10.2 juta lot tanah di Australia.<ref>[http://eprints.unimelb.edu.au/archive/00001248/01/AustralianCadastralSystems%20_AustSurv03_.pdf Cadastral systems within Australia]</ref> Berbagai satuan kadaster muncul di Certificates of Title, yang diberikan nomor Volume dan Folio; nomor-nomor ini kadang digunakan untuk mengidentifikasi plot tanah, atau sebagai gabungan dengan satuan lain. Peta mendetail untuk pembagian ini telah digunakan sejak pengenalan sistem [[nama Torrens]] pada pusat pendaftaran kepemilikan tanah di Australia Selatan tahun 1858, yang menyebar ke koloni-koloni lain. Sementara data kadaster sejak 1980-an sudah muncul secara digital, masih ada peta lama yang memperlihatkan pembagian ini yang dipegang oleh perpustakaan-perpustakaan Australia seperti [[National Library of Australia]]<ref>[http://www.nla.gov.au/map/cadastral.html National Library of Australia, Cadastral maps]</ref>, juga di perpustakaan negara bagian.<ref>[http://parishmaps.lands.nsw.gov.au/pmap.html New South Wales Parish map preservation project]</ref>
+
+== Lihat pula ==
+* [[Hukum properti Australia]]
+* [[Undang-Undang Properti Australia]]
+* [[Nama Torrens]]
+
+== Catatan kaki ==
+{{reflist|2}}
+
+== Pranala luar ==
+* [http://extranet.mapinfo.com/products/Overview.cfm?productid=866 MapInfo CadastralPlus, database of all land parcels]
+* [http://www.geo21.ch/cadastraltemplate/countrydata/au.htm Cadastral Template, Australia country data]
+
+[[Kategori:Pembagian Australia]]
+[[Kategori:Sistem survei tanah]]
+[[Kategori:Paroki]]

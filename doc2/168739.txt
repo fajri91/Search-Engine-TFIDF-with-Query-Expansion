@@ -1,0 +1,76 @@
+Gulfstream G550
+{{infobox Aircraft
+  |name = Gulfstream G550
+  |type = [[Business jet]]
+  |manufacturer = [[Gulfstream Aerospace]]
+  |image = Berkas:2010-07-21 G550 NetJets CS-DKE EDDF 01.jpg
+  |caption = Netjets Europe G550 business jet
+  |designer = 
+  |first flight = 1995
+  |introduced = 1998
+  |retired = 
+  |status = Servis aktif
+  |primary user =
+  |more users =
+  |produced = 
+  |number built = 124+
+  |unit cost = G500: $36 million{{br}} G550: $59.9 million
+  |developed from = [[Gulfstream V]]
+  |variants with their own articles = [[Gulfstream G650]]
+}}
+
+'''Gulfstream G550''' adalah pesawat [[business jet]] buatan [[General Dynamics]], unit [[Gulfstream Aerospace]] berlokasi di [[Savannah, Georgia]] termasuk dalam varian [[Gulfstream V]].
+
+[[Berkas:versace-interior_Gulfstream G550.jpg|thumb|right|Gulfstream G550 - interior Versace & Tag ]]
+
+== Spesifikasi ==
+[[File:Gulfstream G500.svg|thumb|Gulfstream G500]]
+Data dari Gulfstream website <ref>[http://www.jets.com/business_jets_ResearchJetsListing.aspx?AircraftName=Gulfstream%20GV-SP%20(G550) Gulftream 550 Specifications and performance data on jets.com]</ref>
+
+=== Karakteristik umum ===
+* Kru: 2 pilots, 0-2 attendants
+* Kapasitas: 14-19 passengers
+* Panjang: 96 ft 5 in (29.4 m)
+* Lebar sayap: 93 ft 6 in (28.5 m)
+* Tinggi: 25 ft 10 in (7.9 m)
+* Berat kosong: 48,300 lb (21,909 kg)
+* Berat terisi: 54,500 lb (24,721 kg)
+* Berat berguna: 6,200 lb (2,812 kg)
+* Berat maksimum lepas landas: 91,000 lb (41,277 kg)
+* Mesin: 2 Rolls-Royce BR710 turbofan, 15,385 lbf (68.4 kN) masing-masing
+* Berat maksimum ramp: 91,400 lb (41,459 kg)
+* Berat maksimum darat: 75,300 lb (34,156 kg)
+* Berat maksimum bahar bakar: 41,300 lb (18,733 kg)
+* Panjang kabin: 50 ft 1 in (15.3 m)
+* Tinggi kabin: 6 ft 2 in (1.88 m)
+* Lebar kabin: 7 ft 4 in (2.24 m)
+* volume kabin: 1,669 ft (47.3 m)
+* volume kompartemen bagasi: 226 ft (6.4 m)
+
+=== Performa ===
+* Kecepatan maksimum: 0.885 Mach
+* Kecepatan jelajah: 488 knots (0.85 Mach, 904 km/h)
+* Jarak jangkau: 6,750 nm (12,501 km)
+* Atap servis: 51,000 ft (15,545 m)
+
+* Landas pacu terbang: 5,910 ft (1,801 m)
+* Landas pacu darat: 2,770 ft (884 m)
+
+== Lihat pula ==
+
+* [[Dassault Falcon 7X]]
+* [[Boeing 787 Business Jets|Boeing Business Jet]]
+* [[Embraer EMB-135BJ Legacy 600]] dan [[Embraer Phenom 300 Luxo-Jets]]
+
+== Referensi ==
+{{reflist}}
+
+== Pranala luar ==
+* [http://www.gulfstream.com/g550/ G550 pages]
+* [http://www.globalsecurity.org/military/systems/aircraft/g550.htm Gulfstream G550 on GlobalSecurity.org]
+* [http://www.smartcockpit.com/plane/gulfstream/G550/ Gulfstream G550 manual on smartcockpit.com]
+* [http://registry.faa.gov/aircraftinquiry/acftinqSQL.asp?striptxt=g550&mfrtxt=gulfstream&cmndfind.x=0&cmndfind.y=0&cmndfind=submit&modeltxt=g550 FAA G550 ownership registry by state]
+
+[[Kategori:Pesawat jet]]
+[[Kategori:Pesawat terbang Amerika Serikat]]
+[[Kategori:Pesawat jet bermesin ganda (Twinjet)|Gulfstream G550]]

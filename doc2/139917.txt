@@ -1,0 +1,76 @@
+Templat:Kotakinfo tol
+{| cellspacing=0 style="border: 1px solid #aaaaaa; background-color: #ececec; color: black; margin-bottom: 0.5em; margin-left: 1em; padding: .2em; float: right; clear: right; width: 23em; font-size: 90%;"
+|+ style="font-size: larger;" | '''{{{name}}}'''
+{{#if:{{{image|}}}|<tr><td colspan="2" style="text-align: center; padding: 5px 0 5px 0;">{{{image}}}{{#if:{{{description|}}}|<br><small>{{{description}}}</small>}}</td></tr>}}
+|-
+||Panjang||{{{panjang}}} [[kilometer|km]]
+|-
+||Pembangunan||{{{pembangunan|?}}}
+|-
+||Pengelola||{{{pengelola|?}}}
+|}<noinclude>
+<!--
+==Penggunaan==
+{| class="prettytable"
+!opsional
+!parameter
+!keterangan
+|- valign="top"
+||&nbsp;||colspan=2|<tt><nowiki>{{kotakinfo_rudal|</nowiki></tt>
+|-
+||&nbsp;||<tt>name=</tt>||nama rudal
+|- valign="top"
+||'''Y'''||<tt>image=</tt>||gambar dalam format lengkap (<tt><nowiki>[[Berkas:nama..]]</nowiki></tt>)
+|- valign="top"
+||'''Y'''||<tt>description=</tt>||keterangan gambar
+|- valign="top"
+||'''Y'''||<tt>nato=</tt>||kode NATO
+|- valign="top"
+||&nbsp;||<tt>type=</tt>||jenis rudal mis: rudal balistik, rudal udara ke udara
+|- valign="top"
+||'''Y'''||<tt>varian=</tt>||varian model
+|- valign="top"
+||'''Y'''||<tt>contractor=</tt>||nama perusahaan pembuat
+|- valign="top"
+||&nbsp;||<tt>country=</tt>||negara
+|- valign="top"
+||'''Y'''||<tt>unit_cost=</tt>||harga per unit
+|- valign="top"
+||'''Y'''||<tt>deployment=</tt>||kapan mulai dipakai (tanggal)
+|- valign="top"
+||'''Y'''||<tt>out_service_date=</tt>||kapan dipensiunkan (tanggal)
+|- valign="top"
+||&nbsp;||<tt>engine=</tt>||mesin
+|- valign="top"
+||'''Y'''||<tt>launch_mass=</tt>||berat
+|- valign="top"
+||'''Y'''||<tt>payload=</tt>||kapasitas angkut
+|- valign="top"
+||'''Y'''||<tt>length=</tt>||panjang
+|- valign="top"
+||'''Y'''||<tt>diameter=</tt>||diameter
+|- valign="top"
+||'''Y'''||<tt>wing_span=</tt>||lebar sayap
+|- valign="top"
+||'''Y'''||<tt>speed=</tt>||kecepatan
+|- valign="top"
+||'''Y'''||<tt>range=</tt>||jangkauan
+|- valign="top"
+||'''Y'''||<tt>flying_altitude=</tt>||ketinggian jelajah
+|- valign="top"
+||'''Y'''||<tt>depth=</tt>||jangkauan kedalaman (khusus torpedo)
+|- valign="top"
+||'''Y'''||<tt>cep=</tt>||CEP (tingkat akurasi dalam meter)
+|- valign="top"
+||'''Y'''||<tt>warhead=</tt>||hulu ledak
+|- valign="top"
+||'''Y'''||<tt>yield=</tt>||daya ledak
+|- valign="top"
+||'''Y'''||<tt>guidance=</tt>||sistem pemandu
+|- valign="top"
+||'''Y'''||<tt>launch_platform=</tt>||platform peluncuran
+|- valign="top"
+||'''Y'''||<tt>operator=</tt>||negara pengguna
+|}-->
+[[Kategori:Templat kotak info|Tol]]
+</noinclude>

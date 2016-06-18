@@ -1,0 +1,17 @@
+Templat:EOS
+{{#if: {{{3|}}} | {{{3}}}:&nbsp;}}[http://eos.kokugakuin.ac.jp/modules/xwords/entry.php?entryID={{{2}}} "{{{1}}}"]. ''Encyclopedia of Shinto'', [[Universitas Kokugakuin]], diakses pada {{{4}}}
+
+<noinclude>
+
+Usage:
+
+<code><nowiki>{{EOS|Title|Number|Author's last name, author's first name|Date}}</nowiki></code>
+
+Examples:
+
+<code><nowiki>{{EOS|Gozu Tenn|192|Yonei, Teruyoshi|2011-09-02}}</nowiki></code>
+
+<code><nowiki>{{EOS|Gozu Tenn|192|Yonei, Teruyoshi|September 2, 2011}}</nowiki></code>
+
+[[Category:Templat kutipan]]
+</noinclude>

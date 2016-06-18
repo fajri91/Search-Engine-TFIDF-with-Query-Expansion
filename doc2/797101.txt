@@ -1,0 +1,6 @@
+Templat:Taxonomy/Laurasiatheria
+{{Don't edit this line {{{machine code|}}}|{{{1}}}
+|rank=superordo
+|link=Laurasiatheria
+|parent=Boreoeutheria
+}}

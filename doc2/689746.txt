@@ -1,0 +1,19 @@
+Templat:Sirandorung, Tapanuli Tengah
+{{Navigasi ID Desa
+|provinsi=Sumatera Utara
+|dati2=Kabupaten
+|nama dati2=Tapanuli Tengah
+|nama kecamatan=Sirandorung
+|k1=Bajamas
+|d1=Masnauli
+|d2=Muara Ore
+|d3=Pardomuan
+|d4=Sampang Maruhur
+|d5=Sigodung
+|d6=Simpang III Lae Bingke
+|d7=Siordang
+}}
+<noinclude>
+[[Kategori:Templat desa/kelurahan di Sumatera Utara|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Tapanuli Tengah|{{PAGENAME}}]]
+</noinclude>

@@ -1,0 +1,41 @@
+Josef Karas (atlet)
+{{Infobox person
+|name                     = Josef Karas
+|fullname                 = Josef Karas
+|image                    = 
+|birth_date               = {{Birth date and age|df=yes|1978|8|20}}
+|birth_place              = {{negara|Ceko}} [[Olomouc]], [[Cekoslowakia]], sekarang [[Republik Ceko]]
+|height                   = {{height|m=1.91}}
+|weight                   = {{convert|90.0|kg|lb st|abbr=on}}
+}}
+
+{{Infobox pageant titleholder
+|name=Josef Karas
+|eye_color=[[eye color#Blue|Blue]]
+|hair_color=Dark [[blond]]/[[brown hair|Brown]]
+|nationalcompetition=Mister Czech Republic 2010 (winner)<br>[[Mister World 2010]] (1st runner-up)
+}}
+'''Josef Karas''' ({{lahirmati|[[Olomouc]], [[Cekoslowakia]], sekarang [[Republik Ceko]]|20|8|1978}}) adalah atlet dan pemegang gelar kontes kecantikan asal [[Ceko]].<ref>[http://globalbeauties.com/news/2010/feb/mrcz.htm Mister Czech Republic 2010]</ref>
+
+Pada tanggal [[11 Februari]] [[2010]] ia terpilih menjadi Mister Republik Ceko 2010 dan ia mewakili negaranya dalam [[Mister World 2010]] yang diadakan di [[Korea Selatan]] pada tanggal 27 Maret 2010.
+
+== Referensi ==
+
+* {{iaaf name|id=181561}}
+{{reflist}}
+
+{{Persondata         <!-- Metadata: see [[Wikipedia:Persondata]] -->
+|NAME              =Karas, Josef
+|ALTERNATIVE NAMES =
+|SHORT DESCRIPTION =
+|DATE OF BIRTH     =20 August 1978
+|PLACE OF BIRTH    =[[Olomouc]], [[Czechoslovakia]], now [[Czech Republic]]
+|DATE OF DEATH     =
+|PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Karas, Josef}}
+{{lifetime|1978||}}
+{{Ceko-bio-stub}}
+
+[[Kategori:Atlet Ceko]]
+[[Kategori:Finalis Mr. World]]

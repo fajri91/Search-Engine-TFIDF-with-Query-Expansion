@@ -1,0 +1,22 @@
+Fairchild Channel F
+{{infobox CVG system
+| image        = [[Berkas:Channelf.png|200px]]
+| manufacturer = [[Fairchild Semiconductor]]
+| type         = [[Konsol permainan]]
+| generation   = [[Sejarah konsol permainan video (generasi kedua)|Generasi kedua]]
+| lifespan     = {{flagicon|AS}} [[Agustus]] [[1976]]
+| CPU          = [[Fairchild F8]]
+| media        = [[Kartrid]]
+| controllers = [[Tuas kendali]], [[tombol]] (batal)
+}}
+{{Dedicated video game consoles}}
+'''Fairchild Channel F''' adalah [[konsol permainan]] yang dirilis oleh [[Fairchild Semiconductor]] pada bulan [[Agustus]] tahun [[1976]] dan dijual pertama kali seharga USD 169,95. Konsol ini adalah konsol pertama yang menggunakan [[kartrid]]. [[Konsol]] ini sebenarnya bernama '''Video Entertainment System''', atau '''VES''', namun ketika [[Atari]] merilis [[Atari 2600|VCS]] pada tahun berikutnya, Fairchild mengubah namanya.
+
+== Pranala luar ==
+* [http://www.old-computers.com/museum/computer.asp?c=890 Fairchild Channel F di <code>OLD-COMPUTERS.COM</code>]
+
+{{game-stub}}
+
+[[Kategori:Konsol permainan video generasi kedua]]
+[[Kategori:Perkenalan tahun 1976]]
+[[Kategori:Permainan komputer]]

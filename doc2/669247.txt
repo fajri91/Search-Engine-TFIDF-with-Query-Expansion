@@ -1,0 +1,10 @@
+Berkas:LogoYayasanKI.png
+== {{int:filedesc}} ==
+{{Information
+| description    = 
+| source         = Yayasan KI
+| date           = 
+| author         = Yayasan KI
+| permission     = {{logo}}
+| other_versions = 
+}}

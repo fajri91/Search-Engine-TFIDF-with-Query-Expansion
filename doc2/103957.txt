@@ -1,0 +1,46 @@
+Leo Esaki
+{{Infobox scientist 
+|name              = Leo Esaki 
+|image             =
+|image_size         = 
+|caption           = Leo Esaki
+|birth_date        = {{birth-date|March 12, 1925|March 12, 1925 }}
+|birth_place       = [[Osaka, Japan]]
+|nationality       = [[Japan]]
+|field             = [[Applied physics]]
+|work_institutions =
+|alma_mater        =
+|doctoral_advisor  =
+|doctoral_students =
+|known_for         =[[electron tunneling]], [[Esaki diode]]
+|prizes            =[[The Franklin Institute Awards|Stuart Ballantine Medal]] (1961)<br />[[Penghargaan Nobel dalam Fisika]] (1973) </br> [[IEEE Medal of Honor]]
+|footnotes         =
+|signature         = 
+}}
+'''Leo Esaki''' ( ; transkripsi yang benar ''Esaki Reona''; juga dikenal sebagai ''Esaki Leona'', (lahir [[12 Maret]] [[1925]]) adalah [[fisikawan]] [[Jepang]]-[[Amerika Serikat]] yang bekerja pada peralat kristal ([[diode]] [[semikonduktor]]) dan menunjukkan bahwa besarnya [[hambatan]] listrik kadang-kadang menurun dengan bertambahnya [[arus listrik]]. Ia menghubungkannya dengan penerowongan [[mekanika kuantum]]. Untuk penemuan ini, ia menerima [[Penghargaan Nobel dalam Fisika]] [[1973]]. Leo Esaki memenangkan hadiah Nobel ini bersama-sama
+dengan Ivan Giaever dan [[Brian David Josephson]] mengenai fenomena yang juga dikenal sebagai terobosan elektron (electron tunneling).
+Di dalam dunia [[elektronika]], Esaki sering dikenal dengan hasil penemuannya berupa diode Esaki, yang dikembangkan
+berdasarkan prinsip dasar terobosan elektron tersebut.
+
+'''Esaki''' dilahirkan di Osaka, [[Jepang]], dan belajar ilmu Fisika di [[Universitas Tokyo]],
+serta berhasil mendapatkan gelar [[Sarjana]] pada tahun 1947, kemudian gelar [[PhD]] pada tahun 1959.
+Hasil penemuan diode yang merupakan elemen dasar dari [[transistor]] dan [[sirkuit terintegrasi]] (IC chip) ini merupakan hasil riset yang dia lakukan pada tahun
+1958 mengenai terobosan elektron di dalam benda padat. Pada tahun 1960, Esaki
+pindah ke [[Amerika Serikat]] dan bergabung dengan perusahaan [[IBM]] T.J. Watson Research
+Center, sampai akhirnya dia mendapatkan predikat dan status sebagai IBM Fellow pada tahun 1967.
+
+Di antara beberapa buku yang pernah ditulisnya adalah:
+* Large scale integrated circuits technology : state of the art and prospects : proceedings of the NATO Advanced Study Institute on "Large Scale Integrated Circuits Technology: State of the Art and Prospects," Erice, Italy, July 15-27, 1981 / diedit oleh Leo Esaki dan Giovanni Soncini(1982)
+* Highlights in condensed matter physics and future prospects / diedit oleh Leo Esaki (1991)
+
+== Pranala luar ==
+
+* [http://scienceworld.wolfram.com/biography/Esaki.html Esaki, Leo (1925-)  from Eric Weissteins World of Scientific Biography]
+{{DEFAULTSORT:Esaki, Leo}}
+{{jepang-bio-stub}}
+{{Nobel Fisika}}
+
+[[Kategori:Kelahiran 1925]]
+[[Kategori:Pemenang Hadiah Nobel dalam bidang fisika]]
+[[Kategori:Fisikawan Jepang]]
+[[Kategori:Tokoh Jepang pemenang Hadiah Nobel]]

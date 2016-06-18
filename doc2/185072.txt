@@ -1,0 +1,31 @@
+Cucurbitales
+{{Taxobox
+| color = lightgreen
+| name = Cucurbitales
+| image = 2006-10-18Cucurbita pepo02.jpg
+| image_caption = ''Cucurbita pepo''
+| regnum = [[Plantae]]
+| divisio = [[Flowering plant|Magnoliophyta]]
+| classis = [[Magnoliopsida]]
+| ordo = '''Cucurbitales'''
+| ordo_authority = 
+| subdivision_ranks = [[familia|Suku]]
+| subdivision = 
+lihat teks.
+}}
+'''Cucurbitales''' adalah salah satu [[Ordo (biologi)|bangsa]] [[tumbuhan berbunga]] yang termasuk dalam klad [[euRosidae I]], [[Rosidae]], [[core Eudikotil]], dan [[Eudikotil]] ([[Sistem klasifikasi APG II]]).
+
+Bangsa ini beranggotakan tujuh [[familia|suku]] (menurut sistem APG II):
+* [[Anisophylleaceae]]
+* [[Begoniaceae]] (suku [[begonia]]-begoniaan)
+* [[Coriaria]]ceae
+* [[Corynocarpaceae]]
+* [[Cucurbitaceae]] (suku labu-labuan)
+* [[Datiscaceae]]
+* [[Tetramelaceae]]
+
+Di dalam sistem Cronquist (1981), empat suku pertama dimasukkan ke dalam [[Violales]] dan Tetramelaceae digabungkan dalam Datiscaceae.
+{{botani-stub}}
+
+[[Kategori:Cucurbitales| ]]
+[[Kategori:Magnoliopsida]]

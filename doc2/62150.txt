@@ -1,0 +1,48 @@
+Escherichia coli
+{{Taxobox
+| color = lightgrey
+| status =
+| image = EscherichiaColi NIAID.jpg
+| image_width = 250px
+| domain = [[Bakteri|Bacteria]]
+| phylum = [[Proteobacteria]]
+| classis = [[Gammaproteobacteria]]
+| ordo = [[Enterobacteriaceae|Enterobacteriales]]
+| familia = [[Enterobacteriaceae]]
+| genus = ''[[Escherichia]]''
+| species = '''''E. coli'''''
+| binomial = ''Escherichia coli''
+| binomial_authority = ([[Walter Migula|Migula]] 1895)<br />[[Castellani]] and [[Chalmers (surname)|Chalmers]] 1919
+| synonyms = ''Bacillus coli communis'' <small>[[Theodor Escherich|Escherich]] 1885</small>
+}}
+
+'''''Escherichia coli''''', atau biasa disingkat '''''E. coli''''', adalah salah satu jenis [[spesies]] utama [[bakteri]] [[gram negatif]]. Pada umumnya, bakteri yang ditemukan oleh [[Theodor Escherich]] ini dapat ditemukan dalam [[usus besar]] [[manusia]]. Kebanyakan ''E. Coli'' tidak berbahaya, tetapi beberapa, seperti ''E. Coli'' tipe [[Escherichia coli O157:H7|O157:H7]], dapat mengakibatkan keracunan makanan yang serius pada manusia yaitu [[diare]] berdarah karena [[eksotoksin]] yang dihasilkan bernama [[verotoksin]].<ref name="Levinson">Levinson W. 2008. ''Review of Medical Microbiology''. Amerika: The McGraw-Hill Companies.</ref> Toksin ini bekerja dengan cara menghilangkan satu basa [[adenin]] dari unit 28S [[rRNA]], sehingga menghentikan sintesis [[protein]].<ref name="Levinson"/> Sumber bakteri ini contohnya adalah daging yang belum masak, seperti daging hamburger yang belum matang.<ref name="Levinson"/>
+
+''E. Coli'' yang tidak berbahaya dapat menguntungkan manusia dengan memproduksi [[vitamin K]]<sub>2</sub>, atau dengan mencegah bakteri lain di dalam usus.
+
+''E. coli'' banyak digunakan dalam teknologi [[rekayasa genetika]]. Biasa digunakan sebagai [[vektor]] untuk menyisipkan [[gen|gen-gen]] tertentu yang diinginkan untuk dikembangkan. ''E. coli'' dipilih karena pertumbuhannya sangat cepat dan mudah dalam penanganannya. Negara-negara di eropa sekarang sangat mewaspadai penyebaran bakteri E.Coli ini, mereka bahkan melarang mengimpor sayuran dari luar
+
+== Pranala luar ==
+* {{en}} [http://www.ecocyc.org/ Encyclopedia of ''Escherichia coli'' Genes and Metabolism (EcoCyc)]
+* {{en}} [http://www.cciw.ca/wqrjc/35-1/35-1-1.htm The Presence of Coliform Bacteria in Canadian Pulp and Paper Mill Water Systems - a Cause for Concern? - by Dr. F. Archibald (abstract only)]
+* {{en}} [http://aem.asm.org/cgi/content/full/66/12/5155 Coliform Bacteria and Nitrogen Fixation in Pulp and Paper Mill Effluent Treatment Systems - by Dr. F. Archibald (full text)]
+* {{en}} [http://briandeer.com/e-coli-o157.htm Investigation of a UK outbreak by Brian Deer]
+* {{en}} [http://ecoli.bham.ac.uk/ The ''E. coli'' index: resource for ''E. coli'' as a model organism]
+* {{en}} [http://colibase.bham.ac.uk/ coliBASE: a comparative genomics database for ''E. coli'']
+* {{en}} [http://www.ecoli-york.org/ EchoBASE: an integrated post-genomic database for ''E. coli'']
+* {{en}} [http://redpoll.pharmacy.ualberta.ca/CCDB/cgi-bin/STAT_NEW.cgi ''E. coli'' Statistics]
+* {{en}} [http://escherichia-coli.sergi5.com ''E. coli'' computational and real Models]
+* {{en}} [http://www.brainblog.com/cms/scientists_engineer_bacteria_to_create_living_photographs2480 Scientists engineer bacteria to create living photographs]
+* {{en}} [http://www.technologyreview.com/read_article.aspx?ch=biotech&sc=&id=16949&pg=1 Scientists are synthetically engineering E. coli that can target and kill cancer cells]
+* {{en}} [http://www.cnn.com/2006/HEALTH/09/15/tainted.spinach.ap/index.html 2006 Recent Stories]
+* {{en}} [http://www.fda.gov/oc/opacom/hottopics/spinach.html FDA information on the Spinach and E. coli Outbreak]
+* {{en}} [http://www.cdc.gov/foodborne/ecolispinach/ ''E. coli'' Outbreak From Fresh Spinach - U.S. Centers for Disease Control and Prevention]
+
+== Referensi ==
+{{reflist}}
+
+{{wikispecies|Escherichia coli}}
+
+{{bakteri-stub}}
+
+[[Kategori:Bakteri]]

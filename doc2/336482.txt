@@ -1,0 +1,35 @@
+FreeOTFE
+{{Infobox Software
+| name                   = FreeOTFE
+| logo                   = [[Berkas:FreeOTFE_logo.png]]
+| screenshot             = <TABLE CELLSPACING="10"><TR><TD VALIGN="MIDDLE">[[Berkas:FreeOTFE.png|150px]]</TD><TD VALIGN="MIDDLE">[[Berkas:FreeOTFE4PDA.png|100px]]</TD></TR></TABLE>
+| caption                = 
+| author                 =
+| developer              = Sarah Dean
+| released               = 
+| latest release version = v5.21
+| latest release date    = 2010-02-07
+| latest preview version = 
+| latest preview date    = 
+| operating system       = [[Microsoft Windows]], [[Windows Mobile]]
+| platform               = 
+| language               =
+| genre                  = [[Perangkat lunak enkripsi disk]]
+| license                = 
+| website                = [http://www.FreeOTFE.org/ www.FreeOTFE.org]
+}}
+
+''FreeOTFE'' adalah [[perangkat lunak]] [[enkripsi]] [[cakram keras]] untuk [[sistem operasi]] [[Microsoft Windows]] dan [[Windows Mobile]].
+
+FreeOTFE didasarkan pada [[algoritma]] [[AES]], [[Blowfish]], [[Twofish]], [[CAST]], dan cara lainnya dan dapat meng-enkripsi baik file dan [[citra]] (image) pada harddisk, maupun file pada [[CD]]/[[DVD]].
+
+== Pranala luar ==
+* [http://www.FreeOTFE.org/ Situs web FreeOTFE]
+
+{{software-stub}}
+
+[[Kategori:Perangkat lunak]]
+[[Kategori:Kriptografi]]
+[[Kategori:Perangkat lunak kriptografi]]
+[[Kategori:Perangkat lunak enkripsi disk]]
+[[Kategori:Enkripsi cakram]]

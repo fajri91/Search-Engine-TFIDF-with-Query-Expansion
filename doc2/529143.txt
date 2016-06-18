@@ -1,0 +1,54 @@
+Bandar Udara Sittwe
+{{Infobox Airport
+| name         = Bandar Udara Sittwe 
+| nativename   = 
+| nativename-a = 
+| nativename-r = 
+| image        = 
+| image-width  = 
+| caption      = 
+| IATA         = AKY
+| ICAO         = VYSW
+<center>{{Location map|Burma|width=200|float=center
+|caption=|mark=Airplane_silhouette.svg|marksize=10
+|label=AKY|position=right
+|lat_deg=20|lat_min=07|lat_sec=58|lat_dir=N
+|lon_deg=92|lon_min=52|lon_sec=21|lon_dir=E
+}}<small>Lokasi bandar udara di Myanmar</small></center>
+| type         = 
+| owner        = 
+| operator     = 
+| city-served  = 
+| location     = Sittwe, [[Myanmar]]
+| elevation-f  = 27
+| elevation-m  = 8
+| coordinates  = {{coord|20|07|58|N|092|52|21|E|type:airport}}
+| website      = 
+| metric-elev  = 
+| metric-rwy   = 
+| r1-number    = 11/29
+| r1-length-f  = 6001
+| r1-length-m  = 1829
+| r1-surface   = Bitumen
+| stat-year    = 
+| stat1-header = 
+| stat1-data   = 
+| footnotes    = 
+}}
+'''Bandar Udara Sittwe''' {{airport codes|AKY|VYSW}} adalah [[bandar udara]] yang berada di [[Sittwe]], [[Negara Bagian Rakhine]], [[Burma]].  
+
+==Maskapai penerbangan dan tujuan==
+{{Airport-dest-list
+|[[Air Bagan]]|[[Bandar Udara Thandwe|Thandwe]], [[Bandar Udara Internasional Yangon|Yangon]]
+|[[Air Mandalay]]|Thandwe, Yangon
+|[[Myanma Airways]]|[[Bandar Udara Kyaukpyu|Kyaukpyu]], Yangon
+}}
+
+==Pranala luar==
+*{{WAD|VYSW}}
+
+{{DEFAULTSORT:Sittwe, bandar udara}}
+
+[[Kategori:Bandar udara di Myanmar]]
+
+{{bandara-asia-stub}}

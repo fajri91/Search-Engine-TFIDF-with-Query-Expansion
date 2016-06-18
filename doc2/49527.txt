@@ -1,0 +1,21 @@
+Templat:Floor
+<includeonly>{{#ifexpr:({{{1}}})=(({{{1}}})round 0)|{{#expr:{{{1}}}}}|{{#ifexpr:({{{1}}})>0|{{#expr:((({{{1}}})+0.5)round 0)-1}}|{{#expr:-((0.5-({{{1}}}))round 0)}}}}}}</includeonly><noinclude>
+; Contoh<nowiki>:</nowiki>
+* <tt><nowiki>{{</nowiki>{{PAGENAME}}<nowiki>|</nowiki>3.9<nowiki>}}</nowiki></tt> = {{{{PAGENAME}}|3.9}}.
+* <tt><nowiki>{{</nowiki>{{PAGENAME}}<nowiki>|</nowiki>3.5<nowiki>}}</nowiki></tt> = {{{{PAGENAME}}|3.5}}.
+* <tt><nowiki>{{</nowiki>{{PAGENAME}}<nowiki>|</nowiki>3.1<nowiki>}}</nowiki></tt> = {{{{PAGENAME}}|3.1}}.
+* <tt><nowiki>{{</nowiki>{{PAGENAME}}<nowiki>|</nowiki>3.0<nowiki>}}</nowiki></tt> = {{{{PAGENAME}}|3.0}}.
+* <tt><nowiki>{{</nowiki>{{PAGENAME}}<nowiki>|</nowiki>1.0<nowiki>}}</nowiki></tt> = {{{{PAGENAME}}|1.0}}.
+* <tt><nowiki>{{</nowiki>{{PAGENAME}}<nowiki>|</nowiki>0.9<nowiki>}}</nowiki></tt> = {{{{PAGENAME}}|0.9}}.
+* <tt><nowiki>{{</nowiki>{{PAGENAME}}<nowiki>|</nowiki>0.5<nowiki>}}</nowiki></tt> = {{{{PAGENAME}}|0.5}}.
+* <tt><nowiki>{{</nowiki>{{PAGENAME}}<nowiki>|</nowiki>0.1<nowiki>}}</nowiki></tt> = {{{{PAGENAME}}|0.1}}.
+* <tt><nowiki>{{</nowiki>{{PAGENAME}}<nowiki>|</nowiki>0.0<nowiki>}}</nowiki></tt> = {{{{PAGENAME}}|0.0}}.
+* <tt><nowiki>{{</nowiki>{{PAGENAME}}<nowiki>|</nowiki>-0.1<nowiki>}}</nowiki></tt> = {{{{PAGENAME}}|-0.1}}.
+* <tt><nowiki>{{</nowiki>{{PAGENAME}}<nowiki>|</nowiki>-0.5<nowiki>}}</nowiki></tt> = {{{{PAGENAME}}|-0.5}}.
+* <tt><nowiki>{{</nowiki>{{PAGENAME}}<nowiki>|</nowiki>-0.9<nowiki>}}</nowiki></tt> = {{{{PAGENAME}}|-0.9}}.
+* <tt><nowiki>{{</nowiki>{{PAGENAME}}<nowiki>|</nowiki>-1.0<nowiki>}}</nowiki></tt> = {{{{PAGENAME}}|-1.0}}.
+* <tt><nowiki>{{</nowiki>{{PAGENAME}}<nowiki>|</nowiki>-3.0<nowiki>}}</nowiki></tt> = {{{{PAGENAME}}|-3.0}}.
+* <tt><nowiki>{{</nowiki>{{PAGENAME}}<nowiki>|</nowiki>-3.2<nowiki>}}</nowiki></tt> = {{{{PAGENAME}}|-3.2}}.
+* <tt><nowiki>{{</nowiki>{{PAGENAME}}<nowiki>|</nowiki>-3.5<nowiki>}}</nowiki></tt> = {{{{PAGENAME}}|-3.5}}.
+* <tt><nowiki>{{</nowiki>{{PAGENAME}}<nowiki>|</nowiki>-3.9<nowiki>}}</nowiki></tt> = {{{{PAGENAME}}|-3.9}}.
+</noinclude>

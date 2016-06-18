@@ -1,0 +1,35 @@
+Peucetia graminea
+{{Taxobox
+|name = Peucetia graminea
+|status = 
+|image = 
+|image_caption = 
+|domain = 
+|regnum = [[Animalia]]
+|phylum = [[Arthropoda]]
+|classis = [[Arachnida]]
+|ordo = [[Araneae]]
+|familia = [[Oxyopidae]]
+|genus =Peucetia
+|species = Peucetia graminea
+|binomial = Peucetia graminea
+|binomial_authority =Pocock, 1900
+|range_map = 
+|range_map_caption = 
+|image2 = 
+|image2_caption = 
+|synonyms = 
+}}
+'''''Peucetia graminea''''' adalah spesies [[laba-laba]] yang tergolong [[familia]] [[Oxyopidae]]. Spesies ini juga merupakan bagian dari genus [[Peucetia]] dan ordo [[Araneae]]. Nama ilmiah dari spesies ini pertama kali diterbitkan pada tahun 1900 oleh Pocock.
+
+Laba-laba ini biasanya banyak ditemui di India.
+
+== Referensi ==
+
+* {{aut|Platnick, Norman I.}} (2010): [http://research.amnh.org/iz/spiders/catalog/OXYOPIDAE.html ''The world spider catalog''], versi 10.5. ''[[American Museum of Natural History]]''.
+
+{{DEFAULTSORT:Peucetia graminea}}
+
+[[Kategori:Oxyopidae]]
+
+{{labalaba-stub}}

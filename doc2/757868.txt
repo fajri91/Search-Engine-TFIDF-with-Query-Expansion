@@ -1,0 +1,79 @@
+Rafael Paasio
+{{Infobox Officeholder
+|honorific-prefix    =
+|name                = Rafael Paasio
+|honorific-suffix    =
+|image               = Rafaelpaasio.jpg
+|imagesize           =
+|smallimage          =
+|caption             =
+|order               = 
+|office              = [[Perdana Menteri Finlandia]]
+|term_start          = 27 Mei 1966
+|term_end            = 22 Maret 1968
+|predecessor         = [[Johannes Virolainen]]
+|successor           = [[Mauno Koivisto]]
+|deputy              = [[Reino Oittinen]]
+|term_start2         = 23 Februari 1972
+|term_end2           = 4 September 1972
+|predecessor2        = [[Teuvo Aura]]
+|successor2          = [[Kalevi Sorsa]]
+|deputy2             = [[Mauno Koivisto]]
+|birth_date          = 6 Juni 1903
+|birth_place         = Uskela, sekarang bagian dari [[Salo, Finlandia]]
+|death_date          = {{Death date and age|df=yes|1980|3|17|1903|6|6}}
+|death_place         = 
+|nationality         =
+|party               = [[Partai Demokratik Sosial Finlandia|Partai Demokratik Sosial]]
+|spouse              = 
+|relations           =
+|children            =
+|residence           =
+|alma_mater          =
+|occupation          =
+|profession          =
+|religion            =
+|signature           =
+|website             =
+|footnotes           =
+}}
+'''Kustaa Rafael Paasio''' (6 Juni 1903 - 17 Maret 1980) adalah seorang [[politikus]] [[Finlandia]] berpengaruh dan editor dari [[Partai Demokratik Sosial Finlandia|Partai Demokratik Sosial]]. Ia menjabat sebagai [[Perdana Menteri Finlandia]] sebanyak dua kali.<ref>{{cite web |url=http://www.valtioneuvosto.fi/hakemisto/ministerikortisto/ministeritiedot.asp?nro=279 |title=Ministerikortisto |publisher=Valtioneuvosto}}</ref>
+
+Paasio lahir di [[Uskela]] dan telah memiliki hubungan dengan gerakan Buruh Demokratik Sosial pada tahun-tahun awalnya. Paasio terpilih dalam parlemen pada 1948. Sebelumnya ia berpartisipasi dalam dewan munisipal Turku dan sejak 1942 ia menjadi ketua surat kabar Turun Pivlehti. Paasio menjadi ketua SDP dari 1963 sampai 1975, dan menjabat sebagai [[Perdana Menteri Finlandia|perdana menteri]] sebanyak dua kali, 1966-1968 dan 1972, dan juga dua kali menjadi Jurubicara Parlemen.<ref>{{cite web |url=
+http://www.eduskunta.fi/triphome/bin/hx5000.sh?{hnro}=911187&{kieli}=su&{haku}=kaikki
+ |title=Edustajamatrikkeli |publisher=Eduskunta}}</ref> Putranya, [[Pertti Paasio]], dan cucu perempuannya, Heli Paasio, menjadi anggota parlemen.
+
+Paasio menjadi kandidat Demokrat Sosial pada pemilihan presidensial 1962. Ia meninggal di [[Turku]], pada usia 76 tahun.
+
+== Referensi ==
+
+{{reflist}}
+
+{{s-start}}
+{{s-off}}
+{{succession box
+ |title=[[Jurubicara Parlemen Finlandia]] |before=[[Karl-August Fagerholm]] |years=1966|after=[[Johannes Virolainen]]}}
+{{succession box
+ |title=[[Perdana Menteri Finlandia]]|years=1966&ndash;1968|before=[[Johannes Virolainen]]|after=[[Mauno Koivisto]]}}
+{{succession box
+ |title=[[Jurubicara Parlemen Finlandia]] |before=[[V. J. Sukselainen]] |years=1970&ndash;1972|after=[[V. J. Sukselainen]]}}
+{{succession box
+ |title=[[Perdana Menteri Finlandia]]|years=1972|before=[[Teuvo Aura]]|after=[[Kalevi Sorsa]]}}
+{{s-end}}
+
+{{Perdana Menteri Finlandia}}
+
+{{Normdaten}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+|NAME              =Paasio, Rafael
+|ALTERNATIVE NAMES =
+|SHORT DESCRIPTION = politikus Finlandia
+|DATE OF BIRTH     =6 Juni 1903
+|PLACE OF BIRTH    =Uskela, sekarang bagian dari [[Salo, Finlandia]]
+|DATE OF DEATH     =17 Maret 1980
+|PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Paasio, Rafael}}
+[[Kategori:kelahiran 1903]]
+[[Kategori:kematian 1980]]

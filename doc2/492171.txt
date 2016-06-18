@@ -1,0 +1,72 @@
+Air Mantra
+{{Infobox Airline
+|airline        = Air Mantra
+|hubs= [[Bandar Udara Chandigarh|Chandigarh]]
+|logo           = 
+|logo_size      = 
+|fleet_size     = 
+|destinations   = 02
+|IATA           = -
+|ICAO           = -
+|callsign       = MANTRA
+|parent         = 
+|company_slogan =
+|founded        = 2012
+|headquarters   = [[New Delhi]], [[India]]
+|key_people     = '''Pankaj Chopra'''<ref name=" Launch News ">{{cite news|title= Launch News|publisher=Hindustan Times|accessdate=Jul 2012|url=http://www.hindustantimes.com/Punjab/Amritsar/Amritsar-Chandigarh-flights-from-July-23/SP-Article1-889050.aspx}}</ref><br><small>(Chief Operating Officer)<small>
+|hubs           = 
+|secondary_hubs = [[Bandar Udara Internasional Sri Guru Ram Dass Jee|Amritsar]]
+|focus_cities   = [[Chandigarh]]<br>[[Amritsar]]<br>[[Dharamshala]] dan<br>[[Jammu]]<ref name=" Airline Overview ">{{cite news|title= Airline Overview|publisher=Air Mantra|accessdate=Jul 2012|url=http://www.airmantra.com/Static/OverView.aspx}}</ref>
+|frequent_flyer = 
+|lounge         = 
+|alliance       = 
+|website        = [http://www.airmantra.com/ Air Mantra]
+}}
+'''Air Mantra''' adalah [[maskapai penerbangan]] regional yang berbasis di [[Delhi]], [[India]]. Maskapai ini mulai beropeasi pada tanggal [[23 Juli]] [[2012]] dengan penerbangan dua kali sehari antara [[Chandigarh]] dan [[Amritsar]]<ref name=" Launch News " /><ref name="TOI">{{cite news|title= Air Mantra connects religious capital of Sikhs with state capital|url=http://articles.timesofindia.indiatimes.com/2012-07-24/chandigarh/32826864_1_amritsar-airport-air-connectivity-aircraft|publisher=[[The Times of India]]|date= 24 July 2012|accessdate=3 August 2012}}</ref>
+
+== Sejarah ==
+Air Mantra didirikan pada tahun 2011 dan dipromosikan oleh konglomerat India [[Religare|Religare Group]].<ref name=" Curious Launch ">{{cite news|title=Curious Launch|publisher=The Wall Street Journal blog|accessdate=Jul 2012|url=http://blogs.wsj.com/indiarealtime/2012/07/17/the-curious-launch-of-air-mantra/}}</ref> Para perdana penerbangan antara Amritsar-Chandigarh harus kembali di tengah perjalanan akibat cuaca buruk di Chandigarh.<ref name="TOI"/>
+
+== Tujuan ==
+Air Mantra pada saat ini terbang ke beberapa tujuan:
+
+*[[Chandigarh]]
+**[[Bandar Udara Chandigarh]]
+*[[Punjab, India|Punjab]]
+**[[Bandar Udara Internasional Sri Guru Ram Dass Jee|Bandar Udara Amritsar]]
+
+== Armada ==
+Pada Juli 2012 Air Mantra termasuk beberapa pesawat:
+
+{| class="toccolours" border="1" cellpadding="3" style="border-collapse:collapse;text-align:center"
+|+ '''Armada Air Mantra'''
+|- bgcolor=#100B00
+!<font color=white>Pesawat
+!<font color=white>Digunakan
+!<font color=white><small>Usia rata-rata<br>pesawat<small>
+!<font color=white>Penumpang<br><small>(Ekonomi)</small>
+!<font color=white>Mesin
+|-
+|[[Beechcraft 1900|Beechcraft-1900 D]]
+|2
+| 12 tahun
+|17
+|[[Pratt & Whitney Canada PT6|PT6A-67D]]
+|-
+|'''Total'''
+|'''2'''
+|'''12 tahun'''
+|colspan=3|
+|}
+ 
+<sup>Usia rata-rata armada Air Mantra adalah 12 tahun per Juli 2012.</sup><ref name=" Fleet ">{{cite news|title= Fleet|publisher=Air Mantra|accessdate=Jul 2012|url=http://www.airmantra.com/Static/Fleet-Information.aspx}}</ref>
+
+== Referensi ==
+{{reflist}}
+
+{{Maskapai penerbangan India}}
+
+[[Kategori:Maskapai penerbangan di India]]
+
+
+{{maskapai-stub}}

@@ -1,0 +1,59 @@
+Bandar Udara Internasional Samarkand
+{{Infobox airport 
+| name         = Bandar Udara Internasional Samarkand
+| nativename   = Samarqand Xalqaro Aeroporti
+| nativename-a =   
+| nativename-r = 
+| image        = 
+| image-width  = 
+| caption      = 
+| IATA         = SKD
+| ICAO         = UTSS
+<center>{{Location map|Uzbekistan|width=250|float=center
+|caption=|mark=Airplane_silhouette.svg|marksize=10
+|label=SKD|position=bottom
+|lat_deg=39|lat_min=42|lat_sec=02|lat_dir=N
+|lon_deg=66|lon_min=59|lon_sec=02|lon_dir=E
+}}<small>Lokasi bandar udara di Uzbekistan</small></center>
+| type         = Publik
+| owner        = [[Pemerintah Uzbekistan]]
+| operator     = [[Uzbekistan Airways]]
+| city-served  = [[Samarkand]]
+| location     = [[Samarkand]], [[Uzbekistan]]
+| elevation-f  = 2,224
+| elevation-m  = 678
+| coordinates  = {{Coord|39|42|02|N|66|59|02|E|type:airport|display=inline,title}}
+| website      = 
+| metric-elev  = 
+| metric-rwy   = 
+| r1-number    = 09/27
+| r1-length-f  = 10,170
+| r1-length-m  = 3,100
+| r1-surface   = [[Aspal]]
+| stat-year    = 
+| stat1-header = 
+| stat1-data   = 
+| stat2-header = 
+| stat2-data   = 
+| footnotes    = 
+}}
+'''Bandar Udara Internasional Samarkand''' {{airport codes|SKD|UTSS}} adalah [[bandar udara]] yang melayani [[Samarkand]], [[Uzbekistan]].
+
+== Maskapai penerbangan dan tujuan ==
+{{airport-dest-list
+|[[Aeroflot]]<br><small>{{nowrap|dioperasikan oleh [[Rossiya (maskapai penerbangan)|Rossiya]]}} | St Petersburg
+|[[Aerosvit Airlines]]|Kiev-Boryspil, Simferopol
+|[[Germania (airline)|Germania]]|'''Charter''': Erfurt, Dsseldorf, Frankfurt, Friedrichshafen, Hannover, Paderborn/Lippstadt
+|[[Moskovia Airlines]]|Moscow-Domodedovo
+|[[Ural Airlines]]|Yekaterinburg
+|[[UTair Aviation]]|Moskow-Vnukovo
+|[[Uzbekistan Airways]]|Kazan, Moskow-Domodedovo, Simferopol, St Petersburg, Tashkent
+|[[VIM Airlines]]|Moskow-Domodedovo
+}}
+
+== Pranala luar ==
+*{{WAD|UTSS}}
+
+{{bandara-asia-stub}}
+
+[[Kategori:Bandar udara di Uzbekistan]]

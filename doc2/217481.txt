@@ -1,0 +1,26 @@
+Templat:Gantiwarno, Klaten
+{{Navigasi ID Desa
+|provinsi=Jawa Tengah
+|dati2=Kabupaten
+|nama dati2=Klaten
+|nama kecamatan=Gantiwarno
+|d1=Baturan
+|d2=Ceporan
+|d3=Gentan
+|d4=Gesikan
+|d5=Jabung
+|d6=Jogoprayan
+|d7=Karangturi
+|d8=Katekan
+|d9=Kerten
+|d10=Kragilan
+|d11=Mlese
+|d12=Muruh
+|d13=Mutihan
+|d14=Ngandong
+|d15=Sawit
+|d16=Towangsan
+}}<noinclude>
+[[Kategori:Templat desa/kelurahan di Jawa Tengah|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Klaten|{{PAGENAME}}]]
+</noinclude>

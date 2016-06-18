@@ -1,0 +1,14 @@
+Berkas:The Mars Exploration Rover spacecraft.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+from http://spaceflightnow.com/mars/mera/031231mer.html and http://spaceflightnow.com/mars/mera/images/030604mersections.jpg
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Fairuse}}

@@ -1,0 +1,28 @@
+Berkas:SlingshotVHScover.jpg
+{{dari|en}}
+==Penjelasan==
+{{Non-free use rationale 2
+|Description = VHS cover for article in subject
+|Source = http://www.amazon.com
+|Date = 1994
+|Author = Columbia Tristar Home Video
+|Article = Kdisbellan (film)
+|Purpose = to serve as the primary means of visual identification at the top of the article dedicated to the work in question.
+|Replaceability = n.a.
+|Minimality = == Summary ==
+{{Non-free use rationale
+ |Article           = Kdisbellan (film)
+ |Description       = VHS cover for ''Kdisbellan (film)''
+ |Source            = [http://www.amazon.com]
+ |Portion           = whole
+ |Low_resolution    = The image is only used once and is rendered in low resolution to avoid piracy.
+ |Purpose           = The image is significant in identifying the subject of the article, which is the film or film character itself.
+ |Replaceability    = No free equivalent exists that would effectively identify the article's subject.
+ |other_information = 
+}}
+|Commercial = n.a.
+|Other information = 
+}}
+
+==Lisensi==
+{{Non-free video cover|image has rationale=yes}}

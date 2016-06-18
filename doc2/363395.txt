@@ -1,0 +1,173 @@
+Templat:Bagan Pengurus
+<!-- untuk update timeline, tinggal perbarui baris
+Period     = from:01/01/2004 till:05/10/2012
+dan masukkan tanggal terakhir dengan format: mm/dd/yyyy
+-->
+<timeline>
+ImageSize  = width:800 height:auto barincrement:21
+PlotArea   = right:20 left:20 top:5 bottom:60
+Legend     = position:bottom orientation:horizontal
+
+Colors     =
+             id:bg          value:rgb(0.9,0.9,1)
+             id:major       value:black
+             id:minor       value:rgb(0.8,0.8,0.8)
+             id:text        value:black
+             id:header      value:rgb(0.6,0.6,0.9)
+             id:htext       value:white
+             id:current     value:rgb(0.5,0.9,0.5) legend:Sedang_menjabat
+             id:previous    value:rgb(0.9,0.8,0.5) legend:Mantan_pengurus
+BackgroundColors = canvas:bg
+
+TimeAxis   = orientation:horizontal
+DateFormat = mm/dd/yyyy
+Period     = from:01/01/2004 till:12/31/2017
+ScaleMajor = gridcolor:major unit:year  increment:1 start:01/01/2004
+ScaleMinor = gridcolor:minor unit:month increment:1 start:01/01/2004
+
+BarData    = 
+             Bar:HPengurus
+             Barset:SPengurus
+             Bar:HBirokrat
+             Barset:SBirokrat
+             Bar:HPemeriksa
+             Barset:SPemeriksa
+             Bar:HPengawas
+             Barset:SPengawas
+
+PlotData   =
+  width:15 textcolor:text
+  bar:HPengurus color:header textcolor:htext width:20 shift:(-50,-5) fontsize:m from:01/01/2004 till:end text:"[[Wikipedia:Pengurus|Pengurus]]"
+  bar:HBirokrat color:header textcolor:htext width:20 shift:(-50,-5) fontsize:m from:01/01/2004 till:end text:"[[Wikipedia:Birokrat|Birokrat]]"
+  bar:HPemeriksa color:header textcolor:htext width:20 shift:(-50,-5) fontsize:m from:01/01/2004 till:end text:"[[Wikipedia:Pemeriksa|Pemeriksa]]"
+  bar:HPengawas color:header textcolor:htext width:20 shift:(-50,-5) fontsize:m from:01/01/2004 till:end text:"[[Wikipedia:Pengawas|Pengawas]]"
+
+  barset:SPengurus
+    shift:(5,-5) anchor:from fontsize:m
+    color:current  from:02/28/2004 till:end text:"[[Pengguna:Meursault2004|Meursault2004]]*"
+    color:previous from:02/28/2004 till:05/15/2004 text:"[[Pengguna:Kowey|Kowey]]"
+    color:previous from:10/12/2004 till:05/04/2006 text:"[[Pengguna:Kolomonggo|Kolomonggo]]"
+    color:previous from:10/29/2004 till:05/29/2007 text:"[[Pengguna:Yosri|Yosri]]"
+    color:previous from:10/29/2004 till:05/06/2010 text:"[[Pengguna:Kandar|Kandar]]"
+    color:previous from:11/29/2004 till:10/24/2011 text:"[[Pengguna:Hayabusa future|Hayabusa future]]*"
+    color:previous from:02/15/2005 till:02/21/2006 text:"[[Pengguna:Tengku syariful|Tengku syariful]]"
+    color:previous from:04/09/2005 till:12/15/2006 text:"[[Pengguna:*drew|*drew]]"
+    color:previous from:04/30/2005 till:11/04/2008 text:"[[Pengguna:Roscoe x|Roscoe x]]"
+    color:previous from:12/12/2005 till:10/26/2009 text:"[[Pengguna:Borgx|Borgx]]*"
+    color:current  from:02/24/2006 till:end text:"[[Pengguna:Stephensuleeman|Stephensuleeman]]*"
+    color:current  from:04/05/2006 till:end text:"[[Pengguna:IvanLanin|IvanLanin]]*"
+    color:previous from:04/12/2006 till:05/10/2012 text:"[[Pengguna:Ciko|Ciko]]"
+    color:previous  from:06/01/2006 till:08/15/2012 text:"[[Pengguna:Wic2020|Wic2020]]"
+    color:previous from:10/20/2006 till:06/02/2010 text:"[[Pengguna:Jagawana|Jagawana]]"
+    color:current  from:10/22/2006 till:end text:"[[Pengguna:Rintojiang|Rintojiang]]*"
+    color:previous from:12/18/2006 till:08/24/2012 text:"[[Pengguna:REX|REX]]"
+    color:current  from:05/19/2007 till:end text:"[[Pengguna:Kembangraps|Kembangraps]]"
+    color:previous from:05/19/2007 till:02/17/2010 text:"[[Pengguna:Dragunova|Dragunova]]"
+    color:current  from:11/18/2008 till:end text:"[[Pengguna:Gombang|Gombang]]"
+    color:current  from:05/05/2009 till:end text:"[[Pengguna:Andri.h|Andri.h]]"
+    color:current  from:10/26/2009 till:end text:"[[Pengguna:Tjmoel|Tjmoel]]"
+    color:current  from:10/26/2009 till:10/26/2010 text:"[[Pengguna:Bennylin|Bennylin]]"
+    color:current  from:05/14/2010 till:end text:"[[Pengguna:Mimihitam|Mimihitam]]*"
+    color:current  from:09/20/2010 till:end text:"[[Pengguna:Ricky Setiawan|Ricky Setiawan]]"
+    color:current  from:04/06/2011 till:end text:"[[Pengguna:Albertus Aditya|Albertus Aditya]]*"
+    color:current  from:06/14/2011 till:end text:"[[Pengguna:Ezagren|Ezagren]]"
+    color:current  from:06/14/2011 till:end text:"[[Pengguna:Farras|Farras]]"
+    color:current  from:06/15/2012 till:end text:"[[Pengguna:Imanuel NS Uen|Imanuel NS Uen]]"
+    color:current  from:06/15/2012 till:end text:"[[Pengguna:RaymondSutanto|RaymondSutanto]]"
+    color:current  from:06/15/2012 till:end text:"[[Pengguna:Wagino 20100516|Wagino 20100516]]"
+    color:current  from:02/15/2013 till:end text:"[[Pengguna:Eddy bf|Eddy bf]]"
+    color:current  from:02/15/2013 till:end text:"[[Pengguna:Hariadhi|Hariadhi]]"
+    color:current  from:02/15/2013 till:end text:"[[Pengguna:Kenrick95|Kenrick95]]"
+    color:current  from:02/15/2013 till:end text:"[[Pengguna:Muhraz|Muhraz]]"
+    color:current  from:02/18/2014 till:end text:"[[Pengguna:Bonaditya|Bonaditya]]"
+    color:current  from:02/18/2014 till:end text:"[[Pengguna:Bozky|Bozky]]"
+    color:current  from:02/18/2014 till:end text:"[[Pengguna:M. Adiputra|M. Adiputra]]"
+    color:current  from:01/22/2015 till:end text:"[[Pengguna:JohnThorne|JohnThorne]]"
+    color:current  from:01/22/2015 till:end text:"[[Pengguna:Aldnonymous|Aldnonymous]]"
+    color:current  from:01/21/2016 till:end text:"[[Pengguna:Erik Fastman|Erik Fastman]]"
+    color:current  from:01/21/2016 till:end text:"[[Pengguna:Hidayatsrf|Hidayatsrf]]"
+    color:current  from:01/21/2016 till:end text:"[[Pengguna:Rachmat04|Rachmat04]]"
+
+
+   barset:break
+    at:01/01/2004
+    at:01/01/2004
+    at:01/01/2004
+    at:01/01/2004
+    at:01/01/2004
+    at:01/01/2004
+    at:01/01/2004
+    at:01/01/2004
+    at:01/01/2004
+    at:01/01/2004
+    at:01/01/2004
+    at:01/01/2004
+    at:01/01/2004
+    at:01/01/2004
+    at:01/01/2004
+    at:01/01/2004
+    at:01/01/2004
+    at:01/01/2004
+    at:01/01/2004
+    at:01/01/2004
+    at:01/01/2004
+    at:01/01/2004
+    color:current  from:06/15/2012 till:end text:"[[Pengguna:Bennylin|Bennylin]]"
+    at:01/01/2004
+    at:01/01/2004
+    at:01/01/2004
+    at:01/01/2004
+    at:01/01/2004
+    at:01/01/2004
+    at:01/01/2004
+    at:01/01/2004
+    at:01/01/2004
+    at:01/01/2004
+    at:01/01/2004
+    at:01/01/2004
+    at:01/01/2004
+    at:01/01/2004
+    at:01/01/2004
+    at:01/01/2004
+    at:01/01/2004
+
+  barset:SBirokrat
+    shift:(5,-5) anchor:from fontsize:m
+    color:current  from:02/28/2004 till:end text:"[[Pengguna:Meursault2004|Meursault2004]]*"
+    color:previous from:10/12/2004 till:05/04/2006 text:"[[Pengguna:Kolomonggo|Kolomonggo]]"
+    color:previous from:12/07/2005 till:10/24/2011 text:"[[Pengguna:Hayabusa future|Hayabusa future]]*"
+    color:previous from:05/05/2006 till:10/26/2009 text:"[[Pengguna:Borgx|Borgx]]*"
+    color:current  from:02/23/2007 till:end text:"[[Pengguna:IvanLanin|IvanLanin]]*"
+    color:current  from:03/30/2011 till:end text:"[[Pengguna:Tjmoel|Tjmoel]]"
+    color:current  from:05/19/2012 till:end text:"[[Pengguna:Mimihitam|Mimihitam]]*"
+
+  barset:SPemeriksa
+    shift:(5,-5) anchor:from fontsize:m
+    color:current  from:05/12/2006 till:end text:"[[Pengguna:Meursault2004|Meursault2004]]*"
+    color:previous from:05/12/2006 till:10/24/2011 text:"[[Pengguna:Hayabusa future|Hayabusa future]]*"
+    color:previous from:05/08/2006 till:10/26/2009 text:"[[Pengguna:Borgx|Borgx]]*"
+    color:current  from:11/10/2009 till:end text:"[[Pengguna:IvanLanin|IvanLanin]]*"
+    color:current  from:03/01/2013 till:end text:"[[Pengguna:Bennylin|Bennylin]]"
+    color:current  from:03/01/2013 till:end text:"[[Pengguna:Mimihitam|Mimihitam]]*"
+    color:current  from:05/07/2015 till:end text:"[[Pengguna:Aldnonymous|Aldnonymous]]"
+  
+  barset:SPengawas
+    shift:(5,-5) anchor:from fontsize:m
+    color:current from:11/07/2007 till:end text:"[[Pengguna:Meursault2004|Meursault2004]]*"
+    color:previous from:11/07/2007 till:02/09/2015 text:"[[Pengguna:Hayabusa future|Hayabusa future]]*"
+    color:previous from:11/03/2007 till:10/26/2009 text:"[[Pengguna:Borgx|Borgx]]*"
+    color:current from:02/08/2015 till:end text:"[[Pengguna:Bonaditya|Bonaditya]]"
+
+</timeline>
+
+<nowiki>*</nowiki> [[Wikipedia:Pengurus#Anggota kehormatan|Anggota kehormatan Wikipedia Bahasa Indonesia]]. <small>([[Templat:Bagan Pengurus|sunting bagan pengurus]])</small><noinclude>{{clear}}
+Untuk memperbarui timeline, tinggal perbarui baris
+:<tt>Period     = from:01/01/2004 till:03/31/2012</tt>
+dan masukkan tanggal terakhir dengan format: <code>mm/dd/yyyy</code>
+
+Untuk menambahkan pengurus/birokrat/pemeriksa/pengawas baru, tambahkan nama pengurus baru tersebut di bawah <tt>color:current</tt> yang terakhir lalu masukkan tanggal mulai diangkatnya (atau dengan mengikuti pola sebelumnya).
+
+Jika seorang pengurus/birokrat/pemeriksa/pengawas mundur/dicabut, tinggal pindahkan baris namanya ke bawah <tt>color:previous</tt> yang terakhir lalu masukkan tanggal berhentinya.
+
+[[Kategori:Kepengurusan Wikipedia]]
+</noinclude>

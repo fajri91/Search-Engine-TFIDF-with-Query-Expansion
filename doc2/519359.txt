@@ -1,0 +1,12 @@
+Templat:Pengguna etimologi
+{{userbox
+| logo-background = khaki
+| info-background = #ff9
+| border-color = #fc6
+| logo = [[Berkas:Wiktprintable without text.svg|50px]]
+| info = Pengguna ini adalah peminat '''[[etimologi]]''' dan gemar menyelidiki asal mula berbagai kata
+}}{{#if:{{{kat|}}}||<includeonly>[[Kategori:Pengguna peminat etimologi|{{PAGENAME}}]]</includeonly>}}<noinclude>
+{{clear}}
+Kategori yang ditambahkan: {{kt|Pengguna peminat etimologi}}
+[[Kategori:Templat userbox minat|etimologi]]
+</noinclude>

@@ -1,0 +1,17 @@
+Templat:Pengguna HarvardKSG
+{{userbox
+| border-c = {{{1|#000000}}}
+| id       = {{{3|KSG}}}
+| id-c     = {{{1|crimson}}}
+| id-fc    = {{{id-fc|white}}}
+| id-s     = {{{5|{{{id-s|14}}}}}}
+| info     = [[:Category:Wikipedians by alma mater: Kennedy School of Government|<span style="color: black;">Pengguna ini</span>]] alumnus dari <br>'''[[Kennedy School of Government|Kennedy School]]'''.
+| info-c   = {{{2|white}}}
+| info-fc  = {{{info-fc|black}}}
+| info-s   = {{{info-s|8}}}
+| nocat = {{{nocat|}}}
+}}<noinclude><br clear=all>
+----
+*Templat ini menambahkan kategori: {{kat|Pengguna alumnus Kennedy School}}
+[[Kategori:Templat kotak pengguna]]
+[[Kategori:Templat userbox pendidikan|Templat userbox pendidikan]]</noinclude>

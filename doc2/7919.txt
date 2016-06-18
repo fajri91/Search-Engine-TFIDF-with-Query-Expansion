@@ -1,0 +1,1047 @@
+Universitas Brawijaya
+{{disambiginfo|Brawijaya}}
+{{Infobox Universitas
+| name              = Universitas Brawijaya
+| native_name       = 
+| image_name        = BundaranrektoratUB.jpg
+| image_size        = 170px
+| image_alt         = Bundaran depan Gedung Rektorat UB
+| caption           = Monumen Tugu dan Gedung Rektorat
+| latin_name        = 
+| motto             = ''Join UB, be the Best''
+| mottoind          = 
+| established       = 5 Januari 1963
+| closed            = 
+| type              = [[Universitas negeri|Negeri]]
+| affiliation       = 
+| endowment         = 
+| officer_in_charge = 
+| chairman          = 
+| chancellor        = 
+| president         = 
+| vice-president    = 
+| superintendent    = 
+| provost           = 
+| vice_chancellor   = 
+| rector            = Prof. Dr. Ir. Mohammad Bisri, M. S.
+| principal         = 
+| dean              = 
+| director          = 
+| head_label        = 
+| head              = 
+| academic_staff    = 
+| administrative_staff   = 1.885 (2015)
+| students          = 59.469 (2015)
+| undergrad         = 55.213 (2014)
+| postgrad          = 2.294 (2014)
+| doctoral          = 1.176 (2014)
+| other             = 1.623 (2014) ([[Diploma]])
+| lecturer          = 2.093 (2015)
+| professor         = 133 (2015)
+| city              = [[Malang]]
+| state             =
+| province          = [[Jawa Timur]]
+| country           = [[Indonesia]]
+| coor              = 112 36' 45.88" E 7 57' 20.00" S
+| campus            = [[Kawasan perkotaan|Urban]]; [[Kota Malang]]<br />(I Jalan Veteran,<br />II Dieng,<br />III Griyashanta)<br />IV [[Kediri]]<br />V [[Probolinggo]]<br>VI [[Jakarta]]<br />VII Hongkong<ref name=kampus>{{cite web 
+  | url = http://www.antaranews.com/berita/393557/universitas-brawijaya-buka-kampus-ketujuh-di-hongkong
+  | title = Universitas Brawijaya buka kampus ketujuh di Hongkong
+  | first = Antaranews
+  | last = 
+  | work = antaranews.com
+  | date = 2 September 2013
+  | accessdate =  06 September 2013 }}</ref>
+| former_names      = ''Gemeentelijke Universiteit''
+| free_label        = 
+| free              = 
+| colors            = 
+| colours           = Biru Turquoise
+| athletics         = 
+| sports            = 
+| nickname          = UB
+| mascot            = Burung Cucak Hijau
+| affiliations      = [[Association of Southeast Asian Institutions of Higher Learning|ASAIHL]]<ref>http://www.seameo.org/asaihl/</ref>, [[Association of Universities of Asia and the Pacific|AUAP]]<ref>http://auap.sut.ac.th/index.php?option=com_content&task=view&id=52&Itemid=82</ref>, [[Asia-Pacific Association for International Education|APAIE]]
+| website           = {{URL|www.ub.ac.id}}
+| logo              = [[Berkas:Logo UB kemenristekdikti 2014.png|150px|Logo Universitas Brawijaya]]
+| footnotes         = 
+}}
+{{Album ratings
+|rev1 = [[Badan Akreditasi Nasional Perguruan Tinggi|BAN-PT]]
+|rev1Score = (A)<ref name="akreditasiUB">{{cite news|url=http://ub.ac.id/tentang/profil-universitas/akreditasi-id|title=Profil Universitas Brawijaya >> Akreditasi|last=University|first= Brawijaya|date= 2015|work=Universitas Brawijaya|publisher=ub.ac.id|accessdate=2015-03-04}}</ref>
+|rev2 = ''[[4International Colleges & Universities|4icu]]''
+|rev2Score = (4)<ref name="4icu">{{cite news|url=http://www.4icu.org/id/|title=Top Universities in Indonesia 2015 Review and Rankings|last=Indonesian|first= Universities|date= 2015|work=[[4International Colleges & Universities]]|publisher=4icu.org|accessdate=2015-04-24}}</ref>
+|rev3 = ''[[Peringkat Universitas Dunia Webometrics|Webometrics Ranking]]''
+|rev3Score = (4)<ref name="Webo"/>
+|rev4 = ''[[Peringkat Universitas Dunia THE-QS|QS Asian University Rankings]]''
+|rev4Score = (251)<ref>{{cite news|url=http://www.topuniversities.com/node/9324/ranking-details/asian-university-rankings/2014|title= University of Brawijaya Rankings|last=|first=|date= 2014|work=[[Peringkat Universitas Dunia THE-QS|QS Asian University Rankings]]|publisher= Topuniversities.com|accessdate=2015-02-27}}</ref>
+|rev5 = ''[[4International Colleges & Universities|4icu World]]''
+|rev5Score = (635)<ref name="4icuDunia">{{cite news|url=http://www.4icu.org/reviews/2160.htm|title=Universitas Brawijaya|Review and Rankings|last=Brawijaya|first= Universitas|date= 2015|work=[[4International Colleges & Universities]]|publisher=4icu.org|accessdate=2015-04-24}}</ref>
+|rev6 = ''[[Peringkat Universitas Dunia THE-QS|QS World University Rankings]]''
+|rev6Score = (701)<ref>{{cite news|url=http://www.topuniversities.com/node/9324/ranking-details/world-university-rankings/2014|title= University of Brawijaya Rankings|last=|first=|date= 2014|work=[[Peringkat Universitas Dunia THE-QS|QS World University Rankings]]|publisher= Topuniversities.com|accessdate=2015-02-27}}</ref>
+|rev7 = ''[[Peringkat Universitas Dunia Webometrics|Webometrics Ranking of World]]''
+|rev7Score = (738)<ref name="Webo">{{cite news|url=http://www.webometrics.info/en/detalles/ub.ac.id|title= Ranking Web of Universities: Brawijaya University|last=|first=|date= 2015|work=[[Peringkat Universitas menurut Webometrics|Webometrics Ranking of Universities]]|publisher= Webometrics|accessdate=2015-02-27}}</ref>
+|rev8 = [[The Alliance on Business Education and Scholarship for Tomorrow|ABEST]] ke-21 ([[Fakultas Ekonomi dan Bisnis Universitas Brawijaya|FEB-UB]])
+|rev8Score = (terakreditasi)<ref name="akreditasiUB" />
+|rev9 = [[Asian Association of Schools of Business International|AASBI]] ([[Fakultas Ilmu Administrasi Universitas Brawijaya|FIA-UB]])
+|rev9Score = (terakreditasi)<ref name="akreditasiUB" />
+|rev10 = [[The Institute of Food Technologist|IFT]] ([[Fakultas Teknologi Pangan Universitas Brawijaya|FTP-UB]])
+|rev10Score = (terakreditasi)<ref name="akreditasiUB" />
+}}
+'''Universitas Brawijaya''' (biasa disingkat '''UNBRA''', '''UNIBRAW''' atau singkatan resmi '''UB''') merupakan lembaga [[Universitas negeri|pendidikan tinggi negeri]] di [[Indonesia]] yang berdiri pada tahun [[1963]] di [[Kota Malang]] melalui Ketetapan Menteri Pendidikan dan Ilmu Pengetahuan No. 1 tanggal [[5 Januari]] 1963, kemudian disahkan oleh Keputusan [[Presiden Republik Indonesia|Presiden]] no. 196 tahun 1963 yang kemudian tanggal 5 Januari ditetapkan sebagai hari lahir Universitas Brawijaya. Jumlah mahasiswa saat ini lebih dari 55 ribu orang dari berbagai strata mulai [[Diploma|program Diploma]], [[Sarjana|program Sarjana]], [[Magister|program Magister]], dan [[Doktor|program Doktor]] selain [[Dokter spesialis|program Spesialis]] tersebar dalam 15 [[Fakultas]] dan 2 [[pendidikan|Program pendidikan]] setara fakultas.
+
+Pada tanggal [[10 Januari]] [[2009]], Universitas Brawijaya mendapatkan akreditasi A dari [[Badan Akreditasi Nasional Perguruan Tinggi]].<ref>Surat Keputusan BAN-PT No. 015/BAN-PT/Ak-II/Inst/I/2009</ref> Pada akreditasi selanjutnya tanggal [[11 September]] [[2014]], Universitas Brawijaya kembali mendapatkan Akreditasi A.<ref>Surat Keputusan BAN-PT No. 367/SK/BAN-PT/Ak-SURV/PT/IX/2014</ref> [[29 November]] [[2007]], UB mendapat persetujuan Dirjen Dikti untuk menjadi perguruan tinggi otonom.<ref name=selayangpandang>{{cite web 
+  | url = http://oldsite.ub.ac.id/id/9_publication/45tahun/bab1/1.php#1_1
+  | title = Buku 45 Tahun Universitas Brawijaya Universitas Brawijaya Menyongsong Masa Depan  Selayang Pandang
+  | first = Brawijaya
+  | last = Universitas
+  | work = oldsite.ub.ac.id 
+  | date = 2003
+  | accessdate =  06 September 2013 }}</ref>
+
+Universitas Brawijaya memiliki kampus pusat yaitu di Malang ([[Ketawanggede, Lowokwaru, Malang|Ketawanggede]], [[Kota Malang|Puncak Dieng]], [[Kota Malang|Griyasahanta]]), dan cabang di [[Kediri]], [[Kasembon]], [[Jakarta]], dan [[Probolinggo]] untuk pendidikan maupun penelitian. Pada tahun 2013, terdapat 143 program studi yang terdiri dari Diploma 3 (D3): 4; Diploma 4 (D4): 4; Sarjana (S1): 64; Magister (S2): 39; Doktor (S3): 14; Spesialis 1 (Sp1): 15; Profesi: 3. Jumlah mahasiswa baru tahun 2014 yaitu 13.237 mahasiswa dan total seluruh mahasiswa adalah 59.469 orang, sedangkan lulusan tahun 2014 sebanyak 8.427 mahasiswa. Untuk program beasiswa [[Beasiswa Bidikmisi|Bidikmisi]], UB menerima 1.500 mahasiswa pertahun dan menambah biaya Rp 200.000 perbulan dari yang diberikan oleh pemerintah. Sedangkan total beasiswa lain yaitu Rp 27,6 miliar pertahun. Saat ini ada tiga fakultas yang terakreditasi Internasional yaitu [[Fakultas Ekonomi dan Bisnis Universitas Brawijaya|Ekonomi dan Bisnis]], [[Fakultas Teknologi Pertanian Universitas Brawijaya|Teknologi Pertanian]], dan [[Fakultas Ilmu Administrasi Universitas Brawijaya|Ilmu Administrasi]]. Sedangkan untuk semua fakultas, lembaga, dan unit telah mendapatkan sertifikat manajemen ISO. Universitas Brawijaya memiliki visi menjadi ''World Class Entrepreneurial University'' terus mengembangkan dan memperbaiki internal maupun eksternal kampus untuk mewujudkan visi tersebut.<ref name=selayangpandang />
+
+Lahan kampus utama seluas 58 ha terletak di kawasan barat kota [[Malang]], tepatnya di Jalan Veteran. Gedung-gedung dalam Kampus pada umumnya berarsitektur [[Rumah Jawa|Jawa]]. Untuk efisiensi penggunaan lahan kampus, gedung-gedung UB kebanyakan berlantai 3 bahkan di beberapa fakultas gedungnya berlantai 7 atau lebih. Gedung kantor pusat berlantai 8 dengan bangunan yang sangat khas, saat ini menjadi maskot UB. Secara keseluruhan UB memiliki aset tanah seluas 1.813.664 m2 (181 ha). Dari luas tanah tersebut 58 ha terletak di dalam Kota Malang dan merupakan wilayah utama kegiatan universitas. Lahan seluas 73 ha merupakan lahan laboratorium dan lahan percobaan di provinsi Jawa Timur di luar kota Malang, yaitu di [[Cangar]], [[Jatikerto, Kromengan, Malang|Jatikerto]], [[Dau]] dan [[Sumberpasir, Pakis, Malang|Sumberpasir]]. Sedangkan sisanya, seluas 92 ha, terletak di [[Lampung]] dan merupakan lahan percobaan untuk bidang pertanian.<ref name=selayangpandang />
+
+==Sejarah==
+===1957-1960: ''Gemeentelijke Universiteit''===
+[[Berkas:Malang WEB.jpg|thumb|250px|left|Gedung Balaikota Malang dilihat dari [[Alun-alun bundar Malang|Alun-alun Bundar]].]]
+Berawal dari Balaikota Malang, gagasan untuk pembentukan perguruan tinggi itu digulirkan. Atas prakarsa Ketua [[DPRD]], [[10 Mei]] [[1957]], diadakan pertemuan tokoh-tokoh masyarakat dan pemerintahan kota Malang, membahas rencana pembentukan sebuah universitas milik kotapraja ''(Gemeentelijke Universiteit)''.<ref name=gagasanuniversiteit>{{cite web 
+  | url = http://oldsite.ub.ac.id/id/9_publication/45tahun/bab2/index.php
+  | title = Buku 45 Tahun Universitas Brawijaya Universitas Brawijaya, Riwayatmu Dulu  Gagasan Gemeentelijke Universiteit
+  | first = Brawijaya
+  | last = Universitas
+  | work = oldsite.ub.ac.id 
+  | date = 2003
+  | accessdate =  06 September 2013 }}</ref><ref name="gagasanuniversiteit"/>
+
+Sebagai langkah awal, didirikan sebuah yayasan bernama Yayasan Perguruan Tinggi Malang (YPTM) dengan akta notaris nomor 48 tahun 1957, [[28 Mei]] 1957. Yayasan ini kemudian membuka Perguruan Tinggi Hukum dan Pengetahuan Masyarakat (PTHPM), pada [[1 Juli]] 1957. Tercatat sebanyak 104 mahasiswa perguruan tinggi ini, dan menggunakan ruang sidang Balaikota Malang sebagai tempat perkuliahannya.<ref name=gagasanuniversiteit /><ref name="gagasanuniversiteit"/>
+
+Sementara itu, atas inisiatif beberapa tokoh masyarakat yang lain dibentuk pula Yayasan Perguruan Tinggi Ekonomi Malang (YPTEM) dengan akta notaris nomor 26, [[15 Agustus]] 1957, yang kemudian mendirikan Perguruan Tinggi Ekonomi Malang (PTEM). Tak jauh berbeda dengan pendahulunya, aktivitas perkuliahan PTEM juga menumpan di Balaikota Malang.<ref name="gagasanuniversiteit"/>
+
+Secara resmi PTHPM diakui sebagai milik Kotaparaja Malang dengan keputusan DPRD, [[19 Juni]] [[1958]]. Pada dies natalis ketiga PTHPM, 1 Juli [[1960]], diumumkan penggunaan nama Universitas Kotapraja Malang bagi perguruan tinggi itu. Selain itu diumumkan pula rencana membuka dua fakultas baru. Rencana itu menjadi kenyataan, [[15 September]] 1960, berdiri Fakultas Administrasi Niaga (FAN). Disusul kemudian oleh Fakultas Pertanian (FP), [[10 November]] 1960.<ref name="gagasanuniversiteit"/><ref name=Profil>{{cite web 
+  | url = http://ub.ac.id/tentang/profil-universitas-sekilas.doc
+  | title = Profil Universitas Sekilas
+  | first = Brawijaya
+  | last = Universitas
+  | work = ub.ac.id
+  | date = 2012 
+  | accessdate = 20 Juli 2013 }}</ref>
+
+===1961-1964: Upaya penegerian===
+[[Berkas:Presiden Sukarno.jpg|150px|thumb|right|"Brawijaya" merupakan nama [[Raja-Raja Majapahit|gelar raja]] [[Kerajaan Majapahit|Majapahit]], yang diberikan oleh [[Presiden Republik Indonesia|Presiden]] [[Soekarno]].]]
+Pembiayaan menjadi kendala utama penyelenggaraan Universitas Kotapraja Malang. Meskipun diakui sebagai milik Kotapraja Malang, pembiayaan universitas ini sepenuhnya tetap menjadi beban yayasan. Oleh karena itu ditempuh usaha untuk memperoleh status universitas negeri. Sesuai UU nomor 22 tahun 1961 tentang perguruan tinggi, ada beberapa persyaratan yang harus dipenuhi, baik mengenai jumlah maupun jenis fakultas yang dimiliki. Untuk itu, diupayakan penggabungan dengan perguruan tinggi yang sudah ada di Malang, yakni PTEM dan STKM (Sekolah Tinggi Kedokteran Malang). PTEM sepakat dengan gagasan ini, sementara STKM masih belum dapat menerimanya.<ref name="gagasanuniversiteit"/><ref name=upayapenegrian>{{cite web 
+  | url = http://oldsite.ub.ac.id/id/9_publication/45tahun/bab2/2.php
+  | title = Buku 45 Tahun Universitas Brawijaya Universitas Brawijaya, Riwayatmu Dulu  Upaya Penegrian
+  | first = Brawijaya
+  | last = Universitas
+  | work = oldsite.ub.ac.id 
+  | date = 2003
+  | accessdate =  06 September 2013 }}</ref>
+
+Sebagai langkah menuju penggabungan, Universitas Kotapraja Malang berganti nama menjadi Universitas Brawijaya. Nama ini berasal dari gelar [[Raja-Raja Majapahit|raja-raja Majapahit]] yang merupakan [[Sejarah Nusantara pada era kerajaan Hindu-Buddha|kerajaan besar]] di [[Indonesia]] pada abad 12 sampai 15.<ref name=Profil /> Nama ini diberikan oleh [[Presiden Republik Indonesia]] melalui kawat nomor 258/K/61 tanggal [[11 Juli]] 1961, dipilih dari 3 alternatif yang diajukan, yakni Tumapel, Kertanegara, dan Brawijaya. Nama itu secara resmi baru dipakai [[3 Oktober]] 1961, setelah penggabungan Yayasan Perguruan Tinggi Malang (Universitas Kotapraja Malang) dengan Yayasan Perguruan Tinggi Ekonomi Malang (PTEM) menjadi Yayasan Universitas Malang, yang disahkan akta notaris nomor 11 tanggal [[12 Oktober]] 1961.<ref name="gagasanuniversiteit"/><ref name=upayapenegrian />
+
+Untuk memenuhi syarat penegerian, Universitas Brawijaya yang telah memiliki 4 fakultas (FHPM, FE, FAN, dan FP) membuka lagi sebuah fakultas, Fakultas Kedokteran Hewan dan Peternakan (FKHP) pada [[26 Oktober]] 1961.<ref name="gagasanuniversiteit"/><ref name=Profil /><ref name=upayapenegrian />
+
+Presiden Universitas Brawijaya, H. Doel Arnowo bersama para perintis universitas ini terus berjuang untuk mendapatkan status universitas negeri. Dalam sebuah pertemuan [[7 Juli]] 1962, dicapai kesepakatan antara Menteri PTIP, Pangdam VIII Brawijaya, Presiden Universitas Airlangga, Presiden Universitas Brawijaya, dan Presiden [[Universitas Tawangalun]], bahwa hanya fakultas-fakultas eksakta saja yang terlebih dulu dinegerikan. Keputusan Menteri PTIP nomor 92 tahun 1962 tanggal [[1 Agustus]] 1962 menetapkan FP dan FKHP dinegerikan dan sekaligus menjadi bagian dari [[Universitas Airlangga]]. Keputusan ini berlaku surut mulai 1 Juli 1962.<ref name="gagasanuniversiteit"/><ref name=Profil /><ref name=upayapenegrian />
+
+Sementara itu di Probolinggo, [[28 Oktober]] 1962 dibuka Perguruan Tinggi Jurusan Perikanan Laut oleh Yayasan Pendidikan Tinggi Probolinggo. Jurusan ini pada saatnya kemudian menjadi bagian dari FKHP dengan SK Menteri PTIP no 163 tahun 1963, [[25 Mei]] 1963. Tanggal [[5 Januari]] 1963, keluar Keputusan Menteri PTIP nomor 1 tahun 1963, tentang pendirian Universitas Negeri Brawijaya di Malang.<ref name="gagasanuniversiteit"/><ref name=Profil /><ref name=upayapenegrian />
+
+[[Berkas:FPUBlama.jpg|thumb|250px|left|Gedung [[Fakultas Pertanian Universitas Brawijaya|Fakultas Pertanian]] di Jl. MT. Haryono (dulu Jl. Raya Dinoyo).]]
+Dengan keputusan itu, ditetapkan Universitas Brawijaya di Malang terdiri dari Fakultas Ekonomi, Fakultas Hukum dan Pengetahuan Masyarakat, Fakultas Ketatanegaraan dan Ketataniagaan, Fakultas Pertanian, serta Fakultas Kedokteran Hewan dan Peternakan. Keputusan itu pula memisahkan Fakultas Pertanian, dan Fakultas Kedokteran Hewan dan Peternakan dari Universitas Airlangga dan memasukkannya ke dalam lingkungan Universitas Brawijaya di Malang. Selain itu, keputusan Menteri PTIP ini juga meresmikan 3 fakultas yaitu Fakultas Hukum, Fakultas Ilmu Pendidikan, dan Fakultas Ketatanegaraan di Jember sebagai bagian dari Universitas Brawijaya. Kemudian, dengan Keputusan Menteri PTIP nomor 97 tahun 1963, [[15 Agustus]] 1963, Fakultas Ketatanegaraan dan Ketataniagaan di [[Kediri]] ditetapkan sebagai cabang dari FKK Universitas Brawijaya.<ref name="gagasanuniversiteit"/><ref name=Profil /><ref name=upayapenegrian />
+
+Keputusan Menteri PTIP tentang pendirian Universitas Negeri Brawijaya kemudian disahkan dengan Keputusan Presiden nomor 196 tahun 1963, [[23 September]] 1963. Dengan itu pula ditetapkan fakultas-fakultas yang bergabung ke dalam Universitas Brawijaya, yakni FE, FHPM, FKK, FP dan FKHP di Malang, serta Fakultas Hukum, Fakultas Pertanian, Fakultas Ilmu Pendidikan, Fakultas Ilmu Sosial, dan Fakultas Kedokteran di Jember. Dalam status negeri, Universitas Brawijaya membuka Fakultas Teknik (FT) berdasarkan Keputusan Menteri PTIP nomor 167 tahun 1963, [[23 Oktober]] 1963.<ref name=Profil /> Pada tahun 1964, cabang di Jember memisahkan diri dan membentuk [[Universitas Jember]] (SK Menteri PTIP nomor 151 tahun 1964, [[9 November]] 1964).<ref name="gagasanuniversiteit"/><ref name=upayapenegrian />
+
+===1965-1968: Kampus bergolak===
+Situasi negara memburuk dengan meletusnya [[G30S/PKI|pemberontakan G30S/PKI]] pada tahun [[1965]]. Seluruh perguruan tinggi bergolak, tidak terkecuali Universitas Brawijaya. Pergolakan mencapai puncaknya [[2 April]] [[1966]], seluruh aktivitas universitas ini berhenti. Dengan keputusan nomor 012/IV/66, Komandan Korem 083 selaku PU Pepelrada (Penguasa Pelaksana Perang Daerah) menetapkan sebuah presidium untuk memimpin Universitas Brawijaya, dan dekan untuk memimpin fakultas-fakultas. Keputusan itu kemudian disahkan Deputi Menteri PTIP dengan Keputusan nomor 4385 tahun 1966. Tugas utama presidium adalah normalisasi keadaan dan menggalang persatuan dan kesatuan di kalangan sivitas akademika. Presidium mulai bekerja [[7 April]] 1966, dan membuka kembali Universitas Brawijaya [[12 April]] 1966.<ref name="gagasanuniversiteit"/><ref name=kampusbergolak>{{cite web 
+  | url = http://oldsite.ub.ac.id/id/9_publication/45tahun/bab2/3.php
+  | title = Buku 45 Tahun Universitas Brawijaya Universitas Brawijaya, Riwayatmu Dulu  Kampus Bergolak
+  | first = Brawijaya
+  | last = Universitas
+  | work = oldsite.ub.ac.id
+  | date = 2003
+  | accessdate =  06 September 2013 }}</ref>
+
+Bulan Juni 1966, Brigjen dr. Eri Soedewo ditugasi pemerintah untuk stabilisasi perguruan tinggi-perguruan tinggi di Jawa Timur. Jabatannya sebagai [[Daftar perguruan tinggi swasta di Indonesia#Jawa Timur|Koordinator Perguruan Tinggi Jawa Timur]], di samping Pejabat Rektor [[Universitas Airlangga]], Ketua Presidium [[Universitas Negeri Surabaya|IKIP Surabaya]], Ketua Presidium [[Universitas Negeri Malang|IKIP Malang]], dan Ketua Presidium Universitas Brawijaya.<ref name="gagasanuniversiteit"/><ref name=kampusbergolak />
+
+Dalam rangka pengamanan seluruh kampus di Jawa Timur, Pangdam VIII/Brawijaya, [[1 Agustus]] 1966, memberhentikan seluruh pimpinan perguruan tinggi di Jawa Timur. Sebagai pimpinan Universitas Brawijaya, dengan keputusan Pepelrada nomor 59 tahun 1966, yang kemudian disahkan oleh keputusan Direktur Jenderal Perguruan Tinggi nomor 798/I/SP/KT/67, diangkat Kolonel Moejadhie Komandan Korem 083 sebagai Rektor Universitas Brawijaya, dibantu oleh para pembantu rektor dan para dekan fakultas.<ref name="gagasanuniversiteit"/><ref name=kampusbergolak />
+
+===1969-1997: Pengembangan kampus===
+Pimpinan Universitas Brawijaya bekerja tanpa anggaran selama setahun. Baru kemudian secara berangsur-angsur diperoleh kembali anggaran dari pemerintah. Setelah 3 tahun keadaan menjadi normal, Universitas Brawijaya melangkah memasuki masa pembangungan (Pelita I) pada tahun 1969, dipimpin oleh rektor dari kalangan sendiri, yaitu Dr Ir Moeljadi Banoewidjojo (1969-1973).<ref name="gagasanuniversiteit"/><ref name=bangkit>{{cite web 
+  | url = http://oldsite.ub.ac.id/id/9_publication/45tahun/bab2/4.php
+  | title = Buku 45 Tahun Universitas Brawijaya Universitas Brawijaya, Riwayatmu Dulu  Saatnya Membangun
+  | first = Brawijaya
+  | last = Universitas
+  | work = oldsite.ub.ac.id 
+  | date = 2003
+  | accessdate =  06 September 2013 }}</ref>
+
+Pembangunan fisik dilaksanakan. Gedung-gedung kuliah, laboratorium, bengkel, dan perpustakaan dibangun di kompleks [[Dinoyo, Lowokwaru, Malang|Dinoyo]]. Secara berangsur-angsur prasarana dan sarana kampus dilengkapi. Untuk memudahkan manajemen, jurusan Perikanan Laut di [[Probolinggo]] (1972) dan cabang Fakultas Ketatanegaraan dan Ketataniagaan (FKK) di [[Kediri]] (1973) secara berangsur-angsur dipindahkan ke [[Malang]]. Sedangkan jurusan Kedokteran Hewan di [[Surabaya]] (berdiri 1970) sejak 1972 bergabung dengan [[Universitas Airlangga]]. Di bawah kepemimpinan Rektor Dardji Darmodihardjo SH (1973-1979), pembangunan fisik terus berlangsung.<ref name="gagasanuniversiteit"/><ref name=bangkit />
+
+Kantor Pusat dipindahkan dari Jalan Guntur 1 ke Kampus Dinoyo (1974), juga tempat perkuliahan seluruh fakultas secara berangsur-angsur dipusatkan. Jumlah staf pengajar maupun administratif bertambah dengan banyaknya pengangkatan baru. Dia juga menetapkan singkatan Unibraw sebagai pengganti Unbra. Jumlah fakultas pun bertambah dengan bergabungnya Sekolah Tinggi Kedokteran Malang (STKM) secara resmi menjadi Fakultas Kedokteran dengan Keputusan Menteri Pendidikan dan Kebudayaan nomor 001/O/1974, [[1 Januari]] 1974.<ref name="gagasanuniversiteit"/><ref name=bangkit />
+
+[[Berkas:GedungRektoratUB.jpg||250px|thumb|right|Gedung Rektorat UB yang dibangun pada kepemimpinan [[Rektor Universitas Brawijaya|rektor]] Prof. Drs. Zainal Arifin Achmady (1987-1993).]]
+Berdasarkan SK Presiden Nomor 59 tahun 1982 tanggal [[7 September]] [[1982]] tentang struktur organisasi Universitas Brawijaya, Fakultas Perikanan (FPi) menjadi fakultas tersendiri karena sejak tahun [[1977]] digabung menjadi satu dengan Fakultas Peternakan dengan nama Fakultas Peternakan dan Perikanan. Sebagai catatan bahwa Fakultas Perikanan telah berdiri sejak tahun 1963 di [[Probolinggo]] yang merupakan Jurusan dari FKHP Universitas Brawijaya.<ref name="gagasanuniversiteit"/><ref name=Profil /><ref name=bangkit />
+
+Dalam periode selanjutnya, berturut-turut di bawah kepemimpinan Rektor Prof Harsono (1979-1987), Rektor Prof ZA Achmady (1987-1994), Rektor Prof Hasyim Baisoeni (1994-1998). Terjadi perubahan nama beberapa fakultas, peningkatan beberapa jurusan menjadi fakultas, pembukaan fakultas dan program-program baru, serta pemisahan untuk mandiri program non gelar Politeknik. Selain itu banyak pembangunan fasilitas pembangunan fisik seperti gedung Rektorat berlantai 8 dan gedung Widyaloka pada masa jabatan Rektor Prof ZA Achmady, sedangkan penggunaan website resmi Universitas Brawijaya mulai diresmikan pada masa Rektor Prof Hasyim Baisoeni.<ref name="gagasanuniversiteit"/><ref name=bangkit />
+
+Fakultas Matematika dan Ilmu Pengetahuan Alam (FMIPA), diresmikan berdasarkan Surat Keputusan Menteri Pendidikan dan Kebudayaan Nomor 0371/O/1993 tanggal [[21 Oktober]] [[1993]]. Universitas Brawijaya menambah satu lagi fakultas yaitu Fakultas Teknologi Pertanian (FTP) yang merupakan peningkatan satu dari Jurusan Teknologi Pertanian yang sebelumnya berada di Fakultas Pertanian.<ref name="gagasanuniversiteit"/><ref name=Profil /><ref name=bangkit />
+
+===1998-2005: Perguruan Tinggi Otonom===
+Pada masa kepemimpinan Rektor Prof Eka Afnan Troena (1998-2002) mulai menerima mahasiswa asing asal [[Malaysia]], dimulainya era jaringan serat optik untuk pengembangan [[Teknologi Informasi|teknologi informasi (TI)]] di kampus dan pelaksanaan pembelajaran jarak jauh bekerjasama dengan [[Keio University]], [[Jepang]], serta memulai program pemberian beasiswa studi lanjut bagi staf administrasi.<ref name="gagasanuniversiteit"/>
+
+Pada tahun 1999, pemerintah mengeluarkan Peraturan Pemerintah Republik Indonesia Nomor 60 Tahun 1999 tentang Pendidikan Tinggi dan Nomor 61 Tahun 1999 tentang Penetapan Perguruan Tinggi Negeri Sebagai Badan Hukum. Tekad Universitas Brawijaya menjadi perguruan tinggi otonom sesuai PP 60 dan PP 61 Tahun 1999, telah di persiapkan sejak tahun 2000, dengan melakukan sosialisasi kepada sivitas akademika.<ref name="gagasanuniversiteit"/><ref name=masadepan>{{cite web 
+  | url = http://oldsite.ub.ac.id/id/9_publication/45tahun/bab1/index.php
+  | title = Buku 45 Tahun Universitas Brawijaya Universitas Brawijaya Menyongsong Masa Depan
+  | first = Brawijaya
+  | last = Universitas
+  | work = oldsite.ub.ac.id 
+  | date = 2003
+  | accessdate =  06 September 2013 }}</ref><ref name=menujuPTotonomi>{{cite web 
+  | url = http://oldsite.ub.ac.id/id/9_publication/45tahun/bab1/3.php
+  | title = Buku 45 Tahun Universitas Brawijaya Universitas Brawijaya Menyongsong Masa Depan  Perjalanan Menuju Otonomi Perguruan Tinggi
+  | first = Brawijaya
+  | last = Universitas
+  | work = oldsite.ub.ac.id 
+  | date = 2003
+  | accessdate =  06 September 2013 }}</ref>
+
+Beberapa [[Pimpinan Mahasiswa Universitas Brawijaya|Presiden mahasiswa]] perguruan tinggi menolak otonomi kampus. Presiden Mahasiswa Universitas Brawijaya, Muhammad Fadhli mengusulkan adanya SPP progresif (proporsional), jika otonomi kampus diberlakukan. Menurut Presiden Mahasiswa Universitas Brawijaya, pihaknya telah melakukan polling pendapat tentang otonomi kampus yang hasilnya 63,9% menolak penerapan otonomi kampus dan hanya 26,7% yang setuju. Otonomi kampus, yang akan diberlakukan di Universitas Brawijaya harus dikaji ulang dan dicarikan format yang paling baik dan tepat.<ref name="gagasanuniversiteit"/><ref name=masadepan /><ref name=menujuPTotonomi />
+
+Pada masa Rektor Prof Bambang Guritno ini, dia mencanangkan visi menjadikan Universitas Brawijaya sebagai perguruan tinggi terkemuka melewati batas wilayah nasional, melakukan persiapan-persiapan untuk menjadi perguruan tinggi otonom, mengupayakan peningkatan kualitas dosen melalui studi lanjut, memperluas kerjasama luar negeri, mengadakan penataan jenjang karier staf administrasi, merintis pemberian subsidi biaya perjalanan haji bagi karyawan, serta menempatkan perencanaan sebagai dasar penetapan program dan kegiatan Universitas Brawijaya.<ref name="gagasanuniversiteit"/>
+
+Pada tahun 2003, berdasarkan SK Rektor nomor 147/SK/2003 dibentuklah dan mulai disosialisasikan pelaksanaan Tim Evaluasi Diri (Persiapan BHMN-UB) untuk Pengembangan Otonomi dan Akuntabilitas Organisasi Universitas Brawijaya. Otonomi adalah salah satu pilar untuk menghasilkan SDM yang berkualitas berdasarkan hasil studi banding ke [[Universitas Indonesia]], [[Universitas Gadjah Mada]], [[Institut Teknologi Bandung]] dan [[Institut Pertanian Bogor]] yang telah berstatus perguruan tinggi BHMN ([[Badan Hukum Milik Negara]]).<ref name="gagasanuniversiteit"/><ref name=masadepan /><ref name=menujuPTotonomi />
+
+Akhirnya pada [[Desember]] 2004, diterbitkanlah keputusan Senat mengenai Otonomi Kampus Universitas Brawijaya. Dan mulai disosialisasikan bagi kalangan pejabat di lingkungan kampus dan bagi para fungsionaris mahasiswa yaitu [[Eksekutif Mahasiswa Universitas Brawijaya|Eksekutif Mahasiswa]], [[Dewan Perwakilan Mahasiswa Universitas Brawijaya|Dewan Perwakilan Mahasiswa]], serta Himpunan Mahasiswa Jurusan dan Program Studi mulai tahun 2005.<ref name="gagasanuniversiteit"/><ref name=masadepan /><ref name=menujuPTotonomi />
+
+===2006-sekarang: ''World Class Entrepreneurial University''===
+Universitas Brawijaya mendapat persetujuan Dirjen Dikti untuk menjadi perguruan tinggi otonom pada tanggal [[29 November]] [[2007]], walaupun pelaksanaannya harus menunggu pengesahan Undang Undang BHP. Sementara menunggu pengesahan UU-BHPMN (Badan Hukum Pendidikan Milik Negara) oleh [[DPR]], untuk itu telah dibentuk tim penyusun proposal BLU (Badan Layanan Umum) yang diketuai oleh Prof. Dr. Sutiman B. Sumitro.<ref name="gagasanuniversiteit"/><ref name=masadepan /><ref name=menujuPTotonomi />
+
+Dalam masa kepemimpinan Rektor Prof. Yogi Sugito, Universitas Brawijaya diarahkan untuk menjadi ''entrepreneurial university'' yang bertaraf internasional, dibuat logo Universitas Brawijaya, mulai diperkenalkan singkatan UB menggantikan Unibraw, diberlakukan SPP proporsional bagi mahasiswa baru, dibangun gedung Pusat Bisnis, gedung kuliah Fakultas Ekonomi, gedung Pusat Pendidikan Fakultas Kedokteran, dan monumen tugu UB, dan pembentukan Laboratorium Sentral Ilmu Hayati. Rektor ini sangat memperhatikan keindahan, keamanan, dan kenyamanan kampus.<ref name="gagasanuniversiteit"/><ref name=masadepan />
+
+[[Berkas:GedungINBISUB.jpg|thumb|250px|right|Gedung INBIS UB di Jalan Veteran, sebagai penunjang ''Entrepreneurial University''.]]
+Pencanangan UB menuju ''Entrepreneurial University'' (EU) disaksikan oleh [[Wakil Presiden Republik Indonesia]] pada tanggal [[2 Juni]] [[2007]]. Bagi UB, EU merupakan perwujudan Visi dan Misi, untuk menghasilkan lulusan yang mandiri dan berjiwa pelopor. Di dalam pelaksanaannya telah ditempuh rintisan-rintisan berbagai kegiatan dengan bantuan dana hasil kerjasama. Sebagai bagian dari langkah nyata UB menuju EU, maka dilakukan pembenahan organisasi, antara lain pembentukan UBBIPS (''University of Brawijaya Business Incubator and Public Services'' atau Pusat Inkubator Bisnis dan Layanan Masyarakat UB). Lembaga ini keberadaannya di bawah [[Rektor Universitas Brawijaya|Rektor]] yang berfungsi sebagai tempat pengembangan pendidikan dan latihan kewirausahaan bagi mahasiswa, dosen, pegawai, dan masyarakat, sebagai fasilitator pengembangan riset di universitas yang relevan dengan kebutuhan industri/UKM dan ekspose hasil riset potensial agar bernilai bisnis, serta mengembangkan unit bisnis akademik dan non akademik sebagai sumber pendapatan universitas untuk menunjang aktivitas pendidikan.<ref name=masadepan /><ref name=menujuEU>{{cite web 
+  | url = http://oldsite.ub.ac.id/id/9_publication/45tahun/bab1/2.php
+  | title = Buku 45 Tahun Universitas Brawijaya Universitas Brawijaya Menyongsong Masa Depan  UB Menuju Entrepreneurial University
+  | first = Brawijaya
+  | last = Universitas
+  | work = oldsite.ub.ac.id 
+  | date = 2003
+  | accessdate =  06 September 2013 }}</ref><ref name=aktivitasEU>{{cite web 
+  | url = http://oldsite.ub.ac.id/id/9_publication/45tahun/bab1/2_a.php
+  | title = Buku 45 Tahun Universitas Brawijaya Universitas Brawijaya Menyongsong Masa Depan  UB Menuju Entrepreneurial University (Beberapa Aktivitas Terkait EU)
+  | first = Brawijaya
+  | last = Universitas
+  | work = oldsite.ub.ac.id 
+  | date = 2003
+  | accessdate =  06 September 2013 }}</ref>
+
+Kerjasama dilakukan dengan Badan Litbang Diknas, UB dipercaya untuk menyusun Pedoman Umum, Pedoman Khusus dan berbagai modul Inkubator Bisnis Perguruan Tinggi. Bekerja sama dengan JBIC ''([[Daftar bank di Jepang|Japan Bank for International Cooperation]])'' dan [[Waseda University]], serta perguruan tinggi di negara-negara [[ASEAN]] untuk mencari dan menguji coba model Pendidikan Entrepreneurship untuk Mahasiswa Pendamping UMKM (Usaha Mikro Kecil dan Menengah) yang cocok diterapkan di kawasan ASEAN.<ref name=masadepan /><ref name=menujuEU /><ref name=aktivitasEU />
+
+==Atribut==
+{{Universitas Brawijaya|fakultas}}
+===Lambang===
+[[Berkas:Harihara Majapahit 1.JPG|thumb|150px|left|Arca Harihara, dewa gabungan [[Siwa]] dan [[Wisnu]] sebagai penggambaran Raja [[Raden Wijaya|Brawijaya]].]]
+
+Lambang merupakan penyederhanaan dari kenyataan yang kompleks dan bersifat abstrak. Dengan lambang, sebuah institusi memiliki identitas yang unik agar dikenali orang lain. Lambang Universitas Brawijaya berbentuk segilima dengan warna dasar hitam. Di dalamnya terdapat gambar arca [[Raden Wijaya]] (Prabu Brawijaya) berwarna kuning emas, sebagai penjelmaan [[Dewa Wisnu]] yang bertangan empat. Masing-masing tangan memegang lampu, canka atau siput, qada, dan cakra. Selain itu sebagai lambang Ciwa, Raden Wijaya mengenakan mahkota Candra Kapala. Di samping kiri dan kanan Raden Wijaya terdapat sepasang [[Siwa|Dewa Perwara]] sebagai pengikut Sang Raja.<ref name=Lambang /><ref name=atribut>{{cite web 
+  | url = http://oldsite.ub.ac.id/id/9_publication/45tahun/bab6/index.php
+  | title = Buku 45 Tahun Universitas Brawijaya Atribut Universitas Brawijaya
+  | first = Brawijaya
+  | last = Universitas
+  | work = oldsite.ub.ac.id 
+  | date = 2003
+  | accessdate =  06 September 2013 }}</ref><ref name=lambang2>{{cite web 
+  | url = http://oldsite.ub.ac.id/id/9_publication/45tahun/bab6/index.php#1
+  | title = Buku 45 Tahun Universitas Brawijaya Atribut Universitas Brawijaya  Lambang
+  | first = Brawijaya
+  | last = Universitas
+  | work = oldsite.ub.ac.id 
+  | date = 2003
+  | accessdate =  06 September 2013 }}</ref>
+
+Lambang secara keseluruhan menggambarkan corak atau watak dari Universitas Brawijaya. Jiwa kepeloporan, seperti yang dimiliki oleh Raden Wijaya (Prabu Brawijaya), dilukiskan dengan warna kuning emas. Memiliki sifat abadi, dilukiskan dengan warna dasar hitam.<ref name=Lambang /><ref name=atribut /><ref name=lambang2 />
+
+Menjunjung tinggi falsafah [[Pancasila]], digambarkan dalam bentuk segilima berwarna kuning emas. Berani membongkar segala sesuatu yang tidak wajar atau tidak benar, digambarkan dalam bentuk mahkota candra kapala. Penegak tertib hukum, digambarkan dalam bentuk gada. Berani meratakan segala sesuatu yang dianggap kurang wajar atau kurang benar, digambarkan dalam bentuk senjata cakra. Segalanya dilakukan dengan kesucian yang disertai pula tugas pemelihara atau pembina sesuai dengan sifat Wisnu, yang dilambangkan dalam bentuk fanka atau siput. Percaya dan meyakini benar-benar bahwa zat hidup itu ada, yang dilukiskan dalam bentuk lampu. Dengan demikian lambang tersebut menggambarkan penjiwaan keseluruhan watak Raden Wijaya (Prabu Brawijaya) yang senantiasa dilandasi moral Pancasila.<ref name=Lambang>{{cite web 
+  | url = http://ub.ac.id/tentang/profil-universitas-lambang.doc
+  | title = Profil Universitas Lambang
+  | first = Brawijaya
+  | last = Universitas
+  | work = ub.ac.id 
+  | date = 2012 
+  | accessdate = 20 Juli 2013 }}</ref><ref name=atribut />
+
+===Bendera===
+Setiap fakultas di Universitas Brawijaya mempunyai warna-warna tertentu sesuai dengan ciri khas masing-masing.  Fakultas Hukum (FH) memiliki warna bendera merah, Fakultas Ekonomi dan Bisnis (FEB) warna bendera kuning, Fakultas Ilmu Administrasi (FIA) warna bendera abu-abu, Fakultas Pertanian (FP) warna bendera hijau muda, Fakultas Peternakan (FAPET) warna bendera coklat, Fakultas Teknik (FT) warna bendera biru tua, Fakultas Kedokteran (FK) warna bendera hijau tua, Fakultas Perikanan (FPIK) warna bendera biru laut, Fakultas Matematika dan Ilmu Pengetahuan Alam (FMIPA) warna bendera biru muda, Fakultas Teknologi Pertanian (FTP) warna bendera biru muda.<ref name=atribut /><ref name=bendera>{{cite web 
+  | url = http://oldsite.ub.ac.id/id/9_publication/45tahun/bab6/index.php#2
+  | title = Buku 45 Tahun Universitas Brawijaya Atribut Universitas Brawijaya  Bendera
+  | first = Brawijaya
+  | last = Universitas
+  | work = oldsite.ub.ac.id 
+  | date = 2003
+  | accessdate =  06 September 2013 }}</ref>
+
+===Lagu===
+Hymne Universitas Brawijaya diciptakan oleh R. Janardhana mahasiswa Fakultas Kedokteran Hewan dan Peternakan (sekarang: Fakultas Peternakan) Universitas Brawijaya pada tahun 1963. Sedangkan Mars Universitas Brawijaya diciptakan oleh Lilik Sugiarto tahun 1990. Sampai saat ini, kedua lagu tersebut masih digunakan.<ref name=Profil /><ref name=atribut /><ref name=lagu>{{cite web 
+  | url = http://oldsite.ub.ac.id/id/9_publication/45tahun/bab6/index.php#3
+  | title = Buku 45 Tahun Universitas Brawijaya Atribut Universitas Brawijaya  Lagu
+  | first = Brawijaya
+  | last = Universitas
+  | work = oldsite.ub.ac.id 
+  | date = 2003
+  | accessdate =  06 September 2013 }}</ref>
+
+===Jaket===
+Warna biru dipakai berdasarkan Keputusan Menteri Pendidikan dan Kebudayaan No.0602a/U/1984 tanggal [[28 November]] [[1984]] tentang Pedoman Tata-Busana Akademik Perguruan Tinggi di Lingkungan Departemen Pendidikan dan Kebudayaan, yang tertuang dalam Lampiran 1-2 tentang warna-warna [[Universitas negeri|Universitas/Institut Negeri]] di seluruh [[Indonesia]] tabel nomor 12 (Universitas Brawijaya dengan warna: Biru Turquoise). Sedangkan model yang sampai sekarang dipakai, telah disempurnakan atas kepeloporan Ir. Abdul Azis Hoesain, Dipl.HE (Ketua Dewan Mahasiswa 1970-1971) pada acara ''"Jaket Show"'' untuk memilih model desain jaket almamater.<ref name=atribut /><ref name=jaketalmat>{{cite web 
+  | url =http://oldsite.ub.ac.id/id/9_publication/45tahun/bab6/index.php#4
+  | title = Buku 45 Tahun Universitas Brawijaya Atribut Universitas Brawijaya  Jaket Almamater
+  | first = Brawijaya
+  | last = Universitas
+  | work = oldsite.ub.ac.id 
+  | date = 2003
+  | accessdate =  06 September 2013 }}</ref>
+
+===Logo dan Moto===
+[[Berkas:Logo UB.jpg|thumb|150px|right|Logo UB]]
+Logo merupakan salah satu bentuk representasi dari lembaga yang diharapkan mampu mensosialisasikan keberadaannya di tengah-tengah masyarakat. Hal ini melatarbelakangi Pusat Jaminan Mutu (PJM) Universitas Brawijaya untuk mengadakan penjaringan design logo Universitas Brawijaya yang berlangsung selama 1 bulan penuh ([[1 September|1]]-[[30 September]] [[2006]]). Pada tanggal [[21 November]] 2006, melalui Keputusan nomor 163/SK/2006, tanggal [[14 November]] 2006, Rektor Prof Yogi Sugito menetapkan pemenang lomba desain logo Universitas Brawijaya. Logo ini secara filosofis memuat pesan ''Join UB, be the best'' untuk jaminan mutu, dapat diubah kapan saja. Logo UB berbentuk persegi empat dengan warna ''blue navie'' dengan tuisan UB berwarna kuning emas.<ref name=atribut /><ref name=logo2>{{cite web 
+  | url = http://oldsite.ub.ac.id/id/9_publication/45tahun/bab6/index.php#5
+  | title = Buku 45 Tahun Universitas Brawijaya  Atribut Universitas Brawijaya  Logo
+  | first = Brawijaya
+  | last = Universitas
+  | work = oldsite.ub.ac.id 
+  | date = 2003
+  | accessdate =  06 September 2013 }}</ref>
+
+Makna logo dari UB yang memiliki motto ''Join UB, be the best'' adalah huruf UB dalam bulatan mengandung makna bahwa Universitas Brawijaya selalu dinamis keberadaannya dalam masyarakat dunia. Sayap berjumlah tiga buah mengelilingi bulatan dunia menggambarkan [[Tri Dharma]] [[Perguruan Tinggi]] yaitu pendidikan dan pengajaran, penelitian, dan pengabdian kepada masyarakat yang bertaraf [[internasional]]. Warna emas pada huruf dan gambar bermakna kebijaksanaan dan kejayaan. Warna biru menggambarkan Universitas Brawijaya bersifat ''universal''. Bingkai bujur sangkar sendiri bermakna keadilan.<ref name=atribut /><ref name=logo2 /><ref>{{cite web 
+  | url = http://ub.ac.id/tentang/profil-universitas-logo.doc
+  | title = Profil Universitas Logo
+  | first = Brawijaya
+  | last = Universitas
+  | work = ub.ac.id 
+  | date = 2012 
+  | accessdate = 20 Juli 2013 }}</ref> Sejak peringatan Dies Natalis ke 44, [[Januari]] 2007 diperkenalkan moto Universitas Brawijaya yaitu ''"Join UB, be the best"''.<ref name=atribut /><ref name=moto>{{cite web 
+  | url = http://oldsite.ub.ac.id/id/9_publication/45tahun/bab6/index.php#7
+  | title = Buku 45 Tahun Universitas Brawijaya Atribut Universitas Brawijaya  Moto
+  | first = Brawijaya
+  | last = Universitas
+  | work = oldsite.ub.ac.id 
+  | date = 2003
+  | accessdate =  06 September 2013 }}</ref>
+
+===Singkatan nama===
+Nama "Universitas Brawijaya" diberikan oleh Presiden RI melalui surat kawat Nomor 258/K/61 tertanggal [[11 Juli]] 1961, dipilih dari 3 nama yang diajukan Senat Universitas, yakni: [[Kertanegara]], [[Tumapel]], dan [[Raden Wijaya|Brawijaya]]. Sejak saat itu pula dikenal nama "Unbra" sebagai singkatan nama Universitas Brawijaya. Dalam perkembangannya, sejak [[1 Maret]] 1975 berdasarkan SK Rektor, singkatan "Unbra" tidak digunakan lagi dan diganti dengan singkatan baru, yaitu "Unibraw". Selanjutnya, sejak tahun 2006 telah disosialisasikan singkatan "UB" untuk menggantikan singkatan "Unibraw", dan disetujui Senat Universitas Brawijaya tanggal [[17 Maret]] 2008.<ref name=atribut /><ref name=singkatanUB>{{cite web 
+  | url =http://oldsite.ub.ac.id/id/9_publication/45tahun/bab6/index.php#6
+  | title = Buku 45 Tahun Universitas Brawijaya Atribut Universitas Brawijaya  Singkatan Nama
+  | first = Brawijaya
+  | last = Universitas
+  | work = oldsite.ub.ac.id 
+  | date = 2003
+  | accessdate =  06 September 2013 }}</ref>
+
+===Monumen Tugu UB===
+{{multiple image
+| footer    = Monumen Tugu UB ''(kiri)'' yang berada di bundaran UB depan gedung rektorat, yang motifnya juga digunakan sebagai lampu tepi jalan dan taman kampus ''(kanan)''.
+| align  = left
+| image1    = MonumenTuguUB.jpg
+| alt1      = Bunderan UB
+| width1     = 170
+| image2    = LampuUB.jpg
+| alt2      = Lampu Taman UB
+| width2     = 194
+}}
+Tugu Universitas Brawijaya yang terletak di depan Gedung Rektorat dibangun mulai [[Desember]] 2007. Letaknya di pusat kampus dengan bentuk lingkaran di jalan utama. Fungsinya selain sebagai bagian keasrian kampus juga mempunyai makna pada setiap bagiannya.<ref name=atribut /><ref name=tuguUB>{{cite web 
+  | url = http://oldsite.ub.ac.id/id/9_publication/45tahun/bab6/index.php#8
+  | title = Buku 45 Tahun Universitas Brawijaya  Atribut Universitas Brawijaya  Monumen Tugu
+  | last = Universitas
+  | work = oldsite.ub.ac.id 
+  | date = 2003
+  | accessdate =  06 September 2013 }}</ref>
+
+Puncak kepala tugu, berbentuk dasar lingkaran bermakna pusat dan wawasan yang luas, tetapi tetap fokus dan lentur.  Diatasnya berbentuk bulat telungkup, bermakna fakir, tetapi tak miskin. Dipuncak sendiri berbentuk tongkat menunjukkan bahwa insan akademis pun masih membutuhkan tuntunan Tuhan Yang Maha Esa. Bentuk kepala tugu bermakna simbolik adanya tiga strata pendidikan (S1, S2, S3) di Universitas Brawijaya. Bentuk transparan, bermakna Universitas Brawijaya terbuka bagi saran dan kritik. Warna kuning bermakna jiwa kepeloporan sebagai pusat llmu, teknologi, dan seni. Sedangkan warna hitam bermakna abadi, tidak pandang suku, bangsa, negara, kebudayaan maupun agama.<ref name=atribut /><ref name=tuguUB />
+
+Badan tugu mengesankan ilmu, tekonologi dan seni yang sederhana, kukuh dan monumental. Terdapat pula jam sebagai penunjuk waktu yang tepat berada di dada tugu sebagai pengingat bahwa warga Universitas Brawijaya harus menghargai waktu. Sedangkan bentuk kaki tugu bermakna kepeloporan perguruan tinggi yang terjaga oleh para pengampu sesuai dengan susunan simbolik yaitu spesialis dan praktisi ilmu; teknologi dan seni; ilmuwan dan peneliti; profesor dan doktor.<ref name=atribut /><ref name=tuguUB />
+
+Dasar tugu terdiri dari kolam atas, pelataran gersang, pelataran bunga, dan kolam teratai. Kolam atas yaitu kolam air bermakna simbolik bahwa ilmu, teknologi, dan seni itu tidak terbatas dan terus berkembang, sesuai dengan kebutuhan mahasiswa dan zamannya. Pelataran gersang tetapi berpola dan bertekstur serta dikelilingi pelita, bermakna para mahasiswa dan mahasiswi dari berbagai disiplin ilmu dan pembimbingnya. Pelataran dengan hamparan bunga berwarna-warni dan bunga-bunga ini dapat diganti/disesuaikan dengan event yang sedang tejadi, bermakna para alumni dari berbagai disiplin ilmu yang selalu siap dengan berbagai tuntutan perubahan zaman. Sedangkan kolam teratai bermakna simbolik berupa harapan kepada para alumni Universitas Brawijaya. "Jadilah bunga bangsa yang lentur, anggun dan berwibawa, tenang, lestari dan menghidupi."<ref name=atribut /><ref name=tuguUB />
+
+===Arsitek bangunan dan ciri khas===
+{{multiple image
+| footer    = Gapura gerbang UB ''(kiri)'' yang arsiteknya meniru [[Gapura Wringin Lawang]] ''(kanan)'' peninggalan kerajaan [[Majapahit]].
+| align  = right
+| image1    = GapuraGerbangUB.jpg
+| alt1      = Gapura UB
+| width1     = 200
+| image2    = Wringin Lawang, Trowulan.jpg
+| alt2      = Gapura Majapahit
+| width2     = 95
+}}{{multiple image
+| footer    = Lambang kerajaan Majapahit, [[Surya Majapahit]] ''(kiri)'' yang digunakan pada motif pagar UB ''(kanan)''.
+| align   = right
+| image1    = Surya Majapahit Diagram.svg
+| alt1      = Lambang Kerajaan Majapahit
+| width1     = 135
+| image2    = SuryaMajapahitUB.jpg
+| alt2      = Motif Pagar UB
+| width2     = 160
+}}
+
+Nama dari kampus UB sangat kental dengan sejarah Indonesia, terutama kerajaan Hindu-Budha yang ada di Indonesia, oleh karena itu UB ingin hal itu melekat pada kampus sebagai ciri khas yang membedakan dengan kampus lain. Gedung-gedung fakultas dibangun dengan atap berarsitektur rumah adat jawa yaitu joglo, asrama UB juga demikian. FT-pun harus mengganti atap gedung fakultasnya pasca penyelesaian pembangunan, karena arsitek yang digunakan tidak sesuai dengan yang umumnya digunakan di kampus tersebut. Gerbang utama kampus juga tidak luput dari konsep kekhasan nama Brawijaya, dibangun dengan gapura yang meniru arsitek dari gapura [[Wringin Lawang]], gerbang peninggalan kerajaan Majapahit yang berada di [[Trowulan]], [[Mojokerto]]. Saat ini ada 3 gerbang utama yang dibangun dengan konsep serupa yaitu di Jalan Veteran (FK), Jalan Veteran (BNI), dan gerbang persimpangan Jl. Soekarno-Hatta  Jl. Mt. Haryono  Jl. Mayjend Panjaitan. Era kejayaan Majapahit dengan ditemukannya simbol kerajaan Majapahit yaitu [[Surya Majapahit]] pada reruntuhan kota-kota yang diduduki Majapahit juga digunakan pada motif dinding pagar Universitas Brawijaya. Ini merepresentasika bahwa UB ingin mencapai kejayaan seperti kerajaan yang pernah berkuasa di Nusantara.
+
+Pohon buah Maja juga banyak ditanam di kampus, terutama di taman-taman dan gazebo kampus. Buah Maja sendiri berasa pahit, hal inilah yang melatarbelakangi nama kerajaan Majapahit.<ref>{{aut|Muljana, S.}}  2005.  [http://books.google.co.id/books?id=XPLpH5LOZLsC&pg=PA187#v=onepage&q&f=false ''Menuju Puncak Kemegahan. Sejarah kerajaan Majapahit''. Hal. 187]. Yogyakarta: LKiS.</ref><ref>{{aut|Munandar, A.A.}} 2008.  ''Ibukota Majapahit, Masa Jaya dan Pencapaian''.  Hal. 69.  Jakarta: Komunitas Bambu.</ref> Di sepanjang jalan di dalam kampus di tanam pohon kelapa sawit. Kelapa sawit adalah salah satu contoh pohon tepi jalan yang ditanam untuk menunjukkan identitas pada suatu jalur hijau jalan raya di kampus Universitas Brawijaya. Ini menyimbolkan bahwa Universitas Brawijaya berada di wilayah Indonesia yang terkenal dengan penghasilan sawitnya di daerah [[Sumatra]] dan [[Kalimantan]]. UB tidak ingin hanya membawa unsur budaya Jawa yang kuno, namun juga Indonesia yang kaya dengan hasil buminya. Hal inilah yang menjadi kunikan bagi kampus UB dan membedakan dengan kampus lainnya.<ref>{{cite web 
+  | url = http://karyailmiah.fp.ub.ac.id/bp/?p=552
+  | title = EVALUASI KELAPA SAWIT (Elaesis guineensis) SEBAGAI POHON TEPI JALAN DI UNIVERSITAS BRAWIJAYA
+  | first = Devie Ayu Paramitha, Titin Sumarni, Suwasono Heddy;
+  | last = Fakultas Pertanian Universitas Brawijaya
+  | work = fp.ub.ac.id 
+  | date = 2014
+  | accessdate = 29 April 2015 }}</ref><ref>{{cite web 
+  | url = http://prasetya.ub.ac.id/berita/Menata-Kampus-Pimpinan-Berjalan-Sehat-1506-id.html
+  | title = UB Tanam 1600 Pohon dan Lestarikan Burung Lokal
+  | first = Prasetya Online
+  | last = Universitas Brawijaya
+  | work = prasetya.ub.ac.id 
+  | date = 28 November 2008
+  | accessdate = 29 April 2015 }}</ref>
+
+==Rektor==
+{{artikelutama|Rektor Universitas Brawijaya}}
+Berikut ini adalah daftar nama Rektor Universitas Brawijaya sejak dinegrikan sampai sekarang:<ref>{{cite web 
+  | url = http://oldsite.ub.ac.id/id/9_publication/45tahun/bab7/index.php
+  | title = Buku 45 Tahun Universitas Brawijaya Rektor Dari Masa Ke Masa
+  | first =  Brawijaya
+  | last =  Universitas
+  | work = ub.ac.id  
+  | date = 2001-2003
+  | accessdate = 27 Agustus 3012 }}</ref>
+
+{|border="1" {{prettytable}}
+|- style="background-color:#40E0D0;"
+||'''No.'''||'''Nama'''||'''Masa jabatan'''
+|-
+||1.|| H. Doel Arnowo || [[1963]]-[[1966]]
+|-
+||2.|| Brigjen. Prof. Dr. dr. Eri Soedewo || [[1966]] 
+|-
+||3.|| Kolonel Moejadhi || [[1966]]-[[1969]]
+|-
+||4.|| Prof. Dr. Ir. Moeljadi Banoewidjojo || [[1969]]-[[1973]]
+|-
+||5.|| Prof. Darji Darmodiharjo, SH || [[1973]]-[[1979]] 
+|-
+||6.|| Prof. Dr. Harsono, SE || [[1979]]-[[1987]]
+|-
+||7.|| Prof. Drs. Zainal Arifin Achmady, MPA || [[1987]]-[[1993]]
+|-
+||8.|| Prof. Drs. H. M. Hasyim Baisoeni || [[1994]]-[[1998]] 
+|-
+||9.|| Prof. Dr. Eka Afnan Troena, SE || [[1998]]-[[2002]] 
+|-
+||10.|| Prof. Dr. Ir. Bambang Guritno || [[2002]]-[[2006]] 
+|- 
+||11.|| Prof. Dr. Ir. Yogi Sugito || [[2006]]-[[2014]] 
+|- 
+||12.|| Prof. Dr. Ir. Mohammad Bisri, MS. || [[2014]]-sekarang 
+|}
+
+==Seleksi Masuk==
+===Jalur Nasional===
+* SNMPTN<br />[[SNMPTN]] atau Seleksi Nasional Masuk Perguruan Tinggi Negeri merupakan seleksi penerimaan calon mahasiswa tanpa ujian tulis yang baru lulus [[Ujian Nasional]] pada tahun itu. Dilaksanakan secara nasional berdasarkan prestasi akademik sesuai ketentuan SNMPTN. Jalur ini biasa disebut jalur undangan atau PMDK.
+* SBMPTN<br />[[SBMPTN]] atau Seleksi Bersama Masuk Perguruan Tinggi Negeri merupakan seleksi penerimaan calon mahasiswa melalui ujian tulis, dilaksanakan secara serempak nasional setelah kelulusan SMA/MA/SMK. SBMPTN ini diadakan setelah pengumuman SNMPTN 2013. Materi yang diujikan pada hari pertama adalah [[Tes Potensi Akademik]], Tes Kemampuan Dasar Umum (terdiri dari [[Matematika|Matematika Dasar]], [[Bahasa Indonesia|Bhs. Indonesia]], dan [[Bahasa Inggris|Bhs. Inggris]]. Kemudian pada hari kedua adalah Tes Kemampuan [[Ilmu alam|IPA]] dan/atau [[IPS]] sesuai dengan jurusan yang diambil.
+
+===Jalur Mandiri===
+*SPKD/SPKIns<br />Seleksi Program Kemitraan Daerah/Instansi merupakan seleksi ujian tulis dilaksanakan di daerah bekerjasama dengan [[Pemerintah Daerah]] setempat/[[Instansi]] atau [[Perusahaan]] setempat. Seleksi jalur ini dilaksanakan setelah seleksi nasional.
+*SPMK<br />Seleksi Program Minat dan Kemampuan merupakan seleksi ujian tulis dilaksanakan di Universitas Brawijaya dan sekolah yang telah ditunjuk oleh UB. Seleksi ini juga dilaksanakan setelah seleksi nasional.
+*Kampus Kediri<br />Merupakan seleksi ujian tulis untuk UB Kampus Kediri yang dilaksanakan setelah seleksi nasional.
+*SPI<br />Seleksi Program Internasional merupakan seleksi ujian tulis untuk menjaring mahasiswa luar negeri. Seleksi ini dilaksanakan berdasarkan kemitraan dengan pihak luar negeri.
+*SAP<br />Seleksi Alih Program merupakan seleksi penerimaan mahasiswa bagi yang berpendidikan [[Sarjana Muda]] atau Diploma III untuk melanjutkan pendidikan ke Strata 1. Seleksi ini dikelola oleh pihak fakultas masing-masing.
+*SPVok<br />Seleksi Program Pendidikan Vokasi/Keahlian yaitu seleksi ujian tulis untuk Diploma I dan III dan dilaksanakan setelah seleksi nasional.
+
+==Biaya Pendidikan dan Beasiswa==
+Sejak tahun 2013, UB menerapkan sistem Uang Kuliah Tunggal atau biasa disebut UKT. Dengan sistem ini, mahasiswa tidak lagi harus membayar uang gedung. Semua biaya, termasuk uang pratikum, dibayarkan bersamaan dengan SPP per semester, yakni UKT. UKT di UB beragam sesuai dengan jurusan dan fakultas dengan dibagi dalam enam kategori. Kategori tersebut untuk mengelompokkan orang tua siswa dengan pendapatan yang berbeda, semakin tinggi pendapatannya, maka akan masuk kategori tertinggi. UKT paling rendah di setiap jurusan Rp 500 ribu, dan paling tinggi berada di program studi Pendidikan Dokter Fakultas Kedokteran yakni Rp 21,4 juta. Dalam wawancara rektor baru, Bisri memastikan kalau UKT di UB tidak melebihi biaya kuliah tunggal (BKT) yang ditetapkan oleh Kemendibud. Setiap tahun, Kemendikbud mengeluarkan BKT untuk semua kampus sebagai acuan kampus menetapkan UKT. Rincian UKT ini selalu diumumkan melalui website resmi UB setiap ajaran baru. Hal itu untuk dijadikan acuan mahasiswa baru dalam membayar UKT mereka.<ref>{{cite web
+| url = http://www.jpnn.com/read/2014/07/14/246045/Tak-Ada-Kenaikan-Biaya-Perkuliahan-di-Universitas-Brawijaya-
+  | title = Tak Ada Kenaikan Biaya Perkuliahan di Universitas Brawijaya
+  | first = 
+  | last =
+  | work = jpnn.com 
+  | date = 14 Juli 2014
+  | accessdate = 29 April 2015 }}</ref><ref name="UKT">{{cite web
+| url =http://edukasi.kompas.com/read/2013/03/23/14153259/ukt.universitas.brawijaya.terendah.rp.2.7.juta
+  | title = UKT Universitas Brawijaya Terendah Rp 2.7 juta
+  | first = Kompas.com
+  | last = Edukasi
+  | work = kompas.com 
+  | date = 14 Juli 2014
+  | accessdate = 29 April 2015 }}</ref>
+
+Pada tahun-tahun sebelumnya, UB juga telah menerapkan SPP proporsional, namun untuk uang gedung (uang pakal) masih tetap dibayarkan. Rata-rata uang gedung tersebut di atas Rp 20 juta, tergantung program studi (prodi) yang diambil. SPP ditetapkan secara proporsional per jurusan, per mahasiswa, dalam 7 kategori untuk jalur nasional, dan 3 kategori untuk jalur mandiri; hal ini juga sebagai acuan pemilihan kategori pada UKT.<ref name="UKT" />
+
+Beasiswa juga diberikan, yakni mencapai 4.676 orang pada tahun 2010 mencapai Rp. 16 M. Beasiswa tersebut adalah BMU, Bidik Misi, PPA, BBM, Supersemar, Bank Indonesia, BRI, Toyota, Astra, IMHERE, Taspen, BNI, PGN, ETOS, BTN, Pertamina, Eka Tjipta, Indosat, Pegadaian, Daihatsu, Djarum, BCA Finance, CIMB Niaga, TNI, Yayasan Salim, Yayasan Kasih, IKOMA, KOSGORO, Semen Gresik, ORBIT, dan lain-lain. Pada tahun 2011, UB memberikan beasiswa pada 6.168 mahasiswa dan pada tahun 2012 pada 6.686 mahasiswa. Jumlah ini meningkat setiap tahunnya. Untuk informasi beasiswa, UB telah menyediakan sebuah website khusus yaitu www.beasiswa.ub.ac.id yang mengumumkan informasi penawaran beasiswa maupun pengumuman penerimaan.<ref>[http://beasiswa.ub.ac.id/ Beasiswa Online Universitas Brawijaya] Diakses 05  Mei 2015</ref><ref name=Hanir>{{cite web 
+  | url = http://blog.ub.ac.id/hanirhapes/2013/01/sekilas-tentang-brawijaya/
+  | title = Sekilas Tentang Brawijaya
+  | first = Hanir
+  | last = Hapes
+  | work = blog.ub.ac.id 
+  | date = 2013 
+  | accessdate = 24 Juli 2013 }}</ref>
+
+==Program Akademik==
+Sesuai dengan keputusan [[Menteri Pendidikan dan Kebudayaan]] Nomor 232/U/2000, pendidikan akademik yang terdiri atas [[Sarjana|program sarjana]], [[Magister|program magister]] dan [[Doktor|program doktor]], adalah pendidikan yang diarahkan terutama pada penguasaan ilmu pengetahuan, teknologi, dan kesenian. Pendidikan profesional adalah program pendidikan diploma yang diarahkan terutama pada kesiapan penerapan keahlian tertentu, sedang kan pendidikan profesi adalah pendidikan tambahan setelah program sarjana untuk memperoleh keahlian dan sebutan profesi dalam bidang tertentu. Saat ini Universitas Brawijaya memiliki 12 Fakultas dan 2 Program seatara Fakultas, 74 Program Studi S-1, 37 Program Studi S-2, 17 Program Studi S-3, 16 Program Dokter Spesialis 1 (Sp-1), 14 Program D-3, dan 1 Program D-1. Berikut ini adalah diagram perkembangan fakultas dari tahun ke tahun:<ref>{{cite web 
+  | url = http://ub.ac.id/tentang/profil-universitas-program.doc
+  | title = Profil Universitas Program
+  | first = Brawijaya
+  | last = Universitas
+  | work = ub.ac.id 
+  | date = 2012 
+  | accessdate = 20 Juli 2013 }}</ref>
+
+{| style="margin-left: 0.5em;"
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+!
+!
+|-
+<!--Row 1-->
+| bgcolor="#808080" align="center" rowspan="" | 1957<ref name="FH">{{cite web 
+  | url = http://hukum.ub.ac.id/id/profil/sejarah/
+  | title = Sejarah Fakultas Hukum Universitas Brawijaya
+  | first = Universitas Brawijaya
+  | last = Fakultas Hukum
+  | work = hukum.ub.ac.id
+  | date = 2015
+  | accessdate =  03 Mei 2015 }}</ref><ref name="FEB">{{cite web 
+  | url = http://feb.ub.ac.id/id/sejarah-singkat
+  | title = Sejarah Fakultas Ekonomi dan Bisnis Universitas Brawijaya
+  | first = Universitas Brawijaya
+  | last = Fakultas Ekonomi dan Bisnis
+  | work = feb.ub.ac.id
+  | date = 2015
+  | accessdate =  03 Mei 2015 }}</ref>
+| bgcolor="pink" align="center" rowspan="" | [[Perguruan Tinggi Hukum dan Pengetahuan Masyarakat|PTHPM]]
+| bgcolor="" colspan="3" | 
+| bgcolor="khaki" align="center" rowspan="2" | [[Perguruan Tinggi Ekonomi Malang|PTEM]]
+| bgcolor="" colspan="16" | 
+|-
+<!--Row 2-->
+| bgcolor="" align="center" rowspan="" colspan="" | 1960<ref name="FIA">{{cite web 
+  | url = http://fia.ub.ac.id/profil/sejarah
+  | title = Sejarah Fakultas Ilmu Administrasi Universitas Brawijaya
+  | first = Universitas Brawijaya
+  | last = Fakultas Ilmu Administrasi
+  | work = fia.ub.ac.id
+  | date = 2015
+  | accessdate =  03 Mei 2015 }}</ref><ref name="FP">{{cite web 
+  | url = http://fp.ub.ac.id/id/profil/sejarah/
+  | title = Sejarah Fakultas Pertanian Universitas Brawijaya
+  | first = Universitas Brawijaya
+  | last = Fakultas Pertanian
+  | work = fp.ub.ac.id
+  | date = 2015
+  | accessdate =  03 Mei 2015 }}</ref>
+| bgcolor="lightblue" align="center" rowspan="" | [[Fakultas Hukum dan Pengetahuan Masyarakat|FHPM]]
+| bgcolor="lightblue" align="center" rowspan="" | [[Fakultas Administrasi Niaga|FAN]]
+| bgcolor="lightblue" align="center" colspan="2" | [[Fakultas Pertanian Universitas Brawijaya|FP]]
+<!--PTEM-->
+| bgcolor="" colspan="16" | 
+|-
+<!--Row 3-->
+| bgcolor="#808080" align="center" rowspan="" colspan="" | 1961<ref name="FIA" /><ref name="FP" />
+| bgcolor="#40E0D0" align="center" rowspan="7" colspan="" | [[Fakultas Hukum dan Pengetahuan Masyarakat|FHPM]]
+| bgcolor="#40E0D0" align="center" rowspan="" colspan="" | [[Fakultas Administrasi Niaga|FAN]]
+| bgcolor="#40E0D0" align="center" rowspan="" colspan="2" | [[Fakultas Pertanian Universitas Brawijaya|FP]]
+| bgcolor="#40E0D0" align="center" rowspan="16" colspan="" | [[Fakultas Ekonomi|FE]]
+| bgcolor="#40E0D0" align="center" rowspan="" colspan="2" | [[Fakultas Kedokteran Hewan dan Peternakan|FKHP]]
+| bgcolor="" align="center" rowspan="" colspan="14" | 
+|-
+<!--Row 4-->
+| bgcolor="" align="center" rowspan="" colspan="" | 1962<ref name="FIA" /><ref name="FP" />
+<!-- FHPM -->
+| bgcolor="#40E0D0" align="center" rowspan="6" colspan="" | [[Fakultas Ketatanegaraan dan Ketataniagaan|FKK]]
+| bgcolor="lightgrey" align="center" rowspan="" colspan="2" | [[Universitas Airlangga|UNAIR]]
+<!--FE-->
+| bgcolor="lightgrey" align="center" rowspan="" colspan="2" | [[Universitas Airlangga|UNAIR]]
+| bgcolor="#e0d0b0" align="center" rowspan="3" colspan="" | [[Perguruan Tinggi Jurusan Perikanan Laut|PTPL]]
+| bgcolor="" align="center" rowspan="" colspan="13" | 
+|-
+<!--Row 5-->
+| bgcolor="#808080" align="center" rowspan="" colspan="" | 1963<ref name="FP" />
+<!--FHPM-->
+<!--FKK-->
+| bgcolor="#40E0D0" align="center" rowspan="9" colspan="2" | [[Fakultas Pertanian Universitas Brawijaya|FP]]
+<!--FE-->
+| bgcolor="#40E0D0" align="center" rowspan="2" colspan="2" | [[Fakultas Kedokteran Hewan dan Peternakan|FKHP]]
+<!--PTPL-->
+| bgcolor="" align="center" rowspan="16" colspan="" |
+| bgcolor="#40E0D0" align="center" rowspan="" colspan="" | [[Fakultas Hukum|FH]]
+| bgcolor="#40E0D0" align="center" rowspan="" colspan="" | [[Fakultas Ilmu Pendidikan|FIP]]
+| bgcolor="#40E0D0" align="center" rowspan="" colspan="" | [[Fakultas Ilmu Sosial|FIS]]
+| bgcolor="#40E0D0" align="center" rowspan="" colspan="" | [[Fakultas Kedokteran|FK]]
+| bgcolor="#40E0D0" align="center" rowspan="" colspan="" | [[Fakultas Pertanian|FP]]
+| bgcolor="lightgreen" align="center" rowspan="3" colspan="" | [[Sekolah Tinggi Kedokteran Malang|STKM]]
+| bgcolor="" align="center" rowspan="7" colspan="6" | 
+|-
+<!--Row 6-->
+| bgcolor="" align="center" rowspan="" colspan="" | 1964<ref name=upayapenegrian />
+<!--FHPM-->
+<!--FKK-->
+<!--FP-->
+<!--FE-->
+<!--FKHP-->
+<!--PTPL-->
+<!--FT-->
+| bgcolor="lightgrey" align="center" rowspan="" colspan="5" | [[Universitas Jember|UNEJ]]
+<!--STKM-->
+<!-- blank -->
+|-
+<!--Row 7-->
+| bgcolor="#808080" align="center" rowspan="" colspan="" | 1972<ref name="Fpet">{{cite web 
+  | url = http://fapet.ub.ac.id/profil/sejarah/
+  | title = Sejarah Fakultas Peternakan Universitas Brawijaya
+  | first = Universitas Brawijaya
+  | last = Fakultas Peternakan
+  | work = fapet.ub.ac.id
+  | date = 2015
+  | accessdate =  03 Mei 2015 }}</ref>
+<!--FHPM-->
+<!--FKK-->
+<!--FP-->
+<!--FE-->
+| bgcolor="lightgrey" align="center" rowspan="" colspan="" | [[Universitas Airlangga|UNAIR]]
+| bgcolor="#40E0D0" align="center" rowspan="2" colspan="2" | [[Fakultas Kedokteran Hewan dan Peternakan|FKHP]]
+<!--FT-->
+| bgcolor="" align="center" rowspan="13" colspan="5" |
+<!--STKM-->
+<!-- blank -->
+|-
+<!--Row 8-->
+| bgcolor="" align="center" rowspan="" colspan="" | 1974<ref name="FK">{{cite web 
+  | url = http://www.fk.ub.ac.id/en/profil/sejarah/
+  | title = Sejarah Fakultas Kedokteran Universitas Brawijaya
+  | first = Universitas Brawijaya
+  | last = Fakultas Kedokteran
+  | work = fk.ub.ac.id
+  | date = 2015
+  | accessdate =  03 Mei 2015 }}</ref>
+<!--FHPM-->
+<!--FKK-->
+<!--FP-->
+<!--FE-->
+| bgcolor="" align="center" rowspan="12" colspan="" | 
+<!--FKHP-->
+<!--FT-->
+<!-- blank -->
+| bgcolor="#40E0D0" align="center" rowspan="13" colspan="" | [[Fakultas Kedokteran Universitas Brawijaya|FK]]
+<!-- blank -->
+|-
+<!--Row 9-->
+| bgcolor="#808080" align="center" rowspan="" colspan="" | 1977<ref name="Fpet" />
+<!--FHPM-->
+<!--FKK-->
+<!--FP-->
+<!--FE-->
+<!-- blank -->
+| bgcolor="#40E0D0" align="center" rowspan="2" colspan="2" | [[Fakultas Peternakan dan Perikanan|FPP]]
+<!--FT-->
+<!-- blank -->
+<!-- FK -->
+<!-- blank -->
+|-
+<!--Row 10-->
+| bgcolor="" align="center" rowspan="" colspan="" | 1982<ref name="FH" /><ref name="FIA" />
+| bgcolor="#40E0D0" align="center" rowspan="11" colspan="" | [[Fakultas Hukum Universitas Brawijaya|FH]]
+| bgcolor="#40E0D0" align="center" rowspan="11" colspan="" | [[Fakultas Ilmu Administrasi Universitas Brawijaya|FIA]]
+<!--FP-->
+<!--FE-->
+<!-- blank -->
+<!--FPP-->
+<!--FT-->
+<!-- blank -->
+<!-- FK -->
+<!-- blank -->
+|-
+<!--Row 11-->
+| bgcolor="#808080" align="center" rowspan="" colspan="" | 1983<ref name="Fpet" /><ref name="FPIK">{{cite web 
+  | url = http://fpik.ub.ac.id/profil/sejarah/
+  | title = Sejarah Fakultas Perikanan dan Ilmu Kelautan Universitas Brawijaya
+  | first = Universitas Brawijaya
+  | last = Fakultas Perikanan dan Ilmu Kelautan
+  | work = fpik.ub.ac.id
+  | date = 2015
+  | accessdate =  03 Mei 2015 }}</ref>
+<!--FH-->
+<!--FIA-->
+<!--FP-->
+<!--FE-->
+<!-- blank -->
+| bgcolor="#40E0D0" align="center" rowspan="10" colspan="" | [[Fakultas Peternakan Universitas Brawijaya|FPET]]
+| bgcolor="#40E0D0" align="center" rowspan="10" colspan="" | [[Fakultas Perikanan dan Ilmu Kelautan Universitas Brawijaya|FPIK]]
+<!--FT-->
+<!-- blank -->
+<!-- FK -->
+<!-- blank -->
+|-
+<!--Row 12-->
+| bgcolor="" align="center" rowspan="" colspan="" | 1987<ref name="FMIPA">{{cite web 
+  | url = http://mipa.ub.ac.id/profil/sejarah/
+  | title = Sejarah Fakultas Matematikan dan Ilmu Pengetahuan Alam Universitas Brawijaya
+  | first = Universitas Brawijaya
+  | last = Fakultas Matematikan dan Ilmu Pengetahuan Alam
+  | work = mipa.ub.ac.id
+  | date = 2015
+  | accessdate =  05 Mei 2015 }}</ref>
+<!--FH-->
+<!--FIA-->
+<!--FP-->
+<!--FE-->
+<!-- blank -->
+<!--FPET-->
+<!--FPI-->
+<!--FT-->
+<!-- blank -->
+<!-- FK -->
+| bgcolor="#40E0D0" align="center" rowspan="" colspan="2" | [[Program Matematika dan Ilmu Pengetahuan Alam|PMIPA]]
+| bgcolor="" align="center" rowspan="3" colspan="4" | 
+|-
+<!--Row 13-->
+| bgcolor="#808080" align="center" rowspan="" colspan="" | 1993<ref name=FMIPA />
+<!--FH-->
+<!--FIA-->
+<!--FP-->
+<!--FE-->
+<!-- blank -->
+<!--FPET-->
+<!--FPI-->
+<!--FT-->
+<!-- blank -->
+<!-- FK -->
+| bgcolor="#40E0D0" align="center" rowspan="6" colspan="2" | [[Fakultas Matematika dan Ilmu Pengetahuan Alam Universitas Brawijaya|FMIPA]]
+<!-- blank -->
+|-
+<!--Row 14-->
+| bgcolor="" align="center" rowspan="" colspan="" | 1998<ref name="FP" />
+<!--FH-->
+<!--FIA-->
+| bgcolor="#40E0D0" align="center" rowspan="7" colspan="" | [[Fakultas Pertanian Universitas Brawijaya|FP]]
+| bgcolor="#40E0D0" align="center" rowspan="7" colspan="" | [[Fakultas Teknologi Pertanian Universitas Brawijaya|FTP]]
+<!--FE-->
+<!-- blank -->
+<!--FPET-->
+<!--FPI-->
+<!--FT-->
+<!-- blank -->
+<!-- FK -->
+<!--FMIPA-->
+<!-- blank -->
+|-
+<!--Row 15-->
+| bgcolor="#808080" align="center" rowspan="" colspan="" | 2003<ref name="FISIP">{{cite web 
+  | url = http://fisip.ub.ac.id/id/profil/sejarah
+  | title = Sejarah Fakultas Ilmu Sosial dan Ilmu Politik Universitas Brawijaya
+  | first = Universitas Brawijaya
+  | last = Fakultas Ilmu Sosial dan Politik
+  | work = fisip.ub.ac.id
+  | date = 2015
+  | accessdate =  05 Mei 2015 }}</ref>
+<!--FH-->
+<!--FIA-->
+<!--FP-->
+<!--FTP-->
+<!--FE-->
+<!-- blank -->
+<!--FPET-->
+<!--FPI-->
+<!--FT-->
+<!-- blank -->
+<!-- FK -->
+<!--FMIPA-->
+| bgcolor="" align="center" rowspan="3" colspan="" |
+| bgcolor="#40E0D0" align="center" rowspan="2" colspan="" | [[Program Ilmu Sosiogi|PIS]]
+| bgcolor="" align="center" rowspan="" colspan="2" |
+|-
+<!--Row 16-->
+| bgcolor="" align="center" rowspan="" colspan="" | 2006<ref name="FIB">{{cite web 
+  | url = http://fib.ub.ac.id/?page_id=33
+  | title = Sejarah Fakultas Ilmu Budaya Universitas Brawijaya
+  | first = Universitas Brawijaya
+  | last = Sejarah Fakultas Ilmu Budaya
+  | work = fib.ub.ac.id
+  | date = 2015
+  | accessdate =  05 Mei 2015 }}</ref>
+<!--FH-->
+<!--FIA-->
+<!--FP-->
+<!--FTP-->
+<!--FE-->
+<!-- blank -->
+<!--FPET-->
+<!--FPI-->
+<!--FT-->
+<!-- blank -->
+<!-- FK -->
+<!--FMIPA-->
+<!-- blank -->
+<!--PIS-->
+| bgcolor="#40E0D0" align="center" rowspan="2" colspan="" | [[Program Bahasa dan Sastra|PBS]]
+| bgcolor="" align="center" rowspan="" colspan="" |
+|-
+<!--Row 17-->
+| bgcolor="#808080" align="center" rowspan="" colspan="" | 2008<ref name="PKH">{{cite web 
+  | url = http://pkh.ub.ac.id/id/profil/sejarah-singkat/
+  | title = Sejarah Program Kedokteran Hewan Universitas Brawijaya
+  | first = Universitas Brawijaya
+  | last = Program Kedokteran Hewan
+  | work = pkh.ub.ac.id
+  | date = 2015
+  | accessdate =  03 Mei 2015 }}</ref>
+<!--FH-->
+<!--FIA-->
+<!--FP-->
+<!--FTP-->
+<!--FE-->
+<!-- blank -->
+<!--FPET-->
+<!--FPI-->
+<!--FT-->
+<!-- blank -->
+<!-- FK -->
+<!--FMIPA-->
+<!-- blank -->
+| bgcolor="#40E0D0" align="center" rowspan="" colspan="" | [[Fakultas Ilmu Sosial|FIS]]
+<!--PBS-->
+| bgcolor="#40E0D0" align="center" rowspan="3" colspan="" |[[Program Kedokteran Hewan|PKH]]
+|-
+<!--Row 18-->
+| bgcolor="" align="center" rowspan="" colspan="" | 2009<ref name=FISIP />
+<!--FH-->
+<!--FIA-->
+<!--FP-->
+<!--FTP-->
+<!--FE-->
+<!-- blank -->
+<!--FPET-->
+<!--FPI-->
+<!--FT-->
+<!-- blank -->
+<!-- FK -->
+<!--FMIPA-->
+| bgcolor="#40E0D0" align="center" rowspan="" colspan="" | [[Fakultas Teknik Universitas Brawijaya|FT]]
+| bgcolor="#40E0D0" align="center" rowspan="3" colspan="" | [[Fakultas Ilmu Sosial dan Ilmu Politik Universitas Brawijaya|FISIP]]
+| bgcolor="#40E0D0" align="center" rowspan="3" colspan="" | [[Fakultas Ilmu Budaya Universitas Brawijaya|FIB]]
+<!--PKH-->
+|-
+<!--Row 19-->
+| bgcolor="#808080" align="center" rowspan="" colspan="" | 2011<ref name="PTIIK">{{cite web 
+  | url = http://ptiik.ub.ac.id/page/read/sejarah/a20aa9d
+  | title = Sejarah Fakultas Ilmu Komputer Universitas Brawijaya
+  | first = Universitas Brawijaya
+  | last = Fakultas Ilmu Komputer
+  | work = ptiik.ub.ac.id
+  | date = 2015
+  | accessdate =  03 Mei 2015 }}</ref>
+<!--FH-->
+<!--FIA-->
+<!--FP-->
+<!--FTP-->
+| bgcolor="#40E0D0" align="center" rowspan="2" colspan="" | [[Fakultas Ekonomi dan Bisnis Universitas Brawijaya|FEB]]
+<!-- blank -->
+<!--FPET-->
+<!--FPI-->
+<!--FT-->
+<!-- blank -->
+<!-- FK -->
+| bgcolor="#40E0D0" align="center" rowspan="2" colspan="" | [[Fakultas Matematika dan Ilmu Pengetahuan Alam Universitas Brawijaya|FMIPA]]
+| bgcolor="#40E0D0" align="center" rowspan="" colspan="2" | [[Program Teknologi Informasi dan Ilmu Komputer Universitas Brawijaya|PTIIK]]
+<!--FISIP-->
+<!--FIB-->
+<!--PKH-->
+|-
+<!--Row 20-->
+| bgcolor="" align="center" rowspan="" colspan="" | 2015<ref name="PTIIK" />
+| bgcolor="" align="center" rowspan="" colspan="" | 
+| bgcolor="" align="center" rowspan="" colspan="5" |
+| bgcolor="#40E0D0" align="center" rowspan="" colspan="2" | [[Fakultas Ilmu Komputer Universitas Brawijaya|FILKOM]]
+| bgcolor="#40E0D0" align="center" rowspan="" colspan="" | [[Fakultas Kedokteran Hewan Universitas Brawijaya|FKH]]
+|}
+
+==Mahasiswa dan Dosen==
+Universitas Brawijaya saat ini memiliki 52.376  orang mahasiswa aktif dari berbagai strata yang tersebar di berbagai fakultas.<ref>{{cite web 
+  | url = http://ub.ac.id/tentang/profil-universitas-mahasiswa.doc
+  | title = Mahasiswa Universitas Brawijaya
+  | first = Brawijaya
+  | last = Universitas 
+  | work = ub.ac.id
+  | date = 2012 
+  | accessdate = 20 Juli 2013 }}</ref> Karena membuka kelas internasional melalui seleksi jalur mandiri untuk semua fakultas, terdapat juga beberapa mahasiswa asing dari beberapa negara lain seperti [[USA]], [[Malaysia]], [[Korea Selatan]], [[Vietnam]], [[Myanmar]], [[Libia]], [[Bosnia]], [[Timor Leste]], dan [[Palestina]]. Jumlah dosen tetap pada tahun 2012 adalah 1.852 orang, yang terdiri dari S1 yaitu 326 orang, Sp1 yaitu 89 orang, S2 yaitu 1.032 orang, dan S3 yaitu 405 orang.<ref>{{cite web 
+  | url = http://ub.ac.id/tentang/profil-universitas-dosen.doc
+  | title = Dosen Universitas Brawijaya
+  | first = Brawijaya
+  | last = Universitas 
+  | work = ub.ac.id
+  | date = 2012 
+  | accessdate = 20 Juli 2013 }}</ref>
+
+==Prestasi dan Keunggulan==
+Pada tahun 2008, UB masuk rangking 500+ dunia versi ''THES (QS World University Rangkings) '' bersama-sama 7 [[perguruan tinggi]] lain di Indonesia dan masuk peringkat 3 di antara perguruan tinggi di Indonesia versi [[Ditjen Dikti]]. Pada tahun 2009, masuk rangking 191 di [[Asia]] menurut THES. Saat ini UB sebagai ''World Class Entrepreneurial University'' telah mendapatkan Akreditasi Institusi Perguruan Tinggi (AIPT) A dan mayoritas program studi telah terakreditasi A. Pada tahun 2010, UB mendapat penghargaan dari Smart Campus Award 2010, dimana UB menjadi yang terbaik dalam kategori ''The Most Interactive LocalNode''. Mendapat peringkat 59 Asia Tenggara versi ''Webomatrics''. Di bidang penelitian, publikasi ilmiah dosen dan perolehan patent, pada tahun 2010 telah meraih prestasi peringkat 5 terbaik dari seluruh PT di Indonesia.
+
+==Mitra Kerjasama==
+Jalinan kerjama sama UB dengan perguruan tinggi dan instansi tersebut dilakukan dalam bentuk ''Program Double Degree'', Pertukaran Mahasiswa, ''Sandwich Program'', dan ''Join Research''. Dalam rangka menerapkan program ''World Class Entrepreneurial University'', telah dilaksanakan kerjasama dengan berbagai perguruan tinggi luar negeri, yaitu 5 [[Perguruan tinggi|PT]] [[Thailand]], 8 PT [[Jepang]], 4 PT [[Taiwan]], 3 PT [[USA]], dan beberapa perguruan tinggi di [[Australia]], [[Belanda]], dan [[Jerman]].
+
+Beberapa dari perguruan tinggi dan instansi dari luar negeri yang terkait adalah ''[[Curtin University of Technology]], [[Wollongong University]]'' (Australia), ''[[Hohenheim University]]'' (Jerman), ''[[Deutscher Akademischer Austauschdienst]]'' (DAAD-Jerman), ''[[Centro International Agriculture Trophicale]]'' (CIAT), dan lain-lain. Sedangkan dari dalam negeri sendiri adalah [[PT. Bimantara Citra Tbk.]], [[PT. Rajawali Citra Televisi Indonesia]], ''[[Institute For Community Leaders]]'' (ICL), [[Yayasan Dana Sejahtera Mandiri]], [[PT Bank Rakyat Indonesia]] (Persero), dan lain-lain.<ref>{{cite web 
+  | url = http://ub.ac.id/tentang/kerjasama.doc
+  | title = Kerjasama Universitas Brawijaya
+  | first = Brawijaya
+  | last = Universitas
+  | work = ub.ac.id 
+  | date = 2012 
+  | accessdate = 20 Juli 2013 }}</ref>
+
+==Fasilitas Kampus==
+===Gedung===
+Setiap fakultas memiliki gedung masing-masing di area kampus UB. Untuk kepentingan lain, terdapat gedung ''Sasana Samantha Krida'', merupakan gedung terbesar di Universitas Brawijaya. Di gedung ini diadakan berbagai macam kegiatan diantaranya kongres, wisuda (diploma, sarjana, dan pascasarjana), dan lomba/kejuaraan seperti lomba paduan suara, lomba ketrampilan bahasa Inggris dan lain-lain. Terdapa pula gedung ''Widyaloka'' merupakan gedung tempat diadakannya berbagai macam aktivitas/kegiatan mahasiswa maupun umum seperti seminar nasional, regional, maupun internasional, pertemuan-pertemuan penting seperti rapat pimpinan maupun lainnya, diskusi, dan kuliah tamu. Gedung ''Student Center'' merupakan gedung tempat diadakannya berbagai macam aktivitas/kegiatan mahasiswa maupun umum seperti seminar ilmiah, pendaftaran mahasiswa baru, kejuaaraan/lomba, kongres mahasiswa, pameran, bursa buku, dan aktivitas lainnya. Dan yang terakhir adalah gedung ''Graha Medika'' merupakan gedung terbaru di UB, berlokasi di Fakultas Kedokteran. Gedung ini merupakan tempat untuk kegiatan pertemuan, resepsi acara-acara khusus dan lain sebagainya.<ref name=fasilitaskampus /><ref>{{cite web 
+  | url = http://ub.ac.id/campuslife/fasilitas-gedung.doc
+  | title = Kehidupan Kampus  Fasilitas Gedung Universitas Brawijaya
+  | first = Brawijaya
+  | last = Universitas 
+  | work = ub.ac.id
+  | date = 2012 
+  | accessdate = 20 Juli 2013 }}</ref>
+
+===Sarana Umum===
+Di lingkungan Kampus tersedia masjid pusat yaitu Masjid Raden Patah, mushola-mushola yang tersebar di berbagai fakultas maupun jurusan. Di dekat lingkungan kampus juga tersedia Vihara untuk penganut agama [[Budha]], sedangkan untuk umat [[Kristen]], gereja berada di daerah Ijen, Jl Bromo.<ref name=selayangpandang /><ref>{{cite web 
+  | url = http://ub.ac.id/campuslife/kehidupan-kampus.doc
+  | title = Kehidupan Kampus Sarana Ibadah
+  | first =  Brawijaya
+  | last =  Universitas
+  | work = ub.ac.id
+  | date = 2012
+  | accessdate = 20 Juli 2013 }}</ref> Terdapat sarana telekomunikasi seperti Warung Pos & Telekomunikasi (Warpostel), [[Kantor Pos]] dan [[Giro]], [[Warung internet|Warung Internet]] (Warnet), dan Telepon Umum. Di lingkungan kampus UB terdapat pula beberapa [[ATM]] dan [[Bank]]. Untuk Bank yaitu Bank [[BTN]], [[BRI]] dan Bank [[BNI]]. Sedangkan untuk ATM yang tersedia adalah ATM [[BCA]], BNI dan BRI. ATM BCA terletak di dekat asrama mahasiswa (daerah Koperasi Mahasiswa), ATM BNI terletak di sebelah Bank BNI di Jalan Veteran, sedangkan Bank dan ATM BRI terletak di Jl. MT Haryono.<ref name=fasilitaskampus /><ref name=saranaumum>{{cite web 
+  | url = http://ub.ac.id/campuslife/fasilitas-umum.doc
+  | title = Kehidupan Kampus  Fasilitas Umum Universitas Brawijaya
+  | first = Brawijaya
+  | last = Universitas 
+  | work = ub.ac.id
+  | date = 2012 
+  | accessdate = 20 Juli 2013 }}</ref>
+
+Terdapat pula ''UB Hotel'' untuk tamu yang mencari tempat beristirahat, tempat pertemuan, maupun tempat untuk berbisnis.<ref>{{cite web 
+  | url = http://ub.ac.id/campuslife/fasilitas-hotel.doc
+  | title = Kehidupan Kampus  Fasilitas Hotel UB Hotel Universitas Brawijaya
+  | first = Brawijaya
+  | last = Universitas 
+  | work = ub.ac.id
+  | date = 2012 
+  | accessdate = 20 Juli 2013 }}</ref> ''Youth Hostel'' adalah penginapan Griya Brawijaya yang dikelola oleh Koperasi Mahasiswa Universitas Brawijaya, yang berkedudukan di komplek kampus. Terapat pula ''Brawijaya Smart School'' yang terdiri dari [[Sekolah Dasar]], [[Sekolah Menengah Pertama]], dan [[Sekolah Menengah Atas]] di bawah naungan Universitas Brawijaya. Untuk travel umum terdapat ''Yubi Travel'' milik UB. Selain itu terapat pula penitipan anak dan Taman Kanak-Kanak yaitu ''Daycare Center'' dan TK.<ref name=fasilitaskampus /><ref name=saranaumum />
+
+===Pusat Pembelajaran===
+Perpustakaan Pusat merupakan sarana penunjang kelengkapan di bidang pendidikan, penelitian, dan pengabdian kepada masyarakat. Selain itu UB juga memiliki banyak laboratorium sebagai sarana penunjang pendidikan, penelitian, dan pelayanan di seluruh fakultas dan jurusan.<ref name=fasilitaskampus /><ref>{{cite web 
+  | url = http://ub.ac.id/campuslife/fasilitas-pusat-pembelajaran.doc
+  | title = Kehidupan Kampus  Fasilitas Pusat Pembelajaran Universitas Brawijaya
+  | first = Brawijaya
+  | last = Universitas 
+  | work = ub.ac.id
+  | date = 2012 
+  | accessdate = 20 Juli 2013 }}</ref>
+
+===Fasilitas Mahasiswa===
+Universitas Brawijaya memiliki sarana poliklinik untuk mahasiswa. Mahasiswa bisa memperoleh layanan kesehatan dengan harga yang terjangkau oleh seluruh mahasiswa. Fasilitas mahasiswa selain itu adalah ''Student Computer Services (SCS) '', Unit Kegiatan Mahasiswa, dan ''Student Internet Access''.<ref name=fasilitaskampus />
+
+===Fasilitas Olah Raga & Seni===
+Sarana olahraga yang tersedia di Universitas Brawijaya adalah Stadion Brawijaya merupakan sarana untuk cabang olahraga sepakbola yang cukup luas, ''GOR Pertamina'' yang berlokasi di belakang gedung ''Samantha Krida'', lapangan Bulutangkis Indoor berlokasi di gedung Samantha Krida, selain itu tersedia lapangan Tenis Indoor, ''Fitness Centre'', dan lapangan Kantor Pusat. Sedangkan sarana kesenian yang tersedia di Universitas Brawijaya adalah ''Homeband UB'' (Unit aktifitas band) yaitu fasilitas untuk bermain musik yang dikelola oleh Unitas Band Universitas Brawijaya, selain itu tersedia Unit Aktifitas Karawitan dan Tari.<ref name=fasilitaskampus /><ref>{{cite web 
+  | url = http://ub.ac.id/campuslife/fasilitas-olahraga.doc
+  | title = Kehidupan Kampus  Fasilitas Olahraga & Seni Universitas Brawijaya
+  | first = Brawijaya
+  | last = Universitas 
+  | work = ub.ac.id
+  | date = 2012 
+  | accessdate = 20 Juli 2013 }}</ref>
+
+===Fasilitas Teknologi Informasi===
+''School On Internet'' (SOI) merupakan program belajar/kuliah jarak jauh (distance learning) melalui internet dengan teknologi video conference. Program ''School On The Internet'' merupakan program kerjasama pembelajaran melalui internet antar institusi pendidikan di regional Asia. Pelayanan Teknologi Informasi dan Komunikasi (PTIK) menyediakan pelatihan-pelatihan berkaitan dengan komputer, pemrograman, jaringan, dan sebagainya. Tersedia Layanan MCA yaitu ''Microsoft Campus Agreement'' adalah program pendaftaran lisensi tahunan yang ditujukan untuk memenuhi kebutuhan khusus dari institusi pendidikan tinggi. ''Microsoft Campus Agreement'' memungkinkan institusi pendidikan untuk mengikuti teknologi yang berkembang walau hanya dengan anggaran yang terbatas. Universitas Brawijaya telah mengadakan ikatan perjanjian dengan Microsoft Indonesia dalam hal melegalkan pemakaian perangkat lunak buatan Microsoft di lingkungan Universitas Brawijaya.<ref name=fasilitaskampus /><ref name=fasilitasit>{{cite web 
+  | url = http://ub.ac.id/campuslife/fasilitas-it.doc
+  | title = Kehidupan Kampus  Fasilitas Teknologi Informasi Universitas Brawijaya
+  | first = Brawijaya
+  | last = Universitas 
+  | work = ub.ac.id
+  | date = 2012 
+  | accessdate = 20 Juli 2013 }}</ref>
+
+''Web Hosting Services'' merupakan layanan ''web hosting'' disediakan bagi lembaga-lembaga resmi Universitas Brawijaya yang mempublikasikan situs yang berisi informasi lembaga-lembaga tersebut melalui jaringan internet. Selain itu terapat fasilitas ''Electronic Mail'' (e-mail) bagi sivitas akademika di lingkungan Universitas Brawijaya. Saat ini layanan e-mail terdiri dari dua jenis layanan, yaitu ''Campus Web-based E-Mail'' merupakan email resmi disediakan bagi para dosen, staf, fakultas, jurusan, unit kerja dan lembaga resmi kampus lainnya dan ''Student E-mail'' yang disediakan khusus bagi seluruh mahasiswa Universitas Brawijaya. Untuk pusat bantuan, pusat informasi, form layanan, serta panduan dan manual layanan teknologi informasi tersedia ''IT Helpdesk & Costumer Care''. Dan fasilitas mengakses internet secara gratis yang dapat diperoleh oleh seluruh pengguna dalam jaringan Intranet di Universitas Brawijaya.<ref name=fasilitaskampus /><ref name=fasilitasit />
+
+===Pusat Pelatihan dan Penelitian===
+Universitas Brawijaya saat ini memiliki dua pusat pelatihan, di ''Inkubator Bisnis'' (INBIS) dan ''Pusat Komputer'' (Puskom). INBIS UB menyediakan pelatihan-pelatihan berkaitan dengan kewirausahaan dan bisnis, sedangkan Puskom menyediakan pelatihan-pelatihan berkaitan dengan komputer, jaringan, dan sebagainya. Selain itu juga terdapat pusat-pusat penelitian sebagai sarana penelitian di UB.<ref name=fasilitaskampus>{{cite web 
+  | url = http://ub.ac.id/campuslife/fasilitas.doc
+  | title = Kehidupan Kampus  Fasilitas Universitas Brawijaya
+  | first = Brawijaya
+  | last = Universitas 
+  | work = ub.ac.id
+  | date = 2012 
+  | accessdate = 20 Juli 2013 }}</ref><ref>{{cite web 
+  | url = http://ub.ac.id/campuslife/fasilitas-pusat-pelatihan.doc
+  | title = Kehidupan Kampus  Fasilitas Pusat Pelatihan Universitas Brawijaya
+  | first = Brawijaya
+  | last = Universitas 
+  | work = ub.ac.id
+  | date = 2012 
+  | accessdate = 20 Juli 2013 }}</ref>
+
+==Lembaga==
+===LPPM===
+LPPM atau Lembaga Penelitian dan Pengabdian kepada Masyarakat merupakan institusi yang menyediakan segala informasi penelitian, pelaksana penelitian dan menjadi pusat pengembangan ilmu pengetahuan dan teknologi serta mengedepankan standar kualitas tertinggi dalam berbagai kegiatan pemberdayaan masyarakat kampus maupun luar kampus. Lembaga ini mempunyai tugas melaksanakan, mengkoordinasikan, memantau dan menilai pelaksanaan kegiatan penelitian dan PKM yang diselenggarakan oleh Pusat Penelitian dan Pusat Pelayanan serta ikut mengusahakan serta mengendalikan administrasi sumberdaya yang diperlukan untuk menjalankan tugas pokok tersebut.<ref name=lembaga>{{cite web 
+  | url = http://ub.ac.id/tentang/organisasi-link-lembaga.doc
+  | title = Organisasi Lembaga di Universitas Brawijaya
+  | first = Brawijaya
+  | last = Universitas 
+  | work = ub.ac.id
+  | date = 2012 
+  | accessdate = 20 Juli 2013 }}</ref>
+
+===LP3===
+LP3 atau Lembaga Pengkajian dan Pengembangan Pendidikan merupakan pusat pengkajian dan pengembangan pendidikan guna mewujudkan paradigma baru perguruan tinggi yang disingkat RAISE (''relevance, academic atmosphere, internal management, sustainability'' dan ''equity'').<ref name=lembaga />
+
+===LSIH===
+LSIH atau Laboratorium Sentral Ilmu Hayati membantu pembangunan Ilmu Pengetahuan dan Teknologi (IPTEK) sebagai bagian integral pembangunan nasional ditujukan untuk menjadi landasan ketahanan ekonomi nasional dan meningkatkan kesejahteraan masyarakat secara berkelanjutan. LSIH melakukan beberapa jenis pelayanan dan pengujian untuk masyarakat umum/ industri, peneliti, praktisi dan mahasiswa (S1,S2,S3) terkait dengan bidang hayati, dengan didukung peralatan terbaru dan terkalibrasi.<ref name=lembaga />
+
+== Referensi ==
+{{reflist|colwidth=30em}}
+
+== Pranala luar ==
+* [http://www.ub.ac.id/ Situs resmi Universitas Brawijaya]
+* [http://ub.ac.id/en/index.html Official Site University of Brawijaya]
+* [http://digilib.ub.ac.id/ Situs perpustakaan Universitas Brawijaya]
+* [http://inherent.ub.ac.id/vlm/ Virtual Learning Universitas Brawijaya]
+* [http://jurnal.ub.ac.id/ Jurnal Online Universitas Brawijaya]
+* [http://jtrolis.ub.ac.id Journal of Tropical Life Sciences]
+* [http://agrivita.ub.ac.id Agrivita, Journal of Agricultural Science]
+* [http://piblam.ub.ac.id/ Pusat Inkubator Bisnis dan Layanan Masyarakat Universitas Brawijaya]
+* [http://lppm.ub.ac.id/ Lembaga Penelitian Universitas Brawijaya]
+* [http://jpc.ub.ac.id/ Job Placement Center Universitas Brawijaya]
+* [http://beasiswa.ub.ac.id/ Beasiswa Universitas Brawijaya]
+* [http://bapsi.ub.ac.id/ Direktori Dosen Universitas Brawijaya]
+* [http://prasetya.ub.ac.id/ Berita Prasetya Online Universitas Brawijaya]
+* [http://siakad.ub.ac.id/ Sistem Akademik Universitas Brawijaya]
+* [http://dpm.ub.ac.id/ Dewan Perwakilan Mahasiswa Pusat Universitas Brawijaya]
+* [http://em.ub.ac.id/ Eksekutif Mahasiswa Universitas Brawijaya]
+* [http://rkim.ub.ac.id/ Unit Aktivitas Riset dan Karya Ilmiah Mahasiswa UB]
+* [http://www.yes-brawijaya.org/ Young Entrepreneur Society University of Brawijaya]
+* [http://www.impalaub.or.id/ Ikatan Mahasiswa Pencinta Alam Universitas Brawijaya]
+
+{{PTN di Indonesia}}
+
+[[Kategori:Malang Raya]]
+[[Kategori:Perguruan tinggi negeri di Jawa Timur|Brawijaya]]
+[[Kategori:Perguruan tinggi di Kota Malang|Brawijaya]]
+[[Kategori:Universitas Brawijaya| ]]

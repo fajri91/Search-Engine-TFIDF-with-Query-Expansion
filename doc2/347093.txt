@@ -1,0 +1,2 @@
+Templat:Chart/cellb2b
+<td style="border-right: 1px dashed black;"><div style="width: 1em; height: 1em;"></div></td><td><div style="width: 1em; height: 1em;"></div></td><noinclude>[[Kategori:Templat silsilah]]</noinclude>

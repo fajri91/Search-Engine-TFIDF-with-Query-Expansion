@@ -1,0 +1,148 @@
+Fakultas Ilmu Komputer Universitas Indonesia
+{{Templat:No footnotes}}
+{{Infobox Universitas
+|name              = <big>Fakultas Ilmu Komputer</big><br><small>[[Rumpun Ilmu Sains dan Teknologi]]<br>[[Universitas Indonesia]]</small>
+|native_name       = 
+|image_name        = Signature_FASILKOMUI.png
+|image_size        = 200px
+|image_alt         = signature fasilkom ui
+|caption           = <br>''Signature'' FASILKOM UI<ref>{{Cite web|url=http://www.ui.ac.id/download/panduan-penggunaan-logo-universitas-indonesia/|title = Panduan Penggunaan Logo Universitas Indonesia|work=Kantor Komunikasi UI|publisher=Publikasi Kantor Komunikasi UI|accessdate=10 Juni 2015}}</ref>
+|latin_name        = 
+|motto             = 
+|mottoind          = 
+|established       = [[1993]]
+|closed            = 
+|type              = [[Perguruan Tinggi Negeri]] [[Badan Hukum Milik Negara|Badan Hukum]]<ref>{{Cite web|url=http://www.fkm.ui.ac.id/wp-content/uploads/2014/12/PP68-2013StatutaUI.pdf|title = Peraturan Pemerintah Nomor 68 Tahun 2013 tentang Statuta Universitas Indonesia|work=[[Peraturan Pemerintah]]|publisher=Salinan PP sesuai aslinya diakses dari pranala FKM UI|accessdate=10 Juni 2015}}</ref>
+|affiliation       = 
+|endowment         = 
+|budget            = 
+|officer_in_charge = 
+|chairman          = 
+|chancellor        = 
+|president         = 
+|vice-president    = 
+|superintendent    = 
+|provost           = 
+|vice_chancellor   = 
+|rector            = 
+|principal         = 
+|dean              = [[Mirna Adriani|Dra. Mirna Adriani, B.Sc, P.hD]]<ref name="dekan">{{Cite news|url=http://news.okezone.com/read/2013/12/20/373/915112/sertijab-10-dekan-baru-ui-resmi-bertugas|work=[[Okezone.com]]|title=Sertijab, 10 Dekan Baru UI Resmi Bertugas|first=Marieska Harya|last=Virdhani|date=20 Desember 2013|accessdate=25 Juni 2015}}</ref><ref>{{Cite news|url=http://bogor.antaranews.com/berita/6813/ui-lantik-sembilan-dekan-baru|work=[[Antaranews]]|title= UI lantik sembilan dekan baru|first=Feru|last=Lantara|date=20 Desember 2013|accessdate=25 Juni 2015}}</ref><ref>{{Cite news|url=http://poskotanews.com/2013/12/20/rektor-ui-melantik-sembilan-dekan-baru/|work=[[Pos Kota|Poskotanews]]|title=Rektor UI Melantik Sembilan Dekan Baru|first=Angga|last=|date=20 Desember 2013|accessdate=25 Juni 2015}}</ref>
+|director          = 
+|head_label        = 
+|head              = 
+|academic_staff    = 
+|administrative_staff  = 
+|students          = 
+|undergrad         = 
+|postgrad          = 
+|doctoral          = 
+|other             = 
+|city              = [[Depok]]
+|state             = 
+|province          = [[Jawa Barat]]
+|country           = [[Indonesia]]
+|coor              = 
+|campus            = [[Urban]]
+|former_names      = 
+|free_label        = Alamat
+|free              = '''Fakultas Ilmu Komputer'''<br>Jalan Prof. Dr. Nugroho Notosusanto<br>[[Universitas Indonesia|Kampus UI Depok]]
+|colors            = [[Biru dongker]] - [[Merah|Merah darah]]<br>
+|colours           = {{colorbox|#08088A}} {{colorbox|#DF0101}}
+|athletics         = 
+|sports            = 
+|nickname          = 
+|mascot            = 
+|affiliations      = 
+|website           = http://www.cs.ui.ac.id/
+|logo              = 
+|footnotes         =
+}}
+
+{{Infobox
+ | headerstyle = background-color:#eee;
+ | labelstyle  = background-color:#eee;
+ | header1 = Informasi Umum
+ |   data2 = {{Infobox | subbox = yes
+    |  label2 = Jenjang  |   data2 = [[S1]], [[S2]], [[S3]]
+    |  label3 = Jalur Masuk |   data3 =[[SNMPTN]], [[SBMPTN]], [[Prestasi dan Pemerataan Kesempatan Belajar Universitas Indonesia | PPKB UI - Paralel]], [[Prestasi dan Pemerataan Kesempatan Belajar Universitas Indonesia | ''Talent Scouting'']], [[Seleksi Masuk Universitas Indonesia | SIMAK UI]]
+    |  label4 = Guru Besar Aktif | data4 = -
+    |  label5 = Bidang Studi  |   data5 = *[[Bidang Studi Ilmu Komputer Universitas Indonesia | Bidang Ilmu Komputer]]
+*[[Bidang Studi Sistem & Teknologi Informasi Universitas Indonesia | Bidang Sistem & Teknologi Informasi]]
+}}
+}}
+Fakultas Ilmu Komputer Universitas Indonesia atau disingkat '''Fasilkom UI''' adalah salah satu fakultas Rumpun Ilmu Sains dan Teknologi. Fasilkom UI mengelola program pendidikan jenjang dengan gelar [[sarjana]] ([[S1]]), [[magister]] ([[S2]]), dan [[doktor]] ([[S3]]) serta program pelatihan non-gelar.
+
+== Sejarah ==
+Fakultas Ilmu Komputer UI (Fasilkom) berdiri sejak tahun [[1993]], dan saat ini membuka 5 program studi untuk sarjana, 2 untuk program magister, dan 1 untuk program doktor. Daftar program lengkap dapat dilihat di halaman http://www.cs.ui.ac.id Sebelum pendiriannya, pendidikan Ilmu Komputer di UI dilaksanakan oleh Pusilkom UI (Pusat Ilmu Komputer) yang kini berstatus sebagai unit usaha akademis di bawah Fasilkom UI.
+
+Kegiatan akademiknya adalah Pendidikan, Penelitian, dan Pengabdian kepada Masyarakat.
+
+== Program Sarjana ==
+=== Reguler dan Paralel Ilmu Komputer  ===
+Program Studi Ilmu Komputer/Informatika di bawah naungan Fakultas Ilmu Komputer Universitas Indonesia (Fasilkom UI) memberikan kesempatan kepada para lulusan SMA/sederajat yang terbaik untuk mendapatkan pendidikan dan keahlian di bidang Ilmu Komputer pada tingkat sarjana (S1). Program ini dirancang untuk memenuhi kebutuhan terhadap tenaga-tenaga muda yang terampil dan profesional di bidang Teknologi Informasi.
+
+=== Reguler dan Paralel Sistem Informasi ===
+Program Studi Sistem Informasi di bawah naungan Fakultas Ilmu Komputer Universitas Indonesia (Fasilkom UI) memberikan kesempatan kepada lulusan SMA/sederajat yang terbaik untuk mendapatkan pendidikan dan keahlian di bidang Sistem Informasi/Teknologi Informasi pada tingkat sarjana (S1). Program ini dirancang untuk memenuhi kebutuhan terhadap tenaga-tenaga muda yang terampil dan profesional, terutama terkait dengan pengembangan, pemanfaatan, dan pengelolaan Sistem Informasi/Teknologi Informasi dalam suatu organisasi.
+
+=== Kelas Internasional Ilmu Komputer ===
+Sejak tahun 2002, Fasilkom-UI bekerjasama dengan School of Information Technology and Electrical Engineering, The University of Queensland (ITEE-UQ) dalam menyelenggarakan Program Sarjana Internasional (S1-Kelas Internasional) bidang Ilmu Komputer dan Teknologi Informasi. Peserta program ini harus menyelesaikan delapan semester pendidikan yang dibagi menjadi dua bagian, yakni pada semester 1-5 diselenggarakan di UI dan pada semester 6-8 diselenggarakan di UQ, Australia. Seluruh proses pendidikan diselenggarakan dalam Bahasa Inggris. Kemudian, lulusan program ini akan mendapatkan dua gelar,yaitu Sarjana Ilmu Komputer dari UI, dan Bachelor of Information Technology dari ITEE UQ.
+
+=== Paralel untuk D3 (Ekstensi) Sistem Informasi ===
+Program Studi Sistem Informasi kelas Ekstensi, atau disebut juga Program Sarjana Ekstensi Sistem Informasi ini dilatarbelakangi oleh keinginan Fasilkom UI untuk menyediakan program peningkatan skill dan kompetensi bagi para lulusan program D3 di bidang-bidang yang berkaitan dengan teknologi informasi dan sudah bekerja. Kompetensi utama lulusan program ini adalah kemampuan menangani penerapan sistem dan teknologi informasi dalam suatu organisasi maupun mengembangkan penelitian, khususnya penelitian terapan teknologi informasi, di sektor bisnis dan sektor publik.
+
+== Program Pascasarjana ==
+
+=== Magister (S2) ===
+Program Magister di Fasilkom UI terdiri dari dua program studi yakni Magister Ilmu Komputer (MIK) dan Magister Teknologi Informasi (MTI). 
+
+==== Magister Ilmu Komputer (MIK) ====
+Program MIK dirancang sebagai research-based master program untuk mencetak tenaga ahli dengan wawasan riset dalam bidang ilmu komputer. Kegiatan perkuliahan di MIK dikaitkan dengan kegiatan penelitian yang sedang berlangsung di laboratorium-laboratorium riset Fasilkom UI, yakni Lab Computational Intelligence, Lab Digital Library and Distance Learning, Lab Formal Metnods in Software Engineering, Lab High Performance Computing & Grid Computing, Lab Image Processing and Geographics Information Systems, Lab Information Retrieval, Lab IT Governance, Lab E-Government, dan Lab Enterprise Computing. 
+
+==== Magister Teknologi Informasi (MTI) ====
+Magister Teknologi Informasi (MTI) adalah pendidikan tingkat lanjut (strata 2) mengenai penerapan Teknologi Informasi. Program MTI dipimpin oleh seorang koordinator, yang melapor kepada Dekan [[Fakultas Ilmu Komputer Universitas Indonesia]]. Program MTI dimulai tahun [[1996]] sebagai program kekhusuan Teknologi Informasi (TI). Sejak [[2005]], Program MTI berdiri sebagai program sendiri dan lulusan berhak menyandang gelar Magister Teknologi Informasi.
+
+Program MTI menekankan pada pengembangan profesi serta kemampuan manajerial dalam menangani Teknologi Informasi. Fasilkom UI juga menyelenggarakan Program Pemelajaran Jarak Jauh Berbasis Teknologi Informasi dan Komunikasi untuk Perkuliahan ''MTI Dual Mode''. Penyelengaraan perkuliahan dilaksanakan dengan cara semi-pembelajaran jarak jauh, berupa kombinasi pengajaran melalui media elektronik, dan pengajaran di kampus Universitas Indonesia. Pengajaran melalui media elektronik tersebut dapat terselenggara dengan memanfaatkan fasilitas Student Centered E-Learning Environment (SCeLE).
+
+=== Doktor Ilmu Komputer (S3) ===
+Program Doktor Ilmu Komputer (DIK) merupakan program doktor yang pertama di Indonesia dalam bidang Ilmu Komputer. Program ini dirancang untuk menghasilkan pakar Ilmu Komputer yang mampu menerapkan ilmunya, baik untuk penyelesaian masalah aplikatif maupun upengembangan ilmu komputer lebih lanjut.
+
+== Fasilitas ==
+Fakultas Ilmu Komputer memiliki fasilitas sebagai berikut:
+* Perpustakaan
+* Kantin
+* Laboratorium
+* Ruang diskusi
+* Situs Web Perkuliahan
+
+== Penelitian ==
+Fakultas Ilmu Komputer mempunyai 9 laboratorium riset yang mengkhususkan untuk melakukan penelitian-penelitian di bidang-bidang sebagai berikut:
+* Computational Intelligence
+* Digital Libraries and Distance Learning
+* Formal Methods in Software Engineering
+* High Performance and Grid Computing
+* Image Processing and Geographical Information Systems
+* Text Processing and Information Retrieval
+* Enterprise Computing
+* IT Governance
+* E-Government
+
+== Galeri Lambang Makara FASILKOM UI ==
+<gallery>
+Makara-ui-fasilkom.png|Bendera makara FASILKOM UI (''resmi'')<ref group=note name=resmi>Lambang makara UI '''resmi''' adalah lambang yang dicirikan dengan warna kuning khas UI yang dominan pada makara dengan warna-warna dasar panji fakultas sebagai latar belakang, sedangkan lambang makara UI '''tidak resmi''' dicirikan dengan warna panji fakultas pada makara dan tidak terdapat warna khas kuning UI. Ketentuan lebih lanjut terkait dasar hukum pembakuan lambang UI dapat dilihat pada PP 68 Tahun 2013 (Pasal 7) dan keputusan rektor yang mengaturnya.</ref> yang digunakan dalam kegiatan-kegiatan akademik yang bersifat formal.
+Makara_FASILKOMUI.png|Lambang makara FASILKOM UI (''tidak resmi'')<ref group=note name=resmi></ref> adalah atribut yang umum digunakan untuk kegiatan kemahasiswaan atau kegiatan lain yang bersifat tidak formal.
+</gallery>
+
+== Pranala luar ==
+* [http://www.cs.ui.ac.id/ Situs Resmi Fasilkom UI]
+* [http://mti.cs.ui.ac.id/indonesia Situs Resmi MTI Fasilkom UI]
+* [http://mti.cs.ui.ac.id/indonesia/?mod=news&act=detail&id=28 Transfer kredit ke University of Canberra]
+
+== Catatan Kaki ==
+{{reflist|2|group=note}}
+
+== Referensi ==
+{{reflist|30em}}
+
+{{UI}}
+
+[[Kategori:Universitas Indonesia]]

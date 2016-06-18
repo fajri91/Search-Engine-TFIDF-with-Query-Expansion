@@ -1,0 +1,23 @@
+Plasmodium draconis
+{{Taxobox
+| color = khaki
+| name = ''Plasmodium draconis''
+| image_caption = 
+| image = 
+| image_width = 
+| regnum = [[Protista]]
+| phylum = [[Apicomplexa]]
+| classis = [[Aconoidasida]]
+| ordo = [[Haemosporida]]
+| familia = [[Plasmodiidae]]
+| genus = ''[[Plasmodium]]''
+| species = '''''P. draconis'''''
+| binomial = ''Plasmodium draconis''
+}}
+'''''Plasmodium draconis''''' adalah parasit dari genus ''[[Plasmodium]]''. Seperti semua spesies ''Plasmodium'', ''P. draconis'' menyerang [[vertebrata]] dan [[serangga]]. Vertebrata yang diserang oleh parasit ini adalah [[reptil]].
+
+{{plasmodium-stub}}
+
+[[Kategori:Plasmodium]]
+[[Kategori:Apicomplexa]]
+[[Kategori:Malaria]]

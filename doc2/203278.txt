@@ -1,0 +1,47 @@
+Saint-Barthlemy, Seine-et-Marne
+{{otherplaces|Saint-Barthlemy}}
+{{Infobox French commune|
+name=Saint-Barthlemy|
+image_map = France_jms.png|
+x = 157|
+y = 75|
+lat_long={{coord|48|49|1|N|3|21|39|E}}|
+insee=77402|
+postal_code=77320|
+region=[[le-de-France (region)|le-de-France]]|
+department=[[Seine-et-Marne]]|
+arrondissement=Provins|
+canton=[[Kanton La Fert-Gaucher|La Fert-Gaucher]]|
+mayor=Michel Roch|
+term=2008-2014|
+intercomm=''tidak ada pada 2007''|
+elevation_min_m=159|
+elevation_max_m=203|
+area_km2=14.99|
+population=361|
+date-population=1999|
+density_km2=24|
+date-density=1999}}
+
+'''Saint-Barthlemy''' merupakan sebuah [[komune di Perancis|komune]] di [[departemen di Perancis|departemen]] [[Seine-et-Marne]] di [[region di Perancis|region]] [[le-de-France (region)|le-de-France]] di utara-tengah [[Perancis]].
+
+== Demografi ==
+Pada [[sensus]] 1999, penduduknya berjumlah 361 jiwa.
+
+Penduduknya disebut sebagai ''Barthlomens''.
+
+== Lihat pula ==
+* [[Komune di departemen Seine-et-Marne]]
+
+== Pranala luar ==
+* [http://www.iaurif.org/en/gis/fichescom/mos99/ficmos/mos77402.html 1999 Land Use, from IAURIF (Institute for Urban Planning and Development of the Paris-le-de-France rgion] {{en}}
+* [http://www.viamichelin.co.uk/viamichelin/gbr/dyn/controller/mapPerformPage?strAddress=&strCP=77320&strLocation=Saint-Barthlemy&strCountry=1424&image2.x=28&image2.y=7 Map of Saint-Barthlemy on Michelin] {{en}}
+
+{{Komune di Seine-et-Marne}}
+
+{{DEFAULTSORT:Saint-Barthelemy}}
+[[Kategori:Komune di Seine-et-Marne]]
+[[Kategori:Komune di Perancis]]
+
+
+{{SeineMarne-geo-stub}}

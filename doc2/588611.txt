@@ -1,0 +1,69 @@
+2007 US3
+{{Infobox Planet 
+|minorplanet = yes 
+|width = 25em 
+|bgcolour = 
+|apsis = 
+|name = 2007 US3
+|symbol = 
+|image = 
+|caption = 
+|discovery = yes 
+|discovery_ref = 
+|discoverer =LINEAR
+|discovery_site =704
+|discovered = 2007/10/19
+|designations = yes
+|mp_name = 
+|alt_names = 
+|mp_category = 
+|orbit_ref = 
+|epoch = 
+|aphelion =2.063
+|perihelion =0.963
+|semimajor =1.513
+|eccentricity =0.363
+|period = 
+|avg_speed = 
+|inclination =24.3
+|asc_node =28.8
+|mean_anomaly =124.9
+|arg_peri =287.0
+|satellites = 
+|physical_characteristics = yes 
+|dimensions = 
+|mass = 
+|density = 
+|surface_grav = 
+|escape_velocity = 
+|sidereal_day = 
+|axial_tilt = 
+|pole_ecliptic_lat = 
+|pole_ecliptic_lon = 
+|albedo = 
+|temperatures= 
+|temp_name1 = 
+|mean_temp_1 = 
+|max_temp_1 = 
+|temp_name2 = 
+|max_temp_2 = 
+|spectral_type = 
+|abs_magnitude =22.3
+}}
+'''2007 US3''' adalah sebuah [[asteroid]]. Asteroid ini merupakan bagian dari [[asteroid Apollo]], yang terletak dekat dengan [[bumi]]. [[Eksentrisitas orbit]] asteroid ini tercatat sebesar 0.363, sementara [[magnitudo mutlak]]nya adalah 22.3.
+
+== Pembentukan ==
+
+Seperti asteroid pada umumnya, asteroid ini terbentuk dari [[nebula]] [[matahari]] primordial sebagai pecahan [[planetisimal]], sesuatu di nebula matahari muda yang tidak cukup besar untuk berubah menjadi planet.<ref>{{cite web | title=What Are Asteroids And Comets? | url=http://neo.jpl.nasa.gov/faq/#ast | work=Near Earth Object Program FAQ | publisher=[[NASA]] | accessdate=13 September 2010 | archiveurl=http://web.archive.org/web/20100909210213/http://neo.jpl.nasa.gov/faq/ | archivedate=9 September 2010 | deadurl=no}}</ref>
+
+== Referensi ==
+
+{{Reflist}}
+
+== Pranala luar ==
+
+* [http://www.minorplanetcenter.net/iau/lists/t_apollos.html Daftar asteroid Apollo] - ''The International Astronomical Union Minor Planet Center.''
+
+[[Kategori:Asteroid Apollo]]
+
+{{asteroid-stub}}

@@ -1,0 +1,34 @@
+Lowe's
+{{Infobox company|
+| company_name     = Lowe's Companies, Inc.
+| company_logo     =[[Berkas:Lowe's.svg|220px]]
+| company_type     = [[Public company|Public]]
+| foundation       = [[North Wilkesboro, North Carolina]] (1946)<ref name="Lowe's History"/>
+| location         = [[Wilkesboro, North Carolina|Wilkesboro]], [[North Carolina]], [[United States|U.S.]]
+| locations        = 1,749 <small>(January 2011)</small><ref name=10K/>
+| area_served      = [[United States]]<br />[[Canada]]<br />[[Mexico]]
+| key_people       = Robert Niblock<br /><small>([[Chairman]] and [[Chief Executive Officer|CEO]])</small>
+| industry         = [[Retail]]<br />[[Home improvement|Home Improvement]]
+| revenue          = {{nowrap|{{increase}} [[United States dollar|US$]] 48.815 billion <small>(FY 2010)</small><ref name=10K>{{cite web|url=http://www.sec.gov/Archives/edgar/data/60667/000006066711000061/0000060667-11-000061-index.htm|title=2010 Form 10-K, Lowe's Companies, Inc.|publisher=United States Securities and Exchange Commission}}</ref>}}
+| operating_income = {{increase}} US$ 3.560 billion <small>(FY 2010)</small><ref name=10K/>
+| net_income       = {{increase}} US$ 2.010 billion <small>(FY 2010)</small><ref name=10K/>
+| assets           = {{increase}} US$ 33.699 billion <small>(FY 2010)</small><ref name=10K/>
+| equity           = {{decrease}} US$ 18.112 billion <small>(FY 2010)</small><ref name=10K/>
+| num_employees    = 234,000 <small>(2011)</small><ref name=10K/>
+| traded_as        = {{nyse|LOW}}
+| homepage         = [http://www.lowes.com/ Lowes.com]<br />[http://www.lowes.ca/ Lowes.ca]
+}}
+'''Lowe's Companies, Inc.''' ({{nyse|LOW}}) merupakan sebuah perusahaan asal [[Amerika Serikat]]. Perusahaan ini bergerak di bidang jasa penjualan bahan bangunan dan renovasi rumah. Perusahaan ini berdiri pada tahun 1946 di [[North Wilkesboro, North Carolina]].
+
+Saat ini unit usaha dari Lowe's sudah mencapai 1.700 gerai di AS dan 20 di Kanada. Mulai tahun 2011, perusahaan ini juga akan mencoba melebarkan sayapnya di luar Amerika Utara dengan target awal masuk ke Australia.
+
+== Referensi ==
+{{reflist}}
+
+== Pranala luar ==
+{{Commons category}}
+* [http://Lowes.com/ Lowe's]
+{{perusahaan-AS-stub}}
+
+[[Kategori:Perusahaan Amerika Serikat]]
+[[Kategori:Perusahaan yang didirikan tahun 1946]]

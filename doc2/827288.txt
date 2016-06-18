@@ -1,0 +1,17 @@
+Templat:Way Ratai, Pesawaran
+{{Navigasi ID Desa |provinsi=Lampung |dati2=Kabupaten |nama dati2=Pesawaran
+|nama kecamatan=Way Ratai
+|d1=Gunungrejo
+|d2=Mulyosari
+|d3=Poncorejo
+|d4=Ceringin Asri
+|d5=Wates
+|d6=Sumberjaya
+|d7=Bunut Sebrang
+|d8=Bunut
+|d9=Pesawaran Indah
+|d10=Harapan Jaya
+}}<noinclude>
+[[Kategori:Templat desa/kelurahan di Lampung|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Pesawaran|{{PAGENAME}}]]
+</noinclude>

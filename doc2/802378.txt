@@ -1,0 +1,38 @@
+Broomfield Park
+{{Infobox stadium |
+  stadium_name      = Broomfield Park |
+| pushpin_map      = 
+| pushpin_mapsize  = 
+| pushpin_map_caption = 
+| pushpin_label_position = 
+| latd = 55|latm   = 51|lats  = 48.51 |latNS  = N
+| longd = 3|longm  = 58|longs = 40.97 |longEW = W
+<!-- Coordinates of centre of pitch -->
+|
+  caption           = |
+  location          = Gartlea Road<br/>[[Airdrie, North Lanarkshire|Airdrie]]<br/>[[North Lanarkshire]]<br/>[[Skotlandia]] |
+  broke_ground      = |
+  opened            = 1892|
+  awards            = |
+  closed            = 1994|
+  demolished        = 1994|
+  owner             = |
+  operator          = |
+  surface           = Rumput<br/>112x67 yard|
+  construction_cost = |
+  architect         = |
+  former_names      = |
+  tenants           = [[Airdrieonians]] (1892-1994) |
+  seating_capacity  = 12.620
+}}
+'''Broomfield Park''' adalah sebuah stadion [[sepak bola]] yang terletak di [[Airdrie]], [[North Lanarkshire]], Skotlandia.
+
+Stadion ini adalah markas dari klub sepak bola Airdrieonians yang berkapasitas 12.620 tempat duduk. Broomfield Park dipakai untuk pertandingan resmi sejak 1892 dan ditutup pada musim 1993-94. Rekor jumlah penonton adalah 24.000 orang pada perempat final Piala Skotlandia tanggal 8 Maret 1952.<ref>{{harvnb|Inglis|1996|p=427}}</ref>
+
+==Referensi==
+{{reflist}}
+
+==Pranala luar==
+*[http://scottishfootballarchive.co.uk/stadiums/broomfield-park Broomfield Park]
+
+[[Kategori:Stadion sepak bola di Skotlandia]]

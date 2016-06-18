@@ -1,0 +1,6 @@
+Templat:Lang-ti
+{{Language with name|ti|Tigrinya|{{{1}}}}}[[Bantuan:Bantuan multilingual (Etiopia)|<sup><span class="t nihongo icon" style="color:#00e;font:bold 80% sans-serif;text-decoration:none;padding:0 .1em;">?</span>]]</sup></span><noinclude>
+{{Documentation|Template:Lang-x/doc}}
+[[Kategori:Templat bahasa]]
+
+</noinclude>

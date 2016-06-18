@@ -1,0 +1,5 @@
+Templat:Next year
+{{#expr:{{#time:Y}}+1}}<noinclude>
+[[Category:Date-computing templates based on current time]]
+
+</noinclude>

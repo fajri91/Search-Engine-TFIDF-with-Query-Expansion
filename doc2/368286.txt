@@ -1,0 +1,14 @@
+Templat:Pengguna wikipedia/WikiTuyul
+{{userbox
+| border-c = #976684
+| info-fc  = #000000
+| info-c   = #F2F2F2
+| id-c     = #B0C4DE
+| id       = [[file:Tuyul.PNG|42x42px]]
+| info     = '''Waspadalah'''! Penguna ini adalah seorang '''[[Wikipedia:WikiTuyul|WikiTuyul]]''', barang berharga Anda dapat hilang dicuri jika Anda tidak waspada.<br />(admin: ''[[Special:Block/{{PAGENAME}}|laporkan pengguna ini!]]'')
+}}<includeonly><!-- The #ifeq below is so that only user pages (and no other kind of pages) that use this template gets listed in the "Category:WikiProject X participants". -->{{#ifeq:{{NAMESPACE}}|User|[[Category:Wikipedian WikiZombies|{{PAGENAME}}]]|}}</includeonly><noinclude>{{doc|content=
+
+{{humor}}
+
+[[Category:Wikipedia-related user templates|WikiTuyul]]
+}}</noinclude>

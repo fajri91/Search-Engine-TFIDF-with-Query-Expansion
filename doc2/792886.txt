@@ -1,0 +1,53 @@
+Cherkizovskaya
+{{Infobox station 
+|name          = Cherkizovskaya
+|type          = Stasiun Metro Moskwa
+|image         = MosMetro Cherkizovskaya platform 01-2016.jpg
+|image_size    = 
+|image_caption = 
+|address       = {{nowrap|Okruzhnoy Proyezd}}<br/>{{nowrap|Distrik Preobrazhenskoye}}<br/>{{nowrap|Eastern Administrative Okrug}}<br/>Moskwa
+|country       = Rusia
+|latitude      = 55.8038
+|longitude     = 37.7448
+|coordinates_display = yes
+|line          = {{MOSMETRO-bull|1|text=1}}
+|other         = '''[[Bus]]''': 34, 52, 171, 230, 716<br />'''[[Trolleybus]]''': 32, 41, 83
+|structure     = [[Shallow single-vault station|Shallow single-vault]]
+|platform      = 1 peron pulau
+|depth         = {{convert|11|m}}{{citation needed|date=December 2012}}
+|levels        = 1
+|tracks        = 2
+|parking       = 833 tempat parkir<ref name="stroi.mos.ru">{{cite web | url=http://stroi.mos.ru/d17dr622647.html | script-title=ru:       | work=  | date=26 December 2011 | accessdate=26 December 2012 | language=Russian}}</ref>
+|bicycle       = 
+|baggage_check = 
+|opened        = {{date|1990-08-01}}<ref name="mosmetro.ru">{{cite web | url=http://www.mosmetro.ru/stations/sokolnicheskaya/cherkizovskaya/ | title= | work=Moskovsky Metropoliten | accessdate={{date|2012-12-26}} | language=Russian}}</ref>
+|closed        = 
+|rebuilt       = 
+|ADA           = 
+|code          = 002<ref name="mosmetro.ru" />
+|owned         = Moskovsky Metropoliten
+|zone          = 
+|former        = 
+|passengers    = 
+|pass_year     = 
+|pass_percent  = 
+|pass_system   = 
+|mpassengers   = 
+|services      = {{s-rail|title=MOSMETRO}}{{s-line|system=MOSMETRO|line=Sokolnicheskaya|previous=Preobrazhenskaya Ploshchad|next=Bulvar Rokossovskogo}}
+|map_type      = Moscow Ring Road
+|AlternativeMap= Moscow map MKAD grayscale.png
+|map_overlay   = Moscow map MKAD metro line.svg
+|map_caption   = 
+|map_state     = collapsed
+|route_map     = {{Sokolnicheskaya Line RDT}}
+}}
+'''Cherkizovskaya''' ({{lang-ru|}}) adalah stasiun [[Metro Moskwa]] di [[Distrik Preobrazhenskoye]], [[Eastern Administrative Okrug]], [[Moskwa]]. Berada pada [[Jalur Sokolnicheskaya]], antara stasiun [[Preobrazhenskaya Ploshchad]] dan [[Ulitsa Podbelskogo]].
+
+Cherkizovskaya dibuka tahun 1990 dan didesain oleh arsitek V. Cheremin and A. Vigdorov.
+
+==Referensi==
+{{reflist}}
+
+[[Category:Stasiun Metro Moskwa]]
+[[Category:Stasiun kereta yang dibuka tahun 1990]]
+[[Category:Jalur Sokolnicheskaya]]

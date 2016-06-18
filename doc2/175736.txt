@@ -1,0 +1,32 @@
+Templat:Alias negara/doc
+{{subhalaman dokumentasi}}
+{{tl|alias negara}} dan {{tl|alias negara 2}} menghasilkan nama negara. Untuk {{tl|alias negara 2}}, nama negara berpranala ke artikel negara tersebut.
+
+=== Penggunaan ===
+* <code><nowiki>{{alias negara|"kode negara"}}</nowiki></code>
+* <code><nowiki>{{alias negara 2|"kode negara"|"alias negara"}}</nowiki></code>
+Kode negara harus ditulis dengan menggunakan huruf kapital.
+
+=== Contoh ===
+* <code><nowiki>{{alias negara|ID}}</nowiki></code>  {{i2c|ID}}
+* <code><nowiki>{{alias negara 2|ID}}</nowiki></code>  {{alias negara 2|ID}}
+* <code><nowiki>{{alias negara 2|ID|RI}}</nowiki></code>  {{alias negara 2|ID|RI}}
+
+=== Lihat pula ===
+* {{tl|Alias bahasa}}
+<includeonly>
+[[Kategori:Templat negara| {{PAGENAME}}]]
+[[ar::I2c]]
+[[en:Template:Iso2country]]
+[[fa::Iso2country]]
+[[ja:Template:Iso2country]]
+[[ko::Iso2]]
+[[map-bms:Cithakan:Alias negara 2]]
+[[map-bms:Cithakan:Alias negara]]
+[[pt:Predefinio:Iso2pas]]
+[[th::Iso2country]]
+[[tpi:Template:Iso2country]]
+[[vi:Bn mu:I2c]]
+[[yo:dk:Iso2country]]
+[[zh:Template:Iso2country]]
+</includeonly>

@@ -1,0 +1,30 @@
+Primer
+'''Primer''' adalah [[program komputer]] untuk analisis [[statistika]] yang banyak menekankan pada penggunaannya di bidang penelitian [[ekologi]] dan lingkungan. Program Primer (singkatan dari ''Plymouth Routines In Multivariate Ecological Research'' ) versi ke 6 mempunyai kemampuan proses multi-variasi seperti:
+* grouping (CLUSTER)
+* penyortiran (MDS)
+* principal component identification (PCA)
+* Testing hipotesa (ANOSIM)
+* sample discrimination (SIMPER)
+* korelasi trend (BEST)
+* comparisons (RELATE), dan
+* diversitas, dominasi, serta perhitungan distribusi.
+
+[[Perangkat lunak]] '''Primer''' yang dikembangkan dari bahasa pemrograman [[VB]].Net ini dapat diperoleh dengan harga berkisar antara 560 - 144 per kopinya.
+
+== Pranala luar ==
+* [http://www.primer-e.com/ Situs web Primer]
+* [http://www.pml.ac.uk/ Asal mula Primer]
+* [http://www.primer-e.com/index.htm metode]
+* Jenis analisis data populer yang lain:
+** [http://www.insightful.com/products/environstats/default.asp Environmental Stats for S-PLUS]
+** [http://www.minitab.com/products/minitab/features/ Minitab]
+** [http://www.spss.com/spss/data_analysis.htm SPSS]
+** [http://www.sas.com/technologies/analytics/statistics/stat/ SAS]
+** [http://socserv.mcmaster.ca/jfox/Misc/Rcmdr/ R commander]
+
+== Lihat pula ==
+[[Daftar perangkat lunak statistika]] 
+
+{{software-stub}}
+
+[[Kategori:Perangkat lunak statistika]]

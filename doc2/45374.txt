@@ -1,0 +1,42 @@
+Candir
+{{Taxobox
+| color = pink
+| name = Candir
+| image = Candiru.png
+| image_width = 200px
+| image_caption = ''Vandellia cirrhosa''
+| regnum = [[Animalia]]
+| phylum = [[Chordate|Chordata]]
+| classis = [[Actinopterygii]]
+| ordo = [[Siluriformes]]
+| familia = [[Trichomycteridae]]
+| genus = '''''Vandellia'''''
+| genus_authority = [[Georges Cuvier|Cuvier]] and [[Achille Valenciennes|Valenciennes]], [[1846]]
+| subdivision_ranks = Species
+| subdivision = 
+''V. balzanii''{{br}}
+''V. beccarii''{{br}}
+''V. cirrhosa''{{br}}
+''V. plazaii''{{br}}
+''V. sanguinea''{{br}}
+Ref: [http://www.fishbase.org/NomenClature/ScientificNameSearchList.cfm?Crit1_FieldName=SYNONYMS.SynGenus&Crit1_FieldType=CHAR&Crit1_Operator=EQUAL&Crit1_Value=Vandellia&Crit2_FieldName=SYNONYMS.SynSpecies&Crit2_FieldType=CHAR&Crit2_Operator=contains&Crit2_Value=&group=summary&backstep=-2 FishBase] 2002-08-10
+}}
+'''Candir''' atau '''canero''' (''Vandellia cirrhosa'') adalah sejenis ikan air tawar yang sekelompok dengan [[ikan lele]]. Jenis ini ditemukan di [[Sungai Amazon]] dan memiliki reputasi di antara penduduk lokal sebagai ikan paling ditakuti, bahkan lebih dari [[piranha]]. Spesies ini berukuran hanya sekitar satu inci panjangnya, berbentuk seperti [[belut]] dan tembus pandang sehingga sulit dilihat di air. Candiru adalah sejenis [[parasit]]. Ia masuk ke celah-celah [[insang]] ikan lain, mengeluarkan tulang belakangnya agar dapat berpegang di tempat, dan meminum darah di insang, sehingga dijuluki "ikan [[vampir]] dari [[Brazil]]".
+
+Terdapat mitos bahwa ikan ini tertarik pada [[air seni]] atau [[darah]] karena mangsa utama candiru mengeluarkan urea dari insangnya. Nyatanya, hasil penelitian ilmiah menunjukkan bahwa hal ini tidak benar.<ref name="Carvalho">{{cite journal|url=http://www.mnhn.fr/sfi/cybium/numeros/pdf/272pdf/01.analysecarvalho.pdf|title=Analyse D'Ouvrage|first=Marcelo R.|last=de Carvalho|journal=Cybium|year=2003|volume=27|issue=2|page=82|format=PDF|accessdate=2009-06-22}}</ref><ref name=Spotte>{{cite journal|journal=Environmental Biology of Fishes|volume=60|pages=459464|year=2001|title=Experiments on the feeding behavior of the hematophagous candiru.|first=Stephen|last=Spotte|coauthors=Petry, Paulo; Zuanon, Jansen A.S.|doi=10.1023/A:1011081027565}}</ref> Ikan ini juga tidak berburu dengan mencari urea, tetapi dengan penglihatan.<ref name=Spotte/>
+
+Pengobatan tradisional adalah dengan dua tanaman, Xagua (''[[Genipa americana]]'') dan apel [[Buitach]] yang dimasukkan ke daerah yang terkena. Kedua tanaman ini akan membunuh dan melarutkan ikan tersebut. Lebih sering, infeksi menyebabkan shock dan kematian korban sebelum candir dapat diambil.
+
+== Catatan kaki ==
+{{reflist}}
+
+== Pranala luar ==
+* [http://youtube.com/watch?v=eSLKZzuLC00&search=parasite%20fish Candiru attacking human video]
+* [http://www.straightdope.com/columns/010907.html "Straight Dope" article on Candiru]
+* [http://www.fishbase.org/Summary/SpeciesSummary.cfm?genusname=Vandellia&speciesname=cirrhosa FishBase summary and pictures of ''Vandellia cirrhosa'']
+* http://www.wemjournal.org/wmsonline/?request=get-abstract&issn=0953-9859&volume=002&issue=04&page=0304
+[[Kategori:Fauna]]
+
+[[Kategori:Ikan]]
+
+[[th:]]

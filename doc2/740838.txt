@@ -1,0 +1,18 @@
+Adobe OnLocation
+{{Infobox Software
+| name                   = Adobe OnLocation
+| logo                   = [[File:Adobe_OnLocation_CS5_icon.png|64px]]
+| screenshot             = 
+| caption                = Adobe Premiere Pro CS6 running on [[Windows 8]]
+| developer              = [[Adobe Systems]]
+| frequently updated = yes
+| programming language   = <!-- With citation, please -->
+| operating system       = [[Windows 8]] [[Windows 7]] or [[Mac OS X Snow Leopard]] and |title=System requirements|url=http://www.adobe.com/products/premiere/tech-specs.html|work=Adobe Premiere Pro CS6 Tech specs|publisher=[[Adobe Systems]]
+| genre                  = [[Video capturing software]]
+| license                = [[Commercial software|Commercial]] [[proprietary software]]
+| website                = {{URL|http://www.adobe.com/products/premiere.html}}
+}}
+'''Adobe OnLocation''' adalah program bawaan Adobe Premiere Pro yang digunakan untuk merekam video dari kamera DV dan VHS. Produk ini tidak bisa dibeli secara terpisah karena sudah terintegrasi dengan Adobe Premiere Pro. Produk ini biasanya digunakan oleh rumah-rumah atau perusahaan Broadcasting dan Pertelevisian. Fitur yang dimilikinya antara lain Capture, Batch Capture, hingga MultiCamera monitor. Setelah merekam, video hasil rekaman bisa diedit pada Adobe Premiere Pro.
+[[Berkas:Adobe_OnLocation_CS5_icon.png|thumb|Adobe OnLocation]]
+
+[[Kategori:Perangkat lunak Adobe]]

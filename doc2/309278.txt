@@ -1,0 +1,2 @@
+Templat:GPnew/PreloadIntro
+<includeonly>{{GPnew/Intro|<berkas A>|<berkas B>|<nomor GP>|<tahun GP>}}</includeonly>

@@ -1,0 +1,66 @@
+Bandar Udara Internasional Roshchino
+{{Infobox Airport 
+| name         = Roshchino International Airport
+| nativename   = 
+| nativename-a = 
+| nativename-r = 
+| image        = 
+| image-width  = 200
+| caption      = 
+| IATA         = TJM
+| ICAO         = USTR
+<center>{{Location map|Russia Tyumen Oblast|width=200|float=center
+|caption=|mark=Airplane_silhouette.svg|marksize=10
+|label=TJM|position=bottom
+|lat_deg=57|lat_min=10|lat_sec=06|lat_dir=N
+|lon_deg=65|lon_min=19|lon_sec=00|lon_dir=E
+}}<small>Lokasi Bandar Udara di Tyumen Oblast</small></center>
+| type         = Publik
+| owner        = 
+| operator     = 
+| city-served  = 
+| location     = Tyumen
+| elevation-f  = 371
+| elevation-m  = 113
+| coordinates  = {{Coord|57|10|6|N|065|19|0|E|type:airport|display=inline,title}}
+| website      = http://www.tjm.aero/
+| metric-elev  = 
+| metric-rwy   = 
+| r1-number    = 03/21
+| r1-length-f  = 9,852
+| r1-length-m  = 3,003
+| r1-surface   = Beton
+| r2-number    = 12/30
+| r2-length-f  = 8,871
+| r2-length-m  = 2,704
+| r2-surface   = [[Aspal]]
+| stat-year    = 
+| stat1-header = 
+| stat1-data   = 
+| stat2-header = 
+| stat2-data   = 
+| footnotes    = 
+}}
+'''Bandar Udara Internasional Roshchino''' {{Airport codes|TJM|USTR}} adalah [[bandar udara]] yang berlokasi di [[Tyumen Oblast]], yang berlokasi sekitar 13&nbsp;km di sebelah barat kota [[Tyumen]].
+
+== Maskapai dan destinasi ==
+{{Airport-dest-list
+|[[Aeroflot]]|Moscow-Sheremetyevo
+|[[Gazpromavia]]|Samara
+|[[Rossiya (airline)|Rossiya]]|St. Petersburg
+|[[S7 Airlines]]|Moscow-Domodedovo
+|[[Transaero]]|'''Seasonal:''' Barcelona
+|[[UTair Aviation]]|Anapa, Baku, Beloyarsky, Beryozovo, Igrim, Khanty-Mansiysk, Khujand, Krasnodar, Mineralnye Vody, Moscow-Domodedovo, Moscow-Vnukovo, Munich, Mys-Kamenny, Nadym, Nizhnevartovsk, Novy Urengoy, Noyabrsk, Nyagan, Salekhard, Sochi, Sovetsky, Surgut, Ufa, Uray
+|{{nowrap|[[Uzbekistan Airways]]}}|Andizhan, Tashkent
+|[[Yamal Airlines]]|Krasnoselkup, Moscow-Domodedovo, Nadym, Novy Urengoy, Prague, Salekhard, Tarko-Sale,Thessaloniki, Tolka, Yerevan
+}}
+
+== Situs resmi ==
+*[http://www.tjm.aero/ Situs resmi]
+
+{{Bandara di Rusia}}
+
+[[Kategori:Bandar udara di Rusia]]
+
+
+{{bandara-stub}}

@@ -1,0 +1,39 @@
+Buhui
+{{Infobox Settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+|subdivision_type = [[Negara]]
+|subdivision_name       = {{ROU}}
+|timezone=[[Eastern European Time|EET]]
+|utc_offset=+2
+|timezone_DST=[[Eastern European Summer Time|EEST]]
+|utc_offset_DST=+3
+|map_caption = Location of Buhui|
+
+|
+official_name=Buhui|
+image_shield=|
+|subdivision_type1=[[Provinsi]]|
+subdivision_name1=Bacu|
+|subdivision_type2=Status|
+subdivision_name2={{Autolink|Kota}}
+|settlement_type=Kota||
+|leader_title=[[Wali kota]]|
+leader_name=Ionel Turcea|
+|
+leader_party=[[Partidul Social Democrat]]|
+area_total_km2=39.85|
+population_as_of=2002|
+population_total=18980|latd=46|latm=42|lats=54|latNS=N|longd=26|longm=42|longs=15|longEW=E||
+website=http://www.primariabuhusi.ro/|
+}}
+'''Buhui''' adalah kota yang terletak di [[provinsi Bacu]], [[Rumania]], dengan jumlah penduduk sebesar 18.980 jiwa. Kota ini pertama kali disebutkan pada abad ke-15 dengan nama "Bodeti" .
+
+Di kota ini terdapat pabrik tekstil terbesar di Eropa tenggara. Namun, kapabilitas pabrik tersebut telah menurun drastis setelah tahun 1989 dan kini hanya mempekerjakan kurang dari 200 pekerja.
+
+== Pranala luar ==
+* http://www.primariabuhusi.ro/
+
+{{DEFAULTSORT:Buhusi}}
+[[Kategori:Kota di Rumania]]
+
+
+{{Romania-geo-stub}}

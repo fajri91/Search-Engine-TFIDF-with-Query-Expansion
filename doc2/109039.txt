@@ -1,0 +1,26 @@
+Bandar Udara Milk River (Madge)
+{{Kotakinfo bandara|nama=Bandar Udara Milk River (Madge)
+|IATA=N/A
+|ICAO=CFQ3
+|lokasi=[[Milk River, Alberta|Milk River]], [[Alberta]]
+|negara=[[Kanada]]
+|pengelola=P. Madge
+|tipe=Publik
+|waktu=UTC-7
+|elevasi=1,036 [[meter|m]] (3,400 [[feet|f]])
+|koordinat={{coor dms|49|08|41|N|112|05|02|W}}
+{{landaspacu|sudut=07/25|panjang_f=3,000|panjang_m=914|permukaan=Aspal}}
+}}
+
+'''Bandar Udara Milk River (Madge)''' {{airport codes|N/A|CFQ3}}, terletak 1.5 nm (2.78 km) selatan [[Milk River, Alberta|Milk River]], [[Alberta]], [[Kanada]].
+
+== Lihat pula ==
+* [[Bandar Udara Milk River]]
+
+== Referensi ==
+* {{CFS}}
+
+{{Canadian Airports}}
+{{bandara-Alberta-stub}}
+
+[[Kategori:Bandar udara di Alberta]]

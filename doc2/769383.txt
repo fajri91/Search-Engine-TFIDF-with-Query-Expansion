@@ -1,0 +1,57 @@
+Templat:Lepturinae
+{{Navbox
+| name  = Lepturinae
+| title = Subfamilia ''[[Lepturinae]]''
+| image=
+| state = collapsed
+| bodyclass = hlist
+| above =
+
+| group0 = Tribus
+| list0=
+* ''[[Desmocerini]]''
+* ''[[Encyclopini]]''
+* ''[[Rhagiini]]''
+* ''[[Xylosteini]]''
+* ''[[Lepturini]]''
+
+| group100 = Tribus ''[[Desmocerini]]''
+| list100=
+* ''[[Desmocerus]]''
+
+| group200 = Tribus ''[[Encyclopini]]''
+| list200=
+* ''[[Encyclops]]''
+* ''[[Leptalia]]''
+* ''[[Pyrotrichus]]''
+
+| group300 = Tribus ''[[Rhagiini]]''<br>termasuk ''Oxymirini'', ''Rhamnusiini''
+| list300= {{Rhagiini|border=child}}
+
+| group400 = Tribus ''[[Xylosteini]]''
+| list400=
+* ''[[Caraphia]]''
+* ''[[Formosotoxotus]]''
+* ''[[Leptorhabdium]]''
+* ''[[Noctileptura]]''
+* ''[[Palaeoxylosteus]]''
+* ''[[Pseudoxylosteus]]''
+* ''[[Xylosteus]]''
+
+| group500 = Tribus ''[[Lepturini]]''
+| list500= {{Lepturini|border=child}}
+
+| group600 = '''''[[Incertae sedis]]''''':
+| list600=
+* ''[[Centrodera]]''
+* ''[[Cortodera]]''
+* ''[[Grammoptera]]''
+* ''[[Houzhenzia]]''
+* ''[[Sachalinobia]]''
+* ''[[Teledapus]]''
+
+| below =
+}}<noinclude>
+[[Kategori:Lepturinae| ]]
+[[Kategori:Templat navigasi hewan]]
+</noinclude>

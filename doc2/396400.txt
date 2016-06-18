@@ -1,0 +1,35 @@
+Lokomobil
+[[Berkas:Marshall Portable Engine 87866 (GDSF 2007).JPG|thumb|300px|Lokomobil Marshal 6 nHP. Perhatikan bahwa [[roda gila]]nya sedang terhubung dengan mesin lain melalui sabuk]]
+
+'''Lokomobil''' adalah [[mesin uap]] berukuran kecil yang memiliki [[roda]] atau luncuran sehingga dapat dipindahkan ke berbagai tempat. [[Mesin]] ini tidak bisa menggerakkan dirinya sendiri, biasanya ditarik oleh [[kuda]], [[kerbau]], atau [[hewan lainnya]], atau oleh [[mesin traksi]]. Mesin protabel biasanya digunakan untuk menggerakan [[alat dan mesin pertanian|mesin-mesin pertanian]], seperti [[penggiling]], [[perontok]], dan sebagainya, hingga di [[kehutanan]] untuk menggerakan mesin-mesin pemotong kayu. 
+
+== Sejarah ==
+Dalam teknologi mesin uap, desain awal dari sebuah mesin uap mengambil tempat di [[Inggris]], termasuk lokomobil ini. Awalnya, mesin uap terlalu besar dan mahal untuk digunakan di pertanian. Namun pada tahun 1799 di wilayah [[Yorkshire]], mesin uap telah digunakan untuk mesin perontok <ref name="Lane M R">Lane M R. 1976. ''Pride of the Road (The Pictorial Story of Traction Engine)''. New English Library</ref>. Aplikasi lainnya tercatat pada tahun 1812 ketika [[Richard Trevithick]] mendesain sebuah mesin uap semiportabel, [[mesin uap stasioner]] untuk penggunaan di bidang pertanian, yang disebut dengan ''barn engine'' <ref name="Lane M R" />. Mesin ini berupa mesin bertekanan tinggi yang menghasilkan daya putar dengan [[boiler Cornish]]. Pengoperasian mesin ini lebih murah dibandingkan dengan menggunakan kuda <ref name="Hodge J">Hodge J. 1973. ''Richard Trevithick (Lifelines 6)''. Shire Publications.</ref>. Meski istilah 'semiportabel' mengacu pada kemudahannya dalam memindahkan dan memasangnya tanpa harus membongkar pasang komponen-komponennya, mesin ini sesungguhnya stasioner dan tidak dimaksudkan untuk dipindah-pindahkan. Mesin ini digunakan untuk menggerakan [[pompa air]], ''[[hammer mill]]'', ''bone-chrusher'', mesin pemotong, dan sebagainya. 
+
+Pada tahun 1839, lokomobil sesungguhnya baru muncul dan diaplikasikan pada pekerjaan di bidang pertanian. [[William Tuxford]] memulai pembuatan lokomobil yang disatukan dengan [[boiler]] berbentuk lokomotif dengan [[cerobong asap]] horizontal. Silinder tunggal dan poros utama berada di atas boiler, dan keseluruhan rakitan dipasangi roda sehingga mampu dipindah-pindahkan. Roda depan mampu dikendalikan dan badan mesin bisa dipasangkan dengan kuda untuk menariknya. [[Roda gila]] yang besar dipasang terhubung dengan poros utama dan sabuk yang terbuat dari kulit digunakan untuk menghubungkan mesin yang akan digerakkan dengan lokomobil. 
+
+Lima produsen pertama lokomobil di Inggris yaitu: 
+* Alexander Dean dari Birmingham
+* Ransomes dari Ipswich
+* William Tuxford and Sons dari Boston, Lincolnshire
+* Howden dari Boston, Lincolnshire
+* Clayton and Shuttleworth dari Lincoln
+
+Clayton and Shuttleworth merupakan produsen ternama yang membangun mesin pertamanya pada tahun 1845, lokomobil dengan dua silinder. Pada tahun 1890, perusahaan ini telah memproduksi lebih dari 26000 lokomobil, dan banyak yang diekspor ke seluruh dunia <ref name="Lane M R" />.
+
+Sejalan dengan perkembangan lokomobil, para insinyur mulai membuat lokomobil mampu menggerakkan dirinya sendiri (''self-propelled''), yang menjadi cikal bakal [[mesin traksi]]. Thomas Aveling, yang kemudian membangun perusahaan Aveling and Porter, mulai membangun mesin traksi dari lokomobil. Pemikiran ini dimulai dari kemampuan mesin itu sendiri yang mencapai puluhan kali tenaga kuda namun tidak mampu menggerakkan dirinya sendiri <ref name="Lane M R" />. Perlahan tidak bisa dihindari bahwa mesin traksi menjadi cukup diandalkan untuk berbagai pekerjaan dan menggantikan lokomobil sejak tahun 1860an. 
+
+Namun mesin traksi tidak bisa menggantikan sepenuhnya lokomobil dikarenakan biaya pembuatan mesin traksi yang mahal. Mesin traksi membutuhkan [[sistem transmisi]] [[roda gigi]] yang menjadikannya cukup mahal dibandingkan lokomobil yang hanya berupa susunan [[piston]] dan [[poros engkol]] yang sederhana. Namun pada tahun 1960, lokomobil tidak lagi diproduksi dikarenakan perkembangan mesin traksi yang begitu pesat. Selain itu, [[mesin pembakaran dalam]] telah mengambil peran mesin uap (stasioner maupun portabel) dalam menyediakan energi yang besar bagi kegiatan pertanian. 
+
+== Penggunaan ==
+Lokomobil biasanya digunakan untuk menggerakan mesin perontok, mesin penggiling, pompa sentrifugal, penghancur batu, [[dinamo]], pemotong jerami, dan sebagainya. 
+
+Secara umum, cara penggunaan lokomobil adalah dengan membawanya ke area pekerjaan, seperti lahan pertanian. Lalu, sabuk panjang dihubungkan dari roda gila yang ada pada lokomobil ke roda penggerak dari mesin yang akan digerakkan dengan lokomobil. 
+
+Dalam banyak kasus, lokomobil dilepas berbagai komponennya untuk berbagai keperluan. Ada yang melepas bagian rodanya untuk dijadikan mesin yang stasioner. Ada juga yang melepas silindernya sehingga yang berfungsi hanya boilernya untuk menghasilkan uap. 
+
+== Referensi ==
+{{reflist}}
+
+[[Kategori:Ilmu teknik]]
+[[Kategori:Mesin]]

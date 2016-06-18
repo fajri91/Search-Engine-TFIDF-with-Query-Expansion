@@ -1,0 +1,32 @@
+Aspidura
+{{Taxobox
+| name = ''Aspidura''
+| image = 
+| image_width = 
+| image_caption = 
+| regnum = [[Animalia]]
+| phylum = [[Chordata]]
+| subphylum = [[Vertebrata]]
+| classis = [[Reptil]]ia
+| ordo = [[Squamata]]
+| subordo = [[Serpentes]]
+| familia = [[Natricidae]]
+| genus = '''''Aspidura'''''
+| genus_authority = [[Johann Georg Wagler|Wagler]], 1830
+}}
+'''''Aspidura''''' adalah marga ular rumput yang endemik di [[Sri Lanka]].
+
+==Spesies==
+* ''[[Aspidura brachyorrhos]]'' (Boie, 1827)
+* ''[[Aspidura ceylonensis]]'' Gnther, 1858
+* ''[[Aspidura copei]]'' Gnther, 1864
+* ''[[Aspidura deraniyagalae]]'' Gans & Fetcho, 1982
+* ''[[Aspidura drummondhayi]]'' Boulenger, 1904
+* ''[[Aspidura guentheri]]'' Ferguson, 1876
+* ''[[Aspidura trachyprocta]]'' Cope, 1860
+
+==Referensi==
+* [http://www.cbif.gc.ca/acp/fra/siti/regarder?tsn=700259 ITIS: ''Aspidura'' Wagler, 1830]
+* [http://reptile-database.reptarium.cz/advanced_search?submit=Search&exact%5B0%5D=genus&genus=Aspidura ''Aspidura sp.'' @ The Reptile Database]
+
+[[Kategori:Natricidae]]

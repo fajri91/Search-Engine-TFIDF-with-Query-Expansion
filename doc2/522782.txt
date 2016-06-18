@@ -1,0 +1,53 @@
+Adobe eLearning Suite
+{{Infobox Software
+| name                   = Adobe eLearning Suite
+| logo                   = [[Berkas:Adobe eLearning Suite v6 icon.png]]
+| screenshot             = 
+| caption                = 
+| author                 = 
+| developer              = [[Adobe Systems]]
+| released               = 
+| latest release version = v6.0
+| latest release date    = Juli 18,2012
+| latest preview version = 
+| latest preview date    = 
+| operating system       = [[Microsoft Windows|Windows]], [[Mac OS X]]
+| platform               = 
+| language               = 
+| status                 = 
+| genre                  = 
+| license                = 
+| website                = [http://www.adobe.com/products/elearningsuite/ Adobe eLearning Suite] 
+}}
+
+Adobe eLearning Suite adalah kumpulan aplikasi yang dibuat oleh Adobe Systems untuk profesional belajar, desainer instruksional, manajer pelatihan, pengembang konten, dan pendidik.
+
+Suite ini memungkinkan pengguna untuk penulis, mengelola, dan mempublikasikan informasi instruksional interaktif tersebut termasuk screencast demonstrasi, simulasi, dan konten interaktif lainnya.<ref>[http://www.adobe.com/products/elearningsuite/faq/ Adobe eLearning Suite FAQ]</ref>
+
+Adobe Flash dan Dreamweaver aplikasi termasuk dalam Suite ini adalah versi khusus yang berisi fitur tambahan untuk meningkatkan alur kerja dan integrasi antara aplikasi. Versi ini hanya tersedia sebagai bagian dari suite dan tidak dapat dibeli secara terpisah. 
+==Daftar aplikasi==
+Inilah daftar aplikasi yang ada di Adobe eLearning Suite.Yang dicetak tebal adalah aplikasi yang dijatuhkan.
+*[[Adobe Acrobat]]
+*'''[[Adobe Device Central]]'''
+*[[Adobe Media Encoder]]
+*[[Adobe Photoshop]]
+*'''Adobe SCORM Packager'''
+*[[Adobe Captivate]]
+*'''[[Adobe Authorware]]'''
+*[[Adobe Flash]]
+*[[Adobe Presenter]]
+*[[Adobe Audition]]
+*'''[[Adobe Soundbooth]]'''
+*[[Adobe Bridge]]
+*[[Adobe Dreamweaver]]
+===Produk Lainnya===
+*[[Adobe Connect]]
+*Adobe ExtendScript
+*Adobe Extension Manager
+
+==Rujukan==
+{{reflist}}
+
+[[Kategori:Perangkat lunak Adobe]]
+[[Kategori:Perangkat lunak Windows]]
+[[Kategori:Perangkat lunak Mac OS]]

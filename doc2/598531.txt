@@ -1,0 +1,35 @@
+Corythalia voluta
+{{Taxobox
+|name = Corythalia voluta
+|status = 
+|image = 
+|image_caption = 
+|domain = 
+|regnum = [[Animalia]]
+|phylum = [[Arthropoda]]
+|classis = [[Arachnida]]
+|ordo = [[Araneae]]
+|familia = [[Salticidae]]
+|genus =Corythalia
+|species = Corythalia voluta
+|binomial = Corythalia voluta
+|binomial_authority =F O P-Cambridge, 1901
+|range_map = 
+|range_map_caption = 
+|image2 = 
+|image2_caption = 
+|synonyms = 
+}}
+'''''Corythalia voluta''''' adalah spesies [[laba-laba]] yang tergolong [[familia]] [[Salticidae]]. Spesies ini juga merupakan bagian dari genus [[Corythalia]] dan ordo [[Araneae]]. Nama ilmiah dari spesies ini pertama kali diterbitkan pada tahun 1901 oleh F O P-Cambridge.
+
+Laba-laba ini biasanya banyak ditemui di El Salvador, Panama.
+
+== Referensi ==
+
+* Platnick, Norman I. (2010): [http://research.amnh.org/entomology/spiders/catalog/Salticidae.html The world spider catalog], version 10.5. ''American Museum of Natural History''.
+
+{{DEFAULTSORT:Corythalia voluta}}
+
+[[Kategori:Salticidae]]
+
+{{labalaba-stub}}

@@ -1,0 +1,228 @@
+Induktor
+{{Infobox komponen elektronik
+|komponen= Induktor
+|foto=[[Berkas:Electronic component inductors.jpg|225px]]
+|judul_foto= Beberapa jenis induktor harga rendah.
+|tipe=[[komponen pasif|Pasif]]
+|prinsip kerja=[[Induksi elektromagnetik]]
+|penemu=
+|pembuatan_pertama=[[Michael Faraday]](1831)
+|simbol=[[Berkas:Inductor.svg]]}}
+
+Sebuah '''induktor''' atau '''reaktor''' adalah sebuah [[komponen elektronika]] pasif (kebanyakan berbentuk [[torus]]) yang dapat menyimpan energi pada [[medan magnet]] yang ditimbulkan oleh [[arus listrik]] yang melintasinya. Kemampuan induktor untuk menyimpan energi magnet ditentukan oleh [[induktansinya]], dalam satuan Henry. Biasanya sebuah induktor adalah sebuah kawat penghantar yang dibentuk menjadi [[kumparan]], lilitan membantu membuat medan magnet yang kuat di dalam kumparan dikarenakan hukum induksi Faraday. Induktor adalah salah satu komponen elektronik dasar yang digunakan dalam rangkaian yang arus dan tegangannya berubah-ubah dikarenakan kemampuan induktor untuk memproses [[arus bolak-balik]].
+
+Sebuah induktor ideal memiliki induktansi, tetapi tanpa [[resistansi]] atau [[kapasitansi]], dan tidak memboroskan daya. Sebuah induktor pada kenyataanya merupakan gabungan dari induktansi, beberapa resistansi karena resistivitas kawat, dan beberapa kapasitansi. Pada suatu frekuensi, induktor dapat menjadi sirkuit resonansi karena kapasitas parasitnya. Selain memboroskan daya pada resistansi kawat, induktor berinti magnet juga memboroskan daya di dalam inti karena efek histeresis, dan pada arus tinggi mungkin mengalami nonlinearitas karena penjenuhan.
+
+== Fisika ==
+
+[[Induktansi]] (''L'') (diukur dalam [[Henry]]) adalah efek dari medan magnet yang terbentuk disekitar konduktor pembawa arus yang bersifat menahan perubahan arus. Arus listrik yang melewati konduktor membuat medan magnet sebanding dengan besar arus. Perubahan dalam arus menyebabkan perubahan medan magnet yang mengakibatkan gaya elektromotif lawan melalui GGL induksi yang bersifat menentang perubahan arus. Induktansi diukur berdasarkan jumlah gaya elektromotif yang ditimbulkan untuk setiap perubahan arus terhadap waktu. Sebagai contoh, sebuah induktor dengan induktansi 1 Henry menimbulkan gaya elektromotif sebesar 1 volt saat arus dalam indukutor berubah dengan kecepatan 1 ampere setiap sekon. Jumlah lilitan, ukuran lilitan, dan material inti menentukan induktansi.
+
+== Faktor ''Q'' ==
+
+Sebuah induktor ideal tidak menimbulkan kerugian terhadap arus yang melewati lilitan. Tetapi, induktor pada umumnya memiliki resistansi lilitan dari kawat yang digunakan untuk lilitan. Karena resistansi lilitan terlihat berderet dengan induktor, ini sering disebut resistansi deret. Resistansi deret induktor mengubah arus listrik menjad bahang, yang menyebabkan pengurangan kualitas induktif. Faktor kualitas atau "Q" dari sebuah induktor adalah perbandingan reaktansi induktif dan resistansi deret pada frekuensi tertentu, dan ini merupakan efisiensi induktor. Semakin tinggi faktor Q dari induktor, induktor tersebut semakin mendekati induktor ideal tanpa kerugian.
+
+Faktor Q dari sebuah induktor dapat diketahui dari rumus berikut, di mana ''R'' merupakan resistansi internal dan <math>\omega{}L</math> adalah resistansi kapasitif atau induktif pada resonansi:
+
+<math>Q = \frac{\omega{}L}{R}</math>
+
+Dengan menggunakan inti feromagnetik, induktansi dapat ditingkatkan untuk jumlah tembaga yang sama, sehingga meningkatkan faktor Q. Inti juga memberikan kerugian pada frekuensi tinggi. Bahan inti khusus dipilih untuk hasil terbaik untuk jalur frekuensi tersebut. Pada VHF atau frekuensi yang lebih tinggi, inti udara sebaiknya digunakan.
+
+Lilitan induktor pada inti feromagnetik mungkin jenuh pada arus tinggi, menyebabkan pengurangan induktansi dan faktor Q yang sangat signifikan. Hal ini dapat dihindari dengan menggunakan induktor inti udara. Sebuah induktor inti udara yang didesain dengan baik dapat memiliki faktor Q hingga beberapa ratus.
+
+Sebuah kondensator nyaris ideal (faktor Q mendekati tak terhingga) dapat dibuat dengan membuat lilitan dari kawat superkonduktor pada helium atau nitrogen cair. Ini membuat resistansi kawat menjadi nol. Karena induktor superkonduktor hampir tanpa kerugian, ini dapat menyimpan sejumlah besar energi listrik dalam lilitannya.
+
+== Penggunaan ==
+
+[[Berkas:Choke electronic component Epcos 2x47mH 600mA common mode.jpg|thumb|200px|Induktor dengan dua lilitan 47mH, sering dijumpai pada pencatu daya.]]
+
+Induktor sering digunakan pada sirkuit analog dan pemroses sinyal. Induktor berpasangan dengan kondensator dan komponen lain membentuk sirkuit tertala. Penggunaan induktor bervariasi dari penggunaan induktor besar pada pencatu daya untuk menghilangkan dengung pencatu daya, hingga induktor kecil yang terpasang pada kabel untuk mencegah interferensi frekuensi radio untuk dprd melalui kabel. Kombinasi induktor-kondensator menjadi rangkaian tala dalam pemancar dan penerima radio.
+Dua induktor atau lebih yang terkopel secara magnetik membentuk transformator.
+
+Induktor digunakan sebagai penyimpan energi pada beberapa pencatu daya moda sakelar. Induktor dienergikan selama waktu tertentu, dan dikuras pada sisa siklus. Perbandingan transfer energi ini menentukan tegangan keluaran. Reaktansi induktif ''X''<sub>L</sub> ini digunakan bersama semikonduktor aktif untuk menjaga tegangan dengan akurat.
+Induktor juga digunakan dalam sistem transmisi listrik, yang digunakan untuk mengikangkan paku-paku tegangan yang berasal dari petir, dan juga membatasi arus pensakelaran dan arus kesalahan. Dalam bidang ini, indukutor sering disebut dengan reaktor.
+
+Induktor yang memiliki induktansi sangat tinggi dapat disimulasikan dengan menggunakan [[girator]].
+
+== Konstruksi induktor ==
+
+[[Berkas:Coils.jpg|thumb|150px|Induktor, skala dalam sentimeter.]]
+
+Sebuah induktor biasanya dikonstruksi sebagai sebuah lilitan dari bahan penghantar, biasanya kawat tembaga, digulung pada inti magnet berupa udara atau bahan feromagnetik. Bahan inti yang mempunyai permeabilitas magnet yang lebih tinggi dari udara meningkatkan medan magnet dan menjaganya tetap dekat pada induktor, sehingga meningkatkan induktansi induktor. Induktor frekuensi rendah dibuat dengan menggunakan baja laminasi untuk menekan arus eddy. Ferit lunak biasanya digunakan sebagai inti pada induktor frekuensi tingi, dikarenakan ferit tidak menyebabkan kerugian daya pada frekuensi tinggi seperti pada inti besi. Ini dikarenakan ferit mempunyai lengkung histeresis yang sempit dan resistivitasnya yang tinggi mencegah arus eddy. Induktor dibuat dengan berbagai bentuk. Sebagian besar dikonstruksi dengan menggulung kawat tembaga email disekitar bahan inti dengan kaki-kali kawat terlukts keluar. Beberapa jenis menutup penuh gulungan kawat di dalam material inti, dinamakan induktor terselubungi. Beberapa induktor mempunyai inti yang dapat diubah letaknya, yang memungkinkan pengubahan induktansi. Induktor yang digunakan untuk menahan frekuensi sangat tinggi biasanya dibuat dengan melilitkan tabung atau manik-manik ferit pada kabel transmisi.
+
+Induktor kecil dapat dicetak langsung pada papan rangkaian cetak dengan membuat jalur tembaga berbentuk spiral. Beberapa induktor dapat dibentuk pada rangkaian terintegrasi menhan menggunakan inti planar. Tetapi bentuknya yang kecil membatasi induktansi. Dan girator dapat menjadi pilihan alternatif.
+
+== Jenis-jenis lilitan ==
+
+=== Lilitan ferit sarang madu ===
+
+Lilitan sarang madu dililit dengan cara bersilangan untuk mengurangi efek kapasitansi terdistribusi. Ini sering digunakan pada rangkaian tala pada penerima radio dalam jangkah gelombang menengah dan gelombang panjang. Karena konstruksinya, induktansi tinggi dapat dicapai dengan bentuk yang kecil.
+
+=== Lilitan inti toroid ===
+
+Sebuah lilitan sederhana yang dililit dengan bentuk silinder menciptakan medan magnet eksternal dengan kutub utara-selatan. Sebuah lilitan toroid dapat dibuat dari lilitan silinder dengan menghubungkannya menjadi berbentuk donat, sehingga menyatukan kutub utara dan selatan. Pada lilitan toroid, medan magnet ditahan pada lilitan. Ini menyebabkan lebih sedikit radiasi magnetik dari lilitan, dan kekebalan dari medan magnet eksternal.
+
+== Rumus induktansi ==
+
+{| class="wikitable"
+! Konstruksi
+! Rumus
+! Besaran (SI, kecuali disebutkan khusus)
+|-
+! Lilitan silinder
+| <math>L=\frac{\mu_0KN^2\pi r^2}{l}</math>
+|
+* ''L'' = induktansi
+* ''<sub>0</sub>'' = permeabilitas vakum
+* ''K'' = koefisien Nagaoka
+* ''N'' = jumlah lilitan
+* ''r'' = jari-jari lilitan
+* ''l'' = panjang lilitan
+|-
+!Kawat lurus
+| <math>L =200 \, l \left(\ln\frac{4l}{d}-1\right)10^{-9}</math>
+|
+* ''L'' = induktansi
+* ''l'' = panjang kawat
+* ''d'' = diameter kawat
+|-
+! Lilitan silinder pendek berinti udara
+| <math>L=\frac{r^2N^2}{9r+10l}</math>
+|
+* ''L'' = induktansi (H)
+* ''r'' = jari-jari lilitan (in)
+* ''l'' = panjang lilitan (in)
+* ''N'' = jumlah lilitan
+|-
+!Lilitan berlapis-lapis berinti udara
+| <math>L = \frac{0.8r^2N^2}{6r+9l+10d}</math>
+|
+* ''L'' = induktansi (H)
+* ''r'' = rerata jari-jari lilitan (in)
+* ''l'' = panjang lilitan (in)
+* ''N'' = jumlah lilitan
+* ''d'' = tebal lilitan (in)
+|-
+! Lilitan spiral datar berinti udara
+| <math>L=\frac{r^2N^2}{(2r+2.8d) \times 10^5}</math>
+|
+* ''L'' = induktansi
+* ''r'' = rerata jari-jari spiral
+* ''N'' = jumlah lilitan
+* ''d'' = tebal lilitan
+|-
+!Inti toroid
+| <math>L=\mu_0\mu_r\frac{N^2r^2}{D}</math>
+|
+* ''L'' = induktansi
+* ''<sub>0</sub>'' = permeabilitas vakum
+* ''<sub>r</sub>'' = permeabilitas relatif bahan inti
+* ''N'' = jumlah lilitan
+* ''r'' = jari-jari gulungan
+* ''D'' = diameter keseluruhan
+|}
+
+== Dalam sirkuit elektrik ==
+
+Sebuah induktor menolak perubahan arus. Sebuah induktor ideal tidak menunjukkan resistansi kepada arus rata, tetapi hanya induktor superkonduktor yang benar-benar memiliki resistansi nol.
+Pada umumnya, hubungan antara perubahan tegangan, induktansi, dan perubahan arus pada induktor ditentukan oleh rumus diferensial:
+
+:<math>v(t) = L \frac{di(t)}{dt}</math>
+
+Jika ada arus bolak-balik sinusoida melalui sebuah induktor, tegangan sinusoida diinduksikan. Amplitudo tegangan sebanding dengan amplitudo arus dan frekuensi arus.
+
+:<math>i(t) = I_P \sin(2 \pi f t)\,</math>
+
+:<math>\frac{di(t)}{dt} = 2 \pi f I_P \cos(2 \pi f t)</math>
+
+:<math>v(t) = 2 \pi f L I_P \cos(2 \pi f t)\,</math>
+
+Pada situasi ini, fase dari gelombang arus tertinggal 90 dari fase gelombang tegangan.
+
+Jika sebuah induktor disambungkan ke sumber arus searah, dengan harga "I" melalui sebuah resistansi "R" dan sumber arus berimpedansi nol, persamaan diferensial diatas menunjukkan bahwa arus yang melalui induktor akan dibuang secara eksponensial:
+
+:<math>\ i(t) = I (1-e^{\frac{-tR}{L}})</math>
+
+=== Analisis sirkuit Laplace (s-domain) ===
+
+Ketika menggunakan analisis sirkuit [[transformasi Laplace]], impedansi pemindahan dari induktor ideal tanpa arus sebelumnya ditunjukkan dalam domain s oleh:
+
+:<math>Z(s) = Ls\, </math>
+
+::: di mana
+:::: ''L'' adalah induktansi
+:::: ''s'' adalah frekuensi kompleks
+
+Jika induktor telah memiliki arus awal, ini dapat ditunjukkan dengan:
+* menambahkan sumber tegangan berderet dengan induktor dengan harga:
+
+:<math> L I_0 \,</math>
+
+(''Pegiatikan bahwa sumber tegangan harus berlawanan kutub dengan arus awal'')
+
+* atau dengan menambahkan sumber arus berjajar dengan induktor, dengan harga:
+
+:<math> \frac{I_0}{s} </math>
+
+::: di mana
+:::: ''L'' adalah induktansi
+:::: ''<math>I_0</math> adalah arus awal
+
+=== Jejaring induktor ===
+
+Induktor dalam konfigurasi kakap memiliki beda potensial yang sama. Untuk menemukan induktansi ekivalen total (''L''<sub>eq</sub>):
+
+: [[Berkas:inductors in parallel.svg|diagram induktor jajar]]
+
+:<math> \frac{1}{L_\mathrm{eq}} = \frac{1}{L_1} + \frac{1}{L_2} + \cdots +  \frac{1}{L_n}</math>
+
+Arus dalam induktor deret adalah sama, tetapi tegangan yang membentangi setiap induktor bisa berbeda. Penjumlahan dari beda potensial dari beberapa induktor seri sama dengan tegangan total. Untuk menentukan todu total digunakan rumus:
+
+: [[Berkas:inductors in series.svg|diagram induktor deret]]
+
+:<math> L_\mathrm{eq} = L_1  + L_2 + \cdots + L_n \,\! </math>
+
+Hubungan tersebut hanya benar jika tidak ada kopling magnetis antar kumparan.
+
+=== Energi yang tersimpan ===
+
+Energi yang tersimpan di induktor ekivalen dengan usaha yang dibutuhkan untuk mengalirkan arus melalui induktor, dan juga medan magnet:
+
+:<math> E_\mathrm{stored} = {1 \over 2} L I^2 </math>
+
+Di mana ''L'' adalah induktansi dan ''I'' adalah arus yang melalui induktor.
+
+== Lihat pula ==
+* [[Komponen elektronik]]
+* [[Kondensator]]
+* [[Resistor]]
+* [[Memristor]]
+* [[Elektronika]]
+* [[Girator]]
+* [[Induktansi]]
+* [[Inti magnet]]
+* [[Gaya gerak magnet]] (GGM)
+* [[Solenoid]]
+* [[Transformator]]
+* [[Reaktansi]]
+* [[Sirkuit RL]]
+* [[Sirkuit RLC]]
+
+== Sinonim ==
+* [[Koil]]
+* [[Choke]]
+* [[Reaktor]]
+
+== Catatan ==
+{{reflist}}
+
+== Pranala luar ==
+* [http://electronics.howstuffworks.com/inductor1.htm Konsep dasar induktansi]
+* [http://www.lightandmatter.com/html_books/4em/ch07/ch07.html Buku panduan induktor]
+* [http://www.mpdigest.com/issue/Articles/2005/aug2005/agilent/Default.asp Artikel mengenai karakteristik induktor]
+* [http://www.66pacific.com/calculators/coil_calc.aspx Penghitung induktansi online]
+* [http://www.phys.unsw.edu.au/~jw/AC.html Sirkuit AC]
+* [http://www.mikroe.com/en/books/keu/03.htm Mengenal lilitan dan transformator]
+
+{{Komponen elektronika}}
+
+[[Kategori:Penyimpan energi]]

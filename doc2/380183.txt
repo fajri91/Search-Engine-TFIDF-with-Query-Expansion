@@ -1,0 +1,24 @@
+Piramida energi
+[[Berkas:Piramidaenergi.jpg|thumb|right|250px|Diagram Piramida Energi]]
+
+'''Piramida energi''' menggambarkan banyaknya energi yang tersimpan dalam 6 tahun yang digunakan senyawa organik sebagai bahan makanan.<ref name="BSE1">Buku sekolah elektronik {{cite book|last= Idun Kistinnah, Endang Sri Lestari|first=|authorlink= http://bse.depdiknas.go.id/|coauthors=|title= Biologi 1 : Makhluk Hidup dan Lingkungannya Untuk SMA/MA Kelas X|year= 2009|publisher= Pusat Perbukuan Departemen Pendidikan Nasional|location= Jakarta|id= ISBN 978-979-068-129-3 (no. jilid lengkap) / ISBN 978-979-068-131-6 }}</ref> Dasar penentuan piramida energi adalah dengan cara menghitung jumlah energi tiap satuan luas yang masuk ke [[tingkat trofik]] dalam waktu tertentu, (misalnya per jam, per hari, per tahun). Piramida energi dapat memberikan gambaran lebih akurat tentang kecepatan aliran energi dalam ekosistem atau produktivitas pada tingkat trofik. Kandungan energi tiap trofik sangat ditentukan oleh tingkat trofiknya sehingga bentuk grafiknya sesuai dengan piramida ekologi yang sesungguhnya di lingkungan.<ref name="BSE2">Buku sekolah elektronik {{cite book|last= Moch Anshori, Djoko Martono|first=|authorlink= http://bse.depdiknas.go.id/|coauthors=|title= Biologi 1 : Untuk Sekolah Menengah Atas (SMA)-Madrasah Aliyah (MA) Kelas X|year= 2009|publisher= Pusat Perbukuan Departemen Pendidikan Nasional|location= Jakarta|id= ISBN 978-979-068-129-3 ( no.jil.lengkap) / ISBN 978-979-068-130-9 }}</ref> Energi yang mampu disimpan oleh individu tiap trofik dinyatakan satuan kalori per m per satuan waktu (kal/m2/th).<ref name="BSE1"></ref>
+
+[[Berkas:Piramida_energi_gambar.jpg|thumb|left|200px|Gambar Piramida Jumlah]]
+
+Pada piramida energi tampak jelas adanya penurunan jumlah energi secara bertahap dari trofik terendah ke trofik di atasnya. Penurunan ini disebabkan oleh hal-hal berikut.<ref name="Erlangga">{{cite book|last= D. A. Pratiwi, Sri Maryati, Srikini, Suharno, Bambang S.|first=|authorlink= http://www.erlangga.co.id|coauthors=|title= BIOLOGI SMA Jilid 1 untuk Kelas X Berdasarkan Standar Isi 2006|year= 2007|publisher= Penerbit Erlangga|location= Jakarta|id= ISBN 979-781-726-1 }}</ref>
+
+#Hanya sejumlah makanan tertentu yang dapat dimakan oleh organisme trofik di atasnya.<ref name="BSE2"></ref>
+#Beberapa bahan makanan yang sulit dicerna dibuang dalam keadaan masih mengandung energi kimia.<ref name="BSE2"></ref>
+#Hanya sebagian energi kimia dalam bahan makanan yang dapat disimpan dalam sel dan sebagian lainnya untuk melakukan aktivitas hidup.<ref name="BSE2"></ref>
+
+Selain itu bentuk piramida energi jika dibandingkan pada suatu tempat dengan tempat lain, dapat diketahui efisiensi produktivitas pada kedua tempat itu.
+
+==Lihat pula==
+*[[Piramida ekologi]]
+
+==Referensi==
+{{reflist}}
+
+[[Kategori:Biologi]]
+[[Kategori:Ekosistem]]
+[[Kategori:Piramida ekologi]]

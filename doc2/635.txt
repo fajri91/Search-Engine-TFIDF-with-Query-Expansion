@@ -1,0 +1,130 @@
+Pemrograman
+{{periksaterjemahan|date=2012}}
+'''Pemrograman''' adalah proses menulis, menguji dan memperbaiki (''debug''), dan memelihara kode yang membangun sebuah program [[komputer]]. Kode ini ditulis dalam berbagai [[bahasa pemrograman]]. Tujuan dari pemrograman adalah untuk memuat suatu program yang dapat melakukan suatu perhitungan atau 'pekerjaan' sesuai dengan keinginan si pemrogram (programmer). Untuk dapat melakukan pemrograman, diperlukan keterampilan dalam [[algoritma]], [[logika]], [[bahasa pemrograman]], dan di banyak kasus, pengetahuan-pengetahuan lain seperti [[matematika]].
+
+Pemrograman adalah sebuah seni dalam menggunakan satu atau lebih [[algoritma]] yang saling berhubungan dengan menggunakan sebuah [[bahasa pemrograman]] tertentu sehingga menjadi sebuah program komputer. [[Bahasa pemrograman]] yang berbeda mendukung gaya pemrograman yang berbeda pula. Gaya pemrograman ini biasa disebut [[paradigma pemrograman]].
+
+Apakah memprogram perangkat lunak lebih merupakan [[seni]], [[ilmu]], atau [[teknik]] telah lama diperdebatkan. Pemrogram yang baik biasanya mengkombinasikan tiga hal tersebut, agar dapat menciptakan program yang efisien, baik dari sisi waktu berjalan (''run time''), atau memori.
+== Pemrograman Kompetitif ==
+Pemrograman adalah bahan yang banyak digunakan di berbagai kompetisi komputer di Indonesia maupun dunia. Di tingkat [[SMA]], contohnya, pemrograman dipertandingkan dalam [[Olimpiade Sains Nasional]] setiap tahunnya. Ketigapuluh peraih [[medali]] di [[Olimpiade Sains Nasional]] ini kemudian menjadi [[Tim Olimpiade Komputer Indonesia]], dan menempuh [[Pelatihan Nasional]] yang menyeleksi empat orang wakil untuk mengikuti [[Olimpiade Sains Internasional bidang Informasi]] (''International Olympiad in Informatics'') yang diadakan setiap tahunnya.
+
+==Sejarah pemrograman==
+Mekanisme Antikythera dari Yunani kuno adalah kalkulator menggunakan persneling dari berbagai ukuran dan konfigurasi untuk menentukan operasi, [3] yang dilacak siklus Metonik masih digunakan di bulan-ke-surya kalender, dan yang konsisten untuk menghitung tanggal olimpiade [4]. Al-Jazari dibangun Automata diprogram pada tahun 1206. Salah satu sistem yang digunakan dalam perangkat ini adalah penggunaan pasak dan Cams ditempatkan ke drum kayu di lokasi tertentu, yang secara berurutan akan memicu tuas yang pada gilirannya dioperasikan instrumen perkusi. Output dari perangkat ini adalah drumer kecil bermain berbagai ritme dan pola drum. [5] [6] The Jacquard Loom, Joseph Marie Jacquard yang dikembangkan pada tahun 1801, menggunakan serangkaian karton kartu dengan menekan lubang di dalamnya. Pola lubang pola yang mewakili alat tenun harus mengikuti menenun kain. Alat tenun bisa menghasilkan tenun yang sama sekali berbeda dengan menggunakan kumpulan kartu yang berbeda. Charles Babbage mengadopsi penggunaan kartu menekan sekitar tahun 1830 untuk mengendalikan Analytical Engine. Program komputer pertama ditulis untuk Analytical Engine oleh matematikawan Ada Lovelace untuk menghitung urutan Bilangan Bernoulli. [7] Sintesis perhitungan numerik, operasi dan output telah ditentukan, bersama dengan cara untuk mengatur dan masukan instruksi dengan cara yang relatif mudah bagi manusia untuk hamil dan menghasilkan, menyebabkan perkembangan modern pemrograman komputer. Pengembangan pemrograman komputer dipercepat melalui Revolusi Industri.
+Pada akhir 1880-an, Herman Hollerith menemukan rekaman data pada media yang kemudian dapat dibaca oleh mesin. Sebelum menggunakan mesin dibaca dari media, di atas, telah untuk kontrol, bukan data. "Setelah beberapa percobaan awal dengan kertas pita, ia menetap di kartu menekan ..." [8] Untuk memproses kartu menekan ini, pertama kali dikenal sebagai "kartu Hollerith" dia menciptakan tabulator, dan mesin keypunch. Ketiga penemuannya dasar dari industri pengolahan informasi modern. Pada tahun 1896 ia mendirikan Tabulating Machine Company (yang kemudian menjadi inti dari IBM). Penambahan panel kontrol (plugboard) ke 1906 Tipe I Tabulator memungkinkannya untuk melakukan pekerjaan yang berbeda tanpa harus secara fisik dibangun kembali. Pada akhir 1940-an, ada berbagai mesin panel kontrol diprogram, disebut catatan unit peralatan, untuk melakukan pengolahan data tugas.
+
+Data dan instruksi dapat disimpan pada kartu punched eksternal, yang disimpan dalam rangka dan disusun dalam deck.
+Penemuan arsitektur von Neumann memungkinkan program komputer untuk disimpan dalam memori komputer. Program awal harus susah payah dibuat dengan menggunakan instruksi (operasi dasar) dari mesin tertentu, sering kali dalam notasi biner. Setiap model komputer mungkin akan menggunakan instruksi yang berbeda (bahasa mesin) untuk melakukan tugas yang sama. Kemudian, perakitan bahasa tersebut dikembangkan yang memungkinkan programmer menentukan setiap instruksi dalam format teks, singkatan memasukkan kode untuk setiap operasi, bukan menetapkan sebuah nomor dan alamat dalam bentuk simbolik (misalnya, ADD X, JUMLAH). Memasuki sebuah program dalam bahasa assembly biasanya lebih nyaman, lebih cepat, dan kurang rentan terhadap kesalahan manusia daripada menggunakan bahasa mesin, tetapi karena bahasa assembly adalah sedikit lebih dari satu notasi yang berbeda untuk bahasa mesin, setiap dua mesin dengan instruksi yang berbeda set juga memiliki perakitan yang berbeda bahasa.
+Pada tahun 1954, FORTRAN diciptakan, melainkan tingkat pertama bahasa pemrograman tinggi untuk memiliki implementasi fungsional, dibandingkan dengan hanya desain di atas kertas [9] [10] (Sebuah bahasa tingkat tinggi adalah, dalam istilah yang sangat umum,. bahasa pemrograman yang memungkinkan programmer untuk menulis program dalam istilah yang lebih abstrak dari instruksi bahasa assembly, yaitu pada tingkat abstraksi "lebih tinggi" daripada bahasa assembly.) Ini memungkinkan programmer untuk menentukan perhitungan dengan memasukkan formula secara langsung (misalnya Y = X * 2 + 5 * X + 9). Program teks, atau sumber, diubah menjadi instruksi mesin menggunakan program khusus yang disebut kompilator, yang diterjemahkan program FORTRAN ke dalam bahasa mesin. Bahkan, nama FORTRAN adalah singkatan dari "Formula Translation". Banyak bahasa lainnya dikembangkan, termasuk beberapa program untuk komersial, seperti COBOL. Program itu sebagian besar masih masuk menggunakan kartu punched atau pita kertas. (Lihat pemrograman komputer di era kartu punch). Pada akhir 1960-an, perangkat penyimpanan data dan terminal komputer menjadi cukup murah bahwa program dapat dibuat dengan mengetikkan langsung ke dalam komputer. Teks editor tersebut dikembangkan yang memungkinkan perubahan dan perbaikan harus dilakukan jauh lebih mudah dibandingkan dengan kartu berlubang. (Biasanya, kesalahan dalam meninju kartu berarti bahwa kartu harus dibuang dan yang baru menekan untuk menggantikannya.)
+Ketika waktu telah berkembang, komputer telah membuat lompatan raksasa di bidang kekuatan prosesor. Ini telah membawa bahasa pemrograman baru yang lebih disarikan dari hardware. Meskipun bahasa tingkat tinggi biasanya dikenakan biaya overhead yang lebih besar, peningkatan kecepatan komputer modern telah membuat penggunaan bahasa ini jauh lebih praktis daripada pada masa lalu. Bahasa ini semakin disarikan biasanya lebih mudah untuk belajar dan memungkinkan programmer untuk mengembangkan aplikasi jauh lebih efisien dan dengan kode sumber kurang. Namun, bahasa tingkat tinggi masih praktis untuk beberapa program, seperti yang di mana tingkat rendah kontrol perangkat keras diperlukan atau di mana kecepatan pemrosesan maksimum adalah penting.
+
+Sepanjang paruh kedua abad kedua puluh, pemrograman adalah karier yang menarik di sebagian besar negara maju. Beberapa bentuk pemrograman telah lepas pantai semakin tunduk pada outsourcing (impor perangkat lunak dan jasa dari negara lain, biasanya dengan upah rendah), membuat keputusan karir pemrograman di negara maju lebih rumit, sementara meningkatkan peluang ekonomi di daerah kurang berkembang. Tidak jelas seberapa jauh kecenderungan ini akan berlanjut dan seberapa dalam dampak akan programmer upah dan kesempatan.
+===Kata lain===
+Pemrograman adalah mengubah suatu masalah yang dapat dimengerti oleh komputer dan dapat dipecahkan oleh komputer.
+
+==Persyaratan kualitas==
+
+Apapun pendekatan pengembangan perangkat lunak mungkin, program akhir harus memenuhi beberapa sifat mendasar. Properti berikut adalah di antara yang paling relevan:
+
+* Efisiensi / kinerja: jumlah sumber daya sistem program yang mengkonsumsi waktu proses, ruang memori, perangkat bawahseperti disk, bandwidth jaringan dan bahkan sampai batas tertentu interaksi dari pemakai): semakin sedikit, semakin baik. Ini juga termasuk pembuangan benar beberapa sumber, seperti membersihkan file-file sementara dan tidak adanya [[Kebocoran Memori|kebocoran memori]].
+* Reliabilitas: seberapa sering hasil dari sebuah program sudah benar. Hal ini tergantung pada kebenaran konseptual algoritma, dan pemrograman minimisasi kesalahan, seperti kesalahan dalam manajemen sumber daya (misalnya, buffer overflows dan ras kondisi) dan kesalahan logika (seperti pembagian dengan nol).
+* Kekokohan: seberapa baik program mengatasi masalah yang bukan karena kesalahan programmer. Ini termasuk situasi seperti salah, tidak pantas atau merusak data, tidak tersedianya sumber daya yang dibutuhkan seperti memori, sistem operasi layanan dan koneksi jaringan, dan kesalahan pengguna.
+* Kegunaan: yang ergonomi sebuah program: kemudahan dengan mana seseorang dapat menggunakan program untuk tujuan, atau dalam beberapa kasus bahkan tujuan tak terduga. Isu-isu tersebut dapat membuat atau menghancurkan kesuksesan bahkan tanpa masalah lain. Hal ini melibatkan berbagai tekstual, grafis dan kadang-kadang elemen-elemen perangkat keras yang meningkatkan kejelasan, intuitif, kekompakan dan kelengkapan program antarmuka pengguna.
+* Portabilitas: kisaran perangkat keras komputer dan platform sistem operasi yang kode sumber dari program dapat dikompilasi / ditafsirkan dan lari. Hal ini tergantung pada perbedaan-perbedaan dalam fasilitas pemrograman yang disediakan oleh platform yang berbeda, termasuk hardware dan sistem operasi sumber daya, perilaku yang diharapkan dari hardware dan sistem operasi, dan ketersediaan platform compiler tertentu (dan kadang-kadang perpustakaan) untuk bahasa dari source code.
+* Kemampu-rawatan: kemudahan dengan sebuah program yang dapat dimodifikasi oleh pengembang sekarang atau pada masa mendatang dalam rangka untuk membuat perbaikan atau penyesuaian, memperbaiki bug dan lubang keamanan, atau disesuaikan dengan lingkungan baru. Praktek yang baik selama pengembangan awal membuat perbedaan dalam hal ini. Kualitas ini mungkin tidak secara langsung jelas bagi pengguna akhir tetapi dapat secara signifikan memengaruhi nasib sebuah program jangka panjang.
+
+==Kompleksitas algoritma== [sunting]
+
+Bidang akademik dan praktik teknik pemrograman komputer yang baik terutama berkaitan dengan menemukan dan menerapkan algoritma yang paling efisien untuk suatu masalah kelas. Untuk tujuan ini, algoritma diklasifikasikan menjadi perintah dengan menggunakan apa yang disebut notasi Big O, O (n), yang mengungkapkan penggunaan sumber daya, seperti waktu eksekusi atau pemakaian memori, dalam hal ukuran sebuah input. Ahli programmer yang akrab dengan berbagai mapan algoritma dan kompleksitas masing-masing dan menggunakan pengetahuan ini untuk memilih algoritma yang paling cocok dengan keadaan.
+==Metodologi==
+
+Langkah pertama dalam sebagian besar proyek-proyek pengembangan perangkat lunak formal adalah analisis persyaratan, diikuti dengan pengujian untuk menentukan model nilai, pelaksanaan, dan kegagalan penghapusan (debug). Terdapat banyak pendekatan yang berbeda untuk masing-masing tugas. Salah satu pendekatan yang populer untuk analisis kebutuhan adalah Kasus Gunakan analisis.
+
+Teknik model populer meliputi Object-Oriented Analysis and Design (OOAD) dan Model-Driven Architecture (MDA). The Unified Modeling Language (UML) adalah sebuah notasi yang digunakan untuk kedua OOAD dan MDA.
+
+Teknik yang sama digunakan untuk desain database adalah Entity-Relationship Modeling (ER Modeling).
+
+Pelaksanaan teknik termasuk bahasa imperatif (object-oriented atau prosedural), fungsional bahasa, dan logika bahasa.
+==Mengukur pemakaian bahasa==
+
+Sangat sulit untuk menentukan apa yang paling populer bahasa pemrograman modern. Beberapa bahasa yang sangat populer untuk jenis aplikasi tertentu (misalnya, COBOL masih kuat di pusat data perusahaan, sering pada mainframe besar, FORTRAN dalam aplikasi teknik, bahasa scripting dalam pengembangan web, dan C dalam aplikasi embedded), sementara beberapa bahasa teratur digunakan untuk menulis berbagai macam aplikasi.
+
+Metode untuk mengukur popularitas bahasa pemrograman meliputi: menghitung jumlah iklan lowongan pekerjaan yang menyebutkan bahasa [10], jumlah buku-buku pengajaran bahasa yang dijual (overestimates ini pentingnya bahasa baru), dan perkiraan jumlah baris yang ada kode yang ditulis dalam bahasa (meremehkan ini jumlah pengguna bahasa bisnis seperti COBOL).
+==Debugging==
+Debugging adalah tugas yang sangat penting dalam proses pengembangan perangkat lunak, karena program yang salah dapat memiliki konsekuensi yang signifikan bagi penggunanya. Beberapa bahasa yang lebih rentan terhadap beberapa jenis kesalahan karena mereka tidak memerlukan spesifikasi kompiler untuk melakukan pengecekan sebanyak bahasa lainnya. Penggunaan alat analisis statis dapat membantu mendeteksi beberapa kemungkinan masalah.
+
+Debug sering dilakukan dengan IDE seperti Visual Studio, NetBeans, dan Eclipse. Standalone debugger seperti gdb juga digunakan, dan ini kurang sering menyediakan lingkungan visual, biasanya menggunakan baris perintah.
+==Bahasa pemrograman==
+Bahasa pemrograman yang berbeda mendukung gaya pemrograman yang berbeda (disebut paradigma pemrograman). Pilihan bahasa yang digunakan adalah tunduk pada banyak pertimbangan, seperti kebijakan perusahaan, kesesuaian untuk tugas, ketersediaan pihak ketiga paket, atau keinginan individunya. Idealnya, bahasa pemrograman yang paling cocok untuk tugas yang dihadapi akan dipilih. Trade-off dari ideal ini melibatkan cukup menemukan programmer yang tahu bahasa untuk membangun sebuah tim, ketersediaan compiler untuk bahasa, dan efisiensi dengan program-program yang ditulis dalam bahasa tertentu mengeksekusi.
+
+Beberapa bahasa pemrograman adalah:
+
+* [[Assembly]]
+* [[Ada]]
+* [[Basic]]
+* [[C]] atau [[C++]]
+* [[C#]]
+* [[Cobol]]
+* [[Java]]
+* [[Fortran]]
+* [[Clipper]]
+* [[Pascal]]
+* [[Visual Basic]]
+
+
+Allen Downey, dalam bukunya How To Think Like A Computer Scientist, menulis:
+
+    Rincian terlihat berbeda dalam berbagai bahasa, tetapi beberapa petunjuk dasar muncul di hampir setiap bahasa:
+
+        * Input: Get data dari keyboard, file, atau beberapa perangkat lain.
+        * Output: Display data pada layar atau mengirim data ke file atau perangkat lain.
+        * Berhitung: Lakukan operasi aritmatika dasar seperti penjumlahan dan perkalian.
+        * Bersyarat eksekusi: Periksa kondisi tertentu dan melaksanakan urutan sesuai pernyataan.
+        * Pengulangan: Lakukan beberapa tindakan berulang-ulang, biasanya dengan beberapa variasi.
+
+Banyak bahasa komputer menyediakan mekanisme untuk memanggil fungsi yang disediakan oleh perpustakaan. Menyediakan fungsi-fungsi di perpustakaan mengikuti konvensi runtime yang sesuai (misalnya, metode lewat argumen), maka fungsi-fungsi ini dapat ditulis dalam bahasa lainnya.
+
+==Pemrogram / Programmer==
+Artikel utama: Programmer
+Lihat juga: Software pengembang dan Software engineer
+
+Pemrogram komputer adalah orang-orang yang menulis perangkat lunak komputer. Pekerjaan mereka meliputi:
+
+    * Coding
+    * Kompilasi
+    * Dokumentasi
+    * Integrasi
+    * Pemeliharaan
+    * Persyaratan analisis
+    * Software arsitektur
+    * Software pengujian
+    * Spesifikasi
+    * Debugging
+
+==Lihat pula==
+Wikipedia Buku Wikipedia: Buku memiliki buku pada: Pemrograman
+Cari Wikiquote Wikiquote memiliki koleksi kutipan yang berkaitan dengan: Pemrograman
+Artikel utama: Daftar topik dasar pemrograman komputer
+
+    * Accu (organisasi)
+    * Association for Computing Machinery
+    * Computer pemrograman di era kartu pons
+    * Hello world program
+    * Daftar topik dasar pemrograman komputer
+    * Daftar topik pemrograman komputer
+    * Pemrograman paradigma
+    * Software engineering
+    * The Art of Computer Programming
+
+== Referensi ==
+
+   1. ^ Paul Graham (2003). Hacker dan Pelukis. http://www.paulgraham.com/hp.html. Diperoleh 2006/08/22.
+   2. ^ Kenneth E. Iverson, originator dari bahasa pemrograman APL, percaya bahwa hipotesis Sapir-Whorf diterapkan pada bahasa komputer (tanpa benar-benar menyebutkan nama hipotesis). Penghargaan Turing ceramah-Nya, "Notasi sebagai alat berpikir", ini ditujukan untuk tema ini, menyatakan bahwa lebih kuat dibantu notasi berpikir tentang algoritma komputer. Iverson KE, "Notasi sebagai alat berpikir", Communications of the ACM, 23: 444-465 (Agustus 1980).
+   3. ^ New World Encyclopedia Online Edition New World Encyclopedia
+   4. ^ Al-Jazari - the Mechanical Genius, MuslimHeritage.com
+   5. ^ Sebuah abad ke-13 Programmable Robot, University of Sheffield
+   6. ^ Fowler, Charles B. (Oktober 1967), "Museum of Music: A History of Mechanical Instrumen", Musik Pendidik Journal 54 (2): 45-49, DOI: 10.2307/3391092
+   7. ^ Columbia University Computing Sejarah - Herman Hollerith
+   8. ^ Survei iklan Ayub menyebutkan bahasa tertentu>
+
+[[Kategori:Pemrograman komputer| ]]
+[[Kategori:Pengembangan perangkat lunak]]

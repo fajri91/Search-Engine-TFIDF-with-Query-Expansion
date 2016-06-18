@@ -1,0 +1,15 @@
+Berkas:Mars GMKI.ogg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+Mars [[GMKI]] versi Audio Ogg.</br>
+Sumber : [http://gmkifhusu.blogspot.com/2011/10/mars-gmki.html Blog Komisariat GMKI USU]
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{GFDL}}

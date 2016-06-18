@@ -1,0 +1,40 @@
+Kobe Steel
+{{Infobox Company 
+|name = Kobe Steel, Ltd.
+|native_name = 
+|logo = [[Image:Kobelco logo.svg|260px]]
+|type = [[Perusahaan publik|Publik]] [[Kabushiki kaisha|KK]]
+|traded_as   = {{TYO|5406}}<br>[[Osaka Securities Exchange|OSE]]: 5406<br>{{NAG|5406}}<br>[[Nikkei 225|Nikkei 225 Component]]
+|foundation  = Kobe, Japan ({{start date|1905|9|1}})
+|location =  2-4, Wakinohama-Kaigandori 2-chome, [[Ch-ku, Kobe|Chuo-ku]], [[Kobe]], [[Hyogo]], 651-8585, Jepang
+|key_people  = Hiroya Kawasaki, ([[CEO]] dan [[President (corporate title)|Presiden]])
+|industry = [[Baja]]
+|products = {{ubl|Produk [[baja]]|Produk [[titanium]]|[[Pengelasan|Sistem robot dan pengelasan]]|produk [[Aluminium]] dan [[tembaga]]|[[Alat berat|Konstruksi]] dan [[mesin industri]]|[[Crane (machine)|Crane]]}}
+| revenue    = [[US dollar|$]]  17.92 milyar ([[Fiscal year|FY]] 2012)
+                   ([[Japanese yen|]] 1.68 milyar) (FY 2012)
+| net_income = $ -286 juta (FY 2012)
+                   (  -26.97 milyar) (FY 2012)
+|num_employees = 36.018 (consolidated) (per 31 Maret 2013)
+|homepage = {{Official website|www.kobelco.co.jp/english/}}
+| footnotes  =  <ref name="KP">{{cite web |url=http://www.kobelco.co.jp/english/about_kobelco/kobesteel/profile/index.html |title=Corporate Profile |accessdate=April 13, 2014}}</ref><ref>{{cite web |url=http://www.kobelco.co.jp/english/ir/library/fncl_results/2012/__icsFiles/afieldfile/2013/04/30/fy2012_final03.pdf |title=Consolidated Financial Results for Fiscal 2012 |accessdate=April 13, 2014}}</ref>
+}}
+{{Templat:Nihongo|'''Kobe Steel, Ltd.'''||Kabushiki-gaisha Kbe Seik-sho}}, beroperasi dengan merk'''Kobelco''', adalah[[Daftar produsen baja|produsen baja]]asal Jepang yang berkantor pusat di[[Chuo-ku]], [[Kobe]]. Kobe Steel juga memiliki saham di[[Osaka Titanium Technologies]].<ref>{{cite web|url = http://www.osaka-ti.co.jp/e/e_company/history.html|accessdate = 15 August 2011|title = Key events|publisher = [[Osaka Titanium Technologies]]}}</ref>
+
+Perusahaan ini didirikan pada tanggal 1 September 1905. 
+
+Perusahaan ini terdaftar di Bursa Saham[[Bursa efek Tokyo|Tokyo]]dan[[Bursa Saham Nagoya|Nagoya]],Osaka Securities Exchangedan merupakan konstituen indeks saham[[Nikkei 225]].<ref>{{cite web|url = http://indexes.nikkei.co.jp/en/nkave/index/component?idx=nk225#17|title = Components:Nikkei Stock Average|publisher = [[Nikkei Inc.]]|accessdate = April 13, 2014}}</ref>Per 31 Maret2014, perusahaan ini memiliki 208 [[perusahaan anak]]dan 62 perusahaan terafiliasi di[[Jepang]], [[Asia]], [[Eropa]], [[Timur Tengah]]dan[[Amerika Serikat]].<ref name="KP" />
+
+== Referensi ==
+{{Reflist}}
+
+== Pranala luar ==
+{{Portal|Jepang|Teknik|Perusahaan}}
+* [http://www.kobelco.co.jp/english/ Official global website] {{Templat:En}}
+* [http://www.kobelco.co.jp/english/about_kobelco/group/index.html Kobe Steel Group of Companies]
+* [http://www.kobelco.co.jp/english/about_kobelco/outline/history/index.html History of Kobe Steel Group]
+
+{{Nikkei 225}}
+[[Kategori:Perusahaan yang diperdagangkan di Bursa Saham Tokyo]]
+[[Kategori:Nikkei 225]]
+[[Kategori:Perusahaan Jepang]]
+[[Kategori:Perusahaan yang didirikan tahun 1905]]

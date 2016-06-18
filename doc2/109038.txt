@@ -1,0 +1,26 @@
+Bandar Udara Medicine Hat/Schlenker
+{{Kotakinfo bandara|nama=Bandar Udara Medicine Hat/Schlenker
+|IATA=N/A
+|ICAO=CFZ3
+|lokasi=[[Medicine Hat, Alberta|Medicine Hat]], [[Alberta]]
+|negara=[[Kanada]]
+|pengelola=Aevult Schlenker
+|tipe=Publik
+|waktu=UTC-7
+|elevasi=721 [[meter|m]] (2,365 [[feet|f]])
+|koordinat={{coor dms|49|58|00|N|110|43|00|W}}
+{{landaspacu|sudut=06/24|panjang_f=1,700|panjang_m=518|permukaan=Lapangan Rumput}}
+}}
+
+'''Bandar Udara Medicine Hat/Schlenker''' {{airport codes|N/A|CFZ3}}, terletak dekat [[Medicine Hat, Alberta|Medicine Hat]], [[Alberta]], [[Kanada]].
+
+== Lihat pula ==
+* [[Bandar Udara Medicine Hat]]
+
+== Referensi ==
+* {{CFS}}
+
+{{Canadian Airports}}
+{{bandara-Alberta-stub}}
+
+[[Kategori:Bandar udara di Alberta]]

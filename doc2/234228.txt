@@ -1,0 +1,7 @@
+Templat:Country flag IOC alias SRB
+{{ #switch: {{{1}}}
+| Stockholm 1912 = Flag of Serbia (1882-1918).svg
+| #default = Flag of Serbia.svg
+}}<noinclude>
+[[Kategori:Templat alias bendera negara IOC|SRB]]
+</noinclude>

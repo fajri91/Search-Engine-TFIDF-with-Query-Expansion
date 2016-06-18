@@ -1,0 +1,38 @@
+Roma 6
+{{Bible chapter|letname= {{PAGENAME}} |previouslink= Roma 5 |previousletter= pasal 5 |nextlink= Roma 7 | nextletter = pasal 7 |book= [[Surat Roma]] |biblepart=[[Perjanjian Baru]] | booknum= 6 |category= [[Surat-surat Paulus]] | filename= Papyrus 40, Fr. c - h.jpeg |size=250px | name= Papyrus 40, 250 CE|caption=<div style="width: 250px; text-align: center; line-height: 1em">Fragmen c sampai h yang memuat bagian-bagian [[Surat Roma]] pada naskah [[Papirus 40]], yang dibuat sekitar tahun 250 M.</div>}}
+
+'''Roma 6''' (disingkat '''Rom 6''') adalah bagian [[Surat Paulus kepada Jemaat di Roma]] dalam [[Perjanjian Baru]] di [[Alkitab]] [[Kristen]]. Pengarangnya adalah [[Paulus dari Tarsus|Rasul Paulus]], tapi dituliskan oleh [[Tertius]], seorang [[Kristen]] yang saat itu mendampingi [[Paulus]].<ref name="Marxsen">Willi Marxsen. ''Introduction to the New Testament''. Pengantar Perjanjian Baru: pendekatan kristis terhadap masalah-masalahnya. Jakarta:Gunung Mulia. 2008. ISBN:9789794159219.</ref><ref name="Drane">John Drane. ''Introducing the New Testament''. Memahami Perjanjian Baru: Pengantar historis-teologis. Jakarta:Gunung Mulia. 2005. ISBN:9794159050.</ref>
+
+==Teks==
+* Naskah aslinya ditulis dalam [[bahasa Yunani]].
+* Sejumlah naskah tertua dalam [[bahasa Yunani]] yang memuat salinan pasal ini antara lain adalah 
+** [[Papirus 40]] (~ 250 M; terlestarikan: ayat 4-5, 16)
+** [[Codex Vaticanus]] (~325-350 M)
+** [[Codex Sinaiticus]] (~330-360 M)
+** [[Codex Alexandrinus]] (~400-440 M)
+** [[Codex Ephraemi Rescriptus]] (~450 M; lengkap)
+** [[Papirus 94]] (abad ke-5/ke-6; terlestarikan: ayat 10-13, 19-22)
+* [[Pasal dan ayat dalam Alkitab|Pasal ini dibagi atas]] 23 ayat.
+* Berisi dasar-dasar pengajaran Kristen dari Paulus.
+
+== Struktur ==
+Pembagian isi pasal:
+* {{Alkitab|Roma 6:1-14}} = Mati dan bangkit dengan [[Kristus]]
+* {{Alkitab|Roma 6:15-23}} = Dua macam perhambaan
+
+== Ayat 23 ==
+:''Sebab <u>upah dosa ialah maut</u>;''
+::''tetapi <u>karunia Allah ialah hidup yang kekal</u> dalam Kristus [[Yesus]], Tuhan kita.''<ref>{{Alkitab|Roma 6:23}}</ref> 
+Sesuai dengan apa yang sudah disebut dalam 6:21 dan 6:22, di sini <u>upah dosa</u> dikontraskan dengan <u>karunia Allah</u>, dan <u>maut</u> dikontraskan dengan <u>hidup kekal</u>. Dalam ayat ini <u>[[dosa]]</u> dikiaskan sebagai pribadi yang membayar <u>upah</u>. Istilah yang dipakai dalam ayat ini untuk "upah" sering dipakai untuk "upah prajurit", dan ada penafsir yang berpikir bahwa "upah prajurit" dimaksudkan di sini, tetapi mengingat pemakaian istilah "budak" dalam alinea ini, istilah ini lebih baik diartikan "uang saku budak", sehingga [[Paulus dari Tarsus|Paulus]] berkata bahwa kalau kita "menyerahkan anggota-anggota tubuh kita menjadi budak kecemaran" maka dosa menjadi tuan kita, dan memberikan <u>upah maut</u> kepada kita.<ref>Hagelberg, Dave. Tafsiran Roma: dari bahasa Yunani. Jakarta: Yayasan Kalam Hidup. 2004.</ref> 
+
+== Referensi ==
+{{reflist}}
+
+== Lihat pula ==
+* [[Adam]]
+* Bagian [[Alkitab]] yang berkaitan: [[Kejadian 3]].
+
+==Pranala luar==
+{{Roma}}
+
+[[Kategori:Surat Roma|06]]

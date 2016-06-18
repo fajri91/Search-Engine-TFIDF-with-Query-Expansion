@@ -1,0 +1,176 @@
+Wikipedia:Pemilihan pengurus 2012
+Halaman ini dipergunakan untuk '''Pemilihan Pengurus [[Wikipedia bahasa Indonesia]]''' pada tahun '''[[2012]]'''.
+
+== Jadwal ==
+{|class="wikitable" border=0
+|-
+!Tanggal!!Agenda
+|-
+|7 Mei||[[#Pendaftaran bakal calon|Pendaftaran bakal calon]] dimulai
+|-
+|13 Mei||Pendaftaran bakal calon ditutup
+|-
+|15 Mei||Pengumuman [[#Hasil verifikasi|hasil verifikasi]] calon pengurus
+|-
+|16 Mei||[[#Sesi tanya jawab|Sesi tanya jawab]] dimulai
+|-
+|18 Mei||Batas akhir konfirmasi calon
+|-
+|30 Mei||Sesi tanya jawab berakhir<br>(berakhir pukul 24.00 UTC)
+|-
+|1 Juni||[[#Pemungutan suara|Pemungutan suara]] dimulai
+|- 
+|14 Juni||Pemungutan suara [[#Hasil|selesai]]<br>(berakhir pukul 24.00 UTC)
+|-
+|15 Juni||Pengangkatan pengurus baru oleh birokrat
+|}
+
+== Prosedur ==
+Pemilihan pengurus tahun ini mempergunakan [[Wikipedia:Pengurus/Sistem pemilihan pengurus|sistem pemilihan pengurus 2012]], yaitu:{{:Wikipedia:Pengurus/Sistem pemilihan pengurus}}
+
+== Pendaftaran bakal calon ==
+Pendaftaran bakal calon dimulai pada 7 Mei 2012 pukul 00.00 (UTC)/07.00 (WIB) dan akan berakhir pada 14 Mei 2012 pukul 00.00 (UTC)/07.00 (WIB).
+
+Pendaftaran para bakal calon dilaksanakan di [[Wikipedia:Pemilihan pengurus 2012/Pendaftaran bakal calon|halaman pendaftaran]], sementara hasil verifikasi akan dapat dilihat di [[Wikipedia:Pemilihan pengurus 2012/Hasil verifikasi bakal calon|halaman hasil verifikasi]].<!--{{Wikipedia:Pemilihan pengurus 2012/Hasil verifikasi bakal calon}}-->
+
+== Hasil verifikasi ==
+;Hasil verifikasi
+{{/Hasil verifikasi bakal calon}}
+{{Col-begin}}
+{{Col-2}}
+;Lolos verifikasi (8)
+*{{User0|Aldo samulo}}
+*{{User0|Aris riyanto}}
+*{{User0|Bennylin}}
+*{{User0|Dede2008}}
+*{{User0|F1fans}}
+*{{User0|Imanuel NS Uen}}
+*{{User0|RaymondSutanto}}
+*{{User0|Wagino 20100516}}
+{{Col-2}}
+;Tidak lolos verifikasi (5)
+*{{User0|Akuindo}}
+*{{User0|Alagos}}
+*{{User0|JohnThorne}}
+*{{User0|Maqi}}
+*{{User0|Willy2000}}
+
+;Mengundurkan diri (1)
+*{{User0|Eddy bf}}
+|}
+
+== Sesi tanya jawab ==
+*Sesi tanya jawab dimulai sejak 16 Mei 2012 dan berakhir pada 30 Mei 2012.
+*Proses akan dilanjutkan jika calon menandatangani konfirmasi persetujuan di halaman pemilihan masing-masing, selambat-lambatnya 18 Mei 2012 pukul 00.00 (UTC).
+<center>
+{| class="prettytable" style="font-size:85%"
+|-
+!Calon pengurus!!Halaman Sesi Tanya Jawab (STJ)
+|-
+|{{User0|Aldo samulo}}||[[Wikipedia:Pengurus/Pemungutan suara/Aldo samulo untuk pengurus 1 Juni 2012/STJ|Sesi Tanya Jawab]]
+|-
+|{{User0|Bennylin}}||[[Wikipedia:Pengurus/Pemungutan suara/Bennylin untuk pengurus 1 Juni 2012/STJ|Sesi Tanya Jawab]]
+|-
+|{{User0|Dede2008}}||[[Wikipedia:Pengurus/Pemungutan suara/Dede2008 untuk pengurus 1 Juni 2012/STJ|Sesi Tanya Jawab]]
+|-
+|{{User0|Imanuel NS Uen}}||[[Wikipedia:Pengurus/Pemungutan suara/Imanuel NS Uen untuk pengurus 1 Juni 2012/STJ|Sesi Tanya Jawab]]
+|-
+|{{User0|RaymondSutanto}}||[[Wikipedia:Pengurus/Pemungutan suara/RaymondSutanto untuk pengurus 1 Juni 2012/STJ|Sesi Tanya Jawab]]
+|-
+|{{User0|Wagino 20100516}}||[[Wikipedia:Pengurus/Pemungutan suara/Wagino 20100516 untuk pengurus 1 Juni 2012/STJ|Sesi Tanya Jawab]]
+|}
+</center>
+
+== Pemungutan suara ==
+<center>
+{| class="prettytable" style="font-size:85%"
+|-
+!Calon pengurus!!Konfirmasi!!Halaman Pemilihan
+|-
+|{{User0|Bennylin}}||{{Sudah|Sudah}}||[[Wikipedia:Pengurus/Pemungutan suara/Bennylin untuk pengurus 1 Juni 2012|Halaman pemilihan]]
+|-
+|{{User0|Imanuel NS Uen}}||{{Sudah|Sudah}}||[[Wikipedia:Pengurus/Pemungutan suara/Imanuel NS Uen untuk pengurus 1 Juni 2012|Halaman pemilihan]]
+|-
+|{{User0|Dede2008}}||{{Sudah|Sudah}}||[[Wikipedia:Pengurus/Pemungutan suara/Dede2008 untuk pengurus 1 Juni 2012|Halaman pemilihan]]
+|-
+|{{User0|RaymondSutanto}}||{{Sudah|Sudah}}||[[Wikipedia:Pengurus/Pemungutan suara/RaymondSutanto untuk pengurus 1 Juni 2012|Halaman pemilihan]]
+|-
+|{{User0|Wagino 20100516}}||{{Sudah|Sudah}}||[[Wikipedia:Pengurus/Pemungutan suara/Wagino 20100516 untuk pengurus 1 Juni 2012|Halaman pemilihan]]
+|}
+</center>
+;Mengundurkan diri di tengah proses pemungutan suara
+{| class="prettytable" style="font-size:85%"
+|-
+!Calon pengurus!!width=175|Halaman Pemilihan
+|-
+|{{User0|Aldo samulo}}||[[Wikipedia:Pengurus/Pemungutan suara/Aldo samulo untuk pengurus 1 Juni 2012|Halaman pemilihan]]
+|}
+
+;Tidak memberi konfirmasi sampai batas waktu
+{| class="prettytable" style="font-size:85%"
+|-
+!Calon pengurus!!width=175|Halaman Pemilihan!!width=175|Halaman Sesi Tanya Jawab
+|-
+|{{User0|Aris riyanto}}||[[Wikipedia:Pengurus/Pemungutan suara/Aris riyanto untuk pengurus 1 Juni 2012|Halaman pemilihan]]||[[Wikipedia:Pengurus/Pemungutan suara/Aris riyanto untuk pengurus 1 Juni 2012/STJ|Halaman sesi tanya jawab]]
+|}
+
+;Mengundurkan diri dari awal
+{| class="prettytable" style="font-size:85%"
+|-
+!Calon pengurus!!width=175|Halaman Pemilihan!!width=175|Halaman Sesi Tanya Jawab
+|-
+|{{User0|F1fans}}||[[Wikipedia:Pengurus/Pemungutan suara/F1fans untuk pengurus 1 Juni 2012|Halaman pemilihan]]||[[Wikipedia:Pengurus/Pemungutan suara/F1fans untuk pengurus 1 Juni 2012/STJ|Halaman sesi tanya jawab]]
+|}
+
+== Hasil ==
+<center>
+{|class="wikitable sortable" style="font-size:95%;"
+|-
+!width=125|Calon
+!class=unsortable width=125|{{Vote|Y}}
+!class=unsortable width=125|{{Vote|N}}
+!class=unsortable width=100|{{Vote|A}}
+!class=unsortable|Hasil
+!{{Tooltip|Pos|Posisi}}*
+|- bgcolor="gold"
+|[[Wikipedia:Pengurus/Pemungutan suara/Bennylin untuk pengurus 1 Juni 2012|Bennylin]]
+|align=center|35/36 ({{#expr:35/36 *100 round 3}} %)
+|align=center|1/36 ({{#expr:1/36 *100 round 3}} %)
+|align=center|4
+|{{Hasil voting|Y}} Memenuhi syarat pengangkatan
+|align=center|2
+|-
+|[[Wikipedia:Pengurus/Pemungutan suara/Dede2008 untuk pengurus 1 Juni 2012|Dede2008]]
+|align=center|4/15 ({{#expr:4/15 *100 round 3}} %)
+|align=center|11/15 ({{#expr:11/15 *100 round 3}} %)
+|align=center|12
+|{{nowrap|{{Hasil voting|T}} Tidak memenuhi syarat pengangkatan}}
+|align=center|5
+|- bgcolor="gold"
+|[[Wikipedia:Pengurus/Pemungutan suara/Imanuel NS Uen untuk pengurus 1 Juni 2012|Imanuel NS Uen]]
+|align=center|29/32 ({{#expr:29/32 *100 round 3}} %)
+|align=center|3/32 ({{#expr:3/32 *100 round 3}} %)
+|align=center|5
+|{{Hasil voting|Y}} Memenuhi syarat pengangkatan
+|align=center|4
+|- bgcolor="gold"
+|[[Wikipedia:Pengurus/Pemungutan suara/RaymondSutanto untuk pengurus 1 Juni 2012|RaymondSutanto]]
+|align=center|26/27 ({{#expr:26/27 *100 round 3}} %)
+|align=center|1/27 ({{#expr:1/27 *100 round 3}} %)
+|align=center|5
+|{{Hasil voting|Y}} Memenuhi syarat pengangkatan
+|align=center|3
+|- bgcolor="gold"
+|[[Wikipedia:Pengurus/Pemungutan suara/Wagino 20100516 untuk pengurus 1 Juni 2012|Wagino 20100516]]
+|align=center|36/36 ({{#expr:36/36 *100 round 3}} %)
+|align=center|0/36 ({{#expr:0/36 *100 round 3}} %)
+|align=center|4
+|{{Hasil voting|Y}} Memenuhi syarat pengangkatan
+|align=center|1
+|}</center><nowiki>*</nowiki> Berdasarkan persentase persetujuan.
+
+Berdasarkan hasil pemungutan suara, terpilih empat pengurus baru, yaitu: {{User|Bennylin}}, {{user|Imanuel NS Uen}}, {{User|RaymondSutanto}}, dan {{user|Wagino 20100516}}. Selamat bertugas bagi keempat pengurus baru!
+
+{{Pemilihan pengurus}}
+
+[[Kategori:Pemilihan pengurus 2012|*]]

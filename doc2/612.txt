@@ -1,0 +1,16 @@
+Iterasi
+Di dalam komputer/pemrograman, '''iterasi''' adalah sifat tertentu dari [[algoritma]] atau [[program komputer]] di mana suatu urutan atau lebih dari langkah algoritmik dilakukan di [[loop program]]. Hal ini dibedakan dari teknik berulang yang disebut [[rekursi]].
+
+Di dalam matematika, '''iterasi''' dapat diartikan sebagai suatu proses atau metode yang digunakan secara berulang-ulang (pengulangan) dalam menyelesaikan suatu permasalahan matematik.
+
+Contoh dari suatu iterasi:
+ var i, a := 0        // memulai iterasi dengan nilai a=0
+ for i from 1 to 3    // diulang 3 kali
+ {  
+     a := a + i       // menambah nilai a dengan nilai var. i
+ }
+ print a              // mencetak hasil a = 6
+
+{{matematika-stub}}
+
+[[Kategori:Algoritma]]

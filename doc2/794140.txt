@@ -1,0 +1,24 @@
+Templat:AktorTerbaikCineMAA
+{{Navbox
+|name = AktorTerbaikCineMAA
+|title = [[Penghargaan CineMAA#Aktor Terbaik - Laki-Laki|Penghargaan CineMAA untuk Aktor Terbaik]]
+|state = {{{state|autocollapse}}}
+|listclass = hlist
+
+|list1 = 
+* [[Chiranjeevi]] (2003)
+* [[Mahesh Babu]] (2004)
+* [[N. T. Rama Rao Jr.]] (2004)
+* [[Akkineni Nagarjuna]] (2005)
+* [[Allu Arjun]] (2005)
+* [[Mahesh Babu]] (2006)
+* [[N. T. Rama Rao Jr.]] (2008)
+* [[Allu Arjun]] (2009)
+* [[Ram Charan Teja]] (2010)
+* [[Nandamuri Balakrishna]] (2011)
+* [[Mahesh Babu]] (2012)
+* [[Allu Arjun]] (2014)
+}}<noinclude>
+{{collapsible option}}
+[[Kategori:Kotak navigasi Penghargaan CineMAA]]
+</noinclude>

@@ -1,0 +1,83 @@
+Calanoida
+{{Taxobox|name = Calanoida
+|image = Diaptomus GLERL 1.jpg
+|image_width = 240px
+|image_caption = ''[[Diaptomus]]''
+|regnum = [[Animalia]]
+|phylum = [[Arthropod]]a
+|subphylum = [[Crustacean|Crustacea]]
+|classis = [[Maxillopoda]]
+|subclassis = [[Copepod]]a
+|superordo = '''Gymnoplea'''
+|superordo_authority = Giesbrecht, 1882&nbsp;<ref name="Martin & Davis">{{cite book|url=http://www.nhm.org/research/publications/CrustaceaClassification.pdf|title=An Updated Classification of the Recent Crustacea|author=J. W. Martin & G. E. Davis|year=2001|pages=132 pp|publisher=[[Natural History Museum of Los Angeles County]]|format=[[Portable Document Format|PDF]]}}</ref>
+|ordo = '''Calanoida'''
+|ordo_authority = [[Georg Sars|Sars]], 1903
+|subdivision_ranks = [[Famili (biologi)|Famili]]
+|subdivision = ''See text''
+}}
+{{wikispecies|Calanoida}}
+'''Calanoida''' adalah ordo [[copepoda]], sejenis [[zooplankton]]. Ordo ini termasuk 43 famili dengan sekitar 2000 spesies baik [[copepoda]] laut maupun air tawar<ref>{{cite book|author=D. Boltovskoy, M. J. Gibbons, L. Hutchings & D. Binet|year=1999|chapter=General biological features of the South Atlantic|editor=D. Boltovskoy|title=Zooplankton of the South Atlantic|publisher=Backhuys Publishers, Leiden}}</ref>. Copepoda Calanoid penting dalam rantai makanan.
+
+== Klasifikasi ==
+Calanoida terdiri yang tergolong [[familia]] berikut.
+{{col-begin|width=auto}}
+{{col-break}}
+* [[Acartiidae]]
+* [[Aetideidae]]
+* [[Arctokonstantinidae]]
+* [[Arietellidae]]
+* [[Augaptilidae]]
+* [[Bathypontiidae]]
+* [[Boholinidae]]
+* [[Calanidae]]
+* [[Calocalanidae]]
+* [[Candaciidae]]
+* [[Centropagidae]]
+* [[Clausocalanidae]]
+* [[Diaixidae]]
+* [[Diaptomidae]]
+* [[Discoidae]]
+* [[Epacteriscidae]]
+* [[Eucalanidae]]
+* [[Euchaetidae]]
+* [[Fosshageniidae]]
+* [[Heterorhabdidae]]
+* [[Hyperbionychidae]]
+* [[Lucicutiidae]]
+* [[Mecynoceridae]]
+{{col-break}}
+* [[Megacalanidae]]
+* [[Mesaiokeratidae]]
+* [[Metridinidae]]
+* [[Nullosetigeridae]]
+* [[Paracalanidae]]
+* [[Parapontellidae]]
+* [[Parkiidae]]
+* [[Phaennidae]]
+* [[Phyllopodidae]]
+* [[Pontellidae]]
+* [[Pseudocyclopidae]]
+* [[Pseudocyclopiidae]]
+* [[Pseudodiaptomidae]]
+* [[Ridgewayiidae]]
+* [[Ryocalanidae]]
+* [[Scolecitrichidae]]
+* [[Spinocalanidae]]
+* [[Stephidae]]
+* [[Subeucalanidae]]
+* [[Sulcanidae]]
+* [[Temoridae]]
+* [[Tharybidae]]
+* [[Tortanidae]]
+{{col-end}}
+
+== Referensi ==
+<div class="references-small">{{reflist}}</div>
+
+== Pranala luar ==
+* [http://www.miljolare.no/data/ut/art/?lang=eng&or_id=1879 Classification of Calanoida]
+* [http://www.crustacea.net/crustace/calanoida/ Key to calanoid copepod families]
+
+{{biologi-stub}}
+
+[[Kategori:Copepoda]]

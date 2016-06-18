@@ -1,0 +1,14 @@
+Berkas:Marmut Merah Jambu film.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+source: [http://indosinema.com/wp-content/uploads/2014/02/marmut-merah-jambu.jpg site]
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Poster}}

@@ -1,0 +1,24 @@
+Templat:Kotak Kampanye Perang Austria-Prusia
+{{Campaignbox
+|name=Kotak Kampanye Perang Austria-Prusia
+|title=[[Perang Austria-Prusia]] dan<br />[[Perang Kemerdekaan Italia Ketiga]]
+|listclass = hlist
+|battles=
+* [[Pertempuran Custoza (1866)|Custoza]]
+* [[Pertempuran Hhnerwasser|Hhnerwasser]]
+* [[Pertempuran Podol|Podol]]
+* [[Pertempuran Nachod|Nachod]]
+* [[Pertempuran Trautenau|Trautenau]]
+* [[Pertempuran Burkersdorf (1866)|Burkersdorf]]
+* [[Pertempuran Langensalza (1866)|Langensalza]]
+* [[Pertempuran Skalitz|Skalitz]]
+* [[Pertempuran Mnchengrtz|Mnchengrtz]]
+* [[Pertempuran Schweinschdel|Schweinschdel]]
+* [[Pertempuran Gitschin|Gitschin]]
+* [[Pertempuran Kniggrtz|Kniggrtz]]
+* [[Operasi di Valtellina (1866)|Valtellina]]
+* [[Pertempuran Vezza d'Oglio|Vezza d'Oglio]]
+* [[Pertempuran Lissa (1866)|Lissa]]
+* [[Pertempuran Bezzecca|Bezzecca]]
+* [[Pertempuran Lamacs|Lamacs]]
+|}}

@@ -1,0 +1,43 @@
+Jilin
+{{Infobox PRC province |
+  Header         = '''{{br}}Jln Shng'''
+| Name           = Jilin
+| Abbreviation   = 
+| AbbrevPinyin   = J
+| ISOAbbrev      = 22
+| Map            = China-Jilin.png
+| OriginOfName   = singkatan dari ''jilin wula'', transkripsi [[bahasa Tionghoa]] dari [[bahasa Manchu]], artinya "sepanjang aliran sungai"
+| AdministrationType = [[Provinsi]]
+| Capital        = [[Changchun]]
+| LargestCity    = [[Changchun]]
+| Secretary      = [[Wang Yunkun]]
+| Governor       = [[Wang Min]]
+| Area           = 187,400
+| AreaRank       = ke-13
+| PopYear        = 2004
+| Pop            = 27,090,000
+| PopRank        = ke-21
+| PopDensity     = 145
+| PopDensityRank = ke-23
+| GDPYear        = 2004
+| GDP            = 295.8 miliar
+| GDPRank        = ke-20
+| GDPperCapita   = 10,900
+| GDPperCapitaRank = ke-14
+| Nationalities  = [[Han]] - 91%{{br}}[[Korea]] - 4%{{br}}[[Manchu]] - 4%{{br}}[[Mongol]] - 0.6%{{br}}[[Hui]] - 0.5%
+| Prefectures    = 9
+| Counties       = 60
+| Townships      = 1006
+| Website        = [http://www.jl.gov.cn http://www.jl.gov.cn]{{br}}([[Hanzi sederhana]])
+}}
+'''Jilin''' ([[Hanzi]]: ) adalah sebuah provinsi [[Republik Rakyat Tiongkok]]. Beribu kota di [[Changchun]] (Hanzi: ). Jilin memiliki wilayah seluas 187.400 [[km]], dan berpenduduk sebanyak 27.040.000 jiwa dengan kepadatan 144 jiwa/km (sensus [[2003]]).
+
+== Pranala luar ==
+* {{zh}} [http://www.chinajilin.com.cn/ Situs resmi]
+
+{{Provinsi RRT}}
+{{cina-stub}}
+
+[[Kategori:Artikel mengandung aksara Tionghoa]]
+[[Kategori:Provinsi di Tiongkok]]
+[[Kategori:Rintisan bertopik Tiongkok]]

@@ -1,0 +1,60 @@
+Kelelawar
+{{Taxobox 
+|name = Kelelawar
+|fossil_range = [[Paleosen]] Akhir - sekarang
+|image = Bat flying at night.png
+|image_width = 240px
+|regnum = [[Animalia]]
+|phylum = [[Chordata]]
+|classis = [[Mammalia]]
+|infraclassis = [[Eutheria]]
+|superordo = [[Laurasiatheria]]
+|ordo = '''Chiroptera'''
+|ordo_authority = [[Johann Friedrich Blumenbach|Blumenbach]], 1779
+|subdivision_ranks = Subordo
+|subdivision = 
+[[Megachiroptera]]{{br}}
+[[Microchiroptera]]{{br}}
+}}
+'''Kelelawar''' adalah [[mamalia]] yang dapat terbang yang berasal dari [[ordo (biologi)|ordo]] '''Chiroptera''' dengan kedua kaki depan yang berkembang menjadi [[sayap]].
+
+== Klasifikasi ==
+* Pteropodidae ([[codot]])
+* Emballonuridae ([[kelelawar eko-trubus]])
+* Megadermatidae ([[vampir palsu]])
+* Nycteridae ([[kelelawar muka-cekung]])
+* Rhinolophidae ([[kelelawar-ladam]])
+* [[Hipposideridae]] (barong)
+* Vespertilionidae ([[kelelawar biasa]])
+* Molossidae ([[kelelawar bibir-keriput]])
+
+== Lihat pula ==
+* [[Kalong]]
+* [[Barong (kelelawar)]]
+* [[Ahool]]
+
+== Pranala luar ==
+{{sisterlinks|bat}}
+{{Wikibooks|Dichotomous Key|Chiroptera}}
+{{wikispecies|Chiroptera}}
+* {{en}} [http://www.bats.org.uk/ UK Bat Conservation Trust]
+* {{en}} [http://animaldiversity.ummz.umich.edu/chordata/mammalia/chiroptera.html Museum zoologi Universitas Michigan]
+* {{en}} [http://greenfield.fortunecity.com/wilderness/258/tarsier.htm/ Kelelawar and Tarsier]
+* {{en}} [http://tolweb.org/tree?group=Chiroptera&contgroup=Eutheria Tree of Life]
+* [http://www.batcon.org/index.php/all-about-bats.html Bat Conservation International (US)]
+* [http://www.batconservation.org/about-bats Organization for Bat Conservation (US)]
+* [http://vimeo.com/13548052 Evolution of cranial morphology in bats in relation to diet (by Divulgare)]
+* {{en}} [http://news.bbc.co.uk/2/hi/science/nature/4213495.stm Bat evolution linked to warming]
+* {{en}} [http://www.fladdermus.net/thesis.htm Microbat Vision]
+* {{en}} [http://www.amonline.net.au/bats/ Kelelawar Australia]
+* {{en}} [http://www.getbatsout.com/batinhouse.htm Article - Safely and Humanely Deal with Bat in House]
+* {{ms}} [http://www.geocities.com/datahaiwan/Fakta Hewan Kelawar.htm]
+
+{{Mamalia}}
+
+[[Kategori:Kelelawar| ]]
+[[Kategori:Mamalia terbang]]
+[[Kategori:Chiroptera]]
+
+
+{{hewan-stub}}

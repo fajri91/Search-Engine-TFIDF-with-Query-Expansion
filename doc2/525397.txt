@@ -1,0 +1,76 @@
+J-Air
+{{Infobox Airline
+| airline        = J-Air<br /> <br />
+| image          = J Air logo.png|J-Air logo
+| image_size     = 124
+| IATA           = XM
+| ICAO           = JLJ
+| callsign       = J-AIR
+| founded        = 8 Agustus 1996
+| commenced      = 1 November 1996
+| ceased         =
+| hubs           = [[Bandar Udara Internasional Osaka]]
+| secondary_hubs =
+| focus_cities   =
+<div>
+* [[Bandar Udara Fukuoka]]
+* [[Bandar Udara Internasional Tokyo]]
+</div>
+| frequent_flyer = [[JAL Mileage Bank]]
+| lounge         =
+| alliance       = [[Oneworld]]
+| subsidiaries   =
+| fleet_size     = 19
+| destinations   = 17
+| parent         = [[Japan Airlines]]
+| company_slogan =
+| headquarters   = [[Ikeda, Osaka|Ikeda]], [[Perfektur Osaka|Osaka]], [[Jepang]]
+| key_people     = Tsuyoshi Yamamura ([[Presiden]])
+| website        = [http://www.jair.co.jp www.jair.co.jp] {{jp icon}}
+}}
+{{nihongo|'''J-Air Co., Ltd.'''||Kabushiki-gaisha Jei Ea}} adalah [[maskapai penerbangan]] regional yang berkantor pusat di Gedung Terminal [[Bandar Udara Nagoya]] dan di [[Toyoyama, Aichi|Toyoyama]], [[Distrik Nishikasugai, Aichi|Distrik Nishikasugai]], [[Perfektur Aichi|Aichi]], [[Jepang]]<ref>"[http://www.jair.co.jp/about/index.html ]." J-Air. Retrieved on February 14, 2010.</ref> dan [[bandar udara penghubung]]nya adalah di [[Bandar Udara Nagoya]]. '''J-Air''' sebelumnya berkantor pusat di [[mura, Nagasaki|mura]], [[Perfektur Nagasaki]].<ref>"World Airline Directory." ''[[Flight International]]''. March 1925, 2002. [http://www.flightglobal.com/pdfarchive/view/2002/2002%20-%200860.html 80].</ref> Maskapai penerbangan ini mengoperasikan penerbangan regional diseluruh [[Jepang]], dibawah nomor penerbangan [[Japan Airlines]]. Armada ini memiliki armada sebanyak 19 unit yang terdiri dari [[Bombardier CRJ200|Bombardier CRJ-200]] dan [[Embraer E-Jets#E-170 and 175|Embraer 170]].
+
+== Armada ==
+<center>
+{| class="toccolours" border="1" cellpadding="3" style="border-collapse: collapse"
+|+ '''Armada J-Air''' ({{as of|201|1|26|lc=on}})
+|- bgcolor=#F08080 style="color:white;"
+! Pesawat
+! Total
+! Dipesan
+! Opsi
+! class="unsortable" | Penumpang
+|- align=center
+| [[Bombardier CRJ200|Bombardier CRJ-200]]
+| 9
+| 
+| 
+| 50
+|- align=center
+| [[Embraer E-Jets#E-170 and 175|Embraer 170]]
+| 10
+| 
+| 5<ref name=E170>{{cite press release|title=Embraer Delivers First Embraer 170 Jet to Japan Airlines|url=http://www.embraer.com.br/institucional/download/2_149-Com-VPC-JAL_1st_Delivery-I-08.pdf|format=PDF|publisher=[[Embraer]]|date=2008-10-03|accessdate=2009-09-10}}</ref>
+| 76
+|-
+! Total
+! 19
+! 0
+! 5
+!
+|}
+</center>
+
+== Referensi ==
+{{Reflist}}
+
+== Pranala luar ==
+{{commonscat|J-Air}}
+* {{official website|http://www.jair.co.jp}} {{jp icon}}
+* [http://www.jal.com Japan Airlines]
+
+[[Kategori:Japan Airline]]
+[[Kategori:Maskapai penerbangan di Jepang]]
+
+
+{{maskapai-stub}}

@@ -1,0 +1,53 @@
+Bandar Udara Pathein
+{{Infobox Airport
+| name         = Bandar Udara Pathein
+| nativename   = 
+| nativename-a = 
+| nativename-r = 
+| image        = 
+| image-width  = 
+| caption      = 
+| IATA         = BSX
+| ICAO         = VYPN
+<center>{{Location map|Burma|width=200|float=center
+|caption=|mark=Airplane_silhouette.svg|marksize=10
+|label=BSX|position=right
+|lat_deg=16|lat_min=48|lat_sec=55|lat_dir=N
+|lon_deg=94|lon_min=46|lon_sec=48|lon_dir=E
+}}<small>Lokasi bandar udara di Myanmar</small></center>
+| type         = 
+| owner        = 
+| operator     = 
+| city-served  = 
+| location     = Pathein, Myanmar
+| elevation-f  = 20
+| elevation-m  = 6
+| coordinates  = {{coord|16|48|55|N|094|46|48|E|type:airport}}
+| website      = 
+| metric-elev  = 
+| metric-rwy   = 
+| r1-number    = 06/24
+| r1-length-f  = 4400
+| r1-length-m  = 1341
+| r1-surface   = Konsentrat
+| stat-year    = 
+| stat1-header = 
+| stat1-data   = 
+| footnotes    = 
+}}
+'''Bandar Udara Pathein''' {{airport codes|BSX|VYPN}} adalah [[bandar udara]] di [[Pathein]], [[Myanmar]].
+
+==Maskapai penerbangan dan tujuan==
+{{airport-dest-list
+|[[Air Bagan]] | Yangon
+|[[Myanma Airways]] | Thandwe, Yangon
+}}
+
+==Referensi==
+*{{WAD|VYPN}}
+
+{{DEFAULTSORT:Pathein, Bandar udara}}
+
+[[Kategori:Bandar udara di Myanmar]]
+
+{{bandara-asia-stub}}

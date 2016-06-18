@@ -1,0 +1,15 @@
+Templat:Insana Tengah, Timor Tengah Utara
+{{Navigasi ID Desa
+|provinsi=Nusa Tenggara Timur
+|dati2=Kabupaten
+|nama dati2=Timor Tengah Utara
+|nama kecamatan=Insana Tengah
+|d1=Lanaus
+|d2=Letmafo
+|k1=Maubesi
+|d3=Sone
+|d4=Tainsala
+}}<noinclude>
+[[Kategori:Templat desa/kelurahan di Nusa Tenggara Timur|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Timor Tengah Utara|{{PAGENAME}}]]
+</noinclude>

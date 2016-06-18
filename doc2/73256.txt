@@ -1,0 +1,12 @@
+Distilasi azeotropik
+Dalam bidang [[kimia]], '''distilasi azeotropik'''<!--<ref name=Kister>{{cite book|author=Kister, Henry Z.|title= [[Distillation Design]]|edition=1st Edition |publisher=McGraw-Hill|year=1992|id=ISBN 0-07-034909-6}}</ref>--> merujuk pada teknik-teknik yang digunakan untuk memecah [[azeotrop]] dalam [[distilasi]]. Dalam [[rekayasa kimia]], salah satu teknik untuk memecah titik azeotrop adalah dengan penambahan komponen lain untuk menghasilkan azeotrop heterogen yang dapat mendidih pada suhu lebih rendah, misalnya penambahan benzena (bisa juga dengan garam dan solvennya)ke dalam campuran [[air]] dan [[alkohol]].
+
+=== Metode Pemisahan Komponen Azeotrop ===
+Banyak metode yang bisa digunakan untuk menghilangkan titik azeotrop pada campuran heterogen. Contoh campuran heterogen yang mengandung titik azeotrop yang paling populer adalah campuran ethanol-air, campuran ini dengan metode distilasi biasa tidak bisa menghasilkan ethanol teknis (99% lebih) melainkan maksimal hanya sekitar 96,25 %. Hal ini terjadi karena konsentrasi yang lebih tinggi harus melewati terlebih dahulu titik azeotrop, dimana komposisi kesetimbangan cair-gas ethanol-air saling bersilangan.
+Beberapa metode yang populer digunakan adalah :
+# Pressure Swing Distillation, 
+# Extractive Distillation
+
+{{kimia-stub}}
+
+[[Kategori:Distilasi|Azeotropik]]

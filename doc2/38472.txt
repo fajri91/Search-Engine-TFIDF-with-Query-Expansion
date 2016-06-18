@@ -1,0 +1,31 @@
+Lutesium
+{{kotak info lutesium}}
+'''Lutesium''' adalah suatu [[unsur kimia]] dalam [[tabel periodik]] yang memiliki lambang '''Lu''' dan [[nomor atom]] 71.<ref name=HistoryandUse>Krebs, Robert E. . 2006 . ''The History and Use of Our Earths Chemical Elements: A Reference Guide'' . Library of Congress Cataloging-in-Publication Data . ISBN 0-313-33438-2</ref><ref name=ChemicalElement>{{cite web| author=Bentor, Yinon | website=Chemicalelemant.com | title=Periodic Table: Lutetium | url=www.chemicalelements.com/elements/lu.html | accessdate= 09-05-2014}}</ref> Lutesium merupakan logam berwarna campuran antara [[putih]] dan [[perak]] yang tahan terhadap [[korosi]] dan termasuk hasil bumi yang langka.<ref name=Nature>''Natures Building Blocks: An A-Z Guide to the Elements''</ref> Lutesium merupakan logam terkeras dan terpadat dalam golongan [[lantanida]] yang terletak pada kolom terakhir dari golongan tersebut pada tabel periodik.<ref name=Nature />
+
+Lutesium pertama kali ditemukan pada tahun [[1907]] oleh [[Baron Carl Auer von Welsbach]], [[Georges Urbain]], dan [[Charles James]] saat masing-masing dari mereka melakukan penelitian di tempat yang berbeda.<ref name=HistoryandUse /> Mereka meneliti mineral yang diduga murni terdiri dari [[iterbium]], tetapi pada akhirnya diketahui bahwa mineral tersebut juga merupakan kombinasi dari lutesium dan beberapa unsur kimia lain.<ref name=Nature /> Karena Georges Urbain mengambil langkah cepat untuk mempublikasikan penemuannya, maka penamaan unsur kimia tersebut sebagai lutesium terpilih dan resmi diakui secara global.<ref name=HistoryandUse /><ref name=Nature />
+
+== Karakteristik ==
+=== Ciri-ciri fisik ===
+Lutesium memiliki nomor atom 71 dan [[konfigurasi elektron]] [ [[Xenon|Xe]] ] 4f<sup>14</sup>5d<sup>1</sup>6s<sup>2</sup>.<ref name=InorganicChe>Arora, Amit . 2005 . ''Text Book of Inorganic Chemistry'' . Discovery Publishing House . ISBN 81-8356-013-X</ref> Lutesium tahan terhadap korosi dan berwarna campuran antara putih dan perak.<ref name=HistoryandUse /><ref name=Nature /> Massa atom lutesium cukup besar bila dibandingkan dengan ukurannya, sehingga lutesium memiliki [[titik didih]] dan [[titik lebur]] yang tinggi.<ref name=Nature />
+
+Sebenarnya [[elektron]] unsur lutesium tidak sepenuhnya mengisi [[orbital]] d, tetapi tetap digolongkan ke dalam lantanida karena memiliki ciri-ciri fisik dan kimiawi yang sangat mirip dengan 14 unsur kimia golongan lantanida lainnya.<ref name=InorganicChe />
+
+=== Isotop ===
+Lutesium memiliki 59 [[isotop]], namun hanya ada dua isotop yang stabil, yaitu Lu-175 dan Lu-176.<ref name=HistoryandUse /><ref name=Nature /> 97,41% dari total lutesium yang ditemukan di muka bumi merupakan Lu-175, sedangkan hanya 2,59% yang merupakan Lu-176.<ref name=HistoryandUse /><ref name=Nature /><ref name=Isotopes>Bowen, Robert . 1994 . ''Isotopes in Earth Sciences'' . Chapman & Hall . ISBN 0-412-53710-9</ref> Meskipun kurang berlimpah dan bersifat [[radioaktif]], unsur Lu-176 mampu bertahan selama 4x10<sup>10</sup> tahun.<ref name=HistoryandUse /><ref name=Isotopes />
+
+== Kegunaan ==
+Dalam kehidupan nyata, lutesium dapat diperoleh dari mineral yang mengandung campuran lutesium dan unsur kimia golongan lantanida lainnya.<ref name=Nature /> Persentase lutesium dalam suatu mineral cenderung kecil, seperti pada mineral [[monazit]] hanya ditemukan sekitar 0,003% lutesium.<ref name=Nature /> Oleh karena kondisi tersebut, harga lutesium menjadi sangat mahal dan pemakaiannya selain sebagai materi riset masih jarang dilakukan.<ref name=Nature /> Salah satu kegunaan lutesium yang sudah diterapkan adalah sebagai [[katalis]], baik dalam pengolahan minyak mentah menjadi [[bahan bakar]] mesin dan kendaraan atau proses yang melibatkan [[hidrogen]].<ref name=HistoryandUse /><ref name=Nature /> Isotop dari lutesium juga pernah digunakan untuk meneliti usia dari [[meteorit]].<ref name=HistoryandUse />
+
+== Fakta tambahan ==
+* Lutesium merupakan logam termahal di dunia dengan harga $ 75 atau setara dengan Rp 825.000 untuk setiap satu gram<ref name=Nature />
+* Nama lutesium berasal dari kata ''lutetia'', nama [[Latin]] dari kota [[Paris]], yang berarti sanggar kapal di sungai<ref name=Nature />
+
+== Referensi ==
+{{reflist}}
+
+{{clr}}
+
+{{Tabel periodik unsur kimia}}
+
+[[Kategori:Unsur kimia]]
+[[Kategori:Logam transisi]]

@@ -1,0 +1,629 @@
+Daftar misi penjaga perdamaian PBB
+Berikut ini adalah daftar misi penjaga perdamaian yang pernah dan sedang dilakukan oleh [[PBB]] sejak didirikan tahun 1945.
+
+Penjaga perdamaian (''peacekeeping'') didefinisikan oleh PBB sebagai cara yang dilakukan dalam menolong suatu negara yang terkoyak oleh konflik untuk menciptakan kondisi damai yang berkelanjutan. 
+
+== Misi lengkap ==
+=== [[Afrika]] ===
+{|border=0 cellpadding=1 cellspacing=1 width=98%
+|- bgcolor=#FFCC99
+!  width="10%" | '''Tanggal operasi'''
+!  width="40%" | '''Nama Operasi'''
+!  colspan=2; width="20%" | '''Lokasi'''
+!  width="25%" | '''Konflik'''
+!  width="5%" | '''Situs internet'''
+|- bgcolor=#FFE4C4
+|19601964
+|''United Nations Operation in the Congo'' ([[ONUC]])
+|width="4%" |{{flagicon|Republik Kongo}}
+|width="16%" |[[Republik Kongo|Kongo]] 
+|[[Krisis Kongo]]
+|[http://www.un.org/Depts/DPKO/Missions/onuc.htm]
+|- bgcolor=#FFE4C4
+|19881991
+|''United Nations Angola Verification Mission I'' ([[UNAVEM I]])
+|{{flagicon|Angola}}
+|[[Angola]]
+|[[Perang Kemerdekaan Angola]]
+|[http://www.un.org/Depts/DPKO/Missions/unavem1/unavemi.htm]
+|- bgcolor=#FFE4C4
+|19891990
+|''United Nations Transition Assistance Group'' ([[UNTAG]])
+|{{flagicon|Namibia}}
+|[[Namibia]]
+|[[Perang Kemerdekaan Namibia]]
+|[http://www.un.org/Depts/dpko/dpko/co_mission/untag.htm]
+|- bgcolor=#FFE4C4
+|19911995
+|''United Nations Angola Verification Mission II'' ([[UNAVEM II]])
+|{{flagicon|Angola}}
+|[[Angola]]
+|[[Perang Saudara Angola]]
+|[http://www.un.org/Depts/DPKO/Missions/Unavem2/Unavem2.htm]
+|- bgcolor=#FFE4C4
+|19921994
+|''United Nations Operation in Mozambique'' ([[ONUMOZ]])
+|{{flagicon|Mozambik}}
+|[[Mozambik]]
+|[[Perang Saudara Liberia]]
+|[http://www.un.org/Depts/dpko/dpko/co_mission/onumoz.htm]
+|- bgcolor=#FFE4C4
+|19921993
+|''United Nations Operation in Somalia I'' ([[UNOSOM I]])
+|{{flagicon|Somalia}}
+|[[Somalia]]
+|[[Perang Saudara Somalia]]
+|[http://www.un.org/Depts/dpko/dpko/co_mission/unosomi.htm]
+|- bgcolor=#FFE4C4
+|19931997
+|''United Nations Observer Mission in Liberia'' ([[UNOMIL]])
+|{{flagicon|Liberia}}
+|[[Liberia]]
+|[[Perang Saudara Liberia]]
+|[http://www.un.org/Depts/dpko/dpko/co_mission/unomil.htm]
+|- bgcolor=#FFE4C4
+|rowspan=2|19931994
+|rowspan=2|''United Nations Observer Mission Uganda-Rwanda'' ([[UNOMUR]])
+|{{flagicon|Rwanda}}
+|[[Rwanda]]
+|rowspan=2|[[Genosida Rwanda]]
+|rowspan=2|[http://www.un.org/Depts/dpko/dpko/co_mission/unomur.htm]
+|- bgcolor=#FFE4C4
+|{{flagicon|Uganda}}
+|[[Uganda]]
+|- bgcolor=#FFE4C4
+|19931996
+|''United Nations Assistance Mission for Rwanda'' ([[UNAMIR]])
+|{{flagicon|Rwanda}}
+|[[Rwanda]]
+|[[Genosida Rwanda]]
+|[http://www.un.org/Depts/dpko/dpko/co_mission/unamir.htm]
+|- bgcolor=#FFE4C4
+|19931995
+|''United Nations Operation in Somalia II'' ([[UNOSOM II]])
+|{{flagicon|Somalia}}
+|[[Somalia]]
+|[[Perang Saudara Somalia]]
+|[http://www.un.org/Depts/dpko/dpko/co_mission/unosom2.htm]
+|- bgcolor=#FFE4C4
+|rowspan=2|1994
+|rowspan=2|''United Nations Aouzou Strip Observer Group'' ([[UNASOG]])
+|{{flagicon|Chad}}
+|[[Chad]]
+|rowspan=2|[[Konflik Chad-Libya|Perselisihan Jalur Aouzou]]
+|rowspan=2|[http://www.un.org/Depts/dpko/dpko/co_mission/unasog.htm]
+|- bgcolor=#FFE4C4
+|{{flagicon|Libya}}
+|[[Libya]]
+|- bgcolor=#FFE4C4
+|19951997
+|''United Nations Angola Verification Mission III'' ([[UNAVEM III]])
+|{{flagicon|Angola}}
+|[[Angola]]
+|[[Perang Saudara Angola]]
+|[http://www.un.org/Depts/dpko/dpko/co_mission/unavem3.htm]
+|- bgcolor=#FFE4C4
+|19971999
+|''United Nations Observer Mission in Angola'' ([[MONUA]])
+|{{flagicon|Angola}}
+|[[Angola]]
+|[[Perang Saudara Angola]]
+|[http://www.un.org/Depts/DPKO/Missions/Monua/monua.htm]
+|- bgcolor=#FFE4C4
+|19981999
+|United Nations Observer Mission in Sierra Leone ([[UNOMSIL]])
+|{{flagicon|Sierra Leone}}
+|[[Sierra Leone]]
+|[[Perang Saudara Sierra Leone]]
+|[http://www.un.org/Depts/DPKO/Missions/unomsil/Unomsil.htm]
+|- bgcolor=#FFE4C4
+|19982000
+|''United Nations Mission in the Central African Republic'' ([[MINURCA]])
+|{{flagicon|Republik Afrika Tengah}}
+|[[Republik Afrika Tengah]]
+|[[Konflik Republik Afrika Tengah]]
+|[http://www.un.org/Depts/DPKO/Missions/car.htm]
+|- bgcolor=#FFE4C4
+|19992005
+|''United Nations Mission in Sierra Leone'' ([[UNAMSIL]])
+|{{flagicon|Sierra Leone}}
+|[[Sierra Leone]] 
+|[[Perang Saudara Sierra Leone]]
+|[http://www.un.org/Depts/dpko/missions/unamsil/]
+|- bgcolor=#FFE4C4
+|20042006
+|''United Nations Operation in Burundi'' ([[ONUB]])
+|{{flagicon|Burundi}}
+|[[Burundi]]
+|[[Perang Saudara Burundi]]
+|[http://www.un.org/Depts/dpko/missions/onub/]
+|}
+
+=== [[Amerika]] ===
+{|border=0 cellpadding=1 cellspacing=1 width=98%
+|- bgcolor=#FFCC99
+!  width="10%" | '''Tanggal operasi'''
+!  width="40%" | '''Nama Operasi'''
+!  colspan=2; width="20%" | '''Lokasi'''
+!  width="25%" | '''Konflik'''
+!  width="5%" | '''Situs internet'''
+|- bgcolor=#FFE4C4
+|19651966
+|''Mission of the Representative of the Secretary-General in the Dominican Republic'' ([[DOMREP]])
+|width="4%" |{{flagicon|Dominika}}
+|width="16%" |[[Dominika]]
+|[[Perang Saudara Dominika]]
+|[http://www.un.org/Depts/dpko/dpko/co_mission/domrep.htm]
+|- bgcolor=#FFE4C4
+|rowspan=5|19891992
+|rowspan=5|''United Nations Observer Group in Central America'' ([[ONUCA]])
+|{{flagicon|Kosta Rika}}<small><sup id="ref_CA" class="plainlinksneverexpand">[{{SERVER}}{{localurl:{{NAMESPACE}}:Daftar misi penjaga perdamaian PBB}}#endnote_CA 1]</sup></small>
+|rowspan=5|[[Amerika Tengah]]
+|rowspan=5|[[Perang Saudara Nikaragua]]
+|rowspan=5|[http://www.un.org/Depts/DPKO/Missions/onuca.htm]
+|- bgcolor=#FFE4C4
+|{{flagicon|El Salvador}}
+|- bgcolor=#FFE4C4
+|{{flagicon|Guatemala}}
+|- bgcolor=#FFE4C4
+|{{flagicon|Honduras}}
+|- bgcolor=#FFE4C4
+|{{flagicon|Nikaragua}}
+|- bgcolor=#FFE4C4
+|19911995
+|''United Nations Observer Mission in El Salvador'' ([[ONUSAL]])
+|{{flagicon|El Salvador}}
+|[[El Salvador]]
+|[[Perang Saudara El Salvador]]
+|[http://www.un.org/Depts/dpko/dpko/co_mission/onusal.htm]
+|- bgcolor=#FFE4C4
+|19931996
+|''United Nations Mission in Haiti'' ([[UNMIH]])
+|{{flagicon|Haiti}}
+|[[Haiti]]
+|[[Sejarah Haiti|Kudeta 1991 di Haiti]]
+|[http://www.un.org/Depts/dpko/dpko/co_mission/unmih.htm]
+|- bgcolor=#FFE4C4
+|19961997
+|''United Nations Support Mission in Haiti'' ([[UNSMIH]])
+|{{flagicon|Haiti}}
+|[[Haiti]]
+|[[Sejarah Haiti|Menstabilkan demokrasi baru di Haiti]]
+|[http://www.un.org/Depts/dpko/dpko/co_mission/unsmih.htm]
+|- bgcolor=#FFE4C4
+|1997
+|''United Nations Verification Mission in Guatemala'' ([[MINUGUA]])
+|{{flagicon|Guatemala}}
+|[[Guatemala]]
+|[[Perang Saudara Guatemala]]
+|[http://www.un.org/Depts/dpko/dpko/co_mission/minugua.htm]
+|- bgcolor=#FFE4C4
+|1997
+|''United Nations Transition Mission in Haiti'' ([[UNTMIH]])
+|{{flagicon|Haiti}}
+|[[Haiti]]
+|Melatih Polisi Nasional Haiti
+|[http://www.un.org/Depts/dpko/dpko/co_mission/untmih.htm]
+|- bgcolor=#FFE4C4
+|19972000
+|''United Nations Civilian Police Mission in Haiti'' ([[MIPONUH]])
+|{{flagicon|Haiti}}
+|[[Haiti]]
+|Melatih Polisi Nasional Haiti
+|[http://www.un.org/Depts/dpko/dpko/co_mission/miponuh.htm]
+|}
+<small><sup><cite id="endnote_CA">[[#ref CA|1]]</cite>&nbsp;</sup> Bendera-bendera yang diperlihatkan adalah bendera dari lima negara di mana ONUCA beroperasi. Mereka adalah (diurutkan secara alfabet): [[Kosta Rika]], [[El Salvador]], [[Guatemala]], [[Honduras]], and [[Nikaragua]]. </small>
+
+=== [[Asia]] ===
+{|border=0 cellpadding=1 cellspacing=1 width=98%
+|- bgcolor=#FFCC99
+!  width="10%" | '''Tanggal operasi'''
+!  width="40%" | '''Nama Operasi'''
+!  colspan=2; width="20%" | '''Lokasi'''
+!  width="25%" | '''Konflik'''
+!  width="5%" | '''Situs internet'''
+|- bgcolor=#FFE4C4
+|rowspan=2|19621963
+|rowspan=2|''United Nations Security Force in West New Guinea'' ([[UNSF]])
+|width="4%" |{{flagicon|Indonesia}}
+|width="16%"; rowspan=2|[[Papua|Papua Barat]]
+|rowspan=2|[[Tri Komando Rakyat|Indonesia mengambil alih Papua Barat]]
+|rowspan=2|[http://www.un.org/Depts/dpko/dpko/co_mission/unsf.htm]
+|- bgcolor=#FFE4C4
+|{{flagicon|Belanda}}
+|- bgcolor=#FFE4C4
+|rowspan=2|19651966
+|rowspan=2|''United Nations India-Pakistan Observation Mission'' ([[UNIPOM]])
+|{{flagicon|India}}
+|[[India]]
+|rowspan=2|[[Perang India-Pakistan 1965]]
+|rowspan=2|[http://www.un.org/Depts/dpko/dpko/co_mission/unipom.htm]
+|- bgcolor=#FFE4C4
+|{{flagicon|Pakistan}}
+|[[Pakistan]]
+|- bgcolor=#FFE4C4
+|rowspan=2|19881990
+|rowspan=2|''United Nations Good Offices Mission in Afghanistan and Pakistan''  ([[UNGOMAP]])
+|{{flagicon|Afganistan}}
+|[[Afganistan]]
+|rowspan=2|[[Invasi Soviet ke Afganistan]]
+|rowspan=2|[http://www.un.org/Depts/dpko/dpko/co_mission/ungomap/]
+|- bgcolor=#FFE4C4
+|{{flagicon|Pakistan}}
+|[[Pakistan]]
+|- bgcolor=#FFE4C4
+|19911992
+|''United Nations Advance Mission in Cambodia'' ([[UNAMIC]])
+|{{flagicon|Kamboja}}
+|[[Kamboja]]
+|[[Khmer Merah|Jatuhnya Khmer Merah]]
+|[http://www.un.org/Depts/dpko/dpko/co_mission/unamic.htm]
+|- bgcolor=#FFE4C4
+|19921993
+|''United Nations Transitional Authority in Cambodia'' ([[UNTAC]])
+|{{flagicon|Kamboja}}
+|[[Kamboja]]
+|[[Khmer Merah|Jatuhnya Khmer Merah]]
+|[http://www.un.org/Depts/dpko/dpko/co_mission/untac.htm]
+|- bgcolor=#FFE4C4
+|19942000
+|''United Nations Mission of Observers in Tajikistan'' ([[UNMOT]])
+|{{flagicon|Tajikistan}}
+|[[Tajikistan]]
+|[[Perang Saudara Tajikistan]]
+|[http://www.un.org/Depts/DPKO/Missions/unmot/Unmot.htm]
+|- bgcolor=#FFE4C4
+|rowspan=2|1999
+|rowspan=2|''United Nations Mission in East Timor'' ([[UNAMET]])
+|{{flagicon|Timor Timur}}<small><sup id="ref_ET" class="plainlinksneverexpand">[{{SERVER}}{{localurl:{{NAMESPACE}}:Daftar misi penjaga perdamaian PBB}}#endnote_ET 1]</sup></small>
+|rowspan=2|[[Timor Timur]]
+|rowspan=2|[[Sejarah Timor Timur|Referendum Timor Timur]]
+|rowspan=2|[http://www.un.org/peace/etimor99/etimor.htm]
+|- bgcolor=#FFE4C4
+|{{flagicon|Indonesia}}
+|- bgcolor=#FFE4C4
+|rowspan=2|19992002
+|rowspan=2|''The United Nations Transitional Administration in East Timor'' ([[UNTAET]]) 
+|{{flagicon|Timor Timur}}<small><sup id="ref_ET" class="plainlinksneverexpand">[{{SERVER}}{{localurl:{{NAMESPACE}}:Daftar misi penjaga perdamaian PBB}}#endnote_ET 1]</sup></small>
+|rowspan=2|[[Timor Timur]]
+|rowspan=2|[[Sejarah Timor Timur|Referendum Timor Timur]]
+|rowspan=2|[http://www.un.org/peace/etimor/etimor.htm]
+|- bgcolor=#FFE4C4
+|{{flagicon|Indonesia}}
+|- bgcolor=#FFE4C4
+|20022005
+|''United Nations Mission of Support in East Timor'' ([[UNMISET]]) 
+|{{flagicon|Timor Timur}}
+|[[Timor Timur]]
+|[[Sejarah Timor Timur|Referendum Timor Timur]]
+|[http://www.un.org/Depts/dpko/missions/unmiset/]
+|}
+|20052007
+|''United Nations Office in Timor Leste'' ([[UNOTIL]]) 
+|{{flagicon|Timor Timur}}
+|[[Timor Timur]]
+|[[Sejarah Timor Timur|Referendum Timor Timur]]
+|[http://www.un.org/Depts/dpko/missions/unmiset/]
+|}
+
+
+<small><sup><cite id="endnote_ET">[[#ref ET|1]]</cite>&nbsp;</sup> Bendera yang diperlihatkan adalah bendera negara [[Timor Timur]] yang baru berdiri dan negara yang dahulu mendudukinya, [[Indonesia]] (berurutan). </small>
+
+=== [[Eropa]] ===
+{|border=0 cellpadding=1 cellspacing=1 width=98%
+|- bgcolor=#FFCC99
+!  width="10%" | '''Tanggal operasi'''
+!  width="40%" | '''Nama Operasi'''
+!  colspan=2; width="20%" | '''Lokasi'''
+!  width="25%" | '''Konflik'''
+!  width="5%" | '''Situs internet'''
+|- bgcolor=#FFE4C4
+|rowspan=4|19921995
+|rowspan=4|''United Nations Protection Force'' ([[UNPROFOR]])
+|width="4%" |{{flagicon|Bosnia dan Herzegovina}}<small><sup id="ref_Yugo" class="plainlinksneverexpand">[{{SERVER}}{{localurl:{{NAMESPACE}}:Daftar misi penjaga perdamaian PBB}}#endnote_Yugo 1]</sup></small>
+|width="16%"; rowspan=4|[[Negara pecahan Yugoslavia]]
+|rowspan=4|[[Perang Yugoslavia]]
+|rowspan=4|[http://www.un.org/Depts/dpko/dpko/co_mission/unprofor.htm]
+|- bgcolor=#FFE4C4
+|{{flagicon|Kroasia}}
+|- bgcolor=#FFE4C4
+|{{flagicon|Makedonia}}
+|- bgcolor=#FFE4C4
+|{{flagicon|Serbia dan Montenegro}}
+|- bgcolor=#FFE4C4
+|19941996
+|''United Nations Confidence Restoration Operation'' ([[UNCRO]])
+|{{flagicon|Kroasia}}
+|[[Kroasia]]
+|[[Perang Kroasia]]
+|[http://www.un.org/Depts/dpko/dpko/co_mission/uncro.htm]
+|- bgcolor=#FFE4C4
+|19952002
+|''United Nations Mission in Bosnia and Herzegovina'' ([[UNMIBH]])
+|{{flagicon|Bosnia dan Herzegovina}}
+|[[Bosnia dan Herzegovina]]
+|[[Perang Bosnia]]
+|[http://www.un.org/Depts/dpko/missions/unmibh/]
+|- bgcolor=#FFE4C4
+|19951999
+|''United Nations Preventive Deployment Force'' ([[UNPREDEP]])
+|{{flagicon|Makedonia}}
+|[[Makedonia]]
+|[[Sejarah Makedonia|Setelah perang Yugoslavia]]
+|[http://www.un.org/Depts/dpko/dpko/co_mission/unpredep.htm]
+|- bgcolor=#FFE4C4
+|19961998
+|''United Nations Transitional Authority in Eastern Slavonia, Baranja and Western Sirmium'' ([[UNTAES]])
+|{{flagicon|Kroasia}}
+|[[Kroasia]]
+|[[Perang Kroasia]]
+|[http://www.un.org/Depts/dpko/dpko/co_mission/untaes.htm]
+|- bgcolor=#FFE4C4
+|rowspan=2|19962002
+|rowspan=2|''United Nations Mission of Observers in Prevlaka'' ([[UNMOP]])
+|{{flagicon|Croatia}}<small><sup id="ref_Prev" class="plainlinksneverexpand">[{{SERVER}}{{localurl:{{NAMESPACE}}:Daftar misi penjaga perdamaian PBB}}#endnote_Prev 2]</sup></small>
+|rowspan=2|[[Prevlaka|Semenanjung Prevlaka]]
+|rowspan=2|[[Prevlaka|Perselisihan perbatasan Prevlaka]]
+|rowspan=2|[http://www.un.org/Depts/dpko/missions/unmop/]
+|- bgcolor=#FFE4C4
+|{{flagicon|Serbia dan Montenegro}}
+|- bgcolor=#FFE4C4
+|1998
+|''United Nations Civilian Police Support Group'' ([[UNPSG]])
+|{{flagicon|Kroasia}}
+|[[Kroasia]]
+|[[Perang Kroasia]]
+|[http://www.un.org/Depts/DPKO/Missions/cropol.htm]
+|}
+
+<small><sup><cite id="endnote_Yugo">[[#ref Yugo|1]]</cite>&nbsp;</sup> Misi ini dijalankan di negara-negara pecahan Yugoslavia yaitu [[Bosnia dan Herzegovina]], [[Kroasia]], [[Makedonia]], dan [[Serbia dan Montenegro]]. Bendera diperlihatkan sesuai urutan. </small>
+
+<small><sup><cite id="endnote_Prev">[[#ref Prev|2]]</cite>&nbsp;</sup> [[Prevlaka|Semenanjung Prevlaka]] diklaim oleh [[Kroasia]] dan [[Serbia dan Montenegro]]. Bendera diperlihatkan berurutan. Setelah resolusi, kedua belah pihak menerima klaim Kroasia untuk daerah ini.</small>
+
+=== [[Timur Tengah]] ===
+{|border=0 cellpadding=1 cellspacing=1 width=98%
+|- bgcolor=#FFCC99
+!  width="10%" | '''Tanggal operasi'''
+!  width="40%" | '''Nama Operasi'''
+!  colspan=2; width="20%" | '''Lokasi'''
+!  width="25%" | '''Konflik'''
+!  width="5%" | '''Situs internet'''
+|- bgcolor=#FFE4C4
+|rowspan=2|19561967
+|rowspan=2|''First United Nations Emergency Force'' ([[UNEF I]])
+|width="4%" |[[Berkas:Flag of Egypt.svg|25px]]
+|width="16%" |[[Mesir]]
+|rowspan=2|[[Krisis Suez]], [[Perang Enam Hari]] 
+|rowspan=2|[http://www.un.org/Depts/dpko/dpko/co_mission/unefi.htm]
+|- bgcolor=#FFE4C4
+|{{flagicon|Israel}}
+|[[Israel]]
+|- bgcolor=#FFE4C4
+|1958
+|''United Nations Observation Group in Lebanon'' ([[UNOGIL]])
+|{{flagicon|Lebanon}}
+|[[Lebanon]]
+|[[Krisis Lebanon 1958]]
+|[http://www.un.org/Depts/dpko/dpko/co_mission/unogil.htm]
+|- bgcolor=#FFE4C4
+|19631964
+|''United Nations Yemen Observation Mission'' ([[UNYOM]])
+|{{flagicon|Yaman}}
+|[[Yaman]]
+|[[Perang Saudara Yaman]]
+|[http://www.un.org/Depts/dpko/dpko/co_mission/unyom.htm]
+|- bgcolor=#FFE4C4
+|rowspan=2|19731979
+|rowspan=2|''Second United Nations Emergency Force'' ([[UNEF II]])
+|[[Berkas:Flag of Egypt.svg|25px]]
+|[[Mesir]]
+|rowspan=2|[[Perang Yom Kippur]]
+|rowspan=2|[http://www.un.org/Depts/dpko/dpko/co_mission/unefii.htm]
+|- bgcolor=#FFE4C4
+|{{flagicon|Israel}}
+|[[Israel]]
+|- bgcolor=#FFE4C4
+|rowspan=2|19881991
+|rowspan=2|''United Nations Iran-Iraq Military Observer Group'' ([[UNIIMOG]])
+|{{flagicon|Iran}}
+|[[Iran]]
+|rowspan=2|[[Perang Iran-Irak]]
+|rowspan=2|[http://www.un.org/Depts/dpko/dpko/co_mission/uniimog.htm]
+|- bgcolor=#FFE4C4
+|{{flagicon|Irak}}
+|[[Irak]]
+|- bgcolor=#FFE4C4
+|rowspan=2|19912003
+|rowspan=2|''United Nations Iraq-Kuwait Observation Mission'' ([[United Nations Iraq-Kuwait Observation Mission|UNIKOM]])
+|{{flagicon|Irak}}
+|[[Irak]]
+|rowspan=2|[[Perang Teluk]]
+|rowspan=2|[http://www.un.org/Depts/dpko/missions/unikom/]
+|- bgcolor=#FFE4C4
+|{{flagicon|Kuwait}}
+|[[Kuwait]]
+|}
+
+== Misi yang sedang dilakukan ==
+=== Afrika ===
+{|border=0 cellpadding=1 cellspacing=1 width=98%
+|- bgcolor=#99CCFF
+!  width="10%" | '''Tanggal operasi'''
+!  width="40%" | '''Nama Operasi'''
+!  colspan=2; width="20%" | '''Lokasi'''
+!  width="25%" | '''Konflik'''
+!  width="5%" | '''Situs internet'''
+|- bgcolor=#F4F9FF 
+|1991
+|''United Nations Mission for the Referendum in Western Sahara'' ([[MINURSO]])
+|width="4%" |{{flagicon|Sahara Barat}}
+|width="16%" |[[Sahara Barat]] 
+|[[Sejarah Sahara Barat|Pendudukan Maroko di Sahara Barat]]
+|[http://www.un.org/Depts/dpko/missions/minurso/]
+|- bgcolor=#F4F9FF 
+|1999
+|''Mission de l'Organisation des Nations Unies en Rpublique Dmocratique du Congo '' ([[MONUC]])
+|{{flagicon|Republik Demokratik Kongo}}
+|[[Republik Demokratik Kongo]] 
+|[[Konflik Kongo II]]
+|[https://archive.is/20120917120936/www.un.org/Depts/dpko/missions/monuc/]
+|- bgcolor=#F4F9FF 
+|rowspan=2|2000
+|rowspan=2|''United Nations Mission in Ethiopia and Eritrea'' ([[UNMEE]])
+|{{flagicon|Eritrea}}
+|[[Eritrea]]
+|rowspan=2|[[Perang Ethiopia-Eritrea]]
+|rowspan=2|[http://www.un.org/Depts/dpko/missions/unmee/]
+|- bgcolor=#F4F9FF
+|{{flagicon|Ethiopia}}
+|[[Ethiopia]]
+|- bgcolor=#F4F9FF 
+|2003
+|''United Nations Mission in Liberia'' ([[UNMIL]])
+|{{flagicon|Liberia}}
+|[[Liberia]] 
+|[[Perang Saudara Liberia II]]
+|[http://www.un.org/Depts/dpko/missions/unmil/]
+|- bgcolor=#F4F9FF 
+|2004
+|''United Nations Operation in Cte d'Ivoire'' ([[UNOCI]])
+|{{flagicon|Pantai Gading}}
+|[[Pantai Gading]]
+|[[Perang Saudara Pantai Gading]]
+|[http://www.un.org/Depts/dpko/missions/unoci/]
+|- bgcolor=#F4F9FF 
+|2005
+|''United Nations Mission in the Sudan'' ([[UNMIS]])
+|{{flagicon|Sudan}}
+|[[Sudan]] 
+|[[Konflik Sudan II]]
+|[https://archive.is/20120914061715/www.un.org/Depts/dpko/missions/unmis/]
+|}
+
+=== Amerika ===
+{|border=0 cellpadding=1 cellspacing=1 width=98%
+|- bgcolor=#99CCFF
+!  width="10%" | '''Tanggal operasi'''
+!  width="40%" | '''Nama Operasi'''
+!  colspan=2; width="20%" | '''Lokasi'''
+!  width="25%" | '''Konflik'''
+!  width="5%" | '''Situs internet'''
+|- bgcolor=#F4F9FF 
+|2004
+|''United Nations Stabilization Mission in Haiti'' ([[MINUSTAH]])
+|width="4%" |{{flagicon|Haiti}}
+|width="16%" |[[Haiti]]
+|[[Pemberontakan Haiti 2004]]
+|[http://www.un.org/Depts/dpko/missions/minustah/]
+|}
+
+=== Asia ===
+{|border=0 cellpadding=1 cellspacing=1 width=98%
+|- bgcolor=#99CCFF
+!  width="10%" | '''Tanggal operasi'''
+!  width="40%" | '''Nama Operasi'''
+!  colspan=2; width="20%" | '''Lokasi'''
+!  width="25%" | '''Konflik'''
+!  width="5%" | '''Situs internet'''
+|- bgcolor=#F4F9FF 
+|rowspan=2|1949
+|rowspan=2|''United Nations Military Observer Group in India and Pakistan'' ([[UNMOGIP]])
+|width="4%" |{{flagicon|India}}
+|width="16%" |[[India]]
+|rowspan=2|[[Perang India-Pakistan]]
+|rowspan=2|[http://www.un.org/Depts/dpko/missions/unmogip/]
+|- bgcolor=#F4F9FF
+|{{flagicon|Pakistan}}
+|[[Pakistan]]
+|- bgcolor=#F4F9FF 
+|rowspan=2|2006
+|rowspan=2|''United Nations Integrated Mission in Timor-Leste'' ([[UNMIT]])
+|width="4%" |{{flagicon|Timor Timur}}
+|width="16%" |[[Timor Timur]]
+|rowspan=2|[[Krisis Timor Timur 2006]]
+|rowspan=2|[https://archive.is/20120523225709/www.un.org/Depts/dpko/missions/unmit/index.html]
+|}
+
+=== Eropa ===
+{|border=0 cellpadding=1 cellspacing=1 width=98%
+|- bgcolor=#99CCFF
+!  width="10%" | '''Tanggal operasi'''
+!  width="40%" | '''Nama Operasi'''
+!  colspan=2; width="20%" | '''Lokasi'''
+!  width="25%" | '''Konflik'''
+!  width="5%" | '''Situs internet'''
+|- bgcolor=#F4F9FF 
+|rowspan=2|1964
+|rowspan=2|''United Nations Peacekeeping Force in Cyprus'' ([[UNFICYP]])
+|width="4%" |{{flagicon|Siprus}}<small><sup id="ref_Cyp" class="plainlinksneverexpand">[{{SERVER}}{{localurl:{{NAMESPACE}}:Daftar misi penjaga perdamaian PBB}}#endnote_Cyp 1]</sup></small>
+|rowspan=2; width="16%" |[[Siprus]]
+|rowspan=2|[[Konflik Siprus]]
+|rowspan=2|[http://www.un.org/Depts/dpko/missions/unficyp/]
+|- bgcolor=#F4F9FF 
+|{{flagicon|Republik Turki Siprus Utara}}
+|- bgcolor=#F4F9FF 
+|1993
+|''United Nations Observer Mission in Georgia'' ([[UNOMIG]])
+|{{flagicon|Georgia}}
+|[[Georgia (negara)|Georgia]]
+|[[Abkhazia|Perang Abkhazian]]
+|[http://www.un.org/Depts/dpko/missions/unomig/]
+|- bgcolor=#F4F9FF 
+|rowspan=2|1999
+|rowspan=2|''United Nations Interim Administration Mission in Kosovo'' ([[UNMIK]])
+|{{flagicon|Albania}}<small><sup id="ref_Kos" class="plainlinksneverexpand">[{{SERVER}}{{localurl:{{NAMESPACE}}:Daftar misi penjaga perdamaian PBB}}#endnote_Kos 2]</sup></small>
+|rowspan=2|[[Kosovo]]
+|rowspan=2|[[Perang Kosovo]]
+|rowspan=2|[http://www.un.org/Depts/dpko/missions/unmik/]
+|- bgcolor=#F4F9FF 
+|{{flagicon|Serbia}}
+|}
+
+<small><sup><cite id="endnote_Cyp">[[#ref Cyp|1]]</cite>&nbsp;</sup> PBB dan pemerintahan negara-negara lainnya kecuali [[Turki]], mengakui kekuasaan [[Siprus|Republik Siprus]], yang benderanya digambarkan di sini, atas seluruh daerah di pulau Siprus. Bendera kedua adalah bendera negara [[Republik Turki Siprus Utara]], negara ''de facto'', yang menguasai sepertiga dari pulau tersebut, yang hanya diakui oleh Turki dan [[OKI]].</small>
+
+<small><sup><cite id="endnote_Kos">[[#ref Kos|2]]</cite>&nbsp;</sup> Tidak ada bendera resmi untuk Kosovo. Bendera pertama adalah bendera Albania, yang mendapat dukungan dari etnis Albanian yang menjadi penduduk mayoritas di Kosovo. Bendera di bawahnya adalah bendera Serbia yang mengusai Kosovo secara formal menunggu status hasil diskusi final.</small>
+
+=== Timur Tengah ===
+{|border=0 cellpadding=1 cellspacing=1 width=98%
+|- bgcolor=#99CCFF
+!  width="10%" | '''Tanggal operasi'''
+!  width="40%" | '''Nama Operasi'''
+!  colspan=2; width="20%" | '''Lokasi'''
+!  width="25%" | '''Konflik'''
+!  width="5%" | '''Situs internet'''
+|- bgcolor=#F4F9FF 
+|1948
+|''United Nations Truce Supervision Organization'' ([[UNTSO]])
+|width="4%" |[[Berkas:MiddleEast.png|25px]]<small><sup id="ref_ME" class="plainlinksneverexpand">[{{SERVER}}{{localurl:{{NAMESPACE}}:Daftar misi penjaga perdamaian PBB}}#endnote_ME 1]</sup></small>
+|width="16%" |[[Timur Tengah]]
+|(Mengawasi berbagai gencatan senjata dan membantu [[UNDOF]] dan [[UNIFIL]])
+|[http://www.un.org/Depts/dpko/missions/untso/]
+|- bgcolor=#F4F9FF 
+|rowspan=3|1974
+|rowspan=3|''United Nations Disengagement Observer Force'' ([[UNDOF]])
+|{{flagicon|Israel}}<small><sup id="ref_GH" class="plainlinksneverexpand">[{{SERVER}}{{localurl:{{NAMESPACE}}:Daftar misi penjaga perdamaian PBB}}#endnote_GH 2]</sup></small>
+|rowspan=3|[[Dataran tinggi Golan]]
+|rowspan=3|Persetujuan penarikan pasukan [[Suriah]] dan [[Israel]] setelah [[Perang Yom Kippur]].
+|rowspan=3|[http://www.un.org/Depts/dpko/missions/undof/]
+|- bgcolor=#F4F9FF 
+|{{flagicon|Lebanon}}
+|- bgcolor=#F4F9FF 
+|{{flagicon|Suriah}}
+|- bgcolor=#F4F9FF 
+|1978
+|''United Nations Interim Force in Lebanon'' ([[UNIFIL]])
+|{{flagicon|Lebanon}}
+|[[Lebanon]]
+|[[Operation Litani|Invasi Israel]] atas Lebanon dan [[Konflik Lebanon-Israel 2006]]
+|[http://www.un.org/Depts/dpko/missions/unifil/]
+|}
+
+<small><sup><cite id="endnote_ME">[[#ref ME|1]]</cite>&nbsp;</sup> Tidak ada bendera resmi untuk seluruh daerah Timur Tengah. Yang diperlihatkan adalah peta Timur Tengah.</small>
+
+<small><sup><cite id="endnote_GH">[[#ref GH|2]]</cite>&nbsp;</sup> Berbagai daerah di Golan diklaim oleh Israel, Lebanon, dan Syria; semua bendera diperlihatkan dalam urutan alfabet.</small>
+
+== Referensi ==
+:''Lihat masing-masing situs internet untuk setiap misi dalam daftar.''
+* [http://www.un.org/Depts/dpko/dpko/index.asp Situs penjaga perdamaian PBB]
+
+[[Kategori:Pasukan perdamaian PBB]]

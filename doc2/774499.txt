@@ -1,0 +1,17 @@
+Templat:Editor baru
+{{Ambox
+| type  = content
+| image = [[Berkas:Wikipedia_Reviewer.svg|40px]]
+| text  = Selamat dan sukses atas pengangkatan Anda sebagai [[Wikipedia:Editor|Editor]] [[Wikipedia]] bahasa [[Indonesia]]. Semoga dapat terus berkontribusi mengembangkan [[Wikipedia]] bahasa [[Indonesia]], menyunting artikel yang perlu disempurnakan, merintis artikel bermutu, berpatroli menangani artikel yang terkena vandal. Jangan lupa bantu editor lainnya memeriksa [[Istimewa:Halaman_tertinjau_usang|halaman tertinjau usang]]. Sampaikanlah gagasan Anda, baik melalui [[Wikipedia:Warung Kopi|Warung Kopi]], diskusi personal dengan sesama pengguna, dan diskusi lainnya. ''{{{1}}}''
+}}
+<noinclude>
+== Cara penggunaan ==
+<tt><nowiki>{{Editor_baru|Tanda tangan}}</nowiki>
+<br>
+<br>
+Contoh:
+<br>
+<nowiki>{{Editor_baru|~~~~}}</nowiki>
+</tt>.
+[[Kategori:Templat BintangWiki]]
+</noinclude>

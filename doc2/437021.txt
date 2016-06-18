@@ -1,0 +1,30 @@
+Templat:Musicawards
+{{Navbox
+|name  = Musicawards
+| listclass = hlist
+| title = Acara Penghargaan Musik Amerika
+|group1 = Multi-genre
+|list1  = [[Penghargaan Grammy|Grammy]]{{}} [[American Music Award|American Music]]{{}} [[MTV Video Music Awards|Video Music Award]]{{}} {{}} [[Billboard Music Award|Billboard]] (1990-2006; 2011-){{}} [[YouTube Music Awards]] {{}} [[GMA Dove Award|Dove]]{{}} [[NAACP Image Award|NAACP Image]]{{}} [[People's Choice Awards|People's Choice]]{{}} [[Detroit Music Awards|Detroit Music]]
+|group2 = Country 
+|list2  = [[Academy of Country Music]]{{}} [[American Country Awards]]{{}} [[Country Music Association Awards|Country Music Association]]{{}} [[CMT Music Awards|CMT]] 
+|group3 = Rock / Pop
+|list3  = [[Rock and Roll Hall of Fame]]
+|group4 = Latin
+|list4  = [[Latin Grammy Award|Latin Grammy]]{{}} [[Billboard Latin Music Awards|Billboard Latin]] {{}} [[Lo Nuestro Awards|Premios Lo Nuestro]] {{}} [[Los Premios MTV Latinoamrica]]{{}} [[Premios Juventud]]
+|group5 = Hip Hop / R&B
+|list5  = [[BET Awards|BET]]{{}} [[BET Hip Hop Awards|BET Hip Hop]]{{}} [[Ozone (majalah)|Ozone]]{{}} [[Soul Train Music Awards|Soul Train]]
+|group6 = Youth
+|list6  = [[Nickelodeon Kids' Choice Awards|Nickelodeon Kids' Choice]]{{}} [[Teen Choice Awards|Teen Choice]]
+|group7 = Audio
+|list7  = [[TEC Awards|TEC]] 
+|group8 = Gospel
+|list8  = [[Stellar Awards]]{{}} [[Singing News Fan Awards|Singing News]]
+|group9 = Tidak dilanjutkan
+|list9  = [[Radio Music Awards|Radio Music]]
+}}<noinclude>
+[[Kategori:Templat penghargaan musik Amerika|{{PAGENAME}}]]
+
+
+
+
+</noinclude>

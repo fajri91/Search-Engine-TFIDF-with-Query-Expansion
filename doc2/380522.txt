@@ -1,0 +1,84 @@
+Belo, Kamerun
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|official_name          = Belo
+|other_name             =
+|native_name            =  <!-- for cities whose native name is not in English -->
+|nickname               = 
+|settlement_type        =[[Komune di Kamerun|Komune]]
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = 
+|imagesize              = 
+|image_caption          = 
+|image_flag             = 
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|image_map              = 
+|mapsize                = 
+|map_caption            = 
+|pushpin_map            =
+|pushpin_label_position =bottom
+|pushpin_map_caption    =Lokasi di Kamerun
+|subdivision_type       = Negara
+|subdivision_name       = {{negaranama|Kamerun}}
+|subdivision_type1      = [[Provinsi di Kamerun|Provinsi]] 
+|subdivision_name1      = [[Provinsi Barat Laut, Kamerun|Barat Laut]]
+|subdivision_type2      = [[Departemen di Kamerun|Departemen]] 
+|subdivision_name2      = [[Boyo]]
+|subdivision_type3      = 
+|subdivision_name3      = 
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =
+|leader_name            =
+|established_title      =  <!-- Settled -->
+|established_date       = 
+<!-- Area    --------------------->
+|area_magnitude         = 
+|unit_pref                =Imperial <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes           =
+|area_total_km2           = 
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+<!-- Population   ----------------------->
+|population_as_of               = 
+|population_footnotes           =
+|population_note                =
+|population_total               = 
+|population_density_km2         =
+<!-- General information  --------------->
+|timezone               = [[West Africa Time|WAT]]
+|utc_offset             = +1
+|timezone_DST           = 
+|utc_offset_DST         = 
+|latd=|latm= |lats= |latNS=N
+|longd=|longm=|longs=|longEW=E
+|elevation_footnotes    =  <!--for references: use <ref> tags-->
+|elevation_m            = 
+|elevation_ft           = <!-- accord. to Google Earth-->
+<!-- Area/postal codes & others -------->
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              =
+|blank_name             =
+|blank_info             =
+|website                = 
+|footnotes              = 
+}}
+{{untuk|pengertian lain|Belo}}
+'''Belo''' adalah [[kota]] dan [[komune di Kamerun]].
+
+==Rujukan==
+* [http://www.spm.gov.cm/elections/minicipales2002/maires2002_adamaoua.htm Site de la primature - lections municipales 2002] {{fr icon}}
+* [http://www.cidegef.refer.org/douala/DONATIEN_AVELE.doc Contrle de gestion et performance des services publics communaux des villes camerounaises ]- Thse de Donation Avele, Universit Montesquieu Bordeaux IV {{fr icon}}
+* Charles Nanga, ''[http://www.ena.fr/index.php?module=doc&action=getFile&id=408 La rforme de ladministration territoriale au Cameroun  la lumire de la loi constitutionnelle n 96/06 du 18 janvier 1996]'', Mmoire ENA. {{fr icon}}
+
+{{coord|6|08|N|10|15|E|display=title|region:CM_type:city_source:GNS-enwiki}}
+
+[[Kategori:Kota di Kamerun]]
+
+
+{{Kamerun-geo-stub}}

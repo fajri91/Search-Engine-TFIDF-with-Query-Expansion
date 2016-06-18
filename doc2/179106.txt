@@ -1,0 +1,66 @@
+
+{{Unicode|'''''', ''''''}} ([[c]]-[[cedilla]]) adalah huruf dalam [[bahasa Albania]], [[bahasa Turki|Turki]], [[bahasa Azerbaijan|Azerbaijan]], [[bahasa Turkmenistan|Turkmenistan]], [[bahasa Tatar|Tatar]], [[bahasa Kurdi]] dan [[bahasa Zaza]]. Huruf ini juga muncul dalam [[bahasa Portugis]], [[bahasa Perancis|Perancis]], [[bahasa Inggris|Inggris]], [[bahasa Occitan|Occitan]], [[bahasa Katalan|Katalan]] dan [[bahasa Friulian]] sebagai varian huruf "c".
+
+Pertama digunakan untuk suara [[afrikat alveolar tanpa suara]] {{IPA|/ts/}} dalam [[bahasa Spanyol Lama|Spanyol Lama]] dan dari bentuk huruf "z" [[skrip Visigoth|Visigoth]]. [[Fonem]] ini berasal dari [[Vulgar Latin]] dari [[palatalisasi]] plosif {{IPA|/t/}} dan {{IPA|/k/}} dalam beberapa kondisi. Kemudian, {{IPA|/ts/}} berubah menjadi {{IPA|/s/}} di banyak [[bahasa Romance]] dan dialek. Spanyol tidak menggunakan simbol ini sejak [[reformasi ortografi]] pada abad ke-18, tapi diadopsi untuk penulisan bahasa lain.
+
+Di [[International Phonetic Alphabet]], {{IPA|//}} mewakili [[frikatif palatal tanpa suara]].
+
+== Penggunaan sebagai varian huruf di berbagai bahasa ==
+Mewakili {{IPA|/s/}} bersuara lembut dimana "c" dapat mewakili {{IPA|/k/}} bersuara "keras" (sebelum "a", "o", "u", atau di akhir kata), di beberapa bahasa berikut:
+* [[bahasa Katalan|Katalan]]. Dikenal sebagai ''ce trencada'' ("C patah") pada bahasa ini. Beberapa contoh kata dengan "c"-cedilla adalah: ''torut'' "diremas", ''o'' "ini", ''bra'' "lengan", ''fal'' "sickle", ''vora'' "voracious", ''caar'' "memburu", ''llanar'' "melempar". Kata terkenal dengan karakter ini adalah Bara, sebuah huruf Katalan yang umum untuk c salah satu tim [[sepak bola]] Barcelona, juga digunakan di seluruh dunia, termasuk oleh media berbahasa Spanyol.
+* [[bahasa Perancis|Perancis]] (''c cdille''). Contoh: ''franais'' "bahasa perancis", ''grinant'' "mencicit", ''leon'' "pelajaran", ''reu'' "menerima" (past participle). Perancis menggunakan karakter ini pada awal kata (''a'' "itu"), tapi tidak pada akhir.<ref>The [[French Academy]] online [http://atilf.atilf.fr/academie9.htm dictionary] also gives '''' and ''dra''.</ref> Di buku komik Perancis yang berhuruf kapital seluruhnya, cedilla ditulis sebagai garis miring melintasi bagian tengah lengkungan bawah huruf "C", pada sudut [[aksen akut]]. Juga "" hanya digunakan di depan huruf a, o dan u. Tidak dibutuhkan di depan e, i dan y.
+* [[bahasa Occitan|Occitan]] (''ce cedilha''). Contoh: ''torut'' "diremas", '''' "ini", ''a que la'' "bagaimanapun", ''bra'' "lengan", ''br'' "cradle", ''vora'' "voracious".
+* [[bahasa Portugis|Portugis]] (''c cedilhado'' atau ''c-cedilha''). Denotasi /s/ tak bersuara di antara huruf vokal. Contoh: ''taa'' "cangkir", ''brao'' "lengan", ''acar'' "gula", "corao" "jantung". Portugis Modern tidak pernah menggunakan karakter ini di awal atau di akhir kata.
+* [[bahasa Spanyol|Spanyol]] dan [[bahasa Basque|Basque]] (sebelum abad ke-20)
+* [[bahasa Friulian|Friulian]] (''c cun cedilie''). Menandakan [[afrikat postalveolar tanpa suara]] {{IPA|/t/}} sebelum "a", "o", "u" atau di akhir kata.
+
+== Penggunaan huruf terpisah di berbagai bahasa ==
+Menandakan [[afrikat postalveolar tanpa suara]] {{IPA|/t/}} dalam bahasa berikut:
+* [[bahasa Albania|Albania]]: huruf ke-4 di [[alfabet Albania]].
+* [[bahasa Azerbaijan|Azerbaijan]]: huruf ke-4 di [[alfabet Azerbaijan]].
+* [[bahasa Kurdi|Kurdi]]: huruf ke-4 dalam [[alfabet Kurdi|alfabet Kurmanji Kurdi]].
+* [[bahasa Manx|Manx]]: digunakan dalam [[Digraf (ortografi)|digraf]] "h", diucapkan {{IPA|[t]}}, ntuk membedakannya dari "ch" normal", diucapkan {{IPA|[x]}}.
+* [[bahasa Tatar|Tatar]]: huruf ke-5 dalam [[alfabet Tatar]] (berdasarkan Zamanlif).
+* [[bahasa Turki|Turki]]: huruf ke-4 dalam [[alfabet Turki]].
+* [[bahasa Turkmenistan|Turkmenistan]]: huruf ke-3 dalam [[alfabet Turkmenistan]].
+* [[bahasa Zaza|Zazaki]]: huruf ke-4 dalam [[alfabet Zazaki]].
+* [[bahasa Pashto|Pashto]]: huruf ke-5 dalam [[Pashto#Alfabet Latin Pashto|alfabet Latin Pashto]].
+
+== Komputer ==
+{| class="wikitable"
+!Charset!![[Unicode]]||style="font-size:smaller;text-align:center;"|[[ISO 8859]]-[[ISO 8859-1|1]], [[ISO 8859-2|2]], [[ISO 8859-3|3]], [[ISO 8859-9|9]], [[ISO 8859-14|14]], [[ISO 8859-15|15]], [[ISO 8859-16|16]]
+|-
+|[[Majuscule]] {{Unicode|}}||style="text-align:center;"|U+00C7||style="text-align:center;"|C7
+|-
+|[[Huruf kecil|Minuscule]] {{Unicode|}}||style="text-align:center;"|U+00E7||style="text-align:center;"|E7
+|}
+
+Untuk [[ASCII]], ketik ALT + 128 untuk huruf besar (), dan ALT + 135 untuk huruf kecil (). (Catat: urutan ALT ini bukan encoding standar, tapi cara untuk mengetikkan karakter ini di Windows.)
+
+=== Input ===
+
+* Di [[Mac OS]], "" dapat diketik dengan shift + [[option key|option]] + c dan "" dapat diketik dengan [[option key|option]] + c
+
+* [[Referensi entitas karakter HTML]] untuk "" adalah <code></code> dan <code></code> untuk "".
+
+* Di [[TeX]] dan [[LaTeX]], <code>\c</code> digunakan untuk menambahkan aksen [[cedilla]] ke sebuah huruf, sehingga <code>\c{c}</code> menghasilkan "".
+
+* Di [[Windows XP]], "" dapat diketik dengan shortcut "ALT+0199" sementara "" dapat diketik dengan shortcut "ALT+0231".
+
+* DI [[Microsoft Word]], "" dapat diketik menggunakan CTRL + "," dan menekan C, dan "" dapat diketik menggunakan CTRL + "," dan menekan c.
+
+== Catatan kaki ==
+{{reflist}}
+
+== Lihat pula ==
+* [[Cedilla]]
+* [[]]
+
+== Pranala luar ==
+{{wiktionarypar2||}}
+* [http://www.omniglot.com/ Omniglot - writing systems & languages of the world]
+
+{{huruf-stub}}
+{{Latin alphabet|c|show diacritic=cedilla}}
+
+[[Kategori:Huruf Latin yang tidak umum]]

@@ -1,0 +1,21 @@
+Ghrelin
+'''Ghrelin''' ({{lang-en|ghrelin, growth hormone secretagogue, GHS}}) adalah hormon stimulator [[somatotropin|GH]]. GHS diproduksi paling banyak oleh [[kelenjar]] [[oksintik]] yang berada di dalam [[lambung]], selain itu juga oleh [[sel epsilon]] dalam [[pankreas]], [[nukleus arkuata]] dalam [[hipotalamus]].
+
+Selain melakukan stimulasi [[sekresi]] hormon GH, GHS juga mengaktivasi [[sistem hipotalamik]] yang:<ref>{{en}}{{cite web
+| url          = http://www.neuroendo.org.uk/content/view/26/11/
+| title        = Ghrelin: A newly discovered hormone
+| accessdate   = 2010-03-05
+| work         = Department of Physiology, University of Cambridge, Suzanne L. Dickson
+}}</ref>
+* mengendalikan sekresi GH, yaitu neuron [[Somatokrinin|GHRH]]
+* berperan dalam peningkatan nafsu makan
+* mengatur penumpukan [[lemak]] ke dalam [[jaringan adiposa]].
+
+== Referensi ==
+{{reflist}}
+{{Biokimia-stub}}
+
+{{Hormon}}
+
+[[Kategori:Hormon]]
+[[Kategori:Peptida]]

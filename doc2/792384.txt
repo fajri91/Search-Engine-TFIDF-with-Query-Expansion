@@ -1,0 +1,8 @@
+Templat:Taxonomy/Ferungulata
+{{Don't edit this line {{{machine code|}}}|{{{1}}}
+|rank=clade
+|link=Ferungulata
+|parent=Scrotifera
+|extinct=
+|refs=[[Ferungulata]]
+}}

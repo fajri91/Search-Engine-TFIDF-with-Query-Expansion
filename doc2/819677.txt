@@ -1,0 +1,113 @@
+Kegubernuran Ajloun
+{{Geobox|Governorate
+|country = Yordania
+|category = [[Kegubernuran di Yordania|Kegubernuran]]
+|country_flag = true
+|name = Kegubernuran Ajloun
+|native_name =  
+|image = Ajloun City.jpg
+|image_caption = Kota [[Ajloun]] ibu kota Kegubernuran Ajloun
+|capital = [[Ajloun]]
+|city1 = [[AinJanna]]
+|city2 = [[Anjarrah]]
+|city3 = [[Kofranjeh]]
+|city4 = [[Sakra]]
+|city5 = [[Ibin]]
+|city6 = [[Iblin]]
+|city7 = [[Al Wahadinah]]
+|city8 = [[Al Hashimiyya]]
+|population_as_of = 2012
+|population = 146900
+|population_density = 350.1
+
+<!-- *** Parts *** -->
+| capital_location            =
+| capital_lat_d               = 32
+| capital_lat_m               = 21
+| capital_lat_s               =
+| capital_lat_NS              = N
+| capital_long_d              = 35
+| capital_long_m              = 44
+| capital_long_s              = 3
+| capital_long_EW             = E
+| capital_elevation           = 760
+| part_type                   = Subdivisi
+| part_label                  = Departemen
+| part_fold                   = 2
+| part                        = Departemen Ajloun
+| part1                       = Departemen Kofranjah
+| part2                       =
+
+<!-- *** Free fields *** -->
+| free_type                   = Perkotaan
+| free                        = 75.9%
+| free1_type                  = Pedesaan
+| free1                       = 24.1%
+
+| map                         = Ajloun in Jordan.svg
+| map_caption                 = Kegubernuran Ajloun di Yordania
+| area                        = 420
+| area_footnotes              =
+| leader_type                 = Gubernur
+| leader                      = Ali Azzam
+| time_zone                   = [[Waktu Eropa Timur]] (EET)
+| utc_offset                  = +2
+| time_zone_DST               = [[Waktu Musim Panas Eropa Timur]] (EEST)
+| utc_offset_DST              = +3
+}}
+
+'''Kegubernuran Ajloun''' (pengucapan alternatif '''Kegubernuran Ajlun''') ({{lang-ar| }}) adalah salah satu [[Kegubernuran di Yordania|Kegubernuran]] di [[Yordania]], yang terletak di utara [[Amman]] ibu kota Yordania. Kegubernuran Ajloun merupakan kegubernuran dengan terpadat keempat di Yordania (setelah Kegubernuran [[Kegubernuran Irbid|Irbid]], [[Kegubernuran Jerash|Jerash]], dan [[Kegubernuran Balqa|Balqa]]) dengan kepadatan penduduk 350,1 orang/km (perkiraan 2012). Kegubernuran ini berbatasan dengan [[Kegubernuran Jerash]] di tenggara dan [[Kegubernuran Irbid]] di utara dan barat.
+
+==Pembagian administratif==
+Kementerian Dalam Negeri membagi Kegubernuran Ajloun menjadi 2 departemen
+# Departemen Ibu kota: termasuk 50 kota dan desa, dengan pusat administratif di [[Ajloun]]
+# Departemen Kofranjah: termasuk 19 kota dan desa, dengan pusat administratif di Kofranjah.
+
+==Sejarah==
+Ajloun terletak di dataran tinggi dan  memiliki salah satu hutan yang paling indah di Yordania, dan terkenal dengan musim dinginnya yang lama. Ajloun juga terkenal dengan bentengnya, [[Benteng Ajloun]], yang dahulu memiliki nama Benteng Shalahuddin. Benteng tersebut dibangun sebagai perlindungan alami untuk melindungi geografis Ajloun dari pasukan salib.
+
+==Iklim==
+Ajloun dikenal dengan dataran tingginya, yang menjadikan sebagai salah satu kota terdingin di Yordania, dengan temperatur maksimal rata-rata sepanjang Januari 8,2 Celcius dan temperatur minimal rata-rata 2,8 Celcius. Salju turun pada musim dingin adalah hal yang biasa dan kota Ajloun bersiap dengan hal tersebut.
+
+==Ekonomi==
+Kegubernuran Ajloun bergantung dengan pertanian. Pada tahun 2008, perkebunan zaitun, anggur dan buah-buahan terbentang seluas 141,4&nbsp;km yaitu 34% dari luas Kegubernuran Ajloun.<ref>{{cite web|url=http://www.moa.gov.jo/Agriculturerinformation/Agriculturenumbers/taqresanoe/tabid/219/Default.aspx |title=Ministry of Agriculture - Jordan (Arabic) |publisher=moa.gov.jo |date= |accessdate=2012-05-14}}</ref>
+
+==Pendidikan==
+Terdapat 28 Sekolah Dasar dan Sekolah Menengah di Ajloun, sebagian besar adalah negeri, dan juga terdapat Ajloun University College, sebuah perguruan tinggi negeri dan Ajloun National University, sebuah perguruan tinggi swasta.
+
+==Desa-desa penting==
+Beberapa kota dan desa terkenal di Ajloun (selain Ajloun sendiri) antara lain: Ibbeen "Ebeen",  Sakhra, Mrajjam, Rasoun, [[Ain Janna]], Kufranji, [[Anjara]], [[Al Hashimiyya]] dan Orjan.
+
+==Galeri==
+<gallery>
+Berkas:Hashimiyya 3 mosques view.jpg|Kota Al Hashimiyya di Kegubernuran Ajloun
+Berkas:Al Wahadina.jpg|Kota Al Wahadinah
+Berkas:Ajlun Green.jpg|Hutan di sekeliling Ajloun
+Berkas:Ajlun nahias.png|Pembagian Nahia (Departemen) di Ajloun
+Berkas:Maiser View2.jpg|Perkebunan Zaitun di salah satu desa di Ajloun
+</gallery>
+
+==Referensi==
+<references/>
+
+{{Commons category|Ajlun}}
+
+{{Geographic location
+|Centre    = Kegubernuran Ajloun
+|North     = 
+|Northeast = 
+|East      = [[Kegubernuran Jerash]]
+|Southeast = 
+|South     = [[Kegubernuran Balqa]]
+|Southwest = 
+|West      = 
+|Northwest = [[Kegubernuran Irbid]]
+}}
+
+{{Kegubernuran di Yordania}}
+
+[[Kategori:Kegubernuran di Yordania]]
+[[Kategori:Kegubernuran Ajloun]]
+
+
+{{yordania-geo-stub}}

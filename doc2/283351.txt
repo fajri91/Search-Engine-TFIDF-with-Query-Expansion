@@ -1,0 +1,17 @@
+Templat:Leitimur Selatan, Ambon
+{{Navigasi ID Desa |provinsi=Maluku |dati2=Kota |nama dati2=Ambon
+|nama kecamatan=Leitimur Selatan
+|desa/kelurahan=Negeri
+|d1=Ema
+|d2=Hatalai
+|d3=Hukurila
+|d4=Hutumuri
+|d5=Kilang
+|d6=Naku
+|d7=Rutong
+|d8=Leahari
+|k1=Lateri
+}}<noinclude>
+[[Kategori:Templat desa/kelurahan di Maluku|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kota Ambon|{{PAGENAME}}]]
+</noinclude>

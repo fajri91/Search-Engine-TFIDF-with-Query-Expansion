@@ -1,0 +1,29 @@
+Upsilon Coronae Borealis
+'''Upsilon Coronae Borealis ( CrB)''' adalah salah satu bintang di rasi [[Corona Borealis]]. Bintang ini berada pada jarak 825 [[tahun cahaya]] dari [[Bumi]] dan termasuk kelas A3. Bintang ini ber[[magnitudo]] 5.80.
+
+== Grup ==
+Selain [[rasi]] [[Corona Borealis]], bintang ini juga merupakan anggota dari:
+
+{| class="wikitable"
+|-
+! nama kelompok
+! asal 
+! arti
+! anggota lainnya
+|-
+| Sirius Supercluster||  || || [[HD 13594]], [[5 Aquilae|5 Aql]], [[Delta Aquarii| Aqr]], [[32 Aquarii|32 Aqr]], [[Beta Aurigae| Aur]], [[45 Botis|45 Boo]], [[Chi Ceti| Cet]], [[Sirius| CMa]], [[6 Canis Minoris|6 CMi]], [[Delta Columbae| Col]], [[Alpha Coronae Borealis| CrB]], [[Zeta Crateris| Crt]], [[HD 209515]], [[HD 184960]], [[Delta Delphini| Del]], [[59 Draconis|59 Dra]], [[HD 129798]], [[Beta Eridani| Eri]], [[Zeta Eridani| Eri]], [[HD 157740]], [[Upsilon1 Hydrae|<sup>1</sup> Hya]], [[HD 109799]], [[21 Leonis Minoris|21 LMi]], [[Zeta Leonis| Leo]], [[Tau Leonis| Leo]], [[Gamma Leporis| Lep]], [[RR Lyncis|RR Lyn]], [[Alpha Ophiuchi| Oph]] , [[HD 65810]], [[HD 178428]], [[HD 165185]], [[Beta Serpentis| Ser]], [[HD 26923]], [[HD 111456]], [[Zeta Trianguli Australis| TrA]], [[37 Ursae Majoris|37 UMa]], [[Beta Ursae Majoris| UMa]], [[Gamma Ursae Majoris| UMa]], [[Delta Ursae Majoris| UMa]], [[Epsilon Ursae Majoris| UMa]], [[78 Ursae Majoris|78 UMa]],  [[Zeta Ursae Majoris| UMa]], [[80 Ursae Majoris|80 UMa]], [[o Virginis|o Vir]], [[Alpha Volantis| Vol]].<ref>{{cite journal
+ | last=Eggen | first=Olin J.
+ | title=The Sirius supercluster in the FK5
+ | journal=Astronomical Journal
+ | year=1992 | volume=104 | issue=4 | pages=14931504
+ | url=http://adsabs.harvard.edu/cgi-bin/bib_query?1992AJ....104.1493E
+ | accessdate=2007-11-22
+ | doi=10.1086/116334 }}</ref><ref>http://articles.adsabs.harvard.edu/full/1983AJ.....88..642E</ref>
+|}
+
+== Referensi ==
+{{Reflist}}
+
+{{astronomi-stub}}
+
+[[Kategori:Rasi bintang Corona Borealis]]

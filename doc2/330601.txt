@@ -1,0 +1,10 @@
+Web Hypertext Application Technology Working Group
+Kelompok kerja untuk teknologi web hypertext ([[Bahasa Inggris]]: '''The Web Hypertext Application Technology Working Group (WHATWG)''') adalah komunitas orang-orang yang tertarik untuk memajukan [[HTML]] dan teknologi terkait.
+
+WHATWG didirikan oleh individu dari perusahaan-perusahaan [[teknologi]] informasi besar seperti [[Apple]], Yayasan [[Mozilla]] dan [[Opera Software]] pada tahun [[2004]]. Sejak saat itu, Editor spesifikasi WHATWG, [[Ian Hickson]], telah pindah ke [[Google]]. [[Chris Wilson]] dari [[Microsoft]] turut diundang tapi tidak bergabung, mengutip kurangnya kebijakan [[paten]] untuk memastikan semua spesifikasi dapat diimplementasikan secara bebas [[royalti]].
+
+==Pranala luar==
+* {{en}} [http://www.whatwg.org WHATWG website]
+{{Standar W3C}}
+[[Kategori:Teknologi]]
+[[Kategori:Internet]]

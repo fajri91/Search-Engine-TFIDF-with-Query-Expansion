@@ -1,0 +1,24 @@
+Kartu jaringan
+[[Berkas:Network_card.jpg|thumb|right|200px|Contoh dari sebuah kartu jaringan Ethernet yang memiliki dua jenis konektor (BNC dan UTP)]]
+'''Kartu jaringan''' ([[Bahasa Inggris|Inggris]]: '''''network interface card''''' disingkat '''NIC''' atau juga '''''network card''''') adalah sebuah [[kartu ekspansi|kartu]] yang berfungsi sebagai jembatan dari [[komputer]] ke sebuah [[jaringan komputer]]. Jenis NIC yang beredar, terbagi menjadi dua jenis, yakni NIC yang bersifat fisik, dan NIC yang bersifat logis. Contoh NIC yang bersifat fisik adalah NIC [[Ethernet]], [[Token Ring]], dan lainnya; sementara NIC yang bersifat logis adalah loopback adapter dan Dial-up Adapter. Disebut juga sebagai '''Network Adapter'''. Setiap jenis NIC diberi nomor alamat yang disebut sebagai [[MAC address]], yang dapat bersifat statis atau dapat diubah oleh pengguna.
+
+== NIC fisik ==
+
+NIC fisik umumnya berupa kartu yang dapat ditancapkan ke dalam sebuah slot dalam motherboard komputer, yang dapat berupa kartu dengan [[bus ISA]], [[bus PCI]], [[bus EISA]], [[bus MCA]], atau [[bus PCI Express]]. Selain berupa kartu-kartu yang ditancapkan ke dalam motherboard, NIC fisik juga dapat berupa kartu eksternal yang berupa kartu dengan [[bus USB]], [[PCMCIA]], [[bus serial]], [[bus paralel]] atau [[Express Card]], sehingga meningkatkan mobilitas (bagi pengguna yang ''mobile'').
+
+Kartu NIC Fisik terbagi menjadi dua jenis, yakni:
+* Kartu NIC dengan media jaringan yang spesifik (Media-specific NIC): yang membedakan kartu NIC menjadi beberapa jenis berdasarkan media jaringan yang digunakan. Contohnya adalah NIC [[Ethernet]], yang dapat berupa [[Twisted-Pair]] (UTP atau STP), [[10Base2|Thinnet]], atau [[10Base5|Thicknet]], atau bahkan tanpa kabel (Wireless Ethernet).
+* Kartu NIC dengan arsitektur jaringan yang spesifik (architecture-specific NIC): yang membedakan kartu NIC menjadi beberapa jenis, sesuai dengan arsitektur jaringan yang digunakan. Contohnya adalah [[Ethernet]], [[Token Ring]], serta [[FDDI|FDDI (Fiber Distributed Data Interface)]], yang kesemuanya itu menggunakan NIC yang berbeda-beda. Kartu NIC Ethernet dapat berupa Ethernet 10 Megabit/detik, 100 Megabit/detik, 1 Gigabit/detik atau 10 Gigabit/detik.
+
+Tugas NIC adalah untuk mengubah aliran data paralel dalam bus komputer menjadi bentuk data serial sehingga dapat ditransmisikan di atas media jaringan. Media yang umum digunakan, antara lain adalah kabel UTP Category 5 atau Enhanced Category 5 (Cat5e), kabel fiber-optic, atau radio (jika memang tanpa kabel).
+
+Komputer dapat berkomunikasi dengan NIC dengan menggunakan beberapa metode, yakni [[Memory-mapped I/O|I/O yang dipetakan ke memori]], [[DMA|Direct Memory Access (DMA)]], atau [[Shared memory|memory yang digunakan bersama-sama]]. Sebuah aliran data paralel akan dikirimkan kepada kartu NIC dan disimpan terlebih dahulu di dalam memori dalam kartu sebelum dipaketkan menjadi beberapa frame berbeda-beda, sebelum akhirnya dapat ditransmisikan melalui media jaringan. Proses pembuatan frame ini, akan menambahkan header dan trailer terhadap data yang hendak dikirimkan, yang mengandung alamat, pensinyalan, atau informasi pengecekan kesalahan. Frame-frame tersebut akan kemudian diubah menjadi pulsa-pulsa elekronik (voltase, khusus untuk kabel tembaga), pulsa-pulsa cahaya yang dimodulasikan (khusus untuk kabel fiber-optic), atau gelombang mikro (jika menggunakan radio/jaringan tanpa kabel).
+
+NIC yang berada dalam pihak penerima akan memproses sinyal yang diperoleh dalam bentuk terbalik, dan mengubah sinyal-sinyal tersebut ke dalam aliran bit (untuk menjadi frame jaringan) dan mengubah bit-bit tersebut menjadi aliran data paralel dalam bus komputer penerima. Beberapa fungsi tersebut dapat dimiliki oleh NIC secara langsung, diinstalasikan di dalam [[firmware]], atau dalam bentuk [[perangkat lunak]] yang diinstalasikan dalam [[sistem operasi]].
+
+== NIC logis ==
+
+NIC logis merupakan jenis NIC yang tidak ada secara fisik dan menggunakan sepenuhnya perangkat lunak yang diinstalasikan di atas [[sistem operasi]] dan bekerja seolah-olah dirinya adalah sebuah NIC. Contoh dari perangkat NIC logis adalah [[loopback adapter]] (dalam sistem operasi [[Windows]], harus diinstalasikan secara manual atau dalam sistem operasi keluarga [[UNIX]], terinstalasi secara default, dengan nama interface '''lo''') dan Dial-up adapter (yang menjadikan modem sebagai sebuah alat jaringan dalam sistem operasi [[Windows]]). Kartu NIC logis ini dibuat dengan menggunakan teknik [[emulasi]].
+
+[[Kategori:Perangkat keras jaringan]]
+[[Kategori:Jaringan komputer]]

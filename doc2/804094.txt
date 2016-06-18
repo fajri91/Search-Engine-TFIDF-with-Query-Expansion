@@ -1,0 +1,29 @@
+Berkas:Zakhm poster.gif
+{{dari|en}}
+
+== Penjelasan ==
+{{Non-free use rationale poster
+|Media             = film
+|Article           = Zakhm
+|Use               = Infobox
+<!-- ADDITIONAL INFORMATION -->
+|Name              = Zakhm
+|Distributor       = 
+|Publisher         = 
+|Type              = 
+|Website           = 
+|Owner             = 
+|Commentary        = 
+<!--OVERRIDE FIELDS -->
+|Description       = 
+|Source            = [http://www.bollymarket.com/images/bm_zakhm.gif]. 
+|Portion           = 
+|Low_resolution    = 
+|Purpose           = <!-- Must be specified if Use is not Infobox / Header / Section / Artist -->
+|Replaceability    = 
+|other_information = The copyrights of this image belong to the producers of the film in question, [[Mukesh Bhatt]] and [[Pooja Bhatt]]. Displayed here on Wikipedia to provide visual information regarding the film in question.
+}}
+
+
+== Lisensi ==
+{{Non-free poster|Fair use images of movie posters|image has rationale=yes}}

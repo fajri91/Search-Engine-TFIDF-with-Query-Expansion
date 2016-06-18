@@ -1,0 +1,30 @@
+Nepenthes samar
+{{taxobox
+|image =
+|image_caption = 
+|regnum = [[Plantae]]
+|unranked_divisio = [[Angiospermae]]
+|unranked_classis = [[Eudikotil]]
+|unranked_ordo = [[Eudikotil|Inti eudikotil]]
+|ordo = [[Caryophyllales]]
+|familia = [[Nepenthaceae]]
+|genus = ''[[Nepenthes]]''
+|species = '''''N. samar'''''
+|binomial = ''Nepenthes samar''
+|binomial_authority = [[Matthew Jebb|Jebb]] & [[Martin Cheek|Cheek]] (2013)<ref name=samar>Cheek, M. & M. Jebb 2013. ''Nepenthes samar'' (Nepenthaceae), a new species from Samar, Philippines. ''Blumea'' '''58'''(1): 8284. {{DOI|10.3767/000651913X673513}}</ref>
+|synonyms =
+|}}
+
+'''''Nepenthes samar''''' adalah spesies [[kantong semar]] yang berasal dari [[Filipina]]. Spesies ini diketahui hanya dari [[pulau Samar]] dan dinamai berdasarkan pulau tersebut.<ref name=samar /> Spesies ini erat kaitannya dengan ''[[N. merrilliana]]''.<ref name=samar />
+
+== Referensi ==
+{{reflist}}
+* Mey, F.S. 2013. [http://carnivorousockhom.blogspot.fr/2013/10/nepenthes-samar-and-n-viridis-two-new.html ''Nepenthes samar'' and ''N.&nbsp;viridis'': two new taxa and the emergence of two ''Nepenthes'' taxonomy schools?] ''Strange Fruits: A Garden's Chronicle'', October 23, 2013.
+<!--http://pitcherplants.proboards.com/thread/12357/nepenthes-samar = http://www.webcitation.org/6KalkCzk9-->
+
+{{tumbuhan-stub}}
+{{Nepenthes}}
+
+[[Kategori:Nepenthaceae|samar]]
+[[Kategori:Tumbuhan karnivora Asia]]
+[[Kategori:Tumbuhan dideskripsikan tahun 2013]]

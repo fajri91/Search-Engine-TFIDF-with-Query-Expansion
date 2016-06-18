@@ -1,0 +1,25 @@
+Axinella rugosa
+{{Taxobox |name = Axinella rugosa
+|regnum = [[Hewan|Animalia]]
+|subregnum = [[Parazoa]]
+|phylum = [[Porifera]]
+|classis = [[Demospongiae]]
+|ordo = [[Halichondrida]]
+|familia = [[Axinellidae]]
+|genus = [[Axinella]]
+|species = Axinella rugosa
+|binomial_authority =Bowerbank, 1866
+}}
+'''''Axinella rugosa''''' adalah [[spesies]] [[spons]] yang tergolong dalam kelas [[Demospongiae]]. Spesies ini juga merupakan bagian dari genus Axinella dan [[familia]] Axinellidae. Nama ilmiah spesies ini pertama kali diterbitkan pada tahun 1866 oleh Bowerbank.
+
+Seperti spons pada umumnya, spesies ini memiliki tubuh yang berpori dan permukaan yang keras seperti [[batu]]. Selain itu, Axinella rugosa juga dapat menyerap [[oksigen]] dari [[air]] melalui proses [[difusi]].
+
+== Referensi ==
+
+* ''WoRMS Porifera: World Porifera Database''. Soest R. van (ed), 22 Oktober 2008.
+
+{{DEFAULTSORT:Axinella rugosa}}
+
+[[Kategori:Demospongiae]]
+
+{{porifera-stub}}

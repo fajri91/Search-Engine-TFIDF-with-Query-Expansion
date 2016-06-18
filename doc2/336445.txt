@@ -1,0 +1,61 @@
+Templat:Location map Guinea
+{{#switch:{{{1}}}
+| name   = Guinea
+| top    = 12.8
+| bottom = 7.1
+| left   = -15.2
+| right  = -7.5
+| image  = Guinea location map.svg
+}}<noinclude>{{Location map/Info}}
+
+[[Kategori:Templat peta navigasi menurut negara|Guinea]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</noinclude>

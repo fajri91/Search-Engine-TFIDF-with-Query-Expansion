@@ -1,0 +1,19 @@
+Templat:Musim
+{| class="navbox" align=center|-
+|style="text-align:left;"|{{Tnavbar|Musim}}
+|- 
+! [[Musim semi]]
+! [[Musim panas]] 
+! [[Musim gugur]]
+! [[Musim dingin]] 
+! [[Musim kemarau]]
+! [[Musim hujan]]
+|- align=center
+| [[Berkas:Muir1.jpg|70px]]
+| [[Berkas:SunsetBeach.jpg|70px]]
+| [[Berkas:Autumn.westonbirt.750pix.jpg|70px]]
+| [[Berkas:Trees1.jpg|70px]]
+| [[Berkas:Celestia sun.jpg|70px]]
+| [[Berkas:Humeur.JPG|70px]]
+|}{{#if:{{{kat|}}}||<includeonly>[[Kategori:Musim|{{{1|{{PAGENAME}}}}}]]</includeonly>}}<noinclude>
+[[Kategori:Templat navigasi|{{PAGENAME}}]]</noinclude>

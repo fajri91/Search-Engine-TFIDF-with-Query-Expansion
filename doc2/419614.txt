@@ -1,0 +1,23 @@
+Templat:Perdana Menteri Nepal
+{{Navbox
+|name  = Perdana Menteri Nepal
+| listclass = hlist
+| title = [[Daftar Perdana Menteri Nepal|Perdana Menteri]] [[Nepal]]
+|image = {{flagicon|Nepal|size=75px}}
+|state = collapsed
+|list1 = 
+{{Navbox subgroup
+|group1 = Kerajaan Nepal<br>([[abad ke-19]]-[[1990]])
+|list1 = 
+{{nowrap begin}} [[Damodar Pande]]{{w}} [[Rana Bahadur Shah Deva]]{{w}} [[Bhimsen Thapa]]{{w}} [[Rana Jang Pande]]{{w}} [[Ranga Nath Poudyal]]{{w}} [[Puskar Shah]]{{w}} [[Rana Jang Pande]]{{w}} [[Ranga Nath Poudyal]]{{w}} [[Fateh Jang Chautaria]]{{w}} [[Madhabar Singh Thapa]]{{w}} [[Fateh Jang Chautaria]]{{w}} [[Jang Bahadur Rana]]{{w}} [[Bam Bahadur Kunwar Rana]]{{w}} [[Krishna Bahadur Kunwar Rana]]{{w}} [[Jang Bahadur Rana]]{{w}} [[Renaudip Singh Bahadur]]{{w}} [[Bir Shamsher Jang Bahadur Rana]]{{w}} [[Dev Shamsher Jang Bahadur Rana]]{{w}} [[Chandra Shamsher Jang Bahadur Rana]]{{w}} [[Bhim Shamsher Jang Bahadur Rana]]{{w}} [[Juddha Shamsher Jang Bahadur Rana]]{{w}} [[Padma Shamsher Jang Bahadur Rana]]{{w}} [[Mohan Shamsher Jang Bahadur Rana]]{{w}} [[Matrika Prasad Koirala]]{{w}} ''kosong <small>(19521953)</small>''{{w}} [[Matrika Prasad Koirala]]{{w}} ''kosong <small>(19551956)</small>''{{w}} [[Tanka Prasad Acharya]]{{w}} [[Kunwar Inderjit Singh]]{{w}} [[Subarna Shamsher Rana]]{{w}} [[Bishweshwar Prasad Koirala]]{{w}} [[Tulsi Giri]]{{w}} [[Surya Bahadur Thapa]]{{w}} [[Tulsi Giri]]{{w}} [[Surya Bahadur Thapa]]{{w}} [[Kirti Nidhi Bista]]{{w}} ''kosong <small>(19701971)</small>''{{w}} [[Kirti Nidhi Bista]]{{w}} [[Nagendra Prasad Rijal]]{{w}} [[Tulsi Giri]]{{w}} [[Kirti Nidhi Bista]]{{w}} [[Surya Bahadur Thapa]]{{w}} [[Lokendra Bahadur Chand]]{{w}} [[Nagendra Prasad Rijal]]{{w}} [[Marich Man Singh Shrestha]]{{w}} [[Lokendra Bahadur Chand]]{{nowrap end}}
+|group2 = Kerajaan Nepal<br>([[1990]]-[[2008]])
+|list2 = 
+{{nowrap begin}}  [[Krishna Prasad Bhattarai]]{{w}} [[Girija Prasad Koirala]]{{w}} [[Man Mohan Adhikari]]{{w}} [[Sher Bahadur Deuba]]{{w}} [[Lokendra Bahadur Chand]]{{w}} [[Surya Bahadur Thapa]]{{w}} [[Girija Prasad Koirala]]{{w}} [[Krishna Prasad Bhattarai]]{{w}} [[Sher Bahadur Deuba]]{{w}} ''kosong <small>(2002)</small>''{{w}} [[Lokendra Bahadur Chand]]{{w}} [[Surya Bahadur Thapa]]{{w}} [[Sher Bahadur Deuba]]{{w}} ''kosong <small>(20052006)</small>''{{w}} [[Girija Prasad Koirala]]{{nowrap end}}
+|group4 = Republik Federal Demokratik Nepal<br>(2008-sekarang)
+|list4 = {{nowrap begin}} [[Girija Prasad Koirala]]{{w}} [[Prachanda]]{{w}} [[Madhav Kumar Nepal]]{{w}} [[Jhala Nath Khanal]]{{w}} [[Baburam Bhattarai]]{{nowrap end}}
+}}
+}}<noinclude>
+
+[[Kategori:Templat Perdana Menteri|Nepal]]
+[[Kategori:Templat navigasi tokoh Nepal|Prime Ministers]]
+</noinclude>

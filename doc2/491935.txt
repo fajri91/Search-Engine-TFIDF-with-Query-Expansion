@@ -1,0 +1,239 @@
+Piala Super Eropa 1983
+{{Infobox football match
+| title                   = Piala Super Eropa 1983
+| image                   = 
+| event                   = 
+| team1                   = [[Hamburger SV|Hamburg]]
+| team1association        = {{flagicon|FRG|size=30px}}
+| team1score              = 0
+| team2                   = [[Aberdeen F.C.|Aberdeen]]
+| team2association        = {{flagicon|SCO|size=30px}}
+| team2score              = 2
+| details                 = 
+| firstleg                = Pertandingan pertama
+| team1score1             = 0
+| team2score1             = 0
+| details1                = 
+| date1                   = {{Start date|1983|11|22|df=y}}
+| stadium1                = [[Volksparkstadion]]
+| city1                   = [[Hamburg]]
+| referee1                = [[Vojtech Christov]] ({{asb|Cekoslowakia}})
+| attendance1             = 15.000
+| weather1                = 
+| secondleg               = Pertandingan kedua
+| team1score2             = 0
+| team2score2             = 2
+| date2                   = {{Start date|1983|12|20|df=y}}
+| stadium2                = [[Pittodrie Stadium]]
+| city2                   = [[Aberdeen]]
+| referee2                = [[Horst Brummeier]] ({{asb|Austria}})
+| attendance2             = 22.500
+| weather2                = 
+| previous                = [[Piala Super Eropa 1982|1982]]
+| next                    = [[Piala Super Eropa 1984|1984]]
+}}
+
+'''Piala Super Eropa 1983''' menjadi penyelenggaraan [[Piala Super Eropa]] yang ke9, antara dua juara bertahan dari kompetisi yang diselenggarakan oleh [[UEFA]] yaitu [[Piala Champions Eropa]] dan [[Piala Winners UEFA]]. Pertandingan akan mempertemukan antara juara [[Piala Champions Eropa 198283]], [[Hamburger SV]] dari [[Jerman Barat]] dengan juara [[Piala Winners 198283]], [[Aberdeen F.C.|Aberdeen]] dari [[Skotlandia]], yang dilakukan dalam dua pertandingan pada 22 November 1983 dan 20 Desember 1983.
+
+Aberdeen memenangkan Piala Super Eropa dengan mengalahkan Hamburger dengan total agragat 20 setelah menahan imbang 00 di Volksparkstadion dan mengalahkanndengan skor 20 di Pittodrie Stadium.
+{{TOCleft}}
+{{clear}}
+== Detail pertandingan ==
+=== Pertandingan pertama ===
+{{Football box
+| date         = {{Start date|1983|11|22|df=y}}
+| time         = 20.00 [[Central European Time|CET]]
+| team1        = [[Hamburger SV|Hamburg]] {{flagicon|FRG}}
+| team2        = {{flagicon|SCO}} [[Aberdeen F.C.|Aberdeen]]
+| score        = 00
+| stadium      = [[Volksparkstadion]], [[Hamburg]]
+| attendance   = 15.000
+| referee      = [[Vojtech Christov]] ({{asb|Cekoslowakia}})
+| report       = 
+}}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|colspan=4|
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|FRG}} [[Uli Stein]]
+|-
+|CB ||''''' ||{{flagicon|FRG}} [[Ditmar Jakobs]]
+|-
+|SW ||''''' ||{{flagicon|FRG}} [[Holger Hieronymus]]
+|-
+|CB ||''''' ||{{flagicon|FRG}} [[Bernd Wehmeyer]]
+|-
+|LB ||''''' ||{{flagicon|FRG}} [[Jrgen Groh]]
+|-
+|RM ||''''' ||{{flagicon|FRG}} [[Michael Schrder]]
+|-
+|CM ||''''' ||{{flagicon|FRG}} [[Jimmy Hartwig]] || || {{suboff|46}}
+|-
+|CM ||''''' ||{{flagicon|FRG}} [[Felix Magath]] {{kapten}}
+|-
+|LM ||''''' ||{{flagicon|FRG}} [[Wolfgang Rolff]]
+|-
+|CF ||''''' ||{{flagicon|FRG}} [[Dieter Schatzschneider]]
+|-
+|CF ||''''' ||{{flagicon|FRG}} [[Thomas von Heesen]]
+|-
+|colspan=3|'''Pergantian pemain:'''
+|-
+|FW ||''''' ||{{flagicon|FRG}} [[Wolfram Wuttke]] || || {{subon|46}}
+|-
+|colspan=3|'''Manajer:'''
+|-
+|colspan=3|{{flagicon|AUT}} [[Ernst Happel]]
+|-
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|SCO}} [[Jim Leighton]]
+|-
+|CM ||'''2''' ||{{flagicon|SCO}} [[Neale Cooper]]
+|-
+|RB ||'''3''' ||{{flagicon|SCO}} [[Doug Rougvie]] || || {{yel|44}}
+|-
+|LM ||'''4''' ||{{flagicon|SCO}} [[Neil Simpson]]
+|-
+|CB ||'''5''' ||{{flagicon|SCO}} [[Alex McLeish]]
+|-
+|LB ||'''6''' ||{{flagicon|SCO}} [[Willie Miller]] {{kapten}}
+|-
+|CM ||'''7''' ||{{flagicon|SCO}} [[Gordon Strachan]]
+|-
+|CF ||'''8''' ||{{flagicon|SCO}} [[John Hewitt (footballer)|John Hewitt]]
+|-
+|RW ||'''9''' ||{{flagicon|SCO}} [[Mark McGhee]]
+|-
+|RM ||'''10''' ||{{flagicon|SCO}} [[Dougie Bell]]
+|-
+|LW ||'''11''' ||{{flagicon|SCO}} [[Peter Weir (footballer)|Peter Weir]]
+|-
+|colspan=3|'''Manajer'''
+|-
+|colspan=3|{{flagicon|SCO}} [[Alex Ferguson]]
+|}
+|}
+
+===Pertandingan kedua===
+{{Football box
+| date         = {{Start date|1983|12|20|df=y}}
+| time         = 19.30 [[Greenwich Mean Time|GMT]]
+| team1        = [[Aberdeen F.C.|Aberdeen]] {{flagicon|SCO}}
+| team2        = {{flagicon|FRG}} [[Hamburger SV|Hamburg]]
+| score        = 20
+| goals1       = [[Neil Simpson|Simpson]] {{goal|47}}<br />[[Mark McGhee|McGhee]] {{goal|65}}
+| stadium      = [[Pittodrie Stadium]], [[Aberdeen]]
+| attendance   = 22.500
+| referee      = [[Horst Brummeier]] ({{asb|Austria}})
+| report       = 
+}}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|colspan=4|
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|SCO}} [[Jim Leighton]]
+|-
+|RB ||''''' ||{{flagicon|SCO}} [[Stewart McKimmie]]
+|-
+|LM ||'''4''' ||{{flagicon|SCO}} [[Neil Simpson]]
+|-
+|CB ||'''5''' ||{{flagicon|SCO}} [[Alex McLeish]]
+|-
+|LB ||'''6''' ||{{flagicon|SCO}} [[Willie Miller]] {{kapten}}
+|-
+|CM ||''''' ||{{flagicon|SCO}} [[John McMaster (footballer)|John McMaster]]
+|-
+|CM ||'''7''' ||{{flagicon|SCO}} [[Gordon Strachan]]
+|-
+|CF ||'''8''' ||{{flagicon|SCO}} [[John Hewitt (footballer)|John Hewitt]] || || {{suboff|65}}
+|-
+|RW ||'''9''' ||{{flagicon|SCO}} [[Mark McGhee]]
+|-
+|RM ||'''10''' ||{{flagicon|SCO}} [[Dougie Bell]]
+|-
+|LW ||'''11''' ||{{flagicon|SCO}} [[Peter Weir (footballer)|Peter Weir]]
+|-
+|colspan=3|'''Pergantian pemain:'''
+|-
+|FW ||''''' ||{{flagicon|SCO}} [[Eric Black]] || || {{subon|65}}
+|-
+|colspan=3|'''Manajer'''
+|-
+|colspan=3|{{flagicon|SCO}} [[Alex Ferguson]]
+|-
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|FRG}} [[Uli Stein]]
+|-
+|RB ||''''' ||{{flagicon|FRG}} [[Manfred Kaltz]] || || {{suboff|68}}
+|-
+|CB ||''''' ||{{flagicon|FRG}} [[Ditmar Jakobs]]
+|-
+|SW ||''''' ||{{flagicon|FRG}} [[Holger Hieronymus]]
+|-
+|CB ||''''' ||{{flagicon|FRG}} [[Bernd Wehmeyer]]
+|-
+|LB ||''''' ||{{flagicon|FRG}} [[Jrgen Groh]]
+|-
+|RM ||''''' ||{{flagicon|FRG}} [[Michael Schrder]]
+|-
+|CM ||''''' ||{{flagicon|FRG}} [[Jimmy Hartwig]]
+|-
+|CM ||''''' ||{{flagicon|FRG}} [[Felix Magath]] {{kapten}}
+|-
+|LM ||''''' ||{{flagicon|FRG}} [[Wolfgang Rolff]]
+|-
+|CF ||''''' ||{{flagicon|FRG}} [[Dieter Schatzschneider]] || || {{suboff|41}}
+|-
+|colspan=3|'''Pergantian pemain:'''
+|-
+|FW ||''''' ||{{flagicon|FRG}} [[Wolfram Wuttke]] || || {{subon|41}}
+|-
+|MF ||''''' ||{{flagicon|DEN}} [[Allan Hansen]] || || {{subon|68}}
+|-
+|colspan=3|'''Manajer:'''
+|-
+|colspan=3|{{flagicon|AUT}} [[Ernst Happel]]
+|}
+|}
+
+== Lihat juga ==
+*[[Piala Champions Eropa 198283]]
+*[[Piala Winners UEFA 198283]]
+
+== Referensi ==
+{{reflist}}
+
+==Pranala Luar==
+* [http://www.uefa.com/uefasupercup/history/season=1983/index.html Summary] from [[UEFA]].com
+* [http://www.rsssf.com/ec/ec198283.html#sc Summary] from [[RSSSF]]
+
+{{Piala Super UEFA}}
+
+[[Kategori:Piala Super UEFA|1983]]
+[[Kategori:Sepak bola dalam tahun 1983|Piala Super UEFA]]
+[[Kategori:Aberdeen F.C.]]
+[[Kategori:Hamburger SV]]
+[[Kategori:Jerman dalam tahun 1983]]
+[[Kategori:Skotlandia dalam tahun 1983]]
+[[Kategori:Sepak bola di Jerman]]
+[[Kategori:Sepak bola di Skotlandia]]

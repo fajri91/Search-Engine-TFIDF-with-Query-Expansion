@@ -1,0 +1,115 @@
+Bristol, Virginia
+{{Infobox settlement
+|official_name            = Bristol, Virginia
+|settlement_type          = [[Kota]]
+|nickname                 = Tempat Kelahiran Musik Country
+|motto                    = A Good Place To Live<br>({{lang-id|''Tempat Yang Baik Untuk Hidup''}})
+|image_skyline            = Bristol.jpg
+|imagesize                = 250px
+|image_caption            = Sebuah tanda menyambut pengunjung ke kota kembar Bristol, Virginia, dan [[Bristol, Tennessee]].
+|image_flag               = Bristol VA and Bristol TN flag.gif
+|image_seal               = Bristol VA seal.gif
+|image_map                = VAMap-doton-Bristol.PNG
+|mapsize                  = 250x200px
+|map_caption              =
+|image_map1               =
+|mapsize1                 =
+|map_caption1             =
+|coordinates_region       = US-VA
+|subdivision_type         = [[Daftar negara berdaulat|Negara]]
+|subdivision_name         = {{flag|Amerika Serikat}}
+|subdivision_type1        = [[Daftar negara bagian di Amerika Serikat|Negara bagian]]
+|subdivision_name1        = {{flag|Virginia}}
+|subdivision_type2        =
+|subdivision_name2        =
+|government_type          = 
+|leader_title             = [[Wali kota]]
+|leader_name              = Ed Harlow
+|established_title        =
+|established_date         = 1856
+|area_magnitude           =
+|area_total_sq_mi         = 13,2
+|area_total_km2           = 34,1
+|area_land_sq_mi          = 12,9
+|area_land_km2            = 33,4
+|area_water_sq_mi         = 0,3
+|area_water_km2           = 0,7
+|area_urban_sq_mi         =
+|area_urban_km2           =
+|area_metro_sq_mi         =
+|area_metro_km2           =
+|population_as_of         = 2010
+|population_note          =
+|population_total         = 17,835
+|population_metro         = 302,997                                                                                                                                                                                                                                                                                                                                                                                                |population_density_km2   = 519.8
+|population_density_sq_mi = 1346.4
+|timezone                 = [[Waktu timur]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|postal_code_type         =
+|postal_code              =
+|area_code                = 276
+|latd                     = 36 |latm = 36 |latNS = N
+|longd                    = 82 |longm = 11 |longEW = W
+|elevation_m              = 512
+|elevation_ft             = 1680
+|website                  = [http://www.bristolva.org/ www.bristolva.org]
+|blank_name               = [[Federal Information Processing Standard|Kode FIPS]]
+|blank_info               = 51-09816{{GR|2}}
+|blank1_name              = Futur ID [[Geographic Names Information System|GNIS]]
+|blank1_info              = 1492633{{GR|3}}
+|footnotes                =
+}}
+[[Berkas:Statestreet.jpg|thumb|275px|right|''State Street'' memisahkan Virginia (kiri) dan Tennessee (kanan)]]
+'''Bristol''' adalah [[Kota independen (Amerika Serikat)|kota independen]] di [[Virginia]], [[Amerika Serikat]], yang berbatasan dengan [[Washington County, Virginia]], [[Bristol, Tennessee]], dan [[Sullivan County, Tennessee]].
+
+Menurut sensus Amerika Serikat 2010, kota ini memiliki populasi sebanyak 17.835 jiwa.<ref>[http://www.coopercenter.org/demographics]. Weldon Cooper Center 2010 Census Count Retrieved September 8, 2011</ref> Kota ini adalah [[kota kembar]]nya [[Bristol, Tennessee]], yang berada tepat di seberang perbatasan negara bagian. [[Biro Analisis Ekonomi]] menggabungkan kota Bristol, Virginia dengan Washington County untuk keperluan statistik.
+
+Kota ini awalnya bernama ''Goodson'', namanya diubah menjadi Bristol (setelah [[Bristol]], Inggris) pada tahun [[1890]].
+
+== Geografi ==
+Bristol terletak di [[koordinat]] {{coord|36|36|N|82|11|W|type:city}} (36.6111, -82.1762).{{GR|1}}
+
+Menurut [[Biro Sensus Amerika Serikat]], kota ini memiliki total luas {{convert|13,2|sqmi|km2}}, yang mana, {{convert|12,9|sqmi|km2}} itu adalah daratan dan {{convert|0,3|sqmi|km2}} itu atau sekitar 2,05% adalah perairan.
+<!--Kota ini dilayani oleh saya-81, AS-58, AS-421, dan US-11.-->
+
+== Referensi ==
+{{reflist}}
+
+== Pranala luar ==
+* {{en}} [http://www.bristolva.org/ Kota Bristol]
+* {{en}} [http://www.bristolvaschools.org/ Sekolah Umum Bristol Virginia]
+* {{en}} [http://www.bristolvavoting.org/ Bristol Virginia Voter Registration Office]
+* {{en}} [http://bristolymca.net Bristol Family YMCA]
+* {{en}} [http://accessbristolva.com/OED_home.html Kantor Pengembangan Ekonomi Bristol Virginia]
+* {{en}} [http://www.believeinbristol.org/ Believe in Bristol]
+* {{en}} [http://www.facebook.com/Ilovestatestreet/ I Love State Street]
+* {{en}} [http://www.flickr.com/photos/fuzzphotoz/collections/72157616149641002/ Bristol Pictures]
+* {{en}} [http://www.sullinsacademy.org/ Sullins Academy]
+* {{en}} [http://www.stanne-school.org/ St. Anne School]
+* {{en}} [http://www.morrisonschool.org/ Morrison School]
+{{Coord|display=title|36.6111|-82.1762}}
+
+{{Geographic location
+|Centre    = Bristol, Virginia
+|North     = [[Washington County, Virginia|Washington County]]
+|Northeast =
+|East      = [[Washington County, Virginia|Washington County]]
+|Southeast =
+|South     = [[Sullivan County, Tennessee]]
+|Southwest =
+|West      = [[Washington County, Virginia|Washington County]]
+|Northwest =
+}}
+
+{{Wikisource1911Enc|Bristol (Tennessee)}}
+{{Negara bagian Virginia}}
+
+[[Kategori:Bristol, Virginia| ]]
+[[Kategori:Kota di Virginia|Bristol, Virginia]]
+[[Kategori:Kota kembar|Bristol, Virginia]]
+[[Kategori:Wilayah metropolitan KingsportBristol]]
+
+
+{{Negara-geo-stub|Amerika Serikat}}

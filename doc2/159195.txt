@@ -1,0 +1,8 @@
+Templat:Translation/Ref
+* ''Artikel ini diterjemahkan dari artikel Wikipedia [[:{{{1}}}:{{{2}}}|{{{2}}}]]{{#if:{{{Permanent link|}}}{{{oldid|}}}|, lebih detilnya dari {{#if:{{{Permanent link|}}}|dalam versi {{{Permanent link|}}}|<span class="plainlinks">[http://{{{1}}}.wikipedia.org{{localurl:{{{2}}}|oldid={{{oldid}}}}} versi ini]</span>}} }}.''<noinclude>[[Kategori:Templat info artikel]]
+{{Documentation}}
+[[Kategori:Templat interwiki]]
+[[Kategori:Templat terjemahan]]
+
+[[el:: ]]
+</noinclude>

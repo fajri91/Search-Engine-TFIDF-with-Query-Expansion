@@ -1,0 +1,61 @@
+Epsilon Piscium
+{{Starbox begin |
+   name=Epsilon Piscium<ref>{{cite web |
+ title=Simbad Query Result | 
+ work=Simbad |
+ url=http://simbad.u-strasbg.fr/simbad/sim-id?protocol=html&Ident=*+71+Piscium&NbIdent=1&Radius=2&Radius.unit=arcmin&submit=submit+id |
+ accessdate=October 1 |
+ accessyear=2007}}</ref> }}
+{{Starbox observe |
+  epoch=J2000.0 |
+  constell=[[Pisces (constellation)|Pisces]] |
+  ra=01h 2m 56.6084s |
+  dec=+7 53' 24.488" |
+  appmag_v=4.28 }}
+{{Starbox character |
+  class= G9III |
+  b-v=+0.976 |
+  u-b=+0.685 }}
+{{Starbox astrometry |
+  radial_v=7.0 |
+  prop_mo_ra=-80.57 |
+  prop_mo_dec=25.88 |
+  parallax=17.14 |
+  p_error=0.81 |}}
+{{Starbox catalog |
+  names=Epsilon&nbsp;Piscium, 71&nbsp;Piscium, [[Harvard Revised catalogue|HR]]&nbsp;294, [[Bonner Durchmusterung|BD]]+07153, [[Henry Draper catalogue|HD]]&nbsp;6186, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;109627, [[Hipparcos catalogue|HIP]]&nbsp;4906, GC&nbsp;1258 }}
+{{Starbox end}}
+'''Episolon Piscium ( Psc)''' adalah bintang yang berada pada jarak 190 [[tahun cahaya]] dari [[Bumi]], yang berada di rasi [[Pisces]]. Bintang ini adalah bintang jingga kekuningan (''yellow-orange'') dan berkelas G9III atau K0III, menunjukkan bahwa suhu bintang ini adalah 5,000 Kelvin. Bintang ini ber[[magnitudo]] 4.27.
+
+== Etimologi ==
+Bintang ini memiliki nama tradisional '''Kaht'''. Nama lainnya untuk bintang ini adalah:
+
+{| class="wikitable"
+|-
+! nama lain
+! asal bahasa
+! arti
+|-
+| / Wibngr||[[China]] ||bintang kedua pada rasi [[Daftar asterisme di Kaki#Pagar Luar|Pagar Luar]]<ref name=sb0>salah satu rasi bintang menurut bangsa Cina</ref>
+|}
+
+Selain rasi [[Pisces]], bintang ini merupakan bagian dari :
+
+{| class="wikitable"
+|-
+! nama rasi / asterisma / kelompok
+! asal 
+! arti
+! anggota lainnya
+|-
+|  / Wibng || [[China]] ||[[Daftar asterisme di Kaki#Pagar Luar|Pagar Luar]]||[[Delta Piscium| Psc]], [[Zeta Piscium| Psc]], [[Mu Piscium| Psc]], [[Nu Piscium| Psc]], [[Xi Piscium| Psc]], [[Alpha Piscium| Psc A]]
+|-
+|Kaht || [[Persia]] ||||[[Zeta Piscium| Psc]]<ref>http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Pisces*.html</ref>
+|}
+
+== Referensi ==
+{{references}}
+
+{{astronomi-stub}}
+
+[[Kategori:Rasi bintang Pisces]]

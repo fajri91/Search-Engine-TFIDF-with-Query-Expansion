@@ -1,0 +1,22 @@
+Cryptosporidium hominis
+{{Taxobox
+| regnum = [[Protista]]
+| phylum = [[Apicomplexa]]
+| classis = [[Conoidasida]]
+| subclassis = [[Coccidia]]sina 
+| ordo = [[Eucoccidiorida]]
+| familia = [[Cryptosporidiidae]]
+| genus = ''[[Cryptosporidium]]''
+| species = '''''C. hominis'''''
+| binomial = ''Cryptosporidium hominis''
+}}
+
+'''''Cryptosporidium hominis''''', bersama dengan ''[[Cryptosporidium parvum]]'', adalah spesies ''[[Cryptosporidium]]'' yang penting dalam dunia medis.<ref>Leoni, F., C. F. L. Amar, G. Nichols, S. Pedraza-Daz, and J. McLauchlin. 2006. Genetic analysis of Cryptosporidium from 2414 humans with diarrhoea in England 1985-2001. J. Med. Microbiol. 55:703-707</ref> Spesies ini merupakan [[parasit obligat]] manusia yang dapat berkoloni di saluran pencernaan dan usus yang menyebabkan [[gastroenteritis]] dan [[diare]].
+
+== Referensi ==
+{{reflist|2}}
+
+{{biologi-stub}}
+
+[[Kategori:Parasit]]
+[[Kategori:Apicomplexa]]

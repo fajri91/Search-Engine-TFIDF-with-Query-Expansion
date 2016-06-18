@@ -1,0 +1,41 @@
+Mother (film 1985)
+{{Infobox film
+|name           = Mother
+|image          = Mother (1985 film).jpg
+|caption        = Poster film
+|director       = [[Park Chul-soo]]
+|producer       = Hwang Gi-seong
+|writer         = Kim Soo-hyeon
+|starring       = [[Yoon Yeo-jeong]]<br />[[Jeon Hye-seong]] 
+|music          = Yi Zong-gu
+|cinematography = Jung Il-sung
+|editing        = Kim Hyeon
+|distributor    = Hwang Ki Seong Production
+|released       = {{Film date|1985|11|1}}
+|runtime        = 100 menit
+|country        = Korea Selatan
+|language       = Bahasa Korea
+|budget         = 
+|gross          = 
+}}
+'''''Mother''''' ({{ko-hhrm|hangul=|rr=Emi}} atau {{ko-hhrm|hangul=|rr=Eomi}}; dikenal juga sebagai ''Woman Requiem'') adalah [[film]] [[Korea Selatan]] tahun [[1985]] yang disutradarai oleh [[Park Chul-soo]]. Film ini memenangkan beberapa penghargaan di [[Grand Bell Awards]], termasuk Film Terbaik.<ref>{{cite web |url=http://www.kmdb.or.kr/movie/md_basic.asp?nation=K&p_dataid=03920&keyword=|title=  (1985)|accessdate=2009-04-23|publisher=[http://www.kmdb.or.kr/ Korean Movie Database]|quote=24   (1985) : ; : ; (): }}</ref>
+
+== Sinopsis ==
+Seorang mahasiswi yang diperkosa dan kemudian bunuh diri, ibunya berupaya untuk balas dendam kepada yang bertanggungjawab.
+
+==Referensi==
+{{reflist}}
+
+== Pranala luar ==
+* {{IMDb title|0089623|Mother}}
+* {{kmdb film|03920|Mother}}
+* [http://www.cine21.com/Movies/Mov_Movie/movie_detail.php?s=media&id=4812  1985] at [http://www.cine21.com/ www.cine21.com]
+
+{{s-start}}
+{{s-bef|before=''[[Adultery Tree]]''}}
+{{s-ttl|title=[[Grand_Bell_Award#Best_film|Grand Bell Award for Best Film]]|years=[[1985]]}}
+{{s-aft|after=''[[Pillar of Mist]]''}}
+{{end}}
+{{film-stub}}
+
+[[Kategori:Film Korea Selatan tahun 1985]]

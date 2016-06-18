@@ -1,0 +1,14 @@
+Berkas:Ratzenhofer.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+http://www.aeiou.at/aeiou.encyclop.r/r190311.htm
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Fairuse}}

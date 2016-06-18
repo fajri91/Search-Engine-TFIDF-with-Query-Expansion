@@ -1,0 +1,22 @@
+Templat:Batu Engau, Paser
+{{Navigasi ID Desa 
+|nama kecamatan=Batu Engau 
+|dati2=Kabupaten  
+|nama dati2=Paser 
+|provinsi=Kalimantan Timur 
+|d1=Bai Jaya
+|d2=Kerang  
+|d3=Kerang Dayo
+|d4=Langgai
+|d5=Lomu
+|d6=Mengkudu
+|d7=Pengguren Jaya
+|d8=Petangis
+|d9=Riwang
+|d10=Saing Prupuk
+|d11=Segendang
+|d12=Tampakan
+|d13=Tebru Paser Damai
+}}
+<noinclude>[[Kategori:Templat desa/kelurahan di Kalimantan Timur|Paser]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Paser]]</noinclude>

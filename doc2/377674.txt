@@ -1,0 +1,107 @@
+Sarinah
+{{Infobox company
+| name                = PT Sarinah (Persero)
+| logo                = 
+| logo_size           = 150px
+| logo_alt            = 
+| logo_caption        = Logo 
+| logo_padding        = 
+| image               = 
+| image_size          = 200px
+| image_alt           = 
+| image_caption       = 
+| type                = [[Badan Usaha Milik Negara|BUMN]] / Perseroan Terbatas
+| traded_as           = <!-- {{IDX|BBNI}} -->
+| industry            = [[Real estate]]
+| genre               = <!-- Only used with media and publishing companies -->
+| fate                = 
+| predecessor         = 
+| successor           = 
+| foundation          = <!-- if known: {{start date|YYYY|MM|DD}} di [[city]], [[Indonesia]] -->
+| founder             = 
+| defunct             = <!-- {{end date|YYYY|MM|DD}} -->
+| locations           = 
+| location_city       = [[Jakarta]], [[Jakarta]]
+| location_country    = Indonesia
+| coordinates         = 
+| area_served         = 
+| key_people          = 
+| products            = 
+| brands              = 
+| production          = 
+| services            = 
+| revenue             = 
+| operating_income    = 
+| net_income          = 
+| aum                 = <!-- Only for financial-service companies -->
+| assets              = 
+| equity              = 
+| owner               = [[Pemerintah Indonesia]]
+| members             = 
+| num_employees       = 
+| parent              = 
+| divisions           = 
+| subsid              = 
+| slogan              = 
+| module              = <!-- Used to embed other templates -->
+| website             = {{URL|www.sarinah.co.id}}
+| footnotes           = 
+}}
+
+'''Sarinah''' adalah pusat perbelanjaan setinggi 74 meter dan 15 lantai yang terletak di [[Menteng]], [[Jakarta]]. Gedung ini mulai dibangun pada tahun 1963 dan diresmikan pada tahun 1967 oleh [[Soekarno]]. Sarinah adalah pusat perbelanjaan pertama di Indonesia dan juga pencakar langit pertama di Jakarta. Nama Sarinah berasal dari nama pengasuh Soekarno pada masa kecil dan pertama digagas oleh Sukarno, menyusul lawatannya ke sejumlah negara yang sudah lebih dulu memiliki pusat belanja modern. Hal ini juga dimaksudkan Soekarno untuk membuat pusat perbelanjaan untuk memenuhi kebutuhan rakyat mendapatkan barang-barang murah tapi dengan mutu yang bagus.
+
+== Lihat pula ==
+<div class="references-small">
+{{Col-begin}}
+{{Col-2}}
+* [[Algemeene Studieclub|Algemeene Studie Club (ASC)]], ([[1926]]).
+* [[Marhaenisme]], ([[1926]]-[[1927]]).
+* [[Partai Nasional Indonesia|Perserikatan Nasional Indonesia]], 4 Juli ([[1927]]). 
+* [[Fikiran Ra'jat]], ([[1932]]).
+* [[Pancasila]], ([[1945]]).
+* [[Manipol USDEK|Manifesto politik, Undang-Undang Dasar 1945, Sosialisme Indonesia, Demokrasi Terpimpin, Ekonomi Terpimpin, dan Kepribadian Indonesia (Manipol-Usdek)]], ([[1959]]).
+* [[Pesta Olahraga Negara-Negara Berkembang|Games of the New Emerging Forces (Ganefo)]], ([[1962]]). 
+* ''[[Vivere pericoloso]]'', ([[1964]]).
+{{col-2}}
+* [[Trisakti]], ([[1964]]).
+* [[Berdikari]], ([[1965]]).
+* [[Nawaksara|Nawa Aksara]], 22 Juni ([[1966]]). 
+* [[Jangan Sekali-kali Meninggalkan Sejarah]], 17 Agustus ([[1966]]).
+* [[De-Soekarnoisasi]], ([[1967]]-[[1998]]).
+* [[Nasakom|Nasonalisme, Agama, Komunisme]], ([[1956]])
+* [[CONEFO|Conference of The New Emerging Forces (Conefo)]], 7 Januari ([[1965]])
+* [[Gerakan 30 September]], 1 Oktober ([[1965]])
+* [[Surat Perintah Sebelas Maret]], 11 Maret ([[1966]])
+* [[Daftar Presiden Indonesia]]
+{{Col-end}}
+</div>
+
+== Pranala luar ==
+{{Infobox Skyscraper
+|image=[[Berkas:Jakarta Sarinah.JPG|200px]]
+|caption=
+|building_name=Sarinah
+|location=[[Jakarta]], [[Indonesia]]
+|roof={{convert|74.7|m|ft|0}}
+|antenna_spire={{convert|74|m|ft|0}}
+|built=1963
+|opened=1967
+|engineer=
+|architect=
+|use=Pusat perbelanjaan
+}}
+{{commonscat|Sarinah}}
+* [http://skyscraperpage.com/cities/?buildingID=85629 SkyscaperPage.com]
+* [http://www.tempointeraktif.com/hg/politik/2010/11/09/brk,20101109-290691,id.html tempointeraktif.com]
+
+{{clr}}
+{{Pusat perbelanjaan di Jakarta}}
+{{BUMN}}
+
+{{mall-stub}}
+{{bangunan-stub}}
+
+[[Kategori:Pusat perbelanjaan di Jakarta]]
+[[Kategori:Pencakar langit di Indonesia]]
+[[Kategori:Bangunan dan struktur di Jakarta]]
+[[Kategori:Soekarno]]

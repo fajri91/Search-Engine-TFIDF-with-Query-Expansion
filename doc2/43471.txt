@@ -1,0 +1,12 @@
+Templat:Hewan-stub
+{{asbox
+| image     =  Crystal Clear app babelfish.png
+| pix       = 30
+| subject   = [[hewan]]
+| qualifier = 
+| category  = rintisan bertopik hewan
+| tempsort  = 
+| name      = Templat:Hewan-stub
+}}<noinclude>[[Kategori:Templat rintisan]]</noinclude><includeonly>[[Kategori:Semua rintisan spesies]]
+[[Kategori:Artikel spesies {{#time: F | {{REVISIONTIMESTAMP}} }} {{#time: Y | {{REVISIONTIMESTAMP}} }}|{{PAGENAME}}]]
+</includeonly>

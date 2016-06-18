@@ -1,0 +1,93 @@
+Queens Park Rangers F.C.
+{{Redirect|QPR}}
+{{Infobox Football club 
+|clubname = Queens Park Rangers 
+|image = [[Berkas:QPR Logo.png|200px]]
+|fullname = Queens Park Rangers {{br}} Football Club 
+|nickname = ''QPR'', ''Hoops'', ''Super Hoops'', ''R's''
+|founded = {{Mula tanggal dan usia|df=yes|1882}}
+|ground = [[Loftus Road]],<br />[[White City, London|White City]], [[London]]
+|capacity = 18.360<ref>{{cite web|url=http://www.premierleague.com/page/queens-park-rangers|title=QPR Club Profile|publisher=Premier League}}</ref>
+|owner = {{negara|Malaysia}} [[Tony Fernandes]] (66%)<ref name="pemilik"/><br>{{negara|India}} [[Lakshmi Mittal|Keluarga Mittal]] (33%)<ref name="pemilik">{{cite news|url=http://www.theguardian.com/football/2011/aug/18/tony-fernandes-qpr-takeover|title=Tony Fernandes announced as new owner of Queens Park Rangers|publisher=Guardian News and Media Limited|work=theguardian.com|author=David Conn|date=18 Agustus 2011|accessdate=1 Oktober 2014}}</ref>
+|chairman = {{negara|Malaysia}} [[Tony Fernandes]] 
+|manager = {{negara|Inggris}} [[Harry Redknapp]]
+|league = [[Liga Utama Inggris]] 
+|season     = [[Liga Championship Inggris 201314|201314]]
+|position   = ke-4 ''(promosi lwt playoff)'', <br>Liga Championship Inggris
+|pattern_la1=_duisburg1112h
+|pattern_b1=_duisburg1112h
+|pattern_ra1=_duisburg1112h
+|pattern_sh1=
+|pattern_so1=_bochum1213h
+|leftarm1=FFFFFF
+|body1=0000FF
+|rightarm1=FFFFFF
+|shorts1=FFFFFF
+|socks1=FFFFFF
+|pattern_la2=_qpr1415away
+|pattern_b2=_qpr1415away
+|pattern_ra2=_qpr1415away
+|pattern_sh2=
+|pattern_so2=
+|leftarm2=000000
+|body2=CF1F2A
+|rightarm2=000000
+|shorts2=000000
+|socks2=000000
+|website  =  http://www.qpr.co.uk/
+|current = Liga Utama Inggris 201415
+}}
+'''Queens Park Rangers Football Club''' (biasa disebut '''QPR''') merupakan sebuah tim [[sepak bola]] [[Inggris]]. Tim ini bermarkas di [[London]], [[Inggris]]. Didirikan tahun [[1882]]. Seragam mereka berwarna biru-putih. Prestasi terbaiknya adalah finalis [[Piala FA]] tahun [[1982]].
+
+== Skuat saat ini ==
+{{updated|21 Agustus 2014.}}<ref>http://www.qpr.co.uk/team/First-Team/player-profile/</ref>
+{{Fs start}}
+{{Fs player|no=1|nat=ENG|pos=GK|name=[[Robert Green]]}}	
+{{Fs player|no=2|nat=ENG|pos=DF|name=[[Danny Simpson]]}}	
+{{Fs player|no=3|nat=SEN|pos=DF|name=[[Armand Traor]]}}
+
+
+{{Fs player|no=6|nat=ENG|pos=DF|name=[[Clint Hill (pemain sepak bola)]]}} {{kapten}}
+{{Fs player|no=7|nat=SCO|pos=MF|name=[[Matt Phillips]]}}	
+
+{{Fs player|no=9|nat=ENG|pos=FW|name=[[Charlie Austin]]}}
+{{Fs player|no=10|nat=NED|pos=MF|name=[[Leroy Fer]]}}
+
+{{Fs player|no=13|nat=KOR|pos=DF|name=[[Yun Suk-Young]]}}
+
+{{Fs player|no=15|nat=ENG|pos=DF|name=[[Nedum Onuoha]]}}
+{{Fs mid}}
+{{Fs player|no=16|nat=ENG|pos=MF|name=[[Jermaine Jenas]]}}
+{{Fs player|no=17|nat=ENG|pos=MF|name=[[Jordon Mutch]]}}
+{{Fs player|no=18|nat=ARG|pos=MF|name=[[Alejandro Faurln]]}}
+{{Fs player|no=19|nat=FRA|pos=FW|name=[[Loc Rmy]]}}
+{{Fs player|no=20|nat=ENG|pos=MF|name=[[Karl Henry]]}}	
+{{Fs player|no=21|nat=IRL|pos=GK|name=[[Brian Murphy]]}}
+
+{{Fs player|no=23|nat=CAN|pos=MF|name=[[Junior Hoilett]]}} 
+
+
+
+{{Fs player|no=|nat=GER|pos=DF|name=[[Max Ehmer]]}}
+{{Fs player|no=|nat=IRL|pos=DF|name=[[Michael Harriman]]}}
+{{Fs end}}
+
+=== Sedang dipinjamkan ===
+
+{{Fs start}}
+{{Fs player|no=|nat=Mali|pos=MF|name=[[Samba Diakit]]|other=at [[Ittihad FC]] until the end of the 201415 season}}
+{{fs end}}
+
+== Referensi ==
+{{reflist}}
+
+== Pranala luar ==
+{{commonscat}}
+* {{en}} {{Official|www.qpr.co.uk}}
+* {{en}} Queens Park Rangers di BBC Sport: [http://news.bbc.co.uk/sport1/hi/football/teams/q/qpr/default.stm Kabar Tim]  [http://news.bbc.co.uk/sport1/hi/football/teams/q/qpr/club_stats/default.stm Statistik]  [http://news.bbc.co.uk/sport1/hi/football/teams/q/qpr/fixtures/default.stm Jadwal] dan [http://news.bbc.co.uk/sport1/hi/football/teams/q/qpr/results/default.stm Hasil Pertandingan]
+
+{{Liga Championship Inggris}}
+{{klub-sb-stub}}
+
+[[Kategori:Tim sepak bola Inggris]]
+[[Kategori:Queens Park Rangers F.C.]]

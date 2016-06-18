@@ -1,0 +1,14 @@
+Berkas:Opensite.org.jpg
+== {{int:filedesc}} ==
+{{Information
+|description    =
+Cuplikan gambar dari situs ensiklopedia http://open-site.org/
+== Jenis lisensi ==
+{{TampilanSitus}}
+|source         = 
+|date           = 
+|location       = 
+|author         = 
+|permission     = 
+|other_versions = 
+}}

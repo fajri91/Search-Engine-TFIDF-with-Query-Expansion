@@ -1,0 +1,115 @@
+Mitsubishi T-2
+{{Infobox Aircraft
+ |name= Mitsubishi T-2
+ |image=File:T-2Training aircraft01.jpg
+ |caption=Mitsubishi T-2
+ |type=Trainer (aircraft)
+ |manufacturer= [[Mitsubishi]]
+ |designer=Dr. Kenji Ikeda
+ |first flight=20 Juli 1971
+ |introduced=1975
+ |retired=Maret 2006
+ |status=
+ |primary user= Japan Air Self-Defense Force
+ |more users=<!--up to three more. please separate with {{br}}.-->
+ |produced=
+ |number built=90
+ |unit cost=
+ |developed from=
+ |variants with their own articles=Mitsubishi F-1 
+}}
+
+'''Mitsubishi T-2''' adalah sebuah pesawat jet trainer latih yang digunakan Pasukan Bela Diri Jepang.
+
+Konfigurasi T-2 adalah mengingatkan dari dua kursi Jaguar, dengan dua pesawat memiliki konfigurasi keseluruhan yang sama dan beberapa kemiripan dalam rincian. Secara khusus, T-2 juga didukung oleh dua turbofan Rolls-Royce Turbomeca Adour, mesin yang sama digunakan oleh Jaguar, lisensi-dibangun oleh Ishikawajima-Harima Heavy Industries di bawah sebutan "TF40-IHI-801A".
+
+[[Berkas:T-2 CCV.jpg|thumb|]]
+[[Berkas:T-2 and F-1 Canopy.jpg|thumb|]]
+[[Berkas:T-2Training aircraft02.jpg|thumb|]]
+
+== Varian ==
+* '''XT-2''' 
+* '''T-2(Z) ''' 
+* '''T-2(K) ''' 
+* '''T-2 CCV''' 
+
+== Operator ==
+;{{JPN}}
+
+== Spesifikasi (T-2(K)) ==
+{{aircraft specification|
+<!-- if you do not understand how to use this template, please ask at [[Wikipedia talk:WikiProject Aircraft]] -->
+<!-- please answer the following questions -->
+|plane or copter?=plane
+|jet or prop?=jet
+<!-- Now, fill out the specs. Please include units where appropriate (main comes first, alt in parentheses). If an item doesn't apply, like capacity, leave it blank. For instructions on using |ref=, |more general=, |more performance=, |power original=, and |thrust original= see [[Template talk:Airtemp]]. -->
+|ref=Jane's All The World's Aircraft 1976-77 <ref name="Janes 76 p129-30">Taylor 1976, pp.129130.</ref>
+|crew=Two
+|span main=7.88 m
+|span alt=25 ft 10 in
+|length main=17.85 m
+|length alt=58 ft 6 in
+|height main=4.39 m
+|height alt=14 ft 4 in
+|area main=21.2 m
+|area alt=228 ft
+|airfoil=NACA 65 series (modified)
+|empty weight main=6,197 kg
+|empty weight alt=13,662 lb
+|loaded weight main=9,675 kg
+|loaded weight alt=21,330 lb
+|max takeoff weight main=12,800 kg<ref name="Lake p143"> Lake 1994, p.143.</ref>
+|max takeoff weight alt=28,219 lb
+|engine (jet)= [[IHI Corporation|Ishikawa-Harima]] [[Rolls-Royce Turbomeca Adour|TF40-801A]]
+|type of jet=afterburning [[turbofan]]s
+|number of jets=2
+|thrust main=20.95 kN
+|thrust alt=4,710 lbf
+|afterburning thrust main=31.76 kN
+|afterburning thrust alt=7,140 lbf
+|max speed main=1,700 km/h<ref name="Lake p143"/> 
+|max speed alt=1,056 [[Miles per hour|mph]], 917 [[knot (speed)|kn]]
+|max speed more=at 10,975 m (36,000 ft) (clean)
+|ceiling main=15,240 m
+|ceiling alt=50,000 ft
+|ferry range main=2,870 km
+|ferry range alt=1,785 mi, 1,550 [[nautical mile|nmi]]
+|loading main=
+|loading alt=
+|thrust/weight=
+|guns=1  20 mm [[M61 Vulcan|JM61A1 cannon]]
+|missiles=Provision for Two [[AIM-9 Sidewinder]] [[Air-to-air missile]] on wingtip missile rails
+|hardpoints=One centreline and two underwing pylons 
+}}
+
+== Lihat Pula ==
+{{aircontent|
+|related=
+* [[Mitsubishi F-1]]
+|similar aircraft=
+* [[T-38 Talon]] 
+|sequence=
+* [[Fuji T-1|T-1]]  '''T-2'''  [[Fuji T-3|T-3]]  [[Kawasaki T-4|T-4]]  [[Fuji T-5|T-5]]
+|lists=
+|see also=
+}}
+
+== Referensi ==
+{{Reflist}}
+
+{{refbegin}}
+* Lake, Jon. "Mitsubishi T-2: Supersonic Samurai". ''World Air Power Journal'', Volume 18, Autumn/Fall 1994. London:Aerospace Publishing. ISBN 1-874023-45-X. ISSN 0959-7050. pp.&nbsp;136147.
+* Michell, Simon (editor). ''Jane's Civil and Military Aircraft Upgrades 1994-95''. Coulsdon, UK: Jane's Information Group, 1994. ISBN 0-7106-1208-7.
+* Sekigawa, Eiichiro. "Mitsubishi's Sabre Successor". ''[[Air International]]'', March 1980, Vol 18 No 3. Bromley, UK:Fine Scroll. ISSN 0306-5634. pp.&nbsp;117121, 130131.
+* Taylor, John W.R. (editor) ''Jane's All the World's Aircraft 1976-77''. London:Jane's Yearbooks, 1976. ISBN 0-354-00532-3.
+{{refend}}
+
+== Pranala luar ==
+{{Commons|Mitsubishi T-2}}
+{{pesawat militer-stub}}
+{{pesawat-stub}}
+
+[[Kategori:Pesawat militer]]
+[[Kategori:Pesawat jet]]
+[[Kategori:Mitsubishi]]
+[[Kategori:Pesawat militer Jepang]]

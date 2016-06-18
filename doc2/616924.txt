@@ -1,0 +1,35 @@
+Marpissa milleri
+{{Taxobox
+|name = Marpissa milleri
+|status = 
+|image = 
+|image_caption = 
+|domain = 
+|regnum = [[Animalia]]
+|phylum = [[Arthropoda]]
+|classis = [[Arachnida]]
+|ordo = [[Araneae]]
+|familia = [[Salticidae]]
+|genus =Marpissa
+|species = Marpissa milleri
+|binomial = Marpissa milleri
+|binomial_authority =Peckham & Peckham, 1894
+|range_map = 
+|range_map_caption = 
+|image2 = 
+|image2_caption = 
+|synonyms = 
+}}
+'''''Marpissa milleri''''' adalah spesies [[laba-laba]] yang tergolong [[familia]] [[Salticidae]]. Spesies ini juga merupakan bagian dari genus [[Marpissa]] dan ordo [[Araneae]]. Nama ilmiah dari spesies ini pertama kali diterbitkan pada tahun 1894 oleh Peckham & Peckham.
+
+Laba-laba ini biasanya banyak ditemui di Rusia, Cina, Korea, Jepang.
+
+== Referensi ==
+
+* Platnick, Norman I. (2010): [http://research.amnh.org/entomology/spiders/catalog/LINYPHIIDAE.html The world spider catalog], version 10.5. ''American Museum of Natural History''.
+
+{{DEFAULTSORT:Marpissa milleri}}
+
+[[Kategori:Salticidae]]
+
+{{labalaba-stub}}

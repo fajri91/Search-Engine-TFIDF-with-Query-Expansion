@@ -1,0 +1,74 @@
+Templat:HopmanCupbox
+{| cellpadding="4" cellspacing="0" style="margin: 0.5em 1em 0.5em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width=70% align=center
+|-
+!valign=bottom|{{#if:{{{team1-noflag|}}}| |{{flagicon|{{{team1|}}}|2={{{team1-var|}}}|size=45x32px}}<br/>}}{{{team1}}}<br/><big>{{{score1}}}</big>
+|colspan=2 align=center| {{{venue}}}<br />{{{date}}}<br />{{{surface}}}
+!valign=bottom|{{#if:{{{team2-noflag|}}}| |{{flagicon|{{{team2|}}}|2={{{team2-var|}}}|size=45x32px}}<br/>}}{{{team2}}}<br/><big>{{{score2}}}</big>
+|-
+|colspan=6|
+{|cellpadding="0" cellspacing="0" style="margin: 0.5em 1em 0.5em 0; background: #f9f9f9;" width=100%
+<!-- head -->
+|- align=left bgcolor=#EAE3D8
+!width=3%|
+!
+!width=62%|
+!width=6%|1
+!width=6%|2
+!width=6%|3
+!width=12%|
+|-
+
+<!-- rubber1 -->
+|- bgcolor=#ededed
+! 1
+| {{#if: {{{team1|}}} | {{#if: {{{team1-noflag|}}} | {{noflag}} | {{flagicon|{{{team1|}}}|2={{{team1-var|}}}}} }}| }}<br />{{#if: {{{team2|}}} | {{#if: {{{team2-noflag|}}} | {{noflag}} | {{flagicon|{{{team2|}}}|2={{{team2-var|}}}}} }}| }}
+|{{{R1}}}
+|-
+
+<!-- rubber2 -->
+|-
+! 2
+| {{#if: {{{team1|}}} | {{#if: {{{team1-noflag|}}} | {{noflag}} | {{flagicon|{{{team1}}}|2={{{team1-var|}}}}} }}| }}<br />{{#if: {{{team2|}}} | {{#if: {{{team2-noflag|}}} | {{noflag}} | {{flagicon|{{{team2}}}|2={{{team2-var|}}}}} }}| }}
+|{{{R2}}}
+|-
+
+<!-- rubber3 -->
+|- bgcolor=#ededed
+! 3
+| {{#if: {{{team1|}}} | {{#if: {{{team1-noflag|}}} | {{noflag}} | {{flagicon|{{{team1}}}|2={{{team1-var|}}}}} }}| }}<br />{{#if: {{{team2|}}} | {{#if: {{{team2-noflag|}}} | {{noflag}} | {{flagicon|{{{team2}}}|2={{{team2-var|}}}}} }}| }}
+|{{{R3}}}
+|-
+|}
+|}
+
+<noinclude>
+Kode untuk templat ini:
+<pre>
+{{HopmanCupbox
+|team1=
+|team2=
+|venue=
+|date=
+|surface=
+|score1=
+|score2=
+|R1={{ TennisMatch3 |T1P1= | | |  |T2P1= | | | }}
+|R2={{ TennisMatch3 |T1P1= | | |  |T2P1= | | | }}
+|R3={{ TennisMatch3 |T1P1= |T1P2= | | | |T2P1= |T2P2= | | | }}
+}}
+<!-- info
+gunakan salah satu argumen dari TennisMatch3 jika perlu:
+|np=    tidak dimainkan
+|nc=x   tidak terselesaikan; x adalah set dimana pertandingan itu selesai
+|wo=x   mengundurkan diri; x adalah nomor tim pemain itu berasal (1 atau 2)
+|re1=x  jika pemain 1 mengundurkan diri; x adalah set dimana pertandingan itu selesai
+|re2=x  jika pemain 2 mengundurkan diri; x adalah set dimana pertandingan itu selesai
+-->
+</pre>
+[[Kategori:Infobox kurung dalam turnamen|{{PAGENAME}}}]]
+
+
+
+
+
+</noinclude>

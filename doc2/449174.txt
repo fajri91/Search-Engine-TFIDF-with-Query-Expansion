@@ -1,0 +1,61 @@
+Diagram p
+{{diagram kontrol}}
+
+'''Diagram p''' adalah jenis diagram kontrol yang digunakan di dunia industri atau bisnis untuk memonitor [[proporsi]] dari [[ketidaksesuaian]] dalam sebuah [[sampel]], di mana proporsi [[ketidaksesuaian]] ditentukan sebagai [[rasio]] unit yang memiliki ketidaksesuaian dibandingkan dengan jumlah [[sampel]].<ref>{{cite web|url=http://www.itl.nist.gov/div898/handbook/pmc/section3/pmc332.htm|title=Proportions Control Charts|accessdate=2010-01-05|work=[http://www.itl.nist.gov/div898/handbook/index.htm NIST/Sematech Engineering Statistics Handbook]|publisher=[[National Institute of Standards and Technology]]}}</ref>
+
+Diagram p hanya mengakomodir inspeksi dengan dua keputusan, "OK / Gagal", "Bagus / Jelek".
+
+== Asumsi ==
+
+Dasar untuk menggunakan diagram p adalah, bahwa data berasal dari [[distribusi binomial]] <ref name="Montgomery2005">{{cite book|last = Montgomery|first = Douglas|title = Introduction to Statistical Quality Control|publisher = [[John Wiley & Sons]], Inc.|year = 2005|location = [[Hoboken, New Jersey]]|url = http://www.eas.asu.edu/~masmlab/montgomery/|isbn = 9780471656319|oclc = 56729567}}</ref>{{rp|267}} dengan asumsi bahwa:
+
+* [[Probabilitas]] ketidaksesuaian p untuk setiap unit adalah sama.
+* Tiap-tiap unit tidak memiliki ketergantungan dengan unit sebelum dan sesudahnya.
+* Stiap unit di inspeksi dengan cara yang sama.
+
+== Rumus Batas Kontrol ==
+
+Batas kontrol atas dihitung dengan rumus:<ref name="Montgomery2005"/>{{rp|268}}
+
+<math>\bar p + 3\sqrt{\frac{\bar p(1-\bar p)}{n}}</math>
+
+Batas kontrol bawah dihitung dengan rumus:<ref name="Montgomery2005"/>{{rp|268}}
+
+<math>\bar p - 3\sqrt{\frac{\bar p(1-\bar p)}{n}}</math>
+
+Di mana <math>\bar p</math> adalah estimasi rata-rata proporsi jangka panjang yang dihitung dengan rumus:
+
+<math>\bar p</math> = <math>\frac{\sum x_i}{\sum n_i}</math>
+
+Jika nilai batas kontrol bawah lebih kecil atau sama dengan nol maka batas kontrol bawah di anggap nol.
+
+== Jumlah Sampel ==
+
+Untuk membuat diagram p, jumpah sampel harus diperhitungkan dengan benar. Jika inspeksi dilakukan 100%, maka tidak ada masalah dengan jumlah sample, namun jika inspeksi dilakukan dengan metode sampel, jumlah sampel harus diambil cukup besar untuk memperbesar kemungkinan mendapatkan unit yang memiliki [[ketidaksesuaian]].
+
+Rumus umum yang digunakan untuk menghitung jumlah sampel adalah:<ref name="Montgomery2005"/>{{rp|278}}
+
+<math>n \ge \left ( \frac{3}{\delta} \right )^2 \bar p(1-\bar p)</math>
+
+Di mana  adalah besarnya pergeseran yang ingin dideteksi.
+
+Rumus lain yang bisa digunakan adalah
+
+<math>n > \frac{3^2 (1 - \bar p)}{\bar p}</math>.
+
+Dengan rumus ini, jumlah sampel akan menjadi lebih besar, sehingga batas kontrol bawah akan mendapatkan angka yang positif.
+
+== Contoh Diagram p ==
+
+[[Berkas:PChart.jpg|Contoh Diagram p dengan jumlah sampel yang tidak sama]]
+
+== Referensi ==
+{{reflist}}
+
+== Pranala Luar ==
+* [http://www.doh.state.fl.us/hpi/pdf/ControlChart2.pdf Control Chart]
+* [http://www.statsoft.com/textbook/quality-control-charts Quality Control Chart - Statsoft.com]
+* [http://www.statgraphics.com/control_charts.htm Control Chart - Statgraphics.com]
+
+[[Kategori:Six Sigma]]
+[[Kategori:Pengendalian mutu| ]]

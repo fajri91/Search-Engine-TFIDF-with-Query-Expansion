@@ -1,0 +1,40 @@
+Desain permainan
+{{Dablink|Artikel ini berisi tentang desain [[video permainan]] dan tidak ada hubungan dengan desain bentuk [[permainan]] lain seperti [[permainan papan]] dan [[permainan kartu]].}}
+'''Desain permainan''', bagian dari [[pengembangan permainan]], adalah proses mendesain atau merancang konten dan peraturan [[permainan]] dalam [[Pengembangan permainan#Pra-pembuatan|tahap pra-pembuatan]]<ref>[[#BrSch|Brathwaite, Schreiber 2009]], p. 2</ref> dan perancangan tata permainan, lingkungan, alur cerita, dan karakter selama [[Pengembangan permainan#Pembuatan|tahap pembuatan]]. Istilah ini juga digunakan untuk menjelaskan desain permainan yang ada di dalam suatu permainan dan dokumentasi yang menjelaskan desain seperti itu.{{Citation needed|date=March 2010}} Desain permainan memerlukan keahlian artistik dan teknis serta kemampuan menulis yang baik.<ref>[[#AdRol|Adams, Rollings 2003]], pp. 20, 22-25</ref>
+
+== Disiplin ==
+* World design
+* System design
+* Content design
+* Game writing
+* Level design
+* User interface design
+* Audio design
+
+== Lihat pula ==
+* [[Pengembangan permainan]]
+* [[Daftar desainer permainan video]]
+* [[Genre permainan video]]
+
+== Catatan kaki ==
+{{Reflist|2}}
+
+== Pranala luar ==
+* {{wikiversity|School:Game design}}
+* Game design veteran [http://www.sloperama.com/advice.html Tom Sloper's game biz advice], including lessons on game design
+* [http://www.gameindustrymap.com/ Game Industry Map] - a searchable database of Game Design companies around the world
+* [http://queue.acm.org/detail.cfm?id=971590 ACM Queue article "Game Development: Harder Than You Think"] by Jonathan Blow
+* [http://www.vancouver.wsu.edu/fac/peabody/game-book/Coverpage.html The Art of Computer Game Design] by [[Chris Crawford (game designer)|Chris Crawford]]
+* {{dmoz|Games/Video_Games/Game_Design|Game design}}
+* [http://www.runawaystudios.com/articles/chris_taylor_gdd.asp Example Game Design Document] by Chris Taylor
+* [http://www.gamespot.com/features/6129276/index.html "So You Wanna Be a Game Designer"] at ''[[GameSpot]]''
+* [http://www.eurocom.co.uk/content/view/102/81/ The Designer] at [[Eurocom]]
+* [http://www.animationarena.com/video-game-salary.html Video Game Salary] at [[Animation Arena]]
+* [http://myfuture.com/careers/overview/video-game-designers_15-1099.13 Video Game Designer Career Stats at Myfuture.com]
+
+{{permainan-stub}}
+
+{{DEFAULTSORT:Desain Permainan}}
+
+[[Kategori:Desain permainan]]
+[[Kategori:Pengembangan permainan video]]

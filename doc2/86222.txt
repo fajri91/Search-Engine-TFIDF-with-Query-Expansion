@@ -1,0 +1,129 @@
+Penisilin
+[[Berkas:Penicillin-core.png|thumb|250px|Asam 6-Aminopenisilanat, Inti dari setiap turunan Penisilin]]
+'''Penisilin''' ([[bahasa Inggris|Inggris]]:''Penicillin'' atau '''PCN''') adalah sebuah kelompok [[antibiotika]] -laktam yang digunakan dalam penyembuhan penyakit infeksi karena [[bakteri]], biasanya berjenis [[Gram positif]].<ref>{{cite book|last=Madigan
+|first=MT|coauthors=Martinko JM, Dunlap PV, Clark DP
+|title=Brock Biology of Microorganisms
+|edition=12
+|location=San Francisco
+|publisher= Pearson Benjamin Cummings
+|pages=795
+|isbn=9780321536150}}</ref> Penisilin bekerja dengan menghambat pembentukan [[dinding sel]] bakteri, dengan menghambat digabungkannya asam N-asetilmuramat non esensial ke dalam struktur mukopeptida yang biasanya membuat sel menjadi kaku dan kuat. Cara kerja ini juga berarti bahwa penisilin hanya akan aktif bekerja pada satuan [[patogen]] yang sedang tumbuh dengan aktif.<ref name="Madigan">
+{{cite book
+|last=Pelczar, Jr.
+|first=MT|coauthors=E.C.S. Chan
+|title=Dasar-dasar Mikrobiologi
+|edition=1
+|location=Jakarta
+|publisher=UI Press
+|pages=517
+}}
+</ref> Sebutan "penisilin" juga dapat digunakan untuk menyebut anggota spesifik dari kelompok penisilin. Semua penisilin memiliki dasar rangka [[Penam]], yang memiliki rumus molekul R-C<sub>9</sub>H<sub>11</sub>N<sub>2</sub>O<sub>4</sub>S, di mana R adalah rangka samping yang beragam.
+
+== Sejarah ==
+Penemuan penislin selalu dikaitkan dengan ilmuwan [[Skotlandia]], [[Alexander Fleming]] pada [[1929]], walaupun sebenarnya banyak [[ilmuwan]] lain yang telah mencatat efek antibakteri sebelum Fleming.<ref name="Madigan"/>
+
+Fleming, dalam laboratoriumnya di Rumah Sakit Santa Maria (kini merupakan salah satu rumah sakit pendidikan di [[London]]), mencatat adanya lingkaran hambatan (zona bening) pada pertumbuhan bakteri di piringan kultur ''[[Staphylococcus]]''. Fleming menyimpulkan bahwa hambatan itu dikarenakan sebuah subtansi penghambat pertumbuhan dan menghancurkan bakteri. Ia kemudian menumbuhkan sebuah kultur murni dan menemukan ''[[Penicillium]]'' yang kemudian dikenal sebagai ''[[Penicillium chrysogenum]]''. Fleming memberikan istilah "penisilin" untuk menggambarkan hasil filtrasi dari kultur mikrobiologis ''Penicillium''.<ref name="Madigan"/>
+
+Walaupun di tahapan awal ini, penisilin ditemukan efektif melawan bakteri [[Gram positif]] dan tidak efektif pada [[Gram negatif]] dan [[jamur]]. Fleming optimis bahwa penisilin akan menjadi disinfektan yang sangat berguna, berpotensi tinggi dengan tingkat keracunan yang rendah dibandingkan antiseptik masa itu.
+
+Pada percobaan berikutnya, Fleming menyadari bahwa penisilin tidak akan bertahan lama di tubuh manusia untuk membunuh bakteri patogen. Ia menghentikan penelitiannya mengenai penisilin setelah [[1931]], namun mencoba memulainya lagi pada [[1934]].
+
+Pada [[1939]], ilmuwan [[Australia]] [[Howard Walter Florey]] dan sebuah tim peneliti di [[Universitas Oxford]] membuat sebuah kemajuan yang berarti dalam menunjukkan aksi bakterisidal secara ''[[in vivo]]'' dari penisilin. Mereka gagal dalam percobaan karena ketidakcukupan penisilin, namun berhasil dibuktikan bahwa penislin tidak berbahaya dan bekerja pada tikus. Beberapa percobaan penisilin dilakukan di [[Oxford]]. Pada [[1942]], [[John Bumstead]] dan [[Orvan Hess]] menjadi ahli yang pertama berhasil menyembuhkan pasiennya dengan penisilin.<ref>{{cite news|author=Saxon, W.|url=http://www.wellesley.edu/Chemistry/Chem101/antibiotics/obit-a-miller.html|title=Anne Miller, 90, first patient who was saved by penicillin|publisher=The New York Times|date=[[1999-06-09]]|archiveurl=https://archive.is/unIg|archivedate=2012-05-29}}</ref><ref>{{cite web | author=Krauss K, editor | title=Yale-New Haven Hospital Annual Report | url=http://www.ynhh.org/general/annreport/ynhh99ar.pdf | format=PDF | year=1999 | publisher=Yale-New Haven Hospital | location=New Haven}}</ref>
+
+Saat [[Perang Dunia II]], penisilin berjasa dalam menekan jumlah kematian akibat infeksi yang disebabkan luka terbuka yang tak mendapat perawatan, yang dalam situasi serupa dapat menimbulkan [[gangren]] bahkan kematian, menyelamatkan 12-15% nyawa. Ketersediaan penisilin masih sangat terbatas karena kesulitan untuk memproduksinya secara masal, dan kecepatan ginjal yang menghasilkan sisa penisilin yang tidak sempat digunakan tubuh. Saat itu, pengumpulan kembali penisilin dari [[air seni]] pasien merupakan prosedur yang biasa. Penisilin tersebut akan digunakan kembali.<ref name="Silverthorn2004">{{cite book|author=Silverthorn, DU.|title=Human physiology: an integrated approach.|edition=3rd|location=Upper Saddle River (NJ)|publisher=Pearson Education|year=2004|id=ISBN 0-8053-5957-5}}</ref>
+
+Penggunaan kembali penisilin tersebut bukanlah jalan akhir yang baik. Hal ini membuat para peneliti mencari jalan lain untuk memperlambat sekresi penisilin. Mereka berharap dapat menemukan molekul yang dapat menyaingi penisilin untuk transporter asam organik. Transportter tersebut berfungsi dalam sekresi penisilin, maka diperkirakan transporter akan membawa molekul penghambat sehingga penisilin akan lebih lama pada tubuh. Sebuah agen probenesid akhirnya dibuktikan dapat menghambat. Probenesid akan bersaing dan menghambat sekresi penisilin. Penislin akhirnya dapat bekerja lama di tubuh. Teknik produksi penisilin secara masal pun akhirnya dapat diatasi.<ref name="AMH2006">{{cite book|editor=Rossi S, editor|title= Australian Medicines Handbook|year=2006|location=Adelaide|publisher=Australian Medicines Handbook|id=ISBN 0-9757919-2-3}}</ref>
+
+Struktur kimiawi penisilin diketahui oleh [[Dorothy Crowfoot Hodgkin]] pada awal 1940an. Penemuan ini menjadikan penisilin dapat dibuat secara sintetik. Sebuah tim dari Oxford menemukan metode produksi massal penisilin. Tim yang dipimpin [[Howard Walter Florey]] itu mendapatkan [[Hadiah Nobel dalam bidang Kedokteran atau Fisiologi]] pada [[1945]]. Saat itu, Penisilin menjadi [[antibiotika]] yang banayak digunakan dan masih digunakan untuk beberapa infeksi bakteri Gram positif.
+
+== Perkembangan penisilin ==
+Lingkup aktivitas penisilin yang sempit menjadikan para peniliti mencari turunan penisilin yang dapat mengobati infeksi yang lebih banyak.
+
+Perkembangan besar yang pertama adalah [[ampisilin]], yang memiliki lingkup aktivitas yang lebih luas daripada penisilin asli. Perkembangan berikutnya menghasilkan penisilin yang dapat menahan enzim beta-laktamase termasuk [[flukloksasilin]], [[dikloksasilin]], dan [[metisilin]]. Penemuan ini sangat penting untuk melawan spesies bakteria yang memiliki beta-laktamase, namun tidak dapat melawan strain ''Staphylococcus aureus'' yang tahan metisilin.
+
+Penisilin yang antipseudomal seperti [[Tisarsilin]] dan [[Piperasilin]] berguna untuk melawan bakteri Gram negatif.
+
+== Mekanisme aksi ==
+Antibiotika -laktam bekerja dengan menghambat pembentukan [[peptidoglikan]] di dinding sel. Beta -laktam akan terikat pada enzim transpeptidase yang berhubungan dengan molekul peptidoglikan bakteri, dan hal ini akan melemahkan dinding sel bakteri ketika membelah. Dengan kata lain, antibiotika ini dapat menyebabkan perpecahan sel (sitolisis) ketika bakteri mencoba untuk membelah diri.
+
+Pada bakteri Gram positif yang kehilangan dinding selnya akan menjadi [[protoplas]], sedangkam Gram negatif menjadi [[sferoplas]]. Protoplas dan sferoplas kemudian akan pecah atau lisis.
+
+== Fungsi klinis ==
+Istilah "penisilin" sering digunakan terutama untuk menunjukkan benzilpenisilin.
+
+=== Benzatin benzilpenisilin ===
+'''Benzatin benzilpenisilin''' atau '''benzatin penisilin''' adalah penisilin yang lambat diserap pada sirkulasi, dimasukkan secara intramuskular atau disuntikkan pada otot, dan akan terhidrolisa menjadi benzilpenisilin ''in vivo''. Obat ini dipilih ketika konsentrasi rendah benzilpenisilin diperlukan, memperpanjang kerja antibiotika 2-4 minggu setelah dosis tunggal intramuskular.
+
+Indikasi spesifik untuk benzatin penisilin:
+* Profilaksis dari [[demam reumatik]]
+* [[Sifilis]] awal atau laten
+
+=== Benzilpenisilin (penisilin G) ===
+[[Berkas:Penicillin-G.png|thumb|200px|Penisilin G (Benzilpenisilin)]]
+'''Benzilpenisilin''' atau '''penisilin G''' adalah penisilin [[standar emas]]. Penisilin G secara khusus diberikan tidak melalui mulut karena sifatnya yang tak stabil dengan asam hidroklorat di [[lambung]]. Penisilin G adalah antibiotik pertama yang berfungsi secara klinis, ditemukan oleh Howard Florey dan koleganya pada tahun 1939 <ref name="Madigan"/>
+
+Indikasi spesifik untuk benzilpenisilin:
+* [[Selulit]]
+* [[Endokarditis]] bakteri
+* [[Meningitis]]
+* Pneumonia aspirasi, abses paru-paru
+* [[Sifilis]]
+* [[Septisemia]] pada anak-anak
+
+=== Fenoksimetilpenisilin (penisilin V) ===
+'''Fenoksimetilpenisilin ''', atau dikenal dengan '''penisilin V''', adalah penisilin yang aktif secara oral (diberikan melalui mulut). Obat ini kurang aktif dibandingkan benzilpenisilin. Obat ini hanya sesuai pada kondisi konsentrasi jaringan tinggi tidak diperlukan.
+
+Indikasi spesifik untuk fenoksimetilpenisilin:
+* Infeksi karena ''[[Streptococcus pyogenes]]''
+** [[Tonsilitis]]
+** [[Faringitis]]
+** Infeksi [[kulit]]
+* Profilaksis [[demam reumatik]]
+* Gingivitis sedang hingga parah (dengan [[metronidazol]])
+
+=== Prokain benzilpenisilin ===
+'''Prokain benzilpenisilin''', atau '''penisilin prokain''', adalah kombinasi dari benzilpenisilin dengan prokain agen [[anestesi lokal]]. Obat disuntik melalui otot, secara lambat akan diserap ke sirkulasi dan dihdrolisa menjadi benzilpenisilin.
+
+Kombinasi ini bertujuan untuk mengurangi rasa sakit dan tidak nyaman karena suntikkan penisilin yang banyak ke dalam otot. Perlakuakn ini sering digunakan pada [[kedokteran hewan]].
+
+Indikasi spesifik untuk prokain benzilpenisilin:
+* [[Sifilis]]
+* Infeksi saluran pernapasan
+* [[Selulitis]]
+
+Obat ini juga digunakan pada [[antraks]].
+
+== Penisilin semi-sintetetik ==
+Dilakukan modifikasi struktur pada rantai samping dari inti penisilin untuk meningkatkan kemampuan obat, menstabilkan aktivitas beta-laktamase, dan meningkatkan lingkup kerja.
+
+=== Penisilin lingkup sempit ===
+Kelompok ini dikembangkan untuk meningkatkan keefektifitas melawan beta-laktamase yang dibuat oleh ''Staphylococcus aureus'',dan dikenal dengan penisilin anti-staphylococcal.
+
+=== Penisilin lingkup sedang ===
+Kelompok ini dikembangkan untuk meningkatkan llingkup kerja, seperti pada amoksisilin.
+
+* [[Amoksisilin]]
+* [[Ampisilin]]
+
+=== Penisilin lingkup luas ===
+Kelompok ini dikembangkan untuk meningkatkan efisiensi melawan bakteri Gram negatif.
+
+* [[Piperasilin]]
+* [[Tisarsilin]]
+* [[Azlosillin]]
+* [[Karbenisilin]]
+
+=== Penisilin dengan penghambat -laktamase ===
+Penisilin dapat digabungkan dengan penghambat beta-laktamase untuk membantu melawan enzim beta-laktamase.
+
+== Efek samping ==
+=== Reaksi efek samping ===
+Reaksi [[efek samping]] yang sering adalah (1% pasien) diare, urtikaria, nausea, dan superinfeksi dri Candidiasis. Efek yang jarang (0.11% pasien) adalah demam, muntah, dermatitis, angiodema atau kolitis pseudomembarnosus.<ref name="AMH2006" />
+
+=== Alergi ===
+Alergi terhadap antibiotika beta-laktam dapat terjadi pada 10% pasien. 0.01% dapat menderita anafilaksis.
+
+== Referensi ==
+{{reflist}}
+
+[[Kategori:Antibiotika]]

@@ -1,0 +1,14 @@
+Berkas:The missile under the Tu-16R is a KSR-2 (NATO AS-5 Kelt). It is not carried by the Tu-16R.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+from http://www.flankers-site.co.uk/mos2005_day03.html
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Fairuse}}

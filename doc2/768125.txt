@@ -1,0 +1,41 @@
+Templat:Transjakarta
+{{Navbox
+| name = Transjakarta
+| listclass = hlist
+| title =[[Transjakarta]]
+| image = [[Berkas:Logo-TranJakarta2014.jpg|80px]]
+| above = [[Bus Rapid Transit|Bus Rapid Transit (BRT)]] di [[Jakarta]], [[Indonesia]]
+| group1 =[[File:Roundeltjk1.png|20px]]
+| list1 = [[Koridor 1 Transjakarta|Koridor 1]]: [[Kota (Transjakarta)|Kota]] - [[Blok M (Transjakarta)|Blok M]]
+| group2 =[[File:Roundeltjk2.png|20px]]
+| list2 = [[Koridor 2 Transjakarta|Koridor 2]]: [[Kota Harapan Indah (Transjakarta)|Kota Harapan Indah]] - [[Pulo Gadung 1 (Transjakarta)|Pulo Gadung 1]] - [[Harmoni Sentral (Transjakarta)|Harmoni Central Busway]]
+| group3 =[[File:Roundeltjk3.png|20px]]
+| list3 = [[Koridor 3 Transjakarta|Koridor 3]]: [[Kalideres (Transjakarta)|Kalideres]] - [[Pasar Baru (Transjakarta)|Pasar Baru]]
+| group4 =[[File:Roundeltjk4.png|20px]]
+| list4 = [[Koridor 4 Transjakarta|Koridor 4]]: [[Pulo Gadung 2 (Transjakarta)|Pulo Gadung 2]] - [[Dukuh Atas 2 (Transjakarta)|Dukuh Atas 2]]
+| group5 =[[File:Roundeltjk5.png|20px]]
+| list5 = [[Koridor 5 Transjakarta|Koridor 5]]: [[Kampung Melayu (Transjakarta)|Kampung Melayu]] - [[Ancol (Transjakarta)|Ancol]]
+| group6 =[[File:Roundeltjk6.png|20px]]
+| list6 = [[Koridor 6 Transjakarta|Koridor 6]]: [[Ragunan (Transjakarta)|Ragunan]] - [[Dukuh Atas 2 (Transjakarta)|Dukuh Atas 2]]
+| group7 =[[File:Roundeltjk7.png|20px]]
+| list7 = [[Koridor 7 Transjakarta|Koridor 7]]: [[Kampung Rambutan (Transjakarta)|Kampung Rambutan]] - [[Kampung Melayu (Transjakarta)|Kampung Melayu]]
+| group8 =[[File:Roundetjk8.png|20px]]
+| list8 = [[Koridor 8 Transjakarta|Koridor 8]]: [[Lebak Bulus (Transjakarta)|Lebak Bulus]] - [[Harmoni Sentral (Transjakarta)|Harmoni Central Busway]]
+| group9 =[[File:Roundetjk9.png|20px]]
+| list9 = [[Koridor 9 Transjakarta|Koridor 9]]: [[Pluit (Transjakarta)|Pluit]] - [[Pinang Ranti (Transjakarta)|Pinang Ranti]]
+| group10 =[[File:Roundetjk10.png|20px]]
+| list10 = [[Koridor 10 Transjakarta|Koridor 10]]: [[Tanjung Priok (Transjakarta)|Tanjung Priok]] - [[PGC 2 (Transjakarta)|PGC 2]]
+| group11 =[[File:Roundetjk11.png|20px]]
+| list11 = [[Koridor 11 Transjakarta|Koridor 11]]: [[Kampung Melayu (Transjakarta)|Kampung Melayu]] - [[Pulo Gebang (Transjakarta)|Pulo Gebang]]
+| group12 =[[File:Roundetjk12.png|20px]]
+| list12 = [[Koridor 12 Transjakarta|Koridor 12]]: [[Penjaringan (Transjakarta)|Penjaringan]] - [[Tanjung Priok (Transjakarta)|Tanjung Priok]]
+| group13 =[[File:Roundetjk13.png|20px]]
+| list13 = [[Koridor 13 Transjakarta|Koridor 13]]: [[Ciledug (Transjakarta)|Ciledug]] - Kapten Tendean
+| group14 =[[File:Roundetjk14.png|20px]]
+| list14 = [[Koridor 14 Transjakarta|Koridor 14]]: [[Manggarai (Transjakarta)|Manggarai]] - [[Universitas Indonesia (Transjakarta)|Universitas Indonesia]]
+| group15 =[[File:Roundetjk15.png|20px]]
+| list15 = [[Koridor 15 Transjakarta|Koridor 15]]: Kapten Tendean - [[Pondok Kelapa (Transjakarta)|Pondok Kelapa]]
+| below = [[Daftar koridor Transjakarta|Ringkasan semua koridor]]
+}}<noinclude>
+[[Kategori:Templat Transjakarta]]
+</noinclude>

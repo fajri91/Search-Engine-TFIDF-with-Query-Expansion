@@ -1,0 +1,48 @@
+Templat:Explosivebox
+{| border="1" cellpadding="3" cellspacing="0" width="250px" align="right" style="border-collapse: collapse; margin: 0 0 0 0.5em"
+|-
+| bgcolor="#ffffff" align="center" colspan="2" |
+[[Image:{{{image|{{PAGENAME}}.png}}}|{{{width|220}}}px|Struktur kimia {{PAGENAME}}]]<br />
+''{{PAGENAME}}''
+|-
+| align="center" colspan="2" | {{{IUPAC_name}}}<br />''[[IUPAC nomenclature|Nama IUPAC]]''
+|-
+| bgcolor="#eeeeee" | [[Rumus kimia]]
+| bgcolor="#ddeeff" | {{{chemical_formula}}}
+|-
+| bgcolor="#eeeeee" | [[Massa molekul]]
+| bgcolor="#ddeeff" | {{{molecular_weight}}}
+|-
+| bgcolor="#eeeeee" | [[Sensitivitas shock]]
+| bgcolor="#ddeeff" | {{{shock_sensitivity}}}
+|-
+| bgcolor="#eeeeee" | [[Sensitivitas friksi]]
+| bgcolor="#ddeeff" | {{{friction_sensitivity}}}
+|-
+| bgcolor="#eeeeee" | [[Kepadatan]]
+| bgcolor="#ddeeff" | {{{density}}}
+|-
+| bgcolor="#eeeeee" | [[Kecepatan ledak]]
+| bgcolor="#ddeeff" | {{{explosive_velocity}}}
+|-
+| bgcolor="#eeeeee" | [[Relative effectiveness factor|RE factor]] 
+| bgcolor="#ddeeff" | {{{RE_factor}}}
+|-
+| bgcolor="#eeeeee" | [[Titik lebur]]
+| bgcolor="#ddeeff" | {{{melting point}}}
+|-
+| bgcolor="#eeeeee" | [[Suhu autoignisi]]
+| bgcolor="#ddeeff" | {{{boiling_point}}}
+|-
+| bgcolor="#eeeeee" | Penampilan
+| bgcolor="#ddeeff" | {{{appearance}}}
+|-
+| bgcolor="#eeeeee" | [[CAS registry number|Nomor CAS]]
+| bgcolor="#ddeeff" | {{{CAS_number}}}
+|-
+| bgcolor="#eeeeee" | [[PubChem]]
+| bgcolor="#ddeeff" | [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid={{{PubChem}}} {{{PubChem}}}]
+|-
+| bgcolor="#eeeeee" | [[SMILES]]
+| bgcolor="#ddeeff" | <small>{{{SMILES}}}</small>
+|}<noinclude>[[Kategori:Templat kotak info|{{PAGENAME}}]]</noinclude>

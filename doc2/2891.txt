@@ -1,0 +1,67 @@
+Komunitas maya
+[[Berkas:SNA segment.png|right|thumb|Segment dari sebuah jaringan sosial]]
+'''Komunitas maya''' diciptakan untuk saling berkomunikasi di antara para pengguna internet dengan menggunakan teknologi yang mengguakan platform internet. Walaupun begitu, saat internet populer di kalangan awam, yaitu sejak munculnya [[http]] sebagai landasan website, masyarakat baru sekadar menggunakan internet untuk mencari berita atau komunikasi melalui [[e-mail]]. Namun segera setelah itu, komunitas maya yang terdiri dari pengguna awam juga mulai terbentuk. Komunitas maya bisa berupa mailing list, ''newsgroup'' atau ''bulletin board''.
+
+== Nama panggilan ==
+Nama panggilan ([[bahasa Inggris]]:''nickname'') adalah nama yang biasa dikenakan di dalam komunitas maya. Misalnya, [[Richard Stallman]] (Pendiri [[GNU]]) sering menggunakan rms sebagai nama panggilannya. '''Dani Firmansyah''' yang meretas (menge-''hack'') situs KPU biasa menggunakan nama panggilan SCHIZOPRENIC. Atau hacker Indonesia yang tertangkap di Singapura, '''Wenas Agusetiawan '''biasa menggunakan nama panggilan hC-. Ada juga yang menggunakan nama sendiri sebagai ''nickname''.
+
+== Milis ==
+Milis (kependekan dari istilah [[bahasa Inggris]]: ''mailing list'') yaitu sarana untuk berkelompok menggunakan [[surat elektronik|surel]] (''e-mail''). Saat ini, banyak situs besar yang menyediakan layanan milis secara gratis, misalnya [[Yahoo! Groups]] dan [[Google Groups]].
+
+== Grup berita ==
+Grup berita ([[bahasa Inggris]]:''newsgroup''), sarana berbasis protokol [[NNTP]] ini mungkin tidak akrab bagi pengguna internet di Indonesia tetapi sarana ini umum digunakan sebelum adanya forum berbasis [[HTTP]].
+
+Bagi yang beruntung, fasilitas ini masih bisa ditemui di beberapa tempat seperti kampus-kampus. Sebuah grup berita bisa terdiri dari beberapa grup sesuai dengan minat masing-masing. Sebagai contoh, grup berita di fakultas ilmu komputer [[Universitas Indonesia]] terdiri dari
+* forum.* (antara lain forum.umum, forum.santai, dan lain-lain)
+* forum.iki.* (untuk diskusi pelajaran)
+
+Salah satu grup berita tertua adalah [[Usenet]].
+
+== Bincang-bincang ==
+Fasilitas bincang-bincang ([[bahasa Inggris]]:''[[chatting]]'') terkenal di antara generasi muda. Dahulu, [[IRC]] terkenal sebagai sarana chatting dengan '''Dalnet''' sebagai [[server]] paling digemari dan '''MIRC''' (berplatform [[Windows]]) sebagai piranti lunak yang terkenal. MIRC dapat ditemu di hampir semua [[warung internet]] di Indonesia. Kini, fasilitas-fasilitas bincang-bincang seperti [[Yahoo! Messenger]], [[MSN Messenger]], [[Google Talk]] yang memiliki antar muka yang lebih menawan mulai menggeser keberadaan IRC yang hanya menyajikan teks saja.
+
+== Situs komunitas/Jaringan sosial ==
+Situs komunitas / jaringan sosial ([[bahasa Inggris]]:''social network'') adalah sebuah fenomena internet yang mewakili generasi muda. Situs-situs ini sering digunakan untuk mencari jodoh ([[bahasa Inggris]]:''online dating''). Pada perkembangannya, modus yang sama juga digunakan untuk mencari teman. Salah satu jenis situs seperti ini yang populer di Indonesia adalah [[CrowdVoice|CrowdVoice,]] [[Ngobas]], dan [[Friendster]] (juga merupakan yang pertama), serta [[Myspace]] dan [[Facebook]] yang memiliki banyak pengguna di seluruh dunia.
+
+== Forum berbasis web ==
+Dahulu dikenal sebagai Papan Buletin ([[bahasa Inggris]]:''Bulletin Board'' / ''Bulletin Board System (BBS)'') atau Papan Pesan ([[bahasa Inggris]]:''Message Board'') namun perlahan istilah tersebut mulai menghilang dari umum dan hanya digunakan di instansi-instansi pendidikan saja. Pada awal perkembangannya, pembuat situs seringkali harus sendiri membuat programnya baik menggunakan bahasa pemrograman '''C''' atau '''Perl'''. Namun '''PHP''' sebagai bahasa pemrograman khusus web dan '''MYSQL''' untuk basis data (''database'') menjadi pasangan favorit pengembang Bulletin Board seperti '''PhpReactor''' atau '''PhpBB'''. Dua program terakhir bisa didapat dengan bebas dan gratis di [http://sourceforge.net SourceForge.Net]. [[PhpBB]], [[vBulletin]], serta [[simplemachines]] adalah beberapa contoh program paling populer digunakan di Internet.
+Contoh forum Indonesia:
+* [[GameDev Indonesia]]: forum untuk para pembuat gem/permainan komputer Indonesia
+* [[WebGaul]], [[KafeGaul]], [[Ngobrol.com]]: tempat mengobrol tentang apa saja
+* [[MyQuran]]: forum agama Islam, tempat menuntut ilmu-ilmu keislaman.
+Contoh forum internasional:
+* [[Gaia Online]]: forum terbesar di Internet, dengan lebih dari sembilan juta pendaftar dan 1,1 miliar pesan
+* [[Psico FXP]]: forum teraktif di Internet, dengan lebih dari 230.000 individu yang berkunjung tiap hari.
+* [[Forum Auto]]: forum berbahasa Perancis yang juga sangat aktif
+
+== Jurnal berbasis web ==
+Jurnal web / internet ([[bahasa Inggris]]:''weblog'', ''blog'' atau ''online journal'') merupakan tempat siapa saja untuk menulis apa saja. [[Livejournal]], [[Blogger]], serta [[Wordpress]] adalah situs-situs terbesar yang memiliki jutaan pengguna yang menuliskan catatan harian mereka setiap hari, bahkan beberapa kali sehari. Situs-situs ini adalah tempat untuk mengatakan apa saja yang ingin mereka katakan yang biasanya tidak tersalurkan lewat jalur-jalur lain.
+
+== Permainan komputer internet ==
+Permainan komputer internet telah menggaet puluhan juta orang untuk bermain komputer di dunia maya secara terus-menerus. Permainan semacam [[World of Warcraft]], [[Gunbound]] memerlukan pemain untuk membeli atau mengunduh terlebih dahulu piranti lunaknya, lalu memasangnya ke komputer. Jenis permainan yang lain dapat langsung dimainkan melalui penjelajah internet; permainan semacam [[Utopia]], [[Travian]], dan [[Duels]] telah menarik minat banyak orang karena mereka tidak wajib membayar atau memenuhi komputer mereka untuk memainkannya. [[Newgrounds]] dan [[RuneScape]] walaupun dapat dikategorikan ke kelompok yang terakhir, namun sebenarnya terjadi proses muat turun ke komputer penggunanya.
+
+== Video Internet ==
+[[YouTube]], [[Metacafe]], dan [[Google Video]] adalah dua dari banyak situs serupa yang memampukan para penggunanya memuat naikkan video buatan mereka sendiri yang dapat disaksikan hingga jutaan penonton. Situs semacam ini telah menarik puluhan juta pemakai yang pada akhirnya membuat komunitas mereka sendiri. Pada tahun [[2007]] situs [[YouTube]] juga bekerja sama dengan jaringan televisi [[Amerika Serikat]] [[CNN]] dalam menyajikan debat bakal calon presiden Amerika Serikat di mana para rakyat biasa dapat mengajukan pertanyaan kepada bakal calon presiden untuk dijawab di hadapan jutaan pemirsa televisi.
+
+== Foto dan seni gambar ==
+[[DeviantArt]], [[Flickr]], dan [[Worth 1000]] adalah contoh situs yang mempunyai jutaan pengguna di seluruh dunia yang memiliki kegemaran yang sama, yaitu menciptakan seni gambar, baik lewat fotografi, seni lukis, maupun menggunakan piranti lunak komputer semacam [[Photoshop]], dan situs-situs ini menjadi tempat mereka berbagi, memamerkan hasil karya, dan melihat hasil karya orang lain.
+
+== Wiki ==
+[[Wikipedia]], [[Wikia]], [[Wikitravel]], serta banyak situs lainnya mulai menggunakan teknologi yang memungkinkan para penggunanya berkoordinasi untuk menulis isi suatu situs. Jika Anda membaca artikel ini, berarti Anda sedang mengunjungi komunitas maya yang dimaksud.
+
+== Situs-situs yang menampilkan situs-situs populer ==
+[[Slashdot]], [[Digg]], [[Del.icio.us]], dan [[Fark]] merupakan contoh situs-situs ini di mana mereka menyajikan tautan situs lain yang diusulkan oleh para penggunanya. Jika situs tersebut mendapat cukup banyak respon, maka akan ditampilkan di halaman depan situs tersebut dan lebih banyak orang lagi akan mengunjungi situs tersebut. Situs semacam ini dipandang sangat bermanfaat untuk memperkenalkan situs baru ke seluruh dunia, namun jika pemilik situs tidak siap, maka situs yang dimaksud akan terkena [[efek Slashdot]] yang membuat situs tersebut kewalahan menghadapi serbuan pengunjung dan mengakibatkan ''server'' situs tersebut mati.
+
+== Lain-lain ==
+Selain kategori-kategori di atas, banyak pula situs yang mengkhususkan di bidang tertentu yang menarik banyak pengguna. Contoh:
+* [[IMDB]]: situs yang mengkhususkan informasi menyeluruh tentang semua film yang pernah dibuat (saat ini baru film-film Amerika yang memiliki informasi lengkap, namun beberapa film Indonesia juga sudah mulai dimasukkan)
+* [[eBay]]: situs yang mengkhususkan lelang dan jual beli produk-produk apapun
+* [[Engadget]]:situs yang mengkhususkan informasi mengenai produk teknologi yang terbaru
+* [[Cute Overload]]:situs yang mengkhususkan gambar-gambar binatang lucu dari seluruh dunia
+
+== Pranala luar ==
+* {{en}} [http://www.shirky.com/writings/group_enemy.html "A Group Is Its Own Worst Enemy"] efek [[umpan balik negatif]] di komunitas maya
+* {{id}} [http://www.kompas.com/teknologi/news/0601/30/193230.htm "Komunitas Maya Memperluas Pergaulan"]hasil survei pengguna internet di AS
+
+[[Kategori:Komunitas maya|*]]
+[[Kategori:Situs web komunitas]]

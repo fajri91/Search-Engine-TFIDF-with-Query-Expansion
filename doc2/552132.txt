@@ -1,0 +1,50 @@
+Teknologi nano hijau
+'''Teknologi nano hijau''' ({{lang-en|green nanotechnology}}) merujuk kepada [[teknologi nano]] untuk meningkatkan kualitas keberlangsungan [[lingkungan]]. Teknologi nano hijau juga merujuk kepada penggunaan teknologi nano untuk membuat produk [[ramah lingkungan]] berbasis [[nano]] dan penggunaannya.
+
+Teknologi nano hijau telah didefinisikan sebagai pengembangan [[teknologi bersih]] untuk meminimalisasi potensi risiko kerusakan lingkungan dan gangguan kesehatan manusia terkait proses manufaktur dan penggunaan teknologi nano untuk mendorong digantikannya produk yang sudah ada dengan produk nano yang lebih ramah lingkungan sepanjang [[siklus produk|usia penggunaannya]].<ref>{{Cite web |url=http://www.nanotechproject.org/topics/green/ |title=Environment and Green Nano - Topics - Nanotechnology Project |accessdate=11 September 2011}}</ref>
+
+== Tujuan ==
+Teknologi nano hijau memiliki dua tujuan utama: memproduksi [[material nano]] tanpa merusak lingkungan dan kesehatan manusia, dan memproduksi produk nano untuk menyelesaikan [[masalah lingkungan]]. Teknologi ini memanfaatkan prinsip [[kimia hijau]] dan [[teknologi bersih|teknologi hijau]]<ref>[http://www.epa.gov/oppt/greenengineering/pubs/whats_ge.html What is Green Engineering], US Environmental Protection Agency</ref> untuk membuat material nano dan produk nano tanpa bahan beracun, menggunakan energi yang lebih sedikit, mengkonsumsi sumber daya yang dapat diperbarui jika memungkinkan, dan menggunakan pola pikir siklus (produksi-pakai-[[daur ulang]]) dalam segala tahap desain dan keteknikannya.
+
+Sebagai tambahan, untuk membuat material nano dan produk nano dengan dampak yang lebih sedikit bagi lingkungan, teknologi nano hijau juga berarti penggunaan teknologi nano untuk membuat proses manufaktur untuk material dan produk bukan nano dan diproduksi secara ramah lingkungan. Seperti contoh, [[membran sintetis]] berukuran nano mampu memisahkan hasil reaksi kimia dengan mudah sehingga produk bisa lebih bersih tanpa menggunakan banyak [[energi]] atau [[katalis]] konvensional yang berpotensi menambah [[limbah]], seperti pada proses kimia konvensional.
+
+Tujuan kedua dari teknologi nano hijau melibatkan pengembangan produk yang menguntungkan lingkungan secara langsung maupun tidak langsung. Material atau produk nano secara langsung mampi membersihkan [[limbah berbahaya]], melakukan [[desalinasi]], membersihkan [[polutan]], atau mendeteksi dan memantau tingkat polusi. Secara tidak langsung, [[nanokomposit]] yang ringan untuk otomotif berarti mengurangi energi dan penggunaan bahan bakar bagi kendaraan. Teknologi nano juga bisa digunakan untuk membuat [[fuel cell]] sehingga menghemat input dan menghasilkan energi lebih banyak; dan [[LED]] sehingga menghemat penggunaan [[listrik]]. ''Nano coating'' atau pelapis berskala nano, mampu membersihkan diri (''self cleaning'') sehingga mengurangi penggunaan bahan kimia pembersih.<ref>{{cite web|title=Sustainable Nano Coatings|url=http://www.nanoshell.co.uk/sustainable-protective-coatings|publisher=nanoShell Ltd|accessdate=3 January 2013}}</ref> Teknologi nano juga mampu meningkatkan daya tahan [[baterai]] dengan mengefisiensikan reaksi kimia di dalamnya sehingga lebih sedikit baterai yang akan dibuang.
+
+Teknologi nano hijau memperlebar potensi dan cara pandang penggunaan material nano sehingga konsekuensi produksi dan penggunaan material nano sepanjang siklus hidupnya bisa diantisipasi sebelum diproduksi secara luas.<ref>[http://www.nanotechproject.org/file_download/files/NanoLCA_3.07.pdf Nanotechnology and Life Cycle Assessment]</ref>
+
+== Aktivitas riset ==
+=== Sel surya ===
+Salah satu proyek besar yang sedang dikerjakan adalah [[sel surya]] berbasis teknologi nano. Sel surya akan menjadi lebih efisien, dalam hal energi yang dihasilkan per ukuran tebal atau per biaya produksi, jika mereka bisa dibuat lebih tipis. Teknologi nano pelapis (''coating nanotechnology'') untuk melapisi sel surya terkini juga mampu membuat sel surya tetap bersih sehingga bisa menyerap sinar matahari secara optimal sepanjang usia penggunaannya.<ref>{{cite web|title=Improved Performance Coatings|url=http://www.nanoshell.co.uk/solar-pv|publisher=nanoShell Ltd|accessdate=3 January 2013}}</ref>
+
+=== Pengolahan air ===
+Teknologi nano berpotensi tinggi untuk digunakan dalam teknologi pengolahan [[air permukaan]], [[air tanah]], hingga [[air limbah]]. Hal ini dikarenakan bahan nano mampu didesain untuk menyaring dalam skala nano sehingga air mampu lewat namun material berukuran besar seperti bakteri dan virus serta produknya ([[toksin]]) tidak bisa ([[permeabilitas selektif]]). Selain itu, katalis dan penyaring mampu didesain untuk menghasilkan kekuatan adsorpsi tinggi sehingga mampu menyerap ion logam berat.<ref name= CloeteTE>{{cite book|author= Cloete, TE et al (editor)|year=2010|title=Nanotechnology in Water Treatment Applications|publisher=[[Caister Academic Press]]|isbn= 978-1-904455-66-0}}</ref><ref name = Karn2009>{{Cite journal
+| issn = 0091-6765 | volume = 117 | issue = 12 | pages = 18231831 | last = Karn | first = Barbara |author2=Todd Kuiken |author3=Martha Otto | title = Nanotechnology and in Situ Remediation: A Review of the Benefits and Potential Risks | journal = Environmental Health Perspectives | accessdate = 2013-11-18 | date = 2009-12-01 | url = http://www.jstor.org/stable/30249860
+| jstor = 30249860}}</ref> Kemampuan ini juga bisa dipakai dalam menyaring gas buang.
+
+''Reverse osmosis'', ''nanofiltration'', dan membran nano adalah penerapan terkini teknologi nano dalam pengolahan air, dan teknologi lainya seperti ''nanofiber'', [[partikel nano]], dan [[biosida]] nano akan segera memasuki pasar.<ref>{{cite book|last=Hanft|first=Susan|title=Market Research Report Nanotechnology in water treatment|year=2011|publisher=BCC Research|location=Wellesley, MA USA|isbn=1596237090|page=16|url=http://www.bccresearch.com}}</ref><ref name=Botes>Critical Reviews in Microbiology, 2010; 36(1): 6881 "The potential of nanofibers and nanobiocides in water purification" Marelize Botes, and Thomas Eugene Cloete</ref> Teknologi nano dapat menangkap dan menyaring kontaminan berbahaya seperti bakteri, virus, dan logam berat karena besarnya luas permukaan dari partikel dan material nano yang dapat meningkatkan laju reaktivitas, penyerapan, dan pengendapan kontaminan secara signifikan.<ref>{{cite web|title=Nanotechnology in water treatment|url=http://www.nanotechwater.com|accessdate=3 November 2013}}</ref><ref>{{cite journal|last=Qu|first=Xiaolei|author2=Alvarez, Pedro J J |author3=Li, Qilin |title=Applications of nanotechnology in water and wastewater treatment|journal=Water research|year=2013|volume=47|issue=12|pages=393146|doi=10.1016/j.watres.2012.09.058|url=http://www.ncbi.nlm.nih.gov/pubmed/23571110|accessdate=21 September 2013|pmid=23571110}}</ref>
+
+==Lihat pula==
+*[[Kimia hijau]]
+*[[Teknologi bersih]]
+
+== Referensi ==
+{{reflist}}
+
+== Pranala luar ==
+*[http://www.nanowerk.com/spotlight/spotid=9386.php Evaluation of 'green' nanotechnology requires a full life cycle assessment]
+*[http://www.sciencedaily.com/releases/2007/12/071218105420.htm Nano Flakes May Revolutionize Solar Cells]
+*[http://greennano.org/ Safer Nanomaterials and Nanomanufacturing Initiative]
+*[http://www.cleantechlawandbusiness.com Clean Tech Law & Business]
+*[http://www.nanotechproject.org Project on Emerging Nanotechnologies]
+*[http://www.nanolabweb.com Nanotechnology Lab]
+*[http://www.nano.gov National Nanotechnology Initiative]
+*[http://nano.berkeley.edu/ The Berkeley Nanosciences and Nanoengineering Institute]
+*[http://epa.gov/ncer/nano/research/nano_green.html Nanotechnology: Green Manufacturing]
+*[http://www.nanotech-now.com Nanotechnology Now]
+*[http://sei.nnin.org/doc/resource/green%20nano.pdf Can nanotechnology be green?]
+
+{{teknologi}}
+
+[[Kategori:Lingkungan]]
+[[Kategori:Teknologi lingkungan]]
+[[Kategori:Teknologi nano]]

@@ -1,0 +1,21 @@
+Templat:Instrumen gamelan
+{{Navbox
+|name = Instrumen gamelan
+| listclass = hlist
+| title = Instrumen dan vokal yang digunakan pada [[gamelan]] [[Jawa]]
+|image = [[Berkas:Traditional indonesian instruments02.jpg|150px|border|Gamelan Jawa]]
+|style = width:650px;
+|group1 = Instrumen [[colotomik]]
+|list1 = [[Kempyang]]  [[Ketuk]]  [[Kempul]]  [[Kenong]]  [[Gong]]
+|group2 = Instrumen [[balungan]]
+|list2 = [[Saron panerus]]  [[Saron barung]]  [[Saron demung]]  [[Slenthem]]  [[Slentho]]
+|group3 = Instrumen [[panerusan]]
+|list3 = [[Bonang Barung|Bonang]]  [[Gendr]]  [[Gambang]]  [[Siter dan celempung|Siter]]  [[Siter dan celempung|Celempung]]  [[Suling]]  [[Rebab]]
+|group4 = Instrumen ''unpitched''
+|list4 = [[Kendang]]  [[Bedug]]  [[Kecer]]  [[Kemanak]]  [[Kepyak]]
+|group5 = Vokal dan tepukan
+|list5 = [[Gerong]]  [[Pesindhen]]  [[Alok]]  [[Alok|Senggakan]]  [[Keplok]]
+}}<noinclude>
+[[Kategori:Templat instrumen musik|{{PAGENAME}}]]
+[[Kategori:Templat navigasi musik|{{PAGENAME}}]]
+</noinclude>

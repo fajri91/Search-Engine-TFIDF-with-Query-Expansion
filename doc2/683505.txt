@@ -1,0 +1,47 @@
+Tuna sirip hitam
+{{Taxobox
+| name = Tuna sirip hitam
+| status = LC| status_system = IUCN3.1
+| status_ref = <ref name=IUCN>{{IUCN2011.2 |assessors=Collette, B., Amorim, A.F., Boustany, A., Carpenter, K.E., Dooley, J., de Oliveira Leite Jr., N., Fox, W., Fredou, F.L., Fritzsche, R., Graves, J., Viera Hazin, F.H., Juan Jorda, M., Kada, O., Minte Vera, C., Miyabe, N., Nelson, J., Nelson, R., Oxenford, H., Teixeira Lessa, R.P. & Pires Ferreira Travassos, P.E. |year=2011 |id=155276 |title=Thunnus atlanticus|downloaded=13 January 2012}}</ref>
+| trend = 
+| image = Blackfin tuna, Duane Raver Jr.jpg
+| image_width = 250px
+| regnum = [[Animalia]]
+| phylum = [[Chordate|Chordata]]
+| classis = [[Actinopterygii]]
+| ordo = [[Perciformes]]
+| familia = [[Skombride]]
+| subfamilia = [[Scombrinae]]
+| tribe = [[Thunnini]]
+| genus = ''[[Thunnus]]''
+| subgenus = ''[[Neothunnus]]''
+| species = '' [[Thunnus atlanticus]]''
+| taxon = Thunnus atlanticus
+| binomial_authority = [[Ren-Primevre Lesson|Lesson]], 1831
+| range_map = 
+| range_map_caption=
+| synonyms=
+| synonyms_ref = 
+}}
+
+'''Tuna sirip hitam''' (''Thunnus atlanticus'') adalah spesies ikan [[tuna]] terkecil dalam genus ''[[Thunnus]]'', secara umum dapat tumbuh hingga mencapai ukuran maksimum panjang {{convert|100|cm|in}} dan berat {{convert|21|kg|lbs}}. Tuna sirip hitam memiliki bentuk tubuh oval, punggung berwarna hitam, dengan sedikit rona kuning pada ''finlet'' (barisan sirip-sirip kecil tajam dekat ekor), serta rona kuning pada sisi tubuhnya. Tuna sirip hitam hanya dapat ditemukan di [[Samudra Atlantik]] bagian barat, dari Tanjung Cop hingga ke pesisir Brasil. 
+
+Tuna sirip hitam berburu ikan dan cumi-cumi baik di lingkungan [[pelagik|epipelagik]] (permukaan) ataupun [[pelagik|mesopelagik]]. Mangsanya termasuk golongan [[krustasea]] seperti udang, kepiting, [[amfipoda]], [[stomatopoda]], dan larva [[dekapoda]].<ref>{{FishBase species| genus=Thunnus | species=atlanticus | year=2012 | month=November }}</ref> Ikan ini adalah spesies yang berumur pendek, dan cepat tumbuh; tuna sirip hitam berumur 5 tahun dapat dianggap tua. Ikan ini mencapai kematangan seksual pada usia dua tahun, dan bertelur di lautan terbuka pada musim panas. Tuna sirip hitam adalah ikan yang menyukai iklim air laut yang hangat, mereka menyukai suhu air 68F (20C). Walaupun ikan ini berukuran kecil, mereka menebus kekurangan ini dengan berburu berkelompok dan gemar menggigit mangsa. 
+
+==Referensi==
+{{reflist|33em}}
+
+==Bacaan lebih lanjut==
+* [http://www.fishwatch.gov/seafood_profiles/species/tuna/species_pages/atl_albacore_tuna.htm Tuna albakora Atlantik Utara] ''NOAA FishWatch''. Retrieved 5 November 2012.
+* [http://www.fishwatch.gov/seafood_profiles/species/tuna/species_pages/pacific_albacore_tuna.htm Tuna albakora Pasifik] ''NOAA FishWatch''. Retrieved 5 November 2012.
+
+==Pranala luar==
+{{commons|Thunnus atlanticus}}
+{{wikispecies|Thunnus atlanticus}}
+*[http://www.fishbase.org/Summary/SpeciesSummary.cfm?genusname=Thunnus&speciesname=atlanticus FishBase info for black tuna]
+*[http://www.thejump.net/fishlist/blackfin-tuna.htm Blackfin Tuna Identification]
+*[http://www.eol.org/pages/223944 Encyclopedia of Life Info for Thunnus atlanticus]
+
+[[Kategori:Ikan komersial]]
+[[Kategori:Thunnus]]
+[[Kategori:Hewan dideskripsikan pada 1831]]

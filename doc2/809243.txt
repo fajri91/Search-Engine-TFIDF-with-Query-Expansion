@@ -1,0 +1,24 @@
+Berkas:The Star Maker FilmPoster.jpeg
+{{dari|en}}
+{{Non-free_use_rationale_poster
+	        |Article           = The Star Maker
+	        |Use               = Infobox
+	        <!-- ADDITIONAL INFORMATION -->
+	        |Name              = The Star Maker
+	        |Distributor       = 
+	        |Publisher         =
+	        |Type              =
+	        |Website           =
+	        |Owner             =
+	        |Commentary        =
+	        <!--OVERRIDE FIELDS -->
+	        |Description       =
+	        |Source            = The cover art can be obtained from [http://www.movieposterdb.com/poster/d323cccd Movieposterdb.com].
+	        |Portion           =
+	        |Low_resolution    =
+	        |Purpose           = <!-- Must be specified if Use is not Infobox / Header / Section / Artist -->
+	        |Replaceability    =
+	        |other_information =
+	        }}
+== Lisensi ==
+{{Non-free poster}}

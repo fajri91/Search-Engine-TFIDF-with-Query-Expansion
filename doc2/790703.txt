@@ -1,0 +1,12 @@
+Kategori:Artikel spesies
+{{daritemplat|taxobox}}
+{{ArtikelSpesies}}
+{{Kategori pemeliharaan
+ | toc     = none
+ | type    = Artikel spesies
+ | year    = 2015
+ | monthno = 
+ | cat     = Artikel spesies
+ | hidden  = y
+ | message = 
+}}

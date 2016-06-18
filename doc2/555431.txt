@@ -1,0 +1,25 @@
+Acarnus tener
+{{Taxobox |name = Acarnus tener
+|regnum = [[Hewan|Animalia]]
+|subregnum = [[Parazoa]]
+|phylum = [[Porifera]]
+|classis = [[Demospongiae]]
+|ordo = [[Poecilosclerida]]
+|familia = [[Acarnidae]]
+|genus = [[Acarnus]]
+|species = Acarnus tener
+|binomial_authority =Tanita, 1963
+}}
+'''''Acarnus tener''''' adalah [[spesies]] [[spons]] yang tergolong dalam kelas [[Demospongiae]]. Spesies ini juga merupakan bagian dari genus [[Acarnus]] dan [[familia]] [[Acarnidae]]. Nama ilmiah spesies ini pertama kali diterbitkan pada tahun 1963 oleh Tanita.
+
+Seperti spons pada umumnya, spesies ini memiliki tubuh yang berpori dan permukaan yang keras seperti [[batu]]. Selain itu, Acarnus tener juga dapat menyerap [[oksigen]] dari [[air]] melalui proses [[difusi]].
+
+== Referensi ==
+
+* ''WoRMS Porifera: World Porifera Database''. Soest R. van (ed), 22 Oktober 2008.
+
+{{DEFAULTSORT:Acarnus tener}}
+
+[[Kategori:Demospongiae]]
+
+{{porifera-stub}}

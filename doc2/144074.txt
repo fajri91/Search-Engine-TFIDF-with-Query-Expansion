@@ -1,0 +1,31 @@
+Templat:Chembox Hazards
+<includeonly>{{#if:{{{ExternalMSDS|}}}{{{EUClass|}}}{{{LD50|}}}{{{EUIndex|}}}{{{MainHazards|}}}{{{NFPA-H|}}}{{{NFPA-F|}}}{{{NFPA-R|}}}{{{NFPA-O|}}}{{{RPhrases|}}}{{{SPhrases|}}}{{{RSPhrases|}}}{{{FlashPt|}}}{{{Autoignition|}}}{{{ExploLimits|}}}{{{PEL|}}}{{{RTECS|}}}{{{InhalationHazard|}}}{{{IngestionHazard|}}}{{{SkinHazard|}}}{{{EyeHazard|}}}|! {{Chembox header}} {{!}} Bahaya
+{{#ifexist:{{PAGENAME}} (data page)|
+{{!}}-
+{{!}} [[Material safety data sheet|MSDS]]
+{{!}} [[{{PAGENAME}} (data page)#Material Safety Data Sheet|External MSDS]]
+}}
+{{!}}-
+{{Chembox entry|par_name={{#if:{{{ExternalMSDS|}}}|ExternalMSDS }} |par_value={{#if:{{{ExternalMSDS|}}}|{{{ExternalMSDS}}} }} }}
+{{Chembox entry|par_name={{#if:{{{EUClass|}}}|EUClass }} |par_value={{#if:{{{EUClass|}}}|{{{EUClass}}} }} }}
+{{Chembox entry|par_name={{#if:{{{EUIndex|}}}|EUIndex }} |par_value={{#if:{{{EUIndex|}}}|{{{EUIndex}}} }} }}
+{{Chembox entry|par_name={{#if:{{{MainHazards|}}}|MainHazards }} |par_value={{#if:{{{MainHazards|}}}|{{{MainHazards}}} }} }}
+{{Chembox entry|par_name={{#if:{{{IngestionHazard|}}}|IngestionHazard }} |par_value={{#if:{{{IngestionHazard|}}}|{{{IngestionHazard}}} }} }}
+{{Chembox entry|par_name={{#if:{{{InhalationHazard|}}}|InhalationHazard }} |par_value={{#if:{{{InhalationHazard|}}}|{{{InhalationHazard}}} }} }}
+{{Chembox entry|par_name={{#if:{{{EyeHazard|}}}|EyeHazard }} |par_value={{#if:{{{EyeHazard|}}}|{{{EyeHazard}}} }} }}
+{{Chembox entry|par_name={{#if:{{{SkinHazard|}}}|SkinHazard }} |par_value={{#if:{{{SkinHazard|}}}|{{{SkinHazard}}} }} }}
+{{#if:{{{NFPA-H|}}}{{{NFPA-F|}}}{{{NFPA-R|}}}{{{NFPA-O|}}}|{{Chembox NFPA|par_H={{#ifeq:{{{NFPA-H}}}||0|{{{NFPA-H}}}}}|par_F={{#ifeq:{{{NFPA-F}}}||0|{{{NFPA-F}}}}}|par_R={{#ifeq:{{{NFPA-R}}}||0|{{{NFPA-R}}}}}|par_O={{{NFPA-O|}}} }} }}
+{{Chembox entry|par_name={{#if:{{{RPhrases|}}}|RPhrases }} |par_value={{#if:{{{RPhrases|}}}|{{{RPhrases}}} }} }}
+{{Chembox entry|par_name={{#if:{{{SPhrases|}}}|SPhrases }} |par_value={{#if:{{{SPhrases|}}}|{{{SPhrases}}} }} }}
+{{Chembox entry|par_name={{#if:{{{RSPhrases|}}}|RSPhrases }} |par_value={{#if:{{{RSPhrases|}}}|{{{RSPhrases}}} }} }}
+{{Chembox entry|par_name={{#if:{{{FlashPt|}}}|FlashPt }} |par_value={{#if:{{{FlashPt|}}}|{{{FlashPt}}} }} }}
+{{Chembox entry|par_name={{#if:{{{Autoignition|}}}|Autoignition }} |par_value={{#if:{{{Autoignition|}}}|{{{Autoignition}}} }} }}
+{{Chembox entry|par_name={{#if:{{{ExploLimits|}}}|ExploLimits }} |par_value={{#if:{{{ExploLimits|}}}|{{{ExploLimits}}} }} }}
+{{Chembox entry|par_name={{#if:{{{PEL|}}}|PEL }} |par_value={{#if:{{{PEL|}}}|{{{PEL}}} }} }}
+{{Chembox entry|par_name={{#if:{{{LD50|}}}|LD50 }} |par_value={{#if:{{{LD50|}}}|{{{LD50}}} }} }}
+{{Chembox entry|par_name={{#if:{{{LC50|}}}|LC50 }} |par_value={{#if:{{{LC50|}}}|{{{LC50}}} }} }}
+{{Chembox entry|par_name={{#if:{{{LDLo|}}}|LDLo }} |par_value={{#if:{{{LDLo|}}}|{{{LDLo}}} }} }}
+{{Chembox entry|par_name={{#if:{{{RTECS|}}}|RTECS }} |par_value={{#if:{{{RTECS|}}}|{{{RTECS}}} }} }} }}</includeonly><noinclude>{{esoteric}}
+{{DEFAULTSORT:*08}}
+[[Kategori:Templat kimia]]
+</noinclude>

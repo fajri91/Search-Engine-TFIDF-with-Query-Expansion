@@ -1,0 +1,177 @@
+Templat:Kotak samping MarxismeLeninisme
+{{Sidebar with collapsible lists
+| name = Kotak samping MarxismeLeninisme
+| pretitle = Bagian dari [[:Category:Komunisme|seri]]
+| titlestyle = background:#CC0000;padding-bottom:0;font-size:160%<!--no larger, please, otherwise template's overall width compromised-->;font-weight:medium;color:white;
+| title = [[MarxismeLeninisme|{{color|white|Marxisme&ndash;Leninisme}}]]
+| imagestyle = padding:0.4em 0 0.4em;
+| image = [[File:Marx Engels Lenin.svg|150px|Marx, Engels and Lenin, the founders of Marxism-Leninism.]]
+| headingstyle = background:#CC0000;color:white;padding-top:0;
+| listtitlestyle = background:#CC0000;color:white;padding-top:0.1em;padding-left:0.4em;
+| expanded = {{{expanded|{{{1|}}}}}}
+
+| list1name = Inti
+| list1title = Inti
+| list1 = <div class="plainlist">
+* [[Anti-imperialisme]]
+* [[Perencanaan ekonomi]]
+* [[Pengatur ekonomi tertinggi]]
+* [[Negara komunis]]
+* [[Komunis|Masyarakat komunis]]
+* [[Sentralisme demokratik]]
+* [[Ateisme MarxisLeninis]]
+* [[Internasionalisme proletariat]]
+* [[Negara partai tunggal]]
+* [[Patriotisme sosialis]]
+* [[Negara sosialis]]
+* [[Teori gerakan produktif]]
+* [[Vanguardisme]]
+</div>
+
+| list2name = varian
+| list2title = Varian
+| list2 = {{sidebar|navbar=off
+| bodyclass = plainlist
+| bodystyle = line-height:1.25em; {{subsidebar bodystyle}}
+| heading1 = [[Leninisme]]
+| content1 =
+* [[Demokrasi Soviet]]
+* [[Vanguardisme]]
+* [[Kapitalisme negara]]
+* [[Kebijakan Ekonomi Baru]]
+| heading2 = [[Stalinisme]]
+| content2 =
+* [[Akumulasi sosialis primitif]]
+* [[Sosialisme di satu negara]]
+* [[Anti-revisionisme]]
+* [[Kultus kepribadian]]
+* [[Ekonomi terencana]]
+| heading3 = [[Maoisme]]
+| content3 =
+* [[Demokrasi Baru]]
+* [[Revolusi Budaya]]
+* [[Tahap pertama sosialisme]]
+* [[Kediktatoran demokratik rakyat]]
+| heading4 = [[Khrushchevisme]]
+| content4 =
+* [[De-Stalinisasi]]
+* [[Eksistensi damai]]
+* [[Doktrin Brezhnev]]
+* [[Sosialisme sejati]]
+| heading5 = [[Teori Deng Xiaoping]]
+| content5 =
+* [[Ekonomi pasar sosialis]]
+* [[Sosialisme khas Cina]]
+* [[Reformasi ekonomi CIna]]
+}}
+
+
+| list3name = Ide
+| list3title = Ide
+| list3 =
+
+
+| list4name = Tokoh
+| list4title = Tokoh
+| list4 = <div class="hlist">
+* [[Joseph Stalin]]
+* [[Ernst Thlmann]]
+* [[Earl Browder]]
+* [[Gonchigiin Bumtsend]]
+* [[Mao Zedong]]
+* [[Jos Daz (politikus)|Jos Daz]]
+* [[Josip Broz Tito]]
+* [[Enver Hoxha]]
+* [[Palmiro Togliatti]]
+* [[Nikita Khrushchev]]
+* [[Fidel Castro]]
+* [[Che Guevara]]
+* [[Ho Chi Minh]]
+* [[Deng Xiaoping]]
+* [[Mathieu Krkou]]
+* [[Agostinho Neto]]
+* [[Samora Machel]]
+* [[Thomas Sankara]]
+* [[Alfonso Cano]]
+</div>
+
+
+| list5name = Buku
+| list5title = Buku
+| list5style = font-style:italic;
+| list5 = <div class="plainlist">
+* [[Wage Labour and Capital]]
+* [[Materialism and Empirio-criticism]]
+* [[Imperialism, the Highest Stage of Capitalism|Imperialism{{nbsp|2}}{{noitalic|{{small|(Lenin)}}}}]]
+* [[What Is to Be Done?]]
+* [[The State and Revolution]]
+* {{longlink|[[Dialectical and Historical Materialism|Dialectical and<br/>Historical Materialism]]}}
+* [[Guerrilla Warfare (buku)|Guerrilla Warfare]]
+* {{longlink|[[Fundamentals of MarxismLeninism|Fundamentals of<br/>MarxismLeninism]]}}
+</div>
+
+| list6name = Sejarah
+| list6title = Sejarah
+| list6 = <div class="hlist">
+<!--Chronological:-->
+* [[Revolusi Oktober|Revolusi Sosialis Oktober Besar]]
+* [[Uni Soviet]]
+* [[Komunis Internasional|Komintern]]
+* [[Republik Soviet Hongaria]]
+* [[Perang Saudara Spanyol]]
+* [[Perang Dunia II]]
+* [[Pakta Warsawa]]
+* [[Perang Saudara Yunani]]
+* [[Revolusi Komunis Cina|Revolusi Cina]]
+* [[Perang Korea]]
+* [[Revolusi Kuba]]
+* [[De-Stalinisasi]]
+* [[Gerakan Non-Blok]]
+* [[Pembubaran Cina-Soviet]]
+* [[Perang Vietnam]]
+* [[Perang Kolonial Portugal]]
+* [[Revolusi Nikaragua]]
+* [[Perang Saudara Nepal]]
+* [[Pemberontakan NaxalitMaois]]
+</div>
+
+
+<!--
+| list7name = Daftar
+| list7title = Daftar
+| list7 = 
+*[[Daftar gerakan Marxis-Leninis]]
+ --->
+
+
+| list8name = Terkait
+| list8title = Terkait
+| list8 = <div class="hlist">
+<!--Alphabetical:-->
+* [[Bolshevik|Bolshevisme]]
+* [[Leninisme]]
+* [[Maoisme]]
+* [[Marxisme]]
+* [[Stalinisme]]
+* [[Anti-revisionisme]]
+* [[Titoisme]]
+* [[Trotskyisme]]
+</div>
+
+
+| belowclass = plainlist
+| below =
+* [[Portal:Komunisme|Portal Komunisme]]
+* [[Portal:Sosialisme|Portal Sosialisme]]
+* {{nobold|[[Portal:Politik|Portal Politi]]}}
+
+}}<noinclude>
+k
+{{collapsible lists option
+ |listnames = "Inti", "Topik", <!--"Ideas", -->"Tokoh", "Buku", "Sejarah", <!--"Lists", -->"Terkait"
+ |example = Sejarah
+}}
+
+[[Category:Templat komunisme]]
+[[Category:Templat sosialisme]]
+</noinclude>

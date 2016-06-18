@@ -1,0 +1,95 @@
+Chatterbot
+'''Chatterbot''' (disebut juga '''chatbot''' atau '''bots''') adalah sebuah [[program komputer]] yang dirancang untuk menstimulasikan percakapan intelektual dengan satu atau lebih manusia baik secara [[audio]] maupun teks.
+
+Pada mulanya, program komputer (''bots'') ini diuji melalui Turing Test, yaitu dengan merahasiakan identitasnya sebagai [[mesin]] sehingga dapat mengelabui orang yang bercakap-cakap dengannya. Jika pengguna tidak dapat mengidentifikasi ''bots'' sebagai suatu program komputer, maka ''chatterbot'' tersebut dikategorikan sebagai [[kecerdasan buatan]] (atau ''artificial intelligence'').
+Dewasa ini, ''chatterbot'' telah dimanfaatkan untuk tujuan praktis seperti bantuan online, layanan personal, atau akuisisi informasi, dalam hal ini dapat dilihat fungsi program sebagai suatu jenis agen percakapan (atau ''conversational agent''). Yang membedakan ''chatterbot'' dengan sistem [[pemrosesan bahasa alami]] (atau ''Natural Language Processing System'') adalah kesederhanaan [[algoritma]] yang digunakan. 
+
+Meskipun banyak ''bots'' yang tampaknya dapat menginterpretasikan dan menanggapi [[input]] manusia, sebenarnya ''bots'' tersebut hanya memindai [[kata kunci]] dalam input dan membalasnya dengan kata kunci yang paling cocok, atau pola kata-kata yang paling mirip dari [[basis data]] tekstual.
+
+Istilah Chatterbot sendiri pertama kali dikemukakan oleh Michael Mauldin (pencipta verbot pertama, Julia) pada tahun 1994 untuk mendeskripsikan program percakapan ini.<ref>{{Harvnb|Mauldin|1994}}</ref>
+
+== Latar belakang ==
+Pada tahun 1950, [[Alan Turing]] mempublikasikan artikel terkenalnya ''Computing Machinery and Intelligence'',<ref>{{Harv|Turing|1950}}</ref> yang mengemukakan [[tes Turing]] sebagai suatu kriteria kecerdasan. Kriteria ini bergantung pada kemampuan program komputer untuk meniru manusia dalam suatu percakapan tertulis [[waktu nyata]] (''real-time'') dengan manusia sebagai penilai; apakah program komputer tersebut cukup baik sehingga manusia tidak dapat membedakan berdasarkan isi percakapannya saja- sedang berhadapan dengan program komputer atau manusia nyata. Pengujian ini terkait dengan minat Turing terhadap ELIZA, program yang dipublikasikan oleh Joseph Weizenbaum pada tahun 1966, yang dapat mengelabui pengguna hingga mempercayai bahwa mereka sedang bercakap-cakap dengan manusia nyata.
+
+Kunci metode operasional ELIZA (dicontoh oleh perancang ''chatterbot'' hingga kini) melibatkan rekognisi dari [[isyarat]] kata-kata atau kalimat pada [[input]], dan output berupa tanggapan yang telah dipersiapkan atau diprogram, yang dapat meneruskan percakapan dengan suatu cara sehingga tampak bermakna (misalnya, menanggapi input yang mengandung kata ''MOTHER'' dengan ''TELL ME MORE ABOUT YOUR FAMILY''). Jadi terciptalah suatu ilusi pemahaman dimana pengolahan yang terlibat tidak sampai pada pemaknaan. ELIZA menunjukka ilusi tersebut yang entah bagaimana dinilai cerdas oleh manusia. Teknik kunci di sini  yang menjadi karakteristik program ''chatterbot'' dibandingkan dengan sistem pemrosesan bahasa alami yang serius adalah produksi respons yang cukup jelas namun tidak spesifik. Penekanan biasanya pada ketidakjelasan daripada menyampaikan [[informasi]] asli.
+
+Baru-baru ini, perancang [[antarmuka]] (atau ''interface'') telah menghargai kesiapan manusia dalam menafsirkan output [[komputer]] sebagai percakapan yang sebenarnya, bahkan ketika program sebenarnya didasarkan pada pencocokan pola sederhana. Hal ini dapat diberdayakan untuk tujuan yang bermanfaat. Banyak orang lebih memilih berkonsultasi pada program yang menyerupai manusia ini, dan hal ini memberikan ''chatterbot'' ruang untuk berkembang dalam fungsi-fungsi sistem interaktif dalam memberikan informasi pada pengguna selama informasinya bersifat langsung dan dapat dikategorikan. Misalnya, sistem bantuan online kini banyak menggunakan teknik ''chatterbot'' dalam mengidentifikasi area bantuan yang dibutuhkan pengguna, memberikan kesan ramah pada ''interface'' daripada sistem menu bantuan formal.
+
+''Bots'' yang nyata mendeskripsikan fenomena ini contohnya Depression 2.0, yaitu ''chatterbot'' dengan program komputer berdasar pada model-model teori [[ilmu psikologi]] yang dapat memberikan solusi masalah psikologis pada pengguna.
+
+== Pengembangan ==
+Sejarah klasik dari ''chatterbot'' awal adalah ELIZA (1966) dan PARRY (1972).<ref name="Gzeldere">{{Harvnb|GzeldereFranchi|1995}}</ref><ref name="comphis">{{Harvnb|Computer History Museum|2006}}</ref><ref>{{Harvnb|Sondheim|1997}}</ref><ref>{{Harvnb|Network Working Group|1973}}Transcript of a session between Parry and Eliza. (This is ''not'' the dialogue from the ICCC, which took place October 2426, 1972, whereas this session is from September 18, 1972.)</ref> Program yang baru-baru saja dikembangkan yaitu A.L.I.C.E, Jabberwacky dan D.U.D.E. Pada masanya, ELIZA dan PARRY digunakan untuk menstimulasi percakapan tertulis, namun banyak ''chatterbot'' kini mendukung fitur fungsional seperti permainan dan kemampuan pencarian website. Tahun 1984, sebuah buku berjudul ''The Policemans Beard is Half Constructed'' dipublikasikan. Buku ini diduga ditulis oleh sebuah ''chatterbot'' Racter walaupun program ini dirilis untuk tidak mampu melakukannya.<ref>[http://everything2.com/title/The+Policeman%2527s+Beard+is+Half+Constructed www.everything.com] 13 November 1999</ref>
+
+Salah satu penelitian penting di bidang kecerdasan buatan (AI) adalah pemrosesan bahasa alami (atau ''Natural Language Processing''). Biasanya, bidang AI lemah memberdayakan [[perangkat lunak]] (atau ''software'') khusus atau bahasa pemrograman yang dibuat secara spesifik dengan fungsi yang lebih sempit. Contohnya, A.L.I.C.E menggunakan bahasa pemrograman yang disebut sebagai AIML yang fungsinya spesifik yaitu sebagai agen percakapan, yang selanjutnya banyak diadopsi oleh pengembang ''Alicebots'' lain. Meskipun demikian, A.L.I.C.E masih murni berdasarkan teknik pencocokan pola tanpa kemampuan penalaran teknik yang sama yang digunakan ELIZA pada tahun 1966. Berbeda dengan AI kuat, yang membutuhkan cita rasa dan kemampuan penalaran logis.
+
+Jabberwacky mempelajari respons baru dan berbasis pada konteks interaksi pengguna waktu nyata (atau ''real-time''), bukan dengan digerakan basis data statis. Beberapa ''chatterbot'' terbaru juga mengkombinasikan pembelajaran waktu nyata dengan algoritma evolusioner yang mengoptimalkan kemampuan [[komunikasi]] berbasis percakapannya, dengan contoh populernya yaitu Kyle, pemenang Penghargaan Leodis AI 2009. Meskipun, saat ini belum ada tujuan umum percakapan kecerdasan buatan, dan beberapa pengembang perangkat lunak berfokus pada aspek praktis, pengambilan informasi (atau ''information retrieval'').
+
+== Asisten virtual di lingkungan komersial ==
+Sistem percakapan otomatis kini telah berkembang, dan perusahaan-perusahaan sudah menggunakan sitem-sistem tersebut untuk membantu [[call center]] memberikan panduan kontak. ''Chatterbot'' pun sudah dimplementasikan melalui [[jejaring sosial]], seperti [[twitter]] dan [[Windows Live Messenger]].
+
+[[Portal]] online populer seperti [[eBay]] dan [[PayPal]] juga menggunakan agen virtual multi bahasa untuk memudahkan penggunanya. Misalnya, PayPal menggunakan ''chatterbot'' Louise untuk menangani query dalam bahasa Inggris dan ''chatterbot'' Lea untuk [[query]] dalam bahasa Perancis. Dikembangkan oleh VirtuOz, kedua agen tersebut menangani 400.000 percakapan setiap bulan setelah difungsikan pada September 2008 di situs PayPal.
+
+== ''Chatterbot'' berbahaya ==
+''Chatterbot'' berbahaya sering digunakan untuk mengisi ruang [[chatting]] dengan [[spam]] dan [[iklan]], atau untuk menarik orang mengungkapkan informasi pribadi, seperti nomor rekening bank. Mereka biasanya ditemukan pada [[Yahoo Messenger]], Windows Live Messenger, [[AOL]] Instant Messenger dan protokol instan messaging lain. Ada pula sebuah laporan keberadaan ''chatterbot'' dengan iklan pribadi palsu pada website layanan kencan.<ref>
+{{cite web
+| url= http://drrobertepstein.com/downloads/FROM_RUSSIA_WITH_LOVE-Epstein-Sci_Am_Mind-Oct-Nov2007.pdf
+| title=From Russia With Love| format=PDF| accessdate=2007-12-09
+}}</ref>
+
+== Kompetisi ==
+[[Kompetisi]] berfokus pada Turing Test atau tujuan yang lebih spesifik. Dua kompetisi tahunannya antara lain, Loebner Prize dan The Chatterbox Challenge.
+
+== Lihat pula ==
+* [[Kecerdasan buatan]]
+* [[Robot]]
+
+== Kutipan ==
+{{reflist|2}}
+
+== Referensi ==
+*{{Citation
+ | author=Computer History Museum | title=Exhibits
+ | chapter=Internet History1970's | year=2006
+ | publisher=[[Computer History Museum]] | accessdate=2008-03-05
+ | url=http://www.computerhistory.org/internet_history/internet_history_70s.shtml
+}}
+*{{Citation
+ | url=http://www.stanford.edu/group/SHR/4-2/text/dialogues.html
+ | contribution=dialogues with colorful personalities of early ai
+ | last=Gzeldere | first=Gven |author-link=<!--Gven Gzeldere-->
+ | last2=Franchi | first2=Stefano | author2-link=<!--same-->
+ | title=Constructions of the Mind
+ | journal=Stanford Humanities Review | series=SEHR
+ | volume=4 | issue=2 | date=1995-07-24
+ | publisher=[[Universitas Stanford]] | accessdate=2008-03-05
+}}
+*{{Citation
+ | url=http://www.aaai.org/Library/AAAI/aaai94contents.php
+ | contribution=ChatterBots, TinyMuds, and the Turing Test: Entering the Loebner Prize Competition
+ | last=Mauldin | first=Michael | author-link=<!--same-->
+ | title=Proceedings of the Eleventh National Conference on Artificial Intelligence
+ | year=1994 | publisher=[[AAAI Press]] | accessdate=2008-03-05
+}} ([http://www.aaai.org/Library/AAAI/1994/aaai94-003.php abstrak])
+*{{Citation
+ | url=http://tools.ietf.org/html/rfc439
+ | title=RFC 439, PARRY Encounters the DOCTOR
+ | author=Network Working Group
+ | work=[[Internet Engineering Task Force]] | year=1973
+ | publisher=[[Internet Society]] | accessdate=2008-03-05
+}}
+*{{Citation
+ | url=http://www.nettime.org/Lists-Archives/nettime-l-9707/msg00059.html
+ | title=<nettime> Important Documents from the Early Internet (1972)
+ | last=Sondheim | first=Alan J | year=1997
+ | publisher=nettime.org | accessdate=2008-03-05
+}}
+*{{Citation
+ | last = Turing | first = Alan | author-link=Alan Turing | year=1950
+ | title = Computing Machinery and Intelligence
+ | journal = Mind | volume = 59 | pages = 43360 | doi=10.1093/mind/lix.236.433
+}}
+
+== Pranala luar ==
+*{{dmoz|Computers/Artificial_Intelligence/Natural_Language/Chatterbots|Chatterbots}}
+
+[[Kategori:Pemrograman komputer]]

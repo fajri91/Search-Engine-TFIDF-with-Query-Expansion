@@ -1,0 +1,37 @@
+Stasiun Metur
+{{infobox stasiun
+|image=Stasiun Metur 08-2015.jpg
+|caption=Stasiun Metur
+|name=Metur
+|prov=Sumatera Selatan
+|kabupaten=Ogan Komering Ulu
+|kecamatan kabupaten=Peninjauan
+|desa=Peninjauan
+|kodepos=32191
+|open=
+|close=
+|kode=MET
+|tinggi=+35 m
+|letak=km 278+877
+|line=<i>Melayani persilangan KA</i>
+|operator=[[Divisi Regional III Sumatera Selatan dan Lampung]]
+}}
+'''Stasiun Metur''' ('''MET''') adalah stasiun kereta api yang berada di [[Peninjauan, Peninjauan, Ogan Komering Ulu|Peninjauan]], [[Peninjauan, Ogan Komering Ulu|Peninjauan]], [[Ogan Komering Ulu]]. Stasiun ini mempunyai 2 jalur rel dengan jalur 2 merupakan sepur lurus. Stasiun Metur adalah stasiun yang terletak paling utara di Kabupaten Ogan Komering Ulu.
+
+<center>
+{|class=wikitable style=text-align:center
+|-
+!Stasiun sebelumnya:
+|rowspan=2|[[Jalur kereta api Panjang-Prabumulih]]
+!Stasiun berikutnya:
+|-
+|[[Stasiun Talangbaru]]
+|[[Stasiun Kotabaru]]
+|}
+</center>
+
+{{stasiun-stub}}
+{{coord|-3.790777|104.345000|display=title}}
+[[Kategori:Stasiun kereta api di Sumatera Selatan|Metur]]
+[[Kategori:Kabupaten Ogan Komering Ulu]]
+[[Kategori:Peninjauan, Ogan Komering Ulu]]

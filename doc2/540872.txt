@@ -1,0 +1,22 @@
+Berkas:V-VarenNagasaki.png
+{{Information
+|description    = == {{int:filedesc}} ==
+{{Information
+|description    = 
+|source         = {{dari|en}}
+|source         = (sumber)
+|date           = (tanggal)
+|location       = (tempat; opsional)
+|author         = (pembuat)
+|permission     = 
+|other_versions = 
+}}
+== {{int:license-header}} ==
+{{LogoOlahraga}}
+|source         = 
+|date           = 
+|location       = 
+|author         = 
+|permission     = 
+|other_versions = 
+}}

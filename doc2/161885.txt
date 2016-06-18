@@ -1,0 +1,18 @@
+Templat:Cimanggung, Sumedang
+{{Navigasi ID Desa |provinsi=Jawa Barat |dati2=Kabupaten |nama dati2=Sumedang
+|nama kecamatan=Cimanggung
+|d1=Cihanjuang
+|d2=Cikahuripan
+|d3=Cimanggung
+|d4=Mangunarga
+|d5=Pasirnanjung
+|d6=Sawahdadap
+|d7=Sindanggalih
+|d8=Sindangpakuon
+|d9=Sindulang
+|d10=Sukadana
+|d11=Tegalmanggung
+}}<noinclude>
+[[Kategori:Templat desa/kelurahan di Jawa Barat|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Sumedang|{{PAGENAME}}]]
+</noinclude>

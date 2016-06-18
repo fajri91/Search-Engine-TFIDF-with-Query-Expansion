@@ -1,0 +1,15 @@
+Berkas:Peter Withe.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+Foto Peter Withe http://www.vnn.vn
+
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Promophoto}}

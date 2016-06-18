@@ -1,0 +1,17 @@
+Templat:Pengguna Kaskus
+{{userbox
+|#1E90FF|DarkOrange|[[Berkas:Kaskus logo.png|50px|Logo Kaskus]]
+|<center>Pengguna ini adalah salah seorang '''''[[Kaskus|<font color="SteelBlue">Kaskuser</font>]]'''''{{#if:{{{1|}}}|<br /><span class=plainlinks>[http://www.kaskus.co.id/profile/{{{1}}}'''Cek UserID ane gan!!''']</span>|}}
+|logo-background=#1E90FF
+|info-color=White
+|info-class=userboxdark
+|category        = Pengguna Kaskus
+|nocat           = {{{nocat|}}}
+}}<noinclude>
+<br clear=all>
+----
+* '''Format penggunaan''' : <nowiki>{{Pengguna Kaskus|Nomor UserID anda di Kaskus}}, contoh : {{Pengguna Kaskus|1234567890}}</nowiki>
+
+{{userboxes|Pengguna Kaskus}}
+[[Kategori:Templat kotak pengguna komputer|Kaskus]]
+</noinclude>

@@ -1,0 +1,7 @@
+Templat:Baris terjemahan
+|- valign="top"
+| {{{1}}} || {{{2}}} || {{{3|}}} || {{{4|}}}<noinclude>
+=== Keterangan ===
+
+Digunakan di [[Wikipedia:Terjemahan]].
+[[Kategori:Templat sekali pakai]]</noinclude>

@@ -1,0 +1,5788 @@
+Daftar penerima Nobel menurut afiliasi universitas
+Berikut ini adalah '''daftar penerima Nobel menurut afiliasi universitas''', yang menunjukkan afiliasi [[universitas]] (baik sebagai mahasiswa, alumni, peneliti, atau pengajar) para penerima [[Hadiah Nobel]]. Universitas-universitas di bawah diurutkan menurut jumlah afiliasinya yang menerima Hadiah Nobel, dimulai dari yang tertinggi hingga terendah.
+
+Setiap universitas mempraktikkan metode berbeda untuk menghitung afiliasinya yang menerima Nobel, mulai dari penghitungan sederhana hingga penghitungan konservatif. Penghitungan tidak resmi di bawah ini memuat jumlah nama berbeda dari setiap universitas. Kebanyakan universitas menggunakan penghitungan sendiri dengan metodologi yang beragam.<ref name=latimes2000-10-19>{{cite news|url=http://articles.latimes.com/2000/oct/19/business/fi-38718|work=Los Angeles Times|title=Nobel Prize Inflation Hits University of Chicago|accessdate=2011-07-04|first=Jerry|last=Hirsch|date=2000-10-19}}</ref> Pada daftar di bawah ini, penghitungan resmi adalah penghitungan yang dilakukan oleh universitas itu sendiri. Karena setiap universitas memiliki daftar sendiri dengan standar berbeda, daftar ini menggunakan definisi luas untuk menghitung penerima Nobel menurut afiliasi universitas, termasuk tokoh-tokoh yang terkait dengan universitas tersebut selama satu tahun terakhir.
+
+Bukanlah hal mudah untuk menentukan penerima Nobel menurut afiliasi universitas. Banyak penerima Nobel yang meraih gelar sarjana dan master di satu universitas, kemudian pindah ke universitas berbeda untuk meraih gelar [[doktor]]. Beberapa penerima Nobel juga pernah mengajar atau melakukan penelitian di lebih dari satu universitas. Sebagian nama-nama yang tercantum dalam daftar di bawah ini adalah lulusan, peneliti, atau staf akademik di lebih dari satu universitas.
+
+Afiliasi [[Universitas London]] dihitung menurut masing-masing [[kolese]] konstituen, bukannya dihitung secara keseluruhan. Universitas London dan [[Imperial College London]] (yang berpisah pada tahun 2007) sama-sama memiliki 74 afiliasi penerima Nobel secara keseluruhan (termasuk 7 penerima Nobel yang berafiliasi dengan  [[University of London International Programmes]]). Afiliasi [[Universitas California]] juga dihitung secara individual menurut masing-masing kampus. 
+
+Daftar afiliasi universitas para penerima Nobel juga disusun oleh [[Nobel Foundation]], yang menentukan afiliasi universitas penerima Nobel pada saat penganugerahan.<ref>{{cite web|url=http://nobelprize.org/nobel_prizes/lists/universities.html|title=Nobel Laureates and Universities|publisher=nobelprize.org}}</ref> Hingga tahun 2013, tiga universitas dengan afiliasi penerima Nobel terbanyak adalah [[Universitas Harvard]] sebanyak 151 orang, [[Universitas Columbia]] 101 orang, dan [[Universitas Cambridge]] 90 orang.
+
+Legenda: {{Nobel abbr|Fis}} Fisika, {{Nobel abbr|Kim}} Kimia, {{Nobel abbr|FK}} Fisiologi atau Kedokteran, {{Nobel abbr|Sas}} Sastra, {{Nobel abbr|Pe}} Perdamaian, {{Nobel abbr|Eko}} Ekonomi.
+
+=={{flagicon|USA}} Universitas Harvard==
+
+{| class='wikitable'
+|-
+!Afiliasi <ref group=Catatan name=Afiliasi/>
+!Alumni <ref group=Catatan name=Alumnis/>
+!Peneliti atau Mahasiswa<ref group=Catatan name=attendeesresearch/>
+!Staf akademik sebelum atau pada saat penghargaan <ref group=Catatan name=staff1/>
+!Staf akademik setelah penghargaan <ref group=Catatan name=staff2/>
+|-
+|colspan="5"|Afiliasi [[Universitas Harvard]] penerima Nobel meliputi orang-orang yang secara resmi berafiliasi sebagaimana yang ditentukan oleh Nobel Foundation.
+
+|-valign="top"
+|151 (resmi 47)<ref name=harvard>{{cite web | url =http://news.harvard.edu/guide/content/nobel-laureates| title = Harvard Nobel Laureates | accessdate = 2013-12-16}}</ref>
+
+<!--
+As of July 2012, http://www.harvard.edu/about/glance.php says "44 current and former faculty members"
+As of July 2012, this article lists 42 Academic Staff,  13 Attendee or Researcher, 56 Alumnis
+Some persons are listed in multiple categories (e.g., Alumni and also Academic Staff)
+See the section headed "Harvard" on the talk page for more on this.
+As of June 2013 there were 131 unique names listed, but Harvard doesn't use this number.
+-->
+|
+#{{Nobel abbr|Fis}} [[Adam Riess]]
+#{{Nobel abbr|Fis}} [[Ben Roy Mottelson]]
+#{{Nobel abbr|Fis}} [[Brian Schmidt]]
+#{{Nobel abbr|Fis}} [[David J. Wineland]]
+#{{Nobel abbr|Fis}} [[Edward M. Purcell]]
+#{{Nobel abbr|Fis}} [[John H. van Vleck]]
+#{{Nobel abbr|Fis}} [[Joseph H. Taylor]]<ref>{{cite web | url=http://www.nobelprize.org/nobel_prizes/physics/laureates/1993/taylor-bio.html | title=Nobel Prize Autobiography Joseph H Taylor Jr}}</ref>
+#{{Nobel abbr|Fis}} [[Kenneth G. Wilson]]
+#{{Nobel abbr|Fis}} [[Percy W. Bridgman]]
+#{{Nobel abbr|Fis}} [[Philip W. Anderson]]
+#{{Nobel abbr|Fis}} [[Roy Glauber]]
+#{{Nobel abbr|Fis}} [[Saul Perlmutter]]
+#{{Nobel abbr|Fis}} [[Sheldon Glashow]]
+#{{Nobel abbr|Kim}} [[Christian Anfinsen]]
+#{{Nobel abbr|Kim}} [[David M. Lee]]
+#{{Nobel abbr|Kim}} [[Donald Cram]]
+#{{Nobel abbr|Kim}} [[Dudley R. Herschbach]]
+#{{Nobel abbr|Kim}} [[Edward A. Doisy]]
+#{{Nobel abbr|Kim}} [[James B. Sumner]]
+#{{Nobel abbr|Kim}} [[Jerome Karle]]
+#{{Nobel abbr|Kim}} [[Martin Chalfie]]
+#{{Nobel abbr|Kim}} [[Roald Hoffman]]
+#{{Nobel abbr|Kim}} [[Roger D. Kornberg]]
+#{{Nobel abbr|Kim}} [[Theodore W. Richards]]
+#{{Nobel abbr|Kim}} [[Thomas A. Steitz]]
+#{{Nobel abbr|Kim}} [[Walter Gilbert]]
+#{{Nobel abbr|Kim}} [[Walter Kohn]]
+#{{Nobel abbr|Kim}} [[William H. Stein]]
+#{{Nobel abbr|Kim}} [[William S. Knowles]]
+#{{Nobel abbr|Kim}} [[Martin Karplus]]
+#{{Nobel abbr|FK}} [[Craig C. Mello]]
+#{{Nobel abbr|FK}} [[D. Carleton Gajdusek]]
+#{{Nobel abbr|FK}} [[E. Donnall Thomas]]
+#{{Nobel abbr|FK}} [[Eric Kandel]]
+#{{Nobel abbr|FK}} [[Frederick Chapman Robbins]]
+#{{Nobel abbr|FK}} [[George H. Hitchings]]
+#{{Nobel abbr|FK}} [[George Minot]]
+#{{Nobel abbr|FK}} [[H. Robert Horvitz]]
+#{{Nobel abbr|FK}} [[Harold E. Varmus]]
+#{{Nobel abbr|FK}} [[J. Michael Bishop]]
+#{{Nobel abbr|FK}} [[James Rothman]]
+#{{Nobel abbr|FK}} [[John F. Enders]]
+#{{Nobel abbr|FK}} [[Joseph E. Murray]]
+#{{Nobel abbr|FK}} [[Mario Capecchi]]
+#{{Nobel abbr|FK}} [[Ralph M. Steinman]]
+#{{Nobel abbr|FK}} [[Roger Y. Tsien]]
+#{{Nobel abbr|FK}} [[Thomas H. Weller]]
+#{{Nobel abbr|FK}} [[William P. Murphy]]
+#{{Nobel abbr|Eko}} [[A. Michael Spence]]
+#{{Nobel abbr|Eko}} [[Bertil Ohlin]]
+#{{Nobel abbr|Eko}} [[Christopher Sims]]
+#{{Nobel abbr|Eko}} [[Eric Maskin]]
+#{{Nobel abbr|Eko}} [[James Tobin]]
+#{{Nobel abbr|Eko}} [[Lloyd Shapley]]
+#{{Nobel abbr|Eko}} [[Merton H. Miller]]
+#{{Nobel abbr|Eko}} [[Paul A. Samuelson]]
+#{{Nobel abbr|Eko}} [[Robert M. Solow]]
+#{{Nobel abbr|Eko}} [[Roger Myerson]]
+#{{Nobel abbr|Eko}} [[Thomas J. Sargent]]
+#{{Nobel abbr|Eko}} [[Thomas Schelling]]
+#{{Nobel abbr|Eko}} [[Vernon L. Smith]]
+#{{Nobel abbr|Pe}} [[Al Gore]]
+#{{Nobel abbr|Pe}} [[Barack Obama]]
+#{{Nobel abbr|Pe}} [[David A. Morse]]
+#{{Nobel abbr|Pe}} [[Ellen Johnson Sirleaf]]
+#{{Nobel abbr|Pe}} [[Henry Kissinger]]
+#{{Nobel abbr|Pe}} [[Ralph Bunche]]
+#{{Nobel abbr|Pe}} [[Theodore Roosevelt]]
+#{{Nobel abbr|Sas}} [[T. S. Eliot]]
+|
+#{{Nobel abbr|Fis}} [[Felix Bloch]]
+#{{Nobel abbr|Kim}} [[Jean-Marie Lehn]]
+#{{Nobel abbr|Kim}} [[Ryoji Noyori]]
+#{{Nobel abbr|Kim}} [[Yuan T. Lee]]
+#{{Nobel abbr|Kim}} [[Arieh Warshel]]
+#{{Nobel abbr|FK}} [[Bengt I. Samuelsson]]<ref>{{cite web | url=http://www.nobelprize.org/nobel_prizes/medicine/laureates/1982/samuelsson-autobio.html | title=Nobel Prize Autobiography Bengt I. Samuelsson}}</ref>
+#{{Nobel abbr|FK}} [[Elizabeth Blackburn]]
+#{{Nobel abbr|FK}} [[Georg von Bksy]]
+#{{Nobel abbr|FK}} [[George H. Hitchings]]
+#{{Nobel abbr|FK}} [[Jean Dausset]]
+#{{Nobel abbr|FK}} [[Richard J. Roberts]]
+#{{Nobel abbr|FK}} [[Robert Lefkowitz]]<ref>{{cite web|title=The early days of discovery|url=http://news.harvard.edu/gazette/story/2012/10/the-early-days-of-discovery/|publisher=Harvard Magazine|accessdate=12 October 2012}}</ref>
+#{{Nobel abbr|FK}} [[Thomas C. Sdhof]]<ref name=Sudhof>{{cite web|title=Sudhof CV|url=http://neuroscience.stanford.edu/images/Sudhof-cv2009.pdf}}</ref> 
+#{{Nobel abbr|Eko}} [[Robert J. Shiller]]<ref name="Robert Shiller CV">{{cite web|title=Robert Shiller CV|url=http://capitalism.columbia.edu/files/ccs/Vita10%20Shiller_cc.pdf}}</ref> 
+#{{Nobel abbr|Sas}} [[Eugene O'Neill]]
+#{{Nobel abbr|Sas}} [[T. S. Eliot]]
+
+|
+#{{Nobel abbr|Fis}} [[Burton Richter]] <ref name="Loeb"/>
+#{{Nobel abbr|Fis}} [[Claude Cohen-Tannoudji]] <ref name="Loeb"/>
+#{{Nobel abbr|Fis}} [[E. M. Purcell]]
+#{{Nobel abbr|Fis}} [[John Bardeen]]<ref group=Catatan name=repeat2/>
+#{{Nobel abbr|Fis}} [[Julian Schwinger]]
+#{{Nobel abbr|Fis}} [[Nicolaas Bloembergen]]
+#{{Nobel abbr|Fis}} [[Norman F. Ramsey]]
+#{{Nobel abbr|Fis}} [[Owen Chamberlain]]<ref>{{cite web| url=http://www.thecrimson.com/article/1959/10/27/visiting-professor-receives-nobel-prize-pa/ | title=Visiting Professor Receives Nobel Prize}}</ref>
+#{{Nobel abbr|Fis}} [[Percy W. Bridgman]]
+#{{Nobel abbr|Fis}} [[Riccardo Giacconi]]
+#{{Nobel abbr|Fis}} [[Roy Glauber]]
+#{{Nobel abbr|Fis}} [[Serge Haroche]]<ref name="Serge Haroche CV">{{cite web | url=http://www.college-de-france.fr/site/en-serge-haroche/biography.htm#|page=../en-serge-haroche/biography.htm| title=Serge Haroche CV}}</ref>
+#{{Nobel abbr|Fis}} [[Sheldon Glashow]]
+#{{Nobel abbr|Fis}} [[Steven Weinberg]]
+#{{Nobel abbr|Fis}} [[Willis E. Lamb]]<ref name="Loeb"/>
+#{{Nobel abbr|Kim}} [[Aaron Ciechanover]]<ref>{{cite web | url=http://www.nobelprize.org/nobel_prizes/chemistry/laureates/2004/ciechanover-cv.html?print=1 | title=CV Aaron Ciechanover}}</ref>
+#{{Nobel abbr|Kim}} [[Christian Anfinsen]]
+#{{Nobel abbr|Kim}} [[Derek Barton]]
+#{{Nobel abbr|Kim}} [[Dudley R. Herschbach]]
+#{{Nobel abbr|Kim}} [[Elias James Corey]]
+#{{Nobel abbr|Kim}} [[Geoffrey Wilkinson]]
+#{{Nobel abbr|Kim}} [[George de Hevesy]]<ref>{{cite web | url=http://www.thecrimson.com/article/1941/1/10/professor-hevesy-of-denmark-appointed-dunham/ |title=Professor Hevesy of Denmark Appointed Dunham Lecturer}}</ref>
+#{{Nobel abbr|Kim}} [[Luis Federico Leloir]]<ref>{{cite web | url=http://www.thecrimson.com/article/1961/9/28/dunham-lecturer-named-pdr-luis-f/ | title=Dunham Lecturer Named}}</ref>
+#{{Nobel abbr|Kim}} [[Richard R. Ernst]]<ref>{{cite web | url=http://www.thecrimson.com/article/1991/10/17/physics-chem-nobels-awarded-pthe-royal/ | title=Physics, Chem Nobels Awarded}}</ref>
+#{{Nobel abbr|Kim}} [[Robert Burns Woodward]]
+#{{Nobel abbr|Kim}} [[Sune Bergstrm]]<ref>{{cite web| url=http://www.nobelprize.org/nobel_prizes/medicine/laureates/1982/bergstrom.html | title=Nobel Prize Autobiography Sune Bergstrom}}</ref>
+#{{Nobel abbr|Kim}} [[Theodore W. Richards]]
+#{{Nobel abbr|Kim}} [[William Lipscomb]]
+#{{Nobel abbr|Kim}} [[Martin Karplus]]
+#{{Nobel abbr|FK}} [[Albert Szent-Gyrgyi]]
+#{{Nobel abbr|FK}} [[Allan M. Cormack]]
+#{{Nobel abbr|FK}} [[Baruj Benacerraf]]
+#{{Nobel abbr|FK}} [[Bengt I. Samuelsson]]
+#{{Nobel abbr|FK}} [[Charles Scott Sherrington]]<ref>{{cite web | url=http://www.thecrimson.com/article/1927/10/17/give-third-dunham-lecture-pthe-third/ | title=Give Third Dunham Lecture | publisher=Harvard Crimson | year =1927}}</ref>
+#{{Nobel abbr|FK}} [[David H. Hubel]]
+#{{Nobel abbr|FK}} [[Francis Crick]]<ref>{{cite web | url=http://www.nobelprize.org/nobel_prizes/medicine/laureates/1962/crick-bio.html/ | title=Nobel Bio Francis Crick}}</ref>
+#{{Nobel abbr|FK}} [[Frederick Chapman Robbins]]
+#{{Nobel abbr|FK}} [[Fritz Lipmann]]
+#{{Nobel abbr|FK}} [[George Minot]]
+#{{Nobel abbr|FK}} [[George Wald]]
+#{{Nobel abbr|FK}} [[Gerald Edelman]]<ref name="Gerald M. Edelman CV">{{cite web | url=http://www.nobelprize.org/nobel_prizes/medicine/laureates/1972/edelman-cv.pdf | title=Gerald Edelman CV}}</ref>
+#{{Nobel abbr|FK}} [[J. Michael Bishop]]
+#{{Nobel abbr|FK}} [[Jack W. Szostak]]
+#{{Nobel abbr|FK}} [[James D. Watson|James Watson]]
+#{{Nobel abbr|FK}} [[John F. Enders]]
+#{{Nobel abbr|FK}} [[John R. Vane]]<ref>{{cite web | url=http://www.nobelprize.org/nobel_prizes/medicine/laureates/1982/vane.html | title=Nobel Prize Autobiography John R Vane}}</ref>
+#{{Nobel abbr|FK}} [[Konrad Bloch]]
+#{{Nobel abbr|FK}} [[Linda B. Buck]]
+#{{Nobel abbr|FK}} [[Max Theiler]]
+#{{Nobel abbr|FK}} [[Thomas H. Weller]]
+#{{Nobel abbr|FK}} [[Torsten N. Wiesel]]
+#{{Nobel abbr|FK}} [[Willem Einthoven]]<ref>{{cite book|url=http://books.google.com/books?id=_w9v_ZkzTZoC&lpg=PA63&ots=9mDcXHTM7D&dq=harvard%20einthoven%20dunham&pg=PA63#v=onepage&q&f=false|title = A History of Electrocardiography|author=George Edward Burch, Nicholas P. DePasquale}}</ref>
+#{{Nobel abbr|Eko}} [[A. Michael Spence]]
+#{{Nobel abbr|Eko}} [[Alvin E. Roth]]
+#{{Nobel abbr|Eko}} [[Amartya Sen]]
+#{{Nobel abbr|Eko}} [[Kenneth J. Arrow]]
+#{{Nobel abbr|Eko}} [[Robert C. Merton]]
+#{{Nobel abbr|Eko}} [[Simon Kuznets]]
+#{{Nobel abbr|Eko}} [[Wassily Leontief]]
+#{{Nobel abbr|Eko}} [[Lars Peter Hansen]]<ref name="Lars Peter Hanson CV" /> 
+#{{Nobel abbr|Pe}} [[Henry Kissinger]]
+#{{Nobel abbr|Pe}} [[Ralph Bunche]]
+#{{Nobel abbr|Sas}} [[Derek Walcott]]<ref>{{cite web | url=http://www.thecrimson.com/article/1992/10/9/walcott-wins-nobel-lit-prize-pwest/ | title=Walcott Wins Nobel Lit. Prize}}</ref>
+#{{Nobel abbr|Sas}} [[J. M. Coetzee]]<ref name="Coetzee">{{cite web|title=JM Coetzee Nobel Bio|url=http://www.nobelprize.org/nobel_prizes/literature/laureates/2003/coetzee-bio.html}}</ref> 
+#{{Nobel abbr|Sas}} [[Mario Vargas Llosa]]<ref>{{cite web | url=http://harvardmagazine.com/2010/10/llosa-nobel-literature | title=Mario Vargas Llosa Awarded Nobel Prize in Literature }}{</ref>
+#{{Nobel abbr|Sas}} [[Nadine Gordimer]] <ref>{{cite web | url=http://www.thecrimson.com/article/1994/12/5/gordimer-author-but-also-activist-pat/ | title=Gordimer: Author, But Also Activist}}</ref>
+#{{Nobel abbr|Sas}} [[Seamus Heaney]]
+#{{Nobel abbr|Sas}} [[T. S. Eliot]]
+|
+#{{Nobel abbr|Fis}} [[Aage Bohr]]<ref name="Loeb"/>
+#{{Nobel abbr|Fis}} [[Chen Ning Yang]]<ref name="Loeb"/>
+#{{Nobel abbr|Fis}} [[Enrico Fermi]]<ref name="Loeb">{{cite web|url=http://www.physics.harvard.edu/about/loeb2.html|title=The Loeb and Lee Lectureship Funds: 1953-1990}}</ref> 
+#{{Nobel abbr|Fis}} [[Gerard 't Hooft]]<ref name="Loeb"/>
+#{{Nobel abbr|Fis}} [[Hans Bethe]]<ref name="Loeb"/>
+#{{Nobel abbr|Fis}} [[Isidor Isaac Rabi]]<ref name="Loeb"/>
+#{{Nobel abbr|Fis}} [[John Cockcroft]]<ref name="Loeb"/>
+#{{Nobel abbr|Fis}} [[Steven Chu]]<ref name="Loeb"/>
+#{{Nobel abbr|Fis}} [[Tsung-Dao Lee]]<ref name="Loeb"/>
+#{{Nobel abbr|Fis}} [[Werner Heisenberg]]<ref name="Loeb"/>
+#{{Nobel abbr|Fis}} [[William Alfred Fowler]]<ref name="Loeb"/>
+#{{Nobel abbr|Kim}} [[Max Perutz]]<ref>{{cite web | url=http://www.thecrimson.com/article/1963/2/25/nobel-winner-named-dunham-lecturer-pmax/ | title=Nobel Winner Named Dunham Lecturer}}</ref>
+#{{Nobel abbr|Kim}} [[Peter Debye]]<ref name="Peter Debye Nobel">{{cite web | url=http://www.nobelprize.org/nobel_prizes/chemistry/laureates/1936/debye-bio.html | title=Peter Debye Nobel bio}}</ref>
+#{{Nobel abbr|FK}} [[Carl Ferdinand Cori]]
+#{{Nobel abbr|FK}} [[Frederick Gowland Hopkins]]<ref>{{cite web | url=http://www.thecrimson.com/article/1936/9/29/total-of-fifteen-guest-lecturers-here/ | title=Total OF Fifteen GUEST LECTURERS HERE FOR 1936-37}}</ref>
+#{{Nobel abbr|Pe}} [[scar Arias]] <ref>[http://news.harvard.edu/gazette/1998/02.05/NewFellowsHeffe.html New Fellows, Heffernan Visiting Fellow Come to Institute of Politics<!-- Bot generated title -->]</ref>
+#{{Nobel abbr|Sas}} [[Czeslaw Milosz]] <ref>{{cite web | url=http://www.thecrimson.com/article/1981/10/7/milosz-pczeslaw-milosz-norton-professor-of/ | title=Milosz | publisher=Harvard Crimson | year = 1981}}</ref>
+#{{Nobel abbr|Sas}} [[Orhan Pamuk]]<ref>{{cite web | url=http://mahindrahumanities.fas.harvard.edu/content/norton-lectures | title= Norton Lectures}}</ref>
+#{{Nobel abbr|Sas}} [[Wole Soyinka]]  <ref>{{cite web | url=http://www.thecrimson.com/article/2004/11/12/nobel-winner-on-survival-while-in/ | title=Nobe Winner on Survival}}</ref>
+|-
+|}
+
+=={{flagicon|USA}} Universitas Columbia==
+
+{| class='wikitable'
+|-
+!Afiliasi <ref group=Catatan name=Afiliasi/>
+!Alumni <ref group=Catatan name=Alumnis/>
+!Peneliti atau Mahasiswa<ref group=Catatan name=attendeesresearch/>
+!Staf akademik sebelum atau pada saat penghargaan <ref group=Catatan name=staff1/>
+!Staf akademik setelah penghargaan <ref group=Catatan name=staff2/>
+|-
+|colspan="5"|[[Universitas Columbia]]
+|-valign="top"
+|101 (Resmi 82)<ref>{{cite web | url = http://www.columbia.edu/content/nobel-laureates.html | title = Columbia | accessdate = 2012-10-15}}</ref>
+|
+#{{Nobel abbr|Fis}} [[Arno A. Penzias]]
+#{{Nobel abbr|Fis}} [[I. I. Rabi]]
+#{{Nobel abbr|Fis}} [[James Rainwater]]
+#{{Nobel abbr|Fis}} [[Julian S. Schwinger]]
+#{{Nobel abbr|Fis}} [[Leon M. Lederman]]
+#{{Nobel abbr|Fis}} [[Leon N. Cooper]]
+#{{Nobel abbr|Fis}} [[Martin L. Perl]]
+#{{Nobel abbr|Fis}} [[Melvin Schwartz]]
+#{{Nobel abbr|Fis}} [[Norman F. Ramsey]]
+#{{Nobel abbr|Fis}} [[Robert A. Millikan]]
+#{{Nobel abbr|Fis}} [[Val L. Fitch]]
+#{{Nobel abbr|Kim}} [[Herbert A. Hauptman]]
+#{{Nobel abbr|Kim}} [[Irving Langmuir]]
+#{{Nobel abbr|Kim}} [[John Howard Northrop]]
+#{{Nobel abbr|Kim}} [[Roald Hoffman]]
+#{{Nobel abbr|Kim}} [[Robert H. Grubbs]]
+#{{Nobel abbr|Kim}} [[Robert Lefkowitz]]
+#{{Nobel abbr|Kim}} [[William H. Stein]]
+#{{Nobel abbr|Kim}} [[William S. Knowles]]
+#{{Nobel abbr|FK}} [[Baruch S. Blumberg]]
+#{{Nobel abbr|FK}} [[Baruj Benacerraf]]
+#{{Nobel abbr|FK}} [[Dickinson W. Richards]]
+#{{Nobel abbr|FK}} [[Edward C. Kendall]]
+#{{Nobel abbr|FK}} [[George Wald]]
+#{{Nobel abbr|FK}} [[Harold E. Varmus]]
+#{{Nobel abbr|FK}} [[Hermann J. Muller]]
+#{{Nobel abbr|FK}} [[Joshua Lederberg]]
+#{{Nobel abbr|FK}} [[Konrad E. Bloch]]
+#{{Nobel abbr|FK}} [[Louis J. Ignarro]]
+#{{Nobel abbr|FK}} [[Richard Axel]]
+#{{Nobel abbr|Eko}} [[Alvin E. Roth]]
+#{{Nobel abbr|Eko}} [[Kenneth J. Arrow]]
+#{{Nobel abbr|Eko}} [[Milton Friedman]]
+#{{Nobel abbr|Eko}} [[Robert C. Merton]]
+#{{Nobel abbr|Eko}} [[Robert W. Fogel]]
+#{{Nobel abbr|Eko}} [[Simon S. Kuznets]]
+#{{Nobel abbr|Eko}} [[William Vickrey]]
+#{{Nobel abbr|Pe}} [[Barack H. Obama]]
+#{{Nobel abbr|Pe}} [[Nicholas Murray Butler]]
+|
+#{{Nobel abbr|Fis}} [[Arno Allan Penzias]]
+#{{Nobel abbr|Fis}} [[John C. Mather]]
+#{{Nobel abbr|Fis}} [[William Shockley]]
+#{{Nobel abbr|Kim}} [[Luis Federico Leloir]]
+#{{Nobel abbr|Kim}} [[Sidney Altman]]
+#{{Nobel abbr|FK}} [[Arthur Kornberg]]
+#{{Nobel abbr|FK}} [[Baruch S. Blumberg]]
+#{{Nobel abbr|FK}} [[Baruj Benacerraf]]
+#{{Nobel abbr|FK}} [[Dickinson W. Richards]]
+#{{Nobel abbr|FK}} [[Konrad Lorenz]]
+#{{Nobel abbr|FK}} [[Linda B. Buck]]
+#{{Nobel abbr|Eko}} [[Milton Friedman]]
+#{{Nobel abbr|Eko}} [[Robert Solow]]
+#{{Nobel abbr|Pe}} [[Jos Ramos-Horta]]
+#{{Nobel abbr|Pe}} [[Theodore Roosevelt]]
+|
+#{{Nobel abbr|Fis}} [[Aage Bohr]]
+#{{Nobel abbr|Fis}} [[Arthur L. Schawlow]]
+#{{Nobel abbr|Fis}} [[Carlo Rubbia]]
+#{{Nobel abbr|Fis}} [[Charles H. Townes]]
+#{{Nobel abbr|Fis}} [[Emilio G. Segr]]
+#{{Nobel abbr|Fis}} [[Enrico Fermi]]
+#{{Nobel abbr|Fis}} [[Hans Albrecht Bethe]]
+#{{Nobel abbr|Fis}} [[Hideki Yukawa]]
+#{{Nobel abbr|Fis}} [[Horst L. Stormer]]
+#{{Nobel abbr|Fis}} [[I. I. Rabi]]
+#{{Nobel abbr|Fis}} [[Jack Steinberger]]
+#{{Nobel abbr|Fis}} [[Leo James Rainwater]]
+#{{Nobel abbr|Fis}} [[Leon M. Lederman]]
+#{{Nobel abbr|Fis}} [[Maria Goeppert-Mayer]]
+#{{Nobel abbr|Fis}} [[Melvin Schwartz]]
+#{{Nobel abbr|Fis}} [[Murray Gell-Mann]]
+#{{Nobel abbr|Fis}} [[Norman F. Ramsey]]
+#{{Nobel abbr|Fis}} [[Polykarp Kusch]]
+#{{Nobel abbr|Fis}} [[Samuel C. C. Ting]]
+#{{Nobel abbr|Fis}} [[Steven Weinberg]]
+#{{Nobel abbr|Fis}} [[Tsung-Dao Lee]]
+#{{Nobel abbr|Fis}} [[Val L. Fitch]]
+#{{Nobel abbr|Fis}} [[Wilhelm Wien]]
+#{{Nobel abbr|Fis}} [[Max Planck]]
+#{{Nobel abbr|Fis}} [[Willis E. Lamb]]
+#{{Nobel abbr|Kim}} [[Harold C. Urey]]
+#{{Nobel abbr|Kim}} [[Irving Langmuir]]
+#{{Nobel abbr|Kim}} [[Martin Chalfie]]
+#{{Nobel abbr|Kim}} [[Willard F. Libby]]
+#{{Nobel abbr|Kim}} [[Martin Karplus]]
+#{{Nobel abbr|FK}} [[Andr F. Cournand]]
+#{{Nobel abbr|FK}} [[Daniel Nathans]]
+#{{Nobel abbr|FK}} [[D. Carleton Gajdusek]]
+#{{Nobel abbr|FK}} [[Dickinson W. Richards]]
+#{{Nobel abbr|FK}} [[E. Donnall Thomas]]
+#{{Nobel abbr|FK}} [[Eric Kandel]]
+#{{Nobel abbr|FK}} [[Harold E. Varmus]]
+#{{Nobel abbr|FK}} [[Hermann J. Muller]]
+#{{Nobel abbr|FK}} [[Joshua Lederberg]]
+#{{Nobel abbr|FK}} [[Konrad Bloch]]
+#{{Nobel abbr|FK}} [[Richard Axel]]
+#{{Nobel abbr|FK}} [[Salvador E. Luria]]
+#{{Nobel abbr|FK}} [[Sune Bergstrm]]
+#{{Nobel abbr|FK}} [[Thomas Hunt Morgan]]
+#{{Nobel abbr|FK}} [[James E. Rothman]]
+#{{Nobel abbr|Eko}} [[Edmund S. Phelps]]
+#{{Nobel abbr|Eko}} [[Franco Modigliani]]
+#{{Nobel abbr|Eko}} [[Gary S. Becker]]
+#{{Nobel abbr|Eko}} [[George J. Stigler]]
+#{{Nobel abbr|Eko}} [[James Heckman]]
+#{{Nobel abbr|Eko}} [[Joseph Stiglitz]]
+#{{Nobel abbr|Eko}} [[Milton Friedman]]
+#{{Nobel abbr|Eko}} [[Robert Mundell]]
+#{{Nobel abbr|Eko}} [[William Vickrey]]
+#{{Nobel abbr|Pe}} [[Al Gore]]
+#{{Nobel abbr|Pe}} [[Liu Xiaobo]]
+#{{Nobel abbr|Pe}} [[Nicholas Murray Butler]]
+#{{Nobel abbr|Sas}} [[Derek Walcott]]
+#{{Nobel abbr|Sas}} [[Gabriela Mistral]]
+#{{Nobel abbr|Sas}} [[Joseph Brodsky]]
+#{{Nobel abbr|Sas}} [[Mario Vargas Llosa]]
+#{{Nobel abbr|Sas}} [[Nadine Gordimer]]
+#{{Nobel abbr|Sas}} [[Orhan Pamuk]]
+|
+#{{Nobel abbr|Fis}} [[Daniel C. Tsui]]
+#{{Nobel abbr|Fis}} [[Hendrik A. Lorentz]]
+#{{Nobel abbr|Fis}} [[Melvin Schwartz]]
+#{{Nobel abbr|Kim}} [[Roald Hoffman]]
+#{{Nobel abbr|FK}} [[Joshua Lederberg]]
+#{{Nobel abbr|Eko}} [[Robert M. Solow]]
+#{{Nobel abbr|Pe}} [[Elie Wiesel]]
+#{{Nobel abbr|Pe}} [[Kofi Annan]]
+#{{Nobel abbr|Pe}} [[Leymah Gbowee]]<ref>{{cite web|title=Barnard Welcomes Nobel Laureate Leymah Gbowee as Distinguished Fellow in Social Justice|url=http://barnard.edu/news/barnard-welcomes-nobel-laureate-leymah-gbowee-distinguished-fellow-social-justice|accessdate=22 November 2013}}</ref> 
+|-
+|}
+
+== {{flagicon|GBR}} Universitas Cambridge ==
+
+{| class='wikitable'
+|-
+!Afiliasi <ref group=Catatan name=Afiliasi/>
+!Alumni <ref group=Catatan name=Alumnis/>
+!Peneliti atau Mahasiswa<ref group=Catatan name=attendeesresearch/>
+!Staf akademik sebelum atau pada saat penghargaan <ref group=Catatan name=staff1/>
+!Staf akademik setelah penghargaan <ref group=Catatan name=staff2/>
+|-
+|colspan="5"|[[Universitas Cambridge]]
+|-valign="top"
+|90 <ref>{{cite web | url = http://www.cam.ac.uk/research/research-at-cambridge/nobel-prize-winners | title = Universitas Cambridge | accessdate = 2010-10-11}} Hitungan resmi tidak mencakup peneliti di [[Laboratorium Molekuler Biologi]] MRC setelah tahun 1962.</ref>
+|
+#{{Nobel abbr|Fis}} [[Abdus Salam]]  <ref group=Catatan name=repeat/>
+#{{Nobel abbr|Fis}} [[Antony Hewish]]
+#{{Nobel abbr|Fis}} [[Brian David Josephson]] <ref group=Catatan name=repeat/>
+#{{Nobel abbr|Fis}} [[Cecil Powell]]
+#{{Nobel abbr|Fis}} [[Charles Barkla]] <ref group=Catatan name=repeat/>
+#{{Nobel abbr|Fis}} [[Charles Thomson Rees Wilson|Charles Wilson]] <ref group=Catatan name=repeat/>
+#{{Nobel abbr|Fis}} [[Edward Victor Appleton|Edward Appleton]]<ref group=Catatan name=repeat/>
+#{{Nobel abbr|Fis}} [[Ernest Rutherford]] <ref group=Catatan name=repeat/>
+#{{Nobel abbr|Fis}} [[Ernest Walton]]
+#{{Nobel abbr|Fis}} [[George Paget Thomson|George Thomson]]<ref group=Catatan name=repeat/>
+#{{Nobel abbr|Fis}} [[J. J. Thomson]]  <ref group=Catatan name=repeat/>
+#{{Nobel abbr|Fis}} [[James Chadwick]]  <ref group=Catatan name=repeat/>
+#{{Nobel abbr|Fis}} [[John Cockcroft]]<ref group=Catatan name=repeat/>
+#{{Nobel abbr|Fis}} [[John Strutt, 3rd Baron Rayleigh|Lord Rayleigh]]  <ref group=Catatan name=repeat/>
+#{{Nobel abbr|Fis}} [[William Lawrence Bragg|Lawrence Bragg]] <ref group=Catatan name=repeat/>
+#{{Nobel abbr|Fis}} [[Nevill Mott]]
+#{{Nobel abbr|Fis}} [[Niels Bohr]]
+#{{Nobel abbr|Fis}} [[Norman Ramsey]]
+#{{Nobel abbr|Fis}} [[Owen Richardson]] <ref group=Catatan name=repeat/> <ref group=Catatan name=repeat/>
+#{{Nobel abbr|Fis}} [[Patrick Blackett, Baron Blackett|Patrick M. S. Blackett]]
+#{{Nobel abbr|Fis}} [[Paul Dirac]]  <ref group=Catatan name=repeat/>
+#{{Nobel abbr|Fis}} [[Pjotr Kapitsa]]
+#{{Nobel abbr|Fis}} [[Subrahmanyan Chandrasekhar]] <ref group=Catatan name=repeat/>
+#{{Nobel abbr|Fis}} [[William Henry Bragg|William Bragg]]
+#{{Nobel abbr|Kim}} [[Aaron Klug]] <ref group=Catatan name=repeat/>
+#{{Nobel abbr|Kim}} [[Alan McDiarmid]]
+#{{Nobel abbr|Kim}} [[Archer Martin]]
+#{{Nobel abbr|Kim}} [[Dorothy Hodgkin]]
+#{{Nobel abbr|Kim}} [[Francis Aston]] <ref group=Catatan name=repeat/>
+#{{Nobel abbr|Kim}} [[Frederick Sanger]]<ref group=Catatan name=repeat/><br />{{Nobel abbr|Kim}} [[Frederick Sanger]]<ref group=Catatan name=repeat2/>
+#{{Nobel abbr|Kim}} [[George Porter]] <ref group=Catatan name=repeat/>
+#{{Nobel abbr|Kim}} [[John Kendrew]]<ref group=Catatan name=repeat/>
+#{{Nobel abbr|Kim}} [[John Pople]] <ref group=Catatan name=repeat/>
+#{{Nobel abbr|Kim}} [[Max Perutz]]
+#{{Nobel abbr|Kim}} [[Michael Levitt]]
+#{{Nobel abbr|Kim}} [[Peter D. Mitchell|Peter Mitchell]]
+#{{Nobel abbr|Kim}} [[Richard Laurence Millington Synge|Richard Synge]]
+#{{Nobel abbr|Kim}} [[Richard R. Schrock]]
+#{{Nobel abbr|Kim}} [[Roger Y. Tsien]]
+#{{Nobel abbr|Kim}} [[Ronald Norrish]]
+#{{Nobel abbr|Kim}} [[Walter Gilbert]]
+#{{Nobel abbr|FK}} [[Alan Hodgkin]]<ref group=Catatan name=repeat/>
+#{{Nobel abbr|FK}} [[Albert Szent-Gyrgyi]]
+#{{Nobel abbr|FK}} [[Andrew Huxley]]<ref group=Catatan name=repeat/>
+#{{Nobel abbr|FK}} [[Archibald Hill]] <ref group=Catatan name=repeat/>
+#{{Nobel abbr|FK}} [[Csar Milstein]]  <ref group=Catatan name=repeat/>
+#{{Nobel abbr|FK}} [[Charles Sherrington]]  <ref group=Catatan name=repeat/>
+#{{Nobel abbr|FK}} [[Edgar Adrian, 1st Baron Adrian|Edgar Adrian]]  <ref group=Catatan name=repeat/>
+#{{Nobel abbr|FK}} [[Elizabeth Blackburn]]
+#{{Nobel abbr|FK}} [[Francis Crick]]<ref group=Catatan name=repeat/>
+#{{Nobel abbr|FK}} [[Henry Hallett Dale|Henry Dale]]
+#{{Nobel abbr|FK}} [[Howard Florey|Sir Howard Walter Florey]]<ref group=Catatan name=repeat/>
+#{{Nobel abbr|FK}} [[John Sulston]] <ref group=Catatan name=repeat/>
+#{{Nobel abbr|FK}} [[Martin Evans]] <ref group=Catatan name=repeat/>
+#{{Nobel abbr|FK}} [[Maurice Wilkins]]
+#{{Nobel abbr|FK}} [[Rodney Porter]]
+#{{Nobel abbr|FK}} [[Tim Hunt]] <ref group=Catatan name=repeat/>
+#{{Nobel abbr|Eko}} [[Amartya Sen]] <ref group=Catatan name=repeat/>
+#{{Nobel abbr|Eko}} [[James Meade]] <ref group=Catatan name=repeat/>
+#{{Nobel abbr|Eko}} [[James Mirrlees]] <ref group=Catatan name=repeat/>
+#{{Nobel abbr|Eko}} [[Richard Stone]] <ref group=Catatan name=repeat/>
+#{{Nobel abbr|Pe}} [[Austen Chamberlain]]
+#{{Nobel abbr|Pe}} [[Philip Noel-Baker]]
+#{{Nobel abbr|Sas}} [[Bertrand Russell]]<ref group=Catatan name=repeat/>
+#{{Nobel abbr|Sas}} [[Patrick White]]
+|
+#{{Nobel abbr|Fis}} [[Arthur Holly Compton]]
+#{{Nobel abbr|Fis}} [[Martin Ryle]]
+#{{Nobel abbr|Fis}} [[Max Born]]
+#{{Nobel abbr|Kim}} [[John E. Walker|John Walker]] <ref group=Catatan name=repeat/>
+#{{Nobel abbr|FK}} [[Allan M. Cormack]]
+#{{Nobel abbr|FK}} [[Ernst Chain]]
+#{{Nobel abbr|FK}} [[Georges Khler]]
+#{{Nobel abbr|FK}} [[Hans Adolf Krebs|Hans Krebs]]
+#{{Nobel abbr|FK}} [[James D. Watson|James Watson]]
+#{{Nobel abbr|FK}} [[Paul Greengard]]
+#{{Nobel abbr|FK}} [[Sydney Brenner]]
+#{{Nobel abbr|Eko}} [[Grard Debreu]]
+#{{Nobel abbr|Eko}} [[Joseph Stiglitz]]
+#{{Nobel abbr|Eko}} [[Kenneth J. Arrow]] <ref group=Catatan name=repeat/>
+|
+#{{Nobel abbr|Fis}} [[Abdus Salam]]  <ref group=Catatan name=repeat/>
+#{{Nobel abbr|Fis}} [[Antony Hewish]]
+#{{Nobel abbr|Fis}} [[Brian David Josephson]] <ref group=Catatan name=repeat/>
+#{{Nobel abbr|Fis}} [[Charles Barkla]] <ref group=Catatan name=repeat/>
+#{{Nobel abbr|Fis}} [[Charles Thomson Rees Wilson|Charles Wilson]] <ref group=Catatan name=repeat/>
+#{{Nobel abbr|Fis}} [[Edward Victor Appleton|Edward Appleton]]  <ref group=Catatan name=repeat/>
+#{{Nobel abbr|Fis}} [[George Paget Thomson|George Thomson]] <ref group=Catatan name=repeat/>
+#{{Nobel abbr|Fis}} [[J. J. Thomson]]  <ref group=Catatan name=repeat/>
+#{{Nobel abbr|Fis}} [[James Chadwick]] <ref group=Catatan name=repeat/>
+#{{Nobel abbr|Fis}} [[John Cockcroft]] <ref group=Catatan name=repeat/>
+#{{Nobel abbr|Fis}} [[Lord Rayleigh]]  <ref group=Catatan name=repeat/>
+#{{Nobel abbr|Fis}} [[Martin Ryle]]
+#{{Nobel abbr|Fis}} [[Nevill Mott]]
+#{{Nobel abbr|Fis}} [[Owen Richardson]] <ref group=Catatan name=repeat/> <ref group=Catatan name=repeat/>
+#{{Nobel abbr|Fis}} [[Patrick Blackett, Baron Blackett|Patrick M. S. Blackett]]
+#{{Nobel abbr|Fis}} [[Paul Dirac]]  <ref group=Catatan name=repeat/>
+#{{Nobel abbr|Fis}} [[Philip Warren Anderson|Philip Anderson]]
+#{{Nobel abbr|Fis}} [[Pyotr Kapitsa]]
+#{{Nobel abbr|Fis}} [[Steven Weinberg]]
+#{{Nobel abbr|Fis}} [[Subrahmanyan Chandrasekhar]] <ref group=Catatan name=repeat/>
+#{{Nobel abbr|Fis}} [[William Alfred Fowler|William Fowler]]
+#{{Nobel abbr|Kim}} [[Aaron Klug]] <ref group=Catatan name=repeat/>
+#{{Nobel abbr|Kim}} [[Alexander R. Todd|Alexander Todd]]
+#{{Nobel abbr|Kim}} [[Francis Aston]] <ref group=Catatan name=repeat/>
+#{{Nobel abbr|Kim}} [[Frederick Sanger]]<ref group=Catatan name=repeat/><br />{{Nobel abbr|Kim}} [[Frederick Sanger]]<ref group=Catatan name=repeat2/>
+#{{Nobel abbr|Kim}} [[George Porter]] <ref group=Catatan name=repeat/>
+#{{Nobel abbr|Kim}} [[John Kendrew]]  <ref group=Catatan name=repeat/>
+#{{Nobel abbr|Kim}} [[John Pople]] <ref group=Catatan name=repeat/>
+#{{Nobel abbr|Kim}} [[Max Perutz]]
+#{{Nobel abbr|Kim}} [[Peter D. Mitchell|Peter Mitchell]]
+#{{Nobel abbr|Kim}} [[Ronald Norrish]]
+#{{Nobel abbr|Kim}} [[Venkatraman Ramakrishnan]]
+#{{Nobel abbr|FK}} [[Alan Hodgkin]]  <ref group=Catatan name=repeat/>
+#{{Nobel abbr|FK}} [[Andrew Huxley]]  <ref group=Catatan name=repeat/>
+#{{Nobel abbr|FK}} [[Archibald Hill]] <ref group=Catatan name=repeat/>
+#{{Nobel abbr|FK}} [[Csar Milstein]] <ref group=Catatan name=repeat/>
+#{{Nobel abbr|FK}} [[Charles Sherrington]]  <ref group=Catatan name=repeat/>
+#{{Nobel abbr|FK}} [[Edgar Adrian, 1st Baron Adrian|Edgar Adrian]]  <ref group=Catatan name=repeat/>
+#{{Nobel abbr|FK}} [[Francis Crick]]  <ref group=Catatan name=repeat/>
+#{{Nobel abbr|FK}} [[Frederick Gowland Hopkins]]
+#{{Nobel abbr|FK}} [[Howard Florey|Sir Howard Walter Florey]]  <ref group=Catatan name=repeat/>
+#{{Nobel abbr|FK}} [[John B. Gurdon]]
+#{{Nobel abbr|FK}} [[John Sulston]] <ref group=Catatan name=repeat/>
+#{{Nobel abbr|FK}} [[Martin Evans]] <ref group=Catatan name=repeat/>
+#{{Nobel abbr|FK}} [[Robert G. Edwards]]
+#{{Nobel abbr|FK}} [[Tim Hunt]] <ref group=Catatan name=repeat/>
+#{{Nobel abbr|Eko}} [[Eric Maskin]]
+#{{Nobel abbr|Eko}} [[James Meade]] <ref group=Catatan name=repeat/>
+#{{Nobel abbr|Eko}} [[James Mirrlees]] <ref group=Catatan name=repeat/>
+#{{Nobel abbr|Eko}} [[John Hicks]]
+#{{Nobel abbr|Eko}} [[Kenneth J. Arrow]] <ref group=Catatan name=repeat/>
+#{{Nobel abbr|Eko}} [[Richard Stone]] <ref group=Catatan name=repeat/>
+#{{Nobel abbr|Sas}} [[Bertrand Russell]]  <ref group=Catatan name=repeat/>
+#{{Nobel abbr|Sas}} [[Mario Vargas Llosa]]
+|
+#{{Nobel abbr|Fis}} [[Ernest Rutherford]] <ref group=Catatan name=repeat/>
+#{{Nobel abbr|Fis}} [[William Lawrence Bragg]] <ref group=Catatan name=repeat/>
+#{{Nobel abbr|Kim}} [[John E. Walker|John Walker]] <ref group=Catatan name=repeat/>
+#{{Nobel abbr|Kim}} [[Peter Debye]]
+#{{Nobel abbr|Eko}} [[Amartya Sen]] <ref group=Catatan name=repeat/>
+|-
+|}
+
+=={{flagicon|USA}} Universitas Chicago==
+{| class='wikitable'
+|-
+!Afiliasi <ref group=Catatan name=Afiliasi/>
+!Alumni <ref group=Catatan name=Alumnis/>
+!Peneliti atau Mahasiswa<ref group=Catatan name=attendeesresearch/>
+!Staf akademik sebelum atau pada saat penghargaan <ref group=Catatan name=staff1/>
+!Staf akademik setelah penghargaan <ref group=Catatan name=staff2/>
+|-
+|colspan="5"|[[Universitas Chicago]]
+|-valign="top"
+|89 <ref>{{cite web | url = http://www-news.uchicago.edu/resources/nobel | title = Universitas Chicago - Nobel Laureates  | accessdate = 2006-06-11}}</ref>
+|
+#{{Nobel abbr|Fis}} [[Bruce Beutler]]
+#{{Nobel abbr|Fis}} [[Chen Ning Yang]]
+#{{Nobel abbr|Fis}} [[Clinton Davisson]]
+#{{Nobel abbr|Fis}} [[Daniel Tsui]]
+#{{Nobel abbr|Fis}} [[Ernest O. Lawrence]]
+#{{Nobel abbr|Fis}} [[Frank Wilczek]]
+#{{Nobel abbr|Fis}} [[George E. Smith]]
+#{{Nobel abbr|Fis}} [[Jack Steinberger]]
+#{{Nobel abbr|Fis}} [[James Cronin]]
+#{{Nobel abbr|Fis}} [[Jerome Isaac Friedman|Jerome Friedman]]
+#{{Nobel abbr|Fis}} [[Luis Walter Alvarez|Luis W. Alvarez]]
+#{{Nobel abbr|Fis}} [[Owen Chamberlain]]
+#{{Nobel abbr|Fis}} [[Robert A. Millikan]]
+#{{Nobel abbr|Fis}} [[Tsung-Dao Lee]]
+#{{Nobel abbr|Kim}} [[Frank Sherwood Rowland]]
+#{{Nobel abbr|Kim}} [[Herbert C. Brown]]
+#{{Nobel abbr|Kim}} [[Irwin Rose]]
+#{{Nobel abbr|Kim}} [[Robert Mulliken]]
+#{{Nobel abbr|FK}} [[Edward Lawrie Tatum]]
+#{{Nobel abbr|FK}} [[James Dewey Watson]]
+#{{Nobel abbr|FK}} [[Roger Sperry]]
+#{{Nobel abbr|Eko}} [[Gary Becker]]
+#{{Nobel abbr|Eko}} [[George Stigler]]
+#{{Nobel abbr|Eko}} [[Harry Markowitz]]
+#{{Nobel abbr|Eko}} [[Herbert A. Simon]]
+#{{Nobel abbr|Eko}} [[James M. Buchanan]]
+#{{Nobel abbr|Eko}} [[Milton Friedman]]
+#{{Nobel abbr|Eko}} [[Myron Scholes]]
+#{{Nobel abbr|Eko}} [[Paul Samuelson]]
+#{{Nobel abbr|Eko}} [[Robert Lucas Jr]]
+#{{Nobel abbr|Eko}} [[Eugene F. Fama]]
+|
+#{{Nobel abbr|Fis}} [[Alexei A. Abrikosov]]
+#{{Nobel abbr|Fis}} [[Eugene P. Wigner]]
+#{{Nobel abbr|Fis}} [[Hans Albrecht Bethe]]
+#{{Nobel abbr|Fis}} [[Julian Schwinger]]
+#{{Nobel abbr|Fis}} [[Maria Goeppert-Mayer]]
+#{{Nobel abbr|Fis}} [[Masatoshi Koshiba]]
+#{{Nobel abbr|Fis}} [[Werner Heisenberg]]
+#{{Nobel abbr|FK}} [[Alexis Carrel]]
+#{{Nobel abbr|FK}} [[George Wald]]
+#{{Nobel abbr|Eko}} [[Kenneth J. Arrow]]
+#{{Nobel abbr|Sas}} [[Saul Bellow]]
+|
+#{{Nobel abbr|Fis}} [[Albert Abraham Michelson]]
+#{{Nobel abbr|Fis}} [[Arthur Holly Compton]]
+#{{Nobel abbr|Fis}} [[Enrico Fermi]]
+#{{Nobel abbr|Fis}} [[James Franck]]
+#{{Nobel abbr|Fis}} [[John Robert Schrieffer]]
+#{{Nobel abbr|Fis}} [[Murray Gell-Mann]]
+#{{Nobel abbr|Fis}} [[Subramanyan Chandrasekhar]]
+#{{Nobel abbr|Fis}} [[Yoichiro Nambu]]
+#{{Nobel abbr|Kim}} [[Ada Yonath]]
+#{{Nobel abbr|Kim}} [[Gerhard Herzberg]]
+#{{Nobel abbr|Kim}} [[Glenn Theodore Seaborg]]
+#{{Nobel abbr|Kim}} [[Henry Taube]]
+#{{Nobel abbr|Kim}} [[Herbert C. Brown]]
+#{{Nobel abbr|Kim}} [[Ilya Prigogine]]
+#{{Nobel abbr|Kim}} [[Karl Ziegler]]
+#{{Nobel abbr|Kim}} [[Paul Crutzen]]
+#{{Nobel abbr|Kim}} [[Richard E. Smalley]]
+#{{Nobel abbr|Kim}} [[Willard Frank Libby]]
+#{{Nobel abbr|Kim}} [[William H. Stein]]
+#{{Nobel abbr|Kim}} [[Yuan T. Lee]]
+#{{Nobel abbr|FK}} [[Charles Brenton Huggins]]
+#{{Nobel abbr|FK}} [[Edward Adelbert Doisy]]
+#{{Nobel abbr|FK}} [[George Wells Beadle]]
+#{{Nobel abbr|FK}} [[Hermann Joseph Muller]]
+#{{Nobel abbr|FK}} [[John Eccles (neurophysiologist)|Sir John Carew Eccles]]
+#{{Nobel abbr|FK}} [[Konrad E. Bloch]]
+#{{Nobel abbr|Eko}} [[Daniel L. McFadden]]
+#{{Nobel abbr|Eko}} [[Edward C. Prescott]]
+#{{Nobel abbr|Eko}} [[Friedrich August von Hayek]]
+#{{Nobel abbr|Eko}} [[Grard Debreu]]
+#{{Nobel abbr|Eko}} [[James J. Heckman]]
+#{{Nobel abbr|Eko}} [[Kenneth J. Arrow]]
+#{{Nobel abbr|Eko}} [[Lawrence R. Klein]]
+#{{Nobel abbr|Eko}} [[Leonid Hurwicz]]
+#{{Nobel abbr|Eko}} [[Merton H. Miller]]
+#{{Nobel abbr|Eko}} [[Robert A. Mundell]]
+#{{Nobel abbr|Eko}} [[Robert Fogel]]
+#{{Nobel abbr|Eko}} [[Roger Myerson]]
+#{{Nobel abbr|Eko}} [[Ronald H. Coase]]
+#{{Nobel abbr|Eko}} [[Eugene F. Fama]]
+#{{Nobel abbr|Eko}} [[Lars Peter Hansen]]
+#{{Nobel abbr|Eko}} [[Theodore W. Schultz]]
+#{{Nobel abbr|Eko}} [[Thomas J. Sargent]]
+#{{Nobel abbr|Eko}} [[Tjalling C. Koopmans]]
+#{{Nobel abbr|Eko}} [[Trygve Haavelmo]]
+#{{Nobel abbr|Pe}} [[Barack Obama]]
+#{{Nobel abbr|Sas}} [[Bertrand Russell]]
+#{{Nobel abbr|Sas}} [[J. M. Coetzee]]
+|
+#{{Nobel abbr|Fis}} [[Leon M. Lederman]]
+#{{Nobel abbr|Kim}} [[Harold Clayton Urey]]
+|-
+|}
+
+=={{flagicon|USA}} Institur Teknologi Massachusetts==
+
+{| class='wikitable'
+|-
+!Afiliasi <ref group=Catatan name=Afiliasi/>
+!Alumni <ref group=Catatan name=Alumnis/>
+!Peneliti atau Mahasiswa<ref group=Catatan name=attendeesresearch/>
+!Staf akademik sebelum atau pada saat penghargaan <ref group=Catatan name=staff1/>
+!Staf akademik setelah penghargaan <ref group=Catatan name=staff2/>
+|-
+|colspan="5"|[[MIT|Institur Teknologi Massachusetts]]
+|-valign="top"
+|83 (resmi 78)<ref>[http://web.mit.edu/ir/pop/awards/nobel.html MIT Office of the Provost, Institutional Research<!-- Bot generated title -->]</ref><ref>{{cite web | url = http://web.mit.edu/newsoffice/special/nobels.html |archiveurl=http://web.archive.org/web/20071228064902/http://web.mit.edu/newsoffice/special/nobels.html |archivedate=2007-12-28 | title = Institur Teknologi Massachusetts | accessdate = 2006-06-11}}</ref> 
+|
+#{{Nobel abbr|Fis}} [[Adam Riess]]
+#{{Nobel abbr|Fis}} [[Burton Richter]]
+#{{Nobel abbr|Fis}} [[Carl E. Wieman]]
+#{{Nobel abbr|Fis}} [[Eric A. Cornell]]
+#{{Nobel abbr|Fis}} [[George Smoot]]
+#{{Nobel abbr|Fis}} [[Henry W. Kendall]]<ref group=Catatan name=repeat/>
+#{{Nobel abbr|Fis}} [[John Robert Schrieffer]]
+#{{Nobel abbr|Fis}} [[Murray Gell-Mann]]
+#{{Nobel abbr|Fis}} [[Richard P. Feynman]]
+#{{Nobel abbr|Fis}} [[Robert B. Laughlin]]
+#{{Nobel abbr|Fis}} [[William D. Phillips]]
+#{{Nobel abbr|Fis}} [[William Shockley]]
+#{{Nobel abbr|Kim}} [[Charles J. Pedersen]]
+#{{Nobel abbr|Kim}} [[Elias J. Corey Jr.]]
+#{{Nobel abbr|Kim}} [[Robert Burns Woodward]]
+#{{Nobel abbr|Kim}} [[Robert S. Mulliken]]
+#{{Nobel abbr|Kim}} [[Sidney Altman]]
+#{{Nobel abbr|FK}} [[Andrew Fire]]
+#{{Nobel abbr|FK}} [[Leland H. Hartwell]]
+#{{Nobel abbr|Eko}} [[George A. Akerlof]]
+#{{Nobel abbr|Eko}} [[Joseph E. Stiglitz]]
+#{{Nobel abbr|Eko}} [[Lawrence R. Klein]]
+#{{Nobel abbr|Eko}} [[Oliver E. Williamson]]
+#{{Nobel abbr|Eko}} [[Paul R. Krugman]]
+#{{Nobel abbr|Eko}} [[Peter A. Diamond]]
+#{{Nobel abbr|Eko}} [[Robert A. Mundell]]
+#{{Nobel abbr|Eko}} [[Robert C. Merton]]
+#{{Nobel abbr|Eko}} [[Robert J. Aumann]]
+#{{Nobel abbr|Eko}} [[Robert Shiller]]
+#{{Nobel abbr|Pe}} [[Kofi Annan]]
+|
+#{{Nobel abbr|Fis}} [[Daniel C. Tsui]]
+#{{Nobel abbr|Fis}} [[Edward M. Purcell]]
+#{{Nobel abbr|Fis}} [[Hans Albrecht Bethe]]
+#{{Nobel abbr|Fis}} [[Horst L. Strmer]]
+#{{Nobel abbr|Fis}} [[Jack Steinberger]]
+#{{Nobel abbr|Fis}} [[Julian Schwinger]]
+#{{Nobel abbr|Fis}} [[Luis Walter Alvarez|Luis W. Alvarez]]
+#{{Nobel abbr|Fis}} [[Nicolaas Bloembergen]]
+#{{Nobel abbr|Fis}} [[Norman F. Ramsey]]
+#{{Nobel abbr|Fis}} [[Serge Haroche]]<ref name="Serge Haroche CV"/>
+#{{Nobel abbr|Kim}} [[Aaron Ciechanover]]
+#{{Nobel abbr|Kim}} [[Ada E. Yonath]]
+#{{Nobel abbr|Kim}} [[Edwin M. McMillan]]
+#{{Nobel abbr|Kim}} [[Geoffrey Wilkinson]]
+#{{Nobel abbr|Kim}} [[Isidor Isaac Rabi]]
+#{{Nobel abbr|Kim}} [[Thomas R. Cech]]
+#{{Nobel abbr|FK}} [[E. Donnall Thomas]]
+#{{Nobel abbr|FK}} [[Mario Capecchi]]
+#{{Nobel abbr|FK}} [[Paul Greengard]]
+#{{Nobel abbr|Eko}} [[Vernon L. Smith]]
+
+|
+#{{Nobel abbr|Fis}} [[Charles H. Townes]]
+#{{Nobel abbr|Fis}} [[Claude Cohen-Tannoudji]]
+#{{Nobel abbr|Fis}} [[Clifford Shull]]
+#{{Nobel abbr|Fis}} [[Frank Wilczek]]
+#{{Nobel abbr|Fis}} [[Henry W. Kendall]]<ref group=Catatan name=repeat/>
+#{{Nobel abbr|Fis}} [[Jerome I. Friedman]]
+#{{Nobel abbr|Fis}} [[Samuel C.C. Ting]]
+#{{Nobel abbr|Fis}} [[Sheldon Lee Glashow]]
+#{{Nobel abbr|Fis}} [[Steven Weinberg]]
+#{{Nobel abbr|Fis}} [[Wolfgang Ketterle]]
+#{{Nobel abbr|Kim}} [[Derek Barton]]<ref>{{cite web|title=Derek Barton Nobel Bio|url=http://www.nobelprize.org/nobel_prizes/chemistry/laureates/1969/barton-bio.html}}</ref>
+#{{Nobel abbr|Kim}} [[Ernst Otto Fischer]]
+#{{Nobel abbr|Kim}} [[K. Barry Sharpless]]
+#{{Nobel abbr|Kim}} [[Mario J. Molina]]
+#{{Nobel abbr|Kim}} [[Richard R. Schrock]]
+#{{Nobel abbr|FK}} [[David Baltimore]]
+#{{Nobel abbr|FK}} [[H. Robert Horvitz]]
+#{{Nobel abbr|FK}} [[Har Gobind Khorana]]
+#{{Nobel abbr|FK}} [[Phillip A. Sharp]]
+#{{Nobel abbr|FK}} [[Salvador E. Luria]]
+#{{Nobel abbr|FK}} [[Susumu Tonegawa]]
+#{{Nobel abbr|Eko}} [[Amartya Sen]]
+#{{Nobel abbr|Eko}} [[Daniel L. McFadden]]
+#{{Nobel abbr|Eko}} [[Edmund Phelps]]
+#{{Nobel abbr|Eko}} [[Eric S. Maskin]]
+#{{Nobel abbr|Eko}} [[Franco Modigliani]]
+#{{Nobel abbr|Eko}} [[James Mirrlees]]
+#{{Nobel abbr|Eko}} [[John Forbes Nash]]
+#{{Nobel abbr|Eko}} [[Myron S. Scholes]]
+#{{Nobel abbr|Eko}} [[Paul A. Samuelson]]
+#{{Nobel abbr|Eko}} [[Paul R. Krugman]]
+#{{Nobel abbr|Eko}} [[Peter A. Diamond]]
+#{{Nobel abbr|Eko}} [[Robert C. Merton]]
+#{{Nobel abbr|Eko}} [[Robert Engle]]
+#{{Nobel abbr|Eko}} [[Robert M. Solow]]
+#{{Nobel abbr|Eko}} [[James E. Rothman]]
+#{{Nobel abbr|Eko}} [[Lars Peter Hansen]]<ref name="Lars Peter Hanson CV">{{cite web|title=Lars Peter Hanson CV|url=http://home.uchicago.edu/~lhansen/lph-cv.pdf}}</ref>
+
+|
+|-
+|}
+
+=={{flagicon|USA}} Universitas California, Berkeley==
+
+{| class='wikitable'
+|-
+!Afiliasi <ref group=Catatan name=Afiliasi/>
+!Alumni <ref group=Catatan name=Alumnis/>
+!Peneliti atau Mahasiswa<ref group=Catatan name=attendeesresearch/>
+!Staf akademik sebelum atau pada saat penghargaan <ref group=Catatan name=staff1/>
+!Staf akademik setelah penghargaan <ref group=Catatan name=staff2/>
+|-
+|colspan="5"|[[Universitas California, Berkeley]] 
+|-valign="top"
+|69 (resmi 61)<ref name="nobel.universityofcalifornia.edu">{{cite web | url = http://nobel.universityofcalifornia.edu | title = Universitas California - Nobel Laureates | accessdate = 2010-11-06}}</ref> 
+|
+#{{Nobel abbr|Fis}} [[Adam Riess]]
+#{{Nobel abbr|Fis}} [[David Gross]]
+#{{Nobel abbr|Fis}} [[David J. Wineland]]
+#{{Nobel abbr|Fis}} [[John C. Mather]]
+#{{Nobel abbr|Fis}} [[Robert B. Laughlin]]
+#{{Nobel abbr|Fis}} [[Saul Perlmutter]]
+#{{Nobel abbr|Fis}} [[Steven Chu]]
+#{{Nobel abbr|Fis}} [[Owen Chamberlain]]
+#{{Nobel abbr|Fis}} [[Willis E. Lamb]]
+#{{Nobel abbr|Kim}} [[Alan J. Heeger]]
+#{{Nobel abbr|Kim}} [[Glenn T. Seaborg]]
+#{{Nobel abbr|Kim}} [[Harold C. Urey]]
+#{{Nobel abbr|Kim}} [[Henry Taube]]
+#{{Nobel abbr|Kim}} [[Kary B. Mullis]]
+#{{Nobel abbr|Kim}} [[Mario J. Molina]]
+#{{Nobel abbr|Kim}} [[Robert Curl]]
+#{{Nobel abbr|Kim}} [[Thomas R. Cech]]
+#{{Nobel abbr|Kim}} [[Willard F. Libby]]
+#{{Nobel abbr|Kim}} [[William F. Giauque]]
+#{{Nobel abbr|Kim}} [[Yuan T. Lee]]
+#{{Nobel abbr|FK}} [[Andrew Fire]]
+#{{Nobel abbr|FK}} [[Carol W. Greider]]
+#{{Nobel abbr|FK}} [[Hamilton O. Smith]]
+#{{Nobel abbr|FK}} [[Joseph Erlanger]]
+#{{Nobel abbr|FK}} [[Selman Waksman]]
+#{{Nobel abbr|Eko}} [[Daniel Kahneman]]
+#{{Nobel abbr|Eko}} [[Lawrence R. Klein]]
+#{{Nobel abbr|Eko}} [[Douglass C. North]]
+#{{Nobel abbr|Eko}} [[Thomas J. Sargent]]
+#{{Nobel abbr|Eko}} [[Thomas Schelling]]
+|
+#{{Nobel abbr|Fis}} [[Adam Riess]]
+#{{Nobel abbr|Fis}} [[Felix Bloch]]
+#{{Nobel abbr|Fis}} [[Jack Steinberger]]
+#{{Nobel abbr|Fis}} [[Julian Schwinger]]
+#{{Nobel abbr|Fis}} [[Steven Weinberg]]
+#{{Nobel abbr|Fis}} [[Tsung-Dao Lee]]
+#{{Nobel abbr|Kim}} [[Ahmed Zewail]]
+#{{Nobel abbr|Kim}} [[Geoffrey Wilkinson]]
+#{{Nobel abbr|Kim}} [[Yuan T. Lee]]
+#{{Nobel abbr|FK}} [[Arthur Kornberg]]
+#{{Nobel abbr|FK}} [[Maurice Wilkins]]
+#{{Nobel abbr|FK}} [[Sydney Brenner]]
+#{{Nobel abbr|FK}} [[Werner Arber]]
+#{{Nobel abbr|Eko}} [[Amartya Sen]]
+#{{Nobel abbr|Eko}} [[William Forsyth Sharpe|William F. Sharpe]]
+|
+#{{Nobel abbr|Fis}} [[Donald A. Glaser]]
+#{{Nobel abbr|Fis}} [[Emilio Segr]]
+#{{Nobel abbr|Fis}} [[Ernest O. Lawrence]]
+#{{Nobel abbr|Fis}} [[George Smoot]]
+#{{Nobel abbr|Fis}} [[Luis Walter Alvarez|Luis W. Alvarez]]
+#{{Nobel abbr|Fis}} [[Owen Chamberlain]]
+#{{Nobel abbr|Fis}} [[Saul Perlmutter]]
+#{{Nobel abbr|Fis}} [[Otto Stern]]
+#{{Nobel abbr|Fis}} [[Sheldon Lee Glashow]]
+#{{Nobel abbr|Kim}} [[Dudley R. Herschbach]]
+#{{Nobel abbr|Kim}} [[Edwin M. McMillan]]
+#{{Nobel abbr|Kim}} [[Glenn T. Seaborg]]
+#{{Nobel abbr|Kim}} [[John H. Northrop]]
+#{{Nobel abbr|Kim}} [[Melvin Calvin]]
+#{{Nobel abbr|Kim}} [[Roger Y. Tsien]]
+#{{Nobel abbr|Kim}} [[Willard F. Libby]]
+#{{Nobel abbr|Kim}} [[William F. Giauque]]
+#{{Nobel abbr|Kim}} [[Yuan T. Lee]]
+#{{Nobel abbr|FK}} [[Elizabeth Blackburn]]
+#{{Nobel abbr|FK}} [[Stanley B. Prusiner]]
+#{{Nobel abbr|FK}} [[Randy Schekman]]
+#{{Nobel abbr|Eko}} [[Daniel Kahneman]]
+#{{Nobel abbr|Eko}} [[Daniel McFadden]]
+#{{Nobel abbr|Eko}} [[George A. Akerlof]]
+#{{Nobel abbr|Eko}} [[Grard Debreu]]
+#{{Nobel abbr|Eko}} [[Herbert A. Simon]]
+#{{Nobel abbr|Eko}} [[John C. Harsanyi]]
+#{{Nobel abbr|Eko}} [[Oliver Williamson]]
+#{{Nobel abbr|Eko}} [[Peter A. Diamond]]
+#{{Nobel abbr|Eko}} [[Christopher Sims]]
+#{{Nobel abbr|Sas}} [[Czeslaw Milosz]]
+|
+#{{Nobel abbr|Fis}} [[Steven Chu]]
+#{{Nobel abbr|Fis}} [[Charles H. Townes]]
+#{{Nobel abbr|Kim}} [[Wendell M. Stanley]]
+|-
+|}
+
+=={{flagicon|GBR}} Universitas Oxford==
+
+{| class='wikitable'
+|-
+!Afiliasi <ref group=Catatan name=Afiliasi/>
+!Alumni <ref group=Catatan name=Alumnis/>
+!Peneliti atau Mahasiswa<ref group=Catatan name=attendeesresearch/>
+!Staf akademik sebelum atau pada saat penghargaan <ref group=Catatan name=staff1/>
+!Staf akademik setelah penghargaan <ref group=Catatan name=staff2/>
+|-
+|colspan="5"|Hitungan resmi [[Universitas Oxford]] tidak mencakup afiliasi yang diberikan gelar kehormatan oleh universitas maupun orang-orang yang menghadiri Oxford setelah menerima hadiah Nobel.<ref name="Oxford">{{cite web | url = http://www.ox.ac.uk/about_the_university/oxford_people/oxonian_award_winners/| title = Oxford - Nobel Laureates | accessdate = 2013-12-16}}</ref>
+|-valign="top"
+|58 (resmi 51)<ref name="Oxford" />
+|
+#{{Nobel abbr|Fis}} [[Anthony J. Leggett]]
+#{{Nobel abbr|Fis}} [[Frederick Soddy]]
+#{{Nobel abbr|Fis}} [[Martin Ryle]]
+#{{Nobel abbr|Kim}} [[Cyril Norman Hinshelwood]]
+#{{Nobel abbr|Kim}} [[Dorothy Hodgkin]]
+#{{Nobel abbr|Kim}} [[John Cornforth]]
+#{{Nobel abbr|Kim}} [[John E. Walker]]
+#{{Nobel abbr|FK}} [[Baruch S. Blumberg]]
+#{{Nobel abbr|FK}} [[Howard Florey|Howard Walter Florey]]
+#{{Nobel abbr|FK}} [[John Carew Eccles]]
+#{{Nobel abbr|FK}} [[John Gurdon]]<ref group=Catatan name=repeat/>
+#{{Nobel abbr|FK}} [[John Vane]]
+#{{Nobel abbr|FK}} [[Oliver Smithies]]
+#{{Nobel abbr|FK}} [[Peter Medawar]]
+#{{Nobel abbr|FK}} [[Sydney Brenner]]
+#{{Nobel abbr|Eko}} [[Gunnar Myrdal]]
+#{{Nobel abbr|Eko}} [[James Meade]]
+#{{Nobel abbr|Eko}} [[John Hicks]]
+#{{Nobel abbr|Eko}} [[Michael Spence]]
+#{{Nobel abbr|Pe}} [[Aung San Suu Kyi]]
+#{{Nobel abbr|Pe}} [[Cecil of Chelwood]]
+#{{Nobel abbr|Pe}} [[Lester B. Pearson]]
+#{{Nobel abbr|Sas}} [[John Galsworthy]]
+#{{Nobel abbr|Sas}} [[T. S. Eliot]]
+#{{Nobel abbr|Sas}} [[V. S. Naipaul]]
+#{{Nobel abbr|Sas}} [[William Golding]]
+
+|
+|
+#{{Nobel abbr|Fis}} [[Erwin Schrdinger]]
+#{{Nobel abbr|Fis}} [[John H. van Vleck]]
+#{{Nobel abbr|Fis}} [[Klaus von Klitzing]]
+#{{Nobel abbr|Fis}} [[Norman Ramsey]]
+#{{Nobel abbr|Kim}} [[Ahmed Zewail]]
+#{{Nobel abbr|Kim}} [[Alexander R. Todd|Alexander Todd]]
+#{{Nobel abbr|Kim}} [[Linus Pauling]]
+#{{Nobel abbr|Kim}} [[Paul Crutzen]]
+#{{Nobel abbr|Kim}} [[Robert Mulliken]]
+#{{Nobel abbr|Kim}} [[Robert Robinson (kimiawan organik)|Robert Robinson]]
+#{{Nobel abbr|Kim}} [[Rudolph A. Marcus]]
+#{{Nobel abbr|FK}} [[Charles Sherrington]]
+#{{Nobel abbr|FK}} [[Ernest Chain]]
+#{{Nobel abbr|FK}} [[George Wells Beadle]]
+#{{Nobel abbr|FK}} [[John Gurdon]]
+#{{Nobel abbr|FK}} [[Nikolaas Tinbergen]]
+#{{Nobel abbr|FK}} [[Paul Nurse]]
+#{{Nobel abbr|FK}} [[Rodney Porter]]
+#{{Nobel abbr|FK}} [[Severo Ochoa]]
+#{{Nobel abbr|Eko}} [[Amartya Sen]]
+#{{Nobel abbr|Eko}} [[James Mirrlees]]
+#{{Nobel abbr|Eko}} [[Joseph Stiglitz]]
+#{{Nobel abbr|Eko}} [[Lawrence Klein]]
+#{{Nobel abbr|Eko}} [[Robert Solow]]
+#{{Nobel abbr|Pe}} [[Jos Ramos-Horta]]
+#{{Nobel abbr|Pe}} [[Linus Pauling]]<ref group=Catatan name=repeat2/>
+#{{Nobel abbr|Sas}} [[Seamus Heaney]]
+|
+#{{Nobel abbr|Fis}} [[Arthur Compton]]
+#{{Nobel abbr|Fis}} [[Philip Warren Anderson]]
+#{{Nobel abbr|Fis}} [[William D. Phillips]]
+#{{Nobel abbr|Fis}} [[Willis E. Lamb]]
+#{{Nobel abbr|Kim}} [[Harold Urey]]
+#{{Nobel abbr|Kim}} [[Melvin Calvin]]
+|-
+|}
+
+=={{flagicon|USA}} Universitas Stanford==
+
+{| class='wikitable'
+|-
+!Afiliasi <ref group=Catatan name=Afiliasi/>
+!Alumni <ref group=Catatan name=Alumnis/>
+!Peneliti atau Mahasiswa<ref group=Catatan name=attendeesresearch/>
+!Staf akademik sebelum atau pada saat penghargaan <ref group=Catatan name=staff1/>
+!Staf akademik setelah penghargaan <ref group=Catatan name=staff2/>
+|-
+|colspan="5"|[[Universitas Stanford]]: Jumlah resminya adalah 27, tetapi hanya mencakup afiliasi yang aktif.<ref name="Stanford Nobel">{{cite web|url=http://news.stanford.edu/nobel/|title=Stanford Nobel laureates|work=Universitas Stanford|accessdate=3 April 2013}}</ref>
+|-valign="top"
+|58 (resmi 27)<ref name="Stanford Nobel"/>
+|
+#{{Nobel abbr|Fis}} [[Carl E. Wieman]]
+#{{Nobel abbr|Fis}} [[Eric A. Cornell]]
+#{{Nobel abbr|Fis}} [[Richard E. Taylor]]
+#{{Nobel abbr|Kim}} [[K. Barry Sharpless]]
+#{{Nobel abbr|Kim}} [[Dudley R. Herschbach]]
+#{{Nobel abbr|Kim}} [[Roger D. Kornberg]]<ref group=Catatan name=repeat/>
+#{{Nobel abbr|FK}} [[Randy Schekman]]
+#{{Nobel abbr|Eko}} [[Alvin E. Roth]]<ref group=Catatan name=repeat/>
+#{{Nobel abbr|Eko}} [[John C. Harsanyi]]
+#{{Nobel abbr|Eko}} [[Oliver E. Williamson]]
+|
+#{{Nobel abbr|Fis}} [[Jerome Isaac Friedman]]
+#{{Nobel abbr|Fis}} [[Kenneth G. Wilson]]
+#{{Nobel abbr|Fis}} [[Martinus J.G. Veltman]]
+#{{Nobel abbr|FK}} [[Paul Lauterbur]]
+#{{Nobel abbr|Eko}} [[Douglass North]]
+#{{Nobel abbr|Eko}} [[Gary Becker]]
+#{{Nobel abbr|Eko}} [[Grard Debreu]]
+#{{Nobel abbr|Eko}} [[Milton Friedman]]
+#{{Nobel abbr|Eko}} [[Tjalling C. Koopmans]]
+#{{Nobel abbr|Sas}} [[John Steinbeck]]
+
+|
+#{{Nobel abbr|Fis}} [[Arthur Schawlow]]
+#{{Nobel abbr|Fis}} [[Burton Richter]]
+#{{Nobel abbr|Fis}} [[Douglas Osheroff]]
+#{{Nobel abbr|Fis}} [[Felix Bloch]]
+#{{Nobel abbr|Fis}} [[Henry W. Kendall]]
+#{{Nobel abbr|Fis}} [[Martin Perl]]
+#{{Nobel abbr|Fis}} [[Melvin Schwartz]]
+#{{Nobel abbr|Fis}} [[Richard E. Taylor]]
+#{{Nobel abbr|Fis}} [[Robert Hofstadter]]
+#{{Nobel abbr|Fis}} [[Robert Laughlin]]
+#{{Nobel abbr|Fis}} [[Serge Haroche]]<ref name="Serge Haroche CV"/>
+#{{Nobel abbr|Fis}} [[Sheldon Glashow]]
+#{{Nobel abbr|Fis}} [[Steven Chu]]
+#{{Nobel abbr|Fis}} [[Theodor W. Hnsch]]
+#{{Nobel abbr|Fis}} [[Willis E. Lamb Jr.]]
+#{{Nobel abbr|Kim}} [[Brian Kobilka]]
+#{{Nobel abbr|Kim}} [[Roger Kornberg]]<ref group=Catatan name=repeat/>
+#{{Nobel abbr|Kim}} [[Michael Levitt]]
+#{{Nobel abbr|Kim}} [[Henry Taube]]
+#{{Nobel abbr|Kim}} [[Paul Berg]]
+#{{Nobel abbr|Kim}} [[Paul Flory]]
+#{{Nobel abbr|Kim}} [[Robert H. Grubbs]]
+#{{Nobel abbr|FK}} [[Andrew Fire]]
+#{{Nobel abbr|FK}} [[Arthur Kornberg]]
+#{{Nobel abbr|FK}} [[Edward Lawrie Tatum]]
+#{{Nobel abbr|FK}} [[Ferid Murad]]
+#{{Nobel abbr|FK}} [[George Wells Beadle]]
+#{{Nobel abbr|FK}} [[James E. Rothman]]
+#{{Nobel abbr|FK}} [[Thomas C. Sdhof]]
+#{{Nobel abbr|Eko}} [[A. Michael Spence]]
+#{{Nobel abbr|Eko}} [[Alvin E. Roth]]<ref group=Catatan name=repeat/>
+#{{Nobel abbr|Eko}} [[Joseph E. Stiglitz]]
+#{{Nobel abbr|Eko}} [[Myron Scholes]]
+#{{Nobel abbr|Eko}} [[Thomas J. Sargent]]
+#{{Nobel abbr|Eko}} [[Vernon L. Smith]]
+#{{Nobel abbr|Eko}} [[William F. Sharpe]]
+#{{Nobel abbr|Eko}} [[Kenneth J. Arrow]]<ref group=Catatan name=repeat/>
+|
+#{{Nobel abbr|Fis}} [[William Shockley]]
+#{{Nobel abbr|Kim}} [[Linus Pauling]]<br />{{Nobel abbr|Pe}} [[Linus Pauling]]<ref group=Catatan name=repeat2/>
+#{{Nobel abbr|FK}} [[Joshua Lederberg]]
+#{{Nobel abbr|Eko}} [[Kenneth J. Arrow]]<ref group=Catatan name=repeat/>
+|-
+|}
+
+=={{flagicon|USA}} Universitas Yale==
+
+{| class='wikitable'
+|-
+!Afiliasi <ref group=Catatan name=Afiliasi/>
+!Alumni <ref group=Catatan name=Alumnis/>
+!Peneliti atau Mahasiswa<ref group=Catatan name=attendeesresearch/>
+!Staf akademik sebelum atau pada saat penghargaan <ref group=Catatan name=staff1/>
+!Staf akademik setelah penghargaan <ref group=Catatan name=staff2/>
+|-
+|colspan="5"|[[Universitas Yale]]
+|-valign="top"
+|52 (resmi 25)<ref>{{cite web | url =http://www.library.yale.edu/mssa/YHO/nobel_winners.pdf| title = NOBEL PRIZES AWARDED TO YALE ALUMNI AND FACULTY, 1934-2006  | accessdate = 2013-12-16}}</ref>
+|
+#{{Nobel abbr|Fis}} [[David Lee (physicist)|David Lee]]
+#{{Nobel abbr|Fis}} [[Ernest O. Lawrence]]
+#{{Nobel abbr|Fis}} [[Murray Gell-Mann]]
+#{{Nobel abbr|Fis}} [[Raymond Davis Jr.|Raymond Davis]]
+#{{Nobel abbr|Kim}} [[Brian Kobilka]]
+#{{Nobel abbr|Kim}} [[John B. Fenn]]
+#{{Nobel abbr|Kim}} [[Lars Onsager]]
+#{{Nobel abbr|FK}} [[George Hoyt Whipple]]
+#{{Nobel abbr|FK}} [[Alfred G. Gilman]]
+#{{Nobel abbr|FK}} [[Dickinson W. Richards]]
+#{{Nobel abbr|FK}} [[Eric F. Wieschaus]]
+#{{Nobel abbr|FK}} [[James Rothman]]
+#{{Nobel abbr|FK}} [[John F. Enders]]
+#{{Nobel abbr|FK}} [[Joshua Lederberg]]
+#{{Nobel abbr|Eko}} [[Edmund Phelps]]
+#{{Nobel abbr|Eko}} [[George Akerlof]]
+#{{Nobel abbr|Eko}} [[Paul R. Krugman]]
+#{{Nobel abbr|Eko}} [[Peter A. Diamond]]
+#{{Nobel abbr|Eko}} [[William Vickrey]]
+#{{Nobel abbr|Sas}} [[Sinclair Lewis]]
+|
+#{{Nobel abbr|Kim}} [[Venkatraman Ramakrishnan]]
+#{{Nobel abbr|FK}} [[Elizabeth Blackburn]]
+#{{Nobel abbr|FK}} [[Erwin Neher]]
+Cowles Foundation:
+#{{Nobel abbr|Eko}} [[Harry M. Markowitz]]
+#{{Nobel abbr|Eko}} [[Herbert A. Simon]]
+#{{Nobel abbr|Eko}} [[James Heckman]]
+#{{Nobel abbr|Eko}} [[John Harsanyi]]
+#{{Nobel abbr|Eko}} [[Joseph Stiglitz]]<ref group=Catatan name=repeat/>
+#{{Nobel abbr|Eko}} [[Robert J. Aumann]]
+#{{Nobel abbr|Eko}} [[Christopher Sims]]
+|
+#{{Nobel abbr|Fis}} [[Charles K. Kao]]
+#{{Nobel abbr|Fis}} [[J. J. Thomson]]
+#{{Nobel abbr|Fis}} [[Serge Haroche]]<ref name="Serge Haroche CV"/>
+#{{Nobel abbr|Kim}} [[Irwin Rose]]
+#{{Nobel abbr|Kim}} [[John B. Fenn]]
+#{{Nobel abbr|Kim}} [[Lars Onsager]]
+#{{Nobel abbr|Kim}} [[Sidney Altman]]
+#{{Nobel abbr|Kim}} [[Thomas A. Steitz]]
+#{{Nobel abbr|FK}} [[Edward Lawrie Tatum]]
+#{{Nobel abbr|FK}} [[George Palade]]
+#{{Nobel abbr|FK}} [[John Vane]]
+#{{Nobel abbr|FK}} [[Paul Greengard]]
+#{{Nobel abbr|FK}} [[James Rothman]]
+#{{Nobel abbr|Eko}} [[Daniel L. McFadden]]
+#{{Nobel abbr|Eko}} [[Grard Debreu]]
+#{{Nobel abbr|Eko}} [[James Tobin]]
+#{{Nobel abbr|Eko}} [[Joseph Stiglitz]]
+#{{Nobel abbr|Eko}} [[Oliver E. Williamson]]
+#{{Nobel abbr|Eko}} [[Paul R. Krugman]]
+#{{Nobel abbr|Eko}} [[Thomas Schelling]]
+#{{Nobel abbr|Eko}} [[Tjalling Koopmans]]
+#{{Nobel abbr|Eko}} [[Robert Shiller]]
+#{{Nobel abbr|Pe}} [[Philip Noel-Baker]]
+#{{Nobel abbr|Pe}} [[Wangari Maathai]]
+#{{Nobel abbr|Sas}} [[Toni Morrison]]
+|
+#{{Nobel abbr|Fis}} [[Willis E. Lamb]]
+#{{Nobel abbr|FK}} [[Max Theiler]]
+|-
+|}
+
+=={{flagicon|FRA}} Universitas Paris==
+
+{| class='wikitable'
+|-
+!Afiliasi <ref group=Catatan name=Afiliasi/>
+!Alumni <ref group=Catatan name=Alumnis/>
+!Peneliti atau Mahasiswa<ref group=Catatan name=attendeesresearch/>
+!Staf akademik sebelum atau pada saat penghargaan <ref group=Catatan name=staff1/>
+!Staf akademik setelah penghargaan <ref group=Catatan name=staff2/>
+|-
+|colspan="5"|[[Universitas Paris]]: termasuk Universities Paris I-XIII.
+|-valign="top"
+|51 
+|
+#{{Nobel abbr|Fis}} [[Albert Fert]] (PhD 1963)
+#{{Nobel abbr|Fis}} [[Alfred Kastler]] (DSc 1936)
+#{{Nobel abbr|Fis}} [[Claude Cohen-Tannoudji]] (DSc 1962)
+#{{Nobel abbr|Fis}} [[Gabriel Lippmann]] (DSc 1875)
+#{{Nobel abbr|Fis}} [[Georges Charpak]] (DSc 1955)
+#{{Nobel abbr|Fis}} [[Henri Becquerel]] (DSc 1888)
+#{{Nobel abbr|Fis}} [[Jean Perrin]] (DSc 1897)
+#{{Nobel abbr|Fis}} [[Louis Nel]] (MSc 1927)
+#{{Nobel abbr|Fis}} [[Louis de Broglie]] (DSc 1924)
+#{{Nobel abbr|Fis}} [[Marie Curie]](DSc 1903).<ref group=Catatan name=repeat/><br />{{Nobel abbr|Kim}} [[Marie Curie]]<ref group=Catatan name=repeat2/>
+#{{Nobel abbr|Fis}} [[Pierre Curie]] (DSc 1895)
+#{{Nobel abbr|Fis}} [[Pierre-Gilles de Gennes]] (DSc 1957)
+#{{Nobel abbr|Fis}} [[Serge Haroche]] (PhD 1967 ; DSc 1971)
+#{{Nobel abbr|Kim}} [[Frdric Joliot-Curie]] (DSc 1930)
+#{{Nobel abbr|Kim}} [[Henri Moissan]] (DSc 1880)
+#{{Nobel abbr|Kim}} [[Irne Joliot-Curie]] (DSc 1924) <ref group=Catatan name=repeat/>
+#{{Nobel abbr|Kim}} [[Paul Sabatier (kimiawan)|Paul Sabatier]] (DSc 1880)
+#{{Nobel abbr|FK}} [[Andr Frdric Cournand]] (MD 1930)
+#{{Nobel abbr|FK}} [[Andr Lwoff]] (MD 1927 DSc 1932)
+#{{Nobel abbr|FK}} [[Charles Nicolle]] (MD 1893)
+#{{Nobel abbr|FK}} [[Charles Richet]] (MD 1877 ; DSc 1878)
+#{{Nobel abbr|FK}} [[Franois Jacob]] (MD 1947)
+#{{Nobel abbr|FK}} [[Franoise Barr-Sinoussi]] (PhD 1974)
+#{{Nobel abbr|FK}} [[Jacques Monod]] (DSc 1941)
+#{{Nobel abbr|FK}} [[Jean Dausset]] (MD 1945)
+#{{Nobel abbr|FK}} [[Luc Montagnier]] (MD)
+#{{Nobel abbr|Eko}} [[Grard Debreu]] (DSc 1956)
+#{{Nobel abbr|Eko}} [[Maurice Allais]] (D.Eng. 1949)
+#{{Nobel abbr|Pe}} [[Ferdinand Buisson]] (DLitt 1891)
+#{{Nobel abbr|Pe}} [[Frdric Passy]] (LLB)
+#{{Nobel abbr|Pe}} [[Louis Renault (1843-1918)|Louis Renault]] (DCL)
+#{{Nobel abbr|Pe}} [[Lon Bourgeois]] (DCL 1876)
+#{{Nobel abbr|Pe}} [[Paul-Henri-Benjamin d'Estournelles de Constant]] (LLB)
+#{{Nobel abbr|Pe}} [[Ren Cassin]] (DCL 1914)
+#{{Nobel abbr|Sas}} [[Giorgos Seferis]] (LLB)
+#{{Nobel abbr|Sas}} [[Henri Bergson]] (BA 1880)
+#{{Nobel abbr|Sas}} [[Jean-Paul Sartre]] (BA 1927) (menolak Penghargaan)
+#{{Nobel abbr|Sas}} [[Romain Rolland]] (D Litt 1895)
+
+|
+#{{Nobel abbr|Fis}} [[Gerhard Ertl]]
+#{{Nobel abbr|Kim}} [[Jacobus Henricus van 't Hoff]]
+#{{Nobel abbr|FK}} [[Jules Bordet]]
+#{{Nobel abbr|FK}} [[Roger Guillemin]]
+#{{Nobel abbr|Pe}} [[Albert Schweitzer]]
+#{{Nobel abbr|Pe}} [[Charles Albert Gobat]]
+#{{Nobel abbr|Pe}} [[Lon Jouhaux]]
+#{{Nobel abbr|Sas}} [[Franois Mauriac]]
+#{{Nobel abbr|Sas}} [[Odysseus Elytis]]
+#{{Nobel abbr|Sas}} [[Roger Martin du Gard]]
+#{{Nobel abbr|Sas}} [[Samuel Beckett]]
+#{{Nobel abbr|Sas}} [[T.S. Eliot]]
+
+|
+#{{Nobel abbr|Fis}} [[Albert Fert]]
+#{{Nobel abbr|Fis}} [[Alfred Kastler]]
+#{{Nobel abbr|Fis}} [[Gabriel Lippmann]]
+#{{Nobel abbr|Fis}} [[Jean Perrin]]
+#{{Nobel abbr|Fis}} [[Louis de Broglie]]
+#{{Nobel abbr|Kim}} [[Marie Curie]].<ref group=Catatan name=repeat/><br />{{Nobel abbr|Fis}} [[Marie Curie]]<ref group=Catatan name=repeat2/>
+#{{Nobel abbr|Kim}} [[Henri Moissan]]
+#{{Nobel abbr|Kim}} [[Irne Joliot-Curie]] <ref group=Catatan name=repeat/>
+#{{Nobel abbr|FK}} [[Charles Richet]]
+#{{Nobel abbr|FK}} [[Franois Jacob]]
+#{{Nobel abbr|FK}} [[Jacques Monod]]
+#{{Nobel abbr|FK}} [[Jean Dausset]]
+#{{Nobel abbr|Pe}} [[Louis Renault (1843-1918)|Louis Renault]]
+
+|
+#{{Nobel abbr|Fis}} [[George Smoot]]
+|-
+|}
+
+=={{flagicon|GER}} Georg August University of Gttingen==
+
+{| class='wikitable'
+|-
+!Afiliasi <ref group=Catatan name=Afiliasi/>
+!Alumni <ref group=Catatan name=Alumnis/>
+!Peneliti atau Mahasiswa<ref group=Catatan name=attendeesresearch/>
+!Staf akademik sebelum atau pada saat penghargaan <ref group=Catatan name=staff1/>
+!Staf akademik setelah penghargaan <ref group=Catatan name=staff2/>
+|-
+|colspan="5"|[[Georg August University of Gttingen]]
+|-valign="top"
+|46 (resmi 44)<ref>{{cite web | url = http://webdoc.sub.gwdg.de/ebook/a/2002/nobelcd/html/intro.htm | title = Gttingen | accessdate = 2011-06-11}}</ref>
+|
+#{{Nobel abbr|Fis}} [[Hans G. Dehmelt]]
+#{{Nobel abbr|Fis}} [[Herbert Kroemer]]
+#{{Nobel abbr|Fis}} [[Maria Goeppert-Mayer]]
+#{{Nobel abbr|Fis}} [[Max von Laue]]
+#{{Nobel abbr|Fis}} [[Werner Heisenberg]]
+#{{Nobel abbr|Kim}} [[Adolf Butenandt]]
+#{{Nobel abbr|Kim}} [[Irving Langmuir]]
+#{{Nobel abbr|Kim}} [[Manfred Eigen]]
+#{{Nobel abbr|Kim}} [[Walter Haworth]]
+#{{Nobel abbr|FK}} [[Max Delbrck]]
+#{{Nobel abbr|FK}} [[Robert Koch]]
+#{{Nobel abbr|FK}} [[lie Metchnikoff]]
+#{{Nobel abbr|FK}} [[Thomas C. Sdhof]]
+#{{Nobel abbr|Pe}} [[Ludwig Quidde]]
+#{{Nobel abbr|Sas}} [[Rudolf Eucken]]
+|
+#{{Nobel abbr|Fis}} [[Enrico Fermi]]
+#{{Nobel abbr|Fis}} [[Gustav Ludwig Hertz]]
+#{{Nobel abbr|Fis}} [[Paul Dirac]]
+#{{Nobel abbr|Fis}} [[Robert A. Millikan]]
+#{{Nobel abbr|Kim}} [[Gerhard Herzberg]]
+#{{Nobel abbr|Kim}} [[Theodore William Richards]]
+#{{Nobel abbr|Kim}} [[Thomas A. Steitz]]
+#{{Nobel abbr|FK}} [[Carol Greider]]
+#{{Nobel abbr|FK}} [[Hans Adolf Krebs|Hans Krebs]]
+|
+#{{Nobel abbr|Fis}} [[Eugene P. Wigner]]
+#{{Nobel abbr|Fis}} [[James Franck]]
+#{{Nobel abbr|Fis}} [[Johannes Stark]]
+#{{Nobel abbr|Fis}} [[Manne Siegbahn]]
+#{{Nobel abbr|Fis}} [[Max Born]]
+#{{Nobel abbr|Fis}} [[Max Planck]]
+#{{Nobel abbr|Fis}} [[Otto Stern]]
+#{{Nobel abbr|Fis}} [[Patrick Blackett]]
+#{{Nobel abbr|Fis}} [[Walther Bothe]]
+#{{Nobel abbr|Fis}} [[Wilhelm Wien]]
+#{{Nobel abbr|Fis}} [[Wolfgang Paul]]
+#{{Nobel abbr|Fis}} [[Wolfgang Pauli]]
+#{{Nobel abbr|Kim}} [[Adolf Windaus]]
+#{{Nobel abbr|Kim}} [[Otto Hahn]]
+#{{Nobel abbr|Kim}} [[Otto Wallach]]
+#{{Nobel abbr|Kim}} [[Peter Debye]]
+#{{Nobel abbr|Kim}} [[Richard Adolf Zsigmondy]]
+#{{Nobel abbr|Kim}} [[Walther Nernst]]
+#{{Nobel abbr|FK}} [[Bert Sakmann]]
+#{{Nobel abbr|FK}} [[Erwin Neher]]
+#{{Nobel abbr|FK}} [[Paul Ehrlich]]
+#{{Nobel abbr|Pe}} [[Nathan Sderblom]]
+|
+#{{Nobel abbr|FK}} [[Erwin Neher]]
+|}
+
+=={{flagicon|USA}} Universitas Cornell==
+{| class='wikitable'
+|-
+!Afiliasi <ref group=Catatan name=Afiliasi/>
+!Alumni <ref group=Catatan name=Alumnis/>
+!Peneliti atau Mahasiswa<ref group=Catatan name=attendeesresearch/>
+!Staf akademik sebelum atau pada saat penghargaan <ref group=Catatan name=staff1/>
+!Staf akademik setelah penghargaan <ref group=Catatan name=staff2/>
+|-
+|colspan="5"|[[Universitas Cornell]]
+|-valign="top"
+|43 (41 resmi)<ref>{{cite web | url = http://www.news.cornell.edu/campus/Nobel_Laureates_at_CUk1.shtml | title = Nobel Laureates Affiliated with Universitas Cornell | accessdate = 2013-12-20}}</ref>
+|
+#{{Nobel abbr|Fis}} [[Douglas D. Osheroff]]
+#{{Nobel abbr|Fis}} [[Isidor Isaac Rabi]]
+#{{Nobel abbr|Fis}} [[Sheldon Lee Glashow]]
+#{{Nobel abbr|Fis}} [[Steven Weinberg]]
+#{{Nobel abbr|FK}} [[Barbara McClintock]]
+#{{Nobel abbr|FK}} [[George Wells Beadle]]
+#{{Nobel abbr|FK}} [[Jack W. Szostak]]
+#{{Nobel abbr|FK}} [[Robert W. Holley]]
+#{{Nobel abbr|Eko}} [[Robert F. Engle]]
+#{{Nobel abbr|Eko}} [[Robert Fogel]]
+#{{Nobel abbr|Sas}} [[Pearl S. Buck]]
+#{{Nobel abbr|Sas}} [[Toni Morrison]]
+#{{Nobel abbr|Pe}} [[John R. Mott]]
+|
+#{{Nobel abbr|FK}} [[Hermann J. Muller]]
+|
+#{{Nobel abbr|Fis}} [[Robert Coleman Richardson]]
+#{{Nobel abbr|Fis}} [[Franois Englert]] 
+#{{Nobel abbr|Fis}} [[David Lee (physicist)|David Lee]]
+#{{Nobel abbr|Fis}} [[Hans Albrecht Bethe]]
+#{{Nobel abbr|Fis}} [[John Robert Schrieffer]]
+#{{Nobel abbr|Fis}} [[Kenneth G. Wilson]]
+#{{Nobel abbr|Fis}} [[Pierre-Gilles de Gennes]]
+#{{Nobel abbr|Fis}} [[Richard P. Feynman]]
+#{{Nobel abbr|Kim}} [[Henry Taube]]
+#{{Nobel abbr|Kim}} [[James B. Sumner]]
+#{{Nobel abbr|Kim}} [[Paul Flory]]
+#{{Nobel abbr|Kim}} [[Roald Hoffman]]
+#{{Nobel abbr|Kim}} [[Vincent du Vigneaud]]
+#{{Nobel abbr|FK}} [[Fritz Lipmann]]
+#{{Nobel abbr|FK}} [[Haldan Keffer Hartline]]
+#{{Nobel abbr|FK}} [[Herbert Spencer Gasser]]
+#{{Nobel abbr|FK}} [[Paul Greengard]]
+#{{Nobel abbr|FK}} [[Peter Medawar]]
+#{{Nobel abbr|FK}} [[Robert F. Furchgott]]
+#{{Nobel abbr|FK}} [[Robert W. Holley]]
+#{{Nobel abbr|Eko}} [[Amartya Sen]]
+#{{Nobel abbr|Sas}} [[Octavio Paz]]
+#{{Nobel abbr|Sas}} [[Wole Soyinka]]
+|
+#{{Nobel abbr|Fis}} [[Hannes Alfvn]]
+#{{Nobel abbr|Kim}} [[Manfred Eigen]]
+#{{Nobel abbr|Kim}} [[Peter Debye]]
+#{{Nobel abbr|Kim}} [[Richard R. Ernst]]
+#{{Nobel abbr|FK}} [[Har Gobind Khorana]]
+#{{Nobel abbr|Pe}} [[Norman Borlaug]]
+|-
+|}
+
+=={{flagicon|GER}} Universitas Heidelberg==
+
+{| class='wikitable'
+|-
+!Afiliasi <ref group=Catatan name=Afiliasi/>
+!Alumni <ref group=Catatan name=Alumnis/>
+!Peneliti atau Mahasiswa<ref group=Catatan name=attendeesresearch/>
+!Staf akademik sebelum atau pada saat penghargaan <ref group=Catatan name=staff1/>
+!Staf akademik setelah penghargaan <ref group=Catatan name=staff2/>
+|-
+|colspan="5"|[[Heidelberg University|Universitas Heidelberg]]
+|-valign="top"
+|41 (resmi 32)<ref>{{cite web | url = http://www.uni-heidelberg.de/md/zentral/universitaet/geschichte/hd_nobelpreis_gb_2010.pdf | title = HEIDELBERG NOBEL LAUREATES | accessdate = 2013-12-20}}</ref> 
+|
+#{{Nobel abbr|Fis}} [[Albert Abraham Michelson|Albert Michelson]]
+#{{Nobel abbr|Fis}} [[Heike Kamerlingh Onnes]]
+#{{Nobel abbr|Fis}} [[James Franck]]
+#{{Nobel abbr|Fis}} [[Max Born]]
+#{{Nobel abbr|Fis}} [[Theodor W. Hnsch]]
+#{{Nobel abbr|Fis}} [[Wilhelm Wien]]
+#{{Nobel abbr|Fis}} [[Wolfgang Ketterle]]
+#{{Nobel abbr|Kim}} [[Adolf von Baeyer]]
+#{{Nobel abbr|Kim}} [[Fritz Haber]]
+#{{Nobel abbr|Kim}} [[Theodore William Richards]]
+#{{Nobel abbr|Kim}} [[William Ramsay]]
+#{{Nobel abbr|FK}} [[Albrecht Kossel]]
+#{{Nobel abbr|FK}} [[Hans Spemann]]
+#{{Nobel abbr|FK}} [[Otto Fritz Meyerhof]]
+#{{Nobel abbr|FK}} [[Otto Heinrich Warburg]]
+#{{Nobel abbr|Pe}} [[Auguste Beernaert]]
+#{{Nobel abbr|Pe}} [[Charles Albert Gobat]]
+#{{Nobel abbr|Sas}} [[Carl Spitteler]]
+|
+#{{Nobel abbr|Fis}} [[Gabriel Lippmann]]
+#{{Nobel abbr|Fis}} [[Hans G. Dehmelt]]
+#{{Nobel abbr|Fis}} [[Heike Kamerlingh Onnes]]
+#{{Nobel abbr|Fis}} [[James Franck]]
+#{{Nobel abbr|Fis}} [[Masatoshi Koshiba]]
+#{{Nobel abbr|Fis}} [[Philipp Lenard]]
+#{{Nobel abbr|Fis}} [[Rudolf Mssbauer]]
+#{{Nobel abbr|Fis}} [[Theodor W. Hnsch]]
+#{{Nobel abbr|Fis}} [[Wolfgang Ketterle]]
+#{{Nobel abbr|FK}} [[Andr Lwoff]]
+#{{Nobel abbr|FK}} [[Christiane Nsslein-Volhard]]
+#{{Nobel abbr|FK}} [[Eric F. Wieschaus]]
+#{{Nobel abbr|FK}} [[Fritz Lipmann]]
+#{{Nobel abbr|FK}} [[George Wald]]
+#{{Nobel abbr|FK}} [[Peter Mansfield]]
+#{{Nobel abbr|FK}} [[Severo Ochoa]]
+#{{Nobel abbr|Pe}} [[Auguste Beernaert]]
+|
+#{{Nobel abbr|Fis}} [[J. Hans D. Jensen]]
+#{{Nobel abbr|Fis}} [[Walther Bothe]]
+#{{Nobel abbr|Kim}} [[Friedrich Bergius]]
+#{{Nobel abbr|Kim}} [[Georg Wittig]]
+#{{Nobel abbr|Kim}} [[Karl Ziegler]]
+#{{Nobel abbr|Kim}} [[Richard Kuhn]]
+#{{Nobel abbr|FK}} [[Bert Sakmann]]
+#{{Nobel abbr|FK}} [[Fritz Lipmann]]
+#{{Nobel abbr|FK}} [[George Wald]]
+#{{Nobel abbr|FK}} [[Harald zur Hausen]]
+#{{Nobel abbr|FK}} [[Otto Heinrich Warburg]]
+|
+#{{Nobel abbr|Kim}} [[Carl Bosch]]
+#{{Nobel abbr|Kim}} [[William Ramsay]]
+#{{Nobel abbr|FK}} [[Hans Spemann]]
+|-
+|}
+
+=={{flagicon|GER}} Universitas Humboldt==
+
+{| class='wikitable'
+|-
+!Afiliasi <ref group=Catatan name=Afiliasi/>
+!Alumni <ref group=Catatan name=Alumnis/>
+!Peneliti atau Mahasiswa<ref group=Catatan name=attendeesresearch/>
+!Staf akademik sebelum atau pada saat penghargaan <ref group=Catatan name=staff1/>
+!Staf akademik setelah penghargaan <ref group=Catatan name=staff2/>
+|-
+|colspan="5"|[[Universitas Humboldt|Universitas Humboldt Berlin]]
+|-valign="top"
+|40 (resmi 29)<ref>{{cite web | url = http://www.hu-berlin.de/ueberblick-en/history/huben_html | title = Short History - Humboldt-Universitt zu Berlin | accessdate = 2013-12-21}}</ref>
+|
+#{{Nobel abbr|Fis}} [[Gustav Ludwig Hertz]]
+#{{Nobel abbr|Fis}} [[James Franck]]
+#{{Nobel abbr|Fis}} [[Karl Ferdinand Braun]]
+#{{Nobel abbr|Fis}} [[Max Planck]]
+#{{Nobel abbr|Fis}} [[Max von Laue]]
+#{{Nobel abbr|Fis}} [[Walther Bothe]]
+#{{Nobel abbr|Fis}} [[Wilhelm Wien]]
+#{{Nobel abbr|Kim}} [[Adolf Windaus]]
+#{{Nobel abbr|Kim}} [[Adolf von Baeyer]]
+#{{Nobel abbr|Kim}} [[Fritz Haber]]
+#{{Nobel abbr|Kim}} [[Kurt Alder]]
+#{{Nobel abbr|Kim}} [[Otto Wallach]]
+#{{Nobel abbr|Kim}} [[Walther Nernst]]
+#{{Nobel abbr|Kim}} [[Hans von Euler-Chelpin]]
+#[[Paul Heyse]]
+#{{Nobel abbr|FK}} [[Bert Sakmann]]
+#{{Nobel abbr|FK}} [[Fritz Lipmann]]
+#{{Nobel abbr|FK}} [[Hans Adolf Krebs|Hans Krebs]]
+#{{Nobel abbr|FK}} [[Otto Heinrich Warburg]]
+#{{Nobel abbr|FK}} [[Emil Adolf von Behring]]
+|
+#{{Nobel abbr|Fis}} [[Albert Abraham Michelson|Albert Michelson]]
+|
+#{{Nobel abbr|Fis}} [[Albert Einstein]]
+#{{Nobel abbr|Fis}} [[Erwin Schrdinger]]
+#{{Nobel abbr|Fis}} [[Gerhard Ertl]]
+#{{Nobel abbr|Fis}} [[James Franck]]
+#{{Nobel abbr|Fis}} [[Max Born]]
+#{{Nobel abbr|Fis}} [[Max Planck]]
+#{{Nobel abbr|Fis}} [[Max von Laue]]
+#{{Nobel abbr|Fis}} [[Walther Bothe]]
+#{{Nobel abbr|Kim}} [[Adolf Butenandt]]
+#{{Nobel abbr|Kim}} [[Eduard Buchner]]
+#{{Nobel abbr|Kim}} [[Hermann Emil Fischer]]
+#{{Nobel abbr|Kim}} [[Jacobus Henricus van 't Hoff]]
+#{{Nobel abbr|Kim}} [[Otto Diels]]
+#{{Nobel abbr|Kim}} [[Otto Hahn]]
+#{{Nobel abbr|Kim}} [[Peter Debye]]
+#{{Nobel abbr|Kim}} [[Richard Adolf Zsigmondy]]
+#{{Nobel abbr|Kim}} [[Richard Willsttter]]
+#{{Nobel abbr|FK}} [[Albrecht Kossel]]
+#{{Nobel abbr|FK}} [[Hans Spemann]]
+#{{Nobel abbr|FK}} [[Paul Ehrlich]]
+#{{Nobel abbr|FK}} [[Robert Koch]]
+#{{Nobel abbr|Sas}} [[Theodor Mommsen]]
+|
+#{{Nobel abbr|Fis}} [[Werner Heisenberg]]
+|-
+|}
+
+=={{flagicon|USA}} Universitas Princeton==
+
+{| class='wikitable'
+|-
+!Afiliasi <ref group=Catatan name=Afiliasi/>
+!Alumni <ref group=Catatan name=Alumnis/>
+!Peneliti atau Mahasiswa<ref group=Catatan name=attendeesresearch/>
+!Staf akademik sebelum atau pada saat penghargaan <ref group=Catatan name=staff1/>
+!Staf akademik setelah penghargaan <ref group=Catatan name=staff2/>
+|-
+|colspan="5"|[[Universitas Princeton]]
+|-valign="top"
+|37 (resmi)<ref>{{cite web | url = http://www.princeton.edu/main/about/facts/nobel/ | title = Universitas Princeton - Nobel Prize Winners | accessdate = 2013-12-21}}</ref>
+|
+#{{Nobel abbr|Fis}} [[Arthur H. Compton]]
+#{{Nobel abbr|Fis}} [[Clinton Davisson]]
+#{{Nobel abbr|Fis}} [[Frank Wilczek]]
+#{{Nobel abbr|Fis}} [[John Bardeen]]<br />{{Nobel abbr|Fis}} [[John Bardeen]]<ref group=Catatan name=repeat2/>
+#{{Nobel abbr|Fis}} [[Richard P. Feynman]]
+#{{Nobel abbr|Fis}} [[Robert Hofstadter]]
+#{{Nobel abbr|Fis}} [[Steven Weinberg]]
+#{{Nobel abbr|Kim}} [[Edwin M. McMillan]]
+#{{Nobel abbr|Kim}} [[Richard E. Smalley]]
+#{{Nobel abbr|Eko}} [[A. Michael Spence]]
+#{{Nobel abbr|Eko}} [[Gary S. Becker]]
+#{{Nobel abbr|Eko}} [[James J. Heckman]]
+#{{Nobel abbr|Eko}} [[Lloyd Shapley]]
+#{{Nobel abbr|Eko}} [[John Forbes Nash]]<ref>{{cite web | url=https://www.princeton.edu/mudd/news/faq/topics/Non-Cooperative_Games_Nash.pdf | title=Universitas Princeton PhD Thesis}}</ref>
+|
+#{{Nobel abbr|Fis}} [[Arno A. Penzias]]
+#{{Nobel abbr|Fis}} [[David Gross]]
+#{{Nobel abbr|Fis}} [[James W. Cronin]]
+#{{Nobel abbr|Fis}} [[Philip W. Anderson]]
+#{{Nobel abbr|Kim}} [[Osamu Shimomura]]
+#{{Nobel abbr|Eko}} [[Eric S. Maskin]]
+#{{Nobel abbr|Pe}} [[Woodrow Wilson]]
+#{{Nobel abbr|Sas}} [[Eugene O'Neill]]
+|
+#{{Nobel abbr|Fis}} [[Daniel C. Tsui]]
+#{{Nobel abbr|Fis}} [[Eugene P. Wigner]]
+#{{Nobel abbr|Fis}} [[Joseph H. Taylor]]
+#{{Nobel abbr|Fis}} [[Russell Hulse]]
+#{{Nobel abbr|Fis}} [[Val L. Fitch]]
+#{{Nobel abbr|FK}} [[Eric F. Wieschaus]]
+#{{Nobel abbr|FK}} [[James E. Rothman]]
+# {{Nobel abbr|Eko}} [[Sir William Arthur Lewis]]
+#{{Nobel abbr|Eko}} [[Christopher Sims]]
+#{{Nobel abbr|Eko}} [[Christopher Sims]]
+#{{Nobel abbr|Eko}} [[Daniel Kahneman]]
+#{{Nobel abbr|Eko}} [[Paul R. Krugman]]
+#{{Nobel abbr|Eko}} [[Thomas J. Sargent]]
+#{{Nobel abbr|Eko}} [[John Forbes Nash]]
+#{{Nobel abbr|Sas}} [[Mario Vargas Llosa]]
+#{{Nobel abbr|Sas}} [[Toni Morrison]]
+|
+|}
+
+=={{flagicon|USA}} Universitas Johns Hopkins==
+
+{| class='wikitable'
+|-
+!Afiliasi <ref group=Catatan name=Afiliasi/>
+!Alumni <ref group=Catatan name=Alumnis/>
+!Peneliti atau Mahasiswa<ref group=Catatan name=attendeesresearch/>
+!Staf akademik sebelum atau pada saat penghargaan <ref group=Catatan name=staff1/>
+!Staf akademik setelah penghargaan <ref group=Catatan name=staff2/>
+|-
+|colspan="5"|[[Universitas Johns Hopkins]]<ref name="JHU">{{cite web | url =http://webapps.jhu.edu/jhuniverse/information_about_hopkins/facts_and_statistics/nobel_prize_winners/index.cfm | title = Universitas Johns Hopkins - Nobel Prize Winners | accessdate = 2013-12-21}}</ref>
+|-valign="top"
+|36 (resmi)<ref name="JHU" />
+|
+# {{Nobel abbr|Kim}} [[Peter Agre]]
+# {{Nobel abbr|FK}} [[Francis Peyton Rous]]
+# {{Nobel abbr|FK}} [[George Hoyt Whipple]]
+# {{Nobel abbr|FK}} [[Haldan Keffer Hartline]]
+# {{Nobel abbr|FK}} [[Hamilton O. Smith]]
+# {{Nobel abbr|FK}} [[Herbert Spencer Gasser]]
+# {{Nobel abbr|FK}} [[Joseph Erlanger]]
+# {{Nobel abbr|FK}} [[Martin Rodbell]]
+# {{Nobel abbr|FK}} [[Paul Greengard]]
+# {{Nobel abbr|FK}} [[Richard Axel]]
+# {{Nobel abbr|FK}} [[Thomas Hunt Morgan]]
+# {{Nobel abbr|Eko}} [[Merton H. Miller]]
+# {{Nobel abbr|Eko}} [[Robert W. Fogel]]
+# {{Nobel abbr|Pe}} [[Jody Williams]]
+# {{Nobel abbr|Pe}} [[Woodrow Wilson]]
+|
+#{{Nobel abbr|Fis}} [[Riccardo Giacconi]]
+#{{Nobel abbr|Kim}} [[Vincent du Vigneaud]]
+#{{Nobel abbr|Kim}} [[Daniel Shechtman]]
+#{{Nobel abbr|FK}} [[Robert G. Edwards|Robert Edwards]]
+|
+# {{Nobel abbr|Fis}} [[Adam Riess]]
+# {{Nobel abbr|Fis}} [[Maria Goeppert-Mayer]]
+# {{Nobel abbr|Fis}} [[Riccardo Giacconi]]
+# {{Nobel abbr|Kim}} [[Peter Agre]]<ref group=Catatan name=repeat/>
+# {{Nobel abbr|Kim}} [[Daniel Nathans]]
+# {{Nobel abbr|Kim}} [[Harold C. Urey]]
+# {{Nobel abbr|Kim}} [[Lars Onsager]]
+# {{Nobel abbr|FK}} [[George Hoyt Whipple]]
+# {{Nobel abbr|FK}} [[Haldan Keffer Hartline]]
+# {{Nobel abbr|FK}} [[Andrew Fire]]
+# {{Nobel abbr|FK}} [[Carol Greider]]
+# {{Nobel abbr|FK}} [[David H. Hubel]]
+# {{Nobel abbr|FK}} [[Hamilton O. Smith]]
+# {{Nobel abbr|FK}} [[Joseph Erlanger]]
+# {{Nobel abbr|FK}} [[Torsten N. Wiesel]]
+# {{Nobel abbr|Eko}} [[Richard Stone]]
+# {{Nobel abbr|Eko}} [[Robert H. Mundell]]
+# {{Nobel abbr|Eko}} [[Simon Kuznets]]
+# {{Nobel abbr|Sas}} [[J.M. Coetzee]]
+# {{Nobel abbr|FK}} [[George Richards Minot]]
+|
+#{{Nobel abbr|Fis}} [[James Franck]]
+#{{Nobel abbr|Fis}} [[Riccardo Giacconi]]
+#{{Nobel abbr|Kim}} [[Christian B. Anfinsen]]
+#{{Nobel abbr|Kim}} [[Daniel Nathans]]
+#{{Nobel abbr|Kim}} [[Peter Agre]]<ref group=Catatan name=repeat/>
+#{{Nobel abbr|FK}} [[Carol Greider]]
+#{{Nobel abbr|FK}} [[Hamilton O. Smith]]
+#{{Nobel abbr|Pe}} [[Nicholas Murray Butler]]
+|-
+|}
+
+=={{flagicon|GER}} Ludwig Maximilians University of Munich==
+
+{| class='wikitable'
+|-
+!Afiliasi <ref group=Catatan name=Afiliasi/>
+!Alumni <ref group=Catatan name=Alumnis/>
+!Peneliti atau Mahasiswa<ref group=Catatan name=attendeesresearch/>
+!Staf akademik sebelum atau pada saat penghargaan <ref group=Catatan name=staff1/>
+!Staf akademik setelah penghargaan <ref group=Catatan name=staff2/>
+|-
+|colspan="5"|[[Ludwig Maximilians University of Munich]]
+|-valign="top"
+|35 (resmi 13)<ref>{{cite web|url=http://www.en.uni-muenchen.de/about_lmu_alt/people/grants/nobel/index.html|title=LMU - Nobel Prize|accessdate=2013-12-21|publisher=Ludwig Maximilians Universitas MuniKim}}</ref>
+|
+#{{Nobel abbr|Fis}} [[Gerhard Ertl]]
+#{{Nobel abbr|Fis}} [[Gustav Ludwig Hertz]]
+#{{Nobel abbr|Fis}} [[Hans Albrecht Bethe]]
+#{{Nobel abbr|Fis}} [[Johannes Stark]]
+#{{Nobel abbr|Fis}} [[Max Planck]]
+#{{Nobel abbr|Fis}} [[Max von Laue]]
+#{{Nobel abbr|Fis}} [[Werner Heisenberg]]
+#{{Nobel abbr|Fis}} [[Wolfgang Ketterle]]
+#{{Nobel abbr|Fis}} [[Wolfgang Pauli]]
+# {{Nobel abbr|Kim}} [[Eduard Buchner]]
+#{{Nobel abbr|Kim}} [[Hartmut Michel]]
+#{{Nobel abbr|Kim}} [[Otto Hahn]]
+#{{Nobel abbr|Kim}} [[Peter Debye]]
+#{{Nobel abbr|Kim}} [[Hans Fischer]]
+#{{Nobel abbr|Kim}} [[Richard Kuhn]]
+#{{Nobel abbr|Kim}} [[Richard Willsttter]]
+#{{Nobel abbr|Kim}} [[Heinrich Otto Wieland]]
+#{{Nobel abbr|FK}} [[Bert Sakmann]]
+#{{Nobel abbr|FK}} [[Gnter Blobel]]
+#{{Nobel abbr|FK}} [[Hans Adolf Krebs|Hans Krebs]]
+#{{Nobel abbr|FK}} [[Hans Spemann]]
+#{{Nobel abbr|FK}} [[Konrad Bloch]]
+#{{Nobel abbr|FK}} [[Feodor Lynen]]
+#{{Nobel abbr|FK}} [[Otto Loewi]]
+#{{Nobel abbr|Sas}} [[Thomas Mann]]
+|
+#{{Nobel abbr|FK}} [[Bert Sakmann]]
+#{{Nobel abbr|FK}} [[Karl von Frisch]]
+|
+#{{Nobel abbr|Fis}} [[Gerhard Ertl]]
+#{{Nobel abbr|Fis}} [[Max von Laue]]
+#{{Nobel abbr|Fis}} [[Theodor W. Hnsch]]
+#{{Nobel abbr|Fis}} [[Wilhelm Conrad Rntgen]]
+#{{Nobel abbr|Fis}} [[Wilhelm Wien]]
+# {{Nobel abbr|Kim}} [[Eduard Buchner]]
+#{{Nobel abbr|Kim}} [[Adolf Butenandt]]
+#{{Nobel abbr|Kim}} [[Adolf von Baeyer]]
+#{{Nobel abbr|Kim}} [[Ernst Otto Fischer]]
+#{{Nobel abbr|Kim}} [[Hermann Emil Fischer]]
+#{{Nobel abbr|Kim}} [[Richard Adolf Zsigmondy]]
+#{{Nobel abbr|FK}} [[Feodor Lynen]]
+#{{Nobel abbr|FK}} [[Karl von Frisch]]
+|
+#{{Nobel abbr|Fis}} [[Gerd Binnig]]
+|-
+|}
+
+=={{flagicon|USA}} Universitas New York==
+
+{| class='wikitable'
+|-
+!Afiliasi <ref group=Catatan name=Afiliasi/>
+!Alumni <ref group=Catatan name=Alumnis/>
+!Peneliti atau Mahasiswa<ref group=Catatan name=attendeesresearch/>
+!Staf akademik sebelum atau pada saat penghargaan <ref group=Catatan name=staff1/>
+!Staf akademik setelah penghargaan <ref group=Catatan name=staff2/>
+|-
+|colspan="5"|[[Universitas New York]] (NYU)
+|-valign="top"
+|35 (resmi 4)<ref>{{cite web|url=http://www.nyu.edu/about/news-publications/nyu-facts/fast-facts.html|title=Universitas New York - Fast Facts|publisher=Universitas New York|accessdate=2013-12-21}}</ref>
+|
+#{{Nobel abbr|Fis}} [[Clifford Shull]]
+#{{Nobel abbr|Fis}} [[Frederick Reines]]
+#{{Nobel abbr|Fis}} [[Martin L. Perl]] (NYU-POLY)
+#{{Nobel abbr|FK}} [[Eric R. Kandel]]
+#{{Nobel abbr|FK}} [[George Wald]]
+#{{Nobel abbr|FK}} [[Gertrude B. Elion]]
+#{{Nobel abbr|FK}} [[Julius Axelrod]]
+#{{Nobel abbr|Pe}} [[Elihu Root]]
+#{{Nobel abbr|Pe}} [[Mohamed ElBaradei]]
+|
+#{{Nobel abbr|Kim}} [[Irwin Rose]]
+#{{Nobel abbr|FK}} [[Francis Crick]] (NYU-POLY)
+#{{Nobel abbr|FK}} [[Rosalyn Yalow]]
+#{{Nobel abbr|FK}} [[Arthur Kornberg]]
+#{{Nobel abbr|FK}} [[George Palade]]
+#{{Nobel abbr|Eko}} [[Friedrich Hayek]]
+#{{Nobel abbr|Eko}} [[James Heckman]]
+|
+#{{Nobel abbr|Kim}} [[Robert S. Mulliken]]
+#{{Nobel abbr|Kim}} [[Rudolph A. Marcus]] (NYU-POLY)
+#{{Nobel abbr|Kim}} [[Avram Hershko]]
+#{{Nobel abbr|FK}} [[Baruj Benacerraf]]
+#{{Nobel abbr|FK}} [[Severo Ochoa]]
+#{{Nobel abbr|Eko}} [[Gunnar Myrdal]]
+#{{Nobel abbr|Eko}} [[Robert Aumann]]
+#{{Nobel abbr|Eko}} [[Robert F. Engle]]
+#{{Nobel abbr|Eko}} [[Thomas J. Sargent]]
+#{{Nobel abbr|Eko}} [[Tjalling Koopmans]]
+#{{Nobel abbr|Eko}} [[Edmund Phelps]]
+|
+#{{Nobel abbr|FK}} [[Francis Crick]] (NYU-POLY)
+#{{Nobel abbr|FK}} [[Otto Loewi]]
+#{{Nobel abbr|Eko}} [[Edward C. Prescott]]
+#{{Nobel abbr|Eko}} [[Paul A. Samuelson]]
+#{{Nobel abbr|Eko}} [[Wassily Leontief]]
+#{{Nobel abbr|Sas}} [[Joseph Brodsky]]
+#{{Nobel abbr|Sas}} [[Rudolf Eucken]]
+#{{Nobel abbr|Sas}} [[Saul Bellow]]
+#{{Nobel abbr|Sas}} [[Wole Soyinka]]
+|-
+|}
+
+=={{flagicon|USA}} Institut Teknologi California==
+
+{| class='wikitable'
+|-
+!Afiliasi <ref group=Catatan name=Afiliasi/>
+!Alumni <ref group=Catatan name=Alumnis/>
+!Peneliti atau Mahasiswa<ref group=Catatan name=attendeesresearch/>
+!Staf akademik sebelum atau pada saat penghargaan <ref group=Catatan name=staff1/>
+!Staf akademik setelah penghargaan <ref group=Catatan name=staff2/>
+|-
+|-
+|colspan="5"|[[Institut Teknologi California]]
+|-valign="top"
+|33 (resmi 31)<ref>{{cite web | url = http://nobel.caltech.edu | title = Caltech Nobel Recipients | publisher=Institut Teknologi California|accessdate = 2013-12-21}}</ref>
+|
+#{{Nobel abbr|Fis}} [[Carl D. Anderson]]<ref group=Catatan name=repeat/>
+#{{Nobel abbr|Fis}} [[Charles H. Townes]]
+#{{Nobel abbr|Fis}} [[Donald A. Glaser]]
+#{{Nobel abbr|Fis}} [[Douglas D. Osheroff]]
+#{{Nobel abbr|Fis}} [[Kenneth G. Wilson]]
+#{{Nobel abbr|Fis}} [[Leo James Rainwater]]
+#{{Nobel abbr|Fis}} [[Robert Woodrow Wilson]]
+#{{Nobel abbr|Fis}} [[William A. Fowler]]
+#{{Nobel abbr|Fis}} [[William Shockley]]
+#{{Nobel abbr|Kim}} [[Edwin Mattison McMillan]]
+#{{Nobel abbr|Kim}} [[Linus Pauling]].<ref group=Catatan name=repeat/>
+#{{Nobel abbr|Kim}} [[Martin Karplus]]
+#{{Nobel abbr|Kim}} [[William Lipscomb]]
+#{{Nobel abbr|FK}} [[Edward B. Lewis]]
+#{{Nobel abbr|FK}} [[Howard M. Temin]]
+#{{Nobel abbr|FK}} [[Leland H. Hartwell]]
+#{{Nobel abbr|Eko}} [[Robert C. Merton]]
+#{{Nobel abbr|Eko}} [[Vernon L. Smith]]
+#{{Nobel abbr|Pe}} [[Linus Pauling]]<ref group=Catatan name=repeat2/>
+|
+#{{Nobel abbr|FK}} [[John Gurdon]]
+#{{Nobel abbr|FK}} [[Robert W. Holley]]
+|
+#{{Nobel abbr|Fis}} [[Carl D. Anderson]]<ref group=Catatan name=repeat/>
+#{{Nobel abbr|Fis}} [[H. David Politzer]]
+#{{Nobel abbr|Fis}} [[Murray Gell-Mann]]
+#{{Nobel abbr|Fis}} [[Richard P. Feynman]]
+#{{Nobel abbr|Fis}} [[Robert A. Millikan]]
+#{{Nobel abbr|Fis}} [[Rudolf Mssbauer]]
+#{{Nobel abbr|Kim}} [[Ahmed Zewail]]
+#{{Nobel abbr|Kim}} [[Linus Pauling]].<ref group=Catatan name=repeat/>
+#{{Nobel abbr|Kim}} [[Robert H. Grubbs]]
+#{{Nobel abbr|Kim}} [[Rudolph Marcus]]
+#{{Nobel abbr|FK}} [[Edward B. Lewis]]<ref group=Catatan name=repeat/>
+#{{Nobel abbr|FK}} [[Roger W. Sperry]]
+#{{Nobel abbr|FK}} [[Thomas Hunt Morgan]]
+#{{Nobel abbr|Pe}} [[Linus Pauling]]<ref group=Catatan name=repeat2/>
+|
+#{{Nobel abbr|FK}} [[David Baltimore]]
+#{{Nobel abbr|FK}} [[George Wells Beadle]]
+#{{Nobel abbr|FK}} [[Max Delbrck]]
+#{{Nobel abbr|FK}} [[Renato Dulbecco]]
+|-
+|}
+
+=={{flagicon|SWI}} ETH Zurich==
+
+{| class='wikitable'
+|-
+!Afiliasi <ref group=Catatan name=Afiliasi/>
+!Alumni <ref group=Catatan name=Alumnis/>
+!Peneliti atau Mahasiswa<ref group=Catatan name=attendeesresearch/>
+!Staf akademik sebelum atau pada saat penghargaan <ref group=Catatan name=staff1/>
+!Staf akademik setelah penghargaan <ref group=Catatan name=staff2/>
+|-
+|colspan="5"|[[ETH Zurich]]
+|-valign="top"
+|31 (resmi 29)<ref>{{cite web | url = http://www.ethz.ch/about/bginfos/nobelprize/index_EN | title = ETH Zurich | accessdate = 2008-03-16}}</ref><ref name="muellerscience.com">{{cite web | url = http://www.muellerscience.com/SPEZIALITAETEN/Schweiz/SchweizerNobelpreistraeger.htm | title = Schweizer Nobelpreistraeger | accessdate = 2008-05-13}}</ref>{{Dead link|date=February 2009}}<ref>{{cite web | url = http://www.ethz.ch/about/nobelprize | title = ETH Zurich 2 | accessdate = 2011-06-11}}</ref>
+|
+#{{Nobel abbr|Fis}} [[Albert Einstein]]
+#{{Nobel abbr|Fis}} [[Charles-Edouard Guillaume]]
+#{{Nobel abbr|Fis}} [[Felix Bloch]]
+#{{Nobel abbr|Fis}} [[Georg Bednorz]]
+#{{Nobel abbr|Fis}} [[Gerd Binnig]]
+#{{Nobel abbr|Fis}} [[Heinrich Rohrer]]
+#{{Nobel abbr|Fis}} [[K. Alex Mller]]
+#{{Nobel abbr|Fis}} [[Wilhelm Conrad Rntgen]]
+#{{Nobel abbr|Kim}} [[Fritz Haber]]
+#{{Nobel abbr|Kim}} [[Richard R. Ernst]]
+#{{Nobel abbr|FK}} [[Tadeus Reichstein]]
+#{{Nobel abbr|FK}} [[Werner Arber]]
+|
+#{{Nobel abbr|Fis}} [[Max Born]]
+#{{Nobel abbr|Fis}} [[Nils Gustaf Daln]]
+#{{Nobel abbr|Kim}} [[Artturi Ilmari Virtanen]]
+#{{Nobel abbr|Kim}} [[George de Hevesy]]
+#{{Nobel abbr|Kim}} [[Jean-Marie Lehn]]
+#{{Nobel abbr|Kim}} [[Lars Onsager]]
+#{{Nobel abbr|Kim}} [[Richard F. Heck]]
+#{{Nobel abbr|FK}} [[Har Gobind Khorana]]
+#{{Nobel abbr|FK}} [[Konrad E. Bloch]]
+#{{Nobel abbr|FK}} [[Max Delbrck]]
+|
+#{{Nobel abbr|Fis}} [[Albert Einstein]]
+#{{Nobel abbr|Fis}} [[Otto Stern]]
+#{{Nobel abbr|Fis}} [[Wolfgang Pauli]]
+#{{Nobel abbr|Kim}} [[Leopold Ruika]]
+#{{Nobel abbr|Kim}} [[Peter Debye]]
+#{{Nobel abbr|Kim}} [[Richard Kuhn]]
+#{{Nobel abbr|Kim}} [[Richard R. Ernst]]
+#{{Nobel abbr|Kim}} [[Vladimir Prelog]]
+#{{Nobel abbr|Kim}} [[Alfred Werner]]
+#{{Nobel abbr|Kim}} [[Kurt Wthrich]]
+#{{Nobel abbr|Kim}} [[Richard Willsttter]]
+|
+|-
+|}
+
+=={{flagicon|USA}} Universitas Pennsylvania==
+
+{| class='wikitable'
+|-
+!Afiliasi <ref group=Catatan name=Afiliasi/>
+!Alumni <ref group=Catatan name=Alumnis/>
+!Peneliti atau Mahasiswa<ref group=Catatan name=attendeesresearch/>
+!Staf akademik sebelum atau pada saat penghargaan <ref group=Catatan name=staff1/>
+!Staf akademik setelah penghargaan <ref group=Catatan name=staff2/>
+|-
+|colspan="5"|[[Universitas Pennsylvania]]
+|-valign="top"
+|29 (resmi 28)<ref>{{cite web | url = http://www.archives.upenn.edu/people/notables/awards/nobel.html | title = UPenn | accessdate = 2011-06-11}}</ref>
+|
+#{{Nobel abbr|Fis}} [[George E. Smith]]
+#{{Nobel abbr|Kim}} [[Ahmed Zewail]]
+#{{Nobel abbr|Kim}} [[Christian B. Anfinsen]]
+#{{Nobel abbr|Kim}} [[Ei-ichi Negishi]]
+#{{Nobel abbr|FK}} [[Gerald Edelman]]<ref group=Catatan name=repeat/>
+#{{Nobel abbr|FK}} [[Michael S. Brown]]
+#{{Nobel abbr|FK}} [[Stanley Prusiner]]
+|
+#{{Nobel abbr|Kim}} [[Hideki Shirakawa]]
+#{{Nobel abbr|Kim}} [[Vincent du Vigneaud]]
+|
+#{{Nobel abbr|Fis}} [[John Robert Schrieffer]]
+#{{Nobel abbr|Fis}} [[Raymond Davis Jr.|Raymond Davis]]
+#{{Nobel abbr|Fis}} [[Robert Hofstadter]]
+#{{Nobel abbr|Kim}} [[Alan J. Heeger]]
+#{{Nobel abbr|Kim}} [[Alan MacDiarmid]]
+#{{Nobel abbr|Kim}} [[Christian B. Anfinsen]]
+#{{Nobel abbr|Kim}} [[Irwin Rose]]
+#{{Nobel abbr|Kim}} [[Richard Kuhn]]
+# {{Nobel abbr|FK}} [[Haldan Keffer Hartline]]
+#{{Nobel abbr|FK}} [[Gerald Edelman]]<ref group=Catatan name=repeat/>
+#{{Nobel abbr|FK}} [[Harald zur Hausen]]
+#{{Nobel abbr|FK}} [[Ragnar Granit]]
+#{{Nobel abbr|Eko}} [[Edmund S. Phelps]]
+#{{Nobel abbr|Eko}} [[Edward C. Prescott]]
+#{{Nobel abbr|Eko}} [[Oliver E. Williamson]]
+#{{Nobel abbr|Eko}} [[Robert A. Mundell]]
+#{{Nobel abbr|Eko}} [[Thomas J. Sargent]]
+#{{Nobel abbr|FK}} [[Baruch Blumberg]]
+|
+#{{Nobel abbr|FK}} [[Otto Fritz Meyerhof]]
+#{{Nobel abbr|Eko}} [[Lawrence Klein]]
+#{{Nobel abbr|Eko}} [[Simon Kuznets]]
+|-
+|}
+
+=={{flagicon|GBR}} University College London==
+
+{| class='wikitable'
+|-
+!Afiliasi <ref group=Catatan name=Afiliasi/>
+!Alumni <ref group=Catatan name=Alumnis/>
+!Peneliti atau Mahasiswa<ref group=Catatan name=attendeesresearch/>
+!Staf akademik sebelum atau pada saat penghargaan <ref group=Catatan name=staff1/>
+!Staf akademik setelah penghargaan <ref group=Catatan name=staff2/>
+|-
+|colspan="5"|[[University College London]]
+|-valign="top"
+|26 (resmi 21)<ref>{{cite web | url = http://www.ucl.ac.uk/about-ucl/about-ucl-home/nobel-winners | title = University College London | accessdate = 2010-10-11}}</ref>
+|
+#{{Nobel abbr|Fis}} [[Charles K. Kao]]
+#{{Nobel abbr|FK}} [[Francis Crick]]
+#{{Nobel abbr|FK}} [[Martin Evans]]
+#{{Nobel abbr|FK}} [[Bernard Katz]]
+#{{Nobel abbr|Kim}} [[Jaroslav Heyrovsk]]
+#{{Nobel abbr|Fis}} [[Owen Richardson]]
+|
+#{{Nobel abbr|Fis}} [[Frederick Soddy]]
+#{{Nobel abbr|Kim}} [[Otto Hahn]]
+#{{Nobel abbr|Kim}} [[Vincent du Vigneaud]]
+# {{Nobel abbr|FK}} [[Herbert Spencer Gasser]]
+#{{Nobel abbr|FK}} [[Bert Sakmann]]
+#{{Nobel abbr|FK}} [[Corneille Heymans]]
+#{{Nobel abbr|FK}} [[Frederick Gowland Hopkins]]
+#{{Nobel abbr|FK}} [[Henry Hallett Dale|Henry Dale]]
+#{{Nobel abbr|Sas}} [[Rabindranath Tagore]]
+#{{Nobel abbr|FK}} [[Otto Loewi]]
+#{{Nobel abbr|FK}} [[Ulf von Euler]]
+|
+#{{Nobel abbr|Kim}} [[Robert Robinson (kimiawan organik)|Robert Robinson]]
+#{{Nobel abbr|Kim}} [[William Ramsay]]
+#{{Nobel abbr|FK}} [[Andrew Huxley]]
+#{{Nobel abbr|FK}} [[Archibald Hill]]
+#{{Nobel abbr|FK}} [[James W. Black]]
+#{{Nobel abbr|FK}} [[Peter Medawar]]
+#{{Nobel abbr|FK}} [[Bernard Katz]]
+|
+#{{Nobel abbr|Fis}} [[William Henry Bragg|William Bragg]]
+#{{Nobel abbr|Kim}} [[George Porter]]
+#{{Nobel abbr|Eko}} [[James Heckman]]
+|-
+|}
+
+=={{flagicon|UK}} Universitas Manchester==
+
+{| class='wikitable'
+|-
+!Afiliasi <ref group=Catatan name=Afiliasi/>
+!Alumni <ref group=Catatan name=Alumnis/>
+!Peneliti atau Mahasiswa<ref group=Catatan name=attendeesresearch/>
+!Staf akademik sebelum atau pada saat penghargaan <ref group=Catatan name=staff1/>
+!Staf akademik setelah penghargaan <ref group=Catatan name=staff2/>
+|-
+|colspan="5"|[[Universitas Manchester]]
+|-valign="top"
+|25 (resmi 21)<ref>{{cite web | url = http://www.man.ac.uk/about/nobel.html  | title = Universitas Manchester | accessdate = 2006-06-11 |archiveurl = http://web.archive.org/web/20050204165730/http://www.man.ac.uk/about/nobel.html |archivedate = 2005-02-04}} (archived from [http://www.man.ac.uk/about/nobel.html the original] on 2005-02-04)</ref>
+|
+#{{Nobel abbr|Fis}} [[Charles Thomson Rees Wilson|Charles Wilson]]
+#{{Nobel abbr|Fis}} [[James Chadwick]]
+#{{Nobel abbr|Kim}} [[Michael Smith (kimiawan)|Michael Smith]]
+#{{Nobel abbr|Kim}} [[Robert Robinson (kimiawan organik)|Robert Robinson]]
+#{{Nobel abbr|Kim}} [[Walter Haworth]]
+#{{Nobel abbr|Kim}} [[Arthur Harden]]
+#{{Nobel abbr|Fis}} [[J. J. Thomson]] 
+#[[John Polanyi]]
+|
+#{{Nobel abbr|Fis}} [[Hans Albrecht Bethe]]
+#{{Nobel abbr|Fis}} [[John Cockcroft]]
+#{{Nobel abbr|Fis}} [[Niels Bohr]]
+#{{Nobel abbr|Kim}} [[George de Hevesy]]
+#{{Nobel abbr|Kim}} [[Melvin Calvin]]
+|
+#{{Nobel abbr|Fis}} [[Andre Geim]]
+#{{Nobel abbr|Fis}} [[Ernest Rutherford]]
+#{{Nobel abbr|Fis}} [[Konstantin Novoselov]]
+#{{Nobel abbr|Fis}} [[Nevill Mott]]
+#{{Nobel abbr|Fis}} [[Patrick Blackett, Baron Blackett|Patrick M. S. Blackett]]
+#{{Nobel abbr|Kim}} [[Alexander R. Todd|Alexander Todd]]
+#{{Nobel abbr|Eko}} [[Arthur Lewis (ekonom)|Arthur Lewis]]
+#{{Nobel abbr|Eko}} [[John Hicks]]
+#{{Nobel abbr|FK}} [[Archibald Hill]]
+|
+#{{Nobel abbr|FK}} [[John E. Sulston]]
+#{{Nobel abbr|Eko}} [[Joseph Stiglitz]]
+#{{Nobel abbr|Fis}} [[William Lawrence Bragg]]
+|-
+|}
+
+=={{flagicon|USA}} Universitas Illinois di UrbanaChampaign==
+
+{| class='wikitable'
+|-
+!Afiliasi <ref group=Catatan name=Afiliasi/>
+!Alumni <ref group=Catatan name=Alumnis/>
+!Peneliti atau Mahasiswa<ref group=Catatan name=attendeesresearch/>
+!Staf akademik sebelum atau pada saat penghargaan <ref group=Catatan name=staff1/>
+!Staf akademik setelah penghargaan <ref group=Catatan name=staff2/>
+|-
+|colspan="5"|[[Universitas Illinois di Urbana-Champaign]]
+|-valign="top"
+|24 (resmi)<ref>{{cite web | url = http://www.creativeservices.uiuc.edu/factsheetpdfs/nobel.pdf  |format=PDF| title = Universitas Illinois at Urbana-Champaign | accessdate = 2006-06-11 |archiveurl = http://web.archive.org/web/20071128221728/http://www.creativeservices.uiuc.edu/factsheetpdfs/nobel.pdf |archivedate = 2007-11-28}} (archived from [http://www.creativeservices.uiuc.edu/factsheetpdfs/nobel.pdf the original] on 2007-11-28)</ref>
+| 
+#{{Nobel abbr|FK}} [[Edward Adelbert Doisy]]
+#{{Nobel abbr|Kim}} [[Vincent du Vigneaud]]
+#{{Nobel abbr|FK}} [[Robert W. Holley]]
+#{{Nobel abbr|Fis}} [[Jack Kilby]]
+#{{Nobel abbr|FK}} [[Edwin G. Krebs]]
+#{{Nobel abbr|Fis}} [[Polykarp Kusch]]
+#{{Nobel abbr|Fis}} [[John Robert Schrieffer]]
+#{{Nobel abbr|FK}} [[Phillip A. Sharp]]
+#{{Nobel abbr|Kim}} [[Wendell M. Stanley]]
+#{{Nobel abbr|FK}} [[Rosalyn Yalow]]
+|
+#{{Nobel abbr|Fis}} [[Brian David Josephson]]
+#{{Nobel abbr|Fis}} [[Murray Gell-Mann]]
+#{{Nobel abbr|FK}} [[Hamilton O. Smith]]
+#{{Nobel abbr|FK}} [[Peter Mansfield]]
+#{{Nobel abbr|Eko}} [[Alvin E. Roth]]
+#{{Nobel abbr|Fis}} [[Leon Neil Cooper]]
+#{{Nobel abbr|Kim}} [[Martin Karplus]]
+|
+#{{Nobel abbr|Fis}} [[Anthony J. Leggett]]
+#{{Nobel abbr|Fis}} [[John Bardeen]]<br />{{Nobel abbr|Fis}} [[John Bardeen]]<ref group=Catatan name=repeat2/>
+#{{Nobel abbr|Fis}} [[John Robert Schrieffer]]
+#{{Nobel abbr|Kim}} [[Rudolph Marcus]]
+#{{Nobel abbr|Kim}} [[Vincent du Vigneaud]]
+#{{Nobel abbr|FK}} [[Paul Lauterbur]]
+#{{Nobel abbr|FK}} [[Salvador E. Luria]]
+#{{Nobel abbr|Eko}} [[Franco Modigliani]]
+#{{Nobel abbr|Eko}} [[Leonid Hurwicz]]
+#{{Nobel abbr|Kim}} [[Elias Corey]]
+|
+|-
+|}
+
+
+
+
+
+=={{flagicon|USA}} Universitas Rockefeller==
+
+{| class='wikitable'
+|-
+!Afiliasi <ref group=Catatan name=Afiliasi/>
+!Alumni <ref group=Catatan name=Alumnis/>
+!Peneliti atau Mahasiswa<ref group=Catatan name=attendeesresearch/>
+!Staf akademik sebelum atau pada saat penghargaan <ref group=Catatan name=staff1/>
+!Staf akademik setelah penghargaan <ref group=Catatan name=staff2/>
+|-
+|colspan="5"|[[Universitas Rockefeller]]
+|-valign="top"
+|24 (resmi)<ref>{{cite web | url = http://www.rockefeller.edu/about/awards/nobel/ | title = Rockefeller University | accessdate = 2011-06-11}}</ref>
+|
+#{{Nobel abbr|FK}} [[David Baltimore]]
+#{{Nobel abbr|FK}} [[Gerald Edelman]]
+|
+#{{Nobel abbr|Fis}} [[Karl Landsteiner]]
+#{{Nobel abbr|Kim}} [[John Howard Northrop]]
+#{{Nobel abbr|Kim}} [[Stanford Moore]]
+#{{Nobel abbr|Kim}} [[Wendell M. Stanley]]
+#{{Nobel abbr|Kim}} [[William H. Stein]]
+# {{Nobel abbr|FK}} [[Haldan Keffer Hartline]]
+#{{Nobel abbr|FK}} [[Alexis Carrel]]
+#{{Nobel abbr|FK}} [[David Baltimore]]
+#{{Nobel abbr|FK}} [[Edward Lawrie Tatum]]
+#{{Nobel abbr|FK}} [[Fritz Lipmann]]
+#{{Nobel abbr|FK}} [[George Palade]]
+#{{Nobel abbr|FK}} [[Gerald Edelman]]
+#{{Nobel abbr|FK}} [[Gnter Blobel]]
+#{{Nobel abbr|FK}} [[Herbert Spencer Gasser]]
+#{{Nobel abbr|FK}} [[Joshua Lederberg]]
+#{{Nobel abbr|FK}} [[Paul Greengard]]
+#{{Nobel abbr|FK}} [[Torsten N. Wiesel]]
+#{{Nobel abbr|FK}} [[Albert Claude]]
+#{{Nobel abbr|FK}} [[Christian de Duve]]
+# {{Nobel abbr|FK}} [[Francis Peyton Rous]]
+#{{Nobel abbr|Kim}} [[Bruce Merrifield]]
+#{{Nobel abbr|FK}} [[Ralph M. Steinman]]
+#{{Nobel abbr|Kim}} [[Roderick MacKinnon]]
+|
+#{{Nobel abbr|FK}} [[Paul Nurse]]
+|
+|}
+
+=={{flagicon|USA}} Universitas Minnesota==
+
+{| class='wikitable'
+|-
+!Afiliasi <ref group=Catatan name=Afiliasi/>
+!Alumni <ref group=Catatan name=Alumnis/>
+!Peneliti atau Mahasiswa<ref group=Catatan name=attendeesresearch/>
+!Staf akademik sebelum atau pada saat penghargaan <ref group=Catatan name=staff1/>
+!Staf akademik setelah penghargaan <ref group=Catatan name=staff2/>
+|-
+|colspan="5"|[[Universitas Minnesota]]
+|-valign="top"
+|23
+|
+#{{Nobel abbr|Fis}} [[Ernest O. Lawrence]]
+#{{Nobel abbr|Fis}} [[Walter H. Brattain]]
+#{{Nobel abbr|Kim}} [[Melvin Calvin]]
+#{{Nobel abbr|FK}} [[Edward B. Lewis]]
+#{{Nobel abbr|FK}} [[Louis J. Ignarro]]
+#{{Nobel abbr|Eko}} [[Daniel McFadden]]
+#{{Nobel abbr|Eko}} [[Lars Peter Hansen]]
+#{{Nobel abbr|Pe}} [[Norman Borlaug]]
+|
+|
+#{{Nobel abbr|Fis}} [[Arthur Holly Compton]]
+#{{Nobel abbr|Fis}} [[John Bardeen]]<br />{{Nobel abbr|Fis}} [[John Bardeen]]<ref group=Catatan name=repeat2/>
+#{{Nobel abbr|Fis}} [[John H. van Vleck]]
+#{{Nobel abbr|Kim}} [[Paul D. Boyer]]
+#{{Nobel abbr|Kim}} [[William Lipscomb]]
+#{{Nobel abbr|FK}} [[Edward C. Kendall]]
+#{{Nobel abbr|FK}} [[Philip S. Hench]]
+#{{Nobel abbr|Eko}} [[Christopher Sims]]
+#{{Nobel abbr|Eko}} [[Edward C. Prescott]]
+#{{Nobel abbr|Eko}} [[George J. Stigler]]
+#{{Nobel abbr|Eko}} [[Milton Friedman]]
+#{{Nobel abbr|Eko}} [[Thomas J. Sargent]]
+#{{Nobel abbr|Eko}} [[Robert J. Shiller]]<ref name="Robert Shiller CV" /> 
+#{{Nobel abbr|Sas}} [[Saul Bellow]]
+|
+#{{Nobel abbr|Eko}} [[Leonid Hurwicz]]
+|-
+|}
+
+=={{flagicon|USA}} Universitas Washington di St. Louis ==
+
+{| class='wikitable'
+|-
+|colspan="5"|[[Universitas Washington di St. Louis]]
+|-
+!Afiliasi <ref group=Catatan name=Afiliasi/>
+!Alumni <ref group=Catatan name=Alumnis/>
+!Peneliti atau Mahasiswa<ref group=Catatan name=attendeesresearch/>
+!Staf akademik sebelum atau pada saat penghargaan <ref group=Catatan name=staff1/>
+!Staf akademik setelah penghargaan <ref group=Catatan name=staff2/>
+|-valign="top"
+|22 (resmi)<ref>{{cite web | url = http://library.wustl.edu/units/spec/archives/facts/nobelprizes.html | title = Washington University in St. Louis
+| accessdate = 2007-03-07}}</ref>
+|
+#{{Nobel abbr|Kim}} [[Daniel Nathans]]
+#{{Nobel abbr|FK}} [[Earl W. Sutherland, Jr.]]
+#{{Nobel abbr|FK}} [[Edwin G. Krebs]]
+|
+#{{Nobel abbr|Fis}} [[Arthur Holly Compton]]
+#{{Nobel abbr|Kim}} [[Aaron Ciechanover]]
+#{{Nobel abbr|Kim}} [[Daniel Nathans]]
+#{{Nobel abbr|Kim}} [[Paul Berg]]
+#{{Nobel abbr|FK}} [[Alfred Hershey]]
+#{{Nobel abbr|FK}} [[Arthur Kornberg]]
+#{{Nobel abbr|FK}} [[Edward Adelbert Doisy]]
+#{{Nobel abbr|FK}} [[Hamilton O. Smith]]
+#{{Nobel abbr|FK}} [[Herbert Spencer Gasser]]
+#{{Nobel abbr|FK}} [[Joseph Erlanger]]
+#{{Nobel abbr|FK}} [[Robert F. Furchgott]]
+#{{Nobel abbr|FK}} [[Severo Ochoa]]
+#{{Nobel abbr|FK}} [[Stanley Cohen (biokimiawan)|Stanley Cohen]]
+#{{Nobel abbr|Eko}} [[Douglass C. North]]
+#{{Nobel abbr|FK}} [[Carl Ferdinand Cori]]
+#{{Nobel abbr|FK}} [[Christian de Duve]]
+#{{Nobel abbr|FK}} [[Earl W. Sutherland, Jr.]]
+#{{Nobel abbr|FK}} [[Edwin G. Krebs]]
+#{{Nobel abbr|FK}} [[George D. Snell]]
+#{{Nobel abbr|FK}} [[Gerty Cori]]
+#{{Nobel abbr|Kim}} [[Luis Federico Leloir]]
+#{{Nobel abbr|FK}} [[Rita Levi Montalcini]]
+|
+|
+|-
+|}
+
+=={{flagicon|USA}} Universitas Carnegie Mellon==
+
+{| class='wikitable'
+|-
+!Afiliasi <ref group=Catatan name=Afiliasi/>
+!Alumni <ref group=Catatan name=Alumnis/>
+!Peneliti atau Mahasiswa<ref group=Catatan name=attendeesresearch/>
+!Staf akademik sebelum atau pada saat penghargaan <ref group=Catatan name=staff1/>
+!Staf akademik setelah penghargaan <ref group=Catatan name=staff2/>
+|-
+|colspan="5"|[[Universitas Carnegie Mellon]]
+|-valign="top"
+|21 (19 resmi)<ref>{{cite web | url =  http://www.cmu.edu/news/rankings-awards/awards/nobel-prize.shtml | title = CMU
+| accessdate = 2011-06-11}}</ref>
+|
+#{{Nobel abbr|Fis}} [[Clifford Shull]]
+#{{Nobel abbr|Fis}} [[John L. Hall]]
+#{{Nobel abbr|Eko}} [[Dale T. Mortensen]]
+#{{Nobel abbr|Eko}} [[Edward C. Prescott]]
+#{{Nobel abbr|Eko}} [[Finn E. Kydland]]
+#{{Nobel abbr|Eko}} [[John Forbes Nash]]
+#{{Nobel abbr|Eko}} [[Oliver Eaton Williamson]]
+|
+#{{Nobel abbr|Kim}} [[Ada Yonath]]
+#{{Nobel abbr|Kim}} [[Paul Flory]]
+# {{Nobel abbr|FK}} [[Paul Lauterbur]]
+|
+#{{Nobel abbr|Pe}} Edward Rubin
+#{{Nobel abbr|Fis}} [[Clinton Davisson]]
+#{{Nobel abbr|Fis}} [[Otto Stern]]
+#{{Nobel abbr|Kim}} [[John Pople]]
+#{{Nobel abbr|Kim}} [[Walter Kohn]]
+#{{Nobel abbr|Eko}} [[Edward C. Prescott]]
+#{{Nobel abbr|Eko}} [[Finn E. Kydland]]
+#{{Nobel abbr|Eko}} [[Franco Modigliani]]
+#{{Nobel abbr|Eko}} [[Herbert A. Simon]]
+#{{Nobel abbr|Eko}} [[Merton Miller]]
+#{{Nobel abbr|Eko}} [[Robert Lucas, Jr.]]
+#{{Nobel abbr|Eko}} [[Lars Peter Hansen]]
+|
+|-
+|}
+
+=={{flagicon|SWI}} Universitas Zurich==
+
+{| class='wikitable'
+|-
+!Afiliasi <ref group=Catatan name=Afiliasi/>
+!Alumni <ref group=Catatan name=Alumnis/>
+!Peneliti atau Mahasiswa<ref group=Catatan name=attendeesresearch/>
+!Staf akademik sebelum atau pada saat penghargaan <ref group=Catatan name=staff1/>
+!Staf akademik setelah penghargaan <ref group=Catatan name=staff2/>
+|-
+|colspan="5"|[[Universitas Zurich]]
+|-valign="top"
+|21 (resmi 12)<ref name="muellerscience.com"/><ref>{{cite web | url = http://www.uzh.ch/about/portrait/nobelprize_en.html | title =Universitas Zurich
+| accessdate = 2010-12-02}}</ref>
+|
+#{{Nobel abbr|Fis}} [[Albert Einstein]]
+#{{Nobel abbr|Fis}} [[Wilhelm Conrad Rntgen]]
+#{{Nobel abbr|Kim}} [[Paul Karrer]]
+#{{Nobel abbr|FK}} [[Walter Rudolf Hess]]
+#{{Nobel abbr|Sas}} [[Carl Spitteler]]
+#{{Nobel abbr|Sas}} [[Theodor Mommsen]]
+#{{Nobel abbr|Kim}} [[Alfred Werner]]
+|
+#{{Nobel abbr|Fis}} [[Charles-Edouard Guillaume]]
+#{{Nobel abbr|Fis}} [[Karl Landsteiner]]
+#{{Nobel abbr|Kim}} [[Linus Pauling]]<br />{{Nobel abbr|Pe}} [[Linus Pauling]]<ref group=Catatan name=repeat2/>
+#{{Nobel abbr|Kim}} [[Walther Nernst]]
+#{{Nobel abbr|FK}} [[Emil Theodor Kocher]]
+#{{Nobel abbr|FK}} [[Eric F. Wieschaus]]
+#{{Nobel abbr|FK}} [[George Wald]]
+#{{Nobel abbr|FK}} [[Hamilton O. Smith]]
+|
+#{{Nobel abbr|Fis}} [[Albert Einstein]]
+#{{Nobel abbr|Fis}} [[Erwin Schrdinger]]
+#{{Nobel abbr|Fis}} [[K. Alex Mller]]
+#{{Nobel abbr|Fis}} [[Max von Laue]]
+#{{Nobel abbr|Kim}} [[Leopold Ruika]]
+#{{Nobel abbr|Kim}} [[Paul Karrer]]
+#{{Nobel abbr|Kim}} [[Peter Debye]]
+#{{Nobel abbr|FK}} [[Rolf Zinkernagel]]
+#{{Nobel abbr|FK}} [[Walter Rudolf Hess]]
+#{{Nobel abbr|Kim}} [[Alfred Werner]]
+|
+|-
+|}
+
+=={{flagicon|USA}} Universitas California, San Diego==
+
+{| class='wikitable'
+|-
+!Afiliasi <ref group=Catatan name=Afiliasi/>
+!Alumni <ref group=Catatan name=Alumnis/>
+!Peneliti atau Mahasiswa<ref group=Catatan name=attendeesresearch/>
+!Staf akademik sebelum atau pada saat penghargaan <ref group=Catatan name=staff1/>
+!Staf akademik setelah penghargaan <ref group=Catatan name=staff2/>
+|-
+|colspan="5"| [[Universitas California, San Diego]]<ref>{{cite web | url = http://www.universityofcalifornia.edu/nobel/list.html | title = Universitas California | accessdate = 2008-10-08}}</ref><ref>{{cite web | url = http://ucsdnews.ucsd.edu/newsrel/science/10-09Ramakrishnan.asp | title = Former UC San Diego Alumni Student Shares 2009 Nobel Prize in Chemistry for Ribosome Research | publisher = UC San Diego website | date = October 7, 2009}}</ref><ref>{{cite web | url = http://www.physics.ucsb.edu/~kohn/ | title = Walter Kohn | publisher = UC Santa Barbara physics website}}</ref>
+|-valign="top"
+|20
+|
+#{{Nobel abbr|FK}} [[Bruce Beutler]]
+#{{Nobel abbr|FK}} [[Susumu Tonegawa]]
+|
+#{{Nobel abbr|Kim}} [[Venkatraman Ramakrishnan]]
+|
+#{{Nobel abbr|Fis}} [[Hannes Alfvn]]
+#{{Nobel abbr|Fis}} [[Maria Goeppert-Mayer]]
+#{{Nobel abbr|Kim}} [[Harold Urey]]
+#{{Nobel abbr|Kim}} [[Linus Pauling]]<br />{{Nobel abbr|Pe}} [[Linus Pauling]]<ref group=Catatan name=repeat2/>
+#{{Nobel abbr|Kim}} [[Mario Molina]]
+#{{Nobel abbr|Kim}} [[Paul Crutzen]]
+#{{Nobel abbr|Kim}} [[Roger Tsien]]
+#{{Nobel abbr|Kim}} [[Walter Kohn]]
+#{{Nobel abbr|FK}} [[Francis Crick]]
+#{{Nobel abbr|FK}} [[George Palade]]
+#{{Nobel abbr|FK}} [[Renato Dulbecco]]
+#{{Nobel abbr|FK}} [[Robert W. Holley]]
+#{{Nobel abbr|FK}} [[Roger Guillemin]]
+#{{Nobel abbr|FK}} [[Sydney Brenner]]
+#{{Nobel abbr|Eko}} [[Clive Granger]]
+#{{Nobel abbr|Eko}} [[Harry Markowitz]]
+#{{Nobel abbr|Eko}} [[Robert Engle]]
+|
+|-
+|}
+
+=={{flagicon|USA}} Universitas Michigan==
+
+{| class='wikitable'
+|-
+!Afiliasi <ref group=Catatan name=Afiliasi/>
+!Alumni <ref group=Catatan name=Alumnis/>
+!Peneliti atau Mahasiswa<ref group=Catatan name=attendeesresearch/>
+!Staf akademik sebelum atau pada saat penghargaan <ref group=Catatan name=staff1/>
+!Staf akademik setelah penghargaan <ref group=Catatan name=staff2/>
+|-
+|colspan="5"|[[Universitas Michigan]]
+|-valign="top"
+|20
+|
+#{{Nobel abbr|Fis}} [[David Politzer]]
+#{{Nobel abbr|Fis}} [[Samuel C.C. Ting]]
+#{{Nobel abbr|Kim}} [[Jerome Karle]]
+#{{Nobel abbr|Kim}} [[Richard Smalley]]
+#{{Nobel abbr|FK}} [[Marshall Warren Nirenberg]]
+#{{Nobel abbr|FK}} [[Stanley Cohen (biokimiawan)|Stanley Cohen]]
+#{{Nobel abbr|FK}} [[Thomas Huckle Weller]]
+#{{Nobel abbr|Eko}} [[Robert J. Shiller]]
+|
+|
+#{{Nobel abbr|Fis}} [[Carl E. Wieman]]
+#{{Nobel abbr|Fis}} [[Charles H. Townes]]
+#{{Nobel abbr|Fis}} [[Donald A. Glaser]]
+#{{Nobel abbr|Fis}} [[Martin L. Perl]]
+#{{Nobel abbr|Fis}} [[Martinus J.G. Veltman]]
+#{{Nobel abbr|Fis}} [[Norman F. Ramsey]]
+#{{Nobel abbr|Fis}} [[Wolfgang Pauli]]
+#{{Nobel abbr|FK}} [[Hamilton O. Smith]]
+#{{Nobel abbr|Eko}} [[Lawrence R. Klein]]
+#{{Nobel abbr|Sas}} [[Joseph Brodsky]]
+#{{Nobel abbr|FK}} [[Charles Brenton Huggins]]
+# {{Nobel abbr|FK}} [[Francis Peyton Rous]]
+|
+|-
+|}
+
+=={{flagicon|Germany}} Universitas Teknik Munich==
+
+{| class='wikitable'
+|-
+!Afiliasi <ref group=Catatan name=Afiliasi/>
+!Alumni <ref group=Catatan name=Alumnis/>
+!Peneliti atau Mahasiswa<ref group=Catatan name=attendeesresearch/>
+!Staf akademik sebelum atau pada saat penghargaan <ref group=Catatan name=staff1/>
+!Staf akademik setelah penghargaan <ref group=Catatan name=staff2/>
+|-
+|colspan="5"|[[Universitas Teknik Munich]]
+|-valign="top"
+|20
+|
+#{{Nobel abbr|Fis}} [[Gerhard Ertl]]
+#{{Nobel abbr|Fis}} [[Rudolf Mssbauer]]
+#{{Nobel abbr|Fis}} [[Wolfgang Ketterle]]
+#{{Nobel abbr|Fis}} [[Wolfgang Paul]]
+#{{Nobel abbr|Kim}} [[Ernst Otto Fischer]]
+#{{Nobel abbr|Kim}} [[Johann Deisenhofer]]
+#{{Nobel abbr|FK}} [[Erwin Neher]]
+#{{Nobel abbr|FK}} [[Konrad E. Bloch]]
+#{{Nobel abbr|Sas}} [[Thomas Mann]]
+#{{Nobel abbr|Fis}} [[Ernst Ruska]]
+#{{Nobel abbr|Kim}} [[Robert Huber]]
+|
+#{{Nobel abbr|Fis}} [[Gerhard Ertl]]
+#{{Nobel abbr|Fis}} [[Rudolf Mssbauer]]<ref group=Catatan name=repeat/>
+#{{Nobel abbr|Kim}} [[Ernst Otto Fischer]]
+#{{Nobel abbr|Kim}} [[Johann Deisenhofer]]
+|
+#{{Nobel abbr|Fis}} [[Gerhard Ertl]]
+#{{Nobel abbr|Fis}} [[Klaus von Klitzing]]
+#{{Nobel abbr|Kim}} [[Ernst Otto Fischer]]
+#{{Nobel abbr|Kim}} [[Heinrich Otto Wieland]]
+#{{Nobel abbr|Kim}} [[Hans Fischer]]
+|
+#{{Nobel abbr|Fis}} [[John Robert Schrieffer]]
+#{{Nobel abbr|Fis}} [[Rudolf Mssbauer]]<ref group=Catatan name=repeat/>
+#{{Nobel abbr|Kim}} [[Ernst Otto Fischer]]
+#{{Nobel abbr|Kim}} [[Ryoji Noyori]]
+#{{Nobel abbr|FK}} [[Feodor Lynen]]
+#{{Nobel abbr|Kim}} [[Hans Fischer]]
+#{{Nobel abbr|Kim}} [[K. Barry Sharpless]]
+#{{Nobel abbr|Kim}} [[Richard Robert Ernst]]
+|-
+|}
+
+==Universitas lainnya==
+
+{| class='wikitable'
+|-
+!Afiliasi <ref group=Catatan name=Afiliasi/>
+!Alumni <ref group=Catatan name=Alumnis/>
+!Peneliti atau Mahasiswa<ref group=Catatan name=attendeesresearch/>
+!Staf akademik sebelum atau pada saat penghargaan <ref group=Catatan name=staff1/>
+!Staf akademik setelah penghargaan <ref group=Catatan name=staff2/>
+|-
+|colspan="5"|{{flagicon|GER}} [[Universitas Freiburg]]<ref>{{cite web | url = http://www.pr.uni-freiburg.de/publikationen/flyerbroschplak/Nobelpreisgewinner_universitaet_freiburg.pdf | title = top Nobelpreistrger Universitt Freiburg | accessdate = 2009-12-13}}</ref>
+
+|-valign="top"
+|19 (resmi 10)
+|
+#{{Nobel abbr|Fis}} [[J. Hans D. Jensen]]
+#{{Nobel abbr|Kim}} [[Adolf Windaus]]
+#{{Nobel abbr|Kim}} [[George de Hevesy]]
+#{{Nobel abbr|Kim}} [[Mario Molina]]
+#{{Nobel abbr|FK}} [[Georges J. F. Khler]]
+#{{Nobel abbr|FK}} [[Hans Adolf Krebs]]
+|
+#{{Nobel abbr|FK}} [[Bert Sakmann]]
+#{{Nobel abbr|FK}} [[Christiane Nsslein-Volhard]]
+#{{Nobel abbr|FK}} [[Otto Fritz Meyerhof]]
+#{{Nobel abbr|FK}} [[Otto Heinrich Warburg]]
+#{{Nobel abbr|FK}} [[Paul Ehrlich]]
+#{{Nobel abbr|FK}} [[Philip S. Hench]]
+#{{Nobel abbr|FK}} [[Robert Brny]]
+|
+#{{Nobel abbr|Kim}} [[Adolf Windaus]]
+#{{Nobel abbr|Kim}} [[Georg Wittig]]
+#{{Nobel abbr|Kim}} [[George de Hevesy]]
+#{{Nobel abbr|Kim}} [[Heinrich Otto Wieland]]
+#{{Nobel abbr|Kim}} [[Hermann Staudinger]]
+#{{Nobel abbr|FK}} [[Georges J. F. Khler]]
+#{{Nobel abbr|FK}} [[Hans Adolf Krebs]]
+#{{Nobel abbr|FK}} [[Hans Spemann]]
+#{{Nobel abbr|FK}} [[Harald zur Hausen]]
+#{{Nobel abbr|Eko}} [[Friedrich August von Hayek]]
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas WisconsinMadison]]
+
+|-valign="top"
+|19
+|
+#{{Nobel abbr|Fis}} [[John Bardeen]]<br />{{Nobel abbr|Fis}} [[John Bardeen]]<ref group=Catatan name=repeat2/>
+#{{Nobel abbr|Fis}} [[John H. van Vleck]]
+#{{Nobel abbr|Kim}} [[Paul D. Boyer]]
+#{{Nobel abbr|Kim}} [[Stanford Moore]]
+#{{Nobel abbr|FK}} [[Edward Lawrie Tatum]]
+#{{Nobel abbr|FK}} [[Erwin Neher]]
+#{{Nobel abbr|FK}} [[Gnter Blobel]]
+#{{Nobel abbr|FK}} [[Herbert Spencer Gasser]]
+#{{Nobel abbr|Eko}} [[Theodore Schultz]]
+#{{Nobel abbr|Pe}} [[Ellen Johnson Sirleaf]]
+#{{Nobel abbr|Kim}} [[Alan MacDiarmid]]
+|
+|
+#{{Nobel abbr|Fis}} [[Eugene P. Wigner]]
+#{{Nobel abbr|FK}} [[Har Gobind Khorana]]
+#{{Nobel abbr|FK}} [[Howard M. Temin]]
+#{{Nobel abbr|FK}} [[Joseph Erlanger]]
+#{{Nobel abbr|FK}} [[Joshua Lederberg]]
+#{{Nobel abbr|FK}} [[Oliver Smithies]]
+|
+|-
+|colspan="5"|{{flagicon|GBR}} [[Universitas Edinburgh]]
+|-valign="top"
+|18
+|
+#{{Nobel abbr|FK}} [[Robert G. Edwards]]
+#{{Nobel abbr|Eko}} [[James Mirrlees]]
+#{{Nobel abbr|FK}} [[Peter C. Doherty]]
+|
+#{{Nobel abbr|Fis}} [[Igor Tamm]]
+#{{Nobel abbr|Kim}} [[Vincent du Vigneaud]]
+#{{Nobel abbr|FK}} [[Paul Nurse]]
+#{{Nobel abbr|FK}} [[Randy Schekman]]
+|
+#{{Nobel abbr|Fis}} [[Charles Barkla]]
+#{{Nobel abbr|Fis}} [[Edward Victor Appleton|Edward Appleton]]
+#{{Nobel abbr|Fis}} [[Max Born]]
+#{{Nobel abbr|Fis}} [[Peter Higgs]]
+#{{Nobel abbr|FK}} [[Hermann J. Muller]]
+#{{Nobel abbr|Sas}} [[Winston Churchill]]
+#{{Nobel abbr|Sas}} [[Joseph Rotblat]]
+#{{Nobel abbr|Kim}} [[Alexander Robertus Todd]]
+#{{Nobel abbr|Kim}} [[Kurt Wthrich]]
+#{{Nobel abbr|Kim}} [[Peter D. Mitchell|Peter Mitchell]]
+|
+#{{Nobel abbr|FK}} [[Alexander Fleming]]
+|-
+|-
+|colspan="5"|{{flagicon|GBR}} [[London School of Economics and Political Science]]<ref>{{cite web | url = http://www2.lse.ac.uk/intranet/LSEServices/divisionsAndDepartments/ERD/pressAndInformationOffice/LSEFacts/nobelPrizeWinners/Home.aspx|title=LSE Nobel Prize Winners}}</ref>
+|-valign="top"
+|17
+|
+# {{Nobel abbr|Eko}} [[Christopher A. Pissarides]]
+# {{Nobel abbr|Eko}} [[Leonid Hurwicz]]
+# {{Nobel abbr|Eko}} [[Ronald Coase]]
+# {{Nobel abbr|Eko}} [[Sir William Arthur Lewis]]
+#{{Nobel abbr|Pe}} [[scar Arias]]
+|
+# {{Nobel abbr|Eko}} [[Robert Mundell]]
+#{{Nobel abbr|Pe}} [[Ralph Bunche]]
+|
+# {{Nobel abbr|Eko}} [[Amartya Sen]]
+# {{Nobel abbr|Eko}} [[Christopher A. Pissarides]]
+# {{Nobel abbr|Eko}} [[Friedrich von Hayek]]
+# {{Nobel abbr|Eko}} [[George Akerlof]]
+# {{Nobel abbr|Eko}} [[James Meade]]
+# {{Nobel abbr|Eko}} [[Merton Miller]]
+# {{Nobel abbr|Eko}} [[Paul Krugman]]
+# {{Nobel abbr|Eko}} [[Sir John Hicks]]
+#{{Nobel abbr|Pe}} [[Philip Noel-Baker]]
+# {{Nobel abbr|Sas}} [[Bertrand Russell]]
+# {{Nobel abbr|Sas}} [[George Bernard Shaw]]
+|
+|-
+|colspan="5"|{{flagicon|GBR}} [[Imperial College London]]<ref>{{cite web | url = http://www3.imperial.ac.uk/aboutimperial/imperial_people/nobel_laureates | title = Imperial College London | accessdate = 2010-07-17}}</ref>
+|-valign="top"
+|16
+|
+#{{Nobel abbr|Kim}} [[Derek Barton]]
+#{{Nobel abbr|Kim}} [[Geoffrey Wilkinson]]
+#{{Nobel abbr|FK}} [[Alexander Fleming]]
+|
+#{{Nobel abbr|Kim}} [[Walter Haworth]]
+#{{Nobel abbr|Kim}} [[Peter Higgs]]
+#{{Nobel abbr|FK}} [[Frederick Gowland Hopkins]]
+|
+#{{Nobel abbr|Fis}} [[Abdus Salam]]
+#{{Nobel abbr|Fis}} [[Dennis Gabor]]
+#{{Nobel abbr|Fis}} [[George Paget Thomson|George Thomson]]
+#{{Nobel abbr|Kim}} [[Derek Barton]]
+#{{Nobel abbr|Kim}} [[Geoffrey Wilkinson]]
+#{{Nobel abbr|FK}} [[Alexander Fleming]]
+#{{Nobel abbr|FK}} [[Rodney Porter]]
+|
+#{{Nobel abbr|Fis}} [[Patrick Blackett, Baron Blackett|Patrick M. S. Blackett]]
+#{{Nobel abbr|Kim}} [[Cyril Hinshelwood]]
+#{{Nobel abbr|Kim}} [[George Porter]]
+#{{Nobel abbr|FK}} [[Andrew Huxley]]
+#{{Nobel abbr|FK}} [[Ernest Chain]]
+|-
+|colspan="5"|{{flagicon|USA}} [[Case Western Reserve University]]
+|-valign="top"
+|16
+|
+#{{Nobel abbr|Fis}} [[Donald A. Glaser]]
+#{{Nobel abbr|Fis}} [[Polykarp Kusch]]
+#{{Nobel abbr|Kim}} [[Paul Berg]]
+#{{Nobel abbr|FK}} [[Alfred G. Gilman]]
+#{{Nobel abbr|FK}} [[Ferid Murad]]
+#{{Nobel abbr|FK}} [[Paul Lauterbur]]
+#{{Nobel abbr|Eko}} [[Edward C. Prescott]]
+|
+#{{Nobel abbr|Kim}} [[Peter Agre]]
+|
+#{{Nobel abbr|Fis}} [[Albert Abraham Michelson]]
+#{{Nobel abbr|Fis}} [[Frederick Reines]]
+#{{Nobel abbr|Kim}} [[George Andrew Olah]]
+#{{Nobel abbr|FK}} [[Corneille Heymans]]
+#{{Nobel abbr|FK}} [[Earl Wilbur Sutherland, Jr.]]
+#{{Nobel abbr|FK}} [[Frederick Chapman Robbins]]
+#{{Nobel abbr|FK}} [[George H. Hitchings]]
+#{{Nobel abbr|FK}} [[John James Richard Macleod]]
+|
+|-
+|colspan="5"|{{flagicon|NED}} [[Universitas Leiden]]<ref>{{cite web | url = http://about.leiden.edu/laureates/international/nobel-prize.html | title = Universitas Leiden | accessdate = 2011-08-08}}</ref>
+|-valign="top"
+|16
+|
+#{{Nobel abbr|Fis}} [[Nicolaas Bloembergen]]
+#{{Nobel abbr|Fis}} [[Pieter Zeeman]]
+#{{Nobel abbr|Kim}} [[Jacobus Henricus van 't Hoff]]
+#{{Nobel abbr|Eko}} [[Tjalling Koopmans]]
+#{{Nobel abbr|Pe}} [[Tobias Asser]]
+#{{Nobel abbr|Pe}} [[Gerrit Jan van Heuven Goedhart]]
+#{{Nobel abbr|Eko}} [[Jan Tinbergen]]
+#{{Nobel abbr|Fis}} [[Johannes Diderik van der Waals|J.D. van der Waals]]
+#{{Nobel abbr|FK}} [[Niko Tinbergen]]
+|
+#{{Nobel abbr|Fis}} [[Enrico Fermi]]
+#{{Nobel abbr|Fis}} [[Igor Tamm]]
+|
+#{{Nobel abbr|Fis}} [[Albert Einstein]]
+#{{Nobel abbr|Fis}} [[Heike Kamerlingh Onnes]]
+#{{Nobel abbr|Fis}} [[Hendrik A. Lorentz]]
+#{{Nobel abbr|FK}} [[Albert Szent-Gyrgyi]]
+#{{Nobel abbr|FK}} [[Willem Einthoven]]
+|
+|-
+|colspan="5"|{{flagicon|AUT}} [[Universitas Vienna]]
+|-valign="top"
+|15
+|
+#{{Nobel abbr|Fis}} [[Erwin Schrdinger]]
+#{{Nobel abbr|Fis}} [[Karl Landsteiner]]
+#{{Nobel abbr|FK}} [[Konrad Lorenz]]
+#{{Nobel abbr|FK}} [[Robert Brny]]
+#{{Nobel abbr|Eko}} [[Friedrich Hayek]]
+|
+|
+#{{Nobel abbr|Fis}} [[Karl Landsteiner]]
+#{{Nobel abbr|Fis}} [[Victor Francis Hess]]
+#{{Nobel abbr|Kim}} [[Hans Fischer]]
+#{{Nobel abbr|FK}} [[Julius Wagner-Jauregg]]
+#{{Nobel abbr|FK}} [[Otto Loewi]]
+|
+|-
+|colspan="5"|{{flagicon|SWE}} [[Universitas Uppsala]]
+|-valign="top"
+|15
+|
+#{{Nobel abbr|Pe}} [[Nathan Sderblom]]
+#{{Nobel abbr|Sas}} [[Erik Axel Karlfeldt]]
+#{{Nobel abbr|Pe}} [[Alva Myrdal]]
+#{{Nobel abbr|Kim}} [[Arne Tiselius]]
+#[[Dag Hammarskjld]]
+#{{Nobel abbr|Fis}} [[Hannes Alfvn]]
+#{{Nobel abbr|Kim}} [[Svante Arrhenius]]
+#[[Theodor Svedberg]]
+|
+|
+#{{Nobel abbr|Fis}} [[Kai Siegbahn]]
+#{{Nobel abbr|Fis}} [[Manne Siegbahn]]
+#{{Nobel abbr|FK}} [[Robert Brny]]
+#{{Nobel abbr|Sas}} [[Pr Lagerkvist]]
+#[[Allvar Gullstrand]]
+#{{Nobel abbr|Pe}} [[Hjalmar Branting]]
+#{{Nobel abbr|FK}} [[Hugo Theorell]]
+|
+|-
+
+|colspan="5"|{{flagicon|USA}} [[Universitas California, Los Angeles]]
+|-valign="top"
+|15 (resmi 13)<ref name=UCLA>{{cite web | title = Randy Schekman, molecular biologist and UCLA alumnus, wins 2013 Nobel Prize | url =http://newsroom.ucla.edu/portal/ucla/randy-schekman-molecular-biologist-248784.aspx?link_page_rss=248784 | accessdate = 2013-10-07}}</ref>
+
+|
+#{{Nobel abbr|Kim}} [[Bruce Merrifield]]
+#{{Nobel abbr|Kim}} [[Glenn T. Seaborg]]
+#{{Nobel abbr|Kim}} [[Richard Heck]]
+#{{Nobel abbr|Eko}} [[Elinor Ostrom]]
+#{{Nobel abbr|Eko}} [[William Forsyth Sharpe|William Sharpe]]
+#{{Nobel abbr|Pe}} [[Ralph Bunche]]
+#{{Nobel abbr|FK}} [[Randy Schekman]]
+|
+|
+#{{Nobel abbr|Kim}} [[Donald Cram]]
+#{{Nobel abbr|Kim}} [[Paul D. Boyer]]
+#{{Nobel abbr|Kim}} [[Willard Libby]]
+#{{Nobel abbr|FK}} [[Louis Ignarro]]
+#{{Nobel abbr|Eko}} [[Lloyd Shapley]]
+#{{Nobel abbr|Sas}} [[Bertrand Russell]]
+#{{Nobel abbr|Pe}} [[Al Gore]]
+|
+#{{Nobel abbr|Fis}} [[Julian Schwinger]]
+|-
+|colspan="5"|{{flagicon|GER}} [[Universitas Goethe Frankfurt]]
+|-valign="top"
+|14
+|
+#{{Nobel abbr|Fis}} [[Gerd Binnig]]
+#{{Nobel abbr|Fis}} [[Hans Albrecht Bethe]]
+#{{Nobel abbr|Fis}} [[Horst Ludwig Strmer]]
+#{{Nobel abbr|Kim}} [[Alexander Robertus Todd]]
+#{{Nobel abbr|FK}} [[Christiane Nsslein-Volhard]]
+#{{Nobel abbr|FK}} [[Gnter Blobel]]
+#{{Nobel abbr|Eko}} [[Reinhard Selten]]
+|
+|
+#{{Nobel abbr|Fis}} [[Max Born]]
+#{{Nobel abbr|Fis}} [[Max von Laue]]<ref>{{cite web|title=Nobel Prize Goethe University|url=http://www.nobelprize.org/nobel_prizes/physics/laureates/1914/laue.html}}</ref>
+#{{Nobel abbr|Fis}} [[Otto Stern]]
+#{{Nobel abbr|Kim}} [[Hartmut Michel]]
+#{{Nobel abbr|Kim}} [[Karl Ziegler]]
+#{{Nobel abbr|Kim}} [[Paul Karrer]]
+#{{Nobel abbr|FK}} [[Paul Ehrlich]]
+|
+|-
+|colspan="5"|{{flagicon|GER}} [[Universitas Wrzburg]]
+|-valign="top"
+|14<ref>{{cite web|title=Nobelpreistrger der Universitt Wrzburg|url=http://www.uni-wuerzburg.de/ueber/universitaet_wuerzburg/persoenlichkeiten/nobelpreise/|accessdate=17 October 2011}}</ref>
+|
+|
+#{{Nobel abbr|Fis}} [[Karl Landsteiner]]
+#{{Nobel abbr|Fis}} [[Klaus von Klitzing]]
+#{{Nobel abbr|Kim}} [[Hartmut Michel]]
+#{{Nobel abbr|Kim}} [[Walther Nernst]]
+#{{Nobel abbr|FK}} [[Harald zur Hausen]]
+#{{Nobel abbr|Fis}} [[Karl Ferdinand Braun]]
+#{{Nobel abbr|Kim}} [[Svante Arrhenius]]
+|
+#{{Nobel abbr|Fis}} [[Wilhelm Wien]]
+#{{Nobel abbr|Kim}} [[Hermann Emil Fischer]]
+#{{Nobel abbr|FK}} [[Hans Spemann]]
+#{{Nobel abbr|Fis}} [[Wilhelm Rntgen]]
+|
+#{{Nobel abbr|Fis}} [[Johannes Stark]]
+#{{Nobel abbr|Fis}} [[Max von Laue]]
+#{{Nobel abbr|Kim}} [[Eduard Buchner]]
+|-
+|colspan="5"|{{flagicon|FRA}} [[cole Normale Suprieure]]
+|-valign="top"
+|14
+|
+#{{Nobel abbr|Fis}} [[Albert Fert]]
+#{{Nobel abbr|Fis}} [[Alfred Kastler]]
+#{{Nobel abbr|Fis}} [[Claude Cohen-Tannoudji]]
+#{{Nobel abbr|Fis}} [[Gabriel Lippmann]]
+#{{Nobel abbr|Fis}} [[Louis Nel]]
+#{{Nobel abbr|Fis}} [[Pierre-Gilles de Gennes]]
+#{{Nobel abbr|Kim}} [[Paul Sabatier (kimiawan)|Paul Sabatier]]
+#{{Nobel abbr|Eko}} [[Grard Debreu]]
+#{{Nobel abbr|Sas}} [[Henri Bergson]]
+#{{Nobel abbr|Sas}} [[Jean-Paul Sartre]]
+#{{Nobel abbr|Sas}} [[Romain Rolland]]
+#{{Nobel abbr|Fis}} [[Jean Perrin]]
+|
+#{{Nobel abbr|Fis}} [[Serge Haroche]]
+#{{Nobel abbr|Sas}} [[Samuel Beckett]]
+|
+|
+#{{Nobel abbr|Fis}} [[Nicolaas Bloembergen]]
+|-
+|colspan="5"|{{flagicon|DEN}} [[Universitas Copenhagen]]
+|-valign="top"
+|13
+|
+#{{Nobel abbr|Fis}} [[Aage Bohr]]
+#{{Nobel abbr|Fis}} [[Niels Bohr]]
+#{{Nobel abbr|FK}} [[August Krogh]]
+#{{Nobel abbr|Kim}} [[Jens Christian Schou]]
+#{{Nobel abbr|FK}} [[Johannes Fibiger]]
+#{{Nobel abbr|FK}} [[Niels Kaj Jerne]]
+#{{Nobel abbr|FK}} [[Niels Ryberg Finsen]]
+|
+#{{Nobel abbr|Fis}} [[Ben Roy Mottelson]]
+#{{Nobel abbr|Sas}} [[Johannes Vilhelm Jensen]]
+|
+#{{Nobel abbr|Fis}} [[Aage Bohr]]
+#{{Nobel abbr|Fis}} [[Niels Bohr]]
+#{{Nobel abbr|Kim}} [[George de Hevesy]]
+#{{Nobel abbr|Kim}} [[Walter Kohn]]
+#{{Nobel abbr|Eko}} [[Bertil Ohlin]]
+#{{Nobel abbr|FK}} [[August Krogh]]
+#{{Nobel abbr|FK}} [[Henrik Dam]]
+#{{Nobel abbr|FK}} [[Johannes Fibiger]]
+#{{Nobel abbr|FK}} [[Niels Ryberg Finsen]]
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[City Universitas New York]]<ref>{{cite web | url = http://www1.cuny.edu/about/cuny/nobel-laureates.html | title = City Universitas New York| accessdate = 2007-05-10}} (including [[City College of New York]])</ref>
+|-valign="top"
+|13
+|
+#{{Nobel abbr|Fis}} [[Leon M. Lederman]]
+#{{Nobel abbr|Fis}} [[Robert Hofstadter]]
+#{{Nobel abbr|Kim}} [[Jerome Karle]]
+#{{Nobel abbr|FK}} [[Arthur Kornberg]]
+#{{Nobel abbr|FK}} [[Julius Axelrod]]
+#{{Nobel abbr|FK}} [[Stanley Cohen (biokimiawan)|Stanley Cohen]]
+#{{Nobel abbr|Eko}} [[Robert J. Aumann]]
+#{{Nobel abbr|Eko}} [[Kenneth J. Arrow]]
+#{{Nobel abbr|Pe}} [[Henry Kissinger]]
+#{{Nobel abbr|Fis}} [[Arno A. Penzias]]
+#{{Nobel abbr|Kim}} [[Herbert A. Hauptman]]
+#{{Nobel abbr|FK}} [[Gertrude B. Elion]]
+#{{Nobel abbr|FK}} [[Rosalyn Yalow]]
+|
+|
+#{{Nobel abbr|Eko}} [[Harry M. Markowitz]]
+|
+|-
+|colspan="5"|{{flagicon|GBR}} [[King's College London]]<ref>{{cite web | url = https://www.kcl.ac.uk/about/history/people/nobel.html | title = King's College London | accessdate = 2006-07-03}}</ref>
+|-valign="top"
+|12
+|
+#{{Nobel abbr|FK}} [[Frederick Gowland Hopkins]]
+#{{Nobel abbr|FK}} [[Max Theiler]]
+#{{Nobel abbr|Pe}} [[Desmond Tutu]]
+#{{Nobel abbr|Fis}} [[Peter Higgs]]
+#{{Nobel abbr|Kim}} [[Michael Levitt]]
+|
+|
+#{{Nobel abbr|Fis}} [[Charles Barkla]]
+#{{Nobel abbr|Fis}} [[Edward Victor Appleton|Edward Appleton]]
+#{{Nobel abbr|Fis}} [[Owen Richardson]]
+#{{Nobel abbr|FK}} [[Charles Scott Sherrington]]
+#{{Nobel abbr|FK}} [[Frederick Gowland Hopkins]]
+#{{Nobel abbr|FK}} [[James W. Black]]
+#{{Nobel abbr|FK}} [[Maurice Wilkins]]
+#{{Nobel abbr|Sas}} [[Mario Vargas Llosa]]
+|
+#{{Nobel abbr|Pe}} [[Desmond Tutu]]
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas Duke]] (tidak termasuk penerima Nobel yang pernah memberi kuliah sebagai pembicara).
+|-valign="top"
+|12
+|
+#{{Nobel abbr|Fis}} [[Charles H. Townes]]
+#{{Nobel abbr|Fis}} [[Robert Coleman Richardson]]
+|
+#{{Nobel abbr|Fis}} [[Hans G. Dehmelt]]
+#{{Nobel abbr|Kim}} [[Brian Kobilka]]
+|
+#{{Nobel abbr|Kim}} [[Robert J. Lefkowitz]]
+#{{Nobel abbr|Eko}} [[Joseph Stiglitz]]
+#{{Nobel abbr|FK}} [[George H. Hitchings]]
+#{{Nobel abbr|FK}} [[Gertrude B. Elion]]
+|
+#{{Nobel abbr|Kim}} [[Peter Agre]]
+#{{Nobel abbr|Sas}} [[Wole Soyinka]]
+|-
+|colspan="5"|{{flagicon|CAN}} [[Universitas McGill]]
+|-valign="top"
+|11
+|
+#{{Nobel abbr|Kim}} [[Rudolph Marcus]]
+#{{Nobel abbr|FK}} [[Jack W. Szostak]]
+#{{Nobel abbr|FK}} [[Ralph M. Steinman]]
+#{{Nobel abbr|FK}} [[Andrew Schally]]
+#{{Nobel abbr|FK}} [[David H. Hubel]]
+#{{Nobel abbr|Fis}} [[Val L. Fitch]]
+#{{Nobel abbr|Fis}} [[Willard Boyle]]
+|
+#{{Nobel abbr|Fis}} [[Frederick Soddy]]
+#{{Nobel abbr|Kim}} [[Otto Hahn]]
+|
+#{{Nobel abbr|Fis}} [[Ernest Rutherford]]
+#{{Nobel abbr|Eko}} [[Robert Mundell]]
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas Washington]]
+|-valign="top"
+|12
+|
+#{{Nobel abbr|FK}} [[Martin Rodbell]]
+#{{Nobel abbr|FK}} [[Linda B. Buck]]
+#{{Nobel abbr|Eko}} [[George Stigler]]
+#{{Nobel abbr|FK}} [[George H. Hitchings]]
+|
+#{{Nobel abbr|Fis}} [[David J. Wineland]]
+|
+#{{Nobel abbr|Fis}} [[Hans G. Dehmelt]]
+#{{Nobel abbr|FK}} [[Leland H. Hartwell]]
+#{{Nobel abbr|FK}} [[Linda B. Buck]]
+#{{Nobel abbr|Eko}} [[Douglass North]]
+#{{Nobel abbr|Eko}} [[William F. Sharpe]]
+|
+#{{Nobel abbr|FK}} [[E. Donnall Thomas]]
+#{{Nobel abbr|FK}} [[Edmond H. Fischer]]
+#{{Nobel abbr|FK}} [[Edwin G. Krebs]]
+|-
+|colspan="5"|{{flagicon|SWI}} [[Universitas Jenewa]]<ref name="muellerscience.com"/>
+|-valign="top"
+|11
+|
+#{{Nobel abbr|FK}} [[Daniel Bovet]]
+#{{Nobel abbr|Pe}} [[Kofi Annan]]
+#{{Nobel abbr|FK}} [[Edmond H. Fischer]]
+#{{Nobel abbr|Pe}} [[Norman Angell]]
+|
+#{{Nobel abbr|FK}} [[Werner Arber]]
+|
+#{{Nobel abbr|Kim}} [[Alan J. Heeger]]
+#{{Nobel abbr|FK}} [[Martin Rodbell]]
+#{{Nobel abbr|FK}} [[Niels Kaj Jerne]]
+#{{Nobel abbr|Eko}} [[Gunnar Myrdal]]
+#{{Nobel abbr|Eko}} [[Maurice Allais]]
+#{{Nobel abbr|FK}} [[Edmond H. Fischer]]
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas Purdue]]<ref>[http://www.purdue.edu/provost/faculty/awards/nobel_winners.html "Universitas Purdue Nobel Prize Winners"]. Retrieved 2013-03-02.</ref>
+|-valign="top"
+|11
+|
+#{{Nobel abbr|Fis}} [[Ben Roy Mottelson]]
+#{{Nobel abbr|Fis}} [[Edward Mills Purcell]]
+|
+#{{Nobel abbr|Kim}} [[Akira Suzuki (kimiawan)|Akira Suzuki]]
+#{{Nobel abbr|Kim}} [[John B. Fenn]]
+|
+#{{Nobel abbr|Fis}} [[Clinton Davisson]]
+#{{Nobel abbr|Fis}} [[Julian Schwinger]]
+#{{Nobel abbr|Fis}} [[Wolfgang Pauli]]
+#{{Nobel abbr|Kim}} [[Ei-ichi Negishi]]
+#{{Nobel abbr|Kim}} [[Herbert C. Brown]]
+#{{Nobel abbr|FK}} [[Arvid Carlsson]]
+#{{Nobel abbr|Eko}} [[Vernon L. Smith]]
+|
+|-
+|colspan="5"|{{flagicon|NED}} [[Universitas Utrecht]]<ref>{{cite web | url = http://www.uu.nl/uupublish/homeuu/homeenglish/aboututrechtuniv/corporateinforma/history/nobelprizewinner/23055main.html | title = Universitas Utrecht | accessdate = 2006-06-11}}</ref>
+|-valign="top"
+|11
+|
+#{{Nobel abbr|Fis}} [[Gerardus 't Hooft]]<ref group=Catatan name=repeat/>
+#{{Nobel abbr|Fis}} [[Martinus J.G. Veltman]]<ref group=Catatan name=repeat/>
+#{{Nobel abbr|Fis}} [[Nicolaas Bloembergen]]
+#{{Nobel abbr|Kim}} [[Jacobus Henricus van 't Hoff]]
+#{{Nobel abbr|FK}} [[Willem Einthoven]]
+#{{Nobel abbr|Eko}} [[Tjalling C. Koopmans]]<ref group=Catatan name=repeat/>
+|
+#{{Nobel abbr|Fis}} [[Wilhelm Conrad Rntgen]]
+#{{Nobel abbr|Kim}} [[Leopold Ruika]]
+#{{Nobel abbr|Eko}} [[Tjalling C. Koopmans]]<ref group=Catatan name=repeat/>
+#{{Nobel abbr|Kim}} [[Peter Debye]]
+|
+#{{Nobel abbr|Fis}} [[Gerardus 't Hooft]]<ref group=Catatan name=repeat/>
+#{{Nobel abbr|Fis}} [[Martinus J.G. Veltman]]<ref group=Catatan name=repeat/>
+#{{Nobel abbr|Kim}} [[Paul Crutzen]]
+#{{Nobel abbr|FK}} [[Christiaan Eijkman]]
+|
+|-
+|colspan="5"|{{flagicon|CAN}} [[Universitas Toronto]]
+|-valign="top"
+|10
+|
+#{{Nobel abbr|Fis}} [[Arthur Leonard Schawlow]]
+#{{Nobel abbr|Fis}} [[Bertram Brockhouse]]
+#{{Nobel abbr|Kim}} [[Walter Kohn]]
+#{{Nobel abbr|FK}} [[Frederick Banting]]
+#{{Nobel abbr|Eko}} [[A. Michael Spence]]
+#{{Nobel abbr|Pe}} [[Lester B. Pearson]]
+|
+|
+#{{Nobel abbr|Kim}} [[John Charles Polanyi]]
+#{{Nobel abbr|FK}} [[Frederick Banting]]
+#{{Nobel abbr|FK}} [[John James Richard Macleod]]
+#{{Nobel abbr|FK}} [[Oliver Smithies]]
+#{{Nobel abbr|Pe}} [[Lester B. Pearson]]
+|
+|-
+|colspan="5"|{{flagicon|FRA}} [[cole Polytechnique]]
+|-valign="top"
+|10
+|
+#{{Nobel abbr|Fis}} [[Henri Becquerel]]
+#{{Nobel abbr|Eko}} [[Maurice Allais]]
+#{{Nobel abbr|Sas}} [[Sully Prudhomme]]
+|
+#{{Nobel abbr|Fis}} [[Albert Abraham Michelson|Albert Michelson]]
+|
+#{{Nobel abbr|Fis}} [[Georges Charpak]]
+#{{Nobel abbr|Fis}} [[Pierre-Gilles de Gennes]]
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas Colorado at Boulder|Universitas Colorado]]
+|-valign="top"
+|10
+|
+#{{Nobel abbr|Kim}} [[Sidney Altman]]
+#{{Nobel abbr|Pe}} [[Ellen Johnson Sirleaf]]
+|
+#{{Nobel abbr|FK}} [[Craig C. Mello]]
+|
+#{{Nobel abbr|Fis}} [[Carl E. Wieman]]
+#{{Nobel abbr|Fis}} [[David J. Wineland]]
+#{{Nobel abbr|Fis}} [[Herbert Kroemer]]
+#{{Nobel abbr|Fis}} [[John L. Hall]]
+#{{Nobel abbr|Kim}} [[Thomas R. Cech]]
+#{{Nobel abbr|FK}} [[Stanley Cohen (biokimiawan)|Stanley Cohen]]
+#{{Nobel abbr|Fis}} [[Eric A. Cornell]]
+#{{Nobel abbr|Fis}} [[Norman Foster Ramsey, Jr.]]
+|
+|-
+|colspan="5"|{{flagicon|ITA}} [[Sapienza Universitas Rome|Universitas Rome "La Sapienza"]]
+|-
+|9
+|
+#{{Nobel abbr|Fis}} [[Emilio G. Segr]]
+#{{Nobel abbr|Eko}} [[Franco Modigliani]]
+|
+#{{Nobel abbr|FK}} [[Salvador E. Luria]]
+#{{Nobel abbr|Sas}} [[Luigi Pirandello]]
+#{{Nobel abbr|Sas}} [[Salvatore Quasimodo]]
+|
+#{{Nobel abbr|Fis}} [[Carlo Rubbia]]
+#{{Nobel abbr|Fis}} [[Enrico Fermi]]
+#{{Nobel abbr|Kim}} [[Giulio Natta]]
+|
+#{{Nobel abbr|Fis}} [[Emilio G. Segr]]
+#{{Nobel abbr|FK}} [[Daniel Bovet]]
+|-
+|colspan="5"|{{flagicon|RUS}} [[Institut Fisika dan Teknologi Moskow]]
+|-valign="top"
+|9
+|
+#{{Nobel abbr|Fis}} [[Andre Geim]]
+#{{Nobel abbr|Fis}} [[Konstantin Novoselov]]
+|
+|
+#{{Nobel abbr|Fis}} [[Aleksandr Mikhailovich Prokhorov|Aleksandr Prokhorov]]
+#{{Nobel abbr|Fis}} [[Alexei Alexeyevich Abrikosov|Alexei Abrikosov]]
+#{{Nobel abbr|Fis}} [[Igor Tamm]]
+#{{Nobel abbr|Fis}} [[Lev Landau]]
+#{{Nobel abbr|Fis}} [[Pyotr Kapitsa]]
+#{{Nobel abbr|Fis}} [[Vitaly Ginzburg]]
+#{{Nobel abbr|Kim}} [[Nikolay Semyonov]]
+|
+|-
+|colspan="5"|{{flagicon|SWI}} [[Universitas Basel]]<ref name="muellerscience.com"/>
+|-valign="top"
+|9
+|
+#{{Nobel abbr|FK}} [[Rolf Zinkernagel]]
+#{{Nobel abbr|Pe}} [[Charles Albert Gobat]]
+#{{Nobel abbr|Sas}} [[Carl Spitteler]]
+#{{Nobel abbr|Kim}} [[Kurt Wthrich]]
+#{{Nobel abbr|FK}} [[Paul Hermann Mller]]
+|
+#{{Nobel abbr|Kim}} [[Sune Bergstrm]]
+#{{Nobel abbr|FK}} [[Eric F. Wieschaus]]
+|
+#{{Nobel abbr|FK}} [[Tadeus Reichstein]]
+#{{Nobel abbr|FK}} [[Werner Arber]]
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas Texas di Austin]]
+|-valign="top"
+|9
+|
+#{{Nobel abbr|FK}} [[E. Donnall Thomas]]
+#{{Nobel abbr|Sas}} [[John Maxwell Coetzee]]
+|
+#{{Nobel abbr|FK}} [[Hermann J. Muller]]
+#{{Nobel abbr|Eko}} [[Finn E. Kydland]]<ref>{{cite news|url=http://www.bizjournals.com/austin/stories/2004/10/11/daily9.html|title=Former UT professor wins Nobel Prize for economics|date=2004-10-11}}</ref>
+#{{Nobel abbr|FK}} [[George Davis Snell]]
+|
+#{{Nobel abbr|Kim}} [[Ilya Prigogine]]<ref>[http://order.ph.utexas.edu/people/Prigogine.htm Prof. Ilya Prigogine @ Center for Complex Quantum Systems<!-- Bot generated title -->]</ref>
+|
+#{{Nobel abbr|Fis}} [[Steven Weinberg]]<ref>[http://www.ph.utexas.edu/~weintech/weinberg.html Professor Steven Weinberg<!-- Bot generated title -->]</ref>
+#{{Nobel abbr|Eko}} [[Gunnar Myrdal]]<ref name="utexas.edu">{{cite journal|url=http://www.utexas.edu/lbj/archive/pubs/record/archive/issue047.html |title=MYRDALS TO HOLD SLICK PROFESSORSHIP|journal=The record|issue=47|date=December 1977|publisher=Universitas Texas}}</ref>
+#{{Nobel abbr|Pe}} [[Alva Myrdal]]<ref name="utexas.edu"/>
+|-
+|colspan="5"|{{flagicon|GER}} [[Universitas Tbingen]]
+|-valign="top"
+|9
+|
+#{{Nobel abbr|Fis}} [[Karl Ferdinand Braun]]
+#{{Nobel abbr|Kim}} [[Adolf Butenandt]]
+#{{Nobel abbr|Kim}} [[Eduard Buchner]]
+#{{Nobel abbr|Kim}} [[Georg Wittig]]
+#{{Nobel abbr|Kim}} [[Hartmut Michel]]
+#{{Nobel abbr|Kim}} [[William Ramsay]]
+#{{Nobel abbr|FK}} [[Bert Sakmann]]
+#{{Nobel abbr|FK}} [[Gnter Blobel]]
+|
+|
+#{{Nobel abbr|FK}} [[Christiane Nsslein-Volhard]]
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas California, Santa Barbara]]
+|-valign="top"
+|9
+|
+#{{Nobel abbr|FK}} [[Carol Greider]]
+|
+#{{Nobel abbr|Eko}} [[Edward Prescott]]
+|
+#{{Nobel abbr|Fis}} [[David Gross]]
+#{{Nobel abbr|Fis}} [[Frank Wilczek]]
+#{{Nobel abbr|Fis}} [[Herbert Kroemer]]
+#{{Nobel abbr|Kim}} [[Alan Heeger]]
+#{{Nobel abbr|Kim}} [[Walter Kohn]]
+#{{Nobel abbr|Eko}} [[Finn Kydland]]
+|
+#{{Nobel abbr|Fis}} [[John Robert Schrieffer]]
+|-
+|colspan="5"|{{flagicon|AUT}} [[Universitas Graz]]
+|-valign="top"
+|9
+|
+#{{Nobel abbr|Fis}} [[Victor Francis Hess]]
+#{{Nobel abbr|Kim}} [[Walther Nernst]]
+#{{Nobel abbr|Sas}} [[Ivo Andric]]
+|
+|
+#{{Nobel abbr|Fis}} [[Erwin Schrdinger]]
+#{{Nobel abbr|Fis}} [[Victor Francis Hess]]
+#{{Nobel abbr|Kim}} [[Fritz Pregl]]
+#{{Nobel abbr|FK}} [[Gerty Cori]]
+#{{Nobel abbr|FK}} [[Julius Wagner-Jauregg]]
+#{{Nobel abbr|FK}} [[Karl von Frisch]]
+#{{Nobel abbr|FK}} [[Otto Loewi]]
+|
+|-
+|colspan="5"|{{flagicon|JPN}} [[Universitas Kyoto]]
+|-valign="top"
+|9
+|
+#{{Nobel abbr|Fis}} [[Hideki Yukawa]]
+#{{Nobel abbr|Kim}} [[Ryoji Noyori]]
+#{{Nobel abbr|FK}} [[Susumu Tonegawa]]
+#{{Nobel abbr|Kim}} [[Kenichi Fukui]]
+#{{Nobel abbr|Fis}} [[Sin-Itiro Tomonaga]]
+|
+#{{Nobel abbr|Pe}} [[Aung San Suu Kyi]]
+|
+#{{Nobel abbr|Fis}} [[Hideki Yukawa]]
+#{{Nobel abbr|FK}} [[Shinya Yamanaka]]
+#{{Nobel abbr|Kim}} [[Kenichi Fukui]]
+#{{Nobel abbr|Fis}} [[Makoto Kobayashi (physicist)|Makoto Kobayashi]]
+#{{Nobel abbr|Fis}} [[Toshihide Maskawa]]
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas Indiana]]
+|-valign="top"
+|8
+|
+#{{Nobel abbr|FK}} [[James D. Watson]]
+|
+#{{Nobel abbr|Fis}} [[Riccardo Giacconi]]
+#{{Nobel abbr|FK}} [[Ferid Murad]]
+#{{Nobel abbr|FK}} [[Renato Dulbecco]]
+|
+#{{Nobel abbr|Fis}} [[J. Hans D. Jensen]]
+#{{Nobel abbr|FK}} [[Hermann J. Muller]]
+#{{Nobel abbr|FK}} [[Salvador E. Luria]]
+#{{Nobel abbr|Eko}} [[Elinor Ostrom]]
+|
+|-
+|colspan="5"|{{flagicon|GER}} [[Universitas Leipzig]]
+|-valign="top"
+|8
+|
+#{{Nobel abbr|Fis}} [[Felix Bloch]]
+|
+#{{Nobel abbr|Fis}} [[Sin-Itiro Tomonaga]]
+|
+#{{Nobel abbr|Fis}} [[Werner Heisenberg]]
+#{{Nobel abbr|Kim}} [[Peter Debye]]
+#{{Nobel abbr|Kim}} [[Wilhelm Ostwald]]
+#{{Nobel abbr|Pe}} [[Nathan Sderblom]]
+#{{Nobel abbr|Sas}} [[Theodor Mommsen]]
+|
+#{{Nobel abbr|Fis}} [[Gustav Ludwig Hertz]]
+#{{Nobel abbr|Fis}} [[Werner Heisenberg]]
+#{{Nobel abbr|Kim}} [[Wilhelm Ostwald]]
+#{{Nobel abbr|Sas}} [[Theodor Mommsen]]
+|-
+|colspan="5"|{{flagicon|GBR}} [[Universitas Birmingham]]<ref>{{cite web | url = http://bhamalumni.org/NetCommunity/Page.aspx?pid=610 | title = Universitas Birmingham | accessdate = 2008-11-10}}</ref>
+|-valign="top"
+|8
+|
+#{{Nobel abbr|Kim}} [[Francis Aston]]
+#{{Nobel abbr|FK}} [[John Vane]]
+#{{Nobel abbr|FK}} [[Maurice Wilkins]]
+#{{Nobel abbr|FK}} [[Paul Nurse]]
+|
+#{{Nobel abbr|FK}} [[John Vane]]
+|
+#{{Nobel abbr|Kim}} [[Sir Norman Haworth]]
+#{{Nobel abbr|Pe}} [[Robert Cecil, 1st Viscount Cecil of Chelwood|Lord Robert Cecil]]
+|
+#{{Nobel abbr|FK}} [[Peter Medawar|Sir Peter Medawar]]
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas Rochester]]
+|-valign="top"
+|8
+|
+#{{Nobel abbr|Fis}} [[Masatoshi Koshiba]]
+#{{Nobel abbr|Fis}} [[Steven Chu]]
+#{{Nobel abbr|Kim}} [[Vincent du Vigneaud]]
+#{{Nobel abbr|FK}} [[Arthur Kornberg]]
+#{{Nobel abbr|FK}} [[D. Carleton Gajdusek]]
+|
+|
+#{{Nobel abbr|FK}} [[George Hoyt Whipple]]
+#{{Nobel abbr|Eko}} [[Robert Fogel]]
+#{{Nobel abbr|FK}} [[Henrik Dam]]
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas Northwestern]]
+|-valign="top"
+|8
+|
+#{{Nobel abbr|Fis}} [[Saul Bellow]]
+#{{Nobel abbr|FK}} [[Robert F. Furchgott]]
+#{{Nobel abbr|Eko}} [[George Stigler]]
+|
+#{{Nobel abbr|Pe}} [[Ralph Bunche]]
+|
+#{{Nobel abbr|Eko}} [[Dale Mortensen]]
+#{{Nobel abbr|Eko}} [[Edward Prescott]]
+#{{Nobel abbr|Eko}} [[Roger Myerson]]
+#{{Nobel abbr|Sas}} [[John Pople]]
+|
+|-
+|colspan="5"|{{flagicon|JPN}} [[Universitas Tokyo]]
+|-valign="top"
+|8
+|
+#{{Nobel abbr|Fis}} [[Leo Esaki]]
+#{{Nobel abbr|Fis}} [[Masatoshi Koshiba]]
+#{{Nobel abbr|Fis}} [[Yoichiro Nambu]]
+#{{Nobel abbr|Kim}} [[Ei-ichi Negishi]]
+#{{Nobel abbr|Pe}} [[Eisaku Sato]]
+#{{Nobel abbr|Sas}} [[Kenzaburo Oe]]
+#{{Nobel abbr|Sas}} [[Yasunari Kawabata]]
+|
+#
+|
+#{{Nobel abbr|Fis}} [[Masatoshi Koshiba]]
+|
+#
+|-
+|colspan="5"|{{flagicon|ESP}} [[Universitas  Complutense]]<ref>Universitas  Complutense website http://www.ucm.es/pags.php?a=presenta&d=0020427</ref>
+|-valign="top"
+|7
+|
+#{{Nobel abbr|FK}} [[Severo Ochoa]]
+#{{Nobel abbr|Sas}} [[Mario Vargas Llosa]]
+#{{Nobel abbr|Sas}} [[Camilo Jos Cela]]
+#{{Nobel abbr|Sas}} [[Jacinto Benavente]]
+#{{Nobel abbr|Sas}} [[Jose Echegaray]]
+#{{Nobel abbr|FK}} [[Santiago Ramon y Cajal]]
+#{{Nobel abbr|Sas}} [[Vicente Aleixandre]]
+|
+#{{Nobel abbr|FK}} [[Severo Ochoa]]
+#{{Nobel abbr|Sas}} [[Jose Echegaray]]
+#{{Nobel abbr|FK}} [[Santiago Ramon y Cajal]]
+|
+#{{Nobel abbr|FK}} [[Severo Ochoa]]
+#{{Nobel abbr|Sas}} [[Jose Echegaray]]
+#{{Nobel abbr|FK}} [[Santiago Ramon y Cajal]]
+|
+#{{Nobel abbr|Sas}} [[Jose Echegaray]]
+#{{Nobel abbr|FK}} [[Santiago Ramon y Cajal]]
+|-
+|colspan="5"|{{flagicon|CAN}} [[Universitas British Columbia]]
+|-valign="top"
+|7
+|
+#{{Nobel abbr|Fis}} [[Bertram Brockhouse]]
+#{{Nobel abbr|Eko}} [[Robert Mundell]]
+|
+|
+#{{Nobel abbr|Fis}} [[Hans G. Dehmelt]]
+#{{Nobel abbr|Kim}} [[Michael Smith (kimiawan)|Michael Smith]]
+#{{Nobel abbr|FK}} [[Har Gobind Khorana]]
+#{{Nobel abbr|Eko}} [[Daniel Kahneman]]
+|
+#{{Nobel abbr|Fis}} [[Carl Wieman]]
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas Brown]]
+|-valign="top"
+|7
+|
+#{{Nobel abbr|FK}} [[Craig C. Mello]]
+#{{Nobel abbr|Pe}} [[Jerry White (activist)|Jerry White]]
+|
+|
+#{{Nobel abbr|Kim}} [[Lars Onsager]]
+#{{Nobel abbr|Eko}} [[George Stigler]]
+#{{Nobel abbr|Eko}} [[Vernon L. Smith]]
+#{{Nobel abbr|FK}} [[George Davis Snell]]
+#{{Nobel abbr|Fis}} [[Leon Neil Cooper]]<ref>[http://nobelprize.org/nobel_prizes/physics/laureates/1972/cooper.html Leon N. Cooper - Biography<!-- Bot generated title -->]</ref>
+|
+|-
+|colspan="5"|{{flagicon|GER}} [[Universitas Bonn]]
+|-valign="top"
+|7
+|
+#{{Nobel abbr|FK}} [[Harald zur Hausen]]
+#{{Nobel abbr|Sas}} [[Luigi Pirandello]]
+#{{Nobel abbr|Sas}} [[Paul Johann Ludwig von Heyse]]
+|
+#
+|
+#{{Nobel abbr|Fis}} [[Philipp Lenard]]
+#{{Nobel abbr|Fis}} [[Wolfgang Paul]]
+#{{Nobel abbr|Kim}} [[Otto Wallach]]
+#{{Nobel abbr|Eko}} [[Reinhard Selten]]
+|
+#{{Nobel abbr|Fis}} [[Wolfgang Paul]]
+#{{Nobel abbr|Eko}} [[Reinhard Selten]]
+|-
+|colspan="5"|{{flagicon|USA}}[[Universitas Boston]]
+|-valign="top"
+|7
+|
+#{{Nobel abbr|Pe}} [[Martin Luther King, Jr.]]
+|
+#{{Nobel abbr|Fis}} [[Sheldon Lee Glashow]]
+|
+#{{Nobel abbr|Kim}} [[Osamu Shimomura]]
+#{{Nobel abbr|Pe}} [[Elie Wiesel]]
+#{{Nobel abbr|Sas}} [[Derek Walcott]]
+|
+#{{Nobel abbr|Fis}} [[Daniel C. Tsui]]
+#{{Nobel abbr|Sas}} [[Saul Bellow]]
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas Vanderbilt]]
+|-valign="top"
+|7
+|
+#{{Nobel abbr|Kim}} [[Stanford Moore]]
+#{{Nobel abbr|Pe}} [[Muhammad Yunus]]
+|
+#{{Nobel abbr|Pe}} [[Al Gore]]
+|
+#{{Nobel abbr|FK}} [[Earl W. Sutherland, Jr.]]
+#{{Nobel abbr|FK}} [[Max Delbrck]]
+#{{Nobel abbr|FK}} [[Paul Greengard]]
+#{{Nobel abbr|FK}} [[Stanley Cohen (biokimiawan)|Stanley Cohen]]
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas Maryland, College Park]]
+|-valign="top"
+|7
+|
+#{{Nobel abbr|Fis}} [[Raymond Davis Jr.|Raymond Davis]]
+#{{Nobel abbr|Kim}} [[Herbert A. Hauptman]]
+|
+#{{Nobel abbr|Fis}} [[Hannes Alfvn]]
+|
+#{{Nobel abbr|Fis}} [[John C. Mather]]
+#{{Nobel abbr|Eko}} [[Thomas C. Schelling]]
+#{{Nobel abbr|Sas}} [[Juan Ramon Jimenez]]
+|
+#{{Nobel abbr|Fis}} [[William D. Phillips]]
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas North Carolina, Chapel Hill]]
+|-valign="top"
+|7
+|
+#{{Nobel abbr|FK}} [[Robert F. Furchgott]]
+|
+#
+|
+#{{Nobel abbr|Kim}} [[Peter Agre]]
+#{{Nobel abbr|Kim}} [[Rudolph Marcus]]
+#{{Nobel abbr|FK}} [[Martin Rodbell]]
+#{{Nobel abbr|FK}} [[George H. Hitchings]]
+#{{Nobel abbr|FK}} [[Gertrude B. Elion]]
+#{{Nobel abbr|FK}} [[Oliver Smithies]]
+|
+#
+|-
+|colspan="5"|{{flagicon|GBR}} [[Universitas Bristol]]
+|-valign="top"
+|7
+|
+#{{Nobel abbr|Fis}} [[Paul Dirac]]
+|
+#{{Nobel abbr|Sas}} [[Jean-Marie Gustave Le Clzio]]
+|
+#{{Nobel abbr|Fis}} [[Cecil Frank Powell]]
+#{{Nobel abbr|Fis}} [[Nevill Mott]]
+#{{Nobel abbr|Kim}} [[William Ramsay]]
+#{{Nobel abbr|Sas}} [[Winston Churchill]]
+|
+#{{Nobel abbr|Kim}} [[Dorothy Hodgkin]]
+|-
+|colspan="5"|{{flagicon|ISR}} [[Universitas Ibrani Yerusalem]]
+|-valign="top"
+|7
+|
+#{{Nobel abbr|Kim}} [[Aaron Ciechanover]]
+#{{Nobel abbr|Kim}} [[Ada Yonath]]
+#{{Nobel abbr|Eko}} [[Daniel Kahneman]]
+#{{Nobel abbr|Kim}} [[Avram Hershko]]
+#{{Nobel abbr|Fis}} [[David Gross]]
+|
+#{{Nobel abbr|Kim}} [[Roger D. Kornberg]]
+|
+#{{Nobel abbr|Eko}} [[Daniel Kahneman]]
+#{{Nobel abbr|Eko}} [[Robert J. Aumann]]
+|
+|-
+|colspan="5"|{{flagicon|AUS}} [[Universitas Melbourne]]
+|-valign="top"
+|7
+|
+#{{Nobel abbr|FK}} [[Elizabeth Blackburn]]
+#{{Nobel abbr|FK}} [[John Carew Eccles]]
+#{{Nobel abbr|FK}} [[Frank Macfarlane Burnet]]
+|
+|
+#{{Nobel abbr|FK}} [[Bert Sakmann]]
+#{{Nobel abbr|Eko}} [[Clive Granger]]
+#{{Nobel abbr|Eko}} [[James Mirrlees]]
+#{{Nobel abbr|FK}} [[Peter C. Doherty]]
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas Virginia]]
+|-valign="top"
+|7
+|
+|
+#{{Nobel abbr|Pe}} [[Woodrow Wilson]]
+|
+#{{Nobel abbr|FK}} [[Alfred G. Gilman]]
+#{{Nobel abbr|FK}} [[Ferid Murad]]
+#{{Nobel abbr|FK}} [[Barry Marshall]]
+#{{Nobel abbr|Eko}} [[Ronald Coase]]
+#{{Nobel abbr|Eko}} [[James M. Buchanan]]
+|
+#{{Nobel abbr|Sas}} [[William Faulkner]]
+|-
+|colspan="5"|{{flagicon|NED}} [[Universitas Amsterdam]]
+|-valign="top"
+|7
+|
+#{{Nobel abbr|Fis}} [[Frits Zernike]]
+#{{Nobel abbr|FK}} [[Christiaan Eijkman]]
+|
+|
+#{{Nobel abbr|Fis}} [[Johannes Diderik van der Waals]]
+#{{Nobel abbr|Fis}} [[Pieter Zeeman]]
+#{{Nobel abbr|Kim}} [[Jacobus Henricus van 't Hoff]]
+#{{Nobel abbr|Pe}} [[Tobias Asser]]
+#{{Nobel abbr|Eko}} [[Jan Tinbergen]]
+|
+|-
+|colspan="5"|{{flagicon|Sweden}} [[Universitas Stockholm]]<ref>{{cite web | url = http://www.su.se/english/about/nobel-laureates| title = Universitas Stockholm | accessdate = 2011-09-16}}</ref>
+|-valign="top"
+|6
+|
+|
+|
+#{{Nobel abbr|Kim}} [[George de Hevesy]]
+#{{Nobel abbr|Kim}} [[Paul Crutzen]]
+#{{Nobel abbr|Eko}} [[Gunnar Myrdal]]
+#{{Nobel abbr|Kim}} [[Hans von Euler-Chelpin]]
+#{{Nobel abbr|Kim}} [[Svante Arrhenius]]
+#{{Nobel abbr|Sas}} [[Tomas Transtrmer]]
+|
+|-
+|colspan="5"|{{flagicon|GBR}} [[Universitas Liverpool]]
+|-valign="top"
+|6
+|
+#{{Nobel abbr|Fis}} [[Charles Barkla]]
+#{{Nobel abbr|FK}} [[Har Gobind Khorana]]
+#{{Nobel abbr|FK}} [[Rodney Porter]]
+#{{Nobel abbr|Pe}} [[Joseph Rotblat]]
+|
+#
+|
+#{{Nobel abbr|Kim}} [[Robert Robinson (kimiawan organik)|Robert Robinson]]
+|
+#{{Nobel abbr|Fis}} [[James Chadwick]]
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas Negeri Florida]]<ref>{{cite web | url = http://www.fsu.edu/~fstime/FS-Times/Volume2/apr97web/11apr97.html | title = Universitas Negeri Florida | accessdate = 2006-09-16}}</ref>
+|-valign="top"
+|6
+|
+|
+|
+#{{Nobel abbr|Eko}} [[James M. Buchanan]]
+|
+#{{Nobel abbr|Fis}} [[John Robert Schrieffer]]
+#{{Nobel abbr|Fis}} [[Paul Dirac]]
+#{{Nobel abbr|Kim}} [[Robert S. Mulliken]]
+#{{Nobel abbr|FK}} [[Konrad E. Bloch]]
+#{{Nobel abbr|Kim}} [[Harold Kroto]]
+|-
+|colspan="5"|{{flagicon|AUS}} [[Universitas Nasional Australia]]
+|-valign="top"
+|6
+|
+#{{Nobel abbr|FK}} [[Rolf Zinkernagel]]
+|
+|
+#{{Nobel abbr|FK}} [[Howard Florey|Howard Walter Florey]]
+#{{Nobel abbr|FK}} [[John Carew Eccles]]
+#{{Nobel abbr|Eko}} [[John C. Harsanyi]]
+#{{Nobel abbr|Fis}} [[Brian Schmidt]]
+#{{Nobel abbr|FK}} [[Peter C. Doherty]]
+|
+|-
+|colspan="5"|{{flagicon|GBR}} [[Universitas Glasgow]]<ref>{{cite web | url = http://www.gla.ac.uk/about/history/fame/ | title = Universitas Glasgow | accessdate = 2007-09-09}}</ref>
+|-valign="top"
+|6
+|
+#{{Nobel abbr|Kim}} [[William Ramsay]]
+#{{Nobel abbr|Kim}} [[Alexander Robertus Todd]]
+#{{Nobel abbr|Pe}} [[John Boyd Orr]]
+|
+#{{Nobel abbr|FK}} [[James W. Black]]
+|
+#{{Nobel abbr|Fis}} [[Frederick Soddy]]
+#{{Nobel abbr|Kim}} [[Derek Barton]]
+|
+|-
+|colspan="5"|{{flagicon|POL}} [[Universitas Wroclaw]]
+|-valign="top"
+|6
+|
+#{{Nobel abbr|Fis}} [[Hans G. Dehmelt]]
+#{{Nobel abbr|Fis}} [[Max Born]]
+#{{Nobel abbr|Fis}} [[Otto Stern]]
+#{{Nobel abbr|Kim}} [[Friedrich Bergius]]
+#{{Nobel abbr|FK}} [[Paul Ehrlich]]
+#{{Nobel abbr|Sas}} [[Theodor Mommsen]]
+#
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|GER}} [[Universitas Hamburg]]
+|-valign="top"
+|5
+|
+#{{Nobel abbr|Fis}} [[J. Hans D. Jensen]]
+#{{Nobel abbr|FK}} [[Hans Adolf Krebs|Hans Krebs]]
+|
+#{{Nobel abbr|FK}} [[Harald zur Hausen]]
+|
+#{{Nobel abbr|Fis}} [[Otto Stern]]
+#{{Nobel abbr|Fis}} [[Wolfgang Pauli]]
+|
+#{{Nobel abbr|Fis}} [[Wolfgang Pauli]]
+|-
+|colspan="5"|{{flagicon|GER}} [[Universitas Kiel]]<ref>{{cite web | url = http://www.uni-kiel.de/ps/cgi-bin/fo-list.php | title =Universitas Kiel | accessdate = 2010-11-03}}</ref>
+|-valign="top"
+|6
+|
+|
+|
+#{{Nobel abbr|Fis}} [[Max Planck]]
+#{{Nobel abbr|Fis}} [[Philipp Lenard]]
+#{{Nobel abbr|Kim}} [[Eduard Buchner]]
+#{{Nobel abbr|Kim}} [[Kurt Alder]]
+#{{Nobel abbr|Kim}} [[Otto Diels]]
+#{{Nobel abbr|FK}} [[Otto Fritz Meyerhof]]
+|
+|-
+|colspan="5"|{{flagicon|GER}} [[RWTH Aachen]]
+|-valign="top"
+|6
+|
+#{{Nobel abbr|FK}} [[Thomas C. Sdhof]]
+|
+|
+#{{Nobel abbr|Fis}} [[Philipp Lenard]]
+#{{Nobel abbr|Fis}} [[Wilhelm Wien]]
+#{{Nobel abbr|Fis}} [[Johannes Stark]]
+|
+#{{Nobel abbr|Kim}} [[Peter Debye]]
+#{{Nobel abbr|Kim}} [[Karl Ziegler]]
+|-
+|colspan="5"|{{flagicon|NOR}} [[Universitas Oslo]]<ref>{{cite web | url = http://www.uio.no/english/nobel_prize | title = Universitas Oslo | accessdate = 2006-06-11| archiveurl = http://web.archive.org/web/20010405224202/http://www.uio.no/english/nobel_prize| archivedate = April 5, 2001}}</ref>
+|-valign="top"
+|6
+|
+#{{Nobel abbr|Kim}} [[Odd Hassel]]
+#{{Nobel abbr|Eko}} [[Ragnar Frisch]]
+#{{Nobel abbr|Eko}} [[Trygve Haavelmo]]
+#{{Nobel abbr|Pe}} [[Christian Lous Lange]]
+|
+#{{Nobel abbr|Pe}} [[Fridtjof Nansen]]
+|
+#{{Nobel abbr|Fis}} [[Ivar Giver]]
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas Pittsburgh]]
+|-valign="top"
+|6
+|
+#{{Nobel abbr|FK}} [[Paul Lauterbur]]
+#{{Nobel abbr|FK}} [[Philip Hench]]
+#{{Nobel abbr|Pe}} [[Wangari Maathai]]
+|
+#{{Nobel abbr|Eko}} [[Daniel McFadden]]
+|
+#{{Nobel abbr|FK}} [[Niels Jerne]]
+#{{Nobel abbr|Eko}} [[Alvin E. Roth]]
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas California, San Francisco]]
+|-valign="top"
+|6
+|
+|
+#{{Nobel abbr|Kim}} [[Kary Mullis]]
+|
+#{{Nobel abbr|FK}} [[Elizabeth Blackburn]]
+#{{Nobel abbr|FK}} [[Harold E. Varmus]]
+#{{Nobel abbr|FK}} [[J. Michael Bishop]]
+#{{Nobel abbr|FK}} [[Shinya Yamanaka]]
+#{{Nobel abbr|FK}} [[Stanley B. Prusiner]]
+|
+|-
+|colspan="5"|{{flagicon|AUS}} [[Universitas Adelaide]]<ref>{{cite web | url = http://www.adelaide.edu.au/research/nobel/ | title = Universitas Adelaide | accessdate = 2006-08-28| archiveurl = http://web.archive.org/web/20060910035537/http://www.adelaide.edu.au/research/nobel/| archivedate = September 10, 2006}}</ref>
+|-valign="top"
+|5
+|
+#{{Nobel abbr|FK}} [[Howard Florey|Sir Howard Walter Florey]]
+#{{Nobel abbr|FK}} [[Robin Warren|J. Robin Warren]]
+#{{Nobel abbr|Fis}} [[William Lawrence Bragg]]
+|
+|
+#{{Nobel abbr|Fis}} [[William Henry Bragg|William Bragg]]
+|
+#{{Nobel abbr|Sas}} [[John Maxwell Coetzee|J. M. Coetzee]]
+|-
+|colspan="5"|{{flagicon|GBR}} [[Universitas Aberdeen]]
+|-valign="top"
+|5
+|
+#{{Nobel abbr|FK}} [[John James Richard Macleod]]
+|
+#{{Nobel abbr|Fis}} [[Frederick Soddy]]
+|
+#{{Nobel abbr|Kim}} [[Richard Laurence Millington Synge|Richard Synge]]
+#{{Nobel abbr|Fis}} [[George Paget Thomson|George Thomson]] 
+#{{Nobel abbr|Pe}} [[John Boyd Orr]]
+|
+#{{Nobel abbr|FK}} [[John James Richard Macleod]]
+|-
+|colspan="5"|{{flagicon|USA}} [[Haverford College]]
+|-valign="top"
+|5
+|
+#{{Nobel abbr|Kim}} [[Theodore William Richards]]
+#{{Nobel abbr|Pe}} [[Philip Noel-Baker]]
+#{{Nobel abbr|Fis}} [[Joseph H. Taylor, Jr.]]
+|
+|
+|
+#{{Nobel abbr|Kim}} [[William H. Stein]]
+#{{Nobel abbr|FK}} [[Gerald Edelman]]<ref name="Gerald M. Edelman CV"/>
+|-
+|colspan="5"|{{flagicon|Germany}} [[Freie Universitt Berlin]] <ref>{{cite web|title=Accomplishments by Members of the University|url=http://www.fu-berlin.de/en/universitaet/auszeichnungen/erfolge-mitglieder/index.html|publisher=Freie Universitt|accessdate=September 14, 2013}}</ref>
+|-valign=top"
+|5
+|
+|
+|
+#{{Nobel abbr|Fis}} [[Ernst Ruska]]
+#{{Nobel abbr|Eko}} [[Reinhard Selten]]
+#{{Nobel abbr|Kim}} [[Gerhard Ertl]]
+#{{Nobel abbr|Sas}} [[Herta Mller]]
+|
+#{{Nobel abbr|Sas}} [[Oe Kenzaburo]]
+|-
+|colspan="5"|{{flagicon|Germany}} [[Universitt Rostock]]
+|-valign=top"
+|5
+|
+#{{Nobel abbr|FK}} [[Albrecht Kossel]]
+|
+#{{Nobel abbr|Fis}} [[Albert Einstein]]
+#{{Nobel abbr|Fis}} [[Max Planck]]
+|
+#{{Nobel abbr|FK}} [[Karl von Frisch]]
+#{{Nobel abbr|Fis}} [[Otto Stern]]
+|
+|-
+|colspan="5"|{{flagicon|BEL}}[[Universit Libre de Bruxelles]]
+|-valign="top"
+|5
+|
+|
+|
+#{{Nobel abbr|FK}} [[Jules Bordet]]
+#{{Nobel abbr|FK}} [[Albert Claude]]
+#{{Nobel abbr|Pe}} [[Henri La Fontaine]]
+#{{Nobel abbr|Kim}} [[Ilya Prigogine]]
+#{{Nobel abbr|Fis}} [[Franois Englert]]
+|
+|-
+|colspan="5"|{{flagicon|GBR}} [[Universitas St Andrews]]
+|-valign="top"
+|5
+|
+#{{Nobel abbr|FK}} [[James W. Black]]
+|
+#{{Nobel abbr|Pe}} [[Fridtjof Nansen]]
+#{{Nobel abbr|Sas}} [[Rudyard Kipling]]
+|
+|
+#{{Nobel abbr|Kim}} [[Alan MacDiarmid]]
+#{{Nobel abbr|Kim}} [[Walter Haworth]]
+|-
+|colspan="5"|{{flagicon|USA}} [[Amherst College]]
+|-valign="top"
+|5
+|
+#{{Nobel abbr|Fis}} [[Henry W. Kendall]]
+#{{Nobel abbr|FK}} [[Harold E. Varmus]]
+#{{Nobel abbr|Eko}} [[Edmund Phelps]]
+#{{Nobel abbr|Eko}} [[Joseph E. Stiglitz]]
+|
+|
+#{{Nobel abbr|FK}} [[Hermann J. Muller]]
+|
+|-
+|colspan="5"|{{flagicon|USA}}[[Universitas Arizona]]
+|-valign="top"
+|5
+|
+#{{Nobel abbr|Fis}} [[Brian Schmidt]]
+|
+#{{Nobel abbr|Eko}} [[Vernon L. Smith]]
+|
+#{{Nobel abbr|Fis}} [[Nicolaas Bloembergen]]
+#{{Nobel abbr|Fis}} [[Roy Glauber]]
+#{{Nobel abbr|Fis}} [[Willis E. Lamb]]
+|
+|-
+|colspan="5"|{{flagicon|SWI}} [[Universitas Bern]]
+|-valign="top"
+|5
+|
+#{{Nobel abbr|Kim}} [[George de Hevesy]]
+#{{Nobel abbr|FK}} [[Emil Theodor Kocher]]
+#{{Nobel abbr|Pe}} [[Charles Albert Gobat]]
+|
+#{{Nobel abbr|FK}} [[Paul Nurse]]
+|
+#{{Nobel abbr|Fis}} [[Albert Einstein]]
+#{{Nobel abbr|FK}} [[Emil Theodor Kocher]]
+|
+|-
+|colspan="5"|{{flagicon|ARG}} [[Universitas Buenos Aires]]
+|-valign="top"
+|5
+|
+#{{Nobel abbr|Kim}} [[Luis Federico Leloir]]
+#{{Nobel abbr|FK}} [[Bernardo Houssay]]
+#{{Nobel abbr|FK}} [[Csar Milstein]]
+#{{Nobel abbr|Pe}} [[Carlos Saavedra Lamas]]
+|
+|
+|
+#{{Nobel abbr|Pe}} [[Adolfo Prez Esquivel]]
+|-
+|colspan="5"|{{flagicon|HUN}} [[Universitas Etvs Lornd]]
+|-valign="top"
+|5
+|
+|
+#{{Nobel abbr|Fis}} [[Philipp Lenard]]
+#{{Nobel abbr|Kim}} [[George de Hevesy]]
+#{{Nobel abbr|FK}} [[Albert Szent-Gyrgyi]]
+#{{Nobel abbr|FK}} [[Georg von Bksy]]
+#{{Nobel abbr|Eko}} [[John Harsanyi]]
+|
+|
+|-
+|colspan="5"|{{flagicon|GBR}} [[Universitas Leeds]]
+|-valign="top"
+|5
+|
+#{{Nobel abbr|Kim}} [[George Porter]]
+#{{Nobel abbr|Sas}} [[Wole Soyinka]]
+|
+|
+#{{Nobel abbr|Fis}} [[William Henry Bragg|William Bragg]]
+#{{Nobel abbr|Kim}} [[Archer John Porter Martin]]
+#{{Nobel abbr|Kim}} [[Richard Laurence Millington Synge|Richard Synge]]
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas Rutgers]]
+|-valign="top"
+|5
+|
+#{{Nobel abbr|FK}} [[Selman Waksman]]
+#{{Nobel abbr|Eko}} [[Milton Friedman]]
+#{{Nobel abbr|Pe}} [[David A. Morse]]
+|
+#{{Nobel abbr|Fis}} [[Heinrich Rohrer]]
+|
+#{{Nobel abbr|FK}} [[Selman Waksman]]
+#{{Nobel abbr|Sas}} [[Toni Morrison]]
+|
+|-
+|colspan="5"|{{flagicon|GBR}} [[Universitas Sheffield]]<ref>{{cite web | url = http://www.shef.ac.uk/about/nobel.html | title = Universitas Sheffield | accessdate = 2007-04-02}}</ref>
+|-valign="top"
+|5
+|
+#{{Nobel abbr|Fis}} [[Harry Kroto]]
+#{{Nobel abbr|FK}} [[Richard J. Roberts]]
+|
+|
+#{{Nobel abbr|Kim}} [[George Porter]]
+#{{Nobel abbr|FK}} [[Hans Adolf Krebs|Hans Krebs]]
+#{{Nobel abbr|FK}} [[Howard Florey|Sir Howard Walter Florey]]
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas Southern California]]
+|-
+|5
+|
+|
+#{{Nobel abbr|FK}} [[Werner Arber]]
+|
+#{{Nobel abbr|Kim}} [[George Andrew Olah]]
+#{{Nobel abbr|Kim}} [[Arieh Warshel]]
+
+|
+#{{Nobel abbr|Fis}} [[Murray Gell-Mann]]<ref>{{cite web|url=http://uscnews.usc.edu/university/nobel_prize_winner_appointed_presidential_professor_at_usc.html|title=Nobel Prize Winner Appointed Presidential Professor at USC}}</ref>
+#{{Nobel abbr|Eko}} [[Daniel McFadden]]<ref>{{cite web|url=http://uscnews.usc.edu/university/nobel_winner_appointed_presidential_professor.html|title=Nobel Prize Winner Appointed Presidential Professor at USC}}</ref>
+|-
+|-
+|colspan="5"|{{flagicon|USA}} [[Swarthmore College]]
+|-valign="top"
+|5
+|
+#{{Nobel abbr|Fis}} [[John C. Mather]]
+#{{Nobel abbr|Kim}} [[Christian B. Anfinsen]]
+#{{Nobel abbr|FK}} [[David Baltimore]]
+#{{Nobel abbr|FK}} [[Howard M. Temin]]
+#{{Nobel abbr|Eko}} [[Edward C. Prescott]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|FRA}} [[cole suprieure de physique et de chimie industrielles de la ville de Paris]]
+|-valign="top"
+|5
+|
+#[[Frdric Joliot]]
+|
+#{{Nobel abbr|Fis}} [[Georges Charpak]]
+#{{Nobel abbr|Kim}} [[Marie Curie]].<ref group=Catatan name=repeat/><br />{{Nobel abbr|Fis}} [[Marie Curie]]<ref group=Catatan name=repeat2/>
+#{{Nobel abbr|Fis}} [[Pierre Curie]]<ref group=Catatan name=repeat/>
+|
+#{{Nobel abbr|Fis}} [[Georges Charpak]]
+#{{Nobel abbr|Kim}} [[Marie Curie]].<ref group=Catatan name=repeat/><br />{{Nobel abbr|Fis}} [[Marie Curie]]<ref group=Catatan name=repeat2/>
+#{{Nobel abbr|Fis}} [[Pierre Curie]]<ref group=Catatan name=repeat/>
+#{{Nobel abbr|Fis}} [[Pierre-Gilles de Gennes]]
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas Texas Southwestern Medical Center di Dallas]]<ref>{{cite web | url = http://www8.utsouthwestern.edu/utsw/cda/dept37389/files/68757.html | title = Universitas Texas Southwestern Medical Center at Dallas | accessdate = 2007-06-11}}</ref><ref>{{cite web | url = http://www8.utsouthwestern.edu/utsw/home/about/nobel/index.html | title = Universitas Texas Southwestern Medical Center at Dallas | accessdate = 2007-06-11}}</ref>
+|-valign="top"
+|6
+|
+#{{Nobel abbr|FK}} [[Bruce Beutler]]
+#{{Nobel abbr|FK}} [[Joseph L. Goldstein]]
+#{{Nobel abbr|FK}} [[Linda B. Buck]]
+|
+#{{Nobel abbr|Kim}} [[Johann Deisenhofer]]
+#{{Nobel abbr|FK}} [[Alfred G. Gilman]]
+#{{Nobel abbr|FK}} [[Bruce Beutler]]
+#{{Nobel abbr|FK}} [[Michael S. Brown]]
+|
+#{{Nobel abbr|FK}} [[Bruce Beutler]]
+#{{Nobel abbr|FK}} [[Joseph L. Goldstein]]
+|
+|-
+|colspan="5"|{{flagicon|GER}} [[Institut Teknologi Karlsruhe]]
+|-
+|5
+|
+#{{Nobel abbr|Kim}} [[Leopold Ruicka]]
+|
+#{{Nobel abbr|Kim}} [[Jean-Marie Lehn]]
+#{{Nobel abbr|Kim}} [[Leopold Ruicka]]
+|
+#{{Nobel abbr|Fis}} [[Karl Ferdinand Braun]]
+#{{Nobel abbr|Kim}} [[Fritz Haber]]
+#{{Nobel abbr|Kim}} [[Hermann Staudinger]]
+|
+|-
+|colspan="5"|{{flagicon|RSA}} [[Universitas Cape Town]]
+|-valign="top"
+|5
+|
+#{{Nobel abbr|Kim}} [[Aaron Klug]]
+#{{Nobel abbr|FK}} [[Allan McLeod Cormack]]
+#{{Nobel abbr|FK}} [[Max Theiler]]
+#{{Nobel abbr|Sas}} [[J. M. Coetzee]]
+|
+#{{Nobel abbr|Pe}} [[Ralph Bunche]]
+|
+#{{Nobel abbr|FK}} [[Allan McLeod Cormack]]
+#{{Nobel abbr|Sas}} [[J. M. Coetzee]]
+|
+|-
+|colspan="5"|{{flagicon|HUN}} [[Universitas Semmelweis]]
+|-
+|4
+|
+#{{Nobel abbr|Kim}} [[Albert Szent-Gyrgyi]]
+|
+#{{Nobel abbr|Kim}} [[Georg von Bksy]]
+#{{Nobel abbr|Kim}} [[George de Hevesy]]
+|
+#{{Nobel abbr|Fis}} [[John Harsanyi]]
+|
+|-
+|colspan="5"|{{flagicon|USA}}[[Universitas Buffalo, Universitas Negeri New York]]
+|-valign="top"
+|4
+|
+|
+|
+#{{Nobel abbr|Eko}} [[Ronald H. Coase]]
+#{{Nobel abbr|Sas}} [[J. M. Coetzee]]
+|
+#{{Nobel abbr|Kim}} [[Herbert A. Hauptman]]
+#{{Nobel abbr|FK}} [[John Eccles (neurophysiologist)|John Carew Eccles]]
+|-
+|colspan="5"|{{flagicon|IND}} [[Universitas Kalkuta]]
+|-valign="top"
+|4
+|
+#{{Nobel abbr|Eko}} [[Amartya Sen]]
+|
+#{{Nobel abbr|FK}} [[Ronald Ross]]
+#{{Nobel abbr|Sas}} [[Rabindranath Tagore]]
+|
+#{{Nobel abbr|Fis}} [[Sir Chandrasekhara Venkata Raman]]
+#{{Nobel abbr|Eko}} [[Amartya Sen]]
+|
+#{{Nobel abbr|Fis}} [[Sir Chandrasekhara Venkata Raman]]
+#
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas California, Irvine]]
+|-valign="top"
+|4
+|
+|
+|
+#{{Nobel abbr|Fis}} [[Frederick Reines]]
+#{{Nobel abbr|Kim}} [[Irwin Rose]]
+#{{Nobel abbr|Kim}} [[Mario J. Molina]]
+#{{Nobel abbr|Kim}} [[Frank Sherwood Rowland]]
+|
+|-
+|colspan="5"|{{flagicon|CZE}} [[Universitas Praha]]
+|-valign="top"
+|4
+|
+#{{Nobel abbr|FK}} [[Carl Ferdinand Cori]]
+#{{Nobel abbr|FK}} [[Gerty Cori]]
+#{{Nobel abbr|Kim}} [[Jaroslav Heyrovsk]]
+|
+|
+#{{Nobel abbr|Fis}} [[Albert Einstein]]
+|
+|-
+|colspan="5"|{{flagicon|HKG}} [[Universitas Cina Hong Kong]]<ref>{{cite web | url = http://www2.cuhk.edu.hk/oafa/about.php?section=Distinguished%20Faculty%20Members | title = Chinese Universitas Hong Kong | accessdate = 2007-11-10}}</ref>
+|-
+|4
+|
+|
+|
+#{{Nobel abbr|Fis}} [[Charles K. Kao]]
+|
+#{{Nobel abbr|Fis}} [[Chen Ning Yang]]
+#{{Nobel abbr|Eko}} [[James Mirrlees]]
+#{{Nobel abbr|Eko}} [[Robert A. Mundell]]
+|-
+|colspan="5"|{{flagicon|FRA}} [[Universitas Louis Pasteur]], [[Strasbourg]], Perancis
+|-valign="top"
+|4
+|
+|
+#{{Nobel abbr|Fis}} [[Karl Ferdinand Braun]]
+#{{Nobel abbr|Kim}} [[Jean-Marie Lehn]]
+#{{Nobel abbr|FK}} [[Albrecht Kossel]]
+|
+#{{Nobel abbr|Pe}} [[Albert Schweitzer]]
+|
+|-
+|colspan="5"|{{flagicon|FRA}} [[Universitas Aix-Marseille]], [[Aix-en-Provence]]/[[Marseille]], Perancis
+|-valign="top"
+|4
+|
+#{{Nobel abbr|Pe}} [[Ren Cassin]]
+#{{Nobel abbr|Sas}} [[Frdric Mistral]]
+#{{Nobel abbr|Sas}} [[J. M. G. Le Clzio]]
+|
+|
+#{{Nobel abbr|Fis}} [[Sheldon Lee Glashow]]
+|
+|-
+|colspan="5"|{{flagicon|SWE}} [[Universitas Lund]], [[Lund]], Swedia
+|-valign="top"
+|4
+|
+#{{Nobel abbr|FK}} [[Arvid Carlsson]]
+#{{Nobel abbr|Eko}} [[Bertil Ohlin]]
+|
+|
+#{{Nobel abbr|Fis}} [[Manne Siegbahn]]
+#{{Nobel abbr|Kim}} [[Sune Bergstrm]]
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Mayo Clinic]]
+|-valign="top"
+|4
+|
+|
+#{{Nobel abbr|FK}} [[Albert Szent-Gyrgyi]]<ref name="mayoclinicproceedings.com">http://www.mayoclinicproceedings.com/pdf%2F8102%2F8102hv.pdf{{dead link|date=March 2009|url=http://www.mayoclinicproceedings.com/pdf%2F8102%2F8102hv.pdf}}</ref>
+#{{Nobel abbr|Fis}} [[Luis Walter Alvarez]]<ref name="mayoclinicproceedings.com"/>
+|
+#{{Nobel abbr|FK}} [[Edward C. Kendall]]
+#{{Nobel abbr|FK}} [[Philip S. Hench]]
+|
+|-
+|colspan="5"|{{flagicon|JPN}} [[Universitas Nagoya]]
+|-valign="top"
+|4
+|
+#{{Nobel abbr|Kim}} [[Osamu Shimomura]]
+#{{Nobel abbr|Fis}} [[Makoto Kobayashi (physicist)|Makoto Kobayashi]]
+#{{Nobel abbr|Fis}} [[Toshihide Maskawa]]
+|
+|
+#{{Nobel abbr|Kim}} [[Osamu Shimomura]]
+#{{Nobel abbr|Kim}} [[Ryoji Noyori]]
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas Negeri Ohio]]
+|-valign="top"
+|4
+|
+#{{Nobel abbr|Fis}} [[William A. Fowler]]
+#{{Nobel abbr|Kim}} [[Paul Flory]]
+|
+|
+#{{Nobel abbr|Fis}} [[Leon Cooper]]
+|
+#{{Nobel abbr|Fis}} [[Kenneth G. Wilson]]
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas Texas A&M]]<ref name='tamest'>{{cite web | url = http://www.tamest.org/nobelprize.php | title = Texas | accessdate = 2006-06-11}}{{dead link|date=March 2009|url=http://www.tamest.org/nobelprize.php}}</ref>
+|-valign="top"
+|4
+|
+|
+|
+#{{Nobel abbr|Fis}} [[Jack Kilby]]
+|
+#{{Nobel abbr|Kim}} [[Derek Barton]]
+#{{Nobel abbr|Kim}} [[Dudley R. Herschbach]]
+#{{Nobel abbr|Pe}} [[Norman Borlaug]]
+|-
+|colspan="5"|{{flagicon|RSA}} [[Universitas Witwatersrand]]
+|-valign="top"
+|4
+|
+#{{Nobel abbr|Kim}} [[Aaron Klug]]
+#{{Nobel abbr|FK}} [[Sydney Brenner]]
+#{{Nobel abbr|Pe}} [[Nelson Mandela]]
+#{{Nobel abbr|Sas}} [[Nadine Gordimer]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|GBR}} [[Birkbeck, Universitas London]]
+|-
+|4
+|
+|
+|
+#{{Nobel abbr|Fis}} [[Patrick Blackett, Baron Blackett|Patrick M. S. Blackett]]
+#{{Nobel abbr|Kim}} [[Aaron Klug]]
+#{{Nobel abbr|Kim}} [[Derek Barton]]
+#{{Nobel abbr|Sas}} [[T. S. Eliot]]
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas Negeri Iowa]]
+|-
+|4
+|
+|
+|
+#{{Nobel abbr|Eko}} [[George Stigler]]
+#{{Nobel abbr|Eko}} [[Leonid Hurwicz]]
+#{{Nobel abbr|Eko}} [[Theodore Schultz]]
+#{{Nobel abbr|Kim}} [[Daniel Shechtman]]
+|
+|-
+|colspan="5"|{{flagicon|BEL}} [[Katholieke Universiteit Leuven]]
+|-
+|4
+|
+#{{Nobel abbr|Pe}} [[Auguste Beernaert]]
+#{{Nobel abbr|Pe}} [[Dominique Pire]]
+|
+|
+#{{Nobel abbr|FK}} [[Albert Claude]]
+#{{Nobel abbr|FK}} [[Christian de Duve]]
+|
+|-
+|-
+|colspan="5"|{{flagicon|POL}} [[Universitas Warsawa]]
+|-valign="top"
+|4
+|
+#{{Nobel abbr|Eko}} [[Leonid Hurwicz]]
+#{{Nobel abbr|Pe}} [[Jzef Rotblat]]
+#{{Nobel abbr|Pe}} [[Menachem Begin]]
+#{{Nobel abbr|Sas}} [[Henryk Sienkiewicz]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|JAM}} [[Universitas West Indies]]
+|-valign="top"
+|2
+|
+#{{Nobel abbr|Eko}} [[William Arthur Lewis]]
+#{{Nobel abbr|Sas}} [[Derek Walcott]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|UKR}} [[Universitas Kharkiv]]
+|-valign="top"
+|3
+|
+#{{Nobel abbr|Eko}} [[Simon S. Kuznets]]
+|
+|
+#{{Nobel abbr|FK}} [[Ilya Ilyich Mechnikov]]
+#{{Nobel abbr|Fis}} [[Lev Davidovich Landau]]
+|
+|-
+|colspan="5"|{{flagicon|ITA}} [[Universitas Bologna]]
+|-valign="top"
+|3
+|
+|
+# {{Nobel abbr|Fis}} [[Guglielmo Marconi]]
+|
+# {{Nobel abbr|FK}} [[Camillo Golgi]]
+# {{Nobel abbr|Sas}} [[Giosu Carducci]]
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas Negeri Arizona]]
+|-valign="top"
+|3
+|
+|
+|
+#{{Nobel abbr|Eko}} [[Edward C. Prescott]]
+#{{Nobel abbr|Eko}} [[Elinor Ostrom]]
+|
+#{{Nobel abbr|FK}} [[Leland H. Hartwell]]
+|-
+!Afiliasi <ref group=Catatan name=Afiliasi/>
+!Alumni <ref group=Catatan name=Alumnis/>
+!Peneliti atau Mahasiswa<ref group=Catatan name=attendeesresearch/>
+!Staf akademik sebelum atau pada saat penghargaan <ref group=Catatan name=staff1/>
+!Staf akademik setelah penghargaan <ref group=Catatan name=staff2/>
+|-
+|colspan="5"|{{flagicon|NED}} [[Universitas Teknologi Delft]]
+|-valign="top"
+|
+3
+|
+#{{Nobel abbr|Fis}} [[Simon van der Meer]]
+#{{Nobel abbr|Kim}} [[Jacobus Henricus van 't Hoff]]
+|
+|
+#{{Nobel abbr|Fis}} [[Heike Kamerlingh Onnes]]
+|
+|-
+|colspan="5"|{{flagicon|NED}}[[Rijksuniversiteit Groningen]]
+|-valign="top"
+|3
+|
+#{{Nobel abbr|Fis}} [[Heike Kamerlingh Onnes]]
+|
+|
+#{{Nobel abbr|FK}} [[Albert Szent-Gyrgyi]]
+#{{Nobel abbr|Fis}} [[Frits Zernike]]
+|
+|-
+|colspan="5"|{{flagicon|GER}} [[Universitt zu Kln]]
+|-
+|3
+|
+#{{Nobel abbr|Sas}} [[Heinrich Bll]]
+|
+|
+#{{Nobel abbr|Kim}} [[Kurt Alder]]
+#{{Nobel abbr|Fis}} [[Peter Grnberg]]
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas New Mexico]]
+|-valign="top"
+|3
+|
+#{{Nobel abbr|FK}} [[Frederick Chapman Robbins]]
+|
+|
+#{{Nobel abbr|Sas}} [[Jean-Marie Gustave Le Clzio]]
+|
+#{{Nobel abbr|Fis}} [[Murray Gell-Mann]]
+|-
+|colspan="5"|{{flagicon|USA}} [[Dartmouth College]]
+|-valign="top"
+|3
+|
+#{{Nobel abbr|Fis}} [[Owen Chamberlain]]
+#{{Nobel abbr|Kim}} [[K. Barry Sharpless]]
+#{{Nobel abbr|FK}} [[George Davis Snell]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas Tufts]]
+|-valign="top"
+|3
+|
+#{{Nobel abbr|Kim}} [[Roderick MacKinnon]]
+#{{Nobel abbr|Eko}} [[Eugene F. Fama]]
+|
+|
+|
+#{{Nobel abbr|FK}} [[Allan M. Cormack]]
+|-
+|colspan="5"|{{flagicon|USA}} [[Virginia Tech]]
+|-valign="top"
+|3
+|
+#{{Nobel abbr|Fis}} [[Robert Coleman Richardson]]
+|
+#{{Nobel abbr|Eko}} [[Elinor Ostrom]]
+|
+#{{Nobel abbr|Eko}} [[James M. Buchanan]]
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas George Washington]]
+|-valign="top"
+|3
+|
+#{{Nobel abbr|FK}} [[Julius Axelrod]]
+|
+|
+#{{Nobel abbr|Kim}} Vincent du Vigneaud
+|
+#{{Nobel abbr|FK}} [[Ferid Murad]]
+|-
+|colspan="5"|{{flagicon|USA}} [[Institut Teknologi Georgia]]
+|-valign="top"
+|3
+|
+#{{Nobel abbr|Kim}} [[Kary B. Mullis]]
+#{{Nobel abbr|Pe}} [[Jimmy Carter]]
+|
+|
+|
+#{{Nobel abbr|Kim}} [[Paul Crutzen]]
+|-
+|colspan="5"|{{flagicon|PAK}} [[Universitas Punjab]]
+|-valign="top"
+|3
+|
+#{{Nobel abbr|Fis}} [[Abdus Salam]]
+#{{Nobel abbr|FK}} [[Har Gobind Khorana]]
+|
+#{{Nobel abbr|Fis}} [[Arthur Holly Compton]]
+|
+|
+|-
+|colspan="5"|{{flagicon|EGY}} [[Universitas Kairo]]
+|-valign="top"
+|3
+|
+#{{Nobel abbr|Pe}} [[Mohamed ElBaradei]]
+#{{Nobel abbr|Pe}} [[Yasser Arafat]]
+#{{Nobel abbr|Sas}} [[Naguib Mahfouz]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas Florida]]
+|-
+|3
+|
+#{{Nobel abbr|Kim}} [[Robert H. Grubbs]]
+#{{Nobel abbr|FK}} [[Marshall Warren Nirenberg]]
+|
+|
+#{{Nobel abbr|Fis}} [[John Robert Schrieffer]]
+|
+|-
+|colspan="5"|{{flagicon|FIN}} [[Universitas Helsinki]]
+|-
+|3
+|
+#{{Nobel abbr|Sas}} [[Frans Eemil Sillanp]]
+|
+|
+#{{Nobel abbr|Kim}} [[Artturi Ilmari Virtanen]]
+#{{Nobel abbr|FK}} [[Ragnar Granit]]
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Institut Teknologi Illinois]]
+|-valign="top"
+|
+|
+|
+#{{Nobel abbr|Fis}} [[Jack Steinberger]]
+|
+#{{Nobel abbr|Eko}} [[Herbert A. Simon]]
+|
+#{{Nobel abbr|Fis}} [[Leon M. Lederman]]
+|-
+|colspan="5"|{{flagicon|CAN}} [[Universitas McMaster]]
+|-valign="top"
+|2
+|
+#{{Nobel abbr|Eko}} [[Myron Scholes]]
+|
+|
+#{{Nobel abbr|Fis}} [[Bertram Brockhouse]]
+|
+|-
+|colspan="5"|{{flagicon|MEX}} [[Universidad Nacional Autnoma de Mxico]]
+|-valign="top"
+|3
+|
+#{{Nobel abbr|Kim}} [[Mario Molina]]
+#{{Nobel abbr|Sas}} [[Octavio Paz]]
+#{{Nobel abbr|Pe}} [[Alfonso Garca Robles]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Oberlin College]]<ref>{{cite web | url = http://www.oberlin.edu/coladm/after/nobel.html | title = Oberlin College | accessdate = 2006-06-11}}</ref>
+|-valign="top"
+|3
+|
+#{{Nobel abbr|Fis}} [[Robert A. Millikan]]
+#{{Nobel abbr|FK}} [[Roger Sperry]]
+#{{Nobel abbr|FK}} [[Stanley Cohen (biokimiawan)|Stanley Cohen]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas Rice]]
+|-valign="top"
+|3
+|
+#{{Nobel abbr|Fis}} [[Robert Woodrow Wilson]]
+#{{Nobel abbr|Kim}} [[Robert Curl]]
+|
+|
+#{{Nobel abbr|Kim}} [[Richard E. Smalley]]
+|
+|-
+|colspan="5"|{{flagicon|JPN}} [[Universitas Tsukuba]]
+|-valign="top"
+|3
+|
+|
+|
+#{{Nobel abbr|Kim}} [[Hideki Shirakawa]]
+#{{Nobel abbr|Fis}} [[Sin-Itiro Tomonaga]]
+|
+#{{Nobel abbr|Fis}} [[Leo Esaki]]
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas Negeri New York di Stony Brook]]
+|-valign="top"
+|3
+|
+|
+|
+#{{Nobel abbr|Fis}} [[Chen Ning Yang]]
+#{{Nobel abbr|FK}} [[Paul Lauterbur]]
+#{{Nobel abbr|Eko}} [[Robert J. Aumann]]
+|
+|-
+|colspan="5"|{{flagicon|ITA}} [[Universitas Pisa]]
+|-valign="top"
+|3
+|
+#{{Nobel abbr|Fis}} [[Carlo Rubbia]]
+#{{Nobel abbr|Fis}} [[Enrico Fermi]]
+#{{Nobel abbr|Sas}} [[Giosu Carducci]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|GBR}} [[Queen Mary, Universitas London]]<ref>{{cite web | url = http://www.qmul.ac.uk/alumni/alumninetwork/notablealumni/index.html | title = Queen Mary, Universitas London Notable Alumni and Staff | accessdate = 2007-09-23}}</ref>
+|-valign="top"
+|3
+|
+#{{Nobel abbr|FK}} [[Peter Mansfield]]
+|
+|
+#{{Nobel abbr|Pe}} [[Joseph Rotblat]]
+|
+#{{Nobel abbr|FK}} [[John Vane]]
+|-
+|colspan="5"|{{flagicon|AUS}} [[Universitas Sydney]]<ref>{{cite web | url = http://www.usyd.edu.au/about/profile/pub/alumni.shtml | title = Universitas Sydney | accessdate = 2007-06-22}}</ref>
+|-valign="top"
+|3
+|
+#{{Nobel abbr|Kim}} [[John Cornforth]]
+#{{Nobel abbr|Eko}} [[John Harsanyi]]
+|
+|
+#{{Nobel abbr|Kim}} [[Robert Robinson (kimiawan organik)|Robert Robinson]]
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas Texas di Dallas]]<ref name='tamest' />
+|-valign="top"
+|3
+|
+|
+|
+#{{Nobel abbr|Kim}} [[Alan MacDiarmid]]
+#{{Nobel abbr|Fis}} [[Russell Alan Hulse]]
+|
+#{{Nobel abbr|Fis}} [[Polykarp Kusch]]
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas Utah]]
+|-valign="top"
+|3
+|
+|
+#{{Nobel abbr|Kim}} [[Venkatraman Ramakrishnan]]<ref>[http://www.unews.utah.edu/p/?r=100709-1 Nobel to Former U Biochemist - Universitas Utah News Release: October 7th, 2009<!-- Bot generated title -->]</ref>
+|
+#{{Nobel abbr|FK}} [[Mario Capecchi]]
+|
+#{{Nobel abbr|Fis}} [[James Cronin]]
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas Brandeis]]
+|-valign="top"
+|3
+|
+#{{Nobel abbr|Kim}} [[Roderick MacKinnon]]
+|
+#{{Nobel abbr|Eko}} [[John Forbes Nash]]
+|
+|
+#{{Nobel abbr|Sas}} [[Saul Bellow]]
+|-
+|colspan="5"|{{flagicon|ITA}} [[Universitas Pavia]]
+|-valign="top"
+|3
+|
+#
+|
+#
+|
+#{{Nobel abbr|Kim}} [[Giulio Natta]]
+#{{Nobel abbr|FK}} [[Camillo Golgi]]
+|
+#{{Nobel abbr|Fis}} [[Carlo Rubbia]]
+|-
+|colspan="5"|{{flagicon|ITA}} [[Universitas Turin]]
+|-valign="top"
+|3
+|
+#{{Nobel abbr|FK}} [[Renato Dulbecco]]
+#{{Nobel abbr|FK}} [[Rita Levi Montalcini]]
+#{{Nobel abbr|FK}} [[Salvador E. Luria]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|ISR}} [[Technion - Institut Teknologi Israel]]
+|-valign="top"
+|3
+|
+|
+|
+#{{Nobel abbr|Kim}} [[Aaron Ciechanover]]
+#{{Nobel abbr|Kim}} [[Avram Hershko]]
+#{{Nobel abbr|Kim}} [[Daniel Shechtman]]
+|
+|-
+|colspan="5"|{{flagicon|GER}} [[Universitas Erlangen-Nuremberg]]<ref>{{cite web | url = http://www.uni-erlangen.de | title = Erlangen-Nuremberg | accessdate = 2009-12-06}}</ref><br>
+|-valign="top"
+|3
+|
+|
+|
+#{{Nobel abbr|Kim}} [[Eduard Buchner]]<ref>{{cite web | url = http://nobelprize.org/nobel_prizes/chemistry/laureates/1907/buchner-bio.html | title = Eduard Buchners biography at nobelprize.org | accessdate = 2009-12-06}}</ref>
+#{{Nobel abbr|Kim}} [[Hermann Emil Fischer]]<ref>{{cite web | url = http://www.nobelprize.org/nobel_prizes/chemistry/laureates/1902/fischer.html | title = Hermann Emil Fischers biography at nobelprize.org | accessdate = 2012-10-20}}</ref>
+#{{Nobel abbr|FK}} [[Harald zur Hausen]]
+|
+|-
+|colspan="5"|{{flagicon|NZL}} [[Universitas Canterbury]]
+|-valign="top"
+|3
+|
+#{{Nobel abbr|Fis}} [[Ernest Rutherford]]
+|
+|
+#{{Nobel abbr|Kim}} [[Robert H. Grubbs]]<ref>{{cite web |url= http://www.canterbury.ac.nz/rutherford/centennial.shtml |title=Rutherford centennial celebrations |work=canterbury.ac.nz |year=2008 |accessdate=28 January 2012}}</ref>
+|
+#{{Nobel abbr|Eko}} [[Clive Granger]]
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas Wesleyan]]
+|-valign="top"
+|3
+|
+|
+#{{Nobel abbr|Sas}} [[T. S. Eliot]]
+|
+#{{Nobel abbr|Pe}} [[Woodrow Wilson]]
+#{{Nobel abbr|Sas}} [[V. S. Naipaul]]
+|
+|-
+|colspan="5"|{{flagicon|GBR}} [[Universitas Nottingham]]
+|-valign="top"
+|3
+|
+#{{Nobel abbr|Eko}} [[Clive Granger]]
+|
+|
+#{{Nobel abbr|Fis}} [[Andre Geim]]
+#{{Nobel abbr|FK}} [[Peter Mansfield]]
+|
+|-
+|colspan="5"|{{flagicon|GBR}} [[Universitas Essex]]
+|-
+|3
+|
+#{{Nobel abbr|Eko}} [[Christopher A. Pissarides]]
+#{{Nobel abbr|Pe}} [[scar Arias]]
+|
+|
+|
+# {{Nobel abbr|Sas}} [[Derek Walcott]]
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas Delaware]]<ref>{{cite web | url = http://www.udel.edu/udaily/2011/oct/heck-nobel-prize100610.html | title = UD professor emeritus wins Nobel Prize in Chemistry | accessdate = 2010-10-06}}</ref><br>
+|-valign="top"
+|2
+|
+#{{Nobel abbr|Kim}} [[Daniel Nathans]]
+|
+|
+#{{Nobel abbr|Kim}} [[Richard F. Heck]]
+|
+|-
+|colspan="5"|{{flagicon|GBR}} [[London School of Hygiene and Tropical Medicine]]<ref>{{cite web | url = http://www.lshtm.ac.uk | title = London School of Hygiene and Tropical Medicine| accessdate = 2012-10-12}}</ref>
+|-valign="top"
+|2
+|
+#{{Nobel abbr|FK}} [[Max Theiler]]
+#{{Nobel abbr|FK}} [[Ronald Ross]]
+|
+|
+|
+|-
+
+|-
+|colspan="5"|{{flagicon|GBR}} [[Universitas East Anglia]]
+|-valign="top"
+|2
+|
+#{{Nobel abbr|FK}} [[Paul Nurse]]
+|
+|
+|
+#{{Nobel abbr|Kim}} [[Richard Laurence Millington Synge|Richard Synge]]
+|-
+|colspan="5"|{{flagicon|GBR}} [[Universitas Cardiff]]<ref>{{cite web | url = http://www.cardiff.ac.uk | title = Cardiff | accessdate = 2007-12-11}}</ref>
+|-valign="top"
+|2
+|
+#
+|
+#
+|
+#{{Nobel abbr|FK}} [[Martin Evans]]
+|
+#{{Nobel abbr|Kim}} [[Robert Huber]]
+|-
+|colspan="5"|{{flagicon|GER}} [[Technische Universitt Darmstadt|Darmstadt Universitas Technology]]
+|-valign="top"
+|2
+|
+#{{Nobel abbr|Kim}} [[Gerhard Herzberg]]
+#{{Nobel abbr|Fis}} [[Peter Grnberg]]
+|
+#
+|
+#
+|
+#
+|-
+|colspan="5"|{{flagicon|FRA}} [[Mines ParisTech|cole des Mines de Paris - Mines PariTech]]<ref>{{cite web | url = http://www.mines-paristech.fr/Ecole/Prix-Nobel | title = MINES PARISTECH - Deux prix Nobel  MINES ParisTech| accessdate = 2013-03-15}}</ref>
+|-valign="top"
+|2
+|
+#{{Nobel abbr|Fis}} [[Georges Charpak]]
+#{{Nobel abbr|Eko}} [[Maurice Allais]]
+|
+#
+|
+#
+|
+#
+|-
+|colspan="5"|{{flagicon|USA}} [[Hamilton College (New York)|Hamilton College]]<ref>{{cite web | url = http://www.hamilton.edu | title = Hamilton College| accessdate = 2008-03-11}}</ref>
+|-valign="top"
+|2
+|
+#{{Nobel abbr|FK}} [[Paul Greengard]]
+#{{Nobel abbr|Pe}} [[Elihu Root]]
+|
+#
+|
+#
+|
+#
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas Howard]]<ref>{{cite web | url = http://www.howard.edu/newsroom/mediaresources/NotableAlumni-HowardUniversity.htm | title = Howard University Newsroom: Notable Alumni| accessdate = 2012-06-17}}</ref><ref>{{cite web | url = http://www.howard.edu/rjb/opportunities/ | title = Howard University - Ralph J. Bunche| accessdate = 2012-06-17}}</ref>
+|-valign="top"
+|2
+|
+#{{Nobel abbr|Sas}} [[Toni Morrison]]
+|
+|
+#{{Nobel abbr|Pe}} [[Ralph Bunche]]
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas Negeri Michigan]]
+|-
+|2
+|
+#{{Nobel abbr|FK}} [[Alfred Hershey]]
+|
+|
+#{{Nobel abbr|Kim}} [[Robert H. Grubbs]]
+|
+|-
+|colspan="5"|{{flagicon|NED}} [[Radboud University Nijmegen]]
+|-valign="top"
+|2
+|
+#{{Nobel abbr|Fis}} [[Kostya Novoselov]]
+|
+|
+#{{Nobel abbr|Fis}} [[Andre Geim]]
+|
+|-
+|colspan="5"|{{flagicon|RUS}} [[Politeknik Saint Petersburg]]<ref>{{cite web | url = http://www.spbstu.ru/english/facts.html | title = Saint Petersburg Polytechnical University | accessdate = 2007-04-05| archiveurl = http://web.archive.org/web/20070403030800/http://www.spbstu.ru/english/facts.html| archivedate = April 3, 2007}}</ref>
+|-valign="top"
+|2
+|
+#{{Nobel abbr|Fis}} [[Pyotr Kapitsa]]
+|
+|
+#{{Nobel abbr|Kim}} [[Nikolay Semyonov]]
+|
+|-
+|colspan="5"|{{flagicon|ROC}} [[Universitas Southwest Associated]]
+|-valign="top"
+|2
+|
+#{{Nobel abbr|Fis}} [[Chen Ning Yang]]
+#{{Nobel abbr|Fis}} [[Tsung-Dao Lee]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|GRE}} [[Universitas Athena]]
+|-valign="top"
+|2
+|
+#{{Nobel abbr|Sas}} [[Odysseas Elytis]]
+|
+|
+|
+#{{Nobel abbr|Sas}} [[Giorgos Seferis]]
+|-
+|-
+|colspan="5"|{{flagicon|CHL}} [[Universidad de Chile (universitas)|Universidad de Chile]]
+|-valign="top"
+|2
+|
+#{{Nobel abbr|Sas}} [[Gabriela Mistral]]
+#{{Nobel abbr|Sas}} [[Pablo Neruda]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|IND}} [[Universitas Delhi]]
+|-valign="top"
+|2
+|
+#{{Nobel abbr|Pe}} [[Aung San Suu Kyi]]
+|
+|
+#{{Nobel abbr|Eko}} [[Amartya Sen]]
+|
+|-
+|colspan="5"|{{flagicon|IRL}} [[Universitas Dublin, Trinity College]]
+|-valign="top"
+|2
+|
+#{{Nobel abbr|Sas}} [[Samuel Beckett]]
+|
+|
+#{{Nobel abbr|Fis}} [[Ernest Walton]]
+|
+|-
+|colspan="5"|{{flagicon|GER}} [[Universitas Greifswald]]
+|-valign="top"
+|2
+|
+|
+|
+#{{Nobel abbr|Fis}} [[Johannes Stark]]
+#{{Nobel abbr|FK}} [[Gerhard Domagk]]
+|
+|-
+|colspan="5"|{{flagicon|IND}} [[Universitas Madras]]
+|-valign="top"
+|2
+|
+#{{Nobel abbr|Fis}} [[Chandrasekhara Venkata Raman]]
+#{{Nobel abbr|Fis}} [[Subrahmanyan Chandrasekhar]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas Negeri Middle Tennessee]]
+|-valign="top"
+|2
+|
+#{{Nobel abbr|Eko}} [[James M. Buchanan]]
+|
+|
+#{{Nobel abbr|Pe}} [[Muhammad Yunus]]
+|
+|-
+|colspan="5"|{{flagicon|PRC}} [[Universitas Nanjing]]
+|-valign="top"
+|2
+|
+|
+#{{Nobel abbr|Kim}} [[Aaron Ciechanover]]
+#{{Nobel abbr|Sas}} [[Pearl S. Buck]]
+|
+|
+|-
+|colspan="5"|{{flagicon|PRC}} [[Universitas Beijing Normal]]
+|-
+|2
+|
+#{{Nobel abbr|Pe}} [[Liu Xiaobo]]
+#{{Nobel abbr|Sas}} [[Mo Yan]]
+|
+|
+#{{Nobel abbr|Pe}} [[Liu Xiaobo]]
+|
+#{{Nobel abbr|Sas}} [[Mo Yan]]
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas George Mason]]
+|-valign="top"
+|2
+|
+|
+|
+#{{Nobel abbr|Eko}} [[James M. Buchanan]]
+#{{Nobel abbr|Eko}} [[Vernon L. Smith]]
+|
+|-
+|colspan="5"|{{flagicon|CAN}} [[Universitas Saskatchewan]]<ref>{{cite web | url = http://www.usask.ca/research/about/nobel.php | title = Universitas Saskatchewan | accessdate = 2006-10-04}}</ref>
+|-valign="top"
+|2
+|
+#{{Nobel abbr|Kim}} [[Henry Taube]]
+|
+|
+#{{Nobel abbr|Kim}} [[Gerhard Herzberg]]
+|
+|-
+|colspan="5"|{{flagicon|GBR}} [[Universitas Sussex]]
+|-valign="top"
+|2
+|
+|
+|
+|
+#{{Nobel abbr|Fis}} Sir [[John Cornforth]]
+#{{Nobel abbr|Fis}} [[Harry Kroto]]
+|-
+|colspan="5"|{{flagicon|USA}} [[Institut Teknologi Stevens]]
+|-valign="top"
+|2
+|
+#{{Nobel abbr|Eko}} [[Frederick Reines]]
+|
+|
+#{{Nobel abbr|Eko}} [[Irving Langmuir]]
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Baylor College of Medicine]]
+|-valign="top"
+|2
+|
+|
+#{{Nobel abbr|FK}} [[Roger Guillemin]]
+#{{Nobel abbr|FK}} [[Andrew Schally]]
+|
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas Emory]]<ref>{{cite web | url = http://www.usna.edu/Admissions/Notables/Presidents/index.htm | title = Emory University | accessdate = 2006-06-11}}</ref>
+|-
+|2
+|
+|
+|
+|
+#{{Nobel abbr|Pe}} [[Jimmy Carter]]
+#{{Nobel abbr|Pe}} [[Tenzin Gyatso| Tenzin Gyatso, The 14th Dalai Lama]]
+|-
+|colspan="5"|{{flagicon|USA}} [[Akademi Angkatan Laut Amerika Serikat]]
+|-valign="top"
+|2
+|
+#{{Nobel abbr|Fis}} [[Albert Abraham Michelson|Albert Michelson]]
+#{{Nobel abbr|Pe}} [[Jimmy Carter]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas Kansas]]
+|-valign="top"
+|2
+|
+#{{Nobel abbr|Eko}} [[Vernon L. Smith]]
+|
+|
+#{{Nobel abbr|Kim}} [[Frank Sherwood Rowland]]
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas Massachusetts Amherst]]
+|-valign="top"
+|2
+|
+#{{Nobel abbr|Fis}} [[Russell Alan Hulse]]
+|
+#{{Nobel abbr|Fis}} [[Joseph H. Taylor, Jr.]]
+#{{Nobel abbr|Fis}} [[Russell Alan Hulse]]
+|
+#{{Nobel abbr|Fis}} [[Joseph H. Taylor, Jr.]]
+|
+|-
+
+|-
+|colspan="5"|{{flagicon|AUS}} [[Universitas Western Australia]]
+|-valign="top"
+|2
+|
+|
+|
+#{{Nobel abbr|FK}} [[Barry Marshall]]
+#{{Nobel abbr|FK}} [[Robin Warren|J. Robin Warren]]
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas Virginia Commonwealth]]
+|-valign="top"
+|2
+|
+#{{Nobel abbr|FK}} [[Baruj Benacerraf]]
+|
+|
+#{{Nobel abbr|Kim}} [[John B. Fenn]]
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas Notre Dame]]
+|-valign="top"
+|2
+|
+#{{Nobel abbr|FK}} [[Eric F. Wieschaus]]
+#{{Nobel abbr|Pe}} [[James E. Muller]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas Oregon]]
+|-valign="top"
+|2
+|
+#{{Nobel abbr|Fis}} [[Walter Houser Brattain]]
+#{{Nobel abbr|FK}} [[William Parry Murphy]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|EST}} [[Universitas Tartu]]
+|-valign="top"
+|2
+|
+#{{Nobel abbr|Kim}} [[Wilhelm Ostwald]]
+|
+|
+#{{Nobel abbr|Kim}} [[Wilhelm Ostwald]]
+#{{Nobel abbr|FK}} [[Robert Koch]]
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas Negeri Washington]]<ref>{{cite web | url = http://www.nobelprize.org/nobel_prizes/chemistry/laureates/2004/rose-autobio.html| title = Washington State University | accessdate = 2012-04-02}}</ref>
+|-
+|2
+|
+|
+#{{Nobel abbr|Kim}} [[Irwin Rose]]
+|
+#{{Nobel abbr|Sas}} [[Mario Vargas Llosa]]
+|
+|-
+|colspan="5"|{{flagicon|BEL}} [[Universitas Ghent]]
+|-
+|2
+|
+#{{Nobel abbr|Sas}} [[Maurice Maeterlinck]]
+|
+|
+#{{Nobel abbr|FK}} [[Corneille Heymans]]
+|
+|-
+|colspan="5"|{{flagicon|BEL}} [[Universit Catholique de Louvain]]
+|-valign="top"
+|2
+|
+|
+|
+#{{Nobel abbr|FK}} [[Albert Claude]]
+#{{Nobel abbr|FK}} [[Christian de Duve]]
+|
+|-
+|-
+|colspan="5"|{{flagicon|CAN}}[[Universitas Western Ontario]]
+|-valign="top"
+|2
+|
+|
+#{{Nobel abbr|Sas}} [[Alice Munro]]
+|
+#{{Nobel abbr|FK}} [[Frederick Banting]]
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas Tulane]]
+|-
+|2
+|
+|
+|
+#{{Nobel abbr|FK}} [[Louis J. Ignarro]]
+#{{Nobel abbr|FK}} [[Andrew Schally]]
+|
+|-
+|colspan="5"|{{flagicon|JPN}} [[Universitas Kobe]]
+|-valign="top"
+|1
+|
+#{{Nobel abbr|FK}} [[Shinya Yamanaka]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas Lehigh]]<ref>[[Dork Sahagian]]</ref>
+|-
+|1
+|
+#{{Nobel abbr|Kim}} [[Dork Sahagian]]
+
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|NZL}} [[Universitas Victoria Wellington]]<ref>[http://www.vuw.ac.nz/macdiarmid/news/interface/interfaceissue10.pdf Alan MacDiarmid Nobel Laureate]</ref>
+|-
+|1
+|
+#{{Nobel abbr|Kim}} [[Alan Graham MacDiarmid]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|ISR}} [[Institut Sains Weizmann]]
+|-valign="top"
+|1
+|
+|
+|
+#{{Nobel abbr|Kim}} [[Ada Yonath]]
+|
+|-
+|colspan="5"|{{flagicon|DEN}} [[Universitas Aarhus]]<ref>[http://www.au.dk/en/nobelprize1997/ The Nobel Prize in Chemistry 1997]</ref>
+|-
+|1
+|
+#{{Nobel abbr|Kim}} [[Jens Christian Skou]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|CAN}} [[Universitas Acadia]]
+|-valign="top"
+|1
+|
+#{{Nobel abbr|FK}} [[Charles Brenton Huggins]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|AZE}} [[Universitas Negeri Baku]]
+|-valign="top"
+|1
+|
+#{{Nobel abbr|Fis}} [[Lev Landau]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|PRC}} [[Universitas Hubungan Internasional Beijing]]
+|-valign="top"
+|1
+|
+#{{Nobel abbr|Sas}} [[Gao Xingjian]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Berea College]]
+|-
+|1
+|
+#{{Nobel abbr|Kim}} [[John B. Fenn]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas California, Riverside]]
+|-
+|1
+|
+#{{Nobel abbr|Kim}} [[Richard R. Schrock]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|SWE}} [[Universitas Teknologi Chalmers]]
+|-
+|1
+|
+#{{Nobel abbr|Fis}} [[Nils Gustaf Daln]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|ROU}} [[Carol Davila University of Medicine and Pharmacy]]
+|-
+|1
+|
+#{{Nobel abbr|FK}} [[George Palade]]
+|
+|
+#{{Nobel abbr|FK}} [[George Palade]]
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[College of the Holy Cross]]
+|-valign="top"
+|1
+|
+#{{Nobel abbr|Fis}} [[Joseph E. Murray]]
+|
+#
+|
+#
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas DePauw]]
+|-
+|1
+|
+#{{Nobel abbr|FK}} [[Ferid Murad]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Gettysburg College]]
+|-
+|1
+|
+#{{Nobel abbr|FK}} [[J. Michael Bishop]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas Fordham]]
+|-
+|-
+|1
+|
+#{{Nobel abbr|Fis}} [[Victor Francis Hess]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas Georgetown]]
+|-
+|1
+|
+|
+|
+#{{Nobel abbr|Sas}} [[Mario Vargas Llosa]]
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Grinnell College]]
+|-
+|1
+|
+#{{Nobel abbr|Kim}} [[Thomas R. Cech]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|TUR}} [[Universitas Istanbul]]
+|-valign="top"
+|1
+|
+#{{Nobel abbr|Sas}} [[Orhan Pamuk]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas Houston]]
+|-
+|1
+|
+|
+|
+|
+# {{Nobel abbr|Pe}} [[Jody Williams]]
+|-
+|colspan="5"|{{flagicon|JPN}} [[Institut Teknologi Kyoto]]
+|-valign="top"
+|1
+|
+|
+|
+|
+#{{Nobel abbr|Kim}} [[Kenichi Fukui]]
+|-
+|colspan="5"|{{flagicon|POL}} [[Universitas Jagiellonian]]
+|-
+|1
+|
+#{{Nobel abbr|Sas}} [[Wislawa Szymborska]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|IND}} [[Universitas Jadavpur]]
+|-
+|1
+|
+|
+|
+#{{Nobel abbr|Eko}} [[Amartya Sen]]
+|
+|-
+|colspan="5"|{{flagicon|PRC}} [[Universitas Jilin]]
+|-
+|1
+|
+#{{Nobel abbr|Pe}} [[Liu Xiaobo]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Juniata College]]<ref>{{cite web | url = http://nobelprize.org/physics/laureates/1997/phillips-autobio.html | title = Juniata College | accessdate = 2006-06-11}}</ref>
+|-
+|1
+|
+#{{Nobel abbr|Fis}} [[William D. Phillips]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas Lawrence]]
+|-
+|1
+|
+#{{Nobel abbr|Kim}} [[Thomas A. Steitz]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas Teknologi Michigan]]
+|-
+|1
+|
+#{{Nobel abbr|Kim}} [[Melvin Calvin]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas Montana]]
+|-
+|1
+|
+#{{Nobel abbr|Kim}} [[Harold Clayton Urey]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|IRL}} [[Universitas Nasional Irlandia, Maynooth]]
+|-
+|1
+|
+#{{Nobel abbr|Pe}} [[John Hume]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|ROC}} [[Universitas Nasional Taiwan]]
+|-
+|1
+|
+#{{Nobel abbr|Kim}} [[Yuan T. Lee]]<ref group=Catatan name=repeat/>
+|
+|
+|
+#{{Nobel abbr|Kim}} [[Yuan T. Lee]]<ref group=Catatan name=repeat/>
+|-
+|colspan="5"|{{flagicon|ROC}} [[Universitas Nasional Tsing Hua]]
+|-
+|1
+|
+#{{Nobel abbr|Kim}} [[Yuan T. Lee]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|NOR}} [[Universitas Sains dan Teknologi Norwegia]]
+|-
+|1
+|
+#{{Nobel abbr|Kim}} [[Ivar Giaever]]
+#{{Nobel abbr|Kim}} [[Lars Onsager]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas Negeri Pennsylvania]]<ref>{{cite web | url = http://nobelprize.org/chemistry/laureates/1980/berg-autobio.html | title = Pennsylvania State University | accessdate = 2006-06-11}}</ref>
+|-
+|1
+|
+#{{Nobel abbr|Kim}} [[Paul Berg]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|AUS}} [[Universitas Queensland]]
+|-
+|1
+|
+#{{Nobel abbr|FK}} [[Peter C. Doherty]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Institut Politeknik Rensselaer]]
+|-
+|1
+|
+#{{Nobel abbr|Kim}} [[Ivar Giaever]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|SWE}} [[Royal Institute of Technology]]<ref>{{cite web | url = http://www.kth.se/om/fame/1.3968 | title = Royal Institute of Technology | accessdate = 2007-04-09}}</ref>
+|-
+|1
+|
+|
+|
+#{{Nobel abbr|Fis}} [[Hannes Alfvn]]
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[School for International Training]]
+|-
+|1
+|
+# {{Nobel abbr|Pe}} [[Jody Williams]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|GBR}} [[School of Oriental and African Studies, Universitas London]]
+|-
+|1
+|
+#{{Nobel abbr|Pe}} [[Aung San Suu Kyi]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[State University of New York Downstate Medical Center]]
+|-
+|1
+|
+|
+|
+#{{Nobel abbr|FK}} [[Robert F. Furchgott]]
+|
+|-
+|colspan="5"|{{flagicon|ITA}} [[Politecnico di Milano]]
+|-valign="top"
+|1
+|
+#{{Nobel abbr|Kim}} [[Giulio Natta]]
+|
+#
+|
+#{{Nobel abbr|Kim}} [[Giulio Natta]]
+|
+#
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas Tennessee]]
+|-valign="top"
+|1
+|
+#{{Nobel abbr|Eko}} [[James M. Buchanan]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas Texas di Houston]]<ref name='tamest' />
+|-valign="top"
+|1
+|
+|
+|
+#{{Nobel abbr|FK}} [[Ferid Murad]]
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Institut Militer Virginia]]
+|-
+|1
+|
+#[[George C. Marshall]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas Southern Methodist]]
+|-
+|1
+|
+#{{Nobel abbr|Fis}} [[James Cronin]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas Massachusetts, Fakultas Kedokteran]]
+|-
+|1
+|
+#{{Nobel abbr|FK}} [[Craig C. Mello]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|HUN}} [[Universitas Szeged]]
+|-
+|1
+|
+|
+|
+#{{Nobel abbr|FK}} [[Albert Szent-Gyrgyi]]
+|
+|-
+|colspan="5"|{{flagicon|IRN}} [[Universitas Teheran]]
+|-
+|1
+|
+|
+|
+#{{Nobel abbr|Pe}} [[Shirin Ebadi]]
+|
+|-
+|colspan="5"|{{flagicon|NGR}} [[Universitas Ibadan]]
+|-
+|1
+|
+|
+#{{Nobel abbr|Sas}} [[Wole Soyinka]]
+|
+|
+|-
+|colspan="5"|{{flagicon|NGR}} [[Universitas Obafemi Awolowo]]
+|-
+|1
+|
+|
+|
+#{{Nobel abbr|Sas}} [[Wole Soyinka]]
+|
+|-
+|-
+|colspan="5"|{{flagicon|POR}} [[Universitas Coimbra]]
+|-
+|1
+|
+#{{Nobel abbr|FK}} [[Antnio Egas Moniz]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|IRL}} [[University College Dublin]]
+|-
+|1
+|
+|
+|
+|
+#{{Nobel abbr|Eko}} [[James Heckman]]
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas Connecticut]]
+|-
+|1
+|
+#{{Nobel abbr|Fis}} [[David Lee (physicist)|David Lee]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas Mississippi]]
+|-
+|1
+|
+|
+#{{Nobel abbr|Sas}} [[William Faulkner]]
+|
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas Vermont]]
+|-
+|1
+|
+# {{Nobel abbr|Pe}} [[Jody Williams]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|PUR}} [[Universitas Puerto Rico, Rio Piedras]]
+|-
+|1
+|
+|
+|
+#{{Nobel abbr|Sas}} [[Juan Ramn Jimnez]]
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Wellesley College]]
+|-
+|1
+|
+|
+|
+#{{Nobel abbr|Pe}} [[Emily Greene Balch]]
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Whitman College]]
+|-
+|1
+|
+#{{Nobel abbr|Fis}} [[Walter Houser Brattain]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[College of Wooster]]
+|-
+|1
+|
+#{{Nobel abbr|Fis}} [[Arthur Holly Compton]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas Brigham Young]]
+|-
+|1
+|
+#{{Nobel abbr|Kim}} [[Paul D. Boyer]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|BGD}} [[Universitas Dhaka]]
+|-
+|1
+|
+#{{Nobel abbr|Pe}} [[Muhammad Yunus]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|BGD}} [[Universitas Chittagong]]
+|-valign="top"
+|1
+|
+|
+|
+#{{Nobel abbr|Pe}} [[Muhammad Yunus]]
+|
+|-
+|colspan="5"|{{flagicon|IND}} [[Maharaja Sayajirao University of Baroda]]
+|-
+|1
+|
+#{{Nobel abbr|Kim}} [[Venkatraman Ramakrishnan]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Fakultas Kedokteran Mount Sinai]]
+|-
+|1
+|
+|
+|
+|
+#{{Nobel abbr|FK}} [[Rosalyn Yalow]]
+|-
+|colspan="5"|{{flagicon|USA}} [[Macalester College]]
+|-
+|1
+|
+#{{Nobel abbr|Pe}} [[Kofi Annan]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Morehouse College]]
+|-valign="top"
+|1
+|
+#{{Nobel abbr|Pe}} [[Martin Luther King, Jr.]]
+|
+#
+|
+#
+|
+#
+|-
+|colspan="5"|{{flagicon|USA}} [[Williams College]]
+|-
+|1
+|
+#{{Nobel abbr|Eko}} [[Robert F. Engle]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|NOR}} [[Norwegian School of Economics and Business Administration]]<ref>[http://nobelprize.org/nobel_prizes/economics/laureates/2004/kydland-autobio.html Finn E. Kydland - Autobiography<!-- Bot generated title -->]</ref>
+|-
+|1
+|
+#{{Nobel abbr|Eko}} [[Finn E. Kydland]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|UKR}} [[Universitas Nasional Tavrida V.I. Vernadsky]]<ref>[http://www.crimea.edu/tnu_eng/structure/physic_fac/index.htm ?h? Faculty of Physics of Tavrida National V.I. Vernadsky University]</ref>
+|-
+|1
+|
+|
+|
+#{{Nobel abbr|Kim}} [[Igor Tamm]]
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas Saint Louis]]
+|-valign="top"
+|1
+|
+|
+|
+#{{Nobel abbr|FK}} [[Edward Adelbert Doisy]]
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas Ohio]]
+|-valign="top"
+|1
+|
+#{{Nobel abbr|Kim}} [[Venkatraman Ramakrishnan]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|JPN}} [[Institut Teknologi Tokyo ]]
+|-valign="top"
+|1
+|
+#{{Nobel abbr|Kim}} [[Hideki Shirakawa]]
+|
+#
+|
+#
+|
+#
+|-
+|colspan="5"|{{flagicon|JPN}} [[Universitas Tohoku]]
+|-valign="top"
+|1
+|
+#{{Nobel abbr|Kim}} [[Koichi Tanaka]]
+|
+#
+|
+#
+|
+#
+|-
+|colspan="5"|{{flagicon|JPN}} [[Universitas Nagasaki]]
+|-valign="top"
+|1
+|
+#{{Nobel abbr|Kim}} [[Osamu Shimomura]]
+|
+#
+|
+#
+|
+#
+|-
+|colspan="5"|{{flagicon|JPN}} [[Universitas Hokkaido]]
+|-valign="top"
+|1
+|
+#{{Nobel abbr|Kim}} [[Akira Suzuki (kimiawan)|Akira Suzuki]]
+|
+#
+|
+#{{Nobel abbr|Kim}} [[Akira Suzuki (kimiawan)|Akira Suzuki]]
+|
+#
+|-
+|colspan="5"|{{flagicon|COL}} [[Universitas Nasional Colombia]]
+|-valign="top"
+|1
+|
+|
+#{{Nobel abbr|Sas}} [[Gabriel Garca Mrquez]]
+|
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas Albany|Universitas Negeri New York di Albany]]
+|-valign="top"
+|1
+|
+|
+|
+#{{Nobel abbr|Sas}} [[Toni Morrison]]
+|
+|-
+|colspan="5"|{{flagicon|CAN}}[[Universitas Alberta]]
+|-valign="top"
+|1
+|
+#{{Nobel abbr|Fis}} [[Richard E. Taylor]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|CAN}} [[Universit de Montral]]
+|-valign="top"
+|1
+|
+#{{Nobel abbr|FK}} [[Roger Guillemin]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|EGY}} [[Universitas Alexandria]]
+|-valign="top"
+|1
+|
+#{{Nobel abbr|Kim}} [[Ahmed Zewail]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|ITA}} [[Universitas Milan]]
+|-
+|1
+|
+#{{Nobel abbr|Fis}} [[Riccardo Giacconi]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas Hawaii di Manoa]]
+|-
+|1
+|
+|
+|
+|
+#{{Nobel abbr|FK}} [[Georg von Bksy]]
+|-
+|colspan="5"|{{flagicon|CRI}} [[Universidad de Costa Rica]]
+|-
+|1
+|
+|
+|
+#{{Nobel abbr|Pe}} [[scar Arias]]
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas Syracuse]]
+|-
+|1
+|
+|
+|
+#{{Nobel abbr|Kim}} [[Ei-ichi Negishi]]
+|
+|-
+|colspan="5"|{{flagicon|PER}} [[Universidad Nacional Mayor de San Marcos]]
+|-
+|1
+|
+#{{Nobel abbr|Sas}} [[Mario Vargas Llosa]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|LTU}} [[Universitas Vilnius]]
+|-
+|1
+|
+#{{Nobel abbr|Sas}} [[Czeslaw Milosz]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas WisconsinMilwaukee]]
+|-valign="top"
+|1
+|
+#{{Nobel abbr|Fis}} [[Jack Kilby]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|HRV}} [[Universitas Zagreb]]
+|-valign="top"
+|1
+|
+|
+|
+#{{Nobel abbr|Kim}} [[Vladimir Prelog]]
+|
+|-
+|colspan="5"|{{flagicon|PRC}} [[Universitas Zhejiang]]
+|-valign="top"
+|1
+|
+#{{Nobel abbr|Fis}} [[Tsung-Dao Lee]]
+|
+|
+|
+|-
+|-
+|colspan="5"|{{flagicon|RUS}} [[Universitas Southern Federal]]
+|-valign="top"
+|1
+|
+#{{Nobel abbr|Sas}} [[Aleksandr Solzhenitsyn]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas Ohio Wesleyan]]<ref>{{cite web | url = http://www.owu.edu | title = Ohio Wesleyan University| accessdate = 2008-01-31}}</ref>
+|-valign="top"
+|1
+|
+#{{Nobel abbr|Kim}} [[F. Sherwood Rowland]]
+|
+|
+|
+|-
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas Washington dan Lee]]<ref>{{cite web | url = http://www.wlu.edu | title = Washington and Lee University| accessdate = 2012-10-12}}</ref>
+|-valign="top"
+|1
+|
+#{{Nobel abbr|FK}} [[Joseph L. Goldstein]]
+|
+|
+|
+|-
+
+|colspan="5"|{{flagicon|AUT}} [[Universitas Innsbruck]]
+|-valign="top"
+|1
+|
+|
+|
+#{{Nobel abbr|Fis}} [[Victor Francis Hess]]
+|
+|-
+|colspan="5"|{{flagicon|CZE}} [[Universitas Teknik Ceko]]
+|-valign="top"
+|1
+|
+#{{Nobel abbr|Kim}} [[Vladimir Prelog]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|BEL}}[[Universit de Lige]]
+|-valign="top"
+|1
+|
+#{{Nobel abbr|FK}} [[Albert Claude]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|USA}} [[Universitas Cumberland]]
+|-valign="top"
+|1
+|
+#{{Nobel abbr|Pe}} [[Cordell Hull]]
+|
+|
+|
+|-
+|colspan="5"|{{flagicon|NED}}[[Erasmus Universiteit Rotterdam]]
+|-valign="top"
+|1
+|
+|
+|
+#{{Nobel abbr|Eko}} [[Jan Tinbergen]]
+|
+|-
+|-
+|}
+
+==Catatan==
+{{reflist|group=Catatan|refs=<ref name=Afiliasi>Untuk tujuan pemeringkatan, "afiliasi" ditetapkan menurut kemungkinan yang paling luas untuk menghindari perdebatan. Oleh karena itu , afiliasi adalah seorang pemenang Nobel yang dapat diklasifikasikan sebagai mahasiswa, alumni, peneliti atau anggota staf akademik di setiap universitas. Pemenang yang memenuhi syarat untuk beberapa kategori hanya dihitung sekali.</ref>
+<ref name=Alumnis>Setiap pemenang yang menerima gelar dari lembaga akademis.</ref>
+<ref name=attendeesresearch>Setiap pemenang yang pernah mengikuti setidaknya satu perkuliahan atau penelitian yang dilakukan di universitas tersebut, tetapi tidak menerima gelar akademik.</ref>
+<ref name=staff1>Setiap pemenang yang merupakan anggota staf akademik di lembaga yang bersangkutan sebelum atau saat menerima Nobel.</ref>
+<ref name=staff2>Setiap pemenang yang merupakan anggota staf akademik di lembaga yang bersangkutan setelah menerima Nobel.</ref>
+<ref name=repeat>Pemenang Nobel yang memiliki lebih dari satu afiliasi di lembaga ini, namun hanya dihitung sekali.</ref>
+<ref name=repeat2>Penerima Nobel yang mendapatkan dua Hadiah Nobel, namun hanya dihitung sekali karena ini adalah daftar pemenang, bukannya daftar penghargaan.</ref>
+}}
+
+==Lihat juga==
+*[[Daftar penerima Nobel menurut negara]]
+
+==Referensi==
+{{reflist|2}}
+
+==Pranala luar==
+* [http://nobelprize.org/nobel_prizes/lists/universities.html Nobel Laureates and Universities]
+
+{{DEFAULTSORT:Nobel Laureates By University Affiliation}}
+[[Category:Daftar tokoh menurut afiliasi universitas]]
+[[Category:Penghargaan Nobel|*]]
+
+{{DP}}

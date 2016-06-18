@@ -1,0 +1,24 @@
+Templat:Location map Rusia Khakassia
+{{#switch:{{{1}}}
+|name = Khakassia
+|top    = 55.6
+|bottom = 51.2
+|left   = 87.3
+|right  = 92.4
+| image  =Outline Map of Khakasia.svg
+}}<noinclude>{{Location map/Info|Russia}}
+[[Kategori:Templat peta navigasi Rusia|Khakassia]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+</noinclude>

@@ -1,0 +1,3 @@
+Templat:Footer-arsip
+----
+:''[[Berkas:Crystal Clear action lock.png|20px]]&nbsp;{{{1|Diskusi bagian ini telah ditutup.}}} <span style="color:red">{{{2|'''Harap tidak melakukan penyuntingan lagi di bagian ini.'''}}}</span> {{{3|Komentar harap dibuat di bagian yang baru.}}}</div><noinclude>[[Kategori:Templat Wikipedia|{{PAGENAME}}]]</noinclude>

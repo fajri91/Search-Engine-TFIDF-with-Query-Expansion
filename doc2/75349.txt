@@ -1,0 +1,23 @@
+Bandar Udara Internasional Del Bonita/Whetstone
+{{Kotakinfo bandara|nama=Bandara Internasional Del Bonita/Whetstone
+|IATA=BPN
+|ICAO=WALL
+|lokasi=[[Del Bonita]], [[Alberta]]
+|negara=[[Kanada]]
+|pengelola=Montana Aeronautics Division
+|tipe=Sipil
+|waktu=UTC-7
+|elevasi=1,321 [[meter|m]] (4,335 [[feet|f]])
+|koordinat={{coor dms|48|59|55|N|112|46|15|W|type:airport|br=Y}}
+{{landaspacu|sudut=07/25|panjang_f=4,363|panjang_m=1,330|permukaan=aspal}}
+}}
+
+'''Bandara Internasional Del Bonita/Whetstone''', {{airport codes|N/A|CEQ4}} terletak 2.0 mil (3.70 km) selatan [[Del Bonita]], [[Alberta]], [[Kanada]].
+
+== Referensi ==
+* {{CFS}}
+
+
+{{Canadian Airports}}
+
+[[Kategori:Bandar udara di Alberta|Del Bonita/Whetstone]]

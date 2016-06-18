@@ -1,0 +1,30 @@
+Templat:Pringsewu, Pringsewu
+{{Navigasi ID Desa 
+|provinsi=Lampung
+|dati2=Kabupaten 
+|nama dati2=Pringsewu
+|nama kecamatan=Pringsewu
+|d1= Fajaresuk
+|d2= Pringsewu Utara
+|d3= Pringsewu Selatan
+|d4= Pringsewu Barat
+|d5= Pringsewu Timur
+|d6= Margakaya
+|d7= Wahyojati
+|d8= Sungai Badak
+|d9= Nipah Kuning
+|d10= Sido Mulyo
+|d11= Tirtalaga
+|d12= Tanjung Seraya
+|d13= Sumber Makmur
+|d14= Mulyasari
+|d15= Sidoharjo
+|d16= Podomoro
+|d17= Bumi Arum
+|d18= Fajar Agung
+|d19= Rejo Sari
+|d20= Bumi Ayu
+}}<noinclude>
+[[Kategori:Templat desa/kelurahan di Lampung|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Pringsewu|{{PAGENAME}}]]
+</noinclude>

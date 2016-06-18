@@ -1,0 +1,37 @@
+Templat:Pemain Terbaik Tahunan Tottenham Hotspur F.C.
+{{Navbox
+|titlestyle =  background:#fff;border:1px solid #000000;color:#000000;
+|title = [[Tottenham Hotspur F.C.|<span style="color: black">Pemain Terbaik Tahunan Tottenham Hotspur F.C.</span>]]
+|listclass = hlist
+|name = Pemain Terbaik Tahunan Tottenham Hotspur F.C.
+|list1 = 
+* 1987: [[Gary Mabbutt|Mabbutt]]
+* 1988: [[Chris Waddle|Waddle]]
+* 1989: [[Erik Thorstvedt|Thorstvedt]]
+* 1990: [[Paul Gascoigne|Gascoigne]]
+* 1991: [[Paul Allen (footballer)|Allen]]
+* 1992: [[Gary Lineker|Lineker]]
+* 1993: [[Darren Anderton|Anderton]]
+* 1994: [[Jrgen Klinsmann|Klinsmann]]
+* 1995: [[Teddy Sheringham|Sheringham]]
+* 1996: [[Sol Campbell|Campbell]]
+* 1997: [[Sol Campbell|Campbell]]
+* 1998: [[David Ginola|Ginola]]
+* 1999: [[Stephen Carr|Carr]]
+* 2000: [[Stephen Carr|Carr]]
+* 2001: [[Neil Sullivan|Sullivan]]
+* 2002: [[Simon Davies (pemain sepak bola kelahiran 1979)|Davies]]
+* 2003: [[Robbie Keane|Keane]]
+* 2004: [[Jermain Defoe|Defoe]]
+* 200506: [[Dimitar Berbatov|Berbatov]]
+* 200607: [[Robbie Keane|Keane]]
+* 200708: [[Aaron Lennon|Lennon]]
+* 200809: [[Robbie Keane|Keane]]
+* 200910: [[Michael Dawson|Dawson]]
+* 201011: [[Luka Modri|Modri]]
+* 201112: [[Scott Parker|Parker]]
+* 201213: [[Gareth Bale|Bale]]
+* 201314: [[Christian Eriksen|Eriksen]]
+}}<noinclude>
+[[Kategori:Templat Tottenham Hotspur F.C.|Pemain terbaik]]
+</noinclude>

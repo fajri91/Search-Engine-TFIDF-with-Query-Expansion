@@ -1,0 +1,14 @@
+Templat:U.S. Senator box
+|- style="text-align: center;"
+{{s-bef
+| rows=1
+| before={{{before}}} }}
+{{s-ttl
+| rows=1
+| title=[[Daftar Senator Amerika Serikat dari {{{state}}} | Senator Amerika Serikat {{#if:{{{class|}}} | (Kelas {{{class}}}) |}} dari {{{state}}}]]
+| alongside={{{alongside|}}}
+| years={{#if:{{{start|}}}|{{{start}}} &ndash; present{{#if:{{{footnote_marker|}}}|{{{footnote_marker}}} }}|{{{years}}} }} }}
+{{#if:{{{after|}}}|{{s-aft|rows=1|after={{{after}}} }}|{{s-inc|rows=1}} }}<noinclude>
+{{pp-template|small=yes}}
+{{documentation}}
+</noinclude>

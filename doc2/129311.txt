@@ -1,0 +1,191 @@
+Kompetisi National Basketball Association musim 200708
+'''Kompetisi National Basketball Association musim 2007-2008''' merupakan musim liga NBA yang ke-62 [[National Basketball Association]] yang dimulai pada [[30 Oktober]] [[2007]] dan akan berakhir pada [[16 April]] [[2008]]. Seperti musim lalu (2006-2007), musim ini tetap beranggotakan 30 tim yang dibagi dalam dua wilayah, yaitu [[Eastern Conference (NBA)|Wilayah Timur]] dan [[Western Conference (NBA)|Wilayah Barat]]. 
+
+Acara [[NBA All-Star Game 2008|NBA All-Star Game]] akan dilangsungkan di kota [[New Orleans]], negara bagian [[Louisiana]] pada tanggal [[17 Februari]] [[2008]]. [[Playoff NBA 2008|NBA Playoffs]] akan dimulai pada [[19 April]] [[2008]] untuk menentukan siapa tim yang terbaik dari tiap wilayah (Barat dan Timur) untuk menuju [[Final National Basketball Association 2008|NBA Finals]] yang akan diselenggarakan pada pertengahan bulan Juni untuk menentukan siapa juara liga NBA.
+
+== Sistem kompetisi ==
+Setiap tim akan bermain sebanyak 82 kali dengan kepastiannya minimal bermain 2 kali bertanding melawan setiap tim dan akan bermain melebihi 2 kali untuk beberapa tim lawan untuk mencapai jumlah bermain sebanyak 82 kali. Babak '''Overtime''' (disingkat OT) masih digunakan untuk menentukan pemenang tim yang tiap bertanding jika dalam 4 kuarter/2 babak skor masih sama. Posisi klasemen diurutkan berdasarkan rekor menang-kalah tiap tim di divisi masing-masing yang berguna juga untuk menentukan tim yang lolos ke NBA Playoff. 
+
+== Klasemen NBA ==
+''Status [[19 April]] [[2008]]'' (klasemen akhir)
+
+'' W = Menang, L = Kalah, PCT = Winning Percentage, GB = Games behind''
+{| width="100%"
+|-
+|width="48%"|
+{| class="wikitable" cellpadding="3" border="1" width="100%"
+|- bgcolor="#aaccee"
+| colspan="6" align="center" | '''[[Eastern Conference (NBA)|Eastern Conference]]'''
+|- bgcolor="#ddeeff"
+| colspan="6" align="center" | '''[[Atlantic Division (NBA)|Atlantic Division]]'''
+|- align=center
+!#||align=left|Team||W||L||PCT||GB
+|- align=center
+|1||align=left|[[Boston Celtics]]||66||16||.805||0.0
+|- align=center
+|2||align=left|[[Toronto Raptors]]||41||41||.500||25.0
+|- align=center
+|3||align=left|[[Philadelphia 76ers]]||40||42||.488||26.0
+|- align=center
+|4||align=left|[[New Jersey Nets]]||34||48||.415||32.0
+|- align=center
+|5||align=left|[[New York Knicks]]||23||59||.280||43.0
+|- bgcolor="#ddeeff"
+| colspan="6" align="center" | '''[[Central Division (NBA)|Central Division]]'''
+|- align=center
+!#||align=left|Team||W||L||PCT||GB
+|- align=center
+|1||align=left|[[Detroit Pistons]]||59||23||.720||0.0
+|- align=center
+|2||align=left|[[Cleveland Cavaliers]]||45||37||.549||14.0
+|- align=center
+|3||align=left|[[Indiana Pacers]]||36||46||.439||23.0
+|- align=center
+|4||align=left|[[Chicago Bulls]]||33||49||.402||26.0
+|- align=center
+|5||align=left|[[Milwaukee Bucks]]||26||56||.317||33.0
+|- bgcolor="#ddeeff"
+| colspan="6" align="center" | '''[[Southeast Division (NBA)|Southeast Division]]'''
+|- align=center
+!#||align=left|Team||W||L||PCT||GB
+|- align=center
+|1||align=left|[[Orlando Magic]]||52||30||.634||0.0
+|- align=center
+|2||align=left|[[Washington Wizards]]||43||39||.524||9.0
+|- align=center
+|3||align=left|[[Atlanta Hawks]]||37||45||.451||15.0
+|- align=center
+|4||align=left|[[Charlotte Bobcats]]||32||50||.390||20.0
+|- align=center
+|5||align=left|[[Miami Heat]]||15||67||.183||37.0
+|}
+|width="4%"|
+|width="48%"|
+{| class="wikitable" cellpadding="3" border="1" width="100%"
+|- bgcolor="#aaccee"
+| colspan="6" align="center" | '''[[Western Conference (NBA)|Western Conference]]'''
+|- bgcolor="#ddeeff"
+| colspan="6" align="center" | '''[[Northwest Division (NBA)|Northwest Division]]'''
+|- align=center
+!#||align=left|Team||W||L||PCT||GB
+|- align=center
+|1||align=left|[[Utah Jazz]]||54||28||.659||0.0
+|- align=center
+|2||align=left|[[Denver Nuggets]]||50||32||.610||4.0
+|- align=center
+|3||align=left|[[Portland Trail Blazers]]||41||41||.500||13.0
+|- align=center
+|4||align=left|[[Minnesota Timberwolves]]||22||60||.268||32.0
+|- align=center
+|5||align=left|[[Seattle SuperSonics]]||60||22||.244||34.0
+|- bgcolor="#ddeeff"
+| colspan="6" align="center" | '''[[Pacific Division (NBA)|Pacific Division]]'''
+|- align=center
+!#||align=left|Team||W||L||PCT||GB
+|- align=center
+|1||align=left|[[Los Angeles Lakers]]||57||25||.695||0.0
+|- align=center
+|2||align=left|[[Phoenix Suns]]||55||27||.671||2.0
+|- align=center
+|3||align=left|[[Golden State Warriors]]||48||34||.585||9.0
+|- align=center
+|4||align=left|[[Sacramento Kings]]||38||44||.463||19.0
+|- align=center
+|5||align=left|[[Los Angeles Clippers]]||23||59||.280||34.0
+|- bgcolor="#ddeeff"
+| colspan="6" align="center" | '''[[Southwest Division (NBA)|Southwest Division]]'''
+|- align=center
+!#||align=left|Team||W||L||PCT||GB
+|- align=center
+|1||align=left|[[New Orleans Hornets]]||56||26||.683||0.0
+|- align=center
+|2||align=left|[[San Antonio Spurs]]||56||26||.683||1.0
+|- align=center
+|3||align=left|[[Houston Rockets]]||55||27||.671||1.0
+|- align=center
+|4||align=left|[[Dallas Mavericks]]||51||31||.622||5.0
+|- align=center
+|5||align=left|[[Memphis Grizzlies]]||22||60||.242||34.0
+|}
+|}
+
+== Pemimpin statistik ==
+* '''[[Point]]s per game:''' [[LeBron James]] - [[Cleveland Cavaliers]] (30,0)
+* '''[[Rebound]]s per game:''' [[Dwight Howard]] - [[Orlando Magic]] (14,2)
+* '''[[Assist]]s per game:''' [[Chris Paul]] - [[New Orleans/Oklahoma City Hornets|New Orleans Hornets]] (11,6)
+* '''[[Field Goal]] %:''' [[Andris Biedrins]] - [[Golden State Warriors]] (62,6%)
+* '''[[Free Throw]] %:''' [[Peja Stojakovic|Peja Stojakovi]] - [[New Orleans/Oklahoma City Hornets|New Orleans Hornets]] (92,9%)
+* '''[[Three Point Field Goal]] %:''' [[Jason Kapono]] - [[Toronto Raptors]] (48,3%)
+* '''[[Blok (basket)|Blocks]] per game:''' [[Marcus Camby]] - [[Denver Nuggets]] (3,61)
+* '''[[Steal]]s per game:''' [[Chris Paul]] - [[New Orleans Hornets]] (2,71)
+* '''[[Turnover]]s per game:''' [[Dwyane Wade]] - [[Miami Heat]] (4,4)
+
+== Penghargaan ==
+* '''Most Valuable Player''': {{negara|Amerika Serikat}} [[Kobe Bryant]], [[Los Angeles Lakers]]
+* '''Rookie of the Year''': {{negara|Amerika Serikat}} [[Kevin Durant]], [[Oklahoma City Thunder]]
+* '''Defensive Player of the Year''': {{negara|Amerika Serikat}} [[Kevin Garnett]], [[Boston Celtics]]
+* '''Sixth Man of the Year''': {{negara|Argentina}} [[Manu Ginobili|Manu Ginbili]], [[San Antonio Spurs]]
+* '''Most Improved Player''': {{negara|Turki}} [[Hidayet Trkolu|Hedo Trkolu]], [[Orlando Magic]]
+* '''Coach of the Year''': {{negara|Amerika Serikat}} [[Byron Scott]], [[New Orleans Hornets]]
+* '''Executive of the Year''': {{negara|Amerika Serikat}} [[Danny Ainge]], [[Boston Celtics]]
+* '''Sportmanship Award''': {{negara|Amerika Serikat}} [[Grant Hill]], [[Phoenix Suns]]
+
+* '''All-NBA First Team''':
+** F [[Kevin Garnett]] - [[Boston Celtics]]
+** F [[LeBron James]] - [[Cleveland Cavaliers]]
+** C [[Dwight Howard]] - [[Orlando Magic]]
+** G [[Kobe Bryant]] - [[Los Angeles Lakers]]
+** G [[Chris Paul]] - [[New Orleans Hornets]]<ref name="allnbateam">[http://www.nba.com/news/all_nba_080508.html MVP Kobe Bryant highlights All-NBA First team], nba.com, [[8 Mei]] [[2008]], diakses [[8 Mei]] [[2008]].</ref>
+
+* '''All-NBA Second Team''':
+** F [[Dirk Nowitzki]] - [[Dallas Mavericks]]
+** F [[Tim Duncan]] - [[San Antonio Spurs]]
+** C [[Amare Stoudemire]] - [[Phoenix Suns]]
+** G [[Steve Nash]] - [[Phoenix Suns]]
+** G [[Deron Williams]] - [[Utah Jazz]]<ref name="allnbateam"/>
+
+* '''All-NBA Third Team''':
+** F [[Carlos Boozer]] - [[Utah Jazz]]
+** F [[Paul Pierce]] - [[Boston Celtics]]
+** C [[Yao Ming]] - [[Houston Rockets]]
+** G [[Tracy McGrady]] - [[Houston Rockets]]
+** G [[Manu Ginobili|Manu Ginbili]] - [[San Antonio Spurs]]<ref name="allnbateam"/>
+
+* '''NBA All-Defensive First Team''':
+** F [[Kevin Garnett]] - [[Boston Celtics]]
+** F [[Tim Duncan]] - [[San Antonio Spurs]]
+** C [[Marcus Camby]] - [[Denver Nuggets]]
+** G [[Kobe Bryant]] - [[Los Angeles Lakers]]
+** G [[Bruce Bowen]] - [[San Antonio Spurs]]<ref name="nbadefensiveteam">[http://www.nba.com/news/defensive_team_080512.html Kobe, Garnett Headline All-Defensive Team], ''NBA'', [[12 Mei]] [[2008]], diakses [[12 Mei]] [[2008]].</ref>
+
+* '''NBA All-Defensive Second Team''':
+** F [[Tayshaun Prince]] - [[Detroit Pistons]]
+** F [[Shane Battier]] - [[Houston Rockets]]
+** C [[Dwight Howard]] - [[Orlando Magic]]
+** G [[Raja Bell]] - [[Phoenix Suns]]
+** G [[Chris Paul]] - [[New Orleans Hornets]]<ref name="nbadefensiveteam"/>
+
+* '''All-NBA Rookie First Team''':
+** [[Al Horford]] - [[Atlanta Hawks]]
+** [[Kevin Durant]] - [[Seattle SuperSonics]]
+** [[Luis Scola]] - [[Houston Rockets]]
+** [[Al Thornton]] - [[Los Angeles Clippers]]
+** [[Jeff Green]] - [[Seattle SuperSonics]]<ref name="nbarookieteam"/>
+
+* '''All-NBA Rookie Second Team''':
+** [[Jamario Moon]] - [[Toronto Raptors]]
+** [[Juan Carlos Navarro]] - [[Memphis Grizzlies]]
+** [[Thaddeus Young]] - [[Philadelphia 76ers]]
+** [[Rodney Stuckey]] - [[Detroit Pistons]]
+** [[Carl Landry]] - [[Houston Rockets]]<ref name="nbarookieteam">[http://www.nba.com/news/all_rookie_080513.html Durant, Horford Headline T-Mobile All-Rookie Team], ''NBA'', [[13 Mei]] [[2008]], diakses [[13 Mei]] [[2008]].</ref>
+
+== Referensi ==
+{{reflist}}
+
+== Pranala luar ==
+* {{en}} [http://www.nba.com/standings/team_record_comparison/conferenceNew_Std_Div.html Klasemen NBA]
+* {{en}} [http://www.nba.com/statistics Statistik NBA]
+
+[[Kategori:National Basketball Association]]
+[[Kategori:Amerika Serikat dalam tahun 2008]]
+[[Kategori:Olahraga dalam tahun 2008]]

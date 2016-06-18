@@ -1,0 +1,24 @@
+Sekolah Tinggi Sandi Negara
+('''STSN''') '''Sekolah Tinggi Sandi Negara''' adalah sebuah perguruan tinggi kedinasan di [[Indonesia]] yang diselenggarakan oleh [[Lembaga Sandi Negara]] Republik Indonesia. STSN merupakan satu-satunya pendidikan tinggi persandian di Indonesia. STSN didirikan untuk memenuhi kebutuhan peningkatan kualitas SDM aparatur bidang [[sandi|persandian]] yang mampu menjawab tantangan perkembangan teknologi informasi dan ancaman terhadap pengamanan informasi rahasia negara.
+
+== Sejarah ==
+STSN didirikan berdasarkan surat Mendiknas tanggal [[17 Januari]] [[2002]], dan dengan [[Keputusan Presiden]] Republik Indonesia Nomor 22 Tahun 2003 tanggal [[17 April]] [[2003]] tentang Pendirian Sekolah Tinggi Sandi Negara. Sekolah Tinggi Sandi Negara merupakan peningkatan status dari Akademi Sandi Negara (Aksara) atau Pendidikan Ahli Madya Sandi (PAMS).
+
+== Program Studi ==
+# Manajemenisasi Persandian
+# Teknik Persandian
+#* Teknik Kripto
+#* Teknik Rancang Bangun Peralatan Sandi
+
+== Sistem Pendidikan ==
+STSN menyelenggarakan pendidikan professional dalam bidang persandian dengan jenjang Diploma IV. Calon Mahasiswa berasal dari lulusan SLTA/MA jurusan IPA dan atau Peserta Tugas Belajar. Sistem seleksinya berupa tes bertahap yang menggunakan sistem gugur tiap tahapnya. STSN mewajibkan mahasiswanya tinggal di asrama selama mengikuti pendidikan dengan wajib mematuhi peraturan kehidupan mahasiswa dan peraturan urusan dinas dalam. Kegiatan pendidikan meliputi bidang akademik dan bidang pengasuhan yang diselenggarakan secara seimbang, berkesinambungan dan saling mendukung dengan berpedoman pada tujuan pendidikan. Pendidikan dilaksanakan dengan sistem paket dimana evaluasi pendidikan dilaksanakan setiap semester melalui Ujian Tengah Semester (UTS) dan Ujian Akhir Semester (UAS), dimana setiap semester digunakan sistem gugur.
+
+== Applied Cryptography Research Group ==
+''Applied Cryptography Research Group'' (disingkat ACRG) adalah sebuah kelompok penelitian yang bertujuan untuk menghasilkan produk-produk berdasarkan kriptografi. Kelompok ini didirikan di Sekolah Tinggi Sandi Negara, Ciseeng, Bogor pada Mei 2006. Sementara ini anggota kelompok terdiri atas beberapa dosen, mahasiswa dan karyawan Sekolah Tinggi Sandi Negara (STSN).
+
+ACRG telah mengadakan pertemuan untuk pertama kalinya dan menghasilkan kesimpulan untuk mengerjakan dua proyek, yaitu Implementasi Public Key Infrastructure dan Pengembangan Cryptography Embeded System.
+
+== Pranala luar ==
+* [http://www.stsn-nci.ac.id Situs resmi]
+
+[[Kategori:Perguruan tinggi kedinasan di Indonesia]]

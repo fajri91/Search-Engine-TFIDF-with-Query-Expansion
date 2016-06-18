@@ -1,0 +1,12 @@
+Kategori:Artikel biografi Desember 2011
+{{daritemplat|lifetime|lahirmati}}
+{{ArtikelBiografi}}
+{{Kategori pemeliharaan
+ | toc     = none
+ | type    = artikel biografi
+ | year    = 2011
+ | monthno = 12
+ | cat     = Artikel biografi
+ | hidden  = y
+ | message = 
+}}

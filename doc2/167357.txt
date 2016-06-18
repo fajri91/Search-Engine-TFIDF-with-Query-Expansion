@@ -1,0 +1,117 @@
+Wikipedia:Wikizine/Arsip/2008-99
+<noinclude>{{../../Kepala|judul='''Tahun 2008 Minggu 37 Nomor 99'''}} __NOTOC__</noinclude>
+{| style="border: 1px #aaa solid" width=90% align=center
+|- valign=top 
+| style="padding: 10px 20px 10px 10px; font-size: 95%" width="57%" |
+=== Berita teknis ===
+'''API'''
+:Brion telah menon-aktifkan antarmuka BotQuery yang kuno dan mengaktifkan kueri API MediaWiki yang dapat dibaca mesin.
+:* [http://thread.gmane.org/gmane.org.wikimedia.mediawiki.api/668 "Write API enabled on Wikimedia sites"] - pengumuman di milis wikitech-l
+:* [[mw:API|Dokumentasi MediaWiki API]]
+
+=== Wikimedia Foundation ===
+'''Lowongan pekerjaan'''
+:Wikimedia Foundation sedang membuka lowongan untuk posisi ''Chief Program Officer''.
+:* [[wikimedia:Job openings/Chief Program Officer|Lowongan di situs web WMF]]
+
+=== Komunitas ===
+'''AR wp'''
+:Sebuah kelompok kecil Wikipediawan Mesir mengadakan acara "Hari Wikipedia" untuk mencoba mendorong jumlah artikel di wiki mereka yang relatif kecil dibandingkan populasi pengguna bahasa Arab dan pengguna internet di Timur Tengah. Walaupun ada ketidakpuasan terhadap pen, namun dihasilkan sekitar 3500 artikel baru dan 10.000 suntingan di artikel lainnya dalam satu hari.
+:* [http://dailystaregypt.com/article.aspx?ArticleID=16154 "''Arabic Content in Wikipedia Very Weak, Users to Blame''"] di situs web Daily News Egypt
+
+'''ID wp'''
+:Komunitas Wikipedia bahasa Indonesia secara resmi bersama Departemen Komunikasi dan Informatika RI mengadakan sebuah acara mirip ''Wikipedia Academy'', sebuah seminar dan lokakarya mengenai "Menulis di Wikipedia" untuk umum dan organisasi. Acara ini berlangsung pada 8 Agustus 2008 di Jakarta, Indonesia, dalam rangkaian acara Indonesia ICT Award 2008.
+:* [http://www.inaicta.web.id/2008/07/22/menulis-di-wikipedia-untuk-umum/ Pengumuman di situs resmi Indonesia ICT Award 2008]
+:* [[Wikipedia:Lokakarya Wikipedia bahasa Indonesia-INAICTA 2008]] -- halaman di Wikipedia bahasa Indonesia
+
+'''Wikisource'''
+:Pernahkah Anda ingin tahu apa yang sebenarnya dilakukan para pengguna Wikisource? Berikut adalah beberapa hasil-hasil terbaru dari usaha komunitas Wikisource bahasa Inggris. Dua buku dipindai, dimuatkan ke wiki, lalu teksnya ditulis ulang dan dikoreksi. Anda yang mau, saat ini dapat membantu mengoreksi sebuah buku masakan.
+:* [http://en.wikisource.org/wiki/Index:Wind_in_the_Willows_(1913).djvu Wind in the Willows (1913)]
+:* [http://en.wikisource.org/wiki/Index:Equitation.djvu Equitation (1921)]
+:* [http://en.wikisource.org/wiki/Wikisource:Proofread_of_the_Month Koreksi Bulan Ini] (Wikisource bahasa Inggris)
+
+=== Penghargaan ===
+'''Quadriga'''
+:Wikipedia adalah salah satu penerima Quadriga, sebuah penghargaan di Jerman. Jimmy Wales akan berada di Berlin pada 3 Oktober 2008, sebuah hari libur nasional Jerman, untuk menerima penghargaan tersebut.
+* [[Quadriga (penghargaan)|Penghargaan Quadriga]] di Wikipedia bahasa Indonesia
+* [http://blog.wikimedia.org/2008/08/21/wikipedia-to-receive-german-national-honor-the-quadriga-award/ Blog WMF]
+
+=== Media ===
+'''Wiki Amazon'''
+:Salah satu kegunaan Wikipedia adalah untuk mencari informasi mengenai band musik. Amazon telah memulai sebuah situs web yang bersaing dengan Wikipedia untuk konten tersebut. Di soundunwound.com, pengguna dapat mencari informasi mengenai musik dan menyunting isinya. Tombol "edit" tersedia, tapi kita harus masuk log, dan semua suntingan harus disetujui oleh staf Amazon.
+:* [http://blog.wired.com/music/2008/09/amazon-takes-on.html "''Amazon Takes On Wikipedia With Editable Music Data''] di situs web Wired Blog Network
+:* [http://www.soundunwound.com/ Situs web SoundUnwound]
+
+'''Sarah Palin'''
+:Sebuah artikel baru tentang kandidat Wakil Presiden Amerika Serikat ini telah muncul di Wikipedia bahasa Inggris. Artikel ini ditulis beberapa jam oleh seorang pengguna baru sebelum nama Sarah Palin diumumkan kepada publik.
+:* [[wikinews:News agencies suggest that campaign operative for Republican Party edited article on vice presidential nominee|"''News agencies suggest that campaign operative for Republican Party edited article on vice presidential nominee''"]] - berita di Wikinews bahasa Inggris
+
+'''Kekuasaan'''
+:Sebuah mesin ''spider'' Google salah menginterpretasikan data di sebuah artikel lama yang ditemukannya dan mendaftarkannya sebagai berita baru di Google News. Akibatnya, nilai saham dari sebuah perusahaan penerbangan langsung merosot jatuh gara-gara artikel itu mengumumkan kebangkrutan perusahaan penerbangan tersebut.
+:Dalam kisah ini, memang tidak melibatkan proyek Wikimedia. Namun demikian, ini menunjukkan secara jelas bagaimana potensi suatu informasi yang salah dalam situs sumber informasi publik, seperti juga proyek-proyek Wikimedia.
+:* [http://searchengineland.com/080909-081840.php "''Google News Error Aids In United Airlines Stock Drop''"] di situs web Search Engine Land
+<!--
+'''Swedia'''
+:Baru-baru ini, mantan perusahaan telepon negara Swedia (dan masih perusahaan telepon terbesar Swedia) meluncurkan iklan komersial internet selular mereka. Iklannya seperti ini: tiga orang duduk di sebuah bak mandi panas di udara terbuka dari kayu oak. Salah satunya memberitahu dua lainnya mengenai bagaimana raja terdahulu menanam pohon oak di Swedia. Kawannya berkata: "Wah, kau tahu banyak." Yang satunya lagi keluar dari air, pergi beberapa saat, kembali lagi dan menjelaskan secara komprehensif mengenai oak, termasuk nama Latinnya, sementara dua lainnya semakin lama semakin terkagum-kagum. Lalu muncul sebuah papan tanda yang bertuliskan: "''Wikipedia in your mobile phone''".
+:* [http://media.resume.se/resPlayer.aspx?type=1&id=1250 Tampilan media iklan tersebut]
+
+'''Pekerjaan Rumah'''
+:Murid-murid dinilai akan keahlian Wikipedia mereka.
+:* [http://www.ubyssey.ca/?p=3668 "''Brief: Students graded on Wikipedia prowess''"] di situs web The Ubyssey
+-->
+| style="padding: 10px 10px 10px 20px; border-left: 1px #aaa dotted; font-size: 95%" |
+=== Statistik ===
+'''Golden Wikipedia'''
+:Seberapa kuatnya Wikipedia?
+:* [http://www.sitepoint.com/blogs/2008/09/04/just-how-powerful-is-wikipedia/ "''Just How Powerful Is Wikipedia?''"] di situs blog SitePoint
+
+'''EN wp'''
+:Wikipedia bahasa Inggris telah mencapai 2.500.000 artikel. Artikel ke-2.500.000 kemungkinan adalah [[:en:Joe Connor|Joe Connor]].
+
+'''Survei kecil'''
+:Ketika ditanyakan ke 200 mahasiswa; "90% mahasiswa menggunakan Wikipedia untuk menyelesaikan tugas mereka, 73% mahasiswa telah dengan tegas diberitahu oleh dosen mereka agar tidak menggunakan Wikipedia."
+:* [http://www.powerset.com/blog/articles/2008/09/03/survey-college-students-love-wikipedia-profs-not-so-happy "''Survey: College students love Wikipedia (profs not so happy)''"] di situs Powerset Blog
+
+=== Berita lain ===
+'''Putusan pengadilan'''
+:Pengadilan banding Amerika Serikat memutuskan bahwa Wikipedia tidak terlalu akurat. Ya, serius, ini adalah kisah nyata.
+:Kasusnya adalah ketika "''Department of Homeland Security''" (''Big Brother USA''), sebuah departemen pemerintahan Amerika Serikat untuk keamanan dalam negeri, menggunakan informasi dari Wikipedia dalam memutuskan penolakan permohonan seorang pengungsi yang memohon perlindungan di Amerika Serikat.
+:* [http://www.theinquirer.net/gb/inquirer/news/2008/09/03/court-rules-wikipedia "''Court rules Wikipedia not authoritative''"] di situs web The Inquirer
+:* [http://uncyclopedia.org/wiki/UnNews:Main_Page UnNews] - sebuah parodi [[:en:Wikinews|Wikinews]]
+:* [[:en:Wikipedia:General disclaimer|Penyangkalan umum Wikipedia]] - sudut pandang mengenai status Wikipedia sebagai sumber
+
+'''Wiki Medis'''
+:Sebuah wiki baru sedang disiapkan untuk diluncurkan pada akhir 2008 untuk menyediakan informasi medis. Ini merupakan proyek kerja sama dengan beberapa universitas. Mereka yang memiliki gelar sarjana kedokteran dapat mengajukan diri sebagai editor. Yang tidak, hanya dapat memberikan saran perubahan. Konten akan dirilis di bawah lisensi dokumentasi bebas GNU.
+:* [http://www.medpedia.com Situs web Medpedia Project]
+
+'''Arsip Google News'''
+:Google sedang mengerjakan proyek mendigitalisasikan besar-besaran arsip berita cetakan kuno. Hasilnya akan memungkinkan pencarian di artikel-artikel yang berasal dari lebih dari seabad yang lalu. Bagi kita, hal ini akan sangat berguna untuk memperbaiki beberapa kebutuhan "[rujukan?]". Saat ini sudah tersedia opsi untuk mencari berita lama. Beberapa hasil merujuk kepada artikel yang tidak gratis diakses untuk arsip di luar Google.
+:* [http://news.cnet.com/8301-1023_3-10035172-93.html "''Google raising newspaper morgues from the dead''"] di situs web cnet news
+:* [http://news.google.com/archivesearch Pencarian arsip berita Google]
+
+'''GNU'''
+:Jika Anda adalah pengguna Wikipedia atau proyek Wikimedia lainnya, Anda pasti pernah mendengar tentang GNU. Konten di proyek-proyek Wikimedia hampir semuanya dirilis di bawah lisensi GNU/FDL. Situs web MediaWiki menggunakan lisensi ini. Seluruh server Wikimedia juga menggunakan sistem operasi GNU Linux. Demikian pula proyek-proyek Wikimedia mempertahankan filosofi GNU untuk keterbukaan informasi.
+:Dan sekarang adalah ulang tahun ke-25 GNU.
+:* [http://www.gnu.org/fry/happy-birthday-to-gnu.html "''Freedom Fry  Happy birthday to GNU''" di situs web GNU Operating System]
+
+=== Kutipan ===
+"'''''There are many ways to commit career suicide. Wiki is just a new one.'''''" <br /><small>(Ada banyak cara untuk membunuh karier kita. Wiki adalah salah satu yang terbaru.)</small>
+:  Eric Johnson, Wikimania 2008
+:* [http://www.kaltura.com/devwiki/index.php/Diplopedia_Wiki_Culture_in_the_U.S._Department_of_State "''Diplopedia Wiki Culture in the U.S. Department of State''"] di Kaltura.com
+
+|}
+{| width="90%" align="center" style="font-size:95%"
+|- valign="top"
+| style="padding: 10px 5px 0 0" width="40%" |
+* Editor: Walter
+<!--* Korektor: -->
+* Terima kasih kepada: Effeietsanders, Tawker, REX
+* Kontak: http://report.wikizine.org
+* Situs web: http://www.wikizine.org
+* Wikizine Indonesia: REX
+* Sumber: Wikizine 2008-99
+| style="padding: 10px 0 0 5px" |
+Wikizine tidak menjamin akurasi, validitas, dan khususnya tapi tidak terbatas kepada, tatabahasa dan ejaan. Kepuasan tidak dijamin. Wikizine dipublikasikan oleh [[meta:user:Walter]], dan bukan publikasi Wikimedia Foundation.
+
+Wikizine adalah publikasi tidak regular sepanjang tersedia berita yang penting (dan waktu). Konten tersedia di bawah [[Wikipedia:Lisensi Dokumentasi Bebas GNU|Lisensi Dokumentasi Bebas GNU]]. http://www.gnu.org/copyleft/fdl.html
+|}

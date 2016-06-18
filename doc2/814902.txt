@@ -1,0 +1,162 @@
+Deret reaktivitas
+Dalam pengenalan[[Kimia|ilmu kimia]], '''deret reaktivitas'''atau'''deret aktivitas''' adalah suatu deret empiris, hasil perhitungan, dan suatu analisis struktural sederet[[logam]], menurut "reaktivitas"nya dari tinggi ke rendah.<ref><cite class="citation" id="CITEREFFrance2008" contenteditable="false">France, Colin (2008), [http://www.gcsescience.com/r1-reactivity-series-metals.htm ''The Reactivity Series of Metals'']</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&rfr_id=info%3Asid%2Fen.wikipedia.org%3AReactivity+series&rft.aufirst=Colin&rft.aulast=France&rft.btitle=The+Reactivity+Series+of+Metals&rft.date=2008&rft.genre=book&rft_id=http%3A%2F%2Fwww.gcsescience.com%2Fr1-reactivity-series-metals.htm&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" contenteditable="false">&nbsp;</span></ref><ref><cite class="citation" id="CITEREFBriggs2005" contenteditable="false">Briggs, J. G. R. (2005), ''Science in Focus, Chemistry for GCE 'O' Level'', Pearson Education, p.&nbsp;172</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&rfr_id=info%3Asid%2Fen.wikipedia.org%3AReactivity+series&rft.aufirst=J.+G.+R.&rft.aulast=Briggs&rft.btitle=Science+in+Focus%2C+Chemistry+for+GCE+%27O%27+Level&rft.date=2005&rft.genre=book&rft.pages=172&rft.pub=Pearson+Education&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" contenteditable="false">&nbsp;</span></ref><ref><cite class="citation" id="CITEREFLim_Eng_Wah2005" contenteditable="false">Lim Eng Wah (2005), ''Longman Pocket Study Guide 'O' Level Science-Chemistry'', Pearson Education, p.&nbsp;190</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&rfr_id=info%3Asid%2Fen.wikipedia.org%3AReactivity+series&rft.au=Lim+Eng+Wah&rft.btitle=Longman+Pocket+Study+Guide+%27O%27+Level+Science-Chemistry&rft.date=2005&rft.genre=book&rft.pages=190&rft.pub=Pearson+Education&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" contenteditable="false">&nbsp;</span></ref>Ini digunakan untuk merangkum informasi tentang reaksi logam dengan[[asam]]dan [[air]], [[Reaksi metatesis garam|reaksi pengusiran berganda]]dan ekstraksi[[logam]]dari[[bijih]]nya.
+
+== Tabel ==
+{| class="wikitable" style="margin-bottom: 10px;"
+
+! Logam
+! Ion 
+! Reaktivitas
+! Extraction
+|-
+| bgcolor="#FA8072" |[[Sesium]]&nbsp;Cs
+| bgcolor="#FA8072" | Cs<sup>+</sup>
+| align="center" bgcolor="#FA8072" rowspan="10" |bereaksi dengan [[Sifat-sifat air|air]] dingin
+| align="center" bgcolor="#FA8072" rowspan="13" | [[elektrolisis]]
+|-
+| bgcolor="#FA8072" | [[Fransium]]&nbsp;Fr
+| bgcolor="#FA8072" | Fr<sup>+</sup>
+|-
+| bgcolor="#FA8072" | [[Rubidium]]&nbsp;Rb
+| bgcolor="#FA8072" | Rb<sup>+</sup>
+|-
+| bgcolor="#FA8072" |[[Kalium]]&nbsp;K
+| bgcolor="#FA8072" | K<sup>+</sup>
+|-
+| bgcolor="#FA8072" |[[Natrium]]&nbsp;Na
+| bgcolor="#FA8072" | Na<sup>+</sup>
+|-
+| bgcolor="#FA8072" | [[Litium]]&nbsp;Li
+| bgcolor="#FA8072" | Li<sup>+</sup>
+|-
+| bgcolor="#FA8072" | [[Barium]]&nbsp;Ba
+| bgcolor="#FA8072" | Ba<sup>2+</sup>
+|-
+| bgcolor="#FA8072" | [[Radium]]&nbsp;Ra
+| bgcolor="#FA8072" | Ra<sup>2+</sup>
+|-
+| bgcolor="#FA8072" | [[Stronsium]]&nbsp;Sr
+| bgcolor="#FA8072" | Sr<sup>2+</sup>
+|-
+| bgcolor="#FA8072" |[[Kalsium]]&nbsp;Ca
+| bgcolor="#FA8072" | Ca<sup>2+</sup>
+|-
+| bgcolor="orange" | [[Magnesium]]&nbsp;Mg
+| bgcolor="orange" | Mg<sup>2+</sup>
+| align="center" bgcolor="orange" rowspan="1" | bereaksi sangat lambat dengan air dingin, tetapi sangat hebat dengan[[asam]]
+|-
+| bgcolor="yellow" | [[Berilium]]&nbsp;Be
+| bgcolor="yellow" | Be<sup>2+</sup>
+| align="center" bgcolor="yellow" rowspan="2" | bereaksi dengan asam
+|-
+| bgcolor="yellow" | [[Aluminium]]&nbsp;Al
+| bgcolor="yellow" | Al<sup>3+</sup>
+|-
+| bgcolor="orange" | [[Titanium]]&nbsp;Ti
+| bgcolor="orange" | Ti<sup>4+</sup>
+| align="center" bgcolor="orange" rowspan="1" | bereaksi dengan[[asam mineral]]pekat
+| align="center" bgcolor="orange" rowspan="1" |ekstraksi [[pirometalurgi]] menggunakan [[magnesium]], atau<br>
+[[logam alkali]]lainnya, [[Hidrogen|hydrogen]] atau[[kalsium]] dalam [[proses Kroll]]
+|-
+| bgcolor="yellow" | [[Mangan]]&nbsp;Mn
+| bgcolor="yellow" | Mn<sup>2+</sup>
+| align="center" bgcolor="yellow" rowspan="9" | bereaksi dengan[[asam]]
+| align="center" bgcolor="yellow" rowspan="2" |[[Peleburan (metalurgi)|melebur]]dengan [[Coke (bahan bakar)|karbon]]
+|-
+| bgcolor="yellow" |[[Seng]]&nbsp;Zn
+| bgcolor="yellow" | Zn<sup>2+</sup>
+|-
+| bgcolor="yellow" |[[Kromium]]&nbsp;Cr
+| bgcolor="yellow" | Cr<sup>3+</sup> 
+| align="center" bgcolor="orange" rowspan="1" | reaksi aluminotermal
+|-
+| bgcolor="yellow" |[[Besi]]&nbsp;Fe
+| bgcolor="yellow" | Fe<sup>2+</sup>
+| align="center" bgcolor="yellow" rowspan="6" |[[Peleburan (metalurgi)|melebur]] dengan [[Coke (bahan bakar)|karbon]]
+|-
+| bgcolor="yellow" |[[Kadmium]]&nbsp;Cd
+| bgcolor="yellow" | Cd<sup>2+</sup>
+|-
+| bgcolor="yellow" |[[Kobalt]]&nbsp;Co
+| bgcolor="yellow" | Co<sup>2+</sup>
+|-
+| bgcolor="yellow" | [[Nikel]]&nbsp;Ni
+| bgcolor="yellow" | Ni<sup>2+</sup>
+|-
+| bgcolor="yellow" | [[Timah]]&nbsp;Sn
+| bgcolor="yellow" | Sn<sup>2+</sup>
+|-
+| bgcolor="yellow" |[[Timbal]]&nbsp;Pb
+| bgcolor="yellow" | Pb<sup>2+</sup>
+|-
+| bgcolor="#cdcdcd" | [[Antimon]]&nbsp;Sb
+| bgcolor="#cdcdcd" | Sb<sup>3+</sup>
+| align="center" bgcolor="#cdcdcd" rowspan="8" | dapat bereaksi dengan beberapa [[asam oksidator]]
+| align="center" bgcolor="#cdcdcd" rowspan="8" | panas atau ekstraksi fisik
+|-
+| bgcolor="#cdcdcd" | [[Bismut]]&nbsp;Bi
+| bgcolor="#cdcdcd" | Bi<sup>3+</sup>
+|-
+| bgcolor="#cdcdcd" |[[Tembaga]]&nbsp;Cu
+| bgcolor="#cdcdcd" | Cu<sup>2+</sup>
+|-
+| bgcolor="cdcdcd" |[[Wolfram]]&nbsp;W
+| bgcolor="#cdcdcd" | W<sup>3+</sup>
+|-
+| bgcolor="#cdcdcd" |[[Raksa]]&nbsp;Hg
+| bgcolor="#cdcdcd" | Hg<sup>2+</sup>
+|-
+| bgcolor="#cdcdcd" |[[Perak]]&nbsp;Ag
+| bgcolor="#cdcdcd" | Ag<sup>+</sup>
+|- 
+| bgcolor="#cdcdcd" |[[Emas]]&nbsp;Au
+| bgcolor="#cdcdcd" | Au<sup>3+</sup>
+|- 
+| bgcolor="#cdcdcd" | [[Platina]]&nbsp;Pt
+| bgcolor="#cdcdcd" | Pt<sup>4+</sup><ref>http://www.cod.edu/people/faculty/jarman/richenda/1551_hons_materials/Activity%20series.htm</ref>
+|}
+Dari bawah ke atas, logam mengalami:
+* peningkatan reaktivitas;
+* lebih mudah kehilangan elektron untuk membentuk ion positif;
+* lebih cepat mengalami korosi atau karat;
+* memerlukan lebih banyak energi (dan metode yang berbeda) untuk memisahkan dari bijihnya;
+* semekin kuat sifat [[Redoks|reduktornya]] (donor[[elektron]]).
+
+== Mendefinisikan reaksi ==
+Tidak ada cara yang unik dan konsisten untuk mendefinisikan deret reaktivitas, tetapi sudah menjadi hal yang umum untuk menggunakan tiga macam reaksi di bawah, sebagian besar dapat dilakukan di laboratorium SMA (minimal demonstrasi).
+
+=== Reaksi dengan air dan asam ===
+Logam yang paling reaktif, seperti [[natrium]], akan bereaksi dengan air dingin menghasilkan[[hidrogen]] dan[[hidroksida]]logam:
+: 2 Na (s) + 2 H<sub>2</sub>O (l) 2 NaOH (aq) + H<sub>2</sub> (g)
+Logam di bagian tengah deret reaktivitas, seperti [[besi]], akan bereaksi dengan asam seperti[[asam sulfat]] (tetapi tidak dengan air pada temperatur normal) menghasilkan hidrogen dan [[Garam (kimia)|garam]] logam, seperto[[besi(II) sulfat]]:
+: Fe (s) + H<sub>2</sub>SO<sub>4</sub> (l)  FeSO<sub>4</sub> (aq) + H<sub>2</sub> (g)
+Terdapat beberapa ambiguitas pada batas antar kelompok. [[Magnesium]], [[aluminium]]dan seng ''dapat'' bereaksidengan air, tetapi reaksi biasanya sangat lambat kecuali sampel logam dipersiapkan secara khusus untuk menghilangkan lapisan oksida di permukaannya yang menutupi logam selebihnya. [[Tembaga]] dan [[perak]]bereaksi dengan [[asam nitrat]]; tetapi karena asam nitrat adalah suatu [[asam oksidator]], oksidatornya bukanlah ion H<sup>+</sup> sebagaimana asam normal, tetapi ion NO<sub>3</sub><sup></sup>.
+
+=== Reaksi pengusiran tunggal ===
+Sebuah paku besi yang diletakkan dalam larutan [[tembaga sulfat]]akan segera berubah warna karena deposit logam tembaga dan besi diubah menjadi [[besi(II) sulfat]]:
+: Fe (s) + CuSO<sub>4</sub> (aq)  Cu (s) + FeSO<sub>4</sub> (aq)
+Secara umum, suatu logam dapat menggantikan logam yang lebih rendah dalam deret reaktivitas: logam yang lebih tinggi[[Redoks|mereduksi]] ion-ion logam yang lebih rendah. Ini digunakan dalam reaksi termit ({{en}}: ''thermite reaction'')untuk preparasi besi metalik jumlah kecil, dan dalam [[proses Kroll]]untuk preparasi [[titanium]](Ti berada pada tingkat yang sama dengan Al dalam deret reaktivitas). Sebagai contoh, aluminium akan mereduksi [[besi(III) oksida]]menjadi besi, dan berubah menjadi[[aluminium oksida]]pada proses:
+: Al (s) + Fe<sub>2</sub>O<sub>3</sub> (s)  Fe (s) + Al<sub>2</sub>O<sub>3</sub> (s)
+Dengan cara yang sama, [[magnesium]] dapat digunakan untuk mengekstraksi[[titanium]] dari [[titanium tetraklorida]], membentuk [[magnesium klorida]]melalui proses:
+: 2 Mg (s) + TiCl<sub>4</sub> (l)  Ti (s) + 2 MgCl<sub>2</sub> (s)
+Namun, faktor lain dapat mempengaruhi, seperti persiapan [[kalium]] metalikmelalui reduksi [[kalium klorida]]dengan natrium pada 850&nbsp;C. Meskipun natrium lebih rendah daripada kalium dalam deret reaktivitas, reaksi dapat berlangsung karena kalium lebih volatil, dan didistilasi dari campuran.
+: Na (g) + KCl (l)  K (g) + NaCl (l)
+
+== Perbandingan dengan potensial elektrode standar ==
+Deret reaktivitas kadang ditulis terbalik menurut potensial elektrode standar, yang dikenal juga sebagai "deret elektrokimia":
+: Li > K > Sr > Ca > Na > Mg > Al > Mn > Zn > Cr(III) > Fe > Cd > Co > Ni > Sn > Pb > H > Cu > Ag > Hg > Pd > Ir > Pt > Au
+Posisi[[litium]] dan[[natrium]] berubah dalam deret ini; emas dan platina juga dibalik, meskipun pembalikan ini praktis kurang signifikan karena kedua logam ini sangat tidak reaktif.
+
+Potensial elektrode standar lebih menawarkan suatu pengukuran kuantitatif daya suatu pereduksi, daripada pemikiran kualitatif deret reaktivitas lainnya. Namun, ini hanya berlaku pada kondisi''standar'': terutama, hanya berlaku untuk reaksi dalam larutan air. Meskipun dengan syarat ini, potensial elektrode litium dan natrium  dan juga posisi mereka dalam deret elektrokimia  menunjukkan anomali. Urutan reaktivitas, seperti ditunjukkan oleh reaksi hebat dengan air atau laju perkaratan logam di udara, adalah
+: kalium > natrium > litium > logam alkali tanah,
+sama seperti urutan terbalik [[energi ionisasi]](fasa gas). Ini dibuktikan dengan ekstraksi logam litium dengan elektrolisis campuran[[Sistem eutektik|eutektik]][[litium klorida]]dan [[kalium klorida]]: ternyata logam litium yang terbentuk di katoda, bukan kalium.<ref name="G&E">{{cite book||last1=Greenwood|first1=Norman N.
+|authorlink1=Norman Greenwood|last2=Earnshaw|first2= Alan 
+|year=1984|title = Chemistry of the Elements|url=http://books.google.co.nz/books?id=OezvAAAAMAAJ&q=0-08-022057-6&dq=0-08-022057-6&source=bl&ots=m4tIRxdwSk&sig=XQTTjw5EN9n5z62JB3d0vaUEn0Y&hl=en&sa=X&ei=UoAWUN7-EM6ziQfyxIDoCQ&ved=0CD8Q6AEwBA|location = Oxford|publisher = [[Pergamon Press]]|isbn = 0-08-022057-6|pages = 82-87}}</ref>
+
+== Referensi ==
+{{Reflist}}
+
+== Pranala luar ==
+* [http://web.archive.org/web/20040508085524/http://www.sciencenet.org.uk/database/chem/industrial/c00109b.html Science Line Chemistry]
+
+[[Kategori:Kimia anorganik]]

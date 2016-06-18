@@ -1,0 +1,100 @@
+Host ID
+adalah IP Address yang dapat digunakan untuk client/user
+{{kembangkan}}
+{{rapikan|topik=teknologi informasi}}
+Host ID adalah [[byte]] setelah byte-byte dari Network ID pada sebuah alamat network, yang menunjukkan host itu sendiri. 
+
+=== Karateristik ==
+=== Untuk IP address Kelas A ===
+[[IP address]] kelas A terdiri dari 8 bit untuk network ID dan sisanya 24 bit digunakan untuk host ID, sehingga IP address kelas A digunakan untuk jaringan dengan jumlah host sangat besar. Pada bit pertama berikan angka 0 sampai dengan 127.
+
+'''Karakteristik IP Kelas A'''
+
+Format : 0NNNNNNN.HHHHHHHH.HHHHHHHH.HHHHHHHH
+
+Bit Pertama : 0
+
+NetworkID :8 bit
+
+HostID :24 bit
+
+Bit Pertama : 0 -127
+
+Jumlah : 126 (untuk 0 dan 127 dicadangkan)
+
+Range IP : 1.x.x.x  126.x.x.x
+
+Jumlah IP : 16.777.214
+
+Misalnya IP address 120.31.45.18 maka
+
+Network ID = 120
+
+HostID = 31.45.18
+
+Jadi IP di atas mempunyai <nowiki>[[host]]</nowiki> dengan nomor 31.45.18 pada jaringan 120
+
+=== Untuk IP address Kelas B ===
+IP address kelas B terdiri dari 16 bit untuk network ID dan sisanya 16 bit digunakan untuk host ID, sehingga IP address kelas B digunakan untuk jaringan dengan jumlah host tidak terlalu besar. Pada 2 bit pertama berikasan angka 10 sehingga bit awal IP tersebut mulai dari 128  191.
+
+'''Karakteristik IP Kelas B'''
+
+Format : 10NNNNNN.NNNNNNNN.HHHHHHHH.HHHHHHHH
+
+Bit Pertama : 10
+
+NetworkID : 16 bit
+
+HostID : 16 bit
+
+Bit Pertama : 128 -191
+
+Jumlah Network : 16.320
+
+Range IP : 128.1.x.x  191.255.x.x
+
+Jumlah IP : 65.532
+
+Misalnya IP address 150.70.45.18 maka
+
+Network ID = 150.70
+
+HostID = 45.18
+
+Jadi IP di atas mempunyai host dengan nomor 45.18 pada jaringan 150.70
+
+=== Untuk IP address Kelas C ===
+IP address kelas C terdiri dari 24 bit untuk network ID dan sisanya 8 bit digunakan untuk host ID, sehingga IP address kelas C digunakan untuk jaringan untuk ukuran kecil. Kelas C biasanya digunakan untuk jaringan Local Area Network atau LAN. Pada 3 bit pertama berikan angka 110 sehingga bit awal IP tersebut mulai dari 192  223.
+
+'''Karakteristik IP Kelas C'''
+
+Format : 110NNNNN.NNNNNNNN.NNNNNNNN.HHHHHHHH
+
+Bit Pertama : 110
+
+NetworkID : 24 bit
+
+HostID : 8 bit
+
+
+Bit Pertama : 192 - 223
+
+Jumlah Netwok : 2.080.800
+
+Range IP : 192.0.0.x.x  223.255.255.x.x
+
+Jumlah IP : 254 IP
+
+Misalnya IP address 192.168.1.1 maka
+
+Network ID = 192.168.1
+
+HostID = 1
+
+Jadi IP di atas mempunyai host dengan nomor 1 pada jaringan 192.168.1
+
+Kelas IP address lainnya adalah D dan E, namum kelas IP D dan E tersebut tidak digunakan untuk alokasi IP secara normal namum digunakan untuk IP multicasting dan untuk experimental.
+
+{{jaringan komputer-stub}}
+
+[[Kategori:Jaringan Komputer]]

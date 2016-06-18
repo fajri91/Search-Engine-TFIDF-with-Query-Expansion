@@ -1,0 +1,12 @@
+Templat:User de-3
+{{Babel-box
+| level         = 3
+| id            = [[Bahasa Jerman|de]]
+| info          = Dieser Benutzer hat '''[[:Kategori:User de-3|sehr gute]]''' '''[[:Kategori:User de|Deutschkenntnisse]]'''.
+| userkategori  = User de
+| userkategori2 = User de-3
+}}<noinclude>
+{{Babel-bar|de}}
+[[Kategori:Templat Babel|de-3]]
+
+</noinclude>

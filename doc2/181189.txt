@@ -1,0 +1,9 @@
+Templat:Convert/perkm2
+{{convert/{{{d}}}|{{{1}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|s={{{s|}}}|r={{{r}}}
+|u=/[[kilometer persegi|km]]
+|n=/[[kilometer persegi|km]]
+|h=/[[kilometer persegi|km]]
+|t=/[[kilometer persegi|km]]
+|o=persqmi
+|b=1000000
+|j=6-{{{j|0}}}}}<noinclude>[[Kategori:Templat konversi]]</noinclude>

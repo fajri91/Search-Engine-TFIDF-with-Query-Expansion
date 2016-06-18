@@ -1,0 +1,90 @@
+Templat:Infobox Military Person
+{{Infobox
+|child          = {{lc:{{{embed}}}}}
+
+|bodyclass      = vcard
+|bodystyle      = {{WPMILHIST Infobox style|main_box_raw}}
+
+|title          = {{#ifeq:{{lc:{{{embed}}}}}|yes|Karier militer}}
+
+|abovestyle     = {{WPMILHIST Infobox style|header_color}} font-size: 100%
+
+|above          = {{#ifeq:{{lc:{{{embed}}}}}|yes||{{#if:{{{honorific prefix|{{{honorific_prefix|}}}}}}|<span class="honorific-prefix" style="font-size: small">{{{honorific prefix|{{{honorific_prefix|}}}}}}</span><br />}}<includeonly><span class="fn">{{{name|{{PAGENAME}}}}}</span></includeonly>{{#if:{{{honorific suffix|{{{honorific_suffix|}}}}}}|<br /><span class="honorific-suffix" style="font-size: small">{{{honorific suffix|{{{honorific_suffix|}}}}}}</span>}} }}
+
+|imagestyle     = border-bottom: {{WPMILHIST Infobox style|section_border}}; line-height: 1.5em
+|image          = {{#if:{{Hide if placeholder image|{{{image|}}}}}|{{#ifeq:{{Str left |{{{image|}}} |1 }}|[|{{{image|}}}|[[File:{{{image}}}|{{px|{{{image_size|}}}|frameless}}|alt={{{alt|}}}]]}}}}
+
+|captionstyle   = font-size: 90%
+|caption        = {{{caption|}}}
+
+|labelstyle     = padding-right: 1em
+
+|label1         = Nama asli
+|data1          = {{#if:{{{native_name|}}}|<span class="nickname" {{#if:{{{native_name_lang|}}}|lang="{{{native_name_lang}}}" xml:lang="{{{native_name_lang}}}"}}>{{{native_name}}}</span> }}
+
+|label2         = Nama lahir
+|data2          = {{{birth_name|}}}
+|class2         = nickname
+
+|label3         = Julukan
+|data3          = {{{nickname|}}}
+|class3         = nickname
+
+|label4         = Lahir
+|data4          = {{br separated entries |{{{birth_date|}}} |{{{birth_place|}}} }}
+
+|label5         = Meninggal
+|data5          = {{br separated entries |{{{death_date|}}} |{{{death_place|}}} }}
+
+|label6         = {{#if:{{{placeofburial_label|}}}|{{{placeofburial_label}}}|Dimakamkan}}
+|data6          = {{#if:{{{placeofburial|}}}{{{placeofburial_coordinates|}}}|<span class="label">{{{placeofburial|}}}</span> {{#if:{{{placeofburial_coordinates|}}}|({{{placeofburial_coordinates}}})}}}}
+
+|label7         = Pengabdian
+|data7          = {{{allegiance|}}}
+
+|label8         = Dinas/cabang
+|data8          = {{{branch|}}}
+
+|label9         = Lama&nbsp;dinas
+|data9          = {{{serviceyears|}}}
+
+|label10         = Pangkat
+|data10          = {{{rank|}}}
+
+|label11        = [[Nomor dinas]]
+|data11         = {{{servicenumber|}}}
+
+|label12        = Kesatuan
+|data12         = {{{unit|}}}
+
+|label13        = Komando
+|data13         = {{{commands|}}}
+
+|label14        = {{#if:{{{battles_label|}}}|{{{battles_label|}}}|Perang}}
+|data14         = {{{battles|}}}
+
+|label15        = Penghargaan
+|data15         = {{{awards|}}}
+
+|label16        = Istri/suami
+|data16         = {{{spouse|}}}
+
+|label17        = Anak
+|data17         = {{{children|}}}
+
+|label18        = Relasi
+|data18         = {{{relations|}}}
+
+|label19        = Pekerjaan&nbsp;lain
+|data19         = {{{laterwork|}}}
+
+|label20        = Tanda tangan
+|data20         = {{#if:{{{signature|}}}|[[File:{{{signature}}}|{{px|{{{signature_size|}}}|100px}}|alt={{{signature alt|{{{signature_alt|}}}}}}]]}}
+
+|label21        = {{#if:{{{website|{{{homepage|{{{URL|}}}}}}}}}|Website}}
+|data21         = {{{website|{{{homepage|{{{URL|}}}}}}}}}
+
+}}<noinclude>{{documentation}}</noinclude><includeonly>
+[[Kategori:Semua artikel biografi|{{PAGENAME}}]]<!-- diurutkan berdasarkan PAGENAME -->
+[[Kategori:Artikel biografi {{#time: F |{{REVISIONTIMESTAMP}} }} {{#time: Y |{{REVISIONTIMESTAMP}} }}|{{PAGENAME}}]]
+</includeonly>

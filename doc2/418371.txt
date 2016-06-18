@@ -1,0 +1,398 @@
+Grand Prix F1 Hongaria 1989
+{{Infobox Grand Prix race report
+|Type          = F1
+|Grand Prix    = Hongaria
+|Country       = Hongaria
+|Official name = V Pop 84 [[Hungarian Grand Prix|Magyar Nagydj]]
+|Date          = 13 Agustus
+|Year          = 1989
+|Race_No       = 10
+|Season_No     = 16
+|Image         = Circuit Hungaroring1999.png
+|Location      = [[Hungaroring]]<br>[[Budapest]], [[Hungary]]
+|Course        = Permanent racing facility
+|Course_mi     = 2.465
+|Course_km     = 3.968
+|Distance_laps = 77
+|Distance_mi   = 189.850
+|Distance_km   = 305.536
+|Weather       = Hot dry, sunny
+|Pole_Driver   = [[Riccardo Patrese]]
+|Pole_Country  = Italy
+|Pole_Team     = [[WilliamsF1|Williams]]-[[Renault F1|Renault]]
+|Pole_Time     = 1:19.726
+|Fast_Driver   = [[Nigel Mansell]]
+|Fast_Country  = UK
+|Fast_Team     = [[Scuderia Ferrari|Ferrari]]
+|Fast_Time     = 1:22.637
+|Fast_Lap      = 66
+|First_Driver  = [[Nigel Mansell]]
+|First_Country = UK
+|First_Team    = [[Scuderia Ferrari|Ferrari]]
+|Second_Driver = [[Ayrton Senna]]
+|Second_Country= Brazil
+|Second_Team   = [[McLaren]]-[[Honda F1|Honda]]
+|Third_Driver  = [[Thierry Boutsen]]
+|Third_Country = Belgium
+|Third_Team    = [[WilliamsF1|Williams]]-[[Renault F1|Renault]]
+}}
+'''Grand Prix Hongaria 1989''' merupakan balapan F1 yang diselenggarakan di [[Hungaroring]] pada tanggal 13 Agustus dan dimenangi oleh [[Nigel Mansell]] dari [[Scuderia Ferrari]].
+
+==Hasil lomba==
+{| class="wikitable" style="font-size: 95%;"
+|- 
+{{F1-judul2}}
+|-
+! 1
+| 27
+| {{flagicon|UK}} '''[[Nigel Mansell]]'''
+| '''[[Scuderia Ferrari|Ferrari]]'''
+| 77
+| 1:49:38.650
+| 12
+| '''9'''
+|-
+! 2
+| 1
+| {{flagicon|Brazil}} '''[[Ayrton Senna]]'''
+| '''[[Team McLaren|McLaren]]-[[Honda F1|Honda]]'''
+| 77
+| + 25.967
+| 2
+| '''6'''
+|-
+! 3
+| 5
+| {{flagicon|Belgium}} '''[[Thierry Boutsen]]'''
+| '''[[WilliamsF1|Williams]]-[[Renault F1|Renault]]'''
+| 77
+| + 38.354
+| 4
+| '''4'''
+|-
+! 4
+| 2
+| {{flagicon|France}} '''[[Alain Prost]]'''
+| '''[[Team McLaren|McLaren]]-[[Honda F1|Honda]]'''
+| 77
+| + 44.177
+| 5
+| '''3'''
+|-
+! 5
+| 10
+| {{flagicon|USA}} '''[[Eddie Cheever]]'''
+| '''[[Arrows]]-[[Ford Motor Company|Ford]]'''
+| 77
+| + 45.106
+| 16
+| '''2'''
+|-
+! 6
+| 11
+| {{flagicon|Brazil}} '''[[Nelson Piquet]]'''
+| '''[[Team Lotus|Lotus]]-[[Judd (engine)|Judd]]'''
+| 77
+| + 1:12.039
+| 17
+| '''1'''
+|-
+! 7
+| 21
+| {{flagicon|Italy}} [[Alex Caffi]]
+| [[Dallara]]-[[Ford Motor Company|Ford]]
+| 77
+| + 1:24.225
+| 3
+| &nbsp;
+|-
+! 8
+| 20
+| {{flagicon|Italy}} [[Emanuele Pirro]]
+| [[Benetton Formula|Benetton]]-[[Ford Motor Company|Ford]]
+| 76
+| + 1 Lap
+| 25
+| &nbsp;
+|-
+! 9
+| 4
+| {{flagicon|France}} [[Jean Alesi]]
+| [[Tyrrell Racing|Tyrrell]]-[[Ford Motor Company|Ford]]
+| 76
+| + 1 Lap
+| 11
+| &nbsp;
+|-
+! 10
+| 9
+| {{flagicon|UK}} [[Derek Warwick]]
+| [[Arrows]]-[[Ford Motor Company|Ford]]
+| 76
+| + 1 Lap
+| 9
+| &nbsp;
+|-
+! 11
+| 8
+| {{flagicon|Italy}} [[Stefano Modena]]
+| [[Brabham]]-[[Judd (engine)|Judd]]
+| 76
+| + 1 Lap
+| 8
+| &nbsp;
+|-
+! 12
+| 7
+| {{flagicon|UK}} [[Martin Brundle]]
+| [[Brabham]]-[[Judd (engine)|Judd]]
+| 75
+| + 2 Lap
+| 15
+| &nbsp;
+|-
+! 13
+| 3
+| {{flagicon|UK}} [[Jonathan Palmer]]
+| [[Tyrrell Racing|Tyrrell]]-[[Ford Motor Company|Ford]]
+| 73
+| + 4 Lap
+| 19
+| &nbsp;
+|-
+! Ret
+| 24
+| {{flagicon|Spain}} [[Luis Perez-Sala]]
+| [[Minardi]]-[[Ford Motor Company|Ford]]
+| 57
+| Kecelakaan
+| 23
+| &nbsp;
+|-
+! Ret
+| 28
+| {{flagicon|Austria}} [[Gerhard Berger]]
+| [[Scuderia Ferrari|Ferrari]]
+| 56
+| Girboks
+| 6
+| &nbsp;
+|-
+! Ret
+| 6
+| {{flagicon|Italy}} [[Riccardo Patrese]]
+| [[WilliamsF1|Williams]]-[[Renault F1|Renault]]
+| 54
+| Radiator
+| 1
+| &nbsp;
+|-
+! Ret
+| 36
+| {{flagicon|Sweden}} [[Stefan Johansson]]
+| [[Onyx (racing team)|Onyx]]-[[Ford Motor Company|Ford]]
+| 48
+| Girboks
+| 24
+| &nbsp;
+|-
+! Ret
+| 19
+| {{flagicon|Italy}} [[Alessandro Nannini]]
+| [[Benetton Formula|Benetton]]-[[Ford Motor Company|Ford]]
+| 46
+| Girboks
+| 7
+| &nbsp;
+|-
+! Ret
+| 37
+| {{flagicon|Belgium}} [[Bertrand Gachot]]
+| [[Onyx (racing team)|Onyx]]-[[Ford Motor Company|Ford]]
+| 38
+| Girboks
+| 21
+| &nbsp;
+|-
+! Ret
+| 12
+| {{flagicon|Japan}} [[Satoru Nakajima]]
+| [[Team Lotus|Lotus]]-[[Judd (engine)|Judd]]
+| 33
+| Kecelakaan
+| 20
+| &nbsp;
+|-
+! Ret
+| 15
+| {{flagicon|Brazil}} [[Maurcio Gugelmin]]
+| [[March Engineering|March]]-[[Judd (engine)|Judd]]
+| 27
+| Elektrik
+| 13
+| &nbsp;
+|-
+! Ret
+| 16
+| {{flagicon|Italy}} [[Ivan Capelli]]
+| [[March Engineering|March]]-[[Judd (engine)|Judd]]
+| 26
+| Roda
+| 14
+| &nbsp;
+|-
+! Ret
+| 29
+| {{flagicon|Italy}} [[Michele Alboreto]]
+| [[Lola Cars|Lola]]-[[Lamborghini]]
+| 26
+| Mesin
+| 26
+| &nbsp;
+|-
+! Ret
+| 18
+| {{flagicon|Italy}} [[Piercarlo Ghinzani]]
+| [[Osella]]-[[Ford Motor Company|Ford]]
+| 20
+| Elektrik
+| 22
+| &nbsp;
+|-
+! Ret
+| 23
+| {{flagicon|Italy}} [[Pierluigi Martini]]
+| [[Minardi]]-[[Ford Motor Company|Ford]]
+| 9
+| Roda
+| 10
+| &nbsp;
+|-
+! Ret
+| 22
+| {{flagicon|Italy}} [[Andrea de Cesaris]]
+| [[Dallara]]-[[Ford Motor Company|Ford]]
+| 0
+| Kopling
+| 18
+| &nbsp;
+|-
+! DNQ
+| 25
+| {{flagicon|France}} [[Ren Arnoux]]
+| [[Equipe Ligier|Ligier]]-[[Ford Motor Company|Ford]]
+| &nbsp;
+|
+|
+| &nbsp;
+|-
+! DNQ
+| 26
+| {{flagicon|France}} [[Olivier Grouillard]]
+| [[Equipe Ligier|Ligier]]-[[Ford Motor Company|Ford]]
+| &nbsp;
+|
+|
+| &nbsp;
+|-
+! DNQ
+| 38
+| {{flagicon|Germany}} [[Christian Danner]]
+| [[Rial Racing|Rial]]-[[Ford Motor Company|Ford]]
+| &nbsp;
+|
+|
+| &nbsp;
+|-
+! DNQ
+| 39
+| {{flagicon|Germany}} [[Volker Weidler]]
+| [[Rial Racing|Rial]]-[[Ford Motor Company|Ford]]
+| &nbsp;
+|
+|
+| &nbsp;
+|-
+! DNPQ
+| 17
+| {{flagicon|Italy}} [[Nicola Larini]]
+| [[Osella]]-[[Ford Motor Company|Ford]]
+| &nbsp;
+|
+|
+| &nbsp;
+|-
+! DNPQ
+| 30
+| {{flagicon|France}} [[Philippe Alliot]]
+| [[Lola Cars|Lola]]-[[Lamborghini]]
+| &nbsp;
+|
+|
+| &nbsp;
+|-
+! DNPQ
+| 41
+| {{flagicon|France}} [[Yannick Dalmas]]
+| [[Automobiles Gonfaronnaises Sportives|AGS]]-[[Ford Motor Company|Ford]]
+| &nbsp;
+|
+|
+| &nbsp;
+|-
+! DNPQ
+| 34
+| {{flagicon|Germany}} [[Bernd Schneider (racecar driver)|Bernd Schneider]]
+| [[Zakspeed]]-[[Yamaha Motor Corporation|Yamaha]]
+| &nbsp;
+|
+|
+| &nbsp;
+|-
+! DNPQ
+| 40
+| {{flagicon|Italy}} [[Gabriele Tarquini]]
+| [[Automobiles Gonfaronnaises Sportives|AGS]]-[[Ford Motor Company|Ford]]
+| &nbsp;
+|
+|
+| &nbsp;
+|-
+! DNPQ
+| 31
+| {{flagicon|Brazil}} [[Roberto Moreno]]
+| [[Enzo Coloni Racing Car Systems|Coloni]]-[[Ford Motor Company|Ford]]
+| &nbsp;
+|
+|
+| &nbsp;
+|-
+! DNPQ
+| 33
+| {{flagicon|Switzerland}} [[Gregor Foitek]]
+| [[Euro Brun]]-[[Judd (engine)|Judd]]
+| &nbsp;
+|
+|
+| &nbsp;
+|-
+! DNPQ
+| 35
+| {{flagicon|Japan}} [[Aguri Suzuki]]
+| [[Zakspeed]]-[[Yamaha Motor Corporation|Yamaha]]
+| &nbsp;
+|
+|
+| &nbsp;
+|-
+! DNPQ
+| 32
+| {{flagicon|France}} [[Pierre-Henri Raphanel]]
+| [[Enzo Coloni Racing Car Systems|Coloni]]-[[Ford Motor Company|Ford]]
+| &nbsp;
+|
+|
+| &nbsp;
+|}
+[[Kategori:Grand Prix Hongaria|1989]]
+[[Kategori:Grand Prix F1 musim 1989|Hongaria]]

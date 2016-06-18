@@ -1,0 +1,118 @@
+Bulu tangkis pada Pesta Olahraga Asia Tenggara 2011  Tim putri
+Ini adalah hasil dari '''tim putri''' di kompetisi '''[[bulu tangkis]]''' pada '''[[Pesta Olahraga Asia Tenggara 2011]]''' di [[Jakarta]].
+
+== Peraih medali ==
+{| class="wikitable"
+|-
+|{{Bd|Thailand}}
+|-
+|{{Bd|Indonesia}}
+|-
+|{{Bd|Malaysia}} & {{Bd|Singapura}}
+|}
+
+== Draw ==
+<ref>{{cite web|first=SEAG 2011|title=Start/Result Lists - Badminton|url=http://apps.seag2011.com/rs2011/bm/cm/Schedule_type_2.aspx?sid=2&sname=Badminton&scode=bm&fid=2&gtype=K}}</ref> 
+{{Round8
+<!--Date-Place/Team 1/Score 1/Team 2/Score 2 -->
+<!--play-offs  -->
+<!--quarter finals  -->
+||{{Bd|Thailand}} | |Bye |
+||{{Bd|Singapore}} |'''3'''|{{Bd|Myanmar}} |0
+||{{Bd|Philippines}} |0 |{{Bd|Malaysia}} |'''3'''
+||{{Bd|Indonesia}} |'''3''' |{{Bd|Vietnam}} |0
+<!--semi finals  -->
+||{{Bd|Thailand}} |'''3''' |{{Bd|Singapore}} |0
+||{{Bd|Malaysia}} |1 |{{Bd|Indonesia}} |'''3'''
+<!--final  -->
+||{{Bd|Thailand}} | 3 |{{Bd|Indonesia}} | 1
+}}
+
+== Perempat final ==
+{{Badmintonbox
+|team1= Singapura
+|team2= Myanmar
+|venue=Komplek Olahraga Senayan
+|date=12-11-2011 <br /> 09:00<ref>[http://apps.seag2011.com/rs2011/bm/bm/result_tm_ko.aspx?eid=201&mid=140&sname=Badminton]</ref>
+|score1=3
+|score2=0
+|R1={{ BadmintonMatch |T1P1=[[Gu Juan]] |21 |21 | |T2P1=[[Khin Gone Yi Linn]] |7 |7 | }}
+|R2={{ BadmintonMatch |T1P1=[[Fu Mingtian]] |21 |21 | |T2P1=[[Khaing Zar Lin]] |12 |10 | }}
+|R3={{ BadmintonMatch |T1P1=[[Vanessa Neo Yu Yan]] |T1P2=[[Chen Jiayuan]] |21 |21 | |T2P1=[[Nay Zar Hlaing]] |T2P2=[[Htoo Htoo Ya]]  |9 |2 | }}
+|R4=
+|R5=
+}}
+{{Badmintonbox
+|team1=Filipina
+|team2=Malaysia
+|venue=Komplek Olahraga Senayan
+|date=12-11-2011 <br /> 14:00<ref>[http://apps.seag2011.com/rs2011/bm/bm/result_tm_ko.aspx?eid=201&mid=144&sname=Badminton]</ref>
+|score1=0
+|score2=3
+|R1={{ BadmintonMatch |T1P1=[[Malvinne Ann Venice]] |14 |15 | |T2P1=[[Tee Jing Yi]] |21 |21}}
+|R2={{ BadmintonMatch |T1P1=[[Gelita Castilo]] |8 |10 | |T2P1=[[Lydia Cheah Li Ya]] |21 |21}}
+|R3={{ BadmintonMatch |T1P1=[[Bianca Carlos]] |21 |16 |12 |T2P1=[[Sonia Cheah Su Ya]] |15 |21 |21 }}
+|R4=
+|R5=
+}}
+{{Badmintonbox
+|team1=Vietnam
+|team2=Indonesia
+|venue=Komplek Olahraga Senayan
+|date=12-11-2011 <br /> 14:00<ref>[http://apps.seag2011.com/rs2011/bm/bm/result_tm_ko.aspx?eid=201&mid=145&sname=Badminton]</ref>
+|score1=0
+|score2=3
+|R1={{ BadmintonMatch |T1P1=[[Vu Thi Trang]] |16 |12 | |T2P1=[[Lindaweni Fanetri]] |21 |21}}
+|R2={{ BadmintonMatch |T1P1=[[Thai Thi Hong Gam]] |T1P2=[[Nguyen Phuon Phung]] |9 |8 | |T2P1=[[Nitya Krishinda Maheswari]] |T2P2=[[Anneke Feinya Agustine]]  |21 |21 | }}
+|R3={{ BadmintonMatch |T1P1=[[Le Thu Huyen]] |11 |11 | |T2P1=[[Adriyanti Firdasari]] |21 |21}}
+|R4=
+|R5=
+}}
+
+== Semifinal ==
+{{Badmintonbox
+|team1=Thailand
+|team2=Singapura
+|venue=Komplek Olahraga Senayan
+|date=13-11-2011 <br /> 09:00<ref name=Bracket>{{cite web|first=SEAG 2011|title=Badminton|url=http://apps.seag2011.com/rs2011/bm/BM/Manual/MenTeam.pdf}}</ref>
+|score1=3
+|score2=0
+|R1={{ BadmintonMatch |T1P1=[[Porntip Buranapras]] |13 |21 |21 |T2P1=[[Gu Juan]] |21 |13 |10}}
+|R2={{ BadmintonMatch |T1P1=[[Duanganong Aroonke]] |T1P2=[[Kunchala Voravichi]] |21 |19 |24 |T2P1=[[Yao Lei]] |T2P2=[[Shinta Mulia Sari]] |19 |21 |22}}
+|R3={{ BadmintonMatch |T1P1=[[Ratchanok Inthanon]] |21 |9 |21 |T2P1=[[Fu Mingtian]] |19 |21 |16}}
+|R4=
+|R5=
+}}
+{{Badmintonbox
+|team1=Malaysia
+|team2=Indonesia
+|venue=Komplek Olahraga Senayan
+|date=13-11-2011 <br /> 09:00<ref name="Bracket"/>
+|score1=1
+|score2=3
+|R1={{ BadmintonMatch |T1P1=[[Tee Jing Yi]] |21 |13 |15 |T2P1=[[Lindaweni Fanetri]] |18 |21 |21}}
+|R2={{ BadmintonMatch |T1P1=[[Vivian Hoo]] |T1P2=[[Woon Khe Wei]] |21 |21 |28 |T2P1=[[Vita Marisa]] |T2P2=[[Nadya Melati]] |19 |23 |26}}
+|R3={{ BadmintonMatch |T1P1=[[Lydia Cheah]] |21 |13 |14 |T2P1=[[Adriyanti Firdasari]] |7 |21 |21}}
+|R4={{ BadmintonMatch |T1P1=[[Marylen Ng]] |T1P2=[[Lim Yin Loo]] |9 |16 | |T2P1=[[Nitya Krishinda Maheswari]] |T2P2=[[Anneke Feinya Agustine]] |21 |21 | }}
+|R5=
+}}
+
+== Final ==
+{{Badmintonbox
+|team1=Thailand
+|team2=Indonesia
+|venue=Komplek Olahraga Senayan
+|date=15-11-2011 <br /> 15:00<ref name="Bracket"/>
+|score1=3
+|score2=1
+|R1={{ BadmintonMatch |T1P1=[[Porntip Buranaprasertsuk]] |17 |21 |21 |T2P1=[[Lindaweni Fanetri]] |21 |11 |16 }}
+|R2={{ BadmintonMatch |T1P1=[[Kunchala Voravitchicaikul]] |T1P2=[[Duanganong Aroonkesorn]] |20 |9 | |T2P1=[[Nitya Krishinda Maheswari]] |T2P2=[[Anneke Feinya Augustine]] |22 |21 |}}
+|R3={{ BadmintonMatch |T1P1=[[Ratchanok Inthanon]] |21 |19 |21 |T2P1=[[Adriyanti Firdasari]] |12 |21 |19}}
+|R4={{ BadmintonMatch |T1P1=[[Savitree Amitapai]] |T1P2=[[Saralee Thungthongkam]] |19 |21 |24 |T2P1=[[Lilyana Natsir]] |T2P2=[[Vita Marisa]] |21 |15 |22 }}
+|R5=
+}}
+
+== Referensi ==
+{{reflist}}
+
+[[Kategori:Pesta Olahraga Asia Tenggara 2011]]

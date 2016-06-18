@@ -1,0 +1,35 @@
+Gonatium petrunkewitschi
+{{Taxobox
+|name = Gonatium petrunkewitschi
+|status = 
+|image = 
+|image_caption = 
+|domain = 
+|regnum = [[Animalia]]
+|phylum = [[Arthropoda]]
+|classis = [[Arachnida]]
+|ordo = [[Araneae]]
+|familia = [[Linyphiidae]]
+|genus =Gonatium
+|species = Gonatium petrunkewitschi
+|binomial = Gonatium petrunkewitschi
+|binomial_authority =Caporiacco, 1949
+|range_map = 
+|range_map_caption = 
+|image2 = 
+|image2_caption = 
+|synonyms = 
+}}
+'''''Gonatium petrunkewitschi''''' adalah spesies [[laba-laba]] yang tergolong [[familia]] [[Linyphiidae]]. Spesies ini juga merupakan bagian dari ordo [[Araneae]]. Nama ilmiah dari spesies ini pertama kali diterbitkan pada tahun 1949 oleh Caporiacco.
+
+Laba-laba ini biasanya banyak ditemui di Kenya.
+
+== Referensi ==
+
+* Platnick, Norman I. (2010): [http://research.amnh.org/entomology/spiders/catalog/LINYPHIIDAE.html The world spider catalog], version 10.5. ''American Museum of Natural History''.
+
+{{DEFAULTSORT:Gonatium petrunkewitschi}}
+
+[[Kategori:Linyphiidae]]
+
+{{labalaba-stub}}

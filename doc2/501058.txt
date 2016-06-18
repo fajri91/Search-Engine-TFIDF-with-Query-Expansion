@@ -1,0 +1,55 @@
+Templat:KPD2014  B2 Afrika Grup H
+{|
+|-
+|{{KepalaKlasemenTemplat|KPD2014  B2 Afrika Grup H|expanded={{{expanded|}}}}}
+|-bgcolor=#ccffcc
+|style="text-align:left;"|{{fb|Aljazair}}
+|5{{#if:{{{expanded|}}}|{{!!}}4{{!!}}0{{!!}}1{{!!}}12{{!!}}4{{!!}}+8}}||'''12'''
+|-bgcolor=#ffcccc 
+|style="text-align:left;"|{{fb|Mali}}
+|5{{#if:{{{expanded|}}}|{{!!}}2{{!!}}2{{!!}}1{{!!}}7{{!!}}6{{!!}}+1}}||'''8'''
+|-bgcolor=#ffcccc 
+|style="text-align:left;"|{{fb|Benin}}
+|5{{#if:{{{expanded|}}}|{{!!}}1{{!!}}2{{!!}}2{{!!}}6{{!!}}9{{!!}}&minus;3}}||'''5'''
+|-bgcolor=#ffcccc 
+|style="text-align:left;"|{{fb|Rwanda}}
+|5{{#if:{{{expanded|}}}|{{!!}}0{{!!}}2{{!!}}3{{!!}}3{{!!}}9{{!!}}&minus;6}}||'''2'''
+|}
+|<!-- Hasil Pertandingan -->
+{{#if:{{{fixtures|}}}|
+{{{!}}class="wikitable" style="text-align:center; font-size:90%;"
+{{!}}-
+!width=180{{!}}&nbsp;
+!{{flagicon|Aljazair}}
+!{{flagicon|Benin}}
+!{{flagicon|Mali}}
+!{{flagicon|Rwanda}}
+{{!}}-
+{{!}}style="text-align:right;"{{!}}{{fb-rt|Aljazair}}
+{{!}}&mdash;
+{{!}}[[Kualifikasi Piala Dunia FIFA 2014  Babak Kedua Zona Afrika#Aljazair v Benin|31]]
+{{!}}[[Kualifikasi Piala Dunia FIFA 2014  Babak Kedua Zona Afrika#Aljazair v Mali|<small>10&nbsp;Sep</small>]]
+{{!}}[[Kualifikasi Piala Dunia FIFA 2014  Babak Kedua Zona Afrika#Aljazair v Rwanda|40]]
+{{!}}-
+{{!}}style="text-align:right;"{{!}}{{fb-rt|Benin}}
+{{!}}[[Kualifikasi Piala Dunia FIFA 2014  Babak Kedua Zona Afrika#Benin v Aljazair|13]]
+{{!}}&mdash;
+{{!}}[[Kualifikasi Piala Dunia FIFA 2014  Babak Kedua Zona Afrika#Benin v Mali|10]]
+{{!}}[[Kualifikasi Piala Dunia FIFA 2014  Babak Kedua Zona Afrika#Benin v Rwanda|<small>8&nbsp;Sep</small>]]
+{{!}}-
+{{!}}style="text-align:right;"{{!}}{{fb-rt|Mali}}
+{{!}}[[Kualifikasi Piala Dunia FIFA 2014  Babak Kedua Zona Afrika#Mali v Aljazair|21]]
+{{!}}[[Kualifikasi Piala Dunia FIFA 2014  Babak Kedua Zona Afrika#Mali v Benin|22]]
+{{!}}&mdash;
+{{!}}[[Kualifikasi Piala Dunia FIFA 2014  Babak Kedua Zona Afrika#Mali v Rwanda|11]]
+{{!}}-
+{{!}}style="text-align:right;"{{!}}{{fb-rt|Rwanda}}
+{{!}}[[Kualifikasi Piala Dunia FIFA 2014  Babak Kedua Zona Afrika#Rwanda v Aljazair|01]]
+{{!}}[[Kualifikasi Piala Dunia FIFA 2014  Babak Kedua Zona Afrika#Rwanda v Benin|11]]
+{{!}}[[Kualifikasi Piala Dunia FIFA 2014  Babak Kedua Zona Afrika#Rwanda v Mali|12]]
+{{!}}&mdash;
+{{!}}}
+}}
+|}
+{{#if:{{{tiebreakers|}}}|
+}}<noinclude>[[Kategori:Templat Kualifikasi Piala Dunia 2014|Afrika Babak 2 Grup H]]</noinclude>

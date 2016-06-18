@@ -1,0 +1,13 @@
+MediaWiki:Editnotice-0/Daftar stasiun radio di Indonesia
+{{info|scheme=red|style=2|pesan=<big>'''Perhatian sebelum menyunting'''</big>
+*Dipersilakan menambahkan stasiun radio yang belum tercantum
+*Dipersilakan merapikan/memperbaiki tampilan artikel
+*Dipersilakan memecah artikel
+*'''Dilarang''' memberikan WikiLink ke artikel yang tidak eksis
+*'''Dilarang''' cetak tebal nama radio
+*'''Dilarang''' mencantumkan informasi '''alamat situs web''', alamat kantor, alamat [[surel]], slogan, atau informasi apapun selain nama radio dan gelombangnya serta daerahnya.
+
+Baca terlebih dahulu
+*[[Wikipedia bukanlah]] tempat beriklan.
+*[[Wikipedia bukanlah]] tempat mengumpulkan daftar pranala luar komprehensif.
+}}

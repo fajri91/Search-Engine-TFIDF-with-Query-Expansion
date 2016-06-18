@@ -1,0 +1,24 @@
+Pelatuk ayam
+{{Taxobox
+| name = Pelatuk ayam
+| status = LC
+| image = WhiteBelliedWoodpecker.JPG
+| image_width = 225px
+| regnum = [[Animalia]]
+| phylum = [[Chordata]]
+| classis = [[Burung|Aves]]
+| ordo = [[Piciformes]]
+| familia = [[Picidae]]
+| genus = ''[[Dryocopus]]''
+| species = '''''D. javensis'''''
+| binomial = ''Dryocopus javensis''
+| binomial_authority = [[Thomas Horsfield|Horsfield]], 1821
+}}
+'''Pelatuk ayam''' adalah spesies [[burung]] yang mempunyai paruh, berdarah panas, dan membiak dengan cara bertelur.
+
+== Pranala luar ==
+* [http://images.google.com/images?svnum=10&hl=en&lr=&q=%22Dryocopus+javensis%22 Gambar di Google.]
+
+{{burung-stub}}
+
+[[Kategori:Burung Indonesia|Pelatuk Ayam]]

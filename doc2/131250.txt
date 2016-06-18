@@ -1,0 +1,21 @@
+Templat:GambarUang
+{{imbox
+| type       = license
+| class      = licensetpl
+| image      = [[Berkas:PDmaybe-icon.svg|50px|Mungkin berhak cipta|link=]]
+| imageright = [[Berkas:WikiMoney.svg|60px|link=]]
+| text       = <span class="licensetpl_long">Gambar ini adalah gambar '''unit uang'''. '''Beberapa gambar mata uang''' tidak layak untuk diberi [[hak cipta]] dan berada dalam [[domain publik]]. '''Beberapa lainnya''' berhak cipta. Dalam kasus-kasus semacam itu, penggunaan gambar-gambar tersebut di Wikipedia dianggap di bawah ketentuan [[penggunaan wajar]] '''jika gambar tersebut digunakan bertujuan untuk mengomentari atau mengkritik gambar atau mata uang tersebut'''. {{br}}
+Penggunaan lainnya oleh gambar ini, di Wikipedia atau tempat lain, '''dapat melanggar hak cipta.'''{{br}}
+Peraturan hukum lainnya di luar hukum hak cipta, termasuk hukum pemalsuan uang, dapat berlaku, terutama jika gambar ini digunakan dalam bentuk cetak.</span>{{br}}
+'''Untuk pemuat berkas''': Jika gambar ini berhak cipta, harap tambahkan rasionalisasi {{WP|penggunaan wajar}} untuk setiap pemakaian dan juga detil informasi gambar seperti sumber gambar.''
+<span class="licensetpl_short" style="display: none">Fair use</span>
+<span class="licensetpl_link" style="display: none">{{fullurl:{{FULLPAGENAME}}}}</span>
+|below={{#ifeq:{{{image_has_rationale|{{{image has rationale}}}}}}|yes|}}
+}}{{#if:{{{kat|}}}||<includeonly>[[Kategori:Gambar mata uang|{{PAGENAME}}]]</includeonly>}}<noinclude>
+
+*Kategori yang ditambahkan: {{kt|Gambar mata uang}}
+[[Kategori:Templat lisensi fairuse|{{PAGENAME}}]]
+
+[[mk::]]
+[[zh:template:money]]
+</noinclude>

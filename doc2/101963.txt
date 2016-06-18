@@ -1,0 +1,3 @@
+Templat:Airline codes
+([[IATA]]: '''{{{1}}}''', [[ICAO]]: '''{{{2}}}''', dan Panggilan: '''{{{3}}}''')<noinclude>
+[[Kategori:Templat umum|{{PAGENAME}}]]</noinclude>

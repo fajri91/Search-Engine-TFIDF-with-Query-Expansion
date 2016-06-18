@@ -1,0 +1,96 @@
+Baek Seung-hwan
+{{Korean name|Baek}}
+{{Infobox person
+|name            = Baek Seung-hwan
+|image           =
+|image_size      = 
+|birth_date      = {{birth date and age|1998|4|17}}
+|birth_place     = [[Korea Selatan]]
+|occupation      = [[Aktor]]
+|years_active    = 
+|agent           = 
+|module          = {{Infobox Korean name|child=yes|color=transparent|
+|hangul          = 
+|hanja           = !
+|rr              = Baek Seung-hwan
+|mr              = Paek Sng-hwan
+}}}}
+{{Contains Korean text}}
+
+'''Baek Seung-hwan''' ({{lahirmati||17|4|1998}}) adalah [[aktor]] asal [[Korea Selatan]]. Baek memulai karirnya sebagai aktor cilik, terutama dikenal dalam film ''[[The Crucible (film 2011)|The Crucible]]'' (2011) dan ''South Bound'' (2013).<ref>{{cite web|last1=Lee|first1=Mi-na|title=''  "   "|url=http://www.hankyung.com/news/app/newsview.php?aid=2011110195787|website=Hankyung|language=Korean|accessdate=2015-08-12|date=3 November 2011}}</ref><ref>{{cite web|last1=Mudge|first1=James|title=Silenced (2011) Movie Review|url=http://www.beyondhollywood.com/silenced-2011-movie-review/|website=Beyond Hollywood|accessdate=2015-08-12|date=11 April 2012}}</ref><ref>{{cite web|last1=Lee|first1=Ju-hyeon|title=who are you: |trans_title=who are you: Baek Seung-hwan|url=http://www.cine21.com/news/view/mag_id/72634|website=Cine21|language=Korean|accessdate=2015-08-12|date=19 February 2013}}</ref><ref>{{cite web|last1=Paquet|first1=Darcy|title=In Focus: South Bound|url=http://koreanfilm.or.kr/webzine/sub/column.jsp?mode=A_VIEW&wbSeq=26|website=Korean Cinema Today|accessdate=2015-08-12|date=15 February 2013}}</ref><ref>{{cite web|last1=Conran|first1=Pierce|title=Review: Kim Yun-seok on Form in SOUTH BOUND|url=http://www.modernkoreancinema.com/2014/08/review-kim-yun-seok-on-form-in-south.html|website=Modern Korean Cinema|accessdate=2015-08-12|date=18 August 2014}}</ref><ref>{{cite web|last1=Ahn|first1=I-seul|title=''  " ,   "()|url=http://star.mt.co.kr/stview.php?no=2015022717455709380|website=Star News|language=Korean|accessdate=2015-08-12|date=28 February 2015}}</ref>
+
+== Filmografi ==
+=== Film ===
+{|Class="wikitable" style="width:500px"
+|-
+! width=10|Tahun
+! Judul
+! Peran
+|-
+|2007 ||''[[Wide Awake (film 2007)|Wide Awake]]'' ||Na Sang-woo 
+|-
+|2009 ||''Goodbye Mom'' ||Young Min-seok 
+|-
+|2011 ||''[[The Crucible (film 2011)|The Crucible]]'' ||Jeon Min-soo
+|-
+|2013 ||''South Bound'' ||Choi Na-ra
+|-
+|2014 ||''[[Confession (film 2014)|Confession]]'' ||Young Hyun-tae 
+|}
+
+=== Serial televisi ===
+{|Class="wikitable" style="width:500px"
+|-
+! width=10|Tahun
+! Judul
+! Peran
+! Jaringan
+|-
+|Rowspan=3|2011 ||''[[Deep Rooted Tree]]'' ||Yoon Pyeong muda ||[[Seoul Broadcasting System|SBS]]
+|-
+|''[[Me Too, Flower!]]'' ||Seo Jae-hee muda ||[[Munhwa Broadcasting Corporation|MBC]]
+|-
+|''[[Queen Insoo]]'' ||Yoon-goo ||[[jTBC]] 
+|-
+|2012 ||''[[I Love Lee Tae-ri]]'' ||Geum Eun-dong muda ||[[TVN (Korea Selatan)|tvN]]
+|-
+|2013 ||''[[Jang Ok-jung, Living by Love]]'' ||Hyun Chi-soo muda ||SBS
+|-
+|Rowspan=2|2015 ||''[[Blood (serial TV)|Blood]]''<ref>{{cite web|title=''Blood'' Vampire Ahn Jae-hyeon's tragedy began due to Ji Jin-hee's greed|url=http://www.hancinema.net/spoiler-blood-vampire-ahn-jae-hyeon-s-tragedy-began-due-to-ji-jin-hee-s-greed-78724.html|website=[[Hancinema]]|accessdate=2015-07-27|date=16 February 2015}}</ref> ||Young Park Ji-sang ||[[KBS2]]
+|-
+|''[[Six Flying Dragons]]'' ||Moo-hyul muda ||SBS
+|}
+
+=== Video musik ===
+{|Class="wikitable" style="width:500px"
+|-
+! width=10|Tahun
+! Judul lagu
+! Seniman
+|-
+|2012 ||<!-- --> "Legend of Tears"<ref>{{cite news|last=Hong|first=Grace Danbi|title=Hi.ni Releases ''Legend of Tears'' with Kim So Hyun and Baek Seung Hwan|url=http://mwave.interest.me/enewsworld/en/article/22837/rookie-hini-releases-new-mv|accessdate=2015-07-27|website=enewsWorld|date=3 December 2012}}</ref> ||Hi.ni
+|}
+
+== Referensi ==
+
+{{Reflist|2}}
+
+== Pranala luar ==
+
+* {{Hancinema person|Baek_Seung-hwan|Baek Seung-hwan}}
+* {{KMDb person|00044400|Baek Seung-hwan}}
+* {{IMDb name|2894697|Baek Seung-hwan}}
+
+{{Persondata  
+|NAME              = Baek, Seung-hwan
+|ALTERNATIVE NAMES =
+|SHORT DESCRIPTION = Actor 
+|DATE OF BIRTH     = April 17, 1998
+|PLACE OF BIRTH    = [[South Korea]]
+|DATE OF DEATH     =
+|PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Baek, Seung-hwan}}
+{{lifetime|1998||}}
+
+[[Kategori:Pemeran Korea Selatan]]

@@ -1,0 +1,60 @@
+Ciumani
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox settlement-->
+|subdivision_type = [[Negara]]
+|subdivision_name       = {{ROU}}
+|timezone=[[Eastern European Time|EET]]
+|utc_offset=+2
+|timezone_DST=[[Eastern European Summer Time|EEST]]
+|utc_offset_DST=+3
+|map_caption = Letak Ciumani|
+|official_name=Ciumani<br />Gyergycsomafalva
+|image_shield=
+|image_map=Ciumani jud Harghita.png|
+|subdivision_type1=[[Provinsi]]
+|subdivision_name1=Harghita
+|subdivision_type2=[[Status]]
+|subdivision_name2=[[Komune]]
+|settlement_type=Komune
+|leader_title=[[Walikota]]
+|leader_name=Jzsef Barabs
+|leader_party=Independen
+|area_total_km2=96.83
+|population_as_of=2002
+|population_total=4493
+| demographics_type1      = Etnis
+| demographics1_footnotes = <ref>[http://www.edrc.ro/recensamant.jsp?regiune_id=2568&judet_id=2739&localitate_id=2756 Romanian Census 2002]; retrieved on May 4, 2010</ref>
+| demographics1_title1    = [[Bangsa Hongaria|Hongaria]]
+| demographics1_title2    = [[Bangsa Rumania|Rumania]]
+| demographics1_info1     = 99.26%
+| demographics1_info2     = 0.44%
+   <!-- demographics (section 2) -->
+|population_density_km2  = 46.4
+|postal_code_type=Kode pos
+|postal_code=537050
+|area_code=+40 266|
+|area_code=+40 266|
+| website= [http://www.csomafalva.ro/joomla/index.php?option=com_content&task=view&id=2&Itemid=2 www.csomafalva.ro] 
+website=|
+}}
+'''Ciumani''' ({{lang-hu|Gyergycsomafalva}}, <small>pelafalan Hongaria:</small> {{convertIPA-hu||gy|e|r|gy||cs|o|m|a|f|a|l|v|a|}}) adalah komune yang terletak di [[provinsi Harghita]], [[Rumania]]. Menurut sensus tahun 2002, komune ini memiliki jumlah penduduk sebesar 4.493 jiwa. Mayoritas penduduk komune Ciumani adalah [[bangsa Hongaria|orang Hongaria]], meliputi sekitar 99.27% populasi.
+
+== Kota kembar ==
+* {{Flagicon|Hungary}}  [[Baktalrnthza]], [[Hongaria]] 
+* {{Flagicon|Hungary}}  [[Dny]], [[Hongaria]] 
+* {{Flagicon|Hungary}}  [[Erdbnye]], [[Hongaria]] 
+* {{Flagicon|Hungary}}  [[Heves]], [[Hongaria]] 
+* {{Flagicon|Hungary}}  [[Rckeve]], [[Hongaria]] 
+* {{Flagicon|Slovakia}} [[Nenince]] , [[Slowakia]] 
+* {{Flagicon|Serbia}}   [[Totovo Selo]], [[Serbia]] 
+* {{Flagicon|Serbia}}   [[Magyarkanizsa]], [[Serbia]]
+
+== Referensi ==
+{{reflist}}
+
+== Pranala luar ==
+* [http://www.csomafalva.ro/joomla/index.php?option=com_content&task=view&id=2&Itemid=2 www.csomafalva.ro]
+
+[[Kategori:Komune di Rumania]]
+
+
+{{rumania-geo-stub}}

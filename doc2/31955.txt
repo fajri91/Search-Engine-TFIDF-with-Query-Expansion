@@ -1,0 +1,20 @@
+Templat:Kota Dumai
+{{Navbox
+| name = Kota Dumai
+| listclass = hlist
+| title =[[Kota Dumai]], [[Riau]]
+| image = [[Berkas:Lambang Kota Dumai.png|30px|Lambang Kota Dumai]]
+| group1 = Kecamatan
+| list1 = <div><!--
+-->[[Bukit Kapur, Dumai|Bukit Kapur]] {{}} <!--
+-->[[Dumai Barat, Dumai|Dumai Barat]] {{}} <!--
+-->[[Dumai Kota, Dumai|Dumai Kota]] {{}} <!--
+-->[[Dumai Timur, Dumai|Dumai Timur]] {{}} <!--
+-->[[Dumai Selatan, Dumai|Dumai Selatan]] {{}} <!--
+-->[[Medang Kampai, Dumai|Medang Kampai]] {{}} <!--
+-->[[Sungai Sembilan, Dumai|Sungai Sembilan]] <!--
+
+--></div>
+}}<noinclude>
+[[Kategori:Templat kecamatan Indonesia|Dumai, Kota]]
+</noinclude>

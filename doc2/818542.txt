@@ -1,0 +1,13 @@
+Maksimum dan minimum
+Dalam [[matematika]], '''maksimum dan minimum''' adalah nilai terbesar dan terkecil dari fungsi, baik dalam kisaran tertentu (ekstrem lokal atau relatif) atau di seluruh domain dari fungsi (ekstrem global atau absolut). Dalam masalah praktis sehari-hari nilai maksimum dan minimum sering muncul dan membutuhkan suatu cara penyelesaian. Misalnya seorang pengusaha atau pemilik pabrik tentunya ingin meminimumkan biaya produksi dan memaksimumkan [[laba]].
+
+[[Berkas:Extrema example original.svg|thumb|200px|Titik maksimum  dan minimum lokal menjadi titik maksimum dan minimum fungsi]]
+
+Contoh ini menunjukkan bahwa nilai maksimum dan minimum lokal suatu fungsi belum tentu menjadi maksimum dan minimum global. Bila interval definisi fungsi ada, kita harus memeriksa pula nilai-nilai fungsi di ujung interval.
+
+== Bacaan lebih lanjut ==
+* {{cite book|last= Kurnianingsih|first= Sri|authorlink=|coauthors=Kuntarti, Sulistiyono|title=Matematika SMA dan MA 2B Untuk Kelas XI Semester 2 Program IPS|year= 2007|publisher= Esis/Erlangga|location= Jakarta|id= ISBN 979-734-564-5 }} {{id icon}}
+
+{{matematika-stub}}
+
+[[Kategori:Kalkulus]]

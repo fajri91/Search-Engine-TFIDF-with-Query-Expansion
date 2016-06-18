@@ -1,0 +1,374 @@
+Grup H Kualifikasi Kejuaraan Sepak Bola Eropa UEFA 2012
+[[Berkas:UEFA Euro 2012 logo.png|right|thumb|150px]]
+Halaman ini berisi klasemen dan hasil pertandingan Grup H pada [[Kualifikasi Kejuaraan Sepak Bola Eropa UEFA 2012]].<ref>{{cite web |title=UEFA Euro 2012 qualifying Group H |url=http://www.uefa.com/uefaeuro/season=2012/standings/round=15171/group=2000742/index.html |work=UEFA.com |publisher=Union of European Football Associations |accessdate=5 October 2010 }}</ref>
+
+
+
+==Klasemen==
+
+{| class="wikitable"
+|-
+! Legenda
+|-bgcolor=#ccffcc
+| Langsung lolos ke [[UEFA Euro 2012|putaran final]]
+|-bgcolor=#ccccff
+| Lolos ke babak [[Kualifikasi_Kejuaraan_Sepak_Bola_Eropa_UEFA_2012#Babak_kualifikasi_play-off|play-off]]
+|}
+
+{{Kualifikasi UEFA Euro 2012 Group H |expanded=yes|fixtures=yes|tiebreakers=yes}}
+
+==Jadwal dan hasil pertandingan==
+
+Jadwal pertandingan Grup G dibicarakan sesama peserta pada suatu pertemuan di [[Copenhagen]], [[Denmark]] pada tanggal 8 Maret 2010<ref>{{cite web |url=http://dbu.dk/news/newsShow.aspx?id=252751 |title=Danmark mod Portugal i EM-kvalifikation |date=7 February 2010 |publisher=[[Danish FA]] |accessdate=8 February 2010 |language=Danish}}</ref>.  Setelah pertemuan tersebut tidak membuahkan hasil, maka jadwal pertandingan ditentukan secara acak pada Kongres UEFA di [[Tel Aviv]], [[Israel]], pada 25 Maret 2010.<ref>{{cite news|title=Fixtures draw completes qualifying schedule|url=http://www.uefa.com/uefaeuro2012/news/newsid=1467876.html|work=UEFA.com|publisher=Union of European Football Associations|date=25 March 2010|accessdate=25 March 2010 }}</ref>
+
+<div id="Iceland v Norway"/>{{footballbox
+|date = 3 September 2010
+|time = 19:00 [[UTC+0]]
+|team1 = {{fb-rt|ISL}}
+|score = 12
+|report = [http://www.uefa.com/uefaeuro/season=2012/matches/round=15171/match=2002315/postmatch/report/index.html (Laporan)]
+|team2 = {{fb|NOR}}
+|goals1 = [[Heiar Helguson|Helguson]] {{goal|38}}
+|goals2 = [[Brede Hangeland|Hangeland]] {{goal|59}}<br />[[Mohammed Abdellaoue|Abdellaoue]] {{goal|75}}
+|stadium = [[Laugardalsvllur]], [[Reykjavk]]
+|attendance = 6,137<ref>http://www.soccerway.com/matches/2010/09/03/europe/european-championships/iceland/norway/922685/</ref> 
+|referee = [[Luca Banti]] ([[Italian Football Federation|Italia]]) }}
+
+<div id="Portugal v Cyprus"/>{{footballbox
+|date = 3 September 2010
+|time = 20:45 [[UTC+1]]
+|team1 = {{fb-rt|POR}}
+|score = 44
+|report = [http://www.uefa.com/uefaeuro/season=2012/matches/round=15171/match=2002299/postmatch/report/index.html (Laporan)]
+|team2 = {{fb|CYP}}
+|goals1 = [[Hugo Almeida|Almeida]] {{goal|8}}<br />[[Raul Meireles|Meireles]] {{goal|29}}<br />[[Danny (footballer)|Danny]] {{goal|50}}<br />[[Manuel Fernandes (footballer born 1986)|Fernandes]] {{goal|60}}
+|goals2 = [[Efstathios Aloneftis|Aloneftis]] {{goal|3}}<br />[[Michalis Konstantinou|Konstantinou]] {{goal|11}}<br />[[Yiannis Okkas|Okkas]] {{goal|57}}<br />[[Andreas Avraam|Avraam]] {{goal|89}}
+|stadium = [[Estdio D. Afonso Henriques]], [[Guimares]]
+|attendance = 9,100<ref>http://www.soccerway.com/matches/2010/09/03/europe/european-championships/portugal/cyprus/922683/</ref>
+|referee = [[Mark Clattenburg]] ([[The Football Association|Inggris]]) }}
+----
+<div id="Denmark v Iceland"/>{{footballbox
+|date = 7 September 2010
+|time = 20:15 [[UTC+2]]
+|team1 = {{fb-rt|DEN}}
+|score = 10
+|report = [http://www.uefa.com/uefaeuro/season=2012/matches/round=15171/match=2002304/postmatch/report/index.html (Laporan)]
+|team2 = {{fb|ISL}}
+|goals1 = [[Thomas Kahlenberg|Kahlenberg]] {{goal|90+1}}
+|stadium = [[Parken Stadium]], [[Copenhagen]]
+|attendance = 18,908<ref>http://www.soccerway.com/matches/2010/09/07/europe/european-championships/denmark/iceland/922687/</ref>
+|referee = [[Dougie McDonald]] ([[Scottish Football Association|Skotlandia]]) }}
+
+<div id="Norway v Portugal"/>{{footballbox
+|date = 7 September 2010
+|time = 20:30 [[UTC+2]]
+|team1 = {{fb-rt|NOR}}
+|score = 10
+|report = [http://www.uefa.com/uefaeuro/season=2012/matches/round=15171/match=2002305/postmatch/report/index.html (Laporan)]
+|team2 = {{fb|POR}}
+|goals1 = [[Erik Huseklepp|Huseklepp]] {{goal|21}}
+|stadium = [[Ullevaal Stadion]], [[Oslo]]
+|attendance = 24,535<ref>http://www.soccerway.com/matches/2010/09/07/europe/european-championships/norway/portugal/922686/</ref>
+|referee = [[Laurent Duhamel]] ([[French Football Federation|Perancis]]) }}
+----
+<div id="Cyprus v Norway"/>{{footballbox
+|date = 8 Oktober 2010
+|time = 21:00 [[UTC+3]]
+|team1 = {{fb-rt|CYP}}
+|score = 12
+|report = [http://www.uefa.com/uefaeuro/season=2012/matches/round=15171/match=2002311/postmatch/report/index.html (Laporan)]
+|team2 = {{fb|NOR}}
+|goals1 = [[Yiannis Okkas|Okkas]] {{goal|58}}
+|goals2 = [[John Arne Riise|J. Riise]] {{goal|2}}<br />[[John Carew|Carew]] {{goal|42}}
+|stadium = [[Antonis Papadopoulos Stadium]], [[Larnaca]]
+|attendance = 7,648<ref>http://www.soccerway.com/matches/2010/10/08/europe/european-championships/cyprus/norway/922689/</ref>
+|referee = [[Serge Gumienny]] ([[Royal Belgian Football Association|Belgia]]) }}
+
+<div id="Portugal v Denmark"/>{{footballbox
+|date = 8 Oktober 2010
+|time = 20:45 [[UTC+1]]
+|team1 = {{fb-rt|POR}}
+|score = 31
+|report = [http://www.uefa.com/uefaeuro/season=2012/matches/round=15171/match=2002297/postmatch/report/index.html (Laporan)]
+|team2 = {{fb|DEN}}
+|goals1 = [[Nani]] {{goal|29||31}}<br />[[Cristiano Ronaldo|Ronaldo]] {{goal|85}} 
+|goals2 = [[Ricardo Carvalho|Carvalho]] {{goal|80|o.g.}}
+|stadium = [[Estdio do Drago]], [[Porto]] 
+|attendance = 27,117<ref>http://www.soccerway.com/matches/2010/10/08/europe/european-championships/portugal/denmark/922688/</ref>
+|referee = [[Eric Braamhaar]] ([[Royal Dutch Football Association|Belanda]]) }}
+----
+<div id="Denmark v Cyprus"/>{{footballbox
+|date = 12 Oktober 2010
+|time = 20:15 [[UTC+2]]
+|team1 = {{fb-rt|DEN}}
+|score = 20
+|report = [http://www.uefa.com/uefaeuro/season=2012/matches/round=15171/match=2002303/postmatch/report/index.html (Laporan)]
+|team2 = {{fb|CYP}}
+|goals1 = [[Morten Duncan Rasmussen|Rasmussen]] {{goal|47}}<br />[[Kasper Lorentzen|Lorentzen]] {{goal|81}}
+|stadium = [[Parken Stadium]], [[Copenhagen]]
+|attendance = 15,544<ref>http://www.soccerway.com/matches/2010/10/12/europe/european-championships/denmark/cyprus/922691/</ref>
+|referee = [[Csar Muiz Fernndez]] ([[Royal Spanish Football Federation|Spanyol]]) }}
+
+<div id="Iceland v Portugal"/>{{footballbox
+|date = 12 Oktober 2010
+|time = 19:45 [[UTC+0]]
+|team1 = {{fb-rt|ISL}}
+|score = 13
+|report = [http://www.uefa.com/uefaeuro/season=2012/matches/round=15171/match=2002313/postmatch/report/index.html (Laporan)]
+|team2 = {{fb|POR}}
+|goals1 = [[Heiar Helguson|Helguson]] {{goal|17}}
+|goals2 = [[Cristiano Ronaldo|Ronaldo]] {{goal|3}}<br />[[Raul Meireles|Meireles]] {{goal|27}}<br />[[Hlder Postiga|Postiga]] {{goal|72}}
+|stadium = [[Laugardalsvllur]], [[Reykjavk]]
+|attendance = 9,767<ref>http://www.soccerway.com/matches/2010/10/12/europe/european-championships/iceland/portugal/922690/</ref>
+|referee = [[Thomas Einwaller]] ([[Austrian Football Association|Austria]]) }}
+----
+<div id="Cyprus v Iceland"/>{{footballbox
+|date = 26 Maret 2011
+|time = 20:00 [[UTC+2]]
+|team1 = {{fb-rt|CYP}}
+|score = 00
+|report = [http://www.uefa.com/uefaeuro/season=2012/matches/round=15171/match=2002312/postmatch/report/index.html (Laporan)]
+|team2 = {{fb|ISL}}
+|goals1=
+|stadium = [[GSP Stadium]], [[Nicosia]]
+|attendance = 2,088<ref>http://www.soccerway.com/matches/2011/03/26/europe/european-championships/cyprus/iceland/922692/</ref>
+|referee = [[Darko eferin]] ([[Football Association of Slovenia|Slovenia]]) }}
+
+<div id="Norway v Denmark"/>{{footballbox
+|date = 26 Maret 2011
+|time = 20:00 [[UTC+1]]
+|team1 = {{fb-rt|NOR}}
+|score = 11
+|report = [http://www.uefa.com/uefaeuro/season=2012/matches/round=15171/match=2002306/postmatch/report/index.html (Laporan)]
+|team2 = {{fb|DEN}}
+|goals1 = [[Erik Huseklepp|Huseklepp]] {{goal|81}}
+|goals2 = [[Dennis Rommedahl|Rommedahl]] {{goal|27}}
+|stadium = [[Ullevaal Stadion]], [[Oslo]]
+|attendance = 24,828<ref>http://www.soccerway.com/matches/2011/03/26/europe/european-championships/norway/denmark/922693/</ref>
+|referee = [[Gianluca Rocchi]] ([[Italian Football Federation|Italia]]) }}
+----
+<div id="Iceland v Denmark"/>{{footballbox
+|date = 4 Juni 2011
+|time = 18:45 [[UTC+0]]
+|team1 = {{fb-rt|ISL}}
+|score = 02
+|report = [http://www.uefa.com/uefaeuro/season=2012/matches/round=15171/match=2002314/postmatch/report/index.html (Laporan)]
+|team2 = {{fb|DEN}}
+|goals2 = [[Lasse Schne|Schne]] {{goal|60}}<br>[[Christian Eriksen|Eriksen]] {{goal|75}}
+|stadium = [[Laugardalsvllur]], [[Reykjavk]]
+|attendance = 7,629<ref>http://www.soccerway.com/matches/2011/06/04/europe/european-championships/iceland/denmark/922695/</ref>
+|referee = [[Frat Aydnus]] ([[Turkish Football Federation|Turki]]) }}
+
+<div id="Portugal v Norway"/>{{footballbox
+|date = 4 Juni 2011
+|time = 21:00 [[UTC+1]]
+|team1 = {{fb-rt|POR}}
+|score = 10
+|report = [http://www.uefa.com/uefaeuro/season=2012/matches/round=15171/match=2002298/postmatch/report/index.html (Laporan)]
+|team2 = {{fb|NOR}}
+|goals1 = [[Hlder Postiga|Postiga]] {{goal|53}}
+|stadium = [[Estdio da Luz]], [[Lisbon]]
+|attendance = 47,829<ref>http://www.soccerway.com/matches/2011/06/04/europe/european-championships/portugal/norway/922694/</ref>
+|referee = [[Cneyt akr]] ([[Turkish Football Federation|Turki]]) }}
+----
+<div id="Norway v Iceland"/>{{footballbox
+|date = 2 September 2011
+|time = 20:00 [[UTC+2]]
+|team1 = {{fb-rt|NOR}}
+|score = 10
+|report = [http://www.uefa.com/uefaeuro/season=2012/matches/round=15171/match=2002308/postmatch/report/index.html (Laporan)]
+|team2 = {{fb|ISL}}
+|goals1 = [[Mohammed Abdellaoue|Abdellaoue]] {{goal|88|pen.}}
+|stadium = [[Ullevaal Stadion]], [[Oslo]]
+|attendance = 22,381<ref>http://www.soccerway.com/matches/2011/09/02/europe/european-championships/norway/iceland/922697/</ref>
+|referee =[[Ovidiu Alin Hategan]] ([[Romanian Football Federation|Rumania]]) }}
+
+<div id="Cyprus v Portugal"/>{{footballbox
+|date = 2 September 2011
+|time = 21:45 [[UTC+3]]
+|team1 = {{fb-rt|CYP}}
+|score = 04
+|report = [http://www.uefa.com/uefaeuro/season=2012/matches/round=15171/match=2002309/postmatch/report/index.html (Laporan)]
+|team2 = {{fb|POR}}
+|goals2 = [[Cristiano Ronaldo|Ronaldo]] {{goal|35|pen.|83}}<br/>[[Hugo Almeida|Almeida]] {{goal|84}}<br/>[[Danny (footballer)|Danny]] {{goal|90+2}}
+|stadium = [[GSP Stadium]], [[Nicosia]]
+|attendance = 15,444<ref>http://www.soccerway.com/matches/2011/09/02/europe/european-championships/cyprus/portugal/922696/</ref>
+|referee =[[Gianluca Rocchi]] ([[Italian Football Federation|Italia]]) }}
+----
+<div id="Denmark v Norway"/>{{footballbox
+|date = 6 September 2011
+|time = 20:15 [[UTC+2]]
+|team1 = {{fb-rt|DEN}}
+|score = 20
+|report = [http://www.uefa.com/uefaeuro/season=2012/matches/round=15171/match=2002302/postmatch/report/index.html (Laporan)]
+|team2 = {{fb|NOR}}
+|goals1 = [[Nicklas Bendtner|Bendtner]] {{goal|24||44}}
+|stadium = [[Parken Stadium]], [[Copenhagen]]
+|attendance = 37,167<ref>http://www.soccerway.com/matches/2011/09/06/europe/european-championships/denmark/norway/922699/</ref>
+|referee =[[Stphane Lannoy]] ([[French Football Federation|Perancis]]) }}
+
+<div id="Iceland v Cyprus"/>{{footballbox
+|date = 6 September 2011
+|time = 18:45 [[UTC+0]]
+|team1 = {{fb-rt|ISL}}
+|score = 10
+|report = [http://www.uefa.com/uefaeuro/season=2012/matches/round=15171/match=2002316/postmatch/report/index.html (Laporan)]
+|team2 = {{fb|CYP}}
+|goals1 = [[Kolbeinn Sigrsson|Sigrsson]] {{goal|5}}
+|stadium = [[Laugardalsvllur]], [[Reykjavk]]
+|attendance = 5,267<ref>http://www.soccerway.com/matches/2011/09/06/europe/european-championships/iceland/cyprus/922698/</ref>
+|referee = [[Boko Jovaneti]] ([[Football Association of Serbia|Serbia]]) }}
+----
+<div id="Cyprus v Denmark"/>{{footballbox
+|date = 7 Oktober 2011
+|time = 21:30 [[UTC+3]]
+|team1 = {{fb-rt|CYP}}
+|score = 14
+|report = [http://www.uefa.com/uefaeuro/season=2012/matches/round=15171/match=2002310/postmatch/report/index.html (Laporan)]
+|team2 = {{fb|DEN}}
+|goals1 = [[Andreas Avraam|Avraam]] {{goal|45+1}}
+|goals2 = [[Lars Jacobsen|Jacobsen]] {{goal|7}} </br> [[Dennis Rommedahl|Rommedahl]] {{goal|11||22}} </br> [[Michael Krohn-Dehli|Krohn-Dehli]] {{goal|20}}
+|stadium = [[GSP Stadium]], [[Nicosia]]
+|attendance = 2,408<ref>http://www.soccerway.com/matches/2011/10/07/europe/european-championships/cyprus/denmark/922701/</ref>
+|referee =[[Marijo Strahonja]] ([[Croatian Football Federation|Kroasia]]) }}
+
+<div id="Portugal v Iceland"/>{{footballbox
+|date = 7 Oktober 2011
+|time = 21:00 [[UTC+1]]
+|team1 = {{fb-rt|POR}}
+|score = 53
+|report = [http://www.uefa.com/uefaeuro/season=2012/matches/round=15171/match=2002300/postmatch/report/index.html (Laporan)]
+|team2 = {{fb|ISL}}
+|goals1 = [[Nani]] {{goal|13||21}}<br/>[[Hlder Postiga|Postiga]] {{goal|45}} </br> [[Joo Moutinho|Moutinho]] {{goal|81}} </br> [[Eliseu Pereira dos Santos|Eliseu]] {{goal|87}}
+|goals2 = [[Hallgrmur Jnasson|Jnasson]] {{goal|48||68}} </br> [[Gylfi Sigursson|G. Sigursson]] {{goal|90+3|pen.}}
+|stadium = [[Estdio do Drago]], [[Porto]]
+|attendance = 35,715<ref>http://www.soccerway.com/matches/2011/10/07/europe/european-championships/portugal/iceland/922700/</ref>
+|referee =[[Bas Nijhuis]] ([[Royal Dutch Football Association|Belanda]]) }}
+----
+<div id="Norway v Cyprus"/>{{footballbox
+|date = 11 Oktober 2011
+|time = 20:15 [[UTC+2]]
+|team1 = {{fb-rt|NOR}}
+|score = 31
+|report = [http://www.uefa.com/uefaeuro/season=2012/matches/round=15171/match=2002307/postmatch/report/index.html (Laporan)]
+|team2 = {{fb|CYP}}
+|goals1 = [[Morten Gamst Pedersen|Pedersen]] {{goal|25}} <br> [[John Carew|Carew]] {{goal|34}} <br> [[Tom Hgli|Hgli]] {{goal|65}}
+|goals2 = [[Ioannis Okkas|Okkas]] {{goal|42}}
+|stadium = [[Ullevaal Stadion]], [[Oslo]]
+|attendance = 13,490<ref>http://www.soccerway.com/matches/2011/10/11/europe/european-championships/norway/cyprus/922702/</ref>
+|referee =[[William Collum (referee)|William Collum]] ([[Scottish Football Association|Skotlandia]]) }}
+
+<div id="Denmark v Portugal"/>{{footballbox
+|date = 11 Oktober 2011
+|time = 20:15 [[UTC+2]]
+|team1 = {{fb-rt|DEN}}
+|score = 21
+|report = [http://www.uefa.com/uefaeuro/season=2012/matches/round=15171/match=2002301/postmatch/report/index.html (Laporan)]
+|team2 = {{fb|POR}}
+|goals1 = [[Michael Krohn-Dehli|Krohn-Dehli]] {{goal|13}} <br> [[Nicklas Bendtner|Bendtner]] {{goal|63}} 
+|goals2 = [[Cristiano Ronaldo|Ronaldo]] {{goal|90+2}}
+|stadium = [[Parken Stadium]], [[Copenhagen]]
+|attendance = 37,012<ref>http://www.soccerway.com/matches/2011/10/11/europe/european-championships/denmark/portugal/922704/</ref>
+|referee = [[Nicola Rizzoli]] ([[Italian Football Federation|Italia]]) }}
+
+==Pencetak gol==
+
+;5 gol
+{{col-begin}}
+{{col-3}}
+* {{flagicon|POR}} [[Cristiano Ronaldo]] 
+{{col-3}}
+{{col-end}}
+
+;4 gol
+{{col-begin}}
+{{col-3}}
+* {{flagicon|POR}} [[Nani]]
+{{col-3}}
+{{col-end}}
+
+;3 gol
+{{col-begin}}
+{{col-3}}
+* {{flagicon|CYP}} [[Ioannis Okkas]]
+* {{flagicon|DEN}} [[Nicklas Bendtner]]
+{{col-3}}
+* {{flagicon|DEN}} [[Dennis Rommedahl]] 
+{{col-3}}
+* {{flagicon|POR}} [[Hlder Postiga]] 
+{{col-3}}
+{{col-end}}
+
+;2 gol
+{{col-begin}}
+{{col-3}}
+* {{flagicon|CYP}} [[Andreas Avraam]]  
+* {{flagicon|DEN}} [[Michael Krohn-Dehli]]  
+* {{flagicon|ISL}} [[Heiar Helguson]]
+* {{flagicon|ISL}} [[Hallgrmur Jnasson]]
+{{col-3}}
+* {{flagicon|NOR}} [[Mohammed Abdellaoue]]
+* {{flagicon|NOR}} [[John Carew]]
+* {{flagicon|NOR}} [[Erik Huseklepp]] 
+{{col-3}}
+* {{flagicon|POR}} [[Hugo Almeida]]   
+* {{flagicon|POR}} [[Danny (footballer)|Danny]]  
+* {{flagicon|POR}} [[Ral Meireles]]
+
+{{col-end}}
+
+;1 gol
+{{col-begin}}
+{{col-3}}
+* {{flagicon|CYP}} [[Efstathios Aloneftis]] 
+* {{flagicon|CYP}} [[Michalis Konstantinou]] 
+* {{flagicon|DEN}} [[Christian Eriksen]]
+* {{flagicon|DEN}} [[Lars Jacobsen]]
+* {{flagicon|DEN}} [[Thomas Kahlenberg]]
+* {{flagicon|DEN}} [[Kasper Lorentzen]] 
+{{col-3}}
+* {{flagicon|DEN}} [[Morten Rasmussen (footballer born January 1985)|Morten Rasmussen]] 
+* {{flagicon|DEN}} [[Lasse Schne]] 
+* {{flagicon|ISL}} [[Kolbeinn Sigrsson]]
+* {{flagicon|ISL}} [[Gylfi Sigursson]]
+* {{flagicon|NOR}} [[Tom Hgli]]
+* {{flagicon|NOR}} [[Morten Gamst Pedersen]]
+{{col-3}} 
+* {{flagicon|NOR}} [[Brede Hangeland]]
+* {{flagicon|NOR}} [[John Arne Riise]]
+* {{flagicon|POR}} [[Eliseu Pereira dos Santos|Eliseu]]
+* {{flagicon|POR}} [[Manuel Fernandes (footballer born 1986)|Manuel Fernandes]] 
+* {{flagicon|POR}} [[Joo Moutinho]]
+{{col-end}}
+
+;1 gol bunuh diri
+* {{flagicon|POR}} [[Ricardo Carvalho]] (melawan {{timnas|Denmark}})
+
+==Penonton==
+
+
+{| class="wikitable sortable"
+|-
+! Tim
+! Tertinggi
+! Terendah
+! Total
+! Rata-rata
+|-
+| {{fb|CYP}} || align="center" | 15,444 || align="center" | 2,088 || align="center" | 27,588 || align="center" | '''6,897'''
+|-
+| {{fb|DEN}} || align="center" | 37,167 || align="center" | 15,544 || align="center" | 108,631 || align="center" | '''27,158'''
+|-
+| {{fb|ISL}} || align="center" | 9,767 || align="center" | 5,267 || align="center" | 28,800 || align="center" | '''7,200'''
+|-
+| {{fb|NOR}} || align="center" | 24,828 || align="center" | 13,490 || align="center" | 85,234 || align="center" | '''21,309'''
+|-
+| {{fb|POR}} || align="center" | 47,829 || align="center" | 9,100 || align="center" | 119,761 || align="center" | '''29,940'''
+|}
+
+==Referensi==
+{{reflist|2}}
+
+{{Kualifikasi Kejuaraan Sepak Bola Eropa UEFA 2012}}
+
+[[Kategori:Kualifikasi Kejuaraan Sepak Bola Eropa UEFA 2012]]

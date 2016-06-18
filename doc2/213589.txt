@@ -1,0 +1,5 @@
+Templat:S-line/side cell
+{{#if:{{{next|}}}|{{#ifeq:{{{through|}}}|yes|<div>''melalui {{{{{system}}} lines|{{{next|}}}}}''</div>|<div>{{{{{system}}} stations|line={{{line}}}|branch={{{branch|}}}|station={{{next}}}|state={{{state}}}}}</div>{{#if:{{{note|}}}|<div style="font-size: smaller;">{{{note}}}</div>}}{{#ifeq:{{{{{system}}} style|showterm}}|Tidak||<div style="font-size: smaller;">{{#ifeq:{{{next}}}|{{S-line/{{{system}}} {{{side}}}/{{{line}}}|branch={{{branch|}}}|type={{{type|}}}}}|''Terminus''|{{#if:{{{oneway|}}}|''Operasi satu arah''|''{{#ifexist:Templat:{{{system}}} style|{{#ifeq:{{{{{system}}} style|lang}}|GB|menuju}}|menuju}} {{#if:{{S-line/{{{system}}} {{{side}}}/{{{line}}}|branch={{{branch|}}}|type={{{type|}}}}}|{{{{{system}}} stations|state={{{state}}}|branch={{{branch|}}}|line={{{line}}}|station={{S-line/{{{system}}} {{{side}}}/{{{line}}}|branch={{{branch|}}}|type={{{type|}}}}}}}|<includeonly>[[Kategori:Artikel yang menggunakan templat S-line dengan parameter hilang]]</includeonly>}}}}}}</div>}}}}|{{#if:{{{round|}}}|''Arah mundur''|''Terminus''}}}}
+<noinclude>{{Esoteric}}
+[[Kategori:Templat kotak suksesi transportasi rel]]
+</noinclude>

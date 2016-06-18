@@ -1,0 +1,2044 @@
+Daftar tempat di Britania Raya/Ha-Ham
+{{:Daftar tempat di Britania Raya}}
+|- class="vcard"
+| class="fn org" | [[Haaf Gruney]]
+| class="adr" | <span class="region">Shetland Islands</span>
+| class="note" | {{coor d|60.66|N|00.83|W|region:GB}}
+| class="note" | {{gbmappingsmall|HU635982}}
+|- class="vcard"
+| class="fn org" | [[Haa of Houlland]]
+| class="adr" | <span class="region">Shetland Islands</span>
+| class="note" | {{coor d|60.71|N|01.03|W|region:GB}}
+| class="note" | {{gbmappingsmall|HP5304}}
+|- class="vcard"
+| class="fn org" | [[Habberley]]
+| class="adr" | <span class="region">Hereford and Worcester</span>
+| class="note" | {{coor d|52.39|N|02.29|W|region:GB}}
+| class="note" | {{gbmappingsmall|SO8077}}
+|- class="vcard"
+| class="fn org" | [[Habberley]]
+| class="adr" | <span class="region">Shropshire</span>
+| class="note" | {{coor d|52.62|N|02.90|W|region:GB}}
+| class="note" | {{gbmappingsmall|SJ3903}}
+|- class="vcard"
+| class="fn org" | [[Habergham]]
+| class="adr" | <span class="region">Lancashire</span>
+| class="note" | {{coor d|53.79|N|02.28|W|region:GB}}
+| class="note" | {{gbmappingsmall|SD8133}}
+|- class="vcard"
+| class="fn org" | [[Habertoft]]
+| class="adr" | <span class="region">Lincolnshire</span>
+| class="note" | {{coor d|53.19|N|00.24|E|region:GB}}
+| class="note" | {{gbmappingsmall|TF5069}}
+|- class="vcard"
+| class="fn org" | [[Habin]]
+| class="adr" | <span class="region">West Sussex</span>
+| class="note" | {{coor d|50.99|N|00.86|W|region:GB}}
+| class="note" | {{gbmappingsmall|SU8022}}
+|- class="vcard"
+| class="fn org" | [[Habrough]]
+| class="adr" | <span class="region">Lincolnshire</span>
+| class="note" | {{coor d|53.60|N|00.27|W|region:GB}}
+| class="note" | {{gbmappingsmall|TA1413}}
+|- class="vcard"
+| class="fn org" | [[Haccombe]]
+| class="adr" | <span class="region">Devon</span>
+| class="note" | {{coor d|50.51|N|03.56|W|region:GB}}
+| class="note" | {{gbmappingsmall|SX8970}}
+|- class="vcard"
+| class="fn org" | [[Haceby]]
+| class="adr" | <span class="region">Lincolnshire</span>
+| class="note" | {{coor d|52.91|N|00.48|W|region:GB}}
+| class="note" | {{gbmappingsmall|TF0236}}
+|- class="vcard"
+| class="fn org" | [[Hacheston]]
+| class="adr" | <span class="region">Suffolk</span>
+| class="note" | {{coor d|52.18|N|01.36|E|region:GB}}
+| class="note" | {{gbmappingsmall|TM3059}}
+|- class="vcard"
+| class="fn org" | [[Hackbridge]]
+| class="adr" | <span class="region">Sutton</span>
+| class="note" | {{coor d|51.36|N|00.16|W|region:GB}}
+| class="note" | {{gbmappingsmall|TQ2865}}
+|- class="vcard"
+| class="fn org" | [[Hackenthorpe]]
+| class="adr" | <span class="region">Sheffield</span>
+| class="note" | {{coor d|53.34|N|01.38|W|region:GB}}
+| class="note" | {{gbmappingsmall|SK4183}}
+|- class="vcard"
+| class="fn org" | [[Hackford]]
+| class="adr" | <span class="region">Norfolk</span>
+| class="note" | {{coor d|52.57|N|01.03|E|region:GB}}
+| class="note" | {{gbmappingsmall|TG0602}}
+|- class="vcard"
+| class="fn org" | [[Hackforth]]
+| class="adr" | <span class="region">North Yorkshire</span>
+| class="note" | {{coor d|54.33|N|01.63|W|region:GB}}
+| class="note" | {{gbmappingsmall|SE2493}}
+|- class="vcard"
+| class="fn org" | [[Hack Green]]
+| class="adr" | <span class="region">Cheshire</span>
+| class="note" | {{coor d|53.02|N|02.53|W|region:GB}}
+| class="note" | {{gbmappingsmall|SJ6448}}
+|- class="vcard"
+| class="fn org" | [[Hackland]]
+| class="adr" | <span class="region">Orkney Islands</span>
+| class="note" | {{coor d|59.06|N|03.06|W|region:GB}}
+| class="note" | {{gbmappingsmall|HY3920}}
+|- class="vcard"
+| class="fn org" | [[Hacklete]]
+| class="adr" | <span class="region">Western Isles</span>
+| class="note" | {{coor d|58.20|N|06.85|W|region:GB}}
+| class="note" | {{gbmappingsmall|NB1534}}
+|- class="vcard"
+| class="fn org" | [[Hackleton]]
+| class="adr" | <span class="region">Northamptonshire</span>
+| class="note" | {{coor d|52.18|N|00.83|W|region:GB}}
+| class="note" | {{gbmappingsmall|SP8055}}
+|- class="vcard"
+| class="fn org" | [[Hacklinge]]
+| class="adr" | <span class="region">Kent</span>
+| class="note" | {{coor d|51.23|N|01.35|E|region:GB}}
+| class="note" | {{gbmappingsmall|TR3454}}
+|- class="vcard"
+| class="fn org" | [[Hackman's Gate]]
+| class="adr" | <span class="region">Hereford and Worcester</span>
+| class="note" | {{coor d|52.39|N|02.16|W|region:GB}}
+| class="note" | {{gbmappingsmall|SO8977}}
+|- class="vcard"
+| class="fn org" | [[Hackness, Somerset|Hackness]]
+| class="adr" | <span class="region">Somerset</span>
+| class="note" | {{coor d|51.20|N|02.96|W|region:GB}}
+| class="note" | {{gbmappingsmall|ST3345}}
+|- class="vcard"
+| class="fn org" | [[Hackness]]
+| class="adr" | <span class="region">North Yorkshire</span>
+| class="note" | {{coor d|54.29|N|00.51|W|region:GB}}
+| class="note" | {{gbmappingsmall|SE9790}}
+|- class="vcard"
+| class="fn org" | [[London Borough of Hackney|Hackney]]
+| class="adr" | <span class="region">Hackney</span>
+| class="note"| {{coor d|51.54|N|00.06|W|region:GB}} 
+| class="note"| {{gbmappingsmall|TQ3484}}
+|-
+| [[Hackney Wick]] || Tower Hamlets</span>
+| class="note" | {{coor d|51.53|N|00.02|W|region:GB}}
+| class="note" | {{gbmappingsmall|TQ3784}}
+|- class="vcard"
+| class="fn org" | [[Hackthorn]]
+| class="adr" | <span class="region">Wiltshire</span>
+| class="note" | {{coor d|51.20|N|01.78|W|region:GB}}
+| class="note" | {{gbmappingsmall|SU1545}}
+|- class="vcard"
+| class="fn org" | [[Hackthorn]]
+| class="adr" | <span class="region">Lincolnshire</span>
+| class="note" | {{coor d|53.32|N|00.51|W|region:GB}}
+| class="note" | {{gbmappingsmall|SK9982}}
+|- class="vcard"
+| class="fn org" | [[Hackthorpe]]
+| class="adr" | <span class="region">Cumbria</span>
+| class="note" | {{coor d|54.60|N|02.71|W|region:GB}}
+| class="note" | {{gbmappingsmall|NY5423}}
+|- class="vcard"
+| class="fn org" | [[Haclait]]
+| class="adr" | <span class="region">Western Isles</span>
+| class="note" | {{coor d|57.41|N|07.31|W|region:GB}}
+| class="note" | {{gbmappingsmall|NF8148}}
+|- class="vcard"
+| class="fn org" | [[Haconby]]
+| class="adr" | <span class="region">Lincolnshire</span>
+| class="note" | {{coor d|52.81|N|00.36|W|region:GB}}
+| class="note" | {{gbmappingsmall|TF1025}}
+|- class="vcard"
+| class="fn org" | [[Hacton]]
+| class="adr" | <span class="region">Havering</span>
+| class="note" | {{coor d|51.53|N|00.21|E|region:GB}}
+| class="note" | {{gbmappingsmall|TQ5484}}
+|- class="vcard"
+| class="fn org" | [[Haddacott]]
+| class="adr" | <span class="region">Devon</span>
+| class="note" | {{coor d|50.99|N|04.13|W|region:GB}}
+| class="note" | {{gbmappingsmall|SS5024}}
+|- class="vcard"
+| class="fn org" | [[Hadden]]
+| class="adr" | <span class="region">Scottish Borders</span>
+| class="note" | {{coor d|55.61|N|02.35|W|region:GB}}
+| class="note" | {{gbmappingsmall|NT7836}}
+|- class="vcard"
+| class="fn org" | [[Haddenham, Cambridgeshire|Haddenham]]
+| class="adr" | <span class="region">Cambridgeshire</span>
+| class="note" | {{coor d|52.35|N|00.14|E|region:GB}}
+| class="note" | {{gbmappingsmall|TL4675}}
+|- class="vcard"
+| class="fn org" | [[Haddenham, Buckinghamshire|Haddenham]]
+| class="adr" | <span class="region">Buckinghamshire</span>
+| class="note" | {{coor d|51.76|N|00.92|W|region:GB}}
+| class="note" | {{gbmappingsmall|SP7408}}
+|- class="vcard"
+| class="fn org" | [[Haddenham End Field]]
+| class="adr" | <span class="region">Cambridgeshire</span>
+| class="note" | {{coor d|52.36|N|00.14|E|region:GB}}
+| class="note" | {{gbmappingsmall|TL4676}}
+|- class="vcard"
+| class="fn org" | [[Haddington, Lincolnshire|Haddington]]
+| class="adr" | <span class="region">Lincolnshire</span>
+| class="note" | {{coor d|53.15|N|00.64|W|region:GB}}
+| class="note" | {{gbmappingsmall|SK9163}}
+|- class="vcard"
+| class="fn org" | [[Haddington, East Lothian|Haddington]]
+| class="adr" | <span class="region">East Lothian</span>
+| class="note" | {{coor d|55.94|N|02.78|W|region:GB}}
+| class="note" | {{gbmappingsmall|NT5173}}
+|- class="vcard"
+| class="fn org" | [[Haddiscoe]]
+| class="adr" | <span class="region">Norfolk</span>
+| class="note" | {{coor d|52.50|N|01.59|E|region:GB}}
+| class="note" | {{gbmappingsmall|TM4496}}
+|- class="vcard"
+| class="fn org" | [[Haddon, Cambridgeshire|Haddon]]
+| class="adr" | <span class="region">Cambridgeshire</span>
+| class="note" | {{coor d|52.51|N|00.33|W|region:GB}}
+| class="note" | {{gbmappingsmall|TL1392}}
+|- class="vcard"
+| class="fn org" | [[Hade Edge]]
+| class="adr" | <span class="region">Kirklees</span>
+| class="note" | {{coor d|53.54|N|01.79|W|region:GB}}
+| class="note" | {{gbmappingsmall|SE1405}}
+|- class="vcard"
+| class="fn org" | [[Hademore]]
+| class="adr" | <span class="region">Staffordshire</span>
+| class="note" | {{coor d|52.66|N|01.75|W|region:GB}}
+| class="note" | {{gbmappingsmall|SK1708}}
+|- class="vcard"
+| class="fn org" | [[Haden Cross]]
+| class="adr" | <span class="region">Sandwell</span>
+| class="note" | {{coor d|52.46|N|02.06|W|region:GB}}
+| class="note" | {{gbmappingsmall|SO9685}}
+|- class="vcard"
+| class="fn org" | [[Hadfield, Derbyshire|Hadfield]]
+| class="adr" | <span class="region">Derbyshire</span>
+| class="note" | {{coor d|53.46|N|01.98|W|region:GB}}
+| class="note" | {{gbmappingsmall|SK0196}}
+|- class="vcard"
+| class="fn org" | [[Hadham Cross]]
+| class="adr" | <span class="region">Hertfordshire</span>
+| class="note" | {{coor d|51.84|N|00.06|E|region:GB}}
+| class="note" | {{gbmappingsmall|TL4218}}
+|- class="vcard"
+| class="fn org" | [[Hadham Ford]]
+| class="adr" | <span class="region">Hertfordshire</span>
+| class="note" | {{coor d|51.87|N|00.07|E|region:GB}}
+| class="note" | {{gbmappingsmall|TL4322}}
+|- class="vcard"
+| class="fn org" | [[Hadleigh]]
+| class="adr" | <span class="region">Suffolk</span>
+| class="note" | {{coor d|52.03|N|00.94|E|region:GB}}
+| class="note" | {{gbmappingsmall|TM0242}}
+|- class="vcard"
+| class="fn org" | [[Hadleigh]]
+| class="adr" | <span class="region">Essex</span>
+| class="note" | {{coor d|51.55|N|00.60|E|region:GB}}
+| class="note" | {{gbmappingsmall|TQ8187}}
+|- class="vcard"
+| class="fn org" | [[Hadleigh Heath]]
+| class="adr" | <span class="region">Suffolk</span>
+| class="note" | {{coor d|52.03|N|00.89|E|region:GB}}
+| class="note" | {{gbmappingsmall|TL9941}}
+|- class="vcard"
+| class="fn org" | [[Hadley]]
+| class="adr" | <span class="region">Hereford and Worcester</span>
+| class="note" | {{coor d|52.26|N|02.20|W|region:GB}}
+| class="note" | {{gbmappingsmall|SO8663}}
+|- class="vcard"
+| class="fn org" | [[Hadley]]
+| class="adr" | <span class="region">Barnet</span>
+| class="note" | {{coor d|51.64|N|00.20|W|region:GB}}
+| class="note" | {{gbmappingsmall|TQ2496}}
+|- class="vcard"
+| class="fn org" | [[Hadley]]
+| class="adr" | <span class="region">Shropshire</span>
+| class="note" | {{coor d|52.70|N|02.48|W|region:GB}}
+| class="note" | {{gbmappingsmall|SJ6712}}
+|- class="vcard"
+| class="fn org" | [[Hadley Castle]]
+| class="adr" | <span class="region">Shropshire</span>
+| class="note" | {{coor d|52.70|N|02.48|W|region:GB}}
+| class="note" | {{gbmappingsmall|SJ6712}}
+|- class="vcard"
+| class="fn org" | [[Hadley End]]
+| class="adr" | <span class="region">Staffordshire</span>
+| class="note" | {{coor d|52.77|N|01.80|W|region:GB}}
+| class="note" | {{gbmappingsmall|SK1320}}
+|- class="vcard"
+| class="fn org" | [[Hadley Wood]]
+| class="adr" | <span class="region">Barnet</span>
+| class="note" | {{coor d|51.65|N|00.17|W|region:GB}}
+| class="note" | {{gbmappingsmall|TQ2697}}
+|- class="vcard"
+| class="fn org" | [[Hadlow]]
+| class="adr" | <span class="region">Kent</span>
+| class="note" | {{coor d|51.22|N|00.33|E|region:GB}}
+| class="note" | {{gbmappingsmall|TQ6350}}
+|- class="vcard"
+| class="fn org" | [[Hadlow Down]]
+| class="adr" | <span class="region">East Sussex</span>
+| class="note" | {{coor d|50.99|N|00.17|E|region:GB}}
+| class="note" | {{gbmappingsmall|TQ5324}}
+|- class="vcard"
+| class="fn org" | [[Hadlow Stair]]
+| class="adr" | <span class="region">Kent</span>
+| class="note" | {{coor d|51.20|N|00.28|E|region:GB}}
+| class="note" | {{gbmappingsmall|TQ6047}}
+|- class="vcard"
+| class="fn org" | [[Hadnall]]
+| class="adr" | <span class="region">Shropshire</span>
+| class="note" | {{coor d|52.77|N|02.71|W|region:GB}}
+| class="note" | {{gbmappingsmall|SJ5220}}
+|- class="vcard"
+| class="fn org" | [[Hadspen]]
+| class="adr" | <span class="region">Somerset</span>
+| class="note" | {{coor d|51.08|N|02.50|W|region:GB}}
+| class="note" | {{gbmappingsmall|ST6532}}
+|- class="vcard"
+| class="fn org" | [[Hadstock]]
+| class="adr" | <span class="region">Essex</span>
+| class="note" | {{coor d|52.07|N|00.26|E|region:GB}}
+| class="note" | {{gbmappingsmall|TL5544}}
+|- class="vcard"
+| class="fn org" | [[Hadston]]
+| class="adr" | <span class="region">Northumberland</span>
+| class="note" | {{coor d|55.28|N|01.60|W|region:GB}}
+| class="note" | {{gbmappingsmall|NZ2599}}
+|- class="vcard"
+| class="fn org" | [[Hady]]
+| class="adr" | <span class="region">Derbyshire</span>
+| class="note" | {{coor d|53.22|N|01.41|W|region:GB}}
+| class="note" | {{gbmappingsmall|SK3970}}
+|- class="vcard"
+| class="fn org" | [[Hadzor]]
+| class="adr" | <span class="region">Hereford and Worcester</span>
+| class="note" | {{coor d|52.25|N|02.13|W|region:GB}}
+| class="note" | {{gbmappingsmall|SO9162}}
+|- class="vcard"
+| class="fn org" | [[Haffenden Quarter]]
+| class="adr" | <span class="region">Kent</span>
+| class="note" | {{coor d|51.12|N|00.68|E|region:GB}}
+| class="note" | {{gbmappingsmall|TQ8840}}
+|- class="vcard"
+| class="fn org" | [[Hafod]]
+| class="adr" | <span class="region">Swansea</span>
+| class="note" | {{coor d|51.62|N|03.93|W|region:GB}}
+| class="note" | {{gbmappingsmall|SS6694}}
+|- class="vcard"
+| class="fn org" | [[Hafod Grove]]
+| class="adr" | <span class="region">Pembrokeshire</span>
+| class="note" | {{coor d|52.06|N|04.74|W|region:GB}}
+| class="note" | {{gbmappingsmall|SN1244}}
+|- class="vcard"
+| class="fn org" | [[Hafodiwan]]
+| class="adr" | <span class="region">Ceredigion</span>
+| class="note" | {{coor d|52.16|N|04.37|W|region:GB}}
+| class="note" | {{gbmappingsmall|SN3854}}
+|- class="vcard"
+| class="fn org" | [[Hafod-y-Green]]
+| class="adr" | <span class="region">Denbighshire</span>
+| class="note" | {{coor d|53.22|N|03.43|W|region:GB}}
+| class="note" | {{gbmappingsmall|SJ0471}}
+|- class="vcard"
+| class="fn org" | [[Hafodyrynys]]
+| class="adr" | <span class="region">Blaenau Gwent</span>
+| class="note" | {{coor d|51.68|N|03.12|W|region:GB}}
+| class="note" | {{gbmappingsmall|ST2299}}
+|- class="vcard"
+| class="fn org" | [[Hag Fold]]
+| class="adr" | <span class="region">Wigan</span>
+| class="note" | {{coor d|53.53|N|02.49|W|region:GB}}
+| class="note" | {{gbmappingsmall|SD6704}}
+|- class="vcard"
+| class="fn org" | [[Haggate]]
+| class="adr" | <span class="region">Lancashire</span>
+| class="note" | {{coor d|53.81|N|02.19|W|region:GB}}
+| class="note" | {{gbmappingsmall|SD8735}}
+|- class="vcard"
+| class="fn org" | [[Haggate]]
+| class="adr" | <span class="region">Oldham</span>
+| class="note" | {{coor d|53.55|N|02.13|W|region:GB}}
+| class="note" | {{gbmappingsmall|SD9107}}
+|- class="vcard"
+| class="fn org" | [[Haggersta]]
+| class="adr" | <span class="region">Shetland Islands</span>
+| class="note" | {{coor d|60.20|N|01.31|W|region:GB}}
+| class="note" | {{gbmappingsmall|HU3847}}
+|- class="vcard"
+| class="fn org" | [[Haggerston]]
+| class="adr" | <span class="region">Hackney</span>
+| class="note" | {{coor d|51.53|N|00.08|W|region:GB}}
+| class="note" | {{gbmappingsmall|TQ3383}}
+|- class="vcard"
+| class="fn org" | [[Haggerston, Northumberland|Haggerston]]
+| class="adr" | <span class="region">Northumberland</span>
+| class="note" | {{coor d|55.68|N|01.93|W|region:GB}}
+| class="note" | {{gbmappingsmall|NU0443}}
+|- class="vcard"
+| class="fn org" | [[Hagginton Hill]]
+| class="adr" | <span class="region">Devon</span>
+| class="note" | {{coor d|51.20|N|04.07|W|region:GB}}
+| class="note" | {{gbmappingsmall|SS5547}}
+|- class="vcard"
+| class="fn org" | [[Haggrister]]
+| class="adr" | <span class="region">Shetland Islands</span>
+| class="note" | {{coor d|60.41|N|01.38|W|region:GB}}
+| class="note" | {{gbmappingsmall|HU3470}}
+|- class="vcard"
+| class="fn org" | [[Haggs]]
+| class="adr" | <span class="region">Falkirk</span>
+| class="note" | {{coor d|55.98|N|03.94|W|region:GB}}
+| class="note" | {{gbmappingsmall|NS7978}}
+|- class="vcard"
+| class="fn org" | [[Haghill]]
+| class="adr" | <span class="region">City of Glasgow</span>
+| class="note" | {{coor d|55.85|N|04.20|W|region:GB}}
+| class="note" | {{gbmappingsmall|NS6265}}
+|- class="vcard"
+| class="fn org" | [[Hagley]]
+| class="adr" | <span class="region">Worcestershire</span>
+| class="note" | {{coor d|52.42|N|02.13|W|region:GB}}
+| class="note" | {{gbmappingsmall|SO9181}}
+|- class="vcard"
+| class="fn org" | [[Hagley, Herefordshire|Hagley]]
+| class="adr" | <span class="region">Herefordshire|| {{coor d|52.06|N|02.64|W|region:GB}} || {{gbmappingsmall|SO5641}}
+|-
+| [[Hagloe]] || Gloucestershire</span>
+| class="note" | {{coor d|51.75|N|02.46|W|region:GB}}
+| class="note" | {{gbmappingsmall|SO6806}}
+|- class="vcard"
+| class="fn org" | [[Hagmore Green]]
+| class="adr" | <span class="region">Suffolk</span>
+| class="note" | {{coor d|52.01|N|00.84|E|region:GB}}
+| class="note" | {{gbmappingsmall|TL9539}}
+|- class="vcard"
+| class="fn org" | [[Hagnaby]]
+| class="adr" | <span class="region">Lincolnshire</span>
+| class="note" | {{coor d|53.28|N|00.21|E|region:GB}}
+| class="note" | {{gbmappingsmall|TF4879}}
+|- class="vcard"
+| class="fn org" | [[Hagnaby]]
+| class="adr" | <span class="region">Lincolnshire</span>
+| class="note" | {{coor d|53.13|N|00.00|E|region:GB}}
+| class="note" | {{gbmappingsmall|TF3462}}
+|- class="vcard"
+| class="fn org" | [[Hagnaby Lock]]
+| class="adr" | <span class="region">Lincolnshire</span>
+| class="note" | {{coor d|53.11|N|00.01|W|region:GB}}
+| class="note" | {{gbmappingsmall|TF3359}}
+|- class="vcard"
+| class="fn org" | [[Hague Bar]]
+| class="adr" | <span class="region">Cheshire</span>
+| class="note" | {{coor d|53.36|N|02.03|W|region:GB}}
+| class="note" | {{gbmappingsmall|SJ9885}}
+|- class="vcard"
+| class="fn org" | [[Hagworthingham]]
+| class="adr" | <span class="region">Lincolnshire</span>
+| class="note" | {{coor d|53.20|N|00.00|E|region:GB}}
+| class="note" | {{gbmappingsmall|TF3469}}
+|- class="vcard"
+| class="fn org" | [[Haigh, West Yorkshire|Haigh]]
+| class="adr" | <span class="region">Barnsley</span>
+| class="note" | {{coor d|53.60|N|01.56|W|region:GB}}
+| class="note" | {{gbmappingsmall|SE2912}}
+|- class="vcard"
+| class="fn org" | [[Haigh, Greater Manchester|Haigh]]
+| class="adr" | <span class="region">Wigan</span>
+| class="note" | {{coor d|53.57|N|02.60|W|region:GB}}
+| class="note" | {{gbmappingsmall|SD6009}}
+|- class="vcard"
+| class="fn org" | [[Haigh Moor]]
+| class="adr" | <span class="region">Leeds</span>
+| class="note" | {{coor d|53.71|N|01.57|W|region:GB}}
+| class="note" | {{gbmappingsmall|SE2824}}
+|- class="vcard"
+| class="fn org" | [[Haighton Green]]
+| class="adr" | <span class="region">Lancashire</span>
+| class="note" | {{coor d|53.80|N|02.66|W|region:GB}}
+| class="note" | {{gbmappingsmall|SD5634}}
+|- class="vcard"
+| class="fn org" | [[Haighton Top]]
+| class="adr" | <span class="region">Lancashire</span>
+| class="note" | {{coor d|53.80|N|02.68|W|region:GB}}
+| class="note" | {{gbmappingsmall|SD5534}}
+|- class="vcard"
+| class="fn org" | [[Haile, Cumbria|Haile]]
+| class="adr" | <span class="region">Cumbria</span>
+| class="note" | {{coor d|54.45|N|03.49|W|region:GB}}
+| class="note" | {{gbmappingsmall|NY0308}}
+|- class="vcard"
+| class="fn org" | [[Hailes]]
+| class="adr" | <span class="region">Gloucestershire</span>
+| class="note" | {{coor d|51.96|N|01.94|W|region:GB}}
+| class="note" | {{gbmappingsmall|SP0430}}
+|- class="vcard"
+| class="fn org" | [[Hailey]]
+| class="adr" | <span class="region">Oxfordshire</span>
+| class="note" | {{coor d|51.80|N|01.49|W|region:GB}}
+| class="note" | {{gbmappingsmall|SP3512}}
+|- class="vcard"
+| class="fn org" | [[Hailey]]
+| class="adr" | <span class="region">Hertfordshire</span>
+| class="note" | {{coor d|51.77|N|00.01|W|region:GB}}
+| class="note" | {{gbmappingsmall|TL3710}}
+|- class="vcard"
+| class="fn org" | [[Hailey]]
+| class="adr" | <span class="region">Oxfordshire</span>
+| class="note" | {{coor d|51.56|N|01.07|W|region:GB}}
+| class="note" | {{gbmappingsmall|SU6485}}
+|- class="vcard"
+| class="fn org" | [[Hailsham]]
+| class="adr" | <span class="region">East Sussex</span>
+| class="note" | {{coor d|50.85|N|00.25|E|region:GB}}
+| class="note" | {{gbmappingsmall|TQ5909}}
+|- class="vcard"
+| class="fn org" | [[Hailstone Hill]]
+| class="adr" | <span class="region">Wiltshire</span>
+| class="note" | {{coor d|51.64|N|01.88|W|region:GB}}
+| class="note" | {{gbmappingsmall|SU0894}}
+|- class="vcard"
+| class="fn org" | [[Hail Weston]]
+| class="adr" | <span class="region">Cambridgeshire</span>
+| class="note" | {{coor d|52.24|N|00.30|W|region:GB}}
+| class="note" | {{gbmappingsmall|TL1662}}
+|- class="vcard"
+| class="fn org" | [[Haimwood]]
+| class="adr" | <span class="region">Powys</span>
+| class="note" | {{coor d|52.73|N|03.02|W|region:GB}}
+| class="note" | {{gbmappingsmall|SJ3116}}
+|- class="vcard"
+| class="fn org" | [[Hainault]]
+| class="adr" | <span class="region">Redbridge</span>
+| class="note" | {{coor d|51.59|N|00.09|E|region:GB}}
+| class="note" | {{gbmappingsmall|TQ4591}}
+|- class="vcard"
+| class="fn org" | [[Haine]]
+| class="adr" | <span class="region">Kent</span>
+| class="note" | {{coor d|51.34|N|01.37|E|region:GB}}
+| class="note" | {{gbmappingsmall|TR3566}}
+|- class="vcard"
+| class="fn org" | [[Hainford]]
+| class="adr" | <span class="region">Norfolk</span>
+| class="note" | {{coor d|52.71|N|01.28|E|region:GB}}
+| class="note" | {{gbmappingsmall|TG2218}}
+|- class="vcard"
+| class="fn org" | [[Hains]]
+| class="adr" | <span class="region">Dorset</span>
+| class="note" | {{coor d|50.97|N|02.32|W|region:GB}}
+| class="note" | {{gbmappingsmall|ST7719}}
+|- class="vcard"
+| class="fn org" | [[Hainton]]
+| class="adr" | <span class="region">Lincolnshire</span>
+| class="note" | {{coor d|53.34|N|00.22|W|region:GB}}
+| class="note" | {{gbmappingsmall|TF1884}}
+|- class="vcard"
+| class="fn org" | [[Hainworth]]
+| class="adr" | <span class="region">Bradford</span>
+| class="note" | {{coor d|53.83|N|01.91|W|region:GB}}
+| class="note" | {{gbmappingsmall|SE0638}}
+|- class="vcard"
+| class="fn org" | [[Hainworth Shaw]]
+| class="adr" | <span class="region">Bradford</span>
+| class="note" | {{coor d|53.84|N|01.91|W|region:GB}}
+| class="note" | {{gbmappingsmall|SE0639}}
+|- class="vcard"
+| class="fn org" | [[Hairmyres]]
+| class="adr" | <span class="region">South Lanarkshire</span>
+| class="note" | {{coor d|55.75|N|04.23|W|region:GB}}
+| class="note" | {{gbmappingsmall|NS6053}}
+|- class="vcard"
+| class="fn org" | [[Haisthorpe]]
+| class="adr" | <span class="region">East Riding of Yorkshire</span>
+| class="note" | {{coor d|54.06|N|00.29|W|region:GB}}
+| class="note" | {{gbmappingsmall|TA1264}}
+|- class="vcard"
+| class="fn org" | [[Hakeford]]
+| class="adr" | <span class="region">Devon</span>
+| class="note" | {{coor d|51.09|N|03.98|W|region:GB}}
+| class="note" | {{gbmappingsmall|SS6135}}
+|- class="vcard"
+| class="fn org" | [[Hakin]]
+| class="adr" | <span class="region">Pembrokeshire</span>
+| class="note" | {{coor d|51.70|N|05.05|W|region:GB}}
+| class="note" | {{gbmappingsmall|SM8905}}
+|- class="vcard"
+| class="fn org" | [[Halabezack]]
+| class="adr" | <span class="region">Cornwall</span>
+| class="note" | {{coor d|50.16|N|05.22|W|region:GB}}
+| class="note" | {{gbmappingsmall|SW7034}}
+|- class="vcard"
+| class="fn org" | [[Halam, Nottinghamshire|Halam]]
+| class="adr" | <span class="region">Nottinghamshire</span>
+| class="note" | {{coor d|53.07|N|01.00|W|region:GB}}
+| class="note" | {{gbmappingsmall|SK6754}}
+|- class="vcard"
+| class="fn org" | [[Halamanning]]
+| class="adr" | <span class="region">Cornwall</span>
+| class="note" | {{coor d|50.12|N|05.41|W|region:GB}}
+| class="note" | {{gbmappingsmall|SW5631}}
+|- class="vcard"
+| class="fn org" | [[Halbeath]]
+| class="adr" | <span class="region">Fife</span>
+| class="note" | {{coor d|56.07|N|03.41|W|region:GB}}
+| class="note" | {{gbmappingsmall|NT1288}}
+|- class="vcard"
+| class="fn org" | [[Halberton]]
+| class="adr" | <span class="region">Devon</span>
+| class="note" | {{coor d|50.89|N|03.42|W|region:GB}}
+| class="note" | {{gbmappingsmall|ST0012}}
+|- class="vcard"
+| class="fn org" | [[Halcon]]
+| class="adr" | <span class="region">Somerset</span>
+| class="note" | {{coor d|51.01|N|03.08|W|region:GB}}
+| class="note" | {{gbmappingsmall|ST2425}}
+|- class="vcard"
+| class="fn org" | [[Haldens]]
+| class="adr" | <span class="region">Hertfordshire</span>
+| class="note" | {{coor d|51.81|N|00.20|W|region:GB}}
+| class="note" | {{gbmappingsmall|TL2414}}
+|- class="vcard"
+| class="fn org" | [[Hale, Somerset|Hale]]
+| class="adr" | <span class="region">Somerset</span>
+| class="note" | {{coor d|51.04|N|02.35|W|region:GB}}
+| class="note" | {{gbmappingsmall|ST7527}}
+|- class="vcard"
+| class="fn org" | [[Hale, Surrey|Hale]]
+| class="adr" | <span class="region">Surrey</span>
+| class="note" | {{coor d|51.22|N|00.79|W|region:GB}}
+| class="note" | {{gbmappingsmall|SU8448}}
+|- class="vcard"
+| class="fn org" | [[Hale, Hampshire|Hale]]
+| class="adr" | <span class="region">Hampshire</span>
+| class="note" | {{coor d|50.97|N|01.73|W|region:GB}}
+| class="note" | {{gbmappingsmall|SU1919}}
+|- class="vcard"
+| class="fn org" | [[Hale]]
+| class="adr" | <span class="region">Kent</span>
+| class="note" | {{coor d|51.35|N|00.54|E|region:GB}}
+| class="note" | {{gbmappingsmall|TQ7765}}
+|- class="vcard"
+| class="fn org" | [[Hale]]
+| class="adr" | <span class="region">Kent</span>
+| class="note" | {{coor d|51.35|N|01.27|E|region:GB}}
+| class="note" | {{gbmappingsmall|TR2867}}
+|- class="vcard"
+| class="fn org" | [[Hale, Cumbria|Hale]]
+| class="adr" | <span class="region">Cumbria</span>
+| class="note" | {{coor d|54.19|N|02.76|W|region:GB}}
+| class="note" | {{gbmappingsmall|SD5078}}
+|- class="vcard"
+| class="fn org" | [[Hale, Greater Manchester|Hale]]
+| class="adr" | <span class="region">Trafford</span>
+| class="note" | {{coor d|53.37|N|02.36|W|region:GB}}
+| class="note" | {{gbmappingsmall|SJ7686}}
+|- class="vcard"
+| class="fn org" | [[Hale, Halton|Hale]]
+| class="adr" | <span class="region">Cheshire</span>
+| class="note" | {{coor d|53.33|N|02.81|W|region:GB}}
+| class="note" | {{gbmappingsmall|SJ4682}}
+|- class="vcard"
+| class="fn org" | [[Hale Bank]]
+| class="adr" | <span class="region">Cheshire</span>
+| class="note" | {{coor d|53.34|N|02.78|W|region:GB}}
+| class="note" | {{gbmappingsmall|SJ4883}}
+|- class="vcard"
+| class="fn org" | [[Hale Barns]]
+| class="adr" | <span class="region">Trafford</span>
+| class="note" | {{coor d|53.36|N|02.31|W|region:GB}}
+| class="note" | {{gbmappingsmall|SJ7985}}
+|- class="vcard"
+| class="fn org" | [[Halecommon]]
+| class="adr" | <span class="region">West Sussex</span>
+| class="note" | {{coor d|51.00|N|00.86|W|region:GB}}
+| class="note" | {{gbmappingsmall|SU8024}}
+|- class="vcard"
+| class="fn org" | [[Hale Coombe]]
+| class="adr" | <span class="region">Somerset</span>
+| class="note" | {{coor d|51.30|N|02.83|W|region:GB}}
+| class="note" | {{gbmappingsmall|ST4256}}
+|- class="vcard"
+| class="fn org" | [[Hale End]]
+| class="adr" | <span class="region">Waltham Forest</span>
+| class="note" | {{coor d|51.60|N|00.01|W|region:GB}}
+| class="note" | {{gbmappingsmall|TQ3891}}
+|- class="vcard"
+| class="fn org" | [[Hale Green]]
+| class="adr" | <span class="region">East Sussex</span>
+| class="note" | {{coor d|50.90|N|00.20|E|region:GB}}
+| class="note" | {{gbmappingsmall|TQ5514}}
+|- class="vcard"
+| class="fn org" | [[Hale Mills]]
+| class="adr" | <span class="region">Cornwall</span>
+| class="note" | {{coor d|50.23|N|05.15|W|region:GB}}
+| class="note" | {{gbmappingsmall|SW7542}}
+|- class="vcard"
+| class="fn org" | [[Hale Nook]]
+| class="adr" | <span class="region">Lancashire</span>
+| class="note" | {{coor d|53.88|N|02.92|W|region:GB}}
+| class="note" | {{gbmappingsmall|SD3943}}
+|- class="vcard"
+| class="fn org" | [[Hales]]
+| class="adr" | <span class="region">Norfolk</span>
+| class="note" | {{coor d|52.51|N|01.50|E|region:GB}}
+| class="note" | {{gbmappingsmall|TM3897}}
+|- class="vcard"
+| class="fn org" | [[Hales]]
+| class="adr" | <span class="region">Staffordshire</span>
+| class="note" | {{coor d|52.90|N|02.43|W|region:GB}}
+| class="note" | {{gbmappingsmall|SJ7134}}
+|- class="vcard"
+| class="fn org" | [[Hales Bank]]
+| class="adr" | <span class="region">Hereford and Worcester</span>
+| class="note" | {{coor d|52.14|N|02.57|W|region:GB}}
+| class="note" | {{gbmappingsmall|SO6150}}
+|- class="vcard"
+| class="fn org" | [[Halesfield]]
+| class="adr" | <span class="region">Shropshire</span>
+| class="note" | {{coor d|52.63|N|02.42|W|region:GB}}
+| class="note" | {{gbmappingsmall|SJ7104}}
+|- class="vcard"
+| class="fn org" | [[Halesgate]]
+| class="adr" | <span class="region">Lincolnshire</span>
+| class="note" | {{coor d|52.81|N|00.04|W|region:GB}}
+| class="note" | {{gbmappingsmall|TF3226}}
+|- class="vcard"
+| class="fn org" | [[Hales Green]]
+| class="adr" | <span class="region">Norfolk</span>
+| class="note" | {{coor d|52.51|N|01.49|E|region:GB}}
+| class="note" | {{gbmappingsmall|TM3796}}
+|- class="vcard"
+| class="fn org" | [[Hales Green]]
+| class="adr" | <span class="region">Derbyshire</span>
+| class="note" | {{coor d|52.96|N|01.73|W|region:GB}}
+| class="note" | {{gbmappingsmall|SK1841}}
+|- class="vcard"
+| class="fn org" | [[Halesowen]]
+| class="adr" | <span class="region">Dudley</span>
+| class="note" | {{coor d|52.44|N|02.07|W|region:GB}}
+| class="note" | {{gbmappingsmall|SO9583}}
+|- class="vcard"
+| class="fn org" | [[Hales Park]]
+| class="adr" | <span class="region">Hereford and Worcester</span>
+| class="note" | {{coor d|52.37|N|02.33|W|region:GB}}
+| class="note" | {{gbmappingsmall|SO7775}}
+|- class="vcard"
+| class="fn org" | [[Hales Place]]
+| class="adr" | <span class="region">Kent</span>
+| class="note" | {{coor d|51.29|N|01.06|E|region:GB}}
+| class="note" | {{gbmappingsmall|TR1459}}
+|- class="vcard"
+| class="fn org" | [[Hales Street]]
+| class="adr" | <span class="region">Norfolk</span>
+| class="note" | {{coor d|52.43|N|01.16|E|region:GB}}
+| class="note" | {{gbmappingsmall|TM1587}}
+|- class="vcard"
+| class="fn org" | [[Hale Street]]
+| class="adr" | <span class="region">Kent</span>
+| class="note" | {{coor d|51.21|N|00.39|E|region:GB}}
+| class="note" | {{gbmappingsmall|TQ6749}}
+|- class="vcard"
+| class="fn org" | [[Hales Wood]]
+| class="adr" | <span class="region">Hereford and Worcester</span>
+| class="note" | {{coor d|51.96|N|02.58|W|region:GB}}
+| class="note" | {{gbmappingsmall|SO6030}}
+|- class="vcard"
+| class="fn org" | [[Halesworth]]
+| class="adr" | <span class="region">Suffolk</span>
+| class="note" | {{coor d|52.33|N|01.49|E|region:GB}}
+| class="note" | {{gbmappingsmall|TM3877}}
+|- class="vcard"
+| class="fn org" | [[Halewood]]
+| class="adr" | <span class="region">Knowsley</span>
+| class="note" | {{coor d|53.35|N|02.84|W|region:GB}}
+| class="note" | {{gbmappingsmall|SJ4485}}
+|- class="vcard"
+| class="fn org" | [[Half Moon Village]]
+| class="adr" | <span class="region">Devon</span>
+| class="note" | {{coor d|50.76|N|03.57|W|region:GB}}
+| class="note" | {{gbmappingsmall|SX8997}}
+|- class="vcard"
+| class="fn org" | [[Halford]]
+| class="adr" | <span class="region">Shropshire</span>
+| class="note" | {{coor d|52.44|N|02.84|W|region:GB}}
+| class="note" | {{gbmappingsmall|SO4383}}
+|- class="vcard"
+| class="fn org" | [[Halford]]
+| class="adr" | <span class="region">Warwickshire</span>
+| class="note" | {{coor d|52.10|N|01.62|W|region:GB}}
+| class="note" | {{gbmappingsmall|SP2645}}
+|- class="vcard"
+| class="fn org" | [[Halfpenny, Cumbria|Halfpenny]]
+| class="adr" | <span class="region">Cumbria</span>
+| class="note" | {{coor d|54.27|N|02.72|W|region:GB}}
+| class="note" | {{gbmappingsmall|SD5387}}
+|- class="vcard"
+| class="fn org" | [[Halfpenny Furze]]
+| class="adr" | <span class="region">Carmarthenshire</span>
+| class="note" | {{coor d|51.78|N|04.51|W|region:GB}}
+| class="note" | {{gbmappingsmall|SN2713}}
+|- class="vcard"
+| class="fn org" | [[Halfpenny Green]]
+| class="adr" | <span class="region">Staffordshire</span>
+| class="note" | {{coor d|52.51|N|02.26|W|region:GB}}
+| class="note" | {{gbmappingsmall|SO8291}}
+|- class="vcard"
+| class="fn org" | [[Halfway]]
+| class="adr" | <span class="region">Wiltshire</span>
+| class="note" | {{coor d|51.22|N|02.18|W|region:GB}}
+| class="note" | {{gbmappingsmall|ST8747}}
+|- class="vcard"
+| class="fn org" | [[Halfway]]
+| class="adr" | <span class="region">Carmarthenshire</span>
+| class="note" | {{coor d|51.97|N|03.71|W|region:GB}}
+| class="note" | {{gbmappingsmall|SN8232}}
+|- class="vcard"
+| class="fn org" | [[Halfway]]
+| class="adr" | <span class="region">Carmarthenshire</span>
+| class="note" | {{coor d|51.67|N|04.14|W|region:GB}}
+| class="note" | {{gbmappingsmall|SN5200}}
+|- class="vcard"
+| class="fn org" | [[Halfway]]
+| class="adr" | <span class="region">Berkshire</span>
+| class="note" | {{coor d|51.40|N|01.42|W|region:GB}}
+| class="note" | {{gbmappingsmall|SU4068}}
+|- class="vcard"
+| class="fn org" | [[Halfway]]
+| class="adr" | <span class="region">Sheffield</span>
+| class="note" | {{coor d|53.32|N|01.35|W|region:GB}}
+| class="note" | {{gbmappingsmall|SK4381}}
+|- class="vcard"
+| class="fn org" | [[Halfway Bridge]]
+| class="adr" | <span class="region">West Sussex</span>
+| class="note" | {{coor d|50.98|N|00.67|W|region:GB}}
+| class="note" | {{gbmappingsmall|SU9321}}
+|- class="vcard"
+| class="fn org" | [[Half Way Firs]]
+| class="adr" | <span class="region">Wiltshire</span>
+| class="note" | {{coor d|51.42|N|02.21|W|region:GB}}
+| class="note" | {{gbmappingsmall|ST8570}}
+|- class="vcard"
+| class="fn org" | [[Halfway House]]
+| class="adr" | <span class="region">Shropshire</span>
+| class="note" | {{coor d|52.69|N|02.97|W|region:GB}}
+| class="note" | {{gbmappingsmall|SJ3411}}
+|- class="vcard"
+| class="fn org" | [[Halfway Houses]]
+| class="adr" | <span class="region">Kent</span>
+| class="note" | {{coor d|51.42|N|00.77|E|region:GB}}
+| class="note" | {{gbmappingsmall|TQ9373}}
+|- class="vcard"
+| class="fn org" | [[Halfway Houses]]
+| class="adr" | <span class="region">Bury</span>
+| class="note" | {{coor d|53.57|N|02.36|W|region:GB}}
+| class="note" | {{gbmappingsmall|SD7609}}
+|- class="vcard"
+| class="fn org" | [[Halfway Street]]
+| class="adr" | <span class="region">Kent</span>
+| class="note" | {{coor d|51.17|N|01.21|E|region:GB}}
+| class="note" | {{gbmappingsmall|TR2547}}
+|- class="vcard"
+| class="fn org" | [[Halgabron]]
+| class="adr" | <span class="region">Cornwall</span>
+| class="note" | {{coor d|50.65|N|04.73|W|region:GB}}
+| class="note" | {{gbmappingsmall|SX0788}}
+|- class="vcard"
+| class="fn org" | [[Halifax, West Yorkshire|Halifax]]
+| class="adr" | <span class="region">Calderdale</span>
+| class="note" | {{coor d|53.72|N|01.86|W|region:GB}}
+| class="note" | {{gbmappingsmall|SE0925}}
+|- class="vcard"
+| class="fn org" | [[Halkburn]]
+| class="adr" | <span class="region">Scottish Borders</span>
+| class="note" | {{coor d|55.65|N|02.84|W|region:GB}}
+| class="note" | {{gbmappingsmall|NT4740}}
+|- class="vcard"
+| class="fn org" | [[Halket]]
+| class="adr" | <span class="region">East Ayrshire</span>
+| class="note" | {{coor d|55.73|N|04.51|W|region:GB}}
+| class="note" | {{gbmappingsmall|NS4252}}
+|- class="vcard"
+| class="fn org" | [[Halkirk]]
+| class="adr" | <span class="region">Highland</span>
+| class="note" | {{coor d|58.51|N|03.49|W|region:GB}}
+| class="note" | {{gbmappingsmall|ND1359}}
+|- class="vcard"
+| class="fn org" | [[Halkyn|Halkyn (Helygain)]]
+| class="adr" | <span class="region">Flintshire</span>
+| class="note" | {{coor d|53.23|N|03.18|W|region:GB}}
+| class="note" | {{gbmappingsmall|SJ2171}}
+|- class="vcard"
+| class="fn org" | [[Halkyn Mountain]]
+| class="adr" | <span class="region">Flintshire</span>
+| class="note" | {{coor d|53.22|N|03.19|W|region:GB}}
+| class="note" | {{gbmappingsmall|SJ2070}}
+|- class="vcard"
+| class="fn org" | [[Halladale River]]
+| class="adr" | <span class="region">Highland</span>
+| class="note" | {{coor d|58.36|N|03.88|W|region:GB}}
+| class="note" | {{gbmappingsmall|NC897431}}
+|- class="vcard"
+| class="fn org" | [[Hallam Fields]]
+| class="adr" | <span class="region">Derbyshire</span>
+| class="note" | {{coor d|52.94|N|01.30|W|region:GB}}
+| class="note" | {{gbmappingsmall|SK4739}}
+|- class="vcard"
+| class="fn org" | [[Halland, East Sussex|Halland]]
+| class="adr" | <span class="region">East Sussex</span>
+| class="note" | {{coor d|50.92|N|00.13|E|region:GB}}
+| class="note" | {{gbmappingsmall|TQ5016}}
+|- class="vcard"
+| class="fn org" | [[Hallaton]]
+| class="adr" | <span class="region">Leicestershire</span>
+| class="note" | {{coor d|52.55|N|00.85|W|region:GB}}
+| class="note" | {{gbmappingsmall|SP7896}}
+|- class="vcard"
+| class="fn org" | [[Hallatrow]]
+| class="adr" | <span class="region">Bath and North East Somerset</span>
+| class="note" | {{coor d|51.31|N|02.53|W|region:GB}}
+| class="note" | {{gbmappingsmall|ST6357}}
+|- class="vcard"
+| class="fn org" | [[Hallbankgate]]
+| class="adr" | <span class="region">Cumbria</span>
+| class="note" | {{coor d|54.92|N|02.65|W|region:GB}}
+| class="note" | {{gbmappingsmall|NY5859}}
+|- class="vcard"
+| class="fn org" | [[Hall Bower]]
+| class="adr" | <span class="region">Kirklees</span>
+| class="note" | {{coor d|53.62|N|01.78|W|region:GB}}
+| class="note" | {{gbmappingsmall|SE1414}}
+|- class="vcard"
+| class="fn org" | [[Hall Broom]]
+| class="adr" | <span class="region">Sheffield</span>
+| class="note" | {{coor d|53.39|N|01.59|W|region:GB}}
+| class="note" | {{gbmappingsmall|SK2789}}
+|- class="vcard"
+| class="fn org" | [[Hall Cross]]
+| class="adr" | <span class="region">Lancashire</span>
+| class="note" | {{coor d|53.76|N|02.88|W|region:GB}}
+| class="note" | {{gbmappingsmall|SD4230}}
+|- class="vcard"
+| class="fn org" | [[Hall Dunnerdale]]
+| class="adr" | <span class="region">Cumbria</span>
+| class="note" | {{coor d|54.34|N|03.21|W|region:GB}}
+| class="note" | {{gbmappingsmall|SD2195}}
+|- class="vcard"
+| class="fn org" | [[Hallen]]
+| class="adr" | <span class="region">South Gloucestershire</span>
+| class="note" | {{coor d|51.51|N|02.64|W|region:GB}}
+| class="note" | {{gbmappingsmall|ST5580}}
+|- class="vcard"
+| class="fn org" | [[Hallend]]
+| class="adr" | <span class="region">Warwickshire</span>
+| class="note" | {{coor d|52.30|N|01.81|W|region:GB}}
+| class="note" | {{gbmappingsmall|SP1367}}
+|- class="vcard"
+| class="fn org" | [[Hall End]]
+| class="adr" | <span class="region">Bedfordshire</span>
+| class="note" | {{coor d|52.09|N|00.54|W|region:GB}}
+| class="note" | {{gbmappingsmall|TL0045}}
+|- class="vcard"
+| class="fn org" | [[Hall End]]
+| class="adr" | <span class="region">Bedfordshire</span>
+| class="note" | {{coor d|52.02|N|00.44|W|region:GB}}
+| class="note" | {{gbmappingsmall|TL0737}}
+|- class="vcard"
+| class="fn org" | [[Hall End]]
+| class="adr" | <span class="region">South Gloucestershire</span>
+| class="note" | {{coor d|51.57|N|02.43|W|region:GB}}
+| class="note" | {{gbmappingsmall|ST7086}}
+|- class="vcard"
+| class="fn org" | [[Hall End]]
+| class="adr" | <span class="region">Lincolnshire</span>
+| class="note" | {{coor d|53.02|N|00.13|E|region:GB}}
+| class="note" | {{gbmappingsmall|TF4350}}
+|- class="vcard"
+| class="fn org" | [[Hall End]]
+| class="adr" | <span class="region">Warwickshire</span>
+| class="note" | {{coor d|52.59|N|01.63|W|region:GB}}
+| class="note" | {{gbmappingsmall|SK2500}}
+|- class="vcard"
+| class="fn org" | [[Hallew]]
+| class="adr" | <span class="region">Cornwall</span>
+| class="note" | {{coor d|50.39|N|04.81|W|region:GB}}
+| class="note" | {{gbmappingsmall|SX0059}}
+|- class="vcard"
+| class="fn org" | [[Hallfield Gate]]
+| class="adr" | <span class="region">Derbyshire</span>
+| class="note" | {{coor d|53.11|N|01.41|W|region:GB}}
+| class="note" | {{gbmappingsmall|SK3958}}
+|- class="vcard"
+| class="fn org" | [[Hall Flat]]
+| class="adr" | <span class="region">Hereford and Worcester</span>
+| class="note" | {{coor d|52.35|N|02.04|W|region:GB}}
+| class="note" | {{gbmappingsmall|SO9773}}
+|- class="vcard"
+| class="fn org" | [[Hallgarth]]
+| class="adr" | <span class="region">Durham</span>
+| class="note" | {{coor d|54.78|N|01.48|W|region:GB}}
+| class="note" | {{gbmappingsmall|NZ3343}}
+|- class="vcard"
+| class="fn org" | [[Hall Garth]]
+| class="adr" | <span class="region">York</span>
+| class="note" | {{coor d|53.95|N|00.98|W|region:GB}}
+| class="note" | {{gbmappingsmall|SE6751}}
+|- class="vcard"
+| class="fn org" | [[Hallglen]]
+| class="adr" | <span class="region">Falkirk</span>
+| class="note" | {{coor d|55.98|N|03.78|W|region:GB}}
+| class="note" | {{gbmappingsmall|NS8978}}
+|- class="vcard"
+| class="fn org" | [[Hall Green]]
+| class="adr" | <span class="region">Sandwell</span>
+| class="note" | {{coor d|52.54|N|02.00|W|region:GB}}
+| class="note" | {{gbmappingsmall|SP0094}}
+|- class="vcard"
+| class="fn org" | [[Hall Green]]
+| class="adr" | <span class="region">Birmingham</span>
+| class="note" | {{coor d|52.42|N|01.83|W|region:GB}}
+| class="note" | {{gbmappingsmall|SP1181}}
+|- class="vcard"
+| class="fn org" | [[Hall Green]]
+| class="adr" | <span class="region">Coventry</span>
+| class="note" | {{coor d|52.43|N|01.48|W|region:GB}}
+| class="note" | {{gbmappingsmall|SP3582}}
+|- class="vcard"
+| class="fn org" | [[Hall Green]]
+| class="adr" | <span class="region">Essex</span>
+| class="note" | {{coor d|52.01|N|00.59|E|region:GB}}
+| class="note" | {{gbmappingsmall|TL7838}}
+|- class="vcard"
+| class="fn org" | [[Hall Green]]
+| class="adr" | <span class="region">Lancashire</span>
+| class="note" | {{coor d|53.71|N|02.81|W|region:GB}}
+| class="note" | {{gbmappingsmall|SD4624}}
+|- class="vcard"
+| class="fn org" | [[Hall Green]]
+| class="adr" | <span class="region">Lancashire</span>
+| class="note" | {{coor d|53.53|N|02.74|W|region:GB}}
+| class="note" | {{gbmappingsmall|SD5105}}
+|- class="vcard"
+| class="fn org" | [[Hall Green]]
+| class="adr" | <span class="region">Wakefield</span>
+| class="note" | {{coor d|53.63|N|01.53|W|region:GB}}
+| class="note" | {{gbmappingsmall|SE3115}}
+|- class="vcard"
+| class="fn org" | [[Hall Green]]
+| class="adr" | <span class="region">Wrexham</span>
+| class="note" | {{coor d|52.97|N|02.76|W|region:GB}}
+| class="note" | {{gbmappingsmall|SJ4942}}
+|- class="vcard"
+| class="fn org" | [[Hall Green]]
+| class="adr" | <span class="region">Cheshire</span>
+| class="note" | {{coor d|53.10|N|02.25|W|region:GB}}
+| class="note" | {{gbmappingsmall|SJ8356}}
+|- class="vcard"
+| class="fn org" | [[Hall Grove]]
+| class="adr" | <span class="region">Hertfordshire</span>
+| class="note" | {{coor d|51.78|N|00.18|W|region:GB}}
+| class="note" | {{gbmappingsmall|TL2511}}
+|- class="vcard"
+| class="fn org" | [[Halliburton]]
+| class="adr" | <span class="region">Scottish Borders</span>
+| class="note" | {{coor d|55.61|N|02.82|W|region:GB}}
+| class="note" | {{gbmappingsmall|NT4836}}
+|- class="vcard"
+| class="fn org" | [[Hallin]]
+| class="adr" | <span class="region">Highland</span>
+| class="note" | {{coor d|57.52|N|06.59|W|region:GB}}
+| class="note" | {{gbmappingsmall|NG2558}}
+|- class="vcard"
+| class="fn org" | [[Halling, Kent|Halling]]
+| class="adr" | <span class="region">Kent</span>
+| class="note" | {{coor d|51.34|N|00.44|E|region:GB}}
+| class="note" | {{gbmappingsmall|TQ7064}}
+|- class="vcard"
+| class="fn org" | [[Hallingbury Street]]
+| class="adr" | <span class="region">Essex</span>
+| class="note" | {{coor d|51.84|N|00.20|E|region:GB}}
+| class="note" | {{gbmappingsmall|TL5219}}
+|- class="vcard"
+| class="fn org" | [[Hallington]]
+| class="adr" | <span class="region">Northumberland</span>
+| class="note" | {{coor d|55.06|N|02.03|W|region:GB}}
+| class="note" | {{gbmappingsmall|NY9875}}
+|- class="vcard"
+| class="fn org" | [[Hallington]]
+| class="adr" | <span class="region">Lincolnshire</span>
+| class="note" | {{coor d|53.34|N|00.04|W|region:GB}}
+| class="note" | {{gbmappingsmall|TF3085}}
+|- class="vcard"
+| class="fn org" | [[Hall i' th' Wood]]
+| class="adr" | <span class="region">Bolton</span>
+| class="note" | {{coor d|53.59|N|02.42|W|region:GB}}
+| class="note" | {{gbmappingsmall|SD7211}}
+|- class="vcard"
+| class="fn org" | [[Halliwell, Greater Manchester|Halliwell]]
+| class="adr" | <span class="region">Bolton</span>
+| class="note" | {{coor d|53.58|N|02.45|W|region:GB}}
+| class="note" | {{gbmappingsmall|SD7010}}
+|- class="vcard"
+| class="fn org" | [[Hallmoss]]
+| class="adr" | <span class="region">Aberdeenshire</span>
+| class="note" | {{coor d|57.52|N|01.83|W|region:GB}}
+| class="note" | {{gbmappingsmall|NK1048}}
+|- class="vcard"
+| class="fn org" | [[Hallon]]
+| class="adr" | <span class="region">Shropshire</span>
+| class="note" | {{coor d|52.56|N|02.37|W|region:GB}}
+| class="note" | {{gbmappingsmall|SO7596}}
+|- class="vcard"
+| class="fn org" | [[Hallonsford]]
+| class="adr" | <span class="region">Shropshire</span>
+| class="note" | {{coor d|52.56|N|02.37|W|region:GB}}
+| class="note" | {{gbmappingsmall|SO7596}}
+|- class="vcard"
+| class="fn org" | [[Halloughton]]
+| class="adr" | <span class="region">Nottinghamshire</span>
+| class="note" | {{coor d|53.05|N|00.98|W|region:GB}}
+| class="note" | {{gbmappingsmall|SK6851}}
+|- class="vcard"
+| class="fn org" | [[Hallow, Worcestershire|Hallow]]
+| class="adr" | <span class="region">Hereford and Worcester</span>
+| class="note" | {{coor d|52.22|N|02.26|W|region:GB}}
+| class="note" | {{gbmappingsmall|SO8258}}
+|- class="vcard"
+| class="fn org" | [[Hallowes]]
+| class="adr" | <span class="region">Derbyshire</span>
+| class="note" | {{coor d|53.28|N|01.47|W|region:GB}}
+| class="note" | {{gbmappingsmall|SK3577}}
+|- class="vcard"
+| class="fn org" | [[Hallow Heath]]
+| class="adr" | <span class="region">Hereford and Worcester</span>
+| class="note" | {{coor d|52.22|N|02.26|W|region:GB}}
+| class="note" | {{gbmappingsmall|SO8259}}
+|- class="vcard"
+| class="fn org" | [[Hallowsgate]]
+| class="adr" | <span class="region">Cheshire</span>
+| class="note" | {{coor d|53.19|N|02.72|W|region:GB}}
+| class="note" | {{gbmappingsmall|SJ5267}}
+|- class="vcard"
+| class="fn org" | [[Hallsands]]
+| class="adr" | <span class="region">Devon</span>
+| class="note" | {{coor d|50.23|N|03.66|W|region:GB}}
+| class="note" | {{gbmappingsmall|SX8138}}
+|- class="vcard"
+| class="fn org" | [[Hall Santon]]
+| class="adr" | <span class="region">Cumbria</span>
+| class="note" | {{coor d|54.39|N|03.38|W|region:GB}}
+| class="note" | {{gbmappingsmall|NY1001}}
+|- class="vcard"
+| class="fn org" | [[Hall's Close]]
+| class="adr" | <span class="region">East Sussex</span>
+| class="note" | {{coor d|50.85|N|00.38|E|region:GB}}
+| class="note" | {{gbmappingsmall|TQ6809}}
+|- class="vcard"
+| class="fn org" | [[Hallsford Bridge]]
+| class="adr" | <span class="region">Essex</span>
+| class="note" | {{coor d|51.69|N|00.25|E|region:GB}}
+| class="note" | {{gbmappingsmall|TL5602}}
+|- class="vcard"
+| class="fn org" | [[Hall's Green]]
+| class="adr" | <span class="region">Kent</span>
+| class="note" | {{coor d|51.22|N|00.17|E|region:GB}}
+| class="note" | {{gbmappingsmall|TQ5249}}
+|- class="vcard"
+| class="fn org" | [[Halls Green]]
+| class="adr" | <span class="region">Essex</span>
+| class="note" | {{coor d|51.75|N|00.04|E|region:GB}}
+| class="note" | {{gbmappingsmall|TL4108}}
+|- class="vcard"
+| class="fn org" | [[Hall's Green]]
+| class="adr" | <span class="region">Hertfordshire</span>
+| class="note" | {{coor d|51.93|N|00.15|W|region:GB}}
+| class="note" | {{gbmappingsmall|TL2728}}
+|- class="vcard"
+| class="fn org" | [[Hallspill]]
+| class="adr" | <span class="region">Devon</span>
+| class="note" | {{coor d|50.98|N|04.18|W|region:GB}}
+| class="note" | {{gbmappingsmall|SS4723}}
+|- class="vcard"
+| class="fn org" | [[Hallthwaites]]
+| class="adr" | <span class="region">Cumbria</span>
+| class="note" | {{coor d|54.25|N|03.26|W|region:GB}}
+| class="note" | {{gbmappingsmall|SD1885}}
+|- class="vcard"
+| class="fn org" | [[Hall Waberthwaite]]
+| class="adr" | <span class="region">Cumbria</span>
+| class="note" | {{coor d|54.34|N|03.38|W|region:GB}}
+| class="note" | {{gbmappingsmall|SD1095}}
+|- class="vcard"
+| class="fn org" | [[Hallwood Green]]
+| class="adr" | <span class="region">Hereford and Worcester</span>
+| class="note" | {{coor d|51.99|N|02.48|W|region:GB}}
+| class="note" | {{gbmappingsmall|SO6733}}
+|- class="vcard"
+| class="fn org" | [[Hallworthy]]
+| class="adr" | <span class="region">Cornwall</span>
+| class="note" | {{coor d|50.65|N|04.57|W|region:GB}}
+| class="note" | {{gbmappingsmall|SX1887}}
+|- class="vcard"
+| class="fn org" | [[Hallyards]]
+| class="adr" | <span class="region">Scottish Borders</span>
+| class="note" | {{coor d|55.62|N|03.25|W|region:GB}}
+| class="note" | {{gbmappingsmall|NT2137}}
+|- class="vcard"
+| class="fn org" | [[Hallyne]]
+| class="adr" | <span class="region">Scottish Borders</span>
+| class="note" | {{coor d|55.64|N|03.28|W|region:GB}}
+| class="note" | {{gbmappingsmall|NT1940}}
+|- class="vcard"
+| class="fn org" | [[Halmadarie Burn]]
+| class="adr" | <span class="region">Highland</span>
+| class="note" | {{coor d|58.25|N|04.22|W|region:GB}}
+| class="note" | {{gbmappingsmall|NC693313}}
+|- class="vcard"
+| class="fn org" | [[Halmer End]]
+| class="adr" | <span class="region">Staffordshire</span>
+| class="note" | {{coor d|53.03|N|02.31|W|region:GB}}
+| class="note" | {{gbmappingsmall|SJ7949}}
+|- class="vcard"
+| class="fn org" | [[Halmond's Frome]]
+| class="adr" | <span class="region">Hereford and Worcester</span>
+| class="note" | {{coor d|52.12|N|02.48|W|region:GB}}
+| class="note" | {{gbmappingsmall|SO6747}}
+|- class="vcard"
+| class="fn org" | [[Halmore]]
+| class="adr" | <span class="region">Gloucestershire</span>
+| class="note" | {{coor d|51.71|N|02.45|W|region:GB}}
+| class="note" | {{gbmappingsmall|SO6902}}
+|- class="vcard"
+| class="fn org" | [[Halmyre Mains]]
+| class="adr" | <span class="region">Scottish Borders</span>
+| class="note" | {{coor d|55.72|N|03.32|W|region:GB}}
+| class="note" | {{gbmappingsmall|NT1749}}
+|- class="vcard"
+| class="fn org" | [[Halnaker]]
+| class="adr" | <span class="region">West Sussex</span>
+| class="note" | {{coor d|50.86|N|00.72|W|region:GB}}
+| class="note" | {{gbmappingsmall|SU9008}}
+|- class="vcard"
+| class="fn org" | [[Halsall]]
+| class="adr" | <span class="region">Lancashire</span>
+| class="note" | {{coor d|53.58|N|02.96|W|region:GB}}
+| class="note" | {{gbmappingsmall|SD3610}}
+|- class="vcard"
+| class="fn org" | [[Halse]]
+| class="adr" | <span class="region">Somerset</span>
+| class="note" | {{coor d|51.03|N|03.22|W|region:GB}}
+| class="note" | {{gbmappingsmall|ST1427}}
+|- class="vcard"
+| class="fn org" | [[Halse]]
+| class="adr" | <span class="region">Northamptonshire</span>
+| class="note" | {{coor d|52.05|N|01.18|W|region:GB}}
+| class="note" | {{gbmappingsmall|SP5640}}
+|- class="vcard"
+| class="fn org" | [[Halsetown]]
+| class="adr" | <span class="region">Cornwall</span>
+| class="note" | {{coor d|50.18|N|05.50|W|region:GB}}
+| class="note" | {{gbmappingsmall|SW5038}}
+|- class="vcard"
+| class="fn org" | [[Halse Water]]
+| class="adr" | <span class="region">Somerset</span>
+| class="note" | {{coor d|51.07|N|03.27|W|region:GB}}
+| class="note" | {{gbmappingsmall|ST105314}}
+|- class="vcard"
+| class="fn org" | [[Halsfordwood]]
+| class="adr" | <span class="region">Devon</span>
+| class="note" | {{coor d|50.72|N|03.60|W|region:GB}}
+| class="note" | {{gbmappingsmall|SX8793}}
+|- class="vcard"
+| class="fn org" | [[Halsham]]
+| class="adr" | <span class="region">East Riding of Yorkshire</span>
+| class="note" | {{coor d|53.72|N|00.07|W|region:GB}}
+| class="note" | {{gbmappingsmall|TA2727}}
+|- class="vcard"
+| class="fn org" | [[Halsinger]]
+| class="adr" | <span class="region">Devon</span>
+| class="note" | {{coor d|51.12|N|04.13|W|region:GB}}
+| class="note" | {{gbmappingsmall|SS5138}}
+|- class="vcard"
+| class="fn org" | [[Halstead]]
+| class="adr" | <span class="region">Essex</span>
+| class="note" | {{coor d|51.93|N|00.63|E|region:GB}}
+| class="note" | {{gbmappingsmall|TL8130}}
+|- class="vcard"
+| class="fn org" | [[Halstead]]
+| class="adr" | <span class="region">Kent</span>
+| class="note" | {{coor d|51.32|N|00.12|E|region:GB}}
+| class="note" | {{gbmappingsmall|TQ4861}}
+|- class="vcard"
+| class="fn org" | [[Halstead]]
+| class="adr" | <span class="region">Leicestershire</span>
+| class="note" | {{coor d|52.63|N|00.89|W|region:GB}}
+| class="note" | {{gbmappingsmall|SK7505}}
+|- class="vcard"
+| class="fn org" | [[Halstock]]
+| class="adr" | <span class="region">Dorset</span>
+| class="note" | {{coor d|50.86|N|02.66|W|region:GB}}
+| class="note" | {{gbmappingsmall|ST5308}}
+|- class="vcard"
+| class="fn org" | [[Halsway]]
+| class="adr" | <span class="region">Somerset</span>
+| class="note" | {{coor d|51.12|N|03.25|W|region:GB}}
+| class="note" | {{gbmappingsmall|ST1237}}
+|- class="vcard"
+| class="fn org" | [[Haltcliff Bridge]]
+| class="adr" | <span class="region">Cumbria</span>
+| class="note" | {{coor d|54.71|N|02.99|W|region:GB}}
+| class="note" | {{gbmappingsmall|NY3636}}
+|- class="vcard"
+| class="fn org" | [[Halterworth]]
+| class="adr" | <span class="region">Hampshire</span>
+| class="note" | {{coor d|50.98|N|01.47|W|region:GB}}
+| class="note" | {{gbmappingsmall|SU3721}}
+|- class="vcard"
+| class="fn org" | [[Haltham]]
+| class="adr" | <span class="region">Lincolnshire</span>
+| class="note" | {{coor d|53.15|N|00.14|W|region:GB}}
+| class="note" | {{gbmappingsmall|TF2463}}
+|- class="vcard"
+| class="fn org" | [[Haltoft End]]
+| class="adr" | <span class="region">Lincolnshire</span>
+| class="note" | {{coor d|52.98|N|00.02|E|region:GB}}
+| class="note" | {{gbmappingsmall|TF3645}}
+|- class="vcard"
+| class="fn org" | [[Halton, Buckinghamshire|Halton]]
+| class="adr" | <span class="region">Buckinghamshire</span>
+| class="note" | {{coor d|51.78|N|00.74|W|region:GB}}
+| class="note" | {{gbmappingsmall|SP8710}}
+|- class="vcard"
+| class="fn org" | [[Halton, Northumberland|Halton]]
+| class="adr" | <span class="region">Northumberland</span>
+| class="note" | {{coor d|54.99|N|02.01|W|region:GB}}
+| class="note" | {{gbmappingsmall|NY9967}}
+|- class="vcard"
+| class="fn org" | [[Halton, Lancashire|Halton]]
+| class="adr" | <span class="region">Lancashire</span>
+| class="note" | {{coor d|54.06|N|02.76|W|region:GB}}
+| class="note" | {{gbmappingsmall|SD5064}}
+|- class="vcard"
+| class="fn org" | [[Halton, Leeds|Halton]]
+| class="adr" | <span class="region">Leeds</span>
+| class="note" | {{coor d|53.79|N|01.48|W|region:GB}}
+| class="note" | {{gbmappingsmall|SE3433}}
+|- class="vcard"
+| class="fn org" | [[Halton, Cheshire|Halton]]
+| class="adr" | <span class="region">Cheshire</span>
+| class="note" | {{coor d|53.32|N|02.70|W|region:GB}}
+| class="note" | {{gbmappingsmall|SJ5381}}
+|- class="vcard"
+| class="fn org" | [[Halton, Wrexham|Halton]]
+| class="adr" | <span class="region">Wrexham</span>
+| class="note" | {{coor d|52.94|N|03.04|W|region:GB}}
+| class="note" | {{gbmappingsmall|SJ3039}}
+|- class="vcard"
+| class="fn org" | [[Halton Barton]]
+| class="adr" | <span class="region">Cornwall</span>
+| class="note" | {{coor d|50.46|N|04.25|W|region:GB}}
+| class="note" | {{gbmappingsmall|SX4065}}
+|- class="vcard"
+| class="fn org" | [[Halton Brook]]
+| class="adr" | <span class="region">Cheshire</span>
+| class="note" | {{coor d|53.33|N|02.72|W|region:GB}}
+| class="note" | {{gbmappingsmall|SJ5282}}
+|- class="vcard"
+| class="fn org" | [[Halton East]]
+| class="adr" | <span class="region">North Yorkshire</span>
+| class="note" | {{coor d|53.97|N|01.94|W|region:GB}}
+| class="note" | {{gbmappingsmall|SE0453}}
+|- class="vcard"
+| class="fn org" | [[Halton Fenside]]
+| class="adr" | <span class="region">Lincolnshire</span>
+| class="note" | {{coor d|53.14|N|00.12|E|region:GB}}
+| class="note" | {{gbmappingsmall|TF4263}}
+|- class="vcard"
+| class="fn org" | [[Halton Gill]]
+| class="adr" | <span class="region">North Yorkshire</span>
+| class="note" | {{coor d|54.18|N|02.18|W|region:GB}}
+| class="note" | {{gbmappingsmall|SD8876}}
+|- class="vcard"
+| class="fn org" | [[Halton Green]]
+| class="adr" | <span class="region">Lancashire</span>
+| class="note" | {{coor d|54.07|N|02.75|W|region:GB}}
+| class="note" | {{gbmappingsmall|SD5165}}
+|- class="vcard"
+| class="fn org" | [[Halton Holegate]]
+| class="adr" | <span class="region">Lincolnshire</span>
+| class="note" | {{coor d|53.16|N|00.10|E|region:GB}}
+| class="note" | {{gbmappingsmall|TF4165}}
+|- class="vcard"
+| class="fn org" | [[Halton Lea Gate]]
+| class="adr" | <span class="region">Northumberland</span>
+| class="note" | {{coor d|54.91|N|02.54|W|region:GB}}
+| class="note" | {{gbmappingsmall|NY6558}}
+|- class="vcard"
+| class="fn org" | [[Halton Moor]]
+| class="adr" | <span class="region">Leeds</span>
+| class="note" | {{coor d|53.79|N|01.48|W|region:GB}}
+| class="note" | {{gbmappingsmall|SE3433}}
+|- class="vcard"
+| class="fn org" | [[Halton Shields]]
+| class="adr" | <span class="region">Northumberland</span>
+| class="note" | {{coor d|55.00|N|01.98|W|region:GB}}
+| class="note" | {{gbmappingsmall|NZ0168}}
+|- class="vcard"
+| class="fn org" | [[Halton View]]
+| class="adr" | <span class="region">Cheshire</span>
+| class="note" | {{coor d|53.36|N|02.72|W|region:GB}}
+| class="note" | {{gbmappingsmall|SJ5286}}
+|- class="vcard"
+| class="fn org" | [[Halton West]]
+| class="adr" | <span class="region">North Yorkshire</span>
+| class="note" | {{coor d|53.98|N|02.24|W|region:GB}}
+| class="note" | {{gbmappingsmall|SD8454}}
+|- class="vcard"
+| class="fn org" | [[Haltwhistle]]
+| class="adr" | <span class="region">Northumberland</span>
+| class="note" | {{coor d|54.97|N|02.47|W|region:GB}}
+| class="note" | {{gbmappingsmall|NY7064}}
+|- class="vcard"
+| class="fn org" | [[Halvergate]]
+| class="adr" | <span class="region">Norfolk</span>
+| class="note" | {{coor d|52.59|N|01.57|E|region:GB}}
+| class="note" | {{gbmappingsmall|TG4206}}
+|- class="vcard"
+| class="fn org" | [[Halvosso]]
+| class="adr" | <span class="region">Cornwall</span>
+| class="note" | {{coor d|50.15|N|05.16|W|region:GB}}
+| class="note" | {{gbmappingsmall|SW7433}}
+|- class="vcard"
+| class="fn org" | [[Halwell]]
+| class="adr" | <span class="region">Devon</span>
+| class="note" | {{coor d|50.36|N|03.73|W|region:GB}}
+| class="note" | {{gbmappingsmall|SX7753}}
+|- class="vcard"
+| class="fn org" | [[Halwill]]
+| class="adr" | <span class="region">Devon</span>
+| class="note" | {{coor d|50.76|N|04.24|W|region:GB}}
+| class="note" | {{gbmappingsmall|SX4299}}
+|- class="vcard"
+| class="fn org" | [[Halwill Junction]]
+| class="adr" | <span class="region">Devon</span>
+| class="note" | {{coor d|50.77|N|04.21|W|region:GB}}
+| class="note" | {{gbmappingsmall|SS4400}}
+|- class="vcard"
+| class="fn org" | [[Halwin]]
+| class="adr" | <span class="region">Cornwall</span>
+| class="note" | {{coor d|50.15|N|05.23|W|region:GB}}
+| class="note" | {{gbmappingsmall|SW6933}}
+|- class="vcard"
+| class="fn org" | [[Ham, Somerset|Ham]]
+| class="adr" | <span class="region">Somerset</span>
+| class="note" | {{coor d|51.02|N|03.02|W|region:GB}}
+| class="note" | {{gbmappingsmall|ST2825}}
+|- class="vcard"
+| class="fn org" | [[Ham, Somerset|Ham]]
+| class="adr" | <span class="region">Somerset</span>
+| class="note" | {{coor d|51.23|N|02.47|W|region:GB}}
+| class="note" | {{gbmappingsmall|ST6748}}
+|- class="vcard"
+| class="fn org" | [[Ham, Somerset|Ham]]
+| class="adr" | <span class="region">Somerset</span>
+| class="note" | {{coor d|50.98|N|03.21|W|region:GB}}
+| class="note" | {{gbmappingsmall|ST1521}}
+|- class="vcard"
+| class="fn org" | [[Ham, Devon|Ham]]
+| class="adr" | <span class="region">Devon</span>
+| class="note" | {{coor d|50.80|N|03.09|W|region:GB}}
+| class="note" | {{gbmappingsmall|ST2301}}
+|- class="vcard"
+| class="fn org" | [[Ham, Somerset|Ham]]
+| class="adr" | <span class="region">Somerset</span>
+| class="note" | {{coor d|50.91|N|03.01|W|region:GB}}
+| class="note" | {{gbmappingsmall|ST2913}}
+|- class="vcard"
+| class="fn org" | [[Ham, Devon|Ham]]
+| class="adr" | <span class="region">Devon</span>
+| class="note" | {{coor d|50.39|N|04.16|W|region:GB}}
+| class="note" | {{gbmappingsmall|SX4657}}
+|- class="vcard"
+| class="fn org" | [[Ham, Gloucestershire|Ham]]
+| class="adr" | <span class="region">Gloucestershire</span>
+| class="note" | {{coor d|51.88|N|02.04|W|region:GB}}
+| class="note" | {{gbmappingsmall|SO9721}}
+|- class="vcard"
+| class="fn org" | [[Ham, Gloucestershire|Ham]]
+| class="adr" | <span class="region">Gloucestershire</span>
+| class="note" | {{coor d|51.68|N|02.46|W|region:GB}}
+| class="note" | {{gbmappingsmall|ST6898}}
+|- class="vcard"
+| class="fn org" | [[Ham, Shetland|Ham]]
+| class="adr" | <span class="region">Shetland Islands</span>
+| class="note" | {{coor d|60.13|N|02.05|W|region:GB}}
+| class="note" | {{gbmappingsmall|HT9739}}
+|- class="vcard"
+| class="fn org" | [[Ham, Highland|Ham]]
+| class="adr" | <span class="region">Highland</span>
+| class="note" | {{coor d|58.63|N|03.32|W|region:GB}}
+| class="note" | {{gbmappingsmall|ND2373}}
+|- class="vcard"
+| class="fn org" | [[Ham, Kent|Ham]]
+| class="adr" | <span class="region">Kent</span>
+| class="note" | {{coor d|51.23|N|01.32|E|region:GB}}
+| class="note" | {{gbmappingsmall|TR3254}}
+|- class="vcard"
+| class="fn org" | [[Ham, London|Ham]]
+| class="adr" | <span class="region">Richmond Upon Thames</span>
+| class="note" | {{coor d|51.43|N|00.31|W|region:GB}}
+| class="note" | {{gbmappingsmall|TQ1772}}
+|- class="vcard"
+| class="fn org" | [[Ham, Wiltshire|Ham]]
+| class="adr" | <span class="region">Wiltshire</span>
+| class="note" | {{coor d|51.35|N|01.52|W|region:GB}}
+| class="note" | {{gbmappingsmall|SU3362}}
+|- class="vcard"
+| class="fn org" | [[Hamar, Shetland|Hamar]]
+| class="adr" | <span class="region">Shetland Islands</span>
+| class="note" | {{coor d|60.46|N|01.43|W|region:GB}}
+| class="note" | {{gbmappingsmall|HU3176}}
+|- class="vcard"
+| class="fn org" | [[Hamaramore]]
+| class="adr" | <span class="region">Highland</span>
+| class="note" | {{coor d|57.44|N|06.73|W|region:GB}}
+| class="note" | {{gbmappingsmall|NG1649}}
+|- class="vcard"
+| class="fn org" | [[Hamaraverin]]
+| class="adr" | <span class="region">Highland</span>
+| class="note" | {{coor d|57.44|N|06.73|W|region:GB}}
+| class="note" | {{gbmappingsmall|NG1649}}
+|- class="vcard"
+| class="fn org" | [[Hamarhill]]
+| class="adr" | <span class="region">Orkney Islands</span>
+| class="note" | {{coor d|59.20|N|02.75|W|region:GB}}
+| class="note" | {{gbmappingsmall|HY5736}}
+|- class="vcard"
+| class="fn org" | [[Hamars]]
+| class="adr" | <span class="region">Shetland Islands</span>
+| class="note" | {{coor d|60.35|N|01.27|W|region:GB}}
+| class="note" | {{gbmappingsmall|HU4064}}
+|- class="vcard"
+| class="fn org" | [[River Hamble|Hamble]]
+| class="adr" | <span class="region">Hampshire</span>
+| class="note" | {{coor d|50.93|N|01.23|W|region:GB}}
+| class="note" | {{gbmappingsmall|SU536157}}
+|- class="vcard"
+| class="fn org" | [[Hambleden]]
+| class="adr" | <span class="region">Buckinghamshire</span>
+| class="note" | {{coor d|51.56|N|00.87|W|region:GB}}
+| class="note" | {{gbmappingsmall|SU7886}}
+|- class="vcard"
+| class="fn org" | [[Hambledon, Surrey|Hambledon]]
+| class="adr" | <span class="region">Surrey</span>
+| class="note" | {{coor d|51.13|N|00.62|W|region:GB}}
+| class="note" | {{gbmappingsmall|SU9638}}
+|- class="vcard"
+| class="fn org" | [[Hambledon, Hampshire|Hambledon]]
+| class="adr" | <span class="region">Hampshire</span>
+| class="note" | {{coor d|50.92|N|01.09|W|region:GB}}
+| class="note" | {{gbmappingsmall|SU6414}}
+|- class="vcard"
+| class="fn org" | [[Hamble-le-Rice]]
+| class="adr" | <span class="region">Hampshire</span>
+| class="note" | {{coor d|50.85|N|01.33|W|region:GB}}
+| class="note" | {{gbmappingsmall|SU4706}}
+|- class="vcard"
+| class="fn org" | [[Hambleton, Lancashire|Hambleton]]
+| class="adr" | <span class="region">Lancashire</span>
+| class="note" | {{coor d|53.87|N|02.95|W|region:GB}}
+| class="note" | {{gbmappingsmall|SD3742}}
+|- class="vcard"
+| class="fn org" | [[Hambleton, Selby|Hambleton]]
+| class="adr" | <span class="region">North Yorkshire</span>
+| class="note" | {{coor d|53.76|N|01.16|W|region:GB}}
+| class="note" | {{gbmappingsmall|SE5530}}
+|- class="vcard"
+| class="fn org" | [[Hambleton, Craven|Hambleton]]
+| class="adr" | <span class="region">North Yorkshire</span>
+| class="note" | {{coor d|53.97|N|01.92|W|region:GB}}
+| class="note" | {{gbmappingsmall|SE0553}}
+|- class="vcard"
+| class="fn org" | [[Hambleton Moss Side]]
+| class="adr" | <span class="region">Lancashire</span>
+| class="note" | {{coor d|53.87|N|02.94|W|region:GB}}
+| class="note" | {{gbmappingsmall|SD3842}}
+|- class="vcard"
+| class="fn org" | [[Hambridge]]
+| class="adr" | <span class="region">Somerset</span>
+| class="note" | {{coor d|50.98|N|02.87|W|region:GB}}
+| class="note" | {{gbmappingsmall|ST3921}}
+|- class="vcard"
+| class="fn org" | [[Hambrook]]
+| class="adr" | <span class="region">West Sussex</span>
+| class="note" | {{coor d|50.84|N|00.89|W|region:GB}}
+| class="note" | {{gbmappingsmall|SU7806}}
+|- class="vcard"
+| class="fn org" | [[Hambrook]]
+| class="adr" | <span class="region">South Gloucestershire</span>
+| class="note" | {{coor d|51.49|N|02.52|W|region:GB}}
+| class="note" | {{gbmappingsmall|ST6478}}
+|- class="vcard"
+| class="fn org" | [[Ham Common]]
+| class="adr" | <span class="region">Dorset</span>
+| class="note" | {{coor d|51.02|N|02.27|W|region:GB}}
+| class="note" | {{gbmappingsmall|ST8125}}
+|- class="vcard"
+| class="fn org" | [[Hameringham]]
+| class="adr" | <span class="region">Lincolnshire</span>
+| class="note" | {{coor d|53.18|N|00.04|W|region:GB}}
+| class="note" | {{gbmappingsmall|TF3167}}
+|- class="vcard"
+| class="fn org" | [[Hamerton]]
+| class="adr" | <span class="region">Cambridgeshire</span>
+| class="note" | {{coor d|52.39|N|00.34|W|region:GB}}
+| class="note" | {{gbmappingsmall|TL1379}}
+|- class="vcard"
+| class="fn org" | [[Hametoun]]
+| class="adr" | <span class="region">Shetland Islands</span>
+| class="note" | {{coor d|60.11|N|02.07|W|region:GB}}
+| class="note" | {{gbmappingsmall|HT9637}}
+|- class="vcard"
+| class="fn org" | [[Ham Green]]
+| class="adr" | <span class="region">Hampshire</span>
+| class="note" | {{coor d|51.06|N|01.38|W|region:GB}}
+| class="note" | {{gbmappingsmall|SU4330}}
+|- class="vcard"
+| class="fn org" | [[Ham Green]]
+| class="adr" | <span class="region">Kent</span>
+| class="note" | {{coor d|51.00|N|00.69|E|region:GB}}
+| class="note" | {{gbmappingsmall|TQ8926}}
+|- class="vcard"
+| class="fn org" | [[Ham Green]]
+| class="adr" | <span class="region">Hereford and Worcester</span>
+| class="note" | {{coor d|52.09|N|02.38|W|region:GB}}
+| class="note" | {{gbmappingsmall|SO7444}}
+|- class="vcard"
+| class="fn org" | [[Ham Green]]
+| class="adr" | <span class="region">Hereford and Worcester</span>
+| class="note" | {{coor d|52.26|N|01.98|W|region:GB}}
+| class="note" | {{gbmappingsmall|SP0163}}
+|- class="vcard"
+| class="fn org" | [[Ham Green]]
+| class="adr" | <span class="region">Buckinghamshire</span>
+| class="note" | {{coor d|51.85|N|00.99|W|region:GB}}
+| class="note" | {{gbmappingsmall|SP6918}}
+|- class="vcard"
+| class="fn org" | [[Ham Green]]
+| class="adr" | <span class="region">Wiltshire</span>
+| class="note" | {{coor d|51.34|N|02.21|W|region:GB}}
+| class="note" | {{gbmappingsmall|ST8561}}
+|- class="vcard"
+| class="fn org" | [[Ham Green]]
+| class="adr" | <span class="region">North Somerset</span>
+| class="note" | {{coor d|51.47|N|02.67|W|region:GB}}
+| class="note" | {{gbmappingsmall|ST5375}}
+|- class="vcard"
+| class="fn org" | [[Ham Green]]
+| class="adr" | <span class="region">Kent</span>
+| class="note" | {{coor d|51.38|N|00.64|E|region:GB}}
+| class="note" | {{gbmappingsmall|TQ8468}}
+|- class="vcard"
+| class="fn org" | [[Ham Hill]]
+| class="adr" | <span class="region">Kent</span>
+| class="note" | {{coor d|51.31|N|00.43|E|region:GB}}
+| class="note" | {{gbmappingsmall|TQ7060}}
+|- class="vcard"
+| class="fn org" | [[Hamilton, South Lanarkshire|Hamilton]]
+| class="adr" | <span class="region">South Lanarkshire</span>
+| class="note" | {{coor d|55.77|N|04.04|W|region:GB}}
+| class="note" | {{gbmappingsmall|NS7255}}
+|- class="vcard"
+| class="fn org" | [[Hamister]]
+| class="adr" | <span class="region">Shetland Islands</span>
+| class="note" | {{coor d|60.34|N|01.02|W|region:GB}}
+| class="note" | {{gbmappingsmall|HU5463}}
+|- class="vcard"
+| class="fn org" | [[Hamlet, Dorset|Hamlet]]
+| class="adr" | <span class="region">Dorset</span>
+| class="note" | {{coor d|50.87|N|02.58|W|region:GB}}
+| class="note" | {{gbmappingsmall|ST5908}}
+|- class="vcard"
+| class="fn org" | [[Hamlet, Devon|Hamlet]]
+| class="adr" | <span class="region">Devon</span>
+| class="note" | {{coor d|50.78|N|03.22|W|region:GB}}
+| class="note" | {{gbmappingsmall|SY1499}}
+|- class="vcard"
+| class="fn org" | [[Hammarhill]]
+| class="adr" | <span class="region">Orkney Islands</span>
+| class="note" | {{coor d|59.20|N|02.77|W|region:GB}}
+| class="note" | {{gbmappingsmall|HY5636}}
+|- class="vcard"
+| class="fn org" | [[Hammer, West Sussex|Hammer]]
+| class="adr" | <span class="region">West Sussex</span>
+| class="note" | {{coor d|51.08|N|00.75|W|region:GB}}
+| class="note" | {{gbmappingsmall|SU8732}}
+|- class="vcard"
+| class="fn org" | [[Hammer Bottom]]
+| class="adr" | <span class="region">West Sussex</span>
+| class="note" | {{coor d|51.08|N|00.77|W|region:GB}}
+| class="note" | {{gbmappingsmall|SU8632}}
+|- class="vcard"
+| class="fn org" | [[Hammerfield]]
+| class="adr" | <span class="region">Hertfordshire</span>
+| class="note" | {{coor d|51.75|N|00.49|W|region:GB}}
+| class="note" | {{gbmappingsmall|TL0407}}
+|- class="vcard"
+| class="fn org" | [[Hammerpot]]
+| class="adr" | <span class="region">West Sussex</span>
+| class="note" | {{coor d|50.83|N|00.49|W|region:GB}}
+| class="note" | {{gbmappingsmall|TQ0605}}
+|- class="vcard"
+| class="fn org" | [[Hammersmith]]
+| class="adr" | <span class="region">Hammersmith and Fulham</span>
+| class="note" | {{coor d|51.49|N|00.24|W|region:GB}}
+| class="note" | {{gbmappingsmall|TQ2279}}
+|- class="vcard"
+| class="fn org" | [[Hammersmith]]
+| class="adr" | <span class="region">Derbyshire</span>
+| class="note" | {{coor d|53.05|N|01.41|W|region:GB}}
+| class="note" | {{gbmappingsmall|SK3951}}
+|- class="vcard"
+| class="fn org" | [[Hammerwich]]
+| class="adr" | <span class="region">Staffordshire</span>
+| class="note" | {{coor d|52.66|N|01.91|W|region:GB}}
+| class="note" | {{gbmappingsmall|SK0607}}
+|- class="vcard"
+| class="fn org" | [[Hammerwood]]
+| class="adr" | <span class="region">East Sussex</span>
+| class="note" | {{coor d|51.13|N|00.04|E|region:GB}}
+| class="note" | {{gbmappingsmall|TQ4339}}
+|- class="vcard"
+| class="fn org" | [[Hammill]]
+| class="adr" | <span class="region">Kent</span>
+| class="note" | {{coor d|51.24|N|01.28|E|region:GB}}
+| class="note" | {{gbmappingsmall|TR2955}}
+|- class="vcard"
+| class="fn org" | [[Hammond's Green]]
+| class="adr" | <span class="region">Hampshire</span>
+| class="note" | {{coor d|50.91|N|01.51|W|region:GB}}
+| class="note" | {{gbmappingsmall|SU3413}}
+|- class="vcard"
+| class="fn org" | [[Hammond Street]]
+| class="adr" | <span class="region">Hertfordshire</span>
+| class="note" | {{coor d|51.71|N|00.07|W|region:GB}}
+| class="note" | {{gbmappingsmall|TL3304}}
+|- class="vcard"
+| class="fn org" | [[Hammoon]]
+| class="adr" | <span class="region">Dorset</span>
+| class="note" | {{coor d|50.92|N|02.27|W|region:GB}}
+| class="note" | {{gbmappingsmall|ST8114}}
+|- class="vcard"
+| class="fn org" | [[Ham Moor]]
+| class="adr" | <span class="region">Surrey</span>
+| class="note" | {{coor d|51.36|N|00.47|W|region:GB}}
+| class="note" | {{gbmappingsmall|TQ0664}}
+|- class="vcard"
+| class="fn org" | [[Hamnavoe]]
+| class="adr" | <span class="region">Shetland Islands</span>
+| class="note" | {{coor d|60.50|N|01.58|W|region:GB}}
+| class="note" | {{gbmappingsmall|HU2380}}
+|- class="vcard"
+| class="fn org" | [[Hamnavoe]]
+| class="adr" | <span class="region">Shetland Islands</span>
+| class="note" | {{coor d|60.09|N|01.33|W|region:GB}}
+| class="note" | {{gbmappingsmall|HU3735}}
+|- class="vcard"
+| class="fn org" | [[Hamnavoe]]
+| class="adr" | <span class="region">Shetland Islands</span>
+| class="note" | {{coor d|60.50|N|01.10|W|region:GB}}
+| class="note" | {{gbmappingsmall|HU4980}}
+|- class="vcard"
+| class="fn org" | [[Hamnish Clifford]]
+| class="adr" | <span class="region">Hereford and Worcester</span>
+| class="note" | {{coor d|52.22|N|02.68|W|region:GB}}
+| class="note" | {{gbmappingsmall|SO5359}}
+|- class="vcard"
+| class="fn org" | [[Hamp]]
+| class="adr" | <span class="region">Somerset</span>
+| class="note" | {{coor d|51.11|N|03.00|W|region:GB}}
+| class="note" | {{gbmappingsmall|ST3036}}
+|- class="vcard"
+| class="fn org" | [[Hampden Park, East Sussex|Hampden Park]]
+| class="adr" | <span class="region">East Sussex</span>
+| class="note" | {{coor d|50.79|N|00.26|E|region:GB}}
+| class="note" | {{gbmappingsmall|TQ6002}}
+|- class="vcard"
+| class="fn org" | [[Hampen]]
+| class="adr" | <span class="region">Gloucestershire</span>
+| class="note" | {{coor d|51.86|N|01.92|W|region:GB}}
+| class="note" | {{gbmappingsmall|SP0519}}
+|- class="vcard"
+| class="fn org" | [[Hamperden End]]
+| class="adr" | <span class="region">Essex</span>
+| class="note" | {{coor d|51.94|N|00.28|E|region:GB}}
+| class="note" | {{gbmappingsmall|TL5730}}
+|- class="vcard"
+| class="fn org" | [[Hamperley]]
+| class="adr" | <span class="region">Shropshire</span>
+| class="note" | {{coor d|52.49|N|02.87|W|region:GB}}
+| class="note" | {{gbmappingsmall|SO4189}}
+|- class="vcard"
+| class="fn org" | [[Hampers Green]]
+| class="adr" | <span class="region">West Sussex</span>
+| class="note" | {{coor d|50.98|N|00.61|W|region:GB}}
+| class="note" | {{gbmappingsmall|SU9722}}
+|- class="vcard"
+| class="fn org" | [[Hampeth]]
+| class="adr" | <span class="region">Northumberland</span>
+| class="note" | {{coor d|55.35|N|01.73|W|region:GB}}
+| class="note" | {{gbmappingsmall|NU1707}}
+|- class="vcard"
+| class="fn org" | [[Hampnett]]
+| class="adr" | <span class="region">Gloucestershire</span>
+| class="note" | {{coor d|51.83|N|01.87|W|region:GB}}
+| class="note" | {{gbmappingsmall|SP0915}}
+|- class="vcard"
+| class="fn org" | [[Hampole]]
+| class="adr" | <span class="region">Doncaster</span>
+| class="note" | {{coor d|53.58|N|01.24|W|region:GB}}
+| class="note" | {{gbmappingsmall|SE5010}}
+|- class="vcard"
+| class="fn org" | [[Hampreston]]
+| class="adr" | <span class="region">Dorset</span>
+| class="note" | {{coor d|50.78|N|01.93|W|region:GB}}
+| class="note" | {{gbmappingsmall|SZ0598}}
+|- class="vcard"
+| class="fn org" | [[Hampsfield]]
+| class="adr" | <span class="region">Cumbria</span>
+| class="note" | {{coor d|54.21|N|02.92|W|region:GB}}
+| class="note" | {{gbmappingsmall|SD4080}}
+|- class="vcard"
+| class="fn org" | [[Hampson Green]]
+| class="adr" | <span class="region">Lancashire</span>
+| class="note" | {{coor d|53.97|N|02.77|W|region:GB}}
+| class="note" | {{gbmappingsmall|SD4954}}
+|- class="vcard"
+| class="fn org" | [[Hampstead]]
+| class="adr" | <span class="region">Camden</span>
+| class="note" | {{coor d|51.55|N|00.18|W|region:GB}}
+| class="note" | {{gbmappingsmall|TQ2685}}
+|- class="vcard"
+| class="fn org" | [[Hampstead Garden Suburb]]
+| class="adr" | <span class="region">Barnet</span>
+| class="note" | {{coor d|51.57|N|00.18|W|region:GB}}
+| class="note" | {{gbmappingsmall|TQ2688}}
+|- class="vcard"
+| class="fn org" | [[Hampstead Norreys]]
+| class="adr" | <span class="region">Berkshire</span>
+| class="note" | {{coor d|51.48|N|01.25|W|region:GB}}
+| class="note" | {{gbmappingsmall|SU5276}}
+|- class="vcard"
+| class="fn org" | [[Hampsthwaite]]
+| class="adr" | <span class="region">North Yorkshire</span>
+| class="note" | {{coor d|54.01|N|01.60|W|region:GB}}
+| class="note" | {{gbmappingsmall|SE2658}}
+|- class="vcard"
+| class="fn org" | [[Hampton, Devon|Hampton]]
+| class="adr" | <span class="region">Devon</span>
+| class="note" | {{coor d|50.75|N|03.05|W|region:GB}}
+| class="note" | {{gbmappingsmall|SY2696}}
+|- class="vcard"
+| class="fn org" | [[Hampton, Shropshire|Hampton]]
+| class="adr" | <span class="region">Shropshire</span>
+| class="note" | {{coor d|52.47|N|02.38|W|region:GB}}
+| class="note" | {{gbmappingsmall|SO7486}}
+|- class="vcard"
+| class="fn org" | [[Hampton, Hereford and Worcester|Hampton]]
+| class="adr" | <span class="region">Hereford and Worcester</span>
+| class="note" | {{coor d|52.08|N|01.97|W|region:GB}}
+| class="note" | {{gbmappingsmall|SP0243}}
+|- class="vcard"
+| class="fn org" | [[Hampton, Swindon|Hampton]]
+| class="adr" | <span class="region">Swindon</span>
+| class="note" | {{coor d|51.62|N|01.74|W|region:GB}}
+| class="note" | {{gbmappingsmall|SU1892}}
+|- class="vcard"
+| class="fn org" | [[Hampton, London|Hampton]]
+| class="adr" | <span class="region">Richmond Upon Thames</span>
+| class="note" | {{coor d|51.41|N|00.37|W|region:GB}}
+| class="note" | {{gbmappingsmall|TQ1370}}
+|- class="vcard"
+| class="fn org" | [[Hampton, Kent|Hampton]]
+| class="adr" | <span class="region">Kent</span>
+| class="note" | {{coor d|51.36|N|01.10|E|region:GB}}
+| class="note" | {{gbmappingsmall|TR1667}}
+|- class="vcard"
+| class="fn org" | [[Hampton Bank]]
+| class="adr" | <span class="region">Shropshire</span>
+| class="note" | {{coor d|52.90|N|02.81|W|region:GB}}
+| class="note" | {{gbmappingsmall|SJ4534}}
+|- class="vcard"
+| class="fn org" | [[Hampton Beech]]
+| class="adr" | <span class="region">Shropshire</span>
+| class="note" | {{coor d|52.63|N|03.03|W|region:GB}}
+| class="note" | {{gbmappingsmall|SJ3005}}
+|- class="vcard"
+| class="fn org" | [[Hampton Bishop]]
+| class="adr" | <span class="region">Hereford and Worcester</span>
+| class="note" | {{coor d|52.03|N|02.65|W|region:GB}}
+| class="note" | {{gbmappingsmall|SO5538}}
+|- class="vcard"
+| class="fn org" | [[Hampton Fields]]
+| class="adr" | <span class="region">Gloucestershire</span>
+| class="note" | {{coor d|51.68|N|02.17|W|region:GB}}
+| class="note" | {{gbmappingsmall|ST8899}}
+|- class="vcard"
+| class="fn org" | [[Hampton Gay]]
+| class="adr" | <span class="region">Oxfordshire</span>
+| class="note" | {{coor d|51.84|N|01.30|W|region:GB}}
+| class="note" | {{gbmappingsmall|SP4816}}
+|- class="vcard"
+| class="fn org" | [[Hampton Green]]
+| class="adr" | <span class="region">Cheshire</span>
+| class="note" | {{coor d|53.03|N|02.73|W|region:GB}}
+| class="note" | {{gbmappingsmall|SJ5149}}
+|- class="vcard"
+| class="fn org" | [[Hampton Heath]]
+| class="adr" | <span class="region">Cheshire</span>
+| class="note" | {{coor d|53.03|N|02.76|W|region:GB}}
+| class="note" | {{gbmappingsmall|SJ4949}}
+|- class="vcard"
+| class="fn org" | [[Hampton Hill]]
+| class="adr" | <span class="region">Richmond Upon Thames</span>
+| class="note" | {{coor d|51.42|N|00.36|W|region:GB}}
+| class="note" | {{gbmappingsmall|TQ1471}}
+|- class="vcard"
+| class="fn org" | [[Hampton in Arden]]
+| class="adr" | <span class="region">Solihull</span>
+| class="note" | {{coor d|52.42|N|01.70|W|region:GB}}
+| class="note" | {{gbmappingsmall|SP2081}}
+|- class="vcard"
+| class="fn org" | [[Hampton Loade]]
+| class="adr" | <span class="region">Shropshire</span>
+| class="note" | {{coor d|52.47|N|02.38|W|region:GB}}
+| class="note" | {{gbmappingsmall|SO7486}}
+|- class="vcard"
+| class="fn org" | [[Hampton Lovett]]
+| class="adr" | <span class="region">Hereford and Worcester</span>
+| class="note" | {{coor d|52.28|N|02.17|W|region:GB}}
+| class="note" | {{gbmappingsmall|SO8865}}
+|- class="vcard"
+| class="fn org" | [[Hampton Lucy]]
+| class="adr" | <span class="region">Warwickshire</span>
+| class="note" | {{coor d|52.21|N|01.63|W|region:GB}}
+| class="note" | {{gbmappingsmall|SP2557}}
+|- class="vcard"
+| class="fn org" | [[Hampton Magna]]
+| class="adr" | <span class="region">Warwickshire</span>
+| class="note" | {{coor d|52.28|N|01.62|W|region:GB}}
+| class="note" | {{gbmappingsmall|SP2665}}
+|- class="vcard"
+| class="fn org" | [[Hampton on the Hill]]
+| class="adr" | <span class="region">Warwickshire</span>
+| class="note" | {{coor d|52.27|N|01.63|W|region:GB}}
+| class="note" | {{gbmappingsmall|SP2564}}
+|- class="vcard"
+| class="fn org" | [[Hampton Park]]
+| class="adr" | <span class="region">City of Southampton</span>
+| class="note" | {{coor d|50.93|N|01.38|W|region:GB}}
+| class="note" | {{gbmappingsmall|SU4315}}
+|- class="vcard"
+| class="fn org" | [[Hampton Park]]
+| class="adr" | <span class="region">Hereford and Worcester</span>
+| class="note" | {{coor d|52.04|N|02.68|W|region:GB}}
+| class="note" | {{gbmappingsmall|SO5339}}
+|- class="vcard"
+| class="fn org" | [[Hampton Poyle]]
+| class="adr" | <span class="region">Oxfordshire</span>
+| class="note" | {{coor d|51.83|N|01.27|W|region:GB}}
+| class="note" | {{gbmappingsmall|SP5015}}
+|- class="vcard"
+| class="fn org" | [[Hamptons, Kent|Hamptons]]
+| class="adr" | <span class="region">Kent</span>
+| class="note" | {{coor d|51.24|N|00.31|E|region:GB}}
+| class="note" | {{gbmappingsmall|TQ6252}}
+|- class="vcard"
+| class="fn org" | [[Hampton Wick]]
+| class="adr" | <span class="region">Richmond Upon Thames</span>
+| class="note" | {{coor d|51.40|N|00.31|W|region:GB}}
+| class="note" | {{gbmappingsmall|TQ1769}}
+|- class="vcard"
+| class="fn org" | [[Hamptworth]]
+| class="adr" | <span class="region">Wiltshire</span>
+| class="note" | {{coor d|50.97|N|01.65|W|region:GB}}
+| class="note" | {{gbmappingsmall|SU2419}}
+|- class="vcard"
+| class="fn org" | [[Hamrow]]
+| class="adr" | <span class="region">Norfolk</span>
+| class="note" | {{coor d|52.78|N|00.83|E|region:GB}}
+| class="note" | {{gbmappingsmall|TF9124}}
+|- class="vcard"
+| class="fn org" | [[Hamsey]]
+| class="adr" | <span class="region">East Sussex</span>
+| class="note" | {{coor d|50.89|N|00.00|E|region:GB}}
+| class="note" | {{gbmappingsmall|TQ4112}}
+|- class="vcard"
+| class="fn org" | [[Hamsey Green]]
+| class="adr" | <span class="region">Surrey</span>
+| class="note" | {{coor d|51.31|N|00.06|W|region:GB}}
+| class="note" | {{gbmappingsmall|TQ3559}}
+|- class="vcard"
+| class="fn org" | [[Hamshill]]
+| class="adr" | <span class="region">Gloucestershire</span>
+| class="note" | {{coor d|51.70|N|02.33|W|region:GB}}
+| class="note" | {{gbmappingsmall|SO7701}}
+|- class="vcard"
+| class="fn org" | [[Hamstall Ridware]]
+| class="adr" | <span class="region">Staffordshire</span>
+| class="note" | {{coor d|52.76|N|01.85|W|region:GB}}
+| class="note" | {{gbmappingsmall|SK1019}}
+|- class="vcard"
+| class="fn org" | [[Hamstead, West Midlands|Hamstead]]
+| class="adr" | <span class="region">Sandwell</span>
+| class="note" | {{coor d|52.53|N|01.94|W|region:GB}}
+| class="note" | {{gbmappingsmall|SP0493}}
+|- class="vcard"
+| class="fn org" | [[Hamstead, Isle of Wight|Hamstead]]
+| class="adr" | <span class="region">Isle of Wight</span>
+| class="note" | {{coor d|50.72|N|01.44|W|region:GB}}
+| class="note" | {{gbmappingsmall|SZ3991}}
+|- class="vcard"
+| class="fn org" | [[Hamstead Marshall]]
+| class="adr" | <span class="region">Berkshire</span>
+| class="note" | {{coor d|51.38|N|01.41|W|region:GB}}
+| class="note" | {{gbmappingsmall|SU4165}}
+|- class="vcard"
+| class="fn org" | [[Hamsterley, Consett|Hamsterley]]
+| class="adr" | <span class="region">Durham</span>
+| class="note" | {{coor d|54.89|N|01.82|W|region:GB}}
+| class="note" | {{gbmappingsmall|NZ1156}}
+|- class="vcard"
+| class="fn org" | [[Hamsterley, Bishop Auckland|Hamsterley]]
+| class="adr" | <span class="region">Durham</span>
+| class="note" | {{coor d|54.67|N|01.83|W|region:GB}}
+| class="note" | {{gbmappingsmall|NZ1131}}
+|- class="vcard"
+| class="fn org" | [[Hamsterley Forest]]
+| class="adr" | <span class="region">Durham</span>
+| class="note" | {{coor d|54.65|N|01.93|W|region:GB}}
+| class="note" | {{gbmappingsmall|NZ042283}}
+|- class="vcard"
+| class="fn org" | [[Hamstreet]]
+| class="adr" | <span class="region">Kent</span>
+| class="note" | {{coor d|51.06|N|00.85|E|region:GB}}
+| class="note" | {{gbmappingsmall|TR0033}}
+|- class="vcard"
+| class="fn org" | [[Ham Street]]
+| class="adr" | <span class="region">Somerset</span>
+| class="note" | {{coor d|51.10|N|02.64|W|region:GB}}
+| class="note" | {{gbmappingsmall|ST5534}}
+|- class="vcard"
+| class="fn org" | [[Ham, The]]
+| class="adr" | <span class="region">Wiltshire</span>
+| class="note" | {{coor d|51.26|N|02.20|W|region:GB}}
+| class="note" | {{gbmappingsmall|ST8652}}
+|- class="vcard"
+| class="fn org" | [[Hamworthy]]
+| class="adr" | <span class="region">Poole</span>
+| class="note" | {{coor d|50.71|N|02.01|W|region:GB}}
+| class="note" | {{gbmappingsmall|SY9991}}
+|}

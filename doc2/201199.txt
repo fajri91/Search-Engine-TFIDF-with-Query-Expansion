@@ -1,0 +1,51 @@
+Blandy, Seine-et-Marne
+{{French commune|
+name=Blandy|
+image_map = France_jms.png |
+x = 147 |
+y = 82 |
+lat_long={{coord|48|34|01|N|2|46|58|E}}|
+insee=77034|
+postal_code=77115|
+rgion=[[le-de-France (region)|le-de-France]]|
+dpartement=[[Seine-et-Marne]]|
+arrondissement=Melun|
+canton=[[Kanton Le Chtelet-en-Brie|Le Chtelet-en-Brie]]|
+mayor=Eric Cadiou|
+term=2008-2014|
+intercomm=[[Communaut de communes de la Rgion du Chtelet-en-Brie]]|
+elevation_min_m=59|
+elevation_max_m=104|
+area_km2=14.02|
+population=721|
+date-population=1999|
+density_km2=51|
+date-density=1999}}
+
+'''Blandy''' (juga dikenal sebagai '''Blandy-les-Tours''') merupakan sebuah [[komune di Perancis|komune]] di [[departemen di Perancis|departemen]] [[Seine-et-Marne]] di [[region di Perancis|region]] [[le-de-France (region)|le-de-France]] di utara-tengah [[Perancis]].
+
+== Demografi ==
+Pada [[sensus]] 1999, penduduknya berjumlah 721 jiwa.
+
+Penduduknya disebut sebagai ''Blandynois''.
+
+== Tempat menarik ==
+* [[Chteau de Blandy-les-Tours]]
+* Gereja Saint Maurice's (abad ke-14 dan 16)
+
+== Lihat pula ==
+* [[Komune di departemen Seine-et-Marne]]
+
+== Pranala luar ==
+{{commons|Category:Blandy-les-Tours|Blandy, Seine-et-Marne}}
+* [http://www.iaurif.org/en/gis/fichescom/mos99/ficmos/mos77034.html 1999 Land Use, from IAURIF (Institute for Urban Planning and Development of the Paris-le-de-France rgion] {{en}}
+* [http://www.culture.gouv.fr/public/mistral/merimee_fr?ACTION=CHERCHER&FIELD_98=INSEE&VALUE_98=77034 French Ministry of Culture list for Blandy] {{fr}}
+* [http://www.viamichelin.co.uk/viamichelin/gbr/dyn/controller/mapPerformPage?strAddress=&strCP=77115&strLocation=Blandy-les-Tours&strCountry=1424&image2.x=28&image2.y=7 Map of Blandy on Michelin] {{en}}
+
+{{Komune di Seine-et-Marne}}
+
+[[Kategori:Komune di Seine-et-Marne]]
+[[Kategori:Komune di Perancis]]
+
+
+{{SeineMarne-geo-stub}}

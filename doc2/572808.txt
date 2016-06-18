@@ -1,0 +1,71 @@
+2006 SQ131
+{{Infobox Planet 
+|minorplanet = yes 
+|width = 25em 
+|bgcolour = 
+|apsis = 
+|name = 2006 SQ131
+|symbol = 
+|image = 
+|caption = 
+|discovery = yes 
+|discovery_ref = 
+|discoverer = 
+|discovery_site = 
+|discovered = 
+|designations = yes
+|mp_name = 
+|alt_names = 
+|mp_category = 
+|orbit_ref = 
+|epoch = 
+|aphelion =2.247
+|perihelion =1.196
+|semimajor =1.722
+|eccentricity =0.305
+|period = 
+|avg_speed = 
+|inclination =12.8
+|asc_node =185.0
+|mean_anomaly =60.1
+|arg_peri =166.4
+|satellites = 
+|physical_characteristics = yes 
+|dimensions = 
+|mass = 
+|density = 
+|surface_grav = 
+|escape_velocity = 
+|sidereal_day = 
+|axial_tilt = 
+|pole_ecliptic_lat = 
+|pole_ecliptic_lon = 
+|albedo = 
+|temperatures= 
+|temp_name1 = 
+|mean_temp_1 = 
+|max_temp_1 = 
+|temp_name2 = 
+|max_temp_2 = 
+|spectral_type = 
+|abs_magnitude =22.6
+}}
+'''2006 SQ131''' adalah sebuah [[asteroid]]. Asteroid ini merupakan bagian dari [[asteroid Amor]], yang terletak dekat dengan [[bumi]]. [[Eksentrisitas orbit]] asteroid ini tercatat sebesar 0.305, sementara [[magnitudo mutlak]]nya adalah 22.6.
+
+== Pembentukan ==
+
+Seperti asteroid secara keseluruhan, asteroid ini terbentuk dari [[nebula]] [[matahari]] primordial sebagai pecahan [[planetisimal]], sesuatu di nebula matahari muda yang tidak cukup besar untuk berubah menjadi [[planet]].<ref>{{cite web | title=What Are Asteroids And Comets? | url=http://neo.jpl.nasa.gov/faq/#ast | work=Near Earth Object Program FAQ | publisher=[[NASA]] | accessdate=13 September 2010 | archiveurl=http://web.archive.org/web/20100909210213/http://neo.jpl.nasa.gov/faq/ | archivedate=9 September 2010 | deadurl=no}}</ref>
+
+== Referensi ==
+
+{{Reflist}}
+
+== Pranala luar ==
+
+* [http://www.minorplanetcenter.net/iau/lists/t_amors.html Daftar asteroid Amor] - ''The International Astronomical Union Minor Planet Center.''
+
+{{Asteroid Amor}}
+
+{{asteroid-stub}}
+
+[[Kategori:Asteroid Amor]]

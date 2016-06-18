@@ -1,0 +1,77 @@
+Kimia komputasi
+'''Kimia komputasi''' adalah cabang [[kimia]] yang menggunakan hasil [[kimia teori]] yang diterjemahkan ke dalam [[program komputer]] untuk menghitung sifat-sifat molekul dan perubahannya maupun melakukan simulasi terhadap sistem-sistem besar (makromolekul seperti protein atau sistem banyak molekul seperti gas, cairan, padatan, dan kristal cair), dan menerapkan program tersebut pada sistem kimia nyata. Contoh sifat-sifat molekul yang dihitung antara lain struktur (yaitu letak atom-atom penyusunnya), energi dan selisih energi, muatan, momen dipol, kereaktifan, frekuensi getaran dan besaran spektroskopi lainnya. Simulasi terhadap makromolekul (seperti protein dan asam nukleat) dan sistem besar bisa mencakup kajian konformasi molekul dan perubahannya (mis. proses denaturasi protein), perubahan fase, serta peramalan sifat-sifat makroskopik (seperti kalor jenis) berdasarkan perilaku di tingkat atom dan molekul. Istilah ''kimia komputasi'' kadang-kadang digunakan juga untuk bidang-bidang tumpang-tindah antara ilmu komputer dan kimia.
+
+== Pandahuluan ==
+Istilah ''kimia teori'' dapat didefinisikan sebagai deskripsi matematika 
+untuk kimia, sedangkan kimia komputasi biasanya digunakan ketika metode matematika dikembangkan dengan cukup baik untuk dapat digunakan dalam program komputer. Perlu dicatat bahwa kata "tepat" atau "sempurna" tidak muncul di sini, karena sedikit sekali aspek kimia yang dapat dihitung secara tepat. Hampir semua aspek kimia dapat digambarkan dalam skema komputasi kualitatif atau kuantitatif hampiran.
+
+Molekul terdiri atas inti dan elektron, sehingga diperlukan metode mekanika kuantum. Kimiawan komputasi sering berusaha memecahkan persamaan Schrdinger non-relativistik, dengan penambahan koreksi relativistik, walaupun beberapa perkembangan telah dilakukan untuk memecahkan persamaan Schrdinger yang sepenuhnya relativistik. Pada prinsipnya persamaan Schrdinger mungkin diselesaikan, baik dalam bentuk bergantung-waktu atau tak-bergantung-waktu, disesuaikan dengan masalah yang dikaji, tetapi pada praktiknya tidak mungkin kecuali untuk sistem yang amat kecil. Karena itu, sejumlah besar metode hampiran dikembangkan untuk mencapai kompromi terbaik antara ketepatan perhitungan dan biaya komputasi.
+
+Dalam kimia teori, kimiawan dan fisikawan secara bersama mengembangkan algoritma dan program komputer untuk memungkinkan peramalan sifat-sifat atom dan molekul, dan/atau lintasan reaksi untuk reaksi kimia, serta simulasi sistem makroskopis. Kimiawan komputasi kebanyakan sekadar menggunakan program komputer dan metodologi yang ada dan menerapkannya untuk permasalahan kimia tertentu. Di antara sebagian besar waktu yang digunakan untuk hal tersebut, kimiawan komputasi juga dapat terlibat dalam pengembangan algoritma baru, maupun pemilihan teori kimia yang sesuai, agar diperoleh proses komputasi yang paling efisien dan akurat.
+
+Terdapat beberapa pendekatan yang dapat dilakukan:
+
+# Kajian komputasi dapat dilakukan untuk menemukan titik awal untuk sintesis dalam laboratorium. 
+# Kajian komputasi dapat digunakan untuk menjelajahi mekanisme reaksi dan menjelaskan pengamatan pada reaksi di laboratorium.
+# Kajian komputasi dapat digunakan untuk memahami sifat dan perubahan pada sistem makroskopis melalui simulasi yang berlandaskan hukum-hukum interaksi yang ada dalam sistem.
+
+Terdapat beberapa bidang utama dalam topik ini, antara lain:
+
+* Penyajian komputasi [[atom]] dan [[molekul]] 
+* Pendekatan dalam penyimpanan dan pencarian spesi kimia ([[Basisdata kimia]])
+* Pendekatan dalam penentuan pola dan hubungan antara struktur kimia dan sifat-sifatnya ([[HSSK|QSPR]], [[HSKK|QSAR]]). 
+* Elusidasi struktur secara teoretis berdasarkan pada simulasi gaya-gaya 
+* Pendekatan komputasi untuk membantu sintesis senyawa yang efisien 
+* Pendekatan komputasi untuk merancang molekul yang berinteraksi lewat cara-cara yang khusus, khususnya dalam [[perancangan obat]]. 
+* Simulasi proses transisi fase
+* Simulasi sifat-sifat bahan seperti polimer, logam, dan kristal (termasuk kristal cair).
+
+Program yang digunakan dalam kimia komputasi didasarkan pada berbagai metode kimia-kuantum yang memecahkan [[persamaan Schrdinger]] untuk molekul, maupun pendekatan fisika klasik ([[mekanika molekul]]) untuk simulasi sistem yang besar. Metode kimia-kuantum yang tidak mencakup parameter empiris dan semi-empiris dalam persamaannya disebut metode [[ab-initio]]. Jenis-jenis metode ab-initio yang populer adalah: [[Hartree-Fock]], [[teori gangguan Mller-Plesset]], [[interaksi konfigurasi]], ''[[coupled cluster]]'', [[matriks kerapatan tereduksi]], dan [[teori fungsi kerapatan]].
+
+== Komputasi Molekul ==
+
+Sifat-sifat molekul, seperti energi, struktur, momen dipol, keterpolaran, atau ''hyperpolarizability'' merupakan beberapa besaran yang dapat dihitung lewat perhitungan. Dalam komputasi molekul, terdapat beberapa teknik untuk menghitung sifat-sifat molekul, yaitu [[mekanika molekul]], [[teori fungsi kerapatan]] atau [[teori struktur elektron]].
+
+== Paket Perangkat Lunak ==
+Sejumlah paket perangkat lunak menyediakan berbagai metode kimia-kuantum. Di antara yang luas digunakan adalah:
+
+* Gaussian 
+* Gamess 
+* Q-Chem 
+* ACES 
+* Dalton 
+* Spartan 
+* Psi 
+* PLATO (Package for Linear Combination of Atomic Orbitals)
+* [[MOLCAS]]
+* [[MOLPRO]]
+* [[MPQC]]
+* [[NWChem]]
+* [[PSI (computational chemistry)|Psi3]]
+* [[PC GAMESS]]
+* [[Spartan (software)|Spartan]]
+* [[TURBOMOLE]]
+
+== Lihat pula ==
+{{portalkimia}}
+* [[Mekanika kuantum]]
+* [[Kimia kuantum]] 
+* [[Mekanika molekul]] 
+* [[Mekanika statistik]]
+* [[Teori fungsi kerapatan]] 
+* [[Medan gaya]]
+* [[Pemodelan molekul]] 
+* [[Dinamika molekul]] 
+* [[Metode Monte-Carlo]]
+* [[HSSK|QSPR]]
+* [[Daftar penerbitan dalam kimia#Kimia komputasi|Penerbitan penting dalam kimia komputasi]]
+* [[Bioinformatika]]
+
+== Rujukan ==
+* [http://en.wikipedia.org/wiki/Computational_chemistry Computational Chemistry] dari Wikipedia berbahasa Inggris.
+* Christopher J. Cramer, ''Essentials of Computational Chemistry: Theories and Models'', 2nd edition, 2004.
+* David C. Young, ''Computational Chemistry'', 2001
+
+{{CabangKimia}}
+
+[[Kategori:Kimia komputasi| ]]

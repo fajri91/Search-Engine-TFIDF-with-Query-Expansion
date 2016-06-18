@@ -1,0 +1,39 @@
+Digit
+{{terjemah|Inggris}}
+
+[[Berkas:Arabic Numerals.svg|thumb|400px|10 digit dari [[Angka Arab]], diurutkan berdasarkan nilainya.]]
+
+'''Digit''' atau '''Angka''' adalah sebuah simbol (simbol untuk nomor, contohnya "3" atau "7") digunakan pada bilangan (paduan dari simbol, misalnya "37"), untuk menggambarkan [[nomor]] ([[bilangan bulat]] atau [[bilangan riil]]) pada [[Notasi posisional]] di [[sistem bilangan]]. Kata digit berasal dari bahasa latin kuno, yaitu ''digita'', yang berarti 10 jari tangan manusia yang berhubungan dengan sistem bilangan basis 10.
+
+== Pendahuluan ==
+
+=== Nilai sebuah digit ===
+
+=== Perhitungan nilai berdasarkan tempatnya ===
+
+== Sejarah ==
+
+=== Sistem bilangan lain yang menggunakan digit ===
+
+== Sistem digit modern ==
+
+=== Sistem yang tidak biasa ===
+
+== Digit dalam matematika ==
+
+=== Akar Digit ===
+5
+
+=== Casting out nines ===
+
+=== Repunits and repdigits ===
+{{tambah_infobox}}
+
+=== Bilangan Palindromic dan bilangan Lychrel ===
+
+== Lihat Juga ==
+
+==Referensi==
+
+<!--interwiki-->
+[[Kategori:Sistem bilangan]]

@@ -1,0 +1,51 @@
+Laju alir volumetrik
+{{Confused|Laju alir massa}}
+{{Infobox physical quantity
+|bgcolour={default}
+|name        = Laju alir volumetrik
+|image       =
+|caption     =
+|unit        = m<sup>3</sup>/s
+|symbols     = ''<math>\dot{V}</math>, <math>Q</math>''
+|derivations =
+}}
+{{Termodinamika}}
+
+Pada [[fisika]] dan [[teknik]], terutama [[dinamika fluida]] dan [[hidrometri]], '''laju alir volumetrik''' adalah volume fluida yang mengalir per satuan waktu. [[Satuan SI]]nya adalah m<sup>3</sup>/s ([[meter kubik per sekon]]). Satuan Inggris yang digunakan adalah ft<sup>3</sup>/s ([[kaki kubik]] per sekon) dan di Amerika digunakan [[galon per menit]]. Simbolnya ''Q''.
+
+Laju alir volumetrik tidak sama dengan [[fluks volumetrik]], yang didefinisikan oleh [[Hukum Darcy]] dengan simbol ''q'', satuannya m<sup>3</sup>/(m<sup>2</sup>s), atau ms<sup>1</sup>. Integrasi [[fluks]] terhadap luas menghasilkan laju alir volumetrik.
+
+==Definisi dasar==
+Laju alir volumetrik didefinisikan oleh [[limit fungsi|limit]]:<ref>http://www.engineersedge.com/fluid_flow/volumeetric_flow_rate.htm</ref>
+
+:<math> Q = \lim\limits_{\Delta t \rightarrow 0}\frac{\Delta V}{ \Delta t}= \frac{{\rm d}V}{{\rm d}t}</math>
+
+Laju alir volumetrik merupakan besaran skalar.
+
+==Definisi umum==
+Laju alir volumetrik juga dapat didefinisikan sebagai:
+:<math>Q = \vec{v} \cdot \vec{A} </math>
+
+dimana:
+*<math>\vec{v}</math> = [[kecepatan alir]] elemen substansi
+*<math>\vec{A}</math> = [[Cross section (geometri)|''cross-sectional]] [[vector area]]''
+
+Persamaan diatas hanya benar untuk luasan yang datar. Secara umum, termasuk permukaan lengkung, persamaan diatas menjadi [[integral permukaan]]:
+:<math>Q = \iint_A \vec{v} \cdot {\rm d}\vec{A} </math>
+
+Definisi ini digunakan pada praktik. [[Luas]]an yang digunakan untuk menghitung Laju alir volumetrik dapat datar atau lengkungan, berupa ''cross-sectional area'' atau permukaan. [[Luas vektor]] adalah kombinasi besaran vektor dimana volume mengalir, ''A'', dan [[vektor satuan]] normal terhadap luasan, <math>\bold{\hat{n}}</math>. Hubungannya adalah <math>\vec{A} = A \bold{\hat{n}}</math>.
+
+Ketika [[laju alir massa]] diketahui, maka mudah untuk mendapatkan <math>\dot{V}</math>.
+
+<math>\dot{V} = 
+ \frac{\dot{m}}{\rho}
+ </math>
+
+dengan
+*'''<math>\dot{m}</math>''' = [[laju alir massa]] ''(kg/s)''.
+*<math>\rho</math> = [[densitas]] ''(kg/m<sup>3</sup>)''.
+
+==Referensi==
+{{reflist}}
+
+[[Kategori:Fluida dinamis]]

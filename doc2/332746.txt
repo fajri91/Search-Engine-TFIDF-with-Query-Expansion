@@ -1,0 +1,31 @@
+Templat:Sardinia
+{{Navbox
+|name = Sardinia
+|state = {{{state|}}}
+| listclass = hlist
+| title = [[Berkas:Flag_of_the_Italian_region_Sardinia.svg|25px]] [[Sardinia]]
+|image = [[File:Sardegna-Stemma.svg|35px]]
+|groupstyle = padding:0.2em 1.0em; line-height:1.1em; <!--reduces wide gap between wrapped 
+groupname lines-->
+|liststyle = padding:0.4em 0; line-height:1.4em; <!--otherwise lists can appear to form continuous whole-->
+|oddstyle  = background:#f7f7f7;
+|evenstyle = background:transparent; 
+|group1 = [[Provinsi Italia|Provinsi <br />dan tempat]]
+|list1 = [[Provinsi Cagliari|Cagliari]]  [[Provinsi Carbonia-Iglesias|Carbonia-Iglesias]]  [[Provinsi Medio Campidano|Medio Campidano]]  [[Provinsi Nuoro|Nuoro]]  [[Provinsi Ogliastra|Ogliastra]]  [[Provinsi Olbia-Tempio|Olbia-Tempio]]  [[Provinsi Oristano|Oristano]]  [[Provinsi Sassari|Sassari]]
+}}<noinclude>
+[[Kategori:Templat pembagian administratif Italia|*Sardinia]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</noinclude>

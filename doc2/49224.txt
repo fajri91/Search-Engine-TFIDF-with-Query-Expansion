@@ -1,0 +1,85 @@
+Fulda (distrik)
+{| cellpadding="2" style="float: right; width: 307px; background: #e3e3e3; margin-left: 1em; border-spacing: 1px;"
+! Lambang
+! Peta
+|- style="background: #ffffff; text-align: center;"
+| style="width: 145px;" | [[Berkas:Wappen Landkreis Fulda.png|140px|Lambang Fulda]]
+| style="width: 145px;" | [[Berkas:Lage des Landkreises Fulda in Deutschland.GIF|140px|Lokasi Fulda di Jerman]]
+|-
+! colspan="2" | Data dasar
+|- style="background: #ffffff;"
+| <[[Daftar Negara Bagian Jerman|Negara bagian]]: || [[Hessen]]
+|- style="background: #ffffff;"
+| ''[[Regierungsbezirk]]'': || [[Regierungsbezirk Kassel|Kassel]]
+|- style="background: #ffffff;"
+| [[Ibu kota]]: || [[Fulda]]
+|- style="background: #ffffff;"
+| [[Wilayah]]: || 1.380,40 [[Kilometer persegi|km]]
+|- style="background: #ffffff;"
+| [[Penduduk]]: || 219.813 <small>''(31 Desember 2005)''</small>
+|- style="background: #ffffff;"
+| [[Kepadatan penduduk]]: || 159 jiwa per km
+|- style="background: #ffffff;"
+| Nomor pelat kendaraan bermotor: || FD
+|- style="background: #ffffff;"
+| Pembagian administratif: || 23 ''[[Gemeinde]]n''
+|- style="background: #ffffff;"
+| Alamat kantor bupati: || Wrthstrae 15{{br}}36037 Fulda
+|- style="background: #ffffff;"
+| Situs web resmi: || [http://www.landkreis-fulda.de/ www.landkreis-fulda.de]
+|-
+! colspan="2" | Politik
+|- style="background: #ffffff;"
+| [[Bupati]]: || Bernd Woide ([[Christlich Demokratische Union Deutschlands|CDU]])
+|-
+! colspan="2" | Peta
+|- style="background: #ffffff;"
+! colspan="2" | [[Berkas:Hesse fd.png|Lokasi Fulda di Hessen]]
+|}
+'''Fulda''' merupakan satu distrik yang terletak di bagian timur negara bagian [[Hessen]], [[Jerman]]. Pusat pemerintahannya terletak di [[Fulda]], suatu kota yang pernah berperan penting dalam [[Agama Kristen|kristenisasi]] suku-suku Teutonik (suku Jermanik) yang mendiami wilayah Jerman sekarang.
+
+== Kota dan kotamadya ==
+{|
+! width=33% align=left|Kota
+! width=33% align=left|Kotamadya
+! width=33% align=left|
+|- valign=top
+||
+# [[Fulda]]
+# [[Gersfeld]]
+# [[Hnfeld]]
+# [[Tann, Fulda|Tann]]
+||
+# [[Bad Salzschlirf]]
+# [[Burghaun]]
+# [[Dipperz]]
+# [[Ebersburg]]
+# [[Ehrenberg, Hessen|Ehrenberg]]
+# [[Eichenzell]]
+# [[Eiterfeld]]
+# [[Flieden]]
+# [[Groenlder]]
+# [[Hilders]]
+||
+<ol start=11>
+<li>[[Hofbieber]]
+<li>[[Hosenfeld]]
+<li>[[Kalbach]]
+<li>[[Knzell]]
+<li>[[Neuhof, Fulda|Neuhof]]
+<li>[[Nsttal]]
+<li>[[Petersberg, Fulda|Petersberg]]
+<li>[[Poppenhausen, Hessen|Poppenhausen]]
+<li>[[Rasdorf]]
+</ol>
+|}
+
+{{cities and towns in Fulda (district)}}
+{{Hessen}}
+
+[[Kategori:Hessen]]
+[[Kategori:Distrik di Hessen]]
+[[Kategori:Distrik di Jerman]]
+
+
+{{Jerman-geo-stub}}

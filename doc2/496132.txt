@@ -1,0 +1,41 @@
+Andkhoy, Faryab
+{{Infobox settlement
+|name                        = Andkhoy
+|native_name                 = 
+|settlement_type=[[Distrik di Afghanistan|Distrik]]
+|image_map                   =
+|pushpin_map            = Afghanistan <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position =bottom
+|pushpin_mapsize        =300
+|pushpin_map_caption    =Lokasi di Afghanistan
+|latd= 36|latm= 57|lats= 11|latNS=N |longd= 65|longm=7|longs= 10|longEW=E
+|subdivision_type       = [[Negara]]
+|subdivision_name       = {{flag|Afghanistan}}
+|subdivision_type1      = [[Provinsi di Afganistan|Provinsi]]
+|subdivision_name1      = [[Provinsi Faryab]]
+|government_type             =
+|population_as_of               = 2006
+|population_footnotes           =<ref>{{en}} {{cite web|url=http://foodsecurityatlas.org/afg/country/provincial-Profile/Faryab|title=Faryab Province|publisher=[[Program Pangan Dunia]]|accessdate=2012-09-8}}</ref>
+|population_total               = 41,656
+|timezone1              = [[UTC+4:30]]
+| postal_code_type        = Kode Pos
+| postal_code             = 1852
+}}
+
+'''Almar, Faryab''' adalah [[distrik]] di [[Provinsi Faryab]], [[Afghanistan]]. Jumlah penduduk di distrik ini pada tahun 2006 yaitu 41,656 jiwa.
+
+== Batas Wilayah ==
+* Utara : {{flag|Turkmenistan}}
+* Timur : [[Khani Chahar Bagh, Faryab|Khani Chahar Bagh]]
+* Selatan : [[Qaramqol, Faryab|Qaramqol]]
+* Barat : {{flag|Turkmenistan}}
+
+== Referensi ==
+{{reflist}}
+
+{{Distrik di Faryab}}
+
+[[Kategori:Distrik di Provinsi Faryab]]
+
+
+{{Faryab-geo-stub}}

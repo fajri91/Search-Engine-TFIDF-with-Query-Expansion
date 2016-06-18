@@ -1,0 +1,40 @@
+Henophidia
+{{Taxobox
+| name = Henophidia
+| image = Python molure 13.JPG
+| image_caption = ''[[Python molurus]]''
+| regnum = [[Animalia]]
+| phylum = [[Chordata]]
+| classis = [[Reptilia]]
+| ordo = [[Squamata]]
+| subordo = [[Serpentes]]
+| superfamilia = '''Henophidia'''
+| subdivision_ranks = Famili
+}}
+
+'''Henophidia''' adalah sebuah [[superfamili]] dalam subordo Serpentes ([[ular]]) yang meliputi [[boidae|boa]], [[Pythonidae]] dan sebagainya. Ular yang tergolong dalam superfamili Henophidia dianggap lebih primitif dibanding superfamili yang lain seperti [[Typhlopoidea]] dan [[Xenophidia]].
+
+== Etimologi ==
+''Henophidia'' berasal dari [[bahasa Yunani]] ''heno-'' yang bererti 'satu;<ref>[http://www.wordinfo.info/words/index/info/view_unit/973/ ''heno-''] di [http://www.wordinfo.info wordinfo.info]</ref> atau 'dahulu' dan ''ophidia'' yang bererti 'ular',<ref>[http://www.wordinfo.info/words/index/info/view_unit/1485/?letter=O&spage=4 ''-ophidia''] di [http://www.wordinfo.info wordinfo.info]</ref> jadi ''ular terdahulu'' (berlawanan dengan [[Caenophidia]], yang berarti ''ular terbaharu'').
+
+== Famili ==
+* [[Aniliidae]]
+* [[Anomochilidae]]
+* [[Boidae]]
+* [[Bolyeriidae]]
+* [[Cylindrophiidae]]
+* [[Loxocemidae]]
+* [[Sanca|Pythonidae]]
+* [[Tropidophiidae]]
+* [[Uropeltidae]]
+* [[Xenopeltidae]]
+
+== Catatan kaki ==
+{{Reflist}}
+
+{{Wikispecies|Henophidia}}
+
+[[Kategori:Ular]]
+
+
+{{hewan-stub}}

@@ -1,0 +1,27 @@
+Sinyal gelombang mikro
+{{Orphan|date=April 2016}}
+
+'''Gelombang mikro''' merupakan salah satu yang termasuk dalam radiasi [[elektromagnetik]]. [[Radiasi elektromagnetik]] berbentuk [[gelombang elektromagnetik]], yaitu [[gelombang]] yang dalam perambatannya tidak membutuhkan medium. Radiasi elektromagnetik ini meliputi gelombang radio, gelombang mikro (microwaves), radiasi infra-red, gelombang UV, sinar X, dan sinar Y, yang mana semua radiasi tersebut memiliki persamaan, yakni sama-sama membentuk spektrum elektromagnetik yang bergerak dengan kecepatan cahaya. Perbedaannya adalah pada panjang gelombangnya. Panjang gelombang ialah jarak yang ditempuh sebuah gelombang untuk membentuk satu siklus yang sempurna. Panjang gelombang terkait dengan jumlah energi yang dibawa oleh gelombang. Gelombang mikro merupakan sistem pelaksanaan hubungan komunikasi dengan pemancar radio dengan menggunakan gelombang-gelombang yang pendek (mikro). Gelombang mikro ini bergerak dalam satu arah garis lurus (one point line-of-sight) dan mempunyai panjang gelombang yang lebih pendek dibandingkan dengan sistem radio komunikasi biasa.
+
+==Cara Kerja Sinyal Gelombang Mikro==
+Stasiun gelombang mikro bekerja dengan bantuan dari antenna, perangkat penerima, dan peralatan lainnya yang dibutuhkan untuk transmisi data komunikasi  dengan gelombang mikro. Sinyal gelombang mikro dapat melakukan transmisi data dengan kecepatan mencapai 45 Mbps, namun karena sinyal gelombang mikro ini bergerak dalam satu arah garis lurus, maka baik pemancarnya (transmitter) maupun penerimanya (receiver) harus berada dalam satu garis pandang (one point line of sight). Sehingga pemasangan pusat dari gelombang mikro ini harus diperhatikan sekali letak dan posisinya untuk menghindari kemungkinan gangguan. Maka dari itu stasiun gelombang mikro seringkali ditempatkan di puncak-puncak gedung, menara, ataupun gunung.
+
+==Keunggulan==
+*Perambatannya relatif cepat, (dikarenakan gelombangnya yang pendek)
+*Efisiensi biaya, biasanya biayanya cukup murah
+*Mudah untuk diimplementasikan dan diinstalasi
+
+==Kelemahan==
+*Mudah terinferensi, atau mudah terganggu oleh gelombang radio yang lain, bahkan oleh dua sistem transmisi gelombang mikro yang berdekatan sekalipun juga dapat terganggu.
+*Dalam proses transmisi antara pemancar dan penerima sinyal diharuskan berada dalam garis pandang serta tidak ada penghalang
+
+==Daftar Pustaka==
+*Grant, August E & Meadows, Jennifer H. (eds.) 2008. Communication Technology Update and Fundamental. Eleventh Edition. Boston: Focal Press (AG)
+*Amsyah, MLS., Zulkifli. 2005. Manajemen Sistem Informasi. Jakarta: PT Gramedia Pustaka Utama
+
+[[Kategori:Elektromagnetisme]]
+[[Kategori:Radiasi elektromagnetik]]
+[[Kategori:Fisika]]
+
+
+{{fisika-stub}}

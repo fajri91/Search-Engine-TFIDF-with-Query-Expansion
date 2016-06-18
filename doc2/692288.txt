@@ -1,0 +1,20 @@
+Africa/Banjul
+{{Infobox IANA time zone}}
+'''Africa/Banjul''' adalah tanda pengenal [[zona waktu]] untuk berkas zona di [[basis data zona waktu IANA]]. Rincian datanya sebagai berikut:
+
+ {{tz/country code|Africa/Banjul}}
+ {{tz/coordinates|Africa/Banjul}}
+ Africa/Banjul
+ {{tz/comments|Africa/Banjul}}
+
+Titik referensinya terletak di [[Banjul]].
+
+==Wilayah==
+Wilayah yang dicakup adalah [[Gambia]].
+
+== Lihat pula ==
+* [[Waktu di Gambia]]
+
+{{DEFAULTSORT:Africa Banjul}}
+[[Kategori:Waktu di Gambia]]
+[[Kategori:Basis Data Zona Waktu]]

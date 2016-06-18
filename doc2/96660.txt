@@ -1,0 +1,62 @@
+Patogen
+[[Berkas:EMpylori.jpg|right|thumb|250 px| ''Helicobacter pylori'' bakteri patogen pada pencernaan manusia]]
+'''Patogen''' ([[Bahasa Yunani]]: , "penyebab penderitaan") adalah [[agen biologis]] yang menyebabkan [[penyakit]] pada [[inang (biologi)|inangnya]].<ref name="Levinson"/> Sebutan lain dari patogen adalah [[mikroorganisme]] [[parasit]].<ref name="Madigan">Madigan MT, Martinko JM, Brock TD. 2006. ''Brock Biology of Microorgnisms''. New Jersey: Pearson Prentice Hall.</ref> Umumnya istilah ini diberikan untuk agen yang mengacaukan [[fisiologi]] normal [[hewan]] atau [[tumbuhan]] [[:en:multicellular|multiselular]]. Namun, patogen dapat pula menginfeksi organisme [[uniselular]] dari semua [[kerajaan (biologi)|kerajaan]] biologi.<ref name="Levinson"/> 
+
+Umumnya, hanya organisme yang sangat patogen yang dapat menyebabkan penyakit, sementara sisanya jarang menimbulkan penyakit. Patogen [[:en:Opportunistic infection|oportunis]] adalah patogen yang jarang menyebabkan penyakit pada orang-orang yang memiliki [[imunokompetensi]] (''immunocompetent'') namun dapat menyebabkan penyakit/[[infeksi]] yang serius pada orang yang tidak memiliki imunokompetensi ([[:en:Immunocompromised|''immunocompromised'']]).<ref name="Levinson"/> Patogen oportunis ini umumnya adalah anggota dari [[flora normal]] pada tubuh.<ref name="Levinson"/> Istilah oportunis sendiri merujuk kepada kemampuan dari suatu organisme untuk mengambil kesempatan yang diberikan oleh penurunan sistem pertahanan [[inang]] untuk menimbulkan penyakit.<ref name="Levinson">Warren Levinson. 2008. ''Review of Medical Microbiology & Immunology, Tenth Edition''. New York: The McGraw-Hill Companies, Inc</ref>
+
+Pada umumnya semua patogen pernah berada di luar [[sel (biologi)|sel]] [[tubuh]] dengan rentang waktu tertentu (ekstraselular) saat mereka terpapar oleh mekanisme [[antibodi]], namun saat patogen memasuki [[fase]] intraselular yang tidak terjangkau oleh antibodi, [[sel T]] akan memainkan perannya.<ref>{{en}}{{cite web
+| url          = http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=imm&part=A1322&rendertype=figure&id=A1328
+| title        = Figure 10.4. Pathogens found in various compartments of the body 
+| accessdate   = 2010-03-17
+| work         = Charles A. Janeway, et al.
+}}</ref> 
+
+== Virulensi ==
+[[Virulensi]] adalah derajat tingkat patogenitas yang diukur oleh banyaknya organisme yang diperlukan untuk menimbulkan penyakit pada jangka waktu tertentu.<ref name="Harvey"/><ref name="Madigan"/> Virulensi berkaitan erat dengan infeksi dan penyakit: [[infeksi]] merujuk pada suatu situasi di mana suatu mikroorganisme telah menetap dan tumbuh pada suatu inang, dalam hal ini mikrorganisme tersebut dapat melukai atau tidak melukai inangnya; sementara [[penyakit]] adalah kerusakan atau cedera pada inang yang mengganggu fungsi tubuh inang. <ref name="Madigan"/> Sebagai contoh, [[dosis]] [[letal]] 50%/ 50%''lethal dose'' (LD<sub>50</sub>) adalah jumlah organisme yang diperlukan untuk membunuh setengah dari jumlah inang yang diserang.<ref name="Harvey"/> Sementara dosis infeksius 50%/ 50%''infectious dose'' (ID<sub>50</sub>) adalah jumlah organisme patogen yang dibutuhkan untuk menginfeksi 50% dari total inang yang diserang. ID<sub>50</sub> dari tiap organisme berbeda-beda, sebagai contoh, [[Shigella|''Shigella'']] memiliki ID<sub>50</sub> kurang dari 100 organisme sementara [[Salmonella|''Salmonella'']] memiliki ID<sub>50</sub> sekitar 100.000 organisme.<ref name="Harvey"/> Dosis infeksius dari suatu organisme tergantung dari faktor virulensi mereka.<ref name="Harvey"/>
+
+=== Faktor Virulensi Bakteri ===
+# '''Transmisibilitas:''' Tahap pertama dari proses infeksi adalah masuknya mikroorganisme ke dalam inang melalui satu atau beberapa jalur: pernapasan, pencernaan (gastrointestinal), urogenitalia, atau kulit yang telah terluka. setelah masuk, patogen harus melalui brmacam-macam sistem pertahanan tubuh sebelum dapat hidup dan berkembangbiak di dalam inangnya.<ref name="Harvey"/> Contoh sistem pertahanan inang meliputi kondisi asam pada perut dan saluran urogenitalia, [[fagositosis]] oleh [[sel darah putih]], dan bermacam-macam enzim hidroitik dan proteolitik yang dapat ditemukan di kelenjar [[saliva]], perut, dan usus halus.<ref name="Harvey"/> Bakteri yang memiliki [[:en:Bacterial capsule|kapsul polisakarida]] di bagian luarnya seperti [[:en:Streptococcus pneumoniae|''Streptococcus pneumoniae'']] dan [[:en:Neisseria meningitidis|''Neisseria meningitidis'']] memiliki kesempatan lebih besar untuk bertahan hidup.<ref name="Harvey"/>
+# '''Pelekatan:''' Beberapa bakteri seperti [[Escherichia coli|''Escherichia coli'']] menggunakan [[:en:pili]] untuk melekat pada permukaan sel inang mereka.<ref name="Harvey"/> Bakteri lain memilki molekul adhesi/pelekatan pada permukaan sel mereka atau [[dinding sel]] yang [[:en:hydrophoic|hidrofobik]] seingga mereka dapat menempel pada [[membran sel]] inang.<ref name="Harvey"/> Pelekatan meningkatkan virulensi dengan cara mencegah bakteri terbawa oleh mukus atau organ karena aliran cairan seperti pada saluran urin dan pencernaan.<ref name="Harvey"/> 
+# '''Kemampuan invasif:''' bakteri invasif adalah bakteri yang dapat masuk ke dalam sel inang atau menembus permukaan kelenjar [[mukus]] sehingga menyebar dari titik awal infeksi.<ref name="Harvey"/> Kemampuan invasif didukung oleh adanya enzim yang mendegradasi [[matriks]] ektraseluler seperti [[:en:collagenase|kolagenase]].<ref name="Harvey"/>
+# '''Toksin bakteri:''' Beberapa bakteri memproduksi [[racun|toksin]] atau racun yang dapat dibagi menjadi dua jenis yaitu: [[endotoksin]] dan [[eksotoksin]].<ref name="Harvey"/> Eksotoksin adalh protein yang disekresikan oleh bakteri [[gram positif]] dan [[gram negatif]]. Di sisi lain, endotoksin adalah [[:en:Lipopolysaccharide|lipopolisakarida]] yang tidak disekresikan melainkan terdapat pada dinding sel bakteri gram negatif.<ref name="Harvey"> Harvey RA, Champe PC, Fisher BD, Strohl WA. 2007. ''Microbiology''. Philadelphia : Lippincott Williams & Wilkin</ref>
+
+== Klasifikasi ==
+Klasifikasi patogen terbagi menjadi:<ref>{{en}}{{cite web
+| url          = http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=imm&part=A1322&rendertype=figure&id=A1328
+| title        = Figure 10.3 A variety of microorganisms can cause disease
+| accessdate   = 2010-03-17
+| work         = Charles A. Janeway, et al.
+}}</ref> [[Virus]], [[bakteri]], [[fungi]], [[protozoa]] dan [[cacing]].
+=== Virus ===
+[[Virus]] adalah parasit yang bukan merupakan mahluk hidup namun memiliki materi genetik berupa [[asam nukleat]] ([[DNA]]/[[RNA]]) yang membutuhkan keberadaan sel [[prokariot]] atau [[eukariot]] yang hidup untuk melakukan [[replikasi]] atau perbanyakan dari asam nukleat tersebut.<ref name="Lerner"/> Virus dapat menginfeksi binatang, manusia, tanaman, fungi, bakteri, protozoa, serangga dan hampir semua jenis mahluk hidup.<ref name="Lerner"/> Contoh virus yang menyerang bakteri adalah [[:en:bacteriophage]] yang menyerang ''Escherichia coli''.<ref name="Lerner"/> Sementara pada manusia contohnya adalah [[:en:Human Immunodeficiency Virus]] (HIV) yang menyebabkan penyakit [[:en:Acquired Immunodeficiency Syndrome]] (AIDS) .<ref name="Lerner">Lerner KL, Lerner BW. 2003.'' World of Microbiology and Immunology''.Detroit : Gale</ref>
+
+=== Bakteri ===
+[[Bakteri]] yang termasuk dalam organisme [[prokariot]] selain memiliki kegunaan, juga bisa menimbulkan kerugian karena merupakan patogen yang umum pada mahluk hidup seperti manusia.<ref name="Ramos"/> Contohnya adalah bakteri patogen oportunis [[Pseudomonas aeruginosa|''Pseudomonas aeruginosa'']] yang dapat menginfeksi paru-paru sehingga dapat menimbulkan kematian.<ref name="Ramos"> Ramos JL, Filloux A. 2010. ''Pseudomonas. Volume 6, Molecular microbiology, infection and biodiversity''. Dordrecht : Springer Verlag 2010</ref> Selain ''P. aeruginosa'' bakteri patogen lain yang populer adalah ''[[Staphylococcus aureus]]'' yang adalah [[Mikroflora normal manusia]] pada permukaan kulit, mulut, dan hidung, namun pada saat sistem imun menurun, ''S. aureus'' akan bersifat patogen dan dapat menimbulkan penyakit seperti penggumpalan darah. <ref name="Madigan"/>
+
+=== Fungi ===
+[[Fungi]] adalah organisme prokariot yang termasuk dalam kingdom [[protista]] dengan sekitar 75.000 spesies yang sudah diidentifikasi.<ref name="Ramage"/>.Fungi dapat menjadi parasit pada manusia contohnya seperti ''Candida albicans'' yang adalah fungi patogen oportunis yang dapat menyebabkan infeksi pada hampir semua bagian dari tubuh manusia dan dapat menyebabkan kematian.<ref name="Ramage"/> ''C. albicans'' seringkali menyerang rongga mulut ataupun vagina, namun sewaktu sistem imun inang sedang baik, ''C. albicans'' tidak akan menimbulkan infeksi dan hidup secara normal pada rongga mulut manusia misalnya. Dalam bidang pertanian, fungi dibagi menurut perannya setidaknya menjadi tiga macam, yakni penyakit tumbuhan/ hewan, dekomposer, dan agens pengendali hayati. Ketiganya memiliki fungsi dan peran yang berbeda yang sangat penting dalam keseimbangan agroekosistem. Sebagai agens pengendali hayati dan dekomposer, fungi telah dikembangkan sedemikian pesatnya hingga bioteknologi dan nanoteknologi. (Dr. Anton Muhibuddin-Universitas Brawijaya) <ref name="Ramage">Ramage G, VandeWalle K, Wickes BL,LpezRibot JL. 2001. Characteristics of biofilm formation by Candida albicans. ''Rev Iberoam Micol'' 18: 163-170.</ref>
+
+=== Protozoa ===
+[[Protozoa]] adalah gup organisme bersel satu yang sangat bervariasi dengan lebih dari 50.000 jenis.<ref name="Florens"/> Banyak yang berukuran kurang dari 1/200 mm tapi beberapa dapat mencapai 3 mm seperti [[''Spirostomun'']]. Banyak yang hidup secara soliter (sendiri), ada yang secara berkoloni.<ref name="Florens"/> Pada manusia, protozoa merupakan salah satu patogen dan dapat menyebabkan penyakit seperti [[malaria]] yang disebabkan oleh [[Plasmodium falciparum|''Plasmodium falciparum'']]. Protozoa ini ditularkan dari manusia yang satu ke manusia yang lain dengan perantaraan nyamuk betina dari genus [[anopheles]].<ref name="Florens"/> Terdapat ratusan juta kasus dari penyakit malaria pertahun dengan tingkat kematian yang tinggi pada negara-negara miskin.<ref name="Florens">Florens L, ''et al''. 2002. A proteomic view of the ''Plasmodium falciparum'' life cycle. ''Nature'' 419:520-526.</ref>
+
+=== Cacing ===
+[[Cacing]] dalam usus merupakan salah satu patogen manusia yang paling umum. Cacing gelang ''Ascaris lumbricoides'' diperkirakan menginfeksi 1.472 juta manusia di seluruh dunia.<ref name="Turner"/> Walau jarang membahayakan nyawa, [[parasit]] ini merupakan penyebab utama [[morbiditas]] pada negara-negara berkembang<ref name="Turner"/>. Infeksi berat dapat menyebabkan gangguan usus dan gangguan pertumbuhan.<ref name="Turner">Turner JD, Faulkner HM, Kamgno J, Cormnot F, Snick JV, Else KJ, Grencis RK, Behnke JM, Boussinesg M, Bradley JE. 2003. Th2 Cytokines Are Associated with Reduced Worm Burdens in a Human Intestinal Helminth Infection
+''The J of Infec Dis'' 188:17681775.</ref>
+
+== Lihat Pula ==
+* [[Virus]]
+* [[Bakteri]]
+* [[Fungi]]
+* [[Protozoa]]
+* [[Mikroflora normal manusia]]
+* ''[[Staphylococcus aureus]]''
+
+== Rujukan ==
+{{reflist}}
+
+== Pranala luar ==
+* [http://microvet.arizona.edu/Courses/MIC419/Tutorials/infectiousdisease.html Infectious Disease -- University of Arizona (microvet.arizona.edu)]
+
+[[Kategori:Mikrobiologi]]
+[[Kategori:Patologi]]
+[[Kategori:Sistem kekebalan]]

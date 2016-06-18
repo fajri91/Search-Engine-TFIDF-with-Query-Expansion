@@ -1,0 +1,164 @@
+Pewaktu 555
+{{Infobox komponen elektronik
+|nama_komponen=Pewaktu 555
+|foto=[[Berkas:Signetics NE555N.JPG|225px]]
+|judul_foto=NE555 dari [[Signetics]]
+|tipe=[[Sirkuit terpadu]]
+|kategori=[[Pewaktu]]
+|prinsip_kerja=Pembandingan tegangan
+|komponen_sejenis=556, 558, xx555
+|penemu=[[Hans R. Camenzind]] ([[1970]]) 
+|pembuatan_pertama=[[Signetics]] ([[1971]]) 
+|simbol=[[Berkas:555-schem.svg|100px|Schematic symbol]]
+|susunan_kaki={{nowrap|555: DIP 8 Pin}}, {{nowrap|556: DIP 14 Pin}}, {{nowrap|558: DIP 16 Pin}}
+}}
+
+[[Berkas:NE555 Bloc Diagram.svg|thumb|right|Skema internal]]
+'''IC pewaktu 555''' adalah sebuah sirkuit terpadu yang digunakan untuk berbagai pewaktu dan multivibrator. IC ini didesain dan diciptakan oleh [[Hans R. Camenzind]] pada tahun [[1970]] dan diperkenalkan pada tahun [[1971]] oleh [[Signetics]]. Nama aslinya adalah '''SE555/NE555''' dan dijuluki sebagai ''"The IC Time Machine"''.<ref>van Roon, Tony, "555 Timer Tutorial," p. 1.</ref> 555 mendapatkan namanya dari tiga resistor 5 k[[ohm|]] yang digunakan pada sirkuit awal.<ref>Scherz, Paul, "Practical Electronics for Inventors," p. 589.</ref> IC ini sekarang masih digunakan secara luas dikarenakan kemudahannya, kemurahannya dan stabilitasnya yang baik. Sampai pada tahun 2008, diperkirakan sejuta unit diproduksi setiap tahun.
+Bergantung pada produsen, IC ini biasanya menggunakan lebih dari 20 [[transistor]], 2 [[diode]] dan 15 [[resistor]] dalam sekeping [[semikonduktor]] [[silikon]] yang dipasang pada kemasan DIP 8 pin.<ref>van Roon, Tony, "555 Timer Tutorial," Fig. 3 and related text.</ref> 
+
+== Spesifikasi ==
+Spesifikasi ini merupakan tipe NE555. Pewaktu 555 lainnya mungkin memiliki spesifikasi yang berbeda, tergantung tingkat penggunaannya (militer, medis, penerbangan, dll.).
+{| class="wikitable"
+|Tegangan catu (V<sub>CC</sub>)
+|4.5 hingga 15 V
+|-
+|Arus catu (V<sub>CC</sub> = +5 V)
+|3 hingga 6 mA
+|-
+|Arus catu (V<sub>CC</sub> = +15 V)
+|10 hingga 15 mA
+|-
+|Arus keluaran maksimum
+|200 mA
+|-
+|Borosan daya maksimum
+|600 mW
+|-
+|Suhu kerja
+|0 to 70&nbsp;C
+|}
+
+== Variasi ==
+* 556 adalah peranti DIP 14 pin ylog menggabungkan dua 555 dalam satu kemasan, susunan kakinya mirip 555 kecuali dua saluran catu yang digabungkan.
+* 558 adalah peranti DIP 16 pin yang menggabungkan empat 555 yang sedikit dimodifikasi dalam satu kemasan (kaki DIS dan THR disambungkan internal, TRI adalah sensitif terhadap sisi jatuh).
+* Juga tersedia versi daya-ultra-rendah dari 555, seperti 7555 dan TLC555.<ref>Jung, Walter G., "IC Timer Cookbook, Second Edition," pp. 40-41.</ref> 7555 membutuhkan pengawatan yang sedikit berbeda, menggunakan lebih sedikit komponen eksternal.
+=== Derivatif ===
+Banyak varian komponen kompatibel, termasuk versi [[CMOS]], telah dibuat oleh berbagai produsen. Ada juga kemasan lebih besar dengan dua atau empat pewaktu dalam satu kemasan.
+{| class="wikitable"
+!Produsen
+!Model
+!Keterangan
+|-
+|[[Custom Silicon Solutions]][http://www.customsiliconsolutions.com] 
+|CSS555/CSS555C
+|CMOS dari 1.2V, I<sub>DD</sub> < 5uA
+|-
+|[[ECG Philips]]
+|ECG955M
+|-
+|[[Exar]]
+|XR-555
+|-
+|[[Fairchild Semiconductor]]
+|NE555/KA555
+|-
+|[[Harris]]
+|HA555
+|-
+|[[IK Semicon]]
+|ILC555
+|CMOS dari 2V
+|-
+|[[Intersil]]
+|SE555/NE555/ICM7555
+|-
+|[[Lithic Systems]]
+|LC555
+|-
+|[[Maxim]]
+|ICM7555
+|CMOS dari 2V
+|-
+|[[Motorola]]
+|MC1455/MC1555
+|-
+|[[National Semiconductor]]
+|LM1455/LM555/LM555C
+|-
+|[[National Semiconductor]]
+|LMC555
+|CMOS dari 1.5V
+|-
+|[[Sylvania (elektronik)|NTE Sylvania]]
+|NTE955M
+|-
+|[[Raytheon]]
+|RM555/RC555
+|-
+|[[RCA]]
+|CA555/CA555C
+|-
+|[[STMicroelectronics]]
+|NE555N/ K3T647
+|-
+|[[Texas Instruments]]
+|SN52555/SN72555; TLC555
+|CMOS dari 2V
+|-
+|[[USSR]]
+|K10061
+|-
+|[[Zetex]]
+|ZSCT1555
+|hingga serendah 0.9V
+|}
+
+== Moda operasi ==
+555 memiliki tiga moda operasi dasar, yaitu:
+* Moda [[ekamantap]]: pada moda ini, 555 berfungsi sebagai ekamantap (''one-shot''). Penggunaannya meliputi pewaktu, pendeteksi pulsa hilang, sakelar tanpa pentalan, sakelar sentuh, [[pembagi frekuensi]], pengukur [[kapasitansi]], pe[[modulasi lebar pulsa]], dll.
+* moda [[takstabil]]: 555 dapat beroperasi sebagai [[osilator]]. Penggunaan meliputi lampu kerdip, [[generator pulsa]], [[alarm]] keamanan, pe[[modulasi posisi pulsa]], dll.
+* Moda [[dwimantap]] dan [[penyulut Schmitt]]: 555 dapat beroperasi sebagai [[flip-flop]] jika kaki DIS tidak disambungkan dan tidak ada kondensator yang digunakan. Penggunaannya meliputi [[pencacah biner]], [[sakelar]] menggrendel, dll.
+
+== Susunan kaki ==
+Sambungan kaki dari 555 adalah:
+{| class="wikitable"
+! No. !! Nama !! Kegunaan
+|-
+| 1 || GND || '''GrouND''' (0V)
+|-
+| 2 || TR  || '''TRigger''' (penyulut), pulsa negatif pendek pada pin ini menyulut pewaktuan
+|-
+| 3 || Q || '''Output''' (keluaran), Selama pewaktuan, keluaran berada pada [[Vcc|+V<sub>CC</sub>]]
+|-
+| 4 || R  || '''Reset''', interval pewaktuan dapat disela dengan memberikan pulsa reset 0V
+|-
+| 5 || CV  || '''Control Voltage''' memungkinkan untuk mengakses pembagi tegangan internal (2/3 V<sub>CC</sub>)
+|-
+| 6 || THR || '''THReshold''' menentukan akhir pewaktuan (pewaktuan berakhir V<sub>thr</sub> < 2/3 V<sub>CC</sub>)
+|-
+| 7 || DIS || '''DIScharge''' disambungkan ke kondensator, dan waktu pembuangan muatan kondensator menentukan interval pewaktuan.
+|-
+| 8 || V+ || '''positive supply Voltage''' tegangan catu positif yang harus di antara The 3 dan 15 V
+|}
+
+== Referensi ==
+{{Reflist}}
+
+== Pranala luar ==
+{{commonscat|555 timer IC}}
+* (en) [http://www.customsiliconsolutions.com/products-for-ASIC-solutions/standard-IC-products_no.aspx Lembaran data (Custom Silicon Solutions) (PDF)]
+* (en) [http://www.eleinmec.com/article.asp?1 Sirkuit pewaktu 555 - Takmantap, Ekamantap dan Dwimantap]
+* (en) [http://www.uoguelph.ca/~antoon/gadgets/555/555.html Pelajaran pewaktu 555]
+* (en) [http://www.kpsec.freeuk.com/555timer.htm Sirkuit pewaktu 555 dan 556]
+* (en) [http://www.world-class-programme.com/555-Timer.asp Susunan kaki pewaktu 555]
+* (en) [http://www.fairchildsemi.com/ds/LM%2FLM555.pdf Lembaran data (Fairchild) (PDF)]
+* (en) [http://www.falstad.com/circuit/e-555square.html Simulasi java] sirkuit osilator 555
+* (en) [http://www.datasheetarchive.com/search.php?q=NE555&sType=part&ExactDS=Starts 1972 Lembaran data Signetics NE555 (PDF)]
+* (en) [http://www.doctronics.co.uk/555.htm Info pewaktu 555 ]
+* (en) [http://www.globu.net/pp/english/pp/ne555.htm Menggunakan NE 555 sebagai pemroses isyarat digital untuk suhu]
+* (en) [http://www.daycounter.com/Calculators/NE555-Calculator.phtml Penghitung frekuensi dan siklus aktif pada NE555] 
+* (en) [http://www.instructables.com/id/SORIJ3MFAQDX2PW/ Bagaimana membuat] [[intervalometer]] [[kamera]] menggunakan 555
+
+[[Kategori:Osilator]]
+[[Kategori:Sirkuit terpadu]]

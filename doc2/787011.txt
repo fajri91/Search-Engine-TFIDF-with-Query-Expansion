@@ -1,0 +1,45 @@
+Templat:Kotak navigasi pelatih Los Angeles Lakers
+{{Navbox
+| name  = Kotak navigasi pelatih Los Angeles Lakers
+| title = [[Daftar kepala pelatih Los Angeles Lakers|{{color|#FFFFFF|Kepala pelatih Los Angeles Lakers}}]]
+|listclass = hlist
+| titlestyle =  {{NBA color cell|Los Angeles Lakers|border=2}}; color: white
+| basestyle = {{NBA color cell2|Los Angeles Lakers}}
+| bodystyle = width:{{{width|100%}}}; <!--if width not specified, use width of former template-->
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+|list1= 
+* [[John Kundla]] (19481958)
+* [[George Mikan]] (1958)
+* [[John Kundla]] (19581959)
+* [[John Castellani]] (19591960)
+* [[Jim Pollard]] (1960)
+* [[Fred Schaus]] (19601967)
+* [[Butch van Breda Kolff]] (19671969)
+* [[Joe Mullaney]] (19691971)
+* [[Bill Sharman]] (19711976)
+* [[Jerry West]] (19761979)
+* [[Jack McKinney (pemain basket)|Jack McKinney]] (1979)
+* [[Paul Westhead]] (19791981)
+* [[Pat Riley]] (19811990)
+* [[Mike Dunleavy, Sr.]] (19901992)
+* [[Randy Pfund]] (19921994)
+* [[Bill Bertka]] # (1994)
+* [[Magic Johnson]] # (1994)
+* [[Del Harris]] (19941999)
+* [[Bill Bertka]] # (1999)
+* [[Kurt Rambis]] # (1999)
+* [[Phil Jackson]] (19992004)
+* [[Rudy Tomjanovich]] (20042005)
+* [[Frank Hamblen]] # (2005)
+* [[Phil Jackson]] (20052011)
+* [[Mike Brown (pemain basket kelahiran 1970)|Mike Brown]] (20112012)
+* [[Bernie Bickerstaff]] # (2012)
+* [[Mike D'Antoni]] (20122014)
+* [[Byron Scott]] (2014 )
+
+''Tanda pagar (#) menandakan kepala pelatih sementara.''
+}}
+<noinclude>
+{{collapsible option}}
+[[Kategori:Kotak navigasi pelatih National Basketball Association]]
+</noinclude>

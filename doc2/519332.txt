@@ -1,0 +1,13 @@
+Templat:Pengguna peminat bilangan
+{{userbox
+| logo-background = cornflowerblue
+| info-background = lavender
+| border-color = black
+| info-color = 
+| logo = [[Berkas:Number theory symbol.svg|45px|link=]]
+| info = Pengguna ini berminat pada '''[[bilangan]]''' dan '''[[teori bilangan|teorinya]]'''
+}}{{#if:{{{kat|}}}||<includeonly>[[Kategori:Pengguna peminat bilangan|{{PAGENAME}}]]</includeonly>}}<noinclude>
+{{clear}}
+Kategori yang ditambahkan: {{kt|Pengguna peminat bilangan}}
+[[Kategori:Templat userbox minat|bilangan]]
+</noinclude>

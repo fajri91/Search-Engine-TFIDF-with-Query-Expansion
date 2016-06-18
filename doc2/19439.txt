@@ -1,0 +1,12 @@
+Templat:User tr-3
+{{Babel-box
+| level         = 3
+| id            = [[Bahasa Turki|tr]]
+| info          = Bu '''[[:Category:User tr|kullanc]] [[:Category:User tr-3|yksek bir seviye ile Trke ]] '''anlyor.
+| userkategori  = User tr
+| userkategori2 = User tr-3
+}}<noinclude>
+{{Babel-bar|tr}}
+[[Kategori:Templat Babel|tr-3]]
+
+</noinclude>

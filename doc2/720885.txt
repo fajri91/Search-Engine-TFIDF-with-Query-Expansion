@@ -1,0 +1,29 @@
+Es laut
+[[File:Columbia Glacier.jpg|thumb|upright=1.35|Es laut di lepas pesisir Alaska]]
+'''Es laut''' adalah [[air laut]] yang membeku. Es laut menyelimuti sekitar 7% permukaan Bumi dan sekitar 12% samudra di dunia.<ref name="Wadhams">{{harvnb|NOAA Sea Ice essay}}
+</ref><ref name="Weeks">{{cite book|first=Willy F.|last=Weeks|title=On Sea Ice|url=http://books.google.com/books?id=9S55O6WzuL8C&pg=PA2|year=2010|publisher=University of Alaska Press|isbn=978-1-60223-101-6|page=2}}</ref>
+
+==Referensi==
+{{reflist|30em}}
+{{refbegin}}
+* {{cite journal |last1=Rothrock |first1=D.A. |first2=J. |last2=Zhang |title = Arctic Ocean Sea Ice Volume: What Explains Its Recent Depletion?|journal = [[J. Geophys. Res.]] |volume = 110|issue = C1|year = 2005|pages = C01002|doi=10.1029/2004JC002282|bibcode=2005JGRC..11001002R}}
+* {{cite web|title = How Does Arctic Sea Ice Form and Decay?|work = NOAA Arctic theme page|url = http://www.arctic.noaa.gov/essay_wadhams.html|accessdate =25 April 2005 |ref={{harvid|NOAA Sea Ice essay}}}}
+*{{cite web |title=All About Sea Ice |publisher=National Snow and Ice Data Center, University of Colorado, Boulder |url=http://nsidc.org/cryosphere/seaice/ |ref={{harvid|NSIDC All About Sea Ice}}}}
+*{{cite journal |last1=Vinnikov |first1=K.Y. |first2=D.J. |last2=Cavalieri |first3=C.L. |last3=Parkinson |title=A model assessment of satellite observed trends in polar sea ice extents |journal=Geophys. Res. Lett. |volume=33 |issue=5 |pages=L05704 |date=March 2006 |doi=10.1029/2005GL025282 |bibcode = 2006GeoRL..33.5704V }}
+{{refend}}
+
+== Glosarium es laut ==
+*{{cite web |title=Cryosphere Glossary |publisher=National Snow and Ice Data Center, University of Colorado, Boulder |url=http://nsidc.org/cgi-bin/words/glossary.pl}}
+*{{cite web |title=Ice Glossary |publisher=Environment Canada |url=http://www.ec.gc.ca/glaces-ice/default.asp?lang=En&n=501D72C1-1 |ref={{harvid|Environment Canada Ice Glossary}}}}
+* {{cite web |title=WMO Sea-Ice Nomenclature |id=WMO/OMM/  No.259 &bull; Edition 19702004 |publisher=World Meteorological Organization |url=http://www.aari.nw.ru/gdsidb/XML/volume1.php?lang1=0&lang2=1&arrange=1 |ref={{harvid|WMO Sea-Ice Nomenclature}}}}
+
+==Pranala luar==
+{{commons category}}
+*[http://arctic.atmos.uiuc.edu/cryosphere/ Cryosphere today: Current sea ice conditions from the University of Illinois]
+*[http://www.iup.uni-bremen.de:8084/amsr2/ Daily ''Advanced Microwave Scanning Radiometer 2'' sea ice maps from the University of Bremen]
+*{{cite web |title=National Snow and Ice Data Center |publisher=University of Colorado, Boulder |url=http://nsidc.org}}
+**[http://nsidc.org/data/seaice_index/ Sea Ice Index]
+**[http://nsidc.org/sotc/sea_ice.html Global Sea Ice Extent and Concentration: What sensors on satellites are telling us about sea ice]
+
+[[Category:Es laut| ]]
+[[Category:Fenomena Bumi]]

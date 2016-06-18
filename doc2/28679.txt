@@ -1,0 +1,16 @@
+Templat:Kota Salatiga
+{{Navbox
+| name = Kota Salatiga
+| listclass = hlist
+| title =[[Kota Salatiga]], [[Jawa Tengah]]
+| image = [[Berkas:Logo kota salatiga.png|30px|Lambang Kota Salatiga]]
+| group1 = Kecamatan
+| list1 = <div><!--
+-->[[Argomulyo, Salatiga|Argomulyo]] {{}} <!--
+-->[[Sidomukti, Salatiga|Sidomukti]] {{}} <!--
+-->[[Sidorejo, Salatiga|Sidorejo]] {{}} <!--
+-->[[Tingkir, Salatiga|Tingkir]]<!--
+--></div>
+}}<noinclude>
+[[Kategori:Templat kecamatan Indonesia|Salatiga]]
+</noinclude>

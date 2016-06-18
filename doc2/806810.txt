@@ -1,0 +1,40 @@
+Templat:Pemilu Afghanistan
+{{Navbox
+|name    = Pemilu Afghanistan
+|title   = {{flagicon|Afghanistan}} [[Pemilu di Afghanistan]]
+|state      = {{{state|autocollapse}}}
+|listclass = hlist
+
+|group1 = [[Presiden Afghanistan|Pemilihan presiden]]
+|list1  = 
+*[[Pemilihan presiden Afghanistan 2004|2004]]
+*[[Pemilihan presiden Afghanistan 2009|2009]]
+*[[Pemilihan presiden Afghanistan 2014|2014]]
+
+|group2 = [[Dewan Rakyat (Afganistan)|Pemilihan parlemen]]
+|list2  = 
+*[[Pemilihan anggota DPR Afghanistan 1931|1931]]
+*[[Pemilihan anggota DPR Afghanistan 1934|1934]]
+*[[Pemilihan anggota DPR Afghanistan 1937|1937]]
+*[[Pemilihan anggota DPR Afghanistan 1940|1940]]
+*[[Pemilihan anggota DPR Afghanistan 1943|1943]]
+*[[Pemilihan anggota DPR Afghanistan 1946|1946]]
+*[[Pemilihan anggota DPR Afghanistan 1949|1949]]
+*[[Pemilihan anggota DPR Afghanistan 1952|1952]]
+*[[Pemilihan anggota DPR Afghanistan 1955|1955]]
+*[[Pemilihan anggota DPR Afghanistan 1958|1958]]
+*[[Pemilihan anggota DPR Afghanistan 1961|1961]]
+*[[Pemilihan anggota DPR Afghanistan 1965|1965]]
+*[[Pemilihan anggota DPR Afghanistan 1969|1969]]
+*[[Pemilihan anggota DPR Afghanistan 1988|1988]]
+*[[Pemilihan anggota DPR Afghanistan 2005|2005]]
+*[[Pemilihan anggota DPR Afghanistan 2010|2010]]
+*[[Pemilihan anggota DPR Afghanistan 2015|''2015'']]
+
+}}<noinclude>
+<br/>{{collapsible option}}
+
+[[Kategori:Templat politik dan pemerintahan Afghanistan|Pemilu]]
+[[Kategori:Templat tahun pemilihan Asia|Afganistan]]
+
+</noinclude>

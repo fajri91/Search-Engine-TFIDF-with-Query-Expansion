@@ -1,0 +1,11 @@
+Templat:Beri salad
+<div style="border-style:solid; border-color:blue; background-color:AliceBlue; border-width:1px; text-align:left; padding:8px;" class="plainlinks">[[File:Salad platter.jpg|100px|left]]
+'''[[user:{{su<includeonly></includeonly>bst:REVISIONUSER}}|{{#if:{{{1|}}}|{{{1|}}}|{{su<includeonly></includeonly>bst:REVISIONUSER}} }}]]'''  memberikan salad sebagai hadiah untuk Anda! Dengan salad ini semoga hari-harimu lebih baik lagi dan menyenangkan. Berikan salad ini untuk seseorang yang berbeda pendapat dengan Anda sebagai wujud persahabatan. Selamat menikmati! {{{2|}}}
+{{br}}
+<hr />
+{{{message|}}} 
+Berbagi kebaikan dengan memberi [[wikipedia:WikiLove|WikiLove]] salad, berikan templat '''{{<nowiki>Subst:</nowiki>beri salad}}''' pada halaman pembicaraan sebagai wujud perdamaian dan persahabatan.
+</div><noinclude>
+{{documentation}}
+[[category:WikiLove]]
+</noinclude>

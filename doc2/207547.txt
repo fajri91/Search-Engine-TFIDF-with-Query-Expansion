@@ -1,0 +1,42 @@
+Templat:Permainan Valve
+{{Navbox
+| name  = Permainan Valve
+| listclass = hlist
+| title =[[Permainan video]] dikembangkan oleh [[Valve Corporation]]
+
+| group1 = [[Half-Life (seri)|Seri ''Half-Life'']]
+| list1  = ''[[Half-Life (permainan video)|Half-Life]]''&nbsp;(''[[Half-Life: Opposing Force|Opposing Force]]''{{}} ''[[Half-Life: Blue Shift|Blue Shift]]''{{}} ''[[Half-Life: Decay|Decay]]'') <br />''[[Half-Life 2]]''&nbsp;(''[[Half-Life 2: Episode One|Episode One]]''{{}} ''[[Half-Life 2: Episode Two|Episode Two]]''{{}} ''[[Half-Life (seri)#Permainan Source|Episode Three]]'') <br />''[[Portal (permainan video)|Portal]]''&nbsp;(''[[Portal (permainan video)#Portal: Still Alive|Still Alive]]''){{}} ''[[Portal (permainan video)#Portal 2|Portal 2]]''
+
+| group2 = Seri ''Counter-Strike''
+| list2  = ''[[Counter-Strike]]''{{}} ''[[Counter-Strike: Condition Zero|Condition Zero]]''{{}} ''[[Counter-Strike: Source]]''{{}} ''[[Counter-Strike Neo]]''{{}} ''[[Counter-Strike Online]]''
+
+| group3 = Seri ''Day of Defeat''
+| list3  = ''[[Day of Defeat]]''{{}} ''[[Day of Defeat: Source]]''
+
+| group4 = Seri ''Team Fortress''
+| list4  = ''[[Team Fortress Classic]]''{{}} ''[[Team Fortress 2]]''
+
+| group5 = Seri ''Left 4 Dead''
+| list5  = ''[[Left 4 Dead]]''{{}} ''[[Left 4 Dead 2]]''
+
+| group6 = Permainan lain
+| list6  = ''[[Deathmatch Classic]]''{{}} ''[[Ricochet (permainan video 2000)|Ricochet]]''{{}} ''[[The Orange Box]]''
+}}<noinclude>
+[[Kategori:Templat navigasi permainan|{{PAGENAME}}]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</noinclude>

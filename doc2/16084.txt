@@ -1,0 +1,77 @@
+Proyek Genom Manusia
+'''Proyek Genom Manusia''' ([[bahasa Inggris]]: '''Human Genome Project''', HGP) dilaksanakan untuk memetakan [[genom manusia]] sampai tingkat [[nukleotid]] atau [[base pair]] dan untuk mengidentifikasi seluruh [[gen]] yang ada di dalamnya. Proyek Genom pada manusia sekarang berkembang pada tingkat yang lebih tinggi di mana kita masuk ke dalam tahap "void" tahap di mana kita menggambarkan bentuk perwujudan dari hati manusia ke dalam genom, dalam tingkat yang lebih lanjut, dikembangkan sebuah sindrom kapsul plasma yang memungkinkan manusia untuk membelah bagian void dalam hati manusia menjadi genom. ini berarti kita dapat mewujudkan genom manusia ke dalam bentuk material. bentuk dari genom beragam tergantung dari situasi manusia tersebut saat genomnya keluar.
+
+<!--
+==History==
+
+The Project was launched in [[1986]] by [[Charles DeLisi]], who was then Director of the [[United States Department of Energy|US Department of Energy's]] Health and Environmental Research Programs. The goals and general strategy of the Project were outlined in a two-page memo to the Assistant Secretary in April 1986, which helped garner support from the DOE, the [[OMB]] and Congress, especially Senator [[Pete Dominici]]. A series of Scientific Advisory meetings, and complex negotiations with senior Federal officials resulted in a [[line item]] for the Project in the [[1987]] Presidential budget submission to the Congress.
+
+Initiation of the Project was the culmination of several years of work supported by the US Department of Energy, in particular a feasibility workshop in 1986 and a subsequent [http://www.ornl.gov/sci/techresources/Human_Genome/project/herac2.shtml detailed description of the Human Genome Initiative] in a report that led to the formal sanctioning of the initiative by the Department of Energy{{fn|1}}.  This 1987 report stated boldly, "The ultimate goal of this initiative is to understand the human genome" and "Knowledge of the human genome is as necessary to the continuing progress of medicine and other health sciences as knowledge of human anatomy has been for the present state of medicine".  Candidate technologies were already being considered for the proposed undertaking at least as early as 1985{{fn|2}}.
+
+The [[research funding|$3 billion project]] was formally founded in [[1990]] by the [[United States Department of Energy]] and the [[U.S. National Institutes of Health]], and was expected to take 15 years. Due to widespread international cooperation and advances in the field of [[genomics]] (especially in [[sequence analysis]]), as well as huge advances in computing technology, a rough draft of the genome was finished in [[2000]] (announced jointly by US president [[Bill Clinton]] and [[United Kingdom|British]] [[Prime Minister of the United Kingdom|Prime Minister]] [[Tony Blair]] on [[June 26]], [[2000]]), two years earlier than planned.
+
+President Clinton had already awarded the [[Citizen's medal]] to DeLisi for his seminal role in the Project, in [[January]] [[2000]], before the completion of the Project was announced.
+
+The [[consortium]] comprised:
+:* [[China]]
+:* [[France]]
+:* [[Germany]]
+:* [[Japan]]
+:* [[United Kingdom]]
+:* [[United States]]
+
+Eight years after the HGP was begun, an identical quest was initiated separately with private venture capital by a company called [[Celera Genomics]] (founded by [[Craig Venter]]) while the HGP was still being pursued. Celera Genomics used a newer, albeit riskier technique called [[whole genome shotgun sequencing]] and proceeded at a faster pace and at a fraction of the cost of the [[research funding|taxpayer-funded project]] (approximately $3 billion of taxpayer dollars versus about $300 million of private [[research funding]]). Celera had announced from the start its intent to make their genome freely available like that of the publicly-funded HGP, and in line with the "Bermuda Statement" (Feb 1996), made freely available to the public, 24 hours a day. Nonetheless, President Clinton announced that the genome sequence could not be patented.  The statement sent Celera's stock plummeting and the [[Nasdaq]], in particular the biotech sector, into a precipitous decline (the biotech sector lost approximiately $50 billion in market capitalization in two days).
+
+Although the working draft was announced in June 2000, it was not until February 2001 that Celera and the HGP scientists published actual details of their drafts. Special issues of ''[[Nature (journal)|Nature]]'' (which published the publicly-funded project's scientific paper) and ''[[Science (journal)|Science]]'' (which published Celera's paper) contained descriptions of the methods used to produce the draft sequence, as well as analysis of said sequence.  These drafts are hoped to comprise a 'scaffold' of 90% of the genome with gaps to be filled later.
+
+The competition between the rivals proved to be very good for the project, and they agreed to pool their data. Ultimately the pooling agreement fell apart, though, when Celera refused to deposit its data in Genbank, an unrestricted public database.  Celera did incorporate the public data into their genome, but the public effort was not permitted to use or merge the Celera data with theirs. On [[April 14]], [[2003]], a joint [http://www.genoscope.cns.fr/externe/CHODE/English/Actualites/Presse/HGP/HGP_press_release-140403.pdf press release] announced that the project had been successfully completed by both groups, with 99% of the genome sequenced with 99.99% accuracy.
+
+Each draft sequence has been checked at least four to five times to increase 'depth of coverage' or accuracy. Approximately 47% of the draft were high-quality sequences - the final version will have been checked eight to nine times giving an error rate of just 1 in 10,000 bases.
+
+The human genome project is one of a number of international [[genome project]]s in biology, each aimed at sequencing the DNA of a specific organism. While the human DNA sequence offers the most tangible benefits, important developments in biology and medicine are predicted as a result of the sequencing of [[model organisms]] including mice, fruitflies, zebrafish, yeast, nematodes and many microbial organisms and parasites.
+
+In [[October]] [[2004]], [[researcher]]s of the HGP announced a new estimate of 20,000 to 25,000 genes in the [[human genome]]. Previously 30,000 to 40,000 had been predicted, while estimates at the start of the project reached up to as high as 100,000.
+-->
+
+== Tujuan ==
+Tujuan awal dari HGP adalah untuk mengembangkan senjata dan teknologi bagi umat manusia<!--
+The sequence of the human [[DNA]] is stored in [[database]]s available to anyone on the [[Internet]].  The U.S. [[NCBI|National Center for Biotechnology Information]] (and sister organizations in Europe and Japan) house the gene sequence in a database known as Genbank, along with sequences of known and hypothetical genes and proteins.   Other organizations such as the [[UCSC|University of California, Santa Cruz]], and [http://www.ensembl.org ENSEMBL] present additional data and annotation and powerful tools for visualizing and searching it.   [[Computer program]]s have been developed to analyse the data, because the data itself is difficult to interpret without them.
+
+The process of identifying the boundaries between genes and other features in raw [[DNA]] sequence is called [[genome annotation]] and is the domain of [[bioinformatics]]. While expert biologists make the best annotators, their work proceeds slowly, and computer programs are increasingly used to meet the high-throughput demands of genome sequencing projects. The best current technologies for annotation make use of statistical models that take advantage of parallels between DNA sequences and human [[language]], using concepts from computer science such as [[formal grammar]]s.
+
+All humans have unique gene sequences, therefore the data published by the HGP does not represent the exact sequence of each and every individual's genome.  It is the combined genome of a small number of anonymous donors.  The HGP genome is a scaffold for future work in identifying differences between individuals.  Most of the current effort in identifying differences between individuals involves [[single nucleotide polymorphism]]s.
+-->
+== Keuntungan ==
+Keuntungan praktikal proyek ini keluar ketika projek ini belum selesai. Misalnya, sejumlah perusahaan seperti [[Myriad Genetics]] mulai menawarkan tes genetik yang murah dan mudah yang dapat menunjukan gejala ke berbagai penyakit, termasuk [[kanker payudara]], [[blood clotting]], [[cystic fibrosis]], [[liver]], dan lainnya.
+
+<!--
+There are also many tangible benefits for biological scientists. For example, a researcher investigating a certain form of [[cancer]] may have narrowed down his search to a particular gene. By visiting the human genome database on the world-wide web, this researcher can examine what other scientists have written about this gene, including (potentially) its three-dimensional structure, its function(s), its evolutionary relationships to other human genes, or to genes in mice or yeast or fruitflies, possible detrimental mutations, interactions with other genes, body tissues in which this gene is activated, diseases associated with this gene... the list of datatypes is long, one reason why [[bioinformatics]] is so challenging.
+
+The work on interpretation of genome data is still in its initial stages. In the future the knowledge gained by the understanding of the genome will boost the fields of [[medicine]] and [[biotechnology]], eventually leading to cures for [[cancer]], [[Alzheimer's disease]] and other diseases.
+
+On a more philosophical level, the analysis of similarities between DNA sequences from different organisms is opening new avenues in the study of the theory of [[evolution]]. In many cases, evolutionary questions can now be framed in terms of [[molecular biology]]; indeed, many major evolutionary milestones (the emergence of the [[ribosome]] and [[organelle]]s, the development of embryos with body plans, the [[vertebrate]] [[immune system]]) can be related to the molecular level. Many questions about the similarities and differences between humans and our closest relatives (the [[primate]]s, and indeed the other [[mammal]]s) are expected to be illuminated by the data from this project.
+-->
+''Lihat juga:'' [[genetika]], [[bioinformatika]]
+
+== Referensi ==
+{{fnb|1}} Barnhart, Benjamin J. (1989). [http://www.ornl.gov/sci/techresources/Human_Genome/publicat/hgn/v1n1/01doehgp.shtml DOE Human Genome Program]. ''Human Genome Quarterly'', '''1'''(1). Retrieved 2005-02-03.
+{{fnb|2}} DeLisi, Charles. (2001). [http://genome.gsc.riken.go.jp/hgmis/publicat/hgn/v11n3/05delisi.html Genomes: 15 Years Later ''A Perspective by Charles DeLisi, HGP Pioneer'']. ''Human Genome News'', '''11'''(3-4). Retrieved 2005-02-03.
+* [http://www.wired.com/news/medtech/0,1286,66822,00.html DNA Testing Goes DIY], Associated Press via Wired News, March 07, 2005.
+
+== Pranala luar ==
+* [http://www.ornl.gov/sci/techresources/Human_Genome/publicat/hgn/hgn.shtml Human Genome News]. Published from 1989 to 2002 by the US Department of Energy, this newsletter was a major communications method for coordination of the Human Genome Project. Complete online archives are available.
+* [[Project Gutenberg]] hosts e-texts for Human Genome Project, titled ''Human Genome Project, Chromosome Number #'' (# denotes 01-22, X and Y). This information is raw sequence, released in November 2002; access to entry pages with download links is available through http://www.gutenberg.org/etext/3501 for Chromosome 1 sequentially to http://www.gutenberg.org/etext/3524 for the Y Chromosome. Note that this sequence might not be considered definitive due to ongoing revisions and refinements. In addition to the chromosome files, there is a [http://www.gutenberg.org/etext/11799 supplementary information file] dated March 2004 which contains additional sequence information.
+* [http://www.doegenomes.org/ The HGP information pages]
+* [http://www.ensembl.org/ Ensembl project], an automated annotation system and browser for the human genome
+* [http://genome.ucsc.edu] UCSC genome browser
+* [http://www.nature.com/genomics/human/ Nature magazine's human genome gateway], including the HGP's paper on the draft genome sequence
+* [http://www.wellcome.ac.uk/en/genome/ Wellcome charitable trust description of HGP] "Your Genes, your health, your future".
+* [http://www.ericdigests.org/2003-2/genome.html Learning about the Human Genome. Part 1: Challenge to Science Educators. ERIC Digest.]
+* [http://www.ericdigests.org/2003-2/genome2.html Learning about the Human Genome. Part 2: Resources for Science Educators. ERIC Digest.]
+* [http://www.objectivescience.com/articles/genes_holcberg.htm ''Clinton Tries To Take Credit For Celera's Achievement'' by David Holcberg]
+* [http://www.nationalreview.com/comment/comment062700a.html ''Genome Breakthrough'' by Ronald Bailey]
+* [http://clinton4.nara.gov/WH/EOP/OSTP/html/00626_4.html Prepared Statement of Craig Venter of Celera] Venter discusses Celera's progress in deciphering the human genome sequence and its relationship to healthcare and to the federally funded Human Genome Project.
+
+[[Kategori:Proyek genome]]
+[[Kategori:Genomika]]
+[[Kategori:Biologi]]

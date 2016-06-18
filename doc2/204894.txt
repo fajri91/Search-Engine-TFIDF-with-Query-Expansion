@@ -1,0 +1,15 @@
+Templat:PhysicsParticle
+<span style="white-space:nowrap"><!--
+  -->{{#if:{{{link|}}}|<!--
+    -->[[{{{link}}}|<!-- with link
+      -->{{#if:{{{TL|{{{BL|}}}}}}|{{su|a=r|p={{{TL|}}}|b={{{BL|}}}}}}}<!--
+      -->{{#ifeq: {{{anti}}}|yes|{{overline|{{{1}}}}}|{{{1}}}}}<!--
+      -->{{#if:{{{TR|{{{BR|}}}}}}|{{su|a=l|p={{{TR|}}}|b={{{BR|}}}}}}}<!--
+    -->]]<!--
+  -->|<!-- without link
+    -->{{#if:{{{TL|{{{BL|}}}}}}|{{su|a=r|p={{{TL|}}}|b={{{BL|}}}}}}}<!--
+    -->{{#ifeq: {{{anti}}}|yes|{{overline|{{{1}}}}}|{{{1}}}}}<!--
+    -->{{#if:{{{TR|{{{BR|}}}}}}|{{su|a=l|p={{{TR|}}}|b={{{BR|}}}}}}}<!--
+  -->}}<!--
+--></span><noinclude>[[Kategori:Templat fungsi dan format Wikipedia]]
+[[Kategori:Templat fisika]]</noinclude>

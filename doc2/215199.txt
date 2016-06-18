@@ -1,0 +1,6 @@
+Templat:Tugas sekolah
+{{main other||{{tmbox
+|image = [[Image:Books-aj.svg aj ashton 01.svg|50px]]
+|style = text-align:center;
+|text = Artikel ini sedang atau telah menjadi subjek [[Wikipedia:Proyek sekolah dan universitas|penugasan dari sekolah atau kampus]]{{#if:{{{date|}}}|{{{date}}}}}. {{#if:{{{link|}}}|Detailnya dapat [[{{{link}}}|dibaca di sini]]}}}}
+}}<noinclude>{{Template doc}}</noinclude><includeonly>[[Kategori:Artikel proyek sekolah dan universitas|{{PAGENAME}}]]</includeonly>

@@ -1,0 +1,33 @@
+Stasiun Larangan (Brebes)/layout
+{|align=center
+{{BS-table}}
+{{BS3||CONTfa|CONTg|Ke [[Stasiun Ketanggungan|Ketanggungan]]}}
+{{BS3||STR+c2|ABZg3|}}
+{{BS3||ABZg+1|STR+c4|}}
+{{BS5||RD1q|RD1q|RD1q|RD1q|O3=STR|O4=STR}}
+{{BS5||WASSERq|WBRCKE1|WBRCKE1|WASSERq|}}
+{{BS3||BRCKE1|BRCKE1|}}
+{{BS5||STRc2|ABZg3|ABZg2|STRc3|}}
+{{BS5|STRc2|ABZ1+3f|STR+c4|STR+c1|STR+4|}}
+{{BS5|STR+1|STR+c4|STRf|STRg|STRg|}}
+{{BS5|STR|STR|STR|STR|STR|}}
+{{BS5|STR|STR+BSl|STR+BSr|STR|STR|}}
+{{BS5|ENDEf|STR+BSlr|STR+BSr|STR|STR|}}
+{{BS5|BUILDING|STR+BSlr|STR+BSr|STR|STR|O2=num1r|O3=num2r|O4=num3r|O5=num4r}}
+{{BS5||STR+BSlr|STR+BSr|STR|STR|}}
+{{BS5||STR+BSl|STR+BSr|STR|STR|}}
+{{BS5||STR|STRf|STRg|STRg|}}
+{{BS5||STR2|STR+c3|STR+c2|STR3|}}
+{{BS5||STRc1|ABZg+4|ABZg+1|STRc4|}}
+{{BS3||BRCKE1|BRCKE1|}}
+{{BS5||RP1q|SKRZ-G1BUE|SKRZ-G1BUE|RP1q|}}
+{{BS5||WASSERq|WBRCKE1|WBRCKE1|WASSERq|}}
+{{BS3||ABZg2|STR+c3|}}
+{{BS3||STR+c1|ABZg+4|}}
+{{BS3||CONTf|CONTge|Ke [[Stasiun Songgom|Songgom]]}}
+|}
+|}
+
+<noinclude>
+[[Kategori:Layout stasiun|Larangan (BB)]]
+</noinclude>

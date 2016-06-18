@@ -1,0 +1,53 @@
+Keadaan mikro (mekanika statistika)
+{{Refimprove|date=December 2008}}
+{{periksaterjemahan|en|Microstate (statistical mechanics)|date=2012}}
+Pada [[mekanika statistika]], '''keadaan mikro''' adalah konfigurasi mikroskopik yang spesifik dari [[sistem termodinamika]] yang mampu menempati sebuah kemungkinan selama terjadi [[fluktuasi termal]]. Sebaliknya, '''keadaan makro''' dari sistem menunjukkan sifat mikroskopiknya, seperti [[temperatur]] dan [[tekanan]].<ref>[http://khanexercises.appspot.com/video?v=5EU-y1VF7g4 Macrostates and Microstates]</ref>
+
+Keadaan makro dapat ditunjukkan dengan [[distibusi probabilitas]] dari keadaan tertentu menggunakan [[Ensembel statistika (fisika matematika)|ensembel statistika]] dari semua keadaan mikronya. Distribusi ini menjelaskan tentang [[probabilitas]] menemukan sistem dalam keadaan mikro tertentu. Pada [[batas termodinamika]], keadaan mikro yang dijumpai pada sistem makroskopik selama terjadi fluktuasi akan memiliki sifat makroskopik yang sama.
+
+== Definisi Mikroskopik dari Konsep Termodinamika==
+Mekanika statistika menghubungkan sifat empirik dari sistem termodinamika dengan distribusi statistika dari ensembel keadaan mikro. Semua sifat dari sistem termodinamika yang makroskopik dapat ditentukan dari fungsi partisi yang dapat menjumlahkan energi semua keadaan mikronya. 
+
+Sistem didistribusikan ensembel dari ''N'' keadaan mikro yang masing-masing dilambangkan ''i'', dan probabilitasnya dilambangkan dengan ''p''<sub>i</sub>, dan energi <math>E_i</math>. Semua keadaan mikro ini membentuk suatu set yang bersifat diskrit seperti yang didefinisikan oleh [[mekanika statistika kuantum]], dan <math>E_i</math> adalah [[level energi]] sistem.
+
+===Energi Dalam===
+Energi dalam merupakan [[rata-rata]] dari energi sistem
+:<math>U = \langle E \rangle = \sum_{i=1}^N p_i \,E_i\ .</math>
+
+Ini adalah pernyataan mikroskopik dari [[hukum pertama termodinamika]].
+
+===Entropi===
+Besarnya [[Entropi]]tergantung pada probabilitas keadaan mikro dan didefinisikan sebagai berikut :
+: <math>S = -k_B\,\sum_i p_i \ln \,p_i,</math>
+dengan <math>k_B</math> adalah [[Konstanta Boltzmann]].
+
+Entropi diformulasikan dari [[hukum kedua termodinamika]]. [[Hukum ketiga termodinamika]] pun konsisten dengan definisi ini, karena entropi nol berarti bahwa keadaan makro dari sistem berkurang menjadi keadaan mikro tunggal.
+
+===Kalor dan Kerja===
+[[Kalor]] adalah perpindahan energi yang terkait dengan ketidakteraturan, perilaku mikrosopik pada sistem, terkait dengan is the energy transfer associated with a disordered, microscopic action on the system, terkait dengan lompatan di [[level energi]] dari sistem. 
+
+[[Kerja (termodinamika)|Kerja]] adalah perpindahan energi yang terkait dengan efek keteraturan dan perilaku makroskopik sistem. Bila perilaku ini berjalan sangat lambat, maka [[teorema Adiabatik]] menyatakan bahwa lompatan level energi yang dimiliki sistem tidak akan terjadi. Energi dalam sistem hanya akan berubah karena perubahan energi dalam level energi sistem. 
+
+Definisi mikroskopik dari kalor dan kerja adalah sebagai berikut :
+
+:<math>\delta W = \sum_{i=1}^N p_i\,dE_i</math>
+:<math>\delta Q = \sum_{i=1}^N E_i\,dp_i</math>
+
+sehingga
+:<math>~dU = \delta W + \delta Q.</math>
+
+Dua definisi kalor dan kerja di atas adalah ekspresi kecil dari [[mekanika statistika]] dimana jumlah yang sesuai dengan kuantum tidak bisa diubah menjadi [[integral]] dalam batas yang klasik dari [[keadaan mikro kontinuum]]. Alasannya adalah keadaan mikro yang klasik biasanya tidak didefinisikan dalam hubungan dengan keadaan mikro kuantum yang secara tepat terkait, yang berarti bahwa ketika kerja mengubah energi yang terkait dengan level energi dari sistem, energi dari keadaan mikro yang klasik tidak mengikuti perubahan ini.
+
+==Lihat Juga==
+* [[Mekanika statistika kuantum]]
+* [[Derajat kebebasan (fisika dan kimia)]]
+* [[Hipotesis Ergodic]]
+* [[Phase space]]
+
+==Referensi==
+{{Reflist}}
+
+==External links==
+* [http://theory.ph.man.ac.uk/~judith/stat_therm/node57.html Some illustrations of microstates vs. macrostates]
+
+[[Kategori:Statistical mechanics]]

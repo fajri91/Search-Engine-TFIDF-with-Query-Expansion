@@ -1,0 +1,43 @@
+Staphylococcus
+{{Taxobox
+| color = lightgrey
+| name = ''Staphylococcus''
+| image = Staphylococcus aureus 01.jpg
+| image_width = 240px
+| image_caption = Foto dari elektron mikroskop (Scanning electron microscope) dari Staphylococcus aureus.
+| regnum = [[Bacteria]]
+| phylum = [[Firmicutes]]
+| classis = [[Cocci]]
+| ordo = [[Bacillales]]
+| familia = [[Staphylococcaceae]]
+| genus = '''''Staphylococcus'''''
+| genus_authority = Rosenbach 1884
+| subdivision_ranks = Spesies
+| subdivision = 
+''[[Staphylococcus aureus|S. aureus]]''{{br}}
+''[[Staphylococcus auricularis|S. auricularis]]''{{br}}
+''[[Staphylococcus capitis|S. capitis]]''{{br}}
+''[[Staphylococcus caprae|S. caprae]]''{{br}}
+''[[Staphylococcus epidermidis|S. epidermidis]]''{{br}}
+''[[Staphylococcus felis|S. felis]]''{{br}}
+''[[Staphylococcus haemolyticus|S. haemolyticus]]''{{br}}
+''[[Staphylococcus hominis|S. hominis]]''{{br}}
+''[[Staphylococcus intermedius|S. intermedius]]''{{br}}
+''[[Staphylococcus lugdunensis|S. lugdunensis]]''{{br}}
+''[[Staphylococcus saprophyticus|S. saprophyticus]]''{{br}}
+''[[Staphylococcus schleiferi|S. schleiferi]]''{{br}}
+''[[Staphylococcus vitulus|S. vitulus]]''{{br}}
+''[[Staphylococcus warneri|S. warneri]]''{{br}}
+''[[Staphylococcus xylosus|S. xylosus]]''
+}}
+'''''Staphylococcus''''' (dalam [[bahasa Yunani]] ''staphyle'' berarti sekelompok anggur dan ''coccos'' yang berarti granula) adalah genus dari bakteri gram positif. Di mikroskop mereka tampak berbentuk bulat serta bergerombol seperti sekelompok [[anggur]].
+
+[[Genus]] staphylococcus mencakup 31 [[spesies]]. Kebanyakan tidak berbahaya dan tinggal di atas kulit dan selaput lendir manusia dan organisme lainnya. Mereka juga menjadi mikroba tanah. Genus ini dapat ditemui di seluruh dunia.
+
+{{bakteri-stub}}
+{{Commons}}
+{{wikispecies}}
+{{sisterlinks}}
+{{Klasifikasi bakteri}}
+
+[[Kategori:Bakteri]]

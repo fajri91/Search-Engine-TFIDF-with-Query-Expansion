@@ -1,0 +1,19 @@
+Templat:Navigasi kategori tahun
+{| id="toc" class="toccolors"  border="1" cellpadding=4 style="border-collapse: collapse; margin: 1em; border-style:solid;border-width:1px;"
+| style="text-align: center;"| 
+[[:Kategori:{{{1}}} {{{3|}}} {{#if:{{{tahun|}}}||tahun}} {{#expr:{{{2|{{CURRENTYEAR}}}}}-5}}|&larr; {{#expr:{{{2|{{CURRENTYEAR}}}}}-5}}]] 
+[[:Kategori:{{{1}}} {{{3|}}} {{#if:{{{tahun|}}}||tahun}} {{#expr:{{{2|{{CURRENTYEAR}}}}}-4}}|{{#expr:{{{2|{{CURRENTYEAR}}}}}-4}}]] 
+[[:Kategori:{{{1}}} {{{3|}}} {{#if:{{{tahun|}}}||tahun}} {{#expr:{{{2|{{CURRENTYEAR}}}}}-3}}|{{#expr:{{{2|{{CURRENTYEAR}}}}}-3}}]] 
+[[:Kategori:{{{1}}} {{{3|}}} {{#if:{{{tahun|}}}||tahun}} {{#expr:{{{2|{{CURRENTYEAR}}}}}-2}}|{{#expr:{{{2|{{CURRENTYEAR}}}}}-2}}]] 
+[[:Kategori:{{{1}}} {{{3|}}} {{#if:{{{tahun|}}}||tahun}} {{#expr:{{{2|{{CURRENTYEAR}}}}}-1}}|{{#expr:{{{2|{{CURRENTYEAR}}}}}-1}}]] 
+'''[[:Kategori:{{{1}}} {{{3|}}} {{#if:{{{tahun|}}}||tahun}} {{{2|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTYEAR}}}}}]]''' 
+[[:Kategori:{{{1}}} {{{3|}}} {{#if:{{{tahun|}}}||tahun}} {{#expr:{{{2|{{CURRENTYEAR}}}}}+1}}|{{#expr:{{{2|{{CURRENTYEAR}}}}}+1}}]] 
+[[:Kategori:{{{1}}} {{{3|}}} {{#if:{{{tahun|}}}||tahun}} {{#expr:{{{2|{{CURRENTYEAR}}}}}+2}}|{{#expr:{{{2|{{CURRENTYEAR}}}}}+2}}]] 
+[[:Kategori:{{{1}}} {{{3|}}} {{#if:{{{tahun|}}}||tahun}} {{#expr:{{{2|{{CURRENTYEAR}}}}}+3}}|{{#expr:{{{2|{{CURRENTYEAR}}}}}+3}}]] 
+[[:Kategori:{{{1}}} {{{3|}}} {{#if:{{{tahun|}}}||tahun}} {{#expr:{{{2|{{CURRENTYEAR}}}}}+4}}|{{#expr:{{{2|{{CURRENTYEAR}}}}}+4}}]] 
+[[:Kategori:{{{1}}} {{{3|}}} {{#if:{{{tahun|}}}||tahun}} {{#expr:{{{2|{{CURRENTYEAR}}}}}+5}}|{{#expr:{{{2|{{CURRENTYEAR}}}}}+5}} &rarr;]]
+{{#if:{{{3|}}}|<center>Lihat pula: {{br}}[[:Kategori:{{{1}}} menurut negara|{{{1}}} menurut negara]]: [[:Kategori:{{{1}}} {{{3}}}|{{{3}}}]]{{br}}[[:Kategori:{{{1}}} menurut tahun|{{{1}}} menurut tahun]]: [[:Kategori:{{{1}}} tahun {{{2}}}|{{{2}}}]]}}
+{{#if:{{{link1|}}}|<center>Lihat pula: {{br}}{{{link1}}}{{br}}}}{{#if:{{{link2|}}}|{{{link2}}}{{br}}}}{{#if:{{{link3|}}}|{{{link3}}}{{br}}}}{{#if:{{{link4|}}}|{{{link4}}}{{br}}}}</center>
+|}<noinclude>
+[[Kategori:Templat kategori]]
+[[en:Template:Year by category]]</noinclude>

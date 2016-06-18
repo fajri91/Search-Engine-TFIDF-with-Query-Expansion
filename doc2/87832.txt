@@ -1,0 +1,57 @@
+Bandar Udara Internasional Tapachula
+{{Infobox airport
+| name         = Tapachula International Airport
+| nativename   = Aeropuerto Internacional de Tapachula
+| nativename-a =
+| nativename-r =
+| image        =
+| image-width  =
+| caption      =
+| IATA         = TAP
+| ICAO         = MMTP
+<center>{{Location map|Mexico|width=200|float=center
+|caption=|mark=Airplane_silhouette.svg|marksize=10
+|label=TAP|position=left
+|lat_deg=14|lat_min=47|lat_sec=40|lat_dir=N
+|lon_deg=92|lon_min=22|lon_sec=12|lon_dir=W
+}}<small>Location of airport in Mexico</small></center>
+| type         = Public
+| owner        =
+| operator     = [[Grupo Aeroportuario del Sureste]]
+| city-served  =
+| location     = Tapachula
+| elevation-f  = 97
+| elevation-m  = 30
+| coordinates  = {{Coord|14|47|40|N|92|22|12|W|type:airport}}
+| website      =
+| metric-elev  =
+| metric-rwy   =
+| r1-number    = 05/23
+| r1-length-f  = 5,552
+| r1-length-m  = 2,000
+| r1-surface   = [[Aspal]]
+| stat-year    = 2011
+| stat1-header = Total Passengers
+| stat1-data   = 161,892
+| stat2-header = % change
+| stat2-data   = {{decrease}} 12.6
+| footnotes    = Source: Grupo Aeroportuario del Sureste
+}}
+
+'''Bandar Udara Internasional Tapachula''' {{airport codes|TAP|MMTP}} adalah sebuah bandar udara internasional yang terletak di [[Tapachula]], [[Chiapas]], [[Meksiko]], dan juga merupakan bandar udara paling selatan di Meksiko. Bandar udara ini menangani lalu lintas udara nasional dan internasional dari kota Tapachula.
+
+== Maskapai Penerbangan dan Destinasi ==
+{{Airport-dest-list
+|[[Aeromxico Connect]]|[[Mexico City International Airport|Mexico City]]
+}}
+
+==Referensi==
+{{Reflist}}
+
+== Pranala luar ==
+* [http://www.asur.com.mx/asur/Ingles/aeropuertos/tapachula/tapachula.asp Website Resmi (Bahasa Inggris)]
+* {{WAD|MMTP}}
+
+{{bandara-amerikautara-stub}}
+
+[[Kategori:Bandar udara di Meksiko|Tapachula]]

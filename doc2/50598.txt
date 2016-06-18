@@ -1,0 +1,63 @@
+High-Speed Downlink Packet Access
+{{Tabel standar telepon genggam}}
+'''High-Speed Downlink Packet Access (HSDPA)''' adalah sebuah [[protokol komunikasi|protokol]] [[telepon genggam]] dan kadangkala disebut sebagai teknologi '''3,5G'''. 
+
+HSDPA merupakan evolusi dari standar [[WCDMA|W-CDMA]] dan dirancang untuk meningkatkan kecepatan transfer data 5x lebih tinggi. HSDPA memdefinisikan sebuah saluran W-CDMa yang baru, yaitu high-speed downlink shared channel (HS-DSCH) yang cara operasinya berbeda dengan saluran W-CDMA yang ada sekarang. Hingga kini penggunaan teknologi HSDPA hanya pada komunikasi arah bawah menuju telepon genggam.
+
+== Sejarah ==
+Pada tahun 1978 awal munculnya teknologi generasi pertama (1G), teknologi pertama yang diluncurkan adalah Global System for Mobile (GSM) dan Code Division Multiple (CDMA). Metode akses yang digunakan oleh CDMA dan GSM berbeda, yaitu 1G hanya dapat digunakan untuk menelpon dan masih menggunakan nada dering monofonik, yang tentunya belum memiliki akses ke internet. Kemudian pada tahun 1990an diluncurkan teknologi generasi kedua (2G), yaitu GSM dengan fasilitas nada dering polifonik dan baru memiliki pengaturan variasi warna. Setelah 2G, muncul telepon seluler dengan 2.5G yang telah memiliki fitur Mobile Multimedia Message (MMS) dan dilengkapi akses General Packet Radio Service (GPRS). Perkembangan teknologi yang sangat pesat, sehingga dimunculkanlah telepon seluler dengan teknologi generasi ketiga (3G). Teknologi ini cukup diminati di masyarakat, dengan salah satu keunggulan baru dari telpon seluler yang memiliki fitur video call yang membuat kita dapat melihat lawan bicara kita pada saat melakukan panggilan. Sampai saat ini telah dikeluarkan teknologi yang disebut 3.5G, yang merupakan teknologi transmisi data pita lebar (bandwith) yang dapat digunakan secara berpindah-pindah (mobile broadband) dan berbasis High-Speed Downlink Package Access (HSDPA). 
+
+HSDPA ini pertama kali diperkenalkan di Jepang (berupa 3G+ sampai 3.5G). Teknologi 3,5G ini selalu berkembang sama seperti pada generasi sebelumnya. 3.5G adalah teknologi lanjutan dari 3G yang dalam teori memberikan layanan suara, video, maupun akses dengan kecepatan hingga 3.6 Mbps atau sembilan kali lebih cepat dari layanan 3G umumnya. Kontennya sendiri tidak jauh berbeda dengan konten dari teknologi 3G yang sudah ditawarkan oleh beberapa operator seluler di Indonesia yaitu video call, mobile video, mobile TV, serta video content. Sedangkan perbedaan antara 3G dengan 3.5G adalah 3.5G menyuguhkan gambar yang lebih tajam dari gambar yang ditawarkan oleh 3G. Seperti teknologi sebelumnya, teknologi 3.5G juga menggunakan broadband yang menyediakan akses atau koneksi internet lebih cepat dan sambungan langsung ke jaringan internet lokal maupun internasional.
+
+== Deskripsi ==
+High-Speed Downlink Packet Access (HSDPA) adalah sebuah jaringan yang diperuntukkan bagi telepon seluler yang populer dengan nama teknologi 3,5G. Teknologi ini menyediakan kemampuan mengunduh yang cepat dan merupakan sambungan dari Asymmetric digital subcriber line (ADSL) yang digunakan pada sambungan layanan internet untuk daerah perumahan dan mencegah melambatnya koneksi pada telepon seluler.
+
+HSDPA memiliki dua fase, fase pertama berkapasitas 4,1 Mbps dan kemudian menyusul fase 2 berkapasitas 11 Mbps dan kapasitas maksimal downlink peak data rate hingga mencapai 14 Mbps. Teknologi ini dikembangkan dari WCDMA sama seperti EV-DO mengembangkan CDMA2000. HSDPA memberikan jalur evolusi untuk jaringan Universal Mobile Telecommunications System (UMTS) yang memungkinkan untuk penggunaan kapasitas data yang lebih besar yaitu mencapai 14,4 Mbps untuk download data dan  2Mbps untuk upload data. Kecepatan terakhir yang dirilis oleh teknologi ini adalah HSPDA+, dengan kecepatan download mencapai 42 Mbps dan 84 Mbps dalam Rilis ke 9 dari standar 3GPP. 
+
+Untuk HSDPA, layanan akses internet yang masih baru, High-Speed Downlink Shared Channel (HS-DSCH), telah ditambahkan ke W-CDMA rilis 5 dan spesifikasi lebih lanjut. Hal ini dilakukan dengan memperkenalkan tiga baru lapisan fisik saluran: HS-SCCH, HS-DPCCH dan HS-PDSCH. High Speed-Shared Control Channel (HS-SCCH) menginformasikan pengguna bahwa data akan dikirimkan pada 2 slot HS-DSCH depan. High Speed Uplink-Dedicated Physical Control Channel (HS-DPCCH) membawa informasi pengakuan dan saluran Indikator kualitas saat ini (CQI) dari pengguna. Nilai ini kemudian digunakan oleh base station untuk menghitung berapa banyak data untuk mengirim ke perangkat pengguna pada transmisi berikutnya. High Speed Downlink Shared Channel-Fisik (HS-PDSCH) adalah saluran dipetakan ke saluran transportasi HS-DSCH di atas yang membawa data pengguna yang sebenarnya.
+
+== Paket Penjadwalan Cepat ==
+Saluran downlink HS-DSCH dibagi antara pengguna dengan menggunakan channel-dependent scheduling untuk membuat penggunaan sinyal radio yang tersedia dengan maksimal. Setiap pengguna perangkat teknologi ini secara terus-menerus mentransmisikan indikasi kualitas sinyal downlink, yaitu 500 kali per detik. Dari informasi yang diperoleh dari semua perangkat, base station memutuskan pengguna mana yang akan dikirimkan data pada frame 2 ms pada aliran data berikutnya dan berapa banyak data yang harus dikirimkan kepada setiap user atau pengguna. Data yang lebih besar dapat dikirimkan kepada pengguna yang memiliki kualitas sinyal downlink yang tinggi. 
+
+Banyaknya pembagian dari rangkaian kode dan jaringan bandwith, dialokasikan kepada para pengguna HDSPA melalui ketentuan dari jaringan itu sendiri. Alokasi yang dilakukan adalah semi-statis, namun didalamnya masih dapat dimodifikasi ketika jaringannya sedang beroperasi, tetapi tidak dalam basis per frame. Alokasi ini merepresentasikan pertukaran antara bandwith yang dialokasikan untuk pengguna HDSPA. Hal ini dimaksudkan untuk pengalokasian gelombang suara dan pengguna data non-HDSPA. Lebih jelasnya, alokasi ini merupakan unit dari pembagian kode untuk penyebaran di faktor 16, dimana 16 ada dan hingga 15 dapat di alokasikan untuk jaringan HSDPA. Ketika base station dipilih, maka langkah selanjutnya adalah untuk menentukan pengguna yang akan menerima data pada frame selanjutnya. Hal ini juga dapat berguna untuk menentukan pembagian kode yang akan digunakan untuk tiap pengguna. Informasi ini dikirim kepada perangkat pengguna melalui satu atau lebih scheduling channels. Channel tersebut bukan merupakan bagian dari jaringan HSDPA yang telah ditentukan sebelumnya, tetapi merupakan jaringan yang telah dialokasikan secara terpisah. Selanjutnya, untuk memberikan frame 2 ms, data mungkin akan terkirim secara berulang denga menggunakan pembagian kode yang berbeda. Maksimum banyaknya pengguna dalam menerima data yang diberikan frame 2 ms, diapa dilihat dari banyaknya jumlah pengalokasian dalam pembagian kode. Sebagai contoh, dalam teknologi CDMA2000 1xEV-DO, data yang dikirim hanya kepada satu pengguna dalam suatu kurun waktu.
+
+== Keamanan ==
+Autentikasi user atau pengguna dari teknologi HSDPA ini dilakukan dari SIM card (atau RUIM). Data dari user akan dikodekan secara berbeda menurut standar CDMA, dan bekerja jauh lebih baik daripada algoritma kriptografi. Keamanan dari teknologi ini akan jebol apabila ada penyusup yang masuk ke base station atau suatu ketika penyusup tersebut mendapatkan kode channel yang hanya dapat diperoleh dari agen khusus( 6432). Dengan kata lain, keamanan akan kepemilikan akses ini cukup terjamin.
+
+== Modem HSDPA ==
+Dalam smartphone, akses internet yang sangat cepat dapat diambil dari antena telepon seluler itu sendiri yang akan diproses lebih lanjut. Sedangkan untuk laptop atau netbook, komputer belum tentu dapat menangkap dan memproses sinyal yang ada, kebanyakan hanya dapat menangkap sinyal melalui Wi-Fi ataupun Bluetooth. Solusi yang dapat ditawarkan adalah dengan menggunakan modem, dengan cara menangkap sinyal tersendiri dari antena yang ada dan diproses lebih lanjut agar komputer dapat tersambung dengan  akses internet dari sinyal modem.
+
+HSDPA USB modem dapat dipakai untuk mendapatkan koneksi internet pada komputer rumah dimana terdapat sinyal kuat dari HSDPA. Hal ini akan menggantikan kebutuhan pengguna akan koneksi fixed line.
+
+== Keunggulan ==
+* Teknologi HSDPA dapat digunakan untuk banyak user secara bersama-sama. Tetapi jika semua user melakukan download file dengan kapasitas yang besar dari internet, akan berimbas pada aliran data, yaitu seluruh user akan mendapat koneksi yang lambat.
+* Frekuensi yang dipakai oleh teknologi ini sudah dapat dimaksimalisasikan secara efisien dengan pemakaian bandwith (lebar pita) yang tepat.
+* Mengurangi tertundanya pengunduhan atau download data (delay), walaupun dengan banyaknya pengguna dari koneksi HSDPA, unduhan data tidak akan tertunda, tetapi mungkin mengalami sedikit keterhambatan aliran data.
+
+== Kekurangan ==
+* Kecepatan maksimum 14,4 Mbps dalam jarak kurang dari 1 km dari base station. Apabila sudah mencapai jarak lebih dari sama dengan 6 km, aliran data akan menurun kepada kecepatan 1 Mbps.
+* Harga yang cukup mahal bila dibandingkan dengan  jaringan seperti WiMAX.
+
+== Kecepatan unduh data==
+* Di lingkungan perumahan teknologi ini dapat melakukan unduh data hingga berkecepatan 3,7 Mbps. 
+* Dalam keadaan bergerak seseorang yang sedang berkendaraan di jalan tol berkecepatan 100 km/jam dapat mengakses internet berkecepatan 1,2 Mbps. 
+* Di lingkungan perkantoran yang padat pengguna dapat menikmati streaming video dengan perkiraan kecepatan 300 Kbps.
+
+== Lihat pula ==
+* [[High-Speed Uplink Packet Access]]
+
+== Pranala luar == 	 
+* [http://www.telecomspace.com/latesttrends-hsdpa.html HSDPA Overview and tutorials] 	 
+* [http://www.agilent.com/find/SART HSDPA Agilent Signaling Analyzer for HSDPA] 	 
+* [http://www.3gamericas.org/pdfs/hsdpafactsheet.pdf HSDPA Fact Sheet and Deployment List] 	 
+* [http://www.radio-electronics.com/info/cellulartelecomms/hsdpa/hsdpa.php HSDPA overview]
+* [http://www.yellowsubterfuge.com/?p=33 HSDPA to Wi-Fi How-to] The Yellow Subterfuge HSDPA Blog
+* [http://www.wisegeek.com/what-is-hsdpa.htm]
+* [http://www.webopedia.com/TERM/H/HSDPA.html]
+
+{{Sistem Nirkabel}}
+{{komunikasi-stub}}
+
+[[Kategori:Standar telepon genggam]]
+[[Kategori:Teknologi telekomunikasi]]
+[[Kategori:High-Speed Packet Access]]

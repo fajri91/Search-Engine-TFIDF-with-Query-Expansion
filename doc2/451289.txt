@@ -1,0 +1,31 @@
+Templat:Tanda diakritik/doc
+{{Documentation subpage}}
+<!-- PLEASE ADD CATEGORIES AND INTERWIKIS AT THE BOTTOM OF THIS PAGE -->
+
+=== Penggunaan ===
+The template is an infobox, to be used on pages in Diacritics, especially articles on individual diacritical marks. For such pages, it is possible to add a symbol, that will show grand on top of the infobox. Example:
+* <code><nowiki>{{Diacritical marks|&#x030C;}}</nowiki></code> &rarr; see [[Caron]].
+When no symbol is added, the top box disappears.
+
+* When used in article space, the header uses the article title as a caption. This caption can be overwritten:<br>
+<code><nowiki>{{Diacritical marks||caption=Solidus (punctuation)}}</nowiki></code> &rarr; see [[Solidus (punctuation)]] (caption should not be "Solidus (punctuation)".
+
+* Use &amp;#x25CC; for the replacement character &#x25CC;
+=== Lihat juga ===
+* {{tlx|Tanda Fungsitasi}}
+
+<includeonly>
+<!-- CATEGORIES AND INTERWIKIS HERE, THANKS -->
+
+[[Category:Writing system templates|{{PAGENAME}}]]
+
+[[br:Patrom:Diakritiko]]
+[[en:Template:Diacritical marks]]
+[[no:Mal:Diakritisk tegn]]
+[[pl:Szablon:Znaki diakrytyczne]]
+[[pt:Predefinio:Diacrticos]]
+[[ru:: ]]
+[[sk:ablna:Diakritick znamienka]]
+[[sv:Mall:Diakritiska tecken]]
+[[zh:Template:Diacritical marks]]
+</includeonly>

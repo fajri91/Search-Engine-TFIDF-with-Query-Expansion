@@ -1,0 +1,2 @@
+Templat:Lambang Indonesia
+[[Berkas:National emblem of Indonesia Garuda Pancasila.svg|{{{1|50px}}}|{{#if:{{{link|}}}|link={{{link}}}}}|{{{2|Garuda Pancasila}}}]]<noinclude>[[Kategori:Templat Indonesia]]</noinclude>

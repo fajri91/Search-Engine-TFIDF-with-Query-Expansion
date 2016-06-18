@@ -1,0 +1,102 @@
+Templat:Pelatih Swansea City A.F.C.
+{{Football manager history
+| listclass = hlist
+| name =Pelatih Swansea City A.F.C.
+|teamname=Swansea City A.F.C.
+|bgcolor=white
+|textcolor=black
+|bordercolor=gold
+|list =<div>
+{{Football manager list entry| listclass = hlist
+| name =[[Walter Whittaker|Whittaker]]|from=1912|to=14}}
+{{Football manager list entry| listclass = hlist
+| name =Bartlett|from=1914|to=15}}
+{{Football manager list entry| listclass = hlist
+| name =[[Joe Bradshaw (footballer)|Bradshaw]]|from=1919|to=26}}
+{{Football manager list entry| listclass = hlist
+| name =Thomson|from=1927|to=31}}
+{{Football manager list entry| listclass = hlist
+| name =[[Neil Harris (footballer born 1894)|Harris]]|from=1934|to=39}}
+{{Football manager list entry| listclass = hlist
+| name =[[Haydn Green|Green]]|from=1939|to=47}}
+{{Football manager list entry| listclass = hlist
+| name =[[Billy McCandless|McCandless]]|from=1948|to=55}}
+{{Football manager list entry| listclass = hlist
+| name =[[Ron Burgess (footballer)|Burgess]]|from=1955|to=58}}
+{{Football manager list entry| listclass = hlist
+| name =[[Trevor Morris (footballer)|Morris]]|from=1958|to=65}}
+{{Football manager list entry| listclass = hlist
+| name =Davis|from=1965|to=66}}
+{{Football manager list entry| listclass = hlist
+| name =[[Billy Lucas|Lucas]]|from=1967|to=69}}
+{{Football manager list entry| listclass = hlist
+| name =[[Roy Bentley|Bentley]]|from=1969|to=72}}
+{{Football manager list entry| listclass = hlist
+| name =[[Harry Gregg|Gregg]]|from=1972|to=75}}
+{{Football manager list entry| listclass = hlist
+| name =[[Harry Griffiths (footballer)|Griffiths]]|from=1975|to=78}}
+{{Football manager list entry| listclass = hlist
+| name =[[John Toshack|Toshack]]|from=1978|to=83}}
+{{Football manager list entry| listclass = hlist
+| name =[[Doug Livermore|Livermore]]|from=1983}}
+{{Football manager list entry| listclass = hlist
+| name =[[John Toshack|Toshack]]|from=1983|to=84}}
+{{Football manager list entry| listclass = hlist
+| name =[[Les Chappell|Chappell]]|from=1984}}
+{{Football manager list entry| listclass = hlist
+| name =[[Colin Appleton|Appleton]]|from=1984}}
+{{Football manager list entry| listclass = hlist
+| name =[[John Bond (footballer)|Bond]]|from=1984|to=85}}
+{{Football manager list entry| listclass = hlist
+| name =[[Tommy Hutchison|Hutchison]]|from=1985|to=86}}
+{{Football manager list entry| listclass = hlist
+| name =[[Terry Yorath|Yorath]]|from=1986|to=89}}
+{{Football manager list entry| listclass = hlist
+| name =[[Ian Evans (footballer)|Evans]]|from=1989|to=90}}
+{{Football manager list entry| listclass = hlist
+| name =[[Terry Yorath|Yorath]]|from=1990|to=91}}
+{{Football manager list entry| listclass = hlist
+| name =[[Frank Burrows|Burrows]]|from=1991|to=95}}
+{{Football manager list entry| listclass = hlist
+| name =[[Bobby Smith (footballer born 1944)|Smith]]|from=1995}}
+{{Football manager list entry| listclass = hlist
+| name =[[Jimmy Rimmer|Rimmer]]|from=1995|to=96}}
+{{Football manager list entry| listclass = hlist
+| name =[[Kevin Cullis|Cullis]]|from=1996}}
+{{Football manager list entry| listclass = hlist
+| name =[[Jimmy Rimmer|Rimmer]]|from=1996}}
+{{Football manager list entry| listclass = hlist
+| name =[[Jan Mlby|Mlby]]|from=1996|to=97}}
+{{Football manager list entry| listclass = hlist
+| name =[[Micky Adams|Adams]]|from=1997}}
+{{Football manager list entry| listclass = hlist
+| name =[[Alan Cork|Cork]]|from=1997|to=98}}
+{{Football manager list entry| listclass = hlist
+| name =[[John Hollins|Hollins]]|from=1998|to=01}}
+{{Football manager list entry| listclass = hlist
+| name =[[Colin Addison|Addison]]|from=2001|to=02}}
+{{Football manager list entry| listclass = hlist
+| name =[[Roger Freestone|Freestone]]|from=2002}}
+{{Football manager list entry| listclass = hlist
+| name =[[Nick Cusack|Cusack]]|from=2002}}
+{{Football manager list entry| listclass = hlist
+| name =[[Brian Flynn|Flynn]]|from=2002|to=04}}
+{{Football manager list entry| listclass = hlist
+| name =[[Alan Curtis (footballer)|Curtis]]|from=2004}}
+{{Football manager list entry| listclass = hlist
+| name =[[Kenny Jackett|Jackett]]|from=2004|to=07}}
+{{Football manager list entry| listclass = hlist
+| name =[[Kevin Nugent (footballer)|Nugent]]|from=2007}}
+{{Football manager list entry| listclass = hlist
+| name =[[Roberto Martnez|Martnez]]|from=2007|to=09}}
+{{Football manager list entry| listclass = hlist
+| name =[[Paulo Sousa|Sousa]]|from=2009|to=10}}
+{{Football manager list entry| listclass = hlist
+| name =[[Brendan Rodgers|Rodgers]]|from=2010|to=12}}
+{{Football manager last| listclass = hlist
+| name =[[Michael Laudrup|Laudrup]]|from=2012|to=}}
+</div>
+}}
+<noinclude>
+[[Category:Templat Swansea City A.F.C.|Pelatih]]
+</noinclude>

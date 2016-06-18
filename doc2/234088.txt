@@ -1,0 +1,22 @@
+Koagulasi
+'''Koagulasi''' ([[bahasa Inggris|en]]:'''''coagulation''''', '''''clotting''''') adalah suatu proses yang rumit di dalam [[sistem koloid]] [[darah]] yang memicu [[partikel koloidal]] ter[[dispersi]] untuk memulai proses pembekuan ([[bahasa Inggris|en]]:''agglomerate'') dan membentuk [[trombus]]. Koagulasi adalah bagian penting dari [[hemostasis]]<ref name="mwk bc1">{{cite web
+| url          = http://themedicalbiochemistrypage.org/blood-coagulation.html#intro
+| title        = Michael W. King Biochemistry page - Blood coagulation
+| accessdate   = 2010-02-15
+}}</ref>, yaitu saat penambalan dinding [[pembuluh darah]] yang rusak oleh [[keping darah]] dan [[faktor koagulasi]] (yang mengandung [[fibrin]]) untuk menghentikan [[pendarahan]] ([[bahasa Inggris|en]]:''hemorrhage'') dan memulai proses perbaikan. Kelainan koagulasi dapat meningkatkan risiko pendarahan atau [[trombosis]].
+
+<!--
+Coagulation is highly [[conservation (genetics)|conserved]] throughout biology; in all [[mammal]]s, coagulation involves both a cellular (platelet) and a [[protein]] (coagulation factor) component. The system in humans has been the most extensively researched and is therefore the best understood.
+-->
+
+Proses koagulasi terjadi segera setelah terjadinya [[luka]] pada [[pembuluh darah]] dengan rusaknya [[endotelium]] ([[bahasa Inggris|en]]:''endothelium''). Langkah awal koagulasi adalah dengan pelepasan komponen [[fosfolipid]] ([[bahasa Inggris|en]]:''phospholipid'') yang disebut [[faktor jaringan]] ([[bahasa Inggris|en]]:''tissue factor'') dan [[fibrinogen]] sebagai inisiasi sebuah [[reaksi berantai]]]. Segera setelah itu [[keping darah]] bereaksi membentuk penyumbat pada permukaan luka, reaksi ini disebut [[hemostasis]] awal ([[bahasa Inggris|en]]:''primary''). Hemostasis lanjutan ([[bahasa Inggris|en]]:''secondary'') terjadi hampir bersamaan:[[protein]] dalam [[plasma darah]] yang disebut [[faktor koagulasi]] merespon secara berjenjang dan sangat rumit untuk membentuk jaring-jaring [[fibrin]] yang memperkuat penyumbatan keping darah.<ref name=Furie>{{cite journal |author=Furie B, Furie BC |title=Thrombus formation in vivo |journal=J. Clin. Invest. |volume=115 |issue=12 |pages=335562 |year=2005 |pmid=16322780|doi=10.1172/JCI26987|url=http://www.jci.org/cgi/content/full/115/12/3355}} {{PMC|1297262}}</ref>
+
+== Referensi ==
+{{reflist}}
+
+{{Commonscat|Coagulation}}
+{{Biologi-stub}}
+
+[[Kategori:Metabolisme]]
+
+[[de:Hmostase#bersicht ber Gerinnungsfaktoren und Inhibitoren]]

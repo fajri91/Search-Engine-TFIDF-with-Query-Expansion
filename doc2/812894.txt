@@ -1,0 +1,11 @@
+Wikipedia:Labels/templates/tabel kampanye
+{{Wikipedia:Labels/template/campaign/header}}
+{{Wikipedia:Labels/template/campaign
+ | num = 
+ | name = 
+ | activity = 
+ | status = 
+ | tasks =
+ | notes = 
+}}
+{{Wikipedia:Labels/template/campaign/footer}}

@@ -1,0 +1,54 @@
+Bandar Udara Internasional Fujairah
+{{Infobox Airport 
+| name         = Fujairah International Airport
+| nativename-a =   
+| nativename-r = 
+| image        = Fujairah International Airport.JPG
+| image-width  = 200
+| caption      = 
+| IATA         = FJR
+| ICAO         = OMFJ
+<center>{{Location map|UAE|width=200|float=center
+|caption=|mark=Airplane_silhouette.svg|marksize=10
+|label=FJR|position=bottom
+|lat_deg=25|lat_min=06|lat_sec=44|lat_dir=N
+|lon_deg=56|lon_min=19|lon_sec=26|lon_dir=E
+}}<small>Location of airport in UAE</small></center>
+| type         = Public
+| owner        = 
+| operator     = Department of Civil Aviation
+| city-served  = 
+| location     = Fujairah
+| elevation-f  = 152
+| elevation-m  = 46
+| coordinates  = {{Coord|25|06|44|N|56|19|26|E|type:airport}}
+| website      = 
+| metric-elev  = yes
+| metric-rwy   = yes
+| r1-number    = 11/29
+| r1-length-f  = 12,303
+| r1-length-m  = 3,750
+| r1-surface   = [[Aspal]]
+| stat-year    = 
+| stat1-header = 
+| stat1-data   = 
+| stat2-header = 
+| stat2-data   = 
+| footnotes    = 
+}}
+
+'''Bandar Udara Internasional Fujairah''' ({{lang-ar|'''  '''}}) {{Airport codes|FJR|OMFJ}} adalah sebuah bandar udara yang terletak 1&nbsp;km (0.6 mil) dari [[Fujairah]], [[Uni Emirat Arab]].
+
+==Maskapai Penerbangan dan Tujuan==
+{{airport-dest-list
+|[[TransGlobal Airways]] | '''Chartered''': Manila-Clark, Dhaka
+}}
+
+== Pranala luar ==
+* [http://ww.fujairah-airport.com/ Website Bandar Udara Internasional Fujairah]
+* {{WAD|OMFJ}}
+
+[[Kategori:Bandar udara di Uni Emirat Arab|Fujairah]]
+
+
+{{bandara-stub}}

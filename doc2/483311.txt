@@ -1,0 +1,14 @@
+Templat:Location map Germany Frankfurt am Main
+{{#switch:{{{1}}}
+|name=Frankfurt am Main
+| top    = 50.228056
+| bottom = 50.000016
+| left   = 8.415
+| right  = 8.8980675
+| image  = Mk_Frankfurt_Nachbargemeinden.png
+}}<noinclude>{{Location map/Info}}
+[[Kategori:Templat peta navigasi Jerman|Frankfurt]]
+
+
+
+</noinclude>

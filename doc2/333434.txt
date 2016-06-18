@@ -1,0 +1,38 @@
+Sigma Arae
+{{Starbox short |
+| name= Arae
+| epoch=[[J2000.0]]
+| constell=[[Ara (constellation)|Ara]]
+| ra=17<sup>h</sup> 35<sup>m</sup> 39.6<sup>s</sup>
+| dec=46 30' 20"
+| spectral=A0V
+| appmag_v=+4.56
+| absmag_v=-0.80
+| dist_ly=386  33
+| dist_pc=118  10
+| names=[[Harvard Revised catalogue|HR]]&nbsp;6537, [[Henry Draper Catalogue|HD]]&nbsp;159217, [[Bonner Durchmusterung|CD]]-4611661, [[Hipparcos catalogue|HIP]]&nbsp;86092, [[Smithsonian Astrophysical Observatory catalogue|SAO]]&nbsp;228162.
+}}
+'''Sigma Arae''' ( Ara,  Arae) adalah salah bintang di rasi bintang [[Ara]]. Bintang ini merupakan bintang katai putih tipe A dengan [[magnitudo]] +4.56.  Bintang ini berada pada jarak 386 [[tahun cahaya]] dari [[Bumi]].
+
+== Etimologi ==
+Nama lain dari para astronom terdahulu adalah :
+
+{| class="wikitable"
+|-
+! nama lain
+! asal bahasa
+! arti
+|-
+|  / Chyi || [[China]] || bintang pertama pada [[rasi]] [[Daftar asterisme di Keranjang Tampi#Alat Penumbuk|Alat Penumbuk]]<ref>salah satu [[rasi]] [[bintang]] menurut bangsa Cina</ref> 
+|-
+|Borealior de duabus quae sunt in basi (Almagest)|| [[Bahasa Latin|Latin]] || yang berada di utara di antara dua bintang di bawah (altar)<ref>http://www.atlascoelestis.com/alsufi%2046.htm</ref> 
+|}
+
+== Referensi ==
+* [http://simbad.u-strasbg.fr/simbad/sim-id?Ident=HD+159217&NbIdent=1&Radius=2&Radius.unit=arcmin&submit=submit+id Simbad]
+* [http://aladin.u-strasbg.fr/AladinPreview?-c=17+35+39.5900-46+30+20.462&ident=*+sig+Ara&submit=Aladin+previewer Image Sigma Arae]
+{{reflist}}
+
+{{astronomi-stub}}
+
+[[Kategori:Rasi bintang Ara]]

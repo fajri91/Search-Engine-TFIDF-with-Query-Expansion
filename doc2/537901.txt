@@ -1,0 +1,59 @@
+Kivalliq Air
+{{Infobox Airline
+| airline = Kivalliq Air
+| image = C-FSKN Kivalliq Air Beech 200.JPG
+| logo_size =
+| fleet_size = 14<ref name="fleet"/>
+| destinations = 2<ref name="sked"/>
+| IATA = FK
+| ICAO = -
+| callsign = -
+| parent = [[Keewatin Air]]
+| company_slogan =
+| founded = 1998
+| headquarters = [[Winnipeg]], [[Manitoba]], [[Kanada]]
+| key_people =
+| bases = [[Bandar Udara Internasional Winnipeg James Armstrong Richardson]]
+| secondary_hubs = [[Bandar Udara Churchill]], [[Bandar Udara Rankin Inlet]]
+| focus_cities =
+| frequent_flyer =
+| lounge =
+| alliance =
+| website = http://www.kivalliqair.com
+}}
+'''Kivalliq Air''' adalah [[maskapai penerbangan]] yang berbasis di [[Winnipeg]], [[Manitoba]], [[Kanada]].<ref>[http://www.kivalliqair.com/contact/contact.html Contact Keewatin Air]. Kivalliq Air. Retrieved on February 8, 2010. "Keewatin Air LP - Executive Offices 1 Allen Dyne Road Winnipeg, MB"</ref> Maskapai penerbangan ini setiap minggunya beroperasi sebanyak tiga kali antara [[Sanikiluaq]] dan Winnipeg. Basis utamanya di [[Bandar Udara Internasional Winnipeg James Armstrong Richardson]], dengan basis, [[hangar]] dan fasilitas perawatan di [[Bandar Udara Rankin Inlet]] dan [[Bandar Udara Churchill]].
+
+==Tujuan==
+Per Februari 2012, Kivalliq Air mengoperasikan penerbangan domestik ke beberapa tujuan:<ref name="sked">[http://www.kivalliqair.com/travel/flight-schedules.html Kivalliq Air Schedule]</ref>
+
+*[[Manitoba]]
+**[[Winnipeg]] ([[Bandar Udara Internasional Winnipeg James Armstrong Richardson]])
+
+*[[Nunavut]]
+**[[Sanikiluaq]] ([[Bandar Udara Sanikiluaq]])
+
+==Armada==
+Per Februari 2012, armada Kivalliq Air (Keewatin Air) terdiri dari:<ref name="fleet">[http://wwwapps2.tc.gc.ca/Saf-Sec-Sur/2/ccarcs/aspscripts/en/quicksearch.asp Transport Canada listing of aircraft owned by Keewatin Air]</ref>
+{| class="toccolours" border="1" cellpadding="3" style="border-collapse:collapse"
+|+ '''Armada Kivalliq (Keewatin Air)'''
+|- bgcolor=lightgreen
+!Pesawat||No. pesawat||Variant||Dipesan||Catatan
+|-
+| [[Beechcraft 1900]] || 2 || [[Beechcraft 1900#1900C|1900C]] || FJXL, FJXO || Scheduled flights,<ref name="pax">[http://www.kivalliqair.com/travel/Travel-Info.html Passenger Travel]</ref> [[air charter]]<ref name="charter">[http://www.kivalliqair.com/charter/aircraft-list-details.html Charters]</ref>
+|-
+| [[Beechcraft Super King Air]] || 8 || [[Beechcraft Super King Air#Super King Air 200|King Air 200/B200]] || FCGT, FRMV, FSKN, FSKO, FSKX, FZPW, GYGT, GYSR || Scheduled flights,<ref name="pax"/> [[Medical evacuation|MEDIVAC]] ([[air ambulance]] as Nunavut Lifeline),<ref name="medi"/> [[air charter]]<ref name="charter"/>
+|-
+| [[Beechcraft Model 18]] || 1 || [[Beechcraft Model 18#1|3NM]] || FBCF ||
+|-
+| [[Learjet 35|Bombardier Learjet 35]] || 2 || [[Learjet 35#Learjet 35A|35A]] || GDJH, GYFB || [[Medical evacuation|MEDIVAC]] ([[air ambulance]] as Nunavut Lifeline)<ref name="medi">[http://www.kivalliqair.com/aeromed/aircraft.html Nunavut Lifeline - Medical Program]</ref>
+|-
+| [[Pilatus PC-12]] || 1 || [[Pilatus PC-12#PC-12/45|PC-12/45]] || GFLA || [[Medical evacuation|MEDIVAC]] ([[air ambulance]] as Nunavut Lifeline)<ref name="medi"/> [[air charter]]<ref name="charter"/>
+|}
+
+==Referensi==
+{{reflist}}
+
+{{Maskapai penerbangan di Kanada}}
+
+[[Kategori:Maskapai penerbangan di Kanada]]
+[[Kategori:Maskapai penerbangan yang didirikan tahun 1998]]

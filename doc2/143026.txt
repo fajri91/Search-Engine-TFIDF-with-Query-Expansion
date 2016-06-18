@@ -1,0 +1,12 @@
+Templat:Fb
+{{country data {{{1}}}
+| flaglink/core
+| variant = {{{variant|{{{2|}}}}}}
+| size = {{{size|{{{3|}}}}}}
+| name = {{{name|{{{4|{{{nama|}}}}}}}}}
+| altlink = tim nasional sepak bola
+| altvar = football
+}}<noinclude>
+{{dokumentasi}}[[ar::.]]
+[[ru::]]
+</noinclude>

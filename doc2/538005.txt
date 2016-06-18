@@ -1,0 +1,124 @@
+MindTalk
+{{Infobox software
+| name                   = MindTalk
+| logo                   = [[File:MindTalk.jpg]]
+| developer              = [[PT Merah Putih Incubator]]
+| frequently_updated     = yes
+| operating system       = [[iOS (Apple)|iOS]], [[Android (operating system)|Android]], [[Windows Phone]], [[Symbian]], [[BlackBerry OS]]
+| language               = [[English language|English]], [[Indonesian language|Indonesian]], 
+| genre                  = social networks
+| website                = {{URL|http://www.MindTalk.com}}
+| latest release version = {{Latest stable software release/MindTalk}}
+}}
+
+'''Mindtalk''' adalah jejaring sosial berbasis interest atau ketertarikan. Mindtalk menyediakan ruang sendiri untuk menampung ketertarikan para penggunanya dalam bentuk channel, selain itu dari sisi interface Mindtalk mengadopsi sistem real time stream sehingga memungkinkan usernya untuk memposting secara cepat.
+
+MindTalk.com adalah salah satu besutan baru dari Merah Putih Incubator (MPI) (grup yang menaungi DailySocial.net, InfoKost.net, KrazyMarket.com, LintasBerita.com, dst). 
+Aplikasi Mindtalk ini telah dihadirkan pada platform [[Android]], [[iPhone]], [[BlackBerry]], [[Windows Phone]],. Aplikasi ini juga telah terpasang secara pre-installed di perangkat [[Nokia Asha]], [[Lumia 610]] dan [[510]], serta [[Polytron Android]]. Untuk desktop, Mindtalk dapat diakses melalui semua browser, juga tersedia dalam bentuk aplikasi di [[Google Chrome]] Web Store.
+
+Mindtalk yang berkantor di Jakarta dan Yogyakarta ini  dikembangkan untuk mengakomodasi kebutuhan  akan sebuah ruang berbagi bersama di mana di dalamnya mereka dapat membagikan apa yang sedang mereka pikirkan secara mudah dan cepat. Di sini orang-orang dapat berkumpul di satu ruang ketertarikan bernama channel dan dapat membagikan ide-ide mereka dalam bentuk foto, video maupun artikel secara mudah.
+
+== Latar belakang ==
+
+Hampir seluruh dunia, tak terkecuali Indonesia kini sedang dilanda demam social media. Jangkauan internet yang semakin luas dan juga kemajuan teknologi mobile merupakan salah satu faktor pendorong kemajuan di bidang interaksi tanpa tatap yang satu ini. Kini setiap orang di seluruh penjuru dunia bisa menikmati kemudahan berinteraksi dan mendapatkan informasi melalui berbagai jejaring sosial seperti [[Facebook]] dan [[Twitter]] dengan mudahnya, di manapun, kapanpun.
+
+Selama ini adopsi teknologi social media di Indonesia belum terimplementasikan secara maksimal menjadi komunikasi dari berbagai arah. Sementara, budaya berkelompok secara digital sedang berkembang pesat, terutama yang didasarkan pada kesamaan interest, sehingga menuntut adanya media yang mampu secara komprehensif memfasilitasi kebutuhan untuk saling terkoneksi, berkumpul, dan terus eksis juga aktif.
+
+Orang-orang gemar berkelompok secara digital pun semakin berkembang. Di dunia digital, mereka memilih teman berdiskusi berdasarkan kegemaran, minat, atau interest. Sehingga dibutuhkan situs jejaring sosial, agar mereka dapat saling terkoneksi, berkumpul, dan tetap eksis di dunia digital.
+
+mindtalk.com memposisikan diri sebagai tempat bertemu dan menghubungkan orang-orang, memulai dialogue, menghubungkan orang dengan pikiran dan pembicaraan tentang ketertarikan mereka. Bagi pengguna mindtalk.com, mereka akan dihubungkan melalui channel. Channel berfungsi sebagai grup dengan minat yang sama.<ref> http://bangka.tribunnews.com/2012/11/15/mindtalk.com-situs-jejaring-sosial-berbasis-komunitas </ref>
+
+== Sejarah ==
+
+Awalnya MindTalk adalah proyek pribadi dari Robin Marufi dan konsepnya sebenarnya simpel, bagaimana menghadirkan [[MIRC]] dalam versi website. Sebelum berubah menjadi MindTalk, jejaring sosial ini  bernama Digaku. Pada perkembangannya, Digaku mengalami penambahan fitur-fitur baru: profil yang lebih detail, points, upload video, like, dst. hingga menjadi seperti saat ini dan menggunakan nama MindTalk.com
+Dari ide dan konsep  tersebut, Robin kemudian mendirikannya bersama Danny Oei Wirianto, salah satu pemegang saham [[Kaskus.co.id]]. Mindtalk merupakan startup di bawah naungan PT Merah Putih Incubator. Jejaring sosial ini menggunakan istilah asing, karena sejak awal ditargetkan untuk masuk pasar global.
+Media sosial ini berangkat dari fakta bahwa orang Indonesia gemar berkomunitas dan membentuk forum. Sayangnya, dalam forum anggota biasanya tidak bisa membentuk sendiri subforum karena otoritas tersebut dipegang oleh administrator. Selain itu menurut Danny,  bentuk forum yang didominasi dengan teks terasa membosankan.
+Awal kemunculannya, MindTalk.com hanya menggunakan versi beta, dan hanya bisa diakses menggunakan personal computer (PC). Situs yang mengandalkan teknologi cloud, dipadukan dengan pemakaian server dari provider server dalam negeri, mindtalk.com ingin melebarkan sayapnya ke versi mobile
+
+
+
+== Tampilan antarmuka ==
+
+Pada halaman muka, ikon brain khas MindTalk akan tampil d itengah halaman, di halaman ini pengguna bisa langsung login atau menikmati fasilitas pencarian fluid dengan mengetikkan kata kunci pada kolom pencarian di ikon brain. Ikon brain dari MindTalk akan bergeser secara fluid ketika pengguna mengetikkan tombol enter, MindTalk kemudian akan menampilkan konten sesuai dengan kata kunci tersebut. Kemudian pengguna bisa langsung melihat dan menjelajah konten, atau mengklik ikon Mind untuk melakukan pencarian lain.
+
+Ketika penguna mengklik foto atau gambar yang ada pada hasil pencarian, maka foto tersebut akan keluar dari kotak untuk menampilkan foto dengan ukuran yang lebih besar, klik foto tersebut untuk mengembalikan pada kotaknya. Fitur ini juga bisa dinikmati ketika penguna telah login.
+
+Ketika pengguna login, tampilan dari stream juga kini telah berubah menjadi kotak-kotak a la Pinterest, namun dengan efek fluid. Ketika pengguna mengklik tombol untuk meng-update konten, maka gambar dari konten baru tersebut akan bergeser dengan efek fluid, memberikan pengalaman pengunaan baru yang jauh berbeda dari versi sebelumnya.
+
+Stream dari kotak-kotak konten ini juga bisa diatur untuk penampilannya, apakah hanya akan menampilkan untuk artikel saja, konten terbaru atau update status atau yang di MindTalk dinamankan Mind. MindTalk sekarang juga dilengkapi dengan keyboard shortcut. Tampilan konten dan proses memberikan komentar diperbaharui, konten atau foto akan ada di bagian tengah dan bagian kanan tempat untuk memberi komentar.<ref> http://dailysocial.net/post/mindtalk-tinggalkan-status-beta-resmi-diluncurkan-hari-ini </ref>
+
+== Teknologi ==
+
+Berbeda dengan website umumnya di Indonesia, arsitektur MindTalk.com sendiri cukup modern. Aplikasi inti webnya sendiri dibuat dengan Python, dan ini biasa mereka sebut kernel. Website yang kita akses itu sendiri sebuah aplikasi yang dibangun menggunakan PHP, dan berjalan di atas kernel tadi, menggunakan sebuah API khusus. Untuk menangani message yang bisa jadi membludak, mereka membuat sistem Message Queueing yang dibangun di atas Go Languange (Bahasa program baru buatan Google).
+Aplikasi Mindtalk ini telah dihadirkan pada platform [[Android]], [[BlackBerry]], [[iOS]], [[Nokia Asha]], serta [[Windows Phone]] 7 dan 8. Aplikasi ini juga telah terpasang secara pre-installed di perangkat Nokia Asha, Lumia 610 dan 510, serta Polytron Android.
+Saat ini, akses dari perangkat-perangkat yang dipakai oleh para pengguna telah bergerak meningkat menjadi 24 persen. Peningkatan tersebut telah melonjak dari awal tahun yang hanya berada pada kisaran 7%.
+Untuk desktop, Mindtalk dapat diakses melalui semua browser, juga tersedia dalam bentuk aplikasi di Google Chrome Web Store.
+MindTalk juga membuka aplikasi pemrograman tampilan antarmuka (Application Programming Interface/API) untuk pihak ketiga. Hal ini memungkinkan siapa saja membuat aplikasi maupun game di MindTalk, untuk memperkaya konten di MindTalk itu sendiri.
+
+== Kelebihan MindTalk ==
+
+* Sebagai forum yang dinamis, user dapat membuat kategori sesuai dengan kebutuhan yang mereka inginkan. 
+* Stream yang terdapat pada setiap kategori dapat bertautan dan berhubungan dengan kategori lain yang ditandakan dengan hashtag (#). 
+* MindTalk memiliki sistem notifikasi yang realtime. 
+* Berbagi file media menjadi sangat mudah seperti halnya copy dan paste. 
+* Setiap user berpotensi menjadi admin pada kategori-kategori yang ada.
+
+== Kekurangan MindTalk == 
+
+* Tidak Friendly dengan user atau pemakai.
+* Postingannya belum terstruktur. 
+* Kualitas gambar dan video yang tidak terlalu bagus.
+* Kolom utama pada postingan terlalu besar, sehingga tidak terlalu banyak berita yang dilihat.
+
+== Arsitektur MindTalk ==
+
+* Kata channel biasa digunakan dalam IRC, dan ini juga digunakan dalam MindTalk. 
+* Dalam MindTalk, channel diibaratkan seperti rumah yang dihuni oleh orang-orang dari berbagai asal. 
+* Dalam forum, ini seperti halnya sub-forum. 
+* Dalam channel juga terdapat beberapa atribut seperti : Founder, user dan posting. 
+* User dapat membuat channel seperti yang biasa dilakukan pada IRC. 
+
+== Streams ==
+
+Streams adalah postingan user yang terus berjalan. 
+Postingan di bagi dalam empat tipe, yaitu : Ask (bertanya), Article (untuk membuat artikel), Share dan Deal.
+* Ask : Tempat untuk bertanya, dan bisa juga dijawab oleh user lainnya, dan setiap jawaban bermutu akan mendapatkan ranking. 
+* Article : Digunakan untuk membuat artikel yang dibatasi hingga 20000 karakter. User juga dapat memberikan keyword. 
+* Share : merupakan postingan dengan batasan karakter, mirip dengan twitter ataupun facebook. Didalam minds, kita dapat membagikan file multimedia seperti music, video ataupun foto.
+* Deal : Digunakan untuk membuat penawaran bisnis.
+
+== Fitur ==
+
+Channel customization untuk saat ini meliputi :
+* Pemasangan logo.
+* Pembuatan deskripsi channel. 
+* Privatisasi channel.
+* Pengaturan stream channel.
+* Penghapusan channel.
+* Pengaturan anggota channel
+Channel customization bersifat extensible, artinya dapat dimodifikasi dan dihapus suatu waktu.
+
+Secara teknis, fitur yang dimiliki MindTalk sebenarnya tidak jauh berbeda dengan Twitter ataupun Facebook, seperti update status yang dibatasi 160 karakter saja, sharing dan upload foto, video maupun file dokumen. User pun bisa share ke berbagai situs media sosial lainnya. Icon smiley-nya pun sangat menarik. Mindtalk tidak kalah serunya dengan jejaring sosial facebook dan Twitter. Ini juga salah satu yang membuat para anggotanya semakin interaktif. Pengguna  bisa menulis post dan artikel di sana. Di sini pengguna juga bisa membuat spoiler seperti di forum-forum. Fasilitas Download Aplikasi Mindtalk bahkan sudah bisa didapatkan untuk gadget dan ponsel.<ref> http://infodari.com/serunya-beraktivitas-di-mindtalk-sosial-media-indonesia/ </ref>
+
+Sumber: http://infodari.com/serunya-beraktivitas-di-mindtalk-sosial-media-indonesia/#ixzz2Q4fjoIUL
+
+
+== Facebook and twitter Connect ==
+
+Fitur ini merupakan sebuah fitur yang cukup sederhana di mana pengguna dapat masuk atau login ke MindTalk dengan menggunakan akun dan sandi dari akun Twitter dan Facebook-nya. Jadi tidak menggunakan akun MindTalk.
+
+Cara kerja facebook and twitter connect pada MindTalk :
+Pilih sign in with Facebook atau twitter di halaman login untuk masuk dengan akun dan sandi, lalu ikuti langkah selanjutnya di facebook atau twitter masing-masing.
+
+== Rilis dan pencapaian ==
+
+MindTalk didirikan oleh Robin Marufi dan Danny Oei Wirianto. Mulai dikembangkan pada awal 2011, MindTalk versi beta dirilis pada September 2011. Sejak diluncurkan resmi 14 November 2012, masuk 180.000 pengguna. 65% dari jumlah itu adalah pengguna aktif, dan 85% berasal dari Indonesia.
+
+Beberapa merek seperti Indosat, BCA, Telkom, Nokia, Djarum, dan Unilever juga telah bergabung dalam jejaring sosial ini. Sementara itu, negara lain yang juga nimbrung di Mindtalk, antara lain Amerika Serikat, India, Malaysia, Bangladesh hingga Afrika Selatan.<ref>http://beritahukum.com/detail_berita.php?judul=Wow%2C+Anak+Muda+Indonesia+Menghadirkan+Jejaring+Sosial+Mindtalk&subjudul=Demo%20Buruh#.UWPdjcrs7NE</ref>
+
+MindTalk juga diminati oleh pengguna di 190 negara. Ini terbukti dari data unduhan aplikasi MindTalk yang telah tersedia untuk perangkat mobile bersistem operasi [[Android]], [[iPhone]], [[BlackBerry]], [[Windows Phone]], serta platform [[Nokia]]. <ref> http://tekno.kompas.com/read/2012/11/16/09090141/MindTalk.Mau.Ekspansi.ke.Luar.Negeri</ref>
+
+== Referensi ==
+<references />
+
+[[Kategori:Jejaring sosial]]

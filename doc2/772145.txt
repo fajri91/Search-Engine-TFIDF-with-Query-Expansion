@@ -1,0 +1,160 @@
+Templat:Insecta
+{{Navbox with collapsible groups
+|name=Insecta
+|title=[[Insecta]] ([[:Kategori:Serangga|Serangga]])
+|bodyclass=hlist
+|state={{{state<includeonly>|collapsed</includeonly>}}}
+|selected={{{1|hidup}}}
+|abbr1=hidup
+|abbr2=punah
+|above=
+*Kerajaan: [[Animal]]ia
+*Filum: [[Arthropod]]a
+*(unranked): [[Pancrustacea]]
+*Upafilum: [[Hexapoda]]
+|group1=Hidup
+|image=[[File:Insect collage.png|75px]]
+|list1={{navbox subgroup
+|below=<small>
+*Empat ordo dengan spesies terbanyak di'''cetak tebal'''
+* Kelompok parafiletik di''cetak miring''
+*Berdasarkan [http://www.biomedcentral.com/1471-2148/13/236 Sasaki ''et al.'' (2013)]</small>
+|groupstyle=line-height:1em;text-align:center;
+|liststyle=text-align:left;
+|list1={{navbox subgroup
+|group1=[[Monocondylia]]
+|list1=
+*[[Archaeognatha|Archaeognatha <small>(jumping bristletails)</small>]]
+}}
+|group2=[[Dicondylia|D<br>i<br>c<br>o<br>n<br>d<br>y<br>l<br>i<br>a]]
+|list2={{navbox subgroup
+|groupstyle=line-height:1em;text-align:center;
+|list2={{navbox subgroup
+|group2=[[Apterygota]]{{abbr|&nbsp;*|dalam arti sempit (tidak termasuk Entognatha dan Archaeognatha)}}
+|list2=
+*[[Thysanura|Thysanura (Zygentoma) <small>(silverfish, firebrats)</small>]]
+}}
+|group3=[[Pterygota|P<br>t<br>e<br>r<br>y<br>g<br>o<br>t<br>a]]
+|list3={{navbox subgroup
+|groupstyle=line-height:1em;text-align:center;
+|list1={{navbox subgroup
+|group1=[[Palaeoptera]]
+|list1={{navbox subgroup
+|group1=[[Ephemeropteroidea]]
+|list1=
+*[[Mayfly|Ephemeroptera <small>(mayflies)</small>]]
+|group2=[[Odonatoptera]]
+|list2=
+*[[Odonata|Odonata <small>(capung)</small>]]
+}}}}
+|group2=[[Neoptera|N<br>e<br>o<br>p<br>t<br>e<br>r<br>a]]
+|list2={{navbox subgroup
+|groupstyle=line-height:1.0em;text-align:center;
+|list1={{navbox subgroup
+|group1={{nobold|Polyneoptera}}
+|list1={{navbox subgroup
+|list1=
+*[[Plecoptera|Plecoptera <small>(stoneflies)</small>]]
+*[[Dermaptera|Dermaptera <small>(cocopet)</small>]]
+*[[Embioptera|Embioptera <small>(webspinners)</small>]]
+*[[Phasmatodea|Phasmatodea <small>(stick and leaf insects)</small>]]
+*[[Notoptera|Notoptera <small>(ice-crawlers, gladiators)</small>]]
+*[[Orthoptera|Orthoptera <small>(jangkrik, weta, belalang, locusts)</small>]]
+*[[Zoraptera|Zoraptera <small>(angel insects)</small>]]
+|list3={{navbox subgroup
+|group2=[[Dictyoptera]]
+|list2=
+*[[Blattodea|Blattodea <small>(kecoa, rayap)</small>]]
+*[[Belalang sentadu|Mantodea <small>(belalang sentadu)</small>]]
+}}}}}}
+|group3=[[Eumetabola|E<br>u<br>m<br>e<br>t<br>a<br>b<br>o<br>l<br>a]]
+|list3={{navbox subgroup
+|groupstyle=line-height:1.0em;text-align:center;font-size:85%;
+|list1={{navbox subgroup
+|group1=''[[Paraneoptera]]''{{abbr|&nbsp;*|Eumetabola <nowiki>=</nowiki> (Psocodea + (selebihnya Paraneoptera + Endopterygota))}}
+|list1=
+*[[Psocodea|Psocodea <small>(barklice, lice)</small>]]
+*[[Thrips|Thysanoptera <small>(thrips)</small>]]
+*[[Hemiptera|Hemiptera <small>(kepik)</small>]]
+}}
+|group2=[[Endopterygota|E<br>n<br>d<br>o<br>p<br>t<br>e<br>r<br>y<br>g<br>o<br>t<br>a]]
+|list2={{navbox subgroup
+|groupstyle=width:9em;
+|liststyle=width:auto;
+|group2={{nobold|basal}}
+|list2=
+*'''[[Hymenoptera|Hymenoptera <small>(tawon, lebah, semut)</small>]]'''
+|group3={{nobold|Neuropteroidea}}
+|list3={{navbox subgroup
+|groupstyle=width:12em;
+|liststyle=width:auto;
+|group1={{nobold|Coleopterida}}
+|list1=
+*[[Strepsiptera|Strepsiptera <small>(twisted-winged parasites)</small>]]
+*'''[[Kumbang|Coleoptera <small>(kumbang)</small>]]'''
+|group2=[[Neuropterida]]
+|list2=
+*[[Raphidioptera|Raphidioptera <small>(snakeflies)</small>]]
+*[[Megaloptera|Megaloptera <small>(alderflies, dobsonflies, fishflies)</small>]]
+*[[Neuroptera|Neuroptera <small>(net-winged insects: lacewings, mantidflies, antlions)</small>]]
+}}
+|group4=[[Panorpida|Panorpida</br><small>{{nobold|(Mecopterida)}}</small>]]
+|list4={{navbox subgroup
+|groupstyle=line-height:2em;width:12em;
+|liststyle=width:auto;
+|group1={{nobold|Antliophora}}
+|list1=
+*{{abbr|''[[Mecoptera|Mecoptera <small>(scorpionflies)</small>]]'' + [[Siphonaptera|Siphonaptera <small>(fleas)</small>]]|Klad yang meliputi ordo paraphyletic Mecoptera dan ordo monophyletic Siphonaptera.}}
+*'''[[Lalat|Diptera <small>(nyamuk, lalat)</small>]]'''
+|group2=[[Amphiesmenoptera]]
+|list2=
+*[[Trichoptera|Trichoptera <small>(caddisflies)</small>]]
+*'''[[Lepidoptera|Lepidoptera <small>(kupu-kupu, ngengat)</small>]]'''
+}}}}}}}}}}}}}}
+|group2=Punah
+|list2={{navbox subgroup
+|below=
+*<small>Familia dan genus [[incertae sedis]] yang punah di''cetak miring''</small>
+|list1=
+*[[Archodonata]]
+*[[Blattoptera]]
+*[[Caloneurodea]]
+*[[Campylopteridae]]
+*[[Carbotriplurida]]
+*[[Coxoplectoptera]]
+*[[Diaphanopterodea]]
+*[[Eoblattodea]]
+*''[[Eocoronidae]]''
+*[[Eudiaphanoptera]]
+*''[[Erasipteridae]]''
+*''[[Gerarus]]''
+*[[Geroptera]]
+*[[Glosselytrodea]]
+*[[Heraridea]]
+*[[Hypoperlida]]
+*[[Lapeyriidae]]
+*[[Meganisoptera|Meganisoptera <small>("griffinflies" atau "giant dragonflies", "capung raksasa")</small>]]
+*[[Megasecoptera]]
+*''[[Mendozachorista]]''
+*[[Miomoptera]]
+*[[Monura]]
+*[[Palaeodictyoptera]]
+*[[Paoliida]]
+*[[Permoplecoptera]]
+*[[Protanisoptera]]
+*[[Protelytroptera]]
+*[[Protephemerida]]
+*[[Protodiptera]]
+*[[Protorthoptera]]
+*[[Protozygoptera]]
+*''[[Pseudopulex]]''
+*''[[Rhyniognatha]]''
+*[[Syntonoptera]]
+*[[Titanoptera]]
+*[[Triadophlebioptera]]
+}}
+|below=[[:species:Insecta|Wikispecies]]
+}}<noinclude>
+{{collapsible option}}
+[[Category:Templat navigasi hewan]]
+</noinclude>

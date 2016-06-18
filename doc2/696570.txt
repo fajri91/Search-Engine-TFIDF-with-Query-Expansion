@@ -1,0 +1,14 @@
+AN/FPS-23
+'''Motorola AN/FPS-23''' adalah sebuah radar pencarian jarak pendek dikerahkan ke Distant Early Warning Line (DEW Line) "Intermediate" situs sebagai kesenjangan-pengisi antara jarak AN/FPS-19 Main dan stasiun Auxiliary.
+
+Sistem radar AN/FPS-23 DEW-Line diproduksi oleh Motorola, dan dioperasikan pada frekuensi antara 475 dan 525&nbsp;MHz, dengan daya output 1 kilowatt.
+
+Hal itu dinyatakan usang pada tahun 1963, dan stasiun Intermediate ditutup.
+
+== Referensi ==
+{{Reflist}}
+* [http://www.radomes.org/museum/equip.php  USAF Air Defense Radar Equipment]
+
+{{Radar}}
+
+[[Kategori:Radar darat]]

@@ -1,0 +1,112 @@
+Nirkabel
+''Untuk kegunaan lain dari nirkabel silahkan merujuk pada halaman [[Nirkabel (disambiguasi)]]''
+
+'''Telekomunikasi nirkabel''' adalah transfer informasi antara dua atau lebih titik yang tidak terhubung oleh [penghantar listrik]. Jarak bisa pendek, seperti beberapa meter untuk remote control televisi, atau sejauh ribuan atau bahkan jutaan kilometer untuk ruang-dalam komunikasi radio. Ini meliputi berbagai jenis tetap, mobile, dan portabel radio dua arah, telepon seluler, personal digital assistant ([[PDA]]), dan jaringan nirkabel. Contoh lain dari teknologi nirkabel termasuk [[GPS]] unit, pembuka pintu garasi atau pintu garasi, wireless mouse komputer, keyboard dan headset (audio), headphone, penerima radio, televisi satelit, siaran televisi tanpa kabel dan [[telepon]]. 
+
+==Pendahuluan==
+Mekanisme telekomunikasi nirkabel memungkinkan [[komunikasi jarak jauh]] dengan lokasi yang tidak mungkin atau relatif sulit untuk dihubungkan dengan kabel, misalnya dalam bentuk [[pemancar/penerima radio]], [[pengendali jarak jauh]], [[jaringan komputer nirkabel]]. Umumnya telekomunikasi nirkabel menggunakan sarana [[gelombang elektromagnetik]] (misalnya [[laser]], [[cahaya]], [[frekuensi radio]] (RF)) atau [[gelombang suara]] untuk mentransfer informasi tanpa menggunakan kabel.
+
+==Jasa Nirkabel== 
+Contoh umum peralatan nirkabel termasuk: 
+* [[Telemetri]] kontrol dan [[sistem kontrol]] lalu lintas 
+* [[Inframerah]] dan ultrasonik perangkat remote control 
+* [[Modulasi]] cahaya sistem laser untuk titik ke titik komunikasi 
+* Profesional LMR (Land Mobile Radio) dan SMR (Khusus Handphone Radio ) biasanya digunakan oleh bisnis, industri dan entitas Keselamatan Publik. 
+* Konsumen Dua cara radio FRS termasuk Keluarga Radio Service , GMRS (''Global Medium Radio Service'') dan band Warga ("CB") radio. 
+* Para Amatir Radio Service (Ham radio). 
+* Konsumen dan profesional kelautan [[VHF]] radio . 
+* Airband dan radio [[navigasi]] peralatan yang digunakan oleh penerbang dan kontrol lalu lintas udara.
+* [[Telepon selular]] dan pager: menyediakan konektivitas untuk portabel dan aplikasi mobile, baik pribadi dan bisnis. 
+* ''Global Positioning System'' ([[GPS]]): memungkinkan pengemudi mobil dan truk, kapten kapal dan kapal, dan pilot pesawat untuk memastikan lokasi mereka di mana saja di bumi 
+* Peripheral komputer nirkabel: mouse nirkabel adalah contoh yang umum, keyboard dan printer juga dapat dihubungkan ke komputer melalui teknologi menggunakan nirkabel seperti Wireless USB atau Bluetooth 
+* Telepon nirkabel set: ini adalah terbatas jarak perangkat, tidak menjadi bingung dengan ponsel. 
+* [[Televisi satelit]] : Apakah siaran dari satelit di orbit geostasioner . Layanan khas menggunakan satelit siaran langsung untuk menyediakan beberapa televisi saluran untuk pemirsa.
+
+==Jaringan nirkabel== 
+'''Jaringan nirkabel''' (yaitu berbagai jenis tanpa izin 2,4 GHz perangkat WiFi) digunakan untuk memenuhi kebutuhan banyak. Mungkin penggunaan paling umum adalah untuk menghubungkan pengguna laptop yang melakukan perjalanan dari lokasi ke lokasi. Penggunaan lain yang umum adalah untuk jaringan mobile yang terhubung melalui [[satelit]]. Sebuah metode transmisi nirkabel adalah pilihan yang logis untuk jaringan segmen [[LAN]] yang sering harus mengubah lokasi. Situasi berikut membenarkan penggunaan teknologi nirkabel: 
+* Untuk rentang jarak di luar kemampuan kabel yang khas, 
+* Untuk menyediakan link komunikasi cadangan jika terjadi kegagalan jaringan normal, 
+* Untuk menghubungkan ''workstation'' portabel atau sementara, 
+* Untuk mengatasi situasi di mana kabel normal adalah sulit atau finansial tidak praktis, atau 
+* Untuk jarak jauh menghubungkan pengguna ponsel atau jaringan.
+
+==Mode== 
+Komunikasi nirkabel dapat melalui: 
+* Radio frekuensi komunikasi
+* Microwave komunikasi, misalnya jarak ''line-of-sight'' melalui antena sangat terarah, atau jarak pendek komunikasi,
+* [[inframerah]] (IR) komunikasi jarak pendek, misalnya dari komsumen IR perangkat seperti remote kontrol atau melalui Inframerah Data Asosiasi (IrDA) 
+Aplikasi mungkin melibatkan point-to-point komunikasi , point-to-multipoint komunikasi , penyiaran , jaringan selular dan jaringan nirkabel.
+
+==Cordless== 
+The "nirkabel" Istilah tidak harus bingung dengan istilah "tanpa kabel", yang umumnya digunakan untuk merujuk kepada perangkat listrik atau [[elektronik]] bertenaga yang mampu beroperasi dari sumber listrik portabel (misalnya [[baterai]]) tanpa kabel atau kabel untuk membatasi mobilitas perangkat nirkabel melalui sambungan ke catu daya listrik. 
+Beberapa perangkat nirkabel, seperti telepon tanpa kabel, nirkabel juga dalam arti bahwa informasi ditransfer dari telepon tanpa kabel ke unit dasar telepon yang melalui beberapa jenis nirkabel link komunikasi . Hal ini menyebabkan beberapa perbedaan dalam penggunaan istilah "tanpa kabel", misalnya di ''Digital Enhanced Cordless Telecommunications''.
+
+==Sejarah== 
+===Fotofon===
+[[File:Photophony1.jpg|thumb|right|Bell and Tainter's photophone, of 1880.]]
+Percakapan telepon nirkabel pertama di dunia terjadi pada tahun 1880, ketika '''[[Alexander Graham Bell]]''' dan '''Charles Sumner Tainter''' ditemukan dan dipatenkan photophone, telepon yang dilakukan percakapan audio yang dimodulasi secara nirkabel melalui berkas cahaya (yang adalah proyeksi sempit [[gelombang elektromagnetik]]). Dalam era jauh bila utilitas belum ada untuk menyediakan listrik , dan [[laser]] bahkan tidak dipahami dalam fiksi ilmiah , tidak ada aplikasi praktis untuk penemuan mereka, yang sangat dibatasi oleh ketersediaan dari kedua sinar matahari dan cuaca yang baik. Serupa dengan ruang komunikasi gratis optik, photophone juga membutuhkan garis yang jelas terlihat antara pemancar dan penerima. Akan beberapa dekade sebelum prinsip-prinsip photophone menemukan aplikasi pertama mereka praktis dalam komunikasi militer dan kemudian di komunikasi serat optik.
+
+===Awal kerja nirkabel===
+''David E. Hughes'' mentransmisikan sinyal radio lebih beberapa ratus meter melalui pemancar jarum jam mengetik pada tahun 1879. Karena ini adalah sebelum pekerjaan [[James Clerk Maxwell|Maxwell]] dipahami, sezaman Hughes dipecat prestasinya sebagai sekadar "Induksi". Pada tahun 1885, TA Edison menggunakan magnet vibrator untuk transmisi induksi. Pada 1888, [[Thomas Alfa Edison|Edison]] dikerahkan sistem sinyal pada Railroad Lehigh Valley. Pada tahun 1891, Edison memperoleh paten nirkabel untuk metode ini menggunakan induktansi (US Patent 465.971).
+
+Dalam sejarah teknologi nirkabel, demonstrasi teori gelombang elektromagnetik oleh [[Heinrich Hertz]] pada tahun 1888 adalah penting. Teori gelombang elektromagnetik diperkirakan dari penelitian [[James Clerk Maxwell]] dan [[Michael Faraday]]. Hertz menunjukkan bahwa gelombang elektromagnetik dapat ditularkan dan menyebabkan untuk melakukan perjalanan melalui ruang di garis lurus dan bahwa mereka dapat diterima oleh peralatan eksperimen. Percobaan tidak ditindaklanjuti oleh Hertz. Jagadish Chandra Bose sekitar ini waktu mengembangkan perangkat nirkabel deteksi dini dan membantu meningkatkan pengetahuan tentang gelombang elektromagnetik panjang milimeter. Aplikasi praktis dari komunikasi radio nirkabel dan teknologi radio remote control yang diterapkan oleh penemu kemudian, seperti Nikola Tesla .
+
+===Radio===
+[[File:Guglielmo Marconi 1901 wireless signal.jpg|thumb|Marconi did transmit the first radio signal across the Atlantic.]]
+The "nirkabel" mulai dipakai istilah umum untuk merujuk ke penerima radio atau transceiver (penerima tujuan ganda dan perangkat pemancar), menetapkan penggunaan dalam bidang telegrafi nirkabel sejak dini, sekarang istilah ini digunakan untuk menggambarkan koneksi nirkabel modern seperti seperti pada jaringan selular dan [[internet]] broadband nirkabel. Hal ini juga digunakan dalam pengertian umum untuk mengacu pada setiap jenis operasi yang diimplementasikan tanpa menggunakan kabel, seperti "remote control nirkabel" atau "transfer energi nirkabel", terlepas dari teknologi tertentu (misalnya radio , inframerah , ultrasonik ) yang digunakan. [[Guglielmo Marconi]] dan [[Karl Ferdinand Braun]] dianugerahi Hadiah [[Nobel]] bidang Fisika pada tahun 1909 untuk kontribusinya bagi [[telegrafi]] nirkabel.
+
+==Spektrum elektromagnetik== 
+Cahaya, warna, [[AM]] dan radio [[FM]], dan perangkat elektronik memanfaatkan [[spektrum elektromagnetik]]. Frekuensi dari spektrum radio yang tersedia untuk digunakan untuk komunikasi diperlakukan sebagai sumber daya publik dan diatur oleh organisasi nasional seperti Komisi Komunikasi Federal di [[Amerika Serikat]], atau Ofcom di Inggris. Ini menentukan rentang frekuensi yang dapat digunakan untuk tujuan apa dan oleh siapa. Dengan tidak adanya kontrol atau pengaturan alternatif seperti spektrum elektromagnetik privatisasi, kekacauan mungkin timbul jika, misalnya, maskapai penerbangan tidak memiliki frekuensi spesifik untuk bekerja di bawah dan radio amatir Operator yang mengganggu kemampuan pilot untuk mendaratkan sebuah pesawat. Komunikasi nirkabel mencakup spektrum dari 9 kHz sampai 300 GHz. Henreich Hertz adalah penemu dari gelombang elektromagnetik, itu memberi platform untuk penemuan lebih lanjut dalam komunikasi nirkabel..
+
+==Aplikasi teknologi nirkabel== 
+===Telepon Genggam===
+Salah satu contoh paling terkenal dari teknologi nirkabel adalah ponsel, juga dikenal sebagai telepon selular, dengan lebih dari 4,6 miliar langganan bergerak seluler di seluruh dunia pada akhir 2010. Ponsel ini nirkabel menggunakan gelombang radio untuk memungkinkan mereka pengguna untuk melakukan panggilan telepon dari banyak lokasi di seluruh dunia. Mereka dapat digunakan dalam jangkauan situs telepon selular digunakan untuk rumah peralatan yang dibutuhkan untuk mengirim dan menerima sinyal radio dari instrumen ini.
+
+===Wireless komunikasi data===
+Wireless komunikasi data adalah komponen penting dari komputasi mobile. Teknologi yang tersedia berbagai berbeda dalam ketersediaan lokal, jangkauan cakupan dan kinerja, dan dalam beberapa keadaan, pengguna harus dapat menggunakan jenis koneksi beberapa dan beralih antara mereka. Untuk menyederhanakan pengalaman bagi pengguna, perangkat lunak koneksi manajer dapat digunakan, atau mobile VPN dikerahkan untuk menangani beberapa sambungan sebagai, aman tunggal jaringan virtual . teknologi Pendukung meliputi: 
+
+'''Wi-Fi''' adalah nirkabel jaringan area lokal yang memungkinkan perangkat komputasi portabel untuk terhubung dengan mudah ke Internet. Standar sebagai IEEE 802.11 a, b, g, n, Wi-Fi pendekatan kecepatan beberapa jenis kabel Ethernet . Wi-Fi telah menjadi standar de facto untuk akses di rumah pribadi, di dalam kantor, dan di hotspot publik. Beberapa bisnis pelanggan mengenakan biaya bulanan untuk layanan, sementara yang lain telah mulai menawarkan secara gratis dalam upaya untuk meningkatkan penjualan barang mereka.
+
+'''Selular layanan data''' menawarkan jangkauan dalam jarak 10-15 mil dari terdekat situs sel. Kecepatan telah meningkat sebagai teknologi telah berkembang, dari teknologi sebelumnya seperti [[GSM]], CDMA dan [[GPRS]], untuk 3G jaringan seperti W-CDMA, [[EDGE]] atau [[CDMA]] 2000.
+ 
+'''Handphone Satelit Komunikasi''' dapat digunakan di mana koneksi nirkabel lainnya tidak tersedia, seperti di daerah pedesaan sebagian besar atau lokasi terpencil. Satelit komunikasi sangat penting untuk transportasi, penerbangan, maritime dan militer.
+
+===Transfer energi Wireless===
+Transfer energi nirkabel adalah proses dimana energi listrik yang ditransmisikan dari sumber listrik ke beban listrik yang tidak memiliki sumber daya built-in, tanpa menggunakan kabel interkoneksi.
+
+===Perangkat Komputer antarmuka=== 
+Menjawab panggilan pelanggan frustasi dengan kekacauan kabel, banyak manufaktur peripheral komputer beralih ke teknologi nirkabel untuk memuaskan basis konsumen mereka. Awalnya unit ini digunakan besar, transceiver yang sangat terbatas untuk menengahi antara komputer dan keyboard dan mouse, namun generasi yang lebih baru telah menggunakan kecil, perangkat berkualitas tinggi, beberapa bahkan menggabungkan Bluetooth . Sistem ini telah menjadi begitu di mana-mana bahwa beberapa pengguna telah mulai mengeluh tentang kurangnya peripheral kabel. Perangkat nirkabel cenderung memiliki waktu respon sedikit lebih lambat dari rekan-rekan mereka kabel, namun kesenjangan yang menurun. Kekhawatiran tentang keamanan keyboard nirkabel muncul pada akhir 2007, ketika terungkap bahwa implementasi Microsoft enkripsi dalam beberapa dari 27 model MHz adalah sangat tidak aman.
+
+==Kategori implementasi nirkabel, perangkat dan standar==
+* Radio sistem komunikasi
+* Penyiaran
+* [[Radio amatir]]
+* Land Mobile Radio atau Radio Professiona : TETRA, P25, OpenSky, EDACS, DMR, dPMR
+* Telepon cordless: DECT (Digital Enhanced Cordless Telecommunications ) 
+* Jaringan seluler: 0G, 1G, 2G, 3G, 3G luar (4G), nirkabel masa depan 
+* Daftar teknologi yang sedang berkembang 
+* Jarak pendek point-to-point komunikasi: mikrofon nirkabel , Remote kontrol , IrDA , RFID (Radio Frequency Identification) , TransferJet , Wireless USB , DSRC (Dedicated Komunikasi Short Range) , EnOcean , Near Field Communication 
+* Wireless sensor jaringan : ZigBee , EnOcean ; jaringan area pribadi , Bluetooth , TransferJet , Ultra-wideband (UWB dari WiMedia Aliansi ). 
+* Jaringan nirkabel : Wireless LAN ([[WLAN]]), ( IEEE 802.11 dicap sebagai Wi-Fi dan HiperLAN ), Wireless Networks Metropolitan Area (WMAN) dan (LMDS, [[WiMAX]], dan [[HiperMAN)
+
+==Referensi==
+* Pahlavan, Kaveh; Levesque, Allen H (1995). Wireless Information Networks. John Wiley & Sons. ISBN [[Special:BookSources/00471106070|00471106070]]. 
+* Geier, Jim (2001). Wireless LANs. Sams. ISBN 0-672-32058-4. 
+* Goldsmith, Andrea (2005). Wireless Communications. Cambridge University Press. ISBN 0-521-83716-2. 
+* Molisch, Andreas (2005). Wireless Communications. Wiley-IEEE Press. ISBN 0-470-84888-X.
+* Marissa, Bianda Intan (2012). Communication Technology. London. ISBN 0-806-32249-6
+
+{{network-stub}}
+{{komputer-stub}}
+[[Kategori:Nirkabel]]
+[[Kategori:Komunikasi data]]
+[[Kategori:Komunikasi nirkabel]]
+[[Kategori:Wi-Fi]]
+[[Kategori:Jaringan nirkabel]]
+
+
+[[ar: ]]
+[[de:Funkverkehr]]
+
+== Pranala luar ==
+* [http://www.mobileindonesia.net/ngintip-wireline-dan-wireless/ Perbandingan Wireless dan Wireline]

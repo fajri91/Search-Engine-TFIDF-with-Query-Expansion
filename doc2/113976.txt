@@ -1,0 +1,52 @@
+Euro Interbank Offered Rate
+[[Berkas:EuriborChart12m3m1w.svg |thumb|350px|Nilai Euribor-12 bulan antara tahun 1998 dan 2011]]
+'''Euribor''' (Euro Interbank Offered Rate) adalah [[kurs referensi]] harian yang mengacu pada rata-rata [[suku bunga]] yang ditawarkan oleh [[bank]]untuk dipinjamkan dalam bentuk [[pinjaman tanpa jaminan]] kepada bank lainnya pada [[pasar uang]] [[euro]] (atau [[pasar uang antar bank]]). 
+
+== Ruang lingkup ==
+Kurs suku bunga Euribor digunakan secara luas sebagai suatu kurs referensi untuk suatu instrumen [[keuangan]] seperti misalnya pada :
+* [[Kontrak berjangka kurs]] atau lebih dikenal dengan nama ''forward rate agreement'' (FRA) <ref>Istilah "asing" ''forward rate agreement'' ini digunakan pula secara umum oleh lembaga pemerintah seperti misalnya [[Bank Indonesia]] dalam peraturannya seperti yang terlihat pada [http://www.bi.go.id/NR/rdonlyres/F2A7D511-14BA-4333-AB6B-1C7CBC11326E/2848/lampse74505dpd.pdf Surat edaran Bank Indonesia tentang petunjuk laporan transaksi derivatif]</ref>
+* [[Perdagangan berjangka]] kurs bunga jangka pendek 
+* [[Swap suku bunga]]
+* [[Surat pengakuan hutang bunga mengambang]] atau yang lebih dikenal dengan nama "''floating rate note''" (FRN)
+* [[Kredit sindikasi]]
+* [[adjustable rate mortgage]] yaitu penyesuaian suku bunga pada [[kredit pemilikan rumah]] setelah jangka waktu tertentu yang pada umumnya menggunakan patokan kurs referensi
+* [[nilai tukar]], khususnya [[euro]] 
+
+Kurs referensi domestik seperti PIBOR ([[Paris]]) atau FIBOR ([[Frankfurt]] bergabung pada Euribor sejak penggabungan ekonomi dan moneter dari [[Uni Eropa]] pada tanggal 1 Januari [[1999]]
+
+== Fitur tehnis ==
+Euribor diterbitkan secara tetap oleh [[European Banking Federation]] (EBF) setiap harinya sekitar pukul 11:00 siang waktu [[Central European Time]], ang merupakan rata-rata suku bunga deposito antar bank dari beberapa bank terpilih ( saat ini lebih dari 50 bank), untuk jangka waktu pinjaman atara 1 minggu hingga satu tahun. 
+
+Kurs Euribor adalah kurs ''spot'' , misalnya dengan waktu pelaksanaan 2 hari kerja terhitung sejak saat penutupan transaksi. seperti halnya dengan kurs pasar uang [[Amerika Serikat|Amerika]] maka perhitungannya menggunakan sistem perhitungan jumlah hari dalam setahun sama dengan 360 hari.
+
+Kurs tersingkat misalnya dibawah 6 bulan biasanya adalah hampir mendekati cerminan kondisi pasar pada saat itu. Suku bunga pinjaman antar bank ini setiap harinya mengalami perubahan.
+
+Euribor pertama kalinya diperkenalkan pada tanggal 30 Desember [[1998]] untuk nilai pada tanggal 4 Januar1 1[[999]].
+
+== Derivatif berbasis Euribor ==
+=== Kontrak Euribor ===
+[[Euronext.liffe]] adalah [[kotrak berjangka]] ''Euribor'' yang berdasarkan perhitungan kurs Euribor 3 bulan. Ini adalah termasuk perdagangan favorit pada perdagangan di bursa [[Chicago Mercantile Exchange]] .
+ 
+=== Interest Rate Swaps ===
+[[Swap suku bunga]] yang berbasis Euribor saat ini diperdagangkan pada [[pasar uang antar bank]] untuk masa jatuh tempo hingga diatas 50 tahun 
+Suku bunga "Euribor 5 tahun" merujuk pada kurs swap 5 tahun yang dipertukarkan dengan kurs swap Euribor 3bulan.
+
+
+== Lihat pula ==
+* [[LIBOR]]
+
+== Pranala luar ==
+* [http://www.ecb.int/ European Central Bank]
+* [http://www.euribor.org/ Euribor homepage]
+** [http://www.euribor.org/html/content/euribor_data.html Euribor historical data (informative)]
+* [http://www.moneyline.com/ Moneyline Telerate]
+* [http://www.financeinfrance.com/fif_news/euribor Euribor charts] - updated charts on all Euribor rates updated daily (requires [[Macromedia Flash]])
+* [http://www.suomenpankki.fi/en/tilastot/korot/kuviot.htm Euribor Rate, Daily Update (Bank of Finland)]
+
+'''Euribor reference rates are''' published on the [http://www.moneyline.com/ Moneyline Telerate] pages 248-249 and 47860-66. Informative historical data can also be found at the [http://www.euribor.org/html/content/euribor_data.html Euribor homepage].
+
+== Referensi ==
+{{reflist}}
+
+[[Kategori:Keuangan]]
+[[Kategori:Ekonomi]]

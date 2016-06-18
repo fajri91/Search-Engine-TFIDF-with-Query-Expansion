@@ -1,0 +1,20 @@
+Cacing komputer
+'''Cacing komputer'''<ref>{{cite web|url=http://kateglo.bahtera.org/index.php?mod=glossary&op=1&phrase=computer+worm&dc=teknologiinformasi&lang=&src=&srch=Cari|title=Kateglo - Glosarium - cacing komputer|accessdate=2011-08-02}}</ref> atau juga di sebut '''worm'''<ref>{{cite web|url=http://kateglo.bahtera.org/index.php?mod=glossary&op=3&phrase=worm&dc=teknologiinformasi&lang=&src=&srch=Cari|title=Kateglo - Glosarium - worm|accessdate=2011-08-02}}</ref> (bahasa Inggris: '''''computer worm''''' atau '''''worm''''') dalam keamanan komputer, adalah sebuah program komputer yang dapat menggandakan dirinya secara sendiri dalam sistem komputer. Sebuah worm dapat menggandakan dirinya dengan memanfaatkan jaringan (LAN/WAN/Internet) tanpa perlu campur tangan dari user itu sendiri. Worm tidak seperti virus komputer biasa, yang menggandakan dirinya dengan cara menyisipkan program dirinya pada program yang ada dalam komputer tersebut, tapi worm memanfaatkan celah keamanaan yang memang terbuka atau lebih dikenal dengan sebutan [[vulnerability]]. Beberapa worm juga menghabiskan ''[[bandwidth]]'' yang tersedia. Worm merupakan evolusi dari [[virus komputer]]. Hanya ada satu cara untuk mengatasi worm yaitu dengan menutup celah keamanan yang terbuka tersebut, dengan cara meng-update [[patch]] atau Service Pack dari operating sistem yang digunakan dengan patch atau Service Pack yang paling terbaru.
+
+Virus komputer memang dapat menginfeksi berkas-berkas dalam sebuah sistem komputer, tapi worm dapat melakukannya dengan lebih baik. Selain dapat menyebar dalam sebuah sistem, worm juga dapat menyebar ke banyak sistem melalui jaringan yang terhubung dengan sistem yang terinfeksi. Beberapa worm, juga dapat mencakup kode-kode [[virus komputer|virus]] yang dapat merusak [[berkas komputer|berkas]], mencuri dokumen, [[e-mail]], atau melakukan hal lainnya yang merusak, atau hanya menjadikan sistem terinfeksi tidak berguna.
+
+Beberapa contoh dari worm adalah sebagai berikut:
+* ADMw0rm: Worm yang dapat melakukan ekspolitasi terhadap layanan jaringan [[BIND|Berkeley Internet Name Domain (BIND)]], dengan melakukan ''buffer-overflow''. 
+* Code Red: Worm yang dapat melakukan eksploitasi terhadap layanan [[Internet Information Services]] (IIS) versi 4 dan versi 5, dengan melakukan serangan ''buffer-overflow''. 
+* LoveLetter: Worm yang menyebar dengan cara mengirimkan dirinya melalui [[e-mail]] kepada semua akun yang terdaftar dalam Address Book [[Microsoft Outlook Express]]/daftar kontak dalam [[Microsoft Outlook]] dengan cara menggunakan kode [[VBScript|Visual Basic Script (VBScript)]].
+* Nimda
+* SQL-Slammer
+
+== Referensi ==
+{{reflist}}
+
+[[Kategori:Cacing komputer| ]]
+[[Kategori:Malware]]
+
+
+{{network-stub}}

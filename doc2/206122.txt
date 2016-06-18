@@ -1,0 +1,5 @@
+Templat:Italic title
+{{#invoke:Italic title|main}}<noinclude>
+{{documentation}}
+<!-- Add categories to the /doc subpage, and interwikis to Wikidata. -->
+</noinclude>

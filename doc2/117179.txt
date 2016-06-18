@@ -1,0 +1,121 @@
+Amonia
+{| class="toccolours" border="1" style="float: right; clear: right; margin: 0 0 1em 1em; border-collapse: collapse;"
+! {{chembox header}} | Amonia 
+|-	
+| align="center" colspan="2" bgcolor="#ffffff" | [[Berkas:Ammonia-2D-dimensions.png|150px|Ammonia]][[Berkas:Ammonia-3D-vdW.png|150px|Gambar 3 dimensi amonia]]
+|-
+! {{chembox header}} | Umum
+|- 
+| [[Tatanama IUPAC|Nama sistematis]]
+| Amonia{{br}}Azana<ref name="PubChem">[http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?sid=8011146 PubChem Substance Summary], last accessed May 7 2007</ref>
+|-
+| Nama lain
+| Hidrogen nitrida{{br}}spiritus Hartshorn{{br}}Nitrosil{{br}}Vaporol <ref>[http://webbook.nist.gov/cgi/cbook.cgi?Name=Ammonia Ammonia data at NIST Webbook], last accessed May 7 2007.</ref>
+|-
+| [[Rumus kimia|Rumus molekul]]
+| NH<sub>3</sub>
+|-
+| [[Massa molar]]
+| 17.0306 [[gram|g]]/[[mol]]<ref name="PubChem"/>
+|-
+| Penampilan
+| Gas tak berwarna{{br}}berbau tajam
+|-
+| [[Nomor CAS]]
+| {{CASREF|CAS=7664-41-7}}
+|-
+! {{chembox header}} | Sifat-sifat
+|-
+| [[Massa jenis]] and [[fase zat|fase]]
+| 0.6942 [[Gram per liter|g/L]], gas.<ref>[http://webbook.nist.gov/cgi/fluid.cgi?Action=Load&ID=C7664417&Type=IsoTherm&PLow=0.9&PHigh=1.1&PInc=0.1&T=25&RefState=DEF&TUnit=C&PUnit=bar&DUnit=kg%2Fm3&HUnit=kJ%2Fmol&WUnit=m%2Fs&VisUnit=uPa*s&STUnit=N%2Fm NIST Chemistry WebBook] (website page of the National Institute of Standards and Technology) URL last accessed May 15 2007</ref>
+|-
+| [[Kelarutan]] dalam [[air]]
+| 89.9 g/100 [[Mililiter|ml]] pada 0 [[Celsius|C]].
+|-
+<!-- | Other solvents e.g. [[ethanol]], [[acetone]] -->
+<!-- | solubility info on other solvents -->
+<!-- |- -->
+| [[Titik lebur]]
+| -77.73&nbsp;C (195.42 [[Kelvin|K]])
+|-
+| [[Temperatur autosulutan]]
+| 651&nbsp;C 
+|-
+| [[Titik didih]]
+| -33.34&nbsp;C (239.81 K)
+|-
+| [[Asam|Keasaman]] ([[Acid dissociation constant|p''K''<sub>a</sub>]]) 
+| 9.25
+|-
+| [[Basa|Kebasaan]] (p''K''<sub>b</sub>) 
+| 4.75
+|-
+! {{chembox header}} | Struktur
+|-
+| [[Bentuk molekul]] 
+| piramida segitiga
+|-
+| [[Momen dipol]]
+| 1.42 [[Debye|D]]
+|-
+| [[Sudut ikatan]]
+| 107.5
+|-
+! {{chembox header}} | Bahaya  
+|-
+| Bahaya utama
+| berbahaya, [[kaustik]], [[korosi]]f
+|-
+| [[NFPA 704]]
+| {{NFPA 704| Health=3 | Flammability=1 }}
+|-
+| ''[[Flash point]]''
+| Tidak ada<ref>[http://www.wdserviceco.com/03aug06MSDS/msdsANH.pdf MSDS Sheet] from W.D. Service Co.</ref>
+|-
+| [[Pernyataan R/S]]
+| [[Frase R|R]]: {{R10}}, {{R23}}, {{R34}}, {{R50}} {{br}} [[Frase S|S]]: {{S1/2}}, {{S16}}, {{S36/37/39}},{{br}}{{S45}}, {{S61}}
+|-
+| Angka [[RTECS]]
+| BO0875000
+|-
+! {{chembox header}} | Senyawa berhubungan
+|-
+| [[Ion lain]]
+| [[Amonium]] (NH<sub>4</sub><sup>+</sup>){{br}}
+:[[amonium hidroksida|hidroksida]] (NH<sub>4</sub>OH){{br}}
+:[[amonium kloride|klorida]] (NH<sub>4</sub>Cl)
+|-
+| Senyawa lain
+| [[Hidrazin]]{{br}}[[Asam hidrazoat]]{{br}}[[Hidroksilamina]]{{br}}[[kloroamina]]
+|-
+| {{chembox header}} | <small>Kecuali dinyatakan sebaliknya, data di atas{{br}}diberikan dalam [[keadaan standar]](25&nbsp;C, 100 kPa)]]{{br}}[[w:wikipedia:Chemical infobox|Sangkalan umum dan referensi]]</small>
+|-
+|}
+'''Amonia''' adalah [[senyawa kimia]] dengan [[rumus kimia|rumus]] [[nitrogen|N]][[hidrogen|H<sub>3</sub>]]. Biasanya senyawa ini didapati berupa [[gas]] dengan bau tajam yang khas (disebut [[bau amonia]]). Walaupun amonia memiliki sumbangan penting bagi keberadaan [[nutrisi]] di [[bumi]], amonia sendiri adalah senyawa [[kaustik]] dan dapat merusak kesehatan. [[Occupational Safety and Health Administration|Administrasi Keselamatan dan Kesehatan Pekerjaan]] [[Amerika Serikat]] memberikan batas 15 menit bagi kontak dengan amonia dalam gas [[konsentrasi|berkonsentrasi]] 35 [[ppm]] volum, atau 8 jam untuk 25 ppm volum.<ref name=ToxFaqSheet>[http://www.atsdr.cdc.gov/tfacts126.pdf Toxic FAQ Sheet for Ammonia] published by the [[Agency for Toxic Substances and Disease Registry]] (ATSDR), September 2004</ref> Kontak dengan gas amonia berkonsentrasi tinggi dapat menyebabkan kerusakan [[paru-paru]] dan bahkan [[kematian]].<ref name=ToxFaqSheet/> Sekalipun amonia di AS diatur sebagai gas tak mudah terbakar, amonia masih digolongkan sebagai bahan [[racun|beracun]] jika terhirup, dan pengangkutan amonia berjumlah lebih besar dari 3.500 galon (13,248 L) harus disertai surat izin.<ref>[http://www.fmcsa.dot.gov/safety-security/hazmat/hm-permitting.htm#one Hazardous Materials (HM) Safety Permits] from the website of the [[United States Department of Transportation]] (DOT)</ref>
+
+Amonia yang digunakan secara komersial dinamakan ''amonia anhidrat''. Istilah ini menunjukkan tidak adanya air pada bahan tersebut. Karena amonia mendidih di suhu -33&nbsp;C, cairan amonia harus disimpan dalam [[tekanan]] tinggi atau [[temperatur]] amat rendah. Walaupun begitu, [[kalor penguapan]]nya amat tinggi sehingga dapat ditangani dengan [[tabung reaksi]] biasa di dalam [[sungkup asap]]. "Amonia rumah" atau ''[[amonium hidroksida]]'' adalah larutan NH<sub>3</sub> dalam air. Konsentrasi larutan tersebut diukur dalam satuan [[skala Baum|baum]]. Produk larutan komersial amonia berkonsentrasi tinggi biasanya memiliki konsentrasi 26 derajat baum (sekitar 30 persen berat amonia pada 15.5&nbsp;C).<ref name=LaRoche>[http://www.airgasspecialtyproducts.com/UserFiles/laroche/PDF/AAPhysical.pdf Ammonium hydroxide physical properties]</ref> Amonia yang berada di rumah biasanya memiliki konsentrasi 5 hingga 10 persen berat amonia.
+
+Amonia umumnya bersifat [[basa]] (pKb=4.75), namun dapat juga bertindak sebagai asam yang amat [[asam lemah|lemah]] (pKa=9.25).
+Amonia dapat terbentuk secara alami maupun [[sintetis]]. Amonia yang berada di alam merupakan hasil dekomposisi bahan organik.
+
+===Kegunaan Amonia===
+Zat Amonia biasanya digunakan sebagai obat obatan, bahan campuran pupuk urea (CO(NH2)2) dan ZA (Zwvelamonia) ((NH4) 2SO4), bahan pembuatan amonium klorida(NH4Cl)pada baterai, asam nitrat (HNO3), zat pendingin, membuat hidrazin (N2H4)sebagai bahan bakar roket, bahan dasar pembuatan bahan peledak , kertas pelastik, dan detergen dan jika dilarutkan kedalam air maka zat tersebut akan dapat menjadi pembersih alat perkakas rumah tangga.<ref name="ensiklopedi1">{{cite web|title=http://akukimia.blogspot.com/2012/11/kimia-dalam-kehidupan-sehari-hari-bag2.html}}</ref> <ref name="ensiklopedi">{{cite web|title=http://www.amazine.co/18207/amonia-sifat-kimia-ph-dan-kegunaannya/}}</ref>
+
+===Ciri Ciri Amonia===
+1.Amonia merupakan gas yang tidak berwarna namun berbau sangat menyengat.
+2.Sangat mudah larut dalam air, dalam keadaan standar, 1 liter air mampu melarutkan 1180 liter amonia.
+3.Amonia mudah mencair, amonia cair membeku pada suhu (-)78 derajat celsius dan mendidih pada suhu 33 derajat celsius.
+4.Amonia bersifat korosif pada tembaga dan timah.
+5.Amonia digunakan sebagai bahan alat kecantikan seperti bahan campuran pada cat rambut, meluruskan rambut.<ref name="ensiklopedi2">{{cite web|title=https://evynurhidayah.wordpress.com/2012/01/17/makalah-bahan-kimia-beracun/}}</ref> 
+
+
+== Catatan kaki ==
+
+{{reflist}}
+
+[[Kategori:Basa]]
+[[Kategori:Senyawa nitrogen]]
+[[Kategori:Hidrida]]
+
+
+{{senyawa-stub}}

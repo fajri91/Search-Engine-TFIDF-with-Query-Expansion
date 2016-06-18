@@ -1,0 +1,160 @@
+Templat:Infobox settlement/densdisp
+<includeonly>{{#if:
+   {{#iferror:{{#expr:-{{formatnum:{{{/km2}}}|R}}}}
+     |{{#iferror:{{#expr:-{{formatnum:{{{/sqmi}}}|R}}}}
+        |{{#switch:auto
+           |{{{/km2}}}|{{{/sqmi}}}={{#iferror:{{#expr:-{{formatnum:{{{pop}}}|R}}}}
+                   ||{{#ifexpr:{{#iferror:{{#expr:{{formatnum:{{{ha|}}}|R}}}}}}
+                              +{{#iferror:{{#expr:{{formatnum:{{{km2|}}}|R}}}}}}
+                              +{{#iferror:{{#expr:{{formatnum:{{{acre|}}}|R}}}}}}
+                              +{{#iferror:{{#expr:{{formatnum:{{{sqmi|}}}|R}}}}}}
+                              +{{#iferror:{{#expr:{{formatnum:{{{dunam|}}}|R}}}}}}
+                              +0
+                              >0
+                       |1}}
+                 }}
+         }}
+        |1
+      }}
+     |1
+    }}
+|{{infobox settlement/{{infobox settlement/pref|{{{pref}}}|{{{name}}}}}
+   |metv={{#iferror:{{#expr:-{{formatnum:{{{/km2}}}|R}}}}
+           |{{#iferror:{{#expr:-{{formatnum:{{{/sqmi}}}|R}}}}
+              |{{#ifexpr:{{#iferror:{{#expr:{{formatnum:{{{km2|}}}|R}}}}}}+0>0
+                 |{{rnd|{{#expr:{{formatnum:{{{pop}}}|R}}/{{formatnum:{{{km2}}}|R}}}}<!--
+                    -->|{{#expr:(1+ln<!--
+                           -->({{formatnum:{{{km2}}}|R}}^2/<!--
+                           -->({{formatnum:{{{km2}}}|R}}E-{{max/2<!--
+                           -->|{{precision|{{formatnum:{{{pop}}}|R}}}}<!-- 
+                           -->|(3-{{order of magnitude|{{formatnum:{{{pop}}}|R}}}})}}<!--
+                           -->+{{formatnum:{{{pop}}}|R}}E-{{max/2<!--
+                           -->|{{precision|{{formatnum:{{{km2}}}|R}}}}<!-- 
+                           -->|(3-{{order of magnitude|{{formatnum:{{{km2}}}|R}}}})}}<!--
+                           -->/ln10)round0}}}}
+                 |{{#ifexpr:{{#iferror:{{#expr:{{formatnum:{{{ha|}}}|R}}}}}}+0>0
+                 |{{rnd|{{#expr:100*{{formatnum:{{{pop}}}|R}}/{{formatnum:{{{ha}}}|R}}}}<!--
+                    -->|{{#expr:(-1+ln<!--
+                           -->({{formatnum:{{{ha}}}|R}}^2/<!--
+                           -->({{formatnum:{{{ha}}}|R}}E-{{max/2<!--
+                           -->|{{precision|{{formatnum:{{{pop}}}|R}}}}<!-- 
+                           -->|(3-{{order of magnitude|{{formatnum:{{{pop}}}|R}}}})}}<!--
+                           -->+{{formatnum:{{{pop}}}|R}}E-{{max/2<!--
+                           -->|{{precision|{{formatnum:{{{ha}}}|R}}}}<!-- 
+                           -->|(3-{{order of magnitude|{{formatnum:{{{ha}}}|R}}}})}}<!--
+                           -->/ln10)round0}}}}
+                 |{{#ifexpr:{{#iferror:{{#expr:{{formatnum:{{{dunam|}}}|R}}}}}}+0>0
+                 |{{rnd|{{#expr:1000*{{formatnum:{{{pop}}}|R}}/{{formatnum:{{{dunam}}}|R}}}}<!--
+                    -->|{{#expr:(-2+ln<!--
+                           -->({{formatnum:{{{dunam}}}|R}}^2/<!--
+                           -->({{formatnum:{{{dunam}}}|R}}E-{{max/2<!--
+                           -->|{{precision|{{formatnum:{{{pop}}}|R}}}}<!-- 
+                           -->|(3-{{order of magnitude|{{formatnum:{{{pop}}}|R}}}})}}<!--
+                           -->+{{formatnum:{{{pop}}}|R}}E-{{max/2<!--
+                           -->|{{precision|{{formatnum:{{{dunam}}}|R}}}}<!-- 
+                           -->|(3-{{order of magnitude|{{formatnum:{{{dunam}}}|R}}}})}}<!--
+                           -->/ln10)round0}}}}
+                 |{{#ifexpr:{{#iferror:{{#expr:{{formatnum:{{{sqmi|}}}|R}}}}}}+0>0
+                 |{{rnd|{{#expr:{{formatnum:{{{pop}}}|R}}/{{formatnum:{{{sqmi}}}|R}}/2.589988110336}}<!--
+                    -->|{{#expr:(1.41329777+ln<!--
+                           -->({{formatnum:{{{sqmi}}}|R}}^2/<!--
+                           -->({{formatnum:{{{sqmi}}}|R}}E-{{max/2<!--
+                           -->|{{precision|{{formatnum:{{{pop}}}|R}}}}<!-- 
+                           -->|(3-{{order of magnitude|{{formatnum:{{{pop}}}|R}}}})}}<!--
+                           -->+{{formatnum:{{{pop}}}|R}}E-{{max/2<!--
+                           -->|{{precision|{{formatnum:{{{sqmi}}}|R}}}}<!-- 
+                           -->|(3-{{order of magnitude|{{formatnum:{{{sqmi}}}|R}}}})}}<!--
+                           -->/ln10)round0}}}}
+                 |{{rnd|{{#expr:{{formatnum:{{{pop}}}|R}}/{{formatnum:{{{acre}}}|R}}/0.004046856422}}<!--
+                    -->|{{#expr:(-1.392882204+ln<!--
+                           -->({{formatnum:{{{acre}}}|R}}^2/<!--
+                           -->({{formatnum:{{{acre}}}|R}}E-{{max/2<!--
+                           -->|{{precision|{{formatnum:{{{pop}}}|R}}}}<!-- 
+                           -->|(3-{{order of magnitude|{{formatnum:{{{pop}}}|R}}}})}}<!--
+                           -->+{{formatnum:{{{pop}}}|R}}E-{{max/2<!--
+                           -->|{{precision|{{formatnum:{{{acre}}}|R}}}}<!-- 
+                           -->|(3-{{order of magnitude|{{formatnum:{{{acre}}}|R}}}})}}<!--
+                           -->/ln10)round0}}}}
+               }}}}}}}}
+              |{{rnd
+                 |{{#expr:{{formatnum:{{{/sqmi}}}|R}}/2.589988110336}}
+                 |{{max/2
+                    |{{precision|{{formatnum:{{{/sqmi}}}|R}}}}
+                    |-{{Order of magnitude|{{#expr:{{formatnum:{{{/sqmi}}}|R}}/2.589988110336}}}}
+                  }}
+               }}
+            }}
+           |{{{/km2}}}
+         }}
+   |metu=km<sup>2</sup>
+   |impv={{#iferror:{{#expr:-{{formatnum:{{{/sqmi}}}|R}}}}
+           |{{#iferror:{{#expr:-{{formatnum:{{{/km2}}}|R}}}}
+              |{{#ifexpr:{{#iferror:{{#expr:{{formatnum:{{{sqmi|}}}|R}}}}}}+0>0
+                 |{{rnd|{{#expr:{{formatnum:{{{pop}}}|R}}/{{formatnum:{{{sqmi}}}|R}}}}<!--
+                    -->|{{#expr:(1+ln({{formatnum:{{{sqmi}}}|R}}^2/<!--
+                           -->({{formatnum:{{{sqmi}}}|R}}E-{{max/2<!--
+                           -->|{{precision|{{formatnum:{{{pop}}}|R}}}}<!-- 
+                           -->|(3-{{order of magnitude|{{formatnum:{{{pop}}}|R}}}})}}<!--
+                           -->+{{formatnum:{{{pop}}}|R}}E-{{max/2<!--
+                           -->|{{precision|{{formatnum:{{{sqmi}}}|R}}}}<!-- 
+                           -->|(3-{{order of magnitude|{{formatnum:{{{sqmi}}}|R}}}})}}<!--
+                           -->/ln10)round0}}}}
+                 |{{#ifexpr:{{#iferror:{{#expr:{{formatnum:{{{acre|}}}|R}}}}}}+0>0
+                 |{{rnd|{{#expr:640*{{formatnum:{{{pop}}}|R}}/{{formatnum:{{{acre}}}|R}}}}<!--
+                    -->|{{#expr:(-1.806179974+ln({{formatnum:{{{acre}}}|R}}^2/<!--
+                           -->({{formatnum:{{{acre}}}|R}}E-{{max/2<!--
+                           -->|{{precision|{{formatnum:{{{pop}}}|R}}}}<!-- 
+                           -->|(3-{{order of magnitude|{{formatnum:{{{pop}}}|R}}}})}}<!--
+                           -->+{{formatnum:{{{pop}}}|R}}E-{{max/2<!--
+                           -->|{{precision|{{formatnum:{{{acre}}}|R}}}}<!-- 
+                           -->|(3-{{order of magnitude|{{formatnum:{{{acre}}}|R}}}})}}<!--
+                           -->/ln10)round0}}}}
+                 |{{#ifexpr:{{#iferror:{{#expr:{{formatnum:{{{km2|}}}|R}}}}}}+0>0
+                 |{{rnd|{{#expr:2.589988110336*{{formatnum:{{{pop}}}|R}}/{{formatnum:{{{km2}}}|R}}}}<!--
+                    -->|{{#expr:(0.58670223+ln(<!--
+                           -->{{formatnum:{{{km2}}}|R}}^2/<!--
+                           -->({{formatnum:{{{km2}}}|R}}E-{{max/2<!--
+                           -->|{{precision|{{formatnum:{{{pop}}}|R}}}}<!-- 
+                           -->|(3-{{order of magnitude|{{formatnum:{{{pop}}}|R}}}})}}<!--
+                           -->+{{formatnum:{{{pop}}}|R}}E-{{max/2<!--
+                           -->|{{precision|{{formatnum:{{{km2}}}|R}}}}<!-- 
+                           -->|(3-{{order of magnitude|{{formatnum:{{{km2}}}|R}}}})}}<!--
+                           -->/ln10)round0}}}}
+                 |{{#ifexpr:{{#iferror:{{#expr:{{formatnum:{{{ha|}}}|R}}}}}}+0>0
+                 |{{rnd|{{#expr:258.9988110336*{{formatnum:{{{pop}}}|R}}/{{formatnum:{{{ha}}}|R}}}}<!--
+                    -->|{{#expr:(-1.41329777+ln(<!--
+                           -->{{formatnum:{{{ha}}}|R}}^2/<!--
+                           -->({{formatnum:{{{ha}}}|R}}E-{{max/2<!--
+                           -->|{{precision|{{formatnum:{{{pop}}}|R}}}}<!-- 
+                           -->|(3-{{order of magnitude|{{formatnum:{{{pop}}}|R}}}})}}<!--
+                           -->+{{formatnum:{{{pop}}}|R}}E-{{max/2<!--
+                           -->|{{precision|{{formatnum:{{{ha}}}|R}}}}<!-- 
+                           -->|(3-{{order of magnitude|{{formatnum:{{{ha}}}|R}}}})}}<!--
+                           -->/ln10)round0}}}}
+                 |{{rnd|{{#expr:2589.988110336*{{formatnum:{{{pop}}}|R}}/{{formatnum:{{{dunam}}}|R}}}}<!--
+                    -->|{{#expr:(-2.41329777+ln(<!--
+                           -->{{formatnum:{{{dunam}}}|R}}^2/<!--
+                           -->({{formatnum:{{{dunam}}}|R}}E-{{max/2<!--
+                           -->|{{precision|{{formatnum:{{{pop}}}|R}}}}<!-- 
+                           -->|(3-{{order of magnitude|{{formatnum:{{{pop}}}|R}}}})}}<!--
+                           -->+{{formatnum:{{{pop}}}|R}}E-{{max/2<!--
+                           -->|{{precision|{{formatnum:{{{dunam}}}|R}}}}<!-- 
+                           -->|(3-{{order of magnitude|{{formatnum:{{{dunam}}}|R}}}})}}<!--
+                           -->/ln10)round0}}}}
+               }}}}}}}}
+              |{{rnd
+                 |{{#expr:{{formatnum:{{{/km2}}}|R}}*2.589988110336}}
+                 |{{max/2
+                    |{{#expr:{{precision|{{formatnum:{{{/km2}}}|R}}}}-1}}
+                    |-{{Order of magnitude|{{#expr:{{formatnum:{{{/km2}}}|R}}*2.589988110336}}}}
+                  }}
+               }}
+            }}
+           |{{{/sqmi}}}
+         }}
+   |impu=sq&nbsp;mi
+   |s=/
+  }}
+}}{{#ifeq:{{{1|}}}{{{2|}}}{{{3|}}}{{{4|}}}{{{5|}}}{{{6|}}}|||[[Category:Incorrect usage of infobox settlement subtemplates]]}}</includeonly><noinclude>
+{{documentation}}
+</noinclude>

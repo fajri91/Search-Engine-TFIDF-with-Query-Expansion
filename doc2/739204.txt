@@ -1,0 +1,15 @@
+Templat:Party of Regions/meta/color
+<nowiki>Steelblue</nowiki><noinclude>
+
+==Penggunaan==
+{|
+|- style="color:{{ {{PAGENAME}} }}"
+| '''This color'''
+|- style="background:{{ {{PAGENAME}} }}; color:white"
+| '''White on this color'''
+|- style="background:{{ {{PAGENAME}} }}; color:black"
+| '''Black on this color'''
+|}
+
+[[Category:Templat warna partai politik Ukraina|{{PAGENAME}}]]
+</noinclude>

@@ -1,0 +1,32 @@
+Interaksi agostik
+'''Interaksi agostik''' merupakan istilah dalam [[kimia organologam]] yang digunakan untuk merujuk pada interaksi antara [[logam transisi]] dengan [[ikatan karbon-hidrogen]], dengan dua elektron yang terlibat pada ikatan C-H memasuki orbital d logam transisi yang kosong, menghasilkan [[ikatan tiga-pusat dua-elektron]].<ref>"Agostic Interaction". IUPAC Compendium of Chemical Terminology. 21 Jan 2008. http://www.iupac.org/goldbook/AT06984.pdf</ref>. Banyak transformasi katalitik seperti [[adisi oksidatif]] dan [[eliminasi reduktif]] yang diajukan berjalan melalui zat antara yang memiliki interaksi agostik. Interaksi agostik terpantau pada kimia organik yang melibatkan ligan alkil, alkilidena, dan polienil.
+
+== Sejarah ==
+Istilah agostik diciptakan oleh [[Maurice Brookhart]] dan [[Malcolm Green (kimiawan)|Malcolm Green]] untuk mendeskripsikan interaksi antara logam transisi dengan ikatan karbon-hidrogen. Sering kali, interaksi agostik seperti ini melibatkan gugus alkil ataupun aril yang berada dekat dengan pusat logam melalui ikatan sigma tambahan.<ref name=Brook>Maurice Brookhart, Malcolm L. H. Green, Carbon-hydrogen-transition metal bonds. ''Journal of Organometallic Chemistry'', '''250(1),''' 395-408 (1983). {{doi|10.1016/0022-328X(83)85065-7}}.</ref><ref>Maurice Brookhart, Malcolm L. H. Green, and Gerard Parkin "Agostic interactions in transition metal compounds" Proceeding of the U.S. National Academy of Sciences 2007, volume 104, 69086914.{{doi|10.1073/pnas.0610747104}}</ref>.
+
+Interaksi pendek antara substituen hidrokarbon dengan kompleks logam yang secara koordinatif tak jenuh telah tercatat sejak tahun 1960-an. Sebagai contohnya, tris([[trifenilfosfina]]) rutenium diklorida memiliki interaksi yang terpantau antara pusat Ru(II) dengan atom hidrogen pada posisi orto salah satu dari sembilan cincin fenil.<ref>Sam J. La Placa and James A. Ibers "A Five-Coordinated ''d''<sup>6</sup> Complex: Structure of Dichlorotris(triphenylphosphine)ruthenium (II)" Inorganic Chemistry, 1965, volume 4, pp 778 - 783. {{doi|10.1021/ic50028a002}}</ref> 
+[[Berkas:AgostKubas.png|200px|thumb|right|Mo([[trisikloheksilfosfina|PCy<sub>3</sub>]])<sub>2</sub>(CO)<sub>3</sub> memiliki interaksi agostik.]]
+
+== Karakteristik ikatan agostik ==
+Interaksi agostik dapat diperlihatkan dengan baik oleh [[kristalografi]]. Data [[difraksi neutron]] menunjukkan bahwa panjang ikat C-H dan M-H 5-20% lebih panjang daripada yang terdapat pada ikatan logam hidrida dan hidrokarbon biasanya. Panjang ikat antara logam dengan hidrogen umumnya adalah 1,8 - 2,3 , dan sudut M-H-C berkisar antara 90 - 140. Terdapat pula satu signal <sup>1</sup>H [[NMR]] dari hidrogen aril atau alkana yang bergeser ke medan atas yang biasanya menandakan keberadaan ligan [[hidrida]]. Konstanta kopling <sup>1</sup>J<sub>CH</sub> biasanya akan menurun menjadi 70-100 Hz dibandingkan dengan 125 Hz yang terpantau pada ikatan karbon hidrogen sp<sup>3</sup> yang biasanya.
+
+=== Kekuatan ikatan ===
+Berdasarkan kajian eksperimental dan komputasional, stabilisasi yang dihasilkan dari interaksi agostik diperkirakan berkisar antara 1015 kcal/mol. Oleh karena itu, interaksi agostik lebih kuat dari kebanyakan [[ikatan hidrogen]]. Ikatan agostik kadang-kadang berperan penting dalam katalisis dengan meningkatkan 'kekakuan' keadaan transisi. Sebagai contoh, pada [[katalisis Ziegler-Natta]], pusat logam yang sangat elektrofilik memiliki interaksi agostik dengan rantai polimer yang memanjang. Peningkatan kekakuan ini memengaruhi stereoselektivitas proses polimerisasi.
+
+== Interaksi ikatan yang berkaitan ==
+Istilah agostik biasanya hanya digunakan untuk merujuk pada interaksi tiga pusat dua elektron antara ''karbon, hidrogen'', dan logam. Ikatan tiga-pusat dua-elektron secara jelas terlibat dalam kompleksasi H<sub>2</sub>, misalnya dalam in W(CO)<sub>3</sub>(PCy<sub>3</sub>)<sub>2</sub>H<sub>2</sub>, yang berhubungan dekat dengan kompleks agostik yang terdapat pada gambar di atas.<ref>Kubas, G. J., "Metal Dihydrogen and -Bond Complexes", Kluwer Academic/Plenum Publishers: New York, 2001</ref> [[Silana]] sering berikatan dengan pusat logam melalui interaksi tiga pusat Si-H-M yang seperti interaksi agostik. Namun interaksi ini tidak diklasifikasikan sebagai agostik karena tidak melibatkan atom karbon.
+
+=== Ikatan anagostik ===
+Interaksi M---H-C tertentu tidak diklasifikasikan sebagai "agostik", namun diklasifikasikan sebagai "anagostik". Interaksi anagostik memiliki sifat-sifat yang lebih elektrostatik. Dalam hal strukturnya, jarak M---H dan sudut M-H-C berkisar antara 2,3-2,9  dan 110-170 secara berturut-turut.<ref name=Brook/><ref>Braga D, Grepioni F, Tedesco E, Biradha K., Desiraju G. R. (1997). Organometallics 16, 1846-1856</ref>
+
+== Referensi ==
+{{Reflist}}
+
+== Pranala luar ==
+* {{GoldBookRef | title = agostic | file = A00187}}
+* http://www.ilpi.com/organomet/agostic.html
+
+{{chemical bonds}}
+
+[[Kategori:Kimia organologam]]
+[[Kategori:Ikatan kimia]]

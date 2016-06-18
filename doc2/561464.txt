@@ -1,0 +1,25 @@
+Biemna truncata
+{{Taxobox |name = Biemna truncata
+|regnum = [[Hewan|Animalia]]
+|subregnum = [[Parazoa]]
+|phylum = [[Porifera]]
+|classis = [[Demospongiae]]
+|ordo = [[Poecilosclerida]]
+|familia = [[Desmacellidae]]
+|genus = [[Biemna]]
+|species = Biemna truncata
+|binomial_authority =Hentschel, 1912
+}}
+'''''Biemna truncata''''' adalah [[spesies]] [[spons]] yang tergolong dalam kelas [[Demospongiae]]. Spesies ini juga merupakan bagian dari genus Biemna dan [[familia]] Desmacellidae. Nama ilmiah spesies ini pertama kali diterbitkan pada tahun 1912 oleh Hentschel.
+
+Seperti spons pada umumnya, spesies ini memiliki tubuh yang berpori dan permukaan yang keras seperti [[batu]]. Selain itu, Biemna truncata juga dapat menyerap [[oksigen]] dari [[air]] melalui proses [[difusi]].
+
+== Referensi ==
+
+* ''WoRMS Porifera: World Porifera Database''. Soest R. van (ed), 22 Oktober 2008.
+
+{{DEFAULTSORT:Biemna truncata}}
+
+[[Kategori:Demospongiae]]
+
+{{porifera-stub}}

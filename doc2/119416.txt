@@ -1,0 +1,65 @@
+Gerardus 't Hooft
+{{Infobox scientist
+| name = Gerard 't Hooft
+| image = Gerard_'t_Hooft.jpg
+| image_size=190px
+| caption = November 2008
+| birth_date = {{Birth date and age|1946|7|5}}
+| birth_place = [[Den Helder]], [[Belanda]]
+| nationality = [[Belanda]]
+| field = [[Fisika Teori]]]]
+| work_institution = [[Utrecht University]]
+| alma_mater = [[Utrecht University]]
+| doctoral_advisor = [[Martinus J. G. Veltman]]
+| doctoral_students = [[Robbert Dijkgraaf]]<br/>[[Herman Verlinde]]
+| known_for = [[Quantum Field Theory]], [[Quantum Gravity]]
+| prizes = [[Penghargaan Wolf]] (1981)<br/>[[Medali Lorentz]] (1986)<br/>[[Penghargaan Spinoza]] (1995)<br/>[[Medali Franklin]] (1995)<br />[[Penghargaan Nobel Fisika]] (1999) <br> [[Medali Emas Lomonosov]] (2010)
+}}
+'''Gerardus "Gerard" 't Hooft''' ([[International Phonetic Alphabet|IPA]]: {{IPA|xerrt t hoft]}}) (lahir [[5 Juli]] [[1946]], [[Den Helder]]) adalah guru besar [[fisika teoretis]] dari [[Universitas Utrecht]], [[Belanda]]. Ia menerima [[Penghargaan Nobel dalam Fisika]] 1999 dengan [[Martinus Josephus Godefriedus Veltman]] karena sumbangannya dalam menjelaskan "struktur kuantum [[interaksi elektrolemah]] dalam fisika".
+  
+Asteroid [[9491 Thooft]] dinamai menurut namanya; ia bahkan telah menulis konstitusi bagi penduduk asteroid itu. Ia dianugerahi [[Medali Lorentz]] pada tahun 1986.
+
+Pemenang Nobel Fisika [[Frits Zernike]] adalah saudara kakeknya.
+
+== Penemuan penting ==
+* Sebuah bukti bahwa [[teori ukuran]] dapat di[[renormalisasi]]
+* Hasil lain tentang [[teori ukuran]], [[kurungan cahaya|kurungan]], dan [[Anomali (fisika)|anomali]]
+* 't Hooft merupakan orang pertama yang menyadari bahwa [[teori ukuran]] menyederhanakan [[QRS N besar|limit]] <math>N</math> besar. Ia memecahkan teori dalam dimensi 1+1, menemukan persamaan untuk massa [[meson]].<ref name=solution>{{
+cite book
+  | last = Coleman
+  | first = Sidney
+  | authorlink = Sidney Coleman
+  | title = Aspects of Symmetry
+  | publisher = Cambridge University Press
+  | date = 1988
+  | id = ISBN 0-521-31827-0 
+}}</ref> Ekspansi [[topologi]] untuk [[teori ukuran]] <math>N</math> besar ini terbukti penting dalam korespondensi [[AdS/CFT]] dalam [[teori senar]]
+* Putaran magnetik 't Hooft (berhubungan dengan [[putaran Wilson]] oleh [[dualitas S]])
+* Sumbangan [[instanton]] pada [[interaksi]] [[fermion]] (interaksi 't Hooft)
+* [[Asas holografi]] (dengan [[Leonard Susskind]]) dan usulan lain tentang [[gravitasi kuantum]]
+* Percobaan terkini untuk memperbaharui [[variabel tersembunyi]] dalam [[mekanika kuantum]]
+
+== Rujukan ==
+{{reflist}}
+
+== Lihat pula ==
+* [[Monopol 't Hooft-Polyakov]]
+* [[Simbol 't Hooft]]
+
+== Pranala luar ==
+ 
+* [http://www.nobel.se/physics/laureates/1999/index.html Kutipan Hadiah Nobel]
+* [http://nobelprize.org/physics/laureates/1999/thooft-lecture.html Nobel Lecture]
+* [http://www.phys.uu.nl/~thooft/ Situs] G. 't Hooft.
+* [http://scholar.google.com/scholar?num=100&hl=en&lr=&safe=off&c2coff=1&q=author%3A%22G+Hooft%22+OR+author%3A%22G+%27t+Hooft%22&btnG=Search&as_subj=phy Publikasi] dari [[Google Scholar]].
+* [http://www.arxiv.org/find/hep-th/1/au:+Hooft_G/0/1/0/all/0/1 Publikasi] di [[Arxiv]].
+* [http://www.phys.uu.nl/~thooft/theorist.html How To Become a Good Theoretical Physicist, oleh Gerard 't Hooft]
+
+{{DEFAULTSORT:Hooft, Gerardus 't}}
+{{Belanda-bio-stub}}
+{{Nobel Fisika}}
+{{Penghargaan Wolf bidang Fisika}}
+
+[[Kategori:Kelahiran 1946]]
+[[Kategori:Fisikawan Belanda]]
+[[Kategori:Pemenang Hadiah Nobel dalam bidang fisika]]

@@ -1,0 +1,32 @@
+Adeopapposaurus
+{{italictitle}}
+{{Taxobox
+| name = ''Adeopapposaurus''
+| fossil_range =[[Jurassic awal]]
+| image = Adeopapposaurus BW.jpg
+| image_width = 250px
+| regnum = [[Animalia]]
+| phylum = [[Chordata]]
+| classis = [[Reptil|Sauropsida]]
+| superordo = [[Dinosaurus|Dinosauria]]
+| ordo = [[Saurischia]]
+| subordo = [[Sauropodomorpha]]
+|familia=[[Massospondylidae]]
+| genus = '''''Adeopapposaurus'''''
+| genus_authority = Martnez, 2009
+| subdivision_ranks = [[Species]]
+| subdivision =
+''A. mognai'' <small>Martnez, 2009 ([[Tipe spesies|tipe]])</small>
+}}
+
+'''''Adeopapposaurus''''' adalah sebuah [[genus]] [[dinosaurus]] [[prosauropoda]] dari Formasi [[Jurassic Awal]] [[Formasi Can del Colorado|Can del Colorado]] dari [[San Juan, Argentina]]. ''Adeopapposaurus'' mirip dengan ''[[Massospondylus]]''. Empat kerangka parsial dengan dua tengkorak parsial diketahui.<ref name=RNM09>{{cite journal |doi=10.1671/039.029.0102 |last=Martnez |first=Ricardo N. |year=2009 |title=''Adeopapposaurus mognai'', gen. et sp. nov (Dinosauria: Sauropodomorpha), with comments on adaptations of basal sauropodomorpha |journal=Journal of Vertebrate Paleontology |volume=29 |issue=1 |pages=142164}}</ref>
+
+== Referensi ==
+{{reflist}}
+
+{{portal|Dinosaurus}}
+
+{{dinosaurus-stub}}
+
+[[Kategori:Sauropodomorpha]]
+[[Kategori:Dinosaurus]]

@@ -1,0 +1,5 @@
+Templat:Biologi-stub
+{{base-stub
+|[[biologi]]
+|[[Berkas:Blue morpho butterfly.jpg|9999999999x30px]]}}{{#if:{{{kat|}}}||<includeonly>
+[[Kategori:Rintisan bertopik biologi|{{PAGENAME}}]]</includeonly>}}<noinclude>[[Kategori:Templat rintisan|{{PAGENAME}}]]</noinclude>

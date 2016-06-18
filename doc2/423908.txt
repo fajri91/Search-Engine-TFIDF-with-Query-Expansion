@@ -1,0 +1,192 @@
+Pegunungan Catskill
+{{Geobox|Range
+| name                        =Pegunungan Catskill
+| image                       =Central Catskills from Twin south summit.jpg
+| image_size                  =300
+| image_caption               =[[Slide Mountain (Ulster County, New York)|Slide Mountain]] dan puncak-puncak di sekitarnya dilihat dari Twin Mountain di Catskill utara.
+| country                     =Amerika Serikat
+| state                       =[[New York]]
+| region                      =[[Hudson Valley]]
+| region1                     =
+| district_type               =[[County (AS)|County]]
+| district                    =[[Ulster County, New York|Ulster]]
+| district1                   =[[Greene County, New York|Greene]]
+| district2                   =[[Sullivan County, New York|Sullivan]]
+| district3                   =[[Delaware County, New York|Delaware]]
+| district4                   =[[Schoharie County, New York|Schoharie]]
+| city_type                   =Komunitas
+| city                        =[[Hunter (desa), New York|Hunter]]
+| city1                       =[[Tannersville, New York|Tannersville]]
+| city2                       =[[Monticello, New York|Monticello]]
+| city3                       =[[Liberty (desa), New York|Liberty]]
+| unit                        =[[Appalachian Mountains|Appalachian]]
+| unit1                       =[[Allegheny Plateau]]
+| border                      =[[Pocono Mountains|Poconos]]
+| border1                     =[[Shawangunk Ridge]]
+| geology                     =[[Sedimenter]]
+| geology1                    =
+| period                      =[[Devonian]]
+| period1                     =[[Mississippian]]
+| orogeny                     =
+| orogeny1                    =
+| area                        =15259
+| length_imperial             =111
+| length_orientation          =N/S
+| width_imperial              =102
+| width_orientation           =E/W
+| highest                =[[Slide Mountain (Ulster County, New York)|Slide Mountain]]
+| highest location            =S dari [[Shandaken, New York|Shandaken]]
+| highest_country             =
+| highest_state               =
+| highest_region              =
+| highest_district            =[[Ulster County, New York|Ulster]]
+| highest_elevation_imperial  =4154
+| highest_lat_d               =41
+| highest_lat_m               =59
+| highest_lat_s               =55
+| highest_lat_NS              =N
+| highest_long_d              =74
+| highest_long_m              =23
+| highest_long_s              =11
+| highest_long_EW             =W
+| lowest                 =
+| lowest_location             =
+| lowest_country              =
+| lowest_state                =
+| lowest_region               =
+| lowest_district             =
+| lowest_elevation_imperial   =
+| lowest_lat_d                =
+| lowest_lat_m                =
+| lowest_lat_s                =
+| lowest_lat_NS               =
+| lowest_long_d               =
+| lowest_long_m               =
+| lowest_long_s               =
+| lowest_long_EW              =
+| free_type                   =
+| free                  =
+| map                         =NortheastAppalachiansMap.jpg
+| map_size                    =300
+| map_caption                 =Peta region utama Pegunungan Appalachia timur laut, dengan Catskill diberi tanda "C".
+| map_first                   =
+}}
+
+'''Pegunungan Catskill''', sebuah daerah di [[New York]] di barat laut [[New York City]] dan barat daya [[Albany, New York|Albany]], adalah sebuah [[plato terpisah]] asli, yaitu daerah terangkat yang mengalami erosi menjadi [[relief daratan|relief]]. Pegunungan Catskill adalah pegunungan yang membentang ke timur serta bentangan tertinggi dari [[Plato Allegheny]].<ref name="cc-gis">{{cite web|url=http://www.catskillcenter.org/atlas/geomorphology/geo_1_3dtopography.htm|title=REGIONAL TOPOGRAPHY|work=Catskills GIS Atlas|publisher=Catskill Center|accessdate=2009-10-12}}</ref> Pegunungan ini kadang dianggap sebagai perpanjangan [[Pegunungan Appalachia]] hingga [[Upstate New York]], padahal tidak berhubungan secara geologi. Pegunungan Catskill terletak di sebelah barat [[Sungai Hudson]] dan berada di dalam teritori enam [[county (AS)|county]] ([[Otsego County, New York|Otsego]], [[Delaware County, New York|Delaware]], [[Sullivan County, New York|Sullivan]], [[Schoharie County, New York|Schoharie]], [[Greene County, New York|Greene]], dan [[Ulster County, New York|Ulster]]). Pegunungan ini juga dianggap sebagai [[Wilayah fisiografis dunia|bentang fisiografis]] dari provinsi [[Plato Appalachia]] yang lebih besar, yang ternyata juga merupakan bagian dari divisi fisiografis [[Pegunungan Appalachia|Appalachia]] yang lebih besar lagi.<ref name="USGS-Water">{{cite web | title = Physiographic divisions of the conterminous U. S. | publisher = U.S. Geological Survey | url = http://water.usgs.gov/GIS/metadata/usgswrd/XML/physio.xml | accessdate = 2007-12-06 }}</ref> Pegunungan ini termasuk dalam [[wilayah ekologi]] [[Hutan Dataran Tinggi Allegheny]].
+
+== Lihat pula ==
+*[[Helderberg Escarpment]]
+
+== Catatan kaki ==
+{{reflist}}
+<!--For ease of standardization, use a citation template from http://en.wikipedia.org/wiki/Wikipedia:Template_messages/Sources_of_articles#Citations_of_generic_sources
+-->
+
+== Bahan bacaan ==
+*{{Cite journal
+| doi = 10.2307/198709
+| issn = 01905929
+| volume = 39
+| issue = 4
+| pages = 193201
+| last = Heilprin
+| first = Angelo
+| title = The Catskill Mountains
+| journal = Bulletin of the American Geographical Society
+| year = 1907
+| url = http://books.google.com/?id=rGs9AAAAYAAJ&pg=PA193&lpg=PA193&dq=The+Catskill+Mountains+Angelo+Heilprin#v=onepage&q=The%20Catskill%20Mountains%20Angelo%20Heilprin&f=false
+| jstor = 198709
+}}
+*{{Cite journal
+| doi = 10.2307/2422746
+| issn = 00030031
+| volume = 68
+| issue = 2
+| pages = 40923
+| last = McIntosh
+| first = Robert P.
+| title = The forest cover of the Catskill Mountain region, New York, as indicated by land survey records
+| journal = American Midland Naturalist
+| year = 1962
+| jstor = 2422746
+}}
+*{{Cite journal
+| doi = 10.2307/1942261
+| volume = 42
+| issue = 2
+| pages = 14361
+| last = McIntosh
+| first = Robert P.
+| title = Forests of the Catskill Mountains, New York
+| journal = Ecological Monographs
+| year = 1972
+| jstor = 1942261
+}}
+*{{Cite journal
+| doi = 10.2307/1933844
+| issn = 00129658
+| volume = 45
+| issue = 2
+| pages = 31426
+| last = McIntosh
+| first = R. P.
+| coauthors = R. T. Hurley
+| title = The spruce-fir forests of the Catskill Mountains
+| journal = Ecology
+| year = 1964
+| jstor = 1933844
+}}
+*{{Cite journal
+| doi = 10.1086/621285
+| issn = 00221376
+| volume = 14
+| issue = 2
+| pages = 11321
+| last = Rich
+| first = John Lyon
+| title = Local glaciation in the Catskill Mountains
+| journal = The Journal of Geology
+| year = 1906
+}}
+*{{Cite journal
+| doi = 10.2307/773655
+| issn = 15436322
+| volume = 17
+| issue = 1
+| pages = 3043
+| last = Shepard
+| first = Paul
+| title = Paintings of the New England landscape: a scientist looks at their geomorphology
+| journal = College Art Journal
+| year = 1957
+| jstor = 773655
+}}
+*{{Cite journal
+| doi = 10.1890/1051-0761(2000)010[0528:TEOLFO]2.0.CO;2
+| issn = 10510761
+| volume = 10
+| issue = 2
+| pages = 52840
+| last = Weathers
+| first = K. C.
+| coauthors = G. M. Lovett, G. E. Likens, R. Lathrop
+| title = The effect of landscape features on deposition to Hunter Mountain, Catskill Mountains, New York
+| journal = Ecological Applications
+| year = 2000
+}}
+
+== Pranala luar ==
+{{Commons category|Catskill Mountains}}
+*[http://www.catskill-3500-club.org/ Hiking Guide to Catskill High Peaks] Catskill 3500 Club
+*[http://www.catskillcamps.com History of Catskill Mountains Sleepaway Camps]
+*[http://www.catskillmountainclub.org Website for the Catskill Mountain Club hiking]
+*[http://www.catskillarchive.com The Catskill Archive - History of the Catskill Mountains]
+*[http://www.catskillmtn.org The Catskill Mountain Foundation]
+*[http://www.catskillcenter.org The Catskill Center]
+*[http://www.cwconline.org The Catskill Watershed Corporation]
+*[http://www.catskillsearch.com/site/category/gallery/ Catskill Region Photo Gallery]
+*[http://www.catskillmountainkeeper.org/ Catskill Mountainkeeper] Protecting the Six Counties of the Catskills
+*[http://www.hvdirectory.com/ Catskill Mountain Businesses listed on Hudson Valley Directory]
+
+[[Kategori:Catskills| ]]
+[[Kategori:Bentang fisiografis]]

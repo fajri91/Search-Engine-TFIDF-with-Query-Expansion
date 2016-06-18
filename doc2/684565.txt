@@ -1,0 +1,18 @@
+Berkas:Tvri jadul.svg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+LOGO TVRI JADUL
+
+== Berkas Lain yang Terkait ==
+[[:Berkas:Tvri jadul.png]]
+
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{LogoTV}}

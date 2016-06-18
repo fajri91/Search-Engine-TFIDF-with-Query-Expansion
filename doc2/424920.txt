@@ -1,0 +1,54 @@
+Barrett M95
+{{Infobox Weapon
+|name= Barrett M95
+|image=[[Image:Barrett M95SP.jpg|300px]]
+|caption= The M95SP
+|origin= {{flag|Amerika Serikat}}
+|type= [[Senapan anti materiel]]
+|is_ranged= yes
+<!-- Service history -->
+|service=
+|used_by= 
+|wars= 
+<!-- Production history -->
+|designer= 
+|design_date= 
+|manufacturer= [[Barrett Firearms Company]]
+|production_date= [[1995]]sekarang
+|number= 
+|variants=
+<!-- General specifications -->
+|weight= 23,5 pounds (10,7 kg) (tanpa amunisi dan alat bidik optik)
+|length= 45 inchi (114,3 cm)
+|part_length= 29 inchi (73,7 cm)
+<!-- Ranged weapon specifications --> 
+|cartridge= [[.50 BMG]]
+|caliber=
+|action= [[Bolt-action]]
+|rate= 
+|velocity= 854 m/s (menggunakan proyektil M33)
+|range= 
+|max_range= 1800 meter
+|feed= [[Magazen]] isi 5 butir
+|sights= 
+}}
+
+'''Barrett M95''' adalah senapan runduk [[bullpup]], [[bolt-action]] buatan [[Barrett Firearms Company]] menggunakan amunisi peluru kaliber [[.50 BMG]] (12,7 x 99 mm).
+
+Barrett M95 adalah senapan hasil dari pengembangan [[Barrett M90]]. Perbedaan dari senapan sebelumnya adalah pemindahan pistol ''grip'' dan pelatuk ke depan sebesar 1 inchi (25 mm), hal ini untuk memudahkan pada saat pengisian [[magazen]]. Bagian [[Bolt (senjata api)|bolt]] didesain ulang dan digeser ke arah belakang. Bagian dalam [[laras]] dilapisi dengan [[chrome]].
+
+{{senapan-stub}}
+{{Bullpup Firearms}}
+
+[[Kategori:Senapan runduk]]
+[[Kategori:Senapan bullpup]]
+[[Kategori:Senapan runduk peluru .50 BMG]]
+[[Kategori:Senjata api peluru .50 BMG]]
+[[Kategori:Senapan runduk peluru 12,7 mm]]
+[[Kategori:Senjata api peluru 12,7 mm]]
+[[Kategori:Senapan bolt-action]]
+[[Kategori:Senapan anti materiel]]
+[[Kategori:Senjata dari Amerika Serikat]]
+[[Kategori:Senjata api dari Amerika Serikat]]
+[[Kategori:Senapan dari Amerika Serikat]]
+[[Kategori:Senjata api buatan Barrett Firearms Company]]

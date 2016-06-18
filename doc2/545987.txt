@@ -1,0 +1,45 @@
+BC Place
+{{Infobox stadium
+| stadium_name        = BC Place
+| image               = [[Berkas:BC Place 2011 Whitecaps.jpg|250px]]
+| logo_image          = [[Berkas:BCPlacelogo2011.jpg|150px]]
+| location            = 777 Pacific Boulevard<br>[[Vancouver]], [[British Columbia]] V6B 4Y8,<br>Canada
+| coordinates         = {{coord|49|16|36|N|123|6|43|W|region:CA-BC_type:landmark_scale:2000|display=inline,title}}
+| broke ground        = April 1981
+| opened              = 29 Juni 1983
+| renovated           = 2009 (interior), 2011 (exterior dan interior)
+| owner               = [[British Columbia]]
+| operator            = BC Pavilion Corporation (PavCO)
+| surface             = Polytan LigaTurf 240 RS+<br>(rekomendasi [[FIFA]])
+| construction_cost   = [[Dolar Kanada|$]]126.1 juta<br>(${{formatprice|{{Inflation|CA|126100000|1983}}}} dollar tahun {{CURRENTYEAR}}){{inflation-fn|CA}}<br><br>'''Renovasi''':<br>2009-2011 - ${{Inflation|CA|514|2011}} juta<br>(${{formatprice|{{Inflation|CA|514000000|2011}}}} dollar tahun {{CURRENTYEAR}}){{inflation-fn|CA}}<br><br>'''Total biaya''':<br>${{Inflation|CA|774|2011}} juta dollar tahun {{CURRENTYEAR}}{{inflation-fn|CA}}
+| architect           = Studio Phillips Barratt, Ltd.<ref name="construction">{{cite web|url=http://www.makmax.com/cgi-bin/larger.cgi?no=am_43 |title=BC Place Stadium - Tensile Membrane Structures Sample Application |publisher=Makmax.com |date= |accessdate=14 Juni 2013}}</ref><br>Stantec Architecture Ltd. (renovation)
+| structural engineer = Geiger Berger Associates<ref name="construction"/><br>Geiger Engineers (atap baru dan papan skor tergantung ditengah)<ref>{{cite web|last=Ansell|first=Lauren|url=http://viewer.zmags.com/publication/f45bb6aa#/f45bb6aa/58|title=Northern Light|publisher=Stadia Magazine|accessdate=14 Juni 2013}}</ref><br>Schlaich Bergermann & Partner (konsultan engineers)
+| services engineer   = Genivar, Inc. (renovasi)
+| general contractor  = Dillingham Construction<ref name="construction"/><br>PCL Westcoast Constructors Inc. (renovasi)
+| capacity            = 54,320 (Canadian football)<br>21,000 ([[sepak bola|sepak bola (soccer)]])
+| tenants             = [[BC Lions]] ([[Canadian Football League]]) (19832009, 2011sekarang)<br>[[Vancouver Whitecaps FC]] ([[Major League Soccer|MLS]]) (2011sekarang)<br>[[Vancouver Whitecaps (NASL)|Vancouver Whitecaps]] ([[North American Soccer League|NASL]]) (19831984)<br>[[Vancouver Nighthawks (WBL)|Vancouver Nighthawks]] ([[World Basketball League|WBL]]) (1988)
+}}
+'''BC Place''' adalah nama sebuah stadion multiguna yang terletak di sisi utara False Creek, di [[Vancouver]], [[British Columbia]], [[Kanada]]. Stadion ini dimiliki dan dioperasikan oleh BC Pavilion Corporation (PavCo), sebuah perusahaan mahkota provinsi. 
+
+Ketika awalnya dibuka pada tanggal [[19 Juni]] [[1983]], stadion ini adalah stadion terbesar di dunia  yang atapnya dapat ditinggikan menggunakan tekanan udara.<ref>{{cite web |url=http://www.tourismvancouver.com/vancouver/about-vancouver/history/ |title=Vancouver's History|publisher=vancouvertourism.com|accessdate=30 Mei 2012}}</ref> Pada tahun [[2010]] stadion ditutup untuk renovasi besar dan konfigurasi ulang. Kemudian stadion dibuka kembali pada tanggal [[30 September]] [[2011]] dan menjadi stadion terbesar di dunia yang atapnya dapat dibuka-tutup dengan menggunakan kabel. 
+
+Stadion ini kandang bagi klub BC Lions, sebuah klub olahraga sepak bola Kanada yang hampir mirip dengan olahraga [[sepak bola Amerika]] dan merupakan anggota dari ''Canadian Football League (CFL)''. Stadion ini juga menjadi kandang bagi klub [[Vancouver Whitecaps FC]] sebuah klub [[sepak bola]] anggato dari [[Major League Soccer]] (MLS).
+
+== Referensi ==
+{{reflist}}
+
+== Pranala luar ==
+*{{en}} {{Official|www.bcplacestadium.com}}
+
+{{s-start}}
+{{succession box
+  | before = [[Stadion Olimpiade Torino]]<br>[[Turin]]
+  | title  = [[Olimpiade Musim Dingin]]<br>Upacara Pembukaan dan Penutupan ([[Stadion Olimpiade]])
+  | years  = [[Olimpiade Musim Dingin 2010|2010]]
+  | after  = [[Stadion Olimpiade Fisht]]<br>[[Sochi]]
+}}
+{{s-end}}
+{{stadion Major League Soccer}}
+{{stadion-stub}}
+
+[[Kategori:Stadion sepak bola di Kanada]]

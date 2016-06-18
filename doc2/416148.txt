@@ -1,0 +1,14 @@
+Berkas:Logo DAAD lowres.jpg
+=={{int:filedesc}}==
+{{Information
+| description    =
+Logo DAAD
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Logo}}

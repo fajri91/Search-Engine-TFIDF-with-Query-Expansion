@@ -1,0 +1,20 @@
+Tree-view
+{{judul asing}}
+[[Berkas:Tree-View MSN.jpg|jmpl|right|600px|Ilustrasi dari website MSN]]
+[[Berkas:Tree_vew_example.PNG|thumb|right|200px|]]
+Penyajian bentuk '''tree-view''' adalah pilihan navigasi tambahan yang memberikan pandangan secara hierarki dari daftar, perpustakaan, dan subsites dari suatu situs<ref>Information Systems, Technology and Management. 4th International Conference, ICSTM 2010 Bangkok, Thailand, March 2010 Proceedings</ref>. Apabila sebuah situs memiliki hierarki yang kompleks, tampilan struktur tree-view akan mempermudah bagi para pengguna situs untuk menavigasi setiap konten-konten dalam hierarki situs. Struktur tree-view akan menampilkan mulai dari konten-konten yang sifatnya umum hingga ke yang sifatnya mendetail.
+
+Ketika melakukan ''browsing'' pada perangkat ''mobile'' (misalnya: [[handphone]]), akan ditemukan beberapa kesulitan dalam melakukannya, dibandingkan ketika menggunakan [[komputer]] ''desktop''. Salah satu faktor yang menyebabkan munculnya kesulitan tersebut ialah, masalah ukuran [[layar]] yang kecil dari perangkat tersebut. Sehingga hal tersebut tentunya akan menyulitkan dan memakan waktu ketika melakukan proses pencarian informasi yang butuhkan. Pengguna tidak dapat melakukan [[pemindai]]an secara cepat, sehingga proses pencarian informasi yang lakukan tentunya memerlukan usaha yang ekstra.
+
+Keefektifan penyajian informasi yang ada di ''website'', merupakan faktor penting dalam meningkatkan pengalaman pengguna ketika melakukan pencarian di ''website''. Beberapa teknik adaptasi penyajian telah dikembangkan, salah satunya adalah DOM (Document Object Model) adaptasi penyajian tree-view, yang merupakan bentuk penyajian yang secara otomatis menghasilkan bentuk penyajian secara hierarki (tree-view) untuk setiap halaman web.
+
+Berdasarkan ''cognitive fit theory'' (Vessey 1991)<ref>The Effect of Information Presentation on Decision Making: A cost-benefit analysis. I Vessey. 1994. Information and Management (27:2), pp. 103-119</ref> yang menyarankan bahwa terdapat korespondensi antara tugas dan format penyajian informasi yang mengarahkan kepada penyelesaian tugas yang lebih unggul. Ketika memecahkan permasalahan, seseorang menciptakan representasi mental dari suatu masalah berdasarkan informasi yang disajikan kepadanya.
+
+Hasil riset yang dilakukan oleh Adipat, Zhang, dan Zhou (2011)<ref>The Effects of Tree-View Based Presentation Adaptation on Mobile Web Browsing. Boonlit Adipat, Dongsong Zhang, Lina Zhou. MIS Quarterly Vol. 35 No. 1 pp. 99-121/March 2011</ref> mengenai adaptasi penyajian bentuk tree-view menemukan, bahwa adaptasi penyajian bentuk tree-view secara signifikan dapat mengurangi waktu pencarian dan meningkatkan akurasi dari pencarian informasi dengan menggunakan web ''browsing'' perangkat ''mobile''. Hasil tersebut mengindikasikan bahwa dengan menggunakan tampilan struktur web secara hierarki, akan memungkinkan pengguna untuk lebih cepat menemukan lokasi [[informasi]] yang mungkin menarik atau dibutuhkannya.
+
+== Referensi ==
+<references />
+
+{{teknologi-stub}}
+
+[[Kategori:GUI]]

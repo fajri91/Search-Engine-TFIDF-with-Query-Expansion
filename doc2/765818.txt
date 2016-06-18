@@ -1,0 +1,31 @@
+Templat:Kalender tahun ini
+{| style="background:none;"
+|-
+| colspan="3" style="text-align:center; font-size:larger;" |
+{{#if:{{{hideyear|}}}||Kalender [[{{{year|{{#time:Y}}}}}]]}}
+|- style="vertical-align: top;"
+|{{CalendarCustom|prevnext=off|year={{{year|{{#time:Y}}}}}|month=01}}
+|{{CalendarCustom|prevnext=off|year={{{year|{{#time:Y}}}}}|month=02}}
+|{{CalendarCustom|prevnext=off|year={{{year|{{#time:Y}}}}}|month=03}}
+|- style="vertical-align: top;"
+|{{CalendarCustom|prevnext=off|year={{{year|{{#time:Y}}}}}|month=04}}
+|{{CalendarCustom|prevnext=off|year={{{year|{{#time:Y}}}}}|month=05}}
+|{{CalendarCustom|prevnext=off|year={{{year|{{#time:Y}}}}}|month=06}}
+|- style="vertical-align: top;"
+|{{CalendarCustom|prevnext=off|year={{{year|{{#time:Y}}}}}|month=07}}
+|{{CalendarCustom|prevnext=off|year={{{year|{{#time:Y}}}}}|month=08}}
+|{{CalendarCustom|prevnext=off|year={{{year|{{#time:Y}}}}}|month=09}}
+|- style="vertical-align: top;"
+|{{CalendarCustom|prevnext=off|year={{{year|{{#time:Y}}}}}|month=10}}
+|{{CalendarCustom|prevnext=off|year={{{year|{{#time:Y}}}}}|month=11}}
+|{{CalendarCustom|prevnext=off|year={{{year|{{#time:Y}}}}}|month=12}}
+|}<noinclude>
+
+==Lihat pula==
+*[[Templat:CURRENTCALENDAR]]
+*[[Templat:ISOCALENDAR]]
+
+[[Category:Templat kalender|{{PAGENAME}}]]
+
+[[si::]]
+</noinclude>

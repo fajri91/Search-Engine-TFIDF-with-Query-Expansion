@@ -1,0 +1,13 @@
+Templat:Convert/lbft
+{{convert/{{{d}}}|{{{1}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|s={{{s|}}}|r={{{r}}}
+|u=lbft
+|n=pound-foot
+|l=pound-feet
+|h=pound-foot
+|t=foot-pound
+|o=N.m
+|b=1.3558179483314004
+|j=0.132201379-{{{j|0}}}}}<noinclude>
+{{pp-template|small=yes}}
+[[Category:Subtemplates of Template Convert]]
+</noinclude>

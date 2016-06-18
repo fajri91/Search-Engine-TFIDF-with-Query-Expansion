@@ -1,0 +1,44 @@
+Templat:Kehidupan di India
+{{Navbox
+|name  = Kehidupan di India
+|title = [[Berkas:Flag of India.svg|22px|border|link=|alt=]] Kehidupan di India
+|state    = {{{state|autocollapse}}}
+|listclass = hlist
+|list1 = 
+* [[Seni rupa dan hiburan di India|Seni Rupa dan Hiburan]]
+* [[Sistem kasta di India|Kasta]]
+* [[Sinema India|Sinema]]
+* [[Hukum kewarganegaraan India|Kewarganegaraan]]
+* [[Iklim di India|Iklim]]
+* [[Masakan India|Masakan]]
+* [[Budaya India|Budaya]]
+* [[Koruspi di India|Korupsi]]
+* [[Demografi India|Demografi]]
+* [[Ekonomi India|Ekonomi]]
+* [[Pendidikan di India|Pendidikan]]
+* [[Hubungan etnis di India|Hubungan etnis]]
+* [[Bendera India|Bendera]]
+* [[Geografi India|Geografi]]
+* [[Pemerintahan India|Pemerintahan]]
+* [[Sejarah India|Sejarah]]
+* [[Hari raya publik di India|Hari raya]]
+* [[Bahasa di India|Bahasa]]
+* [[Hukum India|Hukum]]
+* [[Pasukan hukum di India|Polisi]]
+* [[Politik India|Politik]]
+* [[Kemiskinan di India|Kemiskinan]]
+* [[Literasi di India|Literasi]]
+* [[Pasukan Tentara India|Militer]]
+* [[Agama di India|Agama]]
+* [[Olahraga di India|Olahraga]]
+* [[Transportasi di India|Transportasi]]
+* [[Pengangguran di India|Pengangguran]]
+
+}}<noinclude>
+{{collapsible option}}
+
+== Lihat pula ==
+* {{tl|Topik India}}, sebuah versi terpisah dari templat ini.
+
+[[Kategori:Templat India]]
+</noinclude>

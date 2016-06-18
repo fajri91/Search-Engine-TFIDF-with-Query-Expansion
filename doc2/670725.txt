@@ -1,0 +1,41 @@
+Range Rover Sport
+{{Infobox automobile
+| image        = [[File:The All-New Range Rover Sport - Global Reveal.jpg|250px]]
+| name         = Range Rover Sport
+| manufacturer = [[Land Rover]]
+| layout       = [[Mesin depan]], [[4WD]]
+| production   = 2005sekarang
+| class        =  Mid-size [[Sport utility vehicle|SUV]]
+| engine       = ''[[Mesin bensin]]:''
+<br>4.2 L [[Mesin AJ-V8 Jaguar#Land Rover 4.2|Jaguar AJ-V8]] [[Supercharger|Supercharged]] [[V8]]
+<br>4.4 L [[Mesin AJ-V8 Jaguar#Land Rover 4.4|Jaguar AJ-V8]] V8
+<br>5.0 L [[Mesin AJ-V8 Jaguar#AJ133|Jaguar AJ-V8]] V8 (20092012)
+<br>5.0 L [[Mesin AJ-V8 Jaguar#AJ133|Jaguar AJ-V8]] V8 Supercharged (20092012)<br/>
+''[[Mesin diesel]]:''
+<br>2.7 L [[Ford AJD-V6/PSA DT17#Lion V6|Ford Lion V6]] [[Turbodiesel|TD]] [[Mesin V6|V6]]
+<br>3.0 L [[Ford AJD-V6/PSA DT17#Lion V6|Ford Lion V6]] TDV6(20092012)<br/>
+3.6 L [[Ford AJD-V6/PSA DT17#Lion V8|Ford Lion V8]] TDV8
+| related      = [[Land Rover Discovery]]
+| assembly     = [[Pabrik Solihull]], [[Solihull]], [[United Kingdom]]
+| transmission = 8-speed [[Automatic transmission|automatic]]
+<br>6-speed [[ZF Friedrichshafen|ZF]] automatic
+6-speed [[ZF HP28#6-speed auto|ZF HP28]] automatic
+| length       = 20052009: {{convert|186.5|in|mm|0|abbr=on}}<br>Sejak 2009: {{convert|188.3|in|mm|0|abbr=on}}
+| width        = 20052009: {{convert|75.9|in|mm|0|abbr=on}}<br>Sejak 2009: {{convert|76.1|in|mm|0|abbr=on}}
+| height       = {{convert|71.5|in|mm|0|abbr=on}}
+| wheelbase    = {{convert|2745|mm|in|1|abbr=on|disp=flip}}
+}}
+
+'''Range Rover Sport (L494)''' adalah [[SUV]] mewah yang diproduksi di Inggris oleh [[Land Rover]], salah satu divisi [[Tata Motors]].<ref>{{cite web|title=Joint Venture, Subsidiary and Associate Companies: Jaguar Land Rover|url=http://www.tatamotors.com/our_world/associates00.php?PageID=13|publisher=Tata Motors|accessdate=21 August 2010}}</ref> Generasi pertama muncul tahun 2005 dan akan digantikan oleh generasi kedua tahun 2013.
+
+==Referensi==
+{{reflist}}
+
+== Pranala luar ==
+{{Commons category|Range Rover Sport}}
+
+* {{Official website|http://www.landrover.com/gl/en/lr/range-rover-sport/}}
+* [http://newrangeroversport.landrover.com/ New Range Rover Sport microsite]
+
+[[Category:Land Rover vehicles]]
+[[Category:SUV]]

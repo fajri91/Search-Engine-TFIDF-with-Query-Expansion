@@ -1,0 +1,14 @@
+Berkas:Xbox-live-logo.png
+== {{int:filedesc}} ==
+{{Information
+| description    =
+sumber: {{dari|en}}
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Logo}}

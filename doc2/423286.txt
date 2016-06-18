@@ -1,0 +1,13 @@
+Templat:Portal/doc
+{{Documentation subpage}}
+<!-- PLEASE ADD CATEGORIES AND INTERWIKIS AT THE BOTTOM OF THIS PAGE -->
+
+Templat ini digunakan untuk mengelompokkan banyak pranala portal.
+
+=== Usage ===
+{{Portal box|Indonesia|Polandia|Filipina|Thailand|Perancis|Jepang|Lithuania|Asia}}
+Template ini dapat digunakan untuk mengelompokkan pranala portal sebanyak-banyaknya 18 portal.
+
+<pre style="overflow:auto">
+{{Portal| Portal 1 | Portal 2 | Portal 3 | ..... }}
+</pre>

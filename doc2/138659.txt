@@ -1,0 +1,51 @@
+Exilles
+{{Infobox Italian comune
+| name                = Exilles
+| official_name       = Comune di Exilles
+| native_name         = 
+| image_skyline       = Exilles02.JPG
+| imagesize           = 
+| image_alt           = 
+| image_caption       = 
+| image_shield        = 
+| shield_alt          = 
+| image_map           = 
+| map_alt             = 
+| map_caption         = 
+| pushpin_label_position = 
+| pushpin_map_alt     = 
+| latd  = 45 |latm  = 6 |lats  =  |latNS  = N
+| longd = 6 |longm = 56 |longs =   |longEW = E 
+| coordinates_type    = type:city(285)_region:IT
+| coordinates_display = title
+| coordinates_footnotes = 
+| region              = [[Piedmont]]
+| province            = [[Provinsi Turin]] (TO)
+| frazioni            = Deveys, Morliere, San Colombano, Champbons
+| mayor_party         = 
+| mayor               = Michelangelo Luigi Castellano
+| area_footnotes      = 
+| area_total_km2      = 44.32
+| population_footnotes = 
+| population_total    = 277
+| population_as_of    =  31 Mei 2007
+| pop_density_footnotes = 
+| population_demonym  = Esillesi o exillesi
+| elevation_footnotes = 
+| elevation_m         = 870
+| twin1               = 
+| twin1_country       = 
+| saint               = [[Saint Peter]]
+| day                 =  29 Juni
+| postal_code         = 10050
+| area_code           = 0122
+| website             = {{official|http://www.comune.exilles.to.it/}}
+}}
+'''Exilles''' adalah komune yang terletak di distrik [[Provinsi Torino]], [[Italia]]. 
+
+Kota Exilles memiliki luas sebesar 44.4 km.
+
+Exilles pada tahun 2004, memiliki penduduk sebesar 285 jiwa.
+
+{{Provinsi Torino}}
+{{Turin-geo-stub}}

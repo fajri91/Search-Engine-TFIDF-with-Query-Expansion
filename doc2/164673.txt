@@ -1,0 +1,4 @@
+Templat:Lang-lb
+{{langWithName|lb|bahasa Luksemburg|''{{{1}}}''}}<noinclude>
+[[Kategori:Templat bahasa|{{PAGENAME}}]]
+</noinclude>

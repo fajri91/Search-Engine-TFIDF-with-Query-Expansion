@@ -1,0 +1,83 @@
+Templat:Tabel Unicode CJK Symbols and Punctuation
+{| border="1" cellspacing="0" cellpadding="5" class="wikitable nounderlines" style="border-collapse:collapse;background:#FFFFFF;font-size:large;text-align:center"
+| colspan="17" style="background:#F8F8F8;font-size:small" | '''[[CJK Symbols and Punctuation]]'''{{ref label|U3000_as_of_Unicode_version|1}}<br />[http://www.unicode.org/charts/PDF/U3000.pdf Official Unicode Consortium code chart] (PDF)
+|- style="background:#F8F8F8;font-size:small"
+| style="width:45pt" | &nbsp; || style="width:20pt"  | 0 || style="width:20pt"  | 1 || style="width:20pt"  | 2 || style="width:20pt"  | 3 || style="width:20pt"  | 4 || style="width:20pt"  | 5 || style="width:20pt"  | 6 || style="width:20pt"  | 7 || style="width:20pt"  | 8 || style="width:20pt"  | 9 || style="width:20pt"  | A || style="width:20pt"  | B || style="width:20pt"  | C || style="width:20pt"  | D || style="width:20pt"  | E || style="width:20pt"  | F
+|-
+| style="background:#F8F8F8;font-size:small" | U+300x
+| title="U+3000: IDEOGRAPHIC SPACE" | {{border|{{resize|75%|ID{{Break}}{{spaces|1}}SP{{spaces|1}}}}|style=dashed|color=black}}
+| title="U+3001: IDEOGRAPHIC COMMA" | &#x3001;
+| title="U+3002: IDEOGRAPHIC FULL STOP" | &#x3002;
+| title="U+3003: DITTO MARK" | &#x3003;
+| title="U+3004: JAPANESE INDUSTRIAL STANDARD SYMBOL" | &#x3004;
+| title="U+3005: IDEOGRAPHIC ITERATION MARK" | &#x3005;
+| title="U+3006: IDEOGRAPHIC CLOSING MARK" | &#x3006;
+| title="U+3007: IDEOGRAPHIC NUMBER ZERO" | &#x3007;
+| title="U+3008: LEFT ANGLE BRACKET" | &#x3008;
+| title="U+3009: RIGHT ANGLE BRACKET" | &#x3009;
+| title="U+300A: LEFT DOUBLE ANGLE BRACKET" | &#x300A;
+| title="U+300B: RIGHT DOUBLE ANGLE BRACKET" | &#x300B;
+| title="U+300C: LEFT CORNER BRACKET" | &#x300C;
+| title="U+300D: RIGHT CORNER BRACKET" | &#x300D;
+| title="U+300E: LEFT WHITE CORNER BRACKET" | &#x300E;
+| title="U+300F: RIGHT WHITE CORNER BRACKET" | &#x300F;
+|-
+| style="background:#F8F8F8;font-size:small" | U+301x
+| title="U+3010: LEFT BLACK LENTICULAR BRACKET" | &#x3010;
+| title="U+3011: RIGHT BLACK LENTICULAR BRACKET" | &#x3011;
+| title="U+3012: POSTAL MARK" | &#x3012;
+| title="U+3013: GETA MARK" | &#x3013;
+| title="U+3014: LEFT TORTOISE SHELL BRACKET" | &#x3014;
+| title="U+3015: RIGHT TORTOISE SHELL BRACKET" | &#x3015;
+| title="U+3016: LEFT WHITE LENTICULAR BRACKET" | &#x3016;
+| title="U+3017: RIGHT WHITE LENTICULAR BRACKET" | &#x3017;
+| title="U+3018: LEFT WHITE TORTOISE SHELL BRACKET" | &#x3018;
+| title="U+3019: RIGHT WHITE TORTOISE SHELL BRACKET" | &#x3019;
+| title="U+301A: LEFT WHITE SQUARE BRACKET" | &#x301A;
+| title="U+301B: RIGHT WHITE SQUARE BRACKET" | &#x301B;
+| title="U+301C: WAVE DASH" | &#x301C;
+| title="U+301D: REVERSED DOUBLE PRIME QUOTATION MARK" | &#x301D;
+| title="U+301E: DOUBLE PRIME QUOTATION MARK" | &#x301E;
+| title="U+301F: LOW DOUBLE PRIME QUOTATION MARK" | &#x301F;
+|-
+| style="background:#F8F8F8;font-size:small" | U+302x
+| title="U+3020: POSTAL MARK FACE" | &#x3020;
+| title="U+3021: HANGZHOU NUMERAL ONE" | &#x3021;
+| title="U+3022: HANGZHOU NUMERAL TWO" | &#x3022;
+| title="U+3023: HANGZHOU NUMERAL THREE" | &#x3023;
+| title="U+3024: HANGZHOU NUMERAL FOUR" | &#x3024;
+| title="U+3025: HANGZHOU NUMERAL FIVE" | &#x3025;
+| title="U+3026: HANGZHOU NUMERAL SIX" | &#x3026;
+| title="U+3027: HANGZHOU NUMERAL SEVEN" | &#x3027;
+| title="U+3028: HANGZHOU NUMERAL EIGHT" | &#x3028;
+| title="U+3029: HANGZHOU NUMERAL NINE" | &#x3029;
+| title="U+302A: IDEOGRAPHIC LEVEL TONE MARK" | &#x302A;
+| title="U+302B: IDEOGRAPHIC RISING TONE MARK" | &#x302B;
+| title="U+302C: IDEOGRAPHIC DEPARTING TONE MARK" | &#x302C;
+| title="U+302D: IDEOGRAPHIC ENTERING TONE MARK" | &#x302D;
+| title="U+302E: HANGUL SINGLE DOT TONE MARK" | &#x302E;
+| title="U+302F: HANGUL DOUBLE DOT TONE MARK" | &#x302F;
+|-
+| style="background:#F8F8F8;font-size:small" | U+303x
+| title="U+3030: WAVY DASH" | &#x3030;
+| title="U+3031: VERTICAL KANA REPEAT MARK" | &#x3031;
+| title="U+3032: VERTICAL KANA REPEAT WITH VOICED SOUND MARK" | &#x3032;
+| title="U+3033: VERTICAL KANA REPEAT MARK UPPER HALF" | &#x3033;
+| title="U+3034: VERTICAL KANA REPEAT WITH VOICED SOUND MARK UPPER HALF" | &#x3034;
+| title="U+3035: VERTICAL KANA REPEAT MARK LOWER HALF" | &#x3035;
+| title="U+3036: CIRCLED POSTAL MARK" | &#x3036;
+| title="U+3037: IDEOGRAPHIC TELEGRAPH LINE FEED SEPARATOR SYMBOL" | &#x3037;
+| title="U+3038: HANGZHOU NUMERAL TEN" | &#x3038;
+| title="U+3039: HANGZHOU NUMERAL TWENTY" | &#x3039;
+| title="U+303A: HANGZHOU NUMERAL THIRTY" | &#x303A;
+| title="U+303B: VERTICAL IDEOGRAPHIC ITERATION MARK" | &#x303B;
+| title="U+303C: MASU MARK" | &#x303C;
+| title="U+303D: PART ALTERNATION MARK" | &#x303D;
+| title="U+303E: IDEOGRAPHIC VARIATION INDICATOR" | {{border|{{spaces|1}}&#x303E;{{spaces|1}}|style=dashed|color=black}}
+| title="U+303F: IDEOGRAPHIC HALF FILL SPACE" | &#x303F;
+|-
+| colspan="17" style="background:#F8F8F8;font-size:small;text-align:left" | '''Catatan'''
+:1.{{note|U3000_as_of_Unicode_version}}Per Unicode versi 8.0
+|}<noinclude>
+{{Unicode CJK Unified Ideographs}}
+[[Category:Tabel Unicode|CJK Symbols and Punctuation]]</noinclude>

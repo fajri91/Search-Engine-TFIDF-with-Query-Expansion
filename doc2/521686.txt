@@ -1,0 +1,67 @@
+Bandar Udara Nokaneng
+{{Infobox Airport
+| name         = Bandar Udara Nokaneng
+| nativename   =
+| nativename-a =
+| nativename-r =
+| image        =
+| image-width  = <!-- if less than 200 -->
+| caption      =
+| image2       =
+| image2-width = <!-- if less than 200 -->
+| caption2     =
+| IATA         =
+| ICAO         = FBNN
+| FAA          =
+| TC           =
+| LID          =
+| GPS          =
+| WMO          =
+| type         =
+| owner-oper   =
+| owner        =
+| operator     =
+| city-served  = [[Nokaneng]], [[Botswana]]
+| location     =
+| hub          =
+| built        = <!-- military airports -->
+| used         = <!-- military airports -->
+| commander    = <!-- military airports -->
+| occupants    = <!-- military airports -->
+| metric-elev  = y
+| elevation-f  =
+| elevation-m  = 975
+| coordinates  =
+| latd =  19 | latm = 40 | lats = 49 | latNS = S
+| longd= 022 | longm= 11 | longs= 58 | longEW= E
+| coordinates_type       = airport
+| coordinates_region     = BW
+| coordinates_notitle    =
+| website                =
+| image_map              =
+| image_mapsize          =
+| image_map_alt          =
+| image_map_caption      =
+| pushpin_map            = Botswana
+| pushpin_label_position =
+| pushpin_label          = FBNN
+| pushpin_map_alt        =
+| pushpin_mapsize        =
+| pushpin_image          =
+| pushpin_map_caption    = Lokasi bandar udara di Botswana
+| r1-number    =
+| r1-length-f  =
+| r1-length-m  = 1000
+| r1-surface   = 
+| metric-rwy   = y
+| footnotes    = Sumber: Great Circle Mapper<ref name="GCM">{{GCM|FBNN}}</ref>
+}}
+'''Bandar Udara Nokaneng''' {{airport codes||FBNN}} adalah [[bandar udara]] yang melayani [[Nokaneng]], [[Botswana]]. Bandar udara ini memiliki satu [[landasan pacu]]. Landasan pacu bandar udara ini memiliki panjang 1000 meter.
+
+==Referensi==
+{{reflist}}
+
+{{DEFAULTSORT:Nokaneng, bandar udara}}
+{{bandara-afrika-stub}}
+
+[[Kategori:Bandar udara di Botswana]]

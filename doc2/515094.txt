@@ -1,0 +1,38 @@
+Mitsubishi GTO
+{{Infobox automobile
+| image         = [[File:3000gtlev.jpg|250px]]
+| name          = Mitsubishi GTO
+| aka           = '''Mitsubishi 3000GT<br>Dodge Stealth'''
+| manufacturer  = [[Mitsubishi Motors]]
+| assembly      = [[Nagoya, Aichi]], [[Jepang]]
+| production    = 19902001 (Mitsubishi GTO)<br>[[model year|MY]]19911996 (Dodge Stealth)
+| predecessor   = [[Mitsubishi Starion]]
+| successor     = 
+| class         = [[Mobil sport]]<br>[[Grand tourer]]
+| platform      = Z11A, Z15A, Z16A
+| body_style    = [[coupe]] 2 pintu<br>[[konvertibel]] 2 pintu ''('95'96)''
+| engine        = [[Mesin 6G7 Mitsubishi|6G72]] 3.0&nbsp;L [[V6]]<br>&nbsp;&nbsp; [[SOHC]] 12v<br>&nbsp;&nbsp; [[DOHC]] 24v<br>&nbsp;&nbsp; [[DOHC]] 24v [[turbocharger|twin-turbo]]
+| transmission  = 4-speed [[automatic transmission|otomatis]]<br>5-speed [[manual transmission|manual]]<br>6-speed manual ''('94'01)''
+| wheelbase     = {{convert|2470|mm|1|in|abbr=on}}
+| length        = {{convert|4600|mm|1|in|abbr=on}}
+| width         = {{convert|1840|mm|1|in|abbr=on}}
+| height        = {{convert|1285|mm|1|in|abbr=on}}
+| weight        = {{Convert|1400|-|1710|kg|lb}} 
+| layout        = [[Mesin transverse]], [[mesin depan|depan]],<br/>[[penggerak roda depan]]/[[4WD]]
+| designer      = 
+}}
+
+'''Mitsubishi GTO''' adalah [[mobil sport]] yang diproduksi oleh [[Mitsubishi]] pada tahun 1990 sampai 2001. Di kebanyakan negara, mobil ini juga dinamai '''Mitsubishi 3000GT'''. [[Chrysler]] menjual mobil ini untuk kawasan [[Amerika Utara]] dengan nama '''Dodge Stealth''' pada tahun 1991 sampai 1996. Mobil ini sendiri merupakan hasil kerjasama antara [[Chrysler]] dengan [[Mitsubishi Motors]]. Di Jepang, GTO dijual terpisah pada dealer-dealer khusus yang disebut dengan ''[[Mitsubishi Motors#Japan Sales Channels|Car Plaza]]''.
+
+==Referensi==
+{{reflist}}
+
+==Pranala luar==
+* [http://www.mitsubishi-motors.co.jp/pressrelease/j/products/detail649.html GTO press release], Mitsubishi-motors.com, August 25, 1998 (Japanese)
+* {{dmoz|Recreation/Autos/Makes_and_Models/Mitsubishi/3000-GT/}}
+
+{{Mitsubishi}}
+
+[[Kategori:Kendaraan Mitsubishi|Gto]]
+[[Kategori:Coupe]]
+[[Kategori:Mobil sport]]

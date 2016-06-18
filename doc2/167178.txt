@@ -1,0 +1,21 @@
+Tepi belakang sayap
+[[Berkas:Trailing edge NACA 0012.svg|thumb|right|300 px|Tepi belakang sayap (berwarna merah)]]
+'''Tepi belakang sayap''' ({{lang-en|'''trailing edge'''}}) adalah sebuah bagian belakang sayap di mana aliran udara yang terpisahkan oleh [[tepi depan sayap]] menyatu kembali setelah melewati permukaan atas dan bawah sayap.<ref name="Crane">Crane, Dale: ''Dictionary of Aeronautical Terms, third edition'', page 521. Aviation Supplies & Academics, 1997. ISBN 1-56027-287-2</ref>
+
+Di tepi belakan sayap ini dapat pula dijumpai:
+* [[aileron]]
+* [[elevon]]
+* [[flaperon]]
+* [[kemudi angkat]] (''elevator'')
+* [[kemudi belok]] (''rudder'')
+* [[sirip sayap]] (''flap'')
+* [[tab penyeimbang]] (''trim tab'')
+
+== Catatan kaki ==
+{{reflist}}
+{{Komponen pesawat terbang}}
+{{pesawat-stub}}
+{{tekno-stub}}
+
+[[Kategori:Aerodinamika]]
+[[Kategori:Komponen pesawat udara]]

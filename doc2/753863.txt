@@ -1,0 +1,14 @@
+Templat:Cite doi/10.1089.2F15204559950020058
+{{Cite journal 
+| last1 = Campbell | first1 = K. H. S. 
+| authorlink1 = Keith Campbell (ahli biologi)
+| title = Nuclear Equivalence, Nuclear Transfer, and the Cell Cycle 
+| doi = 10.1089/15204559950020058 
+| journal = Cloning 
+| volume = 1 
+| issue = 1 
+| pages = 315 
+| year = 1999 
+| pmid = 16218826 
+| pmc = 
+}}<noinclude>{{template doc|Template:cite_doi/subpage}}</noinclude>

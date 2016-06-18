@@ -1,0 +1,9 @@
+Templat:Tokohindonesia.com
+{{imbox
+| type  = license
+| image = [[File:Green_copyright.svg|40px|Berhakcipta|link=]]
+| text  = Gambar ini '''[[Wikipedia:Hak cipta|berhak cipta]]''' dan berasal dari situs''' [http://www.tokohindonesia.com tokohindonesia.com]'''. <br>Penggunaan gambar-gambar dari situs tersebut [[Wikipedia:Permintaan izin/tokohindonesia.com|telah diizinkan]] untuk digunakan di Wikipedia oleh redaksi situs www.tokohindonesia.com.
+}}{{#if:{{{kat|}}}||<includeonly>[[Kategori:Gambar dari www.tokohindonesia.com]]</includeonly>}}<noinclude><br><br>
+*Templat ini menambahkan kategori: {{kat|Gambar dari www.tokohindonesia.com}}
+[[Kategori:Templat lisensi gambar|Tokohindonesia.com]]
+</noinclude>

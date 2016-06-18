@@ -1,0 +1,35 @@
+Templat:Skuat Piala Asia 2011 Korea Utara
+{{National squad no numbers
+| name      = Skuat Piala Asia 2011 Korea Utara
+| bg        = Red
+| fg        = White
+| country   = Korea Utara
+| comp link = Piala Asia AFC 2011
+| comp      = Piala Asia AFC 2011
+| pos1     = 1  | p1        = [[Ri Myong-guk]]
+| pos2     = 2  | p2        = [[Cha Jong-hyok]]
+| pos3     = 3  | p3        = [[Ri Jun-il]]
+| pos4     = 4  | p4        = [[Pak Nam-chol (footballer born 1985)|Pak Nam-chol]]
+| pos5     = 5  | p5        = [[Ri Kwang-chon]]
+| pos6     = 6  | p6        = [[Choe Myong-ho]]
+| pos7     = 7  | p7        = [[Ryang Yong-gi]]
+| pos8     = 8  | p8        = [[Ji Yun-nam]]
+| pos9     = 9  | p9        = [[Jong Tae-se]]
+| pos10    = 10 | p10       = [[Hong Yong-jo]] {{kapten}}
+| pos11    = 11 | p11       = [[Mun In-guk]]
+| pos12    = 12 | p12       = [[Jon Kwang-ik]]
+| pos13    = 13 | p13       = [[Pak Chol-jin]]
+| pos14    = 14 | p14       = [[Pak Nam-chol (footballer born 1988)|Pak Nam-chol]]
+| pos15    = 15 | p15       = [[Kim Yong-jun]]
+| pos16    = 16 | p16       = [[Choe Kum-chol]]
+| pos17    = 17 | p17       = [[An Yong-hak]]
+| pos18    = 18 | p18       = [[Kim Myong-gil]]
+| pos19    = 19 | p19       = [[An Chol-hyok]]
+| pos20    = 20 | p20       = [[Ri Kwang-hyok]]
+| pos21    = 21 | p21       = [[Pak Chol-min|Pak Chol-min]]
+| pos22    = 22 | p22       = [[Ri Kwang-il]]
+| pos23    = 23 | p23       = [[Kim Kuk-jin]]
+| coach                     = [[Jo Tong-sop]]
+}}<noinclude>
+[[Kategori:Templat skuat Piala Asia 2011|Korea Utara]]
+</noinclude>

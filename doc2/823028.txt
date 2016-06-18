@@ -1,0 +1,225 @@
+Templat:SBS Drama Special
+{{Navbox
+ | name = SBS Drama Special
+ | title = [[Daftar program yang disiarkan oleh Seoul Broadcasting System#Drama spesial (drama Rabu-Kamis)|Spesial Drama]] SBS
+ | state = {{{state<includeonly>|collapsed</includeonly>}}}
+ | listclass = hlist
+
+ | group1 = 1990an
+ | list1 = {{Navbox|child
+
+   | group1 = [[televisi dalam tahun 1995|1995]]
+   | list1 = {{Navbox|child
+
+     | group1 = 21:00
+     | list1 =
+* ''[[Seoul Nocturne]]''
+* ''[[Loving Blue]]''
+* ''[[Our Vines]]''
+* ''[[Until We Meet Again (serial TV)|Until We Meet Again]]''
+
+     | group2 = 22:00
+     | list2 =
+* ''[[Sandglass (serial TV)|Sandglass]]''
+* ''[[Until We Meet Again (serial TV)|Until We Meet Again]]''
+* ''[[Asphalt Man]]''
+* ''[[Mysteries of Mirror]]''
+* ''[[Jazz (serial TV 1995)|Jazz]]''
+* ''[[Sea Ice (serial TV)|Sea Ice]]''
+
+   }}
+
+<!-- group2 omitted to preserve alternating striping -->
+
+   | group3 = [[televisi dalam tahun 1996|1996]]
+   | list3 =
+* ''[[Name of Love (serial TV)|Name of Love]]''
+* ''[[Thief (serial TV 1996)|Thief]]''
+* ''[[Man's Big Adventure]]''
+* ''[[Bride of August]]''
+* ''[[Brothers' River]]''
+
+   | group4 = [[televisi dalam tahun 1997|1997]]
+   | list4 =
+* ''[[Model (serial TV)|Model]]''
+* ''[[Tears of Rose]]''
+* ''[[Snail (serial TV)|Snail]]
+* ''[[White Christmas (serial TV 1997)|White Christmas]]''
+
+   | group5 = [[televisi dalam tahun 1998|1998]]
+   | list5 =
+* ''[[The Shadow of an Old's love]]''
+* ''[[Steal My Heart (serial TV)|Steal My Heart]]''
+* ''[[Mr. Q]]''
+* ''[[Hong Gil Dong (1998)|Hong Gil Dong]]''
+* ''[[Winners (serial TV 1998)|Winners]]''
+* ''[[Hard Guy (serial TV)|Hard Guy]]''
+
+   | group6 = [[televisi dalam tahun 1999|1999]]
+   | list6 =
+* ''[[House Above the Waves]]''
+* ''[[Trap of Youth]]''
+* ''[[Tomato (serial TV)|Tomato]]''
+* ''[[Happy Together (serial TV 1999)|Happy Together]]''
+* ''[[Queen (serial TV)|Queen]]''
+* ''[[Crystal (serial TV)|Crystal]]''
+* ''[[TV Love Story]]''
+
+ }}
+
+ | group2 = 2000an
+ | list2 = {{Navbox|child
+
+   | group1 = [[televisi dalam tahun 2000|2000]]
+   | list1 =
+* ''[[Fireworks (serial TV 2000)|Fireworks]]''
+* ''[[Popcorn (serial TV 2000)|Popcorn]]''
+* ''[[Police Commandos]]''
+* ''[[Juliet's Man]]''
+* ''[[Cheers for the Women]]''
+
+   | group2 = [[televisi dalam tahun 2001|2001]]
+   | list2 =
+* ''[[Sunja (serial TV)|Sunja]]''
+* ''[[Beautiful Days (serial TV)|Beautiful Days]]''
+* ''[[Law Firm (serial TV)|Law Firm]]''
+* ''[[Guardian Angel (serial TV)|Guardian Angel]]''
+* ''[[Legend (serial TV 2001)|Legend]]''
+* ''[[Piano (serial TV)|Piano]]''
+
+   | group3 = [[televisi dalam tahun 2002|2002]]
+   | list3 =
+* ''[[We Are Dating Now]]''
+* ''[[Successful Story of a Bright Girl]]''
+* ''[[Bad Girls (serial TV 2002)|Bad Girls]]''
+* ''[[Age of Innocence (serial TV)|Age of Innocence]]''
+* ''[[Affection (serial TV)|Affection]]''
+* ''[[Shoot for the Stars (serial TV)|Shoot for the Stars]]''
+
+   | group4 = [[televisi dalam tahun 2003|2003]]
+   | list4 =
+* ''[[All In (serial TV)|All In]]''
+* ''[[Land of Wine]]''
+* ''[[Fairy and Swindler]]''
+* ''[[My Fair Lady (serial TV 2003)|My Fair Lady]]''
+* ''[[Punch (serial TV 2003)|Punch]]''
+* ''[[Stairway to Heaven (serial TV)|Stairway to Heaven]]''
+
+   | group5 = [[televisi dalam tahun 2004|2004]]
+   | list5 =
+* ''[[Sunlight Pours Down]]''
+* ''[[Miss Kim's Million Dollars Quest]]''
+* ''[[Island Village Teacher]]''
+* ''[[My 19 Year Old Sister-in-Law]]''
+* ''[[When a Man is in Love]]''
+* ''[[Stained Glass (serial TV)|Stained Glass]]''
+
+   | group6 = [[televisi dalam tahun 2005|2005]]
+   | list6 =
+* ''[[Hong Kong Express (serial TV)|Hong Kong Express]]''
+* ''[[Hello My Teacher]]''
+* ''[[Single Again]]
+* ''[[Princess Lulu]]''
+* ''[[Love Needs a Miracle]]''
+* ''[[My Girl (serial TV 2005)|My Girl]]''
+
+   | group7 = [[televisi dalam tahun 2006|2006]]
+   | list7 =
+* ''[[Tree of Heaven (serial TV)|Tree of Heaven]]''
+* ''[[Bad Family (serial TV)|Bad Family]]''
+* ''[[Smile Again (serial TV 2006)|Smile Again]]''
+* ''[[Please Come Back, Soon-ae]]''
+* ''[[Super Rookie Ranger]]''
+* ''[[Lovers (serial TV)|Lovers]]''
+
+   | group8 = [[televisi dalam tahun 2007|2007]]
+   | list8 =
+* ''[[Surgeon Bong Dal-hee]]''
+* ''[[Witch Yoo Hee]]''
+* ''[[War of Money]]''
+* ''[[How to Meet a Perfect Neighbor]]''
+* ''[[Lobbyist (serial TV)|Lobbyist]]''
+
+   | group9 = [[televisi dalam tahun 2008|2008]]
+   | list9 =
+* ''[[Robber (serial TV)|Robber]]''
+* ''[[On Air (serial TV)|On Air]]''
+* ''[[Iljimae]]''
+* ''[[Working Mom (serial TV)|Working Mom]]''
+* ''[[Painter of the Wind]]''
+* ''[[Star's Lover]]''
+
+   | group10 = [[televisi dalam tahun 2009|2009]]
+   | list10 =
+* ''[[Cain and Abel (serial TV)|Cain and Abel]]''
+* ''[[The City Hall (serial TV)|The City Hall]]''
+* ''[[Swallow the Sun (serial TV)|Swallow the Sun]]''
+* ''[[You're Beautiful (serial TV)|You're Beautiful]]''
+* ''[[Will It Snow for Christmas?]]''
+
+ }}
+
+ | group3 = 2010an
+ | list3 = {{Navbox|child
+
+   | group1 = [[televisi dalam tahun 2010|2010]]
+   | list1 =
+* ''[[Obstetrics and Gynecology Doctors]]''
+* ''[[Prosecutor Princess]]''
+* ''[[Bad Guy (serial TV)|Bad Guy]]''
+* ''[[My Girlfriend Is a Nine-Tailed Fox]]''
+* ''[[Big Thing (serial TV)|Big Thing]]''
+
+   | group2 = [[televisi dalam tahun 2011|2011]]
+   | list2 =
+* ''[[Sign (serial TV)|Sign]]''
+* ''[[49 Days]]''
+* ''[[City Hunter (serial TV)|City Hunter]]''
+* ''[[Protect the Boss]]''
+* ''[[Deep Rooted Tree]]''
+
+   | group3 = [[televisi dalam tahun 2012|2012]]
+   | list3 =
+* ''[[Take Care of Us, Captain]]''
+* ''[[Rooftop Prince]]''
+* ''[[Phantom (serial TV)|Phantom]]''
+* ''[[To the Beautiful You]]''
+* ''[[The Great Seer]]''
+
+   | group4 = [[televisi dalam tahun 2013|2013]]
+   | list4 =
+* ''[[That Winter, the Wind Blows]]''
+* ''[[All About My Romance]]''
+* ''[[Case No. 113]]''
+* ''[[I Can Hear Your Voice]]''
+* ''[[Master's Sun]]''
+* ''[[The Heirs]]''
+* ''[[My Love from the Star]]''
+
+   | group5 = [[televisi dalam tahun 2014|2014]]
+   | list5 =
+* ''[[Three Days (serial TV)|Three Days]]''
+* ''[[You're All Surrounded]] ''
+* ''[[It's Okay, That's Love]]''
+* ''[[My Lovely Girl]]''
+* ''[[Pinocchio (serial TV 2014)|Pinocchio]]''
+
+   | group6 = [[televisi dalam tahun 2015|2015]]
+   | list6 =
+* ''[[Hyde, Jekyll, Me]]''
+* ''[[The Girl Who Sees Smells]]''
+* ''[[Mask (serial TV 2015)|Mask]]''
+* ''[[Yong-pal]]''
+* ''[[The Village: Achiara's Secret]]''
+* ''[[Remember  War of the Son]]''
+
+ | group7 = [[televisi dalam tahun 2016|2016]]
+   | list7 =
+* ''[[Please Come Back, Mister]]''
+ }}
+
+}}<noinclude>
+{{collapsible option}}
+{{Templat drama Seoul Broadcasting System}}
+[[Kategori:Kotak navigasi televisi drama]]
+</noinclude>

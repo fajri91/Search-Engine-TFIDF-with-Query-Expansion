@@ -1,0 +1,72 @@
+Bacillus thuringiensis
+{{italic title}}
+{{Taxobox
+| color = lightgrey
+| image =Bt-toxin-crystals.jpg
+| image_caption = Spora dan kristal ''Bacillus thuringiensis'' morrisoni strain T08025
+| image_width = 300px
+| regnum = [[Bacteria|Eubacteria]]
+| phylum = [[Firmicutes]]
+| classis = [[Bacilli]]
+| ordo = [[Bacillales]]
+| familia = [[Bacillaceae]]
+| genus = ''[[Bacillus]]''
+| species = '''''thuringiensis'''''
+| binomial = ''Bacillus thuringiensis''
+| binomial_authority = Berliner 1915
+}}
+
+'''''Bacillus thuringiensis''''' adalah [[bakteri]] [[gram-positif]], berbentuk batang, yang tersebar secara luas di berbagai negara.<ref name="a">{{en}} {{cite book|last=  David Wainhouse|first=|authorlink=|coauthors=|title= Ecological methods in forest pest management|year= 2005|publisher= Oxford University Press|location=|id= ISBN 978-0-19-850564-8}}Page.128-129</ref> Bakteri ini termasuk [[patogen]] [[fakultatif]] dan dapat hidup di [[daun]] tanaman [[konifer]] maupun pada tanah.<ref name="a"/> Apabila kondisi lingkungan tidak menguntungkan maka bakteri ini akan membentuk fase [[sporulasi]].<ref name="a"/> Saat sporulasi terjadi, tubuhnya akan terdiri dari [[protein]] ''Cry'' yang termasuk ke dalam protein kristal kelas [[endotoksin delta]].<ref name="a"/> Apabila serangga memakan toksin tersebut maka [[serangga]] tersebut dapat mati.<ref name="a"/> Oleh karena itu, [[protein]] atau [[toksin]] Cry dapat dimanfaatkan sebagai [[pestisida]] alami.<ref name="b">{{en}} {{cite book|last= Rikimaru Hayashi|first=|authorlink=|coauthors=|title= Trends in High Pressure Bioscience and Biotechnology, Volume 19 (Progress in Biotechnology)|year= 2002|publisher= Elsevier Science|location=|id= ISBN 978-0-444-50996-3}}Page.303</ref>
+
+== Informasi umum ==
+=== Sejarah ===
+''B. thuringiensis'' ditemukan pertama kali pada tahun 1911 sebagai patogen pada [[ngengat]] (''flour moth'') dari Provinsi [[Thuringia]], [[Jerman]]. Bakteri ini digunakan sebagai produk insektisida komersial pertama kali pada tahun 1938 di [[Perancis]] dan kemudian di [[Amerika Serikat]] (1950). Pada tahun 1960-an, produk tersebut telah digantikan dengan galur bakteri yang lebih patogen dan efektif melawan berbagai jenis insekta.<ref name="dua">[http://www.biology.ed.ac.uk/research/groups/jdeacon/microbes/bt.htm The Microbial World: Bacillus thuringiensis], Jim Deacon.</ref>
+
+Keberadaan inklusi paraspora dalam ''B. thuringiensis'' telah ditemukan sejak tahun 1915, namun komposisi protein penyusunnya baru diketahui pada tahun 1915. Pada tahun 1953, Hannay, mendeteksi struktur kristal pada inklusi paraspora yang mengandung lebih dari satu macam protein kristal insektisida (''insecticidal crystal protein'', ICP) atau disebut juga delta endotoksin. Berdasarkan komposisi ICP penyusunnya, kristal tersebut dapat membentuk bipimiramida, kuboid, romdoid datar, atau campuran dari beberapa tipe kristal.<ref name="satu" />
+
+=== Habitat ===
+Berbagai macam spesies ''B. thuringiensis'' telah diisolasi dari serangga golongan koleoptera, diptera, dan [[lepidoptera]], baik yang sudah mati ataupun dalam kondisi sekarat. Bangkai serangga sering mengandung spora dan ICP ''B. thuringiensis'' dalam jumlah besar. Sebagian subspesies juga didapatkan dari tanah, permukaan daun, dan [[habitat]] lainnya. Pada lingkungan dengan kondisi yang baik dan [[nutrisi]] yang cukup, spora bakteri ini dapat terus hidup dan melanjutkan pertumbuhan vegetatifnya.<ref name="satu">[http://www.who.int/ipcs/publications/ehc/en/EHC217.PDF Microbial Pest Control Agent: BACILLUS THURINGIENSIS], World Health Organization. Geneva, 1999.</ref> ''B. thuringiensis'' dapat ditemukan pada berbagai jenis tanaman, termasuk [[sayuran]], [[kapas]], [[tembakau]], dan tanaman hutan.<ref name="tiga" />
+
+=== Deskripsi ===
+''B. thuringiensis'' dibagi menjadi 67 [[subspesies]] (hingga tahun 1998) berdasarkan serotipe dari flagela (H). Ciri khas dari bakteri ini yang membedakannya dengan spesies ''Bacillus'' lainnya adalah kemampuan membentuk kristal paraspora yang berdekatan dengan endospora selama fase sporulasi III dan IV. Sebagian besar ICP disandikan oleh DNA plasmid yang dapat ditransfer melalui [[konjugasi]] antargalur ''B. thuringiensis'' , maupun dengan bakteri lain yang berhubungan. Selama pertumbuhan vegetatif terjadi, berbagai galur ''B. thuringiensis'' menghasilkan bermacam-macam [[antibiotik]], [[enzim]], metabolit, dan toksin, yang dapat merugikan organisme lain. Selain endotoksin (ICP), sebagian subspesies ''B. thuringiensis'' dapat membentuk beta-eksotoksi yang toksik terhadap sebagian besar makhluk hidup, termasuk manusia dan insekta.<ref name="satu" />
+
+== Toksin Bt ==
+[[Berkas:Bt toxin.jpg|thumb|right|200px|Struktur tiga dimensi dari toksin Bt.]]
+Protein atau toksin Cry tersebut akan dilepas bersamaan dengan [[spora]] ketika terjadi pemecahan [[dinding sel]].<ref name="a"/> Apabila termakan oleh larva insekta, maka larva akan menjadi inaktif, makan terhenti, muntah, atau kotorannya menjadi berair. Bagian kepala serangga akan tampak terlalu besar dibandingkan ukuran tubuhnya. Selanjutnya, larva menjadi lembek dan mati dalam hitungan hari atau satu minggu. Bakteri tersebut akan menyebabkan isi tubuh insekta menjadi berwarna hitam kecoklatan, merah, atau kuning, ketika membusuk.<ref name="tiga">[http://www.nysaes.cornell.edu/ent/biocontrol/pathogens/bacteria.html Natural Enemies of Vegetable Insect Pests.], Hoffmann, M.P. and Frodsham, A.C. (1993)Cooperative Extension, Cornell University, Ithaca, NY. Page. 63.</ref>
+
+Toksin Cry sebenarnya merupakan protoksin, yang harus diaktifkan terlebih dahulu sebelum memberikan efek negatif. Aktivasi toksin Cry dilakukan oleh protease usus sehingga terbentuk toksin aktif dengan bobot 60 kDA yang disebut delta-endotoksin. Delta-endotoksin ini diketahui terdiri dari tiga domain. Toksin tersebut tidak larut pada kondisi normal sehingga tidak membahayakan manusia, hewan tingkat tinggi, dan sebagian insekta. Namun. pada kondisi pH tinggi (basa) seperti yang ditemui di dalam usus lepidoptera, yaitu di atas 9.5, toksin tersebut akan aktif.<ref name="dua" /> Selanjutnya, toksin Cry akan menyebabkan [[lisis]] (pemecahan) [[usus]] lepidoptera.<ref name="a"/><ref name="b"/>
+
+''B. thuringiensis'' dapat memproduksi dua jenis toksin, yaitu toksin kristal (''Crystal'', Cry) dan toksin sitolitik (''cytolytic'', Cyt). Toksin Cyt dapat memperkuat toksin Cry sehingga banyak digunakan untuk meningkatkan efektivitas dalam mengontrol insekta. Lebih dari 50 gen penyandi toksin Cry telah disekuens dan digunakan sebagai dasar untuk pengelompokkan gen berdasarkan kesamaan sekuens penyusunnya. Tabel di bawah ini merupakan klasifikasi toksin Bt pada tahun 1995 :<ref name="dua" />
+
+{| class="wikitable" border="1" cellpadding="3" cellspacing="0" align="center"
+! Gen !! Bentuk Kristal !! Bobot Protein (kDa) !! Insekta yang dipengaruhi
+|- align="center"
+! cry I [several subgrup:A(a), A(b), A(c), B, C, D, E, F, G] 	
+| bipiramida || 130-138 || larva lepidoptera 
+|- align="center"
+! cry II [subgrup A, B, C]
+| kuboid || 69-71 || lepidoptera and diptera
+|- align="center"
+! cry III [subgrup A, B, C]
+| Datar/tidak teratur || 73-74 || koleoptera
+|- align="center"
+! cry IV [subgrup A, B, C, D] 
+| bipiramida || 73-134 || diptera
+|- align="center"
+! cry V-IX
+| berbagai macam || 35-129 || berbagai macam
+|- align="center"
+|}
+
+== Keuntungan dan Kerugian ==
+[[Berkas:Culinex Tab plus.jpg|thumb|right|250px|Larvasida, produk untuk membunuh larva nyamuk yang terbuat dari kompleks protein ''B. thuringiensis israelensis''.]]
+
+Menurut laporan [[WHO]] pada tahun 1999, sebanyak 13.000 ton produk ''B. thuringiensis'' diproduksi setiap tahunnya melalui teknologi [[fermentasi]] aerobik. Sebagian besar produk tersebut yang mengandung ICP dan [[spora]] hidup, sedangkan sebagian lainnya mengandung spora yang telah diinaktivasi. Produk ''B. thuringiensis'' konvensional hanya dibuat untuk mengatasi [[hama]] [[lepidoptera]] yang menyerang tanaman [[pertanian]] dan [[perhutanan]]. Namun, sekarang ini, banyak galur ''B. thuringiensis'' yang diproduksi untuk mengatasi golongan koeloptera dan diptera (perantara penyakit yang diakibatkan [[parasit]] dan [[virus]]). ''B. thuringiensis'' komersil juga telah diformulasikan sebagai [[insektisida]] untuk dedaunan, tanah, lingkungan perairan, dan fasilitas penyimpanan makanan. Contoh penggunaan ''B. thuringiensis'' pada lingkungan perairan adalah mengontrol nyamuk, [[lalat]], dan larva serangga pengganggu lain pada [[waduk]] penampung [[air minum]]. Setelah diaplikasikan ke suatu [[ekosistem]] tertentu, sel vegetatif dan spora akan bertahan pada lingkungan sebagai komponen alami mikroflora dalam hitungan minggu, bulan, atau tahunan dan perlahan-lahan akan berkurang jumlahnya. Namun, ICP secara biologis akan inaktif dalam hitungan jam atau hari.<ref name="satu" />
+
+Aplikasi produk ''B. thuringiensis'' dapat menyebabkan pekerja lapangan terpapar secara aerosol ataupun melalui kontak dermal, serta mengkontaminasi makanan dan minuman pada lahan pertanian. Namun, menurut hingga tahun 1999, belum ada laporan yang menunjukkan efek parah dari kontaminasi ''B. thuringiensis'' pada manusia, kecuali terjadinya [[iritasi]] mata dan kulit. Namun, sel vegetatif ''B. thuringiensis'' berpotensi memproduksi [[racun]] yang mirip dengan yang dihasilkan oleh Bacillus cereus dan belum diketahui apakah dapat menyebabkan penyakit manusia atau tidak. Penggunaan produk ''B. thuringiensis'' juga diketahui menimbulkan resitensi pada sebagian [[insekta]], seperti ''Plodia interpunctella'', ''Cadra cautella'', ''Leptinotarsa decemlineata'', ''Chrysomela scripta'', ''Spodoptera littoralis'', ''Spodoptera exigua'', sehingga penggunaan produk tersebut untuk tujuan [[pengendalian hama]] harus lebih diperhatikan.<ref name="satu" />
+
+== Referensi ==
+
+{{reflist}}
+
+[[Kategori:Bakteri]]

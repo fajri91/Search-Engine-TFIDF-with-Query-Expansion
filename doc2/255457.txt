@@ -1,0 +1,71 @@
+IndosatM2 Broom
+'''IndosatM2 Broom''' atau yang dikenal dengan  IM2 Broom adalah sebuah produk dari [[Indosat]] yang menyediakan akses [[internet]] prabayar yang berbasis teknologi [[3,G]]. Dengan menggunakan [[modem]] berjalan (mobile internet/mobile [[broadband]]), IM2 Broom ini menjadi salah satu produk yang banyak digunakan masyarakat [[Indonesia]] untuk mengakses [[internet]] dari manapun dan kapanpun. Produk IM2 Broom ini disediakan dalam dua jenis produk yang berbeda, yaitu Broom Classic dan Broom Unlimited.
+
+Indosat mendapatkan hak untuk mendapatkan alokasi pita [[frekuensi]] radio 1950-1955 MHz berpasangan dengan 2140-2145 MHz melalui lelang yang dimenangkan dan tertuang dalam Keputusan [[Menteri Komunikasi Dan Informatika]] Nomor : 19/KEP/M.KOMINFO/2/2006 Tentang Penetapan Pemenang Seleksi Penyelenggara Jaringan Bergerak Seluler [[IMT-2000]] Pada Pita Frekuensi Radio 2,1 GHz. Indosat memenangkan lelang ini bersama [[Telkomsel]] dan Exelcomindo.
+
+== 3,5G ==
+{{utama|3,5G}}
+
+Teknologi [[3,5G]] adalah teknologi yang merupakan penyempurnaan dari teknologi [[3G]]. Teknologi ini merupakan teknologi transmisi data pita lebar yang berbasis [[HSDPA]] atau ''High-Speed Downlink Packet Access'' yang merupakan pengembangan dari [[W-CDMA]]. Teknologi ini mampu mengirimkan data dengan kecepatan 10 kali lipat dari kecepatan [[3G]]. Jika dibandingkan dengan teknologi transmisi data sebelumnya, bisa dilihat bahwa kecepatan [[3,5G]] jauh mlebih tinggi. Sebagai gambaran, koneksi [[GPRS]] maksimal hanya 50kbps, [[EDGE]] atau yang sering disebut dengan teknologi [[2,75G]] hanya sampai 150kbps, dan [[3G]] sendiri maksimal sampai dengan 384kbps. Sedangkan 3,5G yang berbasis [[HSDPA]] dapat mentransfer data dengan kecepatan hingga 3,6 Mbps
+
+== Jenis Produk M2 Broom ==
+
+Ada dua jenis produk dari M2 Broom, yaitu  Broom Classic dan Broom Unlimited. Broom Classic] adalah produk M2 Broom dengan sistem [[prabayar]] dan tarif Rp 0,5/ kb, berbasis teknologi 3.5G dengan kecepatan hingga 3.6Mbps. Sedangkan penggunaan Broom Unlimited dikenakan biaya Rp 200.000 per bulannya. Penggunaan hingga kuota 2GB akan mendapatkan kecepatan hingga 256 kbps. Setelah penggunaan 2GB, kecepatan akan turun hingga 64 kbps sampai masa berlaku satu bulan habis. Setelah itu kartu bisa diisi ulang kembali dengan mengisi ulang (top up) M2 Broom dengan membeli [[voucher]] khusus dan kecepatan akan kembali hingga 256 kbps.
+
+== Modem Yang Digunakan ==
+
+Modem yang digunakan adalah modem yang menggunakan teknologi [[3,5G]]. Ada banyak [[3,5G]] yang beredar di pasaran, ada yang sudah terbundel dengan paket M2 Broom maupun dijual bebas. Selain itu, bisa juga menggunakan [[handphone]] yang memiliki teknologi [[3,5G]].
+
+== Jangkauan wilayah ==
+
+Jangkauan IM2 Broom meliputi:
+# [[Aceh]]
+# [[Sumatera Utara]]
+# [[Kepulauan Riau]]
+# [[Lampung]]
+# [[Banten]]
+# [[DKI Jakarta]]
+# [[Jawa Barat]]
+# [[Jawa Tengah]]
+# [[DI Yogyakarta]]
+# [[Jawa Timur]]
+# [[Kalimantan Selatan]]
+# [[Kalimantan Timur]]
+# [[Sulawesi Selatan]]
+# [[Bali]]
+
+== Booming M2 Broom dan Masalah Dalam Koneksi ==
+
+M2 Broom mulai ramai dipakai sejak diperkenalkannya Broom Unlimited. Pada awal perkenalannya, paket perdana M2 Broom dapat dibeli hanya dengan Rp 150.000 saja sudah termasuk voucher Rp 100.000. Walaupun harga modem 3G saat itu masih agak mahal (di atas Rp 1.000.000), tetapi produk ini sangat diminati karena harganya yang murah dan tidak ada kuota penggunaan. Pada awal produk M2 Broom ini banyak konsumen yang puas dengan koneksi M2 Broom, bisa dilihat dari banyaknya pembahasan di [[blog]]-[[blog]] lokal. Produk modem 3G yang beredar di pasaran pun makin banyak dan beragam, sehingga [[modem]] pun terus turun sehingga merangsang pertumbuhan pengguna M2 Broom.
+
+Jumlah pengguna M2 Broom sendiri menjadi yang tertinggi dibanding [[provider]] [[mobile broadband]] lain. Menurut hasil riset [[Sharing Vision]], para konsumer yang menggunakan M2 Broom] adalah sebesar 16%, sedangkan[[Indosat 3G]] 11%, [[XL 3G]] 11%, [[Mobile-8 Fren]] 8%, [[Jalawave]] dan Melsa 3%, dan lainnya 3%. Lembaga telematika ini mensurvei sedikitnya 150 responden pada Januari 2009.
+
+Namun seiring berjalannya waktu dan jumlah pengguna pun makin banyak, mulai banyak keluhan mengenai koneksi M2 Broom. Di forum-forum besar seperti kaskus dan di [[blog]]-[[blog]] lokal Indonesia, keluhan mengenai koneksi yang sangat lambat, sulitnya terhubung dengan internet dan kekecewaan karena koneksi yang ada sekarang tidak seperti saat pertama M2 Broom diluncurkan semakin banyak. Hal ini dapat dijelaskan dengan mengetahui peningkatan jumlah pengguna dan bagaimana indosat meningkatkan jalur yang tersedia untuk data. Karena pada dasarnya koneksi internet bekerja dalam jalur-jalur data. Ketika jalur-jalur yang disediakan tersebut semakin padat, maka koneksi pun macet, sampai jumlah jalur data ditingkatkan oleh provider atau penyedia jasa koneksi internet. Hal ini juga yang terjadi dengan M2 Broom, dimana ketika pengguna makin banyak, namun jalur yang disediakan tidak meningkat.
+
+Selain masalah jumlah jalur data yang terbatas, masalah koneksi M2 Broom juga dapat timbul jika modem tidak mendapatkan sinyal 3G. Ketika modem tidak dapat mendapatkan sinyal 3G, maka koneksi yang digunakan adalah GPRS, yang jauh lebih lambat disbanding 3G. Masalah lain adalah lokasi pengguna dengan [[BTS]] atau Base Transceiver Station. Semakin jauh lokasi pengguna dengan BTS maka sinyal yang didapat modem pun semakin kecil, sehingga koneksi pun semakin lambat.
+
+Sebenarnya Indosat sudah menambah spektrum 3G miliknya menjadi 10 MHz setelah melunasi invoice up front fee lisensi tambahan frekuensi seharga Rp 160 miliar. Bersama Telkomsel, Indosat menerima tawaran pemerintah untuk menambah frekuensi 3G 5MHz.
+
+
+== Referensi ==
+
+{{reflist}}
+
+# Keputusan Menteri Komunikasi Dan Informatika Nomor : 19/KEP/M.KOMINFO/2/2006 Tentang Penetapan Pemenang Seleksi Penyelenggara Jaringan Bergerak Seluler IMT-2000 Pada Pita Frekuensi Radio 2,1 GHz
+# Jones, S., Kovac, R. & Groom F. M. (2009). Introduction to Communication Technologies: A Guide for Non-Engineers. Boca Raton, FL: CRC Press
+# Korhonen, Joha. (2003). Introductiin to 3G Mobile Communications. Norwood, MRA: Artech House Inc
+# Smith, Clint, Collins, Daniel. (2002). 3G Wireless Networks. New York: McGraw-Hill 684
+# [http://www.indosatm2.com/index.php/consumer-solution/internet-services/prepaid/broom Situs IndosatM2]
+# [http://www.sharingvision.biz Situs Sharing Vision]
+
+
+== Pranala Luar ==
+
+# [http://www.indosatm2.com/index.php/consumer-solution/internet-services/prepaid/broom Situs IndosatM2]
+# [http://www.3gnewsroom.com/html/about_3g/what_is_3g.shtml What is 3G]
+# [http://www.depkominfo.go.id Situs Kementrian Komunikasi dan Informatika Indonesia]
+
+[[kategori:Internet]]
+[[kategori:alat]]
+[[Kategori:Perangkat keras jaringan
+[[Kategori:Protokol lapisan fisik]]

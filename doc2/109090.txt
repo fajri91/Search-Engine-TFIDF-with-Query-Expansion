@@ -1,0 +1,12 @@
+Pengawakutuan
+'''Pengawakutuan''' adalah sebuah metode yang dilakukan oleh para [[pemrogram]] dan [[pengembang perangkat lunak]] untuk menganalisis alur kerja program, mencari dan mengurangi [[kekutu]], atau kerusakan di dalam sebuah [[program komputer]] atau [[perangkat keras]] sehingga dapat bekerja sesuai dengan harapan. Pengawakutuan cenderung lebih rumit ketika beberapa subsistem lainnya terikat dengan ketat dengannya, sebuah perubahan di satu sisi memungkinkan menyebabkan munculnya kekutu lain di dalam subsistem lainnya.
+
+==Peralatan==
+Pengawakutuan bervariasi dalam hal kompleksitas, dari memperbaiki kesalahan sederhana sampai melakukan tugas-tugas panjang dan melelahkan seperti pengumpulan data, analisis, dan penjadwalan [[tambalan (komputasi)|tambalan]].
+
+== Lihat pula ==
+* [[Pengujian perangkat lunak]]
+
+{{software-stub}}
+
+[[Kategori:Pengawakutuan]]

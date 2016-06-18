@@ -1,0 +1,19 @@
+Templat:Nagreg, Bandung
+{{Navigasi ID Desa
+|provinsi=Jawa Barat
+|dati2=Kabupaten
+|nama dati2=Bandung
+|nama kecamatan=Nagreg
+|d1=Bojong
+|d2=Ciaro
+|d3=Ciherang
+|d4=Citaman
+|d5=Mandalawangi
+|d6=Nagreg
+|d7=Nagreg Kendan
+|d8=Ganjar Sabar
+}}
+<noinclude>
+[[Kategori:Templat desa/kelurahan di Jawa Barat|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Bandung|{{PAGENAME}}]]
+</noinclude>

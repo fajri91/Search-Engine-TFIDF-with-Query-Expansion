@@ -1,0 +1,14 @@
+Berkas:Malu Malu Mau.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+Sumber: [http://lapanpuluhan.blogspot.com http://lapanpuluhan.blogspot.com]
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Poster}}

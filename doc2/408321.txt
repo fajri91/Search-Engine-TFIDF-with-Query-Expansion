@@ -1,0 +1,5 @@
+Templat:User-bkl
+<includeonly>[[User:{{{1}}}|{{{2|{{{1}}}}}}]]&nbsp;([[User talk:{{{1}}}|b]]&nbsp;&nbsp;[[Special:Contributions/{{{1}}}|k]]&nbsp;&nbsp;[[Istimewa:Catatan/{{{1}}}|l]])</includeonly><noinclude>
+{{doc|Templat:User-c/doc}}
+<!-- TAMBAHKAN KATEGORI DAN INTERWIKI DI HALAMAN DOC, JANGAN DI SINI! -->
+</noinclude>

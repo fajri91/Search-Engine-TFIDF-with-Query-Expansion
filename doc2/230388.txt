@@ -1,0 +1,70 @@
+Ernst Brenner
+{{Infobox President
+|name             = Ernst Brenner
+|image            = Ernst Brenner.gif
+|caption          = 
+|order            = [[Presiden Konfederasi Swiss]]
+|term_start       = [[1 Januari]] [[1901]] 
+|term_end         = [[31 Desember]] [[1901]]
+|predecessor      = [[Walter Hauser]]
+|successor        = [[Josef Zemp]]
+|term_start2      = [[1 Januari]] [[1908]] 
+|term_end2        = [[31 Desember]] [[1908]]
+|predecessor2     = [[Eduard Mller (Politikus Swiss)|Eduard Mller]]
+|successor2       = [[Adolf Deucher]]
+|order3           = [[Anggota Dewan Federal Swiss]]
+|term_start3      = [[25 Maret]] [[1897]] 
+|term_end3        = [[11 Maret]] [[1911]]
+|predecessor3     = [[Emil Frey]]
+|successor3       = [[Arthur Hoffmann (politikus)|Arthur Hoffmann]]
+|birth_date       = {{birth date|1856|12|9|mf=y}}
+|birth_place      = 
+|death_date       = {{death date and age|1911|3|11|1856|12|9}} 
+|death_place      = 
+|nationality      = [[Swiss]]
+}}
+
+'''Ernst Brenner''' ([[9 Desember]] [[1856]]  [[11 Maret]] [[1911]]) adalah politikus [[Swiss]].
+
+Ia terpilih di [[Dewan Federal Swiss]] pada [[25 Maret]] [[1897]] dan meninggal ketika sedang menjabat pada [[11 Maret]] [[1911]]. Ia berafiliasi dengan [[Partai Demokrat Bebas Swiss|Partai Demokrat Bebas]].
+
+Dalam masa jabatannya, ia pernah memimpin:
+* [[Departemen Kehakiman dan Kepolisian Federal]] (1897 - 1900)
+* [[Departemen Politik]] sebagai [[Presiden Konfederasi Swiss|Presiden Konfederasi]] (1901)
+* [[Departemen Kehakiman dan Kepolisian Federal]] (1902 - 1907)
+* [[Departemen Politik]] sebagai [[Presiden Konfederasi Swiss|Presiden Konfederasi]] (1908)
+* [[Departemen Kehakiman dan Kepolisian Federal]] (1909 - 1911)
+
+== Pranala luar ==
+
+* {{Swiss Federal Councillor|38}}
+* {{HDS|4434}}
+
+{{start box}}
+{{s-off}}
+{{succession box |before = [[Robert Comtesse]] |title =[[Presiden Dewan Nasional Swiss|Presiden Dewan Nasional]]|years = 1894/1895 |after = [[Johann Jakob Bachmann]]}}
+{{succession box |before = [[Emil Frey]] |title = [[Anggota Dewan Federal Swiss]] |years = 18971911 |after = [[Arthur Hoffmann (politikus)|Arthur Hoffmann]]}}
+{{succession box |before = [[Walter Hauser]] |title = [[Presiden Konfederasi Swiss|Presiden Konfederasi]] |years = 1901 |after = [[Josef Zemp]]}}
+{{succession box |before = [[Eduard Mller (politikus Swiss)|Eduard Mller]] |title = [[Presiden Konfederasi Swiss|Presiden Konfederasi]] |years = 1908 |after = [[Adolf Deucher]]}}
+{{end box}}
+
+{{Swiss Presidents}}
+
+{{commonscat|Ernst Brenner}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+|NAME              = Brenner, Ernst
+|ALTERNATIVE NAMES =
+|SHORT DESCRIPTION =
+|DATE OF BIRTH     = 9 Desember 1856
+|PLACE OF BIRTH    =
+|DATE OF DEATH     = 11 Maret 1911
+|PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Brenner, Ernst}}
+{{Switzerland-politician-stub}}
+
+[[Kategori:Kelahiran 1856]]
+[[Kategori:Kematian 1911]]
+[[Kategori:Anggota Dewan Federal Swiss]]
+[[Kategori:Orang dari Basel-Stadt]]

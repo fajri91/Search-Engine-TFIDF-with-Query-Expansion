@@ -1,0 +1,48 @@
+Nama diri
+Dalam [[filsafat]], '''nama diri''' ({{asal kata|Latin|nomen proprium/nomina propria}}, {{asal kata|Perancis|Nom propre}}, {{asal kata|Inggris|Proper name}} atau ''proper noun'') adalah sebuah [[nama]] yang menunjukkan hakiki suatu hal yang sedang diperbincangkan, namun tidak memberitahu lebih lanjut mengenai apa itu<ref>[[John Stuart Mill]], ''A System of Logic'' (1. ii. 5.),</ref>. Salah satu tantangan [[filosofi]] [[modern]] adalah bagaimana cara mendeskripsikan nama yang sebenarnya, dan menjelaskan artinya. 
+
+== Permasalahan ==
+Sebuah "nama diri" memberitahukan ''apa'' hal yang dimaksud, tanpa memberitahukan lebih jauh mengenai hal yang dimaksud. Hal ini dimungkinkan karena:
+# Sebuah nama memberikan identitas kepada hal/objek tersebut. Sebuah persamaan sederhana "[[Hesperus adalah Fosfor]]<!--[[:en:Hesperus is Phosphorus]]-->" tidak mengandung informasi apa-apa selain daripada [[Hesperus]]=[[Fosfor]]. Bagi yang tidak tahu [[Hesperus]] dan [[Fosfor]], maka kalimat/pernyataan tersebut tidak berguna sama sekali. Hanya jika sang pendengar mengetahui informasi yang terkandung dalam nama [[Hesperus]] dan [[Fosfor]], yaitu jika mereka dapat mengidentifikasi kata tersebut, maka barulah dapat diketahui apakah kalimat pernyataan tersebut [[benar]] atau [[salah]]. Maka dari itu kalimat tersebut secara hakiki tidak informatif. Penemuan bahwa "Hesperus adalah Fosfor" pada jamannya merupakan suatu loncatan yang bersejarah. 
+# [[Nama kosong|Nama yang kosong]] secara sepintas masuk di akal. Jika penyebutan nama tersebut adalah untuk menunjukkan hal yang dimaksud, bagaimana hal tersebut dapat terjadi jika hal yang disebut tidak eksis sama sekali? Filosofer [[Gottlob Frege]], [[Bertrand Russell]] dan yang lainnya memiliki pandangan serupa bahwa jika suatu objek memiliki karakteristik yang disebutkan, maka nama tersebut memiliki suatu referensi; jika tidak maka nama tersebut adalah kosong. "[[Pegasus]]" dapat menunjuk kepada "kuda bersayap [[Bellerophon]]" (tokoh mitologi Yunani). Karena kuda seperti yang dimaksud tidak ada, maka nama "Pegasus" tidak memiliki referensi yang nyata; maka dari itu, meski "Pegasus" tidak memiliki referensi terhadap apa pun, namun ia masih memiliki arti. Mungkin nama "[[Aristoteles]]" berarti "gurunya [[Alexander Agung|Alexander]]"; karena memang ada orang yang memiliki deskripsi tersebut, maka nama tersebut memiliki referensi. Kesulitan yang muncul adalah bagaimana cara menentukan mana nama yang kosong dan mana yang bukan.
+
+== Teori nama diri ==
+Ada banyak teori yang beredar, namun tidak teori tunggal yang diterima oleh semua kalangan.
+;Teori deskripsi
+Teori ini menyebutkan bahwa arti yang dimiliki oleh sebuah "nama diri" terdiri dari berbagai properti yang dapat diterangkan dalam bentuk deskripsi yang menggunakan sebuah objek yang cocok dengan deskripsi tersebut. Deskripsi yang dimaksud adalah "[[perasaan]]"/"[[nalar]]" yang timbul dari nama tersebut
+
+Jadi menurut teori deskripsi tentang makna, maka dijelaskan bahwa nalar/perasaan terhadap suatu nama dapat dijelaskan dalam bentuk [[deskripsi]], dan deskripsi tersebut, sama seperti sebuah [[definisi]], <!--''picks out''-->''mengambil'' sang nama yang tercantum. Perbedaan antara keduanya (deskripsi yang terkandung dan hal yang mengandung deskripsi) adalah seperti perbedaan antara ''ekstensi'' dan ''intensi'', atau [[konotasi]] dan [[denotasi]].
+
+'''Contoh''': Ekstensi dari kata umum seperti "anjing" adalah anjing-anjing yang ada di dunia; ekstensi tersebut adalah referensi apa saja yang dapat digunakan pada saat memakai kata tersebut. Intensi dari kata tersebut sebenarnya adalah deskripsi umum tentang apa saja yang dimiliki oleh anjing (berkaki empat, berekor, hidung basah, dll); itulah yang dimaksudkan oleh deskripsi tersebut.
+
+<!--(kaliimat asli membingungkan
+Kekurangan dari teori ini adalah tentang apa yang dimaksud dengan deskripsi yang sesungguhnya. 
+Hal itu haruslah karakteristik esensial objek tersebut, jika tidak, maka nama tersebut dapat digunakan untuk membantah pembawa karakteristik tersebut.-->
+
+;Teori referensi
+
+;Teori sebab
+
+== Kata benda sebenarnya ==
+'''Kata benda sebenarnya''' adalah kata benda yang mewakili suatu entitas yang unik (seperti ''[[Bali]]'', ''[[Bumi]]'', atau ''Joni''), untuk membedakan dengan [[kata benda]] biasa yang dapat berarti sekelompok entitas (seperti ''[[kota]]'', ''[[dunia]]'', atau ''[[manusia]]'').
+
+Di dalam [[bahasa Indonesia]] dan kebanyakan bahasa-bahasa yang menggunakan [[huruf Latin]], kata benda diberi awalan huruf besar (kapital).
+
+=== Nama diri dan Toponimi ===
+Dalam ilmu penamaan geografi ([[toponimi]]), nama unsur geografis biasanya dapat dibagi menjadi dua, yaitu '''nama generik''' yang terletak di awal, dan '''nama spesifik''' yang terletak di akhir. Nama generik menjelaskan atau menggambarkan bentuk geografisnya, misalnya [[gunung]], [[sungai]], [[pulau]], dan sebagainya; nama spesifik atau nama diri unsur geografis tersebut biasanya unik dan digunakan untuk membedakan gunung yang satu dengan yang lainnya, sungai yang satu dengan yang lainnya, dan seterusnya. Nama spesifik dapat berupa kata sifat seperti 'baru' atau 'indah', kata benda, atau nama diri entitas lain (tokoh maupun unsur geografis lain), contohnya kota-kota di dunia yang dinamai menurut [[Aleksander yang Agung]] diberi nama [[Aleksandria]].
+
+Secara umum penulisan nama generik dan nama diri ini ditulis secara terpisah, kecuali pada kasus-kasus tertentu yang tidak umum.
+
+== Lihat pula ==
+* [[Nama pribadi]]/[[Antroponim]]<!--antropos=manusia--> (''nomina personalia '') [[:en:Personal name|en]]
+* [[Nama diri (linguistik)]]
+
+== Referensi ==
+{{reflist}}
+* [http://www.fib.ui.edu/index1.php?id=view_news&ct_news=75 Irzanti Sutanto  Universitas Indonesia]
+* {{id}}[http://io.ppi-jepang.org/article.php?id=270 Toponimi, Bukan Hanya Tata Cara Penulisan Nama Unsur Geografis]
+
+{{Nama}}
+
+[[Kategori:Nama]]
+[[Kategori:Filosofi bahasa]]

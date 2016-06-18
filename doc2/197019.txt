@@ -1,0 +1,226 @@
+Wget
+{{terjemah|Inggris}}
+
+{{infobox software
+| name                   = GNU Wget
+| screenshot             = [[Berkas:Wget-screenshot.png|250px]]
+| caption                = [[Cuplikan layar]] Wget di [[Linux]]
+| collapsible            = ya
+| developer              = Micah Cowan
+| latest_release_version = 1.11.4
+| latest_release_date    = 29 Juni 2008
+| operating_system       = [[Antar-platform]]
+| programming_language   = [[C (bahasa pemrograman)|C]]
+| genre                  = [[File Transfer Protocol|klien FTP]] / [[Penjelajah web|klien HTTP]] 
+| license                = [[Lisensi Publik Umum GNU]]
+| website                = http://www.gnu.org/software/wget/
+}}
+'''GNU Wget''', seringkali hanya disebut wget, adalah sebuah [[program komputer]] sederhana yang mengambil materi dari [[web server]], dan merupakan bagian dari [[Proyek GNU]]. Namanya diturunkan dari ''[[World Wide Web]]'' dan ''[[get]]'', konotatif dari fungsi primernya. Program ini mendukung pengunduhan melalui protokol [[HTTP]], [[HTTPS]], dan [[FTP]], protokol berbasis [[Transmission Control Protocol|TCP/IP]] yang paling luas digunakan untuk penjelajahan web.
+
+Fitur-fiturnya meliputi pengunduhan rekursif, konversi pranala untuk peninjauan offline dari HTML lokal, mendukung proxy, dan lebih banyak lagi. Pertama kali muncul pada tahun 1996, dilatarbelakangi oleh ledakan penggunaan Web, menyebabkan penggunaan yang luas di antara para pengguna [[Unix]] dan distribusi [[Linux]] terkemuka. Ditulis menggunakan bahasa [[C (bahasa pemrograman)|C]] [[porting|portabel]], Wget dapat diinstal secara mudah pada sistem mirip-Unix apa saja dan telah diportasi ke beberapa lingkungan, termasuk [[Mac OS X]], [[Microsoft Windows]], [[OpenVMS]] dan [[AmigaOS]].
+
+Wget digunakan sebagai basis program-program GUI semisal [[Gwget]] untuk desktop [[GNOME]]. Dirilis di bawah [[Lisensi Publik Umum GNU]] v3, Wget adalah [[perangkat lunak bebas]].
+
+<!--
+==Fitur==
+===Kehandalan===
+Wget didesain dengan kehandalan dalam bekerja untuk jaringan yang lambat atau tidak stabil. Jika [[download]] tidak selesai disebabkan masalah [[computer network|network]], Wget akan mencoba melanjutkan download secara otomatis dari bagian yang terputus and mengulangi ini hingga seluruh bagian file diunduh lengkap. Wget adalah salah satu klien pertama yang memanfaatkan then-new <code>Range</code> [[List of HTTP headers|HTTP header]] yang mendukung fitur ini.
+
+===Pengunduhan rekursif===
+Wget can optionally work like a [[web crawler]] by extracting resources [[Hyperlink|linked]] from [[HTML]] [[Web page|pages]] and downloading them in sequence, repeating the process [[Recursion|recursively]] until all the  pages have been downloaded or a maximum recursion depth specified by the user has been reached.  The downloaded pages are saved in a directory structure resembling that on the remote server.  This "recursive download" enables partial or complete mirroring of [[web site]]s via HTTP.  Links in downloaded HTML pages can be adjusted to point to locally downloaded material for [[offline]] viewing. When performing this kind of automatic [[mirror (computing)|mirroring]] of web sites, Wget supports the [[Robots Exclusion Standard]] (unless you provide the option <code>-e robots=off</code>).
+
+Recursive download works with [[File Transfer Protocol|FTP]] as well, where Wget issues the <code>LIST</code> command to find which additional files to download, repeating this process for directories and files under the one specified in the top [[Uniform Resource Locator|URL]].  Shell-like [[Wildcard character|wildcards]] are supported when the download of FTP URLs is requested.
+
+When downloading recursively over either [[HTTP]] or [[File Transfer Protocol|FTP]], Wget can be instructed to inspect the [[timestamps]] of local and remote files, and download only the remote files newer than the corresponding local ones.  This allows easy mirroring of [[HTTP]] and [[File Transfer Protocol|FTP]] sites, but is considered inefficient and more error-prone when compared to programs designed for mirroring from the ground up, such as [[rsync]].  On the other hand, Wget doesn't require special server-side software for this task.
+
+===Ketidakinteraktifan===
+Wget is non-interactive in the sense that, once started, it does not require user interaction and does not need to control a [[TTY]], being able to log its progress to a separate file for later inspection. That way the user can start Wget and [[log out|log off]], leaving the program unattended. By contrast, most [[Graphical user interface|graphical]] or [[text user interface]] [[web browser]]s require the user to remain logged in and to manually restart failed downloads, which can be a great hindrance when transferring a lot of data.
+
+===Portabilitas===
+Written in a highly portable style of [[C (programming language)|C]] with minimal dependencies on third-party libraries, Wget requires little more than a C compiler and a BSD-like interface to [[Transmission Control Protocol|TCP/IP]] networking. Designed as a [[Unix]] program invoked from the [[Unix shell]], the program has been ported to numerous Unix-like environments and systems, such as [[Microsoft Windows]] via [[Cygwin]], and Mac OS X.
+
+===Fitur lainnya===
+*Wget supports download through [[proxy server|proxies]], which are widely deployed to provide web access inside company [[firewall (networking)|firewalls]] and to cache and quickly deliver frequently accessed content.
+*It makes use of persistent HTTP connections where available.
+*[[IPv6]] is supported on systems that include the appropriate interfaces.
+*[[Transport Layer Security|SSL/TLS]] is supported for encrypted downloads using the [[OpenSSL]] library.
+*Files larger than 2 [[gibibyte|GB]] are [[Large File Support|supported]] on 32-bit systems that include the appropriate interfaces.
+*Download speed may be [[Bandwidth Throttling|throttled]] to avoid using up all of the available [[Bandwidth (computing)|bandwidth]].
+-->
+
+== Penggunaan Wget ==
+=== Penggunaan dasar ===
+Penggunaan dasar GNU wget adalah dengan menjalankannya melalui terminal baris perintah dan menyertakan satu atau lebih URL sebagai argumen.
+
+<pre>
+# Mengunduh halaman awal website example.com ke sebuah file
+# dengan nama "index.html".
+wget http://www.example.com/
+</pre>
+
+<pre>
+# Mengunduh kode sumber wget dari situs ftp GNU
+wget ftp://ftp.gnu.org/pub/gnu/wget/wget-latest.tar.gz
+</pre>
+
+Penggunaan yang lebih kompleks termasuk mengunduh otomatis beberapa URL dan menyimpannya sesuai susunan direktori.
+<pre>
+# mengunduh *.gif (semua file dengan akhiran gif) dari sebuah website
+# (ingatlah bahwa penggunaan wildcard, seperti pada "wget http://www.server.com/dir/*.gif", hanya bekerja pada situs ftp)
+wget -erobots=off -r -l1 --no-parent -A.gif http://www.server.com/dir/
+</pre>
+
+<pre>
+# mengunduh halaman awal situs example.com, termasuk gambar-gambar dan file stylesheet
+# kemudian mengubah URL di dalamnya untuk mengacu pada isi lokal yang telah diunduh.
+wget -p -k http://www.example.com/
+</pre>
+
+<pre>
+# mengunduh seluruh isi halaman awal website example.com
+wget -r -l 0 http://www.example.com/
+</pre>
+
+<!--
+===Penggunaan tingkat lanjut===
+<pre>
+# Download a mirror of the errata for a book you just purchased.
+# Follow all local links recursively and make the files suitable 
+# for off-line viewing.
+# Use a random wait of 0*0 to 5*2 seconds between files.
+# When there is a failure retry for up to 7 times with 14 seconds 
+# between each retry.
+# Set the user agent to Firefox on Linux and ignore robot exclusions.
+# Collect access results to the local file "myLog.log"
+wget -t 7 -w 5 --waitretry=14 --random-wait
+     --user-agent="Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.3) Gecko/2008092416 Firefox/3.0.3"
+     -m -k -K -e robots=off http://www.oreilly.com/catalog/upt3/errata/ -o ./myLog.log
+</pre>
+<pre>
+# Collect only the specific links listed line by line in 
+# the local file "my_movies.txt" 
+# Use a random wait of 0 to 33 seconds between files.
+# When there is a failure, retry for up to 22 times with 48 seconds 
+# between each retry.  Send no user-agent at all. Ignore robot exclusions.
+# Place all the captured files in the "/movies" directory
+# and collect the access results to the local file "my_movies.log"
+# Good for just downloading specific known images or other files.
+wget -t 22 --waitretry=48 --wait=33 --random-wait --user-agent=""
+     -e robots=off -o ./my_movies.log -P/movies -i ./my_movies.txt
+</pre>
+
+<pre>
+#Using wget to download content protected by referer and cookies.
+#1. get base url and save its cookies in file
+#2. get protected content using stored cookies
+wget --cookies=on --keep-session-cookies --save-cookies=cookie.txt http://first_page
+wget --referer=http://first_page --cookies=on --load-cookies=cookie.txt --keep-session-cookies --save-cookies=cookie.txt http://second_page
+</pre>
+
+<pre>
+#Mirror website to a static copy for local browsing.
+#This means all links will be changed to point to the local files.
+#Note --html-extension will convert any CGI, ASP or PHP generated files to HTML (or anything else not .html).
+wget --mirror -w 2 -p --html-extension --convert-links -P <dir> http://www.yourdomain.com
+</pre>
+-->
+
+== Penulis dan hak cipta ==
+GNU Wget ditulis oleh Hrvoje Niki dengan kontribusi banyak orang lainnya, termasuk Dan Harkless, Ian Abbott, dan Mauro Tortonesi.  Kontributor utama tercatat di file ''AUTHORS'' yang disertakan dalam distribusi program, kontributor lainnya tercatat di file-file [[changelog]], yang juga disertakan dengan program. Saat ini Wget dikelola oleh Micah Cowan.
+
+<!--
+Hak cipta wget dimiliki oleh [[Free Software Foundation]], whose policy is to require copyright assignments for all non-trivial contributions to GNU software. [http://www.gnu.org/licenses/why-assign.html]
+
+==Sejarah==
+===Sejarah awal===
+Wget is the descendant of an earlier program named '''Geturl''' by the same author, the development of which commenced in late 1995.  The name was changed to ''Wget'' after the author became aware of an earlier [[Amiga]] program named '''GetURL''', written by James Burton in [[AREXX]].
+
+Wget filled a gap in the web downloading software available in the mid-1990s. No single program was able to reliably download files via both [[HTTP]] and [[File Transfer Protocol|FTP]] [[Protocol (computing)|protocols]]. Existing programs either only supported FTP (such as [[NcFTP]] and [ftp://gnjilux.srk.fer.hr/pub/unix/util/dl/ dl]) or were written in [[Perl]], which was not yet ubiquitous at the time. While Wget was inspired by features of some of the existing programs, it aimed to support both HTTP and FTP and to enable the users to build it using only the standard development tools found on every [[Unix]] system.
+
+At that time many Unix users struggled behind extremely slow university and [[Dial-up access|dial-up]] [[Internet]] connections, leading to a growing need for a downloading agent that could deal with transient network failures without assistance from the human operator.
+
+===Rilis wajar===
+The following releases represent notable milestones in Wget's development.  Features listed next to each release are edited for brevity and do not constitute comprehensive information about the release, which is available in the ''NEWS'' file distributed with Wget [http://svn.dotsrc.org/repo/wget/tags/WGET_1_10/NEWS].
+
+*Geturl 1.0, released January 1996, was the first publicly available release.  The first English-language announcement can be traced to [http://groups-beta.google.com/group/comp.infosystems.www.announce/msg/4268334d269d42ce?hl=en this Usenet news posting], which probably refers to Geturl 1.3.4 released in June.
+*Wget 1.4.0, released November 1996, was the first version to use the name ''Wget''. It was also the first release distributed under the terms of the [[GNU GPL]], Geturl having been distributed under an ad-hoc no-[[warranty]] [[Software license|license]].
+*Wget 1.4.3, released February 1997, was the first version released as part of [[GNU|the GNU project]] with the copyright assigned to the [[Free Software Foundation|FSF]].
+*Wget 1.5.3, released September 1998, was a milestone in the program's popularity.  This version was bundled with many [[Linux]] distributions, which exposed the program to a much wider audience.
+*Wget 1.6, released December 1999, incorporated many bug fixes for the (by then stale) 1.5.3 release, largely thanks to the effort of Dan Harkless.
+*Wget 1.7, released June 2001, introduced [[Transport Layer Security|SSL]] support, [[HTTP cookie|cookies]], and persistent connections.
+*Wget 1.8, released December 2001, added [[bandwidth throttling]], new progress indicators, and the breadth-first traversal of the hyperlink [[Graph (mathematics)|graph]].
+*Wget 1.9, released October 2003, included experimental [[IPv6]] support, and ability to POST data to HTTP servers.
+*Wget 1.10, released June 2005, introduced [[large file support]], [[IPv6]] support on dual-family systems, [[NTLM]] authorization, and [[Transport Layer Security|SSL]] improvements.  The maintainership was picked up by Mauro Tortonesi.
+*Wget 1.11, released January 2008, moved to version 3 of the [[GNU General Public License]], and added preliminary support for the <code>Content-Disposition</code> header, which is often used by [[Common Gateway Interface|CGI]] scripts to indicate the name of a file for downloading. Security-related improvements were also made to the HTTP authentication code. Micah Cowan took over maintainership of the project.
+
+==Daur rilis dan pengembangan==
+Wget is developed in an open fashion, most of the design decisions typically being discussed on the public mailing list [http://news.gmane.org/gmane.comp.web.wget.general] followed by users and developers.  Bug reports are relayed to the same list.
+
+===Kontribusi sumber===
+The preferred method of contributing to Wget's code and documentation is through source updates in the form of textual [[Patch (Unix)|patches]] generated by the [[diff]] utility.  Patches intended for inclusion in Wget are submitted to a designated mailing list [http://news.gmane.org/gmane.comp.web.wget.patches] where they are reviewed by the maintainers.  Patches that pass the maintainers' scrutiny are installed in the sources, and all others are rejected.  Instructions on patch creation as well as style guidelines are outlined in the ''PATCHES'' document provided with the distribution [http://svn.dotsrc.org/repo/wget/trunk/PATCHES], mostly based on the GNU Coding Standards [http://www.gnu.org/prep/standards/].  Because all changes go through this list, even ones from core developers, the subscribers to the list can track Wget development and provide feedback.
+
+The source code can also be tracked via a remote [[version control]] repository that hosts revision history beginning with the 1.5.3 release.  The repository is running [[Mercurial (software)|Mercurial]]; previously it had been hosted on [[Subversion (software)|Subversion]], and prior to that via [[Concurrent Versions System|CVS]].
+
+===Rilis===
+When a sufficient number of features or bug fixes accumulate during development, Wget is released to the general public via the GNU FTP site and its mirrors.  Being entirely run by volunteers, there is no external pressure to issue a release nor are there enforceable release deadlines.
+
+Releases are numbered as [[version]]s of the form of ''major.minor[.revision]'', such as ''Wget 1.11'' or ''Wget 1.8.2''.  An increase of the major version number represents large and possibly incompatible changes in Wget's behavior or a radical redesign of the code base.  An increase of the minor version number designates addition of new features and bug fixes.  A new revision indicates a release that, compared to the previous revision, only contains bug fixes.  Revision zero is omitted, meaning that for example Wget 1.11 is the same as 1.11.0. Wget does not use the odd-even release number convention popularized by the [[Linux kernel|kernel Linux]].
+
+At any moment there are two branches of development: the trunk, where new features get added, and the stable branch, forked after each minor release, where only the bug fixes are applied.  All revision-level releases are built off the stable branch; all minor version releases are built off the trunk.
+
+==Lisensi==
+GNU Wget is distributed under the terms of the [[GNU General Public License]], version 3 or later, with a special [[OpenSSL exception|exception]] that allows distribution of binaries [[linker|linked]] against the [[OpenSSL]] library. The text of the exception follows:
+
+<blockquote>
+Additional permission under GNU GPL version 3 section 7
+
+If you modify this program, or any covered work, by linking or
+combining it with the OpenSSL project's OpenSSL library (or a
+modified version of that library), containing parts covered by the
+terms of the OpenSSL or SSLeay licenses, the Free Software Foundation
+grants you additional permission to convey the resulting work.
+Corresponding Source for a non-source form of such a combination
+shall include the source code for the parts of OpenSSL used as well
+as that of the covered work.
+</blockquote>
+
+It is expected that the exception clause will be removed once Wget is modified to also [[linker|link]] with the [[GnuTLS]] library.
+
+Wget's [[documentation]], in the form of a [[Texinfo]] reference manual, is distributed under the terms of the [[GNU Free Documentation License]], version 1.2 or later.  The [[man page]] usually distributed on Unix-like systems is automatically generated from a subset of the Texinfo manual and falls under the terms of the same license.
+-->
+
+== Lihat pula ==
+{{portal|Free software|Free Software Portal Logo.svg}} 
+
+* [[GNU|The GNU Project]]
+* [[cURL]]
+* [[NcFTP]]
+* [[Web crawler]]
+* [[HTTrack]]
+* [[lftp]]
+
+== Pranala luar ==
+* [http://www.gnu.org/software/wget/ Halaman resmi Wget]
+* [ftp://ftp.gnu.org/pub/gnu/wget/ Direktori Wget di ftp.gnu.org]
+* [ftp://gnjilux.srk.fer.hr/pub/unix/util/wget/ Situs wget FTP kuno] yang berisi rilis riwayatis, termasuk rilis ''Geturl'' sejak 1.0 ke muka.
+* [http://hg.addictivecode.org/ Situs penyimpanan Mercurial Wget]
+* [http://gnuwin32.sourceforge.net/packages/wget.htm WGET untuk Windows] sebagai bagian dari [[GNUWin32]] 
+* [http://users.ugent.be/~bpuype/wget/ Wget yang dikompilasi untuk Windows]
+* [http://khomsanph.net/visualwget/ VisualWget untuk windows]
+* [http://wget.addictivecode.org/FrequentlyAskedQuestions?action=show&redirect=Faq Pertanyaan yang sering diajukan tentang Wget]
+* [http://www.devarticles.com/c/a/Web-Services/Website-Mirroring-With-wget/ Panduan mungil Wget]
+* [http://www.akadia.com/services/wget.html Panduan Wget]
+* [http://www.christopherlewis.com/WGet/default.htm Pemaketan Win32 oleh Christopher Lewis (beserta rilis pengembangan)]
+* [http://www.martin-achern.de/wgetgui/ Wget::gui - GUI untuk wget, ditulis dengan bahasa pemrograman Perl, untuk Linux dan Windows]
+* [http://en.cocoawget.nobody.jp/ CocoaWget - GUI untuk wget, untuk Mac OS X]
+* [http://www.cybershade.us/winwget/ WinWGet - GUI untuk wget, untuk Windows]
+* [http://wput.sourceforge.net/ Wput - balikan fungsional Wget]
+
+{{GNU}}
+
+[[Kategori:Perangkat lunak proyek GNU]]
+[[Kategori:Perangkat lunak transfer berkas bebas]]
+[[Kategori:Manajer pengunduhan]]
+[[Kategori:Perangkat lunak portabel]]
+[[Kategori:Modus teks]]
+[[Kategori:Perangkat lunak antar-platform bebas]]

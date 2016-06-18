@@ -1,0 +1,31 @@
+Templat:Skuat Bnei Sakhnin F.C.
+{{football squad|teamname=Bnei Sakhnin F.C.|bgcolor=white|textcolor=red|bordercolor=red
+|name=Skuat Bnei Sakhnin F.C.
+|list=<div>	
+{{football squad2 player|no=1|name=[[Ahmed Shabal|Shabal]]}}
+{{football squad2 player|no=3|name=[[Pieter Mbemba|Mbemba]]}}
+{{football squad2 player|no=5|name=[[Akram Shreh|Shreh]]}}
+{{football squad2 player|no=6|name=[[Maxime Josse|Josse]]}}
+{{football squad2 player|no=7|name=[[Muhammed Zbedat|M. Zbedat]]}}
+{{football squad2 player|no=8|name=[[Ala'a Abu Saleh|Abu Saleh]]}}
+{{football squad2 player|no=9|name=[[Aleksandar Davidov|Davidov]]}}
+{{football squad2 player|no=10|name=[[Mohammed Kalibat|Kalibat]]}}
+{{football squad2 player|no=11|name=[[Mahmood Abass|Abass]]}}
+{{football squad2 player|no=12|name=[[Bassam Ganayem|B. Ganayem]]}}
+{{football squad2 player|no=13|name=[[Obeida Zbidat|Zbidat]]}}
+{{football squad2 player|no=15|name=[[Khaled Khalaila|K. Khalaila]]}}
+{{football squad2 player|no=16|name=[[Sayaf Alhoshala|Alhoshala]]}}
+{{football squad2 player|no=17|name=[[Hamad Ganayem|H. Ganayem]]}}
+{{football squad2 player|no=18|name=[[Ali Ottman|Ottman]]}}
+{{football squad2 player|no=19|name=[[Yero Bello|Bello]]}}
+{{football squad2 player|no=20|name=[[Idan Weitzman|Weitzman]]}}
+{{football squad2 player|no=21|name=[[Ahmed Kasoum|Kasoum]]}}
+{{football squad2 player|no=22|name=[[Mahmud Kannadil|Kannadil]]}}
+{{football squad2 player|no=23|name=[[Shimon Harush|Harush]]}}
+{{football squad2 player|no=24|name=[[Waeel Harbaoui|Harbaoui]]}}
+{{football squad2 player|no=27|name=[[Maharan Abu Rayah|Abu Rayah]]}}
+{{football squad manager|name=[[Shlomi Dora|Dora]]}}
+</div>}}<noinclude>
+[[Kategori:Templat skuat sepak bola Israel]]
+
+</noinclude>

@@ -1,0 +1,35 @@
+Mikrus ugandensis
+{{Taxobox
+|name = Mikrus ugandensis
+|status = 
+|image = 
+|image_caption = 
+|domain = 
+|regnum = [[Animalia]]
+|phylum = [[Arthropoda]]
+|classis = [[Arachnida]]
+|ordo = [[Araneae]]
+|familia = [[Salticidae]]
+|genus =Mikrus
+|species = Mikrus ugandensis
+|binomial = Mikrus ugandensis
+|binomial_authority =Wesolowska, 2001
+|range_map = 
+|range_map_caption = 
+|image2 = 
+|image2_caption = 
+|synonyms = 
+}}
+'''''Mikrus ugandensis''''' adalah spesies [[laba-laba]] yang tergolong [[familia]] [[Salticidae]]. Spesies ini juga merupakan bagian dari genus [[Mikrus]] dan ordo [[Araneae]]. Nama ilmiah dari spesies ini pertama kali diterbitkan pada tahun 2001 oleh Wesolowska.
+
+Laba-laba ini biasanya banyak ditemui di Kenya, Uganda.
+
+== Referensi ==
+
+* Platnick, Norman I. (2010): [http://research.amnh.org/entomology/spiders/catalog/LINYPHIIDAE.html The world spider catalog], version 10.5. ''American Museum of Natural History''.
+
+{{DEFAULTSORT:Mikrus ugandensis}}
+
+[[Kategori:Salticidae]]
+
+{{labalaba-stub}}

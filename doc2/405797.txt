@@ -1,0 +1,4 @@
+Templat:ITunes Preview App
+[http://itunes.apple.com/app/id{{{1|{{{id|}}}}}} ''{{{2|{{{title|{{PAGENAME}}}}}}}}'' {{{3|{{{description|}}}}}}] di [[iTunes]] Preview<noinclude>
+{{documentation}}
+</noinclude>

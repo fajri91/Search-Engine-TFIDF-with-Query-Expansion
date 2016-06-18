@@ -1,0 +1,38 @@
+Templat:Keluarga Kerajaan Belgia
+{| class="infobox" style="background: #faf6ff; border: 1px solid #888888; width: 22em; text-align: left; font-size: 88%"
+|-
+! style="background: #f0eeff; color: #000000; font-size: 1.15em; padding: 0px 0px 4px 0px; text-align:center; vertical-align:top;" | [[Keluarga Kerajaan Belgia]]
+|-
+| style="background: #f0eeff; padding: 0px 0px {{#if:{{{1|}}}|1|6}}px 0px; text-align:center" | [[File:Great Coat of Arms of Belgium.svg|110px]]<br>
+|-  
+| style="background: #faf6ff; border-top: 1px solid #888888; padding: 0px 10px 0px 5px"; |
+'''[[Philippe dari Belgia|YM Sang Raja]]'''<br/ >[[Ratu Mathilde dari Belgia|YM Sang Ratu]]
+*[[lisabeth dari Belgia|YM Sang Adipati Wanita Brabant]] 
+*[[Gabriel dari Belgia|YM Pangeran Gabriel]]
+*[[Emmanuel dari Belgia|YM Pangeran Emmanuel]]
+*[[Elonore dari Belgia|YM Putri Elonore]]
+----
+[[Albert II dari Belgia|YM Raja Albert II]]<br/ >[[Ratu Paola dari Belgia|YM Ratu Paola]]
+*[[Putri Astrid dari Belgia, Adipati Wanita Agung Austria-Este|YM Sang Adipati Wanita Agung Austria-Este]]<br/ >[[Pangeran Lorenz dari Belgia, Adipati Agung Austria-Este|YM Sang Adipati Agung Austria-Este]]
+**[[Pangeran Amedeo dari Belgia, Adipati Agung Austria-Este|YM Pangeran Amedeo]]<br/ >YM Putri Elisabetta
+**[[Putri  Maria Laura dari Belgia, Adipati Wanita Agung Austria-Este|YM Putri Maria Laura]]
+**[[Pangeran Joachim dari Belgia, Adipati Agung Austria-Este|YM Pangeran Joachim]]
+**[[Putri Luisa Maria dari Belgia, Adipati Wanita Agung Austria-Este|YM Putri Luisa Maria]]
+**[[Putri Laetitia Maria dari Belgia, Adipati Wanita Agung Austria-Este|YM Putri Laetitia Maria]]
+*[[Pangeran Laurent dari Belgia|YM Pangeran Laurent]]<br/ >[[Putri Claire dari Belgia |YM Putri Claire]]
+**[[Louise dari Belgia|YM Putri Louise]]
+**[[Nicolas dari Belgia|YM Pangeran Nicolas]]
+**[[Aymeric dari Belgia|YM Pangeran Aymeric]]
+----
+YM Putri La dari Belgia <br>
+YM Putri Marie-Christine dari Belgia <br>
+YM Putri Marie-Esmralda dari Belgia
+|-
+|style="text-align:center;"| <hr/>{{navbar|Belgian Royal Family|mini=1}}
+|-
+|}<noinclude>
+
+[[Category:Templat Belgia|Keluarga Kerajaan]]
+[[Category:Templat Keluarga Kerajaan Eropa|Belgia]]
+
+</noinclude>

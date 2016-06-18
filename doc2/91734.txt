@@ -1,0 +1,17 @@
+Berkas:Wpanime.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+*Wikipe-tan body: [[:Image:Don't abbreviate as Wiki.png]] by [[:ja::Kasuga]].
+*Wikipe-tan face: [[:Image:Wikipe-tan frontview.png]] by [[:ja::Kasuga]].
+*Background by [[pengguna:Ricky setiawan|Ricky Setiawan]]
+
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{GFDL}}

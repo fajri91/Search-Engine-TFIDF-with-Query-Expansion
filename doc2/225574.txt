@@ -1,0 +1,37 @@
+Gavriil Veresov
+{{Infobox chess player
+|playername = Gavriil Veresov
+|image =
+|caption=
+|birthname =  
+|country = {{URS}} {{BLR}}
+|datebirth = {{birth date|1912|7|28}}
+|placebirth = [[Minsk]], [[Belarus]]
+|datedeath = {{death date|1979|11|12}}
+|placedeath = Minsk, Belarus
+|title = [[Master Internasional]]
+|worldchampion =
+|womensworldchampion =
+|rating = 
+|peakrating =
+}}
+'''Gavriil Veresov''' ({{lahirmati|[[Minsk]], [[Belarus]]|28|7|1912|Minsk, Belarus|12|11|1979}}) seorang master [[catur]] dan teoretikus [[pembukaan catur]] berkebangsaan [[Belarus]].
+
+Pada 1950 ia menjadi [[Master Internasional]].
+
+[[Pembukaan catur]] 1.d4 d5 2.Kc3 Kf6 3.Gg5 dinamai menurut namanya.
+
+== Referensi ==
+
+* Jeremy Gaige (1987), ''Chess Personalia, A Biobibliography'', McFarland, ISBN 0-7864-2353-6
+
+== Pranala luar ==
+
+* [http://www.chessgames.com/perl/chessplayer?pid=20519 Gavriil Veresov di ChessGames.com]
+* [http://www.chessgames.com/perl/chessopening?eco=d01 Pembukaan Veresov]
+
+{{pecatur-bio-stub}}
+{{lifetime|1912|1979|Veresov, Gavriil|Belarus}}
+
+[[Kategori:Pecatur Belarus]]
+[[Kategori:Master Internasional]]

@@ -1,0 +1,75 @@
+Grsch
+{{Infobox Swiss town
+ | subject_name		= Grsch
+ | image_photo          = Grsch.jpg
+ | municipality_name	= Grsch
+ | municipality_type	= municipality
+ | imagepath_coa	= Grsch wappen.svg|pixel_coa=
+ | map			= 
+ | languages		= 
+ | canton		= Graubnden
+ | iso-code-region 	= CH-GR
+ | district		= [[Prttigau/Davos (district)|Prttigau/Davos]]
+ | lat_d=46|lat_m=58|lat_NS=N|long_d=9|long_m=38|long_EW=E
+ | postal_code		= 7214
+ | municipality_code	= 3961
+ | area			= 43.30
+ | elevation		= 629|elevation_description= 
+ | population		= {{Swiss populations NC|CH-GR|3961}} | populationof = {{Swiss populations YM|CH-GR}} |  popofyear = {{Swiss populations Y|CH-GR}} 
+ | website		= www.gruesch.ch
+ | mayor		= Georg Niggli|mayor_asof=|mayor_party=
+ | mayor_title	= |list_of_mayors	= 
+ | places		= 
+ | demonym		= 
+ | neighboring_municipalities= [[Fanas]], [[Furna]], [[Schiers]], [[Seewis im Prttigau]], [[Valzeina]]
+ | twintowns		= 
+|}}
+'''Grsch''' adalah sebuah [[munisipalitas]] di provinsi [[Prttigau/Davos (distrik)|Prttigau/Davos]], [[Graubnden]], [[Swiss]]. Pada 1 Januari 2011, munisipalitas [[Fanas]] dan [[Valzeina]] bergabung dengan munisipalitas Grsch.<ref name=Fusion>[http://www.bfs.admin.ch/bfs/portal/de/index/infothek/nomenklaturen/blank/blank/gem_liste/03.html ''Amtliches Gemeindeverzeichnis der Schweiz''] diterbitkan oleh Badan Pusat Statistik Federasi Swiss {{de icon}} diakses pada 23 September 2009</ref>
+
+==Sejarah==
+Grsch pertama kali dikenal sejak 1340 sebagai ''Grusch''. Pada 1375, wilayah ini bernama ''Crsch''.<ref name=HDS/>
+
+==Wilayah==
+Grsch memiliki wilayah {{as of|2006|lc=on}} seluas {{convert|10|km2|sqmi|abbr=on}}. Dari wilayah seluas itu, 39,5% dimanfaatkan sebagai lahan pertanian, sedangkan 51,3% masih berupa hutan belantara. Sisanya, 6,2% digunakan untuk kawasan pemukiman penduduk dan 3% terdiri dari gabungan sungai-sungai, gletser dan pegunungan.<ref name=SFSO/>
+
+==Penduduk==
+Grsch dihuni oleh 1323 jiwa. {{as of|2008}}, 7,2% dari seluruh jumlah penduduk adalah warga negara asing.<ref name=Penduduk/> Dalam kurun 10 tahun terakhir, jumlah penduduk meningkat pada kisaran 5,8%. Sebagian besar penduduk ({{as of|2000|lc=on}}) menuturkan bahasa [[bahasa Jerman|Jerman]] (94,4%), kemudian bahasa [[bahasa Serbo-Kroasia|Serbo Kroasia]] (1,7%) dan bahasa [[bahasa Romansh|Romansh]] (0,7%).<ref name=SFSO>[http://www.bfs.admin.ch/bfs/portal/en/index/regionen/02/key.html Badan Pusat Statistik Federasi Swiss] diakses pada 29 Oktober 2009</ref>  
+
+Berikut adalah tabel perkembangan jumlah penduduk di Grsch.<ref name=HDS>{{HDS|1608|Grsch}}</ref>
+{| class="wikitable"
+|-
+! tahun
+! jumlah penduduk
+|-
+| 1850
+| 614 
+|-
+| 1880
+|  577
+|-
+| 1888
+|  681
+|-
+| 1900
+|  629
+|-
+| 1950
+|  726
+|-
+| 1970
+|  709
+|-
+|}
+
+
+==Referensi==
+{{reflist|colwidth=30em}}
+{{commons category|Grsch}}
+
+==Pranala luar==
+* [http://www.gruesch.ch/ Situs resmi] {{de icon}}
+
+{{Munisipalitas di distrik Prttigau/Davos}}
+
+{{DEFAULTSORT:Grusch}}
+[[Kategori:Munisipalitas di Graubnden]]

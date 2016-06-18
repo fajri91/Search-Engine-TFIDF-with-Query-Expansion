@@ -1,0 +1,5 @@
+Templat:Fb team Burnley
+{{fb team |t=Burnley|tan=Burnley F.C. |tc=ENG |abb={{#if:{{{abb|}}}|BUR}} |oc={{#if:{{{oc|}}}|{{{oc}}} }} }}<!--
+--><noinclude>[[Kategori:Templat tim sepak bola Inggris]][[en:Template:Fb team Burnley]]
+[[ru::Fb team Burnley]]
+</noinclude>

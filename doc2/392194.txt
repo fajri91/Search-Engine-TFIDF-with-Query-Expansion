@@ -1,0 +1,47 @@
+Pohang
+{{Infobox settlement
+| name                    = Pohang
+| native_name             = 
+| native_name_lang        = Korean
+| settlement_type         = Kota Munisipalitas
+| translit_lang1          = Korean
+| translit_lang1_type1    = Hangul
+| translit_lang1_info1    = 
+| translit_lang1_type2    = Hanja
+| translit_lang1_info2    = 
+| translit_lang1_type3    = {{nowrap|Revised Romanization}}
+| translit_lang1_info3    = Pohang-si
+| translit_lang1_type4    = {{nowrap|McCune-Reischauer}}
+| translit_lang1_info4    = P'ohang-si
+| image_skyline           = Pohang Korea ISS020-E-09011 lrg.jpg
+| imagesize               = 300px
+| image_caption           = Aerieal view of Pohang
+| image_map               = Map Pohang-si.png
+| mapsize                 = 280px
+| subdivision_type        = Negara
+| subdivision_name        = {{flag|Korea Selatan}}
+| subdivision_type1       = Region
+| subdivision_name1       = [[Yeongnam]]
+| population_blank1_title = Dialek
+| population_blank1       = Gyeongsang
+| area_total_km2          = 1127.24
+| population_as_of        = 31 Desember 2009
+| population_total        = 509475
+| population_density_km2  = 451.97
+| parts_type              = [[Pembagian administratif Korea Selatan|Pembagian administratif]]
+| parts                   = 2 ''gu'', 19 ''dong'', 4 ''eup'', 10 ''myeon''
+| image_blank_emblem      = Pohang logo.jpg
+| blank_emblem_type       = Emblem of Pohang
+}}
+'''Pohang''' adalah kota yang terletak di [[Gyeongsang Utara]], [[Korea Selatan]] dan merupakan pelabuhan utama di region [[Daegu-Gyeongbuk]]. Kota ini memiliki populasi terbesar di Gyeongsang Utara. Luas wilayahnya terbesar ketiga di [[Korea Selatan]]. Jumlah penduduk pada tahun 2009 sebesar 509.475 jiwa.
+
+== Pranala luar ==
+*[http://eng.ipohang.org/ City government website]
+
+{{Gyeongsang Utara}}
+
+[[Kategori:Geografi Korea Selatan]]
+[[Kategori:Kota di Korea Selatan]]
+
+
+{{negara-geo-stub|Korea Selatan}}

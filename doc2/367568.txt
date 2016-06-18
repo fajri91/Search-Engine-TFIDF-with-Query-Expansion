@@ -1,0 +1,18 @@
+Templat:OV
+<includeonly>{{#ifeq:{{{full|yes}}}|yes|[[Pesawat ulang alik]]&nbsp;|{{#ifeq:{{{full|yes}}}|nolink|Pesawat ulang alik&nbsp;}}}}{{#switch:{{uc:{{{1|}}}}}
+|099 = [[Pesawat ulang alik Challenger|''Challenger'']]{{#ifeq:{{{ov|no}}}|yes|&nbsp;([[Kode Wahana Pengorbit|OV-099]])}}
+|101 = [[Pesawat ulang alik Enterprise|''Enterprise'']]{{#ifeq:{{{ov|no}}}|yes|&nbsp;([[Kode Wahana Pengorbit|OV-101]])}}
+|102 = [[Pesawat ulang alik Columbia|''Columbia'']]{{#ifeq:{{{ov|no}}}|yes|&nbsp;([[Kode Wahana Pengorbit|OV-102]])}}
+|103 = [[Pesawat ulang alik Discovery|''Discovery'']]{{#ifeq:{{{ov|no}}}|yes|&nbsp;([[Kode Wahana Pengorbit|OV-103]])}}
+|104 = [[Pesawat ulang alik Atlantis|''Atlantis'']]{{#ifeq:{{{ov|no}}}|yes|&nbsp;([[Kode Wahana Pengorbit|OV-104]])}}
+|105 = [[Pesawat ulang alik Endeavour|''Endeavour'']]{{#ifeq:{{{ov|no}}}|yes|&nbsp;([[Kode Wahana Pengorbit|OV-105]])}}
+|#default = [[Space Shuttle {{{1|}}}|''{{{1|}}}'']]{{#ifeq:{{{ov|no}}}|yes|&nbsp;([[Kode Wahana Pengorbit|OV-{{#switch:{{uc:{{{1|}}}}}
+|CHALLENGER = 099
+|ENTERPRISE = 101
+|COLUMBIA = 102
+|DISCOVERY = 103
+|ATLANTIS = 104
+|ENDEAVOUR = 105
+|#default = {{{2|???}}}}}]])}}}}</includeonly><noinclude>
+
+{{Documentation}}</noinclude>

@@ -1,0 +1,71 @@
+Viswanathan Anand
+{{Infobox chess player
+|playername = Viswanathan Anand
+|image = [[Berkas:Viswanathan Anand 08 14 2005.jpg|260px]]
+|birthname = Viswanathan Anand
+|country = {{IND}}
+|datebirth = {{birth date and age|1969|12|11}}
+|placebirth = [[Madras]], [[India]]
+|datedeath =
+|placedeath =
+|title = [[Grandmaster (catur)|Grandmaster]] (1988)
+|worldchampion = 2000-2002 (FIDE), 2007-2013 (undisputed)
+|womensworldchampion =
+|rating = 2816 (Juli 2015) <br /><small>(No. 2 dalam [[FIDE World Rankings]] Juli 2015)</small>.
+|peakrating = 2817 (Maret 2011)
+}}
+'''Viswanathan Anand''' ([[bahasa Tamil]]:  ) ([[International Phonetic Alphabet|IPA]]: {{IPA|i'ntn nnd}}) ({{lahirmati|[[Madras]], [[India]]|11|12|1969}}) adalah grandmaster catur [[India]] dan mantan [[Kejuaraan Dunia Catur|juara dunia]]. Ia adalah satu dari sembilan pemain dalam sejarah yang memiliki [[FIDE]] rating lebih dari 2800.<ref>{{cite web|url=http://chess-db.com/public/top100alltime.jsp|title=All time Top 100 Ranklist by Highest ELO Rating|publisher=chess-db.com|accessdate=18 July 2015}}</ref> Pada daftar Elo rating FIDE April 2007, Anand menduduki peringkat pertama untuk pertama kalinya. Ia adalah orang keenam yang mencapai peringkat satu sejak daftar ini dimulai pada tahun 1970, kelima orang lainnya adalah [[Bobby Fischer|Fischer]], [[Karpov]], [[Kasparov]], [[Kramnik]], dan [[Topalov]]. Viswanathan Anand menjadi juara dunia catur pada [[29 September]] [[2007]], setelah memenangi kejuaraan dunia catur di [[Ciudad de Mxico]]. Anand mengakhiri turnamen ini dengan angka 9/14, tanpa kalah sekalipun. Pada [[Kejuaraan Catur Dunia 2013]] dia dikalahkan [[Magnus Carlsen]] dan dia dilahkan lagi oleh Carlsen pada [[Kejuaraan Catur Dunia 2014]].<ref>http://www.chessvibes.com/candidates-r13-anand-draws-clinches-rematch-with-carlsen</ref>
+
+Anand menjadi juara nasional kelas sub-junior di India dengan angkat 9/9 pada 1983 dalam usia 14 tahun. Ia menjadi orang India termuda yang meraih gelar [[Master Internasional|International Master]] dalam usia 15. Pada usia 16 tahun, ia menjadi juara nasional. Pada 1987, ia menjadi orang India pertama yang memenangkan kejuaraan dunia catur junior. Pada 1988, dalam usia 18, ia menjadi Grandmaster pertama dari India.
+
+Anand memenangi [[Chess Oscar]] pada 1997, 1998, 2003, dan 2004, menjadi orang non-Rusia ketiga, setelah [[Bent Larsen]] dari Denmark dan Bobby Fischer dari AS yang memenangkan penghargaan tersebut. Chess Oscar adalah penghargaan yang diberikan kepada pemain terbaik setahun menurut poll ahli catur sedunia oleh majalah catur ''64''.
+
+== Pranala luar ==
+{{commons}}
+* [http://latestchess.com/showInterview.php?id=1 Interview with Viswanathan Anand] year 2007
+* [http://www.tnqsponsorship.com/vishwa.html A site with his career accomplishments and awards]
+* [http://indianpersonality.blogspot.com/2006/09/viswanathan-anand.html Profile of Anand on indianpersonality.blogspot.com]
+
+{{S-start}}
+{{s-ach|aw}}
+{{Succession box|
+ title=[[Kejuaraan Catur Dunia|Juara Catur Dunia]] [[Fdration Internationale des checs|FIDE]]|
+ before=[[Alexander Khalifman]]|
+ after=[[Ruslan Ponomariov]]|
+ years=20002002|
+}}
+{{Succession box |
+ before=[[Vladimir Kramnik]]|
+ title=[[Kejuaraan Catur Dunia|Juara Catur Dunia]] |
+ after=[[Magnus Carlsen]]|
+ years=200713|
+}}
+{{Succession box|
+ |before = [[Garry Kasparov]]
+ |after = [[Levon Aronian]]
+ |title = [[Catur cepat|Juara Catur Rapid Dunia]]
+ |years = 20032009
+|}}
+{{succession box
+|before= [[Mikhail Tal]]
+|title= [[Catur cepat|Juara Catur Blitz Dunia]]
+|years= 20002006
+|after= [[Alexander Grischuk]]
+}}
+{{s-ach|ach}}
+{{Succession box|
+ |before = [[Veselin Topalov]]<br />Vladimir Kramnik<br />[[Magnus Carlsen]]<br />Magnus Carlsen
+ |after = Vladimir Kramnik<br />Veselin Topalov<br />Magnus Carlsen<br />Magnus Carlsen
+ |title = [[Daftar peringkat pertama catur dunia FIDE|Peringkat Satu Dunia]]
+ |years = 1 April&nbsp; 31 Desember 2007<br />1 April&nbsp; 30 September 2008<br />1 November&nbsp; 31 Desember 2010<br />1 Maret&nbsp; 30 Juni 2011
+|}}
+{{S-end}}
+
+
+{{Chess}}
+{{DEFAULTSORT:Anand, Viswanathan}}
+
+[[Kategori:Kelahiran 1969]]
+[[Kategori:Pecatur India]]
+[[Kategori:Grandmaster catur]]
+[[Kategori:Orang hidup]]

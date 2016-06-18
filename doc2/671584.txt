@@ -1,0 +1,113 @@
+HAL Rudra
+{|{{Infobox aircraft begin
+ |name= HAL Rudra
+ |image= File:HAL Rudra at Aero India 2013.JPG
+ |caption= Rudra [[Angkatan Darat India]] tahun 2013
+}}{{Infobox aircraft type
+ |type= [[Helikopter tempur]]
+ |national origin= [[India]]
+ |manufacturer= [[Hindustan Aeronautics Limited]]
+ |designer= <!--Only appropriate for single designers, not project leaders-->
+ |first flight= 16 Agustus 2007
+ |introduced= 2012
+ |retired=
+ |status= Aktif
+ |primary user= [[Angkatan Darat India]]
+ |more users= 
+ |produced=
+ |number built= 27
+ |unit cost= 
+ |developed from= [[HAL Dhruv]]
+ |variants with their own articles=
+}}
+|}
+[[Berkas:Weaponised Dhruv.JPG|300px|jmpl|WSI Dhruv pada Aero India 2009]]
+'''HAL Rudra''' ({{lang-sa| }}, Dewa Badai atau Dewa Perburuan) alias ALH-WSI adalah sebuah versi bersenjata dari [[HAL Dhruv]]. Rudra dilengkapi dengan [[Forward looking infrared|Forward Looking Infrared]] (FLIR) dan Thermal Imaging Sights Interface, [[turet senjata]] 20 mm, pod roket 70 mm, [[peluru kendali anti-tank]], dan [[peluru kendali udara ke udara]].<ref name=PiB>{{cite website|title=YEAR-END REVIEW  2010 DRDO|url=http://www.pib.nic.in/newsite/erelease.aspx?relid=68740|accessdate=31-07-2012|website=Press Information Bureau, Govt. of India|date=28-12-2010|language=bahasa Inggris|location=New Delhi}}</ref>
+
+==Desain dan pengembangan==
+
+Setelah melakukan uji terbang [[HAL Light Combat Helicopter|helikopter tempur ringan]], versi modifikasi dari [[HAL Dhruv]], [[Angkatan Darat India]] berpendapat bahwa tanpa perubahan besar pada rangka Dhruv, dapat juga dikembangkan varian bersenjata dan dapat digunakan dengan cepat. Varian ini bernama ''Rudra''.<ref>{{cite web|title=Certified and ready, Indian Army to receive 1st weaponised Dhruv |date=28-01-2013 |url=http://www.spslandforces.com/exclusive/?id=55&h=Certified-and-ready-Indian-Army-to-receive-1st-weaponised-Dhruv|publisher=SP Guide Publications|website=SP's Land Forces|accessdate=19-05-2014|language=bahasa Inggris}}</ref>
+
+Rudra menjalani uji integrasi persenjataan dan sistem optik elektro dan babak akhir uji tembak senjata pada September 2011, yang meliputi pengujian turet senjata 20 mm. Dan pada November 2011, uji peluncuran roket 70 mm dan [[Mistral (peluru kendali)|Mistral MBDA]] [[peluru kendali udara ke udara|udara ke udara]].<ref name=DN>{{cite news|title=Indian Army to Induct Weaponized Advanced Light Helicopter "Rudra" Soon|url=http://www.defencenow.com/news/291/indian-army-to-induct-weaponized-advanced-light-helicopter-rudra-soon.html|accessdate=31-07-2012|website=Defence Now}}</ref> Kemampuan helikopter ini dalam hal daya angkut dan kinerja melebihi persyaratan yang ditetapkan pada ketinggian 6 km. Sensor, senjata, dan rangkatan peralatan perang elektronik telah terintegrasi. Helikopter ini juga telah menggunakan versi mutakhir dari [[kokpit]] kaca sebagaimana yang telah digunakan pada HAL Dhruv Mk-III. Sensor-sensor meliputi kamera siang-malam terstabilisasi, pencitraan infra merah, dan pengarahan laser.<ref name=tsm8f>{{cite news|title=India developing Agni VI|url=http://www.thestatesman.net/index.php?option=com_content&view=article&id=442704&catid=36|accessdate=07-03-2016|newspaper=The Statesman|date=08-02-2013|author=Krishna, Sri|language=bahasa Inggris|archive-url=http://archive.is/emlui|archive-date=13-04-2013}}</ref>
+
+[[Angkatan Laut India]] melakukan uji terbang pada tahun 2012-2013 dan berpendapat bahwa Rudra cocok untuk operasi-operasi pengawasan pantai. Pihak Angkatan Laut terkesan dengan kemampuan sensor Rudra yang mampu melacak kapal pada jarak 12 hingga 14 km. Kualitas citra sensor cukup baik, bahkan pada jarak tersebut nama kapal dapat terbaca.<ref>{{cite news|title=Navy keen on weaponised Dhruv|url=http://www.thehindu.com/todays-paper/tp-national/navy-keen-on-weaponised-dhruv/article4401783.ece|accessdate=19-05-2014|newspaper=The Hindu|date=11-02-2013|author=Anandan, S.|location=Bangalore|language=bahasa Inggris}}</ref>
+
+== Spesifikasi (Dhruv) ==
+[[File:Turbomeca Ardiden P1220827.jpg|thumb|Mesin [[HAL/Turbomeca Shakti]]]]
+
+{{aircraft specifications
+<!-- If you do not understand how to use this template, please ask at [[Wikipedia talk:WikiProject Aircraft]].
+     Please answer the following questions. -->
+|plane or copter?= copter
+|jet or prop?   = prop
+<!-- Now, fill out the specs.  Please include units where appropriate (main comes first, alt in parentheses). If an item doesn't apply, like capacity, leave it blank. For additional lines, end your alt units with a right parenthesis ")" and start a new, fully formatted line beginning with *
+-->
+|ref= Angkatan Darat India,<ref name="Important Milestones">{{cite web|url=http://indianarmy.nic.in/Site/FormTemplete/frmTempSimple.aspx?MnId=69s3HPZPfI4zz/q8SP2vlw==&ParentID=XKXzQohnNlR8lLkeT6DXDw==|title=Equipment: Dhruv|publisher=Indian Army|accessdate=13-08-2011|language=bahasa Inggris}}</ref> Crawford,<ref>{{cite book|title=Twenty-First Century Military Helicopters: Todays Fighting Gunships|last=Crawford|first=Stephen|date=22-09-2003|page=39|publisher=Zenith Press|language=bahasa Inggris|isbn=9780760315040}}</ref> [[Hindustan Aeronautics Limited]] (HAL),<ref>{{cite web|url=http://www.hal-india.com/helicopter/products.asp|title=Hindustan Aeronautics Limited products|website=Hindustan Aeronautics Limited|archive-url=http://archive.is/A7Yo|archive-date=30-06-2012|language=bahasa Inggris|accessdate=07-03-2016}}</ref> dan Defense Update.<ref name="Rudra Growing Claws">{{cite web|url=http://defense-update.com/20130207_rudra-growing-its-claws.html|title=Rudra Growing Claws|author=Eshel, Tamir|date=07-02-2013|language=bahasa Inggris|publisher=Defense Update|accessdate=07-02-2013}}</ref>
+
+|crew= 1 atau 2 pilot
+|capacity= 12 penumpang (14 penumpang dengan tempat duduk padat)
+|length alt= 52 ft 0,8 in
+|length main= 15,87 m
+|span alt= 43 ft 3,7 in
+|span main= 13,20 m
+|height alt= 16 ft 4,06 in
+|height main=4,98 m
+|area alt= 1,472 ft<sup>2</sup>
+|area main= 137 m<sup>2</sup>
+|empty weight alt= 5.515 lb
+|empty weight main= 2.502 kg
+|useful load alt= 5.731 lb
+|useful load main= 2.600 kg
+|max takeoff weight alt= 12.125 lb
+|max takeoff weight main= 5.500 kg
+
+|engine (prop)= [[Mesin Turboshaft|Turboshaft]] [[HAL/Turbomeca Shakti]]
+|type of prop=
+|number of props=2
+|power alt= 1.400 shp<ref>{{cite web|url=http://www.turbomeca.com/public/turbomeca_v2/html/en/produits/sous_famille_home.php?sfid=506&mid=615|title=Turbomeca products: Ardiden|publisher=Safran Group|website=Turbomeca|archive-url=http://web.archive.org/web/20060311032724/http://www.turbomeca.com/public/turbomeca_v2/html/en/produits/sous_famille_home.php?sfid=506&mid=615|archive-date=11-03-2006|language=bahasa Inggris|accessdate=07-03-2016}}</ref>
+|power main= 1.000 kW
+|power original=
+<br/>'''Alternate engine:''' 2 x Turboshaft Turbomeca TM 333-2B2, 746 kW (1.000 shp)
+
+|max speed alt= 180 mph, 156,58 kn
+|max speed main= 290 km/h
+|combat radius alt= 200 mi, 175 nmi
+|combat radius main= 320 km
+|range= 659 km
+|ferry range alt= 516 mi, 447 nmi
+|ferry range main= 827 km
+|ceiling alt= 20.000 ft
+|ceiling main= 6.096 m<ref>{{cite web|url=http://www.indiastrategic.in/topstories1200_ALH_touches_20000_feet.htm|title=ALH touches 20,000 feet and Cheetal 23,000: New Heights for Indian Helicopters|first1=Gulshan|last1=Luthra|first2=Cmde Ranjit|last2=Rai|website=India Strategic|language=bahasa Inggris|accessdate=06-02-2015}}</ref>
+|climb rate alt= 2.030 ft/min
+|climb rate main= 10,3 m/s
+|power/mass alt= 0,20 hp/lb
+|power/mass main= 329,73 W/kg
+|more performance=
+
+<!-- Armament: -->
+|guns=<br />
+**1 x 20mm kanon M621 pada [[turet senjata]] Nexter THL-20 terpasang di ujung kokpit (versi Angkatan Udara dan Darat)
+|missiles=<br />
+**8 [[Peluru kendali anti-tank]] Helina (peluncur helikopter Nag) (direncanakan untuk versi Angkatan Udara dan Darat)
+**4 [[Peluru kendali udara ke udara]] jarak pendek [[Mistral (peluru kendali)|Mistral]] [[MBDA]] (versi Angkatan Udara dan Darat)
+**Pod roket 4 x 68 mm atau 70 mm (versi Angkatan Udara dan Darat)
+**2 [[torpedo]] atau [[peledak kedalaman]] (versi Angkatan Laut)
+**2 [[peluru kendali anti kapal]] (versi Angkatan Laut)
+|avionics= 
+* Peralatan ''[[Elbit Systems|Elbit]] CoMPASS optoelectronic'' untuk pengintaian dan penetapan target
+* Proteksi diri [[SAAB]] IDAS-3
+}}
+
+== Referensi ==
+{{Reflist|2}}
+
+==Pranala luar==
+{{commonscat|HAL military aircraft}}
+*[http://livefist.blogspot.in/2013/02/up-close-with-indian-armys-first-rudra.html HAL Rudra] pada Aero India 2013.
+*[http://www.jetphotos.net/viewphoto.php?id=6504773 WSI (Weapons Systems Integrated) Dhruv]
+*[http://www.hindustantimes.com/Images/2007/8/d0e3bdd1-6961-4c33-b9c8-46ffa079e176HiRes.JPG#@%23@%230 Image of ALH-WSI]
+*[http://idp.justthe80.com/common-projects/dhruv---advanced-light-helicopter-alh#TOC-Rudra---Weaponized-Dhruv-ALH-WSI- HAL Rudra]
+{{pesawat-stub}}
+{{militer-stub}}
+[[Kategori:Helikopter militer]]
+[[Kategori:Pesawat terbang HAL]]

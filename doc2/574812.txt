@@ -1,0 +1,69 @@
+(356263) 2009 VO21
+{{Infobox Planet 
+|minorplanet = yes 
+|width = 25em 
+|bgcolour = 
+|apsis = 
+|name = (356263) 2009 VO21
+|symbol = 
+|image = 
+|caption = 
+|discovery = yes 
+|discovery_ref = 
+|discoverer = 
+|discovery_site = 
+|discovered = 
+|designations = yes
+|mp_name = 
+|alt_names = 
+|mp_category = 
+|orbit_ref = 
+|epoch = 
+|aphelion =5.505
+|perihelion =5.063
+|semimajor =5.284
+|eccentricity =0.042
+|period = 
+|avg_speed = 
+|inclination =6.1
+|asc_node =98.0
+|mean_anomaly =179.66
+|arg_peri =257.7
+|satellites = 
+|physical_characteristics = yes 
+|dimensions = 
+|mass = 
+|density = 
+|surface_grav = 
+|escape_velocity = 
+|sidereal_day = 
+|axial_tilt = 
+|pole_ecliptic_lat = 
+|pole_ecliptic_lon = 
+|albedo = 
+|temperatures= 
+|temp_name1 = 
+|mean_temp_1 = 
+|max_temp_1 = 
+|temp_name2 = 
+|max_temp_2 = 
+|spectral_type = 
+|abs_magnitude =13.5
+}}
+'''(356263) 2009 VO21''' adalah sebuah [[asteroid]]. Asteroid ini merupakan bagian dari [[asteroid Troya Yupiter]], yang terletak di orbit [[Yupiter]]. [[Eksentrisitas orbit]] asteroid ini tercatat sebesar 0.042, sementara [[magnitudo mutlak]]nya adalah 13.5.
+
+== Pembentukan ==
+
+Seperti asteroid secara keseluruhan, asteroid ini terbentuk dari [[nebula]] [[matahari]] primordial sebagai pecahan [[planetisimal]], sesuatu di nebula matahari muda yang tidak cukup besar untuk berubah menjadi [[planet]].<ref>{{cite web | title=What Are Asteroids And Comets? | url=http://neo.jpl.nasa.gov/faq/#ast | work=Near Earth Object Program FAQ | publisher=[[NASA]] | accessdate=13 September 2010 | archiveurl=http://web.archive.org/web/20100909210213/http://neo.jpl.nasa.gov/faq/ | archivedate=9 September 2010 | deadurl=no}}</ref>
+
+== Referensi ==
+
+{{Reflist}}
+
+== Pranala luar ==
+
+* [http://www.minorplanetcenter.net/iau/lists/t_jupitertrojans.html Daftar asteroid Troya Yupiter] - ''The International Astronomical Union Minor Planet Center.''
+
+[[Kategori:Asteroid Troya Yupiter]]
+
+{{asteroid-stub}}

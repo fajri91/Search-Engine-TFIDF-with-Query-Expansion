@@ -1,0 +1,217 @@
+Siklus sel
+[[Berkas:Major events in mitosis.svg|right|thumb|400px|Siklus sel]]
+'''Siklus sel''' adalah fungsi [[sel (biologi)|sel]] yang paling mendasar berupa duplikasi akurat sejumlah besar [[DNA]] di dalam [[kromosom]], dan kemudian memisahkan hasil duplikasi tersebut hingga terjadi dua sel baru yang identik.<ref>{{en}}{{cite book
+|title = Molecular Biology of the Cell -  An Overview of the Cell Cycle
+|author = Bruce Alberts, Alexander Johnson, Julian Lewis, Martin Raff, Keith Roberts, and Peter Walter
+|isbn = 0-8153-3218-1
+|edition = 4
+|year = 2002
+|page = 
+|publisher = Garland Science
+|url = http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=mboc4&part=A3169#A3181
+|accessdate   = 2010-07-10
+}}</ref>
+
+Siklus sel yang berlangsung kontinu dan berulang (siklik), disebut [[proliferasi]]. Keberhasilan sebuah proliferasi membutuhkan transisi unidireksional dan teratur dari satu [[fase]] siklus sel menuju fase berikutnya. Jenjang [[reaksi kimia]] [[senyawa organik|organik]] yang terjadi seyogyanya diselesaikan sebelum jenjang berikutnya dimulai. Sebagai contoh, dimulainya fase [[mitosis]] sebelum selesainya tahap [[replikasi]] [[DNA]] akan menyebabkan sel tereliminasi.
+
+Jenjang reaksi yang terjadi pada siklus sel, sangat mirip dengan relasi [[substrat]]-produk dari sebuah lintasan metabolik. Produk dari sebuah jenjang reaksi akan berfungsi sebagai [[substrat]] pada jenjang berikutnya, demikian pula dengan laju reaksi jenjang yang pertama akan menjadi batas maksimal laju reaksi pada jenjang berikutnya.
+
+Transisi antara jenjang reaksi ditentukan oleh lintasan pengendali ekstrinsik dan intrinsik yang terdiri dari beberapa cekpoin, sebagai konfirmasi selesainya reaksi pada suatu jenjang sebelum jenjang berikutnya dimulai. Kedua lintasan kendali dapat memiliki cekpoin yang sama.
+
+Lintasan kendali instrinsik akan menentukan setiap tahap berjalan sebagaimana mestinya. Fasa S, G<sub>2</sub> dan M pada [[sel (biologi)|sel]] [[mamalia]] dikendalikan oleh lintasan ini, sehingga waktu yang diperlukan untuk fase tersebut, tidak jauh bervariasi antara satu sel dengan sel lain.
+
+Lintasan kendali ekstrinsik akan berfungsi sebagai respon terhadap kondisi di luar sel atau telisik defisiensi sel.
+
+Defisiensi lintasan kendali intrinsik seringkali menyebabkan [[kanker]]. Penyimpangan pada protein yang mengendalikan cekpoin siklus fase sering ditemukan pada penderita kanker.
+
+== Fasa pada siklus sel ==
+[[Berkas:cell cycle.png|250px|right|thumb|Gambar skematik fase siklus sel yang dikendalikan oleh [[enzim]] [[kinase CD|CDK]].<ref>{{en}}{{cite book
+|title = Holland-Frei Cancer medicine - Figure 3.2
+|author = Kufe, Donald W.; Pollock, Raphael E.; Weichselbaum, Ralph R.; Bast, Robert C., Jr.; Gansler, Ted S.; Holland, James F.; Frei III, Emil.
+|work    = Dana-Farber Cancer Institute, Harvard Medical School Boston, Department of Surgical Oncology, University of Texas, MD Anderson Cancer Center, Department of Radiation and Cellular Oncology, University of Chicago Hospital, Chicago Tumor Institute, University of Chicago Chicago, University of Texas, MD Anderson Cancer Center, Houston, American Cancer Society, Derald H Ruttenberg Cancer Center, Mount Sinai School of Medicine New York
+|isbn = 1-55009-213-8
+|edition = 6
+|year = 2003
+|page = 
+|publisher = Hamilton on BC Decker Inc.,
+|url = http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=cmed6&part=A591&rendertype=figure&id=A595
+|accessdate   = 2010-07-09
+}}</ref>]]
+Pada sel [[prokariota]] yang tidak memiliki inti sel, siklus sel terjadi melalui suatu proses yang disebut pembelahan biner, sedang pada sel [[eukariota]] yang memiliki inti sel, siklus sel terbagi menjadi dua fase fungsional, fase S dan M, dan fase persiapan, G<sub>1</sub> dan G<sub>2</sub>:<ref>{{en}}{{cite book
+|title = Holland-Frei Cancer medicine - Proliferation
+|author = Kufe, Donald W.; Pollock, Raphael E.; Weichselbaum, Ralph R.; Bast, Robert C., Jr.; Gansler, Ted S.; Holland, James F.; Frei III, Emil.
+|work    = Dana-Farber Cancer Institute, Harvard Medical School Boston, Department of Surgical Oncology, University of Texas, MD Anderson Cancer Center, Department of Radiation and Cellular Oncology, University of Chicago Hospital, Chicago Tumor Institute, University of Chicago Chicago, University of Texas, MD Anderson Cancer Center, Houston, American Cancer Society, Derald H Ruttenberg Cancer Center, Mount Sinai School of Medicine New York
+|isbn = 1-55009-213-8
+|edition = 6
+|year = 2003
+|page = 
+|publisher = Hamilton on BC Decker Inc.,
+|url = http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=cmed6&part=A591#A592
+|accessdate   = 2010-07-09
+}}</ref>
+# Fasa S (sintesis)
+#: Merupakan tahap terjadinya [[replikasi DNA]]. Pada umumnya, [[sel (biologi)|sel]] [[tubuh]] [[manusia]] membutuhkan waktu sekitar 8 jam untuk menyelesaikan tahap ini. Hasil replikasi [[kromosom]] yang telah utuh, segera dipilah bersama dengan dua [[nuklei]] masing-masing guna proses [[mitosis]] pada fase M.
+# Fasa M (mitosis)
+#: Interval waktu fase M kurang lebih 1 jam. Tahap di mana terjadi pembelahan sel (baik pembelahan biner atau pembentukan tunas). Pada mitosis, sel membelah dirinya membentuk dua sel anak yang terpisah. Dalam fase M terjadi beberapa jenjang fase, yaitu:<ref>{{en}}{{cite book
+|title = Human Molecular Genetics
+|author = Tom Strachan, Andrew P Read
+|work    = University of Newcastle, University of Manchester
+|isbn = 1-85996-202-5
+|edition = 2
+|year = 1999
+|page = Figure 2.10. Cell division by mitosis
+|publisher = Wiley-Liss
+|url = http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=hmg&part=A127&rendertype=figure&id=A140
+|accessdate   = 2010-08-10
+}}</ref>
+#*** Profase, fase terjadinya [[kondensasi]] [[kromosom]] dan pertumbuhan [[pemintal kromosom|pemintalnya]]. Pada saat ini kromosom terlihat di dalam [[sitoplasma]].
+#*** Prometafase, pada fase ini sampul inti sel terlarut dan kromosom yang mengandung 2 [[kromatid]] mulai bermigrasi menuju bidang ekuatorial (piringan metafase).
+#*** Metafase. kondensasi kromosom pada bidang ekuatorial mencapai titik puncaknya
+#*** Anafase. Tiap [[sentromer]] mulai terpisah dan tiap kromatid dari masing-masing kromosom tertarik menuju pemintal kutub.
+#*** Telofase. Kromosom pada tiap kutub mulai mengalami dekondensasi, diikuti dengan terbentuknya kembali membran inti sel dan sitoplasma perlahan mulai membelah
+#*** Sitokinesis. Pembelahan sitoplasma selesai setelah terjadi oleh interaksi antara [[pemintal kromosom|pemintal mitotik]], [[sitoskeleton]] [[aktomiosin]] dan [[fusi sel]],<ref>{{en}}{{cite web
+| url          = http://www.ncbi.nlm.nih.gov/pubmed/11687493
+| title        = Animal cell cytokinesis.
+| accessdate   = 2011-06-11
+| work         = Research Institute of Molecular Pathology; Glotzer M.
+}}</ref> dan menghasilkan dua sel anak yang identik.
+# Fasa G (gap)
+#: Fasa G yang terdiri dari G<sub>1</sub> dan G<sub>2</sub> adalah fase sintesis [[senyawa organik|zat]] yang diperlukan pada fase berikutnya. Pada sel [[mamalia]], interval fase G<sub>2</sub> sekitar 2 jam, sedangkan interval fase G<sub>1</sub> sangat bervariasi antara 6 jam hingga beberapa hari. Sel yang berada pada fase G<sub>1</sub> terlalu lama, dikatakan berada pada fase G<sub>0</sub> atau quiescent. Pada fase ini, sel tetap menjalankan fungsi metabolisnya dengan aktif, tetapi tidak lagi melakukan proliferasi secara aktif. Sebuah sel yang berada pada fase G<sub>0</sub> dapat memasuki siklus sel kembali, atau tetap pada fase tersebut hingga terjadi [[apoptosis]].
+#: Pada umumnya, sel pada orang dewasa berada pada fase G<sub>0</sub>. Sel tersebut dapat masuk kembali ke fase G<sub>1</sub> oleh stimulasi antara lain berupa: perubahan kepadatan sel, [[mitogen]] atau faktor pertumbuhan, atau asupan [[nutrisi]].
+# Interfase
+#: Merupakan sebuah jedah panjang antara satu mitosis dengan yang lain. Jedah tersebut termasuk fase G<sub>1</sub>, S, G<sub>2</sub>.<ref>{{en}}{{cite book
+|title = Molecular Biology of the Cell - Interphase
+|author = Bruce Alberts, Alexander Johnson, Julian Lewis, Martin Raff, Keith Roberts, and Peter Walter
+|isbn = 0-8153-3218-1
+|edition = 4
+|year = 2002
+|page = 
+|publisher = Garland Science
+|url = http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=mboc4&part=A4754&rendertype=def-item&id=A5350
+|accessdate   = 2010-07-10
+}}</ref>
+
+== Cekpoin pada siklus sel ==
+Aktivitas selular yang terjadi pada cekpoin, tidak dapat berlangsung tanpa [[enzim]] intraselular yang disebut [[Kinase CD|CDK]]. [[Holoenzim]] CDK aktif terdiri dari sub-unit [[katalis|katalitik]] dan sub-unit kendali [[siklin]]. Tiap siklin disintesis pada tahap terkait dari fase siklus sel. Sebagai contoh, siklin E disintensis pada akhir fase G<sub>1</sub> hingga awal fase S, sedangkan siklin A disintesis sepanjang interval fase S dan G<sub>2</sub>, dan siklin B disintesis sepanjang fase G<sub>2</sub> dan M. Oleh sebab itu, sub-unit katalitik tidak dapat teraktivasi, hingga siklin yang diperlukan selesai disintesis.
+
+Ikatan yang dibentuk antara sub-unit siklin dan sub-uni katalitik membutuhkan proses [[fosforilasi]] pada [[treonina]] oleh enzim lain yang disebut [[kinase CDKA|CAK]], yang terdiri dari siklin H dan CDK7.
+
+Regulasi yang lain adalah deaktivasi CDK oleh fosforilasi domain pengikat [[adenosin trifosfat|ATP]] oleh enzim [[kinase]] yang lain. Deaktivasi tersebut dapat diaktivasi kembali oleh [[fosfatase]] dari jenis CDC25. Keberadaan protein inhibitor CDK juga merupakan bentuk regulasi terhadap CDK. Satu jenis penghambat CDK termasuk p21CIP1, p27KIP1, dan p57KIP2; sedangkan jenis yang lain menghambat siklin D/CDK4 atau siklin-6 CDK, antara lain p16INK4, p15INK4B, p18INK4C, dan p19INK4D. Sintesis, aktivitas dan degradasi penghambat ini berada dalam regulasi yang merespon sinyal mitogenik dan antimitogenik, seperti sinyal parakrin dari [[TGF-]].
+
+Regulasi terhadap CDK di atas menentukan kecepatan terpicunya transisi fase dalam siklus sel, setelah CDK teraktivasi, transisi ke fase berikutnya akan segera terjadi, walaupun jenjang reaksi pada fase berlangsung, belum selesai.
+
+=== Transisi G<sub>0</sub> ke G<sub>1</sub> ===
+Fasa transisi dari fase G<sub>0</sub> ke fase G<sub>1</sub> disebut fase prima atau fase kompetensi replikatif,<ref name="PM8529831">{{en}}{{cite web
+| url          = http://www.ncbi.nlm.nih.gov/pubmed/8529831
+| title        = Liver regeneration. 2. Role of growth factors and cytokines in hepatic regeneration
+| accessdate   = 2010-07-30
+| work         = Department of Pathology and Laboratory Medicine, Brown University,; Fausto N, Laird AD, Webber EM.
+}}</ref> pada [[hepatosit]], fase prima dipicu oleh sekresi [[sitokina]] [[interleukin-6|IL-6]] dan [[faktor nekrosis tumor-alfa|TNF-]] oleh [[sel Kupffer]] yang menyebabkan hepatosit kehilangan sebagian massanya. Potensi [[proliferasi]] hepatosit setelah kehilangan sebagian massanya.<ref>{{en}}{{cite web
+| url          = http://www.ncbi.nlm.nih.gov/pubmed/12421677
+| title        = The role of cytokines in liver failure and regeneration: potential new molecular therapies.
+| accessdate   = 2010-07-30
+| work         = The Goldyne Savad Institute for Gene Therapy, Hadassah Hebrew University Hospital,; Galun E, Axelrod JH.
+}}</ref>
+
+Berbagai protein disintesis pada fase G<sub>1</sub> setelah sel meninggalkan fase G<sub>0</sub>, beberapa [[ribosom]] baru dibuat untuk mempercepat sintesis protein.
+
+Sejumlah protein yang dihasilkan berupa enzim untuk mengembalikan fungsi metabolik yang hilang saat sel berada pada fase G<sub>0</sub>, seperti enzim yang dibutuhkan untuk sintesis [[isoprenoid]], zat yang diperlukan untuk aktivitas [[onkogen Ras]] dan sintesis poli[[amina]], yang mempunyai banyak fungsi termasuk menyediakan ikatan ionik dengan [[asam nukleat]]. Onkogen Ras disintesis sebagai protein prekursor dan membutuhkan proses paska-translasi sebelum dapat menjadi aktif dan melakukan transformasi sel.
+
+Enzim lain yang berperan dalam sintesis [[DNA]], seperti [[timidina kinase]], [[DNA polimerase]] dan [[histon]] juga dihasilkan ribosom pada fase G<sub>1</sub>.
+
+=== Transisi ke fase S ===
+Transisi ke fase S dari fase G<sub>1</sub> dikendalikan oleh dua buah cekpoin, yaitu "kompetensi" dan "restriksi" yang terletak sekitar 12 dan 2 jam sebelum fase S dimulai. Paling tidak diperlukan tiga faktor pertumbuhan untuk melewati dua cekpoin ini, yaitu [[hormon PDGF|PDGF]], [[hormon EGF|EGF]] dan [[IGF-1]].
+
+Pencerap faktor pertumbuhan merupakan [[protein]] kompleks yang terbentak seluas [[membran sel]] dengan domain yang dapat mengenali faktor pertumbuhan di dalam [[periplasma]] dengan sangat khusus. Ligasi yang terjadi dengan [[ligan]] akan menginduksi transmisi sinyal ke dalam [[sitoplasma]] melalui aktivasi [[enzim]] [[tirosina kinase]]. Sinyal sitoplasmik yang disebut "kurir sekunder", dapat berupa berbagai [[protein]] yang telah mengalami [[fosforilasi]] oleh [[enzim]] [[kinase]], seperti [[molekul kecil]] [[inositol fosfatase]] dan [[adenosina monofosfat|AMP]]; atau [[ion]], seperti Ca<sup>2+</sup>, H<sup>+</sup>, dan Zn<sup>2+</sup>; kemudian diteruskan oleh menuju [[inti sel]]. Di dalam [[inti sel]], [[gen]] kemudian teraktivasi sebagai respon terhadap "kurir sekunder" ini.
+
+=== Fasa S ===
+Pada eukariota, berbagai aktivator ({{lang-en|multiple points of origin}}) diperlukan sebagai persiapan untuk memasuki fase S guna melakukan [[replikasi DNA]], pada prokariota, hanya terdapat aktivator tunggal.<ref>{{en}}{{cite book
+|title = An Introduction to Genetic Analysis
+|author = Anthony JF Griffiths, Jeffrey H Miller, David T Suzuki, Richard C Lewontin, and William M Gelbart
+|work    = University of British Columbia, University of California, Harvard University
+|isbn =  0-7167-3520-2
+|edition = 7
+|year = 2000
+|page = Mechanism of DNA replication
+|publisher = W. H. Freeman
+|url = http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=iga&part=A1523
+|accessdate   = 2010-08-15
+}}</ref> Fasa S dimulai dengan terjadinya [[paparan pulsa]] ({{lang-en|pulse exposure}}) dengan [{{sup|3}}H].[[timidina]] pada sel, kemudian terjadi paparan lanjutan ({{lang-en|chase procedure}}) non-[[radioaktif]] dengan [[timidina]] "dingin". Kedua prosedur tersebut menghasilkan beberapa titik replikasi yang mulai nampak terjadi pada beberapa kromosom pada rantai ganda DNA.
+
+Pada titik replikasi, rantai ganda DNA memisahkan diri menjadi dua untai tunggal, sehingga nampak seperti garpu. Pada tiap untai, terjadi sintesis untai DNA yang baru, dengan dimulai oleh [[molekul]] primer, atau molekul [[oligonukleotida]] pendek, dan diikuti oleh molekul-molekul lain dengan enzim [[DNA polimerase]], membentuk rantai ganda DNA yang baru.
+
+Molekul primer itu disebut [[RNA primer]], yang disintesis dengan [[enzim]] [[RNA polimerase]] atau dikenal sebagai enzim [[primase]], dari [[RNA]] tertentu yang bersifat [[komplemen]] dengan salah satu area kromosom pada untai DNA. [[Primosom]] merupakan sebutan bagi seluruh kompleks yang berikatan dengan RNA primer.
+
+[[Polimerisasi]] untai DNA yang baru bergerak dari tiap-tiap primosom pada titik 5' untai baru ke titik 3' untai baru.<ref>{{en}}{{cite book
+|title = An Introduction to Genetic Analysis
+|author = Anthony JF Griffiths, Jeffrey H Miller, David T Suzuki, Richard C Lewontin, and William M Gelbart
+|work    = University of British Columbia, University of California, Harvard University
+|isbn =  0-7167-3520-2
+|edition = 7
+|year = 2000
+|page = Figure 8-30. The overall structure of a growing fork (top) and steps in the synthesis of the lagging strand.
+|publisher = W. H. Freeman
+|url = http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=iga&part=A1523&rendertype=figure&id=A1544
+|accessdate   = 2010-08-16
+}}</ref> Untai baru yang bergerak dengan arah dari titik 3' untai induk ke 5' untai induk disebut [[untai awal]], sedang untai baru yang bergerak sebaliknya disebut [[untai akhir]]. Untaian DNA baru dari RNA primer hingga tepat sebelum RNA primer berikutnya disebut [[fragmen Okazaki]], sesuai nama ilmuwan [[Reiji Okazaki]] yang pertama kali berhasil mengamati proses polimerasi pada replikasi DNA. Saat polimerasi untai DNA yang baru menyentuh RNA primer pada fragmen Okazaki berikutnya, aktivitas [[eksonuklease]] enzim DNA polimerase akan menghancurkan RNA primer pada fragmen tersebut untuk meneruskan untai polimernya hingga menyentuh untai polimer berikutnya, setelah itu enzim [[DNA ligase]] akan menyambung kedua untai polimer itu menjadi satu.<ref>{{en}}{{cite book
+|title = An Introduction to Genetic Analysis
+|author = Anthony JF Griffiths, Jeffrey H Miller, David T Suzuki, Richard C Lewontin, and William M Gelbart
+|work    = University of British Columbia, University of California, Harvard University
+|isbn =  0-7167-3520-2
+|edition = 7
+|year = 2000
+|page = Figure 8-29. The reaction catalyzed by DNA ligase (Enz) joins the 3-OH end of one fragment to the 5 phosphate of the adjacent fragment.
+|publisher = W. H. Freeman
+|url = http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=iga&part=A1523&rendertype=figure&id=A1543
+|accessdate   = 2010-08-16
+}}</ref> Titik 5' merupakan letak [[gugus fungsional|gugus]] 5' [[fosfat]], sedang titik 3' merupakan letak gugus 3' OH dari molekul gula [[deoksiribosa]].<ref>{{en}}{{cite book
+|title = An Introduction to Genetic Analysis
+|author = Anthony JF Griffiths, Jeffrey H Miller, David T Suzuki, Richard C Lewontin, and William M Gelbart
+|work    = University of British Columbia, University of California, Harvard University
+|isbn =  0-7167-3520-2
+|edition = 7
+|year = 2000
+|page = Figure 1-4. The fundamental building blocks of DNA.
+|publisher = W. H. Freeman
+|url = http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=iga&part=A64&rendertype=figure&id=A71
+|accessdate   = 2010-08-16
+}}</ref> Ikatan yang terjadi antara kedua gugus ini disebut [[ikatan fosfodiester]].<ref>{{en}}{{cite book
+|title = An Introduction to Genetic Analysis
+|author = Anthony JF Griffiths, Jeffrey H Miller, David T Suzuki, Richard C Lewontin, and William M Gelbart
+|work    = University of British Columbia, University of California, Harvard University
+|isbn =  0-7167-3520-2
+|edition = 7
+|year = 2000
+|page = Genes as determinants of the inherent properties of species
+|publisher = W. H. Freeman
+|url = http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=iga&part=A64
+|accessdate   = 2010-08-16
+}}</ref>
+
+Polimerasi untai DNA yang baru terhenti hingga bagian ujung [[kromosom]] yang disebut [[telomer]]. Pada bagian ini, enzim [[telomerase]] akan menyambung untaian tersebut dengan deretan molekul RNA sebagai penanda antar kromosom.<ref>{{en}}{{cite book
+|title = An Introduction to Genetic Analysis
+|author = Anthony JF Griffiths, Jeffrey H Miller, David T Suzuki, Richard C Lewontin, and William M Gelbart
+|work    = University of British Columbia, University of California, Harvard University
+|isbn =  0-7167-3520-2
+|edition = 7
+|year = 2000
+|page = Figure 8-33.
+|publisher = W. H. Freeman
+|url = http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=iga&part=A1523&rendertype=figure&id=A1548
+|accessdate   = 2010-08-16
+}}</ref> Pada manusia, berkas yang disisipkan antar kromosom adalah TTAGGG. Penelitian terakhir menunjukkan bahwa rentang telomer pada manusia lambat laun menjadi lebih pendek dengan pertambahan usia, pengamatan ini membuahkan [[teori penuaan telomer]] yang masih diteliti hingga saat ini.
+
+== Lihat pula ==
+* [[Sel (biologi)]]
+* [[Siklus asam sitrat]]
+
+== Referensi ==
+{{reflist|2}}
+
+== Pranala luar ==
+{{commonscat|cell cycle}}
+
+[[Kategori:Biologi sel]]
+
+
+{{biologi-stub}}

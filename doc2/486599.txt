@@ -1,0 +1,59 @@
+Gytheio
+{{Infobox Greek Dimos
+  |name = Gytheio
+  |name_local = 
+|image_map = Dimos Gythiou.png
+|map_caption = Letak di unit regional
+|periph = [[Peloponnesos (region)|Peloponnesos]]
+|periphunit         = [[Lakonia]]
+|municipality = [[Mani Timur]]
+  |pop_municunit = 7926
+  |population_as_of = 2001
+  |population_ref = [http://www.statistics.gr/gr_tables/S1101_SAP_1_TB_DC_01_03_Y.pdf sumber] 
+  |pop_dens = 
+  |area =  
+  |elevation = 5
+  |lat_deg = 36
+  |lat_min = 45.7
+  |lat_hem = N
+  |lon_deg = 22
+  |lon_min = 33.9
+  |lon_hem = E
+  |postal_code = 232 00
+  |area_code = 27330
+  |licence = 
+  |mayor = 
+  |website = 
+ |image_skyline      = Gythio.JPG
+ |caption_skyline    = Panorama Gytheio.
+ |city_flag          = 
+ |city_seal          = 
+ |districts          = 
+ |party              = 
+ |since              = 
+ |elevation_min      = 
+ |elevation_max      = 
+}}
+
+'''Gytheio''' ({{lang-el|}}, {{IPA-el|iio|}}), '''Gytheion''' ({{lang-grc|}}) kuno, adalah kota dan bekas munisipalitas di [[Lakonia]], [[Peloponnesos (region)|Peloponnesos]], [[Yunani]]. Sejak reformasi pemerintah tahun 2011 kota ini menjadi bagian dari [[Mani Timur]], yang merupakan unit munisipal.<ref name=Kallikratis>[http://www.kedke.gr/uploads2010/FEKB129211082010_kallikratis.pdf Kallikratis law] Greece Ministry of Interior {{el icon}}</ref> Kota ini adalah [[pelabuhan]] di [[Sparta]], sekitar 40&nbsp;km arah utara. Gytheio pernah menjadi pelabuhan penting hingga akhirnya hancur pada abad ke-4 M, kemungkinan oleh gempa bumi. Pada masa kini kota ini adalah kota terbesar dan terpenting di [[Semenanjung Mani|Mani]]. Kota ini juga merupakan pusat munisipalitas Mani Timur.
+
+== Catatan kaki ==
+{{commonscat|Gythio}}
+{{reflist}}
+
+{{Geographic location
+|Centre    = Gytheio 
+|North     = [[Smynos]]
+|Northeast = [[Krokees]]
+|East      = ''[[Teluk Lakonia]]''
+|Southeast = 
+|South     = [[Mani Timur]]
+|Southwest = [[Oitylo]]
+|West      = [[Lefktro]]
+|Northwest = 
+}}
+
+[[Kategori:Kota Yunani kuno]]
+[[Kategori:Tempat berpenduduk di Lakonia]]
+[[Kategori:Kota pelabuhan Laut Tengah di Yunani]]
+[[Kategori:Kota di Semenanjung Mani]]

@@ -1,0 +1,207 @@
+Fakultas Ilmu Komputer Universitas Brawijaya
+{{Infobox Universitas
+| name              = [[Fakultas Ilmu Komputer Universitas Brawijaya|Fakultas Ilmu Komputer]]</br>[[Universitas Brawijaya]]
+| native_name       = 
+| image_name        = 
+| image_size        = 
+| image_alt         = 
+| caption           = 
+| latin_name        = 
+| motto             = 
+| mottoind          = 
+| established       = [[2011]]
+| closed            = 
+| type              = [[Perguruan Tinggi Negeri]] [[Badan Hukum Milik Negara | Badan Hukum]]
+| affiliation       = 
+| endowment         = 
+| budget            = 
+| officer_in_charge = 
+| chairman          = 
+| chancellor        = 
+| president         = 
+| vice-president    = 
+| superintendent    = 
+| provost           = 
+| vice_chancellor   = 
+| rector            = 
+| principal         = 
+| dean              = Ir. Sutrisno, MT
+| director          = 
+| head_label        = 
+| head              = 
+| academic_staff    = 
+| administrative_staff  = 
+| students          = 5148 (2015)<ref>{{cite web 
+  | url = http://ptiik.ub.ac.id/page/read/jumlah-mahasiswa-pertahun/04c7f1b
+  | title = Jumlah Mahasiswa Pertahun
+  | first = Program Teknologi Informasi dan Ilmu Komputer
+  | last = Universitas Brawijaya
+  | work = ub.ac.id
+  | date = 2015
+  | accessdate =  25 Februari 2015 }}</ref>
+| undergrad         = 
+| postgrad          = 
+| doctoral          = 
+| other             = 
+| city              = [[Kota Malang]]
+| state             = 
+| province          = [[Jawa Timur]]
+| country           = [[Indonesia]]
+| coor              = 
+| campus            = [[Kawasan perkotaan|Urban]]
+| former_names      = 
+| free_label        = Alamat
+| free              = Jl. Veteran No. 8 Malang, Indonesia - 65145
+| colors            = 
+| colours           = 
+| athletics         = 
+| sports            = 
+| nickname          = FILKOM
+| mascot            = 
+| affiliations      = 
+| website           = http://filkom.ub.ac.id/
+| logo              = 
+| footnotes         =
+}}
+{{Infobox
+ | headerstyle = background-color:#eee;
+ | labelstyle  = background-color:#eee;
+ | header1 = Informasi Umum
+ |   data2 = {{Infobox | subbox = yes
+    |  label2 = Jenjang  |   data2 = [[S1]], [[S2]]
+    |  label3 = Jalur Masuk |   data3 =[[SNMPTN]], [[SBMPTN]], SPMK, SAP, SPKPD
+    |  label4 = Program Studi  |   data4 = * Teknik Informatika
+* Teknologi Informasi
+* Sistem Informasi
+* Sistem Komputer
+* Pendidikan Teknologi Informasi
+* Magister Ilmu Komputer
+}}
+}}
+{{Universitas Brawijaya|fakultas}}
+
+'''Fakultas Ilmu Komputer Universitas Brawijaya''' atau disingkat '''FILKOM''' merupakan salah satu fakultas di [[Universitas Brawijaya]] yang baru saja diresmikan pada Januari 2015. Sebelumnya bernama '''Program Teknologi Informasi dan Ilmu Komputer''' atau disingkat '''PTIIK''' yang berada sejak tahun 2011. Saat ini terdapat 3 program studi yang aktif di fakultas ini. Dalam tujuannya untuk mencetak lulusan yang kompeten dalam bidang Teknologi Informasi, FILKOM menerapkan kurikulum berbasis kompetensi yang merujuk pada ABET ''(Accreditation Board for Engineering and Technology)''. FILKOM bertujuan untuk menghasilkan lulusan yang berjiwa ''enterpreneur'' berbasis pada moral dan etika serta dapat dipercaya sehingga mampu bekerjasama dan memberikan kontribusi di tingkat nasional dan internasional.<ref>{{cite web 
+  | url = http://ptiik.ub.ac.id/page/read/sejarah/a20aa9d
+  | title = Program Teknologi Informasi dan Ilmu Komputer
+  | first = Program Teknologi Informasi dan Ilmu Komputer
+  | last = Universitas Brawijaya
+  | work = ub.ac.id
+  | date = 2015
+  | accessdate =  25 Februari 2015 }}</ref>
+
+==Sejarah==
+Merujuk pada SK Dikti No.163/KEP/DIKTI/2007 mengenai penataan dan kodifikasi Program Studi, dibentuklah Program Teknologi Informasi dan Ilmu Komputer (PTIIK) berdasarkan Surat Keputusan Rektor Universitas Brawijaya Nomor: 516/SK/2011 tanggal 27 Oktober 2011 yang merupakan gabungan dari 2 program studi (Teknik Perangkat Lunak dari [[Fakultas Teknik Universitas Brawijaya|Fakultas Teknik]] dan Ilmu Komputer dari [[Fakultas Matematika dan Ilmu Pengetahuan Alam Universitas Brawijaya|Fakultas MIPA]]) yang telah ada di Universitas Brawijaya dimana kedua program studi tersebut memiliki kesamaan dan kesesuaian hakekat sebuah disiplin ilmu. Saat ini PTIIK telah memiliki 3 program studi dan bertempat di Gedung Politeknik Lama UB, diantaranya:<ref name=sjrh>{{cite web 
+  | url = http://ptiik.ub.ac.id/page/read/sejarah/a20aa9d
+  | title = Sejarah PTIIK
+  | first = Program Teknologi Informasi dan Ilmu Komputer
+  | last = Universitas Brawijaya
+  | work = ub.ac.id
+  | date = 2015
+  | accessdate =  25 Februari 2015 }}</ref>
+*Program Studi (S-1) Informatika / Ilmu Komputer
+*Program Studi (S-1) Sistem Komputer
+*Program Studi (S-1) Sistem Informasi
+
+Bertujuan untuk memenuhi kebutuhan akan SDM yang profesional di bidang teknologi informasi, diharapkan PTIIK mampu untuk menjembatani antara kepentingan industri dan masyarakat profesi dengan kepentingan akademik, maka disusunlah kurikulum berbasis kompetensi, dimana selain muatan-muatan inti, diberikan pula muatan-muatan lokal yang mendukung basis pengetahuan terapan dan perekayasaan perangkat lunak. Diharapkan melalui program ini dapat dihasilkan lulusan yang memiliki daya saing, jiwa kewirausahaan, dan memiliki wawasan teknologi informasi yang memadai sehingga tidak gagap ketika tiba waktunya untuk menerapkan ilmunya di masyarakat.<ref name=sjrh></ref>
+
+Kemudian sekarang Prodi tersebut telah berkembang pesat ketika diresmikan menjadi Fakultas Ilmu Komputer Universitas Brawijaya yaitu diantaranya:
+*Program Studi (S-2) Magister Ilmu Komputer
+
+*Program Studi (S-1) Informatika / Ilmu Komputer
+*Program Studi (S-1) Informatika minat Sistem Komputer
+*Program Studi (S-1) Sistem Informasi
+*Program Studi (S-1) Pendidikan Teknologi Informasi
+
+== Kerja Sama Intensif ==
+The International Business Machines Corporation (IBM)
+
+FILKOM UB telah melakukan jalinan kerjasama intensif dengan salah satu raksasa TIK terbaik saat ini, IBM. Beberapa bantuan telah diberikan oleh IBM diantaranya :
+* FILKOM dalam kebutuhan akademiknya bisa menggunakan semua produk perangkat lunak dari IBM dengan jumlah ribuan, bebas dan berlisensi.
+* Supporting pelatihan dan pendampingan dalam pengelolaan perangkat keras FILKOM yang menggunakan perangkat dari IBM secara intensif.
+* Pemberian Sertifikasi IBM DB_2 Academy kepada segenap civitas PTIIK UB.
+Nokia Developer
+
+== Kerja Sama Luar Negeri ==
+{|
+|No
+|Instansi
+|-
+|1
+|Fachhochschule Darmstadt of Darmstadt  Germany
+|-
+|2
+|Fakultas Teknik Universitas Miyazaki Jepang
+|-
+|3
+|Fakultas Teknik Universitas Yamanashi Jepang
+|-
+|4
+|Fakultas Teknik Pukyong National Universitas Korea Selatan
+|-
+|5
+|RTI International  Perform Project  USAID
+|}
+
+== Kerja Sama Dalam Negeri ==
+{|
+|No
+|Instansi
+|-
+|1
+|Politeknik Negeri Samarinda
+|-
+|2
+|Fakultas Teknik Universitas Pendidikan Nasional Denpasar
+|-
+|3
+|BAPEKAB Trenggalek
+|-
+|4
+|Akademi TNI AL (AAL)
+|-
+|5
+|Kepolisian Negara Republik Indonesia (POLRI)
+|-
+|6
+|PT. PLN (Persero) Jakarta
+|-
+|7
+|Perum Jasa Tirta Surabaya
+|-
+|8
+|PT Catur Elang Perkasa
+|-
+|9
+|PII (Persatuan Insinyur Indonesia)
+|-
+|10
+|Dinas Pekerjaan Umum Papua
+|-
+|11
+|Dinas Perhubungan Kabupaten Lumajang
+|-
+|12
+|PT. Petrokimia Gresik
+|}
+
+== Laboratorium FILKOM UB ==
+* Laboratorium Komputasi Cerdas dan Visualisasi
+* Laboratorium Komputer Dasar
+* Laboratorium Game
+* Laboratorium Jaringan Komputer
+* Laboratorium Rekayasa Perangkat Lunak
+* Laboratorium Sistem Informasi
+* Laboratorium Mobile Apps
+* Laboratorium Sistem Komputer dan Robotika
+
+==Lihat pula==
+* [[Komputer]]
+* [[Universitas Brawijaya]]
+
+==Referensi==
+{{reflist}}
+
+==Pranala luar==
+* [http://ptiik.ub.ac.id Website resmi]
+
+[[Kategori:Universitas Brawijaya]]

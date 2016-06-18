@@ -1,0 +1,12 @@
+Templat:Bintang Ari
+{{Navbox
+| listclass = hlist
+| title =Bintang di [[Aries]]
+|name=Bintang Ari
+|state = {{{state|<noinclude>uncollapsed</noinclude>}}}
+|group1=Bintang yang berada di dalam rasi [[Aries]]
+|list1=[[1 Arietis|1]]  [[4 Arietis|4]]  [[Gamma Arietis| (Mesarthim)]]  [[Beta Arietis| (Sheratan)]]  [[7 Arietis|7]]  [[Iota Arietis|]]   [[Lambda Arietis|]]   [[10 Arietis|10]]  [[11 Arietis|11]]  [[Kappa Arietis|]]  [[Alpha Arietis| (Hamal)]]  [[14 Arietis|14]]  [[15 Arietis|15]]  [[16 Arietis|16]]  [[Eta Arietis|]]  [[19 Arietis|19]]  [[20 Arietis|20]]  [[21 Arietis|21]]  [[Theta Arietis|]]  [[23 Arietis|23]]  [[Xi Arietis|]]  [[26 Arietis|26]]  [[27 Arietis|27]]  [[29 Arietis|29]]  [[30 Arietis|30]]  [[31 Arietis|31]]  [[Nu Arietis|]]  [[33 Arietis|33]]  [[Mu Arietis| (Koleon)]]  [[35 Arietis|35]]  [[36 Arietis|36]]  [[Omicron Arietis|]]  [[38 Arietis|38]]  [[39 Arietis|39]]  [[40 Arietis|40]]  [[41 Arietis|41 (Bharani)]]  [[Pi Arietis| (Al Butain al Awwaal)]]]  [[Sigma Arietis|]]  [[Rho1 Arietis|<sup>1</sup>]]  [[45 Arietis|<sup>2</sup>]]  [[Rho3 Arietis|<sup>3</sup> (Al Butain ath Thaani)]]  [[47 Arietis|47]]  [[Epsilon Arietis| (Al Butain ath Thaalith)]]  [[49 Arietis|49]]  [[50 Arietis|50]]  [[51 Arietis|51]]  [[52 Arietis|52]]  [[53 Arietis|53]]  [[54 Arietis|54]]  [[55 Arietis|55]]  [[56 Arietis|56]]  [[Delta Arietis| (Botein)]]  [[Zeta Arietis| (Al Butain ar Raabi)]]  [[59 Arietis|59]]  [[60 Arietis|60]]  [[Tau Arietis|]]  [[62 Arietis|62 (Teen Ho)]]  [[63 Arietis|<sup>2</sup>]]  [[64 Arietis|64]]  [[65 Arietis|65]]  [[66 Arietis|66]]
+|group2=Bintang yang telah dikeluarkan dari rasi [[Aries]]
+|list2=[[3 Arietis|3]] (di rasi [[Pisces]])  [[25 Arietis|25]] (di rasi [[Cetus]]) 
+|below=[[Daftar bintang di rasi bintang Aries|Daftar bintang]]
+}}

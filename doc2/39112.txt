@@ -1,0 +1,13 @@
+E1
+'''E1''' atau '''sirkuit E-1''' ([[Inggris]]: ''E-carrier'') adalah nama format [[transmisi]] [[digital]] dengan 30 kanal suara digital berkecepatan 2,048 [[megabit]] per detik. E1 merupakan standar yang dipakai di [[Eropa]] dan [[Indonesia]]. Standar E1 ini [[ekivalen]] dengan standar [[Sirkuit T1|T1]] yang dipakai di [[Amerika Serikat|Amerika]], dengan perbedaan T1 menggunakan 24 [[kanal]] suara digital dengan kecepatan 1,554 megabit per detik.
+
+Saluran ini berbentuk saluran [[telepon]] khusus dan digunakan pada awalnya untuk sambungan ''trunk'' antar [[sentral]] telepon, namun sekarang mulai banyak disewakan oleh perusahaan [[telekomunikasi]] untuk jalur [[komunikasi]] [[data]].
+
+== Lihat pula ==
+
+* [[Sirkuit T1|T1]]
+* [[Telepon]]
+
+{{komputer-stub}}
+
+[[Kategori:Standar komputer dan telekomunikasi]]

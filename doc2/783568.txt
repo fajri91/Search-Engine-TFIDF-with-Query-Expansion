@@ -1,0 +1,173 @@
+Wikipedia:Warung Kopi (Teknis)/Arsip/Mei 2015
+== Periode baru pemilihan gambar pilihan telah dimulai! (periode 20 dan 21) ==
+
+<div style="width:100%"><div style="{{box-shadow|0 |1px |3px |rgba(0, 0, 0, 0.35)}} overflow:hidden; height:auto; width: 100%; background:white; margin:0px;">
+<div style="width:100%; float:left; height:4px; background:gold;"></div>
+<div style="font-size: 36px; margin:15px 0 15px 0; font-family: sans-serif; line-height: 1em; text-align:center;">
+Periode baru pemilihan gambar pilihan telah dimulai!
+</div></div></div>
+<div style="width: 100%; margin: 0px;">
+<div style="min-height: 50px; vertical-align:middle; text-align:center; padding: 10px; padding-left: 20px; color: black; background-color: #eee; {{box-shadow|0 |1px |3px |rgba(0, 0, 0, 0.35)}}">
+Periode baru pemilihan gambar pilihan telah dimulai, kunjungi [[Wikipedia:Gambar pilihan/Usulan|halaman pemilihan/pengusulan]] untuk memilih atau mengusulkan gambar pilihan!
+<div style="margin:0 auto; width: 600px;">
+{{Clickable button 2|Wikipedia:Gambar pilihan/Usulan#Pemilihan |Pilih gambar{{#if: 20|&#32;(untuk periode ke-20) }}! |class=mw-ui-constructive}}
+{{Clickable button 2|Wikipedia:Gambar pilihan/Usulan#Pengusulan |Usulkan gambar{{#if: 20|&#32;(untuk periode ke-{{#expr:20+1}}) }}! |class=mw-ui-progressive}}
+</div>
+</div>
+</div>
+[[Pengguna:MediaWiki message delivery|MediaWiki message delivery]] ([[Pembicaraan Pengguna:MediaWiki message delivery|bicara]]) 1 Mei 2015 05.41 (UTC)
+<!-- Message sent by User:Kenrick95@idwiki using the list at http://id.wikipedia.org/w/index.php?title=Wikipedia:Gambar_pilihan/Usulan/Pesan_massal&oldid=9348217 -->
+
+== Suyoto, Bupati Bojonegoro ==
+Saat saya mencoba mennyunting halaman [[Suyoto]], seperti pada umumnya artikel dengan jenis ''officeholder'' memiliki atribut ''order'' untuk menandakan "pemegang jabatan ke-...". Namun setelah saya ubah tidak ada yang berubah. Mohon bantuannya. Terima kasih. [[Pengguna:Aryphrase|<font face="verdana" style="color:#000;">'''a r y''' p h r a s e</font>]] [[Pembicaraan Pengguna:Nama pengguna|]] 4 Mei 2015 05.49 (UTC)
+:Sepertinya sudah diperbaiki oleh [//id.wikipedia.org/w/index.php?title=Suyoto&diff=9356906&oldid=9356860 Ign christian]. ''' [[Pengguna:Kenrick95|K]][[Pengguna:Kenrick95/Pesan|]][[Pembicaraan Pengguna:Kenrick95|]][[Pengguna:Kenrick95|K]]''' 4 Mei 2015 09.35 (UTC)
+
+== [[m:Special:MyLanguage/Tech/News/2015/19|Tech News: 2015-19]] ==
+
+<section begin="technews-2015-W19"/><div class="plainlinks mw-content-ltr" lang="en" dir="ltr"><div class="plainlinks">
+Latest '''[[m:Special:MyLanguage/Tech/News|tech news]]''' from the Wikimedia technical community. Please tell other users about these changes. Not all changes will affect you. [[m:Special:MyLanguage/Tech/News/2015/19|Translations]] are available.
+
+'''Recent changes'''
+* You can now [[mw:Conpherence|chat with other users]] in Phabricator. [https://phabricator.wikimedia.org/T91392]
+* There was a rare problem with VisualEditor. The text of another wiki could be added to your edit. The issue is now fixed. [https://wikitech.wikimedia.org/wiki/Incident_documentation/20150424-Parsoid] [https://phabricator.wikimedia.org/T97155]
+
+'''Changes this week'''
+* The [[mw:MediaWiki 1.26/wmf4|new version]] of MediaWiki has been on test wikis and MediaWiki.org since April 29. It will be on non-Wikipedia wikis from May 5. It will be on all Wikipedias from May 6 ([[mw:MediaWiki 1.26/Roadmap|calendar]]).
+* It is now easier to add a link in VisualEditor. You can see an image and a description about the page. [https://phabricator.wikimedia.org/T76397]
+
+'''Meetings'''
+* You can join a meeting with the Language team. The meeting will be on [http://www.timeanddate.com/worldclock/fixedtime.html?hour=14&min=30&sec=0&day=05&month=05&year=2015 May 5 at 14:30 (UTC)]. [https://lists.wikimedia.org/pipermail/wikitech-l/2015-April/081639.html]
+* You can join the next meeting with the Editing team. During the meeting, you can tell developers which bugs are the most important. The meeting will be on [http://www.timeanddate.com/worldclock/fixedtime.html?hour=18&min=00&sec=0&day=06&month=05&year=2015 May 6 at 18:00 (UTC)]. See [[mw:Talk:VisualEditor/Portal|how to join]].
+* You can join an event in France on May 2225. You need to sign up before May 8. [https://lists.wikimedia.org/pipermail/wikitech-l/2015-April/081600.html]
+
+'''''[[m:Special:MyLanguage/Tech/News|Tech news]]''' prepared by [[m:Special:MyLanguage/Tech/Ambassadors|tech ambassadors]] and posted by [[m:Special:MyLanguage/User:MediaWiki message delivery|bot]]  [[m:Special:MyLanguage/Tech/News#contribute|Contribute]]  [[m:Special:MyLanguage/Tech/News/2015/19|Translate]]  [[m:Tech|Get help]]  [[m:Talk:Tech/News|Give feedback]]  [[m:Global message delivery/Targets/Tech ambassadors|Subscribe or unsubscribe]].''
+</div></div> <section end="technews-2015-W19"/> 4 Mei 2015 15.04 (UTC)
+<!-- Message sent by User:Guillaume (WMF)@metawiki using the list at http://meta.wikimedia.org/w/index.php?title=Global_message_delivery/Targets/Tech_ambassadors&oldid=12107168 -->
+
+== Artikel dengan Pernyataan yang Tidak Disertai Rujukan ==
+
+Saya melihat ada tautan (''link'') [[Kategori:Artikel dengan pernyataan yang tidak disertai rujukan April 2015]]. Tautan itu membuat saya bingung, mengapa ada tautan kategori seperti itu? Apakah ada yang salah pada artikel-artikel di kategori itu? Terima kasih.
+
+[[Pengguna:IreneTandry|IreneTandry]] ([[Pembicaraan Pengguna:IreneTandry|bicara]]) 8 Mei 2015 03.23 (UTC)
+
+== [[m:Special:MyLanguage/Tech/News/2015/20|Tech News: 2015-20]] ==
+
+<section begin="technews-2015-W20"/><div class="plainlinks mw-content-ltr" lang="en" dir="ltr"><div class="plainlinks">
+Latest '''[[m:Special:MyLanguage/Tech/News|tech news]]''' from the Wikimedia technical community. Please tell other users about these changes. Not all changes will affect you. [[m:Special:MyLanguage/Tech/News/2015/20|Translations]] are available.
+
+'''Recent changes'''
+* You can now make [[mw:Extension:Graph/Demo|charts and maps]] on your wiki with the new "graph" tool. If you have an old browser, you will see images instead. It uses a tool called Vega; you can [https://github.com/trifacta/vega/wiki learn how to use it] and write help pages for your wiki. You can use the [https://trifacta.github.io/vega/editor/?spec=scatter_matrix Vega edit tool] to make charts and copy the code to your wiki. Charts and maps use complex code and you should put them into templates. In the future, you will be able to create charts with VisualEditor. [https://lists.wikimedia.org/pipermail/wikitech-l/2015-May/081665.html] [https://phabricator.wikimedia.org/T87406] [https://phabricator.wikimedia.org/T93585]
+* You can apply for technical jobs to develop tools for the community. [https://lists.wikimedia.org/pipermail/wikimedia-l/2015-May/077751.html]
+* The logos of all wikis are now in a new place. It will make pages load faster. You can still [[m:Requesting wiki configuration changes|ask to change the logo]]. You can also use local CSS for brief changes. [https://gerrit.wikimedia.org/r/209616] [https://phabricator.wikimedia.org/T98640]
+
+'''Problems'''
+* There was a problem that caused slow editing. [https://wikitech.wikimedia.org/wiki/Incident_documentation/20150503-JobQueueRedis]
+* Pages were sometimes removed from your watchlist in VisualEditor. This problem is now fixed. [https://phabricator.wikimedia.org/T97838]
+
+'''Changes this week'''
+* The [[mw:MediaWiki 1.26/wmf5|new version]] of MediaWiki has been on test wikis and MediaWiki.org since May 6. It will be on non-Wikipedia wikis from May 12. It will be on all Wikipedias from May 13 ([[mw:MediaWiki 1.26/Roadmap|calendar]]).
+* You can now use data from Wikidata on more pages. The page doesn't need to be linked to the Wikidata item. It works on a few wikis and more wikis will be added soon. [https://lists.wikimedia.org/pipermail/wikidata-l/2015-May/006038.html] [https://phabricator.wikimedia.org/T49930]
+* You should get fewer errors when you add files to Commons. [https://phabricator.wikimedia.org/T71691]
+* When you use an external link to link to a wiki page, VisualEditor now converts it to a wiki link. [https://phabricator.wikimedia.org/T94334]
+* When you add a link in VisualEditor, you see pages that match what you type. It is now easier to see where they match. [https://phabricator.wikimedia.org/T93697]
+
+'''Meetings'''
+* You can join the next meeting with the Editing team. During the meeting, you can tell developers which bugs are the most important. The meeting will be on [http://www.timeanddate.com/worldclock/fixedtime.html?hour=18&min=00&sec=0&day=13&month=05&year=2015 May 13 at 18:00 (UTC)]. See [[mw:Talk:VisualEditor/Portal|how to join]].
+
+'''''[[m:Special:MyLanguage/Tech/News|Tech news]]''' prepared by [[m:Special:MyLanguage/Tech/Ambassadors|tech ambassadors]] and posted by [[m:Special:MyLanguage/User:MediaWiki message delivery|bot]]  [[m:Special:MyLanguage/Tech/News#contribute|Contribute]]  [[m:Special:MyLanguage/Tech/News/2015/20|Translate]]  [[m:Tech|Get help]]  [[m:Talk:Tech/News|Give feedback]]  [[m:Global message delivery/Targets/Tech ambassadors|Subscribe or unsubscribe]].''
+</div></div> <section end="technews-2015-W20"/> 11 Mei 2015 15.38 (UTC)
+<!-- Message sent by User:Guillaume (WMF)@metawiki using the list at http://meta.wikimedia.org/w/index.php?title=Global_message_delivery/Targets/Tech_ambassadors&oldid=12141565 -->
+
+== Periode baru pemilihan gambar pilihan telah dimulai! (periode 21 dan 22) ==
+
+<div style="width:100%"><div style="{{box-shadow|0 |1px |3px |rgba(0, 0, 0, 0.35)}} overflow:hidden; height:auto; width: 100%; background:white; margin:0px;">
+<div style="width:100%; float:left; height:4px; background:gold;"></div>
+<div style="font-size: 36px; margin:15px 0 15px 0; font-family: sans-serif; line-height: 1em; text-align:center;">
+Periode baru pemilihan gambar pilihan telah dimulai!
+</div></div></div>
+<div style="width: 100%; margin: 0px;">
+<div style="min-height: 50px; vertical-align:middle; text-align:center; padding: 10px; padding-left: 20px; color: black; background-color: #eee; {{box-shadow|0 |1px |3px |rgba(0, 0, 0, 0.35)}}">
+Periode baru pemilihan gambar pilihan telah dimulai, kunjungi [[Wikipedia:Gambar pilihan/Usulan|halaman pemilihan/pengusulan]] untuk memilih atau mengusulkan gambar pilihan!
+<div style="margin:0 auto; width: 600px;">
+{{Clickable button 2|Wikipedia:Gambar pilihan/Usulan#Pemilihan |Pilih gambar{{#if: 21|&#32;(untuk periode ke-21) }}! |class=mw-ui-constructive}}
+{{Clickable button 2|Wikipedia:Gambar pilihan/Usulan#Pengusulan |Usulkan gambar{{#if: 21|&#32;(untuk periode ke-{{#expr:21+1}}) }}! |class=mw-ui-progressive}}
+</div>
+</div>
+</div>
+[[Pengguna:MediaWiki message delivery|MediaWiki message delivery]] ([[Pembicaraan Pengguna:MediaWiki message delivery|bicara]]) 13 Mei 2015 14.37 (UTC)
+<!-- Message sent by User:Kenrick95@idwiki using the list at http://id.wikipedia.org/w/index.php?title=Wikipedia:Gambar_pilihan/Usulan/Pesan_massal&oldid=9367203 -->
+
+== Menonaktifkan Beta ==
+
+Saya mau nanya, caranya menonaktifkan Beta & mengembalikan tampilan ke versi lama alias non-Beta begimana ya ? Soalnya saya lihat di preferensi nggak ketemu. Gini, saya mau pakai yang versi non-Beta karena versi Beta-nya entah kenapa makin lama makin berat, entah hanya kejadian pada saya saja atau yang lainnya juga & ketika saya buka Tolololpedia (yang tampilannya masih non-Beta) nggak seberat buka Wikipedia. Apa kalo nggak kasih tau aja gimana caranya agar tetap bisa membuka Wikipedia tanpa halangan tapi tetap pakai Beta. [[Pengguna:Erik Fastman|Erik Fastman]] ([[Pembicaraan Pengguna:Erik Fastman|bicara]]) 17 Mei 2015 03.53 (UTC)
+
+== [[m:Special:MyLanguage/Tech/News/2015/21|Tech News: 2015-21]] ==
+
+<section begin="technews-2015-W21"/><div class="plainlinks mw-content-ltr" lang="en" dir="ltr"><div class="plainlinks">
+Latest '''[[m:Special:MyLanguage/Tech/News|tech news]]''' from the Wikimedia technical community. Please tell other users about these changes. Not all changes will affect you. [[m:Special:MyLanguage/Tech/News/2015/21|Translations]] are available.
+
+'''Recent changes'''
+* You can [https://www.youtube.com/watch?v=j7DTn9jHnI0 watch a video] about the new graph tool.
+
+'''Changes this week'''
+* The [[mw:MediaWiki 1.26/wmf6|new version]] of MediaWiki has been on test wikis and MediaWiki.org since May 13. It will be on non-Wikipedia wikis from May 19. It will be on all Wikipedias from May 20 ([[mw:MediaWiki 1.26/Roadmap|calendar]]).
+* References are now always in the right order. Also, the reference list now only shows references used on the page. [https://gerrit.wikimedia.org/r/#/c/181112/]
+* You can no longer create an account with a colon ':' in it. If you already have one, it still works. [https://phabricator.wikimedia.org/T98757]
+* The toolbar in VisualEditor now looks different. It is easier to see the icons. [https://phabricator.wikimedia.org/T86693]
+* You won't be able to use e-mail lists for [https://www.timeanddate.com/worldclock/fixedtime.html?hour=17&min=00&sec=0&day=19&month=05&year=2015&ah=2 a few hours] on Tuesday. [https://lists.wikimedia.org/pipermail/wikitech-l/2015-May/081737.html] [https://phabricator.wikimedia.org/T99098]
+* UploadWizard now shows better matches when you add a category to your file. [https://phabricator.wikimedia.org/T40785]
+* A [[m:Research:VisualEditor's effect on newly registered editors/May 2015 study|test about VisualEditor]] will start on the English Wikipedia on Thursday. [https://en.wikipedia.org/w/index.php?oldid=662372304#A.2FB_Testing_for_VisualEditor_to_begin_May_21st]
+
+'''Meetings'''
+* You can join the next meeting with the Editing team. During the meeting, you can tell developers which bugs are the most important. The meeting will be on [http://www.timeanddate.com/worldclock/fixedtime.html?hour=15&min=00&sec=0&day=21&month=05&year=2015 May 21 at 15:00 (UTC)]. See [[mw:Talk:VisualEditor/Portal|how to join]].
+* You can join a [[mw:Wikimedia Hackathon 2015|technical meeting]] in France this week.
+
+'''''[[m:Special:MyLanguage/Tech/News|Tech news]]''' prepared by [[m:Special:MyLanguage/Tech/Ambassadors|tech ambassadors]] and posted by [[m:Special:MyLanguage/User:MediaWiki message delivery|bot]]  [[m:Special:MyLanguage/Tech/News#contribute|Contribute]]  [[m:Special:MyLanguage/Tech/News/2015/21|Translate]]  [[m:Tech|Get help]]  [[m:Talk:Tech/News|Give feedback]]  [[m:Global message delivery/Targets/Tech ambassadors|Subscribe or unsubscribe]].''
+</div></div> <section end="technews-2015-W21"/> 18 Mei 2015 15.18 (UTC)
+<!-- Message sent by User:Guillaume (WMF)@metawiki using the list at http://meta.wikimedia.org/w/index.php?title=Global_message_delivery/Targets/Tech_ambassadors&oldid=12221925 -->
+
+== [[m:Special:MyLanguage/Tech/News/2015/22|Tech News: 2015-22]] ==
+
+<section begin="technews-2015-W22"/><div class="plainlinks mw-content-ltr" lang="en" dir="ltr"><div class="plainlinks">
+Latest '''[[m:Special:MyLanguage/Tech/News|tech news]]''' from the Wikimedia technical community. Please tell other users about these changes. Not all changes will affect you. [[m:Special:MyLanguage/Tech/News/2015/22|Translations]] are available.
+
+'''Problems'''
+* VisualEditor was broken for 30 minutes on Tuesday. The problem was due to a tool it uses. [https://wikitech.wikimedia.org/wiki/Incident_documentation/20150519-RESTBase]
+* Some Labs tools had issues last week. [https://wikitech.wikimedia.org/wiki/Incident_documentation/20150518-LabsOutage] [https://wikitech.wikimedia.org/wiki/Incident_documentation/20150519-LabsOutage]
+
+'''Changes this week'''
+* The [[mw:MediaWiki 1.26/wmf7|new version]] of MediaWiki has been on test wikis and MediaWiki.org since May 20. It will be on non-Wikipedia wikis from May 26. It will be on all Wikipedias from May 27 ([[mw:MediaWiki 1.26/Roadmap|calendar]]).
+
+'''Meetings'''
+* You can join the next meeting with the Editing team. During the meeting, you can tell developers which bugs are the most important. The meeting will be on [http://www.timeanddate.com/worldclock/fixedtime.html?hour=18&min=00&sec=0&day=28&month=05&year=2015 May 28 at 18:00 (UTC)]. See [[mw:Talk:VisualEditor/Portal|how to join]].
+
+'''Future changes'''
+* You can [[m:Community Tech project ideas|add your ideas]] of new tools to help active users like you. [https://lists.wikimedia.org/pipermail/wikitech-l/2015-May/081768.html]
+
+'''''[[m:Special:MyLanguage/Tech/News|Tech news]]''' prepared by [[m:Special:MyLanguage/Tech/Ambassadors|tech ambassadors]] and posted by [[m:Special:MyLanguage/User:MediaWiki message delivery|bot]]  [[m:Special:MyLanguage/Tech/News#contribute|Contribute]]  [[m:Special:MyLanguage/Tech/News/2015/22|Translate]]  [[m:Tech|Get help]]  [[m:Talk:Tech/News|Give feedback]]  [[m:Global message delivery/Targets/Tech ambassadors|Subscribe or unsubscribe]].''
+</div></div> <section end="technews-2015-W22"/> 25 Mei 2015 16.16 (UTC)
+<!-- Message sent by User:Guillaume (WMF)@metawiki using the list at http://meta.wikimedia.org/w/index.php?title=Global_message_delivery/Targets/Tech_ambassadors&oldid=12284837 -->
+
+== Periode baru pemilihan gambar pilihan telah dimulai! (periode 22 dan 23) ==
+
+<div style="width:100%"><div style="{{box-shadow|0 |1px |3px |rgba(0, 0, 0, 0.35)}} overflow:hidden; height:auto; width: 100%; background:white; margin:0px;">
+<div style="width:100%; float:left; height:4px; background:gold;"></div>
+<div style="font-size: 36px; margin:15px 0 15px 0; font-family: sans-serif; line-height: 1em; text-align:center;">
+Periode baru pemilihan gambar pilihan telah dimulai!
+</div></div></div>
+<div style="width: 100%; margin: 0px;">
+<div style="min-height: 50px; vertical-align:middle; text-align:center; padding: 10px; padding-left: 20px; color: black; background-color: #eee; {{box-shadow|0 |1px |3px |rgba(0, 0, 0, 0.35)}}">
+Periode baru pemilihan gambar pilihan telah dimulai, kunjungi [[Wikipedia:Gambar pilihan/Usulan|halaman pemilihan/pengusulan]] untuk memilih atau mengusulkan gambar pilihan!
+<div style="margin:0 auto; width: 600px;">
+{{Clickable button 2|Wikipedia:Gambar pilihan/Usulan#Pemilihan |Pilih gambar{{#if: 22|&#32;(untuk periode ke-22) }}! |class=mw-ui-constructive}}
+{{Clickable button 2|Wikipedia:Gambar pilihan/Usulan#Pengusulan |Usulkan gambar{{#if: 22|&#32;(untuk periode ke-{{#expr:22+1}}) }}! |class=mw-ui-progressive}}
+</div>
+</div>
+</div> [[Pengguna:MediaWiki message delivery|MediaWiki message delivery]] ([[Pembicaraan Pengguna:MediaWiki message delivery|bicara]]) 28 Mei 2015 13.14 (UTC)
+<!-- Message sent by User:Kenrick95@idwiki using the list at http://id.wikipedia.org/w/index.php?title=Wikipedia:Gambar_pilihan/Usulan/Pesan_massal&oldid=9416927 -->
+
+== Pemindahan artikel ==
+
+Pemindahan artikel yang dilakukan oleh [[pengguna:Andriana08]] tidak sesuai dengan [[Wikipedia:Pedoman penamaan/Organisasi]], karena sebenarnya awalan "PT" tidak harus ada. 
+[[Istimewa:Kontribusi pengguna/202.62.16.217|202.62.16.217]] 30 Mei 2015 04.31 (UTC)
+: Terima kasih Anda sudah mengingatkan. Ya, saya mengaku khilaf dan kurang membaca pedoman itu. Untuk itu, saya minta maaf sebesar-besarnya. Nanti, artikel-artikel yang sudah terlanjur saya pindahkan, akan saya usulkan agar dikembalikan lagi. Saya cuma punya niat baik saja agar ada pembedaan antara nama institusi dengan nama lainnya. {{catatan|&ndash;pertama}} Waktu lain kalau mau berkontribusi di Wikipedia, silakan login dengan akun anda, atau mendaftarkan terlebih dahulu lalu login. {{catatan|&ndash;ke-dua}} Waktu lain kalau menulis pesan kepada saya, silakan melalui '''[[Pembicaraan Pengguna:Andriana08/Arsip 2015|pranala halaman pembicaraan ini]]''' atau langsung ke <span class="plainlinks" style="border-radius: 0px; border: solid 0px transparent; background-color: transparent; color=transparent">'''[{{fullurl:Pembicaraan_Pengguna:Andriana08/Arsip_{{CURRENTYEAR}}|action=edit&section=new&preloadtitle=Pesan+dari+%7B%7Bgnt%3AREVISIONUSER%7D%7D+%7B%7Bgnt%3APengguna%3AAndriana08/ttd%7D%7D&preload=Pembicaraan_Pengguna:Andriana08/preload}} melalui pranala ini]'''</span>. Terima kasih. Salam. {{Pengguna:Andriana08/tt}}&nbsp;[[Bantuan:Tanda tangan|30 Mei 2015 jam 12:12 WIB]]

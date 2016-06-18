@@ -1,0 +1,14 @@
+Berkas:Ronni Waluya.JPG
+== {{int:filedesc}} ==
+{{Information
+| description    =
+sumber: [http://www.alifmagz.com/ronni-waluya-bernyanyi-sambil-berinfak/ site]
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{GambarPromo}}

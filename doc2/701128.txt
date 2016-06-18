@@ -1,0 +1,27 @@
+Templat:GNIS
+[{{#ifeq:{{{type}}}|antarid|http://geonames.usgs.gov/pls/gnispublic/f?p=gnispq:5:::NO::P5_ANTAR_ID:|http://geonames.usgs.gov/pls/gnispublic/f?p=gnispq:3:::NO::P3_FID:}}{{#if:1| {{{1| {{{id}}} }}} }} U.S. Geological Survey Geographic Names Information System: {{{2|{{{name|{{PAGENAME}}}}}}}}]<noinclude>
+{{Documentation}}
+==TemplateData==
+<templatedata>{
+"description": "A template to generate external links to the United States Geological Survey's Geographic Names Information System.",
+"params": {
+  "id": {
+    "label": "GNIS feature id",
+    "description": "GNIS feature id.  The default if this is omitted is {{Pagename}}.",
+    "type": "number",
+    "required": true
+  },
+  "name": {
+    "label": "link label",
+    "description": "GNIS link label; provides a replacement for the default {{Pagename}}.",
+    "type": "string",
+    "required": false
+  },
+  "type": {
+    "label": "GNIS special subsets",
+    "description": "Use the value _antarid_ for GNIS codes which refer to features in Antarctica.",
+    "type": "string",
+    "required": false
+  }
+}}</templatedata>
+</noinclude>

@@ -1,0 +1,11 @@
+Templat:Convert/CID
+{{convert/{{{d}}}|{{{1}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|s={{{s|}}}|r={{{r}}}
+|u=cu&nbsp;in
+|n=cubic inch#Engine displacement
+|h=cubic-inch
+|o=cc
+|b=0.000016387064
+|j=-4.78549885-{{{j|0}}}}}<noinclude>
+[[Kategori:Subtemplates of Template Convert]]
+[[Kategori:Templat konversi]]
+</noinclude>

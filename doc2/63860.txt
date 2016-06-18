@@ -1,0 +1,145 @@
+Gram-negatif
+[[Berkas:Pseudomonas aeruginosa Gram.jpg|thumb|right|250px|bakteri gram negatif ''[[Pseudomonas aeruginosa]]'' berbentuk batang berwarna merah muda.]]
+
+Bakteri '''gram-negatif''' adalah [[bakteri]] yang tidak mempertahankan [[zat warna]] [[kristal violet]] sewaktu proses [[pewarnaan Gram]] sehingga akan berwarna merah bila diamati dengan [[mikroskop]].<ref name="Brock">{{en}} Madigan MT, Martinko JM, Brock TD. 2006. Brock Biology of Microorgnisms. New Jersey: Pearson Prentice Hall.</ref>
+
+Disisi lain, bakteri [[gram-positif]] akan berwarna ungu.<ref name="Brock"/> Perbedaan keduanya didasarkan pada perbedaan struktur [[dinding sel]] yang berbeda dan dapat dinyatakan oleh prosedur pewarnaan Gram.<ref name="Cooper">{{en}} Cooper GM, Hausman RE. 2007. The Cell: A Molecular Approach. 4th ed. Sunderland: Sinauer Associates, Inc.</ref>. Prosedur ini ditemukan pada tahun 1884 oleh ilmuwan [[Denmark]] bernama Christian Gram dan merupakan prosedur penting dalam klasifikasi bakteri.<ref name="Singleton">Singleton P, Sainsbury D. 2006. Dictionary of Microbiology and Molecular Biology. New Jersey: Wiley Interscience.</ref> Bakteri gram positif seperti ''[[Staphylococcus aureus]]'' (bakteri [[patogen]] yang umum pada manusia) hanya mempunyai [[membran plasma]] tunggal yang dikelilingi dinding sel tebal berupa [[peptidoglikan]] <ref name="Cooper"/>. Sekitar 90% dari dinding sel tersebut tersusun atas [[peptidoglikan]] sedangkan sisanya berupa molekul lain bernama [[asam teikhoat]].<ref name="Brock"/> Di sisi lain, bakteri gram negatif (seperti ''[[E. coli]]'') memiliki sistem membran ganda di mana membran pasmanya diselimuti oleh membran luar [[permeabel]]. <ref name="Cooper"/> Bakteri ini mempunyai dinding sel tebal berupa peptidoglikan, yang terletak di antara membran dalam dan membran luarnya. <ref name="Cooper"/>
+
+Banyak spesies bakteri gram-negatif yang bersifat [[patogen]], yang berarti mereka berbahaya bagi organisme [[inang]].<ref name="Prescott"/>Sifat patogen ini umumnya berkaitan dengan komponen tertentu pada dinding sel gram-negatif, terutama lapisan [[lipopolisakarida]] (dikenal juga dengan LPS atau [[endotoksin]]).<ref name="Prescott"/>
+
+
+== Karakteristik ==
+Berikut ini adalah karakteristik dari bakteri Gram positif dan negatif<ref name="Prescott">Prescott LM, Harley JP, Klein DA. 2002. Microbiology. 5th Ed. Boston: McGraw-Hill.</ref>:
+<table class="wikitable">
+<tr><th>Karakteristik<th>[[Gram]] positif<th>Gram negatif
+<tr>
+<th>Dinding sel
+<td valign="top">
+Homogen dan tebal (20-80 nm) serta sebagian besar tersusun dari peptidoglikan. Polisakarida lain dan asam teikoat dapat ikut menyusun dinding sel.
+<td valign="top">
+Peptidoglikan (2-7 nm) di antara membran dam dan luar, serta adanya membran luar (7-8 nm tebalnya) yang terdii dari lipid, protein, dan lipopolisakarida 
+<tr>
+<th>Bentuk sel
+<td valign="top">
+Bulat, batang atau filamen
+<td valign="top">
+Bulat, oval, batang lurus atau melingkar seprti tand koma, heliks atau filamen; beberapa mempunyai selubung atau kapsul
+<tr>
+<th>Reproduksi
+<td valign="top">
+Pembelahan biner
+<td valign="top">
+
+Pembelahan biner, kadang-kadang pertunasan
+<tr>
+<th>Metabolisme
+<td valign="top">
+kemoorganoheterotrof
+<td valign="top">
+Fototrof, kemolitoautotrof, atau kemoorganoheterotrof
+<tr>
+<th>Motilitas
+<td valign="top">
+Kebanyakan nonmotil, bila motil tipe flagelanya adalah petritrikus (''petritrichous'')
+<td valign="top">
+Motil atau nonmotil. Bentuk flagela dapat bervariasi-polar,lopotrikus (''lophtrichous''), petritrikus (''petritrichous'').
+<tr>
+<th>Anggota tubuh (apendase)
+<td valign="top">
+Biasanya tidak memiliki apendase
+<td valign="top">
+Dapat memiliki pili, fimbriae, tangkai
+<tr>
+<th>Endospora
+<td valign="top">
+Beberapa grup dapat membentuk endspora
+<td valign="top">
+Tidak dapat membentuk endospora
+<tr>
+
+</table>
+
+== [[Peptidoglikan]] ==
+* Peptidoglikan (murein) adalah komponen utama dinding sel bakteri yang bersifat kaku dan bertanggungjawab untuk menjaga integritas sel serta menentukan bentuknya. <ref name="Hogg"/> 
+* [[Protoplas]] adalah sel yang telah dihilangkan dinding selnya dan karena suatu sel hidup di lingkungan [[hipotonis]] (lebih encer dibanding [[sitoplasma]] sel) maka kecenderungannya air akan masuk ke dalam sel sehingga protoplas yang tidak memiliki perlindungan dinding sel akan pecah. <ref name="Hogg"/>
+* Peptdoglikan adalah polisakarida yang terdiri dari dua gula turunan yaitu [[asam-N-asetil glukosamin]] serta [[asam-N-asetil muramat]], dan sebuah rantai peptida pendek yang contohnya terdiri dari [[asam amino]] l-alanin, d-alanin, d-asam glutamat, dan baik l-lisin atau asam diaminopimelik (DAP). <ref name="Hogg"/> 
+* DAP adalah asam amino langka yang hanya ditemukan pada dinding sel prokariot. <ref name="Hogg"/>
+Untuk keterangan lebih jelas dapat dilihat pada gambar di bawah ini.
+[[Berkas:Gram negative cell wall Indonesia version.jpg |center|525px|Skema dinding sel bakteri gram negatif.]]
+
+== Penyakit ==
+Berikut ini adalah penyakit-penyakit yang dapat ditimbulkan bakteri Gram positif dan negatif<ref name="Hogg">Hogg S. 2005. Essential Microbiology. West Sussex: John Wiley & Sons Ltd.</ref>:
+<table class="wikitable">
+<tr><th>Gram<th>Genus<th>Penyakit
+<tr>
+<th>Gram positif
+<td valign="top">
+:''[[Staphylococcus]]''
+:''[[Streptococcus]]''
+:''[[Enterococcus]]''
+:''[[Listeria]]''
+:''[[Bacillus]]''
+:''[[Clostridium]]''
+:''[[Mycobacterium]]''
+:''[[Propionibacterium]]''
+:''[[Mycoplasma]]''
+<td valign="top">
+:impetigo, keracunan makanan, bronkitis
+:pneumonia/radang paru, meningitis, karies gigi
+:[[enteritis]]
+:[[listeriosis]]
+:[[anthrax]]
+:[[tetanus]], [[botulisme]]
+:[[difteri]]
+:[[tuberkulosis]]
+:[[jerawat]]
+:[[pneumonia]]
+<tr>
+<th>Gram negatif
+<td valign="top">
+:''[[Salmonella]]''
+:''[[Escherichia]]''
+:''[[Shigella]]''
+:''[[Neisseria]]''
+:''[[Bordetella]]''
+:''[[Legionella]]''
+:''[[Pseudomonas]]''
+:''[[Vibrio]]''
+:''[[Campylobacter]]''
+:''[[Helicobacter]]''
+:''[[Haemophilus]]''
+:''[[Treponema]]''
+:''[[Chlamydia]]''
+<td valign="top">
+:salmonelosis
+:gastroenteritis/radang saluran cerna
+:[[disentri]]
+:[[meningitis]], gonorea
+:batuk rejan
+:''legionnaires' disease''
+:infeksi luka bakar
+:[[kolera]]
+:gastroenteritis
+:[[tukak lambung]]
+:bronkitis, pneumonia
+:[[sifilis]]
+:pneumonia, uretritis, trakoma
+<tr>
+</table>
+
+== Klasifikasi ==
+Berikut ini adalah klasifikasi bakteri gram negatif.
+[[Berkas:Gram - algorithm.png|800px|center|Klasifikasi bakteri gram negatif.]]
+
+== Lihat pula ==
+* [[Endotoksin]]
+* [[Pewarnaan Gram]]
+* [[Gram-positif]]
+* [[Bakteri]]
+
+== Referensi ==
+{{reflist}}
+
+[[Kategori:Mikrobiologi]]
+[[Kategori:Bakteri gram-negatif| ]]
+[[Kategori:Biologi sel]]

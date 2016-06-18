@@ -1,0 +1,75 @@
+Paku ekor kuda
+{{Taxobox
+| name = Paku ekor kuda
+| fossil_range = [[Devonian Akhir]]-sekarang<br />{{fossil range|375.0|0}}
+| image = Equisetum arvense Oulu, Finland 26.05.2013.jpg
+| image_caption = ''Equisetum arvense''
+| image_width = 240px
+| regnum = [[Plantae]]
+| divisio = [[Pteridophyta]]
+| classis = [[Equisetopsida]]
+| ordo = [[Equisetales]]
+| familia = '''Equisetaceae'''
+| familia_authority =
+| subdivision_ranks = [[Genera]]
+| subdivision = 
+'''''Equisetum'''''<!-- <br />
+and see [[#Evolution and systematics|text]] -->
+}}
+'''Paku ekor kuda''' merujuk pada segolongan kecil [[tumbuhan]] (sekitar 20 [[spesies]]) yang umumnya [[terna]] kecil dan semua masuk dalam genus '''''Equisetum''''' (dari ''equus'' yang berarti "kuda" dan ''setum'' yang berarti "rambut tebal" dalam [[bahasa Latin]]). Anggota-anggotanya dapat dijumpai di seluruh dunia kecuali [[Antartika]]. Di kawasan [[Asia Tenggara]] ([[Indonesia]] termasuk di dalamnya) hanya dijumpai satu spesies alami saja, ''E. ramosissimum'' subsp. ''debile''<ref>PROSEA. Plant Resources of Southeast Asia #15 (2). Cryptogams: Ferns and fern allies.</ref>, yang dikenal sebagai [[rumput betung]] dalam [[bahasa Melayu]], ''tataropongan'' dalam [[bahasa Sunda]], atau ''petongan'' dalam [[bahasa Jawa]]. Kalangan [[taksonomi tumbuhan|taksonomi]] masih memperdebatkan apakah kelompok ekor kuda merupakan [[divisio]] tersendiri, sebagai '''Equisetophyta''' (atau '''Sphenophyta'''), atau suatu [[kelas]] dari [[tumbuhan paku]], sebagai '''Equisetopsida''' (atau '''Sphenopsida'''). Hasil analisis [[biologi molekular|molekular]] menunjukkan kedekatan hubungan dengan [[Marattiopsida]] dan paku sejati ([[Polypodiopsida]])<ref>Smith AR, Pryer KM, Schuettpelz E, Korall P, Schneider H, Wolf PG 2006. [http://www.pryerlab.net/publication/fichier749.pdf A classification for extant ferns]. ''Taxon'' 55:705-731.</ref>.
+
+Semua anggota paku ekor kuda berusia [[tumbuhan tahunan|tahunan]], terna berukuran kecil (tinggi 0.2-1.5 [[meter|m]]), meskipun beberapa anggotanya (yang hidup di Amerika Tropik bisa tumbuh mencapai 68 m (''E. giganteum'' dan ''E. myriochaetum'').
+
+[[Batang]] tumbuhan ini berwarna hijau, beruas-ruas, berlubang di tengahnya, berperan sebagai organ [[fotosintesis|fotosintetik]] menggantikan daun. Batangnya dapat bercabang. Cabang duduk mengitari batang utama. Batang ini banyak mengandung [[silika]]. Ada kelompok yang batangnya bercabang-cabang dalam posisi berkarang dan ada yang bercabang tunggal. [[Daun]] pada semua anggota tumbuhan ini tidak berkembang baik, hanya menyerupai sisik yang duduk berkarang menutupi ruas.
+[[Spora]] tersimpan pada struktur berbentuk [[gada]] yang disebut ''strobilus'' (jamak ''strobili'') yang terletak pada ujung batang (''apical''). Pada banyak [[spesies]] (misalnya ''E. arvense''), batang penyangga strobilus tidak bercabang dan tidak berfotosintesis (tidak berwarna hijau) serta hanya muncul segera setelah musim salju berakhir. Jenis-jenis lain tidak memiliki perbedaan ini (batang steril mirip dengan batang pendukung strobilus), misalnya ''E. palustre'' dan ''E. debile''. 
+[[Berkas:Arvense fertil.png|left|150px|thumb|Batang fertil ''E. arvense'' dengan strobilus di ujungnya. Batang ini muncul pada akhir musim salju, sebelum munculnya batang steril yang fotosintetik (lihat gambar di taxobox).]]
+
+Spora yang dihasilkan paku ekor kuda umumnya hanya satu macam (homospor) meskipun spora yang lebih kecil pada ''E. arvense'' tumbuh menjadi [[pergiliran keturunan|protalium]] jantan. Spora keluar dari ''sporangium'' yang tersusun pada strobilus. Sporanya berbeda dengan spora paku-pakuan karena memiliki empat "rambut" yang disebut ''elater''. Elater berfungsi sebagai pegas untuk membantu pemencaran spora.
+
+Gametofit ekor kuda bersifat thalloid (serupa ''thallus'') dan tidak memiliki klorofil, sehingga kehidupannya tergantung pada asosiasi dengan cendawan tanah dalam bentuk [[mikoriza]]. Ukurannya kecil sehingga biasanya diamati dengan mikroskop. Bentuknya tidak menyerupai lembaran seperti pada [[paku sejati]] melainkan menyerupai tangkai memanjang, menghasilkan [[anteridium]] dan [[arkegonium]].
+[[File:Equisetum gametophyte L.jpg|thumb|150px|Gametofit ekor kuda A:rizoid ("akar"), B: arkegonium.]]
+
+Paku ekor kuda menyukai tanah yang basah, baik berpasir maupun berlempung, beberapa bahkan tumbuh di air (batang yang berongga membantu adaptasi pada lingkungan ini). ''E.arvense'' dapat tumbuh menjadi gulma di ladang karena [[rizoma|rimpangnya]] yang sangat dalam dan menyebar luas di tanah. [[Herbisida]] pun sering tidak berhasil mematikannya. Di Indonesia, rumput betung (''E. debile'') digunakan sebagai sikat untuk mencuci dan campuran obat.
+
+Pada masa lalu, kira-kira pada zaman [[Karbonifer]], paku ekor kuda purba dan kerabatnya (''Calamites'', dari divisio yang sama, sekarang sudah punah) mendominasi hutan-hutan di bumi. Beberapa spesies dapat tumbuh sangat besar, mencapai 30 m, seperti ditunjukkan pada fosil-fosil yang ditemukan pada deposit [[batu bara]]. Batu bara dianggap sebagai pengerasan sisa-sisa serasah dari hutan purba ini.
+
+=== Contoh spesies ===
+[[Berkas:Equisetopsida.jpg|thumb|''Equisetum telmateia telmateia'']]
+;Subgenus ''Equisetum''
+* ''[[Equisetum arvense]]'' - paku ekor kuda ladang
+* ''[[Equisetum bogotense]]'' - paku ekor kuda Andes
+* ''[[Equisetum diffusum]]'' - paku ekor kuda Himalaya
+* ''[[Equisetum fluviatile]]'' - paku ekor kuda air 
+* ''[[Equisetum palustre]]'' - paku ekor kuda rawa 
+* ''[[Equisetum pratense]]'' - paku ekor kuda padang 
+* ''[[Equisetum sylvaticum]]'' - paku ekor kuda hutan 
+* ''[[Equisetum telmateia]]'' - paku ekor kuda besar
+;Subgenus ''Hippochaete''
+* ''[[Equisetum giganteum]]'' - paku ekor kuda raksasa
+* ''[[Equisetum myriochaetum]]'' - paku ekor kuda raksasa Meksiko
+* ''[[Equisetum hyemale]]'' - paku ekor kuda kaku, telah diimpor ke Indonesia pula sebagai [[tanaman hias]].
+* ''[[Equisetum laevigatum]]'' - paku ekor kuda lunak
+* ''[[Equisetum ramosissimum]]'' [[Desf.]] - paku ekor kuda bercabang 
+** ''E. ramosissimum'' Desf. subsp. ''ramosissimum''
+** ''E. ramosissimum'' Desf. subsp. ''debile'' ([[Roxb.]] ex Vaucher) Hauke - [[rumput betung]]
+* ''[[Equisetum scirpoides]]'' - paku ekor kuda katai 
+* ''[[Equisetum variegatum]]'' - paku ekor kuda belang
+
+== Referensi ==
+
+{{reflist}}
+
+== Pranala luar ==
+* {{id}} [http://www.iptek.net.id/ind/pd_tanobat/view.php?id=74 ''E. debile'' Roxb., satu-satunya anggota ''Equisetum'' yang tumbuh di Indonesia].
+* {{en}} Pryer, K. M., Schuettpelz, E., Wolf, P. G., Schneider, H., Smith, A. R., and Cranfill, R. (2004). Phylogeny and evolution of ferns (monilophytes) with a focus on the early leptosporangiate divergences. ''American Journal of Botany'' 91: 1582-1598 (tersedia di [http://www.amjbot.org/cgi/reprint/91/10/1582 online]; pdf file).
+* {{en}} [http://www.btinternet.com/~pigott/equisetum/ UK National Collection] - memerikan taksonomi semua spesies dan hibrida 
+* {{en}} [http://members.eunet.at/m.matus/ The Wonderful World of Equisetum]
+* {{en}} [http://www.fiu.edu/~chusb001/giant_equisetum.html Paku ekor kuda raksasa]
+
+{{commons|Category:Equisetaceae}}
+
+{{Plantae}}
+
+[[Kategori:Tumbuhan paku]]
+
+[[frr:Equisetales]]

@@ -1,0 +1,31 @@
+Kultur mikrobiologi
+[[Image:Agarplate redbloodcells edit.jpg|250px|thumb|right|Sel darah merah pada cawan berisi agar digunakan untuk mendiagnosis [[infeksi]]. yang sebelah kiri positif terinfeksi oleh ''[[Staphylococcus]]'' (bakteri berkoloni), yang kanan positip terinfeksi oleh ''[[Streptococcus]]'' (berderet sambung-menyambung).]]
+
+'''Kultur mikrobiologi''', adalah suatu metoda memperbanyak [[mikroba]] pada media kultur dengan pembiakan di laboratorium yang terkendali. Microbial cultures atau kultur mikrobiologi digunakan untuk menentukan jenis dari organisme tersebut, keberlimpahannya, atau keduanya. Ini adalah metode diagnostik utama dari [[mikrobiologi]] dan digunakan sebagai alat untuk menentukan penyebab dari penyakit infeksi dengan membiarkannya berkembangbiak di medium tertentu. Sebagai contoh, kultur tenggorokan mengambil contoh dengan menyapu bagian ujung dalam tenggorokan dengan cotton bud yang panjang dan membiakkannya pada cawan petri dengan agar, sehingga dapat diketahui mikroba yang berbahaya, misalnya ''[[Streptococcus pyogenes]]'', yang menyebabkan penyakit strep throat.<ref>{{Cite web
+| last = Healthwise, Incorporated
+| title = Throat Culture
+| work = WebMD
+| accessdate = 2013-03-10
+| date = 2010-06-28
+| url = http://www.webmd.com/oral-health/throat-culture
+}}</ref> Selanjutnya, terma kultur lebih umum digunakan secara tak resmi untuk "pengembangbiakan secara selektif (selectively growing)" mikroba tertentu di laboratorium.
+
+Kultur mikrobiologi adalah metode dasar yang banyak digunakan sebagai alat riset pada biologi molekular. Seringkali berguna untuk mengisolasi kultur murni dari mikroba. Kultur murni (atau ''axenic'') adalah populasi dari sel-sel atau organisme multisel yang tumbuh tanpa kehadiran yang lainnya. Kultur murni dapat dimulai dari satu sel atau satu organisme, jadi akan terjadi genetic [[clones]] dari yang laiinnya.
+
+Untuk kegunaan kultur mikrobiologi digunakan agar yang berasal dari rumput laut. Yang lebih murah adalah [[guar gum]], dan bisa digunakan untuk mengisolasi dan memelihara [[thermophiles]].
+
+== Kultur bakteri ==
+Kultur bakteri dapat ditumbuhkan pada cawan petri berbagai ukuran yang terisi lapisan agar. Setelah agar dikenai bakteri (inokulasi), maka cawan petri diinkubasi pada temperatur yang optimum untuk pengembiakan bakteri tertentu (biasanya 37 derajat Celsius untuk kultur dari manusia atau hewan, atau lebih rendah untuk kultur lingkungan).
+
+Cara lain dari kultur bakteri adalah kultur cair (liquid culture), dimana bakteri yang dinginkan direndam dalam cairan kaldu (liquid broth), yang merupakan media bernutrisi. Hal ini ideal untuk persiapan antimicrobial assay. Peneliti akan menginokulasi cairan kaldu dengan bakteri dan membiarkannya berkembang semalaman (mungkin diperlukan penggoyang/shaker agar bakeri tumbuh seragam). Kemudian dilakukanlah tes dengan berbagai macam obat atau protein ([[antimicrobial peptides]]) untuk melihat keampuhan dari tiap-tiap obat.
+
+Sebagai pilihan, ahli mikrobiologi dapat menggunakan kultur cair statis dimana tidak diperlukan penggoyang, tetapi perlu pemberian oksigen yang cukup untuk mikroba tertentu.<ref name=Old>{{cite journal |last1=Old |first1=D.C. |last2=Duguid |first2=J.P. |year=1970 |title=Selective Outgrowth of Fimbriate Bacteria in Static Liquid Medium |journal=Journal of Bacteriology |volume=103 |issue=2 |pages=447456 |publisher=American Society for Microbiology |doi= |pmid=248102 |accessdate= }}</ref>
+
+==Di Indonesia==
+Di Indonesia, di Laboratorium Klinik banyak dilakukan Kultur bakteri dengan biaya -/+ Rp 500,000. Mahal, tetapi mungkin diperlukan untuk mengatasi [[Resistensi obat berganda]] dimana menggunakan berbagai macam obat antibiotik, tetapi penyakitnya tidak sembuh-sembuh. Sebenarnya menunggu hingga penyakitnya tidak sembuh-sembuh sudah salah besar, karena menghabiskan dana dan juga tidak baik bagi kesehatan, karena minum berbagai macam obat antibiotik tanpa hasil. Yang terbaik adalah (apalagi jika penyakitnya kronis), maka sebelum obat pertama antibiotik diminum, dilakukan kultur terlebih dahulu. Hasil kultur bisa didapatkan antara 5-7 hari. Selain jenis bakterinya, juga akan diketahui obat apa saja yang sudah resisten (tidak mempan) dan obat yang masih sensitif (mempan), hasil ini dicocokkan dengan obat antibiotik yang sudah kita minum, jika tidak tepat, maka obat antibiotik yang masih ada harus dihentikan dan diganti dengan yang masih sensitif dengan memperhatikan segenap efek sampingnya. Kultur bakteri ini perlu untuk mengatasi penyakit [[Infeksi saluran kemih]] yang berulang dimana tiap kali sakit bakterinya bisa berbeda-beda, juga untuk mengatasi [[sinusitis]] yang biasanya memerlukan pengobatan jangka panjang (lebih dari satu minggu), sehingga obat yang paling tepatlah yang harus dipilih. Untuk terduga [[tuberkulosis]], juga diperlukan pemeriksaan kultur bakteri untuk mengetahui apakah benar bakteri TB yang menginfeksi, demikian pula perlu diketahui obat apa yang masih mempan (pengobatan TB sedikitnya perlu 6 bulan secara kontinu).<ref>{{cite web |url=http://m.inilah.com/news/detail/2087724/tb-bakteri-lebih-cepat-terdeteksi |title=TB, Bakteri Lebih Cepat Terdeteksi |author=Ricky Reynald Yulman |date=1 April 2015}}</ref>
+
+== Referensi ==
+{{Reflist}}
+
+[[Kategori:Mikrobiologi]]
+[[Kategori:Kedokteran]]

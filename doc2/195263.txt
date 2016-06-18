@@ -1,0 +1,15 @@
+Templat:Seyegan, Sleman
+{{Navigasi ID Desa 
+| provinsi	= Daerah Istimewa Yogyakarta
+| dati2		= Kabupaten
+| nama dati2	= Sleman
+| nama kecamatan= Seyegan
+| d1		= Margoagung
+| d2		= Margodadi
+| d3		= Margokaton
+| d4		= Margoluwih
+| d5		= Margomulyo
+}}<noinclude>
+[[Kategori:Templat desa/kelurahan di Daerah Istimewa Yogyakarta|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Sleman|{{PAGENAME}}]]
+</noinclude>

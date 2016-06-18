@@ -1,0 +1,15 @@
+Berkas:Turkstar.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+http://2.bp.blogspot.com/-ZTFw1KLCuQo/TiD5KTcal9I/AAAAAAAAAgE/AreYUisUXc4/s1600/turkstar-turkey.jpg
+
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Logo}}

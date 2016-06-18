@@ -1,0 +1,12 @@
+Templat:Coord missing
+<span id="coordinates" class="metadata coord-missing"></span>{{main other
+| demospace = {{{demospace|}}}
+| [[Category:Artikel tanpa data koordinat geografis]]
+|
+}}<noinclude>
+
+{{documentation}}
+[[Kategori:Templat koordinat]]
+[[de:Vorlage:Lagewunsch]]
+[[or::Coord missing]]
+[[sw:Kigezo:Coord missing]]</noinclude>

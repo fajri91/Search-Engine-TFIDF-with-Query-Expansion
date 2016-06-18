@@ -1,0 +1,35 @@
+Troglohyphantes microcymbium
+{{Taxobox
+|name = Troglohyphantes microcymbium
+|status = 
+|image = 
+|image_caption = 
+|domain = 
+|regnum = [[Animalia]]
+|phylum = [[Arthropoda]]
+|classis = [[Arachnida]]
+|ordo = [[Araneae]]
+|familia = [[Linyphiidae]]
+|genus =Troglohyphantes
+|species = Troglohyphantes microcymbium
+|binomial = Troglohyphantes microcymbium
+|binomial_authority =Pesarini, 2001
+|range_map = 
+|range_map_caption = 
+|image2 = 
+|image2_caption = 
+|synonyms = 
+}}
+'''''Troglohyphantes microcymbium''''' adalah spesies [[laba-laba]] yang tergolong [[familia]] [[Linyphiidae]]. Spesies ini juga merupakan bagian dari ordo [[Araneae]]. Nama ilmiah dari spesies ini pertama kali diterbitkan pada tahun 2001 oleh Pesarini.
+
+Laba-laba ini biasanya banyak ditemui di Italia.
+
+== Referensi ==
+
+* Platnick, Norman I. (2010): [http://research.amnh.org/entomology/spiders/catalog/LINYPHIIDAE.html The world spider catalog], version 10.5. ''American Museum of Natural History''.
+
+{{DEFAULTSORT:Troglohyphantes microcymbium}}
+
+[[Kategori:Linyphiidae]]
+
+{{labalaba-stub}}

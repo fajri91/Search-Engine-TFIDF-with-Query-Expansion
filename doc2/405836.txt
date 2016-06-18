@@ -1,0 +1,14 @@
+Wikipedia:Gambar pilihan/62 2011
+{{GP/2
+|gambar     = Centurion 2 Boulogne Luc Viatour.jpg
+|vertikal   = y
+|deskripsi  = Pemeragaan historis '''[[centurion]]''' (pasukan [[Romawi Kuno|Romawi]]) di [[Boulogne-sur-Mer]], [[Prancis]].
+|oleh       = [[:commons:User:Lviatour|Luc Viatour]]
+|lisensi    = {{GP-GNU}}, {{GP-CC|A-PS 3,0}}, {{GP-CC|A-PS 2,5; 2,0; dan 1,0}}
+|ukuran     = 3,97 MB
+|dimensi    = 2.437  3.260
+|tahun      = 2011
+|seluler    = {{{seluler|no}}}
+|sblm       = ESO - The Carina Nebula (by).jpg
+|des-sblm   = Nebula Carina
+}}<noinclude>{{GPdoc|62 2011}}</noinclude>

@@ -1,0 +1,27 @@
+Templat:Ernest B. Schoedsack
+{{navbox
+|name = Ernest B. Schoedsack
+|title = Film yang disutradarai oleh [[Ernest B. Schoedsack]]
+|state = {{{state|autocollapse}}}
+|listclass = hlist
+
+|list1 =
+* ''[[Grass (film 1925)|Grass]]'' (1925)
+* ''[[Chang (film)|Chang]]'' (1927)
+* ''[[The Four Feathers (film 1929)|The Four Feathers]]'' (1929)
+* ''[[Rango (film 1931)|Rango]]'' (1931)
+* ''[[The Most Dangerous Game (film)|The Most Dangerous Game]]'' (1932)
+* ''[[The Monkey's Paw (film 1933)|The Monkey's Paw]]'' (1933)
+* ''[[King Kong (film 1933)|King Kong]]'' (1933)
+* ''[[Blind Adventure]]'' (1933)
+* ''[[Son of Kong]]'' (1933)
+* ''[[Long Lost Father]]'' (1934)
+* ''[[The Last Days of Pompeii (film 1935)|The Last Days of Pompeii]]'' (1935)
+* ''[[Trouble in Morocco]]'' (1937)
+* ''[[Outlaws of the Orient]]'' (1937)
+* ''[[Dr. Cyclops]]'' (1940)
+* ''[[Mighty Joe Young (film 1949)|Mighty Joe Young]]'' (1949)
+}}<noinclude>
+{{collapsible option}}
+[[Kategori:Kotak navigasi sutradara film Amerika|Schoedsack]]
+</noinclude>

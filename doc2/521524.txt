@@ -1,0 +1,13 @@
+Templat:Location map Northern Cape
+{{#switch:{{{1}}}
+|name=Northern Cape
+|top=-24.25
+|bottom=-33.25
+|left= 16
+|right= 26
+|image=Blank map of the Northern Cape.svg
+}}<noinclude>
+{{Location map/Info}}
+
+[[Kategori:Templat peta lokasi Afrika Selatan|Northern Cape]]
+</noinclude>

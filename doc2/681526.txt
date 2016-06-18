@@ -1,0 +1,79 @@
+Templat:Program Fox News Channel
+{{Navbox
+| name      = Fox News Channel programming
+| title     = [[Program Fox News Channel|Program]] [[Fox News Channel]]
+| listclass = hlist
+| group1    = Hari kerja
+| list1     = 
+* ''[[Fox & Friends First]]''
+* ''[[Fox & Friends]]''
+* ''[[America's Newsroom]]''
+* ''[[Happening Now]]''
+* ''[[America's News Headquarters]]''
+* ''[[The Real Story with Gretchen Carlson]]''
+* ''[[Shepard Smith Reporting]]''
+* ''[[Your World with Neil Cavuto]]''
+* ''[[The Five (program TV)|The Five]]''
+* ''[[Special Report with Bret Baier]]''
+* ''[[On the Record w/ Greta Van Susteren]]
+* ''[[The O'Reilly Factor]]''
+* ''[[The Kelly File]]''
+* ''[[Hannity]]''
+* ''[[Red Eye w/Greg Gutfeld]]''
+| group2 = Akhir pekan
+| list2  = 
+* ''[[Fox & Friends|Fox & Friends Weekend]]''
+* ''[[The Cost of Freedom]]''
+* ''[[America's News Headquarters]]''
+* ''[[The Journal Editorial Report]]''
+* ''[[A Healthy You & Carol Alt]]''
+* ''[[Fox Report]]''
+* ''[[Huckabee]]''
+* ''[[Justice with Judge Jeanine]]''
+* ''[[Geraldo at Large]]''
+* ''[[Media Buzz]]''
+* ''[[Fox News Sunday]]''
+* ''[[Stossel (serial TV)|Stossel]]''
+* ''[[Red Eye w/Greg Gutfeld]]''
+| group3 = Spesial
+| list3  = 
+* ''[[List of Fox News Specials|Fox News Specials]]''
+* ''[[The Lineup (program TV)|The Lineup]]''
+* ''[[War Stories with Oliver North]]''
+* ''[[America's Election Headquarters]]''
+|group4 = Serial web
+|list4 = 
+* ''[[Spirited Debate]]''
+* ''[[Fox and Friends After the Show Show]]''
+* ''[[Power Play (serial)|Power Play]]''
+* ''[[Fox Car Report]]''
+* ''[[Defcon 3]]''
+* ''[[The Morning Click]]''
+* ''[[FBN Live]]''
+* ''[[On the Hunt (serial)|On the Hunt]]''
+* ''[[Entertainment Hour]]''
+| group5 = Mantan
+| list5  = 
+* ''[[The Edge (Fox News)|The Edge]]''
+* ''[[The Big Story (serial TV 2000)|The Big Story]]''
+* ''[[The 1/2 Hour News Hour]]''
+* ''[[Fox Magazine]]''
+* ''[[Fox Online]]''
+* ''[[Drudge (serial TV)|Drudge]]''
+* ''[[Heartland with John Kasich|Heartland]]''
+* ''[[Pat Sajak Weekend]]''
+* ''[[DaySide]]''
+* ''[[Just In|Just In with Laura Ingraham]]''
+* ''[[Weekend Live]]''
+* ''[[Fox News Live]]''
+* ''[[Showdown with Larry Elder]]''
+* ''[[Hannity & Colmes]]''
+* ''[[The Beltway Boys]]''
+* ''[[The Live Desk|The Live Desk with Martha and Trace]]''
+* ''[[Glenn Beck (program TV)|Glenn Beck]]''
+* ''[[Fox News Watch]]''
+* ''[[America Live with Megyn Kelly]]''
+}}<noinclude>
+{{Collapsible option}}
+[[Category:News television navigational boxes]]
+</noinclude>

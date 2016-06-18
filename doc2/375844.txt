@@ -1,0 +1,56 @@
+Bandar Udara Internasional Robert L. Bradshaw
+{{Kotakinfo bandara|nama=Bandar Udara Internasional Robert L. Bradshaw
+
+|IATA=SKB
+|ICAO=TKPK
+|lokasi=[[Basseterre]]
+|negara=[[Saint Kitts dan Nevis]]
+|pengelola=St Christopher Air & Sea Ports Authority
+|tipe=Publik
+|waktu=UTC-4
+|elevasi=
+|koordinat={{coor dms|17|19|N|62|43|W|type:airport|display=inline,title}}
+{{landaspacu|sudut=07/25|panjang_f=8.001|panjang_m=2.439|permukaan=[[aspal]]}}
+}}
+
+'''Bandar Udara Internasional Robert L. Bradshaw''' {{airport codes|SKB|TKPK}} adalah sebuah bandara udara internasional yang terletak di bagian timur laut dari kota [[Basseterre]], di pulau [[Saint Kitts]], melayani negara [[Saint Kitts dan Nevis]]. Bandara ini diberi nama sesuai dengan perdana menteri pertama dari St. Kitts-Nevis-Anguilla (nama pada saat itu), [[Robert Bradshaw|Robert Llewellyn Bradshaw]]. Sebuah proyek renovasi besar selesai pada bulan Desember 2006. Proyek senilai AS$17 juta yang didanai oleh pinjaman dari St. Kitts-Nevis-Anguilla National Bank dan Taiwan ini, meliputi perluasan dari apron parkir agar dapat menampung enam pesawat berbadan lebar pada satu waktu, menyelesaikan perkerasan ulang landasan pacu sepanjang 8.000-kaki dan pembangunan jalur taksi baru. Pembangunan dimulai pada akhir tahun 2004. Bandara ini mampu menampung pesawat jumbo jet komersial dan menangani penerbangan berjadwal non stop menuju Kanada dan Amerika Serikat, bersama dengan beberapa penerbangan komuter regional dari sekitar wilayah Karibia. Pesawat terbesar yang saat ini melayani penerbangan berjadwal di SKB adalah 777-200 milik British Airways. Bandara ini juga menyediakan fasilitas untuk pesawat kargo dan jet pribadi.
+
+Pada tahun 2008, bandara ini menangani 299.706 penumpang.
+
+==Maskapai dan destinasi==
+===layanan berjadwal===
+{{Airport-dest-list
+| [[American Airlines]] | Miami, New York-JFK
+| [[American Eagle Airlines]] dioperasikan oleh [[Executive Airlines]] | San Juan
+| [[British Airways]] | Antigua, London-Gatwick 
+| [[Delta Air Lines]] | Atlanta
+| [[LIAT]] | Antigua, Barbados, San Juan, Sint Maarten
+| [[US Airways]] | Charlotte, Philadelphia 
+}}
+
+===Charter===
+{{Airport-dest-list
+| [[Anguilla Air Services]] | Anguilla, Nevis
+| [[FlyMontserrat]] | Montserrat
+| [[St Barth Commuter]] | Saint Barthlemy
+| [[Trans Anguilla Airways]] | Anguilla
+}}
+
+===Kargo===
+* [[Amerijet International]]
+* [[Cielos Airlines]]
+* [[DHL]]
+* [[Four Star Aviation]]
+* [[Mountain Air Cargo]] - Kontraktor untuk [[FedEx]]
+* [[Roblex Aviation]]
+
+==Insiden dan kecelakaan==
+Pada 26 September 2009, [[British Airways]] Penerbangan 2156 menuju [[Bandar Udara Internasional V. C. Bird]], [[Antigua]], yang dioperasikan dengan [[Boeing 777#777-200|Boeing 777-236]] G-VIIR memasuki [[landasan pacu]] melalui [[jalur taksi]] yang salah, saat akan lepas landas. hal ini mengakibatkan pesawat memiliki panjang landasan 695 m lebih pendek untuk lepas landas, dibandingkan jika memasuki jalur taksi yang tepat. Namun pesawat dapat lepas landas dengan normasl tanpa masalah. Cabang Investigasi Kecelakaan Penerbangan dalam laporannya menyimpulkan bahwa faktor berikut menimbulkan insiden sebagai berikut:  "Otoritas bandara tidak memasang ranbu untuk jalur taksi maupun titik tunggu di lapangan terbang. Awak pesawat tidak melakukan persiapan menuju jalur taksi. Awak pesawat salah mengidentifikasi Jalur Taksi Bravo sebagai Jalur Taksi Alpha dan lepas landas dari persimpangan Bravo. Pengatur lalu lintas udara tidak menginformasikan bahwa pesawat berada di persimpangan yang salah."<ref>{{cite web |url=http://www.aaib.gov.uk/publications/formal_reports/4_2010_g_viir.cfm |title=Report No: 4/2010. Report on the serious incident to Boeing 777-236, G-VIIR at Robert L Bradshaw International Airport, St Kitts, West Indies on 26 September 2009 |author=[[Air Accidents Investigation Branch|AAIB]] |date=July 2010 |accessdate=31 August 2010}}</ref>
+
+==Referensi==
+{{reflist}}
+
+==Pranala luar==
+* {{WAD|TKPK}}
+
+[[Kategori:Bandar udara di Saint Kitts dan Nevis|Robert L. Bradshaw]]

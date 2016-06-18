@@ -1,0 +1,26 @@
+Cyan Magenta Yellow Key
+'''Cyan Magenta Yellow Key''', atau sering disingkat sebagai '''CMYK''' adalah proses pencampuran [[pigmen]] yang lazim digunakan percetakan. Tinta ''process cyan'', ''process magenta'', ''process yellow'', ''process black'' dicampurkan dengan komposisi tertentu dan akurat sehingga menghasilkan [[warna]] tepat seperti yang diinginkan. Bahkan bila suatu saat diperlukan, warna ini dengan mudah bisa dibentuk kembali. 
+
+Sistem CMYK juga digunakan oleh banyak [[printer]] kelas bawah karena keekonomisannya.
+
+CMYK (adalah kependekan dari [[cyan]], [[magenta]], yellow-[[kuning]], dan warna utamanya (black-[[hitam]])<ref>The K in CMYK stands for ''key'', as in four-color printing, cyan, magenta, and yellow printing plates are carefully ''keyed'' or aligned with the ''key line'' of the black ''key plate''. Some sources suggest that the K in CMYK comes from the last letter in blac'''k''', for instance Mark Galer and Les Horvat (2002). ''[http://books.google.com/books?id=AF3eAEVtZekC&pg=PA74&sig=VcmKncaUZGYfAx5-ADJpnOzckxw Digital Imaging: Essential Skills]''. Focal Press. and Simon Jennings (2003). ''[http://books.google.com/books?id=Yz8q9RV05uYC&pg=PA21&sig=3FAhCo2AOb4LB9xUYDclSn4xm4E#PPA21,M1 Artist's Color Manual: The Complete Guide to Working with Color]''. Chronicle Books. However, such explanations are likely inaccurate, plausible inventions of authors unfamiliar with traditional printing technology. Mark Gatter (2005). ''[http://books.google.com/books?id=Pva2EkbmBYEC&pg=PA31&lpg=PA31&ots=OcF8GmRhUr&sig=4jL0kGyhFXbohJ7rznXl1QHfNhQ Getting It Right in Print: Digital Pre-press for Graphic Designers]''. Laurence King Publishing.</ref>, dan seringkali dijadikan referensi sebagai suatu proses pewarnaan dengan mempergunakan empat warna) adalah bagian dari model pewarnaan yang sering dipergunakan dalam pencetakan berwarna. Namun ia juga dipergunakan untuk menjelaskan proses pewarnaan itu sendiri. Meskipun berbeda-beda dari setiap tempat pencetakan, operator surat khabar, pabrik surat khabar dan pihak-pihak yang terkait, tinta untuk proses ini biasanya, diatur berdasarkan urutan dari singkatan tersebut.<ref>''Press Operator'' (interview) [[October 27]], [[2006]]. [http://dynagraphics.com Dynagraphics.]</ref>
+
+Model ini, baik sebagian ataupun keseluruhan, biasanya ditimpakan dalam gambar dengan warna latar putih (warna ini dipilih, dikarenakan dia dapat menyerap panjang struktur cahaya tertentu). Model seperti ini sering dikenal dengan nama "subtractive", karena warna-warnanya mengurangi warna terang dari warna [[putih]].
+
+Dalam model yang lain "additive color", seperti halnya RGB (Red-[[Merah]], Green-[[Hijau]], Blue-[[Biru]]), warna [[putih]] menjadi warna tambahan dari kombinasi warna-warna utama, sedangkan warna [[hitam]] dapat terjadi tanpa adanya suatu cahaya. Dalam model CMYK, berlaku sebaliknya: warna [[putih]] menjadi warna natural dari kertas atau warna latar, sedangkan warna [[hitam]] adalah warna kombinasi dari warna-warna utama. Untuk menghemat biaya untuk membeli tinta, dan untuk menghasilkan warna [[hitam]] yang lebih gelap, dibuatlah satu warna [[hitam]] khusus yang menggantikan warna kombinasi dari [[cyan]], [[magenta]] dan [[kuning]].
+
+== Gamut ==
+Gamut adalah istilah untuk wilayah yang bisa dicakup oleh sistem warna tertentu. Istilah ''out of gamut'' berarti warna itu tidak bisa diwakili oleh proporsi warna dasar sistem yang ingin digunakan. 
+Permasalahan ''out of gamut'' sering terjadi dalam konversi warna CMYK dengan RGB. Meskipun dirancang untuk memberi warna secara akurat, wilayah warna yang dibentuk oleh sistem CMYK kadang tidak seluas cakupan warna RGB. Misalnya warna merah dasar RGB merupakan out of gamut dari sistem CMYK. 
+
+== Warna Tinta ==
+Warna tinta printer tidak akurat karena tinta printer punya campuran yang tidak akurat sehingga terjadinya out of gamut.
+Banyak cara telah diusahakan untuk mengejar selisih ini, misalnya dengan menggunakan sistem [[lab colour]].
+
+== Catatan Kaki ==
+{{reflist}}
+
+{{warna-stub}}
+
+[[Kategori:Warna]]
+[[Kategori:Percetakan]]

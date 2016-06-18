@@ -1,0 +1,53 @@
+Paveletskaya (Jalur Zamoskvoretskaya)
+{{Infobox station 
+|name          = Paveletskaya
+|native_name   = 
+|native_name_lang=ru
+|type          = Stasiun Metro Moskwa
+|image         = Metro MSK Line2 Paveletskaya.jpg
+|image_size    = 
+|image_caption = 
+|address       = 
+|latitude      = 55.7305
+|longitude     = 37.6377
+|coordinates_display = yes
+|line          = {{MOSMETRO-bull|2|text=1}}
+|other         = '''[[Bus]]''': 6, 13, 106, 158, 632<br />'''[[Trolleybus]]''':  (B)<br />'''[[Tram]]''': A, 3, 35, 38, 39
+|structure     = [[Pylon station]]
+|platform      = 1 [[peron pulau]]
+|depth         = {{convert|33.5|m}}
+|levels        = 1
+|tracks        = 2
+|parking       = No
+|opened        = {{date|1943-11-20}}
+|closed        = 
+|rebuilt       = 
+|electrified   = 
+|ADA           = 
+|code          = 030
+|owned         = Moskovsky Metropoliten
+|zone          = 
+|former        = 
+|passengers    = 19.220.900
+|pass_year     = 2002
+|pass_percent  = 
+|pass_system   = 
+|mpassengers   = 
+|services      = {{s-rail|title=MOSMETRO}}{{s-line|system=MOSMETRO|line=Zamoskvoretskaya|previous=Novokuznetskaya|next=Avtozavodskaya}}{{s-line|system=MOSMETRO|line=Koltsevaya|transfer=PaveletskayaKL|previous=TaganskayaKL|next=Dobryninskaya|circular=1}}
+|map_type      = Central Moscow
+|AlternativeMap= Central Moscow grayscale.png
+|map_overlay   = Central Moscow metro lines.svg
+|map_caption   = 
+|route_map     = {{Zamoskvoretskaya Line RDT}}
+|map_state     = collapsed
+}}
+'''Paveletskaya''' ({{lang-ru|}}) adalah stasiun [[Metro Moskwa]] [[Jalur Zamoskvoretskaya]], terletak di [[Distrik Zamoskvorechye]], [[Central Administrative Okrug]], [[Moskwa]]. Stasiun ini dibuka tahun 1943 dan didesain oleh S.V. Lyashchenko dan E.S. Demchenko. 
+
+==Pranala luar==
+*[http://www.metro.ru/stations/zamoskvoretskaya/paveletskaya/ metro.ru]
+*[http://www.mymetro.ru/cgi-bin/list.pl?lng=ru&a=1&b=2&c=10 mymetro.ru]
+*[http://www.kartametro.info/?hl=EN&ms=Paveletskaya&z=17&t=k KartaMetro.info]  station location and exits on Moscow map (English/Russian)
+
+[[Category:Stasiun Metro Moskwa]]
+[[Category:Stasiun kereta yang dibuka tahun 1943]]
+[[Category:Jalur Zamoskvoretskaya]]

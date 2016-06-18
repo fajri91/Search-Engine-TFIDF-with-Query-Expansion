@@ -1,0 +1,39 @@
+Glufosinat
+{{chembox
+|verifiedrevid = 309928887
+|ImageFile=Glufosinate.png
+|ImageSize=200px
+|IUPACName=(''RS'')-2-Amino-4-(hydroxy-methyl-phosphoryl)butanoic acid
+|OtherNames=Phosphinothricin
+|Section1= {{Chembox Identifiers
+|CASNo_Ref = {{cascite}}
+|CASNo=51276-47-2
+|EINECS = 257-102-5
+|PubChem=4794
+|SMILES=CP(=O)(CCC(C(=O)O)N)O}}
+|Section2= {{Chembox Properties
+|Formula=C<sub>5</sub>H<sub>12</sub>NO<sub>4</sub>P
+|MolarMass=181.127
+|Appearance=
+|Density=
+|MeltingPt=
+|BoilingPt=|Solubility=
+}}
+|Section3= {{Chembox Hazards
+|MainHazards=
+|FlashPt=
+|Autoignition=
+}}
+}}
+'''Glufosinat''' adalah [[herbisida]] berspektrum luas yang didapat dari dua [[spesies]] [[cendawan]] ''[[Streptomyces]]''.<ref name="a"></ref> Glufosinat sering disebut fosfinotrisin dan biasanya dibuat dalam bentuk amonium-glufosinat.<ref name="a"></ref> 
+[[Herbisida]] ini bersifat non-selektif karena dapat mematikan semua jenis [[gulma]] dan juga [[tanaman]] yang melakukan kontak dengan [[herbisida]] tersebut.<ref name="b"></ref> Cara kerja dari herbisida ini adalah menghambat aktivitas [[enzim]] [[glutamin sintetase]] pada tanaman.<ref name="a"></ref> Enzim tersebut dibutuhkan untuk [[sintesis]] (pembuatan) [[asam amino]] [[glutamin]] dan juga berperan dalam [[detoksifikasi]] amonia.<ref name="a"></ref> Glifosinat akan menyebabkan glutamin pada tanaman berkurang dan [[amonia]] meningkat sehingga [[fotosintesis]] berhenti dan tanaman mati.<ref name="b">{{cite journal|author=Marveldani, Maimun Barmawi, Setiawan K, Utomo SD
+|year=2007|month=|title=Pengembangan kedelai transgenik yang tahan herbisida amonium-glufosinat dengan Agrobacterium.|journal=Jurnal Akta Agrosia|volume=10|issue=1|pages=49-55|doi=|id=
+|url=http://bdpunib.org/akta/artikelakta/2007/49.PDF|format=|accessdate=14 juni 2010}}</ref> Paparan glufosinat dapat menyebabkan [[iritasi]] [[mata]] dan [[kulit]].<ref name="a"></ref> Senyawa ini dapat memengaruhi [[sistem saraf]] dan bersifat [[neurotoksik]].<ref name="a">{{en icon}} {{cite journal|author=Caroline Cox|year=1996|month=|title=Herbicide Factsheet: Glufosinate
+|journal=JOURNAL OF PESTICIDE REFORM/ WINTER 1996  VOL.16, NO. 4|volume=16|issue=4
+|pages=|doi=|id=|url=http://www.pesticide.org/glufosinate.pdf|format=|accessdate=14 Juni 2010}}</ref>
+
+== Referensi ==
+{{reflist}}
+{{Kimia-stub}}
+
+[[Kategori:Herbisida]]

@@ -1,0 +1,25 @@
+Axinella alba
+{{Taxobox |name = Axinella alba
+|regnum = [[Hewan|Animalia]]
+|subregnum = [[Parazoa]]
+|phylum = [[Porifera]]
+|classis = [[Demospongiae]]
+|ordo = [[Halichondrida]]
+|familia = [[Axinellidae]]
+|genus = [[Axinella]]
+|species = Axinella alba
+|binomial_authority =Descatoire, 1966
+}}
+'''''Axinella alba''''' adalah [[spesies]] [[spons]] yang tergolong dalam kelas [[Demospongiae]]. Spesies ini juga merupakan bagian dari genus Axinella dan [[familia]] Axinellidae. Nama ilmiah spesies ini pertama kali diterbitkan pada tahun 1966 oleh Descatoire.
+
+Seperti spons pada umumnya, spesies ini memiliki tubuh yang berpori dan permukaan yang keras seperti [[batu]]. Selain itu, Axinella alba juga dapat menyerap [[oksigen]] dari [[air]] melalui proses [[difusi]].
+
+== Referensi ==
+
+* ''WoRMS Porifera: World Porifera Database''. Soest R. van (ed), 22 Oktober 2008.
+
+{{DEFAULTSORT:Axinella alba}}
+
+[[Kategori:Demospongiae]]
+
+{{porifera-stub}}

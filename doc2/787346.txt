@@ -1,0 +1,103 @@
+Templat:Ingmar Bergman
+{{Navbox
+| name  = Ingmar Bergman
+| title = [[Ingmar Bergman]]
+|listclass = hlist
+| state = {{{state|autocollapse}}}
+| above = [[Filmografi Ingmar Bergman|Filmografi]]
+
+| group1 = Film yang disutradarai
+| list1style = font-style: padding:0;
+| list1 =
+* ''[[Crisis (film 1946)|Crisis]]'' (1946)
+* ''[[It Rains on Our Love]]'' (1946)
+* ''[[A Ship Bound for India]]'' (1947)
+* ''[[Music in Darkness]]'' (1948)
+* ''[[Port of Call]]'' (1948)
+* ''[[Prison (film 1949)|Prison]]'' (1949)
+* ''[[Thirst (film 1949)|Thirst]]'' (1949)
+* ''[[To Joy (film)|To Joy]]'' (1950)
+* ''[[This Can't Happen Here]]'' (1950)
+* ''[[Summer Interlude]]'' (1951)
+* ''[[Secrets of Women]]'' (1952)
+* ''[[Summer with Monika]]'' (1953)
+* ''[[Sawdust and Tinsel]]'' (1953)
+* ''[[A Lesson in Love]]'' (1954)
+* ''[[Dreams (film 1955)|Dreams]]'' (1955)
+* ''[[Smiles of a Summer Night]]'' (1955)
+* ''[[The Seventh Seal]]'' (1957)
+* ''[[Wild Strawberries (film)|Wild Strawberries]]'' (1957)
+* ''[[Brink of Life]]'' (1958)
+* ''[[The Magician (film 1958)|The Magician]]'' (1958)
+* ''[[The Virgin Spring]]'' (1960)
+* ''[[The Devil's Eye]]'' (1960)
+* ''[[Through a Glass Darkly (film)|Through a Glass Darkly]]'' (1961)
+* ''[[Winter Light]]'' (1963)
+* ''[[The Silence (film 1963)|The Silence]]'' (1963)
+* ''[[All These Women]]'' (1964)
+* ''[[Persona (film 1966)|Persona]]'' (1966)
+* ''[[Hour of the Wolf]]'' (1968)
+* ''[[Shame (film 1968)|Shame]]'' (1968)
+* ''[[The Rite (film 1969)|The Rite]]'' (1969)
+* ''[[The Passion of Anna]]'' (1969)
+* ''[[The Touch (film 1971)|The Touch]]'' (1971)
+* ''[[Cries and Whispers]]'' (1972)
+* ''[[Scenes from a Marriage]]'' (1973)
+* ''[[The Magic Flute (film 1975)|The Magic Flute]]'' (1975)
+* ''[[Face to Face (film 1976)|Face to Face]]'' (1976)
+* ''[[The Serpent's Egg (film)|The Serpent's Egg]]'' (1977)
+* ''[[Autumn Sonata]]'' (1978)
+* ''[[From the Life of the Marionettes]]'' (1980)
+* ''[[Fanny and Alexander]]'' (1982)
+* ''[[After the Rehearsal]]'' (1984)
+* ''[[The Blessed Ones]]'' (1986)
+* ''[[In the Presence of a Clown]]'' (1997)
+* ''[[Saraband]]'' (2003)
+
+| group2 = Film yang ditulis
+| list2 =
+* ''[[Torment (film 1944)|Torment]]'' (1944)
+* ''[[Woman Without a Face]]'' (1947)
+* ''[[Eva (film 1948)|Eva]]'' (1948)
+* ''[[While the City Sleeps (film 1950)|While the City Sleeps]]'' (1950)
+* ''[[Divorced (film 1951)|Divorced]]'' (1951)
+* ''[[Last Pair Out]]'' (1956)
+* ''[[The Pleasure Garden (film 1961)|The Pleasure Garden]]'' (1961)
+* ''[[The Best Intentions]]'' (1992)
+* ''[[Sunday's Children]]'' (1992)
+* ''[[Private Confessions]]'' (1996)
+* ''[[Faithless (film 2000)|Faithless]]'' (2000)
+
+| group3 = Dokumenter
+| list3 =
+* ''[[The Making of Fanny and Alexander]]'' (1986)
+
+| group4 = Film pendek
+| list4 =
+* {{noitalic|"Daniel" (Segmen dalam ''[[Stimulantia]]''; 1967)}}
+* ''[[Karin's Face]]'' (1986)
+
+| group5 = Tayangan televisi
+| list5 =
+* ''[[Mr. Sleeman Is Coming]]'' (1957)
+* ''[[The Venetian (film)|The Venetian]]'' (1958)
+* ''[[Rabies (film 1958)|Rabies]]'' (1958)
+* ''[[The Image Makers]]'' (2000)
+
+| group6 = Topik terkait
+| list6style = font-style:normal;
+| list6 =
+* [[Bergman Week]]
+* ''[[Ingmar Bergman Makes a Movie]]''
+* ''[[The Dove (film 1968)|The Dove]]''
+* ''[[The Seduction of Ingmar Bergman]]''
+* [[Penghargaan Ingmar Bergman]]
+
+}}<noinclude>
+{{collapsible option}}
+{{DEFAULTSORT:Bergman, Ingmar}}
+[[Kategori:Kotak navigasi penulis film]]
+[[Kategori:Ingmar Bergman|]]
+[[Kategori:Kotak navigasi sutradara film Swedia]]
+
+</noinclude>

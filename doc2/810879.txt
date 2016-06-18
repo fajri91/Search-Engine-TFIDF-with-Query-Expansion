@@ -1,0 +1,52 @@
+Templat:Knoxville Metro
+{{Navbox
+| name = Knoxville Metro
+| state = {{{state|autocollapse}}}
+| title = [[Wilayah metropolitan Knoxville|Wilayah metropolitan]] [[Knoxville, Tennessee|Knoxville]], [[Tennessee]]
+| image =
+ {{br separated entries
+  |1= [[Berkas:Knoxville TN skyline.jpg|80px|Knoxville]]
+  |2= [[Berkas:Flag of Tennessee.svg|80px|Bendera Tennessee]]
+  |3= [[Berkas:Openingt.jpg|80px|Tennessee Volunteers football]]
+  |4= [[Berkas:Clifftops4-7-07.jpg|80px|Great Smoky Mountains]]
+ }}
+| listclass = hlist
+
+| group1 = Kota Prinsipal
+| list1 =
+* [[Knoxville]]
+
+| group2 = Kota Lainnya
+| list2 =
+* [[Alcoa, Tennessee|Alcoa]]
+* [[Clinton, Tennessee|Clinton]]
+* [[Farragut, Tennessee|Farragut]]
+* [[LaFollette, Tennessee|LaFollette]]
+* [[Lenoir City, Tennessee|Lenoir City]]
+* [[Maryville, Tennessee|Maryville]]
+* [[Morristown, Tennessee|Morristown]]
+* [[Oak Ridge, Tennessee|Oak Ridge]]
+* [[Newport, Tennessee|Newport]]
+* [[Sevierville, Tennessee|Sevierville]]
+| group5 = Kabupaten
+| list5  =
+* [[Kabupaten Anderson, Tennessee|Kabupaten Anderson]]
+* [[Kabupaten Blount, Tennessee|Kabupaten Blount]]
+* [[Kabupaten Campbell, Tennessee|Kabupaten Campbell]]
+* [[Kabupaten Cocke, Tennessee|Kabupaten Cocke]]
+* [[Kabupaten Grainger, Tennessee|Kabupaten Grainger]]
+* [[Kabupaten Hamblen, Tennessee|Kabupaten Hamblen]]
+* [[Kabupaten Knox, Tennessee|Kabupaten Knox]]
+* [[Kabupaten Jefferson, Tennessee|Kabupaten Jefferson]]
+* [[Kabupaten Loudon, Tennessee|Kabupaten Loudon]]
+* [[Kabupaten Morgan, Tennessee|Kabupaten Morgan]]
+* [[Kabupaten Roane, Tennessee|Kabupaten Roane]]
+* [[Kabupaten Sevier County, Tennessee|Kabupaten Sevier]]
+* [[Kabupaten Union, Tennessee|Kabupaten Union]]
+}}<noinclude>
+{{collapsible option}}
+[[Kategori:Kotak navigasi Tennessee]]
+[[Kategori:Templat kota Amerika Serikat]]
+[[Kategori:Templat wilayah metropolitan Amerika Serikat]]
+[[Kategori:Knoxville, Tennessee| ]]
+</noinclude>

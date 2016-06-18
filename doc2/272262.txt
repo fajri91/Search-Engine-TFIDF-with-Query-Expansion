@@ -1,0 +1,11 @@
+Templat:Lembah Melintang, Pasaman Barat
+{{Navigasi ID Desa
+|nama kecamatan=Lembah Melintang
+|dati2=Kabupaten 
+|nama dati2=Pasaman Barat
+|provinsi=Sumatera Barat
+|n1= Ujung Gading
+}}<noinclude>
+[[Kategori:Templat nagari di Sumatera Barat|{{PAGENAME}}]]
+[[Kategori:Templat nagari di kabupaten Pasaman Barat|{{PAGENAME}}]]
+</noinclude>

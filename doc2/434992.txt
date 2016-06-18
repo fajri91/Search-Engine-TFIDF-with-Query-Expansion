@@ -1,0 +1,74 @@
+Templat:Mali infobox
+{{Infobox_Country|
+native_name = Rpublique du Mali {{small|([[Bahasa Perancis|Perancis]])}} <br /> Mali ka Fasojamana {{small|([[Bahasa Bambara|Bambara]])}} |
+conventional_long_name= Republik Mali |
+common_name = Mali |
+image_flag = Flag of Mali.svg |
+image_coat = Seal of Mali.svg |
+image_map = Mali (orthographic projection).svg |
+image_map2 = Mali - Location Map (2013) - MLI - UNOCHA.svg |
+national_motto = Un peuple, un but, une foi <br />([[Bahasa Perancis|Perancis]]: "Satu rakyat, satu tujuan, satu kepercayaan") |
+national_anthem = <br />[[Pour l'Afrique et pour toi, Mali|Le Mali]] |
+official_languages = [[Bahasa Perancis|Perancis]] |
+languages_type = [[Bahasa nasional]] |
+languages = [[Bahasa Bambara|Bambara]] |
+capital = [[Bamako]] |
+latd=12 |latm=39 |latNS=N |longd=8 |longm=0 |longEW=W |
+largest_city = capital |
+government_type = [[Republik]] [[Sistem semi-presidensial|semi-presidensial]] |
+leader_title1 = [[Presiden Mali|Presiden]] |
+leader_title2 = [[Perdana Menteri Mali|Perdana Menteri]] |
+leader_name1 = [[Ibrahim Boubacar Keita]] |
+leader_name2 = [[Modibo Keita]] |
+legislature = [[Majelis Nasional (Mali)|Assemble nationale]] |
+sovereignty_type = Kemerdekaan |
+established_event1 = Dari [[Perancis]]<sup>1</sup> |
+established_date1 = 20 Juni 1960 |
+established_event2 = Sebagai Mali |
+established_date2 = 22 September 1960 |
+area_rank = 24 |
+area_magnitude = 1 E12 |
+area = 1,240,192 |
+percent_water = 1,6 |
+population_estimate = 17.600.000 |
+population_estimate_year = 2015 |
+population_estimate_rank = 63 |
+population_census = |
+population_census_year = |
+population_density = 11,6 |
+population_density_rank = 220 |
+GDP_PPP_year = 2014 |
+GDP_PPP = $27.308 miliar<ref name=imf2>{{cite web |url=http://www.imf.org/external/pubs/ft/weo/2015/01/weodata/weorept.aspx?sy=2014&ey=2014&scsm=1&ssd=1&sort=subject&ds=.&br=1&pr1.x=65&pr1.y=8&c=&s=PPPGDP&grp=0&a= |title=Mali |publisher=International Monetary Fund |accessdate=18 Agustus 2015}}</ref> |
+GDP_PPP_rank = 126 |
+GDP_PPP_per_capita = $1.729<ref name=imf2/> |
+GDP_PPP_per_capita_rank = 169 |
+GDP_nominal = $11.915 miliar<ref name="imf2"/> |
+GDP_nominal_rank = 130 |
+GDP_nominal_year = 2014 |
+GDP_nominal_per_capita = $754<ref name=imf2/> |
+GDP_nominal_per_capita_rank = 166 |
+Gini_year = 2010 |
+Gini_change =  <!--increase/decrease/steady--> |
+Gini = 33 (<span style="color:orange;">sedang</span>) <!--number only--> |
+Gini_ref = <ref name="wb-gini">{{cite web |url=http://data.worldbank.org/indicator/SI.POV.GINI/ |title=Gini Index |publisher=World Bank |accessdate=2 Maret 2011}}</ref> |
+Gini_rank = |
+HDI_year = 2013<!-- Please use the year to which the data refers, not the publication year--> |
+HDI_change = <!--increase/decrease/steady--> |
+HDI = {{steady}} 0,407 <!--number only--> |
+HDI_category = <span style="color:#900;">rendah</span> |
+HDI_ref = <ref name="HDI">{{cite web |url=http://hdr.undp.org/sites/default/files/hdr14-summary-en.pdf |title=2014 Human Development Report Summary |date=2014 |accessdate=27 Juli 2014 |publisher=United Nations Development Programme | pages=2125}}</ref> |
+HDI_rank = 176 |
+currency = [[Franc CFA Afrika Barat]] (CFA) |
+currency_code = XOF |
+time_zone = [[Waktu Greenwich]] (GMT) |
+utc_offset = +0 |
+time_zone_DST = |
+utc_offset_DST = |
+drives_on = kanan |
+iso3166code = ML |
+cctld = [[.ml]] |
+calling_code = [[+223]] |
+footnote1 = Nama negara ini adalah [[Federasi Mali]] ketika baru merdeka. Sebelumnya, negara ini bernama [[Sudan Perancis]] saat di bawah kekuasaan [[Perancis]] |
+footnotes = {{Tnavbar|Mali infobox|plain=1}}
+}}<noinclude>[[Kategori:Templat kotak info negara|{{PAGENAME}}]]
+[[Kategori:Templat Mali|{{PAGENAME}}]]</noinclude>

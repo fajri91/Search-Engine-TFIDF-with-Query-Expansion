@@ -1,0 +1,102 @@
+Templat:Bumi
+{{navbox
+| name  = Bumi
+| state = {{{state|<includeonly>autocollapse</includeonly><noinclude>uncollapsed</noinclude>}}}
+| title = [[Bumi]]
+| image = [[File:Earth Eastern Hemisphere.jpg|200px]]
+| bodyclass = hlist
+| group1 = Sejarah
+| list1  =
+* [[Usia Bumi]]
+* [[Sejarah evolusi kehidupan]]
+* [[Paradoks Matahari muda yang redup]]
+* [[Pembentukan dan evolusi Tata Surya]]
+* [[Masa depan Bumi]]
+* [[Hipotesis Gaia]]
+* [[Skala waktu geologi]]
+* [[Sejarah geologi Bumi]]
+* [[Sejarah Bumi]]
+* [[Garis waktu evolusi]]
+
+| group2 = Geografi<br>dan geologi
+| list2  =
+* [[Teorema Clairaut]]
+* [[Benua]]
+* [[Gempa bumi]]
+* [[Tonjolan khatulistiwa]]
+* [[Lokasi paling ekstrem di dunia|Lokasi ekstrem]]
+* [[Geologi planet luar Matahari]]
+* [[Geofisika]]
+* [[Tektonika lempeng]]
+* [[Struktur Bumi]]
+* [[Zona waktu]]
+
+| group3 = Ekologi
+| list3  =
+* [[Hari Bumi]]
+* [[Bentang alam]]
+* [[Filosofi Gaia]]
+* [[Pemanasan global]]
+* [[Antropogen]]
+* [[Millennium Ecosystem Assessment]]
+
+| group4 = [[Pemetaan digital|Pemetaan]]
+| list4  =
+* [[Bhuvan]]
+* [[Bing Maps]]
+* [[Peta dunia]]
+* [[Google Earth]]
+* [[Google Maps]]
+* [[NASA World Wind]]
+* [[Here (Nokia)|Nokia Here]]
+* [[OpenStreetMap]]
+* [[WikiMapia]]
+* [[Remote sensing]]
+<!--* [[WikiMapia]]-->
+* [[Yahoo! Maps]]
+
+| group5 = Seni, budaya<br>dan masyarakat
+| list5  =
+* [[Bumi dalam budaya]]
+* [[Bumi dalam fiksi]]
+* [[Etimologi kata "Bumi"]]
+* [[Bumi datar]] dan [[Bumi bulat]]
+* [[Sejarah dunia]]
+* [[Hukum internasional]]
+* [[Seni lanskap]]
+* [[Daftar negara]]
+* [[Ekonomi dunia]]
+
+| group6 = Kerohanian<br>dan teleologi
+| list6  =
+* [[Mitos penciptaan]]
+* [[Kreasionisme]]
+* [[Ibu Bumi]]
+* [[Gaia (mitologi)|Gaia (Yunani Kuno)]]
+* [[Gaia Zaman Baru]]
+* [[Hierarki Kerohanian|Logo Keplanetan (Teosofi)]]
+* [[Tellus Mater|Tellus Mater (Romawi Kuno)]]
+
+| group7 = Lainnya
+| list7  =
+* [[Biosfer]]
+* [[Planet ganda]]
+* [[Orbit Bumi]]
+* [[Ekliptika]]
+* [[Gravitasi Bumi|Gravitasi]]
+* [[Medan magnet Bumi|Medan magnet]]
+* [[Bulan]]
+* [[Awan Kordylewski]]
+* [[Tata surya]]
+* [[Letak Bumi di alam semesta]]
+*
+
+| below =
+* '''[[:Kategori:Bumi|Kategori]]'''
+* {{Icon|Portal}} '''[[Portal:Ilmu Bumi|Portal Ilmu Bumi]]'''
+* {{Icon|Portal}} '''[[Portal:Tata Surya|Portal Tata Surya]]'''
+}}<noinclude>
+{{Documentation}}
+[[Kategori:Templat astronomi]]
+
+</noinclude>

@@ -1,0 +1,14 @@
+Berkas:Macjakarta20080930153035 (1).jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+Sumber : [http://web.macjakarta.com/images/home/macjakarta20080930153035.jpg http://web.macjakarta.com/images/home/macjakarta20080930153035.jpg]
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Fairuse}}

@@ -1,0 +1,14 @@
+Berkas:Logo Lama Pos dan Giro.png
+=={{int:filedesc}}==
+{{Information
+| description    =
+logo Perum Pos dan Giro (1965-1995)
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Logo}}

@@ -1,0 +1,13 @@
+Berkas:Slamet Gundono.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    = Slamet Gundono
+| source         = {{own}}
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = {{uv|Andriana08}}
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{DU-Sendiri}}

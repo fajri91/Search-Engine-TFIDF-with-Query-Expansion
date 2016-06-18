@@ -1,0 +1,26 @@
+Old Turkic (blok Unicode)
+{{Orphan|date=April 2016}}
+
+{{Infobox Unicode block
+|blockname = Old Turkic
+|rangestart = 10C00
+|rangeend = 10C4F
+|script1 = [[Turki Lama (aksara)|Turki Lama]]
+|alphabets = Turki Lama
+|5_2 = 73
+|note = <ref>{{cite web|url=http://www.unicode.org|title=Unicode character database|work=The Unicode Standard|accessdate=22 March 2013}}</ref>
+}}
+'''Old Turkic''' adalah [[blok Unicode]] yang mengandung karakter [[aksara Turki Lama]]. Blok ini terletak di U+10C00 sampai U+10C4F.
+
+{{Tabel Unicode Old Turkic}}
+
+==Referensi==
+{{reflist}}
+
+==Pranala luar==
+* [http://www.unicode.org/charts/PDF/U10C00.pdf Old Turkic code chart (PDF)]
+
+[[Kategori:Blok Unicode]]
+
+
+{{sistemtulisan-stub}}

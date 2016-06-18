@@ -1,0 +1,91 @@
+Besi(II) sulfat
+{{terjemah|Inggris}}
+{{chembox
+|Verifiedfields = changed
+|Watchedfields = changed
+|verifiedrevid = 396496424
+|Name = Besi(II) sulfat
+|ImageFile1 = Iron(II)-sulfate-heptahydrate-sample.jpg
+|ImageName1 =
+|ImageSize1 = 250px
+|OtherNames = Fero sulfat; vitriol hijau;vitriol besi; copperas; melanterit; szomolnokit
+|Section1 = {{Chembox Identifiers
+|  ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+|ChemSpiderID = 22804
+|UNII_Ref = {{fdacite|correct|FDA}}
+|UNII = RIB00980VW
+|InChI = 1/Fe.H2O4S/2,3)4/h;(H2,1,2,3,4)/q+2;/p-2
+|InChIKey = BAUYGSIQEAFULO-NUQVWONBAS
+|SMILES = [O-]S(=O)(=O)[O-].[Fe+2]
+|StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+|StdInChI = 1S/Fe.H2O4S/c;1-5(2,3)4/h;(H2,1,2,3,4)/q+2;/p-2
+|StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+|StdInChIKey = BAUYGSIQEAFULO-UHFFFAOYSA-L
+|CASNo = 7720-78-7
+|CASNo_Ref = {{cascite|correct|CAS}}
+|CASOther = <br/>{{CAS|17375-41-6}} (monohidrat),<br/>{{CAS|7782-63-0}} (heptahidrat) <!-- also CAS verified -->
+|PubChem = 24393
+|ChEMBL_Ref = {{ebicite|changed|EBI}}
+|ChEMBL = 1200830
+|RTECS = NO8500000
+|EINECS = 231-753-5
+|ATCCode_prefix = B03
+|ATCCode_suffix = AA07
+  }}
+|Section2 = {{Chembox Properties
+|  Formula = FeSO<sub>4</sub>
+|  MolarMass = 151.908 g/mol (anhidrat)<br/>169.92 g/mol (monohidrat)<br/>278.05 g/mol (heptahidrat)
+|  Appearance = kristal putih atau biru/hijau
+|  Odor = tak berbau
+|  Solubility = 25.6 g/100mL (anhidrat) <br> 48.6 g/100 mL (heptahidrat) (50&nbsp;C)
+|  SolubleOther = tidak bercampur pada [[alkohol]]
+|  MeltingPt = 70&nbsp;C (dehidrasi heptahidrat) <br>400&nbsp;C (dekomposisi)
+|  BoilingPt =
+|  Density = 2.84 g/cm<sup>3</sup> (anhidrat) <br> 2.2 g/cm<sup>3</sup> (pentahidrat) <br> 1.898 g/cm<sup>3</sup> (heptahidrat)
+|  RefractIndex = 1.536 (pentahidrat) <br> 1.478 (heptahidrat)
+  }}
+|Section3 = {{Chembox Hazards
+|  ExternalMSDS =
+|  EUIndex = 026-003-00-7 (anhidrat)<br/>026-003-01-4 (heptahidrat)
+|  EUClass = Berbahaya ('''Xn''')<br/>Iritasi ('''Xi''')
+|  RPhrases = {{R22}}, {{R36/38}}
+|  SPhrases = {{S2}}, {{S46}}
+|NFPA-H = 1
+|NFPA-F = 0
+|NFPA-R = 0
+|  FlashPt = Tak terbakar
+  }}
+|Section4 = {{Chembox Thermochemistry
+|  DeltaHf = 929&nbsp;kJmol<sup>1</sup><ref name=b1>{{cite book|author = Zumdahl, Steven S.|title =Chemical Principles 6th Ed.|publisher = Houghton Mifflin Company|year = 2009|isbn = 0-618-94690-X|page=A22}}</ref>
+|  Entropy = 121&nbsp;Jmol<sup>1</sup>K<sup>1</sup><ref name=b1/>
+ }}
+|Section8 = {{Chembox Related
+|  OtherCpds = [[Besi(III) sulfat]]
+  }}
+}}
+'''Besi(II) sulfat''' (Br.E. '''iron(II) sulphate''') atau '''fero sulfat''' adalah [[senyawa kimia]] dengan rumus [[Iron|Fe]][[Sulfate|SO<sub>4</sub>]].  Dikenal sejak zaman kuno sebagai '''copperas''' dan sebagai [[vitriol]] hijau, heptahidrat biru-hijau adalah bentuk yang paling umum dari bahan ini. Semua besi sulfat larut dalam air dan bersifat [[kompleks metal aquo|aquo complex]] [Fe(H<sub>2</sub>O)<sub>6</sub>]<sup>2+</sup>. Besi sulfat mempunyai [[geometri molekul oktahedral]] dan bersifat [[paramagnetik]].
+
+==Hidrat==
+Besi(II) hidrat dapat ditemukan dalam beberapa bentuk senyawa [[hidrat]], dan beberapa diantaranya eksis di alam.
+* FeSO<sub>4</sub>H<sub>2</sub>O (mineral: [[szomolnokit]], relatif jarang)
+* FeSO<sub>4</sub>4H<sub>2</sub>O (mineral: [[rozenit]], berwarna putih, cukup banyak ditemukan, dapat dihidratasi dari melanterit)
+* FeSO<sub>4</sub>5H<sub>2</sub>O (mineral: [[siderotil]], relatif jarang)
+* FeSO<sub>4</sub>6H<sub>2</sub>O (mineral: feroheksahidrit, relatif jarang)
+* FeSO<sub>4</sub>7H<sub>2</sub>O (mineral: [[melanterit]], berwarna biru-hijau, cukup banyak ditemukan)
+Pada suhu 90&nbsp;C, bentuk heptahidratnya akan melepas molekul air untuk membentuk monohidrat yang tak berwarna. Dalam bentuk anhidratnya (bentuk kristal), [[Perubahan entalpi pembentukan standar|entalpi pembentukan standarnya]] adalah  <sub>f</sub>''H''<sub>solid</sub> = -928.4 kJmol<sup>1</sup> dan [[entropi molar standar]]nya adalah ''S''<sub>solid</sub> = 107.5 JK<sup>1</sup>mol<sup>1</sup>.
+
+==Produksi dan reaksi==
+Dalam proses ''finishing'' [[baja]] sebelum dilapis, maka pelat baja akan dilewatkan [[asam sulfat]] terlebih dahulu. Proses ini akan menghasilkan besi(II) sulfat.<ref>Egon Wildermuth, Hans Stark, Gabriele Friedrich, Franz Ludwig Ebenhch, Brigitte Khborth, Jack Silver, Rafael Rituper Iron Compounds in Ullmanns Encyclopedia of Industrial Chemistry Wiley-VCH, Wienheim, 2005.</ref>
+:Fe  +  H<sub>2</sub>SO<sub>4</sub>    FeSO<sub>4</sub>  +  H<sub>2</sub>
+Sumber lain yang juga menghasilkan besi(II) sulfat adalah produksi [[titanium dioksida]] dari [[ilmenit]] via proses sulfat.
+
+Fero sulfat juga dapat diproduksi secara komersial dengan oksidasi mineral pirit:
+:2 FeS<sub>2</sub>  + 7 O<sub>2</sub>  +  2 H<sub>2</sub>O      2 FeSO<sub>4</sub>  +  2 H<sub>2</sub>SO<sub>4</sub>
+
+== Referensi ==
+{{reflist}}
+
+{{Senyawa besi}}
+
+[[Kategori:Sulfat]]
+[[Kategori:Senyawa besi]]

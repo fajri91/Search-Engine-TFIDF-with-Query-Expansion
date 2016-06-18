@@ -1,0 +1,13 @@
+Templat:Pengguna novel fantasi
+{{userbox
+| logo-background = darkslategray
+| info-background = sienna
+| border-color = olive
+| info-color   =  white
+| logo = [[Berkas:2009-8-Quetzalcoat.png|40px]]
+| info = <center>Pengguna ini lebih suka membaca novel '''[[fantasi|<font color="white">fantasi</font>]]'''</center>
+}}{{#if:{{{kat|}}}||<includeonly>[[Kategori:Pengguna penggemar novel fantasi|{{PAGENAME}}]]</includeonly>}}<noinclude>
+{{clear}}
+Kategori yang ditambahkan: {{kt|Pengguna penggemar novel fantasi}}
+[[Kategori:Templat userbox minat|novel fantasi]]
+</noinclude>

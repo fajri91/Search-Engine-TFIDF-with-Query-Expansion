@@ -1,0 +1,44 @@
+Warna primer
+'''Warna primer''' menurut teori warna pigmen dari Brewster adalah [[warna|warna-warna]] dasar. Warna-warna lain dibentuk dari kombinasi warna-warna primer.
+
+Ini kemudian dikenal sebagai warna pigmen primer yang dipakai dalam dunia seni rupa. Campuran dua warna primer menghasilkan [[warna sekunder]]. Campuran warna sekunder dengan warna primer menghasilkan [[warna tertier]].
+
+== Landasan biologis ==
+Pada dasarnya warna primer adalah bukan milik cahaya, tapi lebih merupakan konsep biologis, yang didasarkan pada respon fisiologis mata manusia terhadap cahaya. Secara fundamental, [[cahaya]] adalah [[spektrum]] berkesinambungan dari [[panjang gelombang]], yang berarti bahwa terdapat jumlah warna yang tak terhingga. Akan tetapi, mata manusia normalnya hanya memiliki tiga jenis alat penerima/reseptor yang disebut dengan ''sel kerucut'' (yang berada di retina). Ini yang merespon panjang gelombang cahaya tertentu. Manusia serta spesies lain yang memiliki tiga macam reseptor warna disebut makhluk [[trichromat]].
+
+Spesies yang dikenal sebagai [[tetrachromat]], dengan empat reseptor warna menggunakan empat warna primer. Manusia hanya dapat melihat sampai dengan 400 nanometer, warna violet, sedangkan makhluk tetrachromat dapat melihat warna ultraviolet sampai dengan 300 nanometer, warna primer keempat ini kemungkinan bertempat di panjang gelombang yang lebih rendah dan kemungkinan adalah warna magenta spektral murni lebih dari sekadar magenta yang kita lihat sebagai campuran dari merah dan biru.
+
+Banyak dari jenis [[burung]] dan binatang [[marsupial]] merupakan makhluk tetrachromat.
+
+== Warna primer additif ==
+
+[[Berkas:AdditiveColorMixiing.svg|200px|thumbnail|Campuran warna additif]]
+
+Warna primer additif adalah warna primer cahaya. Alat/media yang menggabungkan pancaran cahaya untuk menciptakan sensasi warna menggunakan sistem [[warna additif]]. [[Televisi]] adalah yang paling umum. '''Warna primer additif''' adalah [[merah]], [[hijau]] dan [[biru]]. Campuran warna cahaya merah dan hijau, menghasilkan nuansa warna kuning atau orange. Campuran hijau dan biru menghasilkan nuansa cyan, sedangkan campuran merah dan biru menhasilkan nuansa ungu dan magenta. Campuran dengan proporsi seimbang dari warna additif primer menghasilkan nuansa warna [[kelabu]]; jika ketiga warna ini di[[saturasi]]kan penuh, maka hasilnya adalah warna putih. [[Ruang warna]]/model warna yang dihasilkan disebut dengan [[RGB]] (red, green, blue).
+
+== Warna primer subtraktif ==
+Warna primer subtraktif adalah warna primer pantulan cahaya. Media yang menggunakan pantulan cahaya untuk untuk menghasilkan warna memakai metode campuran [[warna subtraktif]].
+
+=== RGB ===
+
+Merah, Hijau, Biru / [[RGB]] (''Red, Green, Blue'') merupakan warna primer subtraktif. Khususnya digunakan dalam seni rupa (seni lukis). Ruang warna RGB membentuk [[triad warna]] primer dalam sebuah lingkaran warna standar; juga warna sekunder: violet, orange/jingga dan hijau. Triad warna tersusun dari 3 warna yang ekuidistan (berjarak sama) dalam sebuah lingkaran warna.
+
+Pemakaian warna merah, hijau, biru sebagai warna primer menghasilkan [[gamut]] (rentang warna) yang relatif sempit/kecil, di mana, beberapa warna tidak bisa dicapai dengan campuran tersebut. Karena alasan itu, percetakan warna modern menggunakan campuran warna magenta, kuning, cyan.
+
+=== CMYK ===
+Dalam industri percetakan, untuk menghasilkan warna bervariasi, diterapkan pemakaian '''warna primer subtraktif''': [[magenta]], [[kuning]] dan [[cyan]] dalam ukuran yang bermacam-macam. 
+ 
+[[Berkas:Synthese-.svg|200px|thumbnail|Campuran warna subtraktif]]
+
+Campuran kuning dan cyan menghasilkan nuansa warna hijau; campuran kuning dengan magenta menghasilkan nuansa warna merah, sedangkan campuran magenta dengan cyan menghasilkan nuansa biru. Dalam teori, campuran tiga pigmen ini dalam ukuran yang seimbang akan menghasilkan nuansa warna kelabu, dan akan menjadi hitam jika ketiganya di[[saturasi]]kan secara penuh, tetapi dalam praktik hasilnya cenderung menjadi warna kotor kecoklatan. Oleh karena itu, seringkali dipakai warna keempat, yaitu [[hitam]], sebagai tambahan dari cyan, magenta dan kuning.
+Ruang warna yang dihasilkan lantas disebut dengan [[CMYK]] (Cyan, Magenta, Yellow, Black). Hitam disebut dengan "K" (key) dari istilah "key plate" dalam percetakan (plat cetak yang menciptakan detail artistik pada gambar, biasanya menggunakan warna tinta hitam).
+
+== Lihat pula ==
+* [[Pigmen]]
+* [[Teori Brewster]]
+* [[Warna]]
+* [[Daftar warna]]
+* [[Warna sekunder]]
+* [[Warna tersier]]
+
+[[Kategori:Warna]]

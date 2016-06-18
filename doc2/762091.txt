@@ -1,0 +1,125 @@
+Nikotinamida
+{{chembox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 408768294
+| ImageFile_Ref = {{chemboximage|correct|??}}
+| ImageFile = Nicotinamid.svg
+| ImageSize = 150px
+| ImageFile2 = Nicotinamide-from-xtal-2011-Mercury-3D-sf.png
+| ImageSize2 = 150px
+| IUPACName = pyridine-3-carboxamide
+| OtherNames = 3-pyridinecarboxamide<br />niacinamide<br />nicotinamide<br />nicotinic acid amide<br />Vitamin PP
+| Section1 = {{Chembox Identifiers
+| PubChem = 936
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 25X51I8RD4
+| InChI1 = 1/C6H6N2O/c7-6(9)5-2-1-3-8-4-5/h1-4H,(H2,7,9)
+| InChIKey1 = DFPAKSUCGFBDDF-UHFFFAOYAZ
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1140
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C6H6N2O/c7-6(9)5-2-1-3-8-4-5/h1-4H,(H2,7,9)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = DFPAKSUCGFBDDF-UHFFFAOYSA-N
+| CASNo_Ref = {{cascite|correct|CAS}}
+| CASNo = 98-92-0
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 911
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00036
+| InChI = 1/C6H6N2O/c7-6(9)5-2-1-3-8- 4-5/h1-4H,(H2,7,9)/f/h7H2
+| EINECS = 202-713-4
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = DB02701
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 17154
+| SMILES = c1cc(cnc1)C(=O)N
+| ATCCode_prefix = A11
+| ATCCode_suffix = HA01
+}}
+| Section2 = {{Chembox Properties
+| C=6|H=6|N=2|O=1
+| Appearance =
+| Density = 1.4463g/cm<sup>3</sup>
+| MeltingPt = {{convert|129.5|C|F}}
+| BoilingPt = {{convert|334|C|F}}
+|  LogP = -.37
+|  VaporPressure = 1.3*10<sup>4</sup>mmHg
+|  Solubility = }}
+| Section3 = {{Chembox Hazards
+| MainHazards =
+|  NFPA-H = 1
+|  NFPA-F = 0
+|  NFPA-R = 0
+|  NFPA-O =
+| FlashPtF = 156
+| AutoignitionF = 480 }}
+}}
+
+'''Nikotinamida''', juga dikenal sebagai '''niasinamida''' dan '''nikotinik amida''', adalah suatu [[amida]] dari [[asam nikotinat]] (vitamin B<sub>3</sub> / niasin). Nikotinamida merupakan vitamin yang sangat larut dalam air dan bagian dari kelompok [[vitamin B]]. Asan nikotinat, juga dikenal sebagai [[niasin]], diubah menjadi nikotinamida secara ''[[in vivo]]'', dan meskipun keduanya mempunyai fungsi yang identik sebagai vitamin, nikotinamida tidak mempunyai efek farmakologi dan toksisitas sama dengan yang dimiliki oleh [[niasin]], yang terjadi insidental dari konversi niasin. Jadi nikotinamida tidak mengurangi [[kolesterol]] atau menyebabkan flushing,<ref>Jacenollo, P. (1992). [http://www.pubmedcentral.nih.gov/pagerender.fcgi?artid=1336277&pageindex=1 Niacin versus niacinamide]</ref> meskipun nikotinamida lebih toksis pada hati pada dosis melebihi 3 g/hari bagi orang dewasa.<ref name="Knip M, Douek IF, Moore WP, et al. 2000 133745">{{cite journal |author=Knip M |title=Safety of high-dose nicotinamide: a review |journal=Diabetologia |volume=43 |issue=11 |pages=133745 |year=2000 |pmid=11126400 | doi = 10.1007/s001250051536 |author-separator=, |author2=Douek IF |author3=Moore WP |display-authors=3 |last4=Gillmor |first4=H. A. |last5=McLean |first5=A. E. M. |last6=Bingley |first6=P. J. |last7=Gale |first7=E. A. M. |author8=European Nicotinamide Diabetes Intervention Trial Group}}</ref> Dalam sel, niasin disisipkan ke dalam [[nikotinamida adenina dinukleotida]] (NAD) dan [[nikotinamida adenina dinukleotida fosfat]] (NADP), meskipun jalur reaksi asam nikotinat amida dan asam nikotinat sangat mirip. NAD+ dan NADP+ adalah koenzim bagi banyak reaksi enzimatik [[redoks|oksidasi-reduksi]].<ref name=Belenky>{{cite journal | author=Belenky P |author2=Bogan KL |author3=Brenner C  | title=NAD+ metabolism in health and disease | journal=Trends Biochem. Sci. | volume=32 | issue=1 | pages=129 | year=2007 | pmid=17161604 | url=http://www.dartmouth.edu/~brenner/belenky07a.pdf | accessdate=2007-12-23 | doi=10.1016/j.tibs.2006.11.006}}</ref> Senyawa ini diproduksi melalui [[aminolisis]] dalam air dari 3-sianopiridina (nikotinonitril) dan dilanjutkan dengan kristalisasi.
+<!--
+==Use in medicine==
+
+===Skin conditions===
+Nicotinamide has demonstrated anti-inflammatory actions that may be of benefit to patients with inflammatory skin conditions.<ref>{{cite journal |author=Niren NM |title=Pharmacologic doses of nicotinamide in the treatment of inflammatory skin conditions: a review |journal=Cutis |volume=77 |issue=1 Suppl |pages=116 |year=2006 |pmid=16871774}}</ref> These conditions include [[acne vulgaris]], and the compound can suppress antigen-induced, lymphocytic transformation and inhibit [[3',5'-cyclic-AMP phosphodiesterase]]. Nicotinamide has demonstrated the ability to block the inflammatory actions of iodides known to precipitate or exacerbate inflammatory acne.
+
+NicAzel and [[Nicomide]] are the names of oral acne medications that include nicotinamide as their most predominant ingredient, based on this area of research. Nicotinamide is also found as part of a new adjunct supplement combination called, [[Azerizin|Azerizin<sup>TM</sup>]]. According to the makers of Azerizin, this adjunct is part of their prescription dietary supplement product, which they claim helps manage inflammatory skin conditions. Nicotinamide is also used topically as a 4% or 5% gel or cream - as effective as topical 1% clindamycin (8-week double-blind trial) performed at the New York University College of Medicine.<ref>{{cite journal | pmid = 7657446 | doi=10.1111/j.1365-4362.1995.tb04449.x | volume=34 | issue=6 | title=Topical nicotinamide compared with clindamycin gel in the treatment of inflammatory acne vulgaris |date=June 1995 | pages=4347 | author=Shalita AR, Smith JG, Parish LC, Sofman MS, Chalker DK | journal = International Journal of Dermatology}}</ref> Unlike topical Erythromycin or Clindamycin it does not precipitate bacterial resistance in treating inflammatory acne. Nicotinamide acne treatment is also available as Nicotinamide pads and cream.
+
+Nicotinamide is also reported to be an effective skin whitener in topical application.<ref>{{cite journal |author=Hakozaki T |title=The effect of niacinamide on reducing cutaneous pigmentation and suppression of melanosome transfer |journal=Br. J. Dermatol. |volume=147 |issue=1 |pages=2031 |date=July 2002 |pmid=12100180 |doi=10.1046/j.1365-2133.2002.04834.x |author-separator=, |author2=Minwalla L |author3=Zhuang J |display-authors=3 |last4=Chhoa |first4=M. |last5=Matsubara |first5=A. |last6=Miyamoto |first6=K. |last7=Greatens |first7=A. |last8=Hillebrand |first8=G.G. |last9=Bissett |first9=D.L.}}</ref><ref>{{cite journal |author=Navarrete-Sols J |title=A Double-Blind, Randomized Clinical Trial of Niacinamide 4% versus Hydroquinone 4% in the Treatment of Melasma |journal=Dermatol Res Pract. |volume=2011 |issue=379173 |pages= 1|date=July 2011 |pmid=21822427 |doi=10.1155/2011/379173 |author-separator=, |author2=Castanedo-Czares JP |author3=Torres-lvarez B | display-authors=3 |last4=Oros-Ovalle|first4=C. |last5=Fuentes-Ahumada |first5=C. |last6=Gonzlez|first6=F. |last7=Martnez-Ramrez |first7=J. |last8=Moncada |first8=B |pmc=3142702 }}</ref>
+
+===Anxiety===
+Studies show that nicotinamide has [[anxiolytic]] (anti-anxiety) properties. It may work in a way similar to [[benzodiazepines]].<ref>{{cite journal |author=Tallman JF, Paul SM, Skolnick P, Gallager DW |title=Receptors for the age of anxiety: pharmacology of the benzodiazepines |journal=Science |volume=207 |issue=4428 |pages=27481 |year=1980 |pmid=6101294 | doi = 10.1126/science.6101294}}</ref><ref>{{cite journal|last=Paul|first=SM|author2=Marangos, PJ |author3=Skolnick, P |author4= Goodwin, FK |title=Biological substrates of anxiety: benzodiazepine receptors and endogenous ligands.|journal=L'Encephale|year=1982|volume=8|issue=2|pages=13144|pmid=6125374|url=http://www.ncbi.nlm.nih.gov/pubmed/6125374}}</ref><ref>{{cite journal|last=Akhundov|first=RA|author2=Sultanov, AA |author3=Gadzhily, RA |author4= Sadykhov, RV |title=[Psychoregulating role of nicotinamide].|journal=Biulleten' eksperimental'noi biologii i meditsiny|date=May 1993|volume=115|issue=5|pages=48791|pmid=7913840}}</ref>
+
+===Alzheimer's disease===
+It is an activator of [[sirtuins]] (but inhibits at higher doses) and has been reported to restore cognition in [[Alzheimer's disease]] transgenic mice.<ref>{{cite web |url=http://www.jneurosci.org/cgi/content/abstract/28/45/11500 | date = 2008-11-05 |author=Green KN, Steffan JS, Martinez-Coria H, Sun X, Schreiber SS, Thompson LM, LaFerla FM|title=Journal of Neuroscience - Nicotinamide Restores Cognition in Alzheimer's Disease Transgenic Mice via a Mechanism Involving Sirtuin Inhibition and Selective Reduction of Thr231-Phosphotau|accessdate=2008-11-05 }}.</ref> A safety study of niacinamide for the treatment of Alzheimer's disease is currently underway at the University of California, Irvine.<ref>[http://clinicaltrials.gov/ct2/show/NCT00580931 Safety Study of Nicotinamide to Treat Alzheimer's Disease], clinicaltrials.gov</ref>
+
+===Cancer===
+Nicotinamide conflicts as a chemo- and radio-sensitizing agent/cancer-growth-promoter by enhancing tumor blood flow, thus reducing [[tumor hypoxia]]. Niacinamide also inhibits poly(ADP-ribose) [[polymerase]]s (PARP-1), enzymes involved in the rejoining of DNA strand breaks induced by radiation or chemotherapy.<ref>[http://www.cancer.gov/drugdictionary/?CdrID=42044 Definition of niacinamide], [[National Cancer Institute]]</ref> PARP-1 appears to be an important target for triple negative breast cancers because the cells are sensitive to inhibition of PARP-1.<ref>[http://www.asco.org/ASCOv2/Meetings/Abstracts?&vmview=abst_detail_view&confID=65&abstractID=33185 Efficacy of BSI-201, a poly (ADP-ribose) polymerase-1 (PARP1) inhibitor, in combination with gemcitabine/carboplatin (G/C) in patients with metastatic triple-negative breast cancer (TNBC): Results of a randomized phase II trial.]</ref> Niacinamide is also used by some patients in combination with intravenous [[vitamin C]] therapy for cancer.<ref>[http://integrativemed.kumc.edu/documents/Intravenous%20Vitamin%20C%20as%20Cancer%20Therapy.pdf Intravenously administered vitamin C as cancer therapy: three cases]
+</ref> It has also been seen to prevent [[immunosuppression]] caused by [[Ultraviolet|UVA]] and UVB radiation (so it could potentially be added to sunscreen).<ref>{{cite journal |author=Damian DL, Patterson CR, Stapelberg M, Park J, Barnetson RS, Halliday GM |title=UV radiation-induced immunosuppression is greater in men and prevented by topical nicotinamide |journal=J. Invest. Dermatol. |volume=128 |issue=2 |pages=44754 |date=February 2008 |pmid=17882270 |doi=10.1038/sj.jid.5701058}}</ref>
+
+===Apoptosis===
+Nicotinamide can prevent apoptosis (programmed cell death) in cells exposed to agents that induce oxidative stress.  Thus nicotinamide prevents apoptosis in human cortical neuronal cells when oxidative stress is induced by tertiary butylhydroperoxide,<ref>Bhansali SG, Brazeau DA, Sonee M, Mukherjee SK. (2006). Nicotinamide prevents apoptosis in human cortical neuronal cells. Toxicol Mech Methods 16(4):173-180. doi: 10.1080/15376520500194726. PMID 20021043</ref> and in Jurkat (human T-cell lymphoma cells) when oxidative stress is induced by sodium deoxycholate.<ref>Crowley CL, Payne CM, Bernstein H, Bernstein C, Roe D. (2000). The NAD+ precursors, nicotinic acid and nicotinamide protect cells against apoptosis induced by a multiple stress inducer, deoxycholate. ''Cell Death Differ'' 7(3):314-326. PMID 10745276</ref>
+-->
+===Lain-lain===
+Nikotinamida dilaporkan meningkatkan daya tahan tikus.<ref>{{cite journal |author=Fukuwatari T, Shibata K, Ishihara K, Fushiki T, Sugimoto E |title=Elevation of blood NAD level after moderate exercise in young women and mice |journal=J. Nutr. Sci. Vitaminol. |volume=47 |issue=2 |pages=1779 |date=April 2001 |pmid=11508711 |doi=10.3177/jnsv.47.177}}</ref>
+
+== Sumber makanan==
+Nikotinamida ditemukan dalam jumlah sangat kecil terutama pada daging, ikan, kacang-kacangan, dan jamur, juga dalam jumlah lebih kecil pada sayur-sayuran.
+
+==Toksisitas ==
+Nikotinamida tidak mempunyai aksi vasodilator, gastrointestinal, hepatik, dan [[hipolipidemik]] yang dimiliki oleh [[asam nikotinat]]. Jadi, nikotinamida tidak menunjukkan efek flushing, rasa gatal, dan terbakar pada kulit sebagaimana timbul ketika meminum dosis besar asam nikotinat secara oral. Dosis tinggi nikotinamida masih dianggap sebagai obat dengan potensial toksisitas pada dosis dewasa melebihi 3 g/hari dan tidak dianjurkan untuk digunakan tanpa pengawasan.<ref name="Knip M, Douek IF, Moore WP, et al. 2000 133745"/> Secara keseluruhan, jarang menyebabkan efek samping, dan umumnya dianggap aman sebagai aditif makanan dan sebagai komponen pada kosmetik dan obat-obatan.<ref>{{cite journal |title=Final report of the safety assessment of niacinamide and niacin |journal=Int. J. Toxicol. |volume=24 Suppl 5 |pages=131 |year=2005 |pmid=16596767 |author1= Cosmetic Ingredient Review Expert Panel |doi=10.1080/10915810500434183}}</ref>
+
+== Status Kompendium ==
+* [[British Pharmacopoeia]]<ref name=ib29>{{cite web
+  | last = British Pharmacopoeia Commission Secretariat
+  | title = Index, BP 2009
+  | year = 2009
+  | url = http://www.pharmacopoeia.co.uk/pdf/2009_index.pdf
+  | accessdate = 4 February 2010
+  }}</ref>
+* [[Japanese Pharmacopoeia]]<ref name=jp15>{{cite web
+  | title = Japanese Pharmacopoeia, Fifteenth Edition
+  | year = 2006
+  | url = http://jpdb.nihs.go.jp/jp15e/JP15.pdf
+  | accessdate = 4 Februally 2010
+  }}</ref>
+
+==Lihat pula ==
+* [[Nicotinamide adenine dinucleotide]]
+* [[Isonikotinamida]]
+
+==Referensi ==
+{{reflist|2}}
+
+== Pranala luar ==
+* [http://www.drugbank.ca/drugs/DB02701 DrugBank.ca Drug Card for Nicotinamide]
+
+{{Vitamin}}
+{{Nootropics}}
+{{GABAAR PAMs}}
+
+[[Category:Nikotinamida| ]]
+[[Category:Nootropik]]
+[[Category:Vitamin]]
+[[Category:GABAA receptor positive allosteric modulators]]

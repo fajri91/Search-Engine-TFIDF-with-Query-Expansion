@@ -1,0 +1,22 @@
+Stasiun Wadahama
+{{Nihongo|'''Stasiun Wadahama'''||Wadahama-eki}} adalah sebuah [[stasiun]] kereta di [[Yonago, Tottori|Yonago]], [[Prefektur Tottori]], [[Jepang]].
+
+==Jalur==
+*[[Perusahaan Jalur Kereta Api Jepang Barat]]
+**[[Jalur Sakai]]
+
+==Tata Ruang==
+
+
+==Stasiun Terkait==
+{{J-railservice start}}
+{{J-route|route=Jalur Sakai|col=#0072bc|f=w}}
+{{J-rserv|service=Cepat|p}}
+{{J-rserv|service=Lokal|previous={{Ja-stalink|Yumigahama}}|next={{Ja-stalink|shinozuch}}}}
+{{S-end}}
+
+{{Jalur Sakai}}
+
+{{Coord|35.4807|N|133.2656|E|type:railwaystation_region:JP|display=title}}
+
+[[Kategori:Stasiun kereta di Prefektur Tottori]]

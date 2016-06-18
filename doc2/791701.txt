@@ -1,0 +1,27 @@
+Templat:Abad Pertengahan
+{{Navbox
+| name = Abad Pertengahan
+| state = {{{state|{{{1|autocollapse}}}}}}
+| title = [[Abad Pertengahan]] di [[Eropa]]
+| listclass = hlist
+| list1 =
+* [[Arsitektur abad pertengahan|Arsitektur]]
+* [[Seni rupa Abad Pertengahan|Seni]]
+* [[Masakan abad pertengahan|Masakan]]
+* [[Demografi abad pertengahan|Demografi]]
+* [[Sastra abad pertengahan|Sastra]]
+* [[Puisi abad pertengahan|Puisi]]
+* [[Kedokteran abad pertengahan dari Eropa Barat|Kedokteran]]
+* [[Musik abad pertengahan|Musik]]
+* [[Filsafat abad pertengahan|Filsafat]]
+* [[Ilmu pengetahuan Eropa di Abad Pertengahan|Ilmu pengetahuan]]
+* [[Teknologi abad pertengahan|Teknologi]]
+* [[Peperangan abad pertengahan|Peperangan]]
+* [[Rumah tangga abad pertengahan|Rumah tangga]]
+* [[Perbudakan di Eropa abad pertengahan|Perbudakan]]
+}}<noinclude>
+
+{{collapsible option}}
+
+[[Kategori:Kotak navigasi sejarah dan peristiwa]]
+</noinclude>

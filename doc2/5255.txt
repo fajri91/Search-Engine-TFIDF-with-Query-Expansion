@@ -1,0 +1,101 @@
+Vaksin
+{{penyangkalan medis}}
+{{Infobox disease
+| Image =Child with Smallpox Bangladesh.jpg
+| Caption = Seorang anak yang terinfeksi oleh smallpox (Variola vera) di Bangladesh, 1973.
+}}
+'''Vaksin''' (dari kata ''[[vaccinia]]'', penyebab infeksi [[cacar sapi]] yang ketika diberikan kepada manusia, akan menimbulkan pengaruh kekebalan terhadap [[cacar]]), adalah bahan antigenik yang digunakan untuk menghasilkan kekebalan aktif terhadap suatu penyakit yang disebabkan oleh [[bakteri]] atau [[virus]], sehingga dapat mencegah atau mengurangi pengaruh infeksi oleh [[organisme]] alami atau "liar".
+
+Vaksin dapat berupa galur [[virus]] atau [[bakteri]] yang telah dilemahkan, sehingga tidak menimbulkan penyakit. Vaksin dapat juga berupa organisme mati atau hasil-hasil pemurniannya ([[protein]], [[peptida]], [[partikel serupa virus]], dsb.). Vaksin akan mempersiapkan [[sistem kekebalan]] [[manusia]] atau [[hewan]] untuk bertahan terhadap serangan [[patogen]] tertentu, terutama bakteri, virus, atau [[toksin]]. Vaksin juga bisa membantu sistem kekebalan untuk melawan sel-sel degeneratif ([[kanker]]).
+
+[[Edward Jenner]] menyadari bahwa mereka yang telah terinfeksi oleh cacar sapi (cowpox) sebelumnya, maka tidak akan terkena [[smallpox]] (Variola vera). Pada tahun 1796, Edward Jenner menggunakan sapi yang diinfeksi dengan cacar sapi (''variolae vaccinae'') untuk membuat vaksin yang melindungi masyarakat dari smallpox.<ref name=Stern-Markel>{{cite journal |author= Stern AM, Markel H |title= The history of vaccines and immunization: familiar patterns, new challenges |journal= Health Aff |volume=24 |issue=3 |pages=61121 |year=2005 |pmid=15886151 |doi=10.1377/hlthaff.24.3.611 |url=http://content.healthaffairs.org/cgi/content/full/24/3/611}}</ref> Ia menginokulasi seorang anak dengan cowpox dan kemudian menginfeksinya dengan smallpox. Anak tersebut tetap sehat, karena telah terkena cowpox sebelumnya. Inokulasi cowpox menyebabkan yang sakit lebih sedikit daripada inokulasi smallpox.
+
+Sekarang ini telah terdapat berbagai macam vaksin untuk bermacam-macam penyakit, walaupun demikian vaksin belum ada untuk beberapa penyakit penting, seperti vaksin untuk [[malaria]], [[HIV]].<ref name=Stern-Markel/> atau [[demam berdarah]].
+
+==Efektifitas==<!-- This section is linked from [[Mumps]] -->
+Dalam sejarah, vaksin adalah yang terefektif untuk melawan dan memusnahkan [[penyakit infeksi]]. Bagaimanapun, keterbatasan dari efektifitasnya ada.<ref>{{cite journal | last1 = Grammatikos | first1 = Alexandros P. | last2 = Mantadakis | first2 = Elpis | last3 = Falagas | first3 = Matthew E. | title = Meta-analyses on Pediatric Infections and Vaccines | url = |pmid = 19393917 | journal = Infectious Disease Clinics of North America | doi=10.1016/j.idc.2009.01.008 | volume=23 | issue=2 |date=June 2009 | pages=43157}}</ref> Kadang-kadang, perlindungan gagal, karena sistem kekebalan yang diberi vaksin tidak memberikan tanggapan yang diinginkan atau malah tidak ada sama sekali. Kurangnya tanggapan terjadi, karena faktor-faktor klinis, misalnya diabetes, penggunaan steroid, infeksi [[HIV]] atau usia. Bagaimanapun hal ini juga terjadi karena faktor genetik, jika sistem kekebalannya tidak memiliki sel B strain yang dapat menghasilkan [[antibodi]] yang bereaksi efektif dan mengikat [[antigen]] dari [[patogen]].
+
+Bahkan jika yang divaksinasi mengembangkan antibodinya, proteksinya mungkin tidak cukup; kekebalan mungkin berkembang terlalu lambat, antibodi mungkin tidak dapat menumpas antigen sepenuhnya, atau bisa juga terdapat berbagai strain patogen, tidak semuanya bergantung pada sistem rekasi kekebalan. Bagaimanapun, bahkan hanya sebagian, terlambat, atau kekebalan yang lemah, seperti terjadi pada kekebalan silang pada suatu strain daripada strain target, mungkin meringankan infeksinya, yang menurunkan tingkat kematian, menurunkan banyaknya yang sakit (morbidity) dan mempercepat penyembuhan.
+
+Vaksinasi ulang (Adjuvants) umumnya digunakan untuk meningkatkan tanggapan kekebalan, terutama untuk usia lanjut (50-75 tahun ke atas), di mana tanggapan kekebalan untuk vaksin sederhana mungkin melemah.<ref name=neighmond2010>{{cite news|url=http://www.npr.org/templates/story/story.php?storyId=123406640|title=Adapting Vaccines For Our Aging Immune Systems|date=2010-02-07|work=Morning Edition|publisher=NPR|accessdate=2014-01-09|last=Neighmond|first=Patti|deadurl=no|archiveurl=http://archive.is/z9wC|archivedate=2012-09-05 }}{{open access}}</ref>
+Keefektifitasan vaksin bergantung pada beberapa faktor:
+* penyakit itu sendiri (vaksin untuk penyakit A lebih ampuh daripada vaksin untuk penyakit B)
+* starin dari vaksin (beberapa vaksin spesifik terhadapnya, atau sekurangnya kurang efektif melawan strain tertentu dari penyakit)<ref>{{cite journal | url=http://www.bmj.com/content/319/7206/352 | doi=10.1136/bmj.319.7206.352 | pmid=10435956 | title=Comparative efficacy of three mumps vaccines during disease outbreak in eastern Switzerland: cohort study | last=Schlegel et al. | volume=319 | issue=7206 | page=352 | journal=BMJ  | date=August 1999 | accessdate=2014-01-09 | pmc=32261}}{{open access}}</ref>
+* apakah [[jadwal imunisasi]] benar-benar dipatuhi.
+* tanggapan yang berbeda terhadap vaksin; sejumlah individu tidak memberikan tanggapan pada vaksin tertentu, berati mereka tidak memproduksi antibodi bahkan setelah divaksin dengan benar.
+* berbagai macam faktor seperti etnis, usia, atau kelainan genetik.
+
+Jika individu yang divaksin tetap sakit, maka penyakitnya lebih jinak dan tidak mudah menyebarkan penyakit daripada pasien yang tidak divaksin.<ref>{{cite journal|last1=Prziosi|first1=M.|last2=Halloran|first2=M.E.|year=2003|title=Effects of Pertussis Vaccination on Disease: Vaccine Efficacy in Reducing Clinical Severity|journal=Clinical Infectious Diseases|volume=37|issue=6|pages=772779|publisher=Oxford Journals|doi=10.1086/377270| url=http://cid.oxfordjournals.org/content/37/6/772.full}}</ref>
+
+Hal-hal yang harus dipertimbangkan untuk keefektifitasan program [[vaksinasi]]:
+# membuat model yang lebih hati-hati untuk mengantisipasi damapak dari sebuah kampanye imunisasi pada epidemiologi penyakit dalam jangka menengah dan panjang
+# pemantauan terus menerus pada penyakit tersebut setelah penggunaan vaksin baru
+# tetap menjaga tingkat imunisasi yang tinggi, bahkan ketika penyakit sudah jarang ditemukan
+
+Pada tahun 1958, terdapat 763,094 kasua tampek di [[Amerika Serikat]]; walaupun hanya 552 orang yang meninggal.<ref name="pmid15106120">{{cite journal |author=Orenstein WA, Papania MJ, Wharton ME |title=Measles elimination in the United States |journal=J Infect Dis |volume=189 |issue=Suppl 1 |pages=S13|year=2004 |pmid=15106120 |doi=10.1086/377693 |url=http://www.journals.uchicago.edu/doi/full/10.1086/377693 }}</ref><ref name="pmid18463608">{{cite journal | author=<!--staff--> | title=MeaslesUnited States, January 1  April 25, 2008 | journal=Morb. Mortal. Wkly. Rep. | volume=57 | issue=18 | pages=4948 |date=May 2008 | pmid=18463608 | url=http://www.cdc.gov/mmwr/preview/mmwrhtml/mm5718a5.htm }}{{open access}}</ref> Setelah pemakaian vaksin baru, jumlah kasus menurun hingga kurang dari 150 kasus per tahun (mediannya 56).<ref name="pmid18463608"/> Di awal tahun 2008, terdapat 64 kasus terduga tampek. 54 penderita mendapatkannya dari luar AS, dan hanya 13% yang benar-benar terkena di AS; 63 dari 64 orang tersebut belum pernah divaksinasi tampek atau tidak yakin telah divaksinasi sebelumnya.<ref name="pmid18463608"/>
+
+== Menumbuhkan kekebalan ==
+Sistem kekebalan mengenali partikel vaksin sebagai agen asing, menghancurkannya, dan "mengingat"-nya. Ketika di kemudian hari agen yang [[virulen]] menginfeksi tubuh, sistem kekebalan telah siap:
+# Menetralkan bahannya sebelum bisa memasuki sel; dan 
+# Mengenali dan menghancurkan sel yang telah terinfeksi sebelum agen ini dapat berbiak
+# Jika tetap sakit, maka sakitnya akan jauh lebih ringan
+
+Vaksin yang dilemahkan digunakan untuk melawan [[tuberkulosis]], [[rabies]], dan [[cacar]]; agen yang telah mati digunakan untuk mengatasi [[kolera]] dan [[tifus]]; toksoid digunakan untuk melawan [[difteri]] dan [[tetanus]].
+
+Meskipun vaksin sejauh ini tidak virulen sebagaimana agen "sebenarnya", bisa menimbulkan efek samping yang merugikan, dan harus diperkuat dengan vaksinasi ulang beberapa tiap tahun. Suatu cara untuk mengatasi hal ini adalah dengan ''[[vaksinasi DNA]]''. [[DNA]] [[sandi|yang menyandi]] suatu bagian virus atau bakteri yang dapat dikenali oleh sistem kekebalan dimasukkan dan di[[ekspresi]]kan dalam sel manusia/hewan. Sel-sel ini selanjutnya menghasilkan toksoid agen penginfeksi, tanpa pengaruh berbahaya lainnya. Pada tahun [[2003]], vaksinasi DNA masih dalam percobaan, namun menunjukkan hasil yang menjanjikan.
+
+== Pemberantasan penyakit ==
+Berbagai penyakit seperti [[polio]] telah dapat dikendalikan di [[negara maju|negara-negara maju]] dan juga Indonesia melalui penggunaan vaksin secara massal ([[rubella]] dilaporkan telah musnah dari [[Amerika Serikat|AS]]). [[Cacar]] nanah telah berhasil dieradikasi/dimusnahkan dari seluruh dunia, makanya tidak ada lagi vaksinasi cacar nanah (harap bedakan dengan cacar air).
+
+Sepanjang mayoritas masyarakat telah diimunisasi, penyakit infeksi akan sulit mewabah. Pengaruh ini disebut ''[[herd immunity]]''. Beberapa kalangan, terutama yang melakukan praktik [[pengobatan alternatif]], menolak untuk mengimunisasi dirinya atau keluarganya, berdasarkan keyakinan bahwa efek samping vaksin merugikan mereka. Para pendukung vaksinasi rutin menjawab dengan mengatakan bahwa efek samping vaksin yang telah berizin, jika ada, jauh lebih kecil dibandingkan dengan akibat infeksi penyakit, atau sangat jarang, dan beranggapan bahwa hitungan untung/rugi haruslah berdasarkan keuntungan terhadap kemanusiaan secara keseluruhan, bukan hanya keuntungan pribadi yang diimunisasi. Risiko utama rubella, misalnya, adalah terhadap [[janin]] wanita [[hamil]], tapi risiko ini dapat secara efektif dikurangi dengan imunisasi anak-anak agar tidak menular kepada wanita hamil.
+
+== Sistem pemberian vaksin ==
+[[Berkas:Poliodrops.jpg|thumb|Seorang anak mendapat [[vaksinasi]] [[polio]] ([[poliomyelitis]]). Vaksin ini diberikan secara oral, hanya beberapa tetes cairan yang berasa manis.]]
+Terdapat beberapa cara baru dalam pengembangan pada sistem pemberian vaksin, yang diharapkan akan lebih efisien dalam pemberiannya. Metode-metode yang mungkin termasuk [[liposome]] dan ''[[ISCOM]]'' (immune stimulating complex).<ref>{{cite journal |author= Morein B, Hu KF, Abusugra I |title= Current status and potential application of ISCOMs in veterinary medicine |journal= Adv Drug Deliv Rev |volume=56 |issue=10 |pages=136782 |year=2004 |pmid=15191787 |doi=10.1016/j.addr.2004.02.004}}</ref>
+Sistem pemberian vaksin yang baru adalah pemberian melalui oral, seperti vaksin polio (juga vaksin kolera). Dengan pemberian melalui oral, maka tidak ada risiko mengkontaminasi darah. Vaksin oral padatan telah terbukti lebih stabil dan tak perlu terlalu dibekukan; kestabilan mengurangi kebutuhan pendinginan terus menerus, yang biasanya pada rentang suhu tertentu tergantung produsennya, yang pada akhirnya mengurangi biaya keseluruhan. Akhirnya, penggunaan jarum mikro tampaknya menjadi solusi masa depan. Jarum mikro adalah "pointed projections fabricated into arrays that can create vaccine delivery pathways through the skin".<ref>{{cite journal |author= Giudice EL, Campbell JD |title= Needle-free vaccine delivery |journal= Adv Drug Deliv Rev |volume=58 |issue=1 |pages=6889 |year=2006 |pmid=16564111 |doi=10.1016/j.addr.2005.12.003}}</ref>
+
+<!--
+== Cacar ==
+Vaccination against smallpox seems especially contentious. Dissenters falsely suggest that modern vaccines might result in outbreaks of smallpox (in fact, they contain no smallpox virus: they contain live vaccinia virus), and suggest that infections in the past originated (as in the small vaccinia outbreak in [[England]] in [[1961]]), spread in greater proportion, and/or were more lethal amongst the vaccinated. They contend that improved [[sanitation]] and [[nutrition]], not vaccine, account for most of the reduction in smallpox. Inoculation proponents dispute these allegations, and recognize that the current vaccine has risks. As the risk of the disease (barring germ warfare) is effectively zero, routine smallpox vaccination has not been recommended for many years.
+
+The threat from smallpox as a [[biological weapon]] has however, caused a reconsideration, though not a reversal, of this position. A [[2003]] US vaccination effort was unpopular. There was poor turnout among hospital staff who were designated to be the first to receive the vaccine. In addition to the known risks of the vaccine, several deaths were reported from cardiac causes among the immunized, suggesting that people with coronary artery disease might be at risk. Development of newer formulations that might avoid the newly discovered risks is underway. [[Illinois]] and [[New York]] suspended the program pending investigation of the apparent vaccine deaths of two healthcare workers (the main focus of the program). The [[California Nurses Association]] opposed the effort from the start.[http://rense.com/general36/poxx.htm][http://www.usatoday.com/news/health/2003-10-15-smallpox_x.htm]
+
+==Autism controversy==
+In the late 1990s, vaccines became the target of controversy when a link to [[autism]] was suggested.
+
+Some groups in the United States claimed a link due to a preservative called [[thimerosal]].  Thimerosal is a preservative that contains [[Mercury (element)|mercury]].  It was (and in some cases still is) used in some DTP ([[diphtheria]], [[tetanus]] and [[pertussis]]) vaccine formulations. In sufficient quantities, mercury has deleterious [[neurological]] effects, and thus it is tightly regulated (in the [[United States]], this regulation is supervised by the [[Environmental Protection Agency|EPA]]). DTP vaccines are routinely administered to children under the age of 2 in developed nations, so most children in these nations have been exposed to thimerosal through vaccination. In 1999, [http://www.fda.gov/cber/vaccine/thimerosal.htm the FDA re-evaluated] the risk of using thimerosal in vaccine products under the 1997 FDA Modernization Act. In its report of October 1, 2001, the Institute of Medicine's Immunization Safety Review Committee concluded that the evidence is inadequate to either accept or reject a causal relationship between thimerosal exposure from childhood vaccines and autism. In a further report, of May 2004 [http://www.iom.edu/report.asp?id=20155] the institute said that epidemiological evidence favored rejection of any link between thiomerosal-containing vaccines and autism.
+
+A second, parallel, controversy arose in the United Kingdom over the vaccine for [[measles]], [[mumps]], and [[rubella]] (MMR), another vaccine that is routinely administered to children under the age of 2 in developed nations, but which contains no preservative. A claimed possible link to autism came to the forefront when in 1998, [http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=9500320 Wakefield and colleagues] reviewed reports of children with bowel symptoms and regressive developmental disorders, mostly autism, in a small sample of 12 children. The study had weaknesses such as small sample size, and no use of healthy controls. In 2004, 10 of the 13 authors of the original Wakefield study retracted the paper's interpretation, stating that the data were insufficient to establish a causal link between MMR vaccine and autism. This followed an investigation by [[Brian Deer]] for the London [[Sunday Times]], who reported that Wakefield had links to lawyers hoping to sue the vaccines' manufacturers [http://briandeer.com/mmr-lancet.htm]. Further allegations were made by Deer in a UK television documentary, MMR: What They Didn't Tell You, first broadcast in November 2004 [http://briandeer.com/wakefield-deer.htm].
+
+The Wakefield study garnered media attention and caused concern in the minds of many parents leading to a drop in the uptake of the MMR vaccine in the UK and some other countries.
+
+In response to the US and UK controversies, which closely mirror the framing of litigation in the two countries, a number of studies with large sample sizes were researched in many developed nations. The vast majority of those studies showed no correlation between the use of vaccines (including the MMR vaccine) and increased [[autism]]: -
+* [http://pediatrics.aappublications.org/cgi/content/full/114/3/584 "Thimerosal Exposure in Infants and Developmental Disorders: A Retrospective Cohort Study in the United Kingdom Does Not Support a Causal Association" PEDIATRICS Vol. 114 No. 3 September 2004]
+* [http://pediatrics.aappublications.org/cgi/content/full/113/2/259 "Age at First Measles-Mumps-Rubella Vaccination in Children With Autism and School-Matched Control Subjects: A Population-Based Study in Metropolitan Atlanta" PEDIATRICS Vol. 113 No. 2 February 2004]
+* [http://pediatrics.aappublications.org/cgi/content/full/112/3/604 "Thimerosal and the Occurrence of Autism: Negative Ecological Evidence From Danish Population-Based Data" PEDIATRICS Vol. 112 No. 3 September 2003] - This study shows an increase in autism after the discontinuation of the thimerosal formulations of the MMR vaccine in the Danish population.
+* [http://www.nih.go.jp/JJID/56/114.html "An Epidemiological Study on Japanese Autism concerning Routine Childhood Immunization History" Jpn. J. Infect. Dis., 56, 114-117, 2003]
+
+The autism controversy highlighted several issues pertaining to [[public health]], [[biology|biological]] science, [[medical ethics|ethical]] standards, and the medical community. First, it stresses the value of large-scale, case-controlled scientific studies in proving or disproving a [[hypothesis]] (in this case, a link between autism and vaccines). Secondly, it shows both the importance of medical professionals having the most solid and up-to-date information and the importance of communicating this information in a clear and unbiased fashion to patients. Thirdly, it highlighted the changing role of the medical community from authoritarian wardens to counsellors who provide informed choices, as well as the evolution of the doctor-patient relationship as a partnership. Lastly, it emphasized that current medical issues involve all aspects of modern culture and society, including the media, the affected families, and the scientific community at large.
+-->
+== Lihat pula ==
+* [[Edward Jenner]]
+* [[Genetik]]
+* [[Imunisasi]]
+* [[Imunologi]]
+* [[Inokulasi]]
+* [[Jadwal imunisasi]]
+* [[Kedokteran]]
+* [[Vaksinasi]]
+
+== Referensi ==
+{{Reflist}}
+
+== Pranala keluar ==
+* [http://www.nlm.nih.gov/medlineplus/immunizationvaccination.html Conventional medical opinion on vaccination]
+* [http://briandeer.com/mmr-lancet.htm Brian Deer's investigation of UK MMR scare]
+
+{{Major drug groups}}
+
+[[Kategori:Vaksin| ]]
+[[Kategori:Virologi]]
+[[Kategori:Penyakit menular]]

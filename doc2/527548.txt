@@ -1,0 +1,165 @@
+Bandar Udara Long Beach
+{{Infobox Airport
+| name         = Bandar Udara Long Beach
+| nativename   = Lapangan Terbang Daugherty
+| image        = Long Beach Airport - USGS 29 March 2004.jpg
+| caption      = Gambar udara [[USGS]], Maret 2004
+| IATA         = LGB
+| ICAO         = KLGB
+| FAA          = LGB
+| type         = Publik
+| owner        = Kota Long Beach
+| operator     = 
+| city-served  = County Los Angeles dan Orange
+| location     = [[Long Beach, California]]
+| focus_city   = [[JetBlue Airways]]
+| elevation-f  = 60
+| elevation-m  = 18
+| website      = [http://www.lgb.org/ www.LGB.org] 
+| latd  =  33 | latm  = 49 | lats  = 04 | latNS  = N
+| longd = 118 | longm = 09 | longs = 06 | longEW = W
+| coordinates_region     = US-CA
+| r1-number    = 12/30
+| r1-length-f  = 10,000
+| r1-length-m  = 3,048
+| r1-surface   = Aspal
+| r2-number    = 7L/25R
+| r2-length-f  = 6,192
+| r2-length-m  = 1,887
+| r2-surface   = Aspal
+| r3-number    = 7R/25L
+| r3-length-f  = 5,423
+| r3-length-m  = 1,653
+| r3-surface   = Aspal
+| r4-number    = 16L/34R
+| r4-length-f  = 3,975
+| r4-length-m  = 1,212
+| r4-surface   = Aspal
+| r5-number    = 16R/34L
+| r5-length-f  = 4,470
+| r5-length-m  = 1,362
+| r5-surface   = Aspal
+| stat-year    = 2010
+| stat1-header = Penumpang (ACI)
+| stat1-data   = 2,978,433
+| stat2-header = Pengoperasian pesawat udara (FAA)
+| stat2-data   = 329,808
+| stat3-header = Pesawat berbasis (FAA)
+| stat3-data   = 435
+| footnotes    = Sumber: [[Federal Aviation Administration|FAA]]<ref name="FAA">
+  {{cite web
+  | title = {{FAA-airport|ID=LGB|use=PU|own=PU|site=01794.*A}}
+  | publisher = Federal Aviation Administration
+  | date = 25 August 2011
+  }}
+</ref> dan [[Airports Council International|ACI]]<ref name="ACI">
+  {{cite web
+  | title = 2010 North American final rankings
+  | url = http://www.aci-na.org/content/airport-traffic-reports
+  | publisher = [[Airports Council International]] - Amerika Utara
+  | year = 2010
+  }}
+</ref>
+}}
+[[Image:Long Beach Airport LARGE.jpg|thumb|right|Bangunan terminal bandara Long Beach, tampilan jalan.]]
+[[Image:Long-Beach-airport-terminal.jpg|thumb|right|Bangunan terminal, tampilan belakang. 2009.]]
+[[Image:Long beach airport Photo D Ramey Logan.jpg|thumb|right|Landasan pacu bandara Long Beach.]]
+
+'''Bandar Udara Long Beach''' {{Airport codes|LGB|KLGB|LGB}}, juga dikenal sebagai '''Daugherty Field''', merupakan sebuah [[bandara]] yang terletak di {{convert|3|NM|abbr=on|lk=in}} timur laut dari distrik bisnis pusat [[Long Beach, California|Long Beach]], sebuah kota di [[County Los Angeles, California|Los Angeles County]], [[California]].<ref name="FAA" /> Bandara ini melayani County Los Angeles dan [[Orange County, California|Orange]]. Bandara ini sebelumnya dikenal sebagai '''Bandar Udara Kotamadya Long Beach'''.
+
+== Maskapai penerbangan dan tujuan ==
+Perusahaan penerbangan berikut menawarkan layanan penumpang terjadwal:
+
+{{Airport destination list | 3rdcoltitle=Concourse
+| [[Alaska Airlines]] <br>{{nowrap|dioperasikan oleh [[SkyWest Airlines]]}} | [[Bandar Udara Internasional Portland|Portland (OR)]], [[Bandar Udara Internasional Seattle-Tacoma|Seattle/Tacoma]] | Selatan
+| [[Delta Air Lines]] | [[Bandar Udara Internasional Salt Lake City|Salt Lake City]] | Selatan
+| [[Delta Connection]] <br>{{nowrap|dioperasikan oleh [[SkyWest Airlines]]}} | [[Bandar Udara Internasional Salt Lake City|Salt Lake City]] | Selatan
+| [[JetBlue Airways]] | [[Bandar Udara Internasional Austin|Austin]], [[Bandar Udara Internasional Logan|Boston]], [[Bandar Udara Internasional McCarran|Las Vegas]], [[Bandar Udara Internasional John F. Kennedy|New York-JFK]], [[Bandar Udara Internasional Oakland|Oakland]], [[Bandar Udara Internasional Portland|Portland (OR)]], [[Bandar Udara Internasional Sacramento|Sacramento]], [[Bandar Udara Internasional Salt Lake City|Salt Lake City]], [[Bandar Udara Internasional San Francisco|San Francisco]], [[Bandar Udara Internasional Seattle-Tacoma|Seattle/Tacoma]], [[Bandar Udara Internasional Washington Dulles|Washington-Dulles]] <br> '''Musiman''': [[Bandar Udara Internasional Ted Stevens Anchorage|Anchorage]] | Utara
+| [[US Airways]] | [[Bandar Udara Internasional Sky Harbor Phoenix|Phoenix]] | Selatan
+| [[US Airways Express]] <br>{{nowrap|dioperasikan oleh [[Mesa Airlines]]}} | [[Bandar Udara Internasional Sky Harbor Phoenix|Phoenix]] | Selatan
+}}
+
+== Tujuan Utama ==
+{| class="wikitable sortable" style="font-size:95%"
+|+ Rute Domestik Tersibuk dari LGB (Maret 2011 - Februari 2012)<ref name="transtats.bts.gov">
+  {{cite web
+  | url = http://www.transtats.bts.gov/airports.asp?pn=1&Airport=LGB&End_YearMonth=24139
+  | title = Long Beach, CA: Long Beach Airport (LGB)
+  | publisher = [[Bureau of Transportation Statistics]]
+  | date = July 2011
+  }}
+</ref>
+|-
+! Peringkat
+! Kota
+! Bandara
+! Penumpang
+|-
+| 1
+| [[Bandar Udara Internasional Salt Lake City|Salt Lake City, Utah]]
+| 194.000
+| Delta, JetBlue
+|-
+| 2
+| [[Bandar Udara Internasional McCarran|Las Vegas, Nevada]]
+| 172.000
+| JetBlue
+|-
+| 3
+| [[Bandar Udara Internasional Seattle-Tacoma|Seattle, Washington]]
+| 164.000
+| Alaska, JetBlue
+|-
+| 4
+| [[Bandar Udara Internasional San Francisco|San Francisco, California]]
+| 147.000
+| JetBlue
+|-
+| 5
+| [[Bandar Udara Internasional Oakland|Oakland, California]]
+| 145.000
+| JetBlue
+|-
+| 6
+| [[Bandar Udara Internasional Portland|Portland, Oregon]]
+| 99.000
+| Alaska, JetBlue
+|-
+| 7
+| [[Bandar Udara Internasional Sky Harbor Phoenix|Phoenix, Arizona]]
+| 93.000
+| US Airways
+|-
+| 8
+| [[Bandar Udara Internasional John F. Kennedy|New York, New York]]
+| 86.000
+| JetBlue
+|-
+| 9
+| [[Bandar Udara Internasional Sacramento|Sacramento, California]]
+| 72.000
+| JetBlue
+|-
+| 10
+| [[Bandar Udara Internasional Washington Dulles|Washington, D.C.]]
+| 68.000
+| JetBlue
+|}
+
+== Referensi ==
+{{Reflist}}
+
+== Pranala luar ==
+* [http://www.lgb.org/ Bandar Udara Long Beach], situs web resmi
+* [http://www.militarymuseum.org/LongBeachAAF.html Historic California Posts: Long Beach Army Air Field]
+* [http://msrmaps.com/map.aspx?t=4&s=12&lat=33.8175&lon=-118.1507&w=800&h=850&lp=---+None+--- Gambar udara pada 29 Maret 2004] dari [[USGS]] ''[[The National Map]]''
+* {{FAA-diagram|00236}}
+* {{FAA-procedures|LGB}}
+* {{US-airport|LGB}}
+
+[[Kategori:Bandar udara di California|Long Beach]]
+[[Kategori:Bangunan dan struktur di Long Beach, California]]
+[[Kategori:Transportasi di Long Beach, California]]
+
+
+{{bandara-stub}}

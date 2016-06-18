@@ -1,0 +1,52 @@
+Rumah Sakit Dharmais
+{{kegunaanlain|Dharma}}
+{{Kotak Info Rumah Sakit
+| nama                = Rumah Sakit Kanker</br>Dharmais
+| organisasi/grup     = [[Kementerian Kesehatan Republik Indonesia|Kementerian Kesehatan RI]]
+| logo                = 
+| ukuran_logo         = <!-- ukuran logo dalam pixel -->        
+| gambar              = 
+| ukuran_gambar       = <!-- ukuran gambar -->
+| alt                 = <!-- keterangan gambar (thumb) -->
+| keterangan_gambar   = 
+| moto                = Tampil lebih baik ramah dan professional 
+| lokasi              = Jl. Letjen S.Parman Kav 84-86 
+| kota                = [[Jakarta Barat]]
+| provinsi            = [[DKI Jakarta]]
+| negara              = [[Indonesia]]
+| koordinat           = <!--{{coord|xx|xx|xx|S|xx|xx|xx|E|display=inline,title}}-->
+| telepon             = (021) 5681570
+| kepemilikan         = Pemerintah
+| pengelolaan         = Rumah Sakit publik
+| status_BLU          = Penuh
+| dasar_BLU           = PP 23 Tahun 2005
+| jenis               = Rumah sakit khusus
+| afiliasi            = <!-- Lembaga yang berafiliasi dengan rumah sakit seperti Universitas, dsb -->
+| patron              = <!-- Tokoh yang menjadi patron/pelindung -->
+| jaringan            = <!-- Jaringan rumah sakit -->
+| jabatan_kepala      = Direktur Utama
+| nama_kepala         = [[Sonar Soni Panigoro]]
+| klasifikasi         = Kelas A
+| akreditas           = 
+| level_UGD           = <!-- level UGD -->
+| kapasitas           = 
+| spesialisasi        = Kanker
+| BPJS                = 
+| rujukan             = 
+| helipad             = 
+| dibuka              = {{Start date and age|1999|1|8}}
+| ditutup             =
+| website             = http://www.dharmais.co.id
+}}
+
+'''Rumah Sakit Dharmais''' yang juga dikenal dengan nama '''Rumah Sakit Kanker Dharmais''' adalah sebuah [[rumah sakit]] milik pemerintah yang berada di [[Jakarta Barat]], [[Indonesia]]. Rumah sakit ini berada di bawah pengawasan [[Kementerian Kesehatan Republik Indonesia|Kementerian Kesehatan]].
+
+Merupakan salah satu rumah sakit yang memiliki unit pelayanan paliatif lengkap dengan dokter, ahli spiritual dan lain-lain. Paliatif diperlukan untuk menangani pasien dan keluarga pasien di mana kesembuhan pasien sudah tidak dapat dilakukan lagi atau tidak mungkin diberikan pengobatan.<ref>{{cite web |url=http://www.dharmais.co.id/index.php/palliative-care.html |title=Layanan Paliatif |accessdate=March 30, 2015}}</ref>
+
+== Referensi ==
+{{Reflist}}
+
+{{DEFAULTSORT:Dharmais}}
+{{RS-stub}}
+
+[[Kategori:Rumah sakit di Jakarta]]

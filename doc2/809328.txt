@@ -1,0 +1,50 @@
+Templat:Sejarah Taiwan
+{{sidebar
+| name = Sejarah
+| bodyclass = vcard hlist
+| wraplinks = true
+| title = {{region history sidebar title
+  |region = Taiwan
+  |image = [[File:{{{image|1640 Map of Formosa-Taiwan by Dutch -.jpg}}}|{{{image_size|180px}}}|border]]
+}}
+| headingstyle = background:#eee
+
+|heading1 = Kronologis
+|content1 =
+   {{aligned table|fullwidth=y|leftright=y|nowrap2=y
+    | [[Prasejarah Taiwan|Prasejarah]] | sampai 1624
+    | [[Formosa Belanda]] | 16241662
+    | [[Formosa Spanyol]] | 16261642
+    | [[Kerajaan Tungning]] | 16621683
+    | [[Taiwan di bawah kekuasaan Qing|Pemerintahan Qing]] | 16831895
+    | [[Republik Formosa]] | 1895
+    | [[Taiwan di bawah kekuasaan Jepang|Pemerintahan Jepang]] | 18951945
+    | [[Taiwan setelah Perang Dunia II|Pemerintahan Republik Tiongkok]] | sejak 1945
+   }}
+
+|heading2 = Aktuil
+|content2 =
+* [[Sejarah kultural Taiwan|Kultural]]
+* [[Sejarah ekonomi Taiwan|Ekonomi]]
+* [[Sejarah pendidikan di Taiwan|Pendidikan]]
+
+|heading3 = Lokal
+|content3 =
+*[[Sejarah Kaohsiung|Kaohsiung]]
+*[[Sejarah Taipei|Taipei]]
+*[[Kerajaan Middag]]
+
+|heading4 = Daftar
+|content4 =
+*[[Linimasa sejarah Taiwan|Linimasa]]
+*[[Daftar penguasa Taiwan|Penguasa]]
+*[[Daftar situs arkelogis di Taiwan|Situs arkeologis]]
+
+| belowstyle = border-top:#aaa 1px solid; border-bottom:#aaa 1px solid;
+| below = {{portal-inline|Taiwan|size=tiny}}
+
+}}<noinclude>
+[[Kategori:Templat Taiwan|Sejarah]]
+[[Kategori:Templat Republik Tiongkok (Taiwan)|Sejarah]]
+
+</noinclude>

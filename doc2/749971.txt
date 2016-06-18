@@ -1,0 +1,11 @@
+Air flow meter
+'''Air flow meter''', adalah perangkat yang mengukur aliran udara, yaitu berapa banyak udara mengalir melalui tabung. Ini tidak mengukur volume udara yang lewat melalui tabung, mengukur kecepatan yang sebenarnya dari udara yang mengalir melalui perangkat dalam segmen waktu yang ditetapkan. Dengan demikian aliran udara meter ini hanya sebuah aplikasi meter aliran massa untuk media khusus. Biasanya, pengukuran aliran massa udara yang dinyatakan dalam satuan kilogram per detik (kg/s).
+
+== Referensi ==
+{{Reflist}}
+*[http://www.miata.net/garage/afm_fix.html Miata.net, Repair broken Air Flow Meter, by Zach Warner, 2 January, 2009]
+*[http://www.clarks-garage.com/shop-manual/elect-22.htm Clarks garage, AFM shop manual, Air Flow Meter (AFM) Operation and Testing, 1998]
+*[http://www.autoshop101.com/forms/h34.pdf Auto shop 101, AFM sensor]
+*Spitzer, David W. (1990), ''Industrial Flow Measurement'', ISBN 1-55617-243-5
+
+[[Kategori:Sensor]]

@@ -1,0 +1,14 @@
+Berkas:Tonysucipto.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+Sumber : [http://t1.gstatic.com/images?q=tbn:ANd9GcQ-_to-K3NIJW61uceBBkuFAH2BrwwDxs8cVyMMdKdbeZ3BO_hHUw&t=1 http://t1.gstatic.com/images?q=tbn:ANd9GcQ-_to-K3NIJW61uceBBkuFAH2BrwwDxs8cVyMMdKdbeZ3BO_hHUw&t=1]
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Fairuse}}

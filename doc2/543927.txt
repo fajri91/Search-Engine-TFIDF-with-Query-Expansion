@@ -1,0 +1,149 @@
+Templat:Adaptasi karya Stephen King
+{{Navbox
+| name       = Adaptasi karya Stephen King
+| title      = [[Daftar adaptasi karya Stephen King]]
+| state = {{{state|autocollapse}}}
+| titlestyle = background:#D3CD8B; color:black;
+| listclass = hlist
+| groupstyle = background:#D3CD8B; color:black;
+
+| group1 = Film
+| list1  = {{Navbox subgroup
+   |list1style = background:#DEDAA8;width:200px;
+   |list1      = '''Film tunggal'''
+   |list2      =
+*''[[The Shining (film)|The Shining]]'' (1980)
+*''[[Cujo (film)|Cujo]]'' (1983)
+*''[[The Dead Zone (film)|The Dead Zone]]'' (1983)
+*''[[Christine (film 1983)|Christine]]'' (1983)
+*''[[Cat's Eye (film 1985)|Cat's Eye]]'' (1985)
+*''[[Silver Bullet (film)|Silver Bullet]]'' (1985)
+*''[[Stand by Me (film)|Stand by Me]]'' (1986)
+*''[[The Running Man (film)|The Running Man]]'' (1987)
+*''[[Tales from the Darkside: The Movie]]'' (1990)
+*''[[Graveyard Shift (film 1990)|Graveyard Shift]]'' (1990)
+*''[[Misery (film)|Misery]]'' (1990)
+*''[[The Lawnmower Man (film)|The Lawnmower Man]]'' (1992)
+*''[[Sleepwalkers (film)|Sleepwalkers]]'' (1992)
+*''[[The Dark Half (film)|The Dark Half]]'' (1993)
+*''[[Needful Things (film)|Needful Things]]'' (1993)
+*''[[The Shawshank Redemption]]'' (1994)
+*''[[Dolores Claiborne (film)|Dolores Claiborne]]'' (1995)
+*''[[Thinner (film)|Thinner]]'' (1996)
+*''[[The Night Flier (film)|The Night Flier]]'' (1997)
+*''[[Apt Pupil (film)|Apt Pupil]]'' (1998)
+*''[[The Green Mile (film)|The Green Mile]]'' (1999)
+*''[[Hearts in Atlantis (film)|Hearts in Atlantis]]'' (2001)
+*''[[Dreamcatcher (film)|Dreamcatcher]]'' (2003)
+*''[[Secret Window]]'' (2004)
+*''[[Riding the Bullet (film)|Riding the Bullet]]'' (2004)
+*''[[1408 (film)|1408]]'' (2007)
+*''[[The Mist (film)|The Mist]]'' (2007)
+*''[[Dolan's Cadillac (film)|Dolan's Cadillac]]'' (2009)
+   |list3style = background:#DEDAA8;
+   |list3      = 
+   |list4      = {{Navbox subgroup
+       |groupstyle = background:#E9ECC5; color:black; width:200px;
+       |liststyle  = width:auto;
+       |group1 = ''Carrie''
+       |list1  =
+*''[[Carrie (film 1976)|Carrie]]'' (1976)
+*''[[The Rage: Carrie 2]]'' (1999)
+*''[[Carrie (film 2002)|Carrie]]'' (2002)
+*''[[Carrie (film 2013)|Carrie]]'' (2013)
+       |group2 = ''Creepshow''
+       |list2  =
+*''[[Creepshow]]'' (1982)
+*''[[Creepshow 2]]'' (1987)
+*''[[Creepshow III]]'' (2007)
+      |group3 = ''[[Children of the Corn (seri film)|Children of the Corn]]''
+       |list3  =
+*''[[Children of the Corn (film 1984)|Children of the Corn]]'' (1984)
+*''[[Children of the Corn II: The Final Sacrifice|The Final Sacrifice]]'' (1993)
+*''[[Children of the Corn III: Urban Harvest|Urban Harvest]]'' (1995)
+*''[[Children of the Corn IV: The Gathering|The Gathering]]'' (1996)
+*''[[Children of the Corn V: Fields of Terror|Fields of Terror]]'' (1998)
+*''[[Children of the Corn 666: Isaac's Return|Isaac's Return]]'' (1999)
+*''[[Children of the Corn: Revelation|Revelation]]'' (2001)
+*''[[Children of the Corn (film 2009)|Children of the Corn]]'' (2009)
+*''[[Children of the Corn: Genesis|Genesis]]'' (2011)
+       |group4 = ''Firestarter''
+       |list4  =
+*''[[Firestarter (film)|Firestarter]]'' (1984)
+*''[[Firestarter: Rekindled|Rekindled]]'' (2002)
+       |group5 = ''Trucks''
+       |list5  =
+*''[[Maximum Overdrive]]'' (1986)
+*''[[Trucks (film)|Trucks]]'' (1997)
+       |group6 = ''Pet Sematary''
+       |list6  =
+*''[[Pet Sematary (film)|Pet Sematary]]'' (1989)
+*''[[Pet Sematary Two]]'' (1992)
+       |group7 = ''The Mangler''
+       |list7  =
+*''[[The Mangler (film)|The Mangler]]'' (1995)
+*''[[The Mangler 2]]'' (2001)
+*''[[The Mangler Reborn]]'' (2005)
+  }}
+  }}
+
+| group2 = Televisi
+| list2  = {{Navbox subgroup
+   |list1style = background:#DEDAA8;
+   |list1      = '''Film atau miniseri tunggal'''
+   |list2      =
+*''[[Gramma (The Twilight Zone)|Gramma]]'' (1986)
+*''[[Sorry, Right Number]]'' (1987)
+*''[[It (film 1990)|It]]'' (1990)
+*''[[Golden Years (seri TV)|Golden Years]]'' (1991)
+*''[[The Tommyknockers (miniseri TV)|The Tommyknockers]]'' (1993)
+*''[[The Stand (miniseri TV)|The Stand]]'' (1994)
+*''[[The Langoliers (miniseri TV)|The Langoliers]]'' (1995)
+*''[[The Shining (miniseri TV)|The Shining]]'' (1997)
+*''[[Quicksilver Highway]]'' (1997)
+*''[[The Revelations of Becka Paulson]]'' (1997)
+*''[[Storm of the Century]]'' (1999)
+*''[[Kingdom Hospital]]'' (2004)
+*''[[Stephen King's Desperation (film)|Stephen King's Desperation]]'' (2006)
+*''[[Nightmares and Dreamscapes: From the Stories of Stephen King]]'' (2006)
+*''[[Bag of Bones (film TV)|Bag of Bones]]'' (2011)
+   |list3style = background:#DEDAA8;
+   |list3      = '''Film atau miniseri ganda'''
+   |list4      = {{Navbox subgroup
+       |groupstyle = background:#E9ECC5;color:black;width:200px;
+       |liststyle  = width:auto;
+       |group1     = ''Salem's Lot''
+       |list1      =
+*''[[Salem's Lot (miniseri TV 1979)|Salem's Lot]]'' (1979)
+*''[[A Return to Salem's Lot]]'' (1987)
+*''[[Salem's Lot (miniseri TV 2004)|'Salem's Lot]]'' (2004)
+       |group2     = ''Sometimes They Come Back''
+       |list2      =
+*''[[Sometimes They Come Back (film)|Sometimes They Come Back]]'' (1991)
+*''[[Sometimes They Come Back... Again]]'' (1996)
+*''[[Sometimes They Come Back... for More]]'' (1998)
+       |group3     = ''Rose Red''
+       |list3      =
+*''[[Rose Red (miniseri)|Rose Red]]'' (2002)
+*''[[The Diary of Ellen Rimbauer (film TV)|The Diary of Ellen Rimbauer]]'' (2003)
+   |list5style = background:#DEDAA8;
+   |list5      = '''Seri'''
+   |list6      =
+*''[[The Dead Zone (seri TV)|The Dead Zone]]'' (20022007)
+*''[[Haven (seri TV)|Haven]]'' (2010sekarang)
+*''[[Under the Dome (seri TV)|Under the Dome]]'' (2013)
+  }}
+  }}
+
+|below='''{{Icon|Book}} [[Book:Media based on Stephen King works|Book]]'''
+|belowstyle=background:#D3CD8B; color:black;
+
+}}<noinclude>
+{{collapsible option}}
+== Lihat pula ==
+* {{tl|Stephen King}}
+
+{{DEFAULTSORT:King, Stephen}}
+[[Category:Adaptasi karya Stephen King|*]]
+
+</noinclude>

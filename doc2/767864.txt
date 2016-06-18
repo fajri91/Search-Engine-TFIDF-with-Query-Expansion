@@ -1,0 +1,14 @@
+Berkas:Said Assagaff.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+http://www.malukuprov.go.id/index.php/component/content/article?id=760
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Fairuse}}

@@ -1,0 +1,33 @@
+Templat:Antarktika
+{{navbox
+|state = {{{state|<noinclude>
+uncollapsed
+</noinclude>}}}
+|titlestyle = background-color:#aa99ff;
+|name = Antarktika
+| listclass = hlist
+| title = [[Benua]] [[Antarktika]]
+|group1 = Artikel utama
+|list1 = [[Antarktika]]{{,}} [[Sejarah Antarktika|Sejarah]]{{,}} [[Iklim Antarktika|Iklim]]{{,}} [[Daftar ekspedisi Antarktika|Ekspedisi]]{{,}} [[Stasiun penelitian di Antarktika|Stasiun penelitian]]{{,}} [[Klaim teritori di Antarktika|Klaim teritori]]{{,}} [[Sistem Perjanjian Antarktika]]{{,}} [[Komunikasi di Antarktika]] {{,}} [[Pariwisata di Antarktika]]
+|group2 = Wilayah [[Geografi Antarktika|geografis]]
+|list2 = [[Semenanjung Antarktika]]{{,}} [[Antarktika Timur]]{{,}} [[Antarktika Barat]]{{,}} [[Titik ekstrim di Antarktika]]{{,}} [[Daftar pulau di Antarktika dan sub-Antarktika]]{{,}} [[Zona lingkungan Antarktika]]<br />Jalur air: [[McMurdo Sound]]{{,}} [[Laut Ross]]{{,}} [[Laut Weddell]]
+|group3 = Stasiun utama
+|list3 = [[Amundsen-Scott South Pole Station]] (US){{,}} [[Scott Base]] (NZ){{,}} [[McMurdo Station]] (US){{,}} [[Palmer Station]] (US){{,}} [[Base Presidente Eduardo Frei Montalva|Frei Montalva]] (CL){{,}} [[Vostok Station]] (RU){{,}}[[Halley Research Station|Halley Station]] (UK) [[:Kategori:Pos luar di Antarktika|lain...]]
+|group4 = Penjelajah terkenal
+|list4 = [[Ernest Shackleton]]{{,}} [[James Clark Ross]]{{,}} [[Richard Evelyn Byrd]]{{,}} [[Roald Amundsen]]{{,}} [[Douglas Mawson]]{{,}} [[Robert Falcon Scott]]{{,}} [[:Kategori:Penjelajah Antarktika|lain...]]
+|group5 = 
+|list5 = 
+|below = 
+|image = [[Berkas:Antarctica 6400px from Blue Marble.jpg|80px]]
+}}<noinclude>
+{{documentation}}
+[[Kategori:Templat Antarktika]]
+
+
+
+
+
+
+
+
+</noinclude>

@@ -1,0 +1,37 @@
+Windows NT 3.1
+{{Infobox OS version
+| name                = Windows NT 3.1
+| family              = Microsoft Windows
+| logo                = Microsoft Windows NT logo and wordmark (Pre-XP).svg
+| logo_size           = 100px
+| screenshot          =
+| caption             =
+| developer           = Microsoft
+| website             =
+| source_model        = [[Perangkat lunak sumber tertutup|Sumber tertutup]]
+| license             = [[Microsoft|MS]]-[[EULA]]
+| supported_platforms = [[IA-32]], [[DEC Alpha|Alpha]], [[MIPS architecture|MIPS]]
+| succeeded_by        = [[Windows NT 3.5]]
+| kernel_type         = [[Kernel hibrida|Hibrida]]
+| first_release_date  = {{Start date and age|1993|07|27}}
+| first_release_url   =
+| release_version     = 3.1 (Build 528: Service Pack 3)
+| release_date        = {{Start date and age|1994|10|29}}
+| release_url         = news:1994Nov7.165711.21637@alw.nih.gov
+| preview_version     =
+| preview_date        =
+| preview_url         =
+| support_status      = Tidak didukung sejak 31 Desember 2000
+| date                = Januari 2001 <!-- approximate date of template insertion for dating hidden maintenance categories -->
+}}
+'''Windows NT 3.1''' adalah merupakan produk pertama dari jajaran [[sistem operasi]] [[Server]] [[Microsoft]] [[Windows NT]]. Produk ini mulai diproduksi tanggal [[27 Juli]] [[1993]]. Tersedia dalam 2 versi, yaitu : Windows NT 3.1 dan Windows NT Advanced Server. Sistem operasi ini kemudian dikembangkan menjadi [[Windows NT 3.5]] pada [[September]] [[1994]].
+
+Windows NT 3.1 dapat berjalan pada [[CPU]] Intel x86, DEC Alpha, and MIPS R4000.
+
+{{Microsoft Windows}}
+
+[[Kategori:Windows NT]]
+[[Kategori:Perangkat lunak Microsoft yang tidak dilanjutkan]]
+
+
+{{software-stub}}

@@ -1,0 +1,128 @@
+Mark Salling
+{{Infobox person
+|image       = Mark Salling.jpg
+|caption     = Mark Salling (2009)
+|birthname   = Mark Wayne Salling
+|birth_date   = {{birth date and age|1982|08|17}}
+|birth_place  = [[Dallas, Texas]], Amerika Serikat
+|occupation  = Aktor/Musisi
+|yearsactive = 1996sekarang
+|website     = {{URL|http://www.marksallingmusic.com}}
+}}
+'''Mark Wayne Salling''' ({{lahirmati||17|8|1982}})<ref>[http://gleewiki.fox.com/page/Mark+Salling Mark Salling fan page]</ref> adalah [[aktor]] dan musisi asal [[Amerika Serikat]]. Ia dikenal karena perannya sebagai [[Noah Puckerman|Noah "Puck" Puckerman]] dalam serial televisi ''[[Glee (serial TV)|Glee]]''.<ref>[http://www.fox.com/glee Fox's official ''Glee'' page]</ref>
+
+== Filmografi ==
+{|class="wikitable sortable"
+! Tahun
+! Judul
+! Peran
+! class="unsortable" |Catatan
+|-
+|1996
+|''[[Children of the Corn IV: The Gathering]]''
+|James Rhodes
+|Film
+|-
+|1999
+|''[[Walker, Texas Ranger]]''
+|Billy
+|Episode: "Rise To The Occasion"
+|-
+|2006
+|''[[The Graveyard (film)|The Graveyard]]''
+|Eric
+|Film
+|-
+|2009sekarang
+|''[[Glee (serialTV)|Glee]]''
+|[[Noah Puckerman|Noah "Puck" Puckerman]]
+|Series Regular
+<br />[[Screen Actors Guild Award for Outstanding Performance by an Ensemble in a Comedy Series]]<br />Nominated   [[2010 Teen Choice Awards|Teen Choice Award for Choice TV: Breakout Star Male]] <br /> Nominated  [[2010 Teen Choice Awards|Teen Choice Award for Choice Music: Group]] <sub>(shared with Glee Cast)</sub>
+|}
+
+== Discografi ==
+{{See also|Diskografi pemeran Glee}}
+
+=== Album studio ===
+{|class="wikitable" style="text-align:center;"
+! rowspan="2"|Tahun
+! rowspan="2"|Detail album
+! colspan="3"|Posisi chart puncak
+|- style="font-size:smaller;"
+! width="30"|[[Billboard 200|US]]<br /><ref>{{Cite web|url=http://www.billboard.com/artist/mark-salling/chart-history/1381897?f=305&g=Albums|title=Mark Salling Album & Song Chart History: ''Billboard'' 200|work=[[Billboard (magazine)|Billboard]]|publisher=Nielsen Business Media, Inc|accessdate=November 4, 2010}}</ref>
+! width="30"|[[Top Heatseekers|US Heat]]<br /><ref>{{Cite web|url=http://www.billboard.com/artist/mark-salling/chart-history/1381897?f=324&g=Albums|title=Mark Salling Album & Song Chart History: Heatseekers Albums|work=[[Billboard (magazine)|Billboard]]|publisher=Nielsen Business Media, Inc|accessdate=November 4, 2010}}</ref>
+! width="30"|[[Top Independent Albums|US Indie]]<br /><ref>{{Cite web|url=http://www.billboard.com/artist/mark-salling/chart-history/1381897?f=326&g=Albums|title=Mark Salling Album & Song Chart History: Independent Albums|work=[[Billboard (magazine)|Billboard]]|publisher=Nielsen Business Media, Inc|accessdate=November 4, 2010}}</ref>
+|-
+|2008
+|align="left"|''Smoke Signals'' <small>(released under stage name Jericho)</small>
+* Rilis: 8 Februari 2008
+* Label: Jericho Records
+* Format: [[Compact disc|CD]], [[Music download|digital download]]
+| || ||
+|-
+|2010
+|align="left"|''Pipe Dreams''
+* Rilis: 25 Oktober 2010
+* Label: [[Fontana Distribution|Fontana]], Pipe Dreams Records
+* Format: CD, digital download
+|189 ||5 ||29
+|-
+|colspan="5" style="font-size:8pt"|"" denotes releases that did not chart.
+|}
+
+=== Soundtracks ===
+
+* ''[[Glee: The Music, Volume 1]]'' (2009)
+* ''[[Glee: The Music, Volume 2]]'' (2009)
+* ''[[Glee: The Music, The Power of Madonna]]'' (2010)
+* ''[[Glee: The Music, Volume 3 Showstoppers]]'' (2010)
+* ''[[Glee: The Music, Journey to Regionals]]'' (2010)
+* ''[[Glee: The Music, The Christmas Album]]'' (2010)
+* ''[[Glee: The Music, Volume 4]]'' (2010)
+
+=== Single ===
+{|class="wikitable" style="text-align:center;"
+|-
+! rowspan="2"|Year
+! rowspan="2"|Single
+! Peak
+! rowspan="2"|Album
+|- style="font-size:smaller;"
+! width="40"|[[Billboard Hot 100|US]]
+|-
+|2010
+|align="left"|"Higher Power"
+|
+|align="left"|''Pipe Dreams''
+|-
+|colspan="4" style="font-size:8pt"|"" denotes releases that did not chart, or were not released.
+|}
+
+== Referensi ==
+
+{{reflist}}
+...
+
+== Pranala luar ==
+
+* {{Official|http://www.marksallingmusic.com}}
+* {{IMDb name|0758597}}
+
+<!-- Metadata: see [[Wikipedia:Persondata]] -->
+{{Persondata
+|NAME= Salling, Mark
+|ALTERNATIVE NAMES= Salling, Mark Wayne
+|SHORT DESCRIPTION= Actor, musician
+|DATE OF BIRTH= August 17, 1982
+|PLACE OF BIRTH=[[Dallas, Texas]], U.S. 
+|DATE OF DEATH=
+|PLACE OF DEATH=
+}}
+{{DEFAULTSORT:Salling, Mark}}
+{{lifetime|1982||}}
+{{Amerika-Serikat-bio-stub}}
+{{pemeran-stub}}
+
+[[Kategori:Pemeran Amerika Serikat]]
+[[Kategori:Penyanyi Amerika Serikat]]
+[[Kategori:Musisi Amerika Serikat]]

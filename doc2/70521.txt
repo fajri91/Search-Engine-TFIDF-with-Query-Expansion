@@ -1,0 +1,16 @@
+Templat:Curugkembar, Sukabumi
+{{Navigasi ID Desa
+| nama kecamatan=Curugkembar
+| dati2=Kabupaten
+| nama dati2=Sukabumi
+| provinsi=Jawa Barat
+| d1=Bwongtugu
+| d2=Cimenteng
+| d3=Curugkembar
+| d4=Nagrakjaya
+| d5=Sindangraja
+| d6=Tanjungsari
+}}<noinclude>
+[[Kategori:Templat desa/kelurahan di Jawa Barat|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Sukabumi|{{PAGENAME}}]]
+</noinclude>

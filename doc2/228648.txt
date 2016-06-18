@@ -1,0 +1,19 @@
+Service pack
+Sebuah Service pack (SP singkatnya) adalah kumpulan pemutakhiran, perbaikan dan / atau tambahan untuk program perangkat lunak yang dikemas dalam bentuk satu paket untuk diinstal. Banyak perusahaan, seperti [[Microsoft]] atau [[Autodesk]], biasanya merilis sebuah paket layanan atau Service pack ketika jumlah [[patch]] individu untuk program mencapai batas tertentu. Instalasi paket layanan (Service pack) lebih mudah dan tidak rawan kesalahan daripada menginstal sejumlah besar patch secara individual, bahkan ketika memperbarui beberapa komputer melalui jaringan.
+
+Service pack biasanya dengan penomoran, dan biasa disebut sebagai SP1, SP2, SP3 dan lain-lain. Service pack dapat juga membawa, selain perbaikan bug juga fitur-fitur baru, seperti kasus pada [[Windows XP]] SP2.
+
+== Inkremental dan kumulatif Service pack ==
+Sebuah paket layanan dapat berupa tambahan, yang berarti hanya berisi pembaruan yang tidak hadir dalam paket layanan sebelumnya atau, bisa kumulatif, yang berarti mencakup isi semua pendahulunya. Dalam kasus produk Microsoft, sebuah pemutakhiran inkremental layanan disebut rilis. Sebagai contoh, [[Office 2000]] harus ditingkatkan untuk melayani release 1 (SR-1) sebelum orang dapat menginstal SP2.
+
+Paket layanan terbaru untuk Microsoft Windows yang belum kumulatif mulai dengan Windows XP Service Pack 3. Windows XP SP3 memerlukan setidaknya SP1 untuk hadir sebelum diinstal pada Windows XP lama.
+
+== Pranala luar ==
+* [http://support.microsoft.com/sp/ Microsoft Service Packs]
+
+[[Kategori:Komponen Windows]]
+[[Kategori:Windows]]
+[[Kategori:Manajemen jaringan]]
+[[Kategori:Administrasi sistem]]
+[[Kategori:Sistem komunikasi dan layanan Windows]]
+[[Kategori:API Microsoft]]

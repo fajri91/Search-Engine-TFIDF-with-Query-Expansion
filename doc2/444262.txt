@@ -1,0 +1,43 @@
+Daftar maskapai penerbangan Lebanon
+Ini adalah daftar [[maskapai penerbangan]] yang saat ini beroperasi di [[Lebanon]].
+
+{| border=0 cellpadding=2 cellspacing=3 class="wikitable sortable"
+|- valign="middle"
+! Maskapai penerbangan
+! [[IATA]]
+! [[Kode maskapai penerbangan ICAO|ICAO]]
+! [[Tanda panggil]]
+! Mulai<br />beroperasi
+! Catatan
+|-
+| [[Berytos Airlines]] ||  || BYR ||  || 
+| 
+|-
+| [[Globe Jet]] ||  || GJA ||  || 2003
+| 
+|-
+| [[Lebanese Air Transport]] || LQ || LAQ || LAT || 
+| 
+|-
+| [[Med Airways]] || 7Y || MED || FLYING CARPET || 2000
+| 
+|-
+| [[MenaJet]] || IM || MNJ || MENAJET || 2003
+| 
+|-
+| [[Middle East Airlines]] || ME || MEA || CEDAR JET || 1945
+| 
+|-
+| [[TMA Cargo]] || TL || TMA || TANGO LIMA || 1953
+| 
+|-
+| [[Wings of Lebanon]] ||  || WLB || WINGS LEBANON || 
+| 
+|}
+
+== Lihat pula ==
+* [[Daftar maskapai penerbangan]]
+
+{{Maskapai-stub}}
+
+[[Kategori:Maskapai penerbangan di Lebanon]]

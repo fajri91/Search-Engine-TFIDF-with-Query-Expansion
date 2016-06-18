@@ -1,0 +1,16 @@
+Templat:Baamang, Kotawaringin Timur
+{{Navigasi ID Desa 
+|provinsi=Kalimantan Tengah
+|dati2=Kabupaten 
+|nama dati2=Kotawaringin Timur
+|nama kecamatan=Baamang
+|d1=Tinduk
+|k1=Baamang Barat
+|k2=Baamang Hilir
+|k3=Baamang Hulu
+|k4=Baamang Tengah
+|k5=Tanah Mas
+}}<noinclude>
+[[Kategori:Templat desa/kelurahan di Kalimantan Tengah|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Kotawaringin Timur|{{PAGENAME}}]]
+</noinclude>

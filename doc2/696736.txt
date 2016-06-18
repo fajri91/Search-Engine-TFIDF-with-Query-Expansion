@@ -1,0 +1,16 @@
+Templat:Susukan, Bojonggede, Bogor
+{{Navbox
+| name = Susukan, Bojonggede, Bogor
+| listclass = hlist
+| title =[[Susukan, Bojonggede, Bogor|Desa Susukan]], [[Bojonggede, Bogor|Kecamatan Bojonggede]], [[Kabupaten Bogor]], [[Jawa Barat]]
+| group1 = Dusun
+| list1 = <div><!--
+-->[[Duren Baru, Susukan, Bojonggede, Bogor|Duren Baru]]{{}}<!--
+-->[[Parakan Jati, Susukan, Bojonggede, Bogor|Parakan Jati]]{{}}<!--
+-->[[Poncol, Susukan, Bojonggede, Bogor|Poncol]]{{}}<!--
+-->[[Susukan, Susukan, Bojonggede, Bogor|Susukan]]{{}}<!--
+-->[[Warung Jambu, Susukan, Bojonggede, Bogor|Warung Jambu]]<!--
+--></div>
+}}<noinclude>
+[[Kategori:Templat kecamatan Indonesia|Bogor, Kabupaten]]
+</noinclude>

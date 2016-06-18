@@ -1,0 +1,37 @@
+Agorius saaristoi
+{{italic title}}
+{{Taxobox
+|name = ''Agorius saaristoi''
+|status = 
+|image = 
+|image_caption = 
+|domain = [[Eukaryota]]
+|regnum = [[Animalia]]
+|phylum = [[Arthropoda]]
+|classis = [[Arachnida]]
+|ordo = [[Araneae]]
+|familia = [[Laba-laba peloncat|Salticidae]]
+|genus = Agorius
+|species = ''A. saaristoi''
+|binomial =Agorius saaristoi
+|binomial_authority =Prszynski, 2009
+|range_map = 
+|range_map_caption = 
+|image2 = 
+|image2_caption = 
+|synonyms = 
+}}
+'''''Agorius saaristoi''''' adalah spesies [[laba-laba peloncat]] dari genus [[Agorius]] dan ordo [[Araneae]].<ref>{{cite web |url=http://research.amnh.org/iz/spiders/catalog_15.0/SALTICIDAE.html |title=The World Spider Catalog, Version 15  |last1=Platnick |first1=Norman I. |date=2014 |website=[[American Museum of Natural History]] |publisher= |access-date=28 Agustus 2015}}</ref> Nama ilmiah dari spesies ini pertama kali diterbitkan pada tahun 2009 oleh Prszynski.<ref>''SalticidDB: Global Species Database of Salticidae (Araneae)''. Prszynski J., 2010-08-23</ref> Laba-laba ini biasanya banyak ditemui di [[Sabah]].<ref>{{cite web |url= http://www.catalogueoflife.org/annual-checklist/2011/details/species/id/7891180 |title= Species 2000 & ITIS Catalogue of Life: 2011 Annual Checklist.|accessdate= 28 Agustus 2015 |author= Bisby F.A., Roskov Y.R., Orrell T.M., Nicolson D., Paglinawan L.E., Bailly N., Kirk P.M., Bourgoin T., Baillargeon G., Ouvrard D. (red.)|date= 2011 |publisher= Species 2000: Reading, UK.}}</ref>
+
+== Referensi ==
+{{reflist}}
+
+== Pranala luar ==
+{{wikispecies}}
+
+{{DEFAULTSORT:Agorius saaristoi}}
+
+[[Kategori:Agorius]]
+[[Kategori:Laba-laba dari Asia]]
+
+{{labalaba-stub}}

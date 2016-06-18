@@ -1,0 +1,30 @@
+Templat:Jacques Tati
+{{Navbox
+|name = Jacques Tati
+|title = Film-film dari [[Jacques Tati]]
+|state = {{{state|autocollapse}}}
+|listclass = hlist
+|group1 = Film berjangka fitur
+|list1 = 
+* ''[[Jour de Fte]]''
+* ''[[Les Vacances de M. Hulot]]''
+* ''[[Mon Oncle]]''
+* ''[[Playtime]]''
+* ''[[Trafic]]''
+* ''[[Parade (film 1974)|Parade]]''
+
+|group2 = Film pendek
+|list2 = 
+* "[[Gai dimanche]]"
+* "[[School for Postmen]]"
+* "[[Forza Bastia]]"
+
+|group3 = Hal terkait
+|list3 =
+* ''[[The Illusionist (film 2010)|The Illusionist]]''
+
+}}<noinclude>
+{{collapsible option}}
+[[Kategori:Kotak navigasi sutradara film Perancis|Tati, Jacques]]
+
+</noinclude>

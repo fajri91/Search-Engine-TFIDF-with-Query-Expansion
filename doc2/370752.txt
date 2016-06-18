@@ -1,0 +1,77 @@
+Templat:S&P/TSX 60
+{{Navbox
+|name = S&P/TSX 60
+| listclass = hlist
+| title = Perusahaan [[S&P/TSX 60]] di [[Kanada]]
+|titlestyle = background:lightsteelblue; 
+|list1 = <div>
+{{nobr|[[Agnico-Eagle Mines]]{{}}}}
+{{nobr|[[Agrium]]{{}}}}
+{{nobr|[[ARC Resources]]{{}}}}
+{{nobr|[[Bank of Montreal]]{{}}}}
+{{nobr|[[Scotiabank|Bank of Nova Scotia]]{{}}}}
+{{nobr|[[Barrick Gold]]{{}}}}
+{{nobr|[[Bell Canada|BCE]]{{}}}}
+{{nobr|[[BlackBerry (perusahaan)|BlackBerry]]{{}}}}
+{{nobr|[[Bombardier]]{{}}}}
+{{nobr|[[Brookfield Asset Management]]{{}}}}
+{{nobr|[[Cameco]]{{}}}}
+{{nobr|[[Canadian Imperial Bank of Commerce]]{{}}}}
+{{nobr|[[Canadian National Railway]]{{}}}}
+{{nobr|[[Canadian Natural Resources]]{{}}}}
+{{nobr|[[Canadian Oil Sands]]{{}}}}
+{{nobr|[[Canadian Pacific Railway]]{{}}}}
+{{nobr|[[Canadian Tire]]{{}}}}
+{{nobr|[[Catamaran Corporation]]{{}}}}
+{{nobr|[[Cenovus Energy]]{{}}}}
+{{nobr|[[Crescent Point Energy]]{{}}}}
+{{nobr|[[Eldorado Gold]]{{}}}}
+{{nobr|[[Enbridge]]{{}}}}
+{{nobr|[[Encana]]{{}}}}
+{{nobr|[[Enerplus]]{{}}}}
+{{nobr|[[First Quantum Minerals]]{{}}}}
+{{nobr|[[Fortis Inc.]]{{}}}}
+{{nobr|[[George Weston Limited]]{{}}}}
+{{nobr|[[Gildan Activewear]]{{}}}}
+{{nobr|[[Goldcorp]]{{}}}}
+{{nobr|[[Husky Oil East Bawean Ltd|Husky Energy]]{{}}}}
+{{nobr|[[Iamgold]]{{}}}}
+{{nobr|[[Imperial Oil]]{{}}}}
+{{nobr|[[Kinross Gold]]{{}}}}
+{{nobr|[[Loblaw Companies]]{{}}}}
+{{nobr|[[Magna International]]{{}}}}
+{{nobr|[[Manulife Financial]]{{}}}}
+{{nobr|[[Metro Inc.]]{{}}}}
+{{nobr|[[National Bank of Canada]]{{}}}}
+{{nobr|[[Penn West Exploration]]{{}}}}
+{{nobr|[[Potash Corporation of Saskatchewan]]{{}}}}
+{{nobr|[[Power Corporation of Canada]]{{}}}}
+{{nobr|[[Rogers Communications]]{{}}}}
+{{nobr|[[Royal Bank of Canada]]{{}}}}
+{{nobr|[[Saputo Incorporated]]{{}}}}
+{{nobr|[[Shaw Communications]]{{}}}}
+{{nobr|[[Shoppers Drug Mart]]{{}}}}
+{{nobr|[[Silver Wheaton]]{{}}}}
+{{nobr|[[SNC-Lavalin]]{{}}}}
+{{nobr|[[Sun Life Financial]]{{}}}}
+{{nobr|[[Suncor Energy]]{{}}}}
+{{nobr|[[Talisman Energy]]{{}}}}
+{{nobr|[[Teck Resources]]{{}}}}
+{{nobr|[[Telus]]{{}}}}
+{{nobr|[[Thomson Reuters]]{{}}}}
+{{nobr|[[Tim Hortons]]{{}}}}
+{{nobr|[[Toronto-Dominion Bank]]{{}}}}
+{{nobr|[[TransAlta]]{{}}}}
+{{nobr|[[TransCanada Corporation]]{{}}}}
+{{nobr|[[Valeant Pharmaceuticals]]{{}}}}
+{{nobr|[[Yamana Gold]]}}
+</div>
+}}<noinclude>
+==Pranala luar==
+* [http://www2.standardandpoors.com/spf/csv/index/canada-tse60.csv Current list]
+* [http://www2.standardandpoors.com/portal/site/sp/en/ca/page.topic/indices_tsx60/2,3,2,3,0,0,0,0,0,3,1,0,0,0,0,0.html Updates]
+
+[[Kategori:Templat saham|S&P/TSX 60]]
+</noinclude>
+<includeonly>{{#ifeq:{{ns:0}}|{{NAMESPACE}}|[[Kategori:S&P/TSX 60 Index|{{PAGENAME}}]]
+[[Kategori:S&P/TSX Composite Index|{{PAGENAME}}]]|}}</includeonly>

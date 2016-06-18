@@ -1,0 +1,71 @@
+Mabalacat, Pampanga
+{{tambah infobox|geo-Filipina}}
+[[Berkas:Ph_locator_pampanga_mabalacat.png|right|thumb|Peta menunjukkan lokasi Mabalacat]]
+{{Philippine Census
+| title= Data sensus penduduk di Mabalacat
+| 1990= 
+| 1995= 129990
+| 2000= 171045 
+| 2007= 203307 
+| estimate=
+| estyear=
+| estref=
+}}
+
+'''Mabalacat''' adalah [[munisipalitas]] yang terletak di provinsi [[Pampanga]], [[Filipina]].
+
+Pada tahun [[2010]], munisipalitas ini memiliki populasi sebesar 203.307 jiwa dan 35.134 rumah tangga.
+
+== Pembagian wilayah ==
+
+Secara administratif Mabalacat terbagi menjadi 27 [[barangay]], yaitu:
+
+{{col|4}}
+* Atlu-Bola
+* Bical
+* Bundagul
+* Cacutud
+* Calumpang
+* Camachiles
+* Dapdap
+* Dau
+* Dolores
+* Duquit
+* Lakandula
+* Mabiga
+* Macapagal Village
+* Mamatitang
+* Mangalit
+* Marcos Village
+* Mawaque ''(Mauaque)''
+* Paralayunan
+* Poblacion
+* San Francisco
+* San Joaquin
+* Santa Ines
+* Santa Maria
+* Santo Rosario
+* Sapang Balen
+* Sapang Biabas
+* Tabun
+{{EndDiv}}
+
+== Pranala luar ==
+
+* [http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [http://www.census.gov.ph/data/sectordata/pop0.html 1995 Philippine Census Information]
+* [http://www.census.gov.ph/census2000/index.html 2000 Philippine Census Information]
+* [http://www.census.gov.ph/data/census2007/index.html 2007 Philippine Census Information]
+* [http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23&frmIdDcfCode=7&fLguType=CM&frmIdRegion=5&frmIdProvince=30&frmIdLgu=571 Local Governance Performance Management System]
+* [http://wgordon.web.wesleyan.edu/kamikaze/monuments/mabalacat-statue/index.htm Kamikaze Pilot Statue]
+* [http://smqa-staines.webs.com Catalyzer Missionaries of Pampanga Official Website]
+
+{{coord|15|13|N|120|35|E|type:city_source:GNS-enwiki|display=title}}
+{{Pampanga}}
+
+[[Kategori:Pampanga]]
+[[Kategori:Munisipalitas di Pampanga]]
+[[Kategori:Munisipalitas di Filipina]]
+
+
+{{Filipina-geo-stub}}

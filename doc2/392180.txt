@@ -1,0 +1,9 @@
+Templat:MNRR style
+{{#switch:{{{1}}}
+ | name_format = background-color: white; border-top: 10px solid #000000; font-size: 200%; font-family:Helvetica, Arial, sans-serif; font-weight: bolder; font-style: italic; line-height: 110%; text-align: left;
+ | thcolor= 000000
+ | thbgcolor= efefef
+ | display_as= Stasiun [[Metro-North Railroad]]
+}}<noinclude>
+[[Kategori:Templat Metro-North Railroad|{{PAGENAME}}]]
+</noinclude>

@@ -1,0 +1,25 @@
+Dragmacidon durissimum
+{{Taxobox |name = Dragmacidon durissimum
+|regnum = [[Hewan|Animalia]]
+|subregnum = [[Parazoa]]
+|phylum = [[Porifera]]
+|classis = [[Demospongiae]]
+|ordo = [[Halichondrida]]
+|familia = [[Axinellidae]]
+|genus = [[Dragmacidon]]
+|species = Dragmacidon durissimum
+|binomial_authority =Dendy, 1905
+}}
+'''''Dragmacidon durissimum''''' adalah [[spesies]] [[spons]] yang tergolong dalam kelas [[Demospongiae]]. Spesies ini juga merupakan bagian dari genus Dragmacidon dan [[familia]] Axinellidae. Nama ilmiah spesies ini pertama kali diterbitkan pada tahun 1905 oleh Dendy.
+
+Seperti spons pada umumnya, spesies ini memiliki tubuh yang berpori dan permukaan yang keras seperti [[batu]]. Selain itu, Dragmacidon durissimum juga dapat menyerap [[oksigen]] dari [[air]] melalui proses [[difusi]].
+
+== Referensi ==
+
+* ''WoRMS Porifera: World Porifera Database''. Soest R. van (ed), 22 Oktober 2008.
+
+{{DEFAULTSORT:Dragmacidon durissimum}}
+
+[[Kategori:Demospongiae]]
+
+{{porifera-stub}}

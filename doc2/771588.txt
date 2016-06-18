@@ -1,0 +1,40 @@
+Templat:Asteroid Apollo - 5xxx
+{{Navbox
+|name  = Asteroid Apollo - 5xxx
+|title = [[Asteroid Apollo]] (5xxx)
+|image=
+|state = collapsed
+|bodyclass = hlist
+|above = 
+
+|list1 =
+*[[(5131) 1990 BG]]
+*[[(5189) 1990 UQ]]
+*[[(52340) 1992 SY]]
+*[[(52750) 1998 KK17]]
+*[[(52760) 1998 ML14]]
+*[[(52762) 1998 MT24]]
+*[[(53319) 1999 JM8]]
+*[[(53409) 1999 LU7]]
+*[[(53426) 1999 SL5]]
+*[[(53429) 1999 TF5]]
+*[[(53550) 2000 BF19]]
+*[[(5496) 1973 NA]]
+*[[(55408) 2001 TC2]]
+*[[(55532) 2001 WG2]]
+*[[(5645) 1990 SP]]
+*[[(5660) 1974 MA]]
+*[[(5693) 1993 EA]]
+*[[(5828) 1991 AM]]
+
+*[[5011 Ptah]]
+*[[5143 Heracles]]
+*[[54509 YORP]]
+*[[5731 Zeus]]
+*[[5786 Talos]]
+
+|below = {{Portal|Astronomi}}
+}}<noinclude>
+[[Kategori:Asteroid Apollo| ]]
+[[Kategori:Templat navigasi asteroid]]
+</noinclude>

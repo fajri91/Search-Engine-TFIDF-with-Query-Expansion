@@ -1,0 +1,15 @@
+Berkas:Program Type (Program-plc.blogspot.com).PNG
+== {{int:filedesc}} ==
+{{Information
+| description    =
+Contoh Gambar Setting Type Pemrograman Untuk PLC Mitsubishi'
+hak cipta (n) 2009 http://program-plc.blogspot.com/
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{GFDL-self}}

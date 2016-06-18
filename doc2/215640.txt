@@ -1,0 +1,67 @@
+Media transmisi
+'''Media transmisi''' adalah [[media]] yang menghubungkan antara pengirim dan penerima informasi ([[data]]), karena jarak yang jauh, maka data terlebih dahulu diubah menjadi [[kode]]/[[isyarat]], dan isyarat inilah yang akan dimanipulasi dengan berbagai macam cara untuk diubah kembali menjadi data.
+
+== Kegunaan media transmisi ==
+Media transmisi digunakan pada beberapa peralatan elektronika untuk menghubungkan antara pengirim dan penerima supaya dapat melakukan pertukaran data. Beberapa alat [[elektronika]], seperti [[telepon]], [[komputer]], [[televisi]], dan [[radio]] membutuhkan media transmisi untuk dapat menerima data. Seperti pada pesawat telepon, media transmisi yang digunakan untuk menghubungkan dua buah telepon adalah [[kabel]]. Setiap peralatan elektronika memiliki media transmisi yang berbeda-beda dalam pengiriman datanya.
+
+== Karakteristik media transmisi ==
+Karakteristik media transmisi ini bergantung pada:
+* Jenis alat elektronika
+* Data yang digunakan oleh alat elektronika tersebut
+* Tingkat keefektifan dalam pengiriman data
+* Ukuran data yang dikirimkan
+
+== Jenis media transmisi ==
+=== Guided Transmission Media ===
+Guided transmission media atau media transmisi terpandu merupakan [[jaringan]] yang menggunakan [[sistem]] kabel.
+
+==== Twisted Pair Cable ====
+Twisted pair cable atau kabel pasangan berpilin terdiri dari dua buah konduktor yang digabungkan dengan tujuan untuk mengurangi atau meniadakan interferensi elektromagnetik dari luar seperti [[radiasi elektromagnetik]] dari kabel Unshielded Twisted Pair (UTP), dan ''[[crosstalk]]'' yang terjadi di antara kabel yang berdekatan. 
+
+'''Ada dua macam Twisted Pair Cable, yaitu :''' 
+
+# Kabel STP (Shielded Twisted Pair) yang merupakan salah satu jenis kabel yang digunakan dalam jaringan komputer. Kabel ini berisi dua pasang kabel (empat kabel) yang setiap pasang dipilin. Kabel STP lebih tahan terhadap gangguan yang disebebkan posisi kabel yang tertekuk. Pada kabel STP attenuasi akan meningkat pada frekuensi tinggi sehingga menimbulkan ''crosstalk'' dan sinyal ''[[hidung]]''. 
+# Kabel UTP (Unshielded Twisted Pair) yang banyak digunakan dalam instalasi jaringan komputer. Kabel ini berisi empat pasang kabel yang tiap pasangnya dipilin (twisted). Kabel ini tidak dilengkapi dengan pelindung (unshilded). Kabel UTP mudah dipasang, ukurannya kecil, dan harganya lebih murah dibandingkan jenis media lainnya. Kabel UTP sangat rentan dengan efek interferensi elektris yang berasal dari media di sekelilingnya.
+
+==== Coaxial Cable ====
+[[Kabel koaksial]] adalah suatu jenis kabel yang menggunakan dua buah konduktor. Kabel ini banyak digunakan untuk mentransmisikan [[sinyal]] [[frekuensi]] tinggi mulai 300 kHz keatas. Karena kemampuannya dalam menyalurkan frekuensi tinggi tersebut, maka sistem transmisi dengan menggunakan kabel koaksial memiliki kapasitas [[kanal]] yang cukup besar. Ada beberapa jenis kabel koaksial, yaitu thick coaxial cab le (mempunyai diameter besar) dan thin coaxial cable (mempunyai diameter lebih kecil). 
+
+'''Keunggulan kabel koaksial''' adalah dapat digunakan untuk menyalurkan [[informasi]] sampai dengan 900 kanal telepon, dapat ditanam di dalam tanah sehingga biaya perawatan lebih rendah, karena menggunakan penutup isolasi maka kecil kemungkinan terjadi interferensi dengan sistem lain. 
+
+'''Kelemahan kabel koaksial''' adalah mempunyai redaman yang relatif besar sehingga untuk hubungan jarak jauh harus dipasang repeater-repeater, jika kabel dipasang diatas tanah, rawan terhadap gangguan-gangguan fisik yang dapat berakibat putusnya hubungan.
+
+==== Fiber Optic Kabel Kaca====
+[[Serat optik]] adalah saluran transmisi yang terbuat dari [[kaca]] atau [[plastik]] yang digunakan untuk mentransmisikan sinyal [[cahaya]] dari suatu tempat ke tempat lain. Berdasarkan mode transmisi yang digunakan serat optik terdiri atas Multimode Step Index, Multimode Graded Index, dan Singlemode Step Index. 
+
+'''Keuntungan serat optik''' adalah lebih murah, bentuknya lebih ramping, [[kapasitas]] transmisi yang lebih besar, sedikit sinyal yang hilang, data diubah menjadi sinyal cahaya sehingga lebih cepat, [[tenaga]] yang dibutuhkan sedikit, dan tidak mudah terbakar. 
+
+'''Kelemahan serat optik''' antara lain biaya yang mahal untuk peralatannya, memerlukan konversi data listrik ke cahaya dan sebaliknya yang rumit, memerlukan peralatan khusus dalam prosedur pemakaian dan pemasangannya, serta untuk perbaikan yang kompleks membutuhkan tenaga yang ahli di bidang ini.
+
+=== Unguided Transmission Media ===
+Unguided transmission media atau media transmisi tidak terpandu merupakan jaringan yang menggunakan sistem [[gelombang]].
+
+==== Gelombang mikro ====
+[[Gelombang mikro]] (microwave) merupakan bentuk gelombang radio yang beroperasi pada frekuensi tinggi (dalam satuan gigahertz), yang meliputi kawasan UHF, SHF dan EHF. Gelombang mikro banyak digunakan pada sistem jaringan [[MAN]], warnet dan penyedia layanan internet ([[ISP]]). 
+
+'''Keuntungan menggunakan gelombang mikro''' adalah [[akuisisi]] antar [[menara]] tidak begitu dibutuhkan, dapat membawa jumlah data yang besar, biaya murah karena setiap tower [[antena]] tidak memerlukan lahan yang luas, frekuensi tinggi atau gelombang pendek karena hanya membutuhkan antena yang kecil. 
+
+'''Kelemahan gelombang mikro''' adalah rentan terhadap cuaca seperti hujan dan mudah terpengaruh [[pesawat terbang]] yang melintas di atasnya.
+
+==== Satelit ====
+[[Satelit]] adalah media transmisi yang fungsi utamanya menerima sinyal dari stasiun bumi dan meneruskannya ke stasiun bumi lain. Satelit yang mengorbit pada ketinggian 36.000 km di atas bumi memiliki ''angular orbital velocity'' yang sama dengan ''orbital velocity'' bumi. Hal ini menyebabkan posisi satelit akan relatif stasioner terhadap bumi (geostationary), apabila satelit tersebut mengorbit di atas khatulistiwa. Pada prinsipnya, dengan menempatkan tiga buah satelit ''geostationary'' pada posisi yang tepat dapat menjangkau seluruh permukaan bumi. 
+
+'''Keuntungan satelit''' adalah lebih murah dibandingkan dengan menggelar kabel antar benua, dapat menjangkau permukaan bumi yang luas, termasuk daerah terpencil dengan populasi rendah, meningkatnya trafik [[telekomunikasi]] antar [[benua]] membuat sistem satelit cukup menarik secara komersial. 
+
+'''Kekurangannya satelit''' adalah keterbatasan [[teknologi]] untuk penggunaan antena satelit dengan ukuran yang besar, biaya [[investasi]] dan [[asuransi]] satelit yang masih mahal, ''atmospheric losses'' yang besar untuk frekuensi di atas 30 GHz membatasi penggunaan ''frequency carrier.''
+
+Adalah jenis dari microwave yang menggunakan satellite untuk mengirimkan sinyal ke transmitter atau parabola. Satellite microwave mengirimkan sinyal secara menyeluruh ke setiap transmitter.
+
+==== Inframerah ====
+[[Inframerah]] biasa digunakan untuk [[komunikasi]] jarak dekat, dengan [[kecepatan]] 4 Mbps. Dalam penggunaannya untuk pengendalian jarak jauh, misalnya [[remote control]] pada televisi serta alat elektronik lainnya. Keuntungan inframerah adalah kebal terhadap interferensi radio dan elekromagnetik, inframerah mudah dibuat dan murah, instalasi mudah, mudah dipindah-pindah, keamanan lebih tinggi daripada gelombang radio. Kelemahan inframerah adalah jarak terbatas, tidak dapat menembus dinding, harus ada lintasan lurus dari pengirim dan penerima, tidak dapat digunakan di luar ruangan karena akan terganggu oleh cahaya [[matahari]].
+
+== Referensi ==
+* Grant, August E. & Meadows, Jennifer H. (2008). Communication Technology Update and Fundamental. (ed. 06). Boston: Focal Press. Page 46.
+* Straubhaar, Joseph & LaRose, Robert. (2004). Media Now: Communications Media in the Information Age. Belmont, CA: Wadsworth. Page 30-63.
+* Alaydrus, Mudrik (2009). Saluran Transmisi Telekomunikasi. Jogjakarta: Graha Ilmu.
+
+[[Kategori:Telekomunikasi]]

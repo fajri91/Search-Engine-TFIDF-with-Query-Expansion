@@ -1,0 +1,37 @@
+Perangkat lunak wiki
+'''Perangkat lunak wiki''' (juga disebut '''mesin wiki''' atau '''aplikasi wiki''') adalah sebuah [[groupware|perangkat lunak kolaboratif]] yang menjalankan [[wiki]], misalnya sebuah [[situs web]] yang mengizinkan penggunanya untuk membuat dan menyunting [[halaman web]] melalui sebuah [[peramban web]]. Sistem wiki biasanya adalah sebuah [[aplikasi web]] yang berjalan pada satu atau beberapa [[server web]]. Isinya, termasuk seluruh revisinya, biasanya disimpan dalam [[sistem berkas]] atau [[basis data]].
+
+Perangkat lunak wiki awalnya ditemukan dan diciptakan oleh pemrogram [[Ward Cunningham]] pada tahun 1995. Saat ini ada belasan mesin wiki yang aktif dikelola, dalam berbagai [[bahasa pemrograman]], termasuk aplikasi [[sumber terbuka]] dan [[perangkat lunak milik perorangan]] (''proprietary'').
+
+==Sejarah==
+Aplikasi wiki pertama, [[WikiWikiWeb]], dibuat oleh pemrogram komputer dari Amerika [[Ward Cunningham]] pada tahun 1994, dan diluncurkan di c2.com pada tahun 1995.<ref>''The Wiki Way. Quick collaboration on the Web'', Addison-Wesley (April 2001) ISBN 0-201-71499-X</ref> "WikiWikiWeb" juga merupakan nama wiki yang berjalan pada perangkat lunak tersebut, dan pada tahun pertama adanya wiki tidak ada perbedaan besar antara isi wiki dan perangkat lunak yang menjalankannya, karena hampir semua wiki berjalan pada perangkat lunaknya sendiri yang telah dikustomisasi.
+
+==Catatan kaki==
+{{reflist}}
+
+{{software-stub}}
+
+[[Kategori:Perangkat lunak]]
+
+[[ar: ]]
+[[ca:Programari viqui]]
+[[de:Enterprise Wiki]]
+[[de:Wiki-Software]]
+[[en:Wiki software]]
+[[es:Software para wikis]]
+[[fa: ]]
+[[fa: ()]]
+[[fr:Moteur de wiki]]
+[[fr:Wiki d'entreprise]]
+[[it:Software wiki]]
+[[ja:]]
+[[ko: ]]
+[[nl:Bedrijfswiki]]
+[[nl:Wikisoftware]]
+[[pt:Software wiki]]
+[[pt:Wiki empresarial]]
+[[ru:-]]
+[[sv:Wikiprogramvara]]
+[[th:]]
+[[tl:Wiki software]]
+[[zh:Wiki]]

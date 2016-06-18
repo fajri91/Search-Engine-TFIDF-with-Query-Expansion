@@ -1,0 +1,11 @@
+Templat:Silsilah Naipospos
+<center>{{familytree/start}}
+{{familytree| | | | | | | | | RJN | |RJN=[[Naipospos|Raja<br/>Naipospos]]<br />}}
+{{familytree| |,|-|-|-|v|-|-|-|+|-|-|-|v|-|-|-|.|}}
+{{familytree| DHS | | DUH | | UTS | | JMS | | MRB | |DHS=[[Sibagariang]]<br />|DUH=[[Hutauruk]]<br />|UTS=[[Simanungkalit]]<br />|JMS=[[Situmeang]]<br />|MRB=[[Marbun]]<br />}}
+{{familytree| | | | | | | | | | | | | |,|-|-|-|+|-|-|-|.| |}}
+{{familytree| | | | | | | | | | | | | MLB | | MBN | | MLG | |MLB=[[Lumban Batu]]<br />|MBN=[[Banjar Nahor]]<br />|MLG=[[Lumban Gaol]]<br />}}
+{{familytree| | | | | | | | | | | | | | | | | | | | | | | | |}}
+{{familytree/end}}</center><noinclude>
+[[Kategori:Templat silsilah|{{PAGENAME}}]]
+</noinclude>

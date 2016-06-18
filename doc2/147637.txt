@@ -1,0 +1,2 @@
+Templat:JPL Small Body
+''[[Jet Propulsion Laboratory|JPL]] Small-Body Database Browser'' di [http://ssd.jpl.nasa.gov/sbdb.cgi?sstr={{urlencode:{{{1|{{{name|{{PAGENAME}}}}}}}}}} {{{1|{{{name|{{PAGENAME}}}}}}}}]<noinclude>[[Kategori:Templat referensi]]</noinclude>

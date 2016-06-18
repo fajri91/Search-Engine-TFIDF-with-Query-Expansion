@@ -1,0 +1,15 @@
+Templat:Aek Latong, Aek Bilah, Tapanuli Selatan
+{{Navbox
+| name = Aek Latong, Aek Bilah, Tapanuli Selatan
+| listclass = hlist
+| title =[[Aek Latong, Aek Bilah, Tapanuli Selatan|Desa Aek Latong]], [[Aek Bilah, Tapanuli Selatan|Kecamatan Aek Bilah]], [[Kabupaten Tapanuli Selatan]], [[Sumatera Utara]]
+| group1 = Dusun
+| list1 = <div><!--
+-->[[Aek Horsik, Aek Latong, Aek Bilah, Tapanuli Selatan|Aek Horsik]]{{}}<!--
+-->[[Aek Pisang, Aek Latong, Aek Bilah, Tapanuli Selatan|Aek Pisang]]{{}}<!--
+-->[[Padang Panjang, Aek Latong, Aek Bilah, Tapanuli Selatan|Padang Panjang]]
+</div>
+}}<noinclude>
+Referensi: http://tapanuliselatankab.bps.go.id/?hal=publikasi_detil&id=189
+[[Kategori:Templat kecamatan Indonesia|Tapanuli Selatan, Kabupaten]]
+</noinclude>

@@ -1,0 +1,42 @@
+How Wikipedia Works
+{{Infobox Book
+| name          = How Wikipedia Works
+| image         = File:hww-cover.jpg
+| image_caption =
+| author        = (trio Wikipediawan) Phoebe Ayers, Charles Matthews, Ben Yates
+| country       = [[Amerika Serikat]]
+| language      = [[bahasa Inggris|Inggris]]
+| series        = 
+| subject       = [[Wikipedia]]
+| genre         = [[Referensi]]
+| publisher     = [[No Starch Press]]
+| pub_date      = 2008
+| media_type    = paperback
+| isbn          = 1-59327-176-X
+| dewey= 030 22
+| congress= AE1.5 .A98 2008
+| oclc= 185698411
+}}
+'''''How Wikipedia Works''''' adalah sebuah buku tahun 2008 karya Phoebe Ayers, Charles Matthews, dan Ben Yates. Buku ini adalah referensi [[bagaimana cara]] untuk menggunakan dan menyumbang ke ensiklopedia [[Wikipedia]] yang ditargetkan pada "mahasiswa, profesor, dan pakar dan penggemar sehari-hari". Buku ini menawarkan bagian khusus untuk guru, pengguna kembali, dan peneliti.<ref name="review">[http://www.1776productions.com/SBR_October_08.pdf Book review] in the Sacramento Book Review, Vol. 1 Iss. 2, October, 2008, p.19.</ref> 
+
+''How Wikipedia Works (And How You Can Be a Part of It)'' diterbitkan oleh [[No Starch Series]], bagian dari serial mereka tentang buku bagaimana cara teknik. [[The Register]] menyebutnya "sumber utama untuk informasi tentang sumber utama informasi dunia."<ref name="Reg">[http://www.theregister.co.uk/2008/10/07/regbooks_wikipedia_200810/ How Wikipedia Works], a review by the Geek Guide<sub>2</sub>, October 7, 2008</ref> Buku ini dipublikasikan di bawah [[GNU Free Documentation License]].<ref name="howwikipediaworks.com">It was made available for [http://howwikipediaworks.com/how-wikipedia-works.zip free download] on publication.  It includes an explicit History appendix, listing every page revision referenced in the book along with a list of authors for each page.</ref> Buku ini lebih dirancang sebagai karya referensi dibanding panduan bagaimana cara, dengan bibliografi mendetail untuk setiap bagian.
+
+== Lihat pula ==
+* [[Wikipedia  The Missing Manual]]
+* [[Jimbo Wales]]
+
+==Catatan kaki==
+{{Reflist}}
+
+==Pranala luar==
+* [http://nostarch.com/wikipedia_rev.htm Reviews of the book] at No Starch Press
+* [http://howwikipediaworks.com/ Full text available for download at the official website howwikipediaworks.com]
+* [http://books.google.com/books?id=lHdi1CEPLb4C How Wikipedia Works], a full, free copy of the book available through [http://en.wikipedia.org/wiki/Google_Books Google Books].
+
+{{wikibooks}}
+{{Seputar Wikipedia}}
+{{buku-stub}}
+{{Wikipedia-stub}}
+
+[[Kategori:Buku tahun 2008]]
+[[Kategori:Buku tentang Wikipedia]]

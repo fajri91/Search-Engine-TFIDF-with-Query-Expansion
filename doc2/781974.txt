@@ -1,0 +1,23 @@
+Oph 162225-240515
+{{starbox begin| name = Oph 162225-240515}}
+{{starbox observe| ra=16:22:25| dec=24 05 15| constell=Ophiuchus| dist_ly=400| dist_pc=140| epoch=J2000}}
+{{starbox end}}
+'''Oph 162225-240515''', yang sering disingkat '''Oph1622''', adalah sepasang [[planet katai coklat]] yang dikabarkan mengorbit satu sama lain. Badannya terletak di [[konstelasi]] [[Ophiuchus]] dan jauhnya sekitar 400 [[tahun cahaya]].
+
+Penemuan pasangan planet katai tersebut diumumkan dalam sebuah artikel Ilmu Pengetahuan 2006 oleh [[Ray Jayawardhana]] dan [[Valentin D. Ivanov]]
+.<ref name="Jay">{{citation|last1=Jayawardhana | first1=R. | last2=Ivanov | first2=V. D.|date=September 2006|journal=[[Science (jurnal)|Science]]|title=Discovery of a young planetary-mass binary|volume=313|issue=5791|pages=12791281|bibcode=2006Sci...313.1279J|doi=10.1126/science.1132128|pmid=16888101}}</ref> Obyek-objek tersebut ditemukan menggunakan Teleskop Teknologi Baru di [[Observatorium Eropa Selatan]] di [[La Silla]], [[Chili]].
+
+==Referensi==
+{{Reflist}}
+
+==Pranala luar==
+* http://www.sciencedaily.com/releases/2006/08/060804084105.htm
+* http://www.spacedaily.com/reports/Astronomers_Discover_Twin_Planemos_999.html
+* http://www.space.com/scienceastronomy/060803_planemo_twins.html
+* http://news.bbc.co.uk/1/hi/sci/tech/5241774.stm
+
+{{Bintang Ophiuchus}}
+
+[[Kategori:Ophiuchus (konstelasi)]]
+[[Kategori:Planet katai coklat]]
+[[Kategori:Scorpius Atas]]

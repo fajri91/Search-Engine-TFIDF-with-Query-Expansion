@@ -1,0 +1,16 @@
+HTTP 301
+{{HTTP}} [[Daftar kode status HTTP|Kode status]] tanggap '''301 Moved Permanently''' digunakan untuk pengalihan permanen. Kode status ini digunakan bersama kepala [[lokasi HTTP|lokasi]]. RFC 2616 menyatakan bahwa:
+* Jika seorang klien memiliki kemampuan menyunting tautan, maka ia harus memutakhirkan semua rujukan terhadap Request URI.
+* Tanggapannya dapat disinggahkan.
+* Kecuali metode permintaannya adalah HEAD, maka entitas ini harus memiliki catatan hiperteks kecil dengan hipertautan menuju URI baru.
+* Jika kode status 301 diterima sebagai tanggapan terhadap permintaan jenis apapun kecuali GET atau HEAD, maka klien harus memberitahu pengguna sebelum mengalihkan. 
+
+== Contoh ==
+Permintaan klien: <pre> GET /index.php HTTP/1.1 Host: www.example.org </pre> Tanggapan peladen: <pre> HTTP/1.1 301 Moved Permanently Location: http://www.example.roby/index.php </pre>
+
+== Lihat pula ==
+* [[Protokol Transfer Hiperteks]]
+* [[Daftar kode status HTTP]]
+{{web-stub}}
+
+[[Kategori:Kode status HTTP]]

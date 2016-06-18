@@ -1,0 +1,41 @@
+Teleostei
+{{taxobox
+| fossil_range = {{Fossil range|Early Triassic|Recent}}<ref name=Palmer/><ref>"The Paleobiology Database." The Paleobiology Database. N.p., n.d. Web. 14 June 2013. <http://paleodb.org/?a=basicTaxonInfo&taxon_no=202677>.</ref>
+| image = F de Castelnau-poissonsPl12.jpg
+| image_width = 250px
+| image_caption = Plate from [[Francis de Laporte de Castelnau]], ''Expdition...'' (1856):<br> Top to bottom:<br />''[[Retroculus lapidifer]]'' ([[Perciformes]]: [[Cichlidae]])<br />[[Hairy Blenny]], ''[[Labrisomus nuchipinnis]]''<br />([[Perciformes]]: [[Labrisomidae]])<br />''[[Ogcocephalus notatus]]''<br />([[Lophiiformes]]: [[Ogcocephalidae]])<br />[[Acanthurus coeruleus|Blue Tang]], ''Acanthurus coeruleus''<br />([[Perciformes]]: [[Acanthuridae]])
+| regnum = [[Animal]]ia
+| phylum = [[Chordate|Chordata]]
+| subphylum = [[Vertebrata]]
+| superclassis = [[Osteichthyes]]
+| classis = [[Actinopterygii]]
+| subclassis = [[Neopterygii]]
+| infraclassis = '''Teleostei'''
+| subdivision_ranks = Superorders
+| subdivision =
+[[Osteoglossomorpha]]<br />
+[[Elopomorpha]]<br />
+[[Clupeomorpha]]<br />
+[[Ostariophysi]]<br />
+[[Protacanthopterygii]]<br />
+[[Stenopterygii]]<br />
+[[Cyclosquamata]]<br />
+[[Scopelomorpha]]<br />
+[[Lampridiomorpha]]<br />
+[[Polymyxiomorpha]]<br />
+[[Paracanthopterygii]]<br />
+[[Acanthopterygii]]}}
+
+'''Teleostei''' adalah [[ikan]] termasuk suku ikan [[sirip]] tulang,masuk jenis [[ikan laut]] maupun ikan air tawar biasa.<ref name="Ens">{{id}}Hassan Shadily & Redaksi Ensiklopedi Indonesia (Red & Peny)., Ensiklopedi Indonesia Jilid 6 (SHI-VAJ). Jakarta: Ichtiar Baru-van Hoeve, hal. 3484</ref> Teleostoi adalah satu dari tiga kelas ikan ''[[Actinopterygii]]''<ref name = Palmer>{{cite book|last = Palmer|first = Douglas|title = The Marshall Illustrated Encyclopedia of Dinosaurs & Prehistoric animals|publisher = Marshall Editions Developments Ltd|year = 1999|location = London|isbn = 3-8290-6747-X}}</ref> termasuk 26,840 spesies  yang masih ada dalam 40 sub kelas dan 448 keluarga; sub kelas yang paling bertahan hidup dalam kelompoknya.<ref>Miller, Stephen, and John P. Harley. Zoology, Seventh Edition, pg 297. McGraw-Hill Higher Education. New York, 2007.</ref> Dua infra-kelas yang lain, ''Holostei'' dan ''Chondrostei'', mungkin paraphyletic.<ref name="benton">{{cite book|last = Benton|first = Michael J.|title = [[Vertebrate Paleontology (Benton)|Vertebrate Paleontology]]|publisher = Chapman & Hall|year = 1990|location = London|isbn = 0-412-54010-X}}</ref> Jumlah jenisnya amat banyak.<ref name="Ens"/> Dapat dibagi dalam 10 suku renik atau lebih.<ref name="Ens"/> Jumlah yang banyak itu dibagi dalam dua golongan, yaitu (1) Physoclysti, golongan ikan ber[[duri]] pada sirip [[punggung]] dan sirip dubur, sedangkan gelembung renangnya tidak dihubungkan dengan usus oleh pembuluh udara; (2) ''Physostoma, golongan ikan tulang yang siripnya lunak, gelembung renangnya dihubungkan dengan usus oleh pembuluh udara.<ref name="Ens"/>
+
+==Ciri fisik==
+Teleostei adalah ikan yang memiliki rangka terdiri tulang, insang terletak dalam rongga yang tertutup tutup-insang.<ref name="Ens"/>  Permukaan badan ikan teleostoi memiliki sisik dan tertutup sirip tipis.<ref name="Ens"/>
+
+==Cara bekembang biak==
+Pada ikan teleostei, ovarium berupa sepasang organ yang terletak di rongga tubuh.<ref name="ghu">{{id}}M. Ghufran H. Kordi K. & Andi Tamsil., Pembenihan Ikan Laut Ekonomis Secara Buatan. Yogyakarta: Penerbit Andi, 2010, hal. 77-78</ref> Rongga [[ovarium]] berlanjut dengan saluran telur yang terbuka ke arah ovapore pada papila orogenital.<ref name="ghu"/> Pada sebagian spesies, pasangan ovarium menjadi satu organ.<ref name="ghu"/> Pada ikan teleostei jantan, testis termasuk gabungan dari lobul-lobul, di dalam lobul tersebut spermatogonia primer mengalami proses meiosis berkali-kali untuk menghasilkan kista spermatogonia.<ref name="ghu"/>
+
+==Referensi==
+{{Reflist}}
+
+[[Kategori:Ikan]]
+[[Kategori:Biologi]]

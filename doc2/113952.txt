@@ -1,0 +1,47 @@
+Suku bunga
+'''Bunga''' adalah imbal jasa atas pinjaman uang. Imbal jasa ''cipal''. Persentase dari pokok utang yang dibayarkan sebagai imbal jasa ( bunga ) dalam suatu periode tertentu disebut "'''suku bunga'''"
+
+== Jenis bunga ==
+
+=== Bunga sederhana ===
+
+'''Bunga sederhana''': merupakan hasil dari pokok utang, suku bunga per periode, dan lamanya waktu peminjaman.
+
+Rumusan bunga sederhana yaitu: c=pbw, di mana c (bunga sederhana) merupakan hasil dari p (pokok utang), b (bunga), dan w (waktu).
+Contohnya: Wiki meminjam Rp 230.000.000 untuk membeli sebuah mobil baru, dengan suku bunga sebesar 9.5% per tahun dan masa pinjaman adalah 5 tahun maka bunganya adalah
+<blockquote>Rp. 230.000.000 * 0.095 * 5 = Rp. 109.250.000</blockquote>
+
+Bunga sederhana untuk pinjaman Wiki adalah Rp. 109.250.000, maka total pembayaran pokok utang ditambah bunganya adalah Rp. 339.250.000.
+
+Contoh lainnya, misalnya pokok utangnya adalah Rp. 100.000 :
+* Utang [[kartu kredit]] di mana dikenakan biaya sebesar Rp. 1.000 per harinya maka 1.000/100.000 = 1%/perhari.
+* [[Obligasi swasta]] di mana pembayaran [[kupon (obligasi)|kupon bunga]] pertamanya adalah sebesar Rp 3.000 setelah 6 bulan sejak tanggal penerbitan [[obligasi]] dan pembayaran kupon keduanya adalah Rp. 3.000 pada saat akhir tahun maka hasilnya adalah : (3.000+3.000)/100.000 = 6%/year.
+* Bunga [[Deposito]] yang dibayarkan pada akhir tahun sebesar Rp. 6.000 maka perhitungannya adalah : 6.000/100.000 = 6%/year.
+
+=== Bunga berbunga ===
+'''Bunga berbunga''' atau disebut juga '''bunga majemuk''': nilai pokok utang ini akan berubah terus setiap akhir suatu periode dengan penambahan perhitungan bunga . misalnya pokok hutang adalah 1.000 dengan bunga 5%/tahun maka periode tahun pertama pokok hutangnya menjadi 1000+(1.000*5%) = 1.050. Pada periode tahun berikutnya maka perhitungannya menjadi 1050+(1050*5%)= 1.102,50.
+
+==== Suku bunga tetap dan mengambang ====
+* "Suku bunga tetap" adalah suku bunga pinjaman tersebut tidak berubah sepanjang masa kredit.
+* "Suku bunga mengambang" adalah suku bunga yang berubah-ubah selama masa kredit berlangsung dengan mengikuti suatu [[kurs referensi]] tertentu seperti misalnya [[LIBOR]] di mana cara perhitungannya dengan menggunakan sistem penambahan marjin terhadap kurs referensi.
+
+Kombinasi atas suku bunga tetap dan mengambang ini dimungkinkan serta sering digunakan. Misalnya pada suatu [[kredit pemilikan rumah]] di mana disepakati bahwa hingga tahun ketiga bunganya adalat tetap yaitu 8.5% dan bunga untuk tahun selanjutnya akan ditetapkan sebesar 2% di atas LIBOR.
+
+== Lihat pula ==
+* [[Kredit]]
+* [[Carry trade]]
+
+== Bacaan lanjut ==
+* {{cite book|author = Duffie, Darrell and Kenneth J. Singleton|title = Credit Risk: Pricing, Measurement, and Management|year = 2003|publisher = Princeton University Press|id=ISBN13 978-0691090467 }}
+* {{cite book|author = Lando, David|title = Credit Risk Modeling: Theory and Applications|year = 2004|publisher = Princeton University Press|id =ISBN13 978-0691089294 }}
+* {{cite book|author = van Deventer, Donald R. and Kenji Imai|title = Credit Risk Models and the Basel Accords|year = 2003|publisher = John Wiley & Sons|id = ISBN13 978-0470820919}}
+
+== Pranala luar ==
+* [http://www.webmath.com/simpinterest.html Simple Interest Calculator]
+* [http://www.webmath.com/compinterest.html Compound Interest Calculator]
+* [http://www.numericalexample.com/content/view/23/27 Compound interest calculator,] taking periodic savings, taxes and inflation into account.
+* [https://uangteman.com/blog/berita-uang/apa-tempat-terbaik-untuk-pinjam-uang-bunga-ringan/ Pinjaman Uang Bunga Ringan]
+
+[[Kategori:Ekonomi]]
+[[Kategori:Keuangan]]
+[[Kategori:Perbankan]]

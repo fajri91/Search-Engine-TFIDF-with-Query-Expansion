@@ -1,0 +1,47 @@
+Szigetvr
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+|settlement_type        = <!--For Town or Village (Leave blank for the default City)-->
+|image_shield =HUN_Szigetvr_COA.jpg
+| image_skyline           = Szigetvr - Castle.jpg
+| imagesize               = 
+| image_alt               = 
+| image_caption           = Aerial Photography: Szigetvr - Castle
+| coordinates_region      = HU
+| subdivision_type        = [[Negara]]
+| subdivision_name        = {{HUN}}
+| latd                    = 46.048269
+| longd                   = 17.812569
+
+<!--If coordinates are filled in above remove ed notes from "Hungary" in pushpin_map field to display map-->
+|pushpin_map            = Hungary
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =
+|pushpin_mapsize        =
+|timezone=[[Central European Time|CET]]
+|utc_offset=+1
+|timezone_DST=[[Central European Summer Time|CEST]]
+|utc_offset_DST=+2
+|
+official_name=Szigetvr|
+subdivision_type1=[[County]]|
+subdivision_name1=Baranya|
+area_total_km2=39.51|
+population_as_of=2009|
+population_total=10900|population_footnotes=|
+population_density_km2=288.33||postal_code_type=[[Postal code]]|
+postal_code=7900|
+area_code=73|
+}}
+'''Szigetvr''' ({{lang-hr|Siget}}, {{lang-sr|Siget / }}, {{lang-tr|Zigetvar}}) adalah kota yang terletak di [[County Baranya]], [[Hongaria]] selatan. Pada tahun 2009, kota ini memiliki jumlah penduduk sekitar 10.900 jiwa.
+
+Benteng kota ini merupakan latar bagi [[Pertempuran Szigetvr]] tahun 1566.
+
+== Pranala luar ==
+* {{official|www.szigetvar.hu/}}
+
+{{Coord|46|03|N|17|48|E|region:HU_type:city|display=title}}
+
+[[Kategori:Kota di Hongaria]]
+
+
+{{Hongaria-geo-stub}}

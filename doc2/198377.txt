@@ -1,0 +1,2 @@
+Templat:Template doc/Preload
+#ALIH [[Templat:Dokumentasi/preload]]{{A templat}}

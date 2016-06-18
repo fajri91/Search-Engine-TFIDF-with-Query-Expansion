@@ -1,0 +1,86 @@
+Civilization
+{{Infobox CVG| title = Civilization
+|developer = [[MicroProse]]
+|publisher = [[MicroProse]]
+|designer = [[Sid Meier]]
+|engine = 
+|released = [[1991]]
+|genre = [[Simulasi]]/[[strategi]]
+|modes = [[Satu pemain]]
+|ratings = [[ESRB]]: Kids to Adults (KA)
+|platforms = [[MS-DOS]], [[Apple Macintosh|Macintosh]], [[Amiga]]
+|media = [[Disket]], [[Cakram padat]]
+|requirements = 
+|input = [[Tetikus]], [[papan ketik]]
+}}
+'''''Civilization''''' atau '''''Sid Meier's Civilization''''' adalah [[permainan komputer]] berjenis [[strategi bergantian]] kebudayaan besar dari dasar. Permainan ini dimulai dari masa [[prasejarah]] (4000 SM) dan setiap pemain berusaha untuk mengembangkan kebudayaannya sendiri sehingga masa modern dan masa depan. ''Civilization'' kadang dipendekan menjadi ''Civ'' atau ''Civ I''. Ini adalah cikal bakal dari permainan [[strategi bergantian]]
+
+Pada [[1996]] [[Computer Gaming World]] menganugerahi ''Civilization'' nomor 1 dalam daftar Best Games of All Time untuk PC.
+
+Setelah ''Civilization'', [[Microprose]] juga mengembangkan seri selanjutnya yang berjudul ''[[Civilization II]]''. Tidak lama setelah mengeluarkan literasi kedua dari permainan ini, [[Microprose]] mengalami kebangkrutan. Akan tetapi hak untuk membuat dan menerbitkan [[permainan komputer]] ini diambil alih oleh perusahaan [[Firaxis]] yang kemudian membuat ''[[Civilization III]]'' dan ''[[Civilization IV]]''.
+
+== Permainan ==
+
+''Civilization'' adalah permainan strategi yang bergantian. Sang pemain menjadi pemimpin dari [[peradaban]] tersebut, permainan dimulai dengan satu atau dua penetap. Sang pemain harus mengembangkan kebudayaan dan [[kekuasaan]]nya sendiri dengan dua atau enam peradaban lainnya.
+
+Bersamaan dengan penjelajahan, perang dan hubungan diplomatik, pemain juga harus memilih letak, dan menambahkan unit atau bangunan di kota-kota pemain, yang akan muncul setelah sang pemain telah mengembangkan budaya tertentu. Sebagai contoh, jika sang pemain sudah mengembangkan mata uang, maka pemain bisa membangun sebuah [[pasar]] atau [[bank]], pemain juga harus mengubah daerah sekitarnya dengan menambahkan irigasi dan tambang untuk memperoleh sumber daya alam yang maksimum. Dari waktu ke waktu kota sang pemain bisa diserang oleh segerombolan suku [[Barbar]], unit tanpa kebudayaan dan pemimpin yang pasti. Ancaman ini biasanya muncul dilaut dan daratan.
+
+[[Berkas:Civ01.png|right|thumb|left|Berbicara dengan pemimpin [[Rusia]] [[Joseph Stalin|Stalin]]]]
+
+Sebelum permainan dimulai, pemain harus memilih peradaban yang tersedia atau mebuat peradabannya sendiri (Costum). Sangat kontras dengan seri ''Civilization'' yang lain, di Civ I, nama peradaban, kota, musik, warna, dan posisi mereka berada di Bumi sudah ditentukan. Perbedaannya adalah setiap peradaban memiliki unit tambahan, dan memiliki teknologi sendiri-sendiri. Peradaban yang dipilih pemain tidak bisa dipilih oleh komputer; komputer juga berbeda dengan sang pemain. Pemain dan komputer juga memiliki keahlian yang berbeda. Sebagai contoh, [[Aztek]] bersifat ekspansionis dan kaya. Lain halnya dengan peradaban lain seperti [[Amerika Serikat|Amerika]], [[Mongolia]] dan [[Romawi]]. Setiap peradaban juga dipimpin oleh pemimpin yang berbeda, seperti [[Mahatma Gandhi]] ([[India]]) dan [[Joseph Stalin]] ([[Rusia]]).
+
+Jangkauan permainan ini sangatlah luas - lebih besar dari permainan lain. Permainan ini dimulai dari 4000 Sebelum Masehi, sebelum permulaan [[Zaman Perunggu]], dan dapat berakhir sampai 2100 AD (tingkat kesulitan mudah) yang merupakan permulaan [[Zaman Luar Angkasa]] dan 'teknologi masa depan'. Pada permulaan tidak ada sama sekali kota di dunia: sang pemain awalnya harus mengendalikan satu atau dua penetap, penetap ini berguna untuk membangun kota di tempat yang strategis (kota ini dapat membuat penetap baru, yang juga berguna untuk membangun kota lain, dan memperluas kekuasaannya). Penetap ini juga bisa mengembangkan daerah kosong, seperti tambang dan saluran irigasi, dan membangun jalan untuk menghubungkan dari kota ke kota, jika peradaban tersebut sudah mengembangkan Per[[kereta api]]an, maka penetap dapat membangun jalur kereta api yang tak akan mengurangi pergerakan pemain.
+
+Selama waktu berjalan, teknologi baru dapat terbentuk; teknologi adalah kebutuhan yang amat penting untuk berkembangnya peradaban dan perubahannya. Pada permulaan, pemain dapat mengembangkan [[kerajinan pot|kerajinan]], [[roda]], dan [[aksara]], ketika mendekati zaman modern, pemain dapat mengembangkan [[fisi nuklir]] dan [[pesawat ulang alik]]. Pemain bisa mendapatkan keuntungan jika peradaban tersebut mengembangkan teknologi-teknologi partikular (penerbangan, sebagai contoh) dapat dipakai untuk mengermbangkan pesawat militer. Banyak perkembangan dapat menambahkan unit baru, gedung baru atau teknologi lanjut: sebagai contoh, [[pasukan berkuda]] dapat terbentuk setelah mengembangkan teknologi roda, dan bangunan [[gudang makanan]] dapat terbentuk setelah mengembangkan kerajinan. Sistem pengembangan dari awal sampai akhir ini disebut '''Pohon teknologi'''.
+
+Pemain juga dapat membangun ''[[Tujuh Keajaiban Dunia]]'' yang sangat berperan penting dalam peradaban. Keajaiban Dunia didapat setelah mengembangkan teknologi baru, Dari [[Piramida]] dan [[Tembok Raksasa]] di Zaman Kuno, dan [[Observatorium Copernicus]] dan [[Ekspedisi Magellan]] di Zaman Pertengahan, bahkan [[Apollo]], [[Perserikatan Bangsa Bangsa]], dan [[Projek Manhattan]] di Zaman Modern. Jika sebuah peradaban memiliki proyek Piramida, sebagai contoh, maka pemain lain tak bisa membuat proyek tersebut, proyek seperti ini membutuhkan banyak sumber daya alam dan waktu, sehingga pembangunannya akan sangat lama. Keajaiban Dunia memiliki kelebihan yang sangat baik. Sebagai contoh, Ekspedisi Magellan meningkatkan pergerakan dan kualitas kapal.
+
+Permainan dianggap selesai jika peradaban tersebut telah menghancurkan seluruh peradaban, mencapai Zaman Modern dengan skor tertinggi atau memenangkan persaingan luar angkasa yaitu dengan membuat sebuah pesawat ulang alik dan menerbangkannya sampai ke [[Alpha Centauri]].
+
+== Peradaban ==
+{| border=1
+! Peradaban !!  Pemimpin  !!  Kota pertama 
+|-
+| [[Amerika Serikat|Amerika]] || [[Abraham Lincoln]] || [[Washington]]
+|-
+| [[Aztek]]  || [[Moctezuma I|Montezuma]]  || [[Tenochtitlan]] 
+|-
+| [[Babilonia]] || [[Hammurabi]]   || [[Babilon]] 
+|-
+| [[Cina]]   ||     [[Mao Zedong]]      || [[Beijing|Peking]] 
+|-
+| [[Mesir Kuno|Mesir]]   || [[Ramses]]   || [[Thebes]]
+|-
+| [[Inggris]]   || [[Elizabeth I dari Britania Raya|Elizabeth I]] || [[London]] 
+|-
+| [[Perancis]]   || [[Napoleon Bonaparte]]  || [[Paris]] 
+|-
+| [[Jerman]] || [[Friedrich II dari Prusia|Friedrich Agung]]  || [[Berlin]] 
+|-
+| [[Yunani Kuno|Yunani]]   || [[Alexander Agung]]  || [[Athena]] 
+|-
+| [[India]]    || [[Mohandas Gandhi]] || [[Delhi]] 
+|-
+| [[Mongolia]]   ||     [[Genghis Khan]]       || [[Samarkand]] 
+|-
+| [[Romawi Kuno|Romawi]]     || [[Julius Caesar]]    || [[Roma]] 
+|-
+| [[Rusia]]  || [[Joseph Stalin]]  || [[Moskow]] 
+|-
+| [[Zulu]]   || [[Shaka Zulu]]      || [[Zimbabwe]] 
+|}
+
+== Tanggapan ==
+''Civilization'' telah menjadi salah satu [[permainan strategi]] yang paling populer sepanjang waktu,<ref>{{cite web |url=http://www.gamepro.com/article/features/110068/the-52-most-important-video-games-of-all-time-page-4-of-8/ |title=The 52 Most Important Video Games |publisher=[[GamePro]] |accessdate=2012-11-16 |archiveurl=http://web.archive.org/web/20080913085022/http://www.gamepro.com/article/features/110068/the-52-most-important-video-games-of-all-time-page-4-of-8/ |archivedate=2008-09-13}}</ref> dan memiliki penggemar yang setia.
+
+== Catatan kaki ==
+{{reflist}}
+
+{{civilization}}
+
+[[Kategori:Permainan komputer]]
+[[Kategori:Permainan PlayStation]]
+[[Kategori:Permainan Firaxis Games]]
+
+
+{{game-stub}}

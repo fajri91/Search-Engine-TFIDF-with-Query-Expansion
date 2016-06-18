@@ -1,0 +1,7 @@
+Templat:Kuadran di Washington, D.C.
+{{Navbox
+| name  = Kuadran di Washington, D.C.
+| listclass = hlist
+| title =[[Kuadran di Washington, D.C.]]
+| list1 = [[Northwest, Washington, D.C.]]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [[Northeast, Washington, D.C.]]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [[Southeast, Washington, D.C.]]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [[Southwest, Washington, D.C.]] 
+}}

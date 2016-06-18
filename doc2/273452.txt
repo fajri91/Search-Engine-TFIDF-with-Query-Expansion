@@ -1,0 +1,2 @@
+Templat:Infobox Korean name/MR data
+<noinclude>{{subtemplate}}</noinclude><includeonly>{{#if:{{#switch:{{lc:{{{context|}}} }}|n|nk|north|dprk={{{rr|}}}|#default={{{mr|}}} }}|{{transl|ko|{{#switch:{{lc:{{{context|}}}}}|n|nk|north|dprk={{{rr}}}|#default={{{mr}}} }} }} }}</includeonly>

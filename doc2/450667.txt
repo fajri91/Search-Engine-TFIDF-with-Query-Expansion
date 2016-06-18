@@ -1,0 +1,19 @@
+Wikipedia:Usulan penghapusan/DiskusSocial
+:''Anda dapat mengundang pengguna lain untuk berkomentar dalam diskusi, salin dan tempelkan kode berikut ini pada halaman pengguna yang ingin Anda undang: {{br}}'''{<i/>{Gnt:Undangan diskusi|Wikipedia:{{PAGENAME}}}}'''
+
+== [[:DiskusSocial]] ==
+:<small>Pengusul: {{userv|DISKUS}}{{}}<!-- 
+-->{{Status/Usul|done}}</small><!-- Jangan ubah ketiga baris di atas! -->
+
+<!-- Ubah baris di bawah ini saja! Jangan ubah baris-baris yang lain! -->
+
+Saya {{tidak setuju}}<!--Pilih salah satu--> usulan penghapusan halaman ini.
+
+:Alasan saya: 
+
+
+karena perlu pengubahan sedikit dari halaman ini
+[[Pengguna:DISKUS|DISKUS]] ([[Pembicaraan Pengguna:DISKUS|bicara]]) 5 Mei 2012 03.39 (UTC)<!-- Jangan ubah baris ini! -->
+
+:{{catatan-editor}} silakan diedit lagi. <font face="Viner Hand ITC">[[Berkas:heiwa.png|40px|link=User:Ariyanto]] <span style="text-decoration:blink">[[User:Ariyanto|Ariyanto]] </span>[[Berkas:Gartoon-Evolution.png|20px|link=http://id.wikipedia.org/w/index.php?title=Pembicaraan_Pengguna:Aris_riyanto&action=edit&section=new&preload=Pengguna:Ariyanto/PreloadMs]]</font> 5 Mei 2012 06.02 (UTC)
+:Telah dihapus. Belum memenuhi kelayakan plus ditulis oleh subjek yang bersangkutan sendiri. [[User:Bennylin|<span style="font:small-caps 1.3em Garamond,Times,serif;color:#227722;letter-spacing:0.1em;">Bennylin</span>]]&nbsp;<sup><small>[[Pembicaraan pengguna:Bennylin|bicara]]</small></sup> 13.08, 19 Juni 2012 (WIB)

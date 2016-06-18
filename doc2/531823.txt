@@ -1,0 +1,41 @@
+Bandar Udara Rotuma
+{{Infobox Airport
+| name         = Bandar Udara Rotuma
+| nativename   = 
+| image        = RotumaMap.png
+| caption      = Peta Rotuma yang dilayani oleh bandar udara ini
+| IATA         = RTA
+| ICAO         = NFNR
+| type         = Publik
+| owner        = 
+| operator     = Airports Fiji Limited
+| city-served  = [[Pulau Rotuma]], [[Fiji]]
+| location     = [[Else'e]], [[Malhaha]]
+| elevation-f  = 22
+| elevation-m  = 7
+| coordinates  = {{coord|12|28|57|S|177|04|16|E|region:FJ_type:airport}}
+| website      = 
+| metric-rwy   = y
+| r1-number    = 
+| r1-length-m  = 1,494
+| r1-length-f  = 4,902
+| r1-surface   = Lumpur
+| footnotes    = Sumber: <ref name="GCM">{{GCM|NFNR|Elsee, Rotuma Island, Fiji (NFNR / RTA)}}</ref>
+}}
+'''Bandar Udara Rotuma''' {{airport codes|RTA|NFNR}} adalah [[bandar udara]] yang melayani pulay [[Rotuma]] di [[Fiji]].<ref name="GCM" /> Bandar udara ini berlokasi di dekat [[Else'e]],<ref name="GCM" /> sebuah desa di [[Distrik Rotuma|distrik]] [[Malhaha]].<ref>{{cite web | url = http://www.rotuma.net/os/Districts/malhaha.htm | title = Malhaha | work = Rotuma.net | accessdate = 10 June 2010}}</ref> Bandar udara ini dioperasikan oleh ''Airports Fiji Limited''.<ref name="AFL">{{cite web | url = http://www.airportsfiji.com/outer_islands.php | title = Outer Islands | publisher = Airports Fiji Limited | accessdate = 10 June 2010}}</ref>
+
+==Fasilitas==
+Bandar udara ini berada di ketinggian {{convert|22|ft|0}} [[di atas permukaan laut]]. Bandar udara ini memiliki satu [[landasan pacu]] dengan panjang {{convert|1494|m|0}}.<ref name="GCM" />
+
+==Referensi==
+{{reflist}}
+
+==Pranala luar==
+* {{cite web | url = http://www.fiji.gov.fj/publish/page_7927.shtml | title = Improving Air/Sea communications to Rotuma | work = Press Release | publisher = Government of Fiji | date = November 21, 2006 | archiveurl = http://web.archive.org/web/20070927231644/http://www.fiji.gov.fj/publish/page_7927.shtml | archivedate = September 27, 2007}}
+* {{ASN|RTA|RTA / NFNR}}
+
+{{DEFAULTSORT:Rotuma, bandar udara}}
+
+[[Kategori:Bandar udara di Fiji]]
+
+{{bandara-oseania-stub}}

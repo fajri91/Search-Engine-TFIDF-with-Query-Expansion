@@ -1,0 +1,127 @@
+Korechika Anami
+{{Japanese name|Anami}}
+{{Infobox military person
+|name=Korechika Anami
+|native_name= 
+|native_name_lang=jpn
+|birth_date={{birth date|1887|02|21}}
+|death_date={{Death date and age|1945|08|15|1887|02|21}}
+|birth_place=[[Taketa, ita]], [[Jepang]]
+|death_place=[[Tokyo]], [[Jepang]]
+|image=AnamiKorechika.jpg
+|image_size=180
+|caption=Jenderal Jepang Anami Korechika
+|nickname=
+|allegiance={{flag|Kekaisaran Jepang}}
+|serviceyears=19061945
+|branch={{army|Kekaisaran Jepang}}
+|rank=[[Jenderal]]
+|commands=[[Divisi ke-109 (Tentara Kekaisaran Jepang)|Divisi ke-109]], [[Tentara ke-11 (Jepang)|Tentara ke-11]], [[Tentara Wilayah Kedua Jepang|Tentara Wilayah Kedua]]
+|unit=
+|battles=[[Perang China-Jepang Kedua]], [[Perang Pasifik]]
+|awards=
+|laterwork= [[Menteri Perang Jepang|Menteri Perang]]
+}}
+{{nihongo|'''Korechika Anami'''| |Anami Korechika|extra= 21 Februari 1887  15 Agustus 1945}} adalah seorang jenderal dalam [[Tentara Kekaisaran Jepang]] selama [[Perang Dunia II]], dan merupakan [[Menteri Perang Jepang|Menteri Perang]] saat [[Menyerahnya Jepang|Jepang menyerah]].
+
+Anami lahir di [[Taketa, ita|kota Taketa]] di [[Prefektur ita]].
+
+== Referensi ==
+
+===Buku===
+
+* {{cite book
+|last = Brooks 
+|first = Lester 
+|authorlink = 
+|year = 1968
+|title = Behind Japan's Surrender: The Secret Struggle That Ended an Empire
+|publisher = McGraw-Hill
+|location = 
+|id =ASIN: B000GRIF3G
+}}
+* {{cite book
+|last = Butow 
+|first = Robert 
+|authorlink = 
+|year = 1978
+|title = Japan's Decision to Surrender 
+|publisher = Stanford University Press
+|location = 
+|id = ASIN: B000W0G7CS
+}}
+* {{cite book
+|last = Toland 
+|first = John 
+|authorlink = 
+|year = 2003
+|title = The Rising Sun: The Decline and Fall of the Japanese Empire, 1936-1945
+|publisher = Modern Library
+|location = 
+|isbn = 0-8129-6858-1
+}}
+* {{cite book
+|last = Pacific War Research Society 
+|first = 
+|authorlink = 
+|year = 2002
+|title = Japan's Longest Day
+|publisher = Kodansha International
+|location = 
+|isbn = 4-7700-2887-3
+}}
+* {{cite book
+|last = Kurzman 
+|first = Dan
+|authorlink = 
+|year =1986
+|title = Day of the Bomb
+|publisher = McGraw-Hill
+|location = 
+|id = ASIN: B000J0IOEA
+}}
+* {{cite book
+|last = Frank
+|first = Richard
+|authorlink = 
+|year =1999
+|title = Downfall: The End of the Imperial Japanese Empire
+|publisher = Penguin Books
+|location = 
+|isbn = 0-14-100146-1
+}}
+
+== Pranala luar==
+
+* {{cite web
+|last = Ammentorp
+|first = Steep
+|url = http://www.generals.dk/general/Anami/Korechika/Japan.html
+|title = Anami, Korechika
+|work = The Generals of World War II
+}}
+* [http://alsos.wlu.edu/qsearch.aspx?browse=people/Anami,+Korechika Annotated bibliography for Korechika Anami from the Alsos Digital Library for Nuclear Issues]
+
+{{s-start}}
+{{s-off}}
+{{succession box |before=[[Hajime Sugiyama]] |title=[[Menteri Perang Jepang|Menteri Tentara]] |years=April 1945Agustus 1945 |after=[[Higashikuni Naruhiko]]}}
+|-
+{{s-mil}}
+{{succession box |before=[[Waichiro Sonobe]] |title=[[Tentara Kesebelas (Jepang)|Komandan Tentara IJA ke-11]] |years=April 1941Juli 1942 |after=[[Osamu Tsukada]]}}
+{{succession box |before= tidak ada |title=[[Tentara Wilayah Kedua Jepang|Komandan Tentarn IJA Wilayah ke-2]] |years=July 1942Desember 1944 |after=[[Jo Iimura]]}}
+{{s-end}}
+
+{{Normdaten}}
+
+{{Persondata
+|NAME              =Anami, Korechika
+|ALTERNATIVE NAMES =  (Jepang)
+|SHORT DESCRIPTION =Jenderal Jepang
+|DATE OF BIRTH     =1887-02-21
+|PLACE OF BIRTH    =[[Taketa, ita]], Jepang
+|DATE OF DEATH     =1945-08-15
+|PLACE OF DEATH    =[[Tokyo]], Jepang
+}}
+{{DEFAULTSORT:Anami, Korechika}}
+[[Category:Kelahiran 1887]]
+[[Category:Kematian 1945]]

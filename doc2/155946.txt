@@ -1,0 +1,66 @@
+Asuransi Kredit Indonesia
+{{Infobox company
+| name                = PT Asuransi Kredit Indonesia (Persero)
+| logo                = 
+| logo_size           = 150px
+| logo_alt            = 
+| logo_caption        = Logo 
+| logo_padding        = 
+| image               = 
+| image_size          = 200px
+| image_alt           = 
+| image_caption       = 
+| type                = [[Badan Usaha Milik Negara|BUMN]] / Perseroan Terbatas
+| traded_as           = <!-- {{IDX|BBNI}} -->
+| industry            = [[Jasa keuangan]]
+| genre               = <!-- Only used with media and publishing companies -->
+| fate                = 
+| predecessor         = 
+| successor           = 
+| foundation          = [[1971]]<!-- if known: {{start date|YYYY|MM|DD}} di [[city]], [[country]] -->
+| founder             = 
+| defunct             = <!-- {{end date|YYYY|MM|DD}} -->
+| locations           = 
+| location_city       = [[Jakarta]], [[Jakarta]]
+| location_country    = Indonesia
+| coordinates         = 
+| area_served         = 
+| key_people          = Antonius Chandra S. Napitupulu<small>(Direktur Utama)</small>
+| products            = Asuransi Kredit, Surety Bond,  Customs Bond,  Asuransi Kredit Perdagangan,  Kontra Bank Garansi,  Penjaminan KUR,  Asuransi Umun 
+| brands              = Askrindo 
+| production          = 
+| services            = [[Asuransi]]
+| revenue             = 
+| operating_income    = 
+| net_income          = 
+| aum                 = <!-- Only for financial-service companies -->
+| assets              = 
+| equity              = 
+| owner               = [[Pemerintah Indonesia]]
+| members             = 
+| num_employees       = 
+| parent              = 
+| divisions           = 
+| subsid              = 
+| slogan              = 
+| module              = <!-- Used to embed other templates -->
+| website             = {{URL|askrindo.co.id}}
+| footnotes           = 
+}}
+
+'''PT Asuransi Kredit Indonesia''' atau disingkat '''Askrindo''' adalah perusahaan yang bergerak di bidang [[asuransi]].
+
+== Sejarah ==
+Askrindo didirikan oleh Pemerintah Republik [[Indonesia]] cq. [[Departemen Keuangan Republik Indonesia|Departemen Keuangan]] dan [[Bank Indonesia]] pada tahun 1971, sebagai bagian dari upaya menumbuh kembangkan Usaha Mikro, Kecil dan Menengah (UMKM). Pada awalnya untuk melaksanakan upaya tersebut, Askrindo menjalankan usaha Asuransi Kredit Bank dan dalam perkembangan selanjutnya upaya tersebut dilengkapi dengan usaha-usaha lainnya, khususnya di bidang penjaminan. Jenis jasa yang yang baru ini tidak hanya memperbesar akses pengusaha terhadap sumber perkreditan, tetapi juga mendukung arus perdagangan di dalam dan luar negeri. Seluruh usaha tersebut, pada dasarnya memiliki manfaat yang hampir sama yaitu memperbesar akses sektor riil terhadap sektor finansial.
+
+== Halaman luar ==
+* [http://www.askrindo.co.id/ Situs web resmi]
+
+{{Perusahaan Asuransi di indonesia}}
+{{BUMN}}
+
+[[Kategori:BUMN]]
+[[Kategori:Perusahaan asuransi Indonesia]]
+
+
+{{perusahaan-indo-stub}}

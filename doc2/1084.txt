@@ -1,0 +1,6 @@
+Matematika diskret
+'''Matematika diskrit''' atau '''diskret''' adalah cabang [[matematika]] yang membahas segala sesuatu yang bersifat diskrit. Diskrit disini artinya tidak saling berhubungan (lawan dari kontinyu). Objek yang dibahas dalam Matematika Diskrit - seperti bilangan bulat, graf, atau kalimat logika - tidak berubah secara kontinyu, namun memiliki nilai yang tertentu dan terpisah. Beberapa hal yang dibahas dalam matematika ini adalah [[teori himpunan]], teori kombinatorial, [[permutasi]], relasi, fungsi, rekursif, [[teori graf]], dan lain-lain. Matematika diskrit merupakan mata kuliah utama dan dasar untuk bidang [[ilmu komputer]] atau [[informatika]].
+
+{{math-stub}}
+
+[[Kategori:Matematika diskrit| ]]

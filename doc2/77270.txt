@@ -1,0 +1,42 @@
+Kakatua-kecil jambul-kuning
+{{Taxobox
+| name = Kakatua-kecil jambul-kuning
+| status = CR
+| image = Yellow-crested Cockatoo.jpg
+| image_width = 225px
+| regnum = [[Animalia]]
+| phylum = [[Chordata]]
+| classis = [[Burung|Aves]]
+| ordo = [[Bayan (burung)|Psittaciformes]]
+| familia = [[Kakatua|Cacatuidae]]
+| genus = ''[[Kakatua|Cacatua]]''
+| species = '''''C. sulphurea'''''
+| binomial = ''Cacatua sulphurea''
+| binomial_authority = ([[Johann Friedrich Gmelin|Gmelin]], 1788)
+}}
+'''Kakatua-kecil jambul-kuning''' atau dalam nama ilmiahnya ''Cacatua sulphurea'' adalah [[burung]] berukuran sedang, dengan panjang sekitar 35 cm, dari marga ''[[Burung Kakatua|Cacatua]]''. Burung ini hampir semua bulunya berwarna putih. Di kepalanya terdapat jambul berwarna kuning yang dapat ditegakkan. Kakatua-kecil jambul-kuning berparuh hitam, kulit di sekitar matanya berwarna kebiruan dan kakinya berwarna abu-abu. Bulu-bulu terbang dan ekornya juga berwarna kuning. Burung betina serupa dengan burung jantan.
+
+Daerah sebaran kakatua-kecil jambul-kuning adalah [[Kepulauan Sunda Kecil]], [[Sulawesi]], [[Bali]], dan [[Timor]], di tempat yang masih terdapat hutan-hutan primer dan sekunder. Pakan unggas cerdas dan gemar berkawanan ini terdiri dari biji-bijian, kacang, dan aneka buah-buahan. Burung betina menetaskan antara dua sampai tiga telur dalam sarangnya di lubang pohon.
+
+Berdasarkan dari hilangnya habitat hutan dan penangkapan liar yang terus berlanjut untuk perdagangan, serta daerah dan populasi di mana burung ini ditemukan sangat terbatas, kakatua-kecil jambul-kuning dievaluasikan sebagai kritis di dalam [[IUCN Red List]]. Spesies ini didaftarkan dalam [[CITES]] Appendix I.
+
+== Bahasa lain ==
+* [[Bahasa Jerman]]:Gelbwangenkakadu<ref name="avi">{{cite web |url=http://avibase.bsc-eoc.org/species.jsp?lang=ID&avibaseid=0992CA28BD720FDF |title=Kakatua Jambul-kuning (Cacatua sulphurea) (Gmelin, 1788) |last1=Lepage |first1=Denis |last2= |first2= |date= |work= |publisher=Avibase |accessdate=18 May 2012}}</ref>
+* [[Bahasa Ceko]]:kakadu lutolc<ref name="avi"/>
+* [[Bahasa Italia]]:Cacatua ciuffogiallo<ref name="avi"/>
+* [[Bahasa Jepang]]: ('''kobatan''')<ref name="avi"/>
+
+== Referensi ==
+{{reflist}}
+
+== Pranala luar ==
+* {{en}} [http://www.cityparrots.org/2007/07/28/cockatoos-of-honk-kong/ Kakatua Hong Kong]
+* {{en}} [http://www.birdlife.org/datazone/search/species_search.html?action=SpcHTMDetails.asp&sid=1398&m=0 BirdLife Species Factsheet]
+* {{en}} [http://www.redlist.org/search/details.php?species=3433 IUCN Red List]
+* {{en}} [http://www.rdb.or.id/detailbird.php?id=48 Red Data Book]
+
+{{Commons|Cacatua sulphurea}}
+
+[[Kategori:Kakatua]]
+[[Kategori:Burung Indonesia]]
+[[Kategori:Cacatuidae]]

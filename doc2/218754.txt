@@ -1,0 +1,14 @@
+Berkas:Nelvana1996.png
+== {{int:filedesc}} ==
+{{Information
+| description    =
+Logo [[Nelvada|Nelvana]] dari tahun [[1996]]-[[2004]]. Merupakan logo sekunder sebelum tahun [[2000]]. Sejak tahun 2000, terdapat tulisan "''Nelvana is a Corus Entertainment Company''", dengan menggunakan logo [[Corus Entertainment]] dibawah logo.
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Logo}}

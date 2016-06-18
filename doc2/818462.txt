@@ -1,0 +1,26 @@
+Templat:Kekristenan Ortodoks Yunani
+{{Navbox
+|name = Kekristenan Ortodoks Yunani
+|title = [[Gereja Ortodoks Yunani|Kekristenan Ortodoks Yunani]]
+|listclass = hlist
+|image = [[Berkas:Flag_of_the_Greek_Orthodox_Church.svg|75px]]
+
+|group1 = [[Patriarkat]]
+|list1 =
+*[[Patriark Ekumenikal Konstantinopel]] 
+*[[Gereja Ortodoks Yunani Aleksandria|Patriarkat Aleksandria]] 
+*[[Gereja Ortodoks Yunani Antiokhia|Patriarkat Antiokhia]] 
+*[[Gereja Ortodoks Yunani Yerusalem|Patriarkat Yerusalem]]
+
+|group2 = [[Otosefali|Otosefalus]] dan<br />gereja otonomi
+|list2 =
+*[[Gereja Yunani]] 
+*[[Gereja Kreta]]
+*[[Gereja Siprus]] 
+*[[Gereja Otosefalus Ortodoks Albania]] 
+*[[Gereja Sinai]]
+
+}}<noinclude>
+[[Kategori:Templat Gereja Ortodoks Timur]]
+[[Kategori:Ortodoks Yunani|]]
+</noinclude>

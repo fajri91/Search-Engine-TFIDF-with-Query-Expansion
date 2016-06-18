@@ -1,0 +1,65 @@
+ADEN cannon
+{{Infobox Weapon
+|name= ADEN cannon
+|image= [[Berkas:Quad ADEN 30mm Cannon.jpg|300px]]
+|caption= A quad 30 mm ADEN cannon pack removed from a Hawker Hunter
+|origin= [[United Kingdom]]
+|type= [[Revolver cannon]]
+<!-- Type selection -->
+|is_ranged= yes
+|is_artillery= yes
+<!-- Service history -->
+|service=
+|used_by= See [[#Users|''users'']]
+|wars=
+<!-- Production history -->
+|designer= [[Fort Halstead|Armament Development Establishment]]
+|design_date= 1946
+|manufacturer= [[Royal Small Arms Factory]]
+|unit_cost= 
+|production_date= 1953-present
+|number= 
+|variants= 
+<!-- General specifications -->
+|spec_label=
+|weight= Overall: {{convert|87.1|kg|lboz|abbr=on|lk=on}}<br>Barrel: {{convert|12.25|kg|lboz|abbr=on}}
+|length= Overall: {{convert|1.64|m|ftin|abbr=on|lk=on}}
+|part_length= {{convert|1.08|m|ftin|abbr=on}}
+|width= 
+|height= 
+|diameter= 
+|crew= 
+<!-- Ranged weapon specifications -->
+|cartridge= 30113mm
+|caliber= [[30 mm caliber|30 mm (1.1811 inch) caliber]]
+|barrels= Single barrel (progressive RH parabolic twist, 16 grooves)
+|action= [[Recoil operation]] featuring a pneumatic cocking system and a 26 volts [[Direct current|DC]] [[Electronic firing|electrical firing system]]
+|rate= 1,200-1,700 rpm
+|velocity= {{convert|741|m/s|abbr=on}}
+|range= 
+|max_range= 
+|feed= 
+|sights= 
+}}
+
+'''Royal Small Arms Factory ADEN''' adalah senapan meriam revolver 30 mm yang digunakan pada banyak pesawat militer, terutama dari British Royal Air Force dan Fleet Air Arm. Dikembangkan pasca- Perang Dunia II terutama untuk memenuhi kebutuhan British Air Ministry. 
+
+ADEN 30 digunakan sebagai persenjataan pesawat :
+*A-4S Skyhawk, 
+*English Electric Lightning, 
+*Folland Gnat (and HAL Ajeet), 
+*Hawker Hunter, 
+*Gloster Javelin, 
+*Saab Lansen, 
+*Saab Draken, 
+*SEPECAT Jaguar, 
+*Supermarine Scimitar, and 
+*CAC Sabre.
+
+
+==Pranala luar==
+*[http://www.raf.mod.uk/equipment/mauserandaden.cfm Mauser and Aden Cannon (RAF source)]
+
+[[Kategori:Senapan pesawat terbang]]
+[[Kategori:Meriam otomatis]]
+[[Kategori:Artileri 30 mm]]

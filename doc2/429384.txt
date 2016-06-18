@@ -1,0 +1,16 @@
+Wikipedia:Artikel Pilihan/0 2012
+{{Tepigambar|Thomas Hobbes (portrait).jpg|120|left|Thomas Hobbes}}
+'''[[Thomas Hobbes|Thomas Hobbes dari Malmesbury]]''' (lahir {{#if:|&nbsp;}}<!-- 
+ -->{{#if:[[Malmesbury]], [[Wiltshire]], [[Inggris]]|di [[Malmesbury]], [[Wiltshire]], [[Inggris]],|}} [[5 {{NAMABULAN|4}}]] [[1588]]<!-- 
+ -->{{#if:[[Derbyshire]], [[Inggris]]4|&nbsp;&nbsp;meninggal <!-- 
+ -->{{#if:[[Derbyshire]], [[Inggris]]|di [[Derbyshire]], [[Inggris]],|}} [[4 {{NAMABULAN|12}}]] [[1679]] pada umur {{umur|1588|4|5|1679|12|4}} tahun|; umur {{umur|1588|4|5}} tahun}}<!-- 
+ -->{{#switch:{{NAMESPACE}}|Pengguna=|Pembicaraan Pengguna=<!-- (supaya ruang nama pengguna dan pembicaraan pengguna tidak terkategori)
+ -->|#default=<!--
+ -->{{#if:1||{{#if:[[Derbyshire]], [[Inggris]]4||}}}}<!-- 
+ -->{{#if:1||{{#if:1588|}}}}<!-- 
+ -->{{#if:1||{{#if:1679|}}}}<!--
+-->{{#if:1||{{#if:[[Derbyshire]], [[Inggris]]4||{{#ifexpr:{{umur|1588|4|5}}>=100|
+|}}}}}}<!--
+-->}}) adalah seorang [[filsuf]] [[Inggris]] yang beraliran [[empirisme]]. Pandangannya yang terkenal adalah konsep manusia dari sudut pandang empirisme-[[materialisme]], serta pandangan tentang hubungan manusia dengan sistem [[negara]]. Hobbes memiliki pengaruh terhadap seluruh bidang kajian [[moral]] di Inggris serta [[filsafat politik]], khususnya melalui bukunya yang amat terkenal "[[Leviathan (buku)|Leviathan]]". Hobbes tidak hanya terkenal di Inggris tetapi juga di [[Eropa Daratan]]. Selain dikenal sebagai filsuf, Hobbes juga terkenal sebagai ahli [[matematika]] dan sarjana klasik. Ia pernah menjadi guru matematika [[Charles II dari Inggris|Charles II]] serta memublikasikan terjemahan atas ''[[Illiad]]'' dan ''[[Odyssey]]'' karya [[Homeros]]. ('''[[Thomas Hobbes|Selengkapnya...]]''')
+
+{{TFAfooter|Paus Yohanes Paulus II|Borobudur|Alain Prost}}

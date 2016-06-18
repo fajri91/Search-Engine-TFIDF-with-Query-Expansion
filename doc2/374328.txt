@@ -1,0 +1,27 @@
+Templat:Palolo, Sigi
+{{Navigasi ID Desa 
+|provinsi=Sulawesi Tengah
+|dati2=Kabupaten 
+|nama dati2=Sigi
+|nama kecamatan=Palolo
+|d1=Ampera
+|d2=Bahagia
+|d3=Bakubakulu
+|d4=Berdikari
+|d5=Bobo
+|d6=Bunga
+|d7=Kapiroe
+|d8=Lemban Tongoa
+|d9=Makmur
+|d10=Petimbe
+|d11=Rahmat
+|d12=Ranteleda
+|d13=Rejeki
+|d14=Sejahtera
+|d15=Sigimpu
+|d16=Sintuwu
+|d17=Tanah Harapan
+|d18=Tongoa
+|d19=Uenuni
+}}<noinclude>[[Kategori:Templat desa/kelurahan di Sulawesi Tengah|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Sigi|{{PAGENAME}}]]</noinclude>

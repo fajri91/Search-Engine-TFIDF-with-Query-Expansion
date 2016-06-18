@@ -1,0 +1,49 @@
+Grand Prix Sepeda Motor Baden-Wrttemberg
+{{Infobox motor race
+|Race title = Grand Prix Baden-Wrttemberg
+|Track map = [[File:Hockenheimring prior to 2002.svg|200px]]
+|Series long = [[Grand Prix Sepeda Motor]]
+|Venue = [[Hockenheimring]]
+|First race = 1986
+|Last race = 1986
+|Most wins rider = [[Fausto Gresini]], [[Gerhard Waibel (pembalap)|Gerhard Waibel]] (1)
+|Most wins manufacturer = [[Garelli Motorcycles|Garelli]], [[Manfred Herweh|Real]] (1)
+}}
+
+'''Grand Prix Sepeda Motor Baden-Wrttemberg''' acara balap motor yang pernah menjadi bagian dari [[Grand Prix Sepeda Motor musim 1986]].
+
+==Pemenang==
+
+{| class="wikitable" style="font-size: 95%;"
+|-
+!rowspan=2| Tahun
+!rowspan=2| Sirkuit 
+!colspan=2| 80 cc
+!colspan=2| 125 cc
+!rowspan=2| Laporan
+|-
+!Pembalap
+!Manufaktur
+!Pembalap
+!Manufaktur
+|- 
+! [[Grand Prix Sepeda Motor musim 1986|1986]] <ref name="racingmemory">{{cite web|url=http://racingmemo.free.fr/M%20GRAND%20PRIX/MGP-PALM-ALL.htm|title=L'Histoire du Grand Prix d'Allemagne et des autres Grands Prix de Championnats du Monde en Allemagne - GP de Bade-Wurtemberg - GP de la Repblique Democratique Allemande - Epreuves de Sidecar|language=French|trans_title=History of the German Grand Prix and other World Championship Grands Prix in Germany - Baden-Wrttemberg Grand Prix - German Democratic Republic Grand Prix - Sidecar races|work = Racing Memory|accessdate = 2 November 2011|archiveurl=http://www.webcitation.org/62tPPwoKo|archivedate = 2 November 2011|deadurl=no}}</ref>
+| [[Hockenheimring]]
+| {{flagicon|Jerman}} [[Gerhard Waibel (pembalap)|Gerhard Waibel]] 
+| [[Manfred Herweh|Real]]
+| {{flagicon|Italia}} [[Fausto Gresini]]
+| [[Garelli Motorcycles|Garelli]]
+| [[Grand Prix Sepeda Motor Baden-Wrttemberg 1986|Laporan]]
+|}
+
+==Referensi==
+{{reflist}}
+
+{{Balapan MotoGP}}
+
+
+[[Kategori:Seri MotoGP|Baden]]
+
+[[Kategori:Grand Prix Sepeda Motor]]
+
+{{balap-motor-stub}}

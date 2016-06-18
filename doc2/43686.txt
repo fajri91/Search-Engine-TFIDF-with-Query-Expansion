@@ -1,0 +1,13 @@
+.gb
+'''.gb''' adalah ''[[ranah internet tingkat teratas|top-level domain (TLD)]]'' [[kode telepon|kode negara]] [[Internet]] untuk [[Britania Raya]]. Domain ini sekarang tidak digunakan.
+
+{{CcTLD}}
+
+{{#if:||}}
+
+[[Kategori:Ranah internet tingkat teratas|{{UC:gb}}]]
+
+
+{{stub}}
+
+[[sv:Toppdomn#G]]

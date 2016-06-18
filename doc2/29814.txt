@@ -1,0 +1,9 @@
+Port I/O
+{{kembangkan}}
+'''Port I/O''' yang berarti gerbang konektor ''Input/Output'' pada [[komputer]], seperti pada ''[[keyboard]], [[mouse]] paralel/serial'' ataupun [[USB]].
+
+Menyediakan koneksi untuk [[piranti eksternal]] seperti [[kamera digital]], ''[[printer]]'' dan ''[[scanner]]''.
+
+{{hardware-stub}}
+
+[[Kategori:I/O]]

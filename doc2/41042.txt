@@ -1,0 +1,125 @@
+Daerah Jmtland
+{{Infobox settlement
+| official_name           = Jmtland
+| native_name             = Jmtlands ln
+| native_name_lang        = se
+| settlement_type         = [[County]] di [[Swedia]]
+| image_flag              = 
+| flag_size               = 
+| image_shield            = Jmtland ln vapen.svg
+| shield_size             = 75px
+| image_blank_emblem      = SverigesLn2007Jmtland.svg
+| blank_emblem_type       = &nbsp;
+| blank_emblem_size       = 150px
+| latd  =  |latm  = |lats  =  |latNS  = N
+| longd =  |longm = |longs =  |longEW = E
+| coordinates_display     = inline,title
+| coordinates_region        = SE
+| subdivision_type        = Negara
+| subdivision_name        = [[Swedia]]
+| established_date        = 1810
+| seat_type               = Ibu Kota
+| seat                    = [[stersund]]
+| leader_party            = 
+| leader_title            = Gubernur
+| leader_name             = Jran Hgglund
+| leader_title1           = Dewan Kota
+| leader_name1            = Jmtlands Lns Landsting
+| area_total_km2          = 49444
+| population_total        = 126410
+| population_footnotes    = <ref name="scb_stat">{{cite web | title=Folkmngd i riket, ln och kommuner 30 juni 2014.| publisher=Statistiska centralbyrn. | url=http://www.scb.se/sv_/Hitta-statistik/Statistik-efter-amne/Befolkning/Befolkningens-sammansattning/Befolkningsstatistik/25788/25795/Kvartals--och-halvarsstatistik---Kommun-lan-och-riket/244145/}}</ref>
+| population_as_of        = 30 Juni 2014
+| population_density_km2  = auto
+| timezone1               = [[Central European Time|CET]]
+| utc_offset1             = +1
+| timezone1_DST           = [[Central European Summer Time|CEST]]
+| utc_offset1_DST         = +2
+| blank_name_sec1         = [[PDB]] Nominal
+| blank_info_sec1         = [[Krona Swedia|SEK]] 27,628 juta (2004)
+| blank1_name_sec1        = [[PDB]] per kapita
+| blank1_info_sec1        = [[Krona Swedia|SEK]] 215.000
+| blank_name_sec2         = [[First level NUTS of the European Union#Sweden|NUTS Region]]
+| blank_info_sec2         = SE322
+}}
+
+'''Daerah Jmtland''' adalah sebuah daerah di [[Swedia]] yang memiliki luas wilayah 49.444&nbsp;km dan populasi 130.705 jiwa (2005). Ibu kotanya ialah [[stersund]].
+
+== Kotamadya ''(Kommuner)'' ==
+
+* [[Berg]]
+* [[Brcke]]
+* [[Hrjedalen]]
+* [[Krokom]]
+* [[Ragunda]]
+* [[Strmsund]]
+* [[re]]
+* [[stersund]]
+
+== Demografi ==
+
+Berikut adalah daftar kotamadya ''(kommuner)'' dan populasinya per tanggal 30 Juni 2014 <ref name="scb_stat"/>:
+{|class="wikitable sortable"
+! # !! Kotamadya (kommuner) !! Populasi
+|-
+| 1 || [[Berg]] || align="right" | 7.133
+|-
+| 2 || [[Brcke]] || align="right" | 6.538
+|-
+| 3 || [[Hrjedalen]] || align="right" | 10.254
+|-
+| 4 || [[Krokom]] || align="right" | 14.677
+|-
+| 5 || [[Ragunda]] || align="right" | 5.444
+|-
+| 6 || [[Strmsund]] || align="right" | 11.965
+|-
+| 7 || [[re]] || align="right" | 10.323
+|-
+| 8 || [[stersund]] || align="right" | 60.076
+|}
+
+== Daftar Gubernur Jmtland ==
+
+Berikut adalah daftar gubernur yang pernah memerintah Jmtland dari tahun 1810 hingga sekarang:
+{{col-begin}}{{col-2}}* Anders Wasell (18101817)
+* Lars Arnell (18171818)
+* Michael von Trne (18181841)
+* Gustaf Montgomery (18411842)
+* Lars Magnus Lagerheim (18421843)
+* Carl Printzenskld (18431844)
+* Anders Peter Sandstrmer (18441848)
+* Jacob Axel Dahlstrm (18481859)
+* Nils Axel Bennich (18601865)
+* Gustaf Lagercrantz (18651866)
+* Gustaf Asplund (18661882)
+* John Philip Ericson (18831895)
+* Knut Sparre (18951906)
+{{col-2}}* Johan Widn (19061923)
+* Sigfrid Linnr (19231930)
+* Mortimer Munck af Rosenschld (19311938)
+* Torsten Lfgren (19381953)
+* Anders Tottie (19541969)
+* Hans Gustafsson (19691977)
+* Harald Pettersson (19771983)
+* Sven Heurgren (19841995)
+* Kristina Persson (19952001)
+* Maggi Mikaelsson (20022008)
+* Britt Bohlin Olsson (20082014)
+* Jran Hgglund (2014sekarang)
+{{col-end}}
+
+== Referensi ==
+
+{{reflist}}
+
+== Pranala Luar ==
+
+* {{se}} [http://jamtland.se/index.php/se/ Situs resmi pariwisata daerah Jmtland]
+
+{{County di Swedia}}
+
+{{DEFAULTSORT:Jamtland}}
+[[Kategori:County di Swedia]]
+
+
+{{negara-geo-stub|Swedia}}

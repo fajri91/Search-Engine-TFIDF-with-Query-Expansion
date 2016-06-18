@@ -1,0 +1,38 @@
+Templat:GeoPortal
+{| style="width:100%;border:solid 0px #FFFFFF;background-color:transparent;align:center;padding:0px;padding-top:1em;font-size:90%;" cellspacing="0px;"
+|-
+| style="width:12.5%;"| <div align="center"><imagemap>Berkas:Africa (orthographic projection).svg|50x50px|Afrika
+rect 0 0 500 500 [[Portal:Afrika|]] 
+desc none</imagemap></div>
+| style="width:12.5%;"| <div align="center"><imagemap>Berkas:South America (orthographic projection).svg|50x50px|Amerika Selatan
+rect 0 0 500 500 [[Portal:Amerika Selatan|]]
+desc none</imagemap></div>
+| style="width:12.5%;"| <div align="center"><imagemap>Berkas:Location North America.svg|50x50px|Amerika Utara
+rect 0 0 500 500 [[Portal:Amerika Utara|]] 
+desc none</imagemap></div>
+| style="width:12.5%;"| <div align="center"><imagemap>Berkas:Antarctica (orthographic projection).svg|75x50px|Antarktika
+rect 0 0 1000 750 [[Portal:Antarktika|Antarktika]] 
+desc none</imagemap></div>
+| style="width:12.5%;"| <div align="center"><imagemap>Berkas:Asia (orthographic projection).svg|50x50px|Asia 
+rect 0 0 500 500 [[Portal:Asia|]] 
+desc none</imagemap></div>
+| style="width:12.5%;"| <div align="center"><imagemap>Berkas:Australia (orthographic projection).svg|75x50px|Australia
+rect 0 0 1000 750 [[Portal:Australia|Australia]] 
+desc none</imagemap></div>
+| style="width:12.5%;"| <div align="center"><imagemap>Berkas:Europe (orthographic projection).svg|75x50px|Eropa
+rect 0 0 1000 750 [[Portal:Eropa|]] 
+desc none</imagemap></div>
+| style="width:12.5%;"| <div align="center"><imagemap>Berkas:Oceania (orthographic projection).svg|75x50px|Oseania
+rect 0 0 1000 750 [[Portal:Oseania|Oseania]] 
+desc none</imagemap></div>
+|- style="padding:0px;" cellspacing="0px;"
+! style="text-align:center;"|'''[[Portal:Afrika|Afrika]]'''
+! style="text-align:center;"|'''[[Portal:Amerika Selatan|Amerika Selatan]]'''
+! style="text-align:center;"|'''[[Portal:Amerika Utara|Amerika Utara]]'''
+! style="text-align:center;"|'''[[Portal:Antarktika|Antarktika]]'''
+! style="text-align:center;"|'''[[Portal:Asia|Asia]]'''
+! style="text-align:center;"|'''[[Portal:Australia|Australia]]'''
+! style="text-align:center;"|'''[[Portal:Eropa|Eropa]]'''
+! style="text-align:center;"|'''[[Portal:Oseania|Oseania]]'''
+|-
+|}<noinclude>[[Kategori:Templat Portal|{{PAGENAME}}]]</noinclude>

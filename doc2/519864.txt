@@ -1,0 +1,13 @@
+Templat:Pengguna novel komedi romantis
+{{userbox
+| logo-background = khaki
+| info-background = pink
+| border-color = dodgerblue
+| info-color   = 
+| logo = [[Berkas:PEO-couple with heart.svg|50px]]
+| info = <center>Pengguna ini penggemar novel '''[[komedi romantis]]'''</center>
+}}{{#if:{{{kat|}}}||<includeonly>[[Kategori:Pengguna penggemar novel komedi romantis|{{PAGENAME}}]]</includeonly>}}<noinclude>
+{{clear}}
+Kategori yang ditambahkan: {{kt|Pengguna penggemar novel komedi romantis}}
+[[Kategori:Templat userbox minat|komedi romantis]]
+</noinclude>

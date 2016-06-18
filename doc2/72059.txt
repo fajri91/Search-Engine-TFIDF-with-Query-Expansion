@@ -1,0 +1,20 @@
+Templat:Pancalang, Kuningan
+{{Navigasi ID Desa |provinsi=Jawa Barat |dati2=Kabupaten |nama dati2=Kuningan
+|nama kecamatan=Pancalang
+|d1=Danalampah
+|d2=Kahiyangan
+|d3=Mekarjaya
+|d4=Pancalang
+|d5=Patalagan
+|d6=Rajawetan
+|d7=Sarewu
+|d8=Silebu
+|d9=Sindangkempeng
+|d10=Sumbakeling
+|d11=Tajurbuntu
+|d12=Tarikolot
+|d13=Tenjolayar
+}}<noinclude>
+[[Kategori:Templat desa/kelurahan di Jawa Barat|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Kuningan|{{PAGENAME}}]]
+</noinclude>

@@ -1,0 +1,15 @@
+Berkas:Usj.JPG
+== {{int:filedesc}} ==
+{{Information
+| description    =
+Universal Globe, Universal Studios Japan, Osaka (2007)
+
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{GFDL-self}}

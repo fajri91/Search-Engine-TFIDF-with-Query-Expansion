@@ -1,0 +1,167 @@
+Wikipedia:Nama pengguna/Proposal
+{{Tanpakonsensus}}
+
+'''Kebijakan nama pengguna''' ([[Bahasa Inggris|Inggris]]: '''''username policy''''') mengatur mengenai cara dan tindakan yang dapat diterima secara umum mengenai penamaan dan penggunaan sebuah akun pengguna di [[Wikipedia bahasa Indonesia]].
+
+Anda mungkin ingin '''[[Istimewa:Masuk log/signup|membuat sebuah akun]]''' jika Anda belum memilikinya. Membuat akun memiliki [[Wikipedia:Keuntungan mempunyai akun|beberapa keuntungan]]; secara khusus, kontribusi Anda akan tercatat sebagai milik dari akun tersebut. 
+
+== Memilih nama pengguna ==
+Tergantung seberapa besar tingkat anonimitas yang diinginkan, Anda dapat memilih nama pengguna yang: 
+* sama dengan nama asli Anda, atau
+* sebuah nama panggilan yang familier, atau
+* nama samaran yang tidak Anda gunakan di tempat lain.
+
+Jika Anda memilih menggunakan nama asli Anda, pilihlah sebuah nama pengguna yang nyaman digunakan baik oleh Anda sendiri maupun oleh orang lain, dan pastikan nama yang Anda pilih itu tidak mengganggu proyek Wikipedia. Sebuah nama yang kontroversial mungkin menyebabkan kesan yang buruk bagi pengguna lain.
+
+Nama pengguna di Wikipedia bersifat sensitif kapital (''case sensitive''), dan huruf pertama selalu dikapitalisasi. Secara bakunya, nama pengguna Anda akan muncul sebagai [[Bantuan:Tanda tangan|tanda tangan]] Anda ketika mengirimkan pesan di [[Wikipedia:Halaman pembicaraan|halaman pembicaraan]].
+
+:{| {{prettytable}}
+|- bgcolor=lightgray
+! width=30% | Memilih nama pengguna || Catatan
+|- valign=top
+|
+'''Nama asli'''
+:Penggunaan nama asli akan mempermudah menjejaki kontribusi kepada seorang individual.
+|
+{{br}}
+* Pastikan Anda telah mempertimbangkan keuntungan dan kekurangan dalam berkontribusi menggunakan nama Asli Anda.
+* Walaupun dimungkinkan untuk belakangan mengganti nama pengguna Anda (lihat [[#Mengubah nama pengguna Anda|Mengubah nama pengguna Anda]] di bawah), catatan mengenai nama pengguna Anda yang sebelumnya akan tetap eksis.
+* Anda tidak boleh menggunakan nama seseorang yang terkenal, '''kecuali''' itu memang nama asli Anda, dan Anda memberikan klarifikasi mengenai identitas Anda, apakah orang yang sama atau berbeda. 
+*: Pengurus akan [[Wikipedia:Kebijakan pemblokiran|memblokir]] nama-nama pengguna semacam ini, sampai diklarifikasi dengan jelas.
+*: Jika Anda diblokir karena nama pengguna Anda yang mirip dengan nama seseorang yang sudah terkenal, jangan merasa terganggu; karena ini adalah prosedur yang diperlukan untuk mencegah peniruan pribadi. Silakan kirimkan e-mail ke [mailto:info@wikimedia.web.id info@wikimedia.web.id] untuk melakukan klarifikasi.
+|- valign=top
+|
+'''Nama pengguna non-Latin'''
+:Kontributor dipersilakan untuk menggunakan nama pengguna yang tidak ditulis menggunakan [[abjad Latin]].
+|
+{{br}}
+* Perlu diingat bahwa skrip bahasa non-Latin (seperti bahasa Arab, Sirilik, Cina, Yunani, atau Jepang) tidak dapat dibaca oleh kebanyakan kontributor Wikipedia bahasa Indonesia.
+* Untuk menghindari kebingungan dan membantu navigasi, para pengguna dengan nama-nama pengguna seperti itu didorong untuk menggunakan abjad Latin pada [[Bantuan:Tanda tangan|tanda tangan]] mereka.
+|- valign=top
+|
+'''Nama pengguna yang mirip'''
+:Nama-nama pengguna yang sangat mirip dengan nama yang sudah ada hanya dapat dibuat oleh [[Wikipedia:Pengurus|Pengurus]].
+|
+{{br}}
+* Jika Anda ingin menggunakan nama pengguna semacam ini, Anda dapat mengajukannya di [[Wikipedia:Permintaan pembuatan akun]].
+* Anda tidak boleh menggunakan nama pengguna yang dapat menyebabkan ketertukaran dengan seorang kontributor aktif. Hanya nama pengguna yang mirip dengan nama-nama yang tidak dipergunakan atau tidak aktif saja yang boleh digunakan.
+* Anda dapat melihat [[Istimewa:Listusers|Daftar pengguna]] untuk mengecek apakah suatu nama pengguna sudah dipergunakan.
+<!--The program is a bit over-sensitive - if the user name is different enough as to prevent other people from confusing the two users, the account should be approved regardless of how active the existing account is.
+
+If your username is similar to that of another contributor or an article, you may wish to provide some form of [[Wikipedia:Disambiguation|disambiguation]], for example by adding {{tl|thisuser}} to the top of your [[Wikipedia:User page|user page]]. Linking to user pages within articles is not permitted.-->
+|}
+
+== Nama pengguna yang dilarang ==
+Wikipedia tidak mengizinkan nama-nama pengguna yang menyesatkan, promosional, ofensif, atau memecah belah.
+
+:{| {{prettytable}}
+|- bgcolor=lightgray
+! width=30% | Nama pengguna yang dilarang || Catatan
+|- valign=top
+|
+'''Nama-nama pengguna yang menyesatkan'''
+|
+Merupakan nama-nama yang mengisyaratkan hal-hal yang menyesatkan mengenai kontributor yang bersangkutan.
+
+Sebagai contoh:
+* nama yang menyesatkan fakta-fakta
+* nama yang mengimpresikan otoritas yang tidak layak, atau
+* nama yang mengesankan bahwa akun tersebut dioperasikan oleh sebuah grup, proyek, atau secara kolektif ketimbang satu individu.
+|- valign=top
+|
+'''Nama-nama pengguna yang promosional'''
+|
+Nama-nama pengguna yang digunakan untuk mempromosikan sebuah perusahaan, grup, atau organisasi komersial maupun non-komersial di Wikipedia.
+|- valign=top
+|
+'''Nama-nama pengguna yang ofensif'''
+|
+Nama-nama yang dinilai menyebabkan lingkungan penyuntingan yang harmonis menjadi terganggu.
+|- valign=top
+|
+'''Nama-nama pengguna yang memecah belah'''
+|
+Nama-nama semacam ini termasuk:
+* pesan-pesan yang palsu,
+* serangan kepada pribadi, atau
+* maksud-maksud yang dapat mengacaukan atau mengganggu Wikipedia.
+|}
+
+Kriteria-kriteria di atas berlaku baik untuk nama-nama pengguna maupun untuk [[Bantuan:Tanda tangan|tanda tangan]]. Nama-nama pengguna yang terlarang dalam bahasa-bahasa lain, atau merupakan nama-nama yang dilarang dengan kesengajaan salah eja dan substitusi karakter, baik secara langsung maupun tidak langsung, juga dilarang digunakan di Wikipedia bahasa Indonesia.
+
+Garis batas antara nama-nama pengguna mana saja yang dapat diterima atau tidak dapat diterima, pada akhirnya adalah berdasarkan opini dari para pengguna. Jika Anda ingin mendapatkan persetujuan atas suatu nama pengguna, Anda dapat melakukannya juga dengan memasukkan permohonan di [[Wikipedia:Permintaan pembuatan akun]].
+
+=== Perlakuan terhadap nama-nama yang dilarang ===
+Nama-nama pengguna yang nyata-nyata dilarang:
+* dapat dilaporkan segera kepada Pengurus, disertai dengan penjelasan atas isu tersebut, serta
+* dapat langsung [[Wikipedia:Kebijakan pemblokiran|diblokir]] secara langsung oleh [[Wikipedia:Pengurus|Pengurus]]
+
+Pengurus dapat mendiskusikan mengenai masalah nama-nama yang tidak layak ini dengan pembuat akun tersebut, yang mungkin tidak terlalu familier dengan kebijakan nama pengguna. Mereka harus didorong untuk membuat sebuah nama akun baru yang lebih pantas di lingkup Wikipedia.
+<!--
+Usernames which are not obviously inappropriate, but which may fit the criteria listed above should not be immediately blocked. The issue should be discussed with the account's creator, who may not be familiar with the username policy. They should be encouraged to create a new account with a more appropriate name. If this is unsuccessful, a [[Wikipedia:Requests for comment/User names|request for comment]] on the contributor's username may be created, and the contributor may be required to change their username if a consensus to do so is established.
+-->
+<!--
+Administrators may issue username [[Wikipedia:Blocking policy|blocks]] under the following circumstances:
+
+* Usernames that are clearly unacceptable for use on Wikipedia, but have no obvious [[Wikipedia:Disruptive editing|disruptive]] intent may be blocked indefinitely, but the block should affect only that account (disable [[Wikipedia:Autoblock|autoblocks]], and disable "prevent account creation"). If your account has been blocked for this reason, don't take it personally; it is intended to disable the username you chose, not to prevent you from contributing. Please read this page carefully and choose a more appropriate name.
+* Disruptive usernames that have clearly been created only to cause trouble should also be blocked indefinitely, but in such cases it is usually also desirable to block anonymous editing and prevent further accounts being created (enable [[Wikipedia:Autoblock|autoblocks]], and enable "prevent account creation"). Such disruptive usernames may contain [[Wikipedia:Harassment|harassment]] or [[Wikipedia:No personal attacks|personal attacks]], or be easily identifiable as a previously [[Wikipedia:Banning policy|banned]] user or [[Wikipedia:Vandalism|vandal]].
+* Any block issued as a result of a user's behavior may take their username into account, if it is part of the problem. Such a block may be extended to an indefinite block in order to disallow the username. Behavioural blocks are usually issued for [[Wikipedia:Disruptive editing|disruption]], [[Wikipedia:Civility|incivility]] or [[Wikipedia:No personal attacks|personal attacks]].
+
+Inappropriate usernames do not need to be reported or blocked if the user has made no contributions; most user accounts that are registered are never used.
+-->
+=== Nama-nama pengguna yang membingungkan ===
+Kegunaan sebuah nama pengguna adalah untuk mengidentifikasikan para kontributor. Jika nama pengguna atau tanda tangan Anda dianggap membingungkan, para pengguna lain dapat meminta Anda mengubahnya. 
+
+Namun demikian, nama pengguna yang membingungkan bukanlah nama pengguna yang dilarang seperti di atas, karena nama pengguna yang membingungkan mungkin masih layak untuk digunakan tanpa harus diblokir atas alasan terlarang.
+<!--
+Unnecessarily confusing usernames can be a red flag for other problems. An editor with a confusing username or signature may be blocked sooner than usual for other policy violations such as disruption or vandalism, if their confusing username contributes to the disruption. As with all other blocks, admins should use their discretion and common sense.
+
+In the uncommon case that an otherwise good-faith contributor deliberately ignores requests to change their username, and goes on using a name that other editors agree is too confusing, then that username may be blocked to prevent further disruption.
+-->
+== Mengubah nama pengguna Anda ==
+Nama pengguna dapat diubah oleh para [[Wikipedia:Birokrat|Birokrat]]; atas permintaan di [[Wikipedia:Perubahan nama pengguna/Permintaan]]. Birokrat pada umumnya tidak akan mengubah nama akun yang hanya memiliki sedikit atau sama sekali tidak ada suntingan, karena lebih sederhana dan cepat untuk [[Istimewa:Masuk log/signup|membuat sebuah akun baru]].
+
+Sekali diubah, kontribusi dari nama pengguna yang bersangkutan akan turut terbawa di bawah nama yang baru tersebut, baik untuk [[Bantuan:Versi terdahulu|riwayat suntingan]], [[Istimewa:Log|log]], dan [[Istimewa:Kontribusi|kontribusi pengguna]]. Tanda tangan di halaman-halaman diskusi tidak turut diubah; dan harus diubah secara manual. Perubahan secara manual itu tidaklah direkomendasikan, kecuali kontributor yang bersangkutan hendak menghapus sebanyak mungkin informasi mengenai nama pengguna lama mereka atas dasar alasan privasi. Dalam beberapa situasi, nama pengguna yang lama akan tetap muncul di versi-versi lama halaman-halaman pembicaraan. Daftar perubahan nama pengguna dapat ditemukan di [[Istimewa:Log/renameuser|log penggantian nama pengguna]].
+
+== Menghapus akun Anda ==
+Akun-akun pengguna tidaklah dapat dihapuskan. Salah satu alasannya adalah karena perlunya seluruh kontribusi untuk diatributkan ke suatu identitas; baik nama pengguna ataupun [[Alamat IP]], untuk kontribusi anonim. Namun demikian, Anda dapat meminta agar halaman pengguna dan halaman pembicaraan Anda untuk dihapuskan, dan meminta nama akun pengguna untuk diubah sebagaimana dijelaskan di atas.
+
+== Berbagi akun ==
+Akun pengguna harus merepresentasikan hanya satu individu. Berbagi akun atau berbagi kata sandi suatu akun dengan orang lain tidaklah diizinkan, dan jika dilakukan, Pengurus akan memblokir akun tersebut.
+
+Pengecualian terhadap aturan ini dibatasi hanya untuk akun-akun yang secara langsung mewakili [[Wikimedia Foundation]] atau asosiasi-asosiasi lokalnya, atau komite-komite internal Wikipedia, yang mana tidak ada satu pun yang saat ini aktif, dan [[Wikipedia:Bot|akun-akun bot]] yang dioperasikan dengan lebih dari satu kontributor, dengan catatan bahwa pengaturan akun-akun ini dinyatakan secara jelas dan telah disetujui oleh konsensus.
+
+== Menggunakan lebih dari satu akun ==
+Kontributor tidak disarankan untuk menggunakan lebih dari satu akun tanpa alasan yang jelas. Sebagai contoh, para kontributor berpengalaman mungkin membuat sebuah akun baru untuk mengalami fungsi-fungsi komunitas untuk para pengguna baru atau tidak berpengalaman, dan para kontributor yang menggunakan nama asli mereka mungkin perlu menggunakan akun samaran untuk kontribusi tertentu yang tidak ingin diasosiasikan kepada nama asli mereka. Kontributor yang mengoperasikan proses penyuntingan terotomatisasi harus melakukannya dengan [[Wikipedia:Bot|akun bot]] alternatif. Sebaiknya [[Wikipedia:Halaman pengguna|halaman pengguna]] menampilkan identifikasi multi akun tersebut.
+
+Setiap kebijakan di Wikipedia berlaku untuk setiap individu, bukan akun. Penggunaan akun kedua untuk melanggar suatu kebijakan akan menyebabkan penalti terhadap kesemua akun yang dimiliki individu tersebut. Seorang pengguna yang sedang [[Wikipedia:Kebijakan pemblokiran|diblokir]] dilarang menggunakan akun siluman untuk mengelak dari pemblokiran; dan jika dilakukan akan menyebabkan perluasan pemblokiran tersebut.
+
+=== Pengguna siluman ===
+Penggunaan multi akun untuk mengubah bobot suatu opini dikenal sebagai [[Wikipedia:Pengguna siluman|akun-akun siluman]] ([[bahasa Inggris]]: ''sockpuppet''), dan hal ini tidak diperbolehkan. Sebagai contoh, multi akun digunakan untuk berkomentar di proposal-proposal, pemungutan suara, atau [[Wikipedia:Perang suntingan|perang suntingan]]. Hal ini termasuk penggunaan multi akun untuk menyatakan opini alternatif seperti untuk melemahkan opini yang terkuat.
+
+Multi akun yang digunakan secara tidak layak harus [[Wikipedia:Kebijakan pemblokiran|diblokir]] secara tidak terbatas oleh [[Wikipedia:Pengurus|Pengurus]]. Akun lain yang dimiliki oleh individu yang sama juga harus diblokir. Kecurigaan atas suatu pelanggaran biasanya didiskusikan oleh para [[Wikipedia:Pengurus|Pengurus]] dengan para [[Wikipedia:Pemeriksa|Pemeriksa]].
+
+Penggunaan akun siluman adalah hal yang seringkali cukup sulit dideteksi. Para kontributor harus meneliti secara khusus ketika menghadapi kecurigaan akan penggunaan akun siluman, memastikan bahwa diskusi mengenai situasi ini dilakukan secara terbuka dan transparan. Dalam kondisi yang tidak jelas, informasi log server dapat diperiksa; dan dalam banyak keadaan, informasi ini cukup untuk mengkonfirmasikan atau memastikan bahwa kedua akun dioperasikan oleh individu yang sama. Akses terhadap informasi ini hanya dibatasi kepada [[Istimewa:Daftarpengguna/checkuser|beberapa pengguna]] saja, yang diharuskan untuk tunduk di bawah [[foundation:Kebijakan privasi|kebijakan privasi]] [[Wikimedia Foundation]].
+
+Akun yang digunakan sebagai akun siluman dapat diidentifikasikan di [[Wikipedia:Halaman pengguna|halaman pengguna]] dan/atau halaman pembicaraan mereka. Hal ini tidak diharuskan karena informasi mengenai ini biasanya telah tercatat di [[Istimewa:Log/block|log pemblokiran]] ketika akun tersebut diblokir.
+
+=== Akun eka-guna ===
+Akun eka-guna ([[Bahasa Inggris|Inggris]]: ''single-purpose account'') adalah akun yang berkontribusi secara regular, tetapi hanya melakukan suatu hal tertentu saja, misalnya menyunting suatu artikel tertentu atau mengusulkan suatu pendapat. Biasanya, para kontributor reguler akan menyunting dan mendiskusikan banyak hal-hal berbeda, tapi akun-akun semacam ini mungkin mengindikasikan seorang kontributor baru atau tidak berpengalaman. Namun demikian, ini bisa saja mengindikasikan akun siluman. Kontributor harus [[Wikipedia:Asumsikan niat baik|mengasumsikan niat baik]] ketika berinteraksi dengan akun-akun semacam ini.
+
+=== Antek pengguna ===
+Kadang-kadang, banyak individu membuat secara khusus akun-akun baru yang digunakan untuk berpartisipasi, atau mempengaruhi, suatu diskusi tertentu.
+
+Akun semacam ini disebut sebagai "antek pengguna" ([[Bahasa Inggris|Inggris]]: ''meatpuppets''). Akun-akun semacam ini mungkin adalah teman-teman dari penyunting lain atau subyek artikel, atau telah dikumpulkan oleh seseorang untuk mendukung sudut pandang tertentu dalam suatu debat. Praktek mempengaruhi ini tidak dapat diterima; karena mereka sulit dibedakan dari pengguna siluman, maka mereka dianggap sebagai pengguna siluman. Jika ada ketidakpastian apakah suatu kelompok adalah satu orang dengan beberapa akun siluman, atau beberapa akun yang merupakan antek-antek pengguna, maka seluruh akun-akun tersebut akan diperlakukan sebagai satu individual.
+
+=== Akun kembar ===
+Membuat sebuah nama pengguna yang mirip dengan nama Anda sendiri untuk mencegah peniruan oleh orang lain adalah tindakan yang diperbolehkan. Akun-akun semacam ini disebut akun kembar atau ''[[doppelgnger]]''. Halaman-halaman akun ''doppelgnger'' harus mencantumkan identifikasi ini, atau [[Wikipedia:Pengalihan|dialihkan]] ke halaman pengguna utama Anda. Akun-akun ''doppelgnger'' tidak boleh digunakan untuk melakukan penyuntingan.
+
+== Lihat pula ==
+* [[Bantuan:Masuk log]]
+* [[Wikipedia:Perubahan nama pengguna]]
+* [[Wikipedia:Pengguna siluman]]
+
+<!-- interwiki -->
+
+[[en:Wikipedia:Username]]
+[[fa:: ]]

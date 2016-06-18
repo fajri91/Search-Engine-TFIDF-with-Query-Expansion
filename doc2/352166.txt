@@ -1,0 +1,23 @@
+Templat:Likupang Timur, Minahasa Utara
+{{Navigasi ID Desa |provinsi=Sulawesi Utara|dati2=Kabupaten |nama dati2=Minahasa Utara
+|nama kecamatan=Likupang Timur
+|d1=Kahuku
+|d2=Kalinaun
+|d3=Libas
+|d4=Lihunu
+|d5=Likupang Dua
+|d6=Likupang Satu
+|d7=Maen
+|d8=Marinsow
+|d9=Pinenek
+|d10=Pulisan
+|d11=Rinondoran
+|d12=Sarawet
+|d13=Wineru
+|d14=Winuri
+}}<noinclude>
+== Pranala luar ==
+* [http://sirusa.bps.go.id/doc/MFD.pdf Daftar Sirusa BPS]
+[[Kategori:Templat desa/kelurahan di Sulawesi Utara|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Minahasa Utara|{{PAGENAME}}]]
+</noinclude>

@@ -1,0 +1,13 @@
+Templat:Marinduque
+{{Navbox
+|name= Marinduque
+|image = 
+|name  = Marinduque
+| listclass = hlist
+| title = [[File:Vlag Fil Marinduque.gif|23px]] Provinsi [[Marinduque]]
+|group1 = [[Munisipalitas]]
+|list1 = [[Boac, Marinduque|Boac]]&nbsp; [[Buenavista, Marinduque|Buenavista]]&nbsp; [[Gasan, Marinduque|Gasan]]&nbsp; [[Mogpog, Marinduque|Mogpog]]&nbsp; [[Santa Cruz, Marinduque|Santa&nbsp;Cruz]]&nbsp; [[Torrijos, Marinduque|Torrijos]]
+}}
+<noinclude>
+[[Kategori:Templat pembagian administratif Filipina|Marinduque]]
+</noinclude>

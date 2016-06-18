@@ -1,0 +1,17 @@
+CISM
+'''''Certified Information Security Manager''''' ('''CISM''') adalah [[sertifikasi profesional]] untuk [[manajer]] [[keamanan informasi]] yang diberikan oleh [[ISACA]]. CISM bertujuan memberikan pengetahuan umum pada bidang keamanan informasi dan mencakup pengetahuan mengenai [[manajemen risiko]] informasi, [[tata kelola teknologi informasi|tata kelola]] keamanan informasi, serta isu-isu praktis seperti pengembangan dan pengelolaan program keamanan informasi serta [[manajemen insiden]].
+
+Untuk mendapatkan sertifikasi CISM, kandidat harus melalui ujian tulis sertifikasi serta memiliki pengalaman paling tidak lima tahun di bidang keamanan informasi. Biasanya, profesional yang telah memiliki sertifikasi [[CISA]] atau [[CISSP]] juga berupaya mendapatkan sertifikasi CISM.
+
+== Lihat pula ==
+
+* [[CISA]]
+* [[CISSP]]
+
+== Pranala luar ==
+
+* {{en}} [http://www.isaca.org/Template.cfm?Section=CISM_Certification&Template=/TaggedPage/TaggedPageDisplay.cfm&TPLID=16&ContentID=4528 CISM Certification]
+{{ti-stub}}
+
+[[Kategori:Sertifikasi profesional]]
+[[Kategori:Keamanan data]]

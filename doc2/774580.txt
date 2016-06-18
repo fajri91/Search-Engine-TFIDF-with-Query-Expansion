@@ -1,0 +1,11 @@
+Templat:Pengguna atlet
+{{userbox
+|logo            = [[Berkas:P SPORT.png|48px]]
+|info            = Pengguna ini adalah '''[[atlet]]''' profesional.
+|border-color    = red
+|logo-background = #FFA07A
+|info-background = #9ACD32
+}}{{#if:{{{kat|}}}||<includeonly>
+[[Kategori:Pengguna atlet|{{PAGENAME}}]]</includeonly>}}<noinclude>
+[[Kategori:Templat kotak pengguna profesi|Atlet]]
+</noinclude>

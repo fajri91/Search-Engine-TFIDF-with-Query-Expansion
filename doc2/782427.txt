@@ -1,0 +1,52 @@
+HD 179949
+{{Starbox short |
+ name=HD 179949 |
+ epoch=J2000 |
+ constell=[[Sagittarius (konstelasi)|Sagittarius]] |
+ ra=19<sup>h</sup> 15<sup>m</sup> 33.23<sup>s</sup> |
+ dec=-24 10' 45.67" |
+ spectral=F8V |
+ appmag_v=6.25 |
+ dist_ly=88.18 |
+ dist_pc=27.05 |
+ names=V5652 Sgr, GJ&nbsp;749, CD-2415161,<br>HR&nbsp;7291, HIP&nbsp;94645
+}}
+
+'''HD 179949''' adalah sebuah [[bintang]] [[apparent magnitude|magnitude]] ke-6 di [[konstelasi]] [[Sagittarius (konstelasi)|Sagittarius]]. Bintang tersebut adalah sebuah [[sekuensi utama|obyek katai]] berwarna kuning keputihan ([[klasifikasi spektral|kelas spektral]] F8&nbsp;V), sebuah jenis dari bintang panas dan lebih panas ketimbang [[Matahari]]. Bintang tersebut berjarak 88 [[tahun cahaya]] dari [[Bumi]].
+
+==Sistem planetarium==
+Satu-satunya [[planet]] yang diketahui mengorbit HD 179949 adalah [[HD 179949 b]].<ref name="Tinney2001"/>
+
+{{OrbitboxPlanet begin
+| table_ref = <ref name="Butler2006"/><ref>http://arxiv.org/pdf/1404.3769v1.pdf</ref>
+}}
+{{OrbitboxPlanet
+| exoplanet = [[HD 179949 b|b]]
+| mass = 0.98  0.004
+| period = 3.092514  0.000032
+| semimajor = 0.0443  0.0026
+| eccentricity = 0.022  0.015
+| inclination = 67.74.3
+}} 
+{{Orbitbox end}}
+
+==Referensi==
+{{Reflist|colwidth=30em|refs=
+
+<ref name="Butler2006">{{cite journal | url=http://www.iop.org/EJ/article/0004-637X/646/1/505/64046.html | title=Catalog of Nearby Exoplanets | last1=Butler | first1=R. P. | last2=Wright | first2=J. T. | last3=Marcy | first3=G. W. | last4=Fischer | first4=D. A. | last5=Vogt | first5=S. S. | last6=Tinney | first6=C. G. | last7=Jones | first7=H. R. A. | last8=Carter | first8=B. D. | last9=Johnson | first9=J. A. | display-authors=1 | journal=The Astrophysical Journal | volume=646 | issue=1 | pages=505522 | date=2006 | arxiv=astro-ph/0607493 | bibcode=2006ApJ...646..505B | doi=10.1086/504701 }}</ref>
+
+<ref name="Tinney2001">{{cite journal | url=http://www.iop.org/EJ/article/0004-637X/551/1/507/53098.html | title=First Results from the Anglo-Australian Planet Search: A Brown Dwarf Candidate and a 51 Peglike Planet | last1=Tinney | first1=C. G. | last2=Butler | first2=R. Paul | last3=Marcy | first3=Geoffrey W. | last4=Jones | first4=Hugh R. A. | last5=Penny | first5=Alan J. | last6=Vogt | first6=Steven S. | last7=Apps | first7=Kevin | last8=Henry | first8=Gregory W. | display-authors=1 | journal=The Astrophysical Journal | volume=551 | issue=1 | pages=507511 | date=2001 | arxiv=astro-ph/0012204 | bibcode=2001ApJ...551..507T | doi=10.1086/320097 }}</ref>
+
+}}
+
+==Pranala luat==
+*[http://simbad.u-strasbg.fr/Simbad SIMBAD] [http://simbad.u-strasbg.fr/sim-id.pl?protocol=html&Ident=HD+179949 entri bintang], [http://simbad.u-strasbg.fr/sim-id.pl?protocol=html&Ident=HD+179949+B entri planet]
+{{Sky|19|15|33.23|-|24|10|45.67|88.18}}
+
+{{Bintang-Bintang Sagittarius}}
+
+[[Kategori:Obyek Katalog Henry Draper|179949]]
+[[Kategori:Obyek Hipparcos|094645]]
+[[Kategori:Sagittarius (konstelasi)]]
+[[Kategori:Bintang sekuensi utama jenis F]]
+[[Kategori:Obyek HR|7291]]

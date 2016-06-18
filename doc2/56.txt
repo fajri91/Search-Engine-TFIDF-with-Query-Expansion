@@ -1,0 +1,48 @@
+Perangkat lunak
+[[Berkas:OpenOffice.org Writer.png|thumb|300px|[[OpenOffice.org]] Writer]]
+'''Perangkat lunak''' ([[bahasa Inggris]]:''software'') adalah istilah khusus untuk [[data]] yang diformat, dan disimpan secara [[digital]], termasuk [[program komputer]], dokumentasinya, dan berbagai informasi yang bisa dibaca, dan ditulis oleh komputer. Dengan kata lain, bagian [[sistem komputer]] yang tidak berwujud. Istilah ini menonjolkan perbedaan dengan [[perangkat keras]] komputer.<ref>{{Citation
+  | publisher = Pusat Bahasa, Departement Pendidikan Nasional Republik Indonesia
+  | author2-link = Pusat Bahasa
+  | title = Kamus Besar Bahasa Indonesia
+  | year = 2008
+  | url = http://pusatbahasa.diknas.go.id/kbbi/
+  | accessdate = 2010-03-13}}</ref><ref>{{Citation
+  | title = Pengertian Software (perangkat lunak) Komputer
+  | date = 2008-11-17
+  | url = http://belajar-komputer-mu.com/pengertian-software-perangkat-lunak-komputer/
+  | accessdate = 2010-03-13}}</ref><ref>{{Citation
+  | last = 
+  | first = 
+  | author-link = 
+  | last2 = 
+  | first2 = 
+  | author2-link = 
+  | title = Kamus Komputer dan Istilah Teknologi Informasi
+  | date = 2005-06-09 10:40:51
+  | url = http://www.total.or.id/info.php?kk=perangkat+lunak
+  | accessdate = 2010-03-13}}</ref>
+
+Pembuatan perangkat lunak itu sendiri memerlukan "bahasa pemrograman" yang ditulis oleh programmer untuk selanjutnya di kompilasi dengan aplikasi kompiler sehingga menjadi kode yang bisa dikenali oleh mesin hardware.
+
+Di bawah ini ada beberapa contoh macam perangkat lunak, yaitu:
+
+* [[Perangkat lunak aplikasi]] (''application software'') seperti [[pengolah kata]], [[lembar tabel hitung]], [[pemutar media]], dan [[paket aplikasi perkantoran]] seperti [[OpenOffice.org]].
+* [[Sistem operasi]] (''operating system'') misalnya [[Linux]].
+* [[Perkakas pengembangan perangkat lunak]] (''software development tool'') seperti [[Kompilator]] untuk bahasa pemrograman tingkat tinggi seperti [[Pascal (bahasa pemrograman)|Pascal]] dan bahasa pemrograman tingkat rendah yaitu [[bahasa rakitan]].
+* [[Pengendali perangkat keras]] (''device driver'') yaitu penghubung antara perangkat perangkat keras pembantu, dan komputer adalah software yang banyak dipakai di swalayan, dan juga sekolah, yaitu penggunaan ''barcode scanner'' pada aplikasi database lainnya.<ref name=Sistem Informasi Sekolah Terpadu>[http://wongmultimedia.com/index.php?option=com_content&view=article&id=1:sistem-informasi-sekolah-terpadu-mysyster&catid=2:software Sistem informasi sekolah terpadu]</ref>
+* [[Perangkat lunak menetap]] (''firmware'') seperti yang dipasang dalam [[jam tangan]] digital, dan [[pengendali jarak jauh]].
+* [[Perangkat lunak bebas]] (''free 'libre' software'') dan [[Perangkat lunak sumber terbuka]] (''open source software'') 
+* [[Perangkat lunak gratis]] (''freeware'') 
+* [[Perangkat lunak uji coba]] (''shareware'' / trialware'') 
+* [[Perangkat lunak perusak]] (''malware'')
+
+== Lihat pula ==
+* [[Perangkat keras]]
+
+== Referensi ==
+{{Reflist}}
+
+{{perangkat lunak-stub}}
+
+[[Kategori:Perangkat lunak| ]]
+[[Kategori:Komputer]]

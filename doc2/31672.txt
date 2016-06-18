@@ -1,0 +1,40 @@
+Templat:Kabupaten Bojonegoro
+{{Navbox
+| name = Kabupaten Bojonegoro
+| listclass = hlist
+| title =[[Kabupaten Bojonegoro]], [[Jawa Timur]]
+| image = [[Berkas:Lambang bojonegoro.jpg|30px|Lambang Kabupaten Bojonegoro]]
+| group1 = Kecamatan
+| list1 = <div><!--
+-->[[Balen, Bojonegoro|Balen]]{{}}<!--
+-->[[Baureno, Bojonegoro|Baureno]]{{}}<!--
+-->[[Bojonegoro, Bojonegoro|Bojonegoro]]{{}}<!--
+-->[[Bubulan, Bojonegoro|Bubulan]]{{}}<!--
+-->[[Dander, Bojonegoro|Dander]]{{}}<!--
+-->[[Gayam, Bojonegoro|Gayam]]{{}}<!--
+-->[[Gondang, Bojonegoro|Gondang]]{{}}<!--
+-->[[Kadewan, Bojonegoro|Kadewan]]{{}}<!--
+-->[[Kalitidu, Bojonegoro|Kalitidu]]{{}}<!--
+-->[[Kanor, Bojonegoro|Kanor]]{{}}<!--
+-->[[Kapas, Bojonegoro|Kapas]]{{}}<!--
+-->[[Kasiman, Bojonegoro|Kasiman]]{{}}<!--
+-->[[Kedungadem, Bojonegoro|Kedungadem]]{{}}<!--
+-->[[Kepohbaru, Bojonegoro|Kepohbaru]]{{}}<!--
+-->[[Malo, Bojonegoro|Malo]]{{}}<!--
+-->[[Margomulyo, Bojonegoro|Margomulyo]]{{}}<!--
+-->[[Ngambon, Bojonegoro|Ngambon]]{{}}<!--
+-->[[Ngasem, Bojonegoro|Ngasem]]{{}}<!--
+-->[[Ngraho, Bojonegoro|Ngraho]]{{}}<!--
+-->[[Padangan, Bojonegoro|Padangan]]{{}}<!--
+-->[[Purwosari, Bojonegoro|Purwosari]]{{}}<!--
+-->[[Sekar, Bojonegoro|Sekar]]{{}}<!--
+-->[[Sugihwaras, Bojonegoro|Sugihwaras]]{{}}<!--
+-->[[Sukosewu, Bojonegoro|Sukosewu]]{{}}<!--
+-->[[Sumberejo, Bojonegoro|Sumberejo]]{{}}<!--
+-->[[Tambakrejo, Bojonegoro|Tambakrejo]]{{}}<!--
+-->[[Temayang, Bojonegoro|Temayang]]{{}}<!--
+-->[[Trucuk, Bojonegoro|Trucuk]]<!--
+--></div>
+}}<noinclude>
+[[Kategori:Templat kecamatan Indonesia|Bojonegoro, Kabupaten]]
+</noinclude>

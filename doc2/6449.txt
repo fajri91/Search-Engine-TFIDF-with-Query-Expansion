@@ -1,0 +1,10 @@
+Templat:Tak netral
+{{ambox
+|type=content
+|text='''[[Wikipedia:Sudut pandang netral|Kenetralan]] sebagian atau keseluruhan {{{1|artikel}}} ini dipertentangkan.'''<br />Silakan melihat pembicaraan di halaman [[:{{TALKPAGENAME}}|diskusi]] artikel ini.{{#if:{{{kat|}}}||<includeonly>[[Kategori:Artikel yang dipertanyakan kenetralannya|{{PAGENAME}}]]</includeonly>}}
+}}<noinclude>
+
+*Kategori yang ditambahkan: {{kt|Artikel yang dipertanyakan kenetralannya}} 
+
+[[Kategori:Templat info artikel|{{PAGENAME}}]]
+</noinclude>

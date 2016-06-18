@@ -1,0 +1,35 @@
+Pystira karschi
+{{Taxobox
+|name = Pystira karschi
+|status = 
+|image = 
+|image_caption = 
+|domain = 
+|regnum = [[Animalia]]
+|phylum = [[Arthropoda]]
+|classis = [[Arachnida]]
+|ordo = [[Araneae]]
+|familia = [[Salticidae]]
+|genus =Pystira
+|species = Pystira karschi
+|binomial = Pystira karschi
+|binomial_authority =Thorell, 1881
+|range_map = 
+|range_map_caption = 
+|image2 = 
+|image2_caption = 
+|synonyms = 
+}}
+'''''Pystira karschi''''' adalah spesies [[laba-laba]] yang tergolong [[familia]] [[Salticidae]]. Spesies ini juga merupakan bagian dari genus [[Pystira]] dan ordo [[Araneae]]. Nama ilmiah dari spesies ini pertama kali diterbitkan pada tahun 1881 oleh Thorell.
+
+Laba-laba ini biasanya banyak ditemui di Nugini, Kepulauan Aru.
+
+== Referensi ==
+
+* Platnick, Norman I. (2010): [http://research.amnh.org/entomology/spiders/catalog/LINYPHIIDAE.html The world spider catalog], version 10.5. ''American Museum of Natural History''.
+
+{{DEFAULTSORT:Pystira karschi}}
+
+[[Kategori:Salticidae]]
+
+{{labalaba-stub}}

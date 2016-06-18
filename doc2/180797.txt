@@ -1,0 +1,18 @@
+Wikipedia:Gambar pilihan/1 2009
+{{#switch: {{{1|}}}
+|berkas=[[Berkas:Deutsche-Bank-Frankfurt-am-Main.jpg|250px]]
+|deskripsi=Markas besar [[Deutsche Bank AG]] di [[Frankfurt am Main]] / [[Jerman]].
+|#default={{Tepigambar|Deutsche-Bank-Frankfurt-am-Main.jpg|250|center}}
+<div align="center">Markas besar [[Deutsche Bank AG]] di [[Frankfurt am Main]] / [[Jerman]].{{br}}<small style="font-size:90%">''(ukuran asli 1.650  2.400)''</small>
+</div>
+<table width="100%" style="font-size:90%">
+<tr><td align="left">Kredit Berkas: [[:commons:User:Raymond|Raimond Spekking]], Juli 2003{{br}}Izin: [[GFDL]]</td>
+<td align="right">[[Wikipedia:Gambar pilihan/Daftar gambar pilihan 2008|Arsip Gambar Pilihan]]</td>
+</tr></table>
+}}<noinclude>
+{{clear}}
+----
+{{sembunyikan mulai|judul=POTD}}
+Gambar di atas adalah hasil yang akan ditampilkan di [[Halaman Utama]]. Gambar di samping adalah hasil yang akan ditampilkan di templat {{tl|POTD}}. 
+{{POTD|1 2009|{{:Wikipedia:{{PAGENAME}}|berkas|300px}}|{{:Wikipedia:{{PAGENAME}}|deskripsi|class=toccolours|float=right}}}}</noinclude>
+{{sembunyikan selesai}}

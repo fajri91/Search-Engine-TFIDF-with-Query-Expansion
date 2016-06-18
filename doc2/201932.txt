@@ -1,0 +1,46 @@
+Douy-la-Rame
+{{French commune|
+name=Douy-la-Rame|
+image_map = France_jms.png|
+x = 148|
+y = 68|
+lat_long={{coord|49|4|2|N|2|52|57|E}}|
+insee=77163|
+postal_code=77139|
+rgion=[[le-de-France (region)|le-de-France]]|
+dpartement=[[Seine-et-Marne]]|
+arrondissement=Meaux|
+canton=[[Kanton Lizy-sur-Ourcq|Lizy-sur-Ourcq]]|
+mayor=Nadine Caron|
+term=2008-2014|
+intercomm=[[Communaut de communes du Pays de l'Ourcq]]|
+elevation_min_m=73|
+elevation_max_m=127|
+area_km2=7.97|
+population=234|
+date-population=1999|
+density_km2=29|
+date-density=1999}}
+
+'''Douy-la-Rame''' merupakan sebuah [[komune di Perancis|komune]] di [[departemen di Perancis|departemen]] [[Seine-et-Marne]] di [[region di Perancis|region]] [[le-de-France (region)|le-de-France]] di utara-tengah [[Perancis]].
+
+== Demografi ==
+Pada [[sensus]] 1999, penduduknya berjumlah 234 jiwa.
+
+Penduduknya disebut sebagai ''Doyacois''.
+
+== Lihat pula ==
+* [[Komune di departemen Seine-et-Marne]]
+
+== Pranala luar ==
+* [http://www.iaurif.org/en/gis/fichescom/mos99/ficmos/mos77163.html 1999 Land Use, from IAURIF (Institute for Urban Planning and Development of the Paris-le-de-France rgion] {{en}}
+* [http://www.culture.gouv.fr/public/mistral/merimee_fr?ACTION=CHERCHER&FIELD_98=INSEE&VALUE_98=77163 French Ministry of Culture list for Douy-la-Rame] {{fr}}
+* [http://www.viamichelin.co.uk/viamichelin/gbr/dyn/controller/mapPerformPage?strAddress=&strCP=77139&strLocation=Douy-la-Rame&strCountry=1424&image2.x=28&image2.y=7 Map of Douy-la-Rame on Michelin] {{en}}
+
+{{Komune di Seine-et-Marne}}
+
+[[Kategori:Komune di Seine-et-Marne]]
+[[Kategori:Komune di Perancis]]
+
+
+{{SeineMarne-geo-stub}}

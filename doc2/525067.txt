@@ -1,0 +1,44 @@
+Templat:Skuat SC Paderborn 07
+{{Football squad
+| teamname    = SC Paderborn 07
+| name        = Skuat SC Paderborn 07 
+| bgcolor     = #015EAE
+| textcolor   = white
+| bordercolor = black
+| list        = <div>
+{{fsp2|no= 1|name=[[Lukas Kruse|Kruse]]}}
+{{fsp2|no= 3|name=[[Rafael Lpez Gmez|Rafa]]}}
+{{fsp2|no= 4|name=[[Tim Sebastian|Sebastian]]}}
+{{fsp2|no= 5|name=[[Dominik Wydra|Wydra]]}}
+{{fsp2|no= 6|name=[[Marvin Bakalorz|Bakalorz]]}}
+{{fsp2|no= 7|name=[[Marcel Ndjeng|Ndjeng]]}}
+{{fsp2|no= 8|name=[[Nick Proschwitz|Proschwitz]]}}
+{{fsp2|no= 9|name=[[Sran Laki|Laki]]}}
+{{fsp2|no=10|name=[[Mahir Salk|Salk]]}}
+{{fsp2|no=11|name=[[Moritz Stoppelkamp|Stoppelkamp]]}}
+{{fsp2|no=12|name=[[Oliver Kirch|Kirch]]}}
+{{fsp2|no=13|name=Schonlau}}
+{{fsp2|no=14|name=[[Thomas Bertels|Bertels]]}}
+{{fsp2|no=15|name=Ruck}}
+{{fsp2|no=16|name=[[Christian Bickel|Bickel]]}}
+{{fsp2|no=17|name=[[Niklas Hoheneder|Hoheneder]]}}
+{{fsp2|no=18|name=[[Kevin Stger|Stger]]}}
+{{fsp2|no=19|name=Brani}}
+{{fsp2|no=20|name=[[Marc Vucinovic|Vucinovic]]}}
+{{fsp2|no=21|name=[[Daniel Brckner|Brckner]]}}
+{{fsp2|no=22|name=[[Michael Heinloth|Heinloth]]}}
+{{fsp2|no=23|name=[[Mirnes Pepi|Pepi]]}}
+{{fsp2|no=24|name=[[Daniel Heuer Fernandes|Heuer Fernandes]]}}
+{{fsp2|no=25|name=[[Khaled Narey|Narey]]}}
+{{fsp2|no=26|name=[[Florian Hartherz|Hartherz]]}}
+{{fsp2|no=27|name=[[Idir Ouali|Ouali]]}}
+{{fsp2|no=29|name=[[Hauke Wahl|Wahl]]}}
+{{fsp2|no=30|name=[[Sleyman Ko|Ko]]}}
+{{fsp2|no=33|name=[[Jakub Sylvestr|Sylvestr]]}}
+{{fsp2|no=35|name=Brammen}}
+{{fsm|name=[[Stefan Effenberg|Effenberg]]}}
+</div>}}<noinclude>
+{{Squad maintenance}}
+[[Kategori:Templat skuat sepak bola Jerman|Paderborn 07, Sc]]
+
+</noinclude>

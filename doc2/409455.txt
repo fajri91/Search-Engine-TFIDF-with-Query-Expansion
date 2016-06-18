@@ -1,0 +1,154 @@
+Templat:NYC TV
+{{Navbox
+|name = NYC TV
+| listclass = hlist
+| title = [[Televisi terestrial|Siaran televisi lokal]] di [[wilayah metropolitan New York|wilayah metropolitan New York City]]
+|belowstyle = font-weight:bold
+
+|group1 = Saluran<br>[[bahasa Inggris]]
+|list1  = <div>
+* '''[[WCBS-TV]]''' (2.1 [[CBS]], 2.2 CBSNY+)
+* '''[[WNBC]]''' (4.1 [[NBC]], 4.2 [[Cozi TV]])
+* '''[[WNYW]]''' (5.1 / 9.2 [[Fox Broadcasting Company|FOX]], 5.2 [[Movies!]])
+* '''[[WABC-TV]]''' (7.1 [[American Broadcasting Company|ABC]], 7.2 [[Live Well Network|LWN HD]], 7.3 [[Live Well Network|LWN SD]])
+* '''[[WWOR-TV]]''' (9.1 / 5.2 [[MyNetworkTV|MNTV]], 9.3 [[Bounce TV|Bounce]])
+* '''[[WPIX]]''' (11.1 [[The CW Television Network|CW]], 11.2 [[Antenna TV]], 11.3 [[This TV]])
+* [[WPXN-TV]] (31.1 [[Ion Television|Ion]], 31.2 [[Qubo]], 31.3 [[ION Life]])
+* [[WZME]] (43.1 [[Me-TV]], 43.2 [[Retro Television|RTV]])
+* [[WRNN-TV]] {{allow wrap|(48.1 [[Stasiun independen (Amerika Utara)|Ind]] , 48.2 [[Blue Ocean Network]] , 48.3 [[Arirang TV]], 48.4 [[Global Christian Network]] , 48.5 [[NHK World]]}})
+* [[WVVH-CD|WVVH-CD 50]] ([[America One|A1]] / [[Resort Sports Network|RSN]], [[East Hampton (kota), New York|East Hampton]])
+* [[WLNY-TV]] (55.1 [[Stasiun independen (Amerika Utara)|Ind]])
+* [[WKOB-LD]] (42.1 Soul of the South Television Network)
+* [[WMBQ-CD]] (46.1[[Biz TV]])
+</div>
+
+|group2 = Saluran<br>[[Penyiaran umum|televisi umum]]
+|list2  = <div>
+* [[WNET]] (13.1 [[Public Broadcasting Service|PBS]], 13.2 [[PBS Kids|Kids 13]])
+* [[WLIW]] (21.1 [[Public Broadcasting Service|PBS]], 21.2 [[Create (jaringan TV)|Create]], 21.3 [[PBS World]])
+* [[WNYE-TV]] (25.1 [[Televisi pendidikan|Educ.]] [[Stasiun independen (Amerika Utara)|Ind]], 25.2 NYC gov, 25.3 CUNY TV)
+* [[Connecticut Public Television|WEDW]] (49.1 [[Public Broadcasting Service|PBS]] / [[Connecticut Public Television|CPTV]], 49.2 [[Create (jaringan TV)|Create]])
+* [[NJTV|WNJN/WNJB]] (50.1/58.1 [[Public Broadcasting Service|PBS]] / [[NJTV]])
+* [[WNYJ-TV|WNYJ 66.1]] ([[MHz WorldView|MHz WorldView]])
+* [[WNYJ-TV|WNYJ-TV 66.4]] ([[WYBE]] [[:Template:Philly TV|Philadelphia]] [[Stasiun independen (Amerika Utara)|Ind]] [[Penyiaran umum|public TV]])
+</div>
+
+|group3 = Saluran<br>[[bahasa Spanyol]]
+|list3  = <div>
+* [[WNET|WNET 13.3]] ([[V-me]])
+* [[WDVB-CD]] (23.1 TVC Latino, 23.2 Soy Latino TV, 23.3 [[Mexicanal]])
+* [[WASA-LD|WASA-LD 24.1/24.4]] ([[Estrella TV]])
+* [[WWOR-TV|WWOR 9.4]] / [[WPXO-LD|WPXO-LD 34.1]] ([[MundoFox]])
+* [[WNYN-LD|WNYN-LD 39.1/39.3]] ([[TeLe-Romntica]])
+* [[WXTV-DT|WXTV-DT 41.1]] / [[WFTY-DT|WFTY-DT 67.2]] / [[WFUT-DT|WFUT-DT 68.2]] ([[Univision|UNI]])
+* [[WXTV-DT|WXTV-DT 41.2]] / [[WFTY-DT|WFTY-DT 67.1]] / [[WFUT-DT|WFUT-DT 68.1]] ([[UniMs]])
+* [[WNJU]] (47.1 [[Telemundo|TMD]], 47.2 exitos TV)
+* [[WTBY-TV|WTBY-TV 54.4]] ([[TBN Enlace USA|Enlace]])
+* [[WMBC-TV|WMBC-TV 63.6]] ([[Azteca Amrica|AZA]])
+* [[WBQM-LD|WBQM-LD 51.1]]  (Spanish 51.1 [[CNN Latino]], 51.2 Spanish [[Stasiun independen (Amerika Utara)|Independen]])
+* [[WKOB-LD|WKOB-LD 42.6]] ([[Almavision]])
+</div>
+|group4 = Saluran [[penyiaran keagamaan|keagamaan]]
+|list4  = <div>
+* [[WWPS-LP|WWPS-LP 9]] ([[Cornerstone Television|COR]])
+* [[WKOB-LD|WKOB-LD 42.2]] ([[Daystar Television Network|DS]], 42.5 [[Jimmy Swaggart#Ministries|SBN]])
+* [[WTBY-TV]] {{allow wrap|(54.1 [[Trinity Broadcasting Network|TBN]], 54.2 [[The Church Channel|Church]], 54.3 [[JCTV]], 54.5 [[Smile of a Child|Smile]])}}
+* [[WMBC-TV]] (63.3 CGNTV)
+* [[WMBQ-CD]] (46.2 [[Hope TV]])
+* [[WRNN-TV]] (48.4 [[Global Christian Network|GCN]])
+* [[WBQM-LD]] (3.3  [[Cornerstone Television|COR]])
+* [[WEBR-CD]] (17.1 Universal Affiliates Network, 17.3 [[Global Christian Network|GCN]])
+</div>
+
+|group5 = Saluran belanja
+|list5 = <div>
+* [[WKOB-LD]] (42.4 [[Infomercials]])
+* [[WMUN-CD]] (45.1 [[Infomercials]])
+* [[W41DO-D]] (60.1 [[Home Shopping Network|HSN]], 60.2 HSN 2)
+* [[WPXN-TV]] (31.4 [[Infomercials|ION Shop]], 31.5 [[QVC|QVC Over Air]], 31.6 [[HSN]])
+* [[WXNY-LD]] (32.4 [[Informercials]])
+</div>
+
+| group6 = Stasiun etnis
+| list6 = <div>
+* [[WDVB-CD]] (23.4 [[SAB TV]])
+* [[WXNY-LD]] (32.1 [[CCTV News]])
+* [[WNXY-LD]] (43.1 [[CCTV News]])
+* [[WRNN-TV]] (48.3 [[Arirang TV]], 48.5 [[NHK World]])
+* [[WMBC-TV]] (63.4 [[SinoVision]], 63.5 [[New Tang Dynasty Television|NTDTV]])
+* [[WASA-LD]] (24.2 ICN, 24.3 IAVC)
+* [[WKOB-LD]] (42.3 [[Peace TV]])
+</div>
+
+| group7 = Stasiun audio
+| list7  = <div>
+* [[WNYZ-LP|WNYZ-LP 6]] ([[Stasiun independen (Amerika Utara)|Ind]]/Radio)
+* [[WNYJ-TV]] {{allow wrap|(66.2 [[WFME (FM)|WFME]] audio)}}
+* [[WMBC-TV]] (63.7 WDNJ-FM, 63.8 KCBN)
+</div>
+
+| group8 = [[Stasiun independen (Amerika Utara)|Stasiun independen]]
+| list8  = <div>
+
+* [[WMBC-TV]] {{allow wrap|(63.1 [[Stasiun independen (Amerika Utara)|Ind]]}}
+* [[WXNY-LD]] (32.4) [[Stasiun independen (Amerika Utara)|Independen]]
+* [[WNYN-LD]] (39.4) [[Stasiun independen (Amerika Utara)|Independen]]
+</div>
+
+|group9 = Saluran [[televisi kabel|kabel]] lokal
+|list9 = <div>
+* [[BronxNet]]
+* [[Brooklyn Community Access Television|BCAT]]
+* [[Caribbean International Network]]
+* [[Comcast Network|CN8]]
+* [[FiOS1]]
+* [[Manhattan Neighborhood Network|MNN]]
+* [[MSG Network]]
+* [[MSG Plus]]
+* [[New Evangelization Television|NET]]
+* [[News 12 Networks]]
+* [[NY1]]
+* [[NY1 Noticias]]
+* [[NY1 Rail and Road]]
+* [[nyctv]]
+* [[Queens Public Television]]
+* [[SportsNet New York]]
+* Staten Island Community Television
+* [[Telecare (saluran TV)|Telecare]]
+* [[YES Network]]
+</div>
+
+|group10 = Tidak<br>beroperasi
+|list10  = <div>
+[[MSG Metro Channels]]{{}}
+[[New Jersey Network]] ([[Public Broadcasting Service|PBS]]){{}}
+[[WRNY (defunct)|WRNY]]{{}}
+[[WWOR EMI Service]]{{}}
+[[KC2XAK]] 24 ([[WNBC|NBC]], [[Bridgeport, Connecticut|Bridgeport]], ''UHF/eksperimental'')
+</div>
+
+|group11 =[[ATSC-M/H]] [[Mobile DTV]]<br><small>saluran terenkripsi<br>''dimiringkan''</small>
+|list11  = <div>
+* '''[[WCBS-TV|WCBS 2.1]]''' ([[CBS]])
+* '''[[WNBC|WNBC 4.2]]''' ([[NBC]], [[New York Nonstop|Nonstop]])
+* '''[[WNYW|WNYW 5.1]]''' ([[Fox Broadcasting Company|Fox]], via WWOR-TV 9.2)
+* '''[[WABC-TV|WABC 7.1]]''' ([[American Broadcasting Company|ABC]])
+* '''[[WWOR-TV|WWOR-TV 9.1]]''' ([[My Network TV]])
+* '''[[WPIX|WPIX 11.1]]''' ([[The CW Television Network]])
+* [[WNET|WNET 13.1]] ([[Public Broadcasting Service|PBS]])
+* [[WPXN-TV|WPXN-TV 31.2]] ([[Qubo]], ''31.82	[[Gran Cine]]'', ''31.85 [[NFL Network|NFL Net]]'', ''31.87 [[GolTV]]'', ''31.88 [[NFL RedZone]]'', ''31.90 [[Starz (saluran TV)|Starz]]'', ''31.96 [[AirBox]]'')
+* [[WXNY-LD|WXNY-LD 32.1]] ([[CCTV News]])
+* [[WNXY-LD|WNXY-LD 43.1]] ([[CCTV News]])
+* '''[[WNJU|WNJU 47.1]]''' ([[Telemundo]])
+* '''[[WRNN-TV|WRNN-TV 48.1]]''' ([[Stasiun independen (Amerika Utara)|Ind]])
+* '''[[WLNY-TV|WLNY-TV 55.1]]''' ([[Stasiun independen (Amerika Utara)|IND]])
+* WLNY 55.2 (Blank)
+* [[WMBC-TV|WMBC-TV 63.1]] ([[Independent station (North America)|IND]])
+</div>
+
+|below = 
+{{New York State TV}}
+{{Pennsylvania TV Markets}}
+Lihat Pula: [[Templat:Hartford/New Haven TV|Hartford/New Haven]] 
+}}<includeonly></includeonly><noinclude>[[Kategori:Templat New York City|{{PAGENAME}}]]
+[[en:Template:NYC TV]]</noinclude>

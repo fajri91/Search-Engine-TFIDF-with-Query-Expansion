@@ -1,0 +1,9 @@
+Templat:F1-stub
+{{base-stub
+|[[Formula Satu]]
+|[[Berkas:F1 driver template.gif|30px]]}}{{#if:{{{kat|}}}||<includeonly>
+[[Kategori:Rintisan bertopik Formula Satu|{{PAGENAME}}]]</includeonly>}}<noinclude>
+[[Kategori:Formula Satu|]]
+[[Kategori:Templat rintisan|{{PAGENAME}}]]
+
+</noinclude>

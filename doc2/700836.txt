@@ -1,0 +1,14 @@
+Berkas:Peta Kampus Uin Jkt.gif
+== {{int:filedesc}} ==
+{{Information
+| description    =
+http://citrodunia.blogspot.com/2013/05/rute-kendaraan-angkutan-umum-kampus-uin.html
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Logo}}

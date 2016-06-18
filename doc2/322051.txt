@@ -1,0 +1,252 @@
+Grand Prix F1 Italia 1999
+Hasil di bawah ini merupakan hasil dari balapan '''Grand Prix F1 Italia 1999''' yang berlangsung di sirkuit [[Autodromo Monza]], [[Milan]], [[Italia]] tanggal [[12 September 1999]].
+
+{| class="wikitable" style="font-size: 95%;"
+|-
+! Pos !! No !! Pembalap !! Konstruktor !! Lap !! Waktu/Tersingkir !! Grid !! Poin
+|-
+! 1
+| 8
+| {{flagicon|Germany}} '''[[Heinz-Harald Frentzen]]'''
+| '''[[Jordan Grand Prix|Jordan]]-[[Mugen-Honda]]'''
+| 53
+| 1:17:02.923
+| 2
+| '''10'''
+|-
+! 2
+| 6
+| {{flagicon|Germany}} '''[[Ralf Schumacher]]'''
+| '''[[WilliamsF1|Williams]]-[[Supertec]]'''
+| 53
+| +3.272
+| 5
+| '''6'''
+|-
+! 3
+| 3
+| {{flagicon|Finland}} '''[[Mika Salo]]'''
+| '''[[Scuderia Ferrari|Ferrari]]'''
+| 53
+| +11.932
+| 6
+| '''4'''
+|-
+! 4
+| 16
+| {{flagicon|Brazil}} '''[[Rubens Barrichello]]'''
+| '''[[Stewart Grand Prix|Stewart]]-[[Ford Motor Company|Ford]]'''
+| 53
+| +17.630
+| 7
+| '''3'''
+|-
+! 5
+| 2
+| {{flagicon|UK}} '''[[David Coulthard]]'''
+| '''[[McLaren]]-[[Mercedes-Benz|Mercedes]]'''
+| 53
+| +18.142
+| 3
+| '''2'''
+|-
+! 6
+| 4
+| {{flagicon|UK}} '''[[Eddie Irvine]]'''
+| '''[[Scuderia Ferrari|Ferrari]]'''
+| 53
+| +27.402
+| 8
+| '''1'''
+|-
+! 7
+| 5
+| {{flagicon|Italy}} [[Alex Zanardi|Alessandro Zanardi]]
+| [[WilliamsF1|Williams]]-[[Supertec]]
+| 53
+| +28.047
+| 4
+| &nbsp;
+|-
+! 8
+| 22
+| {{flagicon|Canada}} [[Jacques Villeneuve]]
+| [[British American Racing|BAR]]-[[Supertec]]
+| 53
+| +41.797
+| 11
+| &nbsp;
+|-
+! 9
+| 11
+| {{flagicon|France}} [[Jean Alesi]]
+| [[Sauber]]-[[Petronas]]
+| 53
+| +42.198
+| 13
+| &nbsp;
+|-
+! 10
+| 7
+| {{flagicon|UK}} [[Damon Hill]]
+| [[Jordan Grand Prix|Jordan]]-[[Mugen-Honda]]
+| 53
+| +56.259
+| 9
+| &nbsp;
+|-
+! 11
+| 18
+| {{flagicon|France}} [[Olivier Panis]]
+| [[Prost (racing team)|Prost]]-[[Peugeot]]
+| 52
+| Mesin
+| 10
+| &nbsp;
+|-
+! Ret
+| 17
+| {{flagicon|UK}} [[Johnny Herbert]]
+| [[Stewart Grand Prix|Stewart]]-[[Ford Motor Company|Ford]]
+| 40
+| Kopling
+| 15
+| &nbsp;
+|-
+! Ret
+| 15
+| {{flagicon|Japan}} [[Toranosuke Takagi]]
+| [[Arrows]]
+| 35
+| Melintir
+| 22
+| &nbsp;
+|-
+! Ret
+| 14
+| {{flagicon|Spain}} [[Pedro de la Rosa]]
+| [[Arrows]]
+| 35
+| Withdrew
+| 21
+| &nbsp;
+|-
+! Ret
+| 1
+| {{flagicon|Finland}} [[Mika Hkkinen]]
+| [[McLaren]]-[[Mercedes-Benz|Mercedes]]
+| 30
+| Melintir
+| 1
+| &nbsp;
+|-
+! Ret
+| 19
+| {{flagicon|Italy}} [[Jarno Trulli]]
+| [[Prost (racing team)|Prost]]-[[Peugeot]]
+| 29
+| Overheating
+| 12
+| &nbsp;
+|-
+! Ret
+| 23
+| {{flagicon|Brazil}} [[Ricardo Zonta]]
+| [[British American Racing|BAR]]-[[Supertec]]
+| 25
+| Roda
+| 18
+| &nbsp;
+|-
+! Ret
+| 20
+| {{flagicon|Italy}} [[Luca Badoer]]
+| [[Minardi]]-[[Ford Motor Company|Ford]]
+| 23
+| Kecelakaan
+| 19
+| &nbsp;
+|-
+! Ret
+| 10
+| {{flagicon|Austria}} [[Alexander Wurz]]
+| [[Benetton Formula|Benetton]]-[[Playlife]]
+| 11
+| Elektrik
+| 14
+| &nbsp;
+|-
+! Ret
+| 12
+| {{flagicon|Brazil}} [[Pedro Diniz]]
+| [[Sauber]]-[[Petronas]]
+| 1
+| Melintir
+| 16
+| &nbsp;
+|-
+! Ret
+| 9
+| {{flagicon|Italy}} [[Giancarlo Fisichella]]
+| [[Benetton Formula|Benetton]]-[[Playlife]]
+| 1
+| Melintir
+| 17
+| &nbsp;
+|-
+! Ret
+| 21
+| {{flagicon|Spain}} [[Marc Gen]]
+| [[Minardi]]-[[Ford Motor Company|Ford]]
+| 0
+| Kecelakaan
+| 20
+| &nbsp;
+|}
+
+== Referensi ==
+'''Klasifikasi'''<br />
+{{cite web
+  |last=
+  |first=
+  |authorlink=
+  |coauthors=
+  |title=1999 Italian Grand Prix
+  |work=The Official Formula 1 Website
+  |publisher=
+  |date=
+  |url=http://www.formula1.com/results/season/1999/80/
+  |format=
+  |doi=
+  |accessdate= 2007-07-30}}<br />
+{{cite web
+  |last=
+  |first=
+  |authorlink=
+  |coauthors=
+  |title=1999 Italian GP: Classification
+  |work=ChicaneF1.com
+  |publisher=
+  |date=
+  |url=http://www.chicanef1.com/race.pl?year=1999&gp=Italian%20GP&type=res
+  |format=
+  |doi=
+  |accessdate= 2007-08-02}}
+
+'''Notes, Race details'''<br />
+{{cite web
+  |last=
+  |first=
+  |authorlink=
+  |coauthors=
+  |title=1999 Italian GP: Overview
+  |work=ChicaneF1.com
+  |publisher=
+  |date=
+  |url=http://www.chicanef1.com/racetit.pl?year=1999&gp=Italian%20GP
+  |format=
+  |doi=
+  |accessdate= 2007-08-02}}
+
+[[Kategori:Grand Prix F1 musim 1999|Italia]]
+[[Kategori:Grand Prix Italia|1999]]

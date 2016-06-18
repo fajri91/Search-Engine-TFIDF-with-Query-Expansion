@@ -1,0 +1,80 @@
+Sektor 2 (Bukares)
+{{Infobox settlement       
+| official_name             = Bucharest, Sector 2
+| native_name               = ''Sector 2, Bucureti''
+| nickname                  = 
+| motto                     = 
+| image_skyline             = PiataRosettimare.JPG
+| image_caption             = Rosetti Square
+| image_flag                = 
+| image_shield              = 
+| image_map                 = Bucureti sectorul 2.svg
+| mapsize                   = 200px
+| map_caption               = Letak sektor 2 (merah)
+| subdivision_type          = [[Negara]]
+| subdivision_name          = [[Rumania]]
+| subdivision_type1         = [[Provinsi]]
+| subdivision_name1         = Munisipalitas Bucharest
+| leader_title              = Walikota
+| leader_name               = Neculai Onanu
+| leader_party              = [[Partidul Social Democrat]]
+| leader_title1             = Wakil wali kota
+| leader_name1              = Dan Cezar Ionescu
+| established_date          = 
+| established_title2        = 
+| established_date2         = 
+| area_magnitude            = 
+| area_total_km2            = 32
+| area_land_km2             = 
+| area_water_km2            = 
+| area_metro_km2            = 
+| population_as_of          = 1 Januari 2009
+| population_footnotes      = 
+| population_note           = <ref name="INSSE">{{cite web | url = http://www.insse.ro/cms/rw/resource/populatia%20stabila%20la%201%20ianuarie%202009%20si%2018.xls?download=true | title = Populaia stabil la 1.01.2009 | date = May 19, 2009 | accessdate = May 20, 2009 | publisher = INSSE | language = Romanian}}</ref>
+| settlement_type           = Sector
+| population_total          = 357338
+| population_metro          = 
+| population_density_km2    = 11273
+| timezone                  = [[Eastern European Time|EET]]
+| utc_offset                = +2
+| timezone_DST              = [[Eastern European Summer Time|EEST]]
+| utc_offset_DST            = +3
+| latd                      = 44
+| latm                      = 26
+| lats                      = 7
+| latNS                     = N
+| longd                     = 26 
+| longm                     = 6
+| longs                     = 10
+| longEW                    = E
+| elevation_m               = 60 - 90
+| elevation_ft              = 197295
+| postal_code_type          = Kode pos
+| postal_code               = 02xxxx
+| area_code                 = +40 x1
+| blank_name                = Plat mobil
+| blank_info                = B
+| website                   = [http://www.ps2.ro/ www.pps2.ro]
+| footnotes                 = 
+}}
+'''Sector 2''' (''Sectorul 2'' dalam [[bahasa Rumania]]) adalah [[sektor di Bukares|sektor]] di [[Bukares]].
+
+Bagian-bagian dari sektor ini adalah:
+* [[Colentina, Bukares|Colentina]] 
+* [[Iancului]]
+* [[Moilor]]
+* [[Obor]]
+* [[Pantelimon, Bukares|Pantelimon]]
+* [[tefan cel Mare, Bukares|tefan cel Mare]]
+* [[Tei, Bukares|Tei]]
+* [[Vatra Luminoas]]
+
+== Catatan kaki ==
+{{reflist}}
+
+{{Bucharest sectors}}
+
+[[Kategori:Sektor di Bukares]]
+
+
+{{rumania-geo-stub}}

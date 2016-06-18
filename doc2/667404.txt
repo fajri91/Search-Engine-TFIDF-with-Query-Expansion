@@ -1,0 +1,21 @@
+Templat:Re
+{{SAFESUBST:<noinclude />#if:{{{1|<noinclude>$</noinclude>}}}
+ |<span class="template-ping">{{{prefix|@}}}[[:Pengguna:{{SAFESUBST:<noinclude />BASEPAGENAME:{{{1|Example}}}}}|{{{label1|{{{label|{{SAFESUBST:<noinclude />BASEPAGENAME:{{{1|Example}}}}}}}}}}}]]{{SAFESUBST:<noinclude />#if:{{{2|}}}
+ |{{SAFESUBST:<noinclude />#if:{{{3|}}}|,|{{SAFESUBST:<noinclude />#ifeq:{{{c}}}||,|&nbsp;{{{c|dan}}}}}}} [[:Pengguna:{{SAFESUBST:<noinclude />BASEPAGENAME:{{{2}}}}}|{{{label2|{{SAFESUBST:<noinclude />BASEPAGENAME:{{{2}}}}}}}}]]{{SAFESUBST:<noinclude />#if:{{{3|}}}
+ |,{{SAFESUBST:<noinclude />#if:{{{4|}}}||&nbsp;{{{c|dan}}}}} [[:Pengguna:{{SAFESUBST:<noinclude />BASEPAGENAME:{{{3}}}}}|{{{label3|{{SAFESUBST:<noinclude />BASEPAGENAME:{{{3}}}}}}}}]]{{SAFESUBST:<noinclude />#if:{{{4|}}}
+ |,{{SAFESUBST:<noinclude />#if:{{{5|}}}||&nbsp;{{{c|dan}}}}} [[:Pengguna:{{SAFESUBST:<noinclude />BASEPAGENAME:{{{4}}}}}|{{{label4|{{SAFESUBST:<noinclude />BASEPAGENAME:{{{4}}}}}}}}]]{{SAFESUBST:<noinclude />#if:{{{5|}}}
+ |,{{SAFESUBST:<noinclude />#if:{{{6|}}}||&nbsp;{{{c|dan}}}}} [[:Pengguna:{{SAFESUBST:<noinclude />BASEPAGENAME:{{{5}}}}}|{{{label5|{{SAFESUBST:<noinclude />BASEPAGENAME:{{{5}}}}}}}}]]{{SAFESUBST:<noinclude />#if:{{{6|}}}
+ |,{{SAFESUBST:<noinclude />#if:{{{7|}}}||&nbsp;{{{c|dan}}}}} [[:Pengguna:{{SAFESUBST:<noinclude />BASEPAGENAME:{{{6}}}}}|{{{label6|{{SAFESUBST:<noinclude />BASEPAGENAME:{{{6}}}}}}}}]]{{SAFESUBST:<noinclude />#if:{{{7|}}}
+ |, {{{c|dan}}} [[:User:{{SAFESUBST:<noinclude />BASEPAGENAME:{{{7|Example}}}}}|{{{label7|{{SAFESUBST:<noinclude />BASEPAGENAME:{{{7|Example}}}}}}}}]]
+      }}
+     }}
+    }}
+   }}
+  }}
+ }}{{{p|:}}}</span>
+ |{{SAFESUBST:<noinclude />Error|Galat di [[Templat:Replyto]]: Tulis nama penggunanya.}}
+}}<noinclude>
+{{dokumentasi}}
+
+[[Kategori:Templat ruang nama pembicaraan]]
+</noinclude>

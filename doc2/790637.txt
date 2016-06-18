@@ -1,0 +1,75 @@
+Templat:Klasemen Liga Utama Inggris 201516/bak pasir
+{{#invoke:Sports table|main|style=WDL
+|template_name=Klasemen Liga Utama Inggris 201516
+|showteam={{{showteam}}}
+|update=complete
+|source=[http://www.premierleague.com/en-gb/matchday/league-table.html Premier League]
+
+<!--Update team positions here-->
+|team1=ARS |team2=AVL |team3=BOU |team4=CHE |team5=CRY |team6=EVE |team7=LEI |team8=LIV |team9=MCI |team10=MUN |team11=NEW |team12=NOR |team13=SOU |team14=STK |team15=SUN |team16=SWA |team17=TOT |team18=WAT |team19=WBA |team20=WHU
+
+<!--Update team qualifications here (defined below)-->
+|result1=CLGS |result2=CLGS |result3=CLGS |result4=CLPO |result5=ELGS |result18=REL |result19=REL |result20=REL
+
+<!--Update team results here and then (if needed positions above). Dont forget to update the date above (update parameter)-->
+|win_ARS=0|draw_ARS=0 |loss_ARS=0 |gf_ARS=0 |ga_ARS=0 <!-- Arsenal -->
+|win_AVL=0|draw_AVL=0 |loss_AVL=0 |gf_AVL=0 |ga_AVL=0 <!-- Aston Villa -->
+|win_BOU=0 |draw_BOU=0 |loss_BOU=0 |gf_BOU=0 |ga_BOU=0 <!-- Burnley -->
+|win_CHE=0|draw_CHE=0 |loss_CHE=0 |gf_CHE=0 |ga_CHE=0 <!-- Chelsea -->
+|win_CRY=0|draw_CRY=0 |loss_CRY=0|gf_CRY=0 |ga_CRY=0 <!-- Crystal Palace -->
+|win_EVE=0|draw_EVE=0|loss_EVE=0|gf_EVE=0 |ga_EVE=0 <!-- Everton -->
+|win_LEI=0|draw_LEI=0 |loss_LEI=0|gf_LEI=0 |ga_LEI=0 <!-- Leicester City -->
+|win_LIV=0|draw_LIV=0 |loss_LIV=0|gf_LIV=0 |ga_LIV=0 <!-- Liverpool -->
+|win_MCI=0|draw_MCI=0 |loss_MCI=0 |gf_MCI=0 |ga_MCI=0 <!-- Manchester City -->
+|win_MUN=0|draw_MUN=0|loss_MUN=0 |gf_MUN=0 |ga_MUN=0 <!-- Manchester United -->
+|win_NEW=0|draw_NEW=0 |loss_NEW=0|gf_NEW=0 |ga_NEW=0 <!-- Newcastle United -->
+|win_NOR=0 |draw_NOR=0 |loss_NOR=0|gf_NOR=0 |ga_NOR=0 <!-- Norwich City -->
+|win_SOU=0|draw_SOU=0 |loss_SOU=0|gf_SOU=0 |ga_SOU=0 <!-- Southampton -->
+|win_STK=0|draw_STK=0 |loss_STK=0|gf_STK=0 |ga_STK=0 <!-- Stoke City -->
+|win_SUN=0 |draw_SUN=0|loss_SUN=0|gf_SUN=0 |ga_SUN=0 <!-- Sunderland -->
+|win_SWA=0|draw_SWA=0 |loss_SWA=0|gf_SWA=0 |ga_SWA=0 <!-- Swansea City -->
+|win_TOT=0|draw_TOT=0 |loss_TOT=0|gf_TOT=0 |ga_TOT=0 <!-- Tottenham Hotspur -->
+|win_WAT=0|draw_WAT=0 |loss_WAT=0|gf_WAT=0|ga_WAT=0 <!-- Watford -->
+|win_WBA=0|draw_WBA=0|loss_WBA=0|gf_WBA=0 |ga_WBA=0 <!-- West Bromwich Albion -->
+|win_WHU=0|draw_WHU=0|loss_WHU=0|gf_WHU=0 |ga_WHU=0 <!-- West Ham United-->
+
+<!--Team definitions (wikilinks in table)-->
+|name_ARS = [[Arsenal F.C.|Arsenal]]
+|name_AVL = [[Aston Villa F.C.|Aston Villa]]
+|name_BOU = [[A.F.C. Bournemouth|Bournemouth]]
+|name_CHE = [[Chelsea F.C.|Chelsea]]
+|name_CRY = [[Crystal Palace F.C.|Crystal Palace]]
+|name_EVE = [[Everton F.C.|Everton]]
+|name_LEI = [[Leicester City F.C.|Leicester City]]
+|name_LIV = [[Liverpool F.C.|Liverpool]]
+|name_MCI = [[Manchester City F.C.|Manchester City]]
+|name_MUN = [[Manchester United F.C.|Manchester United]]
+|name_NEW = [[Newcastle United F.C.|Newcastle United]]
+|name_NOR = [[Norwich City F.C.|Norwich City]]
+|name_SOU = [[Southampton F.C.|Southampton]]
+|name_STK = [[Stoke City F.C.|Stoke City]]
+|name_SUN = [[Sunderland A.F.C.|Sunderland]]
+|name_SWA = [[Swansea City A.F.C.|Swansea City]]
+|name_TOT = [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|name_WAT = [[Watford F.C.|Watford]]
+|name_WBA = [[West Bromwich Albion F.C.|West Bromwich Albion]]
+|name_WHU = [[West Ham United F.C.|West Ham United]]
+
+<!-- Status -->
+|status_CHE=
+|status_TOT=
+|status_WBA=
+|status_WHU=
+
+<!--Table settings and rules-->
+|show_limit=5
+|class_rules=1) poin; 3) selisih gol; 3) jumlah gol memasukkan
+
+<!--Qualification and relegation column definitions-->
+|res_col_header=QR
+|col_CLGS=green1 |text_CLGS=Lolos ke [[Liga Champions UEFA 201516#Babak Grup|Babak Grup Liga Champions]]
+|col_CLPO=green2 |text_CLPO=Lolos ke [[Liga Champions UEFA 201516#Babak Play-off|Babak Play-off Liga Champions]]
+|col_ELGS=blue1  |text_ELGS=Lolos ke [[Liga Eropa UEFA|Babak Grup Liga Eropa UEFA]]
+|col_REL=red1    |text_REL=Degradasi ke [[Liga Chamionship Inggris|Liga Championship]]
+
+}}

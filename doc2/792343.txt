@@ -1,0 +1,48 @@
+Ploshchad Vosstaniya (Saint Petersburg Metro)
+{{Infobox station 
+| name          = Ploshchad Vosstaniya
+| type          = {{STPETERSBURGMETRO type}}
+| style         = 
+| image         = Metro SPB Line1 Vosstaniya.jpg
+| image_size    = 
+| image_caption = Hall tengah
+| address       = 
+| coordinates   = {{coord|59.9316|N|30.3605|E|display=title,inline}} 
+| line          = {{STPETERSBURGMETRO-line1}}
+| other         = 
+| structure     = Bawah tanah
+| platform      = 
+| depth         = {{Unit length|m|58}}
+| levels        = 
+| tracks        = 
+| parking       = 
+| bicycle       = 
+| baggage_check = 
+| opened        = {{date|1955-11-15|mdy}}
+| closed        = 
+| rebuilt       = 
+| electrified   = 
+| ADA           = 
+| code          = 
+| owned         = 
+| zone          = 
+| smartcardname =
+| smartcardstatus =
+| former        = 
+| passengers    = 
+| pass_year     = 
+| pass_percent  = 
+| pass_system   = 
+| mpassengers   = 
+| services      = {{s-rail|title=StPetersburg Metro}} {{s-line|system=STPETERSBURGMETRO|line=Kirovsko-Vyborgskaya|previous=Chernyshevskaya|next=Vladimirskaya}} {{s-line|system=STPETERSBURGMETRO|line=Nevsko-Vasileostrovskaya|transfer=Mayakovskaya|previous=Gostiny Dvor|next=Ploshchad Alexandra Nevskogo I}}
+| map_locator   = 
+}}
+'''Ploshchad Vosstaniya''' ({{Templat:Lang-ru| }}, lit. ''Uprising Square'') adalah stasiun [[Angkutan cepat di St. Petersburg|Saint Petersburg Metro]]. Stasiun ini merupakan salah satu stasiun metro pertama yang dibuka di kota ini, 15November 1955. Berada pada 58 meter dibawah tanah, pintu masuk stasiun ini dari atas terletak di[[Lapangan Vosstaniya]]. Pintu keluar lain (dibuka 1960), berhubungan langsung ke [[Terminal Kereta Moskovsky]].Ploshchad Vosstaniya terhubung ke stasiun[[Mayakovskaya (Saint Petersburg Metro)|Mayakovskaya]]di [[JalurNevsko-Vasileostrovskaya]]via koridor transfer.
+{{Kirovsko-Vyborgskaya Line}}
+
+== Pranala luar ==
+{{Commons category-inline|Ploshchad Vosstaniya metrostation}}
+
+[[Kategori:Stasiun Saint Petersburg Metro]]
+[[Kategori:Stasiun kereta yang dibuka tahun 1955]]
+[[Category:Nevsky Prospekt]]

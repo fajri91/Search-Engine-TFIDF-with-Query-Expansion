@@ -1,0 +1,159 @@
+Bocas del Toro, Panama
+{{Infobox settlement
+| name = Bocas del Toro, Panama
+| native_name = Provincia de Bocas del Toro
+| native_name_lang = es
+| settlement_type = Provinsi
+| image_skyline = Bocas2.jpg
+| image_alt = Bocas_del_Toro_Archipelago_map.png
+| image_caption = 
+| image_flag = Bandera de la Provincia de Bocas del Toro.svg
+| flag_alt =
+| image_seal = 
+| seal_alt =
+| image_shield = 
+| shield_alt =
+| nickname =
+| motto =
+| image_map = Panama - Bocas del Toro.svg
+| map_alt =
+| map_caption = Lokasi Bocas del Toro di Panama
+| pushpin_map =
+| pushpin_label_position =
+| pushpin_map_alt =
+| pushpin_map_caption =
+| latd = 9 |latm = 20 |lats = 26 |latNS = N
+| longd = 82 |longm = 14 |longs = 26 |longEW = W
+| coor_pinpoint = Seat of Government
+| coordinates_type = 
+| coordinates_display = inline,title
+| coordinates_footnotes =
+| subdivision_type = Negara
+| subdivision_name = Panama
+| established_title = Didirikan
+| established_date = 1903
+| founder =
+| seat_type = Ibukota
+| seat = [[Bocas Town, Bocas del Toro|Bocas del Toro]]
+| government_footnotes =
+| leader_party =
+| leader_title = 
+| leader_name = 
+| unit_pref = Metric<!-- or US or UK -->
+| area_footnotes =
+| area_total_km2 = 4657.2
+| area_land_km2 =
+| area_water_km2 =
+| area_water_percent =
+| area_note = 
+| elevation_footnotes =
+| elevation_m =
+| population_footnotes =
+| population_total = 125,461
+| population_as_of = Sensus tahun 2010 
+| population_density_km2 = auto
+| population_demonym = 
+| population_note = Sensus
+| timezone1 = [[Waktu Timur]]
+| utc_offset1 = -5
+| timezone1_DST =
+| utc_offset1_DST =
+| postal_code_type =
+| postal_code =
+| area_code_type =
+| area_code = 
+| iso_code = PA-1
+| website = {{URL|bocasdeltoro.com}}
+| footnotes = Google Earth,<ref name=ge>Google Earth</ref> Statiods<ref name=stat>[http://www.statoids.com/upa.html Provinces of Panama]</ref>
+}}
+
+'''Provinsi Bocas del Toro''' merupakan sebuah [[provinsi]] di [[Panama]]. Provinsi ini terletak di bagian barat negara itu. Provinsi ini memiliki luas wilayah 4.643,9&nbsp;km dan memiliki jumlah penduduk sebesar 121.959 jiwa (2010). Kepadatan penduduknya adalah 26,26 jiwa/km.
+
+Ibukota provinsi ini berada di [[Kota Bocas, Bocas del Toro|Bocas del Toro]].
+
+== Distrik ==
+* [[Distrik Bocas del Toro]]
+* [[Distrik Changuinola]]
+* [[Distrik Chiriqu Grande]]
+
+==Geografi==
+
+===Iklim ===
+{{Weather box
+|location = Bocas del Toro (1971-2000)
+|metric first = y
+|single line = y
+|Jan high C = 30.8
+|Feb high C = 30.7
+|Mar high C = 31.0
+|Apr high C = 31.4
+|May high C = 31.9
+|Jun high C = 32.0
+|Jul high C = 31.5
+|Aug high C = 31.8
+|Sep high C = 31.9
+|Oct high C = 31.7
+|Nov high C = 31.6
+|Dec high C = 31.0
+|Jan low C = 20.4
+|Feb low C = 20.2
+|Mar low C = 20.5
+|Apr low C = 21.4
+|May low C = 22.2
+|Jun low C = 22.2
+|Jul low C = 21.7
+|Aug low C = 21.8
+|Sep low C = 22.0
+|Oct low C = 22.0
+|Nov low C = 21.8
+|Dec low C = 20.6
+|Jan precipitation mm = 123.9
+|Feb precipitation mm = 266.1
+|Mar precipitation mm = 83.8
+|Apr precipitation mm = 369.1
+|May precipitation mm = 178.3
+|Jun precipitation mm = 259
+|Jul precipitation mm = 420.1
+|Aug precipitation mm = 440.7
+|Sep precipitation mm = 311.2
+|Oct precipitation mm = 150.5
+|Nov precipitation mm = 291.7
+|Dec precipitation mm = 563.6
+|Jan precipitation days = 16.6
+|Feb precipitation days = 14.6
+|Mar precipitation days = 14.8
+|Apr precipitation days = 15.2
+|May precipitation days = 16.7
+|Jun precipitation days = 17.9
+|Jul precipitation days = 20.9
+|Aug precipitation days = 18.4
+|Sep precipitation days = 15.8
+|Oct precipitation days = 16.4
+|Nov precipitation days = 17
+|Dec precipitation days = 20.0
+|sumber 1 = World Meteorological Organization <ref name = WMO>
+{{cite web
+  | url = http://worldweather.wmo.int/076/c01245.htm
+  | title = World Weather Information Service - Bocas del Toro
+  | publisher = World Meteorological Organization
+  | accessdate = 25 July 2010
+}}</ref>
+|date=Agustus, 2010
+}}
+
+==Galeri==
+{|
+| [[File:Bocas1.jpg|thumb|upright|alt=Bocas Del Toro|Bocas del Toro]]
+| [[File:Red poison dart frog.jpg|thumb|upright|alt=Katak merah|Katak merah]]
+| [[File:Amanecer Bocas del Toro.jpg|thumb|upright|alt=Sunset di Bocas del Toro|Sunset di Bocas del Toro]]
+|}
+
+== Referensi ==
+{{reflist}}
+{{Bocas del Toro}}
+{{Prov Panama}}
+
+[[Kategori:Provinsi di Panama]]
+
+
+{{Panama-geo-stub}}

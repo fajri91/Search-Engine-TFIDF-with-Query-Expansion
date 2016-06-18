@@ -1,0 +1,37 @@
+Artyom Kondrashkin
+{{Infobox football biography
+|name= Artyom Kondrashkin
+|fullname = Artyom Andreyevich Kondrashkin
+|image = 
+|birth_date = {{birth date and age|1991|5|5}} 
+|birth_place =
+|height = {{height|m=1.73}}
+|currentclub = 
+|clubnumber = 
+|position = [[Gelandang]]
+|youthyears1 = 
+|youthclubs1 = 
+|years1 = 2009-2010 |clubs1 = [[FC Sportakademklub Moscow]] |caps1 = 60  |goals1 = 1 
+|pcupdate = 06:48, 5 November 2010 (UTC)
+|ntupdate =
+}}
+'''Artyom Andreyevich Kondrashkin''' ({{lang-ru|  }}; {{lahirmati||5|5|1991}}) adalah pemain sepak bola asal [[Rusia]]. Ia terakhir bermain di [[Divisi Kedua Rusia]] untuk [[FC Sportakademklub Moscow]]. Ia bermain sebagai [[gelandang]].
+
+== Pranala luar ==
+
+* [http://stats.sportbox.ru/player.php?sp=fb&turnir=210&club=1112167474&player=1240040175 Career summary at sportbox.ru]
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+|NAME              = Kondrashkin, Artyom
+|ALTERNATIVE NAMES =
+|SHORT DESCRIPTION = Russian footballer
+|DATE OF BIRTH     = 1991-05-05
+|PLACE OF BIRTH    =
+|DATE OF DEATH     =
+|PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Kondrashkin, Artyom}}
+{{lifetime|1991||}}
+{{pemain-sb-stub}}
+
+[[Kategori:Pemain sepak bola Rusia]]

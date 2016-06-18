@@ -1,0 +1,19 @@
+Templat:Palue, Sikka
+{{Navigasi ID Desa
+|provinsi=Nusa Tenggara Timur
+|dati2=Kabupaten
+|nama dati2=Sikka
+|nama kecamatan=Palue
+|d1=Kesokoja
+|d2=Ladolaka
+|d3=Lidi
+|d4=Maluriwu
+|d5=Nitunglea
+|d6=Reruwairere
+|d7=Rokirole
+|d8=Tuanggeo
+}}
+<noinclude>
+[[Kategori:Templat desa/kelurahan di Nusa Tenggara Timur|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Sikka|{{PAGENAME}}]]
+</noinclude>

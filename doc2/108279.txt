@@ -1,0 +1,6 @@
+Templat:Pengguna Makassar
+{{userbox|lightgrey|white|[[Gambar:Lambang Kota Makassar.jpeg|30px]]|Pengguna ini berdomisili di '''[[Kota Makassar|Makassar]], [[Indonesia]]'''|border-color=lightgrey }}{{#if:{{{kat|}}}||<includeonly>[[Kategori:Pengguna yang berdomisili di Makassar|{{PAGENAME}}]]</includeonly>}}<noinclude>{{clr}}
+----
+*Templat ini menambahkan kategori: {{kat|Pengguna yang berdomisili di Makassar}}
+[[Kategori:Templat domisili pengguna|Makassar]]
+</noinclude>

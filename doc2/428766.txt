@@ -1,0 +1,79 @@
+Templat:Kepulauan Falkland infobox
+{{Infobox country
+|native_name              = Falkland Islands {{small|([[Bahasa Inggris|Inggris]])}}
+|conventional_long_name   = Kepulauan Falkland
+|common_name              = Kepulauan Falkland
+|image_flag               = Flag of the Falkland Islands.svg
+|image_coat               = Coat of arms of the Falkland Islands.svg
+|image_map                = Falkland Islands on the globe (zoom) (Chile centered).svg
+|image_map2               = Falkland Islands (Islas Malvinas)-CIA WFB Map.png
+|national_motto           = Desire the right<br />([[Bahasa Inggris|Inggris]]: Keinginan berbuat baik)
+|national_anthem          = [[God Save the Queen]]<br />Lagu nasional: ''[[Song of the Falklands]]''
+|official_languages       = [[Bahasa Inggris|Inggris]]
+|capital                  = [[Stanley, Kepulauan Falkland|Stanley]]
+|latd=51 |latm=42 |latNS=S |longd=57 |longm=51 |longEW=W
+|largest_city             = [[Stanley, Kepulauan Falkland|Stanley]]
+|government_type          = [[Wilayah dependensi|Dependensi]] [[Sistem parlementer|parlementer]]
+|leader_title1            = [[Daftar Penguasa Britania Raya|Ratu]]
+|leader_title2            = [[Gubernur Kepulauan Falkland|Gubernur]]
+|leader_title3            = [[Kepala Eksekutif Kepulauan Falkland|Kepala Eksekutif]]
+|leader_name1             = [[Elizabeth II dari Britania Raya|Elizabeth II]]
+|leader_name2             = [[Colin Roberts (diplomat)|Colin Roberts]]
+|leader_name3             = [[Keith Padgett]]
+|legislature              = [[Majelis Legislatif Kepulauan Falkland|Legislative Assembly]]
+|sovereignty_type         = [[Sejarah Kepulauan Falkland|Pembentukan]]
+|established_event1       = [[Penegasan kembali kedaulatan Britania terhadap Kepulauan Falkland (1833)|Pengukuhan kedaulatan Britania]]
+|established_date1        = 1833
+|established_event2       = [[Koloni mahkota]]
+|established_date2        = 1841
+|established_event3       = [[Undang-Undang Kebangsaan Britania 1981|Wilayah Dependensi Britania Raya]]
+|established_date3        = 1981
+|established_event4       = [[Undang-Undang Wilayah Seberang Laut Britania 2002|Wilayah Seberang Laut Britania Raya]]
+|established_date4        = 2002
+|area_rank                = 162
+|area_magnitude           = 1 E10
+|area_km2                 = 12,200
+|area_sq_mi               = 
+|percent_water            = 0
+|population_estimate      = 3.000<ref name=census2012>{{cite web |url=http://esa.un.org/unpd/wpp/Publications/Files/Key_Findings_WPP_2015.pdf UN projection|title=World Population Prospects: The 2015 Revision, Key Findings and Advance Tables |date=2015 |publisher=United Nations, Department of Economic and Social Affairs, Population Division |accessdate=5 Agustus 2015}}</ref>
+|population_estimate_rank = 244
+|population_estimate_year = 2015
+|population_census        =
+|population_census_year   =
+|population_density_km2   = 0,21
+|population_density_sq_mi = 
+|population_density_rank  = 242
+|GDP_PPP                  = $164,5 juta<ref name=CIA>{{cite web |url=https://www.cia.gov/library/publications/the-world-factbook/geos/fk.html |title=Falkland Islands (Islas Malvinas) |publisher=Central Intelligence Agency |accessdate=10 Juli 2013}}</ref>
+|GDP_PPP_rank             = 
+|GDP_PPP_year             = 2007
+|GDP_PPP_per_capita       = $55.400<ref name=CIA/>
+|GDP_PPP_per_capita_rank  = 
+|GDP_nominal              = $164,5 juta<ref name=CIA/>
+|GDP_nominal_per_capita_rank = 
+|GDP_nominal_year         = 2007
+|GDP_nominal_per_capita   = $55.400<ref name=CIA/>
+|GDP_nominal_rank         = 
+|Gini_year                = 2010
+|Gini_change              = <!--increase/decrease/steady-->
+|Gini                     = 34,2 (<span style="color:orange;">sedang</span>) <!--number only-->
+|Gini_ref                 = 
+|Gini_rank                =
+|HDI_year                 = 2010<!-- Please use the year to which the data refers, not the publication year-->
+|HDI_change               = <!--increase/decrease/steady-->
+|HDI                      = {{steady}} 0,861 <!--number only-->
+|HDI_ref                  = 
+|HDI_category             = <span style="color:#090;">sangat tinggi</span>
+|HDI_rank                 = 30 
+|currency                 = [[Pound Kepulauan Falkland]] (FK)
+|currency_code            = FKP
+|time_zone                = [[Waktu Standar Kepulauan Falkland]] (FKST)
+|utc_offset               = -4
+|time_zone_DST            =
+|utc_offset_DST           = 
+|drives_on                = kiri
+|iso3166code              = FK
+|cctld                    = [[.fk]]
+|calling_code             = [[+500]]
+|footnotes={{Tnavbar|Kepulauan Falkland infobox|plain=1}}
+}}<noinclude>[[Kategori:Templat kotak info negara|{{PAGENAME}}]]
+[[Kategori:Templat Kepulauan Falkland|{{PAGENAME}}]]</noinclude>

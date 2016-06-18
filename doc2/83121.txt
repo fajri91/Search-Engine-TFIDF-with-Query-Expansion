@@ -1,0 +1,11 @@
+Portal:Islam/TokohIslam
+{|width="100%" cellpadding="0" cellspacing="0"
+|-  
+|style="background-color: #C8E7B6; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #CCCCCC; text-align: center; padding-left: 7px; padding-top: 1px; padding-bottom: 1px; -moz-border-radius:2px"|
+<div style="float:left;">'''Tokoh Islam'''</div><div style="float:right;">[[Berkas:Islamsymbool.gif]]</div>
+|}
+
+
+<noinclude>
+[[Kategori:Portal:Islam]]
+</noinclude>

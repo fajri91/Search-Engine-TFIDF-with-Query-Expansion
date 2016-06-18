@@ -1,0 +1,39 @@
+Hieratik
+{{Infobox Writing system
+|name=Hieratik
+|type=Abjad
+|typedesc=dengan elemen [[Logogram|logografik]]
+|time=[[Periode Protodinastik Mesir|Periode Protodinastik]] abad ke-3 Masehi
+|languages=[[bahasa Mesir]]
+|fam1=[[Hieroglif Mesir]]
+|children=[[Demotik (Mesir)|Demotik]]<br />
+{{spaces|2}}&nbsp;[[alfabet Koptik|Koptik]]<br />
+{{spaces|2}}&nbsp;[[aksara Meroitik|Meroitik]]<br />
+{{spaces|4}}&nbsp;[[bahasa Nubia Lama|Nubia Lama]]
+[[daftar suku kata Byblos]]
+|sisters=[[hieroglif kursif]]
+|iso15924=Egyh
+|sample=Prisse papyrus.svg
+}}
+'''Hieratik''' mengacu pada sistem penulisan [[kursif]] yang digunakan pada masa para firaun di [[Mesir]] dan [[Nubia]] yang dikembangkan bersama sistem [[hieroglif Mesir|hieroglif]],<ref name="Goedicke 1988:viiviii">Goedicke 1988:viiviii.</ref> untuk yang sangat erat terkait. Hal ini terutama ditulis dengan tinta dengan kuas buluh pada papirus, yang memungkinkan penulis untuk menulis dengan cepat tanpa harus memakan waktu seperti hieroglif.
+
+Pada abad ke-2, istilah Hieratik pertama kali digunakan oleh [[Santo Klemens dari Alexandria]].<ref>Goedicke 1988:vii; Wente 2001:2006. The reference is made in Clement's ''[http://www.earlychristianwritings.com/text/clement-stromata-book5.html Stromata]'' 5:4.</ref> Hieratik berasal dari ungkapan Yunani {{Polytonic| }} (''grammata hieratika''; harfiah "pendeta menulis")., Karena pada waktu itu Hieratik digunakan hanya untuk teks agama, seperti yang telah terjadi untuk seribu tahun sebelumnya.
+
+== Perkembangan ==
+Dalam [[Periode Protodinastik Mesir|Periode Proto-Dinasti Mesir]], Hieratik pertama kali muncul dan dikembangkan bersama [[hieroglif|naskah hieroglif]] yang lebih formal. Ini adalah kesalahan untuk melihat Hieratik sebagai turunan dari tulisan hieroglif. Memang, teks-teks awal dari Mesir diproduksi dengan tinta dan kuas, dengan tidak ada indikasi tanda-tanda mereka adalah keturunan dari hieroglif. Hieroglif monumental sejati diukir dalam batu tidak muncul sampai [[dinasti pertama Mesir|Dinasti ke-1]], baik setelah Hieratik telah ditetapkan sebagai praktik penulisan. Dua sistem penulisan, oleh karena itu, terkait, perkembangan paralel, daripada satu linier tunggal.<ref name="Goedicke 1988:viiviii"/>
+
+Hieratik digunakan selama periode fir'aun dan ke [[Periode Graeco-Romawi]]. Sekitar 660 SM, naskah [[Demotik (Mesir)|Demotik]] (dan kemudian Yunani) diganti Hieratik yang secara tertulis paling sekuler, tetapi Hieratik terus digunakan oleh kelas [[pendeta]] selama berabad-abad beberapa lagi, setidaknya ke dalam abad ke-3.
+
+== Referensi ==
+{{reflist}}
+{{jenis aksara|state=show|state5=show}}
+
+[[Kategori:Bahasa Mesir Kuno]]
+[[Kategori:Bahasa Mesir]]
+[[Kategori:Aksara]]
+[[Kategori:Sistem penulisan di Afrika]]
+
+
+{{aksara-stub}}
+
+[[sv:Hieroglyfer#Hieratisk skrift]]

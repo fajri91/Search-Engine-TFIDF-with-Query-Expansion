@@ -1,0 +1,35 @@
+Lineus longissimus
+{{Taxobox
+| status = 
+| trend = 
+| status_ref =
+| image = Lineus longissimus.jpg
+| image_caption = 
+| image_width =  250px
+| regnum = [[Hewan|Animalia]]
+| phylum = [[Nemertea]]
+| classis = [[Anopla]]
+| ordo = [[Heteronemertea]]
+| familia = [[Lineidae]]
+| genus = ''[[Lineus]]''
+| species = '''''L. longissimus'''''
+| binomial = ''Lineus longissimus''
+| binomial_authority = ([[Johan Ernst Gunnerus|Gunnerus]], [[1770]])
+| synonyms = 
+| range_map = 
+| range_map_width = 
+| range_map_caption =
+}}
+
+'''''Lineus longissimus''''' adalah sejenis [[hewan]] yang tergolong dalam kelas ''[[Anopla]]'' dari filum ''[[Nemertea]]''. Dengan contoh yang panjangnya 55 [[meter]] dan tebal tubuhnya 10 [[sentimeter]] adalah salah satu jenis hewan yang terpanjang di [[Dunia]]. Lendirnya berbisa.<ref>{{Cite book|title=Nationalnyckeln till Sveriges flora och fauna|chapter=Stjrnmaskar - slemmaskar. Sipuncula - Nemertea|language=Swedia|last=Strand|first=M.|coauthors=Sundberg, P.|year=2010|publisher=Artdatabanken, SLU|location=[[Uppsala]]|isbn=978-91-88506-72-6|page=104}}</ref>
+
+== Referensi ==
+<references/>
+
+== Pranala luar ==
+{{commons}}
+{{Wikispecies}}
+
+{{Zoologi-stub}}
+
+[[Kategori:Nemertea]]

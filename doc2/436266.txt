@@ -1,0 +1,14 @@
+Berkas:Porang veg.JPG
+== {{int:filedesc}} ==
+{{Information
+| description    =
+Habitus porang/iles-iles, tahap vegetatif. Lokasi: ICCRI Jember.
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Cc-by-3.0}}

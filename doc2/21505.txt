@@ -1,0 +1,8 @@
+Templat:Medis-stub
+{{base-stub
+|[[kedokteran|kedokteran atau medis]]
+|[[Image:Caduceus.png|9999999999x30px]]}}{{#if:{{{kat|}}}||<includeonly>
+[[Kategori:Rintisan bertopik medis|{{PAGENAME}}]]</includeonly>}}<noinclude>
+[[Kategori:Templat rintisan|{{PAGENAME}}]]
+
+</noinclude>

@@ -1,0 +1,20 @@
+Templat:NBA untuk Fiksi
+{{Navbox
+| name  = NBA untuk Fiksi
+| title = [[Penghargaan Buku Nasional untuk Fiksi]]
+| state = {{{state|autocollapse}}}
+| bodyclass = hlist
+
+| group1 = 19501974
+| list1  ={{NBA untuk Fiksi 19501974|list only=true}}
+
+| group2 = 19751999
+| list2  ={{NBA untuk Fiksi 19751999|list only=true}}
+
+| group3 = 20002024
+| list3  ={{NBA untuk Fiksi 20002024|list only=true}}
+
+| below  =  {{NBA untuk Fiksi footer}}
+}}<noinclude>
+{{collapsible option}}
+</noinclude>

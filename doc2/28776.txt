@@ -1,0 +1,8 @@
+FDDI
+'''FDDI''' (''ahadiat'') adalah standar komunikasi data menggunakan ''fiber optic'' pada [[LAN]] dengan panjang sampai 200 km. 
+
+Protokol FDDI berbasis pada [[protokol jaringan|protokol]] [[Token Ring]]. FDDI terdiri dari dua ''Token Ring'', yang satu ''ring''-nya berfungsi sebagai ''ring backup'' jika seandainya ada ''ring'' dari dua ''ring'' tersebut yang putus atau mengalami kegagalan dalam bekerja. Sebuah ''ring'' FDDI memiliki kecepatan 100 Mbps.
+
+{{network-stub}}
+
+[[Kategori:Teknologi informasi]]

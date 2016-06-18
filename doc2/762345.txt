@@ -1,0 +1,135 @@
+Templat:Templat Matematika
+{{Navbox with collapsible groups
+| name = Templat Matematika
+| state = {{{state|expanded}}}
+| bodyclass = plainlist
+| title = Templat Matematika
+| liststyle = font-size:110%;<!--(as some templates' descriptions include links)-->
+| selected = {{{selected|{{{expanded|{{{1|}}}}}}}}}
+
+<!-------------- Functions / Numeral systems -------------->
+| abbr1 = FN
+| group1 = {{hlist|Fungsi|Sistem bilangan}}
+| list1 =
+ {{Navbox |child |listclass=hlist
+  | group1 = Fungsi
+  | list1 =
+*{{tlbare|Aritmetika dasar}}
+*{{tlbare|precision}}
+*{{tlbare|precision1}}
+*{{tlbare|value}}
+  | group2 = Numeral systems
+  | list2 =
+*{{tlbare|base 36}}
+*{{tlbare|binary}}
+*{{tlbare|dec2hex}}
+*{{tlbare|decimal2Base}}
+*{{tlbare|duodecimal}}
+*{{tlbare|hex2dec}}
+*{{tlbare|hexadecimal}}
+*{{tlbare|octal}}
+*{{tlbare|quaternary}}
+*{{tlbare|quinary}}
+*{{tlbare|rn}}
+*{{tlbare|roman}}
+*{{tlbare|senary}}
+*{{tlbare|ternary}}
+*{{tlbare|vigesimal}}
+ }}
+
+<!---------------------- Konversi ---------------------->
+| abbr2 = konversi
+| group2 = Konversi
+| list2 =
+ {{Aligned table
+  |style=margin:0 auto 0;text-align:left;
+  | {{Aligned table
+     |style=padding-right:2.5em;
+     |col1style=text-align:right;white-space:nowrap;padding-right:1.0em;
+     |col2style=font-size:90%;<!--(see liststyle above)--> vertical-align:middle;line-height:1.3em;font-style:italic;
+     | {{tlbare|bbl to t}}      | barrel minyak menjadi ton
+     | {{tlbare|convert}}       | 
+     | {{tlbare|convert/scale}} | to convert any linearly related units
+     | {{tlbare|long ton}}      | long hundredweights, quarters and pounds to kilograms;<br/>long tons and hundredweights to pounds and metric tonnes
+     | {{tlbare|convinfobox}}   | for use in infoboxes
+    }}
+  | {{Aligned table
+     |col1style=text-align:right;white-space:nowrap;padding-right:1.0em;
+     |col2style=font-size:90%;<!--(as above)--> vertical-align:middle;line-height:1.3em;font-style:italic;
+     | {{tlbare|decdeg}}        | derajat, menit dan detik menjadi [[decimal degrees]]
+     | {{tlbare|hms2deg}}       | [[hour angle]] (dalam jam, menit dan detik) menjadi derajat desimal
+     | {{tlbare|deg2hms}}       | derajat desimal menjadi [[hour angle]] (dalam jam, menit dan detik)
+     | {{tlbare|inflation}}     | menghitung inflasi harga-harga terkait Consumer Price Index
+     | {{tlbare|miles-chains}}  | miles and chains to kilometres linking "chains"
+     | {{tlbare|pop density}}   | density suatu populasi dalam suatu area
+     | {{tlbare|track gauge}}   | railway track gauges
+    }}
+ }}
+
+<!----------------------- Notasi ------------------------>
+| group3 = Notasi
+| abbr3 = notasi
+| list3 =
+ {{Aligned table
+  |style=margin:0 auto 0;text-align:left;
+  | {{Aligned table
+     |style=padding-right:2.5em;
+     |col1style=text-align:right;white-space:nowrap;padding-right:1.0em;
+     |col2style=font-size:90%;<!--(as above)--> vertical-align:middle;line-height:1.3em;font-style:italic;
+     | {{tlbare|bigmath}} | for stand-alone formulas, using a bigger font to match PNG-rendered {{noitalic|[[TeX|{{TeX}}]]}} formulas
+     | {{hlist|{{tlbare|bra-ket}}|{{tlbare|braket}}}} {{hlist|{{tlbare|bra}}|{{tlbare|ket}}}} | [[braket notation]]
+     | {{tlbare|frac}}    | 
+     | {{tlbare|intmath}} | [[integral symbol]]s
+     | {{hlist|{{tlbare|langle}}|{{tlbare|rangle}}}} | [[angular bracket]]s
+     | {{hlist|{{tlbare|ldelim}}|{{tlbare|rdelim}}}} | multiline delimiters (2-5 lines inclusive)
+     | {{tlbare|math}}    | 
+     | {{tlbare|mathcal}} | 
+    }}
+  | {{Aligned table
+     |col1style=text-align:right;white-space:nowrap;padding-right:1.0em;
+     |col2style=font-size:90%;<!--(as above)--> vertical-align:middle;line-height:1.3em;font-style:italic;
+     | {{tlbare|mvar}}    | a short form to refer to individual italicized maths variables in normal text
+     | {{hlist|{{tlbare|overset}}|{{tlbare|underset}}}} | arbitrary characters/diacritics set above/below one another
+     | {{tlbare|radic}}   | 
+     | {{tlbare|sfrac}}   | 
+     | {{tlbare|sqrt}}    | 
+     | {{hlist|{{tlbare|su}}|{{tlbare|sub}}|{{tlbare|sup}}}} | 
+
+     |style7.1=vertical-align:middle;text-align:right;padding-right:1.0em;| {{tlbare|tmath}}
+     | wraps a {{noitalic|{{TeX}}}} math expression in {{noitalic|<nowiki><math></nowiki>}} tags
+
+     | {{tlbare|val}}     | 
+     | {{tlbare|vec}}     | for various overarrows, underarrows, pointing left, right or both ways
+    }}
+ }}
+
+<!---------------- Boxes / Tags / Notices ----------------->
+| abbr4 = BTN
+| group4 = {{hlist|Kotak|Tag|Catatan}}
+| list4 =
+ {{Navbox with columns |child
+  |colstyle=text-align:center;
+  | col1header = Kotak
+  | col1 = {{startflatlist}}
+*{{tlbare|calculation results}}
+*{{tlbare|calculus}}
+*{{tlbare|Infobox mathematics function}}
+*{{tlbare|functions}}
+{{endflatlist}}
+  | col2header = Tag
+  | col2 = {{startflatlist}}
+*{{tlbare|metricate}}
+*{{tlbare|undue precision}}
+*{{tlbare|units attention}}
+{{endflatlist}}
+  | col3header = Catatan
+  | col3 = {{startflatlist}}
+*{{tlbare|calculation}}
+{{endflatlist}}
+ }}
+
+| belowstyle = font-weight:bold;
+| below = {{c|icon|Mathematics templates|Kategori}}
+
+}}<noinclude>{{Documentation}}
+[[Kategori:Templat matematika]]</noinclude>

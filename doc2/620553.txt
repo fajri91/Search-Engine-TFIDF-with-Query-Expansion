@@ -1,0 +1,35 @@
+Pensacola murina
+{{Taxobox
+|name = Pensacola murina
+|status = 
+|image = 
+|image_caption = 
+|domain = 
+|regnum = [[Animalia]]
+|phylum = [[Arthropoda]]
+|classis = [[Arachnida]]
+|ordo = [[Araneae]]
+|familia = [[Salticidae]]
+|genus =Pensacola
+|species = Pensacola murina
+|binomial = Pensacola murina
+|binomial_authority =Simon, 1902
+|range_map = 
+|range_map_caption = 
+|image2 = 
+|image2_caption = 
+|synonyms = 
+}}
+'''''Pensacola murina''''' adalah spesies [[laba-laba]] yang tergolong [[familia]] [[Salticidae]]. Spesies ini juga merupakan bagian dari genus [[Pensacola]] dan ordo [[Araneae]]. Nama ilmiah dari spesies ini pertama kali diterbitkan pada tahun 1902 oleh Simon.
+
+Laba-laba ini biasanya banyak ditemui di Brasil, Guyana.
+
+== Referensi ==
+
+* Platnick, Norman I. (2010): [http://research.amnh.org/entomology/spiders/catalog/LINYPHIIDAE.html The world spider catalog], version 10.5. ''American Museum of Natural History''.
+
+{{DEFAULTSORT:Pensacola murina}}
+
+[[Kategori:Salticidae]]
+
+{{labalaba-stub}}

@@ -1,0 +1,67 @@
+Giaveno
+{{Infobox Italian comune
+| name                = Giaveno
+| official_name       = Comune di Giaveno
+| native_name         = 
+| image_skyline       = Paesaggio-Giaveno-02.jpg
+| imagesize           = 
+| image_alt           = 
+| image_caption       = 
+| image_shield        = Giaveno-Stemma.png
+| shield_alt          = 
+| image_map           = 
+| map_alt             = 
+| map_caption         = 
+| pushpin_label_position = 
+| pushpin_map_alt     = 
+| latd  = 45 |latm  = 2 |lats  =  |latNS  = N
+| longd = 7 |longm = 21 |longs =   |longEW = E 
+| coordinates_type    = type:city(15,191)_region:IT
+| coordinates_display = 
+| coordinates_footnotes = 
+| region              = [[Piedmont]]
+| province            = [[Provinsi Turin]] (TO)
+| frazioni            = Alpe Colombino, Buffa, Chiarmetta, Colpastore, Dalmassi, Maddalena, Mollar dei Franchi, Pontepietra, Provonda, Ruata Sangone, Sala, Selvaggio, Villa 
+| mayor_party         = 
+| mayor               = Daniela Ruffino
+| area_footnotes      = 
+| area_total_km2      = 72.0
+| population_footnotes = <ref name="istat">All demographics and other statistics: Italian statistical institute [[Istat]].</ref>
+| population_total    = 15957
+| population_as_of    =31 Mei 2007
+| pop_density_footnotes = 
+| population_demonym  = Giavenesi
+| elevation_footnotes = 
+| elevation_m         = 506
+| twin1               = 
+| twin1_country       = 
+| saint               = 
+| day                 = 
+| postal_code         = 10094
+| area_code           = 011
+| website             = {{official|http://www.giaveno.it}}
+| footnotes           = 
+}}
+'''Giaveno''' adalah komune yang terletak di distrik [[Provinsi Torino]], [[Italia]].
+
+Kota Giaveno memiliki luas sebesar 72.0&nbsp;km.
+
+Giaveno pada tahun 2004, memiliki penduduk sebesar 15.191 jiwa.
+
+== Kota Kembar ==
+*{{flagicon|ARG}} [[Brinkmann]], Argentina 
+*{{flagicon|FRA}} [[Chevreuse]], Perancis
+*{{flagicon|Croatia}} [[Novska]], Croatia 
+*{{flagicon|FRA}} [[Saint-Jean-de-Maurienne]], Perancis
+
+== Referensi ==
+{{reflist}}
+
+=== Pranala luar ===
+* [http://www.giaveno.it/ Giaveno]
+* [http://www.funghidigiaveno.com/ Mushrooms]
+
+{{Provinsi Torino}}
+
+
+{{Turin-geo-stub}}

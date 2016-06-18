@@ -1,0 +1,5 @@
+Templat:User0
+<includeonly>[[User:{{{1}}}|{{{2|{{{1}}}}}}]]&nbsp;([[User talk:{{{1}}}|bicara]]){{adminicon|{{{1}}}}}</includeonly><noinclude>
+{{doc|Templat:User-c/doc}}
+<!-- TAMBAHKAN KATEGORI DAN INTERWIKI DI HALAMAN DOC, JANGAN DI SINI! -->
+</noinclude>

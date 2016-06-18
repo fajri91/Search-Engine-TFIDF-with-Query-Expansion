@@ -1,0 +1,72 @@
+Templat:Infobox Buddha
+{{infobox
+| aboveclass = fn org
+| abovestyle = background-color:#FFD068
+| above = {{{name}}}
+| image = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|{{{img|}}}}}}|size={{{image_size|}}}|sizedefault=frameless|upright=1.1|alt={{{image_alt|{{{img_alt|}}}}}}}}
+| caption = {{{caption|{{{img_capt|}}}}}}
+
+| headerstyle = background-color: #FFD068
+
+| label1 = [[Sansekerta]]
+| data1 = {{{sanskrit_name|}}}
+
+| label2 = [[Pli]]
+| data2 = {{{pali_name|}}}
+
+| label3 = [[Bahasa Myanmar|Birma]]
+| data3 = {{{burmese_name|}}}
+
+| label4 = [[Bahasa Cina|Cina]]
+| data4 = {{{chinese_name|}}}
+
+| label5 = [[Bahasa Jepang|Jepang]]
+| data5 = {{{japanese_name|}}}
+
+| label6 = [[Bahasa Korea|Korea]]
+| data6 = {{{korean_name|}}}
+
+| label7 = [[Bahasa Mongol|Mongolia]]
+| data7 = {{{mongolian_name|}}}
+
+| label8 = [[Bahasa Shan|Shan]]
+| data8 = {{{shan_name|}}}
+
+| label9 = [[Bahasa Sinhala|Sinhala]]
+| data9 = {{{sinhala_name|}}}
+
+| label10 = [[Bahasa Thai|Thai]]
+| data10 = {{{thai_name|}}}
+
+| label11 = [[Tibetan klasik|Tibetan]]
+| data11 = {{{tibetan_name|}}}
+
+| label12 = [[Bahasa Vietnam|Vietnam]]
+| data12 = {{{vietnamese_name|}}}
+
+| label13 = [[Bahasa Sinhala|Sinhala]]
+| data13 = {{{sinhalese_name|}}}
+
+| header15 = {{#if:{{{veneration|}}}{{{attributes|}}}{{{shakti|}}}{{{preceded_by|}}}{{{succeeded_by|}}}|Information}}
+
+| label16 = Dimuliakan oleh
+| data16 = {{{veneration|}}}
+
+| label17 = Atribut
+| data17 = {{{attributes|}}}
+
+| label18 = Shakti
+| data18 = {{{shakti|}}}
+
+| label19 = Didahului oleh
+| data19 = {{{preceded_by|}}}
+
+| label20 = Diwarisi oleh
+| data20 = {{{succeeded_by|}}}
+
+| belowstyle = background-color: #EBEBEB
+| below = {{portal-inline|Buddhisme|size=tiny}}
+
+}}<noinclude>
+{{documentation}}
+</noinclude>

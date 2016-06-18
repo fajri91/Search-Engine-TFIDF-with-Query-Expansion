@@ -1,0 +1,16 @@
+Templat:Country flag IOC alias BRN
+{{ #switch: {{{1}}}
+| Asian Games 1982
+| Los Angeles 1984
+| Asian Games 1986
+| Seoul 1988
+| Asian Games 1990
+| Barcelona 1992
+| Asian Games 1994
+| Atlanta 1996
+| Asian Games 1998
+| Sydney 2000 = Flag of Bahrain 1972.svg
+| #default = Flag of Bahrain.svg
+}}<noinclude>
+[[Kategori:Templat alias bendera negara IOC|BRN]]
+</noinclude>

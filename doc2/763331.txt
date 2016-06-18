@@ -1,0 +1,64 @@
+Templat:Film Bollywood dengan keuntungan tertinggi
+{{Navbox with columns
+| state = {{{state|autocollapse}}}
+| name    = Film Bollywood dengan keuntungan tertinggi
+| title   = [[daftar film Bollywood dengan keuntungan tertinggi|Film Bollywood dengan keuntungan tertinggi]]
+| listclass = plainlist
+| colwidth = 25%
+| colstyle = text-align:left;
+
+| col1header =Hari pembukaan
+| col1 =
+* 1. ''[[Happy New Year (film 2014)|Happy New Year]]''<br>
+* 2. ''[[Dhoom 3]]''<br>
+* 3. ''[[Chennai Express]]''<br>
+* 4. ''[[Ek Tha Tiger]]''<br>
+* 5. ''[[Singham Returns]]''<br>
+* 6. ''[[Bang Bang!]]''<br>
+* 7. ''[[Kick (film 2014)|Kick]]'' <br>
+* 8. ''[[Krrish 3]]''<br>
+* 9. ''[[Agneepath (film 2012)|Agneepath]]''<br>
+* 10. ''[[Bodyguard (film Hindi 2011)|Bodyguard]]''
+
+| col2header = Di India
+| col2 = 
+* 1. ''[[Dhoom 3]]''<br>
+* 2. ''[[Kick (film 2014)|Kick]]''<br>
+* 3. ''[[Chennai Express]]''<br>
+* 4. ''[[Happy New Year (film 2014)|Happy New Year]]''<br>
+* 5. ''[[3 Idiots]]''<br>
+* 6. ''[[Krrish 3]]''<br>
+* 7. ''[[Ek Tha Tiger]]''<br>
+* 8. ''[[Bang Bang!]]''<br>
+* 9. ''[[Yeh Jawaani Hai Deewani]]''<br>
+* 10. ''[[Dabangg 2]]''
+
+
+| col3header = Di luar negeri
+| col3 =
+* 1. ''[[Dhoom 3]]''<br>
+* 2. ''[[3 Idiots]]''<br>
+* 3. ''[[My Name Is Khan]]''<br>
+* 4. ''[[Chennai Express]]''<br>
+* 5. ''[[Happy New Year (film 2014)|Happy New Year]]''<br>
+* 6. ''[[Jab Tak Hai Jaan]]''<br>
+* 7. ''[[Bang Bang!]]''<br>
+* 8. ''[[Don 2]]''<br>
+* 9. ''[[Kick (film 2014)|Kick]]''<br>
+* 10. ''[[Kabhi Alvida Naa Kehna]]''
+
+
+| col4header = Di seluruh dunia
+| col4 = 
+* 1. ''[[Dhoom 3]]''<br>
+* 2. ''[[Chennai Express]]''<br>
+* 3. ''[[3 Idiots]]''<br>
+* 4. ''[[Happy New Year (film 2014)|Happy New Year]]''<br>
+* 5. ''[[Kick (film 2014)|Kick]]''<br>
+* 6. ''[[Krrish 3]]''<br>
+* 7. ''[[Bang Bang!]]''<br>
+* 8. ''[[Ek Tha Tiger]]''<br>
+* 9. ''[[Yeh Jawaani Hai Deewani]]''<br>
+* 10. ''[[Dabangg 2]]''
+
+}}

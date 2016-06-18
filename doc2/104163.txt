@@ -1,0 +1,43 @@
+Bandar Udara Bonnyville
+{{Infobox airport
+| name         = Bonnyville Airport
+| image        = 
+| IATA         = YBY <!-- not YBF -->
+| ICAO         = CYBF
+| type         = Public
+| owner        = 
+| operator     = Town of Bonnyville
+| city-served  = 
+| location     = [[Bonnyville No. 87, Alberta|Bonnyville No. 87]], near [[Bonnyville, Alberta]]
+| elevation-f  = 1,839
+| elevation-m  = 561
+| latd = 54 | latm = 18 | lats = 17 | latNS = N
+| longd= 110 | longm= 44 | longs= 28 | longEW= W
+| coordinates_type       = airport
+| coordinates_region     = CA-AB
+| pushpin_map            = Canada Alberta
+| pushpin_label          = CYBF
+| pushpin_map_caption    = Location in Alberta
+| website      = 
+| r1-number    = 07/25
+| r1-length-f  = 4,434
+| r1-length-m  = {{convert|4434|ft|disp=output number only|0}}
+| r1-surface   = [[Aspal]]
+| footnotes    = 
+| footnotes = Source: [[Canada Flight Supplement]]<ref name="CFS">{{CFS}}</ref>
+}}
+
+'''Bandar Udara Bonnyville''' {{Airport codes|YBY|CYBF}}, terletak {{convert|2|NM|abbr=on|lk=in}} utara [[Bonnyvlle]], [[Alberta]], [[Kanada]].
+
+== Referensi ==
+<references/>
+* {{CFS}}
+
+==Pranala Luar==
+*{{ASN|YBY}}
+*[http://archive.copanational.org/PlacesToFly/airport_view.php?pr_id=2&ap_id=574 Page about this airport] on [[Canadian Owners and Pilots Association|COPA's]] ''Places to Fly'' airport directory
+
+{{Canadian Airports}}
+{{bandara-Alberta-stub}}
+
+[[Kategori:Bandar udara di Alberta]]

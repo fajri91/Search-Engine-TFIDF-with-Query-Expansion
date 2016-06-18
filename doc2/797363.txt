@@ -1,0 +1,6 @@
+Templat:Taxonomy/Orycteropus afer
+{{Don't edit this line {{{machine code|}}}|{{{1}}}
+|rank=spesies
+|link=Aardvark|O. afer
+|parent=Orycteropus
+}}

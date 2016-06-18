@@ -1,0 +1,14 @@
+Templat:BintangWiki Sekolah
+
+{{BintangWiki|
+|nama=BintangWiki Sekolah
+|border=gray
+|color=#fdffe7
+|namaberkas=Image:SchoolsBarnstar.svg
+|pesan= BintangWiki Sekolah ini di berikan kepada '''[[Pengguna:{{PAGENAME}}|{{PAGENAME}}]]''' yang telah banyak memberikan kontribusi atau memperbaiki artikel tentang sekolah atau universitas.
+|pesanpengguna={{{1|}}}
+|width={{{width|}}}
+}}<noinclude>
+
+
+[[Kategori:Templat BintangWiki|Wikipedia]]</noinclude>

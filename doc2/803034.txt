@@ -1,0 +1,84 @@
+Papirus 79
+{{Infobox naskah
+| form   = Papirus
+| number = <math>\mathfrak{P}</math><sup>79</sup>
+| image  = Papyrus 79 - Staatliche Museen zu Berlin inv. 6774 - Epistle to the Hebrews 10,10-12.28-30 - verso.jpg
+| isize  = 100
+| caption= Surat Ibrani 10:28-30 pada sisi ''verso'' Papirus 79
+| name   =
+| sign   =
+| text   = [[Surat Ibrani]] 10 
+| script = [[bahasa Yunani]]
+| date   = abad ke-7
+| found  = [[Mesir]]
+| now at = [[Berlin State Museums|Staatliche Museen zu Berlin]]
+| cite   = K. Treu, ''Neue neutestamentliche Fragmente der Berliner Papyrussammlung,'' APF 18 (1966), pp. 37-48.
+| size   = 2.9 cm x 5.3 cm
+| type   = [[Teks Alexandria]]
+| cat    = II
+| hand   =
+| note   =
+}}
+
+'''Papirus 79''' ({{lang-en|Papyrus 79}}; dalam [[naskah Alkitab#Gregory-Aland|penomoran Gregory-Aland]] diberi kode '''<math>\mathfrak{P}</math><sup>79</sup>''') adalah sebuah [[naskah Alkitab|naskah]] [[papirus]] kuno berisi bagian [[Perjanjian Baru]] dari [[Alkitab]] [[Kristen]] dalam [[bahasa Yunani]]. Memuat sebagian [[Surat Ibrani]], yang terlestarikan hanya [[Ibrani 10|pasal 10:10-12, 28-30]]. Berdasarkan [[paleografi]] diperkirakan naskah ini dibuat pada abad ke-7.
+
+== Pemerian ==
+Teksnya tidak dikoreksi. Huruf-hurufnya berbentuk gaya [[Koptik]].<ref>Klaus Wachtel, Klaus Witte, [http://books.google.pl/books?id=gEzctvICPS0C&pg=RA1-PA1&lpg=RA1-PA1&dq= ''Das Neue Testament auf Papyrus: Gal., Eph., Phil., Kol., 1. u. 2. Thess., 1. u. 2 Tim., Tit., Phlm., Hebr''], Walter de Gruyter, 1994, p. LXII.</ref>
+
+== Teks ==
+Teks bahasa Yunani kodeks ini tergolong jenis [[Teks Alexandria]]. [[Kurt Aland|Aland]] menempatkannya dalam [[Kategori Naskah Perjanjian Baru|Kategori II]].<ref name = Aland>{{Cite book
+|last = Aland
+|first = Kurt
+|authorlink = Kurt Aland
+|last2 = Aland
+|first2 = Barbara
+|authorlink2 = Barbara Aland
+|others = Erroll F. Rhodes (trans.)
+|title = The Text of the New Testament: An Introduction to the Critical Editions and to the Theory and Practice of Modern Textual Criticism
+|publisher = [[William B. Eerdmans Publishing Company]]
+|year = 1995
+|location = Grand Rapids
+|page = 101
+|url =http://books.google.com/books?id=2pYDsAhUOxAC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false
+|isbn = 978-0-8028-4098-1}}</ref>
+
+== Lokasi ==
+Sekarang naskah ini disimpan pada [[Berlin State Museums|Staatliche Museen zu Berlin]] (Inv. no. 6774) di [[Berlin]], [[Jerman]].<ref name = Aland/><ref name = INTF>{{Cite web|url=http://intf.uni-muenster.de/vmr/NTVMR/ListeHandschriften.php?ObjID=10079|title= Liste Handschriften|publisher=Institute for New Testament Textual Research|accessdate=27 August 2011|location=Mnster}}</ref>
+
+{{multiple image|caption_align=center|header_align=center
+ | align = center
+ | total_width = 400
+
+ | image1 = Papyrus 79 - Staatliche Museen zu Berlin inv. 6774 - Epistle to the Hebrews 10,10-12.28-30 - recto.jpg
+ | width1 = 1392 | height1 = 2708
+ | caption1 = recto
+
+ | image2 = Papyrus 79 - Staatliche Museen zu Berlin inv. 6774 - Epistle to the Hebrews 10,10-12.28-30 - verso.jpg
+ | width2 = 1400 | height2 = 2714
+ | caption2 = verso
+}}
+
+== Lihat pula == 
+* [[Daftar Papirus Perjanjian Baru]]
+* [[Surat Ibrani]]: [[Ibrani 10|pasal 10]]
+
+== Referensi ==
+{{Reflist|2}}
+
+== Pustaka tambahan ==
+
+* [[Kurt Treu]], ''Neue neutestamentliche Fragmente der Berliner Papyrussammlung,'' Archiv fr Papyrusforschung 18 (Berlin: 1966), pp.&nbsp;3748.
+* M. Mees, ''Einige Verse aus den Hebrerbrief nach einem neugefundeten Papyrus,'' Orient Press I (Rome: 1970), pp.&nbsp;4346.
+* G. H. R. Horsley, ''New Documents Illustrating Early Christianity'' 2 ([[Macquarie University]], 1982) pp.&nbsp;125140.
+
+== Foto ==
+{{Commons category}}
+* [http://chrles.multiply.com/photos/album/49/Bible_Papyrus_p79#2 Leaf from <math>\mathfrak{P}</math><sup>79</sup> recto]
+* [http://chrles.multiply.com/photos/album/49/Bible_Papyrus_p79#3 Leaf from <math>\mathfrak{P}</math><sup>79</sup> verso]
+
+{{Naskah Papirus Perjanjian Baru}}
+
+{{DEFAULTSORT:Papirus 0079}}
+[[Kategori:Surat Ibrani]]
+[[Kategori:Karya abad ke-7]]
+[[Kategori:Berlin State Museums]]

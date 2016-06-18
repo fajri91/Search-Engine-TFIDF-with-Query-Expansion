@@ -1,0 +1,51 @@
+Elpidio Quirino
+{{Infobox President 
+|name           = Elpidio Quirino 
+|image          = Ph_pres_quirino.jpg 
+|order          = [[Presiden Filipina]] ke-6 <br /> ''Presiden ke-2 dari Republik ke-3'' 
+|term_start     = [[17 April]] [[1948]]
+|term_end       = [[30 Desember]] [[1953]] 
+|vicepresident  = [[Fernando Lopez]] (1949-1953)
+|predecessor    = [[Manuel Roxas]] 
+|successor      = [[Ramon Magsaysay]]
+|order2         = [[Wakil Presiden Filipina]] ke-3 <br /> ''Wakil Presiden ke-2 dari Republik ke-2''<br /> ''Wakil Presiden ke-1 dari Republik ke-3'' 
+|term_start2    = [[28 Mei]] [[1946]]
+|term_end2      = [[15 April]] [[1948]]
+|president2     = [[Manuel Roxas]]
+|predecessor2   = [[Sergio Osmea]] (jabatan dikosongkan sejak 1944-1946) 
+|successor2     = [[Fernando Lopez]] 
+|birth_date     = {{birth date|1890|11|16|mf=y}} 
+|birth_place    = [[Vigan]], [[Ilocos Sur]] 
+|dead           = dead 
+|death_date     = {{death date and age|1956|2|29|1890|11|16|mf=y}}
+|death_place    = [[Quezon City]] 
+|party          = [[Liberal Party (Philippines)|Liberal Party]] 
+|religion       =  [[Katolik Roma]]
+|spouse         = [[Alicia Quirino|Alicia Syquia]]
+|signature      = Quirino_Sig.png
+}}
+
+'''Elpidio Rivera Quirino''' ({{lahirmati|[[Vigan]], [[Ilocos Sur]]|16|11|1890|[[Quezon City]]|29|2|1956}}) tampil ke-6 sebagai [[Presiden Filipina|Presiden]] [[Filipina]]. Ia menggantikan [[Manuel Roxas]] dan mengakhiri jabatan kepresidenannya pada tahun 1957, saat digantikan oleh [[Ramon Magsaysay]].
+
+{{start box}}
+{{succession box |
+  before=  [[Sergio Osmea]] |
+  title= [[Wakil Presiden Filipina]] |
+  years= 1946-1948 |
+  after= [[Fernando Lopez]]
+}}
+{{succession box |
+  before= [[Manuel Roxas]] |
+  title= [[Presiden Filipina]] |
+  years= 1948-1953 |
+  after= [[Ramon Magsaysay]]
+}}
+{{end box}}
+
+{{Presiden Filipina}}
+
+{{bio-stub}}
+{{lifetime|1890|1956|Quirino}}
+
+[[Kategori:Presiden Filipina]]
+[[Kategori:Wakil Presiden Filipina]]

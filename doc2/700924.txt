@@ -1,0 +1,46 @@
+Bandar Udara Naha (Indonesia)
+{{for|bandar udara di Okinawa, Jepang|Bandar Udara Naha}}
+{{Infobox airport
+| name         = Bandar Udara Naha
+| nativename-a = 
+| IATA         = NAH
+| ICAO         = WAMH
+| type         = Publik
+| owner        = 
+| operator     =
+| city-served  = [[Tahuna, Kepulauan Sangihe]], [[Indonesia]]
+| location     =
+| metric-elev  = y
+| elevation-m  = 5
+| website      = 
+| pushpin_map            = Indonesia Sulawesi
+| pushpin_label          = '''NAH'''
+| pushpin_map_caption    = Lokasi bandar udara di Sulawesi
+| pushpin_label_position = top
+| latd =  03 | latm = 40 | lats = 59 | latNS = N
+| longd= 125 | longm= 31 | longs= 40 | longEW= E
+| coordinates_region     = ID-SA
+| r1-number    = 15/33
+| r1-length-f  = 3,600
+| r1-surface   = [[Aspal]]
+| footnotes    = Source: [[DAFIF]],<ref name=WAD>{{WAD|WAMH|source=[[DAFIF]]}}</ref><ref name=GCM>{{GCM|NAH|source=[[DAFIF]]}}</ref> STV<ref name="STV">{{STV|6301192|Naha Airport}}</ref>
+}}
+'''Bandar Udara Naha''' atau dengan nama lain ''' Bandar Udara Judha Tindas''' adalah bandar udara yang terletak di kecamatan [[Tahuna, Kepulauan Sangihe|Tahuna]], [[Kabupaten Kepulauan Sangihe]], provinsi [[Sulawesi Utara]], [[Indonesia]]. Bandar udara ini memiliki ukuran landasan pacu 1.100 x 23 m. Jarak dari pusat kota sekitar 16&nbsp;km.
+
+== Maskapai penerbangan dan tujuan ==
+{{Airport-dest-list
+|[[Wings Air]] | [[Bandar Udara Sam Ratulangi|Manado]]
+}}
+
+== Referensi ==
+{{reflist}}
+
+== Pranala luar ==
+* {{id}} [http://hubud.dephub.go.id/?id+info_bandara+detail+31 Direktorat Jenderal Perhubungan Udara]
+{{Bandar Udara di Indonesia}}
+
+[[Kategori:Bandar udara di Indonesia|Naha]]
+[[Kategori:Kabupaten Kepulauan Sangihe]]
+
+
+{{bandara-indo-stub}}

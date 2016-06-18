@@ -1,0 +1,14 @@
+Berkas:Tnarief.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+Sumber: [http://3.bp.blogspot.com/_7sfZKavilEs/TSSpPNyYMBI/AAAAAAAAANg/cVXIWr5ICK4/s1600/2171c13ba7633e30390b4b81aae5f3bd.jpg http://3.bp.blogspot.com/_7sfZKavilEs/TSSpPNyYMBI/AAAAAAAAANg/cVXIWr5ICK4/s1600/2171c13ba7633e30390b4b81aae5f3bd.jpg]
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{FotoHistoris}}

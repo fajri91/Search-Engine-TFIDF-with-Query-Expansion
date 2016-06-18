@@ -1,0 +1,14 @@
+Berkas:Serigala maned.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+gambar ini diambil dari nationalzoo.si.edu
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Fairuse}}

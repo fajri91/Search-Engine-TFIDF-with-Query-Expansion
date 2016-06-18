@@ -1,0 +1,17 @@
+Multivibrator
+[[Berkas:Transistor Bistable interactive animated EN.svg|thumb|''R1, R2'' = 1 k&Omega;, ''R3, R4'' = 10 k]]
+
+'''Multivibrator''' adalah sebuah sirkuit elektronik yang digunakan untuk bermacam-macam sistem dua keadaan seperti osilator, pewaktu, dan register. Ini bercirikan dua peranti penguat (transistor, tabung hampa, op-amp, dll) yang dikopel-silang oleh jaringan resistor dan kondensator. Bentuk paling umum adalah tipe takstabil yang menghasilkan gelombang persegi. Multivibrator mendapatkan namanya karena isyarat kekuasannya kaya akan harmonik. Multivibrator berasal dari istilah yang digunakan oleh [[William Eccles]] dan [[F.W. Jordan]] pada tahun 1919 untuk sirkuit [[tabung hampa]] yang dibuatnya.
+== Jenis-jenis multivibrator ==
+Ada tiga jenis sirkuit multivibrator, yaitu:
+* '''[[Multivibrator takstabil]]''', di mana sirkuit tidak stabil pada salah satu keadaan, ini berosilasi terus-menerus dari satu keadaan ke keadaan lainnya.
+* '''[[Multivibrator ekamantap]]''', di mana salah satu keadaan adalah stabil, tetapi yang lainnya takstabil. Sirkuit akan berubah ke keadaan takstabil untuk waktu tertentu, tetapi akan selalu kembali ke keadaan stabil. Sirkuit ini berguna untuk membuat pewaktuan dengan jeda tetap untuk menanggapi isyarat luar.
+* '''[[Multivibrator dwimantap]]''', di mana sirkuit akan tetap berada pada salah satu keadaan. Sirkuit dapat diubah dari satu keadaan ke keadaan lainnya dengan penyulut eksternal. Sirkuit ini adalah blok fasis dari register dan memori digital.
+
+== Pranala luar ==
+* [http://www.falstad.com/circuit/e-multivib-a.html Java applets] simulating the multivibrator circuits.
+* [http://www.antonine-education.co.uk/Electronics_AS/Electronics_Mod2/topic_2_2/topic_2_monostable_circuits.htm Monostable Circuits based on NAND gates] see the "NOT gate astable" based on RC circuit
+{{Osilator}}
+
+[[Kategori:Osilator]]
+[[Kategori:Sirkuit digital]]

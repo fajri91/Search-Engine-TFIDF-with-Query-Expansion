@@ -1,0 +1,7 @@
+Templat:Certification Table Summary
+<noinclude>{{Certification Table Top}}</noinclude>
+! scope = "col" colspan={{#switch:{{{format|}}}|2col|2colthin=2|#default=3}} | Ringkasan
+|-<noinclude>
+|}
+{{Documentation}}
+</noinclude>

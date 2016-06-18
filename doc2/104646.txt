@@ -1,0 +1,19 @@
+Berkas:Totally Frank.jpg
+{{Information
+|description    = {{Information
+|description    = |source         = (sumber)
+|date           = (tanggal)
+|location       = (tempat; opsional)
+|author         = (pembuat)
+|permission     = 
+|other_versions = 
+}}
+== {{int:license-header}} ==
+{{SampulBuku}}
+|source         = 
+|date           = 
+|location       = 
+|author         = 
+|permission     = 
+|other_versions = 
+}}

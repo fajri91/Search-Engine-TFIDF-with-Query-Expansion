@@ -1,0 +1,14 @@
+Berkas:Pintugerbanggapurapinratu1.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+sumber http://wisatasulawesi.files.wordpress.com/2010/01/pintugerbanggapurapinratu1.jpg
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Fairuse}}

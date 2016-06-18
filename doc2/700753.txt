@@ -1,0 +1,27 @@
+Kereta api Ajisaka/rute
+<small>'''Peta Rute KA Ajisaka'''</small>
+{|cellspacing="0" cellpadding="0" style="background-color:transparent; empty-cells:show; font-size:94%;" align="center"
+{{BS-table}}
+{|cellpadding="0" cellspacing="0" style="background-color:transparent;" align="center"
+{{BS|vCONTg|ke [[Solo]], [[Surabaya]]}}
+{{BS|vBHF|[[Stasiun Lempuyangan]]}}
+{{BS3|WASSERq|vWBRCKE|WASSERq|Jembatan [[Kali Code]]}}
+{{BS|vBHF|[[Stasiun Yogyakarta]]}}
+{{BS|vHST|[[Stasiun Patukan]]}}
+{{BS|vBHF|[[Stasiun Rewulu]]}}
+{{BS3|WASSERq|vWBRCKE|WASSERq|Jembatan [[Kali Progo]]}}
+{{BS|vHST|[[Stasiun Sentolo]]}}
+{{BS|evHST|[[Stasiun Kalimenur]]}}
+{{BS|vHST|[[Stasiun Wates]]}}
+{{BS|evHST|[[Stasiun Kedundang]]}}
+{{BS|vHST|[[Stasiun Wojo]]}}
+{{BS3|WASSERq|vWBRCKE|WASSERq|Jembatan [[Kali Bogowonto]]}}
+{{BS|vHST|[[Stasiun Jenar]]}}
+{{BS|evHST|[[Stasiun Montelan]]}}
+{{BS|vBHF|[[Stasiun Kutoarjo]]}}
+{{BS|vCONTf|ke [[Jakarta]], [[Bandung]]}}
+|}
+|}
+|}
+<noinclude>
+[[Kategori:Templat transportasi rel]]</noinclude>

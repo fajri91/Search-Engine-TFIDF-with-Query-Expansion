@@ -1,0 +1,38 @@
+Templat:Nama terlarang/doc
+{{Subhalaman dokumentasi}}
+<!-- TAMBAHKAN KATEGORI DAN PRANALA ANTARBAHASA DI BAGIAN PALING BAWAH HALAMAN INI -->
+
+=== Penggunaan ===
+Untuk menganjurkan (memperingatkan) pengguna dengan nama yang dilarang untuk mengubah namanya, sebelum diblokir. Salin kode berikut: <code><nowiki>{{gnt:Nama terlarang}}</nowiki></code> 
+
+Templat ini biasanya diberikan untuk nama-nama yang baru didaftarkan. Oleh sebab itu penganjur harus "bertanggung jawab dengan memberikan alasan yang tepat" agar pengguna baru bisa lebih memahami dan memberikan respons dengan benar.
+
+{| class=prettytable
+!Kode!!Jenis persoalan
+|-
+|<code><nowiki>{{gnt:Nama terlarang|membingungkan}}</nowiki></code> || untuk "Nama pengguna yang membingungkan, menyesatkan, atau menyulitkan", termasuk istilah-istilah Wikipedia, nama panjang, nama dengan angka acak, nama tokoh, dll.
+|-
+|<code><nowiki>{{gnt:Nama terlarang|menghasut}}</nowiki></code> || untuk "Nama-nama yang menghasut", termasuk penghinaan, cabul, kontroversial, l33t, dll.
+|-
+|<code><nowiki>{{gnt:Nama terlarang|memfitnah}}</nowiki></code> || untuk "Nama-nama pengguna yang bersifat memfitnah"
+|-
+|<code><nowiki>{{gnt:Nama terlarang|vandalisme}}</nowiki></code> ||untuk "Nama-nama pengguna yang mirip dengan nama yang pernah melakukan vandalisme"
+|-
+|<code><nowiki>{{gnt:Nama terlarang|mirip}}</nowiki></code> ||untuk "Nama-nama pengguna yang meniru-nirukan nama pengguna terdaftar lainnya yang sah"
+|-
+|<code><nowiki>{{gnt:Nama terlarang|organisasi}}</nowiki></code> || untuk "Nama-nama pengguna yang mempromosikan suatu organisasi", termasuk sekolah, universitas, stasiun radio/televisi, situs web, biro jasa, dll.
+|-
+|<code><nowiki>{{gnt:Nama terlarang|email}}</nowiki></code>|| untuk "Nama pengguna yang menyerupai Alamat email"
+|-
+|<code><nowiki>{{gnt:Nama terlarang|promosi}}</nowiki></code>|| untuk "Nama pengguna yang mempromosikan merek dagang", atau
+|-
+|<code><nowiki>{{gnt:Nama terlarang|Alasan lain}}</nowiki></code> ||untuk "Nama pengguna yang dilarang dengan memberikan alasan atau pesan khusus bagi pengguna".
+
+|}
+
+=== Lihat pula ===
+*{{tl|NamaTakSesuai}} untuk templat serupa namun ada kesan manusianya!
+<includeonly>
+<!-- KATEGORI DAN PRANALA ANTARBAHASA DILETAKKAN DI SINI -->
+[[Kategori:Templat bicara pengguna]]
+</includeonly>

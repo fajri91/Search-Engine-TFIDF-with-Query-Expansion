@@ -1,0 +1,14 @@
+Berkas:Rolene Strauss.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+http://bitvie.com/rolene-strauss-miss-world-2014/
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{GambarPromo}}

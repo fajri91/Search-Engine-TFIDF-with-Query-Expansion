@@ -1,0 +1,25 @@
+Templat:Alejandro Gonzlez Irritu
+{{Navbox
+|name = Alejandro Gonzlez Irritu
+|title = Film yang disutradarai oleh [[Alejandro Gonzlez Irritu]]
+|state = {{{state|autocollapse}}}
+|listclass = hlist
+|group1 = Film fitur
+|list1 =
+* ''[[Amores perros]]'' (2000)
+* ''[[21 Grams]]'' (2003)
+* ''[[Babel (film)|Babel]]'' (2006)
+* ''[[Biutiful]]'' (2010)
+* ''[[Birdman (film)|Birdman or (The Unexpected Virtue of Ignorance)]]'' (2014)
+* ''[[The Revenant (film 2015)|The Revenant]]'' (2015)
+|group2 = Film pendek
+|list2 =
+* ''[[BMW Films#Powder Keg|Powder Keg]]'' (2001)
+* ''[[11'09"01 September 11|Mexico]]'' (2002)
+* ''[[To Each His Own Cinema|Anna]]'' (2007)
+* ''Naran Ja'' (2012)
+}}<noinclude>
+{{collapsible option}}
+[[Kategori:Kotak navigasi sutradara film Meksiko|Irritu, Alejandro Gonzlez]]
+
+</noinclude>

@@ -1,0 +1,10 @@
+Templat:S-line/SMRT right/Utara Barat
+{{#switch:{{{branch}}}
+ | Layanan Perjalanan Pendek=Mendua
+ | Layanan Perjalanan Pendek=Ayer Rajah
+ | #default={{#switch:{{{type}}}
+   | #default=Reservoir
+   }}
+}}<noinclude>
+[[Kategori:Templat transportasi rel di Singapura]]
+</noinclude>

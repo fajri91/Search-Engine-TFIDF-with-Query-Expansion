@@ -1,0 +1,68 @@
+Bandar Udara Internasional Asmara
+{{Infobox airport
+| name         = Asmara International Airport
+| nativename   =
+| nativename-a =
+| nativename-r =
+| image        =
+| image-width  =
+| caption      =
+| IATA         = ASM
+| ICAO         = HHAS
+<center>{{Location map|Eritrea|width=200|float=center
+|caption=|mark=Airplane_silhouette.svg|marksize=10
+|label=ASM|position=right
+|lat_deg=15|lat_min=17|lat_sec=30.67|lat_dir=N
+|lon_deg=38|lon_min=54|lon_sec=38.40|lon_dir=E
+}}<small>Location of airport in Eritrea</small></center>
+| type         = Military/Public
+| owner        =
+| hub          = [[Eritrean Airlines]]
+| operator     =
+| city-served  = [[Asmara]]
+| location     = [[Asmara]], [[Eritrea]]
+| elevation-f  = 7,661
+| elevation-m  = 2,335
+| coordinates  = {{Coord|15|17|30.67|N|38|54|38.40|E|type:airport}}
+| website      =
+| metric-elev  =
+| metric-rwy   =
+| r1-number    = 07/25
+| r1-length-f  = 9,842
+| r1-length-m  = 3,000
+| r1-surface   = Asphalt
+| r2-number    = 12/30
+| r2-length-f  = 5,951
+| r2-length-m  = 1,814
+| r2-surface   = Asphalt
+| stat-year    =
+| stat1-header =
+| stat1-data   =
+| stat2-header =
+| stat2-data   =
+| footnotes    =
+}}
+
+'''Bandar Udara Internasional Asmara''', dulunya disebut sebagai '''Bandar Udara Internasional Yohannes IV''' {{airport codes|ASM|HHAS}} adalah sebuah bandar udara yang terletak di [[Asmara, Eritrea|Asmara]], ibukota [[Eritrea]].
+
+Tahun [[2004]], bandar udara ini telah melayani 136,526 penumpang (+11.8% vs. '03). Bandar Udara Asmara memiliki pembatasan kapasitas bandara, karena terminalnya yang kecil, landasan pacu yang pendek dan ketinggian bandara 1.5 mil di atas permukaan laut. Ini berarti pesawat jet raksasa (seperti [[Airbus A380]], [[MD-11]] atau [[Boeing 747]]) tidak dapat terbang menuju bandar udara itu. Pesawat berukuran besar ini hanya dapat didaratkan di [[Bandar Udara Internasional Massawa]], di pantai Eritrea.
+
+== Maskapai Penerbangan ==
+{{Airport-dest-list
+|[[EgyptAir]]| Cairo
+|{{nowrap|[[Eritrean Airlines]]}}| Cairo, Cape Town, Dubai, Frankfurt, Jeddah, Johannesburg-Tambo, Karachi, Khartoum, Lagos, Lahore, Nairobi, Rome-Fiumicino
+|[[Lufthansa]]| Frankfurt<!-- Do not add Jeddah as a Lufthansa destination; LH has no local traffic rights on this leg -->
+|[[Nasair]]| Dubai, Entebbe, Jeddah, Juba, Khartoum, Massawa, Nairobi
+|[[Sudan Airways]]| Kassala, Khartoum, Port Sudan
+|[[Yemenia]]| Sana'a
+}}
+
+== Pranala luar ==
+* {{WAD|HHAS}}
+* Peta dari [http://www.multimap.com/map/browse.cgi?scale=2000000&lon=38.910667&lat=15.291853 Multimap]
+* gambar satelit dari [http://www.terraserver.com/imagery/image_gx.asp?provider_id=340&res=15&cpx=38.910667&cpy=15.291853 TerraServer]
+
+[[Kategori:Bandar udara di Eritrea|Asmara]]
+
+
+{{bandara-stub}}

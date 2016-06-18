@@ -1,0 +1,7 @@
+Templat:Komik-stub
+{{base-stub
+|[[komik]]
+|[[Image:Speech balloon.svg|9999999999x30px]]}}{{#if:{{{kat|}}}||<includeonly>
+[[Kategori:Rintisan bertopik komik|{{PAGENAME}}]]</includeonly>}}<noinclude>
+[[Kategori:Templat rintisan|{{PAGENAME}}]]
+</noinclude>

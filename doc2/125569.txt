@@ -1,0 +1,10 @@
+Templat:Kotanegara
+<includeonly>[[Kategori:Kota menurut negara|{{{negara|{{{1}}}}}}]]
+[[Kategori:Permukiman di {{{negara|{{{1}}}}}}| {{PAGENAME}}]]
+[[Kategori:Pembagian administratif {{{negara|{{{1}}}}}}|Kota]]
+{{#if:{{{benua|{{{2|}}}}}}|[[Kategori:Kota di {{{benua|{{{2}}}}}}|{{{negara|{{{1}}}}}}]]|}}
+{{#if:{{{parentkat|{{{3|}}}}}}|[[Kategori:Kota di {{{parentkat|{{{3}}}}}}| {{PAGENAME}}]]|}}
+</includeonly><noinclude>
+<!--not yet{{templat berisiko tinggi|small=yes}}-->{{Templat:Tokohkat/keterangan}}
+[[Kategori:Templat kategori menurut negara|Kota]]
+</noinclude>

@@ -1,0 +1,56 @@
+Stasiun Kedunggalar
+{{hatnote|Singkatan stasiun kereta api bukan berarti [[Kilogram]].}}
+{{infobox stasiun
+|image=Kedunggalar train station.JPG
+|caption=Stasiun Kedunggalar dari arah timur
+|name=Kedunggalar
+|prov=Jawa Timur
+|kabupaten=Ngawi
+|kecamatan kabupaten=Kedunggalar
+|desa=Kedunggalar
+|kodepos=63254
+|kode=KG
+|tinggi=+75 m
+|letak=km 200+871 lintas [[Stasiun Surabaya Kota|Surabaya Kota]]-[[Stasiun Kertosono|Kertosono]]-[[Stasiun Madiun|Madiun]]-[[Stasiun Solo Balapan|Solo Balapan]]
+|nomor=4009
+|line=[[Kereta api Malioboro Ekspres|Malioboro Ekspres]], [[Kereta api Gaya Baru Malam Selatan|Gaya Baru Malam]], [[Kereta api Matarmaja|Matarmaja]], [[Kereta api Logawa|Logawa]], dan [[Kereta api Madiun Jaya Ekspres|Madiun Jaya]]
+|operator=[[Daerah Operasi VII Madiun]]
+|class=III/kecil
+}}
+[[Berkas:KG 01.jpg|thumb|Stasiun Kedunggalar<br/>(Kredit: Karyadi Baskoro)]]
+'''Stasiun Kedunggalar (KG)''' merupakan [[stasiun kereta api]] kelas III/kecil yang terletak di [[Kedunggalar, Kedunggalar, Ngawi]]. Stasiun yang terletak pada ketinggian +75 m ini termasuk dalam [[Daerah Operasi VII Madiun]]. Stasiun ini memiliki empat jalur dengan jalur 2 sebagai sepur lurus.
+
+== Layanan kereta api ==
+=== Kelas campuran (eksekutif-ekonomi AC) ===
+* [[Kereta api Malioboro Ekspres|Malioboro Ekspres]], tujuan [[Stasiun Malang|Malang]] (jadwal pagi) atau [[Stasiun Yogyakarta|Yogyakarta]] (jadwal malam)
+
+=== Kelas ekonomi AC ===
+* [[Kereta api Gaya Baru Malam Selatan|Gaya Baru Malam]], tujuan [[Stasiun Surabaya Gubeng|Surabaya]]
+* [[Kereta api Matarmaja|Matarmaja]], tujuan [[Stasiun Pasar Senen|Jakarta]] via [[Stasiun Semarang Tawang|Semarang]]
+* [[Kereta api Logawa|Logawa]], tujuan [[Stasiun Surabaya Gubeng|Surabaya]] bersambung [[Stasiun Jember|Jember]]
+* [[Kereta api Madiun Jaya Ekspres|Madiun Jaya]], tujuan [[Stasiun Madiun|Madiun]] dan tujuan [[Stasiun Yogyakarta|Yogyakarta]]
+
+== Jadwal kereta api ==
+Berikut ini adalah jadwal kereta api di Stasiun Kedunggalar '''per 1 April 2015 (berdasarkan Gapeka 2015).'''
+{| class="wikitable sortable"
+! No. KA !! KA  !! Tujuan !! Kelas !! Tiba !! Berangkat 
+|-
+| 103 || [[Kereta api Malioboro Ekspres|Malioboro Ekspres]] || rowspan=2|[[Stasiun Yogyakarta|Yogyakarta Tugu (YK)]] || Eksekutif & Ekonomi AC || 01.44 || 01.50 
+|-
+| 253 || [[Kereta api Madiun Jaya Ekspres|Madiun Jaya]] || Ekonomi AC || 06.38 || 06.49 
+|-
+| 102 || [[Kereta api Malioboro Ekspres|Malioboro Ekspres]] || [[Stasiun Malang|Malang Kotabaru (ML)]] || Eksekutif & Ekonomi AC || 09.29 || 09.38 
+|-
+| 188/189 || [[Kereta api Logawa|Logawa]] || [[Stasiun Surabaya Gubeng|Surabaya Gubeng (SGU)]] bersambung [[Stasiun Jember|Jember (JR)]] || rowspan=4|Ekonomi AC || 10.59 || 11.06 
+|-
+| 254 || [[Kereta api Madiun Jaya Ekspres|Madiun Jaya]] || [[Stasiun Madiun|Madiun (MN)]] || 19.37 || 19.45 
+|-
+| 174 || [[Kereta api Gaya Baru Malam Selatan|Gaya Baru Malam]] || [[Stasiun Surabaya Gubeng|Surabaya Gubeng (SGU)]] || 21.48 || 21.55 
+|-
+| 171 || [[Kereta api Matarmaja|Matarmaja]] || [[Stasiun Pasar Senen|Jakarta Pasar Senen (PSE)]] via [[Stasiun Semarang Tawang|Semarang Tawang (SMT)]] || 22.37 || 22.44 
+|}
+{{Stasiun|Stasiun Walikukun|Jalur kereta api Solo Balapan-Kertosono|Stasiun Paron}}
+{{stasiun-stub}}
+{{coord|-7.418283|111.306596|display=title}}
+[[Kategori:Stasiun kereta api di Jawa Timur|Kedunggalar]]
+[[Kategori:Kedunggalar, Ngawi]]

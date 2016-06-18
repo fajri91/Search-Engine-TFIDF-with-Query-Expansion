@@ -1,0 +1,17 @@
+Templat:Dolat Rayat, Karo
+{{Navigasi ID Desa
+|provinsi=Sumatera Utara
+|dati2=Kabupaten
+|nama dati2=Karo
+|nama kecamatan=Dolat Rayat
+|d1=Bukit
+|d2=Dolat Rayat
+|d3=Kubucolia
+|d4=Melas
+|d5=Sampun
+|d6=Sugihen
+|d7=Ujung Sampun
+}}<noinclude>
+[[Kategori:Templat desa/kelurahan di Sumatera Utara|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Karo|{{PAGENAME}}]]
+</noinclude>

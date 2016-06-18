@@ -1,0 +1,28 @@
+Templat:Kabupaten Lampung Barat
+{{Navbox
+| name = Kabupaten Lampung Barat
+| listclass = hlist
+| title =[[Kabupaten Lampung Barat]], [[Lampung]]
+| image = [[Berkas:Logo Lampung Barat Baru (2015).jpg|30px|Lambang Kabupaten Lampung Barat]]
+| group1 = Kecamatan
+| list1 = <div><!--
+-->[[Air Hitam, Lampung Barat|Air Hitam]]{{}}<!--
+-->[[Balik Bukit, Lampung Barat|Balik Bukit]]{{}}<!--
+-->[[Bandar Negeri Suoh, Lampung Barat|Bandar Negeri Suoh]]{{}}<!--
+-->[[Batu Brak, Lampung Barat|Batu Brak]]{{}}<!--
+-->[[Batu Ketulis, Lampung Barat|Batu Ketulis]]{{}}<!--
+-->[[Belalau, Lampung Barat|Belalau]]{{}}<!--
+-->[[Gedung Surian, Lampung Barat|Gedung Surian]]{{}}<!--
+-->[[Kebun Tebu, Lampung Barat|Kebun Tebu]]{{}}<!--
+-->[[Lumbok Seminung, Lampung Barat|Lumbok Seminung]]{{}}<!--
+-->[[Pagar Dewa, Lampung Barat|Pagar Dewa]]{{}}<!--
+-->[[Sekincau, Lampung Barat|Sekincau]]{{}}<!--
+-->[[Sukau, Lampung Barat|Sukau]]{{}}<!--
+-->[[Sumber Jaya, Lampung Barat|Sumber Jaya]]{{}}<!--
+-->[[Suoh, Lampung Barat|Suoh]]{{}}<!--
+-->[[Way Tenong, Lampung Barat|Way Tenong]]<!--
+--></div>
+}}<noinclude>
+[[Kategori:Templat kecamatan Indonesia|Lampung Barat, Kabupaten]]
+Referensi: http://lampungbarat.go.id/index.php?option=com_content&task=view&id=1034&Itemid=102
+</noinclude>

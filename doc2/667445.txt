@@ -1,0 +1,27 @@
+Transcontinental Airway System
+[[Image:Transcontinental Air Mail Map 1924.jpg|400px|Right|thumb|Rute U.S. Air Mail tahun 1924]]
+
+'''Transcontinental Airway System''' adalah bantuan navigasi rintisan yang dikembangkan di [[Amerika Serikat]] pada tahun 1920-an.
+
+== Sejarah ==
+Pada tahun 1923, Kongres Amerika Serikat mendanai jalur udara terang berurutan di sepanjang [[Surat udara di Amerika Serikat|rute surat udara lintas benua]]. Jalur udara terang ini diusulkan oleh [[NACA]] dan diterapkan oleh Departemen Perdagangan. TAS dikelola oleh [[Bureau of Standards]] Aeronautical Branch. Bentang pertamanya dibangun antara [[Chicago]] dan [[Cheyenne]]. Letaknya di tengah rute surat udara untuk memungkinkan pesawat berangkat dari pesisir manapun pada siang hari dan mencapai jalur terang pada malam hari. Lapangan udara darurat berpenerangan juga dibangun di sepanjang rute ini setiap 1520 mil.
+
+Pembangunan berlangsung cepat. Para pilot yang ingin menjadi pilot surat udara awalnya ditugaskan bekerja pada musim dingin bersama pekerja pembangunan bentang pertama sistem penerangan ini.<ref name="Lewis Edwin Theiss">{{cite book|title= Piloting the U.S. air mail flying for Uncle Sam|author=Lewis Edwin Theiss}}</ref>
+
+Pada akhir tahun, masyarakat sudah mengharapkan adanya jalur udara terang melintasi Atlantik, Pasifik, dan sampai Cina.<ref>{{cite journal|magazine=Popular Mechanics|title=Lighted Airway over Atlantic Predicted|date=December 1923}}</ref>
+
+Penerbangan surat malam pertama dilaksanakan pada tanggal 1 Juli 1924. Dengan menghapus transfer surat ke gerbong kereta pada malam hari, waktu pengiriman dari pesisir ke pesisir lain berkurang dua hari. Suar yang diaktifkan berjumlah 284 buah.<ref>{{cite book|title=The American aviation experience: a history|author=Tim Brady}}</ref> Tahun 1925, dengan tenggat waktu Juni, 2.665 jalur udara terang antara New York dan San Francisco selesai dibangun. Pada tahun 1927, jalur udara terang dibangun antara [[New York]] dan [[Salt Lake City]], [[Los Angeles]] ke [[Las Vegas, Nevada|Las Vegas]], Los Angeles ke [[San Francisco]], New York ke [[Atlanta]], [[Chicago]] ke [[Dallas]], dengan total jarak 4.121 mil. Tahun 1933, Transcontinental Airway System memiliki 1.500 suar yang membentang sepanjang 18.000 mil<ref>{{cite book|title=Aviation and the Role of Government|author=Harry Lawrence}}</ref>
+
+== Teknis ==
+[[Airway Beacon]] yang diterangi adalah bantuan navigasi penting pada masa sebelum navigasi radio dikembangkan. Efektivitasnya dibatasi oleh jarak pandang dan kondisi cuaca.
+
+Suar berputar berdiameter 24 inci dipasang di menara setinggi {{convert|53|ft|sing=on}} dan diberi selang 10 mil. Selang ini lebih dekat di pegunungan dan lebih jauh di dataran. Suarnya memiliki kekuatan lima juta kandela dan berputar 6 kai semenit. "Ford beacons" (namanyab erasal dari lampu depan mobil Ford) juga dipakai untuk menempatkan empat lampu terpisah dengan berbagai sudut.<ref name="Lewis Edwin Theiss"/> Bandar udara menggunakan [[suar aerodrome|suar hijau]] dan maskapai penerbangan menggunakan suar merah. Suar tersebut menyiarkan nomor identifikasi dalam [[kode Morse]]. Urutannya adalah "WUVHRKDBGM", sesuai dengan frasa latihan "When Undertaking Very Hard Routes Keep Directions By Good Methods." untuk mengingat urutannya.<ref>Forden, Lesley. ''The Ford Air Ttours: 1925-1931.'' New Brighton Minnesota: Aviation Foundation of America, 2003, First edition 1972. No ISBN.</ref> Para teknisi percaya bahwa variasi tinggi suar di perbukitan dan lembah memungkinkan pilot melihat suar di atas kabut darat dan di bawah lapisan awan.
+
+Menara-menara dibangun dengan rangka baja sudut bernomor dan kaki beton. Bangunan terluar kecil sempat dibangun dan dilengkapi generator listrik. Beberapa bangunan juga berperan sebagai stasiun cuaca.
+
+== Referensi ==
+{{Commons category|Transcontinental Airway System}}
+{{Reflist}}
+
+[[Kategori:Pengaturan lalu lintas udara]]
+[[Kategori:Penerbangan di Amerika Serikat]]

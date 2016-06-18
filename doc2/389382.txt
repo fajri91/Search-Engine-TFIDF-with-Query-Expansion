@@ -1,0 +1,17 @@
+Templat:Sepak bola di Bhutan
+{{navbox
+| name   = Sepak bola di Bhutan
+| listclass = hlist
+| title  = [[Sepak bola di Bhutan]]
+
+| above  = [[Federasi Sepak Bola Bhutan]]
+
+| group1 = Tim nasional
+| list1  = [[Tim nasional sepak bola Bhutan|Pria]]{{,}} [[Tim nasional sepak bola U-23 Bhutan|U-23]]{{,}} [[Tim nasional sepak bola U-20 Bhutan|U-20]]{{,}} [[Tim nasional sepak bola U-17 Bhutan|U-17]]{{,}} [[Tim nasional sepak bola wanita Bhutan|Wanita]]
+
+| group2 = Kompetisi liga
+| list2  = [[A-Divisi (Bhutan)|A-Divisi]]
+
+| below  = [[Daftar klub sepak bola di Bhutan|Daftar klub]]{{,}} [[:Kategori:Daftar stadion sepak bola di Bhutan|Daftar stadion]]
+}}<noinclude>{{Templat sepak bola di Asia}}
+[[Kategori:Templat navigasi sepak bola menurut negara|Bhutan]]</noinclude>

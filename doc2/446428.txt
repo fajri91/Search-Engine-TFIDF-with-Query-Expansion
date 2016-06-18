@@ -1,0 +1,39 @@
+Templat:Skuat PEropa 2008 Swedia
+{{National squad
+ | imageleft = [[Berkas:UEFA EURO 2008 New Logo.png|40px|border|Logo Euro 2008]]
+ | name      = Skuat PEropa 2008 Swedia
+ | bg        = #FFF01C
+ | fg        = #005B99
+ |bordercolor= #005B99
+ | country   = Swedia
+ | comp link = Kejuaraan Sepak Bola Eropa UEFA 2008
+ | comp      = Kejuaraan Sepak Bola Eropa UEFA 2008 
+ | p1        = [[Andreas Isaksson|Isaksson]]
+ | p2        = [[Mikael Nilsson|Nilsson]] 
+ | p3        = [[Olof Mellberg|Mellberg]]
+ | p4        = [[Petter Hansson|Hansson]]
+ | p5        = [[Fredrik Stoor|Stoor]]
+ | p6        = [[Tobias Linderoth|Linderoth]] 
+ | p7        = [[Niclas Alexandersson|Alexandersson]]
+ | p8        = [[Anders Svensson|Svensson]]
+ | p9        = [[Fredrik Ljungberg|Ljungberg]] {{kapten}}
+ | p10       = [[Zlatan Ibrahimovi|Ibrahimovi]]
+ | p11       = [[Johan Elmander|Elmander]]
+ | p12       = [[Rami Shaaban|Shaaban]]
+ | p13       = [[Johan Wiland|Wiland]]
+ | p14       = [[Daniel Majstorovi|Majstorovi]]
+ | p15       = [[Andreas Granqvist|Granqvist]]
+ | p16       = [[Kim Kllstrm|Kllstrm]]
+ | p17       = [[Henrik Larsson|H. Larsson]]
+ | p18       = [[Sebastian Larsson|S. Larsson]]
+ | p19       = [[Daniel Andersson|Andersson]]
+ | p20       = [[Marcus Allbck|Allbck]]
+ | p21       = [[Christian Wilhelmsson|Wilhelmsson]]
+ | p22       = [[Markus Rosenberg|Rosenberg]]
+ | p23       = [[Mikael Dorsin|Dorsin]]
+ | coach       = [[Lars Lagerbck|Lagerbck]]
+}}<noinclude>[[Kategori:templat skuat tim nasional Swedia]]
+[[Kategori:Templat skuat Kejuaraan Sepak Bola Eropa UEFA 2008|Swedia]]
+
+
+</noinclude>

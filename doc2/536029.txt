@@ -1,0 +1,73 @@
+Diagram
+{{For|band Britania Raya|Diagrams (band)}}
+{{See|Carta}}
+[[Berkas:Wikipedia article-creation-2.svg|thumb|260px|[[Carta arus]] yang menunjukkan [[proses keputusan]] membuat artikel baru di Wikipedia.]]
+'''Diagram''' adalah suatu [[depiksi|representasi]] simbolis [[informasi]] dalam bentuk [[model geometri 2D|geometri dua dimensi]] sesuai teknik [[ilustrasi|visualisasi]]. Kadang teknik yang dipakai memanfaatkan visualisasi [[ruang tiga dimensi|tiga dimensi]] yang kemudian [[proyeksi grafis|diproyeksikan]] ke permukaan dua dimensi. Kata ''[[grafis|grafik]]'' biasa dipakai sebagai [[sinonim]] kata diagram.
+
+== Jenis diagram utama ==
+*Diagram berbasis [[Grafik (matematika)|grafik]]:
+
+{|style="width:100%"
+|style="vertical-align:top; width:25px;"|
+|style="vertical-align:top;"|
+<gallery perrow="5" widths="80" heights="80">
+File:Tree Example.png|[[Topologi jaringan#Pohon|diagram pohon]]
+File:Neural network.svg|[[diagram jaringan]]
+File:LampFlowchart.svg|[[carta arus]]
+File:Set intersection.svg|[[Diagram Venn]]
+File:Alphagraphen.png|[[grafik eksistensial]]
+</gallery>
+|}
+
+*Teknik diagram mirip [[carta]]
+
+{|style="width:100%"
+|style="vertical-align:top; width:25px;"|
+|style="vertical-align:top;"|
+<gallery perrow="5" widths="80" heights="80">
+File:Histogram example.svg|[[histogram]]
+File:Graphtestone.svg|[[carta batang]]
+File:Zusammensetzung Shampoo.svg|[[carta pai]]
+File:Hyperbolic Cosine.svg|[[grafik fungsi]]
+File:R-car stopping distances 1920.svg|[[plot sebar]]
+</gallery>
+|}
+
+*Jenis diagram lain:
+{|style="width:100%"
+|style="vertical-align:top; width:25px;"|
+|style="vertical-align:top;"|
+<gallery perrow="5" widths="80" heights="80">
+File:Train schedule of Sanin Line, Japan, 1949-09-15, part.png|[[perancanaan layanan (kereta api)|diagram kereta]]
+File:Gear pump exploded.png|[[grafis ledakan]]
+File:US 2000 census population density map by state.svg|[[Kepadatan penduduk|peta kepadatan penduduk]]
+File:Pioneer plaque.svg|[[Plakat Pioneer]]
+File:Automotive diagrams 01 En.png|[[Tiga dimensi|diagram tiga dimensi]]
+</gallery>
+|}
+
+== Liaht pula ==
+{{commons category|diagrams}}
+{{wiktionary}}
+{{wikiquote}}
+* [[Carta]]
+* [[Perangkat lunak diagram]]
+* [[Penalaran diagramatis]]
+* [[Daftar metode grafis]]
+* [[Diagram matematika]]
+* [[Plot (grafis)]]
+* [[commons:Specific diagram types]]  galeri jenis diagram
+* [[commons:Commons:Diagram resources]]
+
+== Referensi ==
+{{reflist}}
+
+== Bacaan lanjutan ==
+* {{cite book|last = Bounford|first = Trevor|title = Digital diagrams|publisher = Watson-Guptill Publications|location = New York|year = 2000|isbn = 978-0-8230-1572-6 }}
+* Michael Anderson, Peter Cheng, Volker Haarslev (Eds.) (2000). ''Theory and Application of Diagrams: First International Conference, Diagrams 2000''. Edinburgh, Scotland, UK, September 13, 2000. Proceedings.
+Garcia, M (Ed) (2012) The Diagrams of Architecture. Wiley. Chichester.
+
+{{Visualisasi}}
+
+[[Kategori:Infografik]]
+[[Kategori:Diagram| ]]

@@ -1,0 +1,17 @@
+Templat:Mandai, Maros
+{{Navigasi ID Desa
+|nama kecamatan=Mandai
+|dati2=Kabupaten 
+|nama dati2=Maros
+|provinsi=Sulawesi Selatan
+|d1= Baji Mangai
+|d2= Bonto Matene
+|k1= Bontoa
+|k2= Hasanuddin
+|d3= Pattontongan
+|d4= Tenrigangkae
+}}
+<noinclude>
+[[Kategori:Templat desa/kelurahan di Sulawesi Selatan|Mandai, Maros]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Maros|Mandai, Maros]]
+</noinclude>

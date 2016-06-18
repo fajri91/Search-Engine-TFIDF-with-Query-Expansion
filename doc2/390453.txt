@@ -1,0 +1,11 @@
+Templat:Jct/plate/TN/3
+{{#ifeq:{{#switch:{{{5|}}}
+|US-Bus|US-Byp=yes
+|#default={{#switch:{{{3|}}}
+ |US-Bus|US-Byp=yes
+ |#default={{#switch:{{{1|}}}
+  |US-Bus|US-Byp=yes
+  }}
+ }}
+}}|yes|{{Jct/banner|{{{1|}}}|{{{2|}}}|state={{{state|}}}}}{{Jct/banner|{{{3|}}}|{{{4|}}}|state={{{state|}}}}}<!--
+-->{{Jct/banner|{{{5|}}}|{{{6|}}}|state={{{state|}}}}}<br>}}

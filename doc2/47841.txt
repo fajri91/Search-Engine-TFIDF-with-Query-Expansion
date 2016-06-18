@@ -1,0 +1,64 @@
+Templat:Dokumen Konsili Vatikan II
+{{Navbox
+|name = Dokumen Konsili Vatikan II
+| listclass = hlist
+| title = [[Konsili Vatikan II|Dokumen Konsili Vatikan II]]
+|group1 = 4 Konstitusi
+|list1 = [[Dei Verbum]] (11)  [[Gaudium et Spes]] (16)  [[Lumen Gentium]] (3)  [[Sacrosanctum Concilium]] (1)
+|group2 = 9 Dekrit
+|list2 = [[Ad Gentes]] (14)  [[Apostolicam Actuositatem]] (12)  [[Christus Dominus]] (6)  [[Inter Mirifica]] (2)  [[Optatam Totius]] (8)  [[Orientalium Ecclesiarum]] (4)  [[Perfectae Caritatis|Perfect Caritatis]] (7)  [[Presbyterorum Ordinis]] (15)  [[Unitatis Redintegratio]] (5)
+|group3 = 3 Pernyataan
+|list3 = [[Dignitatis Humanae|Dignitatis Human]] (13)  [[Gravissimum Educationis]] (9)  [[Nostra Aetate|Nostra tate]] (10)
+|below = Catatan: Nomor dalam tanda kurung di akhir nama setiap dokumen adalah urutan peresmian dokumen selama Konsili.
+}}<includeonly>[[Kategori:Dokumen Katolik]]</includeonly>
+<noinclude>
+----
+'''Nama Dokumen dalam Bahasa Indonesia'''
+<center>
+{|class = "wikitable" style="text-align: left;"
+|-
+!rowspan=2|Dokumen
+!colspan=2|Nama Dokumen
+|-
+!Bahasa Latin
+!Bahasa Indonesia
+|-
+!rowspan=4| 4 Konstitusi
+|[[Dei Verbum]]
+|Wahyu Ilahi
+|-
+|[[Gaudium et Spes]]
+|Gereja di Dunia Dewasa Ini
+|-
+|[[Lumen Gentium]]
+|Gereja
+|-
+|[[Sacrosanctum Concilium]]
+|Liturgi Suci
+|-
+!rowspan=9| 9 Dekrit
+|[[Ad Gentes]]||Kegiatan Misioner Gereja
+|-
+|[[Apostolicam Actuositatem]]||Kerasulan Awam
+|-
+|[[Christus Dominus]]||Tugas Pastoral Para Uskup dalam Gereja
+|-
+|[[Inter Mirifica]]||Upaya-upaya Komunikasi Sosial
+|-
+|[[Optatam Totius]]||Pembinaan Imam
+|-
+|[[Orientalium Ecclesiarum]]||Gereja-Gereja Timur Katolik
+|-
+|[[Perfect Caritatis]]||Pembaharuan dan Penyesuaian Hidup Religius
+|-
+|[[Presbyterorum Ordinis]]||Pelayanan dan Kehidupan Para Imam
+|-
+|[[Unitatis Redintegratio]]||Ekumenisme
+|-
+!rowspan=3| 3 Pernyataan
+|[[Dignitatis Humanae|Dignitatis Human]]||Kebebasan Beragama
+|-
+|[[Gravissimum Educationis]]||Pendidikan Kristen
+|-
+|[[Nostra tate]]||Hubungan Gereja dengan Agama-agama Bukan Kristiani
+|}</center><noinclude>[[Kategori:Templat Katolik|Dokumen Konsili Vatikan II]]</noinclude>

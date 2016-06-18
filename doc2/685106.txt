@@ -1,0 +1,16 @@
+Berkas:Saiful Ilah.jpeg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+Bupati Sidoarjo Saiful Ilah
+sumber: http://www.humas-protokol.sidoarjokab.go.id/foto_berita/98BUPATI01.jpg
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+
+== {{int:license-header}} ==
+{{GFDL}}

@@ -1,0 +1,29 @@
+Templat:Maskapai penerbangan Azerbaijan
+{{Navbox
+|name  = Maskapai penerbangan Azerbaijan
+|state = <noinclude>expanded</noinclude>
+|title = Maskapai penerbangan [[Azerbaijan]]
+|listclass = hlist
+|image = [[Berkas:Flag of Azerbaijan.svg|50px|Flag of Azerbaijan|border]]
+|group1 = Penumpang
+|list1  = <div>
+
+{{nowrap| [[Azerbaijan Airlines]] }} {{nowrap|[[Silk Way Airlines]] }} {{nowrap|[[SW Business Aviation]] }} {{nowrap|[[Turan Air]]}}  
+
+|group2 = Kargo
+|list2 = <div>
+{{nowrap| [[Azal Avia Cargo]]}}
+
+|group3 = Ditutup
+|list3 = <div>
+''{{nowrap|[[Imair Airlines]]}}  
+</div>
+}}<noinclude>
+
+[[Kategori:Maskapai penerbangan Azerbaijan|]]
+[[Kategori:Templat Azerbaijan|Maskapai penerbangan]]
+
+
+
+
+</noinclude>

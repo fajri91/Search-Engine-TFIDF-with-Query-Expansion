@@ -1,0 +1,61 @@
+Pangeran Hridayendra dari Nepal
+{|align=right
+|{{Infobox royalty
+|name           = Pangeran Hridayendra dari Nepal
+|image          =
+|caption        =
+|title          =[[Nava Yuvaraj]]
+|full name      =Hridayendra Bir Bikram Shah Dev
+|house    =[[Dinasti Shah]]
+|house-type     =Dinasti
+|father         =[[Paras, Putra Mahkota Nepal]]
+|mother         =[[Himani, Putri Mahkota Nepal]]
+|birth_date  ={{Birth date and age|2002|7|30|df=y}}
+|birth_place = {{Negara|Nepal}} [[Kathmandu]]
+|}}
+|-
+|{{Nepalese Royal Family}}
+{{infobox hrhstyles|
+image=|
+royal name=Prince Hridayendra of Nepal|
+dipstyle=[[Royal Highness|His Royal Highness]]|
+offstyle=Your Royal Highness|
+altstyle=Sir|}}
+|}
+'''Pangeran Hridayendra dari Nepal''' ({{lahirmati||30|7|2002}}) adalah [[Dinasti Shah|anggota keluarga kerajaan Nepal]] dan urutan kedua dari garis suksesi tahta [[Nepal]]. Monarki resmi dibubarkan pada tanggal [[28 Mei]] [[2008]].<ref name=ab>{{cite news|title =Nepal votes to abolish monarchy|publisher =BBC|date =2008-05-28|url =http://news.bbc.co.uk/1/hi/world/south_asia/7424302.stm|accessdate =2008-05-29}}</ref> Sampai pembubaran monarki dia dikenal di [[Nepal]] dengan gelar [[Nava Yuvaraj]].
+
+== Referensi ==
+
+{{Reflist}}
+
+== Pranala luar ==
+
+* [http://www.nepalitimes.com/issue/127/Nation/10412 Baby Royal]
+* [http://www.nepalnews.com.np/contents/englishdaily/trn/2003/jan/jan10/index.htm News story on the Annaprasan ceremony]
+* [http://www.nepalitimes.com/issue/354/FromtheNepaliPress/13662 Article on Prince Hridayendra]
+* [http://findarticles.com/p/articles/mi_m0WDQ/is_2003_Jan_13/ai_96389215 Rice feeding ceremony held for Nepal's baby prince]
+* [http://www.indiaenews.com/nepal/20060730/16724.htm Nepal's little prince turns five]
+
+{{S-start}}
+{{S-hou|[[Dinasti Shah]]|30 Juli|2002||}}
+{{S-roy|np}}
+{{S-bef|before=[[Paras, Putra Mahkota Nepal]]}}
+{{S-ttl|title=[[Garis suksesi tahta Nepal]]|years=posisi ke-2}}
+{{S-non|reason=Terakhir}}
+{{End}}
+
+<!-- Metadata: see [[Wikipedia:Persondata]] -->
+{{Persondata
+|NAME              = Hridayendra
+|ALTERNATIVE NAMES = Shah Dev, Hridayendra Bir Bikram
+|SHORT DESCRIPTION = Second in line to the Nepalese throne
+|DATE OF BIRTH     = 30 July 2002
+|PLACE OF BIRTH    = [[Kathmandu]], [[Nepal]]
+|DATE OF DEATH     =
+|PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Hridayendra dari Nepal}}
+{{lifetime|2002||}}
+{{Negara-bio-stub|Nepal}}
+
+[[Kategori:Kerabat kerajaan Nepal]]

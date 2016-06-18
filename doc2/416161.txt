@@ -1,0 +1,14 @@
+Berkas:Logo-sail-banda-2010.png
+== {{int:filedesc}} ==
+{{Information
+| description    =
+Diambil dari http://pricilliawattimury.blogspot.com/2010/07/sail-banda-2010.html
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Logo}}

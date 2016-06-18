@@ -1,0 +1,14 @@
+Berkas:Rest Area KM 97.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+Sumber: [http://www.ngopidulu.com/wp-content/uploads/2010/06/Rest-Area-KM-97-Tol-Cipularang-5.jpg]
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Fairuse}}

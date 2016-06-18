@@ -1,0 +1,24 @@
+Butler W. Lampson
+[[Berkas:Professional Developers Conference 2009 Technical Leaders Panel 6.jpg|thumb|Butler Lampson]]
+
+'''Butler W. Lampson''' (lahir [[1943]]) adalah seorang ilmuwan komputer yang mendapat penghargaan [[Turing Award]] pada tahun [[1992]].
+
+Lampson menyelesaikan pendidikan sarjana di bidang fisika di [[Harvard University]] pada tahun [[1964]], dan menyelesaikan [[Ph.D.]] di bidang Teknik Elektro dan Ilmu Komputer di [[University of California, Berkeley]] pada tahun [[1967]].
+
+Pada masa [[1960-an]], Lampson dan beberapa rekannya mengembangkan sistem operasi [[SDS 940]].
+
+Lampson termasuk salah satu pendiri [[Xerox PARC]] pada tahun [[1970]]. Pada tahun 1972, ia menulis memo yang berjudul "Why Alto?", yang dianggap sebagai visinya tentang [[komputer personal]]. Pada tahun [[1973]], muncul [[Xerox Alto]], yang kemudian dianggap sebagai komputer personal yang pertama kali diciptakan.
+
+Lampson ikut pula mengembangkan [[printer laser]], protokol [[two-phase commit]] pada basisdata, program editor [[WYSIWYG]], [[Ethernet]], jaringan area lokal (LAN), dan beberapa bahasa pemrograman.
+
+Pada awal [[1980-an]], Lampson pindah ke [[Microsoft]] Research.
+
+== Pranala luar ==
+{{Commonscat|Butler Lampson}}
+* [http://research.microsoft.com/lampson Lampson's website]
+* [http://www.jargon.net/jargonfile/m/milliLampson.html The milliLampson unit]
+{{lifetime|1943||}}
+{{DEFAULTSORT:Lampson, Butler}}
+
+[[Kategori:Pionir komputer]]
+[[Kategori:Penerima Turing Award]]

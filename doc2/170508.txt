@@ -1,0 +1,59 @@
+Windows Home Server
+'''''Windows Home Server''''', yang memiliki nama kode pengembangan "Quatro," adalah sebuah versi [[sistem operasi]] [[Microsoft Windows]] yang dikembangkan dari [[Windows Server 2003|Windows Server 2003 Service Pack 2]] yang ditujukan sebagai ''file server'' untuk rumahan. Sistem operasi ini diperkenalkan pada tanggal [[7 Januari]] [[2007]] oleh [[Bill Gates]] pada saat [[konferensi]] ''Consumer Electronics Show''. Windows Home Server ditujukan sebagai solusi untuk rumahan dengan banyak komputer PC yang terkoneksi untuk menawarkan fitur ''file sharing'', ''[[backup]]'' otomatis, dan juga [[remote access|akses secara jarak jauh]]. 
+
+Pada tanggal [[16 Juli]] [[2007]], Windows Home Server akhirnya dirilis dalam versi Release to Manufacture (RTM), dan secara resmi dirilis pada tanggal [[7 November]] [[2007]]. Pada tanggal [[20 Juli]] [[2008]], Microsoft menawarkan ''Power Pack 1'' untuk Windows Home Server yang memperbaiki beberapa kekurangan Windows Home Server.
+== Beberapa Fitur Windows Home Server ==
+Windows Home Server menawarkan fitur-fitur sebagai berikut:
+* '''''Backup'' secara terpusat''': Mengizinkan proses backup hingga 10 [[komputer]] [[PC]], dengan menggunakan teknologi [[Single Instance Store]] untuk menghindari banyak salinan dari berkas yang sama, bahkan jika [[berkas komputer|berkas]] tersebut berada di dalam banyak komputer PC.
+* '''Pemantauan kesehatan komputer''': Windows Home Server dapat memantau kesehatan semua komputer PC di dalam [[jaringan komputer]], termasuk status dari [[anti virus]] dan juga ''[[firewall]]''.
+* '''''File sharing''''': Menawarkan ''file sharing'' untuk komputer-komputer agar dapat menyimpan berkas dari jarak jauh, sehingga bertindak sebagai perangkat [[Network Attached Storage]]. Beberapa kategori juga disediakan untuk menyediakan beberapa tipe berkas, seperti '''Duments''', '''Music''', '''Pictures''', dan '''Videos'''. Untuk pencarian yang lebih cepat, maka berkas-berkas tersebut diindeks secara otomatis.
+* '''''Printer sharing''''': Menawarkan fitur print server secara terpusat untuk menangani semua print jobs untuk semua pengguna.
+* '''''Shadow Copy''''': Mengambil keuntungan yang ditawarkan oleh Microsoft [[Volume Shadow Copy Services]] untuk membuat ''snapshot'', yang dapat mengizinkan versi-versi berkas yang lebih lama dapat dikembalikan.
+* '''''[[Headless]] Operation''''': Windows Home Server tidak membutuhkan [[monitor]] atau [[keyboard]] untuk melakukan manajemen perangkat. Administrasi jarak jauh dilakukan dengan menggunakan aplkasi klien Windows Home Server Console yang disediakan dalam paket Windows Home Server. Fitur ini juga menawarkan koneksi Remote Desktop ke server saat dihubungkan ke LAN yang sama.
+* '''''Remote Access Gateway''''': Mengizinkan akses secara jarak jauh terhadap semua komputer yang terkoneksi di dalam jaringan melalui [[Internet]].
+* '''''Media Streaming''''': Windows Home Server dapat melakukan ''[[multimedia streaming|streaming media]]'' ke sebuah perangkat [[Xbox 360]] atau perangkat lainnya yang mendukung fitur [[Windows Media Connect]].
+* '''''Data redundancy''''': Windows Home Server dapat melindungi terhadap kegagalan sebuah ''drive'' tunggal dengan melakukan duplikasi data melalui beberapa ''drive''.
+* '''''Expandable Storage''''': Menyediakan sebuah ruangan penyimpanan tunggal yang bisa diperluas, sehingga kebutuhan untuk huruf ''drive'' menjadi tidak terlalu signifikan lagi.
+* '''Bisa diperluas dengan menggunakan ''Add-In''''': Windows Home Server bisa diperluas dengan menggunakan Add-In, yang bisa dibuat oleh para pengembang perangkat lunak pihak ketiga untuk memperluas fitur-fitur dan fungsionalitas dari ''[[server]]''. Add-in dapat dikembangkan dengan menggunakan Windows Home Server SDK, untuk menyediakan layanan tambahan kepada komputer klien atau bekerja dengan data yang telah tersimpan di dalam ''server''. Add-in juga dapat berupa apliaksi [[ASP.NET]], yang di-hosting di atas Microsoft [[Internet Information Services]] (IIS) di atas Windows Home Server.
+* '''''Server backup''''': Dapat melakukan backup terhadap berkas yang disimpan di dalam ''[[direktori berkas|folder]]'' yang di-''share'' di dalam ''server'' ke sebuah ''[[hard disk]]'' eksternal.
+
+== Teknologi ==
+Windows Home Server dibangun di atas basis kode yang sama dengan Windows Server 2003 Service Pack 2. Sistem operasi ini mencakup hampir semua [[teknologi]] yang ditemukan di dalam sistem operasi tersebut tapi beberapa area telah dilimitasi untuk membuang beberapa kompleksitas yang tidak dibutuhkan atau membatasi penggunaannya. Windows Home Server juga mencakup beberapa kemampuan yang tidak dimiliki oleh Windows Server 2003, seperti:
+=== Home Server Console ===
+Karena basis sistem operasi WHS dibangun dengan menggunakan kode dari Windows Server 2003 Service Pack 2, antarmuka konfigurasi didesain sedemikian rupa agar bersifat cukup ''user-friendly'', sehingga WHS dapat diatur oleh orang yang tanpa pengetahuan administrasi ''server'' sebelumnya. Antarmuka konfigurasi, yang disebut dengan Windows Server Console, dibuat sebagai aplikasi [[Remote Desktop Protocol]] (RDP) di atas komputer PC jarak jauh--meski aplikasi berjalan di atas server, tapi [[antarmuka pengguna]] (''user interface'') di-render di dalam sistem jarak jauh. Aplikasi klien Windows Home Server Console dapat diakses dari semua komputer yang menjalankan sistem operasi Windows. Servernya sendiri tidak membutuhkan [[kartu grafis]] atau periferal komputer sama sekali; server didesain agar hanya membutuhkan sebuah kartu [[Ethernet]] dan paling tidak satu buah komputer Windows XP atau Windows Vista harus ada di dalam jaringan untuk melakukan administrasi.
+=== Drive Extender ===
+Windows Home Server Drive Extender merupakan sebuah sistem replikasi berbasis berkas yang menyediakan tiga kemampuan kunci:
+* Redundansi dengan banyak hard disk, sehingga jika ada sebuah hard disk mengalami kerusakan, data yang disimpan di dalamnya tidak akan hilang.
+* Perluasan media penyimpanan dengan cara mendukung semua drive hard disk ([[Serial ATA]], [[USB]], [[FireWire]], [[SCSI]], [[Serial Attached SCSI]], [[IDE]], atau yang lainnya), dan dapat dicampur dalam bentuk dan kapasitas yang berbeda-beda.
+* Ruang nama folder tunggal (tidak membutuhkan huruf drive).
+<!--
+Users (specifically those who configure a family's home server) deal with storage at two levels: Shared Folders and Disks. The only concepts relevant regarding disks is whether they have been "added" to the home server's storage pool or not and whether the disk appears healthy to the system or not. This is in contrast with Windows' Logical Disk Manager which requires a greater degree of technical understanding in order to correctly configure a RAID array.
+
+Shared Folders have a name, a description, permissions, and a flag indicating whether duplication (redundancy) is on or off for that folder.
+
+If duplication is on for a Shared Folder (which is the default on multi-disk Home Server systems and not applicable to single disk systems) then the files in that Shared Folder are duplicated and the effective storage capacity is halved. However, in situations where a user may not want data duplicated (e.g. TV shows that have been archived to a Windows Home Server from a system running Windows Media Center), Drive Extender provides the capability to not duplicate such files if the server is short on capacity or manually mark a complete content store as not for duplication.
+-->
+
+=== Backup dan restore komputer ===
+'''Windows Home Server Computer Backup''' dapat secara otomatis melakukan backup terhadap semua komputer di dalam sebuah rumah dan disimpan di dalam server dengan menggunakan sebuah sistem berbasis image yang menjamin restorasi berbasis point-in-time, baik untuk keseluruhan data dalam PC atau berkas atau direktori tertentu dari dalam PC. Restorasi keseluruhan komputer dilakukan dengan menggunakan CD yang bisa melakukan booting, sementara restorasi berkas dilakukan dengan menggunakan perangkat lunak klien WHS yang mengizinkan pengguna untuk membuka backup dan melakukan "drag-and-drop" berkas dari dalam image backup tersebut. Fitur ini menggunakan teknologi Volume Shadow Services (VSS) di dalam komputer klien untuk membuat backup berbentuk image dari sebuah komputer yang berjalan. Karena proses backup beroperasi terhadap data pada level ''[[cluster (sistem berkas)|cluster]]'', proses ini dapat dilakukan untuk meminimalisir jumlah data yang ditransfer melalui jaringan dan pada akhirnya dapat disimpan di dalam server. Proses ini mengizinkan server untuk menyimpan hanya satu kemunculan data saja, tidak peduli apakah data tersebut berasal dari komputer lainnya, dari berkas yang lain, atau bahkan data di dalam berkas yang sama.
+
+''Image'' ''backup'' komputer tidak diduplikasi di dalam ''server'', sehingga jika sebuah ''hard disk'' server mengalami kegagalan, backup bisa hilang, dan tentu saja mesin sumber harus ada dan berjalan dengan baik. Fitur "Server Backup" yang ditambahkan dalam Power Pack 1 tidak mencakup duplikasi image backup.
+=== Akses jarak jauh ===
+Windows Home Server juga menyediakan akses jarak jauh terhadap media penyimpanan dengan menggunakan antarmuka web browser yang diamankan dengan menggunakan [[Secure Socket Layer]] (SSL) melalui [[Internet]]. Versi rilis dari WHS menawarkan akses terhadap antarmuka web dengan menggunakan URL [[Windows Live]] yang bisa diperoleh secara gratis (yang menggunakan fitur [[Dynamic DNS]]). Antarmuka Web juga dapat mengizinkan proses upload dan download dari media penyimpanan server. Akan tetapi, ada batasan ''upload'' secara bertumpuk hingga 2 [[Gigabita]].
+
+WHS juga bisa bertindak sebagai ''RDP gateway'', mengizinkan kontrol secara jarak jauh melalui Internet, oleh mesin-mesin internal yang menjalankan sistem operasi yang didukung dalam jaringan, seperti [[Windows XP Professional]], [[Windows XP Tablet PC Edition]], [[Windows XP Media Center Edition]], [[Windows Vista Business]], [[Windows Vista Enterprise]], dan [[Windows Vista Ultimate Edition]]. Antarmuka Web juga dapat melakukan pembenaman (embedding) terhadap kontrol ActiveX Remote Desktop, untuk menyediakan akses jarak jauh melalui antarmuka Web secara langsung. Sesi-sesi jarak jauh juga dapat menggunakan Home Server Console untuk melakukan konfigurasi server melalui Internet.
+== Kompatibilitas ==
+Windows Home Server dapat melakukan integrasi dengan Windows XP dan Windows Vista melalui instalasi perangkat lunak. Semua berkas yang disimpan di dalam Windows Home Server dapat juga diakses dengan menggunakan [[Server Message Block|share Windows]], sehingga sistem opearsi lainnya pun dapat mengaksesnya (sebagai contoh: dengan menggunakan [[Samba]]).
+
+Dalam Power Pack 1, klien [[x64]] Windows juga dapat didukung.
+
+Windows Home Server tidak memiliki kemampuan [[Domain Controller]], dan tidak juga bisa tergabung ke dalam [[Windows Server domain|domain Windows Server]].
+
+{{Microsoft Windows}}
+{{computer-stub}}
+
+[[Kategori:Windows Server|Home]]
+[[Kategori:Microsoft]]
+
+== Pranala luar ==
+* [http://www.jakartawebhosting.com/windowshosting/ Provider windows hosting indonesia]

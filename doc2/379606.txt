@@ -1,0 +1,76 @@
+QSW-06
+{{Infobox Weapon
+|name= ''Weisheng Shou Qiang'' QSW-06
+|image=<!-- Deleted image removed: [[Image:QSW06.jpg|300px]] -->
+|caption=QSW-06 with Suppressor
+|origin={{PRC}}
+|type= [[Pistol#Pistol semi otomatis|Pistol semi otomatis]]
+<!-- Type selection -->
+|is_ranged=yes
+|is_bladed=
+|is_explosive=
+|is_artillery=
+|is_vehicle=
+<!-- Service history -->
+|service= 
+|used_by=[[Republik Rakyat Tiongkok]], Polisi Cina
+|wars= 
+<!-- Production history -->
+|designer=
+|design_date= 2002-2005
+|manufacturer= 
+|production_date= 2006sekarang
+|number= 
+|variants=
+<!-- General specifications -->
+|weight= < 1 kg
+|length= 195 mm (tanpa peredam suara)
+|part_length= 120 mm 
+|crew=
+<!-- Ranged weapon specifications --> 
+|cartridge=[[5,8 x 21 mm DAP92|5,8 x 21 mm DCV05]]<br />[[5,8 x 21 mm DAP92]]
+|caliber=
+|action=
+|rate=
+|velocity= 895 m/s
+|range= 50 meter
+|max_range=
+|feed= [[Magazen]] box isi 20 butir
+|sights= [[Bidikan besi]] tipe 3-dot
+<!-- Artillery specifications -->
+|breech=
+|recoil=
+|carriage=
+|elevation=
+|traverse=
+<!-- Bladed weapon specifications --> 
+|blade_type=
+|hilt_type=
+|head_type=
+|haft_type=
+<!-- Explosive specifications --> 
+|diameter=
+|filling=
+|filling_weight=
+|detonation=
+|yield=
+}}
+
+'''QSW-06''' ({{lang-zh|s=, 2006|p=wishng shu qing, 2006}}, secara harfiah berarti "Pistol berperedam suara" atau disingkat Type 06) adalah pistol semi otomatis berperedam suara yang dapat dilepas pasang<ref name="Sinodefence">{{cite web | url=http://www.sinodefence.com/army/small_arms/qsw06.asp | title=QSW06 5.8mm Silenced Pistol | publisher=Sinodefence.com | author= | date=2007-03-11 | accessdate=2008-07-01 |archiveurl = http://web.archive.org/web/20080615192541/http://www.sinodefence.com/army/small_arms/qsw06.asp <!-- Bot retrieved archive --> |archivedate = 2008-06-15}}</ref>, dan dibuat dengan acuan pistol semi otomatis [[QSZ-92]] untuk menggantikan pistol [[peredam suara|berperedam suara]] [[Type 67]]. Pistol ini digunakan secara khusus untuk [[Tentara Pembebasan Rakyat]] dan polisi Cina.
+
+== Lihat juga ==
+*[[QSZ-92]]
+*[[Peredam suara]]
+
+== Referensi ==
+{{reflist}}
+
+== Pranala luar ==
+*[http://www.sinodefence.com/army/small_arms/qsw06.asp Sinodefence report]
+
+{{pistol-stub}}
+{{senjata api-stub}}
+{{Personal defense weapons}}
+
+[[Kategori:Pistol semi otomatis]]
+[[Kategori:PDW peluru pistol]]

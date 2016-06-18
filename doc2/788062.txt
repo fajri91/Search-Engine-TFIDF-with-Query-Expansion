@@ -1,0 +1,34 @@
+Templat:Pedro Almodvar
+{{Navbox
+| name = Pedro Almodvar
+| title = Film yang disutradarai oleh [[Pedro Almodvar]]
+| state = {{{state|autocollapse}}}
+| bodyclass = hlist
+
+| list1 =
+* ''[[Pepi, Luci, Bom]]'' (1980)
+* ''[[Labyrinth of Passion]]'' (1982)
+* ''[[Dark Habits]]'' (1983)
+* ''[[What Have I Done to Deserve This? (film)|What Have I Done to Deserve This?]]'' (1984)
+* ''[[Matador (film)|Matador]]'' (1986)
+* ''[[Law of Desire]]'' (1987)
+* ''[[Women on the Verge of a Nervous Breakdown]]'' (1988)
+* ''[[Tie Me Up! Tie Me Down!]]'' (1990)
+* ''[[High Heels (film)|High Heels]]'' (1991)
+* ''[[Kika (film)|Kika]]'' (1993)
+* ''[[The Flower of My Secret]]'' (1995)
+* ''[[Live Flesh (film)|Live Flesh]]'' (1997)
+* ''[[All About My Mother]]'' (1999)
+* ''[[Talk to Her]]''  (2002)
+* ''[[Bad Education (film)|Bad Education]]'' (2004)
+* ''[[Volver]]'' (2006)
+* ''[[Broken Embraces]]'' (2009)
+* ''[[The Skin I Live In]]'' (2011)
+* ''[[I'm So Excited (film)|I'm So Excited]]'' (2013)
+* ''[[Silencio (film)|Silencio]]'' (2016)
+}}<noinclude>
+{{collapsible option}}
+[[Kategori:Film yang disutradarai oleh Pedro Almodvar]]
+[[Kategori:Kotak navigasi sutradara film Spanyol|Almodvar, Pedro]]
+
+</noinclude>

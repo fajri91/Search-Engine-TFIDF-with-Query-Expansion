@@ -1,0 +1,19 @@
+Templat:Calabria
+{{Navbox
+|name = Calabria
+|state = {{{state|}}}
+| listclass = hlist
+| title = [[Berkas:Flag of Calabria.svg|25px]] [[Calabria]]
+|image = [[File:Coat of arms of Calabria.svg|35px]]
+|groupstyle = padding:0.2em 1.0em; line-height:1.1em; <!--reduces wide gap between wrapped 
+groupname lines-->
+|liststyle = padding:0.4em 0; line-height:1.4em; <!--otherwise lists can appear to form continuous whole-->
+|oddstyle  = background:#f7f7f7;
+|evenstyle = background:transparent; 
+
+|group1 = [[Provinsi di Italia|Provinsi]]
+|list1 = [[Provinsi Catanzaro|Catanzaro]]  [[Provinsi Cosenza|Cosenza]]  [[Provinsi Crotone|Crotone]]  [[Provinsi Reggio Calabria|Reggio Calabria]]  [[Provinsi Vibo Valentia|Vibo Valentia]]
+}}<noinclude>
+[[Kategori:Templat pembagian administratif Italia|*Calabria]]
+
+</noinclude>

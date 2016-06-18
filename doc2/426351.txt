@@ -1,0 +1,28 @@
+Bungur, Kanor, Bojonegoro
+{{Desa
+|peta          =
+|nama          = Bungur
+|provinsi      = Jawa Timur
+|dati2         = Kabupaten
+|nama dati2    = Bojonegoro
+|kecamatan     = Kanor
+|kode pos      = 62193
+|luas          = ... km
+|penduduk      = ... jiwa
+|kepadatan     = ... jiwa/km
+}}
+
+{{kegunaanlain|Bungur}}
+'''Bungur''' adalah sebuah [[desa]] yang berada di wilayah Kecamatan [[Kanor, Bojonegoro|Kanor]], [[Kabupaten Bojonegoro]], [[Daftar provinsi Indonesia|Provinsi]] [[Jawa Timur]], [[Indonesia]].
+
+==Perbatasan==
+{{batas USBT
+|utara=[[Simorejo, Kanor, Bojonegoro|Desa Simorejo]]
+|selatan=[[Bakung, Kanor, Bojonegoro|Desa Bakung]]
+|barat=[[Sedeng, Kanor, Bojonegoro|Desa Sedeng]]
+|timur=[[Baureno, Bojonegoro|Kecamatan Baureno]]
+}}
+
+{{Kanor, Bojonegoro}}
+
+{{kelurahan-stub}}

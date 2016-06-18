@@ -1,0 +1,60 @@
+Taman Nasional Pulau Komodo
+{{Use dmy dates|date=July 2013}}
+{{Kotak info kawasan lindung
+| name = Taman Nasional Pulau Komodo
+| iucn_category = II
+| photo = Komodo dragon at Komodo National Park.jpg
+| photo_caption = [[Komodo]] di Taman Nasional Pulau Komodo
+| map = Indonesia Flores
+| map_caption = 
+| map_width = 280
+| label = '''Komodo NP'''
+| label_position = right
+| location = [[Lesser Sunda Islands]], [[Indonesia]]
+| nearest_city = 
+|embedded1 = {{designation list | embed=yes
+   | designation1=WHS
+   | designation1_date = 1991 <small>(15th [[World Heritage Committee|session]])</small>
+   | designation1_type = Natural
+   | designation1_criteria = vii, x
+   | designation1_number = [http://whc.unesco.org/en/list/609 609]
+   | designation1_free1name = State Party
+   | designation1_free1value =  Indonesia
+   | designation1_free2name = Region
+   | designation1_free2value = [[List of World Heritage Sites in Asia|Asia-Pacific]]
+}}
+| lat_d = 8
+| lat_m = 32
+| lat_s = 36
+| lat_NS = S
+| long_d = 119
+| long_m = 29
+| long_s = 22
+| long_EW = E
+| area = 1,733 km,<ref name="dephut"/> 2,193.22 km<ref>World Heritage Site Database</ref>
+| established = 1980
+| visitation_num = 45,000
+| visitation_year = 2010
+| governing_body = [[Kementrian Kehutanan]]
+}}
+
+[[Taman Nasional Komodo]] adalah sebuah [[taman nasional]] di [[Indonesia]] terletak di [[Kepulauan Sunda]] di wilayah perbatasan antara provinsi [[Nusa Tenggara Timur]] dan [[Nusa Tenggara Barat]]. Taman mencakup tiga pulau besar Komodo, [[Padar]] dan [[Rinca]], dan 26 pulau yang lebih kecil <ref name="dephut">[http://www.dephut.go.id/INFORMASI/TN%20INDO-ENGLISH/komodo_NP.htm Ministry of Forestry: Komodo NP], retrieved 2 February 2010</ref>, dengan total luas 1.733&nbsp;km (603&nbsp;km itu tanah). Taman nasional ini didirikan pada tahun 1980 untuk melindungi [[komodo]], [[kadal]] terbesar di dunia.<ref name="UNESCO-ABE">[http://whc.unesco.org/archive/advisory_body_evaluation/609.pdf UNESCO: Advisory Body Evaluation], retrieved 2 February 2010</ref> Kemudian didedikasikan untuk melindungi spesies lain, termasuk spesies laut. Pada tahun 1991 taman nasional ini dinyatakan sebagai [[Situs Warisan Dunia]] [[UNESCO]].<ref name="Unesco609">{{cite web |url=http://whc.unesco.org/en/list/609 |title=Komodo National Park |publisher=UNESCO}}</ref>
+
+Taman Nasional Komodo telah dipilih sebagai salah satu dari [[7 Keajaiban Dunia]].<ref>[http://www.new7wonders.com New 7 Wonders of the world], retrieved 29 December 2011</ref>
+
+== References ==
+{{reflist|2}}
+
+== Pranala luar ==
+{{commons category|Komodo National Park}}
+* {{Wikivoyage-inline}}
+* [http://www.komodonationalpark.org/ Komodo National Park website]
+* [http://whc.unesco.org/en/list/609 Official UNESCO website]
+* [http://www.youtube.com/watch?v=mzUdp74nWWA Komodo National Park, 12 minutes video released by Unesco]
+{{World Heritage Sites in Indonesia}}
+{{National parks of Indonesia}}
+
+[[Kategori:Situs Warisan Dunia di Indonesia]]
+[[Kategori:Taman Nasional di Indonesia]]
+[[Kategori:Nusa Tenggara]]
+[[Kategori:Nusa Tenggara Barat]]

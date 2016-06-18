@@ -1,0 +1,14 @@
+Berkas:M Jawa Bangkok3.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+sumber http://travel.detik.com/read/2013/01/23/071257/2150191/1383/keren-ada-masjid-jawa-di-bangkok
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Fairuse}}

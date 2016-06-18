@@ -1,0 +1,14 @@
+Berkas:Mudkip (Pokmon).png
+== {{int:filedesc}} ==
+{{Information
+|description    =
+Oleh [[Ken Sugimori]]. Dari [[http://bulbapedia.bulbagarden.net/wiki/Mudkip Mudkip - Bulbapedia]]
+== Jenis lisensi ==
+{{GambarKarakter}}
+|source         = 
+|date           = 
+|location       = 
+|author         = 
+|permission     = 
+|other_versions = 
+}}

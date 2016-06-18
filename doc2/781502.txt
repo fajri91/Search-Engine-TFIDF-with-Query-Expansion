@@ -1,0 +1,35 @@
+Templat:Skuat Piala Asia 2015 Bahrain
+{{National squad no numbers
+| name      = Skuat Piala Asia 2015 Bahrain
+| bg        = red
+| fg        = white
+| country   = Bahrain
+| comp      = Piala Asia AFC 2015
+ | comp link = Piala Asia AFC 2015
+| pos1     = 1  | p1         = [[Sayyid Muhammad Ja'far|Ja'far]]
+| pos2     = 2  | p2         = [[Mohamed Husain|Husain]] {{kapten}}
+| pos3     = 3  | p3         = [[Waleed Al Hayam|Al-Hayam]]
+| pos4     = 4  | p4         = [[Sayed Saeed|Saeed]]
+| pos5     = 5  | p5         = [[Abdulla Shallal|Shallal]]
+| pos6     = 6  | p6         = [[Abdulla Yaser|Yaser]]
+| pos7     = 7  | p7         = [[Abdulwahab Al Safi|Al-Safi]]
+| pos8     = 8  | p8         = [[Sayed Jaafar Ahmed|Ahmed]]
+| pos9     = 9  | p9         = [[Abdulwahab Al Malood|Al-Malood]]
+| pos10    = 10 | p10        = [[Mohammed Tayeb Al Alawi|Al-Alawi]]
+| pos11    = 11 | p11        = [[Ismail Abdul-Latif|Abdul-Latif]]
+| pos12    = 12 | p12        = [[Faouzi Aaish|Aaish]]
+| pos13    = 13 | p13        = [[Abdulla Al-Haza'a|Al-Haza'a]]
+| pos14    = 14 | p14        = [[Jaycee John Okwunwanne|Okwunwanne]]
+| pos15    = 15 | p15        = [[Abdullah Omar|Omar]]
+| pos16    = 16 | p16        = [[Abdulla Yusuf Helal|Helal]]
+| pos17    = 17 | p17        = [[Hussain Ali Baba|Ali Baba]]
+| pos18    = 18 | p18        = [[Mohamed Duaij Mahorfi|Mahorfi]]
+| pos19    = 19 | p19        = [[Faisal Bodahoom|Bodahoom]]
+| pos20    = 20 | p20        = [[Sami Al-Husaini|Al-Husaini]]
+| pos21    = 21 | p21        = [[Hamed Al-Doseri|Al-Doseri]]
+| pos22    = 22 | p22        = [[Ashraf Waheed Al Sebaie|Al-Sebaie]]
+| pos23    = 23 | p23        = [[Rashed Al Hooti|Al-Hooti]]
+| coach                      = [[Marjan Eid|Eid]]
+}}<noinclude>[[Kategori:Templat Skuat Piala Asia 2015|Bahrain]]
+[[Kategori:Templat skuat tim nasional sepak bola Bahrain|Piala Asia 2015]]
+</noinclude>

@@ -1,0 +1,46 @@
+Thermoproteus
+{{Taxobox
+| domain = [[Archaea]]
+| regnum = [[Crenarchaeota]]
+| phylum = [[Crenarchaeota]]
+| classis = [[Thermoprotei]]
+| ordo = [[Thermoproteales]]
+| familia = [[Thermoproteaceae]]
+| genus = ''Thermoproteus''
+| genus_authority = Zillig & Stetter, 1982
+| subdivision_ranks = [[Species (biology)|Species]]
+| subdivision = 
+* ''[[Thermoproteus neutrophilus|T. neutrophilus]]''
+* ''[[Thermoproteus tenax|T. tenax]]''
+* ''[[Thermoproteus uzoniensis|T. uzoniensis]]''
+}}
+Dalam [[taksonomi]], '''''Thermoproteus''''' adalah [[genus]] dari [[Thermoproteaceae]]. [[Prokariota]] ini adalah organisme tergantung sulfur [[termofili]]k terkait dengan genera ''[[Sulfolobus]]'', ''[[Pyrodictium]]'' dan ''[[Desulfurococcus]]''.<ref>{{cite journal | author = Woese C | author2 =  Olsen G | title = Archaebacterial phylogeny:  perspectives on the urkingdoms. | journal = Syst Appl Microbiol | volume = 7 | pages = 16177 | date = 1986| pmid = 11542063 | doi=10.1016/s0723-2020(86)80001-7}}</ref> Mereka [[autotrof]] hidrogen sulfur dan dapat tumbuh pada suhu hingga 95&nbsp;C.
+
+==Referensi==
+
+{{reflist|1}}
+
+==Bacaan lebih lanjut==
+
+===Jurnal ilmiah===
+
+* {{ cite journal | author = Judicial Commission of the International Committee on Systematics of Prokaryotes | date = 2005 | title = The nomenclatural types of the orders Acholeplasmatales, Halanaerobiales, Halobacteriales, Methanobacteriales, Methanococcales, Methanomicrobiales, Planctomycetales, Prochlorales, Sulfolobales, Thermococcales, Thermoproteales and Verrucomicrobiales are the genera Acholeplasma, Halanaerobium, Halobacterium, Methanobacterium, Methanococcus, Methanomicrobium, Planctomyces, Prochloron, Sulfolobus, Thermococcus, Thermoproteus and Verrucomicrobium, respectively. Opinion 79 | journal =  Int. J. Syst. Evol. Microbiol.  | volume =  55 | pages = 517518 | pmid = 15653928 | issue = Pt 1 | doi = 10.1099/ijs.0.63548-0}}
+
+* {{ cite journal | author = Burggraf S | author2 =  Huber H | author3 = Stetter KO | date = 1997 | title = Reclassification of the crenarchael orders and families in accordance with 16S rRNA sequence data | journal =  Int. J. Syst. Bacteriol.  | volume =  47 | pages = 657660 | pmid = 9226896 | doi = 10.1099/00207713-47-3-657 | issue = 3}}
+
+* {{ cite journal | display-authors = 6 | author = Zillig W | author2 = Stetter KO | author3 = Schafer W | author4 = Janekovic D | author5 = Wunderl S | author6 = Holz I | author7 = Palm P | date = 1981 | title = Thermoproteales: a novel type of extremely thermoacidophilic anaerobic archaebacteria isolated from Icelandic solfataras | journal =  Zentralbl. Mikrobiol. Parasitenkd. Infektionskr. Hyg. Abt. 1 Orig.  | volume =  C2 | pages = 205227 }}
+
+===Buku ilmiah===
+
+===Database ilmiah===
+
+{{Taxonomic references|taxon=Thermoproteus}}
+
+==Pranala luar==
+
+{{Taxonomic links|microbe=yes|NCBI_taxID=2270|taxoname=Thermoproteus|LSPN_letter=t|LSPN_taxoname=thermoproteus}}
+
+[[Category:Arkea]]
+
+
+{{arkea-stub}}

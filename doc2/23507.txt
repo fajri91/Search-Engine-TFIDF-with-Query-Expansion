@@ -1,0 +1,12 @@
+Templat:Tanpa lisensi
+<noinclude>{{should be substituted}}</noinclude>
+{{tidak diberi lisensi|d={{<includeonly>subst:</includeonly>CURRENTDAY}}|m={{<includeonly>subst:</includeonly>CURRENTMONTH}}|y={{<includeonly>subst:</includeonly>CURRENTYEAR}}|i=7|ket={{{ket|}}}|kat=Y}}
+[[<noinclude>:</noinclude>Kategori:Gambar tanpa informasi lisensi]]
+<noinclude>
+*Jangan mentransklusikan templat ini secara langsung. Cara penggunaan yang benar: '''<tt><nowiki>{{subst:tanpalisensi}}</nowiki></tt>'''
+*Templat ini menggunakan templat {{tl|base tanpalisensi}}
+*Kategori yang ditambahkan: {{kt|Gambar tanpa informasi lisensi}}
+[[Kategori:Templat lisensi gambar|{{PAGENAME}}]]
+
+
+</noinclude>

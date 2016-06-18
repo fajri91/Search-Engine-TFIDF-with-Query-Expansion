@@ -1,0 +1,43 @@
+OWN: Oprah Winfrey Network
+{{Infobox_TV channel
+| name         = OWN
+| logofile     = Oprah Winfrey Network.png
+| logalt       =
+| logosize     = 200px
+| launch       = 1 Mei 2011<ref name=launch>[http://www.multichannel.com/article/451206-Oprah_Will_Have_A_Primetime_Show_Of_Her_Own.php Oprah Will Have a Primetime Show of Her Own], ''MultiChannel News'', 8 April 2010</ref>
+| replaced names = [[Discovery Health Channel]]
+| headquarters = [[Los Angeles, California]]
+| owner        = [[Discovery Communications|Discovery Communications, Inc.]] (50%) <br /> [[Harpo Productions]] (50%)
+| founder          = [[Oprah Winfrey]]
+| key_people       = [[Oprah Winfrey]]<br /><small>[[Sherri Salata]]<br /><small>([[Co-President]] dan [[Eric Logan]])<br /><small>([[Co-President]]
+| sister names = [[Discovery Communications#Discovery Networks U.S.|Discovery Networks]]
+| web          = [http://www.oprah.com/own/ oprah.com/OWN]
+| picture format= [[480i]] ([[SDTV]])<br />[[1080i]] ([[HDTV]])
+| sat serv 1   = [[DirecTV]]
+| sat chan 1   = Channel 279<br /> Channel 1279 (VOD)
+| sat serv 2   = [[Dish Network]]
+| sat chan 2   = SD: Channel 189 <br /> HD: Channel 189 / 9533
+| cable serv 1 = [[Verizon FiOS]]
+| cable chan 1 = Channel 161
+| cable serv 2 = Tersedia pada kebanyakan sistem kabel lainnya
+| cable chan 2 = Periksa daftar lokal untuk saluran barisan
+| adsl serv 1 = [[AT&T U-verse]]
+| adsl chan 1 = Channel 170 (SD) <br /> Channel 1170 (HD)
+|
+}}
+'''Oprah Winfrey Network''' ('''OWN'''), dinamai dari presenter [[Oprah Winfrey]], adalah saluran televisi [[Amerika Serikat]] yang diproduksi oleh [[Harpo Productions]] dan [[Discovery Communications]]. OWN memulai debutnya pada tanggal 1 Januari 2011 pada sekitar 80 juta rumah, menggantikan sebelumnya [[Discovery Health Channel]].
+
+== Referensi ==
+{{reflist}}
+
+== Pranala luar ==
+*{{official website|http://www.oprah.com/own}}
+
+{{tv-stub}}
+
+{{DEFAULTSORT:Own: Oprah Winfrey Network}}
+
+[[Kategori:Oprah Winfrey]]
+[[Kategori:Discovery Communications]]
+[[Kategori:Stasiun televisi yang didirikan pada tahun 2011]]
+[[Kategori:Stasiun televisi di Amerika Serikat]]

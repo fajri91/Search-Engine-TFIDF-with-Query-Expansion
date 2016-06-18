@@ -1,0 +1,109 @@
+Luise Rainer
+{{Infobox person
+|name            = Luise Rainer
+|image           = Luise Rainer 1936.jpg{{!}}border
+|imagesize       = 
+|caption         = Rainer pada tahun 1936
+|occupation  = [[Aktris]]
+|birth_name      =
+|birth_date      = {{birth date|1910|1|12|df=y}}
+|birth_place     = [[Dsseldorf]], [[Kekaisaran Jerman|Jerman]]
+|death_date      = {{nowrap|{{death date and age|2014|12|30|1910|1|12|df=y}}}}
+|death_place     = [[London]], [[Inggris]], [[Britania Raya]]
+|death_cause     = [[Pneumonia]]
+|restingplace    =
+|nationality     = Jerman
+|citizenship     = Jerman<br>Britania Raya
+|years_active    = 19261943, 1997
+|ethnicity       = [[Yahudi]]
+|home_town       = [[Hamburg]], Jerman<br>[[Wina]], [[Austria]]
+|residence       = London, Inggris
+|spouse          = {{ubl|[[Clifford Odets]] (193740; cerai)|Robert Knittel (194589)}}
+|children        = Francesca Knittel-Bowyer  (l. 1946)
+|parents         = Heinrich Rainer<br>Emilie Knigsberger
+}}
+'''Luise Rainer''' ({{lahirmati|[[Dsseldorf]], [[Jerman]]|12|1|1910|[[London]], [[Inggris]]|30|12|2014}}) merupakan seorang [[aktris]] berkebangsaan [[Jerman]] yang memenangkan dua [[Academy Award]]. Dia adalah orang pertama yang memenangkan Academy Award secara berturut-turut. Pada saat kematiannya, dia tercatat sebagai aktris penerima Academy Award yang paling lama hidup.<ref>[http://www.imdb.com/list/ls053269048/ "Oldest living winners of Best Actress Oscar"], IMDB</ref><ref>[http://www.altfg.com/blog/movie/luise-rainer-oldest-surviving-oscar-winner/ "Luise Rainer: Oldest Living Oscar Winner Turns 103"], Alt Film Guide</ref> Dia berkarier sejak tahun [[1926]] hingga [[1943]] dan sempat aktif lagi berakting pada [[1997]].
+
+== Filmografi ==
+{|class="wikitable plainrowheaders sortable"
+|-
+! scope="col" |Judul
+! scope="col" |Tahun
+! scope="col" |Peran
+! scope="col" class="unsortable" |Catatan
+|-
+! scope="row" |''[[Sehnsucht 202]]''
+|rowspan="2"|1932
+|Kitty
+|
+|-
+! scope="row" |''Madame hat Besuch''
+|
+|
+|-
+! scope="row" |''Heut' kommt's drauf an''
+|1933
+|Marita Costa
+|
+|-
+! scope="row" |''[[Escapade (1935 film)|Escapade]]''
+|1935
+|Leopoldine Dur
+|
+|-
+! scope="row" |''{{sortname|The|Great Ziegfeld}}''
+|1936
+|[[Anna Held]]
+|[[Academy Award for Best Actress]]<br>[[New York Film Critics Circle Award for Best Actress]]
+|-
+! scope="row" |''{{sortname|The|Good Earth|The Good Earth (film)}}''
+|rowspan="3"|1937
+|[[O-Lan]]
+|[[Academy Award for Best Actress]]
+|-
+! scope="row" |''{{sortname|The|Emperor's Candlesticks|The Emperor's Candlesticks (film)}}''
+|Countess Olga Mironova
+|
+|-
+! scope="row" |''[[Big City (1937 film)|Big City]]''
+|Anna Benton
+|
+|-
+! scope="row" |''{{sortname|The|Toy Wife}}''
+|rowspan="3"|1938
+|Gilberte 'Frou Frou' Brigard
+|
+|-
+! scope="row" |''{{sortname|The|Great Waltz|The Great Waltz (film)}}''
+|Poldi Vogelhuber
+|
+|-
+! scope="row" |''[[Dramatic School (film)|Dramatic School]]''
+|Louise Mauban
+|
+|-
+! scope="row" |''[[Hostages (film)|Hostages]]''
+|1943
+|Milada Pressinger
+|
+|-
+! scope="row" |''{{sortname|The|Gambler|The Gambler (film 1997)}}''
+|1997
+|Nenek
+|
+|}
+
+== Referensi ==
+
+{{reflist}}
+
+== Pranala luar ==
+{{commons}}
+* {{imdb nama|id=0707023|nama=Luise Rainer}}
+* [http://film.virtual-history.com/person.php?personid=4999 Photographs of Luise Rainer]
+
+{{pemeran-stub}}
+{{Commonscat|Luise Rainer}}
+{{lifetime|1910|2014|Rainer, Luise}}
+[[Kategori:Pemeran Jerman|Rainer]]
+[[Kategori:Aktris Terbaik (Academy Awards)|Rainer]]

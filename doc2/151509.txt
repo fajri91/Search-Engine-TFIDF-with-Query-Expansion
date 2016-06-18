@@ -1,0 +1,32 @@
+Business process management
+[[Berkas:BPM-Life-Cycle.gif|thumb|Siklus hidup BPM]]
+
+'''Business process management''' ("manajamen proses bisnis"), disingkat '''BPM''', adalah suatu metode penyelarasan secara efisien suatu [[organisasi]] dengan keinginan dan kebutuhan organisasi tersebut. BPM merupakan suatu pendekatan manajemen holistik untuk meningkatkan [[efektivitas]] dan [[efisiensi]] bisnis seiring upaya untuk mencapai inovasi, fleksibilitas dan integrasi dengan teknologi. BPM berupaya untuk melakukan perbaikan proses secara berkelanjutan atau bisa juga disebut sebagai suatu proses 'optimalisasi proses'.
+
+== Bacaan lanjutan ==
+
+* Jrg Becker, Martin Kugeler, Michael Rosemann (Eds.) "Process Management" ISBN 3-540-43499-2
+* Roger Burlton ''Business Process Management: Profiting From Process''. ISBN 0-672-32063-0
+* James F. Chang "Business Process Management Systems" ISBN 0-8493-2310-X
+* Michael Harvey "Essential Business Process Modelling" ISBN 0-596-00843-0
+* {{cite book|author = DEBEVOISE, Neilson T|title = Business Process Management with a Business Rules Approach|publisher = BookSurge Publishing|year = 2007 September 12|id = ISBN 1-4196-7368-8 }}
+* Marlon Dumas, Wil van der Aalst, Arthur ter Hofstede (Eds) ''Process-Aware Information Systems'', Wiley, ISBN 0-471-66306-9
+* Keith Harrison-Broninski "Human Interactions: The Heart and Soul of Business Process Management" ISBN 0-929652-44-4
+* John Jeston and Johan Nelis "Business Process Management: ''Practical Guidelines to Successful Implementations''" ISBN 0-7506-6921-7
+* Martyn Ould "Business Process Management: A Rigorous Approach" ISBN 1-902505-60-3 North America ISBN 0-929652-27-4
+* Howard Smith, Peter Fingar. ''Business Process Management: The Third Wave''. ISBN 0-929652-33-9 <small>(hardcover)</small> ISBN 0-929652-34-7 <small>(paperback)</small>
+* Peter Fingar. "Extreme Competition: Innovation And The Great 21st Century Business Reformation". ISBN 0-929652-38-2
+* Howard Smith, Peter Fingar. "IT Doesn't Matter: Business Processes Do". ISBN 0-929652-35-1
+* Michael Hugos. "The Greatest Innovation Since the Assembly Line: Powerful Strategies for Business Agility". ISBN 0-929652-39-9
+* Andrew Spanyi. "More for Less: The Power of Process Management". ISBN 0-929652-03-0
+* Andrew Spanyi. "Business Process Management Is a Team Sport: Play It to Win!". ISBN 0-929652-02-3
+* Kiran. K.Garimella. "The Power of Process: Unleashing the Source of Competitive Advantage". ISBN 0-929652-06-1
+* Peter Fingar, Joseph Bellini. "The Real Time Enterprise: Competing on Time With the Revolutionary Business Strategy-Execution Machine". ISBN 0-929652-30-4
+* Jean-Nol GILLOT. "La gestion des processus mtiers". ISBN 978-2-9528266-0-0
+* Patrice BRIOL. "Ingnierie des processus mtiers, de l'laboration  l'exploitation". ISBN 978-1-4092-0040-6
+* Patrice BRIOL. "BPMN, the Business Process Modeling Notation, Pocket Handbook". ISBN 978-1-4092-0299-8
+{{manajemen-stub}}
+
+[[Kategori:Manajemen proses]]
+[[Kategori:Manajemen teknologi informasi]]
+[[Kategori:Proses bisnis]]

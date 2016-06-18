@@ -1,0 +1,20 @@
+Gambar bitmap
+[[Berkas:Rgb-raster-image.svg|right|frame|Ketika gambar bitmap RGB [[smiley]] pada kiri atas diperbesar, tampak setiap kotak mewakili sebuah piksel.]]
+
+Dalam [[grafik komputer]], '''gambar bitmap''' adalah sebuah [[struktur data]] yang mewakili susunan [[piksel]] [[warna]] yang ditampilkan pada [[Tampilan komputer|layar monitor]], [[kertas]] atau media tampilan lainnya. Secara teknis gambar bitmap digambarkan dengan lebar dan tinggi dalam piksel dan dalam angka bit per piksel. Beberapa format gambar bitmap yang sering dijumpai: [[GIF]], [[JPEG]], [[BMP]] dan [[PNG]].
+
+'''Keunggulan''' dari gambar bitmap antara lain
+
+1. Pemakaian Processor lebih kecil
+
+2. Mampu menangkap nuansa warna dan bentuk yang natural
+
+
+Sedangkan '''kelemahan'''nya adalah:
+
+1. Ukuran file lebih besar
+
+
+{{komputer-stub}}
+
+[[Kategori:Format gambar]]

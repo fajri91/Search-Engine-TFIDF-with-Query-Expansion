@@ -1,0 +1,14 @@
+Berkas:Opera Sawerigading.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+http://t1.gstatic.com/images?q=tbn:ANd9GcT5xC5oU9GWZDEMI4FgDENgnTacDC4ynnpmgHc3wjCaEMm875yd8Q
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Fairuse}}

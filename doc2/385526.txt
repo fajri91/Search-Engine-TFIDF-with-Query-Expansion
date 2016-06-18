@@ -1,0 +1,14 @@
+Wikipedia:Gambar pilihan/32 2011
+{{GP/2
+|gambar     = Kaali crater panorama.jpg
+|vertikal   = n
+|deskripsi  = [[Kawah Kaali|Kawah meteorit Kaali]] di [[Saaremaa]], [[Estonia]].
+|oleh       = [[:commons:User:Prusux|Prusux]]
+|lisensi    = {{GP-CCGNU}}
+|ukuran     = 7,47 MB
+|dimensi    = 5.857  1.564
+|tahun      = 2011
+|seluler    = {{{seluler|no}}}
+|sblm       = Campfire and sparks in Anttoora 1.jpg
+|des-sblm   = Api unggun dan percikan api
+}}<noinclude>{{GPdoc|32 2011}}</noinclude>

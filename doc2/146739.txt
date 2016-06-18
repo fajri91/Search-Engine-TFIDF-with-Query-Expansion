@@ -1,0 +1,175 @@
+Lactobacillus
+{{periksaterjemahan|en|Lactobacillus}}
+{{Taxobox
+| color = lightgrey
+| name = ''Lactobacillus''
+| image = Lactobacillus_sp_01.png
+| image_width = 240px
+| image_caption = ''Lactobacillus'' 
+| regnum = [[Bacteria]]
+| divisio = [[Firmicutes]]
+| classis = [[Bacilli]]
+| ordo = [[Lactobacillales]]
+| familia = [[Lactobacillaceae]]
+| genus = '''''Lactobacillus'''''
+| genus_authority = Beijerinck 1901
+| subdivision_ranks = Spesies
+| subdivision =
+''[[Lactobacillus acetotolerans|L. acetotolerans]]''{{br}}
+''[[Lactobacillus acidifarinae|L. acidifarinae]]''{{br}}
+''[[Lactobacillus acidipiscis|L. acidipiscis]]''{{br}}
+''[[Lactobacillus acidophilus|L. acidophilus]]''{{br}}
+''[[Lactobacillus agilis|L. agilis]]''{{br}}
+''[[Lactobacillus algidus|L. algidus]]''{{br}}
+''[[Lactobacillus alimentarius|L. alimentarius]]''{{br}}
+''[[Lactobacillus amylolyticus|L. amylolyticus]]''{{br}}
+''[[Lactobacillus amylophilus|L. amylophilus]]''{{br}}
+''[[Lactobacillus amylotrophicus|L. amylotrophicus]]''{{br}}
+''[[Lactobacillus amylovorus|L. amylovorus]]''{{br}}
+''[[Lactobacillus animalis|L. animalis]]''{{br}}
+''[[Lactobacillus antri|L. antri]]''{{br}}
+''[[Lactobacillus apodemi|L. apodemi]]''{{br}}
+''[[Lactobacillus aviarius|L. aviarius]]''{{br}}
+''[[Lactobacillus bifermentans|L. bifermentans]]''{{br}}
+''[[Lactobacillus brevis|L. brevis]]''{{br}}
+''[[Lactobacillus buchneri|L. buchneri]]''{{br}}
+''[[Lactobacillus camelliae|L. camelliae]]''{{br}}
+''[[Lactobacillus casei|L. casei]]''{{br}}
+''[[Lactobacillus catenaformis|L. catenaformis]]''{{br}}
+''[[Lactobacillus ceti|L. ceti]]''{{br}}
+''[[Lactobacillus coleohominis|L. coleohominis]]''{{br}}
+''[[Lactobacillus collinoides|L. collinoides]]''{{br}}
+''[[Lactobacillus composti|L. composti]]''{{br}}
+''[[Lactobacillus concavus|L. concavus]]''{{br}}
+''[[Lactobacillus coryniformis|L. coryniformis]]''{{br}}
+''[[Lactobacillus crispatus|L. crispatus]]''{{br}}
+''[[Lactobacillus crustorum|L. crustorum]]''{{br}}
+''[[Lactobacillus curvatus|L. curvatus]]''{{br}}
+''[[Lactobacillus delbrueckii subsp. delbrueckii|L. delbrueckii subsp. delbrueckii]]''{{br}}
+''[[Lactobacillus delbrueckii subsp. bulgaricus|L. delbrueckii subsp. bulgaricus]]''{{br}}
+''[[Lactobacillus delbrueckii subsp. lactis|L. delbrueckii subsp. lactis]]''{{br}}
+''[[Lactobacillus dextrinicus|L. dextrinicus]]''{{br}}
+''[[Lactobacillus diolivorans|L. diolivorans]]''{{br}}
+''[[Lactobacillus equi|L. equi]]''{{br}}
+''[[Lactobacillus equigenerosi|L. equigenerosi]]''{{br}}
+''[[Lactobacillus farraginis|L. farraginis]]''{{br}}
+''[[Lactobacillus farciminis|L. farciminis]]''{{br}}
+''[[Lactobacillus fermentum|L. fermentum]]''{{br}}
+''[[Lactobacillus fornicalis|L. fornicalis]]''{{br}}
+''[[Lactobacillus fructivorans|L. fructivorans]]''{{br}}
+''[[Lactobacillus frumenti|L. frumenti]]''{{br}}
+''[[Lactobacillus fuchuensis|L. fuchuensis]]''{{br}}
+''[[Lactobacillus gallinarum|L. gallinarum]]''{{br}}
+''[[Lactobacillus gasseri|L. gasseri]]''{{br}}
+''[[Lactobacillus gastricus|L. gastricus]]''{{br}}
+''[[Lactobacillus ghanensis|L. ghanensis]]''{{br}}
+''[[Lactobacillus graminis|L. graminis]]''{{br}}
+''[[Lactobacillus hammesii|L. hammesii]]''{{br}}
+''[[Lactobacillus hamsteri|L. hamsteri]]''{{br}}
+''[[Lactobacillus harbinensis|L. harbinensis]]''{{br}}
+''[[Lactobacillus hayakitensis|L. hayakitensis]]''{{br}}
+''[[Lactobacillus helveticus|L. helveticus]]''{{br}}
+''[[Lactobacillus hilgardii|L. hilgardii]]''{{br}}
+''[[Lactobacillus homohiochii|L. homohiochii]]''{{br}}
+''[[Lactobacillus iners|L. iners]]''{{br}}
+''[[Lactobacillus ingluviei|L. ingluviei]]''{{br}}
+''[[Lactobacillus intestinalis|L. intestinalis]]''{{br}}
+''[[Lactobacillus jensenii|L. jensenii]]''{{br}}
+''[[Lactobacillus johnsonii|L. johnsonii]]''{{br}}
+''[[Lactobacillus kalixensis|L. kalixensis]]''{{br}}
+''[[Lactobacillus kefiranofaciens|L. kefiranofaciens]]''{{br}}
+''[[Lactobacillus kefiri|L. kefiri]]''{{br}}
+''[[Lactobacillus kimchii|L. kimchii]]''{{br}}
+''[[Lactobacillus kitasatonis|L. kitasatonis]]''{{br}}
+''[[Lactobacillus kunkeei|L. kunkeei]]''{{br}}
+''[[Lactobacillus leichmannii|L. leichmannii]]''{{br}}
+''[[Lactobacillus lindneri|L. lindneri]]''{{br}}
+''[[Lactobacillus malefermentans|L. malefermentans]]''{{br}}
+''[[Lactobacillus mali|L. mali]]''{{br}}
+''[[Lactobacillus manihotivorans|L. manihotivorans]]''{{br}}
+''[[Lactobacillus mindensis|L. mindensis]]''{{br}}
+''[[Lactobacillus mucosae|L. mucosae]]''{{br}}
+''[[Lactobacillus murinus|L. murinus]]''{{br}}
+''[[Lactobacillus nagelii|L. nagelii]]''{{br}}
+''[[Lactobacillus namurensis|L. namurensis]]''{{br}}
+''[[Lactobacillus nantensis|L. nantensis]]''{{br}}
+''[[Lactobacillus oligofermentans|L. oligofermentans]]''{{br}}
+''[[Lactobacillus oris|L. oris]]''{{br}}
+''[[Lactobacillus panis|L. panis]]''{{br}}
+''[[Lactobacillus pantheris|L. pantheris]]''{{br}}
+''[[Lactobacillus parabrevis|L. parabrevis]]''{{br}}
+''[[Lactobacillus parabuchneri|L. parabuchneri]]''{{br}}
+''[[Lactobacillus paracollinoides|L. paracollinoides]]''{{br}}
+''[[Lactobacillus parafarraginis|L. parafarraginis]]''{{br}}
+''[[Lactobacillus parakefiri|L. parakefiri]]''{{br}}
+''[[Lactobacillus paralimentarius|L. paralimentarius]]''{{br}}
+''[[Lactobacillus paraplantarum|L. paraplantarum]]''{{br}}
+''[[Lactobacillus pentosus|L. pentosus]]''{{br}}
+''[[Lactobacillus perolens|L. perolens]]''{{br}}
+''[[Lactobacillus plantarum|L. plantarum]]''{{br}}
+''[[Lactobacillus pontis|L. pontis]]''{{br}}
+''[[Lactobacillus psittaci|L. psittaci]]''{{br}}
+''[[Lactobacillus rennini|L. rennini]]''{{br}}
+''[[Lactobacillus reuteri|L. reuteri]]''{{br}}
+''[[Lactobacillus rhamnosus|L. rhamnosus]]''{{br}}
+''[[Lactobacillus rimae|L. rimae]]''{{br}}
+''[[Lactobacillus rogosae|L. rogosae]]''{{br}}
+''[[Lactobacillus rossiae|L. rossiae]]''{{br}}
+''[[Lactobacillus ruminis|L. ruminis]]''{{br}}
+''[[Lactobacillus saerimneri|L. saerimneri]]''{{br}}
+''[[Lactobacillus sakei|L. sakei]]''{{br}}
+''[[Lactobacillus salivarius|L. salivarius]]''{{br}}
+''[[Lactobacillus sanfranciscensis|L. sanfranciscensis]]''{{br}}
+''[[Lactobacillus satsumensis|L. satsumensis]]''{{br}}
+''[[Lactobacillus secaliphilus|L. secaliphilus]]''{{br}}
+''[[Lactobacillus sharpeae|L. sharpeae]]''{{br}}
+''[[Lactobacillus siliginis|L. siliginis]]''{{br}}
+''[[Lactobacillus spicheri|L. spicheri]]''{{br}}
+''[[Lactobacillus suebicus|L. suebicus]]''{{br}}
+''[[Lactobacillus thailandensis|L. thailandensis]]''{{br}}
+''[[Lactobacillus ultunensis|L. ultunensis]]''{{br}}
+''[[Lactobacillus vaccinostercus|L. vaccinostercus]]''{{br}}
+''[[Lactobacillus vaginalis|L. vaginalis]]''{{br}}
+''[[Lactobacillus versmoldensis|L. versmoldensis]]''{{br}}
+''[[Lactobacillus vini|L. vini]]''{{br}}
+''[[Lactobacillus vitulinus|L. vitulinus]]''{{br}}
+''[[Lactobacillus zeae|L. zeae]]''{{br}}
+''[[Lactobacillus zymae|L. zymae]]''{{br}}
+}}
+
+'''''Lactobacillus''''' adalah [[genus]] [[bakteri]] [[gram-positif]] <ref>[http://mansfield.osu.edu/~sabedon/biol2020.htm Non Nutrient Factors Affecting Growth<!-- Bot generated title -->]</ref>, [[anaerobik fakultatif]] atau [[mikroaerofilik]]. Genus bakteri ini membentuk sebagian besar dari kelompok [[bakteri asam laktat]], dinamakan demikian karena kebanyakan anggotanya dapat mengubah [[laktosa]] dan [[gula]] lainnya menjadi [[asam laktat]]. Kebanyakan dari bakteri ini umum dan tidak berbahaya bagi kesehatan. Dalam manusia, bakteri ini dapat ditemukan di dalam [[vagina]] dan [[sistem pencernaan]], di mana mereka ber[[simbiosis]] dan merupakan sebagian kecil dari [[flora usus]]. Banyak spesies dari ''Lactobacillus'' memiliki kemampuan membusukkan materi tanaman yang sangat baik. Produksi asam laktatnya membuat lingkungannya bersifat asam dan mengganggu pertumbuhan beberapa bakteri merugikan. Beberapa anggota genus ini telah memiliki [[genom]] sendiri.
+
+== Produksi makanan ==
+Beberapa spesies ''Lactobacillus'' sering digunakan untuk industri pembuatan [[yogurt]], [[keju]], [[sauerkraut]], [[acar]], [[bir]], [[anggur (minuman)]], [[cuka]], [[kimchi]], [[cokelat]], [[terasi]] dan [[makanan hasil fermentasi]] lainnya, termasuk juga pakan hewan, seperti [[silase]]. Ada pula roti [[adonan asam]], dibuat dengan "kultur awal", yang merupakan kultur simbiotik antara [[ragi]] dengan [[bakteri asam laktat]] yang berkembang di [[media pertumbuhan]] [[air]] dan [[tepung]]. Laktobasili, terutama ''[[Lactobacillus casei|L. casei]]'' dan ''[[Lactobacillus brevis|L. brevis]]'', adalah dua dari sekian banyak organisme yang membusukkan bir. Cara kerja spesies ini adalah dengan menurunkan pH bahan fermentasinya dengan membentuk asam laktat.
+
+== Probiotik dan bioterapi ==
+Beberapa ''Lactobacillus'' spp. dan bakteri asam laktat lainnya mungkin memiliki potensi untuk pengobatan dan terapi, termasuk pereda rasa nyeri, anti-[[kanker]], dan kemampuan lainnya. Studi riset telah mendemonstrasikan efek perlindungan sebagian jenis bakteri ini memiliki pengaruh anti-[[tumor]] dan anti-kanker. Pengaturan asupan makanan membantu tubuh bertahan dari risiko jenis kanker tertentu dan menekan kejadian tumor kolonik, volum dan kemampuan membelah yang dirangsang berbagai zat [[karsinogen]]. Pemberian beberapa jenis bakteri secara oral dapat efektif menurunkan formasi ikatan [[ADN]], memperbaiki kerusakan ADN dan mencegah [[lesi]] yang putatif preneoplastik, seperti ''abberant crypt foci'' yang dirangsang zat kimia karsinogen di sistem pencernaan. Laporan juga menunjukkan beberapa kultur yang diberikan pada hewan menghambat tumor hati, usus besar, anus, dan kelenjar susu, menekankan potensi efek sistemis dari [[probiotik]] dengan aktivitas anti-neoplastik.
+
+Laktobasili juga digunakan untuk mengembalikan keseimbangan fisiologis tertentu seperti ekosistem vagina ([[Ginoflora]]). Peran mereka adalah (1) secara fisis melindungi epitelium vagina dengan membangun lapisan tebal yang memisahkan epitelium dengan patogen, (2) secara fisiologis menjaga keseimbangan ekosistem vagina dengan mempertahankan pH pada ~4,5 dan (3) membentuk [[hidrogen peroksida]] yang melawan patogen.
+
+== Taksonomi ==
+Genus ''Lactobacillus'' untuk saat ini terdiri atas lebih dari 125 spesies dan mencakup jenis organisme yang luas. Genus ini [[polifiletik]] dengan genus ''[[Pediococcus]]'' membagi kelompok ''L. casei'', dan spesies ''[[L. acidophilus]]'', ''[[L. salivarius]]'', dan ''[[L. reuteri]]'' menjadi perwakilan dari tiga ''subclade'' yang berbeda. Genus [[Paralactobacillus]] termasuk di dalam kelompok [[L. salivarius]]. Dalam beberapa tahun ini, anggota lain dari genus ''Lactobacillus'' (dulunya dikenal dengan cabang ''Leunocostoc'' dari ''Lactobacillus'') telah diklasifikasi ulang ke dalam genera ''[[Atopobium]]'', ''[[Carnobacterium]]'', ''[[Weissella]]'', ''[[Oenococcus]]'', dan ''[[Leuconostoc]]''. Baru akhir-akhir ini, ''[[P. dextrinicus]]'', yang merupakan spesies ''[[Pediococcus]]'', telah telah diklasifikasi ulang sebagai spesies ''Lactobacillus'' (IJSEM, Paper in Press).
+
+== Kerusakan gigi ==
+Walaupun dianggap menguntungkan, beberapa spesies ''Lactobacillus'' telah diasosiasikan dengan [[karies gigi]].<ref> http://www.lcusd.net/lchs/mewoldsen/dokko.html </ref> Jumlah ''Lactobacillus'' pada air ludah telah digunakan sebagai acuan dalam "tes karies" selama bertahun-tahun.<ref> http://www.db.od.mah.se/lbcmm/lbctest00-.html </ref> Ini adalah satu dari banyak argumen yang digunakan untuk mendukung penambahan fluorida (F<sup>-</sup>) pada [[pasta gigi]] dan permen pelega tenggorokan.<ref> http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&cmd=Retrieve&dopt=AbstractPlus&list_uids=17067433 </ref>
+
+== Metabolisme ==
+Banyak laktobasili bersifat tak umum, bakteri ini bekerja secara metabolisme homofermentatif (hanya membentuk asam laktat dari gula, bandingkan dengan laktobasili heterofermentatif yang dapat membentuk alkohol atau asam laktat dari gula) dan juga [[aerotoleran]], walaupun tak memiliki sama sekali rantai pernapasan. Aerotoleransi ini bergantung pada [[mangan]] dan telah diteliti (dan dijelaskan) sebagai ''[[Lactobacillus plantarum]]''. Banyak ''Lactobacillus'' tidak memerlukan [[besi]] untuk pertumbuhan dan memiliki toleransi [[hidrogen peroksida]] yang sangat tinggi.
+
+Dilihat dari metabolismenya, spesies ''Lactobacillus'' dapat dibagi menjadi tiga kelompok:
+* Homofermentatif obligat (Kelompok I)
+** ''[[Lactobacillus acidophilus|L. acidophilus]]'', ''[[Lactobacillus delbrueckii|L. delbrueckii]]'', ''[[Lactobacillus helveticus|L. helveticus]]'', ''[[Lactobacillus salivarius|L. salivarius]]''
+* Heterofermentatif fakultatif (Kelompok II)
+** ''[[Lactobacillus casei|L. casei]]'', ''[[Lactobacillus curvatus|L. curvatus]]'', ''[[Lactobacillus plantarum|L. plantarum]]'', ''[[Lactobacillus sakei|L. sakei]]''
+* Heterofermentatif obligat (Kelompok III)
+** ''[[Lactobacillus brevis|L. brevis]]'', ''[[Lactobacillus buchneri|L. buchneri]]'', ''[[Lactobacillus fermentum|L. fermentum]]'', ''[[Lactobacillus reuteri|L. reuteri]]''
+
+
+== Referensi dan pranala luar ==
+{{reflist}}
+* [http://www.bacterio.cict.fr/l/lactobacillus.html List of species of the genus Lactobacillus]
+* [http://lactina-ltd.com/index_en.php Starter cultures and probiotics]
+
+[[Kategori:Bakteri]]
+[[Kategori:Lactobacillaceae]]
+[[Kategori:Mikrobiologi]]

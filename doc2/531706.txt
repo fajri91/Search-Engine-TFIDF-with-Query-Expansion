@@ -1,0 +1,18 @@
+Templat:Marga Sibagariang
+{{Navbox
+| name = Marga Sibagariang
+| listclass = hlist
+| title =[[:Kategori:Marga Sibagariang|Marga Sibagariang]]
+| state = {{{state|autocollapsed}}}
+| image = 
+| group1 = 
+| list1 =
+* [[Ompu Soungkapon Sibagariang|Ompu Soungkapon]]
+* [[Raja Unggun Sibagariang|Raja Unggun]]
+* [[Ompu Sodunggaron Sibagariang|Ompu Sodunggaron]]
+* [[Namora Silambok Sibagariang|Namora Silambok]]
+* [[Guru Sohalompoan Sibagariang|Guru Sohalompoan]]
+}}
+{{Marga_Naipospos}}
+<noinclude>[[Kategori:Templat suku bangsa|{{PAGENAME}}]]
+[[Kategori:Templat navigasi Indonesia]]</noinclude>

@@ -1,0 +1,17 @@
+Templat:Buer, Sumbawa
+{{Navigasi ID Desa
+|provinsi=Nusa Tenggara Barat
+|dati2=Kabupaten
+|nama dati2=Sumbawa
+|nama kecamatan=Buer
+|d1=Buin Baru
+|d2=Juru Mapin
+|d3=Kalabeso
+|d4=Labuhan Burung
+|d5=Pulau Kaung
+|d6=Tarusa
+}}
+<noinclude>
+[[Kategori:Templat desa/kelurahan di Nusa Tenggara Barat|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Sumbawa|{{PAGENAME}}]]
+</noinclude>

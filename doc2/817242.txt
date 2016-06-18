@@ -1,0 +1,10 @@
+OPS 5112
+'''OPS 5112''', juga dikenal sebagai '''Navstar 2''', '''NDS-2''', '''GPS I-2''' dan '''GPS SVN-2''', adalah [[satelit]] [[navigasi]] [[Amerika]] diluncurkan pada tahun 1978 sebagai bagian dari program pengembangan [[Sistem Pemosisi Global|Global Positioning System]]. Ini adalah satelit kedua dari sebelas satelit Blok I GPS yang diluncurkan.<ref name="GSP"><cite class="citation web" contenteditable="false">Krebs, Gunter. </cite></ref>
+
+OPS 5112 diluncurkan di 10:34 UTC pada 13 Mei tahun 1978, di atas sebuah kapal roket Atlas E/F dengan tahap atas SGS-1. Atlas digunakan memiliki nomor seri 49F, dan pada awalnya dibangun sebagai Atlas F. Peluncuran berlangsung dari Space Launch Complex 3E di Vandenberg Air Force Base, dan menempatkan OPS 5112 ke orbit transfer. Satelit mengangkat dirinya sendiri menuju orbit Bumi medium menggunakan apogee motor Star-27.<ref name="LL"><cite class="citation web" contenteditable="false">McDowell, Jonathan. </cite></ref><ref name="lvdb"><cite class="citation web" contenteditable="false">McDowell, Jonathan. </cite></ref> <ref name="GSP"><cite class="citation web" contenteditable="false">Krebs, Gunter. </cite></ref>
+
+== References ==
+{{Reflist}}
+
+[[Kategori:Satelit GPS]]
+[[Kategori:Pesawat luar angkasa yang diluncurkan tahun 1978]]

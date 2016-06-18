@@ -1,0 +1,56 @@
+Recorder to Randoseru
+{{Infobox animanga/Header
+| name            = 
+| image           = 
+| caption         = 
+| ja_kanji        = 
+| ja_romaji       = 
+| genre           = 
+}}
+{{Infobox animanga/Print
+| type            = manga
+| title           = 
+| author          = [[Meme Higashiya]]
+| illustrator     = 
+| publisher       = [[Takeshobo]]
+| publisher_en    = 
+| demographic     = 
+| imprint         = 
+| magazine        = [[Manga Club Original]]<br>[[Manga Life Original]]
+| magazine_en     = 
+| published       = 
+| first           = 2007
+| last            = 
+| volumes         = 2
+| volume_list     = 
+}}
+{{Infobox animanga/Video
+| type            = tv series
+| title           = 
+| director        = 
+| producer        = 
+| writer          = 
+| music           = 
+| studio          = 
+| licensor        = 
+| network         = [[TV Saitama]]
+| network_en      = 
+| first           = 5 Januari 2012
+| last            = 
+| episodes        = 
+| episode_list    = 
+}}
+{{Infobox animanga/Footer}}
+{{Nihongo|'''''Recorder to Randoseru'''''|}} adalah serial [[manga]] [[yonkoma]] [[Jepang]] karya [[Meme Higashiya]]. Manga ini telah diadaptasikan ke [[serial televisi]] [[anime]] pada tahun 2012.<ref>{{Cite web |url=http://www.animenewsnetwork.com/news/2011-09-02/bookstore/recorder-to-randoseru-4-panel-manga-gets-anime |title= Bookstore: Recorder to Randoseru 4-Panel Manga Gets Anime |date=2011-9-2 |accessdate= 2011-9-3|publisher= [[Anime News Network]]}}</ref>
+
+== Karakter ==
+* {{Nihongo|'''Atsushi Miyagawa'''| |Miyagawa Atsushi}} (Pengisi suara: [[Ryotaro Okiayu]])
+* {{Nihongo|'''Atsumi Miyagawa'''| |Miyagawa Atsumi}} (Pengisi suara: [[Rie Kugimiya]])
+
+== Referensi ==
+{{reflist}}
+
+{{manga-stub}}
+
+[[Kategori:Manga tahun 2007]]
+[[Kategori:Serial anime tahun 2012]]

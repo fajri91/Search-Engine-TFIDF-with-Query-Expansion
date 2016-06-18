@@ -1,0 +1,34 @@
+Stasiun Pangkajene
+{{infobox stasiun
+|name=Pangkajene
+|image=
+|caption=
+|prov=Sulawesi Selatan
+|kabupaten=Pangkajene Kepulauan
+|kecamatan kabupaten=Pangkajene
+|desa=
+|kodepos=?
+|oldname=
+|open=
+|close=
+|kode=PKJ
+|tinggi=?
+|line= 
+|operator=[[Daerah Operasi X Makassar]]
+}}
+'''Stasiun Pangkajene''' ('''PKJ''') adalah stasiun kereta api yang ada di [[Sulawesi Selatan]]. Stasiun ini menjadi stasiun keenam di [[Sulawesi Selatan]], akan nantinya tersambung sampai di [[Manado]] sepanjang 2000 km+.
+
+==Sejarah==
+-
+
+
+== Referensi ==
+{{reflist}}
+[[Jalur kereta api Trans-Sulawesi]]
+
+==Jalur kereta api==
+{{stasiun|Stasiun Lempangan|Jalur kereta api Makassar-Parepare|Stasiun Bungoro}} 
+
+{{stasiun-stub}} 
+
+[[Kategori:Stasiun kereta api di Sulawesi]]

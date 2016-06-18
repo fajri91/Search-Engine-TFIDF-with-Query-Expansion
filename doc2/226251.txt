@@ -1,0 +1,84 @@
+Raskin
+'''Raskin''' ( akronim dari ''beras miskin'' ) adalah sebuah program bantuan pangan bersyarat diselenggarakan oleh [[Pemerintah Indonesia]] berupa penjualan beras di bawah harga pasar kepada penerima tertentu.
+
+Program ini mulai pada Januari 2003<ref>{{cite web
+  | last = Bulog
+  | title = evaluasi raskin
+  | work =
+  | publisher = Bulog
+  | date =
+  | url = http://www.bulog.co.id/old_website/evaluasiraskin.php
+  | format =
+  | doi =
+  | accessdate = 4 Januari 2010}}</ref>.Untuk tahun 2010, jatah beras yang dialokasikan dikurangi menjadi 13 kg per [[rumah tangga]] per bulan sedangkan pada 2009 jatah ditetapkan 15 kg<ref>{{cite web
+  | last = menkokesra
+  | title = Raskin 2010 Tetap Diberikan Selama 12 Bulan 
+  | work =
+  | publisher = menkokesra
+  | date = 29 September 2009
+  | url = http://www.menkokesra.go.id/content/view/12780/39/
+  | format =
+  | doi =
+  | accessdate = 4 Januari 2010}}</ref><ref>{{cite web
+  | last = Tim Koordinasi Penenggulangan Kemiskinan
+  | title = Anggaran Raskin 2010 Dipangkas DPR Mengecam Kebijakan Pemerintah 
+  | work =
+  | publisher = TKPKRI
+  | date = 9 Juni 2009
+  | url = http://tkpkri.org/berita/berita/anggaran-raskin-2010-dipangkas-20090609535.html
+  | format =
+  | doi =
+  | accessdate = 5 Januari 2010}}</ref>.
+
+== Syarat ==
+
+Agar memanfaatkan bantuan itu rumah tangga harus memenuhi sejumlah kriteria<ref>{{Citation
+  | last = wynandin imawan
+  | title = Pendataan Program Perlindungan Sosial
+  | year = 2008
+  | pages = 6
+  | place = Cikampek
+  | publisher = departemen sosial RI
+  | url = http://www.depsos.go.id/modules.php?name=Downloads&d_op=getit&lid=41}}</ref>
+
+{| class="wikitable" style="text-align:center; width:80%;"
+|+ Data Raskin
+|-
+! scope=col |
+! scope=col | 2007
+! scope=col | 2008
+! scope=col | 2009
+! scope=col | 2010
+|-
+! scope=row | Harga beras per kilogram (Rp)
+| 1000
+| 1600
+| 1600
+| 1600
+|-
+! scope=row | Jatah beras per rumah tangga per bulan (kg)
+| 
+| 
+| 15
+| 13
+|-
+! scope=row | Jumlah rumah tangga penerima (juta)
+| 
+| 
+| 18,5
+| 17,5
+|-
+! scope=row | Anggaran
+| 
+| 
+| 
+| 
+|}
+
+== Catatan ==
+{{reflist|2}}
+
+{{Indonesia-stub}}
+
+[[Kategori:Kemiskinan]]
+[[Kategori:Program sosial]]

@@ -1,0 +1,25 @@
+Corallistes isabela
+{{Taxobox |name = Corallistes isabela
+|regnum = [[Hewan|Animalia]]
+|subregnum = [[Parazoa]]
+|phylum = [[Porifera]]
+|classis = [[Demospongiae]]
+|ordo = [[Lithistida]]
+|familia = [[Corallistidae]]
+|genus = [[Corallistes]]
+|species = Corallistes isabela
+|binomial_authority =Desqueyroux-Fandez & van Soest, 1997
+}}
+'''''Corallistes isabela''''' adalah [[spesies]] [[spons]] yang tergolong dalam kelas [[Demospongiae]]. Spesies ini juga merupakan bagian dari genus Corallistes dan [[familia]] Corallistidae. Nama ilmiah spesies ini pertama kali diterbitkan pada tahun 1997 oleh Desqueyroux-Fandez & van Soest.
+
+Seperti spons pada umumnya, spesies ini memiliki tubuh yang berpori dan permukaan yang keras seperti [[batu]]. Selain itu, Corallistes isabela juga dapat menyerap [[oksigen]] dari [[air]] melalui proses [[difusi]].
+
+== Referensi ==
+
+* ''WoRMS Porifera: World Porifera Database''. Soest R. van (ed), 22 Oktober 2008.
+
+{{DEFAULTSORT:Corallistes isabela}}
+
+[[Kategori:Demospongiae]]
+
+{{porifera-stub}}

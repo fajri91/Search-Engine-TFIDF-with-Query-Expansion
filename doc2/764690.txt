@@ -1,0 +1,14 @@
+Berkas:Logo ESDM.gif
+=={{int:filedesc}}==
+{{Information
+| description    =
+http://4.bp.blogspot.com/-8pe92WY7HdE/UjPm5kJIOGI/AAAAAAAAAXA/fL3DPxAMOoY/s1600/Logo_ESDM.gif
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Logo}}

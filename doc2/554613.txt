@@ -1,0 +1,38 @@
+Berkas:Melon Juice HKT48 Type-A (CD DVD).jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+Sumber: http://www.hkt48.jp/discography/single/007474.html
+
+{{Non-free use rationale album cover 
+| Article           = Melon Juice (lagu HKT48)
+| Use               = Infobox
+<!-- ADDITIONAL INFORMATION -->
+| Name              = 
+| Artist            = [[HKT48]]
+| Label             = [[Universal Sigma]]
+| Graphic Artist    = 
+| Item              = 
+| Type              = singel
+| Website           = http://www.hkt48.jp/discography/single/007474.html
+| Owner             = 
+| Commentary        = 
+<!--OVERRIDE FIELDS -->
+| Description       = 
+| Source            = 
+| Portion           = 
+| Low_resolution    = 
+| Purpose           = <!--Must be specified if Use is not Infobox / Header / Section / Artist-->
+| Replaceability    = 
+| other_information = 
+}}
+
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{SampulAlbum}}

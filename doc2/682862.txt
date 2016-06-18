@@ -1,0 +1,12 @@
+Templat:Convert/e9m3
+{{convert/{{{d}}}Eng|{{{1}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|s={{{s|}}}|r={{{r}}}
+|k=9
+|u=m<sup>3</sup>
+|l=meter kubik
+|h=meter kubik
+|t=meter kubik
+|o={{#ifexpr:{{{1}}}<28.316846592|G|T}}cuft
+|b=1000000000
+|j=9-{{{j|0}}}}}<noinclude>
+[[Category:Subtemplat Templat Convert]]
+</noinclude>

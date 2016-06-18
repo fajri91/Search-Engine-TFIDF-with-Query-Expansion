@@ -1,0 +1,33 @@
+Daftar stasiun radio di Indonesia
+<!--
+/* ****************************************************
+
+
+    =================================
+    PERHATIAN SEBELUM MENAMBAHKAN ISI
+    =================================
+
+    Dipersilakan menambahkan stasiun radio yang belum tercantum
+    Dipersilakan merapikan/memperbaiki tampilan artikel
+    Dipersilakan memecah artikel
+    Dilarang memberikan WikiLink ke artikel yang tidak eksis
+    Dilarang cetak tebal nama radio
+    Dilarang mencantumkan informasi '''alamat situs web''', alamat kantor, alamat [[surel]], slogan, atau informasi apapun selain nama radio  dan gelombangnya serta daerahnya.
+    Tidak perlu memberikan satuan MHz atau kHz, cukup FM atau AM saja
+
+    Baca terlebih dahulu [[Wikipedia bukanlah]]:
+
+    WIKIPEDIA BUKANLAH TEMPAT BERIKLAN
+    WIKIPEDIA BUKANLAH TEMPAT MENGUMPULKAN PRANALA LUAR KOMPREHENSIF
+
+**************************************************** */
+-->
+Berikut '''daftar [[stasiun radio]]''' di [[Indonesia]] menurut [[Daftar provinsi di Indonesia|provinsi]].
+
+{{Daftar stasiun radio di Indonesia}}
+
+[[Kategori:Stasiun radio Indonesia|*]]
+[[Kategori:Daftar bertopik Indonesia|Stasiun radio]]
+[[Kategori:Stasiun radio menurut provinsi di Indonesia| {{PAGENAME}}]]
+
+[[ms:Senarai Stesen Radio di Indonesia]]

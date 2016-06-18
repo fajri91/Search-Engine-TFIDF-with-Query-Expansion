@@ -1,0 +1,10 @@
+Templat:Marga Simalungun
+{{Navbox
+|name = Marga Simalungun
+|style = width:80%;
+| listclass = hlist
+| title = [[Marga Simalungun|Marga-marga]] dalam [[Suku Simalungun]]
+|group1 = 
+|list1 = [[Damanik]]{{}} [[Purba]]{{}} [[Saragih]]{{}} [[Sinaga]]
+}}<noinclude>[[Kategori:Templat suku bangsa|{{PAGENAME}}]]
+[[Kategori:Templat navigasi Indonesia]]</noinclude>

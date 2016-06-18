@@ -1,0 +1,61 @@
+Daftar Presiden Afrika Tengah
+{{intro daftar pemimpin|Presiden|Republik Afrika Tengah}}
+(Tanggal yang dicetak miring menunjukkan indikasi kontinuitas pemerintahan ''de facto'')
+
+{| class="wikitable"
+|- align=left
+! width="25%"|Periode Jabatan
+! width="40%"|Pejabat
+! width="10%"|[[#Afiliasi:-|Afiliasi]]
+! width="20%"|Catatan
+|- valign=top
+|colspan="4"|'''[[Republik Afrika Tengah]]'''
+|- valign=top
+|colspan="4"|''Rpublique Centrafricaine''
+|- valign=top bgcolor="#ffffec"
+|<small>[[13 Agustus]] [[1960]]-[[14 Agustus]] [[1960]]||'''[[Paul Camille Bordier]]'''||&nbsp;||&nbsp;
+|- valign=top bgcolor="#ffffec"
+|<small>[[14 Agustus]] [[1960]]-[[12 November]] [[1960]]||'''[[David Dacko]]''', <small>Presiden Sementara||rowspan="2"|<small>MESAN||rowspan="2"|<small>Periode Jabatan 
+|- valign=top bgcolor="#ffffec"
+|<small>[[12 November]] [[1960]]-[[31 Desember]] [[1965]]||'''[[David Dacko]]''', <small>Presiden
+|- valign=top bgcolor="#ffffec"
+|<small>[[1 Januari]] [[1966]]-[[18 Oktober]] [[1976]]||'''[[Jean-Bdel Bokassa]]''', <small>Presiden||rowspan="2"|<small>Mil/MESAN||<small>Changed name to [[Jean-Bdel Bokassa|Salah Eddine Ahmed Bokassa]]
+|- valign=top bgcolor="#ffffec"
+|<small>[[18 Oktober]] [[1976]]-[[4 Desember]] [[1976]]||'''[[Jean-Bdel Bokassa|Salah Eddine Ahmed Bokassa]]''', <small>Presiden||<small>Previously named [[Jean-Bdel Bokassa]]
+|- valign=top
+|colspan="4"|''Central African Empire''
+|- valign=top bgcolor="#ffffec"
+|<small>[[4 Desember]] [[1976]]-[[20 September]] [[1979]]||'''[[Jean-Bdel Bokassa|Bokassa I]]''', <small>'''Empereur''' de Centrafrique par la volont du peuple Centrafricain, uni au sein du parti politique national, le MESAN <br />''Emperor of Central Africa by the will of the Central African people, united within the national political party, the MESAN''||<small>MESAN||<small>Hitherto President [[Jean-Bdel Bokassa|Salah Eddine Ahmed Bokassa]]
+|- valign=top
+|colspan="4"|'''[[Republik Afrika Tengah]]'''
+|- valign=top
+|colspan="4"|''Rpublique Centrafricaine (Kdr t B-Afrka]])''
+|- valign=top bgcolor="#ffffec"
+|<small>[[20 September]] [[1979]]-[[1 September]] [[1981]]||'''[[David Dacko]]''', <small>President||<small>MESAN/UDC||<small>Periode Ke-2
+|- valign=top bgcolor="#ffffec"
+|<small>[[1 September]] [[1981]]-[[21 September]] [[1985]]||'''[[Andr Kolingba]]''', <small>Chairman of the Military Committee of National Recovery||<small>Mil||&nbsp;
+|- valign=top bgcolor="#ffffec"
+|<small>[[21 September]] [[1985]]-[[29 November]] [[1986]]||'''[[Andr Kolingba]]''', <small>Head of State||rowspan="2"|<small>RDC||&nbsp;
+|- valign=top bgcolor="#ffffec"
+|<small>[[29 November]] [[1986]]-[[22 Oktober]] [[1993]]||'''[[Andr Kolingba]]''', <small>President||&nbsp;
+|- valign=top bgcolor="#ffffec"
+|<small>[[22 Oktober]] [[1993]]-[[15 Maret]] [[2003]]||'''[[Ange-Flix Patass]]''', <small>President||<small>MLPC||&nbsp;
+|- valign=top bgcolor="#ffffec"
+|<small>[[15 Maret]] [[2003]]-sekarang||'''[[Franois Boziz]]''', <small>Presiden||<small>Mil||&nbsp;
+|}
+
+== Afiliasi ==
+* FPO : Front Patriotique Oubanguien (Oubanguian Patriotic Front) 
+* MEDAC : Mouvement pour lvolution Dmocratique de lAfrique Centrale (Movement for the Democratic Evolution of Central Africa) estd.1960 
+* MLPC : Mouvement pour la Libration du Peuple Centrafricain (Liberation Movement of the Central African People) christian-democratic 
+* PSD : Parti Social-Dmocrate (Social Democratic Party) 
+* PUN : Parti dUnit nationale (National Unity Party) 
+* FC : Forum Civique (Civic Forum)
+* MESAN : Mouvement dvolution Sociale de lAfrique Noire (Movement for the Social Evolution of Black Africa) only legal party Nov 1962-1981 
+* RDC : Rassemblement Dmocratique Centrafricain (Central African Democratic Rally) authoritarian only legal party 1987-1991 
+* UDC Union Dmocratique Centrafricain (Central African Democratic Union) 
+* Mil : Militer
+* n-p : non-partai 
+
+{{daftar pemimpin negara|jabatan=Presiden|negara=Afrika Tengah|stub=y|lihat=
+* [[Kepala Kolonial Afrika Tengah]]}}

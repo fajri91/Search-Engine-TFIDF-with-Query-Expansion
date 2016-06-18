@@ -1,0 +1,6 @@
+Templat:Pengguna Semarang
+{{userbox|lightgrey|white|[[Berkas:Logo Kota Semarang.png|35px]]|Pengguna ini berdomisili di '''[[Semarang]], [[Indonesia]]'''|border-color=lightgrey }}{{#if:{{{kat|}}}||<includeonly>[[Kategori:Pengguna yang berdomisili di Semarang|{{PAGENAME}}]]</includeonly>}}<noinclude>{{clr}}
+----
+*Templat ini menambahkan kategori: {{kat|Pengguna yang berdomisili di Semarang}}
+[[Kategori:Templat domisili pengguna|Semarang]]
+</noinclude>

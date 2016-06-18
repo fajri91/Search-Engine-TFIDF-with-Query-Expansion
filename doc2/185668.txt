@@ -1,0 +1,20 @@
+Urticales
+{{Taxobox
+|color = lightgreen
+|name = Urticales
+|image = 
+|regnum = [[Plantae]]
+|divisio = [[Flowering plant|Magnoliophyta]]
+|classis = [[Magnoliopsida]]
+|ordo = '''Urticales'''
+|ordo_authority = 
+|subdivision_ranks = [[familia|Suku]]
+|subdivision = 
+lihat teks.
+}}
+'''Urticales''' adalah salah satu [[Ordo (biologi)|bangsa]]/ordo anggota [[tumbuhan berbunga]] yang termasuk dalam anak kelas [[Hamamelidae]], [[kelas (biologi)|kelas]] [[Magnoliopsida]], menurut [[Sistem klasifikasi Cronquist]] (1981). Ada enam [[familia|suku]] yang termasuk di dalamnya: [[Barbeyaceae]], [[Ulmaceae]], [[Cannabaceae]], [[Moraceae]], [[Cecropiaceae]], dan [[Urticaceae]].
+
+Dalam [[sistem klasifikasi APG II]] (2003) dan modifikasi lanjutannya, yang berdasarkan [[filogeni]] dan sekarang mulai luas digunakan, kelompok ini tidak digunakan.
+{{botani-stub}}
+
+[[Kategori:Urticales| ]]

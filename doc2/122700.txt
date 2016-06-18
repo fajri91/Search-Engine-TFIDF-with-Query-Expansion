@@ -1,0 +1,31 @@
+Templat:Militer Uni Soviet
+{| class="toc" border="1" cellpadding="4" cellspacing="0" style="float:right; margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;" 
+|+<big><big>'''[[Militer di Uni Soviet]]'''
+| align="center" colspan="2"|
+{| border=0 cellpadding=2 cellspacing=0 style="background:#f9f9f9; text-align:left;"
+|-
+| [[Image:Coat of arms of the Soviet Union.svg|centre|150px|]]
+|-
+! style="background:#798050; font-size: 95%; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #EEDD82; padding: 0 5px 0 5px;" | <font color=f9f9f9>'''Komponen'''</font>
+|-
+| style="background=#FFFFFF" | [[Divisi Roket Strategis]] 
+|-
+| [[Tentara Merah|Angkatan Darat]]
+|-
+| [[Angkatan Udara Soviet|Angkatan Udara]]
+|-
+| [[Angkatan Laut Soviet|Angkatan Laut]]
+|-
+! style="background:#798050; font-size: 95%; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #EEDD82; padding: 0 5px 0 5px;" | <font color=f9f9f9>'''Tingkatan Militer Uni Soviet'''</font>
+|-
+| [[Tingkatan militer Uni Soviet|Pangkat dalam militer Uni Soviet]]
+|-
+! style="background:#798050; font-size: 95%; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #EEDD82; padding: 0 5px 0 5px;" | <font color=f9f9f9>'''Sejarah Militer Soviet'''</font>
+|-
+| [[Sejarah militer Uni Soviet]]
+|-
+| [[Sejarah tingkatan militer Uni Soviet]]
+|}
+|}
+<noinclude>[[Kategori:Templat navigasi militer|Militer Uni Soviet]]
+[[Kategori:Templat Uni Soviet]]</noinclude>

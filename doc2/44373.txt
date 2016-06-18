@@ -1,0 +1,23 @@
+Templat:Tuntang, Semarang
+{{Navigasi ID Desa |provinsi=Jawa Tengah|dati2=Kabupaten |nama dati2=Semarang
+|nama kecamatan=Tuntang
+|d1=Candirejo
+|d2=Delik
+|d3=Gedangan
+|d4=Jombor
+|d5=Kalibeji
+|d6=Karanganyar
+|d7=Karang Tengah
+|d8=Kesongo
+|d9=Lopait
+|d10=Ngajaran
+|d11=Rowosari
+|d12=Sraten
+|d13=Tlogo
+|d14=Tlompakan
+|d15=Tuntang
+|d16=Watuagung
+}}<noinclude>
+[[Kategori:Templat desa/kelurahan di Jawa Tengah|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Semarang|{{PAGENAME}}]]
+</noinclude>

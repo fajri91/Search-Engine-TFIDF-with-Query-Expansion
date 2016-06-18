@@ -1,0 +1,56 @@
+Liu Zhiyuan
+{{Infobox royalty
+| image           = 
+| birth_date      = 4 Maret 895<ref name=HFD99>''[[Sejarah Tua Lima Dinasti|Sejarah Lima Dinasti]]'', [[:zh:s:/99|vol. 99]].</ref><ref name=AS>[http://sinocal.sinica.edu.tw [[Academia Sinica]] Chinese-Western Calendar Converter].</ref>
+| death_date      = 10 Maret 948<ref name=AS/><ref name=ZZTJ287>''[[Zizhi Tongjian]]'', [[:zh:s:/287|vol. 287]].</ref>
+| family_name     = [[Liu|Lu]] ()
+| clan_name       = 
+| given_name      = Awalnya Zhyun (), kemudian Go () (diubah pada tahun 948)
+| reign           = 10 Maret 947<ref name=AS/><ref name=ZZTJ286>''Zizhi Tongjian'', [[:zh:s:/286|vol. 286]].</ref>  10 Mart 948
+| dynasty         = [[Han Akhir (Lima Dinasti)|Han Akhir]]
+| era name        = 
+| era dates       = Tinf () (diadopsi dari [[Kaisar Gaozu dari Jin Akhir]]) 947<br>Qinyu () 948
+| temple name     = Goz ()
+| posthumous name = Kaisar Rwn Shngw Zhos Xio () (nama lengkap)
+}}
+
+'''Kaisar Gaozu dari Han (Akhir)''' (()) (4 Maret 89510 Maret 948), nama pribadi '''Liu Zhiyuan''' (), yang kemudian diubah menjadi '''Liu Gao''' (), adalah pendiri [[Han Akhir (Lima Dinasti)|Han Akhir]] beretnis [[Shatuo]], dinasti keempat dari Lima Dinasti pada [[zaman Lima Dinasti dan Sepuluh Kerajaan]] dalam sejarah Tiongkok. Dinasti tersebut, jika [[Han Utara]] tidak dianggap bagian dari sejarahnya, juga merupakan salah satu negara berumur terpendek dalam sejarah Tiongkok, yang hanya berlangsung selama tiga tahun.
+
+==Pendiri sebuah dinasti==
+Liu Zhiyuan adalah gubernur militer Bingzhou, sebuah wilayah di sekitaran [[Taiyuan]], [[Shanxi]] pada masa sekarang
+
+==Referensi==
+<references/>
+*{{cite book|title=Imperial China: (900-1800)|author=Mote, F.W.|year=1999|publisher=Harvard University Press|page=13}}
+
+{{s-start}}
+{{s-hou|[[Han Akhir (Lima Dinasti)|Wangsa Liu]] (947950)||895||948}}
+{{s-reg|}}
+{{s-bef|before=Tidak ada (dinasti didirikan)}}
+{{s-ttl|title=[[Han Akhir (Lima Dinasti)|Kaisar Han Akhir]]|years=947-948}}
+{{s-aft|after=[[Liu Chengyou]] (Kaisar Yin)|rows=4}}
+|-
+{{s-bef|before=[[Kaisar Taizong dari Liao]]}}
+{{s-ttl|title=[[Kaisar China]] (Shanxi Tengah)|years=947-948}}
+|-
+{{s-bef|before=[[Li Congyi]]}}
+{{s-ttl|title=[[Kaisar China]] (Kaifeng region)|years=947-948}}
+|-
+{{s-bef|before=[[Kaisar Shizong dari Liao]]}}
+{{s-ttl|title=[[Kaisar China]] (Tengah)|years=947-948}}
+{{s-end}}
+
+{{Penguasa Lima Dinasti dan Sepuluh Kerajaan}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Liu, Zhiyuan
+| ALTERNATIVE NAMES = Gaozu, Kaisar Han Akhir
+| SHORT DESCRIPTION = Penguasa Tiongkok
+| DATE OF BIRTH     = 895
+| PLACE OF BIRTH    =
+| DATE OF DEATH     = 948
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Liu, Zhiyuan}}
+[[Kategori:Kelahiran 895]]
+[[Kategori:Kematian 948]]

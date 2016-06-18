@@ -1,0 +1,20 @@
+Templat:Pandan, Tapanuli Tengah
+{{Navigasi ID Desa
+|provinsi=Sumatera Utara
+|dati2=Kabupaten
+|nama dati2=Tapanuli Tengah
+|nama kecamatan=Pandan
+|k1=Aek Sitiotio
+|k2=Aek Tolang
+|d1=Hajoran
+|k3=Kalangan
+|k4=Lubuk Tukko
+|k5=Pandan
+|k6=Sibuluan Indah
+|k7=Sibuluan Nauli
+|k8=Sibuluan Raya
+}}
+<noinclude>
+[[Kategori:Templat desa/kelurahan di Sumatera Utara|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Tapanuli Tengah|{{PAGENAME}}]]
+</noinclude>

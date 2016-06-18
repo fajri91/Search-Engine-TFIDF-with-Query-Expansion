@@ -1,0 +1,64 @@
+Wikipedia:Permohonan pendapat/Format kotak info dati2 dan provinsi
+==Kabupaten dan Kota==
+Ini usulan templat dati2 yang baru. Tidak ada nama variabel yang diubah, ditambah, atau dikurangi. Yang berubah mungkin dari segi penampilan, tata letak, dan beberapa istilah.
+* ''Motto'' diletakkan di atas dengan hidden structure
+* ''Dasar hukum'' dan ''tanggal'' dijadikan satu baris, dengan hidden structure
+* ''Ibu kota'' tetap hidden structure, digunakan untuk kabupaten
+
+{| border=1 align=right cellpadding=4 cellspacing=0 width=310 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 90%;"
+|+<big>'''{{{nama}}}'''</big>
+|- 
+| style=background:#efefef; align=center colspan=2 | {{{lambang}}} {{br}} <small>Lambang daerah {{{nama}}}<small>
+|- border: 1px #aaaaaa solid; 
+| align=center colspan=2 style=border-bottom:3px solid gray; | 
+<small>Motto: {{{motto}}}</small>
+|- 
+| align=center colspan=2 | {{{peta}}} {{br}} <small>Peta lokasi {{{nama}}}</small>
+|- 
+| [[Provinsi]]
+| {{{propinsi}}}
+|- 
+| [[Ibu kota]]
+| {{{ibukota}}}
+|-
+| [[Wilayah|Luas Wilayah]]
+| {{{luas}}}
+|- 
+| [[Sistem koordinat geografi|Koordinat]]
+| {{{koordinat}}}
+|- 
+| [[Penduduk]] {{br}}&nbsp;- Total {{br}}&nbsp;- Kepadatan 
+| &nbsp; {{br}}  {{{penduduk}}} {{br}} {{{kepadatan}}} jiwa/km 
+|- 
+| Pembagian wilayah {{br}}&nbsp;- [[Kecamatan]] {{br}}&nbsp;- [[Desa]]/[[kelurahan]] 
+| &nbsp; {{br}}  {{{kecamatan}}} {{br}} {{{kelurahan}}}
+|- 
+| Dasar hukum
+|  {{{dasar hukum}}} ({{{tanggal}}})
+|- 
+| {{{kepala daerah}}}
+| {{{nama kepala daerah}}} 
+|- 
+| [[Daftar kode telepon di Indonesia|Kode telepon]]
+| {{{kode area}}}
+|- 
+| [[Dana Alokasi Umum|DAU]]
+| {{{dau}}}
+|- 
+| style=background:#efefef; align=center colspan=2 | 
+<small> Situs web resmi: {{{web}}}</small>
+|}
+
+
+<!--
+==Provinsi==
+Kotak info provinsi menyesuaikan dengan perubahan pada dati2. 
+* ''Motto'' diletakkan di atas dengan hidden structure
+* Istilah ''tanggal penting'' dikembalikan ke ''tanggal'' (agar sinkron dengan dati2)
+* Item ''kepadatan'' bukan lagi hidden structure (dapat dihitung dengan cara membagi jumlah penduduk dengan luas wilayah)
+* ''Dasar hukum'' dan ''tanggal'' dijadikan satu baris, dengan hidden structure
+* Item ''kecamatan'' dan ''kelurahan/desa'' dihilangkan, agar lebih sederhana (provinsi terdiri atas kabupaten dan kota); dan mengingat data terbaru sulit didapat.
+-->
+
+----
+Jika dasar hukum, tanggal dan motto di jadikan opsional maka pembaca tidak akan menyadari informasi-informasi tersebut blm ada sehingga tidak ada kemungkinan lagi akan tergugah untuk melengkapinya. (catatan sekarang ini parameter motto dijadikan opsional tanpa konsensus, jadi akan saya kembalikan ke revisi sebelumnya - motto dimunculkan) [[Pengguna:Borgx|<font face="Copperplate Gothic Bold" color="#1F85FF">borgx</font>]]<sup>([[Pembicaraan Pengguna:Borgx|<font color="#003366">kirim pesan</font>]])</sup> 09:43, 31 Maret 2006 (UTC)

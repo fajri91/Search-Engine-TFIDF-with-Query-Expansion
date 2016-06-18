@@ -1,0 +1,21 @@
+Templat:Patangkep Tutui, Barito Timur
+{{Navigasi ID Desa 
+|provinsi=Kalimantan Tengah
+|dati2=Kabupaten
+|nama dati2=Barito Timur
+|nama kecamatan=Patangkep Tutui
+|d1= Ampari Bora
+|d2= Bentot
+|d3= Betang Nalong
+|d4= Jango
+|d5= Lalap
+|d6= Kambitin
+|d7= Kotam
+|d8= Mawani
+|d9= Pulau Padang
+|d10= Ramania
+}}
+<noinclude>
+[[Kategori:Templat desa/kelurahan di Kalimantan Tengah|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Barito Timur|{{PAGENAME}}]]
+</noinclude>

@@ -1,0 +1,139 @@
+Asam alkanoat
+[[Berkas:alkanoat.png|right|frame|Rumus bangun umum asam alkanoat. R (radikal) dapat berupa gugus fungsional lain]]
+[[Berkas:Carboxylate-resonance-hybrid.png|thumb|150px|Ion karboksilat]]
+[[Berkas:Carboxylic-acid-group-3D.png|thumb|150px|Struktur 3D dari gugus karboksil]]
+
+'''Asam alkanoat''' (atau '''asam karboksilat''') adalah golongan [[asam organik]] [[alifatik]] yang memiliki [[gugus fungsional|gugus]] [[karboksil]] (biasa dilambangkan dengan -COOH). Semua [[asam]] alkanoat adalah [[asam lemah]]. Dalam [[pelarut]] [[air]], sebagian molekulnya terionisasi dengan melepas [[atom]] [[hidrogen]] menjadi [[ion]] H<sup>+</sup>.
+
+Asam karboksilat dapat memiliki lebih dari satu gugus fungsional. Asam karboksilat yang memiliki dua gugus karboksil disebut asam ''dikarboksilat'' (''alkandioat''), jika tiga disebut asam ''trikarboksilat'' (''alkantrioat''), dan seterusnya.
+
+Asam karboksilat dengan banyak atom karbon (berantai banyak) lebih umum disebut sebagai [[asam lemak]] karena sifat-sifat fisiknya.
+
+==Sifat fisis==
+
+===Kelarutan===
+[[Image:Carboxylic acid dimers.png|thumb|right|[[Dimer (kimia)|Dimer]] asam karboksilat]]
+Asam karboksilat bersifat [[kepolaran (kimia)|polar]]. Asam karboksilat rantai kecil (1 sampai 5 karbon) dapat larut dalam air, sedangkan pada rantai yang lebih panjang semakin kurang larut karena sifat hidrofobik dari rantai alkil. Asam karboksilat untuk rantai yang lebih panjang cenderung larut pada pelarut yang kurang polar seperti eter dan alkohol.<ref name=M&B>R.T. Morrison, R.N. Boyd. ''Organic Chemistry'', 6th Ed. (1992) ISBN 0-13-643669-2.</ref>
+
+===Titik didih===
+Asam karboksilat cenderung memiliki titik didih yang lebih tinggi daripada air. Hal ini disebabkan oleh luas permukaannya yang besar serta kecenderungan molekulnya membentuk dimer yang stabil. 
+
+===Keasaman===
+Asam karboksilat termasuk dalam kelompok [[asam lemah]], yang artinya hanya [[disosiasi (kimia)|terdisosiasi]] sebagian menjadi [[kation]] H<sup>+</sup> dan [[anion]] RCOO<sup></sup> dalam larutan. Sebagai contoh, pada suhu ruangan, 1 [[molaritas|molar]] [[asam asetat]] hanya terdisosiasi 0,4% saja. Adanya substituen elektronegatif (seperti halogen) menambah sifat keasaman.
+{|class = "wikitable"
+! Asam karboksilat<ref>{{cite book|editor= Haynes, William M.|year = 2011|title = [[CRC Handbook of Chemistry and Physics]]|edition = 92nd|publisher = [[CRC Press]]|isbn = 1439855110|pages=594 to 598}}</ref>
+! [[Konstanta disosiasi asam|pKa]]
+|-
+|[[Asam format]] (HCOOH) || 3.75
+|-
+|[[Asam asetat]] (CH<sub>3</sub>COO</sub>H)|| 4.76
+|-
+|[[Asam kloroasetat]] (CH<sub>2</sub>ClCO<sub>2</sub>H)|| 2.86
+|-
+|[[Asam dikloroasetat]] (CHCl<sub>2</sub>CO<sub>2</sub>H)|| 1.29
+|-
+|[[Asam trikloroasetat]] (CCl<sub>3</sub>CO<sub>2</sub>H)|| 0.65
+|-
+|[[Asam trifluoroasetat]] (CF<sub>3</sub>CO<sub>2</sub>H)|| 0.5
+|-
+|[[Asam oksalat]] (HO<sub>2</sub>CCO<sub>2</sub>H)|| 1.27
+|-
+|[[Asam benzoat]] (C<sub>6</sub>H<sub>5</sub>CO<sub>2</sub>H)||4.2
+|}
+
+===Bau===
+Asam karboksilat memiliki bau yang menyengat. Yang paling umum adalah asam asetat pada cuka dan asam butanoat pada mentega tengik. Di sisi lain, ester dari asam karboksilat memiliki bau yang harum dan banyak digunakan untuk [[parfum]].
+
+==Sintesis==
+
+===Dalam industri===
+Sintesis asam karboksilat pada skala industri berbeda dengan sintesis untuk laboratorium karena membutuhkan peralatan khusus.
+*Oksidasi aldehida dengan udara dengan bantuan katalis kobalt dan mangan. [[Aldehida]] dapat diperoleh dari [[alkena]] dengan [[hidroformilasi]]
+*Oksidasi hidrokarbon dengan udara. Gugus alkil pada benzena teroksidasi menjadi asam karboksilat. [[Asam benzoat]] dari [[toluena]] dan [[asam tereftalat]] dari para-[[xilena]], serta [[asam ftalat]] dari orto-[[xilena]] merupakan beberapa contoh konversi skala besar. [[Asam akrilat]] dihasilkan dari propena.<ref>Wilhelm Riemenschneider Carboxylic Acids, Aliphatic in Ullmann's Encyclopedia of Industrial Chemistry, 2002, Wiley-VCH, Weinheim. {{DOI| 10.1002/14356007.a05_235}}.</ref>
+*Dehidrogenasi alkohol dengan bantuan katalis basa.
+*Karbonilasi. Metode ini efektif digunakan pada alkena yang menghasilkan [[karbokation]] sekunder dan tersier, contohnya [[isobutilena]] menjadi [[asam pivalat]]. Pada [[Reaksi Koch]], penambahan air dan karbon monoksida pada alkena dibantu katalis asam kuat. Asam asetat dan asam format didapatkan dari [[karbonilasi]] metanol, dengan bantuan iodida dan alkoksida.
+*Beberapa asam karboksilat rantai panjang didapatkan dari hidrolisis [[trigliserida]].
+*[[Fermentasi (biokimia)|fermentasi]] etanol digunakan dalam pembuatan [[cuka]].
+
+===Dalam laboratorium===
+Metode sintesis dalam skala kecil untuk penelitian terkadang menggunakan reagen mahal.
+*[[Oksidasi alkobol primer menjadi asam karboksilat|oksidasi alkohol primer]] atau [[aldehida]] dengan [[agen pengoksidasi|oksidan]] kuat seperti [[kalium dikromat]], [[reagen Jones]], [[kalium permanganat]], atau [[natrium klorit]]. 
+* Pembelahan oksidatif [[olefin]] dengan [[ozonolisis]], [[kalium permanganat]], atau [[kalium dikromat]].
+*Asam karboksilat juga dapat diperoleh dari hidrolisis [[nitril]], [[ester]], atau [[amida]], dengan bantuan katalis asam atau basa.
+*Karbonasi [[reagen Grignard]] dan [[organolitium]]:
+:RLi + CO<sub>2</sub>  RCO<sub>2</sub>Li
+:RCO<sub>2</sub>Li + HCl   RCO<sub>2</sub>H + LiCl
+* Halogenasi diikuti hidrolisis metil keton pada [[reaksi haloform]]
+*[[Reaksi Kolbe-Schmitt]] untuk membuat [[asam salisilat]], bahan utama [[aspirin]].
+
+== Penamaan dan contoh senyawa ==
+Nama-nama asam karboksilat dapat dilihat pada tabel di bawah ini. Meskipun jarang digunakan, tapi nama [[IUPAC]] juga tetap ada. Misalnya, nama [[IUPAC]] untuk [[asam butirat]](C<sub>3</sub>H<sub>7</sub>CO<sub>2</sub>H) adalah asam butanoat.<ref>Organic Chemistry IUPAC Nomenclature. Rules C-4 Carboxylic Acids and Their Derivatives. http://www.acdlabs.com/iupac/nomenclature/79/r79_24.htm</ref>
+
+[[karboksilat|Anion karboksilat]] R-COO<sup></sup> biasanya dinamai dengan akhiran ''-at'', jadi asam asetat, misalnya, menjadi ion asetat. Dalam [[tatanama IUPAC]], asam karboksilat mempunyai akhiran ''-oat'' (contoh asam oktadekanoat). Dalam tatanama derifat, akhirannya adalah ''-at'' saja (contoh [[asam stearat]]).
+
+{|class = "wikitable"
+|+Rantai lurus, asam karboksilat tersaturasi
+!Atom karbon
+!Nama derifat
+!Nama IUPAC
+!Rumus molekul
+!Biasanya terdapat pada
+|-
+|1 || [[Asam format]] || Asam metanoat || HCOOH || Gigitan serangga
+|-
+|2 || [[Asam asetat]] || Asam etanoat || CH<sub>3</sub>COOH || [[Cuka]]
+|-
+|3 || [[Asam propionat]] || Asam propanoat || CH<sub>3</sub>CH<sub>2</sub>COOH || Pengawet pada gandum
+|-
+|4 || [[Asam butirat]] || Asam butanoat
+| CH<sub>3</sub>(CH<sub>2</sub>)<sub>2</sub>COOH || Mentega basi
+|-
+|5 || [[Asam valerat]] || Asam pentanoat
+| CH<sub>3</sub>(CH<sub>2</sub>)<sub>3</sub>COOH || [[Valerian (herb)|Valerian]]
+|-
+|6 || Asam kaproat || [[Asam heksanoat]]
+| CH<sub>3</sub>(CH<sub>2</sub>)<sub>4</sub>COOH || Lemak kambing
+|-
+|7 || Asam enantoat || [[Asam heptanoat]]
+| CH<sub>3</sub>(CH<sub>2</sub>)<sub>5</sub>COOH ||
+|-
+|8 || [[Asam kaprilat]] || Asam oktanoat
+| CH<sub>3</sub>(CH<sub>2</sub>)<sub>6</sub>COOH || Kelapa dan air susu ibu
+|-
+|9 || Asam pelargonoat || [[Asam nonanoat]]
+| CH<sub>3</sub>(CH<sub>2</sub>)<sub>7</sub>COOH || [[Pelargonium]]
+|-
+|10 || Asam kaprat || [[Asam dekanoat]]
+| CH<sub>3</sub>(CH<sub>2</sub>)<sub>8</sub>COOH ||
+|-
+|12 || [[Asam laurat]] || Asam dodekanoat
+| CH<sub>3</sub>(CH<sub>2</sub>)<sub>10</sub>COOH || Minyak kelapa dan sabun cuci tangan.
+|-
+|14 || [[Asam miristat]] || Asam tetradekanoat
+| CH<sub>3</sub>(CH<sub>2</sub>)<sub>12</sub>COOH || Pala
+|-
+|16 || [[Asam palmitat]] || Asam heksadekanoat
+| CH<sub>3</sub>(CH<sub>2</sub>)<sub>14</sub>COOH || Minyak palem
+|-
+|18 || [[Asam stearat]] || Asam oktadekanoat
+| CH<sub>3</sub>(CH<sub>2</sub>)<sub>16</sub>COOH || Coklat, wax, sabun, dan minyak
+|-
+|20 || [[Asam arakidat]] || Asam ikosanoat
+| CH<sub>3</sub>(CH<sub>2</sub>)<sub>18</sub>COOH || Peanut oil
+|}
+
+== Lihat pula ==
+* [[Turunan asam karboksilat]]
+
+== Referensi ==
+{{reflist}}
+
+== Pranala luar ==
+
+{{Commonscat|Carboxylic acids}}
+
+{{Templat:Gugus_fungsi}}
+{{DEFAULTSORT:Alkanoat}}
+{{Biokimia-stub}}
+
+[[Kategori:Asam organik|lemak n alkanoat]]

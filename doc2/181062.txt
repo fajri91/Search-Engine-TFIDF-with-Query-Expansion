@@ -1,0 +1,15 @@
+Templat:Country data Sudan Selatan
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Sudan Selatan
+| flag alias = Flag of South Sudan.svg
+| size = {{{size|}}}
+| name = {{{name|}}}
+<noinclude>
+| redir1 = South Sudan
+| redir2 = Southern Sudan
+| related1 = Sudan
+</noinclude>
+}}<noinclude>
+[[en:Template:Country data Southern Sudan]]
+[[ja:Template:Country data Southern Sudan]]
+</noinclude>

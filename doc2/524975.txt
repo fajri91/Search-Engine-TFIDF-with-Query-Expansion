@@ -1,0 +1,60 @@
+Bandar Udara Internasional U-Tapao
+{{Infobox Airport
+| name         = Bandar Udara Internasional U-Tapao-Rayong-Pattaya
+[[Image:Naval_Jack_of_Thailand.svg|60px|]]
+| nativename   = 
+| image        = U-Tapao International Airport ATC Tower.jpg
+| IATA         = UTP
+| ICAO         = VTBU
+<center>{{Location map|Thailand|width=200|float=center
+|caption=|mark=Airplane_silhouette.svg|marksize=10
+|label=UTP|position=right
+|lat_deg=12|lat_min=40|lat_sec=47|lat_dir=N
+|lon_deg=101|lon_min=00|lon_sec=18|lon_dir=E
+}}<small>Lokasi bandar udara di Thailand</small></center>
+| type         = Publik/Militer
+| owner        = 
+| operator     = Pemerintah
+| city-served  = [[Rayong]], [[Thailand]]
+| location     = 
+| elevation-f  = 42
+| elevation-m  = 13
+| coordinates  = {{coord|12|40|47|N|101|00|18|E|type:airport_region:TH|display=inline, title}}
+| website      = 
+| metric-rwy   = y
+| r1-number    = 18/36
+| r1-length-m  = 3,505
+| r1-length-f  = 11,500
+| r1-surface   = [[Aspal]]
+| footnotes    = Sumber: [[DAFIF]]<ref name=WAD>{{WAD|VTBU|source=[[DAFIF]]}}</ref><ref name=GCM>{{GCM|UTP|source=[[DAFIF]]}}</ref>
+}}
+'''Bandar Udara Internasional U-Tapao-Rayong-Pattaya''' {{airport codes|UTP|VTBU}} ({{lang-th|}}), juga dieja '''Utapao''' dan '''U-Taphao''' adalah [[bandar udara]] gabungan sipil dan militer yang melayani [[Rayong]] dan [[Pattaya]], kota-kota di [[Thailand]]. Bandar udara ini berjarak kira-kira {{convert|90|mi|km}} di tenggara [[Bangkok]], di dekat [[Sattahip]] di [[Teluk Siam]]. Bandar udara ini berlokasi di selatan rute 3 (Thanon Sukhumvit) pada km 189, kira-kira 45 menit berkendara dair [[Pattaya]] (resor pantai paling populer di Thailand).
+
+==Maskapai penerbangan dan tujuan==
+{{Airport-dest-list
+|[[Bangkok Airways]] | Ko Samui, Phuket
+|[[China Airlines]] | '''Sewaan''': Kaohsiung, Taipei-Taoyuan
+|[[China Southern Airlines]] | '''Sewaan''': Guangzhou 
+|[[China Eastern Airlines]] | '''Sewaan''': Shanghai-Pudong 
+|[[Japan Airlines]] | '''Sewaan''': Osaka-Kansai, Tokyo-Narita 
+|[[Dragonair]] | '''Sewaan''': Hong Kong 
+|[[Korean Air]] | '''Sewaan''': Busan, Seoul-Incheon
+|[[Solar Air]] | Hua hin 
+|[[Tonlesap Airlines]] | Siem Reap<ref>http://www.tonlesapairlines.com/news11.html</ref>
+|[[UTair Aviation]] | '''sewaan''': Novosibirsk, Omsk, Rostov-on-Don
+|[[SCAT (maskapai penerbangan)|SCAT Airlines]] | '''sewaan''': Almaty, Astana
+}}
+
+==Referensi==
+{{reflist}}
+
+==Pranala luar==
+* [http://www.utapao.com U-Tapao International Airport] (official site)
+* [http://www.thaiflyingclub.com/linkairportutaphao.html U-Taphao Airport] (thaiflyingclub.com)
+* {{NWS-current|VTBU}}
+* {{ASN|UTP}}
+
+{{Bandar Udara Thailand}}
+{{DEFAULTSORT:U-Tapao, bandar udara internasional}}
+
+[[Kategori:Bandar udara di Thailand]]

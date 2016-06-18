@@ -1,0 +1,35 @@
+Aelurillus lutosus
+{{Taxobox
+|name = Aelurillus lutosus
+|status = 
+|image = 
+|image_caption = 
+|domain = 
+|regnum = [[Animalia]]
+|phylum = [[Arthropoda]]
+|classis = [[Arachnida]]
+|ordo = [[Araneae]]
+|familia = [[Salticidae]]
+|genus =Aelurillus
+|species = Aelurillus lutosus
+|binomial = Aelurillus lutosus
+|binomial_authority =Tyschchenko, 1965
+|range_map = 
+|range_map_caption = 
+|image2 = 
+|image2_caption = 
+|synonyms = 
+}}
+'''''Aelurillus lutosus''''' adalah spesies [[laba-laba]] yang tergolong [[familia]] [[Salticidae]]. Spesies ini juga merupakan bagian dari genus [[Aelurillus]] dan ordo [[Araneae]]. Nama ilmiah dari spesies ini pertama kali diterbitkan pada tahun 1965 oleh Tyschchenko.
+
+Laba-laba ini biasanya banyak ditemui di Kazakhstan, Kirgizstan.
+
+== Referensi ==
+
+* Platnick, Norman I. (2010): [http://research.amnh.org/entomology/spiders/catalog/Salticidae.html The world spider catalog], version 10.5. ''American Museum of Natural History''.
+
+{{DEFAULTSORT:Aelurillus lutosus}}
+
+[[Kategori:Aelurillus|L]]
+
+{{labalaba-stub}}

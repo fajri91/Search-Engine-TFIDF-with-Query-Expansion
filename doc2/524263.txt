@@ -1,0 +1,59 @@
+Bandar Udara Internasional Sulaimaniyah
+{{Infobox Airport 
+| name         = Bandar Udara Internasional Sulaimaniyah
+| nativename   = Firokaxaney Nawdewlet Silman
+| nativename-a =    
+| image        = Sulaymaniyah_Airport.jpg
+| image-width  = 200
+| image2       =
+| image2-width = 200
+| IATA         = ISU
+| ICAO         = ORSU
+<center>{{Location map|Iraq|width=200|float=center
+|caption=|mark=Airplane_silhouette.svg|marksize=10
+|label=ISU|position=right
+|lat_deg=35|lat_min=33|lat_sec=39|lat_dir=N
+|lon_deg=45|lon_min=18|lon_sec=52|lon_dir=E
+}}<small>Lokasi bandar udara di Irak</small></center>
+| type         = Sulaimaniyah
+| owner        = 
+| operator     = [[Iraqi Kurdistan|Pemerintah Regional Kurdistan]]
+| city-served  = [[Sulaymaniyah]]
+| location     = [[Sulaymaniyah]], [[Irak]]
+| elevation-f  = 760
+| elevation-m  = 
+| coordinates  = {{coord|35|33|39|N|45|18|52|E|type:airport}}
+| website      = [http://www.sul-airport.com www.sul-airport.com]
+| metric-rwy   = y
+| r1-number    = 13/31
+| r1-length-f  = 11,667
+| r1-length-m  = 3,500
+| r1-surface   = [[Konsentrat]]
+| footnotes    = 
+| Internet     = 
+}}
+'''Bandar Udara Internasional Sulaimaniyah''' {{Airport codes|ISU|ORSU}} ({{lang-ar|  }}) adalah [[bandar udara]] yang berlokasi lima belas kilometer di luar kota [[Sulaimaniyah]], di [[Iraqi Kurdistan|wilayah Kurdistan]] di [[Irak]]. 
+
+==Maskapai penerbangan dan tujuan==
+{{Airport-dest-list
+|[[Al-Naser Airlines]]|Malm, Stockholm-Arlanda
+|[[Atlasjet]]| Istanbul-Atatrk
+|[[Cyprus Airways]]| Larnaca
+|[[Flydubai]]|Dubai
+|[[Germania (maskapai penerbangan)|Germania]]|Dsseldorf
+|[[Hermes Airlines]]  |[[Bandar Udara Stockholm Arlanda|Stockholm]], [[Bandar Udara Manchester|Manchester]]
+|[[Iran Aseman Airlines]]|Tehran, Kirmashan, Sanandaj
+|[[Iraqi Airways]]|Erbil, Baghdad, Damascus, Beirut, Najaf
+|[[Med Airways]]|Beirut
+|[[Royal Jordanian]]|Amman-Queen Alia
+|[[Turkish Airlines]]|Istanbul-Ataturk
+}}
+
+==Pranala luar==
+* {{Official|http://www.sulairport.net/}}
+* {{WAD|ORSU|source=[[DAFIF]]}}
+* {{GCM|ISU|source=DAFIF}}
+* {{ASN|ISU}}
+{{bandara-asia-stub}}
+
+[[Kategori:Bandar udara di Irak]]

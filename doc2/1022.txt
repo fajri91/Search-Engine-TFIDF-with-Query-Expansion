@@ -1,0 +1,504 @@
+Bill Gates
+{{Infobox person
+|name = Bill Gates
+|image = Bill Gates in WEF ,2007.jpg
+|caption = Bill Gates di [[Forum Ekonomi Dunia]] Davos pada tahun 2007.
+|birth_date = {{birth date and age|mf=yes|1955|10|28}}
+|birth_place = [[Seattle]], [[Washington (negara bagian)|Washington]], Amerika Serikat
+|birth_name = William Henry Gates III
+|occupation = Ketua [[Microsoft]]<br />Ketua [[Corbis]]<br />Ketua Pendamping [[Bill & Melinda Gates Foundation]]<br />Direktur [[Berkshire Hathaway]]<br />CEO [[Cascade Investment]]
+|years_active = 1975sekarang
+|nationality = Amerika Serikat
+|net_worth = {{gain}} US$79 [[1.000.000.000 (angka)|miliar]] (2015){{sfn|Forbes: Bill Gates Topic Page}}
+|religion = [[Katolik Roma]], sebelumnya [[Kongregasionalisme]]<ref>{{cite web |url = http://www.rollingstone.com/culture/news/bill-gates-the-rolling-stone-interview-20140313?print=true |title = Bill Gates: The Rolling Stone Interview |date = 2014-03-13 |first = Jeff |last = Goodell |work = Rolling Stone }}</ref>
+|spouse = {{marriage|[[Melinda Gates]]|1994}}
+|children = 3
+|residence = [[Medina, Washington|Medina]], Washington, Amerika Serikat
+|alma_mater = [[Universitas Harvard]] (keluar)
+|website = [http://www.microsoft.com/presspass/exec/billg/bio.mspx Bill Gates]
+|signature = BillGates Signature.svg
+|parents = [[William H. Gates, Sr.]]<br />[[Mary Maxwell Gates]]
+}}
+
+'''William Henry''' "'''Bill'''" '''Gates III''' ({{lahirmati|[[Seattle]], [[Washington]]|28|10|1955}}) adalah seorang [[tokoh bisnis]], [[investor]], filantropis, penulis asal Amerika Serikat, serta mantan CEO yang saat ini menjabat sebagai ketua [[Microsoft]], perusahaan perangkat lunak yang ia dirikan bersama [[Paul Allen]].{{sfn|Manes|1994|p=11}} Ia menduduki peringkat tetap di antara [[daftar miliarder Forbes|orang-orang terkaya di dunia]] dan menempati peringkat pertama sejak 1995 hingga 2009, tidak termasuk 2008 ketika ia turun ke peringkat tiga.
+
+Gates termasuk salah seorang pengusaha revolusi komputer pribadi terkenal di dunia. Meski demikian, [[Kritik terhadap Microsoft|taktik bisnisnya dikritik]] karena dianggap anti-kompetitif.{{sfn|Manes|1994|p=459}}{{sfn|Leninski|2006|P=96}} Pada tahap-tahap akhir kariernya, Gates melakukan beberapa usaha filantropi dengan menyumbangkan sejumlah besar dana ke berbagai organisasi amal dan program penelitian ilmiah melalui [[Bill & Melinda Gates Foundation]] yang didirikan tahun 2000.
+
+Gates mengundurkan diri dari jabatannya sebagai pejabat eksekutif tertinggi Microsoft pada bulan Januari 2000. Ia masih menjabat sebagai ketua dan membentuk jabatan kepala arsitek perangkat lunak. Pada Juni 2006, Gates mengumumkan bahwa ia akan bekerja paruh waktu di Microsoft dan purna waktu di Bill & Melinda Gates Foundation. Ia melimpahkan secara bertahap semua pekerjaannya kepada [[Ray Ozzie]], kepala arsitek perangkat lunak, dan [[Craig Mundie]], pejabat riset dan strategi tertinggi Microsoft. Hari kerja purna waktu terakhir Gates di Microsoft adalah 27 Juni 2008. Saat ini, ia masih bekerja di Microsoft sebagai ketua non-eksekutif.
+
+== Kehidupan awal ==
+=== Perkenalan dengan komputer ===
+[[Berkas:William-H-Gates-Senior-New-Delhi-Hi-Res.jpg|250px|thumb|William H. Gates, ayah Bill Gates.]]
+Gates lahir di Seattle, Washington, dari pasangan [[William H. Gates, Sr.]] dan [[Mary Maxwell Gates]].{{sfn|Ancestry of Bill Gates}} Ia memiliki darah Inggris, [[bangsa Jerman|Jerman]], Skotlandia, dan Irlandia.{{sfn|Ancestry of Bill Gates}}{{sfn|Scottish Americans}} Keluarganya termasuk masyarakat menengah ke atas; ayahnya adalah pengacara ternama, ibunya menjabat sebagai anggota dewan direktur [[First Interstate BancSystem]] dan [[United Way of America|United Way]], dan ayahnya, J. W. Maxwell, adalah presiden [[bank nasional#Amerika Serikat|bank nasional]].{{sfn|Manes|1994|p=15}} Gates memiliki seorang kakak bernama Kristianne dan seorang adik bernama Libby. Ia merupakan keturunan keempat dalam keluarganya, namun dikenal sebagai William Gates III atau "Trey" karena ayahnya menyandang akhiran "II".{{sfn|Manes|1994|p=15}}
+
+Gates tertarik dengan komputer sejak saat ia masih berusia belia.{{sfn|Manes|1994|p=24}} Perkenalannya dengan komputer terjadi ketika ia berusia 13 tahun.{{sfn|Manes|1994|p=24}} Saat itu, Mothers Club di sekolahnya, [[Lakeside School]], membeli sebuah terminal Teletype Model 33 ASR dan beberapa komputer [[General Electric]] (GE) untuk para siswa.{{sfn|Manes|1994|p=27}} Melihat komputer tersebut, Gates tertarik dan mulai mempelajarinya.{{sfn|Manes|1994|p=27}} Ia tertarik dengan kemampuan mesin tersebut mengeksekusi kode perangkat lunak dengan sempurna dan menulis program komputer pertamanya di sini menggunakan bahasa pemrograman BASIC.{{sfn|Manes|1994|p=27}} Ketika ia mengenang kembali masa-masa itu, ia mengatakan, "Ada sesuatu yang pas dengan mesin tersebut."{{sfn|Gates|1996|p=12}}
+
+Dari sana, ia mempelajari sistem lain, termasuk sistem minikomputer [[Digital Equipment Corporation|DEC]] [[Programmed Data Processor|PDP]], khususnya [[PDP-10]] yang dimiliki oleh Computer Center Corporation (CCC).{{sfn|Manes|1994|p=34}} Penggunaan komputer PDP-10 ini dibatasi waktu.{{sfn|Manes|1994|p=34}} Gates bersama beberapa temannya seperti Paul Allen, Ric Welland, dan Kent Evans, memutuskan untuk mengeksploitasi sebuah bug pada [[sistem operasi]] untuk memperoleh waktu tambahan penggunaan komputer.{{sfn|Manes|1994|p=34}} Namun mereka tertangkap tangan dan akhirnya dilarang oleh CCC untuk mengakses sistem itu selama musim panas.{{sfn|Manes|1994|p=34}}
+
+=== Mempelajari bahasa pemrograman ===
+[[Berkas:Traf-O-Data Computer.jpg|thumb|250px|right|Komputer Traf-O-Data 8008 dengan pembaca pita]]
+Menjelang akhir masa hukuman, keempatnya malah ditawarkan untuk menemukan bug lain di perangkat lunak CCC dengan imbalan waktu tambahan untuk penggunaan komputer. Di kantor CCC inilah Gates mempelajari [[kode sumber]] berbagai program, termasuk program yang ditulis dalam bahasa [[FORTRAN]] dan [[LISP]]. Ia dan kawannya bekerja di sana hingga tahun 1970 ketika CCC ditutup karena bangkrut.
+
+Pada tahun berikutnya, Information Sciences, Inc. mempekerjakan empat siswa Lakeside tersebut untuk menulis program pembayaran gaji dalam bahasa [[COBOL]] dan memberikan royalti untuk penjualan program tersebut sebagai tambahan hak akses ke komputer perusahaan. Gates juga mendapat pekerjaan tambahan ketika sekolah memintanya untuk membuat program pengatur jadwal kelas siswa. Gates memanfaatkan ini dengan mengubah sebagian program agar ia ditempatkan di kelas yang didominasi perempuan.{{sfn|Gates|1996|p=12}} Pada usia 17 tahun, Gates dan Allen mendirikan [[Traf-O-Data]] yang fokus pada sistem penghitung lalu lintas yang berbasis prosesor [[Intel 8008]].{{sfn|Gates|1996|p=14}}
+
+Gates lulus dari Lakeside School pada tahun 1973. Setelah itu ia mengambil tes [[SAT]] dan mendapatkan skor yang sangat tinggi, yaitu 1590 dari 1600.{{sfn|The newand improved?SAT}} Dengan nilai itu, ia diterima di [[Harvard College]] di mana ia bertemu dengan [[Steve Ballmer]] yang kelak menggantikan Gates sebagai CEO Microsoft. Pada tahun keduanya di Harvard, Gates merancang sebuah algoritma untuk [[penyortiran panekuk]] sebagai solusi atas satu dari serangkaian masalah yang belum terpecahkan dalam kelas [[kombinatorika]] oleh [[Harry R. Lewis|Harry Lewis]], salah seorang profesornya.{{sfn|Before Microsoft, Gates Solved A Pancake Problem}} Solusi Gates memegang rekor sebagai versi tercepat selama 30 tahun; penggantinya justru lebih cepat satu persen saja.{{sfn|Before Microsoft, Gates Solved A Pancake Problem}} Solusinya kemudian diresmikan dalam bentuk cetakan bekerja sama dengan ilmuwan komputer Harvard, [[Christos Papadimitriou]].{{sfn|Gates dan Papadimitriou|1979}}
+
+Gates tidak punya rencana belajar tetap ketika menjadi mahasiswa di Harvard<ref name = "lmxgxg">{{harv|Gates|1996|p=19}}</ref> dan menghabiskan banyak waktunya dengan menggunakan komputer sekolah. Gates masih berkomunikasi dengan Paul Allen, dan ia bergabung dengannya di Honeywell pada musim panas 1974.<ref>{{harv|Wallace|1993|59}}</ref> Pada tahun berikutnya, [[MITS Altair 8800]] berbasis [[Intel 8080|CPU Intel 8080]] diluncurkan, dan Gates dan Allen melihat peluncurannya sebagai kesempatan untuk mendirikan perusahaan perangkat lunak komputer sendiri.<ref>{{harv|Gates|1996|p=18}}</ref> Ia telah membicarakan keputusan ini bersama orang tuanya yang sangat mendukungnya setelah mereka melihat antusiasme Gates untuk mendirikan perusahaan.<ref name = "lmxgxg"/>
+
+== Microsoft ==
+{{Main|Sejarah Microsoft|Microsoft}}
+
+=== BASIC ===
+[[Berkas:Altair 8800 Computer.jpg|thumb|250px|right|MITS Altair 8800 Computer dengan sistem cakram flopi {{Convert|8|in|mm|adj=on}}]]
+Setelah membaca majalah ''[[Popular Electronics]]'' edisi Januari 1975 yang mendemonstrasikan [[Altair 8800]], Gates menghubungi [[Micro Instrumentation and Telemetry Systems]] (MITS), pencipta mikrokomputer baru tersebut, dan menginformasikan bahwa ia dan teman-temannya sedang mengerjakan penerjemah [[BASIC]] untuk digunakan sebagai platformnya.{{sfn|Key Events in Microsoft History}} Kenyataannya, Gates dan Allen tidak memiliki komputer Altair dan belum menulis sebarispun kode BASIC; mereka hanya ingin membuat MITS tertarik.{{sfn|Key Events in Microsoft History}}
+
+Menanggapi informasi tersebut, Presiden MITS [[Ed Roberts (teknisi komputer)|Ed Roberts]] setuju menemui mereka untuk melihat demonya. Dalam kurun beberapa minggu, mereka mengembangkan [[emulator]] Altair yang beroperasi di sebuah minikomputer dan kemudian penerjemah BASIC.{{sfn|Microsoft History}} Demonstrasi yang diadakan di kantor MITS di Albuquerque tersebut berhasil dan menghasilkan kesepakatan dengan MITS untuk mendistribusikan penerjemah ini dengan nama [[Altair BASIC]].{{sfn|Microsoft History}}
+
+Untuk keperluan proyek ini, Paul Allen dipekerjakan di MITS.{{sfn|Microsoft History}} Gates kemudian memutuskan untuk absen dari Harvard untuk bekerja bersama Allen pada November 1975.{{sfn|Microsoft History}} Mereka membuat perusahaan kemitraan dan memberinya nama "Micro-Soft" dengan kantor pertamanya di Albuquerque.{{sfn|Microsoft History}} Satu tahun berikutnya, tanda penghubung pada nama "Micro-soft" dihapus dan pada 26 November 1976, nama dagang "Microsoft" didaftarkan di Kementerian Luar Negeri New Mexico.{{sfn|Microsoft History}} Gates tidak pernah kembali ke Harvard untuk menyelesaikan studinya.{{sfn|Microsoft History}}
+
+Saat BASIC Microsoft dikenal secara luas oleh para penggemar komputer, Gates menemukan bahwa salinan pra-pasarnya telah bocor ke masyarakat dan didistribusikan secara meluas.{{sfn|Manes|1994}} Pada Februari 1976, Gates menulis "[[Open Letter to Hobbyists]]" di surat berita MITS yang menyatakan bahwa MITS tidak boleh memproduksi, mendistribusikan, dan mempertahankan perangkat lunak berkualitas tinggi tanpa membayarnya.{{sfn|Manes|1994}} Surat ini disambut dingin oleh banyak penggemar komputer, namun Gates mempertahankan keyakinannya bahwa para pengembang perangkat lunak harus mampu meminta bayaran.{{sfn|Manes|1994}}
+
+Microsoft terbebas dari MITS pada akhir 1976 dan terus mengembangkan perangkat lunak bahasa pemrograman untuk berbagai sistem.{{sfn|Microsoft History}} Pada 1 Januari 1979, Gates memindahkan kantor pusat Microsoft dari Albuquerque ke [[Bellevue, Washington|Bellevue]], Washington.{{sfn|Microsoft History}} Pada tahun-tahun awal Microsoft, semua karyawan punya tanggung jawab besar atas bisnis perusahaan. Gates mengawasi rincian bisnis dan juga menulis kode.{{sfn|Remarks by Bill Gates|2005}} Pada lima tahun pertama, Gates secara pribadi meninjau setiap baris kode yang dikirimkan perusahaan, dan sering menulis ulang beberapa bagian kode agar terlihat pas.{{sfn|Remarks by Bill Gates|2005}}
+
+=== Kemitraan dengan IBM ===
+Pada tahun 1980, [[IBM]] membujuk Microsoft untuk menulis penerjemah BASIC untuk komputer pribadi mereka selanjutnya, [[IBM PC]].{{sfn|Gates|1996}} Ketika perwakilan IBM menyebutkan bahwa mereka butuh sebuah sistem operasi, Gates memberi rujukan kepada [[Digital Reserach]] (DRI), pembuat sistem operasi [[CP/M]] yang banyak digunakan pada masa itu.{{sfn|Gates|1996}} Namun, diskusi IBM dengan Digital Research tidak membuahkan hasil, dan mereka tidak mencapai persetujuan lisensi.{{sfn|Gates|1996}} Perwakilan IBM Jack Sams menyebutkan masalah tersebut pada pertemuan selanjutnya dengan Gates dan memintanya untuk mencari sebuah sistem operasi yang layak.{{sfn|Gates|1996}} Beberapa minggu kemudian Gates berencana menggunakan [[86-DOS]] (QDOS), sebuah sistem operasi mirip CP/M yang dibuatkan perangkat lunaknya oleh [[Tim Paterson]] dari [[Seattle Computer Products]] (SCP), sama seperti PC.{{sfn|Gates|1996}} Microsoft membuat persetujuan dengan SCP untuk menjadi agen lisensi eksekutif, dan di kemudian hari sebagai pemilik mutlak 86-DOS.{{sfn|Gates|1996}}
+
+Setelah mengadaptasi sistem operasi untuk PC, Microsoft mengirimkannya ke IBM dalam bentuk [[IBM PC-DOS|PC-DOS]] dengan imbalan bayaran AS$50.000.{{sfn|Gates|1996}} Gates tidak menawarkan pemindahan [[hak cipta]] sistem operasi ini, karena ia yakin produsen perangkat lunak lain akan meniru sistem IBM.{{sfn|Gates|1996}} Mereka benar, dan penjualan [[MS-DOS]] menjadikan Microsoft pemain utama dalam industri komputer.{{sfn|Manes|1994|p=193}}
+
+Pada 25 Juni 1981, Microsoft di bawah Gates melakukan restrukturisasi yang menggabungkan kembali perusahaan di negara bagian Microsoft dan menjadikan Gates Presiden dan Ketua Dewan Microsoft.{{sfn|Key Events in Microsoft History}}
+
+=== Windows ===
+Microsoft meluncurkan versi ritel pertama [[Microsoft Windows]] pada 20 November 1985, dan pada bulan Agustus, perusahaan ini mencapai persetujuan dengan [[IBM]] untuk mengembangkan sistem operasi terpisah bernama [[OS/2]].{{sfn|Challenges and Strategy}} Meski kedua perusahaan ini berhasil mengembangkan versi pertama dari sistem ini, perbedaan tingkat kreativitas merusak kerja sama ini.{{sfn|Challenges and Strategy}} Gates mengeluarkan memo internal pada 16 Mei 1991 yang mengumumkan bahwa kerja sama OS/2 berakhir dan Microsoft mengalihkan operasinya ke pengembangan [[kernel (ilmu komputer)|kernel]] [[Windows NT]].{{sfn|Challenges and Strategy}}
+
+=== Gaya manajemen ===
+Sejak pendirian Microsoft tahun 1975 hingga 2006, Gates memegang tanggung jawab besar terhadap strategi produk perusahaan.{{sfn|Freiberger|1981}} Ia secara agresif memperluas jajaran produk perusahaan dan ketika Microsoft berhasil mendominasi pasar ia mempertahankannya sekuat tenaga.{{sfn|Freiberger|1981}} Ia mendapat reputasi sebagai orang yang menjauhkan diri dari sekitarnya; pada awal 1981 seorang eksekutif industri mengeluh kepada masyarakat bahwa "Gates terkenal karena tidak bisa dihubungi melalui telepon dan tidak membalas panggilan telepon."{{sfn|Freiberger|1981}}
+
+Sebagai seorang eksekutif, Gates secara rutin bertemu dengan manajer senior dan manajer program Microsoft.{{sfn|Steve Ballmer Speech Transcript}} Beberapa pengakuan langsung dari rapat ini menyebutkan Gates sebagai orang yang menyerang dengan kata-kata dan memarahi manajer ketika mengetahui ada lubang ada strategi bisnis atau proposal mereka yang menempatkan rencana jangka panjang perusahaan di ujung tanduk.{{sfn|Steve Ballmer Speech Transcript}}
+
+Ia sering memotong presentasi dengan komentar seperti, "Itu hal terbodoh yang pernah aku dengar!"{{sfn|Isaacson|1997}} dan, "Lebih baik kamu mengembalikan [[Opsi (keuangan)|opsimu]] dan bergabung dengan [[Korps Perdamaian]]."{{sfn|David|1999}} Target kemarahannya adalah mempertahankan proposal serinci-rincinya hingga Gates yakin sepenuhnya.{{sfn|Isaacson|1997}} Ketika bawahannya terlihat menunda-nunda pekerjaannya, Gates dikenal mengutarakan kata-kata sarkastik, "Biar aku saja yang mengerjakannya akhir minggu nanti." {{sfn|Chapman|2008}}{{sfn|Remarks by Bill Gates|1997}}{{sfnRef|Herbold|2004}}
+
+Sebagian besar peran Gates di Microsoft hanya menangani manajemen dan tugas eksekutif. Meski begitu, ia adalah pengembang perangkat lunak aktif pada tahun-tahun awalnya, terutama pada produk [[bahasa pemrograman]] Microsoft.{{sfn|Allison}} Ia juga secara tidak resmi menjadi bagian dari tim pengembang sejak mengerjakan [[TRS-80 Model 100]],{{sfn|Allison}} dan juga menulis kode pada akhir 1989 yang diikutsertakan dalam produk-produk perusahaan.{{sfn|Allison}} Pada 15 Juni 2006, Gates mengumumkan bahwa ia akan menghentikan pekerjaan hariannya selama dua tahun berikutnya untuk memfokuskan diri pada aktivitas filantropi.{{sfn|Microsoft Announces Plans}} Ia membagi tugasnya kepada dua orang penggantinya, yaitu [[Ray Ozzie]] pada manajemen harian dan [[Craig Mundie]] pada strategi produk jangka panjang.{{sfn|Microsoft Announces Plans}}
+
+=== Tuntutan persaingan tidak sehat ===
+{{See|Kasus antitrust Microsoft Amerika Serikat|Kasus persaingan Microsoft Uni Eropa}}
+[[Berkas:Bill Gates - United States v. Microsoft.jpg|thumb|250px|Bill Gates menyampaikan kesaksian deposisinya di Microsoft pada 27 Agustus 1998]]
+
+Dalam operasinya, Microsoft di bawah Bill Gates melakukan banyak tindakan yang menjurus pada tuntutan [[hukum antitrust Amerika Serikat|persaingan tidak sehat]] misalnya kasus ''[[United States v. Microsoft]]'' yang terjadi pada tahun 1998. Pada saat itu, Gates memberikan pengakuan dan kesaksian-kesaksian yang cenderung menghindari pertanyaan. Ia juga lebih banyak memperdebatkan arti kontekstual kata-kata seperti "''compete''" (bersaing), "''concerned''" (mengkhawatirkan) dan "''we''" (kami/kita).<ref>{{cite news|accessdate=March 30, 2008|url=http://www.cnn.com/TECH/computing/9811/17/judgelaugh.ms.idg/index.html|title=Gates deposition makes judge laugh in court|publisher=CNN|date=November 17, 1998}}</ref> ''BusinessWeek'' melaporkan:
+
+{{quotation|Putaran pertama kesaksian menunjukkan Gates memberikan jawaban yang tidak jelas dan mengatakan 'Aku tidak ingat,' berkali-kali sampai hakim tertawa kecil. Lebih buruknya lagi, banyak penyangkalan dan pembelaan "tidak tahu" yang dijawab kepala teknologi ini dibantah oleh jaksa dengan menampilkan bagian-bagian surel yang dikirim dan diterima Gates.<ref>{{cite web|accessdate=March 30, 2008|url=http://www.businessweek.com/1998/48/b3606125.htm|title=Microsoft's Teflon Bill|work=BusinessWeek |date=November 30, 1998}}</ref>}}
+
+Gates kemudian mengatakan bahwa ia perlu melawan upaya-upaya [[David Boies]], penyidik kala itu, untuk menyalahartikan kata-kata dan tindakannya.<ref name="truth" /> Gates mengatakan, "Apakah aku mengelak pertanyaan Boies? ... (Ya), Aku mengaku bersalah. Apapun hukumannya haruslah dijatuhkan kepadaku: (atas) ketidaksopanan yang sangat terhadap Boies."<ref name="truth">{{cite journal|last=Heilemann|first=John|title=The Truth, The Whole Truth, and Nothing But The Truth|date=November 1, 2000|journal=[[Wired (magazine)|Wired]]|url=http://www.wired.com/wired/archive/8.11/microsoft_pr.html|accessdate =March 31, 2008|month=May|author=Chen, Hy; Wu, Js; Hyland, B; Lu, Xd; Chen, Jj|volume=46|issue=8|page=833|pmid=18509686|doi=10.1007/s11517-008-0355-6}}</ref> Meski Gates meyangkal, hakim memutuskan bahwa Microsoft telah melakukan [[monopolisasi]] dan [[pengikatan (perdagangan)|pengikatan]], dan menghambat persaingan, serta melanggar [[Undang-undang antitrust Sherman]].<ref name="truth" />
+
+=== Kemunculan di iklan ===
+Gates muncul di beberapa iklan yang mempromosikan Microsoft pada tahun 2008.<ref name=":0">{{cite web|url=http://www.thesmokinggun.com/mugshots/gatesmug1.html |title=The Smoking Gun mugshots |publisher=Thesmokinggun.com |accessdate=June 9, 2010}}</ref> Iklan pertama, yang juga dibintangi [[Jerry Seinfeld]], adalah percakapan 90 detik ketika Seinfeld berjalan di depan toko sepatu diskon (''Shoe Circus'') di sebuah mal dan melihat Gates membeli sepatu di toko tersebut.<ref name=":0"/> Si penjual berusaha menjual sepatu yang ukurannya lebih besar satu nomor kepada Gates.<ref name=":0"/> Ketika Gates membayarnya, ia memegang kartu diskonnya yang menampilkan versi suntingan foto wajahnya ketika ditangkap di [[New Mexico]] pada tahun 1977 akibat pelanggaran lalu lintas.<ref name=":0"/> Ketika mereka berdua berjalan keluar mal, Seinfeld bertanya kepada Gates apakah ia telah menyatukan pikirannya dengan para pengembang lain, setelah dijawab ya, ia bertanya lagi apakah mereka bekerja sama untuk membuat komputer yang bisa dimakan, dan Gates menjawab ya.<ref name=":0"/> Beberapa orang mengatakan bahwa iklan ini merupakan penghormatan atas acara Seinfeld (''[[Seinfeld]]'').<ref name=":1">{{cite web|url=http://adblog.msnbc.msn.com/archive/2008/09/08/1362333.aspx |title=MSNBC adblog site |publisher=Adblog.msnbc.msn.com |accessdate=June 9, 2010}}</ref> Pada iklan kedua, Gates dan Seinfeld menginap di rumah sebuah keluarga kelas menengah dan mencoba menyesuaikan diri dengan orang-orang biasa.<ref name=":1"/>
+
+== Pasca-Microsoft ==
+Sejak meninggalkan Microsoft, Gates melanjutkan aktivitas filantropinya dan, di antara proyek-proyek lain, membeli hak video serial [[Messenger Lectures]] berjudul ''[[The Character of Physical Law]]'', disampaikan di [[Cornell University]] oleh [[Richard Feynman]] pada tahun 1964 dan direkam oleh BBC. Video-video tersebut tersedia untuk umum secara daring di [[Project Tuva]] Microsoft.<ref>{{cite web|last=Fried |first=Ina |url=http://news.cnet.com/8301-13860_3-10286732-56.html |title=CNET Project Tuva |publisher=News.cnet.com |date=July 14, 2009 |accessdate=June 9, 2010}}</ref><ref>{{cite web|url=http://news.softpedia.com/news/Access-Project-Tuva-for-Free-Courtesy-of-Bill-Gates-116778.shtml |title=Softpedia |publisher=News.softpedia.com |date=July 20, 2009 |accessdate=June 9, 2010}}</ref>
+
+Pada April 2010, Gates diundang untuk mengunjungi dan menyampaikan ceramah di [[Massachusetts Institute of Technology]]. Ia meminta mahasiswa untuk menangani masalah-masalah besar dunia yang akan mereka alami pada masa depan.<ref>Guo, Jeff; McQueen, Rob,
+[http://tech.mit.edu/V130/N21/gates.html "Gates asks students to tackle worlds problems : Disease and education among biggest challenges"], ''[[The Tech (newspaper)|The Tech]]'', Volume 130, Issue 21, Friday, April 23, 2010</ref><ref>Guo, Jeff, [http://tech.mit.edu/V130/N21/gates/interview.html "In interview, Gates describes philanthropic journey"], ''The Tech'', Volume 130, Issue 21, April 23, 2010. (video & transcript). "After he spoke at Kresge Auditorium, Bill Gates sat down with The Tech to talk more about his college tour, his philanthropy, and the philosophy behind it."</ref>
+
+== Kehidupan pribadi ==
+[[Berkas:Bill og Melinda Gates 2009-06-03 (bilde 01).JPG|thumb|250px|Bill dan [[Melinda Gates]], Juni 2009]]
+Gates menikahi Melinda French pada 1 Januari 1994.<ref name=":2">{{cite news|url=http://www.forbes.com/2009/03/11/billionaire-homes-expensive-billionaires-2009-lifestyle-real-estate-homes_3.html?thisSpeed=30000|title=coverage of the Gates' Medina, Washington estate|work=Forbes|date=May 22, 2002|accessdate=June 9, 2010}}</ref> Mereka dikaruniai tiga orang anak: Jennifer Katharine Gates (lahir 1996), Rory John Gates (lahir 1999), dan Phoebe Adele Gates (lahir 2002). [[Rumah Bill Gates|Rumah keluarga Gates]] merupakan sebuah [[tempat tinggal bawah tanah|rumah bawah tanah]] di sisi sebuah bukit yang menghadap [[Lake Washington]] di Medina. Menurut catatan publik [[King County, Washington|King County]], pada 2006 nilai total properti (tanah dan rumah) keluarga Gates adalah $125&nbsp;juta, dan pajak properti setiap tahunnya sebesar $991.000.<ref name=":2"/>
+
+Rumah seluas {{convert|66000|sqft|m2|abbr=on}} ini memiliki kolam renang seluas {{convert|60|ft|m|adj=on}} dengan sistem musik bawah air, serta gimnasium seluas {{convert|2500|sqft|m2|abbr=on}} dan ruang makan seluas {{convert|1000|sqft|m2|abbr=on}}.<ref name=":2"/>
+
+Termasuk di antara akuisisi pribadi Gates adalah [[Codex Leicester]], yaitu koleksi tulisan [[Leonardo da Vinci]], yang dibeli Gates senilai $30,8&nbsp;juta melalui pelelangan tahun 1994.<ref>{{harv|Lesinski|2006|p=74}}</ref> Gates juga dikenal sebagai seorang kutu buku, dan langit-langit perpustakaan besar di rumahnya dipenuhi ukiran kutipan dari ''[[The Great Gatsby]]''.<ref>{{cite news
+|last = Paterson
+|first = Thane
+|title = Advice for Bill Gates: A Little Culture Wouldn't Hurt
+|work=Business Week
+|date = June 13, 2000
+|url = http://www.businessweek.com/bwdaily/dnflash/june2000/nf00613b.htm
+|accessdate =April 28, 2008}}</ref> Ia juga senang bermain kartu bridge, tenis, dan golf.<ref>{{cite web|url=http://www.microsoft.com/presspass/exec/billg/default.aspx?tab=biography|title=Bill Gates: Chairman|publisher=Microsoft Corporation|year=2008}}</ref><ref>{{cite news|title=Profile: Bill Gates|publisher=BBC news|url=http://news.bbc.co.uk/1/hi/business/3428721.stm|date=January 26, 2004|accessdate=January 1, 2010}}</ref>
+
+Gates pernah menempati peringkat pertama pada daftar orang terkaya [[Forbes 400]] sejak 1993 hingga tahun 2007, dan peringkat satu pada daftar [[Daftar miliarder|The World's Richest People]] ''Forbes'' sejak 1995 hingga 2007 dan 2009. Pada 1999, kekayaan Gates pernah melewati angka $101&nbsp;miliar, akibatnya media menyebutnya sebagai "centibillionaire".<ref>{{harv|Fridson|2001|p=113}}</ref> Sejak 2000, jumlah nominal sahamnya di Microsoft menurun karena jatuhnya harga saham Microsoft setelah pecahnya [[gelembung dot-com]] dan sumbangan multi-miliar dolar kepada berbagai yayasan amal.<ref name=":3">{{cite news|last=Bolger|first=Joe|date=May 5, 2006|title=I wish I was not the richest man in the world, says Bill Gates|work=The Times|location=UK|url=http://business.timesonline.co.uk/tol/business/markets/united_states/article713434.ece|accessdate =March 31, 2008 }}</ref> Pada wawancara bulan Mei 2006, Gates berkomentar bahwa ia bukanlah orang terkaya di dunia karena ia tidak suka perhatian yang muncul akibat gelar tersebut.<ref name=":3"/>
+
+Gates memiliki beberapa investasi di luar Microsoft yang pada 2006 menggajinya sebesar $616.667, serta bonus $350.000, sehingga totalnya mencapai $966.667.<ref>{{cite web |title=Microsoft 2006 Proxy Statement |url=http://www.microsoft.com/msft/reports/proxy2006.mspx |publisher=Microsoft |date=October 6, 2007 |accessdate=February 14, 2008}}</ref> Ia mendirikan [[Corbis]], sebuah perusahaan gambar digital, pada tahun 1989.<ref name=":4">{{cite news|last=Fried|first=Ina|date=December 14, 2004|title=Gates joins board of Buffett's Berkshire Hathaway|url=http://www.news.com/Gates-joins-board-of-Buffetts-Berkshire-Hathaway/2100-1014_3-5491312.html|publisher=[[CNET]]|accessdate=March 31, 2008}}</ref> Pada tahun 2004 ia menjadi direktur [[Berkshire Hathaway]], perusahaan investasi yang diketuai oleh sahabat lamanya, [[Warren Buffett]].<ref name=":4"/> Pada Maret 2010, Bill Gates menempati peringkat kedua sebagai orang terkaya di dunia setelah dikalahkan [[Carlos Slim]].
+
+=== Filantropi ===
+[[Berkas:Millennium Development Goals - World Economic Forum Annual Meeting Davos 2008.jpg|thumb|250px|Gates (kedua dari kanan) bersama [[Bono]], [[Ratu Rania dari Yordania]], mantan Perdana Menteri Britania Raya [[Gordon Brown]], Presiden [[Umaru Musa Yar'Adua|Umaru Yar'Adua]] dari Nigeria dan peserta lain dalam 'Call to Action on the Millennium Development Goals' pada Pertemuan Tahunan [[Forum Ekonomi Dunia]] 208 di [[Davos, Swiss]]]]
+{{See|bill & Melinda Gates Foundation}}
+
+Gates mulai menghargai harapan masyarakat terhadapnya ketika opini publik terus menyatakan bahwa Gates mampu menyumbangkan sebagian kekayaannya untuk amal. Gates mempelajari karya [[Andrew Carnegie]] dan [[John D. Rockefeller]], dan pada 1994 ia menjual sebagian sahamnya di Microsoft untuk mendirikan William H. Gates Foundation.
+
+Sebelumnya, Gates dan ayahnya pernah bertemu dengan Rockefeller beberapa kali, dan sepakat untuk memfokuskan kegiatan amal mereka seperti yang dilakukan keluarga Rockefeller, yaitu menyelesaikan masalah-masalah global yang diabaikan oleh pemerintah dan organisasi lainnya.<ref>{{cite web|accessdate=25 August 2015|url=http://www.eyerys.com/id/articles/people/revolusi-komputer-oleh-bill-gates|title=Revolusi Komputer oleh Bill Gates |publisher=Eyerys}}</ref>
+
+Pada tahun 2000, Gates dan istrinya menggabungkan tiga yayasan keluarga menjadi satu dan membentuk yayasan amal [[Bill & Melinda Gates Foundation]], yang saat ini merupakan yayasan amal yang beroperasi secara transparan terbesar di dunia.<ref>{{cite news|accessdate=April 1, 2008|url=http://www.economist.com/business/displaystory.cfm?story_id=6919139|title=Flat-pack accounting|work=The Economist|date=May 11, 2006 }}</ref> Yayasan ini mengizinkan para donatur mengakses informasi tentang bagaimana uang yayasan dikeluarkan, tidak seperti organisasi amal besar lainnya seperti [[Wellcome Trust]].<ref>{{cite news|accessdate=April 1, 2008|url=http://news.bbc.co.uk/2/hi/business/3913581.stm|title=Bill Gates: billionaire philanthropist|publisher=BBC News|date=January 25, 2005|author=Cronin, Jon }}</ref><ref>{{cite web|accessdate=April 1, 2008|url=http://www.gatesfoundation.org/AboutUs/OurWork/OurApproach/|title=Our Approach to Giving |publisher=Bill & Melinda Gates Foundation |archiveurl = http://web.archive.org/web/20080404212231/http://www.gatesfoundation.org/AboutUs/OurWork/OurApproach/ |archivedate = April 4, 2008|deadurl=yes}}</ref> Kedermawanan dan filantropi luas [[David Rockefeller]] telah diakui sebagai pengaruh besar yayasan ini. Gates dan ayahnya bertemu dengan Rockefeller beberapa kali dan mencontoh sebagian cara penyalurannya pada fokus filantropi [[keluarga Rockefeller]], terutama masalah-masalah global yang diabaikan oleh pemerintahan dan organisasi lain.<ref name="bill foundation">{{cite journal |title=2005 Annual Report |format= PDF |publisher=[[Rockefeller Brothers Fund]] |url=http://www.rbf.org/usr_doc/2005_Annual_Review.pdf |date=January 1, 2006 |accessdate=February 14, 2008}}</ref> Pada tahun 2007, Bill dan Melinda Gates merupakan filantropis paling dermawan kedua di Amerka Serikat, dengan sumbangan untuk amal sebanyak $28&nbsp;miliar.<ref>[http://bwnt.businessweek.com/interactive%5Freports/philanthropy%5Findividual/ The 50 most generous Americans].</ref>
+
+Pada saat yang sama yayasan ini dikritik karena menginvestasikan aset yang belum didistribusikan dengan tujuan eksklusif memaksimalkan [[pulangan investasi]]. Akibatnya, investasi mereka meliputi perusahaan-perusahaan yang dituduh memperburuk kemiskinan di negara-negara berkembang yang justru keberadaannya berusaha dikurangi oleh yayasan ini. Investasi mereka meliputi perusahaan-perusahaan yang banyak menghasilkan polusi, dan perusahaan farmasi yang tidak menjual produk-produknya ke negara berkembang.<ref>[http://www.latimes.com/news/nationworld/nation/la-na-gatesx07jan07,0,6827615.story Dark cloud over good works of Gates Foundation], ''Los Angeles Times'', January 7, 2006.</ref>
+Sebagai tanggapan atas kritik pers, pada 2007 yayasan ini mengumumkan peninjauan atas semua investasinya untuk menilai tanggung jawab sosialnya.<ref>[http://seattletimes.nwsource.com/html/localnews/2003517601_gatesinvest10.html Gates Foundation to review investments], The Seattle Times, January 10, 2007.</ref> Yayasan ini kemudian membatalkan peninjauan dan mempertahankan kebijakan investasi untuk pulangan maksimal, dan menggunakan hak suara untuk mempengaruhi praktik perusahaan.<ref>[http://www.statesman.com/news/content/news/stories/nation/01/14/14gates.html Gates Foundation to maintain its investment plan], ''The Austin Statesman'', January 14, 2007.</ref>
+
+Istri Gates mengajak masyarakat untuk belajar dari usaha-usaha filantropi keluarga Salwen, yang menjual rumahnya dan menyumbangkan setengah nilainya, sebagaimana disebutkan dalam buku ''[[The Power of Half]]''.<ref>{{cite news|url=http://gulfnews.com/life-style/general/they-half-it-in-them-1.686505|title=They half it in them|publisher=Gulf News|author=Bina Abraham|date=October 1, 2010|accessdate=March 17, 2011}}</ref> Gates dan istrinya mengundang Joan Salwen ke Seattle untuk membicarakan tentang hal-hal yang dilakukan oleh keluarga tersebut, dan pada 9 Desember 2010, Gates, investor [[Warren Buffett]], dan [[Mark Zuckerberg]] (CEO Facebook) menandatangani janji yang mereka sebut "Gates-Buffet [[Giving Pledge]]". Isinya adalah mereka berjanji untuk menyumbangkan setengah kekayaan mereka untuk amal secara bertahap.<ref>{{cite news|last=Moss|first=Rosabeth|url=http://www.businessweek.com/managing/content/dec2010/ca20101214_945792.htm|title=Four Strategic Generosity Lessons|work=Business Week |date=December 14, 2010|accessdate=March 9, 2011}}</ref><ref>{{cite web|url= http://www.msnbc.msn.com/id/38556042/ns/us_news-giving/ |title= 40 billionaires pledge to give away half of wealth|accessdate=August 8, 2010}}</ref><ref>{{cite news|url=http://www.motherearthnews.com/natural-home-living/a-rich-gift-homemade-jelly-for-bill-melinda-gates.aspx|title=A Rich Gift: Homemade Jelly for Bill and Melinda Gates|work=Mother Earth News|date=February 22, 2011|author=Robyn Griggs Lawrence|accessdate=March 10, 2011}}</ref>
+
+=== Penghargaan ===
+Pada tahun 1987, Gates secara resmi dinyatakan sebagai seorang miliarder dalam halaman 400 Richest People in America majalah Forbes, beberapa hari sebelum ulang tahunnya yang ke-32. Sebagai miliarder usaha sendiri termuda di dunia, kekayaannya mencapai $1,25&nbsp;miliar, $900&nbsp;juta lebih banyak daripada tahun sebelumnya, ketika ia masuk pertama kalinya dalam daftar ini.<ref>{{cite news|url=http://www.forbes.com/2010/01/19/young-tech-billionaire-gates-google-yahoo-wealth.html|title=The Next Bill Gates|work=Forbes|date=January 19, 2010|accessdate=December 20, 2010|first=Marie|last=Thibault|archiveurl=http://archive.is/Mkju|archivedate=July 31, 2012}}</ref>
+
+Majalah ''Time'' menamai Gates sebagai [[Time 100: The Most Important People of the Century#Satu-satunya orang yang membentuk abad ke-20 dan awal abad ke-21|satu dari 100 orang paling berpengaruh pada abad ke-20]], serta [[Time 100|satu dari 100 orang paling berpengaruh tahun 2004, 2005, dan 2006]]. ''Time'' juga secara kolektif menamai Gates, istrinya Melinda dan penyanyi utama U2 [[Bono]] sebagai [[Person of the Year|Persons of the Year]] 2005 atas upaya kemanusiaan mereka.<ref>{{harv|Lesinski|2006|p=102}}</ref> Pada tahun 2006, ia menempati peringkat kedelapan dalam daftar "Heroes of our time".<ref>{{cite news|author=Cowley, Jason|title=Heroes of our time&nbsp; the top 50|url=http://www.newstatesman.com/200605220016|work=New Statesman|location=UK|date=June 22, 2006|accessdate=February 17, 2008}}</ref> Gates masuk dalam daftar orang terkuat ''[[The Sunday Times (Britania Raya)|Sunday Times]]'' tahun 1999, dijuluki CEO tahun ini oleh majalah ''Chief Executive Officers'' tahun 1994, menempati peringkat pertama dalam daftar "Top 50 Cyber Elite" oleh ''Time'' tahun 1998, peringkat kedua di ''[[Upside (majalah)|Upside]]'' Elite 100 tahun 1999 dan disebutkan oleh ''[[The Guardian]]'' dalam daftar "Top 100 influential people in media" tahun 2001.<ref>{{cite news|accessdate=March 30, 2008|url=http://news.bbc.co.uk/1/hi/uk/457951.stm|title=Gates 'second only to Blair'|publisher=BBC News|date=September 26, 1999}}</ref>
+
+Pada tahun 1994, ia mendapat penghormatan sebagai [[DFBCS|Distinguished Fellow]] ke-20 di [[British Computer Society]]. Gates telah menerima gelar doktorat penghormatan dari [[Nyenrode Business Universiteit]], [[Breukelen]], Belanda, pada tahunn 2000;<ref>{{cite press release |language=Dutch|title=''Eredoctoraat Universiteit Nyenrode voor Wim Kok'' |url=http://www.nyenrode.nl/news/news_full.cfm?publication_id=599 |publisher=Nyenrode Business Universiteit |date=August 13, 2003 |accessdate=February 18, 2008|archiveurl = http://web.archive.org/web/20080218131826/http://www.nyenrode.nl/news/news_full.cfm?publication_id=599 |archivedate = February 18, 2008|deadurl=yes}}</ref> [[Royal Institute of Technology]], Stockholm, Swedia pada tahun 2002; diundang pada tahun 2003 untuk menyampaikan ceramah intisari <ref>http://www.microsoft.com/presspass/exec/billg/speeches/2003/01-17iit.aspx</ref> di hadapan Golden Jubilee of the [[Indian Institute of Technology]] yang diadakan di San Jose, California <ref>http://articles.timesofindia.indiatimes.com/2003-01-26/international-business/27286399_1_iit-kanpur-iit-delhi-iitians</ref>; [[Waseda University]], Tokyo, Jepang pada tahunn 2005; [[Tsinghua University]], Beijing, Cina, pada bulan April 2007;<ref>{{cite web|url=http://news.tsinghua.edu.cn/eng__news.php?id=1370 |title=News Of Tsinghua University-Bill Gates Awarded Honorary Doctorate of Tsinghua |publisher=News.tsinghua.edu.cn |date=April 19, 2007 |accessdate=June 9, 2010}}</ref> Harvard University pada bulan Juni 2007;<ref>{{cite news|author=Hughes, Gina|title=Bill Gates Gets Degree After 30 Years|url=http://tech.yahoo.com/blog/hughes/13653|publisher=Yahoo!|date=June 8, 2007|accessdate=February 18, 2008}}</ref> [[Karolinska Institutet]], Stockholm, pada bulan Januari 2008,<ref>{{cite web |author=Svrd, Madeleine |title=Bill Gates honored with a doctor's cap |url=http://ki.se/ki/jsp/polopoly.jsp?d=130&a=47838&l=en&newsdep=130 |publisher=Karolinska Institutet |date=January 24, 2008 |accessdate=February 18, 2008}}</ref> dan Cambridge University pada bulan Juni 2009.<ref>{{cite news|author=University of Cambridge|title=The Chancellor in Cambridge to confer Honorary Degrees|url=http://www.admin.cam.ac.uk/news/dp/2009061204|publisher=University of Cambridge|date=June 12, 2009|accessdate=August 20, 2009}}</ref> Ia juga dijadikan sebagai anggota kehormatan [[Peking University]] pada tahun 2007.<ref>{{cite news|url=http://business.timesonline.co.uk/tol/business/industry_sectors/technology/article2098235.ece|work=The Times|location=London|title=Gates how piracy worked for me in China|date=July 18, 2007|accessdate=April 26, 2010|first=Rhys|last=Blakely}}</ref> Gates juga diberikan [[sistem penghormatan Britania Raya#Gelar kehormatan|gelar kehormatan]] [[Order of the British Empire|Knight Commander of the Order of the British Empire]] (KBE) oleh [[Elizabeth II dari Britania Raya|Ratu Elizabeth II]] pada tahun 2005.<ref>{{cite news|title=Knighthood for Microsoft's Gates|url=http://news.bbc.co.uk/2/hi/uk_news/3428673.stm|publisher=BBC News |date=March 2, 2005|accessdate=February 18, 2008}}</ref> Para [[entomologi|entomolog]] juga memberi nama bunga kembang Bill Gates, ''[[buna kembang Bill Gates|Eristalis gatesi]]'', sebagai tanda penghormatan.<ref>{{cite web |author=Thompson, F. Christian |title=Bill Gates' Flower Fly ''Eristalis gatesi'' Thompson |url=http://www.sel.barc.usda.gov/Diptera/syrphid/gates.htm |publisher=The Diptera Site |date=August 19, 1999 |accessdate=February 18, 2008}}</ref>
+
+Pada November 2006, ia dan istrinya diberi penghargaan [[Order of the Aztec Eagle]] atas aktivitas filantropi mereka di seluruh dunia dalam bidang kesehatan dan pendidikan, terutama di Meksiko, dan tepatnya pada program "''Un pas de lectores"''.<ref>{{cite web|url=http://diariooficial.segob.gob.mx/nota_detalle.php?codigo=4936346|accessdate=March 30, 2008|publisher=[[Diario Oficial de la Federacin]]|title=Proclamation of the Award}}</ref> Pada Oktober 2009, diumumkan bahwa Gates diberi penghargaan [[The Franklin Institute Awards|2010 Bower Award]] for Business Leadership dari [[The Franklin Institute]] atas pencapaiannya dalam bisnis dan aktivitas filantropinya. Pada tahun 2010, ia memperoleh [[Silver Buffalo Award]] dari [[Boy Scouts of America]], penghargaan tertinggi untuk orang dewasa, atas jasanya kepada para pemuda.<ref name="SB2010">{{cite journal |title=2010 Silver Buffalo Recipients |journal=Scouting |issue=SeptemberOctober 2010 |page=39}}</ref>
+
+=== Investasi ===
+
+* [[Cascade Investment|Cascade Investments LLC]], perusahaan investasi dan holding swasta Amerika Serikat yang diawasi oleh Bill Gates dan berkantor pusat di kota [[Kirkland, Washington]].
+* [[bgC3]], perusahaan wadah pemikir baru yang didirikan oleh Bill Gates.
+* [[Corbis]], perusahaan jasa pemberi lisensi dan hak cipta gambar digital.
+* [[TerraPower]], perusahaan desain reaktor nuklir.
+
+== Terbitan ==
+Gates telah menulis dua buku:
+* ''[[The Road Ahead]]'' (1995)
+* ''[[Business @ the Speed of Thought]]'' (1999)
+
+== Filmografi ==
+Gates pernah muncul di satu film:
+* ''[[Waiting For Superman]]''<ref>[http://abcnews.go.com/Entertainment/wireStory?id=9644610 Bill Gates Goes to Sundance, Offers an Education], ABC News, January 23, 2010</ref>
+
+Gates juga muncul di sebuah film tentang sejarah industri komputer pribadi:
+* ''[[Pirates of Silicon Valley]]''  dokudrama 1999 yang menceritakan kebangkitan Apple dan [[Microsoft]]. Ia diperankan oleh [[Anthony Michael Hall]].
+
+== Lihat pula ==
+
+* [[Daftar miliarder]] (lihat pula [[Daftar miliarder yang berhenti kuliah]] dan [[Daftar figur sejarah terkaya non-inflasi]])
+* [[Paul Allen]]&nbsp; Pendiri pendamping Microsoft, sahabat, dan sesama miliarder
+* {{cite web|author=[[Gary Kildall]]|url=http://www.businessweek.com/magazine/content/04_43/b3905109_mz063.htm |title=The Man Who Could Have Been Bill Gates |work=Bloomberg BusinessWeek   |date=October 25, 2004 |accessdate=June 9, 2010}}
+
+=== Buku ===
+
+* {{Cite book|title=How to be a Billionaire: Proven Strategies from the Titans of Wealth|first=Martin|last=Fridson|year=2001|publisher=[[John Wiley & Sons]]|isbn=0471416177}}
+* {{Cite book|first=James|last=Wallace|year=1993|title=Hard Drive: Bill Gates and the Making of the Microsoft Empire|publisher=HarperCollins Publishers|location=New York|isbn=0471568864}}
+
+== Referensi ==
+
+{{Reflist|colwidth=30em}}
+
+== Daftar pustaka ==
+=== Situs web ===
+{{Refbegin|40em}}
+
+* {{cite web
+|url=http://www.forbes.com/profile/bill-gates
+|title=Bill Gates Topic Page
+|publisher=Forbes.com
+|accessdate= 2 Juni 2015
+|ref = {{sfnRef|Forbes: Bill Gates Topic Page}}
+}}
+
+* {{cite web
+|url=http://www.wargs.com/other/gates.html 
+|title=Ancestry of Bill Gates 
+|publisher=Wargs.com 
+|accessdate= 2 Juni 2015
+|ref = {{sfnRef|Ancestry of Bill Gates}}
+}}
+
+* {{cite web 
+|title = Scottish Americans 
+|publisher=albawest.com 
+|url = http://www.albawest.com/scottish-americans.html 
+|accessdate = 2 Juni 2015
+|ref = {{sfnRef|Scottish Americans}}
+}}
+
+* {{cite web 
+|title =Microsoft Visitor Center Student Information: Key Events in Microsoft History
+|publisher= Microsoft
+|url = http://download.microsoft.com/download/1/3/0/130dd86a-a196-4700-b577-521c4cf5cec1/key_events_in_microsoft_history.doc
+|accessdate = 2 Juni 2015
+|ref = {{sfnRef|Key Events in Microsoft History}}
+}}
+
+* {{cite web 
+|title = Microsoft History
+|publisher= The History of Computing Project.
+|url = http://www.thocp.net/companies/microsoft/microsoft_company.htm
+|accessdate = 2 Juni 2015
+|ref = {{sfnRef|Microsoft History}}
+}}
+
+* {{cite web
+|url=http://www.nndb.com/people/435/000022369/ 
+|title=Bill Gates 
+|publisher=Nndb.com 
+|accessdate=2 Juni 2015
+|ref = {{sfnRef|NNDB: Bill Gates}}
+}}
+
+* {{cite web
+|url=http://www.microsoft.com/presspass/exec/billg/speeches/2005/10-13Waterloo.aspx
+|last=Gates
+|first=Bill
+|title=Remarks by Bill Gates
+|date=13 Oktober 2005
+|location=Waterloo, Ontario
+|accessdate = 2 Juni 2015
+|ref = {{sfnRef|Remarks by Bill Gates|2005}}
+}}
+
+* {{cite web 
+|url=http://theweekmagazine.com/article.aspx?id=803 
+|title=The newand improved?SAT 
+|accessdate =23 Mei 2006
+|work=The Week Magazine
+|archiveurl = http://web.archive.org/web/20060510205250/http://theweekmagazine.com/article.aspx?id=803 
+|archivedate = 10 Mei 2006
+|deadurl=yes
+|ref = {{sfnRef|The newand improved?SAT}}
+}}
+
+* {{cite web 
+|url= http://groklaw.net/pdf/iowa/www.iowaconsumercase.org/011607/0000/PX00738.pdf 
+|title=Challenges and Strategy
+|format=PDF 
+|work=Groklaw 
+|accessdate=17 November 2011
+|ref = {{sfnRef|Challenges and Strategy}}
+}}
+
+* {{cite web 
+|url=http://www.microsoft.com/presspass/exec/steve/churchillclub.mspx 
+|title=Steve Ballmer Speech Transcript&nbsp; Church Hill Club 
+|first=Steve
+|last=Ballmer 
+|date=October 9, 1997 
+|publisher=Microsoft 
+|accessdate=31 Maret 2008
+|ref = {{sfnRef|Steve Ballmer Speech Transcript}}
+}}
+
+* {{cite web 
+|url=http://www.microsoft.com/presspass/exec/billg/speeches/1997/pdc.aspx 
+|first=Bill 
+|last=Gates 
+|title=Remarks by Bill Gates 
+|location=San Diego 
+|date=26 September 1997 
+|accessdate=7 Juni 2015
+|ref = {{sfnRef|Remarks by Bill Gates|1997}}
+}}
+
+{{refend}}
+
+=== Jurnal ilmiah, wawancara, dan pidato ===
+{{Refbegin|40em}}
+
+* {{cite journal 
+|last1=Gates 
+|first1=William 
+|last2=Papadimitriou 
+|first2=Christos
+|year=1979 
+|title=Bounds for sorting by prefix reversal 
+|journal=[[Discrete mathematics]] 
+|volume=27 
+|pages=4757 
+|doi=10.1016/0012-365X(79)90068-2
+|ref = {{sfnRef|Gates dan Papadimitriou|1979}}
+}}
+
+* {{cite interview 
+|last=Gates 
+|first=Bill 
+|subjectlink=Bill Gates 
+|interviewer=David Allison 
+|url=http://americanhistory.si.edu/comphist/gates.htm 
+|title=Bill Gates Interview 
+|program=Transcript of a Video History Interview 
+|work=Computer History Collection 
+|publisher=National Museum of American History, Smithsonian Institution 
+|accessdate=7 Juni 2015 
+|ref={{sfnRef|Allison}}
+}}
+{{refend}}
+
+=== Berita ===
+{{Refbegin|40em}}
+
+* {{cite news
+|url=http://www.forbes.com/forbes/2002/1223/258_print.html
+|title=Pioneers Die Broke
+|work=Forbes
+|author=Maiello, John Steele Gordon Michael 
+|date= 23 Desember 2002
+|accessdate = 2 Juni 2015
+}}
+
+* {{cite news
+|url=http://www.reuters.com/article/rbssTechMediaTelecomNews/idUSN1748882920080917
+|title=Bill Gates tops U.S. wealth list 15 years in a row
+|first=Phil
+|last=Wahba
+|date= 17 September 2008
+|accessdate= 2 Juni 2015
+|agency=Reuters
+|ref = {{sfnRef|Wahba|2008}}
+}}
+
+* {{cite news
+|url=http://www.npr.org/templates/story/story.php?storyId=92236781
+|title=Before Microsoft, Gates Solved A Pancake Problem
+|last=Kestenbaum
+|first=David
+|date=4 Juli 2008
+|publisher=[[National Public Radio]]
+|ref = {{sfnRef|Before Microsoft, Gates Solved A Pancake Problem}}
+}}
+
+* {{cite news 
+|url=http://books.google.com/books?id=rD0EAAAAMBAJ&lpg=PA44&dq=%22radio%20shack%22%20%22model%20i%22&pg=PA49#v=onepage&q=%22radio%20shack%22%20%22model%20i%22&f=false 
+|title=Bugs in Radio Shack TRS-80 Model III: How Bad Are They? 
+|accessdate=February 28, 2011 
+|author=Freiberger, Paul 
+|date=August 31, 1981 
+|publisher=InfoWorld 
+|page=49
+|ref = {{sfnRef|Freiberger|1981}}
+}}
+
+* {{cite news|url=http://www.time.com/time/gates/gates5.html 
+|first=Walter 
+|last=Isaacson 
+|title=The Gates Operating System 
+|work=Time 
+|date=January 13, 1997 
+|accessdate=31 Maret 2008
+|archiveurl=http://web.archive.org/web/20000619090559/http://www.time.com/time/gates/gates5.html
+|archivedate=June 19, 2000
+|ref = {{sfnRef|Isaacson|1997}}
+}}
+
+* {{cite news 
+|url=http://www.breakingwindows.net/1link3.htm 
+|title=Breaking Windows 
+|work=The Wall Street Journal 
+|author=Bank, David
+|date=1 Februari 1999
+|accessdate=31 Maret 2008
+|ref = {{sfnRef|David|1999}}
+}}
+
+* {{cite news
+|url=http://afp.google.com/article/ALeqM5i8aV1bK5vmwLaw9wYr9nY5bFc4YA
+|first=Glenn
+|last=Chapman
+|title=Bill Gates Signs Off
+|date=27 Juni 2008
+|agency=Agence France-Presse
+|archiveurl=http://web.archive.org/web/20080630070506/http://afp.google.com/article/ALeqM5i8aV1bK5vmwLaw9wYr9nY5bFc4YA|archivedate=June 30, 2008
+|ref = {{sfnRef|Chapman|2008}}
+}}
+
+* {{cite news 
+|url=http://www.microsoft.com/presspass/press/2006/jun06/06-15CorpNewsPR.mspx 
+|title=Microsoft Announces Plans for July 2008 Transition for Bill Gates 
+|publisher=Microsoft 
+|date=15 Juni 2006
+|ref={{sfnRef|Microsoft Announces Plans}}
+}}
+
+{{refend}}
+
+=== Buku ===
+{{Refbegin|40em}}
+
+* {{Cite book
+|title=The Road Ahead
+|last=Gates
+|first=Bill 
+|year=1996
+|publisher=[[Penguin Books]] 
+|isbn=0140260404
+|ref={{sfnref|Gates|1996}}
+}}
+
+* {{cite book
+|title=Bill Gates: Entrepreneur and Philanthropist
+|url=http://books.google.com/?id=ubYgIB0TgUYC&pg=PA12&dq=Bill+Gates+Congregationalist#v=onepage&q&f=false
+|quote=The Gates family regularly went to services at the University Congregational Church.
+|author=Jeanne M. Lesinski|publisher=Twenty First Century Books
+|accessdate=March 10, 2011
+|isbn=9781580135702
+|date=September 1, 2008
+|ref = {{sfnRef|Leninski|2006}}
+}}
+
+* {{Cite book
+|title =Gates: How Microsoft's Mogul Reinvented an Industry and Made Himself The Richest Man in America
+|isbn = 0671880748
+|year =1994
+|publisher=[[Touchstone Pictures]]
+|last=Manes
+|first=Stephen
+|ref = {{sfnRef|Manes|1994}}
+}}
+
+* {{cite book
+|first=Robert
+|year=2004
+|last=Herbold
+|title=The Fiefdom Syndrome: The Turf Battles That Undermine Careers and Companies&nbsp; And How to Overcome Them
+|isbn=0385510675
+|ref={{sfnRef|Herbold|2004}}
+}}
+
+{{refend}}
+
+== Bacaan lanjutan ==
+
+* [http://www.economist.com/opinion/displaystory.cfm?story_id=11622119 "The Meaning of Bill Gates: As his reign at Microsoft comes to an end, so does the era he dominated"], ''[[The Economist]]'', June 28, 2008.
+* {{Cite book|last=Rivlin|first=Gary|title=The plot to get Bill Gates: an irreverent investigation of the world's richest man...and the people who hate him|year=1999|publisher=Times Business|location=New York|isbn=0-8129-3006-1}}
+* {{Cite journal|date=December 1998|title=83 Reasons Why Bill Gates's Reign Is Over|journal=[[Wired (magazine)|Wired]]|publisher=Wired|volume=6|issue=12|url=http://www.wired.com/wired/archive/6.12/microsoft.html}}
+* {{Cite book|last=Bank|first=David|title=Breaking Windows: how Bill Gates fumbled the future of Microsoft|year=2001|publisher=Free Press|location=New York|isbn=0-7432-0315-1}}
+
+== Pranala luar ==
+{{Sister project links|Bill Gates}}
+* {{en}} [http://www.thegatesnotes.com/ Situs web resmi Bill Gates]
+* {{en}} [http://www.gatesfoundation.org/ Bill & Melinda Gates Foundation]
+* {{en}} [http://www.microsoft.com/presspass/exec/billg/bio.mspx Profile] di [[Microsoft]]
+* {{en}} [http://www.forbes.com/profile/bill-gates Profile] di [[Forbes]]
+* {{C-SPAN|billgates}}
+* {{Charlie Rose view|33}}
+* {{TED|speakers/bill_gates.html}}
+* {{IMDb name|0309540}}
+* {{NYTtopic|people/g/bill_gates}}
+* {{worldcat id|lccn-n91-8414}}
+* {{OL author|id=OL34537A}}
+* {{Nndb|435/000022369}}
+* {{en}} [http://money.cnn.com/2006/03/30/news/newsmakers/gates_howiwork_fortune/index.htm How I Work: Bill Gates], ''Fortune'', 30 Maret 2006
+
+{{S-start}}
+{{S-hon}}
+{{Succession box
+|before = [[Warren Buffett]]
+|title  = [[Daftar miliarder|Orang terkaya di dunia]]
+|years  = 19962007
+|after  = Warren Buffett}}
+{{Succession box
+|before = Warren Buffett
+|title  = Orang terkaya di dunia
+|years  = 20092010
+|after  = [[Carlos Slim]]}}
+{{S-end}}
+
+{{Eksekutif Microsoft}}
+{{Normdaten}}
+
+{{Persondata
+|NAME              = Gates, Bill
+|ALTERNATIVE NAMES = Gates, William Henry, III
+|SHORT DESCRIPTION = American business magnate
+|DATE OF BIRTH     = October 28, 1955
+|PLACE OF BIRTH    = [[Seattle]], [[Washington (state)|WA]], [[United States]]
+|DATE OF DEATH     = 
+|PLACE OF DEATH    = 
+}}
+{{DEFAULTSORT:Gates, Bill}}
+[[Kategori:Orang terkaya di dunia menurut Forbes]]
+[[Kategori:Pemrogram komputer Amerika Serikat]]
+[[Kategori:Wirausahawan]]
+[[Kategori:Person of the Year]]
+[[Kategori:Artikel kelas-A bertopik teknologi informasi]]
+[[Kategori:Tokoh yang berpindah agama ke Katolik Roma]]

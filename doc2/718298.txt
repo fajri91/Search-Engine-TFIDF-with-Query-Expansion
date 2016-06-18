@@ -1,0 +1,14 @@
+Berkas:TulusGajah.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+Sampul album Gajah oleh Tulus. Foto Sampul oleh Adhitya Himawan. Hak cipta pada demajors.
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{SampulAlbum}}

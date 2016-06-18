@@ -1,0 +1,30 @@
+Bandar Udara Sultan Muhammad Kaharuddin III
+{{Kotakinfo bandara|nama=Bandar Udara Internasional Sultan Muhammad Kaharuddin III (Brangbiji)
+|IATA=SWQ
+|ICAO=WADS
+|lokasi=[[Sumbawa]], [[NTB]]
+|negara=[[Indonesia]]
+|tipe=Publik
+|waktu=UTC+8
+|elevasi=5 [[meter|m]] (16 [[feet|f]])
+|koordinat={{coord|8|29|20|S|117|24|43|E|type:airport|br=Y}}
+{{landaspacu|sudut=14/32|panjang_f=5.414|panjang_m=1.650|permukaan=aspal}}
+}}
+'''Bandar Udara Sultan Muhammad Kaharuddin III (Brangbiji)''' adalah sebuah [[bandar udara]] yang terletak di [[Kabupaten Sumbawa]], provinsi [[Nusa Tenggara Barat]], [[Indonesia]].
+
+== Maskapai penerbangan dan tujuan ==
+{{airport-dest-list
+| [[Wings Air]] , [[Bandar Udara Internasional Lombok|Mataram]]
+| [[TransNusa Air Services]] | Denpasar, Mataram
+| [[Garuda Indonesia]] | [[Bandar Udara Internasional Lombok | Mataram
+}}
+
+== Pranala luar ==
+* {{en}} [http://worldaerodata.com/wad.cgi?id=ID47982&sch=wads/ World Aero Data]
+{{Bandar Udara di Indonesia}}
+
+[[Kategori:Bandar udara di Indonesia|Brangbiji]]
+[[Kategori:Kabupaten Sumbawa]]
+
+
+{{bandara-indo-stub}}

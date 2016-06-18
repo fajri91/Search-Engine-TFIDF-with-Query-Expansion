@@ -1,0 +1,81 @@
+Wikipedia:Warung Kopi (Teknis)/Arsip (Mei-08)
+<noinclude>
+{{navigasi arsip warung kopi}}
+{{navigasi arsip warung kopi (periode)|Teknis}}
+{{TOCright}}
+</noinclude>
+<!-- Arsip diletakkan di bawah ini -->
+
+== Gambar dari Google earth ==
+Boleh tidak kita mengunduh/memasukkan gambar dari google earth? Bila boleh, jenis lisensinya apa ya? [[Pengguna:ARdhan|ARdhan]] 22:07, 10 April 2008 (UTC) Halooo.. Ada yg tau gak?[[Pengguna:ARdhan|ARdhan]] 16:01, 12 April 2008 (UTC)
+
+:Coba periksa softwarenya, mungkin ada pernyataan dari Google sendiri tentang gambar yang dihasilkannya bisa atau tidak dipublikasikan. [[Pengguna:Borgx|<font face="Copperplate Gothic Bold" color="#1F85FF">borgx</font>]]<sup>([[Pembicaraan Pengguna:Borgx|<font color="#003366">kirim pesan</font>]])</sup> 23:57, 12 April 2008 (UTC)
+::Menurut Google, cuma non-komersil dan perlu atribusi. [[Pengguna:Aurora|...Aurora...]] 13:44, 7 Mei 2008 (UTC)
+
+Berarti boleh dong y kalau masuk d wiki? Kita kn nirlaba...  Atribusi maksudnya atribusi spt apa? Sori, sy gk ngeh dgn bhs inggris, jd gk meriksa k lisensi softwarenya :)[[Pengguna:ARdhan|ARdhan]] 09:02, 19 Mei 2008 (UTC)
+
+== Gambar format SVG ==
+Halo, mau tanya dong, bagaimana sih cara mengubah format sebuah gambar ke SVG? Saya mau ikut nyumbang icon nih... --<font color ="black">'''[[Pengguna:BlackKnight|BlackKnight]]'''</font> <sup>'''('''<font color = "black">[[Pembicaraan Pengguna:BlackKnight|kirim pesan]]</font>''')'''</sup> 14:24, 6 Maret 2008 (UTC)
+
+:Kalau pake [[GIMP]] kalau gak salah ekstensi ''default''-nya SVG. Saya belum coba pake perangkat lunak lain... Coba perangkat gratis ini: [http://www.wintopo.com/] --[[Pengguna:Bitra|Bitra]] 17:18, 7 Maret 2008 (UTC)
+oww..GIMP ya? Terima kasih mas --<font color ="black">'''[[Pengguna:BlackKnight|BlackKnight]]'''</font> <sup>'''('''<font color = "black">[[Pembicaraan Pengguna:BlackKnight|kirim pesan]]</font>''')'''</sup> 08:37, 8 Maret 2008 (UTC)
+
+:Atau tanya ke Commons soalnya orang orang commons itu jago dalam gambar loh ^^ '''<font face="Tahoma"   color=#1F85FF>[[Pengguna:fjr_ab|F]][[Pembicaraan Pengguna:fjr_ab|j]][[Istimewa:Kontribusi pengguna/Fjr ab|r]]<span class="plainlinks">[http://tools.wikimedia.de/~interiot/cgi-bin/count_edits?user=Fjr_ab&dbname=idwiki_p _]</span>[[Istimewa:suratepengguna/Fjr ab|a]][[Istimewa:blockip/Fjr_ab|b]]</font>''' 09:39, 8 Maret 2008 (UTC)
+
+:Biasanya 'anak-anak' Wikipedia bahasa lain pakai [[:en:Inkscape|Inkscape]]. Saya pernah download juga, tapi agak susah sih. [[Pengguna:Martijn|Martijn]] pakai program ini juga untuk bikin beberapa lambang kabupaten di [[Sumatera Barat]]. [[Pengguna:Meursault2004|Meursault2004]]<sup>[[Pembicaraan Pengguna:Meursault2004|ngobrol]]</sup> 19:45, 8 Maret 2008 (UTC)
+
+Yup, saya sarankan Inkscape. Mudah dan ringan. --[[Pengguna:Nein|<font color="#005">N</font><font color="#000">/</font><font color="#500">A</font>]]<sup>[[Bicara Pengguna:Nein|(bicara)]]</sup> 07:59, 10 Maret 2008 (UTC)
+:Ekstensi GIMP ialah XCF. GIMP cuma bisa membuka fail SVG, bukan membuatnya. [[Pengguna:Aurora|...Aurora...]] 11:06, 10 Maret 2008 (UTC)
+
+:"Geng" commons pun begitu saya sih punya tapi AAAKKHHHH!!!!! bener kata Meursault2004 '''<font face="Tahoma"   color=#1F85FF>[[Pengguna:fjr_ab|F]][[Pembicaraan Pengguna:fjr_ab|j]][[Istimewa:Kontribusi pengguna/Fjr ab|r]]<span class="plainlinks">[http://tools.wikimedia.de/~interiot/cgi-bin/count_edits?user=Fjr_ab&dbname=idwiki_p _]</span>[[Istimewa:suratepengguna/Fjr ab|a]][[Istimewa:blockip/Fjr_ab|b]]</font>''' 11:14, 11 Maret 2008 (UTC)
+
+::Maaf, '''[[Pengguna:Aurora|Aurora]]''' '''benar'''. Maksud saya sebenarnya adalah '''inkscape''' (yang ekstensi ''default''-nya *.SVG). Mohon maklum, udah lama gak ngulik linux... :) GIMP sendiri punya fungsi utama sebagai perangkat lunak manipulasi gambar alternatif  (alternatif Adobe Photoshop). --[[Pengguna:Bitra|Bitra]] 15:16, 11 Maret 2008 (UTC)
+:Inkscape ama corel dah cobain, bisa. Illustrator katanya agak ribet. Kalau GIMP dipake buat svg kayanya agak meragukan deh, itu kan pengolah gambar raster? [[Pengguna:Hariadhi|Hariadhi]] - <sup>[[Pembicaraan Pengguna:Hariadhi|Ngobrol]]</sup> 16:54, 24 Maret 2008 (UTC)
+
+== Pencarian Arab ==
+Untuk pencarian Arab di ''Microsoft Word'' ada pilihan '''Match diacritics''' yang dapat diaktifkan atau dinonaktifkan. Rupa-rupanya "Match diacritics"-nya Wikipedia (dan proyek wiki yang lain) aktif terus. Adakah cara menonaktifkannya? Yang berlaku: jika seseorang mencari suatu kata Arab (yang biasanya ditulis '''tanpa harokat'''), maka kata yang '''berharokat''' tidak turut dalam pencarian. Mohon solusi. [[Pengguna:Alfarq|Alfarq]] 01:37, 1 Mei 2008 (UTC)
+
+== Bagaimana memasukkan artikel baru? ==
+
+Sejak kemarin saya berusaha memasukkan 2 nama LSM ke dalam Wikipedia tapi sepertinya belum masuk juga. malah, sepertinya jadi merusak artikel yang sudah ada (tata urutannya jadi kacau). mohon bantuannya... {{tanpattd|Moch Mahmudi}}
+:[[Wikipedia:Memulai halaman baru]] [[Pengguna:Muhammad Azmi|Muhammad Azmi]]&nbsp;([[Pembicaraan Pengguna:Muhammad Azmi|bicara]]){{adminicon|Muhammad Azmi}} 02:34, 8 Mei 2008 (UTC)
+
+== Requests for Usurpations ==
+
+Hi .. could someone here tell some active Beaurucrat to visit the page for requests for usurpations and consider the applications ..thanks --[[Pengguna:Chaoss|Chaoss]] 13:05, 12 Mei 2008 (UTC)
+
+Hi ... is there anybody here responsible for [[Wikipedia:Pengambilalihan nama pengguna/Permohonan]] --[[Pengguna:Chaoss|Chaoss]] 21:11, 19 Mei 2008 (UTC)
+
+
+== Peta Indonesia ==
+Bagaimana cara membuat peta Indonesia dengan provinsi-provinsinya diwarnai sesuai kriteria tertentu? Misalnya seperti peta [http://en.wikipedia.org/wiki/Image:United_States_Administrative_Divisions_unnumbered.png ini] dimana negara-negara bagian AS diwarnai sesuai pembagian administrasinya. Apa image yang dijadikan peta dasar dan perangkat lunak apa yang bagus? '''[[Pembicaraan Pengguna:Arkwatem|<font face="Tahoma" color="darkgreen">Arkwatem</font>]]''' 14:25, 11 Maret 2008 (UTC)
+
+Di wikipedia commons ada category utk file .svg yg bisa diolah dengan Inkscape. Sptnya dulu pernah saya lihat gambar master untuk Indonesia. Coba dicari dulu, saya lagi tidak banyak waktu luang. [[Pengguna:Kembangraps|Kembangraps]] 15:22, 11 Maret 2008 (UTC)
+
+:Gambar yang disampaikan di atas adalah gambar yang berasal dari [[:commons:]]. Untuk Indonesia, Anda dapat menemukan selengkapnya di [[:commons:Category:Maps of Indonesia]]. [[Pengguna:REX|~'''Rex''']]<sup>[[Pembicaraan Pengguna:REX|''pesan'']]</sup> 15:09, 29 Mei 2008 (UTC)
+
+== Rollback ==
+[[bugzilla:12534]] apakah hanya berjalan di En:?? maklum baru ke situs Bugzilla Wikimedia '''<font face="Tahoma" color=#1F85FF>[[Pengguna:fjr_ab|F]][[Pembicaraan Pengguna:fjr_ab|j]][[Istimewa:Kontribusi pengguna/Fjr ab|r]]<span class="plainlinks">[http://tools.wikimedia.de/~interiot/cgi-bin/count_edits?user=Fjr_ab&dbname=idwiki_p _]</span>[[Istimewa:suratepengguna/Fjr ab|a]][[Istimewa:blockip/Fjr_ab|b]]</font>''' 13:16, 17 Maret 2008 (UTC)
+
+:Tidak. Fitur ''rollback'' (kembalikan) ada di semua wiki Wikimedia, tapi hanya untuk pengurus.  [[Pengguna:IvanLanin|ivanlanin]] [[User Talk:IvanLanin|]] 13:53, 17 Maret 2008 (UTC)
+
+OoH begitu thx penjelasannya (en: enak dong) '''<font face="Tahoma" color=#1F85FF>[[Pengguna:fjr_ab|F]][[Pembicaraan Pengguna:fjr_ab|j]][[Istimewa:Kontribusi pengguna/Fjr ab|r]]<span class="plainlinks">[http://tools.wikimedia.de/~interiot/cgi-bin/count_edits?user=Fjr_ab&dbname=idwiki_p _]</span>[[Istimewa:suratepengguna/Fjr ab|a]][[Istimewa:blockip/Fjr_ab|b]]</font>''' 13:57, 17 Maret 2008 (UTC)
+
+:Setahu saya, di en juga hanya pengurus yang bisa melakukan ''rollback'' (kembalikan). Pengguna biasa hanya bisa melakukan ''undo'' (batalkan).  [[Pengguna:IvanLanin|ivanlanin]] [[User Talk:IvanLanin|]] 14:06, 17 Maret 2008 (UTC)
+
+loh katanya (di Wikia juga sih ada pangkat Rollback untuk Non-sysop) hanya bisa kembalikan suntingan dan hak akses bisa diberikan oleh opsis,birokrat,staff/steward '''<font face="Tahoma" color=#1F85FF>[[Pengguna:fjr_ab|F]][[Pembicaraan Pengguna:fjr_ab|j]][[Istimewa:Kontribusi pengguna/Fjr ab|r]]<span class="plainlinks">[http://tools.wikimedia.de/~interiot/cgi-bin/count_edits?user=Fjr_ab&dbname=idwiki_p _]</span>[[Istimewa:suratepengguna/Fjr ab|a]][[Istimewa:blockip/Fjr_ab|b]]</font>''' 08:41, 18 Maret 2008 (UTC)
+
+:Fitur ''rollback'' untuk en: memang diperuntukkan bagi para pengguna dengan kelompok pengguna (baru) ''rollback''. Di id:, tetap pakai fasilitas ''undo'' (batal) untuk seluruh pengguna. [[Pengguna:REX|~'''Rex''']]<sup>[[Pembicaraan Pengguna:REX|''pesan'']]</sup> 15:07, 29 Mei 2008 (UTC)
+
+== Gadget ==
+
+Fitur gadget diujicobakan. Silakan lihat [[Pembicaraan MediaWiki:Gadgets-definition]].  [[Pengguna:IvanLanin|ivanlanin]] [[User Talk:IvanLanin|]] 17:12, 19 Maret 2008 (UTC)
+:Ini kegunaannya apa ya?? '''<font face="Tahoma" color=#1F85FF>[[Pengguna:fjr_ab|F]][[Pembicaraan Pengguna:fjr_ab|j]][[Istimewa:Kontribusi pengguna/Fjr ab|r]]<span class="plainlinks">[http://tools.wikimedia.de/~interiot/cgi-bin/count_edits?user=Fjr_ab&dbname=idwiki_p _]</span>[[Istimewa:suratepengguna/Fjr ab|a]][[Istimewa:blockip/Fjr_ab|b]]</font>''' 03:34, 20 Maret 2008 (UTC)
+
+:Gadget dapat diaktifkan di [[Istimewa:Preferensi]]. Klik pada tab Gadget untuk melihat ''gadget'' apa saja yang dapat Anda aktifkan. [[Pengguna:REX|~'''Rex''']]<sup>[[Pembicaraan Pengguna:REX|''pesan'']]</sup> 15:11, 29 Mei 2008 (UTC)
+
+== cara sunting halaman di HP ==
+
+HI! mohon bantuanya ya, bagaimana sih cara sunting halaman di HP? saya pernah coba tapi selalu ERROR.[[Pengguna:Chaidir|Chaidir]] 04:07, 2 Mei 2008 (UTC)
+
+:Pakai HP apa? kalau saya W850i tapi error juga browsernya Opera Mini 4 '''[[Pengguna:IVP|''iVP'']]''' <small>(''[[Pembicaraan Pengguna:IVP|VIP]]  [[Istimewa:Contributions/IVP|Ekonomi]]  [[Istimewa:Blockip/IVP|Eksekutif]]'')</small></span> 08:18, 1 Juni 2008 (UTC)

@@ -1,0 +1,4 @@
+Templat:Fb team Persifa Fak-fak
+{{fb team |t=Persifa Fak-Fak |tan=Persifa Fak-Fak |tc=IDN |abb={{#if:{{{abb|}}}|SIFA}} |oc={{#if:{{{oc|}}}|{{{oc}}} }} }}<!--
+--><noinclude>[[Kategori:Templat tim sepak bola Indonesia|Persifa Fak-Fak]]
+</noinclude>

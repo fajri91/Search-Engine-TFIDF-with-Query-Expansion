@@ -1,0 +1,120 @@
+Templat:Tabel Unicode Runic
+{| border="1" cellspacing="0" cellpadding="5" class="wikitable nounderlines" style="border-collapse:collapse;background:#FFFFFF;font-size:large;text-align:center"
+| colspan="17" style="background:#F8F8F8;font-size:small" | '''[[Runic (blok Unicode)|Runic]]'''{{ref label|U16A0_as_of_Unicode_version|1}}{{ref label|U16A0_grey|2}}<br />[http://www.unicode.org/charts/PDF/U16A0.pdf Official Unicode Consortium code chart] (PDF)
+|- style="background:#F8F8F8;font-size:small"
+| style="width:45pt" | &nbsp; || style="width:20pt"  | 0 || style="width:20pt"  | 1 || style="width:20pt"  | 2 || style="width:20pt"  | 3 || style="width:20pt"  | 4 || style="width:20pt"  | 5 || style="width:20pt"  | 6 || style="width:20pt"  | 7 || style="width:20pt"  | 8 || style="width:20pt"  | 9 || style="width:20pt"  | A || style="width:20pt"  | B || style="width:20pt"  | C || style="width:20pt"  | D || style="width:20pt"  | E || style="width:20pt"  | F
+|-
+| style="background:#F8F8F8;font-size:small" | U+16Ax
+| title="U+16A0: RUNIC LETTER FEHU FEOH FE F" | &#x16A0;
+| title="U+16A1: RUNIC LETTER V" | &#x16A1;
+| title="U+16A2: RUNIC LETTER URUZ UR U" | &#x16A2;
+| title="U+16A3: RUNIC LETTER YR" | &#x16A3;
+| title="U+16A4: RUNIC LETTER Y" | &#x16A4;
+| title="U+16A5: RUNIC LETTER W" | &#x16A5;
+| title="U+16A6: RUNIC LETTER THURISAZ THURS THORN" | &#x16A6;
+| title="U+16A7: RUNIC LETTER ETH" | &#x16A7;
+| title="U+16A8: RUNIC LETTER ANSUZ A" | &#x16A8;
+| title="U+16A9: RUNIC LETTER OS O" | &#x16A9;
+| title="U+16AA: RUNIC LETTER AC A" | &#x16AA;
+| title="U+16AB: RUNIC LETTER AESC" | &#x16AB;
+| title="U+16AC: RUNIC LETTER LONG-BRANCH-OSS O" | &#x16AC;
+| title="U+16AD: RUNIC LETTER SHORT-TWIG-OSS O" | &#x16AD;
+| title="U+16AE: RUNIC LETTER O" | &#x16AE;
+| title="U+16AF: RUNIC LETTER OE" | &#x16AF;
+|-
+| style="background:#F8F8F8;font-size:small" | U+16Bx
+| title="U+16B0: RUNIC LETTER ON" | &#x16B0;
+| title="U+16B1: RUNIC LETTER RAIDO RAD REID R" | &#x16B1;
+| title="U+16B2: RUNIC LETTER KAUNA" | &#x16B2;
+| title="U+16B3: RUNIC LETTER CEN" | &#x16B3;
+| title="U+16B4: RUNIC LETTER KAUN K" | &#x16B4;
+| title="U+16B5: RUNIC LETTER G" | &#x16B5;
+| title="U+16B6: RUNIC LETTER ENG" | &#x16B6;
+| title="U+16B7: RUNIC LETTER GEBO GYFU G" | &#x16B7;
+| title="U+16B8: RUNIC LETTER GAR" | &#x16B8;
+| title="U+16B9: RUNIC LETTER WUNJO WYNN W" | &#x16B9;
+| title="U+16BA: RUNIC LETTER HAGLAZ H" | &#x16BA;
+| title="U+16BB: RUNIC LETTER HAEGL H" | &#x16BB;
+| title="U+16BC: RUNIC LETTER LONG-BRANCH-HAGALL H" | &#x16BC;
+| title="U+16BD: RUNIC LETTER SHORT-TWIG-HAGALL H" | &#x16BD;
+| title="U+16BE: RUNIC LETTER NAUDIZ NYD NAUD N" | &#x16BE;
+| title="U+16BF: RUNIC LETTER SHORT-TWIG-NAUD N" | &#x16BF;
+|-
+| style="background:#F8F8F8;font-size:small" | U+16Cx
+| title="U+16C0: RUNIC LETTER DOTTED-N" | &#x16C0;
+| title="U+16C1: RUNIC LETTER ISAZ IS ISS I" | &#x16C1;
+| title="U+16C2: RUNIC LETTER E" | &#x16C2;
+| title="U+16C3: RUNIC LETTER JERAN J" | &#x16C3;
+| title="U+16C4: RUNIC LETTER GER" | &#x16C4;
+| title="U+16C5: RUNIC LETTER LONG-BRANCH-AR AE" | &#x16C5;
+| title="U+16C6: RUNIC LETTER SHORT-TWIG-AR A" | &#x16C6;
+| title="U+16C7: RUNIC LETTER IWAZ EOH" | &#x16C7;
+| title="U+16C8: RUNIC LETTER PERTHO PEORTH P" | &#x16C8;
+| title="U+16C9: RUNIC LETTER ALGIZ EOLHX" | &#x16C9;
+| title="U+16CA: RUNIC LETTER SOWILO S" | &#x16CA;
+| title="U+16CB: RUNIC LETTER SIGEL LONG-BRANCH-SOL S" | &#x16CB;
+| title="U+16CC: RUNIC LETTER SHORT-TWIG-SOL S" | &#x16CC;
+| title="U+16CD: RUNIC LETTER C" | &#x16CD;
+| title="U+16CE: RUNIC LETTER Z" | &#x16CE;
+| title="U+16CF: RUNIC LETTER TIWAZ TIR TYR T" | &#x16CF;
+|-
+| style="background:#F8F8F8;font-size:small" | U+16Dx
+| title="U+16D0: RUNIC LETTER SHORT-TWIG-TYR T" | &#x16D0;
+| title="U+16D1: RUNIC LETTER D" | &#x16D1;
+| title="U+16D2: RUNIC LETTER BERKANAN BEORC BJARKAN B" | &#x16D2;
+| title="U+16D3: RUNIC LETTER SHORT-TWIG-BJARKAN B" | &#x16D3;
+| title="U+16D4: RUNIC LETTER DOTTED-P" | &#x16D4;
+| title="U+16D5: RUNIC LETTER OPEN-P" | &#x16D5;
+| title="U+16D6: RUNIC LETTER EHWAZ EH E" | &#x16D6;
+| title="U+16D7: RUNIC LETTER MANNAZ MAN M" | &#x16D7;
+| title="U+16D8: RUNIC LETTER LONG-BRANCH-MADR M" | &#x16D8;
+| title="U+16D9: RUNIC LETTER SHORT-TWIG-MADR M" | &#x16D9;
+| title="U+16DA: RUNIC LETTER LAUKAZ LAGU LOGR L" | &#x16DA;
+| title="U+16DB: RUNIC LETTER DOTTED-L" | &#x16DB;
+| title="U+16DC: RUNIC LETTER INGWAZ" | &#x16DC;
+| title="U+16DD: RUNIC LETTER ING" | &#x16DD;
+| title="U+16DE: RUNIC LETTER DAGAZ DAEG D" | &#x16DE;
+| title="U+16DF: RUNIC LETTER OTHALAN ETHEL O" | &#x16DF;
+|-
+| style="background:#F8F8F8;font-size:small" | U+16Ex
+| title="U+16E0: RUNIC LETTER EAR" | &#x16E0;
+| title="U+16E1: RUNIC LETTER IOR" | &#x16E1;
+| title="U+16E2: RUNIC LETTER CWEORTH" | &#x16E2;
+| title="U+16E3: RUNIC LETTER CALC" | &#x16E3;
+| title="U+16E4: RUNIC LETTER CEALC" | &#x16E4;
+| title="U+16E5: RUNIC LETTER STAN" | &#x16E5;
+| title="U+16E6: RUNIC LETTER LONG-BRANCH-YR" | &#x16E6;
+| title="U+16E7: RUNIC LETTER SHORT-TWIG-YR" | &#x16E7;
+| title="U+16E8: RUNIC LETTER ICELANDIC-YR" | &#x16E8;
+| title="U+16E9: RUNIC LETTER Q" | &#x16E9;
+| title="U+16EA: RUNIC LETTER X" | &#x16EA;
+| title="U+16EB: RUNIC SINGLE PUNCTUATION" | &#x16EB;
+| title="U+16EC: RUNIC MULTIPLE PUNCTUATION" | &#x16EC;
+| title="U+16ED: RUNIC CROSS PUNCTUATION" | &#x16ED;
+| title="U+16EE: RUNIC ARLAUG SYMBOL" | &#x16EE;
+| title="U+16EF: RUNIC TVIMADUR SYMBOL" | &#x16EF;
+|-
+| style="background:#F8F8F8;font-size:small" | U+16Fx
+| title="U+16F0: RUNIC BELGTHOR SYMBOL" | &#x16F0;
+| title="U+16F1: RUNIC LETTER K" | &#x16F1;
+| title="U+16F2: RUNIC LETTER SH" | &#x16F2;
+| title="U+16F3: RUNIC LETTER OO" | &#x16F3;
+| title="U+16F4: RUNIC LETTER FRANKS CASKET OS" | &#x16F4;
+| title="U+16F5: RUNIC LETTER FRANKS CASKET IS" | &#x16F5;
+| title="U+16F6: RUNIC LETTER FRANKS CASKET EH" | &#x16F6;
+| title="U+16F7: RUNIC LETTER FRANKS CASKET AC" | &#x16F7;
+| title="U+16F8: RUNIC LETTER FRANKS CASKET AESC" | &#x16F8;
+| title="Reserved" style="background-color:#CCCCCC;" |  
+| title="Reserved" style="background-color:#CCCCCC;" |  
+| title="Reserved" style="background-color:#CCCCCC;" |  
+| title="Reserved" style="background-color:#CCCCCC;" |  
+| title="Reserved" style="background-color:#CCCCCC;" |  
+| title="Reserved" style="background-color:#CCCCCC;" |  
+| title="Reserved" style="background-color:#CCCCCC;" |  
+|-
+| colspan="17" style="background:#F8F8F8;font-size:small;text-align:left" | '''Catatan'''
+:1.{{note|U16A0_as_of_Unicode_version}}Per Unicode versi 8.0
+:2.{{note|U16A0_grey}}Abu-abu berarti titik kode kosong
+|}<noinclude>
+[[Category:Tabel Unicode|Runic]]
+</noinclude>

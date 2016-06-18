@@ -1,0 +1,14 @@
+Berkas:Logo mitre.png
+=={{int:filedesc}}==
+{{Information
+| description    =
+Logo Mitre
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Logo}}

@@ -1,0 +1,18 @@
+Templat:Bungaya, Gowa
+{{Navigasi ID Desa
+|provinsi=Sulawesi Selatan
+|dati2=Kabupaten
+|nama dati2=Gowa
+|nama kecamatan=Bungaya
+|d1=Bissoloro
+|d2=Bontomanai
+|d3=Buakkang
+|k1=Jenebatu
+|d4=Mangempang
+|d5=Rannaloe
+|k2=Sapaya
+}}
+<noinclude>
+[[Kategori:Templat desa/kelurahan di Sulawesi Selatan|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Gowa|{{PAGENAME}}]]
+</noinclude>

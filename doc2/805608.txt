@@ -1,0 +1,88 @@
+Berkas:The Memorial Gate for Virtuous Women.jpg
+{{dari|en}}
+==Rationale for use on Wikipedia in the article [[The Memorial Gate for Virtuous Women]]==
+{{Navbox
+|name = Filmr
+|title = [[Wikipedia:Non-free content|Non-free film-related media rationale]]
+|above = '''Rationale for fair use in '''''[[The Memorial Gate for Virtuous Women]]'''''
+|group1 = Description:
+|list1 = <div>
+Poster for ''[[The Memorial Gate for Virtuous Women]]'' (1962).
+</div>
+
+|group2 = Source:
+|list2 = <div>
+* http://movie.daum.net/moviedetail/moviedetailPhotoView.do?movieId#77&photoIdC1346
+
+<br> 1962 Shin Films
+</div>
+
+|group3 = Rationale for use on Wikipedia:
+|list3 = <div>
+1.No free equivalent exists that would effectively identify the article's subject.<br>
+2.The image does not in any way limit the ability of the copyright owners to market or sell their product.<br>
+3.The image is only used once and is rendered in low resolution to avoid piracy.<br>
+4.The image has been published outside Wikipedia; see source above.<br>
+5.The image meets general Wikipedia content requirements and is encyclopedic.<br>
+6.The image meets Wikipedia's media-specific policy.<br>
+7.The image is used in the article wiki-linked in the section title.<br>
+8.The image is significant in identifying the subject of the article, which is the film or film character itself.<br>
+9.The image is used in the article namespace.<br>
+10.The image has a brief description that identifies the image, notes the source, and provides attribution to the copyright holder.
+</div>
+|group4 = Resolution:
+|list4 = <div>
+The copy is of sufficient resolution for commentary and identification but lower resolution than the original. Copies made from it will be of inferior quality, unsuitable as artwork on pirate versions or other uses that would compete with the commercial purpose of the original artwork.
+</div>
+|group5 = Replaceable?:
+|list5 = <div>
+As a film poster, the image is not replaceable by free content; any other image that shows the images from the movie poster would also be copyrighted, and any version that is not true to the original would be inadequate for identification or commentary.
+</div>
+|group6 = Compatibility with Wikipedia?:
+|list6 = <div>
+Use of the film poster in the article complies with [[Wikipedia:Non-free content|Wikipedia non-free content policy]] and [[Fair use|fair use under United States copyright law]] as described above.
+
+</div>
+
+}}
+
+== Same information, repeated for bots ==
+{{Non-free poster|image has rationale=yes}}
+
+== Summary ==
+Poster to the film ''[[The Memorial Gate for Virtuous Women]]'' (1962).
+
+==Fair use rationale===
+# This image is used to represent the film and illustrate how it was promoted during its original theatrical release.
+# It is of much lower resolution than the original (copies made from it will be of very inferior quality).
+# It does not limit the copyright owner's rights to market or sell the work in any way.
+# The image is being used in an informative way and should not detract from the original work.
+# No free or public domain images have been located for this item.
+
+==Source==
+* http://movie.daum.net/moviedetail/moviedetailPhotoView.do?movieId#77&photoIdC1346
+
+== Licensing ==
+{{Non-free poster|image has rationale=yes}}
+1962 Shin Films
+
+== More justification to fend off needless deletion ==
+
+== Licensing ==
+{{Non-free poster|image has rationale=yes}}
+
+== Fair use image data ==
+{{Non-free image data
+|Description       = Poster of  The Memorial Gate for Virtuous Women .
+|Source            =  http://movie.daum.net/moviedetail/moviedetailPhotoView.do?movieId#77&photoIdC1346
+|Portion           = Film poster only.
+|Low_resolution    = Sufficient resolution for illustration, but considerably lower resolution than original.
+|other_information = Intellectual property owned by {{#if: Shin Films|Shin Films|http://movie.daum.net/moviedetail/moviedetailPhotoView.do?movieId#77&photoIdC1346 }}.
+}}
+
+== Fair use rationale ==
+{{Non-free image rationale
+|Article           =  The Memorial Gate for Virtuous Women
+|Purpose           = Used for purposes of critical commentary and illustration in an educational article about the film.<br>The poster is used as the primary means of visual identification of this article topic.
+|Replaceability    = Protected by copyright, therefore a free use alternative won't exist.
+}}

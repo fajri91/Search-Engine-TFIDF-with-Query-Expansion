@@ -1,0 +1,16 @@
+Templat:Gucialit, Lumajang
+{{Navigasi ID Desa |provinsi=Jawa Timur|dati2=Kabupaten |nama dati2=Lumajang
+|nama kecamatan=Gucialit
+|d1=Wonokerto
+|d2=Pakel
+|d3=Kenongo
+|d4=Gucialit
+|d5=Dadapan
+|d6=Kertowono
+|d7=Tunjung
+|d8=Jeruk
+|d9=Sombo
+}}<noinclude>
+[[Kategori:Templat desa/kelurahan di Jawa Timur|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Lumajang|{{PAGENAME}}]]
+</noinclude>

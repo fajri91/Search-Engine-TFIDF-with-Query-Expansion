@@ -1,0 +1,201 @@
+Piala Paolo Corazzi 2011  Ganda
+{{Tennis events 2|2011|Trofeo Paolo Corazzi|
+| champ = {{flagicon|PHI}} [[Treat Conrad Huey]] <br /> {{flagicon|IND}} [[Purav Raja]]
+| runner = {{flagicon|POL}} [[Tomasz Bednarek]]<br />{{flagicon|POL}} [[Mateusz Kowalczyk]]
+| score = 61, 62
+}}
+{{main|Trofeo Paolo Corazzi 2011}}
+[[Alexander Peya]] dan [[Martin Slanar]] merupakan juara bertahan turnamen ini, akan tetapi Peya memutuskan untuk tidak berpartisipasi. Slanar pun berpasangan dengan [[Karol Beck]].<br>
+[[Treat Conrad Huey]] dan [[Purav Raja]] keluar sebagai juara setelah mengalahkan [[Tomasz Bednarek]] dan [[Mateusz Kowalczyk]] dengan skor 61, 62.
+
+== Unggulan ==
+{{col-begin}}
+{{col-2}}
+# {{flagicon|PHI}} '''[[Treat Conrad Huey]]''' / {{flagicon|IND}} '''[[Purav Raja]] (Juara)'''
+# {{flagicon|AUS}} [[Jordan Kerr]] / {{flagicon|CZE}} [[David koch]] ''(Babak Penyisihan)
+{{col-2}}
+<ol start="3">
+<li> {{flagicon|SVK}} [[Karol Beck]] / {{flagicon|AUT}} [[Martin Slanar]] ''(Perempatfinal)
+<li> {{flagicon|RSA}} [[Jeff Coetzee]] / {{flagicon|GBR}} [[Ken Skupski]] ''(Babak Penyisihan)
+</ol>
+{{col-end}}
+
+== Hasil pengundian ==
+{{Draw key}}
+=== Hasil pengundian ===
+{{16TeamBracket-Compact-Tennis3
+| RD1=Babak Penyisihan
+| RD2=Perempatfinal
+| RD3=Semifinal
+| RD4=Final
+
+| RD1-seed01=1
+| RD1-team01={{flagicon|PHI}} '''[[Treat Conrad Huey|TC Huey]]<br />&nbsp;{{flagicon|IND}} [[Purav Raja|P Raja]]
+| RD1-score01-1='''6
+| RD1-score01-2='''6
+| RD1-score01-3=&nbsp;
+| RD1-seed02=&nbsp;
+| RD1-team02={{flagicon|FRA}} [[Olivier Charroin|O Charroin]]<br />&nbsp;{{flagicon|AUS}} Sadik Kadir
+| RD1-score02-1=4
+| RD1-score02-2=2
+| RD1-score02-3=&nbsp;
+
+| RD1-seed03=&nbsp;
+| RD1-team03={{flagicon|USA}} [[Brian Battistone|B Battistone]]<br />&nbsp;{{flagicon|BRA}} [[Mrcio Torres|M Torres]]
+| RD1-score03-1='''6
+| RD1-score03-2=6<sup>5
+| RD1-score03-3=[9]
+| RD1-seed04=WC
+| RD1-team04={{flagicon|ITA}} '''Giuseppe Menga<br />&nbsp;{{flagicon|ITA}} [[Andrea Stoppini|A Stoppini]]
+| RD1-score04-1=4
+| RD1-score04-2='''7
+| RD1-score04-3='''[11]
+
+| RD1-seed05=3
+| RD1-team05='''{{flagicon|SVK}} [[Karol Beck|K Beck]]<br />&nbsp;{{flagicon|AUT}} [[Martin Slanar|M Slanar]]'''
+| RD1-score05-1='''6
+| RD1-score05-2='''6
+| RD1-score05-3=&nbsp;
+| RD1-seed06=WC
+| RD1-team06={{flagicon|ESP}} [[Pablo Carreo-Busta|P Carreo-Busta]]<br />&nbsp;{{flagicon|ARG}} Alejandro Fabbri
+| RD1-score06-1=4
+| RD1-score06-2=2
+| RD1-score06-3=&nbsp;
+
+| RD1-seed07=&nbsp;
+| RD1-team07={{flagicon|CRO}} '''[[Nikola Mekti|N Mekti]]<br />&nbsp;{{flagicon|THA}} [[Sanchai Ratiwatana|Sa Ratiwatana]]
+| RD1-score07-1='''6
+| RD1-score07-2='''6
+| RD1-score07-3=&nbsp;
+| RD1-seed08=&nbsp;
+| RD1-team08={{flagicon|THA}} [[Sonchat Ratiwatana|So Ratiwatana]]<br />&nbsp;{{flagicon|FRA}} Ludovic Walter
+| RD1-score08-1=3
+| RD1-score08-2=3
+| RD1-score08-3=&nbsp;
+
+| RD1-seed09=&nbsp;
+| RD1-team09={{flagicon|CAN}} [[Pierre-Ludovic Duclos|P-L Duclos]]<br />&nbsp;{{flagicon|NZL}} [[Jose Rubin Statham|J Statham]]
+| RD1-score09-1=3
+| RD1-score09-2=4
+| RD1-score09-3=&nbsp;
+| RD1-seed10=&nbsp;
+| RD1-team10='''{{flagicon|ESP}} [[Arnau Brugus-Davi|A Brugus-Davi]]<br />&nbsp;{{flagicon|POR}} [[Joo Sousa|J Sousa]]
+| RD1-score10-1='''6
+| RD1-score10-2='''6
+| RD1-score10-3=&nbsp;
+
+| RD1-seed11=&nbsp;
+| RD1-team11='''{{flagicon|ITA}} [[Alessandro Motti|A Motti]]<br />&nbsp;{{flagicon|ITA}} [[Walter Trusendi|W Trusendi]]'''
+| RD1-score11-1='''6
+| RD1-score11-2='''6
+| RD1-score11-3=&nbsp;
+| RD1-seed12=4
+| RD1-team12={{flagicon|RSA}} [[Jeff Coetzee|J Coetzee]]<br />&nbsp;{{flagicon|GBR}} [[Ken Skupski|K Skupski]]
+| RD1-score12-1=4
+| RD1-score12-2=2
+| RD1-score12-3=&nbsp;
+
+| RD1-seed13=&nbsp;
+| RD1-team13={{flagicon|AUT}} [[Philipp Oswald|P Oswald]]<br />&nbsp;{{flagicon|GER}} [[Alex Satschko|A Satschko]]
+| RD1-score13-1=5
+| RD1-score13-2=5
+| RD1-score13-3=&nbsp;
+| RD1-seed14=&nbsp;
+| RD1-team14='''{{flagicon|POL}} [[Tomasz Bednarek|T Bednarek]]<br />&nbsp;{{flagicon|POL}} [[Mateusz Kowalczyk|M Kowalczyk]]'''
+| RD1-score14-1='''7
+| RD1-score14-2='''7
+| RD1-score14-3=&nbsp;
+
+| RD1-seed15=&nbsp;
+| RD1-team15='''{{flagicon|GER}} [[Michael Kohlmann|M Kohlmann]]<br />&nbsp;{{flagicon|GER}} [[Alexander Waske|A Waske]]'''
+| RD1-score15-1='''6
+| RD1-score15-2='''7
+| RD1-score15-3=&nbsp;
+| RD1-seed16=2
+| RD1-team16={{flagicon|AUS}} [[Jordan Kerr|J Kerr]]<br />&nbsp;{{flagicon|CZE}} [[David koch|D koch]]
+| RD1-score16-1=2
+| RD1-score16-2=6<sup>3
+| RD1-score16-3=&nbsp;
+
+| RD2-seed01=1
+| RD2-team01={{flagicon|PHI}} '''[[Treat Conrad Huey|TC Huey]]<br />&nbsp;{{flagicon|IND}} [[Purav Raja|P Raja]]
+| RD2-score01-1='''6
+| RD2-score01-2=5
+| RD2-score01-3='''[10]
+| RD2-seed02=WC
+| RD2-team02={{flagicon|ITA}} Giuseppe Menga<br />&nbsp;{{flagicon|ITA}} [[Andrea Stoppini|A Stoppini]]
+| RD2-score02-1=0
+| RD2-score02-2='''7
+| RD2-score02-3=[6]
+
+| RD2-seed03=3
+| RD2-team03={{flagicon|SVK}} [[Karol Beck|K Beck]]<br />&nbsp;{{flagicon|AUT}} [[Martin Slanar|M Slanar]]
+| RD2-score03-1=4
+| RD2-score03-2=3
+| RD2-score03-3=&nbsp;
+| RD2-seed04=&nbsp;
+| RD2-team04={{flagicon|CRO}} '''[[Nikola Mekti|N Mekti]]<br />&nbsp;{{flagicon|THA}} [[Sanchai Ratiwatana|Sa Ratiwatana]]
+| RD2-score04-1='''6
+| RD2-score04-2='''6
+| RD2-score04-3=&nbsp;
+
+| RD2-seed05=&nbsp;
+| RD2-team05={{flagicon|ESP}} '''[[Arnau Brugus-Davi|A Brugus-Davi]]<br />&nbsp;{{flagicon|POR}} [[Joo Sousa|J Sousa]]
+| RD2-score05-1=5
+| RD2-score05-2='''6
+| RD2-score05-3='''[10]
+| RD2-seed06=&nbsp; 
+| RD2-team06={{flagicon|ITA}} [[Alessandro Motti|A Motti]]<br />&nbsp;{{flagicon|ITA}} [[Walter Trusendi|W Trusendi]]
+| RD2-score06-1='''7
+| RD2-score06-2=1
+| RD2-score06-3=[8]
+
+| RD2-seed07=&nbsp;
+| RD2-team07='''{{flagicon|POL}} [[Tomasz Bednarek|T Bednarek]]<br />&nbsp;{{flagicon|POL}} [[Mateusz Kowalczyk|M Kowalczyk]]
+| RD2-score07-1='''6
+| RD2-score07-2='''7
+| RD2-score07-3=&nbsp;
+| RD2-seed08=&nbsp;
+| RD2-team08={{flagicon|GER}} [[Michael Kohlmann|M Kohlmann]]<br />&nbsp;{{flagicon|GER}} [[Alexander Waske|A Waske]]
+| RD2-score08-1=4
+| RD2-score08-2=5
+| RD2-score08-3=&nbsp;
+
+| RD3-seed01=1
+| RD3-team01={{flagicon|PHI}} '''[[Treat Conrad Huey|TC Huey]]<br />&nbsp;{{flagicon|IND}} [[Purav Raja|P Raja]]
+| RD3-score01-1='''6
+| RD3-score01-2='''7
+| RD3-score01-3=&nbsp;
+| RD3-seed02=&nbsp;
+| RD3-team02={{flagicon|CRO}} [[Nikola Mekti|N Mekti]]<br />&nbsp;{{flagicon|THA}} [[Sanchai Ratiwatana|Sa Ratiwatana]]
+| RD3-score02-1=3
+| RD3-score02-2=6<sup>5
+| RD3-score02-3=&nbsp;
+
+| RD3-seed03=&nbsp;
+| RD3-team03={{flagicon|ESP}} [[Arnau Brugus-Davi|A Brugus-Davi]]<br />&nbsp;{{flagicon|POR}} [[Joo Sousa|J Sousa]]
+| RD3-score03-1=4
+| RD3-score03-2=5
+| RD3-score03-3=&nbsp;
+| RD3-seed04=&nbsp;
+| RD3-team04={{flagicon|POL}} '''[[Tomasz Bednarek|T Bednarek]]<br />&nbsp;{{flagicon|POL}} [[Mateusz Kowalczyk|M Kowalczyk]]
+| RD3-score04-1='''6
+| RD3-score04-2='''7
+| RD3-score04-3=&nbsp;
+
+| RD4-seed01=1
+| RD4-team01={{flagicon|PHI}} '''[[Treat Conrad Huey|TC Huey]]<br />&nbsp;{{flagicon|IND}} [[Purav Raja|P Raja]]
+| RD4-score01-1='''6
+| RD4-score01-2='''6
+| RD4-score01-3=&nbsp;
+| RD4-seed02=&nbsp;
+| RD4-team02={{flagicon|POL}} [[Tomasz Bednarek|T Bednarek]]<br />&nbsp;{{flagicon|POL}} [[Mateusz Kowalczyk|M Kowalczyk]]
+| RD4-score02-1=1
+| RD4-score02-2=2
+| RD4-score02-3=&nbsp;
+}}
+
+== Referensi ==
+* [http://www.atpworldtour.com/posting/2011/3812/mdd.pdf Hasil Pengundian  Utama]
+
+[[Kategori:ATP Challenger Tour 2011|Trofeo Paolo Corazzi  Ganda]]

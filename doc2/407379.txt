@@ -1,0 +1,6 @@
+Templat:Cinta
+{{Emoticon|Cinta|2={{{1|}}}}}<noinclude>
+
+format penggunaan : {{t1|Cinta}}
+[[Kategori:Templat emoticon|{{PAGENAME}}]]
+</noinclude>

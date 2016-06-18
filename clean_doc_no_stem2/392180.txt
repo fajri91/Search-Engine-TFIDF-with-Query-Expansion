@@ -1,0 +1,1 @@
+templatmnrr style switch1 nameformat backgroundcolor white bordertop 10px solid 000000 fontsize 200 fontfamilyhelvetica arial sansserif fontweight bolder fontstyle italic lineheight 110 textalign left thcolor 000000 thbgcolor efefef displayas stasiun metronorth railroad noinclude kategoritemplat metronorth railroadpagename noinclude 

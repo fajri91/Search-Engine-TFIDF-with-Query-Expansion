@@ -1,0 +1,26 @@
+Berkas:Magadheera Poster.jpg
+{{dari|en}}
+== Penjelasan ==
+{{Non-free use rationale poster
+|Article           = Magadheera
+|Use               = Infobox
+<!-- ADDITIONAL INFORMATION -->
+|Name              = Magadheera
+|Distributor       = 
+|Publisher         = [[Geetha Arts]]
+|Type              = 
+|Website           = 
+|Owner             = 
+|Commentary        = 
+<!--OVERRIDE FIELDS -->
+|Description       = 
+|Source            = [http://www.ramcharanfan.in/2011/10/magadheera-releasing-day-posters.html]
+|Portion           = 
+|Low_resolution    = 
+|Purpose           = <!-- Must be specified if Use is not Infobox / Header / Section / Artist -->
+|Replaceability    = 
+|other_information = 
+}}
+
+== Lisensi ==
+{{Non-free poster|image has rationale=yes}}

@@ -1,0 +1,71 @@
+DiskCryptor
+{{Infobox software
+| name        = DiskCryptor
+| logo        = [[Berkas:DiskCryptor logo.png|DiskCryptor Logo]]
+| screenshot  = [[Berkas:DiskCryptor 0.9.png|255px|Main Window]]
+| caption     = ''DiskCryptor main window''
+| genre       = [[Disk encryption software]]
+| developer   = ntldr <ntldr(at)diskcryptor.net>
+| programming_language   = [[Bahasa C]], [[Assembler]]
+| operating_system       = {{nobr|[[Windows NT|Microsoft Windows NT 5+]]}}
+| language               = English
+| latest_release_version = 0.9.593.106
+| latest_release_date    = {{release date|2010|04|24}}
+| latest_preview_version = 1.0.711.107 beta<ref>{{Cite web
+ | author     =
+ | date       = 8 may 2010
+ | url        = http://diskcryptor.net/forum/index.php?topic=1985
+ | title      = DiskCryptor 1.0 Beta
+ | publisher  = Official Forum
+ | accessdate = 25 may 2010
+ | lang       = ru
+}}</ref>
+| latest_preview_date    = 31 july 2010
+| genre                  = [[Perangkat lunak enkripsi disk]]
+| license     = [[GNU General Public License#GPL v3|GNU GPLv3]]
+| website     = [http://diskcryptor.net/wiki/Main_Page/en diskcryptor.net]
+}}
+
+'''DiskCryptor''' merupakan [[perangkat lunak]] [[enkripsi]] [[cakram keras]] pertama yang mempunyai [[Lisensi Publik Umum GNU]] untuk [[sistem operasi]] [[MS Windows]]<ref>[http://otfedb.sdean12.org/cgi-bin/pub_factsheet.cgi?SYSTEM_ID=338 OTFEDB entry for DiskCryptor v0.2]</ref><ref>http://events.ccc.de/congress/2008/Fahrplan/attachments/1190_Full-Disk-Encryption_Crash-Course_Paper.pdf Whitepaper: FullDiskEncryption  CrashCourse  Everything to hide  Jrgen Pabel</ref>. DiskCryptor ini dapat meng-enkripsi seluruh hardisk maupun seluruh bagian partisi tertentu <ref name="Version History">[http://diskcryptor.net/wiki/Changelog/en DiskCryptor version history<!-- Bot generated title -->]</ref> dengan menggunakan salah satu [[algoritma]]  [[Advanced Encryption Standard|AES]]-256, [[Twofish]], [[Serpent (cipher)|Serpent]] atau kombinasi dari algoritma pada modus XTS.
+
+Perangkat lunak ini pertama kali dikembangkan oleh seorang pengguna dengan nama 'ntldr' pada perangkat lunak [[TrueCrypt]] yang berjalan pada sistem operasi [[Windows XP]].
+
+== OS ==
+{|border="0"
+!colspan="2"|[[Sistem Operasi]]
+![[Service pack]]
+!
+|-
+| [[Microsoft Windows|Windows]] || 2000           || SP0SP4 || x86
+|-
+| || XP             || SP0SP3 || x86, x64
+|-
+| || Server 2003    || SP0SP2 || x86, x64
+|-
+| || Vista          || SP0SP2 || x86, x64
+|-
+| || Server 2008    || SP0SP2 || x86, x64
+|-
+| || 7              ||         || x86, x64
+|-
+| || Server 2008 R2 ||         || x64
+|}
+
+== Lihat pula ==
+* [[Perbandingan perangkat lunak enkripsi cakram keras]]
+* [[FreeOTFE]]
+
+== References ==
+{{Reflist|1}}
+
+== Pranala luar ==
+* [http://diskcryptor.net/wiki/Main_Page/en Situs web] 
+* [http://diskcryptor.net/forum/ Forum]
+* [http://sourceforge.net/projects/diskcryptor/ DiskCryptor di SourceForge.net]
+
+{{software-stub}}
+
+[[Kategori:Perangkat lunak]]
+[[Kategori:Kriptografi]]
+[[Kategori:Perangkat lunak kriptografi]]
+[[Kategori:Perangkat lunak enkripsi disk]]

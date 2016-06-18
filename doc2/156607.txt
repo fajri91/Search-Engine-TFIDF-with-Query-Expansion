@@ -1,0 +1,10 @@
+Templat:Refimprove
+{{ambox
+| type  = content
+| image = [[File:Question book-4.svg|50px]]
+| text  = '''{{{1|Artikel}}} ini membutuhkan lebih banyak [[Wikipedia:Kutip sumber tulisan|catatan kaki]] untuk [[Wikipedia:Pemastian|pemastian]].''' Bantulah [{{fullurl:{{FULLPAGENAME}}|action=edit}} memperbaiki artikel ini] dengan menambahkan catatan kaki dari [[Wikipedia:Sumber tepercaya|sumber yang terpercaya]].{{#if:{{{date|}}}|''{{#if:{{{date|}}}|{{br}}<small>({{{date|}}}}}{{#if:{{{komentar|}}}|{{br}}{{{komentar|}}}}})</small><includeonly>{{#if:{{{kat|}}}||[[Kategori:Artikel yang membutuhkan lebih banyak catatan kaki]]}}</includeonly>
+}}
+|}}<noinclude> 
+[[Kategori:Templat pemeliharaan]]
+[[Kategori:Templat info artikel]]
+</noinclude>

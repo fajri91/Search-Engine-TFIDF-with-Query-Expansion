@@ -1,0 +1,33 @@
+Mithraculus sculptus
+{{italic title}}
+{{Taxobox
+| image = Female Mithraculus sculptus Crab.jpg
+| name = ''Mithraculus sculptus''
+| regnum = [[Animalia]]
+| phylum = [[Artropoda]]
+| subphylum = [[Crustacean|Crustacea]]
+| classis = [[Malacostraca]]
+| ordo = [[Decapoda]]
+| infraordo = [[Kepiting|Brachyura]]
+| familia = [[Majidae]]
+| genus = ''[[Mithraculus]]''
+| species = '''''M. sculptus'''''
+| binomial = ''Mithraculus sculptus''
+| binomial_authority = ([[Jean-Baptiste Lamarck|Lamarck]], 1818)<ref name=WoRMS>{{cite WoRMS |author=Davie, Peter |year=2013 |title=''Mithraculus sculptus'' (Lamarck, 1818) |id=421990 |accessdate=2013-11-03 |db=}}</ref>
+| synonyms_ref = &nbsp;<ref name="Ng">{{cite journal |journal=[[Raffles Bulletin of Zoology]] |year=2008 |volume=17 |pages=1286 |title=Systema Brachyurorum: Part I. An annotated checklist of extant Brachyuran crabs of the world |author= Ng, Peter K. L.; Guinot, Danile; Davie, Peter J. F. |url=http://rmbr.nus.edu.sg/rbz/biblio/s17/s17rbz.pdf |format=[[Portable Document Format|PDF]]}}</ref>
+| synonyms = 
+*''Maia sculptus'' <small>Lamarck, 1818</small>
+*''Mithrax minutus'' <small>Saussure, 1858</small>
+*''Mithraculus coronatus'' <small>White, 1847</small>
+}}
+
+'''''Mithraculus sculptus''''' adalah spesies kepiting yang berasal dari [[familia]] [[Majidae]]. Binatang ini berwarna hijau tua dan dapat ditemui di perairan tropis di [[Laut Karibia]]. Kepiting ini kadang-kadang disimpan dalam akuarium karang.
+
+== Deskripsi ==
+''Mithraculus sculptus'' adalah kepiting kecil dengan [[karapas]] yang lebih panjang daripada lebar dan [[chelae]] (cakar) besarnya. Karapasnya datar, mengkilap, berwarna hijau, dan terpahat halus, dengan materi keputih-putihan pada proyeksinya. Chelae kepiting ini berwarna hijau dan berbentuk sendok serta berujung putih. Kaki yang digunakan untuk berjalan agak pucat, berbulu dan sering ditutupi oleh kerak. Panjang kepiting ini dapat mencapai {{convert|4|cm|1|abbr=on}}.<ref name=Colin>{{cite book|title=Marine Invertebrates and Plants of the Living Reef|last1=Colin|first1=Patrick L.|year=1978|publisher=T.F.H. Publications|isbn=978-0-86622-875-6|pages=367370 }}</ref>
+
+== Referensi ==
+{{reflist}}
+
+
+{{hewan-stub}}

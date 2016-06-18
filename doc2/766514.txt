@@ -1,0 +1,133 @@
+Tes konvergensi
+{{Calculus |Deret}}
+
+'''Tes konvergensi''' ('''Uji konvergensi'''; {{lang-en|convergence tests}}) dalam [[matematika]] adalah kumpulan metoda untuk melakukan tes berkenaan dengan [[deret konvergen]], [[:en:conditional convergence|konvergensi bersyarat]], [[:en:absolute convergence|konvergensi mutlak]], [[:en:interval of convergence|interval konvergensi]] atau divergensi suatu [[deret (matematika)|deret tak terhingga]].
+
+== Daftar tes ==
+
+=== [[Tes elemen]] ===
+Jika limit dari ''summand'' (jumlah semua elemen) tidak dapat didefinisikan atau bukan nol, yaitu <math>\lim_{n \to \infty}a_n \ne 0</math>, maka deret itu pastilah divergen. Dalam hal ini, jumlah parsial merupakan [[:en:Cauchy sequence|Cauchy]] [[:en:only if|hanya jika]] limit ini ada dan sama dengan nol. Tes ini tidak mempunyai kesimpulan (''inconclusive'') jika limit jumlah semua elemen sama dengan nol.
+
+===[[Tes rasio]]===
+Juga dikenal sebagai "'''Kriteria D'Alembert'''" (''D'Alembert's criterion''). Misalnya ada <math>r</math> sedemikian sehingga
+:<math>\lim_{n \to \infty} \left|\frac{a_{n+1}}{a_n}\right| = r.</math>
+:Jika ''r'' < 1, maka deret itu konvergen.
+:Jika ''r'' > 1, maka deret itu divergen.
+:Jika ''r'' = 1, tes rasio tidak konklusif, dan deret itu bisa saja konvergen atau divergen.
+
+===[[Tes akar]]===
+
+Juga dikenal sebagai "'''Test akar ke-n'''" (''n''th root test'' atau "'''Kriteria Cauchy'''",  ''Cauchy's criterion''). Diketahui ''r'' didefinisikan sebagai berikut:
+
+:<math>r = \limsup_{n \to \infty}\sqrt[n]{|a_n|},</math>
+
+:di mana "lim sup" melambangkan [[:en:limit superior|batas atas limit]] (mungkin ; jika ada limit, maka itulah nilainya).
+
+:Jika ''r'' < 1, maka deret itu konvergen.
+:Jika ''r'' > 1, maka deret itu divergen.
+:Jika ''r'' = 1, tes akar tidak konklusif, dan deret itu bisa saja konvergen atau divergen.
+
+===[[:en:Integral test for convergence|Tes integral]]===
+
+Deret itu dapat dibandingkan dengan suatu integral untuk menguji apakah konvergen atau divergen. 
+Misalnya <math>f:[1,\infty)\to\R_+</math> adalah suatu fungsi positif dan [[:en:monotonic function|''monotone decreasing'']] sedemikian sehingga <math>f(n) = a_n</math>.
+:Jika <math>\int_{1}^{\infty} f(x)\, dx = \lim_{t \to \infty} \int_{1}^{t} f(x)\, dx < \infty,</math> maka deret itu konvergen
+:Jika integral itu divergen, maka deret itu juga divergen.
+Dengan kata lain, deret <math>{a_n}</math> konvergen [[jika dan hanya jika]] integralnya konvergen.
+
+===[[:en:Direct comparison test|Tes perbandingan langsung]]===
+
+Jika deret <math>\sum_{n=1}^\infty b_n</math> merupakan suatu deret [[:en:absolutely convergent|konvergen mutlak]] dan <math>|a_n|\le |b_n|</math> untuk ''n''&nbsp;yang cukup besar, maka deret <math>\sum_{n=1}^\infty a_n</math> mutlak konvergen (''absolutely convergent'').
+
+===[[:en:Limit comparison test|Tes perbandingan limit]]===
+
+Jika <math>\left \{ a_n \right \}, \left \{ b_n \right \} > 0</math>, dan limit <math>\lim_{n \to \infty} \frac{a_n}{b_n}</math> ada, finit dan bukan nol, maka <math>\sum_{n=1}^\infty a_n</math> konvergen [[jika dan hanya jika]] <math>\sum_{n=1}^\infty b_n</math> konvergen.
+'''
+
+===[[:en:Cauchy condensation test|Tes kondensasi Cauchy]]===
+
+Misalkan <math>\left \{ a_n \right \}</math> adalah urutan positif yang tidak meningkat. Maka jumlah <math>A = \sum_{n=1}^\infty a_n</math> adalah konvergen [[jika dan hanya jika]] jumlah <math>A^* = \sum_{n=0}^\infty 2^n a_{2^n}</math> konvergen. Lagi pual, jika konvergen, maka <math>A \leq A^* \leq 2A</math> berlaku.
+
+===[[Tes Abel]]===
+
+Misalnya pernyataan-pernyataan berikut ini benar:
+
+# <math>\sum a_n </math> adalah suatu deret konvergen,
+# {''b''<sub>''n''</sub>} adalah suatu urutan monoton, dan
+# {''b''<sub>''n''</sub>} mempunyai batasan (''bounded'').
+
+Maka <math>\sum a_nb_n </math> juga konvergen.
+
+===[[:en:Alternative series test|Tes deret berseling]]===
+
+<!--This is also known as the Leibniz criterion. If <math>\sum_{n=1}^\infty a_n</math> is a series whose terms alternative from positive to negative, and if the limit as n approaches infinity of <math> a_n </math> is zero and the absolute value of each term is less than the absolute value of the previous term, then <math>\sum_{n=1}^\infty a_n</math> is konvergen.
+-->
+===[[Dirichlet test|Tes Dirichlet]]===
+
+===[[Tes Raabe-Duhamel]]===
+
+Misalkan { ''a''<sub>n</sub> } > 0.
+
+Definisikan
+
+<math> b_n = n \left( \frac{ a_n }{ a_{ n + 1 } } - 1 \right ) </math>.
+
+Jika <math> L = \lim_{ n \to \infty } b_n </math> ada, maka ada tiga kemungkinan:
+
+* Jika ''L'' > 1 deret itu konvergen
+* Jika ''L'' < 1 deret itu divergen
+* Jika ''L'' = 1 tes itu tidak konklusif.
+
+Suatu rumus alternatif tes ini adalah sebagai berikut. Misalkan { ''a''<sub>n</sub> } adalah suatu deret bilangan real. Maka jika ''b'' > 1 dan K (sebuah bilangan asli) ada sedemikian sehingga
+
+<math> |\frac{ a_{ n + 1 } }{ a_n }| \le 1 - \frac{ b }{ n } </math>
+
+untuk semua ''n'' > ''K'' maka deret { ''a''<sub>n</sub> } itu konvergen.
+
+===Catatan ===
+
+* Untuk sejumlah jenis deret tertentu ada tes konvergensi yang lebih khusus, misalnya untuk [[deret Fourier]] digunakan [[:en:Dini test|tes Dini]]
+
+== Perbandingan ==
+Tes akar lebih kuat dari tes rasio (lebih kuat karena syarat yang dibutuhkan lebih lemah): bilamana tes rasio menentukan suatu deret tak terhingga itu konvergen atau divergen, maka hasil yang sama didapat dari tes akar, tetapi sebaliknya tidak selalu demikian.<ref>[http://www.mathcs.org/analysis/reals/numser/t_ratio.html Tes Rasio]</ref>
+
+Contohnya, untuk deret
+
+:1 + 1 + 0.5 + 0.5 + 0.25 + 0.25 + 0.125 + 0.125 + ...=4
+
+konvergen menurut tes akar tetapi tidak konvergen menurut tes rasio.
+
+== Contoh ==
+Pertimbangkan deret
+
+<math>(*) \;\;\; \sum_{n=1}^{\infty} \frac{1}{n^\alpha}</math>.
+
+[[:en:Cauchy condensation test|Tes kondensasi Cauchy]] menyiratkan bahwa (*) konvergen secara finit jika
+
+<math> (**) \;\;\; \sum_{n=1}^{\infty} 2^n \left ( \frac{1}{2^n}\right )^\alpha </math>
+
+secara finit konvergen. Karena
+
+<math>\sum_{n=1}^{\infty} 2^n \left ( \frac{1}{2^n}\right )^\alpha =
+\sum_{n=1}^{\infty} 2^{n-n\alpha}  =
+\sum_{n=1}^{\infty} 2^{(1-\alpha) n} </math>
+
+(**) merupakan [[deret geometri]] dengan rasio <math> 2^{(1-\alpha)} </math>. (**) secara finit konvergen jika rasionya kurang dari satu (yaitu <math>\alpha > 1</math>). Jadi, (*) secara finit konvergen [[jika dan hanya jika]] <math> \alpha > 1 </math>.
+<!--
+== Konvergensi hasil perkalian ==
+While most of the tests deal with the convergence of infinite series, they can also be used to show the convergence or divergence of infinite products. This can be achieved using following theorem: Let <math>\left \{ a_n \right \}_{n=1}^\infty</math> be a sequence of positive numbers. Then the infinite product <math>\prod_{n=1}^\infty (1 + a_n)</math> converges [[jika dan hanya jika]] the series <math>\sum_{n=1}^\infty a_n</math> converges. Also similarly, if <math>0 < a_n < 1</math> holds, then <math>\prod_{n=1}^\infty (1 - a_n)</math> approaches a non-zero limit jika dan hanya jika the series <math>\sum_{n=1}^\infty a_n</math> converges .
+
+Ini dapat dibuktikan dengan mengambil logaritma hasil kali dan menggunakan tes perbandingan limit.<ref>[http://cornellmath.wordpress.com/2008/01/26/convergence-of-infinite-products/ Convergence of Infinite Products]</ref>
+-->
+== Lihat pula ==
+*[[:en:L'Hpital's rule|Kaidah L'Hpital]]
+*[[:en:Shift rule|Kaidah geser]]
+
+== Referensi ==
+<references/>
+
+== Pranala luar ==
+* [http://www.math.tamu.edu/~austin/serieschart.pdf Flowchart for choosing convergence test]
+
+[[Category:Matematika]]
+[[Kategori:Tes konvergensi| ]]

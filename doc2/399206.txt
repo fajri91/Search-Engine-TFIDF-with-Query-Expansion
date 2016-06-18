@@ -1,0 +1,53 @@
+Majapahit, Pasimarannu, Kepulauan Selayar
+{{Infobox settlement
+| name                    = Majapahit
+| settlement_type         = [[Desa]]
+| subdivision_type1       = Provinsi
+| subdivision_name1       = [[Sulawesi Selatan]]
+| subdivision_type2       = Kebupaten
+| subdivision_name2       = [[Kepulauan Selayar]]
+| subdivision_type3       = Kecamatan
+| subdivision_name3       = [[Pasimarannu, Kepulauan Selayar|Pasimarannu]]
+| leader_title            = Kepala Desa
+| leader_name             = -
+| leader_title1           = Sekdes
+| leader_name1            = -
+| area_total_km2          = 10,38
+| population_total        = 2036
+| population_as_of        = 2010<ref name="selayar_dalam_angka">{{cite web |url=http://bappeda.selayaronline.com/?m=bWVudT0xMjMyNzAwODE4 |title=Kepulauan Selayar Dalam Angka 2010 |author= |date= |work= |issn=0215-2290 |publisher=Badan Pusat Statistik Kabupaten Kepulauan Selayar |accessdate= }}</ref>
+| population_density_km2  = auto
+| image_map               = 
+| map_caption             = 
+| mapsize                 = 250px
+| pushpin_map             = Pasimarannu, Kepulauan Selayar
+| pushpin_map_caption     = Desa Majapahit terletak di Kecamatan Pasimarannu
+| timezone1               = [[Waktu Indonesia Tengah|WITA]]
+| utc_offset1             = +8
+| pushpin_label_position  = bottom
+| latd                    = 7.375746
+| latm                    = 
+| lats                    = 
+| latNS                   = S
+| longd                   = 121.083012
+| longm                   = 
+| longs                   = 
+| longEW                  = E
+| postal_code_type        = Kode pos
+| postal_code             = 92862
+}}
+
+{{kegunaanlain|Majapahit}}
+'''Majapahit''' adalah sebuah [[desa]] yang berada di wilayah Kecamatan [[Pasimarannu, Kepulauan Selayar|Pasimarannu]], [[Kabupaten Kepulauan Selayar]], [[Daftar provinsi Indonesia|Provinsi]] [[Sulawesi Selatan]], [[Indonesia]].
+
+== referensi ==
+{{Reflist|refs=
+
+}}
+
+{{Pasimarannu, Kepulauan Selayar}}
+
+[[Kategori:Desa di Kabupaten Kepulauan Selayar]]
+[[Kategori:Pasimarannu, Kepulauan Selayar]]
+
+
+{{kelurahan-stub}}

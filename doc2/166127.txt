@@ -1,0 +1,68 @@
+Pelabuhan Indonesia IV
+{{Infobox company
+| name                = PT Pelabuhan Indonesia IV (Persero)
+| logo                = 
+| logo_size           = 150px
+| logo_alt            = 
+| logo_caption        = Logo 
+| logo_padding        = 
+| image               = 
+| image_size          = 200px
+| image_alt           = 
+| image_caption       = 
+| type                = [[Badan Usaha Milik Negara|BUMN]] / Perseroan Terbatas
+| traded_as           = <!-- {{IDX|BBNI}} -->
+| industry            = Jasa [[pelabuhan|kepelabuhan]]
+| genre               = <!-- Only used with media and publishing companies -->
+| fate                = 
+| predecessor         = 
+| successor           = 
+| foundation          = [[1992]]<!-- if known: {{start date|YYYY|MM|DD}} di [[city]], [[Indonesia]] -->
+| founder             = 
+| defunct             = <!-- {{end date|YYYY|MM|DD}} -->
+| locations           = 
+| location_city       = [[Makassar]], [[Sulawesi Selatan]]
+| location_country    = Indonesia
+| coordinates         = 
+| area_served         = 
+| key_people          = 
+| products            = 
+| brands              = 
+| production          = 
+| services            = 
+| revenue             = 
+| operating_income    = 
+| net_income          = 
+| aum                 = <!-- Only for financial-service companies -->
+| assets              = 
+| equity              = 
+| owner               = [[Pemerintah Indonesia]]
+| members             = 
+| num_employees       = 
+| parent              = 
+| divisions           = 
+| subsid              = 
+| slogan              = 
+| module              = <!-- Used to embed other templates -->
+| website             = {{URL|inaport4.co.id}}
+| footnotes           = 
+}}
+
+'''PT Pelabuhan Indonesia IV''' atau '''Pelindo IV''' adalah [[Badan Usaha Milik Negara]] [[Indonesia]] yang bergerak di bidang jasa [[pelabuhan|kepelabuhan]].
+
+==Lihat pula==
+* [[Daftar pelabuhan di Indonesia]]
+
+== Pranala luar ==
+* [http://www.pelabuhan4.co.id/ Situs resmi]
+* [http://portal.bumn.go.id/pelindo4 Profil di portal BUMN RI]
+
+{{BUMN}}
+
+[[Kategori:BUMN]]
+[[Kategori:Perusahaan yang didirikan tahun 1992]]
+
+
+{{perusahaan-indo-stub}}
+
+[[en:Indonesia Port Corporations]]

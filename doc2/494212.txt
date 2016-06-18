@@ -1,0 +1,13 @@
+Templat:Height/bak pasir
+{{#switch:{{#if:{{{meter|{{{meters|{{{metre|{{{metres|{{{m|}}}}}}}}}}}}}}}|1|0}}{{#if:{{{foot|{{{feet|{{{ft|}}}}}}}}}|1|0}}{{#if:{{{inch|{{{inches|{{{in|}}}}}}}}}|1|0}}
+|100={{height/m to ft in|frac={{#ifeq:{{{precision}}}|0|1|{{{frac|2}}}}}|abbr={{{abbr|yes}}}|wiki={{{wiki|no}}}|precision={{{precision|1}}}|{{{meter|{{{meters|{{{metre|{{{metres|{{{m}}}}}}}}}}}}}}} }}
+|011={{convert|{{{foot|{{{feet|{{{ft|}}}}}}}}}|ft|{{{inch|{{{inches|{{{in|}}}}}}}}}|in|m|abbr={{#switch:{{{abbr}}}|no=off|mos=mos|#default=on}}|lk={{#ifeq:{{{wiki|}}}|yes|on|off}}|{{#if:{{{precision|}}}|{{{precision}}}|2}} }}
+|010={{convert|{{{foot|{{{feet|{{{ft|}}}}}}}}}|ft|0|in|m|abbr={{#switch:{{{abbr}}}|no=off|mos=mos|#default=on}}|lk={{#ifeq:{{{wiki|}}}|yes|on|off}}|{{#if:{{{precision|}}}|{{{precision}}}|2}} }}
+|001={{convert|0|ft|{{{inch|{{{inches|{{{in|}}}}}}}}}|in|m|abbr={{#switch:{{{abbr}}}|no=off|mos=mos|#default=on}}|lk={{#ifeq:{{{wiki|}}}|yes|on|off}}|{{#if:{{{precision|}}}|{{{precision}}}|2}} }}
+|111|110|101=<font color="red">Kesalahan: mohon hanya gunakan ukuran imperial atau metrik</font>
+|#default=
+}}<noinclude>
+
+{{Dokumentasi}}
+<!-- Add categories and interwikis to the /doc subpage, not here! -->
+</noinclude>

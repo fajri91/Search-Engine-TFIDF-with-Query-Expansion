@@ -1,0 +1,11 @@
+Templat:Baolan, Tolitoli
+{{Navigasi ID Desa
+|provinsi=Sulawesi Tengah
+|dati2=Kabupaten
+|nama dati2=Tolitoli
+|nama kecamatan=Baolan
+|k1=Dadakitan
+|k2=Tamblin
+}}<noinclude>
+[[Kategori:Templat desa/kelurahan di Sulawesi Tengah|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Tolitoli|{{PAGENAME}}]]</noinclude>

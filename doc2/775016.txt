@@ -1,0 +1,28 @@
+Templat:Penerima Penghargaan Perdamaian Sydney
+{{Navbox
+ | name       = Penerima Penghargaan Perdamaian Sydney
+ | title      = [[Penghargaan Perdamaian Sydney|Penerima Penghargaan Perdamaian Sydney]]
+| state = {{{state|autocollapse}}}
+ | listclass = hlist
+ | list1 =
+* [[Muhammad Yunus]] (1998)
+* [[Desmond Tutu]] (1999)
+* [[Xanana Gusmo]] (2000)
+* [[William Deane]] (2001)
+* [[Mary Robinson]] (2002)
+* [[Hanan Ashrawi]] (2003)
+* [[Arundhati Roy]] (2004)
+* [[Olara Otunnu]] (2005)
+* [[Irene Khan]] (2006)
+* [[Hans Blix]] (2007)
+* [[Patrick Dodson]] (2008)
+* [[John Pilger]] (2009)
+* [[Vandana Shiva]] (2010)
+* [[Noam Chomsky]] (2011)
+* [[Sekai Holland]] (2012)
+* [[Cynthia Maung]] (2013)
+* [[Julian Burnside]] (2014)
+}}<noinclude>
+{{collapsible option}}
+[[Kategori:Templat penghargaan perdamaian|Penghargaan Perdamaian Sydney]]
+</noinclude>

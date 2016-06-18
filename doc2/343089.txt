@@ -1,0 +1,12 @@
+Templat:Country data Tyrol
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Tyrol
+| shortname alias = Tyrol
+| flag alias = Flag of Tirol.svg
+| size = {{{size|}}}
+| name = {{{name|}}}
+| kategori = Austria
+<noinclude>
+| templatename = Tyrol
+</noinclude>
+}}

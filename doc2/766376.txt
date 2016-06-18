@@ -1,0 +1,37 @@
+Honda Ridgeline
+{{Infobox automobile
+|name          = Honda Ridgeline
+|image         = [[File:2006 Honda Ridgeline RTS -- NHTSA 1.jpg|250px]]
+|manufacturer  = [[Honda]]
+|production    = 20052014
+|model_years   = 2006-2014
+|class         = [[Mid-size]]/[[full-size]] [[sport utility truck]]
+|related       = [[Acura MDX]]<br />[[Acura TL]]<br />[[Honda Pilot]]<br />[[Honda Accord]]<br />[[Honda Odyssey (Amerika Utara)]]
+|layout        = [[Mesin depan]], [[4WD]]
+|body_style    = 4-pintu [[truk]]
+|assembly      = [[Alliston, Ontario]], [[Canada]] ([[Honda of Canada Manufacturing|HCM]]) (2005-2008)<br />[[Lincoln, Alabama]], [[United States|US]] ([[Honda Manufacturing of Alabama|HMA]])  (2008-2014)
+|engine        = 3.5&nbsp;L 250&nbsp;hp 247 lb-ft [[mesin V6|V6]]
+|transmission  = 5-speed [[automatic transmission|automatic]]
+|wheelbase     = {{convert|122|in|mm|0|abbr=on}}
+|length        = 2006-08: {{convert|206.8|in|mm|0|abbr=on}}<br />2009-2011: {{convert|207|in|mm|0|abbr=on}}<br>2012-2014: {{convert|206.9|in|mm|0|abbr=on}}
+|width         = {{convert|77.8|in|mm|0|abbr=on}}
+|height        = {{convert|70.3|in|mm|0|abbr=on}}<br>2012-Present RTL: {{convert|71.2|in|mm|0|abbr=on}}
+}}
+
+'''Honda Ridgeline''' adalah [[sport utility truck]] yang diproduksi oleh [[Honda]] mulai tahun 2005. Ridgeline merupakan usaha pertama Honda untuk memasuki pasar [[truk pikap]] Amerika Utara. 
+
+Produksi Ridgeline dihentikan pertengahan 2014.<ref>{{cite web|url= http://www.autoblog.com/2013/12/10/honda-promises-new-ridgeline-two-years/ |title=Honda promises new Ridgline within two years |first=Jeffrey N. |last=Ross |date=2013-12-10 |publisher=Autoblog |accessdate=2014-12-01}}</ref><ref name="commits">{{cite journal|url= http://www.autonews.com/article/20131216/OEM04/312169999/honda-commits-to-2nd-gen-ridgeline |title=Honda commits to 2nd-gen Ridgeline |first=Richard |last=Truett |journal=Automotive News |date=2013-12-16 |accessdate=2014-06-21}}</ref>
+
+==Referensi==
+{{reflist|colwidth=30em}}
+
+==Pranala luar==
+{{Commons category}}
+* [http://automobiles.honda.com/models/model_overview.asp?ModelName=Ridgeline Official Honda website for Ridgeline]
+* [http://www.autoweek.com/apps/pbcs.dll/article?AID=/20060814/FREE/60804002/1004 SCORE Honda Ridgeline]
+* [http://www.ridgelineownersclub.com/ Honda Ridgeline Owners Club]
+
+{{Honda}}
+
+[[Category:Kendaraan Honda|Ridgeline]]
+[[Category:Truk pikap]]

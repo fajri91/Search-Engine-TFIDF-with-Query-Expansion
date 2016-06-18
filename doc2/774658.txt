@@ -1,0 +1,37 @@
+Templat:David Cross
+{{Navbox
+| name = David Cross
+| title = [[David Cross]]
+| state = {{{state|autocollapse}}}
+| listclass = hlist
+| group1 = Televisi
+| list1  =
+* ''[[Mr. Show with Bob and David]]'' (199598) ([[Daftar episode Mr. Show|episode]])
+* ''[[Tenacious D (seri TV)|Tenacious D]]'' (19972000)
+* ''[[Freak Show (seri TV)|Freak Show]]'' (2006)
+* ''[[Paid Programming (pilot TV)|Paid Programming]]'' (2009)
+* ''[[The Increasingly Poor Decisions of Todd Margaret]]'' (2010sekarang)
+| group2 = Film
+| list2  =
+* ''[[Run Ronnie Run]]'' (2002)
+* ''[[Let America Laugh]]'' (2003)
+| group3 = Rekaman
+| list3  =
+* ''[[Shut Up You Fucking Baby!]]'' (2002)
+* ''[[It's Not Funny]]'' (2004)
+* ''[[Bigger and Blackerer]]'' (2010)
+| group4 = Buku
+| list4  =
+* ''[[I Drink for a Reason]]'' (2009)
+| group5 = Rekan
+| list5  =
+* [[Bob Odenkirk]]
+* [[Jack Black]]
+* [[Kyle Gass]]
+* [[H. Jon Benjamin]]
+* [[Shaun Pye]]
+}}<noinclude>
+{{collapsible option}}
+[[Category:Templat komedi|Cross, David]]
+[[Category:KaryaDavid Cross]]
+</noinclude>

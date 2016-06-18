@@ -1,0 +1,8 @@
+Templat:Country IOC alias IOA
+{{ #switch: {{{1}}}
+| Musim Panas 2000 = Atlet Olimpiade Individual
+| Musim Panas 2012 = Atlet Olimpiade Independen
+| #default = Atlet Olimpiade Individual
+}}<noinclude>
+[[Kategori:Templat alias negara Komite Olimpiade Internasional|IOA]]
+</noinclude>

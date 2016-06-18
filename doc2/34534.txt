@@ -1,0 +1,44 @@
+Rapid application development
+{{Underlinked|date=Januari 2016}}
+
+'''Rapid application development''' ('''RAD''') atau '''rapid prototyping''' adalah model proses pembangunan [[perangkat lunak]] yang tergolong dalam teknik incremental (bertingkat). RAD menekankan pada siklus pembangunan pendek, singkat, dan cepat. Waktu yang singkat adalah batasan yang penting untuk model ini. Rapid application development menggunakan metode iteratif (berulang) dalam mengembangkan sistem di mana working model (model bekerja) sistem dikonstruksikan di awal tahap pengembangan dengan tujuan menetapkan kebutuhan (requirement) user dan selanjutnya disingkirkan.<ref name="rapidprototyping">{{cite book
+|last= Britton
+|first= Carol
+|coauthors= Jill Doake
+|title= Object-Oriented Systems Development
+|publisher= McGraw-Hill
+|year= 2001
+|month= 
+|isbn= 0-07-709544-8
+|pages=28-29, 269}}
+</ref> Working model digunakan kadang-kadang saja sebagai basis desain dan implementasi sistem final.<ref name="rapidprototyping"/>
+
+== Penerapan ==
+Model RAD mengadopsi model waterfall dan pembangunan dalam waktu singkat yang dicapai dengan menerapkan :
+# Component based construction ( pemrograman berbasis komponen bukan prosedural).
+# Penekanan pada penggunaan ulang (reuse) komponen perangkat lunak yang telah ada.
+# Pembangkitan kode program otomatis/semi otomatis.
+# Multiple team (banyak tim), tiap tim menyelesaikan satu tugas yang selevel tapi tidak sama. Banyaknya tim tergantung dari area dan kompleksitasnya sistem yang dibangun.
+
+Jika keutuhan yang diinginkan pada tahap analisis kebutuhan telah lengkap dan jelas, maka waktu yang dibutuhkan untuk menyelesaikan secara lengkap perangkat lunak yang dibuat adalah berkisar 60 sampai 90 hari. Model RAD hampir sama dengan model waterfall, bedanya siklus pengembangan yang ditempuh model ini sangat pendek dengan penerapan teknik yang cepat.
+
+Sistem dibagi-bagi menjadi beberapa modul dan dikerjakan beberapa tim dalam waktu yang hampir bersamaan dalam waktu yang sudah ditentukan. Model ini melibatkan banyak tim, dan setiap tim mengerjakan tugas yang selevel, namun berbeda. Sesuai dengan pembagian modul sistem.
+
+== Kelemahan & Kelebihan RAD ==
+Beberapa hal (kelebhan dan kekurangan) yang perlu diperhatikan dalam implementasi pengembangan menggunakan model RAD :
+# Model RAD memerlukan sumber daya yang cukup besar, terutama untuk proyek dengan skala besar.
+# Model ini cocok untuk proyek dengan skala besar.
+# Model RAD memerlukan komitmen yang kuat antara pengembang dan pemesssan, bahkan keduanya bisa tergabung dalam 1 tim
+# kinerja dari perangkat lunak yang dihasilkan dapat menjadi masalah manakala kebutuhan-kebutuhan diawal proses tidak dapat dimodulkan, sehingga pendekatan dengan model ini kurang bagus.
+# sistem yang tidak bisa dimodularisasi tidak cocok untuk model ini.
+# penghalusan dan penggabungan dari beberapa tim di akhir proses sangat diperlukan dan ini memerlukan kerja keras.
+# proyek bisa gagal karena waktu yang disepakati tidak dipenuhi
+# risiko teknis yang tinggi juga kurang cocok untuk model ini.
+
+== Referensi ==
+{{reflist}}
+
+[[Kategori:Rekayasa perangkat lunak]]
+
+
+{{it-stub}}

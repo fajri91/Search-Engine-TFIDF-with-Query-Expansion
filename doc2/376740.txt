@@ -1,0 +1,106 @@
+Templat:Scripps National Spelling Bee
+{{Navbox
+|name  = Scripps National Spelling Bee
+| listclass = hlist
+| title = [[Scripps National Spelling Bee]]
+
+|above = [[Daftar juara Scripps National Spelling Bee|Juara]]{{,}}[[Daftar negara di Scripps National Spelling Bee|Negara]]{{,}}[[Statistik Scripps National Spelling Bee|Statistik]]
+
+|group1 = Tahun
+|list1 = <div>
+[[Scripps National Spelling Bee 1925|1925]]{{,}}
+[[Scripps National Spelling Bee 1926|1926]]{{,}}
+[[Scripps National Spelling Bee 1927|1927]]{{,}}
+[[Scripps National Spelling Bee 1928|1928]]{{,}}
+[[Scripps National Spelling Bee 1929|1929]]{{,}}
+[[Scripps National Spelling Bee 1930|1930]]{{,}}
+[[Scripps National Spelling Bee 1931|1931]]{{,}}
+[[Scripps National Spelling Bee 1932|1932]]{{,}}
+[[Scripps National Spelling Bee 1933|1933]]{{,}}
+[[Scripps National Spelling Bee 1934|1934]]{{,}}
+[[Scripps National Spelling Bee 1935|1935]]{{,}}
+[[Scripps National Spelling Bee 1936|1936]]{{,}}
+[[Scripps National Spelling Bee 1937|1937]]{{,}}
+[[Scripps National Spelling Bee 1938|1938]]{{,}}
+[[Scripps National Spelling Bee 1939|1939]]{{,}}
+[[Scripps National Spelling Bee 1940|1940]]{{,}}
+[[Scripps National Spelling Bee 1941|1941]]{{,}}
+[[Scripps National Spelling Bee 1942|1942]]{{,}}
+<s>19431945</s>{{,}}
+[[Scripps National Spelling Bee 1946|1946]]{{,}}
+[[Scripps National Spelling Bee 1947|1947]]{{,}}
+[[Scripps National Spelling Bee 1948|1948]]{{,}}
+[[Scripps National Spelling Bee 1949|1949]]{{,}}
+[[Scripps National Spelling Bee 1950|1950]]{{,}}
+[[Scripps National Spelling Bee 1951|1951]]{{,}}
+[[Scripps National Spelling Bee 1952|1952]]{{,}}
+[[Scripps National Spelling Bee 1953|1953]]{{,}}
+[[Scripps National Spelling Bee 1954|1954]]{{,}}
+[[Scripps National Spelling Bee 1955|1955]]{{,}}
+[[Scripps National Spelling Bee 1956|1956]]{{,}}
+[[Scripps National Spelling Bee 1957|1957]]{{,}}
+[[Scripps National Spelling Bee 1958|1958]]{{,}}
+[[Scripps National Spelling Bee 1959|1959]]{{,}}
+[[Scripps National Spelling Bee 1960|1960]]{{,}}
+[[Scripps National Spelling Bee 1961|1961]]{{,}}
+[[Scripps National Spelling Bee 1962|1962]]{{,}}
+[[Scripps National Spelling Bee 1963|1963]]{{,}}
+[[Scripps National Spelling Bee 1964|1964]]{{,}}
+[[Scripps National Spelling Bee 1965|1965]]{{,}}
+[[Scripps National Spelling Bee 1966|1966]]{{,}}
+[[Scripps National Spelling Bee 1967|1967]]{{,}}
+[[Scripps National Spelling Bee 1968|1968]]{{,}}
+[[Scripps National Spelling Bee 1969|1969]]{{,}}
+[[Scripps National Spelling Bee 1970|1970]]{{,}}
+[[Scripps National Spelling Bee 1971|1971]]{{,}}
+[[Scripps National Spelling Bee 1972|1972]]{{,}}
+[[Scripps National Spelling Bee 1973|1973]]{{,}}
+[[Scripps National Spelling Bee 1974|1974]]{{,}}
+[[Scripps National Spelling Bee 1975|1975]]{{,}}
+[[Scripps National Spelling Bee 1976|1976]]{{,}}
+[[Scripps National Spelling Bee 1977|1977]]{{,}}
+[[Scripps National Spelling Bee 1978|1978]]{{,}}
+[[Scripps National Spelling Bee 1979|1979]]{{,}}
+[[Scripps National Spelling Bee 1980|1980]]{{,}}
+[[Scripps National Spelling Bee 1981|1981]]{{,}}
+[[Scripps National Spelling Bee 1982|1982]]{{,}}
+[[Scripps National Spelling Bee 1983|1983]]{{,}}
+[[Scripps National Spelling Bee 1984|1984]]{{,}}
+[[Scripps National Spelling Bee 1985|1985]]{{,}}
+[[Scripps National Spelling Bee 1986|1986]]{{,}}
+[[Scripps National Spelling Bee 1987|1987]]{{,}}
+[[Scripps National Spelling Bee 1988|1988]]{{,}}
+[[Scripps National Spelling Bee 1989|1989]]{{,}}
+[[Scripps National Spelling Bee 1990|1990]]{{,}}
+[[Scripps National Spelling Bee 1991|1991]]{{,}}
+[[Scripps National Spelling Bee 1992|1992]]{{,}}
+[[Scripps National Spelling Bee 1993|1993]]{{,}}
+[[Scripps National Spelling Bee 1994|1994]]{{,}}
+[[Scripps National Spelling Bee 1995|1995]]{{,}}
+[[Scripps National Spelling Bee 1996|1996]]{{,}}
+[[Scripps National Spelling Bee 1997|1997]]{{,}}
+[[Scripps National Spelling Bee 1998|1998]]{{,}}
+[[Scripps National Spelling Bee 1999|1999]]{{,}}
+[[Scripps National Spelling Bee 2000|2000]]{{,}}
+[[Scripps National Spelling Bee 2001|2001]]{{,}}
+[[Scripps National Spelling Bee 2002|2002]]{{,}}
+[[Scripps National Spelling Bee 2003|2003]]{{,}}
+[[Scripps National Spelling Bee 2004|2004]]{{,}}
+[[Scripps National Spelling Bee 2005|2005]]{{,}}
+[[Scripps National Spelling Bee 2006|2006]]{{,}}
+[[Scripps National Spelling Bee 2007|2007]]{{,}}
+[[Scripps National Spelling Bee 2008|2008]]{{,}}
+[[Scripps National Spelling Bee 2009|2009]]{{,}}
+[[Scripps National Spelling Bee 2010|2010]]{{,}}
+[[Scripps National Spelling Bee 2011|2011]]{{,}}
+[[Scripps National Spelling Bee 2012|2012]]{{,}}
+''[[Scripps National Spelling Bee 2013|2013]]''
+</div>
+
+|group2 = Partisipan
+|list2= <div>
+{{Scripps|Amerika Serikat}}{{,}} {{Scripps|Arab Saudi}}{{,}} {{Scripps|Bahama}}{{,}} {{Scripps|Eropa|Benua Eropa}}{{,}} {{Scripps|Ghana}}{{,}} {{Scripps|Guam}}{{,}} {{Scripps|Kanada}}{{,}} {{Scripps|Liberia}}{{,}} {{Scripps|Jamaika}}{{,}} {{Scripps|Jepang}}{{,}} {{Scripps|Kepulauan Virgin Amerika Serikat}}{{,}} {{Scripps|Korea Selatan}}{{,}} {{Scripps|Meksiko}}{{,}} {{Scripps|Puerto Riko}}{{,}} {{Scripps|Samoa Amerika}}{{,}} {{Scripps|Selandia Baru}}
+<!--|below= [[Portal:Scripps National Spelling Bee|Portal]]-->
+</div>
+
+}}<noinclude>[[Kategori:Templat navigasi spelling bee|Scripps National Spelling Bee]]</noinclude>

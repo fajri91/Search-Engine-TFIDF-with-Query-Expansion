@@ -1,0 +1,3 @@
+Templat:Fb team Persija Jakarta
+{{fb team |t=Persija Jakarta|tan=Persija Jakarta|tc=IDN |abb={{#if:{{{abb|}}}|PSJA}} |oc={{#if:{{{oc|}}}|{{{oc}}} }} }}<!--
+--><noinclude>[[Kategori:Templat tim sepak bola Indonesia]] [[en:Template:Fb team Persija Jakarta]]</noinclude>

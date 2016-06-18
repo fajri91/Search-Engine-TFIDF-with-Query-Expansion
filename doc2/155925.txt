@@ -1,0 +1,14 @@
+Berkas:Snl.jpg
+== {{int:filedesc}} ==
+{{Information
+| description    =
+Logo "Saturday Night Live", diambil dari website http://www.d210.tv/wp-content/uploads/2008/04/snl.jpg tanggal 20 Juni 2008.
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{Fairuse}}

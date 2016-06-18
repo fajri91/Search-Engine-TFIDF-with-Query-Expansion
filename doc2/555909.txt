@@ -1,0 +1,12 @@
+Templat:Location map Suriah Libanon
+{{#switch:{{{1}}}
+|name=Suriah Libanon
+|top= 37.9
+|bottom=30.56
+|left=32.0
+|right=42.7
+|image=Syria Topography.png
+}}<noinclude>
+{{Location map/Info}}
+[[Category:Templat peta navigasi]]
+</noinclude>

@@ -1,0 +1,87 @@
+Bandar Udara Internasional Ibrahim Nasir
+{{Infobox Airport
+| name         = Ibrahim Nasir International Airport
+| nativename-a =    
+| image        = Maldives Approach Finals - Rwy 36 Short Finals 1.jpg
+| image-width  = 250
+| caption      = View of Mal Airport on final approach
+| IATA         = MLE
+| ICAO         = VRMM
+<center>{{Location map|Maldives|width=150|float=center
+|caption=|mark=Airplane_silhouette.svg|marksize=10
+|label=MLE|position=right
+|lat_deg=04|lat_min=11|lat_sec=30|lat_dir=N
+|lon_deg=73|lon_min=31|lon_sec=45|lon_dir=E
+}}<small>Location of airport in Maldives</small></center>
+| type         = Public
+| owner        = 
+| operator     = GMR Male International Airport Pvt. Ltd (GMIAL)
+| city-served  = [[Mal]]
+| location     = [[Hulhul Island]], Maldives
+| Hub for      = [[Maldivian (airline)]], [[Mega Global Air]]  
+| elevation-f  = 6
+| elevation-m  = 2
+| coordinates  = {{coord|04|11|30|N|073|31|45|E|region:MV_type:airport}}
+| website      = [http://www.male.aero/ www.male.aero]
+| metric-rwy   = y
+| r1-number    = 18/36
+| r1-length-m  = 3,200
+| r1-length-f  = 10,499
+| r1-surface   = Aspal
+| footnotes    = Source: [[DAFIF]]<ref name="WAD">[http://www.worldaerodata.com/wad.cgi?airport=VRMM Airport information for VRMM] from [[DAFIF]] (effective October 2006)</ref><ref name="GCM">{{GCM|MLE|source=DAFIF}}</ref>
+}}
+[[Berkas:Maldives Approach Finals - Rwy 36 Short Finals 1.jpg|thumb|Bandara Internasional Ibrahim Nasir di tengah lautan.]]
+
+'''Bandar Udara Internasional Ibrahim Nasir''' {{airport codes|MLE|VRMM}} yang sebelumnya dikenal sebagai '''Bandar Udara Internasional Mal''' atau '''Bandara Hulhul''', adalah bandara internasional [[Mal]], [[Maladewa]] dengan kode [[IATA]] '''MLE'''. Bandara ini terletak di Pulau Hulhul di Atol Mal Utara, dekat pulau ibukota [[Mal]].
+
+Maldives Mal adalah satu-satunya bandara internasional sampai peningkatan standar internasional [[Bandar Udara Internasional Gan|Bandara Gan]]. Meskipun peningkatan [[Bandar Udara Internasional Gan]] telah selesai, operasi penerbangan internasional reguler belum dimulai.
+
+Bandar udara ini dibuka pada [[12 April]] [[1966]], dan diresmikan di bawah nama baru pada tanggal [[11 November]] [[1981]]. Dikelola secara finansial dan administratif oleh entitas perusahaan independen yang dikenal sebagai Bandar Maladewa Company Limited (MACL), yang diatur oleh Dewan Direksi dan diangkat oleh [[Presiden Maladewa]].
+
+Pada tanggal 26 Juli 2011, "Bandar Udara Internasional Mal" secara resmi berganti nama sebagai "Bandar Udara Internasional Ibrahim Nasir" dalam memori di [[Ibrahim Nasir]], [[Daftar Presiden Maladewa|Presiden ke-2 di Maladewa]]. Dia dikenal untuk memulai bandara pada tahun 1960.
+
+== Maskapai ==
+{{Airport-dest-list
+| [[Aeroflot]] | Moscow-Sheremetyevo
+| [[Air India]] | Bangalore, Thiruvanathapuram
+| [[Alitalia]] | '''Seasonal Charter''': Milan-Malpensa
+| [[Arkefly]] | '''Seasonal''': Amsterdam 
+| [[Austrian Airlines]] | '''Seasonal''': Vienna
+| [[Bangkok Airways]] | Bangkok-Suvarnabhumi
+| [[British Airways]] | London-Gatwick
+| [[China Eastern Airlines]] |  Kunming
+| {{nowrap|[[China Southern Airlines]]}} | Guangzhou
+| [[Condor Flugdienst|Condor]] | Frankfurt
+| [[Edelweiss Air]] | Zrich
+| [[Emirates (airline)|Emirates]] | Colombo, Dubai
+| [[Etihad Airways]] | Abu Dhabi 
+| [[FlyMe (Maldivian airline)|Fly Me]] | [[Gan Airport|Gan]]
+| [[Malaysia Airlines]] | Kuala Lumpur
+| [[Maldivian (airline)|Maldivian]] | Gan Island, Hanimaadhoo, Kaadedhdhoo, Kadhdhoo, Fuvahmulah, Thiruvananthapuram
+| [[Mega Maldives]] | Beijing-Capital, Chengdu, Chongqing, Dhaka, Gan Island, Hangzhou [begins 2 July 2012], Hong Kong, Seoul-Incheon, Shanghai-Pudong 
+| [[Meridiana Fly]] | Milan-Malpensa, Rome-Fiumicino
+| [[Monarch Airlines|Monarch]] | '''Charter''': London-Gatwick
+| [[Neos]] | '''Seasonal Charter''': Milan-Malpensa, Rome-Fiumicino
+| [[Oman Air]] | Muscat
+| [[Qatar Airways]] | Doha
+| [[Shanghai Airlines]] | Shanghai-Pudong
+| [[Sichuan Airlines]] | Chengdu
+| [[Singapore Airlines]] | Singapore
+| [[SriLankan Airlines]] | Colombo
+| [[Thomson Airways]] | London-Gatwick, Manchester
+}}
+
+== Referensi ==
+<references />
+
+== Pranala luar ==
+* [http://www.maldivesairport.aero/ Bandara Internasional Mal]
+* [http://www.airports.com.mv/ Maldives Airports] (MACL)
+* [http://www.gmrgroup.in/ GMR Group]
+* [http://www.maldivesairport.aero/airport-facility.aspx Informasi Bandara]
+* {{NWS-current|VRMM}}
+* {{ASN|MLE}}
+
+{{Bandar udara di Maladewa}}
+
+[[Kategori:Bandar udara di Maladewa|Ibrahim Nasir]]

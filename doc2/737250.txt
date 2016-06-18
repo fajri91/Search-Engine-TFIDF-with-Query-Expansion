@@ -1,0 +1,23 @@
+Bristol Proteus
+[[Berkas:Bristol.proteus.arp.750pix.jpg|300px|jmpl]]
+'''Bristol Proteus''' adalah desain mesin turbin gas Bristol Aeroplane Company pertama berhasil, turboprop yang disampaikan lebih dari 4.000 hp (3.000 kW). Proteus adalah dua spool, reverse-aliran turbin gas, mirip dengan desain mesin Whittle asli dengan tahap turbin ekstra. Karena tahap turbin dari spul batin melaju ada tahap kompresor, tetapi hanya baling-baling, mesin ini kadang-kadang diklasifikasikan sebagai turbin bebas. Itu sebagian besar digunakan pada pesawat Bristol Britannia, tapi melihat penggunaan laut di perahu dan hovercraft juga.
+
+== Referensi ==
+{{Reflist}}
+{{refbegin}}
+*{{cite web|title=Pocket Power Station wins award |url=http://news.bbc.co.uk/local/midwales/hi/things_to_do/newsid_8734000/8734976.stm|publisher=BBC Mid Wales|date=11 June 2010}}
+*{{cite book|last=Taylor|first=John W.R. FRHistS. ARAeS|title=Jane's All the World's Aircraft 1962-63|year=1962|publisher=Sampson, Low, Marston & Co Ltd|location=London}}
+*{{cite book|last=London|first=Peter|title=Saunders and Saro Aircraft since 1917|year=1988|publisher=Conway Maritime Press Ltd,|location=London|isbn=0 85177 814 3|pages=210-235}}
+* Gunston, Bill. ''World Encyclopedia of Aero Engines''. Cambridge, England. Patrick Stephens Limited, 1989. ISBN 1-85260-163-9
+* Hooker, Sir Stanley. ''Not Much Of An Engineer''. Airlife Publishing, 1985. ISBN 1-85310-285-7.
+*{{cite web|last=Gale|first=John|title=SWEB's Pocket Power Stations|url=http://www.swehs.co.uk/tactive/_S13-0.html|publisher=South Western Electricity Historical Society|accessdate=25 February 2013}}
+*{{cite |url=http://www.flightglobal.com/pdfarchive/view/1954/1954%20-%200985.html |title=Aero Engines 1954 |publisher=Flightglobal archive |journal=Flight |date=9 April 1954 |accessdate=28 July 2009}}
+{{refend}}
+{{commons category}}
+*[http://www.swehs.co.uk/docs/news13su.html SWEB's Pocket Power Stations]
+*[http://www.aoxj32.dsl.pipex.com/NewFiles/BristolData.html Bristol Engine data]
+*{{cite journal |journal= [[Flight (magazine)|Flight]] |title= Advert by Bristol for the Proteus 755 and Britannia |chapter= |url=http://www.flightglobal.com/pdfarchive/view/1954/1954%20-%200488.html |format=PDF |date= 19 February 1954 |pages= |ref=Flight, 19 February 1954, Bristol Proteus Britannia ad }}, A sectional view of Proteus 755 turboprop, showing gasflow paths
+*[http://www.flightglobal.com/pdfarchive/view/1948/1948%20-%201215.html "Power for the Giants"] a 1948 ''Flight'' article
+*[http://www.flightglobal.com/pdfarchive/view/1949/1949%20-%201427.html "Bristol Proteus"] a 1949 ''Flight'' article on the Proteus
+
+[[Kategori:Mesin pesawat turboprop]]

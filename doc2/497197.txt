@@ -1,0 +1,30 @@
+Templat:Location map Russia Saratov Oblast
+{{#switch:{{{1}}}
+|name = Saratov Oblast
+| top    = 53
+| bottom = 49.74
+| left   = 42.12
+| right  = 51.07
+| image  = Map Russia Saratov region.svg
+}}<noinclude>{{Location map/Info|Russia}}
+[[Category:Russia location map templates|Saratov Oblast]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</noinclude>

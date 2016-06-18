@@ -1,0 +1,2 @@
+Templat:Element color/Gas
+<noinclude>{{colorsample|{{ {{PAGENAME}} }}}} <font color="{{ {{PAGENAME}} }}"></noinclude>red<noinclude></font></noinclude><noinclude>[[Category:Templat kimia|{{PAGENAME}}]]</noinclude>

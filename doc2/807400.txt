@@ -1,0 +1,2 @@
+Templat:Col div end
+#ALIH [[Template:EndDiv]]

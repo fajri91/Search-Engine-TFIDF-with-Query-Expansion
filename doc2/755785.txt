@@ -1,0 +1,77 @@
+Templat:MOOC
+{{Navbox
+|bodyclass  = 
+|name       = MOOC
+|title      = Pendidikan daring terbuka massal
+|listclass  = hlist 
+|titleclass = 
+|image      = 
+|above      = 
+|group1     = Konsep
+|list1       =
+* [[Kursus daring terbuka massal]] (MOOC)
+* [[Konektivisme]]
+* [[:Category:Pendidikan daring|Pendidikan daring]]
+* [[Sumber pendidikan terbuka]]  
+* [[Pendidikan terbuka]]
+* [[Data terbuka]]
+* [[Gamifikasi]]
+* [[Unbundling]]
+
+<!-- * [[Social Learning]] -->
+
+|group2     = 2000-an
+|list2      =
+* [[Academic Earth]]
+* [[ALISON (perusahaan)|ALISON]]
+* [[Canvas Network]]
+* [[China Open Resources for Education]]
+* [[Edulanka]]
+* [[MIT OpenCourseWare]]
+* [[Khan Academy]]
+* [[OpenCourseWare]] 
+* [[Peer to Peer University]]
+
+|group3     = 2010-an
+|list3      =
+* [[Codecademy]]
+* [[Coursera]]
+* [[Crash Course (YouTube)|Crash Course]]
+* [[Duolingo]]
+* [[EduKart]]
+* [[edX]]
+* [[:zh:Ewant|ewant]]
+* [[FutureLearn]]
+* [[gacco]]
+* [[IOC Athlete MOOC]]
+* [[iversity]]
+* [[JANUX]]
+* [[MiriadaX]]
+* [[Open2Study]]
+* [[opencourseworld]]
+* [[OpenHPI]]
+* [[OpenLearning]]
+* [[Proera]]
+* [[NovoEd]]
+* [[ShareCourse]]
+* [[Udacity]]
+* [[Udemy]]
+* [[:zh:xuetangX|xuetangX]]
+* [[World Science U]]
+
+|group4     = Tokoh
+|list4      =
+* [[Anant Agarwal]]
+* [[Stephen Downes]]
+* [[Mike Feerick]]
+* [[Hank Green|Hank Green]]
+* [[John Green (pengarang)|John Green]]
+* [[Brady Haran]]
+* [[Salman Khan (pendidik)|Salman Khan]]
+* [[Daphne Koller]]
+* [[Derek Muller]]
+* [[Peter Norvig]]
+* [[Andrew Ng]]
+* [[George Siemens]]
+* [[Sebastian Thrun]]
+}}

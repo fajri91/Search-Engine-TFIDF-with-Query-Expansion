@@ -1,0 +1,66 @@
+County Collin, Texas
+{{Infobox U.S. County|
+ county  = Collin County|
+ state = Texas |
+ seal =  |
+ founded year =  1846 |
+ seat wl = McKinney |
+ area_total_sq_mi =886 |
+ area_land_sq_mi  =848 |
+ area_water_sq_mi =38 |
+ area percentage = 4.32% |
+ census yr = 2010|
+ pop = 782,341 |
+ density_sq_mi =992.6 |
+ ex image = |
+ ex image size = 250|
+ ex image cap = |
+ web = www.co.collin.tx.us |
+|}}
+'''Collin County''' adalah county yang terletak di negara bagian [[Texas]], [[Amerika Serikat]]. Jumlah penduduk pada tahun 2010 sebesar 782.341 jiwa.
+
+== Jalan utama ==
+{|
+|----- valign="top"
+|
+*[[Berkas:US 75.svg|25px]] [[U.S. Highway 75 (Texas)|U.S. Highway 75]]
+*[[Berkas:US 380.svg|25px]] [[U.S. Highway 380 (Texas)|U.S. Highway 380]]
+*[[Berkas:Dallas North Tollway.svg|25px]] [[Dallas North Tollway]]
+*<!-- Image with inadequate rationale removed: [[Image:PGBT.png|25px]] -->[[President George Bush Turnpike]]
+|
+*[[Berkas:Texas 5.svg|25px]] [[State Highway 5 (Texas)|State Highway 5]]
+*[[Berkas:Texas 78.svg|25px]] [[State Highway 78 (Texas)|State Highway 78]]
+*[[Berkas:Texas 289.svg|25px]] [[State Highway 289 (Texas)|State Highway 289]]
+*[[Berkas:Texas 121.svg|25px]] [[Berkas:Toll Texas 121.svg|25px]] [[State Highway 121 (Texas)|State Highway 121]]
+|}
+
+== Pranala luar ==
+{{Portal|Dallas}}
+*[http://www.co.collin.tx.us/ Collin County government's website]
+*[http://texashistory.unt.edu/permalink/meta-pth-15433:1 1846 Plat of Buckner] the first county seat of Collin County, from the Collin County Historical Society, hosted by the [http://texashistory.unt.edu/ Portal to Texas History]
+*[http://www.collin360.com/ Life in Collin County ]
+*[http://www.tshaonline.org/handbook/online/articles/hcc16 Collin County in ''Handbook of Texas Online''] at the [[University of Texas at Austin|University of Texas]]
+*[http://texashistory.unt.edu/browse/contributor/CCGS/ Collin Chronicles] hosted by the [http://texashistory.unt.edu/ Portal to Texas History]
+*[http://elections.sos.state.tx.us/elchist.exe Texas State Election History]
+*{{dmoz|Regional/North_America/United_States/Texas/Counties/Collin}}
+
+{{Geographic Location
+|Centre    = Collin County, Texas
+|North     = [[Grayson County, Texas|Grayson County]]
+|Northeast = [[Fannin County, Texas|Fannin County]]
+|East      = [[Hunt County, Texas|Hunt County]]
+|Southeast = [[Rockwall County, Texas|Rockwall County]]
+|South     = [[Dallas County, Texas|Dallas County]]
+|Southwest =
+|West      = [[Denton County, Texas|Denton County]]
+|Northwest =
+}}
+
+{{ Collin County, Texas}}
+{{Negara bagian Texas}}
+
+[[Kategori:{{County AS}} di Texas]]
+[[Kategori:Collin County, Texas| ]]
+
+
+{{AS-geo-stub}}

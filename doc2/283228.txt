@@ -1,0 +1,13 @@
+Templat:Sebangau, Palangka Raya
+{{Navigasi ID Desa |provinsi=Kalimantan Tengah|dati2=Kota |nama dati2=Palangka Raya
+|nama kecamatan=Sebangau
+|k1= Kereng Bangkirai
+|k2= Bereng Bengkel
+|k3= Danau Tundai
+|k4= Kalampangan
+|k5= Kameloh Baru
+|k6= Sabaru
+}}<noinclude>
+[[Kategori:Templat desa/kelurahan di Kalimantan Tengah|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kota Palangka Raya|{{PAGENAME}}]]
+</noinclude>

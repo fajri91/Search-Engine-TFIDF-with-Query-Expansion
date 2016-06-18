@@ -1,0 +1,45 @@
+Templat:Kualifikasi Kejuaraan U-19 AFC 2014
+{{Navbox
+| name   = Kualifikasi Kejuaraan U-19 AFC 2014
+| title  = [[Kualifikasi Kejuaraan U-19 AFC 2014]]
+| state  = {{{state|autocollapse}}}
+| listclass = hlist
+| group1 = Grup
+| list1 =
+* [[Grup A Kualifikasi Kejuaraan U-19 AFC 2014|Grup A]]
+* [[Grup B Kualifikasi Kejuaraan U-19 AFC 2014|Grup B]]
+* [[Grup C Kualifikasi Kejuaraan U-19 AFC 2014|Grup C]]
+* [[Grup D Kualifikasi Kejuaraan U-19 AFC 2014|Grup D]]
+* [[Grup E Kualifikasi Kejuaraan U-19 AFC 2014|Grup E]]
+* [[Grup F Kualifikasi Kejuaraan U-19 AFC 2014|Grup F]]
+* [[Grup G Kualifikasi Kejuaraan U-19 AFC 2014|Grup G]]
+* [[Grup H Kualifikasi Kejuaraan U-19 AFC 2014|Grup H]]
+* [[Grup I Kualifikasi Kejuaraan U-19 AFC 2014|Grup I]]
+| group2 = Lolos kualifikasi
+| list2  ={{Navbox subgroup
+  | group1 = Tuan rumah
+  | list1 = {{fbu|20|MYA}}
+  | group2 = Juara grup
+  | list2 = 
+* {{fbu|20|QAT}}
+* {{fbu|20|UAE}}
+* {{fbu|20|IRQ}}
+* {{fbu|20|IRN}}
+* {{fbu|20|OMA}}
+* {{fbu|20|VIE}}
+* {{fbu|19|IDN}}
+* {{fbu|20|PRK}}
+* {{fbu|20|JPN}}
+  | group3 = ''Runner-up'' grup terbaik
+  | list3 = 
+* {{fbu|20|UZB}}
+* {{fbu|20|YEM}}
+* {{fbu|20|AUS}}
+* {{fbu|20|KOR}}
+* {{fbu|20|THA}}
+* {{fbu|20|CHN}}
+}}
+}}<noinclude>
+{{collapsible option}}
+[[Category:Templat navigasi sepak bola|Kualifikasi Kejuaraan U-19 AFC]]
+</noinclude>

@@ -1,0 +1,37 @@
+Templat:Pemain Terbaik Tahunan Manchester United F.C.
+{{Navbox
+|basestyle = background:#e20e0e;color:#fff;border:1px solid black
+|title     = [[Pemain Terbaik Tahunan Sir Matt Busby|<span style="color:white;">Pemain Terbaik Tahunan Sir Matt Busby</span>]]
+|listclass = hlist
+|name      = Pemain Terbaik Tahunan Manchester United F.C.
+|list1     = 
+* 1988: [[Brian McClair|McClair]]
+* 1989: [[Bryan Robson|Robson]]
+* 1990: [[Gary Pallister|Pallister]]
+* 1991: [[Mark Hughes|Hughes]]
+* 1992: [[Brian McClair|McClair]]
+* 1993: [[Paul Ince|Ince]]
+* 1994: [[Eric Cantona|Cantona]]
+* 1995: [[Andrei Kanchelskis|Kanchelskis]]
+* 1996: [[Eric Cantona|Cantona]]
+* 1997: [[David Beckham|Beckham]]
+* 1998: [[Ryan Giggs|Giggs]]
+* 1999: [[Roy Keane|Keane]]
+* 2000: [[Roy Keane|Keane]]
+* 2001: [[Teddy Sheringham|Sheringham]]
+* 2002: [[Ruud van Nistelrooy|Van Nistelrooy]]
+* 2003: [[Ruud van Nistelrooy|Van Nistelrooy]]
+* 2004: [[Cristiano Ronaldo|Ronaldo]]
+* 2005: [[Gabriel Heinze|Heinze]]
+* 2006: [[Wayne Rooney|Rooney]]
+* 2007: [[Cristiano Ronaldo|Ronaldo]]
+* 2008: [[Cristiano Ronaldo|Ronaldo]]
+* 2009: [[Nemanja Vidi|Vidi]]
+* 2010: [[Wayne Rooney|Rooney]]
+* 2011: [[Javier Hernndez Balczar|Hernndez]]
+* 2012: [[Antonio Valencia|Valencia]]
+* 2013: [[Robin van Persie|Van Persie]]
+* 2014: [[David de Gea|De Gea]]
+}}<noinclude>
+[[Kategori:Templat Manchester United F.C.|Pemain terbaik]]
+</noinclude>

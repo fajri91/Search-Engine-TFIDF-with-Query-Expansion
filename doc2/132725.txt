@@ -1,0 +1,16 @@
+Berkas:Perumpamaan lalang.JPG
+== {{int:filedesc}} ==
+{{Information
+| description    =
+"[[Perumpamaan lalang di antara gandum]]", John S. C. Abbott dan Jacob Abbott, 1878
+
+Sumber: http://www.mun.ca/rels/restmov/texts/dasc/AINT0005.HTM
+| source         = (sumber)
+| date           = (tanggal)
+| location       = (tempat; opsional)
+| author         = (pembuat)
+| permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{PD-old}}

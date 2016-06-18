@@ -1,0 +1,13 @@
+Templat:Pengguna penggemar pasta
+{{userbox
+| logo-background = white
+| info-background = wheat
+| border-color = tan
+| info-color = 
+| logo = [[Berkas:Pastasciutta.JPG|60px|]]
+| info = <center>Pengguna ini suka menyantap '''[[pasta]]'''
+}}{{#if:{{{kat|}}}||<includeonly>[[Kategori:Pengguna penggemar pasta|{{PAGENAME}}]]</includeonly>}}<noinclude>
+{{clear}}
+Kategori yang ditambahkan: {{kt|Pengguna penggemar pasta}}
+[[Kategori:Templat userbox minat|pasta]]
+</noinclude>

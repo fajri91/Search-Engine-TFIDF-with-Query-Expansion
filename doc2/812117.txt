@@ -1,0 +1,35 @@
+Stasiun Ma'rang
+{{bukan|Stasiun Semarang Poncol|Stasiun Semarang Tawang}}
+{{infobox stasiun
+|name=Ma'rang
+|image=
+|caption=
+|prov=Sulawesi Selatan
+|kota=?
+|kecamatan kota=?
+|kelurahan kota=?
+|kodepos=?
+|oldname=
+|open=
+|close=
+|kode=MRG
+|tinggi=?
+|line= 
+|operator=[[Daerah Operasi X Makassar]]
+}}
+'''Stasiun Ma'rang''' ('''MRG''') adalah stasiun kereta api yang ada di [[Sulawesi Selatan]]. Stasiun ini menjadi stasiun ke-10 di [[Sulawesi Selatan]], akan nantinya tersambung sampai di [[Manado]] sepanjang 2000 km+.
+
+==Sejarah==
+-
+
+
+== Referensi ==
+{{reflist}}
+[[Jalur kereta api Trans-Sulawesi]]
+
+==Jalur kereta api==
+{{stasiun|Stasiun Labakkang|Jalur kereta api Makassar-Parepare|Stasiun Segeri}} 
+
+{{stasiun-stub}} 
+
+[[Kategori:Stasiun kereta api di Sulawesi]]

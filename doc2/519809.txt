@@ -1,0 +1,13 @@
+Templat:Pengguna film fantasi
+{{userbox
+| logo-background = #06f
+| info-background = #6cf
+| border-color = #06f
+| info-color   =  
+| logo = [[Berkas:Dattola.jpg|50px]]
+| info = <center>Pengguna ini menyukai '''film [[fantasi]]'''</center>
+}}{{#if:{{{kat|}}}||<includeonly>[[Kategori:Pengguna penggemar film fantasi|{{PAGENAME}}]]</includeonly>}}<noinclude>
+{{clear}}
+Kategori yang ditambahkan: {{kt|Pengguna penggemar film fantasi}}
+[[Kategori:Templat userbox minat|fantasi]]
+</noinclude>

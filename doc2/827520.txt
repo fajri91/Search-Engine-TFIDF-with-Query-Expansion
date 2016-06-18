@@ -1,0 +1,51 @@
+Patung Reunifikasi
+{{Infobox monument
+| name          = Patung Reunifikasi
+| native_name   = 
+| image         = Monument-to-National-Reunification-2014.jpg
+| caption       = Patung Reunifikasi
+| location      = Pyongyang, Korea Utara
+| designer      = 
+| type          = 
+| material      = 
+| length        = 
+| width         = {{convert|30|m|ft}}
+| height        = {{convert|61.5|m|ft}}
+| begin         = 
+| complete      = 
+| open          = {{start date|2001|08}}
+| dedicated_to  = {{Bulleted list|[[Tiga Prinsip Reunifikasi Nasional]]|[[Rencana Pendirian Republik Federal Demokratik Koryo]]|[[Sepuluh Titik Program untuk Reunifikasi Negara]]}}
+| map_image     = Pyongyang
+| map_text      = 
+| map_width     = 
+| relief        = 
+| coordinates   = 
+| latd  =38 | latm  =57 | lats  =52.300 | latNS  = N
+| longd =125 | longm =42 | longs =56.940 | longEW = E
+| lat           = 
+| long          = 
+| extra         = 
+}}
+{{Contains Korean text}}
+{{Infobox Korean name|
+context=north|
+title=Patung Reunifikasi|
+hangul=3|
+hanja={{linktext||||||||||||}}|
+mr=Choguk T'ongil Samtae Hnjang Kinymt'ap||
+rr=Joguk Tongil Samdae Heonjang Ginyeomtap
+}}
+'''Patung Reunifikasi''' (nama resmi: '''Monument Tiga Titik Piagam Reunifikasi Nasional''')<ref name="Corfield2013">{{cite book|author=Justin Corfield|title=Historical Dictionary of Pyongyang|url=http://books.google.com/books?id=a46gFDWr3aMC&pg=PA8|date=Juli 2013|publisher=Anthem Press|isbn=978-0-85728-234-7|pages=8}}</ref> adalah sebuah [[pelengkung]] yang terletak di selatan [[Pyongyang]], ibukota [[Korea Utara]]. Patung tersebut dibuka pada Agustus 2001 untuk memperingati proposal [[reunifikasi Korea]] yangbdibuat oleh [[Kim Il-sung]].<ref name="Harris37">{{cite book |title=Inside North Korea |last=Harris |first=Mark Edward |year=2007 |publisher=[[Chronicle Books]] |isbn=978-0-8118-5751-2 |page=37 |url=http://books.google.com/books?id=tc-_8GoNB3gC&pg=PA37 }}</ref>
+
+==Referensi==
+{{Reflist}}
+
+==Pranala luar==
+{{Commons category|Arch of Reunification}}
+* [http://naenara.com.kp/en/book/new_window.php?10+10010 ''Monument to the Three Charters for National Reunification''] at [[Naenara]]
+
+{{coord|38|57|51.5|N|125|42|56.5|E|type:landmark_region:KP|display=title}}
+
+[[Kategori:Bangunan dan struktur di Pyongyang]]
+[[Kategori:Monumen dan tempat peringatan di Korea Utara]]
+[[Kategori:Hubungan Korea Selatan dengan Korea Utara]]

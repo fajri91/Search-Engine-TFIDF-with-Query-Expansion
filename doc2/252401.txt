@@ -1,0 +1,78 @@
+VShell
+'''VShell''' adalah salah satu level pengoperasian program [[UNIX]] dengan kemampuan yang lengkap untuk membantu kebutuhan berfokus pada akses remote dan administrasi agar aman dalam mengirim data. Level yang lainnya adalah [http://en.wikipedia.org/wiki/C_shell C Shell] dan [http://id.wikipedia.org/wiki/Root_directory Root]. Dalam jenis shell yang berbeda digunakan pula operasi dan perintah yang berbeda. Hal ini dilakukan untuk membatasi penggunaan akses level C dan V. Banyak perusahaan telekomunikasi menerapkan sistem operasi ini dalam perangkatnya.
+
+== Manfaat utama server VShell ==
+'''# Menyediakan multi-protokol yang kuat untuk keamanan transit data''' {{br}}
+Protokol keamanan shell (tersedia dalam [http://id.wikipedia.org/wiki/File_Transfer_Protocol FTP] di atas [http://id.wikipedia.org/wiki/Transport_Layer_Security SSL]) memberikan bukti, standar terbuka otentikasi, enkripsi, dan integritas data agar dapat memberikan berbagai layanan untuk organisasi dengan baik.{{br}}
+* Pengamanan Shell adalah sebuah standar yang dapat diterima untuk administrasi sistem remote, seperti [http://en.wikipedia.org/wiki/SSH_file_transfer_protocol SFTP] untuk keamanan transfer data{{br}}
+* VShell berfokus pada administrator agar menghemat waktu, dari awal penyusunan untuk konfigurasi dan tugas otomasi
+* [http://en.wikipedia.org/wiki/VT220 VT220] menyediakan emulasi rendering layar dan komando keamanan Shells dan aplikasi lainnya	
+* otentikasi Pengguna menawarkan berbagai pilihan, termasuk kunci publik, [[Kerberos]], dan metode dua-faktor{{br}}
+{{br}}
+'''# Kontrol akses ke fitur dan file'''{{br}}	
+VShell memberi kontrol yang luas untuk mengelola hak-hak istimewa untuk shell, transfer data, dan layanan lainnya.	
+* menetapkan layanan keamanan shell - SFTP, [http://en.wikipedia.org/wiki/Secure_copy SCP], FTP / SSL, [http://portforward.com/ port forwarding] - diberikan kepada pengguna atau grup dengan VShell Access Control Lists (ACLs)<ref>http://www.itd.umich.edu/itcsdocs/s4111/</ref>
+* Dengan menggunakan fitur direktori virtual, administrator dapat menentukan beberapa jalur akses direktori untuk berbagai kelompok atau individu pengguna
+* VShell untuk [[UNIX]] mencakup Chroot Users<ref> http://www.faqs.org/docs/securing/chap29sec296.html</ref> dan pilihan untuk membatasi entitas Chroot Groups <ref>http://www.howtoforge.com/chroot_ssh_sftp_debian_etch</ref> ke direktori awal untuk akses shell, transfer data, atau eksekusi perintah jarak jauh{{br}}
+{{br}}	
+'''# Membuat dan mengkonfigurasi server dengan mudah'''{{br}}	
+VShell memasang dan berjalan secara "di luar kotak". Jendela konfigurasi dibuat lebih mudah dengan panel kontrol grafis. Semua perangkat mendukung konfigurasi jauh. Pilihan utama pemasangan memfasilitasi penyebaran dengan skala besar.	
+* Kontrol panel [[Windows]] grafis menawarkan kemudahan konfigurasi dari awal pemasangan untuk memilih daftar kontrol akses dan layanan memulai dan berhenti	
+* Remote konfigurasi tersedia untuk versi Windows, Linux <ref>http://www.linux.org/</ref>, dan UNIX	
+* Pilihan pemasangan dan konfigurasi termasuk pemasangan diam / tanpa perawatan , data jawab, dan pemasangan disesuaikan secara khusus, pengaturan yang telah dikonfigurasikan, dan termasuk data (untuk kualifikasi pembelian){{br}}	
+{{br}}	
+'''# Memantau dan mencatat aktivitas dengan dukungan otomatisasi''' {{br}}
+Salah satu cara utama untuk meningkatkan produktivitas penggunan adalah untuk menyediakan semua kemungkinan dukungan otomatisasi. Layanan VShell melakukan hal ini dengan kombinasi cara memicu kondisi, eksekusi perintah jarak jauh, dan utilitas baris perintah.
+* otomatisasi VShell memicu membantu melacak dan menanggapi peristiwa seperti usaha login yang gagal dan unduh data	
+* Perintah-perintah fitur RunAs <ref>http://www.microsoft.com/resources/documentation/windows/xp/all/proddocs/en-us/runas.mspx?mfr=true</ref> dari administrator memungkinkan pengguna untuk menggunakan perintah tertentu atau naskah yang membutuhkan hak istimewa tinggi	
+* Satu set utilitas baris perintah memfasilitasi otomatisasi dengan mengisi kesenjangan antara VShell dan aplikasi-aplikasi sistem operasi standar {{br}}	
+{{br}}	
+'''# Perizinan yang sesuai kebutuhan dengan berdasarkan hubungan'''{{br}}
+Edisi VShell yang mendukung tingkat koneksi berbeda secara bersamaan membuat biaya perizinan lebih efektif dari satu pengguna hingga ribuan. Menambahkan kemampuan FTPS bahkan memungkinkan pengiriman data lebih fleksibel. Program dukungan yang komprehensif termasuk pakar dukungan teknis dan perawatan berkala.	
+* Pilih edisi Administrator VShell sampai 2 koneksi sekaligus, regu kerja hingga 10 dan edisi [http://en.wikipedia.org/wiki/Enterprise_%28computer%29 Enterprise] untuk sambungan tak terbatas - tentukan tingkat yang diperlukan	
+* Untuk organisasi-organisasi perlu menawarkan pengiriman data yang ada didasarkan pada enkripsi SSL / [http://en.wikipedia.org/wiki/Transport_Layer_Security TLS] ,[http://en.wikipedia.org/wiki/FTPS FTPS], dan server Enterprise
+* Perangkat lunak VanDyke <ref>http://www.vandyke.com/</ref> secara komprehensif menyediakan dukungan teknis, termasuk evaluasi pra-penjualan, konsultasi untuk masalah pemasangan dan konfigurasi, serta mendukung pemeliharaan dan meningkatkan perangkat lunak
+	 
+== Edisi-edisi VShell ==	
+'''* Penyedia administrator VShell{{br}}'''
+Memungkinkan dua klien terkoneksi secara bersamaan dan dirancang terutama untuk penggunaan sistem remote administrasi.{{br}}	
+{{br}}	
+'''* Penyedia regu kerja VShell{{br}}'''	
+Memungkinkan sepuluh koneksi secara bersamaan, dan dimaksudkan untuk melayani kebutuhan kelompok besar pengguna.{{br}}
+{{br}}	
+'''* Penyedia pengusaha VShell{{br}}'''	
+Mendukung jumlah koneksi tak terbatas secara bersamaan untuk komunitas pengguna yang besar.{{br}}	
+{{br}}	
+'''* Penyedia VShell dengan FTPS{{br}}'''
+VShell dengan SSL atau FTPS menambahkan pengiriman data berbasis enkripsi untuk menyediakan sebuah protokol alternatif.{{br}}
+{{br}} 	
+'''* Server VShell buatan{{br}}'''	
+Server VShell buatan memungkinkan pelanggan untuk menggunakan konfigurasi VShell dengan opsi tertentu.
+	 	
+== Fitur utama ==	
+'''* Sumber direktori virtual beragam{{br}}'''	
+Kemampuan direktori virtual yang VShell yang berbeda memungkinkan menetapkan jalur akses direktori untuk pengguna atau grup.{{br}}	
+{{br}}
+'''* Integrasi akun Windows{{br}}'''
+Integrasi asli dengan akun pengguna [[Windows]] dan kelompok (lokal dan domain). Mengontrol akses ke fungsionalitas VShell.{{br}}	
+'''* Kontrol Akses{{br}}'''
+Memberikan akses ke layanan VShell oleh pengguna atau grup yang berwenang. Pada suatu individu atau kelompok dasar, membolehkan atau menolak akses ke layanan seperti [[VShell]], SFTP, SCP, FTP / SSL, port forwarding{{br}}
+{{br}}
+'''* Otentikasi pilihan{{br}}'''	
+Pilihan dari sejumlah mekanisme termasuk otentikasi kunci publik, Kerberos, dan sertifikat digital [http://en.wikipedia.org/wiki/X.509 X.509] untuk menciptakan otentikasi yang lebih aman dengan dua faktor strategi.{{br}}	
+{{br}}	
+'''* Pilihan FTPS{{br}}'''	
+Memilih antara keamanan Shell [http://en.wikipedia.org/wiki/SSH2 SSH2] dan FTP daripada SSL yang sesuai dengan standar jaringan.
+
+== Referensi ==
+{{reflist}}
+
+== Daftar pustaka ==
+* Wijanarko, Wahyu. 2005. ''Pemrograman Shell di Linux''. Indonesia : Andi Publisher
+	 	
+== Pranala luar ==
+* (en) [http://web.mit.edu/Kerberos/ Kerberos]	
+* (en) [http://www.vandyke.com/products/vshell/features.html VShell features]
+
+[[Kategori:Istilah teknologi informasi dalam bahasa Inggris]]
+[[Kategori:Teknologi sistem operasi]]

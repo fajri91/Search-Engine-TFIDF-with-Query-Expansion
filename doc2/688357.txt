@@ -1,0 +1,43 @@
+Orville, Pas-de-Calais
+{{Infobox French commune
+|name                   = Orville
+|region                 = [[Image:Blason Nord-Pas-De-Calais.svg|20px]] [[Nord-Pas-de-Calais]]
+|department             = [[Image:Pas de Calais Arms.svg|20px]] [[Pas-de-Calais]]
+|arrondissement         = Arras
+|canton                 = Pas-en-Artois
+|INSEE                  = 62640
+|postal code            = 62760
+|mayor                  = Yves Debureaux
+|term                   = 2008&ndash;2014
+|intercommunality       = [[Communaut de communes des Deux Sources|Deux Sources]]
+|longitude              = 2.4125
+|latitude               = 50.1344
+|elevation m            = 70
+|elevation min m        = 64
+|elevation max m        = 148
+|area km2               = 11.95
+|population             = 336
+|population date        = 2006
+}}
+
+'''Orville''' merupakan sebuah [[Komune di Perancis|komune]] di [[Departemen di Perancis|departemen]] [[Pas-de-Calais]] di sebelah utara [[Perancis]].
+
+{| align="center" rules="all" cellspacing="0" cellpadding="4" style="border: 1px solid #999; border-right: 2px solid #999; border-bottom:2px solid #999; background: #f3fff3"
+|+ style="font-weight: bold; font-size: 1.1em; margin-bottom: 0.5em"|Riwayat populasi
+|-style="background: #ddffdd"
+! 1962 !! 1968 !! 1975 !! 1982 !! 1990 !! 1999 !! 2006
+|-
+| align=center| 411 || align=center| 409 || align=center| 318 || align=center| 277 || align=center| 325 || align=center| 325 || align=center| 336
+|}
+== Lihat pula ==
+
+* [[Komune di departemen Pas-de-Calais]]
+
+== Referensi ==
+* [http://www.insee.fr/en/home/home_page.asp INSEE]
+{{reflist}}
+
+{{Komune di Pas-de-Calais}}
+
+[[Kategori:Komune di Pas-de-Calais]]
+[[Kategori:Komune di Perancis]]

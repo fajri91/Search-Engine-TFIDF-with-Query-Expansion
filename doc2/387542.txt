@@ -1,0 +1,15 @@
+Templat:Kenangkenangan PWPramuka
+{| style="border: 1px solid white; background-color: #402000;"
+|rowspan="2" valign="center" | [[Berkas:WikiProject_Scouting_Indonesia.svg|100px]]
+|rowspan="2" |
+|style="font-size: x-large; padding: 0; vertical-align: middle; height: 1.1em; color: #bf9f62" | [[Wikipedia:ProyekWiki Pramuka|<font color="white">'''Kenang-Kenangan dari ProyekWiki Pramuka'''</font>]]
+|-
+|style="vertical-align: middle; border-top: 1px solid gray;" | <font color="#bf9f62">Kenang-kenangan ini (bukan salah satu dari </font><font color="white">[[Wikipedia:BintangWiki|BintangWiki]]</font><font color="#bf9f62">) diberikan khusus untuk Anda yang bersedia memberi sumbangsih terhadap </font>[[Wikipedia:ProyekWiki Pramuka|<font color="white">ProyekWiki Pramuka</font>]] <font color="#bf9f62">dalam bentuk apapun</font><font color="#bf9f62"> dan Kami sangat berharap Anda untuk bisa atau mau bergabung dalam </font><font color="white">[[Wikipedia:ProyekWiki Pramuka|ProyekWiki Pramuka]]</font><font color="#bf9f62">. </font>
+|}
+
+<noinclude>
+==== Cara penggunaan ====
+<tt>'''<nowiki>{{Kenangkenangan PWPramuka}}</nowiki>'''</tt>.
+
+[[Kategori:Templat BintangWiki|Pramuka]]
+</noinclude>

@@ -1,0 +1,17 @@
+Templat:Diblok permanen
+{{ambox
+|image = [[berkas:Stop hand.svg|40px|Diblokir|link=]]
+|text  = '''Pengguna ini [[Wikipedia:Kebijakan pemblokiran|diblokir]] selamanya'''{{#if:{{{alasan|{{{1|}}}}}}|&nbsp;karena {{{alasan|{{{1}}}}}}.|.}}{{#if:{{{oleh|{{{2|}}}}}}|&nbsp;Pemblokiran ini dilakukan oleh {{{2|[[Pengguna:{{{oleh}}}]]}}}{{#if:{{{tanggal|}}}|&nbsp;pada tanggal {{{tanggal}}}|}}|}}<br />{{userv|{{PAGENAME}}}} [http://toolserver.org/~vvv/sulutil.php?user={{PAGENAMEE}} SULutil] <small>[{{fullurl:Special:Ipblocklist|ip={{PAGENAMEE}}}} Periksa status pemblokiran]</small>}}{{#if:{{{kat|}}}||{{#ifeq:{{NAMESPACE}}|Pengguna|<includeonly>[[Kategori:Pengguna yang diblokir selamanya|{{PAGENAME}}]]</includeonly>}}}}<noinclude>
+----
+*Kategori yang ditambahkan: {{kat|Pengguna yang diblokir selamanya}}
+*Cara penggunaan:
+<pre style="border:none;background:transparent;">
+{{diblok-permanen
+|alasan=
+|oleh=
+|tanggal=}}
+</pre>
+*Untuk templat diblok untuk vandalisme secara umum, gunakan {{tl|diblok}}
+
+{{Diblok/doc/lihatpula}}
+</noinclude>

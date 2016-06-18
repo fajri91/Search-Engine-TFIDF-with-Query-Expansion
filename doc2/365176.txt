@@ -1,0 +1,121 @@
+Templat:Referendum
+{| border="1" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
+|- style="background-color:#E9E9E9"
+! colspan="3" | {{{title}}}
+|- style="background-color:#E9E9E9"
+! style="width: 17em" | Ya atau Tidak
+! style="width: 5em" | Suara
+! style="width: 7em" | Persentase
+|-
+{{#if: {{{yespct|<noinclude>-</noinclude>{{{yes%|<noinclude>-</noinclude>}}}}}} |
+{{#if: {{{turnoutneeded|}}} |
+{{#ifexpr: {{{turnoutpct}}} >= {{{turnoutneeded}}} |
+{{!}} {{!}} [[Berkas:Yes check.svg|14px|alt=Referendum passed]] '''Ya'''
+{{!}} style="text-align:right;" {{!}} '''{{{yes}}}'''
+{{!}} style="text-align:right;" {{!}} '''{{{yes%|{{{yespct}}}}}}%'''
+{{!}}-
+{{!}} {{!}} No
+{{!}} style="text-align:right;" {{!}} {{{no}}}
+{{!}} style="text-align:right;" {{!}} {{{no%|{{{nopct}}}}}}%
+|
+{{!}} {{!}} [[Berkas:X mark.svg|14px|alt=Referendum failed]] '''Tidak'''
+{{!}} style="text-align:right;" {{!}} '''{{{no}}}'''
+{{!}} style="text-align:right;" {{!}} '''{{{no%|{{{nopct}}}}}}%'''
+{{!}}-
+{{!}} {{!}} Yes
+{{!}} style="text-align:right;" {{!}} {{{yes}}}
+{{!}} style="text-align:right;" {{!}} {{{yes%|{{{yespct}}}}}}%
+}}
+|
+{{#if: {{{majorityneeded|}}} |
+{{#ifexpr: {{{yespct|{{{yes%|0}}}}}} >= {{{majorityneeded}}}|
+{{!}} {{!}} [[File:Yes check.svg|14px|alt=Referendum passed]] '''Yes'''
+{{!}} style="text-align:right;" {{!}} '''{{{yes}}}'''
+{{!}} style="text-align:right;" {{!}} '''{{{yes%|{{{yespct}}}}}}%'''
+{{!}}-
+{{!}} {{!}} No
+{{!}} style="text-align:right;" {{!}} {{{no}}}
+{{!}} style="text-align:right;" {{!}} {{{no%|{{{nopct}}}}}}%
+{{!}}-class="tfoot" style="background:#f2f2f2;"
+{{!}} style="text-align:right;" {{!}} Required majority
+{{!}} colspan="2" style="text-align:right;" {{!}} '''{{{majorityneeded}}}%'''
+|
+{{!}} {{!}} [[Berkas:X mark.svg|14px|alt=Referendum failed]] '''Tidak'''
+{{!}} style="text-align:right;" {{!}} '''{{{no}}}'''
+{{!}} style="text-align:right;" {{!}} '''{{{no%|{{{nopct}}}}}}%'''
+{{!}}-
+{{!}} {{!}} Ya
+{{!}} style="text-align:right;" {{!}} {{{yes}}}
+{{!}} style="text-align:right;" {{!}} {{{yes%|{{{yespct}}}}}}%
+{{!}}-class="tfoot" style="background:#f2f2f2;"
+{{!}} style="text-align:right;" {{!}} Required majority
+{{!}} colspan="2" style="text-align:right;" {{!}} '''{{{majorityneeded}}}%'''
+}}
+|
+{{#ifexpr: {{{yespct|{{{yes%|0}}}}}} > {{{nopct|{{{no%|0}}}}}}|
+{{!}} {{!}} [[File:Yes check.svg|14px|alt=Referendum passed]] '''Ya'''
+{{!}} style="text-align:right;" {{!}} '''{{{yes}}}'''
+{{!}} style="text-align:right;" {{!}} '''{{{yes%|{{{yespct}}}}}}%'''
+{{!}}-
+{{!}} {{!}} Tidak
+{{!}} style="text-align:right;" {{!}} {{{no}}}
+{{!}} style="text-align:right;" {{!}} {{{no%|{{{nopct}}}}}}%
+|
+{{!}} {{!}} [[Berkas:X mark.svg|14px|alt=Referendum failed]] '''Tidak'''
+{{!}} style="text-align:right;" {{!}} '''{{{no}}}'''
+{{!}} style="text-align:right;" {{!}} '''{{{no%|{{{nopct}}}}}}%'''
+{{!}}-
+{{!}} {{!}} Ya
+{{!}} style="text-align:right;" {{!}} {{{yes}}}
+{{!}} style="text-align:right;" {{!}} {{{yes%|{{{yespct}}}}}}%
+}}}}}}
+|
+{{!}} {{!}}'''Hasil belum diketahui'''
+{{!}} style="text-align:right;" {{!}}
+{{!}} style="text-align:right;" {{!}}
+}}
+|-class="tfoot" style="background:#f2f2f2;"
+{{#if: {{{validpct|<noinclude>-</noinclude>}}} |
+{{!}} style="text-align:right;" {{!}} Suara sah
+{{!}} style="text-align:right;" {{!}} {{{valid}}}
+{{!}} style="text-align:right;" {{!}} {{{valid%|{{{validpct}}}}}}%
+}}
+|-class="tfoot" style="background:#f2f2f2;"
+{{#if: {{{invalidpct|<noinclude>-</noinclude>}}} |
+{{!}} style="text-align:right;" {{!}} Suara tidak sah atau kosong
+{{!}} style="text-align:right;" {{!}} {{{invalid}}}
+{{!}} style="text-align:right;" {{!}} {{{invalid%|{{{invalidpct}}}}}}%
+}}
+|-class="tfoot" style="background:#f2f2f2;"
+{{#if: {{{total|<noinclude>-</noinclude>}}} |
+{{!}} style="text-align:right;" {{!}} '''Total suara'''
+{{!}} style="text-align:right;" {{!}} '''{{{total}}}'''
+{{!}} style="text-align:right;" {{!}} '''100.00%'''
+|
+{{!}} style="text-align:right;" {{!}} '''Total suara'''
+{{!}} style="text-align:right;" {{!}} {{{total|}}}
+{{!}} style="text-align:right;" {{!}} '''0%'''
+}}
+|-class="tfoot" style="background:#f2f2f2;"
+{{#if: {{{turnoutpct|<noinclude>-</noinclude>}}} |
+{{!}} style="text-align:right;" {{!}} Pemilih
+{{!}} colspan="2" style="text-align:right;" {{!}} {{{turnoutpct}}}%
+}}
+|-class="tfoot" style="background:#f2f2f2;"
+{{#if: {{{turnoutneeded|<noinclude>-</noinclude>}}} |
+{{!}} style="text-align:right;" {{!}} Pemilih yang diperlukan
+{{!}} colspan="2" style="text-align:right;" {{!}} {{{turnoutneeded}}}%
+}}
+|-class="tfoot" style="background:#f2f2f2;"
+{{#if: {{{electorate|<noinclude>-</noinclude>}}} |
+{{!}} style="text-align:right;" {{!}} Para pemilih
+{{!}} colspan="2" style="text-align:right;" {{!}} {{{electorate}}}
+}}
+|-class="tfoot" style="background:#f2f2f2;"
+{{#if: {{{source|<noinclude>-</noinclude>}}} |
+{{!}} colspan="3" {{!}} Sumber: {{{source}}}
+}}
+|}<noinclude>
+{{Documentation}}
+<!-- PLEASE ADD THIS TEMPLATE'S CATEGORIES AND INTERWIKIS TO THE /doc SUBPAGE, THANKS -->
+</noinclude>

@@ -1,0 +1,37 @@
+20.000 (angka)
+{| class="infobox" style="width: 24em"
+|-
+| colspan="2" align="center" style="font: 72pt gill sans MT"|20.000
+|-
+| colspan="2"| {{numbers (digits)}}
+|-
+| [[Angka Kardinal|Kardinal]] || 20.000<br />dua puluh ribu
+|-
+| [[Angka Ordinal (linguistik)|Ordinal]] || ke-20.000 (20.000<sup>th</sup>)<br />kedua puluh ribu
+|-
+| [[Faktorisasi]] || <math> 2^5 \cdot 5^4</math>
+|-
+| [[Pembagi]] || 1, 2, 4, 5, 8, 10, 16, 20, 25, 32, 40, 50, 80, 100, 125, 160, 200, 250, 400, 500, 625, 800, 1.000, 1.250, 2.000, 2.500, 4.000, 5.000, 10.000, dan 20.000
+|-
+| [[Angka Romawi]] || {{overline|XX}}
+|-
+| [[Angka Jepang]] || 
+|-
+| [[Biner]] || 100111000100000
+|-
+| [[Oktal]] || 47040
+|-
+| [[Duodesimal]] || B6A8
+|-
+| [[Heksadesimal]] || 4E20
+|-
+| [[Bahasa Arab]] ||
+|}
+'''20.000''' (dibaca '''dua puluh ribu''') adalah sebuah [[angka]] dan [[sistem bilangan]] yang mewakili angka tersebut. Angka ini merupakan [[bilangan asli]] di antara [[19.999 (angka)|19.999]] dan [[20.001 (angka)|20.001]].
+== Penggunaan ==
+* [[Nominal|Nilai nominal]] [[uang kertas]] [[rupiah]] keluaran [[2004]] (diperbarui [[2009]] dan [[2010]]) dengan [[gambar]] [[Otto Iskandardinata]] (depan) dan pemetik [[teh]] (belakang).
+{{angka-stub}}
+{{DEFAULTSORT:20000}}
+
+[[Kategori:Angka]]
+[[Kategori:Bilangan bulat]]

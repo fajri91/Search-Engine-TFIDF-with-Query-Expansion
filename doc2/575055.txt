@@ -1,0 +1,64 @@
+2006 HC123
+{{Infobox Planet 
+|minorplanet = yes 
+|width = 25em 
+|bgcolour = 
+|apsis = 
+|name = 2006 HC123
+|symbol = 
+|image = 
+|caption = 
+|discovery = yes 
+|discovery_ref = 
+|discoverer =M. W. Buie
+|discovery_site =807
+|discovered = 2006/04/28
+|designations = yes
+|mp_name = 
+|alt_names = 
+|mp_category = 
+|orbit_ref = 
+|epoch = 
+|aphelion =49.020
+|perihelion =39.179
+|semimajor =44.099
+|eccentricity =0.112
+|period = 
+|avg_speed = 
+|inclination =10.7
+|asc_node =57.5
+|mean_anomaly =0.1
+|arg_peri =177.8
+|satellites = 
+|physical_characteristics = yes 
+|dimensions = 
+|mass = 
+|density = 
+|surface_grav = 
+|escape_velocity = 
+|sidereal_day = 
+|axial_tilt = 
+|pole_ecliptic_lat = 
+|pole_ecliptic_lon = 
+|albedo = 
+|temperatures= 
+|temp_name1 = 
+|mean_temp_1 = 
+|max_temp_1 = 
+|temp_name2 = 
+|max_temp_2 = 
+|spectral_type = 
+|abs_magnitude =7.5
+}}
+'''2006 HC123''' adalah sebuah [[objek trans-Neptunus]]. Seperti objek trans-Neptunus pada umumnya, benda ini mengorbit Matahari dari jarak yang lebih jauh dari planet [[Neptunus]].
+
+[[Eksentrisitas orbit]] objek ini tercatat sebesar 0.112, sementara [[magnitudo mutlak]]nya adalah 7.5.
+
+== Referensi ==
+
+* [http://www.minorplanetcenter.net/iau/lists/t_tnos.html Daftar Objek Transneptunus] - ''The International Astronomical Union Minor Planet Center.''
+*{{cite journal|last=Remo|first=John L.|title=Classifying Solid Planetary Bodies|year=2007|journal=AIP Conference Proceedings|volume=886|pages=284302|bibcode=2007AIPC..886..284R|doi=10.1063/1.2710063}}
+
+[[Kategori:Objek trans-Neptunus]]
+
+{{astronomi-stub}}

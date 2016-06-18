@@ -1,0 +1,18 @@
+Timbunan inti
+'''Timbunan inti''' ({{lang-en|core dump}}) adalah catatan isi memori sebuah program [[komputer]] pada suatu waktu tertentu, terutama ketika program tersebut telah berhenti secara tidak normal. Nama ini berasal dari istilah teknologi memori yang dulunya standar [[memori|ngingatan]] inti. Timbunan inti biasanya digunakan untuk mendiagnosis atau kesalahan dalam program komputer.
+
+== Lihat pula ==
+* [[Savestate]]
+* [[Brain dump]]
+* [[Core memory]]
+
+== Pranala luar ==
+* Article "[http://linuxfocus.berlios.de/English/July2004/article343.shtml Why does this not work!? How to find and fix faults in Linux applications]" by [[Guido Socher]]
+* Article "[http://www.ffnn.nl/pages/articles/linux/gdb-gnu-debugger-intro.php GDB, GNU Debugger Intro]" by [[Frank Schoep]]
+* Wikibook "[http://en.wikibooks.org/wiki/Guide_to_Unix/Explanations/Environment Guide To Unix]" for a reference to [[csh|cshell's]] "limit coredumpsize $BLOCKS|unlimited" and [[bash|bash's]] "ulimit -c $BLOCKS|unlimited", 
+
+{{komputer-stub}}
+
+
+[[Kategori:Pengawakutuan]]
+[[Kategori:Galat komputer]]

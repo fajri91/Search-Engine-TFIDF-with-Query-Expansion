@@ -1,0 +1,20 @@
+Templat:The Anti-Flame Barnstar
+{{bintangWiki|
+|nama="The Anti-Flame Barnstar"
+|border=grey
+|color=#fdffe7
+|namaberkas=Berkas:Antiflame-barnstar.png
+|size=90px
+|pesan=Penghargaan ini diberikan untuk pengguna yang tetap tenang dalam konflik dan menyelesaikan masalah dengan damai.
+|pesanpengguna={{{1|}}}
+|width={{{width|}}}
+}}<noinclude>
+
+====Cara penggunaan====
+<tt><nowiki>{{The Anti-Flame Barnstar|Komentar Nama_pengguna Tanggal}}</nowiki></tt>.
+
+Contoh:<br>
+<nowiki>{{The Anti-Flame Barnstar|Selamat! Aa 1 Juli 2011}}</nowiki> (karena keterbatasan teknis, nama pengguna pemberi BintangWiki dan tanggal harus diisi manual di templat)
+
+[[Kategori:Templat BintangWiki|Brilliant Idea]]
+</noinclude>

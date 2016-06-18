@@ -1,0 +1,51 @@
+Remang
+{{Taxobox
+|name=Remang
+|image=Pacific_hagfish_Myxine.jpg
+|image_caption=[[Pacific hagfish]] beristirahat di dasar laut, pada kedalaman 280&nbsp;m lepas pantai [[Oregon]]
+|regnum=[[Hewan|Animalia]]
+|phylum=[[Chordata]]
+|subphylum=[[Vertebrata]]
+|superclassis=[[Cyclostomata]]
+|classis='''Myxini'''
+|ordo='''Myxiniformes'''
+|familia='''Myxinidae'''
+|familia_authority=[[Constantine Samuel Rafinesque|Rafinesque]], 1815
+|synonyms = Bdellostomatidae 
+|subdivision_ranks=[[Genus|Genera]]
+|subdivision =
+
+* [[Rubicundinae]] <small>Fernholm et al. 2013</small>
+** ''[[Rubicundus]]'' <small>Fernholm et al. 2013</small>
+* [[Eptatretinae]] <small>Bonaparte 1850</small>
+** ''[[Eptatretus]]'' <small>Cloquet 1819</small>
+* [[Myxininae]] <small>Nelson 1976</small>
+** ''[[Myxine]]'' <small>Linnaeus 1758</small>
+** ''[[Nemamyxine]]'' <small>Richardson 1958</small>
+** ''[[Neomyxine]]'' <small>Richardson 1953</small>
+** ''[[Notomyxine]]'' <small>Nani & Gneri 1951</small>
+
+}}
+
+'''Remang''' atau '''ikan pasuk''' adalah hewan serupa [[ikan]] yang memiliki tulang belakang ([[vertebra]]) semu. Hewan air ini dianggap sebagai bentuk ikan purba. Habitatnya adalah [[laut]], [[sungai]], dan [[danau]].
+
+Remang tidak diklasifikasikan sebagai [[vertebrata]] karena tidak mempunyai tulang belakang (vertebra) sejati; juga tidak dapat dianggap [[avertebrata]] karena ia memiliki [[notokorda]] pada tahap awal perkembangan hidupnya dan [[tengkorak]] yang melindungi otaknya. Oleh para zoologiwan, remang dimasukkan ke dalam [[filum]] [[Chordata]], klad [[Craniata]], suprakelas [[Agnatha]], kelas '''Myxini'''.
+
+== Pranala luar ==
+{{Commons category|Myxinidae}}
+{{NIE Poster|year=1905|Hagfish}}
+* [http://www.fishbase.org/Summary/FamilySummary.cfm?ID=2 FishBase entry for Myxinidae]
+* [http://www.tellapallet.com/tree_of_life.htm Tree of life illustration showing hagfish's relation to other organisms]
+* [https://www.youtube.com/watch?v=NYRr_MrjebA YouTube 5+ minute video of Scripps scientist/diver on hagfish]
+* [http://www.metacafe.com/watch/1597296/hagfish_and_the_disgusting_slime/ Metacafe video of a University of Alberta grad student showing slime production of hagfish while in Bamfield, British Columbia]
+* [http://www.3news.co.nz/Beware-the-hagfish---repeller-of-sharks/tabid/1216/articleID/231051/Default.aspx Beware the hagfish  repeller of sharks] ''3 News'', 28 Oct 2011. Video.
+* [http://blog.tepapa.govt.nz/2011/10/28/hagfish-versus-sharks-1-0/ Hagfish versus sharks : 1-0] ''Te Papa Blog'', 28 October 2011.
+* [https://www.youtube.com/watch?v=nzMB8jqioV0 Teen Spots Hagfish-Slurping Elephant Seal  YouTube] (2:11)
+* [http://www.bbc.co.uk/news/magazine-21966514 What happens when a shark attacks a hagfish  BBC] (0:39)
+{{Animalia}}
+{{Chordata}}
+
+[[Kategori:Myxinidae]]
+
+
+{{binatang-stub}}

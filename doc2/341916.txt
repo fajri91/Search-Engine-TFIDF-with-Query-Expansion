@@ -1,0 +1,40 @@
+Alpha Cond
+{{Infobox Officeholder
+|name          = Alpha Cond
+|image         = Alpha Conde - World Economic Forum Annual Meeting 2012.jpg
+|image_size    = 200px
+|office        = [[Presiden Guinea]]
+|primeminister = [[Jean-Marie Dor]]<br>[[Mohamed Said Fofana]]
+|term_start    = 21 Desember 2010
+|term_end      = 
+|predecessor   = [[Skouba Konat]] <small>(Penjabat)</small>
+|successor     = 
+|spouse        = [[Djene Kaba Cond]]
+|birth_date    = {{birth date and age|1938|3|4|df=y}}
+|birth_place   = [[Bok]], [[Guinea Perancis]]<br><small>(sekarang [[Guinea]])</small>
+|death_date    = 
+|death_place   = 
+|party         = [[Majelis Rakyat Guinea]]
+|alma_mater    = [[Universitas Pantheon-Sorbonne]]
+|religion      = [[Islam]]<ref>[http://www.african-bulletin.com/watch/712-guinea-no-more-power-based-on-ethnicity.html Guinea: No more power based on ethnicity]</ref>
+}}
+'''Alpha Cond''' ({{lahirmati||4|3|1938}}) adalah [[politikus]] [[Guinea]] dan pemimpin [[Majelis Rakyat Guinea]] ({{lang|fr|Perancis}}: ''Rassemblement du Peuple Guinen''). Ia adalah profesor [[ilmu politik]] di [[Universitas Paris]] dan telah bertahun-tahun menjadi pihak oposisi terhadap suksesi rezim di Guinea. Setelah gagal dalam pemilihan umum presiden menghadapi [[Lansana Cont]] pada tahun [[1993]] dan [[1998]], ia terpilih menjadi [[Daftar Presiden Guinea|Presiden Guinea]] pada putaran kedua pemilihan umum 2010--yang dianggap merupakan pemilihan umum tepercaya pertama dalam sejarah Guinea.
+
+== Referensi ==
+
+{{reflist}}
+
+{{s-start}}
+{{s-off}}
+{{s-bef|before=[[Skouba Konat]]<br><small>Penjabat</small>}}
+{{s-ttl|title=[[Presiden Guinea]]|years=2010sekarang}}
+{{s-inc}}
+{{s-end}}
+
+{{Presiden Guinea}}
+{{Authority control|VIAF=128985866}}
+
+{{lifetime|1938||Cond, Alpha}}
+{{Politikus-stub}}
+
+[[Kategori:Presiden Guinea]]

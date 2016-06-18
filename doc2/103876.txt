@@ -1,0 +1,35 @@
+Common Gateway Interface
+{{kegunaan lain|CGI|CGI}}
+[[Berkas:CGI common gateway interface.png |thumb|right|260px|]]
+'''Common Gateway Interface''' atau disingkat '''CGI''' adalah suatu [[standar]] untuk menghubungkan berbagai program aplikasi ke [[web|halaman web]]. 
+
+CGI mirip sebuah [[program komputer]] yang menjadi perantara antara standar [[HTML]] yang menjadikan tampilan [[web]] dengan [[program]] lain, seperti [[basis data]] (''database'').<ref name="wk">Wahana Komputer, ''Kamus Istilah Internet'', halaman 15. ANDI.</ref> Hasil yang diperoleh dari proses pencarian dikirimkan kembali ke halaman web untuk ditampilkan dalam format HTML.<ref name="wk"/>
+
+== Pendahuluan ==
+Pada awalnya CGI adalah salah satu yang mendekati [[aplikasi]] ''server-side programming''.<ref name="andi"> Andi Sunyoto, M. Kom (Amikom Yogyakarta), ''Ajax Membangun Web dengan Teknologi Asynchronouse JavaScript & XML'', hal 121. ANDI.</ref> Program CGI yang sering digunakan adalah [[C++]] dan [[Perl]].<ref name="andi"/> CGI merupakan bagian dari [[web server]] yang dapat ber[[komunikasi]] dengan program lain yang ada di [[server]].<ref name="sr">Suwanto Raharjo S.Si, M.Kom & Dr. Jazi Eko Istiyanto, M.Sc. ''Keamanan Akses ke PostgreSQL Melalui PHP (Menggunakan Apache Web Server pada GNU / Linux)''</ref> Dengan CGI web server dapat memanggil program yang dibuat dari berbagai [[bahasa pemrograman]] (''Common'').<ref name="sr"/> Interaksi antara pengguna dengan berbagai aplikasi, misalnya [[database]], dapat dijembatani oleh CGI (''Gateway'')<ref name="sr"/>
+Kemampuan CGI ini dapat digunakan untuk Web Server IIS.
+
+== Sejarah CGI ==
+CGI (''Common Gateway Interface'') merupakan skrip tertua dalam bidang pemrograman web.<ref name="frans">Frans, ''Membuat Web Dinamis dan Interaktif dengan CGI'', halaman 4-5. ANDI.</ref> [[Script|Skrip]] bisa didefinisikan sebagai rangkaian dari beberapa instruksi program.<ref name="frans"/> Untuk membuat skrip yang dapat dijalankan pada web diperlukan pengetahuan [[pemrograman]].<ref name="frans"/>
+
+CGI sendiri telah muncul sejak [[teknologi]] web diperkenalkan di [[dunia]] pada awal [[tahun]] [[1990]], bersama dengan kemunculan [[CERN]], web server pertama di dunia.<ref name="frans"/> CGI disediakan sebagai ''[[tool]]'', atau perlengkapan untuk membuat program web.<ref name="frans"/> CGI digunakan untuk membuat program-program tampilan web yang lebih interaktif, koneksi ke basis data, bahkan membuat permainan (''game'').<ref name="frans"/>
+
+CGI pada masa-masa awalnya dibuat dengan [[bahasa C]], [[bahasa]] yang juga digunakan untuk membuat web server [[pertama]] yaitu, CERN. CGI kemudian diadopsi oleh NCSA (''National Central for Supercomputing Application'') web server, dan hingga kini masih digunakan pada [[Apache HTTP Server|Apache Web Server]], web server yang paling banyak digunakan oleh [[komunitas]] [[Internet]] saat ini.<ref name="frans"/>
+
+Walaupun demikian CGI bisa juga direalisasikan dengan banyak bahasa pemrograman lain. Mulai dari [[Bahasa C|C]], [[Perl]], [[Python]], [[PHP]], Tcl/Tk, hingga skrip ''shell'' pada [[UNIX]] / [[Linux|LINUX]].<ref name="frans"/>
+
+== Keamanan Program CGI ==
+CGI seringkali digunakan sebagai mekanisme untuk mendapatkan [[informasi]] dari user melalui ''fill out form'', mengakses [[basis data]] (database), atau menghasilkan halaman yang dinamis. meskipun secara prinsip mekanisme CGI tidak memiliki lubang [[keamanan]], program atau skrip yang dibuat sebagai CGI dapat memiliki lubang keamanan ataupun tidak sengaja). Potensi lubang keamanan yang digunakan dapat terjadi dengan CGI antara lain : <ref>Deris Stiawan, ''Sistem Keamanan Komputer'', halaman 138-139. Elex Media Komputindo.</ref>
+* Seorang pemakai yang nakal dapat memasang skrip CGI sehingga dapat mengirimkan berkas [[kata kunci]] (''[[password]]'') kepada pengunjung yang mengeksekusi CGI tersebut.
+* Program CGI dipanggil berkali-kali sehingga server menjadi terbebani karena harus menjalankan beberapa program CGI yang menghabiskan [[memori]] dan [[CPU]] ''cycle'' dari web server
+
+== Referensi ==
+{{reflist}}
+== Pranala luar ==
+
+* {{en}} [http://www.w3.org/CGI/ The CGI standard at w3.org]
+* {{en}} [http://hoohoo.ncsa.uiuc.edu/cgi/ The CGI/1.1 specification]
+
+{{Standar W3C}}
+
+[[Kategori:WWW]]

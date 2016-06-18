@@ -1,0 +1,35 @@
+Lyssomanes trinidadus
+{{Taxobox
+|name = Lyssomanes trinidadus
+|status = 
+|image = 
+|image_caption = 
+|domain = 
+|regnum = [[Animalia]]
+|phylum = [[Arthropoda]]
+|classis = [[Arachnida]]
+|ordo = [[Araneae]]
+|familia = [[Salticidae]]
+|genus =Lyssomanes
+|species = Lyssomanes trinidadus
+|binomial = Lyssomanes trinidadus
+|binomial_authority =Logunov & Marusik, 2003
+|range_map = 
+|range_map_caption = 
+|image2 = 
+|image2_caption = 
+|synonyms = 
+}}
+'''''Lyssomanes trinidadus''''' adalah spesies [[laba-laba]] yang tergolong [[familia]] [[Salticidae]]. Spesies ini juga merupakan bagian dari genus [[Lyssomanes]] dan ordo [[Araneae]]. Nama ilmiah dari spesies ini pertama kali diterbitkan pada tahun 2003 oleh Logunov & Marusik.
+
+Laba-laba ini biasanya banyak ditemui di Trinidad.
+
+== Referensi ==
+
+* Platnick, Norman I. (2010): [http://research.amnh.org/entomology/spiders/catalog/LINYPHIIDAE.html The world spider catalog], version 10.5. ''American Museum of Natural History''.
+
+{{DEFAULTSORT:Lyssomanes trinidadus}}
+
+[[Kategori:Salticidae]]
+
+{{labalaba-stub}}

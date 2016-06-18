@@ -1,0 +1,3 @@
+Templat:Fb team NIAC Mitra
+{{fb team |t=NIAC Mitra |tan=Mitra Kutai Kartanegara |tc=IDN |abb={{#if:{{{abb|}}}|MITR}} |oc={{#if:{{{oc|}}}|{{{oc}}} }} }}<!--
+--><noinclude>[[Kategori:Templat tim sepak bola Indonesia]]</noinclude>

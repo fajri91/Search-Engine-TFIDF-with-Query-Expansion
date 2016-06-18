@@ -1,0 +1,25 @@
+Bandar Udara Chalon - Champforgeuil
+{{Orphan|date=Maret 2016}}
+
+{{Kotakinfo bandara|nama=Bandar Udara Chalon - Champforgeuil
+|IATA=XCD
+|ICAO=LFLH
+|lokasi=[[Chalon-sur-Saone]]
+|negara=[[Perancis]]
+|pengelola=?
+|tipe=Sipil
+|waktu=UTC+1
+|elevasi=190 [[meter|m]] (623 [[feet|f]])
+|koordinat={{coor dms|46|49|34|N|004|49|03|E|type:airport|br=Y}}
+{{landaspacu|sudut=17/35|panjang_f=4,725|panjang_m=1,440|permukaan=Aspal}}
+}}
+
+'''Bandar Udara Chalon - Champforgeuil''' ([[Bahasa Perancis]]: ''Aroport de Chalon - Champforgeuil'') {{airport codes|XCD|LFLH}} adalah sebuah bandar udara yang terletak 7&nbsp;km utara barat laut dari [[Chalon-sur-Saone]], sebuah ''commune'' di ''dpartement'' [[Saone-et-Loire]], [[Perancis]].
+
+== Pranala luar ==
+* {{WAD|LFLH}}
+
+[[Kategori:Bandar udara di Perancis|Chalon-sur-Saone]]
+
+
+{{bandara-stub}}

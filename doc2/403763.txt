@@ -1,0 +1,132 @@
+Templat:Infobox Instrument/doc
+{{Documentation subpage}}
+
+==Kode==
+<pre>
+{{Infobox Instrument
+| name                  = 
+| names                 =
+| image                 = 
+| image_capt            =
+| background            =
+| classification        =
+| hornbostel_sachs      =
+| hornbostel_sachs_desc =
+| inventors             =
+| developed             =
+| range                 =
+| related               =
+| musicians             =
+| builders              =
+| articles              =
+}}
+</pre>
+
+==Penggunaan==
+Templat ini ditujukan untuk digunakan di semua halaman artikel mengenai alat musik. Gunakan parameter berikut:
+
+{| class="wikitable"
+|-
+|'''name'''||  Nama asli / nama lengkap alat musik. Bisa menggunakan <nowiki>{{subst:PAGENAME}}</nowiki>
+|-
+|names||  Nama lain dari alat musik bersangkutan.
+|-
+|image||  Nama berkas yang akan digunakan untuk menunjukkan gambar mengenai alat musik yang bersangkutan
+|-
+|image_capt||  Keterangan mengenai gambar alat musik
+|-
+|background||  Klasifikasi umum alat musik. Digunakan untuk memilih warna tema kotak info. Wajib memilih salah satu parameter berikut yang sesuai: 'keyboard', 'woodwind', 'brass', 'string', 'percussion', 'electronic', atau 'other'.
+|-
+|'''classification'''||  Klasifikasi alat musik (seperti "[[alat musik dawai]]" ataupun sejenisnya). Dapat dilengkapi dengan keterangan tambahan seperlunya.
+|-
+|hornbostel_sachs||  Klasifikasi [[Hornbostel-Sachs]] terhadap alat musik yang bersangkutan
+|-
+|hornbostel_sachs_desc||  Deskripsi kata-kata dari klasifikasi Hornbostel-Sachs
+|-
+|inventors||  Penemu pertama alat musik bersangkutan, hanya jika diketahui
+|-
+|developed||  Periode perkembangan alat musik bersangkutan dan darimana asalnya jika diketahui '''pasti''', termasuk alat musik pendahulunya jika ada. (contoh: "Awal abad ke-16" untuk [[biola]], "Awal abad ke-18 dari [[chalumeau]]" untuk [[klarinet]], dsb.)
+|-
+|range||  Jangkauan nada permainan dari alat musik bersangkutan (lebih diutamakan menggunakan gambar; banyak gambar telah dibuat, lihat [[commons:Category:Instrument ranges]])
+|-
+|related||  Alat musik terkait
+|-
+|musicians||  Musisi terkait
+|-
+|builders||  Pembuat / pabrikan alat musik terkait
+|-
+|articles||  Artikel lain yang mungkin terkait
+|}
+
+====Warna====
+Cantumkan klasifikasi umum pada parameter '''Background''' berdasarkan daftar berikut.  
+
+<table class="wikitable">
+<th>Kode</th>{{#if:{{{color|}}}|
+<th>{{{color}}}</th>}}
+<th>Warna</th>
+</tr>
+<tr>
+<td>keyboard</td>{{#if:{{{color|}}}|
+<td>{{Infobox Instrument/Color|keyboard}}</td>}}
+<td style="padding:0"><table class="infobox" style="border:0;margin:0;width:23em;font-size:90%"><tr><th style="border:0;padding:0;background:{{Infobox Instrument/Color|keyboard}}">Background information</th></tr></table></td>
+</tr>
+<tr>
+<td>woodwind</td>{{#if:{{{color|}}}|
+<td>{{Infobox Instrument/Color|woodwind}}</td>}}
+<td style="padding:0"><table class="infobox" style="border:0;margin:0;width:23em;font-size:90%"><tr><th style="border:0;padding:0;background:{{Infobox Instrument/Color|woodwind}}">Background information</th></tr></table></td>
+</tr>
+<tr>
+<td>brass</td>{{#if:{{{color|}}}|
+<td>{{Infobox Instrument/Color|brass}}</td>}}
+<td style="padding:0"><table class="infobox" style="border:0;margin:0;width:23em;font-size:90%"><tr><th style="border:0;padding:0;background:{{Infobox Instrument/Color|brass}}">Background information</th></tr></table></td>
+</tr>
+<tr>
+<td>string</td>{{#if:{{{color|}}}|
+<td>{{Infobox Instrument/Color|string}}</td>}}
+<td style="padding:0"><table class="infobox" style="border:0;margin:0;width:23em;font-size:90%"><tr><th style="border:0;padding:0;background:{{Infobox Instrument/Color|string}}">Background information</th></tr></table></td>
+</tr>
+<tr>
+<td>percussion</td>{{#if:{{{color|}}}|
+<td>{{Infobox Instrument/Color|percussion}}</td>}}
+<td style="padding:0"><table class="infobox" style="border:0;margin:0;width:23em;font-size:90%"><tr><th style="border:0;padding:0;background:{{Infobox Instrument/Color|percussion}}">Background information</th></tr></table></td>
+</tr>
+<tr>
+<td>electronic</td>{{#if:{{{color|}}}|
+<td>{{Infobox Instrument/Color|electronic}}</td>}}
+<td style="padding:0"><table class="infobox" style="border:0;margin:0;width:23em;font-size:90%"><tr><th style="border:0;padding:0;background:{{Infobox Instrument/Color|electronic}}">Background information</th></tr></table></td>
+</tr>
+<tr>
+<td>other</td>{{#if:{{{color|}}}|
+<td>{{Infobox Instrument/Color|other}}</td>}}
+<td style="padding:0"><table class="infobox" style="border:0;margin:0;width:23em;font-size:90%"><tr><th style="border:0;padding:0;background:{{Infobox Instrument/Color|other}}">Background information</th></tr></table></td>
+</tr>
+</table>
+
+
+==Lihat pula==
+*{{tl|Infobox musical artist}}
+
+<includeonly>
+[[Category:Templat]]
+
+[[cs:ablona:Infobox hudebn nstroj]]
+[[da:Skabelon:Infoboks musikinstrument]]
+[[de:Vorlage:Infobox Musikinstrument]]
+[[en:Template:Infobox instrument]]
+[[eo:ablono:Informkesto muzikilo]]
+[[es:Plantilla:Ficha de instrumento musical]]
+[[fr:Modle:Infobox Musique (instrument)]]
+[[hsb:Pedoha:Infokaik hudbny instrument]]
+[[ja:Template:Infobox ]]
+[[ko:: ]]
+[[mk:: ]]
+[[nl:Sjabloon:Infobox muziekinstrument]]
+[[pt:Predefinio:Info/Instrumento]]
+[[ro:Format:Instrument muzical]]
+[[ru:: ]]
+[[sk:ablna:Infobox hudobn nstroj]]
+[[tr:ablon:alg]]
+[[vi:Tiu bn:Nhc c v ko]]
+[[zh:Template:Infobox instrument]]
+</includeonly>

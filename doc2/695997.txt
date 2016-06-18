@@ -1,0 +1,24 @@
+Cekakak cina
+{{Taxobox
+| name = Cekakak cina
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22683249 |title=''Halcyon pileata'' |assessors=[[BirdLife International]] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image = Black-capped Kingfisher Thailand.jpg
+| regnum = [[Animal]]ia
+| phylum = [[Chordate|Chordata]]
+| classis = [[bird|Aves]]
+| ordo = [[Coraciiformes]]
+| familia = [[Halcyonidae]]
+| genus = ''[[Halcyon (genus)|Halcyon]]''
+| species = '''''H. pileata'''''
+| binomial = ''Halcyon pileata''
+| binomial_authority = ([[Pieter Boddaert|Boddaert]], 1783)
+}}
+
+'''Cekakak cina''' (''Halcyon pileata'') adalah spesies burung dalam famili [[Halcyonidae]]. Burung ini tersebar dari [[India]] ke timur sampai [[China]], [[Korea]] dan [[Taiwan]], serta ke selatan sampai Kepulauan Andaman dan Nicobar, [[Myanmar]], [[Laos]] dan [[Hainan]]. Musim dingin bermigrasi ke [[Sri Lanka]], Indochina, Semenanjung Malaysia, [[Sunda Besar]], [[Sulawesi]] dan [[Filipina]] selatan.<ref name=kutilang>{{cite web |url=http://www.kutilang.or.id/burung/konservasi/cekakak-cina/ |title=Cekakak Cina |publisher=Kutilang Indonesia |accessdate=31 Maret 2014 }}</ref>
+
+== Referensi ==
+{{reflist}}
+
+[[Kategori:Halcyon]]

@@ -1,0 +1,15 @@
+Templat:Keshogunan Muromachi
+{{Navbox
+|name = Keshogunan Muromachi
+| listclass = hlist
+| title = [[Keshogunan Muromachi]]
+|list1 = [[Ashikaga Takauji|Takauji]]  [[Ashikaga Yoshiakira|Yoshiakira]]  [[Ashikaga Yoshimitsu|Yoshimitsu]]  [[Ashikaga Yoshimochi|Yoshimochi]]  [[Ashikaga Yoshikazu|Yozhikazu]]  [[Ashikaga Yoshinori|Yoshinori]]  [[Ashikaga Yoshikatsu|Yoshikatsu]]  [[Ashikaga Yoshimasa|Yoshimasa]]  [[Ashikaga Yoshihisa|Yoshihisa]] <br> [[Ashikaga Yoshiki|Yoshiki]]  [[Ashikaga Yoshizumi|Yoshizumi]]  [[Ashikaga Yoshiki|Yoshiki]] (terpilih kembali)  [[Ashikaga Yoshiharu|Yoshiharu]]  [[Ashikaga Yoshiteru|Yoshiteru]]  [[Ashikaga Yoshihide|Yoshihide]]  [[Ashikaga Yoshiaki|Yoshiaki]]
+}}<noinclude>[[Kategori:Templat navigasi penguasa negara|{{PAGENAME}}]]
+[[Kategori:Templat Jepang|{{PAGENAME}}]]
+
+
+
+
+
+
+</noinclude>

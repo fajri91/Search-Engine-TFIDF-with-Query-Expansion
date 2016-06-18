@@ -1,0 +1,39 @@
+Templat:Topik Hindu
+{{Navbox
+|name = Topik Hindu
+| listclass = hlist
+| title = [[:Kategori:Hindu|Topik]] dalam [[agama Hindu]]
+|titlestyle = background-color: {{Hindu/warna}}; 
+|groupstyle = background-color: {{Hindu/warna}}; 
+|state = {{{state<includeonly>|autocollapse</includeonly>}}}
+
+|group1 = [[ruti]]
+|list1 = [[Weda]]  [[Upanisad]]  [[Srauta]]
+|group2 = [[Smerti]]
+|list2 = [[Itihasa]] (''[[Ramayana]]  [[Mahabharata]]   [[Bhagawadgita]]'')  ''[[Purana]]  [[Sutra (kitab)|Sutra]]  [[Agama (kitab)|Agama]]'' (''[[Tantra]]  [[Yantra]]'')  
+|group3 = [[:Kategori:Konsep Hindu|Konsep]]
+|list3 = [[Awatara]]  [[Atman]]  [[Brahman]]  [[Kosa]]  [[Dharma]]  [[Karma dalam agama Hindu|Karma]]  [[Moksa]]  [[Maya (ilusi)|Maya]]  [[Istadewata]]  [[Murti]]  [[Punarbhawa|Reinkarnasi (Punarbhawa)]]  [[Tatwa]]   [[Trimurti]]  [[Turiya]]&nbsp; [[Tradisi Guru-Shisya|Guru]]
+|group4 = [[Filsafat Hindu|Filosofi]]
+|list4 = [[Darshana]]  [[Samkhya]]  [[Nyaya]]  [[Waisiseka]]  [[Yoga]]  [[Mimamsa]]  [[Wedanta]]  [[Tantra]]  [[Bhakti Yoga]]  [[Jnana Yoga]]  [[Karma Yoga]]
+|group5 = Ritual
+|list5 = [[Aarti]]  [[Bhajan]]  [[Diksa]]  [[Mantra]]  [[Puja]]  [[Satsang]]  [[Stotra]]  [[Trisandya]]  [[Yadnya]]
+|group6 = Guru
+|list6 = [[Adi Shankara|Shankara]]  [[Ramanuja]]  [[Shri Madhvacharya|Madhvacharya]]  [[Ramakrishna Paramahamsa|Ramakrishna]]  [[Sarada Devi|Sarada Devi]]  [[Swami Vivekananda|Vivekananda]]  [[Narayana Guru]]  [[Sri Aurobindo|Aurobindo]]  [[Ramana Maharshi]]&nbsp; [[Swami Sivananda|Sivananda]]&nbsp; [[Chinmayananda]]  [[Satguru Sivaya Subramuniyaswami|Sivaya Subramuniyaswami]]  [[Swaminarayan]]  [[A. C. Bhaktivedanta Swami Prabhupada|Prabhupada]]  [[Lokenath]]  [[Sant Sri Asaramji Bapu]]  [[Sathya Sai Baba]]
+|group7 = Denominasi
+|list7 = [[Waisnawa]]  [[Saiwisme]]  [[Saktisme]]  [[Smartisme]]  [[Reformasi Hindu]]
+|group8 = [[Mitologi Hindu|Mitologi]]
+|list8 = [[Dewa-Dewi Hindu]]  [[Daftar Dewa-Dewi Hindu]]  [[Peperangan dalam mitologi Hindu]]  [[Kosmologi Hindu]]
+|group9 = [[Yuga]]
+|list9 = [[Satyayuga]]  [[Tretayuga]]  [[Dwaparayuga]]  [[Kaliyuga]]
+|group10 = [[Warna (Hindu)|Caturwarna]]
+|list10 = [[Brahmana]]  [[Ksatriya]]  [[Waisya]]  [[Sudra]]  [[Dalit]]
+|group11 = [[Agama Hindu di Nusantara|Hindu di Nusantara]]
+|list11 = 
+*[[Hindu Dharma]]
+*[[Hindu Jawa]]
+*[[Kaharingan|Hindu Kaharingan]]
+*[[Tolotang|Hindu Tolotang]]
+}}<noinclude>
+[[Kategori:Templat menurut topik agama|{{PAGENAME}}]]
+[[Kategori:Templat navigasi Hindu|{{PAGENAME}}]]
+</noinclude>

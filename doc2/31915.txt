@@ -1,0 +1,25 @@
+Templat:Kabupaten Tebo
+{{Navbox
+| name = Kabupaten Tebo
+| listclass = hlist
+| title =[[Kabupaten Tebo]], [[Jambi]]
+| image = [[Berkas:Lambang kab tebo.gif|30px|Lambang Kabupaten Tebo]]
+| group1 = Kecamatan
+| list1 = <div><!--
+-->[[Muara Tabir, Tebo|Muara Tabir]]{{}}<!--
+-->[[Rimbo Bujang, Tebo|Rimbo Bujang]]{{}}<!--
+-->[[Rimbo Ilir, Tebo|Rimbo Ilir]]{{}}<!--
+-->[[Rimbo Ulu, Tebo|Rimbo Ulu]]{{}}<!--
+-->[[Serai Serumpun, Tebo|Serai Serumpun]]{{}}<!--
+-->[[Sumay, Tebo|Sumay]]{{}}<!--
+-->[[Tebo Ilir, Tebo|Tebo Ilir]]{{}}<!--
+-->[[Tebo Tengah, Tebo|Tebo Tengah]]{{}}<!--
+-->[[Tebo Ulu, Tebo|Tebo Ulu]]{{}}<!--
+-->[[Tengah Ilir, Tebo|Tengah Ilir]]{{}}<!--
+-->[[VII Koto, Tebo|VII Koto]]{{}}<!--
+-->[[VII Koto Ilir, Tebo|VII Koto Ilir]]{{}}<!--
+-->[[VII Koto Ulu, Tebo|VII Koto Ulu]]<!--
+
+--></div>
+}}<noinclude>
+[[Kategori:Templat kecamatan Indonesia|Tebo, Kabupaten]]</noinclude>

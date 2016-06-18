@@ -1,0 +1,19 @@
+Cipondok, Sukaresik, Tasikmalaya
+{{desa
+|nama = Cipondok
+|peta = 
+|provinsi = Jawa Barat
+|dati2 = Kabupaten
+|nama dati2 = Tasikmalaya
+|kecamatan = Sukaresik
+<!--|kelurahan = desa--> 
+|nama pemimpin = 
+|luas =- 
+|penduduk =-
+|kepadatan =- 
+}}
+'''Cipondok''' adalah [[desa]] di [[kecamatan]] [[Sukaresik, Tasikmalaya|Sukaresik]], [[Kabupaten Tasikmalaya|Tasikmalaya]], [[Jawa Barat]], [[Indonesia]].
+
+{{Sukaresik, Tasikmalaya}}
+
+{{Kelurahan-stub}}

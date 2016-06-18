@@ -1,0 +1,66 @@
+Templat:4TeamBracket-Tennis35/doc
+{{Subhalaman dokumentasi}}
+<!-- TAMBAHKAN KATEGORI DAN PRANALA ANTARBAHASA DI BAGIAN PALING BAWAH HALAMAN INI -->
+
+=== Penggunaan ===
+Templat ini menggunakan [[sistem turnamen]] 4 peserta. Menggunakan pengaturan 3 set babak sebelumnya dan 5 set di babak final.
+==== Kode ====
+<pre>
+{{4TeamBracket-Tennis35
+| RD1=
+| RD2=
+
+| score-width=
+
+| RD1-seed1=
+| RD1-team1=
+| RD1-score1-1=
+| RD1-score1-2=
+| RD1-score1-3=
+| RD1-seed2=
+| RD1-team2=
+| RD1-score2-1=
+| RD1-score2-2=
+| RD1-score2-3=
+
+| RD1-seed3=
+| RD1-team3=
+| RD1-score3-1=
+| RD1-score3-2=
+| RD1-score3-3=
+| RD1-seed4=
+| RD1-team4=
+| RD1-score4-1=
+| RD1-score4-2=
+| RD1-score4-3=
+
+| RD2-seed1=
+| RD2-team1=
+| RD2-score1-1=
+| RD2-score1-2=
+| RD2-score1-3=
+| RD2-score1-4=
+| RD2-score1-5=
+| RD2-seed2=
+| RD2-team2=
+| RD2-score2-1=
+| RD2-score2-2=
+| RD2-score2-3=
+| RD2-score2-4=
+| RD2-score2-5=
+}}
+</pre>
+==== Parameter ====
+* '''RD1, RD2'''  [OPSIONAL] Nama dari setiap putaran. Otomatis bisa menjadi "Semifinal" dan "Final" masing-masing.
+* '''score-width'''  Lebar kolom skor.
+
+=== Lihat pula ===
+* [[Templat:4TeamBracket-Tennis35-with third]]
+* [[Templat:8TeamBracket-Tennis35]]
+* [[Templat:8TeamBracket-Tennis35-with third]]
+* [[Templat:16TeamBracket-Compact-Tennis35-Byes]]
+
+<includeonly>
+<!-- KATEGORI DAN PRANALA ANTARBAHASA DILETAKKAN DI SINI -->
+
+</includeonly>

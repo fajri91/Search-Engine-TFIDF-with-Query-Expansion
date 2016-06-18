@@ -1,0 +1,21 @@
+Berkas:Myeongseong.jpg
+{{dari|en}}
+==Penjelasan==
+{{Non-free use rationale logo|Article           = Empress Myeongseong (serial TV)
+|Use               = Infobox<!--Choose: Infobox / Org / Brand / Product -->
+<!-- ADDITIONAL INFORMATION -->
+|Used for          = [[Empress Myeongseong (serial TV)|Empress Myeongseong]]
+|Owner             = [[Korean Broadcasting System]]
+|Website           = http://www.kbs.co.kr
+|History           = 
+|Commentary        =
+<!--OVERRIDE FIELDS -->
+|Description       = 
+|Source            = 
+|Portion           = 
+|Low_resolution    = 
+|Purpose           = <!--Must be specified if Use is not Infobox / Org / Brand / Product-->
+|Replaceability    = 
+|other_information = 
+}}
+{{non-free logo|image has rationale=yes}}

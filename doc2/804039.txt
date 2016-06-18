@@ -1,0 +1,27 @@
+Templat:Features visited by Opportunity
+{{Navbox
+|name = Features visited by Opportunity
+|title = Fitur di [[Mars]] yang telah dikunjungi oleh ''[[Opportunity rover]]''
+|listclass = hlist
+|titlestyle = background:peachpuff;
+|image = [[File:PIA14508 - West Rim of Endeavour Crater on Mars.jpg|100px]] <!-- [[File:Opportunity in Endurance Crater.jpg|100px]] -->
+|groupstyle = background:antiquewhite;
+|group1 = Kawah
+|list1 =
+* [[Argo (kawah)|Argo]]  
+* [[Eagle (kawah)|Eagle]]  
+* [[Fram (kawah)|Fram]]  
+* [[Endurance (kawah)|Endurance]]     
+* [[Vostok (kawah)|Vostok]]  
+* [[Erebus (kawah)|Erebus]]  
+* [[Beagle (kawah)|Beagle]]  
+* [[Emma Dean (kawah)|Emma Dean]]  
+* [[Victoria (kawah)|Victoria]]
+* [[Santa Maria (kawah)|Santa Mara]]
+* [[Endeavour (kawah)|Endeavour]]
+}}<noinclude>
+{{documentation}}
+
+[[Category:Templat astronomi]]
+
+</noinclude>

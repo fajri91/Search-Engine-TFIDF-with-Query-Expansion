@@ -1,0 +1,56 @@
+Templat:Program Jaringan MTV
+{{Navbox
+| name      = MTV Network programs
+| title     = [[Daftar acara yang ditayangkan oleh MTV|Program Jaringan MTV]] (sekarang dan akan datang)
+| bodyclass = hlist
+| state     = collapsed
+| group1 = Seri musik
+| list1  = 
+* ''[[AMTV]]'' <small>(sejak 2009)</small>
+* ''[[MTV Unplugged]]'' <small>(sejak 1989)</small>
+* ''[[MTV#Post-TRL live shows (2009present)|MTV First]]'' <small>(sejak 2011)</small>
+* ''[[MTV#Recent music programs (2009present)|Hip Hop POV]]'' <small>(sejak 2012)</small>
+| group2 = Berita
+| list2  = 
+* ''[[True Life]]'' <small>(sejak 1998)</small>
+| group3 = Seri realitas
+| list3  = 
+* ''[[The Real World]]'' <small>(sejak 1992)</small>
+* ''[[Made (serial TV)|MADE]]'' <small>(sejak 2003)</small>
+* ''[[16 and Pregnant]]'' <small>(sejak 2009)</small>
+* ''[[Teen Mom 2]]'' <small>(sejak 2011)</small>
+* ''[[Ridiculousness (serial TV)|Ridiculousness]]'' <small>(sejak 2011)</small>
+* ''[[Friendzone (serial MTV)|Friendzone]]'' <small>(sejak 2011)</small>
+* ''[[Snooki & Jwoww]]'' <small>(sejak 2012)</small>
+* ''[[Catfish: The TV Show]]'' <small>(sejak 2012)</small>
+* ''[[Kesha: My Crazy Beautiful Life|Ke$ha: My Crazy Beautiful Life]]'' <small>(sejak 2013)</small>
+* ''[[Girl Code]]'' <small>(sejak 2013)</small>
+* ''[[Big Tips Texas]]'' <small>(sejak 2013)</small>
+* ''[[Generation Cryo]]'' <small>(sejak 2013)</small>
+| group4 = Seri kompetitif
+| list4  = 
+* ''[[The Challenge (serial TV)|The Challenge]]'' <small>(sejak 1998)</small>
+* ''Money From Strangers'' <small>(sejak 2012)</small>
+* ''The Substitute'' <small>(sejak 2012)</small>
+* ''[[Are You the One? (serial TV)|Are you the one?]]'' <small>(sejak 2014)</small>
+| group5 = Seri bicara
+| list5  =
+* ''[[MTV#Recent music programs (2009present)|10 on Top]]'' <small>(sejak 2010)</small>
+* ''Wolf Watch'' <small>(since 2014)</small>
+| group6 = Seri Scripted
+| list6  = 
+* ''[[Awkward (serial TV)|Awkward]]'' <small>(sejak 2011)</small>
+* ''[[Teen Wolf (serial TV 2014)|Teen Wolf]]'' <small>(sejak 2011)</small>
+* ''[[Faking It (serial TV 2014)|Faking It]]'' <small>(sejak 2014)</small>
+| group7 = Akan datang
+| list7 = 
+* ''Happyland'' <small>(2014)</small>
+* ''House of Food'' <small>(2014)</small>
+* ''Eye Candy'' <small>(2014)</small>
+* ''[[Finding Carter]]'' <small>(2014)</small>
+}}<noinclude>
+{{collapsible option}}
+{{U. S. network show templates}}
+[[Category:MTV|&tau;MTV]]
+[[Category:Kotak navigasi serial televisi Amerika Serikat]]
+</noinclude>

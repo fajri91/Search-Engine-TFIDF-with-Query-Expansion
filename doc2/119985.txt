@@ -1,0 +1,4 @@
+Templat:S-non
+<includeonly>|width="30%" align="center" {{#if:{{{rows|}}}|rowspan="{{{rows}}}"}}|'''{{{reason}}}'''{{#if:{{{reason2|}}}|<br/><div style="font-size:90%">{{{reason2}}}</div>}}</includeonly><noinclude>{{dokumentasi}}
+<!-- Add categories and interwikis to the /doc subpage, not here. -->
+[[Kategori:Templat kotak suksesi|{{PAGENAME}}]]</noinclude>

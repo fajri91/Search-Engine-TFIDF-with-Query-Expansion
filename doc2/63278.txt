@@ -1,0 +1,102 @@
+Sianobakteri
+{{Taxobox
+ |color = lightblue
+ |name = Cyanobacteria
+ |fossil_range = {{long fossil range|3500|0}}
+ |image = Tolypothrix (Cyanobacteria).JPG
+ |image_width = 240px
+ |image_caption = ''Tolypothrix'' sp.
+ |domain = [[Bacteria]]
+ |regnum = [[Bacteria|Eubacteria]]
+ |phylum = '''Cyanobacteria'''
+ |phylum_authority = [[Roger Stanier|Stanier]], 1973
+ |subdivision_ranks = Ordo
+ |subdivision = Taksonomi saat ini masih dalam revisi<ref name="Cyanophyceae cladistics">{{cite web |title=Cyanophyceae |url=http://www.accessscience.com/content/Cyanophyceae/175300 |work=Cyanophyceae |publisher=Access Science |accessdate=21 April 2011}}</ref><ref>
+{{cite journal
+ |author=Ahoren Oren
+ |year=2004
+ |title=A proposal for further integration of the cyanobacteria under the Bacteriological Code
+ |journal=Int. J. Syst. Evol. Microbiol.
+ |volume=54
+ |pages=18951902
+ |doi=10.1099/ijs.0.03008-0
+ |pmid=15388760
+ |issue=Pt 5
+}}
+</ref>
+*Bentuk Uniseluler
+[[Chroococcales]] (subordo-Chamaesiphonales dan Pleurocapsales)
+*Filamentous (dalam bentuk kolonial)
+[[Nostocales]] (= Hormogonales atau Oscillatoriales)
+*True-branching (pemula selama beberapa sumbu)
+[[Stigonematales]]
+|synonyms =
+*Myxophyceae <small>Wallroth, 1833</small>
+*Phycochromaceae <small>Rabenhorst, 1865</small>
+*Cyanophyceae <small>Sachs, 1874</small>
+*Schizophyceae <small>Cohn, 1879</small>
+*Cyanophyta <small>Steinecke, 1931</small>
+*Oxyphotobacteria <small>Gibbons & Murray, 1978</small>
+}}
+
+'''Cyanobacteria''' {{IPAc-en|s|a|||n|o|b||k||t|r|i|}}, juga dikenal sebagai '''Cyanophyta''', sering di Indonesiakan sebagai '''sianobakteri''' atau '''sianobakteria''' adalah sebuah [[filum]] [[bakteri]] yang mendapatkan kebutuhan energinya melalui [[fotosintesis]].<ref>{{cite web |first=brs |title=Life History and Ecology of Cyanobacteria |url=http://www.ucmp.berkeley.edu/bacteria/cyanolh.html |publisher=University of California Museum of Paleontology|accessdate=17 Juli 2012}}</ref> Nama "cyanobacteria" berasal dari warna bakteri ini ({{lang-el| (''kyans'')}} = biru). Mereka sering disebut '''alga biru-hijau''' (tetapi beberapa mengklaim bahwa penamaan itu salah, sianobakteri adalah organisme [[prokariotik]] sedangkan [[alga]] seharusnya [[eukariotik]],<ref name="Allaby 92">{{cite encyclopedia |last=Allaby |first=M ed. |year=1992 |encyclopedia=The Concise Dictionary of Botany |publisher=Oxford University Press |location=Oxford |title=Algae}}</ref> meskipun definisi lain mengenai alga juga mencakup organisme prokariotik).<ref>{{cite book|author=Lee, R. E.|year=2008|title=Phycology|publisher=Cambridge University Press}}</ref>
+
+Dengan memproduksi [[gas]] [[oksigen]] sebagai hasil sampingan fotosintesis, sianobakteri diperkirakan telah mengubah atmosfer tipis pada awal pembentukan [[bumi]] menjadi atmosfer yang [[redoks|teroksidasi]], mengakibatkan "perkaratan besar-besaran di Bumi"<ref>[[J. William Schopf|Schopf, J. W.]] (2012) [https://books.google.com/books?id=4oJ_vi27s18C&pg=PA17 "The fossil record of cyanobacteria"], pp. 1536 in Brian A. Whitton (Eds.) ''Ecology of Cyanobacteria II: Their Diversity in Space and Time''. ISBN 9789400738553.</ref> dan [[Peristiwa Oksigenasi Besar]] secara dramatis telah mengubah komposisi bentuk kehidupan di Bumi dengan menstimulasi [[biodiversitas]] dan menjadikan [[organisme anaerobik]] mendekati kepunahanya. Menurut [[teori endosimbiotik]], [[kloroplas]] yang ditemukan pada [[tumbuhan]] dan [[alga]] [[eukariotik]] adalah evolusi dari leluhur cyanobacteria melalui [[endosimbiosis]].
+
+Sianobakteria dapat dikatakan sebagai mikroorganisme tersukses di Bumi. Bakteri ini secara genetik memliki banyak variasi; mereka juga dapat hidup di berbagai macam habitat di seluruh penjuru bumi, tersebar di air tawar, air laut dan ekosistem darat, dan mereka ditemukan di relung terektstrem di seperti sumber air panas, pabrik garam dan teluk air tawar.
+
+== Ekologi ==
+[[Berkas:2010 Filamentous Cyanobacteria Bloom near Fiji.jpg|thumb|left|200px|''Blooming'' sianobakteria di perairan dekat [[Fiji]]]]
+Sianobakteria dapat ditemukan dihampir semua habitat terestrial dan akuatiklaut, air tawar, tanah lembab, batu yang untuk sementara terkena air di [[gurun|gurun-gurun]], batu cadas dan tanah di pegunungan, dan bahkan pada bebatuan di [[Antartika]] . Mereka dapat muncul sebagai sel-sel [[planktonik]] atau membentuk [[biofilm fototropis]] (koloni). Mereka ditemukan di hampir semua [[ekosistem endolithik]].<ref>{{cite journal |last=de los Ros |first=A |author2=Grube, M |author3=Sancho, LG |author4= Ascaso, C |title=Ultrastructural and genetic characteristics of endolithic cyanobacterial biofilms colonizing Antarctic granite rocks. |journal=FEMS Microbiology Ecology |date=February 2007 |volume=59 |issue=2 |pages=38695 |pmid=17328119 |doi=10.1111/j.1574-6941.2006.00256.x}}</ref> Beberapa diantaranya merupakan organisme [[endosimbiosis]] pada [[liken]], tanaman, bermacam-macam [[protista]], atau [[spons laut]] dan menyediakan energi untuk [[Inang (biologi)|inangnya]]. Ada juga yang hidup di bulu [[kungkang]], menyediakan suatu bentuk [[kamulflase]].<ref>{{cite book|last=Vaughan|first=Terry|title=Mammalogy|year=2011|publisher=Jones and Barlett|page=21|url=http://books.google.com/books?id=LD1nDlzXYicC&pg=PA21&lpg=PA21&dq=#v=onepage&q&f=false|isbn=9780763762995}}</ref>
+
+Sianobakteri akuatik terkenal dengan ''bloomingnya'' yang luas dan dapat terlihat jelas, dapat terbentuk baik di [[air tawar]] ataupun lingkungan perairan laut. ''Blooming'' ini dapat berwarna biru-hijau atau kuning-kecoklatan. ''Blooming'' ini biasanya mengandung [[racun]], dan seringkali menyebabkan perairan tempat rekreasi ditutup. [[Bakteriofage laut]] adalah [[parasit]] utama sianobakteri uniseluler yang hidup di laut.<ref>Schultz, Nora (30 August 2009) [http://www.newscientist.com/article/mg20327235.000-photosynthetic-viruses-keep-worlds-oxygen-levels-up.html "Photosynthetic viruses keep world's oxygen levels up"]. ''[[New Scientist]]''.</ref>
+
+{{clear}}
+
+== Klasifikasi ==
+Sianobakteri secara tradisional diklasifikasikan menjadi lima kelompok, berdasar struktur tubuhnya yaitu: [[Chroococcales]], [[Pleurocapsales]], [[Oscillatoriales]], [[Nostocales]], dan [[Stigonematales]]. Pengelompokan ini sekarang dipandang tidak tepat dan proses revisi tengah dilakukan dengan bantuan teknik-teknik [[biologi molekular]].
+
+== Penyematan (fiksasi) nitrogen dan karbon ==
+Cyanobakteri adalah satu-satunya kelompok organisme yang mampu me[[reaksi redoks|reduksi]] [[nitrogen]] dan [[karbon]] dalam kondisi dengan [[oksigen]] (aerob) maupun tanpa oksigen (anaerob). Mereka melakukannya dengan mengoksidasi [[belerang]] (sulfur) sebagai pengganti oksigen. Penyematan nitrogen dilakukan dalam bentuk heterosista, sementara penyematan karbon dilakukan dalam bentuk sel fotosintetik, menggunakan [[pigmen tumbuhan|pigmen]] [[klorofil]] (seperti [[tumbuhan]] hijau) maupun [[fikosianin]] (khas kelompok bakteri ini).
+
+== Peran biologi ==
+Beberapa spesies sianobakteria memproduksi racun [[saraf]] (neutrotoksin), [[hati]] (hepatotoksin), dan sel (sitotoksin). Mereka membentuk [[endotoksin]] sehingga berbahaya bagi [[hewan]] dan [[manusia]].
+
+Beberapa sianobakteri yang menghuni perairan melepaskan [[geosmin]], senyawa organik yang bertanggung jawab atas aroma tanah/lumpur.
+
+''[[Anabaena]]'' bersimbiosis pada [[akar]] [[sikas]] atau [[jaringan]] [[paku air]] ''[[Azolla]]'' dan membantu penyediaan nitrogen bagi inangnya.
+
+== Referensi ==
+{{reflist}}
+
+== Bacaan lanjutan ==
+* Gillian Cribbs (1997), ''Nature's Superfood: the Blue-Green Algae Revolution'', Newleaf, ISBN 0-7522-0569-2.
+* [[Marshall Savage]] (1992, 1994), [[The Millennial Project: Colonizing the Galaxy in Eight Easy Steps]], Little, Brown, ISBN 0-316-77163-5.
+* Fogg, G.E., Stewart, W.D.P., Fay, P. and Walsby, A.E. (1973), ''The Blue-green Algae'', Academic Press, London and New York, ISBN 0-12-261650-2.
+* "[http://www.ucmp.berkeley.edu/bacteria/cyanointro.html Architects of the earth's atmosphere]", Introduction to the Cyanobacteria, [[University of California, Berkeley]], 3 February 2006.
+* Whitton, B. A., Phylum Cyanophyta (Cyanobacteria), in ''The Freshwater Algal Flora of the British Isles'', Cambridge, [[Cambridge University Press]], ISBN 0-521-77051-3.
+* {{cite journal |doi= 10.1080/09670262.2010.492914 |author= Pentecost A., Franke U. |year= 2010 |title= Photosynthesis and calcification of the stromatolitic freshwater cyanobacterium ''Rivularia'' |url= |journal= Eur. J. Phycol |volume= 45 |issue= 4 |pages= 345353 |last2= Franke}}.
+* Whitton, B. A. and Potts, M. (Eds) (2000), ''The Ecology of Cyanobacteria: their Diversity in Time and Space'', Springer, ISBN 0-7923-4735-8.
+* Whitton, B. A. (Ed) (2012) [https://books.google.co.nz/books?id=4oJ_vi27s18C&printsec=frontcover&dq=%22Ecology+of+Cyanobacteria+II%22&hl=en&sa=X&ei=3c0JVYz7IsH18QWAuIGACg&ved=0CCUQ6AEwAA#v=onepage&q=%22Ecology%20of%20Cyanobacteria%20II%22&f=false ''Ecology of Cyanobacteria II: Their Diversity in Space and Time] Springer Science & Business Media. ISBN 9789400738553.
+* "[http://www.paristechreview.com/2011/12/01/micro-algae-blue-oil/ From Micro-Algae to Blue Oil]", ParisTech Review, December 2011.
+
+== Pranala luar ==
+{{Commons category|Cyanobacteria}}
+* [http://www.thebigger.com/biology/monera/what-are-cyanobacteria-and-what-are-its-types/ What are Cyanobacteria and What are its Types?]
+* [http://www-cyanosite.bio.purdue.edu Webserver for Cyanobacteria Research]
+* [http://genome.kazusa.or.jp/cyanobase CyanoBase]
+* [http://demonstrations.wolfram.com/GrowthModelForTheBlueGreenAlgaAnabaenaCatenula/ Growth Model for the Blue-Green Alga ''Anabaena catenula''] ''[[Wolfram Demonstrations Project]]''requires [http://demonstrations.wolfram.com/download-cdf-player.html CDF player (free)]
+* [http://scientistatwork.blogs.nytimes.com/2013/01/31/diving-an-antarctic-time-capsule-filled-with-primordial-life Diving an Antarctic Time Capsule Filled With Primordial Life]
+<!--
+{{CC-notice|cc=by2.5|url=http://dx.doi.org/10.1371/journal.pone.0010821}}-->
+
+{{Plankton}}<!--
+{{Bacteria classification}}
+{{Use dmy dates|date=January 2011}}-->
+
+[[Kategori:Bakteri fototropis]]
+[[Kategori:Cyanobacteria|*]]
+[[Kategori:Fotosintesis]]
+[[Kategori:Bakteri gram-negatif]]
+[[Kategori:Kimia lingkungan]]
+[[Kategori:Filum bakteri]]

@@ -1,0 +1,35 @@
+Araeoncus duriusculus
+{{Taxobox
+|name = Araeoncus duriusculus
+|status = 
+|image = 
+|image_caption = 
+|domain = 
+|regnum = [[Animalia]]
+|phylum = [[Arthropoda]]
+|classis = [[Arachnida]]
+|ordo = [[Araneae]]
+|familia = [[Linyphiidae]]
+|genus =Araeoncus
+|species = Araeoncus duriusculus
+|binomial = Araeoncus duriusculus
+|binomial_authority =Caporiacco, 1935
+|range_map = 
+|range_map_caption = 
+|image2 = 
+|image2_caption = 
+|synonyms = 
+}}
+'''''Araeoncus duriusculus''''' adalah spesies [[laba-laba]] yang tergolong [[familia]] [[Linyphiidae]]. Spesies ini juga merupakan bagian dari ordo [[Araneae]]. Nama ilmiah dari spesies ini pertama kali diterbitkan pada tahun 1935 oleh Caporiacco.
+
+Laba-laba ini biasanya banyak ditemui di Karakorum.
+
+== Referensi ==
+
+* Platnick, Norman I. (2010): [http://research.amnh.org/entomology/spiders/catalog/LINYPHIIDAE.html The world spider catalog], version 10.5. ''American Museum of Natural History''.
+
+{{DEFAULTSORT:Araeoncus duriusculus}}
+
+[[Kategori:Linyphiidae]]
+
+{{labalaba-stub}}

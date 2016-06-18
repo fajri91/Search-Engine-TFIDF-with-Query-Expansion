@@ -1,0 +1,112 @@
+Gas alam
+[[Berkas:Natural gas production world.PNG|thumb|250px|Produksi gas alam dunia, warna coklat adalah produksi terbesar, diikuti warna merah]]
+
+'''Gas alam ''' sering juga disebut sebagai '''gas Bumi''' atau '''gas rawa''', adalah [[bahan bakar fosil]] berbentuk gas yang terutama terdiri dari [[metana]] [[karbon|C]][[hidrogen|H]]<sub>4</sub>). Ia dapat ditemukan di [[ladang minyak]], [[ladang gas Bumi]] dan juga tambang [[batu bara]]. Ketika gas yang kaya dengan metana diproduksi melalui pembusukan oleh [[bakteri anaerobik]] dari bahan-bahan organik selain dari fosil, maka ia disebut [[biogas]]. Sumber biogas dapat ditemukan di [[rawa|rawa-rawa]], tempat pembuangan akhir [[sampah]], serta penampungan kotoran [[manusia]] dan [[hewan]].
+
+== Komposisi kimia ==
+Komponen utama dalam gas alam adalah metana (CH<sub>4</sub>), yang merupakan [[molekul]] [[hidrokarbon]] rantai terpendek dan teringan. Gas alam juga mengandung molekul-molekul hidrokarbon yang lebih berat seperti [[etana]] (C<sub>2</sub>H<sub>6</sub>), [[propana]] (C<sub>3</sub>H<sub>8</sub>) dan [[butana]] (C<sub>4</sub>H<sub>10</sub>), selain juga gas-gas yang mengandung sulfur ([[belerang]]). Gas alam juga merupakan sumber utama untuk sumber gas [[helium]].
+
+Metana adalah gas rumah kaca yang dapat menciptakan [[pemanasan global]] ketika terlepas ke atmosfer, dan umumnya dianggap sebagai polutan ketimbang sumber energi yang berguna. Meskipun begitu, metana di atmosfer bereaksi dengan ozon, memproduksi [[karbon dioksida]] dan air, sehingga efek rumah kaca dari metana yang terlepas ke udara relatif hanya berlangsung sesaat. Sumber metana yang berasal dari makhluk hidup kebanyakan berasal dari rayap, ternak (mamalia) dan pertanian (diperkirakan kadar emisinya sekitar 15, 75 dan 100 juta ton per tahun secara berturut-turut).
+
+{| border="1" cellpadding="4" cellspacing="0" style="border:1px solid #aaa; border-collapse:collapse"
+|- bgcolor="#cccccc"
+! '''Komponen'''
+! '''%'''
+|-
+|| Metana (CH<sub>4</sub>)|| 80-95
+|-
+|| Etana (C<sub>2</sub>H<sub>6</sub>) || 5-15 
+|-
+|| Propana (C<sub>3</sub>H<sub>8</sub>) and Butana (C<sub>4</sub>H<sub>10</sub>) || < 5 
+|-
+|}
+
+[[Nitrogen]], helium, [[karbon dioksida]] (CO<sub>2</sub>), [[hidrogen sulfida]] (H<sub>2</sub>S), dan air dapat juga terkandung di dalam gas alam. [[Merkuri]] dapat juga terkandung dalam jumlah kecil. Komposisi gas alam bervariasi sesuai dengan sumber ladang gasnya.
+
+Campuran [[organosulfur]] dan hidrogen sulfida adalah kontaminan (pengotor) utama dari gas yang harus dipisahkan . Gas dengan jumlah pengotor sulfur yang signifikan dinamakan ''sour gas'' dan sering disebut juga sebagai "acid gas ([[gas asam]])". Gas alam yang telah diproses dan akan dijual bersifat tidak berasa dan tidak berbau. Akan tetapi, sebelum gas tersebut didistribusikan ke pengguna akhir, biasanya gas tersebut diberi bau dengan menambahkan ''thiol'', agar dapat terdeteksi bila terjadi kebocoran gas. Gas alam yang telah diproses itu sendiri sebenarnya tidak berbahaya, akan tetapi gas alam tanpa proses dapat menyebabkan tercekiknya pernapasan karena ia dapat mengurangi kandungan oksigen di udara pada level yang dapat membahayakan.
+
+Gas alam dapat berbahaya karena sifatnya yang sangat mudah terbakar dan menimbulkan ledakan. Gas alam lebih ringan dari udara, sehingga cenderung mudah tersebar di atmosfer. Akan tetapi bila ia berada dalam ruang tertutup, seperti dalam rumah, konsentrasi gas dapat mencapai titik campuran yang mudah meledak, yang jika tersulut api, dapat menyebabkan ledakan yang dapat menghancurkan bangunan. Kandungan metana yang berbahaya di udara adalah antara 5% hingga 15%.
+
+Ledakan untuk [[gas alam terkompresi]] di kendaraan, umumnya tidak mengkhawatirkan karena sifatnya yang lebih ringan, dan konsentrasi yang di luar rentang 5 - 15% yang dapat menimbulkan ledakan.
+
+=== Kandungan energi ===
+Pembakaran satu meter kubik gas alam komersial menghasilkan 38 MJ (10.6 kWh).
+
+== Peyimpanan dan transportasi ==
+[[Berkas:Polyethylene gas main.jpg|thumb|right|Polyethylene gas main being laid in a trench.]]
+Metode penyimpanan gas alam dilakukan dengan "Natural Gas Underground Storage", yakni suatu ruangan raksasa di bawah tanah yang lazim disebut sebagai "salt dome" yakni kubah-kubah di bawah tanah yang terjadi dari reservoir sumber-sumber gas alam yang telah depleted. Hal ini sangat tepat untuk negeri 4 musim. Pada musim panas saat pemakaian gas untuk pemanas jauh berkurang (low demand), gas alam diinjeksikan melalui kompresor-kompresor gas kedalam kubah di dalam tanah tersebut. Pada musim dingin, di mana terjadi kebutuhan yang sangat signifikan, gas alam yang disimpan di dalam kubah bawah tanah dikeluarkan untuk disalurkan kepada konsumen yang membutuhkan.
+Bagi perusahaan (operator) penyedia gas alam, cara ini sangat membantu untuk menjaga stabilitas operasional pasokan gas alam melalui jaringan pipa gas alam.
+
+Pada dasarnya sistem transportasi gas alam meliputi :
+* Transportasi melalui pipa salur.
+* Transportasi dalam bentuk Liquefied Natural Gas (LNG) dengan kapal tanker LNG untuk pengangkutan jarak jauh.
+* Transportasi dalam bentuk Compressed Natural Gas (CNG), baik di daratan dengan road tanker maupun dengan kapal tanker CNG di laut, untuk jarak dekat dan menengah (antar pulau).
+
+Di Indonesia, Badan Pengatur Hilir Migas (BPH Hilir Migas) telah menyusun Master Plan "Sistem Jaringan Induk Transmisi Gas Nasional Terpadu". Dalam waktu yang tidak lama lagi sistem jaringan pipa gas alam akan membentang sambung menyambung dari Aceh-Sumatera Utara-Sumatera Tengah-Sumatera Selatan-Jawa-Sulawesi dan Kalimantan. Saat ini jaringan pipa gas di Indonesia dimiliki oleh PERTAMINA dan PGN dan masih terlokalisir terpisah-pisah pada daerah-daerah tertentu, misalnya di Sumatera Utara, Sumatera Tengah, Sumatera Selatan, Jawa Barat, Jawa Timur dan Kalimantan Timur.
+
+[[Carrier LNG]] dapat digunakan untuk mentransportasi [[gas alam cair]] (liquefied natural gas, LNG) menyebrangi samudra, sedangkan [[truk tangki]] dapat membawa gasa alam cair atau [[gas alam terkompresi]] (compressed natural gas, CNG) dalam jarak dekat. Mereka dapat mentransportasi gas alam secara langsung ke pengguna-akhir atau ke titik distribusi, seperti jalur pipa untuk transportasi lebih lanjut. Hal ini masih membutuhkan biaya yang besar untuk fasilitas tambahan untuk [[pencairan gas]] atau [[kompresi fisik|kompresi]] di titik produksi, dan [[penggasan]] atau dekompresi di titik pengguna-akhir atau ke jalur pipa.
+
+== Pemanfaatan ==
+Secara garis besar pemanfaatan gas alam dibagi atas 3 kelompok yaitu :
+* Gas alam sebagai bahan bakar, antara lain sebagai bahan bakar Pembangkit Listrik Tenaga Gas/Uap, bahan bakar industri ringan, menengah dan berat, bahan bakar kendaraan bermotor (BBG/NGV), sebagai gas kota untuk kebutuhan rumah tangga hotel, restoran dan sebagainya.
+
+* Gas alam sebagai bahan baku, antara lain bahan baku pabrik pupuk, petrokimia, metanol, bahan baku plastik (LDPE = low density polyethylene, LLDPE = linear low density polyethylene, HDPE = high density polyethylen, PE= poly ethylene, PVC=poly vinyl chloride, C3 dan C4-nya untuk LPG, CO2-nya untuk soft drink, dry ice pengawet makanan, hujan buatan, industri besi tuang, pengelasan dan bahan pemadam api ringan.
+
+* Gas alam sebagai komoditas energi untuk ekspor, yakni Liquefied Natural Gas (LNG.
+Teknologi mutakhir juga telah dapat memanfaatkan gas alam untuk air conditioner (AC=penyejuk udara), seperti yang digunakan di bandara Bangkok, Thailand dan beberapa bangunan gedung perguruan tinggi di Australia.
+
+== Gas alam di Indonesia ==
+Pemanfaatan gas alam di Indonesia dimulai pada tahun 1960-an di mana produksi gas alam dari ladang gas alam PT Stanvac Indonesia di Pendopo, Sumatera Selatan dikirim melalui pipa gas ke pabrik pupuk Pusri IA, PT Pupuk Sriwidjaja di Palembang.
+Perkembangan pemanfaatan gas alam di Indonesia meningkat pesat sejak tahun 1974, di mana PERTAMINA mulai memasok gas alam melalui pipa gas dari ladang gas alam di Prabumulih, Sumatera Selatan ke pabrik pupuk Pusri II, Pusri III dan Pusri IV di Palembang. Karena sudah terlalu tua dan tidak efisien, pada tahun 1993 Pusri IA ditutup,dan digantikan oleh Pusri IB yang dibangun oleh putera-puteri bangsa Indonesia sendiri. Pada masa itu Pusri IB merupakan pabrik pupuk paling modern di kawasan Asia, karena menggunakan teknologi tinggi. Di Jawa Barat, pada waktu yang bersamaan, 1974, PERTAMINA juga memasok gas alam melalui pipa gas dari ladang gas alam di lepas pantai (off shore) laut Jawa dan kawasan Cirebon untuk pabrik pupuk dan industri menengah dan berat di kawasan Jawa Barat dan Cilegon Banten. Pipa gas alam yang membentang dari kawasan Cirebon menuju Cilegon, Banten memasok gas alam antara lain ke pabrik semen, pabrik pupuk, pabrik keramik, pabrik baja dan pembangkit listrik tenaga gas dan uap.
+
+Selain untuk kebutuhan dalam negeri, gas alam di Indonesia juga di ekspor dalam bentuk LNG (Liquefied Natural Gas)
+
+Salah satu daerah penghasil gas alam terbesar di Indonesia adalah [[Aceh]]. Sumber gas alam yang terdapat di daerah [[Kota Lhokseumawe]] dikelola oleh [[PT Arun NGL Company]]. Gas alam telah diproduksikan sejak tahun 1979 dan diekspor ke [[Jepang]] dan [[Korea Selatan]].
+Selain itu di Krueng Geukuh, Nanggre Aceh Barh (kabupaten Aceh Utara) juga terdapat [[PT Pupuk Iskandar Muda]] pabrik pupuk [[urea]], dengan bahan baku dari gas alam.
+
+== Cadangan gas dunia ==
+Total cadangan dunia (yang sudah dikonfirmasi) adalah 6,112 triliun kaki kubik. Daftar 20 besar negara dengan cadangan gas terbesar dalam satuan triliun kaki kubik (trillion cu ft) adalah:<ref>[http://www.infoplease.com/ipa/A0872966.html Daftar 20 negara dengan cadangan gas alam terbesar]</ref>
+# Rusia	=1,680
+# Iran	=971
+# Qatar	=911
+# Arab Saudi	=241
+# United Arab Emirates	=214
+# Amerika Serikat	=193
+# Nigeria	=185
+# Aljazair	=161
+# Venezuela	=151
+# Irak	=112
+# '''Indonesia	=98'''
+# Norwegia	=84
+# Malaysia	=75
+# Turkmenistan	=71
+# Uzbekistan	=66
+# Kazakhstan	=65
+# Belanda	=62
+# Mesir	=59
+# Kanada	=57
+# Kuwait	=56
+Total cadangan 20 negara di atas adalah 5,510 triliun kaki persegi dan total cadangan negara-negara di luar 20 besar di atas adalah 602 triliun kaki persegi.
+
+Daftar ladang gas terbesar dalam satuan (*10<sup>9</sup> m):
+# Asalouyeh, South Pars Gas Field (10000 - 15000)
+# Urengoy gas field (10000)
+# Shtokman field (3200)
+# Karachaganak field, Kazakhstan (1800)
+# Slochteren (1500)
+# Troll (1325)
+# Greater Gorgon (1100)
+# Shah Deniz gas field (800)
+# '''Tangguh gas field , Indonesia (500)'''
+# Sakhalin-I (485)
+# Ormen Lange (400)
+# Jonah Field (300)
+# Snhvit (140)
+# Barnett Shale (60 - 900)
+# Maui gas field (?)
+
+== Referensi ==
+{{reflist}}
+
+[[Kategori:Energi]]
+[[Kategori:Gas alam| ]]

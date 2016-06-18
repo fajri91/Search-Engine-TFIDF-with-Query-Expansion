@@ -1,0 +1,19 @@
+Templat:BintangWiki Peru
+{{bintangWiki|
+|nama=BintangWiki Peru
+|border=gray
+|color=#fdffe7
+|namaberkas=Image:Per Gold1.png
+|pesan="BintangWiki Peru" diberikan kepada '''[[Pengguna:{{PAGENAME}}|{{PAGENAME}}]]''' yang telah memberikan sumbangan berharga kepada artikel-artikel bertopik Peru di Wikipedia bahasa Indonesia.
+|pesanpengguna={{{1|}}}
+|width={{{width|}}}
+}}<noinclude>
+
+==== Cara penggunaan ====
+<tt><nowiki>{{BintangWiki Peru|Komentar Nama_pengguna Tanggal}}</nowiki></tt>.
+
+Contoh:<br />
+<nowiki>{{BintangWiki Peru|Selamat! Joni 3 September 2006}}</nowiki> (karena keterbatasan teknis, nama pengguna pemberi BintangWiki dan tanggal harus diisi manual di templat)
+
+[[Kategori:Templat BintangWiki|Peru]]
+</noinclude>

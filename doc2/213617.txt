@@ -1,0 +1,173 @@
+Kereta api Brantas
+{{Peringatan jadwal KA}}
+{{Kotak info jalur kereta api
+| box_width   = 
+| name        = Kereta api Brantas
+| image       = Kabrantasbarat.jpg
+| image_width = 310
+| logo        = Plat_nama_KA_Brantas.PNG
+| logo_width  = 310
+| type = Ekonomi AC
+| system = Kereta api Jarak Jauh
+| status = Beroperasi
+| locale = Daop 7 Madiun
+| start = [[Stasiun Kediri|Kediri]]
+| end = [[Stasiun Pasar Senen|Jakarta Pasarsenen]]
+| stations = 16
+| routes = 1
+| ridership =
+| routenumber = 175-176
+| open = {{Start date and age|1980}}
+| close = 
+| reopen =
+| owner = [[PT Kereta Api Indonesia]]
+| operator = [[Daerah Operasi VII Madiun]]
+| character =
+| depot = Madiun (MN), Untuk Rangkaian Kereta <br /> Jatinegara (JNG), Untuk Lokomotif Permanen
+| stock = [[CC201]], [[CC203]]
+| linelength = 447 Km
+| tracklength =
+| notrack = 
+| gauge = 1067 mm
+| el = 
+| speed = 60 s.d. 100 km/jam
+| elevation = 
+| map = {{:Kereta api Brantas/rute}}
+}}
+'''Kereta Api Brantas''' adalah Kereta Api kelas [[Kereta api ekonomi|Ekonomi AC]] yang melayani koridor [[Stasiun Pasar Senen]] - [[Stasiun Kediri]] via [[Stasiun Semarang Tawang|Semarang Tawang]] di jalur utara. KA ini berada di bawah kendali [[Daerah Operasi VII Madiun]].
+
+== Stasiun-stasiun yang disinggahi ==
+KA 175 Brantas berhenti di [[Stasiun Kertosono]], [[Stasiun Caruban]], [[Stasiun Madiun]], [[Stasiun Paron]], [[Stasiun Walikukun]], [[Stasiun Sragen]], [[Stasiun Solo Jebres]], [[Stasiun Gundih]], [[Stasiun Semarang Poncol]], [[Stasiun Pekalongan]], [[Stasiun Tegal]], [[Stasiun Cirebon Prujakan]], [[Stasiun Jatinegara]], dan [[Stasiun Pasar Senen]].
+
+Ka 176 Brantas berhenti di [[Stasiun Haurgeulis]], [[Stasiun Jatibarang]], [[Stasiun Cirebon Prujakan]], [[Stasiun Tegal]], [[Stasiun Pekalongan]], [[Stasiun Semarang Tawang]], [[Stasiun Solo Jebres]], [[Stasiun Sragen]], [[Stasiun Paron]], [[Stasiun Madiun]], [[Stasiun Caruban]], [[Stasiun Kertosono]], dan [[Stasiun Kediri]].
+
+== Staformasi ==
+Berikut ini Rangkaian Kereta api Brantas:
+* 1 Lokomotif CC201/CC203 Dipo Induk (JNG)
+* 4 Kereta Ekonomi AC (K3)
+* 1 Kereta Makan (KMP3)
+* 4 Kereta Ekonomi AC (K3)
+* 1 Kereta Bagasi Cargo atau Bagasi ''New Livery'' (B)
+
+== Jadwal Perjalanan ==
+Jadwal Perjalanan Ka Brantas Mulai 1 April 2015
+
+'''KA 161 Brantas (Blitar- Jakarta Pasar Senen)'''
+{| class="wikitable"
+|-
+! Stasiun !! Kedatangan !! Keberangkatan
+|-
+| Blitar || - || 12.00
+|-
+| Tulungagung || 12.35 || 12.38
+|-
+| Kediri || 13.09 || 13.12
+|-
+| Madiun || 14.48 || 14.59
+|-
+| Sragen || 15.55 || 15.58
+|-
+| Solojebres || 16.23 || 16.29
+|-
+| Gundih || 17.12 || 17.17
+|-
+| Semarang Tawang || 18.51 || 19.02
+|-
+| Weleri || 19.43 || 19.45
+|-
+| Pekalongan || 20.30 || 20.35
+|-
+| Pemalang || 21.10 || 21.12
+|-
+| Tegal || 21.47 || 22.04
+|-
+| Brebes || 22.16 || 22.18
+|-
+| Babakan || 22.44 || 22.46
+|-
+| Cirebon Prujakan || 23.06 || 23.14
+|-
+| Jatibarang || 23.49 || 23.51
+|-
+| Pegadenbaru || 00.37 || 00.39
+|-
+| Bekasi || 01.56 || 01.58
+|-
+| Jatinegara || 02.15 || 02.17
+|-
+| Pasarsenen || 02.26 || -
+|}
+
+'''KA 162 Brantas (Jakarta Pasar Senen-Blitar)'''
+{| class="wikitable"
+|-
+! Stasiun !! Kedatangan !! Keberangkatan
+|-
+| Pasarsenen || - || 16.00
+|-
+| Pegadenbaru || 17.40 || 17.42
+|-
+| Haurgeulis || 17.57 || 17.59
+|-
+| Jatibarang || 18.34 || 18.36
+|-
+| Cirebon Prujakan || 19.10 || 19.19
+|-
+| Babakan || 19.43 || 19.45
+|-
+| Brebes || 20.16 || 20.18
+|-
+| Tegal || 20.33 || 20.53
+|-
+| Pemalang || 21.28 || 21.34
+|-
+| Pekalongan || 22.09 || 22.13
+|-
+| Weleri || 22.57 || 23.00
+|-
+| Semarang Tawang || 23.42 || 23.52
+|-
+| Gundih || 01.26 || 01.28
+|-
+| Solo Jebres || 02.11 || 02.17
+|-
+| Sragen || 02.51 || 02.57
+|-
+| Walikukun || 03.17 || 03.23
+|-
+| Kedunggalar || 03.32 || 03.39
+|-
+| Paron || 03.48 || 03.54
+|-
+| Geneng || 04.02 || 04.09
+|-
+| Madiun || 04.26 || 04.40
+|-
+| Baron || 05.35 || 05.41
+|-
+| Kediri || 06.25 || 06.28
+|-
+| Tulungagung || 07.00 || 07.03
+|-
+| Blitar || 07.38 || -
+|}
+
+==Galeri==
+<gallery>
+Berkas:Kereta api Brantas tikungan Madiun.JPG|Kereta api Brantas di [[Madiun]]
+</gallery>
+
+== Lihat pula ==
+* [[Kereta Api]]
+
+== Pranala luar ==
+* {{id}} [http://www.kereta-api.co.id Situs resmi kereta api Indonesia]
+* {{id}} [https://www.youtube.com/watch?v=E7f22l59Ygc|KA Brantas Meninggalkan Stasiun Madiun]
+
+{{DaftarKeretaApi}}
+
+[[Kategori:Kereta api di Indonesia|Brantas]]
+[[Kategori:Kereta api ekonomi|Brantas]]
+
+
+{{kereta-stub}}

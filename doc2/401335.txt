@@ -1,0 +1,22 @@
+Templat:Naringgul, Cianjur
+{{Navigasi ID Desa 
+|provinsi=Jawa Barat
+|dati2=Kabupaten 
+|nama dati2=Cianjur
+|nama kecamatan=Naringgul
+|d1=Balegede
+|d2=Cinerang
+|d3=Malati
+|d4=Margasari
+|d5=Mekarsari
+|d6=Naringgul
+|d7=Sukabakti
+|d8=Sukamulya
+|d9=Wanasari
+|d10=Wangunjaya
+|d11=Wangunsari
+}}
+<noinclude>
+[[Kategori:Templat desa/kelurahan di Jawa Barat|{{PAGENAME}}]]
+[[Kategori:Templat desa/kelurahan di Kabupaten Cianjur|{{PAGENAME}}]]
+</noinclude>

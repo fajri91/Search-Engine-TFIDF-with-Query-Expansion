@@ -1,0 +1,18 @@
+Templat:Paul Greengrass
+{{Navbox
+|name = Paul Greengrass
+| listclass = hlist
+| title =  Films yang disutradarai oleh [[Paul Greengrass]]
+|group1 = 1980an
+|list1 = ''[[Resurrected (film)|Resurrected]]'' (1989)
+|group2 = 1990an
+|list2 = ''[[The Theory of Flight]]'' (1998)
+|group3 = 2000an
+|list3 = ''[[Bloody Sunday (TV film)|Bloody Sunday]]'' (2002){{}} ''[[The Bourne Supremacy (film)|The Bourne Supremacy]]'' (2004){{}} ''[[United 93 (film)|United 93]]'' (2006){{}} ''[[The Bourne Ultimatum (film)|The Bourne Ultimatum]]'' (2007) 
+|group4 = 2010an
+|list4 = ''[[Green Zone (film)|Green Zone]]'' (2010)
+</div>
+}}<noinclude>
+[[Kategori:Templat sutradara film Inggris|Greengrass, Paul]]
+
+</noinclude>

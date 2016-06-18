@@ -1,0 +1,13 @@
+Templat:Kategori terjemahan
+__HIDDENCAT__
+{{cmbox|type=notice|text=Untuk menambahkan sebuah artikel ke kategori ini, gunakan  {{#ifeq:{{{topik|}}}||{{tlp|terjemah-{{{bahasa}}}}}|{{tlp|terjemah-{{{bahasa}}}}}}}. (Jangan menambahkan langsung artikel ke dalam kategori ini.)<br/>
+[[Bantuan:Kategori|Kategori]] ini merupakan bagian dari pemeliharaan Wikipedia, bukan merupakan bagian dari ensiklopedia. Kategori ini mendaftarkan halaman-halaman yang bukan merupakan [[WP:A|artikel]], atau mengelompokkan artikel berdasarkan statusnya, dan bukan isinya. <br/> Kategori ini [[:Kategori:Kategori tersembunyi|tidak ditampilkan]] pada halaman-halaman yang diberikan kategori ini.}}
+<includeonly>[[Kategori:Artikel yang perlu diterjemahkan|{{{bahasa}}}]]</includeonly>
+<noinclude><pre>
+{{Kategori terjemahan
+|bahasa=
+|topik=
+|empty=
+}}</pre>
+[[Kategori:Artikel yang perlu diterjemahkan| {{PAGENAME}}]]
+</noinclude>

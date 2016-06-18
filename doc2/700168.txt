@@ -1,0 +1,35 @@
+Al-Qinai
+'''Abdul Jawad bin Syu'ib bin Ahmad bin 'Ubbad bin Syu'ilb al Qinai al Mishri as Syafi'i''', adalah seorang [[ulama]] yang berasal dari daerah [[Qinai]] dan tinggal menetap di [[Mesir]], dia wafat pada tahun 1072 H.<ref name="Sirajuddinp=337">{{Harv|Abbas|2011|p=337}}.</ref>
+
+== Kitab-Kitab Karangan ==
+# Nazham kitab Waraaqat, karangan Imam Harmaini, ([[ushul fiqih]]).<ref name="Sirajuddinp=337"/>
+# 'Izhatul Wafuyah ([[tasawuf]]).<ref name="Sirajuddinp=337"/>
+# Al Qawatul Mudirah, (kopi pahit yang merusak).<ref name="Sirajuddinp=337"/>
+
+== Catatan Kaki ==
+{{reflist
+| colwidth = 30em
+| refs =
+}}
+== Daftar Pustaka ==
+{{refbegin|1}}
+
+# {{cite book
+|title = Ulama Syafi'i dan kitab-kitabnya dari abad ke abad
+|last1 = Abbas
+|first1 = Sirajuddin
+|year = 2011
+|publisher = Pustaka Tarbiyah Baru
+|location = Jakarta, Indonesia
+|isbn = 978-979-26-4317-6
+|ref = harv
+}}
+
+{{refend}}
+
+{{Navbox Ulama Ahli Fiqih Mazhab Syafi'i}}
+
+[[Kategori:Ulama Syafi'i Abad ke-11 H|Al Qinai]]
+
+
+{{islam-bio-stub}}

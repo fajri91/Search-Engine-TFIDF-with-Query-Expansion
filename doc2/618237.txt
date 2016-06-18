@@ -1,0 +1,35 @@
+Myrmarachne galianoae
+{{Taxobox
+|name = Myrmarachne galianoae
+|status = 
+|image = 
+|image_caption = 
+|domain = 
+|regnum = [[Animalia]]
+|phylum = [[Arthropoda]]
+|classis = [[Arachnida]]
+|ordo = [[Araneae]]
+|familia = [[Salticidae]]
+|genus =Myrmarachne
+|species = Myrmarachne galianoae
+|binomial = Myrmarachne galianoae
+|binomial_authority =Cutler, 1981
+|range_map = 
+|range_map_caption = 
+|image2 = 
+|image2_caption = 
+|synonyms = 
+}}
+'''''Myrmarachne galianoae''''' adalah spesies [[laba-laba]] yang tergolong [[familia]] [[Salticidae]]. Spesies ini juga merupakan bagian dari genus [[Myrmarachne]] dan ordo [[Araneae]]. Nama ilmiah dari spesies ini pertama kali diterbitkan pada tahun 1981 oleh Cutler.
+
+Laba-laba ini biasanya banyak ditemui di Bolivia.
+
+== Referensi ==
+
+* Platnick, Norman I. (2010): [http://research.amnh.org/entomology/spiders/catalog/LINYPHIIDAE.html The world spider catalog], version 10.5. ''American Museum of Natural History''.
+
+{{DEFAULTSORT:Myrmarachne galianoae}}
+
+[[Kategori:Salticidae]]
+
+{{labalaba-stub}}

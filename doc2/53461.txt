@@ -1,0 +1,13 @@
+Tanda tanya
+{{tanda baca|?}}
+
+'''Tanda tanya''' adalah salah satu [[tanda baca]] yang digunakan untuk menandakan akhir kalimat pada kalimat pertanyaan. Dalam komputasi digital, simbol tanda tanya diwakili dengan kode [[ASCII]] 63 dan [[Unicode]] U+003F.
+Contoh pertanyaannya:
+# Apakah kamu sudah makan?
+# Bagaimana perasaanmu sekarang?
+# Kenapa?
+# Ada yang bisa saya bantu?
+
+{{linguistik-stub}}
+
+[[Kategori:Tanda baca]]

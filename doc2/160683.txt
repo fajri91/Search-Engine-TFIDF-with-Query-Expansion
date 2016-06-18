@@ -1,0 +1,28 @@
+Kelumpuhan
+{{Penyangkalan-medis}}
+{{Infobox Disease |
+  Name           = {{PAGENAME}} |
+  Image          = |
+  Caption        = |
+  DiseasesDB     = |
+  ICD10          = |
+  ICD9           = |
+  ICDO           = |
+  OMIM           = |
+  MedlinePlus    = |
+  eMedicineSubj  = |
+  eMedicineTopic = |
+  MeshID         = D010243 |
+}}
+
+'''Kelumpuhan''' atau '''paralisis''' adalah hilangnya fungsi [[otot]] untuk satu atau banyak otot. Kelumpuhan dapat menyebabkan hilangnya perasaan atau hilangnya mobilitas di wilayah yang terpengaruh.
+
+Kelumpuhan sering disebabkan akibat kerusakan pada [[otak]].
+
+== Pranala luar ==
+* http://library.usu.ac.id/download/fk/D0400193.pdf 
+
+{{medis-stub}}
+
+[[Kategori:Penyakit saraf]]
+[[Kategori:Gejala penyakit]]

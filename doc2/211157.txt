@@ -1,0 +1,3 @@
+Templat:Australian Dictionary of Biography
+{{cite web | last = {{{last}}} | first = {{{first}}} | {{#if:{{{authorlink|}}}| authorlink = {{{authorlink}}}|}} | year = {{{year}}} | {{#if:{{{volume|}}}| volume = {{{volume}}}|}} | url = http://www.adb.online.anu.edu.au/biogs/{{{id}}}.htm | title = {{{title}}} | work = [[Australian Dictionary of Biography]]|publisher = [[Australian National University]] | accessdate = {{{accessdate}}} }}<noinclude>[[Kategori:Templat pranala luar]]
+</noinclude>

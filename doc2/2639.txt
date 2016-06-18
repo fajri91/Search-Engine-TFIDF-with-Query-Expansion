@@ -1,0 +1,199 @@
+Program komputer
+'''Program komputer''' atau sering kali disingkat sebagai '''program''' adalah serangkaian instruksi yang ditulis untuk melakukan suatu fungsi spesifik pada [[komputer]].<ref name="pis-ch4-p132">{{cite book
+|last = Stair
+|first = Ralph M., et al.
+|title = Principles of Information Systems, Sixth Edition
+|publisher = Thomson Learning, Inc.
+|year = 2003
+|pages = 132
+|isbn = 0-619-06489-7
+}}</ref> Komputer pada dasarnya membutuhkan keberadaan program agar bisa menjalankan fungsinya sebagai komputer, biasanya hal ini dilakukan dengan cara mengeksekusi serangkaian instruksi program tersebut pada [[prosesor]].<ref name="osc-ch3-p58">{{cite book
+|last = Silberschatz
+|first = Abraham
+|title = Operating System Concepts, Fourth Edition
+|publisher = Addison-Wesley
+|year = 1994
+|pages = 58
+|isbn = 0-201-50480-4
+}}</ref> Sebuah program biasanya memiliki suatu bentuk model pengeksekusian tertentu agar dapat secara langsung dieksekusi oleh komputer. Program yang sama dalam format kode yang dapat dibaca oleh manusia disebut sebagai [[kode sumber]], bentuk program yang memungkinkan [[programmer]] menganalisis serta melakukan penelaahan algoritma yang digunakan pada program tersebut. Kode sumber tersebut pada akhirnya [[kompiler|dikompilasi]] oleh utilitas bahasa pemrograman tertentu sehingga membentuk sebuah program. bentuk alternatif lain model pengeksekusian sebuah program adalah dengan menggunakan bantuan [[interpreter]], kode sumber tersebut langsung dijalankan oleh utilitas interpreter suatu bahasa pemrograman yang digunakan.
+
+Beberapa program komputer dapat dijalankan pada sebuah komputer pada saat bersamaan, kemampuan komputer untuk menjalankan beberapa program pada saat bersamaan disebut sebagai [[multitasking]]. Program komputer dapat dikategorikan menurut fungsinya; [[perangkat lunak sistem]] atau [[perangkat lunak aplikasi]].
+
+== Pemrograman komputer ==
+{{main|Pemrograman komputer}}
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;">
+<div style="width:240px;" style="font-size: 12px; font-family: monospace; background-color: #ffffff; text-align: left">
+<nowiki>#</nowiki>include &lt;stdio.h&gt;<br />
+<br />
+int main()<br />
+{<br />
+<div style="margin-left: 10%">
+printf("Hello world!\n"); <br />
+return 0; <br />
+</div>
+} <br />
+</div>
+<div class="thumbcaption">
+Kode sumber sebuah program yang ditulis dengan bahasa pemrograman {{program|C}}
+</div>
+</div>
+</div>
+Pemrograman komputer merupakan suatu proses iteratif penulisan dan penyuntingan kode sumber sehingga membentuk sebuah program. Penyuntingan kode sumber meliputi proses pengetesan, analisis, pembetulan kesalahan, pengoptimasian algoritma, normalisasi kode, dan kadang-kadang pengkoordinasian antara satu programmer dengan programmer lainnya jika sebuah program dikerjakan oleh beberapa orang dalam sebuah tim. Seorang praktisi yang memiliki keahlian untuk melakukan penulisan kode dalam bahasa pemrograman disebut sebagai [[programmer]] komputer atau programmer, pengembang perangkat lunak, atau koder. Istilah '''rekayasa perangkat lunak''' ({{lang-en|Software engineering}}) seringkali digunakan karena proses penulisan program tersebut dipandang sebagai suatu disiplin ilmu perekayasaan.
+
+=== Paradigma ===
+{{main|Paradigma pemrograman}}
+
+Program komputer dapat dikategorikan menurut paradigma bahasa pemrograman yang digunakannya. Dua paradigma utama yang umum digunakan adalah [[pemrograman imperatif|imperatif]] dan [[bahasa deklaratif|deklaratif]].
+
+Program yang ditulis dalam bahasa pemrograman imperatif biasanya memiliki algoritma yang ditulis dalam serangkaian klausal pendeklarasian, ekspresi aritmatis, dan sejumlah perintah.<ref name="cpl-ch4-75">{{cite book
+|last = Wilson
+|first = Leslie B.
+|title = Comparative Programming Languages, Second Edition
+|publisher = Addison-Wesley
+|year = 1993
+|pages = 75
+|isbn = 0-201-56885-3
+}}</ref> Pendeklarasian meliputi pendeklarasian variabel serta tipe data atas variabel tersebut, contoh: <code> var x: integer; </code> Penggunaan ekpresi operasi aritmatis yang menghasilkan nilai, contoh: <code> 2 + 2 </code> menghasilkan nilai <code>4</code>. Dan perintah yang melingkupi pendelegasian nilai atas hasil dari operasi aritmatis tersebut ke dalam sebuah variabel, contoh: <code> x := 2 + 2; if x = 4 then lakukan_sesuatu(); </code> Salah satu bentuk kritik atas implementasi imperatif ini adalah efek samping yang timbul atas pendelegasian perintah terhadap variabel yang berada di luar cakupan dari fungsi tersebut atau lebih dikenal sebagai ''non-local variable''.<ref name="cpl-ch9-213">{{cite book
+|last = Wilson
+|first = Leslie B.
+|title = Comparative Programming Languages, Second Edition
+|publisher = Addison-Wesley
+|year = 1993
+|pages = 213
+|isbn = 0-201-56885-3
+}}</ref>
+
+Program yang ditulis dengan bahasa deklaratif meliputi sejumlah properti yang harus dipenuhi untuk mendapatkan suatu bentuk hasil tertentu. Properti tersebut tidak mencerminkan suatu gambaran atas proses kerja suatu program namun merupakan suatu bentuk deklarasi relasional matematis atas sejumlah objek melaui properti-propertinya. Dua bagian utama atas pemrograman deklaratif adalah [[Pemrograman Fungsional|bahasa pemrograman fungsional]] dan [[pemrograman logikal|bahasa pemrograman logikal]]. Prinsip dasar dibalik bahasa pemrograman fungsional ([[Haskell]]) adalah mencegah timbulnya efek samping seperti yang terdapat pada model pemrograman imperatif sehingga membuatnya lebih mudah untuk digunakan membuat program yang melakukan sejumlah operasi matematis.<ref name = "cpl-ch9-213"/> Sementara itu, prinsip dari sebuah bahasa pemrograman logikal ([[Prolog]]) adalah mendefinisikan permasalahan yang hendak diselesaikan, tujuan yang hendak dicapai, dan membiarkan sistem melakukan analisis atas detail solusi terhadap permasalahan tersebut.<ref name="cpl-ch10-244">{{cite book
+|last = Wilson
+|first = Leslie B.
+|title = Comparative   Programming Languages, Second Edition
+|publisher = Addison-Wesley
+|year = 1993
+|pages = 244
+|isbn = 0-201-56885-3
+}}</ref> Tujuan utama atas sebuah program didefinisikan dengan cara membuat sejumlah tujuan-tujuan yang lebih kecil, kemudian pada tiap-tiap tujuan tersebut secara lebih lanjut didefinisikan tujuan-tujuan lain yang lebih kecil lagi, dan begitu seterusnya. Jika suatu arahan tujuan yang didefinisikan gagal digunakan untuk menemukan solusi atas suatu permasalahan, maka arahan tujuan anakan yang lebih kecil akan di telusuri ulang, dan arahan lainnya akan diujicobakan.
+
+Bentuk dari cara sebuah program dibuat bisa berupa tekstual ataupun visual. Dalam pemrograman visual, elemen-elemen program biasanya dimanipulasi secara grafis, sementara bila dibuat secara tekstual artinya sebuah program ditulis secara manual.
+
+=== Kompilasi atau interpretasi ===
+Program komputer dalam bentuk yang dapat dibaca oleh manusia biasanya disebuat sebagai [[kode sumber]]. Kode sumber dapat dikonversikan menjadi bentuk berkas yang dapat dieksekusi secara langsung oleh komputer. Proses pengkonversian ini disebut sebagai proses kompilasi dan biasanya dilakukan sebuah program utilitas dari bahasa pemrograman yang digunakan yang disebut sebagai [[kompiler]]. Pada beberapa bahasa pemrograman tertentu, kode sumber dapat langsung dieksekusi sebagai sebuah program dengan menggunakan bantuan utilitas yang disebut sebagai [[interpreter]].
+
+Baik melalui proses kompilasi ataupun interpretatif, eksekusi program dapat dilakukan dalam sebuah proses ''batch'' tanpa membutuhkan interaksi dengan manusia, namun program interpretatif memungkinkan pengguna untuk menulis perintah dalam suatu sesi interaktif. Pada kasus ini sebuah program dieksekusi sebagai sebuah perintah, yang kemudian dieksekusi baik secara serial ataupun paralel. Bahasa pemrograman yang menyediakan fitur interaktif seperti ini dinamakan sebagai [[bahasa skrip]].
+
+Kompiler digunakan untuk menerjemahkan kode sumber dari suatu bahasa pemrograman menjadi [[kode objek]] ataupun [[kode mesin]]. Kode objek biasanya membutuhkan proses lebih lanjut sehingga dapat menjadi kode mesin, dan kode mesin merupakan instruksi-instruksi yang dikenali dan dapat secara langsung dieksekusi oleh prosesor. Program komputer yang telah terkompilasi biasanya disebut sebagai berkas eksekutabel, ataupun berkas biner; yang merujuk pada bentuk sistem biner yang digunakan untuk menyimpan kode mesin tersebut.
+
+Program komputer yang diinterpretasikan -baik secara ''batch'' ataupun dalam modus interaktif- biasanya akan diterjemahkan terlebih dulu ke dalam sejumlah token baru kemudian dieksekusi, atau bisa juga token-token tersebut dioptimasi lebih lanjut sehingga menjadi sejumlah instruksi yang memiliki tingkat efisiensi yang lebih baik dan disimpan sebagai berkas [[P-Code]] terpisah untuk dieksekusi kemudian oleh interpreter. [[BASIC]], [[Perl]], dan {{program|Python}} merupakan beberapa contoh dari bahasa pemrograman yang menyediakan fasilitas penerjemahaan langsung. Alternatif lainnya, program komputer yang ditulis dalam bahasa pemrograman [[Java]] merupakan hasil kompilasi kode sumber ke dalam [[bytcode]] yang kemudian dieksekusi oleh interpreter yang disebut sebagai [[mesin virtual java]].
+
+Kerugian utama pemanfaatan interpreter adalah unjuk kerja program biasanya lebih lambat dibandingkan dengan program yang dikompilasi terlebih dulu. Namun keuntungannya proses pengembangan perangkat lunak biasanya bisa dilakukan lebih cepat karena proses pengetesan atas berjalannya program dapat dilakukan dalam waktu yang relatif singkat. Tanpa memerlukan tahapan-tahapan kompilasi sebelumnya. Kerugian lainnya adalah, untuk dapat menjalankan program tersebut, utilitas interpreter harus disertakan dalam setiap pendistribusian, berbeda halnya dengan program terkompilasi yang dapat didistribusikan tanpa menyertakan kompiler bahasa yang digunakan karena sifatnya yang sudah dalam bentuk [[kode mesin]]. 
+
+Umumnya saat ini bahasa-bahasa pemrograman interpretatif telah dilengkapi pula dengan kompiler JIT (''Just in Time'') yang akan menganalisis serta menerjemahkan instruksi-instruksi yang paling sering digunakan ke dalam bahasa mesin pada saat program dijalankan sehingga tingkat unjuk kerjanya dapat ditingkatkan mengimbangi unjuk kerja program yang terkompilasi.
+
+== Eksekusi dan penyimpanan ==
+Sebuah program komputer biasanya akan disimpan terlebih dahulu dalam memori utama ([[RAM]]) komputer sebelum dijalankan yang biasanya dilakukan oleh [[sistem operasi]]. Prosesor kemudian akan mengeksekusi program tersebut, instruksi demi instruksi sampai program tersebut diterminasi. Sebuah program yang tengah dieksekusi oleh prosesor dinamakan sebagai [[proses (komputasi)|proses]].<ref name="osc-ch4-97">{{cite book
+|last = Silberschatz
+|first = Abraham
+|title = Operating System Concepts, Fourth Edition
+|publisher = Addison-Wesley
+|year = 1994
+|pages = 97
+|isbn = 0-201-50480-4
+}}</ref> Terminasi ataupun penghentian eksekusi sebuah program biasanya terjadi baik karena permintaan dari pengguna, interupsi pengguna, kesalahan atas program itu sendiri, ataupun kesalahan atas perangkat keras yang digunakan.
+
+=== Program terpancang ===
+[[Berkas:USB flash drive.JPG|thumb|230px|left|[[microcontroller]] di sebelah kanan dari [[USB flash drive]] di atas dikontrol melalui sebuah program terpancang.]]
+Beberapa program komputer tertentu dipancangkan langsung pada perangkat kerasnya sebagai program yang dipanggil untuk kebutuhan identifikasi serta inisialisasi atas berbagai aspek untuk memastikan perangkat keras tersebut berfungsi.<ref name="osc-ch2-p30">{{cite book
+|last = Silberschatz
+|first = Abraham
+|title = Operating System Concepts, Fourth Edition
+|publisher = Addison-Wesley
+|year = 1994
+|pages = 30
+|isbn = 0-201-50480-4
+}}</ref> Saat proses inisialisasi tersebut, program terpancang tersebut akan dipanggil oleh sistem operasi, program terpancang tersebut kemudian akan menjembatani penggunaan perangkat keras tersebut sehingga sistem operasi dapat menggunakannya dengan baik.<ref name="sco-ch1-p11">{{cite book
+|last = Tanenbaum
+|first = Andrew S.
+|title = Structured Computer Organization, Third Edition
+|publisher = Prentice Hall
+|year = 1990
+|pages = 11
+|isbn = 0-13-854662-2
+}}</ref>
+
+=== Pemrograman manual ===
+[[Berkas:Dg-nova3.jpg|thumb|230px|right|pengalih untuk input manual pada sebuah komputer Data General Nova 3]]
+Program komputer awalnya diinput secara manual ke [[prosesor]] utama dengan memanfaatkan sejumlah pengalih sebagai representasi atas instruksi yang atas status konfigurasi on/off. Setelah menetapkan konfigurasi tersebut, tombol eksekusi akan ditekan. Proses ini kemudian dilakukan secara iteratif. Program komputer dalam sejarahnya pernah juga ditulis melalui ''paper tape' atau ''punched cards''. Setelah dimasukkan dan alamat awal eksekusi telah dimasukkan, tombol eksekusi akan ditekan.<ref name="osc-ch1-p6">{{cite book
+|last = Silberschatz
+|first = Abraham
+|title = Operating System Concepts, Fourth Edition
+|publisher = Addison-Wesley
+|year = 1994
+|pages = 6
+|isbn = 0-201-50480-4
+}}</ref>
+
+=== Pembuatan program otomatis ===
+[[Pemrograman generatif]] merupakan sebuah tipikial dari pemrograman komputer yang akan membuat kode sumber melalui kelas-kelas generik, prototipe, aspek, templat, dan pembuat kode (''code generator'') untuk meningkatkan produktifitas programmer. Kode sumber yang dibuat oleh utilitas pemrograman tersebut misalnya pemroses templat pada sebuah [[integrated development environment|IDE]]. Bentuk yang paling sederhana adalah pemroses makro yang terdapat pada [[bahasa pemrograman]] {{program|C}}.
+
+== Eksekusi simultan ==
+Umumnya [[sistem operasi]] yang ada saat ini sudah mendukung pemanfaatan [[multitasking]] yang memungkinkan beberapa program komputer dijalankan pada saat yang bersamaan di sebuah komputer. Untuk dapat menjalankan beberapa program tersebut pada saat yang bersamaan, sistem operasi memanfaatkan mekanisme penjadualan proses yang merupakan suatu mekanisme yang akan mengatur pengalihan prosesor dalam melakukan pemrosesan sehingga beberapa program komputer tersebut dapat berinteraksi dengan pengguna saat dijalankan.<ref name="osc-ch4-100">{{cite book
+|last = Silberschatz
+|first = Abraham
+|title = Operating System Concepts, Fourth Edition
+|publisher = Addison-Wesley
+|year = 1994
+|pages = 100
+|isbn = 0-201-50480-4
+}}</ref> Di sisi perangkat keras yang digunakan, prosesor modern saat ini umumnya telah mendukung beberapa core prosesor yang dipancangkan sebagai sebuah prosesor yang memungkinkannya menjalankan beberapa program sekaligus.<ref name="mcore">{{cite book
+|last = Akhter
+|first = Shameem
+|title = Multi-Core Programming
+|publisher = Richard Bowles (Intel Press)
+|year = 2006
+|pages = 1113
+|isbn = 0-9764832-4-6
+}}</ref>
+
+Sebuah program komputer dapat melakukan kalkulasi secara simultan pada beberapa jenis operasi di saat yang bersamaan dengan memanfaatkan [[thread]] atau sebagai proses terpisah. Umumnya prosesor yang ada saat ini sudah mendukung arsitektur ''multithreading'' yang teroptimasi untuk menjalankan beberapa thread secara efisien.
+
+== Lihat pula ==
+* [[Perangkat lunak komputer]]
+* [[Bahasa pemrograman]]
+* [[Kompiler]]
+* [[Interpreter]]
+
+== Pustaka ==
+{{refbegin}}
+* {{cite book
+|last = Knuth
+|first = Donald E.
+|title = The Art of Computer Programming, Volume 1, 3rd Edition
+|year = 1997
+|publisher = Addison-Wesley
+|location = Boston
+|isbn = 0-201-89683-4
+}}
+* {{cite book
+|last=Knuth
+|first=Donald E.
+|title=The Art of Computer Programming, Volume 2, 3rd Edition
+|year=1997
+|publisher=Addison-Wesley
+|location = Boston
+|isbn=0-201-89684-2
+}}
+* {{cite book
+|last=Knuth
+|first=Donald E.
+|title=The Art of Computer Programming, Volume 3, 3rd Edition
+|year=1997
+|publisher=Addison-Wesley
+|location = Boston
+|isbn=0-201-89685-0
+}}{{refend}}
+
+== Referensi ==
+{{reflist}}
+
+[[Kategori:Perangkat lunak]]
+[[Kategori:Pemrograman komputer]]

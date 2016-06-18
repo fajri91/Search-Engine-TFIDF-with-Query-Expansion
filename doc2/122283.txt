@@ -1,0 +1,84 @@
+Bandar Udara Wick
+{{Infobox airport 
+| name         = Wick Airport
+| nativename   = 
+| nativename-a = 
+| nativename-r = 
+| image        = Wick Airport.jpg
+| image-width  = 200
+| caption      = Wick Airport terminal
+| IATA         = WIC
+| ICAO         = EGPC
+| type         = Private
+| owner-oper   = [[Highlands and Islands Airports Limited]]
+| city-served  = [[Wick, Highland]]
+| location     = Wick, Highland
+| elevation-f  = 126
+| elevation-m  = 38
+| coordinates  = {{Coord|58|27|32|N|03|05|35|W|type:airport_region:GB}}
+| latd = 58 | latm = 27 | lats = 32 | latNS = N
+| longd= 003 | longm= 05 | longs= 35 | longEW= W
+| coordinates_type       = airport
+| coordinates_region     = GB
+| pushpin_map            = Scotland Highland
+| pushpin_label          = EGPC
+| pushpin_map_caption    = Location in Highland
+| website      = [http://www.hial.co.uk/wick-airport.html Wick Airport]
+| metric-rwy   = Y
+| r1-number    = 13/31
+| r1-length-f  = 5,988
+| r1-length-m  = 1,825
+| r1-surface   = Grooved [[Aspal]]
+| stat-year    = 
+| stat1-header = 
+| stat1-data   = 
+| stat2-header = 
+| stat2-data   = 
+| footnotes    = Sources: UK [[Aeronautical Information Publication|AIP]] at [[National Air Traffic Services|NATS]]<ref name="aip">[http://www.nats-uk.ead-it.com/public/index.php%3Foption=com_content&task=blogcategory&id=154&Itemid=203.html Wick - EGPC]</ref>
+}}
+
+'''Bandar Udara Wick''' {{airport codes|WIC|EGPC}} terletak dekat kota [[Wick, Highland|Wick]] di [[Caithness]] di ujung utara daratan [[Skotlandia]], Bandar udara ini dimiliki dan dikelola oleh [[Highlands and Islands Airports Limited]].
+
+Bandar udara ini menyediakan kesempatan bepergian untuk penduduk Caithness yang agak terisolasi, termasuk penerbangan menuju [[Bandar Udara Aberdeen]]. Fasilitas ini juga sering digunakan oleh [[helikopter]] yang melayani operasi minyak lepas pantai lokal, dan sebagai perhentian bagi penerbangan [[pesawat kecil]] antara [[Eropa]] dan [[Amerika Utara]] melalui [[Islandia]].
+
+== Maskapai penerbangan dan kota tujuan ==
+{{Airport-dest-list
+|[[Eastern Airways]]|Aberdeen 
+|[[Flybe]] operated by [[Loganair]]|Edinburgh
+}}
+
+==Statistik lalu lintas tahun 2011==
+{|class="wikitable sortable" style="font-size: 95%" width= align=
+|+ '''Busiest Routes to and from Wick Airport (2011)<ref>[http://www.caa.co.uk/docs/80/airport_data/2011Annual/Table_12_1_Intl_Air_Pax_Route_Analysis_2011.pdf]</ref>'''
+|- bgcolor=lightgrey
+! Peringkat || Airport || Penumpang yang ditangani
+|-
+|1 || {{flagcountry|United Kingdom}} - [[Aberdeen]] || 14,798
+|-
+|2 || {{flagcountry|United Kingdom}} - [[Edinburgh Airport]] || 9,116
+|-
+|3 || {{flagcountry|Faroe Islands}} - [[Vagar Airport]] || 240
+|-
+|4 || {{flagcountry|Denmark}} - [[Copenhagen Airport]] || 162
+|-
+|5 || {{flagcountry|United Kingdom}} - [[Farnborough Airport]] || 67
+|-
+|6 || {{flagcountry|Norway}} - [[Oslo Airport]] || 58
+|-
+|7 || {{flagcountry|United Kingdom}} - [[South Marston Airfield]] || 43
+|-
+|8 || {{flagcountry|Switzerland}} - [[Geneva Airport]] || 31
+|-
+|}
+
+==Referensi==
+{{reflist}}
+
+== Pranala luar ==
+* [http://www.hial.co.uk/wick-airport.html Official website] of Wick Airport
+{{oscoor gbx|ND362526}}
+
+{{bandara-Skotlandia}}
+{{bandara-eropa-stub}}
+
+[[Kategori:Bandar udara di Skotlandia|W]]

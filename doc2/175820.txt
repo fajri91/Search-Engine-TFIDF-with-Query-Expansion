@@ -1,0 +1,5 @@
+Templat:Perenangwn
+<includeonly>{{kategori tokoh|pekerjaan=Olahragawan|bidang=Perenang|negara={{{negara}}}}}[[Kategori:Perenang menurut kewarganegaraan|{{{negara}}}]]
+[[Kategori:Olahragawan {{{negara}}}|Renang]]
+{{#if:{{{parentkat|}}}|[[Kategori:Perenang {{{parentkat}}}|{{{negara}}}]]|}}</includeonly><noinclude>{{dokumentasi}}
+[[Kategori:Templat kategori menurut kewarganegaraan|{{PAGENAME}}]]</noinclude>
